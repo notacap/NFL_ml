@@ -1,0 +1,32 @@
+Player,Tm,Def Interceptions Int,Def Interceptions Yds,Def Interceptions TD,Def Interceptions Lng,Def Interceptions PD,Sk,Tackles Comb,Tackles Solo,Tackles Ast,Tackles TFL,Tackles QBHits,Fumbles FR,Fumbles Yds,Fumbles TD,Fumbles FF,week,year,game_id
+Theo Jackson,MIN,1,0,0,0,1,0.0,4,4,0,0,0,0,0,0,0,2.0,2023,17
+Danielle Hunter,MIN,0,0,0,0,0,3.0,8,5,3,3,3,0,0,0,0,2.0,2023,17
+Harrison Phillips,MIN,0,0,0,0,0,0.5,13,7,6,0,1,0,0,0,0,2.0,2023,17
+Ivan Pace,MIN,0,0,0,0,0,0.5,8,5,3,0,1,0,0,0,0,2.0,2023,17
+Camryn Bynum,MIN,0,0,0,0,0,0.0,15,6,9,1,0,0,0,0,0,2.0,2023,17
+Jordan Hicks,MIN,0,0,0,0,0,0.0,11,8,3,1,0,0,0,0,0,2.0,2023,17
+Josh Metellus,MIN,0,0,0,0,0,0.0,9,6,3,0,0,0,0,0,0,2.0,2023,17
+Akayleb Evans,MIN,0,0,0,0,1,0.0,7,3,4,0,0,0,0,0,0,2.0,2023,17
+Harrison Smith,MIN,0,0,0,0,0,0.0,6,4,2,0,0,0,0,0,0,2.0,2023,17
+D.J. Wonnum,MIN,0,0,0,0,0,0.0,4,1,3,0,0,0,0,0,0,2.0,2023,17
+Brian Asamoah,MIN,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,2.0,2023,17
+Patrick Jones II,MIN,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,2.0,2023,17
+Byron Murphy,MIN,0,0,0,0,1,0.0,2,1,1,0,0,0,0,0,0,2.0,2023,17
+Mekhi Blackmon,MIN,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,2.0,2023,17
+Jonathan Bullard,MIN,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,2.0,2023,17
+Troy Dye,MIN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,1,2.0,2023,17
+Dean Lowry,MIN,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,2.0,2023,17
+Jordan Davis,PHI,0,0,0,0,0,1.0,2,1,1,1,2,0,0,0,0,2.0,2023,17
+Josh Sweat,PHI,0,0,0,0,0,1.0,1,1,0,0,5,0,0,0,1,2.0,2023,17
+Zach Cunningham,PHI,0,0,0,0,0,0.0,8,5,3,1,0,0,0,0,0,2.0,2023,17
+Terrell Edmunds,PHI,0,0,0,0,0,0.0,6,5,1,0,0,0,0,0,1,2.0,2023,17
+Josh Jobe,PHI,0,0,0,0,0,0.0,6,5,1,0,0,0,0,0,0,2.0,2023,17
+Darius Slay,PHI,0,0,0,0,1,0.0,6,5,1,0,0,0,0,0,0,2.0,2023,17
+Mario Goodrich,PHI,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0,2.0,2023,17
+Justin Evans,PHI,0,0,0,0,1,0.0,3,3,0,0,0,1,0,0,1,2.0,2023,17
+Nicholas Morrow,PHI,0,0,0,0,0,0.0,3,3,0,0,1,1,0,0,0,2.0,2023,17
+Jalen Carter,PHI,0,0,0,0,0,0.0,2,2,0,1,0,0,0,0,0,2.0,2023,17
+Avonte Maddox,PHI,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,1,2.0,2023,17
+Fletcher Cox,PHI,0,0,0,0,0,0.0,1,0,1,0,2,1,8,0,0,2.0,2023,17
+Kelee Ringo,PHI,0,0,0,0,0,0.0,1,1,0,0,0,1,0,0,0,2.0,2023,17
+Milton Williams,PHI,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2023,17

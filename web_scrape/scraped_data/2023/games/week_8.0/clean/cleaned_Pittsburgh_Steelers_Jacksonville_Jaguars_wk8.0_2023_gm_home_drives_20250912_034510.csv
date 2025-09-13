@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,PIT 25,3,0:57,-5,Punt,1,Steelers,8.0,2023,113
+2,1,10:47,PIT 25,3,1:24,4,Punt,1,Steelers,8.0,2023,113
+3,1,5:54,PIT 25,3,1:27,8,Punt,1,Steelers,8.0,2023,113
+4,1,0:23,PIT 29,3,1:48,2,Punt,1,Steelers,8.0,2023,113
+5,2,10:15,PIT 2,12,6:16,93,Field Goal,1,Steelers,8.0,2023,113
+6,2,1:04,PIT 32,6,1:04,25,Missed FG,1,Steelers,8.0,2023,113
+7,3,10:22,PIT 36,3,1:25,-9,Punt,1,Steelers,8.0,2023,113
+8,3,7:33,PIT 11,5,2:15,16,Punt,1,Steelers,8.0,2023,113
+9,3,5:05,PIT 25,8,4:12,75,Touchdown,1,Steelers,8.0,2023,113
+10,4,10:14,PIT 20,2,0:54,7,Interception,1,Steelers,8.0,2023,113
+11,4,4:35,PIT 25,9,2:10,15,Downs,1,Steelers,8.0,2023,113
+12,4,1:52,PIT 2,9,1:52,57,Interception,1,Steelers,8.0,2023,113

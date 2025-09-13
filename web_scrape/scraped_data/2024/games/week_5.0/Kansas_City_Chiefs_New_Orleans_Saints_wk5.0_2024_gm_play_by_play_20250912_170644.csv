@@ -1,0 +1,176 @@
+Quarter,Time,Down,ToGo,Location,NOR,KAN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Saints won the coin toss, Saints to receive the opening kickoff.",,,5.0,2024,78
+1.0,15:00,,,KAN 35,0.0,0.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.94,5.0,2024,78
+1.0,15:00,1.0,10.0,NOR 30,0.0,0.0,Derek Carr pass complete short right to Juwan Johnson for 7 yards (tackle by Nick Bolton),0.94,1.34,5.0,2024,78
+1.0,14:26,2.0,3.0,NOR 37,0.0,0.0,Alvin Kamara left guard for 2 yards (tackle by Leo Chenal),1.34,0.89,5.0,2024,78
+1.0,13:53,3.0,1.0,NOR 39,0.0,0.0,Alvin Kamara left end for 9 yards (tackle by Bryan Cook),0.89,2.13,5.0,2024,78
+1.0,13:13,1.0,10.0,NOR 48,0.0,0.0,Jamaal Williams left end for 9 yards (tackle by Bryan Cook),2.13,2.8,5.0,2024,78
+1.0,12:40,2.0,1.0,KAN 43,0.0,0.0,Derek Carr pass complete short left to Chris Olave for 4 yards (tackle by Trent McDuffie),2.8,2.98,5.0,2024,78
+1.0,12:06,1.0,10.0,KAN 39,0.0,0.0,Derek Carr pass deep right intended for Rashid Shaheed is intercepted by Bryan Cook at KC-22 and returned for no gain (tackle by Rashid Shaheed),2.98,-0.41,5.0,2024,78
+1.0,11:59,1.0,10.0,KAN 22,0.0,0.0,Kareem Hunt right guard for 3 yards (tackle by Carl Granderson and Anfernee Orji),0.41,0.27,5.0,2024,78
+1.0,11:22,2.0,7.0,KAN 25,0.0,0.0,Patrick Mahomes scrambles left end for 9 yards (tackle by Marshon Lattimore),0.27,1.2,5.0,2024,78
+1.0,10:54,1.0,10.0,KAN 34,0.0,0.0,Kareem Hunt left guard for 4 yards (tackle by Khalen Saunders),1.2,1.2,5.0,2024,78
+1.0,10:17,2.0,6.0,KAN 38,0.0,0.0,Kareem Hunt right guard for 3 yards (tackle by Bryan Bresee and Chase Young),1.2,0.89,5.0,2024,78
+1.0,9:48,3.0,3.0,KAN 41,0.0,0.0,Patrick Mahomes pass complete short left to Travis Kelce for 4 yards (tackle by Alontae Taylor),0.89,1.93,5.0,2024,78
+1.0,9:10,1.0,10.0,KAN 45,0.0,0.0,Patrick Mahomes pass complete short middle to Travis Kelce for 21 yards (tackle by Tyrann Mathieu),1.93,3.31,5.0,2024,78
+1.0,8:33,1.0,10.0,NOR 34,0.0,0.0,Patrick Mahomes pass complete short right to Travis Kelce for 6 yards (tackle by Khalen Saunders),3.31,3.58,5.0,2024,78
+1.0,7:59,2.0,4.0,NOR 28,0.0,0.0,Kareem Hunt left guard for 8 yards (tackle by Anfernee Orji and Will Harris),3.58,4.24,5.0,2024,78
+1.0,7:19,1.0,10.0,NOR 20,0.0,0.0,Patrick Mahomes pass complete short middle to Noah Gray for 15 yards (tackle by Will Harris),4.24,6.06,5.0,2024,78
+1.0,6:40,1.0,5.0,NOR 5,0.0,6.0,"Kareem Hunt right guard for 5 yards, touchdown",6.06,7.0,5.0,2024,78
+1.0,6:34,,,NOR 15,0.0,7.0,Harrison Butker kicks extra point good,0.0,0.0,5.0,2024,78
+1.0,6:34,,,KAN 35,0.0,7.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.94,5.0,2024,78
+1.0,6:34,1.0,10.0,NOR 30,0.0,7.0,Alvin Kamara left end for 3 yards (tackle by Jaylen Watson and Drue Tranquill),0.94,0.8,5.0,2024,78
+1.0,5:51,2.0,7.0,NOR 33,0.0,7.0,Derek Carr pass incomplete deep right intended for Mason Tipton,0.8,0.1,5.0,2024,78
+1.0,5:45,3.0,7.0,NOR 33,0.0,7.0,Derek Carr pass complete short right to Mason Tipton for 2 yards (tackle by Chamarri Conner),0.1,-1.04,5.0,2024,78
+1.0,4:57,4.0,5.0,NOR 35,0.0,7.0,"Matthew Hayball punts 49 yards, returned by Mecole Hardman for 7 yards (tackle by D'Marco Jackson)",-1.04,-0.48,5.0,2024,78
+1.0,4:49,1.0,10.0,KAN 23,0.0,7.0,Patrick Mahomes pass incomplete short left,0.48,-0.07,5.0,2024,78
+1.0,4:46,2.0,10.0,KAN 23,0.0,7.0,Kareem Hunt left end for 3 yards (tackle by Demario Davis),-0.07,-0.36,5.0,2024,78
+1.0,4:04,3.0,7.0,KAN 26,0.0,7.0,"Penalty on Jawaan Taylor: False Start, 5 yards (accepted) (no play)",-0.36,-1.02,5.0,2024,78
+1.0,3:49,3.0,12.0,KAN 21,0.0,7.0,Patrick Mahomes pass incomplete deep middle intended for Travis Kelce,-1.02,-1.96,5.0,2024,78
+1.0,3:43,4.0,12.0,KAN 21,0.0,7.0,"Matt Araiza punts 56 yards, returned by Rashid Shaheed for 10 yards (tackle by Jack Cochrane). Penalty on Rico Payton: Defensive Holding, 10 yards (accepted)",-1.96,-0.48,5.0,2024,78
+1.0,3:28,1.0,10.0,NOR 23,0.0,7.0,"Penalty on Taliese Fuaga: False Start, 5 yards (accepted) (no play)",0.48,0.0,5.0,2024,78
+1.0,3:28,1.0,15.0,NOR 18,0.0,7.0,Alvin Kamara right end for 2 yards (tackle by Chris Jones and Mike Pennel),0.0,-0.47,5.0,2024,78
+1.0,2:50,2.0,13.0,NOR 20,0.0,7.0,Derek Carr pass incomplete short right intended for Rashid Shaheed,-0.47,-1.15,5.0,2024,78
+1.0,2:44,3.0,13.0,NOR 20,0.0,7.0,Derek Carr pass incomplete deep middle intended for Rashid Shaheed,-1.15,-2.03,5.0,2024,78
+1.0,2:37,4.0,13.0,NOR 20,0.0,7.0,"Matthew Hayball punts 53 yards, returned by Mecole Hardman for 13 yards (tackle by Rico Payton and Johnathan Abram)",-2.03,-1.6,5.0,2024,78
+1.0,2:26,1.0,10.0,KAN 40,0.0,7.0,Kareem Hunt left end for 7 yards (tackle by Demario Davis),1.6,2.0,5.0,2024,78
+1.0,1:54,2.0,3.0,KAN 47,0.0,7.0,Patrick Mahomes pass complete short left to Jody Fortson for 5 yards (tackle by D'Marco Jackson),2.0,2.39,5.0,2024,78
+1.0,1:21,1.0,10.0,NOR 48,0.0,7.0,Carson Steele left guard for 8 yards (tackle by Demario Davis and Anfernee Orji),2.39,2.93,5.0,2024,78
+1.0,0:45,2.0,2.0,NOR 40,0.0,7.0,Patrick Mahomes pass complete short right to Travis Kelce for 4 yards (tackle by Isaiah Foskey),2.93,3.18,5.0,2024,78
+1.0,0:05,1.0,10.0,NOR 36,0.0,7.0,Kareem Hunt right end for 8 yards (tackle by Paulson Adebo),3.18,3.72,5.0,2024,78
+2.0,15:00,2.0,2.0,NOR 28,0.0,7.0,Patrick Mahomes pass complete short left to Kareem Hunt for 15 yards (tackle by Anfernee Orji),3.72,4.71,5.0,2024,78
+2.0,14:14,1.0,10.0,NOR 13,0.0,7.0,Patrick Mahomes pass complete short middle to Mecole Hardman for 5 yards (tackle by Demario Davis),4.71,4.96,5.0,2024,78
+2.0,13:36,2.0,5.0,NOR 8,0.0,7.0,"Patrick Mahomes pass complete short right to Noah Gray for no gain, touchdown. Penalty on Jawaan Taylor: Offensive Holding, 10 yards (accepted) (no play)",4.96,3.4,5.0,2024,78
+2.0,13:29,2.0,15.0,NOR 18,0.0,7.0,Patrick Mahomes pass complete short middle to Travis Kelce for 10 yards (tackle by Anfernee Orji),3.4,4.1,5.0,2024,78
+2.0,12:51,3.0,5.0,NOR 8,0.0,7.0,Patrick Mahomes pass incomplete short middle intended for Samaje Perine,4.1,2.97,5.0,2024,78
+2.0,12:42,4.0,5.0,NOR 8,0.0,10.0,Harrison Butker 26 yard field goal good,2.97,3.0,5.0,2024,78
+2.0,12:39,,,KAN 35,0.0,10.0,"Harrison Butker kicks off 64 yards, returned by Jamaal Williams for 25 yards (tackle by Cam Jones)",0.0,0.67,5.0,2024,78
+2.0,12:34,1.0,10.0,NOR 26,0.0,10.0,Jamaal Williams up the middle for no gain (tackle by Chris Jones and Michael Danna),0.67,0.13,5.0,2024,78
+2.0,11:56,2.0,10.0,NOR 26,0.0,10.0,Derek Carr pass complete short left to Juwan Johnson for 4 yards (tackle by Trent McDuffie),0.13,-0.03,5.0,2024,78
+2.0,11:17,3.0,6.0,NOR 30,0.0,10.0,Derek Carr pass complete short left to Alvin Kamara for 10 yards (tackle by Drue Tranquill and Nazeeh Johnson),-0.03,1.6,5.0,2024,78
+2.0,10:34,1.0,10.0,NOR 40,0.0,10.0,Alvin Kamara left tackle for 1 yard (tackle by Tershawn Wharton and Nick Bolton),1.6,1.19,5.0,2024,78
+2.0,9:58,2.0,9.0,NOR 41,0.0,10.0,Derek Carr pass complete short middle to Rashid Shaheed for 15 yards (tackle by Justin Reid),1.19,2.65,5.0,2024,78
+2.0,9:19,1.0,10.0,KAN 44,0.0,10.0,Alvin Kamara right guard for 1 yard (tackle by Michael Danna and Tershawn Wharton),2.65,2.25,5.0,2024,78
+2.0,8:43,2.0,9.0,KAN 43,6.0,10.0,"Derek Carr pass complete deep middle to Rashid Shaheed for 43 yards, touchdown",2.25,7.0,5.0,2024,78
+2.0,8:36,,,KAN 15,7.0,10.0,Blake Grupe kicks extra point good,0.0,0.0,5.0,2024,78
+2.0,8:36,,,NOR 35,7.0,10.0,"Blake Grupe kicks off 61 yards, returned by Skyy Moore for 15 yards (tackle by Isaiah Stalbird and Cedrick Wilson)",0.0,0.28,5.0,2024,78
+2.0,8:30,1.0,10.0,KAN 20,7.0,10.0,Kareem Hunt left end for 4 yards (tackle by D'Marco Jackson and Demario Davis),0.28,0.27,5.0,2024,78
+2.0,8:13,2.0,6.0,KAN 24,7.0,10.0,Patrick Mahomes pass incomplete short right,0.27,-0.43,5.0,2024,78
+2.0,8:05,3.0,6.0,KAN 24,7.0,10.0,Patrick Mahomes scrambles left end for 7 yards (tackle by Chase Young),-0.43,1.0,5.0,2024,78
+2.0,7:29,1.0,10.0,KAN 31,7.0,10.0,Patrick Mahomes pass complete short left to JuJu Smith-Schuster for 8 yards (tackle by Tyrann Mathieu and Demario Davis),1.0,1.54,5.0,2024,78
+2.0,6:50,2.0,2.0,KAN 39,7.0,10.0,Patrick Mahomes pass complete short right to Xavier Worthy for 18 yards (tackle by Tyrann Mathieu),1.54,2.72,5.0,2024,78
+2.0,6:28,1.0,10.0,NOR 43,7.0,10.0,Kareem Hunt right guard for 3 yards (tackle by Carl Granderson and Khalen Saunders),2.72,2.58,5.0,2024,78
+2.0,5:49,2.0,7.0,NOR 40,7.0,10.0,Patrick Mahomes pass complete short left to Travis Kelce for 8 yards (tackle by Anfernee Orji),2.58,3.45,5.0,2024,78
+2.0,5:13,1.0,10.0,NOR 32,7.0,10.0,"Carson Steele right end for -9 yards. Carson Steele fumbles (forced by Alontae Taylor), recovered by Xavier Worthy at NO-46 (tackle by Alontae Taylor)",3.45,1.01,5.0,2024,78
+2.0,4:36,2.0,24.0,NOR 46,7.0,10.0,"Patrick Mahomes scrambles up the middle for no gain (tackle by Alontae Taylor). Penalty on Trey Smith: Offensive Holding, 10 yards (accepted) (no play)",1.01,-0.34,5.0,2024,78
+2.0,4:09,2.0,34.0,KAN 44,7.0,10.0,Patrick Mahomes pass complete short left to JuJu Smith-Schuster for 13 yards (tackle by Johnathan Abram),-0.34,0.76,5.0,2024,78
+2.0,3:27,3.0,21.0,NOR 43,7.0,10.0,"Patrick Mahomes pass complete short right to Travis Kelce for 5 yards, lateral to Samaje Perine for 15 yards (tackle by Marshon Lattimore)",0.76,2.08,5.0,2024,78
+2.0,2:55,,,,,,Timeout #1 by New Orleans Saints,,,5.0,2024,78
+2.0,2:55,4.0,1.0,NOR 23,7.0,10.0,Kareem Hunt right guard for 2 yards (tackle by Johnathan Abram),2.08,4.17,5.0,2024,78
+2.0,2:17,1.0,10.0,NOR 21,7.0,10.0,Kareem Hunt right guard for 2 yards (tackle by Carl Granderson and Tyrann Mathieu),4.17,3.9,5.0,2024,78
+2.0,2:00,2.0,8.0,NOR 19,7.0,10.0,Patrick Mahomes sacked by Chase Young for -6 yards,3.9,2.41,5.0,2024,78
+2.0,1:44,,,,,,Timeout #2 by New Orleans Saints,,,5.0,2024,78
+2.0,1:44,3.0,14.0,NOR 25,7.0,10.0,Patrick Mahomes pass complete short left to Samaje Perine for 9 yards (tackle by Marshon Lattimore and Cameron Jordan),2.41,2.43,5.0,2024,78
+2.0,1:35,,,,,,Timeout #3 by New Orleans Saints,,,5.0,2024,78
+2.0,1:35,4.0,5.0,NOR 16,7.0,13.0,Harrison Butker 34 yard field goal good,2.43,3.0,5.0,2024,78
+2.0,1:32,,,KAN 35,7.0,13.0,"Harrison Butker kicks off 66 yards, returned by Jamaal Williams for 22 yards (tackle by Cole Christiansen)",0.0,0.34,5.0,2024,78
+2.0,1:26,1.0,10.0,NOR 21,7.0,13.0,Derek Carr pass incomplete deep left intended for Mason Tipton,0.34,-0.2,5.0,2024,78
+2.0,1:20,2.0,10.0,NOR 21,7.0,13.0,Derek Carr pass complete short right to Juwan Johnson for 3 yards (tackle by Justin Reid),-0.2,-0.49,5.0,2024,78
+2.0,1:14,,,,,,Timeout #1 by Kansas City Chiefs,,,5.0,2024,78
+2.0,1:14,3.0,7.0,NOR 24,7.0,13.0,Derek Carr pass complete short right to Alvin Kamara for -3 yards (tackle by Nick Bolton),-0.49,-1.96,5.0,2024,78
+2.0,1:10,,,,,,Timeout #2 by Kansas City Chiefs,,,5.0,2024,78
+2.0,1:10,4.0,10.0,NOR 21,7.0,13.0,"Matthew Hayball punts 49 yards, returned by Mecole Hardman for 6 yards (tackle by J.T. Gray)",-1.96,-1.33,5.0,2024,78
+2.0,0:58,1.0,10.0,KAN 36,7.0,13.0,Patrick Mahomes pass incomplete short left intended for Xavier Worthy,1.33,0.79,5.0,2024,78
+2.0,0:53,2.0,10.0,KAN 36,7.0,13.0,Patrick Mahomes pass complete deep right to JuJu Smith-Schuster for 31 yards (tackle by Paulson Adebo),0.79,3.38,5.0,2024,78
+2.0,0:45,1.0,10.0,NOR 33,7.0,13.0,Patrick Mahomes pass incomplete short right intended for Xavier Worthy,3.38,2.84,5.0,2024,78
+2.0,0:41,2.0,10.0,NOR 33,7.0,13.0,Patrick Mahomes pass complete short left to JuJu Smith-Schuster for 7 yards (tackle by Alontae Taylor),2.84,3.07,5.0,2024,78
+2.0,0:34,3.0,3.0,NOR 26,7.0,13.0,Patrick Mahomes pass complete short middle to JuJu Smith-Schuster for 8 yards (tackle by Cameron Jordan),3.07,4.37,5.0,2024,78
+2.0,0:27,,,,,,Timeout #3 by Kansas City Chiefs,,,5.0,2024,78
+2.0,0:27,1.0,10.0,NOR 18,7.0,13.0,Patrick Mahomes pass complete short left to Travis Kelce for 9 yards (tackle by Marshon Lattimore),4.37,5.42,5.0,2024,78
+2.0,0:21,2.0,1.0,NOR 9,7.0,13.0,Patrick Mahomes pass incomplete short left,5.42,4.74,5.0,2024,78
+2.0,0:15,3.0,1.0,NOR 9,7.0,13.0,Patrick Mahomes pass incomplete short right,4.74,2.98,5.0,2024,78
+2.0,0:09,4.0,1.0,NOR 9,7.0,16.0,Harrison Butker 28 yard field goal good,2.98,3.0,5.0,2024,78
+2.0,0:06,,,KAN 35,7.0,16.0,"Harrison Butker kicks off 71 yards, returned by Rashid Shaheed for 38 yards (tackle by Nazeeh Johnson)",0.0,1.27,5.0,2024,78
+3.0,15:00,,,NOR 35,7.0,16.0,"Blake Grupe kicks off 65 yards, returned by Carson Steele for 29 yards (tackle by J.T. Gray and Isaiah Foskey)",0.0,0.87,5.0,2024,78
+3.0,14:55,1.0,10.0,KAN 29,7.0,16.0,Kareem Hunt left end for 4 yards (tackle by Johnathan Abram),0.87,0.87,5.0,2024,78
+3.0,14:22,2.0,6.0,KAN 33,7.0,16.0,Kareem Hunt left guard for 4 yards (tackle by Anfernee Orji and Khalen Saunders),0.87,0.7,5.0,2024,78
+3.0,13:42,3.0,2.0,KAN 37,7.0,16.0,Kareem Hunt right guard for 5 yards (tackle by Khalen Saunders and Johnathan Abram),0.7,1.73,5.0,2024,78
+3.0,13:04,1.0,10.0,KAN 42,7.0,16.0,Carson Steele up the middle for 6 yards (tackle by Nathan Shepherd and Carl Granderson),1.73,2.0,5.0,2024,78
+3.0,12:31,2.0,4.0,KAN 48,7.0,16.0,Carson Steele left end for 5 yards (tackle by Alontae Taylor and John Ridgeway),2.0,2.46,5.0,2024,78
+3.0,11:46,1.0,10.0,NOR 47,7.0,16.0,Patrick Mahomes pass complete short left to Noah Gray for 14 yards (tackle by Paulson Adebo),2.46,3.38,5.0,2024,78
+3.0,11:04,1.0,10.0,NOR 33,7.0,16.0,Kareem Hunt up the middle for no gain (tackle by Bryan Bresee),3.38,2.84,5.0,2024,78
+3.0,10:30,2.0,10.0,NOR 33,7.0,16.0,Patrick Mahomes pass incomplete short middle,2.84,2.15,5.0,2024,78
+3.0,10:23,3.0,10.0,NOR 33,7.0,16.0,Patrick Mahomes pass incomplete deep right intended for Xavier Worthy,2.15,1.15,5.0,2024,78
+3.0,10:18,4.0,10.0,NOR 33,7.0,16.0,Harrison Butker 51 yard field goal no good,1.15,-1.66,5.0,2024,78
+3.0,10:14,1.0,10.0,NOR 41,7.0,16.0,Alvin Kamara right end for 3 yards (tackle by Trent McDuffie),1.66,1.53,5.0,2024,78
+3.0,9:54,2.0,7.0,NOR 44,7.0,16.0,Alvin Kamara left guard for 1 yard (tackle by Nick Bolton),1.53,0.96,5.0,2024,78
+3.0,9:13,3.0,6.0,NOR 45,7.0,16.0,Derek Carr pass complete short middle to Foster Moreau for 7 yards (tackle by Nick Bolton),0.96,2.39,5.0,2024,78
+3.0,8:48,1.0,10.0,KAN 48,7.0,16.0,Alvin Kamara right end for 3 yards (tackle by George Karlaftis and Nick Bolton),2.39,2.25,5.0,2024,78
+3.0,8:13,2.0,7.0,KAN 45,7.0,16.0,Derek Carr pass incomplete deep right intended for Rashid Shaheed (defended by Trent McDuffie),2.25,1.55,5.0,2024,78
+3.0,8:06,3.0,7.0,KAN 45,7.0,16.0,"Derek Carr pass complete short left to Mason Tipton for no gain (tackle by Michael Danna and Chamarri Conner). Penalty on Chris Olave: Illegal Shift, 5 yards (accepted) (no play)",1.55,0.89,5.0,2024,78
+3.0,7:38,3.0,12.0,KAN 50,7.0,16.0,Derek Carr sacked by Tershawn Wharton for -8 yards,0.89,-0.59,5.0,2024,78
+3.0,6:59,4.0,20.0,NOR 42,7.0,16.0,"Matthew Hayball punts 48 yards, returned by Mecole Hardman for 6 yards (tackle by Adam Prentice)",-0.59,0.14,5.0,2024,78
+3.0,6:48,1.0,10.0,KAN 16,7.0,16.0,Patrick Mahomes pass complete short right to Mecole Hardman for 5 yards (tackle by Johnathan Abram),-0.14,0.15,5.0,2024,78
+3.0,6:18,2.0,5.0,KAN 21,7.0,16.0,Kareem Hunt right end for 7 yards (tackle by Isaiah Foskey and Tyrann Mathieu),0.15,0.81,5.0,2024,78
+3.0,5:48,1.0,10.0,KAN 28,7.0,16.0,Patrick Mahomes pass complete short right to Xavier Worthy for 5 yards (tackle by Paulson Adebo),0.81,0.94,5.0,2024,78
+3.0,5:26,2.0,5.0,KAN 33,7.0,16.0,Kareem Hunt right tackle for 4 yards (tackle by Tyrann Mathieu and Demario Davis),0.94,0.76,5.0,2024,78
+3.0,4:35,3.0,1.0,KAN 37,7.0,16.0,Carson Steele left guard for 2 yards (tackle by Nathan Shepherd and Demario Davis),0.76,1.53,5.0,2024,78
+3.0,3:55,1.0,10.0,KAN 39,7.0,16.0,"Patrick Mahomes pass incomplete deep right intended for Xavier Worthy. Penalty on Paulson Adebo: Defensive Pass Interference, 46 yards (accepted) (no play)",1.53,4.58,5.0,2024,78
+3.0,3:47,1.0,10.0,NOR 15,7.0,16.0,Patrick Mahomes pass complete short middle to Xavier Worthy for 2 yards (tackle by Marshon Lattimore),4.58,4.28,5.0,2024,78
+3.0,3:13,2.0,8.0,NOR 13,7.0,16.0,Patrick Mahomes pass complete short left to Mecole Hardman for 8 yards (tackle by Demario Davis),4.28,6.06,5.0,2024,78
+3.0,2:30,1.0,5.0,NOR 5,7.0,16.0,Patrick Mahomes pass complete short middle to Travis Kelce for 3 yards (tackle by Carl Granderson and Khalen Saunders),6.06,5.72,5.0,2024,78
+3.0,1:54,,,,,,Timeout #1 by Kansas City Chiefs,,,5.0,2024,78
+3.0,1:54,2.0,2.0,NOR 2,7.0,16.0,Patrick Mahomes pass short middle (defended by Paulson Adebo) intended for JuJu Smith-Schuster is intercepted by Khalen Saunders in end zone and returned for 37 yards (tackle by Joe Thuney),5.72,-1.27,5.0,2024,78
+3.0,1:43,1.0,10.0,NOR 35,7.0,16.0,Derek Carr pass complete short right to Rashid Shaheed for 7 yards (tackle by Jaylen Watson),1.27,1.67,5.0,2024,78
+3.0,1:12,2.0,3.0,NOR 42,7.0,16.0,"Derek Carr pass complete short right to Rashid Shaheed for 21 yards (tackle by Jaylen Watson). Penalty on Trent McDuffie: Defensive Holding, 5 yards (declined)",1.67,3.12,5.0,2024,78
+3.0,1:01,1.0,10.0,KAN 37,7.0,16.0,Derek Carr pass complete short right to Alvin Kamara for 9 yards (tackle by Trent McDuffie and Drue Tranquill),3.12,3.79,5.0,2024,78
+3.0,0:25,2.0,1.0,KAN 28,7.0,16.0,Derek Carr pass incomplete short left,3.79,3.07,5.0,2024,78
+3.0,0:22,,,,,,Timeout #1 by New Orleans Saints,,,5.0,2024,78
+3.0,0:22,3.0,1.0,KAN 28,7.0,16.0,"Alvin Kamara right end for no gain (tackle by Justin Reid). Penalty on Chris Jones: Defensive Offside, 5 yards (accepted) (no play)",3.07,4.04,5.0,2024,78
+3.0,0:06,1.0,10.0,KAN 23,7.0,16.0,Derek Carr pass incomplete short middle,4.04,3.5,5.0,2024,78
+3.0,0:02,2.0,10.0,KAN 23,7.0,16.0,Derek Carr pass complete short left to Alvin Kamara for 14 yards (tackle by Trent McDuffie and Nick Bolton),3.5,5.14,5.0,2024,78
+4.0,15:00,1.0,9.0,KAN 9,7.0,16.0,Alvin Kamara right end for 3 yards (tackle by Justin Reid and Nick Bolton),5.14,4.95,5.0,2024,78
+4.0,14:22,2.0,6.0,KAN 6,13.0,16.0,"Derek Carr pass complete short right to Foster Moreau for 6 yards, touchdown",4.95,7.0,5.0,2024,78
+4.0,14:16,,,KAN 15,13.0,16.0,Blake Grupe kicks extra point no good,0.0,-1.0,5.0,2024,78
+4.0,14:16,,,NOR 35,13.0,16.0,"Blake Grupe kicks off 58 yards, returned by Carson Steele for 25 yards (tackle by Jordan Howden)",0.0,1.07,5.0,2024,78
+4.0,14:11,1.0,10.0,KAN 32,13.0,16.0,Kareem Hunt right guard for 4 yards (tackle by Khalen Saunders and Isaiah Foskey),1.07,1.07,5.0,2024,78
+4.0,13:36,2.0,6.0,KAN 36,13.0,16.0,Patrick Mahomes pass complete short middle to JuJu Smith-Schuster for 50 yards (tackle by Johnathan Abram),1.07,4.65,5.0,2024,78
+4.0,12:58,1.0,10.0,NOR 14,13.0,16.0,Kareem Hunt up the middle for 2 yards (tackle by Anfernee Orji),4.65,4.33,5.0,2024,78
+4.0,12:26,2.0,8.0,NOR 12,13.0,16.0,"Kareem Hunt left end for 5 yards (tackle by Nathan Shepherd). Penalty on Carl Granderson: Defensive Holding, 4 yards (accepted)",4.33,6.51,5.0,2024,78
+4.0,12:00,1.0,3.0,NOR 3,13.0,22.0,"Xavier Worthy right end for 3 yards, touchdown",6.51,7.0,5.0,2024,78
+4.0,11:56,,,NOR 15,13.0,23.0,Harrison Butker kicks extra point good,0.0,0.0,5.0,2024,78
+4.0,11:56,,,KAN 35,13.0,23.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.94,5.0,2024,78
+4.0,11:56,1.0,10.0,NOR 30,13.0,23.0,Derek Carr pass complete short left to Chris Olave for 6 yards (tackle by Jaylen Watson),0.94,1.2,5.0,2024,78
+4.0,11:18,2.0,4.0,NOR 36,13.0,23.0,Derek Carr pass complete short middle to Juwan Johnson for 6 yards (tackle by Drue Tranquill and Nick Bolton),1.2,1.73,5.0,2024,78
+4.0,10:48,1.0,10.0,NOR 42,13.0,23.0,"Penalty on Tershawn Wharton: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",1.73,2.72,5.0,2024,78
+4.0,10:48,1.0,10.0,KAN 43,13.0,23.0,Alvin Kamara left end for -2 yards (tackle by Nick Bolton and Chamarri Conner),2.72,1.91,5.0,2024,78
+4.0,10:13,2.0,12.0,KAN 45,13.0,23.0,Derek Carr pass complete short left to Alvin Kamara for 4 yards (tackle by Justin Reid),1.91,1.75,5.0,2024,78
+4.0,9:43,3.0,8.0,KAN 41,13.0,23.0,Derek Carr pass incomplete deep right intended for Rashid Shaheed,1.75,0.53,5.0,2024,78
+4.0,9:38,,,,,,Timeout #2 by New Orleans Saints,,,5.0,2024,78
+4.0,9:38,4.0,8.0,KAN 41,13.0,23.0,Derek Carr pass incomplete deep left intended for Mason Tipton,0.53,-1.73,5.0,2024,78
+4.0,9:32,1.0,10.0,KAN 42,13.0,23.0,Kareem Hunt right end for 1 yard (tackle by Anfernee Orji),1.73,1.32,5.0,2024,78
+4.0,8:54,2.0,9.0,KAN 43,13.0,23.0,Patrick Mahomes pass complete short left to JuJu Smith-Schuster for 13 yards (tackle by Johnathan Abram),1.32,2.65,5.0,2024,78
+4.0,8:13,1.0,10.0,NOR 44,13.0,23.0,Kareem Hunt right end for 5 yards (tackle by Demario Davis),2.65,2.78,5.0,2024,78
+4.0,7:34,2.0,5.0,NOR 39,13.0,23.0,Kareem Hunt left end for -4 yards (tackle by Alontae Taylor),2.78,1.55,5.0,2024,78
+4.0,6:53,3.0,9.0,NOR 43,13.0,23.0,"Patrick Mahomes scrambles left end for 9 yards (tackle by Bryan Bresee) KAN challenged the short of the line to gain ruling, and the original play was overturned. Patrick Mahomes scrambles left end for 9 yards (tackle by Bryan Bresee)",1.55,3.31,5.0,2024,78
+4.0,6:10,1.0,10.0,NOR 34,13.0,23.0,Kareem Hunt right guard for 4 yards (tackle by Demario Davis and Carl Granderson),3.31,3.31,5.0,2024,78
+4.0,5:29,2.0,6.0,NOR 30,13.0,23.0,Patrick Mahomes pass complete short left to Mecole Hardman for 15 yards (tackle by Anfernee Orji),3.31,4.58,5.0,2024,78
+4.0,4:45,1.0,10.0,NOR 15,13.0,23.0,Kareem Hunt right guard for 4 yards (tackle by John Ridgeway and D'Marco Jackson),4.58,4.64,5.0,2024,78
+4.0,4:03,2.0,6.0,NOR 11,13.0,23.0,"Kareem Hunt left end for no gain (tackle by Demario Davis). Penalty on Jared Wiley: Offensive Holding, 10 yards (declined) . Penalty on Creed Humphrey: Offensive Holding, 10 yards (accepted) (no play)",4.64,3.21,5.0,2024,78
+4.0,3:58,2.0,16.0,NOR 21,13.0,23.0,Patrick Mahomes sacked by Bryan Bresee for -4 yards,3.21,2.01,5.0,2024,78
+4.0,3:14,3.0,20.0,NOR 25,13.0,23.0,Kareem Hunt right guard for 5 yards (tackle by Carl Granderson),2.01,2.12,5.0,2024,78
+4.0,3:07,,,,,,Timeout #3 by New Orleans Saints,,,5.0,2024,78
+4.0,3:07,4.0,15.0,NOR 20,13.0,26.0,Harrison Butker 38 yard field goal good,2.12,3.0,5.0,2024,78
+4.0,3:03,,,KAN 35,13.0,26.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.28,5.0,2024,78
+4.0,3:03,1.0,10.0,NOR 20,13.0,26.0,Jake Haener pass incomplete short middle intended for Alvin Kamara,0.28,-0.27,5.0,2024,78
+4.0,2:59,2.0,10.0,NOR 20,13.0,26.0,Jake Haener pass complete short right to Juwan Johnson for 11 yards (tackle by Jaylen Watson),-0.27,1.0,5.0,2024,78
+4.0,2:38,1.0,10.0,NOR 31,13.0,26.0,Jake Haener pass incomplete deep right intended for Chris Olave (defended by Bryan Cook),1.0,0.46,5.0,2024,78
+4.0,2:31,2.0,10.0,NOR 31,13.0,26.0,Jake Haener scrambles right end for 9 yards (tackle by Nick Bolton),0.46,0.96,5.0,2024,78
+4.0,2:25,3.0,1.0,NOR 40,13.0,26.0,Jake Haener pass complete short middle to Alvin Kamara for 6 yards (tackle by Chamarri Conner),0.96,1.99,5.0,2024,78
+4.0,2:07,1.0,10.0,NOR 46,13.0,26.0,Jake Haener pass incomplete short middle,1.99,1.45,5.0,2024,78
+4.0,2:03,2.0,10.0,NOR 46,13.0,26.0,Jake Haener scrambles right end for 2 yards (tackle by Drue Tranquill),1.45,1.03,5.0,2024,78
+4.0,1:57,3.0,8.0,NOR 48,13.0,26.0,Jake Haener pass incomplete short left intended for Alvin Kamara,1.03,-0.19,5.0,2024,78
+4.0,1:51,4.0,8.0,NOR 48,13.0,26.0,Jake Haener pass incomplete deep right intended for Chris Olave (defended by Jaylen Watson),-0.19,-2.39,5.0,2024,78
+4.0,1:47,1.0,10.0,NOR 48,13.0,26.0,Patrick Mahomes kneels for -1 yards,2.39,1.71,5.0,2024,78
+4.0,1:11,2.0,11.0,NOR 49,13.0,26.0,Patrick Mahomes kneels for -1 yards,1.71,0.89,5.0,2024,78
+4.0,0:35,3.0,12.0,NOR 50,13.0,26.0,Patrick Mahomes kneels for -1 yards,0.89,-0.13,5.0,2024,78

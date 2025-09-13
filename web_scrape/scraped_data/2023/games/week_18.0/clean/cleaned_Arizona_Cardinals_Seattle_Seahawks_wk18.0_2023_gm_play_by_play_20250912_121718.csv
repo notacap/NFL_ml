@@ -1,0 +1,166 @@
+Quarter,Time,Down,ToGo,Location,SEA,ARI,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Seahawks won the coin toss and deferred, Cardinals to receive the opening kickoff.",,,18.0,2023,266
+1.0,15:00,,,SEA 35,0.0,0.0,"Jason Myers kicks off 64 yards, returned by Greg Dortch for 17 yards (tackle by Nick Bellore and Ty Okada)",0.0,0.04,18.0,2023,266
+1.0,14:56,1.0,10.0,ARI 18,0.0,0.0,James Conner up the middle for no gain (tackle by Bobby Wagner and Jordyn Brooks),0.04,-0.49,18.0,2023,266
+1.0,14:15,2.0,10.0,ARI 18,0.0,0.0,Kyler Murray pass complete short left to Trey McBride for 25 yards (tackle by Quandre Diggs),-0.49,1.8,18.0,2023,266
+1.0,13:30,1.0,10.0,ARI 43,0.0,0.0,James Conner right tackle for 2 yards (tackle by Dre'Mont Jones),1.8,1.52,18.0,2023,266
+1.0,12:50,2.0,8.0,ARI 45,0.0,0.0,James Conner up the middle for 7 yards (tackle by Riq Woolen and Darrell Taylor),1.52,1.75,18.0,2023,266
+1.0,12:17,3.0,1.0,SEA 48,0.0,0.0,Clayton Tune up the middle for 1 yard (tackle by Bobby Wagner),1.75,2.46,18.0,2023,266
+1.0,11:23,1.0,10.0,SEA 47,0.0,0.0,Kyler Murray pass incomplete deep left intended for Trey McBride (defended by Jordyn Brooks),2.46,1.91,18.0,2023,266
+1.0,11:14,2.0,10.0,SEA 47,0.0,0.0,Kyler Murray pass incomplete short middle,1.91,1.22,18.0,2023,266
+1.0,11:09,3.0,10.0,SEA 47,0.0,0.0,"Penalty on Elijah Wilkinson: False Start, 5 yards (accepted) (no play)",1.22,0.56,18.0,2023,266
+1.0,11:09,3.0,15.0,ARI 48,0.0,0.0,Kyler Murray pass incomplete deep left intended for Trey McBride,0.56,-0.19,18.0,2023,266
+1.0,11:05,4.0,15.0,ARI 48,0.0,0.0,Blake Gillikin punts 45 yards downed by Zeke Turner,-0.19,0.38,18.0,2023,266
+1.0,10:54,1.0,10.0,SEA 7,0.0,0.0,Kenneth Walker up the middle for 1 yard (tackle by Budda Baker),-0.38,-0.71,18.0,2023,266
+1.0,10:28,2.0,9.0,SEA 8,0.0,0.0,Geno Smith pass complete short left to D.K. Metcalf for 10 yards (tackle by Starling Thomas),-0.71,0.04,18.0,2023,266
+1.0,9:54,1.0,10.0,SEA 18,0.0,0.0,Kenneth Walker up the middle for 12 yards (tackle by Budda Baker),0.04,0.94,18.0,2023,266
+1.0,9:18,1.0,10.0,SEA 30,0.0,0.0,Geno Smith pass complete short right to Jake Bobo for 9 yards (tackle by Dennis Gardeck and Budda Baker),0.94,1.61,18.0,2023,266
+1.0,8:39,2.0,1.0,SEA 39,0.0,0.0,Kenneth Walker up the middle for 3 yards (tackle by Budda Baker and Leki Fotu),1.61,1.73,18.0,2023,266
+1.0,8:05,1.0,10.0,SEA 42,0.0,0.0,Kenneth Walker right tackle for 16 yards (tackle by Andre Chachere),1.73,2.79,18.0,2023,266
+1.0,7:20,1.0,10.0,ARI 42,0.0,0.0,Geno Smith pass complete short right to Will Dissly for 21 yards (tackle by Dennis Gardeck),2.79,4.17,18.0,2023,266
+1.0,6:35,1.0,10.0,ARI 21,0.0,0.0,Zach Charbonnet up the middle for 7 yards (tackle by Naquan Jones),4.17,4.74,18.0,2023,266
+1.0,5:58,2.0,3.0,ARI 14,0.0,0.0,Zach Charbonnet up the middle for -1 yards (tackle by BJ Ojulari),4.74,3.81,18.0,2023,266
+1.0,5:13,3.0,4.0,ARI 15,0.0,0.0,Geno Smith pass incomplete short right intended for D.K. Metcalf,3.81,2.52,18.0,2023,266
+1.0,5:08,4.0,4.0,ARI 15,3.0,0.0,Jason Myers 33 yard field goal good,2.52,3.0,18.0,2023,266
+1.0,5:05,,,SEA 35,3.0,0.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,266
+1.0,5:05,1.0,10.0,ARI 25,3.0,0.0,James Conner right tackle for 1 yard (tackle by Bobby Wagner and Dre'Mont Jones),0.61,0.2,18.0,2023,266
+1.0,4:26,2.0,9.0,ARI 26,3.0,0.0,James Conner up the middle for 3 yards (tackle by Bobby Wagner and Cameron Young),0.2,-0.1,18.0,2023,266
+1.0,3:45,3.0,6.0,ARI 29,3.0,0.0,Kyler Murray pass complete short left to Greg Dortch for 5 yards (tackle by Devon Witherspoon),-0.1,-1.11,18.0,2023,266
+1.0,3:13,4.0,1.0,ARI 34,3.0,0.0,"Blake Gillikin punts 61 yards, returned by DeeJay Dallas for 15 yards (tackle by Elijah Higgins and Zeke Turner)",-1.11,-0.28,18.0,2023,266
+1.0,2:59,1.0,10.0,SEA 20,3.0,0.0,Geno Smith pass incomplete short middle intended for D.K. Metcalf (defended by Owen Pappoe),0.28,-0.27,18.0,2023,266
+1.0,2:55,2.0,10.0,SEA 20,3.0,0.0,Kenneth Walker left tackle for 4 yards (tackle by Zaven Collins and Leki Fotu),-0.27,-0.43,18.0,2023,266
+1.0,2:15,3.0,6.0,SEA 24,3.0,0.0,Geno Smith pass complete short right to Jaxon Smith-Njigba for 6 yards (tackle by Starling Thomas),-0.43,0.94,18.0,2023,266
+1.0,1:30,1.0,10.0,SEA 30,3.0,0.0,Geno Smith pass incomplete short left intended for Jaxon Smith-Njigba,0.94,0.39,18.0,2023,266
+1.0,1:27,2.0,10.0,SEA 30,3.0,0.0,Geno Smith pass incomplete short right intended for D.K. Metcalf,0.39,-0.3,18.0,2023,266
+1.0,1:22,3.0,10.0,SEA 30,3.0,0.0,Geno Smith pass incomplete short left intended for D.K. Metcalf (defended by Antonio Hamilton),-0.3,-1.37,18.0,2023,266
+1.0,1:16,4.0,10.0,SEA 30,3.0,0.0,"Michael Dickson punts 59 yards, returned by Greg Dortch for 5 yards (tackle by Derick Hall and DeeJay Dallas)",-1.37,0.14,18.0,2023,266
+1.0,1:05,1.0,10.0,ARI 16,3.0,0.0,Kyler Murray pass complete short left to Rondale Moore for 8 yards (tackle by Coby Bryant),-0.14,0.55,18.0,2023,266
+1.0,0:29,2.0,2.0,ARI 24,3.0,0.0,James Conner up the middle for 2 yards (tackle by Cameron Young and Leonard Williams),0.55,0.67,18.0,2023,266
+2.0,15:00,1.0,10.0,ARI 26,3.0,0.0,Kyler Murray pass complete short right to James Conner for 18 yards (tackle by Jordyn Brooks and Myles Adams),0.67,1.86,18.0,2023,266
+2.0,14:15,1.0,10.0,ARI 44,3.0,0.0,Kyler Murray scrambles left end for 33 yards (tackle by Quandre Diggs),1.86,4.04,18.0,2023,266
+2.0,13:32,1.0,10.0,SEA 23,3.0,0.0,James Conner left tackle for 20 yards (tackle by Julian Love),4.04,6.51,18.0,2023,266
+2.0,12:44,1.0,3.0,SEA 3,3.0,0.0,Kyler Murray pass incomplete short left intended for Trey McBride,6.51,5.53,18.0,2023,266
+2.0,12:35,2.0,3.0,SEA 3,3.0,0.0,James Conner up the middle for 1 yard (tackle by Bobby Wagner and Leonard Williams),5.53,4.95,18.0,2023,266
+2.0,11:54,3.0,2.0,SEA 2,3.0,0.0,Kyler Murray left end for -3 yards (tackle by Quandre Diggs),4.95,3.01,18.0,2023,266
+2.0,11:10,4.0,5.0,SEA 5,3.0,3.0,Matt Prater 23 yard field goal good,3.01,3.0,18.0,2023,266
+2.0,11:08,,,ARI 35,3.0,3.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,266
+2.0,11:08,1.0,10.0,SEA 25,3.0,3.0,Kenneth Walker up the middle for 3 yards (tackle by Budda Baker),0.61,0.47,18.0,2023,266
+2.0,10:30,2.0,7.0,SEA 28,3.0,3.0,Kenneth Walker up the middle for 11 yards (tackle by Starling Thomas and Andre Chachere),0.47,1.53,18.0,2023,266
+2.0,9:51,1.0,10.0,SEA 39,3.0,3.0,Kenneth Walker up the middle for 5 yards (tackle by Krys Barnes and Budda Baker),1.53,1.66,18.0,2023,266
+2.0,9:13,2.0,5.0,SEA 44,3.0,3.0,Kenneth Walker up the middle for -3 yards (tackle by Naquan Jones),1.66,0.56,18.0,2023,266
+2.0,8:35,3.0,8.0,SEA 41,3.0,3.0,Geno Smith pass complete deep middle to Tyler Lockett for 37 yards (tackle by Andre Chachere),0.56,4.11,18.0,2023,266
+2.0,7:53,1.0,10.0,ARI 22,3.0,3.0,Kenneth Walker left tackle for 3 yards (tackle by Jalen Thompson and Starling Thomas),4.11,3.97,18.0,2023,266
+2.0,7:11,2.0,7.0,ARI 19,9.0,3.0,"Geno Smith pass complete short left to Will Dissly for 19 yards, touchdown",3.97,7.0,18.0,2023,266
+2.0,7:06,,,ARI 15,10.0,3.0,Jason Myers kicks extra point good,0.0,0.0,18.0,2023,266
+2.0,7:06,,,SEA 35,10.0,3.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,266
+2.0,7:06,1.0,10.0,ARI 25,10.0,3.0,Kyler Murray pass complete short right to Michael Wilson for 7 yards (tackle by Michael Jackson),0.61,1.01,18.0,2023,266
+2.0,6:51,2.0,3.0,ARI 32,10.0,3.0,Kyler Murray pass complete short left to Michael Carter for 2 yards (tackle by Devon Witherspoon),1.01,0.56,18.0,2023,266
+2.0,6:15,3.0,1.0,ARI 34,10.0,3.0,"Penalty on Michael Wilson: Offensive Offside, 4 yards (accepted) (no play)",0.56,0.04,18.0,2023,266
+2.0,5:59,3.0,5.0,ARI 30,10.0,3.0,James Conner left tackle for 14 yards (tackle by Leonard Williams),0.04,1.86,18.0,2023,266
+2.0,5:21,1.0,10.0,ARI 44,10.0,3.0,Kyler Murray pass complete short middle to Greg Dortch for 9 yards (tackle by Derick Hall),1.86,2.53,18.0,2023,266
+2.0,4:34,2.0,1.0,SEA 47,10.0,3.0,James Conner up the middle for 3 yards (tackle by Bobby Wagner and Devon Witherspoon),2.53,2.65,18.0,2023,266
+2.0,3:50,1.0,10.0,SEA 44,10.0,3.0,Kyler Murray pass complete deep right to Michael Wilson for 28 yards (tackle by Quandre Diggs and Bobby Wagner),2.65,4.51,18.0,2023,266
+2.0,2:58,1.0,10.0,SEA 16,10.0,3.0,James Conner up the middle for 2 yards (tackle by Michael Jackson),4.51,4.21,18.0,2023,266
+2.0,2:23,,,,,,Timeout #1 by Seattle Seahawks,,,18.0,2023,266
+2.0,2:23,2.0,8.0,SEA 14,10.0,3.0,Kyler Murray pass incomplete short right intended for Michael Carter,4.21,3.37,18.0,2023,266
+2.0,2:19,3.0,8.0,SEA 14,10.0,3.0,"Penalty on Trey McBride: False Start, 5 yards (accepted) (no play)",3.37,2.85,18.0,2023,266
+2.0,2:19,3.0,13.0,SEA 19,10.0,3.0,Kyler Murray pass complete short left to Rondale Moore for 3 yards (tackle by Riq Woolen),2.85,2.38,18.0,2023,266
+2.0,2:00,4.0,10.0,SEA 16,10.0,6.0,Matt Prater 34 yard field goal good,2.38,3.0,18.0,2023,266
+2.0,1:57,,,ARI 35,10.0,6.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,266
+2.0,1:57,1.0,10.0,SEA 25,10.0,6.0,Geno Smith pass incomplete short right intended for Jaxon Smith-Njigba (defended by Dennis Gardeck),0.61,0.06,18.0,2023,266
+2.0,1:52,2.0,10.0,SEA 25,10.0,6.0,Zach Charbonnet up the middle for 9 yards (tackle by BJ Ojulari),0.06,0.56,18.0,2023,266
+2.0,1:19,3.0,1.0,SEA 34,10.0,6.0,Zach Charbonnet up the middle for 3 yards (tackle by Roy Lopez),0.56,1.4,18.0,2023,266
+2.0,1:00,1.0,10.0,SEA 37,10.0,6.0,"Geno Smith pass complete short left to D.K. Metcalf for 12 yards (tackle by Krys Barnes). Penalty on Antonio Hamilton: Defensive Pass Interference, 15 yards (declined) Geno Smith pass complete short left to D.K. Metcalf for no gain (tackle by Antonio Hamilton). Penalty on Antonio Hamilton: Defensive Pass Interference, 8 yards (accepted) (no play)",1.4,1.93,18.0,2023,266
+2.0,0:55,1.0,10.0,SEA 45,10.0,6.0,Geno Smith pass complete short right to Jaxon Smith-Njigba for 7 yards (tackle by Krys Barnes),1.93,2.33,18.0,2023,266
+2.0,0:50,,,,,,Timeout #2 by Seattle Seahawks,,,18.0,2023,266
+2.0,0:50,2.0,3.0,ARI 48,10.0,6.0,Geno Smith pass complete short right to Colby Parkinson for 2 yards (tackle by Owen Pappoe),2.33,1.88,18.0,2023,266
+2.0,0:32,3.0,1.0,ARI 46,10.0,6.0,Zach Charbonnet up the middle for 14 yards (tackle by Budda Baker),1.88,3.45,18.0,2023,266
+2.0,0:25,,,,,,Timeout #3 by Seattle Seahawks,,,18.0,2023,266
+2.0,0:25,1.0,10.0,ARI 32,10.0,6.0,Geno Smith pass incomplete short left,3.45,2.9,18.0,2023,266
+2.0,0:21,2.0,10.0,ARI 32,10.0,6.0,Geno Smith pass incomplete short left,2.9,2.21,18.0,2023,266
+2.0,0:16,3.0,10.0,ARI 32,10.0,6.0,Geno Smith scrambles right end for 21 yards (tackle by Krys Barnes),2.21,4.84,18.0,2023,266
+2.0,0:06,,,,,,Timeout #1 by Arizona Cardinals,,,18.0,2023,266
+2.0,0:06,1.0,10.0,ARI 11,10.0,6.0,Geno Smith pass incomplete short left intended for Tyler Lockett (defended by Starling Thomas),4.84,4.14,18.0,2023,266
+2.0,0:02,2.0,10.0,ARI 11,13.0,6.0,Jason Myers 29 yard field goal good,4.14,3.0,18.0,2023,266
+3.0,15:00,,,ARI 35,13.0,6.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,266
+3.0,15:00,1.0,10.0,SEA 25,13.0,6.0,Kenneth Walker up the middle for 14 yards (tackle by Jalen Thompson),0.61,1.53,18.0,2023,266
+3.0,14:21,1.0,10.0,SEA 39,13.0,6.0,Geno Smith pass incomplete short right intended for Colby Parkinson,1.53,0.99,18.0,2023,266
+3.0,14:17,2.0,10.0,SEA 39,13.0,6.0,Kenneth Walker up the middle for 1 yard (tackle by Krys Barnes and Phil Hoskins),0.99,0.43,18.0,2023,266
+3.0,13:38,3.0,9.0,SEA 40,13.0,6.0,Geno Smith scrambles up the middle for 5 yards (tackle by Zaven Collins),0.43,-0.39,18.0,2023,266
+3.0,12:58,4.0,4.0,SEA 45,13.0,6.0,Michael Dickson punts 42 yards downed by Derick Hall,-0.39,0.32,18.0,2023,266
+3.0,12:47,1.0,10.0,ARI 13,13.0,6.0,Kyler Murray right tackle for -1 yards (tackle by Devon Witherspoon),-0.32,-0.85,18.0,2023,266
+3.0,12:16,2.0,11.0,ARI 12,13.0,6.0,Kyler Murray pass complete short left to James Conner for 34 yards (tackle by Quandre Diggs and Julian Love),-0.85,1.99,18.0,2023,266
+3.0,11:27,1.0,10.0,ARI 46,13.0,6.0,Kyler Murray pass complete deep left to Elijah Higgins for 25 yards (tackle by Riq Woolen),1.99,3.64,18.0,2023,266
+3.0,10:40,1.0,10.0,SEA 29,13.0,12.0,"James Conner left tackle for 29 yards, touchdown",3.64,7.0,18.0,2023,266
+3.0,10:33,,,SEA 15,13.0,13.0,Matt Prater kicks extra point good,0.0,0.0,18.0,2023,266
+3.0,10:33,,,ARI 35,13.0,13.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,266
+3.0,10:33,1.0,10.0,SEA 25,13.0,13.0,Kenneth Walker left tackle for 6 yards (tackle by Budda Baker and BJ Ojulari),0.61,0.87,18.0,2023,266
+3.0,10:01,2.0,4.0,SEA 31,13.0,13.0,Kenneth Walker left tackle for 3 yards (tackle by Antonio Hamilton and Naquan Jones),0.87,0.56,18.0,2023,266
+3.0,9:22,3.0,1.0,SEA 34,13.0,13.0,Geno Smith up the middle for 2 yards (tackle by Budda Baker and Naquan Jones),0.56,1.33,18.0,2023,266
+3.0,8:44,1.0,10.0,SEA 36,13.0,13.0,Kenneth Walker left end for -3 yards (tackle by Zaven Collins and Leki Fotu),1.33,0.39,18.0,2023,266
+3.0,8:00,2.0,13.0,SEA 33,13.0,13.0,Geno Smith pass complete short right to Jaxon Smith-Njigba for 1 yard (tackle by Starling Thomas),0.39,-0.16,18.0,2023,266
+3.0,7:21,3.0,12.0,SEA 34,13.0,13.0,Geno Smith pass complete short left to Colby Parkinson for 1 yard (tackle by Andre Chachere),-0.16,-1.04,18.0,2023,266
+3.0,6:41,4.0,11.0,SEA 35,13.0,13.0,"Michael Dickson punts 43 yards, fair catch by Greg Dortch at ARI-22",-1.04,-0.41,18.0,2023,266
+3.0,6:32,1.0,10.0,ARI 22,13.0,13.0,Kyler Murray pass complete short left to Trey McBride for 1 yard (tackle by Devon Witherspoon),0.41,0.0,18.0,2023,266
+3.0,5:53,2.0,9.0,ARI 23,13.0,13.0,James Conner right tackle for 27 yards (tackle by Julian Love),0.0,2.26,18.0,2023,266
+3.0,5:13,1.0,10.0,ARI 50,13.0,13.0,James Conner up the middle for no gain (tackle by Cameron Young),2.26,1.71,18.0,2023,266
+3.0,4:28,2.0,10.0,ARI 50,13.0,13.0,James Conner left end for 2 yards (tackle by Boye Mafe),1.71,1.29,18.0,2023,266
+3.0,3:52,3.0,8.0,SEA 48,13.0,13.0,Kyler Murray pass incomplete short left intended for Greg Dortch,1.29,0.07,18.0,2023,266
+3.0,3:47,4.0,8.0,SEA 48,13.0,13.0,Blake Gillikin punts 46 yards downed by Joey Blount,0.07,0.38,18.0,2023,266
+3.0,3:37,1.0,10.0,SEA 2,13.0,13.0,Kenneth Walker up the middle for 2 yards (tackle by Owen Pappoe),-0.38,-0.63,18.0,2023,266
+3.0,3:03,2.0,8.0,SEA 4,13.0,13.0,Geno Smith pass complete short right to Will Dissly for 6 yards (tackle by Owen Pappoe),-0.63,-0.48,18.0,2023,266
+3.0,2:22,3.0,2.0,SEA 10,13.0,13.0,Geno Smith pass incomplete short left intended for Tyler Lockett (defended by Krys Barnes),-0.48,-2.49,18.0,2023,266
+3.0,2:18,4.0,2.0,SEA 10,13.0,13.0,"Michael Dickson punts 62 yards, returned by Greg Dortch for 11 yards (tackle by Nick Bellore)",-2.49,-1.53,18.0,2023,266
+3.0,2:06,1.0,10.0,ARI 39,13.0,13.0,Michael Carter right end for 15 yards (tackle by Derick Hall and Julian Love),1.53,2.52,18.0,2023,266
+3.0,1:25,1.0,10.0,SEA 46,13.0,13.0,Michael Carter up the middle for 1 yard (tackle by Darrell Taylor),2.52,2.11,18.0,2023,266
+3.0,0:47,2.0,9.0,SEA 45,13.0,13.0,Michael Carter left tackle for -1 yards (tackle by Devon Witherspoon and Bobby Wagner),2.11,1.29,18.0,2023,266
+4.0,15:00,3.0,10.0,SEA 46,13.0,13.0,Kyler Murray pass complete short middle to Rondale Moore for 10 yards (tackle by Devon Witherspoon and Michael Jackson),1.29,3.18,18.0,2023,266
+4.0,14:06,1.0,10.0,SEA 36,13.0,13.0,Kyler Murray left end for 4 yards (tackle by Julian Love),3.18,3.18,18.0,2023,266
+4.0,13:42,2.0,6.0,SEA 32,13.0,13.0,James Conner right tackle for 7 yards (tackle by Devon Witherspoon),3.18,3.91,18.0,2023,266
+4.0,12:59,1.0,10.0,SEA 25,13.0,13.0,James Conner right tackle for -1 yards (tackle by Devin Bush),3.91,3.23,18.0,2023,266
+4.0,12:18,2.0,11.0,SEA 26,13.0,13.0,Kyler Murray pass complete short right to Michael Wilson for 11 yards (tackle by Devin Bush),3.23,4.58,18.0,2023,266
+4.0,11:54,1.0,10.0,SEA 15,13.0,13.0,James Conner up the middle for no gain (tackle by Bobby Wagner),4.58,3.95,18.0,2023,266
+4.0,11:11,2.0,10.0,SEA 15,13.0,13.0,Michael Carter up the middle for 2 yards (tackle by Cameron Young and Leonard Williams),3.95,3.4,18.0,2023,266
+4.0,10:25,3.0,8.0,SEA 13,13.0,13.0,"Penalty on Paris Johnson: False Start, 5 yards (accepted) (no play)",3.4,2.89,18.0,2023,266
+4.0,10:25,3.0,13.0,SEA 18,13.0,13.0,Kyler Murray pass complete short middle to Rondale Moore for 10 yards (tackle by Bobby Wagner and Devon Witherspoon),2.89,2.98,18.0,2023,266
+4.0,9:52,4.0,3.0,SEA 8,13.0,19.0,"Kyler Murray pass complete short middle to Trey McBride for 8 yards, touchdown",2.98,7.0,18.0,2023,266
+4.0,9:48,,,SEA 15,13.0,20.0,Matt Prater kicks extra point good,0.0,0.0,18.0,2023,266
+4.0,9:48,,,ARI 35,13.0,20.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,266
+4.0,9:48,1.0,10.0,SEA 25,13.0,20.0,Geno Smith pass complete short right to Kenneth Walker for 3 yards (tackle by Krys Barnes),0.61,0.47,18.0,2023,266
+4.0,9:18,2.0,7.0,SEA 28,13.0,20.0,Kenneth Walker up the middle for no gain (tackle by Naquan Jones and Krys Barnes),0.47,-0.23,18.0,2023,266
+4.0,8:37,3.0,7.0,SEA 28,13.0,20.0,"Geno Smith pass complete short middle to D.K. Metcalf for 15 yards (tackle by Jalen Thompson) ARI challenged the pass completion ruling, and the original play was overturned. Geno Smith pass incomplete short middle intended for D.K. Metcalf (defended by Jalen Thompson)",-0.23,-1.5,18.0,2023,266
+4.0,8:32,4.0,7.0,SEA 28,13.0,20.0,"Michael Dickson punts 52 yards, returned by Greg Dortch for 6 yards (tackle by Dareke Young and Julian Love)",-1.5,-0.67,18.0,2023,266
+4.0,8:20,1.0,10.0,ARI 26,13.0,20.0,Kyler Murray pass complete short right to Elijah Higgins for 7 yards (tackle by Julian Love),0.67,1.07,18.0,2023,266
+4.0,7:38,2.0,3.0,ARI 33,13.0,20.0,James Conner left tackle for 8 yards (tackle by Darrell Taylor and Boye Mafe),1.07,1.66,18.0,2023,266
+4.0,6:55,1.0,10.0,ARI 41,13.0,20.0,James Conner up the middle for -1 yards (tackle by Devin Bush and Bobby Wagner),1.66,0.99,18.0,2023,266
+4.0,6:11,2.0,11.0,ARI 40,13.0,20.0,Kyler Murray pass incomplete short middle intended for Greg Dortch (defended by Cameron Young),0.99,0.3,18.0,2023,266
+4.0,6:05,3.0,11.0,ARI 40,13.0,20.0,Kyler Murray pass complete short right to Michael Wilson for 16 yards (tackle by Tre Brown),0.3,2.65,18.0,2023,266
+4.0,5:22,1.0,10.0,SEA 44,13.0,20.0,James Conner right tackle for no gain (tackle by Leonard Williams and Dre'Mont Jones),2.65,2.11,18.0,2023,266
+4.0,4:43,2.0,10.0,SEA 44,13.0,20.0,Kyler Murray right end for no gain (tackle by Devin Bush),2.11,1.42,18.0,2023,266
+4.0,4:09,3.0,10.0,SEA 44,13.0,20.0,James Conner up the middle for 9 yards (tackle by Devin Bush and Michael Jackson),1.42,1.0,18.0,2023,266
+4.0,3:16,4.0,1.0,SEA 35,13.0,20.0,Rondale Moore right end for 5 yards (tackle by Dre'Mont Jones),1.0,3.58,18.0,2023,266
+4.0,3:13,1.0,10.0,SEA 30,13.0,20.0,James Conner left end for no gain (tackle by Bobby Wagner and Leonard Williams),3.58,3.03,18.0,2023,266
+4.0,3:09,,,,,,Timeout #1 by Seattle Seahawks,,,18.0,2023,266
+4.0,3:09,2.0,10.0,SEA 30,13.0,20.0,James Conner up the middle for 2 yards (tackle by Devin Bush and Dre'Mont Jones),3.03,2.61,18.0,2023,266
+4.0,3:04,,,,,,Timeout #2 by Seattle Seahawks,,,18.0,2023,266
+4.0,3:04,3.0,8.0,SEA 28,13.0,20.0,James Conner up the middle for 4 yards (tackle by Bobby Wagner and Boye Mafe),2.61,1.94,18.0,2023,266
+4.0,3:00,,,,,,Timeout #3 by Seattle Seahawks,,,18.0,2023,266
+4.0,3:00,4.0,4.0,SEA 24,13.0,20.0,Matt Prater 43 yard field goal no good,1.94,-1.14,18.0,2023,266
+4.0,2:56,1.0,10.0,SEA 33,13.0,20.0,Geno Smith pass complete short right to Colby Parkinson for 5 yards (tackle by BJ Ojulari),1.14,1.27,18.0,2023,266
+4.0,2:32,2.0,5.0,SEA 38,13.0,20.0,Geno Smith pass complete short middle to Zach Charbonnet for 13 yards (tackle by BJ Ojulari),1.27,2.32,18.0,2023,266
+4.0,2:09,1.0,10.0,ARI 49,13.0,20.0,Geno Smith pass complete short middle to Zach Charbonnet for 15 yards (tackle by Budda Baker),2.32,3.31,18.0,2023,266
+4.0,2:00,1.0,10.0,ARI 34,19.0,20.0,"Geno Smith pass complete deep right to Tyler Lockett for 34 yards, touchdown",3.31,7.0,18.0,2023,266
+4.0,1:54,,,ARI 2,21.0,20.0,Two Point Attempt: Geno Smith pass complete to to Tyler Lockett for no gain,1.0,1.0,18.0,2023,266
+4.0,1:54,,,SEA 35,21.0,20.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,266
+4.0,1:54,1.0,10.0,ARI 25,21.0,20.0,Kyler Murray pass incomplete short middle intended for Rondale Moore,0.61,0.06,18.0,2023,266
+4.0,1:51,2.0,10.0,ARI 25,21.0,20.0,Kyler Murray pass complete short middle to Michael Wilson for 21 yards (tackle by Quandre Diggs),0.06,1.93,18.0,2023,266
+4.0,1:15,1.0,10.0,ARI 45,21.0,20.0,Kyler Murray pass complete short right to James Conner for -1 yards (tackle by Devon Witherspoon),1.93,1.38,18.0,2023,266
+4.0,0:54,2.0,10.0,ARI 45,21.0,20.0,Kyler Murray pass complete short middle to James Conner for 3 yards (tackle by Bobby Wagner and Devon Witherspoon),1.38,1.03,18.0,2023,266
+4.0,0:46,,,,,,Timeout #1 by Arizona Cardinals,,,18.0,2023,266
+4.0,0:46,3.0,8.0,ARI 48,21.0,20.0,Kyler Murray pass complete short right to Michael Wilson for 12 yards (tackle by Michael Jackson),1.03,2.92,18.0,2023,266
+4.0,0:38,,,,,,Timeout #2 by Arizona Cardinals,,,18.0,2023,266
+4.0,0:38,1.0,10.0,SEA 40,21.0,20.0,James Conner right end for 10 yards (tackle by Bobby Wagner),2.92,3.58,18.0,2023,266
+4.0,0:17,1.0,10.0,SEA 30,21.0,20.0,Kyler Murray sacked by Darrell Taylor for -2 yards,3.58,2.76,18.0,2023,266
+4.0,0:10,2.0,12.0,SEA 32,21.0,20.0,James Conner left end for -1 yards (tackle by Leonard Williams),2.76,1.95,18.0,2023,266
+4.0,0:01,,,,,,Timeout #3 by Arizona Cardinals,,,18.0,2023,266
+4.0,0:01,3.0,13.0,SEA 33,21.0,20.0,Matt Prater 51 yard field goal no good,1.95,1.6,18.0,2023,266

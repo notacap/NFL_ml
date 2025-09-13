@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,11:18,MIN 39,3,0:56,18,Fumble,0,Vikings,11.0,2024,158
+2,1,4:39,MIN 30,3,1:23,70,Touchdown,0,Vikings,11.0,2024,158
+3,1,0:47,MIN 11,16,8:07,89,Touchdown,0,Vikings,11.0,2024,158
+4,2,6:08,MIN 38,11,4:27,40,Field Goal,0,Vikings,11.0,2024,158
+5,2,0:22,MIN 20,1,0:22,-1,End of Half,0,Vikings,11.0,2024,158
+6,3,15:00,MIN 30,3,1:46,4,Punt,0,Vikings,11.0,2024,158
+7,3,11:06,MIN 34,5,2:36,17,Punt,0,Vikings,11.0,2024,158
+8,3,7:00,MIN 35,7,3:45,65,Touchdown,0,Vikings,11.0,2024,158
+9,4,14:08,MIN 30,8,3:30,24,Punt,0,Vikings,11.0,2024,158
+10,4,8:32,MIN 49,5,3:23,9,Punt,0,Vikings,11.0,2024,158
+11,4,2:23,MIN 48,3,0:26,-4,Punt,0,Vikings,11.0,2024,158
+12,4,1:50,MIN 34,3,1:50,6,End of Game,0,Vikings,11.0,2024,158

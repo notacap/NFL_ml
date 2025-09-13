@@ -1,0 +1,9 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,11:37,WAS 30,10,6:12,70,Touchdown,0,Commanders,3.0,2024,48
+2,2,14:51,WAS 38,7,3:20,62,Touchdown,0,Commanders,3.0,2024,48
+3,2,5:25,WAS 25,6,3:21,75,Touchdown,0,Commanders,3.0,2024,48
+4,2,0:22,WAS 30,1,0:22,-1,End of Half,0,Commanders,3.0,2024,48
+5,3,15:00,CIN 33,9,5:06,33,Touchdown,0,Commanders,3.0,2024,48
+6,3,3:03,WAS 30,12,6:33,46,Field Goal,0,Commanders,3.0,2024,48
+7,4,9:42,WAS 30,12,7:32,70,Touchdown,0,Commanders,3.0,2024,48
+8,4,0:40,CIN 36,1,0:40,-1,End of Game,0,Commanders,3.0,2024,48

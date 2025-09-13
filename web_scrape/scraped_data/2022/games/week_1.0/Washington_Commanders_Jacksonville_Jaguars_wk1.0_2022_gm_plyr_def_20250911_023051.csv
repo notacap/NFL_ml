@@ -1,0 +1,39 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Unnamed: 7_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Fumbles,Fumbles,Fumbles,Fumbles,week,year,game_id
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF,,,
+Travon Walker,JAX,1,9,0,9,1,1.0,4,3,1,1,1,0,0,0,0,1.0,2022,8
+Tyson Campbell,JAX,1,3,0,3,1,0.0,3,2,1,0,0,0,0,0,0,1.0,2022,8
+Devin Lloyd,JAX,0,0,0,0,0,0.0,11,8,3,0,0,0,0,0,0,1.0,2022,8
+Foyesade Oluokun,JAX,0,0,0,0,0,0.0,10,6,4,0,0,1,0,0,0,1.0,2022,8
+Andre Cisco,JAX,0,0,0,0,0,0.0,5,5,0,0,0,0,0,0,0,1.0,2022,8
+Shaquill Griffin,JAX,0,0,0,0,1,0.0,4,3,1,0,0,0,0,0,0,1.0,2022,8
+Josh Hines-Allen,JAX,0,0,0,0,0,0.0,4,3,1,2,1,0,0,0,1,1.0,2022,8
+Folorunso Fatukasi,JAX,0,0,0,0,1,0.0,3,3,0,0,0,0,0,0,0,1.0,2022,8
+Roy Robertson-Harris,JAX,0,0,0,0,1,0.0,3,1,2,0,0,0,0,0,0,1.0,2022,8
+Darious Williams,JAX,0,0,0,0,0,0.0,3,3,0,1,0,0,0,0,0,1.0,2022,8
+K'Lavon Chaisson,JAX,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,1.0,2022,8
+DaVon Hamilton,JAX,0,0,0,0,0,0.0,2,1,1,1,0,0,0,0,0,1.0,2022,8
+Rayshawn Jenkins,JAX,0,0,0,0,1,0.0,2,1,1,0,1,0,0,0,0,1.0,2022,8
+Caleb Johnson,JAX,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,1.0,2022,8
+Evan Engram,JAX,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,1.0,2022,8
+Adam Gotsis,JAX,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,1.0,2022,8
+Chad Muma,JAX,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,1.0,2022,8
+Dawuane Smoot,JAX,0,0,0,0,0,0.0,1,1,0,0,1,0,0,0,0,1.0,2022,8
+Andrew Wingard,JAX,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,1.0,2022,8
+Darrick Forrest,WAS,1,1,0,1,2,0.0,5,4,1,0,0,0,0,0,1,1.0,2022,8
+Jonathan Allen,WAS,0,0,0,0,0,1.0,3,3,0,2,1,0,0,0,0,1.0,2022,8
+Daron Payne,WAS,0,0,0,0,2,1.0,3,2,1,1,3,0,0,0,0,1.0,2022,8
+William Jackson III,WAS,0,0,0,0,0,0.0,9,8,1,0,0,0,0,0,0,1.0,2022,8
+Cole Holcomb,WAS,0,0,0,0,0,0.0,5,2,3,0,0,0,0,0,0,1.0,2022,8
+Kendall Fuller,WAS,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0,1.0,2022,8
+Benjamin St-Juste,WAS,0,0,0,0,0,0.0,4,4,0,0,1,0,0,0,0,1.0,2022,8
+Jamin Davis,WAS,0,0,0,0,0,0.0,3,3,0,0,0,0,0,0,0,1.0,2022,8
+Bobby McCain,WAS,0,0,0,0,0,0.0,3,3,0,0,0,0,0,0,0,1.0,2022,8
+Montez Sweat,WAS,0,0,0,0,1,0.0,3,3,0,0,3,0,0,0,0,1.0,2022,8
+Jeremy Reaves,WAS,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,1.0,2022,8
+James Smith-Williams,WAS,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,1.0,2022,8
+Percy Butler,WAS,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,1.0,2022,8
+Jahan Dotson,WAS,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,1.0,2022,8
+Efe Obada,WAS,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,1.0,2022,8
+Casey Toohill,WAS,0,0,0,0,0,0.0,1,0,1,0,2,0,0,0,0,1.0,2022,8
+Carson Wentz,WAS,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,1.0,2022,8
+Jonathan Williams,WAS,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,1.0,2022,8

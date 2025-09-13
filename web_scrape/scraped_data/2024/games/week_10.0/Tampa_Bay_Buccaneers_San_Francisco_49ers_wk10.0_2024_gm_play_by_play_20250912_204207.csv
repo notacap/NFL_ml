@@ -1,0 +1,162 @@
+Quarter,Time,Down,ToGo,Location,SFO,TAM,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Buccaneers won the coin toss and deferred, 49ers to receive the opening kickoff.",,,10.0,2024,143
+1.0,15:00,,,TAM 35,0.0,0.0,"Trenton Gill kicks off 65 yards, touchback.",0.0,0.94,10.0,2024,143
+1.0,15:00,1.0,10.0,SFO 30,0.0,0.0,Christian McCaffrey left end for 6 yards (tackle by Christian Izien and Josh Hayes),0.94,1.2,10.0,2024,143
+1.0,14:24,2.0,4.0,SFO 36,0.0,0.0,Brock Purdy scrambles up the middle for 10 yards (tackle by K.J. Britt),1.2,1.99,10.0,2024,143
+1.0,13:45,1.0,10.0,SFO 46,0.0,0.0,Deebo Samuel left end for 12 yards (tackle by Jordan Whitehead and Vita Vea),1.99,2.79,10.0,2024,143
+1.0,13:05,1.0,10.0,TAM 42,0.0,0.0,Brock Purdy scrambles left end for 3 yards (tackle by Calijah Kancey),2.79,2.65,10.0,2024,143
+1.0,12:21,2.0,7.0,TAM 39,0.0,0.0,Brock Purdy pass incomplete short middle intended for Jauan Jennings,2.65,1.95,10.0,2024,143
+1.0,12:15,3.0,7.0,TAM 39,0.0,0.0,Brock Purdy pass incomplete short left intended for Ricky Pearsall,1.95,0.66,10.0,2024,143
+1.0,12:11,4.0,7.0,TAM 39,0.0,0.0,Mitch Wishnowsky punts 35 yards downed by Ronnie Bell,0.66,0.38,10.0,2024,143
+1.0,12:03,1.0,10.0,TAM 4,0.0,0.0,Rachaad White up the middle for 4 yards (tackle by Ji'Ayir Brown and Deommodore Lenoir),-0.38,-0.49,10.0,2024,143
+1.0,11:24,2.0,6.0,TAM 8,0.0,0.0,Bucky Irving right guard for 2 yards (tackle by Fred Warner),-0.49,-0.72,10.0,2024,143
+1.0,10:41,3.0,4.0,TAM 10,0.0,0.0,Baker Mayfield pass complete short middle to Cade Otton for 15 yards (tackle by Isaac Yiadom),-0.72,0.61,10.0,2024,143
+1.0,10:05,1.0,10.0,TAM 25,0.0,0.0,Baker Mayfield pass complete short right to Rakim Jarrett for 4 yards (tackle by Renardo Green),0.61,0.6,10.0,2024,143
+1.0,9:32,2.0,6.0,TAM 29,0.0,0.0,Rachaad White right guard for 1 yard (tackle by De'Vondre Campbell),0.6,0.04,10.0,2024,143
+1.0,8:51,3.0,5.0,TAM 30,0.0,0.0,Baker Mayfield pass complete short left to Rachaad White for 1 yard (tackle by Fred Warner),0.04,-1.31,10.0,2024,143
+1.0,8:15,4.0,4.0,TAM 31,0.0,0.0,"Trenton Gill punts 46 yards, returned by Jacob Cowing for 6 yards (tackle by Ryan Miller)",-1.31,-0.87,10.0,2024,143
+1.0,8:06,1.0,10.0,SFO 29,0.0,0.0,Brock Purdy sacked by Greg Gaines for -5 yards,0.87,-0.35,10.0,2024,143
+1.0,7:21,2.0,15.0,SFO 24,0.0,0.0,Brock Purdy pass complete short middle to Christian McCaffrey for 8 yards (tackle by Antoine Winfield and J.J. Russell),-0.35,0.04,10.0,2024,143
+1.0,6:36,3.0,7.0,SFO 32,0.0,0.0,"Brock Purdy pass incomplete short middle intended for Ricky Pearsall (defended by Zyon McCollum). Penalty on Josh Hayes: Defensive Holding, 5 yards (accepted) (no play)",0.04,1.4,10.0,2024,143
+1.0,6:31,1.0,10.0,SFO 37,0.0,0.0,Christian McCaffrey left tackle for 5 yards (tackle by Jordan Whitehead),1.4,1.53,10.0,2024,143
+1.0,5:53,2.0,5.0,SFO 42,0.0,0.0,Brock Purdy pass complete short right to Christian McCaffrey for 7 yards (tackle by Jordan Whitehead and Lavonte David),1.53,2.19,10.0,2024,143
+1.0,5:04,1.0,10.0,SFO 49,0.0,0.0,Jordan Mason left end for 5 yards (tackle by J.J. Russell),2.19,2.32,10.0,2024,143
+1.0,4:25,2.0,5.0,TAM 46,6.0,0.0,"Brock Purdy pass complete deep middle to Ricky Pearsall for 46 yards, touchdown Replay Assistant challenged the runner was in bounds ruling, and the play was upheld.",2.32,7.0,10.0,2024,143
+1.0,4:15,,,TAM 15,7.0,0.0,Jake Moody kicks extra point good,0.0,0.0,10.0,2024,143
+1.0,4:15,,,SFO 35,7.0,0.0,"Jake Moody kicks off 65 yards, touchback.",0.0,0.94,10.0,2024,143
+1.0,4:15,1.0,10.0,TAM 30,7.0,0.0,Baker Mayfield pass complete short middle to Bucky Irving for 12 yards (tackle by Fred Warner and Malik Mustapha),0.94,1.73,10.0,2024,143
+1.0,3:37,1.0,10.0,TAM 42,7.0,0.0,Baker Mayfield pass incomplete short middle intended for Ryan Miller (defended by De'Vondre Campbell),1.73,1.19,10.0,2024,143
+1.0,3:30,2.0,10.0,TAM 42,7.0,0.0,Bucky Irving left end for 5 yards (tackle by De'Vondre Campbell),1.19,1.16,10.0,2024,143
+1.0,2:52,3.0,5.0,TAM 47,7.0,0.0,Baker Mayfield sacked by Maliek Collins for -1 yards,1.16,-0.32,10.0,2024,143
+1.0,2:13,4.0,6.0,TAM 46,7.0,0.0,"Trenton Gill punts 41 yards, fair catch by Jacob Cowing at SF-13",-0.32,0.32,10.0,2024,143
+1.0,2:07,1.0,10.0,SFO 13,7.0,0.0,"Penalty on Eric Saubert: False Start, 5 yards (accepted) (no play)",-0.32,-0.57,10.0,2024,143
+1.0,2:07,1.0,15.0,SFO 8,7.0,0.0,Christian McCaffrey up the middle for 7 yards (tackle by Antoine Winfield and K.J. Britt),-0.57,-0.57,10.0,2024,143
+1.0,1:31,2.0,8.0,SFO 15,7.0,0.0,Christian McCaffrey left end for 2 yards (tackle by Josh Hayes),-0.57,-0.94,10.0,2024,143
+1.0,0:45,3.0,6.0,SFO 17,7.0,0.0,Brock Purdy pass complete short middle to George Kittle for 13 yards (tackle by Joe Tryon-Shoyinka),-0.94,0.94,10.0,2024,143
+2.0,15:00,1.0,10.0,SFO 30,7.0,0.0,Brock Purdy pass complete short middle to Christian McCaffrey for 8 yards (tackle by Lavonte David),0.94,1.47,10.0,2024,143
+2.0,14:18,2.0,2.0,SFO 38,7.0,0.0,"Brock Purdy pass incomplete deep right intended for Jauan Jennings. Penalty on Zyon McCollum: Defensive Pass Interference, 15 yards (accepted) (no play)",1.47,2.46,10.0,2024,143
+2.0,14:14,1.0,10.0,TAM 47,7.0,0.0,Deebo Samuel left end for 2 yards (tackle by Lavonte David),2.46,2.18,10.0,2024,143
+2.0,13:30,2.0,8.0,TAM 45,7.0,0.0,Christian McCaffrey left end for -1 yards (tackle by Calijah Kancey and Lavonte David),2.18,1.35,10.0,2024,143
+2.0,12:43,3.0,9.0,TAM 46,7.0,0.0,Brock Purdy pass complete short right to Jauan Jennings for 11 yards (tackle by Zyon McCollum),1.35,3.25,10.0,2024,143
+2.0,12:00,1.0,10.0,TAM 35,7.0,0.0,Christian McCaffrey right guard for 1 yard (tackle by Lavonte David and K.J. Britt),3.25,2.84,10.0,2024,143
+2.0,11:16,2.0,9.0,TAM 34,7.0,0.0,Brock Purdy pass complete short middle to Deebo Samuel for 5 yards (tackle by Antoine Winfield),2.84,2.81,10.0,2024,143
+2.0,10:29,3.0,4.0,TAM 29,7.0,0.0,Brock Purdy pass complete deep right to Jauan Jennings for 18 yards (tackle by Jordan Whitehead),2.81,4.84,10.0,2024,143
+2.0,9:47,1.0,10.0,TAM 11,7.0,0.0,Christian McCaffrey right tackle for 1 yard (tackle by Jordan Whitehead),4.84,4.32,10.0,2024,143
+2.0,9:05,2.0,9.0,TAM 10,7.0,0.0,Brock Purdy pass incomplete short left intended for Ricky Pearsall,4.32,3.3,10.0,2024,143
+2.0,9:00,3.0,9.0,TAM 10,7.0,0.0,Brock Purdy pass incomplete short left intended for George Kittle,3.3,2.76,10.0,2024,143
+2.0,8:55,4.0,9.0,TAM 10,10.0,0.0,Jake Moody 28 yard field goal good,2.76,3.0,10.0,2024,143
+2.0,8:53,,,SFO 35,10.0,0.0,"Jake Moody kicks off 65 yards, touchback.",0.0,0.94,10.0,2024,143
+2.0,8:53,1.0,10.0,TAM 30,10.0,0.0,Baker Mayfield pass complete short left to Ryan Miller for 11 yards (tackle by Fred Warner and Isaac Yiadom),0.94,1.66,10.0,2024,143
+2.0,8:16,1.0,10.0,TAM 41,10.0,0.0,Bucky Irving left guard for 2 yards (tackle by Malik Mustapha),1.66,1.39,10.0,2024,143
+2.0,7:39,2.0,8.0,TAM 43,10.0,0.0,Baker Mayfield pass complete short left to Bucky Irving for 5 yards (tackle by Deommodore Lenoir and De'Vondre Campbell),1.39,1.36,10.0,2024,143
+2.0,7:01,3.0,3.0,TAM 48,10.0,0.0,Baker Mayfield pass complete short middle to Cade Otton for 9 yards (tackle by Fred Warner and Deommodore Lenoir),1.36,2.72,10.0,2024,143
+2.0,6:23,1.0,10.0,SFO 43,10.0,0.0,Baker Mayfield pass complete short left to Cade Otton for 2 yards (tackle by Sam Okuayinonu),2.72,2.45,10.0,2024,143
+2.0,5:46,2.0,8.0,SFO 41,10.0,0.0,Bucky Irving left tackle for 1 yard (tackle by Maliek Collins),2.45,1.88,10.0,2024,143
+2.0,5:07,3.0,7.0,SFO 40,10.0,0.0,Baker Mayfield pass complete short right to Cade Otton for 7 yards (tackle by Deommodore Lenoir and Fred Warner),1.88,3.38,10.0,2024,143
+2.0,4:44,1.0,10.0,SFO 33,10.0,0.0,Bucky Irving right tackle for 9 yards (tackle by Evan Anderson and Nick Bosa),3.38,4.05,10.0,2024,143
+2.0,4:08,2.0,1.0,SFO 24,10.0,0.0,Bucky Irving right tackle for 10 yards (tackle by Renardo Green),4.05,4.65,10.0,2024,143
+2.0,3:30,1.0,10.0,SFO 14,10.0,0.0,Sterling Shepard right end for 3 yards (tackle by De'Vondre Campbell),4.65,4.52,10.0,2024,143
+2.0,2:45,2.0,7.0,SFO 11,10.0,0.0,Baker Mayfield pass complete short middle to Cade Otton for 2 yards (tackle by Malik Mustapha and De'Vondre Campbell),4.52,4.05,10.0,2024,143
+2.0,2:00,3.0,5.0,SFO 9,10.0,0.0,Baker Mayfield pass complete short right to Bucky Irving for -3 yards (tackle by De'Vondre Campbell),4.05,2.63,10.0,2024,143
+2.0,1:17,4.0,8.0,SFO 12,10.0,3.0,Chase McLaughlin 30 yard field goal good,2.63,3.0,10.0,2024,143
+2.0,1:14,,,TAM 35,10.0,3.0,"Trenton Gill kicks off 56 yards, returned by Ronnie Bell for 23 yards (tackle by Tavierre Thomas and J.J. Russell)",0.0,1.07,10.0,2024,143
+2.0,1:08,1.0,10.0,SFO 32,10.0,3.0,Brock Purdy pass complete short right to Jauan Jennings for 30 yards (tackle by Jordan Whitehead),1.07,3.05,10.0,2024,143
+2.0,0:43,1.0,10.0,TAM 38,10.0,3.0,Brock Purdy pass incomplete short middle,3.05,2.51,10.0,2024,143
+2.0,0:38,2.0,10.0,TAM 38,10.0,3.0,Brock Purdy pass incomplete short left intended for Jauan Jennings (defended by Josh Hayes),2.51,1.82,10.0,2024,143
+2.0,0:34,3.0,10.0,TAM 38,10.0,3.0,Brock Purdy pass complete short left to Ricky Pearsall for 7 yards (tackle by Zyon McCollum),1.82,1.38,10.0,2024,143
+2.0,0:29,4.0,3.0,TAM 31,10.0,3.0,Jake Moody 49 yard field goal no good,1.38,-1.53,10.0,2024,143
+2.0,0:25,1.0,10.0,TAM 39,10.0,3.0,Baker Mayfield pass incomplete short right intended for Cade Otton,1.53,0.99,10.0,2024,143
+2.0,0:22,2.0,10.0,TAM 39,10.0,3.0,"Baker Mayfield pass complete short right to Rakim Jarrett for 13 yards (tackle by Renardo Green) Replay Assistant challenged the pass completion ruling, and the original play was overturned. Baker Mayfield pass incomplete short right intended for Rakim Jarrett (defended by Renardo Green)",0.99,0.3,10.0,2024,143
+2.0,0:19,,,,,,Timeout #1 by San Francisco 49ers,,,10.0,2024,143
+2.0,0:19,3.0,10.0,TAM 39,10.0,3.0,"Penalty on Sam Okuayinonu: Neutral Zone Infraction, 5 yards (accepted) (no play)",0.3,0.96,10.0,2024,143
+2.0,0:19,3.0,5.0,TAM 44,10.0,3.0,Baker Mayfield pass incomplete short right intended for Cade Otton,0.96,-0.46,10.0,2024,143
+2.0,0:16,4.0,5.0,TAM 44,10.0,3.0,Trenton Gill punts 48 yards out of bounds,-0.46,0.38,10.0,2024,143
+2.0,0:08,1.0,10.0,SFO 8,10.0,3.0,Brock Purdy kneels for -1 yards,-0.38,-0.85,10.0,2024,143
+3.0,15:00,,,SFO 35,10.0,3.0,"Jake Moody kicks off 65 yards, touchback.",0.0,0.94,10.0,2024,143
+3.0,15:00,1.0,10.0,TAM 30,10.0,3.0,Rachaad White right guard for 6 yards (tackle by Fred Warner and Malik Mustapha),0.94,1.2,10.0,2024,143
+3.0,14:17,2.0,4.0,TAM 36,10.0,3.0,Baker Mayfield pass incomplete deep middle intended for Trey Palmer (defended by Leonard Floyd),1.2,0.5,10.0,2024,143
+3.0,14:12,3.0,4.0,TAM 36,10.0,3.0,Baker Mayfield pass incomplete short right intended for Cade Otton,0.5,-0.98,10.0,2024,143
+3.0,14:05,4.0,4.0,TAM 36,10.0,3.0,"Trenton Gill punts 44 yards, recovered by Anthony Nelson at SF-21",-0.98,4.17,10.0,2024,143
+3.0,13:55,1.0,10.0,SFO 21,10.0,3.0,Bucky Irving left guard for 8 yards (tackle by Isaac Yiadom),4.17,4.95,10.0,2024,143
+3.0,13:20,2.0,2.0,SFO 13,10.0,3.0,Bucky Irving right guard for no gain (tackle by Deommodore Lenoir),4.95,4.24,10.0,2024,143
+3.0,12:45,3.0,2.0,SFO 13,10.0,3.0,Bucky Irving left tackle for 4 yards (tackle by De'Vondre Campbell and Malik Mustapha),4.24,5.14,10.0,2024,143
+3.0,12:05,1.0,9.0,SFO 9,10.0,9.0,"Baker Mayfield pass complete short middle to Rachaad White for 9 yards, touchdown",5.14,7.0,10.0,2024,143
+3.0,11:58,,,SFO 15,10.0,10.0,Chase McLaughlin kicks extra point good,0.0,0.0,10.0,2024,143
+3.0,11:58,,,TAM 35,10.0,10.0,"Trenton Gill kicks off 65 yards, touchback.",0.0,0.94,10.0,2024,143
+3.0,11:58,1.0,10.0,SFO 30,10.0,10.0,Christian McCaffrey right guard for 13 yards (tackle by Antoine Winfield),0.94,1.8,10.0,2024,143
+3.0,11:16,1.0,10.0,SFO 43,10.0,10.0,Brock Purdy pass complete short left to Deebo Samuel for 10 yards (tackle by Josh Hayes and Antoine Winfield),1.8,2.46,10.0,2024,143
+3.0,10:32,1.0,10.0,TAM 47,10.0,10.0,"Brock Purdy scrambles right end for 5 yards (tackle by YaYa Diaby). Penalty on Zyon McCollum: Illegal Contact, 5 yards (accepted)",2.46,3.12,10.0,2024,143
+3.0,10:00,1.0,10.0,TAM 37,10.0,10.0,Christian McCaffrey up the middle for -3 yards (tackle by Calijah Kancey),3.12,2.17,10.0,2024,143
+3.0,9:16,2.0,13.0,TAM 40,10.0,10.0,Brock Purdy pass complete short middle to Christian McCaffrey for 8 yards (tackle by Lavonte David and Christian Izien),2.17,2.54,10.0,2024,143
+3.0,8:33,3.0,5.0,TAM 32,10.0,10.0,Brock Purdy pass complete short middle to Deebo Samuel for 11 yards (tackle by Josh Hayes),2.54,4.17,10.0,2024,143
+3.0,7:50,1.0,10.0,TAM 21,10.0,10.0,Christian McCaffrey left end for 5 yards (tackle by Josh Hayes and Antoine Winfield),4.17,4.37,10.0,2024,143
+3.0,7:07,2.0,5.0,TAM 16,10.0,10.0,Brock Purdy pass incomplete short left intended for Jauan Jennings,4.37,3.63,10.0,2024,143
+3.0,7:03,3.0,5.0,TAM 16,10.0,10.0,Brock Purdy pass complete short left to Christian McCaffrey for 7 yards (tackle by Anthony Nelson),3.63,5.14,10.0,2024,143
+3.0,6:23,1.0,9.0,TAM 9,10.0,10.0,Isaac Guerendo up the middle for no gain (tackle by Jordan Whitehead and Lavonte David),5.14,4.38,10.0,2024,143
+3.0,5:46,2.0,9.0,TAM 9,10.0,10.0,Brock Purdy sacked by Joe Tryon-Shoyinka for -10 yards,4.38,2.49,10.0,2024,143
+3.0,5:06,3.0,19.0,TAM 19,10.0,10.0,Brock Purdy pass complete short right to Deebo Samuel for 4 yards (tackle by Calijah Kancey and Jordan Whitehead),2.49,2.44,10.0,2024,143
+3.0,4:25,4.0,15.0,TAM 15,13.0,10.0,Jake Moody 33 yard field goal good,2.44,3.0,10.0,2024,143
+3.0,4:21,,,SFO 35,13.0,10.0,"Jake Moody kicks off 65 yards, touchback.",0.0,0.94,10.0,2024,143
+3.0,4:21,1.0,10.0,TAM 30,13.0,10.0,Baker Mayfield pass complete short right to Sterling Shepard for 7 yards (tackle by Renardo Green),0.94,1.34,10.0,2024,143
+3.0,3:47,2.0,3.0,TAM 37,13.0,10.0,Rachaad White right guard for 5 yards (tackle by Robert Beal),1.34,1.73,10.0,2024,143
+3.0,3:07,1.0,10.0,TAM 42,13.0,10.0,Rachaad White up the middle for 1 yard (tackle by Fred Warner),1.73,1.32,10.0,2024,143
+3.0,2:25,2.0,9.0,TAM 43,13.0,10.0,Baker Mayfield pass complete short right to Rachaad White for 10 yards (tackle by Renardo Green),1.32,2.46,10.0,2024,143
+3.0,1:48,1.0,10.0,SFO 47,13.0,10.0,Rachaad White right guard for 8 yards (tackle by Nick Bosa),2.46,2.99,10.0,2024,143
+3.0,1:07,2.0,2.0,SFO 39,13.0,10.0,Rachaad White right guard for 5 yards (tackle by Deommodore Lenoir),2.99,3.31,10.0,2024,143
+3.0,0:26,1.0,10.0,SFO 34,13.0,10.0,Baker Mayfield pass incomplete deep right intended for Ryan Miller (defended by Renardo Green),3.31,2.77,10.0,2024,143
+3.0,0:17,2.0,10.0,SFO 34,13.0,10.0,Bucky Irving left end for 8 yards (tackle by Malik Mustapha),2.77,3.14,10.0,2024,143
+4.0,15:00,3.0,2.0,SFO 26,13.0,10.0,Bucky Irving up the middle for 14 yards (tackle by Ji'Ayir Brown and Malik Mustapha),3.14,4.78,10.0,2024,143
+4.0,14:24,1.0,10.0,SFO 12,13.0,16.0,"Bucky Irving right end for 12 yards, touchdown",4.78,7.0,10.0,2024,143
+4.0,14:18,,,SFO 15,13.0,17.0,Chase McLaughlin kicks extra point good,0.0,0.0,10.0,2024,143
+4.0,14:18,,,TAM 35,13.0,17.0,"Trenton Gill kicks off 65 yards, touchback.",0.0,0.94,10.0,2024,143
+4.0,14:18,1.0,10.0,SFO 30,13.0,17.0,Brock Purdy pass complete short left to George Kittle for 33 yards (tackle by Jordan Whitehead and William Gholston),0.94,3.12,10.0,2024,143
+4.0,13:27,1.0,10.0,TAM 37,13.0,17.0,Brock Purdy pass incomplete short middle intended for Deebo Samuel,3.12,2.57,10.0,2024,143
+4.0,13:21,2.0,10.0,TAM 37,13.0,17.0,Christian McCaffrey left end for 1 yard (tackle by Lavonte David),2.57,2.01,10.0,2024,143
+4.0,12:37,3.0,9.0,TAM 36,13.0,17.0,Brock Purdy pass complete short right to Jauan Jennings for 4 yards (tackle by Christian Izien),2.01,1.26,10.0,2024,143
+4.0,11:54,4.0,5.0,TAM 32,13.0,17.0,Jake Moody 50 yard field goal no good,1.26,-1.6,10.0,2024,143
+4.0,11:50,1.0,10.0,TAM 40,13.0,17.0,Bucky Irving left guard for -2 yards (tackle by Jordan Elliott),1.6,0.78,10.0,2024,143
+4.0,11:16,2.0,12.0,TAM 38,13.0,17.0,Baker Mayfield pass complete short right to Rakim Jarrett for 6 yards (tackle by Renardo Green and Deommodore Lenoir),0.78,0.89,10.0,2024,143
+4.0,10:35,3.0,6.0,TAM 44,13.0,17.0,Baker Mayfield pass incomplete deep left intended for Sterling Shepard,0.89,-0.46,10.0,2024,143
+4.0,10:30,4.0,6.0,TAM 44,13.0,17.0,"Trenton Gill punts 50 yards, returned by Jacob Cowing for 30 yards (tackle by Sean Tucker and Trenton Gill)",-0.46,-1.33,10.0,2024,143
+4.0,10:17,1.0,10.0,SFO 36,13.0,17.0,Christian McCaffrey right tackle for no gain (tackle by Jordan Whitehead and YaYa Diaby),1.33,0.79,10.0,2024,143
+4.0,9:36,2.0,10.0,SFO 36,13.0,17.0,Brock Purdy pass complete short right to Jauan Jennings for 11 yards (tackle by Zyon McCollum),0.79,2.06,10.0,2024,143
+4.0,8:55,1.0,10.0,SFO 47,13.0,17.0,Brock Purdy pass complete deep right to Christian McCaffrey for 30 yards (tackle by Antoine Winfield),2.06,4.04,10.0,2024,143
+4.0,8:13,1.0,10.0,TAM 23,13.0,17.0,Deebo Samuel left end for no gain (tackle by Josh Hayes),4.04,3.5,10.0,2024,143
+4.0,7:25,2.0,10.0,TAM 23,13.0,17.0,"Brock Purdy pass incomplete short right. Penalty on Calijah Kancey: Unnecessary Roughness / Defense, 12 yards (accepted) (no play)",3.5,4.84,10.0,2024,143
+4.0,7:17,1.0,10.0,TAM 11,13.0,17.0,Brock Purdy pass incomplete short middle intended for Jauan Jennings (defended by Josh Hayes),4.84,4.14,10.0,2024,143
+4.0,7:14,2.0,10.0,TAM 11,19.0,17.0,"Brock Purdy pass complete short left to George Kittle for 11 yards, touchdown",4.14,7.0,10.0,2024,143
+4.0,7:02,,,TAM 15,20.0,17.0,Jake Moody kicks extra point good,0.0,0.0,10.0,2024,143
+4.0,7:02,,,SFO 35,20.0,17.0,"Jake Moody kicks off 65 yards, touchback.",0.0,0.94,10.0,2024,143
+4.0,7:02,1.0,10.0,TAM 30,20.0,17.0,Rachaad White right tackle for 1 yard (tackle by Kalia Davis),0.94,0.53,10.0,2024,143
+4.0,6:22,2.0,9.0,TAM 31,20.0,17.0,"Baker Mayfield aborted snap, recovered by Baker Mayfield at TB-27 and returned for -4 yards",0.53,-0.69,10.0,2024,143
+4.0,5:48,3.0,13.0,TAM 27,20.0,17.0,Baker Mayfield sacked by Nick Bosa for -10 yards,-0.69,-2.32,10.0,2024,143
+4.0,5:09,4.0,23.0,TAM 17,20.0,17.0,Trenton Gill punts 44 yards downed by Keenan Isaac,-2.32,-1.53,10.0,2024,143
+4.0,4:57,1.0,10.0,SFO 39,20.0,17.0,Brock Purdy pass complete short middle to Deebo Samuel for 32 yards (tackle by Antoine Winfield),1.53,3.64,10.0,2024,143
+4.0,4:48,1.0,10.0,TAM 29,20.0,17.0,Christian McCaffrey right end for 2 yards (tackle by Jordan Whitehead and Logan Hall),3.64,3.37,10.0,2024,143
+4.0,4:02,2.0,8.0,TAM 27,20.0,17.0,"Brock Purdy sacked by Calijah Kancey for no gain. Brock Purdy fumbles (forced by Calijah Kancey), recovered by Jauan Jennings at TB-26",3.37,2.81,10.0,2024,143
+4.0,3:16,3.0,7.0,TAM 26,20.0,17.0,Brock Purdy pass incomplete short left intended for Christian McCaffrey (defended by Antoine Winfield),2.81,1.74,10.0,2024,143
+4.0,3:13,4.0,7.0,TAM 26,20.0,17.0,Jake Moody 44 yard field goal no good,1.74,-1.2,10.0,2024,143
+4.0,3:09,1.0,10.0,TAM 34,20.0,17.0,Baker Mayfield pass complete short right to Rachaad White for 6 yards (tackle by Leonard Floyd),1.2,1.47,10.0,2024,143
+4.0,2:30,2.0,4.0,TAM 40,20.0,17.0,"Baker Mayfield aborted snap, recovered by Baker Mayfield at TB-36 and returned for -2 yards Baker Mayfield up the middle for -2 yards. Baker Mayfield fumbles, recovered by Bucky Irving at TB-37",1.47,0.37,10.0,2024,143
+4.0,2:00,3.0,7.0,TAM 37,20.0,17.0,Baker Mayfield pass incomplete short left intended for Sterling Shepard,0.37,-0.91,10.0,2024,143
+4.0,1:57,4.0,7.0,TAM 37,20.0,17.0,Baker Mayfield pass complete short right to Rachaad White for 8 yards (tackle by Fred Warner),-0.91,1.93,10.0,2024,143
+4.0,1:33,1.0,10.0,TAM 45,20.0,17.0,"Baker Mayfield pass incomplete short right intended for Sterling Shepard. Penalty on Rock Ya-Sin: Defensive Holding, 5 yards (accepted) (no play)",1.93,2.26,10.0,2024,143
+4.0,1:27,1.0,10.0,TAM 50,20.0,17.0,Baker Mayfield scrambles right end for 3 yards (tackle by Sam Okuayinonu),2.26,2.12,10.0,2024,143
+4.0,1:20,2.0,7.0,SFO 47,20.0,17.0,Baker Mayfield pass incomplete short right intended for Rachaad White,2.12,1.42,10.0,2024,143
+4.0,1:17,3.0,7.0,SFO 47,20.0,17.0,"Baker Mayfield pass incomplete short left intended for Cade Otton. Penalty on Fred Warner: Face Mask (15 Yards), 15 yards (accepted) (no play)",1.42,3.45,10.0,2024,143
+4.0,1:14,1.0,10.0,SFO 32,20.0,17.0,"Baker Mayfield pass complete short right to Rachaad White for 5 yards (tackle by Ji'Ayir Brown). Penalty on Maliek Collins: Roughing the Passer, 14 yards (accepted)",3.45,4.71,10.0,2024,143
+4.0,1:04,1.0,10.0,SFO 13,20.0,17.0,"Rachaad White left end for no gain (tackle by Nick Bosa). Penalty on Evan Anderson: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",4.71,5.37,10.0,2024,143
+4.0,0:59,1.0,8.0,SFO 8,20.0,17.0,Rachaad White left guard for 3 yards (tackle by Nick Bosa),5.37,5.15,10.0,2024,143
+4.0,0:53,,,,,,Timeout #1 by San Francisco 49ers,,,10.0,2024,143
+4.0,0:53,2.0,5.0,SFO 5,20.0,17.0,Rachaad White up the middle for -3 yards (tackle by Evan Anderson),5.15,3.58,10.0,2024,143
+4.0,0:48,,,,,,Timeout #2 by San Francisco 49ers,,,10.0,2024,143
+4.0,0:48,3.0,8.0,SFO 8,20.0,17.0,Baker Mayfield pass incomplete short right intended for Rakim Jarrett (defended by Rock Ya-Sin),3.58,2.95,10.0,2024,143
+4.0,0:44,4.0,8.0,SFO 8,20.0,20.0,Chase McLaughlin 26 yard field goal good,2.95,3.0,10.0,2024,143
+4.0,0:41,,,TAM 35,20.0,20.0,"Trenton Gill kicks off 65 yards, touchback.. Penalty on Josh Hayes: Illegal Formation, 5 yards (accepted)",0.0,1.27,10.0,2024,143
+4.0,0:41,1.0,10.0,SFO 35,20.0,20.0,Brock Purdy pass complete short left to Jauan Jennings for 6 yards,1.27,1.53,10.0,2024,143
+4.0,0:36,2.0,4.0,SFO 41,20.0,20.0,Brock Purdy pass complete short right to Ricky Pearsall for 6 yards (tackle by Tyrek Funderburk),1.53,2.06,10.0,2024,143
+4.0,0:31,1.0,10.0,SFO 47,20.0,20.0,Brock Purdy pass complete short left to Ricky Pearsall for 14 yards (tackle by Christian Izien),2.06,2.98,10.0,2024,143
+4.0,0:23,,,,,,Timeout #3 by San Francisco 49ers,,,10.0,2024,143
+4.0,0:23,1.0,10.0,TAM 39,20.0,20.0,Brock Purdy pass complete short right to Jauan Jennings for 13 yards (tackle by Jordan Whitehead and Tyrek Funderburk),2.98,3.84,10.0,2024,143
+4.0,0:04,1.0,10.0,TAM 26,20.0,20.0,Brock Purdy spiked the ball,3.84,3.3,10.0,2024,143
+4.0,0:03,2.0,10.0,TAM 26,23.0,20.0,Jake Moody 44 yard field goal good,3.3,3.0,10.0,2024,143

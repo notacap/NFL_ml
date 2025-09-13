@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,CIN 30,12,5:37,70,Touchdown,0,Bengals,10.0,2024,139
+2,1,7:54,CIN 10,11,4:58,49,Downs,0,Bengals,10.0,2024,139
+3,2,13:04,CIN 30,3,1:36,8,Punt,0,Bengals,10.0,2024,139
+4,2,9:14,CIN 30,7,3:42,4,Punt,0,Bengals,10.0,2024,139
+5,2,4:02,CIN 27,10,3:32,73,Touchdown,0,Bengals,10.0,2024,139
+6,3,13:21,CIN 33,1,0:12,67,Touchdown,0,Bengals,10.0,2024,139
+7,3,8:58,CIN 8,5,2:00,22,Fumble,0,Bengals,10.0,2024,139
+8,3,4:12,CIN 19,8,4:28,41,Punt,0,Bengals,10.0,2024,139
+9,4,13:30,CIN 30,8,4:06,36,Downs,0,Bengals,10.0,2024,139
+10,4,5:50,CIN 30,1,0:13,70,Touchdown,0,Bengals,10.0,2024,139
+11,4,1:49,CIN 30,9,1:11,70,Touchdown,0,Bengals,10.0,2024,139

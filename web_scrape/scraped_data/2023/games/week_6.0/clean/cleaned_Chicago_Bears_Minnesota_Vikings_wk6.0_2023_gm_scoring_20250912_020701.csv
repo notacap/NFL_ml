@@ -1,0 +1,8 @@
+Quarter,Time,Tm,Detail,MIN,CHI,week,year,game_id
+1.0,6:24,Vikings,Greg Joseph 53 yard field goal,3,0,6.0,2023,84
+2.0,13:41,Bears,Cairo Santos 22 yard field goal,3,3,6.0,2023,84
+,8:56,Vikings,Greg Joseph 51 yard field goal,6,3,6.0,2023,84
+,3:18,Bears,Cairo Santos 53 yard field goal,6,6,6.0,2023,84
+,0:12,Vikings,Jordan Addison 10 yard pass from Kirk Cousins (Greg Joseph kick failed),12,6,6.0,2023,84
+3.0,6:44,Vikings,Jordan Hicks 42 yard fumble return (Greg Joseph kick),19,6,6.0,2023,84
+4.0,7:46,Bears,Tyson Bagent 1 yard rush (Cairo Santos kick),19,13,6.0,2023,84

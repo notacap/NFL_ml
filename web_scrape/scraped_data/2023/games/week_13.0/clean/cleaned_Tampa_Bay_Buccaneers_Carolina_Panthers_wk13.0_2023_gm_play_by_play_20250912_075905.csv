@@ -1,0 +1,172 @@
+Quarter,Time,Down,ToGo,Location,CAR,TAM,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Panthers won the coin toss and deferred, Buccaneers to receive the opening kickoff.",,,13.0,2023,189
+1.0,15:00,,,CAR 35,0.0,0.0,"Eddy Pineiro kicks off 65 yards, touchback.",0.0,0.61,13.0,2023,189
+1.0,15:00,1.0,10.0,TAM 25,0.0,0.0,Rachaad White up the middle for 8 yards (tackle by Shy Tuttle and Frankie Luvu),0.61,1.14,13.0,2023,189
+1.0,14:29,2.0,2.0,TAM 33,0.0,0.0,Baker Mayfield pass incomplete short right intended for Chris Godwin,1.14,0.43,13.0,2023,189
+1.0,14:26,3.0,2.0,TAM 33,0.0,0.0,Deven Thompkins left end for 2 yards (tackle by Troy Hill),0.43,1.27,13.0,2023,189
+1.0,13:47,1.0,10.0,TAM 35,0.0,0.0,Rachaad White left guard for 4 yards (tackle by Brian Burns),1.27,1.26,13.0,2023,189
+1.0,13:03,2.0,6.0,TAM 39,0.0,0.0,Trey Palmer left end for 13 yards (tackle by Deion Jones and Xavier Woods),1.26,2.39,13.0,2023,189
+1.0,12:21,1.0,10.0,CAR 48,0.0,0.0,Rachaad White up the middle for 1 yard (tackle by Amare Barno and Derrick Brown),2.39,1.98,13.0,2023,189
+1.0,11:49,2.0,9.0,CAR 47,0.0,0.0,"Baker Mayfield pass complete short right to Cade Otton for no gain (tackle by Frankie Luvu). Penalty on Rachaad White: Offensive Pass Interference, 10 yards (accepted) (no play)",1.98,0.63,13.0,2023,189
+1.0,11:22,2.0,19.0,TAM 43,0.0,0.0,Rachaad White up the middle for 6 yards (tackle by Marquis Haynes),0.63,0.76,13.0,2023,189
+1.0,10:44,3.0,13.0,TAM 49,0.0,0.0,Baker Mayfield pass incomplete short middle intended for Trey Palmer (defended by Troy Hill),0.76,-0.13,13.0,2023,189
+1.0,10:38,4.0,13.0,TAM 49,0.0,0.0,"Jake Camarda punts 36 yards, fair catch by Ihmir Smith-Marsette at CAR-15",-0.13,0.22,13.0,2023,189
+1.0,10:31,1.0,10.0,CAR 15,0.0,0.0,Chuba Hubbard up the middle for no gain (tackle by YaYa Diaby),-0.22,-0.71,13.0,2023,189
+1.0,9:55,2.0,10.0,CAR 15,0.0,0.0,Bryce Young pass incomplete short right,-0.71,-1.37,13.0,2023,189
+1.0,9:51,3.0,10.0,CAR 15,0.0,0.0,"Bryce Young pass incomplete deep left intended for Jonathan Mingo CAR challenged the pass completion ruling, and the play was upheld.",-1.37,-2.44,13.0,2023,189
+1.0,9:46,4.0,10.0,CAR 15,0.0,0.0,"Johnny Hekker punts 57 yards, returned by Deven Thompkins for 15 yards (tackle by Kamu Grugier-Hill)",-2.44,-1.8,13.0,2023,189
+1.0,9:34,1.0,10.0,TAM 43,0.0,0.0,Baker Mayfield pass complete short right to Mike Evans for 5 yards (tackle by Xavier Woods and Jaycee Horn),1.8,1.93,13.0,2023,189
+1.0,8:59,2.0,5.0,TAM 48,0.0,0.0,Rachaad White left guard for 1 yard (tackle by Marquis Haynes and Shy Tuttle),1.93,1.35,13.0,2023,189
+1.0,8:22,3.0,4.0,TAM 49,0.0,0.0,Baker Mayfield pass complete short right to Trey Palmer for 6 yards (tackle by Jaycee Horn),1.35,2.59,13.0,2023,189
+1.0,7:44,1.0,10.0,CAR 45,0.0,0.0,Baker Mayfield pass incomplete short middle intended for Rachaad White (defended by Frankie Luvu),2.59,2.04,13.0,2023,189
+1.0,7:38,2.0,10.0,CAR 45,0.0,0.0,Baker Mayfield pass incomplete short left intended for Trey Palmer (defended by Donte Jackson),2.04,1.36,13.0,2023,189
+1.0,7:34,3.0,10.0,CAR 45,0.0,0.0,Baker Mayfield pass complete deep right to Mike Evans for 40 yards (tackle by Alex Cook),1.36,6.06,13.0,2023,189
+1.0,7:02,1.0,5.0,CAR 5,0.0,0.0,Rachaad White up the middle for 2 yards (tackle by Nick Thurman and Frankie Luvu),6.06,5.53,13.0,2023,189
+1.0,6:23,2.0,3.0,CAR 3,0.0,0.0,"Baker Mayfield pass incomplete intended for Mike Evans. Penalty on Xavier Woods: Defensive Pass Interference, 2 yards (accepted) (no play)",5.53,6.97,13.0,2023,189
+1.0,6:16,1.0,1.0,CAR 1,0.0,6.0,"Rachaad White up the middle for 1 yard, touchdown",6.97,7.0,13.0,2023,189
+1.0,6:08,,,CAR 15,0.0,7.0,Chase McLaughlin kicks extra point good,0.0,0.0,13.0,2023,189
+1.0,6:08,,,TAM 35,0.0,7.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,13.0,2023,189
+1.0,6:08,1.0,10.0,CAR 25,0.0,7.0,"Chuba Hubbard left guard for 7 yards (tackle by Dee Delaney and K.J. Britt). Penalty on Justin McCray: Offensive Holding, 10 yards (accepted)",0.61,0.41,13.0,2023,189
+1.0,5:38,1.0,13.0,CAR 22,0.0,7.0,Chuba Hubbard up the middle for 3 yards (tackle by Calijah Kancey and K.J. Britt),0.41,0.06,13.0,2023,189
+1.0,4:58,2.0,10.0,CAR 25,0.0,7.0,Chuba Hubbard up the middle for 6 yards (tackle by J.J. Russell),0.06,0.17,13.0,2023,189
+1.0,4:16,3.0,4.0,CAR 31,0.0,7.0,Bryce Young pass complete short right to Adam Thielen for 6 yards (tackle by Christian Izien),0.17,1.4,13.0,2023,189
+1.0,3:32,1.0,10.0,CAR 37,0.0,7.0,Bryce Young pass complete short right to Ian Thomas for 6 yards (tackle by Joe Tryon-Shoyinka),1.4,1.67,13.0,2023,189
+1.0,2:52,2.0,4.0,CAR 43,0.0,7.0,Chuba Hubbard right guard for 6 yards (tackle by Anthony Nelson),1.67,2.19,13.0,2023,189
+1.0,2:13,1.0,10.0,CAR 49,0.0,7.0,Bryce Young pass complete short left to Adam Thielen for 12 yards (tackle by Ryan Neal),2.19,2.98,13.0,2023,189
+1.0,1:31,1.0,10.0,TAM 39,0.0,7.0,Chuba Hubbard left tackle for 17 yards (tackle by Antoine Winfield),2.98,4.11,13.0,2023,189
+1.0,0:53,1.0,10.0,TAM 22,0.0,7.0,Chuba Hubbard up the middle for -2 yards (tackle by Anthony Nelson and Zyon McCollum),4.11,3.29,13.0,2023,189
+1.0,0:13,2.0,12.0,TAM 24,0.0,7.0,"Bryce Young pass complete short right to Jonathan Mingo for 3 yards (tackle by Carlton Davis). Penalty on Carlton Davis: Unnecessary Roughness / Defense, 10 yards (accepted)",3.29,4.84,13.0,2023,189
+2.0,15:00,1.0,10.0,TAM 11,0.0,7.0,Chuba Hubbard right end for 9 yards (tackle by Carlton Davis),4.84,5.85,13.0,2023,189
+2.0,14:18,2.0,1.0,TAM 2,0.0,7.0,Bryce Young pass incomplete short right intended for Jonathan Mingo,5.85,5.12,13.0,2023,189
+2.0,14:14,3.0,1.0,TAM 2,0.0,7.0,Chuba Hubbard right end for -3 yards (tackle by Ryan Neal),5.12,3.01,13.0,2023,189
+2.0,13:33,4.0,4.0,TAM 5,3.0,7.0,Eddy Pineiro 23 yard field goal good,3.01,3.0,13.0,2023,189
+2.0,13:30,,,CAR 35,3.0,7.0,"Eddy Pineiro kicks off 65 yards, touchback.",0.0,0.61,13.0,2023,189
+2.0,13:30,1.0,10.0,TAM 25,3.0,7.0,Chase Edmonds right guard for 4 yards (tackle by Frankie Luvu),0.61,0.6,13.0,2023,189
+2.0,12:56,2.0,6.0,TAM 29,3.0,7.0,Baker Mayfield pass incomplete short left,0.6,-0.1,13.0,2023,189
+2.0,12:52,3.0,6.0,TAM 29,3.0,7.0,Baker Mayfield pass complete short right to Chase Edmonds for 2 yards (tackle by C.J. Henderson),-0.1,-1.31,13.0,2023,189
+2.0,12:16,4.0,4.0,TAM 31,3.0,7.0,"Jake Camarda punts 42 yards, returned by Ihmir Smith-Marsette for no gain (tackle by Chase Edmonds)",-1.31,-0.74,13.0,2023,189
+2.0,12:09,1.0,10.0,CAR 27,3.0,7.0,Bryce Young pass complete short left to Jonathan Mingo for 4 yards,0.74,0.74,13.0,2023,189
+2.0,11:38,2.0,6.0,CAR 31,3.0,7.0,Miles Sanders up the middle for 5 yards (tackle by Antoine Winfield),0.74,0.7,13.0,2023,189
+2.0,10:59,3.0,1.0,CAR 36,3.0,7.0,Miles Sanders left end for -2 yards (tackle by Antoine Winfield and YaYa Diaby),0.7,-1.11,13.0,2023,189
+2.0,10:17,4.0,3.0,CAR 34,3.0,7.0,"Johnny Hekker punts 44 yards, fair catch by Deven Thompkins at TB-22",-1.11,-0.41,13.0,2023,189
+2.0,10:09,1.0,10.0,TAM 22,3.0,7.0,Baker Mayfield pass incomplete short right intended for Rachaad White,0.41,-0.13,13.0,2023,189
+2.0,10:05,2.0,10.0,TAM 22,3.0,7.0,Rachaad White up the middle for 2 yards (tackle by Amare Barno),-0.13,-0.56,13.0,2023,189
+2.0,9:25,3.0,8.0,TAM 24,3.0,7.0,Baker Mayfield pass incomplete deep left intended for Mike Evans,-0.56,-1.77,13.0,2023,189
+2.0,9:20,4.0,8.0,TAM 24,3.0,7.0,"Jake Camarda punts 56 yards, returned by Ihmir Smith-Marsette for 23 yards (tackle by Chase Edmonds and Anthony Nelson)",-1.77,-1.8,13.0,2023,189
+2.0,9:07,1.0,10.0,CAR 43,3.0,7.0,Miles Sanders right end for 8 yards (tackle by J.J. Russell),1.8,2.33,13.0,2023,189
+2.0,8:30,2.0,2.0,TAM 49,3.0,7.0,Miles Sanders right tackle for 3 yards (tackle by Ryan Neal),2.33,2.52,13.0,2023,189
+2.0,7:54,1.0,10.0,TAM 46,3.0,7.0,Miles Sanders right guard for 2 yards (tackle by YaYa Diaby and Carlton Davis),2.52,2.25,13.0,2023,189
+2.0,7:14,2.0,8.0,TAM 44,3.0,7.0,Bryce Young sacked by. Bryce Young fumbles,2.25,0.1,13.0,2023,189
+2.0,6:45,3.0,19.0,CAR 45,3.0,7.0,Bryce Young pass complete short right to Jonathan Mingo for 9 yards (tackle by Joe Tryon-Shoyinka and Antoine Winfield),0.1,0.2,13.0,2023,189
+2.0,5:59,4.0,10.0,TAM 46,3.0,7.0,Johnny Hekker punts 39 yards downed by Sam Franklin,0.2,0.38,13.0,2023,189
+2.0,5:50,1.0,10.0,TAM 7,3.0,7.0,Rachaad White up the middle for 1 yard (tackle by Derrick Brown),-0.38,-0.71,13.0,2023,189
+2.0,5:10,2.0,9.0,TAM 8,3.0,7.0,Rachaad White up the middle for 1 yard (tackle by Shy Tuttle and Derrick Brown),-0.71,-1.19,13.0,2023,189
+2.0,4:29,3.0,8.0,TAM 9,3.0,7.0,Baker Mayfield pass complete short middle to Mike Evans for 13 yards (tackle by Jaycee Horn),-1.19,0.41,13.0,2023,189
+2.0,3:52,1.0,10.0,TAM 22,3.0,7.0,Rachaad White up the middle for 1 yard (tackle by Yetur Gross-Matos),0.41,0.0,13.0,2023,189
+2.0,3:12,2.0,9.0,TAM 23,3.0,7.0,Rachaad White right end for 6 yards (tackle by Jaycee Horn),0.0,0.1,13.0,2023,189
+2.0,2:32,3.0,3.0,TAM 29,3.0,7.0,Baker Mayfield pass deep left intended for Mike Evans is intercepted by Xavier Woods at CAR-43 and returned for -3 yards (tackle by Mike Evans),0.1,-1.6,13.0,2023,189
+2.0,2:22,1.0,10.0,CAR 40,3.0,7.0,"Bryce Young pass incomplete short right. Penalty on Bryce Young: Intentional Grounding, 15 yards (accepted)",1.6,-0.97,13.0,2023,189
+2.0,2:16,2.0,25.0,CAR 25,3.0,7.0,Chuba Hubbard right tackle for 3 yards (tackle by Markees Watts),-0.97,-1.22,13.0,2023,189
+2.0,2:00,3.0,22.0,CAR 28,3.0,7.0,Raheem Blackshear right end for 6 yards (tackle by Carlton Davis),-1.22,-1.11,13.0,2023,189
+2.0,1:50,,,,,,Timeout #1 by Tampa Bay Buccaneers,,,13.0,2023,189
+2.0,1:50,4.0,16.0,CAR 34,3.0,7.0,"Johnny Hekker punts 46 yards, returned by Deven Thompkins for no gain (tackle by Sam Franklin)",-1.11,-0.28,13.0,2023,189
+2.0,1:41,1.0,10.0,TAM 20,3.0,7.0,Baker Mayfield pass complete short left to Mike Evans for 11 yards (tackle by Donte Jackson),0.28,1.0,13.0,2023,189
+2.0,1:35,1.0,10.0,TAM 31,3.0,7.0,Baker Mayfield pass complete short right to Trey Palmer for 6 yards (tackle by Jaycee Horn),1.0,1.27,13.0,2023,189
+2.0,1:22,2.0,4.0,TAM 37,3.0,7.0,Baker Mayfield pass incomplete short right intended for Trey Palmer (defended by Jaycee Horn),1.27,0.56,13.0,2023,189
+2.0,1:13,3.0,4.0,TAM 37,3.0,7.0,"Baker Mayfield pass complete to Trey Palmer for no gain. Penalty on Luke Goedeke: Offensive Holding, 10 yards (declined) . Penalty on Cade Otton: Offensive Pass Interference, 10 yards (accepted) (no play)",0.56,-0.76,13.0,2023,189
+2.0,1:05,3.0,14.0,TAM 27,3.0,7.0,"Penalty on Aaron Stinnie: False Start, 5 yards (accepted) (no play)",-0.76,-1.42,13.0,2023,189
+2.0,1:05,3.0,19.0,TAM 22,3.0,7.0,Baker Mayfield pass complete short middle to Rachaad White for 6 yards (tackle by Yetur Gross-Matos),-1.42,-1.5,13.0,2023,189
+2.0,0:59,,,,,,Timeout #2 by Carolina Panthers,,,13.0,2023,189
+2.0,0:59,4.0,13.0,TAM 28,3.0,7.0,"Jake Camarda punts 46 yards, fair catch by Ihmir Smith-Marsette at CAR-26",-1.5,-0.67,13.0,2023,189
+2.0,0:53,1.0,10.0,CAR 26,3.0,7.0,Chuba Hubbard left guard for 7 yards (tackle by J.J. Russell),0.67,1.07,13.0,2023,189
+2.0,0:34,2.0,3.0,CAR 33,3.0,7.0,Bryce Young pass complete deep left to DJ Chark for 22 yards (tackle by Antoine Winfield),1.07,2.59,13.0,2023,189
+2.0,0:29,1.0,10.0,TAM 45,3.0,7.0,Bryce Young pass incomplete deep left intended for Jonathan Mingo,2.59,2.04,13.0,2023,189
+2.0,0:24,2.0,10.0,TAM 45,3.0,7.0,Bryce Young pass complete short left to DJ Chark for 4 yards (tackle by Zyon McCollum),2.04,1.88,13.0,2023,189
+2.0,0:19,3.0,6.0,TAM 41,3.0,7.0,"Bryce Young scrambles left tackle for no gain (tackle by Dee Delaney). Penalty on Justin McCray: Offensive Holding, 10 yards (accepted) (no play)",1.88,0.56,13.0,2023,189
+2.0,0:11,3.0,16.0,CAR 49,3.0,7.0,Bryce Young pass incomplete deep right intended for Adam Thielen (defended by Antoine Winfield),0.56,-0.13,13.0,2023,189
+2.0,0:03,4.0,16.0,CAR 49,3.0,7.0,Bryce Young pass incomplete deep right,-0.13,2.19,13.0,2023,189
+3.0,15:00,,,TAM 35,3.0,7.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,13.0,2023,189
+3.0,15:00,1.0,10.0,CAR 25,3.0,7.0,Chuba Hubbard right guard for 2 yards (tackle by YaYa Diaby),0.61,0.33,13.0,2023,189
+3.0,14:21,2.0,8.0,CAR 27,3.0,7.0,Chuba Hubbard right end for -3 yards (tackle by Logan Hall),0.33,-0.76,13.0,2023,189
+3.0,13:39,3.0,11.0,CAR 24,3.0,7.0,Bryce Young pass incomplete short right intended for Stephen Sullivan,-0.76,-1.77,13.0,2023,189
+3.0,13:35,4.0,11.0,CAR 24,3.0,7.0,Johnny Hekker punts 38 yards downed by Sam Franklin,-1.77,-1.47,13.0,2023,189
+3.0,13:27,1.0,10.0,TAM 38,3.0,7.0,Baker Mayfield pass incomplete short right,1.47,0.92,13.0,2023,189
+3.0,13:20,2.0,10.0,TAM 38,3.0,7.0,Rachaad White up the middle for 1 yard (tackle by Derrick Brown and Yetur Gross-Matos),0.92,0.37,13.0,2023,189
+3.0,12:42,3.0,9.0,TAM 39,3.0,7.0,Baker Mayfield pass incomplete deep left intended for Mike Evans,0.37,-0.78,13.0,2023,189
+3.0,12:38,4.0,9.0,TAM 39,3.0,7.0,"Jake Camarda punts 61 yards, touchback.",-0.78,-0.28,13.0,2023,189
+3.0,12:30,1.0,10.0,CAR 20,3.0,7.0,"Penalty on Nash Jensen: False Start, 5 yards (accepted) (no play)",0.28,-0.31,13.0,2023,189
+3.0,12:30,1.0,15.0,CAR 15,3.0,7.0,Bryce Young pass complete short right to Jonathan Mingo for 10 yards (tackle by J.J. Russell),-0.31,0.41,13.0,2023,189
+3.0,11:44,2.0,5.0,CAR 25,3.0,7.0,Miles Sanders right tackle for 3 yards (tackle by William Gholston and Shaquil Barrett),0.41,0.1,13.0,2023,189
+3.0,11:00,3.0,2.0,CAR 28,3.0,7.0,Bryce Young sacked by Antoine Winfield for -9 yards,0.1,-2.14,13.0,2023,189
+3.0,10:18,4.0,11.0,CAR 19,3.0,7.0,"Johnny Hekker punts 50 yards, fair catch by Deven Thompkins at TB-31",-2.14,-1.0,13.0,2023,189
+3.0,10:10,1.0,10.0,TAM 31,3.0,7.0,Baker Mayfield pass incomplete deep right intended for Chris Godwin,1.0,0.46,13.0,2023,189
+3.0,10:04,2.0,10.0,TAM 31,3.0,7.0,Baker Mayfield pass complete short middle to Deven Thompkins for 4 yards (tackle by Troy Hill),0.46,0.3,13.0,2023,189
+3.0,9:26,3.0,6.0,TAM 35,3.0,7.0,Baker Mayfield sacked by Marquis Haynes for -8 yards,0.3,-1.57,13.0,2023,189
+3.0,8:50,4.0,14.0,TAM 27,3.0,7.0,"Jake Camarda punts 46 yards, returned by Ihmir Smith-Marsette for 8 yards (tackle by Kaevon Merriweather and Ko Kieft)",-1.57,-1.27,13.0,2023,189
+3.0,8:40,1.0,10.0,CAR 35,3.0,7.0,Chuba Hubbard up the middle for 1 yard (tackle by Vita Vea and Logan Hall),1.27,0.86,13.0,2023,189
+3.0,8:07,2.0,9.0,CAR 36,3.0,7.0,Bryce Young pass incomplete deep right intended for Mike Strachan,0.86,0.17,13.0,2023,189
+3.0,8:01,3.0,9.0,CAR 36,3.0,7.0,Bryce Young pass complete short left to Stephen Sullivan for 16 yards (tackle by Dee Delaney),0.17,2.39,13.0,2023,189
+3.0,7:18,1.0,10.0,TAM 48,3.0,7.0,Chuba Hubbard up the middle for 8 yards (tackle by Dee Delaney),2.39,2.93,13.0,2023,189
+3.0,6:37,2.0,2.0,TAM 40,3.0,7.0,Bryce Young pass complete deep left to Jonathan Mingo for 31 yards (tackle by Zyon McCollum),2.93,5.14,13.0,2023,189
+3.0,5:58,1.0,9.0,TAM 9,3.0,7.0,Chuba Hubbard up the middle for 8 yards (tackle by Antoine Winfield),5.14,5.91,13.0,2023,189
+3.0,5:10,2.0,1.0,TAM 1,9.0,7.0,"Chuba Hubbard up the middle for 1 yard, touchdown",5.91,7.0,13.0,2023,189
+3.0,5:04,,,TAM 15,10.0,7.0,Eddy Pineiro kicks extra point good,0.0,0.0,13.0,2023,189
+3.0,5:04,,,CAR 35,10.0,7.0,"Eddy Pineiro kicks off 65 yards, touchback.",0.0,0.61,13.0,2023,189
+3.0,5:04,1.0,10.0,TAM 25,10.0,13.0,"Baker Mayfield pass complete deep left to Mike Evans for 74 yards (tackle by C.J. Henderson) TAM challenged the runner broke the plane ruling, and the original play was overturned. Baker Mayfield pass complete to Mike Evans for 75 yards, touchdown",0.61,7.0,13.0,2023,189
+3.0,4:54,,,CAR 15,10.0,14.0,Chase McLaughlin kicks extra point good,0.0,0.0,13.0,2023,189
+3.0,4:54,,,TAM 35,10.0,14.0,"Penalty on Brian Burns: Disqualification / Defense, 15 yards (accepted) (no play)",0.0,0.0,13.0,2023,189
+3.0,4:54,,,TAM 50,10.0,14.0,"Jake Camarda kicks off 50 yards, touchback.",0.0,0.61,13.0,2023,189
+3.0,4:54,1.0,10.0,CAR 25,10.0,14.0,Bryce Young pass incomplete short right intended for Adam Thielen,0.61,0.06,13.0,2023,189
+3.0,4:51,2.0,10.0,CAR 25,10.0,14.0,Bryce Young pass incomplete short left,0.06,-0.62,13.0,2023,189
+3.0,4:49,3.0,10.0,CAR 25,10.0,14.0,Bryce Young pass incomplete deep middle intended for DJ Chark (defended by Antoine Winfield),-0.62,-1.7,13.0,2023,189
+3.0,4:43,4.0,10.0,CAR 25,10.0,14.0,"Johnny Hekker punts 45 yards, fair catch by Deven Thompkins at TB-30",-1.7,-0.94,13.0,2023,189
+3.0,4:36,1.0,10.0,TAM 30,10.0,14.0,Rachaad White left end for 4 yards (tackle by Shy Tuttle),0.94,0.93,13.0,2023,189
+3.0,3:56,2.0,6.0,TAM 34,10.0,14.0,"Rachaad White left tackle for -5 yards (tackle by Marquis Haynes and Frankie Luvu). Penalty on Cody Mauch: Offensive Holding, 10 yards (declined)",0.93,-0.43,13.0,2023,189
+3.0,3:32,3.0,11.0,TAM 29,10.0,14.0,Baker Mayfield pass incomplete short left intended for Mike Evans,-0.43,-1.44,13.0,2023,189
+3.0,3:27,4.0,11.0,TAM 29,10.0,14.0,"Jake Camarda punts 48 yards, returned by Ihmir Smith-Marsette for -1 yards (tackle by Josh Hayes)",-1.44,-0.41,13.0,2023,189
+3.0,3:19,1.0,10.0,CAR 22,10.0,14.0,Chuba Hubbard up the middle for 5 yards (tackle by Christian Izien),0.41,0.54,13.0,2023,189
+3.0,2:48,2.0,5.0,CAR 27,10.0,14.0,Chuba Hubbard up the middle for 7 yards (tackle by J.J. Russell),0.54,1.2,13.0,2023,189
+3.0,2:11,1.0,10.0,CAR 34,10.0,14.0,Bryce Young sacked by YaYa Diaby for no gain,1.2,0.66,13.0,2023,189
+3.0,1:32,2.0,10.0,CAR 34,10.0,14.0,Bryce Young pass incomplete short right intended for Miles Sanders,0.66,-0.03,13.0,2023,189
+3.0,1:28,3.0,10.0,CAR 34,10.0,14.0,Bryce Young sacked by J.J. Russell for -9 yards,-0.03,-1.7,13.0,2023,189
+3.0,0:51,4.0,19.0,CAR 25,10.0,14.0,"Johnny Hekker punts 48 yards, returned by Deven Thompkins for 6 yards (tackle by Sam Franklin)",-1.7,-1.14,13.0,2023,189
+3.0,0:41,1.0,10.0,TAM 33,10.0,14.0,Baker Mayfield pass complete short middle to Rachaad White for 20 yards (tackle by Marquis Haynes),1.14,2.46,13.0,2023,189
+4.0,15:00,1.0,10.0,CAR 47,10.0,14.0,Rachaad White up the middle for 4 yards (tackle by Yetur Gross-Matos and Deion Jones),2.46,2.45,13.0,2023,189
+4.0,14:23,2.0,6.0,CAR 43,10.0,14.0,Baker Mayfield pass incomplete deep left intended for Mike Evans,2.45,1.75,13.0,2023,189
+4.0,14:16,3.0,6.0,CAR 43,10.0,14.0,"Baker Mayfield scrambles for no gain (tackle by Marquis Haynes). Penalty on Yetur Gross-Matos: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",1.75,3.05,13.0,2023,189
+4.0,13:48,1.0,10.0,CAR 38,10.0,14.0,Rachaad White right end for 11 yards (tackle by Xavier Woods),3.05,3.78,13.0,2023,189
+4.0,13:09,1.0,10.0,CAR 27,10.0,14.0,Deven Thompkins left end for 5 yards (tackle by Troy Hill),3.78,3.91,13.0,2023,189
+4.0,12:24,2.0,5.0,CAR 22,10.0,14.0,Chase Edmonds up the middle for 3 yards (tackle by Troy Hill and Marquis Haynes),3.91,3.64,13.0,2023,189
+4.0,11:43,3.0,2.0,CAR 19,10.0,20.0,"Chris Godwin right end for 19 yards, touchdown",3.64,7.0,13.0,2023,189
+4.0,11:36,,,CAR 15,10.0,21.0,Chase McLaughlin kicks extra point good,0.0,0.0,13.0,2023,189
+4.0,11:36,,,TAM 35,10.0,21.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,13.0,2023,189
+4.0,11:36,1.0,10.0,CAR 25,10.0,21.0,Chuba Hubbard left end for 7 yards (tackle by Zyon McCollum),0.61,1.01,13.0,2023,189
+4.0,11:00,2.0,3.0,CAR 32,10.0,21.0,Chuba Hubbard left tackle for 4 yards (tackle by Ryan Neal and J.J. Russell),1.01,1.33,13.0,2023,189
+4.0,10:24,1.0,10.0,CAR 36,10.0,21.0,Chuba Hubbard up the middle for 1 yard (tackle by Joe Tryon-Shoyinka and Anthony Nelson),1.33,0.93,13.0,2023,189
+4.0,9:39,2.0,9.0,CAR 37,10.0,21.0,Bryce Young pass complete short right to Miles Sanders for 6 yards (tackle by Dee Delaney and Joe Tryon-Shoyinka),0.93,1.03,13.0,2023,189
+4.0,8:53,3.0,3.0,CAR 43,10.0,21.0,"Bryce Young pass complete short left to Jonathan Mingo for 12 yards. Jonathan Mingo fumbles (forced by Christian Izien), recovered by Miles Sanders at TB-42",1.03,2.79,13.0,2023,189
+4.0,8:09,1.0,10.0,TAM 42,10.0,21.0,Miles Sanders up the middle for 4 yards (tackle by Vita Vea),2.79,2.78,13.0,2023,189
+4.0,7:24,2.0,6.0,TAM 38,10.0,21.0,Miles Sanders up the middle for no gain (tackle by Calijah Kancey),2.78,2.08,13.0,2023,189
+4.0,6:38,3.0,6.0,TAM 38,10.0,21.0,Bryce Young pass incomplete short right intended for Jonathan Mingo,2.08,0.72,13.0,2023,189
+4.0,6:34,4.0,6.0,TAM 38,10.0,21.0,Bryce Young pass complete deep right to DJ Chark for 30 yards (tackle by Carlton Davis),0.72,5.37,13.0,2023,189
+4.0,5:45,1.0,8.0,TAM 8,10.0,21.0,Bryce Young pass complete short right to Adam Thielen for 7 yards (tackle by Christian Izien),5.37,5.91,13.0,2023,189
+4.0,5:06,2.0,1.0,TAM 1,16.0,21.0,"Chuba Hubbard right guard for 1 yard, touchdown",5.91,7.0,13.0,2023,189
+4.0,5:02,,,TAM 2,16.0,21.0,"Two Point Attempt: Bryce Young pass incomplete, sacked by Baker Mayfield sacked by. Penalty on Joe Tryon-Shoyinka: Face Mask (15 Yards), 1 yard (accepted) (no play)",1.0,1.0,13.0,2023,189
+4.0,5:02,1.0,1.0,TAM 2,18.0,21.0,"Two Point Attempt: Bryce Young rushes, conversion succeeds.",1.0,1.0,13.0,2023,189
+4.0,5:02,,,CAR 35,18.0,21.0,"Eddy Pineiro kicks off 65 yards, touchback.",0.0,0.61,13.0,2023,189
+4.0,5:02,1.0,10.0,TAM 25,18.0,21.0,Baker Mayfield pass complete short left to Mike Evans for 11 yards (tackle by Frankie Luvu),0.61,1.33,13.0,2023,189
+4.0,4:22,1.0,10.0,TAM 36,18.0,21.0,Rachaad White right tackle for 3 yards (tackle by Marquis Haynes),1.33,1.2,13.0,2023,189
+4.0,3:50,2.0,7.0,TAM 39,18.0,21.0,Baker Mayfield pass complete short left to Rachaad White for -4 yards (tackle by Frankie Luvu),1.2,-0.03,13.0,2023,189
+4.0,3:45,,,,,,Timeout #1 by Carolina Panthers,,,13.0,2023,189
+4.0,3:45,3.0,11.0,TAM 35,18.0,21.0,Baker Mayfield pass incomplete short left intended for Chris Godwin (defended by Donte Jackson),-0.03,-1.04,13.0,2023,189
+4.0,3:40,4.0,11.0,TAM 35,18.0,21.0,Jake Camarda punts 34 yards downed by Kaevon Merriweather,-1.04,-1.0,13.0,2023,189
+4.0,3:31,1.0,10.0,CAR 31,18.0,21.0,Chuba Hubbard up the middle for 5 yards (tackle by Christian Izien),1.0,1.14,13.0,2023,189
+4.0,3:00,2.0,5.0,CAR 36,18.0,21.0,Chuba Hubbard up the middle for 4 yards (tackle by Antoine Winfield and YaYa Diaby),1.14,0.96,13.0,2023,189
+4.0,2:27,3.0,1.0,CAR 40,18.0,21.0,Bryce Young pass incomplete short right,0.96,-0.72,13.0,2023,189
+4.0,2:21,4.0,1.0,CAR 40,18.0,21.0,Bryce Young pass deep right intended for Adam Thielen is intercepted by Antoine Winfield at TB-43 and returned for no gain,-0.72,-1.8,13.0,2023,189
+4.0,2:14,1.0,10.0,TAM 43,18.0,21.0,Rachaad White up the middle for 2 yards (tackle by LaBryan Ray and Frankie Luvu),1.8,1.52,13.0,2023,189
+4.0,2:10,,,,,,Timeout #2 by Carolina Panthers,,,13.0,2023,189
+4.0,2:10,2.0,8.0,TAM 45,18.0,21.0,Baker Mayfield pass complete short right to Mike Evans for 7 yards (tackle by D'Shawn Jamison),1.52,1.75,13.0,2023,189
+4.0,2:00,3.0,1.0,CAR 48,18.0,21.0,Rachaad White up the middle for 30 yards (tackle by Donte Jackson),1.75,4.37,13.0,2023,189
+4.0,1:13,1.0,10.0,CAR 18,18.0,21.0,Baker Mayfield kneels for -1 yards,4.37,3.67,13.0,2023,189
+4.0,0:38,2.0,11.0,CAR 19,18.0,21.0,Baker Mayfield kneels for -1 yards,3.67,2.87,13.0,2023,189

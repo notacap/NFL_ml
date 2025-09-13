@@ -1,0 +1,171 @@
+Quarter,Time,Down,ToGo,Location,LAC,ARI,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Cardinals won the coin toss and deferred, Chargers to receive the opening kickoff.",,,12.0,2022,176
+1.0,15:00,,,ARI 35,0.0,0.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,176
+1.0,15:00,1.0,10.0,LAC 25,0.0,0.0,Austin Ekeler left tackle for 7 yards (tackle by Jalen Thompson and Ben Niemann),0.61,1.01,12.0,2022,176
+1.0,14:27,2.0,3.0,LAC 32,0.0,0.0,Justin Herbert pass incomplete short left intended for Austin Ekeler,1.01,0.3,12.0,2022,176
+1.0,14:24,3.0,3.0,LAC 32,0.0,0.0,Justin Herbert pass complete short right to Keenan Allen for 13 yards (tackle by Antonio Hamilton),0.3,1.93,12.0,2022,176
+1.0,13:52,1.0,10.0,LAC 45,0.0,0.0,Isaiah Spiller up the middle for 3 yards (tackle by Budda Baker and Trysten Hill),1.93,1.79,12.0,2022,176
+1.0,13:15,2.0,7.0,LAC 48,0.0,0.0,Isaiah Spiller up the middle for no gain (tackle by Zaven Collins and Leki Fotu),1.79,1.09,12.0,2022,176
+1.0,12:34,3.0,7.0,LAC 48,0.0,0.0,Justin Herbert sacked by J.J. Watt for -8 yards,1.09,-0.72,12.0,2022,176
+1.0,11:53,4.0,15.0,LAC 40,0.0,0.0,"JK Scott punts 48 yards, fair catch by Pharoh Cooper at ARI-12",-0.72,0.35,12.0,2022,176
+1.0,11:44,1.0,10.0,ARI 12,0.0,0.0,Kyler Murray pass complete short left to Marquise Brown for 11 yards (tackle by Michael Davis),-0.35,0.48,12.0,2022,176
+1.0,11:16,1.0,10.0,ARI 23,0.0,0.0,James Conner left end for 18 yards (tackle by Alohi Gilman),0.48,1.66,12.0,2022,176
+1.0,10:38,1.0,10.0,ARI 41,0.0,0.0,"James Conner left tackle for 8 yards. James Conner fumbles (forced by Derwin James), recovered by Sebastian Joseph-Day at ARI-47 (tackle by Derwin James). Penalty on Rashaad Coward: Offensive Holding, 10 yards (declined)",1.66,-2.46,12.0,2022,176
+1.0,10:27,1.0,10.0,ARI 47,0.0,0.0,Justin Herbert pass complete short left to DeAndre Carter for 6 yards (tackle by Isaiah Simmons),2.46,2.72,12.0,2022,176
+1.0,10:00,2.0,4.0,ARI 41,0.0,0.0,Justin Herbert pass incomplete short left intended for DeAndre Carter (defended by J.J. Watt),2.72,2.01,12.0,2022,176
+1.0,9:56,3.0,4.0,ARI 41,0.0,0.0,Justin Herbert sacked by Cameron Thomas for -3 yards,2.01,0.33,12.0,2022,176
+1.0,9:16,4.0,7.0,ARI 44,0.0,0.0,JK Scott punts 26 yards downed by Zander Horvath,0.33,-0.04,12.0,2022,176
+1.0,9:05,1.0,10.0,ARI 18,0.0,0.0,"James Conner up the middle for no gain (tackle by Alohi Gilman and Derwin James). Penalty on Billy Price: Offensive Holding, 9 yards (accepted) (no play)",0.04,-0.72,12.0,2022,176
+1.0,8:42,1.0,19.0,ARI 9,0.0,0.0,Kyler Murray scrambles left end for 11 yards (tackle by Michael Davis),-0.72,-0.13,12.0,2022,176
+1.0,8:10,2.0,8.0,ARI 20,0.0,0.0,Kyler Murray pass complete short left to Robbie Anderson for 17 yards (tackle by Derwin James),-0.13,1.4,12.0,2022,176
+1.0,7:24,1.0,10.0,ARI 37,0.0,0.0,James Conner left end for 8 yards (tackle by Michael Davis and Alohi Gilman),1.4,1.94,12.0,2022,176
+1.0,6:50,2.0,2.0,ARI 45,0.0,0.0,James Conner up the middle for 6 yards (tackle by Drue Tranquill),1.94,2.32,12.0,2022,176
+1.0,6:16,1.0,10.0,LAC 49,0.0,0.0,Kyler Murray right end for 7 yards (tackle by Kyle Van Noy),2.32,2.73,12.0,2022,176
+1.0,5:37,2.0,3.0,LAC 42,0.0,0.0,James Conner up the middle for -1 yards (tackle by Khalil Mack and Kenneth Murray),2.73,1.88,12.0,2022,176
+1.0,4:57,3.0,4.0,LAC 43,0.0,0.0,Kyler Murray pass complete short right to James Conner for 5 yards (tackle by Alohi Gilman),1.88,3.05,12.0,2022,176
+1.0,4:15,1.0,10.0,LAC 38,0.0,0.0,Kyler Murray pass complete short left to Marquise Brown for no gain (tackle by Alohi Gilman and Derwin James),3.05,2.51,12.0,2022,176
+1.0,3:28,2.0,10.0,LAC 38,0.0,0.0,Kyler Murray pass complete short right to A.J. Green for 5 yards (tackle by Asante Samuel),2.51,2.48,12.0,2022,176
+1.0,2:41,3.0,5.0,LAC 33,0.0,6.0,"Kyler Murray pass complete short middle to DeAndre Hopkins for 33 yards, touchdown. Penalty on Drue Tranquill: Defensive Offside, 5 yards (declined)",2.48,7.0,12.0,2022,176
+1.0,2:33,,,LAC 15,0.0,7.0,Matt Prater kicks extra point good,0.0,0.0,12.0,2022,176
+1.0,2:33,,,ARI 35,0.0,7.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,176
+1.0,2:33,1.0,10.0,LAC 25,0.0,7.0,Austin Ekeler up the middle for -2 yards (tackle by Trysten Hill),0.61,-0.21,12.0,2022,176
+1.0,2:15,2.0,12.0,LAC 23,0.0,7.0,Justin Herbert pass incomplete short middle intended for Austin Ekeler,-0.21,-0.82,12.0,2022,176
+1.0,2:08,3.0,12.0,LAC 24,0.0,7.0,"Penalty on Jamaree Salyer: False Start, 5 yards (accepted) (no play)",-0.82,-1.72,12.0,2022,176
+1.0,2:08,3.0,17.0,LAC 18,0.0,7.0,Justin Herbert pass incomplete short left intended for Joshua Kelley,-1.72,-2.24,12.0,2022,176
+1.0,2:03,4.0,17.0,LAC 18,0.0,7.0,"JK Scott punts 41 yards, returned by Pharoh Cooper for 15 yards (tackle by Deane Leonard)",-2.24,-2.65,12.0,2022,176
+1.0,1:51,1.0,10.0,LAC 44,0.0,7.0,James Conner right tackle for 8 yards (tackle by Asante Samuel and Drue Tranquill),2.65,3.19,12.0,2022,176
+1.0,1:10,2.0,2.0,LAC 36,0.0,7.0,James Conner up the middle for no gain (tackle by Morgan Fox),3.19,2.48,12.0,2022,176
+1.0,0:26,3.0,2.0,LAC 36,0.0,7.0,James Conner right guard for 7 yards (tackle by Michael Davis),2.48,3.64,12.0,2022,176
+2.0,15:00,1.0,10.0,LAC 29,0.0,7.0,James Conner up the middle for 4 yards (tackle by Morgan Fox and Derwin James),3.64,3.64,12.0,2022,176
+2.0,14:24,2.0,6.0,LAC 25,0.0,7.0,Kyler Murray pass incomplete short right intended for Robbie Anderson (defended by Michael Davis),3.64,2.94,12.0,2022,176
+2.0,14:19,3.0,6.0,LAC 25,0.0,7.0,Kyler Murray pass incomplete deep right,2.94,1.83,12.0,2022,176
+2.0,14:07,4.0,6.0,LAC 25,0.0,10.0,Matt Prater 43 yard field goal good,1.83,3.0,12.0,2022,176
+2.0,14:03,,,ARI 35,0.0,10.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,176
+2.0,14:03,1.0,10.0,LAC 25,0.0,10.0,Justin Herbert pass complete short left to Keenan Allen for 8 yards (tackle by Marco Wilson),0.61,1.14,12.0,2022,176
+2.0,13:36,2.0,2.0,LAC 33,0.0,10.0,Justin Herbert pass incomplete short left intended for Josh Palmer (defended by Myjai Sanders),1.14,0.43,12.0,2022,176
+2.0,13:31,3.0,2.0,LAC 33,0.0,10.0,Justin Herbert pass complete short left to Josh Palmer for 4 yards (tackle by Marco Wilson),0.43,1.4,12.0,2022,176
+2.0,12:51,1.0,10.0,LAC 37,0.0,10.0,Justin Herbert pass complete short left to Austin Ekeler for 7 yards (tackle by Isaiah Simmons),1.4,1.8,12.0,2022,176
+2.0,11:49,2.0,3.0,LAC 44,0.0,10.0,"Justin Herbert pass complete short middle to Josh Palmer for 19 yards. Josh Palmer fumbles (forced by Trayvon Mullen), recovered by Trayvon Mullen at ARI-38 (tackle by Trayvon Mullen) Replay Assistant challenged the fumble ruling, and the original play was overturned. Justin Herbert pass complete to Josh Palmer for 18 yards. Josh Palmer fumbles (forced by Trayvon Mullen), recovered by Michael Bandy at ARI-38 (tackle by Trayvon Mullen)",1.8,3.05,12.0,2022,176
+2.0,11:49,1.0,10.0,ARI 38,0.0,10.0,Justin Herbert pass complete short right to Austin Ekeler for 9 yards (tackle by Tanner Vallejo),3.05,3.72,12.0,2022,176
+2.0,11:12,2.0,1.0,ARI 29,0.0,10.0,Joshua Kelley right tackle for no gain (tackle by Trayvon Mullen),3.72,3.01,12.0,2022,176
+2.0,10:54,3.0,1.0,ARI 29,0.0,10.0,Justin Herbert up the middle for 1 yard (tackle by Zach Allen and Tanner Vallejo),3.01,3.71,12.0,2022,176
+2.0,10:10,1.0,10.0,ARI 28,0.0,10.0,Justin Herbert pass complete short left to Joshua Kelley for 11 yards (tackle by Isaiah Simmons),3.71,4.44,12.0,2022,176
+2.0,9:31,1.0,10.0,ARI 17,0.0,10.0,Justin Herbert scrambles left end for 15 yards (tackle by Antonio Hamilton),4.44,6.74,12.0,2022,176
+2.0,8:55,1.0,2.0,ARI 2,6.0,10.0,"Justin Herbert pass complete short left to Keenan Allen for 2 yards, touchdown",6.74,7.0,12.0,2022,176
+2.0,8:51,,,ARI 15,7.0,10.0,Cameron Dicker kicks extra point good,0.0,0.0,12.0,2022,176
+2.0,8:51,,,LAC 35,7.0,10.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,176
+2.0,8:51,1.0,10.0,ARI 25,7.0,10.0,Kyler Murray pass incomplete deep left intended for DeAndre Hopkins,0.61,0.06,12.0,2022,176
+2.0,8:45,2.0,10.0,ARI 25,7.0,10.0,Kyler Murray pass complete short right to Marquise Brown for 9 yards (tackle by Bryce Callahan),0.06,0.56,12.0,2022,176
+2.0,8:00,3.0,1.0,ARI 34,7.0,10.0,Kyler Murray right end for no gain (tackle by Khalil Mack),0.56,-1.11,12.0,2022,176
+2.0,7:12,4.0,1.0,ARI 34,7.0,10.0,Kyler Murray pass deep left intended for DeAndre Hopkins is intercepted by Derwin James at LAC-44 and returned for no gain (tackle by DeAndre Hopkins),-1.11,-1.86,12.0,2022,176
+2.0,7:03,1.0,10.0,LAC 44,7.0,10.0,Justin Herbert pass complete short left to Keenan Allen for 10 yards (tackle by Marco Wilson),1.86,2.52,12.0,2022,176
+2.0,6:22,1.0,10.0,ARI 46,7.0,10.0,Justin Herbert pass complete short left to Austin Ekeler for 12 yards (tackle by Isaiah Simmons and Marco Wilson),2.52,3.31,12.0,2022,176
+2.0,5:46,1.0,10.0,ARI 34,7.0,10.0,Justin Herbert pass complete short right to Isaiah Spiller for 2 yards (tackle by Isaiah Simmons),3.31,3.04,12.0,2022,176
+2.0,5:09,2.0,8.0,ARI 32,7.0,10.0,"Justin Herbert pass complete short middle to Austin Ekeler for 9 yards (tackle by Marco Wilson and Budda Baker). Penalty on Tre' McKitty: Offensive Illegal Block Above the Waist, 10 yards (accepted)",3.04,2.91,12.0,2022,176
+2.0,4:36,2.0,9.0,ARI 33,13.0,10.0,"Justin Herbert pass complete deep left to DeAndre Carter for 33 yards, touchdown",2.91,7.0,12.0,2022,176
+2.0,4:28,,,ARI 15,14.0,10.0,Cameron Dicker kicks extra point good,0.0,0.0,12.0,2022,176
+2.0,4:28,,,LAC 35,14.0,10.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,176
+2.0,4:28,1.0,10.0,ARI 25,14.0,10.0,James Conner up the middle for 5 yards (tackle by Drue Tranquill),0.61,0.74,12.0,2022,176
+2.0,3:55,2.0,5.0,ARI 30,14.0,10.0,Kyler Murray pass incomplete deep right intended for Marquise Brown,0.74,0.04,12.0,2022,176
+2.0,3:40,3.0,5.0,ARI 30,14.0,10.0,"Kyler Murray pass complete short left to Andre Baccellia for 7 yards (tackle by Alohi Gilman and Bryce Callahan). Penalty on Khalil Mack: Illegal Use of Hands / Defense, 5 yards (declined)",0.04,1.4,12.0,2022,176
+2.0,3:25,1.0,10.0,ARI 37,14.0,10.0,James Conner right tackle for 4 yards (tackle by Alohi Gilman and Kenneth Murray),1.4,1.4,12.0,2022,176
+2.0,2:50,2.0,6.0,ARI 41,14.0,10.0,Kyler Murray pass complete short left to Trey McBride for 1 yard (tackle by Kenneth Murray),1.4,0.83,12.0,2022,176
+2.0,2:07,3.0,5.0,ARI 42,14.0,10.0,"Penalty on LAC: Defensive Too Many Men on Field, 5 yards (accepted) (no play)",0.83,2.06,12.0,2022,176
+2.0,2:00,1.0,10.0,ARI 47,14.0,10.0,James Conner left tackle for no gain (tackle by Breiden Fehoko),2.06,1.52,12.0,2022,176
+2.0,1:57,,,,,,Timeout #1 by Los Angeles Chargers,,,12.0,2022,176
+2.0,1:57,2.0,10.0,ARI 47,14.0,10.0,Kyler Murray pass complete deep left to DeAndre Hopkins for 21 yards (tackle by Derwin James),1.52,3.45,12.0,2022,176
+2.0,1:21,1.0,10.0,LAC 32,14.0,10.0,Keaontay Ingram right guard for 4 yards (tackle by Bryce Callahan),3.45,3.44,12.0,2022,176
+2.0,0:46,2.0,6.0,LAC 28,14.0,10.0,Kyler Murray pass incomplete deep right intended for Marquise Brown,3.44,2.74,12.0,2022,176
+2.0,0:40,,,,,,Timeout #1 by Arizona Cardinals,,,12.0,2022,176
+2.0,0:40,3.0,6.0,LAC 28,14.0,10.0,Kyler Murray scrambles right end for 6 yards (tackle by Alohi Gilman),2.74,4.11,12.0,2022,176
+2.0,0:32,1.0,10.0,LAC 22,14.0,10.0,Keaontay Ingram right end for 1 yard (tackle by Drue Tranquill),4.11,3.7,12.0,2022,176
+2.0,0:26,2.0,9.0,LAC 21,14.0,10.0,Kyler Murray left tackle for 9 yards (tackle by Derwin James and Kenneth Murray),3.7,4.78,12.0,2022,176
+2.0,0:21,,,,,,Timeout #2 by Arizona Cardinals,,,12.0,2022,176
+2.0,0:21,1.0,10.0,LAC 12,14.0,10.0,Kyler Murray pass complete short right to Marquise Brown for 7 yards (tackle by Kenneth Murray),4.78,5.41,12.0,2022,176
+2.0,0:17,,,,,,Timeout #3 by Arizona Cardinals,,,12.0,2022,176
+2.0,0:17,2.0,3.0,LAC 5,14.0,16.0,"Kyler Murray scrambles left end for 5 yards, touchdown",5.41,7.0,12.0,2022,176
+2.0,0:12,,,LAC 15,14.0,17.0,Matt Prater kicks extra point good,0.0,0.0,12.0,2022,176
+2.0,0:12,,,ARI 35,14.0,17.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,176
+2.0,0:12,1.0,10.0,LAC 25,14.0,17.0,Justin Herbert kneels for -1 yards,0.61,-0.07,12.0,2022,176
+3.0,15:00,,,LAC 35,14.0,17.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,176
+3.0,15:00,1.0,10.0,ARI 25,14.0,17.0,Kyler Murray right end for 18 yards (tackle by Kyle Van Noy),0.61,1.8,12.0,2022,176
+3.0,14:25,1.0,10.0,ARI 43,14.0,17.0,James Conner left end for 20 yards (tackle by Alohi Gilman),1.8,3.12,12.0,2022,176
+3.0,13:40,1.0,10.0,LAC 37,14.0,17.0,James Conner right guard for 1 yard (tackle by Kyle Van Noy and Drue Tranquill),3.12,2.71,12.0,2022,176
+3.0,13:00,2.0,9.0,LAC 36,14.0,17.0,James Conner left tackle for 4 yards (tackle by Sebastian Joseph-Day),2.71,2.54,12.0,2022,176
+3.0,12:18,3.0,5.0,LAC 32,14.0,17.0,"Penalty on Billy Price: False Start, 5 yards (accepted) (no play)",2.54,1.88,12.0,2022,176
+3.0,11:58,3.0,10.0,LAC 37,14.0,17.0,James Conner right end for 6 yards (tackle by Morgan Fox and Kyle Van Noy),1.88,1.37,12.0,2022,176
+3.0,11:05,4.0,4.0,LAC 31,14.0,17.0,Matt Prater 49 yard field goal no good,1.37,-1.53,12.0,2022,176
+3.0,11:01,1.0,10.0,LAC 39,14.0,17.0,Justin Herbert pass complete short right to DeAndre Carter for no gain (tackle by Ben Niemann),1.53,0.99,12.0,2022,176
+3.0,10:25,2.0,10.0,LAC 39,14.0,17.0,Justin Herbert pass complete short left to DeAndre Carter for 12 yards (tackle by Marco Wilson),0.99,2.32,12.0,2022,176
+3.0,9:47,1.0,10.0,ARI 49,14.0,17.0,Justin Herbert pass complete short right to Gerald Everett for -3 yards (tackle by Ben Niemann and Jalen Thompson),2.32,1.38,12.0,2022,176
+3.0,9:03,2.0,13.0,LAC 48,14.0,17.0,Justin Herbert pass complete short left to Austin Ekeler for 3 yards (tackle by Myjai Sanders),1.38,1.09,12.0,2022,176
+3.0,8:20,3.0,10.0,ARI 49,14.0,17.0,Justin Herbert pass complete short right to DeAndre Carter for 13 yards,1.09,3.18,12.0,2022,176
+3.0,7:41,1.0,10.0,ARI 36,14.0,17.0,Justin Herbert pass complete short right to Joshua Kelley for 5 yards (tackle by Isaiah Simmons),3.18,3.31,12.0,2022,176
+3.0,6:55,2.0,5.0,ARI 31,14.0,17.0,Justin Herbert pass complete short right to Josh Palmer for 9 yards (tackle by Ben Niemann),3.31,4.11,12.0,2022,176
+3.0,6:16,1.0,10.0,ARI 22,14.0,17.0,Joshua Kelley right guard for 4 yards (tackle by Antonio Hamilton),4.11,4.13,12.0,2022,176
+3.0,6:00,2.0,6.0,ARI 18,14.0,17.0,Justin Herbert pass incomplete deep left intended for Keenan Allen (defended by Isaiah Simmons),4.13,3.4,12.0,2022,176
+3.0,5:51,3.0,6.0,ARI 18,14.0,17.0,Justin Herbert pass complete short right to Josh Palmer for 7 yards (tackle by Trayvon Mullen),3.4,4.84,12.0,2022,176
+3.0,5:22,1.0,10.0,ARI 11,14.0,17.0,Austin Ekeler right tackle for 3 yards (tackle by Budda Baker and Markus Golden),4.84,4.7,12.0,2022,176
+3.0,4:45,2.0,7.0,ARI 8,14.0,17.0,Justin Herbert pass incomplete short right intended for Austin Ekeler,4.7,3.76,12.0,2022,176
+3.0,4:36,3.0,7.0,ARI 8,14.0,17.0,Justin Herbert pass incomplete short middle intended for Keenan Allen,3.76,2.96,12.0,2022,176
+3.0,4:31,4.0,7.0,ARI 8,17.0,17.0,Cameron Dicker 26 yard field goal good,2.96,3.0,12.0,2022,176
+3.0,4:28,,,LAC 35,17.0,17.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,176
+3.0,4:28,1.0,10.0,ARI 25,17.0,17.0,Kyler Murray pass complete deep right to DeAndre Hopkins for 29 yards (tackle by Derwin James),0.61,2.52,12.0,2022,176
+3.0,3:56,1.0,10.0,LAC 46,17.0,17.0,James Conner up the middle for 1 yard (tackle by Joe Gaziano),2.52,2.11,12.0,2022,176
+3.0,3:16,2.0,9.0,LAC 45,17.0,17.0,Kyler Murray pass complete short left to Marquise Brown for 13 yards (tackle by Alohi Gilman),2.11,3.45,12.0,2022,176
+3.0,2:36,1.0,10.0,LAC 32,17.0,17.0,James Conner up the middle for 3 yards (tackle by Breiden Fehoko),3.45,3.31,12.0,2022,176
+3.0,2:03,2.0,7.0,LAC 29,17.0,17.0,Kyler Murray pass incomplete short right,3.31,2.61,12.0,2022,176
+3.0,1:54,3.0,7.0,LAC 29,17.0,17.0,Kyler Murray pass complete short right to Corey Clement for 8 yards (tackle by Bryce Callahan),2.61,4.17,12.0,2022,176
+3.0,1:09,1.0,10.0,LAC 21,17.0,17.0,James Conner up the middle for 3 yards (tackle by Drue Tranquill),4.17,4.04,12.0,2022,176
+3.0,0:27,2.0,7.0,LAC 18,17.0,17.0,Kyler Murray pass complete short left to Marquise Brown for 6 yards (tackle by Bryce Callahan),4.04,4.49,12.0,2022,176
+4.0,15:00,3.0,1.0,LAC 12,17.0,17.0,James Conner up the middle for 4 yards (tackle by Sebastian Joseph-Day and Breiden Fehoko),4.49,5.37,12.0,2022,176
+4.0,14:23,1.0,8.0,LAC 8,17.0,17.0,James Conner up the middle for 2 yards (tackle by Kenneth Murray and Alohi Gilman),5.37,4.95,12.0,2022,176
+4.0,13:36,2.0,6.0,LAC 6,17.0,23.0,"Kyler Murray pass complete short right to James Conner for 6 yards, touchdown",4.95,7.0,12.0,2022,176
+4.0,13:31,,,LAC 15,17.0,24.0,Matt Prater kicks extra point good,0.0,0.0,12.0,2022,176
+4.0,13:31,,,ARI 35,17.0,24.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,176
+4.0,13:31,1.0,10.0,LAC 25,17.0,24.0,Justin Herbert scrambles right end for 23 yards (tackle by Isaiah Simmons),0.61,2.13,12.0,2022,176
+4.0,12:55,1.0,10.0,LAC 48,17.0,24.0,Justin Herbert pass complete short left to DeAndre Carter for -1 yards (tackle by Marco Wilson),2.13,1.45,12.0,2022,176
+4.0,12:16,2.0,11.0,LAC 47,17.0,24.0,Justin Herbert pass complete short left to Austin Ekeler for -3 yards (tackle by Zaven Collins),1.45,0.37,12.0,2022,176
+4.0,11:36,3.0,14.0,LAC 44,17.0,24.0,Justin Herbert pass complete short right to Gerald Everett for 8 yards (tackle by Antonio Hamilton),0.37,0.07,12.0,2022,176
+4.0,10:59,4.0,6.0,ARI 48,17.0,24.0,"JK Scott punts 42 yards, fair catch by Pharoh Cooper at ARI-6",0.07,0.38,12.0,2022,176
+4.0,10:52,1.0,10.0,ARI 6,17.0,24.0,James Conner up the middle for -1 yards (tackle by Drue Tranquill),-0.38,-0.85,12.0,2022,176
+4.0,10:16,2.0,11.0,ARI 5,17.0,24.0,Kyler Murray pass incomplete short middle intended for Trey McBride (defended by Kenneth Murray),-0.85,-1.54,12.0,2022,176
+4.0,10:12,3.0,11.0,ARI 5,17.0,24.0,James Conner left tackle for 9 yards (tackle by Drue Tranquill),-1.54,-2.47,12.0,2022,176
+4.0,9:18,4.0,2.0,ARI 14,17.0,24.0,"Andy Lee punts 52 yards, returned by DeAndre Carter for 5 yards (tackle by Kamu Grugier-Hill)",-2.47,-1.53,12.0,2022,176
+4.0,9:07,1.0,10.0,LAC 39,17.0,24.0,Justin Herbert sacked by Zach Allen for -4 yards,1.53,0.45,12.0,2022,176
+4.0,8:27,2.0,14.0,LAC 35,17.0,24.0,Justin Herbert pass complete short left to Austin Ekeler for 1 yard (tackle by Budda Baker),0.45,-0.1,12.0,2022,176
+4.0,7:45,3.0,13.0,LAC 36,17.0,24.0,"Justin Herbert pass short left intended for Josh Palmer is intercepted by Zaven Collins at LAC-45 and returned for 10 yards Replay Assistant challenged the pass interception ruling, and the original play was overturned. Justin Herbert pass incomplete short left intended for Josh Palmer (defended by Zach Allen)",-0.1,-0.98,12.0,2022,176
+4.0,7:41,4.0,13.0,LAC 36,17.0,24.0,JK Scott punts 39 yards out of bounds,-0.98,-0.61,12.0,2022,176
+4.0,7:34,1.0,10.0,ARI 25,17.0,24.0,James Conner left tackle for 1 yard (tackle by Kyle Van Noy),0.61,0.2,12.0,2022,176
+4.0,6:51,2.0,9.0,ARI 26,17.0,24.0,Kyler Murray pass complete short left to DeAndre Hopkins for 4 yards (tackle by Michael Davis),0.2,0.04,12.0,2022,176
+4.0,6:24,3.0,5.0,ARI 30,17.0,24.0,Kyler Murray pass incomplete short right intended for Trey McBride (defended by Alohi Gilman),0.04,-1.37,12.0,2022,176
+4.0,6:18,4.0,5.0,ARI 30,17.0,24.0,Andy Lee punts 48 yards downed by Kamu Grugier-Hill,-1.37,-0.41,12.0,2022,176
+4.0,6:07,1.0,10.0,LAC 22,17.0,24.0,Justin Herbert pass incomplete deep right intended for DeAndre Carter (defended by Antonio Hamilton),0.41,-0.13,12.0,2022,176
+4.0,6:02,2.0,10.0,LAC 22,17.0,24.0,Justin Herbert pass complete deep left to Josh Palmer for 18 yards,-0.13,1.6,12.0,2022,176
+4.0,5:23,1.0,10.0,LAC 40,17.0,24.0,Justin Herbert pass complete short right to DeAndre Carter for 10 yards (tackle by Budda Baker),1.6,2.26,12.0,2022,176
+4.0,4:50,1.0,10.0,LAC 50,17.0,24.0,Austin Ekeler up the middle for 9 yards (tackle by Jalen Thompson),2.26,2.93,12.0,2022,176
+4.0,4:09,2.0,1.0,ARI 41,17.0,24.0,Austin Ekeler right tackle for 3 yards (tackle by J.J. Watt),2.93,3.05,12.0,2022,176
+4.0,3:35,1.0,10.0,ARI 38,17.0,24.0,Justin Herbert pass incomplete short left intended for DeAndre Carter (defended by Marco Wilson),3.05,2.51,12.0,2022,176
+4.0,3:30,2.0,10.0,ARI 38,17.0,24.0,Justin Herbert pass complete short right to Austin Ekeler for 3 yards (tackle by Trysten Hill),2.51,2.21,12.0,2022,176
+4.0,3:03,3.0,7.0,ARI 35,17.0,24.0,Justin Herbert sacked by Isaiah Simmons for -13 yards,2.21,0.07,12.0,2022,176
+4.0,2:25,4.0,20.0,ARI 48,17.0,24.0,"JK Scott punts 38 yards, fair catch by Pharoh Cooper at ARI-10",0.07,0.38,12.0,2022,176
+4.0,2:19,1.0,10.0,ARI 10,17.0,24.0,James Conner up the middle for no gain (tackle by Derwin James and Morgan Fox),-0.38,-0.78,12.0,2022,176
+4.0,2:16,,,,,,Timeout #1 by Los Angeles Chargers,,,12.0,2022,176
+4.0,2:16,2.0,10.0,ARI 10,17.0,24.0,Kyler Murray sacked by Michael Davis for -6 yards,-0.78,-2.12,12.0,2022,176
+4.0,2:11,,,,,,Timeout #2 by Los Angeles Chargers,,,12.0,2022,176
+4.0,2:11,3.0,16.0,ARI 4,17.0,24.0,Kyler Murray pass complete short right to James Conner for 9 yards (tackle by Drue Tranquill and Kenneth Murray),-2.12,-2.49,12.0,2022,176
+4.0,2:00,4.0,7.0,ARI 13,17.0,24.0,"Andy Lee punts 50 yards, returned by DeAndre Carter for 20 yards (tackle by Christian Matthew). Penalty on Christian Matthew: Player Out of Bounds on a Punt, 5 yards (accepted)",-2.49,-3.05,12.0,2022,176
+4.0,1:48,1.0,10.0,ARI 38,17.0,24.0,Justin Herbert pass complete short left to Gerald Everett for 10 yards (tackle by Dennis Gardeck),3.05,3.71,12.0,2022,176
+4.0,1:29,1.0,10.0,ARI 28,17.0,24.0,Justin Herbert pass complete short left to Austin Ekeler for 8 yards (tackle by Jalen Thompson),3.71,4.25,12.0,2022,176
+4.0,1:08,2.0,2.0,ARI 20,17.0,24.0,"Justin Herbert pass complete short left to Austin Ekeler for no gain. Penalty on Zion Johnson: Offensive Holding, 10 yards (accepted) (no play)",4.25,2.9,12.0,2022,176
+4.0,0:58,2.0,12.0,ARI 30,17.0,24.0,Justin Herbert pass complete short right to Keenan Allen for 16 yards (tackle by Antonio Hamilton),2.9,4.65,12.0,2022,176
+4.0,0:46,,,,,,Timeout #1 by Arizona Cardinals,,,12.0,2022,176
+4.0,0:46,1.0,10.0,ARI 14,17.0,24.0,Justin Herbert pass complete short left to Gerald Everett for 3 yards (tackle by Zaven Collins),4.65,4.52,12.0,2022,176
+4.0,0:29,2.0,7.0,ARI 11,17.0,24.0,Justin Herbert pass incomplete short middle intended for Austin Ekeler,4.52,3.62,12.0,2022,176
+4.0,0:25,3.0,7.0,ARI 11,17.0,24.0,Justin Herbert pass complete short left to Austin Ekeler for 10 yards (tackle by Marco Wilson),3.62,6.97,12.0,2022,176
+4.0,0:18,,,,,,Timeout #3 by Los Angeles Chargers,,,12.0,2022,176
+4.0,0:18,1.0,1.0,ARI 1,23.0,24.0,"Justin Herbert pass complete short right to Austin Ekeler for 1 yard, touchdown",6.97,7.0,12.0,2022,176
+4.0,0:15,,,ARI 2,25.0,24.0,Two Point Attempt: Justin Herbert pass complete to to Gerald Everett for no gain,1.0,1.0,12.0,2022,176
+4.0,0:15,,,LAC 35,25.0,24.0,"Cameron Dicker kicks off 52 yards, returned by Pharoh Cooper for 19 yards (tackle by Amen Ogbongbemiga and Ja'Sir Taylor)",0.0,1.07,12.0,2022,176
+4.0,0:11,1.0,10.0,ARI 32,25.0,24.0,Kyler Murray pass incomplete deep middle intended for Robbie Anderson,1.07,0.53,12.0,2022,176
+4.0,0:06,2.0,10.0,ARI 32,25.0,24.0,Kyler Murray pass incomplete deep middle intended for A.J. Green (defended by Michael Davis),0.53,-0.16,12.0,2022,176

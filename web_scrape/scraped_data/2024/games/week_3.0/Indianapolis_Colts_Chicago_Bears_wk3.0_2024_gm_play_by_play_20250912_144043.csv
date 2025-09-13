@@ -1,0 +1,185 @@
+Quarter,Time,Down,ToGo,Location,CHI,IND,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Colts won the coin toss and deferred, Bears to receive the opening kickoff.",,,3.0,2024,34
+1.0,15:00,,,IND 35,0.0,0.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,3.0,2024,34
+1.0,15:00,1.0,10.0,CHI 30,0.0,0.0,D'Andre Swift up the middle for 4 yards (tackle by Kwity Paye and Kenny Moore),0.94,0.93,3.0,2024,34
+1.0,14:23,2.0,6.0,CHI 34,0.0,0.0,Caleb Williams pass incomplete short left intended for D.J. Moore,0.93,0.23,3.0,2024,34
+1.0,14:18,3.0,6.0,CHI 34,0.0,0.0,Caleb Williams pass complete short left to Cole Kmet for 7 yards (tackle by Nick Cross),0.23,1.66,3.0,2024,34
+1.0,13:44,1.0,10.0,CHI 41,0.0,0.0,Roschon Johnson up the middle for 8 yards (tackle by Jaylon Carlies and Julian Blackmon),1.66,2.2,3.0,2024,34
+1.0,13:05,2.0,2.0,CHI 49,0.0,0.0,Roschon Johnson right end for -1 yards (tackle by Kwity Paye and Zaire Franklin),2.2,1.36,3.0,2024,34
+1.0,12:27,3.0,3.0,CHI 48,0.0,0.0,Roschon Johnson up the middle for 2 yards (tackle by Zaire Franklin and E.J. Speed),1.36,-0.06,3.0,2024,34
+1.0,11:45,4.0,1.0,CHI 50,0.0,0.0,Caleb Williams pass complete short left to D.J. Moore for 8 yards (tackle by Jaylon Jones),-0.06,2.79,3.0,2024,34
+1.0,11:11,1.0,10.0,IND 42,0.0,0.0,D'Andre Swift right end for 3 yards (tackle by Julian Blackmon),2.79,2.65,3.0,2024,34
+1.0,10:30,2.0,7.0,IND 39,0.0,0.0,Caleb Williams pass complete short right to D.J. Moore for 1 yard (tackle by Kenny Moore),2.65,2.08,3.0,2024,34
+1.0,9:48,3.0,6.0,IND 38,0.0,0.0,Caleb Williams pass incomplete deep left intended for Rome Odunze,2.08,0.72,3.0,2024,34
+1.0,9:38,4.0,6.0,IND 38,0.0,0.0,Cairo Santos 56 yard field goal no good,0.72,-1.99,3.0,2024,34
+1.0,9:33,1.0,10.0,IND 46,0.0,0.0,"Anthony Richardson pass complete short left to Ashton Dulin for no gain. Penalty on Quenton Nelson: Ineligible Downfield Pass, 5 yards (accepted) (no play)",1.99,1.66,3.0,2024,34
+1.0,9:16,1.0,15.0,IND 41,0.0,0.0,Jonathan Taylor up the middle for 5 yards (tackle by DeMarcus Walker and Tremaine Edmunds),1.66,1.45,3.0,2024,34
+1.0,8:41,2.0,10.0,IND 46,0.0,0.0,Anthony Richardson pass incomplete short left intended for Josh Downs,1.45,0.76,3.0,2024,34
+1.0,8:38,3.0,10.0,IND 46,0.0,0.0,Anthony Richardson pass incomplete deep right intended for Alec Pierce,0.76,-0.32,3.0,2024,34
+1.0,8:34,4.0,10.0,IND 46,0.0,0.0,"Rigoberto Sanchez punts 44 yards, fair catch by DeAndre Carter at CHI-10",-0.32,0.38,3.0,2024,34
+1.0,8:27,1.0,10.0,CHI 10,0.0,0.0,"Caleb Williams pass incomplete short left intended for D.J. Moore (defended by Zaire Franklin). Penalty on E.J. Speed: Roughing the Passer, 15 yards (accepted) (no play)",-0.38,0.61,3.0,2024,34
+1.0,8:21,1.0,10.0,CHI 25,0.0,0.0,"Penalty on Marcedes Lewis: False Start, 5 yards (accepted) (no play)",0.61,0.28,3.0,2024,34
+1.0,8:21,1.0,15.0,CHI 20,0.0,0.0,D'Andre Swift right guard for 4 yards (tackle by Grover Stewart and E.J. Speed),0.28,-0.07,3.0,2024,34
+1.0,7:39,2.0,11.0,CHI 24,0.0,0.0,"Caleb Williams pass incomplete deep left intended for DeAndre Carter. Penalty on Nick Cross: Defensive Pass Interference, 21 yards (accepted) (no play)",-0.07,1.93,3.0,2024,34
+1.0,7:31,1.0,10.0,CHI 45,0.0,0.0,D'Andre Swift right tackle for 2 yards (tackle by Kenny Moore and Samuel Womack),1.93,1.65,3.0,2024,34
+1.0,6:56,2.0,8.0,CHI 47,0.0,0.0,Caleb Williams pass incomplete deep right intended for Cole Kmet,1.65,0.96,3.0,2024,34
+1.0,6:50,3.0,8.0,CHI 47,0.0,0.0,"Caleb Williams pass incomplete deep left. Penalty on Braxton Jones: Offensive Holding, 10 yards (declined)",0.96,-0.26,3.0,2024,34
+1.0,6:40,4.0,8.0,CHI 47,0.0,0.0,"Tory Taylor punts 36 yards, fair catch by Anthony Gould at IND-17",-0.26,0.06,3.0,2024,34
+1.0,6:34,1.0,10.0,IND 17,0.0,0.0,Jonathan Taylor right end for 5 yards (tackle by Tremaine Edmunds),-0.06,0.21,3.0,2024,34
+1.0,5:56,2.0,5.0,IND 22,0.0,0.0,Jonathan Taylor right guard for 4 yards (tackle by Gervon Dexter),0.21,-0.12,3.0,2024,34
+1.0,5:14,3.0,1.0,IND 26,0.0,0.0,Jonathan Taylor up the middle for 5 yards (tackle by DeMarcus Walker),-0.12,1.0,3.0,2024,34
+1.0,4:39,1.0,10.0,IND 31,0.0,0.0,Anthony Richardson pass incomplete short left,1.0,0.46,3.0,2024,34
+1.0,4:33,2.0,10.0,IND 31,0.0,0.0,Anthony Richardson sacked by Montez Sweat for -11 yards,0.46,-1.68,3.0,2024,34
+1.0,4:20,3.0,21.0,IND 20,0.0,0.0,Anthony Richardson pass complete short left to Josh Downs for 13 yards (tackle by Darrell Taylor),-1.68,-1.18,3.0,2024,34
+1.0,3:27,4.0,8.0,IND 33,0.0,0.0,"Rigoberto Sanchez punts 51 yards, returned by DeAndre Carter for -2 yards (tackle by Trevor Denbow)",-1.18,0.28,3.0,2024,34
+1.0,3:05,1.0,10.0,CHI 14,0.0,0.0,Caleb Williams pass complete short left to D.J. Moore for 5 yards (tackle by Jaylon Jones),-0.28,-0.04,3.0,2024,34
+1.0,2:35,2.0,5.0,CHI 19,0.0,0.0,Roschon Johnson up the middle for 7 yards (tackle by Zaire Franklin and E.J. Speed),-0.04,0.67,3.0,2024,34
+1.0,1:58,1.0,10.0,CHI 26,0.0,0.0,Roschon Johnson left end for 1 yard (tackle by Zaire Franklin),0.67,0.27,3.0,2024,34
+1.0,1:19,2.0,9.0,CHI 27,0.0,0.0,Caleb Williams sacked by Taven Bryan for -7 yards,0.27,-1.35,3.0,2024,34
+1.0,0:49,3.0,16.0,CHI 20,0.0,0.0,Caleb Williams pass complete short right to DeAndre Carter for 6 yards (tackle by Kwity Paye),-1.35,-1.63,3.0,2024,34
+1.0,0:08,4.0,10.0,CHI 26,0.0,0.0,"Tory Taylor punts 54 yards, returned by Anthony Gould for 19 yards (tackle by Khalil Herbert)",-1.63,-1.53,3.0,2024,34
+2.0,15:00,1.0,10.0,IND 39,0.0,0.0,Anthony Richardson pass complete short left to Michael Pittman for 13 yards (tackle by Jaquan Brisker),1.53,2.39,3.0,2024,34
+2.0,14:25,1.0,10.0,CHI 48,0.0,0.0,Anthony Richardson right guard for 3 yards (tackle by Chris Williams),2.39,2.25,3.0,2024,34
+2.0,13:43,2.0,7.0,CHI 45,0.0,0.0,Jonathan Taylor right guard for -3 yards (tackle by Austin Booker),2.25,1.16,3.0,2024,34
+2.0,13:06,3.0,10.0,CHI 48,0.0,0.0,Anthony Richardson pass complete deep left to Alec Pierce for 44 yards (tackle by Jaylon Johnson and Jaquan Brisker),1.16,6.28,3.0,2024,34
+2.0,12:33,1.0,4.0,CHI 4,0.0,0.0,Jonathan Taylor up the middle for 1 yard (tackle by Jaquan Brisker and Montez Sweat),6.28,5.53,3.0,2024,34
+2.0,11:51,2.0,3.0,CHI 3,0.0,0.0,Anthony Richardson up the middle for no gain (tackle by Jack Sanborn and DeMarcus Walker),5.53,4.72,3.0,2024,34
+2.0,11:05,3.0,3.0,CHI 3,0.0,0.0,Anthony Richardson pass short left (defended by Jack Sanborn) intended for Ashton Dulin is intercepted by Tremaine Edmunds in end zone and returned for no gain,4.72,-0.28,3.0,2024,34
+2.0,11:03,1.0,10.0,CHI 20,0.0,0.0,Caleb Williams pass complete deep left to Rome Odunze for 47 yards (tackle by Nick Cross),0.28,3.38,3.0,2024,34
+2.0,10:29,1.0,10.0,IND 33,0.0,0.0,Khalil Herbert up the middle for 6 yards (tackle by E.J. Speed),3.38,3.65,3.0,2024,34
+2.0,9:51,2.0,4.0,IND 27,0.0,0.0,Caleb Williams pass incomplete short right,3.65,2.94,3.0,2024,34
+2.0,9:41,3.0,4.0,IND 27,0.0,0.0,Caleb Williams pass short left intended for DeAndre Carter is intercepted by Jaylon Jones at IND-25 and returned for 5 yards,2.94,-0.94,3.0,2024,34
+2.0,9:35,1.0,10.0,IND 30,0.0,0.0,Jonathan Taylor left end for 1 yard (tackle by Tremaine Edmunds),0.94,0.53,3.0,2024,34
+2.0,9:02,2.0,9.0,IND 31,0.0,0.0,Anthony Richardson pass complete deep left to Kylen Granson for 40 yards (tackle by Jaquan Brisker),0.53,3.64,3.0,2024,34
+2.0,8:26,1.0,10.0,CHI 29,0.0,6.0,"Jonathan Taylor up the middle for 29 yards, touchdown",3.64,7.0,3.0,2024,34
+2.0,8:19,,,CHI 15,0.0,7.0,Matt Gay kicks extra point good,0.0,0.0,3.0,2024,34
+2.0,8:19,,,IND 35,0.0,7.0,"Matt Gay kicks off 62 yards, returned by DeAndre Carter for 26 yards (tackle by Adetomiwa Adebawore)",0.0,0.87,3.0,2024,34
+2.0,8:14,1.0,10.0,CHI 29,0.0,7.0,D'Andre Swift left tackle for 2 yards (tackle by E.J. Speed),0.87,0.6,3.0,2024,34
+2.0,7:44,2.0,8.0,CHI 31,0.0,7.0,D'Andre Swift up the middle for -1 yards (tackle by Jaylon Jones),0.6,-0.23,3.0,2024,34
+2.0,7:05,3.0,9.0,CHI 30,0.0,7.0,Caleb Williams pass complete short left to Roschon Johnson for 11 yards (tackle by Julian Blackmon),-0.23,1.66,3.0,2024,34
+2.0,6:23,1.0,10.0,CHI 41,0.0,7.0,Caleb Williams pass complete deep left to Rome Odunze for 27 yards,1.66,3.45,3.0,2024,34
+2.0,5:46,1.0,10.0,IND 32,0.0,7.0,Caleb Williams pass incomplete short right intended for D'Andre Swift (defended by Taven Bryan),3.45,2.9,3.0,2024,34
+2.0,5:41,2.0,10.0,IND 32,0.0,7.0,Caleb Williams pass complete short right to D.J. Moore for 6 yards (tackle by Dallis Flowers),2.9,3.01,3.0,2024,34
+2.0,5:12,3.0,4.0,IND 26,0.0,7.0,Caleb Williams pass complete short left to DeAndre Carter for 7 yards (tackle by Julian Blackmon),3.01,4.31,3.0,2024,34
+2.0,4:35,1.0,10.0,IND 19,0.0,7.0,Caleb Williams pass incomplete deep left intended for Gerald Everett,4.31,3.75,3.0,2024,34
+2.0,4:28,2.0,10.0,IND 19,0.0,7.0,"Caleb Williams pass incomplete short left intended for DeAndre Carter. Penalty on Jaylon Jones: Defensive Pass Interference, 5 yards (accepted) (no play)",3.75,4.65,3.0,2024,34
+2.0,4:28,1.0,10.0,IND 14,0.0,7.0,Caleb Williams pass complete short left to D.J. Moore for 1 yard (tackle by Julian Blackmon and Zaire Franklin),4.65,4.16,3.0,2024,34
+2.0,3:50,2.0,9.0,IND 13,0.0,7.0,D'Andre Swift left end for 4 yards (tackle by Tyquan Lewis),4.16,4.05,3.0,2024,34
+2.0,3:05,3.0,5.0,IND 9,0.0,7.0,Caleb Williams pass complete short right to Cole Kmet for 4 yards (tackle by Dallis Flowers),4.05,3.03,3.0,2024,34
+2.0,2:24,4.0,1.0,IND 5,0.0,7.0,Roschon Johnson up the middle for 1 yard (tackle by Grover Stewart and Raekwon Davis),3.03,6.28,3.0,2024,34
+2.0,2:00,1.0,4.0,IND 4,0.0,7.0,Khalil Herbert up the middle for 2 yards (tackle by Raekwon Davis),6.28,5.72,3.0,2024,34
+2.0,1:55,,,,,,Timeout #1 by Indianapolis Colts,,,3.0,2024,34
+2.0,1:55,2.0,2.0,IND 2,0.0,7.0,Khalil Herbert up the middle for 1 yard (tackle by Kwity Paye and Grover Stewart),5.72,5.17,3.0,2024,34
+2.0,1:50,,,,,,Timeout #2 by Indianapolis Colts,,,3.0,2024,34
+2.0,1:50,3.0,1.0,IND 1,0.0,7.0,Khalil Herbert up the middle for no gain (tackle by Tyquan Lewis and Kenny Moore),5.17,3.55,3.0,2024,34
+2.0,1:46,,,,,,Timeout #3 by Indianapolis Colts,,,3.0,2024,34
+2.0,1:46,4.0,1.0,IND 1,0.0,7.0,D'Andre Swift left end for -12 yards (tackle by Tyquan Lewis),3.55,0.32,3.0,2024,34
+2.0,1:40,1.0,10.0,IND 13,0.0,7.0,Jonathan Taylor right guard for 6 yards (tackle by Kevin Byard and DeMarcus Walker),-0.32,0.03,3.0,2024,34
+2.0,1:33,,,,,,Timeout #1 by Chicago Bears,,,3.0,2024,34
+2.0,1:33,2.0,4.0,IND 19,0.0,7.0,Jonathan Taylor right tackle for 5 yards (tackle by Tyrique Stevenson),0.03,0.54,3.0,2024,34
+2.0,1:13,1.0,10.0,IND 24,0.0,7.0,Anthony Richardson pass incomplete deep right,0.54,0.0,3.0,2024,34
+2.0,1:06,2.0,10.0,IND 24,0.0,7.0,Anthony Richardson pass complete short right to Josh Downs for 7 yards (tackle by T.J. Edwards),0.0,0.23,3.0,2024,34
+2.0,1:02,3.0,3.0,IND 31,0.0,7.0,Anthony Richardson pass incomplete short left intended for Josh Downs,0.23,-1.31,3.0,2024,34
+2.0,0:59,4.0,3.0,IND 31,0.0,7.0,"Rigoberto Sanchez punts 51 yards, fair catch by DeAndre Carter at CHI-18",-1.31,-0.04,3.0,2024,34
+2.0,0:51,1.0,10.0,CHI 18,0.0,7.0,Caleb Williams pass complete short left to D.J. Moore for 12 yards (tackle by Jaylon Jones),0.04,0.94,3.0,2024,34
+2.0,0:48,1.0,10.0,CHI 30,0.0,7.0,Caleb Williams pass incomplete short left intended for Roschon Johnson,0.94,0.39,3.0,2024,34
+2.0,0:43,2.0,10.0,CHI 30,0.0,7.0,Caleb Williams pass complete short right to Roschon Johnson for 9 yards (tackle by Zaire Franklin and E.J. Speed),0.39,0.89,3.0,2024,34
+2.0,0:37,,,,,,Timeout #2 by Chicago Bears,,,3.0,2024,34
+2.0,0:37,3.0,1.0,CHI 39,0.0,7.0,Caleb Williams up the middle for 8 yards (tackle by Zaire Franklin),0.89,2.06,3.0,2024,34
+2.0,0:31,,,,,,Timeout #3 by Chicago Bears,,,3.0,2024,34
+2.0,0:31,1.0,10.0,CHI 47,0.0,7.0,"Caleb Williams pass complete deep left to D.J. Moore for no gain. Penalty on Braxton Jones: Offensive Holding, 10 yards (accepted) (no play)",2.06,1.4,3.0,2024,34
+2.0,0:25,1.0,20.0,CHI 37,0.0,7.0,Caleb Williams pass incomplete deep right intended for DeAndre Carter,1.4,0.17,3.0,2024,34
+2.0,0:19,2.0,20.0,CHI 37,0.0,7.0,Caleb Williams pass complete short right to Cole Kmet for 18 yards (tackle by E.J. Speed),0.17,1.88,3.0,2024,34
+2.0,0:01,3.0,2.0,IND 45,0.0,7.0,Caleb Williams spiked the ball,1.88,0.27,3.0,2024,34
+2.0,0:01,4.0,2.0,IND 45,0.0,7.0,Caleb Williams pass complete deep right to D.J. Moore for 44 yards (tackle by Julian Blackmon and E.J. Speed),0.27,-0.37,3.0,2024,34
+3.0,15:00,,,CHI 35,0.0,7.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.94,3.0,2024,34
+3.0,15:00,1.0,10.0,IND 30,0.0,7.0,Anthony Richardson pass deep left intended for Michael Pittman is intercepted by Jaylon Johnson at CHI-46 and returned for 2 yards (tackle by Michael Pittman),0.94,-2.13,3.0,2024,34
+3.0,14:52,1.0,10.0,CHI 48,0.0,7.0,Caleb Williams pass complete short left to Cole Kmet for 15 yards (tackle by Kenny Moore),2.13,3.12,3.0,2024,34
+3.0,14:19,1.0,10.0,IND 37,0.0,7.0,D'Andre Swift up the middle for 1 yard (tackle by Zaire Franklin),3.12,2.71,3.0,2024,34
+3.0,13:48,2.0,9.0,IND 36,0.0,7.0,Caleb Williams pass incomplete short right,2.71,2.01,3.0,2024,34
+3.0,13:41,3.0,9.0,IND 36,0.0,7.0,Caleb Williams pass complete short right to Cole Kmet for 2 yards (tackle by Kenny Moore and Nick Cross),2.01,1.06,3.0,2024,34
+3.0,12:56,4.0,7.0,IND 34,3.0,7.0,Cairo Santos 53 yard field goal good,1.06,3.0,3.0,2024,34
+3.0,12:51,,,CHI 35,3.0,7.0,"Cairo Santos kicks off 69 yards, returned by Dallis Flowers for 30 yards (tackle by Tyrique Stevenson and Collin Johnson)",0.0,0.67,3.0,2024,34
+3.0,12:46,1.0,10.0,IND 26,3.0,7.0,"Penalty on Mo Alie-Cox: False Start, 5 yards (accepted) (no play)",0.67,0.34,3.0,2024,34
+3.0,12:46,1.0,15.0,IND 21,3.0,7.0,"Penalty on Jonathan Taylor: False Start, 5 yards (accepted) (no play)",0.34,-0.3,3.0,2024,34
+3.0,12:46,1.0,20.0,IND 16,3.0,7.0,Anthony Richardson pass complete short right to Michael Pittman for 10 yards (tackle by Montez Sweat and Tyrique Stevenson),-0.3,0.13,3.0,2024,34
+3.0,12:11,2.0,10.0,IND 26,3.0,7.0,Anthony Richardson pass complete short right to Michael Pittman for 6 yards (tackle by Tyrique Stevenson),0.13,0.23,3.0,2024,34
+3.0,11:35,3.0,4.0,IND 32,3.0,7.0,Anthony Richardson pass incomplete short right intended for Jonathan Taylor,0.23,-1.24,3.0,2024,34
+3.0,11:29,4.0,4.0,IND 32,3.0,7.0,"Rigoberto Sanchez punts 52 yards, fair catch by DeAndre Carter at CHI-16",-1.24,0.14,3.0,2024,34
+3.0,11:22,1.0,10.0,CHI 16,3.0,7.0,Rome Odunze left end for 2 yards (tackle by Nick Cross),-0.14,-0.35,3.0,2024,34
+3.0,10:52,2.0,8.0,CHI 18,3.0,7.0,Caleb Williams pass incomplete short left intended for D'Andre Swift,-0.35,-1.07,3.0,2024,34
+3.0,10:49,3.0,8.0,CHI 18,3.0,7.0,Caleb Williams sacked by and Kwity Paye for -10 yards and Kenny Moore for -10 yards,-1.07,-2.49,3.0,2024,34
+3.0,10:05,4.0,18.0,CHI 8,3.0,7.0,"Tory Taylor punts, returned by Anthony Gould for no gain (tackle by Elijah Hicks). Penalty on Tyler Goodson: Roughing the Kicker, 15 yards (accepted) (no play)",-2.49,0.48,3.0,2024,34
+3.0,9:53,1.0,10.0,CHI 23,3.0,7.0,Caleb Williams pass deep left (defended by Nick Cross) intended for Rome Odunze is intercepted by Jaylon Jones at CHI-45 and returned for no gain,0.48,-2.59,3.0,2024,34
+3.0,9:46,1.0,10.0,CHI 45,3.0,7.0,"Jonathan Taylor right tackle for no gain (tackle by Austin Booker). Penalty on Kylen Granson: Illegal Shift, 5 yards (accepted) (no play)",2.59,2.26,3.0,2024,34
+3.0,9:28,1.0,15.0,CHI 50,3.0,7.0,Anthony Richardson pass complete short left to Josh Downs for 2 yards (tackle by Tremaine Edmunds and Kyler Gordon),2.26,1.64,3.0,2024,34
+3.0,8:35,2.0,13.0,CHI 48,3.0,7.0,Anthony Richardson scrambles right end for 8 yards (tackle by Jaylon Johnson),1.64,2.01,3.0,2024,34
+3.0,8:24,3.0,5.0,CHI 40,3.0,7.0,Jonathan Taylor up the middle for 2 yards (tackle by Gervon Dexter),2.01,0.72,3.0,2024,34
+3.0,7:39,4.0,3.0,CHI 38,3.0,7.0,Jonathan Taylor right guard for 1 yard (tackle by DeMarcus Walker),0.72,-1.4,3.0,2024,34
+3.0,7:25,1.0,10.0,CHI 37,3.0,7.0,D'Andre Swift up the middle for 4 yards (tackle by Tyquan Lewis),1.4,1.4,3.0,2024,34
+3.0,6:49,2.0,6.0,CHI 41,3.0,7.0,D'Andre Swift right end for 2 yards (tackle by Grover Stewart and Nick Cross),1.4,0.96,3.0,2024,34
+3.0,6:06,3.0,4.0,CHI 43,3.0,7.0,Caleb Williams pass incomplete deep left intended for Rome Odunze,0.96,-0.52,3.0,2024,34
+3.0,5:57,4.0,4.0,CHI 43,3.0,7.0,Tory Taylor punts 37 yards out of bounds,-0.52,-0.28,3.0,2024,34
+3.0,5:51,1.0,10.0,IND 20,3.0,7.0,Jonathan Taylor up the middle for 2 yards (tackle by Kevin Byard),0.28,0.0,3.0,2024,34
+3.0,5:11,2.0,8.0,IND 22,3.0,7.0,Jonathan Taylor right end for -1 yards (tackle by Montez Sweat),0.0,-0.82,3.0,2024,34
+3.0,4:31,3.0,9.0,IND 21,3.0,7.0,Anthony Richardson pass complete short left to Michael Pittman for 7 yards (tackle by Kyler Gordon and T.J. Edwards),-0.82,-1.5,3.0,2024,34
+3.0,3:40,4.0,2.0,IND 28,3.0,7.0,"Penalty on Daniel Hardy: Neutral Zone Infraction, 5 yards (accepted) (no play)",-1.5,1.14,3.0,2024,34
+3.0,3:37,1.0,10.0,IND 33,3.0,7.0,Jonathan Taylor right tackle for 1 yard (tackle by Gervon Dexter and Kyler Gordon),1.14,0.73,3.0,2024,34
+3.0,3:01,2.0,9.0,IND 34,3.0,7.0,Anthony Richardson pass complete short left to Jonathan Taylor for 25 yards (tackle by Tremaine Edmunds),0.73,2.85,3.0,2024,34
+3.0,2:19,1.0,10.0,CHI 41,3.0,7.0,Jonathan Taylor left tackle for 21 yards (tackle by Tyrique Stevenson),2.85,4.24,3.0,2024,34
+3.0,1:34,1.0,10.0,CHI 20,3.0,7.0,Trey Sermon left guard for 15 yards (tackle by Tyrique Stevenson),4.24,6.06,3.0,2024,34
+3.0,0:59,1.0,5.0,CHI 5,3.0,7.0,Anthony Richardson up the middle for 4 yards (tackle by Kevin Byard),6.06,5.91,3.0,2024,34
+3.0,0:29,2.0,1.0,CHI 1,3.0,13.0,"Trey Sermon up the middle for 1 yard, touchdown",5.91,7.0,3.0,2024,34
+3.0,0:21,,,CHI 15,3.0,14.0,Matt Gay kicks extra point good,0.0,0.0,3.0,2024,34
+3.0,0:21,,,IND 35,3.0,14.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,3.0,2024,34
+3.0,0:21,1.0,10.0,CHI 30,3.0,14.0,Caleb Williams pass complete short left to D'Andre Swift for 11 yards (tackle by Julian Blackmon and Kenny Moore),0.94,1.66,3.0,2024,34
+4.0,15:00,1.0,10.0,CHI 41,3.0,14.0,D'Andre Swift left end for 4 yards (tackle by Chris Lammons and Dayo Odeyingbo),1.66,1.66,3.0,2024,34
+4.0,14:25,2.0,6.0,CHI 45,3.0,14.0,Caleb Williams pass complete short left to Cole Kmet for 8 yards (tackle by Chris Lammons and Zaire Franklin),1.66,2.46,3.0,2024,34
+4.0,13:46,1.0,10.0,IND 47,3.0,14.0,D.J. Moore left end for -6 yards (tackle by Raekwon Davis),2.46,1.1,3.0,2024,34
+4.0,13:12,2.0,16.0,CHI 47,3.0,14.0,Caleb Williams pass complete short right to D'Andre Swift for 11 yards (tackle by Dallis Flowers),1.1,1.88,3.0,2024,34
+4.0,12:36,3.0,5.0,IND 42,3.0,14.0,Caleb Williams pass complete short middle to Rome Odunze for 14 yards (tackle by Nick Cross and Zaire Franklin),1.88,3.71,3.0,2024,34
+4.0,12:01,1.0,10.0,IND 28,3.0,14.0,D'Andre Swift left tackle for 3 yards (tackle by E.J. Speed),3.71,3.57,3.0,2024,34
+4.0,11:24,2.0,7.0,IND 25,3.0,14.0,Caleb Williams pass incomplete deep middle intended for Rome Odunze,3.57,2.87,3.0,2024,34
+4.0,11:12,3.0,7.0,IND 25,3.0,14.0,Caleb Williams pass complete deep right to Cole Kmet for 10 yards (tackle by Nick Cross),2.87,4.58,3.0,2024,34
+4.0,10:28,1.0,10.0,IND 15,3.0,14.0,Roschon Johnson left end for 3 yards (tackle by Zaire Franklin and Jaylon Jones),4.58,4.45,3.0,2024,34
+4.0,9:47,2.0,7.0,IND 12,3.0,14.0,Caleb Williams pass complete short right to D.J. Moore for 1 yard (tackle by Kenny Moore),4.45,3.78,3.0,2024,34
+4.0,9:04,3.0,6.0,IND 11,3.0,14.0,Caleb Williams pass complete short middle to Cole Kmet for 8 yards (tackle by E.J. Speed and Zaire Franklin),3.78,6.51,3.0,2024,34
+4.0,8:45,1.0,3.0,IND 3,3.0,14.0,"Penalty on Zaire Franklin: Encroachment, 2 yards (accepted) (no play)",6.51,6.97,3.0,2024,34
+4.0,8:25,1.0,1.0,IND 1,9.0,14.0,"Caleb Williams pass complete short left to Rome Odunze for 1 yard, touchdown",6.97,7.0,3.0,2024,34
+4.0,8:21,,,,,,Timeout #1 by Chicago Bears,,,3.0,2024,34
+4.0,8:21,,,IND 2,9.0,14.0,Two Point Attempt: Caleb Williams pass incomplete intended for intended for Khalil Herbert,1.0,-1.0,3.0,2024,34
+4.0,8:21,,,CHI 35,9.0,14.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.94,3.0,2024,34
+4.0,8:21,1.0,10.0,IND 30,9.0,14.0,"Jonathan Taylor up the middle for 6 yards (tackle by Kevin Byard). Penalty on Andrew Billings: Illegal Use of Hands / Defense, 5 yards (accepted)",0.94,1.66,3.0,2024,34
+4.0,7:54,1.0,10.0,IND 41,9.0,14.0,Jonathan Taylor left end for no gain (tackle by Kyler Gordon and Jaquan Brisker),1.66,1.12,3.0,2024,34
+4.0,7:21,2.0,10.0,IND 41,9.0,14.0,Anthony Richardson pass incomplete short left intended for Mo Alie-Cox (defended by Tremaine Edmunds),1.12,0.43,3.0,2024,34
+4.0,7:14,3.0,10.0,IND 41,9.0,14.0,Anthony Richardson pass incomplete deep left intended for Adonai Mitchell (defended by Kevin Byard),0.43,-0.65,3.0,2024,34
+4.0,7:03,4.0,10.0,IND 41,9.0,14.0,"Rigoberto Sanchez punts 47 yards, returned by DeAndre Carter for 6 yards (tackle by Chris Lammons and Andrew Ogletree)",-0.65,-0.04,3.0,2024,34
+4.0,6:52,1.0,10.0,CHI 18,9.0,14.0,"Caleb Williams sacked by Laiatu Latu for -6 yards. Caleb Williams fumbles (forced by Laiatu Latu), recovered by Grover Stewart at CHI-16 (tackle by Laiatu Latu)",0.04,-4.51,3.0,2024,34
+4.0,6:46,1.0,10.0,CHI 16,9.0,14.0,Anthony Richardson right tackle for 13 yards (tackle by Kevin Byard),4.51,6.51,3.0,2024,34
+4.0,6:22,1.0,3.0,CHI 3,9.0,14.0,Jonathan Taylor up the middle for 1 yard (tackle by DeMarcus Walker and Gervon Dexter),6.51,5.72,3.0,2024,34
+4.0,5:42,2.0,2.0,CHI 2,9.0,14.0,Jonathan Taylor left guard for 1 yard (tackle by Gervon Dexter and DeMarcus Walker),5.72,5.17,3.0,2024,34
+4.0,5:25,,,,,,Timeout #2 by Chicago Bears,,,3.0,2024,34
+4.0,5:25,3.0,1.0,CHI 1,9.0,20.0,"Jonathan Taylor left guard for 1 yard, touchdown",5.17,7.0,3.0,2024,34
+4.0,5:22,,,CHI 15,9.0,21.0,Matt Gay kicks extra point good,0.0,0.0,3.0,2024,34
+4.0,5:22,,,IND 35,9.0,21.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,3.0,2024,34
+4.0,5:22,1.0,10.0,CHI 30,9.0,21.0,Caleb Williams pass complete short right to Rome Odunze for 6 yards (tackle by Dallis Flowers),0.94,1.2,3.0,2024,34
+4.0,4:58,2.0,4.0,CHI 36,9.0,21.0,"Roschon Johnson left guard for no gain (tackle by Zaire Franklin and E.J. Speed). Penalty on Teven Jenkins: Offensive Holding, 10 yards (offset) . Penalty on Dallis Flowers: Illegal Use of Hands / Defense, 5 yards (offset) (no play)",1.2,1.2,3.0,2024,34
+4.0,4:57,2.0,4.0,CHI 36,9.0,21.0,Caleb Williams pass complete deep middle to Cole Kmet for 19 yards (tackle by Zaire Franklin and Nick Cross),1.2,2.59,3.0,2024,34
+4.0,4:36,1.0,10.0,IND 45,9.0,21.0,Caleb Williams pass complete short middle to Roschon Johnson for 6 yards (tackle by E.J. Speed),2.59,2.85,3.0,2024,34
+4.0,4:11,2.0,4.0,IND 39,9.0,21.0,Caleb Williams pass incomplete deep middle intended for Rome Odunze,2.85,2.15,3.0,2024,34
+4.0,4:04,3.0,4.0,IND 39,9.0,21.0,Roschon Johnson right guard for 9 yards (tackle by Dallis Flowers and Nick Cross),2.15,3.58,3.0,2024,34
+4.0,3:40,1.0,10.0,IND 30,9.0,21.0,Caleb Williams sacked by Adetomiwa Adebawore for -8 yards,3.58,1.95,3.0,2024,34
+4.0,3:11,2.0,18.0,IND 38,9.0,21.0,Caleb Williams pass complete short right to Roschon Johnson for 6 yards (tackle by E.J. Speed),1.95,2.08,3.0,2024,34
+4.0,2:44,3.0,12.0,IND 32,9.0,21.0,Caleb Williams pass complete deep right to Rome Odunze for 17 yards (tackle by Nick Cross),2.08,4.58,3.0,2024,34
+4.0,2:36,1.0,10.0,IND 15,9.0,21.0,Caleb Williams pass incomplete short middle intended for DeAndre Carter,4.58,3.95,3.0,2024,34
+4.0,2:35,2.0,10.0,IND 15,9.0,21.0,Caleb Williams pass incomplete short left intended for D.J. Moore (defended by Kenny Moore),3.95,3.1,3.0,2024,34
+4.0,2:29,3.0,10.0,IND 15,9.0,21.0,Caleb Williams pass complete short middle to DeAndre Carter for 9 yards (tackle by Zaire Franklin),3.1,3.02,3.0,2024,34
+4.0,2:05,4.0,1.0,IND 6,15.0,21.0,"Caleb Williams pass complete short right to Cole Kmet for 6 yards, touchdown",3.02,7.0,3.0,2024,34
+4.0,2:01,,,IND 15,16.0,21.0,Cairo Santos kicks extra point good,0.0,0.0,3.0,2024,34
+4.0,2:01,,,CHI 35,16.0,21.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.94,3.0,2024,34
+4.0,2:01,1.0,10.0,IND 30,16.0,21.0,Jonathan Taylor up the middle for 4 yards (tackle by Andrew Billings and Jaquan Brisker),0.94,0.93,3.0,2024,34
+4.0,1:57,2.0,6.0,IND 34,16.0,21.0,Jonathan Taylor right end for 13 yards (tackle by Jack Sanborn and Kevin Byard),0.93,2.06,3.0,2024,34
+4.0,1:49,,,,,,Timeout #3 by Chicago Bears,,,3.0,2024,34
+4.0,1:49,1.0,10.0,IND 47,16.0,21.0,Anthony Richardson kneels for -2 yards,2.06,1.25,3.0,2024,34
+4.0,1:04,2.0,12.0,IND 45,16.0,21.0,Anthony Richardson kneels for -1 yards,1.25,0.43,3.0,2024,34
+4.0,0:30,3.0,13.0,IND 44,16.0,21.0,Anthony Richardson kneels for -1 yards,0.43,-0.52,3.0,2024,34

@@ -1,0 +1,165 @@
+Quarter,Time,Down,ToGo,Location,PIT,NYJ,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Steelers won the coin toss and deferred, Jets to receive the opening kickoff.",,,1,2025,10
+1.0,15:00,,,PIT 35,0.0,0.0,"Chris Boswell kicks off 63 yards, returned by Kene Nwangwu for 33 yards (tackle by Malik Harrison)",0.0,1.27,1,2025,10
+1.0,14:55,1.0,10.0,NYJ 35,0.0,0.0,Breece Hall left guard for 18 yards (tackle by Jalen Ramsey),1.27,2.46,1,2025,10
+1.0,14:16,1.0,10.0,PIT 47,0.0,0.0,Breece Hall left tackle for 7 yards (tackle by Juan Thornhill),2.46,2.86,1,2025,10
+1.0,13:40,2.0,3.0,PIT 40,0.0,0.0,Braelon Allen left guard for 2 yards (tackle by Alex Highsmith),2.86,2.41,1,2025,10
+1.0,13:03,3.0,1.0,PIT 38,0.0,0.0,Justin Fields up the middle for 5 yards (tackle by Patrick Queen),2.41,3.38,1,2025,10
+1.0,12:24,1.0,10.0,PIT 33,0.0,0.0,Justin Fields pass complete short left to Garrett Wilson for 8 yards (tackle by DeShon Elliott),3.38,3.92,1,2025,10
+1.0,11:51,2.0,2.0,PIT 25,0.0,0.0,Breece Hall right guard for 6 yards (tackle by Payton Wilson and Patrick Queen),3.92,4.31,1,2025,10
+1.0,11:08,1.0,10.0,PIT 19,0.0,0.0,Braelon Allen right guard for 1 yard (tackle by Alex Highsmith and T.J. Watt),4.31,3.88,1,2025,10
+1.0,10:36,2.0,9.0,PIT 18,0.0,0.0,Braelon Allen left end for -2 yards (tackle by T.J. Watt),3.88,2.94,1,2025,10
+1.0,9:57,3.0,11.0,PIT 20,0.0,0.0,Isaiah Davis up the middle for 3 yards (tackle by Patrick Queen),2.94,2.31,1,2025,10
+1.0,9:19,4.0,8.0,PIT 17,0.0,3.0,Nick Folk 35 yard field goal good,2.31,3.0,1,2025,10
+1.0,9:15,,,NYJ 35,0.0,3.0,"Nick Folk kicks off 65 yards, returned by Kaleb Johnson for 29 yards (tackle by Cam Jones and Marcelino McCrary-Ball)",0.0,0.87,1,2025,10
+1.0,9:09,1.0,10.0,PIT 29,0.0,3.0,Aaron Rodgers sacked by Quinnen Williams for 4 yards,0.87,-0.21,1,2025,10
+1.0,8:26,2.0,14.0,PIT 25,0.0,3.0,Kenneth Gainwell right guard for 4 yards (tackle by Harrison Phillips),-0.21,-0.36,1,2025,10
+1.0,7:41,3.0,10.0,PIT 29,0.0,3.0,Aaron Rodgers pass complete short left to Pat Freiermuth for 11 yards (tackle by Jamien Sherwood),-0.36,1.6,1,2025,10
+1.0,7:08,1.0,10.0,PIT 40,0.0,3.0,Jaylen Warren left tackle for no gain (tackle by Jowon Briggs and Jermaine Johnson),1.6,1.05,1,2025,10
+1.0,6:26,2.0,10.0,PIT 40,0.0,3.0,Aaron Rodgers pass incomplete short middle intended for D.K. Metcalf,1.05,0.37,1,2025,10
+1.0,6:22,3.0,10.0,PIT 40,0.0,3.0,Aaron Rodgers pass complete short right to D.K. Metcalf for 23 yards (tackle by Andre Cisco),0.37,3.12,1,2025,10
+1.0,5:40,1.0,10.0,NYJ 37,0.0,3.0,Aaron Rodgers pass complete short right to Jonnu Smith for 6 yards (tackle by Quincy Williams),3.12,3.38,1,2025,10
+1.0,5:04,2.0,4.0,NYJ 31,0.0,3.0,Kenneth Gainwell left guard for 6 yards (tackle by Francisco Mauigoa and Will McDonald),3.38,3.91,1,2025,10
+1.0,4:21,1.0,10.0,NYJ 25,0.0,3.0,Kenneth Gainwell left guard for 3 yards (tackle by Harrison Phillips),3.91,3.77,1,2025,10
+1.0,3:44,2.0,7.0,NYJ 22,6.0,3.0,"Aaron Rodgers pass complete short right to Ben Skowronek for 22 yards, touchdown",3.77,7.0,1,2025,10
+1.0,3:38,,,NYJ 15,7.0,3.0,Chris Boswell kicks extra point good,0.0,0.0,1,2025,10
+1.0,3:38,,,PIT 35,7.0,3.0,"Chris Boswell kicks off 60 yards, returned by Xavier Gipson for 40 yards (tackle by Juan Thornhill)",0.0,1.93,1,2025,10
+1.0,3:32,1.0,10.0,NYJ 45,7.0,3.0,Justin Fields scrambles left end for 2 yards (tackle by DeShon Elliott),1.93,1.65,1,2025,10
+1.0,2:56,2.0,8.0,NYJ 47,7.0,3.0,Justin Fields pass complete short left to Garrett Wilson for 8 yards (tackle by Darius Slay),1.65,2.59,1,2025,10
+1.0,2:22,1.0,10.0,PIT 45,7.0,3.0,Breece Hall left end for 3 yards (tackle by DeShon Elliott),2.59,2.45,1,2025,10
+1.0,1:36,2.0,7.0,PIT 42,7.0,3.0,Justin Fields pass complete short left to Breece Hall for 5 yards (tackle by Patrick Queen),2.45,2.41,1,2025,10
+1.0,1:10,3.0,2.0,PIT 37,7.0,3.0,Breece Hall left guard for 4 yards (tackle by Darius Slay),2.41,3.38,1,2025,10
+1.0,0:31,1.0,10.0,PIT 33,7.0,9.0,"Justin Fields pass complete deep right to Garrett Wilson for 33 yards, touchdown",3.38,7.0,1,2025,10
+1.0,0:25,,,PIT 15,7.0,9.0,Nick Folk kicks extra point no good (no play),0.0,1.0,1,2025,10
+1.0,0:25,,,PIT 1,7.0,9.0,"Two Point Attempt: Braelon Allen rushes, conversion fails.",1.0,-1.0,1,2025,10
+1.0,0:25,,,NYJ 35,7.0,9.0,"Nick Folk kicks off 60 yards, returned by Kaleb Johnson for 23 yards. Kaleb Johnson fumbles (forced by Marcelino McCrary-Ball), recovered by Juan Thornhill at PIT-28",0.0,0.81,1,2025,10
+1.0,0:17,1.0,10.0,PIT 28,7.0,9.0,Aaron Rodgers pass complete short left to D.K. Metcalf for 31 yards (tackle by Andre Cisco),0.81,2.85,1,2025,10
+2.0,15:00,1.0,10.0,NYJ 41,7.0,9.0,Aaron Rodgers pass incomplete short right,2.85,2.31,1,2025,10
+2.0,14:54,2.0,10.0,NYJ 41,7.0,9.0,Kenneth Gainwell right end for -1 yards (tackle by Michael Carter),2.31,1.49,1,2025,10
+2.0,14:08,3.0,11.0,NYJ 42,7.0,9.0,Aaron Rodgers pass complete short left to Jonnu Smith for 5 yards (tackle by Jay Tufele),1.49,0.79,1,2025,10
+2.0,13:30,4.0,6.0,NYJ 37,10.0,9.0,Chris Boswell 56 yard field goal good,0.79,3.0,1,2025,10
+2.0,13:26,,,PIT 35,10.0,9.0,"Chris Boswell kicks off 58 yards, returned by Xavier Gipson for 25 yards (tackle by Ben Skowronek)",0.0,1.07,1,2025,10
+2.0,13:21,1.0,10.0,NYJ 32,10.0,9.0,Justin Fields right end for 6 yards (tackle by DeShon Elliott),1.07,1.34,1,2025,10
+2.0,12:44,2.0,4.0,NYJ 38,10.0,9.0,Justin Fields pass incomplete short right intended for Breece Hall (defended by T.J. Watt),1.34,0.63,1,2025,10
+2.0,12:40,3.0,4.0,NYJ 38,10.0,9.0,Justin Fields pass complete short middle to Jeremy Ruckert for 4 yards (tackle by Patrick Queen),0.63,1.73,1,2025,10
+2.0,12:03,1.0,10.0,NYJ 42,10.0,9.0,Justin Fields pass complete short right to Breece Hall for 33 yards (tackle by Juan Thornhill),1.73,3.91,1,2025,10
+2.0,11:24,1.0,10.0,PIT 25,10.0,9.0,Breece Hall up the middle for 2 yards (tackle by T.J. Watt and Yahya Black),3.91,3.63,1,2025,10
+2.0,10:50,2.0,8.0,PIT 23,10.0,9.0,Justin Fields right end for 15 yards (tackle by DeShon Elliott),3.63,5.37,1,2025,10
+2.0,10:09,1.0,8.0,PIT 8,10.0,15.0,"Braelon Allen up the middle for 8 yards, touchdown",5.37,7.0,1,2025,10
+2.0,10:03,,,PIT 15,10.0,16.0,Nick Folk kicks extra point good,0.0,0.0,1,2025,10
+2.0,10:03,,,NYJ 35,10.0,16.0,"Nick Folk kicks off 60 yards, returned by Kaleb Johnson for 23 yards (tackle by Cam Jones and Isaiah Davis)",0.0,0.81,1,2025,10
+2.0,9:57,1.0,10.0,PIT 28,10.0,16.0,Jaylen Warren left end for 2 yards (tackle by Michael Carter),0.81,0.53,1,2025,10
+2.0,9:14,2.0,8.0,PIT 30,10.0,16.0,Aaron Rodgers pass complete short left to Kenneth Gainwell for 4 yards (tackle by Quincy Williams),0.53,0.37,1,2025,10
+2.0,8:32,3.0,4.0,PIT 34,10.0,16.0,Aaron Rodgers sacked by Will McDonald for 4 yards,0.37,-1.37,1,2025,10
+2.0,7:55,4.0,8.0,PIT 30,10.0,16.0,"Corliss Waitman punts 44 yards, fair catch by Xavier Gipson at NYJ-26",-1.37,-0.67,1,2025,10
+2.0,7:47,1.0,10.0,NYJ 26,10.0,16.0,Justin Fields pass complete short right to Garrett Wilson for 11 yards (tackle by Joey Porter),0.67,1.4,1,2025,10
+2.0,7:11,1.0,10.0,NYJ 37,10.0,16.0,Breece Hall left guard for 3 yards (tackle by Keeanu Benton),1.4,1.26,1,2025,10
+2.0,6:27,2.0,7.0,NYJ 40,10.0,16.0,Breece Hall left tackle for -2 yards (tackle by Cameron Heyward and DeShon Elliott),1.26,0.3,1,2025,10
+2.0,5:59,3.0,9.0,NYJ 38,10.0,16.0,Justin Fields pass complete deep middle to Tyler Johnson for 24 yards (tackle by Alex Highsmith),0.3,3.05,1,2025,10
+2.0,5:06,1.0,10.0,PIT 38,10.0,16.0,"Penalty on Justin Fields: Delay of Game, 5 yards (accepted) (no play)",3.05,2.72,1,2025,10
+2.0,4:57,1.0,15.0,PIT 43,10.0,16.0,Justin Fields left tackle for 6 yards (tackle by Chuck Clark),2.72,2.64,1,2025,10
+2.0,4:14,2.0,9.0,PIT 37,10.0,16.0,Breece Hall left guard for 8 yards (tackle by Jalen Ramsey),2.64,3.01,1,2025,10
+2.0,3:35,3.0,1.0,PIT 29,10.0,16.0,Justin Fields left end for -4 yards (tackle by Payton Wilson),3.01,1.17,1,2025,10
+2.0,2:59,,,,,,Timeout #1 by Pittsburgh Steelers,,,1,2025,10
+2.0,2:59,4.0,5.0,PIT 33,10.0,19.0,Nick Folk 51 yard field goal good,1.17,3.0,1,2025,10
+2.0,2:54,,,NYJ 35,10.0,19.0,"Nick Folk kicks off 65 yards, touchback.",0.0,1.27,1,2025,10
+2.0,2:54,1.0,10.0,PIT 35,10.0,19.0,Aaron Rodgers pass incomplete short left intended for D.K. Metcalf (defended by Sauce Gardner),1.27,0.72,1,2025,10
+2.0,2:50,2.0,10.0,PIT 35,10.0,19.0,Aaron Rodgers pass complete short right to Calvin Austin for 30 yards (tackle by Tony Adams),0.72,3.25,1,2025,10
+2.0,2:14,1.0,10.0,NYJ 35,10.0,19.0,Jaylen Warren up the middle for 7 yards (tackle by Jay Tufele and Tony Adams),3.25,3.65,1,2025,10
+2.0,2:00,2.0,3.0,NYJ 28,10.0,19.0,Kenneth Gainwell up the middle for 1 yard (tackle by Quincy Williams),3.65,3.07,1,2025,10
+2.0,1:18,3.0,2.0,NYJ 27,10.0,19.0,Aaron Rodgers pass complete short right to Jonnu Smith for 3 yards (tackle by Tony Adams),3.07,3.97,1,2025,10
+2.0,1:12,,,,,,Timeout #1 by New York Jets,,,1,2025,10
+2.0,1:12,1.0,10.0,NYJ 24,10.0,19.0,"Kenneth Gainwell left tackle for no gain. Kenneth Gainwell fumbles (forced by Quinnen Williams), recovered by Kenneth Gainwell at NYJ-24 (tackle by Quinnen Williams)",3.97,3.43,1,2025,10
+2.0,1:07,,,,,,Timeout #2 by New York Jets,,,1,2025,10
+2.0,1:07,2.0,10.0,NYJ 24,10.0,19.0,Aaron Rodgers pass complete deep right to Calvin Austin for 21 yards (tackle by Brandon Stephens),3.43,6.51,1,2025,10
+2.0,0:41,1.0,3.0,NYJ 3,10.0,19.0,Jaylen Warren up the middle for no gain (tackle by Jamien Sherwood and Jowon Briggs),6.51,5.53,1,2025,10
+2.0,0:37,,,,,,Timeout #2 by Pittsburgh Steelers,,,1,2025,10
+2.0,0:37,2.0,3.0,NYJ 3,16.0,19.0,"Aaron Rodgers pass complete short middle to Jonnu Smith for 3 yards, touchdown",5.53,7.0,1,2025,10
+2.0,0:32,,,NYJ 15,17.0,19.0,Chris Boswell kicks extra point good,0.0,0.0,1,2025,10
+2.0,0:32,,,PIT 35,17.0,19.0,"Chris Boswell kicks off 61 yards, returned by Xavier Gipson for 29 yards (tackle by Carson Bruener and Chuck Clark)",0.0,1.14,1,2025,10
+2.0,0:27,1.0,10.0,NYJ 33,17.0,19.0,Justin Fields pass complete short right to Garrett Wilson for 8 yards,1.14,1.67,1,2025,10
+2.0,0:19,2.0,2.0,NYJ 41,17.0,19.0,Justin Fields pass incomplete short left,1.67,0.96,1,2025,10
+2.0,0:09,3.0,2.0,NYJ 41,17.0,19.0,"Penalty on John Simpson: Unnecessary Roughness / Offense, 15 yards (accepted) (no play)",0.96,-1.02,1,2025,10
+2.0,0:09,3.0,17.0,NYJ 26,17.0,19.0,Isaiah Davis up the middle for 15 yards (tackle by Juan Thornhill),-1.02,-0.65,1,2025,10
+3.0,15:00,,,NYJ 35,17.0,19.0,"Nick Folk kicks off 63 yards, returned by Kaleb Johnson for 28 yards (tackle by Marcelino McCrary-Ball)",0.0,0.94,1,2025,10
+3.0,14:56,1.0,10.0,PIT 30,17.0,19.0,Jaylen Warren right guard for 9 yards (tackle by Jermaine Johnson and Sauce Gardner),0.94,1.61,1,2025,10
+3.0,14:18,2.0,1.0,PIT 39,17.0,19.0,Jaylen Warren right guard for no gain (tackle by Quinnen Williams),1.61,0.89,1,2025,10
+3.0,13:32,3.0,1.0,PIT 39,17.0,19.0,"Penalty on Aaron Rodgers: Delay of Game, 5 yards (accepted) (no play)",0.89,0.23,1,2025,10
+3.0,13:19,3.0,6.0,PIT 34,17.0,19.0,Aaron Rodgers pass incomplete short middle intended for Kenneth Gainwell,0.23,-1.11,1,2025,10
+3.0,13:15,4.0,6.0,PIT 34,17.0,19.0,"Corliss Waitman punts 50 yards, fair catch by Xavier Gipson at NYJ-16",-1.11,0.14,1,2025,10
+3.0,13:07,1.0,10.0,NYJ 16,17.0,19.0,Justin Fields pass incomplete short left intended for Garrett Wilson (defended by Cameron Heyward),-0.14,-0.66,1,2025,10
+3.0,13:02,2.0,10.0,NYJ 16,17.0,19.0,Breece Hall left end for 1 yard (tackle by Darius Slay),-0.66,-1.2,1,2025,10
+3.0,12:17,3.0,9.0,NYJ 17,17.0,19.0,Justin Fields pass complete short right to Garrett Wilson for 6 yards (tackle by Jalen Ramsey and Juan Thornhill),-1.2,-1.83,1,2025,10
+3.0,11:37,4.0,3.0,NYJ 23,17.0,19.0,"Austin McNamara punts 39 yards downed by Andrew Beck. Penalty on Connor Heyward: Unnecessary Roughness / Defense, 15 yards (accepted)",-1.83,-0.48,1,2025,10
+3.0,11:27,1.0,10.0,PIT 23,17.0,19.0,Aaron Rodgers pass incomplete deep middle intended for Calvin Austin (defended by Michael Carter),0.48,-0.07,1,2025,10
+3.0,11:23,2.0,10.0,PIT 23,17.0,19.0,Kenneth Gainwell left end for 6 yards (tackle by Jamien Sherwood),-0.07,0.04,1,2025,10
+3.0,10:56,3.0,4.0,PIT 29,17.0,19.0,"Aaron Rodgers pass incomplete deep middle intended for Jonnu Smith. Penalty on Jay Tufele: Defensive Too Many Men on Field, 5 yards (accepted) (no play)",0.04,1.2,1,2025,10
+3.0,10:56,1.0,10.0,PIT 34,17.0,19.0,Aaron Rodgers sacked by Will McDonald for 9 yards,1.2,-0.56,1,2025,10
+3.0,10:21,2.0,19.0,PIT 25,17.0,19.0,Aaron Rodgers pass complete short left to Pat Freiermuth for 7 yards (tackle by Quincy Williams and Sauce Gardner),-0.56,-0.3,1,2025,10
+3.0,9:44,3.0,12.0,PIT 32,17.0,19.0,Aaron Rodgers pass complete short middle to Kenneth Gainwell for 5 yards (tackle by Quinnen Williams and Michael Carter),-0.3,-0.91,1,2025,10
+3.0,9:08,4.0,7.0,PIT 37,17.0,19.0,"Corliss Waitman punts 50 yards, returned by Xavier Gipson for 19 yards (tackle by Miles Killebrew)",-0.91,-1.07,1,2025,10
+3.0,8:57,1.0,10.0,NYJ 32,17.0,19.0,Braelon Allen right guard for no gain (tackle by Alex Highsmith),1.07,0.53,1,2025,10
+3.0,8:14,2.0,10.0,NYJ 32,17.0,19.0,Breece Hall left guard for 5 yards (tackle by Cameron Heyward),0.53,0.5,1,2025,10
+3.0,7:28,3.0,5.0,NYJ 37,17.0,19.0,Justin Fields pass complete short right to Jeremy Ruckert for 12 yards (tackle by Chuck Clark and Juan Thornhill),0.5,2.19,1,2025,10
+3.0,6:42,1.0,10.0,NYJ 49,17.0,19.0,Breece Hall left tackle for 16 yards (tackle by Chuck Clark),2.19,3.25,1,2025,10
+3.0,6:01,1.0,10.0,PIT 35,17.0,19.0,"Penalty on Tyler Johnson: False Start, 5 yards (accepted) (no play)",3.25,2.92,1,2025,10
+3.0,5:47,1.0,15.0,PIT 40,17.0,19.0,Breece Hall left tackle for 17 yards (tackle by Darius Slay),2.92,4.04,1,2025,10
+3.0,5:05,1.0,10.0,PIT 23,17.0,19.0,Braelon Allen right tackle for no gain (tackle by T.J. Watt and Alex Highsmith),4.04,3.5,1,2025,10
+3.0,4:20,2.0,10.0,PIT 23,17.0,19.0,Justin Fields pass complete short right to Garrett Wilson for 21 yards (tackle by Payton Wilson),3.5,6.74,1,2025,10
+3.0,3:49,1.0,2.0,PIT 2,17.0,25.0,"Justin Fields right guard for 2 yards, touchdown",6.74,7.0,1,2025,10
+3.0,3:46,,,PIT 15,17.0,26.0,Nick Folk kicks extra point good,0.0,0.0,1,2025,10
+3.0,3:46,,,NYJ 35,17.0,26.0,"Nick Folk kicks off 62 yards, returned by Kaleb Johnson for 29 yards (tackle by Malachi Moore and Qwan'tez Stiggers)",0.0,1.07,1,2025,10
+3.0,3:41,1.0,10.0,PIT 32,17.0,26.0,"Kaleb Johnson left end for -2 yards. Penalty on Quincy Williams: Unnecessary Roughness / Defense, 15 yards (accepted) (tackle by Andre Cisco and Quincy Williams)",1.07,1.93,1,2025,10
+3.0,3:23,1.0,10.0,PIT 45,17.0,26.0,Aaron Rodgers pass incomplete short left intended for D.K. Metcalf (defended by Sauce Gardner),1.93,1.38,1,2025,10
+3.0,3:19,2.0,10.0,PIT 45,17.0,26.0,Aaron Rodgers pass complete short right to Jaylen Warren for 17 yards (tackle by Brandon Stephens),1.38,3.05,1,2025,10
+3.0,2:37,1.0,10.0,NYJ 38,17.0,26.0,Jaylen Warren left guard for 3 yards (tackle by Brandon Stephens and Andre Cisco),3.05,2.91,1,2025,10
+3.0,2:10,2.0,7.0,NYJ 35,17.0,26.0,Aaron Rodgers pass complete short right to D.K. Metcalf for 18 yards (tackle by Tony Adams),2.91,4.44,1,2025,10
+3.0,1:29,1.0,10.0,NYJ 17,17.0,26.0,Jaylen Warren right end for 3 yards (tackle by Jay Tufele),4.44,4.32,1,2025,10
+3.0,0:53,2.0,7.0,NYJ 14,17.0,26.0,Jaylen Warren right guard for 6 yards (tackle by Jamien Sherwood and Tony Adams),4.32,4.8,1,2025,10
+3.0,0:20,3.0,1.0,NYJ 8,17.0,26.0,Jaylen Warren right guard for 3 yards (tackle by Andre Cisco and Jamien Sherwood),4.8,6.06,1,2025,10
+4.0,15:00,1.0,5.0,NYJ 5,23.0,26.0,"Aaron Rodgers pass complete short right to Jaylen Warren for 5 yards, touchdown",6.06,7.0,1,2025,10
+4.0,14:57,,,NYJ 15,24.0,26.0,Chris Boswell kicks extra point good,0.0,0.0,1,2025,10
+4.0,14:57,,,PIT 35,24.0,26.0,"Chris Boswell kicks off 64 yards, returned by Xavier Gipson for 19 yards. Xavier Gipson fumbles (forced by Kenneth Gainwell), recovered by Ben Skowronek at NYJ-22 (tackle by Xavier Gipson)",0.0,-4.11,1,2025,10
+4.0,14:50,1.0,10.0,NYJ 22,24.0,26.0,Jaylen Warren right guard for 4 yards (tackle by Marcelino McCrary-Ball),4.11,4.13,1,2025,10
+4.0,14:12,2.0,6.0,NYJ 18,30.0,26.0,"Aaron Rodgers pass complete short right to Calvin Austin for 18 yards, touchdown",4.13,7.0,1,2025,10
+4.0,14:07,,,NYJ 15,31.0,26.0,Chris Boswell kicks extra point good,0.0,0.0,1,2025,10
+4.0,14:07,,,PIT 35,31.0,26.0,"Chris Boswell kicks off 61 yards, returned by Xavier Gipson for 29 yards (tackle by Malik Harrison and Jack Sawyer)",0.0,1.14,1,2025,10
+4.0,14:01,1.0,10.0,NYJ 33,31.0,26.0,Breece Hall right tackle for 12 yards (tackle by Patrick Queen and Juan Thornhill),1.14,1.93,1,2025,10
+4.0,13:18,1.0,10.0,NYJ 45,31.0,26.0,Breece Hall left guard for -4 yards (tackle by T.J. Watt and Keeanu Benton),1.93,0.84,1,2025,10
+4.0,12:35,2.0,14.0,NYJ 41,31.0,26.0,Justin Fields pass complete short middle to Josh Reynolds for 13 yards (tackle by Payton Wilson),0.84,1.88,1,2025,10
+4.0,12:04,3.0,1.0,PIT 46,31.0,26.0,Breece Hall left guard for 3 yards (tackle by Patrick Queen),1.88,2.72,1,2025,10
+4.0,11:30,1.0,10.0,PIT 43,31.0,26.0,Justin Fields pass complete deep left to Mason Taylor for 20 yards (tackle by Alex Highsmith),2.72,4.04,1,2025,10
+4.0,10:47,1.0,10.0,PIT 23,31.0,26.0,Justin Fields right end for 4 yards (tackle by Darius Slay),4.04,4.05,1,2025,10
+4.0,10:07,2.0,6.0,PIT 19,31.0,26.0,Breece Hall left guard for 5 yards (tackle by Daniel Ekuale),4.05,4.28,1,2025,10
+4.0,9:22,3.0,1.0,PIT 14,31.0,26.0,"Justin Fields left end for 4 yards. Penalty on Jalen Ramsey: Low Block, 5 yards (accepted) (tackle by Payton Wilson and Chuck Clark)",4.28,6.06,1,2025,10
+4.0,9:01,,,,,,Timeout #1 by New York Jets,,,1,2025,10
+4.0,9:01,1.0,5.0,PIT 5,31.0,26.0,Breece Hall left tackle for 1 yard (tackle by Alex Highsmith and Yahya Black),6.06,5.34,1,2025,10
+4.0,8:16,2.0,4.0,PIT 4,31.0,26.0,Justin Fields sacked by Alex Highsmith for 6 yards,5.34,3.13,1,2025,10
+4.0,7:33,3.0,10.0,PIT 10,31.0,26.0,Justin Fields scrambles right end for 9 yards (tackle by Brandin Echols),3.13,3.55,1,2025,10
+4.0,7:06,,,,,,Timeout #1 by Pittsburgh Steelers,,,1,2025,10
+4.0,7:06,4.0,1.0,PIT 1,31.0,32.0,"Justin Fields right end for 1 yard, touchdown",3.55,7.0,1,2025,10
+4.0,7:01,,,,,,Timeout #2 by New York Jets,,,1,2025,10
+4.0,7:01,,,PIT 2,31.0,32.0,Two Point Attempt: Justin Fields pass incomplete intended for Garrett Wilson,1.0,-1.0,1,2025,10
+4.0,7:01,,,NYJ 35,31.0,32.0,"Nick Folk kicks off 61 yards, returned by Kenneth Gainwell for 33 yards (tackle by Tony Adams and Qwan'tez Stiggers)",0.0,1.4,1,2025,10
+4.0,6:53,1.0,10.0,PIT 37,31.0,32.0,Aaron Rodgers pass complete short right to Kenneth Gainwell for -5 yards (tackle by Jamien Sherwood),1.4,0.18,1,2025,10
+4.0,6:12,2.0,15.0,PIT 32,31.0,32.0,Aaron Rodgers pass incomplete short right intended for Jonnu Smith,0.18,-0.49,1,2025,10
+4.0,6:07,3.0,15.0,PIT 32,31.0,32.0,Aaron Rodgers sacked by Quincy Williams for 9 yards,-0.49,-1.83,1,2025,10
+4.0,5:21,4.0,24.0,PIT 23,31.0,32.0,"Corliss Waitman punts 46 yards, returned by Xavier Gipson for no gain. Penalty on Qwan'tez Stiggers: Illegal Block Above the Waist, 10 yards (accepted) (tackle by Chuck Clark)",-1.83,-0.34,1,2025,10
+4.0,5:21,1.0,10.0,NYJ 21,31.0,32.0,Justin Fields pass complete short left to Josh Reynolds for 5 yards (tackle by Brandin Echols),0.34,0.48,1,2025,10
+4.0,4:44,2.0,5.0,NYJ 26,31.0,32.0,Breece Hall left tackle for 2 yards (tackle by Cameron Heyward),0.48,0.04,1,2025,10
+4.0,4:04,3.0,3.0,NYJ 28,31.0,32.0,Justin Fields left guard for -2 yards (tackle by Chuck Clark),0.04,-1.63,1,2025,10
+4.0,3:20,4.0,5.0,NYJ 26,31.0,32.0,"Austin McNamara punts 55 yards, fair catch by Calvin Austin at PIT-19",-1.63,-0.15,1,2025,10
+4.0,3:13,1.0,10.0,PIT 19,31.0,32.0,Aaron Rodgers pass complete short middle to Pat Freiermuth for 10 yards (tackle by Marcelino McCrary-Ball),0.15,0.87,1,2025,10
+4.0,2:47,1.0,10.0,PIT 29,31.0,32.0,"Aaron Rodgers pass incomplete deep right intended for Calvin Austin. Penalty on Brandon Stephens: Defensive Pass Interference, 19 yards (accepted) (no play)",0.87,2.13,1,2025,10
+4.0,2:42,1.0,10.0,PIT 48,31.0,32.0,Aaron Rodgers pass complete short right to D.K. Metcalf for 11 yards (tackle by Michael Carter),2.13,2.85,1,2025,10
+4.0,2:16,1.0,10.0,NYJ 41,31.0,32.0,Aaron Rodgers pass complete short left to Calvin Austin for 1 yard (tackle by Brandon Stephens),2.85,2.44,1,2025,10
+4.0,2:00,2.0,9.0,NYJ 40,31.0,32.0,Aaron Rodgers pass complete short right to Jonnu Smith for -2 yards (tackle by Quinnen Williams),2.44,1.49,1,2025,10
+4.0,1:12,,,,,,Timeout #2 by Pittsburgh Steelers,,,1,2025,10
+4.0,1:12,3.0,11.0,NYJ 42,31.0,32.0,Aaron Rodgers pass incomplete deep left intended for Calvin Austin (defended by Brandon Stephens),1.49,0.46,1,2025,10
+4.0,1:06,4.0,11.0,NYJ 42,34.0,32.0,Chris Boswell 60 yard field goal good,0.46,3.0,1,2025,10
+4.0,1:03,,,PIT 35,34.0,32.0,"Chris Boswell kicks off 65 yards, returned by Arian Smith for 31 yards (tackle by Chuck Clark)",0.0,1.0,1,2025,10
+4.0,0:56,1.0,10.0,NYJ 31,34.0,32.0,Justin Fields pass complete short middle to Tyler Johnson for 7 yards (tackle by Patrick Queen and Juan Thornhill),1.0,1.41,1,2025,10
+4.0,0:37,2.0,3.0,NYJ 38,34.0,32.0,Justin Fields pass incomplete short left intended for Josh Reynolds (defended by Jalen Ramsey),1.41,0.7,1,2025,10
+4.0,0:30,3.0,3.0,NYJ 38,34.0,32.0,Justin Fields pass incomplete short middle intended for Breece Hall,0.7,-0.85,1,2025,10
+4.0,0:25,4.0,3.0,NYJ 38,34.0,32.0,Justin Fields pass incomplete short left intended for Garrett Wilson (defended by Jalen Ramsey),-0.85,-3.05,1,2025,10
+4.0,0:18,1.0,10.0,NYJ 38,34.0,32.0,Aaron Rodgers kneels for -1 yards,3.05,2.37,1,2025,10

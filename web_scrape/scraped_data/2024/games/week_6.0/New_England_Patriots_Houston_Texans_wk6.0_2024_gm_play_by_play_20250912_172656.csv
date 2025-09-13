@@ -1,0 +1,172 @@
+Quarter,Time,Down,ToGo,Location,HOU,NWE,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Patriots won the coin toss and deferred, Texans to receive the opening kickoff.",,,6.0,2024,84
+1.0,15:00,,,NWE 35,0.0,0.0,"Joey Slye kicks off 65 yards, touchback.. Penalty on Sione Takitaki: Illegal Formation, 5 yards (accepted)",0.0,1.27,6.0,2024,84
+1.0,15:00,1.0,10.0,HOU 35,0.0,0.0,Joe Mixon up the middle for 3 yards (tackle by Deatrich Wise),1.27,1.13,6.0,2024,84
+1.0,14:25,2.0,7.0,HOU 38,0.0,0.0,C.J. Stroud pass complete short middle to Dalton Schultz for 8 yards (tackle by Anfernee Jennings),1.13,1.99,6.0,2024,84
+1.0,13:40,1.0,10.0,HOU 46,0.0,0.0,C.J. Stroud pass complete deep middle to Tank Dell for 20 yards (tackle by Kyle Dugger),1.99,3.31,6.0,2024,84
+1.0,13:19,1.0,10.0,NWE 34,0.0,0.0,C.J. Stroud pass complete short right to Stefon Diggs for 11 yards (tackle by Christian Gonzalez),3.31,4.04,6.0,2024,84
+1.0,12:49,1.0,10.0,NWE 23,0.0,0.0,Joe Mixon left guard for 2 yards (tackle by Davon Godchaux and Anfernee Jennings),4.04,3.77,6.0,2024,84
+1.0,12:12,2.0,8.0,NWE 21,0.0,0.0,Joe Mixon left end for 3 yards (tackle by Kyle Dugger),3.77,3.49,6.0,2024,84
+1.0,11:31,3.0,5.0,NWE 18,0.0,0.0,C.J. Stroud pass complete short right to Stefon Diggs for 13 yards,3.49,6.06,6.0,2024,84
+1.0,10:50,1.0,5.0,NWE 5,0.0,0.0,Joe Mixon left tackle for no gain (tackle by Jaquelin Roy),6.06,5.15,6.0,2024,84
+1.0,10:08,2.0,5.0,NWE 5,0.0,0.0,C.J. Stroud pass incomplete short middle intended for Joe Mixon,5.15,4.26,6.0,2024,84
+1.0,10:04,3.0,5.0,NWE 5,0.0,0.0,"C.J. Stroud pass incomplete short right intended for Tank Dell. Penalty on Marte Mapu: Defensive Pass Interference, 4 yards (accepted) (no play)",4.26,6.97,6.0,2024,84
+1.0,9:59,1.0,1.0,NWE 1,0.0,0.0,Joe Mixon left guard for -1 yards (tackle by Jaylinn Hawkins and Jahlani Tavai),6.97,5.72,6.0,2024,84
+1.0,9:18,2.0,2.0,NWE 2,6.0,0.0,"C.J. Stroud pass complete short right to Tank Dell for 2 yards, touchdown",5.72,7.0,6.0,2024,84
+1.0,9:13,,,NWE 15,7.0,0.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,6.0,2024,84
+1.0,9:13,,,HOU 35,7.0,0.0,"Ka'imi Fairbairn kicks off 62 yards, returned by Jamycal Hasty for 20 yards (tackle by M.J. Stewart and Neville Hewitt)",0.0,0.48,6.0,2024,84
+1.0,9:08,1.0,10.0,NWE 23,7.0,0.0,Antonio Gibson up the middle for no gain (tackle by Folorunso Fatukasi and Henry To'oTo'o),0.48,-0.07,6.0,2024,84
+1.0,8:32,2.0,10.0,NWE 23,7.0,0.0,Antonio Gibson left guard for 1 yard (tackle by Mario Edwards and Danielle Hunter),-0.07,-0.63,6.0,2024,84
+1.0,7:48,3.0,9.0,NWE 24,7.0,0.0,Drake Maye pass incomplete deep left intended for Ja'Lynn Polk,-0.63,-1.77,6.0,2024,84
+1.0,7:43,4.0,9.0,NWE 24,7.0,0.0,"Bryce Baringer punts 40 yards, returned by Steven Sims for 19 yards (tackle by Curtis Jacobs)",-1.77,-2.59,6.0,2024,84
+1.0,7:34,1.0,10.0,NWE 45,7.0,0.0,C.J. Stroud pass incomplete short right intended for Tank Dell,2.59,2.04,6.0,2024,84
+1.0,7:31,2.0,10.0,NWE 45,7.0,0.0,Joe Mixon up the middle for 4 yards (tackle by Davon Godchaux),2.04,1.88,6.0,2024,84
+1.0,6:47,3.0,6.0,NWE 41,7.0,0.0,C.J. Stroud pass complete short right to Tank Dell for 12 yards (tackle by Marcus Jones),1.88,3.64,6.0,2024,84
+1.0,6:07,1.0,10.0,NWE 29,7.0,0.0,Joe Mixon left guard for 4 yards (tackle by Davon Godchaux),3.64,3.64,6.0,2024,84
+1.0,5:28,2.0,6.0,NWE 25,7.0,0.0,C.J. Stroud scrambles left end for 8 yards (tackle by Raekwon McMillan),3.64,4.44,6.0,2024,84
+1.0,4:43,1.0,10.0,NWE 17,7.0,0.0,Joe Mixon right guard for 2 yards (tackle by Davon Godchaux and Jahlani Tavai),4.44,4.15,6.0,2024,84
+1.0,4:02,2.0,8.0,NWE 15,7.0,0.0,Joe Mixon up the middle for -1 yards (tackle by Kyle Dugger),4.15,3.19,6.0,2024,84
+1.0,3:22,3.0,9.0,NWE 16,7.0,0.0,"C.J. Stroud pass incomplete short middle intended for Tank Dell. Penalty on Marcus Jones: Defensive Pass Interference, 6 yards (accepted) (no play)",3.19,4.91,6.0,2024,84
+1.0,3:18,1.0,10.0,NWE 10,13.0,0.0,"C.J. Stroud pass complete short left to Joe Mixon for 10 yards, touchdown",4.91,7.0,6.0,2024,84
+1.0,3:13,,,NWE 15,14.0,0.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,6.0,2024,84
+1.0,3:13,,,HOU 35,14.0,0.0,"Ka'imi Fairbairn kicks off 64 yards, returned by Jamycal Hasty for 29 yards (tackle by Calen Bullock)",0.0,0.94,6.0,2024,84
+1.0,3:07,1.0,10.0,NWE 30,14.0,0.0,Drake Maye pass complete short right to Kendrick Bourne for 8 yards (tackle by Henry To'oTo'o),0.94,1.47,6.0,2024,84
+1.0,2:33,2.0,2.0,NWE 38,14.0,0.0,Antonio Gibson left tackle for -1 yards (tackle by Will Anderson and Mario Edwards),1.47,0.63,6.0,2024,84
+1.0,1:52,3.0,3.0,NWE 37,14.0,0.0,Drake Maye pass deep left intended for Demario Douglas is intercepted by Calen Bullock at HOU-45 and returned for 28 yards (tackle by Drake Maye),0.63,-3.78,6.0,2024,84
+1.0,1:39,1.0,10.0,NWE 27,14.0,0.0,C.J. Stroud pass complete short left to Stefon Diggs for 5 yards (tackle by Christian Gonzalez),3.78,3.91,6.0,2024,84
+1.0,1:00,2.0,5.0,NWE 22,14.0,0.0,Dameon Pierce left tackle for no gain (tackle by Keion White and Jaquelin Roy),3.91,3.2,6.0,2024,84
+1.0,0:14,3.0,5.0,NWE 22,14.0,0.0,"C.J. Stroud pass incomplete short right intended for Tank Dell. Penalty on Stefon Diggs: Illegal Shift, 5 yards (accepted) (no play)",3.2,2.54,6.0,2024,84
+2.0,15:00,3.0,10.0,NWE 27,14.0,0.0,"C.J. Stroud pass complete short left to Stefon Diggs for no gain (tackle by Christian Gonzalez). Penalty on Deatrich Wise: Defensive Offside, 5 yards (accepted) (no play)",2.54,3.2,6.0,2024,84
+2.0,14:40,3.0,5.0,NWE 22,14.0,0.0,C.J. Stroud pass incomplete short left,3.2,2.04,6.0,2024,84
+2.0,14:33,4.0,5.0,NWE 22,14.0,0.0,Ka'imi Fairbairn 40 yard field goal no good,2.04,-0.94,6.0,2024,84
+2.0,14:30,1.0,10.0,NWE 30,14.0,0.0,Drake Maye scrambles up the middle for 11 yards (tackle by Eric Murray),0.94,1.66,6.0,2024,84
+2.0,13:53,1.0,10.0,NWE 41,14.0,0.0,"Drake Maye pass incomplete short middle. Penalty on Vederian Lowe: Ineligible Downfield Pass, 5 yards (accepted) (no play)",1.66,1.33,6.0,2024,84
+2.0,13:48,1.0,15.0,NWE 36,14.0,0.0,Drake Maye scrambles left end for 4 yards (tackle by Eric Murray),1.33,0.99,6.0,2024,84
+2.0,13:12,2.0,11.0,NWE 40,14.0,0.0,"Penalty on Demontrey Jacobs: False Start, 5 yards (accepted) (no play)",0.99,0.31,6.0,2024,84
+2.0,12:56,2.0,16.0,NWE 35,14.0,0.0,Drake Maye pass complete short right to Demario Douglas for 5 yards (tackle by Derek Stingley),0.31,0.3,6.0,2024,84
+2.0,12:10,3.0,11.0,NWE 40,14.0,0.0,Drake Maye sacked by Will Anderson for -7 yards,0.3,-1.18,6.0,2024,84
+2.0,11:33,4.0,18.0,NWE 33,14.0,0.0,"Bryce Baringer punts 48 yards, fair catch by Steven Sims at HOU-19",-1.18,-0.15,6.0,2024,84
+2.0,11:24,1.0,10.0,HOU 19,14.0,0.0,Joe Mixon left tackle for 59 yards (tackle by Jaylinn Hawkins),0.15,4.11,6.0,2024,84
+2.0,10:41,1.0,10.0,NWE 22,14.0,0.0,C.J. Stroud pass incomplete deep middle intended for Tank Dell,4.11,3.56,6.0,2024,84
+2.0,10:37,2.0,10.0,NWE 22,14.0,0.0,C.J. Stroud pass deep middle (defended by Marte Mapu) intended for Dalton Schultz is intercepted by Marcus Jones in end zone and returned for 35 yards (tackle by Dameon Pierce),3.56,-0.74,6.0,2024,84
+2.0,10:24,1.0,10.0,NWE 27,14.0,0.0,Antonio Gibson up the middle for 7 yards (tackle by Henry To'oTo'o and Eric Murray),0.74,1.14,6.0,2024,84
+2.0,10:06,2.0,3.0,NWE 34,14.0,0.0,Drake Maye pass incomplete short middle intended for Hunter Henry,1.14,0.43,6.0,2024,84
+2.0,10:00,3.0,3.0,NWE 34,14.0,0.0,Drake Maye pass complete short right to Antonio Gibson for 12 yards (tackle by D'Angelo Ross),0.43,1.99,6.0,2024,84
+2.0,9:27,1.0,10.0,NWE 46,14.0,0.0,Antonio Gibson right guard for 3 yards (tackle by Eric Murray and Will Anderson),1.99,1.86,6.0,2024,84
+2.0,8:51,2.0,7.0,NWE 49,14.0,0.0,Antonio Gibson right guard for -1 yards (tackle by Jalen Pitre and Will Anderson),1.86,1.03,6.0,2024,84
+2.0,8:09,3.0,8.0,NWE 48,14.0,0.0,Drake Maye pass incomplete short middle intended for Hunter Henry (defended by Mario Edwards) (defended by Jalen Pitre),1.03,-0.19,6.0,2024,84
+2.0,8:05,4.0,8.0,NWE 48,14.0,0.0,"Bryce Baringer punts 43 yards, fair catch by Steven Sims at HOU-9",-0.19,0.38,6.0,2024,84
+2.0,7:58,1.0,10.0,HOU 9,14.0,0.0,C.J. Stroud pass complete short right to Dameon Pierce for 1 yard (tackle by Jahlani Tavai and Keion White),-0.38,-0.71,6.0,2024,84
+2.0,7:10,2.0,9.0,HOU 10,14.0,0.0,Dameon Pierce left tackle for 2 yards (tackle by Josh Uche and Davon Godchaux),-0.71,-1.07,6.0,2024,84
+2.0,6:31,3.0,7.0,HOU 12,14.0,0.0,C.J. Stroud pass complete short right to Tank Dell for 2 yards (tackle by Josh Uche),-1.07,-2.47,6.0,2024,84
+2.0,5:37,4.0,5.0,HOU 14,14.0,0.0,"Tommy Townsend punts 65 yards, returned by Marcus Jones for no gain (tackle by Neville Hewitt). Penalty on Marcellas Dial: Defensive Holding, 10 yards (accepted)",-2.47,0.37,6.0,2024,84
+2.0,5:22,1.0,10.0,NWE 11,14.0,0.0,Drake Maye pass complete short right to Kayshon Boutte for 6 yards (tackle by Derek Stingley),-0.37,-0.16,6.0,2024,84
+2.0,4:47,2.0,4.0,NWE 17,14.0,0.0,Drake Maye pass complete short right to Hunter Henry for 5 yards (tackle by Azeez Al-Shaair),-0.16,0.41,6.0,2024,84
+2.0,4:09,1.0,10.0,NWE 22,14.0,0.0,Antonio Gibson right tackle for 3 yards (tackle by Derek Barnett and Mario Edwards),0.41,0.27,6.0,2024,84
+2.0,3:31,2.0,7.0,NWE 25,14.0,0.0,Drake Maye sacked by Will Anderson for -5 yards,0.27,-1.09,6.0,2024,84
+2.0,2:52,3.0,12.0,NWE 20,14.0,0.0,Drake Maye pass incomplete short middle intended for Austin Hooper,-1.09,-2.03,6.0,2024,84
+2.0,2:48,4.0,12.0,NWE 20,14.0,0.0,"Bryce Baringer punts 54 yards, returned by Steven Sims for -2 yards (tackle by Brenden Schooler)",-2.03,-0.54,6.0,2024,84
+2.0,2:38,1.0,10.0,HOU 24,14.0,0.0,"C.J. Stroud aborted snap, recovered by C.J. Stroud at HOU-23 and returned for -1 yards",0.54,-0.14,6.0,2024,84
+2.0,2:00,2.0,11.0,HOU 23,14.0,0.0,C.J. Stroud pass complete short right to Joe Mixon for 20 yards (tackle by Marco Wilson),-0.14,1.8,6.0,2024,84
+2.0,1:54,1.0,10.0,HOU 43,14.0,0.0,C.J. Stroud pass incomplete deep left intended for Dalton Schultz,1.8,1.25,6.0,2024,84
+2.0,1:48,2.0,10.0,HOU 43,14.0,0.0,Dare Ogunbowale left tackle for 4 yards (tackle by Christian Elliss and Marcus Jones),1.25,1.09,6.0,2024,84
+2.0,1:11,3.0,6.0,HOU 47,14.0,0.0,C.J. Stroud sacked by and Marte Mapu for -9 yards and Christian Elliss for -9 yards,1.09,-0.85,6.0,2024,84
+2.0,1:06,,,,,,Timeout #1 by New England Patriots,,,6.0,2024,84
+2.0,1:06,4.0,15.0,HOU 38,14.0,0.0,"Tommy Townsend punts 46 yards, fair catch by Marcus Jones at NE-16",-0.85,0.14,6.0,2024,84
+2.0,0:59,1.0,10.0,NWE 16,14.0,0.0,Jamycal Hasty left tackle for 2 yards (tackle by Will Anderson),-0.14,-0.35,6.0,2024,84
+2.0,0:36,2.0,8.0,NWE 18,14.0,0.0,Drake Maye pass complete short right to Demario Douglas for 22 yards (tackle by Derek Stingley),-0.35,1.6,6.0,2024,84
+2.0,0:28,1.0,10.0,NWE 40,14.0,0.0,Drake Maye pass incomplete short right intended for Ja'Lynn Polk (defended by Derek Stingley),1.6,1.05,6.0,2024,84
+2.0,0:24,2.0,10.0,NWE 40,14.0,0.0,"Drake Maye pass incomplete short right intended for Demario Douglas. Penalty on Eric Murray: Defensive Pass Interference, 13 yards (accepted) (no play)",1.05,2.46,6.0,2024,84
+2.0,0:16,1.0,10.0,HOU 47,14.0,0.0,"Drake Maye pass complete short middle to Demario Douglas for 7 yards (tackle by Jalen Pitre). Penalty on Eric Murray: Illegal Use of Hands / Defense, 5 yards (declined)",2.46,2.86,6.0,2024,84
+2.0,0:16,2.0,3.0,HOU 40,14.0,6.0,"Drake Maye pass complete deep right to Kayshon Boutte for 40 yards, touchdown",2.86,7.0,6.0,2024,84
+2.0,0:11,,,HOU 15,14.0,7.0,Joey Slye kicks extra point good,0.0,0.0,6.0,2024,84
+2.0,0:11,,,NWE 35,14.0,7.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.94,6.0,2024,84
+2.0,0:11,1.0,10.0,HOU 30,14.0,7.0,C.J. Stroud kneels for -1 yards,0.94,0.26,6.0,2024,84
+3.0,15:00,,,HOU 35,14.0,7.0,"Ka'imi Fairbairn kicks off 61 yards, returned by Jamycal Hasty for 17 yards (tackle by Del'Shawn Phillips)",0.0,0.34,6.0,2024,84
+3.0,14:54,1.0,10.0,NWE 21,14.0,7.0,Antonio Gibson up the middle for 1 yard (tackle by Mario Edwards),0.34,-0.07,6.0,2024,84
+3.0,14:18,2.0,9.0,NWE 22,14.0,7.0,"Drake Maye sacked by Danielle Hunter for -12 yards. Drake Maye fumbles (forced by Danielle Hunter), recovered by Mario Edwards at NE-10",-0.07,-4.91,6.0,2024,84
+3.0,14:10,1.0,10.0,NWE 10,14.0,7.0,Joe Mixon right guard for no gain (tackle by Anfernee Jennings),4.91,4.19,6.0,2024,84
+3.0,13:31,2.0,10.0,NWE 10,20.0,7.0,"C.J. Stroud pass complete short middle to Stefon Diggs for 10 yards, touchdown",4.19,7.0,6.0,2024,84
+3.0,13:28,,,NWE 15,20.0,7.0,"Penalty on Stefon Diggs: Taunting / Offense, 15 yards (accepted) (no play)",0.0,0.0,6.0,2024,84
+3.0,13:28,,,NWE 30,21.0,7.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,6.0,2024,84
+3.0,13:28,,,HOU 35,21.0,7.0,"Ka'imi Fairbairn kicks off 65 yards, returned by Jamycal Hasty for 26 yards (tackle by Jake Hansen)",0.0,0.67,6.0,2024,84
+3.0,13:22,1.0,10.0,NWE 26,21.0,7.0,Antonio Gibson left guard for no gain (tackle by Mario Edwards and Jalen Pitre),0.67,0.13,6.0,2024,84
+3.0,12:48,2.0,10.0,NWE 26,21.0,7.0,Drake Maye pass complete short left to Kendrick Bourne for 1 yard (tackle by Mario Edwards),0.13,-0.43,6.0,2024,84
+3.0,12:11,3.0,9.0,NWE 27,21.0,7.0,Drake Maye pass incomplete short middle intended for Demario Douglas,-0.43,-1.57,6.0,2024,84
+3.0,12:08,4.0,9.0,NWE 27,21.0,7.0,"Bryce Baringer punts 58 yards, returned by Steven Sims for 5 yards (tackle by Christian Elliss)",-1.57,-0.28,6.0,2024,84
+3.0,11:58,1.0,10.0,HOU 20,21.0,7.0,C.J. Stroud pass complete deep middle to Stefon Diggs for 26 yards (tackle by Jonathan Jones),0.28,1.99,6.0,2024,84
+3.0,11:35,1.0,10.0,HOU 46,21.0,7.0,C.J. Stroud pass complete short middle to Dalton Schultz for 9 yards (tackle by Raekwon McMillan and Marte Mapu),1.99,2.67,6.0,2024,84
+3.0,10:56,2.0,1.0,NWE 45,21.0,7.0,Joe Mixon right tackle for 7 yards (tackle by Kyle Dugger and Raekwon McMillan),2.67,3.05,6.0,2024,84
+3.0,10:22,1.0,10.0,NWE 38,21.0,7.0,C.J. Stroud pass complete short right to Dalton Schultz for 4 yards (tackle by Christian Gonzalez and Anfernee Jennings),3.05,3.05,6.0,2024,84
+3.0,9:35,2.0,6.0,NWE 34,21.0,7.0,Dare Ogunbowale up the middle for 4 yards (tackle by Jahlani Tavai and Marte Mapu),3.05,2.87,6.0,2024,84
+3.0,8:51,3.0,2.0,NWE 30,21.0,7.0,C.J. Stroud pass complete short right to Tank Dell for 5 yards (tackle by Marcus Jones),2.87,3.91,6.0,2024,84
+3.0,8:25,1.0,10.0,NWE 25,21.0,7.0,C.J. Stroud sacked by Jaquelin Roy for -7 yards,3.91,2.42,6.0,2024,84
+3.0,7:44,2.0,17.0,NWE 32,21.0,7.0,Dameon Pierce up the middle for 11 yards (tackle by Marte Mapu),2.42,3.2,6.0,2024,84
+3.0,7:05,3.0,6.0,NWE 21,21.0,7.0,C.J. Stroud pass incomplete deep right intended for Stefon Diggs,3.2,2.08,6.0,2024,84
+3.0,7:00,4.0,6.0,NWE 21,24.0,7.0,Ka'imi Fairbairn 39 yard field goal good,2.08,3.0,6.0,2024,84
+3.0,6:56,,,HOU 35,24.0,7.0,"Ka'imi Fairbairn kicks off 61 yards, returned by Jamycal Hasty for 20 yards (tackle by Del'Shawn Phillips)",0.0,0.54,6.0,2024,84
+3.0,6:51,1.0,10.0,NWE 24,24.0,7.0,"Drake Maye pass complete short left to Austin Hooper for 5 yards. Austin Hooper fumbles (tackle by Henry To'oTo'o, recovered by Calen Bullock at NE-31",0.54,-3.51,6.0,2024,84
+3.0,6:42,1.0,10.0,NWE 31,24.0,7.0,Dameon Pierce left tackle for 1 yard (tackle by Davon Godchaux and Marte Mapu),3.51,3.1,6.0,2024,84
+3.0,6:09,2.0,9.0,NWE 30,24.0,7.0,Dameon Pierce up the middle for 2 yards (tackle by Raekwon McMillan and Davon Godchaux),3.1,2.68,6.0,2024,84
+3.0,5:30,3.0,7.0,NWE 28,24.0,7.0,C.J. Stroud pass incomplete short middle intended for Xavier Hutchinson (defended by Keion White),2.68,1.59,6.0,2024,84
+3.0,5:26,4.0,7.0,NWE 28,27.0,7.0,Ka'imi Fairbairn 46 yard field goal good,1.59,3.0,6.0,2024,84
+3.0,5:22,,,HOU 35,27.0,7.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.94,6.0,2024,84
+3.0,5:22,1.0,10.0,NWE 30,27.0,7.0,Terrell Jennings up the middle for 2 yards (tackle by Henry To'oTo'o),0.94,0.66,6.0,2024,84
+3.0,5:01,2.0,8.0,NWE 32,27.0,7.0,Drake Maye pass complete short right to Hunter Henry for 30 yards (tackle by Eric Murray),0.66,3.05,6.0,2024,84
+3.0,4:13,1.0,10.0,HOU 38,27.0,7.0,"Penalty on Drake Maye: False Start, 5 yards (accepted) (no play)",3.05,2.72,6.0,2024,84
+3.0,3:56,1.0,15.0,HOU 43,27.0,7.0,Drake Maye pass complete short left to Jamycal Hasty for 9 yards (tackle by Calen Bullock),2.72,3.05,6.0,2024,84
+3.0,3:13,2.0,6.0,HOU 34,27.0,7.0,Drake Maye pass complete short middle to Demario Douglas for 17 yards (tackle by Jalen Pitre),3.05,4.44,6.0,2024,84
+3.0,2:31,1.0,10.0,HOU 17,27.0,7.0,Antonio Gibson up the middle for 4 yards (tackle by Azeez Al-Shaair and Mario Edwards),4.44,4.5,6.0,2024,84
+3.0,1:53,2.0,6.0,HOU 13,27.0,7.0,Drake Maye pass complete short right to Antonio Gibson for 7 yards (tackle by Henry To'oTo'o and Eric Murray),4.5,5.83,6.0,2024,84
+3.0,1:05,1.0,6.0,HOU 6,27.0,13.0,"Drake Maye pass complete short left to Hunter Henry for 6 yards, touchdown",5.83,7.0,6.0,2024,84
+3.0,1:00,,,HOU 15,27.0,14.0,Joey Slye kicks extra point good,0.0,0.0,6.0,2024,84
+3.0,1:00,,,NWE 35,27.0,14.0,"Joey Slye kicks off 65 yards, returned by Steven Sims for 25 yards (tackle by Jaylinn Hawkins and Sione Takitaki)",0.0,0.61,6.0,2024,84
+3.0,0:55,1.0,10.0,HOU 25,27.0,14.0,C.J. Stroud pass incomplete short right intended for Cade Stover,0.61,0.06,6.0,2024,84
+3.0,0:51,2.0,10.0,HOU 25,27.0,14.0,C.J. Stroud pass complete short right to Stefon Diggs for 12 yards (tackle by Jonathan Jones),0.06,1.4,6.0,2024,84
+3.0,0:11,1.0,10.0,HOU 37,27.0,14.0,Dameon Pierce up the middle for no gain (tackle by Jahlani Tavai and Keion White),1.4,0.86,6.0,2024,84
+4.0,15:00,2.0,10.0,HOU 37,27.0,14.0,C.J. Stroud pass complete short left to Dalton Schultz for 6 yards (tackle by Jahlani Tavai),0.86,0.96,6.0,2024,84
+4.0,14:17,3.0,4.0,HOU 43,27.0,14.0,C.J. Stroud pass incomplete short right intended for Dalton Schultz,0.96,-0.52,6.0,2024,84
+4.0,14:14,4.0,4.0,HOU 43,27.0,14.0,Tommy Townsend punts 35 yards out of bounds,-0.52,-0.41,6.0,2024,84
+4.0,14:07,1.0,10.0,NWE 22,27.0,14.0,Drake Maye pass short left (defended by Will Anderson) intended for Antonio Gibson is intercepted by Eric Murray at NE-26 and returned for no gain (tackle by Austin Hooper),0.41,-3.84,6.0,2024,84
+4.0,14:03,1.0,10.0,NWE 26,27.0,14.0,Dameon Pierce up the middle for 6 yards (tackle by Davon Godchaux),3.84,4.11,6.0,2024,84
+4.0,13:23,2.0,4.0,NWE 20,33.0,14.0,"Joe Mixon left end for 20 yards, touchdown",4.11,7.0,6.0,2024,84
+4.0,13:14,,,NWE 15,34.0,14.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,6.0,2024,84
+4.0,13:14,,,HOU 35,34.0,14.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.94,6.0,2024,84
+4.0,13:14,1.0,10.0,NWE 30,34.0,14.0,Antonio Gibson left guard for 1 yard (tackle by Neville Hewitt and Jalen Pitre),0.94,0.53,6.0,2024,84
+4.0,12:37,2.0,9.0,NWE 31,34.0,14.0,Antonio Gibson left tackle for 4 yards (tackle by Derek Barnett and Henry To'oTo'o),0.53,0.37,6.0,2024,84
+4.0,11:57,3.0,5.0,NWE 35,34.0,14.0,Drake Maye pass complete short left to Antonio Gibson for 5 yards (tackle by D'Angelo Ross and Henry To'oTo'o),0.37,1.6,6.0,2024,84
+4.0,11:24,1.0,10.0,NWE 40,34.0,14.0,"Penalty on Sidy Sow: False Start, 5 yards (accepted) (no play)",1.6,1.27,6.0,2024,84
+4.0,11:24,1.0,15.0,NWE 35,34.0,14.0,"Drake Maye pass incomplete deep left intended for Ja'Lynn Polk. Penalty on Mario Edwards: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",1.27,1.6,6.0,2024,84
+4.0,11:19,1.0,10.0,NWE 40,34.0,14.0,Jamycal Hasty left tackle for 5 yards (tackle by Will Anderson),1.6,1.73,6.0,2024,84
+4.0,10:49,2.0,5.0,NWE 45,34.0,14.0,Drake Maye scrambles right end for 15 yards (tackle by Neville Hewitt),1.73,2.92,6.0,2024,84
+4.0,10:15,1.0,10.0,HOU 40,34.0,14.0,Jamycal Hasty right guard for 5 yards (tackle by Neville Hewitt),2.92,3.05,6.0,2024,84
+4.0,9:35,2.0,5.0,HOU 35,34.0,14.0,Drake Maye pass incomplete short left intended for Jamycal Hasty,3.05,2.34,6.0,2024,84
+4.0,9:31,3.0,5.0,HOU 35,34.0,20.0,"Drake Maye pass complete short middle to Demario Douglas for 35 yards, touchdown",2.34,7.0,6.0,2024,84
+4.0,9:24,,,HOU 15,34.0,21.0,Joey Slye kicks extra point good,0.0,0.0,6.0,2024,84
+4.0,9:24,,,NWE 35,34.0,21.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.94,6.0,2024,84
+4.0,9:24,1.0,10.0,HOU 30,34.0,21.0,C.J. Stroud pass incomplete short middle intended for Dalton Schultz,0.94,0.39,6.0,2024,84
+4.0,9:20,2.0,10.0,HOU 30,34.0,21.0,C.J. Stroud pass complete short left to Tank Dell for 5 yards (tackle by Marco Wilson),0.39,0.37,6.0,2024,84
+4.0,8:37,3.0,5.0,HOU 35,34.0,21.0,C.J. Stroud pass complete short middle to Tank Dell for 11 yards (tackle by Jonathan Jones),0.37,1.99,6.0,2024,84
+4.0,7:58,1.0,10.0,HOU 46,40.0,21.0,"Dameon Pierce right end for 54 yards, touchdown Replay Assistant challenged the runner was in bounds ruling, and the play was upheld.",1.99,7.0,6.0,2024,84
+4.0,7:47,,,NWE 15,41.0,21.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,6.0,2024,84
+4.0,7:47,,,HOU 35,41.0,21.0,"Ka'imi Fairbairn kicks off 64 yards, returned by Jamycal Hasty for 27 yards (tackle by Myles Bryant)",0.0,0.81,6.0,2024,84
+4.0,7:39,1.0,10.0,NWE 28,41.0,21.0,Drake Maye pass complete short right to Kayshon Boutte for 13 yards (tackle by Eric Murray),0.81,1.66,6.0,2024,84
+4.0,7:14,1.0,10.0,NWE 41,41.0,21.0,Drake Maye scrambles left end for 2 yards (tackle by Neville Hewitt),1.66,1.39,6.0,2024,84
+4.0,6:38,2.0,8.0,NWE 43,41.0,21.0,Antonio Gibson up the middle for -3 yards (tackle by Khalil Davis),1.39,0.3,6.0,2024,84
+4.0,6:03,3.0,11.0,NWE 40,41.0,21.0,Drake Maye sacked by Will Anderson for -10 yards,0.3,-1.37,6.0,2024,84
+4.0,5:24,4.0,21.0,NWE 30,41.0,21.0,"Bryce Baringer punts 56 yards, returned by Steven Sims for 8 yards (tackle by Jahlani Tavai and Christian Elliss)",-1.37,-0.41,6.0,2024,84
+4.0,5:12,1.0,10.0,HOU 22,41.0,21.0,Cam Akers left tackle for -2 yards (tackle by Anfernee Jennings),0.41,-0.4,6.0,2024,84
+4.0,4:29,2.0,12.0,HOU 20,41.0,21.0,Cam Akers right guard for 1 yard (tackle by Jahlani Tavai and Keion White),-0.4,-0.96,6.0,2024,84
+4.0,3:43,3.0,11.0,HOU 21,41.0,21.0,Davis Mills pass incomplete short left intended for Xavier Hutchinson (defended by Keion White),-0.96,-1.96,6.0,2024,84
+4.0,3:40,4.0,11.0,HOU 21,41.0,21.0,"Tommy Townsend punts 39 yards, returned by Marcus Jones for 16 yards. Marcus Jones fumbles, ball out of bounds at HOU-44 (forced by Dare Ogunbowale). Marcus Jones fumbles out of bounds",-1.96,-2.65,6.0,2024,84
+4.0,3:31,1.0,10.0,HOU 44,41.0,21.0,Terrell Jennings up the middle for 5 yards (tackle by M.J. Stewart),2.65,2.78,6.0,2024,84
+4.0,2:58,2.0,5.0,HOU 39,41.0,21.0,Drake Maye pass incomplete short left,2.78,2.08,6.0,2024,84
+4.0,2:55,3.0,5.0,HOU 39,41.0,21.0,Drake Maye pass incomplete short right intended for Ja'Lynn Polk,2.08,0.66,6.0,2024,84
+4.0,2:50,4.0,5.0,HOU 39,41.0,21.0,Drake Maye scrambles up the middle for 6 yards (tackle by Myles Bryant),0.66,3.38,6.0,2024,84
+4.0,2:25,1.0,10.0,HOU 33,41.0,21.0,Terrell Jennings right guard for 3 yards (tackle by Jake Hansen and Neville Hewitt),3.38,3.24,6.0,2024,84
+4.0,2:00,2.0,7.0,HOU 30,41.0,21.0,Terrell Jennings up the middle for 4 yards (tackle by Mario Edwards and Jake Hansen),3.24,3.07,6.0,2024,84
+4.0,1:30,3.0,3.0,HOU 26,41.0,21.0,Drake Maye pass incomplete short right intended for Demario Douglas,3.07,1.84,6.0,2024,84
+4.0,1:23,4.0,3.0,HOU 26,41.0,21.0,Drake Maye pass complete short right to Demario Douglas for 6 yards (tackle by Myles Bryant),1.84,4.24,6.0,2024,84
+4.0,0:54,1.0,10.0,HOU 20,41.0,21.0,Terrell Jennings up the middle for -1 yards (tackle by Khalil Davis and Jake Hansen),4.24,3.56,6.0,2024,84
+4.0,0:26,2.0,11.0,HOU 21,41.0,21.0,Drake Maye pass incomplete short left,3.56,2.87,6.0,2024,84
+4.0,0:18,3.0,11.0,HOU 21,41.0,21.0,Drake Maye pass complete short middle to Ja'Lynn Polk for 4 yards (tackle by Neville Hewitt),2.87,2.31,6.0,2024,84

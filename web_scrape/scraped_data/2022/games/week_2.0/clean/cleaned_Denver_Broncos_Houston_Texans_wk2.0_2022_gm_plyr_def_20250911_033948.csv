@@ -1,0 +1,43 @@
+Player,Tm,Def Interceptions Int,Def Interceptions Yds,Def Interceptions TD,Def Interceptions Lng,Def Interceptions PD,Sk,Tackles Comb,Tackles Solo,Tackles Ast,Tackles TFL,Tackles QBHits,Fumbles FR,Fumbles Yds,Fumbles TD,Fumbles FF,week,year,game_id
+Christian Kirksey,HOU,1,0,0,0,1,0.5,5,4,1,0,1,0,0,0,0,2.0,2022,29
+Rasheem Green,HOU,0,0,0,0,0,1.5,5,3,2,1,2,0,0,0,0,2.0,2022,29
+Jonathan Greenard,HOU,0,0,0,0,0,1.0,1,1,0,1,2,0,0,0,0,2.0,2022,29
+Jonathan Owens,HOU,0,0,0,0,0,0.0,10,6,4,0,0,0,0,0,0,2.0,2022,29
+Derek Stingley Jr.,HOU,0,0,0,0,2,0.0,8,8,0,0,0,0,0,0,0,2.0,2022,29
+Kamu Grugier-Hill,HOU,0,0,0,0,0,0.0,5,3,2,0,0,0,0,0,0,2.0,2022,29
+Steven Nelson,HOU,0,0,0,0,1,0.0,5,4,1,1,0,0,0,0,0,2.0,2022,29
+Jalen Pitre,HOU,0,0,0,0,0,0.0,5,2,3,0,0,0,0,0,0,2.0,2022,29
+Ogbonnia Okoronkwo,HOU,0,0,0,0,0,0.0,3,2,1,0,0,0,0,0,0,2.0,2022,29
+Kevin Pierre-Louis,HOU,0,0,0,0,0,0.0,3,1,2,0,0,0,0,0,0,2.0,2022,29
+Jon Weeks,HOU,0,0,0,0,0,0.0,3,0,3,0,0,0,0,0,0,2.0,2022,29
+Kurt Hinish,HOU,0,0,0,0,0,0.0,2,1,1,1,0,0,0,0,0,2.0,2022,29
+Desmond King,HOU,0,0,0,0,1,0.0,2,1,1,0,0,0,0,0,0,2.0,2022,29
+M.J. Stewart,HOU,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,2.0,2022,29
+Thomas Booker,HOU,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2022,29
+Blake Cashman,HOU,0,0,0,0,0,0.0,1,1,0,1,1,0,0,0,0,2.0,2022,29
+Maliek Collins,HOU,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,2.0,2022,29
+Michael Dwumfour,HOU,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2022,29
+Jerry Hughes,HOU,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,2.0,2022,29
+Roy Lopez,HOU,0,0,0,0,1,0.0,1,1,0,0,1,0,0,0,0,2.0,2022,29
+Eric Murray,HOU,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,2.0,2022,29
+Dare Ogunbowale,HOU,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2022,29
+A.J. Cann,HOU,0,0,0,0,0,0.0,0,0,0,0,0,2,0,0,0,2.0,2022,29
+Dre'Mont Jones,DEN,0,0,0,0,0,2.0,6,4,2,1,1,0,0,0,1,2.0,2022,29
+Randy Gregory,DEN,0,0,0,0,0,1.0,3,2,1,1,3,0,0,0,1,2.0,2022,29
+Kareem Jackson,DEN,0,0,0,0,0,0.0,6,3,3,0,0,0,0,0,0,2.0,2022,29
+Caden Sterns,DEN,0,0,0,0,0,0.0,6,5,1,0,0,0,0,0,0,2.0,2022,29
+Damarri Mathis,DEN,0,0,0,0,1,0.0,5,5,0,0,0,0,0,0,0,2.0,2022,29
+Alex Singleton,DEN,0,0,0,0,2,0.0,5,1,4,0,0,0,0,0,0,2.0,2022,29
+K'Waun Williams,DEN,0,0,0,0,0,0.0,4,3,1,1,0,0,0,0,0,2.0,2022,29
+Jonas Griffith,DEN,0,0,0,0,0,0.0,3,3,0,0,0,0,0,0,0,2.0,2022,29
+D.J. Jones,DEN,0,0,0,0,0,0.0,3,2,1,0,0,0,0,0,0,2.0,2022,29
+Mike Purcell,DEN,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,2.0,2022,29
+Patrick Surtain II,DEN,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,2.0,2022,29
+Ronald Darby,DEN,0,0,0,0,1,0.0,1,1,0,0,0,0,0,0,0,2.0,2022,29
+Matt Henningsen,DEN,0,0,0,0,0,0.0,1,1,0,1,0,0,0,0,0,2.0,2022,29
+P.J. Locke,DEN,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,2.0,2022,29
+Aaron Patrick,DEN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2022,29
+Courtland Sutton,DEN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2022,29
+Delarrin Turner-Yell,DEN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2022,29
+DeShawn Williams,DEN,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,2.0,2022,29
+Bradley Chubb,DEN,0,0,0,0,0,0.0,0,0,0,0,2,0,0,0,0,2.0,2022,29

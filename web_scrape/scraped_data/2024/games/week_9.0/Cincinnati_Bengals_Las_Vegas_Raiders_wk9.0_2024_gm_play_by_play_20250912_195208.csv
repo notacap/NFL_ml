@@ -1,0 +1,183 @@
+Quarter,Time,Down,ToGo,Location,LVR,CIN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Bengals won the coin toss and deferred, Raiders to receive the opening kickoff.",,,9.0,2024,128
+1.0,15:00,,,CIN 35,0.0,0.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,128
+1.0,15:00,1.0,10.0,LVR 30,0.0,0.0,Gardner Minshew pass incomplete deep left intended for Tre Tucker (defended by Cam Taylor-Britt),0.94,0.39,9.0,2024,128
+1.0,14:55,2.0,10.0,LVR 30,0.0,0.0,Gardner Minshew pass incomplete deep right intended for Tre Tucker,0.39,-0.3,9.0,2024,128
+1.0,14:50,3.0,10.0,LVR 30,0.0,0.0,"Gardner Minshew pass incomplete deep right intended for Brock Bowers. Penalty on DJ Ivey: Defensive Pass Interference, 16 yards (accepted) (no play)",-0.3,1.99,9.0,2024,128
+1.0,14:43,1.0,10.0,LVR 46,0.0,0.0,Gardner Minshew pass complete short left to Brock Bowers for 9 yards (tackle by DJ Turner),1.99,2.67,9.0,2024,128
+1.0,14:00,2.0,1.0,CIN 45,0.0,0.0,Gardner Minshew pass complete deep right to Jakobi Meyers for 22 yards (tackle by Logan Wilson),2.67,4.04,9.0,2024,128
+1.0,13:23,1.0,10.0,CIN 23,0.0,0.0,Alexander Mattison up the middle for 7 yards (tackle by Sheldon Rankins),4.04,4.56,9.0,2024,128
+1.0,12:47,2.0,3.0,CIN 16,0.0,0.0,Alexander Mattison right guard for 4 yards (tackle by Akeem Davis-Gaither and Logan Wilson),4.56,4.78,9.0,2024,128
+1.0,12:12,1.0,10.0,CIN 12,0.0,0.0,Alexander Mattison left guard for 6 yards (tackle by Sam Hubbard and Vonn Bell),4.78,5.21,9.0,2024,128
+1.0,11:34,2.0,4.0,CIN 6,0.0,0.0,Zamir White left guard for 1 yard (tackle by Kris Jenkins and Mike Hilton),5.21,4.61,9.0,2024,128
+1.0,10:50,3.0,3.0,CIN 5,0.0,0.0,Alexander Mattison right tackle for 3 yards (tackle by Kris Jenkins and Geno Stone),4.61,6.74,9.0,2024,128
+1.0,9:56,1.0,2.0,CIN 2,0.0,0.0,"Zamir White left guard for no gain, touchdown Replay Assistant challenged the runner broke the plane ruling, and the original play was overturned. Zamir White left guard for 1 yard (tackle by Kris Jenkins and Geno Stone)",6.74,5.91,9.0,2024,128
+1.0,9:50,2.0,1.0,CIN 1,0.0,0.0,Penalty on B.J. Hill: Encroachment (accepted) (no play),5.91,5.91,9.0,2024,128
+1.0,9:38,2.0,1.0,CIN 1,6.0,0.0,"Zamir White right guard for 1 yard, touchdown",5.91,7.0,9.0,2024,128
+1.0,9:36,,,CIN 15,7.0,0.0,Daniel Carlson kicks extra point good,0.0,0.0,9.0,2024,128
+1.0,9:36,,,LVR 35,7.0,0.0,"Daniel Carlson kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,128
+1.0,9:36,1.0,10.0,CIN 30,7.0,0.0,Chase Brown right guard for 5 yards (tackle by John Jenkins and Robert Spillane),0.94,1.07,9.0,2024,128
+1.0,9:04,2.0,5.0,CIN 35,7.0,0.0,Chase Brown left end for 5 yards (tackle by Jakorian Bennett),1.07,1.6,9.0,2024,128
+1.0,8:24,1.0,10.0,CIN 40,7.0,0.0,Joe Burrow pass complete short middle to Drew Sample for 5 yards (tackle by Divine Deablo),1.6,1.73,9.0,2024,128
+1.0,7:46,2.0,5.0,CIN 45,7.0,0.0,Joe Burrow pass complete short middle to Chase Brown for 13 yards (tackle by Divine Deablo and Robert Spillane),1.73,2.79,9.0,2024,128
+1.0,7:08,1.0,10.0,LVR 42,7.0,0.0,Chase Brown right tackle for 8 yards (tackle by Jack Jones),2.79,3.32,9.0,2024,128
+1.0,6:27,2.0,2.0,LVR 34,7.0,0.0,Joe Burrow pass complete short middle to Chase Brown for 7 yards (tackle by Jack Jones),3.32,3.78,9.0,2024,128
+1.0,5:42,1.0,10.0,LVR 27,7.0,0.0,Joe Burrow pass complete short left to Ja'Marr Chase for 4 yards (tackle by Jakorian Bennett),3.78,3.77,9.0,2024,128
+1.0,5:06,2.0,6.0,LVR 23,7.0,0.0,Chase Brown up the middle for 1 yard (tackle by Tre'von Moehrig and Maxx Crosby),3.77,3.2,9.0,2024,128
+1.0,4:23,3.0,5.0,LVR 22,7.0,0.0,Joe Burrow pass complete short left to Drew Sample for 2 yards (tackle by Tre'von Moehrig and Jakorian Bennett),3.2,2.22,9.0,2024,128
+1.0,3:39,4.0,3.0,LVR 20,7.0,0.0,Joe Burrow pass complete short middle to Tanner Hudson for 11 yards (tackle by Nate Hobbs),2.22,5.14,9.0,2024,128
+1.0,2:54,1.0,9.0,LVR 9,7.0,0.0,Chase Brown right tackle for 2 yards (tackle by Jonah Laulu),5.14,4.76,9.0,2024,128
+1.0,2:27,2.0,7.0,LVR 7,7.0,0.0,Joe Burrow pass complete short left to Ja'Marr Chase for 6 yards (tackle by Jakorian Bennett and Nate Hobbs),4.76,5.17,9.0,2024,128
+1.0,1:46,3.0,1.0,LVR 1,7.0,6.0,"Joe Burrow pass complete short right to Chase Brown for 1 yard, touchdown",5.17,7.0,9.0,2024,128
+1.0,1:39,,,LVR 15,7.0,7.0,Evan McPherson kicks extra point good,0.0,0.0,9.0,2024,128
+1.0,1:39,,,CIN 35,7.0,7.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,128
+1.0,1:39,1.0,10.0,LVR 30,7.0,7.0,Zamir White right guard for 1 yard (tackle by Logan Wilson),0.94,0.53,9.0,2024,128
+1.0,1:20,2.0,9.0,LVR 31,7.0,7.0,Zamir White left tackle for 4 yards (tackle by Joseph Ossai),0.53,0.37,9.0,2024,128
+1.0,0:41,3.0,5.0,LVR 35,7.0,7.0,Gardner Minshew pass complete short left to Brock Bowers for 7 yards (tackle by Jordan Battle),0.37,1.73,9.0,2024,128
+2.0,15:00,1.0,10.0,LVR 42,7.0,7.0,Gardner Minshew pass complete short right to Harrison Bryant for 4 yards (tackle by Akeem Davis-Gaither and Cam Taylor-Britt),1.73,1.73,9.0,2024,128
+2.0,14:22,2.0,6.0,LVR 46,7.0,7.0,Zamir White left guard for 2 yards (tackle by Mike Hilton),1.73,1.29,9.0,2024,128
+2.0,13:40,3.0,4.0,LVR 48,7.0,7.0,Gardner Minshew pass incomplete deep left intended for Brock Bowers (defended by Jordan Battle),1.29,-0.19,9.0,2024,128
+2.0,13:35,4.0,4.0,LVR 48,7.0,7.0,"AJ Cole punts 42 yards, fair catch by Trenton Irwin at CIN-10",-0.19,0.38,9.0,2024,128
+2.0,13:29,1.0,10.0,CIN 10,7.0,7.0,Chase Brown right tackle for 7 yards (tackle by Isaiah Pola-Mao),-0.38,-0.09,9.0,2024,128
+2.0,13:02,2.0,3.0,CIN 17,7.0,7.0,Joe Burrow pass complete short right to Erick All for 18 yards (tackle by Isaiah Pola-Mao),-0.09,1.27,9.0,2024,128
+2.0,12:21,1.0,10.0,CIN 35,7.0,7.0,Joe Burrow pass complete short middle to Ja'Marr Chase for 8 yards (tackle by Nate Hobbs),1.27,1.8,9.0,2024,128
+2.0,11:46,2.0,2.0,CIN 43,7.0,7.0,Chase Brown left end for 1 yard (tackle by Tyree Wilson and Isaiah Pola-Mao),1.8,1.22,9.0,2024,128
+2.0,11:01,3.0,1.0,CIN 44,7.0,7.0,Joe Burrow pass complete short left to Ja'Marr Chase for 2 yards (tackle by Tre'von Moehrig),1.22,1.99,9.0,2024,128
+2.0,10:29,1.0,10.0,CIN 46,7.0,7.0,Joe Burrow pass complete short right to Erick All for 6 yards (tackle by Nate Hobbs),1.99,2.26,9.0,2024,128
+2.0,9:56,2.0,4.0,LVR 48,7.0,7.0,Joe Burrow pass complete short left to Chase Brown for 12 yards (tackle by Matthew Butler),2.26,3.18,9.0,2024,128
+2.0,9:13,1.0,10.0,LVR 36,7.0,7.0,Chase Brown right tackle for 1 yard (tackle by K'Lavon Chaisson and Nate Hobbs),3.18,2.77,9.0,2024,128
+2.0,8:43,2.0,9.0,LVR 35,7.0,7.0,Joe Burrow pass complete short left to Ja'Marr Chase for 6 yards (tackle by Tre'von Moehrig),2.77,2.87,9.0,2024,128
+2.0,8:00,3.0,3.0,LVR 29,7.0,7.0,Joe Burrow pass complete short right to Mike Gesicki for 3 yards (tackle by Charles Snowden),2.87,3.84,9.0,2024,128
+2.0,7:20,1.0,10.0,LVR 26,7.0,7.0,Joe Burrow pass incomplete short right intended for Andrei Iosivas (defended by Maxx Crosby),3.84,3.3,9.0,2024,128
+2.0,7:16,2.0,10.0,LVR 26,7.0,7.0,Joe Burrow pass incomplete short middle intended for Trenton Irwin (defended by Isaiah Pola-Mao),3.3,2.61,9.0,2024,128
+2.0,7:11,,,,,,Timeout #1 by Las Vegas Raiders,,,9.0,2024,128
+2.0,7:11,3.0,10.0,LVR 26,7.0,7.0,Joe Burrow pass incomplete deep left intended for Mike Gesicki (defended by Decamerion Richardson),2.61,1.74,9.0,2024,128
+2.0,7:04,4.0,10.0,LVR 26,7.0,10.0,Evan McPherson 44 yard field goal good,1.74,3.0,9.0,2024,128
+2.0,7:00,,,CIN 35,7.0,10.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,128
+2.0,7:00,1.0,10.0,LVR 30,7.0,10.0,Alexander Mattison left tackle for 1 yard (tackle by McKinnley Jackson),0.94,0.53,9.0,2024,128
+2.0,6:18,2.0,9.0,LVR 31,7.0,10.0,Gardner Minshew pass complete short left to Jakobi Meyers for 20 yards (tackle by DJ Turner),0.53,2.32,9.0,2024,128
+2.0,5:34,1.0,10.0,CIN 49,7.0,10.0,Gardner Minshew pass complete short middle to Jakobi Meyers for 23 yards (tackle by Geno Stone),2.32,3.84,9.0,2024,128
+2.0,4:55,1.0,10.0,CIN 26,7.0,10.0,Gardner Minshew pass complete short left to Jakobi Meyers for -2 yards (tackle by Vonn Bell),3.84,3.03,9.0,2024,128
+2.0,4:13,2.0,12.0,CIN 28,7.0,10.0,Gardner Minshew sacked by Trey Hendrickson for -7 yards,3.03,1.42,9.0,2024,128
+2.0,3:28,3.0,19.0,CIN 35,7.0,10.0,Alexander Mattison up the middle for 7 yards (tackle by Logan Wilson and Vonn Bell),1.42,1.59,9.0,2024,128
+2.0,3:03,4.0,12.0,CIN 28,10.0,10.0,Daniel Carlson 46 yard field goal good,1.59,3.0,9.0,2024,128
+2.0,2:58,,,LVR 35,10.0,10.0,"Daniel Carlson kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,128
+2.0,2:58,1.0,10.0,CIN 30,10.0,10.0,"Joe Burrow pass incomplete short right intended for Ja'Marr Chase. Penalty on Amarius Mims: Ineligible Downfield Pass, 5 yards (accepted) (no play)",0.94,0.61,9.0,2024,128
+2.0,2:54,1.0,15.0,CIN 25,10.0,10.0,Joe Burrow pass complete short middle to Mike Gesicki for 24 yards (tackle by Tre'von Moehrig and Isaiah Pola-Mao),0.61,2.19,9.0,2024,128
+2.0,2:17,1.0,10.0,CIN 49,10.0,10.0,Chase Brown up the middle for 4 yards (tackle by Robert Spillane and Tyree Wilson),2.19,2.19,9.0,2024,128
+2.0,2:00,2.0,6.0,LVR 47,10.0,10.0,"Joe Burrow sacked by Maxx Crosby for no gain. Penalty on Maxx Crosby: Unnecessary Roughness / Defense, 14 yards (accepted) . Penalty on Maxx Crosby: Defensive Offside, 5 yards (declined) (no play)",2.19,3.38,9.0,2024,128
+2.0,1:47,1.0,10.0,LVR 33,10.0,10.0,Chase Brown right tackle for 12 yards (tackle by Tre'von Moehrig),3.38,4.17,9.0,2024,128
+2.0,1:21,1.0,10.0,LVR 21,10.0,10.0,Joe Burrow pass complete short left to Ja'Marr Chase for 11 yards (tackle by Tre'von Moehrig),4.17,4.91,9.0,2024,128
+2.0,0:38,1.0,10.0,LVR 10,10.0,16.0,"Joe Burrow pass complete short middle to Andrei Iosivas for 10 yards, touchdown",4.91,7.0,9.0,2024,128
+2.0,0:32,,,LVR 15,10.0,17.0,Evan McPherson kicks extra point good,0.0,0.0,9.0,2024,128
+2.0,0:32,,,CIN 35,10.0,17.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,128
+2.0,0:32,1.0,10.0,LVR 30,10.0,17.0,Gardner Minshew pass complete short middle to Jakobi Meyers for 17 yards (tackle by Geno Stone),0.94,2.06,9.0,2024,128
+2.0,0:27,,,,,,Timeout #2 by Las Vegas Raiders,,,9.0,2024,128
+2.0,0:27,1.0,10.0,LVR 47,10.0,17.0,Gardner Minshew pass complete short right to Jakobi Meyers for 6 yards (tackle by Mike Hilton and Jordan Battle),2.06,2.33,9.0,2024,128
+2.0,0:23,,,,,,Timeout #3 by Las Vegas Raiders,,,9.0,2024,128
+2.0,0:23,2.0,4.0,CIN 47,10.0,17.0,Gardner Minshew pass incomplete short right intended for Jakobi Meyers,2.33,1.62,9.0,2024,128
+2.0,0:20,3.0,4.0,CIN 47,10.0,17.0,Gardner Minshew pass incomplete short right,1.62,0.13,9.0,2024,128
+2.0,0:17,4.0,4.0,CIN 47,10.0,17.0,"Penalty on AJ Cole: Delay of Game, 5 yards (accepted) (no play)",0.13,-0.19,9.0,2024,128
+2.0,0:17,4.0,9.0,LVR 48,10.0,17.0,"AJ Cole punts 48 yards. Penalty on Josh Newton: Defensive Holding, 2 yards (accepted)",-0.19,0.38,9.0,2024,128
+2.0,0:05,1.0,10.0,CIN 2,10.0,17.0,Joe Burrow kneels for -1 yards,-0.38,-0.85,9.0,2024,128
+3.0,15:00,,,LVR 35,10.0,17.0,"Daniel Carlson kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,128
+3.0,15:00,1.0,10.0,CIN 30,10.0,17.0,Joe Burrow scrambles right end for 10 yards (tackle by Darnay Holmes and Tre'von Moehrig),0.94,1.6,9.0,2024,128
+3.0,14:26,1.0,10.0,CIN 40,10.0,17.0,Chase Brown left guard for 21 yards (tackle by Tre'von Moehrig and Isaiah Pola-Mao),1.6,2.98,9.0,2024,128
+3.0,13:41,1.0,10.0,LVR 39,10.0,17.0,Joe Burrow pass complete short left to Kendric Pryor for 9 yards (tackle by Jakorian Bennett),2.98,3.66,9.0,2024,128
+3.0,13:05,2.0,1.0,LVR 30,10.0,17.0,Joe Burrow pass complete short right to Ja'Marr Chase for 6 yards (tackle by Darnay Holmes and Jakorian Bennett),3.66,3.97,9.0,2024,128
+3.0,12:28,1.0,10.0,LVR 24,10.0,17.0,"Joe Burrow pass incomplete deep right intended for Andrei Iosivas. Penalty on Jack Jones: Defensive Pass Interference, 17 yards (accepted) (no play)",3.97,5.6,9.0,2024,128
+3.0,12:23,1.0,7.0,LVR 7,10.0,17.0,Chase Brown right guard for 5 yards (tackle by Robert Spillane and Darnay Holmes),5.6,5.72,9.0,2024,128
+3.0,11:36,2.0,2.0,LVR 2,10.0,17.0,Joe Burrow pass incomplete short right,5.72,4.95,9.0,2024,128
+3.0,11:33,3.0,2.0,LVR 2,10.0,23.0,"Joe Burrow pass complete short right to Drew Sample for 2 yards, touchdown",4.95,7.0,9.0,2024,128
+3.0,11:27,,,LVR 15,10.0,24.0,Evan McPherson kicks extra point good,0.0,0.0,9.0,2024,128
+3.0,11:27,,,CIN 35,10.0,24.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,128
+3.0,11:27,1.0,10.0,LVR 30,10.0,24.0,Gardner Minshew pass complete short middle to Harrison Bryant for 18 yards (tackle by Logan Wilson),0.94,2.13,9.0,2024,128
+3.0,11:06,1.0,10.0,LVR 48,10.0,24.0,Alexander Mattison right guard for 4 yards (tackle by Jordan Battle and McKinnley Jackson),2.13,2.12,9.0,2024,128
+3.0,10:31,2.0,6.0,CIN 48,10.0,24.0,Alexander Mattison left guard for 3 yards (tackle by Sheldon Rankins and Kris Jenkins),2.12,1.82,9.0,2024,128
+3.0,9:51,3.0,3.0,CIN 45,10.0,24.0,"Gardner Minshew aborted snap, recovered by Logan Wilson at LV-31 and returned for 10 yards (tackle by Jakobi Meyers and DJ Turner)",1.82,-4.17,9.0,2024,128
+3.0,9:42,1.0,10.0,LVR 21,10.0,24.0,Joe Burrow pass incomplete deep right intended for Andrei Iosivas,4.17,3.63,9.0,2024,128
+3.0,9:37,2.0,10.0,LVR 21,10.0,24.0,Chase Brown right guard for 9 yards (tackle by Isaiah Pola-Mao),3.63,4.49,9.0,2024,128
+3.0,9:00,3.0,1.0,LVR 12,10.0,24.0,Joe Burrow right guard for 2 yards (tackle by Adam Butler),4.49,4.91,9.0,2024,128
+3.0,8:20,1.0,10.0,LVR 10,10.0,24.0,Chase Brown left tackle for -1 yards (tackle by Maxx Crosby),4.91,4.02,9.0,2024,128
+3.0,7:40,,,,,,Timeout #1 by Cincinnati Bengals,,,9.0,2024,128
+3.0,7:40,2.0,11.0,LVR 11,10.0,30.0,"Joe Burrow pass complete short left to Mike Gesicki for 11 yards, touchdown",4.02,7.0,9.0,2024,128
+3.0,7:34,,,LVR 15,10.0,31.0,Evan McPherson kicks extra point good,0.0,0.0,9.0,2024,128
+3.0,7:34,,,CIN 35,10.0,31.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,128
+3.0,7:34,1.0,10.0,LVR 30,10.0,31.0,Gardner Minshew pass incomplete short right intended for Brock Bowers (defended by Germaine Pratt),0.94,0.39,9.0,2024,128
+3.0,7:31,2.0,10.0,LVR 30,10.0,31.0,Ameer Abdullah left tackle for 2 yards (tackle by Mike Hilton),0.39,-0.03,9.0,2024,128
+3.0,6:52,3.0,8.0,LVR 32,10.0,31.0,Gardner Minshew pass incomplete short left intended for Jakobi Meyers,-0.03,-1.24,9.0,2024,128
+3.0,6:47,4.0,8.0,LVR 32,10.0,31.0,"AJ Cole punts 58 yards, returned by Trenton Irwin for 8 yards (tackle by Jacob Bobenmoyer and Decamerion Richardson). Penalty on Tommy Eichenberg: Ineligible Downfield Kick, 5 yards (accepted)",-1.24,-0.48,9.0,2024,128
+3.0,6:36,1.0,10.0,CIN 23,10.0,31.0,Chase Brown right guard for 6 yards (tackle by Divine Deablo and Robert Spillane),0.48,0.74,9.0,2024,128
+3.0,6:03,2.0,4.0,CIN 29,10.0,31.0,Chase Brown right tackle for -1 yards (tackle by Robert Spillane and Jonah Laulu),0.74,-0.1,9.0,2024,128
+3.0,5:16,,,,,,Timeout #2 by Cincinnati Bengals,,,9.0,2024,128
+3.0,5:16,3.0,5.0,CIN 28,10.0,31.0,Joe Burrow pass incomplete short right intended for Ja'Marr Chase,-0.1,-1.5,9.0,2024,128
+3.0,5:12,4.0,5.0,CIN 28,10.0,31.0,"Ryan Rehkow punts 52 yards, returned by DJ Turner for 6 yards (tackle by Tanner Hudson)",-1.5,-0.67,9.0,2024,128
+3.0,5:02,1.0,10.0,LVR 26,10.0,31.0,Desmond Ridder pass complete short right to Brock Bowers for 1 yard (tackle by Logan Wilson),0.67,0.27,9.0,2024,128
+3.0,4:30,2.0,9.0,LVR 27,10.0,31.0,Desmond Ridder pass incomplete short right intended for Brock Bowers (defended by Trey Hendrickson),0.27,-0.43,9.0,2024,128
+3.0,4:29,3.0,9.0,LVR 27,10.0,31.0,Desmond Ridder pass incomplete short right intended for Tre Tucker,-0.43,-1.57,9.0,2024,128
+3.0,4:26,4.0,9.0,LVR 27,10.0,31.0,"Penalty on Amari Gainer: False Start, 5 yards (accepted) (no play)",-1.57,-1.9,9.0,2024,128
+3.0,4:26,4.0,14.0,LVR 22,10.0,31.0,"AJ Cole punts 62 yards, returned by Trenton Irwin for 13 yards (tackle by Tommy Eichenberg and Jacob Bobenmoyer)",-1.9,-0.87,9.0,2024,128
+3.0,4:15,1.0,10.0,CIN 29,10.0,31.0,Chase Brown right tackle for 6 yards (tackle by Robert Spillane and Jonah Laulu),0.87,1.14,9.0,2024,128
+3.0,3:30,2.0,4.0,CIN 35,10.0,31.0,Joe Burrow pass incomplete short left intended for Tanner Hudson,1.14,0.43,9.0,2024,128
+3.0,3:26,3.0,4.0,CIN 35,10.0,31.0,Joe Burrow pass complete short middle to Drew Sample for 5 yards (tackle by Darnay Holmes),0.43,1.6,9.0,2024,128
+3.0,2:42,1.0,10.0,CIN 40,10.0,31.0,Chase Brown right guard for 3 yards (tackle by John Jenkins and Maxx Crosby),1.6,1.46,9.0,2024,128
+3.0,1:56,2.0,7.0,CIN 43,10.0,31.0,Joe Burrow sacked by and Tre'von Moehrig for -8 yards and John Jenkins for -8 yards,1.46,-0.3,9.0,2024,128
+3.0,1:14,3.0,15.0,CIN 35,10.0,31.0,Joe Burrow pass incomplete short middle,-0.3,-1.04,9.0,2024,128
+3.0,1:13,4.0,15.0,CIN 35,10.0,31.0,"Ryan Rehkow punts 65 yards, touchback. CIN challenged the touchback ruling, and the play was upheld.",-1.04,-0.28,9.0,2024,128
+3.0,1:03,1.0,10.0,LVR 20,10.0,31.0,Desmond Ridder pass complete short left to Tre Tucker for -1 yards (tackle by Mike Hilton),0.28,-0.46,9.0,2024,128
+3.0,0:29,2.0,11.0,LVR 19,10.0,31.0,Alexander Mattison right guard for 1 yard (tackle by McKinnley Jackson and Mike Hilton),-0.46,-0.96,9.0,2024,128
+4.0,15:00,3.0,10.0,LVR 20,10.0,31.0,Desmond Ridder sacked by Trey Hendrickson for -5 yards,-0.96,-2.44,9.0,2024,128
+4.0,14:18,4.0,15.0,LVR 15,10.0,31.0,"AJ Cole punts 70 yards, returned by Trenton Irwin for 5 yards (tackle by Amari Gainer and Tommy Eichenberg)",-2.44,-0.28,9.0,2024,128
+4.0,14:06,1.0,10.0,CIN 20,10.0,31.0,Joe Burrow pass complete short middle to Mike Gesicki for 15 yards (tackle by Darnay Holmes),0.28,1.27,9.0,2024,128
+4.0,13:23,1.0,10.0,CIN 35,16.0,31.0,"Joe Burrow pass short right intended for Ja'Marr Chase is intercepted by Jack Jones at CIN-29 and returned for 29 yards, touchdown",1.27,-7.0,9.0,2024,128
+4.0,13:17,,,CIN 15,17.0,31.0,Daniel Carlson kicks extra point good,0.0,0.0,9.0,2024,128
+4.0,13:17,,,LVR 35,17.0,31.0,"Daniel Carlson kicks off 63 yards, returned by Kendric Pryor for 24 yards (tackle by Thomas Harper)",0.0,0.67,9.0,2024,128
+4.0,13:12,1.0,10.0,CIN 26,17.0,31.0,Chase Brown left guard for 3 yards (tackle by Tre'von Moehrig),0.67,0.54,9.0,2024,128
+4.0,12:35,2.0,7.0,CIN 29,17.0,31.0,Joe Burrow pass complete short left to Chase Brown for 4 yards (tackle by Isaiah Pola-Mao),0.54,0.37,9.0,2024,128
+4.0,11:49,3.0,3.0,CIN 33,17.0,31.0,Joe Burrow pass incomplete deep right intended for Andrei Iosivas (defended by Jack Jones),0.37,-1.18,9.0,2024,128
+4.0,11:45,4.0,3.0,CIN 33,17.0,31.0,"Ryan Rehkow punts 58 yards, returned by DJ Turner for 24 yards (tackle by Maema Njongmeta and Jordan Battle)",-1.18,-1.14,9.0,2024,128
+4.0,11:32,1.0,10.0,LVR 33,17.0,31.0,Desmond Ridder pass complete short right to Ameer Abdullah for 3 yards (tackle by Jordan Battle),1.14,1.0,9.0,2024,128
+4.0,11:04,2.0,7.0,LVR 36,17.0,31.0,Desmond Ridder pass complete short left to Ramel Keyton for 7 yards (tackle by DJ Turner),1.0,1.8,9.0,2024,128
+4.0,10:37,1.0,10.0,LVR 43,17.0,31.0,Desmond Ridder pass complete short right to Tre Tucker for 6 yards (tackle by Mike Hilton),1.8,2.06,9.0,2024,128
+4.0,10:16,2.0,4.0,LVR 49,17.0,31.0,Ameer Abdullah left guard for 3 yards (tackle by Mike Hilton),2.06,1.75,9.0,2024,128
+4.0,9:51,3.0,1.0,CIN 48,17.0,31.0,Ameer Abdullah up the middle for 1 yard (tackle by Jordan Battle and Sam Hubbard),1.75,2.46,9.0,2024,128
+4.0,9:22,1.0,10.0,CIN 47,17.0,31.0,Desmond Ridder pass complete short middle to Brock Bowers for 6 yards (tackle by Logan Wilson and Sam Hubbard),2.46,2.72,9.0,2024,128
+4.0,8:50,2.0,4.0,CIN 41,17.0,31.0,Desmond Ridder pass incomplete short left intended for Tre Tucker,2.72,2.01,9.0,2024,128
+4.0,8:50,3.0,4.0,CIN 41,17.0,31.0,Desmond Ridder pass complete short right to Jakobi Meyers for 7 yards (tackle by Logan Wilson),2.01,3.31,9.0,2024,128
+4.0,8:17,1.0,10.0,CIN 34,17.0,31.0,Desmond Ridder sacked by Kris Jenkins for -4 yards,3.31,2.23,9.0,2024,128
+4.0,7:57,2.0,14.0,CIN 38,17.0,31.0,Desmond Ridder pass complete short middle to Ameer Abdullah for 10 yards (tackle by Germaine Pratt and Logan Wilson),2.23,2.87,9.0,2024,128
+4.0,7:18,3.0,4.0,CIN 28,17.0,31.0,Desmond Ridder sacked by Trey Hendrickson for -8 yards,2.87,0.88,9.0,2024,128
+4.0,6:38,4.0,12.0,CIN 36,17.0,31.0,Desmond Ridder pass incomplete deep left intended for Jakobi Meyers,0.88,-1.33,9.0,2024,128
+4.0,6:36,1.0,10.0,CIN 36,17.0,31.0,Chase Brown right guard for 5 yards (tackle by Tommy Eichenberg),1.33,1.47,9.0,2024,128
+4.0,6:32,,,,,,Timeout #1 by Las Vegas Raiders,,,9.0,2024,128
+4.0,6:32,2.0,5.0,CIN 41,17.0,31.0,Chase Brown right tackle for 3 yards (tackle by Matthew Butler and Jonah Laulu),1.47,1.16,9.0,2024,128
+4.0,6:28,,,,,,Timeout #2 by Las Vegas Raiders,,,9.0,2024,128
+4.0,6:28,3.0,2.0,CIN 44,17.0,31.0,Joe Burrow pass incomplete deep right intended for Ja'Marr Chase (defended by Darnay Holmes),1.16,-0.46,9.0,2024,128
+4.0,6:24,4.0,2.0,CIN 44,17.0,31.0,"Penalty on Kana'i Mauga: Neutral Zone Infraction, 5 yards (accepted) (no play)",-0.46,2.19,9.0,2024,128
+4.0,6:24,1.0,10.0,CIN 49,17.0,31.0,Chase Brown right end for 2 yards (tackle by Jack Jones),2.19,1.92,9.0,2024,128
+4.0,5:47,2.0,8.0,LVR 49,17.0,31.0,Chase Brown right tackle for 2 yards (tackle by Divine Deablo),1.92,1.49,9.0,2024,128
+4.0,5:45,,,,,,Timeout #3 by Las Vegas Raiders,,,9.0,2024,128
+4.0,5:45,3.0,6.0,LVR 47,17.0,37.0,"Joe Burrow pass complete deep left to Mike Gesicki for 47 yards, touchdown",1.49,7.0,9.0,2024,128
+4.0,5:37,,,LVR 15,17.0,38.0,Evan McPherson kicks extra point good,0.0,0.0,9.0,2024,128
+4.0,5:37,,,CIN 35,17.0,38.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,128
+4.0,5:37,1.0,10.0,LVR 30,17.0,38.0,"Desmond Ridder sacked by Trey Hendrickson for -17 yards. Desmond Ridder fumbles (forced by Trey Hendrickson), recovered by Logan Wilson at LV-13",0.94,-4.71,9.0,2024,128
+4.0,5:29,1.0,10.0,LVR 13,17.0,38.0,Chase Brown left end for 6 yards (tackle by Tre'von Moehrig),4.71,5.15,9.0,2024,128
+4.0,4:49,2.0,4.0,LVR 7,17.0,38.0,Chase Brown right guard for 3 yards (tackle by Jack Jones),5.15,5.01,9.0,2024,128
+4.0,4:05,3.0,1.0,LVR 4,17.0,38.0,Joe Burrow pass complete short left to Tanner Hudson for 3 yards (tackle by Tre'von Moehrig),5.01,6.97,9.0,2024,128
+4.0,3:12,1.0,1.0,LVR 1,17.0,38.0,Chase Brown up the middle for no gain (tackle by Matthew Butler and Amari Burney),6.97,5.91,9.0,2024,128
+4.0,2:26,2.0,1.0,LVR 1,17.0,38.0,"Penalty on Joe Burrow: Delay of Game, 5 yards (accepted) (no play)",5.91,4.95,9.0,2024,128
+4.0,2:25,2.0,6.0,LVR 6,17.0,38.0,Chase Brown right guard for 2 yards (tackle by Adam Butler and Charles Snowden),4.95,4.49,9.0,2024,128
+4.0,2:00,3.0,4.0,LVR 4,17.0,38.0,Joe Burrow pass incomplete short left intended for Ja'Marr Chase (defended by Jakorian Bennett),4.49,3.03,9.0,2024,128
+4.0,1:57,4.0,4.0,LVR 4,17.0,38.0,"Penalty on CIN: Delay of Game, 5 yards (accepted) (no play)",3.03,2.83,9.0,2024,128
+4.0,1:57,4.0,9.0,LVR 9,17.0,41.0,Evan McPherson 27 yard field goal good,2.83,3.0,9.0,2024,128
+4.0,1:53,,,CIN 35,17.0,41.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,128
+4.0,1:53,1.0,10.0,LVR 30,17.0,41.0,Desmond Ridder pass incomplete short right intended for Ramel Keyton,0.94,0.39,9.0,2024,128
+4.0,1:49,2.0,10.0,LVR 30,17.0,41.0,Ameer Abdullah left guard for 6 yards (tackle by Maema Njongmeta),0.39,0.5,9.0,2024,128
+4.0,1:30,3.0,4.0,LVR 36,17.0,41.0,Desmond Ridder pass complete short left to Jakobi Meyers for 12 yards (tackle by DJ Ivey),0.5,2.13,9.0,2024,128
+4.0,1:25,1.0,10.0,LVR 48,17.0,41.0,Desmond Ridder pass complete short left to Ameer Abdullah for 1 yard (tackle by Maema Njongmeta),2.13,1.72,9.0,2024,128
+4.0,0:58,2.0,9.0,LVR 49,17.0,41.0,"Desmond Ridder pass incomplete deep right intended for Tre Tucker. Penalty on Josh Newton: Defensive Pass Interference, 27 yards (accepted) (no play)",1.72,3.97,9.0,2024,128
+4.0,0:55,1.0,10.0,CIN 24,17.0,41.0,Desmond Ridder scrambles left end for 2 yards (tackle by Joe Bachie),3.97,3.7,9.0,2024,128
+4.0,0:48,2.0,8.0,CIN 22,23.0,41.0,"Desmond Ridder pass complete deep right to Brock Bowers for 22 yards, touchdown",3.7,7.0,9.0,2024,128
+4.0,0:41,,,CIN 15,24.0,41.0,Daniel Carlson kicks extra point good,0.0,0.0,9.0,2024,128
+4.0,0:41,,,LVR 35,24.0,41.0,"Daniel Carlson kicks off 62 yards, returned by Kendric Pryor for 19 yards (tackle by Amari Burney)",0.0,0.41,9.0,2024,128
+4.0,0:36,1.0,10.0,CIN 22,24.0,41.0,Jake Browning kneels for -1 yards,0.41,-0.27,9.0,2024,128

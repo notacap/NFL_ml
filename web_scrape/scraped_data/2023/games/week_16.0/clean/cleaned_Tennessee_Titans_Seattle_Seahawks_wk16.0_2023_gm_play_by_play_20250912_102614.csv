@@ -1,0 +1,168 @@
+Quarter,Time,Down,ToGo,Location,SEA,TEN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Seahawks won the coin toss and deferred, Titans to receive the opening kickoff.",,,16.0,2023,233
+1.0,15:00,,,SEA 35,0.0,0.0,"Jason Myers kicks off 55 yards,",0.0,0.61,16.0,2023,233
+1.0,15:00,1.0,10.0,TEN 25,0.0,0.0,Ryan Tannehill pass incomplete short right intended for DeAndre Hopkins (defended by Quandre Diggs),0.61,0.06,16.0,2023,233
+1.0,14:55,2.0,10.0,TEN 25,0.0,0.0,Derrick Henry right end for 3 yards (tackle by Boye Mafe),0.06,-0.23,16.0,2023,233
+1.0,14:15,3.0,7.0,TEN 28,0.0,0.0,"Penalty on DeAndre Hopkins: False Start, 5 yards (accepted) (no play)",-0.23,-0.89,16.0,2023,233
+1.0,13:52,3.0,12.0,TEN 23,0.0,0.0,"Ryan Tannehill sacked by Jarran Reed for -8 yards. Ryan Tannehill fumbles (forced by Jarran Reed), recovered by Ryan Tannehill at TEN-15 (tackle by Leonard Williams)",-0.89,-2.44,16.0,2023,233
+1.0,13:07,4.0,20.0,TEN 15,0.0,0.0,"Ty Zentner punts 47 yards, fair catch by DeeJay Dallas at SEA-38",-2.44,-1.47,16.0,2023,233
+1.0,13:00,1.0,10.0,SEA 38,0.0,0.0,Kenneth Walker up the middle for 2 yards (tackle by Eric Garror and Marlon Davidson),1.47,1.19,16.0,2023,233
+1.0,12:32,2.0,8.0,SEA 40,0.0,0.0,Geno Smith pass complete short left to D.K. Metcalf for 7 yards (tackle by Tre Avery and Elijah Molden),1.19,1.42,16.0,2023,233
+1.0,11:52,3.0,1.0,SEA 47,0.0,0.0,DeeJay Dallas up the middle for 2 yards (tackle by Azeez Al-Shaair and Harold Landry),1.42,2.19,16.0,2023,233
+1.0,11:10,1.0,10.0,SEA 49,0.0,0.0,Geno Smith pass complete short left to Tyler Lockett for 3 yards (tackle by Roger McCreary),2.19,2.05,16.0,2023,233
+1.0,10:44,2.0,7.0,TEN 48,0.0,0.0,Geno Smith pass complete short left to Colby Parkinson for 7 yards (tackle by Tre Avery),2.05,2.85,16.0,2023,233
+1.0,10:07,1.0,10.0,TEN 41,0.0,0.0,Geno Smith pass incomplete short right intended for Kenneth Walker,2.85,2.31,16.0,2023,233
+1.0,10:03,2.0,10.0,TEN 41,0.0,0.0,"Geno Smith sacked by Arden Key for -6 yards. Geno Smith fumbles (forced by Arden Key), recovered by Geno Smith at TEN-47",2.31,0.83,16.0,2023,233
+1.0,9:21,3.0,16.0,TEN 47,0.0,0.0,"Geno Smith pass incomplete intended for Tyler Lockett. Penalty on Arden Key: Defensive Offside, 5 yards (accepted) (no play)",0.83,1.49,16.0,2023,233
+1.0,9:14,3.0,11.0,TEN 42,0.0,0.0,"Geno Smith pass incomplete short right intended for Jake Bobo (defended by Eric Garror) SEA challenged the pass completion ruling, and the play was upheld.",1.49,0.46,16.0,2023,233
+1.0,9:08,4.0,11.0,TEN 42,0.0,0.0,"Michael Dickson punts 29 yards, fair catch by Mason Kinsey at TEN-13",0.46,0.32,16.0,2023,233
+1.0,9:02,1.0,10.0,TEN 13,0.0,0.0,Derrick Henry up the middle for 6 yards (tackle by Devin Bush),-0.32,0.03,16.0,2023,233
+1.0,8:26,2.0,4.0,TEN 19,0.0,0.0,Derrick Henry right end for 6 yards (tackle by Boye Mafe),0.03,0.61,16.0,2023,233
+1.0,7:50,1.0,10.0,TEN 25,0.0,0.0,Ryan Tannehill pass incomplete short right intended for Chigoziem Okonkwo (defended by Boye Mafe),0.61,0.06,16.0,2023,233
+1.0,7:46,2.0,10.0,TEN 25,0.0,0.0,Ryan Tannehill pass complete short left to Tyjae Spears for 1 yard (tackle by Riq Woolen),0.06,-0.49,16.0,2023,233
+1.0,7:08,3.0,9.0,TEN 26,0.0,0.0,Ryan Tannehill pass complete short middle to Chigoziem Okonkwo for 14 yards (tackle by Quandre Diggs and Coby Bryant),-0.49,1.6,16.0,2023,233
+1.0,6:21,1.0,10.0,TEN 40,0.0,0.0,Derrick Henry right end for 12 yards (tackle by Quandre Diggs and Artie Burns),1.6,2.39,16.0,2023,233
+1.0,5:34,1.0,10.0,SEA 48,0.0,0.0,Ryan Tannehill pass incomplete short right intended for Chris Moore (defended by Julian Love),2.39,1.85,16.0,2023,233
+1.0,5:27,2.0,10.0,SEA 48,0.0,0.0,Ryan Tannehill pass incomplete short left intended for Tyjae Spears,1.85,1.16,16.0,2023,233
+1.0,5:24,3.0,10.0,SEA 48,0.0,0.0,Ryan Tannehill pass complete short right to Mason Kinsey for 6 yards (tackle by Julian Love),1.16,0.46,16.0,2023,233
+1.0,4:43,4.0,5.0,SEA 42,0.0,0.0,Ty Zentner punts 36 yards downed by Anthony Kendall,0.46,0.38,16.0,2023,233
+1.0,4:35,1.0,10.0,SEA 6,0.0,0.0,Kenneth Walker left end for -2 yards (tackle by Azeez Al-Shaair),-0.38,-0.93,16.0,2023,233
+1.0,4:04,2.0,12.0,SEA 4,0.0,0.0,Kenneth Walker up the middle for 1 yard (tackle by Azeez Al-Shaair and Otis Reese),-0.93,-1.54,16.0,2023,233
+1.0,3:22,3.0,11.0,SEA 5,0.0,0.0,Geno Smith sacked by and Denico Autry for no gain and Terrell Edmunds for no gain,-1.54,-2.49,16.0,2023,233
+1.0,2:37,4.0,11.0,SEA 5,0.0,0.0,"Michael Dickson punts 63 yards, returned by Mason Kinsey for 11 yards (tackle by Brady Russell)",-2.49,-1.8,16.0,2023,233
+1.0,2:24,1.0,10.0,TEN 43,0.0,0.0,"Ryan Tannehill pass incomplete intended for Treylon Burks. Penalty on Quandre Diggs: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",1.8,2.79,16.0,2023,233
+1.0,2:19,1.0,10.0,SEA 42,0.0,0.0,Ryan Tannehill pass incomplete short right,2.79,2.24,16.0,2023,233
+1.0,2:11,2.0,10.0,SEA 42,0.0,0.0,Derrick Henry right tackle for 8 yards (tackle by Devin Bush),2.24,2.61,16.0,2023,233
+1.0,1:26,3.0,2.0,SEA 34,0.0,0.0,Tyjae Spears right guard for 7 yards (tackle by Artie Burns),2.61,3.78,16.0,2023,233
+1.0,0:45,1.0,10.0,SEA 27,0.0,0.0,Tyjae Spears right end for 2 yards (tackle by Tre Brown and Leonard Williams),3.78,3.5,16.0,2023,233
+2.0,15:00,2.0,8.0,SEA 25,0.0,0.0,Ryan Tannehill pass complete short left to DeAndre Hopkins for 13 yards (tackle by Riq Woolen),3.5,4.78,16.0,2023,233
+2.0,14:18,1.0,10.0,SEA 12,0.0,6.0,"Derrick Henry pass complete short right to Chigoziem Okonkwo for 12 yards, touchdown",4.78,7.0,16.0,2023,233
+2.0,14:14,,,SEA 15,0.0,7.0,Nick Folk kicks extra point good,0.0,0.0,16.0,2023,233
+2.0,14:14,,,TEN 35,0.0,7.0,"Nick Folk kicks off 59 yards, returned by DeeJay Dallas for 24 yards (tackle by Jonathan Ward)",0.0,0.94,16.0,2023,233
+2.0,14:10,1.0,10.0,SEA 30,0.0,7.0,Kenneth Walker right end for 24 yards (tackle by Mike Brown),0.94,2.52,16.0,2023,233
+2.0,13:33,1.0,10.0,TEN 46,0.0,7.0,Kenneth Walker right guard for 4 yards (tackle by Garret Wallow),2.52,2.52,16.0,2023,233
+2.0,13:03,2.0,6.0,TEN 42,0.0,7.0,Geno Smith pass complete short left to D.K. Metcalf for 26 yards (tackle by Roger McCreary and Mike Brown),2.52,4.51,16.0,2023,233
+2.0,12:14,,,,,,Timeout #2 by Seattle Seahawks,,,16.0,2023,233
+2.0,12:14,1.0,10.0,TEN 16,0.0,7.0,Kenneth Walker up the middle for 1 yard (tackle by Azeez Al-Shaair and Denico Autry),4.51,4.05,16.0,2023,233
+2.0,11:33,2.0,9.0,TEN 15,0.0,7.0,Geno Smith pass complete short right to Colby Parkinson for 5 yards,4.05,4.17,16.0,2023,233
+2.0,10:56,3.0,4.0,TEN 10,0.0,7.0,Geno Smith pass incomplete short left intended for Jaxon Smith-Njigba,4.17,2.84,16.0,2023,233
+2.0,10:52,4.0,4.0,TEN 10,3.0,7.0,Jason Myers 28 yard field goal good,2.84,3.0,16.0,2023,233
+2.0,10:48,,,SEA 35,3.0,7.0,"Jason Myers kicks off 59 yards,",0.0,0.61,16.0,2023,233
+2.0,10:48,1.0,10.0,TEN 25,3.0,7.0,Ryan Tannehill pass complete short middle to Chigoziem Okonkwo for 13 yards (tackle by Artie Burns),0.61,1.47,16.0,2023,233
+2.0,10:09,1.0,10.0,TEN 38,3.0,7.0,Derrick Henry right guard for 7 yards (tackle by Julian Love),1.47,1.87,16.0,2023,233
+2.0,9:23,2.0,3.0,TEN 45,3.0,7.0,Derrick Henry left end for 5 yards (tackle by Bobby Wagner),1.87,2.26,16.0,2023,233
+2.0,8:37,1.0,10.0,TEN 50,3.0,7.0,Ryan Tannehill pass incomplete short right intended for DeAndre Hopkins,2.26,1.71,16.0,2023,233
+2.0,8:31,2.0,10.0,TEN 50,3.0,7.0,Derrick Henry up the middle for 11 yards (tackle by Bobby Wagner and Quandre Diggs),1.71,2.98,16.0,2023,233
+2.0,7:48,1.0,10.0,SEA 39,3.0,7.0,Tyjae Spears left guard for 1 yard (tackle by Leonard Williams),2.98,2.58,16.0,2023,233
+2.0,7:06,2.0,9.0,SEA 38,3.0,7.0,Ryan Tannehill pass complete short middle to Tyjae Spears for 3 yards (tackle by Devin Bush),2.58,2.28,16.0,2023,233
+2.0,6:20,,,,,,Timeout #1 by Tennessee Titans,,,16.0,2023,233
+2.0,6:20,3.0,6.0,SEA 35,3.0,7.0,"Penalty on TEN: Delay of Game, 5 yards (accepted) (no play)",2.28,1.62,16.0,2023,233
+2.0,6:20,3.0,11.0,SEA 40,3.0,7.0,Ryan Tannehill scrambles left end for 23 yards (tackle by Michael Jackson),1.62,4.44,16.0,2023,233
+2.0,5:30,1.0,10.0,SEA 17,3.0,7.0,Treylon Burks right end for -3 yards (tackle by Artie Burns),4.44,3.49,16.0,2023,233
+2.0,4:48,2.0,13.0,SEA 20,3.0,7.0,Ryan Tannehill sacked by Mario Edwards for -6 yards,3.49,2.02,16.0,2023,233
+2.0,4:03,3.0,19.0,SEA 26,3.0,7.0,Tyjae Spears right guard for 11 yards (tackle by Michael Jackson and Coby Bryant),2.02,2.44,16.0,2023,233
+2.0,3:22,4.0,8.0,SEA 15,3.0,10.0,Nick Folk 33 yard field goal good,2.44,3.0,16.0,2023,233
+2.0,3:18,,,TEN 35,3.0,10.0,"Ty Zentner kicks off 62 yards, returned by DeeJay Dallas for 20 yards (tackle by Caleb Murphy)",0.0,0.48,16.0,2023,233
+2.0,3:13,1.0,10.0,SEA 23,3.0,10.0,Geno Smith pass complete short right to Tyler Lockett for 2 yards (tackle by Roger McCreary),0.48,0.2,16.0,2023,233
+2.0,2:50,2.0,8.0,SEA 25,3.0,10.0,Kenneth Walker up the middle for -2 yards (tackle by Harold Landry),0.2,-0.76,16.0,2023,233
+2.0,2:10,3.0,10.0,SEA 23,3.0,10.0,Geno Smith pass complete short right to Tyler Lockett for 9 yards (tackle by Tre Avery),-0.76,0.0,16.0,2023,233
+2.0,2:10,,,SEA 32,3.0,10.0,"Penalty on Mike Brown: Roughing the Passer, 15 yards (accepted) (no play)",0.0,2.06,16.0,2023,233
+2.0,2:00,1.0,10.0,SEA 47,3.0,10.0,Geno Smith pass complete short left to Jaxon Smith-Njigba for 6 yards (tackle by Arden Key),2.06,2.33,16.0,2023,233
+2.0,1:37,2.0,4.0,TEN 47,3.0,10.0,Geno Smith pass incomplete deep right intended for Tyler Lockett,2.33,1.62,16.0,2023,233
+2.0,1:30,3.0,4.0,TEN 47,3.0,10.0,Geno Smith pass complete short middle to Jake Bobo for 8 yards (tackle by Roger McCreary and Azeez Al-Shaair),1.62,2.98,16.0,2023,233
+2.0,1:09,1.0,10.0,TEN 39,3.0,10.0,Geno Smith pass incomplete short left intended for Tyler Lockett,2.98,2.44,16.0,2023,233
+2.0,1:05,2.0,10.0,TEN 39,3.0,10.0,Geno Smith pass incomplete short right intended for Zach Charbonnet,2.44,1.75,16.0,2023,233
+2.0,1:00,3.0,10.0,TEN 39,3.0,10.0,Geno Smith pass complete short left to Zach Charbonnet for -4 yards (tackle by Azeez Al-Shaair),1.75,0.4,16.0,2023,233
+2.0,0:54,4.0,14.0,TEN 43,3.0,10.0,"Penalty on SEA: Delay of Game, 5 yards (accepted) (no play)",0.4,0.07,16.0,2023,233
+2.0,0:54,4.0,19.0,TEN 48,3.0,10.0,"Michael Dickson punts 42 yards, fair catch by Mason Kinsey at TEN-6",0.07,0.38,16.0,2023,233
+2.0,0:48,1.0,10.0,TEN 6,3.0,10.0,Ryan Tannehill pass complete short right to DeAndre Hopkins for 7 yards (tackle by Michael Jackson),-0.38,-0.27,16.0,2023,233
+2.0,0:44,2.0,3.0,TEN 13,3.0,10.0,Ryan Tannehill scrambles right guard for 14 yards (tackle by Coby Bryant),-0.27,0.74,16.0,2023,233
+2.0,0:35,,,,,,Timeout #2 by Tennessee Titans,,,16.0,2023,233
+2.0,0:35,1.0,10.0,TEN 27,3.0,10.0,Ryan Tannehill pass complete short left to Chigoziem Okonkwo for 2 yards (tackle by Artie Burns),0.74,0.47,16.0,2023,233
+2.0,0:30,,,,,,Timeout #3 by Tennessee Titans,,,16.0,2023,233
+2.0,0:30,2.0,8.0,TEN 29,3.0,10.0,Ryan Tannehill pass complete short middle to Chigoziem Okonkwo for 5 yards (tackle by Bobby Wagner),0.47,0.43,16.0,2023,233
+2.0,0:07,3.0,3.0,TEN 34,3.0,10.0,Ryan Tannehill sacked by Boye Mafe for -5 yards,0.43,-1.44,16.0,2023,233
+3.0,15:00,,,TEN 35,3.0,10.0,"Ty Zentner kicks off 65 yards, returned by DeeJay Dallas for 30 yards (tackle by Otis Reese). Penalty on Garret Wallow: Unnecessary Roughness / Defense, 15 yards (accepted)",0.0,1.93,16.0,2023,233
+3.0,14:54,1.0,10.0,SEA 45,3.0,10.0,Kenneth Walker right tackle for 11 yards (tackle by Elijah Molden),1.93,2.65,16.0,2023,233
+3.0,14:19,1.0,10.0,TEN 44,3.0,10.0,Kenneth Walker up the middle for -2 yards (tackle by Arden Key and Denico Autry),2.65,1.84,16.0,2023,233
+3.0,13:32,2.0,12.0,TEN 46,3.0,10.0,Geno Smith pass complete short right to Will Dissly for 6 yards (tackle by Azeez Al-Shaair and Roger McCreary),1.84,1.95,16.0,2023,233
+3.0,12:44,3.0,6.0,TEN 40,3.0,10.0,Geno Smith pass complete short left to Jaxon Smith-Njigba for 10 yards (tackle by Eric Garror),1.95,3.58,16.0,2023,233
+3.0,12:01,1.0,10.0,TEN 30,3.0,10.0,Kenneth Walker right tackle for no gain (tackle by Mike Brown),3.58,3.03,16.0,2023,233
+3.0,11:22,2.0,10.0,TEN 30,3.0,10.0,Geno Smith pass complete deep right to Tyler Lockett for 19 yards,3.03,4.84,16.0,2023,233
+3.0,10:49,1.0,10.0,TEN 11,3.0,10.0,Geno Smith up the middle for 2 yards (tackle by Arden Key and Keondre Coburn),4.84,4.51,16.0,2023,233
+3.0,10:07,2.0,8.0,TEN 9,3.0,10.0,Geno Smith pass incomplete short left intended for Colby Parkinson,4.51,3.53,16.0,2023,233
+3.0,10:01,3.0,8.0,TEN 9,3.0,10.0,Geno Smith pass incomplete short middle intended for D.K. Metcalf (defended by Terrell Edmunds),3.53,2.83,16.0,2023,233
+3.0,9:57,4.0,8.0,TEN 9,6.0,10.0,Jason Myers 27 yard field goal good,2.83,3.0,16.0,2023,233
+3.0,9:53,,,SEA 35,6.0,10.0,"Jason Myers kicks off 65 yards, returned by Chris Moore for 26 yards (tackle by Kelvin Joseph)",0.0,0.67,16.0,2023,233
+3.0,9:48,1.0,10.0,TEN 26,6.0,10.0,Derrick Henry up the middle for 7 yards (tackle by Jarran Reed),0.67,1.07,16.0,2023,233
+3.0,9:07,2.0,3.0,TEN 33,6.0,10.0,Derrick Henry up the middle for 2 yards (tackle by Boye Mafe and Artie Burns),1.07,0.63,16.0,2023,233
+3.0,8:27,3.0,1.0,TEN 35,6.0,10.0,Tyjae Spears up the middle for 9 yards (tackle by Devin Bush),0.63,1.86,16.0,2023,233
+3.0,7:44,1.0,10.0,TEN 44,6.0,10.0,"Penalty on Andrew Rupcich: False Start, 5 yards (accepted) (no play)",1.86,1.53,16.0,2023,233
+3.0,7:22,1.0,15.0,TEN 39,6.0,10.0,Tyjae Spears left guard for 7 yards (tackle by Leonard Williams),1.53,1.59,16.0,2023,233
+3.0,6:39,2.0,8.0,TEN 46,6.0,10.0,Derrick Henry right end for 1 yard (tackle by Bobby Wagner and Michael Jackson),1.59,1.03,16.0,2023,233
+3.0,5:56,3.0,7.0,TEN 47,6.0,10.0,Ryan Tannehill pass complete short right to Chris Moore for 9 yards,1.03,2.65,16.0,2023,233
+3.0,5:20,1.0,10.0,SEA 44,6.0,10.0,Derrick Henry left tackle for -1 yards (tackle by Devin Bush and Leonard Williams),2.65,1.98,16.0,2023,233
+3.0,4:38,2.0,11.0,SEA 45,6.0,10.0,Derrick Henry left guard for 3 yards (tackle by Mario Edwards and Cameron Young),1.98,1.69,16.0,2023,233
+3.0,3:55,3.0,8.0,SEA 42,6.0,10.0,Ryan Tannehill pass incomplete short right intended for Treylon Burks (defended by Riq Woolen),1.69,0.46,16.0,2023,233
+3.0,3:50,4.0,8.0,SEA 42,6.0,10.0,"Ty Zentner punts 34 yards, fair catch by DeeJay Dallas at SEA-8. Penalty on DeeJay Dallas: Unsportsmanlike Conduct / Defense, 4 yards (accepted)",0.46,0.38,16.0,2023,233
+3.0,3:43,1.0,10.0,SEA 4,6.0,10.0,Geno Smith pass complete short right to Jaxon Smith-Njigba for 20 yards (tackle by Elijah Molden),-0.38,0.54,16.0,2023,233
+3.0,2:56,1.0,10.0,SEA 24,6.0,10.0,"Penalty on Noah Fant: False Start, 5 yards (accepted) (no play)",0.54,0.13,16.0,2023,233
+3.0,2:31,1.0,15.0,SEA 19,6.0,10.0,Kenneth Walker right tackle for 1 yard (tackle by Otis Reese),0.13,-0.54,16.0,2023,233
+3.0,1:58,2.0,14.0,SEA 20,6.0,10.0,"Geno Smith pass complete to Jake Bobo for no gain. Penalty on Azeez Al-Shaair: Illegal Contact, 5 yards (accepted) (no play)",-0.54,0.61,16.0,2023,233
+3.0,1:28,1.0,10.0,SEA 25,6.0,10.0,Kenneth Walker right guard for 2 yards (tackle by Quinton Bohanna),0.61,0.33,16.0,2023,233
+3.0,1:18,2.0,8.0,SEA 27,6.0,10.0,"Penalty on Jaleel Johnson: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",0.33,1.73,16.0,2023,233
+3.0,0:59,1.0,10.0,SEA 42,6.0,10.0,Kenneth Walker right end for 6 yards (tackle by Elijah Molden),1.73,2.0,16.0,2023,233
+3.0,0:22,2.0,4.0,SEA 48,6.0,10.0,Geno Smith pass complete deep right to Tyler Lockett for 21 yards (tackle by Tre Avery),2.0,3.51,16.0,2023,233
+4.0,15:00,1.0,10.0,TEN 31,6.0,10.0,Kenneth Walker left guard for 5 yards (tackle by Roger McCreary),3.51,3.64,16.0,2023,233
+4.0,14:22,2.0,5.0,TEN 26,6.0,10.0,Geno Smith pass complete short right to Kenneth Walker for 2 yards (tackle by Otis Reese),3.64,3.2,16.0,2023,233
+4.0,13:35,3.0,3.0,TEN 24,6.0,10.0,Geno Smith pass complete short right to D.K. Metcalf for 12 yards (tackle by Tre Avery and Elijah Molden),3.2,4.78,16.0,2023,233
+4.0,12:55,1.0,10.0,TEN 12,6.0,10.0,Kenneth Walker left end for 1 yard (tackle by Roger McCreary),4.78,4.27,16.0,2023,233
+4.0,12:15,2.0,9.0,TEN 11,12.0,10.0,"Geno Smith pass incomplete intended for D.K. Metcalf SEA challenged the pass completion ruling, and the original play was overturned. Geno Smith pass complete short left to D.K. Metcalf for 11 yards, touchdown",4.27,7.0,16.0,2023,233
+4.0,12:10,,,TEN 15,13.0,10.0,Jason Myers kicks extra point good,0.0,0.0,16.0,2023,233
+4.0,12:10,,,SEA 35,13.0,10.0,"Jason Myers kicks off 64 yards,",0.0,0.61,16.0,2023,233
+4.0,12:10,1.0,10.0,TEN 25,13.0,10.0,Ryan Tannehill sacked by Bobby Wagner for -6 yards,0.61,-0.81,16.0,2023,233
+4.0,11:26,2.0,16.0,TEN 19,13.0,10.0,Ryan Tannehill pass complete short right to Tyjae Spears for 13 yards (tackle by Julian Love),-0.81,0.3,16.0,2023,233
+4.0,10:42,3.0,3.0,TEN 32,13.0,10.0,Ryan Tannehill pass complete short right to Tyjae Spears for 4 yards (tackle by Coby Bryant),0.3,1.33,16.0,2023,233
+4.0,10:03,1.0,10.0,TEN 36,13.0,10.0,Derrick Henry up the middle for 4 yards (tackle by Artie Burns),1.33,1.33,16.0,2023,233
+4.0,9:18,2.0,6.0,TEN 40,13.0,10.0,"Ryan Tannehill pass incomplete intended for Treylon Burks TEN challenged the pass completion ruling, and the original play was overturned. Ryan Tannehill pass complete short right to Treylon Burks for 13 yards (tackle by Boye Mafe)",1.33,2.46,16.0,2023,233
+4.0,9:06,1.0,10.0,SEA 47,13.0,10.0,Ryan Tannehill pass complete short left to Derrick Henry for 11 yards (tackle by Bobby Wagner),2.46,3.18,16.0,2023,233
+4.0,8:22,1.0,10.0,SEA 36,13.0,10.0,Derrick Henry left guard for 9 yards (tackle by Bobby Wagner),3.18,3.85,16.0,2023,233
+4.0,7:37,2.0,1.0,SEA 27,13.0,10.0,Derrick Henry right end for -3 yards (tackle by Bobby Wagner),3.85,2.74,16.0,2023,233
+4.0,6:56,3.0,4.0,SEA 30,13.0,10.0,Tyjae Spears up the middle for 3 yards (tackle by Quandre Diggs),2.74,1.82,16.0,2023,233
+4.0,6:26,4.0,1.0,SEA 27,13.0,10.0,Tyjae Spears up the middle for 2 yards (tackle by Dre'Mont Jones and Bobby Wagner),1.82,3.91,16.0,2023,233
+4.0,5:39,1.0,10.0,SEA 25,13.0,10.0,Tyjae Spears right end for -2 yards (tackle by Derick Hall),3.91,3.09,16.0,2023,233
+4.0,5:00,2.0,12.0,SEA 27,13.0,10.0,"Penalty on Andre Dillard: False Start, 5 yards (accepted) (no play)",3.09,2.42,16.0,2023,233
+4.0,5:00,2.0,17.0,SEA 32,13.0,10.0,Ryan Tannehill pass complete short right to Tyjae Spears for 6 yards (tackle by Derick Hall and Bobby Wagner),2.42,2.54,16.0,2023,233
+4.0,4:18,3.0,11.0,SEA 26,13.0,10.0,"Ryan Tannehill pass incomplete intended for DeAndre Hopkins. Penalty on Tre Brown: Defensive Pass Interference, 15 yards (accepted) (no play)",2.54,4.84,16.0,2023,233
+4.0,4:13,1.0,10.0,SEA 11,13.0,10.0,Derrick Henry left end for 6 yards (tackle by Devin Bush and Quandre Diggs),4.84,5.28,16.0,2023,233
+4.0,3:31,2.0,4.0,SEA 5,13.0,10.0,Derrick Henry left guard for no gain (tackle by Dre'Mont Jones),5.28,4.44,16.0,2023,233
+4.0,3:25,3.0,4.0,SEA 5,13.0,10.0,"Penalty on Artie Burns: Unnecessary Roughness / Defense, 3 yards (accepted) (no play)",4.44,6.74,16.0,2023,233
+4.0,3:25,1.0,2.0,SEA 2,13.0,16.0,"Derrick Henry up the middle for 2 yards, touchdown",6.74,7.0,16.0,2023,233
+4.0,3:21,,,SEA 15,13.0,17.0,Nick Folk kicks extra point good,0.0,0.0,16.0,2023,233
+4.0,3:21,,,TEN 35,13.0,17.0,"Ty Zentner kicks off 65 yards, touchback.",0.0,0.61,16.0,2023,233
+4.0,3:21,1.0,10.0,SEA 25,13.0,17.0,Geno Smith pass complete short left to Jaxon Smith-Njigba for 4 yards (tackle by Tre Avery),0.61,0.6,16.0,2023,233
+4.0,2:57,2.0,6.0,SEA 29,13.0,17.0,Geno Smith pass incomplete short left intended for D.K. Metcalf,0.6,-0.1,16.0,2023,233
+4.0,2:53,3.0,6.0,SEA 29,13.0,17.0,Geno Smith pass complete short left to Tyler Lockett for 7 yards,-0.1,1.33,16.0,2023,233
+4.0,2:49,1.0,10.0,SEA 36,13.0,17.0,Kenneth Walker up the middle for 2 yards (tackle by Harold Landry and Denico Autry),1.33,1.06,16.0,2023,233
+4.0,2:28,2.0,8.0,SEA 38,13.0,17.0,Geno Smith sacked by Harold Landry for -6 yards,1.06,-0.43,16.0,2023,233
+4.0,2:00,3.0,14.0,SEA 32,13.0,17.0,"Geno Smith pass complete short middle to Jaxon Smith-Njigba for 18 yards (tackle by Mike Brown). Penalty on Tre Avery: Defensive Holding, 5 yards (declined)",-0.43,2.26,16.0,2023,233
+4.0,1:53,1.0,10.0,SEA 50,13.0,17.0,Geno Smith pass incomplete short left intended for Tyler Lockett,2.26,1.71,16.0,2023,233
+4.0,1:49,2.0,10.0,SEA 50,13.0,17.0,"Geno Smith pass complete short left to Tyler Lockett for 12 yards Replay Assistant challenged the pass completion ruling, and the play was upheld.",1.71,3.05,16.0,2023,233
+4.0,1:43,1.0,10.0,TEN 38,13.0,17.0,Geno Smith pass complete short middle to Jaxon Smith-Njigba for 3 yards (tackle by Azeez Al-Shaair),3.05,2.91,16.0,2023,233
+4.0,1:24,2.0,7.0,TEN 35,13.0,17.0,Geno Smith pass complete short right to Tyler Lockett for 8 yards,2.91,3.78,16.0,2023,233
+4.0,1:19,1.0,10.0,TEN 27,13.0,17.0,Geno Smith pass incomplete short left intended for Jake Bobo,3.78,3.23,16.0,2023,233
+4.0,1:14,2.0,10.0,TEN 27,13.0,17.0,"Geno Smith pass incomplete intended for D.K. Metcalf. Penalty on Tre Avery: Defensive Pass Interference, 22 yards (accepted) (no play)",3.23,6.06,16.0,2023,233
+4.0,1:09,1.0,5.0,TEN 5,13.0,17.0,Zach Charbonnet up the middle for 3 yards (tackle by Jaleel Johnson and Elijah Molden),6.06,5.72,16.0,2023,233
+4.0,1:04,,,,,,Timeout #1 by Tennessee Titans,,,16.0,2023,233
+4.0,1:04,2.0,2.0,TEN 2,13.0,17.0,Zach Charbonnet up the middle for -3 yards (tackle by Marlon Davidson),5.72,4.26,16.0,2023,233
+4.0,1:00,,,,,,Timeout #2 by Tennessee Titans,,,16.0,2023,233
+4.0,1:00,3.0,5.0,TEN 5,19.0,17.0,"Geno Smith pass complete short left to Colby Parkinson for 5 yards, touchdown",4.26,7.0,16.0,2023,233
+4.0,0:57,,,TEN 15,20.0,17.0,Jason Myers kicks extra point good,0.0,0.0,16.0,2023,233
+4.0,0:57,,,SEA 35,20.0,17.0,"Jason Myers kicks off 64 yards,",0.0,0.61,16.0,2023,233
+4.0,0:57,1.0,10.0,TEN 25,20.0,17.0,Ryan Tannehill sacked by Boye Mafe for -4 yards,0.61,-0.48,16.0,2023,233
+4.0,0:50,,,,,,Timeout #3 by Tennessee Titans,,,16.0,2023,233
+4.0,0:50,2.0,14.0,TEN 21,20.0,17.0,Ryan Tannehill pass complete short middle to Chigoziem Okonkwo for 17 yards (tackle by Artie Burns and Bobby Wagner),-0.48,1.47,16.0,2023,233
+4.0,0:36,1.0,10.0,TEN 38,20.0,17.0,Ryan Tannehill spiked the ball,1.47,0.92,16.0,2023,233
+4.0,0:35,2.0,10.0,TEN 38,20.0,17.0,Ryan Tannehill pass complete short middle to Treylon Burks for 12 yards (tackle by Riq Woolen),0.92,2.26,16.0,2023,233
+4.0,0:29,1.0,10.0,TEN 50,20.0,17.0,Ryan Tannehill sacked by Dre'Mont Jones for -10 yards,2.26,0.36,16.0,2023,233
+4.0,0:09,2.0,20.0,TEN 40,20.0,17.0,Ryan Tannehill pass complete short left to Colton Dowell for 3 yards (tackle by Riq Woolen),0.36,0.1,16.0,2023,233

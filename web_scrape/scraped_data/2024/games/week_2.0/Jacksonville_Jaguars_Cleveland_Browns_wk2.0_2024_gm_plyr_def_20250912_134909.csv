@@ -1,0 +1,44 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Unnamed: 7_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Fumbles,Fumbles,Fumbles,Fumbles,week,year,game_id
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF,,,
+Myles Garrett,CLE,0,0,0,0,0,1.0,3,3,0,1,1,0,0,0,1,2.0,2024,19
+Jordan Hicks,CLE,0,0,0,0,2,1.0,3,3,0,1,2,0,0,0,0,2.0,2024,19
+Alex Wright,CLE,0,0,0,0,0,1.0,3,2,1,1,1,0,0,0,0,2.0,2024,19
+Quinton Jefferson,CLE,0,0,0,0,0,1.0,1,1,0,1,1,0,0,0,0,2.0,2024,19
+Jeremiah Owusu-Koramoah,CLE,0,0,0,0,0,0.0,7,6,1,2,0,0,0,0,0,2.0,2024,19
+Grant Delpit,CLE,0,0,0,0,0,0.0,6,5,1,2,0,0,0,0,0,2.0,2024,19
+Martin Emerson,CLE,0,0,0,0,1,0.0,3,1,2,0,0,0,0,0,0,2.0,2024,19
+Ronnie Hickman,CLE,0,0,0,0,1,0.0,3,3,0,0,0,0,0,0,0,2.0,2024,19
+Rodney McLeod,CLE,0,0,0,0,0,0.0,3,2,1,0,0,0,0,0,0,2.0,2024,19
+Cameron Mitchell,CLE,0,0,0,0,0,0.0,3,3,0,1,0,0,0,0,0,2.0,2024,19
+Greg Newsome II,CLE,0,0,0,0,0,0.0,3,3,0,0,0,0,0,0,0,2.0,2024,19
+Sam Kamara,CLE,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,2.0,2024,19
+Dalvin Tomlinson,CLE,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,2.0,2024,19
+Mike Ford,CLE,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2024,19
+Khaleke Hudson,CLE,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2024,19
+Denzel Ward,CLE,0,0,0,0,1,0.0,1,1,0,0,0,0,0,0,0,2.0,2024,19
+D'Onta Foreman,CLE,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,0,2.0,2024,19
+Shelby Harris,CLE,0,0,0,0,0,0.0,0,0,0,0,1,0,0,0,0,2.0,2024,19
+Ogbonnia Okoronkwo,CLE,0,0,0,0,0,0.0,0,0,0,0,1,0,0,0,0,2.0,2024,19
+Foyesade Oluokun,JAX,0,0,0,0,0,1.0,8,2,6,1,1,0,0,0,0,2.0,2024,19
+Josh Hines-Allen,JAX,0,0,0,0,1,1.0,4,3,1,1,4,0,0,0,0,2.0,2024,19
+Montaric Brown,JAX,0,0,0,0,0,0.0,11,11,0,2,0,0,0,0,0,2.0,2024,19
+Devin Lloyd,JAX,0,0,0,0,2,0.0,8,5,3,0,1,0,0,0,1,2.0,2024,19
+Andre Cisco,JAX,0,0,0,0,0,0.0,5,3,2,0,0,0,0,0,0,2.0,2024,19
+Antonio Johnson,JAX,0,0,0,0,0,0.0,5,5,0,0,0,0,0,0,0,2.0,2024,19
+Jarrian Jones,JAX,0,0,0,0,0,0.0,3,3,0,0,0,0,0,0,0,2.0,2024,19
+Jeremiah Ledbetter,JAX,0,0,0,0,0,0.0,3,1,2,0,0,0,0,0,0,2.0,2024,19
+Roy Robertson-Harris,JAX,0,0,0,0,0,0.0,3,2,1,1,0,0,0,0,0,2.0,2024,19
+Arik Armstead,JAX,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,2.0,2024,19
+Tre Flowers,JAX,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,2.0,2024,19
+DaVon Hamilton,JAX,0,0,0,0,0,0.0,2,2,0,0,1,0,0,0,0,2.0,2024,19
+Ventrell Miller,JAX,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,2.0,2024,19
+Esezi Otomewo,JAX,0,0,0,0,0,0.0,2,0,2,0,0,0,0,0,0,2.0,2024,19
+Travon Walker,JAX,0,0,0,0,0,0.0,2,1,1,0,1,0,0,0,0,2.0,2024,19
+Yasir Abdullah,JAX,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2024,19
+Myles Cole,JAX,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2024,19
+Ronald Darby,JAX,0,0,0,0,1,0.0,1,1,0,1,0,0,0,0,0,2.0,2024,19
+Caleb Johnson,JAX,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2024,19
+D'Ernest Johnson,JAX,0,0,0,0,0,0.0,1,0,1,0,0,1,0,0,0,2.0,2024,19
+Chad Muma,JAX,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,2.0,2024,19
+Deantre Prince,JAX,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,2.0,2024,19
+Daniel Thomas,JAX,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2024,19

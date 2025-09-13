@@ -1,0 +1,176 @@
+Quarter,Time,Down,ToGo,Location,TAM,DAL,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Cowboys won the coin toss, Cowboys to receive the opening kickoff.",,,16.0,2024,239
+1.0,15:00,,,TAM 35,0.0,0.0,"Chase McLaughlin kicks off 65 yards, touchback.",0.0,0.94,16.0,2024,239
+1.0,15:00,1.0,10.0,DAL 30,0.0,0.0,Cooper Rush pass complete short middle to KaVontae Turpin for 7 yards (tackle by Lavonte David),0.94,1.34,16.0,2024,239
+1.0,14:30,2.0,3.0,DAL 37,0.0,0.0,Cooper Rush pass complete short left to CeeDee Lamb for 1 yard (tackle by Jamel Dean),1.34,0.76,16.0,2024,239
+1.0,13:49,3.0,2.0,DAL 38,0.0,0.0,Cooper Rush pass complete short middle to Brandin Cooks for 5 yards (tackle by Lavonte David),0.76,1.8,16.0,2024,239
+1.0,13:16,1.0,10.0,DAL 43,0.0,0.0,Cooper Rush pass complete short middle to Jake Ferguson for 5 yards (tackle by Kaevon Merriweather and Christian Izien),1.8,1.93,16.0,2024,239
+1.0,12:37,2.0,5.0,DAL 48,0.0,0.0,Rico Dowdle left tackle for 3 yards (tackle by Logan Hall),1.93,1.62,16.0,2024,239
+1.0,11:54,3.0,2.0,TAM 49,0.0,0.0,Cooper Rush pass complete short left to CeeDee Lamb for 4 yards (tackle by Jamel Dean),1.62,2.59,16.0,2024,239
+1.0,11:15,1.0,10.0,TAM 45,0.0,0.0,Cooper Rush pass complete short right to CeeDee Lamb for -1 yards (tackle by Lavonte David),2.59,1.91,16.0,2024,239
+1.0,10:34,2.0,11.0,TAM 46,0.0,0.0,Rico Dowdle up the middle for 5 yards (tackle by J.J. Russell and Mike Edwards),1.91,1.88,16.0,2024,239
+1.0,9:52,3.0,6.0,TAM 41,0.0,0.0,Rico Dowdle left end for 1 yard (tackle by Logan Hall),1.88,0.59,16.0,2024,239
+1.0,9:10,4.0,5.0,TAM 40,0.0,3.0,Brandon Aubrey 58 yard field goal good,0.59,3.0,16.0,2024,239
+1.0,9:06,,,DAL 35,0.0,3.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.94,16.0,2024,239
+1.0,9:06,1.0,10.0,TAM 30,0.0,3.0,Rachaad White left tackle for 4 yards (tackle by Marist Liufau and Mazi Smith),0.94,0.93,16.0,2024,239
+1.0,8:21,2.0,6.0,TAM 34,0.0,3.0,"Baker Mayfield scrambles left end for no gain (tackle by Jourdan Lewis). Penalty on Ben Bredeson: Offensive Holding, 10 yards (accepted) (no play)",0.93,-0.42,16.0,2024,239
+1.0,7:48,2.0,16.0,TAM 24,0.0,3.0,Baker Mayfield pass complete short left to Jalen McMillan for 14 yards (tackle by DaRon Bland),-0.42,0.76,16.0,2024,239
+1.0,7:04,3.0,2.0,TAM 38,0.0,3.0,Baker Mayfield pass complete short right to Payne Durham for 7 yards,0.76,1.93,16.0,2024,239
+1.0,6:27,1.0,10.0,TAM 45,0.0,3.0,Bucky Irving right tackle for 3 yards (tackle by Chauncey Golston and Nick Vigil),1.93,1.79,16.0,2024,239
+1.0,5:50,2.0,7.0,TAM 48,0.0,3.0,Baker Mayfield pass complete short left to Trey Palmer for 4 yards (tackle by DaRon Bland),1.79,1.62,16.0,2024,239
+1.0,5:06,3.0,3.0,DAL 48,0.0,3.0,Baker Mayfield pass incomplete short left intended for Rachaad White,1.62,0.07,16.0,2024,239
+1.0,5:02,4.0,3.0,DAL 48,0.0,3.0,Baker Mayfield pass incomplete short middle intended for Sterling Shepard,0.07,-2.13,16.0,2024,239
+1.0,4:57,1.0,10.0,DAL 48,0.0,3.0,KaVontae Turpin right guard for 12 yards (tackle by Kaevon Merriweather),2.13,2.92,16.0,2024,239
+1.0,4:25,1.0,10.0,TAM 40,0.0,3.0,Cooper Rush pass complete deep left to Brandin Cooks for 29 yards (tackle by Christian Izien),2.92,4.84,16.0,2024,239
+1.0,3:41,1.0,10.0,TAM 11,0.0,3.0,Rico Dowdle left end for 1 yard (tackle by YaYa Diaby),4.84,4.32,16.0,2024,239
+1.0,3:02,2.0,9.0,TAM 10,0.0,3.0,Cooper Rush pass incomplete short right,4.32,3.3,16.0,2024,239
+1.0,2:53,3.0,9.0,TAM 10,0.0,9.0,"Cooper Rush pass complete deep middle to Jalen Tolbert for 10 yards, touchdown",3.3,7.0,16.0,2024,239
+1.0,2:49,,,TAM 15,0.0,10.0,Brandon Aubrey kicks extra point good,0.0,0.0,16.0,2024,239
+1.0,2:49,,,DAL 35,0.0,10.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.94,16.0,2024,239
+1.0,2:49,1.0,10.0,TAM 30,0.0,10.0,Baker Mayfield pass complete short middle to Payne Durham for 6 yards (tackle by Nick Vigil),0.94,1.2,16.0,2024,239
+1.0,2:05,2.0,4.0,TAM 36,0.0,10.0,Baker Mayfield pass incomplete deep middle intended for Sterling Shepard (defended by Jourdan Lewis),1.2,0.5,16.0,2024,239
+1.0,1:59,3.0,4.0,TAM 36,0.0,10.0,Baker Mayfield pass complete short right to Rachaad White for 3 yards (tackle by Amani Oruwariye and Chauncey Golston),0.5,-0.78,16.0,2024,239
+1.0,1:19,4.0,1.0,TAM 39,0.0,10.0,"Jack Browning punts 41 yards, fair catch by KaVontae Turpin at DAL-20",-0.78,-0.28,16.0,2024,239
+1.0,1:12,1.0,10.0,DAL 20,0.0,10.0,"Penalty on Terence Steele: False Start, 5 yards (accepted) (no play)",0.28,-0.31,16.0,2024,239
+1.0,1:12,1.0,15.0,DAL 15,0.0,10.0,Cooper Rush pass complete short middle to Rico Dowdle for 10 yards (tackle by Lavonte David and Tykee Smith),-0.31,0.41,16.0,2024,239
+1.0,0:39,2.0,5.0,DAL 25,0.0,10.0,Rico Dowdle up the middle for -3 yards (tackle by Lavonte David),0.41,-0.69,16.0,2024,239
+2.0,15:00,3.0,8.0,DAL 22,0.0,10.0,Cooper Rush pass incomplete short right intended for Jake Ferguson,-0.69,-1.9,16.0,2024,239
+2.0,14:55,4.0,8.0,DAL 22,0.0,10.0,"Bryan Anger punts 47 yards, returned by Trey Palmer for 7 yards (tackle by Israel Mukuamu). Penalty on C.J. Goodwin: Player Out of Bounds on Kick, 5 yards (accepted)",-1.9,-1.8,16.0,2024,239
+2.0,14:45,1.0,10.0,TAM 43,0.0,10.0,Bucky Irving left guard for 3 yards (tackle by Osa Odighizuwa and Malik Hooker),1.8,1.66,16.0,2024,239
+2.0,14:02,2.0,7.0,TAM 46,0.0,10.0,Baker Mayfield pass complete deep left to Mike Evans for 26 yards (tackle by DaRon Bland),1.66,3.71,16.0,2024,239
+2.0,13:32,1.0,10.0,DAL 28,0.0,10.0,Baker Mayfield pass complete short right to Mike Evans for 3 yards (tackle by Marist Liufau),3.71,3.57,16.0,2024,239
+2.0,12:53,2.0,7.0,DAL 25,0.0,10.0,Bucky Irving up the middle for 15 yards (tackle by Malik Hooker),3.57,4.91,16.0,2024,239
+2.0,12:13,1.0,10.0,DAL 10,0.0,10.0,Bucky Irving left end for 8 yards (tackle by Micah Parsons),4.91,5.72,16.0,2024,239
+2.0,11:34,2.0,2.0,DAL 2,6.0,10.0,"Bucky Irving right end for 2 yards, touchdown",5.72,7.0,16.0,2024,239
+2.0,11:30,,,DAL 15,7.0,10.0,Chase McLaughlin kicks extra point good,0.0,0.0,16.0,2024,239
+2.0,11:30,,,TAM 35,7.0,10.0,"Chase McLaughlin kicks off 65 yards, touchback.",0.0,0.94,16.0,2024,239
+2.0,11:30,1.0,10.0,DAL 30,7.0,10.0,Cooper Rush pass complete deep middle to CeeDee Lamb for 34 yards (tackle by Christian Izien),0.94,3.18,16.0,2024,239
+2.0,10:50,1.0,10.0,TAM 36,7.0,10.0,Rico Dowdle left end for 2 yards (tackle by YaYa Diaby),3.18,2.91,16.0,2024,239
+2.0,10:11,2.0,8.0,TAM 34,7.0,10.0,"Cooper Rush pass incomplete short left intended for CeeDee Lamb. Penalty on CeeDee Lamb: Illegal Motion, 5 yards (accepted) (no play)",2.91,2.23,16.0,2024,239
+2.0,10:05,2.0,13.0,TAM 39,7.0,10.0,Cooper Rush pass complete short middle to Rico Dowdle for 8 yards (tackle by Christian Izien),2.23,2.61,16.0,2024,239
+2.0,9:25,3.0,5.0,TAM 31,7.0,10.0,Cooper Rush pass incomplete deep right intended for CeeDee Lamb,2.61,1.35,16.0,2024,239
+2.0,9:20,4.0,5.0,TAM 31,7.0,13.0,Brandon Aubrey 49 yard field goal good,1.35,3.0,16.0,2024,239
+2.0,9:15,,,DAL 35,7.0,13.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.94,16.0,2024,239
+2.0,9:15,1.0,10.0,TAM 30,7.0,13.0,Bucky Irving right tackle for 5 yards (tackle by Mazi Smith),0.94,1.07,16.0,2024,239
+2.0,8:38,2.0,5.0,TAM 35,7.0,13.0,Bucky Irving up the middle for 4 yards (tackle by Nick Vigil),1.07,0.89,16.0,2024,239
+2.0,7:58,3.0,1.0,TAM 39,7.0,13.0,Rachaad White right guard for 2 yards (tackle by Amani Oruwariye and Damone Clark),0.89,1.66,16.0,2024,239
+2.0,7:21,1.0,10.0,TAM 41,7.0,13.0,Baker Mayfield pass complete short left to Bucky Irving for 7 yards (tackle by Nick Vigil),1.66,2.07,16.0,2024,239
+2.0,6:39,2.0,3.0,TAM 48,7.0,13.0,Bucky Irving up the middle for 7 yards (tackle by Micah Parsons),2.07,2.59,16.0,2024,239
+2.0,5:56,1.0,10.0,DAL 45,7.0,13.0,Baker Mayfield pass complete short right to Bucky Irving for 5 yards (tackle by Chauncey Golston),2.59,2.72,16.0,2024,239
+2.0,5:11,2.0,5.0,DAL 40,7.0,13.0,"Baker Mayfield pass complete deep left to Jalen McMillan for 16 yards (tackle by DaRon Bland) Replay Assistant challenged the pass completion ruling, and the original play was overturned. Baker Mayfield pass incomplete deep left intended for Jalen McMillan (defended by DaRon Bland)",2.72,2.01,16.0,2024,239
+2.0,5:07,3.0,5.0,DAL 40,7.0,13.0,Baker Mayfield sacked by Chauncey Golston for -5 yards,2.01,0.27,16.0,2024,239
+2.0,4:23,4.0,10.0,DAL 45,7.0,13.0,"Jack Browning punts 45 yards, touchback.",0.27,-0.28,16.0,2024,239
+2.0,4:14,1.0,10.0,DAL 20,7.0,13.0,Cooper Rush pass incomplete short right intended for Jake Ferguson,0.28,-0.27,16.0,2024,239
+2.0,4:10,2.0,10.0,DAL 20,7.0,13.0,Rico Dowdle right tackle for 1 yard (tackle by Greg Gaines),-0.27,-0.82,16.0,2024,239
+2.0,3:31,3.0,9.0,DAL 21,7.0,13.0,Cooper Rush pass complete short left to Jalen Tolbert for 10 yards (tackle by Christian Izien),-0.82,1.0,16.0,2024,239
+2.0,3:08,1.0,10.0,DAL 31,7.0,13.0,Cooper Rush pass incomplete short middle intended for Hunter Luepke,1.0,0.46,16.0,2024,239
+2.0,3:05,2.0,10.0,DAL 31,7.0,13.0,Cooper Rush pass complete short right to Jake Ferguson for 6 yards (tackle by YaYa Diaby),0.46,0.56,16.0,2024,239
+2.0,2:31,3.0,4.0,DAL 37,7.0,13.0,"Cooper Rush pass complete deep right to CeeDee Lamb for 52 yards (tackle by Zyon McCollum and Christian Izien). Penalty on Zyon McCollum: Defensive Holding, 5 yards (declined)",0.56,4.84,16.0,2024,239
+2.0,2:00,1.0,10.0,TAM 11,7.0,13.0,KaVontae Turpin right tackle for no gain (tackle by Vita Vea),4.84,4.14,16.0,2024,239
+2.0,1:55,,,,,,Timeout #1 by Tampa Bay Buccaneers,,,16.0,2024,239
+2.0,1:55,2.0,10.0,TAM 11,7.0,13.0,"Cooper Rush pass complete short middle to CeeDee Lamb for no gain, touchdown Replay Assistant challenged the runner was down by contact ruling, and the original play was overturned. Cooper Rush pass complete short middle to CeeDee Lamb for 10 yards (tackle by Christian Izien)",4.14,6.97,16.0,2024,239
+2.0,1:48,,,,,,Timeout #2 by Tampa Bay Buccaneers,,,16.0,2024,239
+2.0,1:48,1.0,1.0,TAM 1,7.0,19.0,"Ezekiel Elliott left tackle for 1 yard, touchdown",6.97,7.0,16.0,2024,239
+2.0,1:45,,,TAM 15,7.0,20.0,Brandon Aubrey kicks extra point good,0.0,0.0,16.0,2024,239
+2.0,1:45,,,DAL 35,7.0,20.0,"Brandon Aubrey kicks off 67 yards, returned by Rakim Jarrett for 31 yards (tackle by Brevyn Spann-Ford)",0.0,0.87,16.0,2024,239
+2.0,1:40,1.0,10.0,TAM 29,7.0,20.0,Baker Mayfield pass complete short right to Mike Evans for 15 yards (tackle by DaRon Bland),0.87,1.86,16.0,2024,239
+2.0,1:33,1.0,10.0,TAM 44,7.0,20.0,"Baker Mayfield pass complete deep middle to Sterling Shepard for 20 yards (tackle by Donovan Wilson). Penalty on DaRon Bland: Defensive Holding, 5 yards (declined)",1.86,3.18,16.0,2024,239
+2.0,1:27,1.0,10.0,DAL 36,7.0,20.0,Baker Mayfield pass complete short middle to Mike Evans for 15 yards (tackle by Donovan Wilson and Nick Vigil),3.18,4.17,16.0,2024,239
+2.0,1:08,1.0,10.0,DAL 21,7.0,20.0,Baker Mayfield pass complete short right to Payne Durham for 6 yards,4.17,4.55,16.0,2024,239
+2.0,1:05,2.0,4.0,DAL 15,7.0,20.0,Baker Mayfield pass incomplete short middle intended for Mike Evans,4.55,3.81,16.0,2024,239
+2.0,1:00,3.0,4.0,DAL 15,7.0,20.0,Rachaad White up the middle for 4 yards (tackle by Micah Parsons),3.81,4.84,16.0,2024,239
+2.0,0:54,,,,,,Timeout #3 by Tampa Bay Buccaneers,,,16.0,2024,239
+2.0,0:54,1.0,10.0,DAL 11,13.0,20.0,"Baker Mayfield pass complete short right to Jalen McMillan for 11 yards, touchdown",4.84,7.0,16.0,2024,239
+2.0,0:48,,,DAL 15,14.0,20.0,Chase McLaughlin kicks extra point good,0.0,0.0,16.0,2024,239
+2.0,0:48,,,TAM 35,14.0,20.0,"Chase McLaughlin kicks off 65 yards, touchback.",0.0,0.94,16.0,2024,239
+2.0,0:48,1.0,10.0,DAL 30,14.0,20.0,Cooper Rush pass complete short middle to Jake Ferguson for 21 yards (tackle by Mike Edwards and Christian Izien),0.94,2.32,16.0,2024,239
+2.0,0:41,,,,,,Timeout #1 by Dallas Cowboys,,,16.0,2024,239
+2.0,0:41,1.0,10.0,TAM 49,14.0,20.0,Cooper Rush pass complete short right to Brandin Cooks for 14 yards (tackle by Zyon McCollum),2.32,3.25,16.0,2024,239
+2.0,0:37,,,,,,Timeout #2 by Dallas Cowboys,,,16.0,2024,239
+2.0,0:37,1.0,10.0,TAM 35,14.0,20.0,Cooper Rush pass complete short left to Jake Ferguson for 1 yard (tackle by Christian Izien),3.25,2.84,16.0,2024,239
+2.0,0:19,2.0,9.0,TAM 34,14.0,20.0,Cooper Rush sacked by and YaYa Diaby for -6 yards and Calijah Kancey for -6 yards,2.84,1.35,16.0,2024,239
+2.0,0:12,,,,,,Timeout #3 by Dallas Cowboys,,,16.0,2024,239
+2.0,0:12,3.0,15.0,TAM 40,14.0,20.0,Cooper Rush pass incomplete deep right intended for Jalen Tolbert (defended by Zyon McCollum),1.35,0.59,16.0,2024,239
+2.0,0:05,4.0,15.0,TAM 40,14.0,23.0,Brandon Aubrey 58 yard field goal good,0.59,3.0,16.0,2024,239
+3.0,15:00,,,DAL 35,14.0,23.0,"Brandon Aubrey kicks off 65 yards, returned by Rakim Jarrett for 38 yards (tackle by Buddy Johnson)",0.0,1.47,16.0,2024,239
+3.0,14:53,1.0,10.0,TAM 38,14.0,23.0,Bucky Irving up the middle for 7 yards (tackle by Osa Odighizuwa),1.47,1.87,16.0,2024,239
+3.0,14:18,2.0,3.0,TAM 45,14.0,23.0,Bucky Irving left guard for 4 yards (tackle by Chauncey Golston),1.87,2.19,16.0,2024,239
+3.0,13:40,1.0,10.0,TAM 49,14.0,23.0,Baker Mayfield pass complete short right to Rachaad White for 5 yards (tackle by Chauncey Golston and Donovan Wilson),2.19,2.32,16.0,2024,239
+3.0,12:53,2.0,5.0,DAL 46,14.0,23.0,Bucky Irving right tackle for 5 yards (tackle by Mazi Smith),2.32,2.85,16.0,2024,239
+3.0,12:13,1.0,10.0,DAL 41,14.0,23.0,"Baker Mayfield pass complete short middle to Payne Durham for 3 yards. Payne Durham fumbles (tackle by Nick Vigil, recovered by Baker Mayfield at DAL-38",2.85,2.71,16.0,2024,239
+3.0,11:29,2.0,7.0,DAL 38,14.0,23.0,Baker Mayfield pass complete short middle to Bucky Irving for 12 yards (tackle by Donovan Wilson and DaRon Bland),2.71,3.84,16.0,2024,239
+3.0,10:47,1.0,10.0,DAL 26,14.0,23.0,Bucky Irving left tackle for 1 yard (tackle by Linval Joseph and Marist Liufau),3.84,3.43,16.0,2024,239
+3.0,10:04,2.0,9.0,DAL 25,14.0,23.0,"Baker Mayfield pass incomplete deep right intended for Mike Evans (defended by DaRon Bland). Penalty on Luke Goedeke: Offensive Holding, 10 yards (accepted) (no play)",3.43,2.08,16.0,2024,239
+3.0,9:42,2.0,19.0,DAL 35,14.0,23.0,"Baker Mayfield sacked by Micah Parsons for -12 yards. Baker Mayfield fumbles, ball out of bounds at TB-44 (forced by Micah Parsons), recovered by Nick Vigil at TB-44 Replay Assistant challenged the fumble ruling, and the original play was overturned. Baker Mayfield sacked by Micah Parsons for -12 yards. Baker Mayfield fumbles, ball out of bounds at TB-44 (forced by Micah Parsons)",2.08,-1.35,16.0,2024,239
+3.0,9:25,3.0,40.0,TAM 44,14.0,23.0,Baker Mayfield pass incomplete short middle intended for Payne Durham (defended by Marist Liufau),-1.35,-0.46,16.0,2024,239
+3.0,9:19,4.0,40.0,TAM 44,14.0,23.0,"Jack Browning punts 39 yards, returned by KaVontae Turpin for 18 yards (tackle by J.J. Russell)",-0.46,-1.27,16.0,2024,239
+3.0,9:07,1.0,10.0,DAL 35,14.0,23.0,Cooper Rush pass complete deep left to Ryan Flournoy for 26 yards (tackle by Christian Izien),1.27,2.98,16.0,2024,239
+3.0,8:23,1.0,10.0,TAM 39,14.0,23.0,"Penalty on Brock Hoffman: False Start, 5 yards (accepted) (no play)",2.98,2.65,16.0,2024,239
+3.0,8:08,1.0,15.0,TAM 44,14.0,23.0,Rico Dowdle up the middle for -1 yards (tackle by Calijah Kancey and Vita Vea),2.65,1.63,16.0,2024,239
+3.0,7:31,2.0,16.0,TAM 45,14.0,23.0,Cooper Rush pass complete short left to Rico Dowdle for 10 yards (tackle by Jamel Dean and Christian Izien),1.63,2.28,16.0,2024,239
+3.0,6:49,3.0,6.0,TAM 35,14.0,23.0,Cooper Rush pass incomplete deep left,2.28,0.97,16.0,2024,239
+3.0,6:38,4.0,6.0,TAM 35,14.0,26.0,Brandon Aubrey 53 yard field goal good,0.97,3.0,16.0,2024,239
+3.0,6:33,,,DAL 35,14.0,26.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.94,16.0,2024,239
+3.0,6:33,1.0,10.0,TAM 30,14.0,26.0,Sterling Shepard right end for 14 yards (tackle by Jourdan Lewis),0.94,1.86,16.0,2024,239
+3.0,5:56,1.0,10.0,TAM 44,14.0,26.0,Baker Mayfield pass incomplete deep middle intended for Trey Palmer,1.86,1.32,16.0,2024,239
+3.0,5:47,2.0,10.0,TAM 44,14.0,26.0,Baker Mayfield pass complete short middle to Ryan Miller for 4 yards (tackle by DaRon Bland),1.32,1.16,16.0,2024,239
+3.0,5:10,,,,,,Timeout #1 by Tampa Bay Buccaneers,,,16.0,2024,239
+3.0,5:10,3.0,6.0,TAM 48,14.0,26.0,Baker Mayfield pass complete short left to Jalen McMillan for 6 yards (tackle by Micah Parsons and Amani Oruwariye),1.16,2.52,16.0,2024,239
+3.0,4:25,1.0,10.0,DAL 46,14.0,26.0,Bucky Irving right tackle for no gain (tackle by Jourdan Lewis and Marshawn Kneeland),2.52,1.98,16.0,2024,239
+3.0,3:41,2.0,10.0,DAL 46,14.0,26.0,Baker Mayfield pass incomplete deep right intended for Mike Evans (defended by Donovan Wilson),1.98,1.29,16.0,2024,239
+3.0,3:32,3.0,10.0,DAL 46,14.0,26.0,Baker Mayfield pass complete short left to Rachaad White for 17 yards (tackle by Jourdan Lewis),1.29,3.64,16.0,2024,239
+3.0,2:49,1.0,10.0,DAL 29,14.0,26.0,Bucky Irving left tackle for 1 yard (tackle by Linval Joseph and Carlos Watkins),3.64,3.24,16.0,2024,239
+3.0,2:06,2.0,9.0,DAL 28,14.0,26.0,Baker Mayfield sacked by Linval Joseph for -6 yards,3.24,1.75,16.0,2024,239
+3.0,1:20,3.0,15.0,DAL 34,14.0,26.0,Baker Mayfield pass complete short right to Rachaad White for 7 yards (tackle by Amani Oruwariye),1.75,1.67,16.0,2024,239
+3.0,0:34,4.0,8.0,DAL 27,17.0,26.0,Chase McLaughlin 45 yard field goal good,1.67,3.0,16.0,2024,239
+3.0,0:31,,,TAM 35,17.0,26.0,"Chase McLaughlin kicks off 65 yards, touchback.",0.0,0.94,16.0,2024,239
+3.0,0:31,1.0,10.0,DAL 30,17.0,26.0,Rico Dowdle left tackle for 2 yards (tackle by Lavonte David),0.94,0.66,16.0,2024,239
+4.0,15:00,2.0,8.0,DAL 32,17.0,26.0,Cooper Rush pass complete short middle to Ryan Flournoy for 14 yards (tackle by J.J. Russell),0.66,1.99,16.0,2024,239
+4.0,14:30,1.0,10.0,DAL 46,17.0,26.0,Rico Dowdle right end for 1 yard (tackle by Greg Gaines and J.J. Russell),1.99,1.59,16.0,2024,239
+4.0,13:50,2.0,9.0,DAL 47,17.0,26.0,"Rico Dowdle left end for no gain (tackle by Lavonte David). Penalty on Tyler Smith: Offensive Holding, 10 yards (accepted) (no play)",1.59,0.24,16.0,2024,239
+4.0,13:21,2.0,19.0,DAL 37,17.0,26.0,"Cooper Rush pass complete short middle to KaVontae Turpin for no gain (tackle by Joe Tryon-Shoyinka). Penalty on Brock Hoffman: Offensive Holding, 10 yards (offset) . Penalty on Tykee Smith: Illegal Use of Hands / Defense, 5 yards (offset) (no play)",0.24,0.24,16.0,2024,239
+4.0,13:03,2.0,19.0,DAL 37,17.0,26.0,Cooper Rush pass complete short right to Jake Ferguson for 3 yards (tackle by Lavonte David and Greg Gaines),0.24,-0.03,16.0,2024,239
+4.0,12:30,3.0,16.0,DAL 40,17.0,26.0,Cooper Rush pass complete short right to Luke Schoonmaker for 3 yards (tackle by Lavonte David),-0.03,-0.52,16.0,2024,239
+4.0,11:47,4.0,13.0,DAL 43,17.0,26.0,"Bryan Anger punts 51 yards, returned by Trey Palmer for no gain (tackle by C.J. Goodwin). Penalty on Christian Izien: Defensive Illegal Blindside Block, 3 yards (accepted)",-0.52,0.38,16.0,2024,239
+4.0,11:38,1.0,10.0,TAM 3,17.0,26.0,Bucky Irving right end for 3 yards (tackle by Nick Vigil),-0.38,-0.56,16.0,2024,239
+4.0,10:55,2.0,7.0,TAM 6,17.0,26.0,Baker Mayfield scrambles up the middle for 12 yards (tackle by Marist Liufau and Jourdan Lewis),-0.56,0.04,16.0,2024,239
+4.0,10:12,1.0,10.0,TAM 18,17.0,26.0,"Baker Mayfield sacked by Donovan Wilson for -4 yards. Baker Mayfield fumbles (forced by Donovan Wilson), recovered by Donovan Wilson at TB-14 (tackle by Donovan Wilson) Replay Assistant challenged the runner was down by contact ruling, and the original play was overturned. Baker Mayfield sacked by Donovan Wilson for -4 yards",0.04,-1.04,16.0,2024,239
+4.0,9:56,2.0,14.0,TAM 14,17.0,26.0,Bucky Irving left guard for no gain (tackle by Carl Lawson and Marist Liufau),-1.04,-1.82,16.0,2024,239
+4.0,9:25,,,,,,Timeout #1 by Dallas Cowboys,,,16.0,2024,239
+4.0,9:25,3.0,14.0,TAM 14,17.0,26.0,Baker Mayfield pass incomplete short right intended for Payne Durham,-1.82,-2.47,16.0,2024,239
+4.0,9:20,4.0,14.0,TAM 14,17.0,26.0,"Jack Browning punts 54 yards, returned by KaVontae Turpin for 2 yards (tackle by Sean Tucker). Penalty on J.J. Russell: Illegal Formation, 5 yards (accepted)",-2.47,-1.53,16.0,2024,239
+4.0,9:10,1.0,10.0,DAL 39,17.0,26.0,"Cooper Rush pass incomplete deep left intended for CeeDee Lamb. Penalty on Jamel Dean: Defensive Pass Interference, 9 yards (accepted) (no play)",1.53,2.13,16.0,2024,239
+4.0,9:06,1.0,10.0,DAL 48,17.0,26.0,Cooper Rush pass incomplete short right intended for Jake Ferguson,2.13,1.58,16.0,2024,239
+4.0,9:01,2.0,10.0,DAL 48,17.0,26.0,Rico Dowdle up the middle for 3 yards (tackle by Christian Izien),1.58,1.29,16.0,2024,239
+4.0,8:17,3.0,7.0,TAM 49,17.0,26.0,Cooper Rush pass complete short left to Ryan Flournoy for 1 yard (tackle by Christian Izien),1.29,0.07,16.0,2024,239
+4.0,7:38,4.0,6.0,TAM 48,17.0,26.0,"Bryan Anger punts 39 yards, fair catch by Trey Palmer at TB-9",0.07,0.38,16.0,2024,239
+4.0,7:32,1.0,10.0,TAM 9,17.0,26.0,Baker Mayfield scrambles left end for 18 yards (tackle by Jourdan Lewis),-0.38,0.74,16.0,2024,239
+4.0,7:06,1.0,10.0,TAM 27,17.0,26.0,Baker Mayfield pass incomplete deep middle intended for Mike Evans,0.74,0.2,16.0,2024,239
+4.0,7:00,2.0,10.0,TAM 27,17.0,26.0,"Baker Mayfield pass incomplete short middle intended for Trey Palmer (defended by Chauncey Golston). Penalty on Tristan Wirfs: Illegal Formation, 5 yards (declined)",0.2,-0.49,16.0,2024,239
+4.0,6:55,3.0,10.0,TAM 27,17.0,26.0,Baker Mayfield pass complete deep left to Trey Palmer for 27 yards (tackle by Malik Hooker),-0.49,2.52,16.0,2024,239
+4.0,6:29,1.0,10.0,DAL 46,17.0,26.0,"Baker Mayfield pass deep middle intended for Jalen McMillan is intercepted by Jourdan Lewis in end zone and returned for no gain Replay Assistant challenged the pass interception ruling, and the play was upheld.",2.52,-0.28,16.0,2024,239
+4.0,6:22,1.0,10.0,DAL 20,17.0,26.0,Cooper Rush pass incomplete short right intended for Hunter Luepke (defended by J.J. Russell),0.28,-0.27,16.0,2024,239
+4.0,6:14,2.0,10.0,DAL 20,17.0,26.0,Rico Dowdle left guard for 2 yards (tackle by YaYa Diaby),-0.27,-0.69,16.0,2024,239
+4.0,5:39,3.0,8.0,DAL 22,17.0,26.0,Rico Dowdle left end for 6 yards (tackle by Mike Edwards),-0.69,-1.5,16.0,2024,239
+4.0,4:58,4.0,2.0,DAL 28,17.0,26.0,"Bryan Anger punts 57 yards, returned by Trey Palmer for 8 yards (tackle by Kemon Hall). Penalty on Antonio Grier: Illegal Block Above the Waist, 10 yards (accepted)",-1.5,0.32,16.0,2024,239
+4.0,4:43,1.0,10.0,TAM 13,17.0,26.0,Baker Mayfield pass complete short middle to Rachaad White for 4 yards (tackle by Nick Vigil),-0.32,-0.3,16.0,2024,239
+4.0,4:22,2.0,6.0,TAM 17,17.0,26.0,Baker Mayfield pass complete short middle to Mike Evans for 10 yards (tackle by DaRon Bland),-0.3,0.74,16.0,2024,239
+4.0,4:00,1.0,10.0,TAM 27,17.0,26.0,Baker Mayfield pass complete short middle to Rachaad White for 9 yards (tackle by Nick Vigil and Marist Liufau),0.74,1.41,16.0,2024,239
+4.0,3:40,2.0,1.0,TAM 36,17.0,26.0,Baker Mayfield scrambles up the middle for 12 yards (tackle by Nick Vigil and Jourdan Lewis),1.41,2.13,16.0,2024,239
+4.0,3:16,1.0,10.0,TAM 48,17.0,26.0,Baker Mayfield pass complete short right to Payne Durham for 7 yards (tackle by Amani Oruwariye),2.13,2.53,16.0,2024,239
+4.0,3:10,2.0,3.0,DAL 45,17.0,26.0,Baker Mayfield pass complete short right to Jalen McMillan for 10 yards,2.53,3.25,16.0,2024,239
+4.0,3:06,1.0,10.0,DAL 35,17.0,26.0,Baker Mayfield pass complete deep right to Jalen McMillan for 16 yards,3.25,4.31,16.0,2024,239
+4.0,3:01,1.0,10.0,DAL 19,17.0,26.0,Baker Mayfield pass complete short right to Rakim Jarrett for 6 yards (tackle by Amani Oruwariye),4.31,4.72,16.0,2024,239
+4.0,2:40,2.0,4.0,DAL 13,23.0,26.0,"Baker Mayfield pass complete short middle to Ryan Miller for 13 yards, touchdown",4.72,7.0,16.0,2024,239
+4.0,2:36,,,DAL 15,24.0,26.0,Chase McLaughlin kicks extra point good,0.0,0.0,16.0,2024,239
+4.0,2:36,,,TAM 35,24.0,26.0,"Chase McLaughlin kicks off 65 yards, touchback.",0.0,0.94,16.0,2024,239
+4.0,2:36,1.0,10.0,DAL 30,24.0,26.0,KaVontae Turpin left end for -1 yards (tackle by Tykee Smith),0.94,0.26,16.0,2024,239
+4.0,2:31,,,,,,Timeout #2 by Tampa Bay Buccaneers,,,16.0,2024,239
+4.0,2:31,2.0,11.0,DAL 29,24.0,26.0,Cooper Rush pass complete short right to CeeDee Lamb for 5 yards (tackle by Tykee Smith),0.26,0.23,16.0,2024,239
+4.0,2:00,3.0,6.0,DAL 34,24.0,26.0,Cooper Rush pass complete short left to Jake Ferguson for 4 yards (tackle by Vita Vea),0.23,-0.85,16.0,2024,239
+4.0,1:52,,,,,,Timeout #3 by Tampa Bay Buccaneers,,,16.0,2024,239
+4.0,1:52,4.0,2.0,DAL 38,24.0,26.0,"Bryan Anger punts 52 yards, returned by Trey Palmer for 16 yards (tackle by Luke Schoonmaker)",-0.85,-0.67,16.0,2024,239
+4.0,1:40,1.0,10.0,TAM 26,24.0,26.0,"Baker Mayfield pass complete short right to Rachaad White for 5 yards. Rachaad White fumbles (forced by DaRon Bland), recovered by DaRon Bland at TB-31 (tackle by DaRon Bland) Replay Assistant challenged the fumble ruling, and the play was upheld.",0.67,-3.51,16.0,2024,239
+4.0,1:31,1.0,10.0,TAM 31,24.0,26.0,Cooper Rush kneels for -2 yards,3.51,2.7,16.0,2024,239
+4.0,0:50,2.0,12.0,TAM 33,24.0,26.0,Cooper Rush kneels for -1 yards,2.7,1.88,16.0,2024,239
+4.0,0:23,3.0,13.0,TAM 34,24.0,26.0,Cooper Rush kneels for -1 yards,1.88,0.97,16.0,2024,239

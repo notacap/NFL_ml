@@ -1,0 +1,178 @@
+Quarter,Time,Down,ToGo,Location,ATL,MIN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Falcons won the coin toss, Falcons to receive the opening kickoff.",,,14.0,2024,197
+1.0,15:00,,,MIN 35,0.0,0.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,197
+1.0,15:00,1.0,10.0,ATL 30,0.0,0.0,Bijan Robinson left tackle for 12 yards (tackle by Harrison Smith),0.94,1.73,14.0,2024,197
+1.0,14:22,1.0,10.0,ATL 42,0.0,0.0,Bijan Robinson right end for 2 yards (tackle by Jonathan Bullard),1.73,1.46,14.0,2024,197
+1.0,13:41,2.0,8.0,ATL 44,0.0,0.0,Kirk Cousins pass incomplete short left intended for Ray-Ray McCloud,1.46,0.76,14.0,2024,197
+1.0,13:38,3.0,8.0,ATL 44,0.0,0.0,Kirk Cousins pass complete deep right to Darnell Mooney for 28 yards (tackle by Shaquill Griffin),0.76,3.71,14.0,2024,197
+1.0,13:00,1.0,10.0,MIN 28,0.0,0.0,Bijan Robinson left end for -5 yards (tackle by Jalen Redmond),3.71,2.49,14.0,2024,197
+1.0,12:15,2.0,15.0,MIN 33,0.0,0.0,Kirk Cousins pass complete short middle to Drake London for 16 yards (tackle by Dallas Turner and Byron Murphy),2.49,4.44,14.0,2024,197
+1.0,11:34,1.0,10.0,MIN 17,0.0,0.0,Bijan Robinson right end for no gain (tackle by Dallas Turner),4.44,3.85,14.0,2024,197
+1.0,10:52,2.0,10.0,MIN 17,0.0,0.0,Kirk Cousins pass complete short right to Bijan Robinson for 4 yards (tackle by Jihad Ward),3.85,3.68,14.0,2024,197
+1.0,10:10,3.0,6.0,MIN 13,0.0,0.0,Kirk Cousins pass complete short right to Ray-Ray McCloud for 5 yards (tackle by Blake Cashman),3.68,2.99,14.0,2024,197
+1.0,9:43,4.0,1.0,MIN 8,0.0,0.0,Bijan Robinson left guard for 2 yards (tackle by Byron Murphy and Josh Metellus),2.99,5.83,14.0,2024,197
+1.0,9:01,1.0,6.0,MIN 6,6.0,0.0,"Tyler Allgeier right guard for 6 yards, touchdown",5.83,7.0,14.0,2024,197
+1.0,8:58,,,MIN 15,7.0,0.0,Younghoe Koo kicks extra point good,0.0,0.0,14.0,2024,197
+1.0,8:58,,,ATL 35,7.0,0.0,"Bradley Pinion kicks off 63 yards, returned by Cam Akers for 24 yards (tackle by Kevin King and Charlie Woerner)",0.0,0.67,14.0,2024,197
+1.0,8:53,1.0,10.0,MIN 26,7.0,0.0,Sam Darnold pass incomplete short right intended for Jordan Addison (defended by Zach Harrison),0.67,0.13,14.0,2024,197
+1.0,8:51,2.0,10.0,MIN 26,7.0,0.0,Aaron Jones left tackle for 5 yards (tackle by Troy Andersen),0.13,0.1,14.0,2024,197
+1.0,8:16,3.0,5.0,MIN 31,7.0,0.0,Sam Darnold pass complete deep right to Jordan Addison for 16 yards (tackle by DeAundre Alford),0.1,2.06,14.0,2024,197
+1.0,7:50,1.0,10.0,MIN 47,7.0,0.0,Aaron Jones right end for 13 yards (tackle by Kaden Elliss),2.06,2.92,14.0,2024,197
+1.0,7:15,1.0,10.0,ATL 40,7.0,0.0,Aaron Jones up the middle for 3 yards (tackle by Jessie Bates and Nathan Landman),2.92,2.78,14.0,2024,197
+1.0,6:37,2.0,7.0,ATL 37,7.0,0.0,Sam Darnold sacked by Eddie Goldman for -9 yards,2.78,0.89,14.0,2024,197
+1.0,5:53,3.0,16.0,ATL 46,7.0,0.0,Sam Darnold sacked by Arnold Ebiketie for -6 yards,0.89,-0.19,14.0,2024,197
+1.0,5:10,4.0,22.0,MIN 48,7.0,0.0,"Ryan Wright punts 45 yards, returned by Avery Williams for 11 yards (tackle by Trent Sherfield)",-0.19,-0.04,14.0,2024,197
+1.0,5:01,1.0,10.0,ATL 18,7.0,0.0,Kirk Cousins pass complete deep middle to Darnell Mooney for 24 yards (tackle by Camryn Bynum and Andrew Van Ginkel),0.04,1.73,14.0,2024,197
+1.0,4:11,1.0,10.0,ATL 42,7.0,0.0,Bijan Robinson up the middle for 3 yards (tackle by Blake Cashman and Harrison Smith),1.73,1.59,14.0,2024,197
+1.0,3:37,2.0,7.0,ATL 45,7.0,0.0,Bijan Robinson left tackle for 5 yards (tackle by Camryn Bynum and Andrew Van Ginkel),1.59,1.55,14.0,2024,197
+1.0,2:57,3.0,2.0,ATL 50,7.0,0.0,Tyler Allgeier left guard for 7 yards (tackle by Josh Metellus),1.55,2.72,14.0,2024,197
+1.0,2:20,1.0,10.0,MIN 43,7.0,0.0,Tyler Allgeier right guard for 5 yards (tackle by Jerry Tillery),2.72,2.85,14.0,2024,197
+1.0,1:42,2.0,5.0,MIN 38,7.0,0.0,Kirk Cousins pass incomplete short right intended for Drake London (defended by Jalen Redmond),2.85,2.15,14.0,2024,197
+1.0,1:36,3.0,5.0,MIN 38,7.0,0.0,Kirk Cousins pass incomplete short middle intended for Drake London (defended by Blake Cashman),2.15,0.72,14.0,2024,197
+1.0,1:32,4.0,5.0,MIN 38,7.0,0.0,Kirk Cousins pass incomplete short right intended for Ray-Ray McCloud,0.72,-1.47,14.0,2024,197
+1.0,1:28,1.0,10.0,MIN 38,7.0,0.0,Aaron Jones right end for 13 yards (tackle by Kaden Elliss and Jessie Bates),1.47,2.32,14.0,2024,197
+1.0,0:46,1.0,10.0,ATL 49,7.0,6.0,"Sam Darnold pass complete deep right to Jordan Addison for 49 yards, touchdown",2.32,7.0,14.0,2024,197
+1.0,0:37,,,ATL 15,7.0,7.0,Will Reichard kicks extra point good,0.0,0.0,14.0,2024,197
+1.0,0:37,,,MIN 35,7.0,7.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,197
+1.0,0:37,1.0,10.0,ATL 30,7.0,7.0,Bijan Robinson left end for 9 yards (tackle by Harrison Phillips and Camryn Bynum),0.94,1.61,14.0,2024,197
+2.0,15:00,2.0,1.0,ATL 39,7.0,7.0,Bijan Robinson right end for 2 yards (tackle by Jonathan Greenard),1.61,1.66,14.0,2024,197
+2.0,14:20,1.0,10.0,ATL 41,7.0,7.0,Bijan Robinson right end for 12 yards (tackle by Josh Metellus),1.66,2.46,14.0,2024,197
+2.0,13:37,1.0,10.0,MIN 47,7.0,7.0,Kirk Cousins pass deep right intended for Drake London is intercepted by Josh Metellus at MIN-31 and returned for 4 yards (tackle by Drake London),2.46,-1.27,14.0,2024,197
+2.0,13:29,1.0,10.0,MIN 35,7.0,7.0,Aaron Jones up the middle for 3 yards (tackle by Kaden Elliss),1.27,1.13,14.0,2024,197
+2.0,12:49,2.0,7.0,MIN 38,7.0,7.0,Sam Darnold pass incomplete deep left intended for Jordan Addison,1.13,0.43,14.0,2024,197
+2.0,12:42,3.0,7.0,MIN 38,7.0,7.0,Sam Darnold scrambles left end for 5 yards (tackle by Jessie Bates),0.43,-0.52,14.0,2024,197
+2.0,11:53,4.0,2.0,MIN 43,7.0,7.0,"Ryan Wright punts 57 yards, touchback.",-0.52,-0.28,14.0,2024,197
+2.0,11:45,1.0,10.0,ATL 20,7.0,7.0,Tyler Allgeier left end for 6 yards (tackle by Blake Cashman),0.28,0.54,14.0,2024,197
+2.0,11:13,2.0,4.0,ATL 26,7.0,7.0,Tyler Allgeier right guard for 3 yards (tackle by Josh Metellus),0.54,0.23,14.0,2024,197
+2.0,10:34,3.0,1.0,ATL 29,7.0,7.0,Tyler Allgeier up the middle for 2 yards (tackle by Jonathan Bullard),0.23,1.0,14.0,2024,197
+2.0,9:55,1.0,10.0,ATL 31,7.0,7.0,Bijan Robinson right end for 2 yards (tackle by Blake Cashman),1.0,0.73,14.0,2024,197
+2.0,9:14,2.0,8.0,ATL 33,7.0,7.0,Kirk Cousins pass complete short middle to Charlie Woerner for 11 yards (tackle by Harrison Smith),0.73,1.86,14.0,2024,197
+2.0,8:29,1.0,10.0,ATL 44,7.0,7.0,"Penalty on Chris Lindstrom: False Start, 5 yards (accepted) (no play)",1.86,1.53,14.0,2024,197
+2.0,8:07,1.0,15.0,ATL 39,7.0,7.0,Kirk Cousins pass complete short right to Bijan Robinson for 5 yards (tackle by Jalen Redmond),1.53,1.32,14.0,2024,197
+2.0,7:28,2.0,10.0,ATL 44,7.0,7.0,Kirk Cousins pass complete short right to Ray-Ray McCloud for 9 yards (tackle by Dallas Turner),1.32,1.82,14.0,2024,197
+2.0,6:50,3.0,1.0,MIN 47,7.0,7.0,"Kirk Cousins sacked by Jamin Davis for -6 yards. Penalty on Bijan Robinson: Offensive Holding, 10 yards (declined)",1.82,-0.26,14.0,2024,197
+2.0,6:26,4.0,7.0,ATL 47,7.0,7.0,"Bradley Pinion punts 41 yards, fair catch by Brandon Powell at MIN-13. Penalty on C.J. Ham: Defensive Offside, 5 yards (accepted) (no play)",-0.26,0.07,14.0,2024,197
+2.0,6:26,4.0,2.0,MIN 48,7.0,7.0,"Penalty on Kirk Cousins: Delay of Game, 5 yards (accepted) (no play)",0.07,-0.26,14.0,2024,197
+2.0,6:26,4.0,7.0,ATL 47,7.0,7.0,"Bradley Pinion punts 53 yards, touchback.",-0.26,-0.28,14.0,2024,197
+2.0,6:17,1.0,10.0,MIN 20,7.0,7.0,Sam Darnold scrambles left tackle for 3 yards (tackle by Kaden Elliss),0.28,0.14,14.0,2024,197
+2.0,5:39,2.0,7.0,MIN 23,7.0,7.0,Sam Darnold sacked by Matt Judon for -6 yards,0.14,-1.51,14.0,2024,197
+2.0,5:02,3.0,13.0,MIN 17,7.0,7.0,Sam Darnold pass complete deep middle to Justin Jefferson for 20 yards (tackle by Troy Andersen),-1.51,1.4,14.0,2024,197
+2.0,4:34,1.0,10.0,MIN 37,7.0,7.0,"Sam Darnold pass incomplete deep left intended for Jordan Addison. Penalty on Mike Hughes: Defensive Pass Interference, 47 yards (accepted) (no play)",1.4,4.51,14.0,2024,197
+2.0,4:25,1.0,10.0,ATL 16,7.0,7.0,Sam Darnold pass complete short left to Jordan Addison for -5 yards (tackle by David Onyemata),4.51,3.28,14.0,2024,197
+2.0,3:39,2.0,15.0,ATL 21,7.0,7.0,Sam Darnold pass incomplete short left intended for Josh Oliver,3.28,2.61,14.0,2024,197
+2.0,3:35,3.0,15.0,ATL 21,7.0,7.0,"Sam Darnold sacked by Arnold Ebiketie for no gain. Sam Darnold fumbles (forced by Arnold Ebiketie), recovered by Clark Phillips at ATL-30 Replay Assistant challenged the fumble ruling, and the original play was overturned. Sam Darnold pass incomplete short right intended for Jordan Addison (defended by Arnold Ebiketie)",2.61,2.06,14.0,2024,197
+2.0,3:30,4.0,15.0,ATL 21,7.0,7.0,"Will Reichard yard field goal good. Penalty on Kentavius Street: Defensive Holding, 5 yards (accepted) (no play)",2.06,4.51,14.0,2024,197
+2.0,3:27,1.0,10.0,ATL 16,7.0,7.0,Cam Akers left guard for -1 yards (tackle by Lorenzo Carter),4.51,3.77,14.0,2024,197
+2.0,2:49,2.0,11.0,ATL 17,7.0,7.0,Sam Darnold pass complete short right to Jordan Addison for 5 yards (tackle by DeAundre Alford and Jessie Bates),3.77,3.73,14.0,2024,197
+2.0,2:05,3.0,6.0,ATL 12,7.0,13.0,"Sam Darnold pass complete short middle to Justin Jefferson for 12 yards, touchdown",3.73,7.0,14.0,2024,197
+2.0,2:01,,,ATL 15,7.0,14.0,Will Reichard kicks extra point good,0.0,0.0,14.0,2024,197
+2.0,2:01,,,MIN 35,7.0,14.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,197
+2.0,2:01,1.0,10.0,ATL 30,7.0,14.0,"Bijan Robinson left tackle for no gain (tackle by Blake Cashman). Penalty on Matthew Bergeron: Offensive Holding, 10 yards (accepted) (no play)",0.94,0.28,14.0,2024,197
+2.0,1:56,1.0,20.0,ATL 20,7.0,14.0,Kirk Cousins pass complete short left to Ray-Ray McCloud for 4 yards (tackle by Shaquill Griffin),0.28,-0.42,14.0,2024,197
+2.0,1:52,,,,,,Timeout #1 by Minnesota Vikings,,,14.0,2024,197
+2.0,1:52,2.0,16.0,ATL 24,7.0,14.0,Kirk Cousins pass complete short right to Ray-Ray McCloud for 16 yards (tackle by Josh Metellus),-0.42,1.6,14.0,2024,197
+2.0,1:46,1.0,10.0,ATL 40,7.0,14.0,"Kirk Cousins scrambles right end for no gain (tackle by Camryn Bynum). Penalty on Chris Lindstrom: Offensive Holding, 10 yards (accepted) (no play)",1.6,0.94,14.0,2024,197
+2.0,1:39,1.0,20.0,ATL 30,7.0,14.0,Kirk Cousins pass complete short left to Ray-Ray McCloud for 12 yards (tackle by Fabian Moreau),0.94,1.32,14.0,2024,197
+2.0,1:02,2.0,8.0,ATL 42,7.0,14.0,Kirk Cousins pass incomplete short left intended for Kyle Pitts,1.32,0.63,14.0,2024,197
+2.0,0:59,3.0,8.0,ATL 42,7.0,14.0,Kirk Cousins pass complete deep left to Darnell Mooney for 49 yards (tackle by Camryn Bynum),0.63,5.14,14.0,2024,197
+2.0,0:45,,,,,,Timeout #1 by Atlanta Falcons,,,14.0,2024,197
+2.0,0:45,1.0,9.0,MIN 9,7.0,14.0,Bijan Robinson right end for 8 yards (tackle by Fabian Moreau),5.14,5.91,14.0,2024,197
+2.0,0:20,,,,,,Timeout #2 by Minnesota Vikings,,,14.0,2024,197
+2.0,0:20,2.0,1.0,MIN 1,7.0,14.0,Bijan Robinson left end for -1 yards (tackle by Harrison Smith and Josh Metellus),5.91,4.95,14.0,2024,197
+2.0,0:15,,,,,,Timeout #2 by Atlanta Falcons,,,14.0,2024,197
+2.0,0:15,3.0,2.0,MIN 2,7.0,14.0,Kirk Cousins pass incomplete short left intended for Drake London (defended by Jalen Redmond),4.95,3.25,14.0,2024,197
+2.0,0:13,4.0,2.0,MIN 2,10.0,14.0,Younghoe Koo 20 yard field goal good,3.25,3.0,14.0,2024,197
+2.0,0:10,,,ATL 35,10.0,14.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,197
+2.0,0:10,1.0,10.0,MIN 30,10.0,14.0,Sam Darnold kneels for -1 yards,0.94,0.26,14.0,2024,197
+3.0,15:00,,,ATL 35,10.0,14.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,197
+3.0,15:00,1.0,10.0,MIN 30,10.0,14.0,Aaron Jones left tackle for 5 yards (tackle by Zach Harrison and Eddie Goldman),0.94,1.07,14.0,2024,197
+3.0,14:25,2.0,5.0,MIN 35,10.0,14.0,Sam Darnold pass complete short left to T.J. Hockenson for 10 yards (tackle by Zach Harrison and Kaden Elliss),1.07,1.93,14.0,2024,197
+3.0,13:55,1.0,10.0,MIN 45,10.0,14.0,Sam Darnold pass complete short left to Aaron Jones for 6 yards (tackle by Justin Simmons),1.93,2.19,14.0,2024,197
+3.0,13:12,2.0,4.0,ATL 49,10.0,14.0,Aaron Jones up the middle for -1 yards (tackle by Grady Jarrett and Nathan Landman),2.19,1.36,14.0,2024,197
+3.0,12:33,3.0,5.0,ATL 50,10.0,14.0,Sam Darnold pass complete short right to T.J. Hockenson for 18 yards (tackle by Justin Simmons and Jessie Bates),1.36,3.45,14.0,2024,197
+3.0,11:54,1.0,10.0,ATL 32,10.0,14.0,Aaron Jones left tackle for 6 yards (tackle by Kentavius Street),3.45,3.71,14.0,2024,197
+3.0,11:13,2.0,4.0,ATL 26,10.0,14.0,"Sam Darnold pass incomplete short left intended for Josh Oliver. Penalty on Jordan Addison: Offensive Pass Interference, 10 yards (accepted) (no play)",3.71,2.36,14.0,2024,197
+3.0,11:07,2.0,14.0,ATL 36,10.0,14.0,Sam Darnold sacked by Kaden Elliss for -8 yards,2.36,0.63,14.0,2024,197
+3.0,10:40,3.0,22.0,ATL 44,10.0,14.0,Sam Darnold pass complete short left to Justin Jefferson for 15 yards (tackle by Jessie Bates),0.63,1.5,14.0,2024,197
+3.0,10:01,4.0,7.0,ATL 29,10.0,14.0,Will Reichard 47 yard field goal no good,1.5,-1.4,14.0,2024,197
+3.0,9:56,1.0,10.0,ATL 37,10.0,14.0,Bijan Robinson right end for -4 yards (tackle by Jalen Redmond),1.4,0.32,14.0,2024,197
+3.0,9:18,2.0,14.0,ATL 33,10.0,14.0,Kirk Cousins pass incomplete deep middle intended for Kyle Pitts,0.32,-0.36,14.0,2024,197
+3.0,9:12,3.0,14.0,ATL 33,10.0,14.0,"Kirk Cousins pass complete deep middle to Drake London for 20 yards (tackle by Shaquill Griffin) MIN challenged the pass interception ruling, and the play was upheld.",-0.36,2.46,14.0,2024,197
+3.0,8:30,1.0,10.0,MIN 47,10.0,14.0,Kirk Cousins pass incomplete short middle intended for Drake London (defended by Harrison Phillips),2.46,1.91,14.0,2024,197
+3.0,8:28,2.0,10.0,MIN 47,10.0,14.0,Bijan Robinson right end for 7 yards (tackle by Andrew Van Ginkel),1.91,2.15,14.0,2024,197
+3.0,7:48,3.0,3.0,MIN 40,10.0,14.0,Kirk Cousins pass complete short middle to Ray-Ray McCloud for 27 yards (tackle by Shaquill Griffin),2.15,4.71,14.0,2024,197
+3.0,7:04,1.0,10.0,MIN 13,10.0,14.0,"Bijan Robinson left tackle for 2 yards (tackle by Camryn Bynum). Penalty on Drew Dalman: Offensive Holding, 10 yards (accepted)",4.71,4.17,14.0,2024,197
+3.0,6:37,1.0,18.0,MIN 21,10.0,14.0,Bijan Robinson left end for 4 yards (tackle by Gabriel Murphy),4.17,3.5,14.0,2024,197
+3.0,5:58,2.0,14.0,MIN 17,10.0,14.0,Kirk Cousins pass incomplete short right intended for Ray-Ray McCloud (defended by Andrew Van Ginkel),3.5,2.88,14.0,2024,197
+3.0,5:52,3.0,14.0,MIN 17,10.0,14.0,Bijan Robinson left guard for 6 yards (tackle by Jonathan Greenard and Blake Cashman),2.88,2.7,14.0,2024,197
+3.0,5:09,4.0,8.0,MIN 11,13.0,14.0,Younghoe Koo 29 yard field goal good,2.7,3.0,14.0,2024,197
+3.0,5:06,,,ATL 35,13.0,14.0,"Bradley Pinion kicks off 62 yards, returned by Ty Chandler for 22 yards (tackle by Antonio Hamilton)",0.0,0.61,14.0,2024,197
+3.0,5:01,1.0,10.0,MIN 25,13.0,14.0,Sam Darnold pass complete short left to Justin Jefferson for 21 yards (tackle by Justin Simmons),0.61,1.99,14.0,2024,197
+3.0,4:25,1.0,10.0,MIN 46,13.0,14.0,Aaron Jones up the middle for 2 yards (tackle by Eddie Goldman),1.99,1.72,14.0,2024,197
+3.0,3:42,2.0,8.0,MIN 48,13.0,14.0,Sam Darnold pass incomplete deep left intended for Jordan Addison,1.72,1.03,14.0,2024,197
+3.0,3:36,3.0,8.0,MIN 48,13.0,20.0,"Sam Darnold pass complete deep right to Justin Jefferson for 52 yards, touchdown",1.03,7.0,14.0,2024,197
+3.0,3:25,,,ATL 15,13.0,21.0,Will Reichard kicks extra point good,0.0,0.0,14.0,2024,197
+3.0,3:25,,,MIN 35,13.0,21.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,197
+3.0,3:25,1.0,10.0,ATL 30,13.0,21.0,Tyler Allgeier left end for 25 yards (tackle by Byron Murphy),0.94,2.59,14.0,2024,197
+3.0,2:38,1.0,10.0,MIN 45,13.0,21.0,Tyler Allgeier up the middle for 5 yards (tackle by Harrison Phillips),2.59,2.72,14.0,2024,197
+3.0,2:05,2.0,5.0,MIN 40,13.0,21.0,Kirk Cousins pass complete short left to Drake London for 11 yards (tackle by Fabian Moreau),2.72,3.64,14.0,2024,197
+3.0,1:24,1.0,10.0,MIN 29,13.0,21.0,Kirk Cousins pass complete short left to Ray-Ray McCloud for 16 yards (tackle by Jalen Redmond),3.64,4.71,14.0,2024,197
+3.0,0:43,1.0,10.0,MIN 13,19.0,21.0,"Bijan Robinson right end for 13 yards, touchdown",4.71,7.0,14.0,2024,197
+3.0,0:39,,,MIN 2,21.0,21.0,"Two Point Attempt: Bijan Robinson rushes, conversion succeeds.",1.0,1.0,14.0,2024,197
+3.0,0:39,,,ATL 35,21.0,21.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,197
+3.0,0:39,1.0,10.0,MIN 30,21.0,21.0,"Penalty on Blake Brandel: False Start, 5 yards (accepted) (no play)",0.94,0.61,14.0,2024,197
+3.0,0:39,1.0,15.0,MIN 25,21.0,21.0,Cam Akers right guard for -2 yards (tackle by Grady Jarrett),0.61,-0.55,14.0,2024,197
+3.0,0:13,2.0,17.0,MIN 23,21.0,21.0,"Penalty on Grady Jarrett: Neutral Zone Infraction, 5 yards (accepted) (no play)",-0.55,0.12,14.0,2024,197
+4.0,15:00,2.0,12.0,MIN 28,21.0,21.0,Sam Darnold pass complete short left to T.J. Hockenson for 14 yards (tackle by Matt Judon),0.12,1.73,14.0,2024,197
+4.0,14:35,1.0,10.0,MIN 42,21.0,21.0,Sam Darnold pass complete deep right to Jordan Addison for 42 yards (tackle by Clark Phillips),1.73,4.51,14.0,2024,197
+4.0,13:49,1.0,10.0,ATL 16,21.0,21.0,Sam Darnold pass incomplete deep middle intended for T.J. Hockenson,4.51,3.9,14.0,2024,197
+4.0,13:43,2.0,10.0,ATL 16,21.0,21.0,Sam Darnold pass complete short left to Justin Jefferson for 5 yards (tackle by Justin Simmons),3.9,3.94,14.0,2024,197
+4.0,13:04,3.0,5.0,ATL 11,21.0,27.0,"Sam Darnold pass complete short right to Jordan Addison for 11 yards, touchdown",3.94,7.0,14.0,2024,197
+4.0,12:59,,,ATL 15,21.0,28.0,Will Reichard kicks extra point good,0.0,0.0,14.0,2024,197
+4.0,12:59,,,MIN 35,21.0,28.0,"Will Reichard kicks off 65 yards, returned by Ray-Ray McCloud for 31 yards. Ray-Ray McCloud fumbles (forced by Brian Asamoah), recovered by C.J. Ham at ATL-32 (tackle by Brian Asamoah)",0.0,-3.45,14.0,2024,197
+4.0,12:53,1.0,10.0,ATL 32,21.0,28.0,Aaron Jones right end for 7 yards (tackle by Zach Harrison and Jessie Bates),3.45,3.85,14.0,2024,197
+4.0,12:15,2.0,3.0,ATL 25,21.0,28.0,Sam Darnold pass complete short left to Justin Jefferson for 7 yards (tackle by Kaden Elliss),3.85,4.37,14.0,2024,197
+4.0,11:30,1.0,10.0,ATL 18,21.0,28.0,Sam Darnold pass complete short left to Aaron Jones for 5 yards (tackle by Kaden Elliss),4.37,4.61,14.0,2024,197
+4.0,10:51,2.0,5.0,ATL 13,21.0,28.0,Sam Darnold pass complete short right to T.J. Hockenson for 3 yards (tackle by Jessie Bates),4.61,4.51,14.0,2024,197
+4.0,10:05,3.0,2.0,ATL 10,21.0,28.0,Sam Darnold pass complete short left to Jordan Addison for 9 yards (tackle by DeAundre Alford),4.51,6.97,14.0,2024,197
+4.0,9:36,1.0,1.0,ATL 1,21.0,28.0,Sam Darnold up the middle for no gain (tackle by Lorenzo Carter),6.97,5.91,14.0,2024,197
+4.0,8:58,2.0,1.0,ATL 1,21.0,28.0,"Aaron Jones right guard for no gain (tackle by Troy Andersen). Penalty on Sam Darnold: Illegal Shift, 5 yards (accepted) (no play)",5.91,4.95,14.0,2024,197
+4.0,8:28,2.0,6.0,ATL 6,21.0,34.0,"Sam Darnold pass complete short right to Jordan Addison for 6 yards, touchdown",4.95,7.0,14.0,2024,197
+4.0,8:23,,,ATL 15,21.0,35.0,Will Reichard kicks extra point good,0.0,0.0,14.0,2024,197
+4.0,8:23,,,MIN 35,21.0,35.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,197
+4.0,8:23,1.0,10.0,ATL 30,21.0,35.0,Kirk Cousins pass complete short middle to Darnell Mooney for 18 yards (tackle by Camryn Bynum and Harrison Smith),0.94,2.13,14.0,2024,197
+4.0,8:04,1.0,10.0,ATL 48,21.0,35.0,Kirk Cousins pass incomplete short left intended for Darnell Mooney (defended by Blake Cashman),2.13,1.58,14.0,2024,197
+4.0,7:59,2.0,10.0,ATL 48,21.0,35.0,Kirk Cousins pass complete short right to Ray-Ray McCloud for 9 yards (tackle by Blake Cashman),1.58,2.08,14.0,2024,197
+4.0,7:35,3.0,1.0,MIN 43,21.0,35.0,Tyler Allgeier left guard for 4 yards (tackle by Blake Cashman),2.08,2.98,14.0,2024,197
+4.0,7:12,1.0,10.0,MIN 39,21.0,35.0,Kirk Cousins pass complete short right to Kyle Pitts for 14 yards (tackle by Kamu Grugier-Hill),2.98,3.91,14.0,2024,197
+4.0,6:35,1.0,10.0,MIN 25,21.0,35.0,Kirk Cousins pass deep right intended for Kyle Pitts is intercepted by Byron Murphy at MIN-2 and returned for no gain,3.91,0.38,14.0,2024,197
+4.0,6:26,1.0,10.0,MIN 2,21.0,35.0,"Penalty on Eddie Goldman: Neutral Zone Infraction, 5 yards (accepted) (no play)",-0.38,-0.19,14.0,2024,197
+4.0,6:26,1.0,5.0,MIN 7,21.0,35.0,Cam Akers left tackle for 4 yards (tackle by Eddie Goldman),-0.19,-0.12,14.0,2024,197
+4.0,5:46,2.0,1.0,MIN 11,21.0,35.0,"Penalty on Johnny Mundt: False Start, 5 yards (accepted) (no play)",-0.12,-0.49,14.0,2024,197
+4.0,5:46,2.0,6.0,MIN 6,21.0,35.0,Cam Akers up the middle for 25 yards (tackle by Justin Simmons and Clark Phillips),-0.49,1.0,14.0,2024,197
+4.0,5:00,1.0,10.0,MIN 31,21.0,35.0,Cam Akers left end for 11 yards (tackle by Jessie Bates and Kaden Elliss),1.0,1.73,14.0,2024,197
+4.0,4:16,1.0,10.0,MIN 42,21.0,35.0,"Cam Akers left end for no gain (tackle by Lorenzo Carter). Penalty on Lorenzo Carter: Face Mask (15 Yards), 15 yards (accepted) (no play)",1.73,2.72,14.0,2024,197
+4.0,4:06,1.0,10.0,ATL 43,21.0,35.0,Sam Darnold pass complete short right to Josh Oliver for 26 yards (tackle by Kaden Elliss),2.72,4.44,14.0,2024,197
+4.0,3:53,,,,,,Timeout #2 by Minnesota Vikings,,,14.0,2024,197
+4.0,3:53,1.0,10.0,ATL 17,21.0,35.0,Aaron Jones right tackle for 2 yards (tackle by David Onyemata and Nathan Landman),4.44,4.15,14.0,2024,197
+4.0,3:49,,,,,,Timeout #1 by Atlanta Falcons,,,14.0,2024,197
+4.0,3:49,2.0,8.0,ATL 15,21.0,35.0,Aaron Jones left end for no gain (tackle by Clark Phillips),4.15,3.34,14.0,2024,197
+4.0,3:43,,,,,,Timeout #2 by Atlanta Falcons,,,14.0,2024,197
+4.0,3:43,3.0,8.0,ATL 15,21.0,41.0,"Aaron Jones right guard for 15 yards, touchdown",3.34,7.0,14.0,2024,197
+4.0,3:38,,,ATL 15,21.0,42.0,Will Reichard kicks extra point good,0.0,0.0,14.0,2024,197
+4.0,3:38,,,MIN 35,21.0,42.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,197
+4.0,3:38,1.0,10.0,ATL 30,21.0,42.0,Bijan Robinson up the middle for 1 yard (tackle by Jihad Ward),0.94,0.53,14.0,2024,197
+4.0,3:15,2.0,9.0,ATL 31,21.0,42.0,Kirk Cousins pass complete short left to Darnell Mooney for 14 yards (tackle by Brian Asamoah),0.53,1.93,14.0,2024,197
+4.0,3:07,1.0,10.0,ATL 45,21.0,42.0,Bijan Robinson right guard for 6 yards (tackle by Jerry Tillery),1.93,2.19,14.0,2024,197
+4.0,2:44,2.0,4.0,MIN 49,21.0,42.0,Kirk Cousins pass complete short right to Drake London for 14 yards (tackle by Theo Jackson),2.19,3.25,14.0,2024,197
+4.0,2:38,1.0,10.0,MIN 35,21.0,42.0,"Penalty on Kyle Pitts: False Start, 5 yards (accepted) (no play)",3.25,2.92,14.0,2024,197
+4.0,2:38,1.0,15.0,MIN 40,21.0,42.0,"Kirk Cousins pass complete short middle to Kyle Pitts for no gain (tackle by Kamu Grugier-Hill). Penalty on Brian Asamoah: Defensive Offside, 5 yards (accepted) (no play)",2.92,3.25,14.0,2024,197
+4.0,2:33,1.0,10.0,MIN 35,21.0,42.0,Bijan Robinson left end for 6 yards (tackle by Josh Metellus and Theo Jackson),3.25,3.51,14.0,2024,197
+4.0,2:10,2.0,4.0,MIN 29,21.0,42.0,Kirk Cousins pass complete short left to Darnell Mooney for 9 yards (tackle by Kamu Grugier-Hill),3.51,4.24,14.0,2024,197
+4.0,2:00,1.0,10.0,MIN 20,21.0,42.0,"Penalty on Matthew Bergeron: False Start, 5 yards (accepted) (no play)",4.24,3.91,14.0,2024,197
+4.0,2:00,1.0,15.0,MIN 25,21.0,42.0,Ray-Ray McCloud right end for 3 yards (tackle by Fabian Moreau and Bo Richter),3.91,3.42,14.0,2024,197
+4.0,1:29,2.0,12.0,MIN 22,21.0,42.0,Kirk Cousins pass complete short right to Drake London for 9 yards (tackle by Camryn Bynum and Fabian Moreau),3.42,4.1,14.0,2024,197
+4.0,0:55,3.0,3.0,MIN 13,21.0,42.0,Kirk Cousins pass incomplete short right intended for Kyle Pitts (defended by Theo Jackson),4.1,2.67,14.0,2024,197
+4.0,0:48,4.0,3.0,MIN 13,21.0,42.0,Kirk Cousins pass incomplete short middle intended for Kyle Pitts,2.67,0.28,14.0,2024,197
+4.0,0:44,1.0,10.0,MIN 14,21.0,42.0,Nick Mullens kneels for -1 yards,-0.28,-0.85,14.0,2024,197
+4.0,0:31,2.0,11.0,MIN 13,21.0,42.0,Nick Mullens kneels for -1 yards,-0.85,-1.65,14.0,2024,197

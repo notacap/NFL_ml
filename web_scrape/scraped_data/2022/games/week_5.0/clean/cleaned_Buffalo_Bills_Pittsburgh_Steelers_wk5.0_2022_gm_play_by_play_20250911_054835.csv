@@ -1,0 +1,168 @@
+Quarter,Time,Down,ToGo,Location,PIT,BUF,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Steelers won the coin toss and deferred, Bills to receive the opening kickoff.",,,5.0,2022,68
+1.0,15:00,,,PIT 35,0.0,0.0,"Chris Boswell kicks off 65 yards, returned by Taiwan Jones for 2 yards (tackle by Tre Norwood)",0.0,-0.38,5.0,2022,68
+1.0,14:54,1.0,10.0,BUF 2,0.0,0.0,Josh Allen pass incomplete short left intended for Devin Singletary (defended by DeMarvin Leal),-0.38,-0.78,5.0,2022,68
+1.0,14:49,2.0,10.0,BUF 2,0.0,0.0,Devin Singletary right guard for no gain (tackle by Myles Jack and Cameron Heyward),-0.78,-1.42,5.0,2022,68
+1.0,14:09,3.0,10.0,BUF 2,0.0,6.0,"Josh Allen pass complete deep middle to Gabriel Davis for 98 yards, touchdown",-1.42,7.0,5.0,2022,68
+1.0,13:56,,,PIT 15,0.0,7.0,Tyler Bass kicks extra point good,0.0,0.0,5.0,2022,68
+1.0,13:56,,,BUF 35,0.0,7.0,"Tyler Bass kicks off 45 yards, returned by James Pierre for no gain. James Pierre fumbles, recovered by Taron Johnson at PIT-21",0.0,-4.17,5.0,2022,68
+1.0,13:56,1.0,10.0,PIT 21,0.0,7.0,Josh Allen pass complete short right to Devin Singletary for 4 yards (tackle by Arthur Maulet),4.17,4.2,5.0,2022,68
+1.0,13:09,2.0,6.0,PIT 17,0.0,7.0,"Devin Singletary up the middle for 8 yards (tackle by Devin Bush and DeMarvin Leal). Penalty on Ryan Bates: Offensive Holding, 10 yards (accepted) (no play)",4.2,2.82,5.0,2022,68
+1.0,12:51,2.0,16.0,PIT 27,0.0,7.0,Josh Allen pass complete short right to Stefon Diggs for -4 yards (tackle by Alex Highsmith),2.82,1.62,5.0,2022,68
+1.0,12:07,3.0,20.0,PIT 31,0.0,7.0,Josh Allen pass incomplete deep left intended for Gabriel Davis,1.62,1.32,5.0,2022,68
+1.0,12:02,4.0,20.0,PIT 31,0.0,7.0,Tyler Bass 49 yard field goal no good blocked by DeMarvin Leal,1.32,-1.53,5.0,2022,68
+1.0,11:56,1.0,10.0,PIT 39,0.0,7.0,Kenny Pickett pass complete short right to Derek Watt for 1 yard (tackle by Tyrel Dodson and Jaquan Johnson),1.53,1.12,5.0,2022,68
+1.0,11:19,2.0,9.0,PIT 40,0.0,7.0,Najee Harris left end for -2 yards (tackle by Damar Hamlin),1.12,0.17,5.0,2022,68
+1.0,10:35,3.0,11.0,PIT 38,0.0,7.0,Kenny Pickett pass complete short right to George Pickens for 12 yards,0.17,2.26,5.0,2022,68
+1.0,10:01,1.0,10.0,PIT 50,0.0,7.0,Kenny Pickett pass complete short left to Chase Claypool for 11 yards (tackle by Damar Hamlin),2.26,2.98,5.0,2022,68
+1.0,9:21,1.0,10.0,BUF 39,0.0,7.0,Najee Harris right guard for 6 yards (tackle by Kaiir Elam),2.98,3.25,5.0,2022,68
+1.0,8:39,2.0,4.0,BUF 33,0.0,7.0,Kenny Pickett pass incomplete short right intended for Diontae Johnson (defended by A.J. Epenesa),3.25,2.54,5.0,2022,68
+1.0,8:35,3.0,4.0,BUF 33,0.0,7.0,Kenny Pickett pass complete short left to Zach Gentry for 8 yards (tackle by Tyrel Dodson),2.54,3.91,5.0,2022,68
+1.0,7:53,1.0,10.0,BUF 25,0.0,7.0,Kenny Pickett pass complete short right to George Pickens for 12 yards (tackle by Kaiir Elam),3.91,4.71,5.0,2022,68
+1.0,7:11,1.0,10.0,BUF 13,0.0,7.0,Najee Harris left guard for 3 yards (tackle by Tyrel Dodson and Jaquan Johnson),4.71,4.58,5.0,2022,68
+1.0,6:30,2.0,7.0,BUF 10,0.0,7.0,Najee Harris left tackle for -1 yards (tackle by Taron Johnson and Tyrel Dodson),4.58,3.45,5.0,2022,68
+1.0,5:45,3.0,8.0,BUF 11,0.0,7.0,"Kenny Pickett pass complete short right to Diontae Johnson for 9 yards Replay Assistant challenged the pass completion ruling, and the original play was overturned. Kenny Pickett pass incomplete short right intended for Diontae Johnson",3.45,2.7,5.0,2022,68
+1.0,5:42,4.0,8.0,BUF 11,3.0,7.0,Chris Boswell 29 yard field goal good,2.7,3.0,5.0,2022,68
+1.0,5:38,,,PIT 35,3.0,7.0,"Chris Boswell kicks off 64 yards, returned by Khalil Shakir for 34 yards (tackle by Arthur Maulet)",0.0,1.27,5.0,2022,68
+1.0,5:32,1.0,10.0,BUF 35,3.0,7.0,Devin Singletary left guard for no gain (tackle by Arthur Maulet),1.27,0.72,5.0,2022,68
+1.0,4:57,2.0,10.0,BUF 35,3.0,7.0,Josh Allen pass complete deep middle to Khalil Shakir for 31 yards (tackle by Devin Bush),0.72,3.31,5.0,2022,68
+1.0,4:29,1.0,10.0,PIT 34,3.0,7.0,Josh Allen scrambles left tackle for 16 yards (tackle by Cameron Sutton),3.31,4.37,5.0,2022,68
+1.0,3:39,1.0,10.0,PIT 18,3.0,7.0,Josh Allen pass incomplete deep right intended for Stefon Diggs,4.37,3.8,5.0,2022,68
+1.0,3:33,2.0,10.0,PIT 18,3.0,7.0,Josh Allen left end for 1 yard (tackle by Cameron Heyward),3.8,3.17,5.0,2022,68
+1.0,2:49,3.0,9.0,PIT 17,3.0,7.0,Josh Allen pass incomplete deep left intended for Stefon Diggs,3.17,2.31,5.0,2022,68
+1.0,2:45,4.0,9.0,PIT 17,3.0,10.0,Tyler Bass 35 yard field goal good,2.31,3.0,5.0,2022,68
+1.0,2:41,,,BUF 35,3.0,10.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.61,5.0,2022,68
+1.0,2:41,1.0,10.0,PIT 25,3.0,10.0,Najee Harris right end for 3 yards (tackle by Tyrel Dodson),0.61,0.47,5.0,2022,68
+1.0,2:02,2.0,7.0,PIT 28,3.0,10.0,"Kenny Pickett pass complete short left to Pat Freiermuth for no gain (tackle by Damar Hamlin and Kaiir Elam). Penalty on Zach Gentry: Offensive Holding, 10 yards (accepted) (no play)",0.47,-0.98,5.0,2022,68
+1.0,1:35,2.0,17.0,PIT 18,3.0,10.0,Kenny Pickett pass complete short left to Diontae Johnson for 11 yards (tackle by Tyrel Dodson),-0.98,-0.1,5.0,2022,68
+1.0,0:55,3.0,6.0,PIT 29,3.0,10.0,Kenny Pickett pass incomplete short middle intended for Diontae Johnson (defended by Dane Jackson),-0.1,-1.44,5.0,2022,68
+1.0,0:48,4.0,6.0,PIT 29,3.0,10.0,Pressley Harvin punts 69 yards downed by Marcus Allen,-1.44,0.38,5.0,2022,68
+1.0,0:34,1.0,10.0,BUF 2,3.0,10.0,"Penalty on Dion Dawkins: False Start, 1 yard (accepted) (no play)",-0.38,-0.42,5.0,2022,68
+1.0,0:34,1.0,11.0,BUF 1,3.0,10.0,Zack Moss left tackle for 7 yards (tackle by Cameron Sutton),-0.42,-0.34,5.0,2022,68
+2.0,15:00,2.0,4.0,BUF 8,3.0,10.0,Josh Allen pass incomplete deep right intended for Stefon Diggs (defended by Levi Wallace),-0.34,-0.72,5.0,2022,68
+2.0,14:52,3.0,4.0,BUF 8,3.0,10.0,Josh Allen pass complete deep right to Isaiah Hodgins for 26 yards (tackle by Tre Norwood),-0.72,1.2,5.0,2022,68
+2.0,14:18,1.0,10.0,BUF 34,3.0,10.0,Josh Allen pass incomplete short right intended for Quintin Morris (defended by DeMarvin Leal),1.2,0.66,5.0,2022,68
+2.0,14:14,2.0,10.0,BUF 34,3.0,10.0,James Cook left end for -1 yards (tackle by Cameron Sutton),0.66,-0.16,5.0,2022,68
+2.0,13:32,3.0,11.0,BUF 33,3.0,10.0,Josh Allen pass complete short right to Quintin Morris for 26 yards (tackle by James Pierre),-0.16,2.85,5.0,2022,68
+2.0,12:51,1.0,10.0,PIT 41,3.0,10.0,James Cook right tackle for 2 yards (tackle by Myles Jack),2.85,2.58,5.0,2022,68
+2.0,12:12,2.0,8.0,PIT 39,3.0,10.0,Josh Allen pass complete short middle to Stefon Diggs for 18 yards (tackle by Cameron Sutton),2.58,4.17,5.0,2022,68
+2.0,11:32,1.0,10.0,PIT 21,3.0,10.0,Josh Allen pass deep right intended for Gabriel Davis is intercepted by Levi Wallace in end zone and returned for no gain,4.17,-0.28,5.0,2022,68
+2.0,11:25,1.0,10.0,PIT 20,3.0,10.0,Najee Harris up the middle for 6 yards (tackle by Tyrel Dodson),0.28,0.54,5.0,2022,68
+2.0,10:49,2.0,4.0,PIT 26,3.0,10.0,Najee Harris left guard for no gain (tackle by Jaquan Johnson and Jordan Phillips),0.54,-0.16,5.0,2022,68
+2.0,10:22,3.0,4.0,PIT 26,3.0,10.0,Kenny Pickett pass complete short left to Najee Harris for 2 yards (tackle by Damar Hamlin and Matt Milano),-0.16,-1.5,5.0,2022,68
+2.0,9:47,4.0,2.0,PIT 28,3.0,10.0,"Pressley Harvin punts 34 yards, fair catch by Khalil Shakir at BUF-38",-1.5,-1.47,5.0,2022,68
+2.0,9:39,1.0,10.0,BUF 38,3.0,16.0,"Josh Allen pass complete deep middle to Gabriel Davis for 62 yards, touchdown",1.47,7.0,5.0,2022,68
+2.0,9:29,,,PIT 15,3.0,17.0,Tyler Bass kicks extra point good,0.0,0.0,5.0,2022,68
+2.0,9:29,,,BUF 35,3.0,17.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.61,5.0,2022,68
+2.0,9:29,1.0,10.0,PIT 25,3.0,17.0,Najee Harris up the middle for 1 yard (tackle by Damar Hamlin),0.61,0.2,5.0,2022,68
+2.0,8:49,2.0,9.0,PIT 26,3.0,17.0,Najee Harris up the middle for 1 yard (tackle by Damar Hamlin),0.2,-0.36,5.0,2022,68
+2.0,8:09,3.0,8.0,PIT 27,3.0,17.0,Kenny Pickett pass incomplete short middle intended for Diontae Johnson (defended by Matt Milano),-0.36,-1.57,5.0,2022,68
+2.0,8:04,4.0,8.0,PIT 27,3.0,17.0,Pressley Harvin punts 26 yards downed by Miles Boykin,-1.57,-2.06,5.0,2022,68
+2.0,7:53,1.0,10.0,BUF 47,3.0,17.0,Devin Singletary left end for 23 yards (tackle by Cameron Heyward and Arthur Maulet),2.06,3.58,5.0,2022,68
+2.0,7:53,1.0,10.0,PIT 30,3.0,17.0,"Penalty on Myles Jack: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",3.58,4.58,5.0,2022,68
+2.0,7:24,1.0,10.0,PIT 15,3.0,23.0,"Josh Allen pass complete short left to Stefon Diggs for 15 yards, touchdown",4.58,7.0,5.0,2022,68
+2.0,7:20,,,PIT 15,3.0,24.0,Tyler Bass kicks extra point good,0.0,0.0,5.0,2022,68
+2.0,7:20,,,BUF 35,3.0,24.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.61,5.0,2022,68
+2.0,7:20,1.0,10.0,PIT 25,3.0,24.0,Kenny Pickett pass complete short right to George Pickens for 10 yards (tackle by Kaiir Elam),0.61,1.27,5.0,2022,68
+2.0,6:42,1.0,10.0,PIT 35,3.0,24.0,Kenny Pickett pass complete short left to Zach Gentry for 11 yards (tackle by Jaquan Johnson),1.27,1.99,5.0,2022,68
+2.0,6:06,1.0,10.0,PIT 46,3.0,24.0,Kenny Pickett pass incomplete short left intended for Najee Harris (defended by Matt Milano),1.99,1.45,5.0,2022,68
+2.0,6:01,2.0,10.0,PIT 46,3.0,24.0,Kenny Pickett pass complete short right to Diontae Johnson for 5 yards (tackle by Kaiir Elam),1.45,1.42,5.0,2022,68
+2.0,5:20,3.0,5.0,BUF 49,3.0,24.0,Kenny Pickett pass complete deep left to George Pickens for 29 yards (tackle by Kaiir Elam),1.42,4.24,5.0,2022,68
+2.0,4:54,1.0,10.0,BUF 20,3.0,24.0,Jaylen Warren left end for 1 yard (tackle by DaQuan Jones),4.24,3.82,5.0,2022,68
+2.0,4:13,2.0,9.0,BUF 19,3.0,24.0,Kenny Pickett pass incomplete deep right intended for Diontae Johnson,3.82,3.1,5.0,2022,68
+2.0,4:08,3.0,9.0,BUF 19,3.0,24.0,Kenny Pickett pass complete short right to Pat Freiermuth for 4 yards (tackle by Taron Johnson),3.1,2.49,5.0,2022,68
+2.0,3:43,4.0,5.0,BUF 15,3.0,24.0,Chris Boswell 33 yard field goal no good,2.49,-0.48,5.0,2022,68
+2.0,3:39,1.0,10.0,BUF 23,3.0,24.0,Josh Allen pass complete short right to Stefon Diggs for 3 yards (tackle by Levi Wallace),0.48,0.34,5.0,2022,68
+2.0,3:07,2.0,7.0,BUF 26,3.0,24.0,Josh Allen pass complete short left to Khalil Shakir for 20 yards,0.34,1.99,5.0,2022,68
+2.0,2:34,1.0,10.0,BUF 46,3.0,24.0,Josh Allen pass incomplete deep right intended for Khalil Shakir,1.99,1.45,5.0,2022,68
+2.0,2:28,2.0,10.0,BUF 46,3.0,24.0,Josh Allen pass complete short middle to Quintin Morris for 13 yards (tackle by Devin Bush),1.45,2.85,5.0,2022,68
+2.0,2:00,1.0,10.0,PIT 41,3.0,24.0,Josh Allen pass complete short middle to Stefon Diggs for 12 yards (tackle by Tre Norwood),2.85,3.64,5.0,2022,68
+2.0,1:51,1.0,10.0,PIT 29,3.0,24.0,Josh Allen scrambles right guard for 5 yards (tackle by Malik Reed and Devin Bush),3.64,3.78,5.0,2022,68
+2.0,1:15,,,,,,Timeout #1 by Pittsburgh Steelers,,,5.0,2022,68
+2.0,1:15,2.0,5.0,PIT 24,3.0,24.0,Josh Allen pass incomplete deep right intended for Quintin Morris (defended by Robert Spillane),3.78,3.07,5.0,2022,68
+2.0,1:09,3.0,5.0,PIT 24,3.0,30.0,"Josh Allen pass complete deep left to Khalil Shakir for 24 yards, touchdown",3.07,7.0,5.0,2022,68
+2.0,1:02,,,PIT 15,3.0,31.0,Tyler Bass kicks extra point good,0.0,0.0,5.0,2022,68
+2.0,1:02,,,BUF 35,3.0,31.0,"Tyler Bass kicks off 57 yards, returned by Steven Sims for 19 yards (tackle by Joe Giles-Harris)",0.0,0.74,5.0,2022,68
+2.0,0:56,1.0,10.0,PIT 27,3.0,31.0,Kenny Pickett pass complete short right to Najee Harris for 5 yards (tackle by Dane Jackson),0.74,0.87,5.0,2022,68
+2.0,0:30,2.0,5.0,PIT 32,3.0,31.0,"Kenny Pickett sacked by Gregory Rousseau for no gain. Penalty on Von Miller: Defensive Offside, 5 yards (accepted) (no play)",0.87,1.4,5.0,2022,68
+2.0,0:23,1.0,10.0,PIT 37,3.0,31.0,Kenny Pickett pass deep left intended for Diontae Johnson is intercepted by Kaiir Elam at BUF-38 and returned for no gain (tackle by Diontae Johnson),1.4,-1.47,5.0,2022,68
+2.0,0:15,1.0,10.0,BUF 38,3.0,31.0,"Penalty on Stefon Diggs: False Start, 5 yards (accepted) (no play)",1.47,1.14,5.0,2022,68
+2.0,0:15,1.0,15.0,BUF 33,3.0,31.0,Josh Allen pass incomplete short left intended for Gabriel Davis (defended by Robert Spillane),1.14,0.25,5.0,2022,68
+2.0,0:09,2.0,15.0,BUF 33,3.0,31.0,Josh Allen kneels for -1 yards,0.25,-0.56,5.0,2022,68
+3.0,15:00,,,BUF 35,3.0,31.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.61,5.0,2022,68
+3.0,15:00,1.0,10.0,PIT 25,3.0,31.0,Kenny Pickett pass complete deep right to Diontae Johnson for 23 yards (tackle by Dane Jackson),0.61,2.13,5.0,2022,68
+3.0,14:19,1.0,10.0,PIT 48,3.0,31.0,Najee Harris up the middle for 3 yards (tackle by Tyrel Dodson),2.13,1.99,5.0,2022,68
+3.0,13:42,2.0,7.0,BUF 49,3.0,31.0,"Kenny Pickett pass incomplete short left intended for Diontae Johnson. Penalty on Kaiir Elam: Defensive Pass Interference, 7 yards (accepted) (no play)",1.99,2.79,5.0,2022,68
+3.0,13:38,1.0,10.0,BUF 42,3.0,31.0,Kenny Pickett pass complete short right to Najee Harris for 9 yards (tackle by Jaquan Johnson),2.79,3.46,5.0,2022,68
+3.0,12:57,2.0,1.0,BUF 33,3.0,31.0,Kenny Pickett pass complete short left to Chase Claypool for 9 yards (tackle by Kaiir Elam and Jaquan Johnson),3.46,3.97,5.0,2022,68
+3.0,12:17,1.0,10.0,BUF 24,3.0,31.0,Kenny Pickett pass complete short left to Diontae Johnson for 7 yards (tackle by Dane Jackson),3.97,4.46,5.0,2022,68
+3.0,11:35,2.0,3.0,BUF 17,3.0,31.0,Kenny Pickett sacked by Tyrel Dodson for -3 yards,4.46,3.27,5.0,2022,68
+3.0,10:48,3.0,6.0,BUF 20,3.0,31.0,Kenny Pickett pass incomplete short right intended for George Pickens,3.27,2.15,5.0,2022,68
+3.0,10:44,4.0,6.0,BUF 20,3.0,31.0,Kenny Pickett pass incomplete short left intended for Diontae Johnson (defended by Taron Johnson),2.15,-0.28,5.0,2022,68
+3.0,10:38,1.0,10.0,BUF 20,3.0,31.0,Devin Singletary right tackle for 8 yards (tackle by Myles Jack and Levi Wallace),0.28,0.81,5.0,2022,68
+3.0,10:25,2.0,2.0,BUF 28,3.0,31.0,Josh Allen pass complete short right to Gabriel Davis for 11 yards (tackle by Levi Wallace),0.81,1.53,5.0,2022,68
+3.0,9:40,1.0,10.0,BUF 39,3.0,31.0,Devin Singletary right end for 6 yards (tackle by Myles Jack and Cameron Heyward),1.53,1.8,5.0,2022,68
+3.0,9:01,2.0,4.0,BUF 45,3.0,31.0,Josh Allen pass incomplete short middle intended for Khalil Shakir,1.8,1.09,5.0,2022,68
+3.0,8:56,3.0,4.0,BUF 45,3.0,31.0,Josh Allen scrambles right tackle for 21 yards (tackle by James Pierre),1.09,3.31,5.0,2022,68
+3.0,8:18,1.0,10.0,PIT 34,3.0,31.0,Josh Allen pass complete short right to Stefon Diggs for 5 yards (tackle by James Pierre),3.31,3.45,5.0,2022,68
+3.0,7:41,2.0,5.0,PIT 29,3.0,31.0,Josh Allen pass complete short right to Stefon Diggs for 12 yards (tackle by James Pierre),3.45,4.44,5.0,2022,68
+3.0,6:58,1.0,10.0,PIT 17,3.0,31.0,Devin Singletary right end for 5 yards (tackle by Devin Bush),4.44,4.69,5.0,2022,68
+3.0,6:10,,,,,,Timeout #1 by Buffalo Bills,,,5.0,2022,68
+3.0,6:10,2.0,5.0,PIT 12,3.0,31.0,Josh Allen pass complete short left to Isaiah Hodgins for 7 yards (tackle by Josh Jackson and Minkah Fitzpatrick),4.69,6.06,5.0,2022,68
+3.0,5:29,1.0,5.0,PIT 5,3.0,31.0,"Josh Allen pass incomplete short middle intended for Gabriel Davis. Penalty on Josh Jackson: Defensive Pass Interference, 4 yards (accepted) (no play)",6.06,6.97,5.0,2022,68
+3.0,5:28,1.0,1.0,PIT 1,3.0,31.0,"Josh Allen pass complete short middle to Quintin Morris for no gain. Quintin Morris fumbles (forced by Cameron Heyward), recovered by Josh Jackson in end zone (tackle by Myles Jack and Cameron Heyward)",6.97,-0.28,5.0,2022,68
+3.0,5:19,1.0,10.0,PIT 20,3.0,31.0,Kenny Pickett pass complete short left to George Pickens for 10 yards (tackle by Dane Jackson),0.28,0.94,5.0,2022,68
+3.0,4:56,1.0,10.0,PIT 30,3.0,31.0,Kenny Pickett pass complete short left to George Pickens for 10 yards (tackle by Dane Jackson and Jaquan Johnson),0.94,1.6,5.0,2022,68
+3.0,4:17,1.0,10.0,PIT 40,3.0,31.0,Kenny Pickett sacked by Von Miller for -6 yards,1.6,0.24,5.0,2022,68
+3.0,3:36,2.0,16.0,PIT 34,3.0,31.0,Kenny Pickett pass complete short right to Pat Freiermuth for 8 yards (tackle by Taron Johnson and Tyrel Dodson),0.24,0.63,5.0,2022,68
+3.0,3:13,3.0,8.0,PIT 42,3.0,31.0,Kenny Pickett pass complete short left to Chase Claypool for 20 yards (tackle by Taron Johnson and Jaquan Johnson),0.63,3.05,5.0,2022,68
+3.0,2:41,1.0,10.0,BUF 38,3.0,31.0,Kenny Pickett pass complete short right to Diontae Johnson for 14 yards (tackle by Kaiir Elam),3.05,3.97,5.0,2022,68
+3.0,2:01,1.0,10.0,BUF 24,3.0,31.0,Najee Harris right tackle for no gain (tackle by Matt Milano),3.97,3.43,5.0,2022,68
+3.0,1:20,2.0,10.0,BUF 24,3.0,31.0,"Kenny Pickett scrambles for 10 yards (tackle by Damar Hamlin). Penalty on James Daniels: Unnecessary Roughness / Offense, 15 yards (accepted)",3.43,2.08,5.0,2022,68
+3.0,0:46,3.0,15.0,BUF 29,3.0,31.0,Kenny Pickett pass complete short left to Zach Gentry for 7 yards (tackle by Taron Johnson and Tyrel Dodson),2.08,1.99,5.0,2022,68
+3.0,0:12,4.0,8.0,BUF 22,3.0,31.0,"Penalty on Dan Moore: False Start, 5 yards (accepted) (no play)",1.99,1.67,5.0,2022,68
+3.0,0:06,4.0,13.0,BUF 27,3.0,31.0,Chris Boswell 45 yard field goal no good,1.67,-1.27,5.0,2022,68
+4.0,15:00,1.0,10.0,BUF 35,3.0,31.0,Josh Allen pass complete short middle to Stefon Diggs for 41 yards (tackle by Arthur Maulet),1.27,3.97,5.0,2022,68
+4.0,14:11,1.0,10.0,PIT 24,3.0,37.0,"James Cook up the middle for 24 yards, touchdown",3.97,7.0,5.0,2022,68
+4.0,14:03,,,PIT 15,3.0,38.0,Tyler Bass kicks extra point good,0.0,0.0,5.0,2022,68
+4.0,14:03,,,BUF 35,3.0,38.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.61,5.0,2022,68
+4.0,14:03,1.0,10.0,PIT 25,3.0,38.0,Kenny Pickett pass complete short left to Jaylen Warren for 10 yards (tackle by Terrel Bernard and Damar Hamlin),0.61,1.27,5.0,2022,68
+4.0,13:38,1.0,10.0,PIT 35,3.0,38.0,Jaylen Warren right guard for 1 yard (tackle by DaQuan Jones and Terrel Bernard),1.27,0.86,5.0,2022,68
+4.0,13:01,2.0,9.0,PIT 36,3.0,38.0,Jaylen Warren left guard for 10 yards (tackle by Siran Neal),0.86,1.99,5.0,2022,68
+4.0,12:24,1.0,10.0,PIT 46,3.0,38.0,Kenny Pickett pass complete short left to Jaylen Warren for 12 yards (tackle by Dane Jackson),1.99,2.79,5.0,2022,68
+4.0,11:53,1.0,10.0,BUF 42,3.0,38.0,Kenny Pickett pass complete short middle to Chase Claypool for 6 yards (tackle by Terrel Bernard),2.79,3.05,5.0,2022,68
+4.0,11:13,2.0,4.0,BUF 36,3.0,38.0,Kenny Pickett pass complete short left to Zach Gentry for 6 yards (tackle by Ja'Marcus Ingram and Terrel Bernard),3.05,3.58,5.0,2022,68
+4.0,10:39,1.0,10.0,BUF 30,3.0,38.0,Kenny Pickett pass incomplete short right intended for Chase Claypool (defended by Siran Neal),3.58,3.03,5.0,2022,68
+4.0,10:33,2.0,10.0,BUF 30,3.0,38.0,Kenny Pickett pass incomplete short right intended for George Pickens (defended by Siran Neal),3.03,2.34,5.0,2022,68
+4.0,10:26,3.0,10.0,BUF 30,3.0,38.0,Kenny Pickett pass incomplete deep left intended for Diontae Johnson,2.34,1.41,5.0,2022,68
+4.0,10:21,4.0,10.0,BUF 30,3.0,38.0,Kenny Pickett pass incomplete short right intended for Chase Claypool,1.41,-0.94,5.0,2022,68
+4.0,10:16,1.0,10.0,BUF 30,3.0,38.0,James Cook left guard for 6 yards (tackle by DeMarvin Leal and Myles Jack),0.94,1.2,5.0,2022,68
+4.0,9:38,2.0,4.0,BUF 36,3.0,38.0,Case Keenum pass incomplete short left intended for Tanner Gentry,1.2,0.5,5.0,2022,68
+4.0,9:33,3.0,4.0,BUF 36,3.0,38.0,Case Keenum pass complete short left to Isaiah Hodgins for 3 yards (tackle by Josh Jackson),0.5,-0.78,5.0,2022,68
+4.0,8:37,4.0,1.0,BUF 39,3.0,38.0,"Sam Martin punts 61 yards, touchback.",-0.78,-0.28,5.0,2022,68
+4.0,8:26,1.0,10.0,PIT 20,3.0,38.0,Kenny Pickett pass incomplete short right intended for Zach Gentry (defended by Siran Neal),0.28,-0.27,5.0,2022,68
+4.0,8:22,2.0,10.0,PIT 20,3.0,38.0,Jaylen Warren right guard for no gain (tackle by Shaq Lawson),-0.27,-0.96,5.0,2022,68
+4.0,7:42,3.0,10.0,PIT 20,3.0,38.0,Kenny Pickett pass incomplete short middle intended for Chase Claypool (defended by Siran Neal),-0.96,-2.03,5.0,2022,68
+4.0,7:36,4.0,10.0,PIT 20,3.0,38.0,Pressley Harvin punts 34 yards downed by Christian Kuntz,-2.03,-1.99,5.0,2022,68
+4.0,7:27,1.0,10.0,BUF 46,3.0,38.0,Case Keenum pass incomplete deep middle intended for Isaiah Hodgins,1.99,1.45,5.0,2022,68
+4.0,7:22,2.0,10.0,BUF 46,3.0,38.0,Case Keenum pass complete short right to Isaiah Hodgins for 5 yards (tackle by James Pierre),1.45,1.42,5.0,2022,68
+4.0,6:40,3.0,5.0,PIT 49,3.0,38.0,Case Keenum pass incomplete short right intended for Isaiah Hodgins (defended by James Pierre),1.42,0.0,5.0,2022,68
+4.0,6:35,4.0,5.0,PIT 49,3.0,38.0,"Sam Martin punts 49 yards, touchback.",0.0,-0.28,5.0,2022,68
+4.0,6:26,1.0,10.0,PIT 20,3.0,38.0,Kenny Pickett pass incomplete short right intended for Jaylen Warren,0.28,-0.27,5.0,2022,68
+4.0,6:21,2.0,10.0,PIT 20,3.0,38.0,Kenny Pickett pass complete short left to Connor Heyward for 7 yards (tackle by Baylon Spector),-0.27,-0.03,5.0,2022,68
+4.0,5:38,3.0,3.0,PIT 27,3.0,38.0,Kenny Pickett pass complete short right to Connor Heyward for 5 yards (tackle by Baylon Spector),-0.03,1.07,5.0,2022,68
+4.0,5:15,,,,,,Timeout #2 by Buffalo Bills,,,5.0,2022,68
+4.0,5:15,1.0,10.0,PIT 32,3.0,38.0,"Penalty on Chase Claypool: False Start, 5 yards (accepted) (no play)",1.07,0.74,5.0,2022,68
+4.0,5:15,1.0,15.0,PIT 27,3.0,38.0,Kenny Pickett pass complete short right to Jaylen Warren for 13 yards (tackle by Terrel Bernard and Siran Neal),0.74,1.61,5.0,2022,68
+4.0,4:31,2.0,2.0,PIT 40,3.0,38.0,Jaylen Warren right guard for 12 yards (tackle by Terrel Bernard and Kaiir Elam),1.61,2.39,5.0,2022,68
+4.0,4:02,,,,,,Timeout #3 by Buffalo Bills,,,5.0,2022,68
+4.0,4:02,1.0,10.0,BUF 48,3.0,38.0,Kenny Pickett pass complete short right to Jaylen Warren for 4 yards (tackle by Cameron Lewis),2.39,2.39,5.0,2022,68
+4.0,3:25,2.0,6.0,BUF 44,3.0,38.0,Kenny Pickett pass complete short middle to Zach Gentry for 11 yards (tackle by Baylon Spector),2.39,3.38,5.0,2022,68
+4.0,2:52,1.0,10.0,BUF 33,3.0,38.0,Kenny Pickett pass complete short right to Miles Boykin for 11 yards (tackle by Kaiir Elam),3.38,4.11,5.0,2022,68
+4.0,2:29,1.0,10.0,BUF 22,3.0,38.0,Kenny Pickett pass complete short right to Chase Claypool for 4 yards (tackle by Baylon Spector and Kaiir Elam),4.11,4.13,5.0,2022,68
+4.0,2:00,2.0,6.0,BUF 18,3.0,38.0,Kenny Pickett pass incomplete short middle intended for Chase Claypool,4.13,3.4,5.0,2022,68
+4.0,1:55,3.0,6.0,BUF 18,3.0,38.0,Kenny Pickett sacked by A.J. Epenesa for -8 yards,3.4,1.74,5.0,2022,68
+4.0,1:08,4.0,14.0,BUF 26,3.0,38.0,Kenny Pickett pass incomplete short right,1.74,-0.61,5.0,2022,68
+4.0,1:00,1.0,10.0,BUF 25,3.0,38.0,"Penalty on Kenny Pickett: Unnecessary Roughness / Offense, 15 yards (offset) Penalty on A.J. Epenesa: Disqualification / Defense, 15 yards (offset) (no play)",0.61,0.67,5.0,2022,68
+4.0,1:00,1.0,10.0,BUF 26,3.0,38.0,Case Keenum kneels for -1 yards,0.67,-0.01,5.0,2022,68
+4.0,0:32,2.0,11.0,BUF 25,3.0,38.0,Case Keenum kneels for -1 yards,-0.01,-0.82,5.0,2022,68

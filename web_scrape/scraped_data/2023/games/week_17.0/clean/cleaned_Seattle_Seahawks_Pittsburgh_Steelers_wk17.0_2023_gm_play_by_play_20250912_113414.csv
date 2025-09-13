@@ -1,0 +1,163 @@
+Quarter,Time,Down,ToGo,Location,PIT,SEA,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Seahawks won the coin toss and deferred, Steelers to receive the opening kickoff.",,,17.0,2023,253
+1.0,15:00,,,SEA 35,0.0,0.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,253
+1.0,15:00,1.0,10.0,PIT 25,0.0,0.0,Najee Harris left guard for 4 yards (tackle by Devin Bush and Jarran Reed),0.61,0.6,17.0,2023,253
+1.0,14:20,2.0,6.0,PIT 29,0.0,0.0,Najee Harris left guard for 1 yard (tackle by Boye Mafe and Leonard Williams),0.6,0.04,17.0,2023,253
+1.0,13:43,3.0,5.0,PIT 30,0.0,0.0,Mason Rudolph pass complete short left to Diontae Johnson for 13 yards (tackle by Bobby Wagner),0.04,1.8,17.0,2023,253
+1.0,13:01,1.0,10.0,PIT 43,0.0,0.0,Jaylen Warren right tackle for 11 yards (tackle by Devon Witherspoon),1.8,2.52,17.0,2023,253
+1.0,12:23,1.0,10.0,SEA 46,0.0,0.0,Mason Rudolph pass complete short left to George Pickens for 5 yards (tackle by Riq Woolen),2.52,2.65,17.0,2023,253
+1.0,11:46,2.0,5.0,SEA 41,0.0,0.0,Mason Rudolph pass incomplete short left,2.65,1.95,17.0,2023,253
+1.0,11:40,3.0,5.0,SEA 41,0.0,0.0,Mason Rudolph pass incomplete short right intended for George Pickens (defended by Quandre Diggs),1.95,0.53,17.0,2023,253
+1.0,11:30,,,,,,Timeout #1 by Pittsburgh Steelers,,,17.0,2023,253
+1.0,11:30,4.0,5.0,SEA 41,0.0,0.0,Mason Rudolph pass incomplete deep left intended for George Pickens (defended by Riq Woolen),0.53,-1.66,17.0,2023,253
+1.0,11:25,1.0,10.0,SEA 41,0.0,0.0,Geno Smith pass incomplete short left intended for D.K. Metcalf (defended by Cameron Heyward),1.66,1.12,17.0,2023,253
+1.0,11:22,2.0,10.0,SEA 41,0.0,0.0,Kenneth Walker left tackle for 1 yard (tackle by Myles Jack),1.12,0.56,17.0,2023,253
+1.0,10:41,3.0,9.0,SEA 42,0.0,0.0,Geno Smith pass complete short middle to Noah Fant for 8 yards (tackle by Patrick Peterson and Myles Jack),0.56,-0.06,17.0,2023,253
+1.0,9:52,4.0,1.0,SEA 50,0.0,0.0,"Michael Dickson punts 50 yards, touchback.",-0.06,-0.28,17.0,2023,253
+1.0,9:44,1.0,10.0,PIT 20,0.0,0.0,"Mason Rudolph pass complete deep right to Diontae Johnson for 20 yards. Diontae Johnson fumbles, ball out of bounds at PIT-36, recovered by Michael Jackson at PIT-36 Replay Assistant challenged the runner was in bounds ruling, and the original play was overturned. Mason Rudolph pass complete deep right to Diontae Johnson for 16 yards. Diontae Johnson fumbles, ball out of bounds at PIT-36. Diontae Johnson fumbles out of bounds",0.28,1.33,17.0,2023,253
+1.0,9:30,1.0,10.0,PIT 36,0.0,0.0,Najee Harris right guard for 6 yards (tackle by Artie Burns and Bobby Wagner),1.33,1.6,17.0,2023,253
+1.0,8:46,2.0,4.0,PIT 42,0.0,0.0,Najee Harris left tackle for 3 yards (tackle by Artie Burns and Riq Woolen),1.6,1.29,17.0,2023,253
+1.0,8:08,3.0,1.0,PIT 45,0.0,0.0,Mason Rudolph right guard for 1 yard (tackle by Bobby Wagner and Leonard Williams),1.29,1.99,17.0,2023,253
+1.0,7:22,1.0,10.0,PIT 46,0.0,0.0,Mason Rudolph pass incomplete short left,1.99,1.45,17.0,2023,253
+1.0,7:16,2.0,10.0,PIT 46,0.0,0.0,Jaylen Warren left guard for 9 yards (tackle by Julian Love and Bobby Wagner),1.45,1.95,17.0,2023,253
+1.0,6:56,3.0,1.0,SEA 45,0.0,0.0,Mason Rudolph up the middle for no gain (tackle by Bobby Wagner and Derick Hall),1.95,0.27,17.0,2023,253
+1.0,6:23,4.0,1.0,SEA 45,0.0,0.0,Mason Rudolph left guard for 1 yard (tackle by Bobby Wagner and Darrell Taylor),0.27,2.65,17.0,2023,253
+1.0,5:32,1.0,10.0,SEA 44,0.0,0.0,Najee Harris right tackle for 8 yards (tackle by Devin Bush),2.65,3.19,17.0,2023,253
+1.0,4:48,2.0,2.0,SEA 36,0.0,0.0,Najee Harris left guard for 5 yards (tackle by Devin Bush and Julian Love),3.19,3.51,17.0,2023,253
+1.0,4:11,1.0,10.0,SEA 31,0.0,0.0,"Mason Rudolph pass complete short right to Diontae Johnson for no gain (tackle by Devin Bush). Penalty on Pat Freiermuth: Illegal Motion, 5 yards (accepted) (no play)",3.51,3.18,17.0,2023,253
+1.0,3:45,1.0,15.0,SEA 36,0.0,0.0,Najee Harris right guard for 6 yards (tackle by Julian Love and Dre'Mont Jones),3.18,3.1,17.0,2023,253
+1.0,3:05,2.0,9.0,SEA 30,0.0,0.0,Mason Rudolph pass complete short right to George Pickens for 10 yards (tackle by Michael Jackson),3.1,4.24,17.0,2023,253
+1.0,2:29,1.0,10.0,SEA 20,0.0,0.0,Jaylen Warren right tackle for 2 yards (tackle by Leonard Williams),4.24,3.96,17.0,2023,253
+1.0,1:53,2.0,8.0,SEA 18,6.0,0.0,"Jaylen Warren left guard for 18 yards, touchdown",3.96,7.0,17.0,2023,253
+1.0,1:47,,,SEA 15,7.0,0.0,Chris Boswell kicks extra point good,0.0,0.0,17.0,2023,253
+1.0,1:47,,,PIT 35,7.0,0.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,253
+1.0,1:47,1.0,10.0,SEA 25,7.0,0.0,Geno Smith pass incomplete deep left intended for Tyler Lockett,0.61,0.06,17.0,2023,253
+1.0,1:41,2.0,10.0,SEA 25,7.0,0.0,Geno Smith pass complete short left to Kenneth Walker for 7 yards (tackle by Myles Jack),0.06,0.3,17.0,2023,253
+1.0,0:59,3.0,3.0,SEA 32,7.0,0.0,Geno Smith pass complete short right to Noah Fant for 7 yards (tackle by Eric Rowe),0.3,1.53,17.0,2023,253
+1.0,0:25,1.0,10.0,SEA 39,7.0,0.0,Zach Charbonnet right guard for 4 yards (tackle by Larry Ogunjobi),1.53,1.53,17.0,2023,253
+2.0,15:00,2.0,6.0,SEA 43,7.0,0.0,Geno Smith pass complete deep right to D.K. Metcalf for 33 yards (tackle by Patrick Peterson),1.53,3.97,17.0,2023,253
+2.0,14:25,1.0,10.0,PIT 24,7.0,0.0,Kenneth Walker left end for 11 yards (tackle by Eric Rowe),3.97,4.71,17.0,2023,253
+2.0,13:54,1.0,10.0,PIT 13,7.0,6.0,"Kenneth Walker left tackle for 13 yards, touchdown",4.71,7.0,17.0,2023,253
+2.0,13:50,,,PIT 15,7.0,7.0,Jason Myers kicks extra point good,0.0,0.0,17.0,2023,253
+2.0,13:50,,,SEA 35,7.0,7.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,253
+2.0,13:50,1.0,10.0,PIT 25,7.0,7.0,Jaylen Warren left end for 23 yards (tackle by Dre'Mont Jones),0.61,2.13,17.0,2023,253
+2.0,13:01,1.0,10.0,PIT 48,7.0,7.0,"Mason Rudolph pass complete deep left to George Pickens for 37 yards. George Pickens fumbles, ball out of bounds at SEA-15 (forced by Julian Love). George Pickens fumbles out of bounds",2.13,4.58,17.0,2023,253
+2.0,12:19,1.0,10.0,SEA 15,7.0,7.0,Najee Harris left guard for -1 yards (tackle by Derick Hall),4.58,3.81,17.0,2023,253
+2.0,11:43,2.0,11.0,SEA 16,7.0,7.0,Jaylen Warren left end for 3 yards (tackle by Devin Bush and Quandre Diggs),3.81,3.4,17.0,2023,253
+2.0,11:09,,,,,,Timeout #2 by Pittsburgh Steelers,,,17.0,2023,253
+2.0,11:09,3.0,8.0,SEA 13,7.0,7.0,Mason Rudolph sacked by Leonard Williams for -8 yards,3.4,2.06,17.0,2023,253
+2.0,10:30,4.0,16.0,SEA 21,10.0,7.0,Chris Boswell 39 yard field goal good,2.06,3.0,17.0,2023,253
+2.0,10:27,,,PIT 35,10.0,7.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,253
+2.0,10:27,1.0,10.0,SEA 25,10.0,7.0,Geno Smith pass complete short left to Kenneth Walker for 11 yards (tackle by Isaiahh Loudermilk),0.61,1.33,17.0,2023,253
+2.0,9:44,1.0,10.0,SEA 36,10.0,7.0,Geno Smith pass complete deep middle to Noah Fant for 21 yards (tackle by Elijah Riley),1.33,2.72,17.0,2023,253
+2.0,9:11,1.0,10.0,PIT 43,10.0,7.0,Kenneth Walker left guard for 7 yards (tackle by Joey Porter),2.72,3.12,17.0,2023,253
+2.0,8:26,2.0,3.0,PIT 36,10.0,7.0,"Penalty on Colby Parkinson: False Start, 5 yards (accepted) (no play)",3.12,2.45,17.0,2023,253
+2.0,8:04,2.0,8.0,PIT 41,10.0,7.0,Kenneth Walker right guard for 9 yards (tackle by Eric Rowe),2.45,3.45,17.0,2023,253
+2.0,7:24,1.0,10.0,PIT 32,10.0,7.0,Geno Smith pass complete short left to D.K. Metcalf for 21 yards (tackle by Mark Robinson),3.45,4.84,17.0,2023,253
+2.0,6:40,1.0,10.0,PIT 11,10.0,7.0,Geno Smith pass incomplete short right intended for Noah Fant,4.84,4.14,17.0,2023,253
+2.0,6:36,2.0,10.0,PIT 11,10.0,7.0,Kenneth Walker left guard for 4 yards (tackle by Armon Watts),4.14,3.98,17.0,2023,253
+2.0,5:52,3.0,6.0,PIT 7,10.0,7.0,"Penalty on Charles Cross: False Start, 5 yards (accepted) (no play)",3.98,3.11,17.0,2023,253
+2.0,5:36,3.0,11.0,PIT 12,10.0,13.0,"Geno Smith pass complete short middle to Jaxon Smith-Njigba for 12 yards, touchdown",3.11,7.0,17.0,2023,253
+2.0,5:30,,,PIT 15,10.0,14.0,Jason Myers kicks extra point good,0.0,0.0,17.0,2023,253
+2.0,5:30,,,SEA 35,10.0,14.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,253
+2.0,5:30,1.0,10.0,PIT 25,10.0,14.0,Najee Harris left guard for 4 yards (tackle by Devin Bush and Bobby Wagner),0.61,0.6,17.0,2023,253
+2.0,4:56,2.0,6.0,PIT 29,10.0,14.0,Mason Rudolph scrambles right end for 2 yards (tackle by Bobby Wagner),0.6,0.17,17.0,2023,253
+2.0,4:12,3.0,4.0,PIT 31,10.0,14.0,Mason Rudolph pass complete short right to Pat Freiermuth for 25 yards (tackle by Julian Love),0.17,2.65,17.0,2023,253
+2.0,3:25,1.0,10.0,SEA 44,10.0,14.0,Najee Harris left end for 23 yards (tackle by Quandre Diggs and Derick Hall),2.65,4.17,17.0,2023,253
+2.0,2:41,1.0,10.0,SEA 21,10.0,14.0,Najee Harris right guard for 5 yards (tackle by Bobby Wagner and Austin Faoliu),4.17,4.37,17.0,2023,253
+2.0,2:00,2.0,5.0,SEA 16,10.0,14.0,Najee Harris left guard for 1 yard (tackle by Julian Love and Devin Bush),4.37,3.81,17.0,2023,253
+2.0,1:50,,,,,,Timeout #1 by Seattle Seahawks,,,17.0,2023,253
+2.0,1:50,3.0,4.0,SEA 15,10.0,14.0,Mason Rudolph pass complete short left to Diontae Johnson for 5 yards (tackle by Julian Love),3.81,4.91,17.0,2023,253
+2.0,1:46,1.0,10.0,SEA 10,10.0,14.0,Jaylen Warren left guard for 1 yard (tackle by Julian Love and Devin Bush),4.91,4.38,17.0,2023,253
+2.0,1:41,,,,,,Timeout #2 by Seattle Seahawks,,,17.0,2023,253
+2.0,1:41,2.0,9.0,SEA 9,16.0,14.0,"Najee Harris right guard for 9 yards, touchdown Replay Assistant challenged the runner broke the plane ruling, and the play was upheld.",4.38,7.0,17.0,2023,253
+2.0,1:36,,,SEA 15,17.0,14.0,Chris Boswell kicks extra point good,0.0,0.0,17.0,2023,253
+2.0,1:36,,,PIT 35,17.0,14.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,253
+2.0,1:36,1.0,10.0,SEA 25,17.0,14.0,Geno Smith pass incomplete short right intended for Tyler Lockett (defended by Chandon Sullivan),0.61,0.06,17.0,2023,253
+2.0,1:30,2.0,10.0,SEA 25,17.0,14.0,Geno Smith pass complete short middle to Zach Charbonnet for 4 yards (tackle by Eric Rowe),0.06,-0.1,17.0,2023,253
+2.0,0:53,3.0,6.0,SEA 29,17.0,14.0,Geno Smith scrambles left end for 5 yards (tackle by T.J. Watt),-0.1,-1.11,17.0,2023,253
+2.0,0:45,,,,,,Timeout #3 by Pittsburgh Steelers,,,17.0,2023,253
+2.0,0:45,4.0,1.0,SEA 34,17.0,14.0,"Michael Dickson punts 66 yards, touchback.",-1.11,-0.28,17.0,2023,253
+2.0,0:36,1.0,10.0,PIT 20,17.0,14.0,Mason Rudolph pass complete short right to Pat Freiermuth for 5 yards (tackle by Michael Jackson),0.28,0.41,17.0,2023,253
+2.0,0:16,2.0,5.0,PIT 25,17.0,14.0,Mason Rudolph pass complete short right to Jaylen Warren for 4 yards (tackle by Devin Bush),0.41,0.23,17.0,2023,253
+3.0,15:00,,,PIT 35,17.0,14.0,"Chris Boswell kicks off 54 yards, returned by DeeJay Dallas for 24 yards (tackle by Rodney Williams)",0.0,1.27,17.0,2023,253
+3.0,14:56,1.0,10.0,SEA 35,17.0,14.0,Geno Smith pass complete short left to Jake Bobo for 4 yards (tackle by Eric Rowe),1.27,1.26,17.0,2023,253
+3.0,14:20,2.0,6.0,SEA 39,17.0,14.0,Geno Smith pass complete deep left to Colby Parkinson for 20 yards (tackle by Eric Rowe),1.26,2.85,17.0,2023,253
+3.0,13:43,1.0,10.0,PIT 41,17.0,14.0,Kenneth Walker right tackle for 1 yard (tackle by T.J. Watt and Larry Ogunjobi),2.85,2.44,17.0,2023,253
+3.0,13:14,2.0,9.0,PIT 40,17.0,14.0,Geno Smith pass complete short left to Noah Fant for 10 yards (tackle by Mark Robinson and Eric Rowe),2.44,3.58,17.0,2023,253
+3.0,12:35,1.0,10.0,PIT 30,17.0,14.0,"Kenneth Walker left guard for 7 yards (tackle by Myles Jack). Penalty on D.K. Metcalf: Offensive Holding, 10 yards (accepted)",3.58,3.38,17.0,2023,253
+3.0,12:15,1.0,13.0,PIT 33,17.0,14.0,Geno Smith pass complete short right to Kenneth Walker for 4 yards (tackle by Myles Jack),3.38,3.17,17.0,2023,253
+3.0,11:40,2.0,9.0,PIT 29,17.0,14.0,Geno Smith pass complete short right to D.K. Metcalf for 5 yards (tackle by Chandon Sullivan and Elijah Riley),3.17,3.14,17.0,2023,253
+3.0,10:55,3.0,4.0,PIT 24,17.0,14.0,Geno Smith pass incomplete short left intended for Tyler Lockett,3.14,1.94,17.0,2023,253
+3.0,10:51,4.0,4.0,PIT 24,17.0,17.0,Jason Myers 43 yard field goal good,1.94,3.0,17.0,2023,253
+3.0,10:47,,,SEA 35,17.0,17.0,"Jason Myers kicks off 67 yards, returned by Godwin Igwebuike for 31 yards (tackle by Artie Burns and Patrick O'Connell)",0.0,0.87,17.0,2023,253
+3.0,10:41,1.0,10.0,PIT 29,17.0,17.0,"Penalty on Connor Heyward: False Start, 5 yards (accepted) (no play)",0.87,0.54,17.0,2023,253
+3.0,10:41,1.0,15.0,PIT 24,17.0,17.0,Mason Rudolph pass complete short right to Pat Freiermuth for 14 yards (tackle by Devin Bush and Julian Love),0.54,1.54,17.0,2023,253
+3.0,10:04,2.0,1.0,PIT 38,17.0,17.0,Najee Harris left guard for 5 yards (tackle by Dre'Mont Jones and Jarran Reed),1.54,1.8,17.0,2023,253
+3.0,9:24,1.0,10.0,PIT 43,17.0,17.0,Najee Harris left end for 7 yards (tackle by Devin Bush and Dre'Mont Jones),1.8,2.2,17.0,2023,253
+3.0,8:42,2.0,3.0,PIT 50,17.0,17.0,Jaylen Warren right tackle for 4 yards (tackle by Boye Mafe),2.2,2.52,17.0,2023,253
+3.0,7:55,1.0,10.0,SEA 46,17.0,17.0,Mason Rudolph pass complete short right to Diontae Johnson for 42 yards (tackle by Julian Love),2.52,6.28,17.0,2023,253
+3.0,7:05,1.0,4.0,SEA 4,23.0,17.0,"Najee Harris left guard for 4 yards, touchdown",6.28,7.0,17.0,2023,253
+3.0,6:57,,,SEA 15,24.0,17.0,Chris Boswell kicks extra point good,0.0,0.0,17.0,2023,253
+3.0,6:57,,,PIT 35,24.0,17.0,"Chris Boswell kicks off 61 yards, returned by DeeJay Dallas for 32 yards (tackle by Miles Killebrew)",0.0,1.33,17.0,2023,253
+3.0,6:51,1.0,10.0,SEA 36,24.0,17.0,Kenneth Walker left tackle for no gain (tackle by Cameron Heyward and Larry Ogunjobi),1.33,0.79,17.0,2023,253
+3.0,6:09,2.0,10.0,SEA 36,24.0,17.0,"Kenneth Walker aborted snap, recovered by Kenneth Walker at SEA-29 and returned for -7 yards (tackle by Markus Golden)",0.79,-0.82,17.0,2023,253
+3.0,5:28,3.0,17.0,SEA 29,24.0,17.0,Geno Smith pass complete short middle to Noah Fant for 13 yards (tackle by Myles Jack),-0.82,-0.59,17.0,2023,253
+3.0,4:46,4.0,4.0,SEA 42,24.0,17.0,"Michael Dickson punts 43 yards, returned by Calvin Austin for 6 yards (tackle by Julian Love and Derick Hall)",-0.59,-0.34,17.0,2023,253
+3.0,4:35,1.0,10.0,PIT 21,24.0,17.0,Jaylen Warren left guard for 2 yards (tackle by Devin Bush),0.34,0.07,17.0,2023,253
+3.0,3:59,2.0,8.0,PIT 23,24.0,17.0,Mason Rudolph pass complete short middle to Jaylen Warren for 10 yards (tackle by Leonard Williams),0.07,1.14,17.0,2023,253
+3.0,3:19,1.0,10.0,PIT 33,24.0,17.0,Jaylen Warren right tackle for 1 yard (tackle by Michael Jackson and Devin Bush),1.14,0.73,17.0,2023,253
+3.0,2:36,2.0,9.0,PIT 34,24.0,17.0,Jaylen Warren right end for -5 yards (tackle by Devon Witherspoon),0.73,-0.62,17.0,2023,253
+3.0,1:53,3.0,14.0,PIT 29,24.0,17.0,Mason Rudolph pass complete short right to George Pickens for 11 yards (tackle by Tre Brown),-0.62,-0.72,17.0,2023,253
+3.0,1:16,4.0,3.0,PIT 40,24.0,17.0,"Pressley Harvin punts 46 yards, fair catch by DeeJay Dallas at SEA-14",-0.72,0.28,17.0,2023,253
+3.0,1:10,1.0,10.0,SEA 14,24.0,17.0,Geno Smith pass incomplete short middle intended for Jaxon Smith-Njigba,-0.28,-0.75,17.0,2023,253
+3.0,1:09,2.0,10.0,SEA 14,24.0,17.0,Geno Smith pass complete short left to D.K. Metcalf for 32 yards (tackle by Mykal Walker),-0.75,1.99,17.0,2023,253
+3.0,0:30,1.0,10.0,SEA 46,24.0,17.0,Geno Smith scrambles right end for 25 yards (tackle by Patrick Peterson),1.99,3.64,17.0,2023,253
+4.0,15:00,1.0,10.0,PIT 29,24.0,17.0,Geno Smith pass incomplete short right intended for Colby Parkinson,3.64,3.1,17.0,2023,253
+4.0,14:54,2.0,10.0,PIT 29,24.0,17.0,Zach Charbonnet right guard for -2 yards (tackle by Eric Rowe),3.1,2.15,17.0,2023,253
+4.0,14:14,3.0,12.0,PIT 31,24.0,17.0,Geno Smith pass complete short middle to Zach Charbonnet for 7 yards (tackle by Chandon Sullivan),2.15,1.92,17.0,2023,253
+4.0,13:34,4.0,5.0,PIT 24,24.0,20.0,Jason Myers 42 yard field goal good,1.92,3.0,17.0,2023,253
+4.0,13:30,,,SEA 35,24.0,20.0,"Jason Myers kicks off 63 yards, returned by Godwin Igwebuike for 25 yards (tackle by Jon Rhattigan)",0.0,0.74,17.0,2023,253
+4.0,13:25,1.0,10.0,PIT 27,24.0,20.0,Najee Harris right guard for 5 yards (tackle by Dre'Mont Jones and Quandre Diggs),0.74,0.87,17.0,2023,253
+4.0,12:50,2.0,5.0,PIT 32,24.0,20.0,Najee Harris left tackle for 8 yards (tackle by Derick Hall),0.87,1.6,17.0,2023,253
+4.0,12:14,1.0,10.0,PIT 40,24.0,20.0,Najee Harris left guard for 4 yards (tackle by Devin Bush and Leonard Williams),1.6,1.59,17.0,2023,253
+4.0,11:38,2.0,6.0,PIT 44,24.0,20.0,Mason Rudolph pass incomplete short right intended for Pat Freiermuth (defended by Boye Mafe),1.59,0.89,17.0,2023,253
+4.0,11:35,3.0,6.0,PIT 44,24.0,20.0,Mason Rudolph pass complete deep right to George Pickens for 34 yards (tackle by Michael Jackson),0.89,4.11,17.0,2023,253
+4.0,11:08,1.0,10.0,SEA 22,24.0,20.0,Jaylen Warren left end for 7 yards (tackle by Devon Witherspoon),4.11,4.65,17.0,2023,253
+4.0,10:29,2.0,3.0,SEA 15,24.0,20.0,Najee Harris right end for -2 yards (tackle by Michael Jackson and Devin Bush),4.65,3.56,17.0,2023,253
+4.0,10:16,3.0,5.0,SEA 17,24.0,20.0,Mason Rudolph pass complete short middle to Jaylen Warren for 4 yards (tackle by Quandre Diggs and Bobby Wagner),3.56,2.72,17.0,2023,253
+4.0,9:50,4.0,1.0,SEA 13,24.0,20.0,Mason Rudolph left guard for 2 yards (tackle by Boye Mafe and Devin Bush),2.72,4.84,17.0,2023,253
+4.0,9:07,1.0,10.0,SEA 11,24.0,20.0,Najee Harris right guard for -1 yards (tackle by Darrell Taylor),4.84,3.98,17.0,2023,253
+4.0,8:30,2.0,11.0,SEA 12,24.0,20.0,Najee Harris left guard for -1 yards (tackle by Devin Bush and Bobby Wagner),3.98,3.08,17.0,2023,253
+4.0,7:48,3.0,12.0,SEA 13,24.0,20.0,Mason Rudolph pass complete short middle to Jaylen Warren for 5 yards (tackle by Julian Love),3.08,2.96,17.0,2023,253
+4.0,7:10,4.0,7.0,SEA 8,27.0,20.0,Chris Boswell 26 yard field goal good,2.96,3.0,17.0,2023,253
+4.0,7:07,,,PIT 35,27.0,20.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,253
+4.0,7:07,1.0,10.0,SEA 25,27.0,20.0,"Geno Smith sacked by Nick Herbig for -9 yards. Geno Smith fumbles (forced by Nick Herbig), recovered by Nick Herbig at SEA-16",0.61,-4.51,17.0,2023,253
+4.0,7:00,1.0,10.0,SEA 16,27.0,20.0,Najee Harris left guard for 1 yard (tackle by Julian Love and Jarran Reed),4.51,4.05,17.0,2023,253
+4.0,6:17,2.0,9.0,SEA 15,27.0,20.0,"Mason Rudolph pass complete short middle to George Pickens for 10 yards (tackle by Devin Bush) SEA challenged the runner was in bounds ruling, and the play was upheld.",4.05,6.06,17.0,2023,253
+4.0,5:49,1.0,5.0,SEA 5,27.0,20.0,Najee Harris left guard for 3 yards (tackle by Devin Bush and Derick Hall),6.06,5.72,17.0,2023,253
+4.0,5:12,2.0,2.0,SEA 2,27.0,20.0,Jaylen Warren left end for -1 yards (tackle by Bobby Wagner),5.72,4.72,17.0,2023,253
+4.0,4:39,3.0,3.0,SEA 3,27.0,20.0,Mason Rudolph pass incomplete short middle,4.72,3.04,17.0,2023,253
+4.0,4:33,4.0,3.0,SEA 3,30.0,20.0,Chris Boswell 21 yard field goal good,3.04,3.0,17.0,2023,253
+4.0,4:31,,,PIT 35,30.0,20.0,"Chris Boswell kicks off 65 yards, returned by DeeJay Dallas for 26 yards (tackle by Godwin Igwebuike and Miles Killebrew)",0.0,0.67,17.0,2023,253
+4.0,4:23,1.0,10.0,SEA 26,30.0,20.0,Geno Smith pass complete short right to D.K. Metcalf for 15 yards (tackle by Eric Rowe),0.67,1.66,17.0,2023,253
+4.0,4:03,1.0,10.0,SEA 41,30.0,20.0,Geno Smith pass complete short middle to Zach Charbonnet for 5 yards (tackle by Eric Rowe),1.66,1.8,17.0,2023,253
+4.0,3:43,2.0,5.0,SEA 46,30.0,20.0,Geno Smith pass complete short middle to Zach Charbonnet for 15 yards (tackle by Myles Jack),1.8,2.98,17.0,2023,253
+4.0,3:25,1.0,10.0,PIT 39,30.0,20.0,Geno Smith scrambles right end for 3 yards (tackle by Miles Killebrew),2.98,2.85,17.0,2023,253
+4.0,3:18,2.0,7.0,PIT 36,30.0,20.0,"Penalty on Olusegun Oluwatimi: False Start, 5 yards (accepted) (no play)",2.85,2.17,17.0,2023,253
+4.0,3:18,2.0,12.0,PIT 41,30.0,20.0,Geno Smith pass complete short right to Tyler Lockett for 10 yards (tackle by Miles Killebrew),2.17,2.81,17.0,2023,253
+4.0,2:59,3.0,2.0,PIT 31,30.0,20.0,Geno Smith pass complete short middle to Zach Charbonnet for 8 yards (tackle by Myles Jack),2.81,4.04,17.0,2023,253
+4.0,2:40,1.0,10.0,PIT 23,30.0,20.0,Geno Smith pass complete deep right to Colby Parkinson for 18 yards (tackle by Levi Wallace),4.04,6.06,17.0,2023,253
+4.0,2:21,1.0,5.0,PIT 5,30.0,20.0,Geno Smith pass incomplete short left intended for D.K. Metcalf (defended by Joey Porter),6.06,5.15,17.0,2023,253
+4.0,2:13,2.0,5.0,PIT 5,30.0,20.0,Geno Smith pass incomplete short left intended for Tyler Lockett,5.15,4.26,17.0,2023,253
+4.0,2:09,3.0,5.0,PIT 5,30.0,20.0,Geno Smith pass incomplete short left intended for D.K. Metcalf,4.26,3.01,17.0,2023,253
+4.0,2:05,4.0,5.0,PIT 5,30.0,23.0,Jason Myers 24 yard field goal good,3.01,3.0,17.0,2023,253
+4.0,2:01,,,SEA 35,30.0,23.0,"Jason Myers kicks onside 9 yards, recovered by Diontae Johnson",0.0,2.65,17.0,2023,253
+4.0,2:00,1.0,10.0,SEA 44,30.0,23.0,Mason Rudolph pass complete short right to George Pickens for 24 yards (tackle by Julian Love),2.65,4.24,17.0,2023,253
+4.0,1:52,,,,,,Timeout #2 by Seattle Seahawks,,,17.0,2023,253
+4.0,1:52,1.0,10.0,SEA 20,30.0,23.0,Najee Harris left tackle for 2 yards (tackle by Bobby Wagner and Jarran Reed),4.24,3.96,17.0,2023,253
+4.0,1:47,,,,,,Timeout #3 by Seattle Seahawks,,,17.0,2023,253
+4.0,1:47,2.0,8.0,SEA 18,30.0,23.0,Najee Harris right guard for 1 yard (tackle by Jarran Reed and Bobby Wagner),3.96,3.36,17.0,2023,253
+4.0,1:01,,,,,,Timeout #1 by Pittsburgh Steelers,,,17.0,2023,253
+4.0,1:01,3.0,7.0,SEA 17,30.0,23.0,Najee Harris left guard for 12 yards,3.36,6.06,17.0,2023,253
+4.0,0:23,1.0,5.0,SEA 5,30.0,23.0,Mason Rudolph kneels for -1 yards,6.06,4.95,17.0,2023,253

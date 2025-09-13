@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,14:15,CIN 29,6,3:23,29,Touchdown,1,Titans,15.0,2024,211
+2,1,6:36,TEN 30,5,2:38,70,Touchdown,1,Titans,15.0,2024,211
+3,2,13:55,TEN 41,8,3:50,21,Fumble,1,Titans,15.0,2024,211
+4,2,5:13,TEN 30,5,3:14,14,Interception,1,Titans,15.0,2024,211
+5,2,1:12,TEN 30,1,0:05,0,Interception,1,Titans,15.0,2024,211
+7,3,15:00,TEN 30,3,2:45,-15,Punt,1,Titans,15.0,2024,211
+8,3,8:49,TEN 3,3,1:25,18,Interception,1,Titans,15.0,2024,211
+9,3,7:24,TEN 30,7,4:21,31,Fumble,1,Titans,15.0,2024,211
+10,3,3:03,TEN 20,11,4:58,53,Interception,1,Titans,15.0,2024,211
+11,4,10:29,TEN 13,9,3:39,87,Touchdown,1,Titans,15.0,2024,211
+12,4,1:09,TEN 30,7,1:09,70,Touchdown,1,Titans,15.0,2024,211

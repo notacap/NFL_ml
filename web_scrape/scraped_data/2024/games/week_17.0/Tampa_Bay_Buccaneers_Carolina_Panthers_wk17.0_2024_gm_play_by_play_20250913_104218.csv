@@ -1,0 +1,162 @@
+Quarter,Time,Down,ToGo,Location,CAR,TAM,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Panthers won the coin toss and deferred, Buccaneers to receive the opening kickoff.",,,17.0,2024,248
+1.0,15:00,,,CAR 35,0.0,0.0,"Eddy Piñeiro kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,248
+1.0,15:00,1.0,10.0,TAM 30,0.0,0.0,Bucky Irving left end for 6 yards (tackle by D.J. Wonnum),0.94,1.2,17.0,2024,248
+1.0,14:22,2.0,4.0,TAM 36,0.0,0.0,Bucky Irving right guard for 10 yards (tackle by Dane Jackson and Caleb Farley),1.2,1.99,17.0,2024,248
+1.0,13:47,1.0,10.0,TAM 46,0.0,0.0,Baker Mayfield pass complete short right to Mike Evans for 9 yards (tackle by Michael Jackson),1.99,2.67,17.0,2024,248
+1.0,13:07,2.0,1.0,CAR 45,0.0,0.0,Bucky Irving up the middle for 12 yards (tackle by Xavier Woods),2.67,3.38,17.0,2024,248
+1.0,12:25,1.0,10.0,CAR 33,0.0,0.0,Baker Mayfield pass complete deep middle to Payne Durham for 31 yards (tackle by Demani Richardson and Xavier Woods),3.38,6.74,17.0,2024,248
+1.0,11:38,1.0,2.0,CAR 2,0.0,6.0,"Baker Mayfield pass complete short right to Mike Evans for 2 yards, touchdown",6.74,7.0,17.0,2024,248
+1.0,11:35,,,CAR 15,0.0,7.0,Chase McLaughlin kicks extra point good,0.0,0.0,17.0,2024,248
+1.0,11:35,,,TAM 35,0.0,7.0,"Jack Browning kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,248
+1.0,11:35,1.0,10.0,CAR 30,0.0,7.0,Raheem Blackshear left tackle for 5 yards (tackle by Vita Vea),0.94,1.07,17.0,2024,248
+1.0,11:00,2.0,5.0,CAR 35,0.0,7.0,Bryce Young pass complete deep right to Adam Thielen for 31 yards (tackle by Zyon McCollum),1.07,3.31,17.0,2024,248
+1.0,10:30,1.0,10.0,TAM 34,0.0,7.0,Raheem Blackshear up the middle for 2 yards (tackle by YaYa Diaby and Tykee Smith),3.31,3.04,17.0,2024,248
+1.0,9:45,2.0,8.0,TAM 32,0.0,7.0,Bryce Young pass complete short right to Jalen Coker for 15 yards (tackle by Jordan Whitehead),3.04,4.44,17.0,2024,248
+1.0,9:03,1.0,10.0,TAM 17,0.0,7.0,Raheem Blackshear left end for no gain (tackle by Calijah Kancey and Greg Gaines),4.44,3.85,17.0,2024,248
+1.0,8:20,2.0,10.0,TAM 17,6.0,7.0,"Bryce Young pass complete deep middle to Adam Thielen for 17 yards, touchdown",3.85,7.0,17.0,2024,248
+1.0,8:15,,,TAM 15,7.0,7.0,Eddy Piñeiro kicks extra point good,0.0,0.0,17.0,2024,248
+1.0,8:15,,,CAR 35,7.0,7.0,"Eddy Piñeiro kicks off 65 yards, touchback.",0.0,0.28,17.0,2024,248
+1.0,8:15,1.0,10.0,TAM 20,7.0,7.0,Baker Mayfield pass complete deep middle to Mike Evans for 20 yards (tackle by Xavier Woods),0.28,1.6,17.0,2024,248
+1.0,7:38,1.0,10.0,TAM 40,7.0,7.0,Bucky Irving right tackle for 4 yards (tackle by Shy Tuttle and Dane Jackson),1.6,1.59,17.0,2024,248
+1.0,6:57,2.0,6.0,TAM 44,7.0,7.0,Bucky Irving left end for 5 yards (tackle by Dane Jackson),1.59,1.55,17.0,2024,248
+1.0,6:46,3.0,1.0,TAM 49,7.0,7.0,Bucky Irving right tackle for 3 yards (tackle by Jacoby Windmon),1.55,2.39,17.0,2024,248
+1.0,6:09,1.0,10.0,CAR 48,7.0,7.0,"Baker Mayfield pass complete deep right to Devin Culp for 26 yards (tackle by Demani Richardson). Penalty on DJ Johnson: Illegal Use of Hands / Defense, 5 yards (declined)",2.39,4.11,17.0,2024,248
+1.0,5:38,1.0,10.0,CAR 22,7.0,7.0,Bucky Irving left guard for -4 yards (tackle by Michael Jackson),4.11,3.02,17.0,2024,248
+1.0,4:59,2.0,14.0,CAR 26,7.0,7.0,Rachaad White right end for 7 yards (tackle by Dane Jackson and Demani Richardson),3.02,3.26,17.0,2024,248
+1.0,4:15,3.0,7.0,CAR 19,7.0,7.0,Baker Mayfield pass complete short middle to Devin Culp for 17 yards (tackle by Xavier Woods and D.J. Wonnum),3.26,6.74,17.0,2024,248
+1.0,3:29,1.0,2.0,CAR 2,7.0,7.0,Bucky Irving up the middle for no gain (tackle by Chandler Wooten),6.74,5.72,17.0,2024,248
+1.0,2:41,2.0,2.0,CAR 2,7.0,7.0,Bucky Irving left guard for -1 yards (tackle by DJ Johnson and Xavier Woods),5.72,4.72,17.0,2024,248
+1.0,2:00,3.0,3.0,CAR 3,7.0,7.0,Baker Mayfield sacked by and Jacoby Windmon for -2 yards and Jaden Crumedy for -2 yards,4.72,3.01,17.0,2024,248
+1.0,1:16,4.0,5.0,CAR 5,7.0,10.0,Chase McLaughlin 23 yard field goal good,3.01,3.0,17.0,2024,248
+1.0,1:13,,,TAM 35,7.0,10.0,"Jack Browning kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,248
+1.0,1:13,1.0,10.0,CAR 30,7.0,10.0,Bryce Young scrambles left end for 1 yard (tackle by YaYa Diaby),0.94,0.53,17.0,2024,248
+1.0,0:29,2.0,9.0,CAR 31,7.0,10.0,Bryce Young pass incomplete short left intended for Xavier Legette (defended by Jamel Dean),0.53,-0.16,17.0,2024,248
+1.0,0:25,3.0,9.0,CAR 31,7.0,10.0,Bryce Young sacked by Calijah Kancey for -10 yards,-0.16,-1.96,17.0,2024,248
+2.0,15:00,4.0,19.0,CAR 21,7.0,10.0,Johnny Hekker punts 40 yards downed by Jacoby Windmon,-1.96,-1.53,17.0,2024,248
+2.0,14:51,1.0,10.0,TAM 39,7.0,10.0,Bucky Irving up the middle for 3 yards (tackle by Chandler Wooten),1.53,1.39,17.0,2024,248
+2.0,14:14,2.0,7.0,TAM 42,7.0,10.0,Baker Mayfield pass complete short left to Mike Evans for 6 yards (tackle by Cam Gill),1.39,1.49,17.0,2024,248
+2.0,13:32,3.0,1.0,TAM 48,7.0,10.0,Bucky Irving right end for 2 yards (tackle by DJ Johnson and Chandler Wooten),1.49,2.26,17.0,2024,248
+2.0,12:50,1.0,10.0,TAM 50,7.0,10.0,Baker Mayfield pass complete short right to Rakim Jarrett for 11 yards (tackle by Jacoby Windmon),2.26,2.98,17.0,2024,248
+2.0,12:21,1.0,10.0,CAR 39,7.0,10.0,Baker Mayfield pass complete short middle to Sean Tucker for 5 yards (tackle by Jacoby Windmon),2.98,3.12,17.0,2024,248
+2.0,11:53,2.0,5.0,CAR 34,7.0,10.0,"Kameron Johnson left end for 11 yards (tackle by D.J. Wonnum). Penalty on A'Shawn Robinson: Illegal Use of Hands / Defense, 5 yards (accepted)",3.12,4.37,17.0,2024,248
+2.0,11:30,1.0,10.0,CAR 18,7.0,10.0,Baker Mayfield pass incomplete short left intended for Ryan Miller,4.37,3.8,17.0,2024,248
+2.0,11:28,2.0,10.0,CAR 18,7.0,10.0,Baker Mayfield scrambles up the middle for 2 yards (tackle by Jacoby Windmon),3.8,3.3,17.0,2024,248
+2.0,10:42,3.0,8.0,CAR 16,7.0,10.0,Baker Mayfield pass incomplete deep right intended for Devin Culp,3.3,2.38,17.0,2024,248
+2.0,10:35,4.0,8.0,CAR 16,7.0,13.0,Chase McLaughlin 34 yard field goal good,2.38,3.0,17.0,2024,248
+2.0,10:31,,,TAM 35,7.0,13.0,"Jack Browning kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,248
+2.0,10:31,1.0,10.0,CAR 30,7.0,13.0,Bryce Young pass incomplete deep right intended for Xavier Legette,0.94,0.39,17.0,2024,248
+2.0,10:24,2.0,10.0,CAR 30,7.0,13.0,Bryce Young pass incomplete short right,0.39,-0.3,17.0,2024,248
+2.0,10:20,3.0,10.0,CAR 30,7.0,13.0,"Bryce Young pass incomplete short left intended for Mike Boone. Penalty on Damien Lewis: Ineligible Downfield Pass, 5 yards (declined)",-0.3,-1.37,17.0,2024,248
+2.0,10:16,4.0,10.0,CAR 30,7.0,13.0,Johnny Hekker punts 51 yards out of bounds,-1.37,-0.15,17.0,2024,248
+2.0,10:09,1.0,10.0,TAM 19,7.0,13.0,Sean Tucker up the middle for 4 yards (tackle by Chandler Wooten and LaBryan Ray),0.15,0.21,17.0,2024,248
+2.0,9:30,2.0,6.0,TAM 23,7.0,13.0,Bucky Irving right end for 34 yards (tackle by Chandler Wooten),0.21,2.72,17.0,2024,248
+2.0,8:56,1.0,10.0,CAR 43,7.0,13.0,Baker Mayfield pass complete short left to Bucky Irving for 42 yards (tackle by Xavier Woods),2.72,6.97,17.0,2024,248
+2.0,8:24,1.0,1.0,CAR 1,7.0,19.0,"Baker Mayfield pass complete short left to Mike Evans for 1 yard, touchdown",6.97,7.0,17.0,2024,248
+2.0,8:19,,,CAR 15,7.0,20.0,Chase McLaughlin kicks extra point good,0.0,0.0,17.0,2024,248
+2.0,8:19,,,TAM 35,7.0,20.0,"Jack Browning kicks off 59 yards, returned by Velus Jones for 19 yards (tackle by Deion Jones)",0.0,0.61,17.0,2024,248
+2.0,8:14,1.0,10.0,CAR 25,7.0,20.0,Raheem Blackshear right tackle for 3 yards (tackle by Logan Hall and K.J. Britt),0.61,0.47,17.0,2024,248
+2.0,7:40,2.0,7.0,CAR 28,7.0,20.0,Velus Jones right end for no gain (tackle by Zyon McCollum and Jordan Whitehead),0.47,-0.23,17.0,2024,248
+2.0,7:04,3.0,7.0,CAR 28,7.0,20.0,Bryce Young pass incomplete deep right intended for Xavier Legette (defended by Zyon McCollum),-0.23,-1.5,17.0,2024,248
+2.0,6:58,4.0,7.0,CAR 28,7.0,20.0,Johnny Hekker punts 36 yards downed by Cam Gill,-1.5,-1.33,17.0,2024,248
+2.0,6:49,1.0,10.0,TAM 36,7.0,20.0,Bucky Irving right guard for no gain (tackle by Shy Tuttle),1.33,0.79,17.0,2024,248
+2.0,6:09,2.0,10.0,TAM 36,7.0,20.0,"Baker Mayfield sacked by A'Shawn Robinson for no gain. Penalty on A'Shawn Robinson: Roughing the Passer, 15 yards (accepted) (no play)",0.79,2.32,17.0,2024,248
+2.0,5:49,1.0,10.0,CAR 49,7.0,20.0,"Bucky Irving left guard for 1 yard (tackle by Dane Jackson and A'Shawn Robinson). Penalty on Graham Barton: Offensive Holding, 10 yards (accepted)",2.32,1.73,17.0,2024,248
+2.0,5:25,1.0,19.0,TAM 42,7.0,20.0,Baker Mayfield sacked by Jadeveon Clowney for -8 yards,1.73,-0.52,17.0,2024,248
+2.0,4:40,2.0,27.0,TAM 34,7.0,20.0,"Baker Mayfield pass complete deep middle to Ryan Miller for 23 yards (tackle by Michael Jackson). Penalty on Jadeveon Clowney: Defensive Offside, 5 yards (declined)",-0.52,1.88,17.0,2024,248
+2.0,4:27,3.0,4.0,CAR 43,7.0,20.0,Baker Mayfield pass complete short middle to Mike Evans for 10 yards (tackle by Michael Jackson),1.88,3.38,17.0,2024,248
+2.0,3:37,1.0,10.0,CAR 33,7.0,20.0,Baker Mayfield pass incomplete deep right intended for Mike Evans,3.38,2.84,17.0,2024,248
+2.0,3:31,2.0,10.0,CAR 33,7.0,20.0,Bucky Irving right guard for 6 yards (tackle by Jaden Crumedy),2.84,2.94,17.0,2024,248
+2.0,2:48,3.0,4.0,CAR 27,7.0,20.0,Bucky Irving left guard for 5 yards (tackle by Xavier Woods and Chandler Wooten),2.94,4.11,17.0,2024,248
+2.0,2:06,1.0,10.0,CAR 22,7.0,20.0,Bucky Irving right end for 9 yards (tackle by Chandler Wooten and Demani Richardson),4.11,5.06,17.0,2024,248
+2.0,2:00,2.0,1.0,CAR 13,7.0,20.0,Rachaad White left tackle for 3 yards (tackle by D.J. Wonnum and Michael Jackson),5.06,4.91,17.0,2024,248
+2.0,1:17,1.0,10.0,CAR 10,7.0,26.0,"Baker Mayfield pass complete short middle to Jalen McMillan for 10 yards, touchdown",4.91,7.0,17.0,2024,248
+2.0,1:11,,,CAR 15,7.0,27.0,Chase McLaughlin kicks extra point good,0.0,0.0,17.0,2024,248
+2.0,1:11,,,TAM 35,7.0,27.0,"Jack Browning kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,248
+2.0,1:11,1.0,10.0,CAR 30,7.0,27.0,Bryce Young pass complete short left to Xavier Legette for 5 yards (tackle by Jamel Dean),0.94,1.07,17.0,2024,248
+2.0,1:05,2.0,5.0,CAR 35,7.0,27.0,Bryce Young pass incomplete short right,1.07,0.37,17.0,2024,248
+2.0,1:01,3.0,5.0,CAR 35,7.0,27.0,"Bryce Young pass complete short middle to Xavier Legette for 10 yards (tackle by Zyon McCollum). Penalty on Vita Vea: Roughing the Passer, 15 yards (accepted)",0.37,2.92,17.0,2024,248
+2.0,0:56,1.0,10.0,TAM 40,13.0,27.0,"Bryce Young pass complete deep middle to Adam Thielen for 40 yards, touchdown",2.92,7.0,17.0,2024,248
+2.0,0:50,,,TAM 15,14.0,27.0,Eddy Piñeiro kicks extra point good,0.0,0.0,17.0,2024,248
+2.0,0:50,,,CAR 35,14.0,27.0,"Eddy Piñeiro kicks off 63 yards, returned by Rakim Jarrett for 15 yards (tackle by Lonnie Johnson)",0.0,-0.06,17.0,2024,248
+2.0,0:46,1.0,10.0,TAM 17,14.0,27.0,"Penalty on Tristan Wirfs: False Start, 5 yards (accepted) (no play)",-0.06,-0.51,17.0,2024,248
+2.0,0:46,1.0,15.0,TAM 12,14.0,27.0,Baker Mayfield pass incomplete short middle intended for Ryan Miller,-0.51,-1.15,17.0,2024,248
+2.0,0:42,2.0,15.0,TAM 12,14.0,27.0,Baker Mayfield pass complete short left to Ryan Miller for 3 yards (tackle by Akayleb Evans),-1.15,-1.57,17.0,2024,248
+2.0,0:36,,,,,,Timeout #1 by Carolina Panthers,,,17.0,2024,248
+2.0,0:36,3.0,12.0,TAM 15,14.0,27.0,Baker Mayfield pass complete short middle to Devin Culp for 9 yards (tackle by Chandler Wooten and Demani Richardson),-1.57,-1.77,17.0,2024,248
+2.0,0:28,,,,,,Timeout #2 by Carolina Panthers,,,17.0,2024,248
+2.0,0:28,4.0,3.0,TAM 24,14.0,27.0,"Jack Browning punts 52 yards, fair catch by David Moore at CAR-24",-1.77,-0.54,17.0,2024,248
+2.0,0:20,1.0,10.0,CAR 24,14.0,27.0,Bryce Young pass complete deep right to David Moore for 17 yards (tackle by Zyon McCollum),0.54,1.66,17.0,2024,248
+2.0,0:15,,,,,,Timeout #3 by Carolina Panthers,,,17.0,2024,248
+2.0,0:15,1.0,10.0,CAR 41,14.0,27.0,"Bryce Young pass incomplete short right intended for Ja'Tavion Sanders. Penalty on Calijah Kancey: Defensive Offside, 5 yards (accepted) (no play)",1.66,2.39,17.0,2024,248
+2.0,0:11,1.0,5.0,CAR 46,14.0,27.0,Bryce Young pass complete short left to Adam Thielen for 19 yards (tackle by Kaevon Merriweather),2.39,3.25,17.0,2024,248
+2.0,0:06,1.0,10.0,TAM 35,14.0,27.0,Bryce Young pass incomplete short left,3.25,2.7,17.0,2024,248
+2.0,0:03,2.0,10.0,TAM 35,14.0,27.0,Eddy Piñeiro 53 yard field goal no good,2.7,1.73,17.0,2024,248
+3.0,15:00,,,TAM 35,14.0,27.0,"Jack Browning kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,248
+3.0,15:00,1.0,10.0,CAR 30,14.0,27.0,Raheem Blackshear left guard for -2 yards (tackle by Tykee Smith and Josh Hayes),0.94,0.12,17.0,2024,248
+3.0,14:17,2.0,12.0,CAR 28,14.0,27.0,Bryce Young pass complete deep right to Jalen Coker for 20 yards (tackle by Mike Edwards),0.12,2.13,17.0,2024,248
+3.0,13:31,,,,,,Timeout #1 by Carolina Panthers,,,17.0,2024,248
+3.0,13:31,1.0,10.0,CAR 48,14.0,27.0,Bryce Young sacked by YaYa Diaby for -10 yards,2.13,0.23,17.0,2024,248
+3.0,13:18,2.0,20.0,CAR 38,14.0,27.0,Bryce Young sacked by Anthony Nelson for -4 yards,0.23,-0.96,17.0,2024,248
+3.0,12:36,3.0,24.0,CAR 34,14.0,27.0,Raheem Blackshear right tackle for 8 yards (tackle by Lavonte David),-0.96,-0.59,17.0,2024,248
+3.0,11:53,4.0,16.0,CAR 42,14.0,27.0,"Johnny Hekker punts 51 yards, returned by Trey Palmer for -1 yards (tackle by Sam Franklin)",-0.59,0.38,17.0,2024,248
+3.0,11:38,1.0,10.0,TAM 6,14.0,27.0,Bucky Irving left tackle for no gain (tackle by Jacoby Windmon),-0.38,-0.78,17.0,2024,248
+3.0,11:03,2.0,10.0,TAM 6,14.0,27.0,Baker Mayfield pass complete short left to Jalen McMillan for 9 yards (tackle by Chandler Wooten),-0.78,-0.37,17.0,2024,248
+3.0,10:40,3.0,1.0,TAM 15,14.0,27.0,Jalen McMillan left end for 9 yards (tackle by Caleb Farley),-0.37,0.54,17.0,2024,248
+3.0,10:09,1.0,10.0,TAM 24,14.0,27.0,Baker Mayfield pass complete deep middle to Mike Evans for 34 yards (tackle by Xavier Woods),0.54,2.79,17.0,2024,248
+3.0,9:39,1.0,10.0,CAR 42,14.0,27.0,Baker Mayfield pass complete short left to Bucky Irving for 16 yards (tackle by Dane Jackson),2.79,3.84,17.0,2024,248
+3.0,9:09,1.0,10.0,CAR 26,14.0,27.0,Bucky Irving right guard for 6 yards (tackle by Chandler Wooten and Jacoby Windmon),3.84,4.11,17.0,2024,248
+3.0,8:33,2.0,4.0,CAR 20,14.0,27.0,"Bucky Irving right tackle for no gain (tackle by DeShawn Williams and Cam Gill). Penalty on Rakim Jarrett: Offensive Offside, 5 yards (accepted) (no play)",4.11,3.43,17.0,2024,248
+3.0,8:08,2.0,9.0,CAR 25,14.0,27.0,Baker Mayfield pass complete short left to Jalen McMillan for 15 yards (tackle by Chandler Wooten),3.43,4.91,17.0,2024,248
+3.0,7:23,1.0,10.0,CAR 10,14.0,27.0,Baker Mayfield pass complete short right to Bucky Irving for 4 yards (tackle by Demani Richardson),4.91,4.95,17.0,2024,248
+3.0,6:36,2.0,6.0,CAR 6,14.0,27.0,Baker Mayfield pass complete short left to Jalen McMillan for 1 yard (tackle by Demani Richardson),4.95,4.26,17.0,2024,248
+3.0,5:52,3.0,5.0,CAR 5,14.0,33.0,"Baker Mayfield pass complete short left to Payne Durham for 5 yards, touchdown",4.26,7.0,17.0,2024,248
+3.0,5:48,,,CAR 15,14.0,34.0,Chase McLaughlin kicks extra point good,0.0,0.0,17.0,2024,248
+3.0,5:48,,,TAM 35,14.0,34.0,"Jack Browning kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,248
+3.0,5:48,1.0,10.0,CAR 30,14.0,34.0,Bryce Young pass incomplete deep right intended for Xavier Legette (defended by J.J. Russell),0.94,0.39,17.0,2024,248
+3.0,5:40,2.0,10.0,CAR 30,14.0,34.0,Bryce Young pass incomplete short right intended for Adam Thielen,0.39,-0.3,17.0,2024,248
+3.0,5:35,3.0,10.0,CAR 30,14.0,34.0,"Bryce Young pass incomplete deep right. Penalty on Mike Boone: Offensive Holding, 10 yards (declined)",-0.3,-1.37,17.0,2024,248
+3.0,5:30,4.0,10.0,CAR 30,14.0,40.0,"Johnny Hekker punts blocked by Joe Tryon-Shoyinka, touchdown",-1.37,-7.0,17.0,2024,248
+3.0,5:23,,,CAR 15,14.0,41.0,Chase McLaughlin kicks extra point good,0.0,0.0,17.0,2024,248
+3.0,5:23,,,TAM 35,14.0,41.0,"Jack Browning kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,248
+3.0,5:23,1.0,10.0,CAR 30,14.0,41.0,Mike Boone up the middle for 8 yards (tackle by K.J. Britt),0.94,1.47,17.0,2024,248
+3.0,5:00,2.0,2.0,CAR 38,14.0,41.0,Mike Boone right guard for 3 yards (tackle by Anthony Nelson),1.47,1.66,17.0,2024,248
+3.0,4:30,1.0,10.0,CAR 41,14.0,41.0,Bryce Young pass complete short right to Xavier Legette for 3 yards (tackle by Zyon McCollum),1.66,1.53,17.0,2024,248
+3.0,3:53,2.0,7.0,CAR 44,14.0,41.0,Bryce Young pass incomplete short middle,1.53,0.83,17.0,2024,248
+3.0,3:46,3.0,7.0,CAR 44,14.0,41.0,Bryce Young pass incomplete short left intended for Mike Boone,0.83,-0.46,17.0,2024,248
+3.0,3:43,4.0,7.0,CAR 44,14.0,41.0,"Penalty on Cade Mays: False Start, 5 yards (accepted) (no play)",-0.46,-0.78,17.0,2024,248
+3.0,3:43,4.0,12.0,CAR 39,14.0,41.0,"Johnny Hekker punts 48 yards, returned by Trey Palmer for 2 yards (tackle by Jon Rhattigan and Dan Chisena)",-0.78,0.22,17.0,2024,248
+3.0,3:33,1.0,10.0,TAM 15,14.0,41.0,Baker Mayfield pass complete short middle to Mike Evans for 15 yards (tackle by Xavier Woods),-0.22,0.94,17.0,2024,248
+3.0,3:00,1.0,10.0,TAM 30,14.0,41.0,Rachaad White right guard for 16 yards (tackle by DJ Johnson),0.94,1.99,17.0,2024,248
+3.0,2:15,1.0,10.0,TAM 46,14.0,41.0,Rachaad White left end for 3 yards (tackle by Michael Jackson),1.99,1.86,17.0,2024,248
+3.0,1:29,2.0,7.0,TAM 49,14.0,41.0,Baker Mayfield pass complete short right to Bucky Irving for 15 yards (tackle by Chandler Wooten),1.86,3.18,17.0,2024,248
+3.0,0:48,1.0,10.0,CAR 36,14.0,41.0,Baker Mayfield pass incomplete short middle intended for Payne Durham (defended by Jacoby Windmon),3.18,2.64,17.0,2024,248
+3.0,0:45,2.0,10.0,CAR 36,14.0,41.0,Bucky Irving left end for 12 yards (tackle by A'Shawn Robinson and D.J. Wonnum),2.64,3.97,17.0,2024,248
+4.0,15:00,1.0,10.0,CAR 24,14.0,41.0,Baker Mayfield pass complete short left to Rachaad White for 4 yards (tackle by Jacoby Windmon),3.97,3.97,17.0,2024,248
+4.0,14:25,2.0,6.0,CAR 20,14.0,41.0,Rachaad White right tackle for -1 yards (tackle by Michael Jackson),3.97,3.14,17.0,2024,248
+4.0,13:42,3.0,7.0,CAR 21,14.0,41.0,"Baker Mayfield pass complete short left to Mike Evans for no gain (tackle by Caleb Farley). Penalty on Jadeveon Clowney: Defensive Offside, 5 yards (accepted) (no play)",3.14,3.95,17.0,2024,248
+4.0,13:36,3.0,2.0,CAR 16,14.0,47.0,"Baker Mayfield pass complete short left to Jalen McMillan for 16 yards, touchdown",3.95,7.0,17.0,2024,248
+4.0,13:30,,,CAR 15,14.0,48.0,Chase McLaughlin kicks extra point good,0.0,0.0,17.0,2024,248
+4.0,13:30,,,TAM 35,14.0,48.0,"Jack Browning kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,248
+4.0,13:30,1.0,10.0,CAR 30,14.0,48.0,Raheem Blackshear left end for 6 yards (tackle by Greg Gaines),0.94,1.2,17.0,2024,248
+4.0,12:53,2.0,4.0,CAR 36,14.0,48.0,Raheem Blackshear right guard for -2 yards (tackle by Logan Hall),1.2,0.23,17.0,2024,248
+4.0,12:14,3.0,6.0,CAR 34,14.0,48.0,Bryce Young scrambles right end for 7 yards (tackle by Joe Tryon-Shoyinka),0.23,1.66,17.0,2024,248
+4.0,11:29,1.0,10.0,CAR 41,14.0,48.0,"Bryce Young aborted snap, recovered by Bryce Young at CAR-41 Bryce Young pass complete short middle to Xavier Legette for 5 yards (tackle by Jordan Whitehead)",1.66,1.8,17.0,2024,248
+4.0,10:55,2.0,5.0,CAR 46,14.0,48.0,Bryce Young pass complete short right to Xavier Legette for 5 yards (tackle by Zyon McCollum),1.8,2.32,17.0,2024,248
+4.0,10:16,1.0,10.0,TAM 49,14.0,48.0,Bryce Young pass complete short right to Adam Thielen for 3 yards (tackle by Tykee Smith),2.32,2.19,17.0,2024,248
+4.0,9:38,2.0,7.0,TAM 46,14.0,48.0,Bryce Young pass complete short right to Dan Chisena for 8 yards,2.19,3.05,17.0,2024,248
+4.0,9:06,1.0,10.0,TAM 38,14.0,48.0,Bryce Young pass incomplete short right,3.05,2.51,17.0,2024,248
+4.0,9:03,2.0,10.0,TAM 38,14.0,48.0,Bryce Young pass complete short middle to Ja'Tavion Sanders for 5 yards (tackle by K.J. Britt),2.51,2.48,17.0,2024,248
+4.0,8:21,3.0,5.0,TAM 33,14.0,48.0,"Bryce Young sacked by Chris Braswell for -5 yards. Bryce Young fumbles (forced by Chris Braswell), recovered by Raheem Blackshear at TB-39",2.48,0.66,17.0,2024,248
+4.0,7:36,4.0,11.0,TAM 39,14.0,48.0,Bryce Young sacked by Logan Hall for -9 yards,0.66,-2.13,17.0,2024,248
+4.0,7:33,1.0,10.0,TAM 48,14.0,48.0,Sean Tucker left tackle for 3 yards (tackle by Cam Gill and Jaden Crumedy),2.13,1.99,17.0,2024,248
+4.0,6:53,2.0,7.0,CAR 49,14.0,48.0,Sean Tucker right tackle for 2 yards (tackle by Chandler Wooten),1.99,1.55,17.0,2024,248
+4.0,6:12,3.0,5.0,CAR 47,14.0,48.0,Sean Tucker left guard for 9 yards (tackle by Xavier Woods),1.55,3.05,17.0,2024,248
+4.0,5:29,1.0,10.0,CAR 38,14.0,48.0,Sean Tucker right guard for 7 yards (tackle by Xavier Woods and Caleb Farley),3.05,3.45,17.0,2024,248
+4.0,4:44,2.0,3.0,CAR 31,14.0,48.0,Sean Tucker left end for 2 yards (tackle by Jacoby Windmon),3.45,3.01,17.0,2024,248
+4.0,4:05,3.0,1.0,CAR 29,14.0,48.0,Rachaad White right guard for 2 yards (tackle by Jacoby Windmon and Jadeveon Clowney),3.01,3.78,17.0,2024,248
+4.0,3:26,1.0,10.0,CAR 27,14.0,48.0,Sean Tucker right tackle for 9 yards (tackle by Demani Richardson and Xavier Woods),3.78,4.53,17.0,2024,248
+4.0,2:40,2.0,1.0,CAR 18,14.0,48.0,Sean Tucker right tackle for 3 yards (tackle by Demani Richardson and Chandler Wooten),4.53,4.58,17.0,2024,248
+4.0,2:00,1.0,10.0,CAR 15,14.0,48.0,Kyle Trask kneels for -1 yards,4.58,3.81,17.0,2024,248
+4.0,1:20,2.0,11.0,CAR 16,14.0,48.0,Kyle Trask kneels for no gain,3.81,3.04,17.0,2024,248
+4.0,0:39,3.0,11.0,CAR 16,14.0,48.0,Kyle Trask kneels for -1 yards,3.04,2.31,17.0,2024,248

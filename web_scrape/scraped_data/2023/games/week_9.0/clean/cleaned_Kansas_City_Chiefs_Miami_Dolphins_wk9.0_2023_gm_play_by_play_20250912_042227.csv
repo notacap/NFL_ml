@@ -1,0 +1,160 @@
+Quarter,Time,Down,ToGo,Location,MIA,KAN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Dolphins won the coin toss and deferred, Chiefs to receive the opening kickoff.",,,9.0,2023,124
+1.0,15:00,,,MIA 35,0.0,0.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,124
+1.0,15:00,1.0,10.0,KAN 25,0.0,0.0,Patrick Mahomes pass complete deep left to Marquez Valdes-Scantling for 21 yards (tackle by David Long),0.61,1.99,9.0,2023,124
+1.0,14:25,1.0,10.0,KAN 46,0.0,0.0,Patrick Mahomes pass complete short left to Travis Kelce for 4 yards (tackle by DeShon Elliott),1.99,1.99,9.0,2023,124
+1.0,13:50,2.0,6.0,KAN 50,0.0,0.0,Isiah Pacheco right guard for 4 yards (tackle by David Long and Bradley Chubb),1.99,1.82,9.0,2023,124
+1.0,13:15,3.0,2.0,MIA 46,0.0,0.0,Patrick Mahomes pass complete short right to Skyy Moore for 10 yards (tackle by Kader Kohou and Jaelan Phillips),1.82,3.18,9.0,2023,124
+1.0,12:41,1.0,10.0,MIA 36,0.0,0.0,Patrick Mahomes pass complete deep right to Noah Gray for 25 yards (tackle by DeShon Elliott),3.18,4.84,9.0,2023,124
+1.0,12:12,1.0,10.0,MIA 11,0.0,0.0,"Patrick Mahomes pass complete short middle to Justin Watson for 11 yards, touchdown Replay Assistant challenged the pass completion ruling, and the original play was overturned. Patrick Mahomes pass incomplete short middle intended for Justin Watson",4.84,4.14,9.0,2023,124
+1.0,12:08,2.0,10.0,MIA 11,0.0,6.0,"Patrick Mahomes pass complete short left to Rashee Rice for 11 yards, touchdown",4.14,7.0,9.0,2023,124
+1.0,12:03,,,MIA 15,0.0,7.0,Harrison Butker kicks extra point good,0.0,0.0,9.0,2023,124
+1.0,12:03,,,KAN 35,0.0,7.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,124
+1.0,12:03,1.0,10.0,MIA 25,0.0,7.0,Tua Tagovailoa pass complete short left to Jaylen Waddle for 15 yards (tackle by Drue Tranquill),0.61,1.6,9.0,2023,124
+1.0,11:27,1.0,10.0,MIA 40,0.0,7.0,Raheem Mostert right end for no gain (tackle by Chamarri Conner and Drue Tranquill),1.6,1.05,9.0,2023,124
+1.0,10:47,2.0,10.0,MIA 40,0.0,7.0,Tua Tagovailoa pass complete short left to Tyreek Hill for no gain (tackle by Michael Danna),1.05,0.37,9.0,2023,124
+1.0,10:01,,,,,,Timeout #1 by Miami Dolphins,,,9.0,2023,124
+1.0,10:01,3.0,10.0,MIA 40,0.0,7.0,"Penalty on Chase Claypool: False Start, 5 yards (accepted) (no play)",0.37,-0.3,9.0,2023,124
+1.0,10:01,3.0,15.0,MIA 35,0.0,7.0,"Penalty on Chris Jones: Neutral Zone Infraction, 5 yards (accepted) (no play)",-0.3,0.37,9.0,2023,124
+1.0,10:01,3.0,10.0,MIA 40,0.0,7.0,Tua Tagovailoa sacked by Jaylen Watson for -7 yards,0.37,-1.18,9.0,2023,124
+1.0,9:24,4.0,17.0,MIA 33,0.0,7.0,"Jake Bailey punts 40 yards, returned by Mecole Hardman for -3 yards (tackle by Elijah Campbell)",-1.18,-0.54,9.0,2023,124
+1.0,9:13,1.0,10.0,KAN 24,0.0,7.0,Isiah Pacheco left guard for 8 yards (tackle by Bradley Chubb and Jevon Holland),0.54,1.08,9.0,2023,124
+1.0,8:41,2.0,2.0,KAN 32,0.0,7.0,Isiah Pacheco up the middle for 9 yards (tackle by DeShon Elliott and Jevon Holland),1.08,1.66,9.0,2023,124
+1.0,8:01,1.0,10.0,KAN 41,0.0,7.0,Patrick Mahomes pass incomplete short right intended for La'Mical Perine,1.66,1.12,9.0,2023,124
+1.0,7:56,2.0,10.0,KAN 41,0.0,7.0,Isiah Pacheco left tackle for no gain (tackle by Andrew Van Ginkel and David Long),1.12,0.43,9.0,2023,124
+1.0,7:21,3.0,10.0,KAN 41,0.0,7.0,Patrick Mahomes pass complete short right to Travis Kelce for 3 yards (tackle by Andrew Van Ginkel),0.43,-0.46,9.0,2023,124
+1.0,6:45,4.0,7.0,KAN 44,0.0,7.0,"Tommy Townsend punts 38 yards, fair catch by Braxton Berrios at MIA-18",-0.46,-0.04,9.0,2023,124
+1.0,6:38,1.0,10.0,MIA 18,0.0,7.0,Raheem Mostert left end for 6 yards (tackle by Michael Danna and Trent McDuffie),0.04,0.41,9.0,2023,124
+1.0,5:59,2.0,4.0,MIA 24,0.0,7.0,Jaylen Waddle left end for 12 yards (tackle by Bryan Cook),0.41,1.33,9.0,2023,124
+1.0,5:20,1.0,10.0,MIA 36,0.0,7.0,"Tua Tagovailoa pass complete short right to Tyreek Hill for 6 yards (tackle by Bryan Cook). Penalty on L'Jarius Sneed: Defensive Holding, 5 yards (accepted) (no play)",1.33,1.66,9.0,2023,124
+1.0,4:45,1.0,10.0,MIA 41,0.0,7.0,Tua Tagovailoa pass complete short middle to Tyreek Hill for 17 yards (tackle by Drue Tranquill),1.66,2.79,9.0,2023,124
+1.0,4:02,1.0,10.0,KAN 42,0.0,7.0,Tua Tagovailoa pass incomplete short right intended for Cedrick Wilson,2.79,2.24,9.0,2023,124
+1.0,3:59,2.0,10.0,KAN 42,0.0,7.0,Raheem Mostert right end for no gain (tackle by L'Jarius Sneed and Leo Chenal),2.24,1.55,9.0,2023,124
+1.0,3:21,3.0,10.0,KAN 42,0.0,7.0,"Tua Tagovailoa pass complete deep right to Jaylen Waddle for no gain (tackle by Justin Reid and Jaylen Watson). Penalty on Cedrick Wilson: Illegal Shift, 5 yards (accepted) (no play)",1.55,0.89,9.0,2023,124
+1.0,2:50,3.0,15.0,KAN 47,0.0,7.0,Tua Tagovailoa pass complete short middle to Salvon Ahmed for 3 yards (tackle by Drue Tranquill),0.89,0.33,9.0,2023,124
+1.0,2:10,4.0,12.0,KAN 44,0.0,7.0,"Jake Bailey punts 35 yards, fair catch by Mecole Hardman at KC-9",0.33,0.38,9.0,2023,124
+1.0,2:04,1.0,10.0,KAN 9,0.0,7.0,Patrick Mahomes pass complete short left to Justin Watson for 8 yards (tackle by Kader Kohou),-0.38,-0.02,9.0,2023,124
+1.0,1:28,2.0,2.0,KAN 17,0.0,7.0,Isiah Pacheco left guard for 5 yards (tackle by Jalen Ramsey and David Long),-0.02,0.41,9.0,2023,124
+1.0,0:53,1.0,10.0,KAN 22,0.0,7.0,Patrick Mahomes sacked by Jaelan Phillips for no gain,0.41,-0.13,9.0,2023,124
+1.0,0:16,2.0,10.0,KAN 22,0.0,7.0,Patrick Mahomes pass incomplete short right,-0.13,-0.82,9.0,2023,124
+1.0,0:12,3.0,10.0,KAN 22,0.0,7.0,Patrick Mahomes pass incomplete deep right intended for Justin Watson,-0.82,-1.9,9.0,2023,124
+1.0,0:06,4.0,10.0,KAN 22,0.0,7.0,"Tommy Townsend punts 48 yards, fair catch by Braxton Berrios at MIA-30",-1.9,-0.94,9.0,2023,124
+2.0,15:00,1.0,10.0,MIA 30,0.0,7.0,Tua Tagovailoa pass complete short middle to Tyreek Hill for 10 yards (tackle by Trent McDuffie),0.94,1.6,9.0,2023,124
+2.0,14:19,1.0,10.0,MIA 40,0.0,7.0,Salvon Ahmed right end for 1 yard (tackle by Charles Omenihu and Leo Chenal),1.6,1.19,9.0,2023,124
+2.0,13:39,2.0,9.0,MIA 41,0.0,7.0,Tua Tagovailoa pass incomplete deep right intended for Tyreek Hill,1.19,0.5,9.0,2023,124
+2.0,13:33,3.0,9.0,MIA 41,0.0,7.0,Tua Tagovailoa pass incomplete short middle intended for Jeff Wilson,0.5,-0.65,9.0,2023,124
+2.0,13:31,4.0,9.0,MIA 41,0.0,7.0,"Jake Bailey punts 42 yards, fair catch by Mecole Hardman at KC-17",-0.65,0.06,9.0,2023,124
+2.0,13:25,1.0,10.0,KAN 17,0.0,7.0,Patrick Mahomes pass complete short middle to Mecole Hardman for -7 yards (tackle by Christian Wilkins),-0.06,-1.29,9.0,2023,124
+2.0,12:47,2.0,17.0,KAN 10,0.0,7.0,Patrick Mahomes pass incomplete short right intended for Justin Watson (defended by Xavien Howard),-1.29,-2.24,9.0,2023,124
+2.0,12:43,,,,,,Timeout #1 by Kansas City Chiefs,,,9.0,2023,124
+2.0,12:43,3.0,17.0,KAN 10,0.0,7.0,Patrick Mahomes pass complete short left to Jerick McKinnon for 5 yards (tackle by Kader Kohou),-2.24,-2.44,9.0,2023,124
+2.0,12:01,4.0,12.0,KAN 15,0.0,7.0,"Tommy Townsend punts 48 yards, returned by Braxton Berrios for 7 yards (tackle by Leo Chenal and Cam Jones)",-2.44,-1.86,9.0,2023,124
+2.0,11:50,1.0,10.0,MIA 44,0.0,7.0,Tua Tagovailoa pass incomplete deep right intended for Jaylen Waddle,1.86,1.32,9.0,2023,124
+2.0,11:45,2.0,10.0,MIA 44,0.0,7.0,"Tua Tagovailoa pass incomplete short right. Penalty on Tua Tagovailoa: Intentional Grounding, 10 yards (accepted)",1.32,-0.69,9.0,2023,124
+2.0,11:41,3.0,20.0,MIA 34,0.0,7.0,Tua Tagovailoa pass complete short left to Jeff Wilson for 10 yards (tackle by Justin Reid),-0.69,-0.46,9.0,2023,124
+2.0,11:04,4.0,10.0,MIA 44,0.0,7.0,"Jake Bailey punts 47 yards, fair catch by Mecole Hardman at KC-9. Penalty on Bryan Cook: Offensive Holding, 4 yards (accepted)",-0.46,0.38,9.0,2023,124
+2.0,10:59,1.0,10.0,KAN 5,0.0,7.0,Isiah Pacheco up the middle for 2 yards (tackle by Jerome Baker and Andrew Van Ginkel),-0.38,-0.63,9.0,2023,124
+2.0,10:21,2.0,8.0,KAN 7,0.0,7.0,Isiah Pacheco right guard for 3 yards (tackle by Zach Sieler and David Long),-0.63,-0.84,9.0,2023,124
+2.0,9:41,3.0,5.0,KAN 10,0.0,7.0,Patrick Mahomes pass complete short left to Rashee Rice for 6 yards (tackle by Kader Kohou),-0.84,-0.14,9.0,2023,124
+2.0,9:05,,,,,,Timeout #2 by Kansas City Chiefs,,,9.0,2023,124
+2.0,9:05,1.0,10.0,KAN 16,0.0,7.0,Jerick McKinnon right tackle for 2 yards (tackle by Jevon Holland and Jaelan Phillips),-0.14,-0.35,9.0,2023,124
+2.0,8:28,2.0,8.0,KAN 18,0.0,7.0,"Patrick Mahomes pass incomplete short left intended for Rashee Rice. Penalty on Bradley Chubb: Defensive Holding, 5 yards (accepted) (no play)",-0.35,0.48,9.0,2023,124
+2.0,8:20,1.0,10.0,KAN 23,0.0,7.0,Patrick Mahomes scrambles up the middle for 5 yards (tackle by Zach Sieler),0.48,0.61,9.0,2023,124
+2.0,7:37,2.0,5.0,KAN 28,0.0,7.0,Isiah Pacheco right tackle for 7 yards (tackle by Zach Sieler),0.61,1.27,9.0,2023,124
+2.0,7:01,1.0,10.0,KAN 35,0.0,7.0,Isiah Pacheco right tackle for 2 yards (tackle by Raekwon Davis and Da'Shawn Hand),1.27,0.99,9.0,2023,124
+2.0,6:27,2.0,8.0,KAN 37,0.0,7.0,Patrick Mahomes pass complete short middle to Kadarius Toney for 18 yards (tackle by Nik Needham and Jevon Holland),0.99,2.59,9.0,2023,124
+2.0,5:45,1.0,10.0,MIA 45,0.0,7.0,Patrick Mahomes pass complete short left to Noah Gray for 3 yards (tackle by Jevon Holland),2.59,2.45,9.0,2023,124
+2.0,5:04,2.0,7.0,MIA 42,0.0,7.0,"Penalty on Donovan Smith: False Start, 5 yards (accepted) (no play)",2.45,1.77,9.0,2023,124
+2.0,4:51,2.0,12.0,MIA 47,0.0,7.0,"Patrick Mahomes scrambles right end for no gain (tackle by Jaelan Phillips). Penalty on Donovan Smith: Offensive Holding, 10 yards (offset) . Penalty on Jaelan Phillips: Defensive Holding, 5 yards (offset) (no play)",1.77,1.77,9.0,2023,124
+2.0,4:31,2.0,12.0,MIA 47,0.0,7.0,Patrick Mahomes pass complete deep left to Skyy Moore for 23 yards (tackle by DeShon Elliott),1.77,3.97,9.0,2023,124
+2.0,3:51,1.0,10.0,MIA 24,0.0,7.0,Patrick Mahomes scrambles left end for 6 yards (tackle by Jaelan Phillips),3.97,4.29,9.0,2023,124
+2.0,3:12,2.0,4.0,MIA 18,0.0,7.0,Isiah Pacheco left tackle for 1 yard (tackle by David Long),4.29,3.75,9.0,2023,124
+2.0,2:37,3.0,3.0,MIA 17,0.0,13.0,"Patrick Mahomes pass complete short right to Jerick McKinnon for 17 yards, touchdown. Penalty on Jalen Ramsey: Defensive Holding, 5 yards (declined)",3.75,7.0,9.0,2023,124
+2.0,2:31,,,MIA 15,0.0,14.0,Harrison Butker kicks extra point good,0.0,0.0,9.0,2023,124
+2.0,2:31,,,KAN 35,0.0,14.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,124
+2.0,2:31,1.0,10.0,MIA 25,0.0,14.0,Salvon Ahmed left end for 9 yards (tackle by Drue Tranquill and Trent McDuffie),0.61,1.28,9.0,2023,124
+2.0,2:04,2.0,1.0,MIA 34,0.0,14.0,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 14 yards (tackle by Jaylen Watson),1.28,2.13,9.0,2023,124
+2.0,2:00,1.0,10.0,MIA 48,0.0,14.0,Tua Tagovailoa pass complete short middle to Tyreek Hill for 19 yards (tackle by Drue Tranquill),2.13,3.38,9.0,2023,124
+2.0,1:26,1.0,10.0,KAN 33,0.0,14.0,Tua Tagovailoa pass complete short right to Durham Smythe for 3 yards (tackle by L'Jarius Sneed),3.38,3.31,9.0,2023,124
+2.0,0:47,2.0,6.0,KAN 30,0.0,20.0,"Tua Tagovailoa pass complete short left to Tyreek Hill for -7 yards. Tyreek Hill fumbles (forced by Trent McDuffie), recovered by Mike Edwards at KC-37 and returned for 4 yards, lateral to Bryan Cook for 59 yards, touchdown",3.31,-7.0,9.0,2023,124
+2.0,0:33,,,MIA 15,0.0,21.0,Harrison Butker kicks extra point good,0.0,0.0,9.0,2023,124
+2.0,0:33,,,KAN 35,0.0,21.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,124
+2.0,0:33,1.0,10.0,MIA 25,0.0,21.0,Tua Tagovailoa pass complete short left to Salvon Ahmed for 5 yards (tackle by Trent McDuffie),0.61,0.74,9.0,2023,124
+2.0,0:27,,,,,,Timeout #2 by Miami Dolphins,,,9.0,2023,124
+2.0,0:27,2.0,5.0,MIA 30,0.0,21.0,Tua Tagovailoa pass incomplete short right intended for Cedrick Wilson,0.74,0.04,9.0,2023,124
+2.0,0:22,3.0,5.0,MIA 30,0.0,21.0,Tua Tagovailoa pass incomplete short left intended for Salvon Ahmed,0.04,-1.37,9.0,2023,124
+2.0,0:18,4.0,5.0,MIA 30,0.0,21.0,"Jake Bailey punts 48 yards, returned by Mecole Hardman for 10 yards (tackle by Duke Riley)",-1.37,-1.07,9.0,2023,124
+2.0,0:08,1.0,10.0,KAN 32,0.0,21.0,Patrick Mahomes kneels for -1 yards,1.07,0.39,9.0,2023,124
+3.0,15:00,,,KAN 35,0.0,21.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,124
+3.0,15:00,1.0,10.0,MIA 25,0.0,21.0,Raheem Mostert right guard for 3 yards (tackle by Willie Gay),0.61,0.47,9.0,2023,124
+3.0,14:23,2.0,7.0,MIA 28,0.0,21.0,"Raheem Mostert left end for 12 yards (tackle by L'Jarius Sneed). Penalty on Connor Williams: Offensive Holding, 10 yards (accepted) (no play)",0.47,-0.98,9.0,2023,124
+3.0,14:00,2.0,17.0,MIA 18,0.0,21.0,Tua Tagovailoa pass incomplete short right intended for Cedrick Wilson,-0.98,-1.72,9.0,2023,124
+3.0,13:57,3.0,17.0,MIA 18,0.0,21.0,Tua Tagovailoa scrambles right guard for 7 yards (tackle by Trent McDuffie),-1.72,-1.7,9.0,2023,124
+3.0,13:24,4.0,10.0,MIA 25,0.0,21.0,"Jake Bailey punts 52 yards downed by Justin Bethel. Penalty on Joshua Williams: Offensive Holding, 10 yards (declined) . Penalty on Jack Cochrane: Offensive Holding, 10 yards (accepted)",-1.7,0.32,9.0,2023,124
+3.0,13:14,1.0,10.0,KAN 13,0.0,21.0,Isiah Pacheco left guard for 5 yards (tackle by Zach Sieler),-0.32,-0.14,9.0,2023,124
+3.0,12:36,2.0,5.0,KAN 18,0.0,21.0,Patrick Mahomes pass complete short left to Noah Gray for 6 yards (tackle by Jalen Ramsey and Jevon Holland),-0.14,0.54,9.0,2023,124
+3.0,11:59,1.0,10.0,KAN 24,0.0,21.0,Isiah Pacheco right guard for 2 yards (tackle by Christian Wilkins and Jevon Holland),0.54,0.27,9.0,2023,124
+3.0,11:30,2.0,8.0,KAN 26,0.0,21.0,Patrick Mahomes pass incomplete short left intended for Skyy Moore,0.27,-0.43,9.0,2023,124
+3.0,11:27,3.0,8.0,KAN 26,0.0,21.0,"Patrick Mahomes scrambles right end for no gain (tackle by Jalen Ramsey). Penalty on Donovan Smith: Offensive Holding, 10 yards (accepted) (no play)",-0.43,-2.05,9.0,2023,124
+3.0,10:57,3.0,18.0,KAN 16,0.0,21.0,Patrick Mahomes scrambles left tackle for 16 yards (tackle by Jalen Ramsey),-2.05,-1.24,9.0,2023,124
+3.0,10:05,4.0,2.0,KAN 32,0.0,21.0,"Tommy Townsend punts 68 yards, touchback.",-1.24,-0.28,9.0,2023,124
+3.0,9:57,1.0,10.0,MIA 20,0.0,21.0,Tua Tagovailoa pass complete short left to Jeff Wilson for 12 yards (tackle by Leo Chenal and Trent McDuffie),0.28,1.07,9.0,2023,124
+3.0,9:20,1.0,10.0,MIA 32,0.0,21.0,Tua Tagovailoa pass complete short right to Durham Smythe for 8 yards (tackle by L'Jarius Sneed),1.07,1.61,9.0,2023,124
+3.0,8:39,2.0,2.0,MIA 40,0.0,21.0,Jeff Wilson right end for 6 yards (tackle by Matt Dickerson and Leo Chenal),1.61,1.99,9.0,2023,124
+3.0,8:02,1.0,10.0,MIA 46,0.0,21.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 7 yards (tackle by Trent McDuffie),1.99,2.4,9.0,2023,124
+3.0,7:23,2.0,3.0,KAN 47,0.0,21.0,Jeff Wilson right end for no gain (tackle by Chris Jones and Charles Omenihu),2.4,1.69,9.0,2023,124
+3.0,6:41,3.0,3.0,KAN 47,0.0,21.0,Tua Tagovailoa pass complete short left to Durham Smythe for 6 yards (tackle by Jaylen Watson),1.69,2.85,9.0,2023,124
+3.0,5:56,1.0,10.0,KAN 41,0.0,21.0,"Tua Tagovailoa scrambles for no gain (tackle by Willie Gay). Penalty on L'Jarius Sneed: Defensive Holding, 5 yards (accepted) (no play)",2.85,3.18,9.0,2023,124
+3.0,5:31,1.0,10.0,KAN 36,0.0,21.0,Raheem Mostert left guard for 5 yards (tackle by Willie Gay),3.18,3.31,9.0,2023,124
+3.0,4:52,2.0,5.0,KAN 31,6.0,21.0,"Tua Tagovailoa pass complete deep right to Cedrick Wilson for 31 yards, touchdown",3.31,7.0,9.0,2023,124
+3.0,4:47,,,KAN 15,7.0,21.0,Jason Sanders kicks extra point good,0.0,0.0,9.0,2023,124
+3.0,4:47,,,MIA 35,7.0,21.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,124
+3.0,4:47,1.0,10.0,KAN 25,7.0,21.0,Patrick Mahomes pass complete short left to Justin Watson for 7 yards (tackle by Jalen Ramsey),0.61,1.01,9.0,2023,124
+3.0,4:11,2.0,3.0,KAN 32,7.0,21.0,Patrick Mahomes pass complete short right to Mecole Hardman for 10 yards (tackle by Jevon Holland),1.01,1.73,9.0,2023,124
+3.0,3:25,1.0,10.0,KAN 42,7.0,21.0,Patrick Mahomes pass complete short right to Marquez Valdes-Scantling for 1 yard (tackle by Xavien Howard),1.73,1.32,9.0,2023,124
+3.0,2:50,2.0,9.0,KAN 43,7.0,21.0,Patrick Mahomes pass incomplete short left intended for Travis Kelce (defended by Bradley Chubb),1.32,0.63,9.0,2023,124
+3.0,2:46,3.0,9.0,KAN 43,7.0,21.0,"Patrick Mahomes scrambles left end for no gain (tackle by Jaelan Phillips). Penalty on Travis Kelce: Illegal Shift, 5 yards (declined) . Penalty on Creed Humphrey: Offensive Holding, 11 yards (accepted) (no play)",0.63,-0.82,9.0,2023,124
+3.0,2:20,3.0,20.0,KAN 32,7.0,21.0,"Patrick Mahomes sacked by Bradley Chubb for -11 yards. Patrick Mahomes fumbles (forced by Bradley Chubb), recovered by Zach Sieler at KC-27 (tackle by Joe Thuney)",-0.82,-3.78,9.0,2023,124
+3.0,2:12,1.0,10.0,KAN 27,7.0,21.0,"Raheem Mostert left tackle for 4 yards (tackle by Willie Gay and Mike Edwards). Penalty on Austin Jackson: Offensive Holding, 10 yards (accepted) (no play)",3.78,3.12,9.0,2023,124
+3.0,1:34,1.0,20.0,KAN 37,7.0,21.0,Tua Tagovailoa sacked by Leo Chenal for no gain,3.12,1.88,9.0,2023,124
+3.0,1:01,2.0,20.0,KAN 37,7.0,21.0,Tua Tagovailoa pass incomplete deep left intended for Tyreek Hill,1.88,1.22,9.0,2023,124
+3.0,0:58,,,,,,Timeout #1 by Miami Dolphins,,,9.0,2023,124
+3.0,0:58,3.0,20.0,KAN 37,7.0,21.0,Tua Tagovailoa pass complete short right to Jeff Wilson for 10 yards (tackle by Jaylen Watson and Drue Tranquill),1.22,1.22,9.0,2023,124
+3.0,0:58,3.0,20.0,KAN 37,7.0,21.0,"Penalty on Chris Jones: Unnecessary Roughness / Defense, 14 yards (accepted) (no play)",1.22,4.71,9.0,2023,124
+3.0,0:27,1.0,10.0,KAN 13,13.0,21.0,"Raheem Mostert left end for 13 yards, touchdown",4.71,7.0,9.0,2023,124
+3.0,0:22,,,KAN 15,14.0,21.0,Jason Sanders kicks extra point good,0.0,0.0,9.0,2023,124
+3.0,0:22,,,MIA 35,14.0,21.0,"Jason Sanders kicks off 64 yards, returned by Jerick McKinnon for 20 yards (tackle by Cameron Goode and Duke Riley)",0.0,0.34,9.0,2023,124
+3.0,0:18,1.0,10.0,KAN 21,14.0,21.0,Isiah Pacheco left guard for 4 yards (tackle by Jaelan Phillips and Zach Sieler),0.34,0.34,9.0,2023,124
+4.0,15:00,2.0,6.0,KAN 25,14.0,21.0,Patrick Mahomes pass complete short right to Mecole Hardman for 7 yards (tackle by Xavien Howard),0.34,1.07,9.0,2023,124
+4.0,14:23,1.0,10.0,KAN 32,14.0,21.0,Isiah Pacheco up the middle for 5 yards (tackle by Christian Wilkins),1.07,1.2,9.0,2023,124
+4.0,13:42,2.0,5.0,KAN 37,14.0,21.0,Isiah Pacheco left guard for 7 yards (tackle by Raekwon Davis and Zach Sieler),1.2,1.86,9.0,2023,124
+4.0,13:05,1.0,10.0,KAN 44,14.0,21.0,Patrick Mahomes pass incomplete short left intended for Isiah Pacheco,1.86,1.32,9.0,2023,124
+4.0,13:00,2.0,10.0,KAN 44,14.0,21.0,La'Mical Perine right guard for 1 yard (tackle by Zach Sieler),1.32,0.76,9.0,2023,124
+4.0,12:20,3.0,9.0,KAN 45,14.0,21.0,Patrick Mahomes pass incomplete deep left intended for Marquez Valdes-Scantling (defended by Kader Kohou),0.76,-0.39,9.0,2023,124
+4.0,12:14,4.0,9.0,KAN 45,14.0,21.0,"Tommy Townsend punts 44 yards, fair catch by Braxton Berrios at MIA-11",-0.39,0.37,9.0,2023,124
+4.0,12:07,1.0,10.0,MIA 11,14.0,21.0,Raheem Mostert right end for 5 yards (tackle by George Karlaftis),-0.37,-0.3,9.0,2023,124
+4.0,11:25,2.0,5.0,MIA 16,14.0,21.0,Raheem Mostert right guard for 8 yards (tackle by Chamarri Conner and Bryan Cook),-0.3,0.54,9.0,2023,124
+4.0,10:45,1.0,10.0,MIA 24,14.0,21.0,"Raheem Mostert right guard for no gain. Raheem Mostert fumbles (forced by Willie Gay), recovered by Chase Claypool at MIA-28",0.54,0.54,9.0,2023,124
+4.0,10:01,2.0,6.0,MIA 28,14.0,21.0,Tua Tagovailoa pass complete short right to Alec Ingold for 1 yard (tackle by Justin Reid and Drue Tranquill),0.54,-0.03,9.0,2023,124
+4.0,9:31,3.0,5.0,MIA 29,14.0,21.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 7 yards (tackle by Trent McDuffie and Mike Edwards),-0.03,1.33,9.0,2023,124
+4.0,8:44,1.0,10.0,MIA 36,14.0,21.0,Tua Tagovailoa pass complete short left to Jaylen Waddle for 13 yards (tackle by Bryan Cook),1.33,2.19,9.0,2023,124
+4.0,8:05,1.0,10.0,MIA 49,14.0,21.0,Tyreek Hill right end for 3 yards (tackle by Trent McDuffie),2.19,2.05,9.0,2023,124
+4.0,7:18,2.0,7.0,KAN 48,14.0,21.0,Raheem Mostert right guard for 1 yard (tackle by Leo Chenal),2.05,1.49,9.0,2023,124
+4.0,6:36,3.0,6.0,KAN 47,14.0,21.0,Tua Tagovailoa pass complete short middle to Tyreek Hill for 9 yards (tackle by Trent McDuffie),1.49,3.05,9.0,2023,124
+4.0,5:57,1.0,10.0,KAN 38,14.0,21.0,Salvon Ahmed right end for -6 yards (tackle by Willie Gay),3.05,1.7,9.0,2023,124
+4.0,5:11,2.0,16.0,KAN 44,14.0,21.0,Tua Tagovailoa sacked by Tershawn Wharton for -11 yards,1.7,-0.43,9.0,2023,124
+4.0,4:26,3.0,27.0,MIA 45,14.0,21.0,Tua Tagovailoa pass incomplete short left intended for Jaylen Waddle,-0.43,-0.39,9.0,2023,124
+4.0,4:22,4.0,27.0,MIA 45,14.0,21.0,"Jake Bailey punts 52 yards, returned by Mecole Hardman for 7 yards (tackle by Cameron Goode and David Long)",-0.39,0.38,9.0,2023,124
+4.0,4:10,1.0,10.0,KAN 10,14.0,21.0,Patrick Mahomes pass complete short right to Travis Kelce for 7 yards (tackle by Jerome Baker),-0.38,-0.09,9.0,2023,124
+4.0,3:26,2.0,3.0,KAN 17,14.0,21.0,Isiah Pacheco right tackle for 2 yards (tackle by Raekwon Davis and David Long),-0.09,-0.37,9.0,2023,124
+4.0,2:42,3.0,1.0,KAN 19,14.0,21.0,Patrick Mahomes pass incomplete short left,-0.37,-2.14,9.0,2023,124
+4.0,2:36,4.0,1.0,KAN 19,14.0,21.0,"Tommy Townsend punts 56 yards, fair catch by Braxton Berrios at MIA-25",-2.14,-0.61,9.0,2023,124
+4.0,2:28,1.0,10.0,MIA 25,14.0,21.0,Raheem Mostert left end for 25 yards (tackle by Jaylen Watson and Bryan Cook),0.61,2.26,9.0,2023,124
+4.0,2:00,1.0,10.0,KAN 50,14.0,21.0,Raheem Mostert left tackle for 19 yards (tackle by Justin Reid),2.26,3.51,9.0,2023,124
+4.0,1:17,1.0,10.0,KAN 31,14.0,21.0,Tua Tagovailoa pass incomplete short right intended for Raheem Mostert,3.51,2.97,9.0,2023,124
+4.0,1:10,2.0,10.0,KAN 31,14.0,21.0,Tua Tagovailoa pass incomplete deep left intended for Jaylen Waddle,2.97,2.28,9.0,2023,124
+4.0,1:07,3.0,10.0,KAN 31,14.0,21.0,Tua Tagovailoa pass incomplete deep left intended for Cedrick Wilson,2.28,1.32,9.0,2023,124
+4.0,1:03,,,,,,Timeout #2 by Miami Dolphins,,,9.0,2023,124
+4.0,1:03,4.0,10.0,KAN 31,14.0,21.0,"Tua Tagovailoa aborted snap, recovered by Tua Tagovailoa at KC-44 and returned for -13 yards",1.32,-1.86,9.0,2023,124
+4.0,1:00,1.0,10.0,KAN 44,14.0,21.0,Patrick Mahomes kneels for -1 yards,1.86,1.18,9.0,2023,124
+4.0,0:28,2.0,11.0,KAN 43,14.0,21.0,Patrick Mahomes kneels for -1 yards,1.18,0.37,9.0,2023,124

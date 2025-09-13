@@ -1,0 +1,69 @@
+Player,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Team,Draft Team,Draft Round,Draft Pick,Draft Year
+Ameer Abdullah,30.0,RB,17,0.0,203.0,69,Nebraska,6/13/1993,8,2.0,Las Vegas Raiders,Detroit Lions,2.0,54.0,2015.0
+Davante Adams,31.0,WR,17,17.0,215.0,73,Fresno St.,12/24/1992,9,10.0,Las Vegas Raiders,Green Bay Packers,2.0,53.0,2014.0
+Jakorian Bennett,23.0,CB,14,4.0,200.0,70,"Hutchinson (KS),Maryland",8/23/2000,0,2.0,Las Vegas Raiders,Las Vegas Raiders,4.0,104.0,2023.0
+Jacob Bobenmoyer,26.0,LS,17,0.0,235.0,72,Northern Colorado,5/28/1997,3,1.0,Las Vegas Raiders,,,,
+Brandon Bolden,33.0,RB,17,0.0,220.0,71,Mississippi,1/26/1990,11,0.0,Las Vegas Raiders,,,,
+Curtis Bolton,28.0,LB,13,0.0,228.0,72,Oklahoma,12/18/1995,2,1.0,Las Vegas Raiders,,,,
+Amari Burney,23.0,LB,7,1.0,228.0,74,Florida,6/12/2000,0,1.0,Las Vegas Raiders,Las Vegas Raiders,6.0,203.0,2023.0
+Adam Butler,29.0,DT,17,0.0,301.0,76,Vanderbilt,4/12/1994,6,2.0,Las Vegas Raiders,,,,
+Matthew Butler,24.0,DT,2,0.0,305.0,75,Tennessee,6/10/1999,1,0.0,Las Vegas Raiders,Las Vegas Raiders,5.0,175.0,2022.0
+Daniel Carlson,28.0,K,17,0.0,215.0,77,Auburn,1/23/1995,5,3.0,Las Vegas Raiders,Minnesota Vikings,5.0,167.0,2018.0
+DeAndre Carter,30.0,WR,17,1.0,190.0,68,Sacramento St.,4/10/1993,5,0.0,Las Vegas Raiders,,,,
+AJ Cole III,28.0,P,17,0.0,220.0,76,North Carolina St.,11/27/1995,4,3.0,Las Vegas Raiders,,,,
+Maxx Crosby,26.0,DE,17,17.0,255.0,77,Eastern Michigan,8/22/1997,4,15.0,Las Vegas Raiders,Oakland Raiders,4.0,106.0,2019.0
+Divine Deablo,25.0,LB,15,15.0,223.0,75,Virginia Tech,8/17/1998,2,7.0,Las Vegas Raiders,Las Vegas Raiders,3.0,80.0,2021.0
+Jermaine Eluemunor,29.0,RT,17,14.0,338.0,76,"Lackawanna,Texas A&M",12/13/1994,6,5.0,Las Vegas Raiders,Baltimore Ravens,5.0,159.0,2017.0
+Marcus Epps,27.0,S,17,17.0,195.0,72,Wyoming,1/27/1996,4,6.0,Las Vegas Raiders,Minnesota Vikings,6.0,191.0,2019.0
+Brandon Facyson,29.0,CB,3,0.0,197.0,74,Virginia Tech,9/8/1994,5,0.0,Las Vegas Raiders,,,,
+Cole Fotheringham,26.0,TE,2,0.0,245.0,76,Utah,10/11/1997,1,0.0,Las Vegas Raiders,,,,
+Jimmy Garoppolo,32.0,QB,7,6.0,225.0,74,Eastern Illinois,11/2/1991,9,2.0,Las Vegas Raiders,New England Patriots,2.0,62.0,2014.0
+Zach Gentry,27.0,TE,1,0.0,265.0,80,Michigan,9/10/1996,4,0.0,Las Vegas Raiders,Pittsburgh Steelers,5.0,141.0,2019.0
+Hroniss Grasu,32.0,C,2,0.0,301.0,75,Oregon,8/12/1991,8,0.0,Las Vegas Raiders,Chicago Bears,3.0,71.0,2015.0
+Tyler Hall,25.0,CB,11,3.0,190.0,70,Wyoming,10/31/1998,3,1.0,Las Vegas Raiders,,,,
+Justin Herron,28.0,T,6,1.0,305.0,77,Wake Forest,11/27/1995,3,1.0,Las Vegas Raiders,New England Patriots,6.0,195.0,2020.0
+Nate Hobbs,24.0,CB,13,11.0,195.0,72,Illinois,6/24/1999,2,4.0,Las Vegas Raiders,Las Vegas Raiders,5.0,167.0,2021.0
+Austin Hooper,29.0,TE,17,9.0,254.0,76,Stanford,10/29/1994,7,2.0,Las Vegas Raiders,Atlanta Falcons,3.0,81.0,2016.0
+Jesper Horsted,26.0,TE,13,0.0,237.0,75,Princeton,2/27/1997,4,0.0,Las Vegas Raiders,,,,
+Brian Hoyer,38.0,QB,3,1.0,215.0,74,Michigan St.,10/13/1985,14,1.0,Las Vegas Raiders,,,,
+Josh Jacobs,25.0,RB,13,13.0,223.0,70,Alabama,2/11/1998,4,6.0,Las Vegas Raiders,Oakland Raiders,1.0,24.0,2019.0
+Andre James,26.0,C,16,16.0,300.0,76,UCLA,5/2/1997,4,6.0,Las Vegas Raiders,,,,
+John Jenkins,34.0,DT,17,17.0,360.0,75,"Mississippi Gulf Coast CC,Georgia",7/11/1989,10,8.0,Las Vegas Raiders,New Orleans Saints,3.0,82.0,2013.0
+Jakob Johnson,29.0,FB,13,5.0,255.0,75,Tennessee,12/15/1994,4,0.0,Las Vegas Raiders,,,,
+Jack Jones,26.0,CB,7,3.0,175.0,71,"USC,Moorpark College,Arizona St.",12/20/1997,1,2.0,Las Vegas Raiders,New England Patriots,4.0,121.0,2022.0
+Malcolm Koonce,25.0,DE,17,11.0,243.0,75,Buffalo,6/6/1998,2,6.0,Las Vegas Raiders,Las Vegas Raiders,3.0,79.0,2021.0
+David Long,25.0,DB,8,1.0,196.0,71,Michigan,2/6/1998,4,1.0,Las Vegas Raiders,Los Angeles Rams,3.0,79.0,2019.0
+Luke Masterson,25.0,LB,16,1.0,220.0,73,Wake Forest,1/7/1998,1,2.0,Las Vegas Raiders,,,,
+Kana'i Mauga,23.0,LB,5,0.0,245.0,74,USC,1/8/2000,1,0.0,Las Vegas Raiders,,,,
+Michael Mayer,22.0,TE,14,12.0,256.0,76,Notre Dame,7/6/2001,0,3.0,Las Vegas Raiders,Las Vegas Raiders,2.0,35.0,2023.0
+Jordan Meredith,25.0,G,17,1.0,301.0,74,Western Kentucky,1/4/1998,1,1.0,Las Vegas Raiders,,,,
+Jakobi Meyers,27.0,WR,16,16.0,193.0,74,North Carolina St.,11/9/1996,4,7.0,Las Vegas Raiders,,,,
+Kolton Miller,28.0,T,13,11.0,326.0,80,UCLA,9/2/1995,5,5.0,Las Vegas Raiders,Oakland Raiders,1.0,15.0,2018.0
+Tre'von Moehrig,24.0,S,17,17.0,202.0,74,TCU,6/16/1999,2,6.0,Las Vegas Raiders,Las Vegas Raiders,2.0,43.0,2021.0
+Thayer Munford,24.0,T,15,10.0,354.0,77,Ohio St.,9/18/1999,1,5.0,Las Vegas Raiders,Las Vegas Raiders,7.0,238.0,2022.0
+Netane Muti,24.0,G,2,0.0,325.0,75,Fresno St.,3/27/1999,3,0.0,Las Vegas Raiders,Denver Broncos,6.0,181.0,2020.0
+Bilal Nichols,27.0,LDT,17,17.0,300.0,75,Delaware,9/14/1996,5,8.0,Las Vegas Raiders,Chicago Bears,5.0,145.0,2018.0
+Aidan O'Connell,25.0,QB,11,10.0,206.0,75,Purdue,9/1/1998,0,6.0,Las Vegas Raiders,Las Vegas Raiders,4.0,135.0,2023.0
+Dylan Parham,24.0,G,17,17.0,332.0,74,Memphis,8/24/1999,1,6.0,Las Vegas Raiders,Las Vegas Raiders,3.0,90.0,2022.0
+Brandon Parker,28.0,T,5,1.0,320.0,80,North Carolina A&T,10/21/1995,5,1.0,Las Vegas Raiders,Oakland Raiders,3.0,65.0,2018.0
+Marcus Peters,30.0,RCB,12,12.0,197.0,72,Washington,1/9/1993,8,5.0,Las Vegas Raiders,Kansas City Chiefs,1.0,18.0,2015.0
+Isaiah Pola-Mao,24.0,S,16,0.0,204.0,75,USC,6/30/1999,1,1.0,Las Vegas Raiders,,,,
+Troy Pride Jr.,25.0,CB,1,0.0,195.0,71,Notre Dame,1/19/1998,3,0.0,Las Vegas Raiders,Carolina Panthers,4.0,113.0,2020.0
+Malik Reed,27.0,DB,4,2.0,245.0,74,Nevada,8/5/1996,4,1.0,Las Vegas Raiders,,,,
+Hunter Renfrow,28.0,WR,17,3.0,185.0,70,Clemson,12/21/1995,4,2.0,Las Vegas Raiders,Oakland Raiders,5.0,149.0,2019.0
+Amik Robertson,25.0,CB,17,12.0,183.0,69,Louisiana Tech,7/6/1998,3,5.0,Las Vegas Raiders,Las Vegas Raiders,4.0,139.0,2020.0
+Janarius Robinson,24.0,DE,6,2.0,263.0,77,Florida St.,5/5/1999,1,1.0,Las Vegas Raiders,Minnesota Vikings,4.0,134.0,2021.0
+Isaac Rochell,28.0,DE,8,1.0,280.0,76,Notre Dame,4/22/1995,6,1.0,Las Vegas Raiders,Los Angeles Chargers,7.0,225.0,2017.0
+Nesta Jade Silvera,23.0,DT,2,0.0,304.0,74,"Miami (FL),Arizona St.",1/23/2000,0,0.0,Las Vegas Raiders,Las Vegas Raiders,7.0,231.0,2023.0
+Christopher Smith,23.0,S,12,0.0,197.0,70,Georgia,5/1/2000,0,1.0,Las Vegas Raiders,Las Vegas Raiders,5.0,170.0,2023.0
+Jaylon Smith,28.0,LB,1,0.0,244.0,74,Notre Dame,6/14/1995,6,0.0,Las Vegas Raiders,Dallas Cowboys,2.0,34.0,2016.0
+Robert Spillane,28.0,LB,17,17.0,229.0,73,Western Michigan,12/14/1995,5,9.0,Las Vegas Raiders,,,,
+Roderic Teamer,26.0,S,6,0.0,205.0,72,Tulane,5/12/1997,4,0.0,Las Vegas Raiders,,,,
+Jerry Tillery,27.0,RDE,17,6.0,295.0,78,Notre Dame,10/8/1996,4,4.0,Las Vegas Raiders,Los Angeles Chargers,1.0,28.0,2019.0
+Tre Tucker,22.0,WR,16,1.0,182.0,68,Cincinnati,3/8/2001,0,3.0,Las Vegas Raiders,Las Vegas Raiders,3.0,100.0,2023.0
+DJ Turner,26.0,WR,10,0.0,205.0,69,"Maryland,Pittsburgh",1/18/1997,1,0.0,Las Vegas Raiders,,,,
+Greg Van Roten,33.0,G,17,17.0,295.0,76,Pennsylvania,2/26/1990,11,6.0,Las Vegas Raiders,,,,
+Zamir White,24.0,RB,17,4.0,227.0,71,Georgia,9/18/1999,1,4.0,Las Vegas Raiders,Las Vegas Raiders,4.0,122.0,2022.0
+Kristian Wilkerson,26.0,WR,2,1.0,214.0,73,SE Missouri St.,1/10/1997,3,0.0,Las Vegas Raiders,,,,
+Tyree Wilson,23.0,DE,17,0.0,263.0,77,"Texas A&M,Texas Tech",5/20/2000,0,2.0,Las Vegas Raiders,Las Vegas Raiders,1.0,7.0,2023.0
+Byron Young,23.0,DT,6,0.0,292.0,75,Alabama,11/10/2000,0,0.0,Las Vegas Raiders,Las Vegas Raiders,3.0,70.0,2023.0

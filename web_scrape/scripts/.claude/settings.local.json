@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(del test_logging.py)",
+      "Bash(rmdir:*)",
+      "Bash(rm:*)"
+    ],
+    "deny": [],
+    "defaultMode": "acceptEdits"
+  }
+}

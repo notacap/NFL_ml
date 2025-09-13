@@ -1,0 +1,165 @@
+<prompt>
+  
+  <context>
+
+    - The past_injuries.py script was copied over from another project and needs to be refactored to work for this project
+
+    - The script will insert/upsert NFL player playing status information into the injury_report table for games that have already been played (historical data)
+
+    - The script ingests the same source csv file as the plyr.py script
+
+  </context>
+  <agents>
+
+    - Make sure to consult with the csv-source-analyzer agent before modifying the script. The agent ONLY needs to review the files that get ingested into the past_injuries.py script.
+
+    - After you run the script and the data is inserted/upserted into the database, have the @database-quality-checker agent quality control the database against the source csv files to make sure the data in the mapped columns match 1:1
+
+    - When you run the script after creating it, you are running it for the first time. There should NOT be any rows updated when you run the script, there should only be new rows inserted. If you encounter any rows updated, call on the database-insert-validator agent to investigate why. The reason for the update statement should not be fixed, only explained. I will provide instructions for how to prevent the update record after I investiage the agent's findings.
+
+  </agents>
+
+  <source_csv>
+
+    <directory_logic>
+
+      - The script only needs to process one file. The name in the file includes cleaned_players
+
+      - The script should process the most recently created file in this directory:
+      
+       C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\{YEAR}\plyr\plyr_clean\{WEEK}
+
+      - The YEAR and WEEK variables at the top of the db_utils.py determine the {YEAR} and {WEEK} variables in the source file directory path
+
+      - The WEEK_START and WEEK_END variables are not applicable, as those are reserved for game level data
+
+    </directory_logic>
+
+    <number_of_columns>
+
+    - The source csv now has more columns, but the primary column names used in the scripts have not changed (plyr_name, pos, age, weeks, etc.)
+
+    </number_of_columns>
+
+  </source_csv>
+
+  <refactor_details>
+
+    - The script should create the database table if it does not already exist in the database.
+
+      <id_values>
+
+        <season_id>
+
+          - Currently, the script is using a SEASON_ID variable to determine the season_id
+
+          - The way the script determines the season_id needs to be updated
+
+          - To determine the season_id, the script needs to match the YEAR variable value from the db_utils.py file with the 'year' column value in the nfl_season table
+
+          - The get_season_id function in the db_utils.py file should be used to determine the season_id value
+
+        </season_id>
+
+        <game_id>
+
+          - In the current version of the script, the game_id is named 'gm_id'
+
+          - Make sure to update instances of gm_id to game_id
+
+        </game_id>
+
+      </id_values>
+
+      <functionality>
+
+        <logging>
+
+          - The logging is a little too comprehensive for my liking
+
+          - Let's scale back the logging system so it is more aligned with other scripts in the project (insert_scripts directory)
+
+        </logging>
+
+        <weeks_processed>
+
+          - Currently, the script creates records for all 18 weeks in the season (in the process_csv_row function)
+
+          - The script needs to be updated to determine the maximum value in the 'for week in range()' loop based on the data in the source csv file, instead of a hardcoded value
+
+          - The 'weeks' column in the source csv contains a list of comma separted integers (example: 1,2,4,5,6)
+
+          - The script should compare every row's list of week numbers last index, and should find the maximum value found out of all the last index values
+
+          - This maximum value should be used in the for week in range loop
+
+          - Example: 
+            max_week = 12
+            for week in range(1, max_week + 1)
+
+            - The script only process 12 weeks worth of playing status
+
+        </weeks_processed>
+
+        <is_playing>
+
+          - When the script was created, the 'is_playing' database table column's data type was ENUM('In', 'Out')
+
+          - The is_playing data type is now TINYINT to represent boolean values
+
+          - You can refactor the script so the logic that determined 'In' should now = 1, and the logic that determined 'Out' should now = 0
+
+        </is_playing>
+
+        <source_directory>
+
+        - The source directory logic should be refactored based on the information located in the <directory_logic> tag above
+
+        </source_directory>
+
+        <unchanged>
+
+        - The relevant database table, column, and source csv column names needed for player and team matching have not been changed and do not need to be refactored 
+
+        </unchanged>
+
+      </functionality>
+
+  </refactor_details>
+
+  <create_table>
+
+    CREATE TABLE injury_report (
+        injury_report_id INT AUTO_INCREMENT PRIMARY KEY,
+        season_id INT,
+        plyr_id INT,
+        plyr_name VARCHAR(255) NOT NULL,
+        team_id INT,
+        game_id INT,
+        week_id INT,
+        is_playing TINYINT,
+        FOREIGN KEY (season_id) REFERENCES nfl_season(season_id),
+        FOREIGN KEY (plyr_id) REFERENCES plyr(plyr_id),
+        FOREIGN KEY (game_id) REFERENCES nfl_game(game_id),
+        FOREIGN KEY (team_id) REFERENCES nfl_team(team_id),
+        FOREIGN KEY (week_id) REFERENCES nfl_week(week_id),
+        UNIQUE KEY uk_plyr_season_game (plyr_id, game_id)
+    );
+
+  </create_table>
+
+  <source_csv_example>
+
+    Here is an example source csv file the script needs to process and insert/upsert into the past_injuries table
+
+    C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\2024\plyr\plyr_clean\18\cleaned_players_20250823_1938.csv
+
+  </source_csv_example>
+
+  <important_note>
+
+      Do not deviate from the create table statement provided. There are source csv columns I am intentionally omitting from the database.
+
+  </important_note>
+
+</prompt>

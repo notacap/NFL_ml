@@ -1,0 +1,188 @@
+Quarter,Time,Down,ToGo,Location,LAR,IND,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Colts won the coin toss and deferred, Rams to receive the opening kickoff.",,,4.0,2023,56
+1,15:00,,,IND 35,0.0,0.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,56
+1,15:00,1.0,10.0,LAR 25,0.0,0.0,Matthew Stafford pass complete deep middle to Puka Nacua for 26 yards (tackle by Rodney Thomas and Julian Blackmon),0.61,2.32,4.0,2023,56
+1,14:24,1.0,10.0,IND 49,0.0,0.0,Kyren Williams right end for -1 yards (tackle by Grover Stewart and Kenny Moore),2.32,1.65,4.0,2023,56
+1,13:58,2.0,11.0,IND 50,0.0,0.0,Matthew Stafford pass incomplete short left intended for Puka Nacua (defended by Dallis Flowers),1.65,0.96,4.0,2023,56
+1,13:51,3.0,11.0,IND 50,0.0,0.0,Matthew Stafford scrambles right end for 6 yards (tackle by Julian Blackmon),0.96,0.96,4.0,2023,56
+1,13:51,3.0,11.0,IND 50,0.0,0.0,"Penalty on E.J. Speed: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",0.96,3.64,4.0,2023,56
+1,13:23,1.0,10.0,IND 29,0.0,0.0,Matthew Stafford pass complete short left to Van Jefferson for 13 yards,3.64,4.51,4.0,2023,56
+1,12:55,1.0,10.0,IND 16,0.0,0.0,Kyren Williams left end for 6 yards (tackle by Dallis Flowers),4.51,4.97,4.0,2023,56
+1,12:06,2.0,4.0,IND 10,0.0,0.0,Matthew Stafford pass incomplete short right intended for Tyler Higbee (defended by Dayo Odeyingbo),4.97,4.17,4.0,2023,56
+1,12:01,3.0,4.0,IND 10,0.0,0.0,Matthew Stafford pass complete short left to Puka Nacua for 7 yards (tackle by Julian Blackmon and E.J. Speed),4.17,6.51,4.0,2023,56
+1,11:38,1.0,3.0,IND 3,6.0,0.0,"Kyren Williams up the middle for 3 yards, touchdown",6.51,7.0,4.0,2023,56
+1,11:35,,,IND 15,7.0,0.0,Brett Maher kicks extra point good,0.0,0.0,4.0,2023,56
+1,11:35,,,LAR 35,7.0,0.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,56
+1,11:35,1.0,10.0,IND 25,7.0,0.0,Anthony Richardson scrambles right end for 4 yards (tackle by Ernest Jones),0.61,0.6,4.0,2023,56
+1,10:52,2.0,6.0,IND 29,7.0,0.0,Anthony Richardson pass incomplete short left intended for Isaiah McKenzie,0.6,-0.1,4.0,2023,56
+1,10:48,3.0,6.0,IND 29,7.0,0.0,Anthony Richardson pass complete short left to Kylen Granson for 7 yards (tackle by Cobie Durant),-0.1,1.33,4.0,2023,56
+1,10:20,1.0,10.0,IND 36,7.0,0.0,Anthony Richardson left tackle for 7 yards (tackle by Quentin Lake),1.33,1.74,4.0,2023,56
+1,10:04,2.0,3.0,IND 43,7.0,0.0,Zack Moss left tackle for -1 yards (tackle by Jonah Williams and Michael Hoecht),1.74,0.89,4.0,2023,56
+1,9:24,3.0,4.0,IND 42,7.0,0.0,Anthony Richardson sacked by Ernest Jones for -3 yards,0.89,-0.78,4.0,2023,56
+1,8:40,4.0,7.0,IND 39,7.0,0.0,"Penalty on IND: Delay of Game, 5 yards (accepted) (no play)",-0.78,-1.11,4.0,2023,56
+1,8:40,4.0,12.0,IND 34,7.0,0.0,"Rigoberto Sanchez punts 54 yards, returned by Austin Trammell for no gain (tackle by Segun Olubi and Luke Rhodes). Penalty on Troy Reeder: Offensive Holding, 6 yards (accepted)",-1.11,0.38,4.0,2023,56
+1,8:18,1.0,10.0,LAR 6,7.0,0.0,Kyren Williams left guard for 10 yards (tackle by Shaquille Leonard),-0.38,-0.14,4.0,2023,56
+1,7:44,1.0,10.0,LAR 16,7.0,0.0,Kyren Williams up the middle for 4 yards (tackle by Zaire Franklin),-0.14,0.01,4.0,2023,56
+1,7:04,2.0,6.0,LAR 20,7.0,0.0,"Matthew Stafford pass complete deep right to Puka Nacua for 26 yards (tackle by Kenny Moore). Penalty on Kenny Moore: Unnecessary Roughness / Defense, 15 yards (accepted)",0.01,2.98,4.0,2023,56
+1,6:38,1.0,10.0,IND 39,7.0,0.0,Kyren Williams right guard for no gain (tackle by Samson Ebukam),2.98,2.44,4.0,2023,56
+1,6:14,2.0,10.0,IND 39,7.0,0.0,Matthew Stafford pass incomplete short middle intended for Tyler Higbee,2.44,1.75,4.0,2023,56
+1,6:07,3.0,10.0,IND 39,7.0,0.0,Matthew Stafford pass complete short left to Tyler Higbee for 7 yards (tackle by E.J. Speed and Dallis Flowers),1.75,1.29,4.0,2023,56
+1,5:26,4.0,3.0,IND 32,7.0,0.0,Matthew Stafford pass complete short middle to Van Jefferson for 16 yards (tackle by Julius Brents),1.29,4.51,4.0,2023,56
+1,4:49,1.0,10.0,IND 16,7.0,0.0,Matthew Stafford pass complete short right to Brycen Hopkins for 5 yards (tackle by Julian Blackmon),4.51,4.76,4.0,2023,56
+1,4:12,2.0,5.0,IND 11,7.0,0.0,Kyren Williams left end for 8 yards (tackle by Shaquille Leonard),4.76,6.51,4.0,2023,56
+1,3:43,1.0,3.0,IND 3,13.0,0.0,"Kyren Williams right guard for 3 yards, touchdown",6.51,7.0,4.0,2023,56
+1,3:40,,,IND 15,14.0,0.0,Brett Maher kicks extra point good,0.0,0.0,4.0,2023,56
+1,3:40,,,LAR 35,14.0,0.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,56
+1,3:40,1.0,10.0,IND 25,14.0,0.0,Anthony Richardson right end for 23 yards (tackle by Russ Yeast),0.61,2.13,4.0,2023,56
+1,3:03,1.0,10.0,IND 48,14.0,0.0,Anthony Richardson pass complete short middle to Josh Downs for 4 yards (tackle by Michael Hoecht),2.13,2.12,4.0,2023,56
+1,2:41,2.0,6.0,LAR 48,14.0,0.0,"Anthony Richardson right end for 8 yards. Anthony Richardson fumbles (forced by Jordan Fuller) (tackle by Ernest Jones), recovered by Ahkello Witherspoon at LA-40 (tackle by Jordan Fuller) (tackle by Jordan Fuller) (tackle by Ernest Jones) Replay Assistant challenged the fumble ruling, and the play was upheld.",2.12,-1.6,4.0,2023,56
+1,2:32,1.0,10.0,LAR 40,14.0,0.0,Ronnie Rivers left tackle for 6 yards (tackle by Dallis Flowers),1.6,1.86,4.0,2023,56
+1,1:58,2.0,4.0,LAR 46,14.0,0.0,Ronnie Rivers up the middle for 6 yards (tackle by Julius Brents),1.86,2.39,4.0,2023,56
+1,1:16,1.0,10.0,IND 48,14.0,0.0,Matthew Stafford pass complete deep right to Tyler Higbee for 33 yards (tackle by Julian Blackmon),2.39,4.58,4.0,2023,56
+1,0:32,1.0,10.0,IND 15,14.0,0.0,"Ronnie Rivers left end for no gain (tackle by Rodney Thomas). Penalty on Coleman Shelton: Offensive Illegal Block Above the Waist, 10 yards (accepted) (no play)",4.58,3.91,4.0,2023,56
+2,15:00,1.0,20.0,IND 25,14.0,0.0,Matthew Stafford pass complete short right to Ronnie Rivers for no gain (tackle by Zaire Franklin),3.91,2.67,4.0,2023,56
+2,14:20,2.0,20.0,IND 25,14.0,0.0,Kyren Williams left tackle for no gain (tackle by E.J. Speed and Zaire Franklin),2.67,2.01,4.0,2023,56
+2,13:41,3.0,20.0,IND 25,14.0,0.0,Kyren Williams up the middle for 3 yards (tackle by DeForest Buckner and Samson Ebukam),2.01,1.99,4.0,2023,56
+2,12:56,4.0,17.0,IND 22,17.0,0.0,Brett Maher 40 yard field goal good,1.99,3.0,4.0,2023,56
+2,12:52,,,LAR 35,17.0,0.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,56
+2,12:52,1.0,10.0,IND 25,17.0,0.0,Zack Moss left tackle for 7 yards (tackle by Derion Kendrick and Desjuan Johnson),0.61,1.01,4.0,2023,56
+2,12:14,2.0,3.0,IND 32,17.0,0.0,Zack Moss right end for -6 yards (tackle by Bobby Brown and Desjuan Johnson),1.01,-0.49,4.0,2023,56
+2,11:32,3.0,9.0,IND 26,17.0,0.0,Anthony Richardson pass incomplete deep left intended for Michael Pittman,-0.49,-1.63,4.0,2023,56
+2,11:25,4.0,9.0,IND 26,17.0,0.0,"Rigoberto Sanchez punts 46 yards, returned by Austin Trammell for no gain (tackle by Luke Rhodes). Penalty on Tre'Vius Tomlinson: Unsportsmanlike Conduct / Offense, 14 yards (accepted)",-1.63,0.28,4.0,2023,56
+2,11:17,1.0,10.0,LAR 14,17.0,0.0,Kyren Williams left tackle for 5 yards (tackle by Taven Bryan),-0.28,-0.04,4.0,2023,56
+2,10:28,2.0,5.0,LAR 19,17.0,0.0,"Kyren Williams left guard for 2 yards. Kyren Williams fumbles (forced by Dayo Odeyingbo), recovered by Puka Nacua at LA-21 (tackle by Dayo Odeyingbo)",-0.04,-0.56,4.0,2023,56
+2,9:54,,,,,,Timeout #1 by Los Angeles Rams,,,4.0,2023,56
+2,9:54,3.0,3.0,LAR 21,17.0,0.0,Matthew Stafford pass complete short right to Tutu Atwell for 3 yards (tackle by Julius Brents),-0.56,0.54,4.0,2023,56
+2,9:22,1.0,10.0,LAR 24,17.0,0.0,Matthew Stafford pass incomplete short right intended for Tyler Higbee,0.54,0.0,4.0,2023,56
+2,9:17,2.0,10.0,LAR 24,17.0,0.0,Matthew Stafford pass complete short right to Tutu Atwell for 11 yards (tackle by Julius Brents),0.0,1.27,4.0,2023,56
+2,8:40,1.0,10.0,LAR 35,17.0,0.0,Matthew Stafford pass complete deep middle to Puka Nacua for 32 yards (tackle by Kenny Moore),1.27,3.38,4.0,2023,56
+2,7:56,1.0,10.0,IND 33,17.0,0.0,Kyren Williams right guard for 1 yard (tackle by Zaire Franklin),3.38,2.97,4.0,2023,56
+2,7:15,2.0,9.0,IND 32,17.0,0.0,Kyren Williams left tackle for 3 yards (tackle by Zaire Franklin and Dayo Odeyingbo),2.97,2.68,4.0,2023,56
+2,6:37,3.0,6.0,IND 29,17.0,0.0,Matthew Stafford sacked by and Dayo Odeyingbo for -7 yards and Zaire Franklin for -7 yards,2.68,0.88,4.0,2023,56
+2,5:53,4.0,13.0,IND 36,20.0,0.0,Brett Maher 54 yard field goal good,0.88,3.0,4.0,2023,56
+2,5:48,,,LAR 35,20.0,0.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,56
+2,5:48,1.0,10.0,IND 25,20.0,0.0,Zack Moss up the middle for 2 yards (tackle by Ernest Jones and Aaron Donald),0.61,0.33,4.0,2023,56
+2,5:18,2.0,8.0,IND 27,20.0,0.0,Anthony Richardson scrambles up the middle for 9 yards (tackle by Christian Rozeboom),0.33,1.33,4.0,2023,56
+2,4:40,1.0,10.0,IND 36,20.0,0.0,"Anthony Richardson aborted snap, recovered by Anthony Richardson at IND-27 and returned for -9 yards (tackle by Aaron Donald)",1.33,-0.43,4.0,2023,56
+2,4:02,2.0,19.0,IND 27,20.0,0.0,Anthony Richardson pass complete deep middle to Josh Downs for 30 yards (tackle by Cobie Durant),-0.43,2.72,4.0,2023,56
+2,3:32,1.0,10.0,LAR 43,20.0,0.0,Zack Moss up the middle for 8 yards (tackle by Kobie Turner and Byron Young),2.72,3.26,4.0,2023,56
+2,3:02,2.0,2.0,LAR 35,20.0,0.0,Anthony Richardson pass complete short left to Isaiah McKenzie for 6 yards (tackle by Russ Yeast and Ernest Jones),3.26,3.64,4.0,2023,56
+2,2:41,1.0,10.0,LAR 29,20.0,0.0,Anthony Richardson left end for -3 yards (tackle by Derion Kendrick),3.64,2.76,4.0,2023,56
+2,2:00,2.0,12.0,LAR 32,20.0,0.0,Anthony Richardson scrambles for 8 yards (tackle by Russ Yeast),2.76,3.14,4.0,2023,56
+2,1:54,3.0,4.0,LAR 24,20.0,0.0,"Anthony Richardson pass incomplete short right intended for Andrew Ogletree. Penalty on Will Fries: Ineligible Downfield Pass, 5 yards (declined)",3.14,1.94,4.0,2023,56
+2,1:50,4.0,4.0,LAR 24,20.0,0.0,"Penalty on Michael Pittman: False Start, 5 yards (accepted) (no play)",1.94,1.5,4.0,2023,56
+2,1:50,4.0,9.0,LAR 29,20.0,0.0,Matt Gay 47 yard field goal no good,1.5,-1.4,4.0,2023,56
+2,1:45,1.0,10.0,LAR 37,20.0,0.0,Kyren Williams left tackle for 6 yards (tackle by Shaquille Leonard),1.4,1.67,4.0,2023,56
+2,1:10,2.0,4.0,LAR 43,20.0,0.0,Kyren Williams up the middle for 3 yards (tackle by Kenny Moore),1.67,1.36,4.0,2023,56
+2,0:41,3.0,1.0,LAR 46,20.0,0.0,Kyren Williams right guard for 20 yards (tackle by Rodney Thomas),1.36,3.31,4.0,2023,56
+2,0:31,1.0,10.0,IND 34,20.0,0.0,Matthew Stafford pass complete short left to Tutu Atwell for -1 yards (tackle by Dallis Flowers),3.31,2.64,4.0,2023,56
+2,0:26,,,,,,Timeout #2 by Los Angeles Rams,,,4.0,2023,56
+2,0:26,2.0,11.0,IND 35,20.0,0.0,Matthew Stafford pass complete short right to Puka Nacua for 7 yards (tackle by Grover Stewart),2.64,2.87,4.0,2023,56
+2,0:04,,,,,,Timeout #3 by Los Angeles Rams,,,4.0,2023,56
+2,0:04,3.0,4.0,IND 28,20.0,0.0,Brett Maher 46 yard field goal no good,2.87,1.27,4.0,2023,56
+3,15:00,,,LAR 35,20.0,0.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,56
+3,15:00,1.0,10.0,IND 25,20.0,0.0,Anthony Richardson pass incomplete deep left intended for Isaiah McKenzie (defended by Russ Yeast),0.61,0.06,4.0,2023,56
+3,14:53,2.0,10.0,IND 25,20.0,0.0,"Anthony Richardson scrambles up the middle for no gain (tackle by Michael Hoecht). Penalty on Quenton Nelson: Offensive Holding, 10 yards (accepted) (no play)",0.06,-1.43,4.0,2023,56
+3,14:24,,,,,,Timeout #1 by Indianapolis Colts,,,4.0,2023,56
+3,14:24,2.0,20.0,IND 15,20.0,0.0,"Anthony Richardson pass incomplete short left intended for Zack Moss. Penalty on Kobie Turner: Roughing the Passer, 15 yards (accepted) (no play)",-1.43,0.94,4.0,2023,56
+3,14:18,1.0,10.0,IND 30,20.0,0.0,Zack Moss up the middle for no gain (tackle by Bobby Brown),0.94,0.39,4.0,2023,56
+3,13:40,2.0,10.0,IND 30,20.0,0.0,Anthony Richardson sacked by Aaron Donald for -1 yards,0.39,-0.43,4.0,2023,56
+3,12:58,3.0,11.0,IND 29,20.0,0.0,Anthony Richardson pass incomplete deep middle intended for Josh Downs,-0.43,-1.44,4.0,2023,56
+3,12:51,4.0,11.0,IND 29,20.0,0.0,"Rigoberto Sanchez punts 48 yards, returned by Austin Trammell for 7 yards (tackle by Andrew Ogletree and Grant Stuard)",-1.44,-0.94,4.0,2023,56
+3,12:42,1.0,10.0,LAR 30,20.0,0.0,Ronnie Rivers left guard for 3 yards (tackle by Dayo Odeyingbo),0.94,0.8,4.0,2023,56
+3,12:03,2.0,7.0,LAR 33,20.0,0.0,Ronnie Rivers left guard for 2 yards (tackle by Dayo Odeyingbo),0.8,0.37,4.0,2023,56
+3,11:14,,,,,,Timeout #1 by Los Angeles Rams,,,4.0,2023,56
+3,11:14,3.0,5.0,LAR 35,20.0,0.0,Matthew Stafford pass complete short middle to Tyler Higbee for 9 yards (tackle by Zaire Franklin),0.37,1.86,4.0,2023,56
+3,10:33,1.0,10.0,LAR 44,20.0,0.0,"Matthew Stafford pass complete short left to Puka Nacua for no gain (tackle by Dallis Flowers). Penalty on Joseph Noteboom: Offensive Holding, 10 yards (accepted) (no play)",1.86,1.2,4.0,2023,56
+3,10:04,1.0,20.0,LAR 34,20.0,0.0,Ronnie Rivers right end for 9 yards (tackle by Julian Blackmon),1.2,1.18,4.0,2023,56
+3,9:35,2.0,11.0,LAR 43,20.0,0.0,Matthew Stafford pass complete deep right to Puka Nacua for 17 yards,1.18,2.92,4.0,2023,56
+3,9:04,1.0,10.0,IND 40,20.0,0.0,Ronnie Rivers up the middle for 6 yards (tackle by Julius Brents),2.92,3.18,4.0,2023,56
+3,8:18,2.0,4.0,IND 34,20.0,0.0,Matthew Stafford pass incomplete short left,3.18,2.48,4.0,2023,56
+3,8:07,3.0,4.0,IND 34,20.0,0.0,Ronnie Rivers up the middle for 2 yards (tackle by Dayo Odeyingbo),2.48,1.3,4.0,2023,56
+3,7:22,4.0,2.0,IND 32,23.0,0.0,Brett Maher 51 yard field goal good,1.3,3.0,4.0,2023,56
+3,7:17,,,LAR 35,23.0,0.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,56
+3,7:17,1.0,10.0,IND 25,23.0,0.0,Zack Moss right guard for 20 yards (tackle by Byron Young and Russ Yeast),0.61,1.93,4.0,2023,56
+3,6:41,1.0,10.0,IND 45,23.0,0.0,Zack Moss up the middle for 7 yards (tackle by Cobie Durant),1.93,2.33,4.0,2023,56
+3,6:14,2.0,3.0,LAR 48,23.0,0.0,Zack Moss up the middle for 13 yards (tackle by Ernest Jones and Cobie Durant),2.33,3.25,4.0,2023,56
+3,5:37,1.0,10.0,LAR 35,23.0,6.0,"Anthony Richardson pass complete deep right to Mo Alie-Cox for 35 yards, touchdown. Penalty on Ahkello Witherspoon: Defensive Holding, 5 yards (declined)",3.25,7.0,4.0,2023,56
+3,5:26,,,LAR 2,23.0,8.0,Two Point Attempt: Anthony Richardson pass complete to to Zack Moss for no gain,1.0,1.0,4.0,2023,56
+3,5:26,,,IND 35,23.0,8.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,56
+3,5:26,1.0,10.0,LAR 25,23.0,8.0,Matthew Stafford pass incomplete short right intended for Tutu Atwell,0.61,0.06,4.0,2023,56
+3,5:23,2.0,10.0,LAR 25,23.0,8.0,Matthew Stafford pass deep right intended for Tutu Atwell is intercepted by Kenny Moore at LA-42 and returned for no gain (tackle by Tutu Atwell),0.06,-2.79,4.0,2023,56
+3,5:17,1.0,10.0,LAR 42,23.0,8.0,Zack Moss up the middle for 3 yards (tackle by Christian Rozeboom and Ernest Jones),2.79,2.65,4.0,2023,56
+3,4:44,2.0,7.0,LAR 39,23.0,8.0,Anthony Richardson pass incomplete short left intended for Kylen Granson,2.65,1.95,4.0,2023,56
+3,4:37,3.0,7.0,LAR 39,23.0,8.0,"Anthony Richardson sacked by Aaron Donald for no gain. Anthony Richardson fumbles (forced by Aaron Donald), recovered by Christian Rozeboom at LA-44. Penalty on Tre'Vius Tomlinson: Defensive Holding, 5 yards (accepted) (no play)",1.95,3.31,4.0,2023,56
+3,4:31,1.0,10.0,LAR 34,23.0,8.0,Zack Moss up the middle for 3 yards (tackle by Kobie Turner and Ernest Jones),3.31,3.18,4.0,2023,56
+3,3:55,2.0,7.0,LAR 31,23.0,8.0,Anthony Richardson pass incomplete deep right intended for Michael Pittman,3.18,2.48,4.0,2023,56
+3,3:45,3.0,7.0,LAR 31,23.0,8.0,Anthony Richardson pass incomplete short left,2.48,1.32,4.0,2023,56
+3,3:39,4.0,7.0,LAR 31,23.0,8.0,Anthony Richardson pass incomplete short left intended for Kylen Granson,1.32,-1.0,4.0,2023,56
+3,3:36,1.0,10.0,LAR 31,23.0,8.0,Kyren Williams left end for 9 yards (tackle by Rodney Thomas),1.0,1.68,4.0,2023,56
+3,3:01,2.0,1.0,LAR 40,23.0,8.0,Kyren Williams right tackle for 6 yards (tackle by Julius Brents),1.68,1.99,4.0,2023,56
+3,2:39,1.0,10.0,LAR 46,23.0,8.0,Kyren Williams up the middle for 4 yards (tackle by Taven Bryan),1.99,1.99,4.0,2023,56
+3,1:59,2.0,6.0,IND 50,23.0,8.0,Matthew Stafford pass incomplete deep right intended for Tyler Higbee,1.99,1.29,4.0,2023,56
+3,1:50,3.0,6.0,IND 50,23.0,8.0,"Matthew Stafford pass incomplete deep left intended for Tutu Atwell. Penalty on Kenny Moore: Defensive Pass Interference, 15 yards (accepted) (no play)",1.29,3.25,4.0,2023,56
+3,1:44,1.0,10.0,IND 35,23.0,8.0,Kyren Williams up the middle for -1 yards (tackle by Tyquan Lewis and Segun Olubi),3.25,2.57,4.0,2023,56
+3,1:19,2.0,11.0,IND 36,23.0,8.0,"Matthew Stafford pass complete short middle to Puka Nacua for no gain (tackle by Julian Blackmon). Penalty on Puka Nacua: Offensive Pass Interference, 10 yards (accepted) (no play)",2.57,1.22,4.0,2023,56
+3,0:49,2.0,21.0,IND 46,23.0,8.0,Matthew Stafford pass complete short right to Kyren Williams for 6 yards (tackle by Kenny Moore and Segun Olubi),1.22,1.35,4.0,2023,56
+3,0:05,3.0,15.0,IND 40,23.0,8.0,"Penalty on DeForest Buckner: Neutral Zone Infraction, 5 yards (accepted) (no play)",1.35,2.01,4.0,2023,56
+4,15:00,3.0,10.0,IND 35,23.0,8.0,Matthew Stafford pass complete short left to Tutu Atwell for 6 yards (tackle by Segun Olubi),2.01,1.56,4.0,2023,56
+4,14:20,4.0,4.0,IND 29,23.0,8.0,Brett Maher 48 yard field goal no good,1.56,-1.47,4.0,2023,56
+4,14:16,1.0,10.0,IND 38,23.0,8.0,"Zack Moss up the middle for no gain (tackle by Ernest Jones and Russ Yeast). Penalty on Will Fries: Offensive Holding, 10 yards (accepted) (no play)",1.47,0.81,4.0,2023,56
+4,13:53,1.0,20.0,IND 28,23.0,8.0,Anthony Richardson pass incomplete short right intended for Zack Moss,0.81,-0.43,4.0,2023,56
+4,13:49,2.0,20.0,IND 28,23.0,8.0,"Anthony Richardson pass complete deep right to Alec Pierce for 38 yards (tackle by Ahkello Witherspoon). Penalty on Russ Yeast: Unnecessary Roughness / Defense, 15 yards (accepted) . Penalty on Ahkello Witherspoon: Defensive Pass Interference, 15 yards (declined)",-0.43,4.31,4.0,2023,56
+4,13:21,1.0,10.0,LAR 19,23.0,8.0,Anthony Richardson pass complete short right to Michael Pittman for 15 yards (tackle by Jordan Fuller),4.31,6.28,4.0,2023,56
+4,12:49,1.0,4.0,LAR 4,23.0,8.0,Zack Moss up the middle for 2 yards (tackle by Christian Rozeboom),6.28,5.72,4.0,2023,56
+4,12:32,2.0,2.0,LAR 2,23.0,8.0,Zack Moss up the middle for 1 yard (tackle by Michael Hoecht and Bobby Brown),5.72,5.17,4.0,2023,56
+4,11:49,3.0,1.0,LAR 1,23.0,14.0,"Anthony Richardson right guard for 1 yard, touchdown",5.17,7.0,4.0,2023,56
+4,11:45,,,LAR 15,23.0,15.0,Matt Gay kicks extra point good,0.0,0.0,4.0,2023,56
+4,11:45,,,IND 35,23.0,15.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,56
+4,11:45,1.0,10.0,LAR 25,23.0,15.0,Matthew Stafford sacked by Dayo Odeyingbo for -9 yards,0.61,-1.29,4.0,2023,56
+4,11:11,2.0,19.0,LAR 16,23.0,15.0,Matthew Stafford pass complete short right to Ronnie Rivers for 10 yards (tackle by Zaire Franklin and Julius Brents),-1.29,-0.49,4.0,2023,56
+4,10:37,3.0,9.0,LAR 26,23.0,15.0,Matthew Stafford pass complete short right to Tyler Higbee for 10 yards (tackle by Julius Brents),-0.49,1.33,4.0,2023,56
+4,10:04,1.0,10.0,LAR 36,23.0,15.0,Kyren Williams left end for 6 yards (tackle by Zaire Franklin),1.33,1.6,4.0,2023,56
+4,9:20,2.0,4.0,LAR 42,23.0,15.0,Kyren Williams up the middle for 1 yard (tackle by Kenny Moore),1.6,1.03,4.0,2023,56
+4,8:33,3.0,3.0,LAR 43,23.0,15.0,Kyren Williams right guard for no gain (tackle by DeForest Buckner and Samson Ebukam),1.03,-0.52,4.0,2023,56
+4,7:39,4.0,3.0,LAR 43,23.0,15.0,"Ethan Evans punts 40 yards, fair catch by Isaiah McKenzie at IND-17",-0.52,0.06,4.0,2023,56
+4,7:29,1.0,10.0,IND 17,23.0,15.0,Zack Moss right tackle for 7 yards (tackle by Jonah Williams and Larrell Murchison),-0.06,0.48,4.0,2023,56
+4,6:52,2.0,3.0,IND 24,23.0,15.0,Zack Moss up the middle for 4 yards (tackle by Ernest Jones and Michael Hoecht),0.48,0.81,4.0,2023,56
+4,6:13,1.0,10.0,IND 28,23.0,15.0,Zack Moss left tackle for 1 yard (tackle by Jonah Williams and Bobby Brown),0.81,0.4,4.0,2023,56
+4,5:33,2.0,9.0,IND 29,23.0,15.0,Anthony Richardson pass complete short left to Andrew Ogletree for 21 yards (tackle by Christian Rozeboom),0.4,2.26,4.0,2023,56
+4,5:02,1.0,10.0,IND 50,23.0,15.0,Trey Sermon up the middle for 1 yard (tackle by Jonah Williams and Bobby Brown),2.26,1.85,4.0,2023,56
+4,4:34,2.0,9.0,LAR 49,23.0,15.0,Anthony Richardson pass complete short middle to Andrew Ogletree for 22 yards (tackle by Russ Yeast and Jordan Fuller),1.85,3.78,4.0,2023,56
+4,3:57,1.0,10.0,LAR 27,23.0,15.0,Trey Sermon up the middle for 4 yards (tackle by Christian Rozeboom),3.78,3.77,4.0,2023,56
+4,3:44,2.0,6.0,LAR 23,23.0,15.0,Trey Sermon up the middle for 2 yards (tackle by Aaron Donald and Bobby Brown),3.77,3.34,4.0,2023,56
+4,3:13,3.0,4.0,LAR 21,23.0,15.0,Anthony Richardson pass incomplete short right intended for Alec Pierce (defended by Ahkello Witherspoon),3.34,2.13,4.0,2023,56
+4,3:08,4.0,4.0,LAR 21,23.0,15.0,Anthony Richardson pass complete short left to Kylen Granson for 17 yards (tackle by Derion Kendrick),2.13,6.28,4.0,2023,56
+4,3:02,1.0,4.0,LAR 4,23.0,15.0,Zack Moss up the middle for -1 yards (tackle by Aaron Donald and Ernest Jones),6.28,5.15,4.0,2023,56
+4,2:25,2.0,5.0,LAR 5,23.0,15.0,Zack Moss up the middle for no gain (tackle by Michael Hoecht and Kobie Turner),5.15,4.26,4.0,2023,56
+4,2:00,3.0,5.0,LAR 5,23.0,21.0,"Anthony Richardson pass complete short right to Andrew Ogletree for 5 yards, touchdown",4.26,7.0,4.0,2023,56
+4,1:56,,,,,,Timeout #2 by Los Angeles Rams,,,4.0,2023,56
+4,1:56,,,LAR 2,23.0,23.0,Two Point Attempt: Anthony Richardson pass complete to to Michael Pittman for no gain,1.0,1.0,4.0,2023,56
+4,1:56,,,IND 35,23.0,23.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,56
+4,1:56,1.0,10.0,LAR 25,23.0,23.0,Matthew Stafford pass complete short right to Tyler Higbee for 5 yards (tackle by Julian Blackmon),0.61,0.74,4.0,2023,56
+4,1:52,2.0,5.0,LAR 30,23.0,23.0,"Matthew Stafford pass complete short left to Tutu Atwell for 5 yards (tackle by Kenny Moore) Replay Assistant challenged the pass completion ruling, and the original play was overturned. Matthew Stafford pass incomplete short left intended for Tutu Atwell (defended by Kenny Moore)",0.74,0.04,4.0,2023,56
+4,1:48,3.0,5.0,LAR 30,23.0,23.0,"Matthew Stafford pass complete short left to Tyler Higbee for 8 yards Replay Assistant challenged the pass completion ruling, and the original play was overturned. Matthew Stafford pass incomplete short left intended for Tyler Higbee (defended by E.J. Speed)",0.04,-1.37,4.0,2023,56
+4,1:44,4.0,5.0,LAR 30,23.0,23.0,"Ethan Evans punts 48 yards, returned by Isaiah McKenzie for 13 yards (tackle by Royce Freeman and Christian Rozeboom)",-1.37,-1.27,4.0,2023,56
+4,1:32,1.0,10.0,IND 35,23.0,23.0,Anthony Richardson pass incomplete short left intended for Michael Pittman,1.27,0.72,4.0,2023,56
+4,1:28,2.0,10.0,IND 35,23.0,23.0,Anthony Richardson pass incomplete short right intended for Michael Pittman (defended by Michael Hoecht),0.72,0.04,4.0,2023,56
+4,1:24,3.0,10.0,IND 35,23.0,23.0,Anthony Richardson pass incomplete deep left intended for Kylen Granson (defended by Quentin Lake),0.04,-1.04,4.0,2023,56
+4,1:19,4.0,10.0,IND 35,23.0,23.0,"Rigoberto Sanchez punts 45 yards, returned by Austin Trammell for 8 yards (tackle by Trevor Denbow)",-1.04,-0.81,4.0,2023,56
+4,1:09,1.0,10.0,LAR 28,23.0,23.0,Matthew Stafford pass complete short left to Tutu Atwell for 5 yards (tackle by Zaire Franklin),0.81,0.94,4.0,2023,56
+4,0:54,2.0,5.0,LAR 33,23.0,23.0,Matthew Stafford pass complete short right to Puka Nacua for 6 yards (tackle by Julius Brents),0.94,1.53,4.0,2023,56
+4,0:41,1.0,10.0,LAR 39,23.0,23.0,Matthew Stafford pass incomplete deep left intended for Van Jefferson (defended by Dallis Flowers),1.53,0.99,4.0,2023,56
+4,0:30,2.0,10.0,LAR 39,23.0,23.0,Matthew Stafford scrambles up the middle for 8 yards (tackle by Kenny Moore and Zaire Franklin),0.99,1.42,4.0,2023,56
+4,0:15,,,,,,Timeout #3 by Los Angeles Rams,,,4.0,2023,56
+4,0:15,3.0,1.0,LAR 47,23.0,23.0,Matthew Stafford pass incomplete short left intended for Tutu Atwell,1.42,-0.26,4.0,2023,56
+4,0:11,4.0,2.0,LAR 47,23.0,23.0,"Ethan Evans punts 35 yards, fair catch by Isaiah McKenzie at IND-18",-0.26,-0.04,4.0,2023,56
+4,0:05,1.0,10.0,IND 18,23.0,23.0,Anthony Richardson kneels for -1 yards,0.04,0.0,4.0,2023,56
+,,,,,,,"Rams won the coin toss, Rams to receive the overtime kickoff.",,,4.0,2023,56
+OT,10:00,,,IND 35,23.0,23.0,"Matt Gay kicks off 64 yards,",0.0,0.61,4.0,2023,56
+OT,10:00,1.0,10.0,LAR 25,23.0,23.0,Matthew Stafford pass complete deep left to Puka Nacua for 20 yards (tackle by E.J. Speed),0.61,1.93,4.0,2023,56
+OT,9:19,1.0,10.0,LAR 45,23.0,23.0,Kyren Williams left guard for 2 yards (tackle by Samson Ebukam),1.93,1.65,4.0,2023,56
+OT,8:34,,,,,,Timeout #1 by Los Angeles Rams,,,4.0,2023,56
+OT,8:34,2.0,8.0,LAR 47,23.0,23.0,Matthew Stafford pass complete short middle to Kyren Williams for 13 yards (tackle by Julian Blackmon),1.65,2.92,4.0,2023,56
+OT,7:51,1.0,10.0,IND 40,23.0,23.0,Matthew Stafford pass complete short middle to Kyren Williams for 5 yards (tackle by Zaire Franklin),2.92,3.05,4.0,2023,56
+OT,7:09,2.0,5.0,IND 35,23.0,23.0,Ronnie Rivers up the middle for 7 yards (tackle by Eric Johnson),3.05,3.71,4.0,2023,56
+OT,6:39,1.0,10.0,IND 28,23.0,23.0,Ronnie Rivers up the middle for 6 yards (tackle by Julian Blackmon and Kenny Moore),3.71,3.98,4.0,2023,56
+OT,6:05,2.0,4.0,IND 22,23.0,23.0,Matthew Stafford pass incomplete short left intended for Tyler Higbee (defended by Rodney Thomas),3.98,3.27,4.0,2023,56
+OT,5:55,3.0,4.0,IND 22,29.0,23.0,"Matthew Stafford pass complete short middle to Puka Nacua for 22 yards, touchdown",3.27,6.0,4.0,2023,56

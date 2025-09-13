@@ -1,0 +1,152 @@
+Quarter,Time,Down,ToGo,Location,LAC,CAR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Panthers won the coin toss and deferred, Chargers to receive the opening kickoff.",,,2.0,2024,18
+1.0,15:00,,,CAR 35,0.0,0.0,"Eddy Pineiro kicks off 60 yards, returned by Derius Davis for 13 yards (tackle by Feleipe Franks). Penalty on Feleipe Franks: Offensive Facemask, 15 yards (accepted)",0.0,1.14,2.0,2024,18
+1.0,14:54,1.0,10.0,LAC 33,0.0,0.0,Justin Herbert pass complete short left to Quentin Johnston for 3 yards (tackle by A'Shawn Robinson and Shy Tuttle),1.14,1.0,2.0,2024,18
+1.0,14:15,2.0,7.0,LAC 36,0.0,0.0,J.K. Dobbins up the middle for 5 yards (tackle by Shaq Thompson and Nick Thurman),1.0,0.96,2.0,2024,18
+1.0,13:36,3.0,2.0,LAC 41,0.0,0.0,J.K. Dobbins right tackle for 11 yards (tackle by Jordan Fuller and Xavier Woods),0.96,2.39,2.0,2024,18
+1.0,12:57,1.0,10.0,CAR 48,0.0,0.0,J.K. Dobbins left end for 3 yards (tackle by A'Shawn Robinson),2.39,2.25,2.0,2024,18
+1.0,12:12,2.0,7.0,CAR 45,0.0,0.0,"Justin Herbert pass incomplete short right intended for Hayden Hurst (defended by Shaq Thompson). Penalty on Jadeveon Clowney: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",2.25,2.92,2.0,2024,18
+1.0,12:06,1.0,10.0,CAR 40,0.0,0.0,J.K. Dobbins left end for no gain (tackle by Josey Jewell and Xavier Woods),2.92,2.37,2.0,2024,18
+1.0,11:24,2.0,10.0,CAR 40,0.0,0.0,Justin Herbert pass complete short middle to Ladd McConkey for 11 yards (tackle by Troy Hill),2.37,3.64,2.0,2024,18
+1.0,10:44,1.0,10.0,CAR 29,0.0,0.0,Gus Edwards left end for 5 yards (tackle by Shaq Thompson),3.64,3.78,2.0,2024,18
+1.0,10:00,2.0,5.0,CAR 24,0.0,0.0,"Gus Edwards left guard for 7 yards. Penalty on Quentin Johnston: Illegal Formation, 5 yards (accepted) (no play)",3.78,3.1,2.0,2024,18
+1.0,9:32,2.0,10.0,CAR 29,0.0,0.0,"Justin Herbert pass complete short middle to Eric Tomlinson for no gain. Eric Tomlinson fumbles (forced by Jaycee Horn), recovered by Troy Hill at CAR-24 (tackle by Derius Davis) Replay Assistant challenged the fumble ruling, and the original play was overturned. Justin Herbert pass incomplete short right intended for Eric Tomlinson (defended by Jaycee Horn)",3.1,2.41,2.0,2024,18
+1.0,9:26,3.0,10.0,CAR 29,6.0,0.0,"Justin Herbert pass complete deep left to Quentin Johnston for 29 yards, touchdown",2.41,7.0,2.0,2024,18
+1.0,9:20,,,CAR 15,6.0,0.0,Cameron Dicker kicks extra point no good,0.0,-1.0,2.0,2024,18
+1.0,9:20,,,LAC 35,6.0,0.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.94,2.0,2024,18
+1.0,9:20,1.0,10.0,CAR 30,6.0,0.0,Chuba Hubbard up the middle for 5 yards (tackle by Elijah Molden and Ja'Sir Taylor),0.94,1.07,2.0,2024,18
+1.0,8:43,2.0,5.0,CAR 35,6.0,0.0,Chuba Hubbard left tackle for 3 yards (tackle by Poona Ford and Joey Bosa),1.07,0.76,2.0,2024,18
+1.0,8:03,3.0,2.0,CAR 38,6.0,0.0,Bryce Young pass incomplete short middle intended for Tommy Tremble (defended by Kristian Fulton),0.76,-0.85,2.0,2024,18
+1.0,7:56,4.0,2.0,CAR 38,6.0,0.0,Johnny Hekker punts 37 yards out of bounds,-0.85,-0.61,2.0,2024,18
+1.0,7:49,1.0,10.0,LAC 25,6.0,0.0,"Justin Herbert pass deep right intended for Ladd McConkey is intercepted by Jaycee Horn at LAC-41 and returned for no gain (tackle by Scott Matlock). Penalty on Bradley Bozeman: Ineligible Downfield Pass, 5 yards (declined)",0.61,-2.85,2.0,2024,18
+1.0,7:38,1.0,10.0,LAC 41,6.0,0.0,Bryce Young pass complete short right to Chuba Hubbard for 4 yards (tackle by Denzel Perryman),2.85,2.85,2.0,2024,18
+1.0,7:04,2.0,6.0,LAC 37,6.0,0.0,Chuba Hubbard right guard for 1 yard (tackle by Derwin James),2.85,2.28,2.0,2024,18
+1.0,6:23,3.0,5.0,LAC 36,6.0,0.0,Bryce Young sacked by Denzel Perryman for -7 yards,2.28,0.4,2.0,2024,18
+1.0,5:38,4.0,12.0,LAC 43,6.0,0.0,"Penalty on CAR: Delay of Game, 5 yards (declined) (no play)",0.4,0.4,2.0,2024,18
+1.0,5:05,4.0,12.0,LAC 43,6.0,0.0,"Johnny Hekker punts 28 yards, fair catch by Derius Davis at LAC-15. Penalty on Lonnie Johnson: Kick Catch Interference, 15 yards (accepted)",0.4,-0.94,2.0,2024,18
+1.0,4:55,1.0,10.0,LAC 30,6.0,0.0,Gus Edwards left guard for 3 yards (tackle by Josey Jewell),0.94,0.8,2.0,2024,18
+1.0,4:12,2.0,7.0,LAC 33,6.0,0.0,Justin Herbert pass complete short middle to Will Dissly for 7 yards (tackle by Josey Jewell),0.8,1.6,2.0,2024,18
+1.0,3:34,1.0,10.0,LAC 40,6.0,0.0,Gus Edwards right guard for 6 yards (tackle by Jadeveon Clowney and LaBryan Ray),1.6,1.86,2.0,2024,18
+1.0,2:40,2.0,4.0,LAC 46,6.0,0.0,J.K. Dobbins right guard for 3 yards (tackle by Jordan Fuller),1.86,1.55,2.0,2024,18
+1.0,2:13,3.0,1.0,LAC 49,6.0,0.0,Gus Edwards right guard for no gain (tackle by Jaycee Horn and Josey Jewell),1.55,-0.13,2.0,2024,18
+1.0,1:24,4.0,1.0,LAC 49,6.0,0.0,JK Scott punts 38 yards,-0.13,0.32,2.0,2024,18
+1.0,1:16,1.0,10.0,CAR 13,6.0,0.0,Miles Sanders up the middle for 2 yards (tackle by Otito Ogbonnia and Daiyan Henley),-0.32,-0.57,2.0,2024,18
+1.0,0:39,2.0,8.0,CAR 15,6.0,0.0,Miles Sanders right tackle for 4 yards (tackle by Junior Colson and Daiyan Henley),-0.57,-0.71,2.0,2024,18
+2.0,15:00,3.0,4.0,CAR 19,6.0,0.0,Bryce Young pass complete short left to Miles Sanders for -2 yards (tackle by Kristian Fulton),-0.71,-2.32,2.0,2024,18
+2.0,14:31,4.0,6.0,CAR 17,6.0,0.0,"Johnny Hekker punts 47 yards, returned by Derius Davis for 15 yards (tackle by David Moore)",-2.32,-2.32,2.0,2024,18
+2.0,14:20,1.0,10.0,CAR 49,6.0,0.0,Justin Herbert pass complete short middle to Will Dissly for 7 yards (tackle by Shaq Thompson),2.32,2.73,2.0,2024,18
+2.0,13:45,2.0,3.0,CAR 42,6.0,0.0,J.K. Dobbins left end for -2 yards (tackle by Troy Hill),2.73,1.75,2.0,2024,18
+2.0,12:57,3.0,5.0,CAR 44,6.0,0.0,Justin Herbert pass incomplete deep right intended for Ladd McConkey,1.75,0.33,2.0,2024,18
+2.0,12:54,4.0,5.0,CAR 44,6.0,0.0,"JK Scott punts 44 yards, touchback.",0.33,-0.28,2.0,2024,18
+2.0,12:45,1.0,10.0,CAR 20,6.0,0.0,Bryce Young pass complete short right to Tommy Tremble for 4 yards (tackle by Daiyan Henley and Denzel Perryman),0.28,0.27,2.0,2024,18
+2.0,12:10,2.0,6.0,CAR 24,6.0,0.0,Bryce Young pass complete short right to Diontae Johnson for 4 yards (tackle by Daiyan Henley),0.27,0.1,2.0,2024,18
+2.0,11:25,3.0,2.0,CAR 28,6.0,0.0,"Penalty on Ja'Tavion Sanders: False Start, 5 yards (accepted) (no play)",0.1,-0.56,2.0,2024,18
+2.0,11:02,3.0,7.0,CAR 23,6.0,0.0,Bryce Young pass complete short left to Ja'Tavion Sanders for 2 yards (tackle by Ja'Sir Taylor and Elijah Molden),-0.56,-1.7,2.0,2024,18
+2.0,10:26,4.0,5.0,CAR 25,6.0,0.0,Johnny Hekker punts 40 yards out of bounds,-1.7,-1.27,2.0,2024,18
+2.0,10:17,1.0,10.0,LAC 35,6.0,0.0,J.K. Dobbins left end for 9 yards (tackle by Troy Hill and Shaq Thompson),1.27,1.94,2.0,2024,18
+2.0,9:40,2.0,1.0,LAC 44,6.0,0.0,J.K. Dobbins left end for no gain (tackle by Josey Jewell and Shaq Thompson),1.94,1.22,2.0,2024,18
+2.0,9:08,3.0,1.0,LAC 44,6.0,0.0,J.K. Dobbins left guard for 7 yards (tackle by Nick Thurman and Shy Tuttle),1.22,2.32,2.0,2024,18
+2.0,8:26,1.0,10.0,CAR 49,6.0,0.0,Justin Herbert scrambles up the middle for 8 yards (tackle by Josey Jewell),2.32,2.86,2.0,2024,18
+2.0,7:44,2.0,2.0,CAR 41,6.0,0.0,Gus Edwards up the middle for 4 yards (tackle by Jordan Fuller),2.86,3.12,2.0,2024,18
+2.0,7:15,1.0,10.0,CAR 37,6.0,0.0,Gus Edwards left end for 6 yards (tackle by Josey Jewell),3.12,3.38,2.0,2024,18
+2.0,6:40,2.0,4.0,CAR 31,6.0,0.0,J.K. Dobbins left guard for 6 yards (tackle by Shaq Thompson and Michael Jackson),3.38,3.91,2.0,2024,18
+2.0,5:58,1.0,10.0,CAR 25,6.0,0.0,"Justin Herbert pass incomplete deep right intended for Hayden Hurst. Penalty on DJ Johnson: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",3.91,4.24,2.0,2024,18
+2.0,5:48,1.0,10.0,CAR 20,6.0,0.0,Justin Herbert right end for 13 yards (tackle by Jordan Fuller and Xavier Woods),4.24,5.6,2.0,2024,18
+2.0,5:11,1.0,7.0,CAR 7,6.0,0.0,Gus Edwards right guard for 2 yards (tackle by Jaycee Horn and Josey Jewell),5.6,5.15,2.0,2024,18
+2.0,4:29,2.0,5.0,CAR 5,6.0,0.0,Justin Herbert pass incomplete short middle,5.15,4.26,2.0,2024,18
+2.0,4:21,3.0,5.0,CAR 5,12.0,0.0,"Justin Herbert pass complete short right to Quentin Johnston for 5 yards, touchdown",4.26,7.0,2.0,2024,18
+2.0,4:16,,,CAR 15,13.0,0.0,Cameron Dicker kicks extra point good,0.0,0.0,2.0,2024,18
+2.0,4:16,,,LAC 35,13.0,0.0,"Cameron Dicker kicks off 64 yards, returned by Raheem Blackshear for 31 yards (tackle by Shaquille Quarterman)",0.0,1.07,2.0,2024,18
+2.0,4:08,1.0,10.0,CAR 32,13.0,0.0,Chuba Hubbard left guard for 11 yards (tackle by Derwin James),1.07,1.8,2.0,2024,18
+2.0,3:31,1.0,10.0,CAR 43,13.0,0.0,Bryce Young pass short middle intended for Diontae Johnson is intercepted by Elijah Molden at LAC-45 and returned for 3 yards (tackle by Diontae Johnson),1.8,-2.13,2.0,2024,18
+2.0,3:27,1.0,10.0,LAC 48,13.0,0.0,Justin Herbert pass complete short right to Josh Palmer for 8 yards (tackle by Jaycee Horn),2.13,2.73,2.0,2024,18
+2.0,2:46,2.0,1.0,CAR 44,13.0,0.0,Gus Edwards left end for 1 yard (tackle by Shaq Thompson and Troy Hill),2.73,2.08,2.0,2024,18
+2.0,2:11,3.0,1.0,CAR 43,19.0,0.0,"J.K. Dobbins left end for 43 yards, touchdown",2.08,7.0,2.0,2024,18
+2.0,2:01,,,CAR 15,20.0,0.0,Cameron Dicker kicks extra point good,0.0,0.0,2.0,2024,18
+2.0,2:01,,,LAC 35,20.0,0.0,"Cameron Dicker kicks off 64 yards, returned by Raheem Blackshear for 21 yards (tackle by Elijah Molden)",0.0,0.41,2.0,2024,18
+2.0,1:58,1.0,10.0,CAR 22,20.0,0.0,Chuba Hubbard left tackle for 8 yards (tackle by Elijah Molden and Denzel Perryman),0.41,0.95,2.0,2024,18
+2.0,1:38,2.0,2.0,CAR 30,20.0,0.0,Chuba Hubbard up the middle for 5 yards (tackle by Denzel Perryman and Poona Ford),0.95,1.27,2.0,2024,18
+2.0,1:15,1.0,10.0,CAR 35,20.0,0.0,Bryce Young pass complete short right to Chuba Hubbard for 1 yard (tackle by Denzel Perryman),1.27,0.86,2.0,2024,18
+2.0,0:46,2.0,9.0,CAR 36,20.0,0.0,"Bryce Young pass complete short middle to Chuba Hubbard for no gain (tackle by Denzel Perryman). Penalty on Ikem Ekwonu: Offensive Holding, 10 yards (accepted) (no play)",0.86,-0.49,2.0,2024,18
+2.0,0:39,2.0,19.0,CAR 26,20.0,0.0,Bryce Young pass complete short left to Diontae Johnson for 4 yards (tackle by Elijah Molden),-0.49,-0.63,2.0,2024,18
+2.0,0:33,,,,,,Timeout #1 by Carolina Panthers,,,2.0,2024,18
+2.0,0:33,3.0,15.0,CAR 30,20.0,0.0,Bryce Young pass complete short left to Miles Sanders for 5 yards (tackle by Daiyan Henley and Khalil Mack),-0.63,-1.04,2.0,2024,18
+2.0,0:25,,,,,,Timeout #1 by Los Angeles Chargers,,,2.0,2024,18
+2.0,0:25,4.0,10.0,CAR 35,20.0,0.0,Johnny Hekker punts 64 yards downed by David Moore,-1.04,0.38,2.0,2024,18
+2.0,0:15,1.0,10.0,LAC 1,20.0,0.0,Justin Herbert up the middle for 1 yard (tackle by A'Shawn Robinson),-0.38,-0.71,2.0,2024,18
+3.0,15:00,,,LAC 35,20.0,0.0,"Cameron Dicker kicks off 25 yards,. Penalty on Cameron Dicker: Kickoff Short of Landing Zone (accepted)",0.0,1.6,2.0,2024,18
+3.0,15:00,1.0,10.0,CAR 40,20.0,0.0,Bryce Young pass complete short right to Tommy Tremble for 12 yards (tackle by Derwin James),1.6,2.39,2.0,2024,18
+3.0,14:29,1.0,10.0,LAC 48,20.0,0.0,Chuba Hubbard left end for 23 yards (tackle by Derwin James),2.39,3.91,2.0,2024,18
+3.0,13:46,1.0,10.0,LAC 25,20.0,0.0,Chuba Hubbard up the middle for 4 yards (tackle by Denzel Perryman and Otito Ogbonnia),3.91,3.9,2.0,2024,18
+3.0,13:09,2.0,6.0,LAC 21,20.0,0.0,Chuba Hubbard left end for 1 yard (tackle by Bud Dupree and Teair Tart),3.9,3.34,2.0,2024,18
+3.0,12:27,3.0,5.0,LAC 20,20.0,0.0,Bryce Young pass incomplete short left intended for Diontae Johnson,3.34,2.17,2.0,2024,18
+3.0,12:22,4.0,5.0,LAC 20,20.0,3.0,Eddy Pineiro 38 yard field goal good,2.17,3.0,2.0,2024,18
+3.0,12:18,,,CAR 35,20.0,3.0,"Eddy Pineiro kicks off 65 yards, touchback.. Penalty on Nick Scott: Illegal Formation, 5 yards (accepted)",0.0,1.27,2.0,2024,18
+3.0,12:18,1.0,10.0,LAC 35,20.0,3.0,J.K. Dobbins left guard for 15 yards (tackle by A'Shawn Robinson),1.27,2.26,2.0,2024,18
+3.0,11:38,1.0,10.0,LAC 50,20.0,3.0,J.K. Dobbins left end for 14 yards (tackle by Jaycee Horn and Xavier Woods),2.26,3.18,2.0,2024,18
+3.0,10:59,1.0,10.0,CAR 36,20.0,3.0,Gus Edwards right tackle for 3 yards (tackle by Josey Jewell and Jordan Fuller),3.18,3.04,2.0,2024,18
+3.0,10:22,2.0,7.0,CAR 33,20.0,3.0,Justin Herbert pass complete short left to Hayden Hurst for 5 yards (tackle by Jaycee Horn),3.04,3.01,2.0,2024,18
+3.0,9:51,3.0,2.0,CAR 28,20.0,3.0,Gus Edwards left end for no gain (tackle by Josey Jewell),3.01,1.7,2.0,2024,18
+3.0,9:07,4.0,2.0,CAR 28,23.0,3.0,Cameron Dicker 46 yard field goal good,1.7,3.0,2.0,2024,18
+3.0,9:03,,,LAC 35,23.0,3.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.94,2.0,2024,18
+3.0,9:03,1.0,10.0,CAR 30,23.0,3.0,Chuba Hubbard left guard for 3 yards (tackle by Denzel Perryman),0.94,0.8,2.0,2024,18
+3.0,8:28,2.0,7.0,CAR 33,23.0,3.0,Bryce Young pass incomplete short left intended for Diontae Johnson,0.8,0.1,2.0,2024,18
+3.0,8:22,3.0,7.0,CAR 33,23.0,3.0,Bryce Young sacked by Joey Bosa for -8 yards,0.1,-1.7,2.0,2024,18
+3.0,7:39,4.0,15.0,CAR 25,23.0,3.0,"Johnny Hekker punts 45 yards, fair catch by Derius Davis at LAC-30",-1.7,-0.94,2.0,2024,18
+3.0,7:31,1.0,10.0,LAC 30,23.0,3.0,J.K. Dobbins left tackle for 4 yards (tackle by Shaq Thompson),0.94,0.93,2.0,2024,18
+3.0,6:54,2.0,6.0,LAC 34,23.0,3.0,Justin Herbert pass complete short middle to Will Dissly for 15 yards (tackle by Xavier Woods and Jadeveon Clowney),0.93,2.19,2.0,2024,18
+3.0,6:07,1.0,10.0,LAC 49,23.0,3.0,Justin Herbert pass complete short right to Josh Palmer for 11 yards (tackle by Michael Jackson),2.19,2.92,2.0,2024,18
+3.0,5:32,1.0,10.0,CAR 40,23.0,3.0,Gus Edwards up the middle for 4 yards (tackle by Jadeveon Clowney),2.92,2.91,2.0,2024,18
+3.0,4:55,2.0,6.0,CAR 36,23.0,3.0,Gus Edwards left tackle for 2 yards (tackle by DJ Johnson and Shaq Thompson),2.91,2.48,2.0,2024,18
+3.0,4:15,3.0,4.0,CAR 34,23.0,3.0,Justin Herbert pass complete short middle to Quentin Johnston for 9 yards (tackle by Shaq Thompson),2.48,3.91,2.0,2024,18
+3.0,3:27,1.0,10.0,CAR 25,23.0,3.0,Justin Herbert pass complete short right to J.K. Dobbins for no gain (tackle by Shaq Thompson),3.91,3.36,2.0,2024,18
+3.0,2:47,2.0,10.0,CAR 25,23.0,3.0,Gus Edwards right tackle for 6 yards (tackle by Jordan Fuller),3.36,3.49,2.0,2024,18
+3.0,2:07,3.0,4.0,CAR 19,23.0,3.0,"Justin Herbert sacked by and Jayden Peevy for no gain and DJ Johnson for no gain. Justin Herbert fumbles (forced by Jayden Peevy), recovered by Josey Jewell at CAR-17",3.49,0.06,2.0,2024,18
+3.0,1:57,1.0,10.0,CAR 17,23.0,3.0,Miles Sanders left end for -2 yards (tackle by Daiyan Henley),-0.06,-0.85,2.0,2024,18
+3.0,1:21,2.0,12.0,CAR 15,23.0,3.0,Miles Sanders left guard for 3 yards (tackle by Daiyan Henley),-0.85,-1.13,2.0,2024,18
+3.0,0:41,3.0,9.0,CAR 18,23.0,3.0,Bryce Young pass complete short middle to Tommy Tremble for 7 yards (tackle by AJ Finley and Daiyan Henley),-1.13,-1.7,2.0,2024,18
+3.0,0:09,,,,,,Timeout #1 by Los Angeles Chargers,,,2.0,2024,18
+3.0,0:09,4.0,2.0,CAR 25,23.0,3.0,"Johnny Hekker punts 50 yards, fair catch by Derius Davis at LAC-25",-1.7,-0.61,2.0,2024,18
+3.0,0:02,1.0,10.0,LAC 25,23.0,3.0,Gus Edwards right tackle for 4 yards (tackle by Shaq Thompson and Jadeveon Clowney),0.61,0.67,2.0,2024,18
+4.0,15:00,2.0,5.0,LAC 29,23.0,3.0,Justin Herbert pass incomplete short right intended for Hayden Hurst,0.67,-0.03,2.0,2024,18
+4.0,14:57,3.0,5.0,LAC 29,23.0,3.0,"Justin Herbert pass complete short middle to Ladd McConkey for 15 yards (tackle by Xavier Woods). Penalty on Troy Hill: Face Mask (15 Yards), 15 yards (accepted)",-0.03,2.85,2.0,2024,18
+4.0,14:35,1.0,10.0,CAR 41,23.0,3.0,J.K. Dobbins left guard for 7 yards (tackle by Shaq Thompson),2.85,3.25,2.0,2024,18
+4.0,13:53,,,,,,Timeout #2 by Los Angeles Chargers,,,2.0,2024,18
+4.0,13:53,2.0,3.0,CAR 34,23.0,3.0,J.K. Dobbins right end for no gain (tackle by A'Shawn Robinson),3.25,2.54,2.0,2024,18
+4.0,13:16,3.0,3.0,CAR 34,23.0,3.0,J.K. Dobbins up the middle for 6 yards (tackle by A'Shawn Robinson),2.54,3.71,2.0,2024,18
+4.0,12:37,1.0,10.0,CAR 28,23.0,3.0,Gus Edwards left guard for 1 yard (tackle by Jadeveon Clowney),3.71,3.3,2.0,2024,18
+4.0,11:59,2.0,9.0,CAR 27,23.0,3.0,Gus Edwards right end for 4 yards (tackle by Jadeveon Clowney and Jaycee Horn),3.3,3.14,2.0,2024,18
+4.0,11:13,3.0,5.0,CAR 23,23.0,3.0,Justin Herbert pass incomplete deep left intended for Quentin Johnston,3.14,1.98,2.0,2024,18
+4.0,11:06,4.0,5.0,CAR 23,26.0,3.0,Cameron Dicker 42 yard field goal good,1.98,3.0,2.0,2024,18
+4.0,11:02,,,LAC 35,26.0,3.0,"Cameron Dicker kicks off 67 yards, returned by Raheem Blackshear for 29 yards (tackle by Daiyan Henley and Deane Leonard)",0.0,0.74,2.0,2024,18
+4.0,10:55,1.0,10.0,CAR 27,26.0,3.0,Bryce Young pass complete short middle to Adam Thielen for 10 yards (tackle by Ja'Sir Taylor),0.74,1.4,2.0,2024,18
+4.0,10:29,1.0,10.0,CAR 37,26.0,3.0,Bryce Young pass complete short right to Miles Sanders for 2 yards (tackle by Derwin James and Ja'Sir Taylor),1.4,1.13,2.0,2024,18
+4.0,10:02,2.0,8.0,CAR 39,26.0,3.0,Miles Sanders right end for 6 yards (tackle by Tuli Tuipulotu and Derwin James),1.13,1.22,2.0,2024,18
+4.0,9:33,3.0,2.0,CAR 45,26.0,3.0,Bryce Young pass incomplete short left intended for Adam Thielen,1.22,-0.39,2.0,2024,18
+4.0,9:29,4.0,2.0,CAR 45,26.0,3.0,Bryce Young pass complete short right to Diontae Johnson for 7 yards (tackle by Asante Samuel),-0.39,2.39,2.0,2024,18
+4.0,9:05,1.0,10.0,LAC 48,26.0,3.0,Bryce Young scrambles left end for 6 yards (tackle by Ja'Sir Taylor),2.39,2.66,2.0,2024,18
+4.0,8:23,2.0,4.0,LAC 42,26.0,3.0,Miles Sanders left guard for 2 yards (tackle by Bud Dupree),2.66,2.21,2.0,2024,18
+4.0,7:46,3.0,2.0,LAC 40,26.0,3.0,Miles Sanders right guard for 5 yards (tackle by Khalil Mack),2.21,3.25,2.0,2024,18
+4.0,7:19,1.0,10.0,LAC 35,26.0,3.0,"Bryce Young pass incomplete short right. Penalty on Ikem Ekwonu: Offensive Facemask, 15 yards (accepted) (no play)",3.25,2.26,2.0,2024,18
+4.0,7:11,1.0,25.0,LAC 50,26.0,3.0,Bryce Young pass complete short right to Chuba Hubbard for 2 yards (tackle by Teair Tart),2.26,0.95,2.0,2024,18
+4.0,6:41,2.0,23.0,LAC 48,26.0,3.0,Bryce Young pass complete short middle to Chuba Hubbard for 5 yards (tackle by Elijah Molden),0.95,0.96,2.0,2024,18
+4.0,6:03,3.0,18.0,LAC 43,26.0,3.0,Bryce Young pass incomplete short right intended for David Moore (defended by Asante Samuel),0.96,0.4,2.0,2024,18
+4.0,5:59,4.0,18.0,LAC 43,26.0,3.0,Bryce Young pass complete short middle to Adam Thielen for 10 yards (tackle by Elijah Molden),0.4,-1.14,2.0,2024,18
+4.0,5:52,1.0,10.0,LAC 33,26.0,3.0,Gus Edwards left tackle for 5 yards (tackle by LaBryan Ray),1.14,1.27,2.0,2024,18
+4.0,5:08,2.0,5.0,LAC 38,26.0,3.0,Gus Edwards up the middle for 3 yards (tackle by DJ Johnson),1.27,0.96,2.0,2024,18
+4.0,5:03,,,,,,Timeout #1 by Carolina Panthers,,,2.0,2024,18
+4.0,5:03,3.0,2.0,LAC 41,26.0,3.0,Hassan Haskins left guard for 5 yards (tackle by Nick Thurman and Josey Jewell),0.96,1.99,2.0,2024,18
+4.0,4:21,1.0,10.0,LAC 46,26.0,3.0,Hassan Haskins left tackle for 1 yard (tackle by Shaq Thompson),1.99,1.59,2.0,2024,18
+4.0,4:15,,,,,,Timeout #2 by Carolina Panthers,,,2.0,2024,18
+4.0,4:15,2.0,9.0,LAC 47,26.0,3.0,"Quentin Johnston left end for no gain (tackle by Xavier Woods and Jordan Fuller). Penalty on Hayden Hurst: Offensive Holding, 10 yards (accepted) (no play)",1.59,0.24,2.0,2024,18
+4.0,4:09,2.0,19.0,LAC 37,26.0,3.0,Hassan Haskins up the middle for 5 yards (tackle by Nick Thurman and Shy Tuttle),0.24,0.23,2.0,2024,18
+4.0,4:03,,,,,,Timeout #3 by Carolina Panthers,,,2.0,2024,18
+4.0,4:03,3.0,14.0,LAC 42,26.0,3.0,Justin Herbert pass complete short left to Quentin Johnston for 5 yards (tackle by Michael Jackson and DJ Johnson),0.23,-0.26,2.0,2024,18
+4.0,3:20,4.0,9.0,LAC 47,26.0,3.0,"JK Scott punts 47 yards, returned by Raheem Blackshear for 13 yards (tackle by Deane Leonard)",-0.26,-0.15,2.0,2024,18
+4.0,3:09,1.0,10.0,CAR 19,26.0,3.0,Bryce Young pass complete short right to Jonathan Mingo for 1 yard (tackle by Cam Hart),0.15,-0.2,2.0,2024,18
+4.0,2:42,2.0,9.0,CAR 20,26.0,3.0,Bryce Young pass complete short left to Ja'Tavion Sanders for 6 yards (tackle by Deane Leonard),-0.2,-0.16,2.0,2024,18
+4.0,2:09,3.0,3.0,CAR 26,26.0,3.0,Bryce Young pass incomplete short left intended for Jonathan Mingo (defended by Deane Leonard),-0.16,-1.63,2.0,2024,18
+4.0,2:04,4.0,3.0,CAR 26,26.0,3.0,Bryce Young pass incomplete short middle intended for Chuba Hubbard (defended by Scott Matlock),-1.63,-3.84,2.0,2024,18
+4.0,1:59,1.0,10.0,CAR 26,26.0,3.0,Justin Herbert kneels for -1 yards,3.84,3.16,2.0,2024,18
+4.0,1:18,2.0,11.0,CAR 27,26.0,3.0,Justin Herbert kneels for -2 yards,3.16,2.21,2.0,2024,18
+4.0,0:38,3.0,13.0,CAR 29,26.0,3.0,Justin Herbert kneels for -1 yards,2.21,1.41,2.0,2024,18

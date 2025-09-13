@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,8:58,MIN 26,7,3:57,22,Punt,1,Vikings,14.0,2024,197
+2,1,1:28,MIN 38,2,0:51,62,Touchdown,1,Vikings,14.0,2024,197
+3,2,13:29,MIN 35,3,1:44,8,Punt,1,Vikings,14.0,2024,197
+4,2,6:17,MIN 20,9,4:16,80,Touchdown,1,Vikings,14.0,2024,197
+5,2,0:10,MIN 30,1,0:10,-1,End of Half,1,Vikings,14.0,2024,197
+6,3,15:00,MIN 30,9,5:04,41,Missed FG,1,Vikings,14.0,2024,197
+7,3,5:06,MIN 25,4,1:41,75,Touchdown,1,Vikings,14.0,2024,197
+8,3,0:39,MIN 30,6,2:40,70,Touchdown,1,Vikings,14.0,2024,197
+9,4,12:53,ATL 32,7,4:30,32,Touchdown,1,Vikings,14.0,2024,197
+10,4,6:26,MIN 2,7,2:48,98,Touchdown,1,Vikings,14.0,2024,197
+11,4,0:44,MIN 14,2,0:44,-2,End of Game,1,Vikings,14.0,2024,197

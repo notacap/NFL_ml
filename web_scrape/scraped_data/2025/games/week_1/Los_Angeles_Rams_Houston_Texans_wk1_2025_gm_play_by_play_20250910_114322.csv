@@ -1,0 +1,157 @@
+Quarter,Time,Down,ToGo,Location,HOU,LAR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Rams won the coin toss and deferred, Texans to receive the opening kickoff.",,,1,2025,14
+1.0,15:00,,,LAR 35,0.0,0.0,"Joshua Karty kicks off 65 yards, touchback.",0.0,0.28,1,2025,14
+1.0,15:00,1.0,10.0,HOU 20,0.0,0.0,"C.J. Stroud pass complete short right to Dalton Schultz for no gain. Penalty on Cam Robinson: Offensive Holding, 10 yards (accepted) (tackle by Kamren Kinchens) (no play)",0.28,-0.76,1,2025,14
+1.0,14:36,1.0,20.0,HOU 10,0.0,0.0,Nick Chubb up the middle for 3 yards (tackle by Byron Young),-0.76,-1.28,1,2025,14
+1.0,13:57,2.0,17.0,HOU 13,0.0,0.0,C.J. Stroud pass incomplete deep right intended for Nico Collins (defended by Ahkello Witherspoon),-1.28,-2.19,1,2025,14
+1.0,13:53,3.0,17.0,HOU 13,0.0,0.0,"Penalty on C.J. Stroud: Delay of Game, 5 yards (accepted) (no play)",-2.19,-2.82,1,2025,14
+1.0,13:41,3.0,22.0,HOU 8,0.0,0.0,Dare Ogunbowale up the middle for 7 yards (tackle by Kamren Curl),-2.82,-2.44,1,2025,14
+1.0,12:59,4.0,15.0,HOU 15,0.0,0.0,"Tommy Townsend punts 61 yards, returned by Xavier Smith for 5 yards (tackle by Jaylin Smith)",-2.44,-0.87,1,2025,14
+1.0,12:49,1.0,10.0,LAR 29,0.0,0.0,Matthew Stafford pass complete short left to Puka Nacua for 4 yards (tackle by C.J. Gardner-Johnson),0.87,0.87,1,2025,14
+1.0,12:11,2.0,6.0,LAR 33,0.0,0.0,Kyren Williams up the middle for 4 yards (tackle by Christian Harris),0.87,0.7,1,2025,14
+1.0,11:26,3.0,2.0,LAR 37,0.0,0.0,Matthew Stafford pass complete short left to Davante Adams for 3 yards (tackle by Derek Stingley and Henry To'oTo'o),0.7,1.6,1,2025,14
+1.0,11:03,1.0,10.0,LAR 40,0.0,0.0,Matthew Stafford pass complete short left to Kyren Williams for 3 yards (tackle by Tim Settle and Kamari Lassiter),1.6,1.46,1,2025,14
+1.0,10:39,2.0,7.0,LAR 43,0.0,0.0,Matthew Stafford pass incomplete short right intended for Kyren Williams,1.46,0.76,1,2025,14
+1.0,10:33,3.0,7.0,LAR 43,0.0,0.0,Matthew Stafford pass complete short middle to Puka Nacua for 10 yards (tackle by Calen Bullock),0.76,2.46,1,2025,14
+1.0,9:56,1.0,10.0,HOU 47,0.0,0.0,Kyren Williams right end for no gain (tackle by Jaylin Smith and Folorunso Fatukasi),2.46,1.91,1,2025,14
+1.0,9:14,2.0,10.0,HOU 47,0.0,0.0,Puka Nacua left end for 1 yard (tackle by Calen Bullock and Derek Barnett),1.91,1.35,1,2025,14
+1.0,8:27,3.0,9.0,HOU 46,0.0,0.0,Matthew Stafford pass incomplete short right intended for Puka Nacua,1.35,0.2,1,2025,14
+1.0,8:23,4.0,9.0,HOU 46,0.0,0.0,"Ethan Evans punts 41 yards, fair catch by Jaylin Noel at HOU-5",0.2,0.38,1,2025,14
+1.0,8:16,1.0,10.0,HOU 5,0.0,0.0,Nick Chubb right guard for no gain (tackle by Quentin Lake and Tyler Davis),-0.38,-0.78,1,2025,14
+1.0,7:35,2.0,10.0,HOU 5,0.0,0.0,C.J. Stroud pass complete short right to Cade Stover for 5 yards (tackle by Kamren Kinchens),-0.78,-0.84,1,2025,14
+1.0,6:54,3.0,5.0,HOU 10,0.0,0.0,C.J. Stroud scrambles right end for 6 yards (tackle by Ahkello Witherspoon),-0.84,-0.14,1,2025,14
+1.0,6:10,1.0,10.0,HOU 16,0.0,0.0,Dameon Pierce left guard for 2 yards (tackle by Kamren Curl and Nathan Landman),-0.14,-0.35,1,2025,14
+1.0,5:30,2.0,8.0,HOU 18,0.0,0.0,C.J. Stroud pass complete short left to Dalton Schultz for 11 yards (tackle by Kamren Curl),-0.35,0.87,1,2025,14
+1.0,4:47,1.0,10.0,HOU 29,0.0,0.0,C.J. Stroud pass complete deep left to Jayden Higgins for 23 yards (tackle by Kamren Curl),0.87,2.39,1,2025,14
+1.0,4:08,1.0,10.0,LAR 48,0.0,0.0,Nick Chubb up the middle for 3 yards (tackle by Byron Young and Braden Fiske),2.39,2.25,1,2025,14
+1.0,3:33,2.0,7.0,LAR 45,0.0,0.0,C.J. Stroud pass incomplete short left intended for Nick Chubb,2.25,1.55,1,2025,14
+1.0,3:29,3.0,7.0,LAR 45,0.0,0.0,C.J. Stroud pass complete short left to Dalton Schultz for 9 yards (tackle by Jaylen McCollough and Nathan Landman),1.55,3.18,1,2025,14
+1.0,2:45,1.0,10.0,LAR 36,0.0,0.0,C.J. Stroud pass complete short right to Cade Stover for 1 yard (tackle by Emmanuel Forbes),3.18,2.77,1,2025,14
+1.0,2:07,2.0,9.0,LAR 35,0.0,0.0,Woody Marks right guard for 2 yards (tackle by Nathan Landman),2.77,2.35,1,2025,14
+1.0,1:27,3.0,7.0,LAR 33,0.0,0.0,C.J. Stroud pass incomplete short right intended for Dalton Schultz (defended by Kamren Kinchens),2.35,1.15,1,2025,14
+1.0,1:20,4.0,7.0,LAR 33,3.0,0.0,Ka'imi Fairbairn 51 yard field goal good,1.15,3.0,1,2025,14
+1.0,1:15,,,HOU 35,3.0,0.0,"Ka'imi Fairbairn kicks off 62 yards, returned by Jordan Whittington for 32 yards. Penalty on Troy Reeder: Offensive Holding, 10 yards (accepted) (tackle by Ka'imi Fairbairn)",0.0,0.61,1,2025,14
+1.0,1:03,1.0,10.0,LAR 25,3.0,0.0,Matthew Stafford pass incomplete short right intended for Davante Adams (defended by Henry To'oTo'o),0.61,0.06,1,2025,14
+1.0,0:59,2.0,10.0,LAR 25,3.0,0.0,Kyren Williams left guard for 3 yards (tackle by Kamari Lassiter),0.06,-0.23,1,2025,14
+1.0,0:18,3.0,7.0,LAR 28,3.0,0.0,"Matthew Stafford pass complete short middle to Puka Nacua for 9 yards. Penalty on Henry To'oTo'o: Unnecessary Roughness / Defense, 15 yards (accepted) (tackle by Azeez Al-Shaair and Henry To'oTo'o)",-0.23,2.39,1,2025,14
+2.0,15:00,1.0,10.0,HOU 48,3.0,0.0,Matthew Stafford pass complete short right to Colby Parkinson for 1 yard (tackle by Kamari Lassiter and Henry To'oTo'o),2.39,1.98,1,2025,14
+2.0,14:20,2.0,9.0,HOU 47,3.0,0.0,Kyren Williams up the middle for 7 yards (tackle by Azeez Al-Shaair),1.98,2.21,1,2025,14
+2.0,13:59,3.0,2.0,HOU 40,3.0,0.0,"Matthew Stafford pass complete short left to Jordan Whittington for no gain. Penalty on Tyler Higbee: Offensive Holding, 10 yards (accepted) (tackle by Kamari Lassiter) (no play)",2.21,0.89,1,2025,14
+2.0,13:27,3.0,12.0,HOU 50,3.0,0.0,Matthew Stafford pass incomplete short right,0.89,-0.06,1,2025,14
+2.0,13:21,4.0,12.0,HOU 50,3.0,0.0,"Ethan Evans punts 50 yards, touchback.",-0.06,-0.28,1,2025,14
+2.0,13:12,1.0,10.0,HOU 20,3.0,0.0,C.J. Stroud pass complete short left to Nico Collins for 7 yards (tackle by Jared Verse),0.28,0.68,1,2025,14
+2.0,12:48,2.0,3.0,HOU 27,3.0,0.0,C.J. Stroud sacked by Byron Young for 13 yards,0.68,-2.03,1,2025,14
+2.0,12:04,3.0,16.0,HOU 14,3.0,0.0,C.J. Stroud pass complete short left to Jaylin Noel for 7 yards (tackle by Cobie Durant),-2.03,-1.96,1,2025,14
+2.0,11:23,4.0,9.0,HOU 21,3.0,0.0,"Tommy Townsend punts 54 yards, fair catch by Xavier Smith at LA-25",-1.96,-0.61,1,2025,14
+2.0,11:13,1.0,10.0,LAR 25,3.0,0.0,Matthew Stafford pass incomplete short right intended for Davante Adams,0.61,0.06,1,2025,14
+2.0,11:09,2.0,10.0,LAR 25,3.0,0.0,Matthew Stafford pass incomplete short right intended for Davante Adams,0.06,-0.62,1,2025,14
+2.0,11:05,3.0,10.0,LAR 25,3.0,0.0,"Matthew Stafford aborted snap, recovered by Matthew Stafford at LA-7 and returned for -18 yards (tackle by Will Anderson)",-0.62,-2.49,1,2025,14
+2.0,10:23,4.0,28.0,LAR 7,3.0,0.0,"Ethan Evans punts 49 yards, returned by Jaylin Noel for 10 yards (tackle by Shaun Dolac and Nick Hampton)",-2.49,-2.52,1,2025,14
+2.0,10:12,1.0,10.0,LAR 46,3.0,0.0,Nick Chubb up the middle for 5 yards (tackle by Byron Young and Nathan Landman),2.52,2.65,1,2025,14
+2.0,9:35,2.0,5.0,LAR 41,3.0,0.0,Nick Chubb up the middle for 13 yards (tackle by Kamren Curl),2.65,3.71,1,2025,14
+2.0,9:01,1.0,10.0,LAR 28,3.0,0.0,Nick Chubb right tackle for 3 yards (tackle by Omar Speights),3.71,3.57,1,2025,14
+2.0,8:24,2.0,7.0,LAR 25,3.0,0.0,Nick Chubb right guard for 4 yards (tackle by Nathan Landman and Byron Young),3.57,3.4,1,2025,14
+2.0,7:46,3.0,3.0,LAR 21,3.0,0.0,Dare Ogunbowale left guard for 2 yards (tackle by Kobie Turner and Braden Fiske),3.4,2.34,1,2025,14
+2.0,7:02,4.0,1.0,LAR 19,3.0,0.0,C.J. Stroud up the middle for 2 yards (tackle by Kobie Turner),2.34,4.44,1,2025,14
+2.0,6:20,1.0,10.0,LAR 17,3.0,0.0,C.J. Stroud pass incomplete short left intended for Nico Collins,4.44,3.85,1,2025,14
+2.0,6:16,2.0,10.0,LAR 17,3.0,0.0,Dameon Pierce up the middle for 2 yards (tackle by Jared Verse and Kobie Turner),3.85,3.34,1,2025,14
+2.0,5:34,3.0,8.0,LAR 15,3.0,0.0,C.J. Stroud sacked by Jaylen McCollough for 12 yards,3.34,1.67,1,2025,14
+2.0,4:52,4.0,20.0,LAR 27,6.0,0.0,Ka'imi Fairbairn 45 yard field goal good,1.67,3.0,1,2025,14
+2.0,4:47,,,HOU 35,6.0,0.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,1.27,1,2025,14
+2.0,4:47,1.0,10.0,LAR 35,6.0,0.0,Kyren Williams up the middle for 5 yards (tackle by Folorunso Fatukasi),1.27,1.4,1,2025,14
+2.0,4:11,2.0,5.0,LAR 40,6.0,0.0,Matthew Stafford pass complete deep middle to Puka Nacua for 19 yards (tackle by Jalen Pitre and Henry To'oTo'o),1.4,2.85,1,2025,14
+2.0,3:25,1.0,10.0,HOU 41,6.0,0.0,Kyren Williams left guard for 1 yard (tackle by Dylan Horton),2.85,2.44,1,2025,14
+2.0,2:43,2.0,9.0,HOU 40,6.0,0.0,Kyren Williams up the middle for 9 yards (tackle by Azeez Al-Shaair and C.J. Gardner-Johnson),2.44,3.51,1,2025,14
+2.0,2:00,1.0,10.0,HOU 31,6.0,0.0,Matthew Stafford pass complete deep right to Puka Nacua for 24 yards (tackle by Calen Bullock),3.51,5.6,1,2025,14
+2.0,1:52,,,,,,Timeout #1 by Houston Texans,,,1,2025,14
+2.0,1:52,1.0,7.0,HOU 7,6.0,0.0,Jordan Whittington right end for 5 yards (tackle by Derek Stingley),5.6,5.72,1,2025,14
+2.0,1:48,2.0,2.0,HOU 2,6.0,0.0,Kyren Williams left guard for 1 yard (tackle by Azeez Al-Shaair and Kamari Lassiter),5.72,5.17,1,2025,14
+2.0,1:42,,,,,,Timeout #2 by Houston Texans,,,1,2025,14
+2.0,1:42,3.0,1.0,HOU 1,6.0,0.0,Matthew Stafford up the middle for no gain (tackle by Kamari Lassiter),5.17,3.55,1,2025,14
+2.0,0:57,,,,,,Timeout #1 by Los Angeles Rams,,,1,2025,14
+2.0,0:57,4.0,1.0,HOU 1,6.0,6.0,"Kyren Williams left tackle for 1 yard, touchdown",3.55,7.0,1,2025,14
+2.0,0:53,,,HOU 15,6.0,7.0,Joshua Karty kicks extra point good,0.0,0.0,1,2025,14
+2.0,0:53,,,LAR 35,6.0,7.0,"Joshua Karty kicks off 53 yards, returned by Tremon Smith for 11 yards (tackle by Shaun Dolac)",0.0,0.48,1,2025,14
+2.0,0:49,1.0,10.0,HOU 23,6.0,7.0,C.J. Stroud scrambles right end for 5 yards (tackle by Byron Young),0.48,0.61,1,2025,14
+2.0,0:25,2.0,5.0,HOU 28,6.0,7.0,C.J. Stroud pass complete deep right to Xavier Hutchinson for 23 yards (tackle by Kamren Kinchens),0.61,2.32,1,2025,14
+2.0,0:20,1.0,10.0,LAR 49,6.0,7.0,"Penalty on Dalton Schultz: False Start, 5 yards (accepted) (no play)",2.32,1.99,1,2025,14
+2.0,0:20,1.0,15.0,HOU 46,6.0,7.0,"C.J. Stroud pass incomplete deep left intended for Justin Watson. Penalty on Quentin Lake: Defensive Holding, 5 yards (accepted) (no play)",1.99,2.32,1,2025,14
+2.0,0:14,1.0,10.0,LAR 49,6.0,7.0,C.J. Stroud pass incomplete short left intended for Jaylin Noel,2.32,1.78,1,2025,14
+2.0,0:10,2.0,10.0,LAR 49,6.0,7.0,C.J. Stroud scrambles right end for 14 yards (tackle by Emmanuel Forbes),1.78,3.25,1,2025,14
+2.0,0:03,,,,,,Timeout #2 by Los Angeles Rams,,,1,2025,14
+2.0,0:03,1.0,10.0,LAR 35,9.0,7.0,Ka'imi Fairbairn 53 yard field goal good,3.25,3.0,1,2025,14
+3.0,15:00,,,HOU 35,9.0,7.0,"Ka'imi Fairbairn kicks off 61 yards, returned by Jordan Whittington for 28 yards (tackle by Darrell Taylor)",0.0,1.07,1,2025,14
+3.0,14:55,1.0,10.0,LAR 32,9.0,7.0,Matthew Stafford pass complete short right to Puka Nacua for -3 yards (tackle by Will Anderson and Kamari Lassiter),1.07,0.12,1,2025,14
+3.0,14:34,2.0,13.0,LAR 29,9.0,7.0,Matthew Stafford pass complete short right to Davante Adams for 15 yards (tackle by Derek Stingley),0.12,1.86,1,2025,14
+3.0,13:56,1.0,10.0,LAR 44,9.0,7.0,Kyren Williams right tackle for 2 yards (tackle by Sheldon Rankins),1.86,1.59,1,2025,14
+3.0,13:17,2.0,8.0,LAR 46,9.0,7.0,Matthew Stafford pass complete deep left to Xavier Smith for 36 yards,1.59,4.37,1,2025,14
+3.0,12:36,1.0,10.0,HOU 18,9.0,7.0,"Matthew Stafford pass incomplete short left intended for Davante Adams. Penalty on Derek Stingley: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",4.37,4.71,1,2025,14
+3.0,12:33,1.0,10.0,HOU 13,9.0,13.0,"Matthew Stafford pass complete short left to Davis Allen for 13 yards, touchdown",4.71,7.0,1,2025,14
+3.0,12:28,,,HOU 15,9.0,14.0,Joshua Karty kicks extra point good,0.0,0.0,1,2025,14
+3.0,12:28,,,LAR 35,9.0,14.0,"Joshua Karty kicks off 65 yards, touchback.",0.0,0.28,1,2025,14
+3.0,12:28,1.0,10.0,HOU 20,9.0,14.0,"Nick Chubb left tackle for no gain. Penalty on Jayden Higgins: Illegal Shift, 5 yards (accepted) (tackle by Poona Ford and Nathan Landman) (no play)",0.28,-0.31,1,2025,14
+3.0,12:05,1.0,15.0,HOU 15,9.0,14.0,C.J. Stroud pass complete short right to Justin Watson for 12 yards (tackle by Cobie Durant),-0.31,0.68,1,2025,14
+3.0,11:30,2.0,3.0,HOU 27,9.0,14.0,C.J. Stroud pass complete short right to Cade Stover for 10 yards (tackle by Nathan Landman),0.68,1.4,1,2025,14
+3.0,10:47,1.0,10.0,HOU 37,9.0,14.0,"Penalty on Laken Tomlinson: False Start, 5 yards (accepted) (no play)",1.4,1.07,1,2025,14
+3.0,10:24,1.0,15.0,HOU 32,9.0,14.0,C.J. Stroud pass complete short left to Nico Collins for 14 yards (tackle by Kamren Curl),1.07,2.07,1,2025,14
+3.0,9:57,2.0,1.0,HOU 46,9.0,14.0,Nick Chubb up the middle for 3 yards (tackle by Tyler Davis and Emmanuel Forbes),2.07,2.19,1,2025,14
+3.0,9:15,1.0,10.0,HOU 49,9.0,14.0,C.J. Stroud sacked by Tyler Davis for 12 yards,2.19,0.03,1,2025,14
+3.0,8:30,2.0,22.0,HOU 37,9.0,14.0,"C.J. Stroud pass deep right intended for Jayden Higgins is intercepted by Cobie Durant at LA-41 and returned for no gain Replay Assistant challenged the pass interception ruling, and the play was upheld. (tackle by Jayden Higgins)",0.03,-1.66,1,2025,14
+3.0,8:23,1.0,10.0,LAR 41,9.0,14.0,Kyren Williams right guard for 6 yards (tackle by Sheldon Rankins and Danielle Hunter),1.66,1.93,1,2025,14
+3.0,7:47,2.0,4.0,LAR 47,9.0,14.0,"Matthew Stafford sacked by Henry To'oTo'o for 7 yards. Penalty on Kyren Williams: Offensive Holding, 10 yards (declined)",1.93,0.3,1,2025,14
+3.0,7:20,3.0,11.0,LAR 40,9.0,14.0,Kyren Williams right tackle for no gain (tackle by Will Anderson),0.3,-0.72,1,2025,14
+3.0,6:46,4.0,11.0,LAR 40,9.0,14.0,"Ethan Evans punts 46 yards, returned by Jaylin Noel for 10 yards (tackle by Troy Reeder)",-0.72,-0.54,1,2025,14
+3.0,6:35,1.0,10.0,HOU 24,9.0,14.0,Woody Marks left guard for no gain (tackle by Byron Young),0.54,0.0,1,2025,14
+3.0,5:59,2.0,10.0,HOU 24,9.0,14.0,"C.J. Stroud pass complete short left to Justin Watson for 15 yards. Penalty on Quentin Lake: Defensive Holding, 5 yards (declined) (tackle by Quentin Lake)",0.0,1.53,1,2025,14
+3.0,5:29,1.0,10.0,HOU 39,9.0,14.0,Woody Marks left tackle for 1 yard (tackle by Nathan Landman),1.53,1.12,1,2025,14
+3.0,5:03,2.0,9.0,HOU 40,9.0,14.0,"C.J. Stroud scrambles left end for 5 yards. Penalty on Ahkello Witherspoon: Illegal Contact, 5 yards (accepted) (tackle by Nathan Landman)",1.12,2.26,1,2025,14
+3.0,4:40,1.0,10.0,HOU 50,9.0,14.0,Nick Chubb right guard for 2 yards (tackle by Tyler Davis and Jared Verse),2.26,1.98,1,2025,14
+3.0,3:59,2.0,8.0,LAR 48,9.0,14.0,"C.J. Stroud pass complete short right to Dalton Schultz for no gain. Penalty on Blake Fisher: Offensive Facemask, 15 yards (accepted) (tackle by Kamren Kinchens) (no play)",1.98,-0.04,1,2025,14
+3.0,3:24,2.0,23.0,HOU 37,9.0,14.0,Nick Chubb right guard for 4 yards (tackle by Byron Young),-0.04,-0.16,1,2025,14
+3.0,2:43,3.0,19.0,HOU 41,9.0,14.0,C.J. Stroud pass complete short middle to Jayden Higgins for 9 yards (tackle by Jaylen McCollough),-0.16,-0.06,1,2025,14
+3.0,2:08,4.0,10.0,LAR 50,9.0,14.0,"Tommy Townsend punts 37 yards, fair catch by Xavier Smith at LA-13",-0.06,0.32,1,2025,14
+3.0,2:00,1.0,10.0,LAR 13,9.0,14.0,Matthew Stafford pass complete short right to Tutu Atwell for 4 yards (tackle by Kamari Lassiter),-0.32,-0.3,1,2025,14
+3.0,1:21,2.0,6.0,LAR 17,9.0,14.0,Matthew Stafford pass complete short middle to Puka Nacua for 13 yards (tackle by Kamari Lassiter),-0.3,0.94,1,2025,14
+3.0,0:40,1.0,10.0,LAR 30,9.0,14.0,Blake Corum right guard for 2 yards (tackle by Henry To'oTo'o),0.94,0.66,1,2025,14
+3.0,0:01,2.0,8.0,LAR 32,9.0,14.0,"Penalty on Darrell Taylor: Neutral Zone Infraction, 5 yards (accepted) (no play)",0.66,1.34,1,2025,14
+4.0,15:00,2.0,3.0,LAR 37,9.0,14.0,Matthew Stafford pass incomplete short middle intended for Davante Adams,1.34,0.63,1,2025,14
+4.0,14:56,3.0,3.0,LAR 37,9.0,14.0,Matthew Stafford pass complete deep left to Davante Adams for 24 yards,0.63,2.98,1,2025,14
+4.0,14:18,1.0,10.0,HOU 39,9.0,14.0,"Penalty on Beaux Limmer: False Start, 5 yards (accepted) (no play)",2.98,2.65,1,2025,14
+4.0,14:18,1.0,15.0,HOU 44,9.0,14.0,Matthew Stafford sacked by Folorunso Fatukasi for 8 yards,2.65,0.69,1,2025,14
+4.0,13:37,2.0,23.0,LAR 48,9.0,14.0,Matthew Stafford pass complete short left to Blake Corum for 14 yards (tackle by Jalen Pitre),0.69,1.88,1,2025,14
+4.0,12:53,3.0,9.0,HOU 38,9.0,14.0,"Penalty on E.J. Speed: Encroachment, 5 yards (accepted) (no play)",1.88,2.54,1,2025,14
+4.0,12:33,3.0,4.0,HOU 33,9.0,14.0,Matthew Stafford sacked by Will Anderson for 6 yards,2.54,0.66,1,2025,14
+4.0,12:13,4.0,10.0,HOU 39,9.0,14.0,Ethan Evans punts 34 yards out of bounds,0.66,0.38,1,2025,14
+4.0,12:05,1.0,10.0,HOU 5,9.0,14.0,C.J. Stroud pass complete short middle to Xavier Hutchinson for 7 yards (tackle by Omar Speights),-0.38,-0.27,1,2025,14
+4.0,11:32,2.0,3.0,HOU 12,9.0,14.0,Xavier Hutchinson right end for 5 yards (tackle by Omar Speights),-0.27,-0.06,1,2025,14
+4.0,10:57,1.0,10.0,HOU 17,9.0,14.0,C.J. Stroud pass incomplete short left intended for Dameon Pierce,-0.06,-0.58,1,2025,14
+4.0,10:52,2.0,10.0,HOU 17,9.0,14.0,Dameon Pierce right end for 1 yard (tackle by Byron Young and Kamren Kinchens),-0.58,-1.13,1,2025,14
+4.0,10:12,3.0,9.0,HOU 18,9.0,14.0,C.J. Stroud pass complete short left to Dalton Schultz for 8 yards (tackle by Nathan Landman),-1.13,-1.63,1,2025,14
+4.0,9:27,4.0,1.0,HOU 26,9.0,14.0,"Tommy Townsend punts 56 yards, returned by Xavier Smith for 16 yards (tackle by Dare Ogunbowale)",-1.63,-1.2,1,2025,14
+4.0,9:15,1.0,10.0,LAR 34,9.0,14.0,Matthew Stafford pass complete short right to Puka Nacua for 5 yards (tackle by Azeez Al-Shaair),1.2,1.33,1,2025,14
+4.0,8:36,2.0,5.0,LAR 39,9.0,14.0,Matthew Stafford pass incomplete deep middle intended for Davis Allen,1.33,0.63,1,2025,14
+4.0,8:31,3.0,5.0,LAR 39,9.0,14.0,Matthew Stafford pass complete short right to Davante Adams for 9 yards (tackle by Derek Stingley),0.63,2.13,1,2025,14
+4.0,7:48,1.0,10.0,LAR 48,9.0,14.0,Kyren Williams up the middle for 4 yards (tackle by Danielle Hunter),2.13,2.12,1,2025,14
+4.0,7:13,2.0,6.0,HOU 48,9.0,14.0,Matthew Stafford pass complete deep right to Puka Nacua for 25 yards (tackle by C.J. Gardner-Johnson),2.12,4.04,1,2025,14
+4.0,6:26,1.0,10.0,HOU 23,9.0,14.0,Kyren Williams left guard for 5 yards (tackle by Jalen Pitre),4.04,4.21,1,2025,14
+4.0,5:44,2.0,5.0,HOU 18,9.0,14.0,Kyren Williams up the middle for 4 yards (tackle by Jalen Pitre),4.21,4.28,1,2025,14
+4.0,5:00,3.0,1.0,HOU 14,9.0,14.0,Kyren Williams left guard for 2 yards (tackle by Kamari Lassiter and Danielle Hunter),4.28,4.78,1,2025,14
+4.0,4:16,1.0,10.0,HOU 12,9.0,14.0,"Matthew Stafford pass incomplete short middle intended for Colby Parkinson (defended by Azeez Al-Shaair) Replay Assistant challenged the pass completion ruling, and the original play was overturned. Matthew Stafford pass complete short middle to Colby Parkinson for -7 yards. Colby Parkinson fumbles (forced by Azeez Al-Shaair), recovered by Danielle Hunter at HOU-19 (tackle by Azeez Al-Shaair)",4.78,-0.15,1,2025,14
+4.0,4:09,1.0,10.0,HOU 19,9.0,14.0,C.J. Stroud pass complete short left to Cade Stover for 6 yards (tackle by Kamren Curl),0.15,0.48,1,2025,14
+4.0,4:04,2.0,4.0,HOU 25,9.0,14.0,Nick Chubb left guard for 10 yards (tackle by Kamren Curl and Kamren Kinchens),0.48,1.27,1,2025,14
+4.0,3:29,1.0,10.0,HOU 35,9.0,14.0,Nick Chubb up the middle for 9 yards (tackle by Braden Fiske),1.27,1.94,1,2025,14
+4.0,2:53,2.0,1.0,HOU 44,9.0,14.0,Nick Chubb left guard for 1 yard (tackle by Kamren Curl and Omar Speights),1.94,1.93,1,2025,14
+4.0,2:31,1.0,10.0,HOU 45,9.0,14.0,"Nick Chubb up the middle for no gain. Penalty on Cade Stover: Illegal Shift, 5 yards (accepted) (tackle by Jared Verse and Nathan Landman) (no play)",1.93,1.6,1,2025,14
+4.0,2:27,1.0,15.0,HOU 40,9.0,14.0,C.J. Stroud pass complete short left to Nico Collins for 4 yards (tackle by Ahkello Witherspoon),1.6,1.25,1,2025,14
+4.0,2:08,2.0,11.0,HOU 44,9.0,14.0,C.J. Stroud pass incomplete short right intended for Dalton Schultz (defended by Josaiah Stewart),1.25,0.56,1,2025,14
+4.0,2:04,3.0,11.0,HOU 44,9.0,14.0,"C.J. Stroud pass incomplete deep left intended for Jaylin Noel. Penalty on Kobie Turner: Roughing the Passer, 15 yards (accepted) (no play)",0.56,2.85,1,2025,14
+4.0,1:57,1.0,10.0,LAR 41,9.0,14.0,C.J. Stroud pass complete short right to Dare Ogunbowale for 16 yards (tackle by Kamren Curl),2.85,3.91,1,2025,14
+4.0,1:51,1.0,10.0,LAR 25,9.0,14.0,"C.J. Stroud pass complete short right to Dare Ogunbowale for 1 yard. Dare Ogunbowale fumbles (forced by Nathan Landman), recovered by Braden Fiske at LA-24 (tackle by Nathan Landman)",3.91,-0.54,1,2025,14
+4.0,1:43,1.0,10.0,LAR 24,9.0,14.0,"Kyren Williams up the middle for no gain. Penalty on Davis Allen: Offensive Holding, 10 yards (accepted) (tackle by Sheldon Rankins) (no play)",0.54,-0.5,1,2025,14
+4.0,1:38,1.0,20.0,LAR 14,9.0,14.0,Kyren Williams up the middle for 4 yards (tackle by Jalen Pitre),-0.5,-0.91,1,2025,14
+4.0,1:33,,,,,,Timeout #1 by Houston Texans,,,1,2025,14
+4.0,1:33,2.0,16.0,LAR 18,9.0,14.0,Kyren Williams left guard for 8 yards (tackle by C.J. Gardner-Johnson and Azeez Al-Shaair),-0.91,-0.43,1,2025,14
+4.0,1:27,,,,,,Timeout #2 by Houston Texans,,,1,2025,14
+4.0,1:27,3.0,8.0,LAR 26,9.0,14.0,Matthew Stafford pass complete short left to Puka Nacua for 24 yards (tackle by Derek Stingley),-0.43,2.26,1,2025,14
+4.0,1:19,1.0,10.0,HOU 50,9.0,14.0,Matthew Stafford kneels for -1 yards,2.26,1.58,1,2025,14
+4.0,0:40,2.0,11.0,LAR 49,9.0,14.0,Matthew Stafford kneels for -1 yards,1.58,0.76,1,2025,14

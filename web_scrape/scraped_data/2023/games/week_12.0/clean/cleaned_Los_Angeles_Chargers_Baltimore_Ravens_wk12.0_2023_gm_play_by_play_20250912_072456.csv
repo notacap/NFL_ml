@@ -1,0 +1,172 @@
+Quarter,Time,Down,ToGo,Location,BAL,LAC,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Ravens won the coin toss and deferred, Chargers to receive the opening kickoff.",,,12.0,2023,179
+1.0,15:00,,,BAL 35,0.0,0.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,179
+1.0,15:00,1.0,10.0,LAC 25,0.0,0.0,Austin Ekeler up the middle for 2 yards (tackle by Roquan Smith),0.61,0.33,12.0,2023,179
+1.0,14:26,2.0,8.0,LAC 27,0.0,0.0,Joshua Kelley up the middle for 3 yards (tackle by Kyle Van Noy and Patrick Queen),0.33,0.04,12.0,2023,179
+1.0,13:52,3.0,5.0,LAC 30,0.0,0.0,Justin Herbert pass complete deep right to Gerald Everett for 31 yards (tackle by Kyle Hamilton),0.04,2.98,12.0,2023,179
+1.0,13:03,1.0,10.0,BAL 39,0.0,0.0,Justin Herbert pass complete short right to Austin Ekeler for 4 yards (tackle by Patrick Queen and Geno Stone),2.98,2.98,12.0,2023,179
+1.0,12:29,2.0,6.0,BAL 35,0.0,0.0,Austin Ekeler left tackle for 5 yards (tackle by Jadeveon Clowney and Marcus Williams),2.98,2.94,12.0,2023,179
+1.0,11:51,3.0,1.0,BAL 30,0.0,0.0,Austin Ekeler left end for 6 yards (tackle by Patrick Queen),2.94,3.97,12.0,2023,179
+1.0,11:16,1.0,10.0,BAL 24,0.0,0.0,Justin Herbert pass complete short middle to Keenan Allen for 9 yards (tackle by Roquan Smith),3.97,4.85,12.0,2023,179
+1.0,10:43,2.0,1.0,BAL 15,0.0,0.0,Joshua Kelley right guard for 3 yards (tackle by Brent Urban and Kyle Hamilton),4.85,4.78,12.0,2023,179
+1.0,10:07,1.0,10.0,BAL 12,0.0,0.0,Derius Davis right end for 1 yard (tackle by Brandon Stephens),4.78,4.27,12.0,2023,179
+1.0,9:27,2.0,9.0,BAL 11,0.0,0.0,"Justin Herbert scrambles right end for 5 yards (tackle by Roquan Smith). Penalty on Jamaree Salyer: Unnecessary Roughness / Offense, 15 yards (accepted)",4.27,2.35,12.0,2023,179
+1.0,9:13,3.0,19.0,BAL 21,0.0,0.0,Justin Herbert pass incomplete short right,2.35,2.06,12.0,2023,179
+1.0,9:07,4.0,19.0,BAL 21,0.0,3.0,Cameron Dicker 39 yard field goal good,2.06,3.0,12.0,2023,179
+1.0,9:03,,,LAC 35,0.0,3.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,179
+1.0,9:03,,,,,,Timeout #1 by Los Angeles Chargers,,,12.0,2023,179
+1.0,9:03,1.0,10.0,BAL 25,0.0,3.0,Keaton Mitchell up the middle for 5 yards (tackle by Austin Johnson and Eric Kendricks),0.61,0.74,12.0,2023,179
+1.0,8:43,2.0,5.0,BAL 30,0.0,3.0,Lamar Jackson right tackle for 7 yards (tackle by Eric Kendricks),0.74,1.4,12.0,2023,179
+1.0,8:06,1.0,10.0,BAL 37,0.0,3.0,Lamar Jackson pass complete short middle to Odell Beckham for 9 yards (tackle by Derwin James and Jaylinn Hawkins),1.4,2.07,12.0,2023,179
+1.0,7:33,2.0,1.0,BAL 46,0.0,3.0,Keaton Mitchell up the middle for 3 yards (tackle by Sebastian Joseph-Day and Austin Johnson),2.07,2.19,12.0,2023,179
+1.0,6:55,1.0,10.0,BAL 49,0.0,3.0,Lamar Jackson pass complete short right to Zay Flowers for 3 yards (tackle by Deane Leonard),2.19,2.05,12.0,2023,179
+1.0,6:18,2.0,7.0,LAC 48,0.0,3.0,Keaton Mitchell left end for no gain (tackle by Khalil Mack),2.05,1.36,12.0,2023,179
+1.0,5:30,3.0,7.0,LAC 48,0.0,3.0,Lamar Jackson pass incomplete short right intended for Isaiah Likely (defended by Khalil Mack),1.36,0.07,12.0,2023,179
+1.0,5:21,4.0,7.0,LAC 48,0.0,3.0,Jordan Stout punts 37 yards out of bounds,0.07,0.37,12.0,2023,179
+1.0,5:13,1.0,10.0,LAC 11,0.0,3.0,Justin Herbert scrambles left end for 5 yards (tackle by Marcus Williams),-0.37,-0.3,12.0,2023,179
+1.0,4:47,2.0,5.0,LAC 16,0.0,3.0,Joshua Kelley right guard for 2 yards (tackle by Brent Urban),-0.3,-0.6,12.0,2023,179
+1.0,4:01,3.0,3.0,LAC 18,0.0,3.0,Justin Herbert pass complete short right to Keenan Allen for 3 yards (tackle by Geno Stone),-0.6,0.34,12.0,2023,179
+1.0,3:29,1.0,10.0,LAC 21,0.0,3.0,Justin Herbert scrambles right end for 2 yards (tackle by Michael Pierce),0.34,0.07,12.0,2023,179
+1.0,2:52,2.0,8.0,LAC 23,0.0,3.0,Derius Davis left end for -2 yards (tackle by Kyle Hamilton),0.07,-0.89,12.0,2023,179
+1.0,2:18,3.0,10.0,LAC 21,0.0,3.0,Justin Herbert pass incomplete deep left intended for Jalen Guyton,-0.89,-1.96,12.0,2023,179
+1.0,2:11,4.0,10.0,LAC 21,0.0,3.0,"JK Scott punts 57 yards, fair catch by Devin Duvernay at BAL-22",-1.96,-0.41,12.0,2023,179
+1.0,2:02,1.0,10.0,BAL 22,0.0,3.0,"Lamar Jackson pass complete to Isaiah Likely for no gain. Penalty on Gus Edwards: Offensive Holding, 10 yards (accepted) (no play)",0.41,-0.66,12.0,2023,179
+1.0,1:36,1.0,20.0,BAL 12,0.0,3.0,Lamar Jackson pass complete short left to Isaiah Likely for 18 yards (tackle by Alohi Gilman),-0.66,0.95,12.0,2023,179
+1.0,0:51,2.0,2.0,BAL 30,0.0,3.0,Gus Edwards right guard for 4 yards (tackle by Nick Williams and Tuli Tuipulotu),0.95,1.2,12.0,2023,179
+1.0,0:07,1.0,10.0,BAL 34,0.0,3.0,Lamar Jackson pass complete short left to Odell Beckham for 11 yards (tackle by Alohi Gilman),1.2,1.93,12.0,2023,179
+2.0,15:00,1.0,10.0,BAL 45,0.0,3.0,Lamar Jackson pass complete short right to Keaton Mitchell for 14 yards (tackle by Asante Samuel),1.93,2.85,12.0,2023,179
+2.0,14:26,1.0,10.0,LAC 41,0.0,3.0,Lamar Jackson pass complete short middle to Odell Beckham for 14 yards (tackle by Deane Leonard),2.85,3.78,12.0,2023,179
+2.0,13:42,1.0,10.0,LAC 27,0.0,3.0,Lamar Jackson right end for 1 yard (tackle by Tuli Tuipulotu),3.78,3.37,12.0,2023,179
+2.0,12:57,2.0,9.0,LAC 26,0.0,3.0,Lamar Jackson pass incomplete short left intended for Rashod Bateman (defended by Alohi Gilman),3.37,2.68,12.0,2023,179
+2.0,12:53,3.0,9.0,LAC 26,0.0,3.0,Lamar Jackson pass complete short middle to Rashod Bateman for 12 yards (tackle by Deane Leonard),2.68,4.65,12.0,2023,179
+2.0,12:20,1.0,10.0,LAC 14,0.0,3.0,Justice Hill up the middle for 8 yards (tackle by Eric Kendricks and Derwin James),4.65,5.47,12.0,2023,179
+2.0,11:58,2.0,2.0,LAC 6,0.0,3.0,Justice Hill up the middle for 3 yards (tackle by Alohi Gilman),5.47,6.51,12.0,2023,179
+2.0,11:26,,,,,,Timeout #2 by Los Angeles Chargers,,,12.0,2023,179
+2.0,11:26,1.0,3.0,LAC 3,0.0,3.0,Justice Hill right guard for no gain (tackle by Khalil Mack),6.51,5.53,12.0,2023,179
+2.0,10:46,2.0,3.0,LAC 3,6.0,3.0,"Lamar Jackson pass complete short middle to Zay Flowers for 3 yards, touchdown",5.53,7.0,12.0,2023,179
+2.0,10:41,,,LAC 15,6.0,3.0,Justin Tucker kicks extra point good (no play),0.0,0.0,12.0,2023,179
+2.0,10:41,,,LAC 20,7.0,3.0,Justin Tucker kicks extra point good,0.0,0.0,12.0,2023,179
+2.0,10:41,,,BAL 35,7.0,3.0,"Justin Tucker kicks off 66 yards, returned by Derius Davis for 21 yards (tackle by Daryl Worley)",0.0,0.28,12.0,2023,179
+2.0,10:37,1.0,10.0,LAC 20,7.0,3.0,Justin Herbert sacked by and Travis Jones for -7 yards and Justin Madubuike for -7 yards,0.28,-1.28,12.0,2023,179
+2.0,9:55,2.0,17.0,LAC 13,7.0,3.0,Justin Herbert pass incomplete deep left intended for Jalen Guyton (defended by Marcus Williams) (defended by Kyle Hamilton),-1.28,-2.19,12.0,2023,179
+2.0,9:48,3.0,17.0,LAC 13,7.0,3.0,Justin Herbert pass complete short right to Joshua Kelley for 6 yards (tackle by Kyle Hamilton and Travis Jones),-2.19,-2.14,12.0,2023,179
+2.0,9:10,4.0,11.0,LAC 19,7.0,3.0,"JK Scott punts 46 yards, returned by Devin Duvernay for 3 yards (tackle by Nick Niemann)",-2.14,-1.47,12.0,2023,179
+2.0,8:58,1.0,10.0,BAL 38,7.0,3.0,"Lamar Jackson pass complete to Rashod Bateman for no gain. Penalty on Ronnie Stanley: Offensive Illegal Block Above the Waist, 10 yards (accepted) (no play)",1.47,0.81,12.0,2023,179
+2.0,8:48,1.0,20.0,BAL 28,7.0,3.0,Lamar Jackson right tackle for 8 yards (tackle by Otito Ogbonnia),0.81,0.65,12.0,2023,179
+2.0,8:02,2.0,12.0,BAL 36,7.0,3.0,Lamar Jackson pass complete short right to Isaiah Likely for 11 yards (tackle by Derwin James),0.65,1.42,12.0,2023,179
+2.0,7:49,3.0,1.0,BAL 47,7.0,3.0,Keaton Mitchell up the middle for 1 yard (tackle by Otito Ogbonnia and Khalil Mack),1.42,2.13,12.0,2023,179
+2.0,6:58,1.0,10.0,BAL 48,7.0,3.0,Lamar Jackson pass complete short right to Isaiah Likely for 7 yards (tackle by Derwin James),2.13,2.53,12.0,2023,179
+2.0,6:21,2.0,3.0,LAC 45,7.0,3.0,Lamar Jackson pass complete short left to Rashod Bateman for 9 yards (tackle by Asante Samuel),2.53,3.18,12.0,2023,179
+2.0,5:40,1.0,10.0,LAC 36,7.0,3.0,Lamar Jackson scrambles left end for 7 yards (tackle by Kenneth Murray),3.18,3.58,12.0,2023,179
+2.0,4:50,2.0,3.0,LAC 29,7.0,3.0,Lamar Jackson pass incomplete short right intended for Odell Beckham,3.58,2.87,12.0,2023,179
+2.0,4:48,,,,,,Timeout #1 by Baltimore Ravens,,,12.0,2023,179
+2.0,4:48,3.0,3.0,LAC 29,7.0,3.0,Lamar Jackson scrambles left end for 2 yards (tackle by Kenneth Murray),2.87,1.82,12.0,2023,179
+2.0,4:16,4.0,1.0,LAC 27,7.0,3.0,Gus Edwards right end for no gain (tackle by Kenneth Murray and Alohi Gilman),1.82,-0.74,12.0,2023,179
+2.0,4:13,1.0,10.0,LAC 27,7.0,3.0,Austin Ekeler left end for 3 yards (tackle by Michael Pierce and Marcus Williams),0.74,0.6,12.0,2023,179
+2.0,3:43,2.0,7.0,LAC 30,7.0,3.0,"Justin Herbert pass complete short middle to Keenan Allen for 4 yards. Keenan Allen fumbles (forced by Roquan Smith), recovered by Brent Urban at LAC-34",0.6,-3.31,12.0,2023,179
+2.0,3:33,1.0,10.0,LAC 34,7.0,3.0,Keaton Mitchell right end for 9 yards (tackle by Alohi Gilman),3.31,3.99,12.0,2023,179
+2.0,3:00,2.0,1.0,LAC 25,7.0,3.0,"Penalty on Austin Johnson: Neutral Zone Infraction, 6 yards (accepted) (no play)",3.99,4.31,12.0,2023,179
+2.0,2:43,1.0,10.0,LAC 19,7.0,3.0,Devin Duvernay left end for no gain (tackle by Alohi Gilman and Khalil Mack),4.31,3.75,12.0,2023,179
+2.0,2:00,2.0,10.0,LAC 19,7.0,3.0,Lamar Jackson sacked by Khalil Mack for -5 yards,3.75,2.41,12.0,2023,179
+2.0,1:23,3.0,15.0,LAC 24,7.0,3.0,"Lamar Jackson pass incomplete short middle. Penalty on Kevin Zeitler: Ineligible Downfield Pass, 5 yards (declined)",2.41,1.87,12.0,2023,179
+2.0,1:16,4.0,15.0,LAC 24,10.0,3.0,Justin Tucker 42 yard field goal good,1.87,3.0,12.0,2023,179
+2.0,1:12,,,BAL 35,10.0,3.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,179
+2.0,1:12,1.0,10.0,LAC 25,10.0,3.0,Justin Herbert pass complete short right to Keenan Allen for 5 yards (tackle by Geno Stone),0.61,0.81,12.0,2023,179
+2.0,0:56,2.0,4.0,LAC 30,10.0,3.0,Justin Herbert pass complete short right to Keenan Allen for 14 yards (tackle by Brandon Stephens),0.81,1.86,12.0,2023,179
+2.0,0:37,1.0,10.0,LAC 44,10.0,3.0,"Justin Herbert pass complete short middle to Austin Ekeler for 3 yards. Austin Ekeler fumbles (forced by Patrick Queen), recovered by Michael Pierce at LAC-47 (tackle by Patrick Queen)",1.86,-2.46,12.0,2023,179
+2.0,0:26,1.0,10.0,LAC 47,10.0,3.0,Lamar Jackson pass incomplete short middle intended for Isaiah Likely,2.46,1.91,12.0,2023,179
+2.0,0:21,2.0,10.0,LAC 47,10.0,3.0,Lamar Jackson pass complete short left to Isaiah Likely for 4 yards (tackle by Derwin James),1.91,1.75,12.0,2023,179
+2.0,0:16,3.0,6.0,LAC 43,10.0,3.0,"Lamar Jackson sacked by Khalil Mack for -8 yards. Lamar Jackson fumbles (forced by Austin Johnson) (tackle by Khalil Mack), recovered by John Simpson at BAL-49 and returned for 8 yards",1.75,-0.13,12.0,2023,179
+2.0,0:08,,,,,,Timeout #3 by Los Angeles Chargers,,,12.0,2023,179
+2.0,0:08,4.0,14.0,BAL 49,10.0,3.0,Lamar Jackson pass incomplete deep left intended for Rashod Bateman,-0.13,-2.32,12.0,2023,179
+2.0,0:03,1.0,10.0,BAL 49,10.0,3.0,Justin Herbert pass deep left is intercepted by Arthur Maulet at BAL-2 and returned for no gain (tackle by Donald Parham),2.32,0.0,12.0,2023,179
+3.0,15:00,,,LAC 35,10.0,3.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,179
+3.0,15:00,1.0,10.0,BAL 25,10.0,3.0,Gus Edwards left guard for 2 yards (tackle by Nick Williams),0.61,0.33,12.0,2023,179
+3.0,14:23,2.0,8.0,BAL 27,10.0,3.0,Lamar Jackson pass complete short left to Zay Flowers for 18 yards (tackle by Alohi Gilman),0.33,1.93,12.0,2023,179
+3.0,13:59,1.0,10.0,BAL 45,10.0,3.0,Gus Edwards left guard for 5 yards (tackle by Derwin James),1.93,2.06,12.0,2023,179
+3.0,13:10,2.0,5.0,BAL 50,10.0,3.0,Gus Edwards left tackle for 3 yards (tackle by Kenneth Murray and Jaylinn Hawkins),2.06,1.75,12.0,2023,179
+3.0,12:33,3.0,2.0,LAC 47,10.0,3.0,Justice Hill up the middle for 18 yards (tackle by Alohi Gilman and Jaylinn Hawkins),1.75,3.64,12.0,2023,179
+3.0,11:49,1.0,10.0,LAC 29,10.0,3.0,Keaton Mitchell up the middle for -1 yards (tackle by Eric Kendricks and Alohi Gilman),3.64,2.97,12.0,2023,179
+3.0,11:09,2.0,11.0,LAC 30,10.0,3.0,Lamar Jackson pass incomplete short left intended for Justice Hill,2.97,2.28,12.0,2023,179
+3.0,11:02,3.0,11.0,LAC 30,10.0,3.0,Lamar Jackson pass incomplete deep left intended for Odell Beckham,2.28,1.41,12.0,2023,179
+3.0,10:58,4.0,11.0,LAC 30,13.0,3.0,Justin Tucker 48 yard field goal good,1.41,3.0,12.0,2023,179
+3.0,10:53,,,BAL 35,13.0,3.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,179
+3.0,10:53,1.0,10.0,LAC 25,13.0,3.0,Austin Ekeler left tackle for 2 yards (tackle by Roquan Smith and Michael Pierce),0.61,0.33,12.0,2023,179
+3.0,10:34,2.0,8.0,LAC 27,13.0,3.0,Justin Herbert pass complete short right to Quentin Johnston for 7 yards (tackle by Ronald Darby),0.33,0.56,12.0,2023,179
+3.0,10:10,3.0,1.0,LAC 34,13.0,3.0,Justin Herbert pass incomplete short middle intended for Quentin Johnston (defended by Roquan Smith),0.56,-1.11,12.0,2023,179
+3.0,10:05,4.0,1.0,LAC 34,13.0,3.0,"JK Scott punts 53 yards, fair catch by Devin Duvernay at BAL-13",-1.11,0.32,12.0,2023,179
+3.0,9:57,1.0,10.0,BAL 13,13.0,3.0,Lamar Jackson right guard for 8 yards (tackle by Eric Kendricks),-0.32,0.35,12.0,2023,179
+3.0,9:18,2.0,2.0,BAL 21,13.0,3.0,Keaton Mitchell right guard for 29 yards (tackle by Deane Leonard),0.35,2.26,12.0,2023,179
+3.0,8:38,1.0,10.0,LAC 50,13.0,3.0,"Lamar Jackson pass incomplete short right. Penalty on Lamar Jackson: Intentional Grounding, 12 yards (accepted)",2.26,0.09,12.0,2023,179
+3.0,8:31,2.0,22.0,BAL 38,13.0,3.0,Lamar Jackson pass complete deep right to Nelson Agholor for 21 yards (tackle by Essang Bassey),0.09,2.21,12.0,2023,179
+3.0,7:59,3.0,1.0,LAC 41,13.0,3.0,Lamar Jackson pass incomplete short left intended for Zay Flowers (defended by Asante Samuel),2.21,0.53,12.0,2023,179
+3.0,7:58,,,,,,Timeout #1 by Baltimore Ravens,,,12.0,2023,179
+3.0,7:58,4.0,1.0,LAC 41,13.0,3.0,Gus Edwards right guard for 2 yards (tackle by Kenneth Murray),0.53,2.98,12.0,2023,179
+3.0,7:19,1.0,10.0,LAC 39,13.0,3.0,Lamar Jackson pass incomplete short middle intended for Rashod Bateman,2.98,2.44,12.0,2023,179
+3.0,7:11,2.0,10.0,LAC 39,13.0,3.0,Lamar Jackson pass complete short left to Zay Flowers for -5 yards (tackle by Deane Leonard),2.44,1.09,12.0,2023,179
+3.0,6:30,3.0,15.0,LAC 44,13.0,3.0,Lamar Jackson pass incomplete short left intended for Nelson Agholor,1.09,0.33,12.0,2023,179
+3.0,6:22,4.0,12.0,LAC 44,13.0,3.0,"Jordan Stout punts 29 yards, fair catch by Derius Davis at LAC-15",0.33,0.22,12.0,2023,179
+3.0,6:15,1.0,10.0,LAC 15,13.0,3.0,Justin Herbert pass complete short right to Keenan Allen for 14 yards (tackle by Brandon Stephens),-0.22,0.87,12.0,2023,179
+3.0,5:54,1.0,10.0,LAC 29,13.0,3.0,Justin Herbert pass complete short right to Gerald Everett for 3 yards (tackle by Geno Stone),0.87,0.73,12.0,2023,179
+3.0,5:23,2.0,7.0,LAC 32,13.0,3.0,Justin Herbert pass complete short right to Austin Ekeler for 8 yards (tackle by Roquan Smith),0.73,1.6,12.0,2023,179
+3.0,4:46,1.0,10.0,LAC 40,13.0,3.0,Justin Herbert pass complete short right to Keenan Allen for 6 yards (tackle by Brandon Stephens),1.6,1.86,12.0,2023,179
+3.0,4:09,2.0,4.0,LAC 46,13.0,3.0,Justin Herbert pass complete short right to Keenan Allen for 3 yards (tackle by Marcus Williams and Kyle Hamilton),1.86,1.55,12.0,2023,179
+3.0,3:33,3.0,1.0,LAC 49,13.0,3.0,Justin Herbert pass incomplete short right intended for Stone Smartt (defended by Kyle Van Noy),1.55,-0.13,12.0,2023,179
+3.0,3:26,4.0,1.0,LAC 49,13.0,3.0,Austin Ekeler up the middle for 2 yards (tackle by Michael Pierce),-0.13,2.32,12.0,2023,179
+3.0,2:49,1.0,10.0,BAL 49,13.0,3.0,Justin Herbert pass complete short right to Keenan Allen for -2 yards (tackle by Kyle Hamilton),2.32,1.51,12.0,2023,179
+3.0,2:20,2.0,12.0,LAC 49,13.0,3.0,Justin Herbert pass incomplete short right intended for Quentin Johnston (defended by Brandon Stephens),1.51,0.83,12.0,2023,179
+3.0,2:17,3.0,12.0,LAC 49,13.0,3.0,"Penalty on Will Clapp: False Start, 5 yards (accepted) (no play)",0.83,0.17,12.0,2023,179
+3.0,2:17,3.0,17.0,LAC 44,13.0,3.0,"Justin Herbert pass complete short left to Keenan Allen for 3 yards, lateral to Austin Ekeler for 14 yards (tackle by Patrick Queen) BAL challenged the backward pass ruling, and the play was upheld.",0.17,2.98,12.0,2023,179
+3.0,1:51,1.0,10.0,BAL 39,13.0,3.0,Justin Herbert pass incomplete short left intended for Jalen Guyton,2.98,2.44,12.0,2023,179
+3.0,1:47,2.0,10.0,BAL 39,13.0,3.0,Justin Herbert pass complete short right to Keenan Allen for 9 yards (tackle by Brandon Stephens),2.44,2.94,12.0,2023,179
+3.0,1:27,3.0,1.0,BAL 30,13.0,3.0,Austin Ekeler up the middle for 5 yards (tackle by Geno Stone),2.94,3.91,12.0,2023,179
+3.0,0:54,1.0,10.0,BAL 25,13.0,3.0,Justin Herbert pass complete short right to Derius Davis for 2 yards (tackle by Kyle Van Noy),3.91,3.63,12.0,2023,179
+3.0,0:07,2.0,8.0,BAL 23,13.0,3.0,"Penalty on LAC: Delay of Game, 5 yards (accepted) (no play)",3.63,2.96,12.0,2023,179
+4.0,15:00,2.0,13.0,BAL 28,13.0,3.0,Justin Herbert pass complete short left to Keenan Allen for 10 yards (tackle by Ronald Darby),2.96,3.66,12.0,2023,179
+4.0,14:27,3.0,3.0,BAL 18,13.0,3.0,Justin Herbert pass complete short middle to Gerald Everett for 6 yards (tackle by Roquan Smith),3.66,4.78,12.0,2023,179
+4.0,13:55,1.0,10.0,BAL 12,13.0,3.0,Justin Herbert pass complete short right to Austin Ekeler for -4 yards (tackle by Patrick Queen),4.78,3.53,12.0,2023,179
+4.0,13:17,2.0,14.0,BAL 16,13.0,3.0,Justin Herbert pass complete short right to Joshua Kelley for no gain (tackle by Marcus Williams and Geno Stone),3.53,2.93,12.0,2023,179
+4.0,12:42,3.0,14.0,BAL 16,13.0,3.0,"Justin Herbert sacked by Jadeveon Clowney for -8 yards. Justin Herbert fumbles (forced by Jadeveon Clowney), recovered by Jadeveon Clowney at BAL-23 (tackle by Jadeveon Clowney)",2.93,-0.48,12.0,2023,179
+4.0,12:31,1.0,10.0,BAL 23,13.0,3.0,Gus Edwards right guard for 5 yards (tackle by Otito Ogbonnia),0.48,0.61,12.0,2023,179
+4.0,11:49,2.0,5.0,BAL 28,13.0,3.0,Lamar Jackson pass incomplete short middle intended for Zay Flowers (defended by Austin Johnson),0.61,-0.1,12.0,2023,179
+4.0,11:45,3.0,5.0,BAL 28,13.0,3.0,Lamar Jackson pass incomplete deep right intended for Zay Flowers (defended by Essang Bassey),-0.1,-1.5,12.0,2023,179
+4.0,11:37,4.0,5.0,BAL 28,13.0,3.0,"Jordan Stout punts 55 yards, returned by Derius Davis for 23 yards (tackle by Geno Stone and Del'Shawn Phillips)",-1.5,-1.6,12.0,2023,179
+4.0,11:23,1.0,10.0,LAC 40,13.0,3.0,Justin Herbert pass complete short right to Keenan Allen for 7 yards (tackle by Brandon Stephens),1.6,2.0,12.0,2023,179
+4.0,11:02,2.0,3.0,LAC 47,13.0,3.0,Justin Herbert scrambles left end for 35 yards (tackle by Patrick Queen),2.0,4.37,12.0,2023,179
+4.0,10:29,1.0,10.0,BAL 18,13.0,3.0,Austin Ekeler left guard for 6 yards (tackle by Kyle Van Noy),4.37,4.81,12.0,2023,179
+4.0,9:58,2.0,4.0,BAL 12,13.0,3.0,Justin Herbert pass complete short left to Austin Ekeler for 7 yards (tackle by Del'Shawn Phillips),4.81,6.06,12.0,2023,179
+4.0,9:20,1.0,5.0,BAL 5,13.0,3.0,Austin Ekeler up the middle for 2 yards (tackle by Odafe Oweh),6.06,5.53,12.0,2023,179
+4.0,8:43,2.0,3.0,BAL 3,13.0,3.0,Justin Herbert pass incomplete short middle intended for Jalen Guyton,5.53,4.72,12.0,2023,179
+4.0,8:36,3.0,3.0,BAL 3,13.0,9.0,"Justin Herbert pass complete short left to Gerald Everett for 3 yards, touchdown",4.72,7.0,12.0,2023,179
+4.0,8:32,,,BAL 15,13.0,10.0,Cameron Dicker kicks extra point good,0.0,0.0,12.0,2023,179
+4.0,8:32,,,LAC 35,13.0,10.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,179
+4.0,8:32,1.0,10.0,BAL 25,13.0,10.0,Lamar Jackson pass complete short middle to Gus Edwards for 11 yards (tackle by Essang Bassey and Asante Samuel),0.61,1.33,12.0,2023,179
+4.0,7:56,1.0,10.0,BAL 36,13.0,10.0,Gus Edwards left guard for 5 yards (tackle by Kenneth Murray),1.33,1.47,12.0,2023,179
+4.0,7:13,2.0,5.0,BAL 41,13.0,10.0,Keaton Mitchell right guard for 12 yards (tackle by Asante Samuel),1.47,2.46,12.0,2023,179
+4.0,6:26,1.0,10.0,LAC 47,13.0,10.0,"Penalty on Ronnie Stanley: False Start, 5 yards (accepted) (no play)",2.46,2.13,12.0,2023,179
+4.0,6:26,1.0,15.0,BAL 48,13.0,10.0,Lamar Jackson pass complete short right to Zay Flowers for 6 yards (tackle by Deane Leonard),2.13,2.05,12.0,2023,179
+4.0,5:57,2.0,9.0,LAC 46,13.0,10.0,Lamar Jackson pass complete short right to Keaton Mitchell for 11 yards (tackle by Eric Kendricks and Essang Bassey),2.05,3.25,12.0,2023,179
+4.0,5:13,1.0,10.0,LAC 35,13.0,10.0,Lamar Jackson scrambles right end for 1 yard (tackle by Tuli Tuipulotu),3.25,2.84,12.0,2023,179
+4.0,4:34,2.0,9.0,LAC 34,13.0,10.0,Keaton Mitchell right end for 6 yards (tackle by Deane Leonard),2.84,2.94,12.0,2023,179
+4.0,3:51,3.0,3.0,LAC 28,13.0,10.0,Justice Hill up the middle for 2 yards (tackle by Tuli Tuipulotu and Austin Johnson),2.94,1.89,12.0,2023,179
+4.0,2:58,4.0,1.0,LAC 26,13.0,10.0,Justin Tucker 44 yard field goal no good,1.89,-1.2,12.0,2023,179
+4.0,2:57,1.0,10.0,LAC 34,13.0,10.0,Austin Ekeler up the middle for -1 yards (tackle by Odafe Oweh),1.2,0.52,12.0,2023,179
+4.0,2:35,2.0,11.0,LAC 33,13.0,10.0,Justin Herbert pass complete deep left to Alex Erickson for 17 yards,0.52,2.26,12.0,2023,179
+4.0,2:27,1.0,10.0,LAC 50,13.0,10.0,Justin Herbert pass incomplete short right intended for Alex Erickson,2.26,1.71,12.0,2023,179
+4.0,2:23,2.0,10.0,LAC 50,13.0,10.0,Justin Herbert pass complete short middle to Jalen Guyton for 4 yards (tackle by Arthur Maulet and Roquan Smith),1.71,1.55,12.0,2023,179
+4.0,2:00,3.0,6.0,BAL 46,13.0,10.0,Justin Herbert pass incomplete short middle intended for Austin Ekeler (defended by Patrick Queen),1.55,0.2,12.0,2023,179
+4.0,1:54,4.0,6.0,BAL 46,13.0,10.0,"Justin Herbert pass incomplete short left. Penalty on Justin Herbert: Intentional Grounding, 10 yards (accepted)",0.2,-2.65,12.0,2023,179
+4.0,1:54,1.0,10.0,LAC 44,13.0,10.0,Lamar Jackson right tackle for 5 yards (tackle by Eric Kendricks),2.65,2.72,12.0,2023,179
+4.0,1:49,,,,,,Timeout #1 by Los Angeles Chargers,,,12.0,2023,179
+4.0,1:49,2.0,6.0,LAC 39,13.0,10.0,Lamar Jackson up the middle for 2 yards (tackle by Austin Johnson),2.72,2.35,12.0,2023,179
+4.0,1:44,,,,,,Timeout #2 by Los Angeles Chargers,,,12.0,2023,179
+4.0,1:44,3.0,3.0,LAC 37,19.0,10.0,"Zay Flowers left end for 37 yards, touchdown",2.35,7.0,12.0,2023,179
+4.0,1:36,,,LAC 15,20.0,10.0,Justin Tucker kicks extra point good,0.0,0.0,12.0,2023,179
+4.0,1:36,,,BAL 35,20.0,10.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,179
+4.0,1:36,1.0,10.0,LAC 25,20.0,10.0,Justin Herbert pass complete deep right to Keenan Allen for 21 yards,0.61,1.99,12.0,2023,179
+4.0,1:30,1.0,10.0,LAC 46,20.0,10.0,Justin Herbert pass incomplete deep left intended for Keenan Allen,1.99,1.45,12.0,2023,179
+4.0,1:26,2.0,10.0,LAC 46,20.0,10.0,Justin Herbert sacked by Broderick Washington for -9 yards,1.45,-0.43,12.0,2023,179
+4.0,1:02,3.0,19.0,LAC 37,20.0,10.0,Justin Herbert pass incomplete deep right intended for Alex Erickson,-0.43,-0.91,12.0,2023,179
+4.0,0:57,4.0,19.0,LAC 37,20.0,10.0,Justin Herbert pass incomplete short left intended for Keenan Allen,-0.91,-3.12,12.0,2023,179
+4.0,0:53,1.0,10.0,LAC 37,20.0,10.0,Lamar Jackson kneels for -1 yards,3.12,2.44,12.0,2023,179
+4.0,0:26,2.0,11.0,LAC 38,20.0,10.0,Lamar Jackson kneels for -1 yards,2.44,1.62,12.0,2023,179

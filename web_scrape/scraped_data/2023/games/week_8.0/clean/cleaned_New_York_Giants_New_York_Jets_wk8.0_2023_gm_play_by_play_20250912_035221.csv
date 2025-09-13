@@ -1,0 +1,193 @@
+Quarter,Time,Down,ToGo,Location,NYJ,NYG,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Giants won the coin toss and deferred, Jets to receive the opening kickoff.",,,8.0,2023,115
+1,15:00,,,NYG 35,0.0,0.0,"Graham Gano kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,115
+1,15:00,1.0,10.0,NYJ 25,0.0,0.0,Zach Wilson pass complete short right to Breece Hall for 12 yards (tackle by Xavier McKinney),0.61,1.4,8.0,2023,115
+1,14:31,1.0,10.0,NYJ 37,0.0,0.0,Breece Hall left end for 5 yards (tackle by Adoree' Jackson),1.4,1.53,8.0,2023,115
+1,13:50,2.0,5.0,NYJ 42,0.0,0.0,Zach Wilson pass incomplete short right intended for Breece Hall (defended by Leonard Williams),1.53,0.83,8.0,2023,115
+1,13:43,3.0,5.0,NYJ 42,0.0,0.0,"Zach Wilson sacked by Kayvon Thibodeaux for -16 yards. Zach Wilson fumbles (forced by Kayvon Thibodeaux), recovered by Jihad Ward at NYJ-26 and returned for 7 yards (tackle by Connor McGovern and Wes Schweitzer). Penalty on Connor McGovern: Offensive Holding, 10 yards (declined)",0.83,-4.31,8.0,2023,115
+1,13:33,1.0,10.0,NYJ 19,0.0,0.0,Wan'Dale Robinson right end for 7 yards (tackle by C.J. Mosley),4.31,4.92,8.0,2023,115
+1,13:03,2.0,3.0,NYJ 12,0.0,0.0,Saquon Barkley right guard for -1 yards (tackle by Quincy Williams and Ashtyn Davis),4.92,3.96,8.0,2023,115
+1,12:18,3.0,4.0,NYJ 13,0.0,0.0,Tyrod Taylor pass incomplete short right intended for Darius Slayton,3.96,2.64,8.0,2023,115
+1,12:11,4.0,4.0,NYJ 13,0.0,3.0,Graham Gano 31 yard field goal good,2.64,3.0,8.0,2023,115
+1,12:07,,,NYG 35,0.0,3.0,"Graham Gano kicks off 66 yards, returned by Xavier Gipson for 22 yards (tackle by Jashaun Corbin and Cam Brown)",0.0,0.34,8.0,2023,115
+1,12:01,1.0,10.0,NYJ 21,0.0,3.0,Breece Hall right tackle for -1 yards (tackle by A'Shawn Robinson and Kayvon Thibodeaux),0.34,-0.34,8.0,2023,115
+1,11:20,2.0,11.0,NYJ 20,0.0,3.0,Zach Wilson pass complete short left to Allen Lazard for 6 yards (tackle by Adoree' Jackson),-0.34,-0.23,8.0,2023,115
+1,10:34,3.0,5.0,NYJ 26,0.0,3.0,Zach Wilson pass incomplete short right intended for Xavier Gipson,-0.23,-1.63,8.0,2023,115
+1,10:29,4.0,5.0,NYJ 26,0.0,3.0,"Thomas Morstead punts 46 yards, returned by Gunner Olszewski for 9 yards (tackle by Chazz Surratt and Thomas Hennessy)",-1.63,-1.4,8.0,2023,115
+1,10:18,1.0,10.0,NYG 37,0.0,3.0,Tyrod Taylor scrambles right end for 7 yards (tackle by D.J. Reed),1.4,1.8,8.0,2023,115
+1,9:50,2.0,3.0,NYG 44,0.0,3.0,Saquon Barkley left guard for no gain (tackle by Quinton Jefferson),1.8,1.09,8.0,2023,115
+1,9:15,3.0,3.0,NYG 44,0.0,3.0,Tyrod Taylor sacked by Bryce Huff for -4 yards,1.09,-0.72,8.0,2023,115
+1,8:34,4.0,7.0,NYG 40,0.0,3.0,"Jamie Gillan punts 40 yards, returned by Xavier Gipson for 4 yards (tackle by Nick McCloud)",-0.72,-0.54,8.0,2023,115
+1,8:29,1.0,10.0,NYJ 24,0.0,3.0,Breece Hall left tackle for 3 yards (tackle by Micah McFadden),0.54,0.4,8.0,2023,115
+1,7:50,2.0,7.0,NYJ 27,0.0,3.0,Zach Wilson pass complete short middle to Breece Hall for 6 yards (tackle by Bobby Okereke),0.4,0.5,8.0,2023,115
+1,7:10,3.0,1.0,NYJ 33,0.0,3.0,Breece Hall right guard for no gain (tackle by A'Shawn Robinson and Jason Pinnock),0.5,-1.18,8.0,2023,115
+1,6:18,4.0,1.0,NYJ 33,0.0,3.0,"Thomas Morstead punts 51 yards, fair catch by Gunner Olszewski at NYG-16",-1.18,0.14,8.0,2023,115
+1,6:13,1.0,10.0,NYG 16,0.0,3.0,Tyrod Taylor pass incomplete short left intended for Darren Waller (defended by Ashtyn Davis),-0.14,-0.66,8.0,2023,115
+1,6:06,2.0,10.0,NYG 16,0.0,3.0,Saquon Barkley right end for 3 yards (tackle by Bryce Huff),-0.66,-0.95,8.0,2023,115
+1,5:29,3.0,7.0,NYG 19,0.0,3.0,Tyrod Taylor scrambles up the middle for 1 yard (tackle by C.J. Mosley and Bryce Huff),-0.95,-2.03,8.0,2023,115
+1,4:51,4.0,6.0,NYG 20,0.0,3.0,"Jamie Gillan punts 41 yards, fair catch by Xavier Gipson at NYJ-39",-2.03,-1.53,8.0,2023,115
+1,4:49,1.0,10.0,NYJ 39,0.0,3.0,"Penalty on Laken Tomlinson: False Start, 5 yards (accepted) (no play)",1.53,1.2,8.0,2023,115
+1,4:49,1.0,15.0,NYJ 34,0.0,3.0,Zach Wilson pass complete short left to Garrett Wilson for 14 yards (tackle by Deonte Banks),1.2,2.2,8.0,2023,115
+1,4:03,2.0,1.0,NYJ 48,0.0,3.0,Dalvin Cook right end for 1 yard (tackle by Micah McFadden),2.2,2.19,8.0,2023,115
+1,3:26,1.0,10.0,NYJ 49,0.0,3.0,Zach Wilson pass incomplete short left intended for Garrett Wilson,2.19,1.65,8.0,2023,115
+1,3:22,2.0,10.0,NYJ 49,0.0,3.0,Zach Wilson pass incomplete short right intended for Garrett Wilson (defended by Deonte Banks),1.65,0.96,8.0,2023,115
+1,3:18,3.0,10.0,NYJ 49,0.0,3.0,Zach Wilson pass incomplete short middle intended for Michael Carter (defended by Isaiah Simmons),0.96,-0.13,8.0,2023,115
+1,3:12,4.0,10.0,NYJ 49,0.0,3.0,Thomas Morstead punts 49 yards downed by Jamien Sherwood,-0.13,0.38,8.0,2023,115
+1,3:01,1.0,10.0,NYG 2,0.0,3.0,Saquon Barkley up the middle for 2 yards (tackle by Will McDonald),-0.38,-0.63,8.0,2023,115
+1,2:33,2.0,8.0,NYG 4,0.0,3.0,Saquon Barkley right guard for 4 yards (tackle by C.J. Mosley),-0.63,-0.72,8.0,2023,115
+1,2:01,3.0,4.0,NYG 8,0.0,3.0,Tyrod Taylor pass complete short left to Saquon Barkley for 1 yard (tackle by Quincy Williams),-0.72,-2.49,8.0,2023,115
+1,1:24,4.0,3.0,NYG 9,0.0,3.0,"Jamie Gillan punts 51 yards, returned by Xavier Gipson for 10 yards (tackle by Darnay Holmes)",-2.49,-2.26,8.0,2023,115
+1,1:18,1.0,10.0,NYJ 50,6.0,3.0,"Zach Wilson pass complete short middle to Breece Hall for 50 yards, touchdown. Penalty on Cordale Flott: Illegal Contact, 5 yards (declined)",2.26,7.0,8.0,2023,115
+1,1:06,,,NYG 15,7.0,3.0,Greg Zuerlein kicks extra point good,0.0,0.0,8.0,2023,115
+1,1:06,,,NYJ 35,7.0,3.0,"Greg Zuerlein kicks off 64 yards, returned by Parris Campbell for 24 yards (tackle by Chazz Surratt and Jamien Sherwood)",0.0,0.61,8.0,2023,115
+1,0:59,1.0,10.0,NYG 25,7.0,3.0,Tyrod Taylor pass complete short left to Darius Slayton for -1 yards (tackle by Ashtyn Davis),0.61,-0.07,8.0,2023,115
+1,0:34,2.0,11.0,NYG 24,7.0,3.0,"Saquon Barkley up the middle for 6 yards (tackle by Micheal Clemons and C.J. Mosley). Penalty on Quincy Williams: Unnecessary Roughness / Defense, 15 yards (accepted)",-0.07,1.93,8.0,2023,115
+2,15:00,1.0,10.0,NYG 45,7.0,3.0,Tyrod Taylor scrambles up the middle for 17 yards (tackle by Michael Carter and Quincy Williams),1.93,3.05,8.0,2023,115
+2,14:34,1.0,10.0,NYJ 38,7.0,3.0,Saquon Barkley up the middle for 1 yard (tackle by Solomon Thomas and Jermaine Johnson),3.05,2.64,8.0,2023,115
+2,14:04,2.0,9.0,NYJ 37,7.0,3.0,Tyrod Taylor scrambles up the middle for 4 yards (tackle by Michael Carter),2.64,2.48,8.0,2023,115
+2,13:31,3.0,5.0,NYJ 33,7.0,3.0,Tyrod Taylor pass complete short left to Darren Waller for 4 yards (tackle by Sauce Gardner),2.48,1.62,8.0,2023,115
+2,12:48,4.0,1.0,NYJ 29,7.0,3.0,Graham Gano 47 yard field goal no good,1.62,-1.4,8.0,2023,115
+2,12:43,1.0,10.0,NYJ 37,7.0,3.0,Breece Hall up the middle for no gain (tackle by Micah McFadden),1.4,0.86,8.0,2023,115
+2,12:05,2.0,10.0,NYJ 37,7.0,3.0,Zach Wilson pass complete short right to Garrett Wilson for 8 yards,0.86,1.22,8.0,2023,115
+2,11:48,3.0,2.0,NYJ 45,7.0,3.0,Zach Wilson pass incomplete short right intended for Tyler Conklin (defended by Jason Pinnock),1.22,-0.39,8.0,2023,115
+2,11:46,4.0,2.0,NYJ 45,7.0,3.0,Thomas Morstead punts 52 yards downed by Brandin Echols,-0.39,0.38,8.0,2023,115
+2,11:35,1.0,10.0,NYG 3,7.0,3.0,"Saquon Barkley up the middle for no gain (tackle by Adrian Amos and John Franklin-Myers). Penalty on John Franklin-Myers: Defensive Offside, 5 yards (accepted) (no play)",-0.38,-0.19,8.0,2023,115
+2,11:20,1.0,5.0,NYG 8,7.0,3.0,Saquon Barkley left guard for 1 yard (tackle by Solomon Thomas) (no play),-0.19,0.48,8.0,2023,115
+2,11:05,1.0,10.0,NYG 23,7.0,3.0,Saquon Barkley right guard for 3 yards (tackle by Tony Adams),0.48,0.34,8.0,2023,115
+2,10:44,2.0,7.0,NYG 26,7.0,3.0,Tyrod Taylor pass incomplete short right,0.34,-0.36,8.0,2023,115
+2,10:39,3.0,7.0,NYG 26,7.0,3.0,"Penalty on Tyre Phillips: False Start, 5 yards (accepted) (no play)",-0.36,-1.02,8.0,2023,115
+2,10:39,3.0,12.0,NYG 21,7.0,3.0,Tyrod Taylor pass complete short left to Matt Breida for 4 yards (tackle by C.J. Mosley and Bryce Huff),-1.02,-1.7,8.0,2023,115
+2,10:01,4.0,8.0,NYG 25,7.0,3.0,Jamie Gillan punts 58 yards out of bounds,-1.7,0.06,8.0,2023,115
+2,10:01,1.0,10.0,NYJ 17,7.0,3.0,Zach Wilson pass incomplete short left,-0.06,-0.58,8.0,2023,115
+2,9:54,2.0,10.0,NYJ 17,7.0,3.0,Zach Wilson pass complete short middle to Garrett Wilson for 14 yards (tackle by Xavier McKinney and Jason Pinnock),-0.58,1.0,8.0,2023,115
+2,9:12,1.0,10.0,NYJ 31,7.0,3.0,Dalvin Cook left end for 4 yards (tackle by Bobby Okereke and D.J. Davidson),1.0,1.0,8.0,2023,115
+2,8:29,2.0,6.0,NYJ 35,7.0,3.0,Zach Wilson pass incomplete short left intended for Allen Lazard,1.0,0.3,8.0,2023,115
+2,8:22,,,,,,Timeout #1 by New York Jets,,,8.0,2023,115
+2,8:22,3.0,6.0,NYJ 35,7.0,3.0,Zach Wilson pass incomplete short middle intended for Allen Lazard (defended by Cordale Flott),0.3,-1.04,8.0,2023,115
+2,8:18,4.0,6.0,NYJ 35,7.0,3.0,"Thomas Morstead punts 52 yards, returned by Gunner Olszewski for 8 yards (tackle by Jeremy Ruckert)",-1.04,-0.34,8.0,2023,115
+2,8:07,1.0,10.0,NYG 21,7.0,3.0,Tyrod Taylor scrambles up the middle for 4 yards (tackle by Quincy Williams and C.J. Mosley),0.34,0.34,8.0,2023,115
+2,7:41,2.0,6.0,NYG 25,7.0,3.0,"Tyrod Taylor sacked by and Quinton Jefferson for -3 yards and C.J. Mosley for -3 yards. Tyrod Taylor fumbles, recovered by Tyrod Taylor at NYG-22",0.34,-0.76,8.0,2023,115
+2,7:10,3.0,9.0,NYG 22,7.0,3.0,Saquon Barkley right tackle for 6 yards (tackle by Quincy Williams),-0.76,-1.5,8.0,2023,115
+2,6:35,4.0,3.0,NYG 28,7.0,3.0,"Jamie Gillan punts 56 yards, fair catch by Xavier Gipson at NYJ-16",-1.5,0.14,8.0,2023,115
+2,6:31,1.0,10.0,NYJ 16,7.0,3.0,Zach Wilson pass complete short right to C.J. Uzomah for 19 yards (tackle by Boogie Basham),-0.14,1.27,8.0,2023,115
+2,5:46,1.0,10.0,NYJ 35,7.0,3.0,Breece Hall left guard for 3 yards (tackle by Micah McFadden and Boogie Basham),1.27,1.13,8.0,2023,115
+2,5:06,2.0,7.0,NYJ 38,7.0,3.0,Xavier Gipson right end for 3 yards (tackle by Dexter Lawrence and Bobby Okereke),1.13,0.83,8.0,2023,115
+2,4:20,3.0,4.0,NYJ 41,7.0,3.0,"Zach Wilson sacked by Dexter Lawrence for -6 yards. Penalty on Mekhi Becton: Unnecessary Roughness / Offense, 15 yards (accepted)",0.83,-2.03,8.0,2023,115
+2,4:13,4.0,25.0,NYJ 20,7.0,3.0,"Thomas Morstead punts 40 yards, returned by Gunner Olszewski for 1 yard (tackle by Chazz Surratt). Penalty on Isaiah Simmons: Personal Foul / Offense, 15 yards (accepted)",-2.03,-0.67,8.0,2023,115
+2,3:49,1.0,10.0,NYG 26,7.0,3.0,Tommy DeVito pass incomplete short right intended for Daniel Bellinger (defended by Jordan Whitehead),0.67,0.13,8.0,2023,115
+2,3:45,2.0,10.0,NYG 26,7.0,3.0,Saquon Barkley up the middle for 4 yards (tackle by Quinnen Williams),0.13,-0.03,8.0,2023,115
+2,3:08,3.0,6.0,NYG 30,7.0,3.0,Tommy DeVito scrambles left end for 5 yards (tackle by C.J. Mosley),-0.03,-1.04,8.0,2023,115
+2,2:30,4.0,1.0,NYG 35,7.0,3.0,Jamie Gillan punts 23 yards out of bounds,-1.04,-1.73,8.0,2023,115
+2,2:28,1.0,10.0,NYJ 42,7.0,3.0,"Zach Wilson aborted snap, recovered by Micah McFadden at NYJ-41",1.73,-2.85,8.0,2023,115
+2,2:24,1.0,10.0,NYJ 41,7.0,3.0,Saquon Barkley up the middle for 6 yards (tackle by John Franklin-Myers and Jermaine Johnson),2.85,3.12,8.0,2023,115
+2,2:00,2.0,4.0,NYJ 35,7.0,3.0,Tommy DeVito sacked by Jermaine Johnson for -4 yards,3.12,1.88,8.0,2023,115
+2,1:20,3.0,8.0,NYJ 39,7.0,3.0,Tommy DeVito pass incomplete short left intended for Saquon Barkley (defended by C.J. Mosley),1.88,0.66,8.0,2023,115
+2,1:17,4.0,8.0,NYJ 39,7.0,3.0,"Penalty on NYG: Delay of Game, 6 yards (accepted) (no play)",0.66,0.27,8.0,2023,115
+2,1:15,4.0,14.0,NYJ 45,7.0,3.0,"Jamie Gillan punts 35 yards, fair catch by D.J. Reed at NYJ-10",0.27,0.38,8.0,2023,115
+2,1:11,1.0,10.0,NYJ 10,7.0,3.0,Michael Carter up the middle for 1 yard (tackle by Leonard Williams and Kayvon Thibodeaux),-0.38,-0.71,8.0,2023,115
+2,1:07,,,,,,Timeout #1 by New York Giants,,,8.0,2023,115
+2,1:07,2.0,9.0,NYJ 11,7.0,3.0,Michael Carter left end for 1 yard (tackle by Bobby Okereke),-0.71,-1.19,8.0,2023,115
+2,1:00,3.0,8.0,NYJ 12,7.0,3.0,Zach Wilson pass incomplete short left intended for Garrett Wilson (defended by Deonte Banks),-1.19,-2.49,8.0,2023,115
+2,0:53,4.0,8.0,NYJ 12,7.0,3.0,"Thomas Morstead punts 55 yards, returned by Gunner Olszewski for 15 yards (tackle by Samuel Eguavoen and Thomas Hennessy)",-2.49,-2.13,8.0,2023,115
+2,0:41,1.0,10.0,NYG 48,7.0,3.0,Tommy DeVito pass incomplete short right intended for Wan'Dale Robinson,2.13,1.58,8.0,2023,115
+2,0:38,2.0,10.0,NYG 48,7.0,3.0,Tommy DeVito sacked by Jermaine Johnson for -5 yards,1.58,0.23,8.0,2023,115
+2,0:12,3.0,15.0,NYG 43,7.0,3.0,Tommy DeVito scrambles right end for 3 yards (tackle by Sauce Gardner),0.23,-0.32,8.0,2023,115
+2,0:08,4.0,12.0,NYG 46,7.0,3.0,Jamie Gillan punts 42 yards downed by Nick McCloud,-0.32,1.99,8.0,2023,115
+3,15:00,,,NYJ 35,7.0,3.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,115
+3,15:00,1.0,10.0,NYG 25,7.0,3.0,Saquon Barkley left end for 6 yards (tackle by Tony Adams and Jordan Whitehead),0.61,0.87,8.0,2023,115
+3,14:19,2.0,4.0,NYG 31,7.0,3.0,Saquon Barkley up the middle for 34 yards (tackle by Jordan Whitehead),0.87,3.25,8.0,2023,115
+3,13:44,1.0,10.0,NYJ 35,7.0,3.0,Matt Breida right tackle for no gain (tackle by Quincy Williams),3.25,2.7,8.0,2023,115
+3,13:12,2.0,10.0,NYJ 35,7.0,3.0,"Tommy DeVito pass incomplete short left intended for Wan'Dale Robinson. Penalty on Quincy Williams: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",2.7,4.24,8.0,2023,115
+3,13:10,1.0,10.0,NYJ 20,7.0,3.0,Saquon Barkley up the middle for -4 yards (tackle by Quinnen Williams),4.24,3.15,8.0,2023,115
+3,12:32,2.0,14.0,NYJ 24,7.0,3.0,Saquon Barkley right tackle for 8 yards (tackle by Sauce Gardner),3.15,3.52,8.0,2023,115
+3,11:53,3.0,6.0,NYJ 16,7.0,3.0,Saquon Barkley up the middle for 6 yards (tackle by Tony Adams and Jordan Whitehead),3.52,4.91,8.0,2023,115
+3,11:17,1.0,10.0,NYJ 10,7.0,3.0,Saquon Barkley right tackle for -1 yards (tackle by John Franklin-Myers),4.91,4.02,8.0,2023,115
+3,10:47,2.0,11.0,NYJ 11,7.0,3.0,Matt Breida up the middle for 1 yard (tackle by Quincy Williams and John Franklin-Myers),4.02,3.13,8.0,2023,115
+3,10:09,3.0,10.0,NYJ 10,7.0,3.0,"Tommy DeVito up the middle for no gain (tackle by Quincy Williams). Penalty on Jermaine Johnson: Unnecessary Roughness / Defense, 5 yards (accepted) (no play)",3.13,6.06,8.0,2023,115
+3,9:51,1.0,5.0,NYJ 5,7.0,3.0,Saquon Barkley up the middle for -1 yards (tackle by Micheal Clemons and Bryce Huff),6.06,4.95,8.0,2023,115
+3,9:09,2.0,6.0,NYJ 6,7.0,3.0,Tommy DeVito pass incomplete short right,4.95,4.04,8.0,2023,115
+3,9:03,3.0,6.0,NYJ 6,7.0,9.0,"Tommy DeVito for 6 yards, touchdown",4.04,7.0,8.0,2023,115
+3,8:59,,,NYJ 15,7.0,10.0,Graham Gano kicks extra point good,0.0,0.0,8.0,2023,115
+3,8:59,,,NYG 35,7.0,10.0,"Graham Gano kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,115
+3,8:59,1.0,10.0,NYJ 25,7.0,10.0,Breece Hall right guard for -1 yards (tackle by Bobby Okereke and Kayvon Thibodeaux),0.61,-0.07,8.0,2023,115
+3,8:22,2.0,11.0,NYJ 24,7.0,10.0,"Penalty on Max Mitchell: False Start, 5 yards (accepted) (no play)",-0.07,-0.81,8.0,2023,115
+3,7:59,2.0,16.0,NYJ 19,7.0,10.0,"Zach Wilson pass incomplete short middle intended for Garrett Wilson. Penalty on Deonte Banks: Defensive Pass Interference, 7 yards (accepted) (no play)",-0.81,0.67,8.0,2023,115
+3,7:56,1.0,10.0,NYJ 26,7.0,10.0,Breece Hall right guard for 4 yards (tackle by Dexter Lawrence),0.67,0.67,8.0,2023,115
+3,7:20,2.0,6.0,NYJ 30,7.0,10.0,Zach Wilson pass incomplete short right intended for Garrett Wilson,0.67,-0.03,8.0,2023,115
+3,7:14,3.0,6.0,NYJ 30,7.0,10.0,Zach Wilson scrambles right tackle for 2 yards (tackle by Kayvon Thibodeaux),-0.03,-1.24,8.0,2023,115
+3,6:40,4.0,4.0,NYJ 32,7.0,10.0,"Thomas Morstead punts 45 yards, returned by Gunner Olszewski for 11 yards (tackle by Jamien Sherwood and Jeremy Ruckert)",-1.24,-1.2,8.0,2023,115
+3,6:23,1.0,10.0,NYG 34,7.0,10.0,Saquon Barkley right guard for 1 yard (tackle by Quincy Williams and Tony Adams),1.2,0.79,8.0,2023,115
+3,5:51,2.0,9.0,NYG 35,7.0,10.0,Saquon Barkley up the middle for -1 yards (tackle by Jordan Whitehead and Quinton Jefferson),0.79,-0.03,8.0,2023,115
+3,5:14,3.0,10.0,NYG 34,7.0,10.0,"Saquon Barkley right tackle for 3 yards (tackle by Tony Adams). Penalty on Mark Glowinski: Offensive Holding, 10 yards (declined)",-0.03,-0.91,8.0,2023,115
+3,5:02,4.0,7.0,NYG 37,7.0,10.0,Jamie Gillan punts 40 yards out of bounds,-0.91,-0.48,8.0,2023,115
+3,4:58,1.0,10.0,NYJ 23,7.0,10.0,Breece Hall left tackle for 2 yards (tackle by Xavier McKinney and Oshane Ximines),0.48,0.2,8.0,2023,115
+3,4:26,2.0,8.0,NYJ 25,7.0,10.0,Zach Wilson pass complete short left to Garrett Wilson for 7 yards (tackle by Deonte Banks),0.2,0.43,8.0,2023,115
+3,3:41,3.0,1.0,NYJ 32,7.0,10.0,Zach Wilson pass incomplete short left intended for Tyler Conklin,0.43,-1.24,8.0,2023,115
+3,3:36,4.0,1.0,NYJ 32,7.0,10.0,"Thomas Morstead punts 53 yards, returned by Gunner Olszewski for 12 yards. Gunner Olszewski fumbles (forced by Ashtyn Davis). Gunner Olszewski fumbles out of bounds",-1.24,-0.74,8.0,2023,115
+3,3:24,1.0,10.0,NYG 27,7.0,10.0,Wan'Dale Robinson left end for 10 yards (tackle by Tony Adams),0.74,1.4,8.0,2023,115
+3,2:49,1.0,10.0,NYG 37,7.0,10.0,Saquon Barkley left tackle for 4 yards (tackle by Quinnen Williams),1.4,1.4,8.0,2023,115
+3,2:10,2.0,6.0,NYG 41,7.0,10.0,Saquon Barkley right end for -5 yards (tackle by Quincy Williams),1.4,0.04,8.0,2023,115
+3,1:27,3.0,11.0,NYG 36,7.0,10.0,Matt Breida left guard for 6 yards (tackle by Quinton Jefferson),0.04,-0.59,8.0,2023,115
+3,0:41,4.0,5.0,NYG 42,7.0,10.0,"Jamie Gillan punts 42 yards, fair catch by Xavier Gipson at NYJ-16",-0.59,0.14,8.0,2023,115
+3,0:36,1.0,10.0,NYJ 16,7.0,10.0,Zach Wilson pass complete short left to Breece Hall for -1 yards (tackle by Bobby Okereke),-0.14,-0.78,8.0,2023,115
+4,15:00,2.0,11.0,NYJ 15,7.0,10.0,Zach Wilson pass complete short right to Breece Hall for 10 yards (tackle by Jihad Ward),-0.78,-0.2,8.0,2023,115
+4,14:18,3.0,1.0,NYJ 25,7.0,10.0,Zach Wilson pass incomplete short right intended for Breece Hall,-0.2,-1.7,8.0,2023,115
+4,14:15,4.0,1.0,NYJ 25,7.0,10.0,"Thomas Morstead punts 43 yards, fair catch by Gunner Olszewski at NYG-32",-1.7,-1.07,8.0,2023,115
+4,14:08,1.0,10.0,NYG 32,7.0,10.0,Saquon Barkley left tackle for 3 yards (tackle by Tony Adams and Quinnen Williams),1.07,0.93,8.0,2023,115
+4,13:29,2.0,7.0,NYG 35,7.0,10.0,Saquon Barkley left end for no gain (tackle by Quinnen Williams and Michael Carter),0.93,0.23,8.0,2023,115
+4,12:51,3.0,7.0,NYG 35,7.0,10.0,Saquon Barkley up the middle for 1 yard (tackle by C.J. Mosley and Jermaine Johnson),0.23,-0.98,8.0,2023,115
+4,12:05,4.0,6.0,NYG 36,7.0,10.0,"Jamie Gillan punts 42 yards, returned by Xavier Gipson for 6 yards (tackle by Jashaun Corbin and Micah McFadden)",-0.98,-0.81,8.0,2023,115
+4,11:53,1.0,10.0,NYJ 28,7.0,10.0,Garrett Wilson right end for 6 yards (tackle by Cordale Flott),0.81,1.07,8.0,2023,115
+4,11:13,2.0,4.0,NYJ 34,7.0,10.0,"Zach Wilson pass complete deep left to Garrett Wilson for 17 yards NYG challenged the pass completion ruling, and the play was upheld.",1.07,2.32,8.0,2023,115
+4,11:06,1.0,10.0,NYG 49,7.0,10.0,Breece Hall left end for -3 yards (tackle by Kayvon Thibodeaux and Rakeem Nunez-Roches),2.32,1.38,8.0,2023,115
+4,10:24,2.0,13.0,NYJ 48,7.0,10.0,Zach Wilson pass incomplete deep middle intended for Jeremy Ruckert,1.38,0.7,8.0,2023,115
+4,10:20,3.0,13.0,NYJ 48,7.0,10.0,Zach Wilson scrambles right end for 6 yards (tackle by Bobby Okereke),0.7,0.2,8.0,2023,115
+4,9:29,4.0,7.0,NYG 46,7.0,10.0,Thomas Morstead punts 43 yards out of bounds,0.2,0.38,8.0,2023,115
+4,9:21,1.0,10.0,NYG 3,7.0,10.0,Saquon Barkley up the middle for 2 yards (tackle by Quincy Williams),-0.38,-0.63,8.0,2023,115
+4,8:39,2.0,8.0,NYG 5,7.0,10.0,Saquon Barkley left tackle for 5 yards (tackle by Quinnen Williams),-0.63,-0.6,8.0,2023,115
+4,7:59,3.0,3.0,NYG 10,7.0,10.0,Tommy DeVito right end for -2 yards (tackle by Jordan Whitehead),-0.6,-2.49,8.0,2023,115
+4,7:19,4.0,5.0,NYG 8,7.0,10.0,"Penalty on Micheal Clemons: Neutral Zone Infraction, 5 yards (accepted) (no play)",-2.49,-0.32,8.0,2023,115
+4,7:19,1.0,10.0,NYG 13,7.0,10.0,Saquon Barkley right tackle for 9 yards (tackle by C.J. Mosley and Quinton Jefferson),-0.32,0.49,8.0,2023,115
+4,6:35,2.0,1.0,NYG 22,7.0,10.0,Saquon Barkley left guard for 6 yards (tackle by Tony Adams),0.49,0.81,8.0,2023,115
+4,5:44,1.0,10.0,NYG 28,7.0,10.0,Saquon Barkley right guard for 9 yards (tackle by D.J. Reed),0.81,1.48,8.0,2023,115
+4,5:03,2.0,1.0,NYG 37,7.0,10.0,Saquon Barkley left guard for 2 yards (tackle by Quinnen Williams and Jordan Whitehead),1.48,1.53,8.0,2023,115
+4,4:20,1.0,10.0,NYG 39,7.0,10.0,Matt Breida right guard for 3 yards (tackle by Jermaine Johnson),1.53,1.39,8.0,2023,115
+4,3:35,2.0,7.0,NYG 42,7.0,10.0,Matt Breida right tackle for 3 yards (tackle by C.J. Mosley),1.39,1.09,8.0,2023,115
+4,2:54,3.0,4.0,NYG 45,7.0,10.0,Saquon Barkley right guard for -2 yards (tackle by Tony Adams and Quincy Williams),1.09,-0.52,8.0,2023,115
+4,2:47,,,,,,Timeout #1 by New York Jets,,,8.0,2023,115
+4,2:47,4.0,6.0,NYG 43,7.0,10.0,Jamie Gillan punts 32 yards downed by Carter Coughlin,-0.52,-0.61,8.0,2023,115
+4,2:38,1.0,10.0,NYJ 25,7.0,10.0,Zach Wilson pass complete short left to Breece Hall for -1 yards (tackle by Bobby Okereke),0.61,-0.07,8.0,2023,115
+4,2:34,2.0,11.0,NYJ 24,7.0,10.0,Zach Wilson pass incomplete deep left intended for Garrett Wilson (defended by Cordale Flott),-0.07,-0.76,8.0,2023,115
+4,2:27,3.0,11.0,NYJ 24,7.0,10.0,Zach Wilson scrambles left end for 17 yards (tackle by Xavier McKinney),-0.76,1.66,8.0,2023,115
+4,2:19,1.0,10.0,NYJ 41,7.0,10.0,Zach Wilson sacked by Kayvon Thibodeaux for -10 yards,1.66,-0.23,8.0,2023,115
+4,2:00,2.0,20.0,NYJ 31,7.0,10.0,Zach Wilson pass complete short left to Allen Lazard for 10 yards (tackle by Adoree' Jackson),-0.23,0.43,8.0,2023,115
+4,1:36,3.0,10.0,NYJ 41,7.0,10.0,"Zach Wilson pass incomplete short middle intended for Allen Lazard (defended by Adoree' Jackson) Replay Assistant challenged the pass completion ruling, and the play was upheld.",0.43,-0.65,8.0,2023,115
+4,1:33,4.0,10.0,NYJ 41,7.0,10.0,Zach Wilson sacked by Kayvon Thibodeaux for -15 yards,-0.65,-3.84,8.0,2023,115
+4,1:26,1.0,10.0,NYJ 26,7.0,10.0,Saquon Barkley left end for 6 yards (tackle by Jordan Whitehead),3.84,4.11,8.0,2023,115
+4,1:19,,,,,,Timeout #2 by New York Jets,,,8.0,2023,115
+4,1:19,2.0,4.0,NYJ 20,7.0,10.0,Saquon Barkley right tackle for 1 yard (tackle by Jordan Whitehead and Tony Adams),4.11,3.57,8.0,2023,115
+4,1:14,,,,,,Timeout #3 by New York Jets,,,8.0,2023,115
+4,1:14,3.0,3.0,NYJ 19,7.0,10.0,Saquon Barkley right tackle for 2 yards (tackle by John Franklin-Myers and Quinton Jefferson),3.57,2.46,8.0,2023,115
+4,0:28,,,,,,Timeout #2 by New York Giants,,,8.0,2023,115
+4,0:28,4.0,1.0,NYJ 17,7.0,10.0,Graham Gano 35 yard field goal no good,2.46,-0.61,8.0,2023,115
+4,0:24,1.0,10.0,NYJ 25,7.0,10.0,"Zach Wilson pass complete deep middle to Garrett Wilson for 29 yards (tackle by Xavier McKinney). Penalty on Kayvon Thibodeaux: Defensive Offside, 5 yards (declined)",0.61,2.52,8.0,2023,115
+4,0:17,1.0,10.0,NYG 46,7.0,10.0,Zach Wilson pass complete deep middle to Allen Lazard for 29 yards (tackle by Adoree' Jackson),2.52,4.44,8.0,2023,115
+4,0:01,1.0,10.0,NYG 17,7.0,10.0,Zach Wilson spiked the ball,4.44,3.85,8.0,2023,115
+4,0:01,,,,,,Timeout #3 by New York Giants,,,8.0,2023,115
+4,0:01,2.0,10.0,NYG 17,10.0,10.0,Greg Zuerlein 35 yard field goal good,3.85,3.0,8.0,2023,115
+,,,,,,,"Giants won the coin toss, Giants to receive the overtime kickoff.",,,8.0,2023,115
+OT,10:00,,,NYJ 35,10.0,10.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,115
+OT,10:00,1.0,10.0,NYG 25,10.0,10.0,"Tommy DeVito pass complete short right to Saquon Barkley for no gain. Penalty on Daniel Bellinger: Offensive Holding, 10 yards (accepted) (no play)",0.61,-0.41,8.0,2023,115
+OT,9:42,1.0,20.0,NYG 15,10.0,10.0,Tommy DeVito pass complete short right to Saquon Barkley for no gain (tackle by C.J. Mosley),-0.41,-1.43,8.0,2023,115
+OT,9:03,2.0,20.0,NYG 15,10.0,10.0,Tommy DeVito pass complete short right to Saquon Barkley for -1 yards (tackle by Sauce Gardner),-1.43,-2.55,8.0,2023,115
+OT,8:23,3.0,21.0,NYG 14,10.0,10.0,Tommy DeVito pass incomplete short middle intended for Saquon Barkley (defended by Quincy Williams),-2.55,-2.47,8.0,2023,115
+OT,8:21,4.0,21.0,NYG 14,10.0,10.0,Jamie Gillan punts 47 yards out of bounds,-2.47,-1.53,8.0,2023,115
+OT,8:11,1.0,10.0,NYJ 39,10.0,10.0,Breece Hall left tackle for no gain (tackle by Kayvon Thibodeaux),1.53,0.99,8.0,2023,115
+OT,7:33,2.0,10.0,NYJ 39,10.0,10.0,Zach Wilson pass incomplete short right intended for Breece Hall,0.99,0.3,8.0,2023,115
+OT,7:26,3.0,10.0,NYJ 39,10.0,10.0,"Zach Wilson pass complete short left to Garrett Wilson for 11 yards (tackle by Deonte Banks). Penalty on Deonte Banks: Defensive Pass Interference, 15 yards (declined)",0.3,2.26,8.0,2023,115
+OT,7:05,1.0,10.0,NYJ 50,10.0,10.0,Breece Hall right guard for 5 yards (tackle by Bobby Okereke and Jason Pinnock),2.26,2.39,8.0,2023,115
+OT,6:22,2.0,5.0,NYG 45,10.0,10.0,Zach Wilson pass incomplete short left intended for Garrett Wilson,2.39,1.69,8.0,2023,115
+OT,6:17,3.0,5.0,NYG 45,10.0,10.0,"Zach Wilson pass incomplete deep right intended for Malik Taylor. Penalty on Adoree' Jackson: Defensive Pass Interference, 30 yards (accepted) (no play)",1.69,4.58,8.0,2023,115
+OT,6:12,,,,,,Timeout #1 by New York Jets,,,8.0,2023,115
+OT,6:12,,,,,,Timeout #1 by New York Giants,,,8.0,2023,115
+OT,6:12,1.0,10.0,NYG 15,13.0,10.0,Greg Zuerlein 33 yard field goal good,4.58,3.0,8.0,2023,115

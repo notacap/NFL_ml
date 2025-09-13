@@ -1,0 +1,149 @@
+Quarter,Time,Down,ToGo,Location,LAR,NYJ,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Jets won the coin toss and deferred, Rams to receive the opening kickoff.",,,16.0,2024,233
+1.0,15:00,,,NYJ 35,0.0,0.0,"Anders Carlson kicks off 63 yards, returned by Jordan Whittington for 19 yards (tackle by Marcelino McCrary-Ball)",0.0,0.34,16.0,2024,233
+1.0,14:55,1.0,10.0,LAR 21,0.0,0.0,Matthew Stafford pass complete short left to Puka Nacua for 9 yards (tackle by Jamien Sherwood),0.34,1.02,16.0,2024,233
+1.0,14:26,2.0,1.0,LAR 30,0.0,0.0,Kyren Williams up the middle for 3 yards (tackle by Javon Kinlaw),1.02,1.14,16.0,2024,233
+1.0,13:48,1.0,10.0,LAR 33,0.0,0.0,Matthew Stafford pass incomplete short right intended for Colby Parkinson (defended by Will McDonald),1.14,0.59,16.0,2024,233
+1.0,13:39,2.0,10.0,LAR 33,0.0,0.0,Kyren Williams right guard for 7 yards (tackle by Will McDonald and Chuck Clark),0.59,0.83,16.0,2024,233
+1.0,13:01,3.0,3.0,LAR 40,0.0,0.0,Kyren Williams right guard for 9 yards (tackle by Tony Adams and Isaiah Oliver),0.83,2.19,16.0,2024,233
+1.0,12:26,1.0,10.0,LAR 49,0.0,0.0,Kyren Williams up the middle for 8 yards (tackle by Tony Adams and Chuck Clark),2.19,2.73,16.0,2024,233
+1.0,11:47,2.0,2.0,NYJ 43,0.0,0.0,Kyren Williams left guard for no gain (tackle by Quincy Williams and Leonard Taylor),2.73,2.01,16.0,2024,233
+1.0,11:03,3.0,2.0,NYJ 43,0.0,0.0,Kyren Williams left tackle for 3 yards (tackle by Sauce Gardner and Jamien Sherwood),2.01,2.92,16.0,2024,233
+1.0,10:27,1.0,10.0,NYJ 40,0.0,0.0,Matthew Stafford pass complete short right to Puka Nacua for no gain (tackle by Chuck Clark),2.92,2.37,16.0,2024,233
+1.0,9:47,2.0,10.0,NYJ 40,0.0,0.0,Blake Corum up the middle for 3 yards (tackle by Isaiah Oliver and Will McDonald),2.37,2.08,16.0,2024,233
+1.0,9:01,3.0,7.0,NYJ 37,0.0,0.0,Matthew Stafford pass incomplete short right intended for Puka Nacua (defended by Haason Reddick),2.08,0.79,16.0,2024,233
+1.0,8:55,4.0,7.0,NYJ 37,0.0,0.0,Ethan Evans punts 36 yards downed by Jake Hummel,0.79,0.38,16.0,2024,233
+1.0,8:45,1.0,10.0,NYJ 1,0.0,0.0,Breece Hall left guard for 7 yards (tackle by Bobby Brown),-0.38,-0.27,16.0,2024,233
+1.0,8:09,2.0,3.0,NYJ 8,0.0,0.0,Breece Hall left end for 5 yards (tackle by Byron Young),-0.27,-0.32,16.0,2024,233
+1.0,7:33,1.0,10.0,NYJ 13,0.0,0.0,Aaron Rodgers pass complete short left to Tyler Conklin for 12 yards (tackle by Ahkello Witherspoon),-0.32,0.61,16.0,2024,233
+1.0,6:48,1.0,10.0,NYJ 25,0.0,0.0,Aaron Rodgers pass incomplete short right intended for Garrett Wilson,0.61,0.06,16.0,2024,233
+1.0,6:41,2.0,10.0,NYJ 25,0.0,0.0,Breece Hall left guard for 3 yards (tackle by Omar Speights),0.06,-0.23,16.0,2024,233
+1.0,6:01,3.0,7.0,NYJ 28,0.0,0.0,Aaron Rodgers pass complete short left to Garrett Wilson for 15 yards (tackle by Kamren Curl and Jaylen McCollough),-0.23,1.8,16.0,2024,233
+1.0,5:19,1.0,10.0,NYJ 43,0.0,0.0,Aaron Rodgers pass complete short left to Davante Adams for 9 yards (tackle by Quentin Lake),1.8,2.47,16.0,2024,233
+1.0,4:52,2.0,1.0,LAR 48,0.0,0.0,Aaron Rodgers pass complete deep left to Tyler Conklin for 20 yards (tackle by Ahkello Witherspoon),2.47,3.71,16.0,2024,233
+1.0,4:09,1.0,10.0,LAR 28,0.0,0.0,Braelon Allen left tackle for 1 yard (tackle by Tyler Davis),3.71,3.3,16.0,2024,233
+1.0,3:27,2.0,9.0,LAR 27,0.0,0.0,Breece Hall right tackle for 3 yards (tackle by Jared Verse),3.3,3.01,16.0,2024,233
+1.0,2:47,3.0,6.0,LAR 24,0.0,0.0,Aaron Rodgers pass complete short left to Breece Hall for 4 yards (tackle by Braden Fiske),3.01,2.25,16.0,2024,233
+1.0,2:00,4.0,2.0,LAR 20,0.0,0.0,Aaron Rodgers pass complete short left to Davante Adams for 8 yards (tackle by Jaylen McCollough),2.25,4.78,16.0,2024,233
+1.0,1:19,1.0,10.0,LAR 12,0.0,0.0,Breece Hall left end for 1 yard (tackle by Jared Verse and Christian Rozeboom),4.78,4.27,16.0,2024,233
+1.0,0:30,2.0,9.0,LAR 11,0.0,6.0,"Aaron Rodgers pass complete short right to Davante Adams for 11 yards, touchdown",4.27,7.0,16.0,2024,233
+1.0,0:23,,,LAR 15,0.0,6.0,Anders Carlson kicks extra point no good,0.0,-1.0,16.0,2024,233
+1.0,0:23,,,NYJ 35,0.0,6.0,"Anders Carlson kicks off 62 yards, returned by Jordan Whittington for 19 yards (tackle by Kenny Yeboah and Marcelino McCrary-Ball). Penalty on Hunter Long: Offensive Illegal Block Above the Waist, 10 yards (accepted)",0.0,-0.35,16.0,2024,233
+1.0,0:16,1.0,10.0,LAR 12,0.0,6.0,Blake Corum left tackle for 3 yards (tackle by D.J. Reed),-0.35,-0.5,16.0,2024,233
+2.0,15:00,2.0,7.0,LAR 15,0.0,6.0,Blake Corum left tackle for no gain (tackle by Leonard Taylor),-0.5,-1.07,16.0,2024,233
+2.0,14:26,3.0,7.0,LAR 15,0.0,6.0,Matthew Stafford pass complete short right to Tutu Atwell for 12 yards (tackle by Isaiah Oliver),-1.07,0.74,16.0,2024,233
+2.0,13:38,1.0,10.0,LAR 27,0.0,6.0,Blake Corum left guard for 7 yards (tackle by D.J. Reed and Tony Adams),0.74,1.14,16.0,2024,233
+2.0,12:58,2.0,3.0,LAR 34,0.0,6.0,Matthew Stafford pass complete short left to Puka Nacua for -1 yards (tackle by D.J. Reed),1.14,0.3,16.0,2024,233
+2.0,12:12,3.0,4.0,LAR 33,0.0,6.0,Matthew Stafford pass complete short middle to Cooper Kupp for 8 yards (tackle by Isaiah Oliver),0.3,1.66,16.0,2024,233
+2.0,11:32,1.0,10.0,LAR 41,0.0,6.0,Kyren Williams left guard for 3 yards (tackle by Jamien Sherwood),1.66,1.53,16.0,2024,233
+2.0,10:52,2.0,7.0,LAR 44,0.0,6.0,Kyren Williams right end for 10 yards (tackle by Chuck Clark),1.53,2.52,16.0,2024,233
+2.0,10:08,1.0,10.0,NYJ 46,0.0,6.0,"Blake Corum left end for no gain (tackle by D.J. Reed). Penalty on Hunter Long: Illegal Motion, 5 yards (accepted) (no play)",2.52,2.19,16.0,2024,233
+2.0,9:33,1.0,15.0,LAR 49,0.0,6.0,Matthew Stafford pass incomplete short middle intended for Tutu Atwell,2.19,1.3,16.0,2024,233
+2.0,9:28,2.0,15.0,LAR 49,0.0,6.0,Matthew Stafford pass deep right intended for Demarcus Robinson is intercepted by Tony Adams at NYJ-24 and returned for no gain (tackle by Demarcus Robinson),1.3,-0.54,16.0,2024,233
+2.0,9:23,1.0,10.0,NYJ 24,0.0,6.0,Aaron Rodgers pass complete short right to Jeremy Ruckert for 5 yards (tackle by Quentin Lake),0.54,0.67,16.0,2024,233
+2.0,8:42,2.0,5.0,NYJ 29,0.0,6.0,Aaron Rodgers pass incomplete short left intended for Allen Lazard,0.67,-0.03,16.0,2024,233
+2.0,8:38,3.0,5.0,NYJ 29,0.0,6.0,Aaron Rodgers pass complete short left to Breece Hall for 4 yards (tackle by Jaylen McCollough),-0.03,-1.18,16.0,2024,233
+2.0,8:01,4.0,1.0,NYJ 33,0.0,6.0,Breece Hall up the middle for no gain (tackle by Omar Speights),-1.18,-3.38,16.0,2024,233
+2.0,7:56,1.0,10.0,NYJ 33,0.0,6.0,Kyren Williams left guard for 13 yards (tackle by Tony Adams),3.38,4.24,16.0,2024,233
+2.0,7:14,1.0,10.0,NYJ 20,0.0,6.0,Matthew Stafford pass complete short left to Puka Nacua for 18 yards (tackle by Sauce Gardner),4.24,6.74,16.0,2024,233
+2.0,6:25,1.0,2.0,NYJ 2,6.0,6.0,"Kyren Williams up the middle for 2 yards, touchdown",6.74,7.0,16.0,2024,233
+2.0,6:22,,,NYJ 15,6.0,6.0,Joshua Karty kicks extra point no good,0.0,-1.0,16.0,2024,233
+2.0,6:22,,,LAR 35,6.0,6.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.94,16.0,2024,233
+2.0,6:22,1.0,10.0,NYJ 30,6.0,6.0,Breece Hall right tackle for 7 yards (tackle by Christian Rozeboom and Darious Williams),0.94,1.34,16.0,2024,233
+2.0,5:45,2.0,3.0,NYJ 37,6.0,6.0,Breece Hall right guard for 4 yards (tackle by Christian Rozeboom and Michael Hoecht),1.34,1.66,16.0,2024,233
+2.0,5:11,1.0,10.0,NYJ 41,6.0,6.0,Aaron Rodgers pass complete short left to Braelon Allen for 5 yards (tackle by Ahkello Witherspoon and Christian Rozeboom),1.66,1.8,16.0,2024,233
+2.0,4:35,2.0,5.0,NYJ 46,6.0,6.0,Aaron Rodgers pass complete short left to Davante Adams for 13 yards (tackle by Omar Speights),1.8,2.85,16.0,2024,233
+2.0,3:55,1.0,10.0,LAR 41,6.0,6.0,Breece Hall left tackle for 3 yards (tackle by Jared Verse and Omar Speights),2.85,2.71,16.0,2024,233
+2.0,3:24,2.0,7.0,LAR 38,6.0,6.0,Breece Hall right guard for 3 yards (tackle by Darious Williams and Neville Gallimore),2.71,2.41,16.0,2024,233
+2.0,2:24,3.0,4.0,LAR 35,6.0,6.0,"Aaron Rodgers pass incomplete short left intended for Allen Lazard (defended by Ahkello Witherspoon). Penalty on Olumuyiwa Fashanu: Offensive Holding, 10 yards (accepted) (no play)",2.41,1.09,16.0,2024,233
+2.0,2:19,3.0,14.0,LAR 45,6.0,6.0,Aaron Rodgers sacked by Braden Fiske for no gain. Penalty on John Simpson: Offensive Holding (offset) . Penalty on Darious Williams: Illegal Use of Hands / Defense (offset) (no play),1.09,1.09,16.0,2024,233
+2.0,2:00,3.0,14.0,LAR 45,6.0,6.0,Aaron Rodgers pass complete short left to Davante Adams for 11 yards (tackle by Jaylen McCollough),1.09,1.09,16.0,2024,233
+2.0,1:16,4.0,3.0,LAR 34,6.0,6.0,"Aaron Rodgers pass complete short middle to Allen Lazard for 11 yards (tackle by Quentin Lake). Penalty on Jaylen McCollough: Defensive Offside, 5 yards (declined)",1.09,4.04,16.0,2024,233
+2.0,1:09,1.0,10.0,LAR 23,6.0,6.0,Breece Hall left guard for 4 yards (tackle by Kobie Turner and Jared Verse),4.04,4.05,16.0,2024,233
+2.0,0:34,2.0,6.0,LAR 19,6.0,6.0,Aaron Rodgers pass incomplete short right intended for Allen Lazard,4.05,3.34,16.0,2024,233
+2.0,0:30,3.0,6.0,LAR 19,6.0,6.0,"Penalty on Aaron Rodgers: Delay of Game, 5 yards (accepted) (no play)",3.34,2.68,16.0,2024,233
+2.0,0:30,3.0,11.0,LAR 24,6.0,6.0,Aaron Rodgers pass complete short left to Breece Hall for 15 yards (tackle by Christian Rozeboom),2.68,5.14,16.0,2024,233
+2.0,0:21,,,,,,Timeout #1 by New York Jets,,,16.0,2024,233
+2.0,0:21,1.0,9.0,LAR 9,6.0,6.0,Aaron Rodgers pass complete short right to Breece Hall for 6 yards (tackle by Christian Rozeboom),5.14,5.53,16.0,2024,233
+2.0,0:14,,,,,,Timeout #2 by New York Jets,,,16.0,2024,233
+2.0,0:14,2.0,3.0,LAR 3,6.0,6.0,Aaron Rodgers pass incomplete short right intended for Davante Adams (defended by Omar Speights),5.53,4.72,16.0,2024,233
+2.0,0:09,,,,,,Timeout #1 by Los Angeles Rams,,,16.0,2024,233
+2.0,0:09,3.0,3.0,LAR 3,6.0,6.0,Aaron Rodgers pass incomplete short right intended for Breece Hall,4.72,3.04,16.0,2024,233
+2.0,0:03,4.0,3.0,LAR 3,6.0,9.0,Anders Carlson 21 yard field goal good,3.04,3.0,16.0,2024,233
+3.0,15:00,,,LAR 35,6.0,9.0,"Ethan Evans kicks off 66 yards, returned by Xavier Gipson for 30 yards (tackle by Jake Hummel)",0.0,0.87,16.0,2024,233
+3.0,14:55,1.0,10.0,NYJ 29,6.0,9.0,Aaron Rodgers pass incomplete short right intended for Kenny Yeboah (defended by Kamren Curl),0.87,0.33,16.0,2024,233
+3.0,14:50,2.0,10.0,NYJ 29,6.0,9.0,"Breece Hall left end for no gain (tackle by Christian Rozeboom and Quentin Lake). Penalty on Alijah Vera-Tucker: Offensive Holding, 10 yards (accepted) (no play)",0.33,-1.08,16.0,2024,233
+3.0,14:41,2.0,20.0,NYJ 19,6.0,9.0,Aaron Rodgers scrambles right end for 6 yards (tackle by Jaylen McCollough),-1.08,-0.89,16.0,2024,233
+3.0,13:55,3.0,14.0,NYJ 25,6.0,9.0,Aaron Rodgers pass complete deep right to Garrett Wilson for 19 yards,-0.89,1.86,16.0,2024,233
+3.0,13:14,1.0,10.0,NYJ 44,6.0,9.0,Isaiah Davis right guard for 9 yards (tackle by Christian Rozeboom and Kamren Kinchens),1.86,2.53,16.0,2024,233
+3.0,12:30,2.0,1.0,LAR 47,6.0,9.0,Isaiah Davis left tackle for 1 yard (tackle by Ahkello Witherspoon),2.53,2.52,16.0,2024,233
+3.0,11:52,1.0,10.0,LAR 46,6.0,9.0,Aaron Rodgers pass complete short right to Jeremy Ruckert for 7 yards (tackle by Christian Rozeboom and Darious Williams),2.52,2.92,16.0,2024,233
+3.0,11:02,2.0,3.0,LAR 39,6.0,9.0,Isaiah Davis left guard for 2 yards (tackle by Tyler Davis and Jared Verse),2.92,2.48,16.0,2024,233
+3.0,10:24,3.0,1.0,LAR 37,6.0,9.0,Aaron Rodgers pass complete short right to Tyler Conklin for 7 yards (tackle by Quentin Lake),2.48,3.58,16.0,2024,233
+3.0,9:41,1.0,10.0,LAR 30,6.0,9.0,Breece Hall up the middle for 2 yards (tackle by Byron Young),3.58,3.3,16.0,2024,233
+3.0,9:00,2.0,8.0,LAR 28,6.0,9.0,Aaron Rodgers pass complete short right to Breece Hall for 9 yards (tackle by Kamren Curl and Kamren Kinchens),3.3,4.31,16.0,2024,233
+3.0,8:13,1.0,10.0,LAR 19,6.0,9.0,"Aaron Rodgers pass complete short right to Garrett Wilson for no gain (tackle by Omar Speights and Christian Rozeboom). Penalty on Olumuyiwa Fashanu: Ineligible Downfield Pass, 5 yards (accepted) (no play)",4.31,3.97,16.0,2024,233
+3.0,7:44,1.0,15.0,LAR 24,6.0,9.0,"Aaron Rodgers pass complete short right to Tyler Conklin for no gain (tackle by Omar Speights). Penalty on Morgan Moses: Ineligible Downfield Pass, 5 yards (accepted) (no play)",3.97,3.64,16.0,2024,233
+3.0,7:04,1.0,20.0,LAR 29,6.0,9.0,Braelon Allen up the middle for 4 yards (tackle by Omar Speights and Braden Fiske),3.64,2.95,16.0,2024,233
+3.0,6:08,2.0,16.0,LAR 25,6.0,9.0,Aaron Rodgers pass incomplete short right intended for Tyler Conklin,2.95,2.28,16.0,2024,233
+3.0,6:00,3.0,16.0,LAR 25,6.0,9.0,Aaron Rodgers pass complete short right to Tyler Conklin for 12 yards (tackle by Quentin Lake and Christian Rozeboom),2.28,2.64,16.0,2024,233
+3.0,5:21,4.0,4.0,LAR 13,6.0,9.0,Aaron Rodgers pass incomplete short left intended for Davante Adams (defended by Ahkello Witherspoon),2.64,0.28,16.0,2024,233
+3.0,5:15,1.0,10.0,LAR 14,6.0,9.0,Matthew Stafford pass complete short middle to Cooper Kupp for 12 yards (tackle by Brandin Echols),-0.28,0.67,16.0,2024,233
+3.0,4:46,1.0,10.0,LAR 26,6.0,9.0,Kyren Williams right end for 8 yards (tackle by Chuck Clark),0.67,1.21,16.0,2024,233
+3.0,4:04,2.0,2.0,LAR 34,6.0,9.0,"Matthew Stafford pass incomplete short right intended for Hunter Long. Penalty on Tony Adams: Defensive Pass Interference, 12 yards (accepted) (no play)",1.21,1.99,16.0,2024,233
+3.0,3:54,1.0,10.0,LAR 46,6.0,9.0,Kyren Williams up the middle for 9 yards (tackle by Tony Adams and Brandin Echols),1.99,2.67,16.0,2024,233
+3.0,3:31,2.0,1.0,NYJ 45,6.0,9.0,Kyren Williams up the middle for 6 yards (tackle by Javon Kinlaw),2.67,2.98,16.0,2024,233
+3.0,2:55,1.0,10.0,NYJ 39,6.0,9.0,Kyren Williams right tackle for 8 yards (tackle by Ashtyn Davis),2.98,3.52,16.0,2024,233
+3.0,2:15,2.0,2.0,NYJ 31,6.0,9.0,Kyren Williams left end for 4 yards (tackle by D.J. Reed),3.52,3.78,16.0,2024,233
+3.0,1:31,1.0,10.0,NYJ 27,6.0,9.0,Blake Corum right tackle for 1 yard (tackle by Jamien Sherwood),3.78,3.37,16.0,2024,233
+3.0,0:48,2.0,9.0,NYJ 26,6.0,9.0,Matthew Stafford pass complete short right to Cooper Kupp for 4 yards (tackle by Quincy Williams),3.37,3.2,16.0,2024,233
+4.0,15:00,3.0,5.0,NYJ 22,6.0,9.0,Matthew Stafford pass complete short middle to Puka Nacua for 5 yards (tackle by Isaiah Oliver and Quincy Williams),3.2,4.44,16.0,2024,233
+4.0,14:24,1.0,10.0,NYJ 17,6.0,9.0,Matthew Stafford pass complete short left to Puka Nacua for -3 yards (tackle by Will McDonald and Quincy Williams),4.44,3.49,16.0,2024,233
+4.0,13:44,2.0,13.0,NYJ 20,6.0,9.0,Kyren Williams up the middle for 5 yards (tackle by Jamien Sherwood),3.49,3.34,16.0,2024,233
+4.0,12:52,3.0,8.0,NYJ 15,6.0,9.0,"Penalty on Beaux Limmer: False Start, 5 yards (accepted) (no play)",3.34,2.81,16.0,2024,233
+4.0,12:52,3.0,13.0,NYJ 20,6.0,9.0,Matthew Stafford pass incomplete short middle intended for Tyler Higbee,2.81,2.12,16.0,2024,233
+4.0,12:47,4.0,13.0,NYJ 20,9.0,9.0,Joshua Karty 38 yard field goal good,2.12,3.0,16.0,2024,233
+4.0,12:44,,,LAR 35,9.0,9.0,"Ethan Evans kicks off 64 yards, returned by Xavier Gipson for 27 yards (tackle by Jake Hummel)",0.0,0.81,16.0,2024,233
+4.0,12:37,1.0,10.0,NYJ 28,9.0,9.0,Breece Hall right end for 3 yards (tackle by Darious Williams and Kamren Curl),0.81,0.67,16.0,2024,233
+4.0,11:58,2.0,7.0,NYJ 31,9.0,9.0,Aaron Rodgers pass incomplete deep left intended for Davante Adams,0.67,-0.03,16.0,2024,233
+4.0,11:53,3.0,7.0,NYJ 31,9.0,9.0,"Aaron Rodgers sacked by Kamren Curl for -10 yards. Aaron Rodgers fumbles (forced by Kamren Curl), recovered by Jared Verse at NYJ-21",-0.03,-4.17,16.0,2024,233
+4.0,11:43,1.0,10.0,NYJ 21,9.0,9.0,Kyren Williams left end for 8 yards (tackle by Micheal Clemons and Jamien Sherwood),4.17,4.95,16.0,2024,233
+4.0,11:05,2.0,2.0,NYJ 13,9.0,9.0,Kyren Williams right guard for 2 yards (tackle by Chuck Clark and Bruce Hector),4.95,4.84,16.0,2024,233
+4.0,10:17,1.0,10.0,NYJ 11,15.0,9.0,"Matthew Stafford pass complete short right to Tyler Higbee for 11 yards, touchdown",4.84,7.0,16.0,2024,233
+4.0,10:11,,,NYJ 15,16.0,9.0,Joshua Karty kicks extra point good,0.0,0.0,16.0,2024,233
+4.0,10:11,,,LAR 35,16.0,9.0,"Ethan Evans kicks off 66 yards, returned by Xavier Gipson for 42 yards (tackle by Josh Wallace)",0.0,1.66,16.0,2024,233
+4.0,10:05,1.0,10.0,NYJ 41,16.0,9.0,Breece Hall right end for 7 yards (tackle by Quentin Lake and Darious Williams),1.66,2.07,16.0,2024,233
+4.0,9:28,2.0,3.0,NYJ 48,16.0,9.0,"Aaron Rodgers pass complete short left to Davante Adams for no gain (tackle by Michael Hoecht). Penalty on Joe Tippmann: Offensive Holding, 10 yards (accepted) (no play)",2.07,0.72,16.0,2024,233
+4.0,9:00,2.0,13.0,NYJ 38,16.0,9.0,Aaron Rodgers pass complete short right to Allen Lazard for 9 yards (tackle by Kamren Kinchens),0.72,1.22,16.0,2024,233
+4.0,8:32,3.0,4.0,NYJ 47,16.0,9.0,Aaron Rodgers pass incomplete short left intended for Davante Adams,1.22,-0.26,16.0,2024,233
+4.0,8:27,4.0,4.0,NYJ 47,16.0,9.0,Aaron Rodgers pass incomplete deep middle intended for Tyler Conklin (defended by Darious Williams),-0.26,-2.52,16.0,2024,233
+4.0,8:23,1.0,10.0,NYJ 46,16.0,9.0,Matthew Stafford pass complete deep right to Puka Nacua for 27 yards (tackle by Leonard Taylor),2.52,4.31,16.0,2024,233
+4.0,7:34,1.0,10.0,NYJ 19,16.0,9.0,"Kyren Williams right tackle for 1 yard (tackle by Ashtyn Davis and Isaiah Oliver). Penalty on Beaux Limmer: Offensive Holding, 10 yards (accepted)",4.31,3.71,16.0,2024,233
+4.0,7:16,1.0,19.0,NYJ 28,16.0,9.0,Matthew Stafford pass complete short left to Puka Nacua for 1 yard (tackle by Jamien Sherwood),3.71,2.68,16.0,2024,233
+4.0,6:49,2.0,18.0,NYJ 27,16.0,9.0,"Kyren Williams left tackle for 8 yards (tackle by Jamien Sherwood). Penalty on Kyren Williams: Taunting / Offense, 15 yards (accepted)",2.68,1.09,16.0,2024,233
+4.0,6:17,3.0,25.0,NYJ 34,16.0,9.0,Matthew Stafford pass complete short left to Kyren Williams for 7 yards (tackle by Ashtyn Davis),1.09,1.67,16.0,2024,233
+4.0,5:22,4.0,18.0,NYJ 27,19.0,9.0,Joshua Karty 45 yard field goal good,1.67,3.0,16.0,2024,233
+4.0,5:17,,,LAR 35,19.0,9.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.94,16.0,2024,233
+4.0,5:17,1.0,10.0,NYJ 30,19.0,9.0,Aaron Rodgers pass complete short left to Tyler Conklin for 8 yards (tackle by Kamren Curl and Jaylen McCollough),0.94,1.47,16.0,2024,233
+4.0,4:52,2.0,2.0,NYJ 38,19.0,9.0,Aaron Rodgers pass complete short right to Davante Adams for 6 yards (tackle by Kamren Kinchens),1.47,1.86,16.0,2024,233
+4.0,4:27,1.0,10.0,NYJ 44,19.0,9.0,Aaron Rodgers pass complete short left to Garrett Wilson for 3 yards (tackle by Braden Fiske and Quentin Lake),1.86,1.72,16.0,2024,233
+4.0,3:59,2.0,7.0,NYJ 47,19.0,9.0,Aaron Rodgers pass incomplete deep right intended for Davante Adams,1.72,1.03,16.0,2024,233
+4.0,3:51,3.0,7.0,NYJ 47,19.0,9.0,Aaron Rodgers pass complete short left to Davante Adams for 10 yards (tackle by Ahkello Witherspoon),1.03,2.72,16.0,2024,233
+4.0,3:29,1.0,10.0,LAR 43,19.0,9.0,Aaron Rodgers pass incomplete short right intended for Allen Lazard,2.72,2.18,16.0,2024,233
+4.0,3:24,2.0,10.0,LAR 43,19.0,9.0,Aaron Rodgers pass complete short left to Garrett Wilson for 11 yards (tackle by Jaylen McCollough),2.18,3.45,16.0,2024,233
+4.0,3:00,1.0,10.0,LAR 32,19.0,9.0,Aaron Rodgers pass complete short left to Garrett Wilson for 2 yards (tackle by Jaylen McCollough),3.45,3.17,16.0,2024,233
+4.0,2:38,2.0,8.0,LAR 30,19.0,9.0,Aaron Rodgers pass incomplete short left intended for Davante Adams,3.17,2.48,16.0,2024,233
+4.0,2:34,3.0,8.0,LAR 30,19.0,9.0,Aaron Rodgers pass complete short middle to Garrett Wilson for 4 yards (tackle by Jaylen McCollough),2.48,1.81,16.0,2024,233
+4.0,2:03,4.0,4.0,LAR 26,19.0,9.0,"Penalty on Max Mitchell: False Start, 5 yards (accepted) (no play)",1.81,1.32,16.0,2024,233
+4.0,2:02,4.0,9.0,LAR 31,19.0,9.0,Anders Carlson 49 yard field goal no good,1.32,-1.53,16.0,2024,233
+4.0,1:57,1.0,10.0,LAR 39,19.0,9.0,Kyren Williams right tackle for 3 yards (tackle by Brandin Echols and Ashtyn Davis),1.53,1.39,16.0,2024,233
+4.0,1:53,,,,,,Timeout #1 by New York Jets,,,16.0,2024,233
+4.0,1:53,,,,,,Timeout #1 by Los Angeles Rams,,,16.0,2024,233
+4.0,1:53,2.0,7.0,LAR 42,19.0,9.0,Kyren Williams right tackle for 2 yards (tackle by Chuck Clark and Brandin Echols),1.39,0.96,16.0,2024,233
+4.0,1:49,,,,,,Timeout #2 by New York Jets,,,16.0,2024,233
+4.0,1:49,3.0,5.0,LAR 44,19.0,9.0,Kyren Williams left tackle for no gain (tackle by Solomon Thomas and Javon Kinlaw),0.96,-0.46,16.0,2024,233
+4.0,1:44,,,,,,Timeout #3 by New York Jets,,,16.0,2024,233
+4.0,1:44,4.0,5.0,LAR 44,19.0,9.0,"Ethan Evans punts 43 yards, recovered by Jordan Whittington at NYJ-13",-0.46,4.71,16.0,2024,233
+4.0,1:34,1.0,10.0,NYJ 13,19.0,9.0,Matthew Stafford kneels for -1 yards,4.71,3.9,16.0,2024,233
+4.0,0:54,2.0,11.0,NYJ 14,19.0,9.0,Matthew Stafford kneels for -2 yards,3.9,2.97,16.0,2024,233
+4.0,0:25,3.0,13.0,NYJ 16,19.0,9.0,Matthew Stafford kneels for -1 yards,2.97,2.31,16.0,2024,233

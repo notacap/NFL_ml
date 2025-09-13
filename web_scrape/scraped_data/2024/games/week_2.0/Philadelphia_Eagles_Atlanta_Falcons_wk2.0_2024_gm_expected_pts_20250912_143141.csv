@@ -1,0 +1,4 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Offense,Offense,Offense,Offense,Defense,Defense,Defense,Defense,Special Teams,Special Teams,Special Teams,Special Teams,Special Teams,Special Teams,week,year,game_id
+Tm,Total,Tot,Pass,Rush,TOvr,Tot,Pass,Rush,TOvr,Tot,KO,KR,P,PR,FG/XP,,,
+Falcons,1.0,8.72,9.85,0.87,0.0,-7.13,1.47,-9.24,2.87,-1.28,-5.84,3.48,0.87,-0.88,1.09,2.0,2024,32
+Eagles,-1.0,7.13,-1.47,9.24,-2.87,-8.72,-9.85,-0.87,0.0,1.28,-3.48,5.84,0.88,-0.87,-1.09,2.0,2024,32

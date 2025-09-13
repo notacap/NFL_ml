@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,MIA 30,6,2:44,9,Interception,1,Dolphins,2.0,2024,17
+2,1,9:49,MIA 30,10,6:28,70,Touchdown,1,Dolphins,2.0,2024,17
+3,1,2:00,MIA 16,3,1:19,13,Interception,1,Dolphins,2.0,2024,17
+4,2,12:41,MIA 30,3,1:47,7,Punt,1,Dolphins,2.0,2024,17
+5,2,6:25,MIA 30,5,2:40,19,Downs,1,Dolphins,2.0,2024,17
+6,2,3:36,MIA 30,13,3:32,54,Field Goal,1,Dolphins,2.0,2024,17
+7,3,12:10,MIA 11,5,2:43,19,Interception,1,Dolphins,2.0,2024,17
+8,3,9:27,MIA 30,14,6:47,55,Downs,1,Dolphins,2.0,2024,17
+9,4,14:14,MIA 20,6,2:27,21,Downs,1,Dolphins,2.0,2024,17
+10,4,7:54,MIA 35,11,5:52,54,Downs,1,Dolphins,2.0,2024,17

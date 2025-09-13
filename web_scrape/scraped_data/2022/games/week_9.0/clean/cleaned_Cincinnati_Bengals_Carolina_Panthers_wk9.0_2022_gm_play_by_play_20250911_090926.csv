@@ -1,0 +1,162 @@
+Quarter,Time,Down,ToGo,Location,CAR,CIN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Panthers won the coin toss and deferred, Bengals to receive the opening kickoff.",,,9.0,2022,129
+1.0,15:00,,,CAR 35,0.0,0.0,"Eddy Pineiro kicks off 67 yards, returned by Chris Evans for 22 yards (tackle by Sam Franklin). Penalty on Clay Johnston: Offensive Holding, 10 yards (accepted)",0.0,-0.38,9.0,2022,129
+1.0,14:54,1.0,10.0,CIN 10,0.0,0.0,Joe Burrow pass complete short left to Tee Higgins for 5 yards (tackle by C.J. Henderson),-0.38,-0.35,9.0,2022,129
+1.0,14:18,2.0,5.0,CIN 15,0.0,0.0,Joe Mixon up the middle for 3 yards (tackle by Myles Hartsfield),-0.35,-0.48,9.0,2022,129
+1.0,13:41,3.0,2.0,CIN 18,0.0,0.0,Joe Burrow pass complete short middle to Hayden Hurst for 5 yards (tackle by Myles Hartsfield),-0.48,0.48,9.0,2022,129
+1.0,13:07,1.0,10.0,CIN 23,0.0,0.0,Joe Burrow pass complete short left to Tee Higgins for 9 yards (tackle by C.J. Henderson),0.48,1.15,9.0,2022,129
+1.0,12:24,2.0,1.0,CIN 32,0.0,0.0,Joe Burrow pass complete short left to Tyler Boyd for 15 yards (tackle by C.J. Henderson),1.15,2.06,9.0,2022,129
+1.0,11:57,1.0,10.0,CIN 47,0.0,0.0,Joe Burrow pass complete short left to Joe Mixon for 35 yards (tackle by Keith Taylor),2.06,4.37,9.0,2022,129
+1.0,11:12,1.0,10.0,CAR 18,0.0,0.0,Samaje Perine right tackle for 9 yards (tackle by Damien Wilson and Bravvion Roy),4.37,5.42,9.0,2022,129
+1.0,10:27,2.0,1.0,CAR 9,0.0,0.0,Joe Mixon right guard for 7 yards (tackle by Shaq Thompson and Derrick Brown),5.42,6.74,9.0,2022,129
+1.0,9:45,1.0,2.0,CAR 2,0.0,6.0,"Joe Mixon left tackle for 2 yards, touchdown",6.74,7.0,9.0,2022,129
+1.0,9:42,,,CAR 15,0.0,7.0,Evan McPherson kicks extra point good,0.0,0.0,9.0,2022,129
+1.0,9:42,,,CIN 35,0.0,7.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,129
+1.0,9:42,1.0,10.0,CAR 25,0.0,7.0,D'Onta Foreman up the middle for 3 yards (tackle by B.J. Hill),0.61,0.47,9.0,2022,129
+1.0,9:09,2.0,7.0,CAR 28,0.0,7.0,D'Onta Foreman left tackle for 2 yards (tackle by B.J. Hill and Sam Hubbard),0.47,0.04,9.0,2022,129
+1.0,8:26,3.0,5.0,CAR 30,0.0,7.0,P.J. Walker pass complete short right to Spencer Brown for 1 yard (tackle by Trey Hendrickson),0.04,-1.31,9.0,2022,129
+1.0,7:45,4.0,4.0,CAR 31,0.0,7.0,"Johnny Hekker punts 54 yards, fair catch by Trent Taylor at CIN-15",-1.31,0.22,9.0,2022,129
+1.0,7:37,1.0,10.0,CIN 15,0.0,7.0,"Penalty on Marquise Blair: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",-0.22,0.94,9.0,2022,129
+1.0,7:37,1.0,10.0,CIN 30,0.0,7.0,Joe Burrow pass incomplete short middle intended for Joe Mixon (defended by Bravvion Roy),0.94,0.39,9.0,2022,129
+1.0,7:33,2.0,10.0,CIN 30,0.0,7.0,Joe Burrow pass complete short middle to Hayden Hurst for 6 yards (tackle by Xavier Woods),0.39,0.5,9.0,2022,129
+1.0,6:51,3.0,4.0,CIN 36,0.0,7.0,Joe Burrow pass incomplete short left intended for Tyler Boyd (defended by Keith Taylor),0.5,-0.98,9.0,2022,129
+1.0,6:47,4.0,4.0,CIN 36,0.0,7.0,Kevin Huber punts 38 yards downed by Joe Bachie,-0.98,-0.67,9.0,2022,129
+1.0,6:37,1.0,10.0,CAR 26,0.0,7.0,P.J. Walker pass incomplete short left intended for Terrace Marshall (defended by Eli Apple),0.67,0.13,9.0,2022,129
+1.0,6:32,2.0,10.0,CAR 26,0.0,7.0,Laviska Shenault left end for 2 yards (tackle by Cam Taylor-Britt and Zachary Carter),0.13,-0.3,9.0,2022,129
+1.0,5:46,3.0,8.0,CAR 28,0.0,7.0,P.J. Walker pass incomplete short right intended for Tommy Tremble,-0.3,-1.5,9.0,2022,129
+1.0,5:39,4.0,8.0,CAR 28,0.0,7.0,"Johnny Hekker punts 63 yards, returned by Trent Taylor for 20 yards (tackle by Damien Wilson)",-1.5,-0.87,9.0,2022,129
+1.0,5:27,1.0,10.0,CIN 29,0.0,7.0,Joe Mixon right guard for 2 yards (tackle by Myles Hartsfield),0.87,0.6,9.0,2022,129
+1.0,4:53,2.0,8.0,CIN 31,0.0,7.0,Joe Burrow pass complete short right to Tee Higgins for 11 yards (tackle by Jaycee Horn),0.6,1.73,9.0,2022,129
+1.0,4:08,1.0,10.0,CIN 42,0.0,7.0,Trent Taylor right end for 9 yards (tackle by Keith Taylor),1.73,2.4,9.0,2022,129
+1.0,3:21,2.0,1.0,CAR 49,0.0,7.0,Joe Mixon left guard for 2 yards (tackle by Xavier Woods and Marquan McCall),2.4,2.46,9.0,2022,129
+1.0,2:43,1.0,10.0,CAR 47,0.0,7.0,"Penalty on Trent Taylor: False Start, 5 yards (accepted) (no play)",2.46,2.13,9.0,2022,129
+1.0,2:20,1.0,15.0,CIN 48,0.0,7.0,Joe Burrow pass complete short middle to Trent Taylor for 9 yards (tackle by Xavier Woods),2.13,2.45,9.0,2022,129
+1.0,1:41,2.0,6.0,CAR 43,0.0,7.0,Joe Mixon right guard for 29 yards (tackle by Shaq Thompson),2.45,4.65,9.0,2022,129
+1.0,0:50,1.0,10.0,CAR 14,0.0,7.0,Trent Taylor right end for 9 yards (tackle by Xavier Woods),4.65,5.67,9.0,2022,129
+1.0,0:14,2.0,1.0,CAR 5,0.0,7.0,Joe Burrow right guard for 2 yards (tackle by Frankie Luvu),5.67,6.51,9.0,2022,129
+2.0,15:00,1.0,3.0,CAR 3,0.0,7.0,"Joe Burrow pass complete short left to Tyler Boyd for 2 yards (tackle by C.J. Henderson) CIN challenged the runner broke the plane ruling, and the play was upheld.",6.51,5.91,9.0,2022,129
+2.0,14:39,2.0,1.0,CAR 1,0.0,13.0,"Joe Burrow right guard for 1 yard, touchdown. Penalty on Brian Burns: Defensive Offside, 5 yards (declined)",5.91,7.0,9.0,2022,129
+2.0,14:37,,,CAR 15,0.0,14.0,Evan McPherson kicks extra point good,0.0,0.0,9.0,2022,129
+2.0,14:37,,,CIN 35,0.0,14.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,129
+2.0,14:37,1.0,10.0,CAR 25,0.0,14.0,D'Onta Foreman left guard for 2 yards (tackle by Logan Wilson),0.61,0.33,9.0,2022,129
+2.0,14:01,2.0,8.0,CAR 27,0.0,14.0,P.J. Walker pass complete short left to Raheem Blackshear for 5 yards (tackle by Logan Wilson),0.33,0.3,9.0,2022,129
+2.0,13:19,3.0,3.0,CAR 32,0.0,14.0,"Penalty on Taylor Moton: False Start, 5 yards (accepted) (no play)",0.3,-0.36,9.0,2022,129
+2.0,12:55,3.0,8.0,CAR 27,0.0,14.0,P.J. Walker pass incomplete short middle intended for Spencer Brown,-0.36,-1.57,9.0,2022,129
+2.0,12:52,4.0,8.0,CAR 27,0.0,14.0,"Johnny Hekker punts 58 yards, returned by Trent Taylor for 27 yards. Trent Taylor fumbles (forced by Chandler Wooten) (tackle by Tommy Tremble and Chandler Wooten)",-1.57,-1.66,9.0,2022,129
+2.0,12:38,1.0,10.0,CIN 41,0.0,14.0,Joe Burrow pass complete short right to Hayden Hurst for 6 yards (tackle by Cory Littleton),1.66,1.93,9.0,2022,129
+2.0,11:58,2.0,4.0,CIN 47,0.0,14.0,Joe Mixon left end for 13 yards (tackle by Sean Chandler),1.93,2.92,9.0,2022,129
+2.0,11:22,1.0,10.0,CAR 40,0.0,14.0,Joe Burrow pass incomplete short right intended for Samaje Perine,2.92,2.37,9.0,2022,129
+2.0,11:18,2.0,10.0,CAR 40,0.0,14.0,Joe Burrow pass complete short left to Trenton Irwin for 14 yards (tackle by Myles Hartsfield),2.37,3.84,9.0,2022,129
+2.0,10:41,1.0,10.0,CAR 26,0.0,14.0,Joe Mixon right guard for -1 yards (tackle by Shaq Thompson and Myles Hartsfield),3.84,3.16,9.0,2022,129
+2.0,9:57,2.0,11.0,CAR 27,0.0,14.0,Joe Burrow pass complete short right to Tee Higgins for 7 yards (tackle by Jaycee Horn),3.16,3.4,9.0,2022,129
+2.0,9:17,3.0,4.0,CAR 20,0.0,14.0,"Joe Burrow sacked by Brian Burns for no gain. Penalty on Marquis Haynes: Defensive Offside, 5 yards (accepted) (no play)",3.4,4.58,9.0,2022,129
+2.0,8:54,1.0,10.0,CAR 15,0.0,14.0,Joe Burrow pass complete short right to Joe Mixon for 8 yards (tackle by Shaq Thompson and Jaycee Horn),4.58,5.41,9.0,2022,129
+2.0,8:03,2.0,2.0,CAR 7,0.0,14.0,Joe Mixon right tackle for 4 yards (tackle by Yetur Gross-Matos),5.41,6.51,9.0,2022,129
+2.0,7:31,1.0,3.0,CAR 3,0.0,20.0,"Joe Mixon right tackle for 3 yards, touchdown",6.51,7.0,9.0,2022,129
+2.0,7:29,,,CAR 15,0.0,21.0,Evan McPherson kicks extra point good,0.0,0.0,9.0,2022,129
+2.0,7:29,,,CIN 35,0.0,21.0,"Evan McPherson kicks off 66 yards, returned by Raheem Blackshear for 22 yards (tackle by Stanley Morgan)",0.0,0.34,9.0,2022,129
+2.0,7:24,1.0,10.0,CAR 21,0.0,21.0,Laviska Shenault right end for 4 yards (tackle by Logan Wilson and Eli Apple),0.34,0.34,9.0,2022,129
+2.0,6:47,2.0,6.0,CAR 25,0.0,21.0,"P.J. Walker pass deep right intended for Tommy Tremble is intercepted by Germaine Pratt at CAR-45 and returned for 3 yards (tackle by Tommy Tremble and Giovanni Ricci). Penalty on Cameron Erving: Illegal Formation, 5 yards (declined)",0.34,-2.79,9.0,2022,129
+2.0,6:36,1.0,10.0,CAR 42,0.0,21.0,Joe Burrow pass complete short left to Tyler Boyd for 14 yards (tackle by C.J. Henderson and Xavier Woods),2.79,3.71,9.0,2022,129
+2.0,6:04,1.0,10.0,CAR 28,0.0,21.0,Joe Mixon right end for 20 yards (tackle by Shaq Thompson),3.71,5.37,9.0,2022,129
+2.0,5:23,1.0,8.0,CAR 8,0.0,21.0,Joe Mixon right guard for 3 yards (tackle by Yetur Gross-Matos and Derrick Brown),5.37,5.15,9.0,2022,129
+2.0,4:37,,,,,,Timeout #2 by Cincinnati Bengals,,,9.0,2022,129
+2.0,4:37,2.0,5.0,CAR 5,0.0,21.0,Joe Burrow up the middle for 4 yards (tackle by Marquan McCall and Brian Burns),5.15,5.17,9.0,2022,129
+2.0,3:50,3.0,1.0,CAR 1,0.0,27.0,"Joe Mixon right end for 1 yard, touchdown. Penalty on Yetur Gross-Matos: Defensive Offside, 5 yards (declined)",5.17,7.0,9.0,2022,129
+2.0,3:45,,,CAR 15,0.0,28.0,Evan McPherson kicks extra point good,0.0,0.0,9.0,2022,129
+2.0,3:45,,,CIN 35,0.0,28.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,129
+2.0,3:45,1.0,10.0,CAR 25,0.0,28.0,Spencer Brown right guard for 4 yards (tackle by Jay Tufele and Jessie Bates),0.61,0.47,9.0,2022,129
+2.0,3:12,2.0,7.0,CAR 28,0.0,28.0,"P.J. Walker pass incomplete deep left intended for D.J. Moore. Penalty on Cam Taylor-Britt: Illegal Contact, 5 yards (accepted) (no play)",0.47,1.2,9.0,2022,129
+2.0,3:06,1.0,10.0,CAR 34,0.0,28.0,P.J. Walker pass incomplete short left intended for Laviska Shenault,1.2,0.66,9.0,2022,129
+2.0,3:04,2.0,10.0,CAR 34,0.0,28.0,P.J. Walker scrambles up the middle for 6 yards (tackle by Logan Wilson),0.66,0.76,9.0,2022,129
+2.0,2:14,3.0,4.0,CAR 40,0.0,28.0,"P.J. Walker pass incomplete short left intended for Shi Smith Penalty on CAR: Illegal Shift, 5 yards (declined)",0.76,-0.72,9.0,2022,129
+2.0,2:10,4.0,4.0,CAR 40,0.0,28.0,"Johnny Hekker punts 50 yards, fair catch by Trent Taylor at CIN-10. Penalty on Damien Wilson: Ineligible Downfield Kick, 5 yards (accepted)",-0.72,0.22,9.0,2022,129
+2.0,2:02,1.0,10.0,CIN 15,0.0,28.0,Joe Mixon up the middle for 17 yards (tackle by Jaycee Horn),-0.22,1.07,9.0,2022,129
+2.0,1:57,1.0,10.0,CIN 32,0.0,28.0,Joe Burrow pass complete short right to Hayden Hurst for 5 yards (tackle by C.J. Henderson),1.07,1.2,9.0,2022,129
+2.0,1:51,2.0,5.0,CIN 37,0.0,28.0,Joe Burrow pass incomplete short right,1.2,0.5,9.0,2022,129
+2.0,1:47,3.0,5.0,CIN 37,0.0,28.0,Joe Burrow pass complete short middle to Samaje Perine for 3 yards (tackle by Shaq Thompson and C.J. Henderson),0.5,-0.72,9.0,2022,129
+2.0,1:40,,,,,,Timeout #1 by Carolina Panthers,,,9.0,2022,129
+2.0,1:40,4.0,2.0,CIN 40,0.0,28.0,"Kevin Huber punts 44 yards, returned by Shi Smith for 5 yards (tackle by Michael Thomas and Joe Bachie). Penalty on C.J. Henderson: Illegal Block Above the Waist, 10 yards (accepted)",-0.72,0.37,9.0,2022,129
+2.0,1:31,1.0,10.0,CAR 11,0.0,28.0,P.J. Walker pass complete short right to Tommy Tremble for 3 yards (tackle by Akeem Davis-Gaither),-0.37,-0.53,9.0,2022,129
+2.0,1:24,2.0,7.0,CAR 14,0.0,28.0,P.J. Walker pass deep right intended for D.J. Moore is intercepted by Jessie Bates at CAR-39 and returned for 16 yards (tackle by Tommy Tremble),-0.53,-4.04,9.0,2022,129
+2.0,1:09,1.0,10.0,CAR 23,0.0,28.0,Joe Mixon right guard for 8 yards (tackle by Xavier Woods and Shaq Thompson),4.04,4.75,9.0,2022,129
+2.0,0:46,2.0,2.0,CAR 15,0.0,28.0,Joe Burrow pass complete short right to Joe Mixon for 3 yards (tackle by C.J. Henderson),4.75,4.78,9.0,2022,129
+2.0,0:25,1.0,10.0,CAR 12,0.0,28.0,Joe Burrow pass incomplete short right intended for Tee Higgins (defended by Marquis Haynes),4.78,4.1,9.0,2022,129
+2.0,0:23,2.0,10.0,CAR 12,0.0,28.0,Joe Burrow sacked by Brian Burns for -5 yards,4.1,2.84,9.0,2022,129
+2.0,0:17,,,,,,Timeout #3 by Cincinnati Bengals,,,9.0,2022,129
+2.0,0:17,3.0,15.0,CAR 17,0.0,28.0,"Joe Burrow pass incomplete deep right intended for Trenton Irwin. Penalty on Brian Burns: Defensive Offside, 5 yards (accepted) (no play)",2.84,3.12,9.0,2022,129
+2.0,0:11,3.0,10.0,CAR 12,0.0,34.0,"Joe Burrow pass complete short right to Joe Mixon for 12 yards, touchdown",3.12,7.0,9.0,2022,129
+2.0,0:04,,,CAR 15,0.0,35.0,Evan McPherson kicks extra point good,0.0,0.0,9.0,2022,129
+2.0,0:04,,,CIN 35,0.0,35.0,"Evan McPherson kicks off 25 yards, returned by Tommy Tremble for 8 yards. Tommy Tremble fumbles (forced by Samaje Perine), recovered by Jalen Davis at CAR-46 (tackle by Samaje Perine and Clay Johnston)",0.0,2.39,9.0,2022,129
+3.0,15:00,,,CIN 35,0.0,35.0,"Evan McPherson kicks off 68 yards, returned by Raheem Blackshear for 66 yards (tackle by Samaje Perine and Daxton Hill)",0.0,3.12,9.0,2022,129
+3.0,14:47,1.0,10.0,CIN 37,0.0,35.0,Baker Mayfield pass incomplete short left intended for D'Onta Foreman,3.12,2.57,9.0,2022,129
+3.0,14:44,2.0,10.0,CIN 37,0.0,35.0,Baker Mayfield pass complete short left to D.J. Moore for 10 yards (tackle by Cam Taylor-Britt),2.57,3.78,9.0,2022,129
+3.0,14:06,1.0,10.0,CIN 27,0.0,35.0,D'Onta Foreman left tackle for 5 yards (tackle by B.J. Hill),3.78,3.91,9.0,2022,129
+3.0,13:25,2.0,5.0,CIN 22,0.0,35.0,"Penalty on Taylor Moton: False Start, 5 yards (accepted) (no play)",3.91,3.23,9.0,2022,129
+3.0,13:07,2.0,10.0,CIN 27,0.0,35.0,Baker Mayfield pass complete short right to Terrace Marshall for 16 yards (tackle by Eli Apple and Jalen Davis),3.23,4.84,9.0,2022,129
+3.0,12:23,1.0,10.0,CIN 11,0.0,35.0,D'Onta Foreman left guard for 3 yards (tackle by Sam Hubbard),4.84,4.7,9.0,2022,129
+3.0,11:44,2.0,7.0,CIN 8,0.0,35.0,Baker Mayfield pass complete short right to Raheem Blackshear for no gain (tackle by Vonn Bell),4.7,3.76,9.0,2022,129
+3.0,11:02,3.0,7.0,CIN 8,0.0,35.0,Baker Mayfield pass incomplete short right intended for Terrace Marshall,3.76,2.96,9.0,2022,129
+3.0,10:55,4.0,7.0,CIN 8,6.0,35.0,"Baker Mayfield pass complete short middle to Tommy Tremble for 8 yards, touchdown",2.96,7.0,9.0,2022,129
+3.0,10:52,,,CIN 15,7.0,35.0,Eddy Pineiro kicks extra point good,0.0,0.0,9.0,2022,129
+3.0,10:52,,,CAR 35,7.0,35.0,"Eddy Pineiro kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,129
+3.0,10:52,1.0,10.0,CIN 25,7.0,35.0,"Penalty on Alex Cappa: False Start, 5 yards (accepted) (no play)",0.61,0.28,9.0,2022,129
+3.0,10:52,1.0,15.0,CIN 20,7.0,35.0,Joe Burrow pass complete short left to Tee Higgins for 5 yards (tackle by Jaycee Horn),0.28,0.06,9.0,2022,129
+3.0,10:11,2.0,10.0,CIN 25,7.0,35.0,Samaje Perine right end for 10 yards (tackle by Bravvion Roy and Sean Chandler),0.06,1.27,9.0,2022,129
+3.0,9:25,1.0,10.0,CIN 35,7.0,35.0,Joe Burrow pass incomplete deep right intended for Devin Asiasi,1.27,0.72,9.0,2022,129
+3.0,9:19,2.0,10.0,CIN 35,7.0,35.0,Joe Burrow pass complete short left to Tyler Boyd for 9 yards (tackle by Myles Hartsfield),0.72,1.22,9.0,2022,129
+3.0,8:42,3.0,1.0,CIN 44,7.0,35.0,Joe Burrow up the middle for 2 yards (tackle by Damien Wilson),1.22,2.06,9.0,2022,129
+3.0,8:04,1.0,10.0,CIN 47,7.0,35.0,Joe Mixon right guard for 7 yards (tackle by Shaq Thompson),2.06,2.33,9.0,2022,129
+3.0,7:23,2.0,4.0,CAR 47,7.0,35.0,Joe Mixon right guard for 4 yards (tackle by Bravvion Roy and Frankie Luvu),2.33,2.72,9.0,2022,129
+3.0,6:44,1.0,10.0,CAR 43,7.0,35.0,Joe Mixon left guard for 6 yards (tackle by Amare Barno and Shaq Thompson),2.72,2.99,9.0,2022,129
+3.0,6:03,2.0,4.0,CAR 37,7.0,35.0,Joe Burrow pass complete short right to Tee Higgins for 17 yards (tackle by Keith Taylor),2.99,4.24,9.0,2022,129
+3.0,5:18,1.0,10.0,CAR 20,7.0,35.0,Joe Burrow pass complete short right to Tee Higgins for 6 yards (tackle by Keith Taylor),4.24,4.64,9.0,2022,129
+3.0,4:44,2.0,4.0,CAR 14,7.0,41.0,"Joe Mixon left end for 14 yards, touchdown. Penalty on Matthew Ioannidis: Defensive Offside, 5 yards (declined)",4.64,7.0,9.0,2022,129
+3.0,4:38,,,CAR 15,7.0,42.0,Evan McPherson kicks extra point good,0.0,0.0,9.0,2022,129
+3.0,4:38,,,CIN 35,7.0,42.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,129
+3.0,4:38,1.0,10.0,CAR 25,7.0,42.0,D'Onta Foreman left guard for 6 yards (tackle by Germaine Pratt and B.J. Hill),0.61,0.87,9.0,2022,129
+3.0,3:59,2.0,4.0,CAR 31,7.0,42.0,Baker Mayfield pass incomplete short middle intended for D.J. Moore (defended by Trey Hendrickson),0.87,0.17,9.0,2022,129
+3.0,3:55,3.0,4.0,CAR 31,7.0,42.0,Baker Mayfield pass incomplete deep right intended for D.J. Moore,0.17,-1.31,9.0,2022,129
+3.0,2:50,4.0,4.0,CAR 31,7.0,42.0,"Johnny Hekker punts 45 yards, returned by Trent Taylor for 5 yards (tackle by Brandon Smith). Penalty on Mike Thomas: Illegal Block Above the Waist, 10 yards (accepted)",-1.31,-0.15,9.0,2022,129
+3.0,3:42,1.0,10.0,CIN 19,7.0,42.0,Joe Mixon right tackle for 9 yards (tackle by Jaycee Horn),0.15,0.88,9.0,2022,129
+3.0,3:00,2.0,1.0,CIN 28,7.0,42.0,Joe Mixon up the middle for no gain (tackle by Frankie Luvu and Shaq Thompson),0.88,0.1,9.0,2022,129
+3.0,2:19,3.0,1.0,CIN 28,7.0,42.0,Brandon Allen right guard for 2 yards (tackle by Daviyon Nixon),0.1,0.94,9.0,2022,129
+3.0,1:42,1.0,10.0,CIN 30,7.0,42.0,Joe Mixon left guard for no gain (tackle by Bravvion Roy and Xavier Woods),0.94,0.39,9.0,2022,129
+3.0,1:00,2.0,10.0,CIN 30,7.0,42.0,Brandon Allen pass complete short left to Tyler Boyd for 4 yards (tackle by Damien Wilson),0.39,0.23,9.0,2022,129
+3.0,0:19,3.0,6.0,CIN 34,7.0,42.0,Brandon Allen pass complete short left to Hayden Hurst for 13 yards (tackle by Myles Hartsfield),0.23,2.06,9.0,2022,129
+4.0,15:00,1.0,10.0,CIN 47,7.0,42.0,Samaje Perine left tackle for 3 yards (tackle by Yetur Gross-Matos and Matthew Ioannidis),2.06,1.92,9.0,2022,129
+4.0,14:16,2.0,7.0,CIN 50,7.0,42.0,Samaje Perine left end for -2 yards (tackle by Yetur Gross-Matos),1.92,0.96,9.0,2022,129
+4.0,13:30,3.0,9.0,CIN 48,7.0,42.0,Brandon Allen sacked by Amare Barno for no gain,0.96,-0.19,9.0,2022,129
+4.0,12:54,4.0,9.0,CIN 48,7.0,42.0,"Kevin Huber punts 38 yards, fair catch by Shi Smith at CAR-14",-0.19,0.28,9.0,2022,129
+4.0,12:48,1.0,10.0,CAR 14,7.0,42.0,Raheem Blackshear up the middle for 3 yards (tackle by Akeem Davis-Gaither),-0.28,-0.37,9.0,2022,129
+4.0,12:06,2.0,7.0,CAR 17,7.0,42.0,Baker Mayfield pass complete short left to Raheem Blackshear for 27 yards (tackle by Akeem Davis-Gaither and Markus Bailey),-0.37,1.86,9.0,2022,129
+4.0,11:39,1.0,10.0,CAR 44,7.0,42.0,Baker Mayfield pass complete short middle to Raheem Blackshear for 8 yards (tackle by Markus Bailey),1.86,2.4,9.0,2022,129
+4.0,11:00,2.0,2.0,CIN 48,7.0,42.0,Raheem Blackshear left tackle for 5 yards (tackle by Markus Bailey and Akeem Davis-Gaither),2.4,2.72,9.0,2022,129
+4.0,10:33,1.0,10.0,CIN 43,7.0,42.0,Baker Mayfield pass complete short left to Giovanni Ricci for 8 yards (tackle by Akeem Davis-Gaither),2.72,3.26,9.0,2022,129
+4.0,9:51,2.0,2.0,CIN 35,7.0,42.0,D'Onta Foreman left guard for 2 yards (tackle by Vonn Bell),3.26,3.38,9.0,2022,129
+4.0,9:25,1.0,10.0,CIN 33,7.0,42.0,Baker Mayfield pass complete short middle to D'Onta Foreman for 2 yards (tackle by Markus Bailey),3.38,3.11,9.0,2022,129
+4.0,8:58,2.0,8.0,CIN 31,7.0,42.0,Baker Mayfield pass complete short left to D.J. Moore for 14 yards (tackle by Michael Thomas),3.11,4.44,9.0,2022,129
+4.0,8:32,1.0,10.0,CIN 17,7.0,42.0,Baker Mayfield pass complete short left to D'Onta Foreman for -4 yards (tackle by Akeem Davis-Gaither),4.44,3.35,9.0,2022,129
+4.0,7:52,2.0,14.0,CIN 21,13.0,42.0,"Baker Mayfield pass complete deep left to Terrace Marshall for 21 yards, touchdown",3.35,7.0,9.0,2022,129
+4.0,7:47,,,CIN 15,14.0,42.0,Eddy Pineiro kicks extra point good,0.0,0.0,9.0,2022,129
+4.0,7:47,,,CAR 35,14.0,42.0,"Eddy Pineiro kicks off 48 yards, returned by Trent Taylor for 6 yards (tackle by Brandon Smith)",0.0,0.48,9.0,2022,129
+4.0,7:45,1.0,10.0,CIN 23,14.0,42.0,Trenton Irwin left end for 11 yards (tackle by Tae Hayes),0.48,1.2,9.0,2022,129
+4.0,7:00,1.0,10.0,CIN 34,14.0,42.0,Samaje Perine right end for 29 yards (tackle by Sean Chandler),1.2,3.12,9.0,2022,129
+4.0,6:09,1.0,10.0,CAR 37,14.0,42.0,Samaje Perine left guard for 2 yards (tackle by Daviyon Nixon and Tae Hayes),3.12,2.84,9.0,2022,129
+4.0,5:22,2.0,8.0,CAR 35,14.0,42.0,Trent Taylor left end for no gain (tackle by Amare Barno),2.84,2.15,9.0,2022,129
+4.0,4:37,3.0,8.0,CAR 35,14.0,42.0,Brandon Allen pass complete short right to Trent Taylor for 5 yards (tackle by Marquis Haynes),2.15,1.48,9.0,2022,129
+4.0,3:52,4.0,3.0,CAR 30,14.0,42.0,Evan McPherson 48 yard field goal no good,1.48,-1.47,9.0,2022,129
+4.0,3:47,1.0,10.0,CAR 38,14.0,42.0,Baker Mayfield pass incomplete short right intended for Terrace Marshall,1.47,0.92,9.0,2022,129
+4.0,3:44,2.0,10.0,CAR 38,14.0,42.0,Baker Mayfield pass complete short middle to Spencer Brown for 9 yards (tackle by Jay Tufele),0.92,1.42,9.0,2022,129
+4.0,3:22,3.0,1.0,CAR 47,14.0,42.0,Spencer Brown left guard for 5 yards (tackle by Markus Bailey and Joe Bachie),1.42,2.39,9.0,2022,129
+4.0,3:00,1.0,10.0,CIN 48,14.0,42.0,Spencer Brown up the middle for 7 yards (tackle by Michael Thomas and Domenique Davis),2.39,2.79,9.0,2022,129
+4.0,2:28,2.0,3.0,CIN 41,14.0,42.0,"Baker Mayfield pass complete short middle to Terrace Marshall for 16 yards (tackle by Markus Bailey and Jessie Bates). Penalty on Cam Taylor-Britt: Illegal Use of Hands / Defense, 5 yards (declined)",2.79,3.91,9.0,2022,129
+4.0,2:21,1.0,10.0,CIN 25,14.0,42.0,Raheem Blackshear left guard for 3 yards (tackle by Joe Bachie),3.91,3.77,9.0,2022,129
+4.0,2:00,2.0,7.0,CIN 22,14.0,42.0,Baker Mayfield pass complete short left to Shi Smith for 20 yards (tackle by Jessie Bates),3.77,6.74,9.0,2022,129
+4.0,1:53,1.0,2.0,CIN 2,14.0,42.0,Baker Mayfield pass incomplete short left intended for D.J. Moore,6.74,5.72,9.0,2022,129
+4.0,1:50,2.0,2.0,CIN 2,14.0,42.0,Raheem Blackshear up the middle for no gain (tackle by Joe Bachie and Jessie Bates),5.72,4.95,9.0,2022,129
+4.0,1:31,3.0,2.0,CIN 2,20.0,42.0,"Raheem Blackshear left tackle for 2 yards, touchdown",4.95,7.0,9.0,2022,129
+4.0,1:29,,,CIN 15,21.0,42.0,Eddy Pineiro kicks extra point good,0.0,0.0,9.0,2022,129
+4.0,1:29,,,CAR 35,21.0,42.0,"Eddy Pineiro kicks off 58 yards, returned by Trent Taylor for 9 yards (tackle by Giovanni Ricci)",0.0,-0.14,9.0,2022,129
+4.0,1:27,1.0,10.0,CIN 16,21.0,42.0,Brandon Allen kneels for -1 yards,-0.14,-0.78,9.0,2022,129
+4.0,0:44,2.0,11.0,CIN 15,21.0,42.0,Brandon Allen kneels for -2 yards,-0.78,-1.75,9.0,2022,129

@@ -1,0 +1,143 @@
+Quarter,Time,Down,ToGo,Location,SFO,BUF,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"49ers won the coin toss and deferred, Bills to receive the opening kickoff.",,,13.0,2024,194
+1.0,15:00,,,SFO 35,0.0,0.0,"Jake Moody kicks off 64 yards, returned by Ray Davis for 21 yards (tackle by Dee Winters)",0.0,0.41,13.0,2024,194
+1.0,14:53,1.0,10.0,BUF 22,0.0,0.0,Josh Allen pass complete short left to Khalil Shakir for no gain (tackle by Maliek Collins),0.41,-0.13,13.0,2024,194
+1.0,14:16,2.0,10.0,BUF 22,0.0,0.0,James Cook right guard for 2 yards (tackle by Nick McCloud and Fred Warner),-0.13,-0.56,13.0,2024,194
+1.0,13:36,3.0,8.0,BUF 24,0.0,0.0,"Penalty on Dawson Knox: False Start, 5 yards (accepted) (no play)",-0.56,-1.29,13.0,2024,194
+1.0,13:25,3.0,13.0,BUF 19,0.0,0.0,Josh Allen pass complete short left to Ty Johnson for 9 yards (tackle by Fred Warner),-1.29,-1.5,13.0,2024,194
+1.0,12:31,4.0,4.0,BUF 28,0.0,0.0,"Sam Martin punts 48 yards, returned by Jacob Cowing for 13 yards (tackle by Dorian Williams)",-1.5,-1.4,13.0,2024,194
+1.0,12:21,1.0,10.0,SFO 37,0.0,0.0,Brock Purdy pass complete short left to George Kittle for 7 yards (tackle by Rasul Douglas and Matt Milano),1.4,1.8,13.0,2024,194
+1.0,11:44,2.0,3.0,SFO 44,0.0,0.0,Christian McCaffrey up the middle for 2 yards (tackle by Taylor Rapp),1.8,1.36,13.0,2024,194
+1.0,11:06,3.0,1.0,SFO 46,0.0,0.0,Christian McCaffrey left guard for 6 yards (tackle by Damar Hamlin),1.36,2.39,13.0,2024,194
+1.0,10:29,1.0,10.0,BUF 48,0.0,0.0,Christian McCaffrey up the middle for 19 yards (tackle by Terrel Bernard and Taron Johnson),2.39,3.64,13.0,2024,194
+1.0,9:47,1.0,10.0,BUF 29,0.0,0.0,Jordan Mason up the middle for 11 yards (tackle by Damar Hamlin),3.64,4.37,13.0,2024,194
+1.0,9:10,1.0,10.0,BUF 18,0.0,0.0,Christian McCaffrey up the middle for 1 yard (tackle by Taron Johnson),4.37,3.94,13.0,2024,194
+1.0,8:34,2.0,9.0,BUF 17,0.0,0.0,Brock Purdy pass complete short right to Christian McCaffrey for 2 yards (tackle by Damar Hamlin),3.94,3.46,13.0,2024,194
+1.0,7:50,3.0,7.0,BUF 15,0.0,0.0,Brock Purdy pass incomplete short right intended for Christian McCaffrey,3.46,2.44,13.0,2024,194
+1.0,7:44,4.0,7.0,BUF 15,3.0,0.0,Jake Moody 33 yard field goal good,2.44,3.0,13.0,2024,194
+1.0,7:41,,,SFO 35,3.0,0.0,"Jake Moody kicks off 65 yards, touchback.",0.0,0.94,13.0,2024,194
+1.0,7:41,1.0,10.0,BUF 30,3.0,0.0,Ray Davis right tackle for 1 yard (tackle by Ji'Ayir Brown and Sam Okuayinonu),0.94,0.53,13.0,2024,194
+1.0,6:59,2.0,9.0,BUF 31,3.0,0.0,Josh Allen pass incomplete deep right intended for Khalil Shakir (defended by Renardo Green),0.53,-0.16,13.0,2024,194
+1.0,6:50,3.0,9.0,BUF 31,3.0,0.0,"Josh Allen pass incomplete short middle intended for Khalil Shakir. Penalty on Charvarius Ward: Illegal Contact, 5 yards (accepted) (no play)",-0.16,1.33,13.0,2024,194
+1.0,6:44,1.0,10.0,BUF 36,3.0,0.0,Ty Johnson up the middle for 8 yards (tackle by De'Vondre Campbell),1.33,1.87,13.0,2024,194
+1.0,6:07,2.0,2.0,BUF 44,3.0,0.0,James Cook left guard for 1 yard (tackle by Kevin Givens),1.87,1.29,13.0,2024,194
+1.0,5:40,3.0,1.0,BUF 45,3.0,0.0,Josh Allen left guard for 3 yards (tackle by Leonard Floyd and Yetur Gross-Matos),1.29,2.13,13.0,2024,194
+1.0,5:04,1.0,10.0,BUF 48,3.0,0.0,Josh Allen pass complete short left to Quintin Morris for 14 yards (tackle by Fred Warner),2.13,3.05,13.0,2024,194
+1.0,4:24,1.0,10.0,SFO 38,3.0,0.0,James Cook left guard for -4 yards (tackle by De'Vondre Campbell and Khalil Davis),3.05,1.97,13.0,2024,194
+1.0,3:43,2.0,14.0,SFO 42,3.0,0.0,Josh Allen pass complete short middle to Khalil Shakir for 8 yards (tackle by Nick McCloud and De'Vondre Campbell),1.97,2.34,13.0,2024,194
+1.0,3:00,3.0,6.0,SFO 34,3.0,0.0,Josh Allen left guard for 7 yards (tackle by De'Vondre Campbell),2.34,3.78,13.0,2024,194
+1.0,2:13,1.0,10.0,SFO 27,3.0,0.0,James Cook right tackle for 5 yards (tackle by Kalia Davis and Malik Mustapha),3.78,3.91,13.0,2024,194
+1.0,1:31,2.0,5.0,SFO 22,3.0,0.0,Ty Johnson left end for 4 yards (tackle by De'Vondre Campbell and Dee Winters),3.91,3.84,13.0,2024,194
+1.0,0:55,3.0,1.0,SFO 18,3.0,0.0,Ray Davis up the middle for 13 yards (tackle by Isaac Yiadom),3.84,6.06,13.0,2024,194
+1.0,0:08,1.0,5.0,SFO 5,3.0,6.0,"Ray Davis right end for 5 yards, touchdown",6.06,7.0,13.0,2024,194
+1.0,0:03,,,SFO 15,3.0,7.0,Tyler Bass kicks extra point good,0.0,0.0,13.0,2024,194
+1.0,0:03,,,BUF 35,3.0,7.0,"Tyler Bass kicks off 68 yards, returned by Deebo Samuel for 28 yards (tackle by Ja'Marcus Ingram)",0.0,0.61,13.0,2024,194
+2.0,15:00,1.0,10.0,SFO 25,3.0,7.0,Brock Purdy pass complete short left to Christian McCaffrey for 12 yards (tackle by Terrel Bernard),0.61,1.4,13.0,2024,194
+2.0,14:22,1.0,10.0,SFO 37,3.0,7.0,Christian McCaffrey right guard for 12 yards (tackle by Damar Hamlin and Taylor Rapp),1.4,2.19,13.0,2024,194
+2.0,13:38,1.0,10.0,SFO 49,3.0,7.0,Brock Purdy scrambles left end for 3 yards (tackle by Taron Johnson),2.19,2.05,13.0,2024,194
+2.0,13:01,2.0,7.0,BUF 48,3.0,7.0,Christian McCaffrey left guard for 18 yards (tackle by Taylor Rapp),2.05,3.58,13.0,2024,194
+2.0,12:18,1.0,10.0,BUF 30,3.0,7.0,Jordan Mason left guard for -4 yards (tackle by Rasul Douglas),3.58,2.49,13.0,2024,194
+2.0,11:37,2.0,14.0,BUF 34,3.0,7.0,"Brock Purdy pass deep left is intercepted by Damar Hamlin at BUF-8 and returned for no gain (tackle by Jauan Jennings). Penalty on Damar Hamlin: Illegal Contact, 5 yards (accepted) (no play)",2.49,3.64,13.0,2024,194
+2.0,11:23,1.0,10.0,BUF 29,3.0,7.0,Christian McCaffrey right end for -5 yards (tackle by Gregory Rousseau),3.64,2.42,13.0,2024,194
+2.0,10:35,2.0,15.0,BUF 34,3.0,7.0,"Penalty on SFO: Delay of Game, 5 yards (accepted) (no play)",2.42,1.75,13.0,2024,194
+2.0,10:19,2.0,20.0,BUF 39,3.0,7.0,Brock Purdy pass complete short middle to Deebo Samuel for 6 yards (tackle by Matt Milano and Taylor Rapp),1.75,1.88,13.0,2024,194
+2.0,9:36,3.0,14.0,BUF 33,3.0,7.0,Jordan Mason left guard for 6 yards (tackle by Quinton Jefferson and Terrel Bernard),1.88,1.67,13.0,2024,194
+2.0,8:54,4.0,8.0,BUF 27,3.0,7.0,Jake Moody 45 yard field goal no good,1.67,-1.27,13.0,2024,194
+2.0,8:48,1.0,10.0,BUF 35,3.0,13.0,"James Cook right tackle for 65 yards, touchdown",1.27,7.0,13.0,2024,194
+2.0,8:38,,,SFO 15,3.0,14.0,Tyler Bass kicks extra point good,0.0,0.0,13.0,2024,194
+2.0,8:38,,,BUF 35,3.0,14.0,"Tyler Bass kicks off 62 yards, returned by Deebo Samuel for 20 yards (tackle by Cole Bishop and Reggie Gilliam)",0.0,0.48,13.0,2024,194
+2.0,8:32,1.0,10.0,SFO 23,3.0,14.0,Jordan Mason left guard for 28 yards (tackle by Casey Toohill and Taron Johnson),0.48,2.32,13.0,2024,194
+2.0,7:52,1.0,10.0,BUF 49,3.0,14.0,Jordan Mason left guard for 4 yards (tackle by Rasul Douglas and Ed Oliver),2.32,2.32,13.0,2024,194
+2.0,7:15,2.0,6.0,BUF 45,3.0,14.0,Brock Purdy pass complete short left to Deebo Samuel for 2 yards (tackle by DaQuan Jones and Ed Oliver),2.32,1.88,13.0,2024,194
+2.0,6:34,3.0,4.0,BUF 43,3.0,14.0,Jordan Mason up the middle for 6 yards (tackle by Matt Milano),1.88,3.12,13.0,2024,194
+2.0,5:54,1.0,10.0,BUF 37,3.0,14.0,Isaac Guerendo left tackle for no gain (tackle by A.J. Epenesa and Terrel Bernard),3.12,2.57,13.0,2024,194
+2.0,5:11,2.0,10.0,BUF 37,3.0,14.0,Brock Purdy scrambles left guard for 1 yard (tackle by Von Miller),2.57,2.01,13.0,2024,194
+2.0,4:28,3.0,9.0,BUF 36,3.0,14.0,Brock Purdy sacked by Gregory Rousseau for -5 yards,2.01,0.53,13.0,2024,194
+2.0,3:42,4.0,14.0,BUF 41,3.0,14.0,Pat O'Donnell punts 38 yards downed by George Odum,0.53,0.38,13.0,2024,194
+2.0,3:31,1.0,10.0,BUF 3,3.0,14.0,James Cook right guard for 2 yards (tackle by Evan Anderson and Charvarius Ward),-0.38,-0.63,13.0,2024,194
+2.0,2:49,2.0,8.0,BUF 5,3.0,14.0,Josh Allen pass complete deep right to Dawson Knox for 39 yards (tackle by Jalen Graham and Ji'Ayir Brown),-0.63,1.86,13.0,2024,194
+2.0,2:00,1.0,10.0,BUF 44,3.0,14.0,James Cook right tackle for 18 yards (tackle by Malik Mustapha),1.86,3.05,13.0,2024,194
+2.0,1:53,1.0,10.0,SFO 38,3.0,14.0,James Cook left guard for 10 yards (tackle by Renardo Green and Ji'Ayir Brown),3.05,3.71,13.0,2024,194
+2.0,1:12,1.0,10.0,SFO 28,3.0,14.0,Josh Allen pass complete short left to Amari Cooper for 7 yards (tackle by Renardo Green),3.71,4.11,13.0,2024,194
+2.0,1:07,,,,,,Timeout #1 by Buffalo Bills,,,13.0,2024,194
+2.0,1:07,2.0,3.0,SFO 21,3.0,14.0,Josh Allen pass complete short right to James Cook for 13 yards (tackle by Nick McCloud),4.11,5.37,13.0,2024,194
+2.0,1:01,1.0,8.0,SFO 8,3.0,14.0,James Cook up the middle for 1 yard (tackle by Evan Anderson and Charvarius Ward),5.37,4.76,13.0,2024,194
+2.0,0:53,,,,,,Timeout #1 by San Francisco 49ers,,,13.0,2024,194
+2.0,0:53,2.0,7.0,SFO 7,3.0,14.0,Josh Allen pass incomplete short right intended for Zach Davidson,4.76,3.81,13.0,2024,194
+2.0,0:47,3.0,7.0,SFO 7,3.0,20.0,"Josh Allen pass complete short right to Mack Hollins for 7 yards, touchdown",3.81,7.0,13.0,2024,194
+2.0,0:41,,,SFO 15,3.0,21.0,Tyler Bass kicks extra point good,0.0,0.0,13.0,2024,194
+2.0,0:41,,,BUF 35,3.0,21.0,"Tyler Bass kicks off 65 yards, returned by Deebo Samuel for 29 yards (tackle by Ja'Marcus Ingram and Nicholas Morrow)",0.0,0.87,13.0,2024,194
+2.0,0:35,1.0,10.0,SFO 29,3.0,21.0,Jordan Mason left guard for 11 yards (tackle by Taron Johnson),0.87,1.6,13.0,2024,194
+2.0,0:28,,,,,,Timeout #2 by San Francisco 49ers,,,13.0,2024,194
+2.0,0:28,1.0,10.0,SFO 40,3.0,21.0,Brock Purdy pass complete short left to Deebo Samuel for 7 yards (tackle by Terrel Bernard),1.6,2.0,13.0,2024,194
+2.0,0:11,2.0,3.0,SFO 47,3.0,21.0,Brock Purdy spiked the ball,2.0,1.29,13.0,2024,194
+2.0,0:10,,,,,,Timeout #2 by Buffalo Bills,,,13.0,2024,194
+2.0,0:10,3.0,3.0,SFO 47,3.0,21.0,Brock Purdy pass complete deep left to Jauan Jennings for 16 yards (tackle by Rasul Douglas),1.29,3.12,13.0,2024,194
+2.0,0:04,1.0,10.0,BUF 37,3.0,21.0,Jake Moody 55 yard field goal no good,3.12,1.86,13.0,2024,194
+3.0,15:00,,,BUF 35,3.0,21.0,"Tyler Bass kicks off 62 yards, returned by Deebo Samuel for 60 yards (tackle by Joe Andreessen)",0.0,3.12,13.0,2024,194
+3.0,14:50,1.0,10.0,BUF 37,3.0,21.0,Jordan Mason right tackle for 2 yards (tackle by Gregory Rousseau),3.12,2.84,13.0,2024,194
+3.0,14:11,2.0,8.0,BUF 35,3.0,21.0,Brock Purdy pass complete short middle to Jauan Jennings for 14 yards (tackle by Rasul Douglas),2.84,4.17,13.0,2024,194
+3.0,13:37,1.0,10.0,BUF 21,3.0,21.0,Jordan Mason right end for 3 yards (tackle by Damar Hamlin),4.17,4.04,13.0,2024,194
+3.0,12:58,2.0,7.0,BUF 18,3.0,21.0,Jordan Mason up the middle for 9 yards (tackle by Taylor Rapp),4.04,5.14,13.0,2024,194
+3.0,12:15,1.0,9.0,BUF 9,3.0,21.0,"Penalty on Von Miller: Encroachment, 5 yards (accepted) (no play)",5.14,6.28,13.0,2024,194
+3.0,11:59,1.0,4.0,BUF 4,3.0,21.0,"Kyle Juszczyk up the middle for -1 yards. Kyle Juszczyk fumbles (tackle by Matt Milano, recovered by Christian Benford at BUF-5 and returned for 43 yards (tackle by George Kittle)",6.28,-2.13,13.0,2024,194
+3.0,11:45,1.0,10.0,BUF 48,3.0,21.0,James Cook up the middle for 7 yards (tackle by Leonard Floyd),2.13,2.53,13.0,2024,194
+3.0,11:04,2.0,3.0,SFO 45,3.0,21.0,James Cook right guard for 1 yard (tackle by Maliek Collins),2.53,1.95,13.0,2024,194
+3.0,10:26,3.0,2.0,SFO 44,3.0,21.0,Josh Allen pass incomplete short left intended for Khalil Shakir,1.95,0.33,13.0,2024,194
+3.0,10:20,4.0,2.0,SFO 44,3.0,21.0,Sam Martin punts 38 yards downed by Jalen Virgil,0.33,0.38,13.0,2024,194
+3.0,10:10,1.0,10.0,SFO 6,3.0,21.0,Brock Purdy pass incomplete short right intended for Jauan Jennings (defended by Christian Benford),-0.38,-0.78,13.0,2024,194
+3.0,10:03,2.0,10.0,SFO 6,3.0,21.0,Jordan Mason right guard for no gain (tackle by Quinton Jefferson and Christian Benford),-0.78,-1.42,13.0,2024,194
+3.0,9:23,3.0,10.0,SFO 6,3.0,21.0,Brock Purdy pass incomplete short right intended for George Kittle,-1.42,-2.49,13.0,2024,194
+3.0,9:15,4.0,10.0,SFO 6,3.0,21.0,"Pat O'Donnell punts 46 yards, returned by Brandon Codrington for 8 yards (tackle by Chris Conley)",-2.49,-2.65,13.0,2024,194
+3.0,9:03,1.0,10.0,SFO 44,3.0,21.0,Ray Davis up the middle for 11 yards (tackle by Fred Warner and Malik Mustapha),2.65,3.38,13.0,2024,194
+3.0,8:22,1.0,10.0,SFO 33,3.0,21.0,Ray Davis right guard for 1 yard (tackle by Khalil Davis and Malik Mustapha),3.38,2.97,13.0,2024,194
+3.0,7:37,2.0,9.0,SFO 32,3.0,21.0,Curtis Samuel left end for 7 yards (tackle by Ji'Ayir Brown),2.97,3.2,13.0,2024,194
+3.0,6:56,3.0,2.0,SFO 25,3.0,21.0,Josh Allen pass incomplete deep left intended for Khalil Shakir (defended by Malik Mustapha),3.2,1.93,13.0,2024,194
+3.0,6:50,,,,,,Timeout #1 by Buffalo Bills,,,13.0,2024,194
+3.0,6:50,4.0,2.0,SFO 25,3.0,21.0,Josh Allen pass complete short left to Khalil Shakir for 18 yards (tackle by Dee Winters),1.93,5.6,13.0,2024,194
+3.0,6:05,1.0,7.0,SFO 7,3.0,27.0,"Josh Allen pass complete short left to Amari Cooper for -2 yards, lateral to Josh Allen for 9 yards, touchdown",5.6,7.0,13.0,2024,194
+3.0,5:58,,,SFO 15,3.0,28.0,Tyler Bass kicks extra point good,0.0,0.0,13.0,2024,194
+3.0,5:58,,,BUF 35,3.0,28.0,"Tyler Bass kicks off 56 yards, returned by Deebo Samuel for 43 yards (tackle by Tyler Bass)",0.0,2.39,13.0,2024,194
+3.0,5:50,1.0,10.0,BUF 48,3.0,28.0,Jordan Mason up the middle for no gain (tackle by Terrel Bernard),2.39,1.85,13.0,2024,194
+3.0,5:09,2.0,10.0,BUF 48,3.0,28.0,Brock Purdy pass incomplete deep right intended for Ricky Pearsall,1.85,1.16,13.0,2024,194
+3.0,4:59,3.0,10.0,BUF 48,3.0,28.0,Brock Purdy pass complete short left to Deebo Samuel for 5 yards (tackle by Cameron Lewis and Terrel Bernard),1.16,0.4,13.0,2024,194
+3.0,4:22,4.0,5.0,BUF 43,3.0,28.0,Brock Purdy pass complete short right to Jauan Jennings for 26 yards (tackle by Taron Johnson and Terrel Bernard),0.4,4.44,13.0,2024,194
+3.0,3:41,1.0,10.0,BUF 17,3.0,28.0,Jordan Mason up the middle for 2 yards (tackle by Matt Milano),4.44,4.15,13.0,2024,194
+3.0,3:00,2.0,8.0,BUF 15,9.0,28.0,"Isaac Guerendo left end for 15 yards, touchdown",4.15,7.0,13.0,2024,194
+3.0,2:54,,,BUF 15,10.0,28.0,Jake Moody kicks extra point good,0.0,0.0,13.0,2024,194
+3.0,2:54,,,SFO 35,10.0,28.0,"Jake Moody kicks off 60 yards, returned by Ray Davis for 22 yards (tackle by George Odum)",0.0,0.74,13.0,2024,194
+3.0,2:48,1.0,10.0,BUF 27,10.0,28.0,James Cook right tackle for -1 yards (tackle by Charvarius Ward and Nick McCloud),0.74,0.06,13.0,2024,194
+3.0,2:08,2.0,11.0,BUF 26,10.0,28.0,Josh Allen pass complete short left to Amari Cooper for 5 yards (tackle by Renardo Green),0.06,0.04,13.0,2024,194
+3.0,1:25,3.0,6.0,BUF 31,10.0,28.0,Josh Allen pass complete short left to Khalil Shakir for 4 yards (tackle by Renardo Green),0.04,-1.04,13.0,2024,194
+3.0,0:41,4.0,2.0,BUF 35,10.0,28.0,"Sam Martin punts 54 yards, returned by Jacob Cowing for 12 yards (tackle by Cameron Lewis)",-1.04,-0.48,13.0,2024,194
+3.0,0:29,1.0,10.0,SFO 23,10.0,28.0,Brock Purdy pass incomplete deep middle intended for Jauan Jennings,0.48,-0.07,13.0,2024,194
+3.0,0:24,2.0,10.0,SFO 23,10.0,28.0,Isaac Guerendo left guard for 5 yards (tackle by DaQuan Jones and Terrel Bernard),-0.07,-0.1,13.0,2024,194
+4.0,15:00,3.0,5.0,SFO 28,10.0,28.0,"Brock Purdy sacked by. Brock Purdy fumbles, recovered by Gregory Rousseau at SF-25",-0.1,-3.91,13.0,2024,194
+4.0,14:53,1.0,10.0,SFO 25,10.0,28.0,James Cook up the middle for 1 yard (tackle by Ji'Ayir Brown and Evan Anderson),3.91,3.5,13.0,2024,194
+4.0,14:10,2.0,9.0,SFO 24,10.0,28.0,Josh Allen pass complete deep middle to Dawson Knox for 17 yards (tackle by Renardo Green),3.5,5.6,13.0,2024,194
+4.0,13:27,1.0,7.0,SFO 7,10.0,28.0,James Cook up the middle for -1 yards (tackle by Yetur Gross-Matos and Kalia Davis),5.6,4.57,13.0,2024,194
+4.0,12:39,2.0,8.0,SFO 8,10.0,34.0,"Josh Allen scrambles right tackle for 8 yards, touchdown",4.57,7.0,13.0,2024,194
+4.0,12:31,,,SFO 15,10.0,35.0,Tyler Bass kicks extra point good,0.0,0.0,13.0,2024,194
+4.0,12:31,,,BUF 35,10.0,35.0,"Tyler Bass kicks off 63 yards, returned by Deebo Samuel for 28 yards. Deebo Samuel fumbles (tackle by Quintin Morris, recovered by Jalen Virgil at SF-31",0.0,-3.51,13.0,2024,194
+4.0,12:22,1.0,10.0,SFO 31,10.0,35.0,"Ray Davis right guard for no gain (tackle by Malik Mustapha). Penalty on Alec Anderson: Offensive Holding, 10 yards (accepted) (no play)",3.51,2.85,13.0,2024,194
+4.0,11:56,1.0,20.0,SFO 41,10.0,35.0,Ray Davis left guard for 8 yards (tackle by Charvarius Ward),2.85,2.7,13.0,2024,194
+4.0,11:11,2.0,12.0,SFO 33,10.0,35.0,Ray Davis left guard for 3 yards (tackle by Maliek Collins),2.7,2.41,13.0,2024,194
+4.0,10:23,,,,,,Timeout #2 by Buffalo Bills,,,13.0,2024,194
+4.0,10:23,3.0,9.0,SFO 30,10.0,35.0,Mitchell Trubisky up the middle for no gain (tackle by Yetur Gross-Matos),2.41,1.41,13.0,2024,194
+4.0,9:41,4.0,9.0,SFO 30,10.0,35.0,Tyler Bass 49 yard field goal no good,1.41,-1.53,13.0,2024,194
+4.0,9:34,1.0,10.0,SFO 39,10.0,35.0,Brock Purdy pass complete short left to Isaac Guerendo for -3 yards (tackle by DaQuan Jones),1.53,0.58,13.0,2024,194
+4.0,8:56,2.0,13.0,SFO 36,10.0,35.0,Isaac Guerendo left guard for -1 yards (tackle by Gregory Rousseau),0.58,-0.23,13.0,2024,194
+4.0,8:18,3.0,14.0,SFO 35,10.0,35.0,Brock Purdy pass incomplete short middle intended for Deebo Samuel,-0.23,-1.04,13.0,2024,194
+4.0,8:12,4.0,14.0,SFO 35,10.0,35.0,"Pat O'Donnell punts 40 yards, returned by Brandon Codrington for 10 yards, touchdown. Penalty on Cole Bishop: Offensive Holding, 10 yards (accepted)",-1.04,-0.61,13.0,2024,194
+4.0,7:55,1.0,10.0,BUF 25,10.0,35.0,Ty Johnson left end for 7 yards (tackle by Ji'Ayir Brown),0.61,1.01,13.0,2024,194
+4.0,7:13,2.0,3.0,BUF 32,10.0,35.0,Ty Johnson up the middle for 8 yards (tackle by Renardo Green),1.01,1.6,13.0,2024,194
+4.0,6:29,1.0,10.0,BUF 40,10.0,35.0,Ty Johnson left tackle for 1 yard (tackle by Sam Okuayinonu),1.6,1.19,13.0,2024,194
+4.0,5:44,2.0,9.0,BUF 41,10.0,35.0,Mitchell Trubisky pass complete short right to Ray Davis for 4 yards (tackle by Ji'Ayir Brown),1.19,1.03,13.0,2024,194
+4.0,4:56,,,,,,Timeout #3 by Buffalo Bills,,,13.0,2024,194
+4.0,4:56,3.0,5.0,BUF 45,10.0,35.0,Ray Davis left end for 9 yards (tackle by Dee Winters),1.03,2.52,13.0,2024,194
+4.0,4:12,1.0,10.0,SFO 46,10.0,35.0,Ray Davis left guard for 6 yards (tackle by Charvarius Ward and Yetur Gross-Matos),2.52,2.79,13.0,2024,194
+4.0,3:28,2.0,4.0,SFO 40,10.0,35.0,Ray Davis left tackle for 2 yards (tackle by Evan Anderson),2.79,2.35,13.0,2024,194
+4.0,2:42,3.0,2.0,SFO 38,10.0,35.0,Ray Davis right tackle for 4 yards (tackle by Ji'Ayir Brown and Malik Mustapha),2.35,3.31,13.0,2024,194
+4.0,2:00,1.0,10.0,SFO 34,10.0,35.0,Mitchell Trubisky kneels for -1 yards,3.31,2.64,13.0,2024,194
+4.0,1:17,2.0,11.0,SFO 35,10.0,35.0,Mitchell Trubisky kneels for -1 yards,2.64,1.82,13.0,2024,194
+4.0,0:37,3.0,12.0,SFO 36,10.0,35.0,Mitchell Trubisky kneels for -1 yards,1.82,0.79,13.0,2024,194

@@ -1,0 +1,159 @@
+Quarter,Time,Down,ToGo,Location,BUF,NYJ,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Jets won the coin toss and deferred, Bills to receive the opening kickoff.",,,9.0,2022,125
+1.0,15:00,,,NYJ 35,0.0,0.0,"Braden Mann kicks off 20 yards, returned by Cameron Lewis for no gain (tackle by Justin Hardee)",0.0,1.93,9.0,2022,125
+1.0,14:58,1.0,10.0,BUF 45,0.0,0.0,Josh Allen pass complete deep right to Stefon Diggs for 42 yards (tackle by Lamarcus Joyner),1.93,4.71,9.0,2022,125
+1.0,14:21,1.0,10.0,NYJ 13,0.0,0.0,Josh Allen pass incomplete short right intended for James Cook,4.71,4.05,9.0,2022,125
+1.0,14:17,2.0,10.0,NYJ 13,0.0,0.0,Josh Allen pass short right intended for Dawson Knox is intercepted by Jordan Whitehead at NYJ-9 and returned for 5 yards,4.05,0.28,9.0,2022,125
+1.0,14:11,1.0,10.0,NYJ 14,0.0,0.0,Michael Carter left end for -4 yards (tackle by Gregory Rousseau),-0.28,-1.07,9.0,2022,125
+1.0,13:26,2.0,14.0,NYJ 10,0.0,0.0,Zach Wilson pass incomplete deep right intended for Denzel Mims,-1.07,-1.89,9.0,2022,125
+1.0,13:17,3.0,14.0,NYJ 10,0.0,0.0,Ty Johnson up the middle for 12 yards (tackle by Dane Jackson and Damar Hamlin),-1.89,-1.9,9.0,2022,125
+1.0,12:33,4.0,2.0,NYJ 22,0.0,0.0,"Braden Mann punts 63 yards, returned by Nyheim Hines for 18 yards (tackle by Jamien Sherwood)",-1.9,-1.14,9.0,2022,125
+1.0,12:21,1.0,10.0,BUF 33,0.0,0.0,Devin Singletary up the middle for 1 yard (tackle by Sheldon Rankins and Quinnen Williams),1.14,0.73,9.0,2022,125
+1.0,11:50,2.0,9.0,BUF 34,0.0,0.0,Josh Allen pass complete short right to Stefon Diggs for 13 yards (tackle by Michael Carter),0.73,2.06,9.0,2022,125
+1.0,11:09,1.0,10.0,BUF 47,0.0,0.0,Josh Allen pass incomplete deep left intended for Jake Kumerow,2.06,1.52,9.0,2022,125
+1.0,11:04,2.0,10.0,BUF 47,0.0,0.0,Devin Singletary left end for 5 yards (tackle by Vinny Curry),1.52,1.49,9.0,2022,125
+1.0,10:18,3.0,5.0,NYJ 48,0.0,0.0,Josh Allen pass complete to Devin Singletary for 11 yards (tackle by Lamarcus Joyner),1.49,3.12,9.0,2022,125
+1.0,9:40,1.0,10.0,NYJ 37,0.0,0.0,James Cook left guard for 6 yards (tackle by Micheal Clemons and D.J. Reed),3.12,3.38,9.0,2022,125
+1.0,9:12,2.0,4.0,NYJ 31,0.0,0.0,Josh Allen pass complete short right to Dawson Knox for -1 yards (tackle by Quincy Williams),3.38,2.54,9.0,2022,125
+1.0,8:32,3.0,5.0,NYJ 32,0.0,0.0,Josh Allen up the middle for 7 yards (tackle by Sauce Gardner and Lamarcus Joyner),2.54,3.91,9.0,2022,125
+1.0,7:48,1.0,10.0,NYJ 25,0.0,0.0,Josh Allen pass complete short left to Dawson Knox for 9 yards (tackle by Jordan Whitehead),3.91,4.75,9.0,2022,125
+1.0,7:00,2.0,1.0,NYJ 16,0.0,0.0,Devin Singletary up the middle for 4 yards (tackle by Jamien Sherwood),4.75,4.78,9.0,2022,125
+1.0,6:24,1.0,10.0,NYJ 12,0.0,0.0,"Josh Allen sacked by and Kwon Alexander for -2 yards and Jamien Sherwood for -2 yards. Josh Allen fumbles (forced by Sheldon Rankins), recovered by Josh Allen at NYJ-14",4.78,3.79,9.0,2022,125
+1.0,5:36,2.0,12.0,NYJ 14,0.0,0.0,Devin Singletary up the middle for 2 yards (tackle by Jamien Sherwood),3.79,3.12,9.0,2022,125
+1.0,4:55,3.0,10.0,NYJ 12,0.0,0.0,"Josh Allen scrambles right tackle for no gain, touchdown Replay Assistant challenged the runner broke the plane ruling, and the original play was overturned. Josh Allen scrambles right tackle for 11 yards (tackle by Jamien Sherwood and Lamarcus Joyner)",3.12,6.97,9.0,2022,125
+1.0,4:41,1.0,1.0,NYJ 1,6.0,0.0,"Josh Allen up the middle for 1 yard, touchdown",6.97,7.0,9.0,2022,125
+1.0,4:39,,,NYJ 15,7.0,0.0,Tyler Bass kicks extra point good,0.0,0.0,9.0,2022,125
+1.0,4:39,,,BUF 35,7.0,0.0,"Tyler Bass kicks off 61 yards, returned by Braxton Berrios for 22 yards (tackle by Cameron Lewis). Penalty on Marcell Harris: Offensive Holding, 10 yards (accepted)",0.0,-0.14,9.0,2022,125
+1.0,4:31,1.0,10.0,NYJ 16,7.0,0.0,Zach Wilson pass complete short right to Garrett Wilson for 15 yards (tackle by Damar Hamlin and Tremaine Edmunds),-0.14,1.0,9.0,2022,125
+1.0,3:51,1.0,10.0,NYJ 31,7.0,0.0,Michael Carter up the middle for 7 yards (tackle by Damar Hamlin and Taron Johnson),1.0,1.41,9.0,2022,125
+1.0,3:16,2.0,3.0,NYJ 38,7.0,0.0,"James Robinson right tackle for 5 yards (tackle by Jaquan Johnson). Penalty on Jaquan Johnson: Face Mask (15 Yards), 15 yards (accepted)",1.41,2.79,9.0,2022,125
+1.0,2:47,1.0,10.0,BUF 42,7.0,0.0,Zach Wilson pass complete short left to C.J. Uzomah for 5 yards (tackle by Jaquan Johnson),2.79,2.92,9.0,2022,125
+1.0,2:03,2.0,5.0,BUF 37,7.0,0.0,James Robinson for no gain (tackle by Tremaine Edmunds),2.92,2.21,9.0,2022,125
+1.0,1:14,3.0,5.0,BUF 37,7.0,0.0,Zach Wilson pass complete short right to Garrett Wilson for 2 yards (tackle by Damar Hamlin and Tremaine Edmunds),2.21,0.99,9.0,2022,125
+1.0,0:35,4.0,3.0,BUF 35,7.0,3.0,Greg Zuerlein 53 yard field goal good,0.99,3.0,9.0,2022,125
+1.0,0:31,,,NYJ 35,7.0,3.0,"Braden Mann kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,125
+1.0,0:31,1.0,10.0,BUF 25,7.0,3.0,Josh Allen pass complete short left to James Cook for 8 yards (tackle by Will Parks),0.61,1.14,9.0,2022,125
+2.0,15:00,2.0,2.0,BUF 33,7.0,3.0,James Cook left end for 6 yards (tackle by D.J. Reed and Kwon Alexander),1.14,1.53,9.0,2022,125
+2.0,14:15,1.0,10.0,BUF 39,7.0,3.0,Josh Allen pass incomplete short left intended for James Cook (defended by C.J. Mosley),1.53,0.99,9.0,2022,125
+2.0,14:10,2.0,10.0,BUF 39,7.0,3.0,Josh Allen pass incomplete deep right intended for Stefon Diggs,0.99,0.3,9.0,2022,125
+2.0,14:05,3.0,10.0,BUF 39,7.0,3.0,Josh Allen pass incomplete short right intended for Gabriel Davis,0.3,-0.78,9.0,2022,125
+2.0,13:59,4.0,10.0,BUF 39,7.0,3.0,"Sam Martin punts 61 yards, touchback.",-0.78,-0.28,9.0,2022,125
+2.0,13:51,1.0,10.0,NYJ 20,7.0,3.0,Zach Wilson pass complete short left to Garrett Wilson for 7 yards (tackle by Damar Hamlin),0.28,0.68,9.0,2022,125
+2.0,13:05,2.0,3.0,NYJ 27,7.0,3.0,Michael Carter left end for 25 yards (tackle by Ed Oliver),0.68,2.39,9.0,2022,125
+2.0,12:17,1.0,10.0,BUF 48,7.0,3.0,Ty Johnson left end for 5 yards (tackle by Dane Jackson),2.39,2.52,9.0,2022,125
+2.0,11:41,2.0,5.0,BUF 43,7.0,3.0,Zach Wilson pass complete short right to James Robinson for -2 yards (tackle by Tremaine Edmunds and Jaquan Johnson),2.52,1.55,9.0,2022,125
+2.0,10:53,3.0,7.0,BUF 45,7.0,3.0,Zach Wilson pass incomplete short left intended for Denzel Mims (defended by Taron Johnson),1.55,0.27,9.0,2022,125
+2.0,10:48,4.0,7.0,BUF 45,7.0,3.0,"Braden Mann punts 38 yards, fair catch by Nyheim Hines at BUF-7",0.27,0.38,9.0,2022,125
+2.0,10:42,1.0,10.0,BUF 7,7.0,3.0,Devin Singletary up the middle for 4 yards (tackle by John Franklin-Myers),-0.38,-0.49,9.0,2022,125
+2.0,10:10,2.0,6.0,BUF 11,7.0,3.0,Josh Allen pass complete short right to Devin Singletary for 3 yards (tackle by Jordan Whitehead),-0.49,-0.6,9.0,2022,125
+2.0,9:34,3.0,3.0,BUF 14,7.0,3.0,Josh Allen pass complete short right to Stefon Diggs for 7 yards (tackle by D.J. Reed and C.J. Mosley),-0.6,0.34,9.0,2022,125
+2.0,8:57,1.0,10.0,BUF 21,7.0,3.0,Josh Allen pass complete short right to Stefon Diggs for 14 yards,0.34,1.27,9.0,2022,125
+2.0,8:24,1.0,10.0,BUF 35,7.0,3.0,Devin Singletary up the middle for 4 yards (tackle by Jordan Whitehead and Micheal Clemons),1.27,1.26,9.0,2022,125
+2.0,7:50,2.0,6.0,BUF 39,7.0,3.0,Josh Allen pass complete short right to Stefon Diggs for 17 yards (tackle by Lamarcus Joyner),1.26,2.65,9.0,2022,125
+2.0,7:17,1.0,10.0,NYJ 44,7.0,3.0,Josh Allen pass incomplete short left intended for Isaiah McKenzie (defended by Michael Carter),2.65,2.11,9.0,2022,125
+2.0,7:14,2.0,10.0,NYJ 44,7.0,3.0,Josh Allen pass complete short left to Devin Singletary for 8 yards (tackle by C.J. Mosley),2.11,2.48,9.0,2022,125
+2.0,6:38,3.0,2.0,NYJ 36,13.0,3.0,"Josh Allen for 36 yards, touchdown",2.48,7.0,9.0,2022,125
+2.0,6:30,,,NYJ 15,14.0,3.0,Tyler Bass kicks extra point good,0.0,0.0,9.0,2022,125
+2.0,6:30,,,BUF 35,14.0,3.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,125
+2.0,6:30,1.0,10.0,NYJ 25,14.0,3.0,Zach Wilson pass complete short middle to Garrett Wilson for 9 yards (tackle by Christian Benford and Tremaine Edmunds),0.61,1.28,9.0,2022,125
+2.0,5:58,2.0,1.0,NYJ 34,14.0,3.0,"Michael Carter left end for no gain (tackle by Terrel Bernard and Dane Jackson) NYJ challenged the first down ruling, and the play was upheld.",1.28,0.56,9.0,2022,125
+2.0,5:14,3.0,1.0,NYJ 34,14.0,3.0,Zach Wilson up the middle for 1 yard (tackle by DaQuan Jones and Shaq Lawson),0.56,1.27,9.0,2022,125
+2.0,4:28,1.0,10.0,NYJ 35,14.0,3.0,Zach Wilson pass incomplete short right intended for Braxton Berrios,1.27,0.72,9.0,2022,125
+2.0,4:24,2.0,10.0,NYJ 35,14.0,3.0,Zach Wilson pass complete short middle to Garrett Wilson for 24 yards (tackle by Damar Hamlin),0.72,2.85,9.0,2022,125
+2.0,3:44,1.0,10.0,BUF 41,14.0,3.0,James Robinson up the middle for 1 yard (tackle by Ed Oliver and Dane Jackson),2.85,2.44,9.0,2022,125
+2.0,3:00,2.0,9.0,BUF 40,14.0,3.0,Zach Wilson pass complete short right to Garrett Wilson for 8 yards (tackle by Dane Jackson),2.44,2.81,9.0,2022,125
+2.0,2:26,3.0,1.0,BUF 32,14.0,3.0,James Robinson up the middle for no gain (tackle by Damar Hamlin),2.81,1.31,9.0,2022,125
+2.0,2:00,4.0,1.0,BUF 32,14.0,3.0,Zach Wilson pass complete short right to C.J. Uzomah for 5 yards (tackle by Taron Johnson),1.31,3.78,9.0,2022,125
+2.0,1:14,1.0,10.0,BUF 27,14.0,3.0,James Robinson right tackle for 4 yards (tackle by Tremaine Edmunds and Dane Jackson),3.78,3.77,9.0,2022,125
+2.0,0:50,2.0,6.0,BUF 23,14.0,3.0,Zach Wilson pass complete short right to Tyler Conklin for 7 yards (tackle by Jaquan Johnson and Terrel Bernard),3.77,4.51,9.0,2022,125
+2.0,0:42,,,,,,Timeout #2 by New York Jets,,,9.0,2022,125
+2.0,0:42,1.0,10.0,BUF 16,14.0,3.0,Zach Wilson pass complete short right to Michael Carter for 10 yards (tackle by Damar Hamlin),4.51,5.83,9.0,2022,125
+2.0,0:35,1.0,6.0,BUF 6,14.0,9.0,"Michael Carter for 6 yards, touchdown",5.83,7.0,9.0,2022,125
+2.0,0:32,,,BUF 15,14.0,10.0,Greg Zuerlein kicks extra point good,0.0,0.0,9.0,2022,125
+2.0,0:32,,,NYJ 35,14.0,10.0,"Braden Mann kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,125
+2.0,0:32,1.0,10.0,BUF 25,14.0,10.0,Josh Allen pass complete short middle to Gabriel Davis for 15 yards (tackle by D.J. Reed),0.61,1.6,9.0,2022,125
+2.0,0:23,,,,,,Timeout #1 by Buffalo Bills,,,9.0,2022,125
+2.0,0:23,1.0,10.0,BUF 40,14.0,10.0,Josh Allen pass complete deep right to Dawson Knox for 17 yards (tackle by Sauce Gardner),1.6,2.72,9.0,2022,125
+2.0,0:17,,,,,,Timeout #2 by Buffalo Bills,,,9.0,2022,125
+2.0,0:17,1.0,10.0,NYJ 43,14.0,10.0,Josh Allen pass incomplete short right intended for Devin Singletary,2.72,2.18,9.0,2022,125
+2.0,0:13,2.0,10.0,NYJ 43,14.0,10.0,Josh Allen pass incomplete short left intended for Stefon Diggs,2.18,1.49,9.0,2022,125
+2.0,0:10,,,,,,Timeout #3 by New York Jets,,,9.0,2022,125
+2.0,0:10,3.0,10.0,NYJ 43,14.0,10.0,Josh Allen up the middle for 6 yards (tackle by Quincy Williams),1.49,0.79,9.0,2022,125
+2.0,0:04,,,,,,Timeout #3 by Buffalo Bills,,,9.0,2022,125
+2.0,0:04,4.0,4.0,NYJ 37,14.0,10.0,Tyler Bass 55 yard field goal no good,0.79,1.86,9.0,2022,125
+3.0,15:00,,,BUF 35,14.0,10.0,"Tyler Bass kicks off 63 yards, returned by Braxton Berrios for 18 yards (tackle by Tyler Matakevich and Siran Neal)",0.0,0.28,9.0,2022,125
+3.0,14:56,1.0,10.0,NYJ 20,14.0,10.0,Zach Wilson pass complete deep left to Garrett Wilson for 19 yards (tackle by Jaquan Johnson),0.28,1.53,9.0,2022,125
+3.0,14:22,1.0,10.0,NYJ 39,14.0,10.0,Michael Carter up the middle for 2 yards (tackle by Tremaine Edmunds and Ed Oliver),1.53,1.26,9.0,2022,125
+3.0,13:38,2.0,8.0,NYJ 41,14.0,10.0,Zach Wilson pass complete short middle to C.J. Uzomah for 6 yards (tackle by Tremaine Edmunds),1.26,1.36,9.0,2022,125
+3.0,12:57,3.0,2.0,NYJ 47,14.0,10.0,Michael Carter up the middle for 1 yard (tackle by Jordan Phillips and Jaquan Johnson),1.36,-0.19,9.0,2022,125
+3.0,12:16,4.0,1.0,NYJ 48,14.0,10.0,Ashtyn Davis up the middle for 2 yards (tackle by Terrel Bernard and Jordan Phillips),-0.19,2.26,9.0,2022,125
+3.0,11:27,1.0,10.0,NYJ 50,14.0,10.0,James Robinson left end for 1 yard (tackle by Ed Oliver and Tremaine Edmunds),2.26,1.85,9.0,2022,125
+3.0,10:46,2.0,9.0,BUF 49,14.0,10.0,Zach Wilson pass incomplete short right,1.85,1.16,9.0,2022,125
+3.0,10:38,3.0,9.0,BUF 49,14.0,10.0,Zach Wilson scrambles left end for 13 yards (tackle by Kaiir Elam),1.16,3.18,9.0,2022,125
+3.0,9:56,1.0,10.0,BUF 36,14.0,10.0,Zach Wilson pass complete short left to Jeff Smith for 6 yards,3.18,3.45,9.0,2022,125
+3.0,9:25,2.0,4.0,BUF 30,14.0,10.0,James Robinson up the middle for 2 yards (tackle by Terrel Bernard and Shaq Lawson),3.45,3.01,9.0,2022,125
+3.0,8:36,3.0,2.0,BUF 28,14.0,10.0,Zach Wilson pass complete short right to Braxton Berrios for 6 yards (tackle by Jaquan Johnson),3.01,4.11,9.0,2022,125
+3.0,8:07,1.0,10.0,BUF 22,14.0,10.0,"Penalty on Denzel Mims: False Start, 5 yards (accepted) (no play)",4.11,3.78,9.0,2022,125
+3.0,7:44,1.0,15.0,BUF 27,14.0,10.0,Zach Wilson pass complete short left to Garrett Wilson for 8 yards (tackle by Kaiir Elam),3.78,3.97,9.0,2022,125
+3.0,7:11,2.0,7.0,BUF 19,14.0,10.0,Michael Carter left end for 1 yard (tackle by Terrel Bernard and Taron Johnson),3.97,3.4,9.0,2022,125
+3.0,6:29,3.0,6.0,BUF 18,14.0,10.0,"Zach Wilson sacked by Von Miller for -10 yards. Zach Wilson fumbles (forced by Von Miller), recovered by A.J. Epenesa at BUF-29",3.4,-0.81,9.0,2022,125
+3.0,6:21,1.0,10.0,BUF 28,14.0,10.0,Josh Allen sacked by Quinnen Williams for -7 yards,0.81,-0.62,9.0,2022,125
+3.0,5:36,2.0,17.0,BUF 22,14.0,10.0,Josh Allen pass short left intended for Gabriel Davis is intercepted by Sauce Gardner at BUF-35 and returned for 16 yards (tackle by Gabriel Davis),-0.62,-4.31,9.0,2022,125
+3.0,5:30,1.0,10.0,BUF 19,14.0,10.0,"Garrett Wilson right end for 7 yards. Garrett Wilson fumbles, recovered by Garrett Wilson at BUF-12",4.31,4.92,9.0,2022,125
+3.0,4:52,2.0,3.0,BUF 12,14.0,10.0,Zach Wilson pass incomplete short left intended for Garrett Wilson,4.92,4.19,9.0,2022,125
+3.0,4:46,3.0,3.0,BUF 12,14.0,10.0,Zach Wilson scrambles right end for 5 yards (tackle by Terrel Bernard),4.19,5.6,9.0,2022,125
+3.0,4:10,1.0,7.0,BUF 7,14.0,16.0,"Zach Wilson pass complete short right to James Robinson for 7 yards, touchdown",5.6,7.0,9.0,2022,125
+3.0,4:03,,,BUF 15,14.0,17.0,Greg Zuerlein kicks extra point good,0.0,0.0,9.0,2022,125
+3.0,4:03,,,NYJ 35,14.0,17.0,"Braden Mann kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,125
+3.0,4:03,1.0,10.0,BUF 25,14.0,17.0,Devin Singletary left guard for 4 yards (tackle by Sauce Gardner and Nathan Shepherd),0.61,0.6,9.0,2022,125
+3.0,3:27,2.0,6.0,BUF 29,14.0,17.0,Josh Allen scrambles up the middle for 9 yards (tackle by Vinny Curry),0.6,1.47,9.0,2022,125
+3.0,2:43,1.0,10.0,BUF 38,14.0,17.0,Josh Allen scrambles left end for 9 yards (tackle by Sauce Gardner),1.47,2.14,9.0,2022,125
+3.0,2:08,2.0,1.0,BUF 47,14.0,17.0,Devin Singletary left guard for no gain (tackle by Micheal Clemons),2.14,1.42,9.0,2022,125
+3.0,1:28,3.0,1.0,BUF 47,14.0,17.0,Josh Allen up the middle for 5 yards (tackle by Micheal Clemons),1.42,2.39,9.0,2022,125
+3.0,0:54,1.0,10.0,NYJ 48,14.0,17.0,Josh Allen pass complete short middle to Devin Singletary for 2 yards (tackle by C.J. Mosley),2.39,2.12,9.0,2022,125
+3.0,0:06,2.0,8.0,NYJ 46,14.0,17.0,James Cook right end for 2 yards (tackle by Sauce Gardner and John Franklin-Myers),2.12,1.69,9.0,2022,125
+4.0,15:00,3.0,6.0,NYJ 44,14.0,17.0,Josh Allen pass complete short left to James Cook for 10 yards (tackle by Quincy Williams),1.69,3.31,9.0,2022,125
+4.0,14:26,1.0,10.0,NYJ 34,14.0,17.0,James Cook left end for 1 yard (tackle by Quincy Williams),3.31,2.91,9.0,2022,125
+4.0,13:51,2.0,9.0,NYJ 33,14.0,17.0,Josh Allen pass incomplete deep right,2.91,2.21,9.0,2022,125
+4.0,13:44,3.0,9.0,NYJ 33,14.0,17.0,Josh Allen pass incomplete deep left intended for Nyheim Hines,2.21,1.15,9.0,2022,125
+4.0,13:38,4.0,9.0,NYJ 33,17.0,17.0,Tyler Bass 51 yard field goal good,1.15,3.0,9.0,2022,125
+4.0,13:33,,,BUF 35,17.0,17.0,"Tyler Bass kicks off 61 yards, out of bounds",0.0,1.6,9.0,2022,125
+4.0,13:33,1.0,10.0,NYJ 40,17.0,17.0,Zach Wilson pass incomplete short middle intended for Denzel Mims,1.6,1.05,9.0,2022,125
+4.0,13:28,2.0,10.0,NYJ 40,17.0,17.0,Michael Carter left end for 2 yards (tackle by Taron Johnson),1.05,0.63,9.0,2022,125
+4.0,12:46,3.0,8.0,NYJ 42,17.0,17.0,Zach Wilson pass incomplete short left intended for Tyler Conklin,0.63,-0.59,9.0,2022,125
+4.0,12:40,4.0,8.0,NYJ 42,17.0,17.0,"Braden Mann punts 46 yards, fair catch by Nyheim Hines at BUF-12",-0.59,0.32,9.0,2022,125
+4.0,12:34,1.0,10.0,BUF 13,17.0,17.0,"Penalty on Justin Hardee: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",-0.32,0.74,9.0,2022,125
+4.0,12:34,1.0,10.0,BUF 27,17.0,17.0,Isaiah McKenzie right end for 9 yards (tackle by C.J. Mosley and Jordan Whitehead),0.74,1.41,9.0,2022,125
+4.0,11:52,2.0,1.0,BUF 36,17.0,17.0,Josh Allen pass complete short left to Isaiah McKenzie for 3 yards (tackle by Sauce Gardner),1.41,1.53,9.0,2022,125
+4.0,11:17,1.0,10.0,BUF 39,17.0,17.0,Josh Allen sacked by C.J. Mosley for no gain,1.53,0.99,9.0,2022,125
+4.0,10:34,2.0,10.0,BUF 39,17.0,17.0,Josh Allen pass complete short right to Isaiah McKenzie for 9 yards (tackle by Sauce Gardner and Michael Carter),0.99,1.49,9.0,2022,125
+4.0,9:57,3.0,1.0,BUF 48,17.0,17.0,Josh Allen up the middle for 2 yards (tackle by Kwon Alexander),1.49,2.26,9.0,2022,125
+4.0,9:07,1.0,10.0,BUF 50,17.0,17.0,Josh Allen sacked by Jermaine Johnson for -4 yards,2.26,1.17,9.0,2022,125
+4.0,8:20,2.0,14.0,BUF 46,17.0,17.0,Josh Allen pass incomplete deep middle intended for Stefon Diggs (defended by Jordan Whitehead),1.17,0.5,9.0,2022,125
+4.0,8:13,3.0,14.0,BUF 46,17.0,17.0,Josh Allen pass incomplete deep left intended for Stefon Diggs (defended by D.J. Reed),0.5,-0.32,9.0,2022,125
+4.0,8:05,4.0,14.0,BUF 46,17.0,17.0,Sam Martin punts 50 yards downed by Siran Neal,-0.32,0.38,9.0,2022,125
+4.0,7:53,1.0,10.0,NYJ 4,17.0,17.0,James Robinson up the middle for 9 yards (tackle by Damar Hamlin and Jaquan Johnson),-0.38,-0.12,9.0,2022,125
+4.0,7:16,2.0,1.0,NYJ 13,17.0,17.0,James Robinson right guard for 7 yards (tackle by Taron Johnson),-0.12,0.28,9.0,2022,125
+4.0,6:39,1.0,10.0,NYJ 20,17.0,17.0,James Robinson up the middle for 16 yards (tackle by Damar Hamlin),0.28,1.33,9.0,2022,125
+4.0,5:58,1.0,10.0,NYJ 36,17.0,17.0,Michael Carter left end for 17 yards (tackle by Christian Benford),1.33,2.46,9.0,2022,125
+4.0,5:12,1.0,10.0,BUF 47,17.0,17.0,"Penalty on Tim Settle: Encroachment, 5 yards (accepted) (no play)",2.46,3.19,9.0,2022,125
+4.0,4:45,1.0,5.0,BUF 42,17.0,17.0,Michael Carter left guard for 4 yards (tackle by Jaquan Johnson and Terrel Bernard),3.19,2.99,9.0,2022,125
+4.0,4:16,2.0,2.0,BUF 39,17.0,17.0,Michael Carter left guard for 15 yards (tackle by Damar Hamlin),2.99,4.04,9.0,2022,125
+4.0,3:39,1.0,10.0,BUF 23,17.0,17.0,James Robinson left guard for 3 yards (tackle by Tremaine Edmunds),4.04,3.9,9.0,2022,125
+4.0,2:55,2.0,7.0,BUF 20,17.0,17.0,James Robinson up the middle for 2 yards (tackle by Shaq Lawson),3.9,3.49,9.0,2022,125
+4.0,2:07,3.0,5.0,BUF 18,17.0,17.0,Zach Wilson pass complete short right to Denzel Mims for 12 yards (tackle by Kaiir Elam),3.49,5.83,9.0,2022,125
+4.0,2:00,1.0,6.0,BUF 6,17.0,17.0,James Robinson up the middle for -2 yards (tackle by Von Miller),5.83,4.57,9.0,2022,125
+4.0,1:57,,,,,,Timeout #1 by Buffalo Bills,,,9.0,2022,125
+4.0,1:57,2.0,8.0,BUF 8,17.0,17.0,Zach Wilson left end for 6 yards (tackle by Jaquan Johnson and Boogie Basham),4.57,4.95,9.0,2022,125
+4.0,1:50,,,,,,Timeout #2 by Buffalo Bills,,,9.0,2022,125
+4.0,1:50,3.0,2.0,BUF 2,17.0,17.0,Zach Wilson sacked by Damar Hamlin for -8 yards,4.95,2.76,9.0,2022,125
+4.0,1:45,,,,,,Timeout #3 by Buffalo Bills,,,9.0,2022,125
+4.0,1:45,4.0,10.0,BUF 10,17.0,20.0,Greg Zuerlein 28 yard field goal good,2.76,3.0,9.0,2022,125
+4.0,1:43,,,NYJ 35,17.0,20.0,"Braden Mann kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,125
+4.0,1:43,1.0,10.0,BUF 25,17.0,20.0,"Josh Allen pass complete deep right to Stefon Diggs for no gain. Penalty on Dion Dawkins: Offensive Holding, 10 yards (accepted) (no play)",0.61,-0.41,9.0,2022,125
+4.0,1:37,1.0,20.0,BUF 15,17.0,20.0,Josh Allen pass complete deep left to Gabriel Davis for 18 yards (tackle by C.J. Mosley),-0.41,1.14,9.0,2022,125
+4.0,1:20,2.0,2.0,BUF 33,17.0,20.0,"Josh Allen sacked by Bryce Huff for -9 yards. Josh Allen fumbles (forced by Bryce Huff), recovered by Ryan Bates at BUF-14",1.14,-2.55,9.0,2022,125
+4.0,0:38,3.0,21.0,BUF 14,17.0,20.0,Josh Allen pass incomplete deep right intended for Stefon Diggs,-2.55,-2.47,9.0,2022,125
+4.0,0:33,,,,,,Timeout #1 by New York Jets,,,9.0,2022,125
+4.0,0:33,4.0,21.0,BUF 14,17.0,20.0,Josh Allen pass incomplete deep left intended for Gabriel Davis,-2.47,-4.65,9.0,2022,125
+4.0,0:24,1.0,10.0,BUF 14,17.0,20.0,Zach Wilson kneels for -1 yards,4.65,3.85,9.0,2022,125

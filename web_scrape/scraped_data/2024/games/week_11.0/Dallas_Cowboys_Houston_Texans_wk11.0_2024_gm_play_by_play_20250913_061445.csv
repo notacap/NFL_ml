@@ -1,0 +1,186 @@
+Quarter,Time,Down,ToGo,Location,HOU,DAL,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Cowboys won the coin toss and deferred, Texans to receive the opening kickoff.",,,11.0,2024,166
+1.0,15:00,,,DAL 35,0.0,0.0,"Brandon Aubrey kicks off 63 yards, returned by Robert Woods for 21 yards (tackle by Kemon Hall)",0.0,0.48,11.0,2024,166
+1.0,14:55,1.0,10.0,HOU 23,0.0,0.0,"C.J. Stroud pass complete short left to Nico Collins for no gain, touchdown. Penalty on Laremy Tunsil: Ineligible Downfield Pass, 5 yards (accepted) (no play)",0.48,0.0,11.0,2024,166
+1.0,14:44,1.0,15.0,HOU 18,0.0,0.0,"Joe Mixon right tackle for 1 yard (tackle by Eric Kendricks). Penalty on Mazi Smith: Defensive Holding, 5 yards (accepted)",0.0,0.54,11.0,2024,166
+1.0,14:21,1.0,10.0,HOU 24,0.0,0.0,C.J. Stroud pass complete short left to Robert Woods for 7 yards (tackle by Trevon Diggs),0.54,0.94,11.0,2024,166
+1.0,13:52,2.0,3.0,HOU 31,0.0,0.0,C.J. Stroud pass incomplete short middle intended for Tank Dell,0.94,0.23,11.0,2024,166
+1.0,13:47,3.0,3.0,HOU 31,0.0,0.0,C.J. Stroud pass complete short right to Dalton Schultz for 8 yards (tackle by DeMarvion Overshown),0.23,1.53,11.0,2024,166
+1.0,13:20,1.0,10.0,HOU 39,0.0,0.0,C.J. Stroud pass complete short middle to John Metchie for 16 yards (tackle by Malik Hooker),1.53,2.59,11.0,2024,166
+1.0,12:50,1.0,10.0,DAL 45,6.0,0.0,"Joe Mixon right tackle for 45 yards, touchdown",2.59,7.0,11.0,2024,166
+1.0,12:42,,,DAL 15,6.0,0.0,"Penalty on Tommy Townsend: Delay of Game, 5 yards (accepted) (no play)",0.0,0.0,11.0,2024,166
+1.0,12:42,,,DAL 20,7.0,0.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,11.0,2024,166
+1.0,12:42,,,HOU 35,7.0,0.0,"Ka'imi Fairbairn kicks off 63 yards, returned by KaVontae Turpin for 26 yards (tackle by Neville Hewitt). Penalty on Israel Mukuamu: Offensive Holding, 10 yards (accepted)",0.0,0.04,11.0,2024,166
+1.0,12:36,1.0,10.0,DAL 18,7.0,0.0,Rico Dowdle left guard for 3 yards (tackle by Henry To'oTo'o),0.04,0.01,11.0,2024,166
+1.0,12:07,2.0,7.0,DAL 21,7.0,0.0,Cooper Rush pass complete short right to CeeDee Lamb for 11 yards (tackle by Denico Autry),0.01,1.07,11.0,2024,166
+1.0,11:32,1.0,10.0,DAL 32,7.0,0.0,Cooper Rush pass incomplete short left intended for Rico Dowdle,1.07,0.53,11.0,2024,166
+1.0,11:25,2.0,10.0,DAL 32,7.0,0.0,Rico Dowdle left tackle for 1 yard (tackle by Henry To'oTo'o),0.53,-0.03,11.0,2024,166
+1.0,10:48,3.0,9.0,DAL 33,7.0,0.0,Cooper Rush pass incomplete short right intended for Jalen Tolbert,-0.03,-1.18,11.0,2024,166
+1.0,10:41,4.0,9.0,DAL 33,7.0,0.0,Bryan Anger pass complete short middle to Juanyeh Thomas for 4 yards (tackle by John Metchie),-1.18,-3.12,11.0,2024,166
+1.0,10:36,1.0,10.0,DAL 37,7.0,0.0,C.J. Stroud scrambles left tackle for 3 yards (tackle by Eric Kendricks),3.12,2.98,11.0,2024,166
+1.0,9:55,2.0,7.0,DAL 34,7.0,0.0,C.J. Stroud sacked by Osa Odighizuwa for -7 yards,2.98,1.36,11.0,2024,166
+1.0,9:10,3.0,14.0,DAL 41,7.0,0.0,C.J. Stroud pass complete short left to Dare Ogunbowale for 11 yards (tackle by Israel Mukuamu),1.36,1.48,11.0,2024,166
+1.0,8:34,4.0,3.0,DAL 30,7.0,0.0,C.J. Stroud pass deep right intended for Nico Collins is intercepted by Malik Hooker at DAL-12 and returned for 21 yards (tackle by Juice Scruggs),1.48,-1.14,11.0,2024,166
+1.0,8:22,1.0,10.0,DAL 33,7.0,0.0,Cooper Rush pass complete short middle to Jake Ferguson for 11 yards (tackle by Azeez Al-Shaair and Henry To'oTo'o),1.14,1.86,11.0,2024,166
+1.0,7:53,1.0,10.0,DAL 44,7.0,0.0,CeeDee Lamb right end for 13 yards (tackle by Henry To'oTo'o),1.86,2.72,11.0,2024,166
+1.0,7:12,1.0,10.0,HOU 43,7.0,0.0,Rico Dowdle up the middle for -2 yards (tackle by Henry To'oTo'o),2.72,1.91,11.0,2024,166
+1.0,6:36,2.0,12.0,HOU 45,7.0,0.0,Rico Dowdle up the middle for 4 yards (tackle by Azeez Al-Shaair),1.91,1.75,11.0,2024,166
+1.0,6:01,3.0,8.0,HOU 41,7.0,0.0,Cooper Rush pass short left intended for CeeDee Lamb is intercepted by Derek Stingley at HOU-30 and returned for 7 yards (tackle by Jake Ferguson),1.75,-1.4,11.0,2024,166
+1.0,5:49,1.0,10.0,HOU 37,7.0,0.0,Dameon Pierce right tackle for 2 yards (tackle by Osa Odighizuwa),1.4,1.13,11.0,2024,166
+1.0,5:09,2.0,8.0,HOU 39,7.0,0.0,C.J. Stroud pass incomplete short left intended for Dalton Schultz,1.13,0.43,11.0,2024,166
+1.0,5:04,3.0,8.0,HOU 39,7.0,0.0,"C.J. Stroud pass incomplete short right. Penalty on Micah Parsons: Defensive Offside, 5 yards (accepted) (no play)",0.43,1.09,11.0,2024,166
+1.0,4:59,3.0,3.0,HOU 44,7.0,0.0,C.J. Stroud pass complete short middle to Nico Collins for 11 yards (tackle by Trevon Diggs),1.09,2.59,11.0,2024,166
+1.0,4:19,1.0,10.0,DAL 45,7.0,0.0,"C.J. Stroud pass complete deep left to Tank Dell for 26 yards (tackle by Josh Butler). Penalty on Trevon Diggs: Illegal Contact, 5 yards (declined)",2.59,4.31,11.0,2024,166
+1.0,4:00,1.0,10.0,DAL 19,7.0,0.0,C.J. Stroud pass complete short left to Nico Collins for 3 yards (tackle by Chauncey Golston),4.31,4.18,11.0,2024,166
+1.0,3:21,2.0,7.0,DAL 16,7.0,0.0,Joe Mixon right tackle for 5 yards (tackle by Eric Kendricks and Malik Hooker),4.18,4.43,11.0,2024,166
+1.0,2:41,3.0,2.0,DAL 11,7.0,0.0,Joe Mixon left tackle for 1 yard (tackle by Donovan Wilson),4.43,2.91,11.0,2024,166
+1.0,1:58,4.0,1.0,DAL 10,7.0,0.0,Joe Mixon right end for 9 yards (tackle by Trevon Diggs),2.91,6.97,11.0,2024,166
+1.0,1:17,1.0,1.0,DAL 1,7.0,0.0,Joe Mixon left tackle for no gain (tackle by Malik Hooker and Micah Parsons),6.97,5.91,11.0,2024,166
+1.0,0:54,2.0,1.0,DAL 1,13.0,0.0,"Joe Mixon right end for 1 yard, touchdown",5.91,7.0,11.0,2024,166
+1.0,0:49,,,DAL 15,14.0,0.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,11.0,2024,166
+1.0,0:49,,,HOU 35,14.0,0.0,"Ka'imi Fairbairn kicks off 59 yards, returned by KaVontae Turpin for 30 yards (tackle by Calen Bullock)",0.0,1.33,11.0,2024,166
+1.0,0:46,1.0,10.0,DAL 36,14.0,0.0,Cooper Rush pass complete short right to CeeDee Lamb for 3 yards,1.33,1.2,11.0,2024,166
+1.0,0:17,2.0,7.0,DAL 39,14.0,0.0,Rico Dowdle left guard for 2 yards (tackle by Henry To'oTo'o),1.2,0.76,11.0,2024,166
+2.0,15:00,3.0,5.0,DAL 41,14.0,0.0,"Penalty on CeeDee Lamb: False Start, 5 yards (accepted) (no play)",0.76,0.1,11.0,2024,166
+2.0,15:00,3.0,10.0,DAL 36,14.0,6.0,"Cooper Rush pass complete short middle to KaVontae Turpin for 64 yards, touchdown. Penalty on Eric Murray: Illegal Use of Hands / Defense, 5 yards (declined)",0.1,7.0,11.0,2024,166
+2.0,14:51,,,HOU 15,14.0,7.0,Brandon Aubrey kicks extra point good,0.0,0.0,11.0,2024,166
+2.0,14:51,,,DAL 35,14.0,7.0,"Brandon Aubrey kicks off 63 yards, recovered by Dameon Pierce at HOU-3 (tackle by Nick Vigil and Buddy Johnson)",0.0,-0.38,11.0,2024,166
+2.0,14:43,1.0,10.0,HOU 8,14.0,7.0,Joe Mixon up the middle for 9 yards (tackle by Trevon Diggs),-0.38,0.05,11.0,2024,166
+2.0,14:15,2.0,1.0,HOU 17,14.0,7.0,"Penalty on Joe Mixon: False Start, 4 yards (accepted) (no play)",0.05,-0.49,11.0,2024,166
+2.0,13:59,2.0,6.0,HOU 12,14.0,7.0,C.J. Stroud pass complete short right to Robert Woods for 6 yards (tackle by Marist Liufau),-0.49,0.15,11.0,2024,166
+2.0,13:17,1.0,10.0,HOU 19,14.0,7.0,C.J. Stroud pass complete short right to Dalton Schultz for 12 yards (tackle by Josh Butler),0.15,1.0,11.0,2024,166
+2.0,12:36,1.0,10.0,HOU 31,14.0,7.0,Joe Mixon left guard for 1 yard (tackle by Carlos Watkins and Donovan Wilson),1.0,0.6,11.0,2024,166
+2.0,11:53,2.0,9.0,HOU 32,14.0,7.0,"C.J. Stroud pass complete short left to Joe Mixon for 37 yards (tackle by Eric Kendricks). Penalty on DeMarvion Overshown: Low Block, 15 yards (accepted)",0.6,4.51,11.0,2024,166
+2.0,11:24,1.0,10.0,DAL 16,14.0,7.0,C.J. Stroud pass complete short left to Cade Stover for 3 yards (tackle by DeMarvion Overshown),4.51,4.39,11.0,2024,166
+2.0,10:42,2.0,7.0,DAL 13,14.0,7.0,Tank Dell left end for 4 yards (tackle by Eric Kendricks),4.39,4.39,11.0,2024,166
+2.0,9:55,3.0,3.0,DAL 9,14.0,7.0,Joe Mixon right end for -1 yards (tackle by Malik Hooker and Israel Mukuamu),4.39,2.84,11.0,2024,166
+2.0,9:13,,,,,,Timeout #1 by Dallas Cowboys,,,11.0,2024,166
+2.0,9:13,4.0,4.0,DAL 10,14.0,7.0,"Penalty on Tommy Townsend: Delay of Game, 5 yards (accepted) (no play)",2.84,2.44,11.0,2024,166
+2.0,9:13,4.0,9.0,DAL 15,17.0,7.0,Ka'imi Fairbairn 33 yard field goal good,2.44,3.0,11.0,2024,166
+2.0,9:10,,,HOU 35,17.0,7.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.94,11.0,2024,166
+2.0,9:10,1.0,10.0,DAL 30,17.0,7.0,Cooper Rush pass complete short left to CeeDee Lamb for 13 yards (tackle by Denico Autry and Azeez Al-Shaair),0.94,1.8,11.0,2024,166
+2.0,8:53,1.0,10.0,DAL 43,17.0,7.0,Cooper Rush pass complete short middle to Luke Schoonmaker for 6 yards (tackle by Azeez Al-Shaair),1.8,2.06,11.0,2024,166
+2.0,8:08,2.0,4.0,DAL 49,17.0,7.0,Rico Dowdle right guard for -2 yards (tackle by Danielle Hunter),2.06,1.09,11.0,2024,166
+2.0,7:33,3.0,6.0,DAL 47,17.0,7.0,Cooper Rush pass complete short left to Brevyn Spann-Ford for 17 yards (tackle by Azeez Al-Shaair),1.09,3.18,11.0,2024,166
+2.0,6:59,1.0,10.0,HOU 36,17.0,7.0,Cooper Rush pass incomplete short right intended for Brevyn Spann-Ford (defended by Calen Bullock),3.18,2.64,11.0,2024,166
+2.0,6:51,2.0,10.0,HOU 36,17.0,7.0,Cooper Rush pass complete short right to Rico Dowdle for 1 yard (tackle by Jalen Pitre),2.64,2.08,11.0,2024,166
+2.0,6:06,3.0,9.0,HOU 35,17.0,7.0,Cooper Rush pass incomplete short left intended for Jalen Tolbert (defended by Denico Autry),2.08,0.97,11.0,2024,166
+2.0,6:00,4.0,9.0,HOU 35,17.0,10.0,Brandon Aubrey 53 yard field goal good,0.97,3.0,11.0,2024,166
+2.0,5:55,,,DAL 35,17.0,10.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.94,11.0,2024,166
+2.0,5:55,1.0,10.0,HOU 30,17.0,10.0,"C.J. Stroud pass complete short left to Cade Stover for 12 yards (tackle by Marist Liufau and Chauncey Golston). Penalty on Micah Parsons: Defensive Offside, 5 yards (declined)",0.94,1.73,11.0,2024,166
+2.0,5:31,1.0,10.0,HOU 42,17.0,10.0,C.J. Stroud pass incomplete short left intended for Joe Mixon (defended by Donovan Wilson),1.73,1.19,11.0,2024,166
+2.0,5:25,2.0,10.0,HOU 42,17.0,10.0,Joe Mixon right guard for no gain (tackle by Eric Kendricks),1.19,0.5,11.0,2024,166
+2.0,4:45,3.0,10.0,HOU 42,17.0,10.0,C.J. Stroud pass complete short left to Nico Collins for 7 yards (tackle by DeMarvion Overshown and Malik Hooker),0.5,-0.13,11.0,2024,166
+2.0,4:04,4.0,3.0,HOU 49,17.0,10.0,"Tommy Townsend punts 51 yards, touchback.",-0.13,-0.28,11.0,2024,166
+2.0,3:55,1.0,10.0,DAL 20,17.0,10.0,Rico Dowdle right tackle for 9 yards (tackle by Dylan Horton and Mario Edwards),0.28,0.95,11.0,2024,166
+2.0,3:22,2.0,1.0,DAL 29,17.0,10.0,Rico Dowdle left guard for 3 yards (tackle by Dylan Horton and Jalen Pitre),0.95,1.07,11.0,2024,166
+2.0,2:51,1.0,10.0,DAL 32,17.0,10.0,Cooper Rush pass complete short left to Luke Schoonmaker for 8 yards (tackle by Henry To'oTo'o),1.07,1.61,11.0,2024,166
+2.0,2:17,2.0,2.0,DAL 40,17.0,10.0,Cooper Rush pass complete short left to Rico Dowdle for 5 yards (tackle by Azeez Al-Shaair),1.61,1.93,11.0,2024,166
+2.0,2:00,1.0,10.0,DAL 45,17.0,10.0,"Cooper Rush pass incomplete deep left intended for Ryan Flournoy. Penalty on Ka'dar Hollman: Illegal Contact, 5 yards (accepted) (no play)",1.93,2.26,11.0,2024,166
+2.0,1:55,1.0,10.0,DAL 50,17.0,10.0,Cooper Rush pass incomplete short left,2.26,1.71,11.0,2024,166
+2.0,1:51,2.0,10.0,DAL 50,17.0,10.0,"Cooper Rush pass incomplete short middle intended for Brevyn Spann-Ford. Penalty on Azeez Al-Shaair: Illegal Contact, 5 yards (accepted) (no play)",1.71,2.59,11.0,2024,166
+2.0,1:47,1.0,10.0,HOU 45,17.0,10.0,Cooper Rush pass incomplete short middle intended for Rico Dowdle (defended by Tommy Togiai),2.59,2.04,11.0,2024,166
+2.0,1:42,2.0,10.0,HOU 45,17.0,10.0,Cooper Rush pass complete short right to CeeDee Lamb for 5 yards (tackle by Jalen Pitre),2.04,2.01,11.0,2024,166
+2.0,1:34,,,,,,Timeout #1 by Houston Texans,,,11.0,2024,166
+2.0,1:34,3.0,5.0,HOU 40,17.0,10.0,Cooper Rush pass complete short middle to Ryan Flournoy for 15 yards (tackle by Ka'dar Hollman),2.01,3.91,11.0,2024,166
+2.0,1:13,1.0,10.0,HOU 25,17.0,10.0,Cooper Rush pass complete short right to Luke Schoonmaker for 1 yard,3.91,3.5,11.0,2024,166
+2.0,1:10,2.0,9.0,HOU 24,17.0,10.0,Cooper Rush pass incomplete short right intended for Rico Dowdle,3.5,2.81,11.0,2024,166
+2.0,1:06,3.0,9.0,HOU 24,17.0,10.0,Cooper Rush scrambles up the middle for 2 yards (tackle by Tim Settle),2.81,1.99,11.0,2024,166
+2.0,1:00,,,,,,Timeout #2 by Houston Texans,,,11.0,2024,166
+2.0,1:00,4.0,7.0,HOU 22,17.0,10.0,Brandon Aubrey 40 yard field goal no good,1.99,-0.94,11.0,2024,166
+2.0,0:56,1.0,10.0,HOU 30,17.0,10.0,C.J. Stroud pass incomplete short left intended for Nico Collins (defended by Trevon Diggs),0.94,0.39,11.0,2024,166
+2.0,0:52,2.0,10.0,HOU 30,17.0,10.0,C.J. Stroud pass incomplete short right intended for Tank Dell,0.39,-0.3,11.0,2024,166
+2.0,0:49,3.0,10.0,HOU 30,17.0,10.0,C.J. Stroud pass incomplete short right,-0.3,-1.37,11.0,2024,166
+2.0,0:45,4.0,10.0,HOU 30,17.0,10.0,"Tommy Townsend punts 52 yards, fair catch by KaVontae Turpin at DAL-18",-1.37,-0.04,11.0,2024,166
+2.0,0:37,1.0,10.0,DAL 18,17.0,10.0,Cooper Rush pass complete short left to Ezekiel Elliott for 5 yards (tackle by Devin White),0.04,0.28,11.0,2024,166
+2.0,0:29,,,,,,Timeout #2 by Dallas Cowboys,,,11.0,2024,166
+2.0,0:29,2.0,5.0,DAL 23,17.0,10.0,Cooper Rush pass complete short right to Brevyn Spann-Ford for 7 yards (tackle by Derek Stingley),0.28,0.94,11.0,2024,166
+2.0,0:21,1.0,10.0,DAL 30,17.0,10.0,Cooper Rush pass incomplete deep right intended for Ryan Flournoy (defended by Ka'dar Hollman),0.94,0.39,11.0,2024,166
+2.0,0:15,2.0,10.0,DAL 30,17.0,10.0,Cooper Rush pass incomplete deep middle intended for Jalen Tolbert (defended by Derek Stingley),0.39,-0.3,11.0,2024,166
+2.0,0:09,3.0,10.0,DAL 30,17.0,10.0,Cooper Rush pass incomplete short right intended for Jonathan Mingo,-0.3,-1.37,11.0,2024,166
+2.0,0:05,,,,,,Timeout #3 by Dallas Cowboys,,,11.0,2024,166
+2.0,0:05,4.0,10.0,DAL 30,17.0,10.0,Cooper Rush pass incomplete deep right,-1.37,0.94,11.0,2024,166
+3.0,15:00,,,HOU 35,17.0,10.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.94,11.0,2024,166
+3.0,15:00,1.0,10.0,DAL 30,17.0,10.0,Rico Dowdle left tackle for 1 yard (tackle by Denico Autry and Ka'dar Hollman),0.94,0.53,11.0,2024,166
+3.0,14:27,2.0,9.0,DAL 31,17.0,10.0,Cooper Rush sacked by Danielle Hunter for -4 yards,0.53,-0.69,11.0,2024,166
+3.0,13:44,3.0,13.0,DAL 27,17.0,10.0,Cooper Rush pass complete short right to CeeDee Lamb for 8 yards (tackle by Derek Stingley),-0.69,-1.04,11.0,2024,166
+3.0,13:02,4.0,5.0,DAL 35,17.0,10.0,"Bryan Anger punts 40 yards, fair catch by Robert Woods at HOU-25",-1.04,-0.61,11.0,2024,166
+3.0,12:52,1.0,10.0,HOU 25,17.0,10.0,C.J. Stroud pass complete short left to Tank Dell for 4 yards (tackle by Israel Mukuamu and Malik Hooker),0.61,0.6,11.0,2024,166
+3.0,12:18,2.0,6.0,HOU 29,17.0,10.0,C.J. Stroud pass complete short left to Tank Dell for 12 yards (tackle by Donovan Wilson),0.6,1.66,11.0,2024,166
+3.0,11:41,1.0,10.0,HOU 41,17.0,10.0,C.J. Stroud scrambles right end for 3 yards (tackle by DeMarvion Overshown),1.66,1.53,11.0,2024,166
+3.0,11:01,2.0,7.0,HOU 44,17.0,10.0,C.J. Stroud pass complete short right to John Metchie for 7 yards (tackle by Josh Butler),1.53,2.32,11.0,2024,166
+3.0,10:23,1.0,10.0,DAL 49,17.0,10.0,Joe Mixon left end for 4 yards (tackle by Mazi Smith),2.32,2.32,11.0,2024,166
+3.0,9:41,2.0,6.0,DAL 45,17.0,10.0,C.J. Stroud pass complete deep left to Nico Collins for 33 yards (tackle by Josh Butler),2.32,4.78,11.0,2024,166
+3.0,8:57,1.0,10.0,DAL 12,17.0,10.0,C.J. Stroud pass complete short middle to Dalton Schultz for 2 yards (tackle by Chauncey Golston and Carlos Watkins),4.78,4.45,11.0,2024,166
+3.0,8:16,2.0,8.0,DAL 10,17.0,10.0,"Joe Mixon left end for no gain (tackle by Trevon Diggs). Penalty on Juice Scruggs: Offensive Holding, 10 yards (accepted) (no play)",4.45,3.14,11.0,2024,166
+3.0,7:53,2.0,18.0,DAL 20,17.0,10.0,C.J. Stroud pass complete short right to John Metchie for 10 yards (tackle by Trevon Diggs),3.14,3.48,11.0,2024,166
+3.0,7:12,3.0,8.0,DAL 10,17.0,10.0,C.J. Stroud pass incomplete short right intended for Joe Mixon,3.48,2.76,11.0,2024,166
+3.0,7:07,4.0,8.0,DAL 10,20.0,10.0,Ka'imi Fairbairn 29 yard field goal good,2.76,3.0,11.0,2024,166
+3.0,7:05,,,HOU 35,20.0,10.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.94,11.0,2024,166
+3.0,7:05,1.0,10.0,DAL 30,20.0,10.0,Cooper Rush pass complete short middle to CeeDee Lamb for 11 yards (tackle by Ka'dar Hollman),0.94,1.66,11.0,2024,166
+3.0,6:35,1.0,10.0,DAL 41,20.0,10.0,Cooper Rush pass incomplete short right intended for Deuce Vaughn,1.66,1.12,11.0,2024,166
+3.0,6:31,2.0,10.0,DAL 41,20.0,10.0,Cooper Rush pass complete short middle to Luke Schoonmaker for 13 yards (tackle by Calen Bullock),1.12,2.52,11.0,2024,166
+3.0,5:56,1.0,10.0,HOU 46,20.0,10.0,Deuce Vaughn right tackle for 3 yards (tackle by Jalen Pitre and Devin White),2.52,2.38,11.0,2024,166
+3.0,5:26,2.0,7.0,HOU 43,20.0,10.0,Cooper Rush pass complete short right to Brevyn Spann-Ford for 7 yards (tackle by Ka'dar Hollman),2.38,3.18,11.0,2024,166
+3.0,4:48,1.0,10.0,HOU 36,20.0,10.0,Cooper Rush pass incomplete short right intended for CeeDee Lamb,3.18,2.64,11.0,2024,166
+3.0,4:37,2.0,10.0,HOU 36,20.0,10.0,"Cooper Rush pass incomplete deep left intended for CeeDee Lamb. Penalty on CeeDee Lamb: Offensive Pass Interference, 10 yards (accepted) (no play)",2.64,1.29,11.0,2024,166
+3.0,4:31,2.0,20.0,HOU 46,20.0,10.0,Cooper Rush pass incomplete short right intended for Luke Schoonmaker,1.29,0.63,11.0,2024,166
+3.0,4:27,3.0,20.0,HOU 46,20.0,10.0,Cooper Rush pass incomplete deep left intended for CeeDee Lamb,0.63,0.2,11.0,2024,166
+3.0,4:21,4.0,20.0,HOU 46,20.0,10.0,"Brandon Aubrey yard field goal good. Penalty on Derek Barnett: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",0.2,3.51,11.0,2024,166
+3.0,4:16,1.0,10.0,HOU 31,20.0,10.0,Cooper Rush pass complete short right to Jalen Tolbert for 15 yards (tackle by Jimmie Ward),3.51,4.51,11.0,2024,166
+3.0,3:38,1.0,10.0,HOU 16,20.0,10.0,"Cooper Rush aborted snap, recovered by Cooper Rush at HOU-21 and returned for -5 yards",4.51,3.28,11.0,2024,166
+3.0,2:52,2.0,15.0,HOU 21,20.0,10.0,Cooper Rush pass incomplete short middle intended for Luke Schoonmaker (defended by Calen Bullock),3.28,2.61,11.0,2024,166
+3.0,2:50,3.0,15.0,HOU 21,20.0,10.0,Cooper Rush pass complete short left to CeeDee Lamb for 13 yards,2.61,2.99,11.0,2024,166
+3.0,2:21,4.0,2.0,HOU 8,20.0,10.0,"Cooper Rush pass incomplete short right intended for Jonathan Mingo. Penalty on Luke Schoonmaker: Offensive Holding, 10 yards (declined)",2.99,0.38,11.0,2024,166
+3.0,2:13,1.0,10.0,HOU 8,20.0,10.0,Joe Mixon left tackle for 5 yards (tackle by Eric Kendricks and Donovan Wilson),-0.38,-0.41,11.0,2024,166
+3.0,1:31,2.0,5.0,HOU 13,20.0,10.0,Joe Mixon left guard for no gain (tackle by Eric Kendricks and Mazi Smith),-0.41,-0.84,11.0,2024,166
+3.0,0:49,3.0,5.0,HOU 13,20.0,10.0,C.J. Stroud pass complete short right to Tank Dell for 12 yards (tackle by Trevon Diggs),-0.84,0.61,11.0,2024,166
+3.0,0:26,1.0,10.0,HOU 25,20.0,10.0,C.J. Stroud pass complete short right to Dalton Schultz for 7 yards (tackle by Juanyeh Thomas),0.61,1.01,11.0,2024,166
+4.0,15:00,2.0,3.0,HOU 32,20.0,10.0,Joe Mixon up the middle for 2 yards (tackle by Israel Mukuamu),1.01,0.56,11.0,2024,166
+4.0,14:43,3.0,1.0,HOU 34,20.0,10.0,C.J. Stroud pass incomplete short right intended for Tank Dell (defended by Josh Butler),0.56,-1.11,11.0,2024,166
+4.0,14:39,4.0,1.0,HOU 34,20.0,10.0,Tommy Townsend punts 59 yards downed by Henry To'oTo'o,-1.11,0.38,11.0,2024,166
+4.0,14:26,1.0,10.0,DAL 7,20.0,10.0,Cooper Rush pass complete deep left to CeeDee Lamb for 29 yards (tackle by Ka'dar Hollman),-0.38,1.33,11.0,2024,166
+4.0,13:44,1.0,10.0,DAL 36,20.0,10.0,"Cooper Rush pass complete short left to Princeton Fant for no gain (tackle by Devin White). Penalty on CeeDee Lamb: Illegal Shift, 5 yards (accepted) (no play)",1.33,1.0,11.0,2024,166
+4.0,13:22,1.0,15.0,DAL 31,20.0,10.0,Rico Dowdle left tackle for 9 yards (tackle by Devin White and Kurt Hinish),1.0,1.33,11.0,2024,166
+4.0,12:44,2.0,6.0,DAL 40,26.0,10.0,"Cooper Rush sacked by Derek Barnett for -7 yards. Cooper Rush fumbles (forced by Derek Barnett), recovered by Tyler Guyton at DAL-33 and returned for -5 yards. Tyler Guyton fumbles (tackle by Dylan Horton, recovered by Derek Barnett at DAL-28 and returned for 28 yards, touchdown",1.33,-7.0,11.0,2024,166
+4.0,12:31,,,DAL 15,27.0,10.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,11.0,2024,166
+4.0,12:31,,,HOU 35,27.0,10.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.94,11.0,2024,166
+4.0,12:31,1.0,10.0,DAL 30,27.0,10.0,"Cooper Rush pass complete short right to Luke Schoonmaker for 4 yards (tackle by Azeez Al-Shaair and Jalen Pitre). Penalty on Jalen Pitre: Unnecessary Roughness / Defense, 15 yards (accepted)",0.94,2.19,11.0,2024,166
+4.0,12:18,1.0,10.0,DAL 49,27.0,10.0,Cooper Rush pass incomplete short middle intended for Luke Schoonmaker (defended by Danielle Hunter),2.19,1.65,11.0,2024,166
+4.0,12:05,2.0,10.0,DAL 49,27.0,10.0,Cooper Rush pass incomplete deep left intended for Luke Schoonmaker (defended by Eric Murray),1.65,0.96,11.0,2024,166
+4.0,12:00,3.0,10.0,DAL 49,27.0,10.0,Cooper Rush pass incomplete short middle intended for CeeDee Lamb,0.96,-0.13,11.0,2024,166
+4.0,11:56,4.0,10.0,DAL 49,27.0,10.0,"Cooper Rush pass complete deep middle to Ryan Flournoy for no gain (tackle by Jalen Pitre). Penalty on Asim Richards: Offensive Holding, 10 yards (accepted) (no play)",-0.13,-0.78,11.0,2024,166
+4.0,11:34,4.0,20.0,DAL 39,27.0,10.0,"Bryan Anger punts 42 yards, fair catch by Robert Woods at HOU-19",-0.78,-0.15,11.0,2024,166
+4.0,11:26,1.0,10.0,HOU 19,27.0,10.0,C.J. Stroud scrambles left end for 20 yards (tackle by Malik Hooker),0.15,1.53,11.0,2024,166
+4.0,10:39,1.0,10.0,HOU 39,27.0,10.0,"C.J. Stroud pass complete deep middle to Nico Collins for no gain (tackle by Trevon Diggs) DAL challenged the pass completion ruling, and the original play was overturned. C.J. Stroud pass incomplete deep middle intended for Nico Collins",1.53,0.99,11.0,2024,166
+4.0,10:37,2.0,10.0,HOU 39,27.0,10.0,C.J. Stroud pass complete short left to Dalton Schultz for 4 yards (tackle by DeMarvion Overshown),0.99,0.83,11.0,2024,166
+4.0,9:56,3.0,6.0,HOU 43,27.0,10.0,C.J. Stroud pass incomplete short middle intended for Dalton Schultz (defended by Juanyeh Thomas),0.83,-0.52,11.0,2024,166
+4.0,9:51,4.0,6.0,HOU 43,27.0,10.0,"Tommy Townsend punts 48 yards, fair catch by KaVontae Turpin at DAL-9",-0.52,0.38,11.0,2024,166
+4.0,9:45,1.0,10.0,DAL 9,27.0,10.0,Cooper Rush pass complete short right to Jalen Tolbert for 6 yards (tackle by Ka'dar Hollman),-0.38,-0.28,11.0,2024,166
+4.0,9:27,2.0,4.0,DAL 15,27.0,10.0,Cooper Rush sacked by Tim Settle for -9 yards,-0.28,-1.77,11.0,2024,166
+4.0,8:52,3.0,13.0,DAL 6,27.0,10.0,Cooper Rush pass complete deep middle to Luke Schoonmaker for 24 yards (tackle by Jalen Pitre and Jimmie Ward),-1.77,0.94,11.0,2024,166
+4.0,8:18,1.0,10.0,DAL 30,27.0,10.0,Cooper Rush pass complete short middle to Ezekiel Elliott for 9 yards (tackle by Jalen Pitre),0.94,1.61,11.0,2024,166
+4.0,7:56,2.0,1.0,DAL 39,27.0,10.0,Ezekiel Elliott left tackle for 8 yards (tackle by Ka'dar Hollman),1.61,2.06,11.0,2024,166
+4.0,7:28,1.0,10.0,DAL 47,27.0,10.0,Cooper Rush pass incomplete short left intended for Jonathan Mingo,2.06,1.52,11.0,2024,166
+4.0,7:24,2.0,10.0,DAL 47,27.0,10.0,Cooper Rush pass complete short left to Ezekiel Elliott for 2 yards (tackle by Devin White),1.52,1.09,11.0,2024,166
+4.0,6:54,3.0,8.0,DAL 49,27.0,10.0,Cooper Rush sacked by Danielle Hunter for -8 yards,1.09,-0.65,11.0,2024,166
+4.0,6:18,4.0,16.0,DAL 41,27.0,10.0,Cooper Rush sacked by Denico Autry for -6 yards,-0.65,-3.25,11.0,2024,166
+4.0,6:06,1.0,10.0,DAL 35,27.0,10.0,Joe Mixon right tackle for 3 yards (tackle by Mazi Smith),3.25,3.11,11.0,2024,166
+4.0,5:30,2.0,7.0,DAL 32,27.0,10.0,Joe Mixon left end for 17 yards (tackle by Juanyeh Thomas and Donovan Wilson),3.11,4.58,11.0,2024,166
+4.0,4:47,1.0,10.0,DAL 15,27.0,10.0,Joe Mixon left tackle for 1 yard (tackle by Marist Liufau and Mazi Smith),4.58,4.11,11.0,2024,166
+4.0,4:06,2.0,9.0,DAL 14,27.0,10.0,Joe Mixon left guard for 5 yards (tackle by Eric Kendricks and Malik Hooker),4.11,4.22,11.0,2024,166
+4.0,3:33,3.0,4.0,DAL 9,27.0,10.0,"Penalty on Laremy Tunsil: Unnecessary Roughness / Offense, 15 yards (offset) Penalty on DeMarvion Overshown: Unnecessary Roughness / Defense, 15 yards (offset) Penalty on Marist Liufau: Unnecessary Roughness / Defense, 15 yards (offset) Penalty on Mazi Smith: Unnecessary Roughness / Defense, 15 yards (offset) Penalty on Trevon Diggs: Unnecessary Roughness / Defense, 15 yards (offset) (no play)",4.22,4.22,11.0,2024,166
+4.0,3:26,3.0,4.0,DAL 9,27.0,10.0,C.J. Stroud pass complete short right to Joe Mixon for 7 yards (tackle by Josh Butler),4.22,6.74,11.0,2024,166
+4.0,3:19,1.0,2.0,DAL 2,27.0,10.0,"Penalty on DAL: Defensive Too Many Men on Field, 1 yard (accepted) (no play)",6.74,6.97,11.0,2024,166
+4.0,3:19,1.0,1.0,DAL 1,33.0,10.0,"Joe Mixon right guard for 1 yard, touchdown",6.97,7.0,11.0,2024,166
+4.0,3:16,,,DAL 15,34.0,10.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,11.0,2024,166
+4.0,3:16,,,HOU 35,34.0,10.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.94,11.0,2024,166
+4.0,3:16,1.0,10.0,DAL 30,34.0,10.0,Deuce Vaughn up the middle for 1 yard (tackle by Jalen Pitre and Jerry Hughes),0.94,0.53,11.0,2024,166
+4.0,2:48,2.0,9.0,DAL 31,34.0,10.0,Cooper Rush pass complete short middle to Deuce Vaughn for 4 yards (tackle by Mario Edwards),0.53,0.37,11.0,2024,166
+4.0,2:17,3.0,5.0,DAL 35,34.0,10.0,Cooper Rush pass complete short left to KaVontae Turpin for 6 yards (tackle by Jeff Okudah),0.37,1.66,11.0,2024,166
+4.0,2:00,1.0,10.0,DAL 41,34.0,10.0,Cooper Rush pass complete short left to Ryan Flournoy for 4 yards (tackle by Jeff Okudah),1.66,1.66,11.0,2024,166
+4.0,1:38,2.0,6.0,DAL 45,34.0,10.0,Cooper Rush pass complete short right to Brevyn Spann-Ford for 11 yards (tackle by Del'Shawn Phillips and Jake Hansen),1.66,2.65,11.0,2024,166
+4.0,1:10,1.0,10.0,HOU 44,34.0,10.0,Deuce Vaughn left guard for 2 yards (tackle by Neville Hewitt),2.65,2.38,11.0,2024,166
+4.0,0:38,2.0,8.0,HOU 42,34.0,10.0,Cooper Rush pass complete short right to KaVontae Turpin for 16 yards (tackle by Jake Hansen),2.38,3.84,11.0,2024,166
+4.0,0:19,1.0,10.0,HOU 26,34.0,10.0,Cooper Rush pass incomplete deep right intended for Jonathan Mingo (defended by Ka'dar Hollman),3.84,3.3,11.0,2024,166
+4.0,0:09,2.0,10.0,HOU 26,34.0,10.0,Deuce Vaughn left guard for 7 yards (tackle by Jake Hansen),3.3,3.57,11.0,2024,166

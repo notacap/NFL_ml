@@ -1,0 +1,176 @@
+Quarter,Time,Down,ToGo,Location,MIA,SFO,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"49ers won the coin toss and deferred, Dolphins to receive the opening kickoff.",,,13.0,2022,190
+1.0,15:00,,,SFO 35,0.0,0.0,"Robbie Gould kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,190
+1.0,15:00,1.0,10.0,MIA 25,6.0,0.0,"Tua Tagovailoa pass complete short right to Trent Sherfield for 75 yards, touchdown",0.61,7.0,13.0,2022,190
+1.0,14:50,,,SFO 15,7.0,0.0,Jason Sanders kicks extra point good,0.0,0.0,13.0,2022,190
+1.0,14:50,,,MIA 35,7.0,0.0,"Jason Sanders kicks off 67 yards, returned by Ray-Ray McCloud for 19 yards (tackle by Samuel Eguavoen and Andrew Van Ginkel)",0.0,-0.06,13.0,2022,190
+1.0,14:45,1.0,10.0,SFO 17,7.0,0.0,Christian McCaffrey up the middle for 3 yards (tackle by Christian Wilkins and Justin Zimmer),-0.06,-0.06,13.0,2022,190
+1.0,14:09,2.0,7.0,SFO 20,7.0,0.0,Jimmy Garoppolo pass incomplete short left intended for Brandon Aiyuk,-0.06,-0.87,13.0,2022,190
+1.0,14:04,3.0,7.0,SFO 20,7.0,0.0,Jimmy Garoppolo pass complete short right to Brandon Aiyuk for 23 yards (tackle by Verone McKinley),-0.87,1.8,13.0,2022,190
+1.0,13:29,1.0,10.0,SFO 43,7.0,0.0,Christian McCaffrey right guard for 1 yard (tackle by Elandon Roberts),1.8,1.39,13.0,2022,190
+1.0,12:48,2.0,9.0,SFO 44,7.0,0.0,Jimmy Garoppolo pass complete deep right to Christian McCaffrey for 33 yards (tackle by Jevon Holland),1.39,4.04,13.0,2022,190
+1.0,12:14,1.0,10.0,MIA 23,7.0,0.0,Christian McCaffrey up the middle for 4 yards (tackle by Christian Wilkins),4.04,4.05,13.0,2022,190
+1.0,11:30,2.0,6.0,MIA 19,7.0,0.0,Jimmy Garoppolo pass incomplete short middle intended for George Kittle,4.05,3.34,13.0,2022,190
+1.0,11:22,3.0,6.0,MIA 19,7.0,0.0,Jimmy Garoppolo sacked by and Jerome Baker for -10 yards and Jaelan Phillips for -10 yards,3.34,1.5,13.0,2022,190
+1.0,10:42,4.0,16.0,MIA 29,7.0,3.0,Robbie Gould 47 yard field goal good,1.5,3.0,13.0,2022,190
+1.0,10:37,,,SFO 35,7.0,3.0,"Robbie Gould kicks off 66 yards, returned by Raheem Mostert for 25 yards (tackle by George Odum and Oren Burks)",0.0,0.54,13.0,2022,190
+1.0,10:31,1.0,10.0,MIA 24,7.0,3.0,Tua Tagovailoa pass incomplete short left intended for Tyreek Hill,0.54,0.0,13.0,2022,190
+1.0,10:28,2.0,10.0,MIA 24,7.0,3.0,Raheem Mostert up the middle for 4 yards (tackle by Samson Ebukam),0.0,-0.16,13.0,2022,190
+1.0,9:48,3.0,6.0,MIA 28,7.0,3.0,Tua Tagovailoa pass incomplete deep middle intended for Trent Sherfield (defended by Fred Warner),-0.16,-1.5,13.0,2022,190
+1.0,9:42,4.0,6.0,MIA 28,7.0,3.0,"Thomas Morstead punts 46 yards, returned by Ray-Ray McCloud for 20 yards (tackle by Alec Ingold)",-1.5,-1.99,13.0,2022,190
+1.0,9:30,1.0,10.0,SFO 46,7.0,3.0,Christian McCaffrey left tackle for 3 yards (tackle by Christian Wilkins),1.99,1.86,13.0,2022,190
+1.0,8:46,2.0,7.0,SFO 49,7.0,3.0,Christian McCaffrey left tackle for 4 yards (tackle by Andrew Van Ginkel and Christian Wilkins),1.86,1.69,13.0,2022,190
+1.0,8:08,3.0,3.0,MIA 47,7.0,3.0,Brock Purdy pass complete short left to Christian McCaffrey for 7 yards (tackle by Duke Riley),1.69,2.92,13.0,2022,190
+1.0,7:26,1.0,10.0,MIA 40,7.0,3.0,Jordan Mason up the middle for 11 yards (tackle by Jevon Holland),2.92,3.64,13.0,2022,190
+1.0,6:48,1.0,10.0,MIA 29,7.0,3.0,Brock Purdy pass incomplete short right intended for Deebo Samuel,3.64,3.1,13.0,2022,190
+1.0,6:42,2.0,10.0,MIA 29,7.0,3.0,Brock Purdy pass incomplete deep middle intended for Deebo Samuel (defended by Xavien Howard),3.1,2.41,13.0,2022,190
+1.0,6:37,3.0,10.0,MIA 29,7.0,3.0,"Brock Purdy pass incomplete intended for Brandon Aiyuk. Penalty on Kader Kohou: Defensive Pass Interference, 14 yards (accepted) (no play)",2.41,4.58,13.0,2022,190
+1.0,6:29,1.0,10.0,MIA 15,7.0,3.0,Christian McCaffrey left guard for 9 yards (tackle by Jerome Baker and Elandon Roberts),4.58,5.6,13.0,2022,190
+1.0,5:40,,,,,,Timeout #1 by San Francisco 49ers,,,13.0,2022,190
+1.0,5:40,2.0,1.0,MIA 6,7.0,3.0,Christian McCaffrey up the middle for 3 yards (tackle by Eric Rowe and Jerome Baker),5.6,6.51,13.0,2022,190
+1.0,4:57,1.0,3.0,MIA 3,7.0,9.0,"Brock Purdy pass complete short right to Kyle Juszczyk for 3 yards, touchdown",6.51,7.0,13.0,2022,190
+1.0,4:52,,,MIA 15,7.0,10.0,Robbie Gould kicks extra point good,0.0,0.0,13.0,2022,190
+1.0,4:52,,,SFO 35,7.0,10.0,"Robbie Gould kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,190
+1.0,4:52,1.0,10.0,MIA 25,7.0,10.0,Jeff Wilson up the middle for 3 yards (tackle by Kevin Givens),0.61,0.47,13.0,2022,190
+1.0,4:13,2.0,7.0,MIA 28,7.0,10.0,Tua Tagovailoa pass incomplete deep right intended for Jaylen Waddle,0.47,-0.23,13.0,2022,190
+1.0,4:06,3.0,7.0,MIA 28,7.0,10.0,Tua Tagovailoa pass incomplete short left intended for Jaylen Waddle,-0.23,-1.5,13.0,2022,190
+1.0,4:01,4.0,7.0,MIA 28,7.0,10.0,"Thomas Morstead punts 63 yards, returned by Ray-Ray McCloud for 14 yards (tackle by Clayton Fejedelem). Penalty on Elijah Campbell: Player Out of Bounds on a Punt, 5 yards (accepted)",-1.5,-0.81,13.0,2022,190
+1.0,3:49,1.0,10.0,SFO 28,7.0,10.0,Christian McCaffrey up the middle for 4 yards (tackle by Christian Wilkins and Andrew Van Ginkel),0.81,0.8,13.0,2022,190
+1.0,3:13,2.0,6.0,SFO 32,7.0,10.0,"Christian McCaffrey for no gain. Penalty on Melvin Ingram: Tripping / Defense, 10 yards (accepted) (no play)",0.8,1.73,13.0,2022,190
+1.0,2:50,1.0,10.0,SFO 42,7.0,10.0,Brock Purdy pass complete short left to Brandon Aiyuk for 6 yards (tackle by Kader Kohou),1.73,2.0,13.0,2022,190
+1.0,2:13,2.0,4.0,SFO 48,7.0,10.0,Christian McCaffrey up the middle for 2 yards (tackle by Zach Sieler),2.0,1.55,13.0,2022,190
+1.0,1:43,3.0,2.0,SFO 50,7.0,10.0,Christian McCaffrey up the middle for -3 yards (tackle by Christian Wilkins),1.55,-0.26,13.0,2022,190
+1.0,1:03,4.0,5.0,SFO 47,7.0,10.0,Mitch Wishnowsky punts 43 yards out of bounds,-0.26,0.38,13.0,2022,190
+1.0,0:51,1.0,10.0,MIA 10,7.0,10.0,Tua Tagovailoa pass incomplete deep left intended for Jaylen Waddle,-0.38,-0.78,13.0,2022,190
+1.0,0:45,2.0,10.0,MIA 10,7.0,10.0,Tua Tagovailoa pass complete deep middle to Durham Smythe for 19 yards (tackle by Tashaun Gipson),-0.78,0.87,13.0,2022,190
+1.0,0:07,1.0,10.0,MIA 29,7.0,10.0,Tua Tagovailoa pass incomplete short right intended for Alec Ingold,0.87,0.33,13.0,2022,190
+1.0,0:03,2.0,10.0,MIA 29,7.0,10.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 18 yards (tackle by Jimmie Ward),0.33,2.06,13.0,2022,190
+2.0,15:00,1.0,10.0,MIA 47,7.0,10.0,Raheem Mostert left end for no gain (tackle by Dre Greenlaw and Kerry Hyder),2.06,1.52,13.0,2022,190
+2.0,14:20,2.0,10.0,MIA 47,7.0,10.0,Tua Tagovailoa pass complete short left to Tyreek Hill for 17 yards (tackle by Deommodore Lenoir),1.52,3.18,13.0,2022,190
+2.0,13:46,1.0,10.0,SFO 36,7.0,10.0,Tua Tagovailoa pass complete short left to Alec Ingold for 6 yards (tackle by Dre Greenlaw),3.18,3.45,13.0,2022,190
+2.0,13:07,2.0,4.0,SFO 30,7.0,10.0,Raheem Mostert up the middle for 4 yards (tackle by Hassan Ridgeway),3.45,3.84,13.0,2022,190
+2.0,12:25,1.0,10.0,SFO 26,7.0,10.0,Tua Tagovailoa pass complete short right to Alec Ingold for 7 yards (tackle by Jimmie Ward),3.84,4.27,13.0,2022,190
+2.0,11:51,2.0,3.0,SFO 19,7.0,10.0,Tua Tagovailoa pass complete short left to Alec Ingold for 2 yards (tackle by Hassan Ridgeway and Dre Greenlaw),4.27,3.95,13.0,2022,190
+2.0,11:05,3.0,1.0,SFO 17,7.0,10.0,Tua Tagovailoa sacked by Nick Bosa for -8 yards,3.95,1.8,13.0,2022,190
+2.0,10:20,4.0,9.0,SFO 25,10.0,10.0,Jason Sanders 43 yard field goal good,1.8,3.0,13.0,2022,190
+2.0,10:14,,,MIA 35,10.0,10.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,190
+2.0,10:14,1.0,10.0,SFO 25,10.0,10.0,Deebo Samuel up the middle for no gain (tackle by Zach Sieler),0.61,0.06,13.0,2022,190
+2.0,9:37,2.0,10.0,SFO 25,10.0,10.0,Brock Purdy pass complete short left to Kyle Juszczyk for 5 yards (tackle by Kader Kohou),0.06,0.04,13.0,2022,190
+2.0,8:55,3.0,5.0,SFO 30,10.0,10.0,Brock Purdy pass incomplete short right intended for Deebo Samuel (defended by Keion Crossen),0.04,-1.37,13.0,2022,190
+2.0,8:51,4.0,5.0,SFO 30,10.0,10.0,"Mitch Wishnowsky punts 56 yards, returned by Cedrick Wilson for 14 yards (tackle by Demetrius Flannigan-Fowles and Samuel Womack)",-1.37,-0.81,13.0,2022,190
+2.0,8:39,1.0,10.0,MIA 28,10.0,10.0,Tua Tagovailoa pass incomplete deep left intended for Jaylen Waddle,0.81,0.26,13.0,2022,190
+2.0,8:34,2.0,10.0,MIA 28,10.0,10.0,Tua Tagovailoa pass incomplete deep left intended for Jeff Wilson,0.26,-0.43,13.0,2022,190
+2.0,8:29,3.0,10.0,MIA 28,10.0,10.0,Tua Tagovailoa pass incomplete short left intended for River Cracraft,-0.43,-1.5,13.0,2022,190
+2.0,8:25,4.0,10.0,MIA 28,10.0,10.0,Thomas Morstead punts 50 yards downed by Justin Bethel,-1.5,-0.41,13.0,2022,190
+2.0,8:14,1.0,10.0,SFO 22,10.0,10.0,Brock Purdy pass complete short left to Tyler Kroft for 14 yards,0.41,1.33,13.0,2022,190
+2.0,7:40,1.0,10.0,SFO 36,10.0,10.0,Jordan Mason right guard for 19 yards (tackle by Jevon Holland),1.33,2.59,13.0,2022,190
+2.0,7:03,1.0,10.0,MIA 45,10.0,10.0,Jordan Mason up the middle for 7 yards (tackle by Jerome Baker),2.59,2.99,13.0,2022,190
+2.0,6:21,2.0,3.0,MIA 38,10.0,10.0,"Brock Purdy sacked by and Andrew Van Ginkel for -7 yards and Zach Sieler for -7 yards. Penalty on Aaron Banks: Offensive Holding, 10 yards (declined)",2.99,1.36,13.0,2022,190
+2.0,5:59,3.0,10.0,MIA 45,10.0,10.0,Brock Purdy pass complete short right to Brandon Aiyuk for 6 yards (tackle by Xavien Howard),1.36,0.66,13.0,2022,190
+2.0,5:20,4.0,4.0,MIA 39,10.0,10.0,Brock Purdy pass deep right intended for Brandon Aiyuk is intercepted by Xavien Howard at MIA-19 and returned for no gain (tackle by Brandon Aiyuk),0.66,-0.15,13.0,2022,190
+2.0,5:13,1.0,10.0,MIA 19,10.0,10.0,Tua Tagovailoa pass complete deep right to River Cracraft for 18 yards (tackle by Dre Greenlaw),0.15,1.4,13.0,2022,190
+2.0,4:32,1.0,10.0,MIA 37,10.0,10.0,Raheem Mostert right guard for 2 yards (tackle by Jordan Willis and Hassan Ridgeway),1.4,1.13,13.0,2022,190
+2.0,3:47,2.0,8.0,MIA 39,10.0,10.0,Tua Tagovailoa pass incomplete deep middle intended for Tyreek Hill,1.13,0.43,13.0,2022,190
+2.0,3:40,,,,,,Timeout #1 by Miami Dolphins,,,13.0,2022,190
+2.0,3:40,3.0,8.0,MIA 39,10.0,10.0,Tua Tagovailoa sacked by Nick Bosa for -10 yards,0.43,-1.44,13.0,2022,190
+2.0,3:00,4.0,18.0,MIA 29,10.0,10.0,Thomas Morstead punts 47 yards downed by Blake Ferguson,-1.44,-0.54,13.0,2022,190
+2.0,2:48,1.0,10.0,SFO 24,10.0,10.0,Brock Purdy pass complete short left to Deebo Samuel for 7 yards (tackle by Jerome Baker),0.54,0.94,13.0,2022,190
+2.0,2:16,2.0,3.0,SFO 31,10.0,10.0,"Brock Purdy pass incomplete intended for George Kittle. Penalty on Mike McGlinchey: Ineligible Downfield Pass, 5 yards (accepted) (no play)",0.94,0.27,13.0,2022,190
+2.0,2:08,2.0,8.0,SFO 26,10.0,10.0,Brock Purdy pass complete short left to Christian McCaffrey for 9 yards (tackle by Kader Kohou),0.27,1.27,13.0,2022,190
+2.0,2:00,1.0,10.0,SFO 35,10.0,10.0,Christian McCaffrey up the middle for no gain (tackle by Christian Wilkins and Zach Sieler),1.27,0.72,13.0,2022,190
+2.0,1:25,2.0,10.0,SFO 35,10.0,10.0,Brock Purdy pass incomplete short right intended for Brandon Aiyuk,0.72,0.04,13.0,2022,190
+2.0,1:19,3.0,10.0,SFO 35,10.0,10.0,Brock Purdy pass complete short middle to George Kittle for 19 yards (tackle by Xavien Howard and Eric Rowe),0.04,2.52,13.0,2022,190
+2.0,0:51,,,,,,Timeout #2 by Miami Dolphins,,,13.0,2022,190
+2.0,0:51,1.0,10.0,MIA 46,10.0,10.0,Brock Purdy pass incomplete short right intended for Jauan Jennings,2.52,1.98,13.0,2022,190
+2.0,0:48,,,,,,Timeout #2 by San Francisco 49ers,,,13.0,2022,190
+2.0,0:48,2.0,10.0,MIA 46,10.0,10.0,Brock Purdy pass complete short right to Jauan Jennings for 19 yards. Jauan Jennings fumbles (forced by Christian Wilkins). Jauan Jennings fumbles out of bounds,1.98,3.78,13.0,2022,190
+2.0,0:38,1.0,10.0,MIA 27,10.0,10.0,"Brock Purdy pass incomplete intended for Deebo Samuel. Penalty on Xavien Howard: Defensive Pass Interference, 4 yards (accepted) (no play)",3.78,4.04,13.0,2022,190
+2.0,0:36,1.0,10.0,MIA 23,10.0,10.0,Brock Purdy pass complete short left to Christian McCaffrey for 18 yards (tackle by Keion Crossen),4.04,6.06,13.0,2022,190
+2.0,0:16,1.0,5.0,MIA 5,10.0,10.0,Christian McCaffrey up the middle for 2 yards (tackle by Christian Wilkins and Duke Riley),6.06,5.53,13.0,2022,190
+2.0,0:12,,,,,,Timeout #3 by San Francisco 49ers,,,13.0,2022,190
+2.0,0:12,2.0,3.0,MIA 3,10.0,10.0,Brock Purdy pass incomplete short middle intended for Christian McCaffrey,5.53,4.72,13.0,2022,190
+2.0,0:07,3.0,3.0,MIA 3,10.0,16.0,"Brock Purdy pass complete short left to Christian McCaffrey for 3 yards, touchdown",4.72,7.0,13.0,2022,190
+2.0,0:04,,,MIA 15,10.0,17.0,Robbie Gould kicks extra point good,0.0,0.0,13.0,2022,190
+2.0,0:04,,,SFO 35,10.0,17.0,"Robbie Gould kicks off 34 yards, returned by Durham Smythe for 9 yards (tackle by Oren Burks)",0.0,1.27,13.0,2022,190
+3.0,15:00,,,MIA 35,10.0,17.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,190
+3.0,15:00,1.0,10.0,SFO 25,10.0,17.0,Christian McCaffrey left end for 1 yard (tackle by Jaelan Phillips and Jerome Baker),0.61,0.2,13.0,2022,190
+3.0,14:16,2.0,9.0,SFO 26,10.0,17.0,Brock Purdy pass complete short left to Kyle Juszczyk for 4 yards (tackle by Elijah Campbell),0.2,0.04,13.0,2022,190
+3.0,13:41,3.0,5.0,SFO 30,10.0,17.0,Brock Purdy pass complete short middle to Jauan Jennings for 15 yards (tackle by Jevon Holland),0.04,1.93,13.0,2022,190
+3.0,13:00,1.0,10.0,SFO 45,10.0,17.0,Brock Purdy pass incomplete short right,1.93,1.38,13.0,2022,190
+3.0,12:50,2.0,10.0,SFO 45,10.0,17.0,Christian McCaffrey left guard for 4 yards (tackle by Bradley Chubb),1.38,1.22,13.0,2022,190
+3.0,12:01,3.0,6.0,SFO 49,10.0,17.0,Brock Purdy sacked by Melvin Ingram for -11 yards,1.22,-0.85,13.0,2022,190
+3.0,11:22,4.0,17.0,SFO 38,10.0,17.0,"Mitch Wishnowsky punts 46 yards, returned by Cedrick Wilson for 7 yards (tackle by George Odum and Demetrius Flannigan-Fowles). Penalty on Tarvarius Moore: Unsportsmanlike Conduct / Defense, 15 yards (accepted)",-0.85,-1.47,13.0,2022,190
+3.0,11:12,1.0,10.0,MIA 38,10.0,17.0,"Tua Tagovailoa pass complete deep left to Tyreek Hill for 19 yards. Penalty on Nick Bosa: Roughing the Passer, 15 yards (accepted)",1.47,3.71,13.0,2022,190
+3.0,10:56,1.0,10.0,SFO 28,10.0,17.0,"Penalty on Robert Jones: False Start, 5 yards (accepted) (no play)",3.71,3.38,13.0,2022,190
+3.0,10:36,1.0,15.0,SFO 33,10.0,17.0,"Raheem Mostert for no gain. Penalty on Robert Hunt: Offensive Holding, 10 yards (accepted) (no play)",3.38,2.72,13.0,2022,190
+3.0,10:14,1.0,25.0,SFO 43,10.0,17.0,Tua Tagovailoa pass short right intended for Jeff Wilson is intercepted by Jimmie Ward at SF-36 and returned for no gain (tackle by Jeff Wilson),2.72,-1.33,13.0,2022,190
+3.0,10:01,1.0,10.0,SFO 36,10.0,17.0,Brock Purdy pass complete short middle to Deebo Samuel for 11 yards (tackle by Xavien Howard and Jevon Holland),1.33,2.06,13.0,2022,190
+3.0,9:20,1.0,10.0,SFO 47,10.0,17.0,Brock Purdy pass complete short left to Brandon Aiyuk for 9 yards (tackle by Kader Kohou),2.06,2.73,13.0,2022,190
+3.0,8:40,2.0,1.0,MIA 44,10.0,17.0,Kyle Juszczyk up the middle for no gain (tackle by Zach Sieler),2.73,2.02,13.0,2022,190
+3.0,7:59,3.0,1.0,MIA 44,10.0,17.0,Brock Purdy pass complete short right to Deebo Samuel for 10 yards,2.02,3.31,13.0,2022,190
+3.0,7:11,,,,,,Timeout #1 by San Francisco 49ers,,,13.0,2022,190
+3.0,7:11,1.0,10.0,MIA 34,10.0,17.0,Jordan Mason right tackle for 6 yards (tackle by Jaelan Phillips),3.31,3.58,13.0,2022,190
+3.0,6:27,2.0,4.0,MIA 28,10.0,17.0,Jordan Mason up the middle for 1 yard (tackle by John Jenkins and Christian Wilkins),3.58,3.01,13.0,2022,190
+3.0,5:50,3.0,3.0,MIA 27,10.0,17.0,Brock Purdy pass complete short left to Christian McCaffrey for 2 yards (tackle by Jevon Holland),3.01,1.95,13.0,2022,190
+3.0,5:09,4.0,1.0,MIA 25,10.0,17.0,Brock Purdy right guard for 2 yards (tackle by Zach Sieler),1.95,4.04,13.0,2022,190
+3.0,4:28,1.0,10.0,MIA 23,10.0,17.0,Deebo Samuel left end for -4 yards (tackle by Elandon Roberts),4.04,2.96,13.0,2022,190
+3.0,3:44,2.0,14.0,MIA 27,10.0,17.0,Brock Purdy pass incomplete short middle intended for Deebo Samuel,2.96,2.28,13.0,2022,190
+3.0,3:37,3.0,14.0,MIA 27,10.0,17.0,Brock Purdy pass complete short left to Brandon Aiyuk for 2 yards (tackle by Elijah Campbell and Keion Crossen),2.28,1.8,13.0,2022,190
+3.0,2:57,4.0,12.0,MIA 25,10.0,20.0,Robbie Gould 43 yard field goal good,1.8,3.0,13.0,2022,190
+3.0,2:52,,,SFO 35,10.0,20.0,"Penalty on Bradley Chubb: Unsportsmanlike Conduct / Defense, 15 yards (accepted) (no play)",0.0,-2.26,13.0,2022,190
+3.0,2:52,1.0,10.0,SFO 50,10.0,20.0,"Robbie Gould kicks off 50 yards, touchback.",2.26,0.61,13.0,2022,190
+3.0,2:52,1.0,10.0,MIA 25,10.0,20.0,Tua Tagovailoa pass short left intended for Tyreek Hill is intercepted by Deommodore Lenoir at MIA-33 and returned for 8 yards (tackle by Tyreek Hill),0.61,-3.91,13.0,2022,190
+3.0,2:45,1.0,10.0,MIA 25,10.0,20.0,Jordan Mason left end for 5 yards (tackle by Christian Wilkins and Elandon Roberts),3.91,4.04,13.0,2022,190
+3.0,2:01,2.0,5.0,MIA 20,10.0,20.0,Brock Purdy pass incomplete short middle intended for Christian McCaffrey (defended by Eric Rowe),4.04,3.34,13.0,2022,190
+3.0,1:56,,,,,,Timeout #2 by San Francisco 49ers,,,13.0,2022,190
+3.0,1:56,3.0,5.0,MIA 20,10.0,20.0,Brock Purdy pass complete short right to Christian McCaffrey for 2 yards (tackle by Jerome Baker),3.34,2.35,13.0,2022,190
+3.0,1:18,4.0,3.0,MIA 18,10.0,23.0,Robbie Gould 36 yard field goal good,2.35,3.0,13.0,2022,190
+3.0,1:14,,,SFO 35,10.0,23.0,"Robbie Gould kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,190
+3.0,1:10,1.0,10.0,MIA 25,10.0,23.0,Tua Tagovailoa pass complete short left to Tyreek Hill for 7 yards (tackle by Dre Greenlaw),0.61,1.01,13.0,2022,190
+3.0,0:59,2.0,3.0,MIA 32,10.0,23.0,Tua Tagovailoa pass complete short left to Jaylen Waddle for 9 yards (tackle by Tashaun Gipson),1.01,1.66,13.0,2022,190
+3.0,0:13,1.0,10.0,MIA 41,10.0,23.0,"Penalty on Trent Sherfield: False Start, 5 yards (accepted) (no play)",1.66,1.33,13.0,2022,190
+4.0,15:00,1.0,15.0,MIA 36,10.0,23.0,Tua Tagovailoa pass complete deep left to Tyreek Hill for 19 yards (tackle by Talanoa Hufanga),1.33,2.59,13.0,2022,190
+4.0,14:35,1.0,10.0,SFO 45,16.0,23.0,"Tua Tagovailoa pass complete deep middle to Tyreek Hill for 45 yards, touchdown",2.59,7.0,13.0,2022,190
+4.0,14:28,,,SFO 15,17.0,23.0,Jason Sanders kicks extra point good,0.0,0.0,13.0,2022,190
+4.0,14:28,,,MIA 35,17.0,23.0,"Jason Sanders kicks off 66 yards, returned by Ray-Ray McCloud for 31 yards (tackle by Trent Sherfield)",0.0,0.94,13.0,2022,190
+4.0,14:20,1.0,10.0,SFO 30,17.0,23.0,Brock Purdy pass incomplete short left intended for Brandon Aiyuk,0.94,0.39,13.0,2022,190
+4.0,14:18,2.0,10.0,SFO 30,17.0,23.0,Brock Purdy pass complete short right to Deebo Samuel for 9 yards (tackle by Christian Wilkins),0.39,0.89,13.0,2022,190
+4.0,13:34,3.0,1.0,SFO 39,17.0,23.0,Brock Purdy pass complete short left to Deebo Samuel for 12 yards (tackle by Keion Crossen and Jevon Holland),0.89,2.32,13.0,2022,190
+4.0,12:50,1.0,10.0,MIA 49,17.0,23.0,Jordan Mason left tackle for no gain (tackle by Zach Sieler),2.32,1.78,13.0,2022,190
+4.0,12:09,2.0,10.0,MIA 49,17.0,23.0,Brock Purdy pass complete short right to Christian McCaffrey for 6 yards (tackle by Eric Rowe),1.78,1.88,13.0,2022,190
+4.0,11:26,3.0,4.0,MIA 43,17.0,23.0,Brock Purdy pass incomplete short left intended for Jauan Jennings,1.88,0.4,13.0,2022,190
+4.0,11:18,4.0,4.0,MIA 43,17.0,23.0,Mitch Wishnowsky punts 33 yards downed by Ambry Thomas,0.4,0.38,13.0,2022,190
+4.0,11:10,1.0,10.0,MIA 10,17.0,23.0,Raheem Mostert up the middle for 7 yards (tackle by Fred Warner and Jimmie Ward),-0.38,-0.09,13.0,2022,190
+4.0,10:48,2.0,3.0,MIA 17,17.0,23.0,Tua Tagovailoa pass complete short left to Durham Smythe for 2 yards (tackle by Dre Greenlaw),-0.09,-0.37,13.0,2022,190
+4.0,10:04,3.0,1.0,MIA 19,17.0,23.0,"Tua Tagovailoa pass complete to Trent Sherfield for 16 yards SFO challenged the pass completion ruling, and the original play was overturned. Tua Tagovailoa pass incomplete deep right intended for Trent Sherfield",-0.37,-2.14,13.0,2022,190
+4.0,9:59,4.0,1.0,MIA 19,17.0,23.0,Tua Tagovailoa pass complete short left to Tyreek Hill for 9 yards (tackle by Tashaun Gipson),-2.14,0.81,13.0,2022,190
+4.0,9:23,1.0,10.0,MIA 28,17.0,23.0,Tua Tagovailoa pass complete short left to River Cracraft for 11 yards (tackle by Dre Greenlaw),0.81,1.53,13.0,2022,190
+4.0,8:46,1.0,10.0,MIA 39,17.0,23.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 9 yards (tackle by Jimmie Ward),1.53,2.2,13.0,2022,190
+4.0,8:09,2.0,1.0,MIA 48,17.0,23.0,Raheem Mostert right tackle for 8 yards (tackle by Jimmie Ward and Charvarius Ward),2.2,2.65,13.0,2022,190
+4.0,7:27,1.0,10.0,SFO 44,17.0,23.0,Tua Tagovailoa pass complete short left to Tyreek Hill for 3 yards (tackle by Dre Greenlaw),2.65,2.52,13.0,2022,190
+4.0,6:45,2.0,7.0,SFO 41,17.0,23.0,Raheem Mostert left guard for 5 yards (tackle by Fred Warner),2.52,2.48,13.0,2022,190
+4.0,6:08,3.0,2.0,SFO 36,17.0,23.0,Tua Tagovailoa pass incomplete short middle intended for Tyreek Hill (defended by Drake Jackson),2.48,0.89,13.0,2022,190
+4.0,6:03,4.0,2.0,SFO 36,17.0,23.0,"Tua Tagovailoa pass complete to Mike Gesicki for 3 yards SFO challenged the pass completion ruling, and the original play was overturned. Tua Tagovailoa pass incomplete short left intended for Mike Gesicki (defended by Dre Greenlaw)",0.89,-1.33,13.0,2022,190
+4.0,6:00,1.0,10.0,SFO 36,17.0,23.0,Deebo Samuel left end for no gain (tackle by Jerome Baker and Andrew Van Ginkel),1.33,0.79,13.0,2022,190
+4.0,5:38,2.0,10.0,SFO 36,17.0,23.0,Brock Purdy pass complete to Deebo Samuel for 9 yards (tackle by Eric Rowe and Jerome Baker),0.79,1.29,13.0,2022,190
+4.0,4:49,3.0,1.0,SFO 45,17.0,23.0,Brock Purdy pass complete short right to George Kittle for 3 yards (tackle by Jerome Baker),1.29,2.13,13.0,2022,190
+4.0,4:10,1.0,10.0,SFO 48,17.0,23.0,Jordan Mason right guard for 2 yards (tackle by John Jenkins),2.13,1.85,13.0,2022,190
+4.0,3:31,2.0,8.0,SFO 50,17.0,23.0,Deebo Samuel left end for 9 yards (tackle by Eric Rowe),1.85,2.85,13.0,2022,190
+4.0,3:15,,,,,,Timeout #3 by San Francisco 49ers,,,13.0,2022,190
+4.0,3:15,1.0,10.0,MIA 41,17.0,23.0,Christian McCaffrey right tackle for 30 yards (tackle by Kader Kohou and Bradley Chubb),2.85,4.84,13.0,2022,190
+4.0,3:02,,,,,,Timeout #1 by Miami Dolphins,,,13.0,2022,190
+4.0,3:02,1.0,10.0,MIA 11,17.0,23.0,Christian McCaffrey left end for -3 yards (tackle by Jerome Baker),4.84,3.69,13.0,2022,190
+4.0,2:58,,,,,,Timeout #2 by Miami Dolphins,,,13.0,2022,190
+4.0,2:58,2.0,13.0,MIA 14,17.0,23.0,Brock Purdy sacked by Bradley Chubb for -8 yards,3.69,2.15,13.0,2022,190
+4.0,2:52,,,,,,Timeout #3 by Miami Dolphins,,,13.0,2022,190
+4.0,2:52,3.0,21.0,MIA 22,17.0,23.0,"Deebo Samuel for no gain. Penalty on George Kittle: Offensive Holding, 10 yards (accepted) (no play)",2.15,0.83,13.0,2022,190
+4.0,2:39,3.0,31.0,MIA 32,17.0,23.0,Christian McCaffrey up the middle for 2 yards (tackle by John Jenkins),0.83,1.41,13.0,2022,190
+4.0,2:08,4.0,29.0,MIA 30,17.0,26.0,Robbie Gould 48 yard field goal good,1.41,3.0,13.0,2022,190
+4.0,2:03,,,SFO 35,17.0,26.0,"Robbie Gould kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,190
+4.0,2:03,1.0,10.0,MIA 25,17.0,32.0,"Tua Tagovailoa sacked by Nick Bosa for -2 yards. Tua Tagovailoa fumbles (forced by Nick Bosa), recovered by Dre Greenlaw at MIA-23 and returned for 23 yards, touchdown",0.61,-7.0,13.0,2022,190
+4.0,1:53,,,MIA 15,17.0,33.0,Robbie Gould kicks extra point good,0.0,0.0,13.0,2022,190
+4.0,1:53,,,SFO 35,17.0,33.0,"Robbie Gould kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,190
+4.0,1:53,1.0,10.0,MIA 25,17.0,33.0,Skylar Thompson pass deep middle intended for Tyreek Hill is intercepted by Fred Warner at MIA-47 and returned for 20 yards (tackle by Durham Smythe),0.61,-3.78,13.0,2022,190
+4.0,1:42,1.0,10.0,MIA 27,17.0,33.0,Brock Purdy kneels for -1 yards,3.78,3.1,13.0,2022,190
+4.0,1:08,2.0,11.0,MIA 28,17.0,33.0,Brock Purdy kneels for -1 yards,3.1,2.28,13.0,2022,190
+4.0,0:32,3.0,12.0,MIA 29,17.0,33.0,Brock Purdy kneels for -1 yards,2.28,1.41,13.0,2022,190

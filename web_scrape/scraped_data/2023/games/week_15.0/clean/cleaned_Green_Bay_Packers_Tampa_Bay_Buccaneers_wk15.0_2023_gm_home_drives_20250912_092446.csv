@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,9:02,GNB 25,11,6:37,71,Downs,1,Packers,15.0,2023,215
+2,1,1:41,TAM 4,2,0:52,4,Touchdown,1,Packers,15.0,2023,215
+3,2,12:21,GNB 25,8,5:12,57,Field Goal,1,Packers,15.0,2023,215
+4,2,5:31,GNB 4,5,3:18,42,Punt,1,Packers,15.0,2023,215
+5,2,0:10,GNB 25,1,0:10,-1,End of Half,1,Packers,15.0,2023,215
+6,3,15:00,GNB 25,3,0:39,3,Punt,1,Packers,15.0,2023,215
+7,3,10:55,GNB 25,11,6:37,75,Touchdown,1,Packers,15.0,2023,215
+8,3,0:20,GNB 25,10,5:16,60,Field Goal,1,Packers,15.0,2023,215
+9,4,6:30,GNB 22,9,2:12,27,Fumble,1,Packers,15.0,2023,215

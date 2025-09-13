@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,11:57,DET 40,8,3:19,60,Touchdown,0,Lions,16.0,2022,228
+2,1,6:07,DET 9,13,6:50,82,Fumble,0,Lions,16.0,2022,228
+3,2,9:35,DET 28,3,1:01,4,Punt,0,Lions,16.0,2022,228
+4,2,2:08,DET 25,3,1:09,9,Punt,0,Lions,16.0,2022,228
+5,3,15:00,DET 30,3,2:14,-3,Punt,0,Lions,16.0,2022,228
+6,3,9:12,DET 21,3,1:07,-9,Punt,0,Lions,16.0,2022,228
+7,3,6:21,DET 20,7,3:12,80,Touchdown,0,Lions,16.0,2022,228
+8,4,13:13,DET 48,6,2:45,45,Downs,0,Lions,16.0,2022,228
+9,4,5:36,DET 13,8,1:50,87,Touchdown,0,Lions,16.0,2022,228
+10,4,1:56,DET 22,8,1:20,62,Field Goal,0,Lions,16.0,2022,228

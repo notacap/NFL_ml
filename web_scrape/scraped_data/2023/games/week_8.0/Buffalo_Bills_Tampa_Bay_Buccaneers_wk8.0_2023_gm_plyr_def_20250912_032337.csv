@@ -1,0 +1,39 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Unnamed: 7_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Fumbles,Fumbles,Fumbles,Fumbles,week,year,game_id
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF,,,
+William Gholston,TAM,1,0,0,0,2,0.0,2,0,2,0,0,0,0,0,0,8.0,2023,107
+Anthony Nelson,TAM,0,0,0,0,0,1.0,4,4,0,2,1,0,0,0,0,8.0,2023,107
+YaYa Diaby,TAM,0,0,0,0,0,1.0,1,1,0,1,1,0,0,0,0,8.0,2023,107
+Lavonte David,TAM,0,0,0,0,0,0.0,14,6,8,1,0,0,0,0,0,8.0,2023,107
+Ryan Neal,TAM,0,0,0,0,0,0.0,13,10,3,0,0,0,0,0,0,8.0,2023,107
+Devin White,TAM,0,0,0,0,0,0.0,9,5,4,0,0,0,0,0,0,8.0,2023,107
+Jamel Dean,TAM,0,0,0,0,2,0.0,8,8,0,0,0,0,0,0,0,8.0,2023,107
+Shaquil Barrett,TAM,0,0,0,0,0,0.0,5,3,2,0,0,0,0,0,0,8.0,2023,107
+Carlton Davis,TAM,0,0,0,0,1,0.0,5,5,0,0,0,0,0,0,0,8.0,2023,107
+Antoine Winfield Jr.,TAM,0,0,0,0,1,0.0,4,2,2,0,0,0,0,0,0,8.0,2023,107
+Josh Hayes,TAM,0,0,0,0,0,0.0,3,3,0,0,0,0,0,0,0,8.0,2023,107
+Christian Izien,TAM,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,8.0,2023,107
+Joe Tryon-Shoyinka,TAM,0,0,0,0,0,0.0,2,2,0,0,1,0,0,0,0,8.0,2023,107
+K.J. Britt,TAM,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,8.0,2023,107
+SirVocea Dennis,TAM,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,8.0,2023,107
+Greg Gaines,TAM,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,8.0,2023,107
+Ko Kieft,TAM,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,8.0,2023,107
+Deadrin Senat,TAM,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,8.0,2023,107
+Baker Mayfield,TAM,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,0,8.0,2023,107
+Deven Thompkins,TAM,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,0,8.0,2023,107
+Taron Johnson,BUF,0,0,0,0,0,1.0,6,4,2,1,1,0,0,0,0,8.0,2023,107
+A.J. Epenesa,BUF,0,0,0,0,0,1.0,2,1,1,1,1,0,0,0,0,8.0,2023,107
+Ed Oliver,BUF,0,0,0,0,0,1.0,2,1,1,1,1,0,0,0,0,8.0,2023,107
+Terrel Bernard,BUF,0,0,0,0,2,0.0,8,6,2,0,0,0,0,0,0,8.0,2023,107
+Jordan Poyer,BUF,0,0,0,0,2,0.0,8,3,5,0,0,0,0,0,0,8.0,2023,107
+Tyrel Dodson,BUF,0,0,0,0,0,0.0,5,4,1,0,0,0,0,0,0,8.0,2023,107
+Dane Jackson,BUF,0,0,0,0,0,0.0,5,3,2,0,0,0,0,0,0,8.0,2023,107
+Micah Hyde,BUF,0,0,0,0,1,0.0,4,3,1,0,1,0,0,0,0,8.0,2023,107
+Christian Benford,BUF,0,0,0,0,2,0.0,3,3,0,0,0,0,0,0,0,8.0,2023,107
+Gregory Rousseau,BUF,0,0,0,0,0,0.0,3,2,1,0,2,0,0,0,0,8.0,2023,107
+Leonard Floyd,BUF,0,0,0,0,0,0.0,2,2,0,0,1,0,0,0,0,8.0,2023,107
+Poona Ford,BUF,0,0,0,0,0,0.0,2,1,1,0,1,0,0,0,0,8.0,2023,107
+Shaq Lawson,BUF,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,8.0,2023,107
+Josh Norman,BUF,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,8.0,2023,107
+Taylor Rapp,BUF,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,8.0,2023,107
+Von Miller,BUF,0,0,0,0,0,0.0,0,0,0,0,1,0,0,0,0,8.0,2023,107
+Jordan Phillips,BUF,0,0,0,0,1,0.0,0,0,0,0,1,0,0,0,0,8.0,2023,107

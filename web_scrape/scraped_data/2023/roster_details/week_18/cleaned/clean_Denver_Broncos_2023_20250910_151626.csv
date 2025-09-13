@@ -1,0 +1,65 @@
+Player,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Team,Draft Team,Draft Round,Draft Pick,Draft Year
+Nate Adkins,24.0,TE,10,1.0,252.0,75,"East Tennessee St.,South Carolina",7/9/1999,0,0.0,Denver Broncos,,,,
+Zach Allen,26.0,DE,17,17.0,285.0,77,Boston Col.,8/20/1997,4,6.0,Denver Broncos,Arizona Cardinals,3.0,65.0,2019.0
+Quinn Bailey,28.0,T,17,1.0,323.0,78,Arizona St.,10/18/1995,4,2.0,Denver Broncos,,,,
+Michael Bandy,26.0,WR,1,0.0,190.0,70,San Diego,12/5/1997,2,0.0,Denver Broncos,,,,
+Essang Bassey,25.0,DB,4,1.0,190.0,70,Wake Forest,8/12/1998,3,0.0,Denver Broncos,,,,
+Garett Bolles,31.0,T,17,17.0,300.0,77,"Snow College (UT),Utah",5/27/1992,6,8.0,Denver Broncos,Denver Broncos,1.0,20.0,2017.0
+Nik Bonitto,24.0,OLB,15,4.0,240.0,75,Oklahoma,9/26/1999,1,3.0,Denver Broncos,Denver Broncos,2.0,64.0,2022.0
+Baron Browning,24.0,OLB,10,9.0,255.0,75,Ohio St.,2/19/1999,2,4.0,Denver Broncos,Denver Broncos,3.0,105.0,2021.0
+Michael Burton,31.0,FB,17,3.0,247.0,72,Rutgers,2/1/1992,8,0.0,Denver Broncos,Detroit Lions,5.0,168.0,2015.0
+Frank Clark,30.0,DE,2,0.0,272.0,75,Michigan,6/14/1993,8,0.0,Denver Broncos,Seattle Seahawks,2.0,63.0,2015.0
+Jonathon Cooper,25.0,OLB,17,17.0,257.0,76,Ohio St.,1/8/1998,2,8.0,Denver Broncos,Denver Broncos,7.0,239.0,2021.0
+Lloyd Cushenberry III,26.0,C,17,17.0,315.0,76,LSU,11/22/1997,3,7.0,Denver Broncos,Denver Broncos,3.0,83.0,2020.0
+Riley Dixon,30.0,P,17,0.0,221.0,76,Syracuse,8/24/1993,7,2.0,Denver Broncos,Denver Broncos,7.0,228.0,2016.0
+Phillip Dorsett,30.0,WR,2,1.0,185.0,70,Miami (FL),1/5/1993,8,0.0,Denver Broncos,Indianapolis Colts,1.0,29.0,2015.0
+Greg Dulcich,23.0,TE,2,1.0,245.0,76,UCLA,3/26/2000,1,0.0,Denver Broncos,Denver Broncos,3.0,80.0,2022.0
+Cameron Fleming,31.0,T,6,1.0,320.0,77,Stanford,9/3/1992,9,1.0,Denver Broncos,New England Patriots,4.0,140.0,2014.0
+Mitchell Fraboni,27.0,LS,17,0.0,223.0,74,Arizona St.,10/28/1996,1,1.0,Denver Broncos,,,,
+Elijah Garcia,25.0,DL,3,0.0,302.0,77,Rice,3/11/1998,1,0.0,Denver Broncos,,,,
+Randy Gregory,31.0,LB,4,3.0,242.0,77,"Arizona Western,Nebraska",11/23/1992,8,1.0,Denver Broncos,Dallas Cowboys,2.0,60.0,2015.0
+Jonathan Harris,27.0,DL,17,5.0,295.0,77,Lindenwood,8/4/1996,4,3.0,Denver Broncos,,,,
+Matt Henningsen,24.0,DE,17,0.0,291.0,75,Wisconsin,5/1/1999,1,1.0,Denver Broncos,Denver Broncos,6.0,206.0,2022.0
+Lil'Jordan Humphrey,25.0,WR,17,8.0,225.0,76,Texas,4/19/1998,4,2.0,Denver Broncos,,,,
+Thomas Incoom,24.0,OLB,4,0.0,265.0,74,"Valdosta St.,Central Michigan",2/19/1999,0,0.0,Denver Broncos,,,,
+Kareem Jackson,35.0,SS,8,8.0,196.0,70,Alabama,4/10/1988,13,3.0,Denver Broncos,Houston Texans,1.0,20.0,2010.0
+Jerry Jeudy,24.0,WR,16,11.0,195.0,73,Alabama,4/24/1999,3,7.0,Denver Broncos,Denver Broncos,1.0,15.0,2020.0
+Josey Jewell,29.0,LB,16,15.0,236.0,73,Iowa,12/25/1994,5,6.0,Denver Broncos,Denver Broncos,4.0,106.0,2018.0
+Brandon Johnson,25.0,WR,13,2.0,195.0,74,"Tennessee,Central Florida",7/26/1998,1,3.0,Denver Broncos,,,,
+D.J. Jones,28.0,DT,16,16.0,305.0,72,"East Mississippi CC,Mississippi",1/19/1995,6,6.0,Denver Broncos,San Francisco 49ers,6.0,198.0,2017.0
+Lucas Krull,25.0,TE,7,2.0,260.0,78,"Jefferson,Florida,Pittsburgh",7/11/1998,1,1.0,Denver Broncos,,,,
+Tyler Lancaster,29.0,NT,3,0.0,313.0,75,Northwestern,11/4/1994,5,0.0,Denver Broncos,,,,
+P.J. Locke,26.0,S,12,8.0,202.0,70,Texas,2/12/1997,3,3.0,Denver Broncos,,,,
+Wil Lutz,29.0,K,17,0.0,184.0,71,Georgia St.,7/7/1994,7,3.0,Denver Broncos,,,,
+Chris Manhertz,31.0,TE,16,4.0,235.0,78,Canisius,4/10/1992,7,0.0,Denver Broncos,,,,
+Damarri Mathis,24.0,CB,17,6.0,195.0,71,Pittsburgh,4/12/1999,1,2.0,Denver Broncos,Denver Broncos,4.0,115.0,2022.0
+Mike McGlinchey,29.0,T,16,16.0,315.0,80,Notre Dame,8/29/1994,5,7.0,Denver Broncos,San Francisco 49ers,1.0,9.0,2018.0
+Jaleel McLaughlin,23.0,RB,17,3.0,187.0,67,"Notre Dame (OH),Youngstown St.",9/13/2000,0,4.0,Denver Broncos,,,,
+Ja'Quan McMillian,23.0,CB,16,3.0,183.0,70,East Carolina,6/4/2000,1,2.0,Denver Broncos,,,,
+Quinn Meinerz,25.0,OL,17,17.0,320.0,75,Wisconsin–Whitewater,11/15/1998,2,7.0,Denver Broncos,Denver Broncos,3.0,98.0,2021.0
+Marvin Mims,21.0,WR,16,7.0,182.0,71,Oklahoma,3/19/2002,0,5.0,Denver Broncos,Denver Broncos,2.0,63.0,2023.0
+Fabian Moreau,29.0,CB,16,11.0,200.0,72,UCLA,4/9/1994,6,4.0,Denver Broncos,Washington Redskins,3.0,81.0,2017.0
+Riley Moss,23.0,CB,14,0.0,193.0,72,Iowa,3/3/2000,0,1.0,Denver Broncos,Denver Broncos,3.0,83.0,2023.0
+Ben Niemann,28.0,LB,7,0.0,235.0,74,Iowa,7/27/1995,5,0.0,Denver Broncos,,,,
+Samaje Perine,28.0,RB,17,1.0,240.0,71,Oklahoma,9/16/1995,6,6.0,Denver Broncos,Washington Redskins,4.0,114.0,2017.0
+Ronnie Perkins,24.0,OLB,7,0.0,253.0,75,Oklahoma,9/29/1999,1,0.0,Denver Broncos,New England Patriots,3.0,96.0,2021.0
+Ben Powers,27.0,G,17,17.0,310.0,76,Oklahoma,10/29/1996,4,7.0,Denver Broncos,Baltimore Ravens,4.0,123.0,2019.0
+Mike Purcell,32.0,DL,16,10.0,328.0,75,Wyoming,4/20/1991,9,4.0,Denver Broncos,,,,
+Drew Sanders,23.0,LB,17,4.0,233.0,77,"Alabama,Arkansas",12/31/2000,0,2.0,Denver Broncos,Denver Broncos,3.0,67.0,2023.0
+David Sills,27.0,WR,3,1.0,211.0,75,West Virginia,5/29/1996,2,0.0,Denver Broncos,,,,
+Justin Simmons,30.0,FS,15,15.0,202.0,74,Boston Col.,11/19/1993,7,9.0,Denver Broncos,Denver Broncos,3.0,98.0,2016.0
+Alex Singleton,30.0,LB,17,16.0,240.0,74,Montana St.,12/7/1993,4,6.0,Denver Broncos,,,,
+JL Skinner,22.0,S,2,0.0,220.0,76,Boise St.,4/16/2001,0,0.0,Denver Broncos,Denver Broncos,6.0,183.0,2023.0
+Tre'Quan Smith,27.0,WR,1,0.0,210.0,74,Central Florida,1/7/1996,5,0.0,Denver Broncos,New Orleans Saints,3.0,91.0,2018.0
+Tremon Smith,27.0,CB,17,0.0,190.0,71,Central Arkansas,7/20/1996,5,1.0,Denver Broncos,Kansas City Chiefs,6.0,196.0,2018.0
+Caden Sterns,24.0,S,1,0.0,207.0,73,Texas,11/2/1999,2,0.0,Denver Broncos,Denver Broncos,5.0,152.0,2021.0
+Jarrett Stidham,27.0,QB,3,2.0,215.0,75,"Baylor,Auburn",8/8/1996,4,2.0,Denver Broncos,New England Patriots,4.0,133.0,2019.0
+Justin Strnad,27.0,LB,17,0.0,235.0,75,Wake Forest,8/21/1996,2,1.0,Denver Broncos,Denver Broncos,5.0,178.0,2020.0
+Patrick Surtain II,23.0,CB,17,17.0,202.0,74,Alabama,4/14/2000,2,8.0,Denver Broncos,Denver Broncos,1.0,9.0,2021.0
+Courtland Sutton,28.0,WR,16,14.0,216.0,76,SMU,10/10/1995,5,7.0,Denver Broncos,Denver Broncos,2.0,40.0,2018.0
+Adam Trautman,26.0,TE,17,12.0,253.0,77,Dayton,2/5/1997,3,2.0,Denver Broncos,New Orleans Saints,3.0,105.0,2020.0
+Delarrin Turner-Yell,24.0,S,16,2.0,200.0,71,Oklahoma,12/16/1999,1,1.0,Denver Broncos,Denver Broncos,5.0,152.0,2022.0
+Dwayne Washington,29.0,RB,13,0.0,223.0,73,Washington,4/24/1994,7,0.0,Denver Broncos,Detroit Lions,7.0,236.0,2016.0
+Luke Wattenberg,26.0,C,16,0.0,300.0,77,Washington,9/10/1997,1,1.0,Denver Broncos,Denver Broncos,5.0,171.0,2022.0
+Javonte Williams,23.0,RB,16,13.0,220.0,70,North Carolina,4/25/2000,2,6.0,Denver Broncos,Denver Broncos,2.0,35.0,2021.0
+Russell Wilson,35.0,QB,15,15.0,206.0,71,"Wisconsin,North Carolina St.",11/29/1988,11,12.0,Denver Broncos,Seattle Seahawks,3.0,75.0,2012.0

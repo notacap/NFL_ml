@@ -1,0 +1,167 @@
+Quarter,Time,Down,ToGo,Location,GNB,NYG,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Packers won the coin toss, Packers to receive the opening kickoff.",,,14.0,2023,207
+1.0,15:00,,,NYG 35,0.0,0.0,"Randy Bullock kicks off 66 yards, returned by Keisean Nixon for 25 yards (tackle by Carter Coughlin)",0.0,0.54,14.0,2023,207
+1.0,14:54,1.0,10.0,GNB 24,0.0,0.0,Jordan Love pass complete short middle to Jayden Reed for 5 yards (tackle by Bobby Okereke),0.54,0.67,14.0,2023,207
+1.0,14:14,2.0,5.0,GNB 29,0.0,0.0,AJ Dillon up the middle for 7 yards (tackle by Rakeem Nunez-Roches),0.67,1.33,14.0,2023,207
+1.0,13:37,1.0,10.0,GNB 36,0.0,0.0,Jordan Love pass complete short right to Tucker Kraft for 7 yards (tackle by Xavier McKinney),1.33,1.74,14.0,2023,207
+1.0,12:57,2.0,3.0,GNB 43,0.0,0.0,"Penalty on Elgton Jenkins: False Start, 5 yards (accepted) (no play)",1.74,1.06,14.0,2023,207
+1.0,12:39,2.0,8.0,GNB 38,0.0,0.0,"Penalty on D.J. Davidson: Neutral Zone Infraction, 5 yards (accepted) (no play)",1.06,1.74,14.0,2023,207
+1.0,12:25,2.0,3.0,GNB 43,0.0,0.0,Jordan Love pass incomplete short right intended for Romeo Doubs,1.74,1.03,14.0,2023,207
+1.0,12:23,3.0,3.0,GNB 43,0.0,0.0,Jordan Love pass incomplete short left intended for Dontayvion Wicks,1.03,-0.52,14.0,2023,207
+1.0,12:19,4.0,3.0,GNB 43,0.0,0.0,"Daniel Whelan punts 36 yards, fair catch by Gunner Olszewski at NYG-21",-0.52,-0.34,14.0,2023,207
+1.0,12:11,1.0,10.0,NYG 21,0.0,0.0,Tommy DeVito pass incomplete short left intended for Jalin Hyatt,0.34,-0.2,14.0,2023,207
+1.0,12:07,2.0,10.0,NYG 21,0.0,0.0,Saquon Barkley left guard for 10 yards (tackle by Darnell Savage),-0.2,1.0,14.0,2023,207
+1.0,11:13,1.0,10.0,NYG 31,0.0,0.0,Saquon Barkley left tackle for 1 yard (tackle by Devonte Wyatt),1.0,0.6,14.0,2023,207
+1.0,10:30,2.0,9.0,NYG 32,0.0,0.0,"Tommy DeVito pass incomplete deep right intended for Darius Slayton. Penalty on Carrington Valentine: Defensive Pass Interference, 13 yards (accepted) (no play)",0.6,1.93,14.0,2023,207
+1.0,10:25,1.0,10.0,NYG 45,0.0,0.0,Tommy DeVito scrambles right end for 5 yards (tackle by Colby Wooden),1.93,2.06,14.0,2023,207
+1.0,9:47,2.0,5.0,NYG 50,0.0,0.0,Saquon Barkley right end for -3 yards (tackle by Isaiah McDuffie),2.06,0.96,14.0,2023,207
+1.0,9:05,3.0,8.0,NYG 47,0.0,0.0,Tommy DeVito pass incomplete deep left intended for Wan'Dale Robinson,0.96,-0.26,14.0,2023,207
+1.0,9:00,4.0,8.0,NYG 47,0.0,0.0,"Jamie Gillan punts 40 yards, returned by Jayden Reed for no gain (tackle by Cam Brown). Penalty on Anthony Johnson: Defensive Illegal Blindside Block, 6 yards (accepted)",-0.26,0.38,14.0,2023,207
+1.0,8:50,1.0,10.0,GNB 7,0.0,0.0,AJ Dillon up the middle for no gain (tackle by A'Shawn Robinson and Micah McFadden),-0.38,-0.78,14.0,2023,207
+1.0,8:09,2.0,10.0,GNB 7,0.0,0.0,Jordan Love pass complete short right to Romeo Doubs for 5 yards (tackle by Adoree' Jackson),-0.78,-0.84,14.0,2023,207
+1.0,7:27,3.0,5.0,GNB 12,0.0,0.0,Jordan Love pass incomplete short left intended for AJ Dillon,-0.84,-2.49,14.0,2023,207
+1.0,7:21,4.0,5.0,GNB 12,0.0,0.0,"Daniel Whelan punts 35 yards downed by Robert Rochell. Penalty on Rudy Ford: Kick Catch Interference, 15 yards (accepted)",-2.49,-3.45,14.0,2023,207
+1.0,7:09,1.0,10.0,GNB 32,0.0,0.0,Wan'Dale Robinson left end for 4 yards (tackle by Karl Brooks),3.45,3.44,14.0,2023,207
+1.0,6:27,2.0,6.0,GNB 28,0.0,0.0,"Penalty on Tyre Phillips: False Start, 5 yards (accepted) (no play)",3.44,2.77,14.0,2023,207
+1.0,6:12,2.0,11.0,GNB 33,0.0,0.0,Tommy DeVito pass complete short right to Wan'Dale Robinson for no gain (tackle by De'Vondre Campbell),2.77,2.08,14.0,2023,207
+1.0,5:35,3.0,11.0,GNB 33,0.0,0.0,Tommy DeVito pass complete short left to Saquon Barkley for 3 yards (tackle by De'Vondre Campbell),2.08,1.41,14.0,2023,207
+1.0,4:57,4.0,8.0,GNB 30,0.0,0.0,Randy Bullock 48 yard field goal no good,1.41,-1.47,14.0,2023,207
+1.0,4:52,1.0,10.0,GNB 38,0.0,0.0,AJ Dillon right tackle for 4 yards (tackle by Adoree' Jackson),1.47,1.46,14.0,2023,207
+1.0,4:13,2.0,6.0,GNB 42,0.0,0.0,AJ Dillon left guard for no gain (tackle by Kayvon Thibodeaux and Dexter Lawrence),1.46,0.76,14.0,2023,207
+1.0,3:34,,,,,,Timeout #1 by New York Giants,,,14.0,2023,207
+1.0,3:34,3.0,6.0,GNB 42,0.0,0.0,Jordan Love pass complete short middle to Jayden Reed for 5 yards (tackle by Isaiah Simmons),0.76,-0.26,14.0,2023,207
+1.0,2:52,4.0,1.0,GNB 47,0.0,0.0,Jordan Love pass complete short right to Dontayvion Wicks for 1 yard (tackle by Deonte Banks),-0.26,2.13,14.0,2023,207
+1.0,2:28,1.0,10.0,GNB 48,0.0,0.0,Jordan Love pass complete short middle to AJ Dillon for 35 yards (tackle by Deonte Banks),2.13,4.44,14.0,2023,207
+1.0,1:53,1.0,10.0,NYG 17,0.0,0.0,AJ Dillon left end for 1 yard (tackle by A'Shawn Robinson),4.44,4.0,14.0,2023,207
+1.0,1:07,2.0,9.0,NYG 16,6.0,0.0,"Jayden Reed right end for 16 yards, touchdown",4.0,7.0,14.0,2023,207
+1.0,1:01,,,NYG 15,7.0,0.0,Anders Carlson kicks extra point good,0.0,0.0,14.0,2023,207
+1.0,1:01,,,GNB 35,7.0,0.0,"Anders Carlson kicks off 56 yards,",0.0,0.61,14.0,2023,207
+1.0,1:01,1.0,10.0,NYG 25,7.0,0.0,Tommy DeVito scrambles up the middle for 6 yards (tackle by Isaiah McDuffie),0.61,0.87,14.0,2023,207
+1.0,0:26,2.0,4.0,NYG 31,7.0,0.0,Saquon Barkley right tackle for 3 yards (tackle by Isaiah McDuffie),0.87,0.56,14.0,2023,207
+2.0,15:00,3.0,1.0,NYG 34,7.0,0.0,Tommy DeVito pass complete short left to Saquon Barkley for 5 yards (tackle by Corey Ballentine),0.56,1.53,14.0,2023,207
+2.0,14:30,1.0,10.0,NYG 39,7.0,0.0,Saquon Barkley left end for no gain (tackle by Tedarrell Slaton and Isaiah McDuffie),1.53,0.99,14.0,2023,207
+2.0,13:58,2.0,10.0,NYG 39,7.0,0.0,Tommy DeVito pass complete short middle to Isaiah Hodgins for 14 yards (tackle by Darnell Savage),0.99,2.46,14.0,2023,207
+2.0,13:18,1.0,10.0,GNB 47,7.0,0.0,Tommy DeVito scrambles up the middle for 10 yards (tackle by De'Vondre Campbell),2.46,3.12,14.0,2023,207
+2.0,12:41,1.0,10.0,GNB 37,7.0,0.0,Wan'Dale Robinson left end for 32 yards (tackle by Darnell Savage),3.12,6.06,14.0,2023,207
+2.0,12:00,1.0,5.0,GNB 5,7.0,6.0,"Saquon Barkley left end for 5 yards, touchdown",6.06,7.0,14.0,2023,207
+2.0,11:55,,,GNB 15,7.0,7.0,Randy Bullock kicks extra point good,0.0,0.0,14.0,2023,207
+2.0,11:55,,,NYG 35,7.0,7.0,"Randy Bullock kicks off 65 yards, touchback.",0.0,0.61,14.0,2023,207
+2.0,11:55,1.0,10.0,GNB 25,7.0,7.0,Jordan Love pass complete short right to Patrick Taylor for 16 yards (tackle by Jason Pinnock),0.61,1.66,14.0,2023,207
+2.0,11:18,1.0,10.0,GNB 41,7.0,7.0,Jayden Reed left end for 3 yards (tackle by Kayvon Thibodeaux),1.66,1.53,14.0,2023,207
+2.0,10:38,2.0,7.0,GNB 44,7.0,7.0,AJ Dillon left guard for 2 yards (tackle by Bobby Okereke),1.53,1.09,14.0,2023,207
+2.0,9:52,3.0,5.0,GNB 46,7.0,7.0,Jordan Love pass complete deep right to Dontayvion Wicks for 19 yards (tackle by Deonte Banks),1.09,3.25,14.0,2023,207
+2.0,9:10,1.0,10.0,NYG 35,7.0,7.0,AJ Dillon up the middle for 5 yards (tackle by A'Shawn Robinson),3.25,3.38,14.0,2023,207
+2.0,8:30,2.0,5.0,NYG 30,7.0,7.0,AJ Dillon right tackle for 3 yards (tackle by A'Shawn Robinson and Adoree' Jackson),3.38,3.07,14.0,2023,207
+2.0,7:50,3.0,2.0,NYG 27,7.0,7.0,"Jordan Love right end for no gain (tackle by Kayvon Thibodeaux) NYG challenged the fumble ruling, and the original play was overturned. Jordan Love right end for no gain. Jordan Love fumbles (forced by Kayvon Thibodeaux) (tackle by Jason Pinnock), recovered by Xavier McKinney at NYG-27",3.07,-0.74,14.0,2023,207
+2.0,7:41,1.0,10.0,NYG 27,7.0,7.0,"Tommy DeVito pass complete short right to Wan'Dale Robinson for 13 yards GNB challenged the pass completion ruling, and the play was upheld.",0.74,1.6,14.0,2023,207
+2.0,7:22,1.0,10.0,NYG 40,7.0,7.0,Tommy DeVito pass complete short right to Jalin Hyatt for 8 yards (tackle by Carrington Valentine),1.6,2.13,14.0,2023,207
+2.0,6:48,2.0,2.0,NYG 48,7.0,7.0,Saquon Barkley left guard for 1 yard (tackle by Karl Brooks and Lukas Van Ness),2.13,1.55,14.0,2023,207
+2.0,6:10,3.0,1.0,NYG 49,7.0,7.0,"Penalty on Sean Harlow: False Start, 5 yards (accepted) (no play)",1.55,0.89,14.0,2023,207
+2.0,5:49,3.0,6.0,NYG 44,7.0,7.0,Tommy DeVito pass complete short right to Jalin Hyatt for 5 yards (tackle by Carrington Valentine),0.89,-0.13,14.0,2023,207
+2.0,5:11,,,,,,Timeout #2 by New York Giants,,,14.0,2023,207
+2.0,5:11,4.0,1.0,NYG 49,7.0,7.0,Saquon Barkley right end for no gain (tackle by Eric Wilson and Isaiah McDuffie),-0.13,-2.32,14.0,2023,207
+2.0,5:06,1.0,10.0,NYG 49,7.0,7.0,Jordan Love pass complete short right to Jayden Reed for 3 yards (tackle by Bobby Okereke),2.32,2.19,14.0,2023,207
+2.0,4:27,2.0,7.0,NYG 46,7.0,7.0,Jordan Love pass deep left intended for Dontayvion Wicks is intercepted by Jason Pinnock at NYG-23 and returned for 21 yards (tackle by Tucker Kraft and Dontayvion Wicks),2.19,-1.86,14.0,2023,207
+2.0,4:14,1.0,10.0,NYG 44,7.0,7.0,Tommy DeVito scrambles up the middle for 6 yards (tackle by Rashan Gary),1.86,2.13,14.0,2023,207
+2.0,3:39,2.0,4.0,GNB 50,7.0,7.0,Saquon Barkley left guard for 1 yard (tackle by Devonte Wyatt),2.13,1.55,14.0,2023,207
+2.0,2:59,3.0,3.0,GNB 49,7.0,7.0,Tommy DeVito pass incomplete short right intended for Saquon Barkley,1.55,0.0,14.0,2023,207
+2.0,2:52,4.0,3.0,GNB 49,7.0,7.0,"Jamie Gillan punts 32 yards, fair catch by Jayden Reed at GB-17",0.0,0.06,14.0,2023,207
+2.0,2:45,1.0,10.0,GNB 17,7.0,7.0,AJ Dillon right tackle for 4 yards (tackle by Cordale Flott),-0.06,0.08,14.0,2023,207
+2.0,2:03,2.0,6.0,GNB 21,7.0,7.0,Jordan Love pass complete short right to Tucker Kraft for 6 yards (tackle by Bobby Okereke),0.08,0.74,14.0,2023,207
+2.0,1:56,1.0,10.0,GNB 27,7.0,7.0,Jordan Love pass complete short left to Jayden Reed for 2 yards (tackle by Deonte Banks),0.74,0.47,14.0,2023,207
+2.0,1:32,2.0,8.0,GNB 29,7.0,7.0,Jordan Love pass incomplete short right intended for Jayden Reed,0.47,-0.23,14.0,2023,207
+2.0,1:29,3.0,8.0,GNB 29,7.0,7.0,"Jordan Love pass incomplete deep right intended for Jayden Reed. Penalty on Cordale Flott: Defensive Pass Interference, 27 yards (accepted) (no play)",-0.23,2.65,14.0,2023,207
+2.0,1:23,1.0,10.0,NYG 44,7.0,7.0,Jordan Love pass complete short left to Samori Toure for 6 yards (tackle by Cordale Flott),2.65,2.92,14.0,2023,207
+2.0,0:55,2.0,4.0,NYG 38,7.0,7.0,Patrick Taylor left guard for 14 yards (tackle by Bobby Okereke),2.92,3.97,14.0,2023,207
+2.0,0:35,1.0,10.0,NYG 24,7.0,7.0,Jordan Love pass complete short left to Patrick Taylor for 6 yards (tackle by Deonte Banks),3.97,4.29,14.0,2023,207
+2.0,0:24,,,,,,Timeout #2 by Green Bay Packers,,,14.0,2023,207
+2.0,0:24,2.0,4.0,NYG 18,7.0,7.0,"Jordan Love pass complete short right to Romeo Doubs for 8 yards (tackle by Adoree' Jackson) Replay Assistant challenged the pass completion ruling, and the original play was overturned. Jordan Love pass incomplete short right intended for Romeo Doubs",4.29,3.57,14.0,2023,207
+2.0,0:20,3.0,4.0,NYG 18,7.0,7.0,Jordan Love pass incomplete short right intended for Dontayvion Wicks (defended by Kayvon Thibodeaux) (defended by A'Shawn Robinson),3.57,2.32,14.0,2023,207
+2.0,0:17,,,,,,Timeout #3 by New York Giants,,,14.0,2023,207
+2.0,0:17,4.0,4.0,NYG 18,10.0,7.0,Anders Carlson 36 yard field goal good,2.32,3.0,14.0,2023,207
+2.0,0:13,,,GNB 35,10.0,7.0,"Anders Carlson kicks off 54 yards, returned by Lawrence Cager for no gain",0.0,-0.37,14.0,2023,207
+2.0,0:12,1.0,10.0,NYG 11,10.0,7.0,Tommy DeVito kneels for -1 yards,-0.37,-0.85,14.0,2023,207
+3.0,15:00,,,GNB 35,10.0,7.0,"Anders Carlson kicks off 63 yards,",0.0,0.61,14.0,2023,207
+3.0,15:00,1.0,10.0,NYG 25,10.0,7.0,Tommy DeVito scrambles right tackle for 6 yards (tackle by Keisean Nixon),0.61,0.87,14.0,2023,207
+3.0,14:18,2.0,4.0,NYG 31,10.0,7.0,Saquon Barkley up the middle for 3 yards (tackle by Kenny Clark and Darnell Savage),0.87,0.56,14.0,2023,207
+3.0,13:41,3.0,1.0,NYG 34,10.0,7.0,Saquon Barkley left end for -1 yards (tackle by Kenny Clark),0.56,-1.18,14.0,2023,207
+3.0,13:04,4.0,2.0,NYG 33,10.0,7.0,"Jamie Gillan punts 42 yards, recovered by Keisean Nixon at GB-28. Keisean Nixon fumbles (forced by Darnay Holmes), recovered by Benton Whitley at GB-32 and returned for 1 yard",-1.18,3.51,14.0,2023,207
+3.0,12:52,1.0,10.0,GNB 31,10.0,7.0,Tommy DeVito pass complete short right to Wan'Dale Robinson for 4 yards (tackle by Carrington Valentine),3.51,3.51,14.0,2023,207
+3.0,12:21,2.0,6.0,GNB 27,10.0,7.0,Tommy DeVito right end for 26 yards (tackle by Kingsley Enagbare),3.51,6.97,14.0,2023,207
+3.0,11:27,1.0,1.0,GNB 1,10.0,13.0,"Saquon Barkley right tackle for 1 yard, touchdown",6.97,7.0,14.0,2023,207
+3.0,11:22,,,GNB 15,10.0,14.0,Randy Bullock kicks extra point good,0.0,0.0,14.0,2023,207
+3.0,11:22,,,NYG 35,10.0,14.0,"Randy Bullock kicks off 65 yards, touchback.",0.0,0.61,14.0,2023,207
+3.0,11:22,1.0,10.0,GNB 25,10.0,14.0,Jayden Reed right end for 20 yards (tackle by Jason Pinnock),0.61,1.93,14.0,2023,207
+3.0,10:45,1.0,10.0,GNB 45,10.0,14.0,AJ Dillon right tackle for 3 yards (tackle by Kayvon Thibodeaux and Bobby Okereke),1.93,1.79,14.0,2023,207
+3.0,9:58,2.0,7.0,GNB 48,10.0,14.0,Jordan Love pass complete short left to AJ Dillon for -10 yards (tackle by A'Shawn Robinson and Azeez Ojulari),1.79,-0.23,14.0,2023,207
+3.0,9:22,3.0,17.0,GNB 38,10.0,14.0,Jordan Love pass incomplete deep left intended for Dontayvion Wicks,-0.23,-0.85,14.0,2023,207
+3.0,9:16,4.0,17.0,GNB 38,10.0,14.0,"Daniel Whelan punts 48 yards, recovered by Rudy Ford at NYG-14",-0.85,4.65,14.0,2023,207
+3.0,9:05,1.0,10.0,NYG 14,10.0,14.0,AJ Dillon left guard for 5 yards (tackle by Rakeem Nunez-Roches and Kayvon Thibodeaux),4.65,4.9,14.0,2023,207
+3.0,8:23,2.0,5.0,NYG 9,10.0,14.0,Jordan Love sacked by and Kayvon Thibodeaux for -5 yards and Micah McFadden for -5 yards,4.9,3.11,14.0,2023,207
+3.0,7:40,3.0,10.0,NYG 14,10.0,14.0,Jordan Love pass incomplete short right intended for Jayden Reed,3.11,2.51,14.0,2023,207
+3.0,7:35,4.0,10.0,NYG 14,13.0,14.0,Anders Carlson 32 yard field goal good,2.51,3.0,14.0,2023,207
+3.0,7:31,,,GNB 35,13.0,14.0,"Anders Carlson kicks off 65 yards, touchback.",0.0,0.61,14.0,2023,207
+3.0,7:31,1.0,10.0,NYG 25,13.0,14.0,Tommy DeVito pass complete short left to Darius Slayton for 5 yards (tackle by Jonathan Owens),0.61,0.74,14.0,2023,207
+3.0,6:53,2.0,5.0,NYG 30,13.0,14.0,"Penalty on Saquon Barkley: False Start, 5 yards (accepted) (no play)",0.74,0.06,14.0,2023,207
+3.0,6:45,2.0,10.0,NYG 25,13.0,14.0,Tommy DeVito scrambles up the middle for 1 yard (tackle by Lukas Van Ness),0.06,-0.49,14.0,2023,207
+3.0,6:18,3.0,9.0,NYG 26,13.0,14.0,Tommy DeVito pass complete short right to Daniel Bellinger for 9 yards (tackle by Keisean Nixon),-0.49,1.27,14.0,2023,207
+3.0,5:52,1.0,10.0,NYG 35,13.0,14.0,Tommy DeVito right end for 13 yards (tackle by Darnell Savage),1.27,2.13,14.0,2023,207
+3.0,5:12,1.0,10.0,NYG 48,13.0,14.0,Matt Breida left tackle for 7 yards (tackle by Jonathan Owens),2.13,2.53,14.0,2023,207
+3.0,4:30,2.0,3.0,GNB 45,13.0,14.0,Matt Breida right guard for 9 yards (tackle by Rudy Ford),2.53,3.18,14.0,2023,207
+3.0,3:43,1.0,10.0,GNB 36,13.0,14.0,Tommy DeVito pass complete deep left to Wan'Dale Robinson for 25 yards (tackle by De'Vondre Campbell),3.18,4.84,14.0,2023,207
+3.0,2:58,1.0,10.0,GNB 11,13.0,14.0,Tommy DeVito up the middle for -1 yards (tackle by Kenny Clark),4.84,3.98,14.0,2023,207
+3.0,2:21,2.0,11.0,GNB 12,13.0,14.0,Saquon Barkley right guard for 4 yards (tackle by Devonte Wyatt),3.98,3.76,14.0,2023,207
+3.0,1:35,3.0,7.0,GNB 8,13.0,20.0,"Tommy DeVito pass complete short right to Isaiah Hodgins for 8 yards, touchdown",3.76,7.0,14.0,2023,207
+3.0,1:28,,,GNB 15,13.0,21.0,Randy Bullock kicks extra point good,0.0,0.0,14.0,2023,207
+3.0,1:28,,,NYG 35,13.0,21.0,"Randy Bullock kicks off 65 yards, touchback.",0.0,0.61,14.0,2023,207
+3.0,1:28,1.0,10.0,GNB 25,13.0,21.0,Jordan Love pass incomplete short right,0.61,0.06,14.0,2023,207
+3.0,1:18,2.0,10.0,GNB 25,13.0,21.0,AJ Dillon right end for 5 yards (tackle by Jordon Riley),0.06,0.04,14.0,2023,207
+3.0,0:38,3.0,5.0,GNB 30,13.0,21.0,Jordan Love pass complete short left to Samori Toure for 16 yards (tackle by Deonte Banks and Cordale Flott),0.04,1.99,14.0,2023,207
+3.0,0:02,1.0,10.0,GNB 46,13.0,21.0,Patrick Taylor up the middle for 5 yards (tackle by A'Shawn Robinson and Kayvon Thibodeaux),1.99,2.13,14.0,2023,207
+4.0,15:00,2.0,5.0,NYG 49,13.0,21.0,Patrick Taylor left tackle for 7 yards (tackle by Xavier McKinney and Deonte Banks),2.13,2.79,14.0,2023,207
+4.0,14:22,1.0,10.0,NYG 42,13.0,21.0,Jordan Love pass complete short middle to Romeo Doubs for 14 yards (tackle by Adoree' Jackson and Micah McFadden),2.79,3.71,14.0,2023,207
+4.0,13:41,1.0,10.0,NYG 28,13.0,21.0,Patrick Taylor left guard for 4 yards (tackle by Azeez Ojulari and Deonte Banks),3.71,3.71,14.0,2023,207
+4.0,13:00,2.0,6.0,NYG 24,13.0,21.0,Jordan Love pass complete short left to Tucker Kraft for 8 yards (tackle by Deonte Banks),3.71,4.51,14.0,2023,207
+4.0,12:15,1.0,10.0,NYG 16,13.0,21.0,Jayden Reed left end for -1 yards (tackle by Deonte Banks),4.51,3.77,14.0,2023,207
+4.0,11:33,2.0,11.0,NYG 17,13.0,21.0,Jordan Love pass incomplete deep right intended for Samori Toure,3.77,3.02,14.0,2023,207
+4.0,11:26,,,,,,Timeout #1 by Green Bay Packers,,,14.0,2023,207
+4.0,11:26,3.0,11.0,NYG 17,13.0,21.0,Jordan Love sacked by and Azeez Ojulari for -10 yards and Dexter Lawrence for -10 yards,3.02,1.67,14.0,2023,207
+4.0,10:47,4.0,21.0,NYG 27,13.0,21.0,Anders Carlson 45 yard field goal no good,1.67,-1.27,14.0,2023,207
+4.0,10:42,1.0,10.0,NYG 35,13.0,21.0,Saquon Barkley up the middle for no gain (tackle by Rashan Gary and Preston Smith),1.27,0.72,14.0,2023,207
+4.0,10:04,2.0,10.0,NYG 35,13.0,21.0,Tommy DeVito pass complete short middle to Daniel Bellinger for 6 yards (tackle by Keisean Nixon and De'Vondre Campbell),0.72,0.83,14.0,2023,207
+4.0,9:16,3.0,4.0,NYG 41,13.0,21.0,Tommy DeVito pass incomplete short right,0.83,-0.65,14.0,2023,207
+4.0,9:08,4.0,4.0,NYG 41,13.0,21.0,"Jamie Gillan punts 50 yards, returned by Jayden Reed for 7 yards (tackle by Dane Belton)",-0.65,0.14,14.0,2023,207
+4.0,8:59,1.0,10.0,GNB 16,13.0,21.0,Jordan Love pass complete deep middle to Tucker Kraft for 43 yards (tackle by Jason Pinnock),-0.14,2.85,14.0,2023,207
+4.0,8:10,1.0,10.0,NYG 41,13.0,21.0,Jordan Love pass complete short left to Jayden Reed for 4 yards (tackle by Cordale Flott),2.85,2.85,14.0,2023,207
+4.0,7:35,2.0,6.0,NYG 37,13.0,21.0,Jordan Love pass complete short left to Romeo Doubs for 7 yards (tackle by Micah McFadden),2.85,3.58,14.0,2023,207
+4.0,6:56,1.0,10.0,NYG 30,13.0,21.0,Jordan Love pass complete short right to Jayden Reed for 5 yards (tackle by Cordale Flott),3.58,3.71,14.0,2023,207
+4.0,6:23,2.0,5.0,NYG 25,13.0,21.0,Jordan Love pass complete short middle to Jayden Reed for -5 yards (tackle by Azeez Ojulari),3.71,2.34,14.0,2023,207
+4.0,5:41,3.0,10.0,NYG 30,13.0,21.0,Jordan Love pass incomplete deep left intended for Samori Toure (defended by Deonte Banks),2.34,1.41,14.0,2023,207
+4.0,5:35,4.0,10.0,NYG 30,16.0,21.0,Anders Carlson 48 yard field goal good,1.41,3.0,14.0,2023,207
+4.0,5:30,,,GNB 35,16.0,21.0,"Anders Carlson kicks off 65 yards, touchback.",0.0,0.61,14.0,2023,207
+4.0,5:30,1.0,10.0,NYG 25,16.0,21.0,Saquon Barkley right guard for 6 yards (tackle by Isaiah McDuffie),0.61,0.87,14.0,2023,207
+4.0,4:47,2.0,4.0,NYG 31,16.0,21.0,Saquon Barkley left guard for 17 yards (tackle by Darnell Savage),0.87,2.13,14.0,2023,207
+4.0,4:01,1.0,10.0,NYG 48,16.0,21.0,"Saquon Barkley right tackle for 34 yards. Saquon Barkley fumbles, recovered by Carrington Valentine at GB-14 and returned for 50 yards (tackle by Daniel Bellinger)",2.13,-3.18,14.0,2023,207
+4.0,3:34,1.0,10.0,NYG 36,16.0,21.0,AJ Dillon right guard for 8 yards (tackle by Micah McFadden),3.18,3.72,14.0,2023,207
+4.0,3:21,2.0,2.0,NYG 28,16.0,21.0,AJ Dillon right guard for 1 yard (tackle by A'Shawn Robinson and Xavier McKinney),3.72,3.14,14.0,2023,207
+4.0,2:40,3.0,1.0,NYG 27,16.0,21.0,AJ Dillon up the middle for 5 yards (tackle by Kayvon Thibodeaux and Xavier McKinney),3.14,4.11,14.0,2023,207
+4.0,2:16,1.0,10.0,NYG 22,16.0,21.0,Jordan Love pass complete short left to Romeo Doubs for 6 yards (tackle by Deonte Banks),4.11,4.46,14.0,2023,207
+4.0,2:00,2.0,4.0,NYG 16,16.0,21.0,Jordan Love pass incomplete deep right intended for Romeo Doubs (defended by Adoree' Jackson),4.46,3.74,14.0,2023,207
+4.0,1:55,3.0,4.0,NYG 16,16.0,21.0,Jordan Love pass complete short left to Jayden Reed for 8 yards (tackle by Deonte Banks),3.74,5.37,14.0,2023,207
+4.0,1:50,1.0,8.0,NYG 8,16.0,21.0,Jordan Love scrambles up the middle for 2 yards (tackle by Dexter Lawrence and A'Shawn Robinson),5.37,4.95,14.0,2023,207
+4.0,1:42,,,,,,Timeout #1 by New York Giants,,,14.0,2023,207
+4.0,1:42,2.0,6.0,NYG 6,16.0,21.0,"Jordan Love pass incomplete short middle intended for Malik Heath (defended by Jason Pinnock) Replay Assistant challenged the pass completion ruling, and the play was upheld.",4.95,4.04,14.0,2023,207
+4.0,1:36,3.0,6.0,NYG 6,22.0,21.0,"Jordan Love pass complete short left to Malik Heath for 6 yards, touchdown",4.04,7.0,14.0,2023,207
+4.0,1:33,,,NYG 2,22.0,21.0,"Two Point Attempt: Jayden Reed rushes, conversion fails.",1.0,-1.0,14.0,2023,207
+4.0,1:33,,,GNB 35,22.0,21.0,"Anders Carlson kicks off 65 yards, touchback.",0.0,0.61,14.0,2023,207
+4.0,1:33,1.0,10.0,NYG 25,22.0,21.0,Tommy DeVito pass complete short right to Wan'Dale Robinson for 5 yards (tackle by Darnell Savage),0.61,0.74,14.0,2023,207
+4.0,1:14,2.0,5.0,NYG 30,22.0,21.0,Tommy DeVito pass complete short middle to Saquon Barkley for 7 yards (tackle by Isaiah McDuffie),0.74,1.4,14.0,2023,207
+4.0,0:55,1.0,10.0,NYG 37,22.0,21.0,Tommy DeVito pass complete short right to Darius Slayton for 9 yards (tackle by Carrington Valentine),1.4,2.07,14.0,2023,207
+4.0,0:49,2.0,1.0,NYG 46,22.0,21.0,Tommy DeVito pass complete short right to Wan'Dale Robinson for 32 yards (tackle by Keisean Nixon),2.07,4.11,14.0,2023,207
+4.0,0:42,1.0,10.0,GNB 22,22.0,21.0,Saquon Barkley up the middle for 4 yards (tackle by Colby Wooden),4.11,4.13,14.0,2023,207
+4.0,0:38,,,,,,Timeout #2 by Green Bay Packers,,,14.0,2023,207
+4.0,0:38,2.0,6.0,GNB 18,22.0,21.0,Saquon Barkley up the middle for -3 yards (tackle by Devonte Wyatt),4.13,3.01,14.0,2023,207
+4.0,0:32,,,,,,Timeout #3 by Green Bay Packers,,,14.0,2023,207
+4.0,0:32,3.0,9.0,GNB 21,22.0,21.0,Saquon Barkley right guard for 3 yards (tackle by Tedarrell Slaton and De'Vondre Campbell),3.01,2.27,14.0,2023,207
+4.0,0:02,,,,,,Timeout #2 by New York Giants,,,14.0,2023,207
+4.0,0:02,4.0,6.0,GNB 18,22.0,24.0,Randy Bullock 37 yard field goal good,2.27,3.0,14.0,2023,207

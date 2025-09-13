@@ -1,0 +1,153 @@
+Quarter,Time,Down,ToGo,Location,ATL,BAL,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Ravens won the coin toss, Ravens to receive the opening kickoff.",,,16.0,2022,226
+1.0,15:00,,,ATL 35,0.0,0.0,"Bradley Pinion kicks off 61 yards, returned by Justice Hill for 24 yards (tackle by KhaDarel Hodge and Mike Ford)",0.0,0.81,16.0,2022,226
+1.0,14:54,1.0,10.0,BAL 28,0.0,0.0,J.K. Dobbins right end for 11 yards (tackle by Rashaan Evans),0.81,1.53,16.0,2022,226
+1.0,14:19,1.0,10.0,BAL 39,0.0,0.0,Tyler Huntley pass incomplete short left intended for Mark Andrews,1.53,0.99,16.0,2022,226
+1.0,14:16,2.0,10.0,BAL 39,0.0,0.0,J.K. Dobbins left guard for 4 yards (tackle by Grady Jarrett),0.99,0.83,16.0,2022,226
+1.0,13:41,3.0,6.0,BAL 43,0.0,0.0,Tyler Huntley pass complete short left to Justice Hill for 4 yards (tackle by Mykal Walker),0.83,-0.26,16.0,2022,226
+1.0,13:10,4.0,2.0,BAL 47,0.0,0.0,Jordan Stout punts 41 yards out of bounds,-0.26,0.35,16.0,2022,226
+1.0,13:02,1.0,10.0,ATL 12,0.0,0.0,Desmond Ridder pass complete short middle to Olamide Zaccheaus for 8 yards (tackle by Justin Madubuike),-0.35,0.29,16.0,2022,226
+1.0,12:24,2.0,2.0,ATL 20,0.0,0.0,Cordarrelle Patterson right end for no gain (tackle by Broderick Washington and Patrick Queen),0.29,-0.48,16.0,2022,226
+1.0,11:43,3.0,2.0,ATL 20,0.0,0.0,"Desmond Ridder aborted snap (tackle by Justin Madubuike), recovered by Desmond Ridder at ATL-21",-0.48,-1.96,16.0,2022,226
+1.0,10:52,4.0,1.0,ATL 21,0.0,0.0,"Bradley Pinion punts 38 yards, returned by James Proche for 9 yards (tackle by Troy Andersen)",-1.96,-2.26,16.0,2022,226
+1.0,10:43,1.0,10.0,BAL 50,0.0,0.0,Tyler Huntley pass complete deep right to Sammy Watkins for 40 yards (tackle by Darren Hall),2.26,4.91,16.0,2022,226
+1.0,10:11,1.0,10.0,ATL 10,0.0,0.0,Tyler Huntley pass complete short right to Mark Andrews for -3 yards (tackle by AJ Terrell and Richie Grant),4.91,3.72,16.0,2022,226
+1.0,9:33,2.0,13.0,ATL 13,0.0,0.0,Tyler Huntley left tackle for 3 yards (tackle by Lorenzo Carter),3.72,3.13,16.0,2022,226
+1.0,8:55,3.0,10.0,ATL 10,0.0,0.0,Tyler Huntley scrambles right guard for 7 yards (tackle by Jalen Dalton),3.13,3.04,16.0,2022,226
+1.0,8:05,4.0,3.0,ATL 3,0.0,3.0,Justin Tucker 21 yard field goal good,3.04,3.0,16.0,2022,226
+1.0,8:02,,,BAL 35,0.0,3.0,"Justin Tucker kicks off 58 yards, returned by Avery Williams for 23 yards (tackle by Damarion Williams)",0.0,0.94,16.0,2022,226
+1.0,7:57,1.0,10.0,ATL 30,0.0,3.0,Desmond Ridder sacked by Justin Madubuike for no gain,0.94,0.39,16.0,2022,226
+1.0,7:22,2.0,10.0,ATL 30,0.0,3.0,Desmond Ridder pass incomplete short left intended for Anthony Firkser (defended by Kyle Hamilton),0.39,-0.3,16.0,2022,226
+1.0,7:15,3.0,10.0,ATL 30,0.0,3.0,Desmond Ridder sacked by and Brandon Stephens for -6 yards and Patrick Queen for -6 yards,-0.3,-1.77,16.0,2022,226
+1.0,6:38,4.0,16.0,ATL 24,0.0,3.0,"Bradley Pinion punts 33 yards, fair catch by James Proche at BAL-43",-1.77,-1.8,16.0,2022,226
+1.0,6:32,1.0,10.0,BAL 43,0.0,3.0,Gus Edwards left tackle for 6 yards (tackle by Lorenzo Carter and Richie Grant),1.8,2.06,16.0,2022,226
+1.0,5:57,2.0,4.0,BAL 49,0.0,3.0,Gus Edwards left guard for 11 yards (tackle by Jaylinn Hawkins),2.06,2.92,16.0,2022,226
+1.0,5:19,1.0,10.0,ATL 40,0.0,3.0,Gus Edwards left end for -1 yards (tackle by Jalen Dalton),2.92,2.24,16.0,2022,226
+1.0,4:40,2.0,11.0,ATL 41,0.0,3.0,Tyler Huntley pass incomplete short middle intended for Josh Oliver,2.24,1.55,16.0,2022,226
+1.0,4:36,3.0,11.0,ATL 41,0.0,3.0,Tyler Huntley pass complete short right to Isaiah Likely for 4 yards (tackle by Richie Grant),1.55,0.79,16.0,2022,226
+1.0,3:48,4.0,7.0,ATL 37,0.0,3.0,Justin Tucker 55 yard field goal no good blocked by Adetokunbo Ogundeji,0.79,-1.6,16.0,2022,226
+1.0,3:43,1.0,10.0,ATL 40,0.0,3.0,Cordarrelle Patterson right end for 3 yards (tackle by Travis Jones and Brent Urban),1.6,1.46,16.0,2022,226
+1.0,3:08,2.0,7.0,ATL 43,0.0,3.0,Tyler Allgeier right end for 8 yards (tackle by Chuck Clark),1.46,2.32,16.0,2022,226
+1.0,2:25,1.0,10.0,BAL 49,0.0,3.0,Tyler Allgeier right tackle for no gain (tackle by Roquan Smith and Tyus Bowser),2.32,1.78,16.0,2022,226
+1.0,1:42,2.0,10.0,BAL 49,0.0,3.0,Desmond Ridder pass incomplete short right intended for Drake London,1.78,1.09,16.0,2022,226
+1.0,1:37,3.0,10.0,BAL 49,0.0,3.0,Desmond Ridder scrambles left end for 5 yards (tackle by Marlon Humphrey),1.09,0.33,16.0,2022,226
+1.0,0:49,4.0,5.0,BAL 44,0.0,3.0,Desmond Ridder pass incomplete deep right intended for Damiere Byrd,0.33,-1.86,16.0,2022,226
+1.0,0:45,1.0,10.0,BAL 44,0.0,3.0,J.K. Dobbins right tackle for 5 yards (tackle by Jalen Dalton),1.86,1.99,16.0,2022,226
+2.0,15:00,2.0,5.0,BAL 49,0.0,3.0,Tyler Huntley pass incomplete deep middle intended for Josh Oliver,1.99,1.29,16.0,2022,226
+2.0,14:54,3.0,5.0,BAL 49,0.0,3.0,Tyler Huntley pass complete short right to Mark Andrews for 36 yards (tackle by Richie Grant),1.29,4.58,16.0,2022,226
+2.0,14:15,1.0,10.0,ATL 15,0.0,3.0,Tyler Huntley left end for no gain (tackle by Lorenzo Carter and Grady Jarrett),4.58,3.95,16.0,2022,226
+2.0,13:35,2.0,10.0,ATL 15,0.0,3.0,Tyler Huntley pass complete short right to Josh Oliver for 6 yards (tackle by Rashaan Evans),3.95,4.22,16.0,2022,226
+2.0,12:51,3.0,4.0,ATL 9,0.0,3.0,Tyler Huntley pass incomplete short right intended for J.K. Dobbins,4.22,2.9,16.0,2022,226
+2.0,12:46,4.0,4.0,ATL 9,0.0,6.0,Justin Tucker 27 yard field goal good,2.9,3.0,16.0,2022,226
+2.0,12:42,,,BAL 35,0.0,6.0,"Justin Tucker kicks off 48 yards, returned by Keith Smith for 16 yards (tackle by Malik Harrison and Del'Shawn Phillips)",0.0,1.14,16.0,2022,226
+2.0,12:38,1.0,10.0,ATL 33,0.0,6.0,Tyler Allgeier up the middle for 3 yards (tackle by Travis Jones),1.14,1.0,16.0,2022,226
+2.0,12:04,2.0,7.0,ATL 36,0.0,6.0,Desmond Ridder pass complete short right to Olamide Zaccheaus for 10 yards (tackle by Brandon Stephens),1.0,1.99,16.0,2022,226
+2.0,11:21,1.0,10.0,ATL 46,0.0,6.0,Tyler Allgeier right guard for 3 yards (tackle by Chuck Clark and Broderick Washington),1.99,1.86,16.0,2022,226
+2.0,10:46,2.0,7.0,ATL 49,0.0,6.0,Tyler Allgeier right tackle for no gain (tackle by Roquan Smith),1.86,1.16,16.0,2022,226
+2.0,10:02,3.0,7.0,ATL 49,0.0,6.0,Desmond Ridder pass complete short right to Anthony Firkser for 5 yards (tackle by Brandon Stephens and Patrick Queen),1.16,0.2,16.0,2022,226
+2.0,9:22,4.0,2.0,BAL 46,0.0,6.0,"Desmond Ridder pass complete short middle to Drake London for 20 yards. Drake London fumbles (forced by Marlon Humphrey), recovered by Patrick Queen at BAL-25 and returned for 5 yards (tackle by Tyler Allgeier)",0.2,-0.94,16.0,2022,226
+2.0,9:09,1.0,10.0,BAL 30,0.0,6.0,Gus Edwards left guard for 11 yards (tackle by Jaylinn Hawkins and Adetokunbo Ogundeji),0.94,1.66,16.0,2022,226
+2.0,8:38,1.0,10.0,BAL 41,0.0,6.0,Gus Edwards left end for 5 yards (tackle by Abdullah Anderson),1.66,1.8,16.0,2022,226
+2.0,7:57,2.0,5.0,BAL 46,0.0,6.0,Tyler Huntley right end for 8 yards (tackle by Richie Grant),1.8,2.52,16.0,2022,226
+2.0,7:22,1.0,10.0,ATL 46,0.0,6.0,J.K. Dobbins left end for 14 yards (tackle by Richie Grant),2.52,3.45,16.0,2022,226
+2.0,6:47,1.0,10.0,ATL 32,0.0,6.0,J.K. Dobbins right end for 5 yards (tackle by Richie Grant and Rashaan Evans),3.45,3.58,16.0,2022,226
+2.0,6:05,2.0,5.0,ATL 27,0.0,6.0,J.K. Dobbins left guard for 2 yards (tackle by Adetokunbo Ogundeji),3.58,3.14,16.0,2022,226
+2.0,5:17,,,,,,Timeout #1 by Baltimore Ravens,,,16.0,2022,226
+2.0,5:17,3.0,3.0,ATL 25,0.0,6.0,Tyler Huntley right guard for 6 yards (tackle by Jaylinn Hawkins and Abdullah Anderson),3.14,4.31,16.0,2022,226
+2.0,4:44,1.0,10.0,ATL 19,0.0,6.0,J.K. Dobbins left guard for 5 yards (tackle by Abdullah Anderson),4.31,4.53,16.0,2022,226
+2.0,4:00,2.0,5.0,ATL 14,0.0,6.0,J.K. Dobbins left end for 2 yards (tackle by Cornell Armstrong and Abdullah Anderson),4.53,4.19,16.0,2022,226
+2.0,3:21,3.0,3.0,ATL 12,0.0,6.0,Tyler Huntley right end for 4 yards (tackle by Jaylinn Hawkins),4.19,5.37,16.0,2022,226
+2.0,2:40,1.0,8.0,ATL 8,0.0,6.0,J.K. Dobbins right tackle for 2 yards (tackle by Lorenzo Carter and Troy Andersen),5.37,4.95,16.0,2022,226
+2.0,2:33,,,,,,Timeout #1 by Atlanta Falcons,,,16.0,2022,226
+2.0,2:33,2.0,6.0,ATL 6,0.0,6.0,Tyler Huntley pass incomplete short right intended for Isaiah Likely,4.95,4.04,16.0,2022,226
+2.0,2:27,3.0,6.0,ATL 6,0.0,12.0,"Tyler Huntley pass complete short right to Demarcus Robinson for 6 yards, touchdown Replay Assistant challenged the runner was in bounds ruling, and the play was upheld.",4.04,7.0,16.0,2022,226
+2.0,2:23,,,ATL 2,0.0,14.0,"Two Point Attempt: Tyler Huntley rushes, conversion succeeds.",1.0,1.0,16.0,2022,226
+2.0,2:23,,,BAL 35,0.0,14.0,"Justin Tucker kicks off 49 yards, returned by Cordarrelle Patterson for 16 yards (tackle by James Proche and Malik Harrison)",0.0,1.07,16.0,2022,226
+2.0,2:19,1.0,10.0,ATL 32,0.0,14.0,Desmond Ridder pass complete short left to Cordarrelle Patterson for 14 yards (tackle by Roquan Smith),1.07,1.99,16.0,2022,226
+2.0,2:00,1.0,10.0,ATL 46,0.0,14.0,"Cordarrelle Patterson right end for no gain (tackle by Roquan Smith). Penalty on Kaleb McGary: Offensive Holding, 10 yards (accepted) (no play)",1.99,1.33,16.0,2022,226
+2.0,1:53,1.0,20.0,ATL 36,0.0,14.0,Desmond Ridder pass complete short right to Drake London for 9 yards (tackle by Roquan Smith and Brandon Stephens),1.33,1.32,16.0,2022,226
+2.0,1:27,2.0,11.0,ATL 45,0.0,14.0,Desmond Ridder pass complete short left to Tyler Allgeier for 26 yards (tackle by Marcus Williams),1.32,3.64,16.0,2022,226
+2.0,1:16,1.0,10.0,BAL 29,0.0,14.0,Desmond Ridder pass incomplete short left,3.64,3.1,16.0,2022,226
+2.0,1:12,2.0,10.0,BAL 29,0.0,14.0,Avery Williams left end for 1 yard (tackle by Broderick Washington),3.1,2.54,16.0,2022,226
+2.0,1:08,,,,,,Timeout #2 by Baltimore Ravens,,,16.0,2022,226
+2.0,1:08,3.0,9.0,BAL 28,0.0,14.0,"Desmond Ridder pass incomplete intended for Drake London Replay Assistant challenged the pass completion ruling, and the original play was overturned. Desmond Ridder pass complete short left to Drake London for 15 yards (tackle by Marlon Humphrey)",2.54,4.71,16.0,2022,226
+2.0,0:54,1.0,10.0,BAL 13,0.0,14.0,Tyler Allgeier up the middle for 5 yards (tackle by Justin Madubuike and Roquan Smith),4.71,4.96,16.0,2022,226
+2.0,0:46,,,,,,Timeout #2 by Atlanta Falcons,,,16.0,2022,226
+2.0,0:46,2.0,5.0,BAL 8,0.0,14.0,Desmond Ridder pass incomplete short left intended for Drake London,4.96,4.1,16.0,2022,226
+2.0,0:43,3.0,5.0,BAL 8,0.0,14.0,Desmond Ridder pass complete short middle to Avery Williams for 7 yards (tackle by Patrick Queen and Roquan Smith),4.1,6.97,16.0,2022,226
+2.0,0:25,1.0,1.0,BAL 1,0.0,14.0,"Desmond Ridder pass incomplete short right. Penalty on Desmond Ridder: Intentional Grounding, 13 yards (accepted)",6.97,3.58,16.0,2022,226
+2.0,0:05,,,,,,Timeout #3 by Atlanta Falcons,,,16.0,2022,226
+2.0,0:05,2.0,14.0,BAL 14,3.0,14.0,Younghoe Koo 32 yard field goal good,3.58,3.0,16.0,2022,226
+3.0,15:00,,,BAL 35,3.0,14.0,"Justin Tucker kicks off 56 yards, returned by Avery Williams for 12 yards (tackle by Andy Isabella)",0.0,0.34,16.0,2022,226
+3.0,14:56,1.0,10.0,ATL 21,3.0,14.0,Desmond Ridder pass complete short middle to Drake London for 10 yards (tackle by Kyle Hamilton and Roquan Smith),0.34,1.0,16.0,2022,226
+3.0,14:39,1.0,10.0,ATL 31,3.0,14.0,Cordarrelle Patterson left tackle for 4 yards (tackle by Broderick Washington),1.0,1.0,16.0,2022,226
+3.0,14:01,2.0,6.0,ATL 35,3.0,14.0,Desmond Ridder pass incomplete short right intended for Olamide Zaccheaus (defended by Chuck Clark),1.0,0.3,16.0,2022,226
+3.0,13:55,3.0,6.0,ATL 35,3.0,14.0,"Desmond Ridder pass incomplete intended for Drake London. Penalty on Damarion Williams: Defensive Pass Interference, 6 yards (accepted) (no play)",0.3,1.66,16.0,2022,226
+3.0,13:50,1.0,10.0,ATL 41,3.0,14.0,Cordarrelle Patterson right guard for 2 yards (tackle by Travis Jones),1.66,1.39,16.0,2022,226
+3.0,13:10,2.0,8.0,ATL 43,3.0,14.0,Desmond Ridder pass incomplete short left intended for Tyler Allgeier (defended by Tyus Bowser),1.39,0.7,16.0,2022,226
+3.0,13:05,3.0,8.0,ATL 43,3.0,14.0,Desmond Ridder pass complete short middle to Avery Williams for 7 yards (tackle by Chuck Clark and Marcus Williams),0.7,-0.06,16.0,2022,226
+3.0,12:21,4.0,1.0,ATL 50,3.0,14.0,Tyler Allgeier right end for 4 yards (tackle by Jason Pierre-Paul),-0.06,2.52,16.0,2022,226
+3.0,11:38,1.0,10.0,BAL 46,3.0,14.0,Tyler Allgeier right tackle for 2 yards (tackle by Justin Madubuike and Roquan Smith),2.52,2.25,16.0,2022,226
+3.0,10:58,2.0,8.0,BAL 44,3.0,14.0,Tyler Allgeier up the middle for 3 yards (tackle by Justin Madubuike and Jason Pierre-Paul),2.25,1.95,16.0,2022,226
+3.0,10:21,3.0,5.0,BAL 41,3.0,14.0,Desmond Ridder pass complete short middle to Drake London for 8 yards (tackle by Kyle Hamilton),1.95,3.38,16.0,2022,226
+3.0,9:53,1.0,10.0,BAL 33,3.0,14.0,Tyler Allgeier left end for 9 yards (tackle by Patrick Queen and Tyus Bowser),3.38,4.05,16.0,2022,226
+3.0,9:30,2.0,1.0,BAL 24,3.0,14.0,Tyler Allgeier left end for 6 yards (tackle by Odafe Oweh),4.05,4.37,16.0,2022,226
+3.0,8:50,1.0,10.0,BAL 18,3.0,14.0,Cordarrelle Patterson right tackle for 5 yards (tackle by Brent Urban),4.37,4.61,16.0,2022,226
+3.0,8:13,2.0,5.0,BAL 13,3.0,14.0,"Cordarrelle Patterson left end for 7 yards, touchdown. Penalty on Olamide Zaccheaus: Offensive Holding, 10 yards (accepted)",4.61,4.09,16.0,2022,226
+3.0,7:57,2.0,8.0,BAL 16,3.0,14.0,"Desmond Ridder pass incomplete short right intended for MyCole Pruitt (defended by Patrick Queen) ATL challenged the pass completion ruling, and the play was upheld.",4.09,3.3,16.0,2022,226
+3.0,7:51,3.0,8.0,BAL 16,3.0,14.0,Desmond Ridder pass complete short left to Olamide Zaccheaus for no gain (tackle by Roquan Smith),3.3,2.38,16.0,2022,226
+3.0,7:06,4.0,8.0,BAL 16,6.0,14.0,Younghoe Koo 34 yard field goal good,2.38,3.0,16.0,2022,226
+3.0,7:01,,,ATL 35,6.0,14.0,"Bradley Pinion kicks off 62 yards, returned by Justice Hill for 20 yards (tackle by DeAngelo Malone and Erik Harris)",0.0,0.48,16.0,2022,226
+3.0,6:57,1.0,10.0,BAL 23,6.0,14.0,J.K. Dobbins left guard for no gain (tackle by Adetokunbo Ogundeji),0.48,-0.07,16.0,2022,226
+3.0,6:19,2.0,10.0,BAL 23,6.0,14.0,Tyler Huntley pass complete short right to DeSean Jackson for 10 yards (tackle by Richie Grant),-0.07,1.14,16.0,2022,226
+3.0,5:43,1.0,10.0,BAL 33,6.0,14.0,J.K. Dobbins up the middle for 8 yards (tackle by Rashaan Evans and Troy Andersen),1.14,1.67,16.0,2022,226
+3.0,4:56,2.0,2.0,BAL 41,6.0,14.0,J.K. Dobbins left guard for 1 yard (tackle by Timmy Horne and Rashaan Evans),1.67,1.09,16.0,2022,226
+3.0,4:13,3.0,1.0,BAL 42,6.0,14.0,"Tyler Huntley left end for -1 yards. Tyler Huntley fumbles (forced by Troy Andersen), recovered by Ben Powers at BAL-40 (tackle by Troy Andersen)",1.09,-0.72,16.0,2022,226
+3.0,3:32,4.0,3.0,BAL 40,6.0,14.0,"Jordan Stout punts 38 yards, fair catch by Avery Williams at ATL-22",-0.72,-0.41,16.0,2022,226
+3.0,3:17,1.0,10.0,ATL 22,6.0,14.0,Desmond Ridder pass incomplete deep middle intended for Olamide Zaccheaus,0.41,-0.13,16.0,2022,226
+3.0,3:13,2.0,10.0,ATL 22,6.0,14.0,Desmond Ridder pass complete short middle to Olamide Zaccheaus for no gain (tackle by Travis Jones and Patrick Queen),-0.13,-0.82,16.0,2022,226
+3.0,2:34,3.0,10.0,ATL 22,6.0,14.0,Desmond Ridder pass complete short middle to Anthony Firkser for 5 yards (tackle by Odafe Oweh),-0.82,-1.57,16.0,2022,226
+3.0,1:54,4.0,5.0,ATL 27,6.0,14.0,"Bradley Pinion punts 41 yards, returned by James Proche for 5 yards (tackle by Liam McCullough and Nick Kwiatkoski). Penalty on KhaDarel Hodge: Player Out of Bounds on a Punt, 5 yards (accepted)",-1.57,-1.73,16.0,2022,226
+3.0,1:42,1.0,10.0,BAL 42,6.0,14.0,Tyler Huntley pass complete short middle to Mark Andrews for 12 yards (tackle by AJ Terrell),1.73,2.52,16.0,2022,226
+3.0,1:05,1.0,10.0,ATL 46,6.0,14.0,Gus Edwards right tackle for 37 yards (tackle by DeAngelo Malone),2.52,5.14,16.0,2022,226
+3.0,0:18,1.0,9.0,ATL 9,6.0,14.0,Gus Edwards right tackle for 4 yards (tackle by Richie Grant),5.14,5.15,16.0,2022,226
+4.0,15:00,2.0,5.0,ATL 5,6.0,14.0,Tyler Huntley left tackle for 2 yards (tackle by Rashaan Evans and Lorenzo Carter),5.15,4.72,16.0,2022,226
+4.0,14:23,3.0,3.0,ATL 3,6.0,14.0,Tyler Huntley pass incomplete short middle,4.72,3.04,16.0,2022,226
+4.0,14:13,4.0,3.0,ATL 3,6.0,17.0,Justin Tucker 21 yard field goal good,3.04,3.0,16.0,2022,226
+4.0,14:10,,,BAL 35,6.0,17.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,16.0,2022,226
+4.0,14:10,1.0,10.0,ATL 25,6.0,17.0,Desmond Ridder pass complete short left to Tyler Allgeier for no gain (tackle by Chuck Clark),0.61,0.06,16.0,2022,226
+4.0,13:33,2.0,10.0,ATL 25,6.0,17.0,Tyler Allgeier left tackle for 16 yards (tackle by Marcus Williams),0.06,1.66,16.0,2022,226
+4.0,12:58,1.0,10.0,ATL 41,6.0,17.0,Tyler Allgeier right end for 5 yards (tackle by Broderick Washington and Isaiah Mack),1.66,1.8,16.0,2022,226
+4.0,12:24,2.0,5.0,ATL 46,6.0,17.0,Cordarrelle Patterson left end for -1 yards (tackle by Justin Madubuike),1.8,0.96,16.0,2022,226
+4.0,11:45,3.0,6.0,ATL 45,6.0,17.0,Avery Williams right end for 13 yards (tackle by Chuck Clark and Roquan Smith),0.96,2.79,16.0,2022,226
+4.0,11:08,1.0,10.0,BAL 42,6.0,17.0,Avery Williams left end for 2 yards (tackle by Tyus Bowser),2.79,2.51,16.0,2022,226
+4.0,10:34,2.0,8.0,BAL 40,6.0,17.0,Desmond Ridder pass complete short middle to Drake London for 14 yards (tackle by Marlon Humphrey),2.51,3.84,16.0,2022,226
+4.0,9:57,1.0,10.0,BAL 26,6.0,17.0,Tyler Allgeier left end for 2 yards (tackle by Isaiah Mack and Patrick Queen),3.84,3.57,16.0,2022,226
+4.0,9:14,2.0,8.0,BAL 24,6.0,17.0,Desmond Ridder pass complete deep right to Drake London for 20 yards (tackle by Marlon Humphrey),3.57,6.28,16.0,2022,226
+4.0,8:48,1.0,4.0,BAL 4,6.0,17.0,Tyler Allgeier left end for 2 yards (tackle by Roquan Smith),6.28,5.72,16.0,2022,226
+4.0,8:29,2.0,2.0,BAL 2,6.0,17.0,Tyler Allgeier for no gain (tackle by Roquan Smith),5.72,4.95,16.0,2022,226
+4.0,7:49,3.0,2.0,BAL 2,6.0,17.0,Desmond Ridder scrambles up the middle for 1 yard (tackle by Patrick Queen and Jason Pierre-Paul),4.95,3.55,16.0,2022,226
+4.0,6:51,4.0,1.0,BAL 1,6.0,17.0,"Tyler Allgeier left end for -1 yards (tackle by Isaiah Mack). Penalty on Parker Hesse: Illegal Shift, 5 yards (declined)",3.55,0.38,16.0,2022,226
+4.0,6:39,1.0,10.0,BAL 2,6.0,17.0,Gus Edwards right tackle for 14 yards (tackle by Richie Grant),-0.38,-0.14,16.0,2022,226
+4.0,6:01,1.0,10.0,BAL 16,6.0,17.0,Gus Edwards right guard for 1 yard (tackle by AJ Terrell),-0.14,-0.51,16.0,2022,226
+4.0,5:22,2.0,9.0,BAL 17,6.0,17.0,Tyler Huntley pass incomplete short left intended for Mark Andrews,-0.51,-1.2,16.0,2022,226
+4.0,5:11,3.0,9.0,BAL 17,6.0,17.0,Tyler Huntley pass incomplete short right intended for DeSean Jackson,-1.2,-2.32,16.0,2022,226
+4.0,5:06,4.0,9.0,BAL 17,6.0,17.0,"Jordan Stout punts 36 yards, fair catch by Avery Williams at ATL-47",-2.32,-2.06,16.0,2022,226
+4.0,4:59,1.0,10.0,ATL 47,6.0,17.0,"Desmond Ridder pass complete short right to Cordarrelle Patterson for no gain (tackle by Patrick Queen). Penalty on Drew Dalman: Offensive Holding, 10 yards (accepted) (no play)",2.06,1.4,16.0,2022,226
+4.0,4:52,1.0,20.0,ATL 37,6.0,17.0,Desmond Ridder pass incomplete deep middle intended for Olamide Zaccheaus,1.4,0.17,16.0,2022,226
+4.0,4:48,2.0,20.0,ATL 37,6.0,17.0,Desmond Ridder pass complete short right to Damiere Byrd for 15 yards (tackle by Brandon Stephens),0.17,1.49,16.0,2022,226
+4.0,4:43,3.0,5.0,BAL 48,6.0,17.0,Desmond Ridder pass complete short right to Tyler Allgeier for 9 yards (tackle by Marlon Humphrey),1.49,2.98,16.0,2022,226
+4.0,4:37,1.0,10.0,BAL 39,6.0,17.0,Tyler Allgeier right end for 7 yards (tackle by Kyle Hamilton and Chuck Clark),2.98,3.39,16.0,2022,226
+4.0,3:55,2.0,3.0,BAL 32,6.0,17.0,Desmond Ridder pass complete short middle to Parker Hesse for 8 yards (tackle by Roquan Smith and Patrick Queen),3.39,3.97,16.0,2022,226
+4.0,3:43,1.0,10.0,BAL 24,6.0,17.0,Desmond Ridder pass complete short left to Tyler Allgeier for 8 yards (tackle by Marlon Humphrey),3.97,4.65,16.0,2022,226
+4.0,3:38,2.0,2.0,BAL 16,6.0,17.0,Desmond Ridder right end for 1 yard (tackle by Odafe Oweh),4.65,4.17,16.0,2022,226
+4.0,3:01,3.0,1.0,BAL 15,6.0,17.0,Cordarrelle Patterson left end for -3 yards (tackle by Roquan Smith and Chuck Clark),4.17,2.32,16.0,2022,226
+4.0,2:07,4.0,4.0,BAL 18,9.0,17.0,Younghoe Koo 37 yard field goal good,2.32,3.0,16.0,2022,226
+4.0,2:03,,,ATL 35,9.0,17.0,"Bradley Pinion kicks off 58 yards, returned by Justice Hill for 21 yards (tackle by KhaDarel Hodge)",0.0,0.81,16.0,2022,226
+4.0,1:57,1.0,10.0,BAL 28,9.0,17.0,Gus Edwards up the middle for 3 yards (tackle by Timmy Horne),0.81,0.74,16.0,2022,226
+4.0,1:53,,,,,,Timeout #2 by Atlanta Falcons,,,16.0,2022,226
+4.0,1:53,2.0,6.0,BAL 31,9.0,17.0,Gus Edwards up the middle for 8 yards (tackle by Timmy Horne),0.74,1.53,16.0,2022,226
+4.0,1:50,,,,,,Timeout #3 by Atlanta Falcons,,,16.0,2022,226
+4.0,1:50,1.0,10.0,BAL 39,9.0,17.0,Tyler Huntley kneels for -1 yards,1.53,0.85,16.0,2022,226
+4.0,1:10,2.0,11.0,BAL 38,9.0,17.0,Tyler Huntley kneels for -1 yards,0.85,0.04,16.0,2022,226
+4.0,0:30,3.0,12.0,BAL 37,9.0,17.0,Tyler Huntley kneels for -1 yards,0.04,-0.98,16.0,2022,226

@@ -1,0 +1,178 @@
+Quarter,Time,Down,ToGo,Location,KAN,LAC,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Chargers won the coin toss and deferred, Chiefs to receive the opening kickoff.",,,18.0,2023,269
+1.0,15:00,,,LAC 35,0.0,0.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,269
+1.0,15:00,1.0,10.0,KAN 25,0.0,0.0,La'Mical Perine up the middle for 6 yards (tackle by Morgan Fox and Alohi Gilman),0.61,0.87,18.0,2023,269
+1.0,14:22,2.0,4.0,KAN 31,0.0,0.0,Blaine Gabbert pass incomplete short right,0.87,0.17,18.0,2023,269
+1.0,14:16,3.0,4.0,KAN 31,0.0,0.0,Blaine Gabbert pass incomplete short middle intended for Blake Bell (defended by Alohi Gilman),0.17,-1.31,18.0,2023,269
+1.0,14:12,4.0,4.0,KAN 31,0.0,0.0,"Tommy Townsend punts 44 yards, fair catch by Derius Davis at LAC-25",-1.31,-0.61,18.0,2023,269
+1.0,14:05,1.0,10.0,LAC 25,0.0,0.0,Easton Stick pass complete short right to Gerald Everett for 4 yards (tackle by Jaylen Watson),0.61,0.6,18.0,2023,269
+1.0,13:33,2.0,6.0,LAC 29,0.0,0.0,Easton Stick pass complete short right to Austin Ekeler for 2 yards (tackle by Leo Chenal),0.6,0.17,18.0,2023,269
+1.0,13:10,3.0,4.0,LAC 31,0.0,0.0,Easton Stick scrambles right end for 7 yards (tackle by Cam Jones),0.17,1.47,18.0,2023,269
+1.0,12:32,1.0,10.0,LAC 38,0.0,0.0,Austin Ekeler left guard for 1 yard (tackle by Joshua Williams),1.47,1.06,18.0,2023,269
+1.0,11:55,2.0,9.0,LAC 39,0.0,0.0,Easton Stick pass incomplete deep right intended for Josh Palmer,1.06,0.37,18.0,2023,269
+1.0,11:47,3.0,9.0,LAC 39,0.0,0.0,Easton Stick pass complete short right to Keelan Doss for 8 yards (tackle by Jaylen Watson),0.37,-0.26,18.0,2023,269
+1.0,11:10,4.0,1.0,LAC 47,0.0,0.0,Easton Stick up the middle for 2 yards (tackle by Charles Omenihu),-0.26,2.19,18.0,2023,269
+1.0,10:34,1.0,10.0,LAC 49,0.0,0.0,Austin Ekeler left guard for 5 yards (tackle by Jack Cochrane and Tershawn Wharton),2.19,2.32,18.0,2023,269
+1.0,9:50,2.0,5.0,KAN 46,0.0,0.0,Easton Stick scrambles right end for 7 yards (tackle by Jaylen Watson),2.32,2.98,18.0,2023,269
+1.0,9:19,1.0,10.0,KAN 39,0.0,0.0,Easton Stick pass incomplete short right intended for Josh Palmer,2.98,2.44,18.0,2023,269
+1.0,9:11,2.0,10.0,KAN 39,0.0,0.0,"Joshua Kelley left tackle for no gain (tackle by Jack Cochrane). Penalty on Josh Palmer: Illegal Shift, 5 yards (accepted) (no play)",2.44,1.77,18.0,2023,269
+1.0,8:48,2.0,15.0,KAN 44,0.0,0.0,Easton Stick pass complete short left to Quentin Johnston for 13 yards (tackle by Malik Herring and Jack Cochrane),1.77,2.81,18.0,2023,269
+1.0,8:15,3.0,2.0,KAN 31,0.0,0.0,Easton Stick pass complete short left to Josh Palmer for 7 yards (tackle by Joshua Williams),2.81,3.97,18.0,2023,269
+1.0,7:37,1.0,10.0,KAN 24,0.0,0.0,Easton Stick right end for 7 yards (tackle by Chamarri Conner),3.97,4.46,18.0,2023,269
+1.0,6:59,2.0,3.0,KAN 17,0.0,0.0,Easton Stick pass incomplete deep right intended for Josh Palmer (defended by Jaylen Watson),4.46,3.75,18.0,2023,269
+1.0,6:55,3.0,3.0,KAN 17,0.0,0.0,Easton Stick pass complete short middle to Josh Palmer for 8 yards (tackle by Nic Jones),3.75,5.14,18.0,2023,269
+1.0,6:23,1.0,9.0,KAN 9,0.0,0.0,Easton Stick right end for 5 yards (tackle by Cam Jones),5.14,5.34,18.0,2023,269
+1.0,5:44,2.0,4.0,KAN 4,0.0,0.0,Easton Stick right tackle for -1 yards (tackle by Felix Anudike-Uzomah),5.34,4.26,18.0,2023,269
+1.0,5:14,3.0,5.0,KAN 5,6.0,0.0,"Easton Stick sacked by Charles Omenihu for -2 yards. Easton Stick fumbles (forced by Charles Omenihu), recovered by Mike Edwards at KC-3 and returned for 97 yards, touchdown",4.26,-7.0,18.0,2023,269
+1.0,4:56,,,LAC 15,7.0,0.0,Harrison Butker kicks extra point good,0.0,0.0,18.0,2023,269
+1.0,4:56,,,KAN 35,7.0,0.0,"Harrison Butker kicks off 64 yards, returned by Derius Davis for 23 yards (tackle by BJ Thompson)",0.0,0.54,18.0,2023,269
+1.0,4:49,1.0,10.0,LAC 24,7.0,0.0,Easton Stick scrambles up the middle for 15 yards (tackle by Deon Bush),0.54,1.53,18.0,2023,269
+1.0,4:09,1.0,10.0,LAC 39,7.0,0.0,Easton Stick left guard for -1 yards (tackle by Neil Farrell),1.53,0.85,18.0,2023,269
+1.0,3:34,2.0,11.0,LAC 38,7.0,0.0,Easton Stick pass complete short right to Josh Palmer for 8 yards (tackle by Jaylen Watson),0.85,1.22,18.0,2023,269
+1.0,3:11,3.0,3.0,LAC 46,7.0,0.0,Easton Stick pass incomplete deep left intended for Quentin Johnston,1.22,-0.32,18.0,2023,269
+1.0,3:09,4.0,3.0,LAC 46,7.0,0.0,"JK Scott punts 43 yards, returned by Richie James for 21 yards (tackle by Dean Marlowe)",-0.32,-1.07,18.0,2023,269
+1.0,2:57,1.0,10.0,KAN 32,7.0,0.0,La'Mical Perine up the middle for 4 yards (tackle by Eric Kendricks and Otito Ogbonnia),1.07,1.07,18.0,2023,269
+1.0,2:24,2.0,6.0,KAN 36,7.0,0.0,Blaine Gabbert pass complete short left to Justyn Ross for 10 yards (tackle by Asante Samuel),1.07,1.99,18.0,2023,269
+1.0,1:49,1.0,10.0,KAN 46,7.0,0.0,La'Mical Perine left tackle for 2 yards (tackle by Derwin James),1.99,1.72,18.0,2023,269
+1.0,1:15,2.0,8.0,KAN 48,7.0,0.0,Blaine Gabbert pass incomplete short right intended for Mecole Hardman,1.72,1.03,18.0,2023,269
+1.0,1:11,3.0,8.0,KAN 48,7.0,0.0,Blaine Gabbert sacked by Khalil Mack for -9 yards,1.03,-0.78,18.0,2023,269
+1.0,0:35,4.0,17.0,KAN 39,7.0,0.0,"Tommy Townsend punts 61 yards, touchback.",-0.78,-0.28,18.0,2023,269
+1.0,0:24,1.0,10.0,LAC 20,7.0,0.0,Josh Palmer left end for 6 yards (tackle by Cam Jones),0.28,0.54,18.0,2023,269
+2.0,15:00,2.0,4.0,LAC 26,7.0,0.0,Austin Ekeler up the middle for no gain (tackle by Cam Jones and Deon Bush),0.54,-0.16,18.0,2023,269
+2.0,14:25,3.0,4.0,LAC 26,7.0,0.0,Easton Stick pass incomplete deep right,-0.16,-1.63,18.0,2023,269
+2.0,14:16,4.0,4.0,LAC 26,7.0,0.0,"JK Scott punts 46 yards, fair catch by Richie James at KC-28",-1.63,-0.81,18.0,2023,269
+2.0,14:08,1.0,10.0,KAN 28,7.0,0.0,Blaine Gabbert pass incomplete deep right intended for Justyn Ross,0.81,0.26,18.0,2023,269
+2.0,14:03,2.0,10.0,KAN 28,7.0,0.0,La'Mical Perine left guard for 3 yards (tackle by Morgan Fox and Tuli Tuipulotu),0.26,-0.03,18.0,2023,269
+2.0,13:25,3.0,7.0,KAN 31,7.0,0.0,Blaine Gabbert pass complete short middle to Mecole Hardman for 10 yards (tackle by Ja'Sir Taylor and Jaylinn Hawkins),-0.03,1.66,18.0,2023,269
+2.0,12:52,1.0,10.0,KAN 41,7.0,0.0,"La'Mical Perine right end for 1 yard (tackle by Scott Matlock). Penalty on Wanya Morris: Offensive Holding, 10 yards (accepted)",1.66,1.07,18.0,2023,269
+2.0,12:37,1.0,19.0,KAN 32,7.0,0.0,Blaine Gabbert pass complete short left to Richie James for 4 yards (tackle by Derwin James),1.07,0.45,18.0,2023,269
+2.0,12:00,2.0,15.0,KAN 36,7.0,0.0,Blaine Gabbert pass complete short left to La'Mical Perine for no gain (tackle by Derwin James),0.45,-0.23,18.0,2023,269
+2.0,11:17,3.0,15.0,KAN 36,7.0,0.0,Blaine Gabbert pass complete short right to Clyde Edwards-Helaire for 9 yards (tackle by Eric Kendricks),-0.23,-0.39,18.0,2023,269
+2.0,10:42,4.0,6.0,KAN 45,7.0,0.0,"Tommy Townsend punts 55 yards, touchback.",-0.39,-0.28,18.0,2023,269
+2.0,10:31,1.0,10.0,LAC 20,7.0,0.0,Easton Stick pass incomplete short left intended for Josh Palmer,0.28,-0.27,18.0,2023,269
+2.0,10:28,2.0,10.0,LAC 20,7.0,0.0,Easton Stick pass complete short left to Austin Ekeler for 1 yard (tackle by Cam Jones),-0.27,-0.82,18.0,2023,269
+2.0,9:50,3.0,9.0,LAC 21,7.0,0.0,Easton Stick pass incomplete short middle,-0.82,-1.96,18.0,2023,269
+2.0,9:45,4.0,9.0,LAC 21,7.0,0.0,"JK Scott punts 49 yards, fair catch by Richie James at KC-30",-1.96,-0.94,18.0,2023,269
+2.0,9:38,1.0,10.0,KAN 30,7.0,0.0,Blaine Gabbert pass complete short right to Blake Bell for 3 yards (tackle by Ja'Sir Taylor),0.94,0.8,18.0,2023,269
+2.0,9:01,2.0,7.0,KAN 33,7.0,0.0,Blaine Gabbert pass complete short left to Mecole Hardman for 6 yards (tackle by Asante Samuel),0.8,0.89,18.0,2023,269
+2.0,8:27,3.0,1.0,KAN 39,7.0,0.0,Clyde Edwards-Helaire up the middle for 6 yards (tackle by Christopher Hinton),0.89,1.93,18.0,2023,269
+2.0,7:49,1.0,10.0,KAN 45,7.0,0.0,Blaine Gabbert pass incomplete deep left intended for Justyn Ross,1.93,1.38,18.0,2023,269
+2.0,7:44,2.0,10.0,KAN 45,7.0,0.0,La'Mical Perine up the middle for 5 yards (tackle by Khalil Mack and Scott Matlock),1.38,1.36,18.0,2023,269
+2.0,7:01,3.0,5.0,KAN 50,7.0,0.0,Blaine Gabbert pass incomplete short right intended for Noah Gray,1.36,-0.06,18.0,2023,269
+2.0,6:57,4.0,5.0,KAN 50,7.0,0.0,La'Mical Perine right end for 9 yards (tackle by Nick Niemann),-0.06,2.85,18.0,2023,269
+2.0,6:19,1.0,10.0,LAC 41,7.0,0.0,Blaine Gabbert pass complete deep right to Mecole Hardman for 37 yards (tackle by Alohi Gilman),2.85,6.28,18.0,2023,269
+2.0,5:26,1.0,4.0,LAC 4,7.0,0.0,La'Mical Perine left guard for 3 yards (tackle by Derwin James),6.28,5.91,18.0,2023,269
+2.0,4:52,2.0,1.0,LAC 1,7.0,0.0,La'Mical Perine up the middle for -3 yards (tackle by Khalil Mack and Scott Matlock),5.91,4.49,18.0,2023,269
+2.0,4:13,3.0,4.0,LAC 4,7.0,0.0,Blaine Gabbert pass incomplete short right intended for Clyde Edwards-Helaire,4.49,3.03,18.0,2023,269
+2.0,4:07,4.0,4.0,LAC 4,10.0,0.0,Harrison Butker 22 yard field goal good,3.03,3.0,18.0,2023,269
+2.0,4:03,,,KAN 35,10.0,0.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,269
+2.0,4:03,1.0,10.0,LAC 25,10.0,0.0,Easton Stick pass complete short right to Josh Palmer for 3 yards (tackle by Chamarri Conner),0.61,0.47,18.0,2023,269
+2.0,3:40,2.0,7.0,LAC 28,10.0,0.0,"Easton Stick pass incomplete deep right intended for Quentin Johnston. Penalty on Jaylen Watson: Defensive Pass Interference, 33 yards (accepted) (no play)",0.47,2.98,18.0,2023,269
+2.0,3:35,1.0,10.0,KAN 39,10.0,0.0,Easton Stick pass incomplete short right intended for Donald Parham,2.98,2.44,18.0,2023,269
+2.0,3:31,2.0,10.0,KAN 39,10.0,0.0,Easton Stick pass incomplete deep right intended for Stone Smartt,2.44,1.75,18.0,2023,269
+2.0,3:26,3.0,10.0,KAN 39,10.0,0.0,Easton Stick pass complete short left to Stone Smartt for 8 yards (tackle by Cam Jones),1.75,1.4,18.0,2023,269
+2.0,2:48,4.0,2.0,KAN 31,10.0,3.0,Cameron Dicker 49 yard field goal good,1.4,3.0,18.0,2023,269
+2.0,2:43,,,LAC 35,10.0,3.0,"Cameron Dicker kicks off 62 yards, returned by Richie James for 23 yards (tackle by Blake Lynch)",0.0,0.67,18.0,2023,269
+2.0,2:38,1.0,10.0,KAN 26,10.0,3.0,La'Mical Perine left end for 2 yards (tackle by Tuli Tuipulotu and Nick Niemann),0.67,0.4,18.0,2023,269
+2.0,2:00,2.0,8.0,KAN 28,10.0,3.0,Blaine Gabbert pass complete short left to Justyn Ross for 7 yards (tackle by Derwin James),0.4,0.63,18.0,2023,269
+2.0,1:55,3.0,1.0,KAN 35,10.0,3.0,Blaine Gabbert pass complete short middle to Mecole Hardman for 14 yards (tackle by Asante Samuel),0.63,2.19,18.0,2023,269
+2.0,1:45,1.0,10.0,KAN 49,10.0,3.0,Blaine Gabbert pass incomplete short left intended for La'Mical Perine,2.19,1.65,18.0,2023,269
+2.0,1:40,,,,,,Timeout #1 by Kansas City Chiefs,,,18.0,2023,269
+2.0,1:40,2.0,10.0,KAN 49,10.0,3.0,Blaine Gabbert pass incomplete short left intended for Noah Gray (defended by Eric Kendricks),1.65,0.96,18.0,2023,269
+2.0,1:36,3.0,10.0,KAN 49,10.0,3.0,Blaine Gabbert pass deep right intended for Mecole Hardman is intercepted by Alohi Gilman at LAC-12 and returned for no gain (tackle by Richie James),0.96,0.35,18.0,2023,269
+2.0,1:24,1.0,10.0,LAC 12,10.0,3.0,Easton Stick pass complete short right to Josh Palmer for 12 yards (tackle by Jaylen Watson),-0.35,0.54,18.0,2023,269
+2.0,1:18,1.0,10.0,LAC 24,10.0,3.0,Easton Stick pass incomplete short right intended for Alex Erickson (defended by Jaylen Watson),0.54,0.0,18.0,2023,269
+2.0,1:14,2.0,10.0,LAC 24,10.0,3.0,Easton Stick pass complete short left to Austin Ekeler for 5 yards (tackle by Jack Cochrane),0.0,-0.03,18.0,2023,269
+2.0,0:55,3.0,5.0,LAC 29,10.0,3.0,"Easton Stick pass incomplete deep left intended for Quentin Johnston. Penalty on Joshua Williams: Defensive Pass Interference, 14 yards (accepted) (no play)",-0.03,1.8,18.0,2023,269
+2.0,0:48,1.0,10.0,LAC 43,10.0,3.0,Easton Stick scrambles left end for 13 yards (tackle by Cam Jones),1.8,2.65,18.0,2023,269
+2.0,0:40,,,,,,Timeout #1 by Los Angeles Chargers,,,18.0,2023,269
+2.0,0:40,1.0,10.0,KAN 44,10.0,3.0,Easton Stick pass complete short right to Alex Erickson for 4 yards (tackle by Jaylen Watson),2.65,2.65,18.0,2023,269
+2.0,0:35,,,,,,Timeout #2 by Los Angeles Chargers,,,18.0,2023,269
+2.0,0:35,2.0,6.0,KAN 40,10.0,3.0,Easton Stick pass complete short right to Quentin Johnston for 4 yards (tackle by Chamarri Conner),2.65,2.48,18.0,2023,269
+2.0,0:17,3.0,2.0,KAN 36,10.0,3.0,Easton Stick pass complete short left to Donald Parham for 14 yards (tackle by Cam Jones),2.48,4.11,18.0,2023,269
+2.0,0:08,1.0,10.0,KAN 22,10.0,3.0,Easton Stick pass incomplete deep left intended for Keelan Doss (defended by Joshua Williams),4.11,3.56,18.0,2023,269
+2.0,0:04,2.0,10.0,KAN 22,10.0,6.0,Cameron Dicker 40 yard field goal good,3.56,3.0,18.0,2023,269
+3.0,15:00,,,KAN 35,10.0,6.0,"Harrison Butker kicks off 66 yards, returned by Derius Davis for 46 yards (tackle by Chamarri Conner)",0.0,1.93,18.0,2023,269
+3.0,14:51,1.0,10.0,LAC 45,10.0,6.0,Austin Ekeler left end for 6 yards (tackle by Jack Cochrane),1.93,2.19,18.0,2023,269
+3.0,14:23,2.0,4.0,KAN 49,10.0,6.0,Easton Stick right end for 1 yard (tackle by Leo Chenal),2.19,1.62,18.0,2023,269
+3.0,13:58,3.0,3.0,KAN 48,10.0,6.0,"Austin Ekeler right end for -8 yards. Austin Ekeler fumbles (forced by Malik Herring), recovered by Alex Erickson at LAC-43 (tackle by Malik Herring)",1.62,-0.52,18.0,2023,269
+3.0,13:18,4.0,12.0,LAC 43,10.0,6.0,"JK Scott punts 40 yards, returned by Richie James for no gain. Richie James fumbles (forced by Deane Leonard), recovered by Richie James at KC-17 (tackle by Nick Niemann)",-0.52,0.06,18.0,2023,269
+3.0,13:07,1.0,10.0,KAN 17,10.0,6.0,Blaine Gabbert scrambles up the middle for 3 yards (tackle by Otito Ogbonnia),-0.06,-0.06,18.0,2023,269
+3.0,12:29,2.0,7.0,KAN 20,10.0,6.0,Blaine Gabbert pass complete short right to La'Mical Perine for 25 yards (tackle by Eric Kendricks),-0.06,1.93,18.0,2023,269
+3.0,11:48,1.0,10.0,KAN 45,10.0,6.0,Blaine Gabbert pass incomplete deep left intended for Mecole Hardman,1.93,1.38,18.0,2023,269
+3.0,11:39,2.0,10.0,KAN 45,10.0,6.0,Clyde Edwards-Helaire right end for -5 yards (tackle by Khalil Mack and Tuli Tuipulotu),1.38,0.04,18.0,2023,269
+3.0,10:57,3.0,15.0,KAN 40,10.0,6.0,Blaine Gabbert pass complete short middle to Richie James for 11 yards (tackle by Eric Kendricks),0.04,0.0,18.0,2023,269
+3.0,10:15,4.0,4.0,LAC 49,10.0,6.0,"Tommy Townsend punts 34 yards, fair catch by Derius Davis at LAC-15",0.0,0.22,18.0,2023,269
+3.0,10:10,1.0,10.0,LAC 15,10.0,6.0,Derius Davis left end for -5 yards (tackle by Felix Anudike-Uzomah),-0.22,-1.15,18.0,2023,269
+3.0,9:29,2.0,15.0,LAC 10,10.0,6.0,Easton Stick scrambles up the middle for 9 yards (tackle by Felix Anudike-Uzomah),-1.15,-0.88,18.0,2023,269
+3.0,9:00,3.0,6.0,LAC 19,10.0,6.0,Easton Stick pass complete short middle to Alex Erickson for 25 yards (tackle by Deon Bush),-0.88,1.86,18.0,2023,269
+3.0,8:41,1.0,10.0,LAC 44,10.0,6.0,Easton Stick pass complete short middle to Stone Smartt for 6 yards (tackle by Cam Jones),1.86,2.13,18.0,2023,269
+3.0,8:09,2.0,4.0,LAC 50,10.0,6.0,Easton Stick pass complete short right to Josh Palmer for 6 yards (tackle by Jack Cochrane),2.13,2.65,18.0,2023,269
+3.0,7:36,1.0,10.0,KAN 44,10.0,6.0,Quentin Johnston left end for 6 yards (tackle by Chamarri Conner),2.65,2.92,18.0,2023,269
+3.0,7:06,2.0,4.0,KAN 38,10.0,6.0,Joshua Kelley right end for -4 yards (tackle by Nic Jones),2.92,1.69,18.0,2023,269
+3.0,6:48,3.0,8.0,KAN 42,10.0,6.0,Easton Stick pass complete short left to Donald Parham for 24 yards (tackle by Jaylen Watson),1.69,4.37,18.0,2023,269
+3.0,6:12,1.0,10.0,KAN 18,10.0,6.0,Joshua Kelley left end for 5 yards (tackle by Cam Jones),4.37,4.61,18.0,2023,269
+3.0,5:29,2.0,5.0,KAN 13,10.0,6.0,Austin Ekeler left tackle for -1 yards (tackle by Leo Chenal),4.61,3.63,18.0,2023,269
+3.0,4:52,3.0,6.0,KAN 14,10.0,6.0,Easton Stick sacked by Chris Jones for -11 yards,3.63,1.8,18.0,2023,269
+3.0,4:15,4.0,17.0,KAN 25,10.0,9.0,Cameron Dicker 43 yard field goal good,1.8,3.0,18.0,2023,269
+3.0,4:11,,,LAC 35,10.0,9.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,269
+3.0,4:11,1.0,10.0,KAN 25,10.0,9.0,La'Mical Perine right tackle for 2 yards (tackle by Tuli Tuipulotu),0.61,0.33,18.0,2023,269
+3.0,3:39,2.0,8.0,KAN 27,10.0,9.0,Blaine Gabbert scrambles left end for 5 yards (tackle by Nick Niemann),0.33,0.3,18.0,2023,269
+3.0,2:59,3.0,3.0,KAN 32,10.0,9.0,Blaine Gabbert pass complete short right to Mecole Hardman for 6 yards (tackle by Asante Samuel and Tuli Tuipulotu),0.3,1.47,18.0,2023,269
+3.0,2:19,1.0,10.0,KAN 38,10.0,9.0,La'Mical Perine right guard for 10 yards (tackle by Derwin James),1.47,2.13,18.0,2023,269
+3.0,1:34,1.0,10.0,KAN 48,10.0,9.0,La'Mical Perine left tackle for 3 yards (tackle by Ty Shelby and Christopher Hinton),2.13,1.99,18.0,2023,269
+3.0,0:59,2.0,7.0,LAC 49,10.0,9.0,Blaine Gabbert pass complete short middle to Mecole Hardman for 4 yards (tackle by Eric Kendricks),1.99,1.82,18.0,2023,269
+3.0,0:18,3.0,3.0,LAC 45,10.0,9.0,Blaine Gabbert pass incomplete short left intended for Noah Gray (defended by Khalil Mack),1.82,0.27,18.0,2023,269
+3.0,0:15,4.0,3.0,LAC 45,10.0,9.0,"Tommy Townsend punts 37 yards, fair catch by Derius Davis at LAC-8",0.27,0.38,18.0,2023,269
+3.0,0:08,1.0,10.0,LAC 8,10.0,9.0,Easton Stick pass complete short left to Donald Parham for 16 yards (tackle by Jack Cochrane),-0.38,0.54,18.0,2023,269
+4.0,15:00,1.0,10.0,LAC 24,10.0,9.0,Derius Davis right end for 18 yards (tackle by Chamarri Conner),0.54,1.73,18.0,2023,269
+4.0,14:26,1.0,10.0,LAC 42,10.0,9.0,Austin Ekeler right tackle for 3 yards (tackle by Cam Jones and Matt Dickerson),1.73,1.59,18.0,2023,269
+4.0,13:46,2.0,7.0,LAC 45,10.0,9.0,Easton Stick pass incomplete short right intended for Austin Ekeler,1.59,0.89,18.0,2023,269
+4.0,13:41,3.0,7.0,LAC 45,10.0,9.0,Easton Stick pass incomplete short left intended for Alex Erickson,0.89,-0.39,18.0,2023,269
+4.0,13:40,4.0,7.0,LAC 45,10.0,9.0,"JK Scott punts 40 yards, returned by Richie James for 3 yards (tackle by Deane Leonard)",-0.39,-0.04,18.0,2023,269
+4.0,13:31,1.0,10.0,KAN 18,10.0,9.0,La'Mical Perine left guard for 4 yards (tackle by Khalil Mack),0.04,0.14,18.0,2023,269
+4.0,12:58,2.0,6.0,KAN 22,10.0,9.0,La'Mical Perine left guard for 5 yards (tackle by Otito Ogbonnia and Derwin James),0.14,-0.02,18.0,2023,269
+4.0,12:23,3.0,1.0,KAN 27,10.0,9.0,La'Mical Perine right end for 8 yards (tackle by Ja'Sir Taylor),-0.02,1.27,18.0,2023,269
+4.0,11:44,,,,,,Timeout #1 by Kansas City Chiefs,,,18.0,2023,269
+4.0,11:44,1.0,10.0,KAN 35,10.0,9.0,"Blaine Gabbert pass incomplete short right intended for Mecole Hardman. Penalty on Lucas Niang: Ineligible Downfield Pass, 5 yards (declined)",1.27,0.72,18.0,2023,269
+4.0,11:40,2.0,10.0,KAN 35,10.0,9.0,Blaine Gabbert pass incomplete short left intended for Justin Watson (defended by Ja'Sir Taylor),0.72,0.04,18.0,2023,269
+4.0,11:35,3.0,10.0,KAN 35,10.0,9.0,Blaine Gabbert pass complete short left to La'Mical Perine for 8 yards (tackle by Asante Samuel),0.04,-0.52,18.0,2023,269
+4.0,11:00,4.0,2.0,KAN 43,10.0,9.0,"Tommy Townsend punts 43 yards, fair catch by Derius Davis at LAC-14",-0.52,0.28,18.0,2023,269
+4.0,10:55,1.0,10.0,LAC 14,10.0,9.0,Easton Stick pass complete short right to Austin Ekeler for 7 yards (tackle by Deon Bush and Matt Dickerson),-0.28,0.28,18.0,2023,269
+4.0,10:32,2.0,3.0,LAC 21,10.0,9.0,Easton Stick pass complete short right to Nick Vannett for 3 yards (tackle by Deon Bush),0.28,0.54,18.0,2023,269
+4.0,9:53,1.0,10.0,LAC 24,10.0,9.0,Easton Stick pass complete short left to Donald Parham for 18 yards (tackle by Chamarri Conner),0.54,1.73,18.0,2023,269
+4.0,9:28,1.0,10.0,LAC 42,10.0,9.0,Easton Stick pass incomplete deep left intended for Quentin Johnston (defended by Joshua Williams),1.73,1.19,18.0,2023,269
+4.0,9:24,2.0,10.0,LAC 42,10.0,9.0,Easton Stick pass complete short middle to Austin Ekeler for 9 yards (tackle by Nic Jones),1.19,1.69,18.0,2023,269
+4.0,8:48,3.0,1.0,KAN 49,10.0,9.0,Easton Stick pass complete short right to Austin Ekeler for 7 yards (tackle by Jaylen Watson),1.69,2.79,18.0,2023,269
+4.0,8:18,1.0,10.0,KAN 42,10.0,9.0,Easton Stick pass incomplete short right intended for Keelan Doss (defended by Neil Farrell),2.79,2.24,18.0,2023,269
+4.0,8:15,2.0,10.0,KAN 42,10.0,9.0,Austin Ekeler up the middle for 4 yards (tackle by Malik Herring),2.24,2.08,18.0,2023,269
+4.0,7:55,3.0,6.0,KAN 38,10.0,9.0,Easton Stick pass incomplete short left intended for Alex Erickson (defended by Joshua Williams),2.08,0.72,18.0,2023,269
+4.0,7:52,4.0,6.0,KAN 38,10.0,9.0,Easton Stick pass complete short left to Donald Parham for 11 yards (tackle by Chamarri Conner),0.72,3.78,18.0,2023,269
+4.0,7:32,1.0,10.0,KAN 27,10.0,9.0,Easton Stick pass complete short middle to Austin Ekeler for 7 yards (tackle by Jack Cochrane),3.78,4.18,18.0,2023,269
+4.0,7:16,2.0,3.0,KAN 20,10.0,9.0,Derius Davis left end for 4 yards (tackle by BJ Thompson),4.18,4.51,18.0,2023,269
+4.0,6:32,1.0,10.0,KAN 16,10.0,9.0,Easton Stick left end for 9 yards (tackle by Deon Bush and Tershawn Wharton),4.51,5.54,18.0,2023,269
+4.0,5:58,2.0,1.0,KAN 7,10.0,9.0,Austin Ekeler up the middle for 2 yards (tackle by Malik Herring and Cam Jones),5.54,6.06,18.0,2023,269
+4.0,5:20,1.0,5.0,KAN 5,10.0,9.0,Easton Stick scrambles left tackle for 4 yards (tackle by Deon Bush),6.06,5.91,18.0,2023,269
+4.0,4:55,2.0,1.0,KAN 1,10.0,9.0,Easton Stick pass incomplete short left intended for Keelan Doss,5.91,5.17,18.0,2023,269
+4.0,4:52,,,,,,Timeout #1 by Los Angeles Chargers,,,18.0,2023,269
+4.0,4:52,3.0,1.0,KAN 1,10.0,9.0,Austin Ekeler left end for -1 yards (tackle by Matt Dickerson),5.17,3.25,18.0,2023,269
+4.0,4:10,4.0,2.0,KAN 2,10.0,12.0,Cameron Dicker 20 yard field goal good,3.25,3.0,18.0,2023,269
+4.0,4:06,,,LAC 35,10.0,12.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,269
+4.0,4:06,1.0,10.0,KAN 25,10.0,12.0,La'Mical Perine right tackle for 3 yards (tackle by Christopher Hinton and Daiyan Henley),0.61,0.47,18.0,2023,269
+4.0,3:30,2.0,7.0,KAN 28,10.0,12.0,Blaine Gabbert pass incomplete short left intended for Mecole Hardman (defended by Khalil Mack),0.47,-0.23,18.0,2023,269
+4.0,3:26,3.0,7.0,KAN 28,10.0,12.0,Blaine Gabbert scrambles up the middle for 25 yards (tackle by Daiyan Henley),-0.23,2.46,18.0,2023,269
+4.0,2:43,1.0,10.0,LAC 47,10.0,12.0,La'Mical Perine right end for no gain (tackle by Austin Johnson),2.46,1.91,18.0,2023,269
+4.0,2:04,2.0,10.0,LAC 47,10.0,12.0,Blaine Gabbert scrambles right end for 14 yards (tackle by Derwin James),1.91,3.38,18.0,2023,269
+4.0,1:56,1.0,10.0,LAC 33,10.0,12.0,La'Mical Perine right guard for 7 yards (tackle by Christopher Hinton and Alohi Gilman),3.38,3.78,18.0,2023,269
+4.0,1:49,,,,,,Timeout #2 by Los Angeles Chargers,,,18.0,2023,269
+4.0,1:49,2.0,3.0,LAC 26,10.0,12.0,La'Mical Perine left end for no gain (tackle by Eric Kendricks),3.78,3.07,18.0,2023,269
+4.0,1:42,,,,,,Timeout #3 by Los Angeles Chargers,,,18.0,2023,269
+4.0,1:42,3.0,3.0,LAC 26,10.0,12.0,La'Mical Perine right guard for 2 yards (tackle by Eric Kendricks and Otito Ogbonnia),3.07,2.02,18.0,2023,269
+4.0,0:54,,,,,,Timeout #2 by Kansas City Chiefs,,,18.0,2023,269
+4.0,0:54,4.0,1.0,LAC 24,13.0,12.0,Harrison Butker 41 yard field goal good,2.02,3.0,18.0,2023,269
+4.0,0:49,,,KAN 35,13.0,12.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,269
+4.0,0:49,1.0,10.0,LAC 25,13.0,12.0,Easton Stick sacked by Malik Herring for -10 yards,0.61,-1.43,18.0,2023,269
+4.0,0:32,2.0,20.0,LAC 15,13.0,12.0,Easton Stick pass complete short left to Derius Davis for 18 yards (tackle by Jack Cochrane),-1.43,0.43,18.0,2023,269
+4.0,0:25,3.0,2.0,LAC 33,13.0,12.0,Easton Stick pass incomplete short right intended for Keelan Doss (defended by Malik Herring),0.43,-1.18,18.0,2023,269
+4.0,0:19,4.0,2.0,LAC 33,13.0,12.0,Easton Stick pass incomplete short left intended for Quentin Johnston,-1.18,-3.45,18.0,2023,269
+4.0,0:13,1.0,10.0,LAC 32,13.0,12.0,Blaine Gabbert kneels for -1 yards,3.45,2.77,18.0,2023,269

@@ -1,0 +1,188 @@
+Quarter,Time,Down,ToGo,Location,CHI,MIN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Vikings won the coin toss and deferred, Bears to receive the opening kickoff.",,,15.0,2024,223
+1.0,15:00,,,MIN 35,0.0,0.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,223
+1.0,15:00,1.0,10.0,CHI 30,0.0,0.0,D'Andre Swift right guard for 4 yards (tackle by Harrison Phillips and Jonathan Greenard),0.94,0.93,15.0,2024,223
+1.0,14:22,2.0,6.0,CHI 34,0.0,0.0,Caleb Williams pass complete short left to Keenan Allen for 4 yards (tackle by Shaquill Griffin),0.93,0.76,15.0,2024,223
+1.0,13:46,3.0,2.0,CHI 38,0.0,0.0,Caleb Williams scrambles left tackle for 1 yard (tackle by Blake Cashman),0.76,-0.78,15.0,2024,223
+1.0,13:03,4.0,1.0,CHI 39,0.0,0.0,D'Andre Swift left end for no gain (tackle by Jonathan Greenard and Jerry Tillery),-0.78,-2.98,15.0,2024,223
+1.0,12:57,1.0,10.0,CHI 39,0.0,0.0,Aaron Jones left end for 5 yards (tackle by Zacch Pickens),2.98,3.12,15.0,2024,223
+1.0,12:22,2.0,5.0,CHI 34,0.0,0.0,Sam Darnold pass incomplete deep left intended for Jordan Addison,3.12,2.41,15.0,2024,223
+1.0,12:16,3.0,5.0,CHI 34,0.0,0.0,Sam Darnold pass incomplete deep left,2.41,1.07,15.0,2024,223
+1.0,12:09,4.0,5.0,CHI 34,0.0,3.0,Will Reichard 52 yard field goal good,1.07,3.0,15.0,2024,223
+1.0,12:04,,,MIN 35,0.0,3.0,"Will Reichard kicks off 64 yards, returned by Travis Homer for 29 yards (tackle by Brian Asamoah)",0.0,0.94,15.0,2024,223
+1.0,12:00,1.0,10.0,CHI 30,0.0,3.0,D.J. Moore right end for 9 yards (tackle by Camryn Bynum),0.94,1.61,15.0,2024,223
+1.0,11:19,2.0,1.0,CHI 39,0.0,3.0,D.J. Moore left end for 9 yards (tackle by Camryn Bynum),1.61,2.13,15.0,2024,223
+1.0,10:37,1.0,10.0,CHI 48,0.0,3.0,Caleb Williams pass complete short right to D'Andre Swift for 10 yards (tackle by Blake Cashman),2.13,2.79,15.0,2024,223
+1.0,9:54,1.0,10.0,MIN 42,0.0,3.0,D'Andre Swift left tackle for 2 yards (tackle by Blake Cashman),2.79,2.51,15.0,2024,223
+1.0,9:17,2.0,8.0,MIN 40,0.0,3.0,Caleb Williams pass complete short left to Rome Odunze for 10 yards (tackle by Patrick Jones and Camryn Bynum),2.51,3.58,15.0,2024,223
+1.0,8:34,1.0,10.0,MIN 30,0.0,3.0,Caleb Williams pass incomplete deep right,3.58,3.03,15.0,2024,223
+1.0,8:23,2.0,10.0,MIN 30,0.0,3.0,Caleb Williams left end for 1 yard (tackle by Harrison Smith),3.03,2.48,15.0,2024,223
+1.0,7:43,3.0,9.0,MIN 29,0.0,3.0,"Caleb Williams sacked by Jonathan Greenard for -16 yards. Caleb Williams fumbles (forced by Jonathan Greenard), recovered by Blake Cashman at MIN-45 and returned for 16 yards (tackle by Travis Homer)",2.48,-2.98,15.0,2024,223
+1.0,7:34,1.0,10.0,CHI 39,0.0,3.0,Aaron Jones left guard for 9 yards (tackle by Tremaine Edmunds),2.98,3.66,15.0,2024,223
+1.0,6:56,2.0,1.0,CHI 30,0.0,3.0,Aaron Jones left guard for 13 yards (tackle by Jonathan Owens),3.66,4.44,15.0,2024,223
+1.0,6:15,1.0,10.0,CHI 17,0.0,3.0,Aaron Jones right tackle for 1 yard (tackle by Byron Cowart),4.44,4.0,15.0,2024,223
+1.0,5:54,2.0,9.0,CHI 16,0.0,3.0,Sam Darnold pass complete short right to Jordan Addison for 9 yards (tackle by T.J. Edwards and Kevin Byard),4.0,5.6,15.0,2024,223
+1.0,5:09,1.0,7.0,CHI 7,0.0,9.0,"Sam Darnold pass complete short right to Justin Jefferson for 7 yards, touchdown",5.6,7.0,15.0,2024,223
+1.0,5:04,,,CHI 15,0.0,10.0,Will Reichard kicks extra point good,0.0,0.0,15.0,2024,223
+1.0,5:04,,,MIN 35,0.0,10.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,223
+1.0,5:04,1.0,10.0,CHI 30,0.0,10.0,D.J. Moore right tackle for 6 yards (tackle by Jonathan Greenard),0.94,1.2,15.0,2024,223
+1.0,4:36,2.0,4.0,CHI 36,0.0,10.0,Travis Homer up the middle for 4 yards (tackle by Josh Metellus and Blake Cashman),1.2,1.6,15.0,2024,223
+1.0,3:51,1.0,10.0,CHI 40,0.0,10.0,D'Andre Swift right tackle for 1 yard (tackle by Josh Metellus and Dallas Turner),1.6,1.19,15.0,2024,223
+1.0,3:08,2.0,9.0,CHI 41,0.0,10.0,D'Andre Swift up the middle for 2 yards (tackle by Josh Metellus and Jonathan Bullard),1.19,0.76,15.0,2024,223
+1.0,2:26,3.0,7.0,CHI 43,0.0,10.0,Caleb Williams pass incomplete short right intended for Rome Odunze (defended by Harrison Smith),0.76,-0.52,15.0,2024,223
+1.0,2:20,4.0,7.0,CHI 43,0.0,10.0,"Tory Taylor punts 48 yards, fair catch by Brandon Powell at MIN-9",-0.52,0.38,15.0,2024,223
+1.0,2:13,1.0,10.0,MIN 9,0.0,10.0,Cam Akers left tackle for 11 yards (tackle by Elijah Hicks),-0.38,0.28,15.0,2024,223
+1.0,1:45,1.0,10.0,MIN 20,0.0,10.0,Sam Darnold pass incomplete deep left intended for Justin Jefferson,0.28,-0.27,15.0,2024,223
+1.0,1:37,2.0,10.0,MIN 20,0.0,10.0,Cam Akers left tackle for -2 yards (tackle by DeMarcus Walker and Jonathan Ford),-0.27,-1.33,15.0,2024,223
+1.0,0:54,3.0,12.0,MIN 18,0.0,10.0,"Penalty on Cam Robinson: False Start, 5 yards (accepted) (no play)",-1.33,-2.19,15.0,2024,223
+1.0,0:42,3.0,17.0,MIN 13,0.0,10.0,Sam Darnold pass complete short left to Aaron Jones for 17 yards (tackle by Jonathan Owens),-2.19,0.94,15.0,2024,223
+2.0,15:00,1.0,10.0,MIN 30,0.0,10.0,Sam Darnold pass complete short middle to Jordan Addison for 8 yards (tackle by Tremaine Edmunds),0.94,1.47,15.0,2024,223
+2.0,14:41,2.0,2.0,MIN 38,0.0,10.0,Sam Darnold pass complete short right to Jalen Nailor for 5 yards (tackle by Kyler Gordon),1.47,1.8,15.0,2024,223
+2.0,14:04,1.0,10.0,MIN 43,0.0,10.0,"Sam Darnold pass complete short left to Justin Jefferson for no gain (tackle by Kyler Gordon). Penalty on Cam Robinson: Illegal Formation, 5 yards (accepted) (no play)",1.8,1.47,15.0,2024,223
+2.0,13:38,1.0,15.0,MIN 38,0.0,10.0,Cam Akers right guard for 5 yards (tackle by Tremaine Edmunds),1.47,1.25,15.0,2024,223
+2.0,13:14,2.0,10.0,MIN 43,0.0,10.0,Sam Darnold pass incomplete deep middle intended for Justin Jefferson,1.25,0.56,15.0,2024,223
+2.0,13:09,3.0,10.0,MIN 43,0.0,10.0,Sam Darnold pass complete short left to Brandon Powell for 12 yards (tackle by Kyler Gordon),0.56,2.59,15.0,2024,223
+2.0,12:30,1.0,10.0,CHI 45,0.0,10.0,Aaron Jones left guard for -1 yards (tackle by Jonathan Ford),2.59,1.91,15.0,2024,223
+2.0,11:46,2.0,11.0,CHI 46,0.0,10.0,Sam Darnold pass complete deep left to Jordan Addison for 16 yards (tackle by Terell Smith),1.91,3.58,15.0,2024,223
+2.0,11:02,1.0,10.0,CHI 30,0.0,10.0,Sam Darnold pass incomplete deep left intended for Justin Jefferson,3.58,3.03,15.0,2024,223
+2.0,10:55,2.0,10.0,CHI 30,0.0,10.0,Aaron Jones right tackle for -1 yards (tackle by Tremaine Edmunds and Kyler Gordon),3.03,2.21,15.0,2024,223
+2.0,10:31,3.0,11.0,CHI 31,0.0,10.0,Sam Darnold pass complete short left to Jordan Addison for 8 yards (tackle by Jaylon Johnson),2.21,2.03,15.0,2024,223
+2.0,9:44,4.0,3.0,CHI 23,0.0,10.0,Sam Darnold pass short left intended for Justin Jefferson is intercepted by Tyrique Stevenson at CHI-16 and returned for no gain (tackle by Justin Jefferson),2.03,0.14,15.0,2024,223
+2.0,9:35,1.0,10.0,CHI 16,0.0,10.0,D'Andre Swift right guard for 1 yard (tackle by Jamin Davis),-0.14,-0.51,15.0,2024,223
+2.0,8:53,2.0,9.0,CHI 17,0.0,10.0,Caleb Williams pass complete short left to Keenan Allen for 5 yards (tackle by Dallas Turner),-0.51,-0.57,15.0,2024,223
+2.0,8:11,3.0,4.0,CHI 22,0.0,10.0,Caleb Williams scrambles left tackle for 2 yards (tackle by Blake Cashman),-0.57,-1.77,15.0,2024,223
+2.0,7:26,4.0,2.0,CHI 24,0.0,10.0,"Tory Taylor punts, returned by Brandon Powell for no gain (tackle by Jacob Martin). Penalty on Trent Sherfield: Running Into the Kicker, 5 yards (accepted) (no play)",-1.77,0.87,15.0,2024,223
+2.0,7:14,1.0,10.0,CHI 29,0.0,10.0,D'Andre Swift right tackle for 6 yards (tackle by Harrison Phillips),0.87,1.14,15.0,2024,223
+2.0,6:50,2.0,4.0,CHI 35,0.0,10.0,D'Andre Swift right end for 6 yards (tackle by Josh Metellus),1.14,1.66,15.0,2024,223
+2.0,6:25,1.0,10.0,CHI 41,0.0,10.0,D'Andre Swift up the middle for 7 yards (tackle by Jonathan Bullard),1.66,2.07,15.0,2024,223
+2.0,5:45,2.0,3.0,CHI 48,0.0,10.0,Caleb Williams pass complete short right to Cole Kmet for 14 yards (tackle by Shaquill Griffin),2.07,3.05,15.0,2024,223
+2.0,5:02,1.0,10.0,MIN 38,0.0,10.0,Caleb Williams pass complete short left to D.J. Moore for 2 yards (tackle by Jalen Redmond),3.05,2.78,15.0,2024,223
+2.0,4:33,2.0,8.0,MIN 36,0.0,10.0,D'Andre Swift up the middle for 3 yards (tackle by Jonathan Bullard),2.78,2.48,15.0,2024,223
+2.0,3:52,3.0,5.0,MIN 33,0.0,10.0,"Caleb Williams scrambles left end for no gain (tackle by Byron Murphy). Penalty on Kiran Amegadjie: Offensive Holding, 10 yards (accepted) (no play)",2.48,1.16,15.0,2024,223
+2.0,3:25,3.0,15.0,MIN 43,0.0,10.0,Caleb Williams pass complete short right to D.J. Moore for 14 yards (tackle by Patrick Jones),1.16,1.62,15.0,2024,223
+2.0,2:40,4.0,1.0,MIN 29,0.0,10.0,D'Andre Swift up the middle for no gain (tackle by Blake Cashman),1.62,-0.87,15.0,2024,223
+2.0,2:35,1.0,10.0,MIN 29,0.0,10.0,Aaron Jones left end for 3 yards (tackle by T.J. Edwards),0.87,0.73,15.0,2024,223
+2.0,2:10,2.0,7.0,MIN 32,0.0,10.0,"Penalty on Cam Robinson: False Start, 5 yards (accepted) (no play)",0.73,0.06,15.0,2024,223
+2.0,2:00,2.0,12.0,MIN 27,0.0,10.0,Sam Darnold pass complete short right to Justin Jefferson for 8 yards (tackle by Kyler Gordon),0.06,0.43,15.0,2024,223
+2.0,1:53,,,,,,Timeout #1 by Chicago Bears,,,15.0,2024,223
+2.0,1:53,3.0,4.0,MIN 35,0.0,10.0,Sam Darnold pass complete short left to T.J. Hockenson for 8 yards (tackle by Tyrique Stevenson),0.43,1.8,15.0,2024,223
+2.0,1:48,1.0,10.0,MIN 43,0.0,10.0,Sam Darnold pass complete short right to Jordan Addison for 7 yards (tackle by Kyler Gordon),1.8,2.2,15.0,2024,223
+2.0,1:24,2.0,3.0,MIN 50,0.0,10.0,Sam Darnold pass complete short right to T.J. Hockenson for 11 yards (tackle by Kevin Byard),2.2,2.98,15.0,2024,223
+2.0,1:19,1.0,10.0,CHI 39,0.0,10.0,Sam Darnold pass complete short middle to Jordan Addison for 10 yards (tackle by Kevin Byard),2.98,3.64,15.0,2024,223
+2.0,0:57,1.0,10.0,CHI 29,0.0,10.0,Sam Darnold sacked by Chris Williams for -8 yards,3.64,2.02,15.0,2024,223
+2.0,0:49,,,,,,Timeout #1 by Minnesota Vikings,,,15.0,2024,223
+2.0,0:49,2.0,18.0,CHI 37,0.0,10.0,Sam Darnold pass complete short left to Aaron Jones for 3 yards (tackle by Darrell Taylor),2.02,1.75,15.0,2024,223
+2.0,0:33,,,,,,Timeout #2 by Minnesota Vikings,,,15.0,2024,223
+2.0,0:33,3.0,15.0,CHI 34,0.0,10.0,Sam Darnold pass complete short middle to T.J. Hockenson for 16 yards (tackle by Kevin Byard),1.75,4.37,15.0,2024,223
+2.0,0:26,,,,,,Timeout #3 by Minnesota Vikings,,,15.0,2024,223
+2.0,0:26,1.0,10.0,CHI 18,0.0,10.0,Sam Darnold pass incomplete short right intended for Aaron Jones,4.37,3.8,15.0,2024,223
+2.0,0:22,2.0,10.0,CHI 18,0.0,10.0,Sam Darnold pass incomplete short right intended for T.J. Hockenson (defended by Tyrique Stevenson),3.8,3.05,15.0,2024,223
+2.0,0:16,3.0,10.0,CHI 18,0.0,10.0,"Sam Darnold sacked by Montez Sweat for no gain. Penalty on Montez Sweat: Defensive Offside, 5 yards (accepted) (no play)",3.05,3.82,15.0,2024,223
+2.0,0:12,3.0,5.0,CHI 13,0.0,10.0,Sam Darnold pass incomplete short middle,3.82,2.62,15.0,2024,223
+2.0,0:08,4.0,5.0,CHI 13,0.0,13.0,Will Reichard 31 yard field goal good,2.62,3.0,15.0,2024,223
+2.0,0:04,,,MIN 35,0.0,13.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,223
+2.0,0:04,1.0,10.0,CHI 30,0.0,13.0,Caleb Williams kneels for -1 yards,0.94,0.26,15.0,2024,223
+3.0,15:00,,,CHI 35,0.0,13.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,223
+3.0,15:00,1.0,10.0,MIN 30,0.0,13.0,"Aaron Jones left tackle for no gain (tackle by Tyrique Stevenson and Jonathan Owens). Penalty on Josh Oliver: Offensive Holding, 10 yards (accepted) (no play)",0.94,0.28,15.0,2024,223
+3.0,14:36,1.0,20.0,MIN 20,0.0,13.0,Sam Darnold pass complete short middle to Justin Jefferson for 5 yards (tackle by T.J. Edwards),0.28,-0.28,15.0,2024,223
+3.0,14:09,2.0,15.0,MIN 25,0.0,13.0,Sam Darnold pass incomplete deep middle intended for T.J. Hockenson (defended by Kevin Byard),-0.28,-0.96,15.0,2024,223
+3.0,14:03,3.0,15.0,MIN 25,0.0,13.0,Sam Darnold pass incomplete short left intended for Justin Jefferson,-0.96,-1.7,15.0,2024,223
+3.0,13:59,4.0,15.0,MIN 25,0.0,13.0,"Penalty on Dallas Turner: False Start, 5 yards (accepted) (no play)",-1.7,-2.03,15.0,2024,223
+3.0,13:59,4.0,20.0,MIN 20,0.0,13.0,"Ryan Wright punts 55 yards, returned by Josh Blackwell for 5 yards (tackle by Ty Chandler). Penalty on Terell Smith: Offensive Illegal Block Above the Waist, 10 yards (accepted)",-2.03,-0.28,15.0,2024,223
+3.0,13:47,1.0,10.0,CHI 20,0.0,13.0,"Caleb Williams pass incomplete short left. Penalty on Teven Jenkins: Offensive Holding, 10 yards (accepted) (no play)",0.28,-0.76,15.0,2024,223
+3.0,13:39,1.0,20.0,CHI 10,0.0,13.0,Caleb Williams pass complete short left to D.J. Moore for 6 yards (tackle by Jonathan Greenard),-0.76,-0.94,15.0,2024,223
+3.0,12:59,2.0,14.0,CHI 16,0.0,13.0,Caleb Williams pass complete deep right to Keenan Allen for 26 yards (tackle by Shaquill Griffin),-0.94,1.73,15.0,2024,223
+3.0,12:25,1.0,10.0,CHI 42,0.0,13.0,Caleb Williams pass incomplete short right intended for Keenan Allen,1.73,1.19,15.0,2024,223
+3.0,12:24,2.0,10.0,CHI 42,0.0,13.0,Caleb Williams pass complete short left to D.J. Moore for 2 yards (tackle by Andrew Van Ginkel),1.19,0.76,15.0,2024,223
+3.0,11:57,3.0,8.0,CHI 44,0.0,13.0,Caleb Williams pass incomplete short left intended for Keenan Allen,0.76,-0.46,15.0,2024,223
+3.0,11:53,4.0,8.0,CHI 44,0.0,13.0,Tory Taylor punts 51 yards downed by Tarvarius Moore,-0.46,0.38,15.0,2024,223
+3.0,11:39,1.0,10.0,MIN 5,0.0,13.0,Sam Darnold pass incomplete short right intended for Johnny Mundt (defended by Darrell Taylor),-0.38,-0.78,15.0,2024,223
+3.0,11:35,2.0,10.0,MIN 5,0.0,13.0,Sam Darnold pass complete short left to Justin Jefferson for 7 yards (tackle by Tyrique Stevenson),-0.78,-0.6,15.0,2024,223
+3.0,10:55,3.0,3.0,MIN 12,0.0,13.0,Sam Darnold pass incomplete deep right intended for Justin Jefferson,-0.6,-2.49,15.0,2024,223
+3.0,10:49,4.0,3.0,MIN 12,0.0,13.0,"Ryan Wright punts 49 yards, returned by Josh Blackwell for 3 yards (tackle by Trent Sherfield)",-2.49,-1.73,15.0,2024,223
+3.0,10:40,1.0,10.0,CHI 42,0.0,13.0,D'Andre Swift left tackle for 1 yard (tackle by Andrew Van Ginkel and Patrick Jones),1.73,1.32,15.0,2024,223
+3.0,9:51,2.0,9.0,CHI 43,0.0,13.0,"Caleb Williams pass complete short right to Rome Odunze for 29 yards (tackle by Josh Metellus). Penalty on Andrew Van Ginkel: Defensive Offside, 5 yards (declined) . Penalty on Jonathan Greenard: Defensive Offside, 5 yards (declined)",1.32,3.71,15.0,2024,223
+3.0,9:44,1.0,10.0,MIN 28,0.0,13.0,Caleb Williams pass incomplete deep left intended for Keenan Allen,3.71,3.17,15.0,2024,223
+3.0,9:31,2.0,10.0,MIN 28,0.0,13.0,D'Andre Swift left guard for 10 yards (tackle by Josh Metellus),3.17,4.37,15.0,2024,223
+3.0,9:05,1.0,10.0,MIN 18,0.0,13.0,D'Andre Swift left end for 17 yards (tackle by Harrison Smith),4.37,6.97,15.0,2024,223
+3.0,8:26,1.0,1.0,MIN 1,0.0,13.0,"D'Andre Swift left tackle for no gain, touchdown. Penalty on Doug Kramer: Illegal Substitution, 5 yards (accepted) (no play)",6.97,5.83,15.0,2024,223
+3.0,8:19,1.0,6.0,MIN 6,0.0,13.0,D'Andre Swift right end for 5 yards (tackle by Blake Cashman),5.83,5.91,15.0,2024,223
+3.0,7:38,2.0,1.0,MIN 1,0.0,13.0,"D'Andre Swift left guard for no gain (tackle by Josh Metellus). Penalty on Kiran Amegadjie: Offensive Holding, 10 yards (accepted) (no play)",5.91,4.02,15.0,2024,223
+3.0,7:19,2.0,11.0,MIN 11,0.0,13.0,Caleb Williams pass incomplete short middle intended for Rome Odunze,4.02,3.12,15.0,2024,223
+3.0,7:12,3.0,11.0,MIN 11,0.0,13.0,Caleb Williams pass incomplete short right intended for Rome Odunze,3.12,2.7,15.0,2024,223
+3.0,7:05,4.0,11.0,MIN 11,3.0,13.0,Cairo Santos 29 yard field goal good,2.7,3.0,15.0,2024,223
+3.0,7:02,,,CHI 35,3.0,13.0,"Cairo Santos kicks off 65 yards, returned by Ty Chandler for 30 yards (tackle by Amen Ogbongbemiga and Terell Smith)",0.0,0.94,15.0,2024,223
+3.0,6:56,1.0,10.0,MIN 30,3.0,13.0,"Sam Darnold pass complete short right to Josh Oliver for no gain (tackle by Kevin Byard and T.J. Edwards). Penalty on Blake Brandel: Illegal Use of Hands / Offense, 10 yards (accepted) (no play)",0.94,0.28,15.0,2024,223
+3.0,6:34,1.0,20.0,MIN 20,3.0,13.0,Aaron Jones left guard for 4 yards (tackle by Zacch Pickens),0.28,-0.42,15.0,2024,223
+3.0,6:12,2.0,16.0,MIN 24,3.0,13.0,Sam Darnold pass complete short left to T.J. Hockenson for 13 yards (tackle by Jaylon Johnson and Tremaine Edmunds),-0.42,0.63,15.0,2024,223
+3.0,5:30,3.0,3.0,MIN 37,3.0,13.0,Sam Darnold pass complete short middle to T.J. Hockenson for 4 yards (tackle by Tremaine Edmunds),0.63,1.66,15.0,2024,223
+3.0,4:57,1.0,10.0,MIN 41,3.0,13.0,Aaron Jones right guard for 3 yards (tackle by Austin Booker and Jonathan Ford),1.66,1.53,15.0,2024,223
+3.0,4:22,2.0,7.0,MIN 44,3.0,13.0,Sam Darnold pass incomplete short right intended for Jordan Addison,1.53,0.83,15.0,2024,223
+3.0,4:16,3.0,7.0,MIN 44,3.0,13.0,"Sam Darnold pass incomplete short middle intended for T.J. Hockenson. Penalty on Kevin Byard: Defensive Pass Interference, 8 yards (accepted) (no play)",0.83,2.39,15.0,2024,223
+3.0,4:12,1.0,10.0,CHI 48,3.0,13.0,Aaron Jones left guard for 8 yards (tackle by Jonathan Owens),2.39,2.93,15.0,2024,223
+3.0,3:52,2.0,2.0,CHI 40,3.0,13.0,Aaron Jones up the middle for 9 yards (tackle by Kevin Byard),2.93,3.51,15.0,2024,223
+3.0,3:07,1.0,10.0,CHI 31,3.0,13.0,Sam Darnold pass incomplete short right intended for Justin Jefferson,3.51,2.97,15.0,2024,223
+3.0,3:00,2.0,10.0,CHI 31,3.0,13.0,Aaron Jones right end for 14 yards (tackle by Dominique Robinson),2.97,4.44,15.0,2024,223
+3.0,2:46,1.0,10.0,CHI 17,3.0,13.0,Aaron Jones left end for -1 yards (tackle by T.J. Edwards),4.44,3.72,15.0,2024,223
+3.0,2:07,2.0,11.0,CHI 18,3.0,13.0,Sam Darnold pass complete deep left to Justin Jefferson for 17 yards (tackle by Jonathan Owens),3.72,6.97,15.0,2024,223
+3.0,1:40,1.0,1.0,CHI 1,3.0,19.0,"Aaron Jones right tackle for 1 yard, touchdown",6.97,7.0,15.0,2024,223
+3.0,1:38,,,CHI 15,3.0,20.0,Will Reichard kicks extra point good,0.0,0.0,15.0,2024,223
+3.0,1:38,,,MIN 35,3.0,20.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,223
+3.0,1:38,1.0,10.0,CHI 30,3.0,20.0,"Penalty on Jamin Davis: Neutral Zone Infraction, 5 yards (accepted) (no play)",0.94,1.67,15.0,2024,223
+3.0,1:38,1.0,5.0,CHI 35,3.0,20.0,D'Andre Swift left guard for 8 yards (tackle by Harrison Smith),1.67,1.8,15.0,2024,223
+3.0,1:13,1.0,10.0,CHI 43,3.0,20.0,Caleb Williams pass complete short right to D.J. Moore for 9 yards (tackle by Blake Cashman and Josh Metellus),1.8,2.47,15.0,2024,223
+3.0,0:47,2.0,1.0,MIN 48,3.0,20.0,D'Andre Swift left guard for 5 yards (tackle by Josh Metellus),2.47,2.72,15.0,2024,223
+3.0,0:15,1.0,10.0,MIN 43,3.0,20.0,Caleb Williams pass complete short middle to D.J. Moore for 6 yards (tackle by Jamin Davis),2.72,2.99,15.0,2024,223
+4.0,15:00,2.0,4.0,MIN 37,3.0,20.0,D'Andre Swift up the middle for 1 yard (tackle by Jonathan Greenard and Jonathan Bullard),2.99,2.41,15.0,2024,223
+4.0,14:34,3.0,3.0,MIN 36,3.0,20.0,Caleb Williams pass complete deep right to Keenan Allen for 20 yards,2.41,4.51,15.0,2024,223
+4.0,14:08,1.0,10.0,MIN 16,3.0,20.0,D'Andre Swift right guard for no gain (tackle by Josh Metellus),4.51,3.9,15.0,2024,223
+4.0,13:23,2.0,10.0,MIN 16,3.0,20.0,Caleb Williams pass incomplete deep right intended for Rome Odunze,3.9,3.08,15.0,2024,223
+4.0,13:18,3.0,10.0,MIN 16,3.0,20.0,"Penalty on Kiran Amegadjie: False Start, 5 yards (accepted) (no play)",3.08,2.61,15.0,2024,223
+4.0,13:18,3.0,15.0,MIN 21,3.0,20.0,"Caleb Williams pass incomplete deep right intended for Keenan Allen (defended by Harrison Smith). Penalty on Kiran Amegadjie: Ineligible Downfield Pass, 5 yards (declined)",2.61,2.06,15.0,2024,223
+4.0,13:04,4.0,15.0,MIN 21,6.0,20.0,Cairo Santos 39 yard field goal good,2.06,3.0,15.0,2024,223
+4.0,13:00,,,CHI 35,6.0,20.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,223
+4.0,13:00,1.0,10.0,MIN 30,6.0,20.0,Sam Darnold pass complete short right to Justin Jefferson for 21 yards (tackle by Jack Sanborn),0.94,2.32,15.0,2024,223
+4.0,12:30,1.0,10.0,CHI 49,6.0,20.0,Cam Akers left guard for 4 yards (tackle by Tyrique Stevenson),2.32,2.32,15.0,2024,223
+4.0,11:47,2.0,6.0,CHI 45,6.0,20.0,Sam Darnold pass complete short right to Jordan Addison for 5 yards (tackle by T.J. Edwards),2.32,2.28,15.0,2024,223
+4.0,11:19,3.0,1.0,CHI 40,6.0,20.0,Cam Akers right tackle for 1 yard (tackle by Tremaine Edmunds),2.28,2.98,15.0,2024,223
+4.0,10:55,1.0,10.0,CHI 39,6.0,20.0,Sam Darnold pass complete short left to Justin Jefferson for 8 yards,2.98,3.52,15.0,2024,223
+4.0,10:30,2.0,2.0,CHI 31,6.0,20.0,"Sam Darnold pass deep right is intercepted by Tyrique Stevenson in end zone and returned for no gain Penalty on Montez Sweat: Roughing the Passer, 15 yards (declined) . Penalty on Montez Sweat: Roughing the Passer, 15 yards (declined) . Penalty on Tyrique Stevenson: Defensive Pass Interference, 30 yards (accepted) (no play)",3.52,6.97,15.0,2024,223
+4.0,10:26,1.0,1.0,CHI 1,6.0,20.0,Sam Darnold pass incomplete short right,6.97,5.91,15.0,2024,223
+4.0,10:19,2.0,1.0,CHI 1,6.0,26.0,"Cam Akers right tackle for 1 yard, touchdown",5.91,7.0,15.0,2024,223
+4.0,10:14,,,CHI 15,6.0,27.0,Will Reichard kicks extra point good,0.0,0.0,15.0,2024,223
+4.0,10:14,,,MIN 35,6.0,27.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,223
+4.0,10:14,1.0,10.0,CHI 30,6.0,27.0,Caleb Williams pass complete short right to D.J. Moore for 5 yards (tackle by Fabian Moreau),0.94,1.07,15.0,2024,223
+4.0,9:39,2.0,5.0,CHI 35,6.0,27.0,Caleb Williams pass complete short left to D.J. Moore for 2 yards (tackle by Josh Metellus),1.07,0.63,15.0,2024,223
+4.0,8:57,3.0,3.0,CHI 37,6.0,27.0,Caleb Williams sacked by Dallas Turner for -9 yards,0.63,-1.5,15.0,2024,223
+4.0,8:19,4.0,12.0,CHI 28,6.0,27.0,"Tory Taylor punts 43 yards, returned by Brandon Powell for 11 yards (tackle by Josh Blackwell)",-1.5,-1.6,15.0,2024,223
+4.0,8:06,1.0,10.0,MIN 40,6.0,27.0,Aaron Jones left end for 3 yards (tackle by Jonathan Owens and T.J. Edwards),1.6,1.46,15.0,2024,223
+4.0,7:19,2.0,7.0,MIN 43,6.0,27.0,Aaron Jones left end for 9 yards (tackle by Jonathan Owens and Jonathan Ford),1.46,2.39,15.0,2024,223
+4.0,6:35,1.0,10.0,CHI 48,6.0,27.0,Aaron Jones right guard for 5 yards (tackle by Kevin Byard and Jonathan Ford),2.39,2.52,15.0,2024,223
+4.0,6:29,,,,,,Timeout #1 by Chicago Bears,,,15.0,2024,223
+4.0,6:29,2.0,5.0,CHI 43,6.0,27.0,Aaron Jones up the middle for 2 yards (tackle by Montez Sweat and Zacch Pickens),2.52,2.08,15.0,2024,223
+4.0,6:23,,,,,,Timeout #2 by Chicago Bears,,,15.0,2024,223
+4.0,6:23,3.0,3.0,CHI 41,6.0,27.0,"Penalty on Cam Robinson: False Start, 5 yards (accepted) (no play)",2.08,1.42,15.0,2024,223
+4.0,6:23,3.0,8.0,CHI 46,6.0,27.0,Sam Darnold sacked by T.J. Edwards for -8 yards,1.42,-0.32,15.0,2024,223
+4.0,6:17,,,,,,Timeout #3 by Chicago Bears,,,15.0,2024,223
+4.0,6:17,4.0,16.0,MIN 46,6.0,27.0,Ryan Wright punts blocked by Dominique Robinson,-0.32,-3.78,15.0,2024,223
+4.0,6:13,1.0,10.0,MIN 27,6.0,27.0,Caleb Williams pass incomplete short right intended for Keenan Allen (defended by Jay Ward),3.78,3.23,15.0,2024,223
+4.0,6:09,2.0,10.0,MIN 27,6.0,27.0,Caleb Williams pass complete short middle to Keenan Allen for 11 yards (tackle by Camryn Bynum),3.23,4.51,15.0,2024,223
+4.0,5:39,1.0,10.0,MIN 16,6.0,27.0,Caleb Williams pass incomplete short right intended for Keenan Allen (defended by Dwight McGlothern),4.51,3.9,15.0,2024,223
+4.0,5:34,2.0,10.0,MIN 16,6.0,27.0,Caleb Williams pass incomplete deep middle intended for Rome Odunze,3.9,3.08,15.0,2024,223
+4.0,5:29,3.0,10.0,MIN 16,6.0,27.0,Caleb Williams pass incomplete deep right intended for Keenan Allen,3.08,2.38,15.0,2024,223
+4.0,5:24,4.0,10.0,MIN 16,12.0,27.0,"Caleb Williams pass complete deep left to Keenan Allen for 16 yards, touchdown",2.38,7.0,15.0,2024,223
+4.0,5:19,,,MIN 15,12.0,27.0,"Penalty on MIN: Defensive Too Many Men on Field, 1 yard (accepted) (no play)",0.0,1.0,15.0,2024,223
+4.0,5:19,1.0,1.0,MIN 2,12.0,27.0,Two Point Attempt: Caleb Williams pass incomplete intended for intended for D.J. Moore,1.0,-1.0,15.0,2024,223
+4.0,5:19,,,CHI 35,12.0,27.0,"Cairo Santos kicks onside 7 yards, returned by Josh Oliver for no gain",0.0,2.79,15.0,2024,223
+4.0,5:18,1.0,10.0,CHI 42,12.0,27.0,Cam Akers right tackle for 5 yards (tackle by Byron Cowart and Zacch Pickens),2.79,2.92,15.0,2024,223
+4.0,4:38,2.0,5.0,CHI 37,12.0,27.0,Cam Akers left guard for -1 yards (tackle by Montez Sweat and Zacch Pickens),2.92,2.08,15.0,2024,223
+4.0,3:56,3.0,6.0,CHI 38,12.0,27.0,Sam Darnold pass complete short right to Trent Sherfield for 6 yards (tackle by Tyrique Stevenson),2.08,3.45,15.0,2024,223
+4.0,3:12,1.0,10.0,CHI 32,12.0,27.0,Cam Akers left end for -2 yards (tackle by Jaylon Johnson),3.45,2.63,15.0,2024,223
+4.0,2:23,2.0,12.0,CHI 34,12.0,27.0,Cam Akers left tackle for 2 yards (tackle by Dominique Robinson and Elijah Hicks),2.63,2.21,15.0,2024,223
+4.0,2:00,3.0,10.0,CHI 32,12.0,27.0,Ty Chandler up the middle for 4 yards (tackle by Austin Booker and T.J. Edwards),2.21,1.61,15.0,2024,223
+4.0,1:16,,,,,,Timeout #1 by Minnesota Vikings,,,15.0,2024,223
+4.0,1:16,4.0,6.0,CHI 28,12.0,30.0,Will Reichard 46 yard field goal good,1.61,3.0,15.0,2024,223
+4.0,1:12,,,MIN 35,12.0,30.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,223
+4.0,1:12,1.0,10.0,CHI 30,12.0,30.0,Travis Homer right end for 1 yard (tackle by Kamu Grugier-Hill and Bo Richter),0.94,0.53,15.0,2024,223
+4.0,0:31,2.0,9.0,CHI 31,12.0,30.0,Tyson Bagent pass complete short left to Tyler Scott for 5 yards (tackle by Fabian Moreau),0.53,0.5,15.0,2024,223
+4.0,0:25,3.0,4.0,CHI 36,12.0,30.0,Travis Homer up the middle for 2 yards (tackle by Jalen Redmond and Bo Richter),0.5,-0.85,15.0,2024,223

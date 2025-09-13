@@ -1,0 +1,173 @@
+Quarter,Time,Down,ToGo,Location,ARI,CHI,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Bears won the coin toss, Bears to receive the opening kickoff.",,,16.0,2023,235
+1.0,15:00,,,ARI 35,0.0,0.0,"Matt Prater kicks off 65 yards, returned by Velus Jones for 26 yards (tackle by Dan Chisena and Andre Chachere)",0.0,0.67,16.0,2023,235
+1.0,14:54,1.0,10.0,CHI 26,0.0,0.0,Khalil Herbert left guard for 13 yards (tackle by Jalen Thompson),0.67,1.53,16.0,2023,235
+1.0,14:25,1.0,10.0,CHI 39,0.0,0.0,Justin Fields pass complete short middle to D.J. Moore for 6 yards (tackle by Starling Thomas),1.53,1.8,16.0,2023,235
+1.0,14:07,2.0,4.0,CHI 45,0.0,0.0,Roschon Johnson right tackle for 2 yards (tackle by Krys Barnes and Kevin Strong),1.8,1.36,16.0,2023,235
+1.0,13:30,3.0,2.0,CHI 47,0.0,0.0,Justin Fields pass incomplete short right intended for Cole Kmet (defended by Jalen Thompson),1.36,-0.26,16.0,2023,235
+1.0,13:24,4.0,2.0,CHI 47,0.0,0.0,Trenton Gill punts 44 yards downed by Travis Homer,-0.26,0.38,16.0,2023,235
+1.0,13:14,1.0,10.0,ARI 9,0.0,0.0,James Conner left end for 4 yards (tackle by Jaylon Johnson),-0.38,-0.48,16.0,2023,235
+1.0,12:38,2.0,6.0,ARI 13,0.0,0.0,James Conner right guard for 4 yards (tackle by Jaquan Brisker and DeMarcus Walker),-0.48,-0.48,16.0,2023,235
+1.0,12:03,3.0,2.0,ARI 17,0.0,0.0,James Conner left guard for 6 yards (tackle by Montez Sweat),-0.48,0.48,16.0,2023,235
+1.0,11:34,1.0,10.0,ARI 23,0.0,0.0,Kyler Murray sacked by Justin Jones for -9 yards,0.48,-1.4,16.0,2023,235
+1.0,10:50,2.0,19.0,ARI 14,0.0,0.0,Kyler Murray pass complete short middle to Elijah Higgins for 5 yards (tackle by Kyler Gordon),-1.4,-1.36,16.0,2023,235
+1.0,10:13,3.0,14.0,ARI 19,0.0,0.0,Emari Demercado right tackle for 3 yards (tackle by Montez Sweat),-1.36,-1.9,16.0,2023,235
+1.0,9:21,4.0,11.0,ARI 22,0.0,0.0,"Blake Gillikin punts 52 yards, fair catch by Trent Taylor at CHI-26",-1.9,-0.67,16.0,2023,235
+1.0,9:12,1.0,10.0,CHI 26,0.0,0.0,Justin Fields pass complete deep left to Cole Kmet for 53 yards (tackle by Jalen Thompson),0.67,4.17,16.0,2023,235
+1.0,8:45,1.0,10.0,ARI 21,0.0,0.0,Justin Fields scrambles right end for 3 yards (tackle by Budda Baker),4.17,4.04,16.0,2023,235
+1.0,8:10,2.0,7.0,ARI 18,0.0,0.0,Khalil Herbert left end for 9 yards (tackle by Budda Baker and Jonathan Ledbetter),4.04,5.14,16.0,2023,235
+1.0,7:28,1.0,9.0,ARI 9,0.0,0.0,Khalil Herbert right tackle for 3 yards (tackle by Jesse Luketa and Jonathan Ledbetter),5.14,4.95,16.0,2023,235
+1.0,6:49,2.0,6.0,ARI 6,0.0,0.0,Justin Fields pass incomplete short right,4.95,4.04,16.0,2023,235
+1.0,6:43,3.0,6.0,ARI 6,0.0,0.0,"Justin Fields sacked by Dante Stills for no gain. Penalty on Starling Thomas: Defensive Holding, 3 yards (accepted) (no play)",4.04,6.51,16.0,2023,235
+1.0,6:22,1.0,3.0,ARI 3,0.0,6.0,"Justin Fields scrambles left end for 3 yards, touchdown",6.51,7.0,16.0,2023,235
+1.0,6:16,,,ARI 15,0.0,7.0,Cairo Santos kicks extra point good,0.0,0.0,16.0,2023,235
+1.0,6:16,,,CHI 35,0.0,7.0,"Cairo Santos kicks off 58 yards, returned by Greg Dortch for 18 yards (tackle by Jaylon Jones)",0.0,0.61,16.0,2023,235
+1.0,6:10,1.0,10.0,ARI 25,0.0,7.0,Kyler Murray pass incomplete deep right intended for Trey McBride,0.61,0.06,16.0,2023,235
+1.0,6:04,2.0,10.0,ARI 25,0.0,7.0,James Conner left end for 9 yards (tackle by Eddie Jackson),0.06,0.56,16.0,2023,235
+1.0,5:26,3.0,1.0,ARI 34,0.0,7.0,Kyler Murray pass complete short left to Trey McBride for 10 yards,0.56,1.86,16.0,2023,235
+1.0,4:46,1.0,10.0,ARI 44,0.0,7.0,Kyler Murray pass incomplete short left intended for Michael Wilson (defended by Tyrique Stevenson),1.86,1.32,16.0,2023,235
+1.0,4:40,2.0,10.0,ARI 44,0.0,7.0,Kyler Murray right end for 6 yards (tackle by Kyler Gordon),1.32,1.42,16.0,2023,235
+1.0,4:03,3.0,4.0,CHI 50,0.0,7.0,Kyler Murray pass incomplete deep left intended for Rondale Moore (defended by Kyler Gordon),1.42,-0.06,16.0,2023,235
+1.0,3:57,4.0,4.0,CHI 50,0.0,7.0,"Blake Gillikin punts 40 yards, fair catch by Trent Taylor at CHI-10",-0.06,0.38,16.0,2023,235
+1.0,3:51,1.0,10.0,CHI 10,0.0,7.0,Khalil Herbert right guard for 15 yards (tackle by Budda Baker and Krys Barnes),-0.38,0.61,16.0,2023,235
+1.0,3:14,1.0,10.0,CHI 25,0.0,7.0,Khalil Herbert left guard for 2 yards (tackle by Starling Thomas),0.61,0.33,16.0,2023,235
+1.0,2:34,2.0,8.0,CHI 27,0.0,7.0,Justin Fields pass complete deep left to Cole Kmet for 20 yards (tackle by Budda Baker),0.33,2.06,16.0,2023,235
+1.0,1:51,1.0,10.0,CHI 47,0.0,7.0,Justin Fields pass incomplete deep right,2.06,1.52,16.0,2023,235
+1.0,1:42,2.0,10.0,CHI 47,0.0,7.0,Roschon Johnson right end for 7 yards (tackle by Dante Stills),1.52,1.75,16.0,2023,235
+1.0,1:01,3.0,3.0,ARI 46,0.0,7.0,Justin Fields pass complete short left to Darnell Mooney for 6 yards,1.75,2.92,16.0,2023,235
+1.0,0:25,1.0,10.0,ARI 40,0.0,7.0,Justin Fields sacked by Dennis Gardeck for no gain,2.92,2.37,16.0,2023,235
+2.0,15:00,2.0,10.0,ARI 40,0.0,7.0,Khalil Herbert left tackle for 6 yards (tackle by Krys Barnes),2.37,2.48,16.0,2023,235
+2.0,14:24,3.0,4.0,ARI 34,0.0,7.0,Justin Fields left end for 24 yards (tackle by Jalen Thompson),2.48,4.91,16.0,2023,235
+2.0,13:41,1.0,10.0,ARI 10,0.0,7.0,Justin Fields pass complete short right to Darnell Mooney for -1 yards (tackle by Jalen Thompson),4.91,4.02,16.0,2023,235
+2.0,12:59,2.0,11.0,ARI 11,0.0,13.0,"Khalil Herbert left tackle for 11 yards, touchdown",4.02,7.0,16.0,2023,235
+2.0,12:54,,,ARI 15,0.0,14.0,Cairo Santos kicks extra point good,0.0,0.0,16.0,2023,235
+2.0,12:54,,,CHI 35,0.0,14.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.61,16.0,2023,235
+2.0,12:54,1.0,10.0,ARI 25,0.0,14.0,Kyler Murray pass incomplete short right intended for Elijah Higgins (defended by Montez Sweat),0.61,0.06,16.0,2023,235
+2.0,12:49,2.0,10.0,ARI 25,0.0,14.0,"Penalty on Elijah Higgins: False Start, 5 yards (accepted) (no play)",0.06,-0.61,16.0,2023,235
+2.0,12:49,2.0,15.0,ARI 20,0.0,14.0,Kyler Murray pass incomplete short left intended for Michael Carter,-0.61,-1.29,16.0,2023,235
+2.0,12:44,3.0,15.0,ARI 20,0.0,14.0,Kyler Murray pass complete short left to Emari Demercado for -2 yards (tackle by Terell Smith),-1.29,-2.24,16.0,2023,235
+2.0,12:00,4.0,17.0,ARI 18,0.0,14.0,Blake Gillikin punts 36 yards,-2.24,-1.99,16.0,2023,235
+2.0,11:53,1.0,10.0,CHI 46,0.0,14.0,Justin Fields pass complete short right to Cole Kmet for 5 yards (tackle by Starling Thomas),1.99,2.13,16.0,2023,235
+2.0,11:19,2.0,5.0,ARI 49,0.0,14.0,Khalil Herbert right tackle for 3 yards (tackle by Naquan Jones),2.13,1.82,16.0,2023,235
+2.0,10:41,3.0,2.0,ARI 46,0.0,14.0,Roschon Johnson left guard for 5 yards (tackle by Krys Barnes and Dante Stills),1.82,2.85,16.0,2023,235
+2.0,10:04,1.0,10.0,ARI 41,0.0,14.0,Roschon Johnson left end for 5 yards (tackle by Cameron Thomas),2.85,2.98,16.0,2023,235
+2.0,9:26,2.0,5.0,ARI 36,0.0,14.0,Justin Fields pass complete deep left to Cole Kmet for 29 yards (tackle by Budda Baker),2.98,5.6,16.0,2023,235
+2.0,8:40,1.0,7.0,ARI 7,0.0,14.0,Justin Fields scrambles left end for 2 yards (tackle by Krys Barnes),5.6,5.15,16.0,2023,235
+2.0,7:57,2.0,5.0,ARI 5,0.0,14.0,Roschon Johnson left guard for 4 yards (tackle by Kevin Strong and Budda Baker),5.15,5.17,16.0,2023,235
+2.0,7:19,3.0,1.0,ARI 1,0.0,20.0,"Justin Fields pass complete short right to Marcedes Lewis for 1 yard, touchdown",5.17,7.0,16.0,2023,235
+2.0,7:12,,,ARI 15,0.0,21.0,Cairo Santos kicks extra point good,0.0,0.0,16.0,2023,235
+2.0,7:12,,,CHI 35,0.0,21.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.61,16.0,2023,235
+2.0,7:12,1.0,10.0,ARI 25,0.0,21.0,Kyler Murray pass complete short middle to Elijah Higgins for 12 yards (tackle by Tremaine Edmunds),0.61,1.4,16.0,2023,235
+2.0,6:36,1.0,10.0,ARI 37,0.0,21.0,Kyler Murray left end for 12 yards (tackle by Eddie Jackson),1.4,2.19,16.0,2023,235
+2.0,6:00,1.0,10.0,ARI 49,0.0,21.0,Kyler Murray pass incomplete short middle intended for Trey McBride,2.19,1.65,16.0,2023,235
+2.0,5:56,2.0,10.0,ARI 49,0.0,21.0,James Conner left end for 4 yards (tackle by Terell Smith),1.65,1.49,16.0,2023,235
+2.0,5:20,3.0,6.0,CHI 47,0.0,21.0,Kyler Murray pass complete short middle to Rondale Moore for 8 yards (tackle by Tremaine Edmunds and Jaquan Brisker),1.49,2.98,16.0,2023,235
+2.0,4:40,1.0,10.0,CHI 39,0.0,21.0,James Conner right tackle for 16 yards (tackle by Jaylon Johnson),2.98,4.04,16.0,2023,235
+2.0,3:56,1.0,10.0,CHI 23,0.0,21.0,James Conner left end for 1 yard (tackle by Tremaine Edmunds),4.04,3.63,16.0,2023,235
+2.0,3:24,2.0,9.0,CHI 22,0.0,21.0,Rondale Moore right end for 6 yards (tackle by Jaquan Brisker and Andrew Billings),3.63,3.85,16.0,2023,235
+2.0,2:33,3.0,3.0,CHI 16,6.0,21.0,"Kyler Murray pass complete short left to James Conner for 16 yards, touchdown",3.85,7.0,16.0,2023,235
+2.0,2:27,,,CHI 15,7.0,21.0,Matt Prater kicks extra point good,0.0,0.0,16.0,2023,235
+2.0,2:27,,,ARI 35,7.0,21.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,16.0,2023,235
+2.0,2:27,1.0,10.0,CHI 25,7.0,21.0,Justin Fields pass incomplete short left intended for Darnell Mooney (defended by Jalen Thompson),0.61,0.06,16.0,2023,235
+2.0,2:22,2.0,10.0,CHI 25,7.0,21.0,Justin Fields pass incomplete deep left intended for D.J. Moore (defended by Antonio Hamilton),0.06,-0.62,16.0,2023,235
+2.0,2:14,3.0,10.0,CHI 25,7.0,21.0,Justin Fields pass complete short left to Roschon Johnson for 6 yards (tackle by Dennis Gardeck),-0.62,-1.31,16.0,2023,235
+2.0,2:00,4.0,4.0,CHI 31,7.0,21.0,"Trenton Gill punts downed by Jaylon Jones. Penalty on Jaylon Jones: Illegal Touch Kick, 5 yards (accepted) (no play)",-1.31,-1.63,16.0,2023,235
+2.0,1:49,4.0,9.0,CHI 26,7.0,21.0,Trenton Gill punts 40 yards downed by DeMarquis Gates,-1.63,-1.2,16.0,2023,235
+2.0,1:38,1.0,10.0,ARI 34,7.0,21.0,Kyler Murray pass complete short middle to Trey McBride for 4 yards (tackle by T.J. Edwards),1.2,1.2,16.0,2023,235
+2.0,1:20,2.0,6.0,ARI 38,7.0,21.0,Kyler Murray pass complete short right to Emari Demercado for 3 yards (tackle by Tyrique Stevenson),1.2,0.89,16.0,2023,235
+2.0,1:14,3.0,3.0,ARI 41,7.0,21.0,"Kyler Murray aborted snap, recovered by Kyler Murray at ARI-33 and returned for -8 yards",0.89,-1.18,16.0,2023,235
+2.0,1:08,4.0,11.0,ARI 33,7.0,21.0,"Blake Gillikin punts 54 yards, returned by Trent Taylor for 11 yards (tackle by Joey Blount and Dan Chisena)",-1.18,-0.54,16.0,2023,235
+2.0,0:59,1.0,10.0,CHI 24,7.0,21.0,Justin Fields pass incomplete short right,0.54,0.0,16.0,2023,235
+2.0,0:54,2.0,10.0,CHI 24,7.0,21.0,"Justin Fields pass complete short right to Roschon Johnson for no gain (tackle by Zaven Collins and Starling Thomas). Penalty on Braxton Jones: Offensive Holding, 10 yards (accepted) (no play)",0.0,-1.47,16.0,2023,235
+2.0,0:46,2.0,20.0,CHI 14,7.0,21.0,Justin Fields pass complete short middle to Roschon Johnson for 10 yards (tackle by Krys Barnes),-1.47,-0.69,16.0,2023,235
+2.0,0:35,,,,,,Timeout #1 by Arizona Cardinals,,,16.0,2023,235
+2.0,0:35,3.0,10.0,CHI 24,7.0,21.0,"Justin Fields pass incomplete short left intended for D.J. Moore. Penalty on Nate Davis: Offensive Holding, 10 yards (declined)",-0.69,-1.77,16.0,2023,235
+2.0,0:27,4.0,10.0,CHI 24,7.0,21.0,"Trenton Gill punts 76 yards, touchback.",-1.77,-0.28,16.0,2023,235
+2.0,0:17,1.0,10.0,ARI 20,7.0,21.0,Kyler Murray pass complete deep left to Rondale Moore for 22 yards (tackle by Jaquan Brisker),0.28,1.73,16.0,2023,235
+2.0,0:09,,,,,,Timeout #1 by Chicago Bears,,,16.0,2023,235
+2.0,0:09,1.0,10.0,ARI 42,7.0,21.0,Kyler Murray pass incomplete deep left intended for Michael Wilson,1.73,1.19,16.0,2023,235
+2.0,0:04,,,,,,Timeout #2 by Arizona Cardinals,,,16.0,2023,235
+2.0,0:04,2.0,10.0,ARI 42,7.0,21.0,Kyler Murray pass complete short left to Greg Dortch for 7 yards (tackle by Tyrique Stevenson),1.19,1.42,16.0,2023,235
+3.0,15:00,,,CHI 35,7.0,21.0,"Cairo Santos kicks off 62 yards, returned by Greg Dortch for 40 yards (tackle by Elijah Hicks)",0.0,1.8,16.0,2023,235
+3.0,14:50,1.0,10.0,ARI 43,7.0,21.0,Kyler Murray pass complete short left to James Conner for 18 yards (tackle by Jaquan Brisker),1.8,2.98,16.0,2023,235
+3.0,14:08,1.0,10.0,CHI 39,7.0,21.0,James Conner left end for -2 yards (tackle by DeMarcus Walker),2.98,2.17,16.0,2023,235
+3.0,13:42,2.0,12.0,CHI 41,7.0,21.0,Kyler Murray pass complete short right to Trey McBride for 2 yards (tackle by Kyler Gordon),2.17,1.75,16.0,2023,235
+3.0,13:05,3.0,10.0,CHI 39,7.0,21.0,Kyler Murray pass complete short left to Emari Demercado for 2 yards (tackle by Kyler Gordon),1.75,0.79,16.0,2023,235
+3.0,12:17,4.0,8.0,CHI 37,10.0,21.0,Matt Prater 55 yard field goal good,0.79,3.0,16.0,2023,235
+3.0,12:12,,,ARI 35,10.0,21.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,16.0,2023,235
+3.0,12:12,1.0,10.0,CHI 25,10.0,21.0,Khalil Herbert left guard for 5 yards (tackle by Budda Baker),0.61,0.74,16.0,2023,235
+3.0,11:39,2.0,5.0,CHI 30,10.0,21.0,Khalil Herbert right tackle for 3 yards (tackle by Kevin Strong),0.74,0.43,16.0,2023,235
+3.0,11:01,3.0,2.0,CHI 33,10.0,21.0,Justin Fields right end for 11 yards (tackle by Krys Barnes),0.43,1.86,16.0,2023,235
+3.0,10:24,1.0,10.0,CHI 44,10.0,21.0,"Justin Fields scrambles left end for no gain (tackle by Krys Barnes). Penalty on Lucas Patrick: Offensive Holding, 10 yards (accepted) (no play)",1.86,1.2,16.0,2023,235
+3.0,9:48,1.0,20.0,CHI 34,10.0,21.0,Velus Jones left end for 4 yards (tackle by Andre Chachere and Antonio Hamilton),1.2,0.51,16.0,2023,235
+3.0,9:08,2.0,16.0,CHI 38,10.0,21.0,Justin Fields pass incomplete short right intended for Darnell Mooney (defended by Antonio Hamilton),0.51,-0.16,16.0,2023,235
+3.0,9:02,3.0,16.0,CHI 38,10.0,21.0,Justin Fields pass incomplete short right intended for D.J. Moore (defended by Andre Chachere),-0.16,-0.85,16.0,2023,235
+3.0,8:58,4.0,16.0,CHI 38,10.0,21.0,"Trenton Gill punts 43 yards, returned by Greg Dortch for 4 yards (tackle by Jaylon Jones)",-0.85,-0.48,16.0,2023,235
+3.0,8:48,1.0,10.0,ARI 23,10.0,21.0,James Conner left guard for no gain (tackle by Andrew Billings),0.48,-0.07,16.0,2023,235
+3.0,8:04,2.0,10.0,ARI 23,10.0,21.0,James Conner right tackle for no gain (tackle by Kyler Gordon),-0.07,-0.76,16.0,2023,235
+3.0,7:28,3.0,10.0,ARI 23,10.0,21.0,Kyler Murray pass complete short right to Emari Demercado for no gain (tackle by Tyrique Stevenson and T.J. Edwards),-0.76,-1.83,16.0,2023,235
+3.0,6:47,4.0,10.0,ARI 23,10.0,21.0,"Blake Gillikin punts 77 yards, touchback.",-1.83,-0.28,16.0,2023,235
+3.0,6:39,1.0,10.0,CHI 20,10.0,21.0,Khalil Herbert left guard for 1 yard (tackle by Krys Barnes),0.28,-0.13,16.0,2023,235
+3.0,6:00,2.0,9.0,CHI 21,10.0,21.0,Justin Fields pass complete short middle to Khalil Herbert for 9 yards (tackle by Starling Thomas),-0.13,0.94,16.0,2023,235
+3.0,5:23,1.0,10.0,CHI 30,10.0,21.0,Khalil Herbert right end for 8 yards (tackle by Antonio Hamilton and Naquan Jones),0.94,1.47,16.0,2023,235
+3.0,4:50,2.0,2.0,CHI 38,10.0,21.0,Khalil Herbert left guard for 3 yards (tackle by Budda Baker and Dante Stills),1.47,1.66,16.0,2023,235
+3.0,4:10,1.0,10.0,CHI 41,10.0,21.0,Justin Fields right end for 10 yards (tackle by Budda Baker),1.66,2.32,16.0,2023,235
+3.0,3:23,1.0,10.0,ARI 49,10.0,21.0,Justin Fields pass complete short left to Robert Tonyan for 14 yards (tackle by Antonio Hamilton),2.32,3.25,16.0,2023,235
+3.0,2:37,1.0,10.0,ARI 35,10.0,21.0,Khalil Herbert right guard for 4 yards (tackle by Roy Lopez and Krys Barnes),3.25,3.24,16.0,2023,235
+3.0,1:58,2.0,6.0,ARI 31,10.0,21.0,Justin Fields pass incomplete short right,3.24,2.54,16.0,2023,235
+3.0,1:51,3.0,6.0,ARI 31,10.0,21.0,Justin Fields pass complete short left to Roschon Johnson for no gain (tackle by BJ Ojulari),2.54,1.34,16.0,2023,235
+3.0,1:08,4.0,6.0,ARI 31,10.0,24.0,Cairo Santos 49 yard field goal good,1.34,3.0,16.0,2023,235
+3.0,1:04,,,CHI 35,10.0,24.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.61,16.0,2023,235
+3.0,1:04,1.0,10.0,ARI 25,10.0,24.0,Kyler Murray sacked by Kyler Gordon for -8 yards,0.61,-1.15,16.0,2023,235
+3.0,0:22,2.0,18.0,ARI 17,10.0,24.0,Kyler Murray pass incomplete deep right intended for Greg Dortch (defended by Jaquan Brisker),-1.15,-1.93,16.0,2023,235
+3.0,0:16,3.0,18.0,ARI 17,10.0,24.0,Kyler Murray pass complete short middle to Trey McBride for 9 yards (tackle by Eddie Jackson),-1.93,-1.63,16.0,2023,235
+4.0,15:00,4.0,9.0,ARI 26,10.0,24.0,"Blake Gillikin punts 54 yards, fair catch by Trent Taylor at CHI-20",-1.63,-0.28,16.0,2023,235
+4.0,14:53,1.0,10.0,CHI 20,10.0,24.0,Roschon Johnson left end for 10 yards (tackle by Andre Chachere),0.28,0.94,16.0,2023,235
+4.0,14:34,1.0,10.0,CHI 30,10.0,24.0,Justin Fields pass incomplete deep left intended for Velus Jones,0.94,0.39,16.0,2023,235
+4.0,14:23,2.0,10.0,CHI 30,10.0,24.0,Roschon Johnson left end for 5 yards (tackle by Dante Stills and Kevin Strong),0.39,0.37,16.0,2023,235
+4.0,13:45,3.0,5.0,CHI 35,10.0,24.0,Khalil Herbert left guard for 12 yards (tackle by Owen Pappoe),0.37,2.06,16.0,2023,235
+4.0,13:02,1.0,10.0,CHI 47,10.0,24.0,Justin Fields left end for 4 yards (tackle by Starling Thomas),2.06,2.06,16.0,2023,235
+4.0,12:21,2.0,6.0,ARI 49,10.0,24.0,Justin Fields scrambles left end for 1 yard (tackle by Starling Thomas),2.06,1.49,16.0,2023,235
+4.0,11:22,,,,,,Timeout #1 by Chicago Bears,,,16.0,2023,235
+4.0,11:22,3.0,5.0,ARI 48,10.0,24.0,"Penalty on Nate Davis: False Start, 5 yards (accepted) (no play)",1.49,0.83,16.0,2023,235
+4.0,11:22,3.0,10.0,CHI 47,10.0,24.0,Justin Fields scrambles right end for 39 yards (tackle by Budda Baker),0.83,4.65,16.0,2023,235
+4.0,10:33,1.0,10.0,ARI 14,10.0,24.0,Justin Fields pass deep left intended for Khalil Herbert is intercepted by Jalen Thompson in end zone and returned for no gain,4.65,-0.28,16.0,2023,235
+4.0,10:22,1.0,10.0,ARI 20,10.0,24.0,James Conner left tackle for 4 yards (tackle by DeMarcus Walker),0.28,0.27,16.0,2023,235
+4.0,9:55,2.0,6.0,ARI 24,10.0,24.0,Kyler Murray pass complete short middle to James Conner for 20 yards (tackle by T.J. Edwards),0.27,1.86,16.0,2023,235
+4.0,9:35,1.0,10.0,ARI 44,10.0,24.0,James Conner right end for -1 yards (tackle by Jaquan Brisker),1.86,1.18,16.0,2023,235
+4.0,8:57,2.0,11.0,ARI 43,10.0,24.0,Kyler Murray pass complete short left to James Conner for 6 yards (tackle by Jaylon Johnson),1.18,1.29,16.0,2023,235
+4.0,8:19,3.0,5.0,ARI 49,10.0,24.0,Kyler Murray scrambles left end for 3 yards (tackle by T.J. Edwards),1.29,0.07,16.0,2023,235
+4.0,7:37,4.0,2.0,CHI 48,10.0,24.0,"Kyler Murray pass incomplete short middle intended for Trey McBride. Penalty on Jaquan Brisker: Defensive Holding, 5 yards (accepted) (no play)",0.07,2.72,16.0,2023,235
+4.0,7:32,1.0,10.0,CHI 43,10.0,24.0,Kyler Murray pass complete short middle to Trey McBride for 5 yards (tackle by T.J. Edwards),2.72,2.85,16.0,2023,235
+4.0,6:56,2.0,5.0,CHI 38,10.0,24.0,Kyler Murray pass incomplete deep left intended for Michael Wilson (defended by Terell Smith),2.85,2.15,16.0,2023,235
+4.0,6:48,3.0,5.0,CHI 38,16.0,24.0,"Kyler Murray pass complete short right to Greg Dortch for 38 yards, touchdown",2.15,7.0,16.0,2023,235
+4.0,6:37,,,CHI 2,16.0,24.0,Two Point Attempt: Kyler Murray pass incomplete intended for Rondale Moore,1.0,-1.0,16.0,2023,235
+4.0,6:37,,,ARI 35,16.0,24.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,16.0,2023,235
+4.0,6:37,1.0,10.0,CHI 25,16.0,24.0,Khalil Herbert right end for 4 yards (tackle by Cameron Thomas),0.61,0.6,16.0,2023,235
+4.0,5:58,2.0,6.0,CHI 29,16.0,24.0,Justin Fields pass complete short right to D.J. Moore for 5 yards (tackle by Zaven Collins and Starling Thomas),0.6,0.56,16.0,2023,235
+4.0,5:20,3.0,1.0,CHI 34,16.0,24.0,Roschon Johnson right guard for no gain (tackle by Jalen Thompson and Naquan Jones),0.56,-1.11,16.0,2023,235
+4.0,4:35,4.0,1.0,CHI 34,16.0,24.0,Trenton Gill punts 57 yards downed by Travis Homer,-1.11,0.38,16.0,2023,235
+4.0,4:21,1.0,10.0,ARI 9,16.0,24.0,Kyler Murray pass complete short middle to James Conner for 7 yards (tackle by Justin Jones),-0.38,-0.16,16.0,2023,235
+4.0,3:56,2.0,3.0,ARI 16,16.0,24.0,Kyler Murray pass incomplete short left intended for Greg Dortch,-0.16,-0.6,16.0,2023,235
+4.0,3:52,3.0,3.0,ARI 16,16.0,24.0,Emari Demercado right end for 7 yards (tackle by Tremaine Edmunds),-0.6,0.48,16.0,2023,235
+4.0,3:34,1.0,10.0,ARI 23,16.0,24.0,Kyler Murray pass complete short middle to Emari Demercado for 4 yards (tackle by T.J. Edwards),0.48,0.47,16.0,2023,235
+4.0,3:13,2.0,6.0,ARI 27,16.0,24.0,Kyler Murray pass incomplete short middle intended for Emari Demercado,0.47,-0.23,16.0,2023,235
+4.0,3:07,3.0,6.0,ARI 27,16.0,24.0,Kyler Murray pass incomplete short right intended for Michael Wilson (defended by Terell Smith),-0.23,-1.57,16.0,2023,235
+4.0,3:03,4.0,6.0,ARI 27,16.0,24.0,Kyler Murray pass incomplete deep right intended for Greg Dortch,-1.57,-3.78,16.0,2023,235
+4.0,2:57,1.0,10.0,ARI 27,16.0,24.0,Khalil Herbert left end for 5 yards (tackle by Zaven Collins),3.78,3.91,16.0,2023,235
+4.0,2:51,,,,,,Timeout #1 by Arizona Cardinals,,,16.0,2023,235
+4.0,2:51,2.0,5.0,ARI 22,16.0,24.0,Khalil Herbert right tackle for 1 yard (tackle by Kevin Strong and Owen Pappoe),3.91,3.34,16.0,2023,235
+4.0,2:08,3.0,4.0,ARI 21,16.0,24.0,Justin Fields pass complete short right to D.J. Moore for 7 yards (tackle by Starling Thomas),3.34,4.65,16.0,2023,235
+4.0,2:00,1.0,10.0,ARI 14,16.0,24.0,Roschon Johnson left end for -1 yards (tackle by Roy Lopez),4.65,3.85,16.0,2023,235
+4.0,1:55,,,,,,Timeout #2 by Arizona Cardinals,,,16.0,2023,235
+4.0,1:55,2.0,11.0,ARI 15,16.0,24.0,Khalil Herbert right tackle for 1 yard (tackle by Roy Lopez),3.85,3.11,16.0,2023,235
+4.0,1:50,,,,,,Timeout #3 by Arizona Cardinals,,,16.0,2023,235
+4.0,1:50,3.0,10.0,ARI 14,16.0,24.0,Khalil Herbert left guard for 3 yards (tackle by Cameron Thomas),3.11,2.7,16.0,2023,235
+4.0,1:05,,,,,,Timeout #2 by Chicago Bears,,,16.0,2023,235
+4.0,1:05,4.0,7.0,ARI 11,16.0,27.0,Cairo Santos 29 yard field goal good,2.7,3.0,16.0,2023,235
+4.0,1:02,,,CHI 35,16.0,27.0,"Cairo Santos kicks off 63 yards, returned by Greg Dortch for 29 yards (tackle by Roschon Johnson and Elijah Hicks)",0.0,1.0,16.0,2023,235
+4.0,0:55,1.0,10.0,ARI 31,16.0,27.0,Kyler Murray scrambles right tackle for 11 yards (tackle by Jaquan Brisker),1.0,1.73,16.0,2023,235
+4.0,0:35,1.0,10.0,ARI 42,16.0,27.0,Kyler Murray pass complete short middle to Emari Demercado for 11 yards (tackle by Tremaine Edmunds and Kyler Gordon),1.73,2.46,16.0,2023,235
+4.0,0:17,1.0,10.0,CHI 47,16.0,27.0,Kyler Murray spiked the ball,2.46,1.91,16.0,2023,235
+4.0,0:16,2.0,10.0,CHI 47,16.0,27.0,Kyler Murray pass complete short right to Trey McBride for 1 yard (tackle by Terell Smith),1.91,1.35,16.0,2023,235
+4.0,0:01,3.0,9.0,CHI 46,16.0,27.0,Kyler Murray pass complete short left to Emari Demercado for 22 yards (tackle by Tremaine Edmunds),1.35,1.07,16.0,2023,235

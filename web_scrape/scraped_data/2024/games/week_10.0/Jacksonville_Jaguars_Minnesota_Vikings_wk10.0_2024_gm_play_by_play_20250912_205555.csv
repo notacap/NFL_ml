@@ -1,0 +1,159 @@
+Quarter,Time,Down,ToGo,Location,MIN,JAX,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Vikings won the coin toss and deferred, Jaguars to receive the opening kickoff.",,,10.0,2024,147
+1.0,15:00,,,MIN 35,0.0,0.0,"John Parker Romo kicks off 65 yards, touchback.",0.0,0.94,10.0,2024,147
+1.0,15:00,1.0,10.0,JAX 30,0.0,0.0,Travis Etienne up the middle for no gain (tackle by Jonathan Bullard and Camryn Bynum),0.94,0.39,10.0,2024,147
+1.0,14:22,2.0,10.0,JAX 30,0.0,0.0,Mac Jones pass complete short right to Brenton Strange for 2 yards (tackle by Camryn Bynum),0.39,-0.03,10.0,2024,147
+1.0,13:40,3.0,8.0,JAX 32,0.0,0.0,Mac Jones pass incomplete short left intended for Evan Engram,-0.03,-1.24,10.0,2024,147
+1.0,13:33,4.0,8.0,JAX 32,0.0,0.0,"Logan Cooke punts 68 yards, touchback.",-1.24,-0.28,10.0,2024,147
+1.0,13:25,1.0,10.0,MIN 20,0.0,0.0,Sam Darnold pass complete short right to Josh Oliver for 11 yards (tackle by Devin Lloyd),0.28,1.0,10.0,2024,147
+1.0,12:52,1.0,10.0,MIN 31,0.0,0.0,Aaron Jones up the middle for 3 yards (tackle by DaVon Hamilton),1.0,0.87,10.0,2024,147
+1.0,12:13,2.0,7.0,MIN 34,0.0,0.0,Aaron Jones up the middle for 4 yards (tackle by Foyesade Oluokun),0.87,0.7,10.0,2024,147
+1.0,11:37,3.0,3.0,MIN 38,0.0,0.0,Sam Darnold pass complete short left to Justin Jefferson for 5 yards (tackle by Devin Lloyd),0.7,1.8,10.0,2024,147
+1.0,10:51,1.0,10.0,MIN 43,0.0,0.0,Sam Darnold pass incomplete deep right intended for T.J. Hockenson (defended by Ronald Darby),1.8,1.25,10.0,2024,147
+1.0,10:43,2.0,10.0,MIN 43,0.0,0.0,Sam Darnold pass complete short middle to Justin Jefferson for 15 yards (tackle by Tyson Campbell),1.25,2.79,10.0,2024,147
+1.0,10:07,1.0,10.0,JAX 42,0.0,0.0,Aaron Jones up the middle for 3 yards (tackle by Ventrell Miller),2.79,2.65,10.0,2024,147
+1.0,9:30,2.0,7.0,JAX 39,0.0,0.0,Aaron Jones right tackle for 9 yards (tackle by Andre Cisco and Devin Lloyd),2.65,3.58,10.0,2024,147
+1.0,8:51,1.0,10.0,JAX 30,0.0,0.0,Sam Darnold pass incomplete deep right intended for Josh Oliver,3.58,3.03,10.0,2024,147
+1.0,8:44,2.0,10.0,JAX 30,0.0,0.0,Aaron Jones up the middle for 3 yards (tackle by Arik Armstead),3.03,2.74,10.0,2024,147
+1.0,8:05,3.0,7.0,JAX 27,0.0,0.0,Sam Darnold pass incomplete deep middle intended for Jordan Addison,2.74,1.67,10.0,2024,147
+1.0,8:00,4.0,7.0,JAX 27,3.0,0.0,John Parker Romo 45 yard field goal good,1.67,3.0,10.0,2024,147
+1.0,7:56,,,MIN 35,3.0,0.0,"John Parker Romo kicks off 64 yards, returned by Tank Bigsby for 24 yards (tackle by Jay Ward). Penalty on Brian Asamoah: Illegal Formation, 5 yards (accepted)",0.0,0.94,10.0,2024,147
+1.0,7:50,1.0,10.0,JAX 30,3.0,0.0,Mac Jones pass complete short right to Brenton Strange for 23 yards (tackle by Byron Murphy),0.94,2.46,10.0,2024,147
+1.0,7:15,1.0,10.0,MIN 47,3.0,0.0,Tank Bigsby up the middle for 3 yards (tackle by Josh Metellus and Ivan Pace),2.46,2.32,10.0,2024,147
+1.0,6:46,2.0,7.0,MIN 44,3.0,0.0,Travis Etienne up the middle for 18 yards (tackle by Stephon Gilmore),2.32,3.84,10.0,2024,147
+1.0,6:11,1.0,10.0,MIN 26,3.0,0.0,"Mac Jones pass complete short left to Travis Etienne for -1 yards (tackle by Andrew Van Ginkel). Penalty on Brandon Scherff: Ineligible Downfield Pass, 5 yards (declined)",3.84,3.16,10.0,2024,147
+1.0,5:58,2.0,11.0,MIN 27,3.0,0.0,Mac Jones pass complete short left to Luke Farrell for 7 yards (tackle by Andrew Van Ginkel),3.16,3.4,10.0,2024,147
+1.0,5:13,3.0,4.0,MIN 20,3.0,0.0,Mac Jones pass complete deep right to Gabriel Davis for 19 yards (tackle by Josh Metellus),3.4,6.97,10.0,2024,147
+1.0,4:45,1.0,1.0,MIN 1,3.0,0.0,"Travis Etienne up the middle for no gain, touchdown Replay Assistant challenged the runner broke the plane ruling, and the original play was overturned. Travis Etienne up the middle for no gain (tackle by Ivan Pace)",6.97,5.91,10.0,2024,147
+1.0,4:33,2.0,1.0,MIN 1,3.0,0.0,Mac Jones up the middle for no gain (tackle by Jerry Tillery),5.91,5.17,10.0,2024,147
+1.0,3:48,3.0,1.0,MIN 1,3.0,6.0,"Mac Jones up the middle for 1 yard, touchdown",5.17,7.0,10.0,2024,147
+1.0,3:44,,,MIN 15,3.0,7.0,Cam Little kicks extra point good,0.0,0.0,10.0,2024,147
+1.0,3:44,,,JAX 35,3.0,7.0,"Cam Little kicks off 65 yards, touchback.",0.0,0.94,10.0,2024,147
+1.0,3:44,1.0,10.0,MIN 30,3.0,7.0,Sam Darnold pass complete deep middle to Josh Oliver for 28 yards (tackle by Darnell Savage),0.94,2.79,10.0,2024,147
+1.0,3:06,1.0,10.0,JAX 42,3.0,7.0,"Penalty on Cam Robinson: False Start, 5 yards (accepted) (no play)",2.79,2.46,10.0,2024,147
+1.0,2:48,1.0,15.0,JAX 47,3.0,7.0,Sam Darnold pass complete short middle to Trent Sherfield for 11 yards (tackle by Devin Lloyd and Foyesade Oluokun),2.46,3.05,10.0,2024,147
+1.0,2:09,2.0,4.0,JAX 36,3.0,7.0,Aaron Jones right end for 6 yards (tackle by Tyler Lacy),3.05,3.58,10.0,2024,147
+1.0,1:29,1.0,10.0,JAX 30,3.0,7.0,Sam Darnold pass short left (defended by Tyson Campbell) intended for Justin Jefferson is intercepted by Foyesade Oluokun at JAC-22 and returned for no gain (tackle by Josh Oliver),3.58,-0.41,10.0,2024,147
+1.0,1:20,1.0,10.0,JAX 22,3.0,7.0,Mac Jones pass incomplete short right intended for Evan Engram,0.41,-0.13,10.0,2024,147
+1.0,1:12,2.0,10.0,JAX 22,3.0,7.0,Mac Jones pass complete short right to Luke Farrell for 9 yards (tackle by Blake Cashman and Stephon Gilmore),-0.13,0.3,10.0,2024,147
+1.0,0:44,3.0,2.0,JAX 31,3.0,7.0,Mac Jones pass incomplete short right intended for Brenton Strange,0.3,-1.31,10.0,2024,147
+1.0,0:35,4.0,2.0,JAX 31,3.0,7.0,"Logan Cooke punts 52 yards, fair catch by Brandon Powell at MIN-17",-1.31,0.06,10.0,2024,147
+1.0,0:28,1.0,10.0,MIN 17,3.0,7.0,Cam Akers up the middle for 7 yards (tackle by Antonio Johnson and Tyson Campbell),-0.06,0.48,10.0,2024,147
+2.0,15:00,2.0,3.0,MIN 24,3.0,7.0,Cam Akers up the middle for no gain (tackle by Devin Lloyd),0.48,-0.37,10.0,2024,147
+2.0,14:24,3.0,3.0,MIN 24,3.0,7.0,Sam Darnold pass complete short right to T.J. Hockenson for 9 yards (tackle by Antonio Johnson),-0.37,1.14,10.0,2024,147
+2.0,13:36,1.0,10.0,MIN 33,3.0,7.0,"Sam Darnold pass incomplete short left intended for Josh Oliver MIN challenged the pass completion ruling, and the original play was overturned. Sam Darnold pass complete short left to Josh Oliver for 4 yards (tackle by Foyesade Oluokun)",1.14,1.13,10.0,2024,147
+2.0,13:27,2.0,6.0,MIN 37,3.0,7.0,Sam Darnold pass complete short right to T.J. Hockenson for 6 yards (tackle by Jarrian Jones),1.13,1.8,10.0,2024,147
+2.0,12:52,1.0,10.0,MIN 43,3.0,7.0,Sam Darnold scrambles left end for 6 yards (tackle by Foyesade Oluokun),1.8,2.06,10.0,2024,147
+2.0,12:14,2.0,4.0,MIN 49,3.0,7.0,Cam Akers left end for -3 yards (tackle by Tyson Campbell),2.06,0.96,10.0,2024,147
+2.0,11:28,3.0,7.0,MIN 46,3.0,7.0,Sam Darnold pass complete short left to T.J. Hockenson for 8 yards (tackle by Antonio Johnson),0.96,2.52,10.0,2024,147
+2.0,10:44,1.0,10.0,JAX 46,3.0,7.0,Cam Akers up the middle for 3 yards (tackle by Jordan Jefferson and Devin Lloyd),2.52,2.38,10.0,2024,147
+2.0,10:02,2.0,7.0,JAX 43,3.0,7.0,Sam Darnold pass incomplete deep left intended for Aaron Jones (defended by Ventrell Miller),2.38,1.68,10.0,2024,147
+2.0,9:53,3.0,7.0,JAX 43,3.0,7.0,Sam Darnold pass complete short left to T.J. Hockenson for 8 yards (tackle by Montaric Brown),1.68,3.25,10.0,2024,147
+2.0,9:09,1.0,10.0,JAX 35,3.0,7.0,"Sam Darnold scrambles left end for 11 yards (tackle by Antonio Johnson). Penalty on Foyesade Oluokun: Defensive Holding, 5 yards (accepted)",3.25,4.31,10.0,2024,147
+2.0,8:44,1.0,10.0,JAX 19,3.0,7.0,Aaron Jones left tackle for 5 yards (tackle by DaVon Hamilton and Devin Lloyd),4.31,4.53,10.0,2024,147
+2.0,8:03,2.0,5.0,JAX 14,3.0,7.0,"Penalty on Jalen Nailor: False Start, 5 yards (accepted) (no play)",4.53,3.75,10.0,2024,147
+2.0,7:41,2.0,10.0,JAX 19,3.0,7.0,Aaron Jones left guard for 5 yards (tackle by Devin Lloyd and Tyson Campbell),3.75,3.76,10.0,2024,147
+2.0,7:00,3.0,5.0,JAX 14,3.0,7.0,Sam Darnold pass complete short left to T.J. Hockenson for 6 yards (tackle by Tyson Campbell),3.76,5.37,10.0,2024,147
+2.0,6:16,1.0,8.0,JAX 8,3.0,7.0,Aaron Jones up the middle for 1 yard (tackle by DaVon Hamilton and Jeremiah Ledbetter),5.37,4.76,10.0,2024,147
+2.0,5:35,2.0,7.0,JAX 7,3.0,7.0,"Sam Darnold pass short middle intended for Justin Jefferson is intercepted by Montaric Brown in end zone and returned for no gain, touchback. Replay Assistant challenged the pass interception ruling, and the play was upheld.",4.76,-0.28,10.0,2024,147
+2.0,5:24,1.0,10.0,JAX 20,3.0,7.0,Travis Etienne up the middle for 4 yards (tackle by Jonathan Greenard and Harrison Phillips),0.28,0.27,10.0,2024,147
+2.0,4:46,2.0,6.0,JAX 24,3.0,7.0,Mac Jones scrambles right end for 2 yards (tackle by Ivan Pace and Stephon Gilmore),0.27,-0.16,10.0,2024,147
+2.0,4:04,3.0,4.0,JAX 26,3.0,7.0,"Mac Jones scrambles left end for no gain. Mac Jones fumbles (forced by Andrew Van Ginkel), recovered by Blake Cashman at JAC-30, touchdown Replay Assistant challenged the fumble ruling, and the original play was overturned. Mac Jones scrambles left end for 5 yards (tackle by Shaquill Griffin)",-0.16,1.0,10.0,2024,147
+2.0,3:47,1.0,10.0,JAX 31,3.0,7.0,Travis Etienne left guard for 2 yards (tackle by Harrison Phillips and Josh Metellus),1.0,0.8,10.0,2024,147
+2.0,3:15,2.0,7.0,JAX 33,3.0,7.0,Mac Jones pass complete short right to Evan Engram for -1 yards (tackle by Josh Metellus and Patrick Jones),0.8,-0.03,10.0,2024,147
+2.0,2:34,3.0,8.0,JAX 32,3.0,7.0,Mac Jones pass complete short right to Evan Engram for 15 yards,-0.03,2.06,10.0,2024,147
+2.0,2:00,1.0,10.0,JAX 47,3.0,7.0,Tank Bigsby up the middle for 1 yard (tackle by Stephon Gilmore),2.06,1.65,10.0,2024,147
+2.0,1:55,,,,,,Timeout #1 by Minnesota Vikings,,,10.0,2024,147
+2.0,1:55,2.0,9.0,JAX 48,3.0,7.0,Mac Jones sacked by Blake Cashman for -8 yards,1.65,-0.1,10.0,2024,147
+2.0,1:52,,,,,,Timeout #2 by Minnesota Vikings,,,10.0,2024,147
+2.0,1:52,3.0,17.0,JAX 40,3.0,7.0,Travis Etienne up the middle for 3 yards (tackle by Jihad Ward),-0.1,-0.52,10.0,2024,147
+2.0,1:49,,,,,,Timeout #3 by Minnesota Vikings,,,10.0,2024,147
+2.0,1:49,4.0,14.0,JAX 43,3.0,7.0,Logan Cooke punts 39 yards out of bounds,-0.52,-0.04,10.0,2024,147
+2.0,1:42,1.0,10.0,MIN 18,3.0,7.0,Sam Darnold pass incomplete deep middle intended for Jordan Addison,0.04,-0.49,10.0,2024,147
+2.0,1:37,2.0,10.0,MIN 18,3.0,7.0,Sam Darnold pass complete short middle to Aaron Jones for 8 yards (tackle by Andre Cisco),-0.49,-0.14,10.0,2024,147
+2.0,1:29,3.0,2.0,MIN 26,3.0,7.0,Sam Darnold pass incomplete short right intended for Jalen Nailor,-0.14,-1.63,10.0,2024,147
+2.0,1:24,4.0,2.0,MIN 26,3.0,7.0,"Ryan Wright punts 43 yards, fair catch by Devin Duvernay at JAC-31",-1.63,-1.0,10.0,2024,147
+2.0,1:17,1.0,10.0,JAX 31,3.0,7.0,Mac Jones sacked by Ivan Pace for -8 yards,1.0,-0.62,10.0,2024,147
+2.0,0:49,2.0,18.0,JAX 23,3.0,7.0,"Mac Jones pass incomplete short right. Penalty on Blake Hance: Ineligible Downfield Pass, 5 yards (declined)",-0.62,-1.29,10.0,2024,147
+2.0,0:45,3.0,18.0,JAX 23,3.0,7.0,Travis Etienne up the middle for 5 yards (tackle by Blake Cashman),-1.29,-1.5,10.0,2024,147
+3.0,15:00,,,JAX 35,3.0,7.0,"Cam Little kicks off 65 yards, touchback.",0.0,0.94,10.0,2024,147
+3.0,15:00,1.0,10.0,MIN 30,3.0,7.0,Jordan Addison right end for 4 yards (tackle by Devin Lloyd),0.94,0.93,10.0,2024,147
+3.0,14:24,2.0,6.0,MIN 34,3.0,7.0,Sam Darnold pass complete deep left to Jordan Addison for 21 yards (tackle by Ronald Darby),0.93,2.59,10.0,2024,147
+3.0,13:59,1.0,10.0,JAX 45,3.0,7.0,Aaron Jones right guard for 8 yards (tackle by Darnell Savage and Devin Lloyd),2.59,3.12,10.0,2024,147
+3.0,13:48,2.0,2.0,JAX 37,3.0,7.0,Aaron Jones right end for 13 yards (tackle by Ventrell Miller),3.12,3.97,10.0,2024,147
+3.0,13:09,1.0,10.0,JAX 24,3.0,7.0,Sam Darnold pass incomplete short left,3.97,3.43,10.0,2024,147
+3.0,13:00,2.0,10.0,JAX 24,3.0,7.0,Sam Darnold pass complete short left to Justin Jefferson for 6 yards (tackle by Devin Lloyd),3.43,3.66,10.0,2024,147
+3.0,12:23,3.0,3.0,JAX 18,3.0,7.0,"Sam Darnold pass deep right intended for Justin Jefferson is intercepted by Darnell Savage in end zone and returned for 16 yards (tackle by Cam Robinson). Penalty on Arik Armstead: Defensive Illegal Blindside Block, 15 yards (offset) . Penalty on Cam Robinson: Unsportsmanlike Conduct / Offense, 15 yards (offset)",3.66,0.14,10.0,2024,147
+3.0,12:10,1.0,10.0,JAX 16,3.0,7.0,Travis Etienne up the middle for 15 yards (tackle by Camryn Bynum and Blake Cashman),-0.14,1.0,10.0,2024,147
+3.0,11:34,1.0,10.0,JAX 31,3.0,7.0,Travis Etienne up the middle for -1 yards (tackle by Blake Cashman),1.0,0.32,10.0,2024,147
+3.0,10:55,2.0,11.0,JAX 30,3.0,7.0,Travis Etienne up the middle for 1 yard (tackle by Jonathan Greenard),0.32,-0.23,10.0,2024,147
+3.0,10:14,3.0,10.0,JAX 31,3.0,7.0,Mac Jones pass incomplete short right intended for Gabriel Davis,-0.23,-1.31,10.0,2024,147
+3.0,10:09,4.0,10.0,JAX 31,3.0,7.0,"Logan Cooke punts 55 yards, fair catch by Brandon Powell at MIN-14",-1.31,0.28,10.0,2024,147
+3.0,10:01,1.0,10.0,MIN 14,3.0,7.0,Cam Akers up the middle for 4 yards (tackle by Jordan Jefferson),-0.28,-0.21,10.0,2024,147
+3.0,9:20,2.0,6.0,MIN 18,3.0,7.0,Sam Darnold pass complete short left to Justin Jefferson for 9 yards (tackle by Tyson Campbell),-0.21,0.74,10.0,2024,147
+3.0,8:41,1.0,10.0,MIN 27,3.0,7.0,"Sam Darnold pass deep middle is intercepted by Ronald Darby at JAC-20 and returned for no gain. Ronald Darby fumbles (forced by Jalen Nailor), recovered by Garrett Bradbury at MIN-23 (tackle by Jalen Nailor). Penalty on Tyson Campbell: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",0.74,1.07,10.0,2024,147
+3.0,8:15,1.0,10.0,MIN 32,3.0,7.0,Cam Akers up the middle for 3 yards (tackle by Devin Lloyd and Yasir Abdullah),1.07,0.93,10.0,2024,147
+3.0,7:38,2.0,7.0,MIN 35,3.0,7.0,Sam Darnold pass complete short right to Jalen Nailor for 11 yards (tackle by Darnell Savage),0.93,1.99,10.0,2024,147
+3.0,7:02,1.0,10.0,MIN 46,3.0,7.0,Sam Darnold pass complete short left to Aaron Jones for 5 yards (tackle by Josh Hines-Allen and Tyson Campbell),1.99,2.13,10.0,2024,147
+3.0,6:23,2.0,5.0,JAX 49,3.0,7.0,Sam Darnold pass complete short middle to Josh Oliver for 9 yards (tackle by Foyesade Oluokun),2.13,2.92,10.0,2024,147
+3.0,5:58,1.0,10.0,JAX 40,3.0,7.0,Aaron Jones right tackle for 4 yards (tackle by Devin Lloyd),2.92,2.91,10.0,2024,147
+3.0,5:16,2.0,6.0,JAX 36,3.0,7.0,"Penalty on Brian O'Neill: False Start, 5 yards (accepted) (no play)",2.91,2.24,10.0,2024,147
+3.0,5:03,2.0,11.0,JAX 41,3.0,7.0,"Sam Darnold pass complete short middle to Justin Jefferson for 13 yards (tackle by Jarrian Jones). Penalty on Tyson Campbell: Defensive Holding, 5 yards (declined)",2.24,3.71,10.0,2024,147
+3.0,4:42,1.0,10.0,JAX 28,3.0,7.0,Aaron Jones up the middle for 7 yards (tackle by Travon Walker and Foyesade Oluokun),3.71,4.11,10.0,2024,147
+3.0,4:28,2.0,3.0,JAX 21,3.0,7.0,Cam Akers up the middle for 6 yards (tackle by DaVon Hamilton),4.11,4.58,10.0,2024,147
+3.0,3:44,1.0,10.0,JAX 15,3.0,7.0,Cam Akers left end for -3 yards (tackle by Jeremiah Ledbetter and Tyson Campbell),4.58,3.56,10.0,2024,147
+3.0,3:02,2.0,13.0,JAX 18,3.0,7.0,Sam Darnold pass incomplete deep middle intended for Jalen Nailor,3.56,2.89,10.0,2024,147
+3.0,2:56,3.0,13.0,JAX 18,3.0,7.0,"Sam Darnold pass complete short right to Jordan Addison for no gain (tackle by Jarrian Jones). Penalty on Cam Robinson: Illegal Formation, 5 yards (accepted) (no play)",2.89,2.28,10.0,2024,147
+3.0,2:30,3.0,18.0,JAX 23,3.0,7.0,Sam Darnold pass complete short right to Cam Akers for 9 yards (tackle by Montaric Brown),2.28,2.51,10.0,2024,147
+3.0,1:45,4.0,9.0,JAX 14,6.0,7.0,John Parker Romo 33 yard field goal good,2.51,3.0,10.0,2024,147
+3.0,1:42,,,MIN 35,6.0,7.0,"John Parker Romo kicks off 65 yards, touchback.",0.0,0.94,10.0,2024,147
+3.0,1:42,1.0,10.0,JAX 30,6.0,7.0,Mac Jones sacked by Andrew Van Ginkel for -8 yards,0.94,-0.69,10.0,2024,147
+3.0,1:03,2.0,18.0,JAX 22,6.0,7.0,Mac Jones pass incomplete short left intended for Brian Thomas,-0.69,-1.35,10.0,2024,147
+3.0,0:58,3.0,18.0,JAX 22,6.0,7.0,Mac Jones pass complete short left to Evan Engram for 11 yards (tackle by Harrison Smith and Shaquill Griffin),-1.35,-1.18,10.0,2024,147
+3.0,0:12,4.0,7.0,JAX 33,6.0,7.0,"Logan Cooke punts 60 yards, returned by Brandon Powell for 9 yards (tackle by Andrew Wingard)",-1.18,0.14,10.0,2024,147
+4.0,15:00,1.0,10.0,MIN 16,6.0,7.0,Sam Darnold pass complete short right to Jordan Addison for 4 yards (tackle by Ronald Darby),-0.14,0.01,10.0,2024,147
+4.0,14:34,2.0,6.0,MIN 20,6.0,7.0,Cam Akers right end for 7 yards (tackle by Arik Armstead),0.01,0.74,10.0,2024,147
+4.0,13:53,1.0,10.0,MIN 27,6.0,7.0,Cam Akers left end for no gain (tackle by Devin Lloyd),0.74,0.2,10.0,2024,147
+4.0,13:10,2.0,10.0,MIN 27,6.0,7.0,Sam Darnold pass complete short middle to T.J. Hockenson for 26 yards (tackle by Foyesade Oluokun),0.2,2.46,10.0,2024,147
+4.0,12:29,1.0,10.0,JAX 47,6.0,7.0,Ty Chandler up the middle for 8 yards (tackle by Ventrell Miller),2.46,2.99,10.0,2024,147
+4.0,12:07,2.0,2.0,JAX 39,6.0,7.0,Ty Chandler up the middle for 4 yards (tackle by Devin Lloyd and DaVon Hamilton),2.99,3.25,10.0,2024,147
+4.0,11:29,1.0,10.0,JAX 35,6.0,7.0,Ty Chandler up the middle for 1 yard (tackle by DaVon Hamilton and Yasir Abdullah),3.25,2.84,10.0,2024,147
+4.0,11:00,2.0,9.0,JAX 34,6.0,7.0,Sam Darnold scrambles left end for 10 yards (tackle by Arik Armstead),2.84,3.97,10.0,2024,147
+4.0,10:20,1.0,10.0,JAX 24,6.0,7.0,Sam Darnold pass incomplete short right intended for Jordan Addison,3.97,3.43,10.0,2024,147
+4.0,10:12,2.0,10.0,JAX 24,6.0,7.0,Sam Darnold pass complete short left to T.J. Hockenson for 4 yards (tackle by Foyesade Oluokun),3.43,3.27,10.0,2024,147
+4.0,9:31,3.0,6.0,JAX 20,6.0,7.0,Sam Darnold pass complete short left to T.J. Hockenson for 5 yards (tackle by Foyesade Oluokun and Tyson Campbell),3.27,2.59,10.0,2024,147
+4.0,8:57,4.0,1.0,JAX 15,6.0,7.0,Sam Darnold up the middle for 1 yard (tackle by Travon Walker and Foyesade Oluokun),2.59,4.65,10.0,2024,147
+4.0,8:29,1.0,10.0,JAX 14,6.0,7.0,Jalen Nailor right end for -7 yards (tackle by Darnell Savage),4.65,3.15,10.0,2024,147
+4.0,7:58,2.0,17.0,JAX 21,6.0,7.0,Sam Darnold pass incomplete short middle intended for Josh Oliver,3.15,2.48,10.0,2024,147
+4.0,7:52,3.0,17.0,JAX 21,6.0,7.0,Ty Chandler up the middle for 5 yards (tackle by Yasir Abdullah),2.48,2.38,10.0,2024,147
+4.0,7:17,4.0,12.0,JAX 16,9.0,7.0,John Parker Romo 34 yard field goal good,2.38,3.0,10.0,2024,147
+4.0,7:14,,,MIN 35,9.0,7.0,"John Parker Romo kicks off 65 yards, touchback.",0.0,0.94,10.0,2024,147
+4.0,7:14,1.0,10.0,JAX 30,9.0,7.0,Travis Etienne up the middle for -3 yards (tackle by Jonathan Greenard),0.94,-0.01,10.0,2024,147
+4.0,6:39,2.0,13.0,JAX 27,9.0,7.0,"Mac Jones aborted snap, recovered by Harrison Phillips at JAC-26",-0.01,-3.91,10.0,2024,147
+4.0,6:35,1.0,10.0,JAX 25,9.0,7.0,Cam Akers up the middle for 11 yards (tackle by Ronald Darby and Foyesade Oluokun),3.91,4.65,10.0,2024,147
+4.0,5:52,1.0,10.0,JAX 14,9.0,7.0,Cam Akers left end for 2 yards (tackle by Ventrell Miller and Andre Cisco),4.65,4.33,10.0,2024,147
+4.0,5:13,2.0,8.0,JAX 12,9.0,7.0,Cam Akers up the middle for 1 yard (tackle by DaVon Hamilton),4.33,3.62,10.0,2024,147
+4.0,4:30,3.0,7.0,JAX 11,9.0,7.0,Sam Darnold pass incomplete short right intended for Justin Jefferson,3.62,2.7,10.0,2024,147
+4.0,4:26,4.0,7.0,JAX 11,12.0,7.0,John Parker Romo 29 yard field goal good,2.7,3.0,10.0,2024,147
+4.0,4:22,,,MIN 35,12.0,7.0,"John Parker Romo kicks off 65 yards, touchback.",0.0,0.94,10.0,2024,147
+4.0,4:22,1.0,10.0,JAX 30,12.0,7.0,Mac Jones pass complete short left to Brian Thomas for 2 yards (tackle by Stephon Gilmore),0.94,0.66,10.0,2024,147
+4.0,3:47,2.0,8.0,JAX 32,12.0,7.0,Mac Jones pass deep right intended for Gabriel Davis is intercepted by Byron Murphy at JAC-49 and returned for 2 yards (tackle by Gabriel Davis),0.66,-2.46,10.0,2024,147
+4.0,3:39,1.0,10.0,JAX 47,12.0,7.0,Aaron Jones up the middle for 5 yards (tackle by Jeremiah Ledbetter),2.46,2.59,10.0,2024,147
+4.0,3:00,2.0,5.0,JAX 42,12.0,7.0,Aaron Jones up the middle for 4 yards (tackle by Andre Cisco),2.59,2.28,10.0,2024,147
+4.0,2:53,,,,,,Timeout #1 by Jacksonville Jaguars,,,10.0,2024,147
+4.0,2:53,3.0,2.0,JAX 39,12.0,7.0,Sam Darnold sacked by Travon Walker for -8 yards,2.28,0.2,10.0,2024,147
+4.0,2:49,,,,,,Timeout #2 by Jacksonville Jaguars,,,10.0,2024,147
+4.0,2:49,4.0,9.0,JAX 46,12.0,7.0,Ryan Wright punts 29 yards out of bounds,0.2,0.06,10.0,2024,147
+4.0,2:42,1.0,10.0,JAX 17,12.0,7.0,Mac Jones pass complete short right to Evan Engram for -1 yards (tackle by Ivan Pace),-0.06,-0.73,10.0,2024,147
+4.0,2:18,2.0,11.0,JAX 16,12.0,7.0,Mac Jones pass complete short right to Evan Engram for 5 yards,-0.73,-0.75,10.0,2024,147
+4.0,2:13,3.0,6.0,JAX 21,12.0,7.0,"Mac Jones pass incomplete short right intended for Evan Engram Replay Assistant challenged the pass completion ruling, and the original play was overturned. Mac Jones pass complete deep right to Evan Engram for 11 yards (tackle by Josh Metellus)",-0.75,1.07,10.0,2024,147
+4.0,2:07,1.0,10.0,JAX 32,12.0,7.0,Mac Jones pass complete short left to Brian Thomas for 10 yards,1.07,1.8,10.0,2024,147
+4.0,2:03,1.0,10.0,JAX 43,12.0,7.0,"Mac Jones sacked by Blake Cashman for no gain. Penalty on Blake Cashman: Face Mask (15 Yards), 15 yards (accepted) (no play)",1.8,2.72,10.0,2024,147
+4.0,1:57,1.0,10.0,MIN 43,12.0,7.0,"Mac Jones pass deep right intended for Gabriel Davis is intercepted by Camryn Bynum in end zone and returned for no gain (tackle by Gabriel Davis) Replay Assistant challenged the runner was down by contact ruling, and the original play was overturned. Mac Jones pass deep right intended for Gabriel Davis is intercepted by Camryn Bynum at MIN-1 and returned for no gain (tackle by Gabriel Davis)",2.72,0.38,10.0,2024,147
+4.0,1:52,1.0,10.0,MIN 1,12.0,7.0,Sam Darnold up the middle for 1 yard (tackle by Travon Walker),-0.38,-0.71,10.0,2024,147
+4.0,1:50,,,,,,Timeout #3 by Jacksonville Jaguars,,,10.0,2024,147
+4.0,1:50,2.0,9.0,MIN 2,12.0,7.0,Aaron Jones up the middle for 2 yards (tackle by Devin Lloyd),-0.71,-1.07,10.0,2024,147
+4.0,1:04,,,,,,Timeout #1 by Minnesota Vikings,,,10.0,2024,147
+4.0,1:04,3.0,7.0,MIN 4,12.0,7.0,"Aaron Jones left guard for 6 yards (tackle by Andre Cisco). Penalty on Travon Walker: Unnecessary Roughness / Defense, 15 yards (accepted)",-1.07,0.61,10.0,2024,147
+4.0,0:51,1.0,10.0,MIN 25,12.0,7.0,Sam Darnold kneels for no gain,0.61,0.06,10.0,2024,147
+4.0,0:29,2.0,10.0,MIN 25,12.0,7.0,Sam Darnold kneels for -1 yards,0.06,-0.76,10.0,2024,147

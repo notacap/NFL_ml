@@ -1,0 +1,176 @@
+Quarter,Time,Down,ToGo,Location,NOR,CAR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Panthers won the coin toss and deferred, Saints to receive the opening kickoff.",,,9.0,2024,127
+1.0,15:00,,,CAR 35,0.0,0.0,"Eddy Piñeiro kicks off 67 yards, returned by Jermaine Jackson for 24 yards (tackle by Raheem Blackshear)",0.0,0.41,9.0,2024,127
+1.0,14:55,1.0,10.0,NOR 22,0.0,0.0,Alvin Kamara right end for 20 yards (tackle by Dane Jackson and Demani Richardson),0.41,1.73,9.0,2024,127
+1.0,14:20,1.0,10.0,NOR 42,0.0,0.0,Taysom Hill right tackle for 5 yards (tackle by LaBryan Ray),1.73,1.86,9.0,2024,127
+1.0,13:48,2.0,5.0,NOR 47,0.0,0.0,Derek Carr pass complete short left to Chris Olave for 13 yards (tackle by Michael Jackson),1.86,2.92,9.0,2024,127
+1.0,13:27,1.0,10.0,CAR 40,0.0,0.0,Derek Carr pass complete short right to Alvin Kamara for 10 yards (tackle by Josey Jewell),2.92,3.58,9.0,2024,127
+1.0,12:52,1.0,10.0,CAR 30,0.0,0.0,Alvin Kamara left end for 5 yards (tackle by Trevin Wallace),3.58,3.71,9.0,2024,127
+1.0,12:24,2.0,5.0,CAR 25,0.0,0.0,Alvin Kamara right end for 8 yards (tackle by A'Shawn Robinson and Trevin Wallace),3.71,4.44,9.0,2024,127
+1.0,11:48,1.0,10.0,CAR 17,0.0,0.0,Alvin Kamara right end for 6 yards (tackle by Cam Gill and LaBryan Ray),4.44,4.89,9.0,2024,127
+1.0,11:04,2.0,4.0,CAR 11,0.0,0.0,Derek Carr pass incomplete short middle,4.89,4.1,9.0,2024,127
+1.0,10:58,3.0,4.0,CAR 11,0.0,0.0,Derek Carr pass incomplete short right intended for Foster Moreau,4.1,2.77,9.0,2024,127
+1.0,10:54,4.0,4.0,CAR 11,3.0,0.0,Blake Grupe 29 yard field goal good,2.77,3.0,9.0,2024,127
+1.0,10:51,,,NOR 35,3.0,0.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,127
+1.0,10:51,1.0,10.0,CAR 30,3.0,0.0,Bryce Young pass complete short right to David Moore for 9 yards (tackle by Alontae Taylor),0.94,1.61,9.0,2024,127
+1.0,10:13,2.0,1.0,CAR 39,3.0,0.0,Xavier Legette left end for 6 yards (tackle by Pete Werner),1.61,1.93,9.0,2024,127
+1.0,9:40,1.0,10.0,CAR 45,3.0,0.0,Bryce Young pass incomplete short middle intended for Jonathan Mingo (defended by Alontae Taylor),1.93,1.38,9.0,2024,127
+1.0,9:32,2.0,10.0,CAR 45,3.0,0.0,Chuba Hubbard left tackle for 5 yards (tackle by Pete Werner and Alontae Taylor),1.38,1.36,9.0,2024,127
+1.0,8:49,3.0,5.0,CAR 50,3.0,0.0,"Bryce Young pass complete short right to Miles Sanders for -7 yards (tackle by Willie Gay). Penalty on Taylor Moton: Illegal Formation, 5 yards (declined)",1.36,-0.52,9.0,2024,127
+1.0,8:32,4.0,12.0,CAR 43,3.0,0.0,"Johnny Hekker punts 44 yards, fair catch by Jermaine Jackson at NO-13",-0.52,0.32,9.0,2024,127
+1.0,8:15,1.0,10.0,NOR 13,3.0,0.0,Alvin Kamara up the middle for 9 yards (tackle by Demani Richardson),-0.32,0.49,9.0,2024,127
+1.0,7:49,2.0,1.0,NOR 22,3.0,0.0,Alvin Kamara right end for 2 yards (tackle by LaBryan Ray and Jadeveon Clowney),0.49,0.54,9.0,2024,127
+1.0,7:10,1.0,10.0,NOR 24,3.0,0.0,"Derek Carr pass incomplete deep right intended for Chris Olave. Penalty on Xavier Woods: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",0.54,1.53,9.0,2024,127
+1.0,7:02,1.0,10.0,NOR 39,3.0,0.0,Alvin Kamara right guard for 5 yards (tackle by Josey Jewell and Michael Jackson),1.53,1.66,9.0,2024,127
+1.0,6:34,2.0,5.0,NOR 44,3.0,0.0,Derek Carr pass complete short right to Taysom Hill for 11 yards (tackle by Demani Richardson),1.66,2.59,9.0,2024,127
+1.0,5:54,1.0,10.0,CAR 45,3.0,0.0,Jermaine Jackson right end for -1 yards (tackle by Trevin Wallace),2.59,1.91,9.0,2024,127
+1.0,5:10,2.0,11.0,CAR 46,3.0,0.0,Derek Carr pass incomplete deep right intended for Mason Tipton (defended by Demani Richardson),1.91,1.22,9.0,2024,127
+1.0,5:03,3.0,11.0,CAR 46,3.0,0.0,Derek Carr pass complete deep middle to Juwan Johnson for 25 yards (tackle by Xavier Woods),1.22,4.17,9.0,2024,127
+1.0,4:32,1.0,10.0,CAR 21,3.0,0.0,Alvin Kamara left end for 3 yards (tackle by Josey Jewell and Demani Richardson),4.17,4.04,9.0,2024,127
+1.0,3:55,2.0,7.0,CAR 18,3.0,0.0,Alvin Kamara left end for 3 yards (tackle by Jonathan Harris and Cam Gill),4.04,3.81,9.0,2024,127
+1.0,3:17,3.0,4.0,CAR 15,3.0,0.0,Derek Carr pass incomplete short right intended for Alvin Kamara,3.81,2.52,9.0,2024,127
+1.0,3:11,4.0,4.0,CAR 15,6.0,0.0,Blake Grupe 33 yard field goal good,2.52,3.0,9.0,2024,127
+1.0,3:08,,,NOR 35,6.0,0.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,127
+1.0,3:08,1.0,10.0,CAR 30,6.0,0.0,Bryce Young pass complete short right to Jalen Coker for 18 yards (tackle by Alontae Taylor),0.94,2.13,9.0,2024,127
+1.0,2:28,1.0,10.0,CAR 48,6.0,0.0,Chuba Hubbard right guard for 4 yards (tackle by Carl Granderson),2.13,2.12,9.0,2024,127
+1.0,1:53,2.0,6.0,NOR 48,6.0,0.0,Bryce Young pass incomplete short right,2.12,1.42,9.0,2024,127
+1.0,1:45,3.0,6.0,NOR 48,6.0,0.0,Miles Sanders up the middle for -2 yards (tackle by Carl Granderson),1.42,-0.06,9.0,2024,127
+1.0,1:01,4.0,8.0,NOR 50,6.0,0.0,"Johnny Hekker punts, touchback.. Penalty on Roderic Teamer: Running Into the Kicker, 5 yards (accepted) (no play)",-0.06,0.27,9.0,2024,127
+1.0,0:54,4.0,3.0,NOR 45,6.0,0.0,"Johnny Hekker punts 37 yards, fair catch by Jermaine Jackson at NO-8",0.27,0.38,9.0,2024,127
+1.0,0:48,1.0,10.0,NOR 8,6.0,0.0,Taysom Hill left guard for 2 yards (tackle by A'Shawn Robinson and Cam Gill),-0.38,-0.63,9.0,2024,127
+1.0,0:13,2.0,8.0,NOR 10,6.0,0.0,Derek Carr pass complete short right to Alvin Kamara for no gain (tackle by Dane Jackson),-0.63,-1.19,9.0,2024,127
+2.0,15:00,3.0,8.0,NOR 10,6.0,0.0,Derek Carr pass incomplete short left intended for Mason Tipton,-1.19,-2.49,9.0,2024,127
+2.0,14:57,4.0,8.0,NOR 10,6.0,0.0,Matthew Hayball punts 30 yards out of bounds,-2.49,-2.92,9.0,2024,127
+2.0,14:49,1.0,10.0,NOR 40,6.0,0.0,"Penalty on Brady Christensen: False Start, 5 yards (accepted) (no play)",2.92,2.59,9.0,2024,127
+2.0,14:49,1.0,15.0,NOR 45,6.0,0.0,Bryce Young pass complete short middle to Chuba Hubbard for 5 yards (tackle by Pete Werner),2.59,2.37,9.0,2024,127
+2.0,14:13,2.0,10.0,NOR 40,6.0,0.0,Bryce Young pass complete short right to Ja'Tavion Sanders for 5 yards (tackle by Pete Werner),2.37,2.34,9.0,2024,127
+2.0,13:34,3.0,5.0,NOR 35,6.0,0.0,Bryce Young pass complete short middle to David Moore for 11 yards (tackle by Tyrann Mathieu),2.34,3.97,9.0,2024,127
+2.0,12:52,1.0,10.0,NOR 24,6.0,0.0,Miles Sanders left end for -3 yards (tackle by Jordan Howden),3.97,3.03,9.0,2024,127
+2.0,12:06,2.0,13.0,NOR 27,6.0,0.0,Chuba Hubbard right guard for 6 yards (tackle by Demario Davis and Nathan Shepherd),3.03,3.14,9.0,2024,127
+2.0,11:26,3.0,7.0,NOR 21,6.0,0.0,Bryce Young pass complete short left to Jalen Coker for 18 yards (tackle by Willie Gay),3.14,6.51,9.0,2024,127
+2.0,10:43,1.0,3.0,NOR 3,6.0,0.0,Chuba Hubbard left tackle for no gain (tackle by Demario Davis),6.51,5.53,9.0,2024,127
+2.0,10:03,2.0,3.0,NOR 3,6.0,6.0,"Bryce Young pass complete short middle to Xavier Legette for 3 yards, touchdown",5.53,7.0,9.0,2024,127
+2.0,9:59,,,NOR 15,6.0,7.0,Eddy Piñeiro kicks extra point good,0.0,0.0,9.0,2024,127
+2.0,9:59,,,CAR 35,6.0,7.0,"Eddy Piñeiro kicks off 62 yards, returned by Jordan Mims for 19 yards (tackle by Jordan Matthews and Claudin Cherelus)",0.0,0.41,9.0,2024,127
+2.0,9:50,1.0,10.0,NOR 22,6.0,7.0,"Derek Carr pass incomplete short left intended for Juwan Johnson. Penalty on Demani Richardson: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",0.41,1.4,9.0,2024,127
+2.0,9:50,1.0,10.0,NOR 37,6.0,7.0,Alvin Kamara right tackle for 6 yards (tackle by A'Shawn Robinson),1.4,1.67,9.0,2024,127
+2.0,9:26,2.0,4.0,NOR 43,6.0,7.0,Alvin Kamara right guard for 7 yards (tackle by Cam Gill),1.67,2.26,9.0,2024,127
+2.0,8:51,1.0,10.0,NOR 50,6.0,7.0,"Derek Carr pass complete short left to Foster Moreau for no gain. Foster Moreau fumbles (forced by Demani Richardson). Foster Moreau fumbles out of bounds. Penalty on Lucas Patrick: Ineligible Downfield Pass, 5 yards (accepted) (no play)",2.26,1.93,9.0,2024,127
+2.0,8:27,1.0,15.0,NOR 45,6.0,7.0,Alvin Kamara up the middle for 4 yards (tackle by Nick Thurman and Jadeveon Clowney),1.93,1.58,9.0,2024,127
+2.0,7:49,2.0,11.0,NOR 49,6.0,7.0,Derek Carr pass complete short middle to Taysom Hill for 15 yards (tackle by Demani Richardson),1.58,3.18,9.0,2024,127
+2.0,7:06,1.0,10.0,CAR 36,6.0,7.0,Derek Carr pass complete short middle to Cedrick Wilson for 18 yards (tackle by Demani Richardson),3.18,4.37,9.0,2024,127
+2.0,6:26,1.0,10.0,CAR 18,6.0,7.0,Jordan Mims left tackle for 3 yards (tackle by Demani Richardson),4.37,4.25,9.0,2024,127
+2.0,5:50,2.0,7.0,CAR 15,6.0,7.0,Alvin Kamara up the middle for 6 yards (tackle by Demani Richardson and Jaycee Horn),4.25,4.74,9.0,2024,127
+2.0,5:09,3.0,1.0,CAR 9,6.0,7.0,Taysom Hill left guard for 2 yards (tackle by Shy Tuttle and Josey Jewell),4.74,5.6,9.0,2024,127
+2.0,4:18,1.0,7.0,CAR 7,12.0,7.0,"Taysom Hill left tackle for 7 yards, touchdown",5.6,7.0,9.0,2024,127
+2.0,4:13,,,CAR 15,13.0,7.0,Blake Grupe kicks extra point good,0.0,0.0,9.0,2024,127
+2.0,4:13,,,NOR 35,13.0,7.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,127
+2.0,4:13,1.0,10.0,CAR 30,13.0,7.0,Chuba Hubbard up the middle for 5 yards (tackle by Nathan Shepherd and Jordan Howden),0.94,1.07,9.0,2024,127
+2.0,3:38,2.0,5.0,CAR 35,13.0,7.0,Bryce Young pass complete short left to Ja'Tavion Sanders for 15 yards (tackle by Ugo Amadi),1.07,2.26,9.0,2024,127
+2.0,2:56,1.0,10.0,CAR 50,13.0,7.0,Bryce Young scrambles right end for 3 yards (tackle by Ugo Amadi),2.26,2.12,9.0,2024,127
+2.0,2:15,2.0,7.0,NOR 47,13.0,7.0,Chuba Hubbard left guard for 5 yards (tackle by Pete Werner),2.12,2.08,9.0,2024,127
+2.0,2:00,3.0,2.0,NOR 42,13.0,7.0,Bryce Young pass complete short right to Xavier Legette for no gain (tackle by Alontae Taylor),2.08,0.46,9.0,2024,127
+2.0,1:53,,,,,,Timeout #1 by New Orleans Saints,,,9.0,2024,127
+2.0,1:53,4.0,2.0,NOR 42,13.0,7.0,"Penalty on Bryce Young: Delay of Game, 5 yards (accepted) (no play)",0.46,0.13,9.0,2024,127
+2.0,1:53,4.0,7.0,NOR 47,13.0,7.0,Johnny Hekker punts 35 yards downed by Thomas Incoom,0.13,0.35,9.0,2024,127
+2.0,1:42,1.0,10.0,NOR 12,13.0,7.0,Alvin Kamara left end for -1 yards (tackle by Charles Harris),-0.35,-0.85,9.0,2024,127
+2.0,1:37,2.0,11.0,NOR 11,13.0,7.0,Derek Carr pass incomplete short right intended for Taysom Hill,-0.85,-1.54,9.0,2024,127
+2.0,1:34,3.0,11.0,NOR 11,13.0,7.0,Derek Carr pass incomplete deep middle intended for Mason Tipton,-1.54,-2.49,9.0,2024,127
+2.0,1:24,4.0,11.0,NOR 11,13.0,7.0,"Matthew Hayball punts 46 yards, returned by Raheem Blackshear for 14 yards (tackle by Zach Wood and Dallin Holker). Penalty on Willie Gay: Personal Foul / Defense, 15 yards (accepted)",-2.49,-3.71,9.0,2024,127
+2.0,1:17,1.0,10.0,NOR 28,13.0,7.0,Chuba Hubbard left guard for 3 yards (tackle by Demario Davis and Nathan Shepherd),3.71,3.57,9.0,2024,127
+2.0,0:53,2.0,7.0,NOR 25,13.0,7.0,Bryce Young pass incomplete short left intended for David Moore (defended by Alontae Taylor),3.57,2.87,9.0,2024,127
+2.0,0:48,3.0,7.0,NOR 25,13.0,7.0,Bryce Young sacked by and Carl Granderson for -5 yards and Nathan Shepherd for -5 yards,2.87,1.41,9.0,2024,127
+2.0,0:42,,,,,,Timeout #2 by New Orleans Saints,,,9.0,2024,127
+2.0,0:42,4.0,12.0,NOR 30,13.0,10.0,Eddy Piñeiro 48 yard field goal good,1.41,3.0,9.0,2024,127
+2.0,0:38,,,CAR 35,13.0,10.0,"Eddy Piñeiro kicks off 57 yards, returned by Jermaine Jackson for 16 yards (tackle by Chau Smith-Wade)",0.0,0.54,9.0,2024,127
+2.0,0:32,1.0,10.0,NOR 24,13.0,10.0,Alvin Kamara right guard for 10 yards (tackle by Jaycee Horn and Chau Smith-Wade),0.54,1.2,9.0,2024,127
+2.0,0:08,1.0,10.0,NOR 34,13.0,10.0,Derek Carr pass complete short middle to Alvin Kamara for 15 yards (tackle by Caleb Farley and Chau Smith-Wade),1.2,2.19,9.0,2024,127
+2.0,0:02,,,,,,Timeout #3 by New Orleans Saints,,,9.0,2024,127
+2.0,0:02,,,,,,Timeout #1 by Carolina Panthers,,,9.0,2024,127
+2.0,0:02,1.0,10.0,NOR 49,13.0,10.0,Derek Carr pass complete short middle to Jordan Mims for 25 yards (tackle by Chau Smith-Wade),2.19,3.84,9.0,2024,127
+3.0,15:00,,,NOR 35,13.0,10.0,"Blake Grupe kicks off 59 yards, returned by Raheem Blackshear for 18 yards (tackle by D'Marco Jackson). Penalty on Sam Franklin: Offensive Holding, 10 yards (accepted)",0.0,-0.28,9.0,2024,127
+3.0,14:54,1.0,10.0,CAR 14,13.0,10.0,Chuba Hubbard up the middle for 1 yard (tackle by Carl Granderson and Pete Werner),-0.28,-0.64,9.0,2024,127
+3.0,14:13,2.0,9.0,CAR 15,13.0,10.0,Bryce Young pass complete short right to Ja'Tavion Sanders for 46 yards (tackle by Jordan Howden and Shemar Jean-Charles),-0.64,2.98,9.0,2024,127
+3.0,13:22,1.0,10.0,NOR 39,13.0,10.0,Chuba Hubbard left guard for 6 yards (tackle by Khalen Saunders),2.98,3.25,9.0,2024,127
+3.0,12:46,2.0,4.0,NOR 33,13.0,10.0,Bryce Young pass incomplete deep right intended for David Moore (defended by Alontae Taylor),3.25,2.54,9.0,2024,127
+3.0,12:36,3.0,4.0,NOR 33,13.0,10.0,Bryce Young pass complete short middle to Ja'Tavion Sanders for 21 yards (tackle by Tyrann Mathieu and Jordan Howden),2.54,4.78,9.0,2024,127
+3.0,11:49,1.0,10.0,NOR 12,13.0,10.0,Chuba Hubbard left tackle for 2 yards (tackle by Cameron Jordan),4.78,4.45,9.0,2024,127
+3.0,11:20,2.0,8.0,NOR 10,13.0,10.0,Bryce Young scrambles left end for 9 yards (tackle by Khalen Saunders and Pete Werner),4.45,6.97,9.0,2024,127
+3.0,10:45,,,,,,Timeout #1 by New Orleans Saints,,,9.0,2024,127
+3.0,10:45,1.0,1.0,NOR 1,13.0,10.0,Chuba Hubbard up the middle for no gain (tackle by Khristian Boyd),6.97,5.91,9.0,2024,127
+3.0,9:59,2.0,1.0,NOR 1,13.0,16.0,"Chuba Hubbard up the middle for 1 yard, touchdown",5.91,7.0,9.0,2024,127
+3.0,9:55,,,NOR 15,13.0,17.0,Eddy Piñeiro kicks extra point good,0.0,0.0,9.0,2024,127
+3.0,9:55,,,CAR 35,13.0,17.0,"Penalty on Payton Turner: Unnecessary Roughness / Defense, 15 yards (declined) (no play)",0.0,0.0,9.0,2024,127
+3.0,9:55,,,CAR 35,13.0,17.0,"Eddy Piñeiro kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,127
+3.0,9:55,1.0,10.0,NOR 30,13.0,17.0,Alvin Kamara left end for 4 yards (tackle by A'Shawn Robinson and Charles Harris),0.94,0.93,9.0,2024,127
+3.0,9:25,2.0,6.0,NOR 34,13.0,17.0,Derek Carr pass incomplete short right,0.93,0.23,9.0,2024,127
+3.0,9:20,3.0,6.0,NOR 34,13.0,17.0,Derek Carr pass complete short middle to Marquez Valdes-Scantling for 5 yards (tackle by Dane Jackson),0.23,-0.78,9.0,2024,127
+3.0,8:37,4.0,1.0,NOR 39,13.0,17.0,Matthew Hayball left end for 11 yards (tackle by Claudin Cherelus),-0.78,2.26,9.0,2024,127
+3.0,8:02,1.0,10.0,NOR 50,13.0,17.0,Derek Carr pass incomplete short right,2.26,1.71,9.0,2024,127
+3.0,7:54,2.0,10.0,NOR 50,13.0,17.0,Derek Carr pass complete short right to Taysom Hill for 6 yards (tackle by Jadeveon Clowney),1.71,1.82,9.0,2024,127
+3.0,7:10,,,,,,Timeout #2 by New Orleans Saints,,,9.0,2024,127
+3.0,7:10,3.0,4.0,CAR 44,13.0,17.0,Derek Carr pass complete short right to Alvin Kamara for 3 yards (tackle by Xavier Woods),1.82,0.53,9.0,2024,127
+3.0,6:23,4.0,1.0,CAR 41,13.0,17.0,Taysom Hill right end for 3 yards (tackle by Shy Tuttle and Nick Thurman),0.53,3.05,9.0,2024,127
+3.0,5:44,1.0,10.0,CAR 38,13.0,17.0,Jordan Mims right end for 6 yards (tackle by Josey Jewell and Nick Thurman),3.05,3.32,9.0,2024,127
+3.0,5:01,2.0,4.0,CAR 32,13.0,17.0,Jordan Mims left tackle for -1 yards (tackle by Michael Jackson),3.32,2.48,9.0,2024,127
+3.0,4:28,3.0,5.0,CAR 33,13.0,17.0,Taysom Hill pass incomplete short left intended for Adam Prentice,2.48,1.17,9.0,2024,127
+3.0,4:20,4.0,5.0,CAR 33,16.0,17.0,Blake Grupe 51 yard field goal good,1.17,3.0,9.0,2024,127
+3.0,4:15,,,NOR 35,16.0,17.0,"Blake Grupe kicks off 61 yards, returned by Raheem Blackshear for 21 yards (tackle by Adam Prentice and D'Marco Jackson)",0.0,0.61,9.0,2024,127
+3.0,4:10,1.0,10.0,CAR 25,16.0,17.0,Bryce Young pass complete short left to Chuba Hubbard for -5 yards (tackle by Pete Werner),0.61,-0.61,9.0,2024,127
+3.0,3:33,2.0,15.0,CAR 20,16.0,17.0,Bryce Young pass incomplete short right intended for Xavier Legette,-0.61,-1.29,9.0,2024,127
+3.0,3:28,3.0,15.0,CAR 20,16.0,17.0,Bryce Young pass complete short left to Miles Sanders for 2 yards (tackle by Bryan Bresee),-1.29,-1.9,9.0,2024,127
+3.0,2:43,4.0,13.0,CAR 22,16.0,17.0,"Johnny Hekker punts 48 yards, fair catch by Jermaine Jackson at NO-30",-1.9,-0.94,9.0,2024,127
+3.0,2:35,1.0,10.0,NOR 30,16.0,17.0,Alvin Kamara left end for 3 yards (tackle by LaBryan Ray),0.94,0.8,9.0,2024,127
+3.0,2:01,2.0,7.0,NOR 33,16.0,17.0,Alvin Kamara right tackle for 5 yards (tackle by Cam Gill and LaBryan Ray),0.8,0.76,9.0,2024,127
+3.0,1:18,3.0,2.0,NOR 38,16.0,17.0,Derek Carr pass complete short middle to Alvin Kamara for 20 yards (tackle by Demani Richardson and Trevin Wallace),0.76,2.79,9.0,2024,127
+3.0,0:44,1.0,10.0,CAR 42,16.0,17.0,Alvin Kamara left end for -1 yards (tackle by Nick Thurman),2.79,2.11,9.0,2024,127
+3.0,0:04,2.0,11.0,CAR 43,16.0,17.0,Jordan Mims left tackle for 4 yards (tackle by Josey Jewell and Nick Thurman),2.11,1.95,9.0,2024,127
+4.0,15:00,3.0,7.0,CAR 39,16.0,17.0,Derek Carr pass complete short middle to Taysom Hill for 9 yards (tackle by Demani Richardson),1.95,3.58,9.0,2024,127
+4.0,14:24,1.0,10.0,CAR 30,16.0,17.0,Alvin Kamara right guard for 4 yards (tackle by Charles Harris),3.58,3.57,9.0,2024,127
+4.0,13:43,2.0,6.0,CAR 26,16.0,17.0,Alvin Kamara left guard for 6 yards (tackle by Nick Thurman and Xavier Woods),3.57,4.24,9.0,2024,127
+4.0,12:54,1.0,10.0,CAR 20,16.0,17.0,Derek Carr pass incomplete short right,4.24,3.69,9.0,2024,127
+4.0,12:44,2.0,10.0,CAR 20,16.0,17.0,Alvin Kamara right end for 3 yards (tackle by Jadeveon Clowney),3.69,3.36,9.0,2024,127
+4.0,12:02,3.0,7.0,CAR 17,22.0,17.0,"Derek Carr pass complete deep right to Foster Moreau for 17 yards, touchdown",3.36,7.0,9.0,2024,127
+4.0,11:55,,,CAR 2,22.0,17.0,Two Point Attempt: Derek Carr pass incomplete intended for intended for Juwan Johnson,1.0,-1.0,9.0,2024,127
+4.0,11:55,,,NOR 35,22.0,17.0,"Blake Grupe kicks off 63 yards, recovered by Miles Sanders at CAR-3 (tackle by Anfernee Orji)",0.0,-0.06,9.0,2024,127
+4.0,11:50,1.0,10.0,CAR 17,22.0,17.0,Chuba Hubbard up the middle for 6 yards (tackle by Demario Davis),-0.06,0.35,9.0,2024,127
+4.0,11:12,2.0,4.0,CAR 23,22.0,17.0,"Bryce Young sacked by Demario Davis for no gain. Penalty on Demario Davis: Face Mask (15 Yards), 15 yards (accepted) (no play)",0.35,1.47,9.0,2024,127
+4.0,10:44,1.0,10.0,CAR 38,22.0,17.0,Chuba Hubbard up the middle for 12 yards (tackle by Payton Turner),1.47,2.26,9.0,2024,127
+4.0,10:06,1.0,10.0,NOR 50,22.0,17.0,Deven Thompkins left end for -2 yards (tackle by Payton Turner),2.26,1.44,9.0,2024,127
+4.0,9:25,2.0,12.0,CAR 48,22.0,17.0,Bryce Young pass deep right intended for Xavier Legette is intercepted by Shemar Jean-Charles at NO-26 and returned for no gain (tackle by Xavier Legette),1.44,-0.67,9.0,2024,127
+4.0,9:14,1.0,10.0,NOR 26,22.0,17.0,Alvin Kamara up the middle for 8 yards (tackle by A'Shawn Robinson and Trevin Wallace),0.67,1.21,9.0,2024,127
+4.0,8:41,2.0,2.0,NOR 34,22.0,17.0,Alvin Kamara up the middle for 3 yards (tackle by Charles Harris),1.21,1.4,9.0,2024,127
+4.0,8:05,1.0,10.0,NOR 37,22.0,17.0,"Jordan Mims left end for 1 yard (tackle by Demani Richardson). Penalty on Dallin Holker: Offensive Holding, 10 yards (accepted)",1.4,0.81,9.0,2024,127
+4.0,7:42,1.0,19.0,NOR 28,22.0,17.0,"Derek Carr pass complete short middle to Jordan Mims for no gain (tackle by Trevin Wallace). Penalty on Trevor Penning: Offensive Holding, 10 yards (accepted) (no play)",0.81,-0.1,9.0,2024,127
+4.0,7:19,1.0,29.0,NOR 18,22.0,17.0,Derek Carr pass incomplete short right intended for Alvin Kamara,-0.1,-1.82,9.0,2024,127
+4.0,7:17,2.0,29.0,NOR 18,22.0,17.0,Alvin Kamara up the middle for 12 yards (tackle by Xavier Woods and Demani Richardson),-1.82,-0.76,9.0,2024,127
+4.0,6:35,3.0,17.0,NOR 30,22.0,17.0,Derek Carr pass complete short middle to Cedrick Wilson for 16 yards (tackle by Chau Smith-Wade),-0.76,-0.32,9.0,2024,127
+4.0,5:49,4.0,1.0,NOR 46,22.0,17.0,"Penalty on Derek Carr: Delay of Game, 4 yards (accepted) (no play)",-0.32,-0.59,9.0,2024,127
+4.0,5:48,4.0,5.0,NOR 42,22.0,17.0,"Matthew Hayball punts 43 yards, fair catch by David Moore at CAR-15",-0.59,0.22,9.0,2024,127
+4.0,5:42,1.0,10.0,CAR 15,22.0,17.0,Bryce Young pass incomplete short right intended for Chuba Hubbard,-0.22,-0.71,9.0,2024,127
+4.0,5:37,2.0,10.0,CAR 15,22.0,17.0,Bryce Young pass complete short right to Xavier Legette for 4 yards (tackle by Jordan Howden and Demario Davis),-0.71,-0.88,9.0,2024,127
+4.0,4:54,3.0,6.0,CAR 19,22.0,17.0,Bryce Young pass incomplete short right,-0.88,-2.14,9.0,2024,127
+4.0,4:46,4.0,6.0,CAR 19,22.0,17.0,"Johnny Hekker punts 52 yards, returned by Jermaine Jackson for 7 yards (tackle by Jon Rhattigan and Jacoby Windmon). Penalty on Roderic Teamer: Offensive Holding, 10 yards (accepted)",-2.14,-0.67,9.0,2024,127
+4.0,4:35,1.0,10.0,NOR 26,22.0,17.0,"Alvin Kamara left tackle for 2 yards (tackle by A'Shawn Robinson and Demani Richardson). Penalty on Trevor Penning: Offensive Facemask, 13 yards (accepted) (no play)",0.67,-0.67,9.0,2024,127
+4.0,4:28,1.0,23.0,NOR 13,22.0,17.0,Alvin Kamara up the middle for 7 yards (tackle by A'Shawn Robinson),-0.67,-0.68,9.0,2024,127
+4.0,3:48,2.0,16.0,NOR 20,22.0,17.0,Alvin Kamara right end for 3 yards (tackle by Shy Tuttle),-0.68,-0.96,9.0,2024,127
+4.0,3:42,,,,,,Timeout #1 by Carolina Panthers,,,9.0,2024,127
+4.0,3:42,3.0,13.0,NOR 23,22.0,17.0,Alvin Kamara left end for 1 yard (tackle by Chau Smith-Wade),-0.96,-1.77,9.0,2024,127
+4.0,3:39,4.0,12.0,NOR 24,22.0,17.0,"Matthew Hayball punts 50 yards, returned by Raheem Blackshear for 10 yards (tackle by D'Marco Jackson)",-1.77,-1.33,9.0,2024,127
+4.0,3:26,1.0,10.0,CAR 36,22.0,17.0,Bryce Young pass incomplete deep right intended for Jalen Coker,1.33,0.79,9.0,2024,127
+4.0,3:20,2.0,10.0,CAR 36,22.0,17.0,Bryce Young pass incomplete deep right intended for Ja'Tavion Sanders,0.79,0.1,9.0,2024,127
+4.0,3:14,3.0,10.0,CAR 36,22.0,17.0,Bryce Young pass complete deep middle to Xavier Legette for 26 yards (tackle by Shemar Jean-Charles and Jordan Howden),0.1,3.05,9.0,2024,127
+4.0,2:33,1.0,10.0,NOR 38,22.0,17.0,"Bryce Young pass incomplete deep right intended for Ja'Tavion Sanders. Penalty on Demario Davis: Defensive Pass Interference, 22 yards (accepted) (no play)",3.05,4.51,9.0,2024,127
+4.0,2:24,1.0,10.0,NOR 16,22.0,23.0,"Chuba Hubbard up the middle for 16 yards, touchdown",4.51,7.0,9.0,2024,127
+4.0,2:18,,,NOR 2,22.0,23.0,"Penalty on Bryce Young: Delay of Game, 5 yards (accepted) (no play)",0.0,1.0,9.0,2024,127
+4.0,2:18,,,NOR 7,22.0,23.0,"Two Point Attempt: Bryce Young pass incomplete, sacked by Bryce Young sacked by",1.0,-1.0,9.0,2024,127
+4.0,2:18,,,CAR 35,22.0,23.0,"Eddy Piñeiro kicks off 65 yards, touchback.",0.0,0.28,9.0,2024,127
+4.0,2:18,1.0,10.0,NOR 20,22.0,23.0,Alvin Kamara right tackle for 4 yards (tackle by Charles Harris),0.28,0.27,9.0,2024,127
+4.0,2:00,2.0,6.0,NOR 24,22.0,23.0,Derek Carr pass complete short middle to Juwan Johnson for 16 yards (tackle by Xavier Woods),0.27,1.6,9.0,2024,127
+4.0,1:40,1.0,10.0,NOR 40,22.0,23.0,Derek Carr pass incomplete short middle intended for Alvin Kamara,1.6,1.05,9.0,2024,127
+4.0,1:38,2.0,10.0,NOR 40,22.0,23.0,Derek Carr sacked by Charles Harris for -6 yards,1.05,-0.43,9.0,2024,127
+4.0,1:17,3.0,16.0,NOR 34,22.0,23.0,Derek Carr pass complete short middle to Alvin Kamara for 12 yards (tackle by Caleb Farley),-0.43,-0.32,9.0,2024,127
+4.0,1:05,,,,,,Timeout #3 by New Orleans Saints,,,9.0,2024,127
+4.0,1:05,4.0,4.0,NOR 46,22.0,23.0,Derek Carr pass incomplete deep left intended for Cedrick Wilson (defended by Michael Jackson),-0.32,-2.59,9.0,2024,127
+4.0,1:04,1.0,10.0,NOR 45,22.0,23.0,Bryce Young kneels for -2 yards,2.59,1.77,9.0,2024,127
+4.0,0:37,2.0,12.0,NOR 47,22.0,23.0,Bryce Young kneels for -1 yards,1.77,0.96,9.0,2024,127

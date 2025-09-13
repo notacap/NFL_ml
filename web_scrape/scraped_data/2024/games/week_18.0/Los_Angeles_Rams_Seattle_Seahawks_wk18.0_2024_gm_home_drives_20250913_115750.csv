@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,LAR 30,4,2:11,12,Punt,1,Rams,18.0,2024,271
+2,1,9:22,LAR 16,3,0:50,5,Punt,1,Rams,18.0,2024,271
+3,1,5:21,LAR 37,9,4:44,44,Field Goal,1,Rams,18.0,2024,271
+4,2,12:48,LAR 22,8,4:01,78,Touchdown,1,Rams,18.0,2024,271
+5,2,3:21,LAR 45,3,1:03,3,Interception,1,Rams,18.0,2024,271
+6,2,0:53,LAR 20,5,0:53,40,Field Goal,1,Rams,18.0,2024,271
+7,3,13:22,LAR 21,9,5:28,40,Field Goal,1,Rams,18.0,2024,271
+8,3,3:00,LAR 30,9,5:17,70,Touchdown,1,Rams,18.0,2024,271
+9,4,11:11,LAR 22,7,3:42,58,Field Goal,1,Rams,18.0,2024,271
+10,4,3:19,LAR 30,12,3:01,61,Downs,1,Rams,18.0,2024,271

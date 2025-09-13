@@ -1,0 +1,177 @@
+Quarter,Time,Down,ToGo,Location,NOR,TAM,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Saints won the coin toss and deferred, Buccaneers to receive the opening kickoff.",,,13.0,2022,195
+1.0,15:00,,,NOR 35,0.0,0.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,195
+1.0,15:00,1.0,10.0,TAM 25,0.0,0.0,Rachaad White up the middle for no gain (tackle by David Onyemata and Tanoh Kpassagnon),0.61,0.06,13.0,2022,195
+1.0,14:27,2.0,10.0,TAM 25,0.0,0.0,Tom Brady pass complete short right to Chris Godwin for 14 yards (tackle by Marcus Maye),0.06,1.53,13.0,2022,195
+1.0,13:52,1.0,10.0,TAM 39,0.0,0.0,Rachaad White left end for 2 yards (tackle by Demario Davis and Kaden Elliss),1.53,1.26,13.0,2022,195
+1.0,13:19,2.0,8.0,TAM 41,0.0,0.0,Rachaad White up the middle for 6 yards (tackle by Carl Granderson and Alontae Taylor),1.26,1.36,13.0,2022,195
+1.0,12:39,3.0,2.0,TAM 47,0.0,0.0,Tom Brady pass complete short right to Chris Godwin for 6 yards (tackle by Bradley Roby),1.36,2.46,13.0,2022,195
+1.0,12:11,1.0,10.0,NOR 47,0.0,0.0,"Tom Brady pass complete short left to Russell Gage for 11 yards (tackle by Alontae Taylor). Penalty on Alontae Taylor: Defensive Holding, 5 yards (declined)",2.46,3.18,13.0,2022,195
+1.0,11:55,1.0,10.0,NOR 36,0.0,0.0,Rachaad White right tackle for 6 yards (tackle by Kaden Elliss),3.18,3.45,13.0,2022,195
+1.0,11:09,2.0,4.0,NOR 30,0.0,0.0,Tom Brady pass incomplete short left intended for Rachaad White,3.45,2.74,13.0,2022,195
+1.0,11:04,3.0,4.0,NOR 30,0.0,0.0,Tom Brady pass complete short middle to Leonard Fournette for 8 yards (tackle by Demario Davis),2.74,4.11,13.0,2022,195
+1.0,10:29,1.0,10.0,NOR 22,0.0,0.0,Leonard Fournette right end for 5 yards (tackle by Marcus Maye),4.11,4.29,13.0,2022,195
+1.0,9:49,,,,,,Timeout #1 by Tampa Bay Buccaneers,,,13.0,2022,195
+1.0,9:49,2.0,5.0,NOR 17,0.0,0.0,Tom Brady pass complete short middle to Leonard Fournette for 4 yards (tackle by Kaden Elliss and Demario Davis),4.29,4.39,13.0,2022,195
+1.0,9:12,3.0,1.0,NOR 13,0.0,0.0,Leonard Fournette right guard for 7 yards (tackle by Marcus Maye),4.39,5.83,13.0,2022,195
+1.0,8:33,1.0,6.0,NOR 6,0.0,0.0,Leonard Fournette up the middle for 1 yard (tackle by David Onyemata and Marcus Maye),5.83,5.15,13.0,2022,195
+1.0,7:54,2.0,5.0,NOR 5,0.0,0.0,Tom Brady pass complete short left to Chris Godwin for 1 yard (tackle by Marcus Maye and Demario Davis),5.15,4.49,13.0,2022,195
+1.0,7:10,3.0,4.0,NOR 4,0.0,0.0,Tom Brady pass complete short right to Leonard Fournette for 1 yard (tackle by Marcus Maye),4.49,3.04,13.0,2022,195
+1.0,6:26,4.0,3.0,NOR 3,0.0,3.0,Ryan Succop 21 yard field goal good,3.04,3.0,13.0,2022,195
+1.0,6:25,,,TAM 35,0.0,3.0,"Jake Camarda kicks off 66 yards, returned by Rashid Shaheed for 30 yards (tackle by Carlton Davis)",0.0,0.87,13.0,2022,195
+1.0,6:20,1.0,10.0,NOR 29,0.0,3.0,Alvin Kamara left guard for 1 yard (tackle by Lavonte David),0.87,0.46,13.0,2022,195
+1.0,5:47,2.0,9.0,NOR 30,0.0,3.0,Alvin Kamara left end for 4 yards (tackle by Lavonte David),0.46,0.3,13.0,2022,195
+1.0,5:10,3.0,5.0,NOR 34,0.0,3.0,Andy Dalton sacked by Lavonte David for -8 yards,0.3,-1.63,13.0,2022,195
+1.0,4:19,4.0,13.0,NOR 26,0.0,3.0,"Blake Gillikin punts 55 yards, returned by Jaelon Darden for 5 yards (tackle by Zach Wood and Isaac Yiadom)",-1.63,-0.54,13.0,2022,195
+1.0,4:07,1.0,10.0,TAM 24,0.0,3.0,Tom Brady pass complete short left to Leonard Fournette for 11 yards (tackle by Malcolm Roach),0.54,1.27,13.0,2022,195
+1.0,3:25,1.0,10.0,TAM 35,0.0,3.0,Leonard Fournette right guard for 4 yards (tackle by Tyrann Mathieu),1.27,1.26,13.0,2022,195
+1.0,2:49,2.0,6.0,TAM 39,0.0,3.0,Tom Brady pass complete short right to Cade Otton for 2 yards (tackle by Demario Davis),1.26,0.83,13.0,2022,195
+1.0,2:01,3.0,4.0,TAM 41,0.0,3.0,Tom Brady pass incomplete short right intended for Rachaad White,0.83,-0.65,13.0,2022,195
+1.0,2:01,4.0,4.0,TAM 41,0.0,3.0,"Jake Camarda punts 46 yards, fair catch by Rashid Shaheed at NO-13",-0.65,0.32,13.0,2022,195
+1.0,1:53,1.0,10.0,NOR 13,0.0,3.0,Andy Dalton pass incomplete short left intended for Chris Olave (defended by Jamel Dean),-0.32,-0.77,13.0,2022,195
+1.0,1:50,2.0,10.0,NOR 13,0.0,3.0,Andy Dalton pass complete deep left to Rashid Shaheed for 40 yards (tackle by Jamel Dean),-0.77,2.46,13.0,2022,195
+1.0,1:05,1.0,10.0,TAM 47,0.0,3.0,Mark Ingram up the middle for 4 yards (tackle by Keanu Neal),2.46,2.45,13.0,2022,195
+1.0,0:01,2.0,6.0,TAM 43,0.0,3.0,"Taysom Hill up the middle for 6 yards (tackle by Anthony Nelson). Penalty on James Hurst: Offensive Holding, 10 yards (accepted) (no play)",2.45,1.1,13.0,2022,195
+1.0,0:03,2.0,16.0,NOR 47,0.0,3.0,Andy Dalton pass complete short right to Jarvis Landry for 8 yards (tackle by Logan Ryan and Devin White),1.1,1.49,13.0,2022,195
+2.0,15:00,3.0,8.0,TAM 45,0.0,3.0,Andy Dalton pass incomplete short right intended for Adam Trautman,1.49,0.27,13.0,2022,195
+2.0,14:56,4.0,8.0,TAM 45,0.0,3.0,"Blake Gillikin punts 32 yards, fair catch by Jaelon Darden at TB-13",0.27,0.32,13.0,2022,195
+2.0,14:49,1.0,10.0,TAM 13,0.0,3.0,Rachaad White right guard for 2 yards (tackle by Kaden Elliss),-0.32,-0.57,13.0,2022,195
+2.0,14:09,2.0,8.0,TAM 15,0.0,3.0,Tom Brady pass incomplete short middle intended for Cade Otton (defended by Shy Tuttle),-0.57,-1.18,13.0,2022,195
+2.0,14:09,3.0,8.0,TAM 15,0.0,3.0,"Tom Brady pass incomplete deep right intended for Russell Gage. Penalty on Paulson Adebo: Defensive Holding, 5 yards (accepted) (no play)",-1.18,0.28,13.0,2022,195
+2.0,14:03,1.0,10.0,TAM 20,0.0,3.0,Tom Brady pass complete short left to Ko Kieft for 12 yards (tackle by Kaden Elliss and Alontae Taylor),0.28,1.07,13.0,2022,195
+2.0,13:15,1.0,10.0,TAM 32,0.0,3.0,Tom Brady pass incomplete deep left intended for Scott Miller (defended by Alontae Taylor),1.07,0.53,13.0,2022,195
+2.0,13:07,2.0,10.0,TAM 32,0.0,3.0,Rachaad White left guard for 2 yards (tackle by Malcolm Roach),0.53,0.1,13.0,2022,195
+2.0,12:31,3.0,8.0,TAM 34,0.0,3.0,Tom Brady pass incomplete deep right intended for Julio Jones,0.1,-1.11,13.0,2022,195
+2.0,12:25,4.0,8.0,TAM 34,0.0,3.0,"Jake Camarda punts 66 yards, touchback.",-1.11,-0.28,13.0,2022,195
+2.0,12:17,1.0,10.0,NOR 20,0.0,3.0,Mark Ingram up the middle for 5 yards (tackle by Rakeem Nunez-Roches),0.28,0.41,13.0,2022,195
+2.0,11:43,2.0,5.0,NOR 25,0.0,3.0,Taysom Hill up the middle for 1 yard (tackle by Carl Nassib),0.41,-0.16,13.0,2022,195
+2.0,11:03,3.0,4.0,NOR 26,0.0,3.0,Andy Dalton pass complete short left to Rashid Shaheed for 19 yards (tackle by Jamel Dean),-0.16,1.93,13.0,2022,195
+2.0,10:21,1.0,10.0,NOR 45,0.0,3.0,Alvin Kamara right end for 4 yards (tackle by Carlton Davis),1.93,1.92,13.0,2022,195
+2.0,9:46,2.0,6.0,NOR 49,0.0,3.0,Rashid Shaheed left end for no gain (tackle by Lavonte David),1.92,1.22,13.0,2022,195
+2.0,9:02,3.0,6.0,NOR 49,0.0,3.0,Andy Dalton pass complete short right to Adam Trautman for 20 yards (tackle by Carlton Davis),1.22,3.51,13.0,2022,195
+2.0,8:29,1.0,10.0,TAM 31,0.0,3.0,Andy Dalton scrambles right end for 1 yard (tackle by Vita Vea),3.51,3.1,13.0,2022,195
+2.0,7:41,2.0,9.0,TAM 30,6.0,3.0,"Andy Dalton pass complete deep left to Taysom Hill for 30 yards, touchdown",3.1,7.0,13.0,2022,195
+2.0,7:33,,,TAM 15,7.0,3.0,Wil Lutz kicks extra point good,0.0,0.0,13.0,2022,195
+2.0,7:33,,,NOR 35,7.0,3.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,195
+2.0,7:33,1.0,10.0,TAM 25,7.0,3.0,Leonard Fournette right tackle for 5 yards (tackle by Marcus Maye and Marcus Davenport),0.61,0.74,13.0,2022,195
+2.0,7:03,2.0,5.0,TAM 30,7.0,3.0,Tom Brady pass complete short left to Chris Godwin for 5 yards (tackle by Paulson Adebo),0.74,1.27,13.0,2022,195
+2.0,6:31,1.0,10.0,TAM 35,7.0,3.0,Leonard Fournette left end for -1 yards (tackle by Carl Granderson),1.27,0.59,13.0,2022,195
+2.0,5:56,2.0,11.0,TAM 34,7.0,3.0,Tom Brady pass complete short left to Leonard Fournette for -2 yards (tackle by Alontae Taylor),0.59,-0.36,13.0,2022,195
+2.0,5:14,3.0,13.0,TAM 32,7.0,3.0,Tom Brady pass incomplete short left intended for Chris Godwin,-0.36,-1.24,13.0,2022,195
+2.0,5:05,4.0,13.0,TAM 32,7.0,3.0,"Jake Camarda punts 50 yards, returned by Rashid Shaheed for 42 yards (tackle by Jake Camarda)",-1.24,-2.92,13.0,2022,195
+2.0,4:50,1.0,10.0,TAM 40,7.0,3.0,Alvin Kamara right tackle for 1 yard (tackle by Anthony Nelson),2.92,2.51,13.0,2022,195
+2.0,4:11,2.0,9.0,TAM 39,7.0,3.0,Andy Dalton pass incomplete short left,2.51,1.82,13.0,2022,195
+2.0,4:02,3.0,9.0,TAM 39,7.0,3.0,Andy Dalton pass incomplete deep right intended for Chris Olave,1.82,0.66,13.0,2022,195
+2.0,3:56,4.0,9.0,TAM 39,7.0,3.0,"Penalty on NOR: Delay of Game, 5 yards (accepted) (no play)",0.66,0.33,13.0,2022,195
+2.0,3:56,4.0,14.0,TAM 44,7.0,3.0,Blake Gillikin punts 33 yards downed by Dwayne Washington,0.33,0.37,13.0,2022,195
+2.0,3:46,1.0,10.0,TAM 11,7.0,3.0,Tom Brady pass incomplete short right,-0.37,-0.78,13.0,2022,195
+2.0,3:45,2.0,10.0,TAM 11,7.0,3.0,Rachaad White right guard for 5 yards (tackle by Malcolm Roach and Bradley Roby),-0.78,-0.84,13.0,2022,195
+2.0,3:10,3.0,5.0,TAM 16,7.0,3.0,Tom Brady pass complete short left to Rachaad White for 12 yards (tackle by Alontae Taylor),-0.84,0.81,13.0,2022,195
+2.0,2:36,1.0,10.0,TAM 28,7.0,3.0,Rachaad White up the middle for 2 yards (tackle by Carl Granderson),0.81,0.53,13.0,2022,195
+2.0,1:57,2.0,8.0,TAM 30,7.0,3.0,Tom Brady pass complete short right to Rachaad White for 5 yards (tackle by Bradley Roby),0.53,0.5,13.0,2022,195
+2.0,1:39,3.0,3.0,TAM 35,7.0,3.0,"Tom Brady pass complete short right to Mike Evans for 14 yards (tackle by Tyrann Mathieu) Replay Assistant challenged the pass completion ruling, and the play was upheld.",0.5,2.19,13.0,2022,195
+2.0,1:32,1.0,10.0,TAM 49,7.0,3.0,Tom Brady pass short middle intended for Chris Godwin is intercepted by Demario Davis at NO-47 and returned for 4 yards (tackle by Russell Gage),2.19,-2.32,13.0,2022,195
+2.0,1:27,1.0,10.0,TAM 49,7.0,3.0,Andy Dalton pass complete short left to Chris Olave for 10 yards (tackle by Jamel Dean),2.32,2.98,13.0,2022,195
+2.0,1:05,1.0,10.0,TAM 39,7.0,3.0,Andy Dalton pass complete short right to Rashid Shaheed for 12 yards,2.98,3.78,13.0,2022,195
+2.0,0:54,,,,,,Timeout #2 by Tampa Bay Buccaneers,,,13.0,2022,195
+2.0,0:54,1.0,10.0,TAM 27,7.0,3.0,Alvin Kamara up the middle for 5 yards (tackle by Keanu Neal),3.78,3.91,13.0,2022,195
+2.0,0:41,2.0,5.0,TAM 22,7.0,3.0,Andy Dalton pass complete short right to Alvin Kamara for 3 yards (tackle by Carlton Davis and Zyon McCollum),3.91,3.64,13.0,2022,195
+2.0,0:30,,,,,,Timeout #1 by New Orleans Saints,,,13.0,2022,195
+2.0,0:30,3.0,2.0,TAM 19,7.0,3.0,Andy Dalton pass incomplete short right intended for Jarvis Landry,3.64,2.31,13.0,2022,195
+2.0,0:25,4.0,2.0,TAM 19,10.0,3.0,Wil Lutz 38 yard field goal good,2.31,3.0,13.0,2022,195
+2.0,0:20,,,NOR 35,10.0,3.0,"Wil Lutz kicks off 67 yards, returned by Jaelon Darden for 25 yards (tackle by Justin Evans)",0.0,0.48,13.0,2022,195
+2.0,0:16,1.0,10.0,TAM 23,10.0,3.0,Tom Brady kneels for -1 yards,0.48,-0.2,13.0,2022,195
+3.0,15:00,,,TAM 35,10.0,3.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,195
+3.0,15:00,1.0,10.0,NOR 25,10.0,3.0,Alvin Kamara up the middle for no gain (tackle by Devin White),0.61,0.06,13.0,2022,195
+3.0,14:23,2.0,10.0,NOR 25,10.0,3.0,Taysom Hill up the middle for 3 yards (tackle by Keanu Neal),0.06,-0.23,13.0,2022,195
+3.0,13:40,3.0,7.0,NOR 28,10.0,3.0,Andy Dalton pass complete short right to Mark Ingram for -1 yards (tackle by Lavonte David),-0.23,-1.57,13.0,2022,195
+3.0,12:53,4.0,8.0,NOR 27,10.0,3.0,"Blake Gillikin punts 62 yards, returned by Jaelon Darden for 15 yards (tackle by Zach Wood)",-1.57,-0.67,13.0,2022,195
+3.0,12:40,1.0,10.0,TAM 26,10.0,3.0,Rachaad White up the middle for 3 yards (tackle by Kaden Elliss and David Onyemata),0.67,0.54,13.0,2022,195
+3.0,12:04,2.0,7.0,TAM 29,10.0,3.0,Tom Brady pass complete deep right to Mike Evans for 22 yards (tackle by Marcus Maye),0.54,2.32,13.0,2022,195
+3.0,11:27,1.0,10.0,NOR 49,10.0,3.0,Tom Brady pass incomplete deep left intended for Julio Jones,2.32,1.78,13.0,2022,195
+3.0,11:19,2.0,10.0,NOR 49,10.0,3.0,"Rachaad White up the middle for no gain (tackle by Kaden Elliss). Penalty on Josh Wells: Offensive Holding, 10 yards (accepted) (no play)",1.78,0.43,13.0,2022,195
+3.0,10:57,2.0,20.0,TAM 41,10.0,3.0,Tom Brady pass complete short right to Rachaad White for 3 yards (tackle by Tyrann Mathieu),0.43,0.17,13.0,2022,195
+3.0,10:19,3.0,17.0,TAM 44,10.0,3.0,"Tom Brady pass complete short middle to Rachaad White for 8 yards. Rachaad White fumbles (forced by Cameron Jordan), recovered by Carl Granderson at NO-32 (tackle by Cameron Jordan)",0.17,-1.07,13.0,2022,195
+3.0,10:06,1.0,10.0,NOR 32,10.0,3.0,Andy Dalton pass complete short middle to Mark Ingram for 5 yards (tackle by Lavonte David),1.07,1.2,13.0,2022,195
+3.0,9:28,2.0,5.0,NOR 37,10.0,3.0,Mark Ingram up the middle for 4 yards (tackle by Zyon McCollum and Devin White),1.2,1.03,13.0,2022,195
+3.0,8:48,3.0,1.0,NOR 41,10.0,3.0,Adam Prentice up the middle for 2 yards (tackle by Vita Vea and William Gholston),1.03,1.8,13.0,2022,195
+3.0,8:01,1.0,10.0,NOR 43,10.0,3.0,Mark Ingram left end for 7 yards (tackle by Jamel Dean),1.8,2.2,13.0,2022,195
+3.0,7:33,2.0,3.0,NOR 50,10.0,3.0,Andy Dalton pass complete short right to Jarvis Landry for 6 yards (tackle by Carlton Davis and Logan Ryan),2.2,2.65,13.0,2022,195
+3.0,6:50,1.0,10.0,TAM 44,10.0,3.0,Taysom Hill pass complete short right to Chris Olave for 21 yards (tackle by Logan Ryan),2.65,4.04,13.0,2022,195
+3.0,6:15,1.0,10.0,TAM 23,10.0,3.0,Alvin Kamara left end for 4 yards (tackle by Keanu Neal),4.04,4.05,13.0,2022,195
+3.0,5:42,2.0,6.0,TAM 19,10.0,3.0,Andy Dalton pass complete short right to Adam Trautman for 8 yards (tackle by William Gholston),4.05,4.84,13.0,2022,195
+3.0,4:59,1.0,10.0,TAM 11,10.0,3.0,Andy Dalton pass complete short left to Alvin Kamara for 8 yards (tackle by Lavonte David and Jamel Dean),4.84,5.66,13.0,2022,195
+3.0,4:27,2.0,2.0,TAM 3,10.0,3.0,Mark Ingram up the middle for no gain (tackle by Vita Vea),5.66,4.89,13.0,2022,195
+3.0,3:49,3.0,2.0,TAM 3,10.0,3.0,"Penalty on NOR: Offensive Too Many Men on Field, 5 yards (accepted) (no play)",4.89,3.76,13.0,2022,195
+3.0,3:35,3.0,7.0,TAM 8,10.0,3.0,Andy Dalton pass complete short right to Taysom Hill for 5 yards (tackle by Keanu Neal),3.76,3.05,13.0,2022,195
+3.0,2:49,4.0,2.0,TAM 3,13.0,3.0,Wil Lutz 21 yard field goal good,3.05,3.0,13.0,2022,195
+3.0,2:46,,,NOR 35,13.0,3.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,195
+3.0,2:46,1.0,10.0,TAM 25,13.0,3.0,Leonard Fournette up the middle for 8 yards (tackle by Demario Davis and Bradley Roby),0.61,1.14,13.0,2022,195
+3.0,2:15,2.0,2.0,TAM 33,13.0,3.0,Leonard Fournette up the middle for 8 yards (tackle by Carl Granderson),1.14,1.66,13.0,2022,195
+3.0,1:39,1.0,10.0,TAM 41,13.0,3.0,Tom Brady pass complete short right to Chris Godwin for 6 yards (tackle by Demario Davis and Kaden Elliss),1.66,1.93,13.0,2022,195
+3.0,0:58,2.0,4.0,TAM 47,13.0,3.0,Tom Brady pass incomplete short right intended for Leonard Fournette (defended by Cameron Jordan),1.93,1.22,13.0,2022,195
+3.0,0:51,3.0,4.0,TAM 47,13.0,3.0,Tom Brady pass complete short left to Cade Otton for 10 yards (tackle by Bradley Roby),1.22,2.72,13.0,2022,195
+3.0,0:20,1.0,10.0,NOR 43,13.0,3.0,Tom Brady pass incomplete short middle intended for Ko Kieft,2.72,2.18,13.0,2022,195
+3.0,0:13,2.0,10.0,NOR 43,13.0,3.0,Tom Brady pass incomplete short left intended for Cade Otton (defended by Tyrann Mathieu),2.18,1.49,13.0,2022,195
+3.0,0:09,3.0,10.0,NOR 43,13.0,3.0,Tom Brady pass complete short right to Cade Otton for 3 yards (tackle by Bradley Roby),1.49,0.59,13.0,2022,195
+4.0,15:00,4.0,7.0,NOR 40,13.0,3.0,"Jake Camarda punts 40 yards, touchback.",0.59,-0.28,13.0,2022,195
+4.0,14:53,1.0,10.0,NOR 20,13.0,3.0,Alvin Kamara right end for 1 yard (tackle by Akiem Hicks and Lavonte David),0.28,-0.13,13.0,2022,195
+4.0,14:14,2.0,9.0,NOR 21,13.0,3.0,Andy Dalton pass complete short left to Mark Ingram for 6 yards (tackle by Lavonte David),-0.13,-0.03,13.0,2022,195
+4.0,13:29,3.0,3.0,NOR 27,13.0,3.0,Andy Dalton pass complete deep right to Chris Olave for 26 yards (tackle by Zyon McCollum),-0.03,2.46,13.0,2022,195
+4.0,12:54,1.0,10.0,TAM 47,13.0,3.0,Alvin Kamara up the middle for 1 yard (tackle by Anthony Nelson),2.46,2.05,13.0,2022,195
+4.0,12:10,2.0,9.0,TAM 46,13.0,3.0,Mark Ingram right tackle for 4 yards (tackle by William Gholston),2.05,1.88,13.0,2022,195
+4.0,11:29,3.0,5.0,TAM 42,13.0,3.0,"Andy Dalton pass incomplete deep right intended for Chris Olave. Penalty on Carlton Davis: Defensive Pass Interference, 9 yards (accepted) (no play)",1.88,3.38,13.0,2022,195
+4.0,11:20,1.0,10.0,TAM 33,13.0,3.0,Taysom Hill up the middle for 6 yards (tackle by Zyon McCollum and Logan Ryan),3.38,3.65,13.0,2022,195
+4.0,10:43,2.0,4.0,TAM 27,13.0,3.0,Alvin Kamara up the middle for no gain (tackle by Lavonte David and William Gholston),3.65,2.94,13.0,2022,195
+4.0,9:55,3.0,4.0,TAM 27,13.0,3.0,Andy Dalton pass complete short left to Chris Olave for 8 yards (tackle by Lavonte David),2.94,4.31,13.0,2022,195
+4.0,9:12,1.0,10.0,TAM 19,13.0,3.0,Mark Ingram up the middle for 3 yards (tackle by Lavonte David),4.31,4.18,13.0,2022,195
+4.0,8:26,2.0,7.0,TAM 16,13.0,3.0,Andy Dalton pass complete short left to Mark Ingram for 5 yards (tackle by Devin White),4.18,4.43,13.0,2022,195
+4.0,8:13,3.0,2.0,TAM 11,13.0,3.0,Andy Dalton pass incomplete short right intended for Alvin Kamara (defended by Carl Nassib),4.43,2.82,13.0,2022,195
+4.0,8:06,4.0,2.0,TAM 11,16.0,3.0,Wil Lutz 29 yard field goal good,2.82,3.0,13.0,2022,195
+4.0,8:02,,,NOR 35,16.0,3.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,195
+4.0,8:02,1.0,10.0,TAM 25,16.0,3.0,Tom Brady sacked by and Shy Tuttle for -7 yards and Tanoh Kpassagnon for -7 yards,0.61,-0.98,13.0,2022,195
+4.0,7:39,2.0,17.0,TAM 18,16.0,3.0,Tom Brady pass incomplete short left intended for Chris Godwin (defended by Bradley Roby),-0.98,-1.72,13.0,2022,195
+4.0,7:34,3.0,17.0,TAM 18,16.0,3.0,Tom Brady pass complete short right to Rachaad White for 7 yards (tackle by David Onyemata),-1.72,-1.7,13.0,2022,195
+4.0,7:06,4.0,10.0,TAM 25,16.0,3.0,"Jake Camarda punts 45 yards, returned by Rashid Shaheed for 17 yards (tackle by Ulysees Gilbert and Rachaad White)",-1.7,-2.06,13.0,2022,195
+4.0,6:54,1.0,10.0,NOR 47,16.0,3.0,Alvin Kamara up the middle for 2 yards (tackle by William Gholston),2.06,1.79,13.0,2022,195
+4.0,6:11,2.0,8.0,NOR 49,16.0,3.0,Andy Dalton pass complete short right to Mark Ingram for 7 yards (tackle by Devin White),1.79,2.02,13.0,2022,195
+4.0,5:40,3.0,1.0,TAM 44,16.0,3.0,Andy Dalton pass incomplete short right intended for Marquez Callaway (defended by Carlton Davis),2.02,0.33,13.0,2022,195
+4.0,5:31,4.0,1.0,TAM 44,16.0,3.0,Blake Gillikin punts 35 yards downed by Adam Prentice,0.33,0.38,13.0,2022,195
+4.0,5:21,1.0,10.0,TAM 9,16.0,3.0,Tom Brady pass incomplete short left intended for Chris Godwin,-0.38,-0.78,13.0,2022,195
+4.0,5:09,2.0,10.0,TAM 9,16.0,3.0,Tom Brady pass complete short middle to Chris Godwin for 13 yards (tackle by Bradley Roby),-0.78,0.41,13.0,2022,195
+4.0,5:00,1.0,10.0,TAM 22,16.0,3.0,Tom Brady pass incomplete short left intended for Julio Jones,0.41,-0.13,13.0,2022,195
+4.0,4:53,2.0,10.0,TAM 22,16.0,3.0,Tom Brady pass complete short left to Mike Evans for 14 yards (tackle by Tyrann Mathieu),-0.13,1.33,13.0,2022,195
+4.0,4:37,1.0,10.0,TAM 36,16.0,3.0,Tom Brady pass complete short left to Julio Jones for 8 yards (tackle by Marcus Maye),1.33,1.87,13.0,2022,195
+4.0,4:16,2.0,2.0,TAM 44,16.0,3.0,Tom Brady pass complete short middle to Leonard Fournette for 10 yards (tackle by Kaden Elliss),1.87,2.52,13.0,2022,195
+4.0,3:54,1.0,10.0,NOR 46,16.0,3.0,Tom Brady pass complete short right to Mike Evans for 9 yards (tackle by Paulson Adebo),2.52,3.19,13.0,2022,195
+4.0,3:40,2.0,1.0,NOR 37,16.0,3.0,Leonard Fournette left tackle for 2 yards (tackle by Marcus Davenport),3.19,3.25,13.0,2022,195
+4.0,3:24,1.0,10.0,NOR 35,16.0,3.0,Tom Brady pass incomplete deep middle intended for Cade Otton,3.25,2.7,13.0,2022,195
+4.0,3:19,2.0,10.0,NOR 35,16.0,3.0,"Tom Brady pass complete to Leonard Fournette for no gain. Penalty on Donovan Smith: Offensive Holding, 10 yards (accepted) (no play)",2.7,1.35,13.0,2022,195
+4.0,3:10,2.0,20.0,NOR 45,16.0,3.0,"Tom Brady pass incomplete intended for Mike Evans. Penalty on Paulson Adebo: Defensive Pass Interference, 44 yards (accepted) (no play)",1.35,6.97,13.0,2022,195
+4.0,3:03,1.0,1.0,NOR 1,16.0,9.0,"Tom Brady pass complete short right to Cade Otton for 1 yard, touchdown",6.97,7.0,13.0,2022,195
+4.0,3:00,,,NOR 15,16.0,10.0,Ryan Succop kicks extra point good,0.0,0.0,13.0,2022,195
+4.0,3:00,,,TAM 35,16.0,10.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,195
+4.0,3:00,1.0,10.0,NOR 25,16.0,10.0,Alvin Kamara left end for 3 yards (tackle by William Gholston),0.61,0.47,13.0,2022,195
+4.0,2:54,,,,,,Timeout #1 by Tampa Bay Buccaneers,,,13.0,2022,195
+4.0,2:54,2.0,7.0,NOR 28,16.0,10.0,Andy Dalton sacked by Carl Nassib for -10 yards,0.47,-1.72,13.0,2022,195
+4.0,2:47,,,,,,Timeout #2 by Tampa Bay Buccaneers,,,13.0,2022,195
+4.0,2:47,3.0,17.0,NOR 18,16.0,10.0,Andy Dalton pass incomplete deep left intended for Taysom Hill (defended by Keanu Neal),-1.72,-2.24,13.0,2022,195
+4.0,2:40,4.0,17.0,NOR 18,16.0,10.0,Blake Gillikin punts 45 yards out of bounds,-2.24,-1.4,13.0,2022,195
+4.0,2:29,1.0,10.0,TAM 37,16.0,10.0,Tom Brady pass complete short left to Julio Jones for 5 yards (tackle by Alontae Taylor),1.4,1.53,13.0,2022,195
+4.0,2:05,2.0,5.0,TAM 42,16.0,10.0,Tom Brady pass complete short middle to Chris Godwin for 9 yards (tackle by Bradley Roby),1.53,2.32,13.0,2022,195
+4.0,1:59,1.0,10.0,NOR 49,16.0,10.0,Tom Brady pass complete short left to Cade Otton for 8 yards (tackle by Tyrann Mathieu),2.32,2.86,13.0,2022,195
+4.0,1:54,2.0,2.0,NOR 41,16.0,10.0,Leonard Fournette up the middle for 10 yards (tackle by Marcus Maye),2.86,3.51,13.0,2022,195
+4.0,1:30,1.0,10.0,NOR 31,16.0,10.0,Tom Brady pass complete short left to Cade Otton for 4 yards (tackle by Alontae Taylor),3.51,3.51,13.0,2022,195
+4.0,1:02,2.0,6.0,NOR 27,16.0,10.0,Tom Brady pass incomplete short left intended for Cade Otton,3.51,2.81,13.0,2022,195
+4.0,0:58,3.0,6.0,NOR 27,16.0,10.0,Tom Brady pass complete short left to Scott Miller for 7 yards (tackle by Marcus Maye),2.81,4.24,13.0,2022,195
+4.0,0:40,1.0,10.0,NOR 20,16.0,10.0,Tom Brady pass complete short left to Julio Jones for 15 yards (tackle by Alontae Taylor),4.24,6.06,13.0,2022,195
+4.0,0:19,,,,,,Timeout #1 by New Orleans Saints,,,13.0,2022,195
+4.0,0:19,1.0,5.0,NOR 5,16.0,10.0,"Tom Brady pass complete short middle to Chris Godwin for no gain, touchdown. Penalty on Donovan Smith: Offensive Holding, 10 yards (accepted) (no play)",6.06,4.37,13.0,2022,195
+4.0,0:16,1.0,15.0,NOR 15,16.0,10.0,Tom Brady pass incomplete short middle intended for Chris Godwin (defended by Demario Davis),4.37,3.46,13.0,2022,195
+4.0,0:12,2.0,15.0,NOR 15,16.0,10.0,Tom Brady pass complete short right to Chris Godwin for 9 yards (tackle by Paulson Adebo),3.46,4.04,13.0,2022,195
+4.0,0:08,,,,,,Timeout #2 by New Orleans Saints,,,13.0,2022,195
+4.0,0:08,3.0,6.0,NOR 6,16.0,16.0,"Tom Brady pass complete short right to Rachaad White for 6 yards, touchdown",4.04,7.0,13.0,2022,195
+4.0,0:03,,,NOR 15,16.0,17.0,Ryan Succop kicks extra point good,0.0,0.0,13.0,2022,195
+4.0,0:03,,,TAM 35,16.0,17.0,"Penalty on Tanoh Kpassagnon: Leverage, 15 yards (accepted) (no play)",0.0,-2.26,13.0,2022,195
+4.0,0:03,1.0,10.0,TAM 50,16.0,17.0,"Jake Camarda kicks off 50 yards, touchback.",2.26,0.61,13.0,2022,195
+4.0,0:03,1.0,10.0,NOR 25,16.0,17.0,"Andy Dalton pass complete short right to Rashid Shaheed for 10 yards. Rashid Shaheed fumbles, recovered by Jarvis Landry at NO-29 and returned for 6 yards. Jarvis Landry fumbles, recovered by Alvin Kamara at NO-31 and returned for 6 yards (tackle by Logan Ryan)",0.61,0.6,13.0,2022,195

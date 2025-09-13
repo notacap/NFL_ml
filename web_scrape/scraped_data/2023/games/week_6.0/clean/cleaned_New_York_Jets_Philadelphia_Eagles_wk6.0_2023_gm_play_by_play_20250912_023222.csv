@@ -1,0 +1,170 @@
+Quarter,Time,Down,ToGo,Location,PHI,NYJ,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Eagles won the coin toss and deferred, Jets to receive the opening kickoff.",,,6.0,2023,91
+1.0,15:00,,,PHI 35,0.0,0.0,"Jake Elliott kicks off 65 yards, touchback.",0.0,0.61,6.0,2023,91
+1.0,15:00,1.0,10.0,NYJ 25,0.0,0.0,Zach Wilson pass incomplete short left intended for Allen Lazard,0.61,0.06,6.0,2023,91
+1.0,14:57,2.0,10.0,NYJ 25,0.0,0.0,Breece Hall up the middle for 2 yards (tackle by Milton Williams and Jordan Davis),0.06,-0.36,6.0,2023,91
+1.0,14:22,3.0,8.0,NYJ 27,0.0,0.0,"Zach Wilson pass incomplete short right intended for Xavier Gipson. Penalty on Josh Jobe: Defensive Holding, 5 yards (accepted) (no play)",-0.36,1.07,6.0,2023,91
+1.0,14:18,1.0,10.0,NYJ 32,0.0,0.0,Zach Wilson pass complete short left to Garrett Wilson for 5 yards (tackle by James Bradberry),1.07,1.2,6.0,2023,91
+1.0,13:43,2.0,5.0,NYJ 37,0.0,0.0,Breece Hall right guard for no gain (tackle by Terrell Edmunds and Jordan Davis),1.2,0.5,6.0,2023,91
+1.0,13:02,3.0,5.0,NYJ 37,0.0,0.0,Zach Wilson pass incomplete short right intended for Garrett Wilson (defended by Josh Jobe),0.5,-0.91,6.0,2023,91
+1.0,12:58,4.0,5.0,NYJ 37,0.0,0.0,"Thomas Morstead punts 54 yards, returned by Britain Covey for no gain (tackle by Irvin Charles)",-0.91,0.38,6.0,2023,91
+1.0,12:51,1.0,10.0,PHI 9,0.0,0.0,Jalen Hurts pass complete short right to D'Andre Swift for 2 yards (tackle by Ashtyn Davis),-0.38,-0.63,6.0,2023,91
+1.0,12:21,2.0,8.0,PHI 11,0.0,0.0,Jalen Hurts pass incomplete short left intended for D'Andre Swift (defended by Jermaine Johnson),-0.63,-1.19,6.0,2023,91
+1.0,12:15,3.0,8.0,PHI 11,0.0,0.0,Jalen Hurts pass complete short left to A.J. Brown for 10 yards (tackle by Tae Hayes),-1.19,0.34,6.0,2023,91
+1.0,11:42,1.0,10.0,PHI 21,0.0,0.0,Jalen Hurts pass incomplete short left intended for DeVonta Smith (defended by Bryce Hall),0.34,-0.2,6.0,2023,91
+1.0,11:36,2.0,10.0,PHI 21,0.0,0.0,Jalen Hurts pass complete short left to D'Andre Swift for 3 yards (tackle by Bryce Hall),-0.2,-0.49,6.0,2023,91
+1.0,10:56,3.0,7.0,PHI 24,0.0,0.0,Jalen Hurts pass complete short right to A.J. Brown for 8 yards,-0.49,1.07,6.0,2023,91
+1.0,10:25,1.0,10.0,PHI 32,0.0,0.0,Jalen Hurts pass complete short left to DeVonta Smith for 11 yards (tackle by Michael Carter),1.07,1.8,6.0,2023,91
+1.0,9:49,1.0,10.0,PHI 43,0.0,0.0,"Penalty on Quinton Jefferson: Neutral Zone Infraction, 5 yards (accepted) (no play)",1.8,2.53,6.0,2023,91
+1.0,9:49,1.0,5.0,PHI 48,0.0,0.0,Jalen Hurts scrambles left end for 4 yards (tackle by Quincy Williams),2.53,2.47,6.0,2023,91
+1.0,8:56,2.0,1.0,NYJ 48,0.0,0.0,D'Andre Swift right tackle for 2 yards (tackle by Jermaine Johnson),2.47,2.52,6.0,2023,91
+1.0,8:14,1.0,10.0,NYJ 46,0.0,0.0,D'Andre Swift right guard for 1 yard (tackle by Bryce Huff and Solomon Thomas),2.52,2.11,6.0,2023,91
+1.0,7:35,2.0,9.0,NYJ 45,0.0,0.0,Jalen Hurts pass complete short middle to DeVonta Smith for 7 yards (tackle by Quincy Williams),2.11,2.35,6.0,2023,91
+1.0,6:52,3.0,2.0,NYJ 38,0.0,0.0,Jalen Hurts pass complete short left to Boston Scott for 14 yards (tackle by Tony Adams),2.35,3.97,6.0,2023,91
+1.0,6:23,1.0,10.0,NYJ 24,0.0,0.0,Jalen Hurts pass complete short right to D'Andre Swift for 6 yards (tackle by Jordan Whitehead),3.97,4.29,6.0,2023,91
+1.0,5:48,2.0,4.0,NYJ 18,0.0,0.0,Jalen Hurts pass complete short left to Dallas Goedert for 5 yards (tackle by C.J. Mosley),4.29,4.71,6.0,2023,91
+1.0,5:10,1.0,10.0,NYJ 13,0.0,0.0,"Jalen Hurts scrambles right end for 7 yards (tackle by Jordan Whitehead). Penalty on Michael Carter: Illegal Contact, 3 yards (accepted)",4.71,6.51,6.0,2023,91
+1.0,4:47,1.0,3.0,NYJ 3,0.0,0.0,Boston Scott left end for -7 yards (tackle by Jamien Sherwood),6.51,4.19,6.0,2023,91
+1.0,4:06,2.0,10.0,NYJ 10,0.0,0.0,Jalen Hurts pass incomplete short right intended for Olamide Zaccheaus (defended by Craig James),4.19,3.13,6.0,2023,91
+1.0,3:55,3.0,10.0,NYJ 10,0.0,0.0,Jalen Hurts left end for 7 yards (tackle by Tony Adams and Bryce Hall),3.13,3.04,6.0,2023,91
+1.0,3:08,4.0,3.0,NYJ 3,6.0,0.0,"Jalen Hurts for 2 yards. Jalen Hurts fumbles (forced by Jamien Sherwood), recovered by Olamide Zaccheaus at NYJ-1 Replay Assistant challenged the fumble ruling, and the original play was overturned. Jalen Hurts up the middle for 3 yards, touchdown",3.04,7.0,6.0,2023,91
+1.0,3:04,,,NYJ 15,7.0,0.0,Jake Elliott kicks extra point good,0.0,0.0,6.0,2023,91
+1.0,3:04,,,PHI 35,7.0,0.0,"Jake Elliott kicks off 65 yards, touchback.",0.0,0.61,6.0,2023,91
+1.0,3:04,1.0,10.0,NYJ 25,7.0,0.0,Zach Wilson pass complete short left to Breece Hall for 6 yards (tackle by Reed Blankenship and James Bradberry),0.61,0.87,6.0,2023,91
+1.0,2:32,2.0,4.0,NYJ 31,7.0,0.0,Zach Wilson pass complete short left to Garrett Wilson for 7 yards (tackle by Reed Blankenship),0.87,1.47,6.0,2023,91
+1.0,1:51,1.0,10.0,NYJ 38,7.0,0.0,Zach Wilson pass complete short right to Dalvin Cook for 2 yards (tackle by Terrell Edmunds),1.47,1.19,6.0,2023,91
+1.0,1:22,2.0,8.0,NYJ 40,7.0,0.0,Dalvin Cook right guard for 8 yards (tackle by Nicholas Morrow and Eli Ricks),1.19,2.13,6.0,2023,91
+1.0,0:41,1.0,10.0,NYJ 48,7.0,0.0,Zach Wilson pass complete short left to Garrett Wilson for 15 yards (tackle by James Bradberry),2.13,3.12,6.0,2023,91
+2.0,15:00,1.0,10.0,PHI 37,7.0,0.0,Zach Wilson pass incomplete deep left intended for Tyler Conklin (defended by Reed Blankenship),3.12,2.57,6.0,2023,91
+2.0,14:54,2.0,10.0,PHI 37,7.0,0.0,Zach Wilson scrambles for 9 yards (tackle by Nakobe Dean),2.57,3.07,6.0,2023,91
+2.0,14:34,3.0,1.0,PHI 28,7.0,0.0,Breece Hall for no gain (no play),3.07,4.11,6.0,2023,91
+2.0,14:17,1.0,10.0,PHI 22,7.0,0.0,Zach Wilson pass incomplete short left intended for Mecole Hardman,4.11,3.56,6.0,2023,91
+2.0,14:12,2.0,10.0,PHI 22,7.0,0.0,Dalvin Cook up the middle for 2 yards (tackle by Haason Reddick),3.56,3.14,6.0,2023,91
+2.0,13:36,3.0,8.0,PHI 20,7.0,0.0,"Penalty on Michael Carter: False Start, 5 yards (accepted) (no play)",3.14,2.48,6.0,2023,91
+2.0,13:26,3.0,13.0,PHI 25,7.0,0.0,Zach Wilson pass incomplete deep right intended for Mecole Hardman,2.48,1.8,6.0,2023,91
+2.0,13:15,4.0,13.0,PHI 25,7.0,3.0,Greg Zuerlein 43 yard field goal good,1.8,3.0,6.0,2023,91
+2.0,13:12,,,NYJ 35,7.0,3.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,6.0,2023,91
+2.0,13:12,1.0,10.0,PHI 25,7.0,3.0,Jalen Hurts pass complete short middle to A.J. Brown for 14 yards (tackle by Michael Carter and Quincy Williams),0.61,1.53,6.0,2023,91
+2.0,12:33,1.0,10.0,PHI 39,7.0,3.0,Jalen Hurts pass complete short right to Olamide Zaccheaus for 5 yards (tackle by Quincy Williams),1.53,1.66,6.0,2023,91
+2.0,11:56,2.0,5.0,PHI 44,7.0,3.0,Jalen Hurts pass incomplete short right intended for DeVonta Smith,1.66,0.96,6.0,2023,91
+2.0,11:52,3.0,5.0,PHI 44,7.0,3.0,Jalen Hurts pass complete short left to A.J. Brown for 8 yards (tackle by Tae Hayes),0.96,2.39,6.0,2023,91
+2.0,11:26,1.0,10.0,NYJ 48,7.0,3.0,Jalen Hurts pass complete short right to DeVonta Smith for 2 yards (tackle by C.J. Mosley and Quincy Williams),2.39,2.12,6.0,2023,91
+2.0,10:46,2.0,8.0,NYJ 46,7.0,3.0,"Jalen Hurts pass incomplete short right. Penalty on Sua Opeta: Ineligible Downfield Pass, 5 yards (declined)",2.12,1.29,6.0,2023,91
+2.0,10:42,3.0,9.0,NYJ 47,7.0,3.0,Jalen Hurts pass short right (defended by Jermaine Johnson) intended for Dallas Goedert is intercepted by Quinnen Williams at NYJ-49 and returned for 6 yards (tackle by Jordan Mailata),1.29,-2.59,6.0,2023,91
+2.0,10:33,1.0,10.0,PHI 45,7.0,3.0,Breece Hall left end for -2 yards (tackle by Josh Sweat),2.59,1.77,6.0,2023,91
+2.0,9:57,2.0,12.0,PHI 47,7.0,3.0,Zach Wilson sacked by Haason Reddick for -1 yards,1.77,0.96,6.0,2023,91
+2.0,9:21,3.0,13.0,PHI 48,7.0,3.0,Zach Wilson scrambles up the middle for 8 yards (tackle by Nakobe Dean),0.96,0.59,6.0,2023,91
+2.0,8:36,4.0,5.0,PHI 40,7.0,3.0,Zach Wilson pass complete short right to Tyler Conklin for 4 yards,0.59,-1.33,6.0,2023,91
+2.0,8:25,1.0,10.0,PHI 36,7.0,3.0,Jalen Hurts pass incomplete deep right intended for A.J. Brown,1.33,0.79,6.0,2023,91
+2.0,8:17,2.0,10.0,PHI 36,7.0,3.0,Jalen Hurts pass complete short left to D'Andre Swift for 11 yards (tackle by Quincy Williams),0.79,2.06,6.0,2023,91
+2.0,7:35,1.0,10.0,PHI 47,7.0,3.0,D'Andre Swift left tackle for 1 yard (tackle by Bryce Hall and Tony Adams),2.06,1.65,6.0,2023,91
+2.0,7:05,2.0,9.0,PHI 48,7.0,3.0,Jalen Hurts pass complete short left to A.J. Brown for 49 yards (tackle by Tony Adams),1.65,6.51,6.0,2023,91
+2.0,6:29,1.0,3.0,NYJ 3,7.0,3.0,D'Andre Swift right end for -6 yards (tackle by Quincy Williams),6.51,4.38,6.0,2023,91
+2.0,5:38,2.0,9.0,NYJ 9,13.0,3.0,"Jalen Hurts pass complete short right to D'Andre Swift for 9 yards, touchdown",4.38,7.0,6.0,2023,91
+2.0,5:32,,,NYJ 15,14.0,3.0,Jake Elliott kicks extra point good,0.0,0.0,6.0,2023,91
+2.0,5:32,,,PHI 35,14.0,3.0,"Jake Elliott kicks off 65 yards, touchback.",0.0,0.61,6.0,2023,91
+2.0,5:32,1.0,10.0,NYJ 25,14.0,3.0,Zach Wilson pass incomplete short left intended for Garrett Wilson,0.61,0.06,6.0,2023,91
+2.0,5:26,2.0,10.0,NYJ 25,14.0,3.0,Zach Wilson pass complete short middle to Tyler Conklin for 14 yards (tackle by Terrell Edmunds),0.06,1.53,6.0,2023,91
+2.0,4:49,1.0,10.0,NYJ 39,14.0,3.0,Xavier Gipson left end for 18 yards (tackle by Nicholas Morrow and Terrell Edmunds),1.53,2.72,6.0,2023,91
+2.0,4:14,1.0,10.0,PHI 43,14.0,3.0,Zach Wilson pass complete short left to Breece Hall for 25 yards (tackle by Reed Blankenship),2.72,4.37,6.0,2023,91
+2.0,3:27,1.0,10.0,PHI 18,14.0,3.0,Zach Wilson pass incomplete deep left intended for Garrett Wilson (defended by James Bradberry),4.37,3.8,6.0,2023,91
+2.0,3:22,2.0,10.0,PHI 18,14.0,3.0,Zach Wilson pass incomplete deep middle intended for C.J. Uzomah,3.8,3.05,6.0,2023,91
+2.0,3:18,3.0,10.0,PHI 18,14.0,3.0,Zach Wilson sacked by and Brandon Graham for -6 yards and Jordan Davis for -6 yards,3.05,1.87,6.0,2023,91
+2.0,2:34,4.0,16.0,PHI 24,14.0,6.0,Greg Zuerlein 42 yard field goal good,1.87,3.0,6.0,2023,91
+2.0,2:30,,,NYJ 35,14.0,6.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,6.0,2023,91
+2.0,2:30,1.0,10.0,PHI 25,14.0,6.0,Boston Scott left end for 9 yards (tackle by Jermaine Johnson),0.61,1.28,6.0,2023,91
+2.0,2:00,2.0,1.0,PHI 34,14.0,6.0,"Jalen Hurts pass complete short right to Dallas Goedert for 4 yards (tackle by C.J. Mosley). Penalty on Quinnen Williams: Roughing the Passer, 15 yards (accepted)",1.28,2.46,6.0,2023,91
+2.0,1:53,1.0,10.0,NYJ 47,14.0,6.0,"Jalen Hurts pass complete short right to D'Andre Swift for 4 yards. D'Andre Swift fumbles (forced by C.J. Mosley), recovered by Quincy Williams at NYJ-49 (tackle by C.J. Mosley)",2.46,-2.19,6.0,2023,91
+2.0,1:40,1.0,10.0,NYJ 49,14.0,6.0,Zach Wilson pass complete short middle to Garrett Wilson for 11 yards (tackle by James Bradberry),2.19,2.92,6.0,2023,91
+2.0,1:13,1.0,10.0,PHI 40,14.0,6.0,Zach Wilson pass complete short left to Breece Hall for -2 yards (tackle by Reed Blankenship),2.92,2.1,6.0,2023,91
+2.0,1:01,2.0,12.0,PHI 42,14.0,6.0,"Zach Wilson pass incomplete short right intended for Garrett Wilson. Penalty on Josh Jobe: Defensive Pass Interference, 15 yards (accepted) (no play)",2.1,3.78,6.0,2023,91
+2.0,0:56,1.0,10.0,PHI 27,14.0,6.0,Zach Wilson pass complete short left to Garrett Wilson for 9 yards (tackle by Zach Cunningham),3.78,4.53,6.0,2023,91
+2.0,0:44,,,,,,Timeout #1 by New York Jets,,,6.0,2023,91
+2.0,0:44,2.0,1.0,PHI 18,14.0,6.0,Breece Hall up the middle for 6 yards (tackle by Milton Williams and Zach Cunningham),4.53,4.78,6.0,2023,91
+2.0,0:41,,,,,,Timeout #2 by New York Jets,,,6.0,2023,91
+2.0,0:41,1.0,10.0,PHI 12,14.0,6.0,"Zach Wilson pass incomplete. Penalty on Wes Schweitzer: Offensive Holding, 10 yards (accepted) (no play)",4.78,4.11,6.0,2023,91
+2.0,0:36,1.0,20.0,PHI 22,14.0,6.0,Zach Wilson pass incomplete short right intended for Randall Cobb,4.11,2.87,6.0,2023,91
+2.0,0:29,2.0,20.0,PHI 22,14.0,6.0,Zach Wilson pass incomplete short right intended for Randall Cobb,2.87,2.21,6.0,2023,91
+2.0,0:24,3.0,20.0,PHI 22,14.0,6.0,Michael Carter up the middle for 5 yards (tackle by Fletcher Cox),2.21,2.31,6.0,2023,91
+2.0,0:02,,,,,,Timeout #3 by New York Jets,,,6.0,2023,91
+2.0,0:02,4.0,15.0,PHI 17,14.0,9.0,Greg Zuerlein 35 yard field goal good,2.31,3.0,6.0,2023,91
+3.0,15:00,,,NYJ 35,14.0,9.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,6.0,2023,91
+3.0,15:00,1.0,10.0,PHI 25,14.0,9.0,Jalen Hurts pass complete short left to Dallas Goedert for 13 yards (tackle by Jordan Whitehead),0.61,1.47,6.0,2023,91
+3.0,14:38,1.0,10.0,PHI 38,14.0,9.0,D'Andre Swift left tackle for 9 yards (tackle by C.J. Mosley),1.47,2.14,6.0,2023,91
+3.0,13:45,2.0,1.0,PHI 47,14.0,9.0,Jalen Hurts pass complete short left to Dallas Goedert for 9 yards (tackle by Quincy Williams),2.14,2.65,6.0,2023,91
+3.0,13:33,1.0,10.0,NYJ 44,14.0,9.0,Jalen Hurts pass complete short right to Olamide Zaccheaus for no gain (no play),2.65,2.32,6.0,2023,91
+3.0,13:13,1.0,15.0,NYJ 49,14.0,9.0,Jalen Hurts pass incomplete deep middle intended for DeVonta Smith,2.32,1.44,6.0,2023,91
+3.0,13:03,2.0,15.0,NYJ 49,14.0,9.0,Jalen Hurts sacked by and Quinton Jefferson for -8 yards and Bryce Huff for -8 yards,1.44,-0.3,6.0,2023,91
+3.0,12:17,3.0,23.0,PHI 43,14.0,9.0,Jalen Hurts pass complete short right to Kenneth Gainwell for 4 yards (tackle by Michael Carter and C.J. Mosley),-0.3,-0.26,6.0,2023,91
+3.0,11:32,4.0,19.0,PHI 47,14.0,9.0,"Braden Mann punts, fair catch by Randall Cobb at NYJ-17. Penalty on Jamien Sherwood: Running Into the Kicker, 5 yards (accepted) (no play)",-0.26,0.07,6.0,2023,91
+3.0,11:26,4.0,14.0,NYJ 48,14.0,9.0,Braden Mann punts 41 yards downed by Jack Stoll,0.07,0.38,6.0,2023,91
+3.0,11:17,1.0,10.0,NYJ 7,14.0,9.0,Zach Wilson pass complete deep right to Garrett Wilson for 33 yards (tackle by Josh Jobe),-0.38,1.6,6.0,2023,91
+3.0,10:43,1.0,10.0,NYJ 40,14.0,9.0,Breece Hall left tackle for 9 yards (tackle by Reed Blankenship),1.6,2.27,6.0,2023,91
+3.0,10:03,2.0,1.0,NYJ 49,14.0,9.0,Zach Wilson pass complete short middle to Breece Hall for 15 yards (tackle by Zach Cunningham),2.27,3.18,6.0,2023,91
+3.0,9:25,1.0,10.0,PHI 36,14.0,9.0,Dalvin Cook right end for 2 yards (tackle by Nicholas Morrow),3.18,2.91,6.0,2023,91
+3.0,8:48,2.0,8.0,PHI 34,14.0,9.0,"Zach Wilson pass complete short middle to Garrett Wilson for no gain. Penalty on Allen Lazard: Illegal Blindside Block, 15 yards (accepted) (no play)",2.91,0.88,6.0,2023,91
+3.0,8:24,2.0,23.0,PHI 49,14.0,9.0,Zach Wilson pass incomplete short left intended for Allen Lazard,0.88,0.23,6.0,2023,91
+3.0,8:20,3.0,23.0,PHI 49,14.0,9.0,Zach Wilson pass complete short middle to Breece Hall for 10 yards (tackle by Nicholas Morrow),0.23,0.66,6.0,2023,91
+3.0,7:32,4.0,13.0,PHI 39,14.0,9.0,"Penalty on NYJ: Delay of Game, 5 yards (accepted) (no play)",0.66,0.33,6.0,2023,91
+3.0,7:16,4.0,18.0,PHI 44,14.0,9.0,"Thomas Morstead punts 37 yards, fair catch by Britain Covey at PHI-7",0.33,0.38,6.0,2023,91
+3.0,7:08,1.0,10.0,PHI 7,14.0,9.0,D'Andre Swift left end for -2 yards (tackle by Tony Adams),-0.38,-0.93,6.0,2023,91
+3.0,6:36,2.0,12.0,PHI 5,14.0,9.0,Jalen Hurts pass complete short right to A.J. Brown for 6 yards (tackle by Craig James),-0.93,-0.95,6.0,2023,91
+3.0,5:51,3.0,6.0,PHI 11,14.0,9.0,Jalen Hurts pass incomplete short right intended for Kenneth Gainwell,-0.95,-2.49,6.0,2023,91
+3.0,5:38,4.0,6.0,PHI 11,14.0,9.0,"Braden Mann punts 40 yards out of bounds. Penalty on Kelee Ringo: Fair Catch Interference, 15 yards (accepted)",-2.49,-3.18,6.0,2023,91
+3.0,5:30,1.0,10.0,PHI 36,14.0,9.0,Breece Hall left tackle for 3 yards (tackle by Nicholas Morrow and Derek Barnett),3.18,3.04,6.0,2023,91
+3.0,4:52,2.0,7.0,PHI 33,14.0,9.0,Zach Wilson pass incomplete short right intended for Randall Cobb (defended by Josh Jobe),3.04,2.35,6.0,2023,91
+3.0,4:49,3.0,7.0,PHI 33,14.0,9.0,Zach Wilson pass complete short right to Allen Lazard for 8 yards (tackle by Bradley Roby),2.35,3.91,6.0,2023,91
+3.0,4:15,1.0,10.0,PHI 25,14.0,9.0,Breece Hall up the middle for 8 yards (tackle by Haason Reddick),3.91,4.55,6.0,2023,91
+3.0,3:32,2.0,2.0,PHI 17,14.0,9.0,Breece Hall up the middle for 1 yard (tackle by Kentavius Street),4.55,4.06,6.0,2023,91
+3.0,2:52,3.0,1.0,PHI 16,14.0,9.0,Breece Hall up the middle for 3 yards (tackle by Nicholas Morrow),4.06,4.71,6.0,2023,91
+3.0,2:14,1.0,10.0,PHI 13,14.0,9.0,Zach Wilson pass complete short right to Garrett Wilson for 5 yards (tackle by Josh Jobe),4.71,4.96,6.0,2023,91
+3.0,1:38,2.0,5.0,PHI 8,14.0,9.0,Zach Wilson sacked by Haason Reddick for -12 yards,4.96,2.54,6.0,2023,91
+3.0,0:54,3.0,17.0,PHI 20,14.0,9.0,Zach Wilson pass incomplete deep left intended for Garrett Wilson (defended by James Bradberry),2.54,2.12,6.0,2023,91
+3.0,0:48,4.0,17.0,PHI 20,14.0,12.0,Greg Zuerlein 38 yard field goal good,2.12,3.0,6.0,2023,91
+3.0,0:45,,,NYJ 35,14.0,12.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,6.0,2023,91
+3.0,0:45,1.0,10.0,PHI 25,14.0,12.0,Jalen Hurts pass complete deep right to DeVonta Smith for 22 yards,0.61,2.06,6.0,2023,91
+4.0,15:00,1.0,10.0,PHI 47,14.0,12.0,Jalen Hurts up the middle for 5 yards (tackle by C.J. Mosley),2.06,2.19,6.0,2023,91
+4.0,14:36,2.0,5.0,NYJ 48,14.0,12.0,Jalen Hurts pass incomplete short left,2.19,1.49,6.0,2023,91
+4.0,14:30,3.0,5.0,NYJ 48,14.0,12.0,Jalen Hurts right end for 6 yards (tackle by Michael Carter),1.49,2.79,6.0,2023,91
+4.0,13:53,1.0,10.0,NYJ 42,14.0,12.0,Jalen Hurts pass short right (defended by Jermaine Johnson) intended for DeVonta Smith is intercepted by Bryce Hall at NYJ-33 and returned for 5 yards (tackle by Olamide Zaccheaus),2.79,-1.47,6.0,2023,91
+4.0,13:42,1.0,10.0,NYJ 38,14.0,12.0,Zach Wilson sacked by Josh Sweat for -6 yards,1.47,0.11,6.0,2023,91
+4.0,13:03,2.0,16.0,NYJ 32,14.0,12.0,Zach Wilson pass complete short middle to Tyler Conklin for 6 yards (tackle by Nakobe Dean),0.11,0.23,6.0,2023,91
+4.0,12:34,3.0,10.0,NYJ 38,14.0,12.0,"Penalty on Connor McGovern: False Start, 5 yards (accepted) (no play)",0.23,-0.43,6.0,2023,91
+4.0,12:17,3.0,15.0,NYJ 33,14.0,12.0,Zach Wilson pass incomplete short middle intended for Michael Carter,-0.43,-1.18,6.0,2023,91
+4.0,12:13,4.0,15.0,NYJ 33,14.0,12.0,"Thomas Morstead punts 49 yards, returned by Britain Covey for no gain (tackle by Samuel Eguavoen)",-1.18,-0.04,6.0,2023,91
+4.0,12:01,1.0,10.0,PHI 18,14.0,12.0,D'Andre Swift up the middle for 4 yards (tackle by Quinnen Williams),0.04,0.14,6.0,2023,91
+4.0,11:26,2.0,6.0,PHI 22,14.0,12.0,Jalen Hurts pass incomplete short right intended for D'Andre Swift (defended by Quincy Williams),0.14,-0.66,6.0,2023,91
+4.0,11:17,3.0,6.0,PHI 22,14.0,12.0,"Jalen Hurts pass complete deep left to A.J. Brown for 36 yards NYJ challenged the pass completion ruling, and the play was upheld.",-0.66,2.79,6.0,2023,91
+4.0,10:59,1.0,10.0,NYJ 42,14.0,12.0,Jalen Hurts scrambles left end for 11 yards (tackle by C.J. Mosley),2.79,3.51,6.0,2023,91
+4.0,10:23,1.0,10.0,NYJ 31,14.0,12.0,Kenneth Gainwell right end for 12 yards (tackle by Ashtyn Davis and John Franklin-Myers),3.51,4.31,6.0,2023,91
+4.0,9:40,1.0,10.0,NYJ 19,14.0,12.0,Jalen Hurts pass incomplete short middle intended for Dallas Goedert (defended by C.J. Mosley),4.31,3.75,6.0,2023,91
+4.0,9:31,2.0,10.0,NYJ 19,14.0,12.0,Jalen Hurts left end for 4 yards (tackle by Tony Adams),3.75,3.58,6.0,2023,91
+4.0,8:57,3.0,6.0,NYJ 15,14.0,12.0,Jalen Hurts sacked by Bryce Huff for -4 yards,3.58,2.18,6.0,2023,91
+4.0,8:17,4.0,10.0,NYJ 19,14.0,12.0,Jake Elliott 37 yard field goal no good,2.18,-0.74,6.0,2023,91
+4.0,8:13,1.0,10.0,NYJ 27,14.0,12.0,Breece Hall right tackle for 3 yards (tackle by Brandon Graham and Josh Jobe),0.74,0.6,6.0,2023,91
+4.0,7:36,2.0,7.0,NYJ 30,14.0,12.0,Zach Wilson pass complete short right to Jeremy Ruckert for 8 yards (tackle by Zach Cunningham and Nakobe Dean),0.6,1.47,6.0,2023,91
+4.0,6:53,1.0,10.0,NYJ 38,14.0,12.0,Zach Wilson pass complete short left to Garrett Wilson for 5 yards (tackle by James Bradberry),1.47,1.6,6.0,2023,91
+4.0,6:13,2.0,5.0,NYJ 43,14.0,12.0,Breece Hall left guard for -2 yards (tackle by Milton Williams),1.6,0.63,6.0,2023,91
+4.0,5:32,3.0,7.0,NYJ 41,14.0,12.0,Zach Wilson sacked by and Haason Reddick for -6 yards and Milton Williams for -6 yards,0.63,-1.04,6.0,2023,91
+4.0,4:56,4.0,13.0,NYJ 35,14.0,12.0,"Thomas Morstead punts 54 yards, returned by Britain Covey for 9 yards (tackle by Jamien Sherwood)",-1.04,-0.28,6.0,2023,91
+4.0,4:43,1.0,10.0,PHI 20,14.0,12.0,Jalen Hurts pass complete short left to D'Andre Swift for 2 yards (tackle by Michael Carter),0.28,0.0,6.0,2023,91
+4.0,4:37,2.0,8.0,PHI 22,14.0,12.0,D'Andre Swift up the middle for 9 yards (tackle by Tony Adams and Solomon Thomas),0.0,1.0,6.0,2023,91
+4.0,4:00,1.0,10.0,PHI 31,14.0,12.0,Jalen Hurts pass complete short middle to D'Andre Swift for 3 yards (tackle by C.J. Mosley),1.0,0.87,6.0,2023,91
+4.0,3:19,2.0,7.0,PHI 34,14.0,12.0,D'Andre Swift up the middle for no gain (tackle by John Franklin-Myers),0.87,0.17,6.0,2023,91
+4.0,2:31,,,,,,Timeout #1 by Philadelphia Eagles,,,6.0,2023,91
+4.0,2:31,3.0,7.0,PHI 34,14.0,12.0,Jalen Hurts pass complete short right to Dallas Goedert for 11 yards (tackle by Quincy Williams),0.17,1.93,6.0,2023,91
+4.0,2:24,,,,,,Timeout #2 by New York Jets,,,6.0,2023,91
+4.0,2:24,1.0,10.0,PHI 45,14.0,12.0,Kenneth Gainwell left guard for 1 yard (tackle by Quinnen Williams and Quincy Williams),1.93,1.52,6.0,2023,91
+4.0,2:20,,,,,,Timeout #3 by New York Jets,,,6.0,2023,91
+4.0,2:20,2.0,9.0,PHI 46,14.0,12.0,D'Andre Swift left end for no gain (tackle by Quincy Williams),1.52,0.83,6.0,2023,91
+4.0,2:00,3.0,9.0,PHI 46,14.0,12.0,Jalen Hurts pass short middle intended for Dallas Goedert is intercepted by Tony Adams at NYJ-47 and returned for 45 yards (tackle by Landon Dickerson),0.83,-5.37,6.0,2023,91
+4.0,1:50,1.0,8.0,PHI 8,14.0,18.0,"Breece Hall up the middle for 8 yards, touchdown",5.37,7.0,6.0,2023,91
+4.0,1:46,,,PHI 2,14.0,20.0,Two Point Attempt: Zach Wilson pass complete to to Randall Cobb for no gain,1.0,1.0,6.0,2023,91
+4.0,1:46,,,NYJ 35,14.0,20.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,6.0,2023,91
+4.0,1:46,1.0,10.0,PHI 25,14.0,20.0,Jalen Hurts pass incomplete short left intended for A.J. Brown,0.61,0.06,6.0,2023,91
+4.0,1:41,2.0,10.0,PHI 25,14.0,20.0,Jalen Hurts pass incomplete short right intended for DeVonta Smith (defended by Jordan Whitehead),0.06,-0.62,6.0,2023,91
+4.0,1:34,3.0,10.0,PHI 25,14.0,20.0,Jalen Hurts pass complete short left to DeVonta Smith for 2 yards (tackle by Quincy Williams),-0.62,-1.57,6.0,2023,91
+4.0,1:24,,,,,,Timeout #2 by Philadelphia Eagles,,,6.0,2023,91
+4.0,1:24,4.0,8.0,PHI 27,14.0,20.0,Jalen Hurts pass incomplete deep middle intended for DeVonta Smith (defended by Jordan Whitehead),-1.57,-3.78,6.0,2023,91
+4.0,1:16,1.0,10.0,PHI 27,14.0,20.0,Zach Wilson kneels for -1 yards,3.78,3.1,6.0,2023,91
+4.0,0:40,2.0,11.0,PHI 28,14.0,20.0,Zach Wilson kneels for -1 yards,3.1,2.28,6.0,2023,91

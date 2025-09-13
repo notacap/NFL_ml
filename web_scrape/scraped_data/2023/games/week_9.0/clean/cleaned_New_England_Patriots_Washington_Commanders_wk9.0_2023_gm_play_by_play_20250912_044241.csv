@@ -1,0 +1,178 @@
+Quarter,Time,Down,ToGo,Location,WAS,NWE,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Patriots won the coin toss and deferred, Commanders to receive the opening kickoff.",,,9.0,2023,130
+1.0,15:00,,,NWE 35,0.0,0.0,"Chad Ryland kicks off 66 yards, returned by Antonio Gibson for 37 yards (tackle by Jabrill Peppers)",0.0,1.33,9.0,2023,130
+1.0,14:54,1.0,10.0,WAS 36,0.0,0.0,Sam Howell pass complete short middle to Brian Robinson for 4 yards (tackle by Ja'Whaun Bentley),1.33,1.33,9.0,2023,130
+1.0,14:21,2.0,6.0,WAS 40,0.0,0.0,Brian Robinson right guard for 4 yards (tackle by Davon Godchaux and Deatrich Wise),1.33,1.16,9.0,2023,130
+1.0,13:36,3.0,2.0,WAS 44,0.0,0.0,Sam Howell pass incomplete short middle intended for Jahan Dotson,1.16,-0.46,9.0,2023,130
+1.0,13:31,4.0,2.0,WAS 44,0.0,0.0,"Tress Way punts 40 yards, fair catch by Demario Douglas at NE-16",-0.46,0.14,9.0,2023,130
+1.0,13:23,1.0,10.0,NWE 16,0.0,0.0,Mac Jones pass complete short middle to Demario Douglas for 11 yards (tackle by Benjamin St-Juste),-0.14,0.74,9.0,2023,130
+1.0,12:52,1.0,10.0,NWE 27,0.0,0.0,Rhamondre Stevenson up the middle for 1 yard (tackle by James Smith-Williams),0.74,0.33,9.0,2023,130
+1.0,12:15,2.0,9.0,NWE 28,0.0,0.0,Mac Jones pass incomplete short right intended for Rhamondre Stevenson,0.33,-0.36,9.0,2023,130
+1.0,12:10,3.0,9.0,NWE 28,0.0,0.0,Mac Jones pass complete short middle to Rhamondre Stevenson for 13 yards (tackle by Jamin Davis),-0.36,1.66,9.0,2023,130
+1.0,11:46,1.0,10.0,NWE 41,0.0,0.0,Rhamondre Stevenson up the middle for 2 yards (tackle by John Ridgeway),1.66,1.39,9.0,2023,130
+1.0,11:15,2.0,8.0,NWE 43,0.0,0.0,Rhamondre Stevenson left guard for 5 yards (tackle by Khaleke Hudson),1.39,1.36,9.0,2023,130
+1.0,10:40,3.0,3.0,NWE 48,0.0,0.0,Mac Jones pass complete short middle to Hunter Henry for 6 yards (tackle by Kamren Curl and Jamin Davis),1.36,2.52,9.0,2023,130
+1.0,10:04,1.0,10.0,WAS 46,0.0,0.0,Mac Jones pass incomplete short middle intended for Demario Douglas (defended by Benjamin St-Juste),2.52,1.98,9.0,2023,130
+1.0,9:59,2.0,10.0,WAS 46,0.0,0.0,Ezekiel Elliott left guard for no gain (tackle by Jonathan Allen),1.98,1.29,9.0,2023,130
+1.0,9:22,3.0,10.0,WAS 46,0.0,0.0,Mac Jones pass complete short right to Tyquan Thornton for 7 yards (tackle by Kamren Curl),1.29,0.66,9.0,2023,130
+1.0,8:40,4.0,3.0,WAS 39,0.0,0.0,Mac Jones pass incomplete deep left intended for Tyquan Thornton,0.66,-1.53,9.0,2023,130
+1.0,8:34,1.0,10.0,WAS 39,0.0,0.0,Brian Robinson right guard for 5 yards (tackle by Jahlani Tavai and Lawrence Guy),1.53,1.66,9.0,2023,130
+1.0,7:54,2.0,5.0,WAS 44,0.0,0.0,Sam Howell pass complete short middle to Dyami Brown for 19 yards (tackle by Kyle Dugger and Shaun Wade),1.66,3.12,9.0,2023,130
+1.0,7:15,1.0,10.0,NWE 37,0.0,0.0,Sam Howell pass complete short right to Antonio Gibson for 7 yards (tackle by Jalen Mills),3.12,3.52,9.0,2023,130
+1.0,6:37,2.0,3.0,NWE 30,0.0,0.0,Sam Howell pass complete short right to Terry McLaurin for 2 yards (tackle by Ja'Whaun Bentley),3.52,3.07,9.0,2023,130
+1.0,6:01,3.0,1.0,NWE 28,0.0,0.0,Brian Robinson left guard for 2 yards (tackle by Davon Godchaux and Jahlani Tavai),3.07,3.84,9.0,2023,130
+1.0,5:19,1.0,10.0,NWE 26,0.0,0.0,Sam Howell pass complete short left to Terry McLaurin for 2 yards (tackle by Ja'Whaun Bentley and Anfernee Jennings),3.84,3.57,9.0,2023,130
+1.0,4:38,2.0,8.0,NWE 24,0.0,0.0,Sam Howell pass complete short right to Jamison Crowder for 7 yards (tackle by Myles Bryant),3.57,3.95,9.0,2023,130
+1.0,4:01,3.0,1.0,NWE 17,0.0,0.0,Sam Howell left guard for -2 yards (tackle by Anfernee Jennings and Deatrich Wise),3.95,2.28,9.0,2023,130
+1.0,3:18,4.0,3.0,NWE 19,3.0,0.0,Joey Slye 37 yard field goal good,2.28,3.0,9.0,2023,130
+1.0,3:14,,,WAS 35,3.0,0.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,130
+1.0,3:14,1.0,10.0,NWE 25,3.0,0.0,Mac Jones pass incomplete short right,0.61,0.06,9.0,2023,130
+1.0,3:10,2.0,10.0,NWE 25,3.0,0.0,Mac Jones pass complete short left to Ezekiel Elliott for 5 yards (tackle by Jamin Davis),0.06,0.04,9.0,2023,130
+1.0,2:34,3.0,5.0,NWE 30,3.0,0.0,Mac Jones pass incomplete short left intended for Tyquan Thornton,0.04,-1.37,9.0,2023,130
+1.0,2:31,4.0,5.0,NWE 30,3.0,0.0,"Bryce Baringer punts 56 yards, returned by Jamison Crowder for 6 yards (tackle by Brenden Schooler)",-1.37,-0.28,9.0,2023,130
+1.0,2:21,1.0,10.0,WAS 20,3.0,0.0,Antonio Gibson left tackle for 3 yards (tackle by Davon Godchaux and Adrian Phillips),0.28,0.14,9.0,2023,130
+1.0,1:40,2.0,7.0,WAS 23,3.0,0.0,Sam Howell pass incomplete deep right intended for Jahan Dotson (defended by Jonathan Jones),0.14,-0.56,9.0,2023,130
+1.0,1:33,3.0,7.0,WAS 23,3.0,0.0,Sam Howell pass complete short left to Byron Pringle for 26 yards (tackle by Jonathan Jones),-0.56,2.19,9.0,2023,130
+1.0,0:47,1.0,10.0,WAS 49,3.0,0.0,Sam Howell pass complete short left to Antonio Gibson for 10 yards (tackle by Kyle Dugger),2.19,2.85,9.0,2023,130
+1.0,0:08,1.0,10.0,NWE 41,3.0,0.0,Sam Howell pass incomplete deep left intended for Terry McLaurin (defended by Jabrill Peppers),2.85,2.31,9.0,2023,130
+1.0,0:01,2.0,10.0,NWE 41,3.0,0.0,Sam Howell pass complete short right to Jahan Dotson for 9 yards (tackle by Marte Mapu),2.31,2.81,9.0,2023,130
+2.0,15:00,3.0,1.0,NWE 32,3.0,0.0,Antonio Gibson left end for 9 yards (tackle by Myles Bryant and Lawrence Guy),2.81,4.04,9.0,2023,130
+2.0,14:18,1.0,10.0,NWE 23,3.0,0.0,Sam Howell left guard for 5 yards (tackle by Ja'Whaun Bentley),4.04,4.21,9.0,2023,130
+2.0,13:37,2.0,5.0,NWE 18,3.0,0.0,Brian Robinson left guard for 6 yards (tackle by Kyle Dugger),4.21,4.78,9.0,2023,130
+2.0,12:51,1.0,10.0,NWE 12,3.0,0.0,Sam Howell pass complete short right to Jahan Dotson for 3 yards (tackle by Myles Bryant),4.78,4.64,9.0,2023,130
+2.0,12:10,2.0,7.0,NWE 9,9.0,0.0,"Brian Robinson right end for 9 yards, touchdown",4.64,7.0,9.0,2023,130
+2.0,12:05,,,NWE 15,10.0,0.0,Joey Slye kicks extra point good,0.0,0.0,9.0,2023,130
+2.0,12:05,,,WAS 35,10.0,0.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,130
+2.0,12:05,1.0,10.0,NWE 25,10.0,0.0,Mac Jones pass incomplete deep right intended for Hunter Henry,0.61,0.06,9.0,2023,130
+2.0,12:00,2.0,10.0,NWE 25,10.0,0.0,Mac Jones pass complete short left to Demario Douglas for 6 yards (tackle by David Mayo),0.06,0.17,9.0,2023,130
+2.0,11:29,3.0,4.0,NWE 31,10.0,0.0,Mac Jones pass incomplete short middle intended for Tyquan Thornton (defended by Emmanuel Forbes),0.17,-1.31,9.0,2023,130
+2.0,11:24,4.0,4.0,NWE 31,10.0,0.0,"Bryce Baringer punts 52 yards, returned by Jamison Crowder for -3 yards (tackle by Marte Mapu)",-1.31,0.28,9.0,2023,130
+2.0,11:12,1.0,10.0,WAS 14,10.0,0.0,Brian Robinson left guard for 2 yards (tackle by Jabrill Peppers),-0.28,-0.51,9.0,2023,130
+2.0,10:33,2.0,8.0,WAS 16,10.0,0.0,"Brian Robinson left guard for 7 yards. Brian Robinson fumbles (forced by Jahlani Tavai), recovered by Davon Godchaux at WAS-25",-0.51,-3.91,9.0,2023,130
+2.0,10:25,1.0,10.0,WAS 25,10.0,0.0,Ezekiel Elliott left end for 8 yards (tackle by Kamren Curl),3.91,4.55,9.0,2023,130
+2.0,10:03,2.0,2.0,WAS 17,10.0,0.0,Ezekiel Elliott right guard for 3 yards (tackle by Daron Payne and Khaleke Hudson),4.55,4.65,9.0,2023,130
+2.0,9:31,1.0,10.0,WAS 14,10.0,6.0,"Mac Jones pass complete short right to Hunter Henry for 14 yards, touchdown",4.65,7.0,9.0,2023,130
+2.0,9:26,,,WAS 15,10.0,7.0,Chad Ryland kicks extra point good,0.0,0.0,9.0,2023,130
+2.0,9:26,,,NWE 35,10.0,7.0,"Chad Ryland kicks off 66 yards, returned by Antonio Gibson for 18 yards (tackle by Chris Board)",0.0,-0.06,9.0,2023,130
+2.0,9:22,1.0,10.0,WAS 17,10.0,7.0,Brian Robinson up the middle for 3 yards (tackle by Ja'Whaun Bentley),-0.06,-0.06,9.0,2023,130
+2.0,8:46,2.0,7.0,WAS 20,10.0,7.0,Sam Howell pass complete deep left to Jahan Dotson for 24 yards (tackle by Jonathan Jones),-0.06,1.86,9.0,2023,130
+2.0,8:10,1.0,10.0,WAS 44,10.0,7.0,Sam Howell pass complete short right to Logan Thomas for 3 yards (tackle by Kyle Dugger),1.86,1.72,9.0,2023,130
+2.0,7:34,2.0,7.0,WAS 47,10.0,7.0,Antonio Gibson left guard for 2 yards (tackle by Jeremiah Pharms and Deatrich Wise),1.72,1.29,9.0,2023,130
+2.0,6:54,3.0,5.0,WAS 49,10.0,7.0,Sam Howell pass incomplete short right intended for Jamison Crowder,1.29,-0.13,9.0,2023,130
+2.0,6:48,4.0,5.0,WAS 49,10.0,7.0,"Tress Way punts 35 yards, fair catch by Demario Douglas at NE-16",-0.13,0.14,9.0,2023,130
+2.0,6:41,1.0,10.0,NWE 16,10.0,7.0,Mac Jones pass complete short left to JuJu Smith-Schuster for 20 yards (tackle by Benjamin St-Juste),-0.14,1.33,9.0,2023,130
+2.0,6:16,1.0,10.0,NWE 36,10.0,13.0,"Rhamondre Stevenson right guard for 64 yards, touchdown",1.33,7.0,9.0,2023,130
+2.0,6:06,,,WAS 15,10.0,14.0,Chad Ryland kicks extra point good,0.0,0.0,9.0,2023,130
+2.0,6:06,,,NWE 40,10.0,14.0,"Chad Ryland kicks off 57 yards, returned by Antonio Gibson for 17 yards (tackle by Ty Montgomery)",0.0,0.28,9.0,2023,130
+2.0,6:01,1.0,10.0,WAS 20,10.0,14.0,Sam Howell pass complete short left to Jamison Crowder for 5 yards (tackle by Jack Jones),0.28,0.41,9.0,2023,130
+2.0,5:25,2.0,5.0,WAS 25,10.0,14.0,Sam Howell pass complete short left to John Bates for -5 yards (tackle by Lawrence Guy and Davon Godchaux),0.41,-0.96,9.0,2023,130
+2.0,4:41,3.0,10.0,WAS 20,10.0,14.0,Sam Howell pass complete short right to Byron Pringle for 13 yards (tackle by Ja'Whaun Bentley),-0.96,1.14,9.0,2023,130
+2.0,3:59,1.0,10.0,WAS 33,10.0,14.0,Antonio Gibson left guard for 4 yards (tackle by Kyle Dugger),1.14,1.13,9.0,2023,130
+2.0,3:20,2.0,6.0,WAS 37,10.0,14.0,Sam Howell pass complete short left to Antonio Gibson for 6 yards (tackle by Marte Mapu),1.13,1.8,9.0,2023,130
+2.0,2:39,1.0,10.0,WAS 43,10.0,14.0,Sam Howell pass incomplete deep left intended for Byron Pringle,1.8,1.25,9.0,2023,130
+2.0,2:30,2.0,10.0,WAS 43,10.0,14.0,Sam Howell pass complete short right to Dyami Brown for 14 yards (tackle by Myles Bryant),1.25,2.72,9.0,2023,130
+2.0,2:00,1.0,10.0,NWE 43,10.0,14.0,"Sam Howell pass incomplete deep right intended for Jahan Dotson. Penalty on Anfernee Jennings: Defensive Offside, 5 yards (accepted) (no play)",2.72,3.45,9.0,2023,130
+2.0,1:53,1.0,5.0,NWE 38,10.0,14.0,"Penalty on Charles Leno: False Start, 5 yards (accepted) (no play)",3.45,2.72,9.0,2023,130
+2.0,1:53,1.0,10.0,NWE 43,10.0,14.0,Sam Howell pass incomplete short left intended for Terry McLaurin (defended by Christian Barmore),2.72,2.18,9.0,2023,130
+2.0,1:52,2.0,10.0,NWE 43,10.0,14.0,Sam Howell sacked by Deatrich Wise for -13 yards,2.18,-0.23,9.0,2023,130
+2.0,1:46,,,,,,Timeout #1 by New England Patriots,,,9.0,2023,130
+2.0,1:46,3.0,23.0,WAS 44,10.0,14.0,Sam Howell left end for 24 yards (tackle by Jack Jones),-0.23,3.45,9.0,2023,130
+2.0,1:34,1.0,10.0,NWE 32,10.0,14.0,Sam Howell pass complete short middle to Logan Thomas for 11 yards (tackle by Jalen Mills and Ja'Whaun Bentley),3.45,4.17,9.0,2023,130
+2.0,1:00,1.0,10.0,NWE 21,10.0,14.0,Sam Howell pass incomplete deep right intended for Dyami Brown,4.17,3.63,9.0,2023,130
+2.0,0:55,2.0,10.0,NWE 21,10.0,14.0,Sam Howell pass incomplete deep middle intended for John Bates,3.63,2.94,9.0,2023,130
+2.0,0:50,3.0,10.0,NWE 21,10.0,14.0,Sam Howell pass complete deep left to Byron Pringle for 16 yards (tackle by J.C. Jackson),2.94,6.06,9.0,2023,130
+2.0,0:23,1.0,5.0,NWE 5,10.0,14.0,Sam Howell pass short right intended for Jahan Dotson is intercepted by Kyle Dugger in end zone and returned for 20 yards (tackle by Byron Pringle),6.06,0.28,9.0,2023,130
+2.0,0:09,1.0,10.0,NWE 14,10.0,14.0,Mac Jones kneels for -2 yards,-0.28,-0.93,9.0,2023,130
+3.0,15:00,,,WAS 35,10.0,14.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,130
+3.0,15:00,1.0,10.0,NWE 25,10.0,14.0,Mac Jones pass complete short left to Jalen Reagor for 11 yards (tackle by Khaleke Hudson),0.61,1.33,9.0,2023,130
+3.0,14:29,1.0,10.0,NWE 36,10.0,14.0,Mac Jones pass complete short middle to Demario Douglas for 9 yards (tackle by Benjamin St-Juste),1.33,2.01,9.0,2023,130
+3.0,14:04,2.0,1.0,NWE 45,10.0,14.0,Rhamondre Stevenson left guard for 5 yards (tackle by Khaleke Hudson),2.01,2.26,9.0,2023,130
+3.0,13:34,1.0,10.0,NWE 50,10.0,14.0,Mac Jones scrambles right end for 3 yards (tackle by David Mayo),2.26,2.12,9.0,2023,130
+3.0,12:53,2.0,7.0,WAS 47,10.0,14.0,Ezekiel Elliott right tackle for 3 yards (tackle by Jamin Davis and Casey Toohill),2.12,1.82,9.0,2023,130
+3.0,12:23,3.0,4.0,WAS 44,10.0,14.0,Mac Jones pass complete short right to Ezekiel Elliott for 6 yards (tackle by Kamren Curl and Jamin Davis),1.82,3.05,9.0,2023,130
+3.0,11:57,1.0,10.0,WAS 38,10.0,14.0,Demario Douglas right end for no gain (tackle by Emmanuel Forbes),3.05,2.51,9.0,2023,130
+3.0,11:23,2.0,10.0,WAS 38,10.0,14.0,Mac Jones pass incomplete short right intended for Jalen Reagor (defended by Andre Jones),2.51,1.82,9.0,2023,130
+3.0,11:18,3.0,10.0,WAS 38,10.0,14.0,"Mac Jones sacked by K.J. Henry for no gain. Penalty on K.J. Henry: Roughing the Passer, 15 yards (accepted) (no play)",1.82,4.04,9.0,2023,130
+3.0,11:00,1.0,10.0,WAS 23,10.0,14.0,Rhamondre Stevenson left end for -1 yards (tackle by Percy Butler and David Mayo),4.04,3.36,9.0,2023,130
+3.0,10:30,2.0,11.0,WAS 24,10.0,14.0,Mac Jones pass incomplete deep left intended for Jalen Reagor (defended by Emmanuel Forbes),3.36,2.68,9.0,2023,130
+3.0,10:21,3.0,11.0,WAS 24,10.0,14.0,Mac Jones pass incomplete short middle intended for Mike Gesicki (defended by Benjamin St-Juste),2.68,1.87,9.0,2023,130
+3.0,10:17,4.0,11.0,WAS 24,10.0,17.0,Chad Ryland 43 yard field goal good,1.87,3.0,9.0,2023,130
+3.0,10:14,,,NWE 35,10.0,17.0,"Chad Ryland kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,130
+3.0,10:14,1.0,10.0,WAS 25,10.0,17.0,Sam Howell pass complete short middle to Logan Thomas for 7 yards (tackle by Myles Bryant and Jahlani Tavai),0.61,1.01,9.0,2023,130
+3.0,9:40,2.0,3.0,WAS 32,10.0,17.0,Sam Howell pass complete short right to Antonio Gibson for 12 yards (tackle by Kyle Dugger),1.01,1.86,9.0,2023,130
+3.0,8:58,1.0,10.0,WAS 44,10.0,17.0,Brian Robinson up the middle for 7 yards (tackle by Lawrence Guy and Ja'Whaun Bentley),1.86,2.26,9.0,2023,130
+3.0,8:17,2.0,3.0,NWE 49,10.0,17.0,Antonio Gibson up the middle for 4 yards (tackle by Davon Godchaux),2.26,2.59,9.0,2023,130
+3.0,7:40,1.0,10.0,NWE 45,10.0,17.0,Antonio Gibson right end for 12 yards (tackle by Jack Jones),2.59,3.38,9.0,2023,130
+3.0,7:04,1.0,10.0,NWE 33,10.0,17.0,Sam Howell pass incomplete short left intended for Brian Robinson,3.38,2.84,9.0,2023,130
+3.0,6:58,2.0,10.0,NWE 33,16.0,17.0,"Sam Howell pass complete deep middle to Jahan Dotson for 33 yards, touchdown",2.84,7.0,9.0,2023,130
+3.0,6:51,,,NWE 15,17.0,17.0,Joey Slye kicks extra point good,0.0,0.0,9.0,2023,130
+3.0,6:51,,,WAS 35,17.0,17.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,130
+3.0,6:51,1.0,10.0,NWE 25,17.0,17.0,Ezekiel Elliott right guard for no gain (tackle by Jamin Davis),0.61,0.06,9.0,2023,130
+3.0,6:23,2.0,10.0,NWE 25,17.0,17.0,Mac Jones pass complete short right to Hunter Henry for 11 yards (tackle by Percy Butler),0.06,1.33,9.0,2023,130
+3.0,5:57,1.0,10.0,NWE 36,17.0,17.0,Mac Jones pass complete short left to JuJu Smith-Schuster for 1 yard (tackle by Kendall Fuller),1.33,0.93,9.0,2023,130
+3.0,5:32,2.0,9.0,NWE 37,17.0,17.0,Mac Jones pass incomplete short left intended for Jalen Reagor (defended by Emmanuel Forbes),0.93,0.23,9.0,2023,130
+3.0,5:28,3.0,9.0,NWE 37,17.0,17.0,Mac Jones pass complete short right to JuJu Smith-Schuster for 4 yards (tackle by Kendall Fuller and Efe Obada),0.23,-0.65,9.0,2023,130
+3.0,4:50,4.0,5.0,NWE 41,17.0,17.0,"Bryce Baringer punts 49 yards, returned by Jamison Crowder for 14 yards (tackle by Ty Montgomery and Brenden Schooler)",-0.65,-0.54,9.0,2023,130
+3.0,4:39,1.0,10.0,WAS 24,17.0,17.0,Sam Howell pass incomplete short right intended for Jahan Dotson,0.54,0.0,9.0,2023,130
+3.0,4:35,2.0,10.0,WAS 24,17.0,17.0,Brian Robinson left end for 2 yards (tackle by Jabrill Peppers),0.0,-0.43,9.0,2023,130
+3.0,3:55,3.0,8.0,WAS 26,17.0,17.0,Sam Howell pass complete deep left to Terry McLaurin for 26 yards,-0.43,2.39,9.0,2023,130
+3.0,3:26,1.0,10.0,NWE 48,17.0,17.0,Sam Howell pass complete short middle to Terry McLaurin for 36 yards (tackle by Jonathan Jones),2.39,4.78,9.0,2023,130
+3.0,2:48,1.0,10.0,NWE 12,17.0,17.0,Brian Robinson up the middle for 1 yard (tackle by Ja'Whaun Bentley and Anfernee Jennings),4.78,4.27,9.0,2023,130
+3.0,2:01,2.0,9.0,NWE 11,17.0,17.0,Sam Howell pass incomplete short left intended for Logan Thomas,4.27,3.29,9.0,2023,130
+3.0,1:57,3.0,9.0,NWE 11,17.0,17.0,Sam Howell pass incomplete short left intended for Jamison Crowder,3.29,2.7,9.0,2023,130
+3.0,1:52,4.0,9.0,NWE 11,20.0,17.0,Joey Slye 30 yard field goal good,2.7,3.0,9.0,2023,130
+3.0,1:49,,,WAS 35,20.0,17.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,130
+3.0,1:49,1.0,10.0,NWE 25,20.0,17.0,Mac Jones pass complete short right to Rhamondre Stevenson for 8 yards (tackle by Andre Jones),0.61,1.14,9.0,2023,130
+3.0,1:23,2.0,2.0,NWE 33,20.0,17.0,Rhamondre Stevenson up the middle for 7 yards (tackle by Percy Butler and Jamin Davis),1.14,1.6,9.0,2023,130
+3.0,0:47,1.0,10.0,NWE 40,20.0,17.0,Mac Jones pass incomplete deep right intended for Jalen Reagor,1.6,1.05,9.0,2023,130
+3.0,0:39,2.0,10.0,NWE 40,20.0,17.0,Mac Jones pass complete short left to JuJu Smith-Schuster for 7 yards (tackle by Kendall Fuller),1.05,1.29,9.0,2023,130
+4.0,15:00,3.0,3.0,NWE 47,20.0,17.0,"Mac Jones pass incomplete short left intended for Ezekiel Elliott. Penalty on Hunter Henry: Offensive Pass Interference, 10 yards (declined)",1.29,-0.26,9.0,2023,130
+4.0,14:57,4.0,3.0,NWE 47,20.0,17.0,"Bryce Baringer punts 53 yards, touchback.",-0.26,-0.28,9.0,2023,130
+4.0,14:48,1.0,10.0,WAS 20,20.0,17.0,Brian Robinson right guard for 4 yards (tackle by Lawrence Guy and Deatrich Wise),0.28,0.27,9.0,2023,130
+4.0,14:10,2.0,6.0,WAS 24,20.0,17.0,Sam Howell pass complete short left to Jamison Crowder for 5 yards (tackle by Jahlani Tavai),0.27,0.23,9.0,2023,130
+4.0,13:30,3.0,1.0,WAS 29,20.0,17.0,Brian Robinson up the middle for 2 yards (tackle by Anfernee Jennings),0.23,1.0,9.0,2023,130
+4.0,12:51,1.0,10.0,WAS 31,20.0,17.0,Sam Howell pass incomplete short right,1.0,0.46,9.0,2023,130
+4.0,12:43,2.0,10.0,WAS 31,20.0,17.0,Sam Howell sacked by Ja'Whaun Bentley for -1 yards,0.46,-0.36,9.0,2023,130
+4.0,11:59,,,,,,Timeout #1 by Washington Commanders,,,9.0,2023,130
+4.0,11:59,3.0,11.0,WAS 30,20.0,17.0,Sam Howell pass complete short right to Logan Thomas for 10 yards (tackle by Ja'Whaun Bentley),-0.36,-0.72,9.0,2023,130
+4.0,11:20,4.0,1.0,WAS 40,20.0,17.0,"Tress Way punts 53 yards, returned by Demario Douglas for -2 yards (tackle by Chris Rodriguez)",-0.72,0.38,9.0,2023,130
+4.0,11:10,1.0,10.0,NWE 5,20.0,17.0,Rhamondre Stevenson up the middle for no gain (tackle by John Ridgeway),-0.38,-0.78,9.0,2023,130
+4.0,10:44,2.0,10.0,NWE 5,20.0,17.0,Mac Jones pass complete short right to Demario Douglas for 11 yards (tackle by Kendall Fuller),-0.78,-0.14,9.0,2023,130
+4.0,10:18,1.0,10.0,NWE 16,20.0,17.0,Rhamondre Stevenson left guard for 4 yards (tackle by James Smith-Williams and Jamin Davis),-0.14,0.01,9.0,2023,130
+4.0,9:42,2.0,6.0,NWE 20,20.0,17.0,"Mac Jones pass complete deep right to Demario Douglas for 22 yards (tackle by Benjamin St-Juste) WAS challenged the pass completion ruling, and the original play was overturned. Mac Jones pass incomplete deep right intended for Demario Douglas (defended by Benjamin St-Juste)",0.01,-0.82,9.0,2023,130
+4.0,9:38,3.0,6.0,NWE 20,20.0,17.0,Mac Jones pass incomplete deep right intended for Rhamondre Stevenson (defended by Jamin Davis),-0.82,-2.03,9.0,2023,130
+4.0,9:33,4.0,6.0,NWE 20,20.0,17.0,"Bryce Baringer punts 60 yards, returned by Jamison Crowder for 14 yards (tackle by Brenden Schooler)",-2.03,-1.2,9.0,2023,130
+4.0,9:20,1.0,10.0,WAS 34,20.0,17.0,Sam Howell scrambles up the middle for 1 yard (tackle by Deatrich Wise),1.2,0.79,9.0,2023,130
+4.0,8:39,2.0,9.0,WAS 35,20.0,17.0,Brian Robinson up the middle for 3 yards (tackle by Deatrich Wise),0.79,0.5,9.0,2023,130
+4.0,7:56,3.0,6.0,WAS 38,20.0,17.0,Sam Howell sacked by Ja'Whaun Bentley for -3 yards,0.5,-1.04,9.0,2023,130
+4.0,7:21,4.0,9.0,WAS 35,20.0,17.0,"Tress Way punts 47 yards, returned by Demario Douglas for no gain (tackle by Alex Armah). Penalty on Brenden Schooler: Face Mask (15 Yards), 9 yards (accepted)",-1.04,0.38,9.0,2023,130
+4.0,7:10,1.0,10.0,NWE 9,20.0,17.0,Mac Jones pass complete short right to Ezekiel Elliott for 4 yards (tackle by Kamren Curl and Daron Payne),-0.38,-0.48,9.0,2023,130
+4.0,6:33,2.0,6.0,NWE 13,20.0,17.0,Mac Jones pass complete short right to Demario Douglas for 18 yards (tackle by Jamin Davis),-0.48,1.0,9.0,2023,130
+4.0,5:53,1.0,10.0,NWE 31,20.0,17.0,Ezekiel Elliott up the middle for 3 yards (tackle by John Ridgeway),1.0,0.87,9.0,2023,130
+4.0,5:26,2.0,7.0,NWE 34,20.0,17.0,Mac Jones pass incomplete short right intended for Ezekiel Elliott,0.87,0.17,9.0,2023,130
+4.0,5:21,3.0,7.0,NWE 34,20.0,17.0,Mac Jones pass incomplete deep right intended for Jalen Reagor,0.17,-1.11,9.0,2023,130
+4.0,5:14,4.0,7.0,NWE 34,20.0,17.0,"Bryce Baringer punts 56 yards, returned by Jamison Crowder for no gain (tackle by Pharaoh Brown and Marte Mapu). Penalty on Christian Holmes: Offensive Holding, 5 yards (accepted)",-1.11,0.38,9.0,2023,130
+4.0,5:04,1.0,10.0,WAS 5,20.0,17.0,Brian Robinson up the middle for no gain (tackle by Davon Godchaux and Deatrich Wise),-0.38,-0.78,9.0,2023,130
+4.0,4:23,2.0,10.0,WAS 5,20.0,17.0,Sam Howell pass complete short right to Antonio Gibson for 7 yards (tackle by Marte Mapu),-0.78,-0.6,9.0,2023,130
+4.0,4:15,3.0,3.0,WAS 12,20.0,17.0,Sam Howell pass complete short left to Terry McLaurin for 7 yards (tackle by Myles Bryant),-0.6,0.15,9.0,2023,130
+4.0,3:29,1.0,10.0,WAS 19,20.0,17.0,Brian Robinson up the middle for 2 yards (tackle by Davon Godchaux),0.15,-0.06,9.0,2023,130
+4.0,3:24,,,,,,Timeout #1 by New England Patriots,,,9.0,2023,130
+4.0,3:24,2.0,8.0,WAS 21,20.0,17.0,Sam Howell pass incomplete short right intended for Terry McLaurin (defended by Christian Barmore) (defended by Jabrill Peppers),-0.06,-0.81,9.0,2023,130
+4.0,3:22,3.0,8.0,WAS 21,20.0,17.0,Sam Howell pass complete short left to Jamison Crowder for 6 yards (tackle by Myles Bryant),-0.81,-1.57,9.0,2023,130
+4.0,2:41,4.0,2.0,WAS 27,20.0,17.0,"Tress Way punts, returned by Demario Douglas for no gain. Penalty on Mack Wilson: Offensive Holding, 10 yards (declined) . Penalty on Mack Wilson: Defensive Offside, 5 yards (accepted) (no play)",-1.57,1.07,9.0,2023,130
+4.0,2:29,1.0,10.0,WAS 32,20.0,17.0,Brian Robinson left guard for 2 yards (tackle by Jahlani Tavai and Christian Barmore),1.07,0.8,9.0,2023,130
+4.0,2:25,,,,,,Timeout #2 by New England Patriots,,,9.0,2023,130
+4.0,2:25,2.0,8.0,WAS 34,20.0,17.0,Brian Robinson left tackle for 2 yards (tackle by Ja'Whaun Bentley),0.8,0.37,9.0,2023,130
+4.0,2:21,,,,,,Timeout #3 by New England Patriots,,,9.0,2023,130
+4.0,2:21,3.0,6.0,WAS 36,20.0,17.0,Sam Howell pass incomplete deep right intended for Dyami Brown,0.37,-0.98,9.0,2023,130
+4.0,2:14,4.0,6.0,WAS 36,20.0,17.0,"Tress Way punts 64 yards, touchback.. Penalty on Brenden Schooler: Offensive Holding, 11 yards (accepted)",-0.98,0.38,9.0,2023,130
+4.0,2:07,1.0,10.0,NWE 9,20.0,17.0,Mac Jones pass complete short middle to Rhamondre Stevenson for 15 yards (tackle by David Mayo),-0.38,0.54,9.0,2023,130
+4.0,2:00,1.0,10.0,NWE 24,20.0,17.0,Mac Jones pass complete short right to Hunter Henry for 8 yards (tackle by Kendall Fuller),0.54,1.08,9.0,2023,130
+4.0,1:55,2.0,2.0,NWE 32,20.0,17.0,Mac Jones pass complete short middle to JuJu Smith-Schuster for 13 yards (tackle by Kendall Fuller),1.08,1.93,9.0,2023,130
+4.0,1:34,1.0,10.0,NWE 45,20.0,17.0,Mac Jones pass incomplete short left intended for Hunter Henry (defended by Percy Butler),1.93,1.38,9.0,2023,130
+4.0,1:32,2.0,10.0,NWE 45,20.0,17.0,Mac Jones pass incomplete deep left intended for Mike Gesicki,1.38,0.7,9.0,2023,130
+4.0,1:26,3.0,10.0,NWE 45,20.0,17.0,Mac Jones pass complete short right to Rhamondre Stevenson for 6 yards (tackle by Emmanuel Forbes),0.7,0.0,9.0,2023,130
+4.0,1:04,4.0,4.0,WAS 49,20.0,17.0,Mac Jones pass complete short middle to JuJu Smith-Schuster for 6 yards (tackle by Emmanuel Forbes),0.0,2.72,9.0,2023,130
+4.0,0:45,1.0,10.0,WAS 43,20.0,17.0,Mac Jones scrambles right end for 2 yards (tackle by Kamren Curl),2.72,2.52,9.0,2023,130
+4.0,0:38,2.0,7.0,WAS 41,20.0,17.0,Mac Jones pass short middle intended for JuJu Smith-Schuster is intercepted by Jartavius Martin at WAS-33 and returned for no gain (tackle by JuJu Smith-Schuster),2.52,-1.14,9.0,2023,130
+4.0,0:30,1.0,10.0,WAS 33,20.0,17.0,Sam Howell kneels for -1 yards,1.14,0.46,9.0,2023,130

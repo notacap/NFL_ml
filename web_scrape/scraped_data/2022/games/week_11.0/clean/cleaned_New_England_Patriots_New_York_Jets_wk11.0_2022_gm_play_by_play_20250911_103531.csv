@@ -1,0 +1,159 @@
+Quarter,Time,Down,ToGo,Location,NYJ,NWE,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Jets won the coin toss and deferred, Patriots to receive the opening kickoff.",,,11.0,2022,155
+1.0,15:00,,,NYJ 35,0.0,0.0,"Braden Mann kicks off 65 yards, touchback.",0.0,0.61,11.0,2022,155
+1.0,15:00,1.0,10.0,NWE 25,0.0,0.0,Mac Jones sacked by and Quincy Williams for -7 yards and John Franklin-Myers for -7 yards,0.61,-0.98,11.0,2022,155
+1.0,14:25,2.0,17.0,NWE 18,0.0,0.0,Damien Harris left guard for 4 yards (tackle by Carl Lawson),-0.98,-1.02,11.0,2022,155
+1.0,13:45,3.0,13.0,NWE 22,0.0,0.0,Mac Jones pass complete short middle to Nelson Agholor for 7 yards (tackle by C.J. Mosley),-1.02,-1.44,11.0,2022,155
+1.0,13:14,4.0,6.0,NWE 29,0.0,0.0,"Michael Palardy punts 46 yards, fair catch by Braxton Berrios at NYJ-25",-1.44,-0.61,11.0,2022,155
+1.0,13:07,1.0,10.0,NYJ 25,0.0,0.0,Zach Wilson scrambles right end for 6 yards (tackle by Matt Judon),0.61,0.87,11.0,2022,155
+1.0,12:32,2.0,4.0,NYJ 31,0.0,0.0,Michael Carter left guard for no gain (tackle by Ja'Whaun Bentley and Matt Judon),0.87,0.17,11.0,2022,155
+1.0,11:51,3.0,4.0,NYJ 31,0.0,0.0,Zach Wilson pass incomplete short left,0.17,-1.31,11.0,2022,155
+1.0,11:48,4.0,4.0,NYJ 31,0.0,0.0,"Braden Mann punts 43 yards, fair catch by Marcus Jones at NE-26",-1.31,-0.67,11.0,2022,155
+1.0,11:40,1.0,10.0,NWE 26,0.0,0.0,Rhamondre Stevenson up the middle for 1 yard (tackle by Michael Carter),0.67,0.27,11.0,2022,155
+1.0,11:05,2.0,9.0,NWE 27,0.0,0.0,Mac Jones pass complete short left to Jonnu Smith for 7 yards (tackle by D.J. Reed),0.27,0.5,11.0,2022,155
+1.0,10:25,3.0,2.0,NWE 34,0.0,0.0,Mac Jones pass incomplete short left intended for Tyquan Thornton (defended by Sauce Gardner),0.5,-1.11,11.0,2022,155
+1.0,10:19,4.0,2.0,NWE 34,0.0,0.0,"Penalty on Joe Cardona: False Start, 5 yards (accepted) (no play)",-1.11,-1.44,11.0,2022,155
+1.0,10:19,4.0,7.0,NWE 29,0.0,0.0,"Michael Palardy punts 48 yards, fair catch by Braxton Berrios at NYJ-23",-1.44,-0.48,11.0,2022,155
+1.0,10:11,1.0,10.0,NYJ 23,0.0,0.0,James Robinson right tackle for 1 yard (tackle by Matt Judon),0.48,0.07,11.0,2022,155
+1.0,9:31,2.0,9.0,NYJ 24,0.0,0.0,"Penalty on Cedric Ogbuehi: False Start, 5 yards (accepted) (no play)",0.07,-0.67,11.0,2022,155
+1.0,9:04,2.0,14.0,NYJ 19,0.0,0.0,"Zach Wilson scrambles left end for 13 yards (tackle by Ja'Whaun Bentley) NYJ challenged the first down ruling, and the original play was overturned. Zach Wilson scrambles left end for 14 yards (tackle by Ja'Whaun Bentley)",-0.67,1.14,11.0,2022,155
+1.0,8:54,1.0,10.0,NYJ 33,0.0,0.0,Zach Wilson pass incomplete short middle intended for Denzel Mims,1.14,0.59,11.0,2022,155
+1.0,8:50,2.0,10.0,NYJ 33,0.0,0.0,Michael Carter left guard for 3 yards (tackle by Davon Godchaux and Ja'Whaun Bentley),0.59,0.3,11.0,2022,155
+1.0,8:13,3.0,7.0,NYJ 36,0.0,0.0,Zach Wilson pass incomplete short right intended for Elijah Moore,0.3,-0.98,11.0,2022,155
+1.0,7:58,4.0,7.0,NYJ 36,0.0,0.0,"Braden Mann punts 47 yards, returned by Marcus Jones for 2 yards (tackle by Jamien Sherwood). Penalty on Jamien Sherwood: Ineligible Downfield Kick, 5 yards (accepted) (no play)",-0.98,-1.31,11.0,2022,155
+1.0,7:58,4.0,12.0,NYJ 31,0.0,0.0,"Braden Mann punts out of bounds. Penalty on Raekwon McMillan: Running Into the Kicker, 5 yards (accepted) (no play)",-1.31,-0.98,11.0,2022,155
+1.0,7:52,4.0,7.0,NYJ 36,0.0,0.0,Braden Mann punts 44 yards downed by Braxton Berrios,-0.98,-0.28,11.0,2022,155
+1.0,7:43,1.0,10.0,NWE 20,0.0,0.0,Damien Harris right guard for 5 yards (tackle by C.J. Mosley and Lamarcus Joyner),0.28,0.41,11.0,2022,155
+1.0,6:51,2.0,5.0,NWE 25,0.0,0.0,Damien Harris up the middle for 22 yards (tackle by Lamarcus Joyner and Quincy Williams),0.41,2.06,11.0,2022,155
+1.0,6:30,1.0,10.0,NWE 47,0.0,0.0,Damien Harris left guard for 2 yards (tackle by Micheal Clemons),2.06,1.79,11.0,2022,155
+1.0,5:56,2.0,8.0,NWE 49,0.0,0.0,Mac Jones pass complete short right to Jakobi Meyers for 11 yards (tackle by Kwon Alexander),1.79,2.92,11.0,2022,155
+1.0,5:21,1.0,10.0,NYJ 40,0.0,0.0,Damien Harris up the middle for -1 yards (tackle by Jordan Whitehead),2.92,2.24,11.0,2022,155
+1.0,4:41,2.0,11.0,NYJ 41,0.0,0.0,Mac Jones pass complete short left to DeVante Parker for 10 yards (tackle by D.J. Reed),2.24,2.87,11.0,2022,155
+1.0,4:12,3.0,1.0,NYJ 31,0.0,0.0,Mac Jones up the middle for 2 yards (tackle by Micheal Clemons),2.87,3.64,11.0,2022,155
+1.0,3:32,1.0,10.0,NYJ 29,0.0,0.0,Rhamondre Stevenson left guard for 2 yards (tackle by Quinnen Williams),3.64,3.37,11.0,2022,155
+1.0,2:58,2.0,8.0,NYJ 27,0.0,0.0,Mac Jones pass complete short left to Rhamondre Stevenson for 7 yards (tackle by C.J. Mosley and Lamarcus Joyner),3.37,3.6,11.0,2022,155
+1.0,2:20,3.0,1.0,NYJ 20,0.0,0.0,"Jonnu Smith left end for 5 yards. Jonnu Smith fumbles, recovered by Jonnu Smith at NYJ-15",3.6,4.58,11.0,2022,155
+1.0,1:44,1.0,10.0,NYJ 15,0.0,0.0,Rhamondre Stevenson right tackle for no gain (tackle by Quinnen Williams) (no play),4.58,4.24,11.0,2022,155
+1.0,1:23,1.0,15.0,NYJ 20,0.0,0.0,Mac Jones pass incomplete short middle intended for Jakobi Meyers (defended by Michael Carter),4.24,3.35,11.0,2022,155
+1.0,1:19,2.0,15.0,NYJ 20,0.0,0.0,Mac Jones pass complete short right to Rhamondre Stevenson for 6 yards (tackle by Michael Carter),3.35,3.24,11.0,2022,155
+1.0,0:50,3.0,9.0,NYJ 14,0.0,0.0,Mac Jones pass complete short left to Kendrick Bourne for 8 yards (tackle by C.J. Mosley),3.24,3.02,11.0,2022,155
+2.0,15:00,,,,,,Timeout #1 by New England Patriots,,,11.0,2022,155
+2.0,15:00,4.0,1.0,NYJ 6,0.0,3.0,Nick Folk 24 yard field goal good,3.02,3.0,11.0,2022,155
+2.0,14:57,,,NWE 35,0.0,3.0,"Nick Folk kicks off 59 yards, returned by Braxton Berrios for 21 yards (tackle by Brenden Schooler)",0.0,0.74,11.0,2022,155
+2.0,14:52,1.0,10.0,NYJ 27,0.0,3.0,Zach Wilson pass incomplete short right intended for Michael Carter (defended by Deatrich Wise),0.74,0.2,11.0,2022,155
+2.0,14:48,2.0,10.0,NYJ 27,0.0,3.0,Zach Wilson pass complete short left to Garrett Wilson for 6 yards (tackle by Jack Jones),0.2,0.3,11.0,2022,155
+2.0,14:04,3.0,4.0,NYJ 33,0.0,3.0,"Penalty on Matt Judon: Neutral Zone Infraction, 5 yards (accepted) (no play)",0.3,1.47,11.0,2022,155
+2.0,13:41,1.0,10.0,NYJ 38,0.0,3.0,Michael Carter left guard for 3 yards (tackle by Kyle Dugger and Jahlani Tavai),1.47,1.33,11.0,2022,155
+2.0,13:00,2.0,7.0,NYJ 41,0.0,3.0,Zach Wilson pass incomplete deep right intended for Garrett Wilson,1.33,0.63,11.0,2022,155
+2.0,12:53,3.0,7.0,NYJ 41,0.0,3.0,Zach Wilson pass complete deep left to Denzel Mims for 34 yards (tackle by Adrian Phillips),0.63,3.91,11.0,2022,155
+2.0,12:07,1.0,10.0,NWE 25,0.0,3.0,Michael Carter left guard for 1 yard (tackle by Ja'Whaun Bentley and Deatrich Wise),3.91,3.5,11.0,2022,155
+2.0,11:23,2.0,9.0,NWE 24,0.0,3.0,Zach Wilson scrambles left end for 6 yards (tackle by Ja'Whaun Bentley),3.5,3.66,11.0,2022,155
+2.0,10:42,3.0,3.0,NWE 18,0.0,3.0,Ty Johnson left guard for -4 yards (tackle by Deatrich Wise and Myles Bryant),3.66,1.99,11.0,2022,155
+2.0,9:56,4.0,7.0,NWE 22,0.0,3.0,"Penalty on NYJ: Delay of Game, 5 yards (accepted) (no play)",1.99,1.67,11.0,2022,155
+2.0,9:42,4.0,12.0,NWE 27,3.0,3.0,Greg Zuerlein 45 yard field goal good,1.67,3.0,11.0,2022,155
+2.0,9:38,,,NYJ 35,3.0,3.0,"Braden Mann kicks off 50 yards, returned by Jonnu Smith for 15 yards (tackle by Micheal Clemons)",0.0,0.94,11.0,2022,155
+2.0,9:32,1.0,10.0,NWE 30,3.0,3.0,Mac Jones pass complete short right to Jonnu Smith for 4 yards (tackle by Jordan Whitehead),0.94,0.93,11.0,2022,155
+2.0,8:57,2.0,6.0,NWE 34,3.0,3.0,Mac Jones pass incomplete deep left intended for Nelson Agholor,0.93,0.23,11.0,2022,155
+2.0,8:47,3.0,6.0,NWE 34,3.0,3.0,Mac Jones pass complete short middle to Jakobi Meyers for 13 yards (tackle by Michael Carter),0.23,2.06,11.0,2022,155
+2.0,8:05,1.0,10.0,NWE 47,3.0,3.0,Mac Jones pass complete short right to Jonnu Smith for 26 yards (tackle by Kwon Alexander),2.06,3.78,11.0,2022,155
+2.0,7:28,,,,,,Timeout #2 by New England Patriots,,,11.0,2022,155
+2.0,7:28,1.0,10.0,NYJ 27,3.0,3.0,Rhamondre Stevenson right guard for 2 yards (tackle by Quincy Williams and C.J. Mosley),3.78,3.5,11.0,2022,155
+2.0,6:59,2.0,8.0,NYJ 25,3.0,3.0,Mac Jones sacked by Quinnen Williams for -8 yards,3.5,1.75,11.0,2022,155
+2.0,6:17,3.0,16.0,NYJ 33,3.0,3.0,Mac Jones pass complete short right to Rhamondre Stevenson for 18 yards (tackle by Michael Carter),1.75,4.58,11.0,2022,155
+2.0,5:32,1.0,10.0,NYJ 15,3.0,3.0,Rhamondre Stevenson left guard for 3 yards (tackle by C.J. Mosley),4.58,4.45,11.0,2022,155
+2.0,4:48,2.0,7.0,NYJ 12,3.0,3.0,Rhamondre Stevenson right tackle for 5 yards (tackle by Sauce Gardner),4.45,4.68,11.0,2022,155
+2.0,4:06,3.0,2.0,NYJ 7,3.0,3.0,"Mac Jones scrambles right tackle for no gain (tackle by Michael Carter). Penalty on Yodny Cajuste: Offensive Holding, 10 yards (accepted) (no play)",4.68,2.98,11.0,2022,155
+2.0,3:37,3.0,12.0,NYJ 17,3.0,3.0,Mac Jones sacked by Carl Lawson for -9 yards,2.98,1.74,11.0,2022,155
+2.0,2:55,4.0,21.0,NYJ 26,3.0,3.0,Nick Folk 44 yard field goal no good,1.74,-1.2,11.0,2022,155
+2.0,2:49,1.0,10.0,NYJ 34,3.0,3.0,James Robinson right guard for 3 yards (tackle by Ja'Whaun Bentley),1.2,1.06,11.0,2022,155
+2.0,2:11,2.0,7.0,NYJ 37,3.0,3.0,James Robinson left end for -1 yards (tackle by Raekwon McMillan),1.06,0.23,11.0,2022,155
+2.0,2:00,3.0,8.0,NYJ 36,3.0,3.0,Zach Wilson pass complete short right to Elijah Moore for 13 yards,0.23,2.19,11.0,2022,155
+2.0,1:55,1.0,10.0,NYJ 49,3.0,3.0,Zach Wilson pass complete short left to Elijah Moore for 4 yards,2.19,2.19,11.0,2022,155
+2.0,1:46,2.0,6.0,NWE 47,3.0,3.0,Ty Johnson left end for 4 yards (tackle by Raekwon McMillan and Jabrill Peppers),2.19,2.01,11.0,2022,155
+2.0,1:02,3.0,2.0,NWE 43,3.0,3.0,Zach Wilson pass incomplete short middle intended for Tyler Conklin,2.01,0.4,11.0,2022,155
+2.0,0:56,4.0,2.0,NWE 43,3.0,3.0,Braden Mann punts 29 yards downed by Justin Hardee,0.4,0.28,11.0,2022,155
+2.0,0:45,1.0,10.0,NWE 14,3.0,3.0,Rhamondre Stevenson right guard for 3 yards (tackle by Michael Carter and Quinnen Williams),-0.28,-0.37,11.0,2022,155
+2.0,0:40,,,,,,Timeout #1 by New York Jets,,,11.0,2022,155
+2.0,0:40,2.0,7.0,NWE 17,3.0,3.0,Mac Jones pass complete short left to Rhamondre Stevenson for 3 yards (tackle by Carl Lawson and Quincy Williams),-0.37,-0.68,11.0,2022,155
+2.0,0:34,,,,,,Timeout #2 by New York Jets,,,11.0,2022,155
+2.0,0:34,3.0,4.0,NWE 20,3.0,3.0,Rhamondre Stevenson left guard for no gain (tackle by John Franklin-Myers and Quincy Williams),-0.68,-2.03,11.0,2022,155
+2.0,0:29,,,,,,Timeout #3 by New York Jets,,,11.0,2022,155
+2.0,0:29,4.0,4.0,NWE 20,3.0,3.0,"Michael Palardy punts 47 yards, returned by Braxton Berrios for 9 yards (tackle by Matthew Slater)",-2.03,-1.73,11.0,2022,155
+2.0,0:19,1.0,10.0,NYJ 42,3.0,3.0,Zach Wilson pass complete short left to Tyler Conklin for 8 yards (tackle by Myles Bryant and Kyle Dugger),1.73,2.27,11.0,2022,155
+3.0,15:00,,,NWE 35,3.0,3.0,"Nick Folk kicks off 50 yards, returned by Ty Johnson for 19 yards (tackle by Pierre Strong and Jabrill Peppers)",0.0,1.2,11.0,2022,155
+3.0,14:54,1.0,10.0,NYJ 34,3.0,3.0,Zach Wilson pass incomplete short left intended for Braxton Berrios,1.2,0.66,11.0,2022,155
+3.0,14:50,2.0,10.0,NYJ 34,3.0,3.0,Michael Carter up the middle for 3 yards (tackle by Deatrich Wise and Adrian Phillips),0.66,0.37,11.0,2022,155
+3.0,14:02,3.0,7.0,NYJ 37,3.0,3.0,Zach Wilson sacked by and Matt Judon for -9 yards and Mack Wilson for -9 yards,0.37,-1.5,11.0,2022,155
+3.0,13:15,4.0,16.0,NYJ 28,3.0,3.0,"Braden Mann punts 57 yards, returned by Marcus Jones for 13 yards (tackle by Justin Hardee)",-1.5,-0.81,11.0,2022,155
+3.0,13:05,1.0,10.0,NWE 28,3.0,3.0,Mac Jones pass complete short left to Tyquan Thornton for 5 yards (tackle by D.J. Reed),0.81,0.94,11.0,2022,155
+3.0,12:33,2.0,5.0,NWE 33,3.0,3.0,Damien Harris right tackle for 30 yards (tackle by Lamarcus Joyner),0.94,3.12,11.0,2022,155
+3.0,11:58,1.0,10.0,NYJ 37,3.0,3.0,Mac Jones pass complete short left to Damien Harris for 15 yards (tackle by D.J. Reed),3.12,4.11,11.0,2022,155
+3.0,11:34,1.0,10.0,NYJ 22,3.0,3.0,Mac Jones sacked by Micheal Clemons for -7 yards,4.11,2.62,11.0,2022,155
+3.0,10:52,2.0,17.0,NYJ 29,3.0,3.0,"Rhamondre Stevenson right guard for no gain (tackle by Quincy Williams and Nathan Shepherd). Penalty on James Ferentz: Offensive Holding, 10 yards (accepted) (no play)",2.62,1.27,11.0,2022,155
+3.0,10:31,2.0,27.0,NYJ 39,3.0,3.0,Mac Jones pass complete short right to Rhamondre Stevenson for 5 yards (tackle by Jermaine Johnson),1.27,1.29,11.0,2022,155
+3.0,9:53,3.0,22.0,NYJ 34,3.0,3.0,Mac Jones pass complete short left to DeVante Parker for 9 yards (tackle by D.J. Reed),1.29,1.8,11.0,2022,155
+3.0,9:13,4.0,13.0,NYJ 25,3.0,3.0,Nick Folk 43 yard field goal no good,1.8,-1.14,11.0,2022,155
+3.0,9:08,1.0,10.0,NYJ 33,3.0,3.0,James Robinson left guard for 2 yards (tackle by Davon Godchaux),1.14,0.86,11.0,2022,155
+3.0,8:29,2.0,8.0,NYJ 35,3.0,3.0,Garrett Wilson right end for no gain (tackle by Jahlani Tavai and Jonathan Jones),0.86,0.17,11.0,2022,155
+3.0,7:50,3.0,8.0,NYJ 35,3.0,3.0,Zach Wilson pass incomplete deep middle intended for Denzel Mims,0.17,-1.04,11.0,2022,155
+3.0,7:45,4.0,8.0,NYJ 35,3.0,3.0,"Braden Mann punts 57 yards, returned by Marcus Jones for 7 yards (tackle by C.J. Uzomah)",-1.04,0.22,11.0,2022,155
+3.0,7:32,1.0,10.0,NWE 15,3.0,3.0,Mac Jones pass complete deep left to Jakobi Meyers for 20 yards (tackle by Kwon Alexander),-0.22,1.27,11.0,2022,155
+3.0,6:53,1.0,10.0,NWE 35,3.0,3.0,Mac Jones pass complete short right to Hunter Henry for 20 yards (tackle by Jordan Whitehead),1.27,2.59,11.0,2022,155
+3.0,6:16,1.0,10.0,NYJ 45,3.0,3.0,Rhamondre Stevenson left end for 2 yards (tackle by Vinny Curry),2.59,2.31,11.0,2022,155
+3.0,5:41,2.0,8.0,NYJ 43,3.0,3.0,Rhamondre Stevenson right guard for -2 yards (tackle by C.J. Mosley and Tanzel Smart),2.31,1.36,11.0,2022,155
+3.0,5:03,3.0,10.0,NYJ 45,3.0,3.0,Mac Jones sacked by Bryce Huff for -6 yards,1.36,-0.13,11.0,2022,155
+3.0,4:22,4.0,16.0,NWE 49,3.0,3.0,Michael Palardy punts 46 yards downed by Brenden Schooler,-0.13,0.38,11.0,2022,155
+3.0,4:10,1.0,10.0,NYJ 5,3.0,3.0,Zach Wilson pass incomplete short left,-0.38,-0.78,11.0,2022,155
+3.0,4:04,2.0,10.0,NYJ 5,3.0,3.0,"Michael Carter left end for no gain (tackle by Anfernee Jennings). Penalty on Dan Feeney: Offensive Holding, 10 yards (declined)",-0.78,-1.42,11.0,2022,155
+3.0,3:35,3.0,10.0,NYJ 5,3.0,3.0,Zach Wilson pass complete short middle to Tyler Conklin for 7 yards (tackle by Kyle Dugger and Adrian Phillips),-1.42,-2.49,11.0,2022,155
+3.0,2:58,4.0,3.0,NYJ 12,3.0,3.0,"Braden Mann punts 49 yards, returned by Marcus Jones for 5 yards (tackle by Justin Hardee)",-2.49,-1.86,11.0,2022,155
+3.0,2:46,1.0,10.0,NWE 44,3.0,3.0,Mac Jones pass complete short middle to Damien Harris for 13 yards (tackle by D.J. Reed),1.86,2.72,11.0,2022,155
+3.0,2:08,1.0,10.0,NYJ 43,3.0,3.0,Damien Harris right guard for 6 yards (tackle by Jordan Whitehead),2.72,2.99,11.0,2022,155
+3.0,1:37,2.0,4.0,NYJ 37,3.0,3.0,Damien Harris left guard for -3 yards (tackle by Quincy Williams),2.99,1.88,11.0,2022,155
+3.0,0:55,3.0,7.0,NYJ 40,3.0,3.0,Rhamondre Stevenson left tackle for 4 yards (tackle by Jordan Whitehead),1.88,0.89,11.0,2022,155
+3.0,0:14,4.0,3.0,NYJ 36,3.0,3.0,Rhamondre Stevenson left end for no gain (tackle by C.J. Mosley),0.89,-1.33,11.0,2022,155
+3.0,0:06,1.0,10.0,NYJ 36,3.0,3.0,Zach Wilson pass incomplete short left intended for Denzel Mims,1.33,0.79,11.0,2022,155
+3.0,0:02,2.0,10.0,NYJ 36,3.0,3.0,James Robinson left end for -2 yards (tackle by Lawrence Guy and Deatrich Wise),0.79,-0.16,11.0,2022,155
+4.0,15:00,3.0,12.0,NYJ 34,3.0,3.0,Zach Wilson sacked by Matt Judon for -9 yards,-0.16,-1.7,11.0,2022,155
+4.0,14:28,,,,,,Timeout #1 by New England Patriots,,,11.0,2022,155
+4.0,14:28,4.0,21.0,NYJ 25,3.0,3.0,"Braden Mann punts 46 yards, returned by Myles Bryant for 12 yards (tackle by Ashtyn Davis). Penalty on Justin Hardee: Player Out of Bounds on a Punt, 5 yards (offset) . Penalty on Jonathan Jones: Offensive Holding, 10 yards (offset) (no play)",-1.7,-1.7,11.0,2022,155
+4.0,14:16,4.0,21.0,NYJ 25,3.0,3.0,"Braden Mann punts 47 yards, returned by Myles Bryant for no gain",-1.7,-0.81,11.0,2022,155
+4.0,14:09,1.0,10.0,NWE 28,3.0,3.0,"Rhamondre Stevenson left guard for no gain (tackle by Michael Carter). Penalty on DeVante Parker: Offensive Illegal Block Above the Waist, 10 yards (accepted) (no play)",0.81,-0.04,11.0,2022,155
+4.0,13:45,1.0,20.0,NWE 18,3.0,3.0,Mac Jones pass complete short right to Rhamondre Stevenson for 17 yards (tackle by Lamarcus Joyner),-0.04,1.21,11.0,2022,155
+4.0,13:02,2.0,3.0,NWE 35,3.0,3.0,Rhamondre Stevenson left tackle for 5 yards (tackle by Vinny Curry),1.21,1.6,11.0,2022,155
+4.0,12:29,1.0,10.0,NWE 40,3.0,3.0,Rhamondre Stevenson right tackle for 2 yards (tackle by Jermaine Johnson),1.6,1.32,11.0,2022,155
+4.0,11:47,2.0,8.0,NWE 42,3.0,3.0,Rhamondre Stevenson left guard for 1 yard (tackle by Quinnen Williams),1.32,0.76,11.0,2022,155
+4.0,11:07,3.0,7.0,NWE 43,3.0,3.0,Mac Jones pass incomplete short right intended for Jakobi Meyers,0.76,-0.52,11.0,2022,155
+4.0,11:00,4.0,7.0,NWE 43,3.0,3.0,"Michael Palardy punts 39 yards, fair catch by Braxton Berrios at NYJ-18",-0.52,-0.04,11.0,2022,155
+4.0,10:52,1.0,10.0,NYJ 18,3.0,3.0,Zach Wilson sacked by Kyle Dugger for -8 yards,0.04,-1.36,11.0,2022,155
+4.0,10:25,2.0,18.0,NYJ 10,3.0,3.0,Zach Wilson pass complete short right to Denzel Mims for 1 yard (tackle by Jonathan Jones),-1.36,-2.24,11.0,2022,155
+4.0,9:44,3.0,17.0,NYJ 11,3.0,3.0,Ty Johnson right guard for 7 yards (tackle by Ja'Whaun Bentley),-2.24,-2.24,11.0,2022,155
+4.0,9:08,4.0,10.0,NYJ 18,3.0,3.0,Braden Mann punts 37 yards out of bounds,-2.24,-1.93,11.0,2022,155
+4.0,9:01,1.0,10.0,NWE 45,3.0,3.0,Mac Jones sacked by and Quincy Williams for -11 yards and John Franklin-Myers for -11 yards,1.93,-0.1,11.0,2022,155
+4.0,8:18,2.0,21.0,NWE 34,3.0,3.0,Mac Jones pass complete short right to Jonnu Smith for 3 yards (tackle by C.J. Mosley),-0.1,-0.36,11.0,2022,155
+4.0,7:29,3.0,18.0,NWE 37,3.0,3.0,Mac Jones pass complete short left to Nelson Agholor for 11 yards (tackle by Brandin Echols),-0.36,-0.19,11.0,2022,155
+4.0,6:48,4.0,7.0,NWE 48,3.0,3.0,"Michael Palardy punts 52 yards, touchback.",-0.19,-0.28,11.0,2022,155
+4.0,6:40,1.0,10.0,NYJ 20,3.0,3.0,James Robinson left tackle for 5 yards (tackle by Ja'Whaun Bentley),0.28,0.41,11.0,2022,155
+4.0,6:08,2.0,5.0,NYJ 25,3.0,3.0,James Robinson left guard for 2 yards (tackle by Raekwon McMillan and Lawrence Guy),0.41,-0.03,11.0,2022,155
+4.0,5:27,3.0,3.0,NYJ 27,3.0,3.0,Zach Wilson pass complete short left to Garrett Wilson for 6 yards (tackle by Jalen Mills),-0.03,1.14,11.0,2022,155
+4.0,5:03,1.0,10.0,NYJ 33,3.0,3.0,Ty Johnson up the middle for -3 yards (tackle by Mack Wilson and Daniel Ekuale),1.14,0.19,11.0,2022,155
+4.0,4:22,,,,,,Timeout #1 by New York Jets,,,11.0,2022,155
+4.0,4:22,2.0,13.0,NYJ 30,3.0,3.0,Zach Wilson pass incomplete deep left intended for Ty Johnson (defended by Kyle Dugger),0.19,-0.49,11.0,2022,155
+4.0,4:15,3.0,13.0,NYJ 30,3.0,3.0,Zach Wilson sacked by Deatrich Wise for -7 yards,-0.49,-1.83,11.0,2022,155
+4.0,3:32,4.0,20.0,NYJ 23,3.0,3.0,Braden Mann punts 43 yards out of bounds,-1.83,-1.2,11.0,2022,155
+4.0,3:22,1.0,10.0,NWE 34,3.0,3.0,Mac Jones pass complete short right to Jakobi Meyers for 8 yards,1.2,1.74,11.0,2022,155
+4.0,3:18,2.0,2.0,NWE 42,3.0,3.0,Mac Jones up the middle for 1 yard (tackle by Tanzel Smart),1.74,1.16,11.0,2022,155
+4.0,2:43,3.0,1.0,NWE 43,3.0,3.0,Rhamondre Stevenson left guard for -2 yards (tackle by Jordan Whitehead and Quinnen Williams),1.16,-0.65,11.0,2022,155
+4.0,2:00,4.0,3.0,NWE 41,3.0,3.0,Michael Palardy punts 39 yards. Braxton Berrios fumbles out of bounds,-0.65,-0.28,11.0,2022,155
+4.0,1:52,1.0,10.0,NYJ 20,3.0,3.0,Zach Wilson pass incomplete short right intended for Elijah Moore,0.28,-0.27,11.0,2022,155
+4.0,1:45,2.0,10.0,NYJ 20,3.0,3.0,Zach Wilson pass incomplete short right intended for Denzel Mims (defended by Jonathan Jones),-0.27,-0.96,11.0,2022,155
+4.0,1:40,3.0,10.0,NYJ 20,3.0,3.0,"Zach Wilson sacked by Mack Wilson for no gain. Penalty on Jonathan Jones: Defensive Holding, 5 yards (accepted) (no play)",-0.96,0.61,11.0,2022,155
+4.0,1:33,1.0,10.0,NYJ 25,3.0,3.0,Michael Carter up the middle for 8 yards (tackle by Ja'Whaun Bentley),0.61,1.14,11.0,2022,155
+4.0,1:09,2.0,2.0,NYJ 33,3.0,3.0,Michael Carter left tackle for 1 yard (tackle by Adrian Phillips and Kyle Dugger),1.14,0.56,11.0,2022,155
+4.0,0:32,,,,,,Timeout #2 by New York Jets,,,11.0,2022,155
+4.0,0:32,3.0,1.0,NYJ 34,3.0,3.0,Zach Wilson pass complete short right to Michael Carter for -2 yards (tackle by Kyle Dugger),0.56,-1.24,11.0,2022,155
+4.0,0:26,,,,,,Timeout #2 by New England Patriots,,,11.0,2022,155
+4.0,0:26,4.0,3.0,NYJ 32,3.0,9.0,"Braden Mann punts 52 yards, returned by Marcus Jones for 84 yards, touchdown",-1.24,-7.0,11.0,2022,155
+4.0,0:05,,,NYJ 15,3.0,10.0,Nick Folk kicks extra point good,0.0,0.0,11.0,2022,155
+4.0,0:05,,,,,,Timeout #3 by New England Patriots,,,11.0,2022,155
+4.0,0:05,,,NWE 35,3.0,10.0,"Nick Folk kicks off 49 yards, returned by Elijah Moore for 9 yards (tackle by Kyle Dugger)",0.0,1.27,11.0,2022,155

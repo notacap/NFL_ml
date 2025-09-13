@@ -1,0 +1,170 @@
+Quarter,Time,Down,ToGo,Location,PHI,TAM,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Eagles won the coin toss and deferred, Buccaneers to receive the opening kickoff.",,,4.0,2024,57
+1.0,15:00,,,PHI 35,0.0,0.0,"Braden Mann kicks off 58 yards, returned by Trey Palmer for 14 yards (tackle by Avonte Maddox)",0.0,0.34,4.0,2024,57
+1.0,14:58,1.0,10.0,TAM 21,0.0,0.0,Baker Mayfield pass complete short right to Mike Evans for 8 yards (tackle by Reed Blankenship),0.34,0.88,4.0,2024,57
+1.0,14:22,2.0,2.0,TAM 29,0.0,0.0,Rachaad White left tackle for 17 yards (tackle by Milton Williams and Reed Blankenship),0.88,1.99,4.0,2024,57
+1.0,13:39,1.0,10.0,TAM 46,0.0,0.0,Baker Mayfield pass complete short left to Trey Palmer for 3 yards (tackle by Reed Blankenship),1.99,1.86,4.0,2024,57
+1.0,12:55,2.0,7.0,TAM 49,0.0,0.0,Baker Mayfield pass complete short left to Bucky Irving for 6 yards (tackle by Reed Blankenship),1.86,1.95,4.0,2024,57
+1.0,12:18,3.0,1.0,PHI 45,0.0,0.0,Baker Mayfield pass complete short right to Chris Godwin for 7 yards (tackle by Avonte Maddox),1.95,3.05,4.0,2024,57
+1.0,11:40,1.0,10.0,PHI 38,0.0,0.0,Baker Mayfield pass incomplete short left intended for Rachaad White,3.05,2.51,4.0,2024,57
+1.0,11:38,2.0,10.0,PHI 38,0.0,0.0,Baker Mayfield pass complete short left to Trey Palmer for 8 yards (tackle by Quinyon Mitchell),2.51,2.87,4.0,2024,57
+1.0,11:04,3.0,2.0,PHI 30,0.0,0.0,Baker Mayfield pass complete short left to Rachaad White for 22 yards (tackle by Quinyon Mitchell),2.87,5.37,4.0,2024,57
+1.0,10:30,1.0,8.0,PHI 8,0.0,0.0,Baker Mayfield pass complete short right to Chris Godwin for 6 yards (tackle by Nolan Smith),5.37,5.72,4.0,2024,57
+1.0,9:48,2.0,2.0,PHI 2,0.0,6.0,"Baker Mayfield pass complete short left to Mike Evans for 2 yards, touchdown",5.72,7.0,4.0,2024,57
+1.0,9:44,,,PHI 15,0.0,7.0,Chase McLaughlin kicks extra point good,0.0,0.0,4.0,2024,57
+1.0,9:44,,,TAM 35,0.0,7.0,"Trenton Gill kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,57
+1.0,9:44,1.0,10.0,PHI 30,0.0,7.0,Jalen Hurts pass incomplete deep right intended for Saquon Barkley,0.94,0.39,4.0,2024,57
+1.0,9:36,2.0,10.0,PHI 30,0.0,7.0,Saquon Barkley left guard for no gain (tackle by Lavonte David),0.39,-0.3,4.0,2024,57
+1.0,8:54,3.0,10.0,PHI 30,0.0,7.0,Jalen Hurts pass complete short right to Dallas Goedert for 7 yards (tackle by Lavonte David and Zyon McCollum),-0.3,-0.91,4.0,2024,57
+1.0,8:11,4.0,3.0,PHI 37,0.0,7.0,"Penalty on Tristin McCollum: False Start, 5 yards (accepted) (no play)",-0.91,-1.24,4.0,2024,57
+1.0,8:00,4.0,8.0,PHI 32,0.0,7.0,"Braden Mann punts 48 yards, fair catch by Trey Palmer at TB-20",-1.24,-0.28,4.0,2024,57
+1.0,7:49,1.0,10.0,TAM 20,0.0,7.0,Baker Mayfield pass complete short middle to Cade Otton for 16 yards (tackle by Nakobe Dean),0.28,1.33,4.0,2024,57
+1.0,7:10,1.0,10.0,TAM 36,0.0,7.0,Baker Mayfield pass complete short right to Chris Godwin for 28 yards (tackle by C.J. Gardner-Johnson),1.33,3.18,4.0,2024,57
+1.0,6:26,1.0,10.0,PHI 36,0.0,7.0,Baker Mayfield pass complete short right to Mike Evans for 17 yards (tackle by Darius Slay),3.18,4.31,4.0,2024,57
+1.0,5:51,1.0,10.0,PHI 19,0.0,7.0,Bucky Irving right guard for 4 yards (tackle by Bryce Huff),4.31,4.35,4.0,2024,57
+1.0,5:08,2.0,6.0,PHI 15,0.0,13.0,"Baker Mayfield pass complete short middle to Trey Palmer for 15 yards, touchdown",4.35,7.0,4.0,2024,57
+1.0,5:03,,,PHI 15,0.0,14.0,Chase McLaughlin kicks extra point good,0.0,0.0,4.0,2024,57
+1.0,5:03,,,TAM 35,0.0,14.0,"Trenton Gill kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,57
+1.0,5:03,1.0,10.0,PHI 30,0.0,14.0,Jalen Hurts pass incomplete short right intended for Dallas Goedert,0.94,0.39,4.0,2024,57
+1.0,4:59,2.0,10.0,PHI 30,0.0,14.0,Saquon Barkley left guard for 3 yards (tackle by Joe Tryon-Shoyinka and Christian Izien),0.39,0.1,4.0,2024,57
+1.0,4:19,3.0,7.0,PHI 33,0.0,14.0,Jalen Hurts sacked by Vita Vea for -10 yards,0.1,-1.83,4.0,2024,57
+1.0,3:40,4.0,17.0,PHI 23,0.0,14.0,"Braden Mann punts 55 yards, returned by Trey Palmer for 5 yards (tackle by Ben VanSumeren and Grant Calcaterra)",-1.83,-0.74,4.0,2024,57
+1.0,3:25,1.0,10.0,TAM 27,0.0,14.0,"Penalty on Moro Ojomo: Encroachment, 5 yards (accepted) (no play)",0.74,1.47,4.0,2024,57
+1.0,3:25,1.0,5.0,TAM 32,0.0,14.0,Rachaad White right end for 13 yards (tackle by Darius Slay),1.47,1.93,4.0,2024,57
+1.0,2:49,1.0,10.0,TAM 45,0.0,14.0,Baker Mayfield pass complete short right to Cade Otton for 6 yards (tackle by Nakobe Dean and Zack Baun),1.93,2.19,4.0,2024,57
+1.0,2:05,,,,,,Timeout #1 by Tampa Bay Buccaneers,,,4.0,2024,57
+1.0,2:05,2.0,4.0,PHI 49,0.0,14.0,Baker Mayfield sacked by Brandon Graham for -11 yards,2.19,0.04,4.0,2024,57
+1.0,1:24,3.0,15.0,TAM 40,0.0,14.0,Baker Mayfield pass incomplete short middle intended for Cade Otton (defended by Reed Blankenship),0.04,-0.72,4.0,2024,57
+1.0,1:16,4.0,15.0,TAM 40,0.0,14.0,"Trenton Gill punts 42 yards, recovered by J.J. Russell at PHI-22",-0.72,4.11,4.0,2024,57
+1.0,1:06,1.0,10.0,PHI 22,0.0,14.0,Bucky Irving right end for 15 yards (tackle by Darius Slay and Jalen Carter),4.11,5.6,4.0,2024,57
+1.0,0:28,1.0,7.0,PHI 7,0.0,14.0,Baker Mayfield pass complete short right to Cade Otton for 4 yards (tackle by C.J. Gardner-Johnson),5.6,5.53,4.0,2024,57
+2.0,15:00,2.0,3.0,PHI 3,0.0,14.0,Bucky Irving right guard for 2 yards (tackle by Nolan Smith and Avonte Maddox),5.53,5.17,4.0,2024,57
+2.0,14:19,3.0,1.0,PHI 1,0.0,14.0,Baker Mayfield pass incomplete short left intended for Mike Evans (defended by Quinyon Mitchell),5.17,3.55,4.0,2024,57
+2.0,14:13,4.0,1.0,PHI 1,0.0,20.0,"Baker Mayfield up the middle for 1 yard, touchdown",3.55,7.0,4.0,2024,57
+2.0,14:09,,,PHI 15,0.0,21.0,Chase McLaughlin kicks extra point good,0.0,0.0,4.0,2024,57
+2.0,14:09,,,TAM 35,0.0,21.0,"Trenton Gill kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,57
+2.0,14:09,1.0,10.0,PHI 30,0.0,21.0,"Jalen Hurts pass incomplete deep right intended for Grant Calcaterra. Penalty on Fred Johnson: Illegal Formation, 5 yards (declined)",0.94,0.39,4.0,2024,57
+2.0,14:04,2.0,10.0,PHI 30,0.0,21.0,Jalen Hurts pass incomplete short left intended for Saquon Barkley (defended by Logan Hall),0.39,-0.3,4.0,2024,57
+2.0,13:59,3.0,10.0,PHI 30,0.0,21.0,Jalen Hurts pass incomplete deep right intended for Jahan Dotson,-0.3,-1.37,4.0,2024,57
+2.0,13:54,4.0,10.0,PHI 30,0.0,21.0,"Braden Mann punts 70 yards, touchback.",-1.37,-0.28,4.0,2024,57
+2.0,13:47,1.0,10.0,TAM 20,0.0,21.0,Sean Tucker left end for 3 yards (tackle by Quinyon Mitchell),0.28,0.14,4.0,2024,57
+2.0,13:09,2.0,7.0,TAM 23,0.0,21.0,Baker Mayfield pass incomplete short right intended for Cade Otton (defended by Jalen Carter),0.14,-0.56,4.0,2024,57
+2.0,13:06,3.0,7.0,TAM 23,0.0,21.0,"Baker Mayfield pass incomplete deep left intended for Mike Evans. Penalty on Reed Blankenship: Defensive Pass Interference, 16 yards (accepted) (no play)",-0.56,1.53,4.0,2024,57
+2.0,13:01,1.0,10.0,TAM 39,0.0,21.0,Baker Mayfield pass complete short right to Sean Tucker for 14 yards (tackle by Darius Slay),1.53,2.46,4.0,2024,57
+2.0,12:23,1.0,10.0,PHI 47,0.0,21.0,Baker Mayfield pass complete short middle to Chris Godwin for 10 yards (tackle by Reed Blankenship),2.46,3.12,4.0,2024,57
+2.0,11:41,1.0,10.0,PHI 37,0.0,21.0,Rachaad White up the middle for 3 yards (tackle by Nolan Smith and Zack Baun),3.12,2.98,4.0,2024,57
+2.0,11:00,2.0,7.0,PHI 34,0.0,21.0,Baker Mayfield pass complete short right to Mike Evans for 12 yards (tackle by Darius Slay),2.98,4.11,4.0,2024,57
+2.0,10:21,1.0,10.0,PHI 22,0.0,21.0,"Penalty on Graham Barton: False Start, 5 yards (accepted) (no play)",4.11,3.78,4.0,2024,57
+2.0,10:01,1.0,15.0,PHI 27,0.0,21.0,Bucky Irving right guard for 3 yards (tackle by Nakobe Dean),3.78,3.29,4.0,2024,57
+2.0,9:23,2.0,12.0,PHI 24,0.0,21.0,Baker Mayfield pass complete short left to Sterling Shepard for 18 yards (tackle by Quinyon Mitchell),3.29,5.83,4.0,2024,57
+2.0,8:42,1.0,6.0,PHI 6,0.0,21.0,Baker Mayfield pass complete short right to Chris Godwin for 3 yards (tackle by Avonte Maddox),5.83,5.53,4.0,2024,57
+2.0,8:01,2.0,3.0,PHI 3,0.0,21.0,"Baker Mayfield aborted snap, recovered by Baker Mayfield at PHI-3",5.53,4.72,4.0,2024,57
+2.0,7:24,3.0,3.0,PHI 3,0.0,21.0,Baker Mayfield pass incomplete short middle intended for Kameron Johnson,4.72,3.04,4.0,2024,57
+2.0,7:21,4.0,3.0,PHI 3,0.0,24.0,Chase McLaughlin 21 yard field goal good,3.04,3.0,4.0,2024,57
+2.0,7:18,,,TAM 35,0.0,24.0,"Trenton Gill kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,57
+2.0,7:18,1.0,10.0,PHI 30,0.0,24.0,Jalen Hurts pass complete short left to Parris Campbell for 4 yards (tackle by Jamel Dean and Lavonte David),0.94,0.93,4.0,2024,57
+2.0,6:53,2.0,6.0,PHI 34,0.0,24.0,Jalen Hurts pass incomplete short left intended for Johnny Wilson (defended by Jamel Dean),0.93,0.23,4.0,2024,57
+2.0,6:49,3.0,6.0,PHI 34,0.0,24.0,Jalen Hurts scrambles left end for 7 yards (tackle by Jordan Whitehead),0.23,1.66,4.0,2024,57
+2.0,6:26,1.0,10.0,PHI 41,0.0,24.0,Saquon Barkley up the middle for 7 yards (tackle by Logan Hall and Jordan Whitehead),1.66,2.07,4.0,2024,57
+2.0,6:08,2.0,3.0,PHI 48,0.0,24.0,"Saquon Barkley right guard for 3 yards (tackle by Vita Vea and Anthony Nelson). Penalty on Vita Vea: Defensive Holding, 5 yards (accepted)",2.07,2.65,4.0,2024,57
+2.0,5:46,1.0,10.0,TAM 44,0.0,24.0,Jalen Hurts pass complete short middle to Dallas Goedert for 5 yards (tackle by Lavonte David),2.65,2.78,4.0,2024,57
+2.0,5:17,2.0,5.0,TAM 39,0.0,24.0,Saquon Barkley right guard for 4 yards (tackle by YaYa Diaby),2.78,2.61,4.0,2024,57
+2.0,4:53,3.0,1.0,TAM 35,0.0,24.0,Jalen Hurts up the middle for 2 yards (tackle by K.J. Britt),2.61,3.38,4.0,2024,57
+2.0,4:28,1.0,10.0,TAM 33,0.0,24.0,Jalen Hurts pass complete short left to Dallas Goedert for 9 yards (tackle by Jordan Whitehead),3.38,4.05,4.0,2024,57
+2.0,3:55,2.0,1.0,TAM 24,0.0,24.0,Jalen Hurts pass complete deep left to Dallas Goedert for 18 yards,4.05,5.83,4.0,2024,57
+2.0,3:33,1.0,6.0,TAM 6,0.0,24.0,Saquon Barkley left guard for 5 yards (tackle by Jamel Dean),5.83,5.91,4.0,2024,57
+2.0,3:13,2.0,1.0,TAM 1,0.0,24.0,Saquon Barkley up the middle for -1 yards (tackle by Vita Vea),5.91,4.95,4.0,2024,57
+2.0,2:37,,,,,,Timeout #1 by Philadelphia Eagles,,,4.0,2024,57
+2.0,2:37,3.0,2.0,TAM 2,0.0,24.0,Saquon Barkley right guard for 1 yard (tackle by K.J. Britt),4.95,3.55,4.0,2024,57
+2.0,2:00,4.0,1.0,TAM 1,6.0,24.0,"Jalen Hurts pass complete short right to Parris Campbell for 1 yard, touchdown",3.55,7.0,4.0,2024,57
+2.0,1:54,,,TAM 15,7.0,24.0,Jake Elliott kicks extra point good,0.0,0.0,4.0,2024,57
+2.0,1:54,,,PHI 35,7.0,24.0,"Braden Mann kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,57
+2.0,1:54,1.0,10.0,TAM 30,7.0,24.0,Baker Mayfield pass complete short middle to Mike Evans for 13 yards (tackle by Tristin McCollum),0.94,1.8,4.0,2024,57
+2.0,1:34,1.0,10.0,TAM 43,7.0,24.0,Baker Mayfield pass incomplete short right intended for Sterling Shepard,1.8,1.25,4.0,2024,57
+2.0,1:29,2.0,10.0,TAM 43,7.0,24.0,Baker Mayfield pass incomplete short right intended for Chris Godwin (defended by Darius Slay),1.25,0.56,4.0,2024,57
+2.0,1:25,3.0,10.0,TAM 43,7.0,24.0,Baker Mayfield pass incomplete deep middle intended for Mike Evans,0.56,-0.52,4.0,2024,57
+2.0,1:21,4.0,10.0,TAM 43,7.0,24.0,"Trenton Gill punts 37 yards, fair catch by Cooper DeJean at PHI-20",-0.52,-0.28,4.0,2024,57
+2.0,1:14,1.0,10.0,PHI 20,7.0,24.0,Jalen Hurts pass incomplete short right intended for Johnny Wilson,0.28,-0.27,4.0,2024,57
+2.0,1:10,2.0,10.0,PHI 20,7.0,24.0,Jalen Hurts pass incomplete short right intended for Kenneth Gainwell,-0.27,-0.96,4.0,2024,57
+2.0,1:07,3.0,10.0,PHI 20,7.0,24.0,Jalen Hurts pass complete short left to Parris Campbell for 5 yards (tackle by Lavonte David and Jamel Dean),-0.96,-1.7,4.0,2024,57
+2.0,1:01,,,,,,Timeout #2 by Tampa Bay Buccaneers,,,4.0,2024,57
+2.0,1:01,4.0,5.0,PHI 25,7.0,24.0,Braden Mann punts 47 yards out of bounds,-1.7,-0.81,4.0,2024,57
+2.0,0:55,1.0,10.0,TAM 28,7.0,24.0,Baker Mayfield pass incomplete short middle intended for Mike Evans,0.81,0.26,4.0,2024,57
+2.0,0:50,2.0,10.0,TAM 28,7.0,24.0,Baker Mayfield pass complete short middle to Mike Evans for 15 yards (tackle by Darius Slay),0.26,1.8,4.0,2024,57
+2.0,0:32,1.0,10.0,TAM 43,7.0,24.0,Baker Mayfield pass incomplete short left intended for Chris Godwin (defended by Avonte Maddox),1.8,1.25,4.0,2024,57
+2.0,0:29,2.0,10.0,TAM 43,7.0,24.0,Baker Mayfield pass incomplete short middle intended for Cade Otton,1.25,0.56,4.0,2024,57
+2.0,0:24,3.0,10.0,TAM 43,7.0,24.0,Baker Mayfield pass complete short right to Cade Otton for 4 yards (tackle by Darius Slay),0.56,-0.26,4.0,2024,57
+2.0,0:17,,,,,,Timeout #2 by Philadelphia Eagles,,,4.0,2024,57
+2.0,0:17,4.0,5.0,TAM 47,7.0,24.0,"Trenton Gill punts 32 yards, returned by Jeremiah Trotter for no gain (tackle by Josh Hayes)",-0.26,-0.34,4.0,2024,57
+2.0,0:08,1.0,10.0,PHI 21,7.0,24.0,Jalen Hurts kneels for -1 yards,0.34,-0.34,4.0,2024,57
+3.0,15:00,,,TAM 35,7.0,24.0,"Trenton Gill kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,57
+3.0,15:00,1.0,10.0,PHI 30,7.0,24.0,Saquon Barkley right tackle for 59 yards (tackle by Jordan Whitehead),0.94,4.84,4.0,2024,57
+3.0,14:20,1.0,10.0,TAM 11,7.0,24.0,Jalen Hurts pass complete short right to Dallas Goedert for 9 yards (tackle by Christian Izien),4.84,5.85,4.0,2024,57
+3.0,13:51,2.0,1.0,TAM 2,7.0,24.0,Kenneth Gainwell left guard for no gain (tackle by Christian Izien),5.85,5.12,4.0,2024,57
+3.0,13:17,3.0,1.0,TAM 2,7.0,24.0,Jalen Hurts up the middle for 1 yard (tackle by William Gholston),5.12,6.97,4.0,2024,57
+3.0,12:40,1.0,1.0,TAM 1,13.0,24.0,"Jalen Hurts up the middle for 1 yard, touchdown",6.97,7.0,4.0,2024,57
+3.0,12:28,,,TAM 15,14.0,24.0,Jake Elliott kicks extra point good,0.0,0.0,4.0,2024,57
+3.0,12:28,,,PHI 35,14.0,24.0,"Braden Mann kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,57
+3.0,12:28,1.0,10.0,TAM 30,14.0,24.0,Baker Mayfield pass complete short right to Sterling Shepard for 3 yards (tackle by Darius Slay),0.94,0.8,4.0,2024,57
+3.0,11:53,2.0,7.0,TAM 33,14.0,24.0,Baker Mayfield pass incomplete deep right intended for Mike Evans,0.8,0.1,4.0,2024,57
+3.0,11:48,3.0,7.0,TAM 33,14.0,24.0,Baker Mayfield scrambles left end for 10 yards (tackle by Darius Slay),0.1,1.8,4.0,2024,57
+3.0,11:12,1.0,10.0,TAM 43,14.0,24.0,Rachaad White right end for -1 yards (tackle by Zack Baun),1.8,1.12,4.0,2024,57
+3.0,10:35,2.0,11.0,TAM 42,14.0,24.0,Baker Mayfield pass incomplete deep left intended for Sterling Shepard (defended by C.J. Gardner-Johnson),1.12,0.43,4.0,2024,57
+3.0,10:28,3.0,11.0,TAM 42,14.0,24.0,Baker Mayfield pass complete short right to Chris Godwin for 15 yards (tackle by Isaiah Rodgers and Tristin McCollum),0.43,2.72,4.0,2024,57
+3.0,9:47,1.0,10.0,PHI 43,14.0,24.0,Bucky Irving left end for 8 yards (tackle by Nakobe Dean),2.72,3.26,4.0,2024,57
+3.0,9:06,2.0,2.0,PHI 35,14.0,24.0,Bucky Irving left end for 7 yards (tackle by Tristin McCollum and Thomas Booker),3.26,3.71,4.0,2024,57
+3.0,8:27,1.0,10.0,PHI 28,14.0,24.0,Baker Mayfield pass complete short right to Mike Evans for 21 yards (tackle by Tristin McCollum),3.71,5.6,4.0,2024,57
+3.0,7:46,1.0,7.0,PHI 7,14.0,24.0,Bucky Irving left tackle for 5 yards (tackle by Tristin McCollum),5.6,5.72,4.0,2024,57
+3.0,7:01,2.0,2.0,PHI 2,14.0,24.0,"Bucky Irving left guard for no gain, touchdown Replay Assistant challenged the runner broke the plane ruling, and the original play was overturned. Bucky Irving left guard for 1 yard (tackle by Moro Ojomo and Nakobe Dean)",5.72,5.17,4.0,2024,57
+3.0,6:53,3.0,1.0,PHI 1,14.0,30.0,"Bucky Irving left end for 1 yard, touchdown",5.17,7.0,4.0,2024,57
+3.0,6:49,,,PHI 15,16.0,30.0,"Chase McLaughlin kicks extra point blocked, recovered by Kelee Ringo, returned for defensive two point conversion",0.0,0.0,4.0,2024,57
+3.0,6:49,,,TAM 35,16.0,30.0,"Trenton Gill kicks off 61 yards, returned by Will Shipley for 23 yards (tackle by Payne Durham and J.J. Russell)",0.0,0.74,4.0,2024,57
+3.0,6:43,1.0,10.0,PHI 27,16.0,30.0,Jalen Hurts left end for 4 yards (tackle by Anthony Nelson),0.74,0.74,4.0,2024,57
+3.0,6:07,2.0,6.0,PHI 31,16.0,30.0,Jalen Hurts pass complete short left to Saquon Barkley for 27 yards (tackle by Chris Braswell and Logan Hall),0.74,2.79,4.0,2024,57
+3.0,5:36,1.0,10.0,TAM 42,16.0,30.0,Saquon Barkley left guard for 3 yards (tackle by Chris Braswell),2.79,2.65,4.0,2024,57
+3.0,4:58,2.0,7.0,TAM 39,16.0,30.0,Jalen Hurts pass complete short left to Dallas Goedert for 6 yards (tackle by K.J. Britt and Jamel Dean),2.65,2.74,4.0,2024,57
+3.0,4:29,3.0,1.0,TAM 33,16.0,30.0,Jalen Hurts up the middle for 2 yards (tackle by K.J. Britt and Greg Gaines),2.74,3.51,4.0,2024,57
+3.0,3:56,1.0,10.0,TAM 31,16.0,30.0,Jalen Hurts pass complete short left to Dallas Goedert for 8 yards (tackle by K.J. Britt),3.51,4.05,4.0,2024,57
+3.0,3:29,2.0,2.0,TAM 23,16.0,30.0,Jalen Hurts left end for 4 yards (tackle by Chris Braswell),4.05,4.31,4.0,2024,57
+3.0,2:45,1.0,10.0,TAM 19,16.0,30.0,"Jalen Hurts sacked by Lavonte David for -4 yards. Jalen Hurts fumbles (forced by Lavonte David), recovered by Ben Stille at TB-24",4.31,-0.54,4.0,2024,57
+3.0,2:36,1.0,10.0,TAM 24,16.0,30.0,Rachaad White right guard for no gain (tackle by Brandon Graham),0.54,0.0,4.0,2024,57
+3.0,2:01,2.0,10.0,TAM 24,16.0,30.0,Baker Mayfield pass complete deep left to Sterling Shepard for 30 yards (tackle by Quinyon Mitchell),0.0,2.52,4.0,2024,57
+3.0,1:20,1.0,10.0,PHI 46,16.0,30.0,Rachaad White right tackle for -2 yards (tackle by Nakobe Dean),2.52,1.71,4.0,2024,57
+3.0,0:52,2.0,12.0,PHI 48,16.0,30.0,Baker Mayfield sacked by Josh Sweat for -2 yards,1.71,0.76,4.0,2024,57
+3.0,0:09,3.0,14.0,PHI 50,16.0,30.0,"Baker Mayfield pass incomplete short left intended for Chris Godwin. Penalty on Moro Ojomo: Defensive Offside, 5 yards (declined) . Penalty on Avonte Maddox: Defensive Holding, 5 yards (accepted) (no play)",0.76,2.59,4.0,2024,57
+4.0,15:00,1.0,10.0,PHI 45,16.0,30.0,Baker Mayfield pass complete short left to Rachaad White for 13 yards (tackle by Thomas Booker),2.59,3.45,4.0,2024,57
+4.0,14:18,1.0,10.0,PHI 32,16.0,30.0,Baker Mayfield pass incomplete deep left intended for Mike Evans,3.45,2.9,4.0,2024,57
+4.0,14:12,2.0,10.0,PHI 32,16.0,30.0,"Rachaad White left end for no gain (tackle by Milton Williams). Penalty on Ben Bredeson: Offensive Holding, 10 yards (accepted) (no play)",2.9,1.55,4.0,2024,57
+4.0,13:44,2.0,20.0,PHI 42,16.0,30.0,Baker Mayfield pass complete short middle to Cade Otton for 8 yards (tackle by Zack Baun and Tristin McCollum),1.55,1.95,4.0,2024,57
+4.0,13:07,3.0,12.0,PHI 34,16.0,30.0,Baker Mayfield pass incomplete short right intended for Bucky Irving,1.95,1.06,4.0,2024,57
+4.0,13:04,4.0,12.0,PHI 34,16.0,33.0,Chase McLaughlin 52 yard field goal good,1.06,3.0,4.0,2024,57
+4.0,12:59,,,TAM 35,16.0,33.0,"Trenton Gill kicks off 65 yards, touchback.",0.0,0.28,4.0,2024,57
+4.0,12:59,1.0,10.0,PHI 20,16.0,33.0,Jalen Hurts pass complete short right to Saquon Barkley for 5 yards (tackle by Zyon McCollum and Lavonte David),0.28,0.41,4.0,2024,57
+4.0,12:28,2.0,5.0,PHI 25,16.0,33.0,Jalen Hurts pass complete short left to John Ross for 6 yards (tackle by K.J. Britt),0.41,1.0,4.0,2024,57
+4.0,12:01,1.0,10.0,PHI 31,16.0,33.0,Jalen Hurts pass complete deep middle to Grant Calcaterra for 26 yards (tackle by Jordan Whitehead),1.0,2.72,4.0,2024,57
+4.0,11:32,1.0,10.0,TAM 43,16.0,33.0,Jalen Hurts pass incomplete deep left intended for John Ross,2.72,2.18,4.0,2024,57
+4.0,11:25,2.0,10.0,TAM 43,16.0,33.0,Jalen Hurts sacked by Lavonte David for -9 yards,2.18,0.3,4.0,2024,57
+4.0,10:41,3.0,19.0,PHI 48,16.0,33.0,"Jalen Hurts scrambles left end for no gain (tackle by Jamel Dean). Penalty on Tyler Steen: Offensive Holding, 10 yards (accepted) (no play)",0.3,-1.02,4.0,2024,57
+4.0,10:09,3.0,29.0,PHI 38,16.0,33.0,"Jalen Hurts sacked by YaYa Diaby for -9 yards. Jalen Hurts fumbles (forced by YaYa Diaby), recovered by Fred Johnson at PHI-28",-1.02,-1.5,4.0,2024,57
+4.0,9:22,4.0,39.0,PHI 28,16.0,33.0,"Braden Mann punts 62 yards, returned by Kameron Johnson for 11 yards (tackle by Ben VanSumeren)",-1.5,-0.34,4.0,2024,57
+4.0,9:17,1.0,10.0,TAM 21,16.0,33.0,Baker Mayfield pass complete short right to Cade Otton for 14 yards (tackle by Avonte Maddox and Zack Baun),0.34,1.27,4.0,2024,57
+4.0,8:35,1.0,10.0,TAM 35,16.0,33.0,Bucky Irving left tackle for 3 yards (tackle by Zack Baun),1.27,1.13,4.0,2024,57
+4.0,7:57,2.0,7.0,TAM 38,16.0,33.0,Baker Mayfield pass incomplete short left intended for Mike Evans (defended by Jordan Davis),1.13,0.43,4.0,2024,57
+4.0,7:51,3.0,7.0,TAM 38,16.0,33.0,Baker Mayfield pass incomplete short left intended for Chris Godwin (defended by Avonte Maddox),0.43,-0.85,4.0,2024,57
+4.0,7:47,4.0,7.0,TAM 38,16.0,33.0,"Trenton Gill punts 39 yards, fair catch by Cooper DeJean at PHI-23",-0.85,-0.48,4.0,2024,57
+4.0,7:40,1.0,10.0,PHI 23,16.0,33.0,Jalen Hurts pass incomplete deep right,0.48,-0.07,4.0,2024,57
+4.0,7:34,2.0,10.0,PHI 23,16.0,33.0,Jalen Hurts pass complete short right to Parris Campbell for 7 yards (tackle by Anthony Nelson),-0.07,0.17,4.0,2024,57
+4.0,7:14,3.0,3.0,PHI 30,16.0,33.0,Kenneth Gainwell right guard for 9 yards (tackle by Jordan Whitehead),0.17,1.53,4.0,2024,57
+4.0,6:51,1.0,10.0,PHI 39,16.0,33.0,Jalen Hurts pass incomplete short right intended for Jack Stoll (defended by Lavonte David),1.53,0.99,4.0,2024,57
+4.0,6:48,2.0,10.0,PHI 39,16.0,33.0,Jalen Hurts pass complete short middle to Jack Stoll for 4 yards (tackle by Tykee Smith),0.99,0.83,4.0,2024,57
+4.0,6:09,3.0,6.0,PHI 43,16.0,33.0,Jalen Hurts pass complete short left to Jahan Dotson for 7 yards (tackle by Jamel Dean),0.83,2.26,4.0,2024,57
+4.0,5:41,1.0,10.0,PHI 50,16.0,33.0,Jalen Hurts sacked by Logan Hall for -5 yards,2.26,1.04,4.0,2024,57
+4.0,5:02,2.0,15.0,PHI 45,16.0,33.0,"Jalen Hurts pass short left intended for Jahan Dotson is intercepted by Jamel Dean at TB-49 and returned for no gain, touchdown Replay Assistant challenged the pass interception ruling, and the original play was overturned. Jalen Hurts pass incomplete short left intended for Jahan Dotson (defended by Jamel Dean). Penalty on Joe Tryon-Shoyinka: Unnecessary Roughness / Defense, 15 yards (offset) . Penalty on Kenneth Gainwell: Offensive Low Block, 15 yards (offset)",1.04,0.37,4.0,2024,57
+4.0,4:58,3.0,15.0,PHI 45,16.0,33.0,Jalen Hurts pass complete short right to Jahan Dotson for 4 yards (tackle by Zyon McCollum),0.37,-0.13,4.0,2024,57
+4.0,4:14,4.0,11.0,PHI 49,16.0,33.0,Jalen Hurts sacked by Anthony Nelson for -7 yards,-0.13,-2.79,4.0,2024,57
+4.0,4:10,1.0,10.0,PHI 42,16.0,33.0,Baker Mayfield pass complete short left to Mike Evans for 6 yards (tackle by Quinyon Mitchell),2.79,3.05,4.0,2024,57
+4.0,3:32,2.0,4.0,PHI 36,16.0,33.0,Rachaad White right end for 7 yards (tackle by Thomas Booker),3.05,3.64,4.0,2024,57
+4.0,2:47,1.0,10.0,PHI 29,16.0,33.0,Rachaad White left end for no gain (tackle by Nakobe Dean and Tristin McCollum),3.64,3.1,4.0,2024,57
+4.0,2:00,2.0,10.0,PHI 29,16.0,33.0,Rachaad White right tackle for 4 yards (tackle by Nolan Smith and Thomas Booker),3.1,2.94,4.0,2024,57
+4.0,1:16,3.0,6.0,PHI 25,16.0,33.0,Rachaad White left end for 8 yards (tackle by Milton Williams),2.94,4.44,4.0,2024,57
+4.0,0:34,1.0,10.0,PHI 17,16.0,33.0,Baker Mayfield kneels for -1 yards,4.44,3.72,4.0,2024,57

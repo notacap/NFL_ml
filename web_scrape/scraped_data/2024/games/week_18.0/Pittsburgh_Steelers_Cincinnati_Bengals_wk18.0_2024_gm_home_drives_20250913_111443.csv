@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,9:49,PIT 40,3,2:02,-6,Punt,1,Steelers,18.0,2024,258
+2,1,1:24,PIT 27,13,6:30,73,Touchdown,1,Steelers,18.0,2024,258
+3,2,6:33,PIT 38,3,1:01,7,Punt,1,Steelers,18.0,2024,258
+4,2,1:10,PIT 17,6,0:22,20,Downs,1,Steelers,18.0,2024,258
+5,2,0:16,PIT 30,1,0:16,-9,End of Half,1,Steelers,18.0,2024,258
+6,3,15:00,PIT 30,3,1:36,2,Punt,1,Steelers,18.0,2024,258
+7,3,6:56,PIT 30,5,2:23,14,Punt,1,Steelers,18.0,2024,258
+8,4,11:02,PIT 35,9,2:55,65,Touchdown,1,Steelers,18.0,2024,258
+9,4,5:54,PIT 11,3,0:40,9,Punt,1,Steelers,18.0,2024,258
+10,4,5:14,CIN 38,6,2:35,2,Field Goal,1,Steelers,18.0,2024,258
+11,4,1:51,PIT 24,7,1:40,16,Downs,1,Steelers,18.0,2024,258

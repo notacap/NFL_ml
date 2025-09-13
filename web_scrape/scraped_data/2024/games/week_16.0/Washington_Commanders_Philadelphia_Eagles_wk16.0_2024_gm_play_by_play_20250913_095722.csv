@@ -1,0 +1,187 @@
+Quarter,Time,Down,ToGo,Location,PHI,WAS,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Eagles won the coin toss and deferred, Commanders to receive the opening kickoff.",,,16.0,2024,234
+1.0,15:00,,,PHI 35,0.0,0.0,"Braden Mann kicks off 25 yards,. Penalty on Braden Mann: Short Free Kick (accepted)",0.0,1.6,16.0,2024,234
+1.0,15:00,1.0,10.0,WAS 40,0.0,0.0,Jayden Daniels pass incomplete short right intended for Olamide Zaccheaus,1.6,1.05,16.0,2024,234
+1.0,14:56,2.0,10.0,WAS 40,0.0,0.0,Jayden Daniels pass incomplete short middle intended for Jamison Crowder (defended by Darius Slay),1.05,0.37,16.0,2024,234
+1.0,14:51,3.0,10.0,WAS 40,0.0,0.0,Jayden Daniels pass complete short middle to Brian Robinson for 9 yards (tackle by Zack Baun),0.37,-0.13,16.0,2024,234
+1.0,14:15,4.0,1.0,WAS 49,0.0,0.0,Brian Robinson right guard for no gain (tackle by Josh Sweat and Jordan Davis),-0.13,-2.32,16.0,2024,234
+1.0,14:11,1.0,10.0,WAS 49,0.0,0.0,Jalen Hurts pass incomplete short middle intended for A.J. Brown,2.32,1.78,16.0,2024,234
+1.0,14:07,2.0,10.0,WAS 49,0.0,0.0,Saquon Barkley left end for 19 yards (tackle by Mike Sainristil),1.78,3.58,16.0,2024,234
+1.0,13:33,1.0,10.0,WAS 30,0.0,0.0,Jalen Hurts pass incomplete deep right intended for A.J. Brown,3.58,3.03,16.0,2024,234
+1.0,13:28,2.0,10.0,WAS 30,0.0,0.0,Kenneth Gainwell left tackle for 1 yard (tackle by Bobby Wagner),3.03,2.48,16.0,2024,234
+1.0,12:49,3.0,9.0,WAS 29,0.0,0.0,"Jalen Hurts scrambles up the middle for 6 yards (tackle by Dante Fowler). Penalty on Noah Igbinoghene: Defensive Holding, 5 yards (accepted)",2.48,4.37,16.0,2024,234
+1.0,12:25,1.0,10.0,WAS 18,0.0,0.0,Saquon Barkley up the middle for 13 yards (tackle by Jeremy Chinn),4.37,6.06,16.0,2024,234
+1.0,11:48,1.0,5.0,WAS 5,0.0,0.0,Saquon Barkley right tackle for 3 yards (tackle by Jer'Zhan Newton),6.06,5.72,16.0,2024,234
+1.0,11:18,2.0,2.0,WAS 2,6.0,0.0,"Saquon Barkley up the middle for 2 yards, touchdown",5.72,7.0,16.0,2024,234
+1.0,11:15,,,WAS 15,7.0,0.0,Jake Elliott kicks extra point good,0.0,0.0,16.0,2024,234
+1.0,11:15,,,PHI 35,7.0,0.0,"Braden Mann kicks off 55 yards, returned by Luke McCaffrey for 47 yards (tackle by Jeremiah Trotter)",0.0,2.72,16.0,2024,234
+1.0,11:06,1.0,10.0,PHI 43,7.0,0.0,"Brian Robinson up the middle for no gain. Brian Robinson fumbles (forced by Jalen Carter), recovered by Nolan Smith at PHI-43",2.72,-1.8,16.0,2024,234
+1.0,11:01,1.0,10.0,PHI 43,7.0,0.0,Jalen Hurts pass complete short left to DeVonta Smith for 11 yards (tackle by Mike Sainristil),1.8,2.52,16.0,2024,234
+1.0,10:26,1.0,10.0,WAS 46,7.0,0.0,Jalen Hurts scrambles up the middle for 22 yards (tackle by Quan Martin),2.52,3.97,16.0,2024,234
+1.0,9:55,1.0,10.0,WAS 24,7.0,0.0,"Jalen Hurts pass incomplete short left. Penalty on Jalen Hurts: Intentional Grounding, 10 yards (accepted)",3.97,2.08,16.0,2024,234
+1.0,9:52,2.0,20.0,WAS 34,7.0,0.0,Jalen Hurts left guard for 13 yards (tackle by Bobby Wagner),2.08,3.14,16.0,2024,234
+1.0,9:16,3.0,7.0,WAS 21,7.0,0.0,Kenny Pickett pass complete short left to A.J. Brown for 10 yards (tackle by Frankie Luvu and Marshon Lattimore),3.14,4.84,16.0,2024,234
+1.0,8:39,1.0,10.0,WAS 11,7.0,0.0,Kenneth Gainwell left end for 1 yard (tackle by Jeremy Chinn and Dorance Armstrong),4.84,4.32,16.0,2024,234
+1.0,8:00,2.0,9.0,WAS 10,7.0,0.0,Kenny Pickett pass complete short left to A.J. Brown for 6 yards (tackle by Jeremy Chinn),4.32,4.67,16.0,2024,234
+1.0,7:11,,,,,,Timeout #1 by Philadelphia Eagles,,,16.0,2024,234
+1.0,7:11,3.0,3.0,WAS 4,13.0,0.0,"Kenny Pickett pass complete short middle to A.J. Brown for 4 yards, touchdown",4.67,7.0,16.0,2024,234
+1.0,7:08,,,WAS 15,14.0,0.0,Jake Elliott kicks extra point good,0.0,0.0,16.0,2024,234
+1.0,7:08,,,PHI 35,14.0,0.0,"Braden Mann kicks off 58 yards, returned by Luke McCaffrey for 15 yards (tackle by Kenneth Gainwell)",0.0,0.41,16.0,2024,234
+1.0,7:01,1.0,10.0,WAS 22,14.0,0.0,Jayden Daniels pass complete short right to Dyami Brown for -2 yards (tackle by Darius Slay),0.41,-0.4,16.0,2024,234
+1.0,6:25,2.0,12.0,WAS 20,14.0,0.0,Jayden Daniels pass incomplete short right intended for Olamide Zaccheaus (defended by Darius Slay),-0.4,-1.09,16.0,2024,234
+1.0,6:18,3.0,12.0,WAS 20,14.0,0.0,Jayden Daniels scrambles right end for 1 yard (tackle by Nakobe Dean),-1.09,-1.96,16.0,2024,234
+1.0,5:26,4.0,11.0,WAS 21,14.0,0.0,"Tress Way punts 49 yards, returned by Cooper DeJean for no gain (tackle by Jordan Magee). Penalty on Jeremiah Trotter: Unnecessary Roughness / Defense, 15 yards (accepted)",-1.96,0.22,16.0,2024,234
+1.0,5:12,1.0,10.0,PHI 15,14.0,0.0,Saquon Barkley right tackle for 3 yards (tackle by Bobby Wagner),-0.22,-0.28,16.0,2024,234
+1.0,4:35,2.0,7.0,PHI 18,14.0,0.0,Kenny Pickett pass short right intended for A.J. Brown is intercepted by Frankie Luvu at PHI-25 and returned for no gain (tackle by A.J. Brown),-0.28,-3.91,16.0,2024,234
+1.0,4:30,1.0,10.0,PHI 25,14.0,0.0,"Penalty on PHI: Defensive Too Many Men on Field, 5 yards (accepted) (no play)",3.91,4.64,16.0,2024,234
+1.0,4:30,1.0,5.0,PHI 20,14.0,0.0,Jayden Daniels pass complete short right to Terry McLaurin for 8 yards (tackle by Reed Blankenship),4.64,4.78,16.0,2024,234
+1.0,3:57,1.0,10.0,PHI 12,14.0,0.0,"Jayden Daniels pass incomplete short right intended for Zach Ertz. Penalty on Milton Williams: Roughing the Passer, 6 yards (accepted) (no play)",4.78,5.83,16.0,2024,234
+1.0,3:53,1.0,6.0,PHI 6,14.0,0.0,Brian Robinson up the middle for no gain (tackle by Nakobe Dean),5.83,4.95,16.0,2024,234
+1.0,3:20,2.0,6.0,PHI 6,14.0,0.0,Jayden Daniels pass incomplete short right intended for Olamide Zaccheaus,4.95,4.04,16.0,2024,234
+1.0,3:16,3.0,6.0,PHI 6,14.0,6.0,"Jayden Daniels pass complete short middle to Jamison Crowder for 6 yards, touchdown",4.04,7.0,16.0,2024,234
+1.0,3:12,,,PHI 15,14.0,7.0,Zane Gonzalez kicks extra point good,0.0,0.0,16.0,2024,234
+1.0,3:12,,,WAS 35,14.0,7.0,"Zane Gonzalez kicks off 60 yards, returned by Kenneth Gainwell for 26 yards (tackle by Nick Bellore)",0.0,1.0,16.0,2024,234
+1.0,3:05,1.0,10.0,PHI 31,14.0,7.0,Saquon Barkley left end for 1 yard (tackle by Javontae Jean-Baptiste and Daron Payne),1.0,0.6,16.0,2024,234
+1.0,2:29,2.0,9.0,PHI 32,20.0,7.0,"Saquon Barkley left end for 68 yards, touchdown",0.6,7.0,16.0,2024,234
+1.0,2:18,,,WAS 15,21.0,7.0,Jake Elliott kicks extra point good,0.0,0.0,16.0,2024,234
+1.0,2:18,,,PHI 35,21.0,7.0,"Braden Mann kicks off 65 yards, returned by Luke McCaffrey for 33 yards (tackle by Kenneth Gainwell)",0.0,1.14,16.0,2024,234
+1.0,2:11,1.0,10.0,WAS 33,21.0,7.0,Jayden Daniels scrambles up the middle for 9 yards (tackle by Nakobe Dean),1.14,1.81,16.0,2024,234
+1.0,1:33,2.0,1.0,WAS 42,21.0,7.0,Jayden Daniels pass complete short right to Terry McLaurin for 3 yards (tackle by C.J. Gardner-Johnson and Cooper DeJean),1.81,1.93,16.0,2024,234
+1.0,0:54,1.0,10.0,WAS 45,21.0,7.0,Brian Robinson right tackle for 1 yard (tackle by Jalen Carter and Nakobe Dean),1.93,1.52,16.0,2024,234
+1.0,0:14,2.0,9.0,WAS 46,21.0,7.0,"Jayden Daniels pass complete short middle to Terry McLaurin for no gain (tackle by Nakobe Dean). Penalty on Terry McLaurin: Illegal Motion, 5 yards (accepted) (no play)",1.52,0.84,16.0,2024,234
+2.0,15:00,2.0,14.0,WAS 41,21.0,7.0,"Penalty on C.J. Gardner-Johnson: Unsportsmanlike Conduct / Defense, 15 yards (accepted) (no play)",0.84,2.65,16.0,2024,234
+2.0,15:00,1.0,10.0,PHI 44,21.0,7.0,Brian Robinson right tackle for 3 yards (tackle by Nakobe Dean),2.65,2.52,16.0,2024,234
+2.0,14:29,2.0,7.0,PHI 41,21.0,7.0,Jayden Daniels pass incomplete short middle intended for Brian Robinson,2.52,1.82,16.0,2024,234
+2.0,14:25,3.0,7.0,PHI 41,21.0,7.0,Jayden Daniels up the middle for 13 yards (tackle by Reed Blankenship),1.82,3.71,16.0,2024,234
+2.0,13:54,1.0,10.0,PHI 28,21.0,7.0,"Jayden Daniels sacked by Nolan Smith for -3 yards. Penalty on Jalen Carter: Unnecessary Roughness / Defense, 15 yards (accepted)",3.71,4.51,16.0,2024,234
+2.0,13:27,1.0,10.0,PHI 16,21.0,7.0,"Brian Robinson up the middle for 6 yards. Brian Robinson fumbles (tackle by Nakobe Dean, recovered by Cooper DeJean at PHI-10",4.51,0.38,16.0,2024,234
+2.0,13:16,1.0,10.0,PHI 10,21.0,7.0,Kenny Pickett pass complete deep right to A.J. Brown for 45 yards (tackle by Marshon Lattimore),-0.38,2.59,16.0,2024,234
+2.0,12:27,1.0,10.0,WAS 45,21.0,7.0,"Penalty on C.J. Uzomah: False Start, 5 yards (accepted) (no play)",2.59,2.26,16.0,2024,234
+2.0,12:08,1.0,15.0,WAS 50,21.0,7.0,Saquon Barkley left end for 2 yards (tackle by Bobby Wagner),2.26,1.64,16.0,2024,234
+2.0,11:25,2.0,13.0,WAS 48,21.0,7.0,Kenny Pickett pass complete short left to DeVonta Smith for 5 yards (tackle by Jeremy Chinn),1.64,1.62,16.0,2024,234
+2.0,10:45,3.0,8.0,WAS 43,21.0,7.0,Kenny Pickett pass incomplete short right,1.62,0.4,16.0,2024,234
+2.0,10:36,4.0,8.0,WAS 43,21.0,7.0,Braden Mann punts 39 yards out of bounds,0.4,0.38,16.0,2024,234
+2.0,10:29,1.0,10.0,WAS 4,21.0,7.0,Jayden Daniels pass complete deep right to Dyami Brown for 51 yards (tackle by Darius Slay),-0.38,2.59,16.0,2024,234
+2.0,9:52,1.0,10.0,PHI 45,21.0,7.0,Brian Robinson left guard for 3 yards (tackle by Nakobe Dean and Jalyx Hunt),2.59,2.45,16.0,2024,234
+2.0,9:16,2.0,7.0,PHI 42,21.0,7.0,Chris Rodriguez right guard for 6 yards (tackle by Zack Baun),2.45,2.54,16.0,2024,234
+2.0,8:49,3.0,1.0,PHI 36,21.0,7.0,Chris Rodriguez left guard for -3 yards (tackle by Milton Williams and Jalyx Hunt),2.54,0.66,16.0,2024,234
+2.0,8:13,4.0,3.0,PHI 39,21.0,7.0,Jayden Daniels scrambles up the middle for 5 yards (tackle by Jalen Carter),0.66,3.31,16.0,2024,234
+2.0,7:36,1.0,10.0,PHI 34,21.0,7.0,Chris Rodriguez right tackle for 2 yards (tackle by Oren Burks and Zack Baun),3.31,3.04,16.0,2024,234
+2.0,7:00,2.0,8.0,PHI 32,21.0,7.0,Jayden Daniels pass incomplete deep right intended for Jamison Crowder,3.04,2.35,16.0,2024,234
+2.0,6:51,3.0,8.0,PHI 32,21.0,13.0,"Jayden Daniels pass complete deep left to Terry McLaurin for 32 yards, touchdown",2.35,7.0,16.0,2024,234
+2.0,6:46,,,PHI 15,21.0,14.0,Zane Gonzalez kicks extra point good,0.0,0.0,16.0,2024,234
+2.0,6:46,,,WAS 35,21.0,14.0,"Zane Gonzalez kicks off 63 yards, returned by Isaiah Rodgers for 23 yards (tackle by Tyler Owens)",0.0,0.61,16.0,2024,234
+2.0,6:41,1.0,10.0,PHI 25,21.0,14.0,Saquon Barkley right end for no gain (tackle by Jeremy Chinn and Carl Davis),0.61,0.06,16.0,2024,234
+2.0,6:14,2.0,10.0,PHI 25,21.0,14.0,Saquon Barkley left end for 5 yards (tackle by Carl Davis),0.06,0.04,16.0,2024,234
+2.0,5:38,3.0,5.0,PHI 30,21.0,14.0,Kenny Pickett pass complete short left to A.J. Brown for 4 yards (tackle by Marshon Lattimore),0.04,-1.11,16.0,2024,234
+2.0,4:59,4.0,1.0,PHI 34,21.0,14.0,"Braden Mann punts 42 yards, fair catch by Jamison Crowder at WAS-24",-1.11,-0.54,16.0,2024,234
+2.0,4:54,1.0,10.0,WAS 24,21.0,14.0,Jayden Daniels scrambles right end for 4 yards (tackle by Zack Baun),0.54,0.54,16.0,2024,234
+2.0,4:23,2.0,6.0,WAS 28,21.0,14.0,Brian Robinson right tackle for 1 yard (tackle by Nakobe Dean and Zack Baun),0.54,-0.03,16.0,2024,234
+2.0,3:59,3.0,5.0,WAS 29,21.0,14.0,Jayden Daniels pass complete short right to Jeremy McNichols for 1 yard (tackle by Darius Slay),-0.03,-1.37,16.0,2024,234
+2.0,3:14,4.0,4.0,WAS 30,21.0,14.0,"Tress Way punts 43 yards, fair catch by Cooper DeJean at PHI-27",-1.37,-0.74,16.0,2024,234
+2.0,3:07,1.0,10.0,PHI 27,21.0,14.0,Kenny Pickett pass incomplete deep right intended for A.J. Brown (defended by Marshon Lattimore),0.74,0.2,16.0,2024,234
+2.0,3:01,2.0,10.0,PHI 27,21.0,14.0,Kenneth Gainwell right tackle for 3 yards (tackle by Jeremy Chinn and Daron Payne),0.2,-0.1,16.0,2024,234
+2.0,2:32,,,,,,Timeout #1 by Washington Commanders,,,16.0,2024,234
+2.0,2:32,3.0,7.0,PHI 30,21.0,14.0,Saquon Barkley right guard for 6 yards (tackle by Dorance Armstrong),-0.1,-0.98,16.0,2024,234
+2.0,2:00,4.0,1.0,PHI 36,21.0,14.0,"Braden Mann punts 36 yards, returned by Jamison Crowder for 5 yards (tackle by Sydney Brown)",-0.98,-1.14,16.0,2024,234
+2.0,1:52,1.0,10.0,WAS 33,21.0,14.0,Jayden Daniels pass short middle intended for Luke McCaffrey is intercepted by C.J. Gardner-Johnson at PHI-44 and returned for 7 yards (tackle by Dyami Brown),1.14,-2.39,16.0,2024,234
+2.0,1:44,1.0,10.0,WAS 48,21.0,14.0,Saquon Barkley left tackle for 4 yards (tackle by Noah Igbinoghene and Mike Sainristil),2.39,2.32,16.0,2024,234
+2.0,1:22,2.0,6.0,WAS 45,21.0,14.0,Kenny Pickett pass complete short middle to A.J. Brown for 5 yards (tackle by Marshon Lattimore),2.32,2.28,16.0,2024,234
+2.0,0:57,3.0,1.0,WAS 40,21.0,14.0,Saquon Barkley up the middle for -3 yards (tackle by Frankie Luvu),2.28,0.4,16.0,2024,234
+2.0,0:11,,,,,,Timeout #2 by Philadelphia Eagles,,,16.0,2024,234
+2.0,0:11,4.0,4.0,WAS 43,21.0,14.0,Kenny Pickett pass complete short right to DeVonta Smith for 5 yards (tackle by Mike Sainristil),0.4,3.05,16.0,2024,234
+2.0,0:04,,,,,,Timeout #3 by Philadelphia Eagles,,,16.0,2024,234
+2.0,0:04,1.0,10.0,WAS 38,21.0,14.0,Jake Elliott 56 yard field goal no good,3.05,1.93,16.0,2024,234
+3.0,15:00,,,WAS 35,21.0,14.0,"Zane Gonzalez kicks off 59 yards, returned by Kenneth Gainwell for 19 yards (tackle by Tyler Owens)",0.0,0.61,16.0,2024,234
+3.0,14:56,1.0,10.0,PHI 25,21.0,14.0,Saquon Barkley left guard for 2 yards (tackle by Frankie Luvu and Clelin Ferrell),0.61,0.33,16.0,2024,234
+3.0,14:20,2.0,8.0,PHI 27,21.0,14.0,"Kenny Pickett pass incomplete deep right intended for A.J. Brown. Penalty on Marshon Lattimore: Defensive Pass Interference, 38 yards (accepted) (no play)",0.33,3.25,16.0,2024,234
+3.0,14:13,1.0,10.0,WAS 35,21.0,14.0,Saquon Barkley left end for 1 yard (tackle by Clelin Ferrell),3.25,2.84,16.0,2024,234
+3.0,13:42,2.0,9.0,WAS 34,21.0,14.0,"Kenny Pickett pass incomplete deep right intended for A.J. Brown. Penalty on Marshon Lattimore: Defensive Pass Interference, 23 yards (accepted) (no play)",2.84,4.84,16.0,2024,234
+3.0,13:37,1.0,10.0,WAS 11,21.0,14.0,Saquon Barkley right end for 6 yards (tackle by Bobby Wagner),4.84,5.28,16.0,2024,234
+3.0,13:10,2.0,4.0,WAS 5,21.0,14.0,Saquon Barkley right tackle for 1 yard (tackle by Bobby Wagner),5.28,4.67,16.0,2024,234
+3.0,12:26,3.0,3.0,WAS 4,21.0,14.0,Saquon Barkley sacked by Jer'Zhan Newton for -2 yards,4.67,2.99,16.0,2024,234
+3.0,11:42,4.0,5.0,WAS 6,24.0,14.0,Jake Elliott 24 yard field goal good,2.99,3.0,16.0,2024,234
+3.0,11:40,,,PHI 35,24.0,14.0,"Braden Mann kicks off 50 yards, returned by Jeremy McNichols for 22 yards (tackle by Isaiah Rodgers and Oren Burks)",0.0,1.4,16.0,2024,234
+3.0,11:34,1.0,10.0,WAS 37,24.0,14.0,Jayden Daniels pass incomplete short middle,1.4,0.86,16.0,2024,234
+3.0,11:31,2.0,10.0,WAS 37,24.0,14.0,"Jayden Daniels pass complete short right to Dyami Brown for 2 yards. Dyami Brown fumbles (forced by Zack Baun), recovered by Nolan Smith at WAS-43",0.86,-2.72,16.0,2024,234
+3.0,11:24,1.0,10.0,WAS 43,24.0,14.0,"Penalty on C.J. Gardner-Johnson: Disqualification / Offense, 15 yards (accepted) (no play)",2.72,1.73,16.0,2024,234
+3.0,11:24,1.0,10.0,PHI 42,24.0,14.0,"Kenny Pickett sacked by Clelin Ferrell for -8 yards. Kenny Pickett fumbles (forced by Clelin Ferrell), recovered by Lane Johnson at PHI-34",1.73,0.11,16.0,2024,234
+3.0,10:28,2.0,18.0,PHI 34,24.0,14.0,Kenneth Gainwell right end for 2 yards (tackle by Sheldon Day and Bobby Wagner),0.11,-0.29,16.0,2024,234
+3.0,9:49,3.0,16.0,PHI 36,24.0,14.0,"Saquon Barkley right end for 1 yard (tackle by Frankie Luvu and Percy Butler). Penalty on Daron Payne: Face Mask (15 Yards), 15 yards (accepted)",-0.29,2.39,16.0,2024,234
+3.0,9:21,1.0,10.0,WAS 48,24.0,14.0,Saquon Barkley right tackle for -2 yards (tackle by Frankie Luvu and Jer'Zhan Newton),2.39,1.58,16.0,2024,234
+3.0,8:41,2.0,12.0,WAS 50,24.0,14.0,Kenny Pickett pass complete short left to DeVonta Smith for 13 yards (tackle by Mike Sainristil and Quan Martin),1.58,3.12,16.0,2024,234
+3.0,8:11,1.0,10.0,WAS 37,24.0,14.0,Kenny Pickett scrambles right end for 1 yard (tackle by Bobby Wagner),3.12,2.71,16.0,2024,234
+3.0,7:27,2.0,9.0,WAS 36,24.0,14.0,Saquon Barkley right guard for no gain (tackle by Sheldon Day),2.71,2.01,16.0,2024,234
+3.0,6:49,3.0,9.0,WAS 36,24.0,14.0,"Kenny Pickett pass incomplete short middle intended for A.J. Brown. Penalty on Marshon Lattimore: Defensive Pass Interference, 7 yards (accepted) (no play)",2.01,3.64,16.0,2024,234
+3.0,6:46,1.0,10.0,WAS 29,24.0,14.0,Saquon Barkley left tackle for -1 yards (tackle by Jer'Zhan Newton),3.64,2.97,16.0,2024,234
+3.0,6:05,2.0,11.0,WAS 30,24.0,14.0,Kenny Pickett scrambles up the middle for 4 yards (tackle by Dorance Armstrong),2.97,2.81,16.0,2024,234
+3.0,5:20,3.0,7.0,WAS 26,24.0,14.0,Kenny Pickett pass complete short left to DeVonta Smith for 13 yards (tackle by Mike Sainristil),2.81,4.71,16.0,2024,234
+3.0,4:44,1.0,10.0,WAS 13,24.0,14.0,Saquon Barkley right tackle for 2 yards (tackle by Jalyn Holmes),4.71,4.39,16.0,2024,234
+3.0,4:00,2.0,8.0,WAS 11,24.0,14.0,Kenny Pickett pass incomplete short middle intended for A.J. Brown (defended by Marshon Lattimore),4.39,3.45,16.0,2024,234
+3.0,3:53,,,,,,Timeout #1 by Philadelphia Eagles,,,16.0,2024,234
+3.0,3:53,3.0,8.0,WAS 11,24.0,14.0,Kenny Pickett sacked by Dante Fowler for -11 yards,3.45,1.99,16.0,2024,234
+3.0,3:14,4.0,19.0,WAS 22,27.0,14.0,Jake Elliott 40 yard field goal good,1.99,3.0,16.0,2024,234
+3.0,3:11,,,PHI 35,27.0,14.0,"Braden Mann kicks off 53 yards, returned by Luke McCaffrey for 27 yards (tackle by Oren Burks)",0.0,1.53,16.0,2024,234
+3.0,3:04,1.0,10.0,WAS 39,27.0,14.0,Jayden Daniels left end for 6 yards (tackle by Cooper DeJean),1.53,1.8,16.0,2024,234
+3.0,2:39,2.0,4.0,WAS 45,27.0,14.0,Jayden Daniels pass incomplete short right,1.8,1.09,16.0,2024,234
+3.0,2:34,3.0,4.0,WAS 45,27.0,14.0,Jeremy McNichols left tackle for 5 yards (tackle by Nolan Smith),1.09,2.26,16.0,2024,234
+3.0,2:15,1.0,10.0,WAS 50,27.0,14.0,Jayden Daniels pass complete short right to Olamide Zaccheaus for 10 yards (tackle by Darius Slay),2.26,2.92,16.0,2024,234
+3.0,1:46,1.0,10.0,PHI 40,27.0,14.0,Jayden Daniels pass complete short left to Jeremy McNichols for -1 yards (tackle by Zack Baun and Nakobe Dean),2.92,2.24,16.0,2024,234
+3.0,1:05,2.0,11.0,PHI 41,27.0,14.0,Jayden Daniels pass complete short right to Olamide Zaccheaus for no gain (tackle by Jalyx Hunt and Darius Slay),2.24,1.55,16.0,2024,234
+3.0,0:26,3.0,11.0,PHI 41,27.0,14.0,Jayden Daniels pass incomplete deep middle intended for Terry McLaurin (defended by Quinyon Mitchell),1.55,0.53,16.0,2024,234
+3.0,0:19,4.0,11.0,PHI 41,27.0,14.0,Jayden Daniels scrambles up the middle for 29 yards (tackle by Reed Blankenship),0.53,4.78,16.0,2024,234
+4.0,15:00,1.0,10.0,PHI 12,27.0,14.0,Jeremy McNichols right tackle for -2 yards (tackle by Zack Baun),4.78,3.79,16.0,2024,234
+4.0,14:25,2.0,12.0,PHI 14,27.0,14.0,Jayden Daniels pass complete short middle to Jeremy McNichols for 10 yards (tackle by Tristin McCollum and Cooper DeJean),3.79,4.84,16.0,2024,234
+4.0,13:37,3.0,2.0,PHI 4,27.0,20.0,"Jayden Daniels pass complete short right to Olamide Zaccheaus for 4 yards, touchdown",4.84,7.0,16.0,2024,234
+4.0,13:33,,,PHI 15,27.0,21.0,Zane Gonzalez kicks extra point good,0.0,0.0,16.0,2024,234
+4.0,13:33,,,WAS 35,27.0,21.0,"Zane Gonzalez kicks off 64 yards, returned by Kenneth Gainwell for 30 yards (tackle by Tyler Owens)",0.0,1.0,16.0,2024,234
+4.0,13:26,1.0,10.0,PHI 31,27.0,21.0,Kenny Pickett pass incomplete short left intended for DeVonta Smith (defended by Sheldon Day),1.0,0.46,16.0,2024,234
+4.0,13:23,2.0,10.0,PHI 31,27.0,21.0,Saquon Barkley left tackle for 11 yards (tackle by Bobby Wagner),0.46,1.73,16.0,2024,234
+4.0,12:43,1.0,10.0,PHI 42,27.0,21.0,Saquon Barkley right tackle for -4 yards (tackle by Daron Payne),1.73,0.65,16.0,2024,234
+4.0,11:57,2.0,14.0,PHI 38,27.0,21.0,Kenny Pickett pass incomplete short middle,0.65,-0.03,16.0,2024,234
+4.0,11:54,3.0,14.0,PHI 38,27.0,21.0,Kenny Pickett pass complete short middle to Kenneth Gainwell for 6 yards (tackle by Jer'Zhan Newton),-0.03,-0.46,16.0,2024,234
+4.0,11:15,4.0,8.0,PHI 44,27.0,21.0,"Braden Mann punts 43 yards, fair catch by Jamison Crowder at WAS-13",-0.46,0.32,16.0,2024,234
+4.0,11:10,1.0,10.0,WAS 13,27.0,21.0,Jayden Daniels pass complete short middle to Dyami Brown for 5 yards (tackle by Nakobe Dean),-0.32,-0.14,16.0,2024,234
+4.0,10:49,2.0,5.0,WAS 18,27.0,21.0,Jayden Daniels pass incomplete short middle intended for Zach Ertz,-0.14,-0.83,16.0,2024,234
+4.0,10:45,3.0,5.0,WAS 18,27.0,21.0,"Jayden Daniels pass complete short middle to Brian Robinson for 8 yards (tackle by Darius Slay and Tristin McCollum). Penalty on Cooper DeJean: Defensive Holding, 5 yards (declined)",-0.83,0.67,16.0,2024,234
+4.0,10:21,1.0,10.0,WAS 26,27.0,21.0,Jayden Daniels pass complete short left to Luke McCaffrey for 13 yards (tackle by Tristin McCollum),0.67,1.53,16.0,2024,234
+4.0,9:51,1.0,10.0,WAS 39,27.0,21.0,Jayden Daniels pass incomplete deep right intended for Dyami Brown (defended by Isaiah Rodgers),1.53,0.99,16.0,2024,234
+4.0,9:44,2.0,10.0,WAS 39,27.0,21.0,Jayden Daniels pass complete short middle to Zach Ertz for 12 yards (tackle by Reed Blankenship),0.99,2.32,16.0,2024,234
+4.0,9:18,1.0,10.0,PHI 49,27.0,27.0,"Jayden Daniels pass complete deep right to Olamide Zaccheaus for 49 yards, touchdown Penalty on PHI: Defensive Too Many Men on Field, 5 yards (declined)",2.32,7.0,16.0,2024,234
+4.0,9:06,,,PHI 15,27.0,28.0,Zane Gonzalez kicks extra point good,0.0,0.0,16.0,2024,234
+4.0,9:06,,,WAS 35,27.0,28.0,"Zane Gonzalez kicks off 56 yards, returned by Isaiah Rodgers for 25 yards (tackle by Mykal Walker)",0.0,1.2,16.0,2024,234
+4.0,9:01,1.0,10.0,PHI 34,27.0,28.0,Saquon Barkley left tackle for 5 yards (tackle by Javontae Jean-Baptiste and Noah Igbinoghene),1.2,1.33,16.0,2024,234
+4.0,8:24,2.0,5.0,PHI 39,27.0,28.0,Saquon Barkley right tackle for 4 yards (tackle by Javontae Jean-Baptiste),1.33,1.16,16.0,2024,234
+4.0,7:44,3.0,1.0,PHI 43,27.0,28.0,Kenny Pickett pass incomplete short right intended for A.J. Brown (defended by Marshon Lattimore),1.16,-0.52,16.0,2024,234
+4.0,7:39,4.0,1.0,PHI 43,27.0,28.0,Kenny Pickett pass complete short left to DeVonta Smith for 4 yards (tackle by Mike Sainristil and Quan Martin),-0.52,2.06,16.0,2024,234
+4.0,7:00,1.0,10.0,PHI 47,27.0,28.0,Kenny Pickett pass incomplete deep right intended for Saquon Barkley (defended by Bobby Wagner),2.06,1.52,16.0,2024,234
+4.0,6:52,2.0,10.0,PHI 47,27.0,28.0,Saquon Barkley left tackle for 3 yards (tackle by Sheldon Day),1.52,1.22,16.0,2024,234
+4.0,6:15,3.0,7.0,PHI 50,27.0,28.0,Kenny Pickett pass incomplete short left intended for A.J. Brown,1.22,-0.06,16.0,2024,234
+4.0,6:10,4.0,7.0,PHI 50,27.0,28.0,Kenny Pickett pass complete short right to A.J. Brown for 15 yards (tackle by Frankie Luvu),-0.06,3.25,16.0,2024,234
+4.0,5:27,1.0,10.0,WAS 35,27.0,28.0,Saquon Barkley left guard for 1 yard (tackle by Carl Davis and Frankie Luvu),3.25,2.84,16.0,2024,234
+4.0,4:48,2.0,9.0,WAS 34,27.0,28.0,Kenny Pickett sacked by Jalyn Holmes for -6 yards,2.84,1.35,16.0,2024,234
+4.0,4:02,3.0,15.0,WAS 40,27.0,28.0,Kenny Pickett scrambles up the middle for 8 yards (tackle by Percy Butler),1.35,1.24,16.0,2024,234
+4.0,3:53,,,,,,Timeout #1 by Washington Commanders,,,16.0,2024,234
+4.0,3:53,4.0,7.0,WAS 32,30.0,28.0,Jake Elliott 50 yard field goal good,1.24,3.0,16.0,2024,234
+4.0,3:48,,,PHI 35,30.0,28.0,"Braden Mann kicks off 63 yards, returned by Luke McCaffrey for 33 yards (tackle by Tristin McCollum)",0.0,1.27,16.0,2024,234
+4.0,3:41,1.0,10.0,WAS 35,30.0,28.0,Jayden Daniels pass incomplete deep right intended for John Bates,1.27,0.72,16.0,2024,234
+4.0,3:36,2.0,10.0,WAS 35,30.0,28.0,Jayden Daniels pass complete short middle to Jeremy McNichols for 5 yards (tackle by Nakobe Dean),0.72,0.7,16.0,2024,234
+4.0,3:06,3.0,5.0,WAS 40,30.0,28.0,Jayden Daniels pass short middle (defended by Darius Slay) intended for Luke McCaffrey is intercepted by Reed Blankenship at PHI-45 and returned for 28 yards (tackle by Jeremy McNichols),0.7,-3.78,16.0,2024,234
+4.0,2:53,1.0,10.0,WAS 27,30.0,28.0,Saquon Barkley right end for -3 yards (tackle by Jer'Zhan Newton),3.78,2.83,16.0,2024,234
+4.0,2:13,2.0,13.0,WAS 30,30.0,28.0,Kenny Pickett pass complete short middle to A.J. Brown for 8 yards (tackle by Benjamin St-Juste),2.83,3.2,16.0,2024,234
+4.0,2:07,,,,,,Timeout #2 by Washington Commanders,,,16.0,2024,234
+4.0,2:07,3.0,5.0,WAS 22,30.0,28.0,Kenny Pickett pass incomplete short middle intended for DeVonta Smith,3.2,2.04,16.0,2024,234
+4.0,2:02,4.0,5.0,WAS 22,33.0,28.0,Jake Elliott 40 yard field goal good,2.04,3.0,16.0,2024,234
+4.0,1:58,,,PHI 35,33.0,28.0,"Braden Mann kicks off 56 yards, returned by Luke McCaffrey for 29 yards (tackle by Jalyx Hunt and Oren Burks). Penalty on Sydney Brown: Illegal Formation, 5 yards (accepted)",0.0,1.8,16.0,2024,234
+4.0,1:52,1.0,10.0,WAS 43,33.0,28.0,Jayden Daniels pass complete short middle to Olamide Zaccheaus for 7 yards (tackle by Darius Slay),1.8,2.2,16.0,2024,234
+4.0,1:35,2.0,3.0,WAS 50,33.0,28.0,Brian Robinson right end for 5 yards (tackle by Zack Baun),2.2,2.59,16.0,2024,234
+4.0,1:12,1.0,10.0,PHI 45,33.0,28.0,Jayden Daniels pass complete short left to Terry McLaurin for 10 yards,2.59,3.25,16.0,2024,234
+4.0,1:06,1.0,10.0,PHI 35,33.0,28.0,Jayden Daniels up the middle for 12 yards (tackle by Tristin McCollum),3.25,4.04,16.0,2024,234
+4.0,0:44,1.0,10.0,PHI 23,33.0,28.0,Jayden Daniels pass complete short middle to Terry McLaurin for 7 yards (tackle by Reed Blankenship),4.04,4.56,16.0,2024,234
+4.0,0:28,2.0,3.0,PHI 16,33.0,28.0,Jayden Daniels up the middle for 2 yards (tackle by Nolan Smith and Milton Williams),4.56,4.28,16.0,2024,234
+4.0,0:23,,,,,,Timeout #3 by Washington Commanders,,,16.0,2024,234
+4.0,0:23,3.0,1.0,PHI 14,33.0,28.0,Brian Robinson right tackle for 5 yards (tackle by Zack Baun and Nakobe Dean),4.28,5.14,16.0,2024,234
+4.0,0:11,1.0,9.0,PHI 9,33.0,28.0,Jayden Daniels spiked the ball,5.14,4.38,16.0,2024,234
+4.0,0:10,2.0,9.0,PHI 9,33.0,34.0,"Jayden Daniels pass complete short middle to Jamison Crowder for 9 yards, touchdown",4.38,7.0,16.0,2024,234
+4.0,0:06,,,PHI 2,33.0,36.0,"Two Point Attempt: Jeremy McNichols rushes, conversion succeeds.",1.0,1.0,16.0,2024,234
+4.0,0:06,,,WAS 35,33.0,36.0,"Zane Gonzalez kicks off 57 yards, returned by Kenneth Gainwell for 12 yards, lateral to Avonte Maddox for 4 yards. Avonte Maddox fumbles (tackle by Jeremy Reaves, recovered by Benjamin St-Juste at PHI-24",0.0,4.24,16.0,2024,234

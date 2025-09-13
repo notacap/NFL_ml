@@ -1,0 +1,68 @@
+Player,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Team,Draft Team,Draft Round,Draft Pick,Draft Year
+Tyson Bagent,23.0,QB,5,4.0,212.0,75,Shepherd,6/8/2000,0,3.0,Chicago Bears,,,,
+Micah Baskerville,24.0,LB,2,0.0,224.0,72,LSU,10/19/1999,0,0.0,Chicago Bears,,,,
+Andrew Billings,28.0,DL,17,17.0,340.0,73,Baylor,3/6/1995,6,7.0,Chicago Bears,Cincinnati Bengals,4.0,122.0,2016.0
+Josh Blackwell,24.0,DB,10,0.0,179.0,71,Duke,4/5/1999,1,1.0,Chicago Bears,,,,
+Khari Blasingame,27.0,FB,16,2.0,233.0,72,Vanderbilt,7/1/1996,4,0.0,Chicago Bears,,,,
+Larry Borom,24.0,OL,16,6.0,325.0,77,Missouri,3/30/1999,2,4.0,Chicago Bears,Chicago Bears,5.0,151.0,2021.0
+Jaquan Brisker,24.0,DB,15,15.0,204.0,73,"Lackawanna,Penn St.",4/20/1999,1,5.0,Chicago Bears,Chicago Bears,2.0,48.0,2022.0
+Stephen Carlson,27.0,TE,1,0.0,248.0,76,Princeton,12/12/1996,4,0.0,Chicago Bears,,,,
+Ja'Tyre Carter,24.0,OL,10,2.0,311.0,75,Southern,1/15/1999,1,2.0,Chicago Bears,Chicago Bears,7.0,226.0,2022.0
+Chase Claypool,25.0,WR,3,2.0,238.0,76,Notre Dame,7/7/1998,3,0.0,Chicago Bears,Pittsburgh Steelers,2.0,49.0,2020.0
+Dylan Cole,29.0,LB,16,0.0,240.0,72,Missouri State,5/19/1994,6,1.0,Chicago Bears,,,,
+Aviante Collins,29.0,OL,1,0.0,292.0,76,TCU,5/13/1994,6,0.0,Chicago Bears,,,,
+Nate Davis,27.0,OL,11,11.0,316.0,75,Charlotte,9/23/1996,4,5.0,Chicago Bears,Tennessee Titans,3.0,82.0,2019.0
+Gervon Dexter,22.0,DL,17,1.0,326.0,78,Florida,10/5/2001,0,2.0,Chicago Bears,Chicago Bears,2.0,53.0,2023.0
+Tremaine Edmunds,25.0,LB,15,15.0,251.0,76,Virginia Tech,5/2/1998,5,8.0,Chicago Bears,Buffalo Bills,1.0,16.0,2018.0
+T.J. Edwards,27.0,LB,17,17.0,228.0,72,Wisconsin,8/12/1996,4,9.0,Chicago Bears,,,,
+Darrynton Evans,25.0,RB,5,0.0,203.0,70,Appalachian St.,7/9/1998,3,1.0,Chicago Bears,Tennessee Titans,3.0,93.0,2020.0
+Dan Feeney,29.0,OL,16,1.0,310.0,76,Indiana,5/29/1994,6,2.0,Chicago Bears,Los Angeles Chargers,3.0,71.0,2017.0
+Justin Fields,24.0,QB,13,13.0,227.0,75,"Georgia,Ohio St.",3/5/1999,2,13.0,Chicago Bears,Chicago Bears,1.0,11.0,2021.0
+D'Onta Foreman,27.0,RB,9,8.0,235.0,72,Texas,4/24/1996,6,3.0,Chicago Bears,Houston Texans,3.0,89.0,2017.0
+DeMarquis Gates,27.0,LB,5,0.0,221.0,74,Mississippi,3/7/1996,1,1.0,Chicago Bears,,,,
+Trenton Gill,24.0,P,17,0.0,219.0,76,North Carolina St.,3/5/1999,1,2.0,Chicago Bears,Chicago Bears,7.0,255.0,2022.0
+Kyler Gordon,24.0,DB,13,7.0,200.0,71,Washington,12/17/1999,1,3.0,Chicago Bears,Chicago Bears,2.0,39.0,2022.0
+Rasheem Green,26.0,DL,17,0.0,279.0,76,USC,5/15/1997,5,1.0,Chicago Bears,Seattle Seahawks,3.0,79.0,2018.0
+Duron Harmon,32.0,S,3,1.0,205.0,72,Rutgers,1/24/1991,10,0.0,Chicago Bears,New England Patriots,3.0,91.0,2013.0
+Khalil Herbert,25.0,RB,12,9.0,212.0,69,"Kansas,Virginia Tech",4/21/1998,2,5.0,Chicago Bears,Chicago Bears,6.0,217.0,2021.0
+Elijah Hicks,24.0,DB,17,6.0,204.0,71,California,10/16/1999,1,3.0,Chicago Bears,Chicago Bears,7.0,254.0,2022.0
+Travis Homer,25.0,RB,16,0.0,211.0,70,Miami (FL),8/7/1998,4,0.0,Chicago Bears,Seattle Seahawks,6.0,204.0,2019.0
+Eddie Jackson,30.0,FS,12,12.0,202.0,72,Alabama,12/10/1993,6,4.0,Chicago Bears,Chicago Bears,4.0,112.0,2017.0
+Teven Jenkins,25.0,OL,12,11.0,321.0,78,Oklahoma St.,3/3/1998,2,5.0,Chicago Bears,Chicago Bears,2.0,39.0,2021.0
+Collin Johnson,26.0,WR,3,0.0,220.0,77,Texas,9/23/1997,3,0.0,Chicago Bears,Jacksonville Jaguars,5.0,165.0,2020.0
+Jaylon Johnson,24.0,DB,14,14.0,195.0,72,Utah,4/19/1999,3,10.0,Chicago Bears,Chicago Bears,2.0,50.0,2020.0
+Quindell Johnson,24.0,DB,9,0.0,208.0,72,Memphis,11/5/1999,0,1.0,Chicago Bears,,,,
+Roschon Johnson,22.0,RB,15,0.0,227.0,72,Texas,1/31/2001,0,4.0,Chicago Bears,Chicago Bears,4.0,115.0,2023.0
+Braxton Jones,24.0,OL,11,11.0,303.0,77,Southern Utah,3/27/1999,1,5.0,Chicago Bears,Chicago Bears,5.0,168.0,2022.0
+Jaylon Jones,26.0,DB,17,0.0,190.0,71,Mississippi,10/14/1997,1,1.0,Chicago Bears,,,,
+Justin Jones,27.0,RDT,17,17.0,300.0,75,North Carolina St.,8/28/1996,5,8.0,Chicago Bears,Los Angeles Chargers,3.0,84.0,2018.0
+Velus Jones Jr.,26.0,WR,14,0.0,200.0,72,"USC,Tennessee",5/11/1997,1,1.0,Chicago Bears,Chicago Bears,3.0,71.0,2022.0
+Khalid Kareem,25.0,DL,1,0.0,255.0,76,Notre Dame,4/28/1998,3,0.0,Chicago Bears,Cincinnati Bengals,5.0,147.0,2020.0
+Cole Kmet,24.0,TE,17,17.0,257.0,78,Notre Dame,3/10/1999,3,7.0,Chicago Bears,Chicago Bears,2.0,43.0,2020.0
+Doug Kramer,25.0,OL,2,0.0,300.0,74,Illinois,6/4/1998,1,0.0,Chicago Bears,Chicago Bears,6.0,207.0,2022.0
+Marcedes Lewis,39.0,TE,17,4.0,267.0,78,UCLA,5/19/1984,17,0.0,Chicago Bears,Jacksonville Jaguars,1.0,28.0,2006.0
+Christian Matthew,27.0,DB,2,0.0,195.0,74,"Georgia Southern,Samford,Valdosta St.",10/26/1996,1,0.0,Chicago Bears,Arizona Cardinals,7.0,244.0,2022.0
+Darnell Mooney,26.0,WR,15,14.0,180.0,71,Tulane,10/29/1997,3,4.0,Chicago Bears,Chicago Bears,5.0,173.0,2020.0
+D.J. Moore,26.0,WR,17,17.0,213.0,72,Maryland,4/14/1997,5,13.0,Chicago Bears,Carolina Panthers,1.0,24.0,2018.0
+Yannick Ngakoue,28.0,DL,13,13.0,246.0,74,Maryland,3/31/1995,7,6.0,Chicago Bears,Jacksonville Jaguars,3.0,69.0,2016.0
+Lucas Patrick,30.0,OL,16,15.0,313.0,75,Duke,7/30/1993,6,7.0,Chicago Bears,,,,
+Nathan Peterman,29.0,QB,2,0.0,225.0,74,"Tennessee,Pittsburgh",5/4/1994,6,0.0,Chicago Bears,Buffalo Bills,5.0,171.0,2017.0
+Zacch Pickens,23.0,DL,17,0.0,303.0,76,South Carolina,3/6/2000,0,1.0,Chicago Bears,Chicago Bears,3.0,64.0,2023.0
+Dominique Robinson,25.0,DL,11,0.0,275.0,77,Miami (OH),7/2/1998,1,1.0,Chicago Bears,Chicago Bears,5.0,174.0,2022.0
+Jack Sanborn,23.0,LB,17,10.0,234.0,74,Wisconsin,7/29/2000,1,5.0,Chicago Bears,,,,
+Cairo Santos,32.0,K,17,0.0,173.0,68,Tulane,11/12/1991,9,4.0,Chicago Bears,,,,
+Patrick Scales,35.0,LS,17,0.0,226.0,75,Utah St.,2/11/1988,9,1.0,Chicago Bears,,,,
+Tyler Scott,22.0,WR,17,4.0,182.0,70,Cincinnati,10/12/2001,0,2.0,Chicago Bears,Chicago Bears,4.0,133.0,2023.0
+Noah Sewell,21.0,LB,13,0.0,246.0,73,Oregon,4/26/2002,0,1.0,Chicago Bears,Chicago Bears,5.0,148.0,2023.0
+Terell Smith,24.0,DB,12,4.0,204.0,72,Minnesota,7/27/1999,0,2.0,Chicago Bears,Chicago Bears,5.0,165.0,2023.0
+Equanimeous St. Brown,27.0,WR,7,2.0,214.0,77,Notre Dame,9/30/1996,5,1.0,Chicago Bears,Green Bay Packers,6.0,207.0,2018.0
+Tyrique Stevenson,23.0,DB,16,16.0,212.0,72,"Georgia,Miami (FL)",5/26/2000,0,6.0,Chicago Bears,Chicago Bears,2.0,56.0,2023.0
+Greg Stroman,27.0,DB,7,1.0,180.0,71,Virginia Tech,3/8/1996,5,1.0,Chicago Bears,Washington Redskins,7.0,241.0,2018.0
+Montez Sweat,27.0,DL,9,9.0,270.0,78,"Michigan St.,Copiah-Lincoln CC,Mississippi St.",9/4/1996,4,7.0,Chicago Bears,Washington Redskins,1.0,26.0,2019.0
+Trent Taylor,29.0,WR,17,0.0,180.0,68,Louisiana Tech,4/30/1994,6,0.0,Chicago Bears,San Francisco 49ers,5.0,177.0,2017.0
+A.J. Thomas,24.0,S,1,0.0,215.0,74,Western Michigan,9/18/1999,1,0.0,Chicago Bears,,,,
+Robert Tonyan,29.0,TE,17,6.0,240.0,77,Indiana St.,4/30/1994,5,1.0,Chicago Bears,,,,
+DeMarcus Walker,29.0,DL,17,12.0,280.0,76,Florida St.,9/30/1994,6,6.0,Chicago Bears,Denver Broncos,2.0,51.0,2017.0
+Cody Whitehair,31.0,LG,17,11.0,316.0,75,Kansas St.,7/11/1992,7,6.0,Chicago Bears,Chicago Bears,2.0,56.0,2016.0
+Joejuan Williams,26.0,CB,4,0.0,212.0,75,Vanderbilt,12/6/1997,4,0.0,Chicago Bears,New England Patriots,2.0,45.0,2019.0
+Darnell Wright,22.0,OL,17,17.0,325.0,77,Tennessee,8/10/2001,0,8.0,Chicago Bears,Chicago Bears,1.0,10.0,2023.0

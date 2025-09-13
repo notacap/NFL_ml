@@ -1,0 +1,178 @@
+Quarter,Time,Down,ToGo,Location,LAR,DET,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Lions won the coin toss and deferred, Rams to receive the opening kickoff.",,,1.0,2024,15
+1,15:00,,,DET 35,0.0,0.0,"Jake Bates kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,15
+1,15:00,1.0,10.0,LAR 30,0.0,0.0,Matthew Stafford pass complete short right to Kyren Williams for -1 yards (tackle by Alex Anzalone),0.94,0.26,1.0,2024,15
+1,14:28,2.0,11.0,LAR 29,0.0,0.0,Matthew Stafford pass incomplete deep left intended for Demarcus Robinson,0.26,-0.43,1.0,2024,15
+1,14:22,3.0,11.0,LAR 29,0.0,0.0,Matthew Stafford pass complete short left to Cooper Kupp for -2 yards (tackle by Alex Anzalone),-0.43,-1.57,1.0,2024,15
+1,13:38,4.0,13.0,LAR 27,0.0,0.0,"Ethan Evans punts 48 yards, returned by Kalif Raymond for 11 yards (tackle by Ronnie Rivers and Christian Rozeboom)",-1.57,-1.33,1.0,2024,15
+1,13:26,1.0,10.0,DET 36,0.0,0.0,David Montgomery up the middle for 2 yards (tackle by Christian Rozeboom and Jared Verse),1.33,1.06,1.0,2024,15
+1,12:55,2.0,8.0,DET 38,0.0,0.0,Jared Goff pass complete short middle to Amon-Ra St. Brown for 4 yards (tackle by Christian Rozeboom),1.06,0.89,1.0,2024,15
+1,12:11,3.0,4.0,DET 42,0.0,0.0,Jared Goff sacked by Byron Young for -9 yards,0.89,-1.18,1.0,2024,15
+1,11:30,4.0,13.0,DET 33,0.0,0.0,"Jack Fox punts 67 yards, touchback.. Penalty on Christian Rozeboom: Offensive Holding, 10 yards (accepted)",-1.18,0.38,1.0,2024,15
+1,11:20,1.0,10.0,LAR 10,0.0,0.0,Matthew Stafford pass complete short left to Cooper Kupp for 5 yards,-0.38,-0.35,1.0,2024,15
+1,11:01,2.0,5.0,LAR 15,0.0,0.0,Matthew Stafford pass complete short right to Cooper Kupp for 11 yards (tackle by Terrion Arnold and Brian Branch),-0.35,0.67,1.0,2024,15
+1,10:23,1.0,10.0,LAR 26,0.0,0.0,Matthew Stafford pass complete short right to Colby Parkinson for 10 yards (tackle by Carlton Davis),0.67,1.33,1.0,2024,15
+1,9:50,1.0,10.0,LAR 36,0.0,0.0,Matthew Stafford pass complete short middle to Cooper Kupp for 8 yards (tackle by Carlton Davis),1.33,1.87,1.0,2024,15
+1,9:24,2.0,2.0,LAR 44,0.0,0.0,Kyren Williams left tackle for 2 yards (tackle by Carlton Davis),1.87,1.99,1.0,2024,15
+1,8:44,1.0,10.0,LAR 46,0.0,0.0,Matthew Stafford pass complete short right to Puka Nacua for 16 yards (tackle by Alex Anzalone),1.99,3.05,1.0,2024,15
+1,8:02,1.0,10.0,DET 38,0.0,0.0,Matthew Stafford pass complete short left to Cooper Kupp for 4 yards (tackle by Terrion Arnold),3.05,3.05,1.0,2024,15
+1,7:37,2.0,6.0,DET 34,0.0,0.0,Matthew Stafford pass incomplete short middle intended for Demarcus Robinson,3.05,2.34,1.0,2024,15
+1,7:32,3.0,6.0,DET 34,0.0,0.0,Matthew Stafford pass complete short right to Colby Parkinson for 15 yards (tackle by Alex Anzalone and Kerby Joseph),2.34,4.31,1.0,2024,15
+1,6:46,1.0,10.0,DET 19,0.0,0.0,Matthew Stafford pass incomplete short right intended for Davis Allen,4.31,3.75,1.0,2024,15
+1,6:41,2.0,10.0,DET 19,0.0,0.0,Matthew Stafford sacked by and Levi Onwuzurike for -8 yards and Marcus Davenport for -8 yards,3.75,2.02,1.0,2024,15
+1,5:55,3.0,18.0,DET 27,0.0,0.0,"Penalty on Warren McClendon: False Start, 5 yards (accepted) (no play)",2.02,1.36,1.0,2024,15
+1,5:36,3.0,23.0,DET 32,0.0,0.0,Kyren Williams up the middle for 9 yards (tackle by Jalen Reeves-Maybin and Kerby Joseph),1.36,1.93,1.0,2024,15
+1,4:54,4.0,14.0,DET 23,3.0,0.0,Joshua Karty 41 yard field goal good,1.93,3.0,1.0,2024,15
+1,4:50,,,LAR 35,3.0,0.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,15
+1,4:50,1.0,10.0,DET 30,3.0,0.0,David Montgomery right tackle for 3 yards (tackle by Braden Fiske and Kobie Turner),0.94,0.8,1.0,2024,15
+1,4:11,2.0,7.0,DET 33,3.0,0.0,Jahmyr Gibbs right tackle for 6 yards (tackle by Kamren Curl),0.8,0.89,1.0,2024,15
+1,3:34,3.0,1.0,DET 39,3.0,0.0,David Montgomery left tackle for 2 yards (tackle by Troy Reeder),0.89,1.66,1.0,2024,15
+1,2:50,1.0,10.0,DET 41,3.0,0.0,"David Montgomery left end for 5 yards (tackle by Troy Reeder and Christian Rozeboom). Penalty on Byron Young: Illegal Use of Hands / Defense, 5 yards (accepted)",1.66,2.32,1.0,2024,15
+1,2:35,1.0,10.0,LAR 49,3.0,0.0,David Montgomery left end for 8 yards (tackle by Troy Reeder and John Johnson),2.32,2.86,1.0,2024,15
+1,1:51,2.0,2.0,LAR 41,3.0,0.0,David Montgomery left end for 6 yards (tackle by Quentin Lake and Jared Verse),2.86,3.25,1.0,2024,15
+1,1:14,1.0,10.0,LAR 35,3.0,0.0,David Montgomery left tackle for 7 yards (tackle by Troy Reeder and Tre'Davious White),3.25,3.65,1.0,2024,15
+1,0:35,2.0,3.0,LAR 28,3.0,0.0,Jared Goff pass complete short left to Jameson Williams for 1 yard (tackle by Quentin Lake and John Johnson),3.65,3.07,1.0,2024,15
+2,15:00,3.0,2.0,LAR 27,3.0,0.0,Jared Goff pass incomplete short middle intended for Amon-Ra St. Brown,3.07,1.8,1.0,2024,15
+2,14:56,4.0,2.0,LAR 27,3.0,0.0,David Montgomery up the middle for 3 yards (tackle by Bobby Brown),1.8,3.97,1.0,2024,15
+2,14:25,1.0,10.0,LAR 24,3.0,0.0,Jared Goff pass complete short left to Sam LaPorta for 14 yards (tackle by John Johnson),3.97,4.91,1.0,2024,15
+2,13:43,1.0,10.0,LAR 10,3.0,0.0,Jared Goff pass complete short left to Amon-Ra St. Brown for 4 yards (tackle by Troy Reeder),4.91,4.95,1.0,2024,15
+2,13:00,2.0,6.0,LAR 6,3.0,0.0,David Montgomery left tackle for -1 yards (tackle by Michael Hoecht and Quentin Lake),4.95,3.81,1.0,2024,15
+2,12:25,3.0,7.0,LAR 7,3.0,0.0,Jared Goff pass incomplete short middle intended for Sam LaPorta,3.81,2.97,1.0,2024,15
+2,12:20,4.0,7.0,LAR 7,3.0,3.0,Jake Bates 25 yard field goal good,2.97,3.0,1.0,2024,15
+2,12:17,,,DET 35,3.0,3.0,"Jake Bates kicks off 63 yards, returned by Jordan Whittington for 20 yards (tackle by Khalil Dorsey and Malcolm Rodriguez)",0.0,0.41,1.0,2024,15
+2,12:11,1.0,10.0,LAR 22,3.0,3.0,Puka Nacua left end for 7 yards (tackle by Derrick Barnes and Jack Campbell),0.41,0.81,1.0,2024,15
+2,11:34,2.0,3.0,LAR 29,3.0,3.0,Ronnie Rivers right tackle for 4 yards (tackle by Chris Smith and Jack Campbell),0.81,1.14,1.0,2024,15
+2,10:48,1.0,10.0,LAR 33,3.0,3.0,Matthew Stafford pass incomplete short middle intended for Colby Parkinson,1.14,0.59,1.0,2024,15
+2,10:45,2.0,10.0,LAR 33,3.0,3.0,Ronnie Rivers left end for 12 yards (tackle by Alex Anzalone),0.59,1.93,1.0,2024,15
+2,10:01,,,,,,Timeout #1 by Los Angeles Rams,,,1.0,2024,15
+2,10:01,1.0,10.0,LAR 45,3.0,3.0,Matthew Stafford pass complete short middle to Puka Nacua for 7 yards (tackle by Alex Anzalone),1.93,2.33,1.0,2024,15
+2,9:21,2.0,3.0,DET 48,3.0,3.0,Cooper Kupp left end for 9 yards (tackle by Terrion Arnold),2.33,2.98,1.0,2024,15
+2,8:41,1.0,10.0,DET 39,3.0,3.0,Matthew Stafford pass complete short middle to Puka Nacua for 6 yards (tackle by Kerby Joseph and Jack Campbell),2.98,3.25,1.0,2024,15
+2,8:04,2.0,4.0,DET 33,3.0,3.0,Kyren Williams left tackle for 4 yards (tackle by Aidan Hutchinson and Carlton Davis),3.25,3.64,1.0,2024,15
+2,7:26,1.0,10.0,DET 29,3.0,3.0,Matthew Stafford pass incomplete short left intended for Cooper Kupp (defended by Brian Branch),3.64,3.1,1.0,2024,15
+2,7:23,2.0,10.0,DET 29,3.0,3.0,Matthew Stafford pass incomplete short left,3.1,2.41,1.0,2024,15
+2,7:16,3.0,10.0,DET 29,3.0,3.0,Matthew Stafford pass complete short right to Puka Nacua for 6 yards (tackle by Brian Branch),2.41,2.0,1.0,2024,15
+2,6:35,4.0,4.0,DET 23,3.0,3.0,Matthew Stafford pass incomplete short right intended for Cooper Kupp,2.0,-0.48,1.0,2024,15
+2,6:31,1.0,10.0,DET 23,3.0,3.0,Jared Goff pass complete short middle to Jameson Williams for 36 yards (tackle by John Johnson),0.48,2.85,1.0,2024,15
+2,5:57,1.0,10.0,LAR 41,3.0,3.0,Jared Goff pass incomplete deep left intended for Jameson Williams,2.85,2.31,1.0,2024,15
+2,5:49,2.0,10.0,LAR 41,3.0,3.0,Jared Goff pass complete short left to Jahmyr Gibbs for 14 yards (tackle by Quentin Lake),2.31,3.78,1.0,2024,15
+2,5:07,1.0,10.0,LAR 27,3.0,3.0,Jameson Williams right end for 13 yards (tackle by Christian Rozeboom and Cobie Durant),3.78,4.65,1.0,2024,15
+2,4:33,1.0,10.0,LAR 14,3.0,3.0,Jahmyr Gibbs up the middle for 8 yards (tackle by Tyler Davis),4.65,5.47,1.0,2024,15
+2,3:52,2.0,2.0,LAR 6,3.0,3.0,Jahmyr Gibbs left tackle for 1 yard (tackle by Braden Fiske and Bobby Brown),5.47,4.96,1.0,2024,15
+2,3:08,3.0,1.0,LAR 5,3.0,3.0,Jahmyr Gibbs right end for 2 yards (tackle by Byron Young and Quentin Lake),4.96,6.51,1.0,2024,15
+2,2:28,1.0,3.0,LAR 3,3.0,3.0,Jared Goff pass complete short left to Brock Wright for 2 yards (tackle by Kamren Curl),6.51,5.91,1.0,2024,15
+2,2:00,2.0,1.0,LAR 1,3.0,9.0,"Jahmyr Gibbs left tackle for no gain (tackle by Kamren Curl) Replay Assistant challenged the runner broke the plane ruling, and the original play was overturned. Jahmyr Gibbs left tackle for 1 yard, touchdown",5.91,7.0,1.0,2024,15
+2,1:57,,,LAR 15,3.0,10.0,Jake Bates kicks extra point good,0.0,0.0,1.0,2024,15
+2,1:57,,,DET 35,3.0,10.0,"Jake Bates kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,15
+2,1:57,1.0,10.0,LAR 30,3.0,10.0,Kyren Williams up the middle for 4 yards (tackle by Levi Onwuzurike and Malcolm Rodriguez),0.94,0.93,1.0,2024,15
+2,1:20,2.0,6.0,LAR 34,3.0,10.0,"Kyren Williams right end for no gain (tackle by Marcus Davenport and Levi Onwuzurike). Penalty on Marcus Davenport: Defensive Offside, 5 yards (accepted) (no play)",0.93,1.61,1.0,2024,15
+2,1:15,2.0,1.0,LAR 39,3.0,10.0,Kyren Williams up the middle for 4 yards (tackle by Derrick Barnes and Aidan Hutchinson),1.61,1.8,1.0,2024,15
+2,0:54,1.0,10.0,LAR 43,3.0,10.0,Matthew Stafford pass incomplete short middle intended for Cooper Kupp (defended by Amik Robertson),1.8,1.25,1.0,2024,15
+2,0:43,2.0,10.0,LAR 43,3.0,10.0,"Matthew Stafford pass complete short left to Tyler Johnson for 2 yards (tackle by Carlton Davis). Penalty on Aidan Hutchinson: Roughing the Passer, 15 yards (accepted)",1.25,2.92,1.0,2024,15
+2,0:43,1.0,10.0,DET 40,3.0,10.0,Matthew Stafford pass complete short right to Colby Parkinson for 20 yards (tackle by Amik Robertson),2.92,4.24,1.0,2024,15
+2,0:37,1.0,10.0,DET 20,3.0,10.0,Matthew Stafford pass complete short left to Kyren Williams for 8 yards (tackle by Alex Anzalone),4.24,5.04,1.0,2024,15
+2,0:29,,,,,,Timeout #2 by Los Angeles Rams,,,1.0,2024,15
+2,0:29,2.0,2.0,DET 12,3.0,10.0,Matthew Stafford pass complete short left to Cooper Kupp for 4 yards (tackle by Kerby Joseph),5.04,5.37,1.0,2024,15
+2,0:26,1.0,8.0,DET 8,3.0,10.0,Matthew Stafford pass incomplete short right intended for Demarcus Robinson,5.37,4.57,1.0,2024,15
+2,0:21,2.0,8.0,DET 8,3.0,10.0,Matthew Stafford pass short middle intended for Tyler Johnson is intercepted by Kerby Joseph in end zone and returned for no gain,4.57,-0.28,1.0,2024,15
+2,0:15,1.0,10.0,DET 20,3.0,10.0,Jared Goff sacked by Jared Verse for -8 yards,0.28,-1.36,1.0,2024,15
+3,15:00,,,LAR 35,3.0,10.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,15
+3,15:00,1.0,10.0,DET 30,3.0,10.0,David Montgomery right tackle for 2 yards (tackle by Troy Reeder),0.94,0.66,1.0,2024,15
+3,14:29,2.0,8.0,DET 32,3.0,10.0,David Montgomery up the middle for 4 yards (tackle by Kamren Curl and Troy Reeder),0.66,0.5,1.0,2024,15
+3,13:51,3.0,4.0,DET 36,3.0,10.0,Jared Goff pass incomplete short middle intended for Jameson Williams (defended by Troy Reeder),0.5,-0.98,1.0,2024,15
+3,13:46,4.0,4.0,DET 36,3.0,10.0,"Jack Fox punts 64 yards, touchback.",-0.98,-0.28,1.0,2024,15
+3,13:35,1.0,10.0,LAR 20,3.0,10.0,Kyren Williams right end for -1 yards (tackle by Jack Campbell and Carlton Davis),0.28,-0.46,1.0,2024,15
+3,12:57,2.0,11.0,LAR 19,3.0,10.0,Matthew Stafford pass complete short middle to Tyler Johnson for 1 yard (tackle by Terrion Arnold),-0.46,-0.96,1.0,2024,15
+3,12:19,3.0,10.0,LAR 20,3.0,10.0,Matthew Stafford pass incomplete deep middle intended for Cooper Kupp (defended by Brian Branch),-0.96,-2.03,1.0,2024,15
+3,12:12,4.0,10.0,LAR 20,3.0,10.0,"Ethan Evans punts 43 yards, returned by Kalif Raymond for 4 yards (tackle by Nick Hampton and Blake Corum)",-2.03,-1.66,1.0,2024,15
+3,12:01,1.0,10.0,DET 41,3.0,10.0,David Montgomery up the middle for 5 yards (tackle by Byron Young),1.66,1.8,1.0,2024,15
+3,11:23,2.0,5.0,DET 46,3.0,10.0,Jared Goff pass complete short middle to David Montgomery for 2 yards (tackle by Christian Rozeboom),1.8,1.36,1.0,2024,15
+3,10:37,3.0,3.0,DET 48,3.0,16.0,"Jared Goff pass complete deep left to Jameson Williams for 52 yards, touchdown. Penalty on Tre'Davious White: Illegal Contact, 5 yards (declined)",1.36,7.0,1.0,2024,15
+3,10:29,,,LAR 15,3.0,17.0,Jake Bates kicks extra point good,0.0,0.0,1.0,2024,15
+3,10:29,,,DET 35,3.0,17.0,"Jake Bates kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,15
+3,10:29,1.0,10.0,LAR 30,3.0,17.0,Matthew Stafford pass complete short left to Kyren Williams for -3 yards (tackle by Alex Anzalone),0.94,-0.01,1.0,2024,15
+3,9:45,2.0,13.0,LAR 27,3.0,17.0,Kyren Williams right end for 3 yards (tackle by Amik Robertson and Carlton Davis),-0.01,-0.3,1.0,2024,15
+3,8:56,3.0,10.0,LAR 30,3.0,17.0,Matthew Stafford pass complete short left to Cooper Kupp for 13 yards (tackle by Kerby Joseph),-0.3,1.8,1.0,2024,15
+3,8:20,1.0,10.0,LAR 43,3.0,17.0,Matthew Stafford pass complete deep left to Cooper Kupp for 21 yards (tackle by Terrion Arnold),1.8,3.18,1.0,2024,15
+3,7:41,1.0,10.0,DET 36,3.0,17.0,Matthew Stafford pass complete short left to Tyler Johnson for no gain (tackle by Terrion Arnold),3.18,2.64,1.0,2024,15
+3,7:04,2.0,10.0,DET 36,3.0,17.0,Kyren Williams right tackle for 6 yards (tackle by Alex Anzalone),2.64,2.74,1.0,2024,15
+3,6:21,3.0,4.0,DET 30,3.0,17.0,Kyren Williams right tackle for 1 yard (tackle by Alex Anzalone and Jack Campbell),2.74,1.58,1.0,2024,15
+3,5:37,4.0,3.0,DET 29,3.0,17.0,Matthew Stafford pass complete short middle to Demarcus Robinson for 14 yards (tackle by Kerby Joseph),1.58,4.58,1.0,2024,15
+3,5:03,1.0,10.0,DET 15,3.0,17.0,Cooper Kupp right end for 1 yard (tackle by Brian Branch and Ennis Rakestraw),4.58,4.11,1.0,2024,15
+3,4:22,2.0,9.0,DET 14,3.0,17.0,Kyren Williams left tackle for 3 yards (tackle by Aidan Hutchinson),4.11,3.78,1.0,2024,15
+3,3:41,3.0,6.0,DET 11,3.0,17.0,"Matthew Stafford pass incomplete short right intended for Cooper Kupp. Penalty on Terrion Arnold: Defensive Pass Interference, 9 yards (accepted) (no play)",3.78,6.74,1.0,2024,15
+3,3:36,1.0,2.0,DET 2,9.0,17.0,"Kyren Williams right tackle for 2 yards, touchdown",6.74,7.0,1.0,2024,15
+3,3:33,,,DET 15,10.0,17.0,Joshua Karty kicks extra point good,0.0,0.0,1.0,2024,15
+3,3:33,,,LAR 35,10.0,17.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,15
+3,3:33,1.0,10.0,DET 30,10.0,17.0,Jared Goff pass complete short right to Jahmyr Gibbs for 2 yards (tackle by Kamren Curl),0.94,0.66,1.0,2024,15
+3,2:59,2.0,8.0,DET 32,10.0,17.0,Jahmyr Gibbs left end for 3 yards (tackle by Quentin Lake),0.66,0.37,1.0,2024,15
+3,2:17,3.0,5.0,DET 35,10.0,17.0,Jared Goff pass complete short middle to Sam LaPorta for 4 yards (tackle by John Johnson and Quentin Lake),0.37,-0.78,1.0,2024,15
+3,1:42,4.0,1.0,DET 39,10.0,17.0,"Jack Fox punts 45 yards, returned by Kyren Williams for no gain",-0.78,0.14,1.0,2024,15
+3,1:31,1.0,10.0,LAR 16,10.0,17.0,Kyren Williams left tackle for -2 yards (tackle by Brian Branch),-0.14,-0.89,1.0,2024,15
+3,0:52,2.0,12.0,LAR 14,10.0,17.0,Matthew Stafford pass complete short middle to Tyler Johnson for 63 yards (tackle by Malcolm Rodriguez),-0.89,4.04,1.0,2024,15
+4,15:00,1.0,10.0,DET 23,10.0,17.0,Matthew Stafford pass complete short right to Cooper Kupp for 5 yards (tackle by Carlton Davis and Alex Anzalone),4.04,4.21,1.0,2024,15
+4,14:17,2.0,5.0,DET 18,10.0,17.0,"Matthew Stafford pass incomplete deep left intended for Demarcus Robinson. Penalty on Terrion Arnold: Defensive Pass Interference, 17 yards (accepted) (no play)",4.21,6.97,1.0,2024,15
+4,14:10,1.0,1.0,DET 1,10.0,17.0,Kyren Williams left tackle for no gain (tackle by Derrick Barnes and Brian Branch),6.97,5.91,1.0,2024,15
+4,13:29,2.0,1.0,DET 1,10.0,17.0,"Jordan Whittington left end for no gain, touchdown. Penalty on AJ Arcuri: Offensive Holding, 10 yards (accepted) (no play)",5.91,4.02,1.0,2024,15
+4,13:24,2.0,11.0,DET 11,10.0,17.0,Kyren Williams right tackle for 3 yards (tackle by Aidan Hutchinson),4.02,3.58,1.0,2024,15
+4,12:41,3.0,8.0,DET 8,10.0,17.0,"Matthew Stafford pass incomplete short left intended for Cooper Kupp (defended by Brian Branch). Penalty on AJ Arcuri: Offensive Holding, 10 yards (declined)",3.58,2.95,1.0,2024,15
+4,12:35,4.0,8.0,DET 8,13.0,17.0,Joshua Karty 26 yard field goal good,2.95,3.0,1.0,2024,15
+4,12:32,,,LAR 35,13.0,17.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,15
+4,12:32,1.0,10.0,DET 30,13.0,17.0,Jahmyr Gibbs right end for no gain (tackle by Braden Fiske and Neville Gallimore),0.94,0.39,1.0,2024,15
+4,11:52,2.0,10.0,DET 30,13.0,17.0,"Penalty on Graham Glasgow: False Start, 5 yards (accepted) (no play)",0.39,-0.28,1.0,2024,15
+4,11:51,2.0,15.0,DET 25,13.0,17.0,Jared Goff pass complete short left to Sam LaPorta for 9 yards (tackle by Christian Rozeboom and Cobie Durant),-0.28,0.23,1.0,2024,15
+4,11:21,3.0,6.0,DET 34,13.0,17.0,Jared Goff scrambles up the middle for 7 yards (tackle by Quentin Lake),0.23,1.66,1.0,2024,15
+4,10:39,1.0,10.0,DET 41,13.0,17.0,Jared Goff pass complete short left to Jameson Williams for 27 yards (tackle by Tre'Davious White),1.66,3.45,1.0,2024,15
+4,10:00,1.0,10.0,LAR 32,13.0,17.0,Jahmyr Gibbs right tackle for 7 yards (tackle by Neville Gallimore and Byron Young),3.45,3.85,1.0,2024,15
+4,9:14,2.0,3.0,LAR 25,13.0,17.0,"Penalty on Frank Ragnow: False Start, 5 yards (accepted) (no play)",3.85,3.17,1.0,2024,15
+4,9:14,2.0,8.0,LAR 30,13.0,17.0,Jared Goff pass short middle intended for Amon-Ra St. Brown is intercepted by John Johnson at LA-20 and returned for no gain (tackle by Amon-Ra St. Brown),3.17,-0.28,1.0,2024,15
+4,9:09,1.0,10.0,LAR 20,13.0,17.0,Matthew Stafford pass complete short left to Cooper Kupp for 7 yards (tackle by Alex Anzalone),0.28,0.68,1.0,2024,15
+4,8:37,2.0,3.0,LAR 27,13.0,17.0,Matthew Stafford pass complete short right to Colby Parkinson for 2 yards (tackle by Carlton Davis),0.68,0.23,1.0,2024,15
+4,7:55,3.0,1.0,LAR 29,13.0,17.0,Matthew Stafford pass complete short middle to Tyler Johnson for 13 yards (tackle by Derrick Barnes),0.23,1.73,1.0,2024,15
+4,7:31,1.0,10.0,LAR 42,13.0,17.0,Matthew Stafford pass complete short left to Cooper Kupp for no gain (tackle by Terrion Arnold),1.73,1.19,1.0,2024,15
+4,6:48,2.0,10.0,LAR 42,13.0,17.0,Matthew Stafford pass complete short middle to Demarcus Robinson for 9 yards (tackle by Carlton Davis),1.19,1.69,1.0,2024,15
+4,6:23,3.0,1.0,DET 49,13.0,17.0,Kyren Williams up the middle for 2 yards (tackle by Brian Branch),1.69,2.46,1.0,2024,15
+4,5:41,1.0,10.0,DET 47,13.0,17.0,Matthew Stafford pass complete deep left to Cooper Kupp for 20 yards,2.46,3.78,1.0,2024,15
+4,5:24,1.0,10.0,DET 27,13.0,17.0,Kyren Williams up the middle for 5 yards (tackle by Alim McNeill),3.78,3.91,1.0,2024,15
+4,4:44,2.0,5.0,DET 22,13.0,17.0,Matthew Stafford pass complete short right to Demarcus Robinson for 13 yards (tackle by Terrion Arnold),3.91,5.14,1.0,2024,15
+4,4:35,1.0,9.0,DET 9,19.0,17.0,"Matthew Stafford pass complete short left to Cooper Kupp for 9 yards, touchdown",5.14,7.0,1.0,2024,15
+4,4:30,,,DET 15,20.0,17.0,Joshua Karty kicks extra point good,0.0,0.0,1.0,2024,15
+4,4:30,,,LAR 35,20.0,17.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,15
+4,4:30,1.0,10.0,DET 30,20.0,17.0,Jared Goff pass complete short right to Amon-Ra St. Brown for 5 yards (tackle by Cobie Durant),0.94,1.07,1.0,2024,15
+4,4:26,2.0,5.0,DET 35,20.0,17.0,Jared Goff pass incomplete short right intended for Jameson Williams,1.07,0.37,1.0,2024,15
+4,4:21,3.0,5.0,DET 35,20.0,17.0,Jared Goff pass incomplete deep left intended for Jameson Williams (defended by Cobie Durant),0.37,-1.04,1.0,2024,15
+4,4:17,4.0,5.0,DET 35,20.0,17.0,"Jack Fox punts 54 yards, fair catch by Kyren Williams at LA-11",-1.04,0.37,1.0,2024,15
+4,4:10,1.0,10.0,LAR 11,20.0,17.0,Matthew Stafford pass complete short middle to Cooper Kupp for 5 yards (tackle by Jack Campbell and Alex Anzalone),-0.37,-0.3,1.0,2024,15
+4,3:25,2.0,5.0,LAR 16,20.0,17.0,Matthew Stafford pass incomplete short middle intended for Tyler Johnson,-0.3,-0.84,1.0,2024,15
+4,3:20,3.0,5.0,LAR 16,20.0,17.0,Matthew Stafford pass complete short left to Demarcus Robinson for 6 yards (tackle by Brian Branch),-0.84,0.41,1.0,2024,15
+4,2:37,1.0,10.0,LAR 22,20.0,17.0,Kyren Williams right tackle for -2 yards (tackle by Kyle Peko and Jack Campbell),0.41,-0.4,1.0,2024,15
+4,2:31,,,,,,Timeout #1 by Detroit Lions,,,1.0,2024,15
+4,2:31,2.0,12.0,LAR 20,20.0,17.0,"Penalty on Warren McClendon: False Start, 5 yards (accepted) (no play)",-0.4,-1.21,1.0,2024,15
+4,2:31,2.0,17.0,LAR 15,20.0,17.0,Kyren Williams left end for 7 yards (tackle by Malcolm Rodriguez),-1.21,-0.82,1.0,2024,15
+4,2:26,3.0,10.0,LAR 22,20.0,17.0,Matthew Stafford pass incomplete deep left intended for Cooper Kupp,-0.82,-1.9,1.0,2024,15
+4,2:21,4.0,10.0,LAR 22,20.0,17.0,"Ethan Evans punts 50 yards, returned by Kalif Raymond for 3 yards (tackle by Jordan Whittington)",-1.9,-1.0,1.0,2024,15
+4,2:11,1.0,10.0,DET 31,20.0,17.0,Jahmyr Gibbs up the middle for 5 yards (tackle by Braden Fiske and Tre'Davious White),1.0,1.14,1.0,2024,15
+4,2:00,2.0,5.0,DET 36,20.0,17.0,"Jared Goff pass complete short right to Sam LaPorta for 18 yards (tackle by Kamren Kinchens). Penalty on Kamren Kinchens: Unnecessary Roughness / Defense, 15 yards (accepted)",1.14,3.51,1.0,2024,15
+4,1:55,1.0,10.0,LAR 31,20.0,17.0,Jared Goff pass complete short right to Jahmyr Gibbs for 8 yards (tackle by Christian Rozeboom),3.51,4.05,1.0,2024,15
+4,1:11,2.0,2.0,LAR 23,20.0,17.0,Jared Goff pass incomplete deep left intended for Jahmyr Gibbs,4.05,3.34,1.0,2024,15
+4,1:05,3.0,2.0,LAR 23,20.0,17.0,"Jahmyr Gibbs right end for 4 yards (tackle by Kamren Curl) Replay Assistant challenged the runner was in bounds ruling, and the original play was overturned. Jahmyr Gibbs right end for 4 yards (tackle by Kamren Curl)",3.34,4.31,1.0,2024,15
+4,0:41,1.0,10.0,LAR 19,20.0,17.0,Jared Goff pass incomplete short left intended for Amon-Ra St. Brown,4.31,3.75,1.0,2024,15
+4,0:39,2.0,10.0,LAR 19,20.0,17.0,Jared Goff pass complete short middle to Jameson Williams for 5 yards (tackle by Quentin Lake),3.75,3.76,1.0,2024,15
+4,0:24,,,,,,Timeout #2 by Detroit Lions,,,1.0,2024,15
+4,0:24,3.0,5.0,LAR 14,20.0,17.0,Jared Goff pass incomplete short right intended for Jahmyr Gibbs,3.76,2.56,1.0,2024,15
+4,0:20,4.0,5.0,LAR 14,20.0,20.0,Jake Bates 32 yard field goal good,2.56,3.0,1.0,2024,15
+4,0:17,,,DET 35,20.0,20.0,"Jake Bates kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,15
+4,0:17,1.0,10.0,LAR 30,20.0,20.0,Matthew Stafford pass incomplete deep right intended for Cooper Kupp,0.94,0.39,1.0,2024,15
+4,0:11,,,,,,Timeout #3 by Detroit Lions,,,1.0,2024,15
+4,0:11,2.0,10.0,LAR 30,20.0,20.0,Matthew Stafford sacked by Aidan Hutchinson for -5 yards,0.39,0.0,1.0,2024,15
+,,,,,,,"Lions won the coin toss, Lions to receive the overtime kickoff.",,,1.0,2024,15
+OT,10:00,,,LAR 35,20.0,20.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,15
+OT,10:00,1.0,10.0,DET 30,20.0,20.0,Kalif Raymond left end for 12 yards (tackle by Christian Rozeboom),0.94,1.73,1.0,2024,15
+OT,9:24,1.0,10.0,DET 42,20.0,20.0,David Montgomery right end for 21 yards (tackle by Tre'Davious White),1.73,3.12,1.0,2024,15
+OT,8:44,1.0,10.0,LAR 37,20.0,20.0,David Montgomery left tackle for 9 yards (tackle by Jared Verse),3.12,3.79,1.0,2024,15
+OT,8:02,2.0,1.0,LAR 28,20.0,20.0,Jared Goff pass complete short right to Jahmyr Gibbs for 10 yards (tackle by Tre'Davious White),3.79,4.37,1.0,2024,15
+OT,7:21,1.0,10.0,LAR 18,20.0,20.0,Jahmyr Gibbs left tackle for 3 yards (tackle by Troy Reeder and Quentin Lake),4.37,4.25,1.0,2024,15
+OT,6:43,2.0,7.0,LAR 15,20.0,20.0,David Montgomery up the middle for 6 yards (tackle by Kobie Turner and Braden Fiske),4.25,4.74,1.0,2024,15
+OT,6:04,3.0,1.0,LAR 9,20.0,20.0,David Montgomery up the middle for 8 yards (tackle by Bobby Brown and John Johnson),4.74,6.97,1.0,2024,15
+OT,5:24,,,,,,Timeout #1 by Los Angeles Rams,,,1.0,2024,15
+OT,5:24,1.0,1.0,LAR 1,20.0,26.0,"David Montgomery right tackle for 1 yard, touchdown",6.97,6.0,1.0,2024,15

@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,14:37,LAC 20,15,8:39,78,Downs,1,Chargers,14.0,2022,207
+2,1,2:36,LAC 43,8,3:22,42,Field Goal,1,Chargers,14.0,2022,207
+3,2,12:41,MIA 43,5,2:52,43,Touchdown,1,Chargers,14.0,2022,207
+4,2,8:45,LAC 25,3,2:23,-4,Punt,1,Chargers,14.0,2022,207
+5,2,4:03,LAC 10,13,3:45,90,Touchdown,1,Chargers,14.0,2022,207
+6,3,15:00,LAC 25,3,1:28,6,Punt,1,Chargers,14.0,2022,207
+7,3,12:37,LAC 17,6,3:32,24,Punt,1,Chargers,14.0,2022,207
+8,3,6:23,LAC 25,6,2:05,62,Field Goal,1,Chargers,14.0,2022,207
+9,3,1:35,LAC 13,3,1:43,9,Punt,1,Chargers,14.0,2022,207
+10,4,11:19,LAC 11,17,8:39,79,Field Goal,1,Chargers,14.0,2022,207
+11,4,1:10,LAC 49,2,1:10,-2,End of Game,1,Chargers,14.0,2022,207

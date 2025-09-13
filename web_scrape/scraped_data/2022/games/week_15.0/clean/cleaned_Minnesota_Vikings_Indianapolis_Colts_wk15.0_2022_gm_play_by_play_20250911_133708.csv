@@ -1,0 +1,237 @@
+Quarter,Time,Down,ToGo,Location,IND,MIN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Vikings won the coin toss and deferred, Colts to receive the opening kickoff.",,,15.0,2022,210
+1,15:00,,,MIN 35,0.0,0.0,"Greg Joseph kicks off 66 yards, returned by Dallis Flowers for 49 yards (tackle by Greg Joseph)",0.0,2.13,15.0,2022,210
+1,14:52,1.0,10.0,IND 48,0.0,0.0,Michael Pittman left end for 19 yards (tackle by Jordan Hicks),2.13,3.38,15.0,2022,210
+1,14:12,1.0,10.0,MIN 33,0.0,0.0,Matt Ryan sacked by Danielle Hunter for -4 yards,3.38,2.3,15.0,2022,210
+1,13:38,2.0,14.0,MIN 37,0.0,0.0,Matt Ryan pass complete short left to Jonathan Taylor for 13 yards (tackle by Harrison Smith),2.3,3.34,15.0,2022,210
+1,12:58,3.0,1.0,MIN 24,0.0,0.0,Ashton Dulin left end for 5 yards (tackle by Patrick Peterson),3.34,4.31,15.0,2022,210
+1,12:28,1.0,10.0,MIN 19,0.0,0.0,Zack Moss left guard for 5 yards (tackle by Eric Kendricks),4.31,4.53,15.0,2022,210
+1,11:55,2.0,5.0,MIN 14,0.0,0.0,Zack Moss left tackle for -1 yards (tackle by Jordan Hicks and Harrison Phillips),4.53,3.58,15.0,2022,210
+1,11:15,3.0,6.0,MIN 15,0.0,0.0,Matt Ryan pass complete short middle to Michael Pittman for 11 yards (tackle by Chandon Sullivan),3.58,6.28,15.0,2022,210
+1,10:40,1.0,4.0,MIN 4,0.0,0.0,Matt Ryan pass incomplete short right,6.28,5.34,15.0,2022,210
+1,10:36,2.0,4.0,MIN 4,0.0,0.0,Zack Moss up the middle for 3 yards (tackle by Eric Kendricks and James Lynch),5.34,5.17,15.0,2022,210
+1,9:59,,,,,,Timeout #1 by Indianapolis Colts,,,15.0,2022,210
+1,9:59,3.0,1.0,MIN 1,0.0,0.0,Zack Moss left end for -7 yards (tackle by Eric Kendricks and Dalvin Tomlinson),5.17,2.95,15.0,2022,210
+1,9:15,4.0,8.0,MIN 8,3.0,0.0,Chase McLaughlin 26 yard field goal good,2.95,3.0,15.0,2022,210
+1,9:11,,,IND 35,3.0,0.0,"Chase McLaughlin kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,210
+1,9:11,1.0,10.0,MIN 25,3.0,0.0,"Kirk Cousins pass complete short middle to Dalvin Cook for no gain (tackle by Zaire Franklin). Penalty on Stephon Gilmore: Defensive Holding, 5 yards (accepted) (no play)",0.61,0.94,15.0,2022,210
+1,8:49,1.0,10.0,MIN 30,3.0,0.0,Kirk Cousins pass complete short right to Justin Jefferson for 4 yards (tackle by Stephon Gilmore),0.94,0.93,15.0,2022,210
+1,8:31,2.0,6.0,MIN 34,3.0,0.0,Kirk Cousins pass incomplete short left intended for Justin Jefferson (defended by Stephon Gilmore),0.93,0.23,15.0,2022,210
+1,8:24,3.0,6.0,MIN 34,3.0,0.0,Kirk Cousins pass incomplete short right intended for K.J. Osborn,0.23,-1.11,15.0,2022,210
+1,8:20,4.0,6.0,MIN 34,9.0,0.0,"Ryan Wright punts blocked by Ifeadi Odenigbo, touchdown",-1.11,-7.0,15.0,2022,210
+1,8:12,,,MIN 15,10.0,0.0,Chase McLaughlin kicks extra point good,0.0,0.0,15.0,2022,210
+1,8:12,,,IND 35,10.0,0.0,"Chase McLaughlin kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,210
+1,8:12,1.0,10.0,MIN 25,10.0,0.0,Dalvin Cook left end for 40 yards (tackle by Rodney McLeod),0.61,3.25,15.0,2022,210
+1,7:33,1.0,10.0,IND 35,10.0,0.0,"Dalvin Cook up the middle for 4 yards. Dalvin Cook fumbles (forced by Zaire Franklin), recovered by Isaiah Rodgers at IND-30 and returned for 4 yards (tackle by Adam Thielen)",3.25,-1.2,15.0,2022,210
+1,7:20,1.0,10.0,IND 34,10.0,0.0,Deon Jackson left tackle for 3 yards (tackle by James Lynch and Khyiris Tonga),1.2,1.06,15.0,2022,210
+1,6:48,2.0,7.0,IND 37,10.0,0.0,Deon Jackson right tackle for 6 yards (tackle by Chandon Sullivan),1.06,1.16,15.0,2022,210
+1,6:28,3.0,1.0,IND 43,10.0,0.0,Deon Jackson left guard for 2 yards (tackle by Harrison Phillips),1.16,1.93,15.0,2022,210
+1,5:55,1.0,10.0,IND 45,10.0,0.0,Matt Ryan pass complete short right to Jelani Woods for 36 yards (tackle by Camryn Bynum and Eric Kendricks),1.93,4.31,15.0,2022,210
+1,5:15,1.0,10.0,MIN 19,10.0,0.0,Zack Moss right guard for 5 yards (tackle by Khyiris Tonga),4.31,4.53,15.0,2022,210
+1,4:35,2.0,5.0,MIN 14,10.0,0.0,Matt Ryan pass complete short middle to Ashton Dulin for 13 yards (tackle by Camryn Bynum),4.53,6.97,15.0,2022,210
+1,3:55,1.0,1.0,MIN 1,16.0,0.0,"Matt Ryan pass complete short right to Deon Jackson for 1 yard, touchdown",6.97,7.0,15.0,2022,210
+1,3:51,,,MIN 15,17.0,0.0,Chase McLaughlin kicks extra point good,0.0,0.0,15.0,2022,210
+1,3:51,,,IND 35,17.0,0.0,"Chase McLaughlin kicks off 67 yards, returned by Kene Nwangwu for 24 yards (tackle by JoJo Domann)",0.0,0.41,15.0,2022,210
+1,3:41,1.0,10.0,MIN 22,17.0,0.0,"Dalvin Cook left end for 3 yards (tackle by Ifeadi Odenigbo). Penalty on Ifeadi Odenigbo: Defensive Offside, 5 yards (accepted) (no play)",0.41,1.14,15.0,2022,210
+1,3:18,1.0,5.0,MIN 27,17.0,0.0,Kirk Cousins sacked by Grover Stewart for -2 yards,1.14,0.27,15.0,2022,210
+1,2:38,2.0,7.0,MIN 25,17.0,0.0,Kirk Cousins pass complete short left to K.J. Osborn for 6 yards (tackle by Julian Blackmon),0.27,0.37,15.0,2022,210
+1,1:59,3.0,1.0,MIN 31,17.0,0.0,C.J. Ham left end for no gain (tackle by E.J. Speed),0.37,-1.31,15.0,2022,210
+1,1:15,4.0,1.0,MIN 31,17.0,0.0,Dalvin Cook up the middle for no gain (tackle by Zaire Franklin and Dayo Odeyingbo),-1.31,-3.51,15.0,2022,210
+1,1:10,1.0,10.0,MIN 31,17.0,0.0,Matt Ryan scrambles up the middle for 1 yard (tackle by Za'Darius Smith),3.51,3.1,15.0,2022,210
+1,0:34,2.0,9.0,MIN 30,17.0,0.0,Matt Ryan pass complete short middle to Michael Pittman for 14 yards (tackle by Camryn Bynum),3.1,4.51,15.0,2022,210
+2,15:00,1.0,10.0,MIN 16,17.0,0.0,Deon Jackson right tackle for 5 yards (tackle by Brian Asamoah),4.51,4.76,15.0,2022,210
+2,14:29,2.0,5.0,MIN 11,17.0,0.0,Deon Jackson up the middle for 3 yards (tackle by Za'Darius Smith),4.76,4.62,15.0,2022,210
+2,13:53,3.0,2.0,MIN 8,17.0,0.0,Zack Moss left end for -2 yards (tackle by Eric Kendricks and Dalvin Tomlinson),4.62,2.84,15.0,2022,210
+2,13:11,4.0,4.0,MIN 10,20.0,0.0,Chase McLaughlin 28 yard field goal good,2.84,3.0,15.0,2022,210
+2,13:07,,,IND 35,20.0,0.0,"Chase McLaughlin kicks off 67 yards, returned by Kene Nwangwu for 24 yards (tackle by Rodney McLeod)",0.0,0.41,15.0,2022,210
+2,13:02,1.0,10.0,MIN 22,20.0,0.0,Dalvin Cook up the middle for 7 yards (tackle by Dallis Flowers and Zaire Franklin),0.41,0.81,15.0,2022,210
+2,12:35,2.0,3.0,MIN 29,20.0,0.0,Kirk Cousins sacked by Dayo Odeyingbo for -8 yards,0.81,-0.96,15.0,2022,210
+2,11:50,3.0,11.0,MIN 21,20.0,0.0,Kirk Cousins pass complete short right to T.J. Hockenson for 10 yards (tackle by Zaire Franklin),-0.96,-1.31,15.0,2022,210
+2,11:06,4.0,1.0,MIN 31,20.0,0.0,Ryan Wright pass incomplete short left intended for Jalen Nailor,-1.31,-3.51,15.0,2022,210
+2,11:01,1.0,10.0,MIN 31,20.0,0.0,Matt Ryan pass incomplete short right intended for Mo Alie-Cox,3.51,2.97,15.0,2022,210
+2,10:55,2.0,10.0,MIN 31,20.0,0.0,Matt Ryan pass incomplete short right intended for Alec Pierce,2.97,2.28,15.0,2022,210
+2,10:52,3.0,10.0,MIN 31,20.0,0.0,Matt Ryan pass incomplete deep right intended for Alec Pierce,2.28,1.32,15.0,2022,210
+2,10:46,4.0,10.0,MIN 31,23.0,0.0,Chase McLaughlin 49 yard field goal good,1.32,3.0,15.0,2022,210
+2,10:41,,,IND 35,23.0,0.0,"Chase McLaughlin kicks off 68 yards, returned by Kene Nwangwu for 26 yards (tackle by Grant Stuard and E.J. Speed)",0.0,0.48,15.0,2022,210
+2,10:37,1.0,10.0,MIN 23,23.0,0.0,Dalvin Cook for 4 yards (tackle by Yannick Ngakoue and Rodney McLeod),0.48,0.47,15.0,2022,210
+2,10:07,2.0,6.0,MIN 27,23.0,0.0,Kirk Cousins pass complete short right to Justin Jefferson for 4 yards (tackle by Stephon Gilmore),0.47,0.3,15.0,2022,210
+2,9:42,3.0,2.0,MIN 31,23.0,0.0,Kirk Cousins sacked by DeForest Buckner for -6 yards,0.3,-1.7,15.0,2022,210
+2,9:05,4.0,8.0,MIN 25,23.0,0.0,"Ryan Wright punts 48 yards, fair catch by Dallis Flowers at IND-27",-1.7,-0.74,15.0,2022,210
+2,8:58,1.0,10.0,IND 27,23.0,0.0,Deon Jackson left tackle for 3 yards (tackle by Harrison Phillips),0.74,0.6,15.0,2022,210
+2,8:27,2.0,7.0,IND 30,23.0,0.0,Deon Jackson up the middle for 1 yard (tackle by Jordan Hicks),0.6,0.04,15.0,2022,210
+2,7:48,3.0,6.0,IND 31,23.0,0.0,Matt Ryan pass complete short left to Parris Campbell for 7 yards (tackle by Camryn Bynum and Jordan Hicks),0.04,1.47,15.0,2022,210
+2,7:13,1.0,10.0,IND 38,23.0,0.0,Matt Ryan pass incomplete short right intended for Michael Pittman,1.47,0.92,15.0,2022,210
+2,7:07,2.0,10.0,IND 38,23.0,0.0,Matt Ryan pass incomplete short right intended for Alec Pierce (defended by Duke Shelley),0.92,0.23,15.0,2022,210
+2,7:03,3.0,10.0,IND 38,23.0,0.0,Matt Ryan pass complete short right to Michael Pittman for 2 yards (tackle by Chandon Sullivan and Brian Asamoah),0.23,-0.72,15.0,2022,210
+2,6:49,4.0,8.0,IND 40,23.0,0.0,"Penalty on Luke Rhodes: False Start, 5 yards (accepted) (no play)",-0.72,-1.04,15.0,2022,210
+2,6:39,4.0,13.0,IND 35,23.0,0.0,"Matt Haack punts 55 yards, returned by Jalen Reagor for no gain (tackle by Grant Stuard). Penalty on Kris Boyd: Offensive Holding, 5 yards (accepted)",-1.04,0.38,15.0,2022,210
+2,6:29,1.0,10.0,MIN 5,23.0,0.0,"Penalty on K.J. Osborn: False Start, 2 yards (accepted) (no play)",-0.38,-0.46,15.0,2022,210
+2,6:29,1.0,12.0,MIN 3,23.0,0.0,Kirk Cousins pass complete short left to Justin Jefferson for 9 yards (tackle by Bobby Okereke),-0.46,-0.27,15.0,2022,210
+2,6:01,2.0,3.0,MIN 12,23.0,0.0,Kirk Cousins pass incomplete short middle intended for Justin Jefferson (defended by Bobby Okereke),-0.27,-0.6,15.0,2022,210
+2,5:57,3.0,3.0,MIN 12,29.0,0.0,"Kirk Cousins pass short middle intended for Jalen Reagor is intercepted by Julian Blackmon at MIN-17 and returned for 17 yards, touchdown",-0.6,-7.0,15.0,2022,210
+2,5:50,,,MIN 15,30.0,0.0,Chase McLaughlin kicks extra point good,0.0,0.0,15.0,2022,210
+2,5:50,,,IND 35,30.0,0.0,"Chase McLaughlin kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,210
+2,5:50,1.0,10.0,MIN 25,30.0,0.0,Alexander Mattison right end for 1 yard (tackle by Bobby Okereke and Isaiah Rodgers),0.61,0.2,15.0,2022,210
+2,5:18,2.0,9.0,MIN 26,30.0,0.0,Kirk Cousins pass complete short left to K.J. Osborn for 10 yards (tackle by Isaiah Rodgers),0.2,1.33,15.0,2022,210
+2,4:54,1.0,10.0,MIN 36,30.0,0.0,"Kirk Cousins pass complete deep left to K.J. Osborn for 40 yards (tackle by Isaiah Rodgers) IND challenged the pass completion ruling, and the original play was overturned. Kirk Cousins pass incomplete deep left intended for K.J. Osborn",1.33,0.79,15.0,2022,210
+2,4:48,2.0,10.0,MIN 36,30.0,0.0,Alexander Mattison left guard for no gain (tackle by DeForest Buckner and Byron Cowart),0.79,0.1,15.0,2022,210
+2,4:11,3.0,10.0,MIN 36,30.0,0.0,Kirk Cousins pass incomplete short right intended for K.J. Osborn (defended by Stephon Gilmore),0.1,-0.98,15.0,2022,210
+2,4:06,4.0,10.0,MIN 36,30.0,0.0,"Ryan Wright punts 43 yards, fair catch by Isaiah Rodgers at IND-21. Penalty on Kris Boyd: Player Out of Bounds on Kick, 5 yards (accepted)",-0.98,-0.67,15.0,2022,210
+2,4:00,1.0,10.0,IND 26,30.0,0.0,Deon Jackson right end for 16 yards (tackle by Danielle Hunter and Brian Asamoah),0.67,1.73,15.0,2022,210
+2,3:20,1.0,10.0,IND 42,30.0,0.0,Zack Moss left guard for 9 yards (tackle by Eric Kendricks),1.73,2.4,15.0,2022,210
+2,2:43,2.0,1.0,MIN 49,30.0,0.0,Matt Ryan pass complete deep right to Kylen Granson for 21 yards (tackle by Camryn Bynum),2.4,3.71,15.0,2022,210
+2,2:00,1.0,10.0,MIN 28,30.0,0.0,Zack Moss up the middle for 5 yards (tackle by Brian Asamoah and Harrison Phillips),3.71,3.84,15.0,2022,210
+2,1:55,,,,,,Timeout #1 by Minnesota Vikings,,,15.0,2022,210
+2,1:55,2.0,5.0,MIN 23,30.0,0.0,Zack Moss up the middle for 7 yards (tackle by Patrick Peterson and Brian Asamoah),3.84,4.51,15.0,2022,210
+2,1:48,,,,,,Timeout #2 by Minnesota Vikings,,,15.0,2022,210
+2,1:48,1.0,10.0,MIN 16,30.0,0.0,Zack Moss right guard for 2 yards (tackle by Brian Asamoah),4.51,4.21,15.0,2022,210
+2,1:43,,,,,,Timeout #3 by Minnesota Vikings,,,15.0,2022,210
+2,1:43,2.0,8.0,MIN 14,30.0,0.0,Zack Moss left end for 3 yards (tackle by Danielle Hunter and Chandon Sullivan),4.21,3.94,15.0,2022,210
+2,0:58,,,,,,Timeout #2 by Indianapolis Colts,,,15.0,2022,210
+2,0:58,3.0,5.0,MIN 11,30.0,0.0,Deon Jackson left end for 2 yards (tackle by Danielle Hunter),3.94,2.93,15.0,2022,210
+2,0:12,,,,,,Timeout #3 by Indianapolis Colts,,,15.0,2022,210
+2,0:12,4.0,3.0,MIN 9,33.0,0.0,Chase McLaughlin 27 yard field goal good,2.93,3.0,15.0,2022,210
+2,0:08,,,IND 35,33.0,0.0,"Chase McLaughlin kicks off 74 yards, returned by Kene Nwangwu for 36 yards (tackle by Nick Cross)",0.0,0.74,15.0,2022,210
+2,0:03,1.0,10.0,MIN 27,33.0,0.0,Kirk Cousins kneels for -1 yards,0.74,0.06,15.0,2022,210
+3,15:00,,,IND 35,33.0,0.0,"Chase McLaughlin kicks off 70 yards, returned by Kene Nwangwu for 28 yards (tackle by Forrest Rhyne)",0.0,0.48,15.0,2022,210
+3,14:57,1.0,10.0,MIN 23,33.0,0.0,Dalvin Cook left end for -1 yards (tackle by Kwity Paye),0.48,-0.2,15.0,2022,210
+3,14:38,2.0,11.0,MIN 22,33.0,0.0,Kirk Cousins sacked by Yannick Ngakoue for -7 yards,-0.2,-2.15,15.0,2022,210
+3,14:13,3.0,18.0,MIN 15,33.0,0.0,Kirk Cousins pass incomplete short left,-2.15,-2.44,15.0,2022,210
+3,14:05,4.0,18.0,MIN 15,33.0,0.0,"Ryan Wright punts 51 yards, recovered by Dallis Flowers at IND-34 (tackle by Kris Boyd)",-2.44,-1.2,15.0,2022,210
+3,13:57,1.0,10.0,IND 34,33.0,0.0,Deon Jackson left guard for 6 yards (tackle by Camryn Bynum and Eric Kendricks),1.2,1.47,15.0,2022,210
+3,13:17,2.0,4.0,IND 40,33.0,0.0,"Penalty on Za'Darius Smith: Neutral Zone Infraction, 5 yards (accepted) (no play)",1.47,1.93,15.0,2022,210
+3,12:56,1.0,10.0,IND 45,33.0,0.0,Deon Jackson left guard for 2 yards (tackle by Harrison Phillips),1.93,1.65,15.0,2022,210
+3,12:21,2.0,8.0,IND 47,33.0,0.0,Matt Ryan pass incomplete short left intended for Parris Campbell (defended by Patrick Peterson),1.65,0.96,15.0,2022,210
+3,12:17,3.0,8.0,IND 47,33.0,0.0,Matt Ryan pass complete short right to Michael Pittman for 6 yards (tackle by D.J. Wonnum),0.96,0.13,15.0,2022,210
+3,11:32,4.0,2.0,MIN 47,33.0,0.0,"Penalty on IND: Delay of Game, 5 yards (accepted) (no play)",0.13,-0.19,15.0,2022,210
+3,11:22,4.0,7.0,IND 48,33.0,0.0,"Matt Haack punts 40 yards, fair catch by Jalen Reagor at MIN-12",-0.19,0.35,15.0,2022,210
+3,11:16,1.0,10.0,MIN 12,33.0,0.0,Kirk Cousins pass complete short left to Justin Jefferson for 13 yards (tackle by Rodney McLeod),-0.35,0.61,15.0,2022,210
+3,10:41,1.0,10.0,MIN 25,33.0,0.0,Jalen Reagor right end for -5 yards (tackle by Dayo Odeyingbo),0.61,-0.61,15.0,2022,210
+3,10:28,2.0,15.0,MIN 20,33.0,0.0,"Penalty on Dayo Odeyingbo: Taunting / Defense, 15 yards (accepted) (no play)",-0.61,1.27,15.0,2022,210
+3,10:10,1.0,10.0,MIN 35,33.0,0.0,Dalvin Cook up the middle for -2 yards (tackle by DeForest Buckner),1.27,0.45,15.0,2022,210
+3,9:41,2.0,12.0,MIN 33,33.0,0.0,Kirk Cousins pass complete deep middle to K.J. Osborn for 63 yards (tackle by Rodney Thomas),0.45,6.28,15.0,2022,210
+3,9:09,1.0,4.0,IND 4,33.0,0.0,Dalvin Cook right guard for 2 yards (tackle by Kwity Paye),6.28,5.72,15.0,2022,210
+3,8:34,2.0,2.0,IND 2,33.0,0.0,Kirk Cousins pass incomplete short left intended for Justin Jefferson,5.72,4.95,15.0,2022,210
+3,8:26,3.0,2.0,IND 2,33.0,6.0,"Kirk Cousins pass complete short left to K.J. Osborn for 2 yards, touchdown",4.95,7.0,15.0,2022,210
+3,8:22,,,IND 15,33.0,7.0,Greg Joseph kicks extra point good,0.0,0.0,15.0,2022,210
+3,8:22,,,MIN 35,33.0,7.0,"Greg Joseph kicks off 73 yards, returned by Dallis Flowers for 48 yards (tackle by C.J. Ham)",0.0,1.6,15.0,2022,210
+3,8:14,1.0,10.0,IND 40,33.0,7.0,Zack Moss right tackle for 11 yards (tackle by Duke Shelley and Brian Asamoah),1.6,2.32,15.0,2022,210
+3,7:36,1.0,10.0,MIN 49,33.0,7.0,Matt Ryan pass complete short right to Ashton Dulin for 12 yards (tackle by Chandon Sullivan),2.32,3.12,15.0,2022,210
+3,7:00,1.0,10.0,MIN 37,33.0,7.0,Zack Moss up the middle for 1 yard (tackle by Brian Asamoah and Jordan Hicks),3.12,2.71,15.0,2022,210
+3,6:18,2.0,9.0,MIN 36,33.0,7.0,Zack Moss right tackle for 2 yards (tackle by Khyiris Tonga and Dalvin Tomlinson),2.71,2.28,15.0,2022,210
+3,5:39,3.0,7.0,MIN 34,33.0,7.0,Matt Ryan pass complete short right to Michael Pittman for no gain (tackle by Camryn Bynum),2.28,1.06,15.0,2022,210
+3,4:59,4.0,7.0,MIN 34,36.0,7.0,Chase McLaughlin 52 yard field goal good,1.06,3.0,15.0,2022,210
+3,4:53,,,IND 35,36.0,7.0,"Chase McLaughlin kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,210
+3,4:53,1.0,10.0,MIN 25,36.0,7.0,Dalvin Cook up the middle for 19 yards (tackle by Rodney McLeod and Stephon Gilmore),0.61,1.86,15.0,2022,210
+3,4:18,1.0,10.0,MIN 44,36.0,7.0,Kirk Cousins pass complete short left to Dalvin Cook for 12 yards (tackle by Dallis Flowers),1.86,2.65,15.0,2022,210
+3,3:51,1.0,10.0,IND 44,36.0,7.0,Kirk Cousins pass complete short left to Justin Jefferson for 18 yards (tackle by Stephon Gilmore),2.65,3.84,15.0,2022,210
+3,3:19,1.0,10.0,IND 26,36.0,7.0,Kirk Cousins pass incomplete deep middle intended for T.J. Hockenson,3.84,3.3,15.0,2022,210
+3,3:13,2.0,10.0,IND 26,36.0,7.0,Kirk Cousins pass complete short right to K.J. Osborn for 15 yards (tackle by Zaire Franklin and Rodney Thomas),3.3,4.84,15.0,2022,210
+3,2:36,1.0,10.0,IND 11,36.0,7.0,Dalvin Cook right end for 6 yards (tackle by Bobby Okereke),4.84,5.28,15.0,2022,210
+3,2:04,2.0,4.0,IND 5,36.0,7.0,Kirk Cousins pass complete short middle to C.J. Ham for 4 yards (tackle by Bobby Okereke),5.28,6.97,15.0,2022,210
+3,1:19,1.0,1.0,IND 1,36.0,13.0,"C.J. Ham up the middle for 1 yard, touchdown",6.97,7.0,15.0,2022,210
+3,1:13,,,IND 15,36.0,14.0,Greg Joseph kicks extra point good,0.0,0.0,15.0,2022,210
+3,1:13,,,MIN 35,36.0,14.0,"Penalty on Brian O'Neill: Unnecessary Roughness / Offense, 15 yards (accepted) (no play)",0.0,0.0,15.0,2022,210
+3,1:13,,,MIN 20,36.0,14.0,"Greg Joseph kicks off 73 yards, returned by Dallis Flowers for 26 yards (tackle by Kris Boyd and Troy Dye)",0.0,1.14,15.0,2022,210
+3,1:08,1.0,10.0,IND 33,36.0,14.0,Zack Moss up the middle for 3 yards (tackle by Khyiris Tonga),1.14,1.0,15.0,2022,210
+3,0:24,2.0,7.0,IND 36,36.0,14.0,Matt Ryan pass incomplete short middle,1.0,0.3,15.0,2022,210
+3,0:20,3.0,7.0,IND 36,36.0,14.0,Matt Ryan pass incomplete deep left intended for Alec Pierce,0.3,-0.98,15.0,2022,210
+3,0:15,4.0,7.0,IND 36,36.0,14.0,"Matt Haack punts 38 yards, returned by Jalen Reagor for 13 yards (tackle by Grant Stuard)",-0.98,-1.53,15.0,2022,210
+3,0:07,1.0,10.0,MIN 39,36.0,14.0,Kirk Cousins sacked by Ifeadi Odenigbo for -7 yards,1.53,0.04,15.0,2022,210
+4,15:00,2.0,17.0,MIN 32,36.0,14.0,"Kirk Cousins pass complete short left to Justin Jefferson for 20 yards (tackle by Rodney Thomas and Julian Blackmon). Penalty on Rodney Thomas: Unnecessary Roughness / Defense, 15 yards (accepted)",0.04,3.38,15.0,2022,210
+4,14:34,1.0,10.0,IND 33,36.0,14.0,Kirk Cousins pass complete short left to Justin Jefferson for 17 yards (tackle by Bobby Okereke),3.38,4.51,15.0,2022,210
+4,14:01,1.0,10.0,IND 16,36.0,14.0,Kirk Cousins pass complete short left to K.J. Osborn for 7 yards (tackle by Zaire Franklin),4.51,5.16,15.0,2022,210
+4,13:29,2.0,3.0,IND 9,36.0,14.0,Dalvin Cook left end for 1 yard (tackle by Bobby Okereke),5.16,4.62,15.0,2022,210
+4,12:59,3.0,2.0,IND 8,36.0,20.0,"Kirk Cousins pass complete short left to Justin Jefferson for 8 yards, touchdown",4.62,7.0,15.0,2022,210
+4,12:53,,,IND 15,36.0,21.0,Greg Joseph kicks extra point good,0.0,0.0,15.0,2022,210
+4,12:53,,,MIN 35,36.0,21.0,"Greg Joseph kicks off 69 yards, returned by Dallis Flowers for 21 yards (tackle by Troy Dye)",0.0,-0.06,15.0,2022,210
+4,12:49,1.0,10.0,IND 17,36.0,21.0,Michael Pittman right end for 11 yards (tackle by Harrison Smith),-0.06,0.81,15.0,2022,210
+4,12:04,1.0,10.0,IND 28,36.0,21.0,Deon Jackson left end for 5 yards (tackle by D.J. Wonnum and Harrison Phillips),0.81,0.94,15.0,2022,210
+4,11:23,2.0,5.0,IND 33,36.0,21.0,Matt Ryan pass incomplete short left intended for Michael Pittman,0.94,0.23,15.0,2022,210
+4,11:18,3.0,5.0,IND 33,36.0,21.0,Matt Ryan pass complete short right to Michael Pittman for -1 yards (tackle by Eric Kendricks and Esezi Otomewo),0.23,-1.24,15.0,2022,210
+4,10:42,4.0,6.0,IND 32,36.0,21.0,"Matt Haack punts 43 yards, returned by Jalen Reagor for no gain (tackle by Matt Haack). Penalty on Kris Boyd: Personal Foul / Offense, 12 yards (accepted)",-1.24,0.32,15.0,2022,210
+4,10:26,1.0,10.0,MIN 13,36.0,21.0,Kirk Cousins pass incomplete short right intended for K.J. Osborn,-0.32,-0.77,15.0,2022,210
+4,10:21,2.0,10.0,MIN 13,36.0,21.0,Kirk Cousins pass complete short middle to Dalvin Cook for 13 yards (tackle by Julian Blackmon and Bobby Okereke),-0.77,0.67,15.0,2022,210
+4,9:55,1.0,10.0,MIN 26,36.0,21.0,Kirk Cousins pass incomplete short right intended for T.J. Hockenson (defended by Grover Stewart),0.67,0.13,15.0,2022,210
+4,9:49,2.0,10.0,MIN 26,36.0,21.0,Dalvin Cook right end for 1 yard (tackle by Zaire Franklin),0.13,-0.43,15.0,2022,210
+4,9:09,3.0,9.0,MIN 27,36.0,21.0,Kirk Cousins pass complete short middle to K.J. Osborn for 11 yards (tackle by Isaiah Rodgers),-0.43,1.47,15.0,2022,210
+4,8:41,1.0,10.0,MIN 38,36.0,21.0,Dalvin Cook right tackle for 3 yards (tackle by Kwity Paye),1.47,1.33,15.0,2022,210
+4,8:15,2.0,7.0,MIN 41,36.0,21.0,"Kirk Cousins pass complete short left to Justin Jefferson for 3 yards (tackle by Stephon Gilmore). Penalty on Stephon Gilmore: Unnecessary Roughness / Defense, 15 yards (accepted)",1.33,2.85,15.0,2022,210
+4,8:09,1.0,10.0,IND 41,36.0,21.0,Kirk Cousins pass deep left intended for Jalen Reagor is intercepted by Rodney Thomas at IND-2 and returned for no gain,2.85,0.38,15.0,2022,210
+4,8:02,1.0,10.0,IND 2,36.0,21.0,Matt Ryan pass incomplete deep left intended for Michael Pittman,-0.38,-0.78,15.0,2022,210
+4,7:57,2.0,10.0,IND 2,36.0,21.0,Zack Moss left guard for 2 yards (tackle by Harrison Phillips and Khyiris Tonga),-0.78,-1.19,15.0,2022,210
+4,7:16,3.0,8.0,IND 4,36.0,21.0,Matt Ryan pass incomplete short middle intended for Zack Moss,-1.19,-2.49,15.0,2022,210
+4,7:13,4.0,8.0,IND 4,36.0,21.0,"Matt Haack punts 46 yards, fair catch by Jalen Reagor at 50",-2.49,-2.26,15.0,2022,210
+4,7:06,1.0,10.0,MIN 50,36.0,21.0,Kirk Cousins pass complete deep middle to Adam Thielen for 19 yards (tackle by Rodney McLeod),2.26,3.51,15.0,2022,210
+4,6:42,1.0,10.0,IND 31,36.0,21.0,Kirk Cousins pass complete short left to K.J. Osborn for 17 yards (tackle by Zaire Franklin),3.51,4.65,15.0,2022,210
+4,6:14,1.0,10.0,IND 14,36.0,21.0,"Kirk Cousins pass incomplete short middle intended for K.J. Osborn. Penalty on Zaire Franklin: Defensive Pass Interference, 13 yards (accepted) (no play)",4.65,6.97,15.0,2022,210
+4,6:08,1.0,1.0,IND 1,36.0,21.0,Dalvin Cook up the middle for no gain (tackle by Nick Cross and Kwity Paye),6.97,5.91,15.0,2022,210
+4,5:40,2.0,1.0,IND 1,36.0,21.0,Kirk Cousins pass incomplete short middle intended for K.J. Osborn (defended by Isaiah Rodgers),5.91,5.17,15.0,2022,210
+4,5:34,3.0,1.0,IND 1,36.0,27.0,"Kirk Cousins pass complete short middle to Adam Thielen for 1 yard, touchdown",5.17,7.0,15.0,2022,210
+4,5:30,,,IND 15,36.0,28.0,Greg Joseph kicks extra point good,0.0,0.0,15.0,2022,210
+4,5:30,,,MIN 35,36.0,28.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,210
+4,5:30,1.0,10.0,IND 25,36.0,28.0,Zack Moss up the middle for 5 yards (tackle by Za'Darius Smith),0.61,0.74,15.0,2022,210
+4,4:47,2.0,5.0,IND 30,36.0,28.0,Zack Moss right guard for 2 yards (tackle by Dalvin Tomlinson and Harrison Phillips),0.74,0.3,15.0,2022,210
+4,4:12,3.0,3.0,IND 32,36.0,28.0,Matt Ryan pass complete short right to Parris Campbell for 6 yards (tackle by Patrick Peterson),0.3,1.47,15.0,2022,210
+4,3:27,1.0,10.0,IND 38,36.0,28.0,"Deon Jackson right guard for 4 yards (tackle by Za'Darius Smith) MIN challenged the fumble ruling, and the original play was overturned. Deon Jackson right guard for 1 yard. Deon Jackson fumbles (forced by Harrison Phillips) (tackle by Za'Darius Smith), recovered by Chandon Sullivan at IND-39. Penalty on Chandon Sullivan: Unsportsmanlike Conduct / Defense, 15 yards (accepted)",1.47,-1.99,15.0,2022,210
+4,3:25,1.0,10.0,MIN 46,36.0,28.0,Kirk Cousins pass complete short right to Justin Jefferson for 7 yards (tackle by Stephon Gilmore),1.99,2.4,15.0,2022,210
+4,3:21,2.0,3.0,IND 47,36.0,28.0,Kirk Cousins pass incomplete deep right intended for T.J. Hockenson (defended by Rodney McLeod),2.4,1.69,15.0,2022,210
+4,3:17,3.0,3.0,IND 47,36.0,28.0,Kirk Cousins pass complete short right to Justin Jefferson for 7 yards (tackle by Stephon Gilmore),1.69,2.92,15.0,2022,210
+4,3:12,1.0,10.0,IND 40,36.0,28.0,Kirk Cousins pass incomplete deep left intended for T.J. Hockenson,2.92,2.37,15.0,2022,210
+4,3:07,2.0,10.0,IND 40,36.0,28.0,Kirk Cousins pass incomplete short right intended for Adam Thielen,2.37,1.68,15.0,2022,210
+4,3:03,3.0,10.0,IND 40,36.0,28.0,Kirk Cousins pass incomplete short left intended for Justin Jefferson (defended by Stephon Gilmore),1.68,0.59,15.0,2022,210
+4,2:57,4.0,10.0,IND 40,36.0,28.0,"Penalty on Christian Darrisaw: False Start, 5 yards (accepted) (no play)",0.59,0.27,15.0,2022,210
+4,2:57,4.0,15.0,IND 45,36.0,28.0,Kirk Cousins scrambles left tackle for 1 yard (tackle by Dayo Odeyingbo),0.27,-1.86,15.0,2022,210
+4,2:52,1.0,10.0,IND 44,36.0,28.0,Zack Moss left end for 11 yards (tackle by Chandon Sullivan),1.86,2.59,15.0,2022,210
+4,2:45,1.0,10.0,MIN 45,36.0,28.0,Zack Moss left tackle for 1 yard (tackle by Khyiris Tonga),2.59,2.18,15.0,2022,210
+4,2:40,,,,,,Timeout #1 by Minnesota Vikings,,,15.0,2022,210
+4,2:40,2.0,9.0,MIN 44,36.0,28.0,Zack Moss left tackle for 2 yards (tackle by Eric Kendricks),2.18,1.75,15.0,2022,210
+4,2:37,,,,,,Timeout #2 by Minnesota Vikings,,,15.0,2022,210
+4,2:37,3.0,7.0,MIN 42,36.0,28.0,Zack Moss left end for 6 yards (tackle by Harrison Smith and D.J. Wonnum),1.75,0.89,15.0,2022,210
+4,2:31,,,,,,Timeout #3 by Minnesota Vikings,,,15.0,2022,210
+4,2:31,,,,,,Timeout #1 by Indianapolis Colts,,,15.0,2022,210
+4,2:31,4.0,1.0,MIN 36,36.0,28.0,"Matt Ryan up the middle for no gain (tackle by Jordan Hicks and Eric Kendricks) IND challenged the first down ruling, and the play was upheld.",0.89,-1.33,15.0,2022,210
+4,2:28,1.0,10.0,MIN 36,36.0,34.0,"Kirk Cousins pass complete short left to Dalvin Cook for 64 yards, touchdown",1.33,7.0,15.0,2022,210
+4,2:15,,,IND 2,36.0,36.0,Two Point Attempt: Kirk Cousins pass complete to to T.J. Hockenson for no gain,1.0,1.0,15.0,2022,210
+4,2:15,,,MIN 35,36.0,36.0,"Greg Joseph kicks off 71 yards, returned by Dallis Flowers for 31 yards (tackle by Luiji Vilain)",0.0,0.61,15.0,2022,210
+4,2:11,1.0,10.0,IND 25,36.0,36.0,Matt Ryan sacked by Eric Kendricks for -8 yards,0.61,-1.15,15.0,2022,210
+4,2:00,2.0,18.0,IND 17,36.0,36.0,Matt Ryan pass complete short right to Kylen Granson for 13 yards (tackle by Harrison Smith),-1.15,0.04,15.0,2022,210
+4,1:55,3.0,5.0,IND 30,36.0,36.0,Matt Ryan pass complete short middle to Michael Pittman for 4 yards (tackle by Duke Shelley),0.04,-1.11,15.0,2022,210
+4,1:20,4.0,1.0,IND 34,36.0,36.0,"Penalty on Bernhard Raimann: False Start, 5 yards (accepted) (no play)",-1.11,-1.44,15.0,2022,210
+4,1:22,4.0,6.0,IND 29,36.0,36.0,Matt Haack punts 45 yards downed by JoJo Domann,-1.44,-0.67,15.0,2022,210
+4,1:10,1.0,10.0,MIN 26,36.0,36.0,Kirk Cousins pass incomplete deep left intended for T.J. Hockenson,0.67,0.13,15.0,2022,210
+4,1:05,2.0,10.0,MIN 26,36.0,36.0,Kirk Cousins pass complete short middle to T.J. Hockenson for 9 yards (tackle by Bobby Okereke and Zaire Franklin),0.13,0.63,15.0,2022,210
+4,0:42,3.0,1.0,MIN 35,36.0,36.0,Kirk Cousins sacked by Dayo Odeyingbo for no gain,0.63,-1.04,15.0,2022,210
+4,0:22,,,,,,Timeout #3 by Indianapolis Colts,,,15.0,2022,210
+4,0:22,4.0,1.0,MIN 35,36.0,36.0,Ryan Wright punts 63 yards downed by Jalen Nailor,-1.04,0.38,15.0,2022,210
+4,0:13,1.0,10.0,IND 2,36.0,36.0,Matt Ryan kneels for -1 yards,-0.38,0.0,15.0,2022,210
+,,,,,,,"Vikings won the coin toss, Vikings to receive the overtime kickoff.",,,15.0,2022,210
+OT,10:00,,,IND 35,36.0,36.0,"Chase McLaughlin kicks off 69 yards, returned by Kene Nwangwu for 21 yards (tackle by E.J. Speed)",0.0,-0.06,15.0,2022,210
+OT,9:56,1.0,10.0,MIN 17,36.0,36.0,Dalvin Cook right tackle for 1 yard (tackle by Grover Stewart and Bobby Okereke),-0.06,-0.42,15.0,2022,210
+OT,9:20,2.0,9.0,MIN 18,36.0,36.0,"Kirk Cousins pass incomplete deep middle intended for Justin Jefferson. Penalty on DeForest Buckner: Roughing the Passer, 15 yards (accepted) (no play)",-0.42,1.14,15.0,2022,210
+OT,9:15,1.0,10.0,MIN 33,36.0,36.0,Kirk Cousins pass complete short left to Dalvin Cook for 6 yards (tackle by Bobby Okereke),1.14,1.4,15.0,2022,210
+OT,8:38,2.0,4.0,MIN 39,36.0,36.0,Kirk Cousins pass complete short right to K.J. Osborn for 11 yards (tackle by Isaiah Rodgers and Rodney Thomas),1.4,2.26,15.0,2022,210
+OT,8:17,1.0,10.0,MIN 50,36.0,36.0,Kirk Cousins pass complete short right to Johnny Mundt for 7 yards (tackle by Bobby Okereke and Isaiah Rodgers),2.26,2.66,15.0,2022,210
+OT,7:37,2.0,3.0,IND 43,36.0,36.0,Dalvin Cook up the middle for 4 yards (tackle by Grover Stewart and Bobby Okereke),2.66,2.98,15.0,2022,210
+OT,6:58,1.0,10.0,IND 39,36.0,36.0,Kirk Cousins sacked by Kwity Paye for -4 yards,2.98,1.9,15.0,2022,210
+OT,6:15,2.0,14.0,IND 43,36.0,36.0,Kirk Cousins pass incomplete short middle intended for K.J. Osborn (defended by DeForest Buckner),1.9,1.22,15.0,2022,210
+OT,6:09,3.0,14.0,IND 43,36.0,36.0,"Kirk Cousins pass complete short middle to T.J. Hockenson for no gain (tackle by Julian Blackmon). Penalty on Ezra Cleveland: Offensive Holding, 10 yards (accepted) (no play)",1.22,-0.1,15.0,2022,210
+OT,5:43,3.0,24.0,MIN 47,36.0,36.0,Kirk Cousins pass complete short middle to T.J. Hockenson for 14 yards (tackle by Zaire Franklin),-0.1,0.66,15.0,2022,210
+OT,4:58,4.0,10.0,IND 39,36.0,36.0,"Ryan Wright punts 26 yards, fair catch by Dallis Flowers at IND-13",0.66,0.32,15.0,2022,210
+OT,4:50,1.0,10.0,IND 13,36.0,36.0,Zack Moss left tackle for 5 yards (tackle by Eric Kendricks and Jordan Hicks),-0.32,-0.14,15.0,2022,210
+OT,4:17,2.0,5.0,IND 18,36.0,36.0,Matt Ryan pass complete short middle to Michael Pittman for 15 yards (tackle by Patrick Peterson),-0.14,1.14,15.0,2022,210
+OT,3:53,1.0,10.0,IND 33,36.0,36.0,"Matt Ryan sacked by and Za'Darius Smith for no gain and Danielle Hunter for no gain. Matt Ryan fumbles (forced by Za'Darius Smith), recovered by Alec Pierce at IND-34 Replay Assistant challenged the fumble ruling, and the play was upheld.",1.14,0.73,15.0,2022,210
+OT,2:57,2.0,9.0,IND 34,36.0,36.0,Matt Ryan pass incomplete short left intended for Michael Pittman (defended by Duke Shelley),0.73,0.04,15.0,2022,210
+OT,2:54,3.0,9.0,IND 34,36.0,36.0,Matt Ryan pass complete short right to Michael Pittman for 9 yards (tackle by Duke Shelley),0.04,1.8,15.0,2022,210
+OT,2:23,1.0,10.0,IND 43,36.0,36.0,Zack Moss left tackle for 1 yard (tackle by Harrison Phillips),1.8,1.39,15.0,2022,210
+OT,2:00,2.0,9.0,IND 44,36.0,36.0,Matt Ryan pass complete short left to Michael Pittman for no gain (tackle by Kris Boyd and Harrison Phillips),1.39,0.69,15.0,2022,210
+OT,1:53,,,,,,Timeout #1 by Minnesota Vikings,,,15.0,2022,210
+OT,1:53,3.0,9.0,IND 44,36.0,36.0,Matt Ryan pass incomplete short left intended for Alec Pierce,0.69,-0.46,15.0,2022,210
+OT,1:49,4.0,9.0,IND 44,36.0,36.0,Matt Haack punts 38 yards downed by Ashton Dulin,-0.46,-0.04,15.0,2022,210
+OT,1:41,1.0,10.0,MIN 18,36.0,36.0,Dalvin Cook up the middle for 6 yards (tackle by Kwity Paye),0.04,0.41,15.0,2022,210
+OT,1:12,2.0,4.0,MIN 24,36.0,36.0,Kirk Cousins pass complete short left to K.J. Osborn for 15 yards (tackle by Julian Blackmon),0.41,1.53,15.0,2022,210
+OT,0:48,1.0,10.0,MIN 39,36.0,36.0,Kirk Cousins pass complete deep right to Adam Thielen for 21 yards (tackle by Isaiah Rodgers),1.53,2.92,15.0,2022,210
+OT,0:24,1.0,10.0,IND 40,36.0,36.0,Kirk Cousins pass incomplete short right intended for T.J. Hockenson,2.92,2.37,15.0,2022,210
+OT,0:20,2.0,10.0,IND 40,36.0,36.0,Kirk Cousins pass complete short right to Justin Jefferson for 13 yards (tackle by Ifeadi Odenigbo),2.37,3.78,15.0,2022,210
+OT,0:05,1.0,10.0,IND 27,36.0,36.0,"Penalty on Ifeadi Odenigbo: Defensive Delay of Game, 5 yards (accepted) (no play)",3.78,4.11,15.0,2022,210
+OT,0:07,1.0,10.0,IND 22,36.0,39.0,Greg Joseph 40 yard field goal good,4.11,3.0,15.0,2022,210

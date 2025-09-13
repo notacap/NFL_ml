@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,GNB 46,3,1:30,-4,Punt,1,Packers,13.0,2024,182
+2,1,13:30,MIA 9,3,1:30,9,Touchdown,1,Packers,13.0,2024,182
+3,1,7:53,GNB 24,12,6:58,76,Touchdown,1,Packers,13.0,2024,182
+4,2,8:44,GNB 30,4,2:11,26,Punt,1,Packers,13.0,2024,182
+5,2,3:03,GNB 38,6,1:27,62,Touchdown,1,Packers,13.0,2024,182
+6,2,0:22,GNB 39,4,0:22,34,Field Goal,1,Packers,13.0,2024,182
+7,3,12:52,GNB 22,8,5:10,72,Field Goal,1,Packers,13.0,2024,182
+8,3,2:43,GNB 30,4,2:09,17,Punt,1,Packers,13.0,2024,182
+9,4,9:33,GNB 7,9,4:31,78,Field Goal,1,Packers,13.0,2024,182
+10,4,3:04,MIA 49,3,1:08,-1,Punt,1,Packers,13.0,2024,182

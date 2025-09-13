@@ -1,0 +1,176 @@
+Quarter,Time,Down,ToGo,Location,DEN,JAX,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Jaguars won the coin toss and deferred, Broncos to receive the opening kickoff.",,,8.0,2022,110
+1.0,15:00,,,JAX 35,0.0,0.0,"Riley Patterson kicks off 58 yards, returned by Eric Saubert for 15 yards (tackle by Rayshawn Jenkins and Chad Muma)",0.0,0.41,8.0,2022,110
+1.0,14:54,1.0,10.0,DEN 22,0.0,0.0,Russell Wilson pass incomplete short right intended for Courtland Sutton (defended by Darious Williams),0.41,-0.13,8.0,2022,110
+1.0,14:50,2.0,10.0,DEN 22,0.0,0.0,Melvin Gordon left end for 4 yards (tackle by Josh Allen),-0.13,-0.29,8.0,2022,110
+1.0,14:08,3.0,6.0,DEN 26,0.0,0.0,Russell Wilson sacked by Arden Key for -7 yards,-0.29,-2.14,8.0,2022,110
+1.0,13:28,4.0,13.0,DEN 19,0.0,0.0,"Corliss Waitman punts 54 yards, fair catch by Christian Kirk at JAC-27",-2.14,-0.74,8.0,2022,110
+1.0,13:28,1.0,10.0,JAX 27,0.0,0.0,Trevor Lawrence pass complete short right to Travis Etienne for 6 yards (tackle by Justin Simmons),0.74,1.07,8.0,2022,110
+1.0,12:53,2.0,3.0,JAX 33,0.0,0.0,"Penalty on Dre'Mont Jones: Neutral Zone Infraction, 5 yards (accepted) (no play)",1.07,1.47,8.0,2022,110
+1.0,12:40,1.0,10.0,JAX 38,0.0,0.0,Trevor Lawrence scrambles right guard for 3 yards (tackle by Jonathon Cooper),1.47,1.33,8.0,2022,110
+1.0,11:58,2.0,7.0,JAX 41,0.0,0.0,Travis Etienne up the middle for no gain (tackle by D.J. Jones and Justin Simmons),1.33,0.63,8.0,2022,110
+1.0,11:25,3.0,7.0,JAX 41,0.0,0.0,Trevor Lawrence pass incomplete deep right intended for Evan Engram,0.63,-0.65,8.0,2022,110
+1.0,11:19,4.0,7.0,JAX 41,0.0,0.0,"Logan Cooke punts 48 yards, returned by Montrell Washington for 6 yards (tackle by Andrew Wingard and Daniel Thomas)",-0.65,0.06,8.0,2022,110
+1.0,11:08,1.0,10.0,DEN 17,0.0,0.0,Melvin Gordon right guard for 2 yards (tackle by Rayshawn Jenkins),-0.06,-0.25,8.0,2022,110
+1.0,10:43,2.0,8.0,DEN 19,0.0,0.0,Russell Wilson pass deep left intended for Courtland Sutton is intercepted by Tyson Campbell at DEN-37 and returned for no gain (tackle by Courtland Sutton),-0.25,-3.12,8.0,2022,110
+1.0,10:36,1.0,10.0,DEN 37,0.0,0.0,Trevor Lawrence pass complete short right to Travis Etienne for 6 yards (tackle by Josey Jewell),3.12,3.38,8.0,2022,110
+1.0,10:04,2.0,4.0,DEN 31,0.0,0.0,"Travis Etienne left tackle for no gain (tackle by Alex Singleton). Penalty on Cam Robinson: Offensive Holding, 10 yards (accepted) (no play)",3.38,2.03,8.0,2022,110
+1.0,9:48,2.0,14.0,DEN 41,0.0,0.0,Travis Etienne right end for 15 yards (tackle by Dre'Mont Jones),2.03,3.84,8.0,2022,110
+1.0,9:08,1.0,10.0,DEN 26,0.0,0.0,Jamycal Hasty up the middle for 1 yard (tackle by Mike Purcell and Alex Singleton),3.84,3.43,8.0,2022,110
+1.0,8:27,2.0,9.0,DEN 25,0.0,0.0,Trevor Lawrence pass complete short right to Jamycal Hasty for 3 yards (tackle by Justin Simmons and Jonas Griffith),3.43,3.14,8.0,2022,110
+1.0,7:46,3.0,6.0,DEN 22,0.0,6.0,"Trevor Lawrence pass complete deep left to Evan Engram for 22 yards, touchdown",3.14,7.0,8.0,2022,110
+1.0,7:40,,,DEN 15,0.0,7.0,Riley Patterson kicks extra point good,0.0,0.0,8.0,2022,110
+1.0,7:40,,,JAX 35,0.0,7.0,"Riley Patterson kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,110
+1.0,7:40,1.0,10.0,DEN 25,0.0,7.0,Latavius Murray right tackle for 1 yard (tackle by Arden Key and Devin Lloyd),0.61,0.2,8.0,2022,110
+1.0,7:12,2.0,9.0,DEN 26,0.0,7.0,"Latavius Murray right guard for 2 yards (tackle by DaVon Hamilton). Penalty on Eric Tomlinson: Offensive Holding, 10 yards (accepted)",0.2,-0.98,8.0,2022,110
+1.0,6:50,2.0,17.0,DEN 18,0.0,7.0,Russell Wilson pass complete short left to Jerry Jeudy for 6 yards (tackle by DaVon Hamilton),-0.98,-0.76,8.0,2022,110
+1.0,6:10,3.0,11.0,DEN 24,0.0,7.0,"Penalty on Lloyd Cushenberry: False Start, 5 yards (accepted) (no play)",-0.76,-1.51,8.0,2022,110
+1.0,5:49,3.0,16.0,DEN 19,0.0,7.0,Russell Wilson pass complete short middle to Latavius Murray for 13 yards (tackle by Foyesade Oluokun and Darious Williams),-1.51,-1.24,8.0,2022,110
+1.0,5:12,4.0,3.0,DEN 32,0.0,7.0,"Corliss Waitman punts 49 yards, fair catch by Christian Kirk at JAC-19",-1.24,-0.15,8.0,2022,110
+1.0,5:04,1.0,10.0,JAX 19,0.0,7.0,Travis Etienne right end for 2 yards (tackle by Alex Singleton),0.15,-0.06,8.0,2022,110
+1.0,4:29,2.0,8.0,JAX 21,0.0,7.0,Trevor Lawrence pass complete short right to Zay Jones for 7 yards (tackle by Damarri Mathis),-0.06,0.1,8.0,2022,110
+1.0,3:56,3.0,1.0,JAX 28,0.0,7.0,Travis Etienne left end for 5 yards (tackle by Kareem Jackson),0.1,1.14,8.0,2022,110
+1.0,3:22,1.0,10.0,JAX 33,0.0,7.0,Trevor Lawrence pass complete short right to Dan Arnold for 8 yards (tackle by Josey Jewell and Patrick Surtain),1.14,1.67,8.0,2022,110
+1.0,2:42,2.0,2.0,JAX 41,0.0,7.0,Travis Etienne up the middle for 2 yards (tackle by Jonathan Kongbo),1.67,1.8,8.0,2022,110
+1.0,1:47,1.0,10.0,JAX 43,0.0,7.0,"Travis Etienne left end for no gain (tackle by K'Waun Williams). Penalty on K'Waun Williams: Low Block, 15 yards (accepted) (no play)",1.8,2.79,8.0,2022,110
+1.0,1:22,1.0,10.0,DEN 42,0.0,7.0,Jamycal Hasty left guard for 1 yard (tackle by Nik Bonitto),2.79,2.38,8.0,2022,110
+1.0,0:41,2.0,9.0,DEN 41,0.0,7.0,"Trevor Lawrence pass complete short right to Jamycal Hasty for -2 yards (tackle by Justin Simmons and Josey Jewell). Penalty on Justin Simmons: Taunting / Defense, 15 yards (accepted)",2.38,3.71,8.0,2022,110
+1.0,0:03,1.0,10.0,DEN 28,0.0,7.0,Trevor Lawrence pass complete short right to Evan Engram for 9 yards (tackle by Damarri Mathis),3.71,4.42,8.0,2022,110
+2.0,15:00,2.0,1.0,DEN 19,0.0,7.0,Travis Etienne up the middle for 2 yards (tackle by Alex Singleton and Jonathon Cooper),4.42,4.44,8.0,2022,110
+2.0,14:24,1.0,10.0,DEN 17,0.0,7.0,Travis Etienne right guard for 12 yards (tackle by Damarri Mathis and Jonathon Cooper),4.44,6.06,8.0,2022,110
+2.0,13:41,1.0,5.0,DEN 5,0.0,7.0,Trevor Lawrence pass incomplete short middle,6.06,5.15,8.0,2022,110
+2.0,13:31,2.0,5.0,DEN 5,0.0,7.0,"Trevor Lawrence pass incomplete intended for Evan Engram. Penalty on Kareem Jackson: Defensive Holding, 2 yards (accepted) (no play)",5.15,6.51,8.0,2022,110
+2.0,13:30,1.0,3.0,DEN 3,0.0,7.0,Travis Etienne left guard for -2 yards (tackle by Dre'Mont Jones),6.51,5.15,8.0,2022,110
+2.0,12:50,2.0,5.0,DEN 5,0.0,7.0,"Trevor Lawrence pass incomplete short left intended for Marvin Jones. Penalty on Patrick Surtain: Defensive Pass Interference, 4 yards (accepted) (no play)",5.15,6.97,8.0,2022,110
+2.0,12:48,1.0,1.0,DEN 1,0.0,7.0,Trevor Lawrence pass short right intended for Marvin Jones is intercepted by Justin Simmons in end zone and returned for no gain,6.97,-0.28,8.0,2022,110
+2.0,12:42,1.0,10.0,DEN 20,0.0,7.0,Russell Wilson pass incomplete short right intended for Latavius Murray (defended by Folorunso Fatukasi),0.28,-0.27,8.0,2022,110
+2.0,12:36,2.0,10.0,DEN 20,0.0,7.0,Latavius Murray up the middle for 9 yards (tackle by Tre Herndon),-0.27,0.23,8.0,2022,110
+2.0,12:02,3.0,1.0,DEN 29,0.0,7.0,Latavius Murray up the middle for no gain (tackle by Foyesade Oluokun and Darious Williams),0.23,-1.44,8.0,2022,110
+2.0,11:13,4.0,1.0,DEN 29,0.0,7.0,"Penalty on DEN: Delay of Game, 4 yards (accepted) (no play)",-1.44,-1.7,8.0,2022,110
+2.0,11:01,4.0,5.0,DEN 25,0.0,7.0,"Corliss Waitman punts 48 yards, returned by Christian Kirk for no gain (tackle by Darius Phillips)",-1.7,-0.74,8.0,2022,110
+2.0,10:52,1.0,10.0,JAX 27,0.0,7.0,Trevor Lawrence pass incomplete short right intended for Christian Kirk (defended by K'Waun Williams),0.74,0.2,8.0,2022,110
+2.0,10:48,2.0,10.0,JAX 27,0.0,7.0,Travis Etienne left end for 49 yards (tackle by Justin Simmons),0.2,3.97,8.0,2022,110
+2.0,10:12,1.0,10.0,DEN 24,0.0,7.0,Jamycal Hasty left end for -1 yards (tackle by Dre'Mont Jones),3.97,3.3,8.0,2022,110
+2.0,9:30,2.0,11.0,DEN 25,0.0,7.0,Trevor Lawrence pass incomplete short right,3.3,2.61,8.0,2022,110
+2.0,9:22,3.0,11.0,DEN 25,0.0,7.0,Trevor Lawrence pass complete short right to Evan Engram for 6 yards (tackle by Kareem Jackson),2.61,2.24,8.0,2022,110
+2.0,8:46,4.0,5.0,DEN 19,0.0,10.0,Riley Patterson 37 yard field goal good,2.24,3.0,8.0,2022,110
+2.0,8:43,,,JAX 35,0.0,10.0,"Riley Patterson kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,110
+2.0,8:43,1.0,10.0,DEN 25,0.0,10.0,Russell Wilson pass complete short right to Courtland Sutton for 13 yards (tackle by Tyson Campbell),0.61,1.47,8.0,2022,110
+2.0,8:11,1.0,10.0,DEN 38,0.0,10.0,Russell Wilson pass complete short middle to Jerry Jeudy for 8 yards (tackle by Rayshawn Jenkins),1.47,2.0,8.0,2022,110
+2.0,7:45,2.0,2.0,DEN 46,0.0,10.0,Melvin Gordon right end for 9 yards (tackle by Andre Cisco and Foyesade Oluokun),2.0,2.59,8.0,2022,110
+2.0,7:18,1.0,10.0,JAX 45,0.0,10.0,Melvin Gordon up the middle for 3 yards (tackle by Devin Lloyd and Travon Walker),2.59,2.45,8.0,2022,110
+2.0,6:41,2.0,7.0,JAX 42,0.0,10.0,Melvin Gordon up the middle for 6 yards (tackle by Travon Walker),2.45,2.54,8.0,2022,110
+2.0,6:00,3.0,1.0,JAX 36,0.0,10.0,Latavius Murray up the middle for no gain (tackle by Roy Robertson-Harris),2.54,0.89,8.0,2022,110
+2.0,5:22,4.0,1.0,JAX 36,0.0,10.0,Russell Wilson up the middle for 2 yards (tackle by Devin Lloyd and Roy Robertson-Harris),0.89,3.31,8.0,2022,110
+2.0,4:48,1.0,10.0,JAX 34,0.0,10.0,Russell Wilson pass complete short right to Montrell Washington for 1 yard (tackle by Darious Williams and Dawuane Smoot),3.31,2.91,8.0,2022,110
+2.0,4:03,2.0,9.0,JAX 33,0.0,10.0,Russell Wilson pass complete short right to Melvin Gordon for 2 yards (tackle by Tyson Campbell),2.91,2.48,8.0,2022,110
+2.0,3:24,3.0,7.0,JAX 31,0.0,10.0,Russell Wilson pass complete deep left to Jerry Jeudy for 25 yards (tackle by Rayshawn Jenkins),2.48,5.83,8.0,2022,110
+2.0,2:50,1.0,6.0,JAX 6,6.0,10.0,"Russell Wilson pass complete short middle to Jerry Jeudy for 6 yards, touchdown",5.83,7.0,8.0,2022,110
+2.0,2:44,,,JAX 15,7.0,10.0,Brandon McManus kicks extra point good,0.0,0.0,8.0,2022,110
+2.0,2:44,,,DEN 35,7.0,10.0,"Penalty on DEN: Delay of Kickoff, 5 yards (accepted) (no play)",0.0,0.0,8.0,2022,110
+2.0,2:44,,,DEN 30,7.0,10.0,"Brandon McManus kicks off 66 yards, returned by Jamycal Hasty for 29 yards (tackle by Delarrin Turner-Yell)",0.0,1.14,8.0,2022,110
+2.0,2:39,1.0,10.0,JAX 33,7.0,10.0,Trevor Lawrence pass incomplete short left intended for Christian Kirk,1.14,0.59,8.0,2022,110
+2.0,2:36,2.0,10.0,JAX 33,7.0,10.0,"Trevor Lawrence pass complete short left to Travis Etienne for no gain (tackle by Kareem Jackson). Penalty on Bradley Chubb: Defensive Offside, 5 yards (accepted) (no play)",0.59,1.27,8.0,2022,110
+2.0,2:08,2.0,5.0,JAX 38,7.0,10.0,Trevor Lawrence pass complete short middle to Christian Kirk for 11 yards (tackle by Josey Jewell),1.27,2.19,8.0,2022,110
+2.0,2:00,1.0,10.0,JAX 49,7.0,10.0,Travis Etienne right guard for 8 yards (tackle by Josey Jewell),2.19,2.73,8.0,2022,110
+2.0,1:30,2.0,2.0,DEN 43,7.0,10.0,Trevor Lawrence pass complete short left to Christian Kirk for 4 yards (tackle by Kareem Jackson),2.73,2.98,8.0,2022,110
+2.0,1:27,1.0,10.0,DEN 39,7.0,10.0,Trevor Lawrence pass incomplete short middle intended for Evan Engram,2.98,2.44,8.0,2022,110
+2.0,1:24,2.0,10.0,DEN 39,7.0,10.0,Travis Etienne up the middle for 1 yard (tackle by Dre'Mont Jones and Jonathon Cooper),2.44,1.88,8.0,2022,110
+2.0,1:20,,,,,,Timeout #1 by Denver Broncos,,,8.0,2022,110
+2.0,1:20,3.0,9.0,DEN 38,7.0,10.0,"Trevor Lawrence pass incomplete deep left. Penalty on Trevor Lawrence: Intentional Grounding, 14 yards (accepted)",1.88,-0.19,8.0,2022,110
+2.0,1:13,4.0,23.0,JAX 48,7.0,10.0,"Logan Cooke punts 46 yards, returned by Montrell Washington for 3 yards (tackle by Jamycal Hasty and Shaquille Quarterman)",-0.19,0.38,8.0,2022,110
+2.0,1:01,1.0,10.0,DEN 9,7.0,10.0,Russell Wilson pass complete short left to Melvin Gordon for 12 yards (tackle by Tyson Campbell),-0.38,0.34,8.0,2022,110
+2.0,0:53,1.0,10.0,DEN 21,7.0,10.0,Russell Wilson pass incomplete deep left,0.34,-0.2,8.0,2022,110
+2.0,0:46,2.0,10.0,DEN 21,7.0,10.0,Russell Wilson pass complete short left to Jerry Jeudy for 13 yards,-0.2,1.2,8.0,2022,110
+2.0,0:41,1.0,10.0,DEN 34,7.0,10.0,Russell Wilson pass complete short right to Greg Dulcich for 9 yards (tackle by Rayshawn Jenkins),1.2,1.87,8.0,2022,110
+2.0,0:32,,,,,,Timeout #2 by Denver Broncos,,,8.0,2022,110
+2.0,0:32,2.0,1.0,DEN 43,7.0,10.0,Russell Wilson pass complete short right to Melvin Gordon for 9 yards (tackle by Foyesade Oluokun and Rayshawn Jenkins),1.87,2.39,8.0,2022,110
+2.0,0:16,1.0,10.0,JAX 48,7.0,10.0,Russell Wilson spiked the ball,2.39,1.85,8.0,2022,110
+2.0,0:15,,,,,,Timeout #2 by Jacksonville Jaguars,,,8.0,2022,110
+2.0,0:15,2.0,10.0,JAX 48,7.0,10.0,Russell Wilson sacked by Dawuane Smoot for -7 yards,1.85,0.23,8.0,2022,110
+2.0,0:10,,,,,,Timeout #3 by Denver Broncos,,,8.0,2022,110
+2.0,0:10,3.0,17.0,DEN 45,7.0,10.0,Russell Wilson pass incomplete deep right intended for KJ Hamler (defended by Andre Cisco),0.23,-0.39,8.0,2022,110
+2.0,0:03,4.0,17.0,DEN 45,7.0,10.0,Russell Wilson pass incomplete deep right,-0.39,1.93,8.0,2022,110
+3.0,15:00,,,DEN 35,7.0,10.0,"Brandon McManus kicks off 66 yards, returned by Chris Claybrooks for 22 yards (tackle by Justin Strnad and Jonas Griffith)",0.0,0.54,8.0,2022,110
+3.0,14:54,1.0,10.0,JAX 24,7.0,10.0,Travis Etienne right end for 1 yard (tackle by D.J. Jones),0.54,0.13,8.0,2022,110
+3.0,14:20,2.0,9.0,JAX 25,7.0,10.0,Trevor Lawrence pass complete short right to Evan Engram for 18 yards (tackle by Kareem Jackson),0.13,1.8,8.0,2022,110
+3.0,13:43,1.0,10.0,JAX 43,7.0,10.0,Travis Etienne left tackle for 5 yards (tackle by Bradley Chubb and Patrick Surtain),1.8,1.93,8.0,2022,110
+3.0,13:02,2.0,5.0,JAX 48,7.0,10.0,Trevor Lawrence pass complete short left to Zay Jones for 4 yards (tackle by Damarri Mathis),1.93,1.75,8.0,2022,110
+3.0,12:26,3.0,1.0,DEN 48,7.0,10.0,Travis Etienne up the middle for 7 yards (tackle by Kareem Jackson),1.75,2.85,8.0,2022,110
+3.0,11:44,1.0,10.0,DEN 41,7.0,10.0,Trevor Lawrence pass complete short right to Jamycal Hasty for -4 yards (tackle by Patrick Surtain),2.85,1.77,8.0,2022,110
+3.0,11:05,2.0,14.0,DEN 45,7.0,10.0,"Trevor Lawrence sacked by Nik Bonitto for -13 yards. Trevor Lawrence fumbles (forced by Nik Bonitto), recovered by Tyler Shatley at JAC-41 (tackle by Nik Bonitto)",1.77,-0.76,8.0,2022,110
+3.0,10:06,3.0,28.0,JAX 41,7.0,10.0,Jamycal Hasty right guard for 12 yards (tackle by Bradley Chubb),-0.76,0.13,8.0,2022,110
+3.0,9:41,4.0,16.0,DEN 47,7.0,10.0,Logan Cooke punts 45 yards downed by Daniel Thomas,0.13,0.38,8.0,2022,110
+3.0,9:29,1.0,10.0,DEN 2,7.0,10.0,Russell Wilson pass complete short right to Greg Dulcich for 18 yards (tackle by Andre Cisco),-0.38,0.28,8.0,2022,110
+3.0,8:58,1.0,10.0,DEN 20,7.0,10.0,Latavius Murray right tackle for 4 yards (tackle by Josh Allen),0.28,0.27,8.0,2022,110
+3.0,8:28,2.0,6.0,DEN 24,7.0,10.0,Russell Wilson pass complete short middle to Greg Dulcich for 22 yards (tackle by Rayshawn Jenkins),0.27,1.99,8.0,2022,110
+3.0,7:57,1.0,10.0,DEN 46,7.0,10.0,Latavius Murray up the middle for 5 yards (tackle by DaVon Hamilton and Travon Walker),1.99,2.13,8.0,2022,110
+3.0,7:21,2.0,5.0,JAX 49,7.0,10.0,Russell Wilson pass complete short left to Jerry Jeudy for 5 yards (tackle by Tyson Campbell and Devin Lloyd),2.13,2.65,8.0,2022,110
+3.0,6:36,1.0,10.0,JAX 44,7.0,10.0,Russell Wilson pass complete short middle to KJ Hamler for 5 yards (tackle by Tre Herndon),2.65,2.78,8.0,2022,110
+3.0,6:22,2.0,5.0,JAX 39,7.0,10.0,Russell Wilson pass complete deep right to Greg Dulcich for 38 yards (tackle by Tre Herndon and Rayshawn Jenkins),2.78,6.97,8.0,2022,110
+3.0,5:44,1.0,1.0,JAX 1,7.0,10.0,Melvin Gordon up the middle for no gain (tackle by Travon Walker and Folorunso Fatukasi),6.97,5.91,8.0,2022,110
+3.0,5:10,2.0,1.0,JAX 1,13.0,10.0,"Melvin Gordon left tackle for 1 yard, touchdown",5.91,7.0,8.0,2022,110
+3.0,5:07,,,JAX 15,14.0,10.0,Brandon McManus kicks extra point good,0.0,0.0,8.0,2022,110
+3.0,5:07,,,DEN 35,14.0,10.0,"Penalty on Roy Robertson-Harris: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",0.0,-2.26,8.0,2022,110
+3.0,5:07,1.0,10.0,DEN 50,14.0,10.0,"Brandon McManus kicks off 50 yards, touchback.",2.26,0.61,8.0,2022,110
+3.0,5:07,1.0,10.0,JAX 25,14.0,10.0,"Trevor Lawrence pass complete short middle to Travis Etienne for 4 yards (tackle by Alex Singleton and Josey Jewell). Penalty on Damarri Mathis: Illegal Contact, 5 yards (accepted) (no play)",0.61,0.94,8.0,2022,110
+3.0,4:52,1.0,10.0,JAX 30,14.0,10.0,Travis Etienne left guard for 9 yards (tackle by K'Waun Williams and Kareem Jackson),0.94,1.61,8.0,2022,110
+3.0,4:13,2.0,1.0,JAX 39,14.0,10.0,Travis Etienne left tackle for 3 yards (tackle by Matt Henningsen),1.61,1.73,8.0,2022,110
+3.0,3:41,1.0,10.0,JAX 42,14.0,10.0,Travis Etienne up the middle for 3 yards (tackle by Alex Singleton),1.73,1.59,8.0,2022,110
+3.0,3:04,2.0,7.0,JAX 45,14.0,10.0,Trevor Lawrence pass complete short right to Chris Manhertz for -1 yards (tackle by Josey Jewell),1.59,0.76,8.0,2022,110
+3.0,2:20,3.0,8.0,JAX 44,14.0,10.0,Trevor Lawrence pass incomplete short right intended for Marvin Jones,0.76,-0.46,8.0,2022,110
+3.0,2:17,4.0,8.0,JAX 44,14.0,10.0,"Logan Cooke punts 43 yards, returned by Montrell Washington for 12 yards (tackle by Shaquille Quarterman)",-0.46,-0.61,8.0,2022,110
+3.0,2:06,1.0,10.0,DEN 25,14.0,10.0,Russell Wilson pass incomplete deep left intended for Jerry Jeudy,0.61,0.06,8.0,2022,110
+3.0,2:01,2.0,10.0,DEN 25,14.0,10.0,Latavius Murray up the middle for 2 yards (tackle by DaVon Hamilton),0.06,-0.36,8.0,2022,110
+3.0,1:15,3.0,8.0,DEN 27,14.0,10.0,Russell Wilson sacked by and Dawuane Smoot for -8 yards and Travon Walker for -8 yards,-0.36,-2.14,8.0,2022,110
+3.0,0:38,4.0,16.0,DEN 19,14.0,10.0,"Corliss Waitman punts 51 yards, returned by Christian Kirk for 9 yards (tackle by Justin Strnad)",-2.14,-1.53,8.0,2022,110
+3.0,0:30,1.0,10.0,JAX 39,14.0,10.0,"Penalty on Brandon Scherff: False Start, 5 yards (accepted) (no play)",1.53,1.2,8.0,2022,110
+3.0,0:30,1.0,15.0,JAX 34,14.0,10.0,Trevor Lawrence pass incomplete short right intended for Christian Kirk,1.2,0.31,8.0,2022,110
+3.0,0:23,2.0,15.0,JAX 34,14.0,10.0,Trevor Lawrence pass complete short left to Travis Etienne for -6 yards (tackle by Josey Jewell),0.31,-1.15,8.0,2022,110
+4.0,15:00,3.0,21.0,JAX 28,14.0,10.0,Trevor Lawrence scrambles left end for 9 yards (tackle by Jonas Griffith),-1.15,-0.91,8.0,2022,110
+4.0,14:27,4.0,12.0,JAX 37,14.0,10.0,"Logan Cooke punts 63 yards, touchback.",-0.91,-0.28,8.0,2022,110
+4.0,14:20,1.0,10.0,DEN 20,14.0,10.0,Melvin Gordon up the middle for 4 yards (tackle by Roy Robertson-Harris and Folorunso Fatukasi),0.28,0.27,8.0,2022,110
+4.0,13:49,2.0,6.0,DEN 24,14.0,10.0,Russell Wilson scrambles left end for 4 yards (tackle by Foyesade Oluokun),0.27,0.1,8.0,2022,110
+4.0,13:25,3.0,2.0,DEN 28,14.0,10.0,"Penalty on Dalton Risner: False Start, 5 yards (accepted) (no play)",0.1,-0.56,8.0,2022,110
+4.0,13:08,3.0,7.0,DEN 23,14.0,10.0,Russell Wilson pass incomplete short right intended for Melvin Gordon (defended by Arden Key),-0.56,-1.83,8.0,2022,110
+4.0,13:04,4.0,7.0,DEN 23,14.0,10.0,"Corliss Waitman punts 54 yards, returned by Christian Kirk for 6 yards (tackle by Mitchell Fraboni)",-1.83,-0.87,8.0,2022,110
+4.0,12:51,1.0,10.0,JAX 29,14.0,10.0,Travis Etienne right tackle for 8 yards (tackle by Patrick Surtain),0.87,1.41,8.0,2022,110
+4.0,12:11,2.0,2.0,JAX 37,14.0,10.0,"Travis Etienne left guard for no gain (tackle by Justin Simmons). Penalty on Luke Fortner: Offensive Holding, 10 yards (accepted) (no play)",1.41,0.06,8.0,2022,110
+4.0,11:45,2.0,12.0,JAX 27,14.0,10.0,Trevor Lawrence pass complete short middle to Zay Jones for 17 yards (tackle by Josey Jewell),0.06,1.86,8.0,2022,110
+4.0,11:08,1.0,10.0,JAX 44,14.0,10.0,Trevor Lawrence pass incomplete short left intended for Jamycal Hasty,1.86,1.32,8.0,2022,110
+4.0,11:03,2.0,10.0,JAX 44,14.0,10.0,Travis Etienne left tackle for 9 yards (tackle by Kareem Jackson and Jonas Griffith),1.32,1.82,8.0,2022,110
+4.0,10:18,3.0,1.0,DEN 47,14.0,10.0,Trevor Lawrence up the middle for 3 yards (tackle by Dre'Mont Jones),1.82,2.65,8.0,2022,110
+4.0,9:33,1.0,10.0,DEN 44,14.0,10.0,Travis Etienne left tackle for 2 yards (tackle by Matt Henningsen and D.J. Jones),2.65,2.38,8.0,2022,110
+4.0,8:56,2.0,8.0,DEN 42,14.0,10.0,Trevor Lawrence pass incomplete deep middle intended for Marvin Jones,2.38,1.69,8.0,2022,110
+4.0,8:51,3.0,8.0,DEN 42,14.0,10.0,"Trevor Lawrence sacked by Dre'Mont Jones for -6 yards. Penalty on Cam Robinson: Offensive Holding, 10 yards (declined)",1.69,0.07,8.0,2022,110
+4.0,8:23,4.0,15.0,DEN 48,14.0,10.0,"Logan Cooke punts 42 yards, returned by Montrell Washington for 1 yard (tackle by Chris Claybrooks)",0.07,0.38,8.0,2022,110
+4.0,8:18,1.0,10.0,DEN 7,14.0,10.0,Russell Wilson pass incomplete short left,-0.38,-0.78,8.0,2022,110
+4.0,8:12,2.0,10.0,DEN 7,14.0,10.0,Melvin Gordon right guard for no gain (tackle by Foyesade Oluokun and Folorunso Fatukasi),-0.78,-1.42,8.0,2022,110
+4.0,7:28,3.0,10.0,DEN 7,14.0,10.0,Russell Wilson pass incomplete deep left intended for Greg Dulcich,-1.42,-2.49,8.0,2022,110
+4.0,7:18,4.0,10.0,DEN 7,14.0,10.0,"Corliss Waitman punts 50 yards, returned by Christian Kirk for 10 yards (tackle by Jonas Griffith and Mitchell Fraboni)",-2.49,-2.46,8.0,2022,110
+4.0,7:06,1.0,10.0,DEN 47,14.0,10.0,Trevor Lawrence pass complete short middle to Christian Kirk for 25 yards (tackle by Patrick Surtain),2.46,4.11,8.0,2022,110
+4.0,6:22,1.0,10.0,DEN 22,14.0,10.0,Travis Etienne right tackle for 11 yards (tackle by Matt Henningsen),4.11,4.84,8.0,2022,110
+4.0,5:33,1.0,10.0,DEN 11,14.0,10.0,Zay Jones right end for 7 yards (tackle by Kareem Jackson),4.84,5.47,8.0,2022,110
+4.0,5:07,2.0,3.0,DEN 4,14.0,10.0,Travis Etienne up the middle for 3 yards (tackle by Mike Purcell and Dre'Mont Jones),5.47,6.97,8.0,2022,110
+4.0,4:33,1.0,1.0,DEN 1,14.0,10.0,Travis Etienne right guard for no gain (tackle by Josey Jewell and Jonathon Cooper),6.97,5.91,8.0,2022,110
+4.0,3:57,2.0,1.0,DEN 1,14.0,16.0,"Travis Etienne right guard for 1 yard, touchdown",5.91,7.0,8.0,2022,110
+4.0,3:54,,,DEN 15,14.0,17.0,Riley Patterson kicks extra point good,0.0,0.0,8.0,2022,110
+4.0,3:54,,,JAX 35,14.0,17.0,"Riley Patterson kicks off 65 yards, returned by Montrell Washington for 20 yards (tackle by Chad Muma)",0.0,0.28,8.0,2022,110
+4.0,3:49,1.0,10.0,DEN 20,14.0,17.0,Russell Wilson pass complete deep right to KJ Hamler for 47 yards (tackle by Tre Herndon),0.28,3.38,8.0,2022,110
+4.0,2:59,1.0,10.0,JAX 33,14.0,17.0,Russell Wilson pass incomplete short middle intended for Courtland Sutton,3.38,2.84,8.0,2022,110
+4.0,2:53,2.0,10.0,JAX 33,14.0,17.0,Latavius Murray right guard for 5 yards (tackle by Foyesade Oluokun and Andre Cisco),2.84,2.81,8.0,2022,110
+4.0,2:10,3.0,5.0,JAX 28,14.0,17.0,Russell Wilson scrambles left end for 10 yards (tackle by Andre Cisco),2.81,4.37,8.0,2022,110
+4.0,2:00,1.0,10.0,JAX 18,14.0,17.0,KJ Hamler right end for 9 yards (tackle by Tre Herndon),4.37,5.42,8.0,2022,110
+4.0,1:54,2.0,1.0,JAX 9,14.0,17.0,Latavius Murray right tackle for 7 yards (tackle by Foyesade Oluokun),5.42,6.74,8.0,2022,110
+4.0,1:47,,,,,,Timeout #1 by Jacksonville Jaguars,,,8.0,2022,110
+4.0,1:47,1.0,2.0,JAX 2,20.0,17.0,"Latavius Murray up the middle for 2 yards, touchdown",6.74,7.0,8.0,2022,110
+4.0,1:43,,,JAX 15,21.0,17.0,Brandon McManus kicks extra point good,0.0,0.0,8.0,2022,110
+4.0,1:43,,,DEN 35,21.0,17.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,110
+4.0,1:43,1.0,10.0,JAX 25,21.0,17.0,Trevor Lawrence pass short right intended for Christian Kirk is intercepted by K'Waun Williams at JAC-35 and returned for no gain (tackle by Christian Kirk),0.61,-3.25,8.0,2022,110
+4.0,1:36,1.0,10.0,JAX 35,21.0,17.0,Latavius Murray left guard for no gain (tackle by Roy Robertson-Harris and Folorunso Fatukasi),3.25,2.7,8.0,2022,110
+4.0,1:30,,,,,,Timeout #2 by Jacksonville Jaguars,,,8.0,2022,110
+4.0,1:30,2.0,10.0,JAX 35,21.0,17.0,Latavius Murray right guard for 6 yards (tackle by Foyesade Oluokun),2.7,2.81,8.0,2022,110
+4.0,1:24,,,,,,Timeout #3 by Jacksonville Jaguars,,,8.0,2022,110
+4.0,1:24,3.0,4.0,JAX 29,21.0,17.0,Latavius Murray left guard for 3 yards (tackle by Tyson Campbell and Devin Lloyd),2.81,1.89,8.0,2022,110
+4.0,0:36,,,,,,Timeout #1 by Denver Broncos,,,8.0,2022,110
+4.0,0:36,4.0,1.0,JAX 26,21.0,17.0,"Russell Wilson for 1 yard (tackle by Folorunso Fatukasi) Replay Assistant challenged the first down ruling, and the play was upheld.",1.89,3.78,8.0,2022,110

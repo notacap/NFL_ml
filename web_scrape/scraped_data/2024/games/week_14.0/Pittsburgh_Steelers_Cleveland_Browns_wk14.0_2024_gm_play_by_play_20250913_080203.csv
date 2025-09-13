@@ -1,0 +1,180 @@
+Quarter,Time,Down,ToGo,Location,CLE,PIT,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Browns won the coin toss and deferred, Steelers to receive the opening kickoff.",,,14.0,2024,199
+1.0,15:00,,,CLE 35,0.0,0.0,"Dustin Hopkins kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,199
+1.0,15:00,1.0,10.0,PIT 30,0.0,0.0,"Penalty on Shelby Harris: Neutral Zone Infraction, 5 yards (accepted) (no play)",0.94,1.67,14.0,2024,199
+1.0,15:00,1.0,5.0,PIT 35,0.0,0.0,Najee Harris left guard for 3 yards (tackle by Juan Thornhill),1.67,1.47,14.0,2024,199
+1.0,14:34,2.0,2.0,PIT 38,0.0,0.0,Russell Wilson pass complete short right to MyCole Pruitt for -1 yards (tackle by Devin Bush),1.47,0.63,14.0,2024,199
+1.0,13:52,3.0,3.0,PIT 37,0.0,0.0,Russell Wilson pass incomplete deep left intended for Mike Williams,0.63,-0.91,14.0,2024,199
+1.0,13:43,4.0,3.0,PIT 37,0.0,0.0,"Corliss Waitman punts 60 yards, returned by Kadarius Toney for 14 yards (tackle by Ben Skowronek and Miles Killebrew)",-0.91,0.06,14.0,2024,199
+1.0,13:31,1.0,10.0,CLE 17,0.0,0.0,Nick Chubb up the middle for -5 yards (tackle by T.J. Watt),-0.06,-1.15,14.0,2024,199
+1.0,12:55,2.0,15.0,CLE 12,0.0,0.0,Jameis Winston pass incomplete short middle,-1.15,-2.01,14.0,2024,199
+1.0,12:49,3.0,15.0,CLE 12,0.0,0.0,Jameis Winston sacked by Alex Highsmith for -7 yards,-2.01,-2.49,14.0,2024,199
+1.0,12:10,4.0,22.0,CLE 5,0.0,0.0,"Corey Bojorquez punts 42 yards, returned by Calvin Austin for 11 yards (tackle by D'Anthony Bell and Nathaniel Watson)",-2.49,-3.18,14.0,2024,199
+1.0,12:02,1.0,10.0,CLE 36,0.0,0.0,Najee Harris left guard for 20 yards (tackle by Denzel Ward),3.18,4.51,14.0,2024,199
+1.0,11:26,1.0,10.0,CLE 16,0.0,0.0,Najee Harris up the middle for 7 yards (tackle by Grant Delpit and Ronnie Hickman),4.51,5.16,14.0,2024,199
+1.0,10:44,2.0,3.0,CLE 9,0.0,0.0,Najee Harris left tackle for 2 yards (tackle by Myles Garrett),5.16,4.85,14.0,2024,199
+1.0,10:08,3.0,1.0,CLE 7,0.0,0.0,"Russell Wilson left guard for no gain (tackle by Jowon Briggs). Penalty on Dan Moore: Illegal Formation, 5 yards (accepted) (no play)",4.85,3.73,14.0,2024,199
+1.0,9:41,3.0,6.0,CLE 12,0.0,0.0,Russell Wilson pass incomplete short middle intended for Jaylen Warren,3.73,2.66,14.0,2024,199
+1.0,9:35,4.0,6.0,CLE 12,0.0,3.0,Chris Boswell 30 yard field goal good,2.66,3.0,14.0,2024,199
+1.0,9:32,,,PIT 35,0.0,3.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,199
+1.0,9:32,1.0,10.0,CLE 30,0.0,3.0,Jerome Ford right tackle for 7 yards (tackle by Patrick Queen),0.94,1.34,14.0,2024,199
+1.0,8:55,2.0,3.0,CLE 37,0.0,3.0,Nick Chubb up the middle for 7 yards (tackle by Alex Highsmith and Patrick Queen),1.34,1.86,14.0,2024,199
+1.0,8:09,1.0,10.0,CLE 44,0.0,3.0,Nick Chubb left tackle for no gain (tackle by T.J. Watt and Larry Ogunjobi),1.86,1.32,14.0,2024,199
+1.0,7:25,2.0,10.0,CLE 44,0.0,3.0,Jameis Winston pass complete deep middle to Elijah Moore for 20 yards (tackle by DeShon Elliott),1.32,3.18,14.0,2024,199
+1.0,6:42,1.0,10.0,PIT 36,0.0,3.0,Jameis Winston pass incomplete short middle intended for David Njoku (defended by Damontae Kazee),3.18,2.64,14.0,2024,199
+1.0,6:38,2.0,10.0,PIT 36,0.0,3.0,Jameis Winston pass complete short left to Jerome Ford for 1 yard (tackle by Payton Wilson),2.64,2.08,14.0,2024,199
+1.0,5:56,3.0,9.0,PIT 35,6.0,3.0,"Jameis Winston pass complete deep middle to Jerry Jeudy for 35 yards, touchdown",2.08,7.0,14.0,2024,199
+1.0,5:50,,,PIT 15,7.0,3.0,Dustin Hopkins kicks extra point good,0.0,0.0,14.0,2024,199
+1.0,5:50,,,CLE 35,7.0,3.0,"Dustin Hopkins kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,199
+1.0,5:50,1.0,10.0,PIT 30,7.0,3.0,Russell Wilson pass complete short right to Cordarrelle Patterson for -2 yards (tackle by Mohamoud Diabate),0.94,0.12,14.0,2024,199
+1.0,5:28,2.0,12.0,PIT 28,7.0,3.0,Russell Wilson pass complete short left to Scott Miller for 8 yards (tackle by Martin Emerson),0.12,0.5,14.0,2024,199
+1.0,4:48,3.0,4.0,PIT 36,7.0,3.0,"Russell Wilson pass incomplete deep left. Penalty on Russell Wilson: Intentional Grounding, 11 yards (accepted)",0.5,-1.7,14.0,2024,199
+1.0,4:43,4.0,15.0,PIT 25,7.0,3.0,Corliss Waitman punts 38 yards out of bounds,-1.7,-1.4,14.0,2024,199
+1.0,4:34,1.0,10.0,CLE 37,7.0,3.0,Jerome Ford left tackle for 4 yards (tackle by T.J. Watt and Larry Ogunjobi),1.4,1.4,14.0,2024,199
+1.0,3:58,2.0,6.0,CLE 41,7.0,3.0,Jameis Winston pass incomplete short middle intended for Blake Whiteheart,1.4,0.7,14.0,2024,199
+1.0,3:52,3.0,6.0,CLE 41,7.0,3.0,"Jameis Winston pass complete short right to Elijah Moore for no gain (tackle by Donte Jackson). Penalty on Alex Highsmith: Roughing the Passer, 15 yards (accepted) (no play)",0.7,2.65,14.0,2024,199
+1.0,3:30,1.0,10.0,PIT 44,7.0,3.0,Nick Chubb right guard for 2 yards (tackle by Keeanu Benton and Cameron Heyward),2.65,2.38,14.0,2024,199
+1.0,2:47,2.0,8.0,PIT 42,7.0,3.0,Jameis Winston pass incomplete short right intended for Jerry Jeudy,2.38,1.69,14.0,2024,199
+1.0,2:43,3.0,8.0,PIT 42,7.0,3.0,"Penalty on Jameis Winston: Delay of Game, 5 yards (accepted) (no play)",1.69,1.03,14.0,2024,199
+1.0,2:43,3.0,13.0,PIT 47,7.0,3.0,Jameis Winston pass complete short middle to David Njoku for 6 yards (tackle by Patrick Queen and Minkah Fitzpatrick),1.03,0.53,14.0,2024,199
+1.0,2:05,4.0,7.0,PIT 41,7.0,3.0,Corey Bojorquez punts 31 yards downed by Nathaniel Watson,0.53,0.38,14.0,2024,199
+1.0,1:56,1.0,10.0,PIT 10,7.0,3.0,Russell Wilson pass complete short left to Scott Miller for 9 yards (tackle by Greg Newsome and Mohamoud Diabate),-0.38,0.24,14.0,2024,199
+1.0,1:23,2.0,1.0,PIT 19,7.0,3.0,Najee Harris right tackle for no gain (tackle by Mohamoud Diabate and Jowon Briggs),0.24,-0.37,14.0,2024,199
+1.0,0:59,3.0,1.0,PIT 19,7.0,3.0,Russell Wilson pass incomplete deep left intended for Scott Miller,-0.37,-2.14,14.0,2024,199
+1.0,0:56,4.0,1.0,PIT 19,7.0,3.0,"Corliss Waitman punts 54 yards, returned by Kadarius Toney for 11 yards (tackle by Tyler Matakevich)",-2.14,-1.47,14.0,2024,199
+1.0,0:43,1.0,10.0,CLE 38,7.0,3.0,Jerome Ford left end for -1 yards (tackle by Alex Highsmith and Cameron Heyward),1.47,0.79,14.0,2024,199
+2.0,15:00,2.0,11.0,CLE 37,7.0,3.0,Jameis Winston pass incomplete short right,0.79,0.1,14.0,2024,199
+2.0,14:54,3.0,11.0,CLE 37,7.0,3.0,Jameis Winston pass incomplete deep left intended for Michael Woods,0.1,-0.91,14.0,2024,199
+2.0,14:50,4.0,11.0,CLE 37,7.0,3.0,"Corey Bojorquez punts 63 yards, touchback.",-0.91,-0.28,14.0,2024,199
+2.0,14:41,1.0,10.0,PIT 20,7.0,3.0,Russell Wilson pass incomplete short left intended for Darnell Washington,0.28,-0.27,14.0,2024,199
+2.0,14:36,2.0,10.0,PIT 20,7.0,3.0,Jaylen Warren right tackle for -4 yards (tackle by Cameron Thomas),-0.27,-1.69,14.0,2024,199
+2.0,14:07,3.0,14.0,PIT 16,7.0,3.0,Russell Wilson scrambles up the middle for 8 yards (tackle by Rodney McLeod),-1.69,-1.77,14.0,2024,199
+2.0,13:35,4.0,6.0,PIT 24,7.0,3.0,"Corliss Waitman punts 48 yards, returned by Kadarius Toney for 19 yards (tackle by Ben Skowronek)",-1.77,-2.06,14.0,2024,199
+2.0,13:26,1.0,10.0,CLE 47,7.0,3.0,Jameis Winston pass short middle intended for Nick Chubb is intercepted by Keeanu Benton at CLE-42 and returned for 11 yards (tackle by Nick Chubb),2.06,-3.51,14.0,2024,199
+2.0,13:18,1.0,10.0,CLE 31,7.0,3.0,Russell Wilson pass incomplete short left intended for Calvin Austin,3.51,2.97,14.0,2024,199
+2.0,13:16,2.0,10.0,CLE 31,7.0,3.0,Cordarrelle Patterson left guard for 3 yards (tackle by Devin Bush and Juan Thornhill),2.97,2.68,14.0,2024,199
+2.0,12:33,3.0,7.0,CLE 28,7.0,3.0,"Russell Wilson pass incomplete deep left intended for Calvin Austin. Penalty on Greg Newsome: Defensive Pass Interference, 16 yards (accepted) (no play)",2.68,4.78,14.0,2024,199
+2.0,12:28,1.0,10.0,CLE 12,7.0,3.0,Russell Wilson pass complete short middle to Pat Freiermuth for 7 yards (tackle by Devin Bush and Jordan Hicks),4.78,5.41,14.0,2024,199
+2.0,11:49,2.0,3.0,CLE 5,7.0,3.0,Russell Wilson scrambles up the middle for 4 yards (tackle by T.Y. McGill and Grant Delpit),5.41,6.97,14.0,2024,199
+2.0,11:04,1.0,1.0,CLE 1,7.0,9.0,"Najee Harris up the middle for 1 yard, touchdown",6.97,7.0,14.0,2024,199
+2.0,11:00,,,CLE 15,7.0,10.0,Chris Boswell kicks extra point good,0.0,0.0,14.0,2024,199
+2.0,11:00,,,PIT 35,7.0,10.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,199
+2.0,11:00,1.0,10.0,CLE 30,7.0,10.0,Jameis Winston pass incomplete short right,0.94,0.39,14.0,2024,199
+2.0,10:54,2.0,10.0,CLE 30,7.0,10.0,Jerome Ford right end for 5 yards (tackle by Patrick Queen),0.39,0.37,14.0,2024,199
+2.0,10:18,3.0,5.0,CLE 35,7.0,10.0,Jameis Winston pass incomplete deep right intended for Michael Woods,0.37,-1.04,14.0,2024,199
+2.0,10:12,4.0,5.0,CLE 35,7.0,10.0,"Corey Bojorquez punts 55 yards, returned by Calvin Austin for 9 yards (tackle by Cameron Mitchell and D'Anthony Bell)",-1.04,-0.15,14.0,2024,199
+2.0,10:00,1.0,10.0,PIT 19,7.0,10.0,Jaylen Warren right tackle for 2 yards (tackle by Shelby Harris),0.15,-0.06,14.0,2024,199
+2.0,9:33,2.0,8.0,PIT 21,7.0,10.0,Jaylen Warren right tackle for 7 yards (tackle by Mohamoud Diabate and Grant Delpit),-0.06,0.1,14.0,2024,199
+2.0,8:57,3.0,1.0,PIT 28,7.0,10.0,Russell Wilson left guard for 6 yards (tackle by Ogbonnia Okoronkwo),0.1,1.2,14.0,2024,199
+2.0,8:19,1.0,10.0,PIT 34,7.0,10.0,Jaylen Warren left tackle for 12 yards (tackle by Denzel Ward),1.2,1.99,14.0,2024,199
+2.0,7:44,1.0,10.0,PIT 46,7.0,10.0,Jaylen Warren right guard for 7 yards (tackle by Isaiah McGuire and Grant Delpit),1.99,2.4,14.0,2024,199
+2.0,6:59,2.0,3.0,CLE 47,7.0,10.0,Najee Harris left guard for 2 yards (tackle by Devin Bush and Mohamoud Diabate),2.4,1.95,14.0,2024,199
+2.0,6:31,3.0,1.0,CLE 45,7.0,10.0,Russell Wilson up the middle for 1 yard (tackle by T.Y. McGill),1.95,2.65,14.0,2024,199
+2.0,6:04,1.0,10.0,CLE 44,7.0,10.0,"Russell Wilson pass complete deep left to Mike Williams for no gain. Penalty on Mike Williams: Offensive Pass Interference, 10 yards (accepted) (no play)",2.65,1.99,14.0,2024,199
+2.0,5:49,1.0,20.0,PIT 46,7.0,10.0,Russell Wilson pass complete short right to Jaylen Warren for 11 yards (tackle by Ronnie Hickman),1.99,2.25,14.0,2024,199
+2.0,5:12,2.0,9.0,CLE 43,7.0,10.0,Russell Wilson pass incomplete short right intended for Jaylen Warren (defended by Jordan Hicks),2.25,1.55,14.0,2024,199
+2.0,5:08,3.0,9.0,CLE 43,7.0,10.0,Russell Wilson pass complete short left to Mike Williams for 7 yards (tackle by Martin Emerson),1.55,0.89,14.0,2024,199
+2.0,4:27,4.0,2.0,CLE 36,7.0,13.0,Chris Boswell 54 yard field goal good,0.89,3.0,14.0,2024,199
+2.0,4:21,,,PIT 35,7.0,13.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,199
+2.0,4:21,1.0,10.0,CLE 30,7.0,13.0,Jameis Winston left end for 11 yards (tackle by Minkah Fitzpatrick),0.94,1.66,14.0,2024,199
+2.0,3:41,1.0,10.0,CLE 41,7.0,13.0,Nick Chubb left guard for 4 yards (tackle by Cameron Heyward and Patrick Queen),1.66,1.66,14.0,2024,199
+2.0,3:11,2.0,6.0,CLE 45,7.0,13.0,Jameis Winston sacked by Cameron Heyward for -6 yards,1.66,0.17,14.0,2024,199
+2.0,3:01,,,,,,Timeout #1 by Pittsburgh Steelers,,,14.0,2024,199
+2.0,3:01,3.0,12.0,CLE 39,7.0,13.0,Jameis Winston pass complete short left to Jordan Akins for 14 yards (tackle by Joey Porter),0.17,2.46,14.0,2024,199
+2.0,2:27,1.0,10.0,PIT 47,7.0,13.0,Jerome Ford right tackle for 7 yards (tackle by Isaiahh Loudermilk),2.46,2.86,14.0,2024,199
+2.0,2:00,2.0,3.0,PIT 40,7.0,13.0,Jerome Ford up the middle for 5 yards (tackle by Payton Wilson),2.86,3.25,14.0,2024,199
+2.0,1:24,1.0,10.0,PIT 35,7.0,13.0,Jameis Winston pass complete short left to David Njoku for no gain (tackle by DeShon Elliott),3.25,2.7,14.0,2024,199
+2.0,0:50,2.0,10.0,PIT 35,7.0,13.0,Jameis Winston pass complete short right to Michael Woods for 12 yards (tackle by Donte Jackson),2.7,4.04,14.0,2024,199
+2.0,0:43,1.0,10.0,PIT 23,7.0,13.0,Jameis Winston pass complete short middle to Pierre Strong for 3 yards (tackle by Patrick Queen),4.04,3.9,14.0,2024,199
+2.0,0:38,,,,,,Timeout #1 by Cleveland Browns,,,14.0,2024,199
+2.0,0:38,2.0,7.0,PIT 20,7.0,13.0,Jameis Winston pass incomplete deep left intended for David Njoku,3.9,3.2,14.0,2024,199
+2.0,0:33,,,,,,Timeout #2 by Pittsburgh Steelers,,,14.0,2024,199
+2.0,0:33,3.0,7.0,PIT 20,7.0,13.0,Jameis Winston pass incomplete deep right intended for David Njoku (defended by DeShon Elliott),3.2,2.12,14.0,2024,199
+2.0,0:28,4.0,7.0,PIT 20,7.0,13.0,Dustin Hopkins 38 yard field goal no good,2.12,-0.81,14.0,2024,199
+2.0,0:23,1.0,10.0,PIT 28,7.0,13.0,Russell Wilson pass incomplete deep right intended for Calvin Austin,0.81,0.26,14.0,2024,199
+2.0,0:16,2.0,10.0,PIT 28,7.0,13.0,Russell Wilson pass complete short left to Mike Williams for 7 yards (tackle by Martin Emerson),0.26,0.5,14.0,2024,199
+3.0,15:00,,,PIT 35,7.0,13.0,"Chris Boswell kicks off 60 yards, returned by Jerome Ford for 56 yards (tackle by James Pierre)",0.0,2.98,14.0,2024,199
+3.0,14:50,1.0,10.0,PIT 39,7.0,13.0,"Nick Chubb left tackle for 3 yards (tackle by Patrick Queen and T.J. Watt). Penalty on Joey Porter: Unnecessary Roughness / Defense, 15 yards (accepted)",2.98,4.17,14.0,2024,199
+3.0,14:21,1.0,10.0,PIT 21,7.0,13.0,Nick Chubb left guard for 3 yards (tackle by Elandon Roberts and DeShon Elliott),4.17,4.04,14.0,2024,199
+3.0,13:46,2.0,7.0,PIT 18,7.0,13.0,Jerome Ford up the middle for 3 yards (tackle by DeShon Elliott),4.04,3.81,14.0,2024,199
+3.0,13:20,3.0,4.0,PIT 15,7.0,13.0,"Jameis Winston pass complete short right to Michael Woods for no gain. Penalty on Michael Woods: Offensive Pass Interference, 10 yards (accepted) (no play)",3.81,2.41,14.0,2024,199
+3.0,12:54,3.0,14.0,PIT 25,7.0,13.0,"Jameis Winston aborted snap, recovered by Jameis Winston at PIT-31 Jameis Winston pass incomplete deep right intended for Jerome Ford",2.41,1.8,14.0,2024,199
+3.0,12:44,4.0,14.0,PIT 25,7.0,13.0,Dustin Hopkins 43 yard field goal no good,1.8,-1.14,14.0,2024,199
+3.0,12:40,1.0,10.0,PIT 33,7.0,13.0,Russell Wilson pass incomplete short left,1.14,0.59,14.0,2024,199
+3.0,12:36,2.0,10.0,PIT 33,7.0,13.0,Najee Harris up the middle for no gain (tackle by Shelby Harris and Mohamoud Diabate),0.59,-0.1,14.0,2024,199
+3.0,11:57,3.0,10.0,PIT 33,7.0,13.0,Russell Wilson pass complete deep middle to Pat Freiermuth for 21 yards (tackle by Greg Newsome),-0.1,2.52,14.0,2024,199
+3.0,11:20,1.0,10.0,CLE 46,7.0,13.0,Jaylen Warren left guard for 14 yards (tackle by Denzel Ward),2.52,3.45,14.0,2024,199
+3.0,10:41,1.0,10.0,CLE 32,7.0,13.0,Jaylen Warren right guard for 4 yards (tackle by Cameron Thomas and Jowon Briggs),3.45,3.44,14.0,2024,199
+3.0,9:57,2.0,6.0,CLE 28,7.0,13.0,Russell Wilson pass complete short left to Jaylen Warren for 14 yards (tackle by Juan Thornhill and Devin Bush),3.44,4.65,14.0,2024,199
+3.0,9:13,1.0,10.0,CLE 14,7.0,13.0,Russell Wilson pass complete short left to Calvin Austin for 4 yards (tackle by Jordan Hicks),4.65,4.71,14.0,2024,199
+3.0,8:41,2.0,6.0,CLE 10,7.0,19.0,"Russell Wilson pass complete short right to Van Jefferson for 10 yards, touchdown",4.71,7.0,14.0,2024,199
+3.0,8:37,,,CLE 15,7.0,20.0,Chris Boswell kicks extra point good,0.0,0.0,14.0,2024,199
+3.0,8:37,,,PIT 35,7.0,20.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,199
+3.0,8:37,1.0,10.0,CLE 30,7.0,20.0,Jameis Winston pass complete short left to Jerome Ford for 7 yards (tackle by Patrick Queen),0.94,1.34,14.0,2024,199
+3.0,8:08,2.0,3.0,CLE 37,7.0,20.0,Jameis Winston pass complete short right to Elijah Moore for 5 yards (tackle by Beanie Bishop),1.34,1.73,14.0,2024,199
+3.0,7:36,1.0,10.0,CLE 42,7.0,20.0,Nick Chubb right guard for no gain (tackle by DeShon Elliott),1.73,1.19,14.0,2024,199
+3.0,7:02,2.0,10.0,CLE 42,7.0,20.0,Nick Chubb right tackle for 6 yards (tackle by James Pierre and DeShon Elliott),1.19,1.29,14.0,2024,199
+3.0,6:34,3.0,4.0,CLE 48,7.0,20.0,Jameis Winston pass complete short middle to David Njoku for 3 yards (tackle by Joey Porter and Beanie Bishop),1.29,0.0,14.0,2024,199
+3.0,5:50,4.0,1.0,PIT 49,7.0,20.0,Jerome Ford left tackle for -5 yards (tackle by Elandon Roberts),0.0,-2.52,14.0,2024,199
+3.0,5:46,1.0,10.0,CLE 46,7.0,20.0,Najee Harris right tackle for 3 yards (tackle by Grant Delpit),2.52,2.38,14.0,2024,199
+3.0,5:15,2.0,7.0,CLE 43,7.0,20.0,Najee Harris up the middle for 1 yard (tackle by Rodney McLeod),2.38,1.82,14.0,2024,199
+3.0,4:30,3.0,6.0,CLE 42,7.0,20.0,Russell Wilson pass complete deep left to Mike Williams for 22 yards,1.82,4.24,14.0,2024,199
+3.0,4:01,1.0,10.0,CLE 20,7.0,20.0,Russell Wilson pass incomplete short left intended for Jaylen Warren,4.24,3.69,14.0,2024,199
+3.0,3:56,2.0,10.0,CLE 20,7.0,26.0,"Russell Wilson pass complete deep middle to Pat Freiermuth for 20 yards, touchdown",3.69,7.0,14.0,2024,199
+3.0,3:51,,,CLE 15,7.0,27.0,Chris Boswell kicks extra point good,0.0,0.0,14.0,2024,199
+3.0,3:51,,,PIT 35,7.0,27.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,199
+3.0,3:51,1.0,10.0,CLE 30,7.0,27.0,Jameis Winston pass complete short right to Jerry Jeudy for 12 yards (tackle by Beanie Bishop),0.94,1.73,14.0,2024,199
+3.0,3:20,1.0,10.0,CLE 42,7.0,27.0,Jameis Winston pass complete short right to Jerry Jeudy for 3 yards (tackle by Joey Porter),1.73,1.59,14.0,2024,199
+3.0,2:57,2.0,7.0,CLE 45,7.0,27.0,Nick Chubb left guard for 19 yards (tackle by DeShon Elliott and Elandon Roberts),1.59,3.18,14.0,2024,199
+3.0,2:26,1.0,10.0,PIT 36,7.0,27.0,Jameis Winston pass incomplete short right intended for David Njoku,3.18,2.64,14.0,2024,199
+3.0,2:21,2.0,10.0,PIT 36,7.0,27.0,"Jerome Ford left tackle for no gain (tackle by Payton Wilson). Penalty on Elijah Moore: Illegal Shift, 5 yards (accepted) (no play)",2.64,1.96,14.0,2024,199
+3.0,1:52,2.0,15.0,PIT 41,7.0,27.0,Jerome Ford right end for 7 yards (tackle by DeShon Elliott),1.96,2.21,14.0,2024,199
+3.0,1:25,3.0,8.0,PIT 34,7.0,27.0,Jameis Winston pass complete short right to David Njoku for 7 yards (tackle by DeShon Elliott),2.21,1.82,14.0,2024,199
+3.0,0:49,4.0,1.0,PIT 27,7.0,27.0,Jameis Winston up the middle for 2 yards (tackle by DeShon Elliott),1.82,3.91,14.0,2024,199
+3.0,0:06,1.0,10.0,PIT 25,7.0,27.0,Jameis Winston pass incomplete deep middle intended for David Njoku,3.91,3.36,14.0,2024,199
+3.0,0:02,2.0,10.0,PIT 25,7.0,27.0,Nick Chubb right end for 9 yards (tackle by Joey Porter and Patrick Queen),3.36,4.06,14.0,2024,199
+4.0,15:00,3.0,1.0,PIT 16,7.0,27.0,"Penalty on Jack Conklin: False Start, 5 yards (accepted) (no play)",4.06,3.2,14.0,2024,199
+4.0,14:40,3.0,6.0,PIT 21,7.0,27.0,"Jameis Winston sacked by Cameron Heyward for -3 yards. Penalty on Germain Ifedi: Unnecessary Roughness / Offense, 15 yards (accepted)",3.2,0.66,14.0,2024,199
+4.0,14:32,4.0,24.0,PIT 39,7.0,27.0,Corey Bojorquez punts 35 yards out of bounds,0.66,0.38,14.0,2024,199
+4.0,14:32,1.0,10.0,PIT 4,7.0,27.0,Cordarrelle Patterson left guard for 4 yards (tackle by Jowon Briggs and Grant Delpit),-0.38,-0.49,14.0,2024,199
+4.0,14:03,2.0,6.0,PIT 8,7.0,27.0,Cordarrelle Patterson left guard for 1 yard (tackle by Dalvin Tomlinson and Jowon Briggs),-0.49,-0.84,14.0,2024,199
+4.0,13:19,3.0,5.0,PIT 9,7.0,27.0,Russell Wilson pass incomplete deep left intended for Calvin Austin,-0.84,-2.49,14.0,2024,199
+4.0,13:14,4.0,5.0,PIT 9,7.0,27.0,"Corliss Waitman punts 55 yards, fair catch by Kadarius Toney at CLE-36",-2.49,-1.33,14.0,2024,199
+4.0,13:06,1.0,10.0,CLE 36,7.0,27.0,"Penalty on Kadarius Toney: Taunting / Offense, 15 yards (accepted) (no play)",1.33,0.34,14.0,2024,199
+4.0,13:06,1.0,10.0,CLE 21,7.0,27.0,"Penalty on Jerry Jeudy: False Start, 5 yards (accepted) (no play)",0.34,-0.22,14.0,2024,199
+4.0,13:06,1.0,15.0,CLE 16,7.0,27.0,Jameis Winston pass complete short left to Pierre Strong for 6 yards (tackle by DeShon Elliott),-0.22,-0.07,14.0,2024,199
+4.0,12:31,2.0,9.0,CLE 22,7.0,27.0,Jameis Winston pass incomplete short right,-0.07,-0.76,14.0,2024,199
+4.0,12:27,3.0,9.0,CLE 22,7.0,27.0,Jameis Winston pass complete short middle to Jerry Jeudy for 6 yards (tackle by Minkah Fitzpatrick and Beanie Bishop),-0.76,-1.5,14.0,2024,199
+4.0,11:48,4.0,3.0,CLE 28,7.0,27.0,"Jameis Winston pass complete short middle to David Njoku for 13 yards (tackle by Payton Wilson) PIT challenged the runner was down by contact ruling, and the original play was overturned. Jameis Winston pass complete short middle to David Njoku for 3 yards (tackle by Beanie Bishop)",-1.5,1.0,14.0,2024,199
+4.0,11:34,1.0,10.0,CLE 31,7.0,27.0,Jameis Winston left end for 10 yards (tackle by Patrick Queen),1.0,1.66,14.0,2024,199
+4.0,10:54,1.0,10.0,CLE 41,7.0,27.0,Jameis Winston pass incomplete short middle intended for David Njoku (defended by Patrick Queen),1.66,1.12,14.0,2024,199
+4.0,10:50,2.0,10.0,CLE 41,7.0,27.0,Jerome Ford left end for -4 yards (tackle by Payton Wilson and Joey Porter),1.12,-0.1,14.0,2024,199
+4.0,10:19,3.0,14.0,CLE 37,7.0,27.0,Jameis Winston pass complete short middle to David Njoku for 8 yards (tackle by Damontae Kazee and Minkah Fitzpatrick),-0.1,-0.39,14.0,2024,199
+4.0,9:42,4.0,6.0,CLE 45,7.0,27.0,Jameis Winston pass complete short left to Elijah Moore for 9 yards,-0.39,2.52,14.0,2024,199
+4.0,9:15,1.0,10.0,PIT 46,7.0,27.0,Jameis Winston pass complete short left to Jerry Jeudy for 8 yards (tackle by Joey Porter),2.52,3.06,14.0,2024,199
+4.0,8:49,2.0,2.0,PIT 38,7.0,27.0,Jameis Winston scrambles right end for 5 yards (tackle by Payton Wilson),3.06,3.38,14.0,2024,199
+4.0,8:20,1.0,10.0,PIT 33,7.0,27.0,Jameis Winston pass complete short left to James Proche for 4 yards (tackle by DeShon Elliott),3.38,3.38,14.0,2024,199
+4.0,7:55,2.0,6.0,PIT 29,7.0,27.0,Jameis Winston pass complete short right to James Proche for 14 yards (tackle by Beanie Bishop and Donte Jackson),3.38,4.58,14.0,2024,199
+4.0,7:25,1.0,10.0,PIT 15,13.0,27.0,"Jameis Winston pass complete short right to David Njoku for 15 yards, touchdown",4.58,7.0,14.0,2024,199
+4.0,7:19,,,PIT 15,14.0,27.0,Dustin Hopkins kicks extra point good,0.0,0.0,14.0,2024,199
+4.0,7:19,,,CLE 35,14.0,27.0,"Dustin Hopkins kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,199
+4.0,7:19,1.0,10.0,PIT 30,14.0,27.0,Najee Harris right tackle for -1 yards (tackle by Winston Reid),0.94,0.26,14.0,2024,199
+4.0,6:37,2.0,11.0,PIT 29,14.0,27.0,Jaylen Warren right tackle for 4 yards (tackle by Ronnie Hickman and Isaiah McGuire),0.26,0.1,14.0,2024,199
+4.0,5:53,3.0,7.0,PIT 33,14.0,27.0,"Russell Wilson pass complete deep left to Scott Miller for 21 yards (tackle by Martin Emerson) CLE challenged the pass completion ruling, and the play was upheld.",0.1,2.52,14.0,2024,199
+4.0,5:32,1.0,10.0,CLE 46,14.0,27.0,Najee Harris right end for 1 yard (tackle by Myles Garrett and Jordan Hicks),2.52,2.11,14.0,2024,199
+4.0,4:49,2.0,9.0,CLE 45,14.0,27.0,"Cordarrelle Patterson right tackle for -5 yards. Cordarrelle Patterson fumbles (forced by Isaiah McGuire), recovered by Myles Garrett at 50 (tackle by Isaiah McGuire)",2.11,-2.26,14.0,2024,199
+4.0,4:43,1.0,10.0,PIT 50,14.0,27.0,Jameis Winston pass complete short left to Jerome Ford for 11 yards (tackle by Minkah Fitzpatrick and DeShon Elliott),2.26,2.98,14.0,2024,199
+4.0,4:07,1.0,10.0,PIT 39,14.0,27.0,Jameis Winston pass deep middle intended for Elijah Moore is intercepted by James Pierre at PIT-18 and returned for 18 yards (tackle by Ethan Pocic and Michael Woods),2.98,-1.33,14.0,2024,199
+4.0,3:57,1.0,10.0,PIT 36,14.0,27.0,Najee Harris right tackle for no gain (tackle by Denzel Ward),1.33,0.79,14.0,2024,199
+4.0,3:51,,,,,,Timeout #2 by Cleveland Browns,,,14.0,2024,199
+4.0,3:51,2.0,10.0,PIT 36,14.0,27.0,Jaylen Warren right guard for 1 yard (tackle by Devin Bush and Mohamoud Diabate),0.79,0.23,14.0,2024,199
+4.0,3:48,,,,,,Timeout #3 by Cleveland Browns,,,14.0,2024,199
+4.0,3:48,3.0,9.0,PIT 37,14.0,27.0,"Penalty on Dan Moore: False Start, 5 yards (accepted) (no play)",0.23,-0.43,14.0,2024,199
+4.0,3:48,3.0,14.0,PIT 32,14.0,27.0,Russell Wilson sacked by Myles Garrett for -11 yards,-0.43,-1.96,14.0,2024,199
+4.0,3:03,,,,,,Timeout #1 by Pittsburgh Steelers,,,14.0,2024,199
+4.0,3:03,4.0,25.0,PIT 21,14.0,27.0,"Corliss Waitman punts 59 yards, recovered by Ben Skowronek at CLE-20 (tackle by Kadarius Toney)",-1.96,4.24,14.0,2024,199
+4.0,2:53,1.0,10.0,CLE 20,14.0,27.0,Najee Harris left end for 4 yards (tackle by Jordan Hicks and Martin Emerson),4.24,4.28,14.0,2024,199
+4.0,2:48,2.0,6.0,CLE 16,14.0,27.0,Najee Harris up the middle for 1 yard (tackle by Shelby Harris and Jowon Briggs),4.28,3.7,14.0,2024,199
+4.0,2:00,3.0,5.0,CLE 15,14.0,27.0,Najee Harris right end for 9 yards (tackle by Jordan Hicks and Denzel Ward),3.7,5.83,14.0,2024,199
+4.0,1:16,1.0,6.0,CLE 6,14.0,27.0,Russell Wilson kneels for -1 yards,5.83,4.76,14.0,2024,199
+4.0,0:37,2.0,7.0,CLE 7,14.0,27.0,Russell Wilson kneels for -1 yards,4.76,3.58,14.0,2024,199

@@ -1,0 +1,177 @@
+Quarter,Time,Down,ToGo,Location,BUF,KAN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Chiefs won the coin toss and deferred, Bills to receive the opening kickoff.",,,6.0,2022,92
+1.0,15:00,,,KAN 35,0.0,0.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,6.0,2022,92
+1.0,15:00,1.0,10.0,BUF 25,0.0,0.0,Josh Allen pass complete to Reggie Gilliam for -1 yards (tackle by L'Jarius Sneed),0.61,-0.07,6.0,2022,92
+1.0,14:23,2.0,11.0,BUF 24,0.0,0.0,Josh Allen pass complete to Gabriel Davis for 22 yards (tackle by Jaylen Watson),-0.07,1.99,6.0,2022,92
+1.0,13:43,1.0,10.0,BUF 46,0.0,0.0,Devin Singletary right end for 9 yards (tackle by Justin Reid),1.99,2.67,6.0,2022,92
+1.0,12:59,2.0,1.0,KAN 45,0.0,0.0,Josh Allen pass complete short right to Devin Singletary for 2 yards (tackle by Jaylen Watson),2.67,2.72,6.0,2022,92
+1.0,12:18,1.0,10.0,KAN 43,0.0,0.0,Devin Singletary right end for 10 yards (tackle by L'Jarius Sneed and Joshua Williams),2.72,3.38,6.0,2022,92
+1.0,11:52,1.0,10.0,KAN 33,0.0,0.0,Devin Singletary right guard for 8 yards (tackle by Nick Bolton),3.38,3.92,6.0,2022,92
+1.0,11:16,2.0,2.0,KAN 25,0.0,0.0,Josh Allen pass complete short left to Stefon Diggs for 8 yards (tackle by Leo Chenal and Nick Bolton),3.92,4.44,6.0,2022,92
+1.0,10:33,1.0,10.0,KAN 17,0.0,0.0,Josh Allen pass complete short middle to Devin Singletary for 4 yards (tackle by Darius Harris),4.44,4.5,6.0,2022,92
+1.0,9:51,2.0,6.0,KAN 13,0.0,0.0,"Josh Allen aborted snap, recovered by Darius Harris at KC-11 and returned for 2 yards",4.5,0.37,6.0,2022,92
+1.0,9:47,1.0,10.0,KAN 11,0.0,0.0,Clyde Edwards-Helaire left end for 5 yards (tackle by Tremaine Edmunds),-0.37,-0.3,6.0,2022,92
+1.0,9:14,2.0,5.0,KAN 16,0.0,0.0,Patrick Mahomes pass complete short left to Travis Kelce for 11 yards (tackle by Jordan Poyer),-0.3,0.74,6.0,2022,92
+1.0,8:47,1.0,10.0,KAN 27,0.0,0.0,Patrick Mahomes pass incomplete short middle intended for Skyy Moore,0.74,0.2,6.0,2022,92
+1.0,8:42,2.0,10.0,KAN 27,0.0,0.0,Patrick Mahomes pass complete deep right to Mecole Hardman for 26 yards (tackle by Taron Johnson),0.2,2.46,6.0,2022,92
+1.0,8:01,1.0,10.0,BUF 47,0.0,0.0,Patrick Mahomes pass complete short left to Mecole Hardman for 13 yards (tackle by Damar Hamlin),2.46,3.31,6.0,2022,92
+1.0,7:28,1.0,10.0,BUF 34,0.0,0.0,Patrick Mahomes pass complete short left to Noah Gray for 3 yards (tackle by Tremaine Edmunds),3.31,3.18,6.0,2022,92
+1.0,6:55,2.0,7.0,BUF 31,0.0,0.0,Patrick Mahomes pass complete short right to JuJu Smith-Schuster for 8 yards (tackle by Kaiir Elam),3.18,4.04,6.0,2022,92
+1.0,6:22,1.0,10.0,BUF 23,0.0,0.0,Clyde Edwards-Helaire left guard for 8 yards (tackle by Damar Hamlin),4.04,4.75,6.0,2022,92
+1.0,5:46,2.0,2.0,BUF 15,0.0,0.0,"Patrick Mahomes pass complete to Marquez Valdes-Scantling for no gain (tackle by Damar Hamlin). Penalty on Creed Humphrey: Ineligible Downfield Pass, 5 yards (accepted) (no play)",4.75,3.9,6.0,2022,92
+1.0,5:39,2.0,7.0,BUF 20,0.0,0.0,Patrick Mahomes pass incomplete deep left intended for Travis Kelce (defended by Dane Jackson),3.9,3.2,6.0,2022,92
+1.0,5:33,3.0,7.0,BUF 20,0.0,0.0,"Penalty on Von Miller: Defensive Offside, 5 yards (accepted) (no play)",3.2,4.05,6.0,2022,92
+1.0,5:33,3.0,2.0,BUF 15,0.0,0.0,Jerick McKinnon up the middle for no gain (tackle by Matt Milano),4.05,2.57,6.0,2022,92
+1.0,4:52,4.0,2.0,BUF 15,0.0,0.0,Patrick Mahomes scrambles up the middle for 6 yards (tackle by Taron Johnson),2.57,5.14,6.0,2022,92
+1.0,4:14,1.0,9.0,BUF 9,0.0,0.0,Patrick Mahomes pass incomplete short middle,5.14,0.0,6.0,2022,92
+1.0,4:10,2.0,10.0,BUF 9,0.0,0.0,Clyde Edwards-Helaire left guard for no gain (tackle by Von Miller),0.0,3.36,6.0,2022,92
+1.0,3:28,3.0,9.0,BUF 9,0.0,0.0,Patrick Mahomes pass intended for Marquez Valdes-Scantling is intercepted by Kaiir Elam in end zone and returned for no gain,3.36,-0.28,6.0,2022,92
+1.0,3:16,1.0,10.0,BUF 20,0.0,0.0,Josh Allen pass complete deep left to Stefon Diggs for 31 yards (tackle by L'Jarius Sneed),0.28,2.32,6.0,2022,92
+1.0,2:38,1.0,10.0,KAN 49,0.0,0.0,Josh Allen pass incomplete short right intended for Khalil Shakir,2.32,1.78,6.0,2022,92
+1.0,2:35,2.0,10.0,KAN 49,0.0,0.0,Josh Allen scrambles left end for 9 yards (tackle by Justin Reid),1.78,2.28,6.0,2022,92
+1.0,1:51,3.0,1.0,KAN 40,0.0,0.0,Josh Allen left end for 4 yards (tackle by George Karlaftis),2.28,3.18,6.0,2022,92
+1.0,1:10,1.0,10.0,KAN 36,0.0,0.0,Josh Allen pass complete short right to Isaiah McKenzie for 5 yards (tackle by Joshua Williams),3.18,3.31,6.0,2022,92
+1.0,0:28,2.0,5.0,KAN 31,0.0,0.0,Devin Singletary right guard for 9 yards (tackle by Nick Bolton),3.31,4.11,6.0,2022,92
+2.0,13:32,1.0,10.0,KAN 22,0.0,0.0,"Devin Singletary left end for 7 yards (tackle by Frank Clark and Nick Bolton). Penalty on Gabriel Davis: Offensive Holding, 10 yards (accepted)",4.11,3.91,6.0,2022,92
+2.0,14:32,1.0,13.0,KAN 25,0.0,0.0,Josh Allen pass incomplete short right,3.91,3.16,6.0,2022,92
+2.0,14:25,2.0,13.0,KAN 25,0.0,0.0,James Cook left guard for 4 yards (tackle by Carlos Dunlap),3.16,3.01,6.0,2022,92
+2.0,13:41,3.0,9.0,KAN 21,0.0,0.0,Josh Allen pass incomplete short left intended for Isaiah McKenzie (defended by Justin Reid),3.01,2.06,6.0,2022,92
+2.0,13:36,4.0,9.0,KAN 21,3.0,0.0,Tyler Bass 39 yard field goal good,2.06,3.0,6.0,2022,92
+2.0,13:32,,,BUF 35,3.0,0.0,"Tyler Bass kicks off 62 yards, returned by Isiah Pacheco for 18 yards (tackle by Terrel Bernard and Cameron Lewis)",0.0,0.34,6.0,2022,92
+2.0,13:26,1.0,10.0,KAN 21,3.0,0.0,Patrick Mahomes pass complete short left to JuJu Smith-Schuster for 9 yards (tackle by Dane Jackson),0.34,1.02,6.0,2022,92
+2.0,12:54,2.0,1.0,KAN 30,3.0,0.0,Clyde Edwards-Helaire left end for 3 yards (tackle by Ed Oliver),1.02,1.14,6.0,2022,92
+2.0,12:17,1.0,10.0,KAN 33,3.0,0.0,"Patrick Mahomes pass complete deep left to Travis Kelce for 25 yards (tackle by Damar Hamlin). Penalty on Dane Jackson: Defensive Holding, 5 yards (declined)",1.14,2.79,6.0,2022,92
+2.0,12:04,1.0,10.0,BUF 42,3.0,0.0,Patrick Mahomes pass incomplete short right intended for Marquez Valdes-Scantling,2.79,2.24,6.0,2022,92
+2.0,11:57,2.0,10.0,BUF 42,3.0,0.0,Patrick Mahomes pass incomplete short right,2.24,1.55,6.0,2022,92
+2.0,11:50,3.0,10.0,BUF 42,3.0,0.0,"Patrick Mahomes pass incomplete intended for Mecole Hardman. Penalty on Trey Smith: Offensive Holding, 10 yards (offset) . Penalty on Siran Neal: Defensive Holding, 5 yards (offset) (no play)",1.55,1.55,6.0,2022,92
+2.0,11:44,3.0,10.0,BUF 42,3.0,6.0,"Patrick Mahomes pass complete short left to JuJu Smith-Schuster for 42 yards, touchdown",1.55,7.0,6.0,2022,92
+2.0,11:31,,,BUF 15,3.0,7.0,Harrison Butker kicks extra point good,0.0,0.0,6.0,2022,92
+2.0,11:31,,,KAN 35,3.0,7.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,6.0,2022,92
+2.0,11:31,1.0,10.0,BUF 25,3.0,7.0,Devin Singletary right guard for 7 yards (tackle by Derrick Nnadi),0.61,1.01,6.0,2022,92
+2.0,11:00,2.0,3.0,BUF 32,3.0,7.0,Devin Singletary up the middle for 2 yards (tackle by Nick Bolton),1.01,0.56,6.0,2022,92
+2.0,10:20,3.0,1.0,BUF 34,3.0,7.0,Josh Allen up the middle for 3 yards (tackle by Chris Jones),0.56,1.4,6.0,2022,92
+2.0,9:46,1.0,10.0,BUF 37,3.0,7.0,Josh Allen scrambles left end for 6 yards (tackle by Nick Bolton),1.4,1.67,6.0,2022,92
+2.0,9:07,2.0,4.0,BUF 43,3.0,7.0,Josh Allen pass complete short left to Stefon Diggs for 10 yards (tackle by Khalen Saunders and Nick Bolton),1.67,2.46,6.0,2022,92
+2.0,8:24,1.0,10.0,KAN 47,3.0,7.0,Devin Singletary up the middle for 14 yards (tackle by Juan Thornhill),2.46,3.38,6.0,2022,92
+2.0,7:39,1.0,10.0,KAN 33,3.0,7.0,Josh Allen pass incomplete short middle,3.38,2.84,6.0,2022,92
+2.0,7:33,2.0,10.0,KAN 33,3.0,7.0,"Josh Allen pass incomplete deep middle intended for Stefon Diggs. Penalty on Juan Thornhill: Defensive Pass Interference, 23 yards (accepted) (no play)",2.84,4.91,6.0,2022,92
+2.0,7:27,1.0,10.0,KAN 10,3.0,7.0,Devin Singletary right end for 7 yards (tackle by Joshua Williams),4.91,5.53,6.0,2022,92
+2.0,6:46,2.0,3.0,KAN 3,3.0,7.0,Josh Allen pass incomplete short middle intended for Gabriel Davis (defended by Darius Harris),5.53,4.72,6.0,2022,92
+2.0,6:41,3.0,3.0,KAN 3,3.0,7.0,Josh Allen pass incomplete short right intended for Devin Singletary (defended by Chris Jones),4.72,3.04,6.0,2022,92
+2.0,6:37,4.0,3.0,KAN 3,3.0,7.0,Josh Allen pass incomplete short middle intended for Isaiah McKenzie,3.04,0.38,6.0,2022,92
+2.0,6:33,1.0,10.0,KAN 3,3.0,7.0,Isiah Pacheco up the middle for 5 yards (tackle by Jordan Phillips),-0.38,-0.42,6.0,2022,92
+2.0,5:55,2.0,5.0,KAN 8,3.0,7.0,Patrick Mahomes sacked by Shaq Lawson for -5 yards,-0.42,-1.42,6.0,2022,92
+2.0,5:12,,,,,,Timeout #1 by Kansas City Chiefs,,,6.0,2022,92
+2.0,5:12,3.0,10.0,KAN 3,3.0,7.0,Patrick Mahomes pass complete short right to Jerick McKinnon for 9 yards (tackle by Tremaine Edmunds),-1.42,-2.49,6.0,2022,92
+2.0,4:36,4.0,1.0,KAN 12,3.0,7.0,"Tommy Townsend punts 57 yards, fair catch by Khalil Shakir at BUF-31",-2.49,-1.0,6.0,2022,92
+2.0,4:27,1.0,10.0,BUF 31,3.0,7.0,Josh Allen pass incomplete short left intended for Gabriel Davis,1.0,0.46,6.0,2022,92
+2.0,4:23,2.0,10.0,BUF 31,3.0,7.0,Devin Singletary up the middle for 3 yards (tackle by Chris Jones and Derrick Nnadi),0.46,0.17,6.0,2022,92
+2.0,3:43,3.0,7.0,BUF 34,3.0,7.0,"Josh Allen pass incomplete short right intended for Gabriel Davis Penalty on BUF: Ineligible Downfield Pass, 5 yards (declined)",0.17,-1.11,6.0,2022,92
+2.0,3:35,4.0,7.0,BUF 34,3.0,7.0,"Sam Martin punts 45 yards, returned by Skyy Moore for 6 yards (tackle by Siran Neal)",-1.11,-0.74,6.0,2022,92
+2.0,3:23,1.0,10.0,KAN 27,3.0,7.0,Isiah Pacheco left guard for 4 yards (tackle by Damar Hamlin),0.74,0.74,6.0,2022,92
+2.0,2:47,2.0,6.0,KAN 31,3.0,7.0,"Patrick Mahomes pass incomplete short right. Penalty on Kaiir Elam: Defensive Holding, 5 yards (accepted) (no play)",0.74,1.33,6.0,2022,92
+2.0,2:39,1.0,10.0,KAN 36,3.0,7.0,Patrick Mahomes pass incomplete short left intended for Travis Kelce (defended by Ed Oliver),1.33,0.79,6.0,2022,92
+2.0,2:35,2.0,10.0,KAN 36,3.0,7.0,"Penalty on Orlando Brown: False Start, 5 yards (accepted) (no play)",0.79,0.12,6.0,2022,92
+2.0,2:35,2.0,15.0,KAN 31,3.0,7.0,Patrick Mahomes pass incomplete short right intended for Mecole Hardman (defended by Gregory Rousseau),0.12,-0.56,6.0,2022,92
+2.0,2:33,3.0,15.0,KAN 31,3.0,7.0,"Patrick Mahomes pass incomplete deep right intended for Mecole Hardman. Penalty on Siran Neal: Defensive Holding, 5 yards (accepted) (no play)",-0.56,1.33,6.0,2022,92
+2.0,2:27,1.0,10.0,KAN 36,3.0,7.0,Patrick Mahomes pass complete short right to JuJu Smith-Schuster for 13 yards (tackle by Kaiir Elam),1.33,2.19,6.0,2022,92
+2.0,2:15,1.0,10.0,KAN 49,3.0,7.0,"Penalty on JuJu Smith-Schuster: Taunting / Offense, 15 yards (accepted) (no play)",2.19,1.2,6.0,2022,92
+2.0,2:08,1.0,10.0,KAN 34,3.0,7.0,Patrick Mahomes pass complete short left to Isiah Pacheco for 12 yards (tackle by Damar Hamlin and Tremaine Edmunds),1.2,1.99,6.0,2022,92
+2.0,1:58,1.0,10.0,KAN 46,3.0,7.0,Patrick Mahomes pass incomplete deep right intended for Justin Watson,1.99,1.45,6.0,2022,92
+2.0,1:53,2.0,10.0,KAN 46,3.0,7.0,Patrick Mahomes sacked by Von Miller for -9 yards,1.45,-0.43,6.0,2022,92
+2.0,1:48,,,,,,Timeout #1 by Buffalo Bills,,,6.0,2022,92
+2.0,1:48,3.0,19.0,KAN 37,3.0,7.0,Patrick Mahomes pass incomplete short left,-0.43,-0.91,6.0,2022,92
+2.0,1:42,4.0,19.0,KAN 37,3.0,7.0,"Tommy Townsend punts 56 yards, returned by Khalil Shakir for no gain (tackle by Cole Christiansen). Penalty on Tyler Matakevich: Illegal Block Above the Waist, 3 yards (accepted)",-0.91,0.38,6.0,2022,92
+2.0,1:29,1.0,10.0,BUF 4,3.0,7.0,"Penalty on Rodger Saffold: False Start, 2 yards (accepted) (no play)",-0.38,-0.46,6.0,2022,92
+2.0,1:29,1.0,12.0,BUF 2,3.0,7.0,Josh Allen pass incomplete short right intended for Isaiah McKenzie,-0.46,-0.93,6.0,2022,92
+2.0,1:24,2.0,12.0,BUF 2,3.0,7.0,Josh Allen left guard for -1 yards (tackle by Nick Bolton),-0.93,-1.77,6.0,2022,92
+2.0,1:18,,,,,,Timeout #2 by Kansas City Chiefs,,,6.0,2022,92
+2.0,1:18,3.0,13.0,BUF 1,3.0,7.0,Josh Allen pass complete deep right to Gabriel Davis for 18 yards (tackle by Joshua Williams),-1.77,0.15,6.0,2022,92
+2.0,0:56,1.0,10.0,BUF 19,3.0,7.0,Josh Allen pass complete short middle to Dawson Knox for 3 yards (tackle by Nick Bolton),0.15,0.07,6.0,2022,92
+2.0,0:35,2.0,7.0,BUF 22,3.0,7.0,Josh Allen pass complete to Stefon Diggs for 30 yards (tackle by Jaylen Watson),0.07,2.39,6.0,2022,92
+2.0,0:28,1.0,10.0,KAN 48,3.0,7.0,Josh Allen pass complete short right to Khalil Shakir for 14 yards (tackle by Justin Reid and Juan Thornhill),2.39,3.31,6.0,2022,92
+2.0,0:22,,,,,,Timeout #2 by Buffalo Bills,,,6.0,2022,92
+2.0,0:22,1.0,10.0,KAN 34,9.0,7.0,"Josh Allen pass complete deep right to Gabriel Davis for 34 yards, touchdown",3.31,7.0,6.0,2022,92
+2.0,0:16,,,KAN 15,10.0,7.0,Tyler Bass kicks extra point good,0.0,0.0,6.0,2022,92
+2.0,0:16,,,BUF 35,10.0,7.0,"Tyler Bass kicks off 46 yards, returned by Michael Burton for 9 yards (tackle by Cameron Lewis and Terrel Bernard)",0.0,0.81,6.0,2022,92
+2.0,0:12,,,,,,Timeout #3 by Buffalo Bills,,,6.0,2022,92
+2.0,0:12,1.0,10.0,KAN 28,10.0,7.0,Patrick Mahomes pass complete short right to Jerick McKinnon for 19 yards (tackle by Damar Hamlin),0.81,2.06,6.0,2022,92
+2.0,0:01,1.0,10.0,KAN 47,10.0,7.0,Patrick Mahomes pass complete short left to Travis Kelce for 9 yards (tackle by Tremaine Edmunds),2.06,2.73,6.0,2022,92
+2.0,0:01,2.0,1.0,BUF 44,10.0,10.0,Harrison Butker 62 yard field goal good,2.73,3.0,6.0,2022,92
+3.0,15:00,,,BUF 35,10.0,10.0,"Tyler Bass kicks off 64 yards, returned by Isiah Pacheco for 15 yards (tackle by Terrel Bernard)",0.0,-0.14,6.0,2022,92
+3.0,14:55,1.0,10.0,KAN 16,10.0,10.0,Clyde Edwards-Helaire left guard for 11 yards (tackle by Damar Hamlin),-0.14,0.74,6.0,2022,92
+3.0,14:24,1.0,10.0,KAN 27,10.0,10.0,Clyde Edwards-Helaire up the middle for 1 yard (tackle by DaQuan Jones),0.74,0.33,6.0,2022,92
+3.0,13:52,2.0,9.0,KAN 28,10.0,10.0,Patrick Mahomes pass incomplete short left intended for Marquez Valdes-Scantling,0.33,-0.36,6.0,2022,92
+3.0,13:46,3.0,9.0,KAN 28,10.0,10.0,Patrick Mahomes pass complete short right to Skyy Moore for 24 yards (tackle by Taron Johnson),-0.36,2.39,6.0,2022,92
+3.0,13:07,1.0,10.0,BUF 48,10.0,10.0,Patrick Mahomes pass incomplete short left,2.39,1.85,6.0,2022,92
+3.0,13:00,2.0,10.0,BUF 48,10.0,10.0,Clyde Edwards-Helaire right guard for 3 yards (tackle by Tremaine Edmunds and Taron Johnson),1.85,1.55,6.0,2022,92
+3.0,12:23,3.0,7.0,BUF 45,10.0,10.0,Patrick Mahomes pass complete short right to Travis Kelce for 8 yards (tackle by Siran Neal),1.55,3.12,6.0,2022,92
+3.0,11:42,1.0,10.0,BUF 37,10.0,10.0,Patrick Mahomes pass complete short right to Noah Gray for 3 yards (tackle by Tremaine Edmunds),3.12,2.98,6.0,2022,92
+3.0,11:06,2.0,7.0,BUF 34,10.0,10.0,Patrick Mahomes pass incomplete short left,2.98,2.28,6.0,2022,92
+3.0,11:01,,,,,,Timeout #1 by Kansas City Chiefs,,,6.0,2022,92
+3.0,11:01,3.0,7.0,BUF 34,10.0,10.0,Patrick Mahomes pass complete to Jerick McKinnon for 1 yard (tackle by Kaiir Elam and Taron Johnson),2.28,1.16,6.0,2022,92
+3.0,10:20,4.0,6.0,BUF 33,10.0,10.0,Harrison Butker 51 yard field goal no good,1.16,-1.66,6.0,2022,92
+3.0,10:15,1.0,10.0,BUF 41,10.0,10.0,Devin Singletary right end for -1 yards (tackle by Nick Bolton),1.66,0.99,6.0,2022,92
+3.0,9:35,2.0,11.0,BUF 40,10.0,10.0,Josh Allen pass complete deep left to Dawson Knox for 20 yards (tackle by Juan Thornhill),0.99,2.92,6.0,2022,92
+3.0,9:08,1.0,10.0,KAN 40,10.0,10.0,Josh Allen pass complete short left to Devin Singletary for 5 yards (tackle by Jaylen Watson),2.92,3.05,6.0,2022,92
+3.0,8:31,2.0,5.0,KAN 35,10.0,10.0,Josh Allen pass complete short right to Stefon Diggs for 13 yards (tackle by Joshua Williams and George Karlaftis),3.05,4.11,6.0,2022,92
+3.0,7:48,1.0,10.0,KAN 22,10.0,10.0,Devin Singletary right end for 5 yards (tackle by Darius Harris),4.11,4.29,6.0,2022,92
+3.0,7:08,2.0,5.0,KAN 17,16.0,10.0,"Josh Allen pass complete deep right to Stefon Diggs for 17 yards, touchdown",4.29,7.0,6.0,2022,92
+3.0,7:02,,,KAN 15,17.0,10.0,Tyler Bass kicks extra point good,0.0,0.0,6.0,2022,92
+3.0,7:02,,,BUF 35,17.0,10.0,"Tyler Bass kicks off 58 yards, returned by Isiah Pacheco for 10 yards (tackle by Terrel Bernard)",0.0,-0.06,6.0,2022,92
+3.0,6:56,1.0,10.0,KAN 17,17.0,10.0,Patrick Mahomes pass complete short left to Travis Kelce for 23 yards (tackle by Tremaine Edmunds and Jordan Poyer),-0.06,1.6,6.0,2022,92
+3.0,6:18,1.0,10.0,KAN 40,17.0,10.0,Patrick Mahomes pass complete short middle to JuJu Smith-Schuster for 41 yards (tackle by Taron Johnson),1.6,4.31,6.0,2022,92
+3.0,5:33,1.0,10.0,BUF 19,17.0,10.0,Clyde Edwards-Helaire right end for no gain (tackle by DaQuan Jones),4.31,3.75,6.0,2022,92
+3.0,4:52,2.0,10.0,BUF 19,17.0,10.0,Patrick Mahomes scrambles right end for 10 yards (tackle by Dane Jackson),3.75,5.14,6.0,2022,92
+3.0,4:17,1.0,9.0,BUF 9,17.0,10.0,Travis Kelce up the middle for 4 yards (tackle by Shaq Lawson),5.14,5.15,6.0,2022,92
+3.0,3:40,2.0,5.0,BUF 5,17.0,10.0,Patrick Mahomes scrambles up the middle for 2 yards (tackle by Kaiir Elam and Tremaine Edmunds),5.15,4.72,6.0,2022,92
+3.0,2:50,3.0,3.0,BUF 3,17.0,16.0,"Patrick Mahomes pass complete short middle to Mecole Hardman for 3 yards, touchdown",4.72,7.0,6.0,2022,92
+3.0,2:44,,,BUF 15,17.0,17.0,Harrison Butker kicks extra point good,0.0,0.0,6.0,2022,92
+3.0,2:44,,,KAN 35,17.0,17.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,6.0,2022,92
+3.0,2:44,1.0,10.0,BUF 25,17.0,17.0,Josh Allen pass complete short left to Isaiah McKenzie for 4 yards (tackle by L'Jarius Sneed),0.61,0.6,6.0,2022,92
+3.0,2:08,2.0,6.0,BUF 29,17.0,17.0,Josh Allen pass complete short right to Tommy Sweeney for 7 yards (tackle by Joshua Williams),0.6,1.33,6.0,2022,92
+3.0,1:21,1.0,10.0,BUF 36,17.0,17.0,Josh Allen pass complete short left to Reggie Gilliam for 11 yards (tackle by Nick Bolton),1.33,2.06,6.0,2022,92
+3.0,0:44,1.0,10.0,BUF 47,17.0,17.0,Josh Allen pass complete short right to Stefon Diggs for 5 yards (tackle by Joshua Williams and L'Jarius Sneed),2.06,2.19,6.0,2022,92
+3.0,0:07,2.0,5.0,KAN 48,17.0,17.0,James Cook right guard for 4 yards (tackle by Justin Reid and Darius Harris),2.19,2.02,6.0,2022,92
+4.0,15:00,3.0,1.0,KAN 44,17.0,17.0,Devin Singletary up the middle for -2 yards (tackle by Darius Harris),2.02,0.2,6.0,2022,92
+4.0,14:18,4.0,3.0,KAN 46,17.0,17.0,Josh Allen pass incomplete deep left intended for Stefon Diggs,0.2,-1.99,6.0,2022,92
+4.0,14:12,1.0,10.0,KAN 46,17.0,17.0,Clyde Edwards-Helaire right end for 2 yards (tackle by Matt Milano),1.99,1.72,6.0,2022,92
+4.0,13:39,2.0,8.0,KAN 48,17.0,17.0,Patrick Mahomes pass complete short middle to Travis Kelce for 10 yards (tackle by Jordan Poyer),1.72,2.79,6.0,2022,92
+4.0,12:55,1.0,10.0,BUF 42,17.0,17.0,"Patrick Mahomes pass complete deep right to Travis Kelce for no gain (tackle by Kaiir Elam). Penalty on Travis Kelce: Offensive Pass Interference, 10 yards (accepted) (no play)",2.79,2.13,6.0,2022,92
+4.0,12:47,1.0,20.0,KAN 48,17.0,17.0,Patrick Mahomes pass complete short right to Noah Gray for 7 yards (tackle by Christian Benford),2.13,1.84,6.0,2022,92
+4.0,12:17,2.0,13.0,BUF 45,17.0,17.0,Patrick Mahomes pass complete deep right to Travis Kelce for 19 yards (tackle by Cameron Lewis),1.84,3.84,6.0,2022,92
+4.0,11:30,1.0,10.0,BUF 26,17.0,17.0,Patrick Mahomes pass incomplete short left intended for Michael Burton,3.84,3.3,6.0,2022,92
+4.0,11:26,2.0,10.0,BUF 26,17.0,17.0,Patrick Mahomes pass complete to Isiah Pacheco for -3 yards (tackle by Matt Milano),3.3,2.21,6.0,2022,92
+4.0,10:43,3.0,13.0,BUF 29,17.0,17.0,Patrick Mahomes scrambles left end for 3 yards (tackle by Von Miller),2.21,1.74,6.0,2022,92
+4.0,9:53,4.0,10.0,BUF 26,17.0,20.0,Harrison Butker 44 yard field goal good,1.74,3.0,6.0,2022,92
+4.0,9:49,,,KAN 35,17.0,20.0,"Harrison Butker kicks off 67 yards, returned by Isaiah McKenzie for 26 yards (tackle by Deon Bush and Jack Cochrane)",0.0,0.54,6.0,2022,92
+4.0,9:44,1.0,10.0,BUF 24,17.0,20.0,Josh Allen pass complete short right to Devin Singletary for 11 yards (tackle by Darius Harris),0.54,1.27,6.0,2022,92
+4.0,9:13,1.0,10.0,BUF 35,17.0,20.0,Devin Singletary left guard for no gain (tackle by Frank Clark),1.27,0.72,6.0,2022,92
+4.0,8:36,2.0,10.0,BUF 35,17.0,20.0,Josh Allen pass incomplete short left intended for Stefon Diggs (defended by Joshua Williams),0.72,0.04,6.0,2022,92
+4.0,8:30,3.0,10.0,BUF 35,17.0,20.0,Josh Allen sacked by Chris Jones for -11 yards,0.04,-1.77,6.0,2022,92
+4.0,7:53,4.0,21.0,BUF 24,17.0,20.0,"Sam Martin punts 63 yards, recovered by Mecole Hardman at KC-13, returned by Mecole Hardman for 10 yards (tackle by Quintin Morris)",-1.77,-0.48,6.0,2022,92
+4.0,7:36,1.0,10.0,KAN 23,17.0,20.0,Patrick Mahomes pass complete short left to Travis Kelce for 3 yards (tackle by Jordan Poyer),0.48,0.34,6.0,2022,92
+4.0,7:02,2.0,7.0,KAN 26,17.0,20.0,Jerick McKinnon left end for 1 yard (tackle by Gregory Rousseau and Tremaine Edmunds),0.34,-0.23,6.0,2022,92
+4.0,6:21,3.0,6.0,KAN 27,17.0,20.0,Patrick Mahomes sacked by Von Miller for -5 yards,-0.23,-1.9,6.0,2022,92
+4.0,5:44,4.0,11.0,KAN 22,17.0,20.0,"Tommy Townsend punts 60 yards, returned by Khalil Shakir for 6 yards (tackle by Jack Cochrane)",-1.9,-0.54,6.0,2022,92
+4.0,5:31,1.0,10.0,BUF 24,17.0,20.0,Josh Allen pass complete short left to Reggie Gilliam for 8 yards (tackle by L'Jarius Sneed),0.54,1.08,6.0,2022,92
+4.0,4:52,2.0,2.0,BUF 32,17.0,20.0,Devin Singletary left end for 1 yard (tackle by Joshua Williams),1.08,0.5,6.0,2022,92
+4.0,4:07,3.0,1.0,BUF 33,17.0,20.0,Devin Singletary right end for no gain (tackle by Nick Bolton and L'Jarius Sneed),0.5,-1.18,6.0,2022,92
+4.0,3:46,4.0,1.0,BUF 33,17.0,20.0,Josh Allen up the middle for 2 yards (tackle by Frank Clark and Darius Harris),-1.18,1.27,6.0,2022,92
+4.0,3:06,1.0,10.0,BUF 35,17.0,20.0,Josh Allen pass complete short right to Stefon Diggs for 5 yards (tackle by Jaylen Watson),1.27,1.4,6.0,2022,92
+4.0,3:02,2.0,5.0,BUF 40,17.0,20.0,Josh Allen scrambles left end for 3 yards (tackle by Justin Reid),1.4,1.09,6.0,2022,92
+4.0,2:21,3.0,2.0,BUF 43,17.0,20.0,Josh Allen pass complete short left to Stefon Diggs for 11 yards (tackle by Joshua Williams),1.09,2.52,6.0,2022,92
+4.0,2:14,1.0,10.0,KAN 46,17.0,20.0,Josh Allen pass incomplete short right intended for Stefon Diggs (defended by Carlos Dunlap),2.52,1.98,6.0,2022,92
+4.0,2:11,2.0,10.0,KAN 46,17.0,20.0,Josh Allen pass complete deep right to Stefon Diggs for 18 yards (tackle by Jaylen Watson and Juan Thornhill),1.98,3.71,6.0,2022,92
+4.0,2:00,1.0,10.0,KAN 28,17.0,20.0,Josh Allen right end for 16 yards (tackle by Nick Bolton),3.71,4.78,6.0,2022,92
+4.0,1:53,1.0,10.0,KAN 12,17.0,20.0,Josh Allen left end for -2 yards (tackle by Frank Clark and L'Jarius Sneed),4.78,3.79,6.0,2022,92
+4.0,1:09,2.0,12.0,KAN 14,23.0,20.0,"Josh Allen pass complete short left to Dawson Knox for 14 yards, touchdown",3.79,7.0,6.0,2022,92
+4.0,1:04,,,KAN 15,24.0,20.0,Tyler Bass kicks extra point good,0.0,0.0,6.0,2022,92
+4.0,1:04,,,BUF 35,24.0,20.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.61,6.0,2022,92
+4.0,1:04,1.0,10.0,KAN 25,24.0,20.0,"Patrick Mahomes pass incomplete deep right intended for Mecole Hardman. Penalty on Siran Neal: Defensive Holding, 5 yards (accepted) (no play)",0.61,0.94,6.0,2022,92
+4.0,0:56,1.0,10.0,KAN 30,24.0,20.0,Patrick Mahomes pass short right intended for Skyy Moore is intercepted by Taron Johnson at KC-32 and returned for 2 yards (tackle by JuJu Smith-Schuster),0.94,-3.58,6.0,2022,92
+4.0,0:51,1.0,10.0,KAN 30,24.0,20.0,Devin Singletary left guard for 6 yards (tackle by Leo Chenal and Khalen Saunders),3.58,3.84,6.0,2022,92
+4.0,0:46,,,,,,Timeout #2 by Kansas City Chiefs,,,6.0,2022,92
+4.0,0:46,2.0,4.0,KAN 24,24.0,20.0,Josh Allen kneels for -4 yards,3.84,2.61,6.0,2022,92
+4.0,0:43,,,,,,Timeout #3 by Kansas City Chiefs,,,6.0,2022,92
+4.0,0:43,3.0,8.0,KAN 28,24.0,20.0,Josh Allen kneels for -4 yards,2.61,1.24,6.0,2022,92

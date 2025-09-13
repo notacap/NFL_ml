@@ -1,0 +1,171 @@
+Quarter,Time,Down,ToGo,Location,HOU,IND,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Texans won the coin toss and deferred, Colts to receive the opening kickoff.",,,18.0,2023,258
+1.0,15:00,,,HOU 35,0.0,0.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,258
+1.0,15:00,1.0,10.0,IND 25,0.0,0.0,Jonathan Taylor left tackle for 4 yards (tackle by Maliek Collins and Jalen Pitre),0.61,0.6,18.0,2023,258
+1.0,14:24,2.0,6.0,IND 29,0.0,0.0,"Jonathan Taylor right end for no gain (tackle by Christian Harris). Penalty on Desmond King: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",0.6,1.2,18.0,2023,258
+1.0,14:05,1.0,10.0,IND 34,0.0,0.0,Gardner Minshew pass complete short right to Michael Pittman for 5 yards,1.2,1.33,18.0,2023,258
+1.0,13:38,2.0,5.0,IND 39,0.0,0.0,Gardner Minshew pass complete short right to Michael Pittman for 7 yards (tackle by DeAndre Houston-Carson),1.33,1.99,18.0,2023,258
+1.0,13:02,1.0,10.0,IND 46,0.0,0.0,Gardner Minshew pass complete short left to Michael Pittman for 9 yards (tackle by Khalil Davis),1.99,2.67,18.0,2023,258
+1.0,12:30,2.0,1.0,HOU 45,0.0,0.0,Jonathan Taylor right guard for 3 yards (tackle by Kurt Hinish),2.67,2.79,18.0,2023,258
+1.0,11:51,1.0,10.0,HOU 42,0.0,0.0,Gardner Minshew scrambles left end for 9 yards (tackle by Blake Cashman),2.79,3.46,18.0,2023,258
+1.0,11:17,2.0,1.0,HOU 33,0.0,0.0,Jonathan Taylor up the middle for 13 yards (tackle by Blake Cashman and Steven Nelson),3.46,4.24,18.0,2023,258
+1.0,10:44,1.0,10.0,HOU 20,0.0,0.0,Jonathan Taylor left end for 4 yards (tackle by Teair Tart),4.24,4.28,18.0,2023,258
+1.0,10:07,2.0,6.0,HOU 16,0.0,0.0,Jonathan Taylor up the middle for 2 yards (tackle by Christian Harris),4.28,3.89,18.0,2023,258
+1.0,9:24,3.0,4.0,HOU 14,0.0,0.0,Gardner Minshew pass incomplete short right intended for Tyler Goodson,3.89,2.58,18.0,2023,258
+1.0,9:19,4.0,4.0,HOU 14,0.0,0.0,"Penalty on IND: Delay of Game, 5 yards (accepted) (no play)",2.58,2.18,18.0,2023,258
+1.0,9:19,4.0,9.0,HOU 19,0.0,3.0,Matt Gay 38 yard field goal good,2.18,3.0,18.0,2023,258
+1.0,9:15,,,IND 35,0.0,3.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,258
+1.0,9:15,1.0,10.0,HOU 25,6.0,3.0,"C.J. Stroud pass complete deep middle to Nico Collins for 75 yards, touchdown",0.61,7.0,18.0,2023,258
+1.0,9:06,,,IND 15,7.0,3.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,18.0,2023,258
+1.0,9:06,,,HOU 35,7.0,3.0,"Ka'imi Fairbairn kicks off 59 yards, returned by Josh Downs for 17 yards (tackle by Dare Ogunbowale)",0.0,0.48,18.0,2023,258
+1.0,9:02,1.0,10.0,IND 23,7.0,3.0,Gardner Minshew pass incomplete short left intended for Alec Pierce (defended by Steven Nelson),0.48,-0.07,18.0,2023,258
+1.0,8:58,2.0,10.0,IND 23,7.0,3.0,Gardner Minshew sacked by Christian Harris for -8 yards,-0.07,-2.15,18.0,2023,258
+1.0,8:19,3.0,18.0,IND 15,7.0,3.0,Jonathan Taylor up the middle for 10 yards (tackle by Blake Cashman and Jerry Hughes),-2.15,-1.7,18.0,2023,258
+1.0,7:30,4.0,8.0,IND 25,7.0,3.0,"Rigoberto Sanchez punts 51 yards, fair catch by Desmond King at HOU-24",-1.7,-0.54,18.0,2023,258
+1.0,7:23,1.0,10.0,HOU 24,7.0,3.0,Devin Singletary up the middle for 5 yards (tackle by DeForest Buckner and E.J. Speed),0.54,0.67,18.0,2023,258
+1.0,6:51,2.0,5.0,HOU 29,7.0,3.0,Devin Singletary up the middle for 2 yards (tackle by Ronnie Harrison and Zaire Franklin),0.67,0.23,18.0,2023,258
+1.0,6:14,3.0,3.0,HOU 31,7.0,3.0,C.J. Stroud scrambles up the middle for 4 yards (tackle by Ronnie Harrison),0.23,1.27,18.0,2023,258
+1.0,5:34,1.0,10.0,HOU 35,7.0,3.0,C.J. Stroud pass complete short left to Nico Collins for 6 yards,1.27,1.53,18.0,2023,258
+1.0,5:01,2.0,4.0,HOU 41,7.0,3.0,Devin Singletary left end for 2 yards (tackle by Segun Olubi),1.53,1.09,18.0,2023,258
+1.0,4:27,3.0,2.0,HOU 43,7.0,3.0,Devin Singletary up the middle for -1 yards (tackle by E.J. Speed and Jaylon Jones),1.09,-0.59,18.0,2023,258
+1.0,3:38,4.0,3.0,HOU 42,7.0,3.0,"Cameron Johnston punts 44 yards, fair catch by Josh Downs at IND-14",-0.59,0.28,18.0,2023,258
+1.0,3:31,1.0,10.0,IND 14,7.0,3.0,Jonathan Taylor left end for 14 yards (tackle by DeAndre Houston-Carson and Christian Harris),-0.28,0.81,18.0,2023,258
+1.0,2:55,1.0,10.0,IND 28,7.0,3.0,Gardner Minshew pass incomplete short middle intended for Alec Pierce,0.81,0.26,18.0,2023,258
+1.0,2:51,2.0,10.0,IND 28,7.0,3.0,Gardner Minshew pass incomplete short left intended for Will Mallory (defended by DeAndre Houston-Carson),0.26,-0.43,18.0,2023,258
+1.0,2:47,3.0,10.0,IND 28,7.0,3.0,"Gardner Minshew pass incomplete deep middle intended for Alec Pierce. Penalty on Braden Smith: Offensive Holding, 10 yards (declined)",-0.43,-1.5,18.0,2023,258
+1.0,2:40,4.0,10.0,IND 28,7.0,3.0,"Rigoberto Sanchez punts 52 yards, returned by Desmond King for 15 yards (tackle by Mo Alie-Cox and Kylen Granson)",-1.5,-1.27,18.0,2023,258
+1.0,2:29,1.0,10.0,HOU 35,7.0,3.0,C.J. Stroud pass incomplete deep right intended for Dalton Schultz,1.27,0.72,18.0,2023,258
+1.0,2:24,2.0,10.0,HOU 35,7.0,3.0,C.J. Stroud pass complete short right to Nico Collins for 12 yards (tackle by Julius Brents),0.72,2.06,18.0,2023,258
+1.0,1:51,1.0,10.0,HOU 47,7.0,3.0,Devin Singletary left tackle for 1 yard (tackle by DeForest Buckner and Grover Stewart),2.06,1.65,18.0,2023,258
+1.0,1:10,2.0,9.0,HOU 48,7.0,3.0,Devin Singletary right end for 4 yards (tackle by Nick Cross),1.65,1.49,18.0,2023,258
+1.0,0:27,3.0,5.0,IND 48,7.0,3.0,"Penalty on Laremy Tunsil: False Start, 5 yards (accepted) (no play)",1.49,0.83,18.0,2023,258
+1.0,0:21,3.0,10.0,HOU 47,7.0,3.0,C.J. Stroud pass complete short middle to Nico Collins for 7 yards (tackle by E.J. Speed),0.83,0.2,18.0,2023,258
+2.0,15:00,4.0,3.0,IND 46,7.0,3.0,Cameron Johnston punts 45 yards downed by D'Angelo Ross,0.2,0.38,18.0,2023,258
+2.0,14:51,1.0,10.0,IND 1,7.0,3.0,"Penalty on Teair Tart: Neutral Zone Infraction, 5 yards (accepted) (no play)",-0.38,-0.19,18.0,2023,258
+2.0,14:51,1.0,5.0,IND 6,7.0,3.0,Jonathan Taylor right tackle for 3 yards (tackle by Blake Cashman),-0.19,-0.2,18.0,2023,258
+2.0,14:11,2.0,2.0,IND 9,7.0,3.0,Jonathan Taylor up the middle for 6 yards (tackle by Christian Harris),-0.2,-0.22,18.0,2023,258
+2.0,13:35,1.0,10.0,IND 15,7.0,3.0,Jonathan Taylor up the middle for 2 yards (tackle by Jerry Hughes and Christian Harris),-0.22,-0.44,18.0,2023,258
+2.0,12:53,2.0,8.0,IND 17,7.0,3.0,Gardner Minshew pass complete short left to Jonathan Taylor for 6 yards (tackle by Denzel Perryman),-0.44,-0.39,18.0,2023,258
+2.0,12:09,3.0,2.0,IND 23,7.0,3.0,Jonathan Taylor right tackle for -1 yards (tackle by Maliek Collins),-0.39,-1.9,18.0,2023,258
+2.0,11:25,4.0,3.0,IND 22,7.0,3.0,"Rigoberto Sanchez punts 63 yards, returned by Desmond King for 15 yards (tackle by Segun Olubi)",-1.9,-0.94,18.0,2023,258
+2.0,11:11,1.0,10.0,HOU 30,7.0,3.0,Devin Singletary left guard for 1 yard (tackle by Segun Olubi),0.94,0.53,18.0,2023,258
+2.0,10:34,2.0,9.0,HOU 31,7.0,3.0,C.J. Stroud pass complete short right to John Metchie for 5 yards (tackle by Kenny Moore),0.53,0.5,18.0,2023,258
+2.0,9:53,3.0,4.0,HOU 36,7.0,3.0,C.J. Stroud pass complete short middle to Dalton Schultz for 5 yards (tackle by E.J. Speed),0.5,1.66,18.0,2023,258
+2.0,9:14,1.0,10.0,HOU 41,7.0,3.0,C.J. Stroud pass incomplete short left intended for Dalton Schultz,1.66,1.12,18.0,2023,258
+2.0,9:09,2.0,10.0,HOU 41,7.0,3.0,Devin Singletary up the middle for 3 yards (tackle by Grover Stewart and Zaire Franklin),1.12,0.83,18.0,2023,258
+2.0,8:30,3.0,7.0,HOU 44,7.0,3.0,C.J. Stroud pass complete short middle to Xavier Hutchinson for 6 yards (tackle by Kenny Moore),0.83,-0.06,18.0,2023,258
+2.0,7:58,4.0,1.0,HOU 50,7.0,3.0,"Penalty on Laremy Tunsil: False Start, 5 yards (accepted) (no play)",-0.06,-0.39,18.0,2023,258
+2.0,7:58,4.0,6.0,HOU 45,7.0,3.0,Cameron Johnston punts 44 yards out of bounds,-0.39,0.37,18.0,2023,258
+2.0,7:51,1.0,10.0,IND 11,7.0,3.0,Gardner Minshew pass incomplete deep middle intended for Mo Alie-Cox (defended by Derek Stingley),-0.37,-0.78,18.0,2023,258
+2.0,7:47,2.0,10.0,IND 11,7.0,3.0,Zack Moss up the middle for 6 yards (tackle by Christian Harris and Blake Cashman),-0.78,-0.72,18.0,2023,258
+2.0,7:07,3.0,4.0,IND 17,7.0,3.0,Gardner Minshew pass complete short right to Jonathan Taylor for 2 yards (tackle by Maliek Collins),-0.72,-2.14,18.0,2023,258
+2.0,6:33,4.0,2.0,IND 19,7.0,3.0,"Rigoberto Sanchez punts 50 yards, returned by Desmond King for 12 yards (tackle by Segun Olubi)",-2.14,-1.8,18.0,2023,258
+2.0,6:23,1.0,10.0,HOU 43,7.0,3.0,Devin Singletary right end for 7 yards (tackle by Zaire Franklin),1.8,2.2,18.0,2023,258
+2.0,5:41,2.0,3.0,IND 50,7.0,3.0,C.J. Stroud pass complete short left to Eric Saubert for 5 yards (tackle by Segun Olubi),2.2,2.59,18.0,2023,258
+2.0,5:04,1.0,10.0,IND 45,7.0,3.0,Devin Singletary up the middle for 6 yards (tackle by Segun Olubi),2.59,2.85,18.0,2023,258
+2.0,4:30,2.0,4.0,IND 39,7.0,3.0,Devin Singletary right end for 2 yards (tackle by Grover Stewart and Kwity Paye),2.85,2.41,18.0,2023,258
+2.0,3:52,3.0,2.0,IND 37,7.0,3.0,C.J. Stroud pass complete short left to Nico Collins for 29 yards (tackle by Jaylon Jones),2.41,5.37,18.0,2023,258
+2.0,3:10,1.0,8.0,IND 8,7.0,3.0,Devin Singletary left end for 4 yards (tackle by E.J. Speed),5.37,5.34,18.0,2023,258
+2.0,2:27,2.0,4.0,IND 4,7.0,3.0,Devin Singletary up the middle for 3 yards (tackle by Jaylon Jones and Samson Ebukam),5.34,5.17,18.0,2023,258
+2.0,2:00,3.0,1.0,IND 1,13.0,3.0,"C.J. Stroud pass complete short middle to Andrew Beck for 1 yard, touchdown",5.17,7.0,18.0,2023,258
+2.0,1:57,,,IND 15,14.0,3.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,18.0,2023,258
+2.0,1:57,,,HOU 35,14.0,3.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,258
+2.0,1:57,1.0,10.0,IND 25,14.0,3.0,Jonathan Taylor right tackle for 11 yards (tackle by DeAndre Houston-Carson and Blake Cashman),0.61,1.33,18.0,2023,258
+2.0,1:35,1.0,10.0,IND 36,14.0,3.0,Gardner Minshew pass complete deep right to Josh Downs for 16 yards (tackle by Jalen Pitre),1.33,2.39,18.0,2023,258
+2.0,1:11,1.0,10.0,HOU 48,14.0,3.0,Gardner Minshew pass complete short middle to Jonathan Taylor for no gain (tackle by Blake Cashman) (no play),2.39,2.97,18.0,2023,258
+2.0,1:04,1.0,6.0,HOU 44,14.0,3.0,"Gardner Minshew pass incomplete short right intended for Josh Downs. Penalty on Jalen Pitre: Illegal Contact, 5 yards (accepted) (no play)",2.97,2.98,18.0,2023,258
+2.0,0:59,1.0,10.0,HOU 39,14.0,3.0,"Penalty on Michael Pittman: False Start, 5 yards (accepted) (no play)",2.98,2.65,18.0,2023,258
+2.0,0:59,1.0,15.0,HOU 44,14.0,3.0,Gardner Minshew pass incomplete deep right intended for Michael Pittman,2.65,1.77,18.0,2023,258
+2.0,0:54,2.0,15.0,HOU 44,14.0,3.0,Gardner Minshew pass incomplete deep left intended for Mo Alie-Cox,1.77,1.09,18.0,2023,258
+2.0,0:48,3.0,15.0,HOU 44,14.0,3.0,Jonathan Taylor up the middle for 10 yards (tackle by Jalen Pitre),1.09,1.07,18.0,2023,258
+2.0,0:40,,,,,,Timeout #1 by Houston Texans,,,18.0,2023,258
+2.0,0:40,4.0,5.0,HOU 34,14.0,6.0,Matt Gay 52 yard field goal good,1.07,3.0,18.0,2023,258
+2.0,0:35,,,IND 35,14.0,6.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,258
+2.0,0:35,1.0,10.0,HOU 25,14.0,6.0,"Penalty on Xavier Hutchinson: False Start, 5 yards (accepted) (no play)",0.61,0.28,18.0,2023,258
+2.0,0:35,1.0,15.0,HOU 20,14.0,6.0,Devin Singletary left guard for no gain (tackle by DeForest Buckner and Samson Ebukam),0.28,-0.61,18.0,2023,258
+2.0,0:30,,,,,,Timeout #1 by Indianapolis Colts,,,18.0,2023,258
+2.0,0:30,2.0,15.0,HOU 20,14.0,6.0,Devin Singletary left end for 3 yards (tackle by E.J. Speed and DeForest Buckner),-0.61,-0.89,18.0,2023,258
+2.0,0:23,,,,,,Timeout #2 by Indianapolis Colts,,,18.0,2023,258
+2.0,0:23,3.0,12.0,HOU 23,14.0,6.0,C.J. Stroud pass incomplete short left intended for Xavier Hutchinson,-0.89,-1.83,18.0,2023,258
+2.0,0:18,4.0,12.0,HOU 23,14.0,6.0,"Cameron Johnston punts 53 yards, returned by Josh Downs for 10 yards (tackle by Jake Hansen)",-1.83,-1.2,18.0,2023,258
+2.0,0:07,1.0,10.0,IND 34,14.0,6.0,Gardner Minshew pass incomplete short right,1.2,0.66,18.0,2023,258
+3.0,15:00,,,IND 35,14.0,6.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,258
+3.0,15:00,1.0,10.0,HOU 25,14.0,6.0,C.J. Stroud pass complete deep left to Nico Collins for 23 yards (tackle by Julius Brents),0.61,2.13,18.0,2023,258
+3.0,14:17,1.0,10.0,HOU 48,14.0,6.0,C.J. Stroud pass complete short right to Devin Singletary for 2 yards (tackle by E.J. Speed),2.13,1.85,18.0,2023,258
+3.0,13:30,2.0,8.0,IND 50,14.0,6.0,"Penalty on Eric Saubert: False Start, 5 yards (accepted) (no play)",1.85,1.18,18.0,2023,258
+3.0,13:16,2.0,13.0,HOU 45,14.0,6.0,C.J. Stroud sacked by DeForest Buckner for -8 yards,1.18,-0.56,18.0,2023,258
+3.0,12:34,3.0,21.0,HOU 37,14.0,6.0,C.J. Stroud pass complete short left to Nico Collins for 6 yards (tackle by Samson Ebukam),-0.56,-0.52,18.0,2023,258
+3.0,11:56,4.0,15.0,HOU 43,14.0,6.0,"Cameron Johnston punts 50 yards, returned by Josh Downs for 6 yards (tackle by Neville Hewitt)",-0.52,0.32,18.0,2023,258
+3.0,11:46,1.0,10.0,IND 13,14.0,6.0,Jonathan Taylor right guard for 11 yards (tackle by Blake Cashman and Jalen Pitre),-0.32,0.54,18.0,2023,258
+3.0,11:09,1.0,10.0,IND 24,14.0,6.0,Jonathan Taylor up the middle for 4 yards (tackle by Kurt Hinish and Denzel Perryman),0.54,0.54,18.0,2023,258
+3.0,10:32,2.0,6.0,IND 28,14.0,6.0,Gardner Minshew pass complete deep middle to Kylen Granson for 23 yards (tackle by Steven Nelson),0.54,2.32,18.0,2023,258
+3.0,10:06,1.0,10.0,HOU 49,14.0,12.0,"Jonathan Taylor right guard for 49 yards, touchdown",2.32,7.0,18.0,2023,258
+3.0,9:56,,,HOU 2,14.0,14.0,Two Point Attempt: Gardner Minshew pass complete to to Mo Alie-Cox for no gain,1.0,1.0,18.0,2023,258
+3.0,9:56,,,IND 35,14.0,14.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,258
+3.0,9:56,1.0,10.0,HOU 25,14.0,14.0,Devin Singletary up the middle for 2 yards (tackle by E.J. Speed and Grover Stewart),0.61,0.33,18.0,2023,258
+3.0,9:17,2.0,8.0,HOU 27,14.0,14.0,C.J. Stroud pass incomplete short left intended for John Metchie,0.33,-0.36,18.0,2023,258
+3.0,9:13,3.0,8.0,HOU 27,14.0,14.0,C.J. Stroud pass incomplete deep right intended for Xavier Hutchinson,-0.36,-1.57,18.0,2023,258
+3.0,9:08,4.0,8.0,HOU 27,14.0,14.0,"Cameron Johnston punts 62 yards, returned by Josh Downs for 9 yards (tackle by Neville Hewitt)",-1.57,-0.28,18.0,2023,258
+3.0,8:58,1.0,10.0,IND 20,14.0,14.0,Zack Moss right tackle for 7 yards (tackle by Sheldon Rankins),0.28,0.68,18.0,2023,258
+3.0,8:22,2.0,3.0,IND 27,14.0,14.0,Zack Moss right tackle for 11 yards (tackle by DeAndre Houston-Carson and Derek Stingley),0.68,1.47,18.0,2023,258
+3.0,7:39,1.0,10.0,IND 38,14.0,14.0,Jonathan Taylor left guard for 22 yards (tackle by Christian Harris),1.47,2.92,18.0,2023,258
+3.0,7:13,1.0,10.0,HOU 40,14.0,14.0,Jonathan Taylor up the middle for 1 yard (tackle by Jalen Pitre and Blake Cashman),2.92,2.51,18.0,2023,258
+3.0,6:32,2.0,9.0,HOU 39,14.0,14.0,Jonathan Taylor up the middle for no gain (tackle by Denzel Perryman and Kurt Hinish),2.51,1.82,18.0,2023,258
+3.0,5:47,3.0,9.0,HOU 39,14.0,14.0,Gardner Minshew pass incomplete short middle intended for Alec Pierce (defended by Maliek Collins),1.82,0.66,18.0,2023,258
+3.0,5:42,4.0,9.0,HOU 39,14.0,14.0,Matt Gay 57 yard field goal no good,0.66,-2.06,18.0,2023,258
+3.0,5:37,1.0,10.0,HOU 47,14.0,14.0,C.J. Stroud scrambles right end for 12 yards (tackle by E.J. Speed),2.06,2.85,18.0,2023,258
+3.0,4:57,1.0,10.0,IND 41,14.0,14.0,Devin Singletary up the middle for 4 yards (tackle by DeForest Buckner and Zaire Franklin),2.85,2.85,18.0,2023,258
+3.0,4:20,2.0,6.0,IND 37,14.0,14.0,C.J. Stroud scrambles left end for 4 yards (tackle by Zaire Franklin),2.85,2.68,18.0,2023,258
+3.0,3:51,3.0,2.0,IND 33,14.0,14.0,C.J. Stroud pass incomplete deep middle intended for Xavier Hutchinson (defended by Darrell Baker),2.68,1.2,18.0,2023,258
+3.0,3:44,4.0,2.0,IND 33,17.0,14.0,Ka'imi Fairbairn 51 yard field goal good,1.2,3.0,18.0,2023,258
+3.0,3:39,,,HOU 35,17.0,14.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,258
+3.0,3:39,1.0,10.0,IND 25,17.0,14.0,Jonathan Taylor left tackle for 1 yard (tackle by Blake Cashman and Christian Harris),0.61,0.2,18.0,2023,258
+3.0,3:03,2.0,9.0,IND 26,17.0,14.0,Gardner Minshew pass complete short middle to Mo Alie-Cox for 12 yards (tackle by Denzel Perryman),0.2,1.47,18.0,2023,258
+3.0,2:23,1.0,10.0,IND 38,17.0,14.0,Jonathan Taylor up the middle for -4 yards (tackle by Khalil Davis),1.47,0.38,18.0,2023,258
+3.0,1:43,2.0,14.0,IND 34,17.0,14.0,Gardner Minshew pass complete deep left to Michael Pittman for 18 yards (tackle by Desmond King),0.38,2.39,18.0,2023,258
+3.0,1:37,1.0,10.0,HOU 48,17.0,14.0,"Penalty on Desmond King: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",2.39,3.38,18.0,2023,258
+3.0,1:27,1.0,10.0,HOU 33,17.0,14.0,Gardner Minshew pass complete short left to Michael Pittman for 5 yards (tackle by Kareem Jackson),3.38,3.51,18.0,2023,258
+3.0,0:48,2.0,5.0,HOU 28,17.0,14.0,"Zack Moss up the middle for 4 yards (tackle by Denzel Perryman and Christian Harris) IND challenged the short of the line to gain ruling, and the original play was overturned. Zack Moss up the middle for 5 yards and Denzel Perryman and Christian Harris)",3.51,4.04,18.0,2023,258
+3.0,0:26,1.0,10.0,HOU 23,17.0,14.0,Zack Moss up the middle for -1 yards (tackle by Derek Barnett),4.04,3.36,18.0,2023,258
+4.0,15:00,2.0,11.0,HOU 24,17.0,14.0,Zack Moss up the middle for 2 yards (tackle by Christian Harris),3.36,2.94,18.0,2023,258
+4.0,14:20,3.0,9.0,HOU 22,17.0,14.0,Gardner Minshew pass complete short middle to Mo Alie-Cox for 6 yards (tackle by Blake Cashman and Desmond King),2.94,2.48,18.0,2023,258
+4.0,13:37,4.0,3.0,HOU 16,17.0,17.0,Matt Gay 35 yard field goal good,2.48,3.0,18.0,2023,258
+4.0,13:33,,,IND 35,17.0,17.0,"Matt Gay kicks off 68 yards, returned by Dameon Pierce for 30 yards (tackle by Trevor Denbow and Cameron McGrone)",0.0,0.74,18.0,2023,258
+4.0,13:27,1.0,10.0,HOU 27,17.0,17.0,C.J. Stroud pass complete short right to Andrew Beck for 8 yards (tackle by Segun Olubi),0.74,1.28,18.0,2023,258
+4.0,12:51,2.0,2.0,HOU 35,17.0,17.0,Devin Singletary up the middle for 3 yards (tackle by Grover Stewart and Taven Bryan),1.28,1.47,18.0,2023,258
+4.0,12:10,1.0,10.0,HOU 38,17.0,17.0,C.J. Stroud sacked by Ronnie Harrison for -10 yards,1.47,-0.43,18.0,2023,258
+4.0,11:26,2.0,20.0,HOU 28,17.0,17.0,C.J. Stroud pass complete short right to Dalton Schultz for 17 yards (tackle by Zaire Franklin and Nick Cross),-0.43,1.16,18.0,2023,258
+4.0,10:54,3.0,3.0,HOU 45,17.0,17.0,C.J. Stroud pass complete short right to Dalton Schultz for 5 yards (tackle by E.J. Speed),1.16,2.26,18.0,2023,258
+4.0,10:19,1.0,10.0,IND 50,17.0,17.0,"Devin Singletary left end for no gain (tackle by Nick Cross). Penalty on Andrew Beck: Offensive Holding, 10 yards (accepted) (no play)",2.26,1.6,18.0,2023,258
+4.0,10:06,1.0,20.0,HOU 40,17.0,17.0,C.J. Stroud pass complete short middle to Dalton Schultz for 6 yards (tackle by E.J. Speed),1.6,1.17,18.0,2023,258
+4.0,9:43,2.0,14.0,HOU 46,17.0,17.0,C.J. Stroud pass complete short right to Nico Collins for 14 yards,1.17,2.92,18.0,2023,258
+4.0,8:49,1.0,10.0,IND 40,17.0,17.0,C.J. Stroud pass complete short left to Dalton Schultz for 9 yards (tackle by Nick Cross),2.92,3.59,18.0,2023,258
+4.0,8:03,2.0,1.0,IND 31,17.0,17.0,Devin Singletary left guard for 4 yards (tackle by Zaire Franklin and Ronnie Harrison),3.59,3.78,18.0,2023,258
+4.0,7:24,1.0,10.0,IND 27,17.0,17.0,Devin Singletary left tackle for -3 yards (tackle by E.J. Speed),3.78,2.83,18.0,2023,258
+4.0,6:45,2.0,13.0,IND 30,17.0,17.0,C.J. Stroud pass complete deep middle to Nico Collins for 23 yards (tackle by Ronnie Harrison),2.83,5.6,18.0,2023,258
+4.0,6:38,1.0,7.0,IND 7,17.0,17.0,"Penalty on Ronnie Harrison: Horse Collar Tackle, 4 yards (accepted) (no play)",5.6,6.51,18.0,2023,258
+4.0,6:23,1.0,3.0,IND 3,23.0,17.0,"Devin Singletary up the middle for 3 yards, touchdown",6.51,7.0,18.0,2023,258
+4.0,6:20,,,IND 15,23.0,17.0,Ka'imi Fairbairn kicks extra point no good,0.0,-1.0,18.0,2023,258
+4.0,6:20,,,HOU 35,23.0,17.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,258
+4.0,6:20,1.0,10.0,IND 25,23.0,17.0,Jonathan Taylor right tackle for -1 yards (tackle by Jalen Pitre),0.61,-0.07,18.0,2023,258
+4.0,5:45,2.0,11.0,IND 24,23.0,17.0,Gardner Minshew pass complete short left to Josh Downs for 28 yards (tackle by Desmond King),-0.07,2.39,18.0,2023,258
+4.0,4:59,1.0,10.0,HOU 48,23.0,17.0,Jonathan Taylor right guard for no gain (tackle by Will Anderson and Derek Barnett),2.39,1.85,18.0,2023,258
+4.0,4:24,2.0,10.0,HOU 48,23.0,17.0,Gardner Minshew pass complete short middle to Josh Downs for 4 yards (tackle by Denzel Perryman),1.85,1.69,18.0,2023,258
+4.0,3:46,3.0,6.0,HOU 44,23.0,17.0,Jonathan Taylor up the middle for 5 yards (tackle by Derek Barnett),1.69,0.66,18.0,2023,258
+4.0,3:41,4.0,1.0,HOU 39,23.0,17.0,"Penalty on Maliek Collins: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",0.66,3.31,18.0,2023,258
+4.0,3:41,1.0,10.0,HOU 34,23.0,17.0,Jonathan Taylor up the middle for 5 yards (tackle by Christian Harris),3.31,3.45,18.0,2023,258
+4.0,2:59,2.0,5.0,HOU 29,23.0,17.0,Jonathan Taylor right end for no gain (tackle by Derek Barnett and Jalen Pitre),3.45,2.74,18.0,2023,258
+4.0,2:27,3.0,5.0,HOU 29,23.0,17.0,Jonathan Taylor up the middle for 5 yards (tackle by Desmond King and Blake Cashman),2.74,3.97,18.0,2023,258
+4.0,2:00,1.0,10.0,HOU 24,23.0,17.0,Jonathan Taylor right end for 2 yards (tackle by Christian Harris),3.97,3.7,18.0,2023,258
+4.0,1:54,2.0,8.0,HOU 22,23.0,17.0,Jonathan Taylor left end for 6 yards (tackle by Blake Cashman and Desmond King),3.7,3.95,18.0,2023,258
+4.0,1:48,3.0,2.0,HOU 16,23.0,17.0,Jonathan Taylor up the middle for 1 yard (tackle by Blake Cashman),3.95,2.59,18.0,2023,258
+4.0,1:06,,,,,,Timeout #1 by Indianapolis Colts,,,18.0,2023,258
+4.0,1:06,4.0,1.0,HOU 15,23.0,17.0,Gardner Minshew pass incomplete short left intended for Tyler Goodson,2.59,0.22,18.0,2023,258
+4.0,1:03,1.0,10.0,HOU 15,23.0,17.0,Devin Singletary up the middle for 3 yards (tackle by Kwity Paye and Zaire Franklin),-0.22,-0.28,18.0,2023,258
+4.0,0:58,,,,,,Timeout #2 by Indianapolis Colts,,,18.0,2023,258
+4.0,0:58,2.0,7.0,HOU 18,23.0,17.0,Devin Singletary up the middle for 1 yard (tackle by E.J. Speed and Zaire Franklin),-0.28,-0.88,18.0,2023,258
+4.0,0:54,,,,,,Timeout #3 by Indianapolis Colts,,,18.0,2023,258
+4.0,0:54,3.0,6.0,HOU 19,23.0,17.0,Devin Singletary right tackle for 4 yards (tackle by Segun Olubi),-0.88,-1.83,18.0,2023,258
+4.0,0:08,,,,,,Timeout #1 by Houston Texans,,,18.0,2023,258
+4.0,0:08,4.0,2.0,HOU 23,23.0,19.0,Cameron Johnston up the middle for -23 yards (tackle by Ameer Speed),-1.83,-2.0,18.0,2023,258
+4.0,0:01,,,HOU 20,23.0,19.0,"Cameron Johnston kicks off 67 yards, returned by Josh Downs for 7 yards, lateral to Michael Pittman for 5 yards. Michael Pittman fumbles (forced by Dare Ogunbowale), recovered by Henry To'oTo'o at IND-27",0.0,4.24,18.0,2023,258

@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,NYJ 31,3,1:28,9,Punt,0,Jets,2.0,2022,19
+2,1,4:55,NYJ 25,13,6:49,75,Touchdown,0,Jets,2.0,2022,19
+3,2,8:17,NYJ 30,8,4:53,49,Fumble,0,Jets,2.0,2022,19
+4,2,1:05,NYJ 46,8,0:54,54,Touchdown,0,Jets,2.0,2022,19
+5,3,9:58,NYJ 25,9,3:57,22,Punt,0,Jets,2.0,2022,19
+6,3,4:04,NYJ 10,9,4:45,51,Field Goal,0,Jets,2.0,2022,19
+7,4,9:21,NYJ 32,3,1:44,6,Punt,0,Jets,2.0,2022,19
+8,4,4:07,NYJ 8,3,1:37,2,Punt,0,Jets,2.0,2022,19
+9,4,1:55,NYJ 25,2,0:33,75,Touchdown,0,Jets,2.0,2022,19
+10,4,1:22,NYJ 47,9,1:00,53,Touchdown,0,Jets,2.0,2022,19
+11,4,0:06,,1,0:06,-1,End of Game,0,Jets,2.0,2022,19

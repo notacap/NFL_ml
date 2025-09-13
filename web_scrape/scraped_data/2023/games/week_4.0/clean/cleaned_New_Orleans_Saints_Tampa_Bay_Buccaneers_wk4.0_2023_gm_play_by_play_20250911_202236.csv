@@ -1,0 +1,177 @@
+Quarter,Time,Down,ToGo,Location,TAM,NOR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Buccaneers won the coin toss and deferred, Saints to receive the opening kickoff.",,,4.0,2023,58
+1.0,15:00,,,TAM 35,0.0,0.0,"Jake Camarda kicks off 62 yards, returned by Rashid Shaheed for 22 yards (tackle by Ryan Neal)",0.0,0.61,4.0,2023,58
+1.0,14:56,1.0,10.0,NOR 25,0.0,0.0,Derek Carr pass complete short right to Alvin Kamara for no gain (tackle by Lavonte David and Antoine Winfield),0.61,0.06,4.0,2023,58
+1.0,14:22,2.0,10.0,NOR 25,0.0,0.0,Derek Carr pass complete short left to Rashid Shaheed for 12 yards (tackle by Ryan Neal),0.06,1.4,4.0,2023,58
+1.0,14:05,1.0,10.0,NOR 37,0.0,0.0,Taysom Hill pass complete short right to Michael Thomas for 13 yards (tackle by Carlton Davis),1.4,2.26,4.0,2023,58
+1.0,13:18,1.0,10.0,TAM 50,0.0,0.0,Alvin Kamara left tackle for 5 yards (tackle by Devin White),2.26,2.32,4.0,2023,58
+1.0,12:48,2.0,6.0,TAM 45,0.0,0.0,Alvin Kamara right guard for 4 yards (tackle by Shaquil Barrett),2.32,2.21,4.0,2023,58
+1.0,12:11,3.0,1.0,TAM 41,0.0,0.0,Derek Carr pass incomplete deep right intended for Rashid Shaheed,2.21,0.53,4.0,2023,58
+1.0,12:05,4.0,1.0,TAM 41,0.0,0.0,Taysom Hill up the middle for 2 yards (tackle by Lavonte David and Joe Tryon-Shoyinka),0.53,2.98,4.0,2023,58
+1.0,11:31,1.0,10.0,TAM 39,0.0,0.0,"Derek Carr pass incomplete. Penalty on Mike Greene: Roughing the Passer, 15 yards (accepted) (no play)",2.98,3.97,4.0,2023,58
+1.0,11:27,1.0,10.0,TAM 24,0.0,0.0,Derek Carr pass complete short right to Alvin Kamara for 5 yards (tackle by Greg Gaines and Anthony Nelson),3.97,4.12,4.0,2023,58
+1.0,10:49,2.0,5.0,TAM 19,0.0,0.0,Derek Carr pass complete short middle to Alvin Kamara for -7 yards (tackle by YaYa Diaby),4.12,2.48,4.0,2023,58
+1.0,10:03,3.0,12.0,TAM 26,0.0,0.0,Derek Carr pass complete short right to Taysom Hill for 7 yards (tackle by Shaquil Barrett),2.48,2.24,4.0,2023,58
+1.0,9:23,4.0,5.0,TAM 19,0.0,3.0,Blake Grupe 37 yard field goal good,2.24,3.0,4.0,2023,58
+1.0,9:20,,,NOR 35,0.0,3.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,58
+1.0,9:20,1.0,10.0,TAM 25,0.0,3.0,Baker Mayfield pass complete deep left to Mike Evans for 18 yards (tackle by Marshon Lattimore),0.61,1.8,4.0,2023,58
+1.0,8:43,1.0,10.0,TAM 43,0.0,3.0,Rachaad White right tackle for 4 yards (tackle by Zack Baun),1.8,1.79,4.0,2023,58
+1.0,8:16,2.0,6.0,TAM 47,0.0,3.0,Baker Mayfield pass complete short right to Chris Godwin for 5 yards (tackle by Zack Baun),1.79,1.75,4.0,2023,58
+1.0,7:43,,,,,,Timeout #1 by New Orleans Saints,,,4.0,2023,58
+1.0,7:43,3.0,1.0,NOR 48,0.0,3.0,"Penalty on Cade Otton: False Start, 5 yards (accepted) (no play)",1.75,1.09,4.0,2023,58
+1.0,7:43,3.0,6.0,TAM 47,0.0,3.0,Baker Mayfield scrambles up the middle for 6 yards (tackle by Pete Werner),1.09,2.46,4.0,2023,58
+1.0,7:05,1.0,10.0,NOR 47,0.0,3.0,"Baker Mayfield pass incomplete short right. Penalty on Baker Mayfield: Intentional Grounding, 12 yards (accepted)",2.46,0.29,4.0,2023,58
+1.0,6:58,2.0,22.0,TAM 41,0.0,3.0,Baker Mayfield pass complete short right to Cade Otton for 6 yards (tackle by Pete Werner and Malcolm Roach),0.29,0.43,4.0,2023,58
+1.0,6:13,3.0,16.0,TAM 47,0.0,3.0,Baker Mayfield pass complete short right to Rachaad White for 10 yards (tackle by Marshon Lattimore),0.43,0.4,4.0,2023,58
+1.0,5:27,4.0,6.0,NOR 43,0.0,3.0,Jake Camarda punts 27 yards out of bounds,0.4,0.14,4.0,2023,58
+1.0,5:20,1.0,10.0,NOR 16,0.0,3.0,Derek Carr pass incomplete deep left intended for Michael Thomas,-0.14,-0.66,4.0,2023,58
+1.0,5:15,2.0,10.0,NOR 16,0.0,3.0,Taysom Hill left tackle for 1 yard (tackle by Antoine Winfield),-0.66,-1.2,4.0,2023,58
+1.0,4:38,3.0,9.0,NOR 17,0.0,3.0,Derek Carr pass incomplete short left intended for Adam Prentice,-1.2,-2.32,4.0,2023,58
+1.0,4:24,4.0,9.0,NOR 17,0.0,3.0,"Lou Hedley punts 36 yards, fair catch by Deven Thompkins at TB-47. Penalty on J.J. Russell: Offensive Holding, 10 yards (accepted)",-2.32,-1.4,4.0,2023,58
+1.0,4:24,1.0,10.0,TAM 37,0.0,3.0,Rachaad White right guard for 3 yards (tackle by Nathan Shepherd and Khalen Saunders),1.4,1.26,4.0,2023,58
+1.0,3:53,2.0,7.0,TAM 40,0.0,3.0,Baker Mayfield pass incomplete deep right intended for Chris Godwin,1.26,0.56,4.0,2023,58
+1.0,3:46,3.0,7.0,TAM 40,0.0,3.0,Baker Mayfield pass incomplete short middle intended for Cade Otton (defended by Lonnie Johnson),0.56,-0.72,4.0,2023,58
+1.0,3:41,4.0,7.0,TAM 40,0.0,3.0,"Jake Camarda punts 41 yards, fair catch by Rashid Shaheed at NO-19",-0.72,-0.15,4.0,2023,58
+1.0,3:34,1.0,10.0,NOR 19,0.0,3.0,Derek Carr pass incomplete short left intended for Rashid Shaheed,0.15,-0.39,4.0,2023,58
+1.0,3:30,2.0,10.0,NOR 19,0.0,3.0,Alvin Kamara right guard for 3 yards (tackle by YaYa Diaby),-0.39,-0.68,4.0,2023,58
+1.0,2:58,3.0,7.0,NOR 22,0.0,3.0,Derek Carr pass complete short left to Alvin Kamara for 10 yards (tackle by Christian Izien),-0.68,1.07,4.0,2023,58
+1.0,2:16,1.0,10.0,NOR 32,0.0,3.0,"Taysom Hill scrambles right end for no gain (tackle by Anthony Nelson). Penalty on James Hurst: Offensive Holding, 10 yards (accepted) (no play)",1.07,0.41,4.0,2023,58
+1.0,1:59,1.0,20.0,NOR 22,0.0,3.0,Derek Carr pass complete short right to Alvin Kamara for 8 yards (tackle by Lavonte David and Vita Vea),0.41,0.26,4.0,2023,58
+1.0,1:22,2.0,12.0,NOR 30,0.0,3.0,"Penalty on YaYa Diaby: Neutral Zone Infraction, 5 yards (accepted) (no play)",0.26,0.93,4.0,2023,58
+1.0,1:18,2.0,7.0,NOR 35,0.0,3.0,Derek Carr pass complete short left to Rashid Shaheed for 11 yards (tackle by Zyon McCollum),0.93,1.99,4.0,2023,58
+1.0,0:43,1.0,10.0,NOR 46,0.0,3.0,Derek Carr pass complete short right to Alvin Kamara for no gain (tackle by Shaquil Barrett),1.99,1.45,4.0,2023,58
+2.0,15:00,2.0,10.0,NOR 46,0.0,3.0,Derek Carr pass complete short right to Kendre Miller for 5 yards (tackle by Dee Delaney),1.45,1.42,4.0,2023,58
+2.0,14:23,3.0,5.0,TAM 49,0.0,3.0,Derek Carr pass incomplete deep left intended for Rashid Shaheed,1.42,0.0,4.0,2023,58
+2.0,14:17,4.0,5.0,TAM 49,0.0,3.0,"Lou Hedley punts 36 yards, fair catch by Deven Thompkins at TB-13",0.0,0.32,4.0,2023,58
+2.0,14:10,1.0,10.0,TAM 13,0.0,3.0,Baker Mayfield pass complete short middle to Ke'Shawn Vaughn for 3 yards (tackle by Pete Werner),-0.32,-0.44,4.0,2023,58
+2.0,13:44,2.0,7.0,TAM 16,0.0,3.0,Baker Mayfield pass complete short left to Chris Godwin for 9 yards (tackle by Demario Davis and Alontae Taylor),-0.44,0.61,4.0,2023,58
+2.0,13:08,1.0,10.0,TAM 25,0.0,3.0,Deven Thompkins left end for 11 yards (tackle by Isaiah Foskey and Tyrann Mathieu),0.61,1.33,4.0,2023,58
+2.0,12:36,1.0,10.0,TAM 36,0.0,3.0,Ke'Shawn Vaughn right guard for 5 yards (tackle by Malcolm Roach and Pete Werner),1.33,1.47,4.0,2023,58
+2.0,12:00,2.0,5.0,TAM 41,0.0,3.0,Baker Mayfield pass complete short right to Chris Godwin for 5 yards (tackle by Isaac Yiadom),1.47,1.99,4.0,2023,58
+2.0,11:21,1.0,10.0,TAM 46,0.0,3.0,Baker Mayfield pass complete deep left to Mike Evans for 18 yards (tackle by Marshon Lattimore),1.99,3.18,4.0,2023,58
+2.0,10:48,1.0,10.0,NOR 36,0.0,3.0,Baker Mayfield pass complete short middle to Rakim Jarrett for 3 yards (tackle by Carl Granderson and Isaac Yiadom),3.18,3.04,4.0,2023,58
+2.0,10:07,2.0,7.0,NOR 33,0.0,3.0,Chris Godwin pass incomplete deep right intended for Trey Palmer (defended by Isaac Yiadom),3.04,2.35,4.0,2023,58
+2.0,10:00,3.0,7.0,NOR 33,0.0,3.0,Baker Mayfield scrambles left end for 7 yards (tackle by Carl Granderson),2.35,3.84,4.0,2023,58
+2.0,9:20,1.0,10.0,NOR 26,0.0,3.0,Rachaad White right guard for -3 yards (tackle by Bryan Bresee),3.84,2.89,4.0,2023,58
+2.0,8:42,,,,,,Timeout #1 by Tampa Bay Buccaneers,,,4.0,2023,58
+2.0,8:42,2.0,13.0,NOR 29,0.0,3.0,Baker Mayfield pass complete short left to Deven Thompkins for 6 yards (tackle by Marshon Lattimore),2.89,3.01,4.0,2023,58
+2.0,8:03,3.0,7.0,NOR 23,0.0,3.0,"Baker Mayfield pass incomplete deep right intended for Mike Evans. Penalty on Marshon Lattimore: Defensive Pass Interference, 8 yards (accepted) (no play)",3.01,4.58,4.0,2023,58
+2.0,7:58,1.0,10.0,NOR 15,0.0,3.0,Rachaad White left tackle for 1 yard (tackle by Pete Werner and Cameron Jordan),4.58,4.11,4.0,2023,58
+2.0,7:24,2.0,9.0,NOR 14,0.0,3.0,Baker Mayfield pass complete short middle to Chris Godwin for 1 yard (tackle by Cameron Jordan),4.11,3.4,4.0,2023,58
+2.0,6:40,3.0,8.0,NOR 13,0.0,3.0,Baker Mayfield pass complete short right to Rachaad White for 11 yards (tackle by Demario Davis),3.4,6.91,4.0,2023,58
+2.0,6:10,1.0,1.0,NOR 2,0.0,3.0,Baker Mayfield pass incomplete short right,6.91,5.72,4.0,2023,58
+2.0,6:02,2.0,2.0,NOR 2,0.0,3.0,Ke'Shawn Vaughn right guard for -2 yards (tackle by Malcolm Roach),5.72,4.49,4.0,2023,58
+2.0,5:25,3.0,4.0,NOR 4,6.0,3.0,"Baker Mayfield pass complete short middle to Cade Otton for 4 yards, touchdown",4.49,7.0,4.0,2023,58
+2.0,5:19,1.0,1.0,NOR 1,7.0,3.0,Chase McLaughlin kicks extra point good,0.0,0.0,4.0,2023,58
+2.0,5:19,,,TAM 35,7.0,3.0,"Penalty on Nathan Shepherd: Roughing the Passer, 15 yards (accepted)",0.0,0.0,4.0,2023,58
+2.0,5:19,,,TAM 50,7.0,3.0,"Jake Camarda kicks off 38 yards,",0.0,0.61,4.0,2023,58
+2.0,5:19,1.0,10.0,NOR 25,7.0,3.0,Alvin Kamara right tackle for 3 yards (tackle by William Gholston),0.61,0.47,4.0,2023,58
+2.0,4:49,2.0,7.0,NOR 28,7.0,3.0,Derek Carr pass incomplete short left intended for Chris Olave (defended by Zyon McCollum),0.47,-0.23,4.0,2023,58
+2.0,4:46,3.0,7.0,NOR 28,7.0,3.0,Derek Carr pass complete short right to Rashid Shaheed for 10 yards,-0.23,1.47,4.0,2023,58
+2.0,4:13,1.0,10.0,NOR 38,7.0,3.0,Kendre Miller left tackle for 3 yards (tackle by Antoine Winfield),1.47,1.33,4.0,2023,58
+2.0,3:38,2.0,7.0,NOR 41,7.0,3.0,Alvin Kamara right guard for 3 yards (tackle by Lavonte David and Devin White),1.33,1.02,4.0,2023,58
+2.0,3:03,3.0,4.0,NOR 44,7.0,3.0,Derek Carr sacked by Antoine Winfield for -4 yards,1.02,-0.72,4.0,2023,58
+2.0,2:06,4.0,8.0,NOR 40,7.0,3.0,"Lou Hedley punts 52 yards, returned by Deven Thompkins for 7 yards (tackle by Zach Wood and D'Marco Jackson). Penalty on Zach Wood: Ineligible Downfield Kick, 5 yards (accepted)",-0.72,-0.28,4.0,2023,58
+2.0,2:06,1.0,10.0,TAM 20,7.0,3.0,Rachaad White right end for 11 yards (tackle by Isaac Yiadom and Demario Davis),0.28,1.0,4.0,2023,58
+2.0,2:00,1.0,10.0,TAM 31,7.0,3.0,Baker Mayfield pass complete short left to Mike Evans for 4 yards (tackle by Alontae Taylor and Demario Davis),1.0,1.0,4.0,2023,58
+2.0,1:49,2.0,6.0,TAM 35,7.0,3.0,Baker Mayfield pass complete short left to Trey Palmer for 5 yards (tackle by Alontae Taylor),1.0,0.96,4.0,2023,58
+2.0,1:41,3.0,1.0,TAM 40,7.0,3.0,Rachaad White left guard for 5 yards (tackle by Khalen Saunders and Nathan Shepherd),0.96,1.93,4.0,2023,58
+2.0,1:30,1.0,10.0,TAM 45,7.0,3.0,Baker Mayfield pass complete short left to Deven Thompkins for 26 yards (tackle by Marshon Lattimore),1.93,3.64,4.0,2023,58
+2.0,0:59,,,,,,Timeout #2 by New Orleans Saints,,,4.0,2023,58
+2.0,0:59,1.0,10.0,NOR 29,7.0,3.0,"Rachaad White left guard for 10 yards (tackle by Tyrann Mathieu). Penalty on Trey Palmer: Offensive Holding, 10 yards (accepted)",3.64,3.64,4.0,2023,58
+2.0,0:51,1.0,20.0,NOR 29,7.0,3.0,Baker Mayfield pass complete short right to Chris Godwin for 8 yards (tackle by Pete Werner),3.64,4.18,4.0,2023,58
+2.0,0:46,2.0,2.0,NOR 21,7.0,3.0,Baker Mayfield pass deep right intended for Chris Godwin is intercepted by Isaac Yiadom at NO-1 and returned for no gain (tackle by Chris Godwin),4.18,0.38,4.0,2023,58
+2.0,0:41,1.0,10.0,NOR 1,7.0,3.0,"Adam Prentice right guard for 5 yards. Adam Prentice fumbles (forced by Antoine Winfield), recovered by Antoine Winfield at NO-6 and returned for 5 yards",-0.38,-5.83,4.0,2023,58
+2.0,0:29,1.0,6.0,NOR 6,7.0,3.0,Rachaad White right guard for 5 yards (tackle by Nathan Shepherd and Johnathan Abram),5.83,5.91,4.0,2023,58
+2.0,0:22,,,,,,Timeout #2 by Tampa Bay Buccaneers,,,4.0,2023,58
+2.0,0:22,2.0,1.0,NOR 1,13.0,3.0,"Baker Mayfield pass complete short right to Trey Palmer for 1 yard, touchdown",5.91,7.0,4.0,2023,58
+2.0,0:19,,,NOR 15,14.0,3.0,Chase McLaughlin kicks extra point good,0.0,0.0,4.0,2023,58
+2.0,0:19,,,TAM 35,14.0,3.0,"Jake Camarda kicks off 65 yards, returned by Rashid Shaheed for 17 yards (tackle by K.J. Britt)",0.0,-0.06,4.0,2023,58
+2.0,0:15,1.0,10.0,NOR 17,14.0,3.0,Derek Carr kneels for -1 yards,-0.06,-0.73,4.0,2023,58
+3.0,15:00,,,NOR 35,14.0,3.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,58
+3.0,15:00,1.0,10.0,TAM 25,14.0,3.0,Rachaad White right guard for 1 yard (tackle by Nathan Shepherd and Khalen Saunders),0.61,0.2,4.0,2023,58
+3.0,14:21,2.0,9.0,TAM 26,14.0,3.0,Baker Mayfield pass complete short right to Rachaad White for 1 yard (tackle by Carl Granderson),0.2,-0.36,4.0,2023,58
+3.0,13:44,3.0,8.0,TAM 27,14.0,3.0,Baker Mayfield sacked by Bryan Bresee for -7 yards,-0.36,-2.03,4.0,2023,58
+3.0,13:06,4.0,15.0,TAM 20,14.0,3.0,"Jake Camarda punts, returned by Rashid Shaheed for no gain (tackle by Sean Tucker). Penalty on Rakim Jarrett: Unsportsmanlike Conduct / Defense, 15 yards (offset) . Penalty on Ugo Amadi: Offensive Holding, 10 yards (offset) (no play)",-2.03,-2.03,4.0,2023,58
+3.0,12:57,4.0,15.0,TAM 20,14.0,3.0,"Jake Camarda punts 63 yards, returned by Rashid Shaheed for 29 yards (tackle by K.J. Britt and Ko Kieft)",-2.03,-1.99,4.0,2023,58
+3.0,12:45,1.0,10.0,NOR 46,14.0,3.0,"Penalty on Erik McCoy: False Start, 5 yards (accepted) (no play)",1.99,1.66,4.0,2023,58
+3.0,12:45,1.0,15.0,NOR 41,14.0,3.0,"Derek Carr sacked by Shaquil Barrett for no gain. Penalty on Shaquil Barrett: Face Mask (15 Yards), 15 yards (accepted) (no play)",1.66,2.65,4.0,2023,58
+3.0,11:57,1.0,10.0,TAM 44,14.0,3.0,Derek Carr pass complete short right to Alvin Kamara for -6 yards (tackle by Antoine Winfield),2.65,1.3,4.0,2023,58
+3.0,11:44,2.0,16.0,NOR 50,14.0,3.0,Derek Carr pass incomplete deep right intended for Chris Olave,1.3,0.63,4.0,2023,58
+3.0,11:38,3.0,16.0,NOR 50,14.0,3.0,Derek Carr pass incomplete deep right intended for Chris Olave (defended by Antoine Winfield),0.63,-0.06,4.0,2023,58
+3.0,11:30,4.0,16.0,NOR 50,14.0,3.0,"Lou Hedley punts 38 yards, fair catch by Deven Thompkins at TB-12",-0.06,0.35,4.0,2023,58
+3.0,11:23,1.0,10.0,TAM 12,14.0,3.0,Baker Mayfield scrambles left end for 4 yards (tackle by Demario Davis),-0.35,-0.44,4.0,2023,58
+3.0,10:43,2.0,7.0,TAM 16,14.0,3.0,Rachaad White right guard for 7 yards (tackle by Cameron Jordan),-0.44,0.48,4.0,2023,58
+3.0,10:08,1.0,10.0,TAM 23,14.0,3.0,Ke'Shawn Vaughn left guard for 8 yards (tackle by Cameron Jordan),0.48,1.01,4.0,2023,58
+3.0,9:42,2.0,2.0,TAM 31,14.0,3.0,Ke'Shawn Vaughn left tackle for 1 yard (tackle by Johnathan Abram and Malcolm Roach),1.01,0.43,4.0,2023,58
+3.0,9:01,3.0,1.0,TAM 32,14.0,3.0,Ke'Shawn Vaughn right guard for no gain (tackle by Bryan Bresee and Malcolm Roach),0.43,-1.24,4.0,2023,58
+3.0,8:08,4.0,1.0,TAM 32,14.0,3.0,"Penalty on Baker Mayfield: Delay of Game, 4 yards (accepted) (no play)",-1.24,-1.5,4.0,2023,58
+3.0,8:07,4.0,6.0,TAM 28,14.0,3.0,"Jake Camarda punts 59 yards, returned by Rashid Shaheed for 16 yards (tackle by Kaevon Merriweather)",-1.5,-0.87,4.0,2023,58
+3.0,7:58,1.0,10.0,NOR 29,14.0,3.0,Alvin Kamara right guard for 9 yards (tackle by Dee Delaney),0.87,1.54,4.0,2023,58
+3.0,7:22,2.0,1.0,NOR 38,14.0,3.0,Alvin Kamara right guard for 6 yards (tackle by Antoine Winfield and Christian Izien),1.54,1.86,4.0,2023,58
+3.0,6:40,1.0,10.0,NOR 44,14.0,3.0,Taysom Hill left guard for 3 yards (tackle by Antoine Winfield),1.86,1.72,4.0,2023,58
+3.0,6:05,2.0,7.0,NOR 47,14.0,3.0,Derek Carr pass complete short right to Michael Thomas for 8 yards (tackle by Christian Izien),1.72,2.59,4.0,2023,58
+3.0,5:32,1.0,10.0,TAM 45,14.0,3.0,Alvin Kamara right tackle for 13 yards (tackle by Dee Delaney),2.59,3.45,4.0,2023,58
+3.0,4:51,1.0,10.0,TAM 32,14.0,3.0,Alvin Kamara right tackle for 1 yard (tackle by Logan Hall and Devin White),3.45,3.04,4.0,2023,58
+3.0,4:10,2.0,9.0,TAM 31,14.0,3.0,Taysom Hill scrambles right guard for 4 yards (tackle by Joe Tryon-Shoyinka),3.04,2.87,4.0,2023,58
+3.0,3:23,3.0,5.0,TAM 27,14.0,3.0,Derek Carr pass complete short left to Alvin Kamara for 8 yards (tackle by Zyon McCollum),2.87,4.31,4.0,2023,58
+3.0,2:46,1.0,10.0,TAM 19,14.0,3.0,Taysom Hill sacked by Vita Vea for -3 yards,4.31,3.36,4.0,2023,58
+3.0,2:08,2.0,13.0,TAM 22,14.0,3.0,Derek Carr pass complete short right to Chris Olave for 4 yards (tackle by Carlton Davis),3.36,3.14,4.0,2023,58
+3.0,1:33,3.0,9.0,TAM 18,14.0,3.0,Derek Carr pass complete short left to Alvin Kamara for 4 yards (tackle by Lavonte David and Christian Izien),3.14,2.53,4.0,2023,58
+3.0,0:52,4.0,6.0,TAM 14,14.0,6.0,Blake Grupe 32 yard field goal good,2.53,3.0,4.0,2023,58
+3.0,0:49,,,NOR 35,14.0,6.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,58
+3.0,0:49,1.0,10.0,TAM 25,14.0,6.0,Rachaad White right guard for 3 yards (tackle by Isaiah Foskey),0.61,0.47,4.0,2023,58
+3.0,0:13,2.0,7.0,TAM 28,14.0,6.0,Baker Mayfield pass complete deep left to Chris Godwin for 32 yards (tackle by Alontae Taylor),0.47,2.92,4.0,2023,58
+4.0,15:00,1.0,10.0,NOR 40,14.0,6.0,Baker Mayfield pass incomplete short left,2.92,2.37,4.0,2023,58
+4.0,14:55,2.0,10.0,NOR 40,14.0,6.0,"Baker Mayfield pass incomplete intended for Cade Otton. Penalty on Robert Hainsey: Ineligible Downfield Pass, 5 yards (accepted) (no play)",2.37,1.7,4.0,2023,58
+4.0,14:51,2.0,15.0,NOR 45,14.0,6.0,Baker Mayfield scrambles up the middle for 10 yards (tackle by Tyrann Mathieu),1.7,2.34,4.0,2023,58
+4.0,14:06,3.0,5.0,NOR 35,14.0,6.0,"Penalty on Deven Thompkins: False Start, 5 yards (accepted) (no play)",2.34,1.68,4.0,2023,58
+4.0,14:02,3.0,10.0,NOR 40,14.0,6.0,Baker Mayfield scrambles right end for 7 yards (tackle by Johnathan Abram),1.68,1.19,4.0,2023,58
+4.0,13:35,4.0,3.0,NOR 33,17.0,6.0,Chase McLaughlin 51 yard field goal good,1.19,3.0,4.0,2023,58
+4.0,13:31,,,TAM 35,17.0,6.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,58
+4.0,13:31,1.0,10.0,NOR 25,17.0,6.0,Derek Carr pass complete short left to Adam Prentice for 5 yards (tackle by Zyon McCollum),0.61,0.74,4.0,2023,58
+4.0,13:00,2.0,5.0,NOR 30,17.0,6.0,Alvin Kamara right tackle for 3 yards (tackle by Christian Izien),0.74,0.43,4.0,2023,58
+4.0,12:25,3.0,2.0,NOR 33,17.0,6.0,"Alvin Kamara left tackle for 1 yard (tackle by Mike Greene). Penalty on Max Garcia: Offensive Holding, 10 yards (accepted)",0.43,-0.76,4.0,2023,58
+4.0,12:11,3.0,11.0,NOR 24,17.0,6.0,Derek Carr pass complete short right to Michael Thomas for 20 yards (tackle by Carlton Davis),-0.76,1.86,4.0,2023,58
+4.0,11:33,1.0,10.0,NOR 44,17.0,6.0,Derek Carr pass incomplete deep left intended for Rashid Shaheed,1.86,1.32,4.0,2023,58
+4.0,11:27,2.0,10.0,NOR 44,17.0,6.0,Derek Carr pass complete short left to Michael Thomas for 12 yards (tackle by Zyon McCollum),1.32,2.65,4.0,2023,58
+4.0,11:02,1.0,10.0,TAM 44,17.0,6.0,Derek Carr pass complete short right to Alvin Kamara for 4 yards (tackle by Christian Izien),2.65,2.65,4.0,2023,58
+4.0,10:36,2.0,6.0,TAM 40,17.0,6.0,Derek Carr pass complete short left to Alvin Kamara for 5 yards (tackle by Antoine Winfield),2.65,2.61,4.0,2023,58
+4.0,10:16,3.0,1.0,TAM 35,17.0,6.0,Derek Carr up the middle for 2 yards (tackle by William Gholston),2.61,3.38,4.0,2023,58
+4.0,9:45,1.0,10.0,TAM 33,17.0,6.0,Derek Carr pass complete short middle to Alvin Kamara for 2 yards (tackle by Devin White),3.38,3.11,4.0,2023,58
+4.0,9:21,2.0,8.0,TAM 31,17.0,6.0,"Derek Carr pass incomplete short right intended for Chris Olave. Penalty on Christian Izien: Defensive Holding, 5 yards (accepted) (no play)",3.11,3.84,4.0,2023,58
+4.0,9:13,1.0,10.0,TAM 26,17.0,6.0,Derek Carr pass complete short right to Alvin Kamara for no gain (tackle by Carlton Davis and Devin White),3.84,3.3,4.0,2023,58
+4.0,8:40,2.0,10.0,TAM 26,17.0,6.0,Derek Carr pass incomplete short right,3.3,2.61,4.0,2023,58
+4.0,8:38,3.0,10.0,TAM 26,17.0,6.0,Derek Carr pass incomplete short right intended for Alvin Kamara,2.61,1.74,4.0,2023,58
+4.0,8:34,4.0,10.0,TAM 26,17.0,9.0,Blake Grupe 44 yard field goal good,1.74,3.0,4.0,2023,58
+4.0,8:29,,,NOR 35,17.0,9.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,58
+4.0,8:29,1.0,10.0,TAM 25,17.0,9.0,Baker Mayfield pass complete short left to Cade Otton for 3 yards (tackle by Tyrann Mathieu),0.61,0.47,4.0,2023,58
+4.0,7:45,2.0,7.0,TAM 28,17.0,9.0,Ke'Shawn Vaughn left end for 2 yards (tackle by Pete Werner and Tyrann Mathieu),0.47,0.04,4.0,2023,58
+4.0,7:02,3.0,5.0,TAM 30,17.0,9.0,Baker Mayfield pass complete short right to Deven Thompkins for 8 yards (tackle by Isaac Yiadom),0.04,1.47,4.0,2023,58
+4.0,6:20,1.0,10.0,TAM 38,17.0,9.0,Baker Mayfield pass complete short right to Chris Godwin for 12 yards (tackle by Isaac Yiadom),1.47,2.26,4.0,2023,58
+4.0,5:39,1.0,10.0,NOR 50,17.0,9.0,Ke'Shawn Vaughn left guard for 2 yards (tackle by Johnathan Abram and Khalen Saunders),2.26,1.98,4.0,2023,58
+4.0,4:53,2.0,8.0,NOR 48,17.0,9.0,Ke'Shawn Vaughn right end for 1 yard (tackle by Isaac Yiadom),1.98,1.42,4.0,2023,58
+4.0,4:12,3.0,7.0,NOR 47,17.0,9.0,"Baker Mayfield pass complete short middle to Chris Godwin for 42 yards (tackle by Johnathan Abram and J.T. Gray). Penalty on Demario Davis: Defensive Holding, 5 yards (declined)",1.42,6.06,4.0,2023,58
+4.0,4:01,1.0,5.0,NOR 5,17.0,9.0,Rachaad White left guard for no gain (tackle by Zack Baun and Carl Granderson),6.06,5.15,4.0,2023,58
+4.0,3:57,,,,,,Timeout #1 by New Orleans Saints,,,4.0,2023,58
+4.0,3:57,2.0,5.0,NOR 5,17.0,9.0,Baker Mayfield pass incomplete short right intended for Chris Godwin,5.15,4.26,4.0,2023,58
+4.0,3:53,3.0,5.0,NOR 5,23.0,9.0,"Baker Mayfield pass complete short right to Deven Thompkins for 5 yards, touchdown",4.26,7.0,4.0,2023,58
+4.0,3:44,,,NOR 2,23.0,9.0,Two Point Attempt: Baker Mayfield pass incomplete intended for intended for Trey Palmer,1.0,-1.0,4.0,2023,58
+4.0,3:44,,,TAM 35,23.0,9.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,58
+4.0,3:44,1.0,10.0,NOR 25,23.0,9.0,Derek Carr pass incomplete deep right intended for Chris Olave,0.61,0.06,4.0,2023,58
+4.0,3:38,2.0,10.0,NOR 25,23.0,9.0,Derek Carr pass incomplete short right intended for Lynn Bowden,0.06,-0.62,4.0,2023,58
+4.0,3:34,3.0,10.0,NOR 25,23.0,9.0,Derek Carr pass incomplete deep middle intended for Michael Thomas (defended by Carlton Davis),-0.62,-1.7,4.0,2023,58
+4.0,3:29,4.0,10.0,NOR 25,23.0,9.0,"Derek Carr sacked by Vita Vea for -6 yards. Derek Carr fumbles (forced by Vita Vea), recovered by Logan Hall at NO-19",-1.7,-4.31,4.0,2023,58
+4.0,3:22,1.0,10.0,NOR 19,23.0,9.0,Rachaad White right guard for 7 yards (tackle by Zack Baun),4.31,4.92,4.0,2023,58
+4.0,2:43,2.0,3.0,NOR 12,23.0,9.0,Rachaad White left guard for 2 yards (tackle by Malcolm Roach and Khalen Saunders),4.92,4.69,4.0,2023,58
+4.0,2:33,,,,,,Timeout #2 by New Orleans Saints,,,4.0,2023,58
+4.0,2:33,3.0,1.0,NOR 10,23.0,9.0,Rachaad White right guard for no gain (tackle by Malcolm Roach and Pete Werner),4.69,2.91,4.0,2023,58
+4.0,2:27,,,,,,Timeout #3 by New Orleans Saints,,,4.0,2023,58
+4.0,2:27,4.0,1.0,NOR 10,26.0,9.0,Chase McLaughlin 28 yard field goal good,2.91,3.0,4.0,2023,58
+4.0,2:24,,,TAM 35,26.0,9.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,58
+4.0,2:24,1.0,10.0,NOR 25,26.0,9.0,"Jameis Winston pass deep right intended for Chris Olave is intercepted by Dee Delaney at TB-42 and returned for 4 yards. Penalty on James Hurst: Offensive Holding, 10 yards (declined)",0.61,-1.99,4.0,2023,58
+4.0,2:14,1.0,10.0,TAM 46,26.0,9.0,Ke'Shawn Vaughn left end for -1 yards (tackle by Bryan Bresee and Isaiah Foskey),1.99,1.32,4.0,2023,58
+4.0,2:00,2.0,11.0,TAM 45,26.0,9.0,"Ke'Shawn Vaughn right tackle for no gain (tackle by Johnathan Abram). Penalty on Bryan Bresee: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",1.32,2.26,4.0,2023,58
+4.0,1:56,1.0,10.0,TAM 50,26.0,9.0,Baker Mayfield kneels for -1 yards,2.26,1.58,4.0,2023,58
+4.0,1:15,2.0,11.0,TAM 49,26.0,9.0,Baker Mayfield kneels for -1 yards,1.58,0.76,4.0,2023,58
+4.0,0:35,3.0,12.0,TAM 48,26.0,9.0,Baker Mayfield kneels for -1 yards,0.76,-0.26,4.0,2023,58

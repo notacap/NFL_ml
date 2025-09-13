@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,12:08,CAR 27,1,0:14,0,Interception,0,Panthers,1.0,2024,5
+2,1,10:04,CAR 26,5,3:03,15,Punt,0,Panthers,1.0,2024,5
+3,1,1:23,CAR 25,6,4:13,8,Punt,0,Panthers,1.0,2024,5
+4,2,7:03,CAR 33,2,0:58,7,Fumble,0,Panthers,1.0,2024,5
+5,2,2:08,CAR 15,3,0:44,-5,Punt,0,Panthers,1.0,2024,5
+6,2,1:18,CAR 30,8,1:18,45,Field Goal,0,Panthers,1.0,2024,5
+7,3,15:00,CAR 26,3,1:07,-7,Interception,0,Panthers,1.0,2024,5
+8,3,8:27,CAR 25,8,3:32,75,Touchdown,0,Panthers,1.0,2024,5
+9,4,13:08,CAR 32,3,1:47,-7,Punt,0,Panthers,1.0,2024,5
+10,4,10:38,CAR 30,8,3:47,51,Downs,0,Panthers,1.0,2024,5
+11,4,4:29,,4,0:22,5,Downs,0,Panthers,1.0,2024,5
+12,4,2:16,CAR 13,3,1:10,6,Punt,0,Panthers,1.0,2024,5
+13,4,1:06,NOR 45,2,1:06,1,End of Game,0,Panthers,1.0,2024,5

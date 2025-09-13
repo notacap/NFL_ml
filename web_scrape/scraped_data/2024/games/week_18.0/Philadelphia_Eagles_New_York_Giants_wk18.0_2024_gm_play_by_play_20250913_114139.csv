@@ -1,0 +1,162 @@
+Quarter,Time,Down,ToGo,Location,NYG,PHI,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Eagles won the coin toss and deferred, Giants to receive the opening kickoff.",,,18.0,2024,266
+1.0,15:00,,,PHI 35,0.0,0.0,"Braden Mann kicks off 65 yards, touchback.",0.0,0.28,18.0,2024,266
+1.0,15:00,1.0,10.0,NYG 20,0.0,0.0,Drew Lock pass complete short middle to Malik Nabers for 6 yards (tackle by Jeremiah Trotter and Moro Ojomo),0.28,0.54,18.0,2024,266
+1.0,14:22,2.0,4.0,NYG 26,0.0,0.0,Devin Singletary left guard for 2 yards (tackle by Moro Ojomo and Jordan Davis),0.54,0.1,18.0,2024,266
+1.0,13:44,3.0,2.0,NYG 28,0.0,0.0,Devin Singletary left tackle for 5 yards (tackle by Kelee Ringo),0.1,1.14,18.0,2024,266
+1.0,13:06,1.0,10.0,NYG 33,0.0,0.0,Drew Lock pass complete short middle to Wan'Dale Robinson for 6 yards (tackle by Jeremiah Trotter and Oren Burks),1.14,1.4,18.0,2024,266
+1.0,12:30,2.0,4.0,NYG 39,0.0,0.0,Tyrone Tracy up the middle for no gain (tackle by Charles Harris),1.4,0.7,18.0,2024,266
+1.0,11:58,3.0,4.0,NYG 39,0.0,0.0,Tyrone Tracy left tackle for 9 yards (tackle by Kelee Ringo),0.7,2.13,18.0,2024,266
+1.0,11:19,1.0,10.0,NYG 48,0.0,0.0,"Penalty on Jake Kubas: False Start, 5 yards (accepted) (no play)",2.13,1.8,18.0,2024,266
+1.0,11:08,1.0,15.0,NYG 43,0.0,0.0,Drew Lock pass complete short right to Wan'Dale Robinson for 1 yard (tackle by Jordan Davis),1.8,1.04,18.0,2024,266
+1.0,10:29,2.0,14.0,NYG 44,0.0,0.0,Tyrone Tracy left guard for 2 yards (tackle by Jeremiah Trotter),1.04,0.63,18.0,2024,266
+1.0,9:47,3.0,12.0,NYG 46,0.0,0.0,Drew Lock pass complete short right to Daniel Bellinger for 5 yards (tackle by Isaiah Rodgers),0.63,0.0,18.0,2024,266
+1.0,8:58,4.0,7.0,PHI 49,0.0,0.0,Drew Lock pass incomplete short left intended for Darius Slayton (defended by Kelee Ringo),0.0,-2.19,18.0,2024,266
+1.0,8:52,1.0,10.0,PHI 49,0.0,0.0,Tanner McKee pass complete short right to Dallas Goedert for 16 yards (tackle by Brian Burns),2.19,3.25,18.0,2024,266
+1.0,8:19,1.0,10.0,NYG 35,0.0,0.0,Kenneth Gainwell left guard for 3 yards (tackle by Rakeem Nunez-Roches and Dane Belton),3.25,3.11,18.0,2024,266
+1.0,7:42,2.0,7.0,NYG 32,0.0,0.0,Tanner McKee pass complete short left to Dallas Goedert for 17 yards (tackle by Dane Belton),3.11,4.58,18.0,2024,266
+1.0,6:58,1.0,10.0,NYG 15,0.0,6.0,"Tanner McKee pass complete short left to Ainias Smith for 15 yards, touchdown",4.58,7.0,18.0,2024,266
+1.0,6:51,,,NYG 15,0.0,7.0,Jake Elliott kicks extra point good,0.0,0.0,18.0,2024,266
+1.0,6:51,,,PHI 35,0.0,7.0,"Braden Mann kicks off 25 yards, out of bounds. Penalty on Braden Mann: Kickoff Out of Bounds (accepted)",0.0,1.6,18.0,2024,266
+1.0,6:51,1.0,10.0,NYG 40,0.0,7.0,Tyrone Tracy left guard for 1 yard (tackle by Jeremiah Trotter),1.6,1.19,18.0,2024,266
+1.0,6:14,2.0,9.0,NYG 41,0.0,7.0,Drew Lock pass incomplete short left intended for Malik Nabers,1.19,0.5,18.0,2024,266
+1.0,6:10,3.0,9.0,NYG 41,0.0,7.0,Tyrone Tracy left guard for 2 yards (tackle by Milton Williams and Charles Harris),0.5,-0.52,18.0,2024,266
+1.0,5:21,4.0,7.0,NYG 43,0.0,7.0,"Jamie Gillan punts 43 yards, fair catch by Jahan Dotson at PHI-14",-0.52,0.28,18.0,2024,266
+1.0,5:16,1.0,10.0,PHI 14,0.0,7.0,Tanner McKee pass complete short left to Dallas Goedert for 13 yards (tackle by Dyontae Johnson),-0.28,0.74,18.0,2024,266
+1.0,4:32,1.0,10.0,PHI 27,0.0,7.0,Tanner McKee pass incomplete deep left intended for Johnny Wilson,0.74,0.2,18.0,2024,266
+1.0,4:28,2.0,10.0,PHI 27,0.0,7.0,Kenneth Gainwell left guard for no gain (tackle by Dyontae Johnson),0.2,-0.49,18.0,2024,266
+1.0,4:03,3.0,10.0,PHI 27,0.0,7.0,Tanner McKee pass complete short left to Jahan Dotson for 9 yards (tackle by Adoree' Jackson),-0.49,-0.98,18.0,2024,266
+1.0,3:15,4.0,1.0,PHI 36,0.0,7.0,"Penalty on Andru Phillips: Neutral Zone Infraction, 5 yards (accepted) (no play)",-0.98,1.66,18.0,2024,266
+1.0,3:06,1.0,10.0,PHI 41,0.0,7.0,Kenneth Gainwell left tackle for 2 yards (tackle by Dyontae Johnson),1.66,1.39,18.0,2024,266
+1.0,2:26,2.0,8.0,PHI 43,0.0,7.0,Tanner McKee pass complete short middle to Jahan Dotson for 13 yards (tackle by Divaad Wilson),1.39,2.65,18.0,2024,266
+1.0,1:49,1.0,10.0,NYG 44,0.0,7.0,Tanner McKee pass incomplete short right intended for Dallas Goedert,2.65,2.11,18.0,2024,266
+1.0,1:45,2.0,10.0,NYG 44,0.0,7.0,Kenneth Gainwell left guard for 5 yards (tackle by Kayvon Thibodeaux and Darius Muasau),2.11,2.08,18.0,2024,266
+1.0,1:09,3.0,5.0,NYG 39,0.0,7.0,Kenneth Gainwell left guard for 3 yards (tackle by Divaad Wilson and Brian Burns),2.08,0.89,18.0,2024,266
+1.0,0:32,4.0,2.0,NYG 36,0.0,7.0,Tanner McKee pass complete short left to Dallas Goedert for 9 yards (tackle by Divaad Wilson),0.89,1.27,18.0,2024,266
+2.0,6:51,1.0,10.0,PHI 35,0.0,7.0,"Nick Gates aborted snap, recovered by Tanner McKee at PHI-21",1.27,-1.17,18.0,2024,266
+2.0,6:11,2.0,24.0,PHI 21,0.0,7.0,Tanner McKee pass complete short middle to Johnny Wilson for 9 yards (tackle by Darius Muasau and Dyontae Johnson),-1.17,-0.63,18.0,2024,266
+2.0,5:31,3.0,15.0,PHI 30,0.0,7.0,Tanner McKee pass complete deep right to Jahan Dotson for 19 yards (tackle by Dane Belton),-0.63,2.19,18.0,2024,266
+2.0,4:51,1.0,10.0,PHI 49,0.0,7.0,Tanner McKee pass complete short right to Grant Calcaterra for 7 yards (tackle by Dyontae Johnson),2.19,2.59,18.0,2024,266
+2.0,4:21,2.0,3.0,NYG 44,0.0,7.0,Will Shipley up the middle for 5 yards (tackle by Brian Burns),2.59,2.98,18.0,2024,266
+2.0,3:45,,,,,,Timeout #1 by Philadelphia Eagles,,,18.0,2024,266
+2.0,3:45,1.0,10.0,NYG 39,0.0,7.0,Tanner McKee pass incomplete short right intended for Johnny Wilson,2.98,2.44,18.0,2024,266
+2.0,3:42,2.0,10.0,NYG 39,0.0,7.0,"Tanner McKee pass complete short middle to Will Shipley for 13 yards (tackle by Dyontae Johnson). Penalty on Deonte Banks: Defensive Offside, 5 yards (declined)",2.44,3.84,18.0,2024,266
+2.0,3:22,1.0,10.0,NYG 26,0.0,7.0,Will Shipley left tackle for 2 yards (tackle by Dyontae Johnson and Dane Belton),3.84,3.57,18.0,2024,266
+2.0,2:37,2.0,8.0,NYG 24,0.0,7.0,Tanner McKee pass complete short right to Will Shipley for 13 yards (tackle by Cordale Flott),3.57,4.84,18.0,2024,266
+2.0,2:00,1.0,10.0,NYG 11,0.0,7.0,Tanner McKee pass incomplete short right intended for Grant Calcaterra (defended by Deonte Banks),4.84,4.14,18.0,2024,266
+2.0,1:55,2.0,10.0,NYG 11,0.0,7.0,Will Shipley up the middle for 1 yard (tackle by Andru Phillips),4.14,3.3,18.0,2024,266
+2.0,1:51,,,,,,Timeout #1 by New York Giants,,,18.0,2024,266
+2.0,1:51,3.0,9.0,NYG 10,0.0,7.0,Tanner McKee pass complete short right to Will Shipley for 4 yards,3.3,2.99,18.0,2024,266
+2.0,1:47,4.0,5.0,NYG 6,0.0,10.0,Jake Elliott 24 yard field goal good,2.99,3.0,18.0,2024,266
+2.0,15:00,1.0,10.0,NYG 27,0.0,7.0,Tanner McKee pass incomplete deep left intended for Kenneth Gainwell,3.78,3.23,18.0,2024,266
+2.0,14:55,2.0,10.0,NYG 27,0.0,7.0,Tanner McKee pass complete short left to Johnny Wilson for 6 yards (tackle by Deonte Banks and Dyontae Johnson),3.23,3.34,18.0,2024,266
+2.0,14:14,3.0,4.0,NYG 21,0.0,7.0,Tanner McKee pass incomplete short right intended for Dallas Goedert,3.34,2.13,18.0,2024,266
+2.0,14:10,4.0,4.0,NYG 21,0.0,7.0,Jake Elliott 39 yard field goal no good,2.13,-0.87,18.0,2024,266
+2.0,14:06,1.0,10.0,NYG 29,0.0,7.0,Drew Lock pass complete short left to Devin Singletary for -5 yards (tackle by Jordan Davis),0.87,-0.35,18.0,2024,266
+2.0,13:27,2.0,15.0,NYG 24,0.0,7.0,Drew Lock pass complete short right to Malik Nabers for 6 yards (tackle by Avonte Maddox and Isaiah Rodgers),-0.35,-0.23,18.0,2024,266
+2.0,12:48,3.0,9.0,NYG 30,0.0,7.0,Drew Lock pass complete short left to Wan'Dale Robinson for 6 yards (tackle by Avonte Maddox and Kelee Ringo),-0.23,-0.98,18.0,2024,266
+2.0,12:09,4.0,3.0,NYG 36,0.0,7.0,Dane Belton right end for 10 yards (tackle by Dallas Gant),-0.98,1.99,18.0,2024,266
+2.0,11:28,1.0,10.0,NYG 46,0.0,7.0,Eric Gray right guard for 6 yards (tackle by Jeremiah Trotter and Moro Ojomo),1.99,2.26,18.0,2024,266
+2.0,10:49,2.0,4.0,PHI 48,0.0,7.0,Tyrone Tracy left guard for 2 yards (tackle by Oren Burks and Charles Harris),2.26,1.82,18.0,2024,266
+2.0,10:09,3.0,2.0,PHI 46,0.0,7.0,Tyrone Tracy up the middle for 1 yard (tackle by Moro Ojomo and Bryce Huff),1.82,0.27,18.0,2024,266
+2.0,9:28,4.0,1.0,PHI 45,0.0,7.0,Devin Singletary left guard for 3 yards (tackle by Oren Burks and Bryce Huff),0.27,2.79,18.0,2024,266
+2.0,8:51,1.0,10.0,PHI 42,0.0,7.0,Devin Singletary right tackle for 4 yards (tackle by Oren Burks),2.79,2.78,18.0,2024,266
+2.0,8:17,2.0,6.0,PHI 38,0.0,7.0,Devin Singletary left guard for 2 yards (tackle by Jeremiah Trotter and Tristin McCollum),2.78,2.34,18.0,2024,266
+2.0,7:39,3.0,4.0,PHI 36,0.0,7.0,Devin Singletary left guard for 2 yards (tackle by Jordan Davis),2.34,1.1,18.0,2024,266
+2.0,6:57,4.0,2.0,PHI 34,0.0,7.0,Drew Lock pass incomplete deep right intended for Malik Nabers (defended by Isaiah Rodgers),1.1,0.0,18.0,2024,266
+2.0,1:44,,,PHI 35,0.0,10.0,"Jake Elliott kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,266
+2.0,1:44,1.0,10.0,NYG 30,0.0,10.0,Tyrone Tracy right tackle for 3 yards (tackle by Tristin McCollum and Jeremiah Trotter),0.94,0.8,18.0,2024,266
+2.0,1:19,2.0,7.0,NYG 33,0.0,10.0,"Drew Lock aborted snap, recovered by Drew Lock at NYG-32 and returned for -1 yards (tackle by Oren Burks)",0.8,-0.03,18.0,2024,266
+2.0,0:56,3.0,8.0,NYG 32,0.0,10.0,Drew Lock pass complete short left to Tyrone Tracy for 5 yards (tackle by Oren Burks),-0.03,-0.91,18.0,2024,266
+2.0,0:50,,,,,,Timeout #2 by Philadelphia Eagles,,,18.0,2024,266
+2.0,0:50,4.0,3.0,NYG 37,0.0,10.0,"Jamie Gillan punts 35 yards, fair catch by Jahan Dotson at PHI-28",-0.91,-0.81,18.0,2024,266
+2.0,0:43,1.0,10.0,PHI 28,0.0,10.0,Tanner McKee pass complete short right to Jahan Dotson for 11 yards (tackle by Adoree' Jackson),0.81,1.53,18.0,2024,266
+2.0,0:39,1.0,10.0,PHI 39,0.0,10.0,Tanner McKee pass complete short right to Will Shipley for 5 yards (tackle by Isaiah Simmons),1.53,1.66,18.0,2024,266
+2.0,0:34,,,,,,Timeout #2 by New York Giants,,,18.0,2024,266
+2.0,0:34,2.0,5.0,PHI 44,0.0,10.0,Tanner McKee pass complete short right to Jahan Dotson for 11 yards (tackle by Andru Phillips and Ty Summers),1.66,2.59,18.0,2024,266
+2.0,0:25,,,,,,Timeout #3 by Philadelphia Eagles,,,18.0,2024,266
+2.0,0:25,1.0,10.0,NYG 45,0.0,10.0,Tanner McKee pass incomplete deep right intended for Jahan Dotson,2.59,2.04,18.0,2024,266
+2.0,0:20,2.0,10.0,NYG 45,0.0,10.0,Tanner McKee pass incomplete short middle intended for Ainias Smith,2.04,1.36,18.0,2024,266
+2.0,0:17,3.0,10.0,NYG 45,0.0,10.0,Tanner McKee pass incomplete deep right intended for Jahan Dotson,1.36,0.27,18.0,2024,266
+2.0,0:13,4.0,10.0,NYG 45,0.0,10.0,Braden Mann punts 33 yards downed by Jalyx Hunt,0.27,1.93,18.0,2024,266
+3.0,15:00,,,NYG 35,0.0,10.0,"Graham Gano kicks off 59 yards, returned by Isaiah Rodgers for 51 yards (tackle by Divaad Wilson)",0.0,2.72,18.0,2024,266
+3.0,14:53,1.0,10.0,NYG 43,0.0,10.0,Will Shipley left tackle for 3 yards (tackle by Jordon Riley and Rakeem Nunez-Roches),2.72,2.58,18.0,2024,266
+3.0,14:30,2.0,7.0,NYG 40,0.0,10.0,Will Shipley right tackle for 3 yards (tackle by Rakeem Nunez-Roches),2.58,2.28,18.0,2024,266
+3.0,13:52,3.0,4.0,NYG 37,0.0,10.0,Will Shipley up the middle for 2 yards (tackle by Ty Summers and Kayvon Thibodeaux),2.28,0.99,18.0,2024,266
+3.0,13:25,4.0,2.0,NYG 35,0.0,10.0,Tanner McKee pass incomplete short left intended for Ainias Smith (defended by Divaad Wilson),0.99,-1.27,18.0,2024,266
+3.0,13:21,1.0,10.0,NYG 35,0.0,10.0,Drew Lock pass complete short right to Wan'Dale Robinson for 4 yards (tackle by Jeremiah Trotter and Oren Burks),1.27,1.26,18.0,2024,266
+3.0,12:41,2.0,6.0,NYG 39,0.0,10.0,Tyrone Tracy left end for 16 yards (tackle by Jeremiah Trotter and Tristin McCollum),1.26,2.59,18.0,2024,266
+3.0,11:56,1.0,10.0,PHI 45,0.0,10.0,Tyrone Tracy right tackle for 7 yards (tackle by Tristin McCollum and Oren Burks),2.59,2.99,18.0,2024,266
+3.0,11:18,2.0,3.0,PHI 38,0.0,10.0,Drew Lock pass complete short left to Malik Nabers for 4 yards (tackle by Tristin McCollum),2.99,3.31,18.0,2024,266
+3.0,10:38,1.0,10.0,PHI 34,0.0,10.0,Devin Singletary left guard for 4 yards (tackle by Kelee Ringo),3.31,3.31,18.0,2024,266
+3.0,9:55,2.0,6.0,PHI 30,0.0,10.0,Drew Lock pass complete short right to Chris Manhertz for 16 yards (tackle by Tristin McCollum and Oren Burks),3.31,4.65,18.0,2024,266
+3.0,9:13,1.0,10.0,PHI 14,0.0,10.0,Drew Lock pass complete short middle to Wan'Dale Robinson for 4 yards (tackle by Jeremiah Trotter and Sydney Brown),4.65,4.71,18.0,2024,266
+3.0,8:27,2.0,6.0,PHI 10,0.0,10.0,Drew Lock pass incomplete short middle intended for Malik Nabers,4.71,3.82,18.0,2024,266
+3.0,8:21,3.0,6.0,PHI 10,0.0,10.0,Drew Lock pass complete short middle to Malik Nabers for 3 yards (tackle by Tristin McCollum),3.82,2.99,18.0,2024,266
+3.0,7:38,4.0,3.0,PHI 7,3.0,10.0,Graham Gano 25 yard field goal good,2.99,3.0,18.0,2024,266
+3.0,7:34,,,NYG 35,3.0,10.0,"Graham Gano kicks off 60 yards, returned by Isaiah Rodgers for 24 yards (tackle by Dyontae Johnson and Anthony Johnson)",0.0,0.87,18.0,2024,266
+3.0,7:26,1.0,10.0,PHI 29,3.0,10.0,Tanner McKee pass incomplete short right intended for Jahan Dotson (defended by Anthony Johnson),0.87,0.33,18.0,2024,266
+3.0,7:21,2.0,10.0,PHI 29,3.0,10.0,Will Shipley right tackle for 5 yards (tackle by Darius Muasau and Rakeem Nunez-Roches),0.33,0.3,18.0,2024,266
+3.0,6:43,3.0,5.0,PHI 34,3.0,10.0,Tanner McKee sacked by Kayvon Thibodeaux for -7 yards,0.3,-1.57,18.0,2024,266
+3.0,6:04,4.0,12.0,PHI 27,3.0,10.0,"Braden Mann punts 59 yards, returned by Ihmir Smith-Marsette for no gain (tackle by Kelee Ringo)",-1.57,0.28,18.0,2024,266
+3.0,5:55,1.0,10.0,NYG 14,3.0,10.0,Tyrone Tracy left end for 3 yards (tackle by Tristin McCollum and Avonte Maddox),-0.28,-0.37,18.0,2024,266
+3.0,5:16,2.0,7.0,NYG 17,3.0,10.0,Drew Lock pass complete short right to Wan'Dale Robinson for -4 yards (tackle by Oren Burks),-0.37,-1.53,18.0,2024,266
+3.0,4:37,3.0,11.0,NYG 13,3.0,10.0,Drew Lock pass complete short middle to Wan'Dale Robinson for 6 yards (tackle by Oren Burks),-1.53,-2.14,18.0,2024,266
+3.0,3:54,4.0,5.0,NYG 19,3.0,10.0,"Jamie Gillan punts 42 yards, fair catch by Jahan Dotson at PHI-39",-2.14,-1.53,18.0,2024,266
+3.0,3:47,1.0,10.0,PHI 39,3.0,10.0,Tanner McKee pass complete short left to Grant Calcaterra for 3 yards (tackle by Tomon Fox),1.53,1.39,18.0,2024,266
+3.0,3:03,2.0,7.0,PHI 42,3.0,10.0,Tanner McKee pass complete short left to Jahan Dotson for 12 yards (tackle by Divaad Wilson),1.39,2.52,18.0,2024,266
+3.0,2:24,1.0,10.0,NYG 46,3.0,10.0,Will Shipley right tackle for 4 yards (tackle by Elijah Garcia and Elijah Chatman),2.52,2.52,18.0,2024,266
+3.0,1:42,2.0,6.0,NYG 42,3.0,10.0,Tanner McKee pass complete short middle to Johnny Wilson for 9 yards (tackle by Andru Phillips),2.52,3.38,18.0,2024,266
+3.0,1:12,1.0,10.0,NYG 33,3.0,10.0,Tanner McKee pass complete short middle to Jahan Dotson for 19 yards (tackle by Jason Pinnock),3.38,4.65,18.0,2024,266
+3.0,0:43,1.0,10.0,NYG 14,3.0,10.0,Will Shipley right tackle for 7 yards (tackle by Elijah Chatman),4.65,5.28,18.0,2024,266
+4.0,15:00,2.0,3.0,NYG 7,3.0,16.0,"Tanner McKee pass complete short right to E.J. Jenkins for 7 yards, touchdown",5.28,7.0,18.0,2024,266
+4.0,14:55,,,NYG 15,3.0,17.0,Jake Elliott kicks extra point good,0.0,0.0,18.0,2024,266
+4.0,14:55,,,PHI 35,3.0,17.0,"Jake Elliott kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,266
+4.0,14:55,1.0,10.0,NYG 30,3.0,17.0,Tyrone Tracy up the middle for 3 yards (tackle by Oren Burks and Jordan Davis),0.94,0.8,18.0,2024,266
+4.0,14:21,2.0,7.0,NYG 33,3.0,17.0,Drew Lock pass complete short middle to Wan'Dale Robinson for 6 yards (tackle by Eli Ricks),0.8,0.89,18.0,2024,266
+4.0,13:32,3.0,1.0,NYG 39,3.0,17.0,Drew Lock up the middle for 3 yards (tackle by Moro Ojomo),0.89,1.73,18.0,2024,266
+4.0,12:48,1.0,10.0,NYG 42,3.0,17.0,Drew Lock pass complete short left to Tyrone Tracy for 2 yards (tackle by Oren Burks),1.73,1.46,18.0,2024,266
+4.0,12:06,2.0,8.0,NYG 44,3.0,17.0,Drew Lock pass complete short middle to Wan'Dale Robinson for 9 yards (tackle by Oren Burks and Jeremiah Trotter),1.46,2.46,18.0,2024,266
+4.0,11:24,1.0,10.0,PHI 47,3.0,17.0,Tyrone Tracy right guard for 2 yards (tackle by Bryce Huff and Thomas Booker),2.46,2.18,18.0,2024,266
+4.0,10:45,2.0,8.0,PHI 45,3.0,17.0,Drew Lock pass incomplete short middle intended for Wan'Dale Robinson,2.18,1.49,18.0,2024,266
+4.0,10:41,3.0,8.0,PHI 45,9.0,17.0,"Drew Lock pass complete deep right to Malik Nabers for 45 yards, touchdown",1.49,7.0,18.0,2024,266
+4.0,10:32,,,PHI 15,10.0,17.0,Graham Gano kicks extra point good,0.0,0.0,18.0,2024,266
+4.0,10:32,,,NYG 35,10.0,17.0,"Graham Gano kicks off 57 yards, returned by Ainias Smith for 17 yards (tackle by Anthony Johnson)",0.0,0.61,18.0,2024,266
+4.0,10:28,1.0,10.0,PHI 25,10.0,17.0,Will Shipley right tackle for no gain (tackle by Ty Summers),0.61,0.06,18.0,2024,266
+4.0,9:50,2.0,10.0,PHI 25,10.0,17.0,Tanner McKee pass incomplete short middle intended for Jahan Dotson (defended by Deonte Banks),0.06,-0.62,18.0,2024,266
+4.0,9:47,3.0,10.0,PHI 25,10.0,17.0,Tanner McKee sacked by and Kayvon Thibodeaux for -10 yards and Brian Burns for -10 yards,-0.62,-2.44,18.0,2024,266
+4.0,9:05,4.0,20.0,PHI 15,10.0,17.0,"Braden Mann punts 48 yards, returned by Ihmir Smith-Marsette for 25 yards (tackle by Isaiah Rodgers and Grant Calcaterra)",-2.44,-3.05,18.0,2024,266
+4.0,8:53,1.0,10.0,PHI 38,10.0,17.0,"Penalty on Joshua Ezeudu: False Start, 5 yards (accepted) (no play)",3.05,2.72,18.0,2024,266
+4.0,8:53,1.0,15.0,PHI 43,10.0,17.0,Tyrone Tracy right tackle for 8 yards (tackle by Oren Burks and Tristin McCollum),2.72,2.91,18.0,2024,266
+4.0,8:16,2.0,7.0,PHI 35,10.0,17.0,"Penalty on Greg Van Roten: False Start, 5 yards (accepted) (no play)",2.91,2.24,18.0,2024,266
+4.0,8:16,2.0,12.0,PHI 40,10.0,17.0,Drew Lock pass complete short middle to Wan'Dale Robinson for 5 yards (tackle by Avonte Maddox),2.24,2.21,18.0,2024,266
+4.0,7:32,3.0,7.0,PHI 35,10.0,17.0,Drew Lock pass incomplete short right,2.21,0.97,18.0,2024,266
+4.0,7:26,4.0,7.0,PHI 35,13.0,17.0,Graham Gano 53 yard field goal good,0.97,3.0,18.0,2024,266
+4.0,7:21,,,NYG 35,13.0,17.0,"Graham Gano kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,266
+4.0,7:21,1.0,10.0,PHI 30,13.0,17.0,Kenneth Gainwell right guard for 3 yards (tackle by Darius Muasau and Jordon Riley),0.94,0.8,18.0,2024,266
+4.0,6:46,2.0,7.0,PHI 33,13.0,17.0,Tanner McKee pass complete short right to Kenneth Gainwell for 6 yards (tackle by Ty Summers),0.8,0.89,18.0,2024,266
+4.0,6:08,3.0,1.0,PHI 39,13.0,17.0,Tanner McKee up the middle for 2 yards (tackle by Darius Muasau and Boogie Basham),0.89,1.66,18.0,2024,266
+4.0,5:18,1.0,10.0,PHI 41,13.0,17.0,Tanner McKee pass incomplete short right intended for Grant Calcaterra (defended by Ty Summers),1.66,1.12,18.0,2024,266
+4.0,5:13,2.0,10.0,PHI 41,13.0,17.0,Tanner McKee pass complete short right to Ainias Smith for 7 yards (tackle by Dyontae Johnson),1.12,1.36,18.0,2024,266
+4.0,4:32,3.0,3.0,PHI 48,13.0,17.0,Ainias Smith right end for 4 yards (tackle by Cordale Flott and Brian Burns),1.36,2.39,18.0,2024,266
+4.0,3:53,1.0,10.0,NYG 48,13.0,17.0,Kenneth Gainwell left end for -4 yards (tackle by Tomon Fox),2.39,1.31,18.0,2024,266
+4.0,3:00,2.0,14.0,PHI 48,13.0,17.0,Tanner McKee pass complete short middle to Kenneth Gainwell for 3 yards (tackle by Dyontae Johnson and Anthony Johnson),1.31,1.03,18.0,2024,266
+4.0,2:14,3.0,11.0,NYG 49,13.0,17.0,Tanner McKee pass complete short middle to Ainias Smith for 8 yards (tackle by Darius Muasau and Isaiah Simmons),1.03,0.53,18.0,2024,266
+4.0,2:00,4.0,3.0,NYG 41,13.0,17.0,"Penalty on Boogie Basham: Neutral Zone Infraction, 5 yards (accepted) (no play)",0.53,3.18,18.0,2024,266
+4.0,2:00,1.0,10.0,NYG 36,13.0,17.0,Kenneth Gainwell up the middle for -1 yards (tackle by Darius Muasau),3.18,2.5,18.0,2024,266
+4.0,1:55,,,,,,Timeout #1 by New York Giants,,,18.0,2024,266
+4.0,1:55,2.0,11.0,NYG 37,13.0,17.0,Tanner McKee pass incomplete short middle intended for Kenneth Gainwell,2.5,1.82,18.0,2024,266
+4.0,1:51,,,,,,Timeout #1 by Philadelphia Eagles,,,18.0,2024,266
+4.0,1:51,3.0,11.0,NYG 37,13.0,17.0,"Tanner McKee pass complete short left to Ainias Smith for 5 yards (tackle by Andru Phillips). Penalty on Kayvon Thibodeaux: Roughing the Passer, 15 yards (accepted)",1.82,4.44,18.0,2024,266
+4.0,1:46,1.0,10.0,NYG 17,13.0,17.0,Kenneth Gainwell right guard for -2 yards (tackle by Elijah Garcia),4.44,3.6,18.0,2024,266
+4.0,1:42,,,,,,Timeout #2 by New York Giants,,,18.0,2024,266
+4.0,1:42,2.0,12.0,NYG 19,13.0,17.0,Kenneth Gainwell left end for 5 yards (tackle by Darius Muasau),3.6,3.5,18.0,2024,266
+4.0,1:36,,,,,,Timeout #3 by New York Giants,,,18.0,2024,266
+4.0,1:36,3.0,7.0,NYG 14,13.0,17.0,Kenneth Gainwell right end for no gain (tackle by Jason Pinnock and Boogie Basham),3.5,2.51,18.0,2024,266
+4.0,0:51,,,,,,Timeout #2 by Philadelphia Eagles,,,18.0,2024,266
+4.0,0:51,4.0,7.0,NYG 14,13.0,20.0,Jake Elliott 32 yard field goal good,2.51,3.0,18.0,2024,266
+4.0,0:47,,,PHI 35,13.0,20.0,"Jake Elliott kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,266
+4.0,0:47,1.0,10.0,NYG 30,13.0,20.0,Drew Lock pass complete short right to Daniel Bellinger for 4 yards (tackle by Oren Burks),0.94,0.93,18.0,2024,266
+4.0,0:41,2.0,6.0,NYG 34,13.0,20.0,Drew Lock pass complete short right to Eric Gray for 4 yards (tackle by Oren Burks),0.93,0.76,18.0,2024,266
+4.0,0:36,3.0,2.0,NYG 38,13.0,20.0,Drew Lock pass deep left intended for Jalin Hyatt is intercepted by Sydney Brown at PHI-33 and returned for 21 yards (tackle by Joshua Ezeudu),0.76,-2.52,18.0,2024,266
+4.0,0:24,1.0,10.0,NYG 46,13.0,20.0,Tanner McKee kneels for -1 yards,2.52,1.84,18.0,2024,266

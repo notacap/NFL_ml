@@ -1,0 +1,161 @@
+Quarter,Time,Down,ToGo,Location,DAL,NYG,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Giants won the coin toss and deferred, Cowboys to receive the opening kickoff.",,,4.0,2024,49
+1.0,15:00,,,NYG 35,0.0,0.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,49
+1.0,15:00,1.0,10.0,DAL 30,0.0,0.0,Rico Dowdle left guard for 6 yards (tackle by Bobby Okereke),0.94,1.2,4.0,2024,49
+1.0,14:32,2.0,4.0,DAL 36,0.0,0.0,Rico Dowdle right tackle for -1 yards (tackle by Nick McCloud and Cordale Flott),1.2,0.37,4.0,2024,49
+1.0,13:57,3.0,5.0,DAL 35,0.0,0.0,Dak Prescott pass incomplete short right,0.37,-1.04,4.0,2024,49
+1.0,13:53,4.0,5.0,DAL 35,0.0,0.0,"Bryan Anger punts 50 yards, fair catch by Ihmir Smith-Marsette at NYG-15",-1.04,0.22,4.0,2024,49
+1.0,13:46,1.0,10.0,NYG 15,0.0,0.0,Devin Singletary right tackle for 5 yards (tackle by Mazi Smith and Eric Kendricks),-0.22,0.08,4.0,2024,49
+1.0,13:04,2.0,5.0,NYG 20,0.0,0.0,Tyrone Tracy up the middle for 1 yard (tackle by DeMarvion Overshown),0.08,-0.63,4.0,2024,49
+1.0,12:21,3.0,4.0,NYG 21,0.0,0.0,Daniel Jones pass complete deep left to Malik Nabers for 39 yards (tackle by Malik Hooker),-0.63,2.92,4.0,2024,49
+1.0,11:37,1.0,10.0,DAL 40,0.0,0.0,Devin Singletary left end for 3 yards (tackle by Andrew Booth),2.92,2.78,4.0,2024,49
+1.0,10:49,2.0,7.0,DAL 37,0.0,0.0,"Daniel Jones left end for 4 yards (tackle by Donovan Wilson). Penalty on Daniel Bellinger: Offensive Facemask, 15 yards (accepted)",2.78,1.29,4.0,2024,49
+1.0,10:29,2.0,18.0,DAL 48,0.0,0.0,Daniel Jones pass complete short left to Wan'Dale Robinson for 8 yards (tackle by Andrew Booth),1.29,1.68,4.0,2024,49
+1.0,9:47,3.0,10.0,DAL 40,0.0,0.0,Daniel Jones pass complete short right to Wan'Dale Robinson for 6 yards (tackle by Jourdan Lewis),1.68,1.08,4.0,2024,49
+1.0,9:07,4.0,4.0,DAL 34,0.0,3.0,Greg Joseph 52 yard field goal good,1.08,3.0,4.0,2024,49
+1.0,9:03,,,NYG 35,0.0,3.0,"Greg Joseph kicks off 65 yards, touchback.. Penalty on Jalen Tolbert: Illegal Formation, 5 yards (accepted)",0.0,0.61,4.0,2024,49
+1.0,9:03,1.0,10.0,DAL 25,0.0,3.0,Dak Prescott pass complete short middle to CeeDee Lamb for 5 yards (tackle by Micah McFadden),0.61,0.74,4.0,2024,49
+1.0,8:42,2.0,5.0,DAL 30,0.0,3.0,Dak Prescott pass complete short left to CeeDee Lamb for 11 yards (tackle by Deonte Banks),0.74,1.66,4.0,2024,49
+1.0,8:00,1.0,10.0,DAL 41,0.0,3.0,"Dak Prescott pass complete short right to Deuce Vaughn for 5 yards (tackle by Micah McFadden). Penalty on Jalen Tolbert: Offensive Pass Interference, 10 yards (accepted) (no play)",1.66,1.0,4.0,2024,49
+1.0,7:44,1.0,20.0,DAL 31,0.0,3.0,CeeDee Lamb right end for 10 yards (tackle by Jason Pinnock and Micah McFadden),1.0,1.12,4.0,2024,49
+1.0,7:07,2.0,10.0,DAL 41,0.0,3.0,Dak Prescott pass complete short right to Jake Ferguson for 7 yards (tackle by Bobby Okereke),1.12,1.36,4.0,2024,49
+1.0,6:28,3.0,3.0,DAL 48,0.0,3.0,Dak Prescott pass complete short middle to Hunter Luepke for 11 yards (tackle by Cordale Flott),1.36,2.85,4.0,2024,49
+1.0,5:47,1.0,10.0,NYG 41,0.0,3.0,Rico Dowdle right guard for 1 yard (tackle by Rakeem Nunez-Roches and Nick McCloud),2.85,2.44,4.0,2024,49
+1.0,5:13,2.0,9.0,NYG 40,0.0,3.0,Dak Prescott pass complete short right to CeeDee Lamb for 10 yards (tackle by Deonte Banks),2.44,3.58,4.0,2024,49
+1.0,4:39,1.0,10.0,NYG 30,0.0,3.0,Dak Prescott pass complete short middle to CeeDee Lamb for 4 yards (tackle by Jason Pinnock),3.58,3.57,4.0,2024,49
+1.0,4:06,2.0,6.0,NYG 26,0.0,3.0,Dak Prescott pass complete short right to Jalen Tolbert for 3 yards (tackle by Cordale Flott),3.57,3.27,4.0,2024,49
+1.0,3:29,3.0,3.0,NYG 23,0.0,3.0,Dak Prescott pass complete short middle to Brandin Cooks for 16 yards (tackle by Tyler Nubin),3.27,5.6,4.0,2024,49
+1.0,2:52,1.0,7.0,NYG 7,0.0,3.0,Rico Dowdle left tackle for 2 yards (tackle by Dexter Lawrence and Micah McFadden),5.6,5.15,4.0,2024,49
+1.0,2:18,2.0,5.0,NYG 5,0.0,3.0,"Dak Prescott pass incomplete short middle intended for Jake Ferguson. Penalty on Tyler Guyton: Offensive Holding, 10 yards (accepted) (no play)",5.15,3.46,4.0,2024,49
+1.0,2:13,2.0,15.0,NYG 15,6.0,3.0,"Dak Prescott pass complete short left to Rico Dowdle for 15 yards, touchdown",3.46,7.0,4.0,2024,49
+1.0,2:06,,,NYG 15,7.0,3.0,Brandon Aubrey kicks extra point good,0.0,0.0,4.0,2024,49
+1.0,2:06,,,DAL 35,7.0,3.0,"Brandon Aubrey kicks off 62 yards, returned by Tyrone Tracy for 20 yards (tackle by Marshawn Kneeland)",0.0,0.48,4.0,2024,49
+1.0,2:01,1.0,10.0,NYG 23,7.0,3.0,Devin Singletary up the middle for 4 yards (tackle by Malik Hooker and Eric Kendricks),0.48,0.47,4.0,2024,49
+1.0,1:27,2.0,6.0,NYG 27,7.0,3.0,Devin Singletary right guard for 3 yards (tackle by Eric Kendricks),0.47,0.17,4.0,2024,49
+1.0,0:55,3.0,3.0,NYG 30,7.0,3.0,Daniel Jones pass complete short right to Wan'Dale Robinson for 4 yards (tackle by Malik Hooker),0.17,1.2,4.0,2024,49
+1.0,0:19,1.0,10.0,NYG 34,7.0,3.0,Malik Nabers left end for -4 yards (tackle by Micah Parsons),1.2,0.12,4.0,2024,49
+2.0,15:00,2.0,14.0,NYG 30,7.0,3.0,Daniel Jones pass incomplete short left intended for Malik Nabers (defended by DeMarvion Overshown),0.12,-0.56,4.0,2024,49
+2.0,14:55,3.0,14.0,NYG 30,7.0,3.0,"Daniel Jones pass deep right is intercepted by Trevon Diggs at DAL-32 and returned for no gain (tackle by Darius Slayton). Penalty on Carl Lawson: Defensive Offside, 5 yards (accepted) (no play)",-0.56,0.1,4.0,2024,49
+2.0,14:46,3.0,9.0,NYG 35,7.0,3.0,Daniel Jones pass complete short right to Wan'Dale Robinson for 11 yards (tackle by Donovan Wilson),0.1,1.99,4.0,2024,49
+2.0,14:06,1.0,10.0,NYG 46,7.0,3.0,Daniel Jones pass complete deep left to Darius Slayton for 28 yards (tackle by Eric Kendricks),1.99,3.84,4.0,2024,49
+2.0,13:20,1.0,10.0,DAL 26,7.0,3.0,"Daniel Jones pass complete deep right to Tyrone Tracy for no gain (tackle by Malik Hooker). Penalty on Tyrone Tracy: Illegal Shift, 5 yards (accepted) (no play)",3.84,3.51,4.0,2024,49
+2.0,13:13,1.0,15.0,DAL 31,7.0,3.0,Eric Gray up the middle for 1 yard (tackle by Eric Kendricks),3.51,2.76,4.0,2024,49
+2.0,12:36,2.0,14.0,DAL 30,7.0,3.0,Daniel Jones pass complete short right to Wan'Dale Robinson for 5 yards (tackle by Eric Kendricks),2.76,2.74,4.0,2024,49
+2.0,11:53,3.0,9.0,DAL 25,7.0,3.0,Daniel Jones pass complete short right to Malik Nabers for 3 yards (tackle by DeMarvion Overshown),2.74,2.02,4.0,2024,49
+2.0,11:14,4.0,6.0,DAL 22,7.0,6.0,Greg Joseph 41 yard field goal good,2.02,3.0,4.0,2024,49
+2.0,11:11,,,NYG 35,7.0,6.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,49
+2.0,11:11,1.0,10.0,DAL 30,7.0,6.0,Ezekiel Elliott up the middle for 5 yards (tackle by Azeez Ojulari),0.94,1.07,4.0,2024,49
+2.0,10:41,2.0,5.0,DAL 35,7.0,6.0,Dak Prescott left tackle for no gain (tackle by Azeez Ojulari),1.07,0.37,4.0,2024,49
+2.0,10:06,3.0,5.0,DAL 35,7.0,6.0,"Dak Prescott pass complete short left to Jake Ferguson for 4 yards. Jake Ferguson fumbles, ball out of bounds at DAL-39 (forced by Tyler Nubin). Jake Ferguson fumbles out of bounds",0.37,-0.78,4.0,2024,49
+2.0,9:59,4.0,1.0,DAL 39,7.0,6.0,Hunter Luepke left end for 6 yards (tackle by Kayvon Thibodeaux),-0.78,1.93,4.0,2024,49
+2.0,9:25,1.0,10.0,DAL 45,13.0,6.0,"Dak Prescott pass complete deep left to CeeDee Lamb for 55 yards, touchdown",1.93,7.0,4.0,2024,49
+2.0,9:16,,,NYG 21,13.0,6.0,"Penalty on CeeDee Lamb: Taunting / Offense, 15 yards (accepted) (no play)",0.0,0.0,4.0,2024,49
+2.0,9:16,,,NYG 30,14.0,6.0,Brandon Aubrey kicks extra point good,0.0,0.0,4.0,2024,49
+2.0,9:16,,,DAL 35,14.0,6.0,"Brandon Aubrey kicks off 60 yards, returned by Eric Gray for 23 yards (tackle by Israel Mukuamu)",0.0,0.81,4.0,2024,49
+2.0,9:10,1.0,10.0,NYG 28,14.0,6.0,"Devin Singletary left end for 2 yards (tackle by Eric Kendricks and DeMarvion Overshown) DAL challenged the runner was down by contact ruling, and the play was upheld.",0.81,0.53,4.0,2024,49
+2.0,8:30,2.0,8.0,NYG 30,14.0,6.0,Daniel Jones pass incomplete deep left intended for Malik Nabers (defended by Malik Hooker),0.53,-0.16,4.0,2024,49
+2.0,8:22,3.0,8.0,NYG 30,14.0,6.0,Daniel Jones pass complete short left to Malik Nabers for 10 yards (tackle by Andrew Booth),-0.16,1.6,4.0,2024,49
+2.0,7:43,1.0,10.0,NYG 40,14.0,6.0,Tyrone Tracy right guard for no gain (tackle by Mazi Smith),1.6,1.05,4.0,2024,49
+2.0,7:04,2.0,10.0,NYG 40,14.0,6.0,Daniel Jones pass complete short right to Malik Nabers for 2 yards (tackle by DeMarvion Overshown),1.05,0.63,4.0,2024,49
+2.0,6:25,3.0,8.0,NYG 42,14.0,6.0,Daniel Jones pass complete short left to Wan'Dale Robinson for 7 yards (tackle by Jourdan Lewis),0.63,-0.13,4.0,2024,49
+2.0,5:41,4.0,1.0,NYG 49,14.0,6.0,Devin Singletary left end for 3 yards (tackle by DeMarvion Overshown),-0.13,2.39,4.0,2024,49
+2.0,5:18,1.0,10.0,DAL 48,14.0,6.0,Daniel Jones pass complete short left to Devin Singletary for 14 yards (tackle by Osa Odighizuwa),2.39,3.31,4.0,2024,49
+2.0,4:33,1.0,10.0,DAL 34,14.0,6.0,Tyrone Tracy up the middle for 1 yard (tackle by Chauncey Golston and Marshawn Kneeland),3.31,2.91,4.0,2024,49
+2.0,3:52,2.0,9.0,DAL 33,14.0,6.0,"Penalty on DAL: Defensive Too Many Men on Field, 5 yards (accepted) (no play)",2.91,3.58,4.0,2024,49
+2.0,3:33,2.0,4.0,DAL 28,14.0,6.0,Devin Singletary right tackle for 1 yard (tackle by Eric Kendricks and Donovan Wilson),3.58,3.01,4.0,2024,49
+2.0,2:55,3.0,3.0,DAL 27,14.0,6.0,Daniel Jones right tackle for 5 yards (tackle by Andrew Booth),3.01,4.11,4.0,2024,49
+2.0,2:14,1.0,10.0,DAL 22,14.0,6.0,"Daniel Jones pass incomplete short left intended for Wan'Dale Robinson. Penalty on Jermaine Eluemunor: Ineligible Downfield Pass, 5 yards (accepted) (no play)",4.11,3.78,4.0,2024,49
+2.0,2:09,1.0,15.0,DAL 27,14.0,6.0,Devin Singletary left guard for 1 yard (tackle by Eric Kendricks and DeMarcus Lawrence),3.78,3.02,4.0,2024,49
+2.0,2:00,2.0,14.0,DAL 26,14.0,6.0,Daniel Jones pass complete short left to Malik Nabers for 5 yards (tackle by Donovan Wilson),3.02,3.01,4.0,2024,49
+2.0,1:16,3.0,9.0,DAL 21,14.0,6.0,"Penalty on Micah Parsons: Neutral Zone Infraction, 5 yards (accepted) (no play)",3.01,3.74,4.0,2024,49
+2.0,1:16,,,,,,Timeout #2 by Dallas Cowboys,,,4.0,2024,49
+2.0,1:16,3.0,4.0,DAL 16,14.0,6.0,"Daniel Jones sacked by DeMarcus Lawrence for -4 yards. Penalty on Jermaine Eluemunor: Offensive Holding, 10 yards (declined)",3.74,2.12,4.0,2024,49
+2.0,1:10,4.0,8.0,DAL 20,14.0,9.0,"Greg Joseph 38 yard field goal good. Penalty on Juanyeh Thomas: Defensive Offside, 5 yards (declined)",2.12,3.0,4.0,2024,49
+2.0,1:06,,,NYG 35,14.0,9.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,49
+2.0,1:06,1.0,10.0,DAL 30,14.0,9.0,Dak Prescott pass complete short middle to CeeDee Lamb for 9 yards (tackle by Isaiah Simmons),0.94,1.61,4.0,2024,49
+2.0,0:59,2.0,1.0,DAL 39,14.0,9.0,Dak Prescott pass complete short middle to Jake Ferguson for 8 yards (tackle by Jason Pinnock and Bobby Okereke),1.61,2.06,4.0,2024,49
+2.0,0:38,1.0,10.0,DAL 47,14.0,9.0,Dak Prescott sacked by Kayvon Thibodeaux for -8 yards,2.06,0.44,4.0,2024,49
+2.0,0:32,,,,,,Timeout #3 by Dallas Cowboys,,,4.0,2024,49
+2.0,0:32,2.0,18.0,DAL 39,14.0,9.0,Dak Prescott pass complete short right to Jalen Tolbert for 6 yards (tackle by Duke Shelley),0.44,0.56,4.0,2024,49
+2.0,0:28,3.0,12.0,DAL 45,14.0,9.0,"Dak Prescott pass complete deep left to Jalen Tolbert for no gain (tackle by Duke Shelley). Penalty on Kayvon Thibodeaux: Defensive Offside, 5 yards (offset) . Penalty on Tyler Guyton: Offensive Holding, 10 yards (offset) (no play)",0.56,0.56,4.0,2024,49
+2.0,0:20,,,,,,Timeout #1 by New York Giants,,,4.0,2024,49
+2.0,0:20,3.0,12.0,DAL 45,14.0,9.0,Dak Prescott pass incomplete short left intended for Brandin Cooks,0.56,-0.39,4.0,2024,49
+2.0,0:14,4.0,12.0,DAL 45,14.0,9.0,"Penalty on Juanyeh Thomas: False Start, 5 yards (accepted) (no play)",-0.39,-0.72,4.0,2024,49
+2.0,0:14,4.0,17.0,DAL 40,14.0,9.0,"Bryan Anger punts 60 yards, touchback.. Penalty on Brevyn Spann-Ford: Offensive Holding, 10 yards (accepted)",-0.72,-0.94,4.0,2024,49
+2.0,0:06,1.0,10.0,NYG 30,14.0,9.0,Daniel Jones kneels for -1 yards,0.94,0.26,4.0,2024,49
+3.0,15:00,,,DAL 35,14.0,9.0,"Brandon Aubrey kicks off 60 yards, returned by Tyrone Tracy for 12 yards. Tyrone Tracy fumbles (forced by Juanyeh Thomas), recovered by Chris Manhertz at NYG-21 and returned for -1 yards (tackle by Hunter Luepke)",0.0,0.28,4.0,2024,49
+3.0,14:54,1.0,10.0,NYG 20,14.0,9.0,Devin Singletary left guard for -3 yards (tackle by Mazi Smith),0.28,-0.79,4.0,2024,49
+3.0,14:13,2.0,13.0,NYG 17,14.0,9.0,Daniel Jones pass complete short middle to Darius Slayton for 16 yards (tackle by Jourdan Lewis),-0.79,1.14,4.0,2024,49
+3.0,13:39,1.0,10.0,NYG 33,14.0,9.0,Daniel Jones pass complete short right to Darius Slayton for 12 yards (tackle by Amani Oruwariye),1.14,1.93,4.0,2024,49
+3.0,12:58,1.0,10.0,NYG 45,14.0,9.0,Daniel Jones pass complete short left to Wan'Dale Robinson for 8 yards (tackle by Eric Kendricks),1.93,2.46,4.0,2024,49
+3.0,12:23,2.0,2.0,DAL 47,14.0,9.0,Devin Singletary up the middle for 3 yards (tackle by Osa Odighizuwa),2.46,2.65,4.0,2024,49
+3.0,11:39,1.0,10.0,DAL 44,14.0,9.0,Daniel Jones pass complete short right to Tyrone Tracy for 19 yards (tackle by Trevon Diggs and Chauncey Golston),2.65,3.91,4.0,2024,49
+3.0,10:50,1.0,10.0,DAL 25,14.0,9.0,Daniel Jones pass complete short left to Malik Nabers for 15 yards (tackle by Marist Liufau),3.91,4.91,4.0,2024,49
+3.0,10:07,1.0,10.0,DAL 10,14.0,9.0,Daniel Jones pass incomplete short right intended for Wan'Dale Robinson,4.91,4.19,4.0,2024,49
+3.0,9:58,2.0,10.0,DAL 10,14.0,9.0,Devin Singletary left guard for 2 yards (tackle by Marist Liufau),4.19,3.58,4.0,2024,49
+3.0,9:28,3.0,8.0,DAL 8,14.0,9.0,Daniel Jones pass complete short left to Wan'Dale Robinson for 5 yards (tackle by DeMarvion Overshown),3.58,3.04,4.0,2024,49
+3.0,8:44,4.0,3.0,DAL 3,14.0,12.0,Greg Joseph 22 yard field goal good,3.04,3.0,4.0,2024,49
+3.0,8:42,,,NYG 35,14.0,12.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,49
+3.0,8:42,1.0,10.0,DAL 30,14.0,12.0,Dak Prescott pass complete short right to Jake Ferguson for 6 yards (tackle by Cordale Flott),0.94,1.2,4.0,2024,49
+3.0,8:02,2.0,4.0,DAL 36,14.0,12.0,Dak Prescott pass complete short middle to Jake Ferguson for 6 yards (tackle by Bobby Okereke),1.2,1.73,4.0,2024,49
+3.0,7:32,1.0,10.0,DAL 42,14.0,12.0,Rico Dowdle left end for 8 yards (tackle by Tyler Nubin and Kayvon Thibodeaux),1.73,2.27,4.0,2024,49
+3.0,7:02,2.0,2.0,DAL 50,14.0,12.0,Rico Dowdle up the middle for 9 yards (tackle by Brian Burns),2.27,2.85,4.0,2024,49
+3.0,6:28,1.0,10.0,NYG 41,14.0,12.0,Dak Prescott pass complete short right to Ezekiel Elliott for 5 yards (tackle by Tyler Nubin),2.85,2.98,4.0,2024,49
+3.0,5:54,2.0,5.0,NYG 36,14.0,12.0,Dak Prescott pass complete short middle to CeeDee Lamb for 4 yards (tackle by Tyler Nubin),2.98,2.81,4.0,2024,49
+3.0,5:21,3.0,1.0,NYG 32,14.0,12.0,"Dak Prescott pass incomplete short left intended for Hunter Luepke. Penalty on Tyler Guyton: Offensive Holding, 10 yards (accepted) (no play)",2.81,1.49,4.0,2024,49
+3.0,5:16,3.0,11.0,NYG 42,14.0,12.0,Dak Prescott pass incomplete short left intended for Brandin Cooks (defended by Cordale Flott),1.49,0.46,4.0,2024,49
+3.0,5:11,4.0,11.0,NYG 42,17.0,12.0,Brandon Aubrey 60 yard field goal good,0.46,3.0,4.0,2024,49
+3.0,5:06,,,DAL 35,17.0,12.0,"Brandon Aubrey kicks off 64 yards, returned by Eric Gray for 31 yards (tackle by Hunter Luepke)",0.0,1.07,4.0,2024,49
+3.0,5:00,1.0,10.0,NYG 32,17.0,12.0,Daniel Jones pass complete short right to Malik Nabers for 5 yards (tackle by Malik Hooker),1.07,1.2,4.0,2024,49
+3.0,4:26,2.0,5.0,NYG 37,17.0,12.0,Daniel Jones right end for -5 yards (tackle by Marshawn Kneeland),1.2,-0.16,4.0,2024,49
+3.0,3:43,3.0,10.0,NYG 32,17.0,12.0,Daniel Jones pass complete short middle to Wan'Dale Robinson for 6 yards (tackle by Jourdan Lewis),-0.16,-0.85,4.0,2024,49
+3.0,3:05,4.0,4.0,NYG 38,17.0,12.0,"Jamie Gillan punts 44 yards, fair catch by KaVontae Turpin at DAL-18",-0.85,-0.04,4.0,2024,49
+3.0,2:57,1.0,10.0,DAL 18,17.0,12.0,"Ezekiel Elliott up the middle for no gain (tackle by Tyler Nubin). Penalty on Tyler Smith: Offensive Holding, 10 yards (declined) . Penalty on Cooper Beebe: Offensive Holding, 9 yards (accepted) (no play)",0.04,-0.72,4.0,2024,49
+3.0,2:46,1.0,19.0,DAL 9,17.0,12.0,CeeDee Lamb left end for -1 yards (tackle by Brian Burns),-0.72,-1.51,4.0,2024,49
+3.0,2:01,2.0,20.0,DAL 8,17.0,12.0,Ezekiel Elliott up the middle for 8 yards (tackle by Micah McFadden),-1.51,-1.5,4.0,2024,49
+3.0,1:21,3.0,12.0,DAL 16,17.0,12.0,Dak Prescott pass complete short left to Hunter Luepke for 3 yards (tackle by Jason Pinnock),-1.5,-2.14,4.0,2024,49
+3.0,0:44,4.0,9.0,DAL 19,17.0,12.0,"Bryan Anger punts 55 yards, returned by Ihmir Smith-Marsette for 22 yards (tackle by Marist Liufau and Hunter Luepke)",-2.14,-2.13,4.0,2024,49
+3.0,0:31,1.0,10.0,NYG 48,17.0,12.0,Daniel Jones pass complete short left to Malik Nabers for 8 yards (tackle by Malik Hooker),2.13,2.66,4.0,2024,49
+4.0,15:00,2.0,2.0,DAL 44,17.0,12.0,"Devin Singletary left end for 1 yard (tackle by Donovan Wilson). Penalty on Chris Manhertz: Offensive Holding, 10 yards (accepted)",2.66,1.45,4.0,2024,49
+4.0,14:39,2.0,11.0,NYG 47,17.0,12.0,Daniel Jones pass incomplete deep right intended for Darius Slayton (defended by Amani Oruwariye),1.45,0.76,4.0,2024,49
+4.0,14:31,,,,,,Timeout #1 by New York Giants,,,4.0,2024,49
+4.0,14:31,3.0,11.0,NYG 47,17.0,12.0,Daniel Jones pass complete short right to Wan'Dale Robinson for 8 yards (tackle by Osa Odighizuwa),0.76,0.27,4.0,2024,49
+4.0,13:42,4.0,3.0,DAL 45,17.0,12.0,Daniel Jones pass complete short left to Malik Nabers for 8 yards (tackle by Trevon Diggs),0.27,3.12,4.0,2024,49
+4.0,12:57,1.0,10.0,DAL 37,17.0,12.0,"Daniel Jones pass complete short middle to Malik Nabers for 17 yards (tackle by DeMarvion Overshown and Eric Kendricks). Penalty on Amani Oruwariye: Illegal Contact, 5 yards (declined)",3.12,4.24,4.0,2024,49
+4.0,12:32,1.0,10.0,DAL 20,17.0,12.0,Daniel Jones pass complete short right to Malik Nabers for -1 yards (tackle by Amani Oruwariye),4.24,3.56,4.0,2024,49
+4.0,11:51,2.0,11.0,DAL 21,17.0,12.0,Devin Singletary right end for -3 yards (tackle by Marist Liufau),3.56,2.48,4.0,2024,49
+4.0,11:21,3.0,14.0,DAL 24,17.0,12.0,Daniel Jones pass incomplete short right intended for Darius Slayton,2.48,1.87,4.0,2024,49
+4.0,11:16,4.0,14.0,DAL 24,17.0,15.0,Greg Joseph 42 yard field goal good,1.87,3.0,4.0,2024,49
+4.0,11:11,,,NYG 35,17.0,15.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,49
+4.0,11:11,1.0,10.0,DAL 30,17.0,15.0,Dak Prescott pass complete short middle to Jake Ferguson for 9 yards (tackle by Micah McFadden),0.94,1.61,4.0,2024,49
+4.0,10:38,2.0,1.0,DAL 39,17.0,15.0,Rico Dowdle left guard for 6 yards (tackle by Tyler Nubin),1.61,1.93,4.0,2024,49
+4.0,10:05,1.0,10.0,DAL 45,17.0,15.0,Dak Prescott pass complete short right to Jake Ferguson for 9 yards (tackle by Nick McCloud),1.93,2.6,4.0,2024,49
+4.0,9:26,2.0,1.0,NYG 46,17.0,15.0,Rico Dowdle right tackle for 6 yards (tackle by Azeez Ojulari and Rakeem Nunez-Roches),2.6,2.92,4.0,2024,49
+4.0,8:51,1.0,10.0,NYG 40,17.0,15.0,Dak Prescott pass incomplete short right intended for Brandin Cooks (defended by Cordale Flott),2.92,2.37,4.0,2024,49
+4.0,8:45,2.0,10.0,NYG 40,17.0,15.0,Dak Prescott pass complete short right to Jalen Tolbert for 15 yards (tackle by Tyler Nubin),2.37,3.91,4.0,2024,49
+4.0,8:10,1.0,10.0,NYG 25,17.0,15.0,Rico Dowdle right end for 4 yards (tackle by D.J. Davidson and Tyler Nubin),3.91,3.9,4.0,2024,49
+4.0,7:43,2.0,6.0,NYG 21,17.0,15.0,CeeDee Lamb left end for -1 yards (tackle by Bobby Okereke),3.9,3.07,4.0,2024,49
+4.0,7:04,3.0,7.0,NYG 22,17.0,15.0,Dak Prescott pass incomplete short middle intended for CeeDee Lamb (defended by Bobby Okereke),3.07,1.99,4.0,2024,49
+4.0,6:59,4.0,7.0,NYG 22,20.0,15.0,Brandon Aubrey 40 yard field goal good,1.99,3.0,4.0,2024,49
+4.0,6:54,,,DAL 35,20.0,15.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,49
+4.0,6:54,1.0,10.0,NYG 30,20.0,15.0,Daniel Jones pass incomplete short right,0.94,0.39,4.0,2024,49
+4.0,6:48,2.0,10.0,NYG 30,20.0,15.0,Daniel Jones pass complete short middle to Theo Johnson for 6 yards (tackle by DeMarvion Overshown),0.39,0.5,4.0,2024,49
+4.0,6:19,3.0,4.0,NYG 36,20.0,15.0,Daniel Jones pass complete short left to Wan'Dale Robinson for 3 yards (tackle by Amani Oruwariye),0.5,-0.78,4.0,2024,49
+4.0,5:33,4.0,1.0,NYG 39,20.0,15.0,Devin Singletary right guard for 2 yards (tackle by Eric Kendricks and Osa Odighizuwa),-0.78,1.66,4.0,2024,49
+4.0,4:53,1.0,10.0,NYG 41,20.0,15.0,Daniel Jones pass complete short left to Malik Nabers for 4 yards (tackle by Jourdan Lewis),1.66,1.66,4.0,2024,49
+4.0,4:18,2.0,6.0,NYG 45,20.0,15.0,Tyrone Tracy left tackle for no gain (tackle by Micah Parsons and Eric Kendricks),1.66,0.96,4.0,2024,49
+4.0,3:36,3.0,6.0,NYG 45,20.0,15.0,Daniel Jones pass incomplete short middle intended for Wan'Dale Robinson (defended by Jourdan Lewis),0.96,-0.39,4.0,2024,49
+4.0,3:30,4.0,6.0,NYG 45,20.0,15.0,Daniel Jones pass incomplete deep left intended for Malik Nabers (defended by Trevon Diggs),-0.39,-2.59,4.0,2024,49
+4.0,3:21,1.0,10.0,NYG 45,20.0,15.0,Ezekiel Elliott left guard for 7 yards (tackle by D.J. Davidson),2.59,2.99,4.0,2024,49
+4.0,3:16,,,,,,Timeout #2 by New York Giants,,,4.0,2024,49
+4.0,3:16,2.0,3.0,NYG 38,20.0,15.0,Ezekiel Elliott left tackle for 2 yards (tackle by Dexter Lawrence),2.99,2.54,4.0,2024,49
+4.0,3:10,,,,,,Timeout #3 by New York Giants,,,4.0,2024,49
+4.0,3:10,3.0,1.0,NYG 36,20.0,15.0,Hunter Luepke up the middle for 2 yards (tackle by Micah McFadden),2.54,3.31,4.0,2024,49
+4.0,2:30,1.0,10.0,NYG 34,20.0,15.0,Ezekiel Elliott up the middle for -3 yards (tackle by Micah McFadden),3.31,2.37,4.0,2024,49
+4.0,2:00,2.0,13.0,NYG 37,20.0,15.0,Rico Dowdle up the middle for 1 yard (tackle by Micah McFadden and Brian Burns),2.37,1.82,4.0,2024,49
+4.0,1:18,3.0,12.0,NYG 36,20.0,15.0,Rico Dowdle left end for 4 yards (tackle by Bobby Okereke),1.82,1.24,4.0,2024,49
+4.0,0:31,4.0,8.0,NYG 32,20.0,15.0,Brandon Aubrey 51 yard field goal no good,1.24,-1.66,4.0,2024,49
+4.0,0:28,1.0,10.0,NYG 41,20.0,15.0,Daniel Jones pass incomplete deep left intended for Wan'Dale Robinson,1.66,1.12,4.0,2024,49
+4.0,0:22,2.0,10.0,NYG 41,20.0,15.0,Daniel Jones pass incomplete short right,1.12,0.43,4.0,2024,49
+4.0,0:15,3.0,10.0,NYG 41,20.0,15.0,Daniel Jones pass deep right intended for Jalin Hyatt is intercepted by Amani Oruwariye at DAL-4 and returned for no gain (tackle by Jalin Hyatt),0.43,0.38,4.0,2024,49
+4.0,0:05,1.0,10.0,DAL 4,20.0,15.0,Dak Prescott kneels for -1 yards,-0.38,-0.85,4.0,2024,49

@@ -1,0 +1,161 @@
+Quarter,Time,Down,ToGo,Location,SFO,MIN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"49ers won the coin toss and deferred, Vikings to receive the opening kickoff.",,,7.0,2023,106
+1.0,15:00,,,SFO 35,0.0,0.0,"Jake Moody kicks off 61 yards,",0.0,0.61,7.0,2023,106
+1.0,15:00,1.0,10.0,MIN 25,0.0,0.0,Alexander Mattison left end for 19 yards (tackle by Javon Hargrave),0.61,1.86,7.0,2023,106
+1.0,14:25,1.0,10.0,MIN 44,0.0,0.0,Kirk Cousins pass complete short right to Josh Oliver for no gain (tackle by Dre Greenlaw),1.86,1.32,7.0,2023,106
+1.0,13:40,2.0,10.0,MIN 44,0.0,0.0,Kirk Cousins pass short right intended for Jordan Addison is intercepted by Charvarius Ward at MIN-48 and returned for no gain (tackle by Jordan Addison),1.32,-2.39,7.0,2023,106
+1.0,13:35,1.0,10.0,MIN 48,0.0,0.0,Brock Purdy pass complete short left to George Kittle for 10 yards (tackle by Akayleb Evans),2.39,3.05,7.0,2023,106
+1.0,13:03,1.0,10.0,MIN 38,0.0,0.0,Brock Purdy pass complete short right to Brandon Aiyuk for 11 yards (tackle by Byron Murphy),3.05,3.78,7.0,2023,106
+1.0,12:26,1.0,10.0,MIN 27,0.0,0.0,Brock Purdy pass complete short left to Jauan Jennings for 9 yards (tackle by Akayleb Evans and Dean Lowry),3.78,4.53,7.0,2023,106
+1.0,11:45,2.0,1.0,MIN 18,0.0,0.0,Christian McCaffrey up the middle for 3 yards (tackle by Camryn Bynum),4.53,4.58,7.0,2023,106
+1.0,11:03,1.0,10.0,MIN 15,0.0,0.0,"Christian McCaffrey left end for 2 yards. Christian McCaffrey fumbles (forced by Harrison Smith) (tackle by Camryn Bynum), recovered by Dean Lowry at MIN-11",4.58,0.37,7.0,2023,106
+1.0,10:54,1.0,10.0,MIN 11,0.0,0.0,Alexander Mattison left tackle for -2 yards (tackle by Javon Hargrave),-0.37,-0.93,7.0,2023,106
+1.0,10:10,2.0,12.0,MIN 9,0.0,0.0,Kirk Cousins pass incomplete short left intended for T.J. Hockenson (defended by Clelin Ferrell),-0.93,-1.65,7.0,2023,106
+1.0,10:05,3.0,12.0,MIN 9,0.0,0.0,Kirk Cousins pass complete short middle to T.J. Hockenson for 16 yards (tackle by Fred Warner and Talanoa Hufanga),-1.65,0.61,7.0,2023,106
+1.0,9:27,1.0,10.0,MIN 25,0.0,0.0,Kirk Cousins pass complete short right to Jordan Addison for 4 yards (tackle by Charvarius Ward and Fred Warner),0.61,0.6,7.0,2023,106
+1.0,8:53,2.0,6.0,MIN 29,0.0,0.0,Kirk Cousins pass complete short middle to Jordan Addison for 11 yards (tackle by Talanoa Hufanga),0.6,1.6,7.0,2023,106
+1.0,8:06,1.0,10.0,MIN 40,0.0,0.0,Alexander Mattison right end for 5 yards (tackle by Oren Burks and Fred Warner),1.6,1.73,7.0,2023,106
+1.0,7:26,2.0,5.0,MIN 45,0.0,0.0,"Penalty on Javon Kinlaw: Encroachment, 5 yards (accepted) (no play)",1.73,2.26,7.0,2023,106
+1.0,7:11,1.0,10.0,MIN 50,0.0,0.0,Kirk Cousins pass complete deep left to T.J. Hockenson for 22 yards (tackle by Oren Burks),2.26,3.71,7.0,2023,106
+1.0,6:21,1.0,10.0,SFO 28,0.0,0.0,"Penalty on MIN: Delay of Game, 5 yards (accepted) (no play)",3.71,3.38,7.0,2023,106
+1.0,6:01,1.0,15.0,SFO 33,0.0,0.0,Alexander Mattison right end for 13 yards (tackle by Talanoa Hufanga),3.38,4.25,7.0,2023,106
+1.0,5:34,2.0,2.0,SFO 20,0.0,0.0,Alexander Mattison right guard for no gain (tackle by Nick Bosa),4.25,3.53,7.0,2023,106
+1.0,4:52,3.0,2.0,SFO 20,0.0,6.0,"Kirk Cousins pass complete deep right to Jordan Addison for 20 yards, touchdown",3.53,7.0,7.0,2023,106
+1.0,4:48,,,SFO 15,0.0,7.0,Greg Joseph kicks extra point good,0.0,0.0,7.0,2023,106
+1.0,4:48,,,MIN 35,0.0,7.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,106
+1.0,4:48,1.0,10.0,SFO 25,0.0,7.0,Christian McCaffrey right guard for 2 yards (tackle by Jonathan Bullard),0.61,0.33,7.0,2023,106
+1.0,4:05,2.0,8.0,SFO 27,0.0,7.0,Brock Purdy pass complete short left to Brandon Aiyuk for 10 yards (tackle by Jordan Hicks),0.33,1.4,7.0,2023,106
+1.0,3:33,1.0,10.0,SFO 37,0.0,7.0,Christian McCaffrey up the middle for 6 yards (tackle by Jordan Hicks and Camryn Bynum),1.4,1.67,7.0,2023,106
+1.0,2:49,2.0,4.0,SFO 43,0.0,7.0,"Penalty on George Kittle: False Start, 5 yards (accepted) (no play)",1.67,0.99,7.0,2023,106
+1.0,2:27,2.0,9.0,SFO 38,0.0,7.0,Brock Purdy pass complete deep middle to Jauan Jennings for 18 yards (tackle by Harrison Smith),0.99,2.65,7.0,2023,106
+1.0,1:45,1.0,10.0,MIN 44,0.0,7.0,Brock Purdy pass incomplete deep left intended for George Kittle,2.65,2.11,7.0,2023,106
+1.0,1:40,2.0,10.0,MIN 44,0.0,7.0,Brock Purdy scrambles right end for 17 yards (tackle by Byron Murphy),2.11,3.78,7.0,2023,106
+1.0,0:58,1.0,10.0,MIN 27,0.0,7.0,Brock Purdy pass complete short right to Brandon Aiyuk for 5 yards (tackle by Harrison Smith),3.78,3.91,7.0,2023,106
+1.0,0:20,2.0,5.0,MIN 22,0.0,7.0,Christian McCaffrey right guard for no gain (tackle by Jaquelin Roy),3.91,3.2,7.0,2023,106
+2.0,15:00,3.0,5.0,MIN 22,0.0,7.0,Brock Purdy pass incomplete short left intended for Jauan Jennings,3.2,2.04,7.0,2023,106
+2.0,14:57,4.0,5.0,MIN 22,0.0,7.0,Jake Moody 40 yard field goal no good,2.04,-0.94,7.0,2023,106
+2.0,14:53,1.0,10.0,MIN 30,0.0,7.0,Cam Akers up the middle for 2 yards (tackle by Nick Bosa),0.94,0.66,7.0,2023,106
+2.0,14:17,2.0,8.0,MIN 32,0.0,7.0,Kirk Cousins pass complete short left to T.J. Hockenson for 11 yards (tackle by Clelin Ferrell),0.66,1.8,7.0,2023,106
+2.0,13:41,1.0,10.0,MIN 43,0.0,7.0,Cam Akers right tackle for 3 yards (tackle by Dre Greenlaw),1.8,1.66,7.0,2023,106
+2.0,13:08,2.0,7.0,MIN 46,0.0,7.0,Kirk Cousins pass complete short right to T.J. Hockenson for 8 yards (tackle by Dre Greenlaw),1.66,2.52,7.0,2023,106
+2.0,12:41,1.0,10.0,SFO 46,0.0,7.0,Kirk Cousins pass complete short right to T.J. Hockenson for 1 yard (tackle by Talanoa Hufanga),2.52,2.11,7.0,2023,106
+2.0,12:05,2.0,9.0,SFO 45,0.0,7.0,Cam Akers up the middle for 13 yards (tackle by Oren Burks),2.11,3.45,7.0,2023,106
+2.0,11:24,1.0,10.0,SFO 32,0.0,7.0,Cam Akers up the middle for 6 yards (tackle by Javon Hargrave and Clelin Ferrell),3.45,3.71,7.0,2023,106
+2.0,10:51,2.0,4.0,SFO 26,0.0,7.0,"Cam Akers right end for no gain (tackle by Nick Bosa). Penalty on Josh Oliver: Offensive Holding, 10 yards (accepted) (no play)",3.71,2.36,7.0,2023,106
+2.0,10:29,2.0,14.0,SFO 36,0.0,7.0,"Jordan Addison pass complete short right to Ty Chandler for 28 yards (tackle by Charvarius Ward and Tashaun Gipson). Penalty on K.J. Osborn: Offensive Pass Interference, 10 yards (accepted) (no play)",2.36,1.01,7.0,2023,106
+2.0,9:42,2.0,24.0,SFO 46,0.0,7.0,Kirk Cousins pass complete short right to K.J. Osborn for 14 yards (tackle by Charvarius Ward),1.01,2.21,7.0,2023,106
+2.0,9:05,3.0,10.0,SFO 32,0.0,7.0,Kirk Cousins pass complete short right to Cam Akers for 30 yards (tackle by Javon Kinlaw and Deommodore Lenoir),2.21,6.74,7.0,2023,106
+2.0,8:25,1.0,2.0,SFO 2,0.0,7.0,Alexander Mattison left guard for -1 yards (tackle by Kevin Givens),6.74,5.53,7.0,2023,106
+2.0,7:46,2.0,3.0,SFO 3,0.0,7.0,Kirk Cousins pass incomplete short left intended for Jordan Addison,5.53,4.72,7.0,2023,106
+2.0,7:41,3.0,3.0,SFO 3,0.0,7.0,Kirk Cousins pass incomplete short middle intended for Brandon Powell (defended by Fred Warner),4.72,3.04,7.0,2023,106
+2.0,7:36,4.0,3.0,SFO 3,0.0,10.0,Greg Joseph 21 yard field goal good,3.04,3.0,7.0,2023,106
+2.0,7:33,,,MIN 35,0.0,10.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,106
+2.0,7:33,1.0,10.0,SFO 25,0.0,10.0,Brock Purdy pass complete short left to George Kittle for 6 yards (tackle by Camryn Bynum),0.61,0.87,7.0,2023,106
+2.0,6:54,2.0,4.0,SFO 31,0.0,10.0,Christian McCaffrey left guard for 2 yards (tackle by Akayleb Evans),0.87,0.43,7.0,2023,106
+2.0,6:04,3.0,2.0,SFO 33,0.0,10.0,"Penalty on SFO: Delay of Game, 5 yards (accepted) (no play)",0.43,-0.23,7.0,2023,106
+2.0,5:49,3.0,7.0,SFO 28,0.0,10.0,Brock Purdy pass complete deep left to Brandon Aiyuk for 25 yards (tackle by Camryn Bynum),-0.23,2.46,7.0,2023,106
+2.0,5:07,1.0,10.0,MIN 47,0.0,10.0,Christian McCaffrey right end for 3 yards (tackle by Akayleb Evans),2.46,2.32,7.0,2023,106
+2.0,4:28,2.0,7.0,MIN 44,0.0,10.0,Brock Purdy pass complete short left to Brandon Aiyuk for 6 yards (tackle by Byron Murphy),2.32,2.41,7.0,2023,106
+2.0,3:49,3.0,1.0,MIN 38,0.0,10.0,Christian McCaffrey left tackle for 3 yards (tackle by Jordan Hicks),2.41,3.25,7.0,2023,106
+2.0,3:14,1.0,10.0,MIN 35,0.0,10.0,Elijah Mitchell up the middle for -1 yards (tackle by Jonathan Bullard and Jordan Hicks),3.25,2.57,7.0,2023,106
+2.0,2:30,2.0,11.0,MIN 36,0.0,10.0,Brock Purdy pass complete short right to Jauan Jennings for 10 yards (tackle by Jordan Hicks and Theo Jackson),2.57,3.2,7.0,2023,106
+2.0,2:00,,,,,,Timeout #1 by San Francisco 49ers,,,7.0,2023,106
+2.0,2:00,3.0,1.0,MIN 26,0.0,10.0,Christian McCaffrey right tackle for 8 yards (tackle by Camryn Bynum),3.2,4.37,7.0,2023,106
+2.0,1:18,1.0,10.0,MIN 18,0.0,10.0,Brock Purdy pass complete short right to Ross Dwelley for 12 yards (tackle by Danielle Hunter),4.37,5.83,7.0,2023,106
+2.0,1:08,,,,,,Timeout #1 by Minnesota Vikings,,,7.0,2023,106
+2.0,1:08,1.0,6.0,MIN 6,0.0,10.0,Christian McCaffrey right guard for 3 yards (tackle by Jordan Hicks and Harrison Phillips),5.83,5.53,7.0,2023,106
+2.0,1:04,,,,,,Timeout #2 by Minnesota Vikings,,,7.0,2023,106
+2.0,1:04,2.0,3.0,MIN 3,6.0,10.0,"Christian McCaffrey up the middle for 3 yards, touchdown",5.53,7.0,7.0,2023,106
+2.0,1:01,,,MIN 15,7.0,10.0,Jake Moody kicks extra point good,0.0,0.0,7.0,2023,106
+2.0,1:01,,,SFO 35,7.0,10.0,"Jake Moody kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,106
+2.0,1:01,1.0,10.0,MIN 25,7.0,10.0,Kirk Cousins pass complete short right to K.J. Osborn for 3 yards (tackle by Charvarius Ward),0.61,0.47,7.0,2023,106
+2.0,0:41,2.0,7.0,MIN 28,7.0,10.0,Kirk Cousins pass complete short right to T.J. Hockenson for 8 yards (tackle by Dre Greenlaw and Talanoa Hufanga),0.47,1.33,7.0,2023,106
+2.0,0:30,,,,,,Timeout #3 by Minnesota Vikings,,,7.0,2023,106
+2.0,0:30,1.0,10.0,MIN 36,7.0,10.0,Kirk Cousins pass complete short middle to Alexander Mattison for 4 yards (tackle by Dre Greenlaw),1.33,1.33,7.0,2023,106
+2.0,0:17,2.0,6.0,MIN 40,7.0,10.0,Kirk Cousins spiked the ball,1.33,0.63,7.0,2023,106
+2.0,0:16,3.0,6.0,MIN 40,7.0,16.0,"Kirk Cousins pass complete deep right to Jordan Addison for 60 yards, touchdown",0.63,7.0,7.0,2023,106
+2.0,0:07,,,SFO 15,7.0,16.0,Greg Joseph kicks extra point no good,0.0,-1.0,7.0,2023,106
+2.0,0:07,,,MIN 35,7.0,16.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,106
+2.0,0:07,1.0,10.0,SFO 25,7.0,16.0,Brock Purdy kneels for -1 yards,0.61,-0.07,7.0,2023,106
+3.0,15:00,,,MIN 35,7.0,16.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,106
+3.0,15:00,1.0,10.0,SFO 25,7.0,16.0,Brock Purdy scrambles left end for 1 yard (tackle by Dean Lowry),0.61,0.2,7.0,2023,106
+3.0,14:25,2.0,9.0,SFO 26,7.0,16.0,Brock Purdy pass complete short right to Jauan Jennings for 8 yards (tackle by Jordan Hicks and D.J. Wonnum),0.2,0.56,7.0,2023,106
+3.0,13:41,3.0,1.0,SFO 34,7.0,16.0,George Kittle right end for 2 yards (tackle by Camryn Bynum),0.56,1.33,7.0,2023,106
+3.0,13:01,1.0,10.0,SFO 36,7.0,16.0,Christian McCaffrey left end for -3 yards (tackle by D.J. Wonnum),1.33,0.39,7.0,2023,106
+3.0,12:16,,,,,,Timeout #1 by San Francisco 49ers,,,7.0,2023,106
+3.0,12:16,2.0,13.0,SFO 33,7.0,16.0,"Brock Purdy sacked by Danielle Hunter for -12 yards. Brock Purdy fumbles (forced by Danielle Hunter), recovered by Josh Metellus at SF-23 (tackle by Aaron Banks) Replay Assistant challenged the fumble ruling, and the original play was overturned. Brock Purdy sacked by Danielle Hunter for -12 yards",0.39,-1.88,7.0,2023,106
+3.0,11:59,3.0,25.0,SFO 21,7.0,16.0,Brock Purdy pass incomplete short middle intended for Jauan Jennings (defended by Jordan Hicks),-1.88,-1.96,7.0,2023,106
+3.0,11:55,4.0,25.0,SFO 21,7.0,16.0,"Mitch Wishnowsky punts 62 yards, returned by Brandon Powell for 4 yards (tackle by George Odum)",-1.96,-0.34,7.0,2023,106
+3.0,11:45,1.0,10.0,MIN 21,7.0,16.0,Kirk Cousins pass complete deep right to K.J. Osborn for 18 yards (tackle by Talanoa Hufanga),0.34,1.53,7.0,2023,106
+3.0,11:12,1.0,10.0,MIN 39,7.0,16.0,Kirk Cousins pass complete short left to T.J. Hockenson for 4 yards (tackle by Oren Burks),1.53,1.53,7.0,2023,106
+3.0,10:36,2.0,6.0,MIN 43,7.0,16.0,Alexander Mattison right guard for 1 yard (tackle by Talanoa Hufanga and Dre Greenlaw),1.53,0.96,7.0,2023,106
+3.0,10:00,3.0,5.0,MIN 44,7.0,16.0,Kirk Cousins pass complete short left to Jordan Addison for 11 yards (tackle by Deommodore Lenoir),0.96,2.59,7.0,2023,106
+3.0,9:21,1.0,10.0,SFO 45,7.0,16.0,Kirk Cousins pass incomplete short left,2.59,2.04,7.0,2023,106
+3.0,9:18,2.0,10.0,SFO 45,7.0,16.0,"Kirk Cousins pass complete short right to Brandon Powell for 27 yards (tackle by Fred Warner). Penalty on Charvarius Ward: Illegal Contact, 5 yards (declined)",2.04,4.37,7.0,2023,106
+3.0,8:46,1.0,10.0,SFO 18,7.0,16.0,Kirk Cousins pass incomplete short left intended for Cam Akers,4.37,3.8,7.0,2023,106
+3.0,8:42,2.0,10.0,SFO 18,7.0,16.0,"Kirk Cousins pass incomplete deep left intended for Jordan Addison. Penalty on Deommodore Lenoir: Defensive Pass Interference, 17 yards (accepted) (no play)",3.8,6.97,7.0,2023,106
+3.0,8:36,1.0,1.0,SFO 1,7.0,16.0,Kirk Cousins up the middle for no gain (tackle by Fred Warner),6.97,5.91,7.0,2023,106
+3.0,8:01,2.0,1.0,SFO 1,7.0,16.0,"Penalty on Garrett Bradbury: False Start, 5 yards (accepted) (no play)",5.91,4.95,7.0,2023,106
+3.0,7:43,2.0,6.0,SFO 6,7.0,16.0,Kirk Cousins pass complete short right to Jordan Addison for 4 yards (tackle by Isaiah Oliver),4.95,4.95,7.0,2023,106
+3.0,7:04,3.0,2.0,SFO 2,7.0,16.0,Kirk Cousins pass incomplete short left intended for Alexander Mattison,4.95,3.25,7.0,2023,106
+3.0,7:02,4.0,2.0,SFO 2,7.0,19.0,Greg Joseph 20 yard field goal good,3.25,3.0,7.0,2023,106
+3.0,6:59,,,MIN 35,7.0,19.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,106
+3.0,6:59,1.0,10.0,SFO 25,7.0,19.0,Brock Purdy pass complete short left to Christian McCaffrey for 12 yards (tackle by Byron Murphy),0.61,1.4,7.0,2023,106
+3.0,6:26,1.0,10.0,SFO 37,7.0,19.0,"Brock Purdy pass complete deep left to George Kittle for 28 yards (tackle by Josh Metellus). Penalty on Byron Murphy: Illegal Contact, 5 yards (declined)",1.4,3.25,7.0,2023,106
+3.0,6:03,1.0,10.0,MIN 35,13.0,19.0,"Brock Purdy pass complete short right to Christian McCaffrey for 35 yards, touchdown",3.25,7.0,7.0,2023,106
+3.0,5:54,,,MIN 15,14.0,19.0,Jake Moody kicks extra point good,0.0,0.0,7.0,2023,106
+3.0,5:54,,,SFO 35,14.0,19.0,"Jake Moody kicks off 64 yards, returned by Kene Nwangwu for 13 yards (tackle by Jordan Mason and George Odum)",0.0,-0.28,7.0,2023,106
+3.0,5:51,1.0,10.0,MIN 14,14.0,19.0,Brandon Powell right end for 5 yards (tackle by Fred Warner),-0.28,-0.04,7.0,2023,106
+3.0,5:23,2.0,5.0,MIN 19,14.0,19.0,Kirk Cousins pass complete short left to Cam Akers for no gain (tackle by Oren Burks),-0.04,-0.8,7.0,2023,106
+3.0,4:37,3.0,5.0,MIN 19,14.0,19.0,Kirk Cousins pass complete deep left to Brandon Powell for 16 yards (tackle by Tashaun Gipson),-0.8,1.27,7.0,2023,106
+3.0,3:55,1.0,10.0,MIN 35,14.0,19.0,Cam Akers up the middle for 2 yards (tackle by Fred Warner and Dre Greenlaw),1.27,0.99,7.0,2023,106
+3.0,3:12,2.0,8.0,MIN 37,14.0,19.0,Kirk Cousins pass complete short middle to T.J. Hockenson for 10 yards (tackle by Fred Warner),0.99,2.06,7.0,2023,106
+3.0,2:32,1.0,10.0,MIN 47,14.0,19.0,Kirk Cousins pass complete short right to Ty Chandler for 12 yards (tackle by Talanoa Hufanga),2.06,2.85,7.0,2023,106
+3.0,2:08,1.0,10.0,SFO 41,14.0,19.0,"Penalty on Johnny Mundt: False Start, 5 yards (accepted) (no play)",2.85,2.52,7.0,2023,106
+3.0,1:46,1.0,15.0,SFO 46,14.0,19.0,Kirk Cousins pass incomplete deep right intended for Jordan Addison (defended by Charvarius Ward),2.52,1.63,7.0,2023,106
+3.0,1:42,2.0,15.0,SFO 46,14.0,19.0,Kirk Cousins pass complete short right to T.J. Hockenson for 3 yards (tackle by Nick Bosa),1.63,1.35,7.0,2023,106
+3.0,1:06,3.0,12.0,SFO 43,14.0,19.0,Kirk Cousins pass complete short left to Trishton Jackson for 7 yards (tackle by Isaiah Oliver),1.35,0.88,7.0,2023,106
+3.0,0:24,4.0,5.0,SFO 36,14.0,22.0,Greg Joseph 54 yard field goal good,0.88,3.0,7.0,2023,106
+3.0,0:20,,,MIN 35,14.0,22.0,"Greg Joseph kicks off 67 yards, returned by Ray-Ray McCloud for 34 yards (tackle by Theo Jackson)",0.0,1.07,7.0,2023,106
+3.0,0:15,1.0,10.0,SFO 32,14.0,22.0,Brock Purdy pass complete short right to Jauan Jennings for 9 yards (tackle by D.J. Wonnum),1.07,1.74,7.0,2023,106
+4.0,15:00,2.0,1.0,SFO 41,14.0,22.0,Brock Purdy pass complete deep right to George Kittle for 18 yards (tackle by Camryn Bynum),1.74,2.85,7.0,2023,106
+4.0,14:22,1.0,10.0,MIN 41,14.0,22.0,Christian McCaffrey up the middle for 4 yards (tackle by Harrison Phillips and Josh Metellus),2.85,2.85,7.0,2023,106
+4.0,13:41,2.0,6.0,MIN 37,14.0,22.0,Brock Purdy pass incomplete short left intended for Jauan Jennings,2.85,2.15,7.0,2023,106
+4.0,13:36,3.0,6.0,MIN 37,14.0,22.0,Brock Purdy pass incomplete short middle intended for Brandon Aiyuk,2.15,0.79,7.0,2023,106
+4.0,13:26,4.0,6.0,MIN 37,17.0,22.0,Jake Moody 55 yard field goal good,0.79,3.0,7.0,2023,106
+4.0,13:21,,,SFO 35,17.0,22.0,"Jake Moody kicks off 65 yards, returned by Kene Nwangwu for 28 yards (tackle by Ross Dwelley and Charlie Woerner)",0.0,0.81,7.0,2023,106
+4.0,13:15,1.0,10.0,MIN 28,17.0,22.0,Kirk Cousins pass complete short right to Alexander Mattison for -1 yards (tackle by Dre Greenlaw),0.81,0.13,7.0,2023,106
+4.0,12:37,2.0,11.0,MIN 27,17.0,22.0,Kirk Cousins pass complete short left to K.J. Osborn for 4 yards (tackle by Fred Warner),0.13,-0.03,7.0,2023,106
+4.0,11:55,3.0,7.0,MIN 31,17.0,22.0,Kirk Cousins pass complete short right to Brandon Powell for 9 yards (tackle by Isaiah Oliver),-0.03,1.6,7.0,2023,106
+4.0,11:18,1.0,10.0,MIN 40,17.0,22.0,Kirk Cousins pass complete short right to Brandon Powell for 12 yards (tackle by Dre Greenlaw),1.6,2.39,7.0,2023,106
+4.0,10:36,1.0,10.0,SFO 48,17.0,22.0,Alexander Mattison left tackle for 4 yards (tackle by Dre Greenlaw and Fred Warner),2.39,2.39,7.0,2023,106
+4.0,10:09,2.0,6.0,SFO 44,17.0,22.0,Kirk Cousins pass complete short right to T.J. Hockenson for 2 yards (tackle by Charvarius Ward),2.39,1.95,7.0,2023,106
+4.0,9:26,3.0,4.0,SFO 42,17.0,22.0,Kirk Cousins pass incomplete deep right intended for K.J. Osborn,1.95,0.46,7.0,2023,106
+4.0,9:22,4.0,4.0,SFO 42,17.0,22.0,"Ryan Wright punts 42 yards, touchback.",0.46,-0.28,7.0,2023,106
+4.0,9:14,1.0,10.0,SFO 20,17.0,22.0,Brock Purdy pass complete short left to Christian McCaffrey for 4 yards (tackle by Josh Metellus),0.28,0.27,7.0,2023,106
+4.0,8:42,2.0,6.0,SFO 24,17.0,22.0,Brock Purdy pass complete short left to George Kittle for 16 yards (tackle by Josh Metellus and Camryn Bynum),0.27,1.6,7.0,2023,106
+4.0,8:00,1.0,10.0,SFO 40,17.0,22.0,Christian McCaffrey left end for 9 yards (tackle by Harrison Smith),1.6,2.27,7.0,2023,106
+4.0,7:26,2.0,1.0,SFO 49,17.0,22.0,Christian McCaffrey left end for no gain (tackle by Harrison Phillips),2.27,1.55,7.0,2023,106
+4.0,7:05,3.0,1.0,SFO 49,17.0,22.0,Brock Purdy up the middle for no gain (tackle by Jordan Hicks and D.J. Wonnum),1.55,-0.13,7.0,2023,106
+4.0,6:19,4.0,1.0,SFO 49,17.0,22.0,Brock Purdy up the middle for 2 yards (tackle by Harrison Phillips and Dean Lowry),-0.13,2.32,7.0,2023,106
+4.0,5:36,1.0,10.0,MIN 49,17.0,22.0,Brock Purdy pass deep middle intended for Jauan Jennings is intercepted by Camryn Bynum at MIN-30 and returned for no gain (tackle by Jauan Jennings),2.32,-0.94,7.0,2023,106
+4.0,5:30,1.0,10.0,MIN 30,17.0,22.0,Cam Akers left guard for -3 yards (tackle by Nick Bosa),0.94,-0.01,7.0,2023,106
+4.0,4:47,2.0,13.0,MIN 27,17.0,22.0,"Kirk Cousins pass incomplete deep right intended for Jordan Addison. Penalty on Charvarius Ward: Illegal Contact, 5 yards (accepted) (no play)",-0.01,1.07,7.0,2023,106
+4.0,4:41,1.0,10.0,MIN 32,17.0,22.0,Kirk Cousins pass complete short right to K.J. Osborn for 8 yards (tackle by Deommodore Lenoir),1.07,1.61,7.0,2023,106
+4.0,3:57,2.0,2.0,MIN 40,17.0,22.0,Cam Akers left tackle for 4 yards (tackle by Deommodore Lenoir and Fred Warner),1.61,1.86,7.0,2023,106
+4.0,3:09,1.0,10.0,MIN 44,17.0,22.0,Kirk Cousins pass complete short left to T.J. Hockenson for 1 yard (tackle by Fred Warner),1.86,1.45,7.0,2023,106
+4.0,3:03,,,,,,Timeout #2 by San Francisco 49ers,,,7.0,2023,106
+4.0,3:03,2.0,9.0,MIN 45,17.0,22.0,Kirk Cousins pass complete short left to Josh Oliver for 6 yards (tackle by Oren Burks),1.45,1.55,7.0,2023,106
+4.0,2:27,3.0,3.0,SFO 49,17.0,22.0,"Kirk Cousins pass complete short right to Jordan Addison for 13 yards (tackle by Talanoa Hufanga). Penalty on Isaiah Oliver: Defensive Holding, 5 yards (declined)",1.55,3.18,7.0,2023,106
+4.0,2:19,1.0,10.0,SFO 36,17.0,22.0,Cam Akers left end for -4 yards (tackle by Fred Warner and Tashaun Gipson),3.18,2.1,7.0,2023,106
+4.0,2:13,,,,,,Timeout #3 by San Francisco 49ers,,,7.0,2023,106
+4.0,2:13,2.0,14.0,SFO 40,17.0,22.0,Cam Akers right guard for 4 yards (tackle by Nick Bosa and Charvarius Ward),2.1,1.95,7.0,2023,106
+4.0,2:00,3.0,10.0,SFO 36,17.0,22.0,Cam Akers left guard for 4 yards (tackle by Javon Hargrave),1.95,1.34,7.0,2023,106
+4.0,1:16,,,,,,Timeout #1 by Minnesota Vikings,,,7.0,2023,106
+4.0,1:16,4.0,6.0,SFO 31,17.0,22.0,Greg Joseph 50 yard field goal no good,1.34,-1.6,7.0,2023,106
+4.0,1:11,1.0,10.0,SFO 40,17.0,22.0,Brock Purdy pass incomplete short right intended for George Kittle (defended by Harrison Smith),1.6,1.05,7.0,2023,106
+4.0,1:07,2.0,10.0,SFO 40,17.0,22.0,Brock Purdy pass complete short middle to Ray-Ray McCloud for 9 yards (tackle by Josh Metellus and Harrison Smith),1.05,1.55,7.0,2023,106
+4.0,0:48,3.0,1.0,SFO 49,17.0,22.0,Brock Purdy pass complete short left to Ray-Ray McCloud for 11 yards (tackle by Andrew Booth and Harrison Smith),1.55,2.92,7.0,2023,106
+4.0,0:35,1.0,10.0,MIN 40,17.0,22.0,Brock Purdy spiked the ball,2.92,2.37,7.0,2023,106
+4.0,0:34,2.0,10.0,MIN 40,17.0,22.0,Brock Purdy pass deep middle intended for Ray-Ray McCloud is intercepted by Camryn Bynum at MIN-22 and returned for no gain (tackle by Ray-Ray McCloud),2.37,-0.41,7.0,2023,106
+4.0,0:25,1.0,10.0,MIN 22,17.0,22.0,Kirk Cousins kneels for -1 yards,0.41,-0.27,7.0,2023,106

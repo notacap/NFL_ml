@@ -1,0 +1,191 @@
+Quarter,Time,Down,ToGo,Location,NYJ,MIA,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Jets won the coin toss and deferred, Dolphins to receive the opening kickoff.",,,14.0,2024,201
+1,15:00,,,NYJ 35,0.0,0.0,"Anders Carlson kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,201
+1,15:00,1.0,10.0,MIA 30,0.0,0.0,De'Von Achane left tackle for 7 yards (tackle by Jamien Sherwood and D.J. Reed),0.94,1.34,14.0,2024,201
+1,14:23,2.0,3.0,MIA 37,0.0,0.0,"Tua Tagovailoa pass complete short middle to Jaylen Waddle for 20 yards (tackle by Jamien Sherwood). Penalty on Javon Kinlaw: Unnecessary Roughness / Defense, 15 yards (accepted)",1.34,3.71,14.0,2024,201
+1,13:58,1.0,10.0,NYJ 28,0.0,0.0,Tua Tagovailoa pass complete short middle to Tyreek Hill for 11 yards (tackle by D.J. Reed),3.71,4.44,14.0,2024,201
+1,13:17,1.0,10.0,NYJ 17,0.0,0.0,Tua Tagovailoa pass complete short right to De'Von Achane for 14 yards (tackle by Jamien Sherwood and Chuck Clark),4.44,6.51,14.0,2024,201
+1,12:33,1.0,3.0,NYJ 3,0.0,0.0,De'Von Achane left tackle for no gain (tackle by Brandin Echols),6.51,5.53,14.0,2024,201
+1,11:51,2.0,3.0,NYJ 3,0.0,0.0,De'Von Achane left guard for 2 yards (tackle by Chuck Clark),5.53,5.17,14.0,2024,201
+1,11:14,3.0,1.0,NYJ 1,0.0,0.0,Tua Tagovailoa pass incomplete short left intended for Tyreek Hill. Penalty on D.J. Reed: Defensive Pass Interference (accepted) (no play),5.17,6.97,14.0,2024,201
+1,11:10,1.0,1.0,NYJ 1,0.0,0.0,De'Von Achane up the middle for -1 yards (tackle by Jamien Sherwood and Chuck Clark),6.97,5.72,14.0,2024,201
+1,10:29,2.0,2.0,NYJ 2,0.0,6.0,"De'Von Achane left guard for 2 yards, touchdown",5.72,7.0,14.0,2024,201
+1,10:24,,,NYJ 15,0.0,6.0,Jason Sanders kicks extra point no good,0.0,-1.0,14.0,2024,201
+1,10:24,,,MIA 35,0.0,6.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,201
+1,10:24,1.0,10.0,NYJ 30,0.0,6.0,Braelon Allen right tackle for 7 yards (tackle by Kendall Fuller),0.94,1.34,14.0,2024,201
+1,9:53,2.0,3.0,NYJ 37,0.0,6.0,Aaron Rodgers pass complete short middle to Tyler Conklin for 11 yards (tackle by Anthony Walker and Jordyn Brooks),1.34,2.13,14.0,2024,201
+1,9:11,1.0,10.0,NYJ 48,0.0,6.0,Aaron Rodgers pass incomplete short right intended for Garrett Wilson,2.13,1.58,14.0,2024,201
+1,9:07,2.0,10.0,NYJ 48,0.0,6.0,Isaiah Davis up the middle for 2 yards (tackle by Calais Campbell and Zach Sieler),1.58,1.16,14.0,2024,201
+1,8:24,3.0,8.0,MIA 50,0.0,6.0,"Aaron Rodgers pass incomplete short left intended for Garrett Wilson. Penalty on Jalen Ramsey: Defensive Pass Interference, 9 yards (accepted) (no play)",1.16,2.85,14.0,2024,201
+1,8:19,1.0,10.0,MIA 41,0.0,6.0,Isaiah Davis right tackle for 1 yard (tackle by Jordyn Brooks and Quinton Bell),2.85,2.44,14.0,2024,201
+1,7:40,2.0,9.0,MIA 40,0.0,6.0,Aaron Rodgers pass complete short left to Braelon Allen for 10 yards (tackle by Kendall Fuller and Jevon Holland),2.44,3.58,14.0,2024,201
+1,6:59,1.0,10.0,MIA 30,0.0,6.0,Aaron Rodgers pass complete short left to Braelon Allen for 12 yards (tackle by Jordan Poyer),3.58,4.37,14.0,2024,201
+1,6:16,1.0,10.0,MIA 18,0.0,6.0,Aaron Rodgers pass complete short middle to Garrett Wilson for 8 yards (tackle by Chop Robinson),4.37,5.23,14.0,2024,201
+1,5:35,2.0,2.0,MIA 10,0.0,6.0,Aaron Rodgers pass incomplete short right intended for Davante Adams,5.23,4.51,14.0,2024,201
+1,5:28,3.0,2.0,MIA 10,0.0,6.0,"Aaron Rodgers pass incomplete short right intended for Tyler Conklin (defended by Chop Robinson). Penalty on Morgan Moses: Offensive Holding, 10 yards (declined)",4.51,2.89,14.0,2024,201
+1,5:23,4.0,2.0,MIA 10,3.0,6.0,Anders Carlson 28 yard field goal good,2.89,3.0,14.0,2024,201
+1,5:19,,,NYJ 35,3.0,6.0,"Anders Carlson kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,201
+1,5:19,1.0,10.0,MIA 30,3.0,6.0,Jaylen Wright left end for 2 yards (tackle by Jamien Sherwood),0.94,0.66,14.0,2024,201
+1,4:40,2.0,8.0,MIA 32,3.0,6.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 13 yards (tackle by Brandin Echols),0.66,1.93,14.0,2024,201
+1,4:02,1.0,10.0,MIA 45,3.0,6.0,Jaylen Wright left end for 5 yards (tackle by Jamien Sherwood),1.93,2.06,14.0,2024,201
+1,3:25,2.0,5.0,MIA 50,3.0,6.0,Tua Tagovailoa pass complete short left to Jaylen Wright for 6 yards (tackle by D.J. Reed),2.06,2.65,14.0,2024,201
+1,2:40,1.0,10.0,NYJ 44,3.0,6.0,Tua Tagovailoa pass complete short left to De'Von Achane for 9 yards (tackle by Chuck Clark),2.65,3.33,14.0,2024,201
+1,1:59,2.0,1.0,NYJ 35,3.0,6.0,De'Von Achane up the middle for 5 yards (tackle by Quinnen Williams),3.33,3.58,14.0,2024,201
+1,1:19,1.0,10.0,NYJ 30,3.0,6.0,De'Von Achane left end for 3 yards (tackle by Michael Carter),3.58,3.44,14.0,2024,201
+1,0:38,2.0,7.0,NYJ 27,3.0,6.0,Tyreek Hill left end for 6 yards (tackle by Brandin Echols),3.44,3.53,14.0,2024,201
+2,15:00,3.0,1.0,NYJ 21,3.0,6.0,Tua Tagovailoa pass incomplete short left intended for Tyreek Hill (defended by Chuck Clark),3.53,2.21,14.0,2024,201
+2,14:57,4.0,1.0,NYJ 21,3.0,9.0,Jason Sanders 39 yard field goal good,2.21,3.0,14.0,2024,201
+2,14:53,,,MIA 35,3.0,9.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,201
+2,14:53,1.0,10.0,NYJ 30,3.0,9.0,Aaron Rodgers pass complete short left to Garrett Wilson for 12 yards (tackle by Jalen Ramsey),0.94,1.73,14.0,2024,201
+2,14:12,1.0,10.0,NYJ 42,3.0,9.0,Braelon Allen left tackle for 1 yard (tackle by Zach Sieler and Jordyn Brooks),1.73,1.32,14.0,2024,201
+2,13:27,2.0,9.0,NYJ 43,3.0,9.0,Aaron Rodgers pass incomplete short left intended for Braelon Allen,1.32,0.63,14.0,2024,201
+2,13:19,3.0,9.0,NYJ 43,3.0,9.0,"Penalty on Allen Lazard: False Start, 5 yards (accepted) (no play)",0.63,-0.03,14.0,2024,201
+2,13:19,3.0,14.0,NYJ 38,3.0,9.0,Aaron Rodgers pass complete short middle to Tyler Conklin for 10 yards (tackle by Emmanuel Ogbah and Jordan Poyer),-0.03,-0.19,14.0,2024,201
+2,12:40,4.0,4.0,NYJ 48,3.0,9.0,Aaron Rodgers pass complete short middle to Garrett Wilson for 35 yards (tackle by Jalen Ramsey),-0.19,4.44,14.0,2024,201
+2,12:02,1.0,10.0,MIA 17,9.0,9.0,"Isaiah Davis left tackle for 17 yards, touchdown",4.44,7.0,14.0,2024,201
+2,11:56,,,MIA 15,10.0,9.0,Anders Carlson kicks extra point good,0.0,0.0,14.0,2024,201
+2,11:56,,,NYJ 35,10.0,9.0,"Anders Carlson kicks off 64 yards, returned by D'Wayne Eskridge for 28 yards (tackle by Kenny Yeboah and Marcelino McCrary-Ball)",0.0,0.87,14.0,2024,201
+2,11:50,1.0,10.0,MIA 29,10.0,9.0,Tua Tagovailoa pass complete short right to Julian Hill for 14 yards (tackle by Brandin Echols and Jamien Sherwood),0.87,1.8,14.0,2024,201
+2,11:14,1.0,10.0,MIA 43,10.0,9.0,De'Von Achane left end for 1 yard (tackle by Jamien Sherwood),1.8,1.39,14.0,2024,201
+2,10:34,2.0,9.0,MIA 44,10.0,9.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 10 yards (tackle by Ashtyn Davis),1.39,2.52,14.0,2024,201
+2,9:59,1.0,10.0,NYJ 46,10.0,9.0,Tua Tagovailoa pass complete deep right to Tyreek Hill for 21 yards (tackle by Brandin Echols),2.52,3.91,14.0,2024,201
+2,9:22,1.0,10.0,NYJ 25,10.0,9.0,De'Von Achane left tackle for 6 yards (tackle by Javon Kinlaw),3.91,4.2,14.0,2024,201
+2,8:51,2.0,4.0,NYJ 19,10.0,9.0,Tua Tagovailoa scrambles left end for 3 yards (tackle by Haason Reddick),4.2,4.06,14.0,2024,201
+2,8:08,3.0,1.0,NYJ 16,10.0,9.0,De'Von Achane up the middle for -1 yards (tackle by Haason Reddick),4.06,2.44,14.0,2024,201
+2,7:27,4.0,2.0,NYJ 17,10.0,9.0,Tua Tagovailoa pass complete short left to Jaylen Waddle for 5 yards (tackle by Chuck Clark),2.44,4.78,14.0,2024,201
+2,6:48,1.0,10.0,NYJ 12,10.0,9.0,Tua Tagovailoa pass incomplete short left intended for De'Von Achane,4.78,4.1,14.0,2024,201
+2,6:43,,,,,,Timeout #1 by Miami Dolphins,,,14.0,2024,201
+2,6:43,2.0,10.0,NYJ 12,10.0,9.0,"Jaylen Wright right end for no gain (tackle by Brandin Echols). Penalty on Patrick Paul: Illegal Shift, 5 yards (accepted) (no play)",4.1,3.42,14.0,2024,201
+2,6:16,2.0,15.0,NYJ 17,10.0,9.0,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 11 yards (tackle by Jamien Sherwood),3.42,4.38,14.0,2024,201
+2,5:37,3.0,4.0,NYJ 6,10.0,9.0,Tua Tagovailoa pass complete short left to Jaylen Wright for no gain (tackle by Jamien Sherwood),4.38,3.0,14.0,2024,201
+2,5:00,4.0,4.0,NYJ 6,10.0,12.0,Jason Sanders 24 yard field goal good,3.0,3.0,14.0,2024,201
+2,4:56,,,MIA 35,10.0,12.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,201
+2,4:56,1.0,10.0,NYJ 30,10.0,12.0,Aaron Rodgers pass incomplete short left intended for Jeremy Ruckert,0.94,0.39,14.0,2024,201
+2,4:51,2.0,10.0,NYJ 30,10.0,12.0,"Braelon Allen up the middle for no gain (tackle by Da'Shawn Hand and Jordyn Brooks). Penalty on Olumuyiwa Fashanu: Offensive Holding, 10 yards (accepted) (no play)",0.39,-0.96,14.0,2024,201
+2,4:27,2.0,20.0,NYJ 20,10.0,12.0,"Aaron Rodgers sacked by Emmanuel Ogbah for no gain. Penalty on Zach Sieler: Defensive Holding, 5 yards (accepted) (no play)",-0.96,0.61,14.0,2024,201
+2,4:02,1.0,10.0,NYJ 25,10.0,12.0,Aaron Rodgers pass complete deep right to Davante Adams for 34 yards (tackle by Jordan Poyer),0.61,2.85,14.0,2024,201
+2,3:21,1.0,10.0,MIA 41,10.0,12.0,Braelon Allen left end for 7 yards (tackle by Jevon Holland),2.85,3.25,14.0,2024,201
+2,2:36,2.0,3.0,MIA 34,10.0,12.0,"Aaron Rodgers pass complete short right to Davante Adams for 7 yards (tackle by Jordyn Brooks and Jordan Poyer). Penalty on Da'Shawn Hand: Defensive Offside, 5 yards (declined)",3.25,3.78,14.0,2024,201
+2,2:14,1.0,10.0,MIA 27,10.0,12.0,Isaiah Davis right tackle for 1 yard (tackle by Da'Shawn Hand),3.78,3.37,14.0,2024,201
+2,2:00,2.0,9.0,MIA 26,10.0,12.0,Aaron Rodgers pass complete short left to Davante Adams for 3 yards (tackle by Kendall Fuller),3.37,3.07,14.0,2024,201
+2,1:48,,,,,,Timeout #2 by Miami Dolphins,,,14.0,2024,201
+2,1:48,3.0,6.0,MIA 23,10.0,12.0,"Penalty on Chop Robinson: Neutral Zone Infraction, 5 yards (accepted) (no play)",3.07,3.84,14.0,2024,201
+2,1:48,3.0,1.0,MIA 18,10.0,12.0,"Penalty on Kenny Yeboah: False Start, 5 yards (accepted) (no play)",3.84,3.07,14.0,2024,201
+2,1:48,3.0,6.0,MIA 23,10.0,12.0,Aaron Rodgers pass complete short right to Davante Adams for 10 yards (tackle by Kader Kohou),3.07,4.71,14.0,2024,201
+2,1:44,1.0,10.0,MIA 13,10.0,12.0,Braelon Allen up the middle for 4 yards (tackle by Calais Campbell),4.71,4.77,14.0,2024,201
+2,1:40,,,,,,Timeout #3 by Miami Dolphins,,,14.0,2024,201
+2,1:40,2.0,6.0,MIA 9,10.0,12.0,Braelon Allen right guard for 2 yards (tackle by Calais Campbell and Benito Jones),4.77,4.33,14.0,2024,201
+2,0:59,3.0,4.0,MIA 7,10.0,12.0,"Penalty on Morgan Moses: False Start, 5 yards (accepted) (no play)",4.33,3.28,14.0,2024,201
+2,0:59,3.0,9.0,MIA 12,10.0,12.0,Aaron Rodgers pass incomplete short right intended for Isaiah Davis,3.28,2.63,14.0,2024,201
+2,0:52,4.0,9.0,MIA 12,13.0,12.0,Anders Carlson 30 yard field goal good,2.63,3.0,14.0,2024,201
+2,0:49,,,NYJ 35,13.0,12.0,"Anders Carlson kicks off 59 yards, returned by Malik Washington for 24 yards (tackle by Kene Nwangwu and Chazz Surratt)",0.0,0.94,14.0,2024,201
+2,0:41,1.0,10.0,MIA 30,13.0,12.0,Tua Tagovailoa pass complete short right to Jaylen Waddle for 10 yards (tackle by Brandin Echols),0.94,1.6,14.0,2024,201
+2,0:22,1.0,10.0,MIA 40,13.0,12.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 6 yards (tackle by Brandin Echols),1.6,1.86,14.0,2024,201
+2,0:19,2.0,4.0,MIA 46,13.0,12.0,Tua Tagovailoa pass complete short left to Jaylen Waddle for 15 yards (tackle by D.J. Reed),1.86,2.98,14.0,2024,201
+2,0:07,1.0,10.0,NYJ 39,13.0,12.0,Tua Tagovailoa spiked the ball,2.98,2.44,14.0,2024,201
+2,0:06,,,,,,Timeout #1 by New York Jets,,,14.0,2024,201
+2,0:06,2.0,10.0,NYJ 39,13.0,15.0,Jason Sanders 57 yard field goal good,2.44,3.0,14.0,2024,201
+2,0:02,,,MIA 35,13.0,15.0,"Jason Sanders kicks off 72 yards, returned by Xavier Gipson for 29 yards (tackle by Channing Tindall and Julian Hill). Penalty on Kene Nwangwu: Offensive Holding (accepted)",0.0,1.27,14.0,2024,201
+3,15:00,,,MIA 35,13.0,15.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,201
+3,15:00,1.0,10.0,NYJ 30,13.0,15.0,Braelon Allen left guard for 2 yards (tackle by Jordyn Brooks),0.94,0.66,14.0,2024,201
+3,14:16,2.0,8.0,NYJ 32,13.0,15.0,Aaron Rodgers pass complete deep right to Garrett Wilson for 42 yards,0.66,3.84,14.0,2024,201
+3,13:35,1.0,10.0,MIA 26,13.0,15.0,Aaron Rodgers pass complete short left to Davante Adams for 6 yards (tackle by Kader Kohou and Jevon Holland),3.84,4.11,14.0,2024,201
+3,12:50,2.0,4.0,MIA 20,13.0,15.0,Isaiah Davis right tackle for 2 yards (tackle by Da'Shawn Hand),4.11,3.75,14.0,2024,201
+3,12:09,3.0,2.0,MIA 18,13.0,15.0,Aaron Rodgers pass incomplete short middle intended for Garrett Wilson,3.75,2.37,14.0,2024,201
+3,12:05,4.0,2.0,MIA 18,13.0,15.0,Aaron Rodgers pass complete short left to Isaiah Davis for 15 yards (tackle by Anthony Walker),2.37,6.51,14.0,2024,201
+3,11:24,1.0,3.0,MIA 3,19.0,15.0,"Aaron Rodgers pass complete short right to Davante Adams for 3 yards, touchdown",6.51,7.0,14.0,2024,201
+3,11:20,,,MIA 15,20.0,15.0,Anders Carlson kicks extra point good,0.0,0.0,14.0,2024,201
+3,11:20,,,NYJ 35,20.0,15.0,"Penalty on Elijah Campbell: Defensive Offside, 5 yards (accepted) (no play)",0.0,0.0,14.0,2024,201
+3,11:20,,,NYJ 40,20.0,15.0,"Anders Carlson kicks off 60 yards, touchback.",0.0,0.94,14.0,2024,201
+3,11:20,1.0,10.0,MIA 30,20.0,15.0,Tua Tagovailoa pass complete short right to Jaylen Waddle for 15 yards (tackle by Brandin Echols),0.94,1.93,14.0,2024,201
+3,10:44,1.0,10.0,MIA 45,20.0,15.0,De'Von Achane right end for no gain (tackle by Chuck Clark). Penalty on Alec Ingold: Offensive Holding (offset) . Penalty on Chuck Clark: Unnecessary Roughness / Defense (offset) (no play),1.93,1.93,14.0,2024,201
+3,10:26,1.0,10.0,MIA 45,20.0,15.0,Tua Tagovailoa pass complete short left to De'Von Achane for 6 yards (tackle by Jamien Sherwood),1.93,2.19,14.0,2024,201
+3,9:45,2.0,4.0,NYJ 49,20.0,15.0,Tua Tagovailoa pass incomplete short middle intended for Durham Smythe (defended by Jamien Sherwood),2.19,1.49,14.0,2024,201
+3,9:40,3.0,4.0,NYJ 49,20.0,15.0,Tua Tagovailoa pass complete short right to Odell Beckham for 1 yard (tackle by Michael Carter and Quincy Williams),1.49,0.07,14.0,2024,201
+3,9:00,4.0,3.0,NYJ 48,20.0,15.0,"Jake Bailey punts 48 yards, touchback.",0.07,-0.28,14.0,2024,201
+3,8:51,1.0,10.0,NYJ 20,20.0,15.0,Aaron Rodgers pass incomplete short right intended for Tyler Conklin,0.28,-0.27,14.0,2024,201
+3,8:46,2.0,10.0,NYJ 20,20.0,15.0,Aaron Rodgers pass complete short left to Isaiah Davis for 2 yards (tackle by Kendall Fuller),-0.27,-0.69,14.0,2024,201
+3,8:02,3.0,8.0,NYJ 22,20.0,15.0,Aaron Rodgers pass complete short middle to Isaiah Davis for 10 yards (tackle by Anthony Walker),-0.69,1.07,14.0,2024,201
+3,7:24,1.0,10.0,NYJ 32,20.0,15.0,Isaiah Davis right tackle for 6 yards (tackle by Anthony Walker and Jordyn Brooks),1.07,1.34,14.0,2024,201
+3,6:42,2.0,4.0,NYJ 38,20.0,15.0,Aaron Rodgers pass incomplete deep right intended for Garrett Wilson (defended by Jalen Ramsey),1.34,0.63,14.0,2024,201
+3,6:37,3.0,4.0,NYJ 38,20.0,15.0,Aaron Rodgers pass complete short left to Garrett Wilson for 8 yards,0.63,1.99,14.0,2024,201
+3,6:22,1.0,10.0,NYJ 46,20.0,15.0,"Braelon Allen left end for no gain (tackle by Quinton Bell and Jordan Poyer). Penalty on Quinton Bell: Defensive Offside, 5 yards (accepted) (no play)",1.99,2.72,14.0,2024,201
+3,5:57,1.0,5.0,MIA 49,20.0,15.0,Aaron Rodgers pass incomplete short right intended for Davante Adams (defended by Kendall Fuller),2.72,2.13,14.0,2024,201
+3,5:51,2.0,5.0,MIA 49,20.0,15.0,Aaron Rodgers pass complete short right to Davante Adams for 16 yards (tackle by Anthony Walker and Jordan Poyer),2.13,3.38,14.0,2024,201
+3,5:10,1.0,10.0,MIA 33,20.0,15.0,Braelon Allen left end for 6 yards (tackle by Tyrel Dodson and Quinton Bell),3.38,3.65,14.0,2024,201
+3,4:30,2.0,4.0,MIA 27,20.0,15.0,Isaiah Davis right guard for 4 yards (tackle by Da'Shawn Hand),3.65,4.04,14.0,2024,201
+3,3:44,1.0,10.0,MIA 23,20.0,15.0,"Aaron Rodgers pass complete short right to Allen Lazard for 13 yards (tackle by Kendall Fuller). Penalty on Allen Lazard: Illegal Motion, 5 yards (accepted) (no play)",4.04,3.71,14.0,2024,201
+3,3:19,1.0,15.0,MIA 28,20.0,15.0,Isaiah Davis left end for 5 yards (tackle by Kendall Fuller and Tyrel Dodson),3.71,3.5,14.0,2024,201
+3,2:38,2.0,10.0,MIA 23,20.0,15.0,Braelon Allen right end for 6 yards (tackle by Jalen Ramsey),3.5,3.66,14.0,2024,201
+3,1:52,,,,,,Timeout #1 by New York Jets,,,14.0,2024,201
+3,1:52,3.0,4.0,MIA 17,20.0,15.0,Aaron Rodgers sacked by Jordyn Brooks for -5 yards,3.66,1.99,14.0,2024,201
+3,1:06,4.0,9.0,MIA 22,23.0,15.0,Anders Carlson 40 yard field goal good,1.99,3.0,14.0,2024,201
+3,1:02,,,NYJ 35,23.0,15.0,"Anders Carlson kicks off 64 yards, returned by Malik Washington for 26 yards (tackle by Marcelino McCrary-Ball and Tony Adams). Penalty on Mohamed Kamara: Offensive Holding, 10 yards (offset) . Penalty on Marcelino McCrary-Ball: Illegal Use of Hands / Defense, 5 yards (offset)",0.0,0.74,14.0,2024,201
+3,0:54,1.0,10.0,MIA 27,23.0,15.0,Tua Tagovailoa pass incomplete short right intended for Tyreek Hill,0.74,0.2,14.0,2024,201
+3,0:50,2.0,10.0,MIA 27,23.0,15.0,Tua Tagovailoa pass incomplete short middle intended for Jonnu Smith,0.2,-0.49,14.0,2024,201
+3,0:46,3.0,10.0,MIA 27,23.0,15.0,Tua Tagovailoa pass incomplete short left intended for Tyreek Hill (defended by Brandin Echols),-0.49,-1.57,14.0,2024,201
+3,0:42,4.0,10.0,MIA 27,23.0,15.0,"Jake Bailey punts 56 yards, returned by Xavier Gipson for no gain (tackle by Siran Neal)",-1.57,0.06,14.0,2024,201
+3,0:34,1.0,10.0,NYJ 17,23.0,15.0,Isaiah Davis left tackle for 7 yards (tackle by Anthony Walker),-0.06,0.48,14.0,2024,201
+4,15:00,2.0,3.0,NYJ 24,23.0,15.0,Aaron Rodgers pass complete short left to Braelon Allen for 1 yard (tackle by Kendall Fuller),0.48,-0.24,14.0,2024,201
+4,14:17,3.0,2.0,NYJ 25,23.0,15.0,Aaron Rodgers sacked by Zach Sieler for -9 yards,-0.24,-2.39,14.0,2024,201
+4,13:33,4.0,11.0,NYJ 16,23.0,15.0,Thomas Morstead punts 44 yards out of bounds,-2.39,-1.6,14.0,2024,201
+4,13:23,1.0,10.0,MIA 40,23.0,15.0,Tua Tagovailoa pass incomplete short left intended for Jaylen Wright,1.6,1.05,14.0,2024,201
+4,13:18,2.0,10.0,MIA 40,23.0,15.0,Tua Tagovailoa pass incomplete short left intended for Jaylen Waddle (defended by D.J. Reed),1.05,0.37,14.0,2024,201
+4,13:15,3.0,10.0,MIA 40,23.0,15.0,Tua Tagovailoa pass complete deep middle to Tyreek Hill for 18 yards (tackle by Jamien Sherwood),0.37,2.79,14.0,2024,201
+4,12:31,,,,,,Timeout #1 by Miami Dolphins,,,14.0,2024,201
+4,12:31,1.0,10.0,NYJ 42,23.0,15.0,Tua Tagovailoa pass complete short left to Jeff Wilson for 7 yards (tackle by Jamien Sherwood and Jalen Mills),2.79,3.19,14.0,2024,201
+4,11:54,2.0,3.0,NYJ 35,23.0,15.0,Jeff Wilson up the middle for 4 yards (tackle by Isaiah Oliver),3.19,3.51,14.0,2024,201
+4,11:20,1.0,10.0,NYJ 31,23.0,15.0,"Tua Tagovailoa pass incomplete deep left intended for Malik Washington (defended by Chuck Clark). Penalty on D.J. Reed: Defensive Pass Interference, 23 yards (accepted) (no play)",3.51,5.37,14.0,2024,201
+4,11:13,1.0,8.0,NYJ 8,23.0,15.0,De'Von Achane right end for -3 yards (tackle by Solomon Thomas),5.37,4.02,14.0,2024,201
+4,10:29,2.0,11.0,NYJ 11,23.0,15.0,Tua Tagovailoa pass complete short right to Jaylen Waddle for 10 yards (tackle by Chuck Clark and Jamien Sherwood),4.02,5.17,14.0,2024,201
+4,9:51,3.0,1.0,NYJ 1,23.0,15.0,De'Von Achane left tackle for -3 yards (tackle by Jamien Sherwood and Tony Adams),5.17,3.03,14.0,2024,201
+4,9:09,4.0,4.0,NYJ 4,23.0,21.0,"Tua Tagovailoa pass complete short left to Tyreek Hill for 4 yards, touchdown",3.03,7.0,14.0,2024,201
+4,9:04,,,NYJ 2,23.0,23.0,Two Point Attempt: Tua Tagovailoa pass complete to to Jaylen Waddle for no gain,1.0,1.0,14.0,2024,201
+4,9:04,,,MIA 35,23.0,23.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,201
+4,9:04,1.0,10.0,NYJ 30,23.0,23.0,Braelon Allen up the middle for 7 yards (tackle by Jordyn Brooks),0.94,1.34,14.0,2024,201
+4,8:27,2.0,3.0,NYJ 37,23.0,23.0,Braelon Allen right guard for -1 yards (tackle by Benito Jones),1.34,0.5,14.0,2024,201
+4,7:48,3.0,4.0,NYJ 36,23.0,23.0,Aaron Rodgers pass incomplete short right intended for Isaiah Davis,0.5,-0.98,14.0,2024,201
+4,7:44,4.0,4.0,NYJ 36,23.0,23.0,"Thomas Morstead punts 52 yards, returned by Malik Washington for 10 yards (tackle by Ashtyn Davis and Samuel Eguavoen)",-0.98,-0.41,14.0,2024,201
+4,7:33,1.0,10.0,MIA 22,23.0,23.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 9 yards (tackle by Brandin Echols),0.41,1.08,14.0,2024,201
+4,6:58,2.0,1.0,MIA 31,23.0,23.0,"Penalty on Aaron Brewer: False Start, 5 yards (accepted) (no play)",1.08,0.41,14.0,2024,201
+4,6:58,2.0,6.0,MIA 26,23.0,23.0,"Tua Tagovailoa pass complete short right to Jaylen Waddle for 7 yards (tackle by Brandin Echols). Penalty on Quinnen Williams: Roughing the Passer, 15 yards (accepted)",0.41,2.13,14.0,2024,201
+4,6:36,1.0,10.0,MIA 48,23.0,23.0,De'Von Achane right guard for 3 yards (tackle by Jamien Sherwood),2.13,1.99,14.0,2024,201
+4,5:53,2.0,7.0,NYJ 49,23.0,23.0,"Tua Tagovailoa pass complete short right to De'Von Achane for no gain (tackle by Jamien Sherwood and Quincy Williams). Penalty on Robert Jones: Offensive Holding, 10 yards (accepted) (no play)",1.99,0.64,14.0,2024,201
+4,5:19,2.0,17.0,MIA 41,23.0,23.0,Tua Tagovailoa pass complete short left to De'Von Achane for 2 yards (tackle by Jalen Mills and Jamien Sherwood),0.64,0.23,14.0,2024,201
+4,4:38,3.0,15.0,MIA 43,23.0,23.0,Tua Tagovailoa pass incomplete deep right intended for Jaylen Waddle,0.23,-0.52,14.0,2024,201
+4,4:34,4.0,15.0,MIA 43,23.0,23.0,"Jake Bailey punts 44 yards, returned by Xavier Gipson for no gain (tackle by Siran Neal)",-0.52,0.32,14.0,2024,201
+4,4:25,1.0,10.0,NYJ 13,23.0,23.0,Aaron Rodgers pass incomplete short right intended for Isaiah Davis (defended by Jordyn Brooks),-0.32,-0.77,14.0,2024,201
+4,4:20,2.0,10.0,NYJ 13,23.0,23.0,Aaron Rodgers pass complete short middle to Braelon Allen for 15 yards (tackle by Anthony Walker),-0.77,0.81,14.0,2024,201
+4,3:38,1.0,10.0,NYJ 28,23.0,23.0,Aaron Rodgers pass complete short right to Garrett Wilson for 3 yards (tackle by Jalen Ramsey),0.81,0.67,14.0,2024,201
+4,2:52,2.0,7.0,NYJ 31,23.0,23.0,Aaron Rodgers pass complete short right to Garrett Wilson for 6 yards (tackle by Jordan Poyer),0.67,0.76,14.0,2024,201
+4,2:44,,,,,,Timeout #2 by New York Jets,,,14.0,2024,201
+4,2:44,3.0,1.0,NYJ 37,23.0,23.0,Braelon Allen up the middle for 2 yards (tackle by Benito Jones),0.76,1.53,14.0,2024,201
+4,2:07,1.0,10.0,NYJ 39,23.0,23.0,Aaron Rodgers pass complete short right to Davante Adams for 16 yards (tackle by Jordan Poyer),1.53,2.59,14.0,2024,201
+4,2:00,1.0,10.0,MIA 45,23.0,23.0,Aaron Rodgers pass complete deep left to Allen Lazard for 18 yards (tackle by Kendall Fuller),2.59,3.78,14.0,2024,201
+4,1:14,1.0,10.0,MIA 27,23.0,23.0,Isaiah Davis right end for -5 yards (tackle by Benito Jones),3.78,2.56,14.0,2024,201
+4,1:10,,,,,,Timeout #2 by Miami Dolphins,,,14.0,2024,201
+4,1:10,2.0,15.0,MIA 32,23.0,23.0,Aaron Rodgers sacked by Zach Sieler for -6 yards,2.56,1.09,14.0,2024,201
+4,1:02,,,,,,Timeout #3 by Miami Dolphins,,,14.0,2024,201
+4,1:02,3.0,21.0,MIA 38,23.0,23.0,Aaron Rodgers pass complete short left to Davante Adams for 14 yards (tackle by Kendall Fuller),1.09,1.87,14.0,2024,201
+4,0:56,4.0,7.0,MIA 24,26.0,23.0,Anders Carlson 42 yard field goal good,1.87,3.0,14.0,2024,201
+4,0:52,,,NYJ 35,26.0,23.0,"Anders Carlson kicks off 64 yards, returned by Malik Washington for 45 yards (tackle by Jarrick Bernard-Converse and Kenny Yeboah)",0.0,1.99,14.0,2024,201
+4,0:44,1.0,10.0,MIA 46,26.0,23.0,Tua Tagovailoa pass incomplete deep right intended for Malik Washington,1.99,1.45,14.0,2024,201
+4,0:41,2.0,10.0,MIA 46,26.0,23.0,Tua Tagovailoa pass complete short left to Tyreek Hill for 14 yards (tackle by D.J. Reed),1.45,2.92,14.0,2024,201
+4,0:35,1.0,10.0,NYJ 40,26.0,23.0,Tua Tagovailoa pass incomplete deep left intended for Jaylen Waddle,2.92,2.37,14.0,2024,201
+4,0:30,2.0,10.0,NYJ 40,26.0,23.0,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 6 yards (tackle by Jamien Sherwood),2.37,2.48,14.0,2024,201
+4,0:15,3.0,4.0,NYJ 34,26.0,23.0,Tua Tagovailoa pass incomplete deep right intended for Tyreek Hill,2.48,1.08,14.0,2024,201
+4,0:12,,,,,,Timeout #3 by New York Jets,,,14.0,2024,201
+4,0:12,4.0,4.0,NYJ 34,26.0,26.0,Jason Sanders 52 yard field goal good,1.08,3.0,14.0,2024,201
+4,0:07,,,MIA 35,26.0,26.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,201
+4,0:07,1.0,10.0,NYJ 30,26.0,26.0,Aaron Rodgers pass complete short middle to Tyler Conklin for 12 yards (tackle by Jordyn Brooks),0.94,0.0,14.0,2024,201
+,,,,,,,"Jets won the coin toss, Dolphins to receive the overtime kickoff.",,,14.0,2024,201
+OT,10:00,,,NYJ 35,26.0,26.0,"Anders Carlson kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,201
+OT,10:00,1.0,10.0,MIA 30,26.0,26.0,Tua Tagovailoa pass incomplete short left,0.94,0.39,14.0,2024,201
+OT,9:54,2.0,10.0,MIA 30,26.0,26.0,Tua Tagovailoa pass complete short right to Jonnu Smith for 20 yards (tackle by Chuck Clark),0.39,2.26,14.0,2024,201
+OT,9:16,1.0,10.0,MIA 50,26.0,26.0,Tua Tagovailoa pass complete short right to Jonnu Smith for 14 yards (tackle by Solomon Thomas and Jalen Mills),2.26,3.18,14.0,2024,201
+OT,8:35,1.0,10.0,NYJ 36,26.0,26.0,Tua Tagovailoa pass complete short left to De'Von Achane for 4 yards (tackle by Solomon Thomas and Ashtyn Davis),3.18,3.18,14.0,2024,201
+OT,7:50,2.0,6.0,NYJ 32,26.0,26.0,Tua Tagovailoa pass complete short left to Tyreek Hill for 9 yards (tackle by D.J. Reed),3.18,4.04,14.0,2024,201
+OT,7:31,,,,,,Timeout #1 by New York Jets,,,14.0,2024,201
+OT,7:31,1.0,10.0,NYJ 23,26.0,26.0,Tua Tagovailoa pass complete short left to De'Von Achane for 10 yards (tackle by Jalen Mills),4.04,4.71,14.0,2024,201
+OT,6:51,1.0,10.0,NYJ 13,26.0,26.0,De'Von Achane up the middle for 3 yards (tackle by Quincy Williams),4.71,4.58,14.0,2024,201
+OT,6:11,2.0,7.0,NYJ 10,26.0,32.0,"Tua Tagovailoa pass complete short left to Jonnu Smith for 10 yards, touchdown",4.58,6.0,14.0,2024,201

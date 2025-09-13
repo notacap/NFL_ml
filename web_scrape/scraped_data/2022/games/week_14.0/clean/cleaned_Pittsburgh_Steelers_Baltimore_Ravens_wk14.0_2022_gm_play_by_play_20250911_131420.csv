@@ -1,0 +1,146 @@
+Quarter,Time,Down,ToGo,Location,BAL,PIT,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Steelers won the coin toss and deferred, Ravens to receive the opening kickoff.",,,14.0,2022,203
+1.0,15:00,,,PIT 35,0.0,0.0,"Chris Boswell kicks off 59 yards, returned by Devin Duvernay for 19 yards (tackle by Miles Boykin and Damontae Kazee)",0.0,0.61,14.0,2022,203
+1.0,14:56,1.0,10.0,BAL 25,0.0,0.0,J.K. Dobbins left end for no gain (tackle by Cameron Sutton),0.61,0.06,14.0,2022,203
+1.0,14:20,2.0,10.0,BAL 25,0.0,0.0,Tyler Huntley pass incomplete short left intended for Mark Andrews (defended by Cameron Sutton),0.06,-0.62,14.0,2022,203
+1.0,14:16,3.0,10.0,BAL 25,0.0,0.0,Tyler Huntley pass complete short right to Demarcus Robinson for 9 yards (tackle by Levi Wallace),-0.62,-1.11,14.0,2022,203
+1.0,13:39,4.0,1.0,BAL 34,0.0,0.0,"Jordan Stout punts 43 yards, returned by Steven Sims for no gain (tackle by Kyle Hamilton)",-1.11,-0.48,14.0,2022,203
+1.0,13:31,1.0,10.0,PIT 23,0.0,0.0,Kenny Pickett scrambles right tackle for 3 yards (tackle by Roquan Smith),0.48,0.34,14.0,2022,203
+1.0,12:55,2.0,7.0,PIT 26,0.0,0.0,Kenny Pickett scrambles right end for 13 yards (tackle by Chuck Clark),0.34,1.53,14.0,2022,203
+1.0,12:16,1.0,10.0,PIT 39,0.0,0.0,Najee Harris right tackle for 3 yards (tackle by Jason Pierre-Paul),1.53,1.39,14.0,2022,203
+1.0,11:41,2.0,7.0,PIT 42,0.0,0.0,Najee Harris left guard for 3 yards (tackle by Calais Campbell),1.39,1.09,14.0,2022,203
+1.0,11:05,3.0,4.0,PIT 45,0.0,0.0,Kenny Pickett sacked by Roquan Smith for -7 yards,1.09,-0.85,14.0,2022,203
+1.0,10:33,4.0,11.0,PIT 38,0.0,0.0,"Pressley Harvin punts 46 yards, returned by Devin Duvernay for 9 yards (tackle by Marcus Allen)",-0.85,-0.61,14.0,2022,203
+1.0,10:24,1.0,10.0,BAL 25,0.0,0.0,J.K. Dobbins right guard for 4 yards (tackle by Cameron Heyward and Larry Ogunjobi),0.61,0.6,14.0,2022,203
+1.0,9:50,2.0,6.0,BAL 29,0.0,0.0,J.K. Dobbins left tackle for 4 yards (tackle by Alex Highsmith and Larry Ogunjobi),0.6,0.43,14.0,2022,203
+1.0,9:05,3.0,2.0,BAL 33,0.0,0.0,"Tyler Huntley scrambles right end for 1 yard (tackle by T.J. Watt) BAL challenged the short of the line to gain ruling, and the play was upheld.",0.43,-1.11,14.0,2022,203
+1.0,8:20,4.0,1.0,BAL 34,0.0,0.0,Tyler Huntley up the middle for 2 yards (tackle by Montravius Adams),-1.11,1.33,14.0,2022,203
+1.0,7:42,1.0,10.0,BAL 36,0.0,0.0,Gus Edwards right tackle for 2 yards (tackle by Alex Highsmith and Minkah Fitzpatrick),1.33,1.06,14.0,2022,203
+1.0,6:57,2.0,8.0,BAL 38,0.0,0.0,Tyler Huntley pass complete short left to Demarcus Robinson for 11 yards (tackle by Minkah Fitzpatrick and James Pierre),1.06,2.19,14.0,2022,203
+1.0,6:16,1.0,10.0,BAL 49,0.0,0.0,Tyler Huntley pass complete short right to Demarcus Robinson for 23 yards (tackle by Terrell Edmunds and Devin Bush),2.19,3.71,14.0,2022,203
+1.0,5:38,1.0,10.0,PIT 28,0.0,0.0,Gus Edwards up the middle for 4 yards (tackle by Jamir Jones and Terrell Edmunds),3.71,3.71,14.0,2022,203
+1.0,4:59,2.0,6.0,PIT 24,0.0,0.0,Tyler Huntley pass incomplete short middle intended for Mark Andrews,3.71,3.01,14.0,2022,203
+1.0,4:54,3.0,6.0,PIT 24,0.0,0.0,Tyler Huntley pass incomplete short right intended for Mark Andrews,3.01,1.89,14.0,2022,203
+1.0,4:50,4.0,6.0,PIT 24,3.0,0.0,Justin Tucker 42 yard field goal good,1.89,3.0,14.0,2022,203
+1.0,4:46,,,BAL 35,3.0,0.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,203
+1.0,4:46,1.0,10.0,PIT 25,3.0,0.0,Najee Harris left guard for 5 yards (tackle by Roquan Smith and Patrick Queen),0.61,0.74,14.0,2022,203
+1.0,4:13,2.0,5.0,PIT 30,3.0,0.0,Najee Harris right guard for 1 yard (tackle by Broderick Washington),0.74,0.17,14.0,2022,203
+1.0,3:30,3.0,4.0,PIT 31,3.0,0.0,"Kenny Pickett pass incomplete short left intended for Jaylen Warren (defended by Broderick Washington). Penalty on Dan Moore: Offensive Holding, 10 yards (declined)",0.17,-1.31,14.0,2022,203
+1.0,3:25,4.0,4.0,PIT 31,3.0,0.0,Pressley Harvin punts 17 yards downed by Marcus Allen,-1.31,-2.39,14.0,2022,203
+1.0,3:16,1.0,10.0,PIT 48,3.0,0.0,J.K. Dobbins up the middle for 44 yards (tackle by Minkah Fitzpatrick),2.39,6.28,14.0,2022,203
+1.0,2:36,1.0,4.0,PIT 4,9.0,0.0,"J.K. Dobbins right tackle for 4 yards, touchdown",6.28,7.0,14.0,2022,203
+1.0,2:31,,,PIT 15,10.0,0.0,Justin Tucker kicks extra point good,0.0,0.0,14.0,2022,203
+1.0,2:31,,,BAL 35,10.0,0.0,"Justin Tucker kicks off 58 yards, returned by Steven Sims for 29 yards (tackle by Ar'Darius Washington)",0.0,1.33,14.0,2022,203
+1.0,2:26,1.0,10.0,PIT 36,10.0,0.0,Mitchell Trubisky pass incomplete short left intended for Zach Gentry,1.33,0.79,14.0,2022,203
+1.0,2:21,2.0,10.0,PIT 36,10.0,0.0,Najee Harris up the middle for 1 yard (tackle by Odafe Oweh and Marcus Peters),0.79,0.23,14.0,2022,203
+1.0,1:41,3.0,9.0,PIT 37,10.0,0.0,Mitchell Trubisky pass complete short middle to Pat Freiermuth for 14 yards (tackle by Tyus Bowser),0.23,2.32,14.0,2022,203
+1.0,0:57,1.0,10.0,BAL 49,10.0,0.0,Mitchell Trubisky pass complete deep left to George Pickens for 42 yards (tackle by Marcus Williams and Marlon Humphrey),2.32,5.6,14.0,2022,203
+1.0,0:21,1.0,7.0,BAL 7,10.0,0.0,"Mitchell Trubisky pass incomplete short left intended for George Pickens. Penalty on Marlon Humphrey: Defensive Pass Interference, 6 yards (accepted) (no play)",5.6,6.97,14.0,2022,203
+1.0,0:17,1.0,1.0,BAL 1,10.0,6.0,"Najee Harris up the middle for 1 yard, touchdown",6.97,7.0,14.0,2022,203
+1.0,0:13,,,BAL 15,10.0,7.0,Chris Boswell kicks extra point good,0.0,0.0,14.0,2022,203
+1.0,0:13,,,PIT 35,10.0,7.0,"Chris Boswell kicks off 64 yards, returned by Justice Hill for 22 yards (tackle by Arthur Maulet)",0.0,0.48,14.0,2022,203
+1.0,0:08,1.0,10.0,BAL 23,10.0,7.0,Tyler Huntley pass complete short left to DeSean Jackson for 9 yards (tackle by Arthur Maulet),0.48,1.15,14.0,2022,203
+2.0,15:00,2.0,1.0,BAL 32,10.0,7.0,Gus Edwards up the middle for 9 yards (tackle by Terrell Edmunds),1.15,1.66,14.0,2022,203
+2.0,14:26,1.0,10.0,BAL 41,10.0,7.0,Gus Edwards right end for 16 yards (tackle by Terrell Edmunds and Minkah Fitzpatrick),1.66,2.72,14.0,2022,203
+2.0,13:42,1.0,10.0,PIT 43,10.0,7.0,Tyler Huntley sacked by and Chris Wormley for -6 yards and Tyson Alualu for -6 yards,2.72,1.37,14.0,2022,203
+2.0,12:58,2.0,16.0,PIT 49,10.0,7.0,Tyler Huntley scrambles right tackle for 11 yards (tackle by Damontae Kazee),1.37,2.15,14.0,2022,203
+2.0,12:18,3.0,5.0,PIT 38,10.0,7.0,Tyler Huntley scrambles right end for 4 yards (tackle by Minkah Fitzpatrick),2.15,1.1,14.0,2022,203
+2.0,11:40,4.0,1.0,PIT 34,10.0,7.0,"Tyler Huntley aborted snap, recovered by Tyler Huntley at PIT-37 and returned for -2 yards Tyler Huntley for no gain (tackle by Myles Jack)",1.1,-1.33,14.0,2022,203
+2.0,11:37,1.0,10.0,PIT 36,10.0,7.0,Mitchell Trubisky pass complete short right to Diontae Johnson for 8 yards (tackle by Chuck Clark),1.33,1.87,14.0,2022,203
+2.0,10:57,2.0,2.0,PIT 44,10.0,7.0,Najee Harris up the middle for 7 yards (tackle by Patrick Queen),1.87,2.32,14.0,2022,203
+2.0,10:22,1.0,10.0,BAL 49,10.0,7.0,Najee Harris right guard for 8 yards (tackle by Jason Pierre-Paul),2.32,2.86,14.0,2022,203
+2.0,9:45,2.0,2.0,BAL 41,10.0,7.0,Najee Harris right tackle for 1 yard (tackle by Travis Jones),2.86,2.28,14.0,2022,203
+2.0,9:05,3.0,1.0,BAL 40,10.0,7.0,Mitchell Trubisky pass complete short right to Najee Harris for 7 yards (tackle by Patrick Queen),2.28,3.38,14.0,2022,203
+2.0,8:27,1.0,10.0,BAL 33,10.0,7.0,Benny Snell up the middle for 1 yard (tackle by Roquan Smith and Calais Campbell),3.38,2.97,14.0,2022,203
+2.0,7:47,2.0,9.0,BAL 32,10.0,7.0,"Penalty on Tyus Bowser: Neutral Zone Infraction, 5 yards (accepted) (no play)",2.97,3.65,14.0,2022,203
+2.0,7:27,2.0,4.0,BAL 27,10.0,7.0,Benny Snell right guard for 3 yards (tackle by Roquan Smith and Calais Campbell),3.65,3.34,14.0,2022,203
+2.0,6:45,3.0,1.0,BAL 24,10.0,7.0,"Penalty on Patrick Queen: Neutral Zone Infraction, 5 yards (accepted) (no play)",3.34,4.31,14.0,2022,203
+2.0,6:27,1.0,10.0,BAL 19,10.0,7.0,Najee Harris left guard for 2 yards (tackle by Jason Pierre-Paul),4.31,4.03,14.0,2022,203
+2.0,5:48,2.0,8.0,BAL 17,10.0,7.0,Mitchell Trubisky pass short middle intended for Pat Freiermuth is intercepted by Roquan Smith at BAL-10 and returned for 19 yards (tackle by Diontae Johnson),4.03,-0.87,14.0,2022,203
+2.0,5:35,1.0,10.0,BAL 29,10.0,7.0,J.K. Dobbins right guard for 3 yards (tackle by Cameron Heyward),0.87,0.73,14.0,2022,203
+2.0,4:51,2.0,7.0,BAL 32,10.0,7.0,Tyler Huntley pass complete short right to Kenyan Drake for no gain (tackle by Robert Spillane),0.73,0.04,14.0,2022,203
+2.0,4:08,3.0,7.0,BAL 32,10.0,7.0,Tyler Huntley pass complete deep left to DeSean Jackson for 25 yards (tackle by James Pierre),0.04,2.72,14.0,2022,203
+2.0,3:29,1.0,10.0,PIT 43,10.0,7.0,"J.K. Dobbins up the middle for 6 yards (tackle by Levi Wallace and T.J. Watt). Penalty on Montravius Adams: Defensive Holding, 5 yards (accepted)",2.72,3.45,14.0,2022,203
+2.0,3:02,1.0,10.0,PIT 32,10.0,7.0,Tyler Huntley scrambles right end for 9 yards (tackle by Myles Jack),3.45,4.12,14.0,2022,203
+2.0,2:29,2.0,1.0,PIT 23,10.0,7.0,Gus Edwards up the middle for 3 yards (tackle by Chris Wormley),4.12,4.24,14.0,2022,203
+2.0,2:00,1.0,10.0,PIT 20,10.0,7.0,Tyler Huntley pass complete short right to Kenyan Drake for 1 yard (tackle by Myles Jack),4.24,3.82,14.0,2022,203
+2.0,1:55,2.0,9.0,PIT 19,10.0,7.0,Tyler Huntley right tackle for 2 yards (tackle by Cameron Heyward),3.82,3.36,14.0,2022,203
+2.0,1:13,3.0,7.0,PIT 17,10.0,7.0,Tyler Huntley pass incomplete short right intended for Mark Andrews,3.36,2.31,14.0,2022,203
+2.0,1:06,4.0,7.0,PIT 17,13.0,7.0,Justin Tucker 35 yard field goal good,2.31,3.0,14.0,2022,203
+2.0,1:03,,,BAL 35,13.0,7.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,203
+2.0,1:03,1.0,10.0,PIT 25,13.0,7.0,Mitchell Trubisky pass complete short right to Diontae Johnson for 11 yards (tackle by Ar'Darius Washington),0.61,1.33,14.0,2022,203
+2.0,0:43,1.0,10.0,PIT 36,13.0,7.0,Mitchell Trubisky pass complete deep left to George Pickens for 25 yards (tackle by Marlon Humphrey),1.33,2.98,14.0,2022,203
+2.0,0:36,1.0,10.0,BAL 39,13.0,7.0,Mitchell Trubisky pass complete short right to Gunner Olszewski for 7 yards (tackle by Marcus Peters),2.98,3.39,14.0,2022,203
+2.0,0:31,,,,,,Timeout #1 by Pittsburgh Steelers,,,14.0,2022,203
+2.0,0:31,2.0,3.0,BAL 32,13.0,7.0,Mitchell Trubisky pass complete short left to Pat Freiermuth for 9 yards (tackle by Kyle Hamilton),3.39,4.04,14.0,2022,203
+2.0,0:26,,,,,,Timeout #2 by Pittsburgh Steelers,,,14.0,2022,203
+2.0,0:26,1.0,10.0,BAL 23,13.0,7.0,Mitchell Trubisky pass short middle intended for Pat Freiermuth is intercepted by Patrick Queen at BAL-8 and returned for no gain (tackle by Jaylen Warren),4.04,0.38,14.0,2022,203
+2.0,0:21,1.0,10.0,BAL 8,13.0,7.0,Tyler Huntley kneels for -1 yards,-0.38,-0.85,14.0,2022,203
+3.0,15:00,,,BAL 35,13.0,7.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,203
+3.0,15:00,1.0,10.0,PIT 25,13.0,7.0,Najee Harris right guard for no gain (tackle by Jason Pierre-Paul and Patrick Queen),0.61,0.06,14.0,2022,203
+3.0,14:22,2.0,10.0,PIT 25,13.0,7.0,Mitchell Trubisky pass complete short left to Steven Sims for 6 yards (tackle by Kyle Hamilton),0.06,0.17,14.0,2022,203
+3.0,13:39,3.0,4.0,PIT 31,13.0,7.0,Mitchell Trubisky pass complete short right to Diontae Johnson for 14 yards (tackle by Marcus Peters),0.17,1.93,14.0,2022,203
+3.0,13:01,1.0,10.0,PIT 45,13.0,7.0,Jaylen Warren up the middle for 4 yards (tackle by Calais Campbell),1.93,1.92,14.0,2022,203
+3.0,12:19,2.0,6.0,PIT 49,13.0,7.0,Mitchell Trubisky pass complete short right to Diontae Johnson for 1 yard (tackle by Broderick Washington),1.92,1.36,14.0,2022,203
+3.0,11:35,3.0,5.0,PIT 50,13.0,7.0,Mitchell Trubisky pass complete short left to Steven Sims for 2 yards (tackle by Marcus Peters),1.36,0.07,14.0,2022,203
+3.0,10:57,4.0,3.0,BAL 48,13.0,7.0,"Pressley Harvin punts 48 yards, touchback.",0.07,-0.28,14.0,2022,203
+3.0,10:49,1.0,10.0,BAL 20,13.0,7.0,J.K. Dobbins left tackle for 9 yards (tackle by Minkah Fitzpatrick and Alex Highsmith),0.28,0.95,14.0,2022,203
+3.0,10:18,2.0,1.0,BAL 29,13.0,7.0,J.K. Dobbins left guard for 6 yards (tackle by Myles Jack and Devin Bush),0.95,1.27,14.0,2022,203
+3.0,9:53,1.0,10.0,BAL 35,13.0,7.0,Tyler Huntley pass complete short middle to Mark Andrews for 10 yards (tackle by Terrell Edmunds),1.27,1.93,14.0,2022,203
+3.0,9:10,1.0,10.0,BAL 45,13.0,7.0,Gus Edwards left tackle for 5 yards (tackle by Devin Bush),1.93,2.06,14.0,2022,203
+3.0,8:28,2.0,5.0,BAL 50,13.0,7.0,Gus Edwards right tackle for 1 yard (tackle by Terrell Edmunds and Myles Jack),2.06,1.49,14.0,2022,203
+3.0,7:44,3.0,4.0,PIT 49,13.0,7.0,Tyler Huntley right guard for 3 yards (tackle by Montravius Adams and Minkah Fitzpatrick),1.49,0.2,14.0,2022,203
+3.0,7:26,4.0,1.0,PIT 46,13.0,7.0,"Jordan Stout punts 35 yards, fair catch by Steven Sims at PIT-11",0.2,0.37,14.0,2022,203
+3.0,7:18,1.0,10.0,PIT 11,13.0,7.0,Najee Harris up the middle for 1 yard (tackle by Patrick Queen),-0.37,-0.71,14.0,2022,203
+3.0,6:40,2.0,9.0,PIT 12,13.0,7.0,Mitchell Trubisky pass complete short right to Steven Sims for 11 yards (tackle by Kyle Hamilton),-0.71,0.48,14.0,2022,203
+3.0,5:59,1.0,10.0,PIT 23,13.0,7.0,Mitchell Trubisky pass complete short middle to Najee Harris for 10 yards (tackle by Marlon Humphrey),0.48,1.14,14.0,2022,203
+3.0,5:16,1.0,10.0,PIT 33,13.0,7.0,Mitchell Trubisky pass complete short right to Steven Sims for 11 yards (tackle by Kyle Hamilton and Chuck Clark),1.14,1.86,14.0,2022,203
+3.0,4:34,1.0,10.0,PIT 44,13.0,7.0,Jaylen Warren up the middle for -1 yards (tackle by Odafe Oweh and Justin Madubuike),1.86,1.18,14.0,2022,203
+3.0,3:54,2.0,11.0,PIT 43,13.0,7.0,Mitchell Trubisky pass complete short left to Diontae Johnson for 11 yards (tackle by Marcus Williams),1.18,2.52,14.0,2022,203
+3.0,3:03,1.0,10.0,BAL 46,13.0,7.0,"Mitchell Trubisky pass intended for Diontae Johnson is intercepted by Marcus Williams in end zone and returned for no gain Replay Assistant challenged the touchback ruling, and the original play was overturned. Mitchell Trubisky pass intended for Diontae Johnson is intercepted by Marcus Williams at BAL-1 and returned for no gain",2.52,0.38,14.0,2022,203
+3.0,3:03,1.0,10.0,BAL 1,13.0,7.0,Anthony Brown pass complete short left to Demarcus Robinson for 3 yards (tackle by Cameron Sutton),-0.38,-0.56,14.0,2022,203
+3.0,2:26,2.0,7.0,BAL 4,13.0,7.0,J.K. Dobbins for 11 yards (tackle by Terrell Edmunds and Cameron Heyward),-0.56,-0.22,14.0,2022,203
+3.0,1:44,1.0,10.0,BAL 15,13.0,7.0,"Kenyan Drake for 1 yard. Kenyan Drake fumbles (forced by Chris Wormley) (tackle by Myles Jack), recovered by Ben Cleveland at BAL-16",-0.22,-0.58,14.0,2022,203
+3.0,1:13,2.0,9.0,BAL 16,13.0,7.0,Anthony Brown pass incomplete deep left intended for Demarcus Robinson,-0.58,-1.25,14.0,2022,203
+3.0,1:08,3.0,9.0,BAL 16,13.0,7.0,Anthony Brown sacked by T.J. Watt for -4 yards,-1.25,-2.49,14.0,2022,203
+3.0,0:30,4.0,13.0,BAL 12,13.0,7.0,"Jordan Stout punts 46 yards, returned by Steven Sims for no gain (tackle by Kyle Hamilton). Penalty on James Pierre: Offensive Holding, 10 yards (accepted)",-2.49,-1.07,14.0,2022,203
+3.0,0:21,1.0,10.0,PIT 32,13.0,7.0,Mitchell Trubisky pass complete short middle to George Pickens for 11 yards (tackle by Marlon Humphrey),1.07,1.8,14.0,2022,203
+4.0,15:00,1.0,10.0,PIT 43,13.0,7.0,Steven Sims left end for 1 yard (tackle by Marlon Humphrey),1.8,1.39,14.0,2022,203
+4.0,14:17,2.0,9.0,PIT 44,13.0,7.0,Mitchell Trubisky pass incomplete short right intended for Gunner Olszewski (defended by Marcus Peters),1.39,0.69,14.0,2022,203
+4.0,14:09,3.0,9.0,PIT 44,13.0,7.0,Mitchell Trubisky pass complete short right to Jaylen Warren for 14 yards (tackle by Chuck Clark),0.69,2.79,14.0,2022,203
+4.0,13:19,1.0,10.0,BAL 42,13.0,7.0,"Jaylen Warren right end for 8 yards (tackle by Chuck Clark). Penalty on Marcus Peters: Unnecessary Roughness / Defense, 15 yards (accepted)",2.79,4.31,14.0,2022,203
+4.0,12:58,1.0,10.0,BAL 19,13.0,7.0,Mitchell Trubisky pass complete short right to Jaylen Warren for 2 yards (tackle by Patrick Queen and Chuck Clark),4.31,4.03,14.0,2022,203
+4.0,12:10,2.0,8.0,BAL 17,13.0,7.0,Mitchell Trubisky sacked by Tyus Bowser for -5 yards,4.03,2.68,14.0,2022,203
+4.0,11:24,,,,,,Timeout #1 by Pittsburgh Steelers,,,14.0,2022,203
+4.0,11:24,3.0,13.0,BAL 22,13.0,7.0,Mitchell Trubisky pass incomplete deep left intended for Diontae Johnson,2.68,1.99,14.0,2022,203
+4.0,11:19,4.0,13.0,BAL 22,13.0,7.0,Chris Boswell 40 yard field goal no good blocked by Calais Campbell,1.99,-0.94,14.0,2022,203
+4.0,11:14,1.0,10.0,BAL 30,13.0,7.0,J.K. Dobbins left guard for 5 yards (tackle by Devin Bush),0.94,1.07,14.0,2022,203
+4.0,10:36,2.0,5.0,BAL 35,13.0,7.0,J.K. Dobbins right tackle for 4 yards (tackle by T.J. Watt),1.07,0.89,14.0,2022,203
+4.0,9:55,3.0,1.0,BAL 39,13.0,7.0,Patrick Ricard up the middle for 2 yards (tackle by Myles Jack and T.J. Watt),0.89,1.66,14.0,2022,203
+4.0,9:12,1.0,10.0,BAL 41,13.0,7.0,Anthony Brown pass incomplete short middle intended for Devin Duvernay,1.66,1.12,14.0,2022,203
+4.0,9:07,2.0,10.0,BAL 41,13.0,7.0,Anthony Brown pass complete short right to Demarcus Robinson for 6 yards (tackle by Levi Wallace),1.12,1.22,14.0,2022,203
+4.0,8:31,3.0,4.0,BAL 47,13.0,7.0,Anthony Brown pass complete short left to Mark Andrews for 7 yards (tackle by Minkah Fitzpatrick),1.22,2.52,14.0,2022,203
+4.0,7:50,1.0,10.0,PIT 46,13.0,7.0,J.K. Dobbins right tackle for 14 yards (tackle by Minkah Fitzpatrick),2.52,3.45,14.0,2022,203
+4.0,7:03,1.0,10.0,PIT 32,13.0,7.0,J.K. Dobbins right tackle for 6 yards (tackle by Damontae Kazee),3.45,3.71,14.0,2022,203
+4.0,6:19,2.0,4.0,PIT 26,13.0,7.0,Gus Edwards right guard for 7 yards (tackle by Minkah Fitzpatrick),3.71,4.31,14.0,2022,203
+4.0,5:36,1.0,10.0,PIT 19,13.0,7.0,Gus Edwards left guard for -1 yards (tackle by Devin Bush and Damontae Kazee),4.31,3.63,14.0,2022,203
+4.0,4:53,2.0,11.0,PIT 20,13.0,7.0,Gus Edwards right guard for 7 yards (tackle by Devin Bush),3.63,3.96,14.0,2022,203
+4.0,4:08,3.0,4.0,PIT 13,13.0,7.0,J.K. Dobbins left tackle for no gain (tackle by Robert Spillane and Terrell Edmunds),3.96,2.64,14.0,2022,203
+4.0,3:22,4.0,4.0,PIT 13,16.0,7.0,Justin Tucker 30 yard field goal good,2.64,3.0,14.0,2022,203
+4.0,3:19,,,BAL 35,16.0,7.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,203
+4.0,3:19,1.0,10.0,PIT 25,16.0,7.0,Mitchell Trubisky pass incomplete short middle intended for Pat Freiermuth (defended by Roquan Smith),0.61,0.06,14.0,2022,203
+4.0,3:17,2.0,10.0,PIT 25,16.0,7.0,"Mitchell Trubisky pass complete deep left to Diontae Johnson for 37 yards (tackle by Marlon Humphrey). Penalty on Justin Madubuike: Roughing the Passer, 15 yards (accepted)",0.06,4.04,14.0,2022,203
+4.0,3:08,1.0,10.0,BAL 23,16.0,7.0,Mitchell Trubisky pass complete short middle to Connor Heyward for 13 yards (tackle by Marcus Williams),4.04,4.91,14.0,2022,203
+4.0,2:45,1.0,10.0,BAL 10,16.0,7.0,Mitchell Trubisky pass incomplete short left intended for Najee Harris,4.91,4.19,14.0,2022,203
+4.0,2:39,2.0,10.0,BAL 10,16.0,7.0,"Mitchell Trubisky pass incomplete intended for Diontae Johnson. Penalty on Diontae Johnson: Offensive Pass Interference, 10 yards (offset) . Penalty on Marlon Humphrey: Defensive Pass Interference, 15 yards (offset) (no play)",4.19,4.19,14.0,2022,203
+4.0,2:34,2.0,10.0,BAL 10,16.0,13.0,"Mitchell Trubisky pass complete short middle to Pat Freiermuth for 10 yards, touchdown",4.19,7.0,14.0,2022,203
+4.0,2:30,,,BAL 15,16.0,14.0,Chris Boswell kicks extra point good,0.0,0.0,14.0,2022,203
+4.0,2:30,,,PIT 35,16.0,14.0,"Chris Boswell kicks off 61 yards, returned by Justice Hill for 17 yards (tackle by Arthur Maulet)",0.0,0.34,14.0,2022,203
+4.0,2:24,1.0,10.0,BAL 21,16.0,14.0,Gus Edwards left tackle for 6 yards (tackle by Terrell Edmunds and Cameron Heyward),0.34,0.61,14.0,2022,203
+4.0,2:18,,,,,,Timeout #2 by Pittsburgh Steelers,,,14.0,2022,203
+4.0,2:18,2.0,4.0,BAL 27,16.0,14.0,Gus Edwards right guard for 1 yard (tackle by Montravius Adams and Cameron Heyward),0.61,0.04,14.0,2022,203
+4.0,2:14,,,,,,Timeout #3 by Pittsburgh Steelers,,,14.0,2022,203
+4.0,2:14,3.0,3.0,BAL 28,16.0,14.0,Gus Edwards right tackle for 6 yards (tackle by Minkah Fitzpatrick),0.04,1.2,14.0,2022,203
+4.0,2:00,1.0,10.0,BAL 34,16.0,14.0,Anthony Brown kneels for -3 yards,1.2,0.25,14.0,2022,203
+4.0,1:20,2.0,13.0,BAL 31,16.0,14.0,Anthony Brown kneels for -1 yards,0.25,-0.56,14.0,2022,203
+4.0,0:38,3.0,14.0,BAL 30,16.0,14.0,Anthony Brown kneels for -1 yards,-0.56,-1.44,14.0,2022,203

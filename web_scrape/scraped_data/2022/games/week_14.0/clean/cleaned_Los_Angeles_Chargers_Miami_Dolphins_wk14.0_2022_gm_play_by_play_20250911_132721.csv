@@ -1,0 +1,175 @@
+Quarter,Time,Down,ToGo,Location,MIA,LAC,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Chargers won the coin toss and deferred, Dolphins to receive the opening kickoff.",,,14.0,2022,207
+1.0,15:00,,,LAC 35,0.0,0.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,207
+1.0,15:00,1.0,10.0,MIA 25,0.0,0.0,Tua Tagovailoa pass incomplete deep left intended for Tyreek Hill (defended by Alohi Gilman),0.61,0.06,14.0,2022,207
+1.0,14:56,2.0,10.0,MIA 25,0.0,0.0,Tua Tagovailoa pass incomplete short middle intended for Jaylen Waddle (defended by Michael Davis),0.06,-0.62,14.0,2022,207
+1.0,14:50,3.0,10.0,MIA 25,0.0,0.0,Tua Tagovailoa pass incomplete short right intended for Tyreek Hill,-0.62,-1.7,14.0,2022,207
+1.0,14:46,4.0,10.0,MIA 25,0.0,0.0,"Thomas Morstead punts 55 yards, returned by DeAndre Carter for no gain (tackle by Elijah Campbell)",-1.7,-0.28,14.0,2022,207
+1.0,14:37,1.0,10.0,LAC 20,0.0,0.0,Justin Herbert pass complete short right to Gerald Everett for 11 yards (tackle by Eric Rowe),0.28,1.0,14.0,2022,207
+1.0,14:08,1.0,10.0,LAC 31,0.0,0.0,Austin Ekeler left end for 11 yards (tackle by Zach Sieler),1.0,1.73,14.0,2022,207
+1.0,13:30,1.0,10.0,LAC 42,0.0,0.0,Austin Ekeler up the middle for no gain (tackle by Elandon Roberts),1.73,1.19,14.0,2022,207
+1.0,12:56,2.0,10.0,LAC 42,0.0,0.0,Justin Herbert pass incomplete short left intended for Joshua Kelley,1.19,0.5,14.0,2022,207
+1.0,12:47,3.0,10.0,LAC 42,0.0,0.0,"Justin Herbert pass incomplete short right intended for Tre' McKitty (defended by Eric Rowe). Penalty on Kader Kohou: Defensive Holding, 5 yards (accepted) (no play)",0.5,2.06,14.0,2022,207
+1.0,12:39,1.0,10.0,LAC 47,0.0,0.0,Justin Herbert pass complete short left to Austin Ekeler for 11 yards (tackle by Elandon Roberts and Xavien Howard),2.06,2.79,14.0,2022,207
+1.0,12:04,1.0,10.0,MIA 42,0.0,0.0,Austin Ekeler left guard for -1 yards (tackle by Christian Wilkins),2.79,2.11,14.0,2022,207
+1.0,11:28,2.0,11.0,MIA 43,0.0,0.0,Justin Herbert pass complete short left to Austin Ekeler for 2 yards (tackle by Christian Wilkins and Kader Kohou),2.11,1.68,14.0,2022,207
+1.0,10:49,3.0,9.0,MIA 41,0.0,0.0,Justin Herbert pass complete deep right to Mike Williams for 23 yards (tackle by Xavien Howard),1.68,4.37,14.0,2022,207
+1.0,10:09,1.0,10.0,MIA 18,0.0,0.0,Joshua Kelley left tackle for 1 yard (tackle by Raekwon Davis),4.37,3.94,14.0,2022,207
+1.0,9:35,2.0,9.0,MIA 17,0.0,0.0,Justin Herbert pass complete short right to Keenan Allen for 5 yards,3.94,4.03,14.0,2022,207
+1.0,8:55,3.0,4.0,MIA 12,0.0,0.0,Justin Herbert pass complete short right to Gerald Everett for 7 yards (tackle by Eric Rowe and Keion Crossen),4.03,6.06,14.0,2022,207
+1.0,8:15,1.0,5.0,MIA 5,0.0,0.0,Austin Ekeler right guard for no gain (tackle by John Jenkins and Zach Sieler),6.06,5.15,14.0,2022,207
+1.0,7:30,2.0,5.0,MIA 5,0.0,0.0,Justin Herbert pass complete short left to Austin Ekeler for -1 yards (tackle by Andrew Van Ginkel),5.15,4.04,14.0,2022,207
+1.0,6:46,3.0,6.0,MIA 6,0.0,0.0,Justin Herbert pass complete short right to Keenan Allen for 4 yards (tackle by Kader Kohou and Xavien Howard),4.04,3.25,14.0,2022,207
+1.0,6:04,4.0,2.0,MIA 2,0.0,0.0,Justin Herbert pass complete short left to DeAndre Carter for no gain (tackle by Kader Kohou),3.25,0.38,14.0,2022,207
+1.0,5:58,1.0,10.0,MIA 2,0.0,0.0,Raheem Mostert up the middle for 1 yard (tackle by Breiden Fehoko),-0.38,-0.71,14.0,2022,207
+1.0,5:25,2.0,9.0,MIA 3,0.0,0.0,Tua Tagovailoa pass incomplete short middle intended for Tyreek Hill (defended by Michael Davis),-0.71,-1.3,14.0,2022,207
+1.0,5:20,3.0,9.0,MIA 3,0.0,0.0,Tua Tagovailoa pass complete short middle to Tyreek Hill for 13 yards (tackle by Drue Tranquill),-1.3,-0.14,14.0,2022,207
+1.0,4:42,1.0,10.0,MIA 16,0.0,0.0,Tua Tagovailoa pass complete short right to Tyreek Hill for no gain (tackle by Kenneth Murray),-0.14,-0.66,14.0,2022,207
+1.0,3:58,2.0,10.0,MIA 16,0.0,0.0,Raheem Mostert left guard for no gain (tackle by Kenneth Murray),-0.66,-1.32,14.0,2022,207
+1.0,3:16,3.0,10.0,MIA 16,0.0,0.0,"Penalty on Brandon Shell: False Start, 5 yards (accepted) (no play)",-1.32,-2.01,14.0,2022,207
+1.0,2:50,3.0,15.0,MIA 11,0.0,0.0,Tua Tagovailoa pass incomplete short middle intended for Tyreek Hill (defended by Drue Tranquill),-2.01,-2.49,14.0,2022,207
+1.0,2:44,4.0,15.0,MIA 11,0.0,0.0,"Thomas Morstead punts 46 yards, fair catch by DeAndre Carter at LAC-43",-2.49,-1.8,14.0,2022,207
+1.0,2:36,1.0,10.0,LAC 43,0.0,0.0,Justin Herbert pass complete short right to Mike Williams for 19 yards (tackle by Jevon Holland),1.8,3.05,14.0,2022,207
+1.0,1:59,1.0,10.0,MIA 38,0.0,0.0,Joshua Kelley up the middle for 5 yards (tackle by Eric Rowe),3.05,3.18,14.0,2022,207
+1.0,1:20,2.0,5.0,MIA 33,0.0,0.0,Austin Ekeler left tackle for no gain (tackle by Christian Wilkins),3.18,2.48,14.0,2022,207
+1.0,0:44,3.0,5.0,MIA 33,0.0,0.0,"Justin Herbert pass complete short right to Josh Palmer for 13 yards MIA challenged the pass completion ruling, and the play was upheld.",2.48,4.24,14.0,2022,207
+1.0,0:21,1.0,10.0,MIA 20,0.0,0.0,Justin Herbert pass incomplete short left,4.24,3.69,14.0,2022,207
+1.0,0:14,2.0,10.0,MIA 20,0.0,0.0,Justin Herbert sacked by Christian Wilkins for -6 yards,3.69,2.21,14.0,2022,207
+2.0,15:00,3.0,16.0,MIA 26,0.0,0.0,Justin Herbert pass complete short left to Austin Ekeler for 11 yards (tackle by Jaelan Phillips),2.21,2.49,14.0,2022,207
+2.0,14:16,4.0,5.0,MIA 15,0.0,3.0,Cameron Dicker 33 yard field goal good,2.49,3.0,14.0,2022,207
+2.0,14:14,,,LAC 35,0.0,3.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,207
+2.0,14:14,1.0,10.0,MIA 25,0.0,3.0,Jeff Wilson left end for -3 yards (tackle by Kyle Van Noy),0.61,-0.34,14.0,2022,207
+2.0,13:36,2.0,13.0,MIA 22,0.0,3.0,Tua Tagovailoa pass incomplete deep middle intended for Tyreek Hill,-0.34,-1.02,14.0,2022,207
+2.0,13:30,3.0,13.0,MIA 22,0.0,3.0,Tua Tagovailoa sacked by Kyle Van Noy for -6 yards,-1.02,-2.39,14.0,2022,207
+2.0,12:53,4.0,19.0,MIA 16,0.0,3.0,"Thomas Morstead punts 50 yards, returned by DeAndre Carter for 23 yards (tackle by Andrew Van Ginkel)",-2.39,-2.72,14.0,2022,207
+2.0,12:41,1.0,10.0,MIA 43,0.0,3.0,Justin Herbert pass complete short left to Keenan Allen for 3 yards (tackle by Eric Rowe and Jerome Baker),2.72,2.58,14.0,2022,207
+2.0,12:02,2.0,7.0,MIA 40,0.0,3.0,Justin Herbert pass complete short right to Joshua Kelley for 6 yards (tackle by Elandon Roberts),2.58,2.68,14.0,2022,207
+2.0,11:24,3.0,1.0,MIA 34,0.0,3.0,Joshua Kelley left tackle for 22 yards (tackle by Kader Kohou),2.68,4.78,14.0,2022,207
+2.0,10:40,1.0,10.0,MIA 12,0.0,3.0,Austin Ekeler left tackle for 2 yards (tackle by Christian Wilkins and Jaelan Phillips),4.78,4.45,14.0,2022,207
+2.0,9:56,2.0,8.0,MIA 10,0.0,9.0,"Justin Herbert pass complete short right to Mike Williams for 10 yards, touchdown",4.45,7.0,14.0,2022,207
+2.0,9:49,,,MIA 15,0.0,10.0,Cameron Dicker kicks extra point good,0.0,0.0,14.0,2022,207
+2.0,9:49,,,LAC 35,0.0,10.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,207
+2.0,9:49,1.0,10.0,MIA 25,0.0,10.0,Tua Tagovailoa pass incomplete deep left intended for Mike Gesicki,0.61,0.06,14.0,2022,207
+2.0,9:45,2.0,10.0,MIA 25,0.0,10.0,"Tua Tagovailoa pass incomplete intended for Jaylen Waddle. Penalty on Asante Samuel: Defensive Pass Interference, 10 yards (accepted) (no play)",0.06,1.27,14.0,2022,207
+2.0,9:41,1.0,10.0,MIA 35,0.0,10.0,Jeff Wilson left tackle for 6 yards (tackle by Joe Gaziano and Drue Tranquill),1.27,1.53,14.0,2022,207
+2.0,9:02,2.0,4.0,MIA 41,6.0,10.0,"Jeff Wilson up the middle for 3 yards. Jeff Wilson fumbles (forced by Alohi Gilman), recovered by Tyreek Hill at MIA-47 and returned for 57 yards, touchdown",1.53,7.0,14.0,2022,207
+2.0,8:45,,,LAC 15,7.0,10.0,Jason Sanders kicks extra point good,0.0,0.0,14.0,2022,207
+2.0,8:45,,,MIA 35,7.0,10.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,207
+2.0,8:45,1.0,10.0,LAC 25,7.0,10.0,Austin Ekeler left end for 2 yards (tackle by Jaelan Phillips),0.61,0.33,14.0,2022,207
+2.0,8:09,2.0,8.0,LAC 27,7.0,10.0,Justin Herbert pass complete short right to Austin Ekeler for 3 yards (tackle by Christian Wilkins),0.33,0.04,14.0,2022,207
+2.0,7:30,3.0,5.0,LAC 30,7.0,10.0,"Penalty on Matt Feiler: False Start, 5 yards (accepted) (no play)",0.04,-0.62,14.0,2022,207
+2.0,7:05,3.0,10.0,LAC 25,7.0,10.0,Justin Herbert sacked by Eric Rowe for -4 yards,-0.62,-1.96,14.0,2022,207
+2.0,6:30,4.0,14.0,LAC 21,7.0,10.0,"JK Scott punts 55 yards, fair catch by Cedrick Wilson at MIA-24. Penalty on Keion Crossen: Offensive Holding, 10 yards (accepted)",-1.96,0.28,14.0,2022,207
+2.0,6:22,1.0,10.0,MIA 14,7.0,10.0,Jeff Wilson up the middle for 20 yards (tackle by Asante Samuel),-0.28,1.2,14.0,2022,207
+2.0,5:48,1.0,10.0,MIA 34,7.0,10.0,"Tua Tagovailoa pass incomplete short right intended for Trent Sherfield. Penalty on Robert Hunt: Ineligible Downfield Pass, 5 yards (declined)",1.2,0.66,14.0,2022,207
+2.0,5:48,2.0,10.0,MIA 34,7.0,10.0,Tua Tagovailoa pass incomplete short right,0.66,-0.03,14.0,2022,207
+2.0,5:42,3.0,10.0,MIA 34,7.0,10.0,Tua Tagovailoa pass complete short middle to Cedrick Wilson for 12 yards (tackle by Ja'Sir Taylor),-0.03,1.99,14.0,2022,207
+2.0,5:05,1.0,10.0,MIA 46,7.0,10.0,Raheem Mostert up the middle for 1 yard (tackle by Ja'Sir Taylor and Khalil Mack),1.99,1.59,14.0,2022,207
+2.0,4:26,2.0,9.0,MIA 47,7.0,10.0,Tua Tagovailoa pass incomplete short left,1.59,0.89,14.0,2022,207
+2.0,4:21,,,,,,Timeout #2 by Miami Dolphins,,,14.0,2022,207
+2.0,4:21,3.0,9.0,MIA 47,7.0,10.0,"Penalty on Brandon Shell: False Start, 5 yards (accepted) (no play)",0.89,0.23,14.0,2022,207
+2.0,4:21,3.0,14.0,MIA 42,7.0,10.0,Tua Tagovailoa pass incomplete deep left intended for Trent Sherfield,0.23,-0.59,14.0,2022,207
+2.0,4:16,4.0,14.0,MIA 42,7.0,10.0,Thomas Morstead punts 48 yards,-0.59,0.38,14.0,2022,207
+2.0,4:03,1.0,10.0,LAC 10,7.0,10.0,Justin Herbert pass incomplete short right intended for Gerald Everett,-0.38,-0.78,14.0,2022,207
+2.0,4:00,2.0,10.0,LAC 10,7.0,10.0,Justin Herbert pass complete short left to Mike Williams for 6 yards (tackle by Jerome Baker),-0.78,-0.72,14.0,2022,207
+2.0,3:27,3.0,4.0,LAC 16,7.0,10.0,Justin Herbert pass complete short left to Keenan Allen for 10 yards (tackle by Eric Rowe),-0.72,0.67,14.0,2022,207
+2.0,2:49,1.0,10.0,LAC 26,7.0,10.0,Justin Herbert pass complete short left to Austin Ekeler for 21 yards (tackle by Christian Wilkins),0.67,2.06,14.0,2022,207
+2.0,2:15,1.0,10.0,LAC 47,7.0,10.0,Justin Herbert pass complete short right to Keenan Allen for 14 yards (tackle by Jevon Holland and Jerome Baker),2.06,2.98,14.0,2022,207
+2.0,2:00,1.0,10.0,MIA 39,7.0,10.0,Justin Herbert pass complete short middle to Keenan Allen for 12 yards (tackle by Jerome Baker),2.98,3.78,14.0,2022,207
+2.0,1:32,1.0,10.0,MIA 27,7.0,10.0,Justin Herbert pass incomplete deep right intended for Josh Palmer,3.78,3.23,14.0,2022,207
+2.0,1:08,2.0,10.0,MIA 27,7.0,10.0,"Justin Herbert pass complete to DeAndre Carter for 5 yards Replay Assistant challenged the pass completion ruling, and the original play was overturned. Justin Herbert pass incomplete short middle intended for DeAndre Carter",3.23,2.54,14.0,2022,207
+2.0,1:24,3.0,10.0,MIA 27,7.0,10.0,Justin Herbert pass complete deep right to Josh Palmer for 18 yards,2.54,5.14,14.0,2022,207
+2.0,1:17,1.0,9.0,MIA 9,7.0,10.0,Justin Herbert sacked by Jaelan Phillips for -6 yards,5.14,3.46,14.0,2022,207
+2.0,1:03,,,,,,Timeout #3 by Miami Dolphins,,,14.0,2022,207
+2.0,1:03,2.0,15.0,MIA 15,7.0,10.0,"Justin Herbert pass complete short right to Gerald Everett for -2 yards (tackle by Eric Rowe). Penalty on Zion Johnson: Ineligible Downfield Pass, 5 yards (declined)",3.46,2.74,14.0,2022,207
+2.0,1:03,,,,,,Timeout #1 by Los Angeles Chargers,,,14.0,2022,207
+2.0,1:03,3.0,17.0,MIA 17,7.0,10.0,Justin Herbert pass complete short right to Austin Ekeler for 16 yards (tackle by Jevon Holland and Jerome Baker),2.74,3.55,14.0,2022,207
+2.0,0:21,,,,,,Timeout #2 by Los Angeles Chargers,,,14.0,2022,207
+2.0,0:21,4.0,1.0,MIA 1,7.0,16.0,"Austin Ekeler left tackle for 1 yard, touchdown",3.55,7.0,14.0,2022,207
+2.0,0:18,,,MIA 15,7.0,17.0,Cameron Dicker kicks extra point good,0.0,0.0,14.0,2022,207
+2.0,0:18,,,LAC 35,7.0,17.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,207
+2.0,0:18,,,,,,Timeout #3 by Los Angeles Chargers,,,14.0,2022,207
+2.0,0:18,1.0,10.0,MIA 25,7.0,17.0,Tua Tagovailoa pass incomplete short left,0.61,0.06,14.0,2022,207
+2.0,0:11,2.0,10.0,MIA 25,7.0,17.0,Raheem Mostert right guard for 8 yards (tackle by Drue Tranquill),0.06,0.43,14.0,2022,207
+3.0,15:00,,,MIA 35,7.0,17.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,207
+3.0,15:00,1.0,10.0,LAC 25,7.0,17.0,Justin Herbert pass incomplete short right,0.61,0.06,14.0,2022,207
+3.0,14:54,2.0,10.0,LAC 25,7.0,17.0,"Penalty on LAC: Delay of Game, 5 yards (accepted) (no play)",0.06,-0.61,14.0,2022,207
+3.0,14:54,2.0,15.0,LAC 20,7.0,17.0,Justin Herbert pass complete short right to Mike Williams for 3 yards (tackle by Eric Rowe),-0.61,-0.89,14.0,2022,207
+3.0,14:16,3.0,12.0,LAC 23,7.0,17.0,Justin Herbert pass complete short left to Stone Smartt for 8 yards (tackle by Kader Kohou),-0.89,-1.31,14.0,2022,207
+3.0,13:39,4.0,4.0,LAC 31,7.0,17.0,"JK Scott punts 34 yards, fair catch by Cedrick Wilson at MIA-35",-1.31,-1.27,14.0,2022,207
+3.0,13:32,1.0,10.0,MIA 35,7.0,17.0,Raheem Mostert right end for 1 yard (tackle by Kenneth Murray),1.27,0.86,14.0,2022,207
+3.0,12:55,2.0,9.0,MIA 36,7.0,17.0,Tua Tagovailoa pass incomplete short middle intended for Tyreek Hill,0.86,0.17,14.0,2022,207
+3.0,12:49,3.0,9.0,MIA 36,7.0,17.0,Tua Tagovailoa pass incomplete deep middle intended for Mike Gesicki (defended by Asante Samuel),0.17,-0.98,14.0,2022,207
+3.0,12:45,4.0,9.0,MIA 36,7.0,17.0,"Thomas Morstead punts 47 yards, fair catch by DeAndre Carter at LAC-17",-0.98,0.06,14.0,2022,207
+3.0,12:37,1.0,10.0,LAC 17,7.0,17.0,Austin Ekeler left guard for 2 yards (tackle by Zach Sieler and Jaelan Phillips),-0.06,-0.25,14.0,2022,207
+3.0,12:00,2.0,8.0,LAC 19,7.0,17.0,Justin Herbert sacked by Jerome Baker for -1 yards,-0.25,-1.13,14.0,2022,207
+3.0,11:15,3.0,9.0,LAC 18,7.0,17.0,"Justin Herbert sacked by Jaelan Phillips for no gain. Penalty on Jaelan Phillips: Roughing the Passer, 15 yards (accepted) (no play)",-1.13,1.14,14.0,2022,207
+3.0,10:33,1.0,10.0,LAC 33,7.0,17.0,Justin Herbert pass incomplete short left intended for Keenan Allen,1.14,0.59,14.0,2022,207
+3.0,10:27,2.0,10.0,LAC 33,7.0,17.0,"Justin Herbert pass complete to Gerald Everett for 3 yards (tackle by Christian Wilkins and Zach Sieler). Penalty on Matt Feiler: Offensive Illegal Block Above the Waist, 10 yards (accepted)",0.59,-0.35,14.0,2022,207
+3.0,10:16,2.0,17.0,LAC 26,7.0,17.0,Justin Herbert pass incomplete deep right intended for Gerald Everett,-0.35,-1.02,14.0,2022,207
+3.0,9:57,3.0,17.0,LAC 26,7.0,17.0,Justin Herbert pass complete short right to Josh Palmer for 15 yards (tackle by Jevon Holland),-1.02,-0.65,14.0,2022,207
+3.0,9:14,4.0,2.0,LAC 41,7.0,17.0,"JK Scott punts 35 yards, fair catch by Cedrick Wilson at MIA-24",-0.65,-0.54,14.0,2022,207
+3.0,9:05,1.0,10.0,MIA 24,7.0,17.0,Raheem Mostert right tackle for 8 yards (tackle by Ja'Sir Taylor and Nasir Adderley),0.54,1.08,14.0,2022,207
+3.0,8:40,2.0,2.0,MIA 32,7.0,17.0,Raheem Mostert left tackle for 3 yards (tackle by Ja'Sir Taylor),1.08,1.27,14.0,2022,207
+3.0,8:01,1.0,10.0,MIA 35,7.0,17.0,Tua Tagovailoa scrambles up the middle for 5 yards (tackle by Kenneth Murray),1.27,1.4,14.0,2022,207
+3.0,7:16,2.0,5.0,MIA 40,7.0,17.0,Raheem Mostert right tackle for no gain (tackle by Drue Tranquill and Breiden Fehoko),1.4,0.7,14.0,2022,207
+3.0,6:31,,,,,,Timeout #1 by Miami Dolphins,,,14.0,2022,207
+3.0,6:31,3.0,5.0,MIA 40,13.0,17.0,"Tua Tagovailoa pass complete deep right to Tyreek Hill for 60 yards, touchdown",0.7,7.0,14.0,2022,207
+3.0,6:23,,,LAC 15,14.0,17.0,Jason Sanders kicks extra point good,0.0,0.0,14.0,2022,207
+3.0,6:23,,,MIA 35,14.0,17.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,207
+3.0,6:23,1.0,10.0,LAC 25,14.0,17.0,Justin Herbert pass complete short left to Tre' McKitty for 5 yards (tackle by Elandon Roberts),0.61,0.74,14.0,2022,207
+3.0,5:42,2.0,5.0,LAC 30,14.0,17.0,Justin Herbert pass complete deep left to Mike Williams for 55 yards (tackle by Xavien Howard),0.74,4.58,14.0,2022,207
+3.0,5:07,1.0,10.0,MIA 15,14.0,17.0,Justin Herbert pass complete short left to Keenan Allen for 7 yards (tackle by Kader Kohou),4.58,5.22,14.0,2022,207
+3.0,4:27,2.0,3.0,MIA 8,14.0,17.0,Justin Herbert pass incomplete short left intended for Keenan Allen,5.22,4.45,14.0,2022,207
+3.0,4:26,3.0,3.0,MIA 8,14.0,17.0,"Penalty on Corey Linsley: False Start, 5 yards (accepted) (no play)",4.45,3.4,14.0,2022,207
+3.0,4:26,3.0,8.0,MIA 13,14.0,17.0,Justin Herbert pass incomplete short left intended for Gerald Everett,3.4,2.57,14.0,2022,207
+3.0,4:22,4.0,8.0,MIA 13,14.0,20.0,Cameron Dicker 31 yard field goal good,2.57,3.0,14.0,2022,207
+3.0,4:18,,,LAC 35,14.0,20.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,207
+3.0,4:18,1.0,10.0,MIA 25,14.0,20.0,Raheem Mostert up the middle for 13 yards (tackle by Nasir Adderley),0.61,1.47,14.0,2022,207
+3.0,3:40,1.0,10.0,MIA 38,14.0,20.0,Tua Tagovailoa scrambles right end for 14 yards (tackle by Alohi Gilman),1.47,2.39,14.0,2022,207
+3.0,3:11,1.0,10.0,LAC 48,14.0,20.0,Raheem Mostert left end for no gain (tackle by Nasir Adderley),2.39,1.85,14.0,2022,207
+3.0,2:28,2.0,10.0,LAC 48,14.0,20.0,Tua Tagovailoa pass incomplete short left intended for Alec Ingold,1.85,1.16,14.0,2022,207
+3.0,2:21,3.0,10.0,LAC 48,14.0,20.0,Tua Tagovailoa sacked by Morgan Fox for -12 yards,1.16,-0.72,14.0,2022,207
+3.0,1:43,4.0,22.0,MIA 40,14.0,20.0,"Thomas Morstead punts 47 yards, fair catch by DeAndre Carter at LAC-13",-0.72,0.32,14.0,2022,207
+3.0,1:35,1.0,10.0,LAC 13,14.0,20.0,Justin Herbert pass complete short middle to Gerald Everett for 9 yards (tackle by Elandon Roberts and Jerome Baker),-0.32,0.49,14.0,2022,207
+3.0,1:01,2.0,1.0,LAC 22,14.0,20.0,Austin Ekeler left guard for -1 yards (tackle by Jaelan Phillips),0.49,-0.47,14.0,2022,207
+3.0,0:18,3.0,2.0,LAC 21,14.0,20.0,Justin Herbert pass complete short right to Keenan Allen for 1 yard (tackle by Jerome Baker),-0.47,-1.9,14.0,2022,207
+4.0,15:00,4.0,1.0,LAC 22,14.0,20.0,"JK Scott punts 52 yards, fair catch by Cedrick Wilson at MIA-26",-1.9,-0.67,14.0,2022,207
+4.0,14:52,1.0,10.0,MIA 26,14.0,20.0,Tua Tagovailoa pass complete short right to Jaylen Waddle for 19 yards (tackle by Asante Samuel),0.67,1.93,14.0,2022,207
+4.0,14:09,1.0,10.0,MIA 45,14.0,20.0,Raheem Mostert right guard for 2 yards (tackle by Alohi Gilman and Morgan Fox),1.93,1.65,14.0,2022,207
+4.0,13:31,2.0,8.0,MIA 47,14.0,20.0,Tua Tagovailoa scrambles left end for 9 yards (tackle by Ja'Sir Taylor and Khalil Mack),1.65,2.65,14.0,2022,207
+4.0,12:52,1.0,10.0,LAC 44,14.0,20.0,Salvon Ahmed left tackle for 1 yard (tackle by Kenneth Murray and Khalil Mack),2.65,2.25,14.0,2022,207
+4.0,11:31,2.0,9.0,LAC 43,14.0,20.0,"Tua Tagovailoa pass incomplete deep middle. Penalty on Tua Tagovailoa: Intentional Grounding, 10 yards (accepted)",2.25,0.23,14.0,2022,207
+4.0,12:09,3.0,19.0,MIA 47,14.0,20.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 8 yards (tackle by Asante Samuel),0.23,0.27,14.0,2022,207
+4.0,11:27,4.0,11.0,LAC 45,14.0,20.0,"Thomas Morstead punts 34 yards, fair catch by DeAndre Carter at LAC-11",0.27,0.37,14.0,2022,207
+4.0,11:19,1.0,10.0,LAC 11,14.0,20.0,Joshua Kelley left tackle for 1 yard (tackle by Zach Sieler),-0.37,-0.71,14.0,2022,207
+4.0,10:40,2.0,9.0,LAC 12,14.0,20.0,Justin Herbert pass complete short right to Keenan Allen for 4 yards,-0.71,-0.84,14.0,2022,207
+4.0,10:04,3.0,5.0,LAC 16,14.0,20.0,Justin Herbert pass complete short left to Keenan Allen for 9 yards (tackle by Kader Kohou),-0.84,0.61,14.0,2022,207
+4.0,9:26,1.0,10.0,LAC 25,14.0,20.0,Justin Herbert pass complete short left to Josh Palmer for 7 yards (tackle by Kader Kohou),0.61,1.01,14.0,2022,207
+4.0,8:48,2.0,3.0,LAC 32,14.0,20.0,Justin Herbert pass incomplete short middle intended for Josh Palmer,1.01,0.3,14.0,2022,207
+4.0,8:44,3.0,3.0,LAC 32,14.0,20.0,Justin Herbert pass complete short left to Keenan Allen for 5 yards (tackle by Keion Crossen),0.3,1.4,14.0,2022,207
+4.0,8:08,1.0,10.0,LAC 37,14.0,20.0,Austin Ekeler right tackle for 3 yards (tackle by Elandon Roberts),1.4,1.26,14.0,2022,207
+4.0,7:31,2.0,7.0,LAC 40,14.0,20.0,Justin Herbert pass complete short left to Keenan Allen for 18 yards (tackle by Jerome Baker and Jevon Holland),1.26,2.79,14.0,2022,207
+4.0,6:51,1.0,10.0,MIA 42,14.0,20.0,Austin Ekeler left end for 10 yards (tackle by Jerome Baker),2.79,3.45,14.0,2022,207
+4.0,6:10,1.0,10.0,MIA 32,14.0,20.0,Austin Ekeler right end for 2 yards (tackle by Zach Sieler),3.45,3.17,14.0,2022,207
+4.0,5:26,2.0,8.0,MIA 30,14.0,20.0,Justin Herbert pass incomplete short right,3.17,2.48,14.0,2022,207
+4.0,5:14,3.0,8.0,MIA 30,14.0,20.0,Justin Herbert scrambles right end for 10 yards (tackle by Keion Crossen),2.48,4.24,14.0,2022,207
+4.0,4:30,1.0,10.0,MIA 20,14.0,20.0,Austin Ekeler left guard for 12 yards (tackle by Elijah Campbell and Andrew Van Ginkel),4.24,5.37,14.0,2022,207
+4.0,4:17,,,,,,Timeout #2 by Miami Dolphins,,,14.0,2022,207
+4.0,4:17,1.0,8.0,MIA 8,14.0,20.0,Austin Ekeler left guard for 2 yards (tackle by Bradley Chubb and Christian Wilkins),5.37,4.95,14.0,2022,207
+4.0,4:12,,,,,,Timeout #3 by Miami Dolphins,,,14.0,2022,207
+4.0,4:12,2.0,6.0,MIA 6,14.0,20.0,"Justin Herbert aborted snap, recovered by Justin Herbert at MIA-6 Justin Herbert for no gain",4.95,4.04,14.0,2022,207
+4.0,3:23,3.0,6.0,MIA 6,14.0,20.0,Justin Herbert pass complete short left to Austin Ekeler for -4 yards (tackle by Jerome Baker),4.04,2.76,14.0,2022,207
+4.0,2:46,4.0,10.0,MIA 10,14.0,23.0,Cameron Dicker 28 yard field goal good,2.76,3.0,14.0,2022,207
+4.0,2:40,,,LAC 35,14.0,23.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,207
+4.0,2:40,1.0,10.0,MIA 25,14.0,23.0,"Tua Tagovailoa pass incomplete deep right intended for Tyreek Hill. Penalty on Michael Davis: Illegal Contact, 5 yards (accepted) (no play)",0.61,0.94,14.0,2022,207
+4.0,2:34,1.0,10.0,MIA 30,14.0,23.0,Tua Tagovailoa pass complete short middle to Raheem Mostert for 7 yards (tackle by Drue Tranquill),0.94,1.34,14.0,2022,207
+4.0,2:16,2.0,3.0,MIA 37,14.0,23.0,Tua Tagovailoa pass complete short right to Cedrick Wilson for 7 yards (tackle by Michael Davis and Kenneth Murray),1.34,1.86,14.0,2022,207
+4.0,2:00,1.0,10.0,MIA 44,14.0,23.0,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 12 yards (tackle by Kenneth Murray),1.86,2.65,14.0,2022,207
+4.0,1:45,1.0,10.0,LAC 44,14.0,23.0,Tua Tagovailoa pass complete short right to Trent Sherfield for 7 yards (tackle by Michael Davis),2.65,3.06,14.0,2022,207
+4.0,1:18,2.0,3.0,LAC 37,14.0,23.0,Tua Tagovailoa pass incomplete short middle intended for Trent Sherfield (defended by Drue Tranquill),3.06,2.35,14.0,2022,207
+4.0,1:20,3.0,3.0,LAC 37,14.0,23.0,Tua Tagovailoa pass incomplete deep right intended for Jaylen Waddle,2.35,0.79,14.0,2022,207
+4.0,1:15,4.0,3.0,LAC 37,17.0,23.0,Jason Sanders 55 yard field goal good,0.79,3.0,14.0,2022,207
+4.0,1:10,,,MIA 35,17.0,23.0,"Jason Sanders kicks onside 16 yards, returned by Nick Niemann for no gain",0.0,2.19,14.0,2022,207
+4.0,1:07,1.0,10.0,LAC 49,17.0,23.0,Justin Herbert kneels for -1 yards,2.19,1.51,14.0,2022,207
+4.0,0:36,2.0,11.0,LAC 48,17.0,23.0,Justin Herbert kneels for -1 yards,1.51,0.7,14.0,2022,207

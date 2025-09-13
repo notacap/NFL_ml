@@ -1,0 +1,10 @@
+Quarter,Time,Tm,Detail,GNB,CHI,week,year,game_id
+1.0,9:23,Bears,Cairo Santos 40 yard field goal,0,3,13.0,2022,189
+,3:00,Bears,Justin Fields 55 yard rush (Cairo Santos kick),0,10,13.0,2022,189
+2.0,10:22,Packers,Mason Crosby 24 yard field goal,3,10,13.0,2022,189
+,6:09,Bears,David Montgomery 7 yard rush (Cairo Santos kick failed),3,16,13.0,2022,189
+,0:17,Packers,Christian Watson 14 yard pass from Aaron Rodgers (Mason Crosby kick),10,16,13.0,2022,189
+3.0,1:50,Bears,Cairo Santos 28 yard field goal,10,19,13.0,2022,189
+4.0,14:41,Packers,AJ Dillon 21 yard rush (Mason Crosby kick),17,19,13.0,2022,189
+,4:49,Packers,Mason Crosby 32 yard field goal,20,19,13.0,2022,189
+,1:53,Packers,Christian Watson 46 yard rush (Marcedes Lewis pass from Aaron Rodgers),28,19,13.0,2022,189

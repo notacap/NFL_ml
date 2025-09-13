@@ -1,0 +1,180 @@
+Quarter,Time,Down,ToGo,Location,TAM,PIT,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Steelers won the coin toss and deferred, Buccaneers to receive the opening kickoff.",,,6.0,2022,89
+1.0,15:00,,,PIT 35,0.0,0.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,6.0,2022,89
+1.0,15:00,1.0,10.0,TAM 25,0.0,0.0,Leonard Fournette right end for 1 yard (tackle by Myles Jack),0.61,0.2,6.0,2022,89
+1.0,14:17,2.0,9.0,TAM 26,0.0,0.0,Tom Brady pass incomplete short middle intended for Chris Godwin (defended by Alex Highsmith),0.2,-0.49,6.0,2022,89
+1.0,14:14,3.0,9.0,TAM 26,0.0,0.0,Tom Brady pass incomplete deep left intended for Chris Godwin,-0.49,-1.63,6.0,2022,89
+1.0,14:09,4.0,9.0,TAM 26,0.0,0.0,Jake Camarda punts 40 yards out of bounds,-1.63,-1.2,6.0,2022,89
+1.0,14:02,1.0,10.0,PIT 34,0.0,0.0,Kenny Pickett pass complete short right to George Pickens for 8 yards (tackle by Carlton Davis),1.2,1.74,6.0,2022,89
+1.0,13:30,2.0,2.0,PIT 42,0.0,0.0,Kenny Pickett pass complete short middle to Diontae Johnson for 5 yards (tackle by Devin White),1.74,2.06,6.0,2022,89
+1.0,12:52,1.0,10.0,PIT 47,0.0,0.0,Kenny Pickett pass complete short left to Chase Claypool for 14 yards (tackle by Jamel Dean),2.06,2.98,6.0,2022,89
+1.0,12:30,1.0,10.0,TAM 39,0.0,0.0,Najee Harris right end for -4 yards (tackle by Antoine Winfield),2.98,1.9,6.0,2022,89
+1.0,11:50,2.0,14.0,TAM 43,0.0,0.0,Chase Claypool right end for 8 yards (tackle by Lavonte David),1.9,2.28,6.0,2022,89
+1.0,11:14,3.0,6.0,TAM 35,0.0,0.0,"Kenny Pickett pass incomplete deep right intended for George Pickens. Penalty on Devin White: Roughing the Passer, 15 yards (accepted) (no play)",2.28,4.24,6.0,2022,89
+1.0,11:10,1.0,10.0,TAM 20,0.0,0.0,Najee Harris left tackle for 1 yard (tackle by Joe Tryon-Shoyinka and William Gholston),4.24,3.82,6.0,2022,89
+1.0,10:31,2.0,9.0,TAM 19,0.0,0.0,Diontae Johnson left end for 3 yards (tackle by Jamel Dean),3.82,3.52,6.0,2022,89
+1.0,9:53,3.0,6.0,TAM 16,0.0,0.0,"Penalty on Kevin Dotson: False Start, 5 yards (accepted) (no play)",3.52,2.87,6.0,2022,89
+1.0,9:37,3.0,11.0,TAM 21,0.0,0.0,Kenny Pickett scrambles left guard for 10 yards (tackle by Anthony Nelson),2.87,2.85,6.0,2022,89
+1.0,9:11,4.0,1.0,TAM 11,0.0,0.0,Jaylen Warren up the middle for 1 yard (tackle by Devin White and Lavonte David),2.85,4.91,6.0,2022,89
+1.0,8:31,1.0,10.0,TAM 10,0.0,0.0,Kenny Pickett pass complete short right to Diontae Johnson for 4 yards (tackle by Keanu Neal),4.91,4.95,6.0,2022,89
+1.0,7:44,2.0,6.0,TAM 6,0.0,6.0,"Kenny Pickett pass complete short left to Najee Harris for 6 yards, touchdown",4.95,7.0,6.0,2022,89
+1.0,7:38,,,TAM 15,0.0,7.0,Chris Boswell kicks extra point good,0.0,0.0,6.0,2022,89
+1.0,7:38,,,PIT 35,0.0,7.0,"Chris Boswell kicks off 64 yards, returned by Rachaad White for 27 yards (tackle by Jaylen Warren)",0.0,0.81,6.0,2022,89
+1.0,7:32,1.0,10.0,TAM 28,0.0,7.0,Leonard Fournette left tackle for 13 yards (tackle by Terrell Edmunds),0.81,1.66,6.0,2022,89
+1.0,7:02,1.0,10.0,TAM 41,0.0,7.0,Tom Brady pass incomplete short middle,1.66,1.12,6.0,2022,89
+1.0,6:55,2.0,10.0,TAM 41,0.0,7.0,Tom Brady pass complete deep left to Mike Evans for 20 yards (tackle by Josh Jackson),1.12,2.98,6.0,2022,89
+1.0,6:17,1.0,10.0,PIT 39,0.0,7.0,Leonard Fournette left tackle for 7 yards (tackle by Larry Ogunjobi),2.98,3.39,6.0,2022,89
+1.0,5:43,2.0,3.0,PIT 32,0.0,7.0,Leonard Fournette right guard for 1 yard (tackle by Isaiahh Loudermilk),3.39,2.81,6.0,2022,89
+1.0,4:59,,,,,,Timeout #1 by Tampa Bay Buccaneers,,,6.0,2022,89
+1.0,4:59,3.0,2.0,PIT 31,0.0,7.0,Tom Brady pass complete short left to Rachaad White for 3 yards (tackle by Josh Jackson),2.81,3.71,6.0,2022,89
+1.0,4:21,1.0,10.0,PIT 28,0.0,7.0,Tom Brady pass complete short middle to Leonard Fournette for 5 yards (tackle by Devin Bush),3.71,3.84,6.0,2022,89
+1.0,3:44,2.0,5.0,PIT 23,0.0,7.0,Leonard Fournette left tackle for 6 yards (tackle by Montravius Adams and Chris Wormley),3.84,4.44,6.0,2022,89
+1.0,3:05,1.0,10.0,PIT 17,0.0,7.0,Tom Brady pass incomplete deep middle intended for Cameron Brate (defended by Myles Jack),4.44,3.85,6.0,2022,89
+1.0,3:01,2.0,10.0,PIT 17,0.0,7.0,Tom Brady pass incomplete short right intended for Rachaad White,3.85,3.07,6.0,2022,89
+1.0,2:57,3.0,10.0,PIT 17,0.0,7.0,Tom Brady pass incomplete short middle intended for Chris Godwin,3.07,2.31,6.0,2022,89
+1.0,2:54,4.0,10.0,PIT 17,0.0,7.0,"Penalty on Tre Norwood: Neutral Zone Infraction, 5 yards (accepted) (no play)",2.31,2.68,6.0,2022,89
+1.0,2:54,4.0,5.0,PIT 12,3.0,7.0,Ryan Succop 30 yard field goal good,2.68,3.0,6.0,2022,89
+1.0,2:50,,,TAM 35,3.0,7.0,"Jake Camarda kicks off 63 yards, returned by Steven Sims for 11 yards (tackle by Ko Kieft)",0.0,-0.32,6.0,2022,89
+1.0,2:47,1.0,10.0,PIT 13,3.0,7.0,Najee Harris right guard for 3 yards (tackle by Keanu Neal and Lavonte David),-0.32,-0.44,6.0,2022,89
+1.0,2:05,,,,,,Timeout #1 by Pittsburgh Steelers,,,6.0,2022,89
+1.0,2:05,2.0,7.0,PIT 16,3.0,7.0,Kenny Pickett pass incomplete short right intended for Diontae Johnson,-0.44,-1.06,6.0,2022,89
+1.0,2:01,3.0,7.0,PIT 16,3.0,7.0,Kenny Pickett sacked by Antoine Winfield for -12 yards,-1.06,-2.49,6.0,2022,89
+1.0,1:35,4.0,19.0,PIT 4,3.0,7.0,"Pressley Harvin punts 52 yards, returned by Jaelon Darden for 2 yards (tackle by Miles Boykin)",-2.49,-1.99,6.0,2022,89
+1.0,1:25,1.0,10.0,TAM 46,3.0,7.0,Tom Brady pass incomplete short right intended for Chris Godwin,1.99,1.45,6.0,2022,89
+1.0,1:19,2.0,10.0,TAM 46,3.0,7.0,"Penalty on Luke Goedeke: False Start, 5 yards (accepted) (no play)",1.45,0.78,6.0,2022,89
+1.0,1:19,2.0,15.0,TAM 41,3.0,7.0,Tom Brady pass complete deep middle to Chris Godwin for 22 yards (tackle by Tre Norwood),0.78,3.12,6.0,2022,89
+1.0,0:43,1.0,10.0,PIT 37,3.0,7.0,Rachaad White right guard for 8 yards (tackle by Tre Norwood),3.12,3.65,6.0,2022,89
+1.0,0:14,2.0,2.0,PIT 29,3.0,7.0,Leonard Fournette right guard for 4 yards (tackle by Robert Spillane and Isaiahh Loudermilk),3.65,3.91,6.0,2022,89
+2.0,15:00,1.0,10.0,PIT 25,3.0,7.0,Tom Brady pass complete short middle to Mike Evans for 10 yards (tackle by Robert Spillane and Terrell Edmunds),3.91,4.58,6.0,2022,89
+2.0,14:25,1.0,10.0,PIT 15,3.0,7.0,Leonard Fournette left guard for 1 yard (tackle by Devin Bush),4.58,4.11,6.0,2022,89
+2.0,13:45,2.0,9.0,PIT 14,3.0,7.0,Tom Brady pass complete short middle to Russell Gage for 11 yards (tackle by James Pierre),4.11,6.51,6.0,2022,89
+2.0,13:06,1.0,3.0,PIT 3,3.0,7.0,Leonard Fournette up the middle for 2 yards (tackle by Cameron Heyward),6.51,5.91,6.0,2022,89
+2.0,12:28,2.0,1.0,PIT 1,3.0,7.0,Leonard Fournette left guard for -3 yards (tackle by Larry Ogunjobi and Terrell Edmunds),5.91,4.49,6.0,2022,89
+2.0,11:49,3.0,4.0,PIT 4,3.0,7.0,Tom Brady sacked by Cameron Heyward for -5 yards,4.49,2.83,6.0,2022,89
+2.0,11:04,4.0,9.0,PIT 9,6.0,7.0,Ryan Succop 27 yard field goal good,2.83,3.0,6.0,2022,89
+2.0,11:01,,,TAM 35,6.0,7.0,"Jake Camarda kicks off 58 yards, returned by Steven Sims for 12 yards (tackle by Ko Kieft)",0.0,0.15,6.0,2022,89
+2.0,10:58,1.0,10.0,PIT 19,6.0,7.0,Kenny Pickett scrambles right guard for 6 yards (tackle by Antoine Winfield),0.15,0.48,6.0,2022,89
+2.0,10:18,2.0,4.0,PIT 25,6.0,7.0,Najee Harris right tackle for 14 yards (tackle by Devin White and Keanu Neal),0.48,1.53,6.0,2022,89
+2.0,9:53,1.0,10.0,PIT 39,6.0,7.0,George Pickens left end for 1 yard (tackle by Dee Delaney),1.53,1.12,6.0,2022,89
+2.0,9:18,2.0,9.0,PIT 40,6.0,7.0,Diontae Johnson left end for 5 yards (tackle by Joe Tryon-Shoyinka and Devin White),1.12,1.09,6.0,2022,89
+2.0,8:41,3.0,4.0,PIT 45,6.0,7.0,Kenny Pickett pass complete short left to Chase Claypool for 6 yards (tackle by Jamel Dean),1.09,2.32,6.0,2022,89
+2.0,8:06,1.0,10.0,TAM 49,6.0,7.0,Najee Harris left tackle for 3 yards (tackle by Rakeem Nunez-Roches and Anthony Nelson),2.32,2.19,6.0,2022,89
+2.0,7:21,2.0,7.0,TAM 46,6.0,7.0,Kenny Pickett pass complete short left to Najee Harris for 1 yard (tackle by Lavonte David and Rakeem Nunez-Roches),2.19,1.62,6.0,2022,89
+2.0,6:41,3.0,6.0,TAM 45,6.0,7.0,Kenny Pickett pass complete short left to Diontae Johnson for 9 yards (tackle by Jamel Dean),1.62,3.18,6.0,2022,89
+2.0,6:03,1.0,10.0,TAM 36,6.0,7.0,"Jaylen Warren for no gain. Penalty on Kevin Dotson: Offensive Holding, 10 yards (accepted) (no play)",3.18,2.52,6.0,2022,89
+2.0,5:36,1.0,20.0,TAM 46,6.0,7.0,Kenny Pickett pass incomplete short left intended for George Pickens,2.52,1.29,6.0,2022,89
+2.0,5:34,2.0,20.0,TAM 46,6.0,7.0,Kenny Pickett pass complete short right to Diontae Johnson for 5 yards (tackle by Carlton Davis),1.29,1.29,6.0,2022,89
+2.0,4:57,3.0,15.0,TAM 41,6.0,7.0,Kenny Pickett pass complete short left to Zach Gentry for 4 yards (tackle by Lavonte David),1.29,0.79,6.0,2022,89
+2.0,4:12,,,,,,Timeout #2 by Pittsburgh Steelers,,,6.0,2022,89
+2.0,4:12,4.0,11.0,TAM 37,6.0,10.0,Chris Boswell 55 yard field goal good,0.79,3.0,6.0,2022,89
+2.0,4:07,,,PIT 35,6.0,10.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,6.0,2022,89
+2.0,4:07,1.0,10.0,TAM 25,6.0,10.0,Rachaad White up the middle for no gain (tackle by Larry Ogunjobi and Terrell Edmunds),0.61,0.06,6.0,2022,89
+2.0,3:36,2.0,10.0,TAM 25,6.0,10.0,Tom Brady pass complete short right to Mike Evans for 8 yards (tackle by James Pierre),0.06,0.43,6.0,2022,89
+2.0,2:57,3.0,2.0,TAM 33,6.0,10.0,Tom Brady pass incomplete short middle intended for Chris Godwin,0.43,-1.18,6.0,2022,89
+2.0,2:52,4.0,2.0,TAM 33,6.0,10.0,"Jake Camarda punts 47 yards, returned by Steven Sims for 6 yards (tackle by Scott Miller)",-1.18,-0.67,6.0,2022,89
+2.0,2:42,1.0,10.0,PIT 26,6.0,10.0,Najee Harris left guard for 2 yards (tackle by Shaquil Barrett),0.67,0.4,6.0,2022,89
+2.0,2:24,2.0,8.0,PIT 28,6.0,10.0,Kenny Pickett pass incomplete short left,0.4,-0.3,6.0,2022,89
+2.0,2:17,3.0,8.0,PIT 28,6.0,10.0,Kenny Pickett pass incomplete short right intended for George Pickens,-0.3,-1.5,6.0,2022,89
+2.0,2:12,4.0,8.0,PIT 28,6.0,10.0,"Pressley Harvin punts 53 yards, returned by Jaelon Darden for 6 yards (tackle by Marcus Allen and Miles Killebrew)",-1.5,-0.61,6.0,2022,89
+2.0,2:02,1.0,10.0,TAM 25,6.0,10.0,Tom Brady pass complete short right to Cameron Brate for 8 yards (tackle by Myles Jack),0.61,1.14,6.0,2022,89
+2.0,1:58,2.0,2.0,TAM 33,6.0,10.0,Leonard Fournette left guard for 2 yards (tackle by Larry Ogunjobi),1.14,1.27,6.0,2022,89
+2.0,1:42,1.0,10.0,TAM 35,6.0,10.0,"Tom Brady sacked by Alex Highsmith for -9 yards. Tom Brady fumbles (forced by Alex Highsmith), recovered by Chris Godwin at TB-26 (tackle by Alex Highsmith)",1.27,-0.49,6.0,2022,89
+2.0,1:22,2.0,19.0,TAM 26,6.0,10.0,Tom Brady pass complete short left to Leonard Fournette for 8 yards (tackle by Myles Jack and Arthur Maulet),-0.49,-0.1,6.0,2022,89
+2.0,0:58,3.0,11.0,TAM 34,6.0,10.0,Tom Brady pass incomplete deep middle intended for Breshad Perriman,-0.1,-1.11,6.0,2022,89
+2.0,0:54,4.0,11.0,TAM 34,6.0,10.0,"Jake Camarda punts 52 yards, fair catch by Steven Sims at PIT-14",-1.11,0.28,6.0,2022,89
+2.0,0:46,1.0,10.0,PIT 14,6.0,10.0,Kenny Pickett pass incomplete short left,-0.28,-0.75,6.0,2022,89
+2.0,0:40,2.0,10.0,PIT 14,6.0,10.0,Najee Harris right end for no gain (tackle by Devin White and Vita Vea),-0.75,-1.4,6.0,2022,89
+2.0,0:34,,,,,,Timeout #2 by Tampa Bay Buccaneers,,,6.0,2022,89
+2.0,0:34,3.0,10.0,PIT 14,6.0,10.0,Najee Harris left tackle for 1 yard (tackle by Keanu Neal),-1.4,-2.44,6.0,2022,89
+2.0,0:32,,,,,,Timeout #3 by Tampa Bay Buccaneers,,,6.0,2022,89
+2.0,0:32,4.0,9.0,PIT 15,6.0,10.0,"Pressley Harvin punts 42 yards, returned by Jaelon Darden for 6 yards (tackle by Gunner Olszewski)",-2.44,-2.19,6.0,2022,89
+2.0,0:23,1.0,10.0,TAM 49,6.0,10.0,Tom Brady pass complete short middle to Chris Godwin for 15 yards (tackle by Tre Norwood),2.19,2.85,6.0,2022,89
+2.0,0:11,1.0,10.0,PIT 41,6.0,10.0,Tom Brady spiked the ball,2.85,2.64,6.0,2022,89
+2.0,0:10,2.0,10.0,PIT 36,6.0,10.0,Tom Brady pass incomplete deep left,2.64,1.95,6.0,2022,89
+2.0,0:04,3.0,10.0,PIT 36,9.0,10.0,Ryan Succop 54 yard field goal good,1.95,3.0,6.0,2022,89
+3.0,15:00,,,TAM 35,9.0,10.0,"Jake Camarda kicks off 66 yards, returned by Steven Sims for 89 yards (tackle by Jamel Dean)",0.0,4.78,6.0,2022,89
+3.0,14:48,1.0,10.0,TAM 12,9.0,10.0,Kenny Pickett pass complete short left to Diontae Johnson for 5 yards (tackle by Dee Delaney),4.78,5.02,6.0,2022,89
+3.0,14:07,2.0,5.0,TAM 7,9.0,10.0,Kenny Pickett pass incomplete short right,5.02,4.16,6.0,2022,89
+3.0,14:03,3.0,5.0,TAM 7,9.0,10.0,Kenny Pickett pass incomplete short right intended for George Pickens,4.16,2.98,6.0,2022,89
+3.0,13:58,4.0,5.0,TAM 7,9.0,13.0,Chris Boswell 25 yard field goal good,2.98,3.0,6.0,2022,89
+3.0,13:55,,,PIT 35,9.0,13.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,6.0,2022,89
+3.0,13:55,1.0,10.0,TAM 25,9.0,13.0,Leonard Fournette right guard for no gain (tackle by Arthur Maulet),0.61,0.06,6.0,2022,89
+3.0,13:19,2.0,10.0,TAM 25,9.0,13.0,Tom Brady pass complete short middle to Chris Godwin for 9 yards (tackle by Robert Spillane),0.06,0.56,6.0,2022,89
+3.0,12:46,3.0,1.0,TAM 34,9.0,13.0,Leonard Fournette right guard for 5 yards (tackle by Malik Reed),0.56,1.53,6.0,2022,89
+3.0,12:13,1.0,10.0,TAM 39,9.0,13.0,Leonard Fournette right end for 3 yards (tackle by Devin Bush),1.53,1.39,6.0,2022,89
+3.0,11:35,2.0,7.0,TAM 42,9.0,13.0,Tom Brady pass complete deep middle to Chris Godwin for 28 yards (tackle by Terrell Edmunds),1.39,3.58,6.0,2022,89
+3.0,11:02,1.0,10.0,PIT 30,9.0,13.0,"Leonard Fournette up the middle for 2 yards (tackle by Myles Jack). Penalty on Tyson Alualu: Defensive Holding, 5 yards (accepted)",3.58,4.04,6.0,2022,89
+3.0,10:44,1.0,10.0,PIT 23,9.0,13.0,Leonard Fournette left tackle for 8 yards (tackle by Robert Spillane and Myles Jack),4.04,4.75,6.0,2022,89
+3.0,10:01,2.0,2.0,PIT 15,9.0,13.0,Tom Brady pass incomplete short left intended for Cade Otton (defended by Robert Spillane),4.75,4.05,6.0,2022,89
+3.0,10:00,3.0,2.0,PIT 15,9.0,13.0,Leonard Fournette right guard for 2 yards (tackle by Malik Reed),4.05,4.71,6.0,2022,89
+3.0,9:34,1.0,10.0,PIT 13,9.0,13.0,"Penalty on Brandon Walton: False Start, 5 yards (accepted) (no play)",4.71,4.29,6.0,2022,89
+3.0,9:10,1.0,15.0,PIT 18,9.0,13.0,Tom Brady pass complete short left to Russell Gage for 9 yards (tackle by Josh Jackson),4.29,4.77,6.0,2022,89
+3.0,8:29,2.0,6.0,PIT 9,9.0,13.0,"Tom Brady pass incomplete short right. Penalty on James Pierre: Defensive Holding, 5 yards (accepted) (no play)",4.77,6.28,6.0,2022,89
+3.0,8:17,1.0,4.0,PIT 4,9.0,13.0,"Tom Brady pass incomplete. Penalty on Tristan Wirfs: Ineligible Downfield Pass, 5 yards (accepted) (no play)",6.28,5.14,6.0,2022,89
+3.0,8:17,1.0,9.0,PIT 9,9.0,13.0,Leonard Fournette left tackle for -2 yards (tackle by Terrell Edmunds),5.14,4.02,6.0,2022,89
+3.0,7:38,2.0,11.0,PIT 11,9.0,13.0,Tom Brady pass incomplete short right intended for Russell Gage,4.02,3.12,6.0,2022,89
+3.0,7:31,3.0,11.0,PIT 11,9.0,13.0,Tom Brady pass incomplete short middle intended for Russell Gage,3.12,2.7,6.0,2022,89
+3.0,7:26,4.0,11.0,PIT 11,9.0,13.0,"Penalty on James Pierre: Neutral Zone Infraction, 5 yards (accepted) (no play)",2.7,2.99,6.0,2022,89
+3.0,7:26,4.0,6.0,PIT 6,12.0,13.0,Ryan Succop 24 yard field goal good,2.99,3.0,6.0,2022,89
+3.0,7:24,,,TAM 35,12.0,13.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,6.0,2022,89
+3.0,7:24,1.0,10.0,PIT 25,12.0,13.0,"Kenny Pickett pass complete deep right to Diontae Johnson for no gain (tackle by Carlton Davis). Penalty on Kevin Dotson: Offensive Holding, 10 yards (accepted) (no play)",0.61,-0.41,6.0,2022,89
+3.0,7:01,1.0,20.0,PIT 15,12.0,13.0,Mitchell Trubisky pass incomplete short middle intended for Najee Harris (defended by Devin White),-0.41,-1.43,6.0,2022,89
+3.0,6:55,2.0,20.0,PIT 15,12.0,13.0,Mitchell Trubisky pass complete short left to George Pickens for 5 yards (tackle by Jamel Dean),-1.43,-1.29,6.0,2022,89
+3.0,6:17,3.0,15.0,PIT 20,12.0,13.0,Mitchell Trubisky pass complete short middle to Chase Claypool for 16 yards (tackle by Lavonte David),-1.29,1.33,6.0,2022,89
+3.0,5:37,1.0,10.0,PIT 36,12.0,13.0,Jaylen Warren up the middle for 1 yard (tackle by Dee Delaney),1.33,0.93,6.0,2022,89
+3.0,4:56,2.0,9.0,PIT 37,12.0,13.0,Mitchell Trubisky pass complete short left to Connor Heyward for 4 yards (tackle by Lavonte David),0.93,0.76,6.0,2022,89
+3.0,4:29,3.0,5.0,PIT 41,12.0,13.0,Mitchell Trubisky pass incomplete short right intended for Diontae Johnson (defended by Carlton Davis),0.76,-0.65,6.0,2022,89
+3.0,4:25,4.0,5.0,PIT 41,12.0,13.0,Pressley Harvin punts 44 yards,-0.65,0.22,6.0,2022,89
+3.0,4:14,1.0,10.0,TAM 15,12.0,13.0,"Rachaad White left tackle for no gain (tackle by Josh Jackson and Arthur Maulet). Penalty on Ko Kieft: Offensive Holding, 7 yards (accepted) (no play)",-0.22,-0.65,6.0,2022,89
+3.0,3:59,1.0,17.0,TAM 8,12.0,13.0,Rachaad White right guard for 4 yards (tackle by Malik Reed and Devin Bush),-0.65,-1.0,6.0,2022,89
+3.0,3:22,2.0,13.0,TAM 12,12.0,13.0,Tom Brady pass complete short middle to Cameron Brate for 6 yards (tackle by Myles Jack),-1.0,-1.0,6.0,2022,89
+3.0,3:00,3.0,7.0,TAM 18,12.0,13.0,Tom Brady pass complete to Rachaad White for 6 yards (tackle by Myles Jack),-1.0,-1.77,6.0,2022,89
+3.0,2:21,4.0,1.0,TAM 24,12.0,13.0,"Jake Camarda punts 52 yards, returned by Steven Sims for 24 yards (tackle by Genard Avery and Rachaad White)",-1.77,-2.13,6.0,2022,89
+3.0,2:07,1.0,10.0,PIT 48,12.0,13.0,Mitchell Trubisky sacked by Carl Nassib for -6 yards,2.13,0.77,6.0,2022,89
+3.0,1:24,2.0,16.0,PIT 42,12.0,13.0,Mitchell Trubisky pass complete short middle to Chase Claypool for 11 yards (tackle by Devin White and Lavonte David),0.77,1.55,6.0,2022,89
+3.0,0:43,3.0,5.0,TAM 47,12.0,13.0,Mitchell Trubisky pass incomplete short left intended for Connor Heyward (defended by Carl Nassib),1.55,0.13,6.0,2022,89
+3.0,0:38,4.0,5.0,TAM 47,12.0,13.0,Pressley Harvin punts 30 yards out of bounds,0.13,0.06,6.0,2022,89
+3.0,0:30,1.0,10.0,TAM 17,12.0,13.0,Leonard Fournette left end for 3 yards (tackle by Terrell Edmunds),-0.06,-0.06,6.0,2022,89
+4.0,15:00,2.0,7.0,TAM 20,12.0,13.0,Tom Brady pass complete short middle to Cade Otton for 6 yards (tackle by Myles Jack),-0.06,-0.12,6.0,2022,89
+4.0,14:27,,,,,,Timeout #1 by Pittsburgh Steelers,,,6.0,2022,89
+4.0,14:27,3.0,1.0,TAM 26,12.0,13.0,Leonard Fournette left tackle for -1 yards (tackle by Chris Wormley and Terrell Edmunds),-0.12,-1.7,6.0,2022,89
+4.0,13:49,4.0,2.0,TAM 25,12.0,13.0,"Jake Camarda punts 39 yards, returned by Steven Sims for -7 yards (tackle by Cade Otton and Zyon McCollum)",-1.7,-0.87,6.0,2022,89
+4.0,13:38,1.0,10.0,PIT 29,12.0,13.0,Najee Harris right end for 2 yards (tackle by Lavonte David and Dee Delaney),0.87,0.6,6.0,2022,89
+4.0,12:58,2.0,8.0,PIT 31,12.0,13.0,Steven Sims left end for -5 yards (tackle by Joe Tryon-Shoyinka),0.6,-0.76,6.0,2022,89
+4.0,12:16,3.0,13.0,PIT 26,12.0,13.0,Mitchell Trubisky pass complete short right to George Pickens for 14 yards (tackle by Carlton Davis),-0.76,1.6,6.0,2022,89
+4.0,11:42,1.0,10.0,PIT 40,12.0,13.0,Najee Harris up the middle for 5 yards (tackle by Vita Vea and Shaquil Barrett),1.6,1.73,6.0,2022,89
+4.0,11:21,2.0,5.0,PIT 45,12.0,13.0,Najee Harris up the middle for -1 yards (tackle by Lavonte David and William Gholston),1.73,0.89,6.0,2022,89
+4.0,10:59,3.0,6.0,PIT 44,12.0,13.0,"Mitchell Trubisky pass complete short middle to Connor Heyward for 45 yards (tackle by Lavonte David). Penalty on Vita Vea: Defensive Too Many Men on Field, 5 yards (declined) . Penalty on Vita Vea: Defensive Offside, 5 yards (declined)",0.89,4.84,6.0,2022,89
+4.0,10:43,1.0,10.0,TAM 11,12.0,13.0,Najee Harris left guard for 5 yards (tackle by Devin White and Lavonte David),4.84,5.08,6.0,2022,89
+4.0,9:59,2.0,5.0,TAM 6,12.0,19.0,"Mitchell Trubisky pass complete short right to Chase Claypool for 6 yards, touchdown",5.08,7.0,6.0,2022,89
+4.0,9:55,,,TAM 15,12.0,20.0,Chris Boswell kicks extra point good,0.0,0.0,6.0,2022,89
+4.0,9:55,,,PIT 35,12.0,20.0,"Chris Boswell kicks off 65 yards, returned by Rachaad White for 27 yards (tackle by Derek Watt)",0.0,0.74,6.0,2022,89
+4.0,9:48,1.0,10.0,TAM 27,12.0,20.0,Tom Brady pass complete short right to Leonard Fournette for 1 yard (tackle by Terrell Edmunds and Malik Reed),0.74,0.33,6.0,2022,89
+4.0,9:23,2.0,9.0,TAM 28,12.0,20.0,Tom Brady pass complete short middle to Chris Godwin for 11 yards (tackle by Robert Spillane),0.33,1.53,6.0,2022,89
+4.0,8:54,1.0,10.0,TAM 39,12.0,20.0,Leonard Fournette right guard for 2 yards (tackle by Chris Wormley and Cameron Heyward),1.53,1.26,6.0,2022,89
+4.0,8:35,2.0,8.0,TAM 41,12.0,20.0,Tom Brady pass complete to Mike Evans for 4 yards (tackle by Josh Jackson),1.26,1.09,6.0,2022,89
+4.0,8:12,3.0,4.0,TAM 45,12.0,20.0,Tom Brady pass complete deep middle to Cade Otton for 17 yards (tackle by Terrell Edmunds),1.09,3.05,6.0,2022,89
+4.0,7:50,1.0,10.0,PIT 38,12.0,20.0,"Tom Brady pass complete short left to Leonard Fournette for 9 yards (tackle by Devin Bush). Penalty on Malik Reed: Defensive Too Many Men on Field, 5 yards (declined) . Penalty on Malik Reed: Defensive Offside, 5 yards (declined)",3.05,3.72,6.0,2022,89
+4.0,7:38,2.0,1.0,PIT 29,12.0,20.0,Rachaad White up the middle for no gain (tackle by Arthur Maulet),3.72,3.01,6.0,2022,89
+4.0,7:07,3.0,1.0,PIT 29,12.0,20.0,Tom Brady up the middle for no gain (tackle by Tyson Alualu and Devin Bush),3.01,1.62,6.0,2022,89
+4.0,6:25,4.0,1.0,PIT 29,12.0,20.0,Leonard Fournette right end for 7 yards (tackle by Tre Norwood),1.62,4.11,6.0,2022,89
+4.0,5:59,1.0,10.0,PIT 22,12.0,20.0,"Penalty on Cade Otton: False Start, 5 yards (accepted) (no play)",4.11,3.78,6.0,2022,89
+4.0,5:59,1.0,15.0,PIT 27,12.0,20.0,Tom Brady pass complete short right to Leonard Fournette for 4 yards (tackle by Malik Reed and James Pierre),3.78,3.43,6.0,2022,89
+4.0,5:37,2.0,11.0,PIT 23,12.0,20.0,Tom Brady pass incomplete short right intended for Chris Godwin (defended by Malik Reed),3.43,2.74,6.0,2022,89
+4.0,5:34,3.0,11.0,PIT 23,12.0,20.0,Tom Brady pass complete short middle to Chris Godwin for 10 yards (tackle by Tre Norwood),2.74,2.72,6.0,2022,89
+4.0,5:09,4.0,1.0,PIT 13,12.0,20.0,Tom Brady pass complete short left to Rachaad White for 2 yards (tackle by Elijah Riley),2.72,4.84,6.0,2022,89
+4.0,4:45,1.0,10.0,PIT 11,18.0,20.0,"Tom Brady pass complete short right to Leonard Fournette for 11 yards, touchdown",4.84,7.0,6.0,2022,89
+4.0,4:38,,,PIT 2,18.0,20.0,Two Point Attempt: Tom Brady pass incomplete intended for intended for Chris Godwin,1.0,-1.0,6.0,2022,89
+4.0,4:38,,,TAM 35,18.0,20.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,6.0,2022,89
+4.0,4:38,1.0,10.0,PIT 25,18.0,20.0,Najee Harris right tackle for 8 yards (tackle by Carlton Davis and Shaquil Barrett),0.61,1.14,6.0,2022,89
+4.0,3:51,2.0,2.0,PIT 33,18.0,20.0,"Mason Cole aborted snap, recovered by Mitchell Trubisky at PIT-20",1.14,-1.29,6.0,2022,89
+4.0,3:07,3.0,15.0,PIT 20,18.0,20.0,Mitchell Trubisky pass complete short middle to Chase Claypool for 17 yards (tackle by Antoine Winfield),-1.29,1.4,6.0,2022,89
+4.0,2:27,1.0,10.0,PIT 37,18.0,20.0,Najee Harris right end for 3 yards (tackle by Shaquil Barrett and Deadrin Senat),1.4,1.26,6.0,2022,89
+4.0,2:20,,,,,,Timeout #1 by Tampa Bay Buccaneers,,,6.0,2022,89
+4.0,2:20,2.0,7.0,PIT 40,18.0,20.0,Mitchell Trubisky left guard for -4 yards (tackle by Dee Delaney),1.26,0.04,6.0,2022,89
+4.0,2:15,,,,,,Timeout #2 by Tampa Bay Buccaneers,,,6.0,2022,89
+4.0,2:15,3.0,11.0,PIT 36,18.0,20.0,Mitchell Trubisky pass complete deep left to Chase Claypool for 26 yards,0.04,3.05,6.0,2022,89
+4.0,2:07,1.0,10.0,TAM 38,18.0,20.0,Mitchell Trubisky right end for 9 yards (tackle by Antoine Winfield),3.05,3.72,6.0,2022,89
+4.0,2:00,2.0,1.0,TAM 29,18.0,20.0,Mitchell Trubisky up the middle for 3 yards (tackle by Devin White),3.72,3.84,6.0,2022,89
+4.0,1:16,1.0,10.0,TAM 26,18.0,20.0,Mitchell Trubisky kneels for -1 yards,3.84,3.16,6.0,2022,89
+4.0,0:38,2.0,11.0,TAM 27,18.0,20.0,Mitchell Trubisky kneels for -2 yards,3.16,2.21,6.0,2022,89

@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,LVR 20,12,7:45,27,Punt,1,Raiders,14.0,2023,202
+2,1,5:49,LVR 34,7,3:42,17,Punt,1,Raiders,14.0,2023,202
+3,2,13:45,LVR 27,3,1:53,-5,Punt,1,Raiders,14.0,2023,202
+4,2,5:32,LVR 39,3,1:34,9,Punt,1,Raiders,14.0,2023,202
+5,2,1:02,LVR 10,6,1:02,26,End of Half,1,Raiders,14.0,2023,202
+6,3,12:19,LVR 48,5,3:10,34,Fumble,1,Raiders,14.0,2023,202
+7,3,4:29,LVR 16,6,3:38,17,Punt,1,Raiders,14.0,2023,202
+8,4,13:14,LVR 11,3,1:04,6,Punt,1,Raiders,14.0,2023,202
+9,4,11:23,LVR 31,3,2:13,4,Punt,1,Raiders,14.0,2023,202
+10,4,6:55,LVR 13,3,1:36,6,Punt,1,Raiders,14.0,2023,202
+11,4,1:57,LVR 25,1,0:05,0,Interception,1,Raiders,14.0,2023,202
+12,4,0:07,LVR 31,1,0:07,29,Fumble,1,Raiders,14.0,2023,202

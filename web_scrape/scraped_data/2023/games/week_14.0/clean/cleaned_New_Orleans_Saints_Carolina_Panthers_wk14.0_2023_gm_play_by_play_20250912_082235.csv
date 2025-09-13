@@ -1,0 +1,165 @@
+Quarter,Time,Down,ToGo,Location,CAR,NOR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Saints won the coin toss and deferred, Panthers to receive the opening kickoff.",,,14.0,2023,196
+1.0,15:00,,,NOR 35,0.0,0.0,"Blake Grupe kicks off 63 yards, returned by Raheem Blackshear for 13 yards (tackle by J.T. Gray)",0.0,-0.22,14.0,2023,196
+1.0,14:57,1.0,10.0,CAR 15,0.0,0.0,Chuba Hubbard left guard for 3 yards (tackle by Carl Granderson and Khalen Saunders),-0.22,-0.28,14.0,2023,196
+1.0,14:22,2.0,7.0,CAR 18,0.0,0.0,Bryce Young pass incomplete deep left intended for Jonathan Mingo,-0.28,-1.0,14.0,2023,196
+1.0,14:16,3.0,7.0,CAR 18,0.0,0.0,Bryce Young pass incomplete deep left intended for Stephen Sullivan,-1.0,-2.24,14.0,2023,196
+1.0,14:11,4.0,7.0,CAR 18,0.0,0.0,"Johnny Hekker punts 49 yards, returned by Lynn Bowden for 11 yards (tackle by Amare Barno)",-2.24,-1.86,14.0,2023,196
+1.0,14:01,1.0,10.0,NOR 44,0.0,0.0,Alvin Kamara right tackle for 8 yards (tackle by Shy Tuttle and Jeremy Chinn),1.86,2.4,14.0,2023,196
+1.0,13:22,2.0,2.0,CAR 48,0.0,0.0,Derek Carr pass complete short left to Juwan Johnson for 3 yards (tackle by Xavier Woods),2.4,2.59,14.0,2023,196
+1.0,13:01,1.0,10.0,CAR 45,0.0,0.0,Derek Carr pass complete short right to Foster Moreau for 1 yard (tackle by Xavier Woods),2.59,2.18,14.0,2023,196
+1.0,12:27,2.0,9.0,CAR 44,0.0,0.0,Alvin Kamara left guard for 8 yards (tackle by Jaycee Horn),2.18,2.54,14.0,2023,196
+1.0,11:46,3.0,1.0,CAR 36,0.0,0.0,Derek Carr pass complete short right to Chris Olave for 8 yards (tackle by Xavier Woods),2.54,3.71,14.0,2023,196
+1.0,11:16,1.0,10.0,CAR 28,0.0,0.0,Jamaal Williams right tackle for 6 yards (tackle by Derrick Brown),3.71,3.98,14.0,2023,196
+1.0,10:37,2.0,4.0,CAR 22,0.0,0.0,Jamaal Williams right tackle for 11 yards (tackle by Vonn Bell and Jeremy Chinn),3.98,4.84,14.0,2023,196
+1.0,9:56,1.0,10.0,CAR 11,0.0,0.0,Jamaal Williams right tackle for no gain (tackle by Jaycee Horn and Nick Thurman),4.84,4.14,14.0,2023,196
+1.0,9:19,2.0,10.0,CAR 11,0.0,0.0,Derek Carr pass incomplete short right,4.14,3.13,14.0,2023,196
+1.0,9:13,3.0,10.0,CAR 11,0.0,0.0,Derek Carr pass incomplete short right,3.13,2.7,14.0,2023,196
+1.0,9:07,4.0,10.0,CAR 11,0.0,0.0,Blake Grupe 29 yard field goal no good,2.7,-0.28,14.0,2023,196
+1.0,9:04,1.0,10.0,CAR 20,0.0,0.0,Chuba Hubbard right guard for 1 yard (tackle by Khalen Saunders),0.28,-0.13,14.0,2023,196
+1.0,8:27,2.0,9.0,CAR 21,0.0,0.0,Chuba Hubbard right tackle for 8 yards (tackle by Nathan Shepherd),-0.13,0.23,14.0,2023,196
+1.0,8:01,3.0,1.0,CAR 29,0.0,0.0,Chuba Hubbard right guard for 2 yards (tackle by Cameron Jordan),0.23,1.0,14.0,2023,196
+1.0,7:19,1.0,10.0,CAR 31,0.0,0.0,Bryce Young pass complete short left to DJ Chark for 18 yards (tackle by Jordan Howden),1.0,2.19,14.0,2023,196
+1.0,6:35,1.0,10.0,CAR 49,0.0,0.0,"Bryce Young sacked by Jordan Howden for -12 yards. Bryce Young fumbles (forced by Jordan Howden), recovered by Pete Werner at CAR-37 and returned for 1 yard (tackle by Jordan Howden)",2.19,-3.18,14.0,2023,196
+1.0,6:22,1.0,10.0,CAR 36,0.0,0.0,Alvin Kamara left tackle for 2 yards (tackle by Derrick Brown),3.18,2.91,14.0,2023,196
+1.0,5:43,2.0,8.0,CAR 34,0.0,0.0,Derek Carr pass complete short right to Alvin Kamara for 5 yards (tackle by Troy Hill),2.91,2.87,14.0,2023,196
+1.0,5:01,3.0,3.0,CAR 29,0.0,0.0,"Derek Carr pass incomplete short right. Penalty on Derek Carr: Intentional Grounding, 10 yards (accepted)",2.87,0.66,14.0,2023,196
+1.0,4:55,4.0,13.0,CAR 39,0.0,0.0,Lou Hedley punts 27 yards downed by Ty Summers,0.66,0.35,14.0,2023,196
+1.0,4:45,1.0,10.0,CAR 12,0.0,0.0,Miles Sanders left guard for 3 yards (tackle by Tyrann Mathieu and Isaac Yiadom),-0.35,-0.5,14.0,2023,196
+1.0,4:02,2.0,7.0,CAR 15,0.0,0.0,Raheem Blackshear left tackle for 4 yards (tackle by Tyrann Mathieu),-0.5,-0.6,14.0,2023,196
+1.0,3:23,3.0,3.0,CAR 19,0.0,0.0,Bryce Young pass incomplete deep right intended for Adam Thielen (defended by Isaac Yiadom),-0.6,-2.14,14.0,2023,196
+1.0,3:16,4.0,3.0,CAR 19,0.0,0.0,"Johnny Hekker punts 37 yards, returned by Lynn Bowden for 12 yards (tackle by J.J. Jansen and Alex Cook)",-2.14,-2.65,14.0,2023,196
+1.0,3:07,1.0,10.0,CAR 44,0.0,0.0,Derek Carr pass complete short left to Chris Olave for 7 yards (tackle by Vonn Bell),2.65,3.06,14.0,2023,196
+1.0,2:37,2.0,3.0,CAR 37,0.0,0.0,Alvin Kamara right tackle for 7 yards (tackle by Marquis Haynes),3.06,3.58,14.0,2023,196
+1.0,1:59,1.0,10.0,CAR 30,0.0,0.0,Alvin Kamara right guard for 7 yards (tackle by Vonn Bell and Jeremy Chinn),3.58,3.98,14.0,2023,196
+1.0,1:17,2.0,3.0,CAR 23,0.0,0.0,Jamaal Williams right end for 12 yards (tackle by Xavier Woods and Vonn Bell),3.98,4.84,14.0,2023,196
+1.0,0:42,1.0,10.0,CAR 11,0.0,0.0,Alvin Kamara right tackle for 2 yards (tackle by Derrick Brown),4.84,4.51,14.0,2023,196
+2.0,15:00,2.0,8.0,CAR 9,0.0,6.0,"Alvin Kamara left tackle for 9 yards, touchdown",4.51,7.0,14.0,2023,196
+2.0,14:55,,,CAR 15,0.0,7.0,Blake Grupe kicks extra point good,0.0,0.0,14.0,2023,196
+2.0,14:55,,,NOR 35,0.0,7.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.61,14.0,2023,196
+2.0,14:55,1.0,10.0,CAR 25,0.0,7.0,Chuba Hubbard left guard for 1 yard (tackle by Cameron Jordan and Tyrann Mathieu),0.61,0.2,14.0,2023,196
+2.0,14:13,2.0,9.0,CAR 26,0.0,7.0,Chuba Hubbard right tackle for 10 yards (tackle by Jordan Howden),0.2,1.33,14.0,2023,196
+2.0,13:35,1.0,10.0,CAR 36,0.0,7.0,Chuba Hubbard left tackle for 7 yards (tackle by Nathan Shepherd and Jordan Howden),1.33,1.74,14.0,2023,196
+2.0,13:05,2.0,3.0,CAR 43,0.0,7.0,Miles Sanders left tackle for 2 yards (tackle by Pete Werner),1.74,1.29,14.0,2023,196
+2.0,12:29,3.0,1.0,CAR 45,0.0,7.0,Chuba Hubbard right guard for 2 yards (tackle by Khalen Saunders and Nathan Shepherd),1.29,2.06,14.0,2023,196
+2.0,11:47,1.0,10.0,CAR 47,0.0,7.0,Bryce Young pass incomplete short right intended for Stephen Sullivan (defended by Alontae Taylor),2.06,1.52,14.0,2023,196
+2.0,11:40,2.0,10.0,CAR 47,0.0,7.0,Miles Sanders left guard for 1 yard (tackle by Alontae Taylor and Jordan Howden),1.52,0.96,14.0,2023,196
+2.0,10:57,3.0,9.0,CAR 48,0.0,7.0,Bryce Young scrambles left end for 21 yards (tackle by Tyrann Mathieu),0.96,3.51,14.0,2023,196
+2.0,10:14,1.0,10.0,NOR 31,0.0,7.0,Bryce Young pass incomplete short middle intended for Adam Thielen (defended by Demario Davis),3.51,2.97,14.0,2023,196
+2.0,10:08,2.0,10.0,NOR 31,0.0,7.0,Chuba Hubbard right tackle for 2 yards (tackle by Tanoh Kpassagnon),2.97,2.54,14.0,2023,196
+2.0,9:26,3.0,8.0,NOR 29,0.0,7.0,Bryce Young pass incomplete deep middle intended for DJ Chark (defended by Isaac Yiadom),2.54,1.5,14.0,2023,196
+2.0,9:21,4.0,8.0,NOR 29,3.0,7.0,Eddy Pineiro 47 yard field goal good,1.5,3.0,14.0,2023,196
+2.0,9:16,,,CAR 35,3.0,7.0,"Eddy Pineiro kicks off 65 yards, touchback.",0.0,0.61,14.0,2023,196
+2.0,9:16,1.0,10.0,NOR 25,3.0,7.0,Derek Carr pass complete short middle to Foster Moreau for 7 yards (tackle by Jaycee Horn),0.61,1.01,14.0,2023,196
+2.0,8:38,2.0,3.0,NOR 32,3.0,7.0,Alvin Kamara right guard for 2 yards (tackle by Derrick Brown),1.01,0.56,14.0,2023,196
+2.0,8:05,3.0,1.0,NOR 34,3.0,7.0,Jamaal Williams left guard for 2 yards (tackle by Derrick Brown),0.56,1.33,14.0,2023,196
+2.0,7:28,1.0,10.0,NOR 36,3.0,7.0,Derek Carr pass complete short right to Lynn Bowden for 7 yards (tackle by Jaycee Horn),1.33,1.74,14.0,2023,196
+2.0,6:54,2.0,3.0,NOR 43,3.0,7.0,Jamaal Williams right guard for -2 yards (tackle by Shy Tuttle and Xavier Woods),1.74,0.76,14.0,2023,196
+2.0,6:20,3.0,5.0,NOR 41,3.0,7.0,Derek Carr pass incomplete short right intended for Jamaal Williams,0.76,-0.65,14.0,2023,196
+2.0,6:14,4.0,5.0,NOR 41,3.0,7.0,"Lou Hedley punts 42 yards, returned by Ihmir Smith-Marsette for 1 yard (tackle by Lonnie Johnson)",-0.65,-0.04,14.0,2023,196
+2.0,6:06,1.0,10.0,CAR 18,3.0,7.0,Chuba Hubbard right tackle for 8 yards (tackle by Demario Davis and Alontae Taylor),0.04,0.68,14.0,2023,196
+2.0,5:27,2.0,2.0,CAR 26,3.0,7.0,Chuba Hubbard right guard for no gain (tackle by Demario Davis),0.68,-0.14,14.0,2023,196
+2.0,4:48,3.0,2.0,CAR 26,3.0,7.0,Bryce Young pass incomplete short middle intended for Jonathan Mingo (defended by Isaac Yiadom),-0.14,-1.63,14.0,2023,196
+2.0,4:43,4.0,2.0,CAR 26,3.0,13.0,"Johnny Hekker for -11 yards. Johnny Hekker fumbles (forced by Nephi Sewell), recovered by D'Marco Jackson at CAR-8 and returned for 8 yards, touchdown",-1.63,-7.0,14.0,2023,196
+2.0,4:37,,,CAR 15,3.0,14.0,Blake Grupe kicks extra point good,0.0,0.0,14.0,2023,196
+2.0,4:37,,,NOR 35,3.0,14.0,"Blake Grupe kicks off 65 yards, touchback.. Penalty on Sam Franklin: Unnecessary Roughness / Defense, 12 yards (accepted)",0.0,-0.32,14.0,2023,196
+2.0,4:37,1.0,10.0,CAR 13,3.0,14.0,Bryce Young scrambles right end for 11 yards (tackle by Carl Granderson),-0.32,0.54,14.0,2023,196
+2.0,3:56,1.0,10.0,CAR 24,3.0,14.0,Miles Sanders left guard for 5 yards (tackle by Carl Granderson and Alontae Taylor),0.54,0.67,14.0,2023,196
+2.0,3:13,2.0,5.0,CAR 29,3.0,14.0,Chuba Hubbard left tackle for 4 yards (tackle by Jordan Howden),0.67,0.5,14.0,2023,196
+2.0,2:37,3.0,1.0,CAR 33,3.0,14.0,Chuba Hubbard right tackle for 13 yards (tackle by Paulson Adebo and Demario Davis),0.5,1.99,14.0,2023,196
+2.0,2:00,1.0,10.0,CAR 46,3.0,14.0,"Bryce Young pass incomplete short middle. Penalty on Bryan Bresee: Defensive Offside, 5 yards (accepted) (no play)",1.99,2.72,14.0,2023,196
+2.0,1:56,1.0,5.0,NOR 49,3.0,14.0,Bryce Young pass complete short middle to Adam Thielen for 4 yards (tackle by Alontae Taylor),2.72,2.67,14.0,2023,196
+2.0,1:30,2.0,1.0,NOR 45,3.0,14.0,"Bryce Young pass incomplete. Penalty on Ihmir Smith-Marsette: Offensive Offside, 5 yards (accepted) (no play)",2.67,1.99,14.0,2023,196
+2.0,1:25,2.0,6.0,NOR 50,3.0,14.0,Chuba Hubbard left end for -2 yards (tackle by Zack Baun),1.99,1.03,14.0,2023,196
+2.0,1:18,,,,,,Timeout #1 by New Orleans Saints,,,14.0,2023,196
+2.0,1:18,3.0,8.0,CAR 48,3.0,14.0,Bryce Young pass complete short left to Chuba Hubbard for 6 yards (tackle by Jordan Howden),1.03,0.2,14.0,2023,196
+2.0,1:11,,,,,,Timeout #2 by New Orleans Saints,,,14.0,2023,196
+2.0,1:11,4.0,2.0,NOR 46,3.0,14.0,Bryce Young pass incomplete deep right intended for DJ Chark (defended by Alontae Taylor),0.2,-1.99,14.0,2023,196
+2.0,1:05,1.0,10.0,NOR 46,3.0,14.0,Derek Carr pass complete short right to Juwan Johnson for 7 yards (tackle by Vonn Bell),1.99,2.4,14.0,2023,196
+2.0,1:00,2.0,3.0,CAR 47,3.0,14.0,Derek Carr pass complete short left to Chris Olave for 6 yards (tackle by Frankie Luvu),2.4,2.85,14.0,2023,196
+2.0,0:44,1.0,10.0,CAR 41,3.0,14.0,Derek Carr pass complete short left to Alvin Kamara for -10 yards (tackle by Brian Burns),2.85,0.96,14.0,2023,196
+2.0,0:25,2.0,20.0,NOR 49,3.0,14.0,Derek Carr pass short middle intended for Juwan Johnson is intercepted by Derrick Brown at NO-47 and returned for 2 yards (tackle by Erik McCoy),0.96,-2.59,14.0,2023,196
+2.0,0:18,1.0,10.0,NOR 45,3.0,14.0,Bryce Young pass incomplete deep right intended for Jonathan Mingo,2.59,2.04,14.0,2023,196
+2.0,0:12,2.0,10.0,NOR 45,3.0,14.0,Bryce Young pass incomplete deep right intended for Jonathan Mingo,2.04,1.36,14.0,2023,196
+2.0,0:06,3.0,10.0,NOR 45,3.0,14.0,Bryce Young pass incomplete short left intended for Stephen Sullivan,1.36,0.27,14.0,2023,196
+2.0,0:03,,,,,,Timeout #1 by Carolina Panthers,,,14.0,2023,196
+2.0,0:03,4.0,10.0,NOR 45,3.0,14.0,Bryce Young pass incomplete deep left,0.27,1.93,14.0,2023,196
+3.0,15:00,,,CAR 35,3.0,14.0,"Eddy Pineiro kicks off 59 yards, returned by Lynn Bowden for 28 yards (tackle by Kamu Grugier-Hill and Tae Davis)",0.0,1.2,14.0,2023,196
+3.0,14:55,1.0,10.0,NOR 34,3.0,14.0,Alvin Kamara right tackle for 4 yards (tackle by LaBryan Ray),1.2,1.2,14.0,2023,196
+3.0,14:21,2.0,6.0,NOR 38,3.0,14.0,Jamaal Williams left tackle for 4 yards (tackle by Derrick Brown and Frankie Luvu),1.2,1.03,14.0,2023,196
+3.0,13:44,3.0,2.0,NOR 42,3.0,14.0,Jamaal Williams right end for 1 yard (tackle by Jaycee Horn),1.03,-0.52,14.0,2023,196
+3.0,12:56,4.0,1.0,NOR 43,3.0,14.0,"Penalty on Shy Tuttle: Encroachment, 5 yards (accepted) (no play)",-0.52,2.13,14.0,2023,196
+3.0,12:46,1.0,10.0,NOR 48,3.0,14.0,Derek Carr pass complete short left to Lynn Bowden for 2 yards (tackle by Troy Hill and Donte Jackson),2.13,1.85,14.0,2023,196
+3.0,12:07,2.0,8.0,CAR 50,3.0,14.0,Derek Carr pass complete short right to Alvin Kamara for -6 yards (tackle by Deion Jones),1.85,0.37,14.0,2023,196
+3.0,11:28,3.0,14.0,NOR 44,3.0,14.0,Derek Carr pass incomplete deep right intended for Chris Olave (defended by Jaycee Horn),0.37,-0.46,14.0,2023,196
+3.0,11:19,4.0,14.0,NOR 44,3.0,14.0,"Lou Hedley punts 42 yards, fair catch by Ihmir Smith-Marsette at CAR-14",-0.46,0.28,14.0,2023,196
+3.0,11:13,1.0,10.0,CAR 14,3.0,14.0,Chuba Hubbard right tackle for no gain (tackle by Jordan Howden),-0.28,-0.75,14.0,2023,196
+3.0,10:39,2.0,10.0,CAR 14,3.0,14.0,Bryce Young pass complete short left to Tommy Tremble for 2 yards (tackle by Demario Davis),-0.75,-1.16,14.0,2023,196
+3.0,10:01,3.0,8.0,CAR 16,3.0,14.0,Bryce Young scrambles right end for 8 yards (tackle by Jordan Howden),-1.16,0.54,14.0,2023,196
+3.0,9:17,1.0,10.0,CAR 24,3.0,14.0,Chuba Hubbard left guard for 4 yards (tackle by Carl Granderson),0.54,0.54,14.0,2023,196
+3.0,8:33,2.0,6.0,CAR 28,3.0,14.0,Bryce Young pass incomplete short middle intended for Jonathan Mingo,0.54,-0.16,14.0,2023,196
+3.0,8:27,3.0,6.0,CAR 28,3.0,14.0,Bryce Young pass complete deep right to Adam Thielen for 19 yards,-0.16,2.06,14.0,2023,196
+3.0,7:52,1.0,10.0,CAR 47,3.0,14.0,Bryce Young pass complete short right to Raheem Blackshear for 4 yards (tackle by Pete Werner),2.06,2.13,14.0,2023,196
+3.0,7:16,2.0,5.0,NOR 49,3.0,14.0,Miles Sanders right guard for 48 yards (tackle by Paulson Adebo),2.13,6.97,14.0,2023,196
+3.0,6:30,1.0,1.0,NOR 1,3.0,14.0,Miles Sanders left guard for -1 yards (tackle by Johnathan Abram),6.97,5.72,14.0,2023,196
+3.0,5:52,2.0,2.0,NOR 2,3.0,14.0,Bryce Young sacked by Demario Davis for -9 yards,5.72,3.12,14.0,2023,196
+3.0,5:09,3.0,11.0,NOR 11,3.0,14.0,Bryce Young pass incomplete short left,3.12,2.7,14.0,2023,196
+3.0,5:00,4.0,11.0,NOR 11,6.0,14.0,Eddy Pineiro 29 yard field goal good,2.7,3.0,14.0,2023,196
+3.0,4:57,,,CAR 35,6.0,14.0,"Eddy Pineiro kicks off 65 yards, touchback.",0.0,0.61,14.0,2023,196
+3.0,4:57,1.0,10.0,NOR 25,6.0,14.0,Alvin Kamara right tackle for 4 yards (tackle by Derrick Brown and Shy Tuttle),0.61,0.6,14.0,2023,196
+3.0,4:25,2.0,6.0,NOR 29,6.0,14.0,Jamaal Williams left guard for 4 yards (tackle by Shy Tuttle),0.6,0.43,14.0,2023,196
+3.0,3:46,3.0,2.0,NOR 33,6.0,14.0,Derek Carr sacked by Frankie Luvu for -9 yards,0.43,-1.77,14.0,2023,196
+3.0,3:05,4.0,11.0,NOR 24,6.0,14.0,"Lou Hedley punts 46 yards, returned by Ihmir Smith-Marsette for no gain (tackle by J.T. Gray)",-1.77,-0.94,14.0,2023,196
+3.0,2:55,1.0,10.0,CAR 30,6.0,14.0,Chuba Hubbard right tackle for 4 yards (tackle by Nathan Shepherd),0.94,0.93,14.0,2023,196
+3.0,2:17,2.0,6.0,CAR 34,6.0,14.0,Ihmir Smith-Marsette left end for 10 yards (tackle by Tyrann Mathieu),0.93,1.86,14.0,2023,196
+3.0,1:33,1.0,10.0,CAR 44,6.0,14.0,Chuba Hubbard left tackle for 5 yards (tackle by Tanoh Kpassagnon and Khalen Saunders),1.86,1.99,14.0,2023,196
+3.0,0:54,2.0,5.0,CAR 49,6.0,14.0,Bryce Young pass complete deep left to Adam Thielen for 32 yards (tackle by Paulson Adebo),1.99,4.31,14.0,2023,196
+3.0,0:15,1.0,10.0,NOR 19,6.0,14.0,Chuba Hubbard left tackle for 1 yard (tackle by Demario Davis),4.31,3.88,14.0,2023,196
+4.0,15:00,2.0,9.0,NOR 18,6.0,14.0,Chuba Hubbard right tackle for 1 yard (tackle by Alontae Taylor and Jack Heflin),3.88,3.26,14.0,2023,196
+4.0,14:18,3.0,8.0,NOR 17,6.0,14.0,Bryce Young sacked by Carl Granderson for -6 yards,3.26,1.93,14.0,2023,196
+4.0,13:39,4.0,14.0,NOR 23,6.0,14.0,Eddy Pineiro 41 yard field goal no good,1.93,-1.0,14.0,2023,196
+4.0,13:35,1.0,10.0,NOR 31,6.0,14.0,Derek Carr pass complete short right to Lynn Bowden for no gain (tackle by Jaycee Horn),1.0,0.46,14.0,2023,196
+4.0,13:04,2.0,10.0,NOR 31,6.0,14.0,Jamaal Williams right guard for 2 yards (tackle by Derrick Brown and Frankie Luvu),0.46,0.04,14.0,2023,196
+4.0,12:27,3.0,8.0,NOR 33,6.0,14.0,Derek Carr pass incomplete short middle intended for Alvin Kamara (defended by Xavier Woods),0.04,-1.18,14.0,2023,196
+4.0,12:23,4.0,8.0,NOR 33,6.0,14.0,"Lou Hedley punts 43 yards, fair catch by Ihmir Smith-Marsette at CAR-24",-1.18,-0.54,14.0,2023,196
+4.0,12:16,1.0,10.0,CAR 24,6.0,14.0,"Miles Sanders left tackle for 6 yards (tackle by Nathan Shepherd). Penalty on Nathan Shepherd: Tripping / Defense, 15 yards (accepted)",0.54,1.93,14.0,2023,196
+4.0,11:51,1.0,10.0,CAR 45,6.0,14.0,Miles Sanders left tackle for 8 yards (tackle by Nathan Shepherd),1.93,2.46,14.0,2023,196
+4.0,11:13,2.0,2.0,NOR 47,6.0,14.0,Miles Sanders right guard for 1 yard (tackle by Khalen Saunders),2.46,1.88,14.0,2023,196
+4.0,10:31,3.0,1.0,NOR 46,6.0,14.0,Miles Sanders left end for 1 yard (tackle by Demario Davis),1.88,2.59,14.0,2023,196
+4.0,9:58,1.0,10.0,NOR 45,6.0,14.0,"Bryce Young pass complete short right to Adam Thielen for 5 yards. Adam Thielen fumbles (forced by Alontae Taylor), recovered by DJ Chark at NO-40 (tackle by Alontae Taylor)",2.59,2.72,14.0,2023,196
+4.0,9:46,2.0,5.0,NOR 40,6.0,14.0,Chuba Hubbard up the middle for 1 yard (tackle by Jordan Howden and Demario Davis),2.72,2.15,14.0,2023,196
+4.0,9:00,3.0,4.0,NOR 39,6.0,14.0,Bryce Young pass complete short right to Chuba Hubbard for 3 yards (tackle by Zack Baun),2.15,0.89,14.0,2023,196
+4.0,8:18,4.0,1.0,NOR 36,6.0,14.0,Bryce Young pass incomplete short right intended for Raheem Blackshear,0.89,-1.33,14.0,2023,196
+4.0,8:12,1.0,10.0,NOR 36,6.0,14.0,Derek Carr pass complete deep right to A.T. Perry for 44 yards (tackle by Vonn Bell),1.33,4.24,14.0,2023,196
+4.0,7:27,1.0,10.0,CAR 20,6.0,14.0,Alvin Kamara left guard for 1 yard (tackle by LaBryan Ray and Derrick Brown),4.24,3.82,14.0,2023,196
+4.0,6:49,2.0,9.0,CAR 19,6.0,14.0,Derek Carr pass incomplete short left,3.82,3.1,14.0,2023,196
+4.0,6:44,3.0,9.0,CAR 19,6.0,14.0,Derek Carr pass complete short right to Jimmy Graham for 12 yards (tackle by Xavier Woods),3.1,5.6,14.0,2023,196
+4.0,6:03,1.0,7.0,CAR 7,6.0,20.0,"Derek Carr pass complete short right to Chris Olave for 7 yards, touchdown",5.6,7.0,14.0,2023,196
+4.0,5:59,,,CAR 15,6.0,21.0,Blake Grupe kicks extra point good,0.0,0.0,14.0,2023,196
+4.0,5:59,,,NOR 35,6.0,21.0,"Blake Grupe kicks off 65 yards, returned by Raheem Blackshear for 24 yards (tackle by Lonnie Johnson and D'Marco Jackson)",0.0,0.54,14.0,2023,196
+4.0,5:54,1.0,10.0,CAR 24,6.0,21.0,Bryce Young pass incomplete deep right intended for Jonathan Mingo,0.54,0.0,14.0,2023,196
+4.0,5:50,2.0,10.0,CAR 24,6.0,21.0,Bryce Young pass incomplete deep left,0.0,-0.69,14.0,2023,196
+4.0,5:42,3.0,10.0,CAR 24,6.0,21.0,Bryce Young pass incomplete short left intended for Ihmir Smith-Marsette,-0.69,-1.77,14.0,2023,196
+4.0,5:33,4.0,10.0,CAR 24,6.0,21.0,Bryce Young pass incomplete deep right intended for Tommy Tremble,-1.77,-3.97,14.0,2023,196
+4.0,5:27,1.0,10.0,CAR 24,6.0,21.0,Jamaal Williams left guard for 3 yards (tackle by Shy Tuttle),3.97,3.84,14.0,2023,196
+4.0,5:24,,,,,,Timeout #1 by Carolina Panthers,,,14.0,2023,196
+4.0,5:24,2.0,7.0,CAR 21,6.0,21.0,Derek Carr pass complete short right to Lynn Bowden for 15 yards (tackle by Jaycee Horn and Vonn Bell),3.84,5.83,14.0,2023,196
+4.0,4:39,1.0,6.0,CAR 6,6.0,21.0,Alvin Kamara left guard for 2 yards (tackle by Kamu Grugier-Hill and Derrick Brown),5.83,5.34,14.0,2023,196
+4.0,4:34,,,,,,Timeout #2 by Carolina Panthers,,,14.0,2023,196
+4.0,4:34,2.0,4.0,CAR 4,6.0,27.0,"Derek Carr pass complete short right to Jimmy Graham for 4 yards, touchdown",5.34,7.0,14.0,2023,196
+4.0,4:29,,,CAR 15,6.0,28.0,Blake Grupe kicks extra point good,0.0,0.0,14.0,2023,196
+4.0,4:29,,,NOR 35,6.0,28.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.61,14.0,2023,196
+4.0,4:29,1.0,10.0,CAR 25,6.0,28.0,Chuba Hubbard left guard for 1 yard (tackle by Kyle Phillips),0.61,0.2,14.0,2023,196
+4.0,4:05,2.0,9.0,CAR 26,6.0,28.0,Bryce Young pass incomplete short left intended for Jonathan Mingo,0.2,-0.49,14.0,2023,196
+4.0,4:00,3.0,9.0,CAR 26,6.0,28.0,"Penalty on Ikem Ekwonu: False Start, 5 yards (accepted) (no play)",-0.49,-1.15,14.0,2023,196
+4.0,4:00,3.0,14.0,CAR 21,6.0,28.0,Bryce Young pass complete short right to Jonathan Mingo for 13 yards (tackle by Tyrann Mathieu),-1.15,-1.11,14.0,2023,196
+4.0,3:27,4.0,1.0,CAR 34,6.0,28.0,Chuba Hubbard left tackle for 11 yards (tackle by Lonnie Johnson),-1.11,1.93,14.0,2023,196
+4.0,3:07,1.0,10.0,CAR 45,6.0,28.0,Bryce Young pass complete short right to Jonathan Mingo for 9 yards (tackle by Paulson Adebo),1.93,2.6,14.0,2023,196
+4.0,2:59,2.0,1.0,NOR 46,6.0,28.0,Bryce Young pass incomplete short right intended for Tommy Tremble (defended by Tyrann Mathieu),2.6,1.88,14.0,2023,196
+4.0,2:56,3.0,1.0,NOR 46,6.0,28.0,Bryce Young pass complete short left to Adam Thielen for 14 yards (tackle by Paulson Adebo),1.88,3.45,14.0,2023,196
+4.0,2:26,1.0,10.0,NOR 32,6.0,28.0,Bryce Young pass complete short left to DJ Chark for 8 yards (tackle by Isaac Yiadom),3.45,3.98,14.0,2023,196
+4.0,2:00,2.0,2.0,NOR 24,6.0,28.0,Bryce Young pass incomplete deep left intended for Stephen Sullivan (defended by Jordan Howden),3.98,3.27,14.0,2023,196
+4.0,1:55,3.0,2.0,NOR 24,6.0,28.0,Bryce Young sacked by and Demario Davis for -11 yards and Nathan Shepherd for -11 yards,3.27,0.97,14.0,2023,196
+4.0,1:19,4.0,13.0,NOR 35,6.0,28.0,Bryce Young pass incomplete deep right,0.97,-1.27,14.0,2023,196
+4.0,1:08,1.0,10.0,NOR 35,6.0,28.0,Jameis Winston kneels for -1 yards,1.27,0.59,14.0,2023,196
+4.0,0:37,2.0,11.0,NOR 34,6.0,28.0,Jameis Winston kneels for -1 yards,0.59,-0.23,14.0,2023,196

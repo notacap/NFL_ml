@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,IND 25,7,3:28,35,Interception,0,Colts,2.0,2022,20
+2,1,2:21,IND 38,3,2:21,5,Punt,0,Colts,2.0,2022,20
+3,2,13:30,IND 44,3,1:58,-6,Punt,0,Colts,2.0,2022,20
+4,2,7:52,IND 22,3,2:09,4,Punt,0,Colts,2.0,2022,20
+5,2,1:43,IND 25,5,1:31,20,Punt,0,Colts,2.0,2022,20
+6,3,10:09,IND 20,5,2:10,21,Punt,0,Colts,2.0,2022,20
+7,3,0:17,IND 23,10,4:48,64,Downs,0,Colts,2.0,2022,20
+8,4,8:21,IND 33,7,2:05,59,Downs,0,Colts,2.0,2022,20
+9,4,5:12,JAX 42,2,0:48,0,Interception,0,Colts,2.0,2022,20
+10,4,2:37,IND 13,1,0:06,0,Interception,0,Colts,2.0,2022,20
+11,4,0:21,IND 25,2,0:21,-3,End of Game,0,Colts,2.0,2022,20

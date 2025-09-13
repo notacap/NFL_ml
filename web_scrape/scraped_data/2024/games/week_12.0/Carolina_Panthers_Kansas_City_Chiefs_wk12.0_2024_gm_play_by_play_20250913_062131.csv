@@ -1,0 +1,177 @@
+Quarter,Time,Down,ToGo,Location,KAN,CAR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Panthers won the coin toss and deferred, Chiefs to receive the opening kickoff.",,,12.0,2024,168
+1.0,15:00,,,CAR 35,0.0,0.0,"Eddy Piñeiro kicks off 62 yards, returned by Samaje Perine for 56 yards (tackle by Caleb Farley)",0.0,2.85,12.0,2024,168
+1.0,14:52,1.0,10.0,CAR 41,0.0,0.0,Kareem Hunt left guard for 5 yards (tackle by LaBryan Ray and A'Shawn Robinson),2.85,2.98,12.0,2024,168
+1.0,14:20,2.0,5.0,CAR 36,0.0,0.0,Kareem Hunt up the middle for 1 yard (tackle by D.J. Wonnum),2.98,2.41,12.0,2024,168
+1.0,13:44,3.0,4.0,CAR 35,6.0,0.0,"Patrick Mahomes pass complete deep left to Noah Gray for 35 yards, touchdown",2.41,7.0,12.0,2024,168
+1.0,13:35,,,CAR 15,7.0,0.0,Spencer Shrader kicks extra point good,0.0,0.0,12.0,2024,168
+1.0,13:35,,,KAN 35,7.0,0.0,"Spencer Shrader kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,168
+1.0,13:35,1.0,10.0,CAR 30,7.0,0.0,Bryce Young pass complete short left to Adam Thielen for 8 yards (tackle by Bryan Cook and Nazeeh Johnson),0.94,1.47,12.0,2024,168
+1.0,13:01,2.0,2.0,CAR 38,7.0,0.0,Chuba Hubbard left tackle for no gain (tackle by Tershawn Wharton and Chamarri Conner),1.47,0.76,12.0,2024,168
+1.0,12:27,3.0,2.0,CAR 38,7.0,0.0,Bryce Young pass complete short middle to David Moore for 15 yards (tackle by Bryan Cook),0.76,2.46,12.0,2024,168
+1.0,11:42,1.0,10.0,KAN 47,7.0,0.0,"Bryce Young pass complete deep right to Xavier Legette for 34 yards (tackle by Bryan Cook). Penalty on Chris Jones: Defensive Offside, 5 yards (declined) . Penalty on Drue Tranquill: Illegal Contact, 5 yards (declined)",2.46,4.71,12.0,2024,168
+1.0,11:16,1.0,10.0,KAN 13,7.0,0.0,Chuba Hubbard up the middle for 4 yards (tackle by Justin Reid),4.71,4.77,12.0,2024,168
+1.0,10:39,2.0,6.0,KAN 9,7.0,0.0,Bryce Young pass complete short right to Deven Thompkins for 2 yards (tackle by Michael Danna),4.77,4.33,12.0,2024,168
+1.0,9:54,3.0,4.0,KAN 7,7.0,0.0,"Penalty on Cade Mays: False Start, 5 yards (accepted) (no play)",4.33,3.28,12.0,2024,168
+1.0,9:32,3.0,9.0,KAN 12,7.0,0.0,Bryce Young pass incomplete short right intended for Adam Thielen,3.28,2.63,12.0,2024,168
+1.0,9:28,4.0,9.0,KAN 12,7.0,3.0,Eddy Piñeiro 30 yard field goal good,2.63,3.0,12.0,2024,168
+1.0,9:24,,,CAR 35,7.0,3.0,"Eddy Piñeiro kicks off 63 yards, returned by Samaje Perine for 23 yards (tackle by Sam Franklin and Caleb Farley)",0.0,0.61,12.0,2024,168
+1.0,9:19,1.0,10.0,KAN 25,7.0,3.0,Patrick Mahomes pass complete short left to Kareem Hunt for 13 yards (tackle by Dane Jackson),0.61,1.47,12.0,2024,168
+1.0,8:42,1.0,10.0,KAN 38,7.0,3.0,"Patrick Mahomes pass complete deep middle to JuJu Smith-Schuster for no gain (tackle by Michael Jackson). Penalty on Jaycee Horn: Defensive Holding, 5 yards (offset) . Penalty on Wanya Morris: Offensive Holding, 10 yards (offset) (no play)",1.47,1.47,12.0,2024,168
+1.0,8:18,1.0,10.0,KAN 38,7.0,3.0,Patrick Mahomes pass complete short left to DeAndre Hopkins for 12 yards,1.47,2.26,12.0,2024,168
+1.0,7:48,1.0,10.0,KAN 50,7.0,3.0,Kareem Hunt left tackle for 6 yards (tackle by A'Shawn Robinson and D.J. Wonnum),2.26,2.52,12.0,2024,168
+1.0,7:12,2.0,4.0,CAR 44,7.0,3.0,Patrick Mahomes pass complete short middle to Travis Kelce for 19 yards (tackle by Jordan Fuller),2.52,3.91,12.0,2024,168
+1.0,6:30,1.0,10.0,CAR 25,7.0,3.0,Patrick Mahomes pass complete short right to Carson Steele for 9 yards (tackle by Josey Jewell),3.91,4.75,12.0,2024,168
+1.0,5:54,2.0,1.0,CAR 16,7.0,3.0,Patrick Mahomes pass complete short left to Travis Kelce for no gain (tackle by Jordan Fuller),4.75,4.06,12.0,2024,168
+1.0,5:15,3.0,1.0,CAR 16,7.0,3.0,Kareem Hunt up the middle for 3 yards (tackle by Josey Jewell and D.J. Wonnum),4.06,4.71,12.0,2024,168
+1.0,4:40,1.0,10.0,CAR 13,7.0,3.0,Patrick Mahomes pass complete short right to JuJu Smith-Schuster for 6 yards (tackle by Michael Jackson),4.71,5.15,12.0,2024,168
+1.0,4:04,2.0,4.0,CAR 7,7.0,3.0,Kareem Hunt right tackle for -1 yards (tackle by Jonathan Harris),5.15,4.1,12.0,2024,168
+1.0,3:26,3.0,5.0,CAR 8,7.0,3.0,Patrick Mahomes scrambles right tackle for 1 yard (tackle by Jonathan Harris),4.1,2.99,12.0,2024,168
+1.0,2:42,4.0,4.0,CAR 7,10.0,3.0,Spencer Shrader 25 yard field goal good,2.99,3.0,12.0,2024,168
+1.0,2:39,,,KAN 35,10.0,3.0,"Spencer Shrader kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,168
+1.0,2:39,1.0,10.0,CAR 30,10.0,3.0,Bryce Young scrambles left end for 5 yards (tackle by Drue Tranquill),0.94,1.07,12.0,2024,168
+1.0,2:02,2.0,5.0,CAR 35,10.0,3.0,Bryce Young scrambles up the middle for 4 yards (tackle by George Karlaftis),1.07,0.89,12.0,2024,168
+1.0,1:20,3.0,1.0,CAR 39,10.0,3.0,Bryce Young pass complete short left to Adam Thielen for 36 yards (tackle by Justin Reid),0.89,3.91,12.0,2024,168
+1.0,0:31,1.0,10.0,KAN 25,10.0,3.0,Bryce Young pass complete short middle to Deven Thompkins for 12 yards (tackle by Nazeeh Johnson and Bryan Cook),3.91,4.71,12.0,2024,168
+2.0,15:00,1.0,10.0,KAN 13,10.0,3.0,Bryce Young pass incomplete short right intended for Chuba Hubbard,4.71,4.05,12.0,2024,168
+2.0,14:55,2.0,10.0,KAN 13,10.0,3.0,Bryce Young pass incomplete short middle intended for Chuba Hubbard,4.05,3.12,12.0,2024,168
+2.0,14:51,3.0,10.0,KAN 13,10.0,3.0,Bryce Young pass incomplete short middle intended for David Moore,3.12,2.57,12.0,2024,168
+2.0,14:46,4.0,10.0,KAN 13,10.0,6.0,Eddy Piñeiro 32 yard field goal good,2.57,3.0,12.0,2024,168
+2.0,14:42,,,CAR 35,10.0,6.0,"Eddy Piñeiro kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,168
+2.0,14:42,1.0,10.0,KAN 30,10.0,6.0,Kareem Hunt right tackle for 5 yards (tackle by Josey Jewell and D.J. Wonnum),0.94,1.07,12.0,2024,168
+2.0,14:08,2.0,5.0,KAN 35,10.0,6.0,Patrick Mahomes pass incomplete short right intended for Justin Watson,1.07,0.37,12.0,2024,168
+2.0,14:04,3.0,5.0,KAN 35,10.0,6.0,Patrick Mahomes scrambles up the middle for 9 yards (tackle by Xavier Woods),0.37,1.86,12.0,2024,168
+2.0,13:27,1.0,10.0,KAN 44,10.0,6.0,Patrick Mahomes pass complete deep right to Travis Kelce for 27 yards (tackle by Jordan Fuller),1.86,3.64,12.0,2024,168
+2.0,12:42,1.0,10.0,CAR 29,10.0,6.0,Patrick Mahomes pass incomplete short middle intended for JuJu Smith-Schuster,3.64,3.1,12.0,2024,168
+2.0,12:40,2.0,10.0,CAR 29,10.0,6.0,Patrick Mahomes pass complete short right to Xavier Worthy for 6 yards (tackle by Jaycee Horn),3.1,3.2,12.0,2024,168
+2.0,12:05,3.0,4.0,CAR 23,10.0,6.0,"Patrick Mahomes pass incomplete short left. Penalty on Jaycee Horn: Defensive Holding, 5 yards (offset) . Penalty on Patrick Mahomes: Intentional Grounding, 10 yards (offset) (no play)",3.2,3.2,12.0,2024,168
+2.0,11:59,3.0,4.0,CAR 23,10.0,6.0,Patrick Mahomes pass complete short left to Xavier Worthy for 9 yards (tackle by Michael Jackson),3.2,4.65,12.0,2024,168
+2.0,11:36,1.0,10.0,CAR 14,10.0,6.0,Mecole Hardman left tackle for 9 yards (tackle by DeShawn Williams),4.65,5.67,12.0,2024,168
+2.0,11:02,2.0,1.0,CAR 5,10.0,6.0,"Kareem Hunt right end for no gain (tackle by Charles Harris and Jammie Robinson). Penalty on Joe Thuney: Offensive Holding, 10 yards (accepted) (no play)",5.67,3.85,12.0,2024,168
+2.0,10:43,2.0,11.0,CAR 15,10.0,6.0,Patrick Mahomes pass incomplete short right intended for DeAndre Hopkins (defended by Dane Jackson),3.85,3.06,12.0,2024,168
+2.0,10:37,3.0,11.0,CAR 15,10.0,6.0,"Patrick Mahomes scrambles left tackle for no gain (tackle by DeShawn Williams and D.J. Wonnum). Penalty on Jaycee Horn: Defensive Holding, 4 yards (accepted) (no play)",3.06,4.84,12.0,2024,168
+2.0,10:14,1.0,10.0,CAR 11,10.0,6.0,"Penalty on Trey Smith: False Start, 4 yards (accepted) (no play)",4.84,4.41,12.0,2024,168
+2.0,9:45,1.0,14.0,CAR 15,10.0,6.0,Patrick Mahomes pass complete short left to Kareem Hunt for -4 yards (tackle by Xavier Woods),4.41,3.15,12.0,2024,168
+2.0,9:09,2.0,18.0,CAR 19,10.0,6.0,"Patrick Mahomes pass complete short left to Travis Kelce for 3 yards (tackle by A'Shawn Robinson and Trevin Wallace). Penalty on JuJu Smith-Schuster: Offensive Holding, 10 yards (accepted)",3.15,2.26,12.0,2024,168
+2.0,8:47,2.0,25.0,CAR 26,10.0,6.0,Patrick Mahomes pass complete short middle to Noah Gray for 13 yards (tackle by Xavier Woods),2.26,3.08,12.0,2024,168
+2.0,8:12,3.0,12.0,CAR 13,10.0,6.0,Patrick Mahomes sacked by Jadeveon Clowney for -10 yards,3.08,1.93,12.0,2024,168
+2.0,7:29,4.0,22.0,CAR 23,13.0,6.0,Spencer Shrader 41 yard field goal good,1.93,3.0,12.0,2024,168
+2.0,7:24,,,KAN 35,13.0,6.0,"Spencer Shrader kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,168
+2.0,7:24,1.0,10.0,CAR 30,13.0,6.0,Jonathon Brooks right guard for 3 yards (tackle by Nick Bolton),0.94,0.8,12.0,2024,168
+2.0,6:49,2.0,7.0,CAR 33,13.0,6.0,"Bryce Young sacked by Michael Danna for -14 yards. Bryce Young fumbles (forced by Michael Danna), recovered by Ikem Ekwonu at CAR-19",0.8,-1.87,12.0,2024,168
+2.0,6:04,3.0,21.0,CAR 19,13.0,6.0,Bryce Young pass complete short middle to Ja'Tavion Sanders for 11 yards (tackle by Jaden Hicks),-1.87,-1.37,12.0,2024,168
+2.0,5:14,4.0,10.0,CAR 30,13.0,6.0,"Johnny Hekker punts 55 yards, returned by Mecole Hardman for no gain (tackle by Sam Franklin). Penalty on Chamarri Conner: Defensive Holding, 7 yards (accepted)",-1.37,0.38,12.0,2024,168
+2.0,5:14,1.0,10.0,KAN 8,13.0,6.0,Kareem Hunt left tackle for 4 yards (tackle by A'Shawn Robinson),-0.38,-0.49,12.0,2024,168
+2.0,4:38,2.0,6.0,KAN 12,13.0,6.0,Patrick Mahomes pass complete short left to DeAndre Hopkins for 8 yards (tackle by Jaycee Horn),-0.49,0.28,12.0,2024,168
+2.0,4:01,1.0,10.0,KAN 20,13.0,6.0,Patrick Mahomes pass complete short middle to Justin Watson for 15 yards (tackle by Xavier Woods),0.28,1.27,12.0,2024,168
+2.0,3:28,1.0,10.0,KAN 35,13.0,6.0,Samaje Perine up the middle for 13 yards (tackle by Xavier Woods),1.27,2.13,12.0,2024,168
+2.0,2:55,1.0,10.0,KAN 48,13.0,6.0,Xavier Worthy left end for 5 yards (tackle by Trevin Wallace),2.13,2.26,12.0,2024,168
+2.0,2:17,2.0,5.0,CAR 47,13.0,6.0,Patrick Mahomes pass complete short middle to Noah Gray for 7 yards (tackle by Jaycee Horn),2.26,2.92,12.0,2024,168
+2.0,2:00,1.0,10.0,CAR 40,13.0,6.0,Patrick Mahomes sacked by D.J. Wonnum for -8 yards,2.92,1.29,12.0,2024,168
+2.0,1:27,2.0,18.0,CAR 48,13.0,6.0,Patrick Mahomes pass complete short left to DeAndre Hopkins for 5 yards (tackle by Jaycee Horn),1.29,1.29,12.0,2024,168
+2.0,1:22,,,,,,Timeout #1 by Carolina Panthers,,,12.0,2024,168
+2.0,1:22,3.0,13.0,CAR 43,13.0,6.0,Patrick Mahomes scrambles right end for 13 yards (tackle by Xavier Woods),1.29,3.58,12.0,2024,168
+2.0,1:11,1.0,10.0,CAR 30,13.0,6.0,Patrick Mahomes pass incomplete short middle intended for Travis Kelce,3.58,3.03,12.0,2024,168
+2.0,1:08,2.0,10.0,CAR 30,13.0,6.0,Patrick Mahomes pass complete short left to Samaje Perine for 13 yards (tackle by Josey Jewell),3.03,4.44,12.0,2024,168
+2.0,1:01,1.0,10.0,CAR 17,13.0,6.0,Mecole Hardman left tackle for 6 yards (tackle by A'Shawn Robinson),4.44,4.89,12.0,2024,168
+2.0,0:53,2.0,4.0,CAR 11,13.0,6.0,Patrick Mahomes pass incomplete short left intended for Xavier Worthy,4.89,4.1,12.0,2024,168
+2.0,0:50,3.0,4.0,CAR 11,19.0,6.0,"Patrick Mahomes pass complete short middle to Noah Gray for 11 yards, touchdown",4.1,7.0,12.0,2024,168
+2.0,0:44,,,CAR 15,20.0,6.0,Spencer Shrader kicks extra point good,0.0,0.0,12.0,2024,168
+2.0,0:44,,,KAN 35,20.0,6.0,"Spencer Shrader kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,168
+2.0,0:44,1.0,10.0,CAR 30,20.0,6.0,Bryce Young pass incomplete short middle intended for Chuba Hubbard,0.94,0.39,12.0,2024,168
+2.0,0:40,2.0,10.0,CAR 30,20.0,6.0,"Bryce Young pass complete deep left to Ja'Tavion Sanders for 28 yards (tackle by Nazeeh Johnson). Penalty on Nazeeh Johnson: Defensive Holding, 5 yards (declined)",0.39,2.79,12.0,2024,168
+2.0,0:32,1.0,10.0,KAN 42,20.0,6.0,Bryce Young pass complete deep right to David Moore for 21 yards (tackle by Chamarri Conner),2.79,4.17,12.0,2024,168
+2.0,0:26,,,,,,Timeout #3 by Carolina Panthers,,,12.0,2024,168
+2.0,0:26,1.0,10.0,KAN 21,20.0,6.0,Bryce Young pass complete short right to Ja'Tavion Sanders for 10 yards (tackle by Trent McDuffie),4.17,4.84,12.0,2024,168
+2.0,0:20,1.0,10.0,KAN 11,20.0,6.0,Bryce Young pass incomplete short left intended for David Moore,4.84,4.14,12.0,2024,168
+2.0,0:14,2.0,10.0,KAN 11,20.0,6.0,Bryce Young pass incomplete short middle intended for Tommy Tremble,4.14,3.13,12.0,2024,168
+2.0,0:09,3.0,10.0,KAN 11,20.0,6.0,Bryce Young pass incomplete short right intended for Xavier Legette,3.13,2.7,12.0,2024,168
+2.0,0:04,4.0,10.0,KAN 11,20.0,9.0,Eddy Piñeiro 29 yard field goal good,2.7,3.0,12.0,2024,168
+3.0,15:00,,,KAN 35,20.0,9.0,"Spencer Shrader kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,168
+3.0,15:00,1.0,10.0,CAR 30,20.0,9.0,"Penalty on Ikem Ekwonu: False Start, 5 yards (accepted) (no play)",0.94,0.61,12.0,2024,168
+3.0,15:00,1.0,15.0,CAR 25,20.0,9.0,Chuba Hubbard up the middle for 3 yards (tackle by Drue Tranquill and Nick Bolton),0.61,0.12,12.0,2024,168
+3.0,14:25,2.0,12.0,CAR 28,20.0,9.0,Bryce Young pass complete short right to David Moore for 13 yards (tackle by Trent McDuffie),0.12,1.66,12.0,2024,168
+3.0,13:39,1.0,10.0,CAR 41,20.0,9.0,Bryce Young pass complete short right to Xavier Legette for 10 yards (tackle by Justin Reid),1.66,2.32,12.0,2024,168
+3.0,12:59,1.0,10.0,KAN 49,20.0,9.0,Chuba Hubbard left guard for 13 yards (tackle by Drue Tranquill),2.32,3.18,12.0,2024,168
+3.0,12:17,1.0,10.0,KAN 36,20.0,9.0,Bryce Young pass incomplete deep right intended for David Moore (defended by Nazeeh Johnson),3.18,2.64,12.0,2024,168
+3.0,12:12,2.0,10.0,KAN 36,20.0,9.0,Chuba Hubbard left tackle for no gain (tackle by Michael Danna),2.64,1.95,12.0,2024,168
+3.0,11:32,3.0,10.0,KAN 36,20.0,9.0,Bryce Young pass complete short middle to David Moore for 14 yards (tackle by Justin Reid),1.95,4.11,12.0,2024,168
+3.0,10:50,1.0,10.0,KAN 22,20.0,9.0,Bryce Young pass complete short left to Xavier Legette for 7 yards (tackle by Trent McDuffie),4.11,4.65,12.0,2024,168
+3.0,10:12,2.0,3.0,KAN 15,20.0,9.0,Chuba Hubbard right tackle for 4 yards (tackle by Nazeeh Johnson and Derrick Nnadi),4.65,4.84,12.0,2024,168
+3.0,9:28,1.0,10.0,KAN 11,20.0,9.0,Chuba Hubbard left end for 6 yards (tackle by Nazeeh Johnson),4.84,5.28,12.0,2024,168
+3.0,8:46,2.0,4.0,KAN 5,20.0,9.0,Chuba Hubbard right tackle for 3 yards (tackle by Nazeeh Johnson),5.28,5.12,12.0,2024,168
+3.0,8:04,3.0,1.0,KAN 2,20.0,9.0,Bryce Young sacked by and Trent McDuffie for no gain and Nick Bolton for no gain,5.12,3.25,12.0,2024,168
+3.0,7:30,4.0,1.0,KAN 2,20.0,9.0,Chuba Hubbard up the middle for 1 yard (tackle by Michael Danna),3.25,6.97,12.0,2024,168
+3.0,6:35,1.0,1.0,KAN 1,20.0,9.0,Bryce Young pass incomplete short right intended for David Moore (defended by Trent McDuffie),6.97,5.91,12.0,2024,168
+3.0,6:30,2.0,1.0,KAN 1,20.0,15.0,"Bryce Young pass complete short middle to David Moore for 1 yard, touchdown",5.91,7.0,12.0,2024,168
+3.0,6:26,,,KAN 2,20.0,15.0,"Two Point Attempt: Bryce Young pass incomplete intended for intended for Adam Thielen. Penalty on Justin Reid: Unnecessary Roughness / Defense, 1 yard (accepted) (no play)",1.0,6.97,12.0,2024,168
+3.0,6:26,1.0,1.0,KAN 1,20.0,15.0,"Penalty on Tommy Tremble: False Start, 5 yards (accepted) (no play)",6.97,0.0,12.0,2024,168
+3.0,6:26,1.0,6.0,KAN 12,20.0,16.0,Eddy Piñeiro kicks extra point good,0.0,0.0,12.0,2024,168
+3.0,6:26,,,CAR 35,20.0,16.0,"Eddy Piñeiro kicks off 65 yards, returned by Samaje Perine for 25 yards (tackle by Sam Franklin)",0.0,0.61,12.0,2024,168
+3.0,6:20,1.0,10.0,KAN 25,20.0,16.0,"Kareem Hunt left tackle for 2 yards (tackle by LaBryan Ray). Penalty on LaBryan Ray: Face Mask (15 Yards), 15 yards (accepted)",0.61,1.73,12.0,2024,168
+3.0,6:03,1.0,10.0,KAN 42,20.0,16.0,Patrick Mahomes pass complete deep right to Xavier Worthy for 19 yards (tackle by Michael Jackson),1.73,2.98,12.0,2024,168
+3.0,5:26,1.0,10.0,CAR 39,20.0,16.0,Patrick Mahomes pass incomplete deep left intended for Travis Kelce (defended by Xavier Woods),2.98,2.44,12.0,2024,168
+3.0,5:20,2.0,10.0,CAR 39,20.0,16.0,"Patrick Mahomes pass incomplete short left intended for DeAndre Hopkins. Penalty on Jaycee Horn: Defensive Pass Interference, 5 yards (accepted) (no play)",2.44,3.31,12.0,2024,168
+3.0,5:17,1.0,10.0,CAR 34,20.0,16.0,Kareem Hunt up the middle for 5 yards (tackle by Josey Jewell),3.31,3.45,12.0,2024,168
+3.0,4:40,2.0,5.0,CAR 29,20.0,16.0,Patrick Mahomes pass incomplete short right,3.45,2.74,12.0,2024,168
+3.0,4:34,3.0,5.0,CAR 29,20.0,16.0,Patrick Mahomes scrambles right end for 4 yards (tackle by Charles Harris),2.74,1.95,12.0,2024,168
+3.0,3:54,4.0,1.0,CAR 25,20.0,16.0,Kareem Hunt right guard for 13 yards (tackle by Shy Tuttle and Xavier Woods),1.95,4.78,12.0,2024,168
+3.0,3:13,1.0,10.0,CAR 12,20.0,16.0,"Kareem Hunt up the middle for 5 yards (tackle by LaBryan Ray and Josey Jewell). Penalty on A'Shawn Robinson: Unsportsmanlike Conduct / Defense, 4 yards (accepted)",4.78,6.51,12.0,2024,168
+3.0,2:54,1.0,3.0,CAR 3,20.0,16.0,Patrick Mahomes pass incomplete short left intended for Kareem Hunt,6.51,5.53,12.0,2024,168
+3.0,2:49,2.0,3.0,CAR 3,26.0,16.0,"Patrick Mahomes pass complete short right to DeAndre Hopkins for 3 yards, touchdown",5.53,7.0,12.0,2024,168
+3.0,2:42,,,CAR 15,27.0,16.0,Spencer Shrader kicks extra point good,0.0,0.0,12.0,2024,168
+3.0,2:42,,,KAN 35,27.0,16.0,"Spencer Shrader kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,168
+3.0,2:42,1.0,10.0,CAR 30,27.0,16.0,Chuba Hubbard right tackle for 8 yards (tackle by Derrick Nnadi),0.94,1.47,12.0,2024,168
+3.0,2:08,2.0,2.0,CAR 38,27.0,16.0,Bryce Young pass incomplete short left,1.47,0.76,12.0,2024,168
+3.0,2:04,3.0,2.0,CAR 38,27.0,16.0,Chuba Hubbard up the middle for 7 yards (tackle by Bryan Cook and Justin Reid),0.76,1.93,12.0,2024,168
+3.0,1:21,1.0,10.0,CAR 45,27.0,16.0,Chuba Hubbard left tackle for 2 yards (tackle by Mike Pennel),1.93,1.65,12.0,2024,168
+3.0,0:49,2.0,8.0,CAR 47,27.0,16.0,Bryce Young pass incomplete short left intended for Chuba Hubbard,1.65,0.96,12.0,2024,168
+3.0,0:45,3.0,8.0,CAR 47,27.0,16.0,Bryce Young pass complete short right to David Moore for 17 yards (tackle by Bryan Cook),0.96,3.18,12.0,2024,168
+4.0,15:00,1.0,10.0,KAN 36,27.0,16.0,"Chuba Hubbard left guard for 1 yard (tackle by Mike Pennel and Felix Anudike-Uzomah). Penalty on Mike Pennel: Unnecessary Roughness / Defense, 15 yards (accepted)",3.18,4.24,12.0,2024,168
+4.0,14:44,1.0,10.0,KAN 20,27.0,16.0,Chuba Hubbard right guard for 3 yards (tackle by Bryan Cook and Felix Anudike-Uzomah),4.24,4.12,12.0,2024,168
+4.0,14:01,2.0,7.0,KAN 17,27.0,16.0,Bryce Young pass complete short right to Chuba Hubbard for 2 yards (tackle by Justin Reid),4.12,3.7,12.0,2024,168
+4.0,13:19,3.0,5.0,KAN 15,27.0,16.0,"Penalty on Ikem Ekwonu: False Start, 5 yards (accepted) (no play)",3.7,3.01,12.0,2024,168
+4.0,13:19,3.0,10.0,KAN 20,27.0,16.0,Bryce Young pass complete short left to Tommy Tremble for 5 yards (tackle by Nazeeh Johnson),3.01,2.49,12.0,2024,168
+4.0,12:41,4.0,5.0,KAN 15,27.0,19.0,Eddy Piñeiro 33 yard field goal good,2.49,3.0,12.0,2024,168
+4.0,12:37,,,CAR 35,27.0,19.0,"Eddy Piñeiro kicks off 67 yards, returned by Mecole Hardman for 28 yards (tackle by Feleipe Franks)",0.0,0.67,12.0,2024,168
+4.0,12:30,1.0,10.0,KAN 26,27.0,19.0,Kareem Hunt right tackle for 12 yards (tackle by Jaycee Horn),0.67,1.47,12.0,2024,168
+4.0,11:52,1.0,10.0,KAN 38,27.0,19.0,Patrick Mahomes pass complete short middle to Travis Kelce for 5 yards (tackle by Jordan Fuller),1.47,1.6,12.0,2024,168
+4.0,11:13,2.0,5.0,KAN 43,27.0,19.0,Carson Steele up the middle for 4 yards (tackle by A'Shawn Robinson),1.6,1.42,12.0,2024,168
+4.0,10:35,3.0,1.0,KAN 47,27.0,19.0,Kareem Hunt right tackle for 3 yards (tackle by Trevin Wallace and Cam Gill),1.42,2.26,12.0,2024,168
+4.0,10:01,1.0,10.0,KAN 50,27.0,19.0,Kareem Hunt left tackle for 2 yards (tackle by Josey Jewell),2.26,1.98,12.0,2024,168
+4.0,9:24,2.0,8.0,CAR 48,27.0,19.0,Patrick Mahomes pass complete short right to Xavier Worthy for 12 yards (tackle by Michael Jackson),1.98,3.18,12.0,2024,168
+4.0,8:51,1.0,10.0,CAR 36,27.0,19.0,Patrick Mahomes pass incomplete short right intended for Carson Steele,3.18,2.64,12.0,2024,168
+4.0,8:44,2.0,10.0,CAR 36,27.0,19.0,"Patrick Mahomes pass complete short right to Kareem Hunt for no gain (tackle by Trevin Wallace). Penalty on Jawaan Taylor: Offensive Holding, 10 yards (accepted) (no play)",2.64,1.29,12.0,2024,168
+4.0,8:16,2.0,20.0,CAR 46,27.0,19.0,"Patrick Mahomes pass complete short right to Samaje Perine for -2 yards (tackle by Jadeveon Clowney and DeShawn Williams). Penalty on Jawaan Taylor: Illegal Use of Hands / Offense, 5 yards (declined)",1.29,0.37,12.0,2024,168
+4.0,7:53,3.0,22.0,CAR 48,27.0,19.0,Patrick Mahomes sacked by Jaycee Horn for -12 yards,0.37,-0.72,12.0,2024,168
+4.0,7:01,4.0,34.0,KAN 40,27.0,19.0,"Matt Araiza punts 46 yards, fair catch by Raheem Blackshear at CAR-14",-0.72,0.28,12.0,2024,168
+4.0,6:54,1.0,10.0,CAR 14,27.0,19.0,Bryce Young scrambles left guard for 11 yards (tackle by Nazeeh Johnson),-0.28,0.61,12.0,2024,168
+4.0,6:15,1.0,10.0,CAR 25,27.0,19.0,Jonathon Brooks right tackle for 4 yards (tackle by Nick Bolton and Mike Pennel),0.61,0.6,12.0,2024,168
+4.0,5:32,2.0,6.0,CAR 29,27.0,19.0,Bryce Young pass complete short left to Deven Thompkins for -1 yards (tackle by Chamarri Conner and Drue Tranquill),0.6,-0.23,12.0,2024,168
+4.0,4:46,3.0,7.0,CAR 28,27.0,19.0,Bryce Young pass incomplete short right,-0.23,-1.5,12.0,2024,168
+4.0,4:37,4.0,7.0,CAR 28,27.0,19.0,"Penalty on Johnny Hekker: Delay of Game, 5 yards (accepted) (no play)",-1.5,-1.83,12.0,2024,168
+4.0,4:37,4.0,12.0,CAR 23,27.0,19.0,"Johnny Hekker punts 48 yards, returned by Mecole Hardman for -4 yards (tackle by Sam Franklin and Claudin Cherelus)",-1.83,-0.61,12.0,2024,168
+4.0,4:26,1.0,10.0,KAN 25,27.0,19.0,Kareem Hunt right tackle for 4 yards (tackle by A'Shawn Robinson),0.61,0.6,12.0,2024,168
+4.0,3:42,2.0,6.0,KAN 29,27.0,19.0,Patrick Mahomes sacked by Josey Jewell for -6 yards,0.6,-0.89,12.0,2024,168
+4.0,3:37,,,,,,Timeout #1 by Carolina Panthers,,,12.0,2024,168
+4.0,3:37,3.0,12.0,KAN 23,27.0,19.0,Patrick Mahomes sacked by and DeShawn Williams for -7 yards and Jadeveon Clowney for -7 yards,-0.89,-2.39,12.0,2024,168
+4.0,3:31,,,,,,Timeout #2 by Carolina Panthers,,,12.0,2024,168
+4.0,3:31,4.0,19.0,KAN 16,27.0,19.0,"Matt Araiza punts 48 yards, returned by Raheem Blackshear for 10 yards (tackle by Jaden Hicks). Penalty on Joshua Williams: Player Out of Bounds on a Punt, 5 yards (accepted)",-2.39,-2.32,12.0,2024,168
+4.0,3:21,1.0,10.0,KAN 49,27.0,19.0,Chuba Hubbard up the middle for 2 yards (tackle by Tershawn Wharton),2.32,2.05,12.0,2024,168
+4.0,2:53,2.0,8.0,KAN 47,27.0,19.0,Bryce Young pass incomplete deep left intended for Xavier Legette,2.05,1.36,12.0,2024,168
+4.0,2:46,3.0,8.0,KAN 47,27.0,19.0,Bryce Young pass complete short right to Xavier Legette for 5 yards (tackle by George Karlaftis and Jaden Hicks),1.36,0.46,12.0,2024,168
+4.0,2:01,4.0,3.0,KAN 42,27.0,19.0,Bryce Young pass complete short left to Adam Thielen for 13 yards (tackle by Chamarri Conner),0.46,3.64,12.0,2024,168
+4.0,1:55,1.0,10.0,KAN 29,27.0,19.0,"Bryce Young pass incomplete deep right intended for Adam Thielen. Penalty on Chamarri Conner: Defensive Pass Interference, 28 yards (accepted) (no play)",3.64,6.97,12.0,2024,168
+4.0,1:49,1.0,1.0,KAN 1,27.0,25.0,"Chuba Hubbard right tackle for 1 yard, touchdown",6.97,7.0,12.0,2024,168
+4.0,1:46,,,KAN 2,27.0,25.0,"Two Point Attempt: Bryce Young pass incomplete intended for intended for David Moore. Penalty on Trent McDuffie: Defensive Pass Interference, 1 yard (accepted) (no play)",1.0,1.0,12.0,2024,168
+4.0,1:46,1.0,1.0,KAN 1,27.0,27.0,"Two Point Attempt: Chuba Hubbard rushes, conversion succeeds.",1.0,1.0,12.0,2024,168
+4.0,1:46,,,CAR 35,27.0,27.0,"Eddy Piñeiro kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,168
+4.0,1:46,1.0,10.0,KAN 30,27.0,27.0,Patrick Mahomes pass complete short middle to Travis Kelce for 8 yards (tackle by Dane Jackson),0.94,1.47,12.0,2024,168
+4.0,1:19,2.0,2.0,KAN 38,27.0,27.0,Patrick Mahomes pass incomplete deep right intended for Xavier Worthy (defended by Michael Jackson),1.47,0.76,12.0,2024,168
+4.0,1:13,3.0,2.0,KAN 38,27.0,27.0,Patrick Mahomes pass complete short right to DeAndre Hopkins for 7 yards (tackle by Josey Jewell),0.76,1.93,12.0,2024,168
+4.0,0:48,1.0,10.0,KAN 45,27.0,27.0,"Patrick Mahomes scrambles left end for 33 yards. Patrick Mahomes fumbles, ball out of bounds at CAR-22 (forced by Jordan Fuller). Patrick Mahomes fumbles out of bounds",1.93,4.11,12.0,2024,168
+4.0,0:39,1.0,10.0,CAR 22,27.0,27.0,Kareem Hunt up the middle for -1 yards (tackle by A'Shawn Robinson),4.11,3.43,12.0,2024,168
+4.0,0:29,,,,,,Timeout #1 by Kansas City Chiefs,,,12.0,2024,168
+4.0,0:29,2.0,11.0,CAR 23,27.0,27.0,Patrick Mahomes pass complete short right to Kareem Hunt for 10 yards (tackle by Xavier Woods),3.43,4.39,12.0,2024,168
+4.0,0:02,,,,,,Timeout #2 by Kansas City Chiefs,,,12.0,2024,168
+4.0,0:02,3.0,1.0,CAR 13,30.0,27.0,Spencer Shrader 31 yard field goal good,4.39,3.0,12.0,2024,168

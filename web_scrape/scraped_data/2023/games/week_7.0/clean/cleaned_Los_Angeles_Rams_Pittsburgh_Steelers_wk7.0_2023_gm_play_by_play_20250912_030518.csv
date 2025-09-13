@@ -1,0 +1,162 @@
+Quarter,Time,Down,ToGo,Location,PIT,LAR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Steelers won the coin toss, Steelers to receive the opening kickoff.",,,7.0,2023,101
+1.0,15:00,,,LAR 35,0.0,0.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,101
+1.0,15:00,1.0,10.0,PIT 25,0.0,0.0,Kenny Pickett pass complete short right to Najee Harris for 8 yards (tackle by Cobie Durant),0.61,1.14,7.0,2023,101
+1.0,14:22,2.0,2.0,PIT 33,0.0,0.0,Kenny Pickett sacked by Michael Hoecht for -5 yards,1.14,-0.23,7.0,2023,101
+1.0,13:50,3.0,7.0,PIT 28,0.0,0.0,Kenny Pickett pass incomplete short left intended for George Pickens,-0.23,-1.5,7.0,2023,101
+1.0,13:45,4.0,7.0,PIT 28,0.0,0.0,"Pressley Harvin punts 35 yards, fair catch by Austin Trammell at LA-37",-1.5,-1.4,7.0,2023,101
+1.0,13:38,1.0,10.0,LAR 37,0.0,0.0,Matthew Stafford pass incomplete short middle intended for Cooper Kupp,1.4,0.86,7.0,2023,101
+1.0,13:35,2.0,10.0,LAR 37,0.0,0.0,Darrell Henderson up the middle for 16 yards (tackle by Cole Holcomb and Kwon Alexander),0.86,2.46,7.0,2023,101
+1.0,12:53,1.0,10.0,PIT 47,0.0,0.0,Darrell Henderson right guard for 6 yards (tackle by Patrick Peterson),2.46,2.72,7.0,2023,101
+1.0,12:10,2.0,4.0,PIT 41,0.0,0.0,Matthew Stafford pass incomplete short middle intended for Cooper Kupp,2.72,2.01,7.0,2023,101
+1.0,12:05,3.0,4.0,PIT 41,0.0,0.0,"Matthew Stafford scrambles up the middle for no gain. Penalty on Kevin Dotson: Offensive Holding, 10 yards (accepted) (no play)",2.01,0.7,7.0,2023,101
+1.0,11:36,3.0,14.0,LAR 49,0.0,0.0,Matthew Stafford sacked by Larry Ogunjobi for -6 yards,0.7,-0.52,7.0,2023,101
+1.0,10:53,4.0,20.0,LAR 43,0.0,0.0,"Ethan Evans punts 42 yards, returned by Calvin Austin for 6 yards (tackle by Christian Rozeboom)",-0.52,-0.34,7.0,2023,101
+1.0,10:43,1.0,10.0,PIT 21,0.0,0.0,"Najee Harris up the middle for 6 yards. Najee Harris fumbles (forced by Michael Hoecht), recovered by Isaac Seumalo at PIT-32 (tackle by Michael Hoecht) (tackle by Christian Rozeboom) (tackle by Michael Hoecht)",0.34,1.07,7.0,2023,101
+1.0,9:57,1.0,10.0,PIT 32,0.0,0.0,Jaylen Warren up the middle for 3 yards (tackle by Aaron Donald and Ernest Jones),1.07,0.93,7.0,2023,101
+1.0,9:26,2.0,7.0,PIT 35,0.0,0.0,Kenny Pickett pass complete short left to George Pickens for 17 yards (tackle by Ernest Jones and Russ Yeast),0.93,2.39,7.0,2023,101
+1.0,8:45,1.0,10.0,LAR 48,0.0,0.0,Najee Harris left tackle for 6 yards (tackle by Ernest Jones and Cobie Durant),2.39,2.66,7.0,2023,101
+1.0,8:07,2.0,4.0,LAR 42,0.0,0.0,"Najee Harris right tackle for -5 yards (tackle by Jordan Fuller). Penalty on Connor Heyward: Offensive Holding, 10 yards (declined)",2.66,1.29,7.0,2023,101
+1.0,7:40,3.0,9.0,LAR 47,0.0,0.0,Kenny Pickett pass incomplete deep right intended for George Pickens,1.29,0.13,7.0,2023,101
+1.0,7:37,4.0,9.0,LAR 47,0.0,0.0,Pressley Harvin punts 41 yards downed by James Pierre,0.13,0.38,7.0,2023,101
+1.0,7:28,1.0,10.0,LAR 6,0.0,0.0,Matthew Stafford pass incomplete short left intended for Tutu Atwell,-0.38,-0.78,7.0,2023,101
+1.0,7:24,2.0,10.0,LAR 6,0.0,0.0,Royce Freeman up the middle for 9 yards (tackle by Minkah Fitzpatrick),-0.78,-0.37,7.0,2023,101
+1.0,6:50,3.0,1.0,LAR 15,0.0,0.0,Royce Freeman up the middle for 4 yards (tackle by Patrick Peterson and Larry Ogunjobi),-0.37,0.15,7.0,2023,101
+1.0,6:30,1.0,10.0,LAR 19,0.0,0.0,Matthew Stafford pass complete short middle to Puka Nacua for 30 yards (tackle by Damontae Kazee),0.15,2.19,7.0,2023,101
+1.0,5:52,1.0,10.0,LAR 49,0.0,0.0,Royce Freeman up the middle for 11 yards (tackle by Damontae Kazee),2.19,2.92,7.0,2023,101
+1.0,5:08,1.0,10.0,PIT 40,0.0,0.0,Matthew Stafford pass incomplete short left intended for Tyler Higbee,2.92,2.37,7.0,2023,101
+1.0,4:56,2.0,10.0,PIT 40,0.0,0.0,Matthew Stafford pass complete short left to Cooper Kupp for 5 yards (tackle by Kwon Alexander),2.37,2.34,7.0,2023,101
+1.0,4:19,3.0,5.0,PIT 35,0.0,0.0,Royce Freeman right guard for 1 yard (tackle by Minkah Fitzpatrick),2.34,1.08,7.0,2023,101
+1.0,3:40,4.0,4.0,PIT 34,0.0,0.0,Brett Maher 53 yard field goal no good,1.08,-1.8,7.0,2023,101
+1.0,3:35,1.0,10.0,PIT 43,0.0,0.0,Kenny Pickett pass complete short right to Diontae Johnson for 14 yards (tackle by Cobie Durant),1.8,2.72,7.0,2023,101
+1.0,2:58,1.0,10.0,LAR 43,0.0,0.0,Najee Harris right tackle for 6 yards (tackle by Michael Hoecht),2.72,2.99,7.0,2023,101
+1.0,2:18,2.0,4.0,LAR 37,0.0,0.0,Najee Harris left tackle for 9 yards (tackle by Desjuan Johnson and Jordan Fuller),2.99,3.71,7.0,2023,101
+1.0,1:31,1.0,10.0,LAR 28,0.0,0.0,"Kenny Pickett sacked by Michael Hoecht for -11 yards. Penalty on Jaylen Warren: Offensive Holding, 10 yards (declined)",3.71,1.68,7.0,2023,101
+1.0,1:14,2.0,21.0,LAR 39,0.0,0.0,Kenny Pickett pass complete short middle to Connor Heyward for 12 yards (tackle by Jordan Fuller),1.68,2.61,7.0,2023,101
+1.0,0:30,3.0,9.0,LAR 27,0.0,0.0,"Kenny Pickett pass complete short middle to Diontae Johnson for 7 yards (tackle by Quentin Lake). Penalty on George Pickens: Illegal Blindside Block, 15 yards (accepted)",2.61,1.55,7.0,2023,101
+2.0,15:00,3.0,17.0,LAR 35,0.0,0.0,Kenny Pickett pass incomplete short left intended for Jaylen Warren,1.55,0.97,7.0,2023,101
+2.0,14:56,4.0,17.0,LAR 35,3.0,0.0,Chris Boswell 53 yard field goal good,0.97,3.0,7.0,2023,101
+2.0,14:51,,,PIT 35,3.0,0.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,101
+2.0,14:51,1.0,10.0,LAR 25,3.0,0.0,Darrell Henderson up the middle for no gain (tackle by Montravius Adams and DeMarvin Leal),0.61,0.06,7.0,2023,101
+2.0,14:07,,,,,,Timeout #1 by Los Angeles Rams,,,7.0,2023,101
+2.0,14:07,2.0,10.0,LAR 25,3.0,0.0,Darrell Henderson left guard for -1 yards (tackle by Montravius Adams),0.06,-0.76,7.0,2023,101
+2.0,13:46,3.0,11.0,LAR 24,3.0,0.0,Matthew Stafford pass complete deep left to Cooper Kupp for 24 yards,-0.76,2.13,7.0,2023,101
+2.0,13:10,1.0,10.0,LAR 48,3.0,0.0,"Matthew Stafford pass incomplete deep left. Penalty on Matthew Stafford: Intentional Grounding, 10 yards (accepted)",2.13,0.23,7.0,2023,101
+2.0,13:01,2.0,20.0,LAR 38,3.0,0.0,"Matthew Stafford pass complete short right to Cooper Kupp for no gain. Penalty on Coleman Shelton: Offensive Holding, 10 yards (accepted) (no play)",0.23,-1.12,7.0,2023,101
+2.0,12:32,2.0,30.0,LAR 28,3.0,0.0,Matthew Stafford pass complete short right to Puka Nacua for 1 yard (tackle by Chandon Sullivan),-1.12,-1.62,7.0,2023,101
+2.0,12:05,3.0,29.0,LAR 29,3.0,0.0,Matthew Stafford pass complete short right to Brycen Hopkins for 5 yards (tackle by Keanu Neal and Cole Holcomb),-1.62,-1.11,7.0,2023,101
+2.0,11:23,4.0,24.0,LAR 34,3.0,0.0,"Ethan Evans punts 53 yards, returned by Calvin Austin for 6 yards (tackle by Tre'Vius Tomlinson and Jake Hummel)",-1.11,-0.15,7.0,2023,101
+2.0,11:10,1.0,10.0,PIT 19,3.0,0.0,Kenny Pickett pass incomplete deep right intended for Diontae Johnson (defended by Cobie Durant),0.15,-0.39,7.0,2023,101
+2.0,11:04,2.0,10.0,PIT 19,3.0,0.0,Najee Harris left guard for 1 yard (tackle by Kobie Turner and Russ Yeast),-0.39,-0.94,7.0,2023,101
+2.0,10:22,3.0,9.0,PIT 20,3.0,0.0,Kenny Pickett pass incomplete short right,-0.94,-2.03,7.0,2023,101
+2.0,10:14,4.0,9.0,PIT 20,3.0,0.0,Pressley Harvin punts 41 yards,-2.03,-1.53,7.0,2023,101
+2.0,10:07,1.0,10.0,LAR 39,3.0,0.0,Royce Freeman left guard for 6 yards (tackle by Damontae Kazee),1.53,1.8,7.0,2023,101
+2.0,9:26,2.0,4.0,LAR 45,3.0,0.0,"Matthew Stafford pass incomplete. Penalty on Chandon Sullivan: Defensive Holding, 5 yards (accepted) (no play)",1.8,2.26,7.0,2023,101
+2.0,9:20,1.0,10.0,LAR 50,3.0,0.0,Matthew Stafford sacked by Nick Herbig for -6 yards,2.26,0.9,7.0,2023,101
+2.0,8:38,2.0,16.0,LAR 44,3.0,0.0,Matthew Stafford pass complete short left to Puka Nacua for 5 yards (tackle by Patrick Peterson and Levi Wallace),0.9,0.89,7.0,2023,101
+2.0,8:13,3.0,11.0,LAR 49,3.0,0.0,Matthew Stafford pass complete deep middle to Puka Nacua for 22 yards (tackle by Joey Porter and Damontae Kazee),0.89,3.64,7.0,2023,101
+2.0,7:28,1.0,10.0,PIT 29,3.0,0.0,Royce Freeman left tackle for 1 yard (tackle by Montravius Adams),3.64,3.24,7.0,2023,101
+2.0,6:48,2.0,9.0,PIT 28,3.0,0.0,Royce Freeman up the middle for 5 yards (tackle by Elandon Roberts),3.24,3.2,7.0,2023,101
+2.0,6:06,3.0,4.0,PIT 23,3.0,0.0,Matthew Stafford pass incomplete short right intended for Puka Nacua (defended by Joey Porter),3.2,2.0,7.0,2023,101
+2.0,6:00,4.0,4.0,PIT 23,3.0,3.0,Brett Maher 41 yard field goal good,2.0,3.0,7.0,2023,101
+2.0,5:56,,,LAR 35,3.0,3.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,101
+2.0,5:56,1.0,10.0,PIT 25,3.0,3.0,Calvin Austin left end for 1 yard (tackle by Ahkello Witherspoon),0.61,0.2,7.0,2023,101
+2.0,5:24,2.0,9.0,PIT 26,3.0,3.0,Kenny Pickett pass complete deep left to George Pickens for 20 yards (tackle by Ahkello Witherspoon),0.2,1.99,7.0,2023,101
+2.0,4:45,1.0,10.0,PIT 46,3.0,3.0,Jaylen Warren right tackle for 3 yards (tackle by Christian Rozeboom and Aaron Donald),1.99,1.86,7.0,2023,101
+2.0,4:06,2.0,7.0,PIT 49,3.0,3.0,Kenny Pickett pass incomplete short middle intended for George Pickens,1.86,1.16,7.0,2023,101
+2.0,4:00,3.0,7.0,PIT 49,3.0,3.0,"Kenny Pickett pass incomplete short left. Penalty on Kenny Pickett: Intentional Grounding, 16 yards (accepted)",1.16,-1.18,7.0,2023,101
+2.0,3:54,4.0,23.0,PIT 33,3.0,3.0,"Pressley Harvin punts 55 yards, fair catch by Austin Trammell at LA-12",-1.18,0.35,7.0,2023,101
+2.0,3:46,1.0,10.0,LAR 12,3.0,3.0,Darrell Henderson up the middle for 7 yards (tackle by Joey Porter),-0.35,0.1,7.0,2023,101
+2.0,3:10,2.0,3.0,LAR 19,3.0,3.0,Darrell Henderson left tackle for no gain (tackle by Alex Highsmith),0.1,-0.6,7.0,2023,101
+2.0,2:26,3.0,3.0,LAR 19,3.0,3.0,Matthew Stafford pass complete short right to Puka Nacua for 36 yards (tackle by Damontae Kazee),-0.6,2.59,7.0,2023,101
+2.0,2:00,1.0,10.0,PIT 45,3.0,3.0,Darrell Henderson up the middle for 2 yards (tackle by DeMarvin Leal and Minkah Fitzpatrick),2.59,2.31,7.0,2023,101
+2.0,1:17,2.0,8.0,PIT 43,3.0,3.0,Darrell Henderson right guard for 7 yards (tackle by Minkah Fitzpatrick and Cole Holcomb),2.31,2.54,7.0,2023,101
+2.0,0:37,3.0,1.0,PIT 36,3.0,3.0,Darrell Henderson up the middle for 5 yards (tackle by Cole Holcomb and Damontae Kazee),2.54,3.51,7.0,2023,101
+2.0,0:31,,,,,,Timeout #2 by Los Angeles Rams,,,7.0,2023,101
+2.0,0:31,1.0,10.0,PIT 31,3.0,3.0,Matthew Stafford pass incomplete deep right intended for Puka Nacua,3.51,2.97,7.0,2023,101
+2.0,0:25,2.0,10.0,PIT 31,3.0,9.0,"Matthew Stafford pass complete deep left to Tutu Atwell for 31 yards, touchdown",2.97,7.0,7.0,2023,101
+2.0,0:17,,,PIT 15,3.0,9.0,Brett Maher kicks extra point no good,0.0,-1.0,7.0,2023,101
+2.0,0:17,,,LAR 35,3.0,9.0,"Ethan Evans kicks off 66 yards, returned by Godwin Igwebuike for 15 yards (tackle by Zach VanValkenburg and John Johnson)",0.0,-0.28,7.0,2023,101
+2.0,0:13,1.0,10.0,PIT 14,3.0,9.0,Kenny Pickett kneels for -1 yards,-0.28,-0.85,7.0,2023,101
+3.0,15:00,,,PIT 35,3.0,9.0,"Chris Boswell kicks off 51 yards, returned by Austin Trammell for 12 yards (tackle by Nick Herbig)",0.0,0.67,7.0,2023,101
+3.0,14:56,1.0,10.0,LAR 26,3.0,9.0,Matthew Stafford pass short middle intended for Cooper Kupp is intercepted by T.J. Watt at LA-31 and returned for 24 yards (tackle by Puka Nacua),0.67,-5.6,7.0,2023,101
+3.0,14:44,1.0,7.0,LAR 7,3.0,9.0,Najee Harris right end for 2 yards (tackle by Quentin Lake and Kobie Turner),5.6,5.15,7.0,2023,101
+3.0,13:48,2.0,5.0,LAR 5,3.0,9.0,Kenny Pickett pass complete short right to Najee Harris for 4 yards (tackle by Jordan Fuller),5.15,5.17,7.0,2023,101
+3.0,13:23,3.0,1.0,LAR 1,9.0,9.0,"Kenny Pickett up the middle for 1 yard, touchdown",5.17,7.0,7.0,2023,101
+3.0,13:19,,,LAR 15,10.0,9.0,Chris Boswell kicks extra point good,0.0,0.0,7.0,2023,101
+3.0,13:19,,,PIT 35,10.0,9.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,101
+3.0,13:19,1.0,10.0,LAR 25,10.0,9.0,Darrell Henderson up the middle for 1 yard (tackle by Keanu Neal),0.61,0.2,7.0,2023,101
+3.0,12:39,2.0,9.0,LAR 26,10.0,9.0,Darrell Henderson up the middle for 6 yards (tackle by T.J. Watt and Kwon Alexander),0.2,0.3,7.0,2023,101
+3.0,11:50,3.0,3.0,LAR 32,10.0,9.0,"Matthew Stafford pass incomplete short middle intended for Tyler Higbee. Penalty on T.J. Watt: Defensive Offside, 5 yards (accepted) (no play)",0.3,1.4,7.0,2023,101
+3.0,11:50,1.0,10.0,LAR 37,10.0,9.0,"Matthew Stafford pass complete deep left to Puka Nacua for 32 yards (tackle by Minkah Fitzpatrick and Levi Wallace) PIT challenged the pass completion ruling, and the play was upheld.",1.4,3.51,7.0,2023,101
+3.0,11:33,1.0,10.0,PIT 31,10.0,9.0,Darrell Henderson right guard for 3 yards (tackle by Minkah Fitzpatrick),3.51,3.37,7.0,2023,101
+3.0,10:50,2.0,7.0,PIT 28,10.0,9.0,Matthew Stafford pass incomplete short right intended for Darrell Henderson,3.37,2.68,7.0,2023,101
+3.0,10:44,,,,,,Timeout #1 by Los Angeles Rams,,,7.0,2023,101
+3.0,10:44,3.0,7.0,PIT 28,10.0,9.0,Matthew Stafford pass complete short right to Puka Nacua for 20 yards (tackle by Minkah Fitzpatrick and Damontae Kazee),2.68,5.37,7.0,2023,101
+3.0,10:02,1.0,8.0,PIT 8,10.0,9.0,Darrell Henderson up the middle for 2 yards (tackle by Minkah Fitzpatrick and Cole Holcomb),5.37,4.95,7.0,2023,101
+3.0,9:23,2.0,6.0,PIT 6,10.0,9.0,Matthew Stafford pass complete short left to Darrell Henderson for 5 yards (tackle by Alex Highsmith),4.95,5.17,7.0,2023,101
+3.0,9:00,3.0,1.0,PIT 1,10.0,15.0,"Darrell Henderson up the middle for 1 yard, touchdown",5.17,7.0,7.0,2023,101
+3.0,8:57,,,PIT 2,10.0,17.0,Two Point Attempt: Matthew Stafford pass complete to to Cooper Kupp for no gain,1.0,1.0,7.0,2023,101
+3.0,8:57,,,LAR 35,10.0,17.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,101
+3.0,8:57,1.0,10.0,PIT 25,10.0,17.0,Kenny Pickett pass complete short left to Diontae Johnson for 8 yards (tackle by Cobie Durant),0.61,1.14,7.0,2023,101
+3.0,8:26,2.0,2.0,PIT 33,10.0,17.0,"Najee Harris right tackle for no gain. Penalty on Chukwuma Okorafor: Offensive Holding, 10 yards (accepted) (no play)",1.14,-0.21,7.0,2023,101
+3.0,8:07,2.0,12.0,PIT 23,10.0,17.0,Kenny Pickett pass incomplete short middle intended for Connor Heyward (defended by Christian Rozeboom),-0.21,-0.89,7.0,2023,101
+3.0,7:56,3.0,12.0,PIT 23,10.0,17.0,Kenny Pickett scrambles up the middle for 2 yards (tackle by Byron Young),-0.89,-1.7,7.0,2023,101
+3.0,7:23,4.0,10.0,PIT 25,10.0,17.0,"Pressley Harvin punts 46 yards, fair catch by Austin Trammell at LA-29",-1.7,-0.87,7.0,2023,101
+3.0,7:16,1.0,10.0,LAR 29,10.0,17.0,Royce Freeman left guard for 15 yards (tackle by Minkah Fitzpatrick and Levi Wallace),0.87,1.86,7.0,2023,101
+3.0,6:39,1.0,10.0,LAR 44,10.0,17.0,Royce Freeman right tackle for 1 yard (tackle by Cole Holcomb),1.86,1.45,7.0,2023,101
+3.0,6:09,2.0,9.0,LAR 45,10.0,17.0,Matthew Stafford pass complete short middle to Puka Nacua for 8 yards (tackle by Elandon Roberts),1.45,1.82,7.0,2023,101
+3.0,5:24,3.0,1.0,PIT 47,10.0,17.0,"Penalty on Rob Havenstein: False Start, 5 yards (accepted) (no play)",1.82,1.16,7.0,2023,101
+3.0,5:10,3.0,6.0,LAR 48,10.0,17.0,Matthew Stafford pass complete short right to Tyler Higbee for 7 yards (tackle by Keanu Neal),1.16,2.59,7.0,2023,101
+3.0,4:38,1.0,10.0,PIT 45,10.0,17.0,Royce Freeman left guard for no gain (tackle by Larry Ogunjobi and Joey Porter),2.59,2.04,7.0,2023,101
+3.0,3:48,2.0,10.0,PIT 45,10.0,17.0,Darrell Henderson left end for -2 yards (tackle by Cole Holcomb),2.04,1.09,7.0,2023,101
+3.0,3:15,3.0,12.0,PIT 47,10.0,17.0,"Penalty on Alex Highsmith: Neutral Zone Infraction, 5 yards (accepted) (no play)",1.09,1.75,7.0,2023,101
+3.0,2:51,3.0,7.0,PIT 42,10.0,17.0,Matthew Stafford scrambles right end for 8 yards (tackle by Keanu Neal),1.75,3.31,7.0,2023,101
+3.0,2:03,1.0,10.0,PIT 34,10.0,17.0,Darrell Henderson up the middle for 1 yard (tackle by Cole Holcomb and Larry Ogunjobi),3.31,2.91,7.0,2023,101
+3.0,1:40,2.0,9.0,PIT 33,10.0,17.0,Matthew Stafford pass incomplete short right intended for Tyler Higbee,2.91,2.21,7.0,2023,101
+3.0,1:33,3.0,9.0,PIT 33,10.0,17.0,Matthew Stafford pass incomplete short middle intended for Cooper Kupp,2.21,1.15,7.0,2023,101
+3.0,1:27,4.0,9.0,PIT 33,10.0,17.0,Brett Maher 51 yard field goal no good,1.15,-1.66,7.0,2023,101
+3.0,1:22,1.0,10.0,PIT 41,10.0,17.0,Kenny Pickett pass complete short left to Najee Harris for 3 yards (tackle by Cory Durden),1.66,1.53,7.0,2023,101
+3.0,0:43,2.0,7.0,PIT 44,10.0,17.0,Kenny Pickett pass complete short right to Jaylen Warren for -1 yards (tackle by Byron Young and Quentin Lake),1.53,0.7,7.0,2023,101
+4.0,15:00,3.0,8.0,PIT 43,10.0,17.0,Kenny Pickett pass complete short left to Diontae Johnson for 39 yards (tackle by Byron Young),0.7,4.37,7.0,2023,101
+4.0,14:30,1.0,10.0,LAR 18,10.0,17.0,Jaylen Warren left guard for 5 yards (tackle by Jonah Williams and Kobie Turner),4.37,4.61,7.0,2023,101
+4.0,13:54,2.0,5.0,LAR 13,16.0,17.0,"Jaylen Warren left tackle for 13 yards, touchdown",4.61,7.0,7.0,2023,101
+4.0,13:49,,,LAR 15,17.0,17.0,Chris Boswell kicks extra point good,0.0,0.0,7.0,2023,101
+4.0,13:49,,,PIT 35,17.0,17.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,101
+4.0,13:49,1.0,10.0,LAR 25,17.0,17.0,Darrell Henderson left tackle for 3 yards (tackle by Nick Herbig),0.61,0.47,7.0,2023,101
+4.0,13:11,2.0,7.0,LAR 28,17.0,17.0,Darrell Henderson left tackle for 4 yards (tackle by Elandon Roberts),0.47,0.3,7.0,2023,101
+4.0,12:51,3.0,3.0,LAR 32,17.0,17.0,Matthew Stafford pass incomplete short middle intended for Puka Nacua,0.3,-1.24,7.0,2023,101
+4.0,12:45,4.0,3.0,LAR 32,17.0,17.0,"Ethan Evans punts 68 yards, touchback.",-1.24,-0.28,7.0,2023,101
+4.0,12:36,1.0,10.0,PIT 20,17.0,17.0,"Kenny Pickett pass complete short left to George Pickens for 18 yards (tackle by Russ Yeast). Penalty on George Pickens: Taunting / Offense, 15 yards (accepted)",0.28,0.48,7.0,2023,101
+4.0,12:10,1.0,10.0,PIT 23,17.0,17.0,Najee Harris up the middle for 3 yards (tackle by Christian Rozeboom),0.48,0.34,7.0,2023,101
+4.0,11:32,2.0,7.0,PIT 26,17.0,17.0,Jaylen Warren up the middle for 6 yards (tackle by Michael Hoecht),0.34,0.43,7.0,2023,101
+4.0,11:09,3.0,1.0,PIT 32,17.0,17.0,Kenny Pickett left guard for 2 yards (tackle by Michael Hoecht and Aaron Donald),0.43,1.2,7.0,2023,101
+4.0,10:35,1.0,10.0,PIT 34,17.0,17.0,Kenny Pickett pass complete deep left to George Pickens for 21 yards (tackle by Ahkello Witherspoon),1.2,2.59,7.0,2023,101
+4.0,9:56,1.0,10.0,LAR 45,17.0,17.0,Najee Harris up the middle for 10 yards (tackle by Russ Yeast and Christian Rozeboom),2.59,3.25,7.0,2023,101
+4.0,9:35,1.0,10.0,LAR 35,17.0,17.0,Najee Harris left guard for 5 yards (tackle by Christian Rozeboom and Earnest Brown),3.25,3.38,7.0,2023,101
+4.0,8:50,2.0,5.0,LAR 30,17.0,17.0,Kenny Pickett pass complete short right to Diontae Johnson for 11 yards,3.38,4.31,7.0,2023,101
+4.0,8:14,1.0,10.0,LAR 19,17.0,17.0,"Penalty on LAR: Defensive Too Many Men on Field, 5 yards (accepted) (no play)",4.31,5.3,7.0,2023,101
+4.0,8:06,1.0,5.0,LAR 14,17.0,17.0,Kenny Pickett pass complete short left to Connor Heyward for 11 yards (tackle by Quentin Lake),5.3,6.51,7.0,2023,101
+4.0,7:23,1.0,3.0,LAR 3,23.0,17.0,"Najee Harris up the middle for 3 yards, touchdown",6.51,7.0,7.0,2023,101
+4.0,7:20,,,LAR 15,24.0,17.0,Chris Boswell kicks extra point good,0.0,0.0,7.0,2023,101
+4.0,7:20,,,PIT 35,24.0,17.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,101
+4.0,7:20,1.0,10.0,LAR 25,24.0,17.0,"Matthew Stafford pass incomplete deep right intended for Cooper Kupp. Penalty on Patrick Peterson: Illegal Contact, 5 yards (accepted) (no play)",0.61,0.94,7.0,2023,101
+4.0,7:14,1.0,10.0,LAR 30,24.0,17.0,Royce Freeman left guard for 9 yards (tackle by Minkah Fitzpatrick),0.94,1.61,7.0,2023,101
+4.0,6:42,2.0,1.0,LAR 39,24.0,17.0,Royce Freeman up the middle for 4 yards (tackle by Montravius Adams and Minkah Fitzpatrick),1.61,1.8,7.0,2023,101
+4.0,6:00,1.0,10.0,LAR 43,24.0,17.0,Matthew Stafford pass incomplete deep left,1.8,1.25,7.0,2023,101
+4.0,5:52,2.0,10.0,LAR 43,24.0,17.0,Matthew Stafford pass incomplete short right intended for Cooper Kupp,1.25,0.56,7.0,2023,101
+4.0,5:46,3.0,10.0,LAR 43,24.0,17.0,Matthew Stafford pass incomplete deep middle intended for Puka Nacua,0.56,-0.52,7.0,2023,101
+4.0,5:39,4.0,10.0,LAR 43,24.0,17.0,"Ethan Evans punts 45 yards, returned by Calvin Austin for 2 yards (tackle by Duke Shelley and Alex Ward)",-0.52,0.28,7.0,2023,101
+4.0,5:28,1.0,10.0,PIT 14,24.0,17.0,Najee Harris up the middle for 7 yards (tackle by Russ Yeast and Jordan Fuller),-0.28,0.28,7.0,2023,101
+4.0,4:46,2.0,3.0,PIT 21,24.0,17.0,Najee Harris up the middle for no gain (tackle by Michael Hoecht and Aaron Donald),0.28,-0.56,7.0,2023,101
+4.0,4:04,3.0,3.0,PIT 21,24.0,17.0,Kenny Pickett pass complete deep middle to George Pickens for 31 yards (tackle by Cobie Durant),-0.56,2.39,7.0,2023,101
+4.0,3:19,1.0,10.0,LAR 48,24.0,17.0,Jaylen Warren left end for 2 yards (tackle by Quentin Lake),2.39,2.12,7.0,2023,101
+4.0,3:10,,,,,,Timeout #2 by Los Angeles Rams,,,7.0,2023,101
+4.0,3:10,2.0,8.0,LAR 46,24.0,17.0,Najee Harris left guard for no gain (tackle by Ernest Jones and Quentin Lake),2.12,1.55,7.0,2023,101
+4.0,3:03,,,,,,Timeout #3 by Los Angeles Rams,,,7.0,2023,101
+4.0,3:03,3.0,7.0,LAR 45,24.0,17.0,"Kenny Pickett pass incomplete intended for Diontae Johnson. Penalty on Ahkello Witherspoon: Defensive Pass Interference, 9 yards (offset) . Penalty on Diontae Johnson: Unsportsmanlike Conduct / Offense, 15 yards (offset) (no play)",1.55,1.42,7.0,2023,101
+4.0,2:59,3.0,8.0,LAR 46,24.0,17.0,Kenny Pickett pass complete short middle to Allen Robinson for 7 yards (tackle by Russ Yeast and Ahkello Witherspoon),1.42,0.66,7.0,2023,101
+4.0,2:35,4.0,1.0,LAR 39,24.0,17.0,Kenny Pickett left guard for 1 yard (tackle by Jonah Williams),0.66,3.05,7.0,2023,101
+4.0,2:00,1.0,10.0,LAR 38,24.0,17.0,Kenny Pickett kneels for -2 yards,3.05,2.24,7.0,2023,101
+4.0,1:19,2.0,12.0,LAR 40,24.0,17.0,Kenny Pickett kneels for -1 yards,2.24,1.42,7.0,2023,101
+4.0,0:39,3.0,13.0,LAR 41,24.0,17.0,Kenny Pickett kneels for -2 yards,1.42,0.4,7.0,2023,101

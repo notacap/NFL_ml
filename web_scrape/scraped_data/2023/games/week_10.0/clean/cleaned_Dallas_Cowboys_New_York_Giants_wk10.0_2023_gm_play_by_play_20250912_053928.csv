@@ -1,0 +1,182 @@
+Quarter,Time,Down,ToGo,Location,NYG,DAL,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Giants won the coin toss and deferred, Cowboys to receive the opening kickoff.",,,10.0,2023,147
+1.0,15:00,,,NYG 35,0.0,0.0,"Randy Bullock kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,147
+1.0,15:00,1.0,10.0,DAL 25,0.0,0.0,"Dak Prescott pass complete short left to Brandin Cooks for 4 yards (tackle by Deonte Banks) NYG challenged the fumble ruling, and the play was upheld.",0.61,0.6,10.0,2023,147
+1.0,14:17,2.0,6.0,DAL 29,0.0,0.0,Dak Prescott pass complete short left to CeeDee Lamb for 12 yards (tackle by Deonte Banks),0.6,1.66,10.0,2023,147
+1.0,13:46,1.0,10.0,DAL 41,0.0,0.0,Tony Pollard left guard for 1 yard (tackle by Bobby Okereke and Xavier McKinney),1.66,1.26,10.0,2023,147
+1.0,13:02,2.0,9.0,DAL 42,0.0,0.0,"Dak Prescott pass complete deep left to CeeDee Lamb for 30 yards (tackle by Jason Pinnock). Penalty on Deonte Banks: Defensive Pass Interference, 15 yards (declined)",1.26,3.71,10.0,2023,147
+1.0,12:52,1.0,10.0,NYG 28,0.0,0.0,Rico Dowdle right tackle for 3 yards (tackle by A'Shawn Robinson and Bobby Okereke),3.71,3.57,10.0,2023,147
+1.0,12:20,2.0,7.0,NYG 25,0.0,0.0,Rico Dowdle left end for 21 yards (tackle by Xavier McKinney),3.57,6.28,10.0,2023,147
+1.0,11:38,1.0,4.0,NYG 4,0.0,0.0,Tony Pollard left tackle for 2 yards (tackle by Bobby Okereke and Dexter Lawrence),6.28,5.72,10.0,2023,147
+1.0,11:02,2.0,2.0,NYG 2,0.0,0.0,Dak Prescott pass complete short right to CeeDee Lamb for no gain (tackle by Jason Pinnock),5.72,4.95,10.0,2023,147
+1.0,10:25,3.0,2.0,NYG 2,0.0,0.0,Dak Prescott pass incomplete short right intended for Jake Ferguson,4.95,3.25,10.0,2023,147
+1.0,10:20,4.0,2.0,NYG 2,0.0,0.0,Tony Pollard up the middle for 1 yard (tackle by Azeez Ojulari and Dexter Lawrence),3.25,0.38,10.0,2023,147
+1.0,10:16,1.0,10.0,NYG 1,0.0,0.0,Saquon Barkley up the middle for no gain (tackle by Chauncey Golston and Donovan Wilson),-0.38,-0.78,10.0,2023,147
+1.0,9:38,2.0,10.0,NYG 1,0.0,0.0,Saquon Barkley left tackle for no gain (tackle by Rashaan Evans and DaRon Bland),-0.78,-1.42,10.0,2023,147
+1.0,8:56,3.0,10.0,NYG 1,0.0,0.0,Tommy DeVito pass complete short left to Darius Slayton for 4 yards (tackle by DaRon Bland),-1.42,-2.49,10.0,2023,147
+1.0,8:17,4.0,6.0,NYG 5,0.0,0.0,Jamie Gillan punts 49 yards downed by Isaiah Simmons,-2.49,-1.99,10.0,2023,147
+1.0,8:04,1.0,10.0,DAL 46,0.0,0.0,Dak Prescott pass incomplete short left intended for Luke Schoonmaker,1.99,1.45,10.0,2023,147
+1.0,7:59,2.0,10.0,DAL 46,0.0,0.0,Tony Pollard left end for 3 yards (tackle by Micah McFadden),1.45,1.16,10.0,2023,147
+1.0,7:21,3.0,7.0,DAL 49,0.0,0.0,Dak Prescott pass incomplete short right intended for Jake Ferguson,1.16,-0.13,10.0,2023,147
+1.0,7:18,4.0,7.0,DAL 49,0.0,0.0,Bryan Anger punts 45 yards out of bounds,-0.13,0.38,10.0,2023,147
+1.0,7:09,1.0,10.0,NYG 6,0.0,0.0,Saquon Barkley left tackle for 1 yard (tackle by Mazi Smith),-0.38,-0.71,10.0,2023,147
+1.0,6:34,2.0,9.0,NYG 7,0.0,0.0,Saquon Barkley left tackle for -3 yards (tackle by Mazi Smith),-0.71,-1.65,10.0,2023,147
+1.0,6:05,3.0,12.0,NYG 4,0.0,0.0,Tommy DeVito sacked by Sam Williams for -2 yards,-1.65,-2.49,10.0,2023,147
+1.0,5:25,4.0,14.0,NYG 2,0.0,0.0,"Jamie Gillan punts 42 yards, returned by Deuce Vaughn for -2 yards (tackle by Darnay Holmes)",-2.49,-2.52,10.0,2023,147
+1.0,5:19,1.0,10.0,NYG 46,0.0,0.0,Dak Prescott pass complete short right to Jake Ferguson for 16 yards,2.52,3.58,10.0,2023,147
+1.0,4:44,1.0,10.0,NYG 30,0.0,0.0,Dak Prescott pass incomplete deep middle intended for CeeDee Lamb,3.58,3.03,10.0,2023,147
+1.0,4:38,2.0,10.0,NYG 30,0.0,0.0,Tony Pollard up the middle for 4 yards (tackle by D.J. Davidson and Bobby Okereke),3.03,2.87,10.0,2023,147
+1.0,3:52,3.0,6.0,NYG 26,0.0,0.0,"Dak Prescott scrambles left end for 7 yards (tackle by Bobby Okereke). Penalty on Deonte Banks: Defensive Holding, 5 yards (accepted)",2.87,4.65,10.0,2023,147
+1.0,3:44,1.0,10.0,NYG 14,0.0,6.0,"CeeDee Lamb right end for 14 yards, touchdown",4.65,7.0,10.0,2023,147
+1.0,3:38,,,NYG 15,0.0,7.0,Brandon Aubrey kicks extra point good,0.0,0.0,10.0,2023,147
+1.0,3:38,,,DAL 35,0.0,7.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,147
+1.0,3:38,1.0,10.0,NYG 25,0.0,7.0,Tommy DeVito pass complete short left to Parris Campbell for 6 yards (tackle by Malik Hooker),0.61,0.87,10.0,2023,147
+1.0,3:08,2.0,4.0,NYG 31,0.0,7.0,Tommy DeVito pass complete short right to Darius Slayton for 8 yards (tackle by Stephon Gilmore),0.87,1.53,10.0,2023,147
+1.0,2:36,1.0,10.0,NYG 39,0.0,7.0,Matt Breida up the middle for 3 yards (tackle by Damone Clark and Sam Williams),1.53,1.39,10.0,2023,147
+1.0,1:54,2.0,7.0,NYG 42,0.0,7.0,Tommy DeVito pass incomplete short right intended for Daniel Bellinger (defended by Stephon Gilmore),1.39,0.7,10.0,2023,147
+1.0,1:49,3.0,7.0,NYG 42,0.0,7.0,Tommy DeVito pass incomplete short right intended for Saquon Barkley,0.7,-0.59,10.0,2023,147
+1.0,1:45,4.0,7.0,NYG 42,0.0,7.0,"Jamie Gillan punts 58 yards, touchback.",-0.59,-0.28,10.0,2023,147
+1.0,1:36,1.0,10.0,DAL 20,0.0,7.0,Tony Pollard right guard for 3 yards (tackle by Rakeem Nunez-Roches),0.28,0.14,10.0,2023,147
+1.0,0:52,2.0,7.0,DAL 23,0.0,7.0,Tony Pollard right tackle for 2 yards (tackle by Boogie Basham and A'Shawn Robinson),0.14,-0.3,10.0,2023,147
+1.0,0:04,,,,,,Timeout #1 by Dallas Cowboys,,,10.0,2023,147
+1.0,0:04,3.0,5.0,DAL 25,0.0,7.0,Dak Prescott pass short middle intended for Jake Ferguson is intercepted by Cordale Flott at DAL-33 and returned for 21 yards (tackle by Tyler Smith),-0.3,-4.78,10.0,2023,147
+2.0,15:00,1.0,10.0,DAL 12,0.0,7.0,Tommy DeVito pass incomplete short right intended for Lawrence Cager (defended by Juanyeh Thomas),4.78,4.1,10.0,2023,147
+2.0,14:55,2.0,10.0,DAL 12,0.0,7.0,Saquon Barkley right tackle for 2 yards (tackle by Dorance Armstrong and Malik Hooker),4.1,3.48,10.0,2023,147
+2.0,14:15,3.0,8.0,DAL 10,0.0,7.0,Tommy DeVito scrambles up the middle for 6 yards (tackle by Damone Clark),3.48,3.04,10.0,2023,147
+2.0,13:29,4.0,2.0,DAL 4,0.0,7.0,Saquon Barkley up the middle for no gain (tackle by Johnathan Hankins and DeMarcus Lawrence),3.04,0.38,10.0,2023,147
+2.0,13:23,1.0,10.0,DAL 4,0.0,7.0,Dak Prescott pass complete short right to Brandin Cooks for 9 yards (tackle by Cordale Flott),-0.38,-0.12,10.0,2023,147
+2.0,12:48,2.0,1.0,DAL 13,0.0,7.0,Tony Pollard right tackle for 2 yards (tackle by Dexter Lawrence),-0.12,-0.22,10.0,2023,147
+2.0,12:10,1.0,10.0,DAL 15,0.0,7.0,Dak Prescott pass complete short left to Brandin Cooks for 25 yards (tackle by Bobby Okereke),-0.22,1.6,10.0,2023,147
+2.0,11:24,1.0,10.0,DAL 40,0.0,7.0,Dak Prescott pass complete deep right to CeeDee Lamb for 30 yards (tackle by Cordale Flott),1.6,3.58,10.0,2023,147
+2.0,10:47,1.0,10.0,NYG 30,0.0,7.0,Dak Prescott pass complete short left to Jalen Brooks for 11 yards (tackle by Deonte Banks),3.58,4.31,10.0,2023,147
+2.0,10:05,1.0,10.0,NYG 19,0.0,7.0,Tony Pollard left tackle for 15 yards (tackle by Jason Pinnock),4.31,6.28,10.0,2023,147
+2.0,9:28,1.0,4.0,NYG 4,0.0,7.0,Tony Pollard up the middle for 3 yards (tackle by Micah McFadden),6.28,5.91,10.0,2023,147
+2.0,8:52,2.0,1.0,NYG 1,0.0,13.0,"Dak Prescott pass complete short left to Jake Ferguson for 1 yard, touchdown",5.91,7.0,10.0,2023,147
+2.0,8:48,,,NYG 15,0.0,14.0,Brandon Aubrey kicks extra point good,0.0,0.0,10.0,2023,147
+2.0,8:48,,,DAL 35,0.0,14.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,147
+2.0,8:48,1.0,10.0,NYG 25,0.0,14.0,Tommy DeVito pass complete short right to Wan'Dale Robinson for 6 yards (tackle by Jayron Kearse),0.61,0.87,10.0,2023,147
+2.0,8:12,2.0,4.0,NYG 31,0.0,14.0,Saquon Barkley up the middle for 1 yard (tackle by Neville Gallimore and Rashaan Evans),0.87,0.3,10.0,2023,147
+2.0,7:22,,,,,,Timeout #2 by New York Giants,,,10.0,2023,147
+2.0,7:22,3.0,3.0,NYG 32,0.0,14.0,Tommy DeVito sacked by Neville Gallimore for -6 yards,0.3,-1.63,10.0,2023,147
+2.0,6:48,4.0,9.0,NYG 26,0.0,14.0,"Jamie Gillan punts 39 yards, returned by Deuce Vaughn for 11 yards (tackle by Daniel Bellinger and Isaiah Simmons)",-1.63,-1.99,10.0,2023,147
+2.0,6:36,1.0,10.0,DAL 46,0.0,14.0,Dak Prescott pass complete short left to Brandin Cooks for 6 yards (tackle by Jason Pinnock),1.99,2.26,10.0,2023,147
+2.0,6:05,2.0,4.0,NYG 48,0.0,14.0,Tony Pollard up the middle for 12 yards (tackle by Xavier McKinney and Jason Pinnock),2.26,3.18,10.0,2023,147
+2.0,5:20,1.0,10.0,NYG 36,0.0,14.0,Rico Dowdle left tackle for 9 yards (tackle by Bobby Okereke),3.18,3.85,10.0,2023,147
+2.0,4:38,2.0,1.0,NYG 27,0.0,14.0,Rico Dowdle right guard for 17 yards (tackle by Jason Pinnock),3.85,4.91,10.0,2023,147
+2.0,4:00,1.0,10.0,NYG 10,0.0,14.0,Dak Prescott pass incomplete short right intended for CeeDee Lamb (defended by Deonte Banks),4.91,4.19,10.0,2023,147
+2.0,3:52,2.0,10.0,NYG 10,0.0,20.0,"Dak Prescott pass complete short left to Brandin Cooks for 10 yards, touchdown",4.19,7.0,10.0,2023,147
+2.0,3:48,,,NYG 15,0.0,21.0,Brandon Aubrey kicks extra point good,0.0,0.0,10.0,2023,147
+2.0,3:48,,,DAL 35,0.0,21.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,147
+2.0,3:48,1.0,10.0,NYG 25,0.0,21.0,Tommy DeVito pass incomplete short right intended for Saquon Barkley,0.61,0.06,10.0,2023,147
+2.0,3:45,2.0,10.0,NYG 25,0.0,21.0,Tommy DeVito pass incomplete short right,0.06,-0.62,10.0,2023,147
+2.0,3:40,3.0,10.0,NYG 25,0.0,21.0,Tommy DeVito scrambles right tackle for 2 yards (tackle by Dante Fowler),-0.62,-1.57,10.0,2023,147
+2.0,2:56,4.0,8.0,NYG 27,0.0,21.0,Jamie Gillan punts 58 yards downed by Darnay Holmes,-1.57,0.22,10.0,2023,147
+2.0,2:47,1.0,10.0,DAL 15,0.0,21.0,Dak Prescott pass complete deep right to Brandin Cooks for 34 yards (tackle by Darnay Holmes),-0.22,2.19,10.0,2023,147
+2.0,2:05,1.0,10.0,DAL 49,0.0,21.0,Dak Prescott pass complete short left to Jalen Brooks for 7 yards (tackle by Darnay Holmes),2.19,2.59,10.0,2023,147
+2.0,1:59,2.0,3.0,NYG 44,0.0,21.0,Dak Prescott pass complete short left to Brandin Cooks for 16 yards (tackle by Nick McCloud),2.59,3.71,10.0,2023,147
+2.0,1:54,1.0,10.0,NYG 28,0.0,21.0,Dak Prescott pass complete short right to CeeDee Lamb for 17 yards (tackle by Darnay Holmes),3.71,4.84,10.0,2023,147
+2.0,1:17,1.0,10.0,NYG 11,0.0,21.0,Dak Prescott pass complete short left to Jake Ferguson for 2 yards (tackle by Xavier McKinney),4.84,4.51,10.0,2023,147
+2.0,1:05,,,,,,Timeout #3 by New York Giants,,,10.0,2023,147
+2.0,1:05,2.0,8.0,NYG 9,0.0,21.0,"Dak Prescott pass incomplete short left intended for Tony Pollard. Penalty on Tyron Smith: Offensive Holding, 10 yards (accepted) (no play)",4.51,3.15,10.0,2023,147
+2.0,0:51,,,,,,Timeout #2 by Dallas Cowboys,,,10.0,2023,147
+2.0,0:51,2.0,18.0,NYG 19,0.0,21.0,Dak Prescott pass complete short right to CeeDee Lamb for 9 yards (tackle by Darnay Holmes),3.15,3.3,10.0,2023,147
+2.0,0:22,3.0,9.0,NYG 10,0.0,27.0,"Dak Prescott scrambles right guard for 10 yards, touchdown",3.3,7.0,10.0,2023,147
+2.0,0:16,,,NYG 15,0.0,28.0,Brandon Aubrey kicks extra point good,0.0,0.0,10.0,2023,147
+2.0,0:16,,,DAL 35,0.0,28.0,"Brandon Aubrey kicks off 70 yards, returned by Parris Campbell for 36 yards (tackle by Rico Dowdle and Sean McKeon)",0.0,1.0,10.0,2023,147
+2.0,0:10,1.0,10.0,NYG 31,0.0,28.0,Tommy DeVito kneels for -1 yards,1.0,0.32,10.0,2023,147
+3.0,15:00,,,DAL 35,0.0,28.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,147
+3.0,15:00,1.0,10.0,NYG 25,0.0,28.0,Tommy DeVito sacked by Dante Fowler for -8 yards,0.61,-1.15,10.0,2023,147
+3.0,14:31,2.0,18.0,NYG 17,0.0,28.0,Tommy DeVito sacked by DeMarcus Lawrence for -8 yards,-1.15,-3.29,10.0,2023,147
+3.0,13:51,3.0,26.0,NYG 9,0.0,28.0,Tommy DeVito pass complete short right to Daniel Bellinger for 8 yards (tackle by Markquese Bell),-3.29,-2.32,10.0,2023,147
+3.0,13:12,4.0,18.0,NYG 17,0.0,28.0,"Jamie Gillan punts 48 yards, fair catch by Deuce Vaughn at DAL-35",-2.32,-1.27,10.0,2023,147
+3.0,13:03,1.0,10.0,DAL 35,0.0,28.0,Tony Pollard right end for 1 yard (tackle by Xavier McKinney and Boogie Basham),1.27,0.86,10.0,2023,147
+3.0,12:29,2.0,9.0,DAL 36,0.0,28.0,Dak Prescott pass incomplete short left intended for CeeDee Lamb (defended by Rakeem Nunez-Roches),0.86,0.17,10.0,2023,147
+3.0,12:25,3.0,9.0,DAL 36,0.0,28.0,Dak Prescott pass complete short right to Jake Ferguson for 7 yards (tackle by Bobby Okereke),0.17,-0.52,10.0,2023,147
+3.0,11:44,4.0,2.0,DAL 43,0.0,28.0,"Bryan Anger punts 48 yards, fair catch by Gunner Olszewski at NYG-9",-0.52,0.38,10.0,2023,147
+3.0,11:36,1.0,10.0,NYG 9,0.0,28.0,"Saquon Barkley left end for 13 yards (tackle by DaRon Bland). Penalty on Osa Odighizuwa: Defensive Holding, 5 yards (accepted)",-0.38,0.74,10.0,2023,147
+3.0,11:10,1.0,10.0,NYG 27,0.0,28.0,"Tommy DeVito pass complete deep right to Isaiah Hodgins for no gain. Penalty on Isaiah Hodgins: Offensive Pass Interference, 10 yards (offset) . Penalty on Jourdan Lewis: Illegal Contact, 5 yards (offset) (no play)",0.74,0.74,10.0,2023,147
+3.0,10:51,1.0,10.0,NYG 27,0.0,28.0,Saquon Barkley up the middle for 8 yards (tackle by Donovan Wilson),0.74,1.28,10.0,2023,147
+3.0,10:20,2.0,2.0,NYG 35,0.0,28.0,"Tommy DeVito scrambles up the middle for 19 yards (tackle by Jayron Kearse). Penalty on Jourdan Lewis: Defensive Holding, 5 yards (accepted)",1.28,2.85,10.0,2023,147
+3.0,10:04,1.0,10.0,DAL 41,0.0,28.0,Saquon Barkley left end for 21 yards (tackle by DaRon Bland),2.85,4.24,10.0,2023,147
+3.0,9:31,1.0,10.0,DAL 20,0.0,28.0,Tommy DeVito scrambles left end for 8 yards (tackle by Jourdan Lewis),4.24,5.04,10.0,2023,147
+3.0,8:55,2.0,2.0,DAL 12,0.0,28.0,Saquon Barkley right tackle for 2 yards (tackle by Damone Clark and Johnathan Hankins),5.04,4.91,10.0,2023,147
+3.0,8:11,1.0,10.0,DAL 10,6.0,28.0,"Tommy DeVito pass complete short right to Lawrence Cager for 10 yards, touchdown",4.91,7.0,10.0,2023,147
+3.0,8:07,,,DAL 15,7.0,28.0,Randy Bullock kicks extra point good,0.0,0.0,10.0,2023,147
+3.0,8:07,,,NYG 35,7.0,28.0,"Penalty on Sam Williams: Leverage, 15 yards (accepted) (no play)",0.0,0.0,10.0,2023,147
+3.0,8:07,,,NYG 50,7.0,28.0,"Randy Bullock kicks off 47 yards, returned by Rico Dowdle for 11 yards (tackle by Carter Coughlin)",0.0,-0.28,10.0,2023,147
+3.0,8:03,1.0,10.0,DAL 14,7.0,28.0,Dak Prescott pass complete short right to CeeDee Lamb for 4 yards (tackle by Bobby Okereke),-0.28,-0.21,10.0,2023,147
+3.0,7:32,2.0,6.0,DAL 18,7.0,28.0,Rico Dowdle left end for 8 yards (tackle by Xavier McKinney),-0.21,0.67,10.0,2023,147
+3.0,6:54,1.0,10.0,DAL 26,7.0,28.0,Dak Prescott pass complete short left to Jalen Tolbert for 4 yards (tackle by Nick McCloud),0.67,0.67,10.0,2023,147
+3.0,6:19,2.0,6.0,DAL 30,7.0,28.0,Rico Dowdle right end for 1 yard (tackle by Dexter Lawrence and Jason Pinnock),0.67,0.1,10.0,2023,147
+3.0,5:37,3.0,5.0,DAL 31,7.0,28.0,Dak Prescott pass complete deep middle to CeeDee Lamb for 28 yards (tackle by Xavier McKinney),0.1,2.85,10.0,2023,147
+3.0,4:47,1.0,10.0,NYG 41,7.0,34.0,"Dak Prescott pass complete deep right to Michael Gallup for 41 yards, touchdown",2.85,7.0,10.0,2023,147
+3.0,4:40,,,NYG 15,7.0,35.0,Brandon Aubrey kicks extra point good,0.0,0.0,10.0,2023,147
+3.0,4:40,,,DAL 35,7.0,35.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,147
+3.0,4:40,1.0,10.0,NYG 25,7.0,35.0,"Penalty on Johnathan Hankins: Neutral Zone Infraction, 5 yards (accepted) (no play)",0.61,1.34,10.0,2023,147
+3.0,4:40,1.0,5.0,NYG 30,7.0,35.0,Tommy DeVito pass deep middle intended for Jalin Hyatt is intercepted by DaRon Bland at DAL-23 and returned for no gain (tackle by Jalin Hyatt),1.34,-0.48,10.0,2023,147
+3.0,4:33,1.0,10.0,DAL 23,7.0,35.0,Tony Pollard up the middle for 5 yards (tackle by Jihad Ward),0.48,0.61,10.0,2023,147
+3.0,3:58,2.0,5.0,DAL 28,7.0,35.0,"Tony Pollard up the middle for 1 yard (tackle by Jason Pinnock). Penalty on Tyler Biadasz: Offensive Holding, 10 yards (accepted)",0.61,-0.67,10.0,2023,147
+3.0,3:45,2.0,14.0,DAL 19,7.0,35.0,Dak Prescott pass complete deep left to Brandin Cooks for 37 yards (tackle by Jason Pinnock),-0.67,2.65,10.0,2023,147
+3.0,3:04,,,,,,Timeout #1 by Dallas Cowboys,,,10.0,2023,147
+3.0,3:04,1.0,10.0,NYG 44,7.0,35.0,Tony Pollard left end for no gain (tackle by Boogie Basham),2.65,2.11,10.0,2023,147
+3.0,2:25,2.0,10.0,NYG 44,7.0,35.0,Dak Prescott pass incomplete deep right intended for Brandin Cooks (defended by Bobby McCain),2.11,1.42,10.0,2023,147
+3.0,2:18,3.0,10.0,NYG 44,7.0,35.0,Dak Prescott pass complete short middle to Brandin Cooks for 32 yards (tackle by Xavier McKinney),1.42,4.78,10.0,2023,147
+3.0,1:38,1.0,10.0,NYG 12,7.0,35.0,Dak Prescott pass incomplete short left intended for Jalen Tolbert,4.78,4.1,10.0,2023,147
+3.0,1:33,2.0,10.0,NYG 12,7.0,41.0,"Dak Prescott pass complete short right to CeeDee Lamb for 12 yards, touchdown. Penalty on Bobby Okereke: Illegal Contact, 5 yards (declined)",4.1,7.0,10.0,2023,147
+3.0,1:29,,,NYG 15,7.0,42.0,Brandon Aubrey kicks extra point good,0.0,0.0,10.0,2023,147
+3.0,1:29,,,DAL 35,7.0,42.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,147
+3.0,1:29,1.0,10.0,NYG 25,7.0,42.0,Saquon Barkley left end for 11 yards (tackle by Damone Clark and Neville Gallimore),0.61,1.33,10.0,2023,147
+3.0,0:57,1.0,10.0,NYG 36,7.0,42.0,Wan'Dale Robinson right end for no gain (tackle by Dorance Armstrong),1.33,0.79,10.0,2023,147
+3.0,0:28,2.0,10.0,NYG 36,7.0,42.0,Tommy DeVito sacked by Dorance Armstrong for -1 yards,0.79,-0.03,10.0,2023,147
+4.0,15:00,3.0,11.0,NYG 35,7.0,42.0,Tommy DeVito pass incomplete short right intended for Wan'Dale Robinson,-0.03,-1.04,10.0,2023,147
+4.0,14:53,4.0,11.0,NYG 35,7.0,42.0,"Jamie Gillan punts 56 yards, returned by Deuce Vaughn for no gain (tackle by Gunner Olszewski)",-1.04,0.38,10.0,2023,147
+4.0,14:43,1.0,10.0,DAL 9,7.0,42.0,Cooper Rush pass complete short left to CeeDee Lamb for 5 yards (tackle by Nick McCloud),-0.38,-0.39,10.0,2023,147
+4.0,14:06,2.0,5.0,DAL 14,7.0,42.0,Cooper Rush pass complete short right to CeeDee Lamb for 4 yards (tackle by Micah McFadden),-0.39,-0.37,10.0,2023,147
+4.0,13:20,3.0,1.0,DAL 18,7.0,42.0,Cooper Rush pass complete short right to Jalen Brooks for 7 yards (tackle by Bobby Okereke),-0.37,0.61,10.0,2023,147
+4.0,12:41,1.0,10.0,DAL 25,7.0,42.0,Rico Dowdle up the middle for 2 yards (tackle by Dexter Lawrence),0.61,0.33,10.0,2023,147
+4.0,11:50,2.0,8.0,DAL 27,7.0,42.0,Rico Dowdle left end for -1 yards (tackle by Rakeem Nunez-Roches),0.33,-0.49,10.0,2023,147
+4.0,11:06,3.0,9.0,DAL 26,7.0,42.0,Cooper Rush pass short middle intended for Jalen Tolbert is intercepted by Darnay Holmes at DAL-38 and returned for 11 yards (tackle by Michael Gallup),-0.49,-3.78,10.0,2023,147
+4.0,10:56,1.0,10.0,DAL 27,7.0,42.0,Saquon Barkley up the middle for 10 yards (tackle by Markquese Bell),3.78,4.44,10.0,2023,147
+4.0,10:23,1.0,10.0,DAL 17,7.0,42.0,Tommy DeVito pass complete short left to Saquon Barkley for -5 yards (tackle by Osa Odighizuwa),4.44,3.22,10.0,2023,147
+4.0,9:41,2.0,15.0,DAL 22,7.0,42.0,Tommy DeVito pass complete short left to Wan'Dale Robinson for no gain (tackle by Jayron Kearse),3.22,2.54,10.0,2023,147
+4.0,9:02,3.0,15.0,DAL 22,7.0,42.0,Tommy DeVito pass incomplete short right intended for Darius Slayton (defended by Stephon Gilmore),2.54,1.99,10.0,2023,147
+4.0,8:58,4.0,15.0,DAL 22,10.0,42.0,Randy Bullock 40 yard field goal good,1.99,3.0,10.0,2023,147
+4.0,8:54,,,NYG 35,10.0,42.0,"Randy Bullock kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,147
+4.0,8:54,1.0,10.0,DAL 25,10.0,42.0,Rico Dowdle right guard for 2 yards (tackle by Rakeem Nunez-Roches),0.61,0.33,10.0,2023,147
+4.0,8:11,2.0,8.0,DAL 27,10.0,42.0,Rico Dowdle left tackle for 4 yards (tackle by D.J. Davidson and Micah McFadden),0.33,0.17,10.0,2023,147
+4.0,7:31,3.0,4.0,DAL 31,10.0,42.0,Cooper Rush pass complete deep left to Michael Gallup for 29 yards (tackle by Darnay Holmes),0.17,2.92,10.0,2023,147
+4.0,6:51,1.0,10.0,NYG 40,10.0,42.0,Deuce Vaughn right guard for -2 yards (tackle by A'Shawn Robinson),2.92,2.1,10.0,2023,147
+4.0,6:14,2.0,12.0,NYG 42,10.0,42.0,Cooper Rush pass complete short left to Deuce Vaughn for 11 yards (tackle by Xavier McKinney),2.1,2.87,10.0,2023,147
+4.0,5:28,3.0,1.0,NYG 31,10.0,42.0,Cooper Rush pass incomplete deep right intended for Jalen Tolbert,2.87,1.41,10.0,2023,147
+4.0,5:22,4.0,1.0,NYG 31,10.0,42.0,Cooper Rush right end for 6 yards (tackle by Xavier McKinney),1.41,3.91,10.0,2023,147
+4.0,4:44,1.0,10.0,NYG 25,10.0,42.0,Cooper Rush pass complete short right to Jalen Brooks for 14 yards (tackle by Tre Hawkins and Micah McFadden),3.91,4.84,10.0,2023,147
+4.0,3:59,1.0,10.0,NYG 11,10.0,42.0,Cooper Rush pass complete short middle to Jalen Tolbert for -2 yards (tackle by Micah McFadden),4.84,3.83,10.0,2023,147
+4.0,3:16,2.0,12.0,NYG 13,10.0,42.0,Rico Dowdle up the middle for 12 yards (tackle by Bobby Okereke),3.83,6.97,10.0,2023,147
+4.0,2:42,1.0,1.0,NYG 1,10.0,42.0,Penalty on Bobby Okereke: Encroachment (accepted) (no play),6.97,6.97,10.0,2023,147
+4.0,2:19,1.0,1.0,NYG 1,10.0,48.0,"Rico Dowdle up the middle for 1 yard, touchdown",6.97,7.0,10.0,2023,147
+4.0,2:14,,,NYG 15,10.0,49.0,Brandon Aubrey kicks extra point good,0.0,0.0,10.0,2023,147
+4.0,2:14,,,DAL 35,10.0,49.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,147
+4.0,2:14,1.0,10.0,NYG 25,10.0,49.0,Tommy DeVito pass incomplete short middle intended for Isaiah Hodgins (defended by Nahshon Wright),0.61,0.06,10.0,2023,147
+4.0,2:10,2.0,10.0,NYG 25,10.0,49.0,Tommy DeVito right end for 1 yard (tackle by Juanyeh Thomas),0.06,-0.49,10.0,2023,147
+4.0,2:00,3.0,9.0,NYG 26,10.0,49.0,Tommy DeVito pass complete short left to Jashaun Corbin for 7 yards (tackle by Jourdan Lewis),-0.49,-1.18,10.0,2023,147
+4.0,1:38,,,,,,Timeout #2 by Dallas Cowboys,,,10.0,2023,147
+4.0,1:38,4.0,2.0,NYG 33,10.0,49.0,Tommy DeVito pass complete short left to Jashaun Corbin for 4 yards (tackle by Nahshon Wright),-1.18,1.4,10.0,2023,147
+4.0,1:15,1.0,10.0,NYG 37,10.0,49.0,Tommy DeVito pass complete short middle to Daniel Bellinger for 26 yards (tackle by Israel Mukuamu and Malik Hooker),1.4,3.12,10.0,2023,147
+4.0,1:04,,,,,,Timeout #1 by New York Giants,,,10.0,2023,147
+4.0,1:04,1.0,10.0,DAL 37,10.0,49.0,Tommy DeVito scrambles left end for 6 yards (tackle by Sam Williams),3.12,3.38,10.0,2023,147
+4.0,0:56,2.0,4.0,DAL 31,10.0,49.0,Tommy DeVito pass incomplete short right intended for Isaiah Hodgins,3.38,2.68,10.0,2023,147
+4.0,0:51,3.0,4.0,DAL 31,10.0,49.0,Tommy DeVito pass complete short right to Jashaun Corbin for 1 yard (tackle by Donovan Wilson),2.68,3.58,10.0,2023,147
+4.0,0:51,1.0,10.0,DAL 30,10.0,49.0,"Penalty on Neville Gallimore: Disqualification / Defense, 15 yards (accepted) (no play)",3.58,4.58,10.0,2023,147
+4.0,0:44,1.0,10.0,DAL 15,10.0,49.0,Tommy DeVito pass incomplete short left intended for Sterling Shepard,4.58,3.95,10.0,2023,147
+4.0,0:37,2.0,10.0,DAL 15,10.0,49.0,Tommy DeVito pass incomplete short right intended for Sterling Shepard,3.95,3.1,10.0,2023,147
+4.0,0:32,3.0,10.0,DAL 15,10.0,49.0,Tommy DeVito pass complete short right to Darius Slayton for 9 yards (tackle by Israel Mukuamu),3.1,3.02,10.0,2023,147
+4.0,0:26,,,,,,Timeout #2 by New York Giants,,,10.0,2023,147
+4.0,0:26,4.0,1.0,DAL 6,10.0,49.0,Jashaun Corbin left guard for 1 yard (tackle by Mazi Smith),3.02,6.06,10.0,2023,147
+4.0,0:20,,,,,,Timeout #3 by New York Giants,,,10.0,2023,147
+4.0,0:20,1.0,5.0,DAL 5,10.0,49.0,Tommy DeVito pass incomplete short right intended for Sterling Shepard (defended by Israel Mukuamu),6.06,5.15,10.0,2023,147
+4.0,0:16,2.0,5.0,DAL 5,10.0,49.0,"Tommy DeVito pass incomplete short right intended for Sterling Shepard. Penalty on Israel Mukuamu: Defensive Holding, 3 yards (accepted) (no play)",5.15,6.74,10.0,2023,147
+4.0,0:10,1.0,2.0,DAL 2,16.0,49.0,"Tommy DeVito pass complete short left to Sterling Shepard for 2 yards, touchdown",6.74,7.0,10.0,2023,147
+4.0,0:06,,,DAL 15,17.0,49.0,Randy Bullock kicks extra point good,0.0,0.0,10.0,2023,147
+4.0,0:06,,,NYG 35,17.0,49.0,"Penalty on Chauncey Golston: Leverage, 15 yards (accepted) (no play)",0.0,0.0,10.0,2023,147
+4.0,0:06,,,NYG 50,17.0,49.0,"Randy Bullock kicks off 50 yards, touchback.",0.0,0.61,10.0,2023,147
+4.0,0:06,1.0,10.0,DAL 25,17.0,49.0,Cooper Rush kneels for -1 yards,0.61,-0.07,10.0,2023,147

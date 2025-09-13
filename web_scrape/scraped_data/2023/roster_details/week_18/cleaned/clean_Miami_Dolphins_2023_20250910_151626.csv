@@ -1,0 +1,71 @@
+Player,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Team,Draft Team,Draft Round,Draft Pick,Draft Year
+De'Von Achane,22.0,RB,11,4.0,191.0,69,Texas A&M,10/13/2001,0,7.0,Miami Dolphins,Miami Dolphins,3.0,84.0,2023.0
+Salvon Ahmed,25.0,RB,8,0.0,197.0,71,Washington,12/30/1998,3,1.0,Miami Dolphins,,,,
+Eli Apple,28.0,CB,10,4.0,203.0,73,Ohio St.,8/9/1995,7,2.0,Miami Dolphins,New York Giants,1.0,10.0,2016.0
+Terron Armstead,32.0,T,10,10.0,305.0,77,Ark-Pine Bluff,7/23/1991,10,8.0,Miami Dolphins,New Orleans Saints,3.0,75.0,2013.0
+Jake Bailey,26.0,P,17,0.0,212.0,74,Stanford,6/18/1997,4,1.0,Miami Dolphins,New England Patriots,5.0,163.0,2019.0
+Jerome Baker,27.0,LILB,13,12.0,232.0,74,Ohio St.,12/25/1996,5,6.0,Miami Dolphins,Miami Dolphins,3.0,73.0,2018.0
+Braxton Berrios,28.0,WR,16,1.0,185.0,69,Miami (FL),10/6/1995,4,2.0,Miami Dolphins,New England Patriots,6.0,210.0,2018.0
+Justin Bethel,33.0,CB,17,1.0,200.0,72,Presbyterian,6/17/1990,11,1.0,Miami Dolphins,Arizona Cardinals,6.0,177.0,2012.0
+Ethan Bonner,24.0,CB,2,0.0,190.0,73,Stanford,10/23/1999,0,0.0,Miami Dolphins,,,,
+Chris Brooks,23.0,RB,9,0.0,219.0,73,"California,BYU",1/11/2000,0,1.0,Miami Dolphins,,,,
+Elijah Campbell,28.0,DB,15,1.0,200.0,71,"Iowa Western,Northern Illinois,Northern Iowa",8/24/1995,3,1.0,Miami Dolphins,,,,
+Robbie Chosen,30.0,WR,9,0.0,185.0,75,Temple,5/9/1993,7,1.0,Miami Dolphins,,,,
+Bradley Chubb,27.0,LB,16,16.0,268.0,76,North Carolina St.,6/24/1996,5,8.0,Miami Dolphins,Denver Broncos,1.0,5.0,2018.0
+Chase Claypool,25.0,WR,9,0.0,238.0,76,Notre Dame,7/7/1998,3,0.0,Miami Dolphins,Pittsburgh Steelers,2.0,49.0,2020.0
+Tanner Conner,25.0,TE,3,0.0,237.0,75,Idaho St.,3/20/1998,1,0.0,Miami Dolphins,,,,
+Lester Cotton,27.0,G,17,8.0,330.0,76,Alabama,2/20/1996,4,5.0,Miami Dolphins,,,,
+River Cracraft,29.0,WR,10,1.0,198.0,72,Washington St.,11/1/1994,5,1.0,Miami Dolphins,,,,
+Raekwon Davis,26.0,DT,17,7.0,325.0,79,Alabama,8/21/1997,3,4.0,Miami Dolphins,Miami Dolphins,2.0,56.0,2020.0
+Liam Eichenberg,25.0,OL,16,12.0,300.0,78,Notre Dame,1/19/1998,2,7.0,Miami Dolphins,Miami Dolphins,2.0,42.0,2021.0
+DeShon Elliott,26.0,S,15,15.0,210.0,72,Texas,4/21/1997,4,5.0,Miami Dolphins,Baltimore Ravens,6.0,190.0,2018.0
+Darrynton Evans,25.0,RB,2,0.0,203.0,70,Appalachian St.,7/9/1998,3,0.0,Miami Dolphins,Tennessee Titans,3.0,93.0,2020.0
+Erik Ezukanma,23.0,WR,2,0.0,210.0,74,Texas Tech,1/25/2000,1,0.0,Miami Dolphins,Miami Dolphins,4.0,125.0,2022.0
+Blake Ferguson,26.0,LS,17,0.0,230.0,75,LSU,4/21/1997,3,1.0,Miami Dolphins,Miami Dolphins,6.0,185.0,2020.0
+Cameron Goode,25.0,LB,17,0.0,245.0,75,California,4/15/1998,1,1.0,Miami Dolphins,Miami Dolphins,7.0,224.0,2022.0
+Da'Shawn Hand,28.0,DT,16,0.0,302.0,75,Alabama,11/14/1995,5,1.0,Miami Dolphins,Detroit Lions,4.0,114.0,2018.0
+Jonotthan Harrison,32.0,OL,2,0.0,300.0,76,Florida,8/25/1991,9,0.0,Miami Dolphins,,,,
+Julian Hill,23.0,TE,15,4.0,251.0,76,Campbell,7/9/2000,0,0.0,Miami Dolphins,,,,
+Tyreek Hill,29.0,WR,16,16.0,191.0,70,"Garden City (KS),Oklahoma St.,West Alabama",3/1/1994,7,18.0,Miami Dolphins,Kansas City Chiefs,5.0,165.0,2016.0
+Jevon Holland,23.0,S,12,12.0,207.0,73,Oregon,3/3/2000,2,5.0,Miami Dolphins,Miami Dolphins,2.0,36.0,2021.0
+Justin Houston,34.0,LB,0,0.0,270.0,75,Georgia,1/21/1989,12,0.0,Miami Dolphins,Kansas City Chiefs,3.0,70.0,2011.0
+Xavien Howard,30.0,LCB,13,13.0,203.0,73,Baylor,7/4/1993,7,4.0,Miami Dolphins,Miami Dolphins,2.0,38.0,2016.0
+Robert Hunt,27.0,RG,11,10.0,323.0,78,Louisiana,8/25/1996,3,5.0,Miami Dolphins,Miami Dolphins,2.0,39.0,2020.0
+Alec Ingold,27.0,FB,17,13.0,232.0,73,Wisconsin,7/9/1996,4,1.0,Miami Dolphins,,,,
+Melvin Ingram,34.0,LB,3,0.0,247.0,74,South Carolina,4/26/1989,11,0.0,Miami Dolphins,San Diego Chargers,1.0,18.0,2012.0
+Bruce Irvin,36.0,LB,0,0.0,250.0,75,"Butler (KS),West Virginia",11/1/1987,11,0.0,Miami Dolphins,Seattle Seahawks,1.0,15.0,2012.0
+Austin Jackson,24.0,OL,16,16.0,310.0,77,USC,8/11/1999,3,8.0,Miami Dolphins,Miami Dolphins,1.0,18.0,2020.0
+Brandon Jones,25.0,SS,16,6.0,191.0,72,Texas,4/2/1998,3,3.0,Miami Dolphins,Miami Dolphins,3.0,70.0,2020.0
+Robert Jones,24.0,OL,8,5.0,322.0,76,"Highland (KS),Middle Tenn. St.",1/28/1999,2,3.0,Miami Dolphins,,,,
+Kelvin Joseph,24.0,CB,4,0.0,195.0,73,"LSU,Kentucky",11/11/1999,2,0.0,Miami Dolphins,Dallas Cowboys,2.0,44.0,2021.0
+Kader Kohou,25.0,CB,17,16.0,197.0,70,Texas A&M-Commerce,11/29/1998,1,5.0,Miami Dolphins,,,,
+Tyler Kroft,31.0,TE,8,0.0,252.0,78,Rutgers,10/15/1992,8,0.0,Miami Dolphins,Cincinnati Bengals,3.0,85.0,2015.0
+Kendall Lamm,31.0,T,17,8.0,305.0,78,Appalachian St.,6/5/1992,8,6.0,Miami Dolphins,,,,
+David Long,27.0,LB,17,17.0,225.0,71,West Virginia,10/12/1996,4,7.0,Miami Dolphins,Tennessee Titans,6.0,188.0,2019.0
+Raheem Mostert,31.0,RB,15,15.0,212.0,70,Purdue,4/9/1992,8,9.0,Miami Dolphins,,,,
+Calvin Munson,29.0,LB,5,0.0,240.0,73,San Diego St.,12/27/1994,6,0.0,Miami Dolphins,,,,
+Nik Needham,27.0,CB,10,0.0,196.0,73,Texas-El Paso,11/4/1996,4,1.0,Miami Dolphins,,,,
+Parry Nickerson,29.0,CB,5,0.0,182.0,70,Tulane,10/11/1994,5,0.0,Miami Dolphins,New York Jets,6.0,179.0,2018.0
+Emmanuel Ogbah,30.0,NT,15,1.0,275.0,76,Oklahoma St.,11/6/1993,7,2.0,Miami Dolphins,Cleveland Browns,2.0,32.0,2016.0
+Jaelan Phillips,24.0,LB,8,6.0,263.0,77,"UCLA,Miami (FL)",5/28/1999,2,3.0,Miami Dolphins,Miami Dolphins,1.0,18.0,2021.0
+Jason Pierre-Paul,34.0,DE,2,0.0,275.0,77,"College of the Canyons (CA),South Florida",1/1/1989,13,0.0,Miami Dolphins,New York Giants,1.0,15.0,2010.0
+Brandon Pili,24.0,DT,4,0.0,334.0,75,USC,4/2/1999,0,0.0,Miami Dolphins,,,,
+Jalen Ramsey,29.0,CB,10,10.0,211.0,73,Florida St.,10/24/1994,7,7.0,Miami Dolphins,Jacksonville Jaguars,1.0,5.0,2016.0
+Malik Reed,27.0,LB,0,0.0,245.0,74,Nevada,8/5/1996,4,0.0,Miami Dolphins,,,,
+Duke Riley,29.0,LB,17,5.0,227.0,73,LSU,8/9/1994,6,3.0,Miami Dolphins,Atlanta Falcons,3.0,75.0,2017.0
+Jason Sanders,28.0,K,17,0.0,195.0,71,New Mexico,11/16/1995,5,4.0,Miami Dolphins,Miami Dolphins,7.0,229.0,2018.0
+Zach Sieler,28.0,DT,17,17.0,300.0,78,Ferris St.,9/7/1995,5,9.0,Miami Dolphins,Baltimore Ravens,7.0,238.0,2018.0
+Cam Smith,23.0,CB,15,0.0,186.0,73,South Carolina,12/21/2000,0,1.0,Miami Dolphins,Miami Dolphins,2.0,51.0,2023.0
+Kion Smith,25.0,T,9,0.0,300.0,77,Fayetteville St.,10/7/1998,1,1.0,Miami Dolphins,,,,
+Durham Smythe,28.0,TE,16,14.0,248.0,77,Notre Dame,8/9/1995,5,4.0,Miami Dolphins,Miami Dolphins,4.0,123.0,2018.0
+Tua Tagovailoa,25.0,QB,17,17.0,225.0,73,Alabama,3/2/1998,3,16.0,Miami Dolphins,Miami Dolphins,1.0,5.0,2020.0
+Channing Tindall,23.0,LB,17,0.0,236.0,74,Georgia,3/28/2000,1,1.0,Miami Dolphins,Miami Dolphins,3.0,102.0,2022.0
+Andrew Van Ginkel,28.0,LOLB,17,11.0,242.0,76,Wisconsin,7/1/1995,4,6.0,Miami Dolphins,Miami Dolphins,5.0,151.0,2019.0
+Jaylen Waddle,25.0,WR,14,14.0,185.0,70,Alabama,11/25/1998,2,10.0,Miami Dolphins,Miami Dolphins,1.0,6.0,2021.0
+Mike White,28.0,QB,6,0.0,220.0,77,"South Florida,Western Kentucky",3/25/1995,2,0.0,Miami Dolphins,Dallas Cowboys,5.0,171.0,2018.0
+Christian Wilkins,28.0,LDE,17,17.0,310.0,76,Clemson,12/20/1995,4,8.0,Miami Dolphins,Miami Dolphins,1.0,13.0,2019.0
+Connor Williams,26.0,OL,9,9.0,310.0,77,Texas,5/12/1997,5,5.0,Miami Dolphins,Dallas Cowboys,2.0,50.0,2018.0
+Cedrick Wilson Jr.,28.0,WR,15,3.0,197.0,74,Boise St.,11/20/1995,4,3.0,Miami Dolphins,Dallas Cowboys,6.0,208.0,2018.0
+Jeff Wilson,28.0,RB,10,0.0,205.0,72,North Texas,11/16/1995,5,2.0,Miami Dolphins,,,,
+Chase Winovich,28.0,DE,3,0.0,251.0,75,Michigan,4/19/1995,4,0.0,Miami Dolphins,New England Patriots,3.0,77.0,2019.0
+Isaiah Wynn,28.0,T,7,7.0,305.0,74,Georgia,12/9/1995,4,4.0,Miami Dolphins,New England Patriots,1.0,23.0,2018.0

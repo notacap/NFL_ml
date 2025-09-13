@@ -1,0 +1,173 @@
+Quarter,Time,Down,ToGo,Location,MIA,NYJ,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Jets won the coin toss and deferred, Dolphins to receive the opening kickoff.",,,18.0,2024,269
+1.0,15:00,,,NYJ 35,0.0,0.0,"Greg Joseph kicks off 64 yards, returned by Malik Washington for 32 yards (tackle by Isaiah Oliver and Kendall Sheffield)",0.0,1.14,18.0,2024,269
+1.0,14:53,1.0,10.0,MIA 33,0.0,0.0,Tyler Huntley pass incomplete short right intended for Jonnu Smith,1.14,0.59,18.0,2024,269
+1.0,14:48,2.0,10.0,MIA 33,0.0,0.0,Tyler Huntley pass complete short left to Jaylen Waddle for -4 yards (tackle by Quincy Williams),0.59,-0.62,18.0,2024,269
+1.0,14:14,3.0,14.0,MIA 29,0.0,0.0,De'Von Achane right end for 6 yards (tackle by Isaiah Oliver and Jamien Sherwood),-0.62,-1.04,18.0,2024,269
+1.0,13:29,4.0,8.0,MIA 35,0.0,0.0,"Jake Bailey punts 49 yards, fair catch by Xavier Gipson at NYJ-16",-1.04,0.14,18.0,2024,269
+1.0,13:15,1.0,10.0,NYJ 16,0.0,0.0,Aaron Rodgers pass short right (defended by Jevon Holland) intended for Davante Adams is intercepted by Tyrel Dodson at NYJ-22 and returned for 7 yards (tackle by Carter Warren and John Simpson),-0.14,-4.58,18.0,2024,269
+1.0,13:04,1.0,10.0,NYJ 15,0.0,0.0,De'Von Achane left end for 2 yards (tackle by Ashtyn Davis),4.58,4.28,18.0,2024,269
+1.0,12:24,2.0,8.0,NYJ 13,0.0,0.0,Tyler Huntley scrambles left end for 5 yards (tackle by Chazz Surratt),4.28,4.45,18.0,2024,269
+1.0,11:55,3.0,3.0,NYJ 8,0.0,0.0,Tyler Huntley pass incomplete short left intended for Jaylen Waddle,4.45,2.98,18.0,2024,269
+1.0,11:49,4.0,3.0,NYJ 8,3.0,0.0,Jason Sanders 26 yard field goal good,2.98,3.0,18.0,2024,269
+1.0,11:46,,,MIA 35,3.0,0.0,"Jason Sanders kicks off 62 yards, returned by Xavier Gipson for 20 yards (tackle by Quinton Bell)",0.0,0.48,18.0,2024,269
+1.0,11:39,1.0,10.0,NYJ 23,3.0,0.0,Aaron Rodgers pass complete short right to Tyler Conklin for 11 yards (tackle by Kader Kohou),0.48,1.2,18.0,2024,269
+1.0,11:06,1.0,10.0,NYJ 34,3.0,0.0,Aaron Rodgers pass incomplete short right intended for Davante Adams (defended by Jalen Ramsey),1.2,0.66,18.0,2024,269
+1.0,10:53,2.0,10.0,NYJ 34,3.0,0.0,Aaron Rodgers pass complete short left to Davante Adams for -1 yards (tackle by Jalen Ramsey),0.66,-0.16,18.0,2024,269
+1.0,10:13,3.0,11.0,NYJ 33,3.0,0.0,Aaron Rodgers pass incomplete short middle intended for Breece Hall,-0.16,-1.18,18.0,2024,269
+1.0,10:09,4.0,11.0,NYJ 33,3.0,0.0,Thomas Morstead punts 34 yards,-1.18,-1.14,18.0,2024,269
+1.0,10:00,1.0,10.0,MIA 33,3.0,0.0,De'Von Achane left end for 20 yards (tackle by D.J. Reed),1.14,2.46,18.0,2024,269
+1.0,9:23,1.0,10.0,NYJ 47,3.0,0.0,Tyler Huntley pass incomplete short left intended for Jaylen Waddle,2.46,1.91,18.0,2024,269
+1.0,9:19,2.0,10.0,NYJ 47,3.0,0.0,Tyler Huntley pass complete short right to Tyreek Hill for 7 yards (tackle by Brandin Echols),1.91,2.15,18.0,2024,269
+1.0,8:49,3.0,3.0,NYJ 40,3.0,0.0,"Tyler Huntley sacked by Javon Kinlaw for -5 yards. Tyler Huntley fumbles (forced by Javon Kinlaw), recovered by Terron Armstead at NYJ-45",2.15,0.27,18.0,2024,269
+1.0,8:06,4.0,8.0,NYJ 45,3.0,0.0,Jake Bailey punts 19 yards. Xavier Gipson fumbles out of bounds,0.27,-0.67,18.0,2024,269
+1.0,7:56,1.0,10.0,NYJ 26,3.0,0.0,Breece Hall right end for 11 yards (tackle by Jordan Poyer and Storm Duck),0.67,1.4,18.0,2024,269
+1.0,7:12,1.0,10.0,NYJ 37,3.0,0.0,Breece Hall right end for -2 yards (tackle by Emmanuel Ogbah),1.4,0.59,18.0,2024,269
+1.0,6:32,2.0,12.0,NYJ 35,3.0,0.0,Breece Hall left tackle for -1 yards (tackle by Chop Robinson),0.59,-0.23,18.0,2024,269
+1.0,5:56,3.0,13.0,NYJ 34,3.0,0.0,Aaron Rodgers pass complete short left to Breece Hall for 5 yards (tackle by Jordyn Brooks),-0.23,-0.78,18.0,2024,269
+1.0,5:12,4.0,8.0,NYJ 39,3.0,0.0,"Thomas Morstead punts 49 yards, returned by Tyreek Hill for 2 yards (tackle by Jeremy Ruckert)",-0.78,0.28,18.0,2024,269
+1.0,5:00,1.0,10.0,MIA 14,3.0,0.0,De'Von Achane left end for -1 yards (tackle by Quincy Williams),-0.28,-0.85,18.0,2024,269
+1.0,4:28,2.0,11.0,MIA 13,3.0,0.0,Tyler Huntley pass complete short right to Alec Ingold for 9 yards (tackle by Jamien Sherwood),-0.85,-0.44,18.0,2024,269
+1.0,3:46,3.0,2.0,MIA 22,3.0,0.0,Tyler Huntley pass complete short right to Malik Washington for 8 yards (tackle by Isaiah Oliver),-0.44,0.94,18.0,2024,269
+1.0,3:09,1.0,10.0,MIA 30,3.0,0.0,"Penalty on Javon Kinlaw: Neutral Zone Infraction, 5 yards (accepted) (no play)",0.94,1.67,18.0,2024,269
+1.0,2:51,1.0,5.0,MIA 35,3.0,0.0,"Penalty on Patrick Paul: False Start, 5 yards (accepted) (no play)",1.67,0.94,18.0,2024,269
+1.0,2:38,1.0,10.0,MIA 30,3.0,0.0,Tyler Huntley scrambles right guard for 6 yards (tackle by Haason Reddick),0.94,1.14,18.0,2024,269
+1.0,1:58,2.0,5.0,MIA 36,3.0,0.0,De'Von Achane up the middle for 61 yards (tackle by D.J. Reed),1.14,6.51,18.0,2024,269
+1.0,1:25,1.0,3.0,NYJ 3,3.0,0.0,De'Von Achane left guard for -5 yards (tackle by Quincy Williams),6.51,4.57,18.0,2024,269
+1.0,0:49,2.0,8.0,NYJ 8,3.0,0.0,Tyler Huntley pass incomplete short left intended for Jonnu Smith (defended by Quincy Williams),4.57,3.58,18.0,2024,269
+1.0,0:44,3.0,8.0,NYJ 8,3.0,0.0,Tyler Huntley pass complete short right to Jonnu Smith for -2 yards (tackle by Ashtyn Davis),3.58,2.76,18.0,2024,269
+1.0,0:01,4.0,10.0,NYJ 10,6.0,0.0,Jason Sanders 28 yard field goal good,2.76,3.0,18.0,2024,269
+2.0,15:00,,,MIA 35,6.0,0.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,269
+2.0,15:00,1.0,10.0,NYJ 30,6.0,0.0,Aaron Rodgers pass complete short right to Braelon Allen for 5 yards (tackle by Jordan Poyer),0.94,1.07,18.0,2024,269
+2.0,14:22,2.0,5.0,NYJ 35,6.0,0.0,Aaron Rodgers pass incomplete short middle intended for Braelon Allen,1.07,0.37,18.0,2024,269
+2.0,14:17,3.0,5.0,NYJ 35,6.0,0.0,Aaron Rodgers pass incomplete deep right intended for Tyler Conklin (defended by Jordyn Brooks),0.37,-1.04,18.0,2024,269
+2.0,14:13,4.0,5.0,NYJ 35,6.0,0.0,"Penalty on Samuel Eguavoen: False Start, 5 yards (accepted) (no play)",-1.04,-1.37,18.0,2024,269
+2.0,14:13,4.0,10.0,NYJ 30,6.0,0.0,"Thomas Morstead punts 36 yards, fair catch by Tyreek Hill at MIA-34",-1.37,-1.2,18.0,2024,269
+2.0,14:06,1.0,10.0,MIA 34,6.0,0.0,Jaylen Wright right end for -9 yards (tackle by Will McDonald),1.2,-0.56,18.0,2024,269
+2.0,13:22,2.0,19.0,MIA 25,6.0,0.0,Jaylen Wright right guard for 1 yard (tackle by Javon Kinlaw and Quincy Williams),-0.56,-1.09,18.0,2024,269
+2.0,12:43,3.0,18.0,MIA 26,6.0,0.0,Tyler Huntley pass complete short left to Jonnu Smith for 11 yards (tackle by Isaiah Oliver),-1.09,-0.91,18.0,2024,269
+2.0,12:00,4.0,7.0,MIA 37,6.0,0.0,"Jake Bailey punts 53 yards, returned by Xavier Gipson for 11 yards (tackle by Siran Neal)",-0.91,-0.34,18.0,2024,269
+2.0,11:47,1.0,10.0,NYJ 21,6.0,0.0,Breece Hall left end for 8 yards (tackle by Zach Sieler),0.34,0.88,18.0,2024,269
+2.0,11:16,2.0,2.0,NYJ 29,6.0,0.0,Aaron Rodgers pass complete short left to Davante Adams for 16 yards,0.88,1.93,18.0,2024,269
+2.0,10:37,1.0,10.0,NYJ 45,6.0,0.0,Aaron Rodgers pass complete short left to Garrett Wilson for 11 yards (tackle by Jordyn Brooks),1.93,2.65,18.0,2024,269
+2.0,10:00,1.0,10.0,MIA 44,6.0,0.0,Aaron Rodgers pass complete short middle to Allen Lazard for 15 yards (tackle by Kader Kohou and Jordan Poyer),2.65,3.64,18.0,2024,269
+2.0,9:25,1.0,10.0,MIA 29,6.0,0.0,Braelon Allen left guard for 4 yards (tackle by Calais Campbell and Jordyn Brooks),3.64,3.64,18.0,2024,269
+2.0,8:54,2.0,6.0,MIA 25,6.0,0.0,Aaron Rodgers pass incomplete deep right intended for Davante Adams (defended by Storm Duck),3.64,2.94,18.0,2024,269
+2.0,8:47,3.0,6.0,MIA 25,6.0,0.0,Aaron Rodgers pass complete short right to Garrett Wilson for 20 yards (tackle by Chop Robinson and Jordan Poyer),2.94,6.06,18.0,2024,269
+2.0,8:01,1.0,5.0,MIA 5,6.0,6.0,"Aaron Rodgers pass complete short middle to Tyler Conklin for 5 yards, touchdown",6.06,7.0,18.0,2024,269
+2.0,7:57,,,MIA 15,6.0,7.0,Greg Joseph kicks extra point good,0.0,0.0,18.0,2024,269
+2.0,7:57,,,NYJ 35,6.0,7.0,"Greg Joseph kicks off 25 yards,. Penalty on Greg Joseph: Kickoff Short of Landing Zone (accepted)",0.0,1.6,18.0,2024,269
+2.0,7:57,1.0,10.0,MIA 40,6.0,7.0,Tyler Huntley pass complete deep left to Jaylen Waddle for 23 yards,1.6,3.12,18.0,2024,269
+2.0,7:18,1.0,10.0,NYJ 37,6.0,7.0,Tyler Huntley pass deep left intended for Jaylen Waddle is intercepted by Ashtyn Davis at NYJ-10 and returned for no gain (tackle by Jaylen Waddle),3.12,0.38,18.0,2024,269
+2.0,7:09,1.0,10.0,NYJ 10,6.0,7.0,Isaiah Davis right guard for 9 yards (tackle by Tyrel Dodson),-0.38,0.24,18.0,2024,269
+2.0,6:35,2.0,1.0,NYJ 19,6.0,7.0,Garrett Wilson left end for no gain (tackle by Jordan Poyer),0.24,-0.37,18.0,2024,269
+2.0,6:05,3.0,1.0,NYJ 19,6.0,7.0,Braelon Allen up the middle for 8 yards (tackle by Jordan Poyer),-0.37,0.74,18.0,2024,269
+2.0,5:36,1.0,10.0,NYJ 27,6.0,7.0,Aaron Rodgers pass incomplete short right,0.74,0.2,18.0,2024,269
+2.0,5:30,2.0,10.0,NYJ 27,6.0,7.0,Aaron Rodgers pass complete short middle to Davante Adams for 30 yards (tackle by Jevon Holland),0.2,2.72,18.0,2024,269
+2.0,4:50,1.0,10.0,MIA 43,6.0,7.0,Breece Hall left end for no gain (tackle by Storm Duck),2.72,2.18,18.0,2024,269
+2.0,4:14,2.0,10.0,MIA 43,6.0,7.0,Aaron Rodgers pass incomplete deep left intended for Davante Adams,2.18,1.49,18.0,2024,269
+2.0,4:08,3.0,10.0,MIA 43,6.0,7.0,Aaron Rodgers pass complete short right to Jeremy Ruckert for 5 yards (tackle by Storm Duck),1.49,0.72,18.0,2024,269
+2.0,3:22,4.0,5.0,MIA 38,6.0,7.0,Aaron Rodgers sacked by and Emmanuel Ogbah for -7 yards and Zach Sieler for -7 yards,0.72,-1.99,18.0,2024,269
+2.0,3:15,1.0,10.0,MIA 46,6.0,7.0,Tyler Huntley pass complete short right to Tyreek Hill for 13 yards (tackle by Isaiah Oliver),1.99,2.85,18.0,2024,269
+2.0,2:36,1.0,10.0,NYJ 41,6.0,7.0,Jeff Wilson right end for -2 yards (tackle by Ashtyn Davis and Haason Reddick),2.85,2.04,18.0,2024,269
+2.0,2:00,2.0,12.0,NYJ 43,6.0,7.0,"Tyler Huntley aborted snap, recovered by Tyler Huntley at NYJ-47 Tyler Huntley pass incomplete short middle intended for Jaylen Waddle",2.04,1.35,18.0,2024,269
+2.0,1:55,3.0,12.0,NYJ 43,6.0,7.0,"Tyler Huntley sacked by and Haason Reddick for -12 yards and Will McDonald for -12 yards. Tyler Huntley fumbles, recovered by Quincy Williams at MIA-43 and returned for 4 yards (tackle by Isaiah Wynn)",1.35,-2.98,18.0,2024,269
+2.0,1:47,1.0,10.0,MIA 39,6.0,7.0,Breece Hall right tackle for 13 yards (tackle by Jordyn Brooks and Jevon Holland),2.98,3.84,18.0,2024,269
+2.0,1:14,1.0,10.0,MIA 26,6.0,7.0,Aaron Rodgers pass complete short middle to Kenny Yeboah for 13 yards (tackle by Tyrel Dodson),3.84,4.71,18.0,2024,269
+2.0,1:04,,,,,,Timeout #1 by New York Jets,,,18.0,2024,269
+2.0,1:04,1.0,10.0,MIA 13,6.0,13.0,"Aaron Rodgers pass complete short left to Allen Lazard for 13 yards, touchdown",4.71,7.0,18.0,2024,269
+2.0,0:59,,,MIA 2,6.0,15.0,"Two Point Attempt: Breece Hall rushes, conversion succeeds.",1.0,1.0,18.0,2024,269
+2.0,0:59,,,NYJ 35,6.0,15.0,"Greg Joseph kicks off 59 yards, returned by Malik Washington for 67 yards (tackle by Jarius Monroe)",0.0,3.78,18.0,2024,269
+2.0,0:49,1.0,10.0,NYJ 27,6.0,15.0,De'Von Achane left tackle for 3 yards (tackle by Micheal Clemons),3.78,3.64,18.0,2024,269
+2.0,0:44,,,,,,Timeout #1 by Miami Dolphins,,,18.0,2024,269
+2.0,0:44,2.0,7.0,NYJ 24,6.0,15.0,Tyler Huntley pass complete short left to Malik Washington for 8 yards (tackle by Ashtyn Davis and Jamien Sherwood),3.64,4.51,18.0,2024,269
+2.0,0:37,,,,,,Timeout #2 by Miami Dolphins,,,18.0,2024,269
+2.0,0:37,1.0,10.0,NYJ 16,6.0,15.0,Tyler Huntley pass incomplete short right intended for Tyreek Hill,4.51,3.9,18.0,2024,269
+2.0,0:33,2.0,10.0,NYJ 16,6.0,15.0,"Tyler Huntley pass deep middle intended for Jaylen Waddle is intercepted by Ashtyn Davis in end zone and returned for 18 yards Ashtyn Davis pass complete short left to D.J. Reed for no gain. Penalty on Ashtyn Davis: Illegal Forward Pass, 5 yards (accepted)",3.9,0.35,18.0,2024,269
+2.0,0:21,1.0,10.0,NYJ 12,6.0,15.0,Isaiah Davis left tackle for 2 yards (tackle by Zach Sieler),-0.35,-0.61,18.0,2024,269
+3.0,15:00,,,MIA 35,6.0,15.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,269
+3.0,15:00,1.0,10.0,NYJ 30,6.0,15.0,"Breece Hall right end for 2 yards (tackle by Jevon Holland). Penalty on Joe Tippmann: Offensive Low Block, 15 yards (accepted)",0.94,-0.21,18.0,2024,269
+3.0,14:30,1.0,23.0,NYJ 17,6.0,15.0,Aaron Rodgers pass complete short left to Breece Hall for 4 yards (tackle by Kader Kohou and Benito Jones),-0.21,-0.82,18.0,2024,269
+3.0,13:51,2.0,19.0,NYJ 21,6.0,15.0,Aaron Rodgers sacked by Calais Campbell for -9 yards,-0.82,-3.53,18.0,2024,269
+3.0,13:04,3.0,28.0,NYJ 12,6.0,15.0,Isaiah Davis right tackle for 10 yards (tackle by Jordyn Brooks),-3.53,-1.9,18.0,2024,269
+3.0,12:30,4.0,18.0,NYJ 22,6.0,15.0,"Thomas Morstead punts 38 yards, fair catch by Tyreek Hill at MIA-40",-1.9,-1.6,18.0,2024,269
+3.0,12:21,1.0,10.0,MIA 40,6.0,15.0,De'Von Achane right end for 12 yards (tackle by Ashtyn Davis),1.6,2.39,18.0,2024,269
+3.0,11:37,1.0,10.0,NYJ 48,6.0,15.0,"Penalty on Javon Kinlaw: Neutral Zone Infraction, 5 yards (accepted) (no play)",2.39,3.12,18.0,2024,269
+3.0,11:24,1.0,5.0,NYJ 43,6.0,15.0,"Tyler Huntley sacked by. Tyler Huntley fumbles, recovered by Tyler Huntley at NYJ-48",3.12,1.85,18.0,2024,269
+3.0,10:34,2.0,10.0,NYJ 48,6.0,15.0,"Tyler Huntley pass complete short right to Jonnu Smith for -3 yards. Jonnu Smith fumbles (tackle by Tony Adams, recovered by Solomon Thomas at MIA-49",1.85,-2.32,18.0,2024,269
+3.0,10:33,1.0,10.0,MIA 49,6.0,15.0,Aaron Rodgers pass complete short right to Braelon Allen for 3 yards (tackle by Kader Kohou),2.32,2.19,18.0,2024,269
+3.0,10:03,2.0,7.0,MIA 46,6.0,15.0,Isaiah Davis right end for 20 yards (tackle by Kader Kohou),2.19,3.84,18.0,2024,269
+3.0,9:28,1.0,10.0,MIA 26,6.0,15.0,Aaron Rodgers sacked by Zach Sieler for -1 yards,3.84,3.16,18.0,2024,269
+3.0,8:47,2.0,11.0,MIA 27,6.0,15.0,"Aaron Rodgers pass complete short right to Davante Adams for 10 yards MIA challenged the pass completion ruling, and the play was upheld.",3.16,3.95,18.0,2024,269
+3.0,8:18,3.0,1.0,MIA 17,6.0,15.0,Allen Lazard pass incomplete deep right,3.95,2.46,18.0,2024,269
+3.0,8:10,4.0,1.0,MIA 17,6.0,15.0,Braelon Allen right guard for 2 yards (tackle by Zach Sieler),2.46,4.58,18.0,2024,269
+3.0,7:30,1.0,10.0,MIA 15,6.0,15.0,"Aaron Rodgers pass incomplete short right intended for Davante Adams. Penalty on Storm Duck: Defensive Pass Interference, 12 yards (accepted) (no play)",4.58,6.51,18.0,2024,269
+3.0,7:26,1.0,3.0,MIA 3,6.0,15.0,Aaron Rodgers pass incomplete short left intended for Davante Adams,6.51,5.53,18.0,2024,269
+3.0,7:21,2.0,3.0,MIA 3,6.0,15.0,Braelon Allen left guard for 1 yard (tackle by Calais Campbell and Quinton Bell),5.53,4.95,18.0,2024,269
+3.0,6:43,3.0,2.0,MIA 2,6.0,15.0,Aaron Rodgers pass incomplete short middle intended for Davante Adams,4.95,3.25,18.0,2024,269
+3.0,6:38,4.0,2.0,MIA 2,6.0,18.0,Greg Joseph 20 yard field goal good,3.25,3.0,18.0,2024,269
+3.0,6:35,,,NYJ 35,6.0,18.0,"Greg Joseph kicks off 62 yards, returned by Raheem Mostert for 19 yards (tackle by Jarius Monroe)",0.0,0.41,18.0,2024,269
+3.0,6:31,1.0,10.0,MIA 22,6.0,18.0,De'Von Achane left end for 5 yards (tackle by Jamien Sherwood),0.41,0.54,18.0,2024,269
+3.0,5:51,2.0,5.0,MIA 27,6.0,18.0,Jaylen Waddle left end for 6 yards (tackle by D.J. Reed),0.54,1.14,18.0,2024,269
+3.0,5:14,1.0,10.0,MIA 33,6.0,18.0,"Tyler Huntley pass incomplete short middle intended for Julian Hill (defended by Will McDonald). Penalty on Patrick Paul: Ineligible Downfield Pass, 5 yards (declined)",1.14,0.59,18.0,2024,269
+3.0,5:10,2.0,10.0,MIA 33,6.0,18.0,Tyler Huntley pass complete short left to Jonnu Smith for 12 yards (tackle by Tony Adams),0.59,1.93,18.0,2024,269
+3.0,4:30,1.0,10.0,MIA 45,6.0,18.0,Jaylen Wright left end for -4 yards (tackle by Quincy Williams),1.93,0.84,18.0,2024,269
+3.0,3:49,2.0,14.0,MIA 41,6.0,18.0,Tyler Huntley pass complete short middle to Jonnu Smith for 6 yards (tackle by Jamien Sherwood),0.84,0.96,18.0,2024,269
+3.0,3:10,3.0,8.0,MIA 47,6.0,18.0,"Tyler Huntley pass complete short left to Malik Washington for 12 yards (tackle by Isaiah Oliver) NYJ challenged the pass completion ruling, and the play was upheld.",0.96,2.85,18.0,2024,269
+3.0,2:35,1.0,10.0,NYJ 41,6.0,18.0,Jaylen Wright up the middle for 3 yards (tackle by Quincy Williams),2.85,2.71,18.0,2024,269
+3.0,2:00,2.0,7.0,NYJ 38,6.0,18.0,Jaylen Wright right end for 8 yards (tackle by Ashtyn Davis),2.71,3.58,18.0,2024,269
+3.0,1:19,1.0,10.0,NYJ 30,6.0,18.0,Jaylen Wright left tackle for -3 yards (tackle by Quincy Williams),3.58,2.63,18.0,2024,269
+3.0,0:38,2.0,13.0,NYJ 33,6.0,18.0,Malik Washington right end for no gain (tackle by Solomon Thomas) (no play),2.63,1.95,18.0,2024,269
+3.0,0:13,2.0,18.0,NYJ 38,6.0,18.0,Tyler Huntley pass complete short left to Alec Ingold for 12 yards (tackle by D.J. Reed and Tony Adams),1.95,2.87,18.0,2024,269
+4.0,15:00,3.0,6.0,NYJ 26,6.0,18.0,Tyler Huntley pass complete short right to River Cracraft for 11 yards (tackle by D.J. Reed),2.87,4.58,18.0,2024,269
+4.0,14:23,1.0,10.0,NYJ 15,6.0,18.0,Tyler Huntley pass incomplete short right,4.58,3.95,18.0,2024,269
+4.0,14:17,2.0,10.0,NYJ 15,12.0,18.0,"De'Von Achane up the middle for 15 yards, touchdown",3.95,7.0,18.0,2024,269
+4.0,14:12,,,NYJ 15,13.0,18.0,Jason Sanders kicks extra point good,0.0,0.0,18.0,2024,269
+4.0,14:12,,,MIA 35,13.0,18.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,269
+4.0,14:12,1.0,10.0,NYJ 30,13.0,18.0,Aaron Rodgers pass complete short right to Kenny Yeboah for 7 yards (tackle by Tyrel Dodson and Elijah Campbell),0.94,1.34,18.0,2024,269
+4.0,13:31,2.0,3.0,NYJ 37,13.0,18.0,Xavier Gipson left end for 5 yards (tackle by Jevon Holland),1.34,1.73,18.0,2024,269
+4.0,12:51,1.0,10.0,NYJ 42,13.0,18.0,Breece Hall left tackle for 2 yards (tackle by Jordyn Brooks and Chop Robinson),1.73,1.46,18.0,2024,269
+4.0,12:12,2.0,8.0,NYJ 44,13.0,18.0,Aaron Rodgers pass incomplete short right intended for Breece Hall,1.46,0.76,18.0,2024,269
+4.0,12:06,3.0,8.0,NYJ 44,13.0,18.0,Aaron Rodgers pass complete deep middle to Allen Lazard for 43 yards (tackle by Jordan Poyer),0.76,4.71,18.0,2024,269
+4.0,11:19,1.0,10.0,MIA 13,13.0,18.0,Aaron Rodgers pass complete short right to Garrett Wilson for 9 yards (tackle by Jalen Ramsey),4.71,5.73,18.0,2024,269
+4.0,10:31,2.0,1.0,MIA 4,13.0,24.0,"Aaron Rodgers pass complete short right to Davante Adams for 4 yards, touchdown",5.73,7.0,18.0,2024,269
+4.0,10:24,,,MIA 15,13.0,25.0,Greg Joseph kicks extra point good,0.0,0.0,18.0,2024,269
+4.0,10:24,,,NYJ 35,13.0,25.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,269
+4.0,10:24,1.0,10.0,MIA 30,13.0,25.0,Tyler Huntley pass complete short right to Jonnu Smith for 15 yards,0.94,1.93,18.0,2024,269
+4.0,9:52,1.0,10.0,MIA 45,13.0,25.0,De'Von Achane left end for 3 yards (tackle by Quincy Williams and Bruce Hector),1.93,1.79,18.0,2024,269
+4.0,9:16,2.0,7.0,MIA 48,13.0,25.0,Tyler Huntley pass incomplete deep right intended for Jonnu Smith,1.79,1.09,18.0,2024,269
+4.0,9:05,3.0,7.0,MIA 48,13.0,25.0,Tyler Huntley pass incomplete short left,1.09,-0.19,18.0,2024,269
+4.0,9:00,,,,,,Timeout #2 by Miami Dolphins,,,18.0,2024,269
+4.0,9:00,4.0,7.0,MIA 48,13.0,25.0,Tyler Huntley pass complete deep right to Malik Washington for 20 yards (tackle by Brandin Echols),-0.19,3.45,18.0,2024,269
+4.0,8:19,1.0,10.0,NYJ 32,13.0,25.0,Tyler Huntley pass complete deep middle to Jaylen Waddle for 17 yards (tackle by Ashtyn Davis),3.45,4.58,18.0,2024,269
+4.0,7:44,1.0,10.0,NYJ 15,13.0,25.0,Tyler Huntley pass incomplete short right,4.58,3.95,18.0,2024,269
+4.0,7:38,2.0,10.0,NYJ 15,13.0,25.0,Tyler Huntley pass complete short right to Jonnu Smith for 9 yards (tackle by Tony Adams and Jamien Sherwood),3.95,4.9,18.0,2024,269
+4.0,6:55,3.0,1.0,NYJ 6,13.0,25.0,Jeff Wilson left tackle for -2 yards (tackle by Bruce Hector),4.9,2.98,18.0,2024,269
+4.0,6:15,4.0,3.0,NYJ 8,13.0,25.0,Tyler Huntley pass complete short right to River Cracraft for 4 yards (tackle by Isaiah Oliver),2.98,6.28,18.0,2024,269
+4.0,5:33,1.0,4.0,NYJ 4,13.0,25.0,Tyler Huntley pass incomplete short middle intended for Durham Smythe (defended by D.J. Reed),6.28,5.34,18.0,2024,269
+4.0,5:24,2.0,4.0,NYJ 4,19.0,25.0,"Tyler Huntley pass complete short left to Jonnu Smith for 4 yards, touchdown. Penalty on Brandin Echols: Illegal Use of Hands / Defense, 5 yards (declined)",5.34,7.0,18.0,2024,269
+4.0,5:21,,,NYJ 15,20.0,25.0,Jason Sanders kicks extra point good,0.0,0.0,18.0,2024,269
+4.0,5:21,,,MIA 35,20.0,25.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,269
+4.0,5:21,1.0,10.0,NYJ 30,20.0,25.0,Aaron Rodgers pass incomplete short right intended for Garrett Wilson,0.94,0.39,18.0,2024,269
+4.0,5:18,2.0,10.0,NYJ 30,20.0,25.0,Breece Hall left guard for 2 yards (tackle by Zach Sieler and Benito Jones),0.39,-0.03,18.0,2024,269
+4.0,4:34,3.0,8.0,NYJ 32,20.0,25.0,Aaron Rodgers pass complete deep right to Davante Adams for 29 yards (tackle by Storm Duck),-0.03,2.98,18.0,2024,269
+4.0,4:27,1.0,10.0,MIA 39,20.0,25.0,Aaron Rodgers pass complete short right to Garrett Wilson for 11 yards (tackle by Jalen Ramsey),2.98,3.71,18.0,2024,269
+4.0,4:22,1.0,10.0,MIA 28,20.0,25.0,Breece Hall left tackle for 4 yards (tackle by Jordan Poyer and Jevon Holland),3.71,3.71,18.0,2024,269
+4.0,3:35,,,,,,Timeout #2 by New York Jets,,,18.0,2024,269
+4.0,3:35,2.0,6.0,MIA 24,20.0,25.0,"Aaron Rodgers pass incomplete short right intended for Jeremy Ruckert (defended by Tyrel Dodson). Penalty on Zack Bailey: Ineligible Downfield Pass, 5 yards (declined)",3.71,3.01,18.0,2024,269
+4.0,3:30,3.0,6.0,MIA 24,20.0,25.0,Breece Hall right guard for 17 yards (tackle by Jevon Holland),3.01,5.6,18.0,2024,269
+4.0,2:41,1.0,7.0,MIA 7,20.0,25.0,Breece Hall right tackle for 1 yard (tackle by Tyrel Dodson and Jevon Holland),5.6,4.95,18.0,2024,269
+4.0,2:37,,,,,,Timeout #3 by Miami Dolphins,,,18.0,2024,269
+4.0,2:37,2.0,6.0,MIA 6,20.0,31.0,"Aaron Rodgers pass complete short right to Breece Hall for 6 yards, touchdown",4.95,7.0,18.0,2024,269
+4.0,2:30,,,MIA 15,20.0,32.0,Greg Joseph kicks extra point good,0.0,0.0,18.0,2024,269
+4.0,2:30,,,NYJ 35,20.0,32.0,"Greg Joseph kicks off 62 yards, returned by Malik Washington for 23 yards (tackle by Jarius Monroe)",0.0,0.67,18.0,2024,269
+4.0,2:25,1.0,10.0,MIA 26,20.0,32.0,Tyler Huntley pass complete short left to Jaylen Waddle for 8 yards (tackle by Isaiah Oliver),0.67,1.21,18.0,2024,269
+4.0,2:04,2.0,2.0,MIA 34,20.0,32.0,Tyler Huntley pass incomplete short right intended for Malik Washington,1.21,0.5,18.0,2024,269
+4.0,2:01,3.0,2.0,MIA 34,20.0,32.0,Tyler Huntley pass incomplete short right,0.5,-1.11,18.0,2024,269
+4.0,1:55,4.0,2.0,MIA 34,20.0,32.0,Tyler Huntley scrambles right end for 5 yards (tackle by Micheal Clemons),-1.11,1.53,18.0,2024,269
+4.0,1:35,1.0,10.0,MIA 39,20.0,32.0,Tyler Huntley pass complete short right to River Cracraft for 15 yards (tackle by Ashtyn Davis),1.53,2.52,18.0,2024,269
+4.0,1:04,1.0,10.0,NYJ 46,20.0,32.0,Tyler Huntley pass complete short right to River Cracraft for 8 yards (tackle by Ashtyn Davis),2.52,3.06,18.0,2024,269
+4.0,0:54,,,,,,Timeout #3 by New York Jets,,,18.0,2024,269
+4.0,0:54,2.0,2.0,NYJ 38,20.0,32.0,Tyler Huntley pass complete short right to Jonnu Smith for 4 yards (tackle by Brandin Echols),3.06,3.31,18.0,2024,269
+4.0,0:37,1.0,10.0,NYJ 34,20.0,32.0,"Tyler Huntley pass complete short left to De'Von Achane for no gain (tackle by Tony Adams). Penalty on Terron Armstead: Offensive Holding, 10 yards (accepted) (no play)",3.31,2.65,18.0,2024,269
+4.0,0:29,1.0,20.0,NYJ 44,20.0,32.0,Tyler Huntley sacked by Bruce Hector for -6 yards,2.65,0.61,18.0,2024,269

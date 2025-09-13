@@ -1,0 +1,151 @@
+Quarter,Time,Down,ToGo,Location,DAL,WAS,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Cowboys won the coin toss and deferred, Commanders to receive the opening kickoff.",,,18.0,2023,267
+1.0,15:00,,,DAL 35,0.0,0.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,267
+1.0,15:00,1.0,10.0,WAS 25,0.0,0.0,Curtis Samuel left end for 15 yards (tackle by Dorance Armstrong),0.61,1.6,18.0,2023,267
+1.0,14:20,1.0,10.0,WAS 40,0.0,0.0,Brian Robinson up the middle for no gain (tackle by Micah Parsons),1.6,1.05,18.0,2023,267
+1.0,13:40,2.0,10.0,WAS 40,0.0,0.0,Brian Robinson left guard for 9 yards (tackle by DeMarcus Lawrence),1.05,1.55,18.0,2023,267
+1.0,13:00,3.0,1.0,WAS 49,0.0,0.0,Sam Howell pass incomplete deep right intended for Terry McLaurin (defended by Stephon Gilmore),1.55,-0.13,18.0,2023,267
+1.0,12:53,4.0,1.0,WAS 49,0.0,0.0,Sam Howell pass complete short right to Brian Robinson for 11 yards (tackle by Stephon Gilmore),-0.13,2.92,18.0,2023,267
+1.0,12:18,1.0,10.0,DAL 40,0.0,0.0,Sam Howell pass complete short right to Terry McLaurin for 5 yards (tackle by Stephon Gilmore),2.92,3.05,18.0,2023,267
+1.0,11:47,2.0,5.0,DAL 35,0.0,0.0,Sam Howell pass complete short right to Antonio Gibson for 3 yards (tackle by Stephon Gilmore),3.05,2.74,18.0,2023,267
+1.0,11:04,3.0,2.0,DAL 32,0.0,0.0,Brian Robinson right end for 1 yard (tackle by Markquese Bell and Micah Parsons),2.74,1.41,18.0,2023,267
+1.0,10:21,4.0,1.0,DAL 31,0.0,0.0,Sam Howell pass complete short left to Brian Robinson for -2 yards (tackle by Jayron Kearse and Donovan Wilson),1.41,-1.14,18.0,2023,267
+1.0,10:13,1.0,10.0,DAL 33,0.0,0.0,Dak Prescott pass complete short left to Brandin Cooks for 15 yards (tackle by Emmanuel Forbes),1.14,2.13,18.0,2023,267
+1.0,9:44,1.0,10.0,DAL 48,0.0,0.0,Tony Pollard left tackle for 6 yards (tackle by David Mayo),2.13,2.39,18.0,2023,267
+1.0,9:14,2.0,4.0,WAS 46,0.0,0.0,Dak Prescott pass complete short right to CeeDee Lamb for 15 yards (tackle by Terrell Burgess),2.39,3.51,18.0,2023,267
+1.0,8:42,1.0,10.0,WAS 31,0.0,0.0,Dak Prescott pass complete short middle to CeeDee Lamb for 9 yards (tackle by Benjamin St-Juste),3.51,4.18,18.0,2023,267
+1.0,8:12,2.0,1.0,WAS 22,0.0,0.0,Tony Pollard right tackle for 4 yards (tackle by Terrell Burgess),4.18,4.37,18.0,2023,267
+1.0,7:35,1.0,10.0,WAS 18,0.0,0.0,Brandin Cooks left end for 3 yards (tackle by Emmanuel Forbes and Khaleke Hudson),4.37,4.25,18.0,2023,267
+1.0,7:01,2.0,7.0,WAS 15,0.0,0.0,Dak Prescott pass complete short left to Tony Pollard for 12 yards (tackle by Khaleke Hudson),4.25,6.51,18.0,2023,267
+1.0,6:30,1.0,3.0,WAS 3,6.0,0.0,"Dak Prescott pass complete short middle to Jalen Tolbert for 3 yards, touchdown",6.51,7.0,18.0,2023,267
+1.0,6:26,,,WAS 15,7.0,0.0,Brandon Aubrey kicks extra point good,0.0,0.0,18.0,2023,267
+1.0,6:26,,,DAL 35,7.0,0.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,267
+1.0,6:26,1.0,10.0,WAS 25,7.0,0.0,"Brian Robinson right guard for 5 yards. Brian Robinson fumbles (forced by Jourdan Lewis), recovered by Jourdan Lewis at WAS-31 (tackle by Jourdan Lewis)",0.61,-3.51,18.0,2023,267
+1.0,6:19,1.0,10.0,WAS 31,7.0,0.0,KaVontae Turpin left end for 5 yards (tackle by Sean Chandler),3.51,3.64,18.0,2023,267
+1.0,5:48,2.0,5.0,WAS 26,7.0,0.0,Tony Pollard left end for 3 yards (tackle by Abdullah Anderson),3.64,3.34,18.0,2023,267
+1.0,5:18,3.0,2.0,WAS 23,7.0,0.0,Dak Prescott pass incomplete deep left intended for Brandin Cooks,3.34,2.05,18.0,2023,267
+1.0,5:13,4.0,2.0,WAS 23,7.0,0.0,Dak Prescott pass complete short middle to Jake Ferguson for 8 yards (tackle by Terrell Burgess and Sean Chandler),2.05,4.58,18.0,2023,267
+1.0,4:49,1.0,10.0,WAS 15,7.0,0.0,Tony Pollard left tackle for no gain (tackle by Jalen Harris),4.58,3.95,18.0,2023,267
+1.0,4:18,2.0,10.0,WAS 15,7.0,0.0,Dak Prescott pass incomplete short left intended for Michael Gallup,3.95,3.1,18.0,2023,267
+1.0,4:13,3.0,10.0,WAS 15,7.0,0.0,Dak Prescott pass complete short right to CeeDee Lamb for 1 yard (tackle by Quan Martin),3.1,2.51,18.0,2023,267
+1.0,3:33,4.0,9.0,WAS 14,7.0,0.0,Brandon Aubrey 32 yard field goal no good blocked by Joshua Pryor (tackle by Chauncey Golston),2.51,-4.24,18.0,2023,267
+1.0,3:21,1.0,10.0,DAL 20,7.0,0.0,Brian Robinson up the middle for no gain (tackle by DeMarcus Lawrence and Johnathan Hankins),4.24,3.69,18.0,2023,267
+1.0,2:48,2.0,10.0,DAL 20,7.0,0.0,Sam Howell pass incomplete deep middle intended for Jahan Dotson (defended by Damone Clark),3.69,3.01,18.0,2023,267
+1.0,2:41,3.0,10.0,DAL 20,7.0,0.0,Sam Howell pass complete short middle to Alex Armah for 10 yards (tackle by Donovan Wilson and Dorance Armstrong),3.01,4.91,18.0,2023,267
+1.0,2:00,1.0,10.0,DAL 10,7.0,0.0,Brian Robinson up the middle for 1 yard (tackle by DeMarcus Lawrence),4.91,4.38,18.0,2023,267
+1.0,1:24,2.0,9.0,DAL 9,7.0,0.0,Dyami Brown pass complete short left to Sam Howell for 4 yards (tackle by Stephon Gilmore),4.38,4.26,18.0,2023,267
+1.0,0:37,3.0,5.0,DAL 5,7.0,0.0,Sam Howell scrambles right end for 4 yards (tackle by Micah Parsons),4.26,3.55,18.0,2023,267
+2.0,15:00,4.0,1.0,DAL 1,7.0,6.0,"Sam Howell pass complete short left to Brian Robinson for 1 yard, touchdown",3.55,7.0,18.0,2023,267
+2.0,14:57,,,DAL 15,7.0,7.0,Joey Slye kicks extra point good,0.0,0.0,18.0,2023,267
+2.0,14:57,,,WAS 35,7.0,7.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,267
+2.0,14:57,1.0,10.0,DAL 25,7.0,7.0,Tony Pollard right guard for 5 yards (tackle by K.J. Henry),0.61,0.74,18.0,2023,267
+2.0,14:27,2.0,5.0,DAL 30,7.0,7.0,Tony Pollard left tackle for 5 yards (tackle by Quan Martin and Abdullah Anderson),0.74,1.27,18.0,2023,267
+2.0,13:54,1.0,10.0,DAL 35,7.0,7.0,CeeDee Lamb right end for 7 yards (tackle by Quan Martin),1.27,1.67,18.0,2023,267
+2.0,13:23,2.0,3.0,DAL 42,7.0,7.0,Dak Prescott pass complete short right to Brandin Cooks for 4 yards (tackle by Terrell Burgess),1.67,1.99,18.0,2023,267
+2.0,12:46,1.0,10.0,DAL 46,7.0,7.0,Dak Prescott pass complete short right to Jake Ferguson for 11 yards (tackle by Terrell Burgess),1.99,2.72,18.0,2023,267
+2.0,12:17,1.0,10.0,WAS 43,7.0,7.0,Dak Prescott pass complete short middle to Tony Pollard for 4 yards (tackle by Cody Barton),2.72,2.72,18.0,2023,267
+2.0,11:44,2.0,6.0,WAS 39,7.0,7.0,Dak Prescott pass short middle (defended by Jalen Harris) intended for Michael Gallup is intercepted by Quan Martin at WAS-38 and returned for 7 yards (tackle by Tyler Biadasz),2.72,-1.93,18.0,2023,267
+2.0,11:30,1.0,10.0,WAS 45,7.0,7.0,Sam Howell pass incomplete deep right intended for John Bates,1.93,1.38,18.0,2023,267
+2.0,11:25,2.0,10.0,WAS 45,7.0,7.0,Sam Howell pass complete short middle to Logan Thomas for 9 yards (tackle by Donovan Wilson),1.38,1.88,18.0,2023,267
+2.0,10:52,3.0,1.0,DAL 46,7.0,7.0,Sam Howell left tackle for no gain (tackle by Damone Clark),1.88,0.2,18.0,2023,267
+2.0,10:16,4.0,1.0,DAL 46,7.0,7.0,Brian Robinson right guard for 2 yards (tackle by Donovan Wilson and Damone Clark),0.2,2.65,18.0,2023,267
+2.0,9:28,1.0,10.0,DAL 44,7.0,7.0,Sam Howell pass complete short middle to Terry McLaurin for 19 yards (tackle by Donovan Wilson),2.65,3.91,18.0,2023,267
+2.0,8:45,1.0,10.0,DAL 25,7.0,7.0,Sam Howell pass complete short left to Curtis Samuel for 9 yards (tackle by Jourdan Lewis),3.91,4.75,18.0,2023,267
+2.0,7:59,2.0,1.0,DAL 16,7.0,7.0,Sam Howell pass incomplete deep left intended for Curtis Samuel,4.75,4.06,18.0,2023,267
+2.0,7:52,,,,,,Timeout #1 by Washington Commanders,,,18.0,2023,267
+2.0,7:52,3.0,1.0,DAL 16,7.0,7.0,"Penalty on John Bates: False Start, 4 yards (accepted) (no play)",4.06,3.34,18.0,2023,267
+2.0,7:52,3.0,5.0,DAL 20,7.0,7.0,"Penalty on Samuel Cosmi: False Start, 5 yards (accepted) (no play)",3.34,2.68,18.0,2023,267
+2.0,7:52,3.0,10.0,DAL 25,7.0,7.0,Sam Howell pass complete short middle to Jamison Crowder for 8 yards (tackle by DaRon Bland),2.68,2.44,18.0,2023,267
+2.0,7:07,4.0,2.0,DAL 17,7.0,10.0,Joey Slye 36 yard field goal good,2.44,3.0,18.0,2023,267
+2.0,7:04,,,WAS 35,7.0,10.0,"Joey Slye kicks off 65 yards, returned by KaVontae Turpin for 29 yards (tackle by Joey Slye)",0.0,0.87,18.0,2023,267
+2.0,6:58,1.0,10.0,DAL 29,7.0,10.0,"Dak Prescott pass complete short right to CeeDee Lamb for 8 yards (tackle by Emmanuel Forbes). Penalty on Cody Barton: Unnecessary Roughness / Defense, 15 yards (accepted)",0.87,2.39,18.0,2023,267
+2.0,6:48,1.0,10.0,WAS 48,7.0,10.0,Dak Prescott pass complete short left to Jake Ferguson for 12 yards (tackle by Khaleke Hudson and David Mayo),2.39,3.18,18.0,2023,267
+2.0,6:08,1.0,10.0,WAS 36,7.0,10.0,Tony Pollard left guard for 9 yards (tackle by Sean Chandler),3.18,3.85,18.0,2023,267
+2.0,5:35,2.0,1.0,WAS 27,7.0,10.0,Rico Dowdle left tackle for 5 yards (tackle by Daron Payne),3.85,4.11,18.0,2023,267
+2.0,5:10,1.0,10.0,WAS 22,7.0,10.0,Tony Pollard left guard for 9 yards (tackle by Cody Barton and Daron Payne),4.11,5.06,18.0,2023,267
+2.0,4:36,2.0,1.0,WAS 13,7.0,10.0,Tony Pollard left end for 12 yards (tackle by Quan Martin),5.06,6.97,18.0,2023,267
+2.0,4:15,1.0,1.0,WAS 1,13.0,10.0,"Tony Pollard right tackle for 1 yard, touchdown",6.97,7.0,18.0,2023,267
+2.0,4:12,,,WAS 15,14.0,10.0,Brandon Aubrey kicks extra point good,0.0,0.0,18.0,2023,267
+2.0,4:12,,,DAL 35,14.0,10.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,267
+2.0,4:12,1.0,10.0,WAS 25,14.0,10.0,Sam Howell pass complete short right to Curtis Samuel for 6 yards (tackle by Damone Clark),0.61,0.87,18.0,2023,267
+2.0,3:38,2.0,4.0,WAS 31,14.0,10.0,Sam Howell pass complete short left to Jahan Dotson for 11 yards (tackle by DaRon Bland),0.87,1.73,18.0,2023,267
+2.0,2:53,1.0,10.0,WAS 42,14.0,10.0,Sam Howell pass complete short right to Jahan Dotson for 6 yards (tackle by Stephon Gilmore),1.73,2.0,18.0,2023,267
+2.0,2:15,2.0,4.0,WAS 48,14.0,10.0,Sam Howell sacked by Dante Fowler for -8 yards,2.0,0.23,18.0,2023,267
+2.0,2:00,3.0,12.0,WAS 40,14.0,10.0,Sam Howell pass complete short right to Terry McLaurin for 13 yards (tackle by Stephon Gilmore),0.23,2.46,18.0,2023,267
+2.0,1:55,,,,,,Timeout #1 by Dallas Cowboys,,,18.0,2023,267
+2.0,1:55,1.0,10.0,DAL 47,14.0,10.0,Sam Howell pass incomplete short middle intended for Logan Thomas (defended by Markquese Bell),2.46,1.91,18.0,2023,267
+2.0,1:51,2.0,10.0,DAL 47,14.0,10.0,Sam Howell pass incomplete short left intended for Antonio Gibson (defended by DeMarcus Lawrence),1.91,1.22,18.0,2023,267
+2.0,1:47,3.0,10.0,DAL 47,14.0,10.0,Sam Howell pass short middle (defended by DeMarcus Lawrence) intended for Curtis Samuel is intercepted by Donovan Wilson at DAL-35 and returned for no gain (tackle by Curtis Samuel),1.22,-1.27,18.0,2023,267
+2.0,1:40,1.0,10.0,DAL 35,14.0,10.0,Dak Prescott pass incomplete short left intended for Rico Dowdle,1.27,0.72,18.0,2023,267
+2.0,1:37,2.0,10.0,DAL 35,14.0,10.0,Dak Prescott pass complete short left to Rico Dowdle for 32 yards (tackle by Benjamin St-Juste),0.72,3.38,18.0,2023,267
+2.0,1:07,1.0,10.0,WAS 33,14.0,10.0,Dak Prescott pass complete short right to CeeDee Lamb for 15 yards (tackle by Emmanuel Forbes),3.38,4.37,18.0,2023,267
+2.0,1:00,1.0,10.0,WAS 18,14.0,10.0,Dak Prescott pass complete short left to CeeDee Lamb for 6 yards (tackle by Khaleke Hudson),4.37,4.81,18.0,2023,267
+2.0,0:36,2.0,4.0,WAS 12,14.0,10.0,Dak Prescott pass complete short middle to Brandin Cooks for 8 yards (tackle by Khaleke Hudson),4.81,6.28,18.0,2023,267
+2.0,0:29,,,,,,Timeout #2 by Dallas Cowboys,,,18.0,2023,267
+2.0,0:29,1.0,4.0,WAS 4,20.0,10.0,"Dak Prescott pass complete short middle to CeeDee Lamb for 4 yards, touchdown",6.28,7.0,18.0,2023,267
+2.0,0:23,,,WAS 15,21.0,10.0,Brandon Aubrey kicks extra point good,0.0,0.0,18.0,2023,267
+2.0,0:23,,,DAL 35,21.0,10.0,"Brandon Aubrey kicks off 67 yards, returned by Byron Pringle for 21 yards (tackle by Buddy Johnson)",0.0,0.15,18.0,2023,267
+2.0,0:19,1.0,10.0,WAS 19,21.0,10.0,Sam Howell kneels for -1 yards,0.15,-0.56,18.0,2023,267
+3.0,15:00,,,WAS 35,21.0,10.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,267
+3.0,15:00,1.0,10.0,DAL 25,21.0,10.0,Dak Prescott pass complete short left to CeeDee Lamb for 12 yards (tackle by Kyu Blu Kelly),0.61,1.4,18.0,2023,267
+3.0,14:25,1.0,10.0,DAL 37,21.0,10.0,Tony Pollard right tackle for 4 yards (tackle by Daron Payne and Khaleke Hudson),1.4,1.4,18.0,2023,267
+3.0,13:51,2.0,6.0,DAL 41,21.0,10.0,Dak Prescott pass complete short left to CeeDee Lamb for 7 yards (tackle by Khaleke Hudson),1.4,2.13,18.0,2023,267
+3.0,13:13,1.0,10.0,DAL 48,21.0,10.0,Rico Dowdle left tackle for -2 yards (tackle by Khaleke Hudson),2.13,1.31,18.0,2023,267
+3.0,12:42,2.0,12.0,DAL 46,21.0,10.0,Dak Prescott pass complete short middle to Rico Dowdle for 7 yards (tackle by Cody Barton),1.31,1.55,18.0,2023,267
+3.0,12:02,3.0,5.0,WAS 47,21.0,10.0,Dak Prescott pass complete short left to CeeDee Lamb for 10 yards (tackle by Benjamin St-Juste),1.55,3.12,18.0,2023,267
+3.0,11:30,1.0,10.0,WAS 37,21.0,10.0,Tony Pollard left tackle for 6 yards (tackle by Khaleke Hudson),3.12,3.38,18.0,2023,267
+3.0,10:58,2.0,4.0,WAS 31,21.0,10.0,Tony Pollard up the middle for -1 yards (tackle by Khaleke Hudson),3.38,2.54,18.0,2023,267
+3.0,10:20,3.0,5.0,WAS 32,21.0,10.0,Dak Prescott pass complete short middle to Jake Ferguson for 7 yards (tackle by Benjamin St-Juste),2.54,3.91,18.0,2023,267
+3.0,9:47,1.0,10.0,WAS 25,21.0,10.0,Rico Dowdle left end for 20 yards (tackle by Kyu Blu Kelly),3.91,6.06,18.0,2023,267
+3.0,9:22,1.0,5.0,WAS 5,21.0,10.0,Dak Prescott pass complete short right to CeeDee Lamb for -1 yards (tackle by Kyu Blu Kelly),6.06,4.95,18.0,2023,267
+3.0,8:37,2.0,6.0,WAS 6,27.0,10.0,"Dak Prescott pass complete short middle to CeeDee Lamb for 6 yards, touchdown",4.95,7.0,18.0,2023,267
+3.0,8:28,,,WAS 15,28.0,10.0,Brandon Aubrey kicks extra point good,0.0,0.0,18.0,2023,267
+3.0,8:28,,,DAL 35,28.0,10.0,"Brandon Aubrey kicks off 64 yards, returned by Byron Pringle for 27 yards (tackle by Buddy Johnson and Juanyeh Thomas)",0.0,0.81,18.0,2023,267
+3.0,8:20,1.0,10.0,WAS 28,28.0,10.0,Brian Robinson left end for 1 yard (tackle by Damone Clark),0.81,0.4,18.0,2023,267
+3.0,7:40,2.0,9.0,WAS 29,28.0,10.0,Brian Robinson right guard for 6 yards (tackle by Chauncey Golston and Jayron Kearse),0.4,0.5,18.0,2023,267
+3.0,6:53,3.0,3.0,WAS 35,28.0,10.0,Sam Howell sacked by Micah Parsons for -9 yards,0.5,-1.63,18.0,2023,267
+3.0,6:07,4.0,12.0,WAS 26,28.0,10.0,Tress Way punts blocked by Peyton Hendershot,-1.63,-5.14,18.0,2023,267
+3.0,6:00,1.0,9.0,WAS 9,28.0,10.0,"Tony Pollard for no gain (tackle by Sean Chandler). Penalty on Jake Ferguson: Offensive Holding, 10 yards (accepted) (no play)",5.14,4.23,18.0,2023,267
+3.0,5:45,1.0,19.0,WAS 19,28.0,10.0,Dak Prescott pass complete short middle to Jake Ferguson for 16 yards (tackle by Terrell Burgess),4.23,5.53,18.0,2023,267
+3.0,5:20,2.0,3.0,WAS 3,28.0,10.0,"Dak Prescott scrambles for no gain. Penalty on Brock Hoffman: Offensive Holding, 10 yards (accepted) (no play)",5.53,3.72,18.0,2023,267
+3.0,5:04,2.0,13.0,WAS 13,28.0,10.0,Rico Dowdle left end for 8 yards (tackle by Cody Barton),3.72,4.26,18.0,2023,267
+3.0,4:11,3.0,5.0,WAS 5,34.0,10.0,"Dak Prescott pass complete short right to Brandin Cooks for 5 yards, touchdown",4.26,7.0,18.0,2023,267
+3.0,4:06,,,WAS 15,35.0,10.0,Brandon Aubrey kicks extra point good,0.0,0.0,18.0,2023,267
+3.0,4:06,,,DAL 35,35.0,10.0,"Brandon Aubrey kicks off 65 yards, returned by Byron Pringle for 29 yards (tackle by Juanyeh Thomas and Peyton Hendershot)",0.0,0.87,18.0,2023,267
+3.0,4:00,1.0,10.0,WAS 29,35.0,10.0,Sam Howell pass complete short left to Terry McLaurin for no gain (tackle by Micah Parsons and DaRon Bland),0.87,0.33,18.0,2023,267
+3.0,3:12,2.0,10.0,WAS 29,35.0,10.0,Sam Howell pass complete short middle to Antonio Gibson for 13 yards (tackle by Jayron Kearse),0.33,1.73,18.0,2023,267
+3.0,2:33,1.0,10.0,WAS 42,35.0,10.0,Antonio Gibson right tackle for 2 yards (tackle by Sam Williams),1.73,1.46,18.0,2023,267
+3.0,1:54,2.0,8.0,WAS 44,35.0,10.0,Sam Howell pass complete short left to Antonio Gibson for 12 yards (tackle by Jourdan Lewis),1.46,2.65,18.0,2023,267
+3.0,1:09,1.0,10.0,DAL 44,35.0,10.0,Sam Howell pass deep left intended for Terry McLaurin is intercepted by DaRon Bland at DAL-8 and returned for no gain (tackle by Terry McLaurin),2.65,0.38,18.0,2023,267
+3.0,1:00,1.0,10.0,DAL 8,35.0,10.0,Tony Pollard up the middle for 3 yards (tackle by Terrell Burgess and Cody Barton),-0.38,-0.56,18.0,2023,267
+3.0,0:21,2.0,7.0,DAL 11,35.0,10.0,Tony Pollard right tackle for 5 yards (tackle by John Ridgeway),-0.56,-0.48,18.0,2023,267
+4.0,15:00,3.0,2.0,DAL 16,35.0,10.0,Dak Prescott pass complete short left to Brandin Cooks for 3 yards (tackle by Kyu Blu Kelly),-0.48,0.15,18.0,2023,267
+4.0,14:24,1.0,10.0,DAL 19,35.0,10.0,Tony Pollard left tackle for no gain (tackle by Abdullah Anderson),0.15,-0.39,18.0,2023,267
+4.0,13:42,2.0,10.0,DAL 19,35.0,10.0,Dak Prescott pass complete short right to Jake Ferguson for 15 yards (tackle by Khaleke Hudson),-0.39,1.2,18.0,2023,267
+4.0,13:03,1.0,10.0,DAL 34,35.0,10.0,Rico Dowdle right end for 6 yards (tackle by Cody Barton and Terrell Burgess),1.2,1.47,18.0,2023,267
+4.0,12:25,2.0,4.0,DAL 40,35.0,10.0,"Dak Prescott pass incomplete intended for Jalen Brooks. Penalty on Emmanuel Forbes: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",1.47,2.59,18.0,2023,267
+4.0,12:20,1.0,10.0,WAS 45,35.0,10.0,Dak Prescott pass complete short middle to CeeDee Lamb for 6 yards (tackle by David Mayo),2.59,2.85,18.0,2023,267
+4.0,11:41,2.0,4.0,WAS 39,35.0,10.0,Rico Dowdle left end for 3 yards (tackle by Jalen Harris),2.85,2.54,18.0,2023,267
+4.0,11:01,3.0,1.0,WAS 36,35.0,10.0,Dak Prescott pass complete short middle to Rico Dowdle for 15 yards (tackle by Kyu Blu Kelly),2.54,4.17,18.0,2023,267
+4.0,10:22,1.0,10.0,WAS 21,35.0,10.0,Dak Prescott pass complete short middle to Brandin Cooks for 4 yards (tackle by Cody Barton),4.17,4.2,18.0,2023,267
+4.0,9:49,2.0,6.0,WAS 17,35.0,10.0,Tony Pollard right guard for -1 yards (tackle by Khaleke Hudson),4.2,3.31,18.0,2023,267
+4.0,9:12,3.0,7.0,WAS 18,35.0,10.0,Dak Prescott pass incomplete deep right intended for Brandin Cooks,3.31,2.25,18.0,2023,267
+4.0,9:00,4.0,7.0,WAS 18,35.0,10.0,Brandon Aubrey 36 yard field goal no good,2.25,-0.67,18.0,2023,267
+4.0,8:57,1.0,10.0,WAS 26,35.0,10.0,Sam Howell pass complete short right to Terry McLaurin for 4 yards (tackle by Nahshon Wright),0.67,0.67,18.0,2023,267
+4.0,8:23,2.0,6.0,WAS 30,35.0,10.0,Antonio Gibson right tackle for 6 yards (tackle by Markquese Bell and Neville Gallimore),0.67,1.33,18.0,2023,267
+4.0,7:43,1.0,10.0,WAS 36,35.0,10.0,Sam Howell sacked by Dorance Armstrong for -7 yards,1.33,-0.16,18.0,2023,267
+4.0,7:03,2.0,17.0,WAS 29,35.0,10.0,Sam Howell up the middle for -4 yards (tackle by Sam Williams),-0.16,-1.35,18.0,2023,267
+4.0,6:20,3.0,21.0,WAS 25,35.0,10.0,Sam Howell sacked by and Dante Fowler for -3 yards and Sam Williams for -3 yards,-1.35,-1.9,18.0,2023,267
+4.0,5:25,4.0,24.0,WAS 22,35.0,10.0,"Tress Way punts 50 yards, returned by KaVontae Turpin for 4 yards (tackle by Tucker Addington)",-1.9,-1.07,18.0,2023,267
+4.0,5:11,1.0,10.0,DAL 32,35.0,10.0,Rico Dowdle left guard for 4 yards (tackle by Terrell Burgess),1.07,1.07,18.0,2023,267
+4.0,4:31,2.0,6.0,DAL 36,35.0,10.0,Rico Dowdle right end for 2 yards (tackle by Benning Potoa'e and James Smith-Williams),1.07,0.63,18.0,2023,267
+4.0,3:49,3.0,4.0,DAL 38,35.0,10.0,Cooper Rush pass complete short left to Jalen Tolbert for 5 yards (tackle by Khaleke Hudson),0.63,1.8,18.0,2023,267
+4.0,3:11,1.0,10.0,DAL 43,35.0,10.0,Cooper Rush pass complete short right to Peyton Hendershot for 24 yards (tackle by Terrell Burgess),1.8,3.38,18.0,2023,267
+4.0,2:25,1.0,10.0,WAS 33,35.0,10.0,Rico Dowdle right end for no gain (tackle by Cody Barton and David Mayo),3.38,2.84,18.0,2023,267
+4.0,2:00,2.0,10.0,WAS 33,35.0,10.0,Cooper Rush pass complete short left to Jalen Brooks for 1 yard (tackle by Emmanuel Forbes),2.84,2.28,18.0,2023,267
+4.0,1:17,3.0,9.0,WAS 32,35.0,10.0,Cooper Rush pass incomplete deep right intended for Jalen Tolbert,2.28,1.24,18.0,2023,267
+4.0,1:11,4.0,9.0,WAS 32,38.0,10.0,Brandon Aubrey 50 yard field goal good,1.24,3.0,18.0,2023,267
+4.0,1:06,,,DAL 35,38.0,10.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,267
+4.0,1:06,1.0,10.0,WAS 25,38.0,10.0,Sam Howell pass complete short right to Terry McLaurin for 15 yards (tackle by Buddy Johnson),0.61,1.6,18.0,2023,267
+4.0,0:22,,,,,,Timeout #1 by Washington Commanders,,,18.0,2023,267
+4.0,0:22,1.0,10.0,WAS 40,38.0,10.0,Derrick Gore right end for 3 yards (tackle by Buddy Johnson),1.6,1.46,18.0,2023,267

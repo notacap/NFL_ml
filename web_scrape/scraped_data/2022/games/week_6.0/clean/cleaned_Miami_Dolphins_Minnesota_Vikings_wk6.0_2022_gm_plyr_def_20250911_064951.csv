@@ -1,0 +1,43 @@
+Player,Tm,Def Interceptions Int,Def Interceptions Yds,Def Interceptions TD,Def Interceptions Lng,Def Interceptions PD,Sk,Tackles Comb,Tackles Solo,Tackles Ast,Tackles TFL,Tackles QBHits,Fumbles FR,Fumbles Yds,Fumbles TD,Fumbles FF,week,year,game_id
+Harrison Smith,MIN,1,0,0,0,2,0.0,6,5,1,0,0,0,0,0,1,6.0,2022,87
+Patrick Peterson,MIN,1,6,0,6,3,0.0,4,3,1,0,0,0,0,0,0,6.0,2022,87
+Za'Darius Smith,MIN,0,0,0,0,0,2.0,4,3,1,2,4,0,0,0,0,6.0,2022,87
+Patrick Jones II,MIN,0,0,0,0,0,2.0,3,2,1,2,2,0,0,0,0,6.0,2022,87
+Jordan Hicks,MIN,0,0,0,0,1,1.0,11,8,3,0,2,0,0,0,0,6.0,2022,87
+Danielle Hunter,MIN,0,0,0,0,0,1.0,6,5,1,2,3,0,0,0,0,6.0,2022,87
+Eric Kendricks,MIN,0,0,0,0,0,0.0,11,7,4,1,0,0,0,0,0,6.0,2022,87
+Cameron Dantzler,MIN,0,0,0,0,0,0.0,5,3,2,0,0,0,0,0,0,6.0,2022,87
+Camryn Bynum,MIN,0,0,0,0,2,0.0,4,4,0,0,0,1,15,0,0,6.0,2022,87
+Chandon Sullivan,MIN,0,0,0,0,1,0.0,4,2,2,1,0,0,0,0,0,6.0,2022,87
+Josh Metellus,MIN,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,6.0,2022,87
+Brian Asamoah,MIN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,6.0,2022,87
+Jonathan Bullard,MIN,0,0,0,0,0,0.0,1,0,1,0,1,0,0,0,0,6.0,2022,87
+James Lynch,MIN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,6.0,2022,87
+Kene Nwangwu,MIN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,6.0,2022,87
+Harrison Phillips,MIN,0,0,0,0,0,0.0,1,1,0,0,1,0,0,0,0,6.0,2022,87
+Dalvin Tomlinson,MIN,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,6.0,2022,87
+Luiji Vilain,MIN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,6.0,2022,87
+Justin Jefferson,MIN,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,0,6.0,2022,87
+Elandon Roberts,MIA,0,0,0,0,0,1.5,7,3,4,1,2,0,0,0,0,6.0,2022,87
+Raekwon Davis,MIA,0,0,0,0,0,1.0,2,1,1,1,1,0,0,0,0,6.0,2022,87
+Jaelan Phillips,MIA,0,0,0,0,0,0.5,2,0,2,0,3,1,0,0,0,6.0,2022,87
+Brandon Jones,MIA,0,0,0,0,1,0.0,6,3,3,0,0,0,0,0,0,6.0,2022,87
+Jevon Holland,MIA,0,0,0,0,0,0.0,5,5,0,0,0,0,0,0,0,6.0,2022,87
+Christian Wilkins,MIA,0,0,0,0,0,0.0,4,3,1,2,0,0,0,0,0,6.0,2022,87
+Xavien Howard,MIA,0,0,0,0,1,0.0,3,3,0,0,0,0,0,0,0,6.0,2022,87
+Nik Needham,MIA,0,0,0,0,0,0.0,3,1,2,0,0,0,0,0,0,6.0,2022,87
+Eric Rowe,MIA,0,0,0,0,0,0.0,3,1,2,0,0,0,0,0,0,6.0,2022,87
+Zach Sieler,MIA,0,0,0,0,0,0.0,3,2,1,0,0,0,0,0,1,6.0,2022,87
+Jerome Baker,MIA,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,6.0,2022,87
+Keion Crossen,MIA,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,6.0,2022,87
+Emmanuel Ogbah,MIA,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,6.0,2022,87
+Andrew Van Ginkel,MIA,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,6.0,2022,87
+Justin Bethel,MIA,0,0,0,0,1,0.0,1,0,1,0,0,0,0,0,0,6.0,2022,87
+River Cracraft,MIA,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,6.0,2022,87
+Melvin Ingram,MIA,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,6.0,2022,87
+Hunter Long,MIA,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,6.0,2022,87
+Thomas Morstead,MIA,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,6.0,2022,87
+Brandon Shell,MIA,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,6.0,2022,87
+Channing Tindall,MIA,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,6.0,2022,87
+Trey Flowers,MIA,0,0,0,0,0,0.0,0,0,0,0,1,0,0,0,0,6.0,2022,87
+Noah Igbinoghene,MIA,0,0,0,0,2,0.0,0,0,0,0,0,0,0,0,0,6.0,2022,87

@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,WAS 20,6,2:29,16,Punt,1,Commanders,1,2025,9
+2,1,11:02,WAS 11,8,4:02,89,Touchdown,1,Commanders,1,2025,9
+3,2,13:57,WAS 30,3,0:50,1,Punt,1,Commanders,1,2025,9
+4,2,11:40,WAS 42,8,5:26,58,Touchdown,1,Commanders,1,2025,9
+5,2,2:00,WAS 41,10,2:00,45,End of Half,1,Commanders,1,2025,9
+6,3,12:24,WAS 20,5,3:06,20,Punt,1,Commanders,1,2025,9
+7,3,8:30,WAS 25,4,1:26,19,Punt,1,Commanders,1,2025,9
+8,3,1:43,WAS 39,4,2:33,10,Punt,1,Commanders,1,2025,9
+9,4,12:06,WAS 20,9,4:57,80,Touchdown,1,Commanders,1,2025,9
+10,4,2:39,WAS 3,8,2:39,64,End of Game,1,Commanders,1,2025,9

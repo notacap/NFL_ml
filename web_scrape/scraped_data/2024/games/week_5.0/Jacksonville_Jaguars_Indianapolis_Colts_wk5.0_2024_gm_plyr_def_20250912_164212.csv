@@ -1,0 +1,44 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Unnamed: 7_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Fumbles,Fumbles,Fumbles,Fumbles,week,year,game_id
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF,,,
+Nick Cross,IND,1,0,0,0,1,0.0,5,2,3,0,0,0,0,0,0,5.0,2024,71
+Zaire Franklin,IND,0,0,0,0,1,0.0,10,2,8,0,0,0,0,0,0,5.0,2024,71
+E.J. Speed,IND,0,0,0,0,0,0.0,7,6,1,1,0,0,0,0,0,5.0,2024,71
+Jaylon Jones,IND,0,0,0,0,2,0.0,6,5,1,0,0,0,0,0,1,5.0,2024,71
+Laiatu Latu,IND,0,0,0,0,0,0.0,6,4,2,0,0,0,0,0,1,5.0,2024,71
+Grover Stewart,IND,0,0,0,0,0,0.0,5,4,1,1,0,0,0,0,0,5.0,2024,71
+Jaylon Carlies,IND,0,0,0,0,0,0.0,4,2,2,0,0,0,0,0,0,5.0,2024,71
+Samuel Womack,IND,0,0,0,0,1,0.0,4,3,1,0,0,0,0,0,0,5.0,2024,71
+Julian Blackmon,IND,0,0,0,0,0,0.0,3,3,0,0,0,0,0,0,0,5.0,2024,71
+Chris Lammons,IND,0,0,0,0,0,0.0,3,3,0,0,0,1,0,0,0,5.0,2024,71
+Taven Bryan,IND,0,0,0,0,0,0.0,2,1,1,1,0,0,0,0,0,5.0,2024,71
+Dallis Flowers,IND,0,0,0,0,0,0.0,2,2,0,1,0,0,0,0,0,5.0,2024,71
+Adam Gotsis,IND,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,5.0,2024,71
+Raekwon Davis,IND,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,5.0,2024,71
+Ashton Dulin,IND,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,5.0,2024,71
+Kylen Granson,IND,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,5.0,2024,71
+Dayo Odeyingbo,IND,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,5.0,2024,71
+Andrew Ogletree,IND,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,5.0,2024,71
+Segun Olubi,IND,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,5.0,2024,71
+Travon Walker,JAX,0,0,0,0,1,3.0,5,4,1,3,3,0,0,0,1,5.0,2024,71
+Josh Hines-Allen,JAX,0,0,0,0,0,1.0,2,2,0,1,1,1,13,0,0,5.0,2024,71
+Antonio Johnson,JAX,0,0,0,0,0,0.0,11,8,3,0,0,0,0,0,0,5.0,2024,71
+Montaric Brown,JAX,0,0,0,0,0,0.0,8,4,4,0,0,0,0,0,0,5.0,2024,71
+Andre Cisco,JAX,0,0,0,0,1,0.0,7,6,1,0,0,0,0,0,0,5.0,2024,71
+Ventrell Miller,JAX,0,0,0,0,0,0.0,7,6,1,1,0,0,0,0,0,5.0,2024,71
+Devin Lloyd,JAX,0,0,0,0,0,0.0,6,2,4,0,0,0,0,0,0,5.0,2024,71
+Chad Muma,JAX,0,0,0,0,0,0.0,5,3,2,0,0,0,0,0,0,5.0,2024,71
+Ronald Darby,JAX,0,0,0,0,1,0.0,4,4,0,0,0,0,0,0,0,5.0,2024,71
+Darnell Savage Jr.,JAX,0,0,0,0,0,0.0,3,3,0,0,0,0,0,0,0,5.0,2024,71
+Arik Armstead,JAX,0,0,0,0,0,0.0,2,0,2,0,0,0,0,0,0,5.0,2024,71
+DaVon Hamilton,JAX,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,5.0,2024,71
+Josiah Deguara,JAX,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,5.0,2024,71
+Tre Flowers,JAX,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,5.0,2024,71
+Caleb Johnson,JAX,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,5.0,2024,71
+Jarrian Jones,JAX,0,0,0,0,1,0.0,1,0,1,0,0,0,0,0,0,5.0,2024,71
+Tyler Lacy,JAX,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,5.0,2024,71
+Jeremiah Ledbetter,JAX,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,5.0,2024,71
+Tanner Muse,JAX,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,5.0,2024,71
+Roy Robertson-Harris,JAX,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,5.0,2024,71
+Maason Smith,JAX,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,5.0,2024,71
+Tank Bigsby,JAX,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,0,5.0,2024,71
+Esezi Otomewo,JAX,0,0,0,0,0,0.0,0,0,0,0,1,0,0,0,0,5.0,2024,71

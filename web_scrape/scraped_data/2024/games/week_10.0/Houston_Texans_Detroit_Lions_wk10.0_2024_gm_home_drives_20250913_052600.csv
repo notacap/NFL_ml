@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,12:55,DET 33,8,5:09,33,Touchdown,1,Texans,10.0,2024,151
+2,1,6:22,HOU 43,8,4:13,41,Field Goal,1,Texans,10.0,2024,151
+3,2,10:52,HOU 30,5,2:27,32,Field Goal,1,Texans,10.0,2024,151
+4,2,7:34,DET 36,8,3:27,25,Field Goal,1,Texans,10.0,2024,151
+5,2,3:15,HOU 33,3,1:24,-15,Punt,1,Texans,10.0,2024,151
+6,2,0:54,HOU 34,6,0:42,66,Touchdown,1,Texans,10.0,2024,151
+7,3,15:00,HOU 30,1,0:04,0,Interception,1,Texans,10.0,2024,151
+8,3,13:38,HOU 1,3,0:54,1,Punt,1,Texans,10.0,2024,151
+9,3,11:34,HOU 30,5,2:39,40,Interception,1,Texans,10.0,2024,151
+10,3,8:18,HOU 22,6,4:27,6,Punt,1,Texans,10.0,2024,151
+11,3,0:24,HOU 9,3,0:35,1,Punt,1,Texans,10.0,2024,151
+12,4,11:38,HOU 30,4,3:17,4,Punt,1,Texans,10.0,2024,151
+13,4,5:01,HOU 30,9,3:10,30,Missed FG,1,Texans,10.0,2024,151

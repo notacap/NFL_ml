@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,IND 25,13,5:36,75,Touchdown,0,Colts,16.0,2023,228
+2,1,7:42,IND 25,9,5:32,34,Punt,0,Colts,16.0,2023,228
+3,2,14:53,IND 18,5,2:47,15,Punt,0,Colts,16.0,2023,228
+4,2,10:11,IND 22,4,0:35,12,Punt,0,Colts,16.0,2023,228
+5,2,3:23,IND 25,3,1:37,-2,Punt,0,Colts,16.0,2023,228
+6,2,0:05,IND 25,1,0:05,-1,End of Half,0,Colts,16.0,2023,228
+7,3,11:13,IND 25,12,6:50,60,Field Goal,0,Colts,16.0,2023,228
+8,4,14:06,IND 25,9,4:04,37,Downs,0,Colts,16.0,2023,228
+9,4,8:33,IND 16,3,0:36,0,Interception,0,Colts,16.0,2023,228
+10,4,5:46,IND 25,4,0:57,-7,Downs,0,Colts,16.0,2023,228
+11,4,1:57,IND 25,6,1:57,59,End of Game,0,Colts,16.0,2023,228

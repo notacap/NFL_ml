@@ -1,0 +1,183 @@
+Quarter,Time,Down,ToGo,Location,JAX,WAS,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Commanders won the coin toss and deferred, Jaguars to receive the opening kickoff.",,,1.0,2022,8
+1.0,15:00,,,WAS 35,0.0,0.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,8
+1.0,15:00,1.0,10.0,JAX 25,0.0,0.0,Trevor Lawrence pass incomplete short right intended for Marvin Jones (no play),0.61,0.94,1.0,2022,8
+1.0,14:56,1.0,10.0,JAX 30,0.0,0.0,James Robinson right end for no gain (tackle by Cole Holcomb) (no play),0.94,0.61,1.0,2022,8
+1.0,14:36,1.0,15.0,JAX 25,0.0,0.0,"Trevor Lawrence pass complete short middle to Christian Kirk for 25 yards (tackle by Darrick Forrest) Penalty on WAS: Defensive Holding, 5 yards (declined)",0.61,2.26,1.0,2022,8
+1.0,14:14,1.0,10.0,JAX 50,0.0,0.0,Trevor Lawrence pass complete short middle to Zay Jones for 15 yards (tackle by Kendall Fuller),2.26,3.25,1.0,2022,8
+1.0,13:39,1.0,10.0,WAS 35,0.0,0.0,James Robinson up the middle for 22 yards (tackle by William Jackson),3.25,4.71,1.0,2022,8
+1.0,12:54,1.0,10.0,WAS 13,0.0,0.0,Trevor Lawrence up the middle for -2 yards (tackle by Jonathan Allen and Efe Obada),4.71,3.76,1.0,2022,8
+1.0,12:10,2.0,12.0,WAS 15,0.0,0.0,Trevor Lawrence pass incomplete short right intended for Travis Etienne,3.76,3.03,1.0,2022,8
+1.0,12:04,3.0,12.0,WAS 15,0.0,0.0,Trevor Lawrence pass incomplete short left intended for Zay Jones,3.03,2.44,1.0,2022,8
+1.0,12:01,4.0,12.0,WAS 15,3.0,0.0,Riley Patterson 33 yard field goal good,2.44,3.0,1.0,2022,8
+1.0,11:57,,,JAX 35,3.0,0.0,"Riley Patterson kicks off 63 yards, returned by Dax Milne for 24 yards (tackle by Andrew Wingard)",0.0,0.67,1.0,2022,8
+1.0,11:52,1.0,10.0,WAS 26,3.0,0.0,Carson Wentz pass incomplete deep left intended for Jahan Dotson,0.67,0.13,1.0,2022,8
+1.0,11:45,2.0,10.0,WAS 26,3.0,0.0,Curtis Samuel right end for 5 yards (tackle by Devin Lloyd and Foyesade Oluokun),0.13,0.1,1.0,2022,8
+1.0,11:01,3.0,5.0,WAS 31,3.0,0.0,Carson Wentz pass complete short middle to Curtis Samuel for 13 yards (tackle by Darious Williams),0.1,1.86,1.0,2022,8
+1.0,10:20,1.0,10.0,WAS 44,3.0,0.0,Carson Wentz pass complete short left to Armani Rogers for 23 yards (tackle by Andre Cisco),1.86,3.38,1.0,2022,8
+1.0,9:44,1.0,10.0,JAX 33,3.0,0.0,Carson Wentz scrambles up the middle for 3 yards (tackle by Devin Lloyd),3.38,3.24,1.0,2022,8
+1.0,8:58,2.0,7.0,JAX 30,3.0,0.0,Carson Wentz pass complete deep right to Antonio Gibson for 26 yards,3.24,6.28,1.0,2022,8
+1.0,8:21,1.0,4.0,JAX 4,3.0,0.0,Antonio Gibson right guard for 1 yard (tackle by Folorunso Fatukasi),6.28,5.53,1.0,2022,8
+1.0,7:39,2.0,3.0,JAX 3,3.0,6.0,"Carson Wentz pass complete short right to Curtis Samuel for 3 yards, touchdown",5.53,7.0,1.0,2022,8
+1.0,7:36,,,JAX 15,3.0,7.0,Joey Slye kicks extra point good,0.0,0.0,1.0,2022,8
+1.0,7:36,,,WAS 35,3.0,7.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,8
+1.0,7:36,1.0,10.0,JAX 25,3.0,7.0,James Robinson right tackle for 2 yards (tackle by James Smith-Williams),0.61,0.33,1.0,2022,8
+1.0,7:12,2.0,8.0,JAX 27,3.0,7.0,Trevor Lawrence pass complete short left to Zay Jones for 3 yards (tackle by Bobby McCain),0.33,0.04,1.0,2022,8
+1.0,6:33,3.0,5.0,JAX 30,3.0,7.0,Trevor Lawrence pass complete short middle to Zay Jones for 7 yards (tackle by William Jackson),0.04,1.4,1.0,2022,8
+1.0,5:52,1.0,10.0,JAX 37,3.0,7.0,Trevor Lawrence pass incomplete short right,1.4,-0.49,1.0,2022,8
+1.0,5:49,2.0,20.0,JAX 27,3.0,7.0,James Robinson right guard for 5 yards (tackle by Montez Sweat),-0.49,-0.49,1.0,2022,8
+1.0,5:07,3.0,15.0,JAX 32,3.0,7.0,Trevor Lawrence sacked by Jonathan Allen for -9 yards,-0.49,-1.83,1.0,2022,8
+1.0,4:32,4.0,24.0,JAX 23,3.0,7.0,"Logan Cooke punts 61 yards, returned by Dax Milne for 13 yards (tackle by Caleb Johnson and Chad Muma)",-1.83,-0.87,1.0,2022,8
+1.0,4:18,1.0,10.0,WAS 29,3.0,7.0,Carson Wentz pass incomplete deep right intended for Logan Thomas,0.87,0.33,1.0,2022,8
+1.0,4:13,2.0,10.0,WAS 29,3.0,7.0,Carson Wentz pass complete short middle to Curtis Samuel for 11 yards (tackle by Andre Cisco),0.33,1.6,1.0,2022,8
+1.0,3:33,1.0,10.0,WAS 40,3.0,7.0,Jahan Dotson right end for -10 yards (tackle by Josh Allen),1.6,-0.3,1.0,2022,8
+1.0,2:46,2.0,20.0,WAS 30,3.0,7.0,Carson Wentz pass complete short middle to Curtis Samuel for 9 yards (tackle by Devin Lloyd),-0.3,0.23,1.0,2022,8
+1.0,2:04,3.0,11.0,WAS 39,3.0,7.0,"Penalty on Travon Walker: Neutral Zone Infraction, 6 yards (accepted) (no play)",0.23,1.03,1.0,2022,8
+1.0,1:39,3.0,5.0,WAS 45,3.0,7.0,Carson Wentz pass complete to Curtis Samuel for 12 yards (tackle by Andre Cisco),1.03,2.72,1.0,2022,8
+1.0,0:58,1.0,10.0,JAX 43,3.0,7.0,Curtis Samuel left end for 1 yard (tackle by Devin Lloyd),2.72,2.31,1.0,2022,8
+1.0,0:16,2.0,9.0,JAX 42,3.0,7.0,J.D. McKissic left end for 1 yard (tackle by K'Lavon Chaisson),2.31,1.75,1.0,2022,8
+2.0,15:00,3.0,8.0,JAX 41,3.0,7.0,Carson Wentz pass complete short middle to Terry McLaurin for 9 yards (tackle by Andre Cisco),1.75,3.45,1.0,2022,8
+2.0,14:20,1.0,10.0,JAX 32,3.0,7.0,Antonio Gibson left tackle for 4 yards (tackle by Foyesade Oluokun and Josh Allen),3.45,3.44,1.0,2022,8
+2.0,13:35,2.0,6.0,JAX 28,3.0,7.0,Carson Wentz pass complete short left to Antonio Gibson for 6 yards (tackle by Travon Walker),3.44,4.11,1.0,2022,8
+2.0,12:52,1.0,10.0,JAX 22,3.0,7.0,Carson Wentz pass incomplete deep right intended for Logan Thomas (defended by Rayshawn Jenkins),4.11,3.56,1.0,2022,8
+2.0,12:46,,,,,,Timeout #1 by Washington Commanders,,,1.0,2022,8
+2.0,12:46,2.0,10.0,JAX 22,3.0,7.0,Carson Wentz pass incomplete deep left intended for Terry McLaurin,3.56,2.87,1.0,2022,8
+2.0,12:41,3.0,10.0,JAX 22,3.0,7.0,"Carson Wentz pass incomplete short middle intended for J.D. McKissic. Penalty on Dawuane Smoot: Roughing the Passer, 11 yards (accepted) (no play)",2.87,4.84,1.0,2022,8
+2.0,12:39,1.0,10.0,JAX 11,3.0,7.0,Carson Wentz pass complete short middle to Logan Thomas for 4 yards (tackle by Foyesade Oluokun),4.84,4.89,1.0,2022,8
+2.0,11:52,2.0,6.0,JAX 7,3.0,13.0,"Carson Wentz pass complete short middle to Jahan Dotson for 7 yards, touchdown",4.89,7.0,1.0,2022,8
+2.0,11:47,,,JAX 15,3.0,14.0,Joey Slye kicks extra point good,0.0,0.0,1.0,2022,8
+2.0,11:47,,,WAS 35,3.0,14.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,8
+2.0,11:47,1.0,10.0,JAX 25,3.0,14.0,Trevor Lawrence pass incomplete short left intended for James Robinson,0.61,0.06,1.0,2022,8
+2.0,11:41,2.0,10.0,JAX 25,3.0,14.0,Travis Etienne left end for 5 yards (tackle by Jamin Davis and Kendall Fuller),0.06,0.04,1.0,2022,8
+2.0,10:59,3.0,5.0,JAX 30,3.0,14.0,Trevor Lawrence pass incomplete deep right intended for Marvin Jones,0.04,-1.37,1.0,2022,8
+2.0,10:53,4.0,5.0,JAX 30,3.0,14.0,"Logan Cooke punts 51 yards, returned by Dax Milne for 9 yards (tackle by K'Lavon Chaisson)",-1.37,-0.81,1.0,2022,8
+2.0,10:42,1.0,10.0,WAS 28,3.0,14.0,Antonio Gibson right end for -1 yards (tackle by DaVon Hamilton),0.81,0.13,1.0,2022,8
+2.0,10:01,2.0,11.0,WAS 27,3.0,14.0,Carson Wentz pass incomplete short middle intended for Curtis Samuel (defended by Roy Robertson-Harris),0.13,-0.56,1.0,2022,8
+2.0,9:56,3.0,11.0,WAS 27,3.0,14.0,Carson Wentz pass complete short right to J.D. McKissic for 4 yards (tackle by Shaquill Griffin),-0.56,-1.31,1.0,2022,8
+2.0,9:16,4.0,7.0,WAS 31,3.0,14.0,"Tress Way punts 42 yards, returned by Jamal Agnew for 2 yards (tackle by Jonathan Williams)",-1.31,-0.87,1.0,2022,8
+2.0,9:07,1.0,10.0,JAX 29,3.0,14.0,Travis Etienne right end for no gain (tackle by Jamin Davis and William Jackson) (no play),0.87,0.54,1.0,2022,8
+2.0,8:38,1.0,15.0,JAX 24,3.0,14.0,Trevor Lawrence pass incomplete short left,0.54,-0.35,1.0,2022,8
+2.0,8:30,2.0,15.0,JAX 24,3.0,14.0,"Trevor Lawrence sacked by Jamin Davis for no gain. Penalty on Kendall Fuller: Illegal Contact, 5 yards (accepted) (no play)",-0.35,0.87,1.0,2022,8
+2.0,7:59,1.0,10.0,JAX 29,3.0,14.0,"Trevor Lawrence pass incomplete deep left intended for Marvin Jones. Penalty on Kendall Fuller: Defensive Pass Interference, 21 yards (accepted) (no play)",0.87,2.26,1.0,2022,8
+2.0,7:54,1.0,10.0,JAX 50,3.0,14.0,Trevor Lawrence pass complete short right to Jamal Agnew for 6 yards (tackle by Montez Sweat),2.26,2.52,1.0,2022,8
+2.0,7:16,2.0,4.0,WAS 44,3.0,14.0,Travis Etienne left end for 12 yards (tackle by Darrick Forrest),2.52,3.45,1.0,2022,8
+2.0,6:34,1.0,10.0,WAS 32,3.0,14.0,Trevor Lawrence pass complete deep left to Travis Etienne for 23 yards (tackle by Bobby McCain),3.45,5.14,1.0,2022,8
+2.0,5:50,1.0,9.0,WAS 9,3.0,14.0,Trevor Lawrence scrambles left end for 6 yards (tackle by Cole Holcomb),5.14,5.53,1.0,2022,8
+2.0,5:09,2.0,3.0,WAS 3,3.0,14.0,Trevor Lawrence pass incomplete short middle intended for Christian Kirk (defended by Montez Sweat),5.53,4.72,1.0,2022,8
+2.0,5:07,3.0,3.0,WAS 3,3.0,14.0,Trevor Lawrence pass incomplete short left intended for Zay Jones,4.72,3.04,1.0,2022,8
+2.0,5:03,4.0,3.0,WAS 3,3.0,14.0,Trevor Lawrence pass incomplete short right intended for Travis Etienne,3.04,0.38,1.0,2022,8
+2.0,4:59,1.0,10.0,WAS 3,3.0,14.0,Antonio Gibson left guard for 13 yards (tackle by Rayshawn Jenkins),-0.38,-0.14,1.0,2022,8
+2.0,4:19,1.0,10.0,WAS 16,3.0,14.0,Carson Wentz pass complete short middle to Curtis Samuel for 1 yard (tackle by Travon Walker),-0.14,-0.51,1.0,2022,8
+2.0,3:35,2.0,9.0,WAS 17,3.0,14.0,Carson Wentz pass complete short middle to J.D. McKissic for 10 yards (tackle by Darious Williams),-0.51,0.74,1.0,2022,8
+2.0,2:50,1.0,10.0,WAS 27,3.0,14.0,Carson Wentz pass complete short left to Antonio Gibson for 8 yards (tackle by Tyson Campbell and Devin Lloyd),0.74,1.28,1.0,2022,8
+2.0,2:11,2.0,2.0,WAS 35,3.0,14.0,Antonio Gibson left end for 1 yard (tackle by Adam Gotsis),1.28,0.7,1.0,2022,8
+2.0,2:00,3.0,1.0,WAS 36,3.0,14.0,Carson Wentz pass complete short left to Antonio Gibson for 25 yards (tackle by Foyesade Oluokun),0.7,2.98,1.0,2022,8
+2.0,1:32,1.0,10.0,JAX 39,3.0,14.0,Carson Wentz pass incomplete short right intended for Logan Thomas (defended by Folorunso Fatukasi),2.98,2.44,1.0,2022,8
+2.0,1:30,2.0,10.0,JAX 39,3.0,14.0,"Curtis Samuel left tackle for no gain. Curtis Samuel fumbles (forced by Josh Allen), recovered by Foyesade Oluokun at JAC-34 (tackle by Josh Allen)",2.44,-1.27,1.0,2022,8
+2.0,1:22,1.0,10.0,JAX 35,3.0,14.0,Trevor Lawrence pass incomplete deep right intended for Christian Kirk,1.27,0.66,1.0,2022,8
+2.0,1:18,2.0,10.0,JAX 34,3.0,14.0,Trevor Lawrence pass complete short right to Christian Kirk for 9 yards (tackle by Jamin Davis),0.66,1.16,1.0,2022,8
+2.0,1:14,3.0,1.0,JAX 43,3.0,14.0,Trevor Lawrence pass complete short right to Zay Jones for 18 yards (tackle by Benjamin St-Juste),1.16,2.98,1.0,2022,8
+2.0,1:08,1.0,10.0,WAS 39,3.0,14.0,Trevor Lawrence pass complete short middle to Evan Engram for 7 yards (tackle by Cole Holcomb),2.98,3.39,1.0,2022,8
+2.0,0:46,2.0,3.0,WAS 32,3.0,14.0,Trevor Lawrence pass complete short right to Marvin Jones for 8 yards (tackle by William Jackson),3.39,3.97,1.0,2022,8
+2.0,0:42,1.0,10.0,WAS 24,3.0,14.0,Trevor Lawrence pass complete short middle to Zay Jones for 15 yards (tackle by William Jackson),3.97,5.14,1.0,2022,8
+2.0,0:37,,,,,,Timeout #1 by Jacksonville Jaguars,,,1.0,2022,8
+2.0,0:37,1.0,9.0,WAS 9,3.0,14.0,"Penalty on Cam Robinson: False Start, 5 yards (accepted) (no play)",5.14,4.44,1.0,2022,8
+2.0,0:37,1.0,14.0,WAS 14,3.0,14.0,Trevor Lawrence pass incomplete short middle intended for Christian Kirk,4.44,3.58,1.0,2022,8
+2.0,0:32,2.0,14.0,WAS 14,3.0,14.0,"Trevor Lawrence pass complete short right to Travis Etienne for -5 yards. Travis Etienne fumbles (forced by Darrick Forrest) Replay Assistant challenged the pass completion ruling, and the play was upheld.",3.58,2.49,1.0,2022,8
+2.0,0:27,,,,,,Timeout #2 by Jacksonville Jaguars,,,1.0,2022,8
+2.0,0:27,3.0,19.0,WAS 19,3.0,14.0,Trevor Lawrence pass incomplete deep right intended for Zay Jones (defended by Darrick Forrest),2.49,2.18,1.0,2022,8
+2.0,0:20,4.0,19.0,WAS 19,3.0,14.0,Riley Patterson 37 yard field goal no good,2.18,-0.74,1.0,2022,8
+2.0,0:16,1.0,10.0,WAS 27,3.0,14.0,Carson Wentz kneels for -1 yards,0.74,0.06,1.0,2022,8
+3.0,15:00,,,JAX 35,3.0,14.0,"Riley Patterson kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,8
+3.0,15:00,1.0,10.0,WAS 25,3.0,14.0,Carson Wentz pass incomplete short right intended for Terry McLaurin (defended by Shaquill Griffin),0.61,0.06,1.0,2022,8
+3.0,14:55,2.0,10.0,WAS 25,3.0,14.0,Antonio Gibson left tackle for 11 yards (tackle by Foyesade Oluokun),0.06,1.33,1.0,2022,8
+3.0,14:17,1.0,10.0,WAS 36,3.0,14.0,Carson Wentz pass complete short left to Antonio Gibson for -2 yards (tackle by Josh Allen and Foyesade Oluokun),1.33,0.52,1.0,2022,8
+3.0,13:32,2.0,12.0,WAS 34,3.0,14.0,Carson Wentz sacked by Travon Walker for -8 yards,0.52,-1.22,1.0,2022,8
+3.0,12:47,3.0,20.0,WAS 26,3.0,14.0,Carson Wentz pass complete short middle to J.D. McKissic for 6 yards (tackle by Andre Cisco),-1.22,-1.24,1.0,2022,8
+3.0,12:06,4.0,14.0,WAS 32,3.0,14.0,"Tress Way punts 48 yards, fair catch by Jamal Agnew at JAC-20",-1.24,-0.28,1.0,2022,8
+3.0,11:58,1.0,10.0,JAX 20,3.0,14.0,James Robinson right tackle for 8 yards (tackle by Bobby McCain and Cole Holcomb),0.28,0.81,1.0,2022,8
+3.0,11:30,2.0,2.0,JAX 28,3.0,14.0,James Robinson right end for 7 yards (tackle by William Jackson),0.81,1.27,1.0,2022,8
+3.0,10:56,1.0,10.0,JAX 35,3.0,14.0,Trevor Lawrence pass complete deep middle to Christian Kirk for 49 yards (tackle by Kendall Fuller),1.27,4.51,1.0,2022,8
+3.0,10:13,1.0,10.0,WAS 16,3.0,14.0,Trevor Lawrence pass complete short left to Christian Kirk for 13 yards (tackle by Jamin Davis),4.51,6.51,1.0,2022,8
+3.0,9:39,1.0,3.0,WAS 3,3.0,14.0,James Robinson left tackle for no gain (tackle by Jonathan Allen),6.51,5.53,1.0,2022,8
+3.0,8:54,2.0,3.0,WAS 3,9.0,14.0,"Trevor Lawrence pass complete short right to James Robinson for 3 yards, touchdown",5.53,7.0,1.0,2022,8
+3.0,8:50,,,WAS 2,9.0,14.0,Two Point Attempt: Trevor Lawrence pass incomplete,1.0,-1.0,1.0,2022,8
+3.0,8:50,,,JAX 35,9.0,14.0,"Riley Patterson kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,8
+3.0,8:50,1.0,10.0,WAS 25,9.0,14.0,Antonio Gibson left end for 1 yard (tackle by Roy Robertson-Harris),0.61,0.2,1.0,2022,8
+3.0,8:30,2.0,9.0,WAS 26,9.0,14.0,Carson Wentz pass complete short middle to Curtis Samuel for no gain (tackle by Shaquill Griffin) (no play),0.2,1.01,1.0,2022,8
+3.0,8:04,2.0,3.0,WAS 32,9.0,14.0,Antonio Gibson left guard for 3 yards (tackle by Tyson Campbell and Roy Robertson-Harris),1.01,1.27,1.0,2022,8
+3.0,7:37,1.0,10.0,WAS 35,9.0,14.0,Carson Wentz scrambles for 8 yards (tackle by Dawuane Smoot),1.27,1.8,1.0,2022,8
+3.0,7:04,2.0,2.0,WAS 43,9.0,14.0,Carson Wentz pass incomplete short middle intended for Curtis Samuel,1.8,1.09,1.0,2022,8
+3.0,6:59,3.0,2.0,WAS 43,9.0,14.0,Carson Wentz pass incomplete short middle intended for John Bates,1.09,-0.52,1.0,2022,8
+3.0,6:54,4.0,2.0,WAS 43,9.0,14.0,"Tress Way punts 57 yards, touchback.",-0.52,-0.28,1.0,2022,8
+3.0,6:45,1.0,10.0,JAX 20,9.0,14.0,James Robinson left tackle for 1 yard (tackle by Montez Sweat),0.28,-0.13,1.0,2022,8
+3.0,6:07,2.0,9.0,JAX 21,9.0,14.0,Trevor Lawrence pass complete short right to Evan Engram for 11 yards (tackle by Darrick Forrest),-0.13,1.07,1.0,2022,8
+3.0,5:36,1.0,10.0,JAX 32,9.0,14.0,Trevor Lawrence pass incomplete deep left intended for Marvin Jones,1.07,0.53,1.0,2022,8
+3.0,5:30,2.0,10.0,JAX 32,9.0,14.0,James Robinson right end for 1 yard (tackle by James Smith-Williams),0.53,-0.03,1.0,2022,8
+3.0,4:48,3.0,9.0,JAX 33,9.0,14.0,Trevor Lawrence pass complete short left to Marvin Jones for 10 yards (tackle by Kendall Fuller),-0.03,1.8,1.0,2022,8
+3.0,4:11,1.0,10.0,JAX 43,9.0,14.0,Trevor Lawrence pass complete short right to Zay Jones for 7 yards (tackle by William Jackson),1.8,2.2,1.0,2022,8
+3.0,3:35,2.0,3.0,JAX 50,9.0,14.0,"Jamal Agnew right end for 6 yards (tackle by Casey Toohill and Darrick Forrest). Penalty on Darrick Forrest: Unnecessary Roughness / Defense, 15 yards (accepted)",2.2,3.64,1.0,2022,8
+3.0,3:05,1.0,10.0,WAS 29,9.0,14.0,"Travis Etienne left end for no gain (tackle by Jamin Davis and Daniel Wise). Penalty on Luke Fortner: Offensive Holding, 10 yards (accepted) (no play)",3.64,2.98,1.0,2022,8
+3.0,2:36,1.0,20.0,WAS 39,9.0,14.0,James Robinson left tackle for 7 yards (tackle by Cole Holcomb and Jeremy Reaves),2.98,2.7,1.0,2022,8
+3.0,1:58,2.0,13.0,WAS 32,9.0,14.0,Trevor Lawrence pass complete short right to Evan Engram for 7 yards (tackle by Jeremy Reaves),2.7,2.94,1.0,2022,8
+3.0,1:24,3.0,6.0,WAS 25,9.0,14.0,Trevor Lawrence pass incomplete short middle intended for Christian Kirk (defended by Daron Payne),2.94,1.83,1.0,2022,8
+3.0,1:20,4.0,6.0,WAS 25,12.0,14.0,Riley Patterson 43 yard field goal good,1.83,3.0,1.0,2022,8
+3.0,1:16,,,JAX 35,12.0,14.0,"Riley Patterson kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,8
+3.0,1:16,1.0,10.0,WAS 25,12.0,14.0,"Carson Wentz pass deep middle is intercepted by Darious Williams at JAC-27 and returned for no gain. Penalty on Roy Robertson-Harris: Defensive Offside, 5 yards (accepted) (no play)",0.61,1.34,1.0,2022,8
+3.0,1:07,1.0,5.0,WAS 30,12.0,14.0,Carson Wentz pass complete short right to Antonio Gibson for 4 yards (tackle by Devin Lloyd),1.34,1.28,1.0,2022,8
+3.0,0:42,2.0,1.0,WAS 34,12.0,14.0,Antonio Gibson up the middle for 3 yards (tackle by Foyesade Oluokun and Travon Walker),1.28,1.4,1.0,2022,8
+4.0,15:00,1.0,10.0,WAS 37,12.0,14.0,J.D. McKissic right tackle for 2 yards (tackle by Foyesade Oluokun and Devin Lloyd),1.4,1.13,1.0,2022,8
+4.0,14:24,2.0,8.0,WAS 39,12.0,14.0,Carson Wentz pass short left intended for Jahan Dotson is intercepted by Tyson Campbell at WAS-48 and returned for 3 yards (tackle by Jahan Dotson),1.13,-2.59,1.0,2022,8
+4.0,14:19,1.0,10.0,WAS 45,12.0,14.0,James Robinson right tackle for 2 yards (tackle by Daron Payne and Cole Holcomb),2.59,2.31,1.0,2022,8
+4.0,13:40,2.0,8.0,WAS 43,12.0,14.0,Trevor Lawrence pass complete short right to Marvin Jones for 12 yards (tackle by William Jackson),2.31,3.51,1.0,2022,8
+4.0,13:00,1.0,10.0,WAS 31,12.0,14.0,"Trevor Lawrence pass incomplete short middle. Penalty on Trevor Lawrence: Intentional Grounding, 12 yards (accepted) WAS challenged the fumble ruling, and the play was upheld.",3.51,1.35,1.0,2022,8
+4.0,12:55,2.0,22.0,WAS 43,12.0,14.0,Trevor Lawrence pass complete short middle to Christian Kirk for 17 yards (tackle by Benjamin St-Juste),1.35,2.94,1.0,2022,8
+4.0,12:13,3.0,5.0,WAS 26,12.0,14.0,Trevor Lawrence pass incomplete short middle intended for Christian Kirk (defended by Daron Payne),2.94,1.79,1.0,2022,8
+4.0,12:07,4.0,5.0,WAS 26,15.0,14.0,Riley Patterson 45 yard field goal good,1.79,3.0,1.0,2022,8
+4.0,12:04,,,JAX 35,15.0,14.0,"Riley Patterson kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,8
+4.0,12:04,1.0,10.0,WAS 25,15.0,14.0,Carson Wentz pass short middle intended for Antonio Gibson is intercepted by Travon Walker at WAS-20 and returned for 9 yards (tackle by Carson Wentz),0.61,-4.84,1.0,2022,8
+4.0,11:52,1.0,10.0,WAS 11,21.0,14.0,"James Robinson right end for 11 yards, touchdown",4.84,7.0,1.0,2022,8
+4.0,11:45,,,WAS 15,22.0,14.0,Riley Patterson kicks extra point good,0.0,0.0,1.0,2022,8
+4.0,11:45,,,JAX 35,22.0,14.0,"Riley Patterson kicks off 63 yards, returned by Dax Milne for 20 yards (tackle by Caleb Johnson)",0.0,0.41,1.0,2022,8
+4.0,11:38,1.0,10.0,WAS 22,22.0,14.0,Carson Wentz scrambles left end for 3 yards (tackle by Devin Lloyd),0.41,0.27,1.0,2022,8
+4.0,11:04,2.0,7.0,WAS 25,22.0,14.0,Carson Wentz pass complete short middle to Curtis Samuel for -1 yards (tackle by Darious Williams),0.27,-0.56,1.0,2022,8
+4.0,10:18,3.0,8.0,WAS 24,22.0,14.0,Carson Wentz pass complete short left to Logan Thomas for 27 yards (tackle by Tyson Campbell),-0.56,2.32,1.0,2022,8
+4.0,9:43,1.0,10.0,JAX 49,22.0,20.0,"Carson Wentz pass complete deep right to Terry McLaurin for 49 yards, touchdown",2.32,7.0,1.0,2022,8
+4.0,9:36,,,JAX 2,22.0,20.0,"Two Point Attempt: Carson Wentz pass complete to . Penalty on Andrew Norwell: Illegal Use of Hands / Offense, 5 yards (declined) (no play)",1.0,0.0,1.0,2022,8
+4.0,9:36,,,WAS 35,22.0,20.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,8
+4.0,9:36,1.0,10.0,JAX 25,22.0,20.0,Travis Etienne left end for 27 yards (tackle by Benjamin St-Juste),0.61,2.39,1.0,2022,8
+4.0,8:57,1.0,10.0,WAS 48,22.0,20.0,Travis Etienne left tackle for 3 yards (tackle by Daron Payne),2.39,2.25,1.0,2022,8
+4.0,8:14,2.0,7.0,WAS 45,22.0,20.0,Trevor Lawrence pass complete short middle to Evan Engram for 3 yards (tackle by William Jackson and Percy Butler),2.25,1.95,1.0,2022,8
+4.0,7:32,3.0,4.0,WAS 42,22.0,20.0,Trevor Lawrence sacked by Daron Payne for -6 yards,1.95,0.07,1.0,2022,8
+4.0,6:51,4.0,10.0,WAS 48,22.0,20.0,"Logan Cooke punts 38 yards, fair catch by Dax Milne at WAS-10",0.07,0.38,1.0,2022,8
+4.0,6:48,1.0,10.0,WAS 10,22.0,20.0,"Carson Wentz pass complete to Curtis Samuel for no gain. Penalty on Andrew Norwell: Illegal Use of Hands / Offense, 5 yards (accepted) (no play)",-0.38,-0.57,1.0,2022,8
+4.0,6:20,1.0,15.0,WAS 5,22.0,20.0,"Carson Wentz pass incomplete short middle intended for Curtis Samuel. Penalty on Foyesade Oluokun: Defensive Holding, 5 yards (accepted) (no play)",-0.57,-0.38,1.0,2022,8
+4.0,6:17,1.0,10.0,WAS 10,22.0,20.0,Carson Wentz pass complete short right to Antonio Gibson for 5 yards (tackle by Shaquill Griffin),-0.38,-0.35,1.0,2022,8
+4.0,5:51,2.0,5.0,WAS 15,22.0,20.0,Carson Wentz pass complete short middle to Curtis Samuel for 7 yards (tackle by Rayshawn Jenkins and Shaquill Griffin),-0.35,0.41,1.0,2022,8
+4.0,5:22,1.0,10.0,WAS 22,22.0,20.0,Carson Wentz pass complete short right to Jahan Dotson for 9 yards (tackle by Shaquill Griffin),0.41,1.08,1.0,2022,8
+4.0,5:01,2.0,1.0,WAS 31,22.0,20.0,J.D. McKissic left guard for 5 yards (tackle by Foyesade Oluokun),1.08,1.33,1.0,2022,8
+4.0,4:30,1.0,10.0,WAS 36,22.0,20.0,Carson Wentz pass incomplete deep left intended for Cam Sims,1.33,0.79,1.0,2022,8
+4.0,4:25,2.0,10.0,WAS 36,22.0,20.0,Carson Wentz pass incomplete short left intended for Dax Milne,0.79,0.1,1.0,2022,8
+4.0,4:21,3.0,10.0,WAS 36,22.0,20.0,Carson Wentz pass complete short middle to Logan Thomas for 14 yards (tackle by Devin Lloyd),0.1,2.26,1.0,2022,8
+4.0,3:39,1.0,10.0,WAS 50,22.0,20.0,Curtis Samuel left guard for 11 yards (tackle by Devin Lloyd),2.26,2.98,1.0,2022,8
+4.0,2:56,1.0,10.0,JAX 39,22.0,20.0,Antonio Gibson left tackle for 7 yards (tackle by Folorunso Fatukasi),2.98,3.39,1.0,2022,8
+4.0,2:17,2.0,3.0,JAX 32,22.0,20.0,Antonio Gibson left tackle for 6 yards (tackle by Devin Lloyd),3.39,3.84,1.0,2022,8
+4.0,2:00,1.0,10.0,JAX 26,22.0,20.0,Antonio Gibson left guard for 2 yards (tackle by Folorunso Fatukasi),3.84,3.57,1.0,2022,8
+4.0,1:56,2.0,8.0,JAX 24,22.0,20.0,Carson Wentz pass incomplete short right intended for Curtis Samuel,3.57,2.87,1.0,2022,8
+4.0,1:52,3.0,8.0,JAX 24,22.0,26.0,"Carson Wentz pass complete deep left to Jahan Dotson for 24 yards, touchdown",2.87,7.0,1.0,2022,8
+4.0,1:46,,,JAX 2,22.0,28.0,Two Point Attempt: Carson Wentz pass complete to to J.D. McKissic for no gain,1.0,1.0,1.0,2022,8
+4.0,1:46,,,WAS 35,22.0,28.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,8
+4.0,1:46,1.0,10.0,JAX 25,22.0,28.0,Trevor Lawrence pass complete short right to Marvin Jones for 8 yards (tackle by William Jackson),0.61,1.14,1.0,2022,8
+4.0,1:34,,,,,,Timeout #3 by Washington Commanders,,,1.0,2022,8
+4.0,1:34,2.0,2.0,JAX 33,22.0,28.0,"Trevor Lawrence pass incomplete short middle intended for Evan Engram. Penalty on Bobby McCain: Defensive Pass Interference, 12 yards (accepted) (no play)",1.14,1.93,1.0,2022,8
+4.0,1:30,1.0,10.0,JAX 45,22.0,28.0,"Penalty on Walker Little: False Start, 5 yards (accepted) (no play)",1.93,1.6,1.0,2022,8
+4.0,1:30,1.0,15.0,JAX 40,22.0,28.0,Trevor Lawrence pass incomplete short left,1.6,0.71,1.0,2022,8
+4.0,1:25,2.0,15.0,JAX 40,22.0,28.0,Trevor Lawrence pass complete short left to Christian Kirk for 4 yards (tackle by Benjamin St-Juste),0.71,0.56,1.0,2022,8
+4.0,1:19,3.0,11.0,JAX 44,22.0,28.0,Trevor Lawrence pass deep left intended for Christian Kirk is intercepted by Darrick Forrest at WAS-25 and returned for 1 yard (tackle by Evan Engram),0.56,-0.67,1.0,2022,8
+4.0,1:10,1.0,10.0,WAS 26,22.0,28.0,Antonio Gibson right tackle for 5 yards (tackle by Foyesade Oluokun),0.67,0.81,1.0,2022,8
+4.0,1:06,,,,,,Timeout #2 by Jacksonville Jaguars,,,1.0,2022,8
+4.0,1:06,2.0,5.0,WAS 31,22.0,28.0,Antonio Gibson right tackle for 2 yards (tackle by DaVon Hamilton and Roy Robertson-Harris),0.81,0.37,1.0,2022,8
+4.0,1:00,,,,,,Timeout #3 by Jacksonville Jaguars,,,1.0,2022,8
+4.0,1:00,3.0,3.0,WAS 33,22.0,28.0,"Penalty on Folorunso Fatukasi: Neutral Zone Infraction, 5 yards (accepted) (no play)",0.37,1.47,1.0,2022,8
+4.0,1:00,1.0,10.0,WAS 38,22.0,28.0,Carson Wentz kneels for no gain,1.47,0.92,1.0,2022,8
+4.0,0:37,2.0,10.0,WAS 38,22.0,28.0,Carson Wentz kneels for -1 yards,0.92,0.1,1.0,2022,8

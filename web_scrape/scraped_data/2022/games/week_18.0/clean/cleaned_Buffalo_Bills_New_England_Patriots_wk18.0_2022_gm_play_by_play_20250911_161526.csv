@@ -1,0 +1,161 @@
+Quarter,Time,Down,ToGo,Location,NWE,BUF,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Patriots won the coin toss and deferred, Bills to receive the opening kickoff.",,,18.0,2022,258
+1.0,15:00,,,NWE 35,0.0,6.0,"Nick Folk kicks off 61 yards, returned by Nyheim Hines for 96 yards, touchdown",0.0,7.0,18.0,2022,258
+1.0,14:46,,,NWE 15,0.0,7.0,Tyler Bass kicks extra point good,0.0,0.0,18.0,2022,258
+1.0,14:46,,,BUF 35,0.0,7.0,"Tyler Bass kicks off 56 yards, returned by Marcus Jones for 17 yards (tackle by Jaquan Johnson)",0.0,0.67,18.0,2022,258
+1.0,14:41,1.0,10.0,NWE 26,0.0,7.0,Mac Jones pass incomplete short right intended for Damien Harris,0.67,0.13,18.0,2022,258
+1.0,14:36,2.0,10.0,NWE 26,0.0,7.0,Damien Harris right end for 2 yards (tackle by Gregory Rousseau),0.13,-0.3,18.0,2022,258
+1.0,13:55,3.0,8.0,NWE 28,0.0,7.0,Mac Jones sacked by Gregory Rousseau for -9 yards,-0.3,-2.14,18.0,2022,258
+1.0,13:17,4.0,17.0,NWE 19,0.0,7.0,"Michael Palardy punts 49 yards, fair catch by Nyheim Hines at BUF-32",-2.14,-1.07,18.0,2022,258
+1.0,13:09,1.0,10.0,BUF 32,0.0,7.0,Josh Allen pass complete short left to Stefon Diggs for 5 yards (tackle by Marcus Jones),1.07,1.2,18.0,2022,258
+1.0,12:31,2.0,5.0,BUF 37,0.0,7.0,Josh Allen pass complete short right to Stefon Diggs for 6 yards (tackle by Jonathan Jones),1.2,1.8,18.0,2022,258
+1.0,12:08,1.0,10.0,BUF 43,0.0,7.0,Josh Allen pass incomplete short left intended for Gabriel Davis,1.8,1.25,18.0,2022,258
+1.0,12:03,2.0,10.0,BUF 43,0.0,7.0,Josh Allen pass complete short middle to Devin Singletary for 3 yards (tackle by Jahlani Tavai),1.25,0.96,18.0,2022,258
+1.0,11:20,3.0,7.0,BUF 46,0.0,7.0,Josh Allen sacked by Deatrich Wise for -13 yards,0.96,-1.18,18.0,2022,258
+1.0,10:38,4.0,20.0,BUF 33,0.0,7.0,"Sam Martin punts 41 yards, returned by Marcus Jones for no gain (tackle by Taiwan Jones)",-1.18,-0.67,18.0,2022,258
+1.0,10:29,1.0,10.0,NWE 26,0.0,7.0,Rhamondre Stevenson left end for 3 yards (tackle by Tim Settle),0.67,0.54,18.0,2022,258
+1.0,9:52,2.0,7.0,NWE 29,0.0,7.0,Mac Jones pass complete short left to Rhamondre Stevenson for 6 yards (tackle by Matt Milano),0.54,0.63,18.0,2022,258
+1.0,9:19,3.0,1.0,NWE 35,0.0,7.0,Mac Jones pass complete short right to Jakobi Meyers for 20 yards (tackle by Tremaine Edmunds),0.63,2.59,18.0,2022,258
+1.0,8:43,1.0,10.0,BUF 45,0.0,7.0,"Mac Jones pass complete deep middle to DeVante Parker for 17 yards (tackle by Dane Jackson). Penalty on Tre'Davious White: Defensive Holding, 5 yards (declined)",2.59,3.71,18.0,2022,258
+1.0,8:23,1.0,10.0,BUF 28,0.0,7.0,Mac Jones pass complete short right to Rhamondre Stevenson for 5 yards (tackle by Tremaine Edmunds),3.71,3.84,18.0,2022,258
+1.0,7:45,2.0,5.0,BUF 23,0.0,7.0,Damien Harris up the middle for 6 yards (tackle by Taron Johnson),3.84,4.44,18.0,2022,258
+1.0,7:05,1.0,10.0,BUF 17,0.0,7.0,Mac Jones pass complete short left to DeVante Parker for 11 yards,4.44,5.83,18.0,2022,258
+1.0,6:29,1.0,6.0,BUF 6,0.0,7.0,Mac Jones left guard for 4 yards (tackle by Shaq Lawson),5.83,5.72,18.0,2022,258
+1.0,5:50,2.0,2.0,BUF 2,6.0,7.0,"Mac Jones pass complete short left to Jakobi Meyers for 2 yards, touchdown Replay Assistant challenged the pass completion ruling, and the play was upheld.",5.72,7.0,18.0,2022,258
+1.0,5:45,,,BUF 15,7.0,7.0,Nick Folk kicks extra point good,0.0,0.0,18.0,2022,258
+1.0,5:45,,,NWE 35,7.0,7.0,"Nick Folk kicks off 60 yards, returned by Nyheim Hines for 20 yards (tackle by Myles Bryant and Matthew Slater)",0.0,0.61,18.0,2022,258
+1.0,5:38,1.0,10.0,BUF 25,7.0,7.0,Devin Singletary left guard for 6 yards (tackle by Deatrich Wise and Kyle Dugger),0.61,0.87,18.0,2022,258
+1.0,4:55,2.0,4.0,BUF 31,7.0,7.0,Josh Allen scrambles left tackle for 2 yards (tackle by Jahlani Tavai),0.87,0.43,18.0,2022,258
+1.0,4:16,3.0,2.0,BUF 33,7.0,7.0,Josh Allen pass complete deep right to Stefon Diggs for 16 yards (tackle by Myles Bryant),0.43,2.19,18.0,2022,258
+1.0,3:37,1.0,10.0,BUF 49,7.0,7.0,Josh Allen pass incomplete short left intended for Gabriel Davis,2.19,1.65,18.0,2022,258
+1.0,3:32,2.0,10.0,BUF 49,7.0,7.0,Josh Allen pass complete short right to Gabriel Davis for 9 yards (tackle by Jonathan Jones),1.65,2.15,18.0,2022,258
+1.0,2:46,3.0,1.0,NWE 42,7.0,7.0,Devin Singletary left tackle for 2 yards (tackle by Marcus Jones),2.15,2.92,18.0,2022,258
+1.0,2:05,1.0,10.0,NWE 40,7.0,7.0,Josh Allen pass incomplete deep middle intended for Gabriel Davis (defended by Jahlani Tavai),2.92,2.37,18.0,2022,258
+1.0,1:58,2.0,10.0,NWE 40,7.0,7.0,Josh Allen pass complete short left to Stefon Diggs for 16 yards (tackle by Marcus Jones),2.37,3.97,18.0,2022,258
+1.0,1:23,1.0,10.0,NWE 24,7.0,7.0,James Cook right end for 3 yards (tackle by Ja'Whaun Bentley),3.97,3.84,18.0,2022,258
+1.0,0:44,2.0,7.0,NWE 21,7.0,7.0,Josh Allen pass incomplete deep left intended for Khalil Shakir (defended by Devin McCourty),3.84,3.14,18.0,2022,258
+1.0,0:39,3.0,7.0,NWE 21,7.0,7.0,Josh Allen pass complete deep middle to Gabriel Davis for 19 yards (tackle by Myles Bryant and Marcus Jones),3.14,6.74,18.0,2022,258
+2.0,15:00,1.0,2.0,NWE 2,7.0,7.0,Devin Singletary left guard for -2 yards (tackle by Davon Godchaux and Anfernee Jennings),6.74,5.34,18.0,2022,258
+2.0,14:23,2.0,4.0,NWE 4,7.0,13.0,"Josh Allen pass complete short middle to Dawson Knox for 4 yards, touchdown",5.34,7.0,18.0,2022,258
+2.0,14:15,,,NWE 15,7.0,14.0,Tyler Bass kicks extra point good,0.0,0.0,18.0,2022,258
+2.0,14:15,,,BUF 35,7.0,14.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.61,18.0,2022,258
+2.0,14:15,1.0,10.0,NWE 25,7.0,14.0,Damien Harris up the middle for -6 yards (tackle by DaQuan Jones and Shaq Lawson),0.61,-0.81,18.0,2022,258
+2.0,13:41,2.0,16.0,NWE 19,7.0,14.0,Mac Jones pass complete short right to DeVante Parker for 9 yards,-0.81,-0.23,18.0,2022,258
+2.0,13:02,3.0,7.0,NWE 28,7.0,14.0,Mac Jones pass incomplete short left,-0.23,-1.5,18.0,2022,258
+2.0,12:56,4.0,7.0,NWE 28,7.0,14.0,"Michael Palardy punts 44 yards, returned by Nyheim Hines for 6 yards (tackle by DaMarcus Mitchell)",-1.5,-1.2,18.0,2022,258
+2.0,12:44,1.0,10.0,BUF 34,7.0,14.0,Josh Allen pass complete short right to James Cook for 2 yards (tackle by Tae Hayes and Kyle Dugger),1.2,0.93,18.0,2022,258
+2.0,12:05,2.0,8.0,BUF 36,7.0,14.0,James Cook right tackle for 5 yards (tackle by Daniel Ekuale and Ja'Whaun Bentley),0.93,0.89,18.0,2022,258
+2.0,11:37,3.0,3.0,BUF 41,7.0,14.0,Josh Allen pass complete short middle to Isaiah McKenzie for 6 yards (tackle by Myles Bryant),0.89,2.06,18.0,2022,258
+2.0,10:54,1.0,10.0,BUF 47,7.0,14.0,Josh Allen pass incomplete short left intended for Stefon Diggs,2.06,1.52,18.0,2022,258
+2.0,10:50,2.0,10.0,BUF 47,7.0,14.0,Josh Allen pass complete short left to James Cook for 4 yards (tackle by Jonathan Jones),1.52,1.36,18.0,2022,258
+2.0,10:05,3.0,6.0,NWE 49,7.0,14.0,Josh Allen sacked by Daniel Ekuale for -4 yards,1.36,-0.26,18.0,2022,258
+2.0,9:28,4.0,10.0,BUF 47,7.0,14.0,"Sam Martin punts 39 yards, returned by Marcus Jones for 12 yards (tackle by Reid Ferguson and Quintin Morris)",-0.26,-0.67,18.0,2022,258
+2.0,9:16,1.0,10.0,NWE 26,7.0,14.0,Mac Jones pass complete short left to Kendrick Bourne for 4 yards (tackle by Taron Johnson),0.67,0.67,18.0,2022,258
+2.0,8:38,2.0,6.0,NWE 30,7.0,14.0,Rhamondre Stevenson left guard for 18 yards (tackle by Jordan Poyer),0.67,2.13,18.0,2022,258
+2.0,8:01,1.0,10.0,NWE 48,7.0,14.0,Mac Jones pass complete short left to Rhamondre Stevenson for 8 yards (tackle by Matt Milano),2.13,2.66,18.0,2022,258
+2.0,7:15,2.0,2.0,BUF 44,7.0,14.0,Mac Jones pass complete deep middle to Kendrick Bourne for 20 yards (tackle by Jordan Poyer),2.66,3.97,18.0,2022,258
+2.0,6:31,1.0,10.0,BUF 24,7.0,14.0,Rhamondre Stevenson right end for 4 yards (tackle by Jordan Poyer and Kaiir Elam),3.97,3.97,18.0,2022,258
+2.0,5:46,2.0,6.0,BUF 20,7.0,14.0,Damien Harris up the middle for 3 yards (tackle by Matt Milano),3.97,3.75,18.0,2022,258
+2.0,5:09,3.0,3.0,BUF 17,7.0,14.0,Mac Jones pass complete short left to Kendrick Bourne for 10 yards (tackle by Kaiir Elam),3.75,5.6,18.0,2022,258
+2.0,4:30,1.0,7.0,BUF 7,7.0,14.0,Mac Jones pass complete short middle to Rhamondre Stevenson for 5 yards (tackle by Dean Marlowe and Jordan Poyer),5.6,5.72,18.0,2022,258
+2.0,3:51,2.0,2.0,BUF 2,13.0,14.0,"Mac Jones pass complete short right to DeVante Parker for 2 yards, touchdown",5.72,7.0,18.0,2022,258
+2.0,3:45,,,BUF 15,14.0,14.0,Nick Folk kicks extra point good,0.0,0.0,18.0,2022,258
+2.0,3:45,,,NWE 35,14.0,14.0,"Nick Folk kicks off 55 yards, returned by Nyheim Hines for 18 yards (tackle by Mack Wilson and Kyle Dugger)",0.0,0.81,18.0,2022,258
+2.0,3:38,1.0,10.0,BUF 28,14.0,14.0,James Cook left guard for 5 yards (tackle by Davon Godchaux and Raekwon McMillan),0.81,0.94,18.0,2022,258
+2.0,3:01,2.0,5.0,BUF 33,14.0,14.0,Devin Singletary left guard for 18 yards (tackle by Devin McCourty),0.94,2.32,18.0,2022,258
+2.0,2:19,1.0,10.0,NWE 49,14.0,14.0,James Cook left guard for 10 yards (tackle by Kyle Dugger and Adrian Phillips),2.32,2.98,18.0,2022,258
+2.0,2:00,1.0,10.0,NWE 39,14.0,14.0,Josh Allen pass complete short right to Stefon Diggs for 6 yards (tackle by Myles Bryant),2.98,3.25,18.0,2022,258
+2.0,1:54,2.0,4.0,NWE 33,14.0,14.0,James Cook left tackle for 3 yards (tackle by Davon Godchaux and Ja'Whaun Bentley),3.25,2.94,18.0,2022,258
+2.0,1:17,,,,,,Timeout #1 by New England Patriots,,,18.0,2022,258
+2.0,1:17,3.0,1.0,NWE 30,14.0,14.0,Josh Allen up the middle for 2 yards (tackle by Ja'Whaun Bentley),2.94,3.71,18.0,2022,258
+2.0,0:54,1.0,10.0,NWE 28,14.0,14.0,Josh Allen scrambles right tackle for 6 yards (tackle by Marcus Jones),3.71,3.98,18.0,2022,258
+2.0,0:44,2.0,4.0,NWE 22,14.0,14.0,Josh Allen scrambles left guard for 7 yards (tackle by Ja'Whaun Bentley and Christian Barmore),3.98,4.58,18.0,2022,258
+2.0,0:38,,,,,,Timeout #1 by Buffalo Bills,,,18.0,2022,258
+2.0,0:38,1.0,10.0,NWE 15,14.0,14.0,Josh Allen pass incomplete short middle intended for Gabriel Davis,4.58,3.95,18.0,2022,258
+2.0,0:33,2.0,10.0,NWE 15,14.0,14.0,Josh Allen pass incomplete short left intended for Stefon Diggs,3.95,3.1,18.0,2022,258
+2.0,0:26,3.0,10.0,NWE 15,14.0,14.0,Josh Allen pass short middle (defended by Christian Barmore) intended for Gabriel Davis is intercepted by Devin McCourty at NE-3 and returned for 30 yards (tackle by Dawson Knox),3.1,-1.14,18.0,2022,258
+2.0,0:16,,,,,,Timeout #2 by New England Patriots,,,18.0,2022,258
+2.0,0:16,1.0,10.0,NWE 33,14.0,14.0,Mac Jones pass incomplete deep middle intended for Jakobi Meyers (defended by Tremaine Edmunds),1.14,0.59,18.0,2022,258
+2.0,0:10,2.0,10.0,NWE 33,14.0,14.0,Mac Jones kneels for -4 yards,0.59,-0.62,18.0,2022,258
+3.0,15:00,,,BUF 35,14.0,14.0,"Tyler Bass kicks off 59 yards, returned by Marcus Jones for 13 yards (tackle by Terrel Bernard)",0.0,0.15,18.0,2022,258
+3.0,14:54,1.0,10.0,NWE 19,14.0,14.0,Mac Jones pass complete short right to Kendrick Bourne for 11 yards (tackle by Taron Johnson and Shaq Lawson),0.15,0.94,18.0,2022,258
+3.0,14:12,1.0,10.0,NWE 30,14.0,14.0,Damien Harris right guard for 1 yard (tackle by Gregory Rousseau),0.94,0.53,18.0,2022,258
+3.0,13:34,2.0,9.0,NWE 31,14.0,14.0,Mac Jones pass complete short left to Hunter Henry for 5 yards (tackle by Taron Johnson),0.53,0.5,18.0,2022,258
+3.0,12:56,3.0,4.0,NWE 36,14.0,14.0,Mac Jones pass complete short middle to Hunter Henry for 13 yards (tackle by Matt Milano),0.5,2.19,18.0,2022,258
+3.0,12:17,1.0,10.0,NWE 49,14.0,14.0,Damien Harris left guard for 6 yards (tackle by Tremaine Edmunds),2.19,2.46,18.0,2022,258
+3.0,11:38,2.0,4.0,BUF 45,14.0,14.0,Damien Harris up the middle for 3 yards (tackle by Ed Oliver),2.46,2.15,18.0,2022,258
+3.0,10:59,3.0,1.0,BUF 42,14.0,14.0,Mac Jones pass incomplete short right intended for Jakobi Meyers (defended by Tremaine Edmunds),2.15,0.46,18.0,2022,258
+3.0,10:55,4.0,1.0,BUF 42,14.0,14.0,Mac Jones pass complete short right to Hunter Henry for 5 yards (tackle by Tremaine Edmunds),0.46,3.12,18.0,2022,258
+3.0,10:15,1.0,10.0,BUF 37,14.0,14.0,Rhamondre Stevenson left tackle for 16 yards (tackle by Jordan Poyer),3.12,4.17,18.0,2022,258
+3.0,9:31,1.0,10.0,BUF 21,14.0,14.0,Mac Jones pass deep left intended for Nelson Agholor is intercepted by Tre'Davious White at BUF-2 and returned for no gain (tackle by Nelson Agholor),4.17,0.38,18.0,2022,258
+3.0,9:26,1.0,10.0,BUF 2,14.0,14.0,Devin Singletary left end for 5 yards (tackle by Matt Judon),-0.38,-0.42,18.0,2022,258
+3.0,8:43,2.0,5.0,BUF 7,14.0,14.0,"Devin Singletary right tackle for 2 yards. Devin Singletary fumbles (forced by Jonathan Jones), recovered by Devin McCourty at BUF-11 (tackle by Jonathan Jones)",-0.42,-4.84,18.0,2022,258
+3.0,8:34,1.0,10.0,BUF 11,14.0,14.0,Damien Harris for 2 yards (tackle by Gregory Rousseau),4.84,4.51,18.0,2022,258
+3.0,8:01,2.0,8.0,BUF 9,14.0,14.0,Mac Jones pass incomplete intended for Damien Harris (defended by Matt Milano),4.51,3.53,18.0,2022,258
+3.0,7:55,3.0,8.0,BUF 9,14.0,14.0,Mac Jones scrambles up the middle for 3 yards (tackle by Matt Milano),3.53,2.99,18.0,2022,258
+3.0,7:09,4.0,5.0,BUF 6,17.0,14.0,Nick Folk 24 yard field goal good,2.99,3.0,18.0,2022,258
+3.0,7:06,,,NWE 35,17.0,20.0,"Nick Folk kicks off 66 yards, returned by Nyheim Hines for 101 yards, touchdown",0.0,7.0,18.0,2022,258
+3.0,6:53,,,NWE 15,17.0,21.0,Tyler Bass kicks extra point good,0.0,0.0,18.0,2022,258
+3.0,6:53,,,BUF 35,17.0,21.0,"Tyler Bass kicks off 62 yards, returned by Marcus Jones for 36 yards (tackle by Tyler Bass)",0.0,1.53,18.0,2022,258
+3.0,6:45,1.0,10.0,NWE 39,17.0,21.0,Mac Jones pass complete short right to Hunter Henry for 9 yards (tackle by Tremaine Edmunds and Matt Milano),1.53,2.2,18.0,2022,258
+3.0,6:10,2.0,1.0,NWE 48,17.0,21.0,Mac Jones up the middle for 2 yards (tackle by Tremaine Edmunds),2.2,2.26,18.0,2022,258
+3.0,5:36,1.0,10.0,BUF 50,17.0,21.0,Rhamondre Stevenson left guard for 3 yards (tackle by Boogie Basham),2.26,2.12,18.0,2022,258
+3.0,4:57,2.0,7.0,BUF 47,17.0,21.0,Mac Jones pass incomplete short right intended for Rhamondre Stevenson,2.12,1.42,18.0,2022,258
+3.0,4:51,3.0,7.0,BUF 47,17.0,21.0,Mac Jones pass incomplete short right intended for Tyquan Thornton,1.42,0.13,18.0,2022,258
+3.0,4:45,4.0,7.0,BUF 47,17.0,21.0,"Michael Palardy punts 28 yards, fair catch by Nyheim Hines at BUF-19",0.13,-0.15,18.0,2022,258
+3.0,4:37,1.0,10.0,BUF 19,17.0,21.0,Josh Allen pass incomplete short right intended for Gabriel Davis,0.15,-0.39,18.0,2022,258
+3.0,4:35,2.0,10.0,BUF 19,17.0,21.0,Josh Allen pass complete short left to Dawson Knox for 9 yards (tackle by Adrian Phillips),-0.39,0.1,18.0,2022,258
+3.0,3:56,3.0,1.0,BUF 28,17.0,21.0,Josh Allen left guard for 3 yards (tackle by Jahlani Tavai and Matt Judon),0.1,1.0,18.0,2022,258
+3.0,3:15,1.0,10.0,BUF 31,17.0,21.0,Josh Allen left end for -1 yards (tackle by Matt Judon and Kyle Dugger),1.0,0.32,18.0,2022,258
+3.0,2:35,2.0,11.0,BUF 30,17.0,21.0,Josh Allen pass complete short middle to Khalil Shakir for 28 yards (tackle by Myles Bryant and Devin McCourty),0.32,2.79,18.0,2022,258
+3.0,1:48,1.0,10.0,NWE 42,17.0,21.0,Josh Allen pass incomplete short left intended for Isaiah McKenzie,2.79,2.24,18.0,2022,258
+3.0,1:43,2.0,10.0,NWE 42,17.0,27.0,"Josh Allen pass complete deep right to John Brown for 42 yards, touchdown",2.24,7.0,18.0,2022,258
+3.0,1:35,,,NWE 15,17.0,28.0,Tyler Bass kicks extra point good,0.0,0.0,18.0,2022,258
+3.0,1:35,,,BUF 35,17.0,28.0,"Tyler Bass kicks off 66 yards, returned by Marcus Jones for 16 yards (tackle by Cameron Lewis)",0.0,-0.22,18.0,2022,258
+3.0,1:30,1.0,10.0,NWE 15,17.0,28.0,Mac Jones pass complete short left to DeVante Parker for 14 yards (tackle by Dean Marlowe),-0.22,0.87,18.0,2022,258
+3.0,0:55,1.0,10.0,NWE 29,17.0,28.0,Damien Harris up the middle for 19 yards (tackle by Dean Marlowe and Tre'Davious White),0.87,2.13,18.0,2022,258
+3.0,0:08,1.0,10.0,NWE 48,17.0,28.0,Damien Harris left guard for 2 yards (tackle by Tremaine Edmunds and Taron Johnson),2.13,1.85,18.0,2022,258
+4.0,15:00,2.0,8.0,NWE 50,17.0,28.0,"Mac Jones pass complete short left to Damien Harris for no gain (tackle by Dean Marlowe). Penalty on Kaiir Elam: Defensive Holding, 5 yards (accepted) (no play)",1.85,2.59,18.0,2022,258
+4.0,14:26,1.0,10.0,BUF 45,17.0,28.0,"Mac Jones pass incomplete deep right intended for Jakobi Meyers. Penalty on David Andrews: Offensive Holding, 10 yards (accepted) (no play)",2.59,1.93,18.0,2022,258
+4.0,14:26,1.0,20.0,NWE 45,17.0,28.0,Mac Jones pass complete short left to Rhamondre Stevenson for 4 yards (tackle by Matt Milano),1.93,1.23,18.0,2022,258
+4.0,13:47,2.0,16.0,NWE 49,17.0,28.0,"Rhamondre Stevenson up the middle for 10 yards. Rhamondre Stevenson fumbles (forced by Jordan Poyer), recovered by David Andrews at BUF-41 (tackle by Taron Johnson and Jordan Poyer)",1.23,1.88,18.0,2022,258
+4.0,13:05,3.0,6.0,BUF 41,17.0,28.0,Mac Jones pass complete short right to Hunter Henry for 5 yards (tackle by Jordan Poyer),1.88,0.89,18.0,2022,258
+4.0,12:20,4.0,1.0,BUF 36,17.0,28.0,Mac Jones pass complete short right to Jakobi Meyers for 10 yards (tackle by Tre'Davious White),0.89,3.84,18.0,2022,258
+4.0,11:43,1.0,10.0,BUF 26,23.0,28.0,"Mac Jones pass complete deep left to DeVante Parker for 26 yards, touchdown",3.84,7.0,18.0,2022,258
+4.0,11:37,,,BUF 2,23.0,28.0,Two Point Attempt: Mac Jones pass incomplete intended for intended for Rhamondre Stevenson,1.0,-1.0,18.0,2022,258
+4.0,11:37,,,NWE 35,23.0,28.0,"Nick Folk kicks off 50 yards, out of bounds",0.0,1.6,18.0,2022,258
+4.0,11:37,1.0,10.0,BUF 40,23.0,28.0,Josh Allen pass complete short left to Gabriel Davis for 11 yards (tackle by Devin McCourty and Jonathan Jones),1.6,2.32,18.0,2022,258
+4.0,10:53,1.0,10.0,NWE 49,23.0,28.0,James Cook left guard for 2 yards (tackle by Ja'Whaun Bentley and Devin McCourty),2.32,2.05,18.0,2022,258
+4.0,10:13,2.0,8.0,NWE 47,23.0,28.0,"Josh Allen pass complete to Dawson Knox for 8 yards. Penalty on James Cook: Chop Block, 15 yards (accepted) (no play)",2.05,0.02,18.0,2022,258
+4.0,9:46,2.0,23.0,BUF 38,23.0,28.0,Josh Allen pass complete short right to Isaiah McKenzie for 13 yards (tackle by Devin McCourty),0.02,1.09,18.0,2022,258
+4.0,8:59,3.0,10.0,NWE 49,23.0,34.0,"Josh Allen pass complete deep left to Stefon Diggs for 49 yards, touchdown",1.09,7.0,18.0,2022,258
+4.0,8:51,,,NWE 15,23.0,35.0,Tyler Bass kicks extra point good,0.0,0.0,18.0,2022,258
+4.0,8:51,,,BUF 35,23.0,35.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.61,18.0,2022,258
+4.0,8:51,1.0,10.0,NWE 25,23.0,35.0,Mac Jones pass incomplete short right intended for Jakobi Meyers,0.61,0.06,18.0,2022,258
+4.0,8:47,2.0,10.0,NWE 25,23.0,35.0,Mac Jones pass incomplete short left intended for Jakobi Meyers (defended by Taron Johnson),0.06,-0.62,18.0,2022,258
+4.0,8:42,3.0,10.0,NWE 25,23.0,35.0,Mac Jones pass incomplete deep middle intended for DeVante Parker,-0.62,-1.7,18.0,2022,258
+4.0,8:34,4.0,10.0,NWE 25,23.0,35.0,"Michael Palardy punts 40 yards, recovered by Ja'Whaun Bentley at BUF-34. Penalty on Siran Neal: Offensive Illegal Block Above the Waist, 15 yards (declined)",-1.7,3.25,18.0,2022,258
+4.0,8:22,1.0,10.0,BUF 35,23.0,35.0,Damien Harris up the middle for -4 yards (tackle by Taron Johnson and Gregory Rousseau),3.25,2.16,18.0,2022,258
+4.0,7:40,2.0,14.0,BUF 39,23.0,35.0,Mac Jones pass complete short right to Tyquan Thornton for 13 yards (tackle by Matt Milano),2.16,3.2,18.0,2022,258
+4.0,6:53,3.0,1.0,BUF 26,23.0,35.0,Damien Harris up the middle for 13 yards (tackle by Jordan Poyer and Tre'Davious White),3.2,4.71,18.0,2022,258
+4.0,6:14,1.0,10.0,BUF 13,23.0,35.0,"Mac Jones pass complete to Jakobi Meyers for no gain. Penalty on Hunter Henry: Offensive Pass Interference, 10 yards (accepted) (no play)",4.71,4.04,18.0,2022,258
+4.0,5:50,1.0,20.0,BUF 23,23.0,35.0,Mac Jones pass incomplete short left intended for Kendrick Bourne,4.04,2.81,18.0,2022,258
+4.0,5:46,2.0,20.0,BUF 23,23.0,35.0,Damien Harris for 1 yard (tackle by Taron Johnson),2.81,2.28,18.0,2022,258
+4.0,5:06,3.0,19.0,BUF 22,23.0,35.0,Mac Jones pass deep middle intended for Hunter Henry is intercepted by Matt Milano in end zone and returned for 41 yards (tackle by Tyquan Thornton),2.28,-1.53,18.0,2022,258
+4.0,4:52,1.0,10.0,BUF 39,23.0,35.0,Josh Allen pass complete short right to Stefon Diggs for 6 yards (tackle by Marcus Jones),1.53,1.8,18.0,2022,258
+4.0,4:46,2.0,4.0,BUF 45,23.0,35.0,James Cook up the middle for 6 yards (tackle by Deatrich Wise),1.8,2.32,18.0,2022,258
+4.0,4:04,1.0,10.0,NWE 49,23.0,35.0,Devin Singletary right guard for -2 yards (tackle by Anfernee Jennings),2.32,1.51,18.0,2022,258
+4.0,3:56,,,,,,Timeout #1 by New England Patriots,,,18.0,2022,258
+4.0,3:56,2.0,12.0,BUF 49,23.0,35.0,Josh Allen pass incomplete deep right intended for Stefon Diggs,1.51,0.83,18.0,2022,258
+4.0,3:47,,,,,,Timeout #1 by Buffalo Bills,,,18.0,2022,258
+4.0,3:47,3.0,12.0,BUF 49,23.0,35.0,Josh Allen pass incomplete deep right intended for Gabriel Davis,0.83,-0.13,18.0,2022,258
+4.0,3:37,4.0,12.0,BUF 49,23.0,35.0,"Sam Martin punts 45 yards, returned by Marcus Jones for 13 yards (tackle by Reggie Gilliam)",-0.13,-0.15,18.0,2022,258
+4.0,3:25,1.0,10.0,NWE 19,23.0,35.0,Mac Jones pass complete short right to Hunter Henry for 5 yards (tackle by Tre'Davious White),0.15,0.34,18.0,2022,258
+4.0,3:19,2.0,5.0,NWE 24,23.0,35.0,Mac Jones pass complete short middle to Damien Harris for 4 yards (tackle by Jordan Poyer),0.34,0.1,18.0,2022,258
+4.0,2:50,3.0,1.0,NWE 28,23.0,35.0,Mac Jones pass short middle intended for Damien Harris is intercepted by Tremaine Edmunds at NE-35 and returned for 4 yards (tackle by Hunter Henry),0.1,-3.51,18.0,2022,258
+4.0,2:42,1.0,10.0,NWE 31,23.0,35.0,James Cook left guard for 4 yards (tackle by Ja'Whaun Bentley),3.51,3.51,18.0,2022,258
+4.0,2:35,,,,,,Timeout #2 by New England Patriots,,,18.0,2022,258
+4.0,2:35,2.0,6.0,NWE 27,23.0,35.0,James Cook left guard for 7 yards (tackle by Jonathan Jones and Kyle Dugger),3.51,4.24,18.0,2022,258
+4.0,2:00,1.0,10.0,NWE 20,23.0,35.0,Josh Allen kneels for -1 yards,4.24,3.56,18.0,2022,258
+4.0,1:19,2.0,11.0,NWE 21,23.0,35.0,Josh Allen kneels for -1 yards,3.56,2.74,18.0,2022,258
+4.0,0:39,3.0,12.0,NWE 22,23.0,35.0,Josh Allen kneels for -1 yards,2.74,1.93,18.0,2022,258

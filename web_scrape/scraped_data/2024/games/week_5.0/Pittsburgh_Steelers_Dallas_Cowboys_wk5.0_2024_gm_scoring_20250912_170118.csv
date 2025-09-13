@@ -1,0 +1,8 @@
+Quarter,Time,Tm,Detail,DAL,PIT,week,year,game_id
+1.0,12:35,Cowboys,Brandon Aubrey 55 yard field goal,3,0,5.0,2024,77
+,7:33,Steelers,Chris Boswell 41 yard field goal,3,3,5.0,2024,77
+2.0,8:51,Cowboys,Brandon Aubrey 33 yard field goal,6,3,5.0,2024,77
+3.0,11:50,Steelers,Connor Heyward 16 yard pass from Justin Fields (Chris Boswell kick),6,10,5.0,2024,77
+4.0,13:51,Cowboys,Rico Dowdle 22 yard pass from Dak Prescott (Brandon Aubrey kick),13,10,5.0,2024,77
+,4:56,Steelers,Pat Freiermuth 6 yard pass from Justin Fields (Chris Boswell kick),13,17,5.0,2024,77
+,0:20,Cowboys,Jalen Tolbert 4 yard pass from Dak Prescott (Brandon Aubrey kick),20,17,5.0,2024,77

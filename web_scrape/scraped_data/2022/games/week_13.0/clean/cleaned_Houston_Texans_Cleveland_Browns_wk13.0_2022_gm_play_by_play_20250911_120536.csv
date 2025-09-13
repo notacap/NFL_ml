@@ -1,0 +1,170 @@
+Quarter,Time,Down,ToGo,Location,CLE,HOU,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Browns won the coin toss and deferred, Texans to receive the opening kickoff.",,,13.0,2022,182
+1.0,15:00,,,CLE 35,0.0,0.0,"Cade York kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,182
+1.0,15:00,1.0,10.0,HOU 25,0.0,0.0,"Kyle Allen pass incomplete deep right intended for Teagan Quitoriano Replay Assistant challenged the pass interception ruling, and the original play was overturned. Kyle Allen pass deep right intended for Teagan Quitoriano is intercepted by John Johnson at CLE-43 and returned for no gain",0.61,-1.8,13.0,2022,182
+1.0,14:54,1.0,10.0,CLE 43,0.0,0.0,Nick Chubb right guard for 7 yards (tackle by Roy Lopez),1.8,2.2,13.0,2022,182
+1.0,14:22,2.0,3.0,HOU 50,0.0,0.0,Deshaun Watson pass incomplete short right intended for Amari Cooper (defended by Steven Nelson),2.2,1.49,13.0,2022,182
+1.0,14:19,3.0,3.0,HOU 50,0.0,0.0,Deshaun Watson pass incomplete short left intended for David Bell,1.49,-0.06,13.0,2022,182
+1.0,14:11,4.0,3.0,HOU 50,0.0,0.0,"Corey Bojorquez punts 40 yards, fair catch by Desmond King at HOU-10",-0.06,0.38,13.0,2022,182
+1.0,14:04,1.0,10.0,HOU 10,0.0,0.0,Kyle Allen pass complete short right to Phillip Dorsett for 11 yards (tackle by Denzel Ward and Jeremiah Owusu-Koramoah),-0.38,0.34,13.0,2022,182
+1.0,13:18,1.0,10.0,HOU 21,0.0,0.0,Dameon Pierce left end for 7 yards (tackle by Sione Takitaki and Denzel Ward),0.34,0.75,13.0,2022,182
+1.0,12:55,2.0,3.0,HOU 28,0.0,0.0,Kyle Allen pass incomplete short left intended for Nico Collins,0.75,0.04,13.0,2022,182
+1.0,12:51,3.0,3.0,HOU 28,0.0,0.0,"Kyle Allen pass incomplete short left intended for Jordan Akins. Penalty on Tytus Howard: Offensive Holding, 10 yards (declined)",0.04,-1.5,13.0,2022,182
+1.0,12:47,4.0,3.0,HOU 28,0.0,0.0,"Cameron Johnston punts 48 yards, returned by Donovan Peoples-Jones for 6 yards (tackle by Dare Ogunbowale)",-1.5,-0.94,13.0,2022,182
+1.0,12:38,1.0,10.0,CLE 30,0.0,0.0,Nick Chubb left tackle for 5 yards (tackle by Steven Nelson and Christian Harris),0.94,1.07,13.0,2022,182
+1.0,12:05,2.0,5.0,CLE 35,0.0,0.0,"Deshaun Watson pass complete short right to Anthony Schwartz for 12 yards. Anthony Schwartz fumbles (forced by Tavierre Thomas), recovered by Desmond King at HOU-47 and returned for 15 yards (tackle by Donovan Peoples-Jones and Joel Bitonio)",1.07,-3.05,13.0,2022,182
+1.0,11:53,1.0,10.0,CLE 38,0.0,0.0,Dameon Pierce left guard for 6 yards (tackle by Denzel Ward),3.05,3.32,13.0,2022,182
+1.0,11:14,2.0,4.0,CLE 32,0.0,0.0,Dameon Pierce up the middle for 3 yards (tackle by Sione Takitaki and Grant Delpit),3.32,3.01,13.0,2022,182
+1.0,10:32,3.0,1.0,CLE 29,0.0,0.0,Dameon Pierce up the middle for 2 yards (tackle by Myles Garrett),3.01,3.78,13.0,2022,182
+1.0,9:59,1.0,10.0,CLE 27,0.0,0.0,Kyle Allen pass complete short right to Jordan Akins for 11 yards (tackle by Jeremiah Owusu-Koramoah and Denzel Ward),3.78,4.51,13.0,2022,182
+1.0,9:25,1.0,10.0,CLE 16,0.0,0.0,"Kyle Allen pass incomplete deep right intended for Brevin Jordan. Penalty on Brevin Jordan: Face Mask (15 Yards), 15 yards (accepted) (no play)",4.51,3.51,13.0,2022,182
+1.0,9:24,1.0,25.0,CLE 31,0.0,0.0,"Penalty on Tytus Howard: False Start, 5 yards (accepted) (no play)",3.51,3.18,13.0,2022,182
+1.0,9:24,1.0,30.0,CLE 36,0.0,0.0,Dameon Pierce right guard for 6 yards (tackle by Perrion Winfrey and Taven Bryan),3.18,2.07,13.0,2022,182
+1.0,9:02,2.0,24.0,CLE 30,0.0,0.0,Dameon Pierce right guard for 5 yards (tackle by Taven Bryan),2.07,2.08,13.0,2022,182
+1.0,8:11,3.0,19.0,CLE 25,0.0,0.0,Kyle Allen pass incomplete deep right intended for Nico Collins,2.08,1.8,13.0,2022,182
+1.0,8:06,4.0,19.0,CLE 25,0.0,3.0,Ka'imi Fairbairn 44 yard field goal good,1.8,3.0,13.0,2022,182
+1.0,8:02,,,HOU 35,0.0,3.0,"Ka'imi Fairbairn kicks off 62 yards, returned by Jerome Ford for 13 yards (tackle by Neville Hewitt and Troy Hairston)",0.0,-0.14,13.0,2022,182
+1.0,7:57,1.0,10.0,CLE 16,0.0,3.0,Nick Chubb right tackle for 18 yards (tackle by Jalen Pitre and Desmond King),-0.14,1.2,13.0,2022,182
+1.0,7:17,1.0,10.0,CLE 34,0.0,3.0,Nick Chubb left guard for 4 yards (tackle by Tavierre Thomas and Rasheem Green),1.2,1.2,13.0,2022,182
+1.0,6:43,2.0,6.0,CLE 38,0.0,3.0,Deshaun Watson pass incomplete short right intended for Amari Cooper,1.2,0.5,13.0,2022,182
+1.0,6:40,3.0,6.0,CLE 38,0.0,3.0,Deshaun Watson pass complete short middle to Kareem Hunt for 7 yards (tackle by Steven Nelson),0.5,1.93,13.0,2022,182
+1.0,6:02,1.0,10.0,CLE 45,0.0,3.0,Kareem Hunt right tackle for -2 yards (tackle by Christian Kirksey and Tavierre Thomas),1.93,1.11,13.0,2022,182
+1.0,5:34,2.0,12.0,CLE 43,0.0,3.0,"Deshaun Watson pass complete short right to Kareem Hunt for 11 yards. Penalty on Jerry Hughes: Defensive Offside, 5 yards (declined)",1.11,1.88,13.0,2022,182
+1.0,5:05,3.0,1.0,HOU 46,0.0,3.0,Harrison Bryant left end for 8 yards (tackle by Jalen Pitre),1.88,3.05,13.0,2022,182
+1.0,4:27,1.0,10.0,HOU 38,0.0,3.0,Deshaun Watson pass complete deep left to Donovan Peoples-Jones for 27 yards (tackle by Jalen Pitre),3.05,4.84,13.0,2022,182
+1.0,3:35,1.0,10.0,HOU 11,0.0,3.0,Deshaun Watson pass short middle intended for Amari Cooper is intercepted by Jalen Pitre in end zone and returned for 29 yards (tackle by Wyatt Teller),4.84,-0.67,13.0,2022,182
+1.0,3:23,1.0,10.0,HOU 26,0.0,3.0,Kyle Allen pass complete to Brevin Jordan for 20 yards,0.67,1.99,13.0,2022,182
+1.0,2:40,1.0,10.0,HOU 46,0.0,3.0,Kyle Allen pass incomplete deep left intended for Nico Collins,1.99,1.45,13.0,2022,182
+1.0,2:34,2.0,10.0,HOU 46,0.0,3.0,Dameon Pierce left guard for 11 yards (tackle by Jordan Elliott),1.45,2.72,13.0,2022,182
+1.0,1:54,1.0,10.0,CLE 43,0.0,3.0,Dameon Pierce left guard for 9 yards (tackle by Jadeveon Clowney),2.72,3.39,13.0,2022,182
+1.0,1:12,2.0,1.0,CLE 34,0.0,3.0,Dameon Pierce right tackle for 6 yards (tackle by Taven Bryan and Sione Takitaki),3.39,3.71,13.0,2022,182
+1.0,0:35,1.0,10.0,CLE 28,0.0,3.0,Kyle Allen pass complete short left to Nico Collins for 13 yards (tackle by Greg Newsome),3.71,4.58,13.0,2022,182
+2.0,15:00,1.0,10.0,CLE 15,0.0,3.0,Kyle Allen pass complete short left to Jordan Akins for 6 yards (tackle by Greg Newsome),4.58,5.03,13.0,2022,182
+2.0,14:33,2.0,4.0,CLE 9,0.0,3.0,Dare Ogunbowale left guard for 6 yards (tackle by Perrion Winfrey and Grant Delpit),5.03,6.51,13.0,2022,182
+2.0,14:02,1.0,3.0,CLE 3,0.0,3.0,Kyle Allen pass incomplete short right intended for Teagan Quitoriano,6.51,5.53,13.0,2022,182
+2.0,13:55,2.0,3.0,CLE 3,0.0,3.0,Kyle Allen pass incomplete short left intended for Nico Collins,5.53,4.72,13.0,2022,182
+2.0,13:51,,,,,,Timeout #1 by Houston Texans,,,13.0,2022,182
+2.0,13:51,3.0,3.0,CLE 3,0.0,3.0,Dare Ogunbowale up the middle for 2 yards (tackle by Myles Garrett),4.72,3.55,13.0,2022,182
+2.0,13:04,4.0,1.0,CLE 1,0.0,3.0,Kyle Allen pass incomplete short left intended for Troy Hairston (defended by Grant Delpit),3.55,0.38,13.0,2022,182
+2.0,13:02,1.0,10.0,CLE 1,0.0,3.0,Nick Chubb up the middle for 1 yard (tackle by Christian Harris),-0.38,-0.71,13.0,2022,182
+2.0,12:24,2.0,9.0,CLE 2,0.0,3.0,"Penalty on Wyatt Teller: False Start, 1 yard (accepted) (no play)",-0.71,-0.78,13.0,2022,182
+2.0,12:00,2.0,10.0,CLE 1,0.0,5.0,"Nick Chubb up the middle for -1 yards (tackle by Roy Lopez), safety.",-0.78,-2.0,13.0,2022,182
+2.0,11:53,,,CLE 20,0.0,5.0,"Corey Bojorquez kicks off 79 yards, returned by Desmond King for 50 yards (tackle by A.J. Green)",0.0,2.32,13.0,2022,182
+2.0,11:44,1.0,10.0,CLE 49,0.0,5.0,Dameon Pierce up the middle for no gain (tackle by Alex Wright and Jordan Elliott),2.32,1.78,13.0,2022,182
+2.0,11:05,2.0,10.0,CLE 49,0.0,5.0,Kyle Allen pass complete short right to Dameon Pierce for 1 yard (tackle by Sione Takitaki and Alex Wright),1.78,1.22,13.0,2022,182
+2.0,10:21,3.0,9.0,CLE 48,0.0,5.0,Kyle Allen pass complete short middle to Jordan Akins for 4 yards (tackle by Greg Newsome),1.22,0.33,13.0,2022,182
+2.0,9:47,4.0,4.0,CLE 44,0.0,5.0,Cameron Johnston punts 43 yards downed by Tremon Smith,0.33,0.38,13.0,2022,182
+2.0,9:35,1.0,10.0,CLE 1,0.0,5.0,Deshaun Watson pass complete short left to Amari Cooper for 8 yards (tackle by Christian Harris),-0.38,-0.2,13.0,2022,182
+2.0,9:00,2.0,2.0,CLE 9,0.0,5.0,Kareem Hunt left end for 7 yards (tackle by Steven Nelson),-0.2,-0.14,13.0,2022,182
+2.0,8:27,1.0,10.0,CLE 16,0.0,5.0,Deshaun Watson pass complete short left to Pharaoh Brown for 11 yards (tackle by M.J. Stewart),-0.14,0.74,13.0,2022,182
+2.0,7:53,1.0,10.0,CLE 27,0.0,5.0,"Deshaun Watson left end for 2 yards (tackle by Christian Kirksey). Penalty on Donovan Peoples-Jones: Offensive Holding, 10 yards (accepted)",0.74,0.12,13.0,2022,182
+2.0,7:27,1.0,18.0,CLE 19,0.0,5.0,Nick Chubb left end for 2 yards (tackle by Christian Kirksey),0.12,-0.61,13.0,2022,182
+2.0,6:45,2.0,16.0,CLE 21,0.0,5.0,Deshaun Watson pass complete short left to Donovan Peoples-Jones for 14 yards (tackle by Jalen Pitre),-0.61,0.56,13.0,2022,182
+2.0,6:10,3.0,2.0,CLE 35,0.0,5.0,Nick Chubb left guard for 1 yard (tackle by Ogbonnia Okoronkwo),0.56,-0.98,13.0,2022,182
+2.0,5:31,4.0,1.0,CLE 36,0.0,5.0,Corey Bojorquez punts 56 yards downed by Anthony Schwartz,-0.98,0.38,13.0,2022,182
+2.0,5:20,1.0,10.0,HOU 8,0.0,5.0,Dameon Pierce up the middle for 2 yards (tackle by Alex Wright and Perrion Winfrey),-0.38,-0.63,13.0,2022,182
+2.0,4:42,2.0,8.0,HOU 10,0.0,5.0,Kyle Allen pass incomplete short right intended for Brevin Jordan,-0.63,-1.19,13.0,2022,182
+2.0,4:37,3.0,8.0,HOU 10,0.0,5.0,Kyle Allen pass complete short left to Dare Ogunbowale for 6 yards (tackle by Martin Emerson),-1.19,-2.39,13.0,2022,182
+2.0,4:01,4.0,2.0,HOU 16,6.0,5.0,"Cameron Johnston punts 60 yards, returned by Donovan Peoples-Jones for 76 yards, touchdown",-2.39,-7.0,13.0,2022,182
+2.0,3:41,,,HOU 15,7.0,5.0,Cade York kicks extra point good,0.0,0.0,13.0,2022,182
+2.0,3:41,,,CLE 35,7.0,5.0,"Cade York kicks off 54 yards, returned by Dare Ogunbowale for 21 yards (tackle by Grant Delpit)",0.0,1.07,13.0,2022,182
+2.0,3:31,1.0,10.0,HOU 32,7.0,5.0,Kyle Allen pass complete short left to Dameon Pierce for 14 yards (tackle by Jeremiah Owusu-Koramoah and Sione Takitaki),1.07,1.99,13.0,2022,182
+2.0,2:52,1.0,10.0,HOU 46,7.0,5.0,Kyle Allen pass complete short right to Chris Moore for 3 yards (tackle by Denzel Ward and John Johnson),1.99,1.86,13.0,2022,182
+2.0,2:09,2.0,7.0,HOU 49,7.0,5.0,Kyle Allen pass complete short right to Brevin Jordan for 5 yards (tackle by Martin Emerson and Jeremiah Owusu-Koramoah),1.86,1.82,13.0,2022,182
+2.0,2:00,3.0,2.0,CLE 46,7.0,5.0,"Kyle Allen aborted snap, recovered by Kyle Allen at CLE-46 and returned for -4 yards (tackle by Myles Garrett)",1.82,-0.06,13.0,2022,182
+2.0,1:15,4.0,6.0,HOU 50,7.0,5.0,Cameron Johnston punts 41 yards out of bounds,-0.06,0.38,13.0,2022,182
+2.0,1:22,1.0,10.0,CLE 9,7.0,5.0,"Kareem Hunt left guard for 7 yards (tackle by Roy Lopez). Penalty on Maliek Collins: Defensive Holding, 5 yards (accepted)",-0.38,0.34,13.0,2022,182
+2.0,1:17,1.0,10.0,CLE 21,7.0,5.0,Deshaun Watson pass complete short left to Harrison Bryant for 6 yards (tackle by Maliek Collins and Jalen Pitre),0.34,0.61,13.0,2022,182
+2.0,0:54,2.0,4.0,CLE 27,7.0,5.0,Deshaun Watson pass incomplete short middle intended for Kareem Hunt (defended by Mario Addison),0.61,-0.1,13.0,2022,182
+2.0,0:49,3.0,4.0,CLE 27,7.0,5.0,Deshaun Watson pass incomplete short middle,-0.1,-1.57,13.0,2022,182
+2.0,0:46,4.0,4.0,CLE 27,7.0,5.0,"Corey Bojorquez punts 67 yards, returned by Desmond King for 20 yards (tackle by Mike Brown)",-1.57,-0.67,13.0,2022,182
+2.0,0:32,1.0,10.0,HOU 26,7.0,5.0,Kyle Allen pass incomplete deep left intended for Nico Collins,0.67,0.13,13.0,2022,182
+2.0,0:27,2.0,10.0,HOU 26,7.0,5.0,Kyle Allen pass incomplete short right intended for Phillip Dorsett (defended by Greg Newsome),0.13,-0.56,13.0,2022,182
+2.0,0:23,3.0,10.0,HOU 26,7.0,5.0,Kyle Allen pass complete short left to Dare Ogunbowale for 7 yards (tackle by Alex Wright),-0.56,-1.18,13.0,2022,182
+2.0,0:16,,,,,,Timeout #1 by Cleveland Browns,,,13.0,2022,182
+2.0,0:16,4.0,3.0,HOU 33,7.0,5.0,"Cameron Johnston punts 47 yards, fair catch by Donovan Peoples-Jones at CLE-20",-1.18,-0.28,13.0,2022,182
+2.0,0:11,1.0,10.0,CLE 20,7.0,5.0,Kareem Hunt left end for 11 yards (tackle by Christian Kirksey and Christian Harris),0.28,1.0,13.0,2022,182
+2.0,0:03,,,,,,Timeout #2 by Cleveland Browns,,,13.0,2022,182
+2.0,0:03,1.0,10.0,CLE 31,7.0,5.0,"Kareem Hunt right guard for 6 yards. Kareem Hunt fumbles (forced by Tavierre Thomas), recovered by Kareem Hunt at CLE-37 (tackle by Ogbonnia Okoronkwo)",1.0,1.27,13.0,2022,182
+3.0,15:00,,,HOU 35,7.0,5.0,"Ka'imi Fairbairn kicks off 64 yards, returned by Jerome Ford for 12 yards (tackle by Jalen Reeves-Maybin)",0.0,-0.32,13.0,2022,182
+3.0,14:55,1.0,10.0,CLE 13,7.0,5.0,Nick Chubb right guard for 9 yards (tackle by Jalen Pitre and Desmond King),-0.32,0.49,13.0,2022,182
+3.0,14:17,2.0,1.0,CLE 22,7.0,5.0,Deshaun Watson pass complete short right to Amari Cooper for 9 yards (tackle by Jalen Pitre and Jonathan Owens),0.49,1.0,13.0,2022,182
+3.0,13:35,1.0,10.0,CLE 31,7.0,5.0,Deshaun Watson pass incomplete short middle intended for Nick Chubb,1.0,0.46,13.0,2022,182
+3.0,13:29,2.0,10.0,CLE 31,7.0,5.0,Anthony Schwartz left end for 6 yards (tackle by Desmond King),0.46,0.56,13.0,2022,182
+3.0,12:54,3.0,4.0,CLE 37,7.0,5.0,Deshaun Watson pass complete short middle to Amari Cooper for 13 yards (tackle by Jalen Pitre),0.56,2.26,13.0,2022,182
+3.0,12:16,1.0,10.0,HOU 50,7.0,5.0,Nick Chubb right tackle for 3 yards (tackle by Jalen Pitre and Jonathan Owens),2.26,2.12,13.0,2022,182
+3.0,11:34,2.0,7.0,HOU 47,7.0,5.0,Deshaun Watson up the middle for 1 yard (tackle by Mario Addison),2.12,1.55,13.0,2022,182
+3.0,10:55,3.0,6.0,HOU 46,7.0,5.0,Deshaun Watson pass incomplete short left intended for Amari Cooper,1.55,0.2,13.0,2022,182
+3.0,10:47,4.0,6.0,HOU 46,7.0,5.0,"Corey Bojorquez punts 44 yards downed by A.J. Green. Penalty on Desmond King: Illegal Block Above the Waist, 1 yard (accepted)",0.2,0.38,13.0,2022,182
+3.0,10:38,1.0,10.0,HOU 1,7.0,5.0,"Dameon Pierce for no gain (tackle by Tony Fields). Penalty on Teagan Quitoriano: Illegal Formation, 5 yards (declined)",-0.38,-0.78,13.0,2022,182
+3.0,10:16,2.0,10.0,HOU 1,13.0,5.0,"Kyle Allen for 1 yard. Kyle Allen fumbles (forced by Tony Fields), recovered by Denzel Ward at HOU-4 and returned for 4 yards, touchdown",-0.78,-7.0,13.0,2022,182
+3.0,10:10,,,HOU 15,14.0,5.0,Cade York kicks extra point good,0.0,0.0,13.0,2022,182
+3.0,10:10,,,CLE 35,14.0,5.0,"Cade York kicks off 62 yards, returned by Tremon Smith for 21 yards (tackle by Greedy Williams and A.J. Green)",0.0,0.54,13.0,2022,182
+3.0,10:03,1.0,10.0,HOU 24,14.0,5.0,Dameon Pierce left guard for 3 yards (tackle by Perrion Winfrey and Sione Takitaki),0.54,0.4,13.0,2022,182
+3.0,9:23,2.0,7.0,HOU 27,14.0,5.0,"Kyle Allen pass complete short left to Phillip Dorsett for 6 yards (tackle by Martin Emerson). Penalty on Myles Garrett: Defensive Offside, 5 yards (declined) . Penalty on Nico Collins: Illegal Formation, 5 yards (offset) . Penalty on Taven Bryan: Roughing the Passer, 15 yards (accepted) (no play)",0.4,1.73,13.0,2022,182
+3.0,8:58,1.0,10.0,HOU 42,14.0,5.0,Kyle Allen pass complete short right to Phillip Dorsett for 7 yards (tackle by Sione Takitaki),1.73,2.2,13.0,2022,182
+3.0,8:27,2.0,2.0,HOU 49,14.0,5.0,Kyle Allen pass complete short left to Brevin Jordan for 14 yards (tackle by Denzel Ward and Grant Delpit),2.2,3.12,13.0,2022,182
+3.0,7:45,1.0,10.0,CLE 37,14.0,5.0,"Chris Moore left end for no gain (tackle by Greg Newsome). Penalty on Chase Winovich: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",3.12,4.11,13.0,2022,182
+3.0,7:10,1.0,10.0,CLE 22,14.0,5.0,Dameon Pierce left guard for 6 yards (tackle by Tony Fields and Sione Takitaki),4.11,4.46,13.0,2022,182
+3.0,6:30,2.0,4.0,CLE 16,14.0,5.0,Dameon Pierce up the middle for 1 yard (tackle by Jeremiah Owusu-Koramoah),4.46,3.93,13.0,2022,182
+3.0,5:51,3.0,3.0,CLE 15,14.0,5.0,Dameon Pierce right end for -2 yards (tackle by Deion Jones and Jadeveon Clowney),3.93,2.36,13.0,2022,182
+3.0,5:12,4.0,5.0,CLE 17,14.0,8.0,Ka'imi Fairbairn 35 yard field goal good,2.36,3.0,13.0,2022,182
+3.0,5:08,,,HOU 35,14.0,8.0,"Ka'imi Fairbairn kicks off 67 yards, returned by Jerome Ford for 23 yards (tackle by Tavierre Thomas)",0.0,0.34,13.0,2022,182
+3.0,5:01,1.0,10.0,CLE 21,14.0,8.0,Deshaun Watson pass complete short right to Donovan Peoples-Jones for 3 yards,0.34,0.21,13.0,2022,182
+3.0,4:23,2.0,7.0,CLE 24,14.0,8.0,Nick Chubb left tackle for 21 yards (tackle by Jalen Pitre),0.21,1.93,13.0,2022,182
+3.0,3:42,1.0,10.0,CLE 45,14.0,8.0,Nick Chubb right guard for 5 yards (tackle by Desmond King),1.93,2.06,13.0,2022,182
+3.0,3:08,2.0,5.0,HOU 50,14.0,8.0,Nick Chubb right end for no gain (tackle by Roy Lopez and Ogbonnia Okoronkwo),2.06,1.36,13.0,2022,182
+3.0,2:21,3.0,5.0,HOU 50,14.0,8.0,Deshaun Watson sacked by Ogbonnia Okoronkwo for -1 yards,1.36,-0.13,13.0,2022,182
+3.0,1:43,4.0,6.0,CLE 49,14.0,8.0,"Corey Bojorquez punts 40 yards, returned by Desmond King for 8 yards (tackle by Charley Hughlett and Chase Winovich)",-0.13,-0.15,13.0,2022,182
+3.0,1:31,1.0,10.0,HOU 19,14.0,8.0,Dameon Pierce up the middle for 1 yard (tackle by Sione Takitaki and Perrion Winfrey),0.15,-0.2,13.0,2022,182
+3.0,0:54,2.0,9.0,HOU 20,14.0,8.0,Kyle Allen pass incomplete short left intended for Teagan Quitoriano (defended by Denzel Ward),-0.2,-0.94,13.0,2022,182
+3.0,0:49,3.0,9.0,HOU 20,14.0,8.0,Kyle Allen pass incomplete deep left intended for Nico Collins,-0.94,-2.03,13.0,2022,182
+3.0,0:45,4.0,9.0,HOU 20,14.0,8.0,"Cameron Johnston punts 51 yards, returned by Donovan Peoples-Jones for 4 yards (tackle by Blake Cashman)",-2.03,-1.14,13.0,2022,182
+3.0,0:34,1.0,10.0,CLE 33,14.0,8.0,Deshaun Watson pass incomplete short right intended for Demetric Felton,1.14,0.59,13.0,2022,182
+3.0,0:31,2.0,10.0,CLE 33,14.0,8.0,Kareem Hunt right end for 15 yards (tackle by Christian Kirksey and Jalen Pitre),0.59,2.13,13.0,2022,182
+4.0,15:00,1.0,10.0,CLE 48,14.0,8.0,Kareem Hunt right end for 1 yard (tackle by Jalen Pitre and Desmond King),2.13,1.72,13.0,2022,182
+4.0,14:20,2.0,9.0,CLE 49,14.0,8.0,Kareem Hunt up the middle for 2 yards (tackle by Rasheem Green and Christian Kirksey),1.72,1.29,13.0,2022,182
+4.0,13:39,3.0,7.0,HOU 49,14.0,8.0,Deshaun Watson pass complete short left to Amari Cooper for 10 yards (tackle by Jonathan Owens),1.29,2.98,13.0,2022,182
+4.0,13:04,1.0,10.0,HOU 39,14.0,8.0,Kareem Hunt left end for 9 yards (tackle by Jalen Pitre and Jake Hansen),2.98,3.66,13.0,2022,182
+4.0,12:28,2.0,1.0,HOU 30,14.0,8.0,Nick Chubb right guard for 1 yard (tackle by Jalen Pitre and Christian Harris),3.66,3.64,13.0,2022,182
+4.0,11:49,1.0,10.0,HOU 29,14.0,8.0,Nick Chubb right tackle for 3 yards (tackle by Roy Lopez),3.64,3.51,13.0,2022,182
+4.0,10:58,2.0,7.0,HOU 26,14.0,8.0,"Nick Chubb for 1 yard (tackle by Desmond King). Penalty on Donovan Peoples-Jones: Illegal Block Above the Waist, 10 yards (accepted) (no play)",3.51,2.16,13.0,2022,182
+4.0,10:32,2.0,17.0,HOU 36,14.0,8.0,Deshaun Watson scrambles right end for 11 yards (tackle by Jonathan Owens),2.16,2.94,13.0,2022,182
+4.0,9:47,3.0,6.0,HOU 25,14.0,8.0,Deshaun Watson pass incomplete deep left intended for Amari Cooper,2.94,1.83,13.0,2022,182
+4.0,9:40,4.0,6.0,HOU 25,17.0,8.0,Cade York 43 yard field goal good,1.83,3.0,13.0,2022,182
+4.0,9:36,,,CLE 35,17.0,8.0,"Cade York kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,182
+4.0,9:36,1.0,10.0,HOU 25,23.0,8.0,"Kyle Allen pass short middle (defended by Chase Winovich) intended for Dare Ogunbowale is intercepted by Tony Fields at HOU-16 and returned for 16 yards, touchdown",0.61,-7.0,13.0,2022,182
+4.0,9:30,,,HOU 15,24.0,8.0,Cade York kicks extra point good,0.0,0.0,13.0,2022,182
+4.0,9:30,,,CLE 35,24.0,8.0,"Cade York kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,182
+4.0,9:30,1.0,10.0,HOU 25,24.0,8.0,Kyle Allen pass complete short right to Brevin Jordan for 7 yards (tackle by Grant Delpit),0.61,1.01,13.0,2022,182
+4.0,8:53,2.0,3.0,HOU 32,24.0,8.0,Kyle Allen pass complete short middle to Chris Moore for 4 yards (tackle by Greg Newsome),1.01,1.33,13.0,2022,182
+4.0,8:12,1.0,10.0,HOU 36,24.0,8.0,Kyle Allen pass incomplete deep right intended for Nico Collins,1.33,0.79,13.0,2022,182
+4.0,8:05,2.0,10.0,HOU 36,24.0,8.0,Kyle Allen pass incomplete deep left,0.79,0.1,13.0,2022,182
+4.0,7:59,3.0,10.0,HOU 36,24.0,8.0,Kyle Allen pass incomplete intended for Jordan Akins (defended by Alex Wright),0.1,-0.98,13.0,2022,182
+4.0,7:54,4.0,10.0,HOU 36,24.0,8.0,"Cameron Johnston punts 64 yards, touchback.",-0.98,-0.28,13.0,2022,182
+4.0,7:46,1.0,10.0,CLE 20,24.0,8.0,Nick Chubb right guard for -1 yards (tackle by M.J. Stewart and Jake Hansen),0.28,-0.46,13.0,2022,182
+4.0,7:05,2.0,11.0,CLE 19,24.0,8.0,Deshaun Watson right end for 8 yards (tackle by Steven Nelson and Jerry Hughes),-0.46,-0.03,13.0,2022,182
+4.0,6:19,3.0,3.0,CLE 27,24.0,8.0,"Penalty on Deshaun Watson: False Start, 5 yards (accepted) (no play)",-0.03,-0.69,13.0,2022,182
+4.0,6:19,3.0,8.0,CLE 22,24.0,8.0,Nick Chubb right end for 2 yards (tackle by Jalen Pitre and Rasheem Green),-0.69,-1.77,13.0,2022,182
+4.0,5:44,4.0,6.0,CLE 24,24.0,8.0,"Corey Bojorquez punts 64 yards, returned by Desmond King for 14 yards. Desmond King fumbles (forced by Jordan Kunaszyk), recovered by Tony Fields at HOU-33 and returned for 1 yard (tackle by Jacobi Francis)",-1.77,3.45,13.0,2022,182
+4.0,5:29,,,,,,Timeout #1 by Cleveland Browns,,,13.0,2022,182
+4.0,5:29,1.0,10.0,HOU 32,24.0,8.0,Jerome Ford for no gain (tackle by Kurt Hinish and Jalen Pitre),3.45,2.9,13.0,2022,182
+4.0,5:22,,,,,,Timeout #1 by Houston Texans,,,13.0,2022,182
+4.0,5:22,2.0,10.0,HOU 32,24.0,8.0,Jerome Ford for -1 yards (tackle by Jake Hansen and Christian Harris),2.9,2.08,13.0,2022,182
+4.0,5:17,,,,,,Timeout #2 by Houston Texans,,,13.0,2022,182
+4.0,5:17,3.0,11.0,HOU 33,24.0,8.0,"Jerome Ford for no gain (tackle by Kurt Hinish). Penalty on Michael Dwumfour: Defensive Offside, 5 yards (accepted) (no play)",2.08,2.74,13.0,2022,182
+4.0,4:51,3.0,6.0,HOU 28,24.0,8.0,Jerome Ford right tackle for 4 yards (tackle by Jonathan Owens and Christian Kirksey),2.74,1.99,13.0,2022,182
+4.0,4:08,4.0,2.0,HOU 24,27.0,8.0,Cade York 42 yard field goal good,1.99,3.0,13.0,2022,182
+4.0,4:03,,,CLE 35,27.0,8.0,"Cade York kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,182
+4.0,4:03,1.0,10.0,HOU 25,27.0,8.0,Dameon Pierce up the middle for 7 yards (tackle by A.J. Green and Perrion Winfrey),0.61,1.01,13.0,2022,182
+4.0,3:40,2.0,3.0,HOU 32,27.0,8.0,Kyle Allen pass complete deep middle to Nico Collins for 16 yards (tackle by Greedy Williams),1.01,2.13,13.0,2022,182
+4.0,3:18,1.0,10.0,HOU 48,27.0,8.0,Kyle Allen pass complete short middle to Dameon Pierce for 7 yards (tackle by Tony Fields and Greedy Williams),2.13,2.53,13.0,2022,182
+4.0,2:54,2.0,3.0,CLE 45,27.0,8.0,Kyle Allen pass incomplete short right intended for Jordan Akins,2.53,1.82,13.0,2022,182
+4.0,2:46,3.0,3.0,CLE 45,27.0,8.0,Kyle Allen pass incomplete short right,1.82,0.27,13.0,2022,182
+4.0,2:41,4.0,3.0,CLE 45,27.0,8.0,Kyle Allen pass complete deep left to Chris Moore for 39 yards (tackle by Deion Jones and Ronnie Harrison),0.27,5.83,13.0,2022,182
+4.0,2:00,1.0,6.0,CLE 6,27.0,14.0,"Kyle Allen pass complete short middle to Nico Collins for 6 yards, touchdown",5.83,7.0,13.0,2022,182
+4.0,1:57,,,CLE 2,27.0,14.0,Two Point Attempt: Kyle Allen pass incomplete,1.0,-1.0,13.0,2022,182
+4.0,1:57,,,HOU 35,27.0,14.0,"Ka'imi Fairbairn kicks onside 11 yards, out of bounds",0.0,2.52,13.0,2022,182
+4.0,1:56,1.0,10.0,HOU 46,27.0,14.0,Deshaun Watson kneels for -1 yards,2.52,1.84,13.0,2022,182
+4.0,1:16,2.0,11.0,HOU 47,27.0,14.0,Deshaun Watson kneels for no gain,1.84,1.16,13.0,2022,182
+4.0,0:37,3.0,11.0,HOU 47,27.0,14.0,Deshaun Watson kneels for no gain,1.16,0.13,13.0,2022,182

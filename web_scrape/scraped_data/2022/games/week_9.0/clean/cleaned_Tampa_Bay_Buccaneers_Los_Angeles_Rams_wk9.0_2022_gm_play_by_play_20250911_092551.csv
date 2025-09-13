@@ -1,0 +1,186 @@
+Quarter,Time,Down,ToGo,Location,LAR,TAM,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Buccaneers won the coin toss and deferred, Rams to receive the opening kickoff.",,,9.0,2022,134
+1.0,15:00,,,TAM 35,0.0,0.0,"Jake Camarda kicks off 67 yards, returned by Brandon Powell for 29 yards (tackle by Jake Camarda)",0.0,0.74,9.0,2022,134
+1.0,14:55,1.0,10.0,LAR 27,0.0,0.0,Matthew Stafford pass incomplete short right intended for Darrell Henderson,0.74,0.2,9.0,2022,134
+1.0,14:50,2.0,10.0,LAR 27,0.0,0.0,Darrell Henderson right guard for 5 yards (tackle by Anthony Nelson and Keanu Neal),0.2,0.17,9.0,2022,134
+1.0,14:06,3.0,5.0,LAR 32,0.0,0.0,Matthew Stafford pass incomplete short right intended for Tyler Higbee,0.17,-1.24,9.0,2022,134
+1.0,14:01,4.0,5.0,LAR 32,0.0,0.0,"Riley Dixon punts 41 yards, returned by Jaelon Darden for 17 yards (tackle by Riley Dixon)",-1.24,-1.86,9.0,2022,134
+1.0,13:51,1.0,10.0,TAM 44,0.0,0.0,Leonard Fournette up the middle for 3 yards (tackle by Bobby Wagner),1.86,1.72,9.0,2022,134
+1.0,13:20,2.0,7.0,TAM 47,0.0,0.0,Tom Brady pass incomplete short left intended for Mike Evans (defended by Troy Hill),1.72,1.03,9.0,2022,134
+1.0,13:09,3.0,7.0,TAM 47,0.0,0.0,Tom Brady pass complete short middle to Mike Evans for 10 yards (tackle by Leonard Floyd and Taylor Rapp),1.03,2.72,9.0,2022,134
+1.0,12:42,1.0,10.0,LAR 43,0.0,0.0,"Leonard Fournette up the middle for no gain (tackle by Justin Hollins). Penalty on Robert Hainsey: Offensive Holding, 10 yards (accepted) (no play)",2.72,2.06,9.0,2022,134
+1.0,12:28,1.0,20.0,TAM 47,0.0,0.0,Leonard Fournette left end for 6 yards (tackle by Ernest Jones and Jalen Ramsey),2.06,1.64,9.0,2022,134
+1.0,11:43,2.0,14.0,LAR 47,0.0,0.0,Tom Brady pass complete short left to Julio Jones for 19 yards (tackle by Derion Kendrick),1.64,3.71,9.0,2022,134
+1.0,10:59,1.0,10.0,LAR 28,0.0,0.0,Leonard Fournette right guard for 2 yards (tackle by Nick Scott),3.71,3.44,9.0,2022,134
+1.0,10:27,2.0,8.0,LAR 26,0.0,0.0,Tom Brady pass complete short left to Chris Godwin for 2 yards (tackle by Troy Hill),3.44,3.01,9.0,2022,134
+1.0,9:52,3.0,6.0,LAR 24,0.0,0.0,Tom Brady pass complete short middle to Mike Evans for 13 yards (tackle by Taylor Rapp),3.01,4.84,9.0,2022,134
+1.0,9:11,1.0,10.0,LAR 11,0.0,0.0,Leonard Fournette up the middle for 1 yard (tackle by A'Shawn Robinson),4.84,4.32,9.0,2022,134
+1.0,8:25,,,,,,Timeout #1 by Tampa Bay Buccaneers,,,9.0,2022,134
+1.0,8:25,2.0,9.0,LAR 10,0.0,0.0,Tom Brady pass complete short middle to Leonard Fournette for 7 yards (tackle by Ernest Jones and Bobby Wagner),4.32,4.89,9.0,2022,134
+1.0,8:06,3.0,2.0,LAR 3,0.0,0.0,Leonard Fournette up the middle for 1 yard (tackle by A'Shawn Robinson and Bobby Wagner),4.89,3.25,9.0,2022,134
+1.0,7:19,4.0,1.0,LAR 2,0.0,3.0,Ryan Succop 20 yard field goal good,3.25,3.0,9.0,2022,134
+1.0,7:16,,,TAM 35,0.0,3.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,134
+1.0,7:16,1.0,10.0,LAR 25,0.0,3.0,Matthew Stafford pass incomplete deep left intended for Van Jefferson,0.61,0.06,9.0,2022,134
+1.0,7:10,2.0,10.0,LAR 25,0.0,3.0,Matthew Stafford pass complete short right to Cooper Kupp for 2 yards (tackle by Devin White),0.06,-0.36,9.0,2022,134
+1.0,6:24,3.0,8.0,LAR 27,0.0,3.0,"Matthew Stafford sacked by Joe Tryon-Shoyinka for no gain. Penalty on Joe Tryon-Shoyinka: Defensive Offside, 5 yards (accepted) (no play)",-0.36,0.3,9.0,2022,134
+1.0,5:55,3.0,3.0,LAR 32,0.0,3.0,Matthew Stafford pass complete short right to Allen Robinson for 4 yards (tackle by Carlton Davis),0.3,1.33,9.0,2022,134
+1.0,5:34,1.0,10.0,LAR 36,0.0,3.0,Matthew Stafford pass incomplete short right intended for Van Jefferson,1.33,0.79,9.0,2022,134
+1.0,5:31,2.0,10.0,LAR 36,0.0,3.0,Matthew Stafford sacked by Vita Vea for -9 yards,0.79,-1.09,9.0,2022,134
+1.0,4:47,3.0,19.0,LAR 27,0.0,3.0,Matthew Stafford pass complete short left to Cooper Kupp for 6 yards (tackle by Jamel Dean and Sean Murphy-Bunting),-1.09,-1.18,9.0,2022,134
+1.0,4:10,4.0,13.0,LAR 33,0.0,3.0,"Riley Dixon punts 59 yards, returned by Jaelon Darden for 10 yards (tackle by Travin Howard)",-1.18,-0.04,9.0,2022,134
+1.0,4:02,1.0,10.0,TAM 18,0.0,3.0,Ke'Shawn Vaughn right end for 5 yards (tackle by Troy Hill and Bobby Wagner),0.04,0.28,9.0,2022,134
+1.0,3:20,2.0,5.0,TAM 23,0.0,3.0,"Leonard Fournette left tackle for no gain (tackle by Taylor Rapp and Terrell Lewis). Penalty on Donovan Smith: Offensive Holding, 10 yards (accepted) (no play)",0.28,-1.14,9.0,2022,134
+1.0,2:54,2.0,15.0,TAM 13,0.0,3.0,Tom Brady pass complete short right to Cade Otton for 10 yards (tackle by Jalen Ramsey),-1.14,-0.53,9.0,2022,134
+1.0,2:15,3.0,5.0,TAM 23,0.0,3.0,Tom Brady pass incomplete short middle intended for Leonard Fournette,-0.53,-1.83,9.0,2022,134
+1.0,2:10,4.0,5.0,TAM 23,0.0,3.0,"Jake Camarda punts 68 yards, recovered by Brandon Powell at LA-9",-1.83,0.38,9.0,2022,134
+1.0,2:00,1.0,10.0,LAR 9,0.0,3.0,Cam Akers up the middle for 1 yard (tackle by Carl Nassib),-0.38,-0.71,9.0,2022,134
+1.0,1:18,2.0,9.0,LAR 10,0.0,3.0,Matthew Stafford pass complete short right to Cooper Kupp for 8 yards (tackle by Keanu Neal),-0.71,-0.37,9.0,2022,134
+1.0,0:58,3.0,1.0,LAR 18,0.0,3.0,Cam Akers right tackle for 2 yards (tackle by Carlton Davis and Keanu Neal),-0.37,0.28,9.0,2022,134
+1.0,0:19,1.0,10.0,LAR 20,0.0,3.0,Matthew Stafford pass incomplete short middle intended for Ben Skowronek,0.28,-0.27,9.0,2022,134
+1.0,0:15,2.0,10.0,LAR 20,0.0,3.0,"Matthew Stafford pass complete short right to Darrell Henderson for no gain (tackle by Devin White). Penalty on Genard Avery: Defensive Offside, 5 yards (accepted) (no play)",-0.27,0.41,9.0,2022,134
+2.0,15:00,2.0,5.0,LAR 25,0.0,3.0,Cam Akers left tackle for 2 yards (tackle by William Gholston and Jamel Dean),0.41,-0.03,9.0,2022,134
+2.0,14:16,3.0,3.0,LAR 27,0.0,3.0,Matthew Stafford pass complete short left to Allen Robinson for 5 yards (tackle by Jamel Dean),-0.03,1.07,9.0,2022,134
+2.0,13:29,1.0,10.0,LAR 32,0.0,3.0,Cooper Kupp right end for -1 yards (tackle by Sean Murphy-Bunting and Devin White),1.07,0.39,9.0,2022,134
+2.0,13:08,2.0,11.0,LAR 31,6.0,3.0,"Matthew Stafford pass complete deep middle to Cooper Kupp for 69 yards, touchdown",0.39,7.0,9.0,2022,134
+2.0,12:57,,,TAM 15,7.0,3.0,Matt Gay kicks extra point good,0.0,0.0,9.0,2022,134
+2.0,12:57,,,LAR 35,7.0,3.0,"Matt Gay kicks off 65 yards, returned by Rachaad White for 25 yards (tackle by Cobie Durant and Russ Yeast)",0.0,0.61,9.0,2022,134
+2.0,12:50,1.0,10.0,TAM 25,7.0,3.0,Rachaad White right guard for 4 yards (tackle by Leonard Floyd and Ernest Jones),0.61,0.6,9.0,2022,134
+2.0,12:09,2.0,6.0,TAM 29,7.0,3.0,Tom Brady pass incomplete short middle,0.6,-0.1,9.0,2022,134
+2.0,12:05,3.0,6.0,TAM 29,7.0,3.0,Tom Brady pass complete short right to Mike Evans for 4 yards (tackle by Jalen Ramsey),-0.1,-1.18,9.0,2022,134
+2.0,11:27,4.0,2.0,TAM 33,7.0,3.0,Jake Camarda punts 48 yards downed by Anthony Nelson,-1.18,-0.15,9.0,2022,134
+2.0,11:14,1.0,10.0,LAR 19,7.0,3.0,Matthew Stafford pass incomplete short right intended for Cooper Kupp,0.15,-0.39,9.0,2022,134
+2.0,11:07,2.0,10.0,LAR 19,7.0,3.0,Matthew Stafford pass complete short right to Brandon Powell for 4 yards (tackle by Keanu Neal),-0.39,-0.55,9.0,2022,134
+2.0,10:26,,,,,,Timeout #1 by Los Angeles Rams,,,9.0,2022,134
+2.0,10:26,3.0,6.0,LAR 23,7.0,3.0,Matthew Stafford pass incomplete short right intended for Allen Robinson,-0.55,-1.83,9.0,2022,134
+2.0,10:23,4.0,6.0,LAR 23,7.0,3.0,"Riley Dixon punts 53 yards, returned by Jaelon Darden for 11 yards (tackle by Jake Gervase)",-1.83,-1.27,9.0,2022,134
+2.0,10:14,1.0,10.0,TAM 35,7.0,3.0,Tom Brady pass incomplete short right intended for Leonard Fournette,1.27,0.72,9.0,2022,134
+2.0,10:09,2.0,10.0,TAM 35,7.0,3.0,Tom Brady pass incomplete short left intended for Chris Godwin (defended by Terrell Lewis),0.72,0.04,9.0,2022,134
+2.0,10:06,3.0,10.0,TAM 35,7.0,3.0,Tom Brady pass complete short middle to Scott Miller for 6 yards (tackle by David Long),0.04,-0.65,9.0,2022,134
+2.0,9:28,4.0,4.0,TAM 41,7.0,3.0,"Jake Camarda punts 48 yards, fair catch by Brandon Powell at LA-11",-0.65,0.37,9.0,2022,134
+2.0,9:21,1.0,10.0,LAR 11,7.0,3.0,Darrell Henderson up the middle for 4 yards (tackle by Sean Murphy-Bunting and Keanu Neal),-0.37,-0.43,9.0,2022,134
+2.0,8:38,2.0,6.0,LAR 15,7.0,3.0,Darrell Henderson left end for 3 yards (tackle by Sean Murphy-Bunting),-0.43,-0.6,9.0,2022,134
+2.0,7:55,3.0,3.0,LAR 18,7.0,3.0,Matthew Stafford pass incomplete short middle intended for Van Jefferson (defended by Joe Tryon-Shoyinka),-0.6,-2.24,9.0,2022,134
+2.0,7:51,4.0,3.0,LAR 18,7.0,3.0,"Riley Dixon punts 48 yards, fair catch by Jaelon Darden at TB-34",-2.24,-1.2,9.0,2022,134
+2.0,7:44,1.0,10.0,TAM 34,7.0,3.0,Rachaad White up the middle for 7 yards (tackle by Troy Hill and A'Shawn Robinson),1.2,1.6,9.0,2022,134
+2.0,7:09,2.0,3.0,TAM 41,7.0,3.0,Rachaad White up the middle for no gain (tackle by Bobby Wagner and A'Shawn Robinson),1.6,0.89,9.0,2022,134
+2.0,6:32,3.0,3.0,TAM 41,7.0,3.0,Tom Brady pass complete short right to Mike Evans for 6 yards (tackle by Jalen Ramsey),0.89,2.06,9.0,2022,134
+2.0,5:54,1.0,10.0,TAM 47,7.0,3.0,Rachaad White right tackle for 6 yards (tackle by Ernest Jones),2.06,2.33,9.0,2022,134
+2.0,5:22,2.0,4.0,LAR 47,7.0,3.0,Rachaad White right tackle for no gain (tackle by Aaron Donald),2.33,1.62,9.0,2022,134
+2.0,4:44,3.0,4.0,LAR 47,7.0,3.0,"Tom Brady pass complete short left to Chris Godwin for 9 yards (tackle by Derion Kendrick). Penalty on Terrell Lewis: Defensive Offside, 5 yards (declined)",1.62,3.05,9.0,2022,134
+2.0,4:22,1.0,10.0,LAR 38,7.0,3.0,Rachaad White left guard for 5 yards (tackle by Taylor Rapp and A'Shawn Robinson),3.05,3.18,9.0,2022,134
+2.0,3:44,2.0,5.0,LAR 33,7.0,3.0,Ke'Shawn Vaughn up the middle for -1 yards (tackle by Terrell Lewis),3.18,2.34,9.0,2022,134
+2.0,3:07,3.0,6.0,LAR 34,7.0,3.0,Tom Brady pass incomplete short left intended for Ke'Shawn Vaughn,2.34,1.07,9.0,2022,134
+2.0,3:03,4.0,6.0,LAR 34,7.0,3.0,Ryan Succop 52 yard field goal no good blocked by Bobby Wagner,1.07,-1.6,9.0,2022,134
+2.0,2:57,1.0,10.0,LAR 40,7.0,3.0,Matthew Stafford pass incomplete deep middle intended for Van Jefferson,1.6,1.05,9.0,2022,134
+2.0,2:50,2.0,10.0,LAR 40,7.0,3.0,Matthew Stafford pass incomplete short right,1.05,0.37,9.0,2022,134
+2.0,2:48,3.0,10.0,LAR 40,7.0,3.0,"Matthew Stafford aborted snap, recovered by Matthew Stafford at LA-35",0.37,-1.04,9.0,2022,134
+2.0,2:10,4.0,15.0,LAR 35,7.0,3.0,"Riley Dixon punts 64 yards, returned by Jaelon Darden for 9 yards (tackle by Michael Hoecht)",-1.04,0.38,9.0,2022,134
+2.0,1:57,1.0,10.0,TAM 10,7.0,3.0,Tom Brady pass complete short middle to Chris Godwin for 7 yards (tackle by Ernest Jones),-0.38,-0.09,9.0,2022,134
+2.0,1:42,2.0,3.0,TAM 17,7.0,3.0,"Tom Brady pass incomplete deep right intended for Mike Evans. Penalty on Derion Kendrick: Defensive Pass Interference, 32 yards (accepted) (no play)",-0.09,2.19,9.0,2022,134
+2.0,1:35,1.0,10.0,TAM 49,7.0,3.0,Tom Brady pass complete short left to Chris Godwin for 7 yards (tackle by Jalen Ramsey),2.19,2.59,9.0,2022,134
+2.0,1:17,2.0,3.0,LAR 44,7.0,3.0,Tom Brady pass complete short left to Julio Jones for 9 yards (tackle by Bobby Wagner),2.59,3.25,9.0,2022,134
+2.0,0:54,1.0,10.0,LAR 35,7.0,3.0,Tom Brady pass incomplete short right intended for Breshad Perriman,3.25,2.7,9.0,2022,134
+2.0,0:48,2.0,10.0,LAR 35,7.0,3.0,"Tom Brady pass complete short left to Leonard Fournette for 10 yards (tackle by Taylor Rapp and Jalen Ramsey). Penalty on Terrell Lewis: Defensive Offside, 5 yards (declined)",2.7,3.91,9.0,2022,134
+2.0,0:41,1.0,10.0,LAR 25,7.0,3.0,Tom Brady pass complete short middle to Leonard Fournette for 5 yards (tackle by Bobby Wagner),3.91,4.04,9.0,2022,134
+2.0,0:36,,,,,,Timeout #2 by Tampa Bay Buccaneers,,,9.0,2022,134
+2.0,0:36,2.0,5.0,LAR 20,7.0,3.0,Tom Brady pass incomplete short middle intended for Julio Jones (defended by Derion Kendrick),4.04,3.34,9.0,2022,134
+2.0,0:33,3.0,5.0,LAR 20,7.0,3.0,Tom Brady pass incomplete deep left intended for Julio Jones,3.34,2.17,9.0,2022,134
+2.0,0:28,4.0,5.0,LAR 20,7.0,6.0,Ryan Succop 38 yard field goal good,2.17,3.0,9.0,2022,134
+2.0,0:24,,,TAM 35,7.0,6.0,"Jake Camarda kicks off 73 yards, returned by Brandon Powell for 23 yards (tackle by Zyon McCollum)",0.0,-0.22,9.0,2022,134
+2.0,0:21,1.0,10.0,LAR 15,7.0,6.0,Matthew Stafford kneels for -1 yards,-0.22,-0.82,9.0,2022,134
+3.0,15:00,,,LAR 35,7.0,6.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,134
+3.0,15:00,1.0,10.0,TAM 25,7.0,6.0,Leonard Fournette right end for -1 yards (tackle by Bobby Wagner),0.61,-0.07,9.0,2022,134
+3.0,14:24,2.0,11.0,TAM 24,7.0,6.0,Tom Brady pass incomplete short left intended for Ko Kieft,-0.07,-0.76,9.0,2022,134
+3.0,14:22,3.0,11.0,TAM 24,7.0,6.0,Tom Brady pass incomplete deep left intended for Julio Jones,-0.76,-1.77,9.0,2022,134
+3.0,14:17,4.0,11.0,TAM 24,7.0,6.0,"Jake Camarda punts 53 yards, returned by Brandon Powell for 12 yards (tackle by Jake Camarda). Penalty on Russ Yeast: Offensive Holding, 10 yards (accepted)",-1.77,-0.61,9.0,2022,134
+3.0,14:02,1.0,10.0,LAR 25,7.0,6.0,Darrell Henderson up the middle for 4 yards (tackle by Keanu Neal and Vita Vea),0.61,0.6,9.0,2022,134
+3.0,13:20,2.0,6.0,LAR 29,7.0,6.0,Matthew Stafford pass complete short middle to Allen Robinson for 15 yards (tackle by Carlton Davis),0.6,1.86,9.0,2022,134
+3.0,12:39,1.0,10.0,LAR 44,7.0,6.0,Darrell Henderson up the middle for 2 yards (tackle by Lavonte David),1.86,1.59,9.0,2022,134
+3.0,12:12,2.0,8.0,LAR 46,7.0,6.0,Matthew Stafford pass incomplete short left intended for Brycen Hopkins,1.59,0.89,9.0,2022,134
+3.0,12:07,3.0,8.0,LAR 46,7.0,6.0,Matthew Stafford pass complete short left to Malcolm Brown for 10 yards (tackle by Devin White and Sean Murphy-Bunting),0.89,2.65,9.0,2022,134
+3.0,11:22,,,,,,Timeout #1 by Los Angeles Rams,,,9.0,2022,134
+3.0,11:22,1.0,10.0,TAM 44,7.0,6.0,Darrell Henderson left guard for 10 yards (tackle by Keanu Neal and Joe Tryon-Shoyinka),2.65,3.31,9.0,2022,134
+3.0,10:42,1.0,10.0,TAM 34,7.0,6.0,Darrell Henderson left guard for 23 yards (tackle by Sean Murphy-Bunting),3.31,4.84,9.0,2022,134
+3.0,9:54,1.0,10.0,TAM 11,7.0,6.0,Matthew Stafford pass complete short right to Cooper Kupp for 3 yards (tackle by Carlton Davis),4.84,4.7,9.0,2022,134
+3.0,9:29,2.0,7.0,TAM 8,7.0,6.0,Matthew Stafford pass incomplete short left intended for Ben Skowronek,4.7,3.76,9.0,2022,134
+3.0,9:22,3.0,7.0,TAM 8,7.0,6.0,Matthew Stafford pass incomplete short right intended for Allen Robinson (defended by Lavonte David),3.76,2.96,9.0,2022,134
+3.0,9:17,4.0,7.0,TAM 8,10.0,6.0,Matt Gay 26 yard field goal good,2.96,3.0,9.0,2022,134
+3.0,9:14,,,LAR 35,10.0,6.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,134
+3.0,9:14,1.0,10.0,TAM 25,10.0,6.0,Rachaad White right tackle for 4 yards (tackle by Ernest Jones),0.61,0.6,9.0,2022,134
+3.0,8:36,2.0,6.0,TAM 29,10.0,6.0,Tom Brady pass complete short left to Breshad Perriman for 1 yard (tackle by Jalen Ramsey),0.6,0.04,9.0,2022,134
+3.0,8:00,3.0,5.0,TAM 30,10.0,6.0,Tom Brady pass incomplete short middle intended for Mike Evans,0.04,-1.37,9.0,2022,134
+3.0,7:56,4.0,5.0,TAM 30,10.0,6.0,"Jake Camarda punts, returned by Brandon Powell for no gain (tackle by Zyon McCollum). Penalty on Ko Kieft: Offensive Holding, 10 yards (accepted) (no play)",-1.37,-2.03,9.0,2022,134
+3.0,7:46,4.0,15.0,TAM 20,10.0,6.0,"Penalty on Anthony Nelson: False Start, 5 yards (accepted) (no play)",-2.03,-2.44,9.0,2022,134
+3.0,7:46,4.0,20.0,TAM 15,10.0,6.0,Jake Camarda punts 74 yards out of bounds,-2.44,0.37,9.0,2022,134
+3.0,7:36,1.0,10.0,LAR 11,10.0,6.0,Cam Akers right tackle for no gain (tackle by Carlton Davis),-0.37,-0.78,9.0,2022,134
+3.0,6:53,2.0,10.0,LAR 11,10.0,6.0,Matthew Stafford sacked by Vita Vea for -7 yards,-0.78,-2.24,9.0,2022,134
+3.0,6:08,3.0,17.0,LAR 4,10.0,6.0,Malcolm Brown up the middle for 6 yards (tackle by Carl Nassib and Keanu Neal),-2.24,-2.49,9.0,2022,134
+3.0,5:33,4.0,11.0,LAR 10,10.0,6.0,"Riley Dixon punts 58 yards, returned by Jaelon Darden for 15 yards (tackle by Ernest Jones)",-2.49,-2.06,9.0,2022,134
+3.0,5:21,1.0,10.0,TAM 47,10.0,6.0,Tom Brady pass complete to Ko Kieft for 6 yards (tackle by Ernest Jones),2.06,2.33,9.0,2022,134
+3.0,4:45,2.0,4.0,LAR 47,10.0,6.0,Leonard Fournette right guard for 2 yards (tackle by Leonard Floyd and A'Shawn Robinson),2.33,1.88,9.0,2022,134
+3.0,3:38,3.0,2.0,LAR 45,10.0,6.0,Tom Brady pass incomplete short left intended for Chris Godwin (defended by Troy Hill),1.88,0.27,9.0,2022,134
+3.0,4:01,4.0,2.0,LAR 45,10.0,6.0,Tom Brady sacked by Aaron Donald for -8 yards,0.27,-2.46,9.0,2022,134
+3.0,3:56,1.0,10.0,TAM 47,10.0,6.0,Darrell Henderson left tackle for 3 yards (tackle by Rakeem Nunez-Roches),2.46,2.32,9.0,2022,134
+3.0,3:42,2.0,7.0,TAM 44,10.0,6.0,Matthew Stafford pass complete deep left to Cooper Kupp for 34 yards (tackle by Mike Edwards),2.32,4.91,9.0,2022,134
+3.0,2:58,1.0,10.0,TAM 10,10.0,6.0,Darrell Henderson up the middle for no gain (tackle by William Gholston),4.91,4.19,9.0,2022,134
+3.0,2:13,2.0,10.0,TAM 10,10.0,6.0,Matthew Stafford sacked by Rakeem Nunez-Roches for -9 yards,4.19,2.49,9.0,2022,134
+3.0,0:52,3.0,19.0,TAM 19,10.0,6.0,Malcolm Brown left guard for 3 yards (tackle by Genard Avery),2.49,2.38,9.0,2022,134
+3.0,0:13,4.0,16.0,TAM 16,13.0,6.0,Matt Gay 35 yard field goal good,2.38,3.0,9.0,2022,134
+3.0,0:09,,,LAR 35,13.0,6.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,134
+3.0,0:09,1.0,10.0,TAM 25,13.0,6.0,Tom Brady pass complete short middle to Chris Godwin for 6 yards (tackle by Bobby Wagner and Nick Scott),0.61,0.87,9.0,2022,134
+4.0,15:00,2.0,4.0,TAM 31,13.0,6.0,Leonard Fournette left end for 3 yards (tackle by Aaron Donald and Terrell Lewis),0.87,0.56,9.0,2022,134
+4.0,14:35,3.0,1.0,TAM 34,13.0,6.0,Leonard Fournette left guard for 2 yards (tackle by A'Shawn Robinson),0.56,1.33,9.0,2022,134
+4.0,14:09,1.0,10.0,TAM 36,13.0,6.0,Tom Brady pass complete short right to Chris Godwin for -2 yards (tackle by Troy Hill),1.33,0.52,9.0,2022,134
+4.0,13:44,2.0,12.0,TAM 34,13.0,6.0,Tom Brady pass incomplete deep right intended for Mike Evans,0.52,-0.16,9.0,2022,134
+4.0,13:39,3.0,12.0,TAM 34,13.0,6.0,Tom Brady pass incomplete short left intended for Mike Evans (defended by Aaron Donald),-0.16,-1.11,9.0,2022,134
+4.0,13:34,4.0,12.0,TAM 34,13.0,6.0,"Jake Camarda punts 66 yards, touchback.",-1.11,-0.28,9.0,2022,134
+4.0,13:23,1.0,10.0,LAR 20,13.0,6.0,Darrell Henderson left guard for 1 yard (tackle by Keanu Neal),0.28,-0.13,9.0,2022,134
+4.0,12:39,2.0,9.0,LAR 21,13.0,6.0,Matthew Stafford pass complete short right to Cooper Kupp for -2 yards (tackle by Carlton Davis),-0.13,-1.14,9.0,2022,134
+4.0,11:53,3.0,11.0,LAR 19,13.0,6.0,Matthew Stafford pass incomplete deep right intended for Van Jefferson,-1.14,-2.14,9.0,2022,134
+4.0,11:47,4.0,11.0,LAR 19,13.0,6.0,"Riley Dixon punts 52 yards, returned by Jaelon Darden for 9 yards (tackle by Jake Gervase)",-2.14,-1.47,9.0,2022,134
+4.0,11:37,1.0,10.0,TAM 38,13.0,6.0,Tom Brady pass complete short left to Rachaad White for 2 yards (tackle by Bobby Wagner),1.47,1.19,9.0,2022,134
+4.0,11:13,2.0,8.0,TAM 40,13.0,6.0,Tom Brady pass complete short left to Cade Otton for 10 yards (tackle by Taylor Rapp),1.19,2.26,9.0,2022,134
+4.0,10:47,1.0,10.0,TAM 50,13.0,6.0,Tom Brady pass complete short right to Mike Evans for 7 yards (tackle by Nick Scott),2.26,2.66,9.0,2022,134
+4.0,10:21,2.0,3.0,LAR 43,13.0,6.0,Tom Brady pass complete short right to Rachaad White for -1 yards (tackle by Nick Scott),2.66,1.82,9.0,2022,134
+4.0,9:55,3.0,4.0,LAR 44,13.0,6.0,Tom Brady pass complete short left to Chris Godwin for 7 yards (tackle by Taylor Rapp),1.82,3.12,9.0,2022,134
+4.0,9:26,1.0,10.0,LAR 37,13.0,6.0,Tom Brady pass incomplete short left,3.12,2.57,9.0,2022,134
+4.0,9:23,2.0,10.0,LAR 37,13.0,6.0,Tom Brady pass incomplete short right intended for Chris Godwin,2.57,1.88,9.0,2022,134
+4.0,9:10,3.0,10.0,LAR 37,13.0,6.0,"Tom Brady pass complete short left to Cade Otton for 9 yards (tackle by Taylor Rapp). Penalty on Donovan Smith: Offensive Holding, 10 yards (accepted) (no play)",1.88,0.56,9.0,2022,134
+4.0,9:06,3.0,20.0,LAR 47,13.0,6.0,Tom Brady pass complete short left to Leonard Fournette for 15 yards (tackle by Bobby Wagner and Jalen Ramsey),0.56,1.26,9.0,2022,134
+4.0,8:13,4.0,5.0,LAR 32,13.0,9.0,Ryan Succop 50 yard field goal good,1.26,3.0,9.0,2022,134
+4.0,8:07,,,TAM 35,13.0,9.0,"Jake Camarda kicks off 54 yards, returned by Brandon Powell for 11 yards (tackle by Zyon McCollum)",0.0,0.41,9.0,2022,134
+4.0,8:03,1.0,10.0,LAR 22,13.0,9.0,Cam Akers left guard for -2 yards (tackle by Devin White and Anthony Nelson),0.41,-0.4,9.0,2022,134
+4.0,7:17,2.0,12.0,LAR 20,13.0,9.0,Cooper Kupp left end for -3 yards (tackle by Lavonte David),-0.4,-1.68,9.0,2022,134
+4.0,6:34,3.0,15.0,LAR 17,13.0,9.0,Matthew Stafford sacked by Genard Avery for -2 yards,-1.68,-2.44,9.0,2022,134
+4.0,5:54,4.0,17.0,LAR 15,13.0,9.0,"Riley Dixon punts 55 yards, returned by Jaelon Darden for 11 yards (tackle by Brycen Hopkins)",-2.44,-1.66,9.0,2022,134
+4.0,5:43,1.0,10.0,TAM 41,13.0,9.0,Tom Brady pass complete short right to Scott Miller for 4 yards (tackle by Troy Hill),1.66,1.66,9.0,2022,134
+4.0,5:19,2.0,6.0,TAM 45,13.0,9.0,Tom Brady pass complete short right to Rachaad White for 6 yards (tackle by Bobby Wagner),1.66,2.32,9.0,2022,134
+4.0,4:55,1.0,10.0,LAR 49,13.0,9.0,Tom Brady pass incomplete short right intended for Mike Evans,2.32,1.78,9.0,2022,134
+4.0,4:51,2.0,10.0,LAR 49,13.0,9.0,Tom Brady pass complete short left to Scott Miller for 6 yards (tackle by Taylor Rapp and David Long),1.78,1.88,9.0,2022,134
+4.0,4:29,3.0,4.0,LAR 43,13.0,9.0,Tom Brady pass complete short left to Scott Miller for 9 yards (tackle by Bobby Wagner),1.88,3.31,9.0,2022,134
+4.0,4:09,1.0,10.0,LAR 34,13.0,9.0,Tom Brady pass complete short left to Scott Miller for 7 yards (tackle by David Long),3.31,3.72,9.0,2022,134
+4.0,4:02,2.0,3.0,LAR 27,13.0,9.0,Rachaad White right guard for 1 yard (tackle by Troy Hill),3.72,3.14,9.0,2022,134
+4.0,3:34,3.0,2.0,LAR 26,13.0,9.0,Tom Brady pass complete short left to Cade Otton for 19 yards (tackle by David Long),3.14,5.6,9.0,2022,134
+4.0,2:50,1.0,7.0,LAR 7,13.0,9.0,Chris Godwin right end for 1 yard (tackle by Justin Hollins and Troy Hill),5.6,4.95,9.0,2022,134
+4.0,2:06,,,,,,Timeout #1 by Tampa Bay Buccaneers,,,9.0,2022,134
+4.0,2:06,2.0,6.0,LAR 6,13.0,9.0,Tom Brady pass incomplete short left intended for Scott Miller,4.95,4.04,9.0,2022,134
+4.0,2:02,3.0,6.0,LAR 6,13.0,9.0,Tom Brady pass incomplete short middle intended for Cade Otton (defended by Jalen Ramsey),4.04,2.99,9.0,2022,134
+4.0,1:57,4.0,6.0,LAR 6,13.0,9.0,Tom Brady pass incomplete short middle intended for Mike Evans (defended by Jalen Ramsey),2.99,0.38,9.0,2022,134
+4.0,1:52,1.0,10.0,LAR 7,13.0,9.0,Darrell Henderson up the middle for no gain (tackle by Vita Vea),-0.38,-0.78,9.0,2022,134
+4.0,1:46,,,,,,Timeout #2 by Tampa Bay Buccaneers,,,9.0,2022,134
+4.0,1:46,2.0,10.0,LAR 7,13.0,9.0,Cooper Kupp right end for 5 yards (tackle by Keanu Neal),-0.78,-0.84,9.0,2022,134
+4.0,1:39,,,,,,Timeout #3 by Tampa Bay Buccaneers,,,9.0,2022,134
+4.0,1:39,3.0,5.0,LAR 12,13.0,9.0,Darrell Henderson up the middle for 1 yard (tackle by Joe Tryon-Shoyinka),-0.84,-2.49,9.0,2022,134
+4.0,0:54,,,,,,Timeout #2 by Los Angeles Rams,,,9.0,2022,134
+4.0,0:54,4.0,4.0,LAR 13,13.0,9.0,"Riley Dixon punts 47 yards, returned by Jaelon Darden for no gain (tackle by Russ Yeast)",-2.49,-1.6,9.0,2022,134
+4.0,0:44,1.0,10.0,TAM 40,13.0,9.0,Tom Brady pass complete deep middle to Cade Otton for 28 yards (tackle by Taylor Rapp),1.6,3.45,9.0,2022,134
+4.0,0:28,1.0,10.0,LAR 32,13.0,9.0,Tom Brady spiked the ball,3.45,2.9,9.0,2022,134
+4.0,0:28,2.0,10.0,LAR 32,13.0,9.0,Tom Brady pass complete short left to Leonard Fournette for 4 yards (tackle by Derion Kendrick),2.9,2.74,9.0,2022,134
+4.0,0:24,3.0,6.0,LAR 28,13.0,9.0,Tom Brady pass complete short left to Scott Miller for 14 yards (tackle by Derion Kendrick),2.74,4.65,9.0,2022,134
+4.0,0:19,1.0,10.0,LAR 14,13.0,9.0,Tom Brady pass complete short left to Scott Miller for 7 yards (tackle by Jalen Ramsey),4.65,5.28,9.0,2022,134
+4.0,0:16,2.0,3.0,LAR 7,13.0,9.0,"Tom Brady pass incomplete short right intended for Mike Evans. Penalty on Derion Kendrick: Defensive Pass Interference, 6 yards (accepted) (no play)",5.28,6.97,9.0,2022,134
+4.0,0:13,1.0,1.0,LAR 1,13.0,15.0,"Tom Brady pass complete short right to Cade Otton for 1 yard, touchdown",6.97,7.0,9.0,2022,134
+4.0,0:09,,,LAR 15,13.0,16.0,Ryan Succop kicks extra point good,0.0,0.0,9.0,2022,134
+4.0,0:09,,,TAM 35,13.0,16.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,134
+4.0,0:09,1.0,10.0,LAR 25,13.0,16.0,"Penalty on Bobby Evans: False Start, 5 yards (accepted) (no play)",0.61,0.28,9.0,2022,134
+4.0,0:09,1.0,15.0,LAR 20,13.0,16.0,"Matthew Stafford pass complete short right to Cooper Kupp for 7 yards. Cooper Kupp fumbles, recovered by Brandon Powell at LA-27, lateral to Ben Skowronek for no gain, lateral to Rob Havenstein for no gain, lateral to Cooper Kupp for no gain (tackle by Lavonte David)",0.28,0.33,9.0,2022,134

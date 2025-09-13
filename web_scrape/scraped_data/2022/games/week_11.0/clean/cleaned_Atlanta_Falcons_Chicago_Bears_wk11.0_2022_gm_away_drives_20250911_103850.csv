@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,9:37,ATL 44,7,3:35,44,Touchdown,0,Bears,11.0,2022,156
+2,1,2:59,CHI 16,5,2:57,17,Punt,0,Bears,11.0,2022,156
+3,1,0:02,ATL 41,5,2:17,-4,Punt,0,Bears,11.0,2022,156
+4,2,11:37,CHI 30,7,3:55,47,Field Goal,0,Bears,11.0,2022,156
+5,2,7:24,ATL 29,7,2:53,29,Touchdown,0,Bears,11.0,2022,156
+6,2,4:18,CHI 25,10,3:08,37,Missed FG,0,Bears,11.0,2022,156
+7,3,15:00,CHI 25,3,1:45,0,Punt,0,Bears,11.0,2022,156
+8,3,10:43,CHI 20,8,5:28,7,Punt,0,Bears,11.0,2022,156
+9,3,1:48,CHI 25,13,8:32,75,Touchdown,0,Bears,11.0,2022,156
+10,4,1:47,CHI 25,3,0:40,5,Interception,0,Bears,11.0,2022,156

@@ -1,0 +1,173 @@
+Quarter,Time,Down,ToGo,Location,MIA,CLE,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Browns won the coin toss and deferred, Dolphins to receive the opening kickoff.",,,17.0,2024,253
+1.0,15:00,,,CLE 35,0.0,0.0,"Dustin Hopkins kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,253
+1.0,15:00,1.0,10.0,MIA 30,0.0,0.0,De'Von Achane left end for 9 yards (tackle by Juan Thornhill),0.94,1.61,17.0,2024,253
+1.0,14:36,2.0,1.0,MIA 39,0.0,0.0,De'Von Achane right end for 1 yard (tackle by Denzel Ward),1.61,1.6,17.0,2024,253
+1.0,13:57,1.0,10.0,MIA 40,0.0,0.0,De'Von Achane left end for 6 yards (tackle by Grant Delpit),1.6,1.86,17.0,2024,253
+1.0,13:15,2.0,4.0,MIA 46,0.0,0.0,"Penalty on Alec Ingold: False Start, 5 yards (accepted) (no play)",1.86,1.19,17.0,2024,253
+1.0,13:01,2.0,9.0,MIA 41,0.0,0.0,"Tyler Huntley pass complete short right to Tyreek Hill for 15 yards (tackle by Jordan Hicks and Mohamoud Diabate). Penalty on Isaiah Wynn: Unnecessary Roughness / Offense, 15 yards (accepted)",1.19,1.66,17.0,2024,253
+1.0,12:39,1.0,10.0,MIA 41,0.0,0.0,"Tyler Huntley aborted snap, recovered by Tyler Huntley at MIA-32 and returned for -9 yards (tackle by Myles Garrett)",1.66,-0.1,17.0,2024,253
+1.0,11:59,2.0,19.0,MIA 32,0.0,0.0,"Tyler Huntley pass complete short left to De'Von Achane for 1 yard (tackle by Grant Delpit). Penalty on Tyreek Hill: Offensive Holding, 10 yards (declined)",-0.1,-0.63,17.0,2024,253
+1.0,11:41,3.0,18.0,MIA 33,0.0,0.0,Tyler Huntley pass complete short middle to Raheem Mostert for 13 yards (tackle by Grant Delpit),-0.63,-0.32,17.0,2024,253
+1.0,10:58,4.0,5.0,MIA 46,0.0,0.0,"Jake Bailey punts 35 yards, fair catch by James Proche at CLE-19",-0.32,-0.15,17.0,2024,253
+1.0,10:49,1.0,10.0,CLE 19,0.0,0.0,Jerome Ford left tackle for no gain (tackle by Tyrel Dodson and Calais Campbell),0.15,-0.39,17.0,2024,253
+1.0,10:17,2.0,10.0,CLE 19,0.0,0.0,Dorian Thompson-Robinson pass complete short right to Jerry Jeudy for 4 yards (tackle by Tyrel Dodson),-0.39,-0.55,17.0,2024,253
+1.0,9:39,3.0,6.0,CLE 23,0.0,0.0,Dorian Thompson-Robinson pass incomplete deep left intended for Elijah Moore,-0.55,-1.83,17.0,2024,253
+1.0,9:34,4.0,6.0,CLE 23,0.0,0.0,"Corey Bojorquez punts 43 yards, returned by Malik Washington for 4 yards (tackle by Mike Ford)",-1.83,-1.47,17.0,2024,253
+1.0,9:25,1.0,10.0,MIA 38,0.0,0.0,Tyler Huntley pass complete short left to Tyreek Hill for 10 yards,1.47,2.13,17.0,2024,253
+1.0,8:54,1.0,10.0,MIA 48,0.0,0.0,Tyler Huntley pass incomplete short middle intended for Jonnu Smith,2.13,1.58,17.0,2024,253
+1.0,8:52,2.0,10.0,MIA 48,0.0,0.0,Tyler Huntley pass complete short right to Jonnu Smith for 12 yards (tackle by Ronnie Hickman and Jordan Hicks),1.58,2.92,17.0,2024,253
+1.0,8:14,1.0,10.0,CLE 40,0.0,0.0,De'Von Achane left guard for -1 yards (tackle by Grant Delpit),2.92,2.24,17.0,2024,253
+1.0,7:39,2.0,11.0,CLE 41,0.0,0.0,De'Von Achane right end for 3 yards (tackle by Denzel Ward),2.24,1.95,17.0,2024,253
+1.0,7:04,3.0,8.0,CLE 38,0.0,0.0,"Tyler Huntley pass complete deep right to De'Von Achane for no gain (tackle by Martin Emerson). Penalty on Aaron Brewer: Offensive Holding, 10 yards (accepted) (no play)",1.95,0.63,17.0,2024,253
+1.0,6:36,3.0,18.0,CLE 48,0.0,0.0,Tyler Huntley pass complete short middle to De'Von Achane for 12 yards (tackle by Cameron Mitchell and Jordan Hicks),0.63,0.88,17.0,2024,253
+1.0,5:50,4.0,6.0,CLE 36,3.0,0.0,Jason Sanders 54 yard field goal good,0.88,3.0,17.0,2024,253
+1.0,5:46,,,MIA 35,3.0,0.0,"Jason Sanders kicks off 61 yards, returned by Jerome Ford for 23 yards (tackle by Cameron Goode and Julian Hill)",0.0,0.74,17.0,2024,253
+1.0,5:39,1.0,10.0,CLE 27,3.0,0.0,Dorian Thompson-Robinson pass complete short left to Jordan Akins for 2 yards (tackle by Jordyn Brooks),0.74,0.47,17.0,2024,253
+1.0,5:02,2.0,8.0,CLE 29,3.0,0.0,Dorian Thompson-Robinson pass complete short middle to Jordan Akins for 11 yards (tackle by Tyrel Dodson and Jevon Holland),0.47,1.6,17.0,2024,253
+1.0,4:15,1.0,10.0,CLE 40,3.0,0.0,Jerome Ford right end for -1 yards (tackle by Jordyn Brooks),1.6,0.92,17.0,2024,253
+1.0,3:35,2.0,11.0,CLE 39,3.0,0.0,"Dorian Thompson-Robinson pass incomplete deep right intended for Michael Woods. Penalty on Storm Duck: Defensive Holding, 5 yards (accepted) (no play)",0.92,1.86,17.0,2024,253
+1.0,3:28,1.0,10.0,CLE 44,3.0,0.0,Jerome Ford left guard for 4 yards (tackle by Tyrel Dodson and Jalen Ramsey),1.86,1.86,17.0,2024,253
+1.0,2:51,2.0,6.0,CLE 48,3.0,0.0,Pierre Strong right end for 4 yards (tackle by Emmanuel Ogbah),1.86,1.69,17.0,2024,253
+1.0,2:12,3.0,2.0,MIA 48,3.0,0.0,Dorian Thompson-Robinson right end for 2 yards (tackle by Jordan Poyer),1.69,2.52,17.0,2024,253
+1.0,1:37,1.0,10.0,MIA 46,3.0,0.0,Dorian Thompson-Robinson pass incomplete deep left intended for Jerry Jeudy,2.52,1.98,17.0,2024,253
+1.0,1:31,2.0,10.0,MIA 46,3.0,0.0,Pierre Strong right tackle for 5 yards (tackle by Jordyn Brooks),1.98,1.95,17.0,2024,253
+1.0,1:09,3.0,5.0,MIA 41,3.0,0.0,Dorian Thompson-Robinson pass complete short left to Jerry Jeudy for 15 yards (tackle by Jevon Holland),1.95,3.84,17.0,2024,253
+1.0,0:33,1.0,10.0,MIA 26,3.0,0.0,Jerome Ford right guard for 19 yards (tackle by Storm Duck),3.84,5.6,17.0,2024,253
+2.0,15:00,1.0,7.0,MIA 7,3.0,0.0,Jerome Ford up the middle for -2 yards (tackle by Benito Jones),5.6,4.38,17.0,2024,253
+2.0,14:23,2.0,9.0,MIA 9,3.0,0.0,"Dorian Thompson-Robinson pass incomplete short left intended for Michael Woods (defended by Storm Duck) Penalty on CLE: Illegal Formation, 5 yards (declined)",4.38,3.36,17.0,2024,253
+2.0,14:18,3.0,9.0,MIA 9,3.0,0.0,Jerome Ford left end for 2 yards (tackle by Tyrel Dodson and Emmanuel Ogbah),3.36,2.97,17.0,2024,253
+2.0,13:29,4.0,7.0,MIA 7,3.0,3.0,Dustin Hopkins 25 yard field goal good,2.97,3.0,17.0,2024,253
+2.0,13:26,,,CLE 35,3.0,3.0,"Dustin Hopkins kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,253
+2.0,13:26,1.0,10.0,MIA 30,3.0,3.0,Tyler Huntley pass complete deep right to Tyreek Hill for 25 yards (tackle by Denzel Ward),0.94,2.59,17.0,2024,253
+2.0,12:49,1.0,10.0,CLE 45,3.0,3.0,De'Von Achane right end for 3 yards (tackle by Rodney McLeod),2.59,2.45,17.0,2024,253
+2.0,12:10,2.0,7.0,CLE 42,3.0,3.0,De'Von Achane left tackle for -2 yards (tackle by Devin Bush and Jordan Hicks),2.45,1.49,17.0,2024,253
+2.0,11:35,3.0,9.0,CLE 44,3.0,3.0,Tyler Huntley pass incomplete short right,1.49,0.33,17.0,2024,253
+2.0,11:27,4.0,9.0,CLE 44,3.0,3.0,"Jake Bailey punts 44 yards, touchback.",0.33,-0.28,17.0,2024,253
+2.0,11:20,1.0,10.0,CLE 20,3.0,3.0,Dorian Thompson-Robinson pass incomplete short right intended for Jerry Jeudy,0.28,-0.27,17.0,2024,253
+2.0,11:16,2.0,10.0,CLE 20,3.0,3.0,Dorian Thompson-Robinson pass incomplete short right intended for Jerry Jeudy,-0.27,-0.96,17.0,2024,253
+2.0,11:14,3.0,10.0,CLE 20,3.0,3.0,Dorian Thompson-Robinson pass incomplete short right intended for Jamari Thrash,-0.96,-2.03,17.0,2024,253
+2.0,11:09,4.0,10.0,CLE 20,3.0,3.0,"Corey Bojorquez punts 68 yards, returned by Tyreek Hill for 18 yards (tackle by D'Anthony Bell)",-2.03,-0.94,17.0,2024,253
+2.0,10:56,1.0,10.0,MIA 30,3.0,3.0,Tyler Huntley pass complete short left to Tyreek Hill for 14 yards (tackle by Grant Delpit),0.94,1.86,17.0,2024,253
+2.0,10:15,1.0,10.0,MIA 44,3.0,3.0,Malik Washington up the middle for -11 yards (tackle by Isaiah McGuire),1.86,-0.17,17.0,2024,253
+2.0,9:28,2.0,21.0,MIA 33,3.0,3.0,Tyler Huntley scrambles left end for 7 yards (tackle by Jordan Hicks and Grant Delpit),-0.17,0.1,17.0,2024,253
+2.0,8:46,3.0,14.0,MIA 40,3.0,3.0,De'Von Achane right end for 7 yards (tackle by Ronnie Hickman and Denzel Ward),0.1,-0.26,17.0,2024,253
+2.0,8:09,4.0,7.0,MIA 47,3.0,3.0,"Jake Bailey punts 53 yards, touchback.. Penalty on James Proche: Unnecessary Roughness / Defense, 5 yards (accepted)",-0.26,0.38,17.0,2024,253
+2.0,8:00,1.0,10.0,CLE 5,3.0,3.0,D'Onta Foreman left tackle for 5 yards (tackle by Zach Sieler and Tyrel Dodson),-0.38,-0.42,17.0,2024,253
+2.0,7:15,2.0,5.0,CLE 10,3.0,3.0,D'Onta Foreman up the middle for 4 yards (tackle by Benito Jones and Da'Shawn Hand),-0.42,-0.37,17.0,2024,253
+2.0,6:42,3.0,1.0,CLE 14,3.0,3.0,D'Onta Foreman left guard for 5 yards (tackle by Jordyn Brooks),-0.37,0.15,17.0,2024,253
+2.0,6:06,1.0,10.0,CLE 19,3.0,3.0,"Jerome Ford right guard for no gain (tackle by Chop Robinson and Zach Sieler). Penalty on Wyatt Teller: Offensive Holding, 9 yards (accepted) (no play)",0.15,-0.72,17.0,2024,253
+2.0,5:52,1.0,19.0,CLE 10,3.0,3.0,Dorian Thompson-Robinson pass complete deep middle to Jerry Jeudy for 17 yards (tackle by Kader Kohou),-0.72,0.75,17.0,2024,253
+2.0,5:18,2.0,2.0,CLE 27,3.0,3.0,D'Onta Foreman up the middle for 6 yards (tackle by Tyrel Dodson and Jordan Poyer),0.75,1.14,17.0,2024,253
+2.0,4:41,1.0,10.0,CLE 33,3.0,3.0,"Dorian Thompson-Robinson pass deep middle intended for Jerry Jeudy is intercepted by Tyrel Dodson at 50 and returned for no gain (tackle by Jerry Jeudy). Penalty on Tyrel Dodson: Unsportsmanlike Conduct / Defense, 15 yards (accepted)",1.14,-1.27,17.0,2024,253
+2.0,4:33,1.0,10.0,MIA 35,3.0,3.0,Tyler Huntley pass complete short right to Tyreek Hill for 5 yards (tackle by Denzel Ward),1.27,1.4,17.0,2024,253
+2.0,3:57,2.0,5.0,MIA 40,3.0,3.0,"Tyler Huntley pass complete short left to De'Von Achane for no gain (tackle by Jowon Briggs). Penalty on Terron Armstead: Offensive Holding, 10 yards (accepted) (no play)",1.4,0.05,17.0,2024,253
+2.0,3:31,2.0,15.0,MIA 30,3.0,3.0,Tyler Huntley sacked by Isaiah McGuire for -7 yards,0.05,-1.55,17.0,2024,253
+2.0,2:48,3.0,22.0,MIA 23,3.0,3.0,"Penalty on Kendall Lamm: False Start, 5 yards (accepted) (no play)",-1.55,-2.51,17.0,2024,253
+2.0,2:39,3.0,27.0,MIA 18,3.0,3.0,Tyler Huntley pass complete short left to D'Wayne Eskridge for 8 yards (tackle by Michael Hall),-2.51,-1.63,17.0,2024,253
+2.0,2:00,4.0,19.0,MIA 26,3.0,3.0,"Jake Bailey punts 41 yards, returned by James Proche for 9 yards (tackle by Channing Tindall)",-1.63,-1.73,17.0,2024,253
+2.0,1:48,1.0,10.0,CLE 42,3.0,3.0,D'Onta Foreman right end for 4 yards (tackle by Tyrel Dodson),1.73,1.73,17.0,2024,253
+2.0,1:25,2.0,6.0,CLE 46,3.0,3.0,D'Onta Foreman left tackle for 7 yards (tackle by Kader Kohou),1.73,2.46,17.0,2024,253
+2.0,1:04,1.0,10.0,MIA 47,3.0,3.0,Dorian Thompson-Robinson pass incomplete short left intended for D'Onta Foreman,2.46,1.91,17.0,2024,253
+2.0,1:00,2.0,10.0,MIA 47,3.0,3.0,Dorian Thompson-Robinson pass complete short right to Elijah Moore for 1 yard,1.91,1.35,17.0,2024,253
+2.0,0:56,3.0,9.0,MIA 46,3.0,3.0,Dorian Thompson-Robinson pass complete short right to Pierre Strong for 8 yards (tackle by Jordyn Brooks and Storm Duck),1.35,0.72,17.0,2024,253
+2.0,0:45,,,,,,Timeout #1 by Miami Dolphins,,,17.0,2024,253
+2.0,0:45,4.0,1.0,MIA 38,3.0,3.0,D'Onta Foreman right guard for no gain (tackle by Quinton Bell),0.72,-1.47,17.0,2024,253
+2.0,0:40,1.0,10.0,MIA 38,3.0,3.0,"Tyler Huntley pass short left is intercepted by Martin Emerson at CLE-48 and returned for no gain (tackle by Robert Jones). Penalty on Martin Emerson: Defensive Pass Interference, 13 yards (accepted) (no play)",1.47,2.32,17.0,2024,253
+2.0,0:28,1.0,10.0,CLE 49,3.0,3.0,Tyler Huntley pass complete short right to Malik Washington for 12 yards (tackle by Jordan Hicks and Ronnie Hickman),2.32,3.12,17.0,2024,253
+2.0,0:21,,,,,,Timeout #2 by Miami Dolphins,,,17.0,2024,253
+2.0,0:21,1.0,10.0,CLE 37,3.0,3.0,Tyler Huntley pass complete short middle to Malik Washington for 7 yards (tackle by Grant Delpit),3.12,3.52,17.0,2024,253
+2.0,0:16,,,,,,Timeout #3 by Miami Dolphins,,,17.0,2024,253
+2.0,0:16,2.0,3.0,CLE 30,3.0,3.0,Tyler Huntley pass complete short right to Malik Washington for 9 yards (tackle by Jordan Hicks),3.52,4.17,17.0,2024,253
+2.0,0:02,1.0,10.0,CLE 21,3.0,3.0,Tyler Huntley spiked the ball,4.17,3.63,17.0,2024,253
+2.0,0:01,2.0,10.0,CLE 21,6.0,3.0,Jason Sanders 39 yard field goal good,3.63,3.0,17.0,2024,253
+3.0,15:00,,,MIA 35,6.0,3.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,253
+3.0,15:00,1.0,10.0,CLE 30,6.0,3.0,Dorian Thompson-Robinson pass incomplete short right intended for Elijah Moore (defended by Kader Kohou),0.94,0.39,17.0,2024,253
+3.0,14:57,2.0,10.0,CLE 30,6.0,3.0,Dorian Thompson-Robinson pass complete short right to Jerry Jeudy for 4 yards (tackle by Kader Kohou),0.39,0.23,17.0,2024,253
+3.0,14:21,3.0,6.0,CLE 34,6.0,3.0,Dorian Thompson-Robinson pass incomplete short left intended for Jerry Jeudy,0.23,-1.11,17.0,2024,253
+3.0,14:17,4.0,6.0,CLE 34,6.0,3.0,Corey Bojorquez punts 38 yards out of bounds,-1.11,-0.81,17.0,2024,253
+3.0,14:09,1.0,10.0,MIA 28,6.0,3.0,"Tyler Huntley pass complete short right to Tyreek Hill for 13 yards (tackle by Ronnie Hickman and Martin Emerson). Penalty on Martin Emerson: Face Mask (15 Yards), 15 yards (accepted)",0.81,2.65,17.0,2024,253
+3.0,13:48,1.0,10.0,CLE 44,6.0,3.0,Tyler Huntley pass complete short left to Malik Washington for 13 yards (tackle by Cameron Mitchell),2.65,3.51,17.0,2024,253
+3.0,13:12,1.0,10.0,CLE 31,6.0,3.0,Raheem Mostert up the middle for -2 yards (tackle by Devin Bush and Dalvin Tomlinson),3.51,2.7,17.0,2024,253
+3.0,12:31,2.0,12.0,CLE 33,6.0,3.0,Tyler Huntley pass complete short left to Tyreek Hill for 4 yards (tackle by Martin Emerson),2.7,2.54,17.0,2024,253
+3.0,12:00,3.0,8.0,CLE 29,6.0,3.0,Tyler Huntley pass complete deep right to River Cracraft for 16 yards (tackle by Mike Ford and Ronnie Hickman),2.54,4.71,17.0,2024,253
+3.0,11:12,1.0,10.0,CLE 13,12.0,3.0,"Tyler Huntley scrambles right end for 13 yards, touchdown",4.71,7.0,17.0,2024,253
+3.0,11:04,,,CLE 15,13.0,3.0,Jason Sanders kicks extra point good,0.0,0.0,17.0,2024,253
+3.0,11:04,,,MIA 35,13.0,3.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,253
+3.0,11:04,1.0,10.0,CLE 30,13.0,3.0,Dorian Thompson-Robinson pass incomplete short right intended for Jordan Akins,0.94,0.39,17.0,2024,253
+3.0,10:58,2.0,10.0,CLE 30,13.0,3.0,Dorian Thompson-Robinson scrambles left end for 2 yards (tackle by Emmanuel Ogbah),0.39,-0.03,17.0,2024,253
+3.0,10:26,3.0,8.0,CLE 32,13.0,3.0,"Penalty on Ethan Pocic: False Start, 5 yards (accepted) (no play)",-0.03,-0.69,17.0,2024,253
+3.0,10:17,3.0,13.0,CLE 27,13.0,3.0,"Dorian Thompson-Robinson pass incomplete short left. Penalty on Dorian Thompson-Robinson: Intentional Grounding, 11 yards (accepted)",-0.69,-2.39,17.0,2024,253
+3.0,10:08,4.0,24.0,CLE 16,13.0,3.0,Corey Bojorquez punts 55 yards out of bounds,-2.39,-0.87,17.0,2024,253
+3.0,10:01,1.0,10.0,MIA 29,13.0,3.0,Raheem Mostert left guard for 8 yards (tackle by Martin Emerson and Juan Thornhill),0.87,1.41,17.0,2024,253
+3.0,9:28,2.0,2.0,MIA 37,13.0,3.0,Raheem Mostert up the middle for no gain (tackle by Mohamoud Diabate),1.41,0.7,17.0,2024,253
+3.0,8:54,3.0,2.0,MIA 37,13.0,3.0,Tyler Huntley sacked by Myles Garrett for -7 yards,0.7,-1.37,17.0,2024,253
+3.0,8:20,4.0,9.0,MIA 30,13.0,3.0,"Jake Bailey punts 40 yards, fair catch by James Proche at CLE-30",-1.37,-0.94,17.0,2024,253
+3.0,8:12,1.0,10.0,CLE 30,13.0,3.0,D'Onta Foreman left tackle for 3 yards (tackle by Chop Robinson),0.94,0.8,17.0,2024,253
+3.0,7:39,2.0,7.0,CLE 33,13.0,3.0,Dorian Thompson-Robinson left tackle for 9 yards (tackle by Storm Duck),0.8,1.73,17.0,2024,253
+3.0,7:09,1.0,10.0,CLE 42,13.0,3.0,Pierre Strong right tackle for 3 yards (tackle by Tyrel Dodson),1.73,1.59,17.0,2024,253
+3.0,6:27,2.0,7.0,CLE 45,13.0,3.0,"D'Onta Foreman right end for 5 yards (tackle by Jordyn Brooks). Penalty on Da'Shawn Hand: Defensive Holding, 5 yards (accepted)",1.59,2.59,17.0,2024,253
+3.0,6:06,1.0,10.0,MIA 45,13.0,3.0,Dorian Thompson-Robinson right end for -3 yards (tackle by Calais Campbell),2.59,1.64,17.0,2024,253
+3.0,5:29,2.0,13.0,MIA 48,13.0,3.0,"Dorian Thompson-Robinson sacked by Emmanuel Ogbah for -8 yards. Dorian Thompson-Robinson fumbles (forced by Emmanuel Ogbah), recovered by Da'Shawn Hand at CLE-45",1.64,-2.59,17.0,2024,253
+3.0,5:23,1.0,10.0,CLE 45,13.0,3.0,Tyler Huntley pass complete short right to Tyreek Hill for 6 yards (tackle by Mohamoud Diabate and Ronnie Hickman),2.59,2.85,17.0,2024,253
+3.0,4:49,2.0,4.0,CLE 39,13.0,3.0,Raheem Mostert up the middle for -1 yards (tackle by Myles Garrett),2.85,2.01,17.0,2024,253
+3.0,4:09,3.0,5.0,CLE 40,13.0,3.0,"Tyler Huntley scrambles left end for 4 yards (tackle by Mohamoud Diabate) MIA challenged the short of the line to gain ruling, and the play was upheld.",2.01,0.89,17.0,2024,253
+3.0,3:22,4.0,1.0,CLE 36,13.0,3.0,De'Von Achane right end for -2 yards (tackle by Devin Bush),0.89,-1.47,17.0,2024,253
+3.0,3:18,1.0,10.0,CLE 38,13.0,3.0,Dorian Thompson-Robinson pass complete short left to Jordan Akins for 11 yards (tackle by Jordan Poyer),1.47,2.19,17.0,2024,253
+3.0,2:32,1.0,10.0,CLE 49,13.0,3.0,"Dorian Thompson-Robinson pass incomplete short right intended for D'Onta Foreman MIA challenged the backward pass ruling, and the play was upheld.",2.19,1.65,17.0,2024,253
+3.0,2:27,2.0,10.0,CLE 49,13.0,3.0,Pierre Strong left tackle for 19 yards (tackle by Jordan Poyer),1.65,3.45,17.0,2024,253
+3.0,1:50,1.0,10.0,MIA 32,13.0,3.0,Dorian Thompson-Robinson pass incomplete short left intended for Pierre Strong,3.45,2.9,17.0,2024,253
+3.0,1:48,2.0,10.0,MIA 32,13.0,3.0,Dorian Thompson-Robinson pass complete short left to Jerry Jeudy for 6 yards (tackle by Storm Duck),2.9,3.01,17.0,2024,253
+3.0,1:08,3.0,4.0,MIA 26,13.0,3.0,Dorian Thompson-Robinson pass complete short left to Jerry Jeudy for 9 yards,3.01,4.44,17.0,2024,253
+3.0,0:34,1.0,10.0,MIA 17,13.0,3.0,"Dorian Thompson-Robinson pass complete short left to Jerry Jeudy for -1 yards (tackle by Jordyn Brooks). Penalty on Jordyn Brooks: Unnecessary Roughness / Defense, 9 yards (accepted)",4.44,5.14,17.0,2024,253
+3.0,0:05,1.0,9.0,MIA 9,13.0,3.0,D'Onta Foreman left guard for 5 yards (tackle by Tyrel Dodson),5.14,5.34,17.0,2024,253
+4.0,15:00,2.0,4.0,MIA 4,13.0,3.0,Dorian Thompson-Robinson pass incomplete short left,5.34,4.49,17.0,2024,253
+4.0,14:54,3.0,4.0,MIA 4,13.0,3.0,D'Onta Foreman left end for 1 yard (tackle by Zach Sieler and Benito Jones),4.49,3.04,17.0,2024,253
+4.0,14:14,4.0,3.0,MIA 3,13.0,3.0,Dorian Thompson-Robinson pass incomplete short left intended for Jerry Jeudy (defended by Jalen Ramsey),3.04,0.38,17.0,2024,253
+4.0,14:11,1.0,10.0,MIA 3,13.0,3.0,De'Von Achane up the middle for 1 yard (tackle by Jowon Briggs),-0.38,-0.71,17.0,2024,253
+4.0,13:36,2.0,9.0,MIA 4,13.0,3.0,Tyler Huntley pass incomplete short right intended for Malik Washington,-0.71,-1.3,17.0,2024,253
+4.0,13:33,3.0,9.0,MIA 4,13.0,3.0,Jeff Wilson up the middle for 4 yards (tackle by Grant Delpit),-1.3,-2.49,17.0,2024,253
+4.0,13:00,4.0,5.0,MIA 8,13.0,3.0,"Jake Bailey punts 42 yards out of bounds. Penalty on Siran Neal: Player Out of Bounds on a Punt, 5 yards (accepted)",-2.49,-2.59,17.0,2024,253
+4.0,12:52,1.0,10.0,MIA 45,13.0,3.0,D'Onta Foreman up the middle for 2 yards (tackle by Tyrel Dodson),2.59,2.31,17.0,2024,253
+4.0,12:17,2.0,8.0,MIA 43,13.0,3.0,"Dorian Thompson-Robinson pass complete short left to Blake Whiteheart for no gain (tackle by Jordyn Brooks and Jordan Poyer). Penalty on Jerry Jeudy: Illegal Motion, 5 yards (accepted) (no play)",2.31,1.64,17.0,2024,253
+4.0,11:58,2.0,13.0,MIA 48,13.0,3.0,"Dorian Thompson-Robinson pass incomplete short left. Penalty on Dorian Thompson-Robinson: Intentional Grounding, 11 yards (accepted)",1.64,-0.49,17.0,2024,253
+4.0,11:53,3.0,24.0,CLE 41,13.0,3.0,Dorian Thompson-Robinson pass complete short left to Pierre Strong for 5 yards (tackle by Jordyn Brooks),-0.49,-0.32,17.0,2024,253
+4.0,11:18,4.0,19.0,CLE 46,13.0,3.0,"Corey Bojorquez punts 46 yards, returned by Malik Washington for 16 yards (tackle by D'Anthony Bell and Khaleke Hudson). Penalty on Siran Neal: Offensive Holding, 10 yards (accepted)",-0.32,0.28,17.0,2024,253
+4.0,11:05,1.0,10.0,MIA 14,13.0,3.0,Raheem Mostert right tackle for no gain (tackle by Rodney McLeod and Dalvin Tomlinson),-0.28,-0.75,17.0,2024,253
+4.0,10:28,2.0,10.0,MIA 14,13.0,3.0,Tyler Huntley scrambles right end for 11 yards (tackle by Martin Emerson and Cameron Mitchell),-0.75,0.61,17.0,2024,253
+4.0,9:50,1.0,10.0,MIA 25,13.0,3.0,Tyler Huntley pass complete short middle to Raheem Mostert for 3 yards (tackle by Martin Emerson),0.61,0.47,17.0,2024,253
+4.0,9:16,2.0,7.0,MIA 28,13.0,3.0,Tyler Huntley sacked by Myles Garrett for no gain,0.47,-0.23,17.0,2024,253
+4.0,8:30,3.0,7.0,MIA 28,13.0,3.0,Tyler Huntley scrambles up the middle for 18 yards (tackle by Sam Kamara),-0.23,1.99,17.0,2024,253
+4.0,7:39,1.0,10.0,MIA 46,13.0,3.0,Raheem Mostert right tackle for -2 yards (tackle by Cameron Thomas and Devin Bush),1.99,1.18,17.0,2024,253
+4.0,7:02,2.0,12.0,MIA 44,13.0,3.0,Tyler Huntley sacked by Cameron Thomas for -5 yards,1.18,-0.16,17.0,2024,253
+4.0,6:16,3.0,17.0,MIA 39,13.0,3.0,"Tyler Huntley pass complete short right to Jonnu Smith for 7 yards (tackle by Grant Delpit and Mohamoud Diabate). Penalty on Patrick Paul: Offensive Holding, 10 yards (declined)",-0.16,-0.32,17.0,2024,253
+4.0,5:45,4.0,10.0,MIA 46,13.0,3.0,Jake Bailey punts 52 yards downed by Siran Neal,-0.32,0.38,17.0,2024,253
+4.0,5:35,1.0,10.0,CLE 2,13.0,3.0,Dorian Thompson-Robinson pass incomplete short left intended for Elijah Moore,-0.38,-0.78,17.0,2024,253
+4.0,5:32,2.0,10.0,CLE 2,13.0,3.0,Dorian Thompson-Robinson pass complete short right to Jerry Jeudy for 9 yards (tackle by Zach Sieler and Jordan Poyer),-0.78,-0.37,17.0,2024,253
+4.0,5:03,3.0,1.0,CLE 11,13.0,3.0,Pierre Strong up the middle for 2 yards (tackle by Zach Sieler and Benito Jones),-0.37,-0.32,17.0,2024,253
+4.0,4:36,1.0,10.0,CLE 13,13.0,3.0,Dorian Thompson-Robinson pass incomplete short middle intended for Pierre Strong (defended by Jordan Poyer),-0.32,-0.77,17.0,2024,253
+4.0,4:31,2.0,10.0,CLE 13,13.0,3.0,"Dorian Thompson-Robinson pass incomplete short right. Penalty on Dorian Thompson-Robinson: Intentional Grounding, 10 yards (accepted)",-0.77,-2.59,17.0,2024,253
+4.0,4:26,3.0,20.0,CLE 3,13.0,3.0,Dorian Thompson-Robinson pass complete short right to Jordan Akins for 15 yards (tackle by Tyrel Dodson and Kader Kohou),-2.59,-2.24,17.0,2024,253
+4.0,4:01,4.0,5.0,CLE 18,13.0,3.0,Dorian Thompson-Robinson pass complete short right to Michael Woods for 3 yards (tackle by Jordyn Brooks),-2.24,-4.17,17.0,2024,253
+4.0,3:56,1.0,10.0,CLE 21,13.0,3.0,Jeff Wilson right tackle for 2 yards (tackle by Mohamoud Diabate),4.17,3.9,17.0,2024,253
+4.0,3:51,,,,,,Timeout #1 by Cleveland Browns,,,17.0,2024,253
+4.0,3:51,2.0,8.0,CLE 19,13.0,3.0,Tyler Huntley pass complete short left to Tyreek Hill for 13 yards (tackle by Cameron Mitchell),3.9,5.83,17.0,2024,253
+4.0,3:47,,,,,,Timeout #2 by Cleveland Browns,,,17.0,2024,253
+4.0,3:47,1.0,6.0,CLE 6,13.0,3.0,Jeff Wilson left guard for -1 yards (tackle by Dalvin Tomlinson and Isaiah McGuire),5.83,4.76,17.0,2024,253
+4.0,3:43,,,,,,Timeout #3 by Cleveland Browns,,,17.0,2024,253
+4.0,3:43,2.0,7.0,CLE 7,19.0,3.0,"Tyler Huntley pass complete short left to Jonnu Smith for 7 yards, touchdown",4.76,7.0,17.0,2024,253
+4.0,3:38,,,CLE 15,20.0,3.0,Jason Sanders kicks extra point good,0.0,0.0,17.0,2024,253
+4.0,3:38,,,MIA 35,20.0,3.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,253
+4.0,3:38,1.0,10.0,CLE 30,20.0,3.0,Dorian Thompson-Robinson pass complete short right to Jordan Akins for 5 yards (tackle by Jordan Poyer),0.94,1.07,17.0,2024,253
+4.0,3:10,2.0,5.0,CLE 35,20.0,3.0,D'Onta Foreman left tackle for 2 yards (tackle by Emmanuel Ogbah),1.07,0.63,17.0,2024,253
+4.0,2:46,3.0,3.0,CLE 37,20.0,3.0,Dorian Thompson-Robinson pass complete short left to Jerry Jeudy for 4 yards (tackle by Ethan Bonner),0.63,1.66,17.0,2024,253
+4.0,2:18,1.0,10.0,CLE 41,20.0,3.0,Dorian Thompson-Robinson pass complete short right to Pierre Strong for 2 yards (tackle by Calais Campbell and Tyrel Dodson),1.66,1.39,17.0,2024,253
+4.0,2:00,2.0,8.0,CLE 43,20.0,3.0,Dorian Thompson-Robinson pass complete short right to Jordan Akins for 5 yards (tackle by Tyrel Dodson and Storm Duck),1.39,1.36,17.0,2024,253
+4.0,1:34,3.0,3.0,CLE 48,20.0,3.0,Dorian Thompson-Robinson pass complete short right to Jerry Jeudy for 5 yards (tackle by Elijah Campbell),1.36,2.46,17.0,2024,253
+4.0,1:25,1.0,10.0,MIA 47,20.0,3.0,Dorian Thompson-Robinson pass complete short right to Blake Whiteheart for 8 yards (tackle by Tyrel Dodson and Elijah Campbell),2.46,2.99,17.0,2024,253
+4.0,1:03,2.0,2.0,MIA 39,20.0,3.0,Dorian Thompson-Robinson pass complete deep right to Jerry Jeudy for 17 yards,2.99,4.11,17.0,2024,253
+4.0,0:57,1.0,10.0,MIA 22,20.0,3.0,Dorian Thompson-Robinson pass complete short right to Jerry Jeudy for 5 yards (tackle by Storm Duck),4.11,4.29,17.0,2024,253
+4.0,0:30,2.0,5.0,MIA 17,20.0,3.0,Dorian Thompson-Robinson pass incomplete deep middle intended for Jordan Akins,4.29,3.56,17.0,2024,253
+4.0,0:27,3.0,5.0,MIA 17,20.0,3.0,Dorian Thompson-Robinson pass incomplete short middle intended for Michael Woods,3.56,2.36,17.0,2024,253
+4.0,0:23,4.0,5.0,MIA 17,20.0,3.0,Dorian Thompson-Robinson pass incomplete deep left intended for Elijah Moore,2.36,0.06,17.0,2024,253
+4.0,0:18,1.0,10.0,MIA 17,20.0,3.0,Tyler Huntley kneels for -1 yards,-0.06,-0.73,17.0,2024,253

@@ -1,0 +1,188 @@
+Quarter,Time,Down,ToGo,Location,NYG,JAX,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Jaguars won the coin toss and deferred, Giants to receive the opening kickoff.",,,7.0,2022,102
+1.0,15:00,,,JAX 35,0.0,0.0,"Riley Patterson kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,102
+1.0,15:00,1.0,10.0,NYG 25,0.0,0.0,Daniel Jones pass complete short right to Darius Slayton for 12 yards (tackle by Andre Cisco),0.61,1.4,7.0,2022,102
+1.0,14:25,1.0,10.0,NYG 37,0.0,0.0,Daniel Jones pass incomplete short middle intended for Darius Slayton,1.4,0.86,7.0,2022,102
+1.0,14:21,2.0,10.0,NYG 37,0.0,0.0,Daniel Jones pass complete short right to Wan'Dale Robinson for 7 yards (tackle by Darious Williams),0.86,1.09,7.0,2022,102
+1.0,13:39,3.0,3.0,NYG 44,0.0,0.0,Daniel Jones scrambles up the middle for 14 yards (tackle by Andre Cisco),1.09,2.79,7.0,2022,102
+1.0,13:08,1.0,10.0,JAX 42,0.0,0.0,Daniel Jones pass complete short left to Wan'Dale Robinson for 1 yard (tackle by Darious Williams),2.79,2.38,7.0,2022,102
+1.0,12:24,2.0,9.0,JAX 41,0.0,0.0,Daniel Jones pass complete short right to Wan'Dale Robinson for 4 yards (tackle by Tre Herndon and Darious Williams),2.38,2.21,7.0,2022,102
+1.0,11:54,3.0,5.0,JAX 37,0.0,0.0,Daniel Jones pass complete short left to Saquon Barkley for 9 yards (tackle by Arden Key),2.21,3.71,7.0,2022,102
+1.0,11:12,1.0,10.0,JAX 28,0.0,0.0,Saquon Barkley left end for -4 yards (tackle by Roy Robertson-Harris),3.71,2.63,7.0,2022,102
+1.0,10:29,2.0,14.0,JAX 32,6.0,0.0,"Daniel Jones pass complete deep right to Darius Slayton for 32 yards, touchdown",2.63,7.0,7.0,2022,102
+1.0,10:21,,,JAX 15,7.0,0.0,Graham Gano kicks extra point good,0.0,0.0,7.0,2022,102
+1.0,10:21,,,NYG 35,7.0,0.0,"Graham Gano kicks off 54 yards, returned by Jamycal Hasty for 19 yards (tackle by Fabian Moreau)",0.0,0.94,7.0,2022,102
+1.0,10:16,1.0,10.0,JAX 30,7.0,0.0,Trevor Lawrence pass complete short left to Evan Engram for 13 yards,0.94,1.8,7.0,2022,102
+1.0,9:42,1.0,10.0,JAX 43,7.0,0.0,Travis Etienne up the middle for 1 yard (tackle by Jihad Ward and Nick Williams),1.8,1.39,7.0,2022,102
+1.0,9:04,2.0,9.0,JAX 44,7.0,0.0,Zay Jones right end for 14 yards (tackle by Kayvon Thibodeaux),1.39,2.79,7.0,2022,102
+1.0,8:27,1.0,10.0,NYG 42,7.0,0.0,Trevor Lawrence pass complete short middle to Christian Kirk for 11 yards (tackle by Jaylon Smith),2.79,3.51,7.0,2022,102
+1.0,7:46,1.0,10.0,NYG 31,7.0,0.0,Trevor Lawrence pass complete short left to Dan Arnold for 24 yards (tackle by Fabian Moreau),3.51,5.6,7.0,2022,102
+1.0,7:02,1.0,7.0,NYG 7,7.0,6.0,"Travis Etienne left guard for 7 yards, touchdown",5.6,7.0,7.0,2022,102
+1.0,6:58,,,NYG 15,7.0,6.0,Riley Patterson kicks extra point good (no play),0.0,1.0,7.0,2022,102
+1.0,6:58,1.0,1.0,NYG 2,7.0,8.0,"Two Point Attempt: Travis Etienne rushes, conversion succeeds.",1.0,1.0,7.0,2022,102
+1.0,6:58,,,JAX 35,7.0,8.0,"Riley Patterson kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,102
+1.0,6:58,1.0,10.0,NYG 25,7.0,8.0,"Daniel Jones scrambles right end for 2 yards (tackle by Rayshawn Jenkins). Penalty on Josh Allen: Defensive Holding, 5 yards (accepted)",0.61,1.07,7.0,2022,102
+1.0,6:37,1.0,10.0,NYG 32,7.0,8.0,Saquon Barkley right end for 2 yards (tackle by Devin Lloyd and Foyesade Oluokun),1.07,0.8,7.0,2022,102
+1.0,5:58,2.0,8.0,NYG 34,7.0,8.0,Daniel Jones pass incomplete short left intended for Wan'Dale Robinson (defended by Darious Williams),0.8,0.1,7.0,2022,102
+1.0,5:53,3.0,8.0,NYG 34,7.0,8.0,"Daniel Jones sacked by Josh Allen for no gain. Daniel Jones fumbles (forced by Josh Allen), recovered by Darious Williams at NYG-39 (tackle by Josh Allen). Penalty on Josh Allen: Defensive Offside, 5 yards (accepted) (no play)",0.1,0.76,7.0,2022,102
+1.0,5:50,3.0,3.0,NYG 39,7.0,8.0,Daniel Jones pass complete short left to Wan'Dale Robinson for 10 yards (tackle by Darious Williams),0.76,2.19,7.0,2022,102
+1.0,5:20,1.0,10.0,NYG 49,7.0,8.0,"Daniel Jones pass incomplete intended for Wan'Dale Robinson. Penalty on Tanner Hudson: Offensive Holding, 10 yards (accepted) (no play)",2.19,1.53,7.0,2022,102
+1.0,5:20,1.0,20.0,NYG 39,7.0,8.0,Daniel Jones pass incomplete deep middle intended for Marcus Johnson,1.53,0.3,7.0,2022,102
+1.0,5:13,2.0,20.0,NYG 39,7.0,8.0,Daniel Jones pass complete short right to Saquon Barkley for 6 yards (tackle by Devin Lloyd and Tre Herndon),0.3,0.43,7.0,2022,102
+1.0,4:26,3.0,14.0,NYG 45,7.0,8.0,Daniel Jones pass incomplete short left intended for Richie James (defended by Darious Williams),0.43,-0.39,7.0,2022,102
+1.0,4:18,4.0,14.0,NYG 45,7.0,8.0,Jamie Gillan punts 34 yards downed by Tomon Fox,-0.39,-0.34,7.0,2022,102
+1.0,4:07,1.0,10.0,JAX 21,7.0,8.0,Travis Etienne left end for 15 yards (tackle by Tae Crowder),0.34,1.27,7.0,2022,102
+1.0,3:32,1.0,10.0,JAX 35,7.0,8.0,Trevor Lawrence pass complete short middle to Evan Engram for 28 yards (tackle by Adoree' Jackson and Julian Love),1.27,3.18,7.0,2022,102
+1.0,2:56,1.0,10.0,NYG 36,7.0,8.0,Travis Etienne up the middle for 7 yards (tackle by Jihad Ward),3.18,3.58,7.0,2022,102
+1.0,2:35,2.0,3.0,NYG 29,7.0,8.0,Travis Etienne right guard for 1 yard (tackle by Jaylon Smith),3.58,3.01,7.0,2022,102
+1.0,1:56,3.0,2.0,NYG 28,7.0,8.0,Trevor Lawrence right end for 1 yard (tackle by Dexter Lawrence),3.01,1.82,7.0,2022,102
+1.0,1:19,4.0,1.0,NYG 27,7.0,8.0,Trevor Lawrence pass complete short right to Zay Jones for 2 yards (tackle by Fabian Moreau),1.82,3.91,7.0,2022,102
+1.0,0:36,1.0,10.0,NYG 25,7.0,8.0,Trevor Lawrence pass complete short right to Christian Kirk for 5 yards (tackle by Adoree' Jackson and Darnay Holmes),3.91,4.04,7.0,2022,102
+2.0,15:00,2.0,5.0,NYG 20,7.0,8.0,Jamycal Hasty left end for 6 yards (tackle by Kayvon Thibodeaux and Fabian Moreau),4.04,4.65,7.0,2022,102
+2.0,14:14,1.0,10.0,NYG 14,7.0,8.0,Trevor Lawrence pass incomplete short left intended for James Robinson,4.65,4.0,7.0,2022,102
+2.0,14:08,2.0,10.0,NYG 14,7.0,8.0,Trevor Lawrence pass incomplete short right intended for Evan Engram,4.0,3.11,7.0,2022,102
+2.0,14:03,3.0,10.0,NYG 14,7.0,8.0,Trevor Lawrence pass complete short right to Travis Etienne for 5 yards (tackle by Landon Collins),3.11,2.88,7.0,2022,102
+2.0,13:26,4.0,5.0,NYG 9,7.0,11.0,Riley Patterson 27 yard field goal good,2.88,3.0,7.0,2022,102
+2.0,13:23,,,JAX 35,7.0,11.0,"Riley Patterson kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,102
+2.0,13:23,1.0,10.0,NYG 25,7.0,11.0,Saquon Barkley up the middle for 5 yards (tackle by Roy Robertson-Harris),0.61,0.6,7.0,2022,102
+2.0,12:54,2.0,6.0,NYG 29,7.0,11.0,Daniel Jones pass complete short middle to Wan'Dale Robinson for 17 yards (tackle by Andre Cisco),0.6,2.06,7.0,2022,102
+2.0,12:17,1.0,10.0,NYG 47,7.0,11.0,Saquon Barkley up the middle for 2 yards (tackle by Folorunso Fatukasi and Foyesade Oluokun),2.06,1.79,7.0,2022,102
+2.0,11:38,2.0,8.0,NYG 49,7.0,11.0,Daniel Jones pass complete short left to Matt Breida for 14 yards (tackle by Devin Lloyd),1.79,3.12,7.0,2022,102
+2.0,10:57,1.0,10.0,JAX 37,7.0,11.0,Daniel Jones pass complete short left to Richie James for 2 yards (tackle by Arden Key),3.12,2.84,7.0,2022,102
+2.0,10:16,2.0,8.0,JAX 35,7.0,11.0,Daniel Jones right end for 12 yards (tackle by Darious Williams),2.84,4.04,7.0,2022,102
+2.0,9:40,1.0,10.0,JAX 23,7.0,11.0,Saquon Barkley up the middle for -3 yards (tackle by Rayshawn Jenkins and Dawuane Smoot),4.04,3.09,7.0,2022,102
+2.0,8:58,2.0,13.0,JAX 26,7.0,11.0,"Daniel Jones pass incomplete intended for Wan'Dale Robinson. Penalty on Marcus Johnson: Offensive Pass Interference, 9 yards (accepted) . Penalty on Joshua Ezeudu: Ineligible Downfield Pass, 5 yards (declined) (no play)",3.09,1.74,7.0,2022,102
+2.0,8:58,2.0,23.0,JAX 36,7.0,11.0,Daniel Jones scrambles right end for 9 yards (tackle by Foyesade Oluokun),1.74,2.41,7.0,2022,102
+2.0,8:12,3.0,13.0,JAX 26,7.0,11.0,Daniel Jones pass complete short left to Wan'Dale Robinson for 11 yards (tackle by Foyesade Oluokun and Devin Lloyd),2.41,2.57,7.0,2022,102
+2.0,7:31,4.0,2.0,JAX 15,10.0,11.0,Graham Gano 33 yard field goal good,2.57,3.0,7.0,2022,102
+2.0,7:27,,,NYG 35,10.0,11.0,"Graham Gano kicks off 68 yards, returned by Jamycal Hasty for 22 yards (tackle by Cam Brown)",0.0,0.15,7.0,2022,102
+2.0,7:22,1.0,10.0,JAX 19,10.0,11.0,Trevor Lawrence pass complete short left to Marvin Jones for 13 yards (tackle by Fabian Moreau),0.15,1.07,7.0,2022,102
+2.0,6:46,1.0,10.0,JAX 32,10.0,11.0,"Trevor Lawrence pass complete to Christian Kirk for 15 yards. Penalty on Brandon Scherff: Ineligible Downfield Pass, 5 yards (accepted) (no play)",1.07,0.74,7.0,2022,102
+2.0,6:11,1.0,15.0,JAX 27,10.0,11.0,Trevor Lawrence pass incomplete short middle intended for Evan Engram (defended by Tae Crowder),0.74,-0.15,7.0,2022,102
+2.0,6:07,2.0,15.0,JAX 27,10.0,11.0,Trevor Lawrence pass complete short left to Evan Engram for 14 yards (tackle by Julian Love and Justin Ellis),-0.15,1.03,7.0,2022,102
+2.0,5:24,3.0,1.0,JAX 41,10.0,11.0,Trevor Lawrence pass complete short right to Christian Kirk for 8 yards (tackle by Adoree' Jackson),1.03,2.19,7.0,2022,102
+2.0,4:42,1.0,10.0,JAX 49,10.0,11.0,"James Robinson for -2 yards. Penalty on Chris Manhertz: Unnecessary Roughness / Offense, 15 yards (accepted) (no play)",2.19,1.2,7.0,2022,102
+2.0,4:16,1.0,25.0,JAX 34,10.0,11.0,Trevor Lawrence pass incomplete intended for Christian Kirk (defended by Adoree' Jackson),1.2,-0.38,7.0,2022,102
+2.0,4:10,2.0,25.0,JAX 34,10.0,11.0,Trevor Lawrence pass complete deep left to Christian Kirk for 34 yards (tackle by Julian Love),-0.38,3.51,7.0,2022,102
+2.0,4:04,1.0,10.0,NYG 31,10.0,11.0,"Penalty on Julian Love: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",3.51,4.44,7.0,2022,102
+2.0,3:43,1.0,10.0,NYG 17,10.0,11.0,Trevor Lawrence pass incomplete deep right intended for Zay Jones,4.44,3.85,7.0,2022,102
+2.0,3:35,2.0,10.0,NYG 17,10.0,11.0,"Travis Etienne up the middle for 12 yards. Travis Etienne fumbles (forced by Xavier McKinney), recovered by Julian Love in end zone",3.85,-0.28,7.0,2022,102
+2.0,3:26,1.0,10.0,NYG 20,10.0,11.0,Saquon Barkley up the middle for 2 yards (tackle by DaVon Hamilton and Travon Walker),0.28,0.0,7.0,2022,102
+2.0,2:54,2.0,8.0,NYG 22,10.0,11.0,Saquon Barkley left guard for 10 yards (tackle by Tyson Campbell),0.0,1.07,7.0,2022,102
+2.0,2:17,1.0,10.0,NYG 32,10.0,11.0,Saquon Barkley up the middle for 2 yards (tackle by Folorunso Fatukasi),1.07,0.8,7.0,2022,102
+2.0,2:00,2.0,8.0,NYG 34,10.0,11.0,Daniel Jones pass complete short middle to David Sills for 19 yards (tackle by Darious Williams),0.8,2.52,7.0,2022,102
+2.0,1:34,1.0,10.0,JAX 46,10.0,11.0,Saquon Barkley up the middle for 2 yards (tackle by Travon Walker and DaVon Hamilton),2.52,1.98,7.0,2022,102
+2.0,1:08,2.0,10.0,JAX 46,10.0,11.0,Daniel Jones pass complete short middle to Daniel Bellinger for 13 yards (tackle by Tre Herndon),1.98,3.45,7.0,2022,102
+2.0,1:00,,,,,,Timeout #1 by New York Giants,,,7.0,2022,102
+2.0,1:00,1.0,10.0,JAX 32,10.0,11.0,Daniel Jones pass incomplete deep right intended for Darius Slayton (defended by Tre Herndon),3.45,2.9,7.0,2022,102
+2.0,0:56,2.0,10.0,JAX 32,10.0,11.0,Daniel Jones pass complete short left to Chris Myarick for 11 yards (tackle by Tyson Campbell),2.9,4.17,7.0,2022,102
+2.0,0:50,1.0,10.0,JAX 21,10.0,11.0,Daniel Jones pass incomplete short right intended for Wan'Dale Robinson (defended by Andre Cisco),4.17,3.63,7.0,2022,102
+2.0,0:46,2.0,10.0,JAX 21,10.0,11.0,Matt Breida left guard for 6 yards (tackle by Foyesade Oluokun),3.63,3.81,7.0,2022,102
+2.0,0:41,,,,,,Timeout #1 by Jacksonville Jaguars,,,7.0,2022,102
+2.0,0:41,3.0,4.0,JAX 15,10.0,11.0,Daniel Jones pass incomplete short left,3.81,2.52,7.0,2022,102
+2.0,0:32,4.0,4.0,JAX 15,13.0,11.0,Graham Gano 33 yard field goal good,2.52,3.0,7.0,2022,102
+2.0,0:28,,,NYG 35,13.0,11.0,"Graham Gano kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,102
+2.0,0:28,1.0,10.0,JAX 25,13.0,11.0,Trevor Lawrence pass complete deep right to Zay Jones for 18 yards (tackle by Fabian Moreau),0.61,1.8,7.0,2022,102
+2.0,0:23,,,,,,Timeout #2 by Jacksonville Jaguars,,,7.0,2022,102
+2.0,0:23,1.0,10.0,JAX 43,13.0,11.0,Trevor Lawrence pass complete short left to Tim Jones for 7 yards (tackle by Fabian Moreau and Darnay Holmes),1.8,2.2,7.0,2022,102
+2.0,0:17,,,,,,Timeout #3 by Jacksonville Jaguars,,,7.0,2022,102
+2.0,0:17,,,,,,Timeout #2 by New York Giants,,,7.0,2022,102
+2.0,0:17,2.0,3.0,JAX 50,13.0,11.0,Trevor Lawrence pass incomplete short left intended for Zay Jones,2.2,1.49,7.0,2022,102
+2.0,0:12,3.0,3.0,JAX 50,13.0,11.0,Trevor Lawrence pass incomplete short right intended for Travis Etienne,1.49,-0.06,7.0,2022,102
+2.0,0:08,,,,,,Timeout #3 by New York Giants,,,7.0,2022,102
+2.0,0:08,4.0,3.0,JAX 50,13.0,11.0,Trevor Lawrence pass incomplete deep middle,-0.06,2.26,7.0,2022,102
+3.0,15:00,,,NYG 35,13.0,11.0,"Graham Gano kicks off 65 yards, returned by Jamycal Hasty for 27 yards (tackle by Fabian Moreau)",0.0,0.74,7.0,2022,102
+3.0,14:55,1.0,10.0,JAX 27,13.0,11.0,Travis Etienne left end for 49 yards (tackle by Kayvon Thibodeaux),0.74,3.97,7.0,2022,102
+3.0,14:08,1.0,10.0,NYG 24,13.0,11.0,Trevor Lawrence pass incomplete short right intended for Zay Jones,3.97,3.43,7.0,2022,102
+3.0,14:05,2.0,10.0,NYG 24,13.0,11.0,"Trevor Lawrence pass complete short middle to Marvin Jones for 6 yards (tackle by Adoree' Jackson). Penalty on Dexter Lawrence: Roughing the Passer, 7 yards (accepted) . Penalty on Darnay Holmes: Defensive Holding, 5 yards (declined)",3.43,4.91,7.0,2022,102
+3.0,13:50,1.0,10.0,NYG 10,13.0,11.0,Travis Etienne right end for 8 yards (tackle by Julian Love),4.91,5.53,7.0,2022,102
+3.0,13:17,2.0,3.0,NYG 3,13.0,11.0,Travis Etienne left end for 1 yard (tackle by Xavier McKinney),5.53,5.17,7.0,2022,102
+3.0,12:32,3.0,1.0,NYG 1,13.0,11.0,Trevor Lawrence right guard for 1 yard (tackle by Tae Crowder),5.17,6.97,7.0,2022,102
+3.0,11:47,1.0,1.0,NYG 1,13.0,17.0,"Trevor Lawrence up the middle for 1 yard, touchdown",6.97,7.0,7.0,2022,102
+3.0,11:45,,,NYG 15,13.0,17.0,"Penalty on Ross Matiscik: False Start, 5 yards (accepted) (no play)",0.0,0.0,7.0,2022,102
+3.0,11:45,,,NYG 20,13.0,17.0,Riley Patterson kicks extra point blocked blocked by Nick McCloud,0.0,-1.0,7.0,2022,102
+3.0,11:45,,,JAX 35,13.0,17.0,"Riley Patterson kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,102
+3.0,11:45,1.0,10.0,NYG 25,13.0,17.0,Daniel Jones pass complete short left to Saquon Barkley for 6 yards (tackle by Foyesade Oluokun and Darious Williams),0.61,0.87,7.0,2022,102
+3.0,11:15,2.0,4.0,NYG 31,13.0,17.0,Daniel Jones pass complete short middle to Darius Slayton for 14 yards (tackle by Tyson Campbell),0.87,1.93,7.0,2022,102
+3.0,10:47,1.0,10.0,NYG 45,13.0,17.0,Daniel Jones pass complete short middle to Chris Myarick for 10 yards (tackle by Devin Lloyd),1.93,2.59,7.0,2022,102
+3.0,10:07,1.0,10.0,JAX 45,13.0,17.0,Matt Breida right end for 5 yards (tackle by Foyesade Oluokun),2.59,2.72,7.0,2022,102
+3.0,9:37,2.0,5.0,JAX 40,13.0,17.0,Saquon Barkley up the middle for 3 yards (tackle by Devin Lloyd and Foyesade Oluokun),2.72,2.41,7.0,2022,102
+3.0,9:11,3.0,2.0,JAX 37,13.0,17.0,Daniel Jones right end for 11 yards (tackle by Andre Cisco),2.41,3.91,7.0,2022,102
+3.0,8:32,1.0,10.0,JAX 25,13.0,17.0,Daniel Jones pass complete short right to Saquon Barkley for 4 yards (tackle by Rayshawn Jenkins),3.91,3.9,7.0,2022,102
+3.0,8:02,2.0,6.0,JAX 21,13.0,17.0,"Daniel Jones pass is intercepted by Devin Lloyd at JAC-17 and returned for no gain. Penalty on Foyesade Oluokun: Roughing the Passer, 11 yards (accepted) (no play)",3.9,4.84,7.0,2022,102
+3.0,7:54,1.0,10.0,JAX 11,13.0,17.0,Saquon Barkley up the middle for 8 yards (tackle by Tyson Campbell),4.84,5.85,7.0,2022,102
+3.0,7:12,2.0,1.0,JAX 2,13.0,17.0,Saquon Barkley up the middle for no gain (tackle by Devin Lloyd and Travon Walker),5.85,4.89,7.0,2022,102
+3.0,6:27,3.0,2.0,JAX 3,13.0,17.0,Daniel Jones pass incomplete short right intended for Marcus Johnson (defended by Dawuane Smoot),4.89,3.05,7.0,2022,102
+3.0,6:22,4.0,2.0,JAX 3,13.0,17.0,Daniel Jones pass incomplete short right intended for Marcus Johnson (defended by Darious Williams),3.05,0.38,7.0,2022,102
+3.0,6:20,1.0,10.0,JAX 4,13.0,17.0,Travis Etienne up the middle for 2 yards (tackle by Tae Crowder and Dexter Lawrence),-0.38,-0.63,7.0,2022,102
+3.0,5:47,2.0,8.0,JAX 6,13.0,17.0,Travis Etienne left end for 4 yards (tackle by Ryder Anderson),-0.63,-0.72,7.0,2022,102
+3.0,5:04,3.0,4.0,JAX 10,13.0,17.0,Trevor Lawrence pass incomplete deep left intended for Marvin Jones,-0.72,-2.49,7.0,2022,102
+3.0,5:01,4.0,4.0,JAX 10,13.0,17.0,"Logan Cooke punts 57 yards, fair catch by Richie James at NYG-33",-2.49,-1.14,7.0,2022,102
+3.0,4:53,1.0,10.0,NYG 33,13.0,17.0,Saquon Barkley up the middle for 6 yards (tackle by Josh Allen and De'Shaan Dixon),1.14,1.4,7.0,2022,102
+3.0,4:23,2.0,4.0,NYG 39,13.0,17.0,Daniel Jones left end for 9 yards (tackle by Tyson Campbell),1.4,2.13,7.0,2022,102
+3.0,3:40,1.0,10.0,NYG 48,13.0,17.0,Saquon Barkley right end for 3 yards (tackle by Foyesade Oluokun and DaVon Hamilton),2.13,1.85,7.0,2022,102
+3.0,2:56,2.0,8.0,NYG 50,13.0,17.0,Daniel Jones sacked by Travon Walker for -2 yards,1.85,1.02,7.0,2022,102
+3.0,2:09,3.0,9.0,NYG 49,13.0,17.0,"Daniel Jones pass incomplete intended for Darius Slayton. Penalty on Travon Walker: Defensive Offside, 5 yards (accepted) (no play)",1.02,1.68,7.0,2022,102
+3.0,2:03,3.0,4.0,JAX 46,13.0,17.0,"Daniel Jones pass complete to Tanner Hudson for 2 yards JAX challenged the pass completion ruling, and the original play was overturned. Daniel Jones pass incomplete short left intended for Tanner Hudson (defended by Rayshawn Jenkins)",1.68,0.2,7.0,2022,102
+3.0,1:59,4.0,4.0,JAX 46,13.0,17.0,"Jamie Gillan punts 46 yards, touchback.",0.2,-0.28,7.0,2022,102
+3.0,1:51,1.0,10.0,JAX 20,13.0,17.0,Travis Etienne right end for 3 yards (tackle by Julian Love),0.28,0.14,7.0,2022,102
+3.0,1:14,2.0,7.0,JAX 23,13.0,17.0,Trevor Lawrence pass complete short left to Zay Jones for 14 yards (tackle by Tae Crowder),0.14,1.4,7.0,2022,102
+3.0,0:35,1.0,10.0,JAX 37,13.0,17.0,"Trevor Lawrence for no gain. Penalty on Cam Robinson: Offensive Holding, 10 yards (accepted) (no play)",1.4,0.74,7.0,2022,102
+3.0,0:06,1.0,20.0,JAX 27,13.0,17.0,Trevor Lawrence pass incomplete short middle intended for Zay Jones (defended by Nick Williams),0.74,-0.49,7.0,2022,102
+3.0,0:02,2.0,20.0,JAX 27,13.0,17.0,Trevor Lawrence pass complete short left to Christian Kirk for 12 yards (tackle by Fabian Moreau),-0.49,0.43,7.0,2022,102
+4.0,15:00,3.0,8.0,JAX 39,13.0,17.0,Trevor Lawrence pass complete deep right to Zay Jones for 20 yards (tackle by Adoree' Jackson),0.43,2.92,7.0,2022,102
+4.0,14:35,1.0,10.0,NYG 40,13.0,17.0,Trevor Lawrence pass incomplete deep right intended for Marvin Jones,2.92,2.31,7.0,2022,102
+4.0,14:30,,,,,,Timeout #1 by Jacksonville Jaguars,,,7.0,2022,102
+4.0,14:30,2.0,10.0,NYG 41,13.0,17.0,Trevor Lawrence pass incomplete short left intended for Travis Etienne (defended by Darnay Holmes),2.31,1.62,7.0,2022,102
+4.0,14:26,3.0,10.0,NYG 41,13.0,17.0,Trevor Lawrence pass complete short right to Evan Engram for 12 yards (tackle by Dane Belton),1.62,3.58,7.0,2022,102
+4.0,13:50,1.0,10.0,NYG 30,13.0,17.0,Travis Etienne right end for 4 yards (tackle by Jaylon Smith and Tae Crowder),3.58,3.64,7.0,2022,102
+4.0,13:07,2.0,6.0,NYG 25,13.0,17.0,Christian Kirk left end for 5 yards (tackle by Julian Love),3.64,3.53,7.0,2022,102
+4.0,12:13,3.0,1.0,NYG 21,13.0,17.0,Travis Etienne up the middle for no gain (tackle by Tae Crowder and Quincy Roche),3.53,2.21,7.0,2022,102
+4.0,11:30,4.0,1.0,NYG 21,13.0,17.0,Trevor Lawrence up the middle for no gain (tackle by Jaylon Smith and Julian Love),2.21,-0.34,7.0,2022,102
+4.0,11:25,1.0,10.0,NYG 21,13.0,17.0,Daniel Jones scrambles up the middle for 1 yard (tackle by DaVon Hamilton),0.34,-0.07,7.0,2022,102
+4.0,10:45,2.0,9.0,NYG 22,13.0,17.0,Saquon Barkley left end for 8 yards (tackle by Tyson Campbell and Rayshawn Jenkins),-0.07,0.3,7.0,2022,102
+4.0,10:01,3.0,1.0,NYG 30,13.0,17.0,Matt Breida right end for 6 yards (tackle by Travon Walker),0.3,1.33,7.0,2022,102
+4.0,9:14,1.0,10.0,NYG 36,13.0,17.0,Daniel Jones pass incomplete short right intended for Darius Slayton (defended by Rayshawn Jenkins),1.33,0.79,7.0,2022,102
+4.0,9:09,2.0,10.0,NYG 36,13.0,17.0,Daniel Jones right end for 24 yards (tackle by Andre Cisco),0.79,2.92,7.0,2022,102
+4.0,8:22,1.0,10.0,JAX 40,13.0,17.0,Daniel Jones up the middle for 9 yards (tackle by Andre Cisco),2.92,3.59,7.0,2022,102
+4.0,7:46,2.0,1.0,JAX 31,13.0,17.0,Saquon Barkley right end for -1 yards (tackle by Foyesade Oluokun),3.59,2.74,7.0,2022,102
+4.0,7:07,,,,,,Timeout #2 by Jacksonville Jaguars,,,7.0,2022,102
+4.0,7:07,3.0,2.0,JAX 32,13.0,17.0,Saquon Barkley up the middle for 3 yards (tackle by DaVon Hamilton),2.74,3.64,7.0,2022,102
+4.0,6:30,1.0,10.0,JAX 29,13.0,17.0,Saquon Barkley right guard for 18 yards (tackle by Josh Allen),3.64,4.84,7.0,2022,102
+4.0,5:35,1.0,10.0,JAX 11,13.0,17.0,"Daniel Jones pass incomplete intended for Darius Slayton. Penalty on Tyson Campbell: Defensive Pass Interference, 10 yards (accepted) (no play)",4.84,6.97,7.0,2022,102
+4.0,5:35,1.0,1.0,JAX 1,13.0,17.0,Penalty on JAX: Defensive Too Many Men on Field (accepted) (no play),6.97,6.97,7.0,2022,102
+4.0,5:35,1.0,1.0,JAX 1,13.0,17.0,Penalty on DaVon Hamilton: Encroachment (accepted) (no play),6.97,6.97,7.0,2022,102
+4.0,5:35,1.0,1.0,JAX 1,19.0,17.0,"Daniel Jones up the middle for 1 yard, touchdown",6.97,7.0,7.0,2022,102
+4.0,5:31,,,JAX 15,20.0,17.0,Graham Gano kicks extra point good,0.0,0.0,7.0,2022,102
+4.0,5:31,,,NYG 35,20.0,17.0,"Graham Gano kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,102
+4.0,5:31,1.0,10.0,JAX 25,20.0,17.0,"Penalty on Jawaan Taylor: False Start, 5 yards (accepted) (no play)",0.61,0.28,7.0,2022,102
+4.0,5:31,1.0,15.0,JAX 20,20.0,17.0,Trevor Lawrence pass incomplete deep middle intended for Christian Kirk,0.28,-0.61,7.0,2022,102
+4.0,5:27,2.0,15.0,JAX 20,20.0,17.0,Trevor Lawrence pass complete short right to Marvin Jones for 10 yards (tackle by Adoree' Jackson),-0.61,0.04,7.0,2022,102
+4.0,4:39,3.0,5.0,JAX 30,20.0,17.0,Trevor Lawrence pass incomplete short left intended for Evan Engram,0.04,-1.37,7.0,2022,102
+4.0,4:40,4.0,5.0,JAX 30,20.0,17.0,"Logan Cooke punts 49 yards, returned by Richie James for 2 yards (tackle by Chris Claybrooks and Andrew Wingard)",-1.37,-0.48,7.0,2022,102
+4.0,4:29,1.0,10.0,NYG 23,20.0,17.0,Saquon Barkley right end for 13 yards (tackle by Rayshawn Jenkins),0.48,1.33,7.0,2022,102
+4.0,4:23,1.0,10.0,NYG 36,20.0,17.0,Saquon Barkley right end for 7 yards (tackle by Foyesade Oluokun),1.33,1.74,7.0,2022,102
+4.0,3:38,2.0,3.0,NYG 43,20.0,17.0,Saquon Barkley right end for 20 yards (tackle by Darious Williams and Andre Cisco),1.74,3.12,7.0,2022,102
+4.0,3:30,1.0,10.0,JAX 37,20.0,17.0,Matt Breida up the middle for 2 yards (tackle by DaVon Hamilton and Corey Peters),3.12,2.84,7.0,2022,102
+4.0,2:45,2.0,8.0,JAX 35,20.0,17.0,Daniel Jones left end for 15 yards (tackle by Andre Cisco),2.84,4.24,7.0,2022,102
+4.0,2:00,1.0,10.0,JAX 20,20.0,17.0,Saquon Barkley right end for 1 yard (tackle by Folorunso Fatukasi),4.24,3.82,7.0,2022,102
+4.0,1:57,,,,,,Timeout #3 by Jacksonville Jaguars,,,7.0,2022,102
+4.0,1:57,2.0,9.0,JAX 19,20.0,17.0,Saquon Barkley right end for -1 yards (tackle by DaVon Hamilton),3.82,3.01,7.0,2022,102
+4.0,1:11,3.0,10.0,JAX 20,20.0,17.0,"Saquon Barkley right end for 4 yards (tackle by Foyesade Oluokun) Replay Assistant challenged the runner was in bounds ruling, and the original play was overturned. Saquon Barkley right end for 4 yards and Foyesade Oluokun and Tyson Campbell)",3.01,2.4,7.0,2022,102
+4.0,1:07,4.0,6.0,JAX 16,23.0,17.0,Graham Gano 34 yard field goal good,2.4,3.0,7.0,2022,102
+4.0,1:04,,,NYG 35,23.0,17.0,"Graham Gano kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,102
+4.0,1:04,1.0,10.0,JAX 25,23.0,17.0,Trevor Lawrence pass incomplete short right intended for Travis Etienne,0.61,0.06,7.0,2022,102
+4.0,1:00,2.0,10.0,JAX 25,23.0,17.0,Trevor Lawrence pass incomplete short left intended for Zay Jones,0.06,-0.62,7.0,2022,102
+4.0,0:55,3.0,10.0,JAX 25,23.0,17.0,Trevor Lawrence pass complete short right to Christian Kirk for 10 yards (tackle by Adoree' Jackson),-0.62,1.27,7.0,2022,102
+4.0,0:51,1.0,10.0,JAX 35,23.0,17.0,"Trevor Lawrence sacked by. Penalty on Adoree' Jackson: Defensive Holding, 5 yards (accepted) (no play)",1.27,1.6,7.0,2022,102
+4.0,0:42,1.0,10.0,JAX 40,23.0,17.0,"Trevor Lawrence pass is intercepted by Fabian Moreau at NYG-49 and returned for no gain. Penalty on Dane Belton: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",1.6,2.33,7.0,2022,102
+4.0,0:35,1.0,5.0,JAX 45,23.0,17.0,Trevor Lawrence pass incomplete short left intended for Christian Kirk (defended by Fabian Moreau),2.33,1.73,7.0,2022,102
+4.0,0:32,2.0,5.0,JAX 45,23.0,17.0,"Penalty on Cam Robinson: False Start, 5 yards (accepted) (no play)",1.73,0.71,7.0,2022,102
+4.0,0:32,2.0,15.0,JAX 40,23.0,17.0,Trevor Lawrence pass incomplete deep middle intended for Marvin Jones (defended by Fabian Moreau),0.71,0.04,7.0,2022,102
+4.0,0:28,,,,,,Timeout #1 by New York Giants,,,7.0,2022,102
+4.0,0:28,3.0,15.0,JAX 40,23.0,17.0,Christian Kirk pass incomplete short right intended for Travis Etienne,0.04,-0.72,7.0,2022,102
+4.0,0:22,,,,,,Timeout #2 by New York Giants,,,7.0,2022,102
+4.0,0:22,4.0,15.0,JAX 40,23.0,17.0,"Trevor Lawrence pass complete deep middle to Marvin Jones for 28 yards (tackle by Julian Love). Penalty on Leonard Williams: Roughing the Passer, 15 yards (accepted)",-0.72,4.44,7.0,2022,102
+4.0,0:16,1.0,10.0,NYG 17,23.0,17.0,Trevor Lawrence pass incomplete deep right intended for Zay Jones (defended by Adoree' Jackson),4.44,3.85,7.0,2022,102
+4.0,0:12,2.0,10.0,NYG 17,23.0,17.0,Trevor Lawrence pass incomplete deep left intended for Marvin Jones,3.85,3.07,7.0,2022,102
+4.0,0:07,3.0,10.0,NYG 17,23.0,17.0,Trevor Lawrence pass complete deep middle to Christian Kirk for 16 yards (tackle by Xavier McKinney and Julian Love),3.07,3.38,7.0,2022,102

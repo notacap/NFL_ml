@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,10:18,NWE 30,6,3:15,32,Missed FG,0,Patriots,9.0,2024,131
+2,1,4:51,NWE 20,3,1:33,7,Punt,0,Patriots,9.0,2024,131
+3,1,1:08,NWE 47,3,1:17,2,Interception,0,Patriots,9.0,2024,131
+4,2,12:45,NWE 20,11,5:32,46,Field Goal,0,Patriots,9.0,2024,131
+5,2,1:48,NWE 15,4,1:07,22,Punt,0,Patriots,9.0,2024,131
+6,3,15:00,NWE 30,12,7:21,70,Touchdown,0,Patriots,9.0,2024,131
+7,3,0:34,NWE 30,3,1:58,-1,Punt,0,Patriots,9.0,2024,131
+8,4,10:09,NWE 9,6,3:16,19,Fumble,0,Patriots,9.0,2024,131
+9,4,4:27,NWE 30,5,1:40,3,Punt,0,Patriots,9.0,2024,131
+10,4,1:45,,11,1:45,50,Touchdown,0,Patriots,9.0,2024,131
+11,5,2:32,NWE 30,3,0:25,11,Interception,0,Patriots,9.0,2024,131

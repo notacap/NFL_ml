@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,WAS 36,3,1:37,8,Punt,0,Commanders,9.0,2023,130
+2,1,8:34,WAS 39,9,5:20,42,Field Goal,0,Commanders,9.0,2023,130
+3,1,2:21,WAS 20,11,5:16,80,Touchdown,0,Commanders,9.0,2023,130
+4,2,11:12,WAS 14,2,0:47,9,Fumble,0,Commanders,9.0,2023,130
+5,2,9:26,WAS 17,5,2:45,32,Punt,0,Commanders,9.0,2023,130
+6,2,6:06,WAS 20,15,5:57,75,Interception,0,Commanders,9.0,2023,130
+7,3,10:14,WAS 25,7,3:23,75,Touchdown,0,Commanders,9.0,2023,130
+8,3,4:39,WAS 24,8,2:50,65,Field Goal,0,Commanders,9.0,2023,130
+9,4,14:48,WAS 20,6,3:38,20,Punt,0,Commanders,9.0,2023,130
+10,4,9:20,WAS 34,3,2:10,1,Punt,0,Commanders,9.0,2023,130
+11,4,5:04,WAS 5,9,2:57,31,Punt,0,Commanders,9.0,2023,130
+12,4,0:30,WAS 33,1,0:30,-1,End of Game,0,Commanders,9.0,2023,130

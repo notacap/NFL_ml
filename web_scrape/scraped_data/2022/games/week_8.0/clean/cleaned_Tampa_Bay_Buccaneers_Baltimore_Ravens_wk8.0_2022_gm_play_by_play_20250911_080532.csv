@@ -1,0 +1,187 @@
+Quarter,Time,Down,ToGo,Location,BAL,TAM,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Buccaneers won the coin toss and deferred, Ravens to receive the opening kickoff.",,,8.0,2022,109
+1.0,15:00,,,TAM 35,0.0,0.0,"Jake Camarda kicks off 65 yards, returned by Devin Duvernay for 21 yards (tackle by Jamel Dean)",0.0,0.34,8.0,2022,109
+1.0,14:54,1.0,10.0,BAL 21,0.0,0.0,Lamar Jackson pass complete short left to Mark Andrews for 22 yards (tackle by Keanu Neal and Mike Edwards),0.34,1.8,8.0,2022,109
+1.0,14:18,1.0,10.0,BAL 43,0.0,0.0,Lamar Jackson pass complete short right to Mark Andrews for 5 yards (tackle by Keanu Neal and Shaquil Barrett),1.8,1.93,8.0,2022,109
+1.0,13:35,2.0,5.0,BAL 48,0.0,0.0,Lamar Jackson pass complete short right to Kenyan Drake for -4 yards (tackle by Devin White),1.93,0.69,8.0,2022,109
+1.0,12:51,3.0,9.0,BAL 44,0.0,0.0,Lamar Jackson pass incomplete short middle intended for Mark Andrews (defended by Lavonte David),0.69,-0.46,8.0,2022,109
+1.0,12:47,4.0,9.0,BAL 44,0.0,0.0,"Jordan Stout punts 50 yards, recovered by Kevon Seymour at TB-6",-0.46,5.83,8.0,2022,109
+1.0,12:37,1.0,6.0,TAM 6,0.0,0.0,Lamar Jackson up the middle for -4 yards (tackle by Shaquil Barrett),5.83,4.19,8.0,2022,109
+1.0,11:53,2.0,10.0,TAM 10,0.0,0.0,Lamar Jackson pass complete short left to James Proche for 6 yards (tackle by Mike Edwards),4.19,4.49,8.0,2022,109
+1.0,11:10,3.0,4.0,TAM 4,0.0,0.0,Lamar Jackson pass incomplete short right intended for Mark Andrews (defended by Zyon McCollum),4.49,3.03,8.0,2022,109
+1.0,11:06,4.0,4.0,TAM 4,3.0,0.0,Justin Tucker 22 yard field goal good,3.03,3.0,8.0,2022,109
+1.0,11:03,,,BAL 35,3.0,0.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,109
+1.0,11:03,1.0,10.0,TAM 25,3.0,0.0,Tom Brady pass incomplete short left intended for Cade Otton,0.61,0.06,8.0,2022,109
+1.0,10:58,2.0,10.0,TAM 25,3.0,0.0,Leonard Fournette right tackle for 9 yards (tackle by Geno Stone and Damarion Williams),0.06,0.56,8.0,2022,109
+1.0,10:16,3.0,1.0,TAM 34,3.0,0.0,Leonard Fournette right tackle for 5 yards (tackle by Chuck Clark and Broderick Washington),0.56,1.53,8.0,2022,109
+1.0,9:41,1.0,10.0,TAM 39,3.0,0.0,Tom Brady pass complete short right to Ko Kieft for 9 yards (tackle by Devon Kennard),1.53,2.2,8.0,2022,109
+1.0,9:02,2.0,1.0,TAM 48,3.0,0.0,Tom Brady pass complete short middle to Chris Godwin for 44 yards (tackle by Geno Stone),2.2,5.37,8.0,2022,109
+1.0,8:22,1.0,8.0,BAL 8,3.0,0.0,Leonard Fournette right tackle for -2 yards (tackle by Devon Kennard),5.37,4.19,8.0,2022,109
+1.0,7:43,2.0,10.0,BAL 10,3.0,0.0,"Tom Brady pass incomplete short left intended for Mike Evans. Penalty on Marcus Peters: Defensive Holding, 5 yards (accepted) (no play)",4.19,6.06,8.0,2022,109
+1.0,7:36,1.0,5.0,BAL 5,3.0,0.0,Leonard Fournette up the middle for 4 yards (tackle by Travis Jones and Damarion Williams),6.06,5.91,8.0,2022,109
+1.0,6:58,2.0,1.0,BAL 1,3.0,6.0,"Leonard Fournette left tackle for 1 yard, touchdown",5.91,7.0,8.0,2022,109
+1.0,6:56,,,BAL 15,3.0,7.0,Ryan Succop kicks extra point good,0.0,0.0,8.0,2022,109
+1.0,6:56,,,TAM 35,3.0,7.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,109
+1.0,6:56,1.0,10.0,BAL 25,3.0,7.0,Lamar Jackson pass complete short middle to Josh Oliver for 4 yards (tackle by Lavonte David),0.61,0.6,8.0,2022,109
+1.0,6:11,2.0,6.0,BAL 29,3.0,7.0,Gus Edwards left guard for -1 yards (tackle by Shaquil Barrett),0.6,-0.23,8.0,2022,109
+1.0,5:27,3.0,7.0,BAL 28,3.0,7.0,Lamar Jackson pass incomplete intended for James Proche,-0.23,-1.5,8.0,2022,109
+1.0,5:18,4.0,7.0,BAL 28,3.0,7.0,"Jordan Stout punts 53 yards, returned by Jaelon Darden for 18 yards (tackle by Kyle Hamilton and Nick Moore)",-1.5,-1.4,8.0,2022,109
+1.0,5:07,1.0,10.0,TAM 37,3.0,7.0,Leonard Fournette right tackle for no gain (tackle by Brent Urban and Malik Harrison),1.4,0.86,8.0,2022,109
+1.0,4:36,2.0,10.0,TAM 37,3.0,7.0,Tom Brady pass complete deep right to Mike Evans for 23 yards (tackle by Chuck Clark),0.86,2.92,8.0,2022,109
+1.0,3:57,1.0,10.0,BAL 40,3.0,7.0,Tom Brady pass complete short left to Chris Godwin for 9 yards (tackle by Justin Madubuike and Damarion Williams),2.92,3.59,8.0,2022,109
+1.0,3:19,2.0,1.0,BAL 31,3.0,7.0,Leonard Fournette right end for 1 yard (tackle by Odafe Oweh),3.59,3.58,8.0,2022,109
+1.0,2:38,1.0,10.0,BAL 30,3.0,7.0,Tom Brady pass complete short left to Chris Godwin for 8 yards (tackle by A.J. Klein),3.58,4.11,8.0,2022,109
+1.0,1:55,2.0,2.0,BAL 22,3.0,7.0,Tom Brady pass complete short right to Breshad Perriman for 11 yards (tackle by Geno Stone),4.11,4.84,8.0,2022,109
+1.0,1:16,1.0,10.0,BAL 11,3.0,7.0,Tom Brady pass complete short right to Rachaad White for -2 yards (tackle by A.J. Klein),4.84,3.83,8.0,2022,109
+1.0,0:37,2.0,12.0,BAL 13,3.0,7.0,Tom Brady pass incomplete short left intended for Mike Evans,3.83,3.08,8.0,2022,109
+1.0,0:34,3.0,12.0,BAL 13,3.0,7.0,Tom Brady pass incomplete short middle intended for Cade Otton,3.08,2.57,8.0,2022,109
+1.0,0:30,4.0,12.0,BAL 13,3.0,10.0,Ryan Succop 31 yard field goal good,2.57,3.0,8.0,2022,109
+1.0,0:26,,,TAM 35,3.0,10.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,109
+1.0,0:26,1.0,10.0,BAL 25,3.0,10.0,Lamar Jackson pass incomplete short middle intended for Isaiah Likely,0.61,0.06,8.0,2022,109
+1.0,0:22,2.0,10.0,BAL 25,3.0,10.0,Lamar Jackson sacked by Vita Vea for -12 yards,0.06,-2.75,8.0,2022,109
+2.0,15:00,3.0,22.0,BAL 13,3.0,10.0,Lamar Jackson pass complete to Devin Duvernay for no gain (tackle by Dee Delaney and Devin White),-2.75,-2.49,8.0,2022,109
+2.0,14:25,4.0,22.0,BAL 13,3.0,10.0,"Jordan Stout punts 57 yards, returned by Jaelon Darden for 15 yards (tackle by Nick Moore)",-2.49,-1.93,8.0,2022,109
+2.0,14:12,1.0,10.0,TAM 45,3.0,10.0,Rachaad White up the middle for 3 yards (tackle by Brent Urban and A.J. Klein),1.93,1.79,8.0,2022,109
+2.0,13:36,2.0,7.0,TAM 48,3.0,10.0,Rachaad White up the middle for 3 yards (tackle by Broderick Washington and Justin Madubuike),1.79,1.49,8.0,2022,109
+2.0,12:58,3.0,4.0,BAL 49,3.0,10.0,Tom Brady pass incomplete short left intended for Chris Godwin (defended by Geno Stone),1.49,0.0,8.0,2022,109
+2.0,12:55,4.0,4.0,BAL 49,3.0,10.0,Jake Camarda punts 43 yards downed by Scott Miller,0.0,0.38,8.0,2022,109
+2.0,12:44,1.0,10.0,BAL 6,3.0,10.0,Gus Edwards up the middle for 12 yards (tackle by Mike Edwards),-0.38,0.04,8.0,2022,109
+2.0,12:09,1.0,10.0,BAL 18,3.0,10.0,Lamar Jackson sacked by Shaquil Barrett for -3 yards,0.04,-0.93,8.0,2022,109
+2.0,11:24,2.0,13.0,BAL 15,3.0,10.0,Lamar Jackson pass complete short middle to Mark Andrews for 6 yards (tackle by Keanu Neal),-0.93,-0.79,8.0,2022,109
+2.0,10:46,3.0,7.0,BAL 21,3.0,10.0,Lamar Jackson pass complete short right to Demarcus Robinson for 9 yards (tackle by Zyon McCollum),-0.79,0.94,8.0,2022,109
+2.0,10:29,1.0,10.0,BAL 30,3.0,10.0,Lamar Jackson pass complete short right to Demarcus Robinson for 6 yards (tackle by Lavonte David and Zyon McCollum),0.94,1.2,8.0,2022,109
+2.0,9:54,2.0,4.0,BAL 36,3.0,10.0,Lamar Jackson left end for 5 yards (tackle by Devin White and Jamel Dean),1.2,1.66,8.0,2022,109
+2.0,9:20,1.0,10.0,BAL 41,3.0,10.0,Lamar Jackson pass complete short left to James Proche for 6 yards (tackle by Jamel Dean),1.66,1.93,8.0,2022,109
+2.0,8:42,2.0,4.0,BAL 47,3.0,10.0,Gus Edwards up the middle for 2 yards (tackle by Rakeem Nunez-Roches and Mike Edwards),1.93,1.49,8.0,2022,109
+2.0,8:08,3.0,2.0,BAL 49,3.0,10.0,Gus Edwards right guard for 5 yards (tackle by William Gholston and Joe Tryon-Shoyinka),1.49,2.52,8.0,2022,109
+2.0,7:20,1.0,10.0,TAM 46,3.0,10.0,"Lamar Jackson pass complete to Kenyan Drake for 2 yards (tackle by Dee Delaney). Penalty on James Proche: Offensive Pass Interference, 10 yards (accepted) (no play)",2.52,1.86,8.0,2022,109
+2.0,7:09,1.0,20.0,BAL 44,3.0,10.0,Lamar Jackson pass complete short left to Demarcus Robinson for 4 yards,1.86,1.17,8.0,2022,109
+2.0,6:40,2.0,16.0,BAL 48,3.0,10.0,"Lamar Jackson pass incomplete short left. Penalty on Lamar Jackson: Intentional Grounding, 20 yards (accepted)",1.17,-2.14,8.0,2022,109
+2.0,6:29,3.0,36.0,BAL 28,3.0,10.0,Justice Hill up the middle for 8 yards (tackle by Joe Tryon-Shoyinka),-2.14,-0.98,8.0,2022,109
+2.0,5:55,4.0,28.0,BAL 36,3.0,10.0,"Jordan Stout punts 50 yards, fair catch by Jaelon Darden at TB-14",-0.98,0.28,8.0,2022,109
+2.0,5:47,1.0,10.0,TAM 14,3.0,10.0,Leonard Fournette left tackle for 2 yards (tackle by Malik Harrison),-0.28,-0.51,8.0,2022,109
+2.0,5:12,2.0,8.0,TAM 16,3.0,10.0,Tom Brady pass incomplete deep left intended for Mike Evans (defended by Marlon Humphrey),-0.51,-1.16,8.0,2022,109
+2.0,5:04,3.0,8.0,TAM 16,3.0,10.0,Tom Brady pass incomplete short middle intended for Chris Godwin,-1.16,-2.39,8.0,2022,109
+2.0,5:00,4.0,8.0,TAM 16,3.0,10.0,"Jake Camarda punts 51 yards, returned by Devin Duvernay for 7 yards (tackle by Cade Otton)",-2.39,-1.6,8.0,2022,109
+2.0,4:48,1.0,10.0,BAL 40,3.0,10.0,Lamar Jackson pass complete short left to Kenyan Drake for 1 yard (tackle by Lavonte David),1.6,1.19,8.0,2022,109
+2.0,4:19,2.0,9.0,BAL 41,3.0,10.0,Lamar Jackson pass complete short right to Isaiah Likely for 12 yards (tackle by Keanu Neal),1.19,2.46,8.0,2022,109
+2.0,3:40,1.0,10.0,TAM 47,3.0,10.0,Lamar Jackson pass incomplete deep right intended for Rashod Bateman,2.46,1.91,8.0,2022,109
+2.0,3:35,2.0,10.0,TAM 47,3.0,10.0,Lamar Jackson pass complete short right to Demarcus Robinson for 14 yards (tackle by Devin White),1.91,3.38,8.0,2022,109
+2.0,3:07,1.0,10.0,TAM 33,3.0,10.0,Lamar Jackson pass complete short right to Demarcus Robinson for 16 yards (tackle by Mike Edwards),3.38,4.44,8.0,2022,109
+2.0,2:33,1.0,10.0,TAM 17,3.0,10.0,Lamar Jackson pass incomplete deep right,4.44,3.85,8.0,2022,109
+2.0,2:25,2.0,10.0,TAM 17,3.0,10.0,Lamar Jackson pass incomplete short right intended for Demarcus Robinson,3.85,3.07,8.0,2022,109
+2.0,2:22,3.0,10.0,TAM 17,3.0,10.0,Lamar Jackson pass complete short middle to Isaiah Likely for 8 yards (tackle by Keanu Neal),3.07,2.95,8.0,2022,109
+2.0,2:00,4.0,2.0,TAM 9,3.0,10.0,Lamar Jackson pass incomplete short middle intended for Demarcus Robinson (defended by Jamel Dean),2.95,0.38,8.0,2022,109
+2.0,1:55,1.0,10.0,TAM 10,3.0,10.0,Tom Brady pass complete short left to Scott Miller for 7 yards (tackle by Brandon Stephens),-0.38,-0.09,8.0,2022,109
+2.0,1:35,2.0,3.0,TAM 17,3.0,10.0,Tom Brady pass incomplete intended for Chris Godwin (defended by Broderick Washington),-0.09,-0.48,8.0,2022,109
+2.0,1:31,,,,,,Timeout #1 by Baltimore Ravens,,,8.0,2022,109
+2.0,1:31,3.0,2.0,TAM 17,3.0,10.0,Tom Brady pass complete deep right to Mike Evans for 28 yards (tackle by Damarion Williams),-0.48,1.93,8.0,2022,109
+2.0,1:25,1.0,10.0,TAM 45,3.0,10.0,Tom Brady pass complete short middle to Leonard Fournette for 5 yards (tackle by Kyle Hamilton),1.93,2.06,8.0,2022,109
+2.0,1:06,2.0,5.0,TAM 50,3.0,10.0,Tom Brady sacked by Justin Houston for -9 yards,2.06,0.17,8.0,2022,109
+2.0,1:03,,,,,,Timeout #1 by Tampa Bay Buccaneers,,,8.0,2022,109
+2.0,1:03,3.0,14.0,TAM 41,3.0,10.0,Tom Brady sacked by Justin Houston for -7 yards,0.17,-1.11,8.0,2022,109
+2.0,0:56,,,,,,Timeout #2 by Baltimore Ravens,,,8.0,2022,109
+2.0,0:56,4.0,21.0,TAM 34,3.0,10.0,"Jake Camarda punts 60 yards, returned by Devin Duvernay for 7 yards (tackle by Rachaad White)",-1.11,0.32,8.0,2022,109
+2.0,0:46,1.0,10.0,BAL 13,3.0,10.0,Lamar Jackson pass complete short left to Kenyan Drake for 3 yards (tackle by Jamel Dean),-0.32,-0.44,8.0,2022,109
+2.0,0:41,2.0,7.0,BAL 16,3.0,10.0,Lamar Jackson pass complete short right to Isaiah Likely for 14 yards (tackle by William Gholston),-0.44,0.94,8.0,2022,109
+2.0,0:30,,,,,,Timeout #3 by Baltimore Ravens,,,8.0,2022,109
+2.0,0:30,1.0,10.0,BAL 30,3.0,10.0,"Lamar Jackson pass incomplete deep middle intended for James Proche. Penalty on Joe Tryon-Shoyinka: Face Mask (15 Yards), 15 yards (accepted) (no play)",0.94,1.93,8.0,2022,109
+2.0,0:25,1.0,10.0,BAL 45,3.0,10.0,Lamar Jackson pass complete short right to James Proche for 12 yards (tackle by Mike Edwards),1.93,2.72,8.0,2022,109
+2.0,0:09,1.0,10.0,TAM 43,3.0,10.0,Lamar Jackson spiked the ball,2.72,2.18,8.0,2022,109
+2.0,0:08,2.0,10.0,TAM 43,3.0,10.0,Lamar Jackson pass incomplete short right,2.18,1.49,8.0,2022,109
+2.0,0:04,3.0,10.0,TAM 43,3.0,10.0,Justin Tucker 61 yard field goal no good blocked by Pat O'Connor,1.49,2.26,8.0,2022,109
+3.0,15:00,,,BAL 35,3.0,10.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,109
+3.0,15:00,1.0,10.0,TAM 25,3.0,10.0,Leonard Fournette left guard for 4 yards (tackle by Broderick Washington),0.61,0.6,8.0,2022,109
+3.0,14:21,2.0,6.0,TAM 29,3.0,10.0,Tom Brady pass incomplete short right intended for Mike Evans,0.6,-0.1,8.0,2022,109
+3.0,14:19,3.0,6.0,TAM 29,3.0,10.0,Tom Brady pass incomplete short middle,-0.1,-1.44,8.0,2022,109
+3.0,14:13,4.0,6.0,TAM 29,3.0,10.0,"Penalty on J.J. Russell: False Start, 5 yards (accepted) (no play)",-1.44,-1.77,8.0,2022,109
+3.0,14:13,4.0,11.0,TAM 24,3.0,10.0,"Jake Camarda punts 66 yards, returned by Devin Duvernay for 13 yards (tackle by Ko Kieft)",-1.77,-0.48,8.0,2022,109
+3.0,13:58,1.0,10.0,BAL 23,3.0,10.0,Lamar Jackson up the middle for 25 yards (tackle by Zyon McCollum),0.48,2.13,8.0,2022,109
+3.0,13:25,1.0,10.0,BAL 48,3.0,10.0,Gus Edwards right guard for 2 yards (tackle by Pat O'Connor and Devin White),2.13,1.85,8.0,2022,109
+3.0,12:40,2.0,8.0,TAM 50,3.0,10.0,Gus Edwards right guard for 7 yards (tackle by Rakeem Nunez-Roches),1.85,2.08,8.0,2022,109
+3.0,12:09,3.0,1.0,TAM 43,3.0,10.0,Gus Edwards right tackle for 11 yards (tackle by Dee Delaney),2.08,3.45,8.0,2022,109
+3.0,11:44,1.0,10.0,TAM 32,3.0,10.0,Gus Edwards right tackle for 1 yard (tackle by William Gholston),3.45,3.04,8.0,2022,109
+3.0,11:04,2.0,9.0,TAM 31,3.0,10.0,Lamar Jackson pass complete short left to Devin Duvernay for 13 yards (tackle by Jamel Dean),3.04,4.37,8.0,2022,109
+3.0,10:27,1.0,10.0,TAM 18,3.0,10.0,Kenyan Drake left guard for 6 yards (tackle by Devin White and Lavonte David),4.37,4.81,8.0,2022,109
+3.0,9:44,2.0,4.0,TAM 12,3.0,10.0,Lamar Jackson pass complete short middle to Devin Duvernay for 7 yards (tackle by Lavonte David),4.81,6.06,8.0,2022,109
+3.0,9:10,1.0,5.0,TAM 5,9.0,10.0,"Lamar Jackson pass complete short right to Kenyan Drake for 5 yards, touchdown",6.06,7.0,8.0,2022,109
+3.0,9:05,,,TAM 15,10.0,10.0,Justin Tucker kicks extra point good,0.0,0.0,8.0,2022,109
+3.0,9:05,,,BAL 35,10.0,10.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,109
+3.0,9:05,1.0,10.0,TAM 25,10.0,10.0,Tom Brady pass complete short left to Rachaad White for 20 yards (tackle by Devon Kennard),0.61,1.93,8.0,2022,109
+3.0,8:31,1.0,10.0,TAM 45,10.0,10.0,Rachaad White up the middle for 8 yards (tackle by Malik Harrison and Brent Urban),1.93,2.46,8.0,2022,109
+3.0,7:56,2.0,2.0,BAL 47,10.0,10.0,Julio Jones right end for no gain (tackle by A.J. Klein),2.46,1.75,8.0,2022,109
+3.0,7:11,3.0,2.0,BAL 47,10.0,10.0,Tom Brady pass incomplete deep left intended for Mike Evans,1.75,0.13,8.0,2022,109
+3.0,7:05,4.0,2.0,BAL 47,10.0,10.0,"Jake Camarda punts 47 yards, touchback.",0.13,-0.28,8.0,2022,109
+3.0,6:57,1.0,10.0,BAL 20,10.0,10.0,Devin Duvernay left end for 18 yards (tackle by Lavonte David),0.28,1.47,8.0,2022,109
+3.0,6:15,1.0,10.0,BAL 38,10.0,10.0,Gus Edwards up the middle for 2 yards (tackle by William Gholston and Devin White),1.47,1.19,8.0,2022,109
+3.0,5:38,2.0,8.0,BAL 40,10.0,10.0,Kenyan Drake right tackle for 3 yards (tackle by Vita Vea),1.19,0.89,8.0,2022,109
+3.0,4:56,3.0,5.0,BAL 43,10.0,10.0,Lamar Jackson pass complete short middle to Isaiah Likely for 17 yards (tackle by Logan Hall and Keanu Neal),0.89,2.92,8.0,2022,109
+3.0,4:24,1.0,10.0,TAM 40,10.0,10.0,Lamar Jackson sacked by Joe Tryon-Shoyinka for -1 yards,2.92,2.24,8.0,2022,109
+3.0,3:39,2.0,11.0,TAM 41,10.0,10.0,Justice Hill right tackle for 12 yards (tackle by Carl Nassib),2.24,3.64,8.0,2022,109
+3.0,2:57,1.0,10.0,TAM 29,10.0,10.0,Gus Edwards right tackle for 2 yards (tackle by Keanu Neal and Anthony Nelson),3.64,3.37,8.0,2022,109
+3.0,2:17,2.0,8.0,TAM 27,10.0,10.0,Lamar Jackson up the middle for -1 yards (tackle by Rakeem Nunez-Roches),3.37,2.54,8.0,2022,109
+3.0,1:32,3.0,9.0,TAM 28,10.0,10.0,Lamar Jackson pass complete short right to Demarcus Robinson for 15 yards (tackle by Mike Edwards),2.54,4.71,8.0,2022,109
+3.0,0:52,1.0,10.0,TAM 13,10.0,10.0,Justice Hill right guard for 3 yards (tackle by Vita Vea),4.71,4.58,8.0,2022,109
+3.0,0:11,2.0,7.0,TAM 10,16.0,10.0,"Lamar Jackson pass complete short right to Isaiah Likely for 10 yards, touchdown",4.58,7.0,8.0,2022,109
+3.0,0:05,,,TAM 15,17.0,10.0,Justin Tucker kicks extra point good,0.0,0.0,8.0,2022,109
+3.0,0:05,,,BAL 35,17.0,10.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,109
+3.0,0:05,1.0,10.0,TAM 25,17.0,10.0,Tom Brady pass complete short right to Chris Godwin for 4 yards (tackle by Patrick Queen),0.61,0.6,8.0,2022,109
+4.0,15:00,2.0,6.0,TAM 29,17.0,10.0,Tom Brady pass complete short left to Chris Godwin for 7 yards (tackle by Geno Stone and Damarion Williams),0.6,1.33,8.0,2022,109
+4.0,14:24,1.0,10.0,TAM 36,17.0,10.0,Tom Brady pass incomplete short middle intended for Chris Godwin (defended by Broderick Washington),1.33,0.79,8.0,2022,109
+4.0,14:20,2.0,10.0,TAM 36,17.0,10.0,Tom Brady pass complete deep left to Mike Evans for 51 yards (tackle by Geno Stone),0.79,4.71,8.0,2022,109
+4.0,13:31,1.0,10.0,BAL 13,17.0,10.0,Tom Brady pass incomplete short left intended for Kyle Rudolph,4.71,4.05,8.0,2022,109
+4.0,13:26,2.0,10.0,BAL 13,17.0,10.0,Tom Brady pass incomplete short right intended for Mike Evans,4.05,3.12,8.0,2022,109
+4.0,13:22,3.0,10.0,BAL 13,17.0,10.0,Tom Brady scrambles left end for 1 yard (tackle by Geno Stone),3.12,2.63,8.0,2022,109
+4.0,12:30,4.0,9.0,BAL 12,17.0,13.0,Ryan Succop 30 yard field goal good,2.63,3.0,8.0,2022,109
+4.0,12:26,,,TAM 35,17.0,13.0,"Jake Camarda kicks off 66 yards, returned by Devin Duvernay for 18 yards (tackle by Ko Kieft and Olakunle Fatukasi)",0.0,-0.06,8.0,2022,109
+4.0,12:21,1.0,10.0,BAL 17,17.0,13.0,Gus Edwards right tackle for 22 yards (tackle by Zyon McCollum),-0.06,1.53,8.0,2022,109
+4.0,11:36,1.0,10.0,BAL 39,17.0,13.0,Lamar Jackson pass complete short right to Isaiah Likely for 16 yards (tackle by Mike Edwards),1.53,2.59,8.0,2022,109
+4.0,10:46,1.0,10.0,TAM 45,17.0,13.0,Kenyan Drake right guard for 7 yards (tackle by Keanu Neal and Mike Edwards),2.59,2.99,8.0,2022,109
+4.0,10:10,2.0,3.0,TAM 38,17.0,13.0,Kenyan Drake up the middle for 3 yards (tackle by Dee Delaney and Devin White),2.99,3.25,8.0,2022,109
+4.0,9:23,1.0,10.0,TAM 35,17.0,13.0,Lamar Jackson pass complete short right to Devin Duvernay for 11 yards (tackle by Mike Edwards),3.25,3.97,8.0,2022,109
+4.0,8:48,1.0,10.0,TAM 24,17.0,13.0,"Lamar Jackson right end for 10 yards (tackle by Zyon McCollum). Penalty on Patrick Ricard: Offensive Holding, 10 yards (accepted)",3.97,3.97,8.0,2022,109
+4.0,8:25,1.0,10.0,TAM 24,17.0,13.0,Kenyan Drake left tackle for 3 yards (tackle by Devin White and Logan Hall),3.97,3.84,8.0,2022,109
+4.0,7:42,2.0,7.0,TAM 21,17.0,13.0,Lamar Jackson scrambles right end for 6 yards (tackle by Devin White),3.84,4.17,8.0,2022,109
+4.0,7:00,3.0,1.0,TAM 15,23.0,13.0,"Devin Duvernay left end for 15 yards, touchdown",4.17,7.0,8.0,2022,109
+4.0,6:55,,,TAM 15,24.0,13.0,Justin Tucker kicks extra point good,0.0,0.0,8.0,2022,109
+4.0,6:55,,,BAL 35,24.0,13.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,109
+4.0,6:55,1.0,10.0,TAM 25,24.0,13.0,Tom Brady pass complete short right to Mike Evans for 7 yards (tackle by Marcus Peters),0.61,1.01,8.0,2022,109
+4.0,6:38,2.0,3.0,TAM 32,24.0,13.0,Tom Brady pass complete short right to Rachaad White for 6 yards (tackle by Chuck Clark),1.01,1.47,8.0,2022,109
+4.0,6:24,1.0,10.0,TAM 38,24.0,13.0,Tom Brady pass incomplete short left intended for Julio Jones,1.47,0.92,8.0,2022,109
+4.0,6:21,2.0,10.0,TAM 38,24.0,13.0,Tom Brady pass complete short right to Mike Evans for 8 yards,0.92,1.29,8.0,2022,109
+4.0,6:08,3.0,2.0,TAM 46,24.0,13.0,Rachaad White up the middle for 5 yards (tackle by Patrick Queen),1.29,2.32,8.0,2022,109
+4.0,5:48,1.0,10.0,BAL 49,24.0,13.0,"Tom Brady pass incomplete deep left intended for Scott Miller. Penalty on Brandon Stephens: Defensive Pass Interference, 40 yards (accepted) (no play)",2.32,5.14,8.0,2022,109
+4.0,5:41,1.0,9.0,BAL 9,24.0,13.0,Tom Brady pass complete to Chris Godwin for 3 yards (tackle by Marcus Peters),5.14,4.95,8.0,2022,109
+4.0,5:17,2.0,6.0,BAL 6,24.0,13.0,Tom Brady pass incomplete short right intended for Julio Jones (defended by Chuck Clark),4.95,4.04,8.0,2022,109
+4.0,5:10,3.0,6.0,BAL 6,24.0,13.0,"Tom Brady pass complete short left to Cade Otton for no gain, touchdown. Penalty on Donovan Smith: Offensive Holding, 10 yards (accepted) (no play)",4.04,2.85,8.0,2022,109
+4.0,5:04,3.0,16.0,BAL 16,24.0,13.0,Tom Brady pass complete short left to Julio Jones for 13 yards (tackle by Brandon Stephens),2.85,3.04,8.0,2022,109
+4.0,4:57,4.0,3.0,BAL 3,24.0,13.0,"Penalty on Leonard Fournette: False Start, 5 yards (accepted) (no play)",3.04,2.95,8.0,2022,109
+4.0,4:57,4.0,8.0,BAL 8,24.0,16.0,Ryan Succop 26 yard field goal good,2.95,3.0,8.0,2022,109
+4.0,4:54,,,TAM 35,24.0,16.0,"Jake Camarda kicks off 59 yards, returned by Devin Duvernay for 33 yards (tackle by Jamel Dean)",0.0,1.53,8.0,2022,109
+4.0,4:47,1.0,10.0,BAL 39,24.0,16.0,Kenyan Drake right tackle for 40 yards (tackle by Mike Edwards),1.53,4.17,8.0,2022,109
+4.0,3:56,1.0,10.0,TAM 21,24.0,16.0,Lamar Jackson scrambles up the middle for 4 yards (tackle by William Gholston),4.17,4.2,8.0,2022,109
+4.0,3:13,2.0,6.0,TAM 17,24.0,16.0,Justice Hill for 5 yards (tackle by Vita Vea),4.2,4.49,8.0,2022,109
+4.0,2:26,3.0,1.0,TAM 12,24.0,16.0,Kenyan Drake up the middle for no gain (tackle by William Gholston),4.49,2.78,8.0,2022,109
+4.0,2:16,,,,,,Timeout #1 by Tampa Bay Buccaneers,,,8.0,2022,109
+4.0,2:16,4.0,1.0,TAM 12,27.0,16.0,Justin Tucker 30 yard field goal good,2.78,3.0,8.0,2022,109
+4.0,2:12,,,BAL 35,27.0,16.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,109
+4.0,2:12,1.0,10.0,TAM 25,27.0,16.0,Tom Brady pass complete short right to Leonard Fournette for 14 yards (tackle by Patrick Queen),0.61,1.6,8.0,2022,109
+4.0,2:00,1.0,10.0,TAM 40,27.0,16.0,"Tom Brady pass complete to Julio Jones for 19 yards. Penalty on Justin Madubuike: Roughing the Passer, 15 yards (accepted) Tom Brady pass incomplete intended for Julio Jones. Penalty on Justin Madubuike: Roughing the Passer, 15 yards (accepted) (no play)",1.6,2.52,8.0,2022,109
+4.0,1:55,1.0,10.0,BAL 46,27.0,16.0,Tom Brady pass complete to Scott Miller for 6 yards (tackle by Brandon Stephens),2.52,2.79,8.0,2022,109
+4.0,1:49,2.0,4.0,BAL 40,27.0,16.0,Tom Brady sacked by Justin Madubuike for -4 yards,2.79,1.55,8.0,2022,109
+4.0,1:41,,,,,,Timeout #2 by Tampa Bay Buccaneers,,,8.0,2022,109
+4.0,1:41,3.0,8.0,BAL 44,27.0,16.0,Tom Brady pass complete short middle to Cade Otton for 10 yards (tackle by Kyle Hamilton),1.55,3.31,8.0,2022,109
+4.0,1:24,1.0,10.0,BAL 34,27.0,16.0,Tom Brady pass complete short right to Leonard Fournette for 15 yards (tackle by Patrick Queen),3.31,4.31,8.0,2022,109
+4.0,1:15,,,,,,Timeout #3 by Tampa Bay Buccaneers,,,8.0,2022,109
+4.0,1:15,1.0,10.0,BAL 19,27.0,16.0,Tom Brady pass complete short right to Cade Otton for 5 yards (tackle by Marcus Peters),4.31,4.53,8.0,2022,109
+4.0,1:12,2.0,5.0,BAL 14,27.0,16.0,Tom Brady pass complete short left to Mike Evans for 6 yards (tackle by Brandon Stephens),4.53,5.37,8.0,2022,109
+4.0,1:01,1.0,8.0,BAL 8,27.0,16.0,Tom Brady spiked the ball,5.37,4.57,8.0,2022,109
+4.0,1:00,2.0,8.0,BAL 8,27.0,16.0,Tom Brady pass incomplete short left intended for Cade Otton (defended by Kyle Hamilton),4.57,3.58,8.0,2022,109
+4.0,0:56,3.0,8.0,BAL 8,27.0,16.0,Tom Brady pass incomplete short middle intended for Chris Godwin (defended by Travis Jones),3.58,2.95,8.0,2022,109
+4.0,0:53,4.0,8.0,BAL 8,27.0,22.0,"Tom Brady pass complete short right to Julio Jones for 8 yards, touchdown. Penalty on Jason Pierre-Paul: Defensive Offside, 5 yards (declined)",2.95,7.0,8.0,2022,109
+4.0,0:49,,,BAL 2,27.0,22.0,"Two Point Attempt: Tom Brady pass incomplete. Penalty on Patrick Queen: Defensive Holding, 1 yard (accepted) Penalty on Chuck Clark: Defensive Holding, 5 yards (declined) . Penalty on Chuck Clark: Defensive Holding, 5 yards (declined) (no play)",1.0,1.0,8.0,2022,109
+4.0,0:49,1.0,1.0,BAL 2,27.0,22.0,"Two Point Attempt: Rachaad White rushes, conversion fails.",1.0,-1.0,8.0,2022,109
+4.0,0:49,,,,,,Timeout #1 by Baltimore Ravens,,,8.0,2022,109
+4.0,0:49,,,TAM 35,27.0,22.0,"Jake Camarda kicks onside 11 yards, returned by Isaiah Likely for no gain",0.0,2.52,8.0,2022,109
+4.0,0:48,1.0,10.0,TAM 46,27.0,22.0,Lamar Jackson kneels for -1 yards,2.52,1.84,8.0,2022,109
+4.0,0:26,2.0,11.0,TAM 47,27.0,22.0,Lamar Jackson kneels for -1 yards,1.84,1.03,8.0,2022,109

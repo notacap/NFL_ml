@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,13:26,NYJ 22,8,3:13,49,Field Goal,0,Jets,10.0,2023,149
+2,1,6:15,NYJ 25,9,5:04,40,Field Goal,0,Jets,10.0,2023,149
+3,1,0:27,LVR 26,8,3:39,14,Field Goal,0,Jets,10.0,2023,149
+4,2,10:16,NYJ 19,4,2:58,19,Punt,0,Jets,10.0,2023,149
+5,2,1:52,NYJ 14,6,1:00,34,Punt,0,Jets,10.0,2023,149
+6,3,15:00,NYJ 25,4,2:04,-6,Punt,0,Jets,10.0,2023,149
+7,3,10:45,NYJ 15,3,1:57,7,Punt,0,Jets,10.0,2023,149
+8,3,2:36,NYJ 13,3,1:50,0,Punt,0,Jets,10.0,2023,149
+9,4,14:10,NYJ 25,6,2:12,48,Field Goal,0,Jets,10.0,2023,149
+10,4,6:06,NYJ 24,11,4:52,56,Interception,0,Jets,10.0,2023,149
+11,4,0:53,NYJ 20,5,0:53,36,End of Game,0,Jets,10.0,2023,149

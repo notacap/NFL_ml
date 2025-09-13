@@ -1,0 +1,201 @@
+Quarter,Time,Down,ToGo,Location,CAR,ATL,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Panthers won the coin toss and deferred, Falcons to receive the opening kickoff.",,,8.0,2022,113
+1,15:00,,,CAR 35,0.0,0.0,"Eddy Pineiro kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,113
+1,15:00,1.0,10.0,ATL 25,0.0,0.0,Marcus Mariota pass incomplete short left intended for Kyle Pitts,0.61,0.06,8.0,2022,113
+1,14:55,2.0,10.0,ATL 25,0.0,0.0,Marcus Mariota pass deep middle intended for Damiere Byrd is intercepted by Donte Jackson at CAR-20 and returned for no gain (tackle by Damiere Byrd),0.06,-0.28,8.0,2022,113
+1,14:46,1.0,10.0,CAR 20,0.0,0.0,D'Onta Foreman left tackle for 7 yards (tackle by Mykal Walker),0.28,0.68,8.0,2022,113
+1,14:14,2.0,3.0,CAR 27,0.0,0.0,P.J. Walker pass complete short right to Laviska Shenault for -1 yards (tackle by Grady Jarrett and Adetokunbo Ogundeji),0.68,-0.16,8.0,2022,113
+1,13:31,3.0,4.0,CAR 26,0.0,0.0,"P.J. Walker pass incomplete short right intended for D.J. Moore. Penalty on Dean Marlowe: Face Mask (15 Yards), 15 yards (accepted) (no play)",-0.16,1.66,8.0,2022,113
+1,13:26,1.0,10.0,CAR 41,0.0,0.0,D'Onta Foreman right tackle for 3 yards (tackle by Mykal Walker and Ta'Quon Graham),1.66,1.53,8.0,2022,113
+1,12:48,2.0,7.0,CAR 44,0.0,0.0,P.J. Walker pass incomplete deep right intended for Tommy Tremble,1.53,0.83,8.0,2022,113
+1,12:41,3.0,7.0,CAR 44,0.0,0.0,P.J. Walker pass incomplete deep middle intended for D.J. Moore,0.83,-0.46,8.0,2022,113
+1,12:36,4.0,7.0,CAR 44,0.0,0.0,"Johnny Hekker punts 44 yards, fair catch by Avery Williams at ATL-12",-0.46,0.35,8.0,2022,113
+1,12:28,1.0,10.0,ATL 12,0.0,0.0,Tyler Allgeier left end for 13 yards (tackle by Xavier Woods),-0.35,0.61,8.0,2022,113
+1,11:48,1.0,10.0,ATL 25,0.0,0.0,Tyler Allgeier right tackle for 1 yard (tackle by Brian Burns and Derrick Brown),0.61,0.2,8.0,2022,113
+1,11:03,2.0,9.0,ATL 26,0.0,0.0,Marcus Mariota sacked by and Yetur Gross-Matos for -1 yards and Derrick Brown for -1 yards,0.2,-0.62,8.0,2022,113
+1,10:20,3.0,10.0,ATL 25,0.0,0.0,Marcus Mariota sacked by Frankie Luvu for -13 yards,-0.62,-2.49,8.0,2022,113
+1,9:37,4.0,23.0,ATL 12,0.0,0.0,"Bradley Pinion punts 47 yards, returned by Shi Smith for 22 yards (tackle by Richie Grant)",-2.49,-3.12,8.0,2022,113
+1,9:23,1.0,10.0,ATL 37,0.0,0.0,D'Onta Foreman left guard for 9 yards (tackle by Cornell Armstrong),3.12,3.79,8.0,2022,113
+1,8:53,2.0,1.0,ATL 28,0.0,0.0,D'Onta Foreman left guard for 4 yards (tackle by Timmy Horne and Rashaan Evans),3.79,3.97,8.0,2022,113
+1,8:18,1.0,10.0,ATL 24,0.0,0.0,P.J. Walker pass incomplete deep middle intended for D.J. Moore,3.97,3.43,8.0,2022,113
+1,8:14,2.0,10.0,ATL 24,0.0,0.0,Raheem Blackshear left tackle for -2 yards (tackle by Grady Jarrett),3.43,2.48,8.0,2022,113
+1,7:35,3.0,12.0,ATL 26,0.0,0.0,Spencer Brown left tackle for 7 yards (tackle by Mykal Walker and Ta'Quon Graham),2.48,2.24,8.0,2022,113
+1,6:54,4.0,5.0,ATL 19,3.0,0.0,Eddy Pineiro 37 yard field goal good,2.24,3.0,8.0,2022,113
+1,6:50,,,CAR 35,3.0,0.0,"Eddy Pineiro kicks off 65 yards, returned by Avery Williams for 17 yards (tackle by Giovanni Ricci). Penalty on Troy Andersen: Offensive Illegal Block Above the Waist, 9 yards (accepted)",0.0,-0.38,8.0,2022,113
+1,6:43,1.0,10.0,ATL 8,3.0,0.0,Caleb Huntley left tackle for 3 yards (tackle by Brian Burns),-0.38,-0.56,8.0,2022,113
+1,6:01,2.0,7.0,ATL 11,3.0,0.0,Marcus Mariota pass complete short right to Damiere Byrd for 12 yards (tackle by Juston Burris),-0.56,0.48,8.0,2022,113
+1,5:17,1.0,10.0,ATL 23,3.0,0.0,Caleb Huntley left end for 5 yards (tackle by Shaq Thompson),0.48,0.61,8.0,2022,113
+1,4:41,2.0,5.0,ATL 28,3.0,0.0,Marcus Mariota left end for 10 yards (tackle by Xavier Woods),0.61,1.47,8.0,2022,113
+1,3:56,1.0,10.0,ATL 38,3.0,0.0,Tyler Allgeier left end for 4 yards (tackle by Yetur Gross-Matos and Derrick Brown),1.47,1.46,8.0,2022,113
+1,3:18,2.0,6.0,ATL 42,3.0,0.0,Marcus Mariota pass complete short left to Avery Williams for -1 yards (tackle by Jaycee Horn),1.46,0.63,8.0,2022,113
+1,2:32,3.0,7.0,ATL 41,3.0,0.0,Marcus Mariota pass incomplete short right intended for Kyle Pitts (defended by Keith Taylor),0.63,-0.65,8.0,2022,113
+1,2:28,4.0,7.0,ATL 41,3.0,0.0,"Bradley Pinion punts 53 yards, returned by Shi Smith for 13 yards (tackle by Erik Harris)",-0.65,-0.15,8.0,2022,113
+1,2:14,1.0,10.0,CAR 19,3.0,0.0,P.J. Walker pass incomplete deep right intended for D.J. Moore,0.15,-0.39,8.0,2022,113
+1,2:08,2.0,10.0,CAR 19,3.0,0.0,P.J. Walker pass complete short left to Laviska Shenault for 5 yards (tackle by Richie Grant),-0.39,-0.42,8.0,2022,113
+1,1:30,3.0,5.0,CAR 24,3.0,0.0,P.J. Walker pass incomplete short left intended for Terrace Marshall,-0.42,-1.77,8.0,2022,113
+1,1:23,4.0,5.0,CAR 24,3.0,0.0,"Johnny Hekker punts 45 yards, fair catch by Avery Williams at ATL-31",-1.77,-1.0,8.0,2022,113
+1,1:15,1.0,10.0,ATL 31,3.0,0.0,"Penalty on Elijah Wilkinson: False Start, 5 yards (accepted) (no play)",1.0,0.67,8.0,2022,113
+1,1:15,1.0,15.0,ATL 26,3.0,0.0,Tyler Allgeier left end for 2 yards (tackle by Xavier Woods),0.67,0.06,8.0,2022,113
+1,0:34,2.0,13.0,ATL 28,3.0,0.0,Marcus Mariota pass complete short middle to Kyle Pitts for 10 yards (tackle by Donte Jackson and Juston Burris),0.06,0.7,8.0,2022,113
+2,15:00,3.0,3.0,ATL 38,3.0,0.0,Marcus Mariota pass complete short left to Avery Williams for 8 yards (tackle by Shaq Thompson),0.7,1.99,8.0,2022,113
+2,14:22,1.0,10.0,ATL 46,3.0,0.0,Caleb Huntley right end for 3 yards (tackle by Donte Jackson and Damien Wilson),1.99,1.86,8.0,2022,113
+2,13:41,2.0,7.0,ATL 49,3.0,0.0,Marcus Mariota pass complete short left to Parker Hesse for 9 yards (tackle by Myles Hartsfield),1.86,2.79,8.0,2022,113
+2,12:56,1.0,10.0,CAR 42,3.0,0.0,Marcus Mariota pass complete short left to Kyle Pitts for 26 yards (tackle by Xavier Woods),2.79,4.51,8.0,2022,113
+2,12:10,1.0,10.0,CAR 16,3.0,0.0,Caleb Huntley right guard for 6 yards (tackle by Damien Wilson),4.51,4.97,8.0,2022,113
+2,11:47,2.0,4.0,CAR 10,3.0,0.0,Marcus Mariota pass complete short right to Bryan Edwards for 3 yards (tackle by Myles Hartsfield),4.97,4.85,8.0,2022,113
+2,11:02,3.0,1.0,CAR 7,3.0,0.0,Caleb Huntley left guard for 5 yards (tackle by Shaq Thompson and Derrick Brown),4.85,6.74,8.0,2022,113
+2,10:18,1.0,2.0,CAR 2,3.0,6.0,"Marcus Mariota pass complete short middle to Kyle Pitts for 2 yards, touchdown",6.74,7.0,8.0,2022,113
+2,10:13,,,CAR 15,3.0,7.0,Younghoe Koo kicks extra point good,0.0,0.0,8.0,2022,113
+2,10:13,,,ATL 35,3.0,7.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,113
+2,10:13,1.0,10.0,CAR 25,3.0,7.0,D.J. Moore left end for 3 yards (tackle by Rashaan Evans),0.61,0.47,8.0,2022,113
+2,9:34,2.0,7.0,CAR 28,3.0,7.0,D'Onta Foreman right tackle for 3 yards (tackle by Grady Jarrett and Ta'Quon Graham),0.47,0.17,8.0,2022,113
+2,8:52,3.0,4.0,CAR 31,3.0,7.0,P.J. Walker pass complete deep right to Terrace Marshall for 27 yards (tackle by Dean Marlowe),0.17,2.79,8.0,2022,113
+2,8:24,1.0,10.0,ATL 42,3.0,7.0,D'Onta Foreman right tackle for 5 yards (tackle by Mykal Walker and Lorenzo Carter),2.79,2.92,8.0,2022,113
+2,7:50,2.0,5.0,ATL 37,3.0,7.0,D'Onta Foreman right guard for 5 yards (tackle by Rashaan Evans),2.92,3.45,8.0,2022,113
+2,7:13,1.0,10.0,ATL 32,3.0,7.0,P.J. Walker pass incomplete deep left intended for Laviska Shenault,3.45,2.9,8.0,2022,113
+2,7:08,2.0,10.0,ATL 32,3.0,7.0,"Penalty on Taylor Moton: False Start, 4 yards (accepted) (no play)",2.9,2.36,8.0,2022,113
+2,7:08,2.0,14.0,ATL 36,3.0,7.0,P.J. Walker pass complete short middle to D.J. Moore for 19 yards (tackle by Isaiah Oliver),2.36,4.44,8.0,2022,113
+2,6:32,1.0,10.0,ATL 17,3.0,7.0,D'Onta Foreman left tackle for 8 yards (tackle by Troy Andersen and Mykal Walker),4.44,5.29,8.0,2022,113
+2,5:52,2.0,2.0,ATL 9,3.0,7.0,D'Onta Foreman left tackle for 4 yards (tackle by Isaiah Oliver),5.29,6.06,8.0,2022,113
+2,5:22,1.0,5.0,ATL 5,3.0,7.0,Spencer Brown left end for 3 yards (tackle by Abdullah Anderson),6.06,5.72,8.0,2022,113
+2,5:02,2.0,2.0,ATL 2,3.0,7.0,P.J. Walker pass incomplete short left intended for Terrace Marshall (defended by Cornell Armstrong),5.72,4.95,8.0,2022,113
+2,4:56,3.0,2.0,ATL 2,9.0,7.0,"D'Onta Foreman left tackle for 2 yards, touchdown",4.95,7.0,8.0,2022,113
+2,4:51,,,ATL 15,10.0,7.0,Eddy Pineiro kicks extra point good,0.0,0.0,8.0,2022,113
+2,4:51,,,CAR 35,10.0,7.0,"Eddy Pineiro kicks off 67 yards, returned by Avery Williams for 26 yards (tackle by Amare Barno). Penalty on Erik Harris: Offensive Holding, 10 yards (accepted)",0.0,-0.28,8.0,2022,113
+2,4:44,1.0,10.0,ATL 14,10.0,7.0,Caleb Huntley right end for 5 yards (tackle by Derrick Brown and Jaycee Horn),-0.28,-0.04,8.0,2022,113
+2,4:06,2.0,5.0,ATL 19,10.0,7.0,Caleb Huntley left end for 6 yards (tackle by Derrick Brown and Shaq Thompson),-0.04,0.61,8.0,2022,113
+2,3:24,1.0,10.0,ATL 25,10.0,7.0,Caleb Huntley left end for 6 yards (tackle by Shaq Thompson and Matthew Ioannidis),0.61,0.87,8.0,2022,113
+2,2:41,2.0,4.0,ATL 31,10.0,7.0,Tyler Allgeier right end for 1 yard (tackle by Brian Burns and Myles Hartsfield),0.87,0.3,8.0,2022,113
+2,2:00,3.0,3.0,ATL 32,10.0,7.0,Marcus Mariota right end for -1 yards (tackle by Derrick Brown),0.3,-1.31,8.0,2022,113
+2,1:55,,,,,,Timeout #1 by Carolina Panthers,,,8.0,2022,113
+2,1:55,4.0,4.0,ATL 31,10.0,7.0,"Bradley Pinion punts 60 yards, returned by Shi Smith for 11 yards (tackle by Liam McCullough). Penalty on Cory Littleton: Offensive Illegal Block Above the Waist, 10 yards (accepted)",-1.31,0.38,8.0,2022,113
+2,1:41,1.0,10.0,CAR 10,10.0,7.0,D'Onta Foreman right tackle for 16 yards (tackle by Richie Grant),-0.38,0.67,8.0,2022,113
+2,1:16,1.0,10.0,CAR 26,10.0,7.0,P.J. Walker pass complete short right to Tommy Tremble for 8 yards (tackle by Mykal Walker),0.67,1.21,8.0,2022,113
+2,0:56,2.0,2.0,CAR 34,10.0,7.0,D'Onta Foreman left tackle for 3 yards (tackle by Ta'Quon Graham),1.21,1.4,8.0,2022,113
+2,0:51,,,,,,Timeout #2 by Carolina Panthers,,,8.0,2022,113
+2,0:51,1.0,10.0,CAR 37,10.0,13.0,"P.J. Walker pass intended for D'Onta Foreman is intercepted by Lorenzo Carter at CAR-28 and returned for 28 yards, touchdown",1.4,-7.0,8.0,2022,113
+2,0:41,,,CAR 15,10.0,14.0,Younghoe Koo kicks extra point good,0.0,0.0,8.0,2022,113
+2,0:41,,,ATL 35,10.0,14.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,113
+2,0:41,1.0,10.0,CAR 25,10.0,14.0,D'Onta Foreman left guard for 4 yards (tackle by Mykal Walker),0.61,0.6,8.0,2022,113
+2,0:22,2.0,6.0,CAR 29,10.0,14.0,P.J. Walker pass complete short right to Tommy Tremble for 9 yards (tackle by Mykal Walker),0.6,1.47,8.0,2022,113
+2,0:14,,,,,,Timeout #3 by Carolina Panthers,,,8.0,2022,113
+2,0:14,1.0,10.0,CAR 38,10.0,14.0,P.J. Walker pass incomplete deep left intended for Shi Smith,1.47,0.92,8.0,2022,113
+2,0:09,2.0,10.0,CAR 38,10.0,14.0,P.J. Walker scrambles up the middle for 20 yards (tackle by Erik Harris),0.92,2.79,8.0,2022,113
+3,15:00,,,ATL 35,10.0,14.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,113
+3,15:00,1.0,10.0,CAR 25,10.0,14.0,P.J. Walker pass complete short right to Ian Thomas for 2 yards (tackle by Ta'Quon Graham and Rashaan Evans),0.61,0.33,8.0,2022,113
+3,14:25,2.0,8.0,CAR 27,10.0,14.0,D'Onta Foreman right guard for 2 yards (tackle by Mykal Walker and Rashaan Evans),0.33,-0.1,8.0,2022,113
+3,13:45,3.0,6.0,CAR 29,10.0,14.0,P.J. Walker pass complete short right to Stephen Sullivan for 33 yards (tackle by Dean Marlowe),-0.1,3.05,8.0,2022,113
+3,13:06,1.0,10.0,ATL 38,10.0,14.0,Spencer Brown right tackle for 6 yards (tackle by Mykal Walker),3.05,3.32,8.0,2022,113
+3,12:35,2.0,4.0,ATL 32,10.0,14.0,P.J. Walker pass complete short left to Terrace Marshall for 8 yards (tackle by Dean Marlowe),3.32,3.97,8.0,2022,113
+3,11:56,1.0,10.0,ATL 24,10.0,14.0,P.J. Walker pass incomplete deep right intended for D.J. Moore (defended by Isaiah Oliver),3.97,3.43,8.0,2022,113
+3,11:47,2.0,10.0,ATL 24,10.0,14.0,P.J. Walker pass incomplete deep left intended for Terrace Marshall (defended by Cornell Armstrong),3.43,2.74,8.0,2022,113
+3,11:41,3.0,10.0,ATL 24,10.0,14.0,P.J. Walker pass incomplete short left intended for Terrace Marshall (defended by Cornell Armstrong),2.74,1.87,8.0,2022,113
+3,11:38,4.0,10.0,ATL 24,13.0,14.0,Eddy Pineiro 42 yard field goal good,1.87,3.0,8.0,2022,113
+3,11:33,,,CAR 35,13.0,14.0,"Eddy Pineiro kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,113
+3,11:33,1.0,10.0,ATL 25,13.0,14.0,Marcus Mariota pass complete short left to Drake London for -1 yards (tackle by Myles Hartsfield and Brian Burns),0.61,-0.07,8.0,2022,113
+3,10:58,2.0,11.0,ATL 24,13.0,14.0,Olamide Zaccheaus right end for -6 yards (tackle by Shaq Thompson),-0.07,-1.72,8.0,2022,113
+3,10:16,3.0,17.0,ATL 18,13.0,14.0,Marcus Mariota pass complete short left to Tyler Allgeier for 5 yards (tackle by Donte Jackson),-1.72,-1.83,8.0,2022,113
+3,9:37,4.0,12.0,ATL 23,13.0,14.0,"Bradley Pinion punts 50 yards, returned by Shi Smith for no gain (tackle by Mike Ford). Penalty on C.J. Henderson: Offensive Illegal Block Above the Waist, 10 yards (accepted)",-1.83,0.06,8.0,2022,113
+3,9:26,1.0,10.0,CAR 17,13.0,14.0,D'Onta Foreman right tackle for 5 yards (tackle by Timmy Horne and Lorenzo Carter),-0.06,0.21,8.0,2022,113
+3,8:51,2.0,5.0,CAR 22,13.0,14.0,P.J. Walker pass complete short left to Laviska Shenault for 7 yards (tackle by Isaiah Oliver),0.21,0.87,8.0,2022,113
+3,8:19,1.0,10.0,CAR 29,13.0,14.0,"P.J. Walker pass incomplete short right. Penalty on Ikem Ekwonu: Ineligible Downfield Pass, 5 yards (accepted) (no play)",0.87,0.54,8.0,2022,113
+3,8:19,1.0,15.0,CAR 24,13.0,14.0,P.J. Walker pass incomplete short right intended for Stephen Sullivan (defended by Arnold Ebiketie),0.54,-0.35,8.0,2022,113
+3,8:15,2.0,15.0,CAR 24,13.0,14.0,"D'Onta Foreman left end for no gain (tackle by Mykal Walker and Dean Marlowe). Penalty on Austin Corbett: Offensive Holding, 10 yards (accepted) (no play)",-0.35,-1.83,8.0,2022,113
+3,7:53,2.0,25.0,CAR 14,13.0,14.0,P.J. Walker pass complete short right to Laviska Shenault for 13 yards (tackle by DeAngelo Malone),-1.83,-0.63,8.0,2022,113
+3,7:12,3.0,12.0,CAR 27,13.0,14.0,P.J. Walker pass complete short left to Laviska Shenault for 2 yards (tackle by Rashaan Evans),-0.63,-1.44,8.0,2022,113
+3,6:38,4.0,10.0,CAR 29,13.0,14.0,"Johnny Hekker punts 52 yards, returned by Avery Williams for 19 yards (tackle by Sam Franklin)",-1.44,-1.47,8.0,2022,113
+3,6:25,1.0,10.0,ATL 38,13.0,14.0,Caleb Huntley right end for 4 yards (tackle by Frankie Luvu and Derrick Brown),1.47,1.46,8.0,2022,113
+3,5:48,2.0,6.0,ATL 42,13.0,14.0,Marcus Mariota pass complete short middle to Kyle Pitts for 9 yards (tackle by Juston Burris),1.46,2.32,8.0,2022,113
+3,5:15,1.0,10.0,CAR 49,13.0,14.0,"Caleb Huntley right tackle for 4 yards. Caleb Huntley fumbles (forced by Matthew Ioannidis), recovered by Caleb Huntley at CAR-49",2.32,2.32,8.0,2022,113
+3,4:31,2.0,6.0,CAR 45,13.0,14.0,Tyler Allgeier right guard for 7 yards (tackle by Cory Littleton),2.32,3.05,8.0,2022,113
+3,3:53,1.0,10.0,CAR 38,13.0,14.0,Tyler Allgeier left end for 2 yards (tackle by Shaq Thompson and Sean Chandler),3.05,2.78,8.0,2022,113
+3,3:15,2.0,8.0,CAR 36,13.0,14.0,Marcus Mariota scrambles right tackle for 4 yards (tackle by Shaq Thompson),2.78,2.61,8.0,2022,113
+3,2:32,3.0,4.0,CAR 32,13.0,14.0,Marcus Mariota pass complete short left to Drake London for 7 yards (tackle by Frankie Luvu),2.61,3.91,8.0,2022,113
+3,1:51,1.0,10.0,CAR 25,13.0,20.0,"Marcus Mariota pass complete short left to Tyler Allgeier for 25 yards, touchdown",3.91,7.0,8.0,2022,113
+3,1:40,,,CAR 15,13.0,21.0,Younghoe Koo kicks extra point good,0.0,0.0,8.0,2022,113
+3,1:40,,,ATL 35,13.0,21.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,113
+3,1:40,1.0,10.0,CAR 25,13.0,21.0,D'Onta Foreman left guard for 2 yards (tackle by Timmy Horne and Isaiah Oliver),0.61,0.33,8.0,2022,113
+3,1:05,2.0,8.0,CAR 27,13.0,21.0,Raheem Blackshear left tackle for 3 yards (tackle by Timmy Horne),0.33,0.04,8.0,2022,113
+3,0:23,3.0,5.0,CAR 30,13.0,21.0,P.J. Walker pass complete short middle to D.J. Moore for 29 yards (tackle by Richie Grant),0.04,2.85,8.0,2022,113
+4,15:00,1.0,10.0,ATL 41,13.0,21.0,P.J. Walker pass complete deep right to D.J. Moore for 16 yards,2.85,3.91,8.0,2022,113
+4,14:21,1.0,10.0,ATL 25,13.0,21.0,Spencer Brown right guard for 7 yards (tackle by Dean Marlowe),3.91,4.37,8.0,2022,113
+4,13:51,2.0,3.0,ATL 18,13.0,21.0,D'Onta Foreman left end for 11 yards (tackle by Cornell Armstrong),4.37,5.6,8.0,2022,113
+4,13:20,1.0,7.0,ATL 7,13.0,21.0,Spencer Brown left guard for 2 yards (tackle by Grady Jarrett),5.6,5.15,8.0,2022,113
+4,12:42,2.0,5.0,ATL 5,13.0,21.0,P.J. Walker pass incomplete short left intended for Terrace Marshall,5.15,4.26,8.0,2022,113
+4,12:34,3.0,5.0,ATL 5,13.0,21.0,D'Onta Foreman left guard for 4 yards (tackle by Rashaan Evans and Lorenzo Carter),4.26,3.55,8.0,2022,113
+4,11:50,4.0,1.0,ATL 1,19.0,21.0,"D'Onta Foreman left tackle for 1 yard, touchdown",3.55,7.0,8.0,2022,113
+4,11:46,,,ATL 2,21.0,21.0,"Two Point Attempt: D'Onta Foreman rushes, conversion succeeds.",1.0,1.0,8.0,2022,113
+4,11:46,,,CAR 35,21.0,21.0,"Eddy Pineiro kicks off 63 yards, returned by Avery Williams for 18 yards (tackle by Giovanni Ricci)",0.0,0.28,8.0,2022,113
+4,11:40,1.0,10.0,ATL 20,21.0,21.0,Caleb Huntley right end for 30 yards (tackle by Myles Hartsfield),0.28,2.26,8.0,2022,113
+4,11:05,1.0,10.0,CAR 50,21.0,21.0,Caleb Huntley left tackle for 2 yards (tackle by Derrick Brown),2.26,1.98,8.0,2022,113
+4,10:25,2.0,8.0,CAR 48,21.0,21.0,Caleb Huntley right end for 1 yard (tackle by Yetur Gross-Matos and Shaq Thompson),1.98,1.42,8.0,2022,113
+4,9:45,3.0,7.0,CAR 47,21.0,21.0,Marcus Mariota pass complete short right to Kyle Pitts for 33 yards (tackle by Myles Hartsfield),1.42,4.65,8.0,2022,113
+4,9:06,1.0,10.0,CAR 14,21.0,21.0,Caleb Huntley left end for 1 yard (tackle by Shaq Thompson and Frankie Luvu),4.65,4.16,8.0,2022,113
+4,8:25,2.0,9.0,CAR 13,21.0,21.0,Marcus Mariota left end for 1 yard (tackle by Yetur Gross-Matos),4.16,3.43,8.0,2022,113
+4,7:43,3.0,8.0,CAR 12,21.0,21.0,Marcus Mariota pass incomplete short left intended for Kyle Pitts,3.43,2.63,8.0,2022,113
+4,7:38,4.0,8.0,CAR 12,21.0,24.0,Younghoe Koo 30 yard field goal good,2.63,3.0,8.0,2022,113
+4,7:33,,,ATL 35,21.0,24.0,"Bradley Pinion kicks off 65 yards, touchback.. Penalty on Feleipe Franks: Unnecessary Roughness / Offense, 15 yards (accepted)",0.0,1.6,8.0,2022,113
+4,7:33,1.0,10.0,CAR 40,21.0,24.0,D'Onta Foreman left end for 2 yards (tackle by Lorenzo Carter),1.6,1.32,8.0,2022,113
+4,6:55,2.0,8.0,CAR 42,21.0,24.0,P.J. Walker pass complete short right to D.J. Moore for 5 yards (tackle by Rashaan Evans and Arnold Ebiketie),1.32,1.29,8.0,2022,113
+4,6:10,3.0,3.0,CAR 47,21.0,24.0,"P.J. Walker scrambles up the middle for no gain (tackle by Mykal Walker). Penalty on Brady Christensen: Offensive Holding, 10 yards (accepted) (no play)",1.29,-0.03,8.0,2022,113
+4,5:51,3.0,13.0,CAR 37,21.0,24.0,P.J. Walker pass complete deep middle to D.J. Moore for 21 yards (tackle by Richie Grant and Darren Hall),-0.03,2.79,8.0,2022,113
+4,4:57,1.0,10.0,ATL 42,21.0,24.0,"D'Onta Foreman left guard for no gain (tackle by Lorenzo Carter). Penalty on Ikem Ekwonu: Offensive Holding, 10 yards (offset) . Penalty on Richie Grant: Face Mask (15 Yards), 15 yards (offset) (no play)",2.79,2.79,8.0,2022,113
+4,4:52,1.0,10.0,ATL 42,21.0,24.0,Spencer Brown right tackle for 2 yards (tackle by Jalen Dalton),2.79,2.51,8.0,2022,113
+4,4:07,2.0,8.0,ATL 40,21.0,24.0,"P.J. Walker pass incomplete short right. Penalty on Brady Christensen: Ineligible Downfield Pass, 5 yards (accepted) (no play)",2.51,1.84,8.0,2022,113
+4,4:07,2.0,13.0,ATL 45,21.0,24.0,"Penalty on Stephen Sullivan: False Start, 5 yards (accepted) (no play)",1.84,1.16,8.0,2022,113
+4,4:07,2.0,18.0,ATL 50,21.0,24.0,P.J. Walker pass complete short left to Terrace Marshall for 39 yards (tackle by Cornell Armstrong),1.16,4.84,8.0,2022,113
+4,3:13,1.0,10.0,ATL 11,21.0,24.0,"D'Onta Foreman right tackle for -1 yards (tackle by Mykal Walker). Penalty on D.J. Moore: Illegal Shift, 5 yards (declined)",4.84,3.98,8.0,2022,113
+4,3:12,2.0,11.0,ATL 12,27.0,24.0,"D'Onta Foreman left guard for 12 yards, touchdown",3.98,7.0,8.0,2022,113
+4,3:06,,,ATL 15,28.0,24.0,Eddy Pineiro kicks extra point good,0.0,0.0,8.0,2022,113
+4,3:06,,,CAR 35,28.0,24.0,"Eddy Pineiro kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,113
+4,3:06,1.0,10.0,ATL 25,28.0,24.0,Marcus Mariota pass incomplete deep right intended for Drake London (defended by C.J. Henderson),0.61,0.06,8.0,2022,113
+4,3:00,2.0,10.0,ATL 25,28.0,24.0,Marcus Mariota pass complete short middle to Tyler Allgeier for 16 yards (tackle by Shaq Thompson),0.06,1.66,8.0,2022,113
+4,2:52,1.0,10.0,ATL 41,28.0,24.0,Marcus Mariota pass complete short left to Drake London for 17 yards (tackle by Donte Jackson),1.66,2.79,8.0,2022,113
+4,2:32,1.0,10.0,CAR 42,28.0,24.0,"Penalty on Elijah Wilkinson: False Start, 5 yards (accepted) (no play)",2.79,2.46,8.0,2022,113
+4,2:26,1.0,15.0,CAR 47,28.0,30.0,"Marcus Mariota pass complete deep right to Damiere Byrd for 47 yards, touchdown",2.46,7.0,8.0,2022,113
+4,2:14,,,CAR 15,28.0,31.0,Younghoe Koo kicks extra point good,0.0,0.0,8.0,2022,113
+4,2:14,,,ATL 35,28.0,31.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,113
+4,2:14,1.0,10.0,CAR 25,28.0,31.0,D'Onta Foreman right end for 1 yard (tackle by Arnold Ebiketie),0.61,0.2,8.0,2022,113
+4,2:00,2.0,9.0,CAR 26,28.0,31.0,P.J. Walker pass incomplete deep middle intended for Spencer Brown,0.2,-0.49,8.0,2022,113
+4,1:55,3.0,9.0,CAR 26,28.0,31.0,P.J. Walker sacked by Rashaan Evans for -8 yards,-0.49,-2.24,8.0,2022,113
+4,1:45,,,,,,Timeout #1 by Carolina Panthers,,,8.0,2022,113
+4,1:45,,,,,,Timeout #1 by Atlanta Falcons,,,8.0,2022,113
+4,1:45,4.0,17.0,CAR 18,28.0,31.0,P.J. Walker pass incomplete deep middle intended for D.J. Moore (defended by DeAundre Alford),-2.24,-4.37,8.0,2022,113
+4,1:39,1.0,10.0,CAR 18,28.0,31.0,Tyler Allgeier right end for 5 yards (tackle by Yetur Gross-Matos),4.37,4.61,8.0,2022,113
+4,1:34,,,,,,Timeout #2 by Carolina Panthers,,,8.0,2022,113
+4,1:34,2.0,5.0,CAR 13,28.0,31.0,Tyler Allgeier left end for no gain (tackle by Brian Burns and Yetur Gross-Matos),4.61,3.82,8.0,2022,113
+4,1:28,,,,,,Timeout #3 by Carolina Panthers,,,8.0,2022,113
+4,1:28,3.0,5.0,CAR 13,28.0,31.0,Tyler Allgeier right tackle for 2 yards (tackle by Derrick Brown),3.82,2.8,8.0,2022,113
+4,0:40,,,,,,Timeout #2 by Atlanta Falcons,,,8.0,2022,113
+4,0:40,4.0,3.0,CAR 11,28.0,31.0,"Penalty on Chris Lindstrom: False Start, 5 yards (accepted) (no play)",2.8,2.38,8.0,2022,113
+4,0:40,4.0,8.0,CAR 16,28.0,34.0,Younghoe Koo 34 yard field goal good,2.38,3.0,8.0,2022,113
+4,0:36,,,ATL 35,28.0,34.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,113
+4,0:36,1.0,10.0,CAR 25,28.0,34.0,P.J. Walker pass incomplete deep left intended for Tommy Tremble,0.61,0.06,8.0,2022,113
+4,0:29,2.0,10.0,CAR 25,28.0,34.0,P.J. Walker pass complete short left to Terrace Marshall for 13 yards,0.06,1.47,8.0,2022,113
+4,0:23,1.0,10.0,CAR 38,34.0,34.0,"P.J. Walker pass complete deep left to D.J. Moore for 62 yards, touchdown. Penalty on D.J. Moore: Unsportsmanlike Conduct / Offense, 15 yards (accepted)",1.47,7.0,8.0,2022,113
+4,0:12,1.0,10.0,ATL 30,34.0,34.0,Eddy Pineiro kicks extra point no good,0.0,-1.0,8.0,2022,113
+4,0:12,,,CAR 35,34.0,34.0,"Eddy Pineiro kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,113
+4,0:12,1.0,10.0,ATL 25,34.0,34.0,Marcus Mariota pass incomplete deep left intended for Damiere Byrd (defended by Xavier Woods),0.61,0.06,8.0,2022,113
+4,0:03,2.0,10.0,ATL 25,34.0,34.0,Marcus Mariota kneels for -1 yards,0.06,0.0,8.0,2022,113
+,,,,,,,"Falcons won the coin toss, Falcons to receive the overtime kickoff.",,,8.0,2022,113
+OT,10:00,,,CAR 35,34.0,34.0,"Eddy Pineiro kicks off 64 yards, returned by Avery Williams for 13 yards (tackle by Amare Barno)",0.0,-0.28,8.0,2022,113
+OT,9:55,1.0,10.0,ATL 14,34.0,34.0,Caleb Huntley left tackle for 5 yards (tackle by Shaq Thompson),-0.28,-0.04,8.0,2022,113
+OT,9:21,2.0,5.0,ATL 19,34.0,34.0,Marcus Mariota pass incomplete short left intended for Kyle Pitts (defended by Keith Taylor),-0.04,-0.8,8.0,2022,113
+OT,9:17,,,,,,Timeout #1 by Atlanta Falcons,,,8.0,2022,113
+OT,9:17,3.0,5.0,ATL 19,34.0,34.0,Marcus Mariota pass complete short left to Drake London for 8 yards (tackle by Keith Taylor),-0.8,0.74,8.0,2022,113
+OT,8:43,1.0,10.0,ATL 27,34.0,34.0,Tyler Allgeier right tackle for no gain (tackle by Derrick Brown and Brian Burns),0.74,0.2,8.0,2022,113
+OT,7:59,2.0,10.0,ATL 27,34.0,34.0,Marcus Mariota pass deep middle intended for Damiere Byrd is intercepted by C.J. Henderson at CAR-26 and returned for 54 yards (tackle by Keith Smith),0.2,-4.24,8.0,2022,113
+OT,7:44,1.0,10.0,ATL 20,34.0,34.0,D'Onta Foreman left tackle for no gain (tackle by Ta'Quon Graham),4.24,3.69,8.0,2022,113
+OT,7:09,2.0,10.0,ATL 20,34.0,34.0,D'Onta Foreman right tackle for 6 yards (tackle by Richie Grant and Adetokunbo Ogundeji),3.69,3.89,8.0,2022,113
+OT,6:36,3.0,4.0,ATL 14,34.0,34.0,D'Onta Foreman right tackle for no gain (tackle by Ta'Quon Graham),3.89,2.58,8.0,2022,113
+OT,5:59,,,,,,Timeout #2 by Atlanta Falcons,,,8.0,2022,113
+OT,5:59,4.0,4.0,ATL 14,34.0,34.0,Eddy Pineiro 32 yard field goal no good,2.58,-0.41,8.0,2022,113
+OT,5:54,1.0,10.0,ATL 22,34.0,34.0,Caleb Huntley right guard for 5 yards (tackle by Matthew Ioannidis and Derrick Brown),0.41,0.54,8.0,2022,113
+OT,5:19,2.0,5.0,ATL 27,34.0,34.0,Marcus Mariota pass complete short right to Olamide Zaccheaus for 10 yards (tackle by Shaq Thompson),0.54,1.4,8.0,2022,113
+OT,4:40,1.0,10.0,ATL 37,34.0,34.0,Tyler Allgeier right guard for 1 yard (tackle by Matthew Ioannidis),1.4,0.99,8.0,2022,113
+OT,3:54,2.0,9.0,ATL 38,34.0,34.0,Marcus Mariota pass complete short right to Damiere Byrd for 8 yards (tackle by Xavier Woods),0.99,1.36,8.0,2022,113
+OT,3:29,3.0,1.0,ATL 46,34.0,34.0,Marcus Mariota left tackle for 30 yards (tackle by Myles Hartsfield),1.36,3.97,8.0,2022,113
+OT,3:20,1.0,10.0,CAR 24,34.0,34.0,Tyler Allgeier right tackle for -1 yards (tackle by Frankie Luvu),3.97,3.3,8.0,2022,113
+OT,2:46,2.0,11.0,CAR 25,34.0,34.0,Tyler Allgeier left guard for 2 yards (tackle by Brian Burns),3.3,2.87,8.0,2022,113
+OT,2:00,,,,,,Timeout #1 by Carolina Panthers,,,8.0,2022,113
+OT,2:00,3.0,9.0,CAR 23,34.0,37.0,Younghoe Koo 41 yard field goal good,2.87,3.0,8.0,2022,113

@@ -1,0 +1,174 @@
+Quarter,Time,Down,ToGo,Location,PIT,IND,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Steelers won the coin toss and deferred, Colts to receive the opening kickoff.",,,4.0,2024,53
+1.0,15:00,,,PIT 35,0.0,0.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,53
+1.0,15:00,1.0,10.0,IND 30,0.0,0.0,Anthony Richardson pass complete deep left to Michael Pittman for 32 yards (tackle by Minkah Fitzpatrick),0.94,3.05,4.0,2024,53
+1.0,14:33,1.0,10.0,PIT 38,0.0,0.0,Jonathan Taylor left tackle for 14 yards (tackle by Payton Wilson and DeShon Elliott),3.05,3.97,4.0,2024,53
+1.0,14:08,1.0,10.0,PIT 24,0.0,0.0,Jonathan Taylor up the middle for 4 yards (tackle by Cameron Heyward and T.J. Watt),3.97,3.97,4.0,2024,53
+1.0,13:35,2.0,6.0,PIT 20,0.0,0.0,Anthony Richardson pass incomplete short left intended for Michael Pittman,3.97,3.27,4.0,2024,53
+1.0,13:31,3.0,6.0,PIT 20,0.0,0.0,Anthony Richardson up the middle for 9 yards (tackle by Cameron Heyward),3.27,4.84,4.0,2024,53
+1.0,12:55,1.0,10.0,PIT 11,0.0,0.0,Jonathan Taylor up the middle for 6 yards (tackle by DeShon Elliott and Minkah Fitzpatrick),4.84,5.28,4.0,2024,53
+1.0,12:29,2.0,4.0,PIT 5,0.0,0.0,Jonathan Taylor right guard for 3 yards (tackle by Nick Herbig),5.28,5.12,4.0,2024,53
+1.0,12:09,3.0,1.0,PIT 2,0.0,6.0,"Jonathan Taylor up the middle for 2 yards, touchdown",5.12,7.0,4.0,2024,53
+1.0,12:01,,,PIT 15,0.0,7.0,Matt Gay kicks extra point good,0.0,0.0,4.0,2024,53
+1.0,12:01,,,IND 35,0.0,7.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,53
+1.0,12:01,1.0,10.0,PIT 30,0.0,7.0,Najee Harris right tackle for -2 yards (tackle by Grover Stewart and Tyquan Lewis),0.94,0.12,4.0,2024,53
+1.0,11:35,2.0,12.0,PIT 28,0.0,7.0,Justin Fields scrambles left end for 3 yards (tackle by E.J. Speed),0.12,-0.16,4.0,2024,53
+1.0,10:49,3.0,9.0,PIT 31,0.0,7.0,"Justin Fields sacked by Isaiah Land for no gain. Penalty on Isaiah Land: Roughing the Passer, 15 yards (accepted) (no play)",-0.16,1.99,4.0,2024,53
+1.0,10:15,1.0,10.0,PIT 46,0.0,7.0,Justin Fields pass incomplete short left intended for Najee Harris,1.99,1.45,4.0,2024,53
+1.0,10:10,2.0,10.0,PIT 46,0.0,7.0,Najee Harris up the middle for 1 yard (tackle by E.J. Speed),1.45,0.89,4.0,2024,53
+1.0,9:39,3.0,9.0,PIT 47,0.0,7.0,Justin Fields pass complete short left to Calvin Austin for 17 yards (tackle by Jaylon Jones),0.89,3.18,4.0,2024,53
+1.0,9:03,1.0,10.0,IND 36,0.0,7.0,Cordarrelle Patterson right guard for -3 yards (tackle by E.J. Speed),3.18,2.23,4.0,2024,53
+1.0,8:26,2.0,13.0,IND 39,0.0,7.0,Justin Fields pass complete short middle to Cordarrelle Patterson for 5 yards (tackle by Nick Cross),2.23,2.21,4.0,2024,53
+1.0,8:10,3.0,8.0,IND 34,0.0,7.0,"Penalty on Spencer Anderson: Unnecessary Roughness / Offense, 15 yards (accepted) (no play)",2.21,0.23,4.0,2024,53
+1.0,8:08,3.0,23.0,IND 49,0.0,7.0,Justin Fields pass complete short right to Pat Freiermuth for 8 yards (tackle by E.J. Speed and Nick Cross),0.23,0.53,4.0,2024,53
+1.0,7:32,4.0,15.0,IND 41,0.0,7.0,"Corliss Waitman punts 27 yards, fair catch by Josh Downs at IND-14",0.53,0.28,4.0,2024,53
+1.0,7:19,1.0,10.0,IND 14,0.0,7.0,Anthony Richardson pass complete deep right to Michael Pittman for 28 yards (tackle by Donte Jackson and Elandon Roberts),-0.28,1.73,4.0,2024,53
+1.0,6:43,1.0,10.0,IND 42,0.0,7.0,Jonathan Taylor up the middle for 1 yard (tackle by DeShon Elliott and Larry Ogunjobi),1.73,1.32,4.0,2024,53
+1.0,6:08,2.0,9.0,IND 43,0.0,7.0,Anthony Richardson pass complete short right to Josh Downs for 11 yards (tackle by Patrick Queen),1.32,2.52,4.0,2024,53
+1.0,5:33,1.0,10.0,PIT 46,0.0,7.0,"Anthony Richardson left tackle for 14 yards. Anthony Richardson fumbles (forced by DeShon Elliott), recovered by Tanor Bortolini at PIT-29",2.52,3.64,4.0,2024,53
+1.0,5:32,1.0,10.0,PIT 29,0.0,7.0,Joe Flacco pass complete short middle to Jonathan Taylor for 10 yards (tackle by Elandon Roberts and Patrick Queen),3.64,4.31,4.0,2024,53
+1.0,4:52,1.0,10.0,PIT 19,0.0,7.0,Jonathan Taylor left end for 13 yards (tackle by Minkah Fitzpatrick and Payton Wilson),4.31,5.83,4.0,2024,53
+1.0,4:01,1.0,6.0,PIT 6,0.0,7.0,Anthony Richardson left end for 1 yard (tackle by Minkah Fitzpatrick),5.83,5.15,4.0,2024,53
+1.0,3:18,2.0,5.0,PIT 5,0.0,7.0,Jonathan Taylor right guard for 1 yard (tackle by T.J. Watt and Cameron Heyward),5.15,4.49,4.0,2024,53
+1.0,2:38,3.0,4.0,PIT 4,0.0,13.0,"Joe Flacco pass complete short right to Josh Downs for 4 yards, touchdown",4.49,7.0,4.0,2024,53
+1.0,2:34,,,PIT 15,0.0,14.0,Matt Gay kicks extra point good,0.0,0.0,4.0,2024,53
+1.0,2:34,,,IND 35,0.0,14.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,53
+1.0,2:34,1.0,10.0,PIT 30,0.0,14.0,Justin Fields pass complete short right to Pat Freiermuth for 7 yards (tackle by Chris Lammons and Adam Gotsis),0.94,1.34,4.0,2024,53
+1.0,1:57,2.0,3.0,PIT 37,0.0,14.0,Najee Harris right tackle for 1 yard (tackle by Nick Cross),1.34,0.76,4.0,2024,53
+1.0,1:19,3.0,2.0,PIT 38,0.0,14.0,Najee Harris left guard for 1 yard (tackle by Jaylon Carlies),0.76,-0.78,4.0,2024,53
+1.0,0:30,4.0,1.0,PIT 39,0.0,14.0,Justin Fields left guard for no gain (tackle by Zaire Franklin),-0.78,-2.98,4.0,2024,53
+1.0,0:28,1.0,10.0,PIT 39,0.0,14.0,Joe Flacco pass incomplete deep left intended for Adonai Mitchell,2.98,2.44,4.0,2024,53
+1.0,0:22,2.0,10.0,PIT 39,0.0,14.0,Joe Flacco pass complete short left to Josh Downs for 4 yards (tackle by DeShon Elliott),2.44,2.28,4.0,2024,53
+2.0,15:00,3.0,6.0,PIT 35,0.0,14.0,"Joe Flacco pass complete short middle to Josh Downs for 6 yards (tackle by Joey Porter) PIT challenged the pass completion ruling, and the play was upheld.",2.28,3.64,4.0,2024,53
+2.0,14:41,1.0,10.0,PIT 29,0.0,14.0,Joe Flacco pass complete short right to Michael Pittman for 2 yards (tackle by Donte Jackson),3.64,3.37,4.0,2024,53
+2.0,14:14,2.0,8.0,PIT 27,0.0,14.0,Adonai Mitchell left end for 10 yards (tackle by Minkah Fitzpatrick),3.37,4.44,4.0,2024,53
+2.0,13:34,1.0,10.0,PIT 17,0.0,14.0,Jonathan Taylor up the middle for 3 yards (tackle by DeShon Elliott and Patrick Queen),4.44,4.32,4.0,2024,53
+2.0,12:56,2.0,7.0,PIT 14,0.0,14.0,Joe Flacco pass incomplete short left intended for Michael Pittman (defended by Joey Porter),4.32,3.5,4.0,2024,53
+2.0,12:39,3.0,7.0,PIT 14,0.0,14.0,Joe Flacco pass incomplete short left intended for Josh Downs,3.5,2.51,4.0,2024,53
+2.0,12:34,4.0,7.0,PIT 14,0.0,17.0,Matt Gay 33 yard field goal good,2.51,3.0,4.0,2024,53
+2.0,12:31,,,IND 35,0.0,17.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,53
+2.0,12:31,1.0,10.0,PIT 30,0.0,17.0,Justin Fields pass complete short left to George Pickens for 4 yards (tackle by Zaire Franklin),0.94,0.93,4.0,2024,53
+2.0,11:54,2.0,6.0,PIT 34,0.0,17.0,Najee Harris left guard for 3 yards (tackle by Jaylon Jones and Zaire Franklin),0.93,0.63,4.0,2024,53
+2.0,11:12,3.0,3.0,PIT 37,0.0,17.0,Justin Fields pass incomplete short left intended for Pat Freiermuth (defended by Grover Stewart),0.63,-0.91,4.0,2024,53
+2.0,11:06,4.0,3.0,PIT 37,0.0,17.0,"Corliss Waitman punts 40 yards, returned by Josh Downs for 5 yards (tackle by Connor Heyward)",-0.91,-0.81,4.0,2024,53
+2.0,10:58,1.0,10.0,IND 28,0.0,17.0,Joe Flacco pass complete short middle to Michael Pittman for 22 yards (tackle by Joey Porter),0.81,2.26,4.0,2024,53
+2.0,10:26,1.0,10.0,IND 50,0.0,17.0,Jonathan Taylor right tackle for -1 yards (tackle by Cameron Heyward),2.26,1.58,4.0,2024,53
+2.0,9:56,2.0,11.0,IND 49,0.0,17.0,Joe Flacco pass complete short left to Jonathan Taylor for 10 yards (tackle by DeShon Elliott and Patrick Queen),1.58,2.21,4.0,2024,53
+2.0,9:09,3.0,1.0,PIT 41,0.0,17.0,Jonathan Taylor up the middle for -2 yards (tackle by Larry Ogunjobi and Elandon Roberts),2.21,0.4,4.0,2024,53
+2.0,8:16,4.0,3.0,PIT 43,0.0,17.0,"Rigoberto Sanchez punts 36 yards, fair catch by Calvin Austin at PIT-7. Penalty on Jalen Elliott: Defensive Holding, 3 yards (accepted)",0.4,0.38,4.0,2024,53
+2.0,8:14,1.0,10.0,PIT 4,0.0,17.0,Cordarrelle Patterson right end for 4 yards (tackle by Nick Cross),-0.38,-0.49,4.0,2024,53
+2.0,7:38,2.0,6.0,PIT 8,0.0,17.0,Cordarrelle Patterson up the middle for 12 yards (tackle by Chris Lammons),-0.49,0.28,4.0,2024,53
+2.0,7:05,1.0,10.0,PIT 20,0.0,17.0,Justin Fields pass complete short middle to Cordarrelle Patterson for 14 yards (tackle by E.J. Speed),0.28,1.2,4.0,2024,53
+2.0,6:23,1.0,10.0,PIT 34,0.0,17.0,Cordarrelle Patterson up the middle for 11 yards (tackle by Jaylon Carlies and Julian Blackmon),1.2,1.93,4.0,2024,53
+2.0,5:46,1.0,10.0,PIT 45,0.0,17.0,Najee Harris left end for 1 yard (tackle by Jaylon Jones),1.93,1.52,4.0,2024,53
+2.0,5:07,2.0,9.0,PIT 46,0.0,17.0,Justin Fields pass complete short right to Darnell Washington for 20 yards (tackle by Dallis Flowers),1.52,3.31,4.0,2024,53
+2.0,4:33,1.0,10.0,IND 34,0.0,17.0,Cordarrelle Patterson up the middle for 9 yards (tackle by Nick Cross),3.31,3.99,4.0,2024,53
+2.0,3:40,2.0,1.0,IND 25,0.0,17.0,Cordarrelle Patterson right tackle for 10 yards (tackle by Zaire Franklin and Julian Blackmon),3.99,4.58,4.0,2024,53
+2.0,3:13,1.0,10.0,IND 15,0.0,17.0,"Justin Fields pass complete short left to George Pickens for 10 yards. George Pickens fumbles (forced by Nick Cross), recovered by Julian Blackmon at IND-3",4.58,0.38,4.0,2024,53
+2.0,3:04,1.0,10.0,IND 3,0.0,17.0,Jonathan Taylor up the middle for -1 yards (tackle by Keeanu Benton),-0.38,-0.85,4.0,2024,53
+2.0,2:24,2.0,11.0,IND 2,0.0,17.0,"Joe Flacco pass complete short right to Adonai Mitchell for no gain (tackle by Joey Porter). Penalty on Joey Porter: Defensive Pass Interference, 10 yards (accepted) (no play)",-0.85,-0.35,4.0,2024,53
+2.0,2:10,1.0,10.0,IND 12,0.0,17.0,Joe Flacco pass complete short middle to Josh Downs for 9 yards (tackle by DeShon Elliott),-0.35,0.42,4.0,2024,53
+2.0,2:00,2.0,1.0,IND 21,0.0,17.0,Joe Flacco pass complete short right to Michael Pittman for 17 yards (tackle by Minkah Fitzpatrick and Joey Porter),0.42,1.47,4.0,2024,53
+2.0,1:40,1.0,10.0,IND 38,0.0,17.0,"Penalty on Quenton Nelson: False Start, 5 yards (accepted) (no play)",1.47,1.14,4.0,2024,53
+2.0,1:37,1.0,15.0,IND 33,0.0,17.0,Joe Flacco pass incomplete short middle intended for Jonathan Taylor,1.14,0.25,4.0,2024,53
+2.0,1:33,2.0,15.0,IND 33,0.0,17.0,Joe Flacco pass incomplete deep left intended for Alec Pierce (defended by Donte Jackson),0.25,-0.43,4.0,2024,53
+2.0,1:25,3.0,15.0,IND 33,0.0,17.0,Jonathan Taylor right tackle for 8 yards (tackle by Keeanu Benton),-0.43,-0.65,4.0,2024,53
+2.0,1:18,,,,,,Timeout #2 by Pittsburgh Steelers,,,4.0,2024,53
+2.0,1:18,4.0,7.0,IND 41,0.0,17.0,Rigoberto Sanchez punts 34 yards out of bounds,-0.65,-0.61,4.0,2024,53
+2.0,1:14,1.0,10.0,PIT 25,0.0,17.0,Justin Fields sacked by Dayo Odeyingbo for -4 yards,0.61,-0.48,4.0,2024,53
+2.0,1:07,,,,,,Timeout #1 by Indianapolis Colts,,,4.0,2024,53
+2.0,1:07,2.0,14.0,PIT 21,0.0,17.0,Justin Fields pass complete deep left to Pat Freiermuth for 29 yards (tackle by E.J. Speed),-0.48,2.26,4.0,2024,53
+2.0,0:43,1.0,10.0,PIT 50,0.0,17.0,"Justin Fields pass incomplete short left intended for George Pickens Replay Assistant challenged the pass completion ruling, and the original play was overturned. Justin Fields pass complete short left to George Pickens for 6 yards",2.26,2.52,4.0,2024,53
+2.0,0:40,2.0,4.0,IND 44,0.0,17.0,Aaron Shampklin left guard for 5 yards (tackle by Dayo Odeyingbo and E.J. Speed),2.52,2.98,4.0,2024,53
+2.0,0:22,1.0,10.0,IND 39,0.0,17.0,Justin Fields sacked by and Dayo Odeyingbo for -3 yards and Tyquan Lewis for -3 yards,2.98,2.04,4.0,2024,53
+2.0,0:18,,,,,,Timeout #3 by Pittsburgh Steelers,,,4.0,2024,53
+2.0,0:18,2.0,13.0,IND 42,0.0,17.0,Justin Fields right guard for 11 yards (tackle by Adetomiwa Adebawore),2.04,2.81,4.0,2024,53
+2.0,0:05,3.0,2.0,IND 31,0.0,17.0,Justin Fields spiked the ball,2.81,1.4,4.0,2024,53
+2.0,0:03,4.0,2.0,IND 31,3.0,17.0,Chris Boswell 50 yard field goal good,1.4,3.0,4.0,2024,53
+3.0,15:00,,,IND 35,3.0,17.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,53
+3.0,15:00,1.0,10.0,PIT 30,3.0,17.0,"Justin Fields scrambles left tackle for no gain (tackle by Jaylon Carlies). Penalty on Adam Gotsis: Defensive Offside, 5 yards (accepted) (no play)",0.94,1.67,4.0,2024,53
+3.0,14:39,1.0,5.0,PIT 35,3.0,17.0,Najee Harris left tackle for 3 yards (tackle by Taven Bryan and Jaylon Carlies),1.67,1.47,4.0,2024,53
+3.0,14:03,2.0,2.0,PIT 38,3.0,17.0,Justin Fields sacked by and Julian Blackmon for -1 yards and Grover Stewart for -1 yards,1.47,0.63,4.0,2024,53
+3.0,13:18,3.0,3.0,PIT 37,3.0,17.0,Justin Fields pass complete short left to George Pickens for 9 yards (tackle by Jaylon Jones),0.63,1.99,4.0,2024,53
+3.0,12:30,1.0,10.0,PIT 46,3.0,17.0,"Penalty on PIT: Delay of Game, 5 yards (accepted) (no play)",1.99,1.66,4.0,2024,53
+3.0,11:55,1.0,15.0,PIT 41,3.0,17.0,Najee Harris up the middle for no gain (tackle by E.J. Speed),1.66,0.78,4.0,2024,53
+3.0,11:25,2.0,15.0,PIT 41,3.0,17.0,Justin Fields pass complete short right to Darnell Washington for 11 yards (tackle by Zaire Franklin and Chris Lammons),0.78,1.55,4.0,2024,53
+3.0,10:38,3.0,4.0,IND 48,3.0,17.0,Justin Fields pass incomplete short middle intended for Pat Freiermuth (defended by Samuel Womack),1.55,0.07,4.0,2024,53
+3.0,10:32,4.0,4.0,IND 48,3.0,17.0,"Corliss Waitman punts 36 yards, fair catch by Josh Downs at IND-12",0.07,0.35,4.0,2024,53
+3.0,10:25,1.0,10.0,IND 12,3.0,17.0,Jonathan Taylor right tackle for 4 yards (tackle by Larry Ogunjobi and Patrick Queen),-0.35,-0.37,4.0,2024,53
+3.0,9:50,2.0,6.0,IND 16,3.0,17.0,Jonathan Taylor left tackle for 1 yard (tackle by Larry Ogunjobi),-0.37,-0.84,4.0,2024,53
+3.0,9:15,3.0,5.0,IND 17,3.0,17.0,"Joe Flacco scrambles up the middle for 4 yards (tackle by Terrell Edmunds). Penalty on Braden Smith: Illegal Formation, 5 yards (declined)",-0.84,-1.96,4.0,2024,53
+3.0,9:05,4.0,1.0,IND 21,3.0,17.0,"Rigoberto Sanchez punts 42 yards, returned by Calvin Austin for 30 yards (tackle by Kylen Granson)",-1.96,-3.38,4.0,2024,53
+3.0,8:46,1.0,10.0,IND 33,3.0,17.0,Justin Fields pass incomplete short right intended for Najee Harris,3.38,2.84,4.0,2024,53
+3.0,8:42,2.0,10.0,IND 33,3.0,17.0,Najee Harris up the middle for no gain (tackle by Laiatu Latu and Zaire Franklin),2.84,2.15,4.0,2024,53
+3.0,8:00,3.0,10.0,IND 33,3.0,17.0,"Justin Fields sacked by Chris Lammons for -22 yards. Justin Fields fumbles (forced by Chris Lammons), recovered by Chris Lammons at PIT-45 and returned for 3 yards (tackle by Broderick Jones)",2.15,-2.79,4.0,2024,53
+3.0,7:48,1.0,10.0,PIT 42,3.0,17.0,Joe Flacco sacked by and Beanie Bishop for -6 yards and Cameron Heyward for -6 yards,2.79,1.43,4.0,2024,53
+3.0,7:13,2.0,16.0,PIT 48,3.0,17.0,Joe Flacco pass complete short left to Alec Pierce for 9 yards (tackle by Donte Jackson),1.43,1.95,4.0,2024,53
+3.0,6:35,3.0,7.0,PIT 39,3.0,17.0,Jonathan Taylor up the middle for 3 yards (tackle by Patrick Queen and Terrell Edmunds),1.95,0.89,4.0,2024,53
+3.0,5:51,4.0,4.0,PIT 36,3.0,17.0,Matt Gay 54 yard field goal no good,0.89,-1.86,4.0,2024,53
+3.0,5:49,1.0,10.0,PIT 44,3.0,17.0,Najee Harris left tackle for 1 yard (tackle by Raekwon Davis),1.86,1.45,4.0,2024,53
+3.0,5:16,2.0,9.0,PIT 45,3.0,17.0,Justin Fields pass complete deep left to George Pickens for 38 yards (tackle by Julian Blackmon),1.45,4.44,4.0,2024,53
+3.0,4:37,1.0,10.0,IND 17,3.0,17.0,Justin Fields pass complete short right to Najee Harris for 11 yards (tackle by Samuel Womack),4.44,5.83,4.0,2024,53
+3.0,3:51,1.0,6.0,IND 6,3.0,17.0,"Penalty on Mason McCormick: False Start, 5 yards (accepted) (no play)",5.83,4.77,4.0,2024,53
+3.0,3:51,1.0,11.0,IND 11,3.0,17.0,Justin Fields scrambles left end for 6 yards (tackle by E.J. Speed),4.77,5.15,4.0,2024,53
+3.0,3:07,2.0,5.0,IND 5,3.0,17.0,Justin Fields pass incomplete short right intended for George Pickens (defended by Samuel Womack),5.15,4.26,4.0,2024,53
+3.0,2:59,3.0,5.0,IND 5,9.0,17.0,"Justin Fields scrambles right end for 5 yards, touchdown",4.26,7.0,4.0,2024,53
+3.0,2:53,,,IND 15,10.0,17.0,Chris Boswell kicks extra point good,0.0,0.0,4.0,2024,53
+3.0,2:53,,,PIT 35,10.0,17.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,53
+3.0,2:53,1.0,10.0,IND 30,10.0,17.0,Joe Flacco pass incomplete short right,0.94,0.39,4.0,2024,53
+3.0,2:48,2.0,10.0,IND 30,10.0,17.0,Joe Flacco pass incomplete short left,0.39,-0.3,4.0,2024,53
+3.0,2:41,3.0,10.0,IND 30,10.0,17.0,Joe Flacco pass complete short right to Michael Pittman for 12 yards (tackle by Minkah Fitzpatrick),-0.3,1.73,4.0,2024,53
+3.0,2:07,1.0,10.0,IND 42,10.0,17.0,Trey Sermon left guard for no gain (tackle by Keeanu Benton),1.73,1.19,4.0,2024,53
+3.0,1:31,2.0,10.0,IND 42,10.0,17.0,"Joe Flacco pass incomplete deep left intended for Adonai Mitchell. Penalty on Minkah Fitzpatrick: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",1.19,2.72,4.0,2024,53
+3.0,1:26,1.0,10.0,PIT 43,10.0,17.0,Jonathan Taylor right tackle for 3 yards (tackle by DeShon Elliott),2.72,2.58,4.0,2024,53
+3.0,0:53,2.0,7.0,PIT 40,10.0,17.0,Joe Flacco pass complete short right to Jonathan Taylor for no gain (tackle by DeShon Elliott),2.58,1.88,4.0,2024,53
+3.0,0:09,3.0,7.0,PIT 40,10.0,17.0,Joe Flacco pass complete short right to Josh Downs for 25 yards (tackle by Minkah Fitzpatrick),1.88,4.58,4.0,2024,53
+4.0,15:00,1.0,10.0,PIT 15,10.0,17.0,Joe Flacco pass incomplete short left intended for Adonai Mitchell,4.58,3.95,4.0,2024,53
+4.0,14:55,2.0,10.0,PIT 15,10.0,17.0,Joe Flacco pass incomplete short left intended for Michael Pittman,3.95,3.1,4.0,2024,53
+4.0,14:50,3.0,10.0,PIT 15,10.0,23.0,"Joe Flacco pass complete short middle to Andrew Ogletree for 15 yards, touchdown",3.1,7.0,4.0,2024,53
+4.0,14:43,,,PIT 15,10.0,24.0,Matt Gay kicks extra point good,0.0,0.0,4.0,2024,53
+4.0,14:43,,,IND 35,10.0,24.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,53
+4.0,14:43,1.0,10.0,PIT 30,10.0,24.0,Justin Fields pass complete short right to Pat Freiermuth for 5 yards (tackle by E.J. Speed),0.94,1.07,4.0,2024,53
+4.0,14:09,2.0,5.0,PIT 35,10.0,24.0,Justin Fields right tackle for 8 yards (tackle by Zaire Franklin),1.07,1.8,4.0,2024,53
+4.0,13:32,1.0,10.0,PIT 43,10.0,24.0,"Justin Fields pass complete short right to Najee Harris for 32 yards (tackle by Julian Blackmon). Penalty on Dayo Odeyingbo: Roughing the Passer, 13 yards (accepted)",1.8,4.78,4.0,2024,53
+4.0,13:11,1.0,10.0,IND 12,10.0,24.0,Justin Fields pass incomplete short right,4.78,4.1,4.0,2024,53
+4.0,12:52,2.0,10.0,IND 12,10.0,24.0,Justin Fields pass complete short left to George Pickens for 9 yards (tackle by Jaylon Jones),4.1,5.06,4.0,2024,53
+4.0,12:23,3.0,1.0,IND 3,10.0,24.0,Najee Harris left guard for 1 yard (tackle by Julian Blackmon),5.06,6.74,4.0,2024,53
+4.0,11:38,1.0,2.0,IND 2,10.0,24.0,Justin Fields pass incomplete short right intended for George Pickens,6.74,5.72,4.0,2024,53
+4.0,11:29,2.0,2.0,IND 2,16.0,24.0,"Justin Fields scrambles left end for 2 yards, touchdown",5.72,7.0,4.0,2024,53
+4.0,11:23,,,IND 15,17.0,24.0,Chris Boswell kicks extra point good,0.0,0.0,4.0,2024,53
+4.0,11:23,,,PIT 35,17.0,24.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,53
+4.0,11:23,1.0,10.0,IND 30,17.0,24.0,Jonathan Taylor left end for 2 yards (tackle by Payton Wilson),0.94,0.66,4.0,2024,53
+4.0,10:44,2.0,8.0,IND 32,17.0,24.0,Joe Flacco pass complete short middle to Josh Downs for 13 yards (tackle by Payton Wilson),0.66,1.93,4.0,2024,53
+4.0,10:07,1.0,10.0,IND 45,17.0,24.0,Jonathan Taylor left tackle for 21 yards (tackle by Minkah Fitzpatrick and DeShon Elliott),1.93,3.31,4.0,2024,53
+4.0,9:37,1.0,10.0,PIT 34,17.0,24.0,Jonathan Taylor left tackle for 2 yards (tackle by Larry Ogunjobi),3.31,3.04,4.0,2024,53
+4.0,8:59,2.0,8.0,PIT 32,17.0,24.0,Jonathan Taylor up the middle for 1 yard (tackle by DeShon Elliott),3.04,2.48,4.0,2024,53
+4.0,8:19,3.0,7.0,PIT 31,17.0,24.0,Joe Flacco pass complete short right to Josh Downs for 10 yards (tackle by Payton Wilson),2.48,4.17,4.0,2024,53
+4.0,7:30,1.0,10.0,PIT 21,17.0,24.0,Trey Sermon left end for 1 yard (tackle by Isaiahh Loudermilk),4.17,3.76,4.0,2024,53
+4.0,6:51,2.0,9.0,PIT 20,17.0,24.0,Trey Sermon left end for 6 yards (tackle by Joey Porter),3.76,4.02,4.0,2024,53
+4.0,6:13,3.0,3.0,PIT 14,17.0,24.0,Trey Sermon up the middle for -2 yards (tackle by Patrick Queen and Nick Herbig),4.02,2.43,4.0,2024,53
+4.0,6:06,,,,,,Timeout #1 by Pittsburgh Steelers,,,4.0,2024,53
+4.0,6:06,4.0,5.0,PIT 16,17.0,27.0,Matt Gay 35 yard field goal good,2.43,3.0,4.0,2024,53
+4.0,6:03,,,IND 35,17.0,27.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,53
+4.0,6:03,1.0,10.0,PIT 30,17.0,27.0,Justin Fields pass incomplete short left intended for Najee Harris (defended by Laiatu Latu),0.94,0.39,4.0,2024,53
+4.0,5:57,2.0,10.0,PIT 30,17.0,27.0,Justin Fields up the middle for 8 yards (tackle by Nick Cross),0.39,0.76,4.0,2024,53
+4.0,5:14,3.0,2.0,PIT 38,17.0,27.0,Justin Fields pass complete deep left to George Pickens for 37 yards (tackle by Jaylon Jones),0.76,3.91,4.0,2024,53
+4.0,4:46,1.0,10.0,IND 25,17.0,27.0,Justin Fields pass complete short right to Van Jefferson for 12 yards (tackle by Chris Lammons),3.91,4.71,4.0,2024,53
+4.0,4:21,1.0,10.0,IND 13,17.0,27.0,Najee Harris up the middle for 5 yards (tackle by Taven Bryan and Zaire Franklin),4.71,4.96,4.0,2024,53
+4.0,3:53,2.0,5.0,IND 8,17.0,27.0,Justin Fields pass incomplete short left intended for George Pickens,4.96,4.1,4.0,2024,53
+4.0,3:45,3.0,5.0,IND 8,23.0,27.0,"Justin Fields pass complete short left to Pat Freiermuth for 8 yards, touchdown",4.1,7.0,4.0,2024,53
+4.0,3:40,,,IND 15,24.0,27.0,Chris Boswell kicks extra point good,0.0,0.0,4.0,2024,53
+4.0,3:40,,,PIT 35,24.0,27.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,53
+4.0,3:40,1.0,10.0,IND 30,24.0,27.0,Trey Sermon left tackle for 3 yards (tackle by Payton Wilson),0.94,0.8,4.0,2024,53
+4.0,2:59,2.0,7.0,IND 33,24.0,27.0,Joe Flacco sacked by and Larry Ogunjobi for -8 yards and Cameron Heyward for -8 yards,0.8,-0.96,4.0,2024,53
+4.0,2:52,,,,,,Timeout #2 by Pittsburgh Steelers,,,4.0,2024,53
+4.0,2:52,3.0,15.0,IND 25,24.0,27.0,Joe Flacco pass incomplete short right intended for Adonai Mitchell,-0.96,-1.7,4.0,2024,53
+4.0,2:46,4.0,15.0,IND 25,24.0,27.0,"Rigoberto Sanchez punts 58 yards, fair catch by Calvin Austin at PIT-17",-1.7,0.06,4.0,2024,53
+4.0,2:39,1.0,10.0,PIT 17,24.0,27.0,Justin Fields right tackle for 12 yards (tackle by Nick Cross),-0.06,0.87,4.0,2024,53
+4.0,2:12,1.0,10.0,PIT 29,24.0,27.0,Justin Fields pass complete short left to Van Jefferson for 9 yards (tackle by Zaire Franklin),0.87,1.54,4.0,2024,53
+4.0,2:00,2.0,1.0,PIT 38,24.0,27.0,Najee Harris up the middle for 4 yards (tackle by E.J. Speed),1.54,1.73,4.0,2024,53
+4.0,1:36,1.0,10.0,PIT 42,24.0,27.0,"Justin Fields aborted snap, recovered by Justin Fields at PIT-30 and returned for -12 yards (tackle by E.J. Speed)",1.73,-0.37,4.0,2024,53
+4.0,1:11,2.0,21.0,PIT 30,24.0,27.0,Justin Fields pass incomplete deep left intended for George Pickens (defended by Jaylon Jones),-0.37,-1.02,4.0,2024,53
+4.0,1:07,3.0,21.0,PIT 30,24.0,27.0,Justin Fields pass complete short left to Najee Harris for 11 yards (tackle by E.J. Speed),-1.02,-0.65,4.0,2024,53
+4.0,0:42,4.0,10.0,PIT 41,24.0,27.0,Justin Fields pass incomplete short right intended for Van Jefferson,-0.65,-2.85,4.0,2024,53
+4.0,0:29,1.0,10.0,PIT 41,24.0,27.0,Joe Flacco kneels for -1 yards,2.85,2.17,4.0,2024,53

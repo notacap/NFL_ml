@@ -1,0 +1,156 @@
+Quarter,Time,Down,ToGo,Location,PIT,CAR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Steelers won the coin toss and deferred, Panthers to receive the opening kickoff.",,,15.0,2022,214
+1.0,15:00,,,PIT 35,0.0,0.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,214
+1.0,15:00,1.0,10.0,CAR 25,0.0,0.0,D'Onta Foreman left tackle for -1 yards (tackle by Larry Ogunjobi),0.61,-0.07,15.0,2022,214
+1.0,14:25,2.0,11.0,CAR 24,0.0,0.0,Chuba Hubbard up the middle for 3 yards (tackle by Terrell Edmunds),-0.07,-0.36,15.0,2022,214
+1.0,13:46,3.0,8.0,CAR 27,0.0,0.0,Sam Darnold pass complete short left to Chuba Hubbard for 6 yards (tackle by Alex Highsmith and James Pierre),-0.36,-1.18,15.0,2022,214
+1.0,13:05,4.0,2.0,CAR 33,0.0,0.0,"Johnny Hekker punts 39 yards, returned by Steven Sims for 5 yards (tackle by Raheem Blackshear)",-1.18,-1.14,15.0,2022,214
+1.0,12:54,1.0,10.0,PIT 33,0.0,0.0,Najee Harris left guard for 3 yards (tackle by Derrick Brown),1.14,1.0,15.0,2022,214
+1.0,12:17,2.0,7.0,PIT 36,0.0,0.0,Najee Harris right tackle for 1 yard (tackle by Shaq Thompson),1.0,0.43,15.0,2022,214
+1.0,11:30,,,,,,Timeout #1 by Pittsburgh Steelers,,,15.0,2022,214
+1.0,11:30,3.0,6.0,PIT 37,0.0,0.0,Mitchell Trubisky pass complete short left to Diontae Johnson for 8 yards (tackle by Jaycee Horn and Xavier Woods),0.43,1.93,15.0,2022,214
+1.0,10:50,1.0,10.0,PIT 45,0.0,0.0,Jaylen Warren right tackle for 3 yards (tackle by Jeremy Chinn and Frankie Luvu),1.93,1.79,15.0,2022,214
+1.0,10:10,2.0,7.0,PIT 48,0.0,0.0,Najee Harris left end for 10 yards (tackle by Keith Taylor),1.79,2.79,15.0,2022,214
+1.0,9:28,1.0,10.0,CAR 42,0.0,0.0,Mitchell Trubisky pass complete short right to Gunner Olszewski for 3 yards (tackle by Jeremy Chinn),2.79,2.65,15.0,2022,214
+1.0,8:47,2.0,7.0,CAR 39,0.0,0.0,Najee Harris left tackle for 8 yards (tackle by Myles Hartsfield and Jeremy Chinn),2.65,3.51,15.0,2022,214
+1.0,8:09,1.0,10.0,CAR 31,0.0,0.0,Mitchell Trubisky pass complete short right to Diontae Johnson for 4 yards (tackle by Shaq Thompson),3.51,3.51,15.0,2022,214
+1.0,7:30,2.0,6.0,CAR 27,0.0,0.0,Najee Harris up the middle for 5 yards (tackle by Jeremy Chinn and Shaq Thompson),3.51,3.47,15.0,2022,214
+1.0,6:47,3.0,1.0,CAR 22,0.0,0.0,Mitchell Trubisky left guard for 4 yards (tackle by Frankie Luvu and Derrick Brown),3.47,4.37,15.0,2022,214
+1.0,6:11,1.0,10.0,CAR 18,0.0,0.0,Mitchell Trubisky pass complete short right to Jaylen Warren for 11 yards (tackle by Keith Taylor),4.37,5.6,15.0,2022,214
+1.0,5:53,1.0,7.0,CAR 7,6.0,0.0,"Najee Harris left end for 7 yards, touchdown",5.6,7.0,15.0,2022,214
+1.0,5:48,,,CAR 15,7.0,0.0,Chris Boswell kicks extra point good,0.0,0.0,15.0,2022,214
+1.0,5:48,,,PIT 35,7.0,0.0,"Chris Boswell kicks off 63 yards, returned by Raheem Blackshear for 23 yards (tackle by James Pierre and Tre Norwood). Penalty on Sean Chandler: Defensive Holding, 10 yards (accepted)",0.0,-0.22,15.0,2022,214
+1.0,5:42,1.0,10.0,CAR 15,7.0,0.0,Sam Darnold pass complete short left to Terrace Marshall for 13 yards (tackle by Levi Wallace),-0.22,0.81,15.0,2022,214
+1.0,5:09,1.0,10.0,CAR 28,7.0,0.0,D'Onta Foreman left guard for -1 yards (tackle by Larry Ogunjobi),0.81,0.13,15.0,2022,214
+1.0,4:25,2.0,11.0,CAR 27,7.0,0.0,D'Onta Foreman right tackle for no gain (tackle by Devin Bush),0.13,-0.56,15.0,2022,214
+1.0,3:43,3.0,11.0,CAR 27,7.0,0.0,Sam Darnold pass complete short left to D.J. Moore for 14 yards (tackle by Cameron Sutton),-0.56,1.66,15.0,2022,214
+1.0,3:02,1.0,10.0,CAR 41,7.0,0.0,Sam Darnold pass complete short middle to D.J. Moore for 15 yards (tackle by Robert Spillane),1.66,2.65,15.0,2022,214
+1.0,2:24,1.0,10.0,PIT 44,7.0,0.0,D'Onta Foreman left guard for 2 yards (tackle by Devin Bush),2.65,2.38,15.0,2022,214
+1.0,1:36,2.0,8.0,PIT 42,7.0,0.0,"Sam Darnold pass complete short right to Ian Thomas for 5 yards (tackle by Robert Spillane). Penalty on Bradley Bozeman: Ineligible Downfield Pass, 5 yards (accepted) (no play)",2.38,1.71,15.0,2022,214
+1.0,1:16,2.0,13.0,PIT 47,7.0,0.0,Sam Darnold pass incomplete short right,1.71,1.03,15.0,2022,214
+1.0,1:10,3.0,13.0,PIT 47,7.0,0.0,Sam Darnold pass complete deep left to Terrace Marshall for 40 yards (tackle by James Pierre),1.03,5.6,15.0,2022,214
+1.0,0:23,1.0,7.0,PIT 7,7.0,0.0,D'Onta Foreman right end for -1 yards (tackle by Isaiahh Loudermilk),5.6,4.57,15.0,2022,214
+2.0,15:00,2.0,8.0,PIT 8,7.0,0.0,Chuba Hubbard up the middle for 3 yards (tackle by Terrell Edmunds),4.57,4.26,15.0,2022,214
+2.0,14:19,3.0,5.0,PIT 5,7.0,6.0,"Sam Darnold pass complete short right to D.J. Moore for 5 yards, touchdown",4.26,7.0,15.0,2022,214
+2.0,14:12,,,PIT 15,7.0,7.0,Eddy Pineiro kicks extra point good,0.0,0.0,15.0,2022,214
+2.0,14:12,,,CAR 35,7.0,7.0,"Eddy Pineiro kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,214
+2.0,14:12,1.0,10.0,PIT 25,7.0,7.0,Mitchell Trubisky pass complete short right to Zach Gentry for 4 yards (tackle by Frankie Luvu),0.61,0.6,15.0,2022,214
+2.0,13:31,2.0,6.0,PIT 29,7.0,7.0,Najee Harris right tackle for 5 yards (tackle by Matthew Ioannidis and Keith Taylor),0.6,0.56,15.0,2022,214
+2.0,12:48,3.0,1.0,PIT 34,7.0,7.0,Mitchell Trubisky up the middle for 4 yards (tackle by Matthew Ioannidis),0.56,1.47,15.0,2022,214
+2.0,12:10,1.0,10.0,PIT 38,7.0,7.0,Najee Harris left tackle for 7 yards (tackle by Jeremy Chinn and Shaq Thompson),1.47,1.87,15.0,2022,214
+2.0,11:28,2.0,3.0,PIT 45,7.0,7.0,Jaylen Warren right tackle for -1 yards (tackle by Matthew Ioannidis),1.87,1.02,15.0,2022,214
+2.0,10:50,3.0,4.0,PIT 44,7.0,7.0,"Penalty on Kevin Dotson: False Start, 5 yards (accepted) (no play)",1.02,0.37,15.0,2022,214
+2.0,10:27,3.0,9.0,PIT 39,7.0,7.0,"Penalty on Matthew Ioannidis: Neutral Zone Infraction, 5 yards (accepted) (no play)",0.37,1.02,15.0,2022,214
+2.0,10:12,3.0,4.0,PIT 44,7.0,7.0,Mitchell Trubisky pass complete deep left to George Pickens for 38 yards,1.02,4.37,15.0,2022,214
+2.0,9:43,1.0,10.0,CAR 18,7.0,7.0,Jaylen Warren up the middle for 9 yards (tackle by Jeremy Chinn),4.37,5.42,15.0,2022,214
+2.0,9:21,2.0,1.0,CAR 9,7.0,7.0,Jaylen Warren up the middle for 2 yards (tackle by Brian Burns and Frankie Luvu),5.42,5.6,15.0,2022,214
+2.0,8:59,1.0,7.0,CAR 7,7.0,7.0,Jaylen Warren left tackle for 5 yards (tackle by Xavier Woods),5.6,5.72,15.0,2022,214
+2.0,8:24,,,,,,Timeout #1 by Carolina Panthers,,,15.0,2022,214
+2.0,8:24,2.0,2.0,CAR 2,13.0,7.0,"Jaylen Warren for 2 yards, touchdown",5.72,7.0,15.0,2022,214
+2.0,8:20,,,CAR 15,14.0,7.0,Chris Boswell kicks extra point good,0.0,0.0,15.0,2022,214
+2.0,8:20,,,PIT 35,14.0,7.0,"Penalty on Derrick Brown: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",0.0,-2.26,15.0,2022,214
+2.0,8:20,1.0,10.0,PIT 50,14.0,7.0,"Chris Boswell kicks off 50 yards, touchback.",2.26,0.61,15.0,2022,214
+2.0,8:20,1.0,10.0,CAR 25,14.0,7.0,Sam Darnold scrambles up the middle for 3 yards (tackle by Robert Spillane),0.61,0.47,15.0,2022,214
+2.0,7:40,2.0,7.0,CAR 28,14.0,7.0,D'Onta Foreman up the middle for 4 yards (tackle by Devin Bush and Larry Ogunjobi),0.47,0.3,15.0,2022,214
+2.0,6:58,3.0,3.0,CAR 32,14.0,7.0,"Penalty on D.J. Moore: False Start, 5 yards (accepted) (no play)",0.3,-0.36,15.0,2022,214
+2.0,6:36,3.0,8.0,CAR 27,14.0,7.0,Sam Darnold pass incomplete deep left intended for Laviska Shenault,-0.36,-1.57,15.0,2022,214
+2.0,6:31,4.0,8.0,CAR 27,14.0,7.0,Johnny Hekker punts 43 yards downed by Chandler Wooten,-1.57,-0.94,15.0,2022,214
+2.0,6:20,1.0,10.0,PIT 30,14.0,7.0,Najee Harris right tackle for 1 yard (tackle by Xavier Woods and Henry Anderson),0.94,0.53,15.0,2022,214
+2.0,5:37,2.0,9.0,PIT 31,14.0,7.0,Mitchell Trubisky pass complete short left to Diontae Johnson for 4 yards (tackle by Shaq Thompson),0.53,0.37,15.0,2022,214
+2.0,4:55,3.0,5.0,PIT 35,14.0,7.0,Mitchell Trubisky pass incomplete short left intended for George Pickens,0.37,-1.04,15.0,2022,214
+2.0,4:50,4.0,5.0,PIT 35,14.0,7.0,"Pressley Harvin punts 38 yards, fair catch by Shi Smith at CAR-27",-1.04,-0.74,15.0,2022,214
+2.0,4:42,1.0,10.0,CAR 27,14.0,7.0,Sam Darnold pass incomplete short right intended for D.J. Moore,0.74,0.2,15.0,2022,214
+2.0,4:35,2.0,10.0,CAR 27,14.0,7.0,Sam Darnold pass incomplete short left,0.2,-0.49,15.0,2022,214
+2.0,4:33,3.0,10.0,CAR 27,14.0,7.0,Sam Darnold sacked by T.J. Watt for -9 yards,-0.49,-2.24,15.0,2022,214
+2.0,3:44,4.0,19.0,CAR 18,14.0,7.0,"Johnny Hekker punts 49 yards, fair catch by Steven Sims at PIT-33",-2.24,-1.14,15.0,2022,214
+2.0,3:36,1.0,10.0,PIT 33,14.0,7.0,Najee Harris for 1 yard (tackle by Yetur Gross-Matos and Shaq Thompson),1.14,0.73,15.0,2022,214
+2.0,2:56,2.0,9.0,PIT 34,14.0,7.0,Mitchell Trubisky pass complete short right to George Pickens for 15 yards (tackle by Keith Taylor),0.73,2.19,15.0,2022,214
+2.0,2:15,1.0,10.0,PIT 49,14.0,7.0,Steven Sims left guard for -3 yards (tackle by Brian Burns),2.19,1.24,15.0,2022,214
+2.0,2:00,2.0,13.0,PIT 46,14.0,7.0,Mitchell Trubisky pass complete short left to Steven Sims for 10 yards (tackle by Frankie Luvu and Keith Taylor),1.24,1.88,15.0,2022,214
+2.0,1:39,3.0,3.0,CAR 44,14.0,7.0,Mitchell Trubisky pass incomplete short right intended for Steven Sims (defended by Matthew Ioannidis),1.88,0.33,15.0,2022,214
+2.0,1:34,4.0,3.0,CAR 44,14.0,7.0,Pressley Harvin punts 44 yards,0.33,-0.28,15.0,2022,214
+2.0,1:27,1.0,10.0,CAR 20,14.0,7.0,Chuba Hubbard right guard for 2 yards (tackle by Alex Highsmith and Larry Ogunjobi),0.28,0.0,15.0,2022,214
+2.0,1:22,,,,,,Timeout #2 by Pittsburgh Steelers,,,15.0,2022,214
+2.0,1:22,2.0,8.0,CAR 22,14.0,7.0,Sam Darnold pass complete short middle to Chuba Hubbard for 6 yards (tackle by Robert Spillane),0.0,0.1,15.0,2022,214
+2.0,0:57,3.0,2.0,CAR 28,14.0,7.0,Sam Darnold pass incomplete short left intended for Shi Smith (defended by Minkah Fitzpatrick),0.1,-1.5,15.0,2022,214
+2.0,0:53,4.0,2.0,CAR 28,14.0,7.0,Johnny Hekker punts 63 yards downed by Sam Franklin,-1.5,0.38,15.0,2022,214
+2.0,0:42,1.0,10.0,PIT 9,14.0,7.0,Jaylen Warren right end for 8 yards (tackle by Jaycee Horn),-0.38,-0.02,15.0,2022,214
+3.0,15:00,,,CAR 35,14.0,7.0,"Eddy Pineiro kicks off 64 yards, returned by Steven Sims for 17 yards (tackle by Sean Chandler). Penalty on Benny Snell: Defensive Holding, 10 yards (declined) . Penalty on Miles Killebrew: Illegal Blindside Block, 9 yards (accepted)",0.0,-0.38,15.0,2022,214
+3.0,14:48,1.0,10.0,PIT 9,14.0,7.0,Mitchell Trubisky pass complete short right to Diontae Johnson for 7 yards (tackle by Keith Taylor),-0.38,-0.16,15.0,2022,214
+3.0,14:12,2.0,3.0,PIT 16,14.0,7.0,Najee Harris left guard for 1 yard (tackle by Jaycee Horn),-0.16,-0.48,15.0,2022,214
+3.0,13:34,3.0,2.0,PIT 17,14.0,7.0,Najee Harris up the middle for 2 yards (tackle by Matthew Ioannidis),-0.48,0.15,15.0,2022,214
+3.0,12:49,1.0,10.0,PIT 19,14.0,7.0,Najee Harris right tackle for no gain (tackle by Matthew Ioannidis and Yetur Gross-Matos),0.15,-0.39,15.0,2022,214
+3.0,12:08,2.0,10.0,PIT 19,14.0,7.0,Mitchell Trubisky pass incomplete short middle,-0.39,-1.07,15.0,2022,214
+3.0,12:03,3.0,10.0,PIT 19,14.0,7.0,Mitchell Trubisky pass complete short left to Diontae Johnson for 12 yards (tackle by Jeremy Chinn),-1.07,1.0,15.0,2022,214
+3.0,11:31,1.0,10.0,PIT 31,14.0,7.0,Jaylen Warren right end for no gain (tackle by Jeremy Chinn),1.0,0.46,15.0,2022,214
+3.0,10:50,2.0,10.0,PIT 31,14.0,7.0,Najee Harris left guard for 9 yards (tackle by Jeremy Chinn and Frankie Luvu),0.46,0.96,15.0,2022,214
+3.0,10:27,3.0,1.0,PIT 40,14.0,7.0,Steven Sims right end for 22 yards (tackle by Xavier Woods),0.96,3.05,15.0,2022,214
+3.0,9:45,1.0,10.0,CAR 38,14.0,7.0,Najee Harris left tackle for 1 yard (tackle by Marquan McCall),3.05,2.64,15.0,2022,214
+3.0,9:03,2.0,9.0,CAR 37,14.0,7.0,"Mitchell Trubisky pass complete deep left to Diontae Johnson for 18 yards (tackle by Jeremy Chinn). Penalty on Jeremy Chinn: Illegal Contact, 5 yards (declined)",2.64,4.31,15.0,2022,214
+3.0,8:34,1.0,10.0,CAR 19,14.0,7.0,Najee Harris up the middle for 2 yards (tackle by Yetur Gross-Matos and Jeremy Chinn),4.31,4.03,15.0,2022,214
+3.0,7:55,2.0,8.0,CAR 17,14.0,7.0,Diontae Johnson right end for 2 yards (tackle by Brian Burns),4.03,3.58,15.0,2022,214
+3.0,7:13,3.0,6.0,CAR 15,14.0,7.0,Mitchell Trubisky pass complete short left to Diontae Johnson for 8 yards (tackle by Xavier Woods),3.58,5.6,15.0,2022,214
+3.0,6:58,1.0,7.0,CAR 7,14.0,7.0,"Penalty on Diontae Johnson: Unsportsmanlike Conduct / Offense, 15 yards (accepted) (no play)",5.6,4.11,15.0,2022,214
+3.0,6:38,1.0,10.0,CAR 22,14.0,7.0,Mitchell Trubisky pass complete short left to Miles Boykin for no gain (tackle by Shaq Thompson),4.11,3.56,15.0,2022,214
+3.0,5:57,2.0,10.0,CAR 22,14.0,7.0,Mitchell Trubisky pass complete short right to Diontae Johnson for 9 yards (tackle by Jeremy Chinn),3.56,4.39,15.0,2022,214
+3.0,5:21,3.0,1.0,CAR 13,14.0,7.0,Derek Watt up the middle for 2 yards (tackle by Derrick Brown),4.39,4.84,15.0,2022,214
+3.0,4:41,1.0,10.0,CAR 11,14.0,7.0,Najee Harris up the middle for 9 yards (tackle by Jeremy Chinn),4.84,5.85,15.0,2022,214
+3.0,4:17,2.0,1.0,CAR 2,14.0,7.0,Najee Harris up the middle for 1 yard (tackle by Cory Littleton and Yetur Gross-Matos),5.85,6.97,15.0,2022,214
+3.0,3:53,1.0,1.0,CAR 1,14.0,7.0,Mitchell Trubisky up the middle for no gain (tackle by Derrick Brown and Cory Littleton),6.97,5.91,15.0,2022,214
+3.0,3:20,2.0,1.0,CAR 1,20.0,7.0,"Mitchell Trubisky up the middle for 1 yard, touchdown",5.91,7.0,15.0,2022,214
+3.0,3:17,,,CAR 15,21.0,7.0,Chris Boswell kicks extra point good,0.0,0.0,15.0,2022,214
+3.0,3:17,,,PIT 35,21.0,7.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,214
+3.0,3:17,1.0,10.0,CAR 25,21.0,7.0,Sam Darnold pass complete short right to Terrace Marshall for -2 yards (tackle by Robert Spillane),0.61,-0.21,15.0,2022,214
+3.0,2:37,2.0,12.0,CAR 23,21.0,7.0,Sam Darnold pass complete short right to Chuba Hubbard for 45 yards (tackle by Damontae Kazee and Cameron Sutton),-0.21,3.45,15.0,2022,214
+3.0,1:52,1.0,10.0,PIT 32,21.0,7.0,D'Onta Foreman left tackle for 1 yard (tackle by Tyson Alualu and Arthur Maulet),3.45,3.04,15.0,2022,214
+3.0,1:08,2.0,9.0,PIT 31,21.0,7.0,Sam Darnold sacked by Alex Highsmith for -8 yards,3.04,1.29,15.0,2022,214
+3.0,0:23,3.0,17.0,PIT 39,21.0,7.0,Sam Darnold sacked by Cameron Heyward for -10 yards,1.29,0.0,15.0,2022,214
+4.0,15:00,4.0,27.0,PIT 49,21.0,7.0,"Penalty on Marcus Allen: Unsportsmanlike Conduct / Defense, 15 yards (accepted) (no play)",0.0,3.31,15.0,2022,214
+4.0,15:00,1.0,10.0,PIT 34,21.0,7.0,D'Onta Foreman up the middle for 5 yards (tackle by Robert Spillane and Devin Bush),3.31,3.45,15.0,2022,214
+4.0,14:20,2.0,5.0,PIT 29,21.0,7.0,Sam Darnold pass complete short left to Tommy Tremble for 17 yards (tackle by Robert Spillane),3.45,4.78,15.0,2022,214
+4.0,13:37,1.0,10.0,PIT 12,21.0,7.0,Chuba Hubbard left tackle for 2 yards (tackle by Terrell Edmunds),4.78,4.45,15.0,2022,214
+4.0,13:01,2.0,8.0,PIT 10,21.0,7.0,Sam Darnold pass incomplete short right,4.45,3.48,15.0,2022,214
+4.0,12:51,3.0,8.0,PIT 10,21.0,7.0,Sam Darnold up the middle for -1 yards (tackle by Cameron Heyward and Minkah Fitzpatrick),3.48,2.7,15.0,2022,214
+4.0,11:57,4.0,9.0,PIT 11,21.0,10.0,Eddy Pineiro 29 yard field goal good,2.7,3.0,15.0,2022,214
+4.0,11:52,,,CAR 35,21.0,10.0,"Eddy Pineiro kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,214
+4.0,11:52,1.0,10.0,PIT 25,21.0,10.0,Mitchell Trubisky pass incomplete short right intended for George Pickens,0.61,0.06,15.0,2022,214
+4.0,11:46,2.0,10.0,PIT 25,21.0,10.0,Najee Harris right end for 4 yards (tackle by Jeremy Chinn),0.06,-0.1,15.0,2022,214
+4.0,11:06,3.0,6.0,PIT 29,21.0,10.0,Mitchell Trubisky sacked by Frankie Luvu for -10 yards,-0.1,-2.14,15.0,2022,214
+4.0,10:32,4.0,16.0,PIT 19,21.0,10.0,Pressley Harvin punts 54 yards out of bounds,-2.14,-0.74,15.0,2022,214
+4.0,10:21,1.0,10.0,CAR 27,21.0,10.0,"Sam Darnold sacked by Terrell Edmunds for no gain. Sam Darnold fumbles (forced by Terrell Edmunds), recovered by Taylor Moton at CAR-19 (tackle by Terrell Edmunds). Penalty on T.J. Watt: Defensive Offside, 5 yards (accepted) (no play)",0.74,1.47,15.0,2022,214
+4.0,9:59,1.0,5.0,CAR 32,21.0,10.0,Sam Darnold pass incomplete short left intended for Shi Smith (defended by Cameron Sutton),1.47,0.87,15.0,2022,214
+4.0,9:54,2.0,5.0,CAR 32,21.0,10.0,Sam Darnold pass complete short right to D.J. Moore for 13 yards (tackle by Levi Wallace),0.87,1.86,15.0,2022,214
+4.0,9:32,1.0,10.0,CAR 44,21.0,10.0,Sam Darnold pass complete deep left to Shi Smith for 24 yards (tackle by Arthur Maulet and Minkah Fitzpatrick),1.86,3.51,15.0,2022,214
+4.0,8:30,1.0,10.0,PIT 31,21.0,10.0,"Sam Darnold pass incomplete deep left intended for Terrace Marshall. Penalty on Cameron Sutton: Defensive Pass Interference, 27 yards (accepted) (no play)",3.51,6.28,15.0,2022,214
+4.0,8:30,1.0,4.0,PIT 4,21.0,10.0,D'Onta Foreman right tackle for 2 yards (tackle by Larry Ogunjobi),6.28,5.72,15.0,2022,214
+4.0,7:52,,,,,,Timeout #1 by Pittsburgh Steelers,,,15.0,2022,214
+4.0,7:52,2.0,2.0,PIT 2,21.0,10.0,"D'Onta Foreman up the middle for -2 yards. D'Onta Foreman fumbles (forced by Alex Highsmith), recovered by Stephen Sullivan at PIT-4",5.72,4.49,15.0,2022,214
+4.0,7:04,3.0,4.0,PIT 4,21.0,10.0,Sam Darnold sacked by and Cameron Heyward for -10 yards and T.J. Watt for -10 yards,4.49,2.51,15.0,2022,214
+4.0,6:19,4.0,14.0,PIT 14,21.0,13.0,Eddy Pineiro 32 yard field goal good,2.51,3.0,15.0,2022,214
+4.0,6:15,,,CAR 35,21.0,13.0,"Eddy Pineiro kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,214
+4.0,6:15,1.0,10.0,PIT 25,21.0,13.0,Najee Harris right guard for 1 yard (tackle by Frankie Luvu and Derrick Brown),0.61,0.2,15.0,2022,214
+4.0,5:33,2.0,9.0,PIT 26,21.0,13.0,Mitchell Trubisky pass incomplete short left intended for George Pickens (defended by Jeremy Chinn),0.2,-0.49,15.0,2022,214
+4.0,5:29,3.0,9.0,PIT 26,21.0,13.0,"Penalty on George Pickens: False Start, 5 yards (accepted) (no play)",-0.49,-1.15,15.0,2022,214
+4.0,5:29,3.0,14.0,PIT 21,21.0,13.0,Mitchell Trubisky pass complete short right to Diontae Johnson for 19 yards (tackle by Keith Taylor),-1.15,1.6,15.0,2022,214
+4.0,4:41,1.0,10.0,PIT 40,21.0,13.0,Najee Harris up the middle for 6 yards (tackle by Bravvion Roy and Shaq Thompson),1.6,1.86,15.0,2022,214
+4.0,3:59,2.0,4.0,PIT 46,21.0,13.0,Najee Harris right guard for -2 yards (tackle by Shaq Thompson and Xavier Woods),1.86,0.89,15.0,2022,214
+4.0,3:14,3.0,6.0,PIT 44,21.0,13.0,Mitchell Trubisky pass complete short left to Diontae Johnson for 9 yards (tackle by Keith Taylor),0.89,2.46,15.0,2022,214
+4.0,3:07,,,,,,Timeout #2 by Pittsburgh Steelers,,,15.0,2022,214
+4.0,3:07,1.0,10.0,CAR 47,21.0,13.0,Jaylen Warren for 4 yards (tackle by Frankie Luvu),2.46,2.45,15.0,2022,214
+4.0,3:01,,,,,,Timeout #1 by Carolina Panthers,,,15.0,2022,214
+4.0,3:01,2.0,6.0,CAR 43,21.0,13.0,Jaylen Warren right guard for 5 yards (tackle by Shaq Thompson),2.45,2.41,15.0,2022,214
+4.0,2:55,,,,,,Timeout #2 by Carolina Panthers,,,15.0,2022,214
+4.0,2:55,3.0,1.0,CAR 38,21.0,13.0,Mitchell Trubisky up the middle for 1 yard (tackle by Matthew Ioannidis and Shaq Thompson),2.41,3.12,15.0,2022,214
+4.0,2:10,1.0,10.0,CAR 37,21.0,13.0,Jaylen Warren left tackle for 1 yard (tackle by Cory Littleton),3.12,2.71,15.0,2022,214
+4.0,2:00,2.0,9.0,CAR 36,21.0,13.0,Najee Harris right tackle for 3 yards (tackle by Shaq Thompson),2.71,2.41,15.0,2022,214
+4.0,1:55,,,,,,Timeout #3 by Carolina Panthers,,,15.0,2022,214
+4.0,1:55,3.0,6.0,CAR 33,21.0,13.0,Najee Harris up the middle for 1 yard (tackle by Cory Littleton and Yetur Gross-Matos),2.41,1.26,15.0,2022,214
+4.0,1:09,4.0,5.0,CAR 32,24.0,13.0,Chris Boswell 50 yard field goal good,1.26,3.0,15.0,2022,214
+4.0,1:04,,,PIT 35,24.0,13.0,"Chris Boswell kicks off 65 yards, returned by Raheem Blackshear for 37 yards (tackle by Arthur Maulet and Connor Heyward)",0.0,1.4,15.0,2022,214
+4.0,0:54,1.0,10.0,CAR 37,24.0,13.0,Sam Darnold pass incomplete short left intended for Tommy Tremble,1.4,0.86,15.0,2022,214
+4.0,0:50,2.0,10.0,CAR 37,24.0,13.0,Sam Darnold pass complete short left to Tommy Tremble for 3 yards (tackle by Terrell Edmunds),0.86,0.56,15.0,2022,214
+4.0,0:44,3.0,7.0,CAR 40,24.0,13.0,Sam Darnold pass complete deep middle to D.J. Moore for 26 yards (tackle by Robert Spillane),0.56,3.31,15.0,2022,214
+4.0,0:24,1.0,10.0,PIT 34,24.0,13.0,Sam Darnold spiked the ball,3.31,2.77,15.0,2022,214
+4.0,0:23,2.0,10.0,PIT 34,24.0,16.0,Eddy Pineiro 52 yard field goal good,2.77,3.0,15.0,2022,214
+4.0,0:19,,,CAR 35,24.0,16.0,"Johnny Hekker kicks onside 8 yards, returned by George Pickens for no gain",0.0,2.72,15.0,2022,214
+4.0,0:18,1.0,10.0,CAR 43,24.0,16.0,Mitchell Trubisky kneels for -1 yards,2.72,2.04,15.0,2022,214

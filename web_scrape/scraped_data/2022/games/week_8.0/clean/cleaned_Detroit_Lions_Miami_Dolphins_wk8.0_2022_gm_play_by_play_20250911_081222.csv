@@ -1,0 +1,162 @@
+Quarter,Time,Down,ToGo,Location,MIA,DET,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Dolphins won the coin toss and deferred, Lions to receive the opening kickoff.",,,8.0,2022,111
+1.0,15:00,,,MIA 35,0.0,0.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,111
+1.0,15:00,1.0,10.0,DET 25,0.0,0.0,"Jared Goff pass complete short right to Jamaal Williams for 10 yards (tackle by Elandon Roberts). Penalty on Elandon Roberts: Taunting / Defense, 15 yards (accepted)",0.61,2.26,8.0,2022,111
+1.0,14:37,1.0,10.0,DET 50,0.0,0.0,D'Andre Swift right end for 2 yards (tackle by Jaelan Phillips),2.26,1.98,8.0,2022,111
+1.0,14:09,2.0,8.0,MIA 48,0.0,0.0,Jared Goff pass complete deep right to Kalif Raymond for 27 yards (tackle by Jevon Holland),1.98,4.17,8.0,2022,111
+1.0,13:28,1.0,10.0,MIA 21,0.0,0.0,Jared Goff pass complete short right to James Mitchell for 14 yards (tackle by Jevon Holland),4.17,5.6,8.0,2022,111
+1.0,13:03,1.0,7.0,MIA 7,0.0,6.0,"Jamaal Williams up the middle for 7 yards, touchdown",5.6,7.0,8.0,2022,111
+1.0,12:59,,,MIA 15,0.0,7.0,Michael Badgley kicks extra point good,0.0,0.0,8.0,2022,111
+1.0,12:59,,,DET 35,0.0,7.0,"Jack Fox kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,111
+1.0,12:59,1.0,10.0,MIA 25,0.0,7.0,Raheem Mostert right tackle for 12 yards (tackle by Jeff Okudah),0.61,1.4,8.0,2022,111
+1.0,12:23,1.0,10.0,MIA 37,0.0,7.0,Tua Tagovailoa pass complete short left to Alec Ingold for 5 yards (tackle by Will Harris),1.4,1.53,8.0,2022,111
+1.0,11:41,2.0,5.0,MIA 42,0.0,7.0,Chase Edmonds right end for 8 yards (tackle by Amani Oruwariye),1.53,2.26,8.0,2022,111
+1.0,11:05,1.0,10.0,MIA 50,0.0,7.0,Tua Tagovailoa sacked by Malcolm Rodriguez for -8 yards,2.26,0.63,8.0,2022,111
+1.0,10:18,2.0,18.0,MIA 42,0.0,7.0,Tua Tagovailoa pass complete short left to Jaylen Waddle for 4 yards (tackle by Juju Hughes),0.63,0.5,8.0,2022,111
+1.0,9:37,3.0,14.0,MIA 46,0.0,7.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 10 yards (tackle by Alex Anzalone and Josh Paschal),0.5,0.33,8.0,2022,111
+1.0,8:54,4.0,4.0,DET 44,0.0,7.0,Tua Tagovailoa pass complete short left to Jaylen Waddle for 9 yards (tackle by AJ Parker),0.33,3.25,8.0,2022,111
+1.0,8:15,1.0,10.0,DET 35,0.0,7.0,"Tua Tagovailoa pass complete short middle to Braylon Sanders for 13 yards. Braylon Sanders fumbles (forced by Kerby Joseph), recovered by Malcolm Rodriguez at DET-20 and returned for 2 yards (tackle by Alec Ingold)",3.25,-0.41,8.0,2022,111
+1.0,8:07,1.0,10.0,DET 22,0.0,7.0,Jamaal Williams up the middle for 3 yards (tackle by Raekwon Davis),0.41,0.27,8.0,2022,111
+1.0,7:37,2.0,7.0,DET 25,0.0,7.0,Jared Goff pass complete short left to Josh Reynolds for 5 yards (tackle by Kader Kohou),0.27,0.23,8.0,2022,111
+1.0,6:57,3.0,2.0,DET 30,0.0,7.0,Jared Goff pass complete deep left to T.J. Hockenson for 58 yards (tackle by Verone McKinley),0.23,4.78,8.0,2022,111
+1.0,6:23,1.0,10.0,MIA 12,0.0,7.0,Craig Reynolds right tackle for 5 yards (tackle by Jevon Holland and John Jenkins),4.78,5.02,8.0,2022,111
+1.0,5:46,2.0,5.0,MIA 7,0.0,7.0,Jared Goff pass incomplete short right intended for Kalif Raymond,5.02,4.16,8.0,2022,111
+1.0,5:40,3.0,5.0,MIA 7,0.0,13.0,"Jared Goff pass complete short middle to D'Andre Swift for 7 yards, touchdown",4.16,7.0,8.0,2022,111
+1.0,5:36,,,MIA 15,0.0,14.0,Michael Badgley kicks extra point good,0.0,0.0,8.0,2022,111
+1.0,5:36,,,DET 35,0.0,14.0,"Jack Fox kicks off 58 yards, returned by Raheem Mostert for 13 yards (tackle by Josh Woods)",0.0,0.28,8.0,2022,111
+1.0,5:32,1.0,10.0,MIA 20,0.0,14.0,Tua Tagovailoa pass complete deep right to Tyreek Hill for 24 yards (tackle by Will Harris),0.28,1.86,8.0,2022,111
+1.0,4:55,1.0,10.0,MIA 44,0.0,14.0,Tua Tagovailoa pass complete short left to Mike Gesicki for 7 yards (tackle by Will Harris),1.86,2.26,8.0,2022,111
+1.0,4:09,2.0,3.0,DET 49,0.0,14.0,"Raheem Mostert right tackle for 3 yards (tackle by Alex Anzalone and Will Harris). Penalty on Liam Eichenberg: Offensive Holding, 10 yards (accepted) (no play)",2.26,0.91,8.0,2022,111
+1.0,3:41,2.0,13.0,MIA 41,0.0,14.0,Tua Tagovailoa pass incomplete short middle intended for Mike Gesicki,0.91,0.23,8.0,2022,111
+1.0,3:37,,,,,,Timeout #1 by Detroit Lions,,,8.0,2022,111
+1.0,3:37,3.0,13.0,MIA 41,0.0,14.0,Tua Tagovailoa pass complete deep right to Tyreek Hill for 36 yards (tackle by AJ Parker and Amani Oruwariye),0.23,4.04,8.0,2022,111
+1.0,2:54,1.0,10.0,DET 23,0.0,14.0,Raheem Mostert left end for 2 yards (tackle by AJ Parker),4.04,3.77,8.0,2022,111
+1.0,2:22,2.0,8.0,DET 21,0.0,14.0,Tua Tagovailoa pass complete short left to Jaylen Waddle for 12 yards (tackle by Jeff Okudah),3.77,5.14,8.0,2022,111
+1.0,1:38,1.0,9.0,DET 9,0.0,14.0,Raheem Mostert left end for -1 yards (tackle by Juju Hughes),5.14,4.19,8.0,2022,111
+1.0,1:03,2.0,10.0,DET 10,0.0,14.0,Tua Tagovailoa pass incomplete short left intended for Jaylen Waddle,4.19,3.13,8.0,2022,111
+1.0,0:59,3.0,10.0,DET 10,0.0,14.0,"Tua Tagovailoa pass incomplete intended for Raheem Mostert. Penalty on Julian Okwara: Illegal Contact, 5 yards (accepted) (no play)",3.13,6.06,8.0,2022,111
+1.0,0:55,1.0,5.0,DET 5,6.0,14.0,"Tua Tagovailoa pass complete to Jaylen Waddle for 5 yards, touchdown",6.06,7.0,8.0,2022,111
+1.0,0:50,,,DET 15,7.0,14.0,Jason Sanders kicks extra point good,0.0,0.0,8.0,2022,111
+1.0,0:50,,,MIA 35,7.0,14.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,111
+1.0,0:50,1.0,10.0,DET 25,7.0,14.0,"Jared Goff pass incomplete deep left intended for Amon-Ra St. Brown (defended by Jevon Holland) DET challenged the pass completion ruling, and the play was upheld.",0.61,0.06,8.0,2022,111
+1.0,0:43,2.0,10.0,DET 25,7.0,14.0,Jared Goff pass complete short left to Amon-Ra St. Brown for 6 yards (tackle by Elandon Roberts),0.06,0.17,8.0,2022,111
+1.0,0:10,3.0,4.0,DET 31,7.0,14.0,Jared Goff pass complete short right to Amon-Ra St. Brown for 21 yards (tackle by Noah Igbinoghene),0.17,2.39,8.0,2022,111
+2.0,15:00,1.0,10.0,MIA 48,7.0,14.0,Jared Goff pass complete deep left to Kalif Raymond for 43 yards (tackle by Jevon Holland),2.39,6.06,8.0,2022,111
+2.0,14:20,1.0,5.0,MIA 5,7.0,14.0,Jamaal Williams left tackle for 4 yards (tackle by Jevon Holland and Raekwon Davis),6.06,5.91,8.0,2022,111
+2.0,13:49,2.0,1.0,MIA 1,7.0,20.0,"Jamaal Williams up the middle for 1 yard, touchdown. Penalty on Christian Wilkins: Neutral Zone Infraction, 5 yards (declined)",5.91,7.0,8.0,2022,111
+2.0,13:46,,,MIA 15,7.0,21.0,Michael Badgley kicks extra point good,0.0,0.0,8.0,2022,111
+2.0,13:46,,,DET 35,7.0,21.0,"Jack Fox kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,111
+2.0,13:46,1.0,10.0,MIA 25,7.0,21.0,Tua Tagovailoa pass complete deep middle to Tyreek Hill for 42 yards (tackle by Amani Oruwariye),0.61,3.38,8.0,2022,111
+2.0,13:00,1.0,10.0,DET 33,7.0,21.0,Raheem Mostert left end for -1 yards (tackle by Derrick Barnes and Aidan Hutchinson),3.38,2.7,8.0,2022,111
+2.0,12:21,2.0,11.0,DET 34,7.0,21.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 5 yards (tackle by Kerby Joseph),2.7,2.68,8.0,2022,111
+2.0,11:35,3.0,6.0,DET 29,13.0,21.0,"Tua Tagovailoa pass complete to Jaylen Waddle for 29 yards, touchdown",2.68,7.0,8.0,2022,111
+2.0,11:30,,,DET 15,14.0,21.0,Jason Sanders kicks extra point good,0.0,0.0,8.0,2022,111
+2.0,11:30,,,MIA 35,14.0,21.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,111
+2.0,11:30,1.0,10.0,DET 25,14.0,21.0,Jamaal Williams up the middle for 4 yards (tackle by Jerome Baker),0.61,0.6,8.0,2022,111
+2.0,10:58,2.0,6.0,DET 29,14.0,21.0,Jared Goff pass complete short right to Amon-Ra St. Brown for 6 yards (tackle by Jevon Holland and Melvin Ingram),0.6,1.27,8.0,2022,111
+2.0,10:16,1.0,10.0,DET 35,14.0,21.0,Jamaal Williams left tackle for 7 yards (tackle by Justin Bethel and Elandon Roberts),1.27,1.67,8.0,2022,111
+2.0,9:39,2.0,3.0,DET 42,14.0,21.0,"Jamaal Williams left end for 15 yards (tackle by Elandon Roberts). Penalty on Christian Wilkins: Defensive Offside, 5 yards (declined)",1.67,2.72,8.0,2022,111
+2.0,9:17,1.0,10.0,MIA 43,14.0,21.0,Jared Goff pass incomplete short left intended for Amon-Ra St. Brown,2.72,2.18,8.0,2022,111
+2.0,9:11,2.0,10.0,MIA 43,14.0,21.0,Jared Goff pass incomplete short right intended for Josh Reynolds (defended by Zach Sieler),2.18,1.49,8.0,2022,111
+2.0,9:07,3.0,10.0,MIA 43,14.0,21.0,Jared Goff pass complete short right to Amon-Ra St. Brown for 12 yards (tackle by Xavien Howard),1.49,3.51,8.0,2022,111
+2.0,8:28,1.0,10.0,MIA 31,14.0,21.0,Jared Goff pass incomplete deep left intended for Josh Reynolds,3.51,2.97,8.0,2022,111
+2.0,8:23,2.0,10.0,MIA 31,14.0,21.0,Jamaal Williams up the middle for no gain (tackle by Duke Riley),2.97,2.28,8.0,2022,111
+2.0,7:46,3.0,10.0,MIA 31,14.0,21.0,Jared Goff pass complete short middle to Maurice Alexander for 7 yards (tackle by Xavien Howard),2.28,1.97,8.0,2022,111
+2.0,7:07,4.0,3.0,MIA 24,14.0,24.0,Michael Badgley 42 yard field goal good,1.97,3.0,8.0,2022,111
+2.0,7:02,,,DET 35,14.0,24.0,"Jack Fox kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,111
+2.0,7:02,1.0,10.0,MIA 25,14.0,24.0,Salvon Ahmed up the middle for 2 yards (tackle by Alex Anzalone),0.61,0.33,8.0,2022,111
+2.0,6:42,2.0,8.0,MIA 27,14.0,24.0,"Tua Tagovailoa pass complete to Hunter Long for no gain. Penalty on Tyreek Hill: Illegal Motion, 5 yards (accepted) (no play)",0.33,-0.34,8.0,2022,111
+2.0,6:15,2.0,13.0,MIA 22,14.0,24.0,Tua Tagovailoa pass incomplete intended for Cedrick Wilson (defended by Benito Jones),-0.34,-1.02,8.0,2022,111
+2.0,6:08,3.0,13.0,MIA 22,14.0,24.0,Tua Tagovailoa pass complete short right to Trent Sherfield for 14 yards (tackle by Amani Oruwariye),-1.02,1.33,8.0,2022,111
+2.0,5:29,1.0,10.0,MIA 36,14.0,24.0,Chase Edmonds left tackle for 4 yards (tackle by Alex Anzalone and Malcolm Rodriguez),1.33,1.33,8.0,2022,111
+2.0,4:50,2.0,6.0,MIA 40,14.0,24.0,"Tua Tagovailoa pass incomplete deep left intended for Tyreek Hill Penalty on MIA: Illegal Shift, 5 yards (declined)",1.33,0.63,8.0,2022,111
+2.0,4:42,3.0,6.0,MIA 40,14.0,24.0,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 13 yards (tackle by Juju Hughes),0.63,2.46,8.0,2022,111
+2.0,4:01,1.0,10.0,DET 47,14.0,24.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 18 yards (tackle by Kerby Joseph),2.46,3.64,8.0,2022,111
+2.0,3:20,1.0,10.0,DET 29,14.0,24.0,"Tua Tagovailoa sacked by Juju Hughes for -5 yards. Penalty on Terron Armstead: Offensive Holding, 10 yards (declined)",3.64,2.42,8.0,2022,111
+2.0,3:00,2.0,15.0,DET 34,14.0,24.0,"Tua Tagovailoa pass incomplete short middle. Penalty on Brandon Shell: Ineligible Downfield Pass, 5 yards (declined) . Penalty on Hunter Long: Offensive Pass Interference, 10 yards (declined)",2.42,1.75,8.0,2022,111
+2.0,2:56,3.0,15.0,DET 34,14.0,24.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 7 yards (tackle by Kerby Joseph),1.75,1.67,8.0,2022,111
+2.0,2:10,4.0,8.0,DET 27,17.0,24.0,Jason Sanders 45 yard field goal good,1.67,3.0,8.0,2022,111
+2.0,2:06,,,MIA 35,17.0,24.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,111
+2.0,2:06,1.0,10.0,DET 25,17.0,24.0,D'Andre Swift up the middle for 1 yard (tackle by Zach Sieler),0.61,0.2,8.0,2022,111
+2.0,2:00,2.0,9.0,DET 26,17.0,24.0,Jared Goff pass incomplete short middle intended for Craig Reynolds,0.2,-0.49,8.0,2022,111
+2.0,1:55,3.0,9.0,DET 26,17.0,24.0,"Jared Goff pass complete short middle to D'Andre Swift for 7 yards (tackle by Jevon Holland). Penalty on Jonah Jackson: Ineligible Downfield Pass, 5 yards (declined)",-0.49,-1.18,8.0,2022,111
+2.0,1:49,4.0,2.0,DET 33,17.0,24.0,C.J. Moore left end for 13 yards (tackle by Keion Crossen and Elijah Campbell),-1.18,1.99,8.0,2022,111
+2.0,1:08,1.0,10.0,DET 46,17.0,24.0,Jared Goff pass complete short middle to Jared Goff for 5 yards (tackle by Jevon Holland),1.99,2.13,8.0,2022,111
+2.0,0:41,2.0,5.0,MIA 49,17.0,24.0,Jared Goff pass complete short middle to Josh Reynolds for 9 yards (tackle by Jerome Baker and Duke Riley),2.13,2.92,8.0,2022,111
+2.0,0:30,1.0,10.0,MIA 40,17.0,24.0,Jared Goff pass complete to Amon-Ra St. Brown for 8 yards (tackle by Kader Kohou),2.92,3.45,8.0,2022,111
+2.0,0:24,2.0,2.0,MIA 32,17.0,24.0,Jared Goff pass complete short right to T.J. Hockenson for 11 yards (tackle by Kader Kohou),3.45,4.17,8.0,2022,111
+2.0,0:12,1.0,10.0,MIA 21,17.0,24.0,"Jared Goff pass complete to Amon-Ra St. Brown for 4 yards. Penalty on Justin Bethel: Illegal Contact, 5 yards (accepted) (no play)",4.17,4.51,8.0,2022,111
+2.0,0:12,1.0,10.0,MIA 16,17.0,24.0,"Jared Goff pass complete short right to D'Andre Swift for 8 yards (tackle by Jevon Holland). Penalty on Melvin Ingram: Defensive Offside, 5 yards (declined)",4.51,5.35,8.0,2022,111
+2.0,0:06,2.0,2.0,MIA 8,17.0,24.0,Jared Goff pass incomplete short left intended for Josh Reynolds,5.35,4.62,8.0,2022,111
+2.0,0:03,3.0,2.0,MIA 8,17.0,27.0,Michael Badgley 26 yard field goal good,4.62,3.0,8.0,2022,111
+3.0,15:00,,,DET 35,17.0,27.0,"Jack Fox kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,111
+3.0,15:00,1.0,10.0,MIA 25,17.0,27.0,Tua Tagovailoa pass complete deep left to Mike Gesicki for 20 yards (tackle by Kerby Joseph),0.61,1.93,8.0,2022,111
+3.0,14:21,1.0,10.0,MIA 45,17.0,27.0,Raheem Mostert right tackle for 5 yards (tackle by Will Harris and Alim McNeill),1.93,2.06,8.0,2022,111
+3.0,13:44,2.0,5.0,MIA 50,17.0,27.0,Tua Tagovailoa pass complete deep left to Tyreek Hill for 17 yards (tackle by Malcolm Rodriguez),2.06,3.38,8.0,2022,111
+3.0,13:04,1.0,10.0,DET 33,17.0,27.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 4 yards (tackle by Amani Oruwariye),3.38,3.38,8.0,2022,111
+3.0,12:21,2.0,6.0,DET 29,17.0,27.0,Raheem Mostert left end for 13 yards (tackle by Alex Anzalone and Kerby Joseph),3.38,4.51,8.0,2022,111
+3.0,11:35,1.0,10.0,DET 16,17.0,27.0,Raheem Mostert left tackle for 1 yard (tackle by Malcolm Rodriguez),4.51,4.05,8.0,2022,111
+3.0,11:01,2.0,9.0,DET 15,17.0,27.0,Tua Tagovailoa scrambles right end for 3 yards (tackle by Malcolm Rodriguez),4.05,3.73,8.0,2022,111
+3.0,10:14,3.0,6.0,DET 12,17.0,27.0,Tua Tagovailoa pass complete short left to Trent Sherfield for 11 yards (tackle by Amani Oruwariye),3.73,6.97,8.0,2022,111
+3.0,9:42,1.0,1.0,DET 1,17.0,27.0,Raheem Mostert up the middle for no gain (tackle by Kerby Joseph). Penalty on Amani Oruwariye: Defensive Offside (accepted) (no play),6.97,6.97,8.0,2022,111
+3.0,9:14,1.0,1.0,DET 1,23.0,27.0,"Alec Ingold up the middle for 1 yard, touchdown. Penalty on Amani Oruwariye: Defensive Offside (declined)",6.97,7.0,8.0,2022,111
+3.0,9:11,,,DET 15,24.0,27.0,Jason Sanders kicks extra point good,0.0,0.0,8.0,2022,111
+3.0,9:11,,,MIA 35,24.0,27.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,111
+3.0,9:11,1.0,10.0,DET 25,24.0,27.0,Jared Goff pass complete short left to Kalif Raymond for 6 yards (tackle by Jerome Baker),0.61,0.87,8.0,2022,111
+3.0,8:38,2.0,4.0,DET 31,24.0,27.0,D'Andre Swift left end for 7 yards (tackle by Jerome Baker and Elandon Roberts),0.87,1.47,8.0,2022,111
+3.0,8:00,1.0,10.0,DET 38,24.0,27.0,"Penalty on Penei Sewell: False Start, 5 yards (accepted) (no play)",1.47,1.14,8.0,2022,111
+3.0,7:42,1.0,15.0,DET 33,24.0,27.0,"D'Andre Swift left tackle for no gain (tackle by Andrew Van Ginkel). Penalty on Penei Sewell: Offensive Holding, 10 yards (accepted) (no play)",1.14,0.48,8.0,2022,111
+3.0,7:12,1.0,25.0,DET 23,24.0,27.0,"Penalty on Taylor Decker: False Start, 5 yards (accepted) (no play)",0.48,-0.11,8.0,2022,111
+3.0,6:51,1.0,30.0,DET 18,24.0,27.0,Jared Goff pass incomplete short left intended for T.J. Hockenson (defended by Zach Sieler),-0.11,-1.89,8.0,2022,111
+3.0,6:47,2.0,30.0,DET 18,24.0,27.0,Jared Goff pass complete short left to D'Andre Swift for 3 yards (tackle by Jerome Baker),-1.89,-2.01,8.0,2022,111
+3.0,6:08,3.0,27.0,DET 21,24.0,27.0,Jared Goff pass complete short left to D'Andre Swift for 2 yards (tackle by Zach Sieler),-2.01,-1.83,8.0,2022,111
+3.0,5:29,4.0,25.0,DET 23,24.0,27.0,"Jack Fox punts 57 yards, returned by Cedrick Wilson for 13 yards (tackle by Justin Jackson)",-1.83,-1.14,8.0,2022,111
+3.0,5:16,1.0,10.0,MIA 33,24.0,27.0,Tua Tagovailoa pass complete short left to Jaylen Waddle for 16 yards (tackle by Amani Oruwariye),1.14,2.19,8.0,2022,111
+3.0,4:37,1.0,10.0,MIA 49,24.0,27.0,Tua Tagovailoa pass incomplete short middle intended for Tyreek Hill (defended by Malcolm Rodriguez),2.19,1.65,8.0,2022,111
+3.0,4:32,2.0,10.0,MIA 49,24.0,27.0,Tua Tagovailoa pass complete short right to Braylon Sanders for 4 yards (tackle by Malcolm Rodriguez),1.65,1.49,8.0,2022,111
+3.0,3:50,3.0,6.0,DET 47,24.0,27.0,Tua Tagovailoa scrambles up the middle for 18 yards (tackle by Jeff Okudah),1.49,3.64,8.0,2022,111
+3.0,3:03,1.0,10.0,DET 29,24.0,27.0,Raheem Mostert left end for 4 yards (tackle by Will Harris),3.64,3.64,8.0,2022,111
+3.0,2:21,2.0,6.0,DET 25,24.0,27.0,Tyreek Hill right end for 7 yards (tackle by Juju Hughes and Amani Oruwariye),3.64,4.37,8.0,2022,111
+3.0,1:39,1.0,10.0,DET 18,24.0,27.0,Raheem Mostert up the middle for 4 yards (tackle by Alex Anzalone and Malcolm Rodriguez),4.37,4.43,8.0,2022,111
+3.0,0:58,2.0,6.0,DET 14,24.0,27.0,Tua Tagovailoa pass complete short right to Raheem Mostert for 3 yards,4.43,4.26,8.0,2022,111
+3.0,0:17,3.0,3.0,DET 11,30.0,27.0,"Tua Tagovailoa pass complete short left to Mike Gesicki for 11 yards, touchdown",4.26,7.0,8.0,2022,111
+3.0,0:12,,,DET 15,31.0,27.0,Jason Sanders kicks extra point good,0.0,0.0,8.0,2022,111
+3.0,0:12,,,MIA 35,31.0,27.0,"Jason Sanders kicks off 66 yards, returned by Maurice Alexander for 17 yards (tackle by Trent Sherfield)",0.0,-0.14,8.0,2022,111
+3.0,0:07,1.0,10.0,DET 16,31.0,27.0,Jared Goff pass complete short middle to Brock Wright for 6 yards (tackle by Elandon Roberts),-0.14,0.28,8.0,2022,111
+4.0,15:00,2.0,4.0,DET 22,31.0,27.0,Jamaal Williams up the middle for 4 yards (tackle by Raekwon Davis),0.28,0.67,8.0,2022,111
+4.0,14:27,1.0,10.0,DET 26,31.0,27.0,"Penalty on Taylor Decker: False Start, 5 yards (accepted) (no play)",0.67,0.34,8.0,2022,111
+4.0,14:27,1.0,15.0,DET 21,31.0,27.0,Jared Goff scrambles up the middle for 3 yards (tackle by Kader Kohou),0.34,-0.14,8.0,2022,111
+4.0,13:42,2.0,12.0,DET 24,31.0,27.0,"Jared Goff pass incomplete deep left intended for Kalif Raymond (defended by Keion Crossen). Penalty on Xavien Howard: Defensive Offside, 5 yards (accepted) (no play)",-0.14,0.54,8.0,2022,111
+4.0,13:42,2.0,7.0,DET 29,31.0,27.0,D'Andre Swift left end for -2 yards (tackle by Kader Kohou),0.54,-0.43,8.0,2022,111
+4.0,13:03,3.0,9.0,DET 27,31.0,27.0,Jared Goff sacked by Zach Sieler for -10 yards,-0.43,-2.32,8.0,2022,111
+4.0,12:21,4.0,19.0,DET 17,31.0,27.0,"Jack Fox punts 60 yards, returned by Cedrick Wilson for 11 yards (tackle by Chris Board). Penalty on Jaelan Phillips: Illegal Block Above the Waist, 10 yards (accepted)",-2.32,-0.54,8.0,2022,111
+4.0,12:06,1.0,10.0,MIA 24,31.0,27.0,Raheem Mostert left end for 12 yards (tackle by Juju Hughes),0.54,1.33,8.0,2022,111
+4.0,11:24,1.0,10.0,MIA 36,31.0,27.0,Tua Tagovailoa pass complete short right to Tyreek Hill for -2 yards (tackle by Will Harris),1.33,0.52,8.0,2022,111
+4.0,10:44,2.0,12.0,MIA 34,31.0,27.0,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 18 yards (tackle by Jeff Okudah),0.52,2.39,8.0,2022,111
+4.0,10:01,1.0,10.0,DET 48,31.0,27.0,Chase Edmonds right end for no gain (tackle by Derrick Barnes),2.39,1.85,8.0,2022,111
+4.0,9:16,2.0,10.0,DET 48,31.0,27.0,Chase Edmonds right end for 2 yards (tackle by Alex Anzalone and Derrick Barnes),1.85,1.42,8.0,2022,111
+4.0,8:33,3.0,8.0,DET 46,31.0,27.0,"Tua Tagovailoa pass incomplete Penalty on MIA: Illegal Shift, 5 yards (declined) . Penalty on Tua Tagovailoa: Illegal Motion, 5 yards (declined)",1.42,0.2,8.0,2022,111
+4.0,8:28,4.0,8.0,DET 46,31.0,27.0,"Thomas Morstead punts 38 yards, returned by Kalif Raymond for 4 yards (tackle by Keion Crossen)",0.2,0.35,8.0,2022,111
+4.0,8:19,1.0,10.0,DET 12,31.0,27.0,Jared Goff pass complete short left to Jamaal Williams for 8 yards (tackle by Jevon Holland),-0.35,0.29,8.0,2022,111
+4.0,7:51,2.0,2.0,DET 20,31.0,27.0,Jamaal Williams right end for 8 yards (tackle by Jaelan Phillips),0.29,0.81,8.0,2022,111
+4.0,7:17,1.0,10.0,DET 28,31.0,27.0,Jared Goff pass complete to Amon-Ra St. Brown for 8 yards (tackle by Jevon Holland),0.81,1.34,8.0,2022,111
+4.0,6:31,2.0,2.0,DET 36,31.0,27.0,Jared Goff pass complete short right to Jamaal Williams for 5 yards (tackle by Elandon Roberts and Kader Kohou),1.34,1.66,8.0,2022,111
+4.0,5:55,1.0,10.0,DET 41,31.0,27.0,Craig Reynolds left tackle for 2 yards (tackle by John Jenkins and Zach Sieler),1.66,1.39,8.0,2022,111
+4.0,5:15,2.0,8.0,DET 43,31.0,27.0,"Jared Goff pass complete short right to D'Andre Swift for no gain (tackle by Duke Riley). Penalty on Christian Wilkins: Defensive Offside, 5 yards (accepted) (no play)",1.39,2.07,8.0,2022,111
+4.0,4:51,2.0,3.0,DET 48,31.0,27.0,Jared Goff pass complete short middle to Amon-Ra St. Brown for 8 yards (tackle by Elandon Roberts and Jevon Holland),2.07,2.65,8.0,2022,111
+4.0,4:21,1.0,10.0,MIA 44,31.0,27.0,D'Andre Swift right tackle for -2 yards (tackle by Christian Wilkins),2.65,1.84,8.0,2022,111
+4.0,3:47,2.0,12.0,MIA 46,31.0,27.0,Jared Goff pass incomplete short middle intended for Amon-Ra St. Brown,1.84,1.16,8.0,2022,111
+4.0,3:43,3.0,12.0,MIA 46,31.0,27.0,Jared Goff pass complete short left to T.J. Hockenson for 11 yards (tackle by Duke Riley and Keion Crossen),1.16,1.0,8.0,2022,111
+4.0,3:00,4.0,1.0,MIA 35,31.0,27.0,Jared Goff pass incomplete intended for Josh Reynolds,1.0,-1.33,8.0,2022,111
+4.0,2:52,1.0,10.0,MIA 36,31.0,27.0,Raheem Mostert up the middle for 9 yards (tackle by Derrick Barnes),1.33,2.01,8.0,2022,111
+4.0,2:07,2.0,1.0,MIA 45,31.0,27.0,Raheem Mostert up the middle for 2 yards (tackle by Isaiah Buggs and Derrick Barnes),2.01,2.06,8.0,2022,111
+4.0,2:00,1.0,10.0,MIA 47,31.0,27.0,Tua Tagovailoa pass complete short left to Tyreek Hill for 19 yards (tackle by Julian Okwara),2.06,3.31,8.0,2022,111
+4.0,1:56,1.0,10.0,DET 34,31.0,27.0,Raheem Mostert up the middle for no gain (tackle by Alex Anzalone and Josh Paschal),3.31,2.77,8.0,2022,111
+4.0,1:51,,,,,,Timeout #1 by Detroit Lions,,,8.0,2022,111
+4.0,1:51,2.0,10.0,DET 34,31.0,27.0,Raheem Mostert right end for 2 yards (tackle by Isaiah Buggs),2.77,2.35,8.0,2022,111
+4.0,1:47,,,,,,Timeout #2 by Detroit Lions,,,8.0,2022,111
+4.0,1:47,3.0,8.0,DET 32,31.0,27.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 8 yards (tackle by Jeff Okudah),2.35,3.97,8.0,2022,111
+4.0,1:40,,,,,,Timeout #3 by Detroit Lions,,,8.0,2022,111
+4.0,1:40,1.0,10.0,DET 24,31.0,27.0,Tua Tagovailoa kneels for no gain,3.97,3.43,8.0,2022,111
+4.0,0:58,2.0,10.0,DET 24,31.0,27.0,Tua Tagovailoa kneels for -1 yards,3.43,2.61,8.0,2022,111
+4.0,0:36,3.0,11.0,DET 25,31.0,27.0,Tua Tagovailoa kneels for -1 yards,2.61,1.74,8.0,2022,111

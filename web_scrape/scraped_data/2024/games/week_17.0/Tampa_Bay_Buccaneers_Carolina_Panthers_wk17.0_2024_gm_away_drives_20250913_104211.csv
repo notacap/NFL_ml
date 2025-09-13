@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,11:35,CAR 30,6,3:20,70,Touchdown,0,Panthers,17.0,2024,248
+2,1,1:13,CAR 30,3,1:22,-9,Punt,0,Panthers,17.0,2024,248
+3,2,10:31,CAR 30,3,0:22,0,Punt,0,Panthers,17.0,2024,248
+4,2,8:19,CAR 25,3,1:30,3,Punt,0,Panthers,17.0,2024,248
+5,2,1:11,CAR 30,4,0:21,70,Touchdown,0,Panthers,17.0,2024,248
+6,2,0:20,CAR 24,4,0:20,41,Missed FG,0,Panthers,17.0,2024,248
+7,3,15:00,CAR 30,5,3:22,12,Punt,0,Panthers,17.0,2024,248
+8,3,5:48,CAR 30,3,0:25,0,Blocked Punt,0,Panthers,17.0,2024,248
+9,3,5:23,CAR 30,5,1:50,9,Punt,0,Panthers,17.0,2024,248
+10,4,13:30,CAR 30,11,5:57,22,Downs,0,Panthers,17.0,2024,248

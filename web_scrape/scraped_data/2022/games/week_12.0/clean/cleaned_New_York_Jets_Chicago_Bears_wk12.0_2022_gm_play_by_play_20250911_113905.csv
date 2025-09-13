@@ -1,0 +1,154 @@
+Quarter,Time,Down,ToGo,Location,CHI,NYJ,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Bears won the coin toss and deferred, Jets to receive the opening kickoff.",,,12.0,2022,174
+1.0,15:00,,,CHI 35,0.0,0.0,"Trenton Gill kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,174
+1.0,15:00,1.0,10.0,NYJ 25,0.0,0.0,Michael Carter right tackle for 6 yards (tackle by Nicholas Morrow and Kindle Vildor),0.61,0.87,12.0,2022,174
+1.0,14:25,2.0,4.0,NYJ 31,0.0,0.0,"Michael Carter for no gain. Penalty on Justin Jones: Defensive Holding, 5 yards (offset) . Penalty on Cedric Ogbuehi: Offensive Holding, 10 yards (offset) (no play)",0.87,0.87,12.0,2022,174
+1.0,14:09,2.0,4.0,NYJ 31,0.0,0.0,Mike White pass complete short right to Garrett Wilson for 11 yards (tackle by Kindle Vildor and Jack Sanborn),0.87,1.73,12.0,2022,174
+1.0,13:30,1.0,10.0,NYJ 42,0.0,0.0,Mike White pass complete short left to Tyler Conklin for 12 yards (tackle by Jaylon Johnson),1.73,2.52,12.0,2022,174
+1.0,12:52,1.0,10.0,CHI 46,0.0,0.0,Mike White pass complete short left to Tyler Conklin for 9 yards (tackle by DeAndre Houston-Carson and Jack Sanborn),2.52,3.19,12.0,2022,174
+1.0,12:12,2.0,1.0,CHI 37,0.0,0.0,Mike White pass complete short left to Zonovan Knight for 16 yards (tackle by Jack Sanborn),3.19,4.17,12.0,2022,174
+1.0,11:31,1.0,10.0,CHI 21,0.0,0.0,Mike White pass complete short right to Garrett Wilson for 13 yards (tackle by DeAndre Houston-Carson),4.17,5.37,12.0,2022,174
+1.0,10:52,1.0,8.0,CHI 8,0.0,0.0,Mike White pass incomplete short right intended for Garrett Wilson,5.37,4.57,12.0,2022,174
+1.0,10:48,2.0,8.0,CHI 8,0.0,0.0,Zonovan Knight right end for no gain (tackle by Nicholas Morrow and Eddie Jackson),4.57,3.58,12.0,2022,174
+1.0,10:17,3.0,8.0,CHI 8,0.0,6.0,"Mike White pass complete short right to Garrett Wilson for 8 yards, touchdown. Penalty on Kindle Vildor: Defensive Holding, 5 yards (declined)",3.58,7.0,12.0,2022,174
+1.0,10:12,,,CHI 15,0.0,7.0,Greg Zuerlein kicks extra point good,0.0,0.0,12.0,2022,174
+1.0,10:12,,,NYJ 35,0.0,7.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,174
+1.0,10:12,1.0,10.0,CHI 25,0.0,7.0,David Montgomery left tackle for 4 yards (tackle by Nathan Shepherd and C.J. Mosley),0.61,0.6,12.0,2022,174
+1.0,9:34,2.0,6.0,CHI 29,0.0,7.0,Trevor Siemian pass incomplete short right intended for Cole Kmet,0.6,-0.1,12.0,2022,174
+1.0,9:29,3.0,6.0,CHI 29,0.0,7.0,Trevor Siemian pass complete short left to David Montgomery for 26 yards (tackle by Lamarcus Joyner and C.J. Mosley),-0.1,2.59,12.0,2022,174
+1.0,8:50,1.0,10.0,NYJ 45,0.0,7.0,Darrynton Evans left end for 3 yards (tackle by D.J. Reed),2.59,2.45,12.0,2022,174
+1.0,8:13,2.0,7.0,NYJ 42,0.0,7.0,Trevor Siemian pass complete short middle to Darrynton Evans for 33 yards (tackle by C.J. Mosley),2.45,5.14,12.0,2022,174
+1.0,7:29,1.0,9.0,NYJ 9,0.0,7.0,David Montgomery right end for 2 yards (tackle by John Franklin-Myers),5.14,4.76,12.0,2022,174
+1.0,6:48,2.0,7.0,NYJ 7,0.0,7.0,Trevor Siemian pass complete short right to Trevon Wesco for 3 yards (tackle by Lamarcus Joyner),4.76,4.49,12.0,2022,174
+1.0,6:06,3.0,4.0,NYJ 4,0.0,7.0,Trevor Siemian pass incomplete short right intended for Chase Claypool,4.49,3.03,12.0,2022,174
+1.0,6:02,4.0,4.0,NYJ 4,3.0,7.0,Cairo Santos 22 yard field goal good,3.03,3.0,12.0,2022,174
+1.0,5:59,,,CHI 35,3.0,7.0,"Trenton Gill kicks off 67 yards, returned by Zonovan Knight for 18 yards (tackle by Matthew Adams and Josh Blackwell)",0.0,-0.14,12.0,2022,174
+1.0,5:54,1.0,10.0,NYJ 16,3.0,7.0,Michael Carter left end for -1 yards (tackle by Jack Sanborn and Jaylon Johnson),-0.14,-0.78,12.0,2022,174
+1.0,5:33,2.0,11.0,NYJ 15,3.0,7.0,Mike White pass complete short right to Michael Carter for 6 yards (tackle by Jaylon Jones),-0.78,-0.7,12.0,2022,174
+1.0,4:28,3.0,5.0,NYJ 21,3.0,7.0,Mike White pass incomplete short left intended for Corey Davis (defended by Jaylon Johnson),-0.7,-1.96,12.0,2022,174
+1.0,4:22,4.0,5.0,NYJ 21,3.0,7.0,"Braden Mann punts 62 yards, returned by Dante Pettis for 12 yards (tackle by Chazz Surratt)",-1.96,-0.87,12.0,2022,174
+1.0,4:11,1.0,10.0,CHI 29,3.0,7.0,Trevor Siemian pass complete short middle to Chase Claypool for 20 yards (tackle by C.J. Mosley and Solomon Thomas),0.87,2.19,12.0,2022,174
+1.0,3:33,1.0,10.0,CHI 49,3.0,7.0,David Montgomery left guard for 6 yards (tackle by Quincy Williams and D.J. Reed),2.19,2.46,12.0,2022,174
+1.0,3:02,2.0,4.0,NYJ 45,3.0,7.0,Trevor Siemian pass complete short left to David Montgomery for 3 yards (tackle by D.J. Reed and Kwon Alexander),2.46,2.15,12.0,2022,174
+1.0,2:25,3.0,1.0,NYJ 42,3.0,7.0,Trevor Siemian up the middle for 3 yards (tackle by Solomon Thomas),2.15,2.98,12.0,2022,174
+1.0,1:49,1.0,10.0,NYJ 39,3.0,7.0,Velus Jones for -1 yards (tackle by Quincy Williams),2.98,2.3,12.0,2022,174
+1.0,1:03,,,,,,Timeout #1 by Chicago Bears,,,12.0,2022,174
+1.0,1:03,2.0,11.0,NYJ 40,3.0,7.0,"Trevor Siemian pass complete deep right to Chase Claypool for 31 yards (tackle by Sauce Gardner). Penalty on Sauce Gardner: Defensive Pass Interference, 15 yards (declined)",2.3,5.14,12.0,2022,174
+1.0,0:43,1.0,9.0,NYJ 9,3.0,7.0,David Montgomery up the middle for 3 yards (tackle by Nathan Shepherd),5.14,4.95,12.0,2022,174
+2.0,15:00,2.0,6.0,NYJ 6,3.0,7.0,David Montgomery left guard for 2 yards (tackle by Lamarcus Joyner and Carl Lawson),4.95,4.49,12.0,2022,174
+2.0,14:24,3.0,4.0,NYJ 4,9.0,7.0,"Trevor Siemian pass complete short middle to Byron Pringle for 4 yards, touchdown",4.49,7.0,12.0,2022,174
+2.0,14:20,,,NYJ 15,10.0,7.0,Cairo Santos kicks extra point good,0.0,0.0,12.0,2022,174
+2.0,14:20,,,CHI 35,10.0,7.0,"Trenton Gill kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,174
+2.0,14:20,1.0,10.0,NYJ 25,10.0,7.0,Mike White pass incomplete short right intended for Garrett Wilson (defended by Eddie Jackson),0.61,0.06,12.0,2022,174
+2.0,14:15,2.0,10.0,NYJ 25,10.0,7.0,Michael Carter left tackle for 4 yards (tackle by Jack Sanborn),0.06,-0.1,12.0,2022,174
+2.0,13:37,3.0,6.0,NYJ 29,10.0,7.0,Mike White pass complete short right to C.J. Uzomah for 7 yards (tackle by Jack Sanborn and Kindle Vildor),-0.1,1.33,12.0,2022,174
+2.0,12:57,1.0,10.0,NYJ 36,10.0,7.0,Braxton Berrios right end for -1 yards (tackle by Kindle Vildor),1.33,0.66,12.0,2022,174
+2.0,12:18,2.0,11.0,NYJ 35,10.0,7.0,Zonovan Knight right tackle for 2 yards (tackle by Mike Pennel),0.66,0.23,12.0,2022,174
+2.0,11:37,3.0,9.0,NYJ 37,10.0,7.0,Mike White pass complete deep middle to Elijah Moore for 42 yards (tackle by Eddie Jackson),0.23,4.17,12.0,2022,174
+2.0,10:53,1.0,10.0,CHI 21,10.0,7.0,Garrett Wilson right end for -1 yards (tackle by Nicholas Morrow),4.17,3.49,12.0,2022,174
+2.0,10:10,2.0,11.0,CHI 22,10.0,7.0,Mike White pass incomplete short middle intended for Garrett Wilson,3.49,2.81,12.0,2022,174
+2.0,10:07,3.0,11.0,CHI 22,10.0,7.0,Mike White pass complete short middle to Braxton Berrios for 4 yards (tackle by Justin Jones and Nicholas Morrow),2.81,2.25,12.0,2022,174
+2.0,9:26,4.0,7.0,CHI 18,10.0,7.0,"Braden Mann for no gain. Braden Mann fumbles, recovered by Braden Mann at CHI-18 Braden Mann pass incomplete short right",2.25,-0.04,12.0,2022,174
+2.0,9:22,1.0,10.0,CHI 18,10.0,7.0,Darrynton Evans right tackle for 4 yards (tackle by C.J. Mosley),0.04,0.14,12.0,2022,174
+2.0,8:42,2.0,6.0,CHI 22,10.0,7.0,Darrynton Evans right tackle for 5 yards (tackle by Jordan Whitehead),0.14,-0.02,12.0,2022,174
+2.0,8:31,3.0,1.0,CHI 27,10.0,7.0,Trevor Siemian right tackle for no gain (tackle by Jermaine Johnson and Kwon Alexander),-0.02,-1.57,12.0,2022,174
+2.0,7:19,4.0,1.0,CHI 27,10.0,7.0,"Trenton Gill punts 51 yards, fair catch by Braxton Berrios at NYJ-22",-1.57,-0.41,12.0,2022,174
+2.0,7:11,1.0,10.0,NYJ 22,10.0,7.0,Michael Carter left tackle for 4 yards (tackle by Armon Watts and Justin Jones),0.41,0.41,12.0,2022,174
+2.0,6:38,2.0,6.0,NYJ 26,10.0,7.0,Michael Carter left tackle for 4 yards (tackle by Jack Sanborn and Dominique Robinson),0.41,0.23,12.0,2022,174
+2.0,5:52,3.0,2.0,NYJ 30,10.0,7.0,Mike White pass complete short left to Ty Johnson for 16 yards (tackle by Eddie Jackson),0.23,1.99,12.0,2022,174
+2.0,5:09,1.0,10.0,NYJ 46,10.0,13.0,"Mike White pass complete deep right to Garrett Wilson for 54 yards, touchdown",1.99,7.0,12.0,2022,174
+2.0,4:57,,,CHI 15,10.0,14.0,Greg Zuerlein kicks extra point good,0.0,0.0,12.0,2022,174
+2.0,4:57,,,NYJ 35,10.0,14.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,174
+2.0,4:57,1.0,10.0,CHI 25,10.0,14.0,Trevor Siemian pass incomplete short right,0.61,0.06,12.0,2022,174
+2.0,4:51,2.0,10.0,CHI 25,10.0,14.0,David Montgomery up the middle for 1 yard (tackle by Micheal Clemons),0.06,-0.49,12.0,2022,174
+2.0,3:36,3.0,9.0,CHI 26,10.0,14.0,"Trevor Siemian pass complete short right to Equanimeous St. Brown for 7 yards (tackle by Jordan Whitehead) Penalty on CHI: Illegal Shift, 5 yards (declined)",-0.49,-1.18,12.0,2022,174
+2.0,3:50,4.0,2.0,CHI 33,10.0,14.0,"Trenton Gill punts 56 yards, returned by Braxton Berrios for 16 yards (tackle by Velus Jones and Jack Sanborn)",-1.18,-0.74,12.0,2022,174
+2.0,3:39,1.0,10.0,NYJ 27,10.0,14.0,Zonovan Knight right guard for 6 yards (tackle by Jack Sanborn and Angelo Blackson),0.74,1.01,12.0,2022,174
+2.0,3:07,2.0,4.0,NYJ 33,10.0,14.0,Zonovan Knight right guard for 7 yards (tackle by Jaylon Jones and Elijah Hicks),1.01,1.6,12.0,2022,174
+2.0,2:28,1.0,10.0,NYJ 40,10.0,14.0,Elijah Moore left end for -4 yards (tackle by Jack Sanborn and Jaylon Johnson),1.6,0.51,12.0,2022,174
+2.0,2:00,2.0,14.0,NYJ 36,10.0,14.0,Mike White pass complete short left to C.J. Uzomah for 8 yards (tackle by Jaylon Johnson),0.51,0.89,12.0,2022,174
+2.0,1:53,3.0,6.0,NYJ 44,10.0,14.0,Mike White pass complete short left to Corey Davis for 9 yards (tackle by Jaylon Johnson),0.89,2.46,12.0,2022,174
+2.0,1:14,1.0,10.0,CHI 47,10.0,14.0,Mike White pass complete short middle to Michael Carter for 9 yards (tackle by Jack Sanborn),2.46,3.13,12.0,2022,174
+2.0,0:49,2.0,1.0,CHI 38,10.0,14.0,"Michael Carter left tackle for no gain (tackle by Jack Sanborn). Penalty on Garrett Wilson: Illegal Shift, 5 yards (accepted) (no play)",3.13,2.45,12.0,2022,174
+2.0,0:47,2.0,6.0,CHI 43,10.0,14.0,Mike White sacked by Armon Watts for -7 yards,2.45,0.83,12.0,2022,174
+2.0,0:23,,,,,,Timeout #1 by New York Jets,,,12.0,2022,174
+2.0,0:23,3.0,13.0,CHI 50,10.0,14.0,Mike White pass complete short right to Denzel Mims for 11 yards (tackle by Nicholas Morrow),0.83,0.66,12.0,2022,174
+2.0,0:17,,,,,,Timeout #2 by New York Jets,,,12.0,2022,174
+2.0,0:17,,,,,,Timeout #3 by New York Jets,,,12.0,2022,174
+2.0,0:17,4.0,2.0,CHI 39,10.0,17.0,Greg Zuerlein 57 yard field goal good,0.66,3.0,12.0,2022,174
+2.0,0:12,,,NYJ 35,10.0,17.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,174
+2.0,0:12,1.0,10.0,CHI 25,10.0,17.0,Trevor Siemian kneels for -1 yards,0.61,-0.07,12.0,2022,174
+3.0,15:00,,,NYJ 35,10.0,17.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,174
+3.0,15:00,1.0,10.0,CHI 25,10.0,17.0,Trevor Siemian sacked by and Nathan Shepherd for -7 yards and John Franklin-Myers for -7 yards,0.61,-0.98,12.0,2022,174
+3.0,14:19,2.0,17.0,CHI 18,10.0,17.0,David Montgomery left guard for 4 yards (tackle by Quinnen Williams and Carl Lawson),-0.98,-1.02,12.0,2022,174
+3.0,13:33,3.0,13.0,CHI 22,10.0,17.0,Trevor Siemian pass incomplete short middle intended for David Montgomery,-1.02,-1.9,12.0,2022,174
+3.0,13:28,4.0,13.0,CHI 22,10.0,17.0,"Trenton Gill punts 41 yards, fair catch by Braxton Berrios at NYJ-37",-1.9,-1.4,12.0,2022,174
+3.0,13:21,1.0,10.0,NYJ 37,10.0,17.0,Mike White pass complete short right to C.J. Uzomah for 2 yards (tackle by DeAndre Houston-Carson),1.4,1.13,12.0,2022,174
+3.0,12:42,2.0,8.0,NYJ 39,10.0,17.0,Michael Carter right guard for 4 yards (tackle by Dominique Robinson and Justin Jones),1.13,0.96,12.0,2022,174
+3.0,12:04,3.0,4.0,NYJ 43,10.0,17.0,Mike White pass incomplete short right intended for Corey Davis (defended by Kindle Vildor),0.96,-0.52,12.0,2022,174
+3.0,11:59,4.0,4.0,NYJ 43,10.0,17.0,Braden Mann punts 56 yards downed by Justin Hardee,-0.52,0.38,12.0,2022,174
+3.0,11:48,1.0,10.0,CHI 1,10.0,17.0,David Montgomery up the middle for 13 yards (tackle by Lamarcus Joyner),-0.38,-0.28,12.0,2022,174
+3.0,11:21,1.0,10.0,CHI 14,10.0,17.0,Velus Jones left end for 7 yards (tackle by C.J. Mosley),-0.28,0.28,12.0,2022,174
+3.0,10:43,2.0,3.0,CHI 21,10.0,17.0,Trevor Siemian pass incomplete deep left intended for Cole Kmet,0.28,-0.56,12.0,2022,174
+3.0,10:36,,,,,,Timeout #1 by Chicago Bears,,,12.0,2022,174
+3.0,10:36,3.0,3.0,CHI 21,10.0,17.0,Trevor Siemian sacked by Bryce Huff for -7 yards,-0.56,-2.47,12.0,2022,174
+3.0,10:07,4.0,10.0,CHI 14,10.0,17.0,"Trenton Gill punts 61 yards, returned by Braxton Berrios for 22 yards (tackle by Matthew Adams)",-2.47,-2.06,12.0,2022,174
+3.0,9:59,1.0,10.0,NYJ 47,10.0,17.0,Zonovan Knight left end for 8 yards (tackle by Matthew Adams),2.06,2.6,12.0,2022,174
+3.0,9:22,2.0,2.0,CHI 45,10.0,17.0,Zonovan Knight left end for 7 yards (tackle by Jack Sanborn and DeAndre Houston-Carson),2.6,3.05,12.0,2022,174
+3.0,8:39,1.0,10.0,CHI 38,10.0,17.0,Braxton Berrios right end for 10 yards (tackle by Jaylon Johnson),3.05,3.71,12.0,2022,174
+3.0,8:00,1.0,10.0,CHI 28,10.0,17.0,Zonovan Knight right guard for 3 yards (tackle by DeAndre Houston-Carson and Nicholas Morrow),3.71,3.57,12.0,2022,174
+3.0,7:20,2.0,7.0,CHI 25,10.0,17.0,Ty Johnson right guard for 3 yards (tackle by Mike Pennel and DeAndre Houston-Carson),3.57,3.27,12.0,2022,174
+3.0,6:41,3.0,4.0,CHI 22,10.0,23.0,"Mike White pass complete deep left to Elijah Moore for 22 yards, touchdown",3.27,7.0,12.0,2022,174
+3.0,6:35,,,CHI 15,10.0,24.0,Greg Zuerlein kicks extra point good,0.0,0.0,12.0,2022,174
+3.0,6:35,,,NYJ 35,10.0,24.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,174
+3.0,6:35,1.0,10.0,CHI 25,10.0,24.0,Trevor Siemian pass complete short right to Cole Kmet for 14 yards (tackle by Jordan Whitehead),0.61,1.53,12.0,2022,174
+3.0,5:55,1.0,10.0,CHI 39,10.0,24.0,Darrynton Evans up the middle for 2 yards (tackle by D.J. Reed),1.53,1.26,12.0,2022,174
+3.0,5:16,2.0,8.0,CHI 41,10.0,24.0,Darrynton Evans right tackle for 3 yards (tackle by Sauce Gardner and John Franklin-Myers),1.26,0.96,12.0,2022,174
+3.0,4:32,3.0,5.0,CHI 44,10.0,24.0,Trevor Siemian pass incomplete deep left intended for Equanimeous St. Brown,0.96,-0.46,12.0,2022,174
+3.0,4:27,4.0,5.0,CHI 44,10.0,24.0,Trenton Gill punts 35 yards downed by Joe Thomas,-0.46,-0.34,12.0,2022,174
+3.0,4:19,1.0,10.0,NYJ 21,10.0,24.0,Zonovan Knight left guard for 4 yards (tackle by Armon Watts),0.34,0.34,12.0,2022,174
+3.0,3:54,2.0,6.0,NYJ 25,10.0,24.0,Mike White pass complete deep right to Tyler Conklin for 29 yards (tackle by Elijah Hicks),0.34,2.46,12.0,2022,174
+3.0,3:16,1.0,10.0,CHI 47,10.0,24.0,Mike White pass complete short left to Zonovan Knight for 14 yards. Zonovan Knight fumbles. Zonovan Knight fumbles out of bounds,2.46,3.45,12.0,2022,174
+3.0,2:36,1.0,10.0,CHI 32,10.0,30.0,"Ty Johnson left tackle for 32 yards, touchdown",3.45,7.0,12.0,2022,174
+3.0,2:28,,,CHI 15,10.0,31.0,Greg Zuerlein kicks extra point good,0.0,0.0,12.0,2022,174
+3.0,2:28,,,NYJ 35,10.0,31.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,174
+3.0,2:28,1.0,10.0,CHI 25,10.0,31.0,"David Montgomery for no gain. Penalty on Braxton Jones: Offensive Holding, 10 yards (accepted) (no play)",0.61,-0.41,12.0,2022,174
+3.0,2:07,1.0,20.0,CHI 15,10.0,31.0,David Montgomery right guard for 14 yards (tackle by Jordan Whitehead and Sauce Gardner),-0.41,0.6,12.0,2022,174
+3.0,1:29,2.0,6.0,CHI 29,10.0,31.0,David Montgomery left tackle for -1 yards (tackle by Solomon Thomas),0.6,-0.23,12.0,2022,174
+3.0,0:55,3.0,7.0,CHI 28,10.0,31.0,Trevor Siemian scrambles left end for 6 yards (tackle by D.J. Reed),-0.23,-1.11,12.0,2022,174
+3.0,0:11,,,,,,Timeout #2 by Chicago Bears,,,12.0,2022,174
+3.0,0:11,4.0,1.0,CHI 34,10.0,31.0,David Montgomery for 7 yards (tackle by Nathan Shepherd and Lamarcus Joyner),-1.11,1.66,12.0,2022,174
+4.0,15:00,1.0,10.0,CHI 41,10.0,31.0,Trevor Siemian pass incomplete short right intended for Khari Blasingame,1.66,1.12,12.0,2022,174
+4.0,14:52,2.0,10.0,CHI 41,10.0,31.0,David Montgomery left guard for 11 yards (tackle by Tanzel Smart),1.12,2.39,12.0,2022,174
+4.0,14:17,1.0,10.0,NYJ 48,10.0,31.0,Darrynton Evans left guard for 1 yard (tackle by C.J. Mosley and Tanzel Smart),2.39,1.98,12.0,2022,174
+4.0,13:36,2.0,9.0,NYJ 47,10.0,31.0,"Trevor Siemian pass complete short left to Cole Kmet for 7 yards. Cole Kmet fumbles (forced by Kwon Alexander), recovered by Cole Kmet at NYJ-40",1.98,2.21,12.0,2022,174
+4.0,12:47,3.0,2.0,NYJ 40,10.0,31.0,Darrynton Evans left end for 8 yards (tackle by Kwon Alexander),2.21,3.45,12.0,2022,174
+4.0,12:38,1.0,10.0,NYJ 32,10.0,31.0,Trevor Siemian pass complete short left to David Montgomery for 5 yards (tackle by Solomon Thomas and C.J. Mosley),3.45,3.58,12.0,2022,174
+4.0,11:57,2.0,5.0,NYJ 27,10.0,31.0,David Montgomery right tackle for no gain (tackle by Michael Carter and Micheal Clemons),3.58,2.87,12.0,2022,174
+4.0,11:15,3.0,5.0,NYJ 27,10.0,31.0,Trevor Siemian pass incomplete short left intended for Dante Pettis,2.87,1.72,12.0,2022,174
+4.0,11:08,4.0,5.0,NYJ 27,10.0,31.0,Trevor Siemian pass incomplete deep right intended for Chase Claypool (defended by Lamarcus Joyner),1.72,-0.74,12.0,2022,174
+4.0,11:03,1.0,10.0,NYJ 27,10.0,31.0,Zonovan Knight left guard for 4 yards (tackle by DeAndre Houston-Carson and Justin Jones),0.74,0.74,12.0,2022,174
+4.0,10:30,2.0,6.0,NYJ 31,10.0,31.0,Mike White pass complete short right to Garrett Wilson for 9 yards (tackle by Jaylon Johnson),0.74,1.6,12.0,2022,174
+4.0,9:54,1.0,10.0,NYJ 40,10.0,31.0,Zonovan Knight right end for 19 yards (tackle by Elijah Hicks),1.6,2.85,12.0,2022,174
+4.0,9:09,1.0,10.0,CHI 41,10.0,31.0,Mike White pass complete short middle to Zonovan Knight for 4 yards (tackle by Jack Sanborn),2.85,2.85,12.0,2022,174
+4.0,8:31,2.0,6.0,CHI 37,10.0,31.0,Ty Johnson left tackle for 2 yards (tackle by Justin Jones and Nicholas Morrow),2.85,2.41,12.0,2022,174
+4.0,8:12,3.0,4.0,CHI 35,10.0,31.0,Mike White pass incomplete short right intended for Ty Johnson,2.41,0.98,12.0,2022,174
+4.0,8:09,4.0,4.0,CHI 35,10.0,31.0,Greg Zuerlein 53 yard field goal no good,0.98,-1.8,12.0,2022,174
+4.0,8:05,1.0,10.0,CHI 43,10.0,31.0,Trevor Siemian pass incomplete short right intended for Chase Claypool,1.8,1.25,12.0,2022,174
+4.0,7:59,2.0,10.0,CHI 43,10.0,31.0,Darrynton Evans up the middle for 2 yards (tackle by Jermaine Johnson),1.25,0.83,12.0,2022,174
+4.0,7:08,3.0,8.0,CHI 45,10.0,31.0,Trevor Siemian pass complete short left to Cole Kmet for 6 yards (tackle by Michael Carter and C.J. Mosley),0.83,0.0,12.0,2022,174
+4.0,6:41,4.0,2.0,NYJ 49,10.0,31.0,Darrynton Evans left tackle for 6 yards (tackle by Quincy Williams),0.0,2.72,12.0,2022,174
+4.0,6:14,1.0,10.0,NYJ 43,10.0,31.0,Trevor Siemian pass complete short right to Dante Pettis for 12 yards (tackle by Quincy Williams),2.72,3.51,12.0,2022,174
+4.0,5:51,1.0,10.0,NYJ 31,10.0,31.0,Trevor Siemian pass complete short right to Byron Pringle for 8 yards (tackle by C.J. Mosley and D.J. Reed),3.51,4.05,12.0,2022,174
+4.0,5:27,2.0,2.0,NYJ 23,10.0,31.0,David Montgomery right tackle for 13 yards (tackle by Jordan Whitehead and Quincy Williams),4.05,5.14,12.0,2022,174
+4.0,5:09,1.0,9.0,NYJ 9,10.0,31.0,Trevor Siemian pass short middle intended for Cole Kmet is intercepted by C.J. Mosley at NYJ-3 and returned for no gain (tackle by Byron Pringle),5.14,0.38,12.0,2022,174
+4.0,5:04,1.0,10.0,NYJ 3,10.0,31.0,Zonovan Knight left tackle for 5 yards (tackle by Nicholas Morrow and Mike Pennel),-0.38,-0.42,12.0,2022,174
+4.0,4:23,2.0,5.0,NYJ 8,10.0,31.0,Zonovan Knight right end for 7 yards (tackle by Jack Sanborn and Elijah Hicks),-0.42,-0.22,12.0,2022,174
+4.0,3:37,1.0,10.0,NYJ 15,10.0,31.0,Zonovan Knight left end for no gain (tackle by Mike Pennel and Trevis Gipson),-0.22,-0.71,12.0,2022,174
+4.0,2:55,2.0,10.0,NYJ 15,10.0,31.0,Zonovan Knight left end for -3 yards (tackle by DeAndre Houston-Carson),-0.71,-1.77,12.0,2022,174
+4.0,2:52,,,,,,Timeout #3 by Chicago Bears,,,12.0,2022,174
+4.0,2:52,3.0,13.0,NYJ 12,10.0,31.0,Ty Johnson right guard for 16 yards (tackle by Elijah Hicks),-1.77,0.81,12.0,2022,174
+4.0,2:13,1.0,10.0,NYJ 28,10.0,31.0,Ty Johnson left tackle for 9 yards (tackle by Elijah Hicks and Jack Sanborn),0.81,1.48,12.0,2022,174
+4.0,2:00,2.0,1.0,NYJ 37,10.0,31.0,Mike White up the middle for 3 yards (tackle by DeAndre Houston-Carson),1.48,1.6,12.0,2022,174
+4.0,1:21,1.0,10.0,NYJ 40,10.0,31.0,Mike White kneels for no gain,1.6,1.05,12.0,2022,174
+4.0,0:38,2.0,10.0,NYJ 40,10.0,31.0,Mike White kneels for -1 yards,1.05,0.23,12.0,2022,174

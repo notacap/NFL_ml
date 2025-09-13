@@ -1,0 +1,176 @@
+Quarter,Time,Down,ToGo,Location,JAX,HOU,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Texans won the coin toss and deferred, Jaguars to receive the opening kickoff.",,,4.0,2024,56
+1.0,15:00,,,HOU 35,0.0,0.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,56
+1.0,15:00,1.0,10.0,JAX 30,0.0,0.0,Trevor Lawrence pass complete short right to Christian Kirk for 6 yards (tackle by Calen Bullock and Derek Stingley),0.94,1.2,4.0,2024,56
+1.0,14:19,2.0,4.0,JAX 36,0.0,0.0,Trevor Lawrence pass complete short left to Christian Kirk for 4 yards (tackle by Jalen Pitre),1.2,1.6,4.0,2024,56
+1.0,13:47,1.0,10.0,JAX 40,0.0,0.0,Tank Bigsby left tackle for 5 yards (tackle by Tim Settle),1.6,1.73,4.0,2024,56
+1.0,13:07,2.0,5.0,JAX 45,0.0,0.0,Trevor Lawrence pass incomplete short left intended for Christian Kirk,1.73,1.03,4.0,2024,56
+1.0,13:01,3.0,5.0,JAX 45,0.0,0.0,Trevor Lawrence pass incomplete deep right intended for Christian Kirk,1.03,-0.39,4.0,2024,56
+1.0,12:56,4.0,5.0,JAX 45,0.0,0.0,"Logan Cooke punts 53 yards, recovered by Daniel Thomas at HOU-2",-0.39,6.74,4.0,2024,56
+1.0,12:48,1.0,2.0,HOU 2,6.0,0.0,"Trevor Lawrence pass complete short right to Brian Thomas for 2 yards, touchdown",6.74,7.0,4.0,2024,56
+1.0,12:44,,,HOU 15,7.0,0.0,Cam Little kicks extra point good,0.0,0.0,4.0,2024,56
+1.0,12:44,,,JAX 35,7.0,0.0,"Cam Little kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,56
+1.0,12:44,1.0,10.0,HOU 30,7.0,0.0,Cam Akers left tackle for 1 yard (tackle by Ronald Darby),0.94,0.53,4.0,2024,56
+1.0,12:10,2.0,9.0,HOU 31,7.0,0.0,Cam Akers right guard for 5 yards (tackle by Montaric Brown),0.53,0.5,4.0,2024,56
+1.0,11:32,3.0,4.0,HOU 36,7.0,0.0,C.J. Stroud pass complete short middle to Nico Collins for 18 yards (tackle by Daniel Thomas and Montaric Brown),0.5,2.52,4.0,2024,56
+1.0,10:57,1.0,10.0,JAX 46,7.0,0.0,C.J. Stroud pass complete short right to Nico Collins for 12 yards (tackle by Antonio Johnson),2.52,3.31,4.0,2024,56
+1.0,10:19,1.0,10.0,JAX 34,7.0,0.0,J.J. Taylor up the middle for 1 yard (tackle by Roy Robertson-Harris),3.31,2.91,4.0,2024,56
+1.0,9:42,2.0,9.0,JAX 33,7.0,0.0,C.J. Stroud pass complete deep right to Nico Collins for 19 yards (tackle by Ronald Darby),2.91,4.65,4.0,2024,56
+1.0,8:59,1.0,10.0,JAX 14,7.0,0.0,Cam Akers up the middle for 1 yard (tackle by Montaric Brown and Chad Muma),4.65,4.16,4.0,2024,56
+1.0,8:14,2.0,9.0,JAX 13,7.0,0.0,Cam Akers left guard for 7 yards (tackle by Josh Hines-Allen and Chad Muma),4.16,4.73,4.0,2024,56
+1.0,7:29,3.0,2.0,JAX 6,7.0,6.0,"Stefon Diggs left guard for 6 yards, touchdown",4.73,7.0,4.0,2024,56
+1.0,7:23,,,JAX 15,7.0,7.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,4.0,2024,56
+1.0,7:23,,,HOU 35,7.0,7.0,"Ka'imi Fairbairn kicks off 59 yards, returned by Devin Duvernay for 22 yards (tackle by Del'Shawn Phillips and Dare Ogunbowale). Penalty on Ventrell Miller: Illegal Formation, 5 yards (accepted)",0.0,0.48,4.0,2024,56
+1.0,7:18,1.0,10.0,JAX 23,7.0,7.0,Tank Bigsby up the middle for 1 yard (tackle by Derek Barnett),0.48,0.07,4.0,2024,56
+1.0,6:41,2.0,9.0,JAX 24,7.0,7.0,Trevor Lawrence pass complete short right to Gabriel Davis for 5 yards (tackle by Derek Stingley),0.07,0.04,4.0,2024,56
+1.0,5:58,3.0,4.0,JAX 29,7.0,7.0,Trevor Lawrence pass complete short left to Christian Kirk for 14 yards (tackle by Eric Murray),0.04,1.8,4.0,2024,56
+1.0,5:16,1.0,10.0,JAX 43,7.0,7.0,Tank Bigsby right tackle for 22 yards (tackle by Calen Bullock),1.8,3.25,4.0,2024,56
+1.0,4:47,1.0,10.0,HOU 35,7.0,7.0,Trevor Lawrence pass complete short right to Brenton Strange for 11 yards (tackle by Calen Bullock),3.25,3.97,4.0,2024,56
+1.0,4:23,1.0,10.0,HOU 24,7.0,7.0,"Penalty on Ezra Cleveland: False Start, 5 yards (accepted) (no play)",3.97,3.64,4.0,2024,56
+1.0,4:09,1.0,15.0,HOU 29,7.0,7.0,D'Ernest Johnson up the middle for 1 yard (tackle by Azeez Al-Shaair and Khalil Davis),3.64,2.89,4.0,2024,56
+1.0,3:29,2.0,14.0,HOU 28,7.0,7.0,Trevor Lawrence pass incomplete deep right intended for Brian Thomas,2.89,2.21,4.0,2024,56
+1.0,3:24,3.0,14.0,HOU 28,7.0,7.0,Trevor Lawrence pass complete short middle to Brenton Strange for 5 yards (tackle by Derek Stingley),2.21,1.93,4.0,2024,56
+1.0,2:45,4.0,9.0,HOU 23,10.0,7.0,Cam Little 41 yard field goal good,1.93,3.0,4.0,2024,56
+1.0,2:41,,,JAX 35,10.0,7.0,"Cam Little kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,56
+1.0,2:41,1.0,10.0,HOU 30,10.0,7.0,C.J. Stroud pass complete deep left to Stefon Diggs for 28 yards (tackle by Ronald Darby),0.94,2.79,4.0,2024,56
+1.0,1:55,1.0,10.0,JAX 42,10.0,7.0,J.J. Taylor right end for 2 yards (tackle by Yasir Abdullah and Ventrell Miller),2.79,2.51,4.0,2024,56
+1.0,1:12,2.0,8.0,JAX 40,10.0,7.0,C.J. Stroud pass complete short left to Nico Collins for -2 yards (tackle by Montaric Brown),2.51,1.55,4.0,2024,56
+1.0,0:30,3.0,10.0,JAX 42,10.0,7.0,C.J. Stroud pass incomplete short right intended for Dalton Schultz,1.55,0.46,4.0,2024,56
+1.0,0:25,4.0,10.0,JAX 42,10.0,7.0,"Tommy Townsend punts 32 yards, fair catch by Devin Duvernay at JAC-10",0.46,0.38,4.0,2024,56
+1.0,0:18,1.0,10.0,JAX 10,10.0,7.0,Trevor Lawrence pass incomplete deep right intended for Brian Thomas,-0.38,-0.78,4.0,2024,56
+1.0,0:14,2.0,10.0,JAX 10,10.0,7.0,Travis Etienne left guard for 6 yards (tackle by Henry To'oTo'o and Kamari Lassiter),-0.78,-0.72,4.0,2024,56
+2.0,15:00,3.0,4.0,JAX 16,10.0,7.0,Trevor Lawrence pass incomplete short left,-0.72,-2.39,4.0,2024,56
+2.0,14:54,4.0,4.0,JAX 16,10.0,7.0,"Logan Cooke punts 58 yards, fair catch by Robert Woods at HOU-26",-2.39,-0.67,4.0,2024,56
+2.0,14:46,1.0,10.0,HOU 26,10.0,7.0,C.J. Stroud sacked by Jeremiah Ledbetter for -1 yards,0.67,-0.01,4.0,2024,56
+2.0,14:06,2.0,11.0,HOU 25,10.0,7.0,"Penalty on Shaq Mason: False Start, 5 yards (accepted) (no play)",-0.01,-0.68,4.0,2024,56
+2.0,13:45,2.0,16.0,HOU 20,10.0,7.0,C.J. Stroud pass complete short middle to Cade Stover for 27 yards (tackle by Andre Cisco),-0.68,2.06,4.0,2024,56
+2.0,13:07,1.0,10.0,HOU 47,10.0,7.0,C.J. Stroud pass complete short right to Robert Woods for 10 yards (tackle by Ventrell Miller),2.06,2.72,4.0,2024,56
+2.0,12:29,1.0,10.0,JAX 43,10.0,7.0,Cam Akers right guard for no gain (tackle by DaVon Hamilton),2.72,2.18,4.0,2024,56
+2.0,11:48,2.0,10.0,JAX 43,10.0,7.0,Cam Akers left end for 2 yards (tackle by Jarrian Jones and Travon Walker),2.18,1.75,4.0,2024,56
+2.0,11:01,3.0,8.0,JAX 41,10.0,7.0,C.J. Stroud pass complete short middle to Dare Ogunbowale for 9 yards (tackle by Chad Muma),1.75,3.45,4.0,2024,56
+2.0,10:16,1.0,10.0,JAX 32,10.0,7.0,C.J. Stroud pass complete short left to Stefon Diggs for 20 yards (tackle by Antonio Johnson and Andre Cisco),3.45,4.78,4.0,2024,56
+2.0,9:33,1.0,10.0,JAX 12,10.0,7.0,C.J. Stroud pass incomplete short left intended for Nico Collins (defended by Montaric Brown),4.78,4.1,4.0,2024,56
+2.0,9:29,2.0,10.0,JAX 12,10.0,7.0,Cam Akers left end for -2 yards (tackle by Ventrell Miller),4.1,3.06,4.0,2024,56
+2.0,8:46,3.0,12.0,JAX 14,10.0,7.0,"C.J. Stroud pass incomplete short right intended for Nico Collins. Penalty on Antonio Johnson: Defensive Holding, 5 yards (accepted) (no play)",3.06,5.14,4.0,2024,56
+2.0,8:38,1.0,9.0,JAX 9,10.0,7.0,"C.J. Stroud pass incomplete short left intended for Nico Collins. Penalty on Kenyon Green: Ineligible Downfield Pass, 5 yards (accepted) (no play)",5.14,4.44,4.0,2024,56
+2.0,8:35,1.0,14.0,JAX 14,10.0,7.0,J.J. Taylor left tackle for 7 yards (tackle by Andre Cisco),4.44,4.76,4.0,2024,56
+2.0,7:58,2.0,7.0,JAX 7,10.0,7.0,J.J. Taylor left tackle for 4 yards (tackle by Josh Hines-Allen),4.76,4.72,4.0,2024,56
+2.0,7:23,3.0,3.0,JAX 3,10.0,13.0,"C.J. Stroud pass complete short middle to Nico Collins for 3 yards, touchdown",4.72,7.0,4.0,2024,56
+2.0,7:19,,,JAX 15,10.0,14.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,4.0,2024,56
+2.0,7:19,,,HOU 35,10.0,14.0,"Ka'imi Fairbairn kicks off 63 yards, returned by Devin Duvernay for 25 yards (tackle by Jake Hansen)",0.0,0.74,4.0,2024,56
+2.0,7:14,1.0,10.0,JAX 27,10.0,14.0,Travis Etienne right tackle for 4 yards (tackle by Calen Bullock and Danielle Hunter),0.74,0.74,4.0,2024,56
+2.0,6:32,2.0,6.0,JAX 31,10.0,14.0,Trevor Lawrence pass complete short right to Brian Thomas for 16 yards (tackle by Kamari Lassiter),0.74,2.06,4.0,2024,56
+2.0,5:50,1.0,10.0,JAX 47,10.0,14.0,Trevor Lawrence pass complete short left to Travis Etienne for 10 yards (tackle by Jalen Pitre),2.06,2.72,4.0,2024,56
+2.0,5:09,1.0,10.0,HOU 43,10.0,14.0,Trevor Lawrence pass complete short right to Christian Kirk for 6 yards (tackle by Eric Murray),2.72,2.99,4.0,2024,56
+2.0,4:39,2.0,4.0,HOU 37,10.0,14.0,Trevor Lawrence pass complete short right to Brenton Strange for 3 yards (tackle by Henry To'oTo'o),2.99,2.68,4.0,2024,56
+2.0,3:57,3.0,1.0,HOU 34,10.0,14.0,Trevor Lawrence pass incomplete short right intended for Travis Etienne,2.68,1.1,4.0,2024,56
+2.0,3:54,4.0,1.0,HOU 34,13.0,14.0,Cam Little 52 yard field goal good,1.1,3.0,4.0,2024,56
+2.0,3:49,,,JAX 35,13.0,14.0,"Cam Little kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,56
+2.0,3:49,1.0,10.0,HOU 30,13.0,14.0,Cam Akers left end for 2 yards (tackle by Ventrell Miller and Josh Hines-Allen),0.94,0.66,4.0,2024,56
+2.0,3:06,2.0,8.0,HOU 32,13.0,14.0,"Cam Akers left end for 2 yards (tackle by Ventrell Miller). Penalty on Kenyon Green: Offensive Holding, 10 yards (accepted)",0.66,-0.42,4.0,2024,56
+2.0,2:40,2.0,16.0,HOU 24,13.0,14.0,Cam Akers left end for 9 yards (tackle by Montaric Brown),-0.42,0.1,4.0,2024,56
+2.0,2:00,3.0,7.0,HOU 33,13.0,14.0,C.J. Stroud pass complete short right to Nico Collins for 23 yards (tackle by Antonio Johnson),0.1,2.65,4.0,2024,56
+2.0,1:02,1.0,10.0,JAX 44,13.0,14.0,"C.J. Stroud pass complete short right to Stefon Diggs for 5 yards (tackle by Montaric Brown). Penalty on Dare Ogunbowale: Offensive Holding, 10 yards (accepted)",2.65,2.32,4.0,2024,56
+2.0,1:02,1.0,15.0,JAX 49,13.0,14.0,"C.J. Stroud pass complete short middle to Dare Ogunbowale for no gain (tackle by Deantre Prince and Chad Muma). Penalty on Kenyon Green: Ineligible Downfield Pass, 5 yards (accepted) (no play)",2.32,1.99,4.0,2024,56
+2.0,0:53,1.0,20.0,HOU 46,13.0,14.0,C.J. Stroud pass complete short right to Nico Collins for 14 yards (tackle by Daniel Thomas),1.99,2.65,4.0,2024,56
+2.0,0:31,2.0,6.0,JAX 40,13.0,14.0,C.J. Stroud pass complete short right to Stefon Diggs for 6 yards (tackle by Ronald Darby),2.65,3.31,4.0,2024,56
+2.0,0:27,,,,,,Timeout #1 by Houston Texans,,,4.0,2024,56
+2.0,0:27,1.0,10.0,JAX 34,13.0,14.0,C.J. Stroud pass incomplete deep right,3.31,2.77,4.0,2024,56
+2.0,0:19,2.0,10.0,JAX 34,13.0,14.0,C.J. Stroud pass complete deep left to Dalton Schultz for 23 yards (tackle by Montaric Brown and Ventrell Miller),2.77,4.84,4.0,2024,56
+2.0,0:10,,,,,,Timeout #2 by Houston Texans,,,4.0,2024,56
+2.0,0:10,1.0,10.0,JAX 11,13.0,14.0,C.J. Stroud pass incomplete short middle intended for Nico Collins,4.84,4.14,4.0,2024,56
+2.0,0:05,,,,,,Timeout #1 by Jacksonville Jaguars,,,4.0,2024,56
+2.0,0:05,2.0,10.0,JAX 11,13.0,17.0,Ka'imi Fairbairn 30 yard field goal good,4.14,3.0,4.0,2024,56
+2.0,0:03,,,HOU 35,13.0,17.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,56
+2.0,0:03,1.0,10.0,JAX 30,13.0,17.0,Trevor Lawrence kneels for -1 yards,0.94,0.26,4.0,2024,56
+3.0,15:00,,,JAX 35,13.0,17.0,"Cam Little kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,56
+3.0,15:00,1.0,10.0,HOU 30,13.0,17.0,J.J. Taylor right end for 4 yards (tackle by Jarrian Jones),0.94,0.93,4.0,2024,56
+3.0,14:21,2.0,6.0,HOU 34,13.0,17.0,C.J. Stroud pass incomplete short left intended for Stefon Diggs (defended by Montaric Brown),0.93,0.23,4.0,2024,56
+3.0,14:15,3.0,6.0,HOU 34,13.0,17.0,C.J. Stroud pass incomplete short left intended for Dalton Schultz (defended by Antonio Johnson),0.23,-1.11,4.0,2024,56
+3.0,14:11,4.0,6.0,HOU 34,13.0,17.0,Tommy Townsend punts 50 yards out of bounds,-1.11,0.14,4.0,2024,56
+3.0,14:01,1.0,10.0,JAX 16,13.0,17.0,"Penalty on Tim Settle: Encroachment, 5 yards (accepted) (no play)",-0.14,0.74,4.0,2024,56
+3.0,14:01,1.0,5.0,JAX 21,13.0,17.0,Trevor Lawrence pass complete deep right to Christian Kirk for 20 yards (tackle by Jalen Pitre),0.74,1.66,4.0,2024,56
+3.0,13:33,1.0,10.0,JAX 41,13.0,17.0,Trevor Lawrence pass incomplete deep right intended for Christian Kirk,1.66,1.12,4.0,2024,56
+3.0,13:26,2.0,10.0,JAX 41,13.0,17.0,Trevor Lawrence pass incomplete short left intended for Gabriel Davis,1.12,0.43,4.0,2024,56
+3.0,13:21,3.0,10.0,JAX 41,13.0,17.0,Trevor Lawrence pass complete deep middle to Brian Thomas for 19 yards (tackle by Kamari Lassiter),0.43,2.92,4.0,2024,56
+3.0,13:09,1.0,10.0,HOU 40,13.0,17.0,"Penalty on Brian Thomas: Unsportsmanlike Conduct / Offense, 15 yards (accepted) (no play)",2.92,1.93,4.0,2024,56
+3.0,12:56,1.0,10.0,JAX 45,13.0,17.0,Tank Bigsby up the middle for 1 yard (tackle by Azeez Al-Shaair),1.93,1.52,4.0,2024,56
+3.0,12:05,2.0,9.0,JAX 46,13.0,17.0,Trevor Lawrence pass incomplete short right intended for Luke Farrell,1.52,0.83,4.0,2024,56
+3.0,12:03,3.0,9.0,JAX 46,13.0,17.0,Trevor Lawrence sacked by Eric Murray for -14 yards,0.83,-1.24,4.0,2024,56
+3.0,11:21,4.0,23.0,JAX 32,13.0,17.0,"Logan Cooke punts 48 yards, returned by Steven Sims for 10 yards (tackle by Logan Cooke)",-1.24,-0.94,4.0,2024,56
+3.0,11:08,1.0,10.0,HOU 30,13.0,17.0,Cam Akers left tackle for 3 yards (tackle by Ventrell Miller),0.94,0.8,4.0,2024,56
+3.0,10:33,2.0,7.0,HOU 33,13.0,17.0,C.J. Stroud pass incomplete short middle intended for Stefon Diggs (defended by Montaric Brown),0.8,0.1,4.0,2024,56
+3.0,10:29,3.0,7.0,HOU 33,13.0,17.0,C.J. Stroud pass incomplete short right intended for Stefon Diggs,0.1,-1.18,4.0,2024,56
+3.0,10:23,4.0,7.0,HOU 33,13.0,17.0,"Tommy Townsend punts 41 yards, fair catch by Devin Duvernay at JAC-26",-1.18,-0.67,4.0,2024,56
+3.0,10:16,1.0,10.0,JAX 26,13.0,17.0,Travis Etienne right tackle for 12 yards (tackle by Derek Stingley),0.67,1.47,4.0,2024,56
+3.0,9:38,1.0,10.0,JAX 38,13.0,17.0,Travis Etienne left guard for 3 yards (tackle by Henry To'oTo'o and Folorunso Fatukasi),1.47,1.33,4.0,2024,56
+3.0,8:57,2.0,7.0,JAX 41,13.0,17.0,"Trevor Lawrence pass complete deep left to Brian Thomas for 32 yards (tackle by Kamari Lassiter) HOU challenged the pass completion ruling, and the play was upheld.",1.33,3.78,4.0,2024,56
+3.0,8:27,1.0,10.0,HOU 27,13.0,17.0,Brian Thomas right end for 13 yards (tackle by Derek Barnett),3.78,4.65,4.0,2024,56
+3.0,7:43,1.0,10.0,HOU 14,13.0,17.0,Travis Etienne left tackle for 6 yards (tackle by Tim Settle),4.65,5.09,4.0,2024,56
+3.0,6:59,2.0,4.0,HOU 8,13.0,17.0,Travis Etienne left end for no gain (tackle by Azeez Al-Shaair),5.09,4.28,4.0,2024,56
+3.0,6:21,3.0,4.0,HOU 8,19.0,17.0,"Trevor Lawrence pass complete short right to Christian Kirk for 8 yards, touchdown",4.28,7.0,4.0,2024,56
+3.0,6:16,,,HOU 15,20.0,17.0,Cam Little kicks extra point good,0.0,0.0,4.0,2024,56
+3.0,6:16,,,JAX 35,20.0,17.0,"Cam Little kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,56
+3.0,6:16,1.0,10.0,HOU 30,20.0,17.0,C.J. Stroud pass complete short middle to Nico Collins for 11 yards (tackle by Montaric Brown),0.94,1.66,4.0,2024,56
+3.0,5:44,1.0,10.0,HOU 41,20.0,17.0,J.J. Taylor up the middle for no gain (tackle by Antonio Johnson),1.66,1.12,4.0,2024,56
+3.0,5:10,2.0,10.0,HOU 41,20.0,17.0,C.J. Stroud pass incomplete short left intended for Robert Woods,1.12,0.43,4.0,2024,56
+3.0,5:04,3.0,10.0,HOU 41,20.0,17.0,C.J. Stroud pass complete short right to Nico Collins for 6 yards (tackle by Jarrian Jones and Ronald Darby),0.43,-0.26,4.0,2024,56
+3.0,4:38,4.0,4.0,HOU 47,20.0,17.0,"Tommy Townsend punts 41 yards, fair catch by Devin Duvernay at JAC-12",-0.26,0.35,4.0,2024,56
+3.0,4:32,1.0,10.0,JAX 12,20.0,17.0,Trevor Lawrence scrambles right end for 6 yards (tackle by Jalen Pitre),-0.35,-0.07,4.0,2024,56
+3.0,3:55,2.0,4.0,JAX 18,20.0,17.0,Travis Etienne up the middle for 13 yards (tackle by Will Anderson),-0.07,1.0,4.0,2024,56
+3.0,3:20,1.0,10.0,JAX 31,20.0,17.0,Travis Etienne left guard for no gain (tackle by Henry To'oTo'o and Mario Edwards),1.0,0.46,4.0,2024,56
+3.0,2:37,2.0,10.0,JAX 31,20.0,17.0,Trevor Lawrence pass complete short right to Brian Thomas for 7 yards (tackle by Will Anderson),0.46,0.7,4.0,2024,56
+3.0,1:54,3.0,3.0,JAX 38,20.0,17.0,Tank Bigsby right guard for 58 yards (tackle by Calen Bullock),0.7,6.28,4.0,2024,56
+3.0,1:16,1.0,4.0,HOU 4,20.0,17.0,Tank Bigsby right guard for 2 yards (tackle by Azeez Al-Shaair),6.28,5.72,4.0,2024,56
+3.0,0:47,2.0,2.0,HOU 2,20.0,17.0,Tank Bigsby right guard for 1 yard (tackle by Henry To'oTo'o and Danielle Hunter),5.72,5.17,4.0,2024,56
+3.0,0:02,3.0,1.0,HOU 1,20.0,17.0,Trevor Lawrence pass incomplete short left intended for Gabriel Davis (defended by Derek Stingley),5.17,3.55,4.0,2024,56
+4.0,15:00,4.0,1.0,HOU 1,20.0,17.0,Trevor Lawrence up the middle for no gain (tackle by Folorunso Fatukasi and Mario Edwards),3.55,0.38,4.0,2024,56
+4.0,14:57,1.0,10.0,HOU 1,20.0,17.0,C.J. Stroud pass complete short right to Nico Collins for 15 yards (tackle by Antonio Johnson),-0.38,-0.14,4.0,2024,56
+4.0,14:18,1.0,10.0,HOU 16,20.0,17.0,C.J. Stroud pass complete short middle to Stefon Diggs for 10 yards (tackle by Andre Cisco),-0.14,0.67,4.0,2024,56
+4.0,13:42,1.0,10.0,HOU 26,20.0,17.0,Cam Akers right guard for 15 yards (tackle by Yasir Abdullah and Chad Muma),0.67,1.66,4.0,2024,56
+4.0,13:00,1.0,10.0,HOU 41,20.0,17.0,"Cam Akers right end for no gain (tackle by Ventrell Miller). Penalty on Shaq Mason: Offensive Holding, 10 yards (accepted) (no play)",1.66,1.0,4.0,2024,56
+4.0,12:35,1.0,20.0,HOU 31,20.0,17.0,C.J. Stroud pass incomplete short left intended for J.J. Taylor,1.0,-0.23,4.0,2024,56
+4.0,12:31,2.0,20.0,HOU 31,20.0,17.0,"C.J. Stroud pass complete short right to Stefon Diggs for no gain. Penalty on Dalton Schultz: Illegal Shift, 5 yards (accepted) (no play)",-0.23,-0.91,4.0,2024,56
+4.0,12:06,2.0,25.0,HOU 26,20.0,17.0,C.J. Stroud pass complete short right to John Metchie for 7 yards (tackle by Arik Armstead),-0.91,-0.63,4.0,2024,56
+4.0,11:21,3.0,18.0,HOU 33,20.0,17.0,C.J. Stroud pass complete short right to Dare Ogunbowale for 31 yards (tackle by Jarrian Jones),-0.63,3.18,4.0,2024,56
+4.0,10:34,1.0,10.0,JAX 36,20.0,17.0,Steven Sims left end for no gain (tackle by Ventrell Miller),3.18,2.64,4.0,2024,56
+4.0,9:52,2.0,10.0,JAX 36,20.0,17.0,"C.J. Stroud scrambles up the middle for no gain (tackle by Yasir Abdullah). Penalty on Laremy Tunsil: Offensive Holding, 10 yards (accepted) (no play)",2.64,1.29,4.0,2024,56
+4.0,9:23,2.0,20.0,JAX 46,20.0,17.0,C.J. Stroud pass incomplete short left intended for Stefon Diggs,1.29,0.63,4.0,2024,56
+4.0,9:18,3.0,20.0,JAX 46,20.0,17.0,C.J. Stroud sacked by Roy Robertson-Harris for -10 yards,0.63,-0.46,4.0,2024,56
+4.0,8:41,4.0,30.0,HOU 44,20.0,17.0,"Tommy Townsend punts 49 yards, returned by Devin Duvernay for 2 yards (tackle by Henry To'oTo'o)",-0.46,0.38,4.0,2024,56
+4.0,8:31,1.0,10.0,JAX 9,20.0,17.0,"Travis Etienne left tackle for 3 yards (tackle by Kamari Lassiter). Penalty on Folorunso Fatukasi: Defensive Holding, 5 yards (accepted)",-0.38,-0.06,4.0,2024,56
+4.0,8:07,1.0,10.0,JAX 17,20.0,17.0,Travis Etienne left end for 2 yards (tackle by Mario Edwards and Eric Murray),-0.06,-0.25,4.0,2024,56
+4.0,7:19,2.0,8.0,JAX 19,20.0,17.0,Trevor Lawrence pass complete short left to Brian Thomas for 10 yards (tackle by Henry To'oTo'o),-0.25,0.87,4.0,2024,56
+4.0,6:41,1.0,10.0,JAX 29,20.0,17.0,D'Ernest Johnson up the middle for -1 yards (tackle by Tim Settle),0.87,0.19,4.0,2024,56
+4.0,5:54,2.0,11.0,JAX 28,20.0,17.0,Trevor Lawrence pass incomplete deep middle intended for Christian Kirk (defended by Calen Bullock),0.19,-0.49,4.0,2024,56
+4.0,5:45,,,,,,Timeout #1 by Jacksonville Jaguars,,,4.0,2024,56
+4.0,5:45,3.0,11.0,JAX 28,20.0,17.0,Trevor Lawrence pass incomplete short left intended for Brian Thomas (defended by Derek Stingley),-0.49,-1.5,4.0,2024,56
+4.0,5:40,4.0,11.0,JAX 28,20.0,17.0,"Logan Cooke punts 45 yards out of bounds. Penalty on Steven Sims: Unnecessary Roughness / Defense, 13 yards (accepted)",-1.5,0.28,4.0,2024,56
+4.0,5:34,1.0,10.0,HOU 14,20.0,17.0,Cam Akers up the middle for 8 yards (tackle by Chad Muma and DaVon Hamilton),-0.28,0.42,4.0,2024,56
+4.0,4:57,2.0,2.0,HOU 22,20.0,17.0,C.J. Stroud scrambles right end for 5 yards (tackle by Arik Armstead),0.42,0.74,4.0,2024,56
+4.0,4:50,1.0,10.0,HOU 27,20.0,17.0,C.J. Stroud pass complete short left to Dalton Schultz for 5 yards (tackle by Chad Muma),0.74,0.87,4.0,2024,56
+4.0,4:17,2.0,5.0,HOU 32,20.0,17.0,"Cam Akers left guard for no gain (tackle by Ventrell Miller). Penalty on Laremy Tunsil: Offensive Holding, 10 yards (accepted) (no play)",0.87,-0.48,4.0,2024,56
+4.0,4:11,2.0,15.0,HOU 22,20.0,17.0,C.J. Stroud pass incomplete deep right intended for Robert Woods (defended by Ronald Darby),-0.48,-1.15,4.0,2024,56
+4.0,4:06,3.0,15.0,HOU 22,20.0,17.0,C.J. Stroud pass incomplete deep middle intended for Nico Collins,-1.15,-1.9,4.0,2024,56
+4.0,4:00,4.0,15.0,HOU 22,20.0,17.0,"Tommy Townsend punts 50 yards, returned by Devin Duvernay for no gain (tackle by D'Angelo Ross)",-1.9,-0.81,4.0,2024,56
+4.0,3:51,1.0,10.0,JAX 28,20.0,17.0,Travis Etienne left tackle for 1 yard (tackle by Tim Settle),0.81,0.4,4.0,2024,56
+4.0,3:14,2.0,9.0,JAX 29,20.0,17.0,Trevor Lawrence pass incomplete short right intended for Gabriel Davis (defended by Jalen Pitre),0.4,-0.3,4.0,2024,56
+4.0,3:08,3.0,9.0,JAX 29,20.0,17.0,Trevor Lawrence pass incomplete short middle intended for Christian Kirk (defended by Eric Murray),-0.3,-1.44,4.0,2024,56
+4.0,3:05,4.0,9.0,JAX 29,20.0,17.0,"Logan Cooke punts 49 yards, returned by Robert Woods for 9 yards (tackle by Ventrell Miller)",-1.44,-1.0,4.0,2024,56
+4.0,2:54,1.0,10.0,HOU 31,20.0,17.0,"C.J. Stroud scrambles left end for 11 yards (tackle by Chad Muma). Penalty on Antonio Johnson: Illegal Contact, 5 yards (accepted)",1.0,2.06,4.0,2024,56
+4.0,2:47,1.0,10.0,HOU 47,20.0,17.0,C.J. Stroud pass complete deep middle to Nico Collins for 26 yards (tackle by Ventrell Miller),2.06,3.78,4.0,2024,56
+4.0,2:04,1.0,10.0,JAX 27,20.0,17.0,C.J. Stroud pass complete short right to Dare Ogunbowale for 6 yards (tackle by Ronald Darby),3.78,4.04,4.0,2024,56
+4.0,1:55,2.0,4.0,JAX 21,20.0,17.0,C.J. Stroud pass complete short middle to Nico Collins for 6 yards (tackle by Ronald Darby),4.04,4.58,4.0,2024,56
+4.0,1:13,1.0,10.0,JAX 15,20.0,17.0,Dare Ogunbowale up the middle for 6 yards (tackle by Yasir Abdullah and Ventrell Miller),4.58,5.03,4.0,2024,56
+4.0,1:08,,,,,,Timeout #2 by Jacksonville Jaguars,,,4.0,2024,56
+4.0,1:08,2.0,4.0,JAX 9,20.0,17.0,Dare Ogunbowale up the middle for 1 yard (tackle by Maason Smith),5.03,4.45,4.0,2024,56
+4.0,1:04,,,,,,Timeout #3 by Jacksonville Jaguars,,,4.0,2024,56
+4.0,1:04,3.0,3.0,JAX 8,20.0,17.0,C.J. Stroud pass complete short left to Dalton Schultz for 6 yards (tackle by Maason Smith),4.45,6.74,4.0,2024,56
+4.0,0:30,,,,,,Timeout #2 by Houston Texans,,,4.0,2024,56
+4.0,0:30,1.0,2.0,JAX 2,20.0,17.0,C.J. Stroud scrambles up the middle for 1 yard (tackle by Maason Smith and Chad Muma),6.74,5.91,4.0,2024,56
+4.0,0:22,,,,,,Timeout #3 by Houston Texans,,,4.0,2024,56
+4.0,0:22,2.0,1.0,JAX 1,20.0,23.0,"C.J. Stroud pass complete short right to Dare Ogunbowale for 1 yard, touchdown",5.91,7.0,4.0,2024,56
+4.0,0:18,,,JAX 15,20.0,24.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,4.0,2024,56
+4.0,0:18,,,HOU 35,20.0,24.0,"Ka'imi Fairbairn kicks off 60 yards, returned by Devin Duvernay for 14 yards (tackle by Neville Hewitt). Penalty on Yasir Abdullah: Offensive Illegal Block Above the Waist, 9 yards (accepted)",0.0,-0.38,4.0,2024,56
+4.0,0:12,1.0,10.0,JAX 10,20.0,24.0,Trevor Lawrence pass incomplete deep left intended for Gabriel Davis,-0.38,-0.78,4.0,2024,56
+4.0,0:06,2.0,10.0,JAX 10,20.0,24.0,"Trevor Lawrence pass complete short right to Christian Kirk for 3 yards, lateral to Gabriel Davis for -7 yards, lateral to Trevor Lawrence for -4 yards. Trevor Lawrence fumbles, recovered by Travis Etienne at JAC-1 (tackle by Kamari Lassiter)",-0.78,-2.47,4.0,2024,56

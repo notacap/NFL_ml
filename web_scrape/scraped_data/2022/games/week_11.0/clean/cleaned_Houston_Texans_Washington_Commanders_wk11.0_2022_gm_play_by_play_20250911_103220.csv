@@ -1,0 +1,163 @@
+Quarter,Time,Down,ToGo,Location,WAS,HOU,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Texans won the coin toss and deferred, Commanders to receive the opening kickoff.",,,11.0,2022,154
+1.0,15:00,,,HOU 35,0.0,0.0,"Ka'imi Fairbairn kicks off 62 yards, returned by Antonio Gibson for 21 yards (tackle by M.J. Stewart)",0.0,0.54,11.0,2022,154
+1.0,14:55,1.0,10.0,WAS 24,0.0,0.0,Brian Robinson left end for 1 yard (tackle by Ogbonnia Okoronkwo and Christian Kirksey),0.54,0.13,11.0,2022,154
+1.0,14:16,2.0,9.0,WAS 25,0.0,0.0,Taylor Heinicke pass incomplete deep left intended for Terry McLaurin,0.13,-0.56,11.0,2022,154
+1.0,14:08,3.0,9.0,WAS 25,0.0,0.0,Taylor Heinicke pass incomplete short right intended for Terry McLaurin,-0.56,-1.7,11.0,2022,154
+1.0,14:04,4.0,9.0,WAS 25,0.0,0.0,"Tress Way punts 52 yards, returned by Desmond King for 9 yards (tackle by Christian Holmes and Camaron Cheeseman)",-1.7,-1.07,11.0,2022,154
+1.0,13:51,1.0,10.0,HOU 32,0.0,0.0,Davis Mills pass complete short left to Jordan Akins for no gain (tackle by Kendall Fuller and Kamren Curl),1.07,0.53,11.0,2022,154
+1.0,13:24,2.0,10.0,HOU 32,6.0,0.0,"Davis Mills pass short right intended for Brandin Cooks is intercepted by Kendall Fuller at HOU-37 and returned for 37 yards, touchdown",0.53,-7.0,11.0,2022,154
+1.0,13:16,,,HOU 15,6.0,0.0,"Penalty on WAS: Delay of Game, 5 yards (accepted) (no play)",0.0,0.0,11.0,2022,154
+1.0,13:16,,,HOU 20,7.0,0.0,Joey Slye kicks extra point good,0.0,0.0,11.0,2022,154
+1.0,13:16,,,WAS 35,7.0,0.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,11.0,2022,154
+1.0,13:16,1.0,10.0,HOU 25,7.0,0.0,"Dameon Pierce right guard for -3 yards (tackle by Jonathan Allen) Penalty on HOU: Illegal Shift, 5 yards (declined)",0.61,-0.34,11.0,2022,154
+1.0,13:01,2.0,13.0,HOU 22,7.0,0.0,Dameon Pierce right tackle for -2 yards (tackle by Casey Toohill),-0.34,-1.29,11.0,2022,154
+1.0,12:20,3.0,15.0,HOU 20,7.0,0.0,Davis Mills pass complete short right to Chris Moore for 1 yard (tackle by Kamren Curl),-1.29,-1.96,11.0,2022,154
+1.0,11:44,4.0,14.0,HOU 21,7.0,0.0,"Cameron Johnston punts 43 yards, returned by Dax Milne for 6 yards (tackle by Jon Weeks)",-1.96,-1.73,11.0,2022,154
+1.0,11:38,1.0,10.0,WAS 42,7.0,0.0,Brian Robinson up the middle for -1 yards (tackle by Christian Kirksey),1.73,1.05,11.0,2022,154
+1.0,10:59,2.0,11.0,WAS 41,7.0,0.0,Antonio Gibson left guard for 5 yards (tackle by Michael Dwumfour),1.05,1.03,11.0,2022,154
+1.0,10:17,3.0,6.0,WAS 46,7.0,0.0,Taylor Heinicke pass incomplete short left intended for Curtis Samuel,1.03,-0.32,11.0,2022,154
+1.0,10:12,4.0,6.0,WAS 46,7.0,0.0,Tress Way punts 29 yards out of bounds,-0.32,-0.61,11.0,2022,154
+1.0,10:03,1.0,10.0,HOU 25,7.0,0.0,Dameon Pierce right tackle for 1 yard (tackle by Bobby McCain),0.61,0.2,11.0,2022,154
+1.0,9:23,2.0,9.0,HOU 26,7.0,0.0,Dameon Pierce right guard for 1 yard (tackle by James Smith-Williams),0.2,-0.36,11.0,2022,154
+1.0,8:46,3.0,8.0,HOU 27,7.0,0.0,"Davis Mills pass complete short middle to Nico Collins for 7 yards (tackle by Kamren Curl). Penalty on Kenyon Green: Offensive Holding, 10 yards (declined)",-0.36,-1.11,11.0,2022,154
+1.0,8:36,4.0,1.0,HOU 34,7.0,0.0,"Cameron Johnston punts 48 yards, returned by Dax Milne for no gain (tackle by Will Redmond)",-1.11,-0.04,11.0,2022,154
+1.0,8:28,1.0,10.0,WAS 18,7.0,0.0,Taylor Heinicke pass complete deep middle to Terry McLaurin for 19 yards (tackle by Jalen Pitre),0.04,1.4,11.0,2022,154
+1.0,7:49,1.0,10.0,WAS 37,7.0,0.0,Jahan Dotson left end for 3 yards (tackle by Desmond King),1.4,1.26,11.0,2022,154
+1.0,7:11,2.0,7.0,WAS 40,7.0,0.0,Taylor Heinicke pass incomplete short right,1.26,0.56,11.0,2022,154
+1.0,7:05,3.0,7.0,WAS 40,7.0,0.0,Taylor Heinicke pass complete short left to Terry McLaurin for 10 yards (tackle by Desmond King),0.56,2.26,11.0,2022,154
+1.0,6:32,1.0,10.0,WAS 50,7.0,0.0,Terry McLaurin right end for 1 yard (tackle by Christian Kirksey),2.26,1.85,11.0,2022,154
+1.0,5:48,2.0,9.0,HOU 49,7.0,0.0,Antonio Gibson left guard for 3 yards (tackle by Jonathan Owens and Mario Addison),1.85,1.55,11.0,2022,154
+1.0,5:09,3.0,6.0,HOU 46,7.0,0.0,Taylor Heinicke pass incomplete short left intended for Jahan Dotson,1.55,0.2,11.0,2022,154
+1.0,5:01,4.0,6.0,HOU 46,7.0,0.0,"Tress Way punts 46 yards, touchback.",0.2,-0.28,11.0,2022,154
+1.0,4:53,1.0,10.0,HOU 20,7.0,0.0,Davis Mills pass complete short left to Chris Moore for 4 yards (tackle by Montez Sweat),0.28,0.27,11.0,2022,154
+1.0,4:22,2.0,6.0,HOU 24,7.0,0.0,Davis Mills pass complete short right to Nico Collins for 5 yards (tackle by Bobby McCain),0.27,0.23,11.0,2022,154
+1.0,3:47,3.0,1.0,HOU 29,7.0,0.0,Davis Mills up the middle for 2 yards (tackle by Jamin Davis),0.23,1.0,11.0,2022,154
+1.0,3:16,1.0,10.0,HOU 31,7.0,0.0,Dameon Pierce right guard for 2 yards (tackle by John Ridgeway and Darrick Forrest),1.0,0.73,11.0,2022,154
+1.0,2:42,2.0,8.0,HOU 33,7.0,0.0,Davis Mills pass incomplete short right intended for Nico Collins,0.73,0.04,11.0,2022,154
+1.0,2:37,3.0,8.0,HOU 33,7.0,0.0,Davis Mills sacked by Jonathan Allen for -9 yards,0.04,-1.77,11.0,2022,154
+1.0,2:04,4.0,17.0,HOU 24,7.0,0.0,"Cameron Johnston punts 51 yards, returned by Dax Milne for no gain (tackle by Troy Hairston). Penalty on Christian Holmes: Offensive Holding, 10 yards (accepted)",-1.77,0.22,11.0,2022,154
+1.0,1:55,1.0,10.0,WAS 15,7.0,0.0,Brian Robinson left guard for 14 yards (tackle by Steven Nelson),-0.22,0.87,11.0,2022,154
+1.0,1:14,1.0,10.0,WAS 29,7.0,0.0,Brian Robinson right end for 5 yards (tackle by Jake Hansen),0.87,1.0,11.0,2022,154
+1.0,0:30,2.0,5.0,WAS 34,7.0,0.0,Taylor Heinicke pass complete short left to Jahan Dotson for 13 yards (tackle by Steven Nelson),1.0,2.06,11.0,2022,154
+2.0,15:00,1.0,10.0,WAS 47,7.0,0.0,Antonio Gibson right end for 9 yards (tackle by M.J. Stewart),2.06,2.73,11.0,2022,154
+2.0,14:24,2.0,1.0,HOU 44,7.0,0.0,Curtis Samuel right end for 8 yards (tackle by Tavierre Thomas and M.J. Stewart),2.73,3.18,11.0,2022,154
+2.0,13:40,1.0,10.0,HOU 36,7.0,0.0,Antonio Gibson left end for 5 yards (tackle by Christian Kirksey),3.18,3.31,11.0,2022,154
+2.0,12:59,2.0,5.0,HOU 31,7.0,0.0,"Taylor Heinicke pass complete short middle to Logan Thomas for no gain. Penalty on Desmond King: Illegal Contact, 5 yards (accepted) (no play)",3.31,3.84,11.0,2022,154
+2.0,12:33,1.0,10.0,HOU 26,7.0,0.0,Taylor Heinicke pass complete deep left to Logan Thomas for 16 yards (tackle by Christian Harris),3.84,4.91,11.0,2022,154
+2.0,11:55,1.0,10.0,HOU 10,7.0,0.0,Taylor Heinicke pass incomplete short right,4.91,4.19,11.0,2022,154
+2.0,11:49,2.0,10.0,HOU 10,13.0,0.0,"Curtis Samuel left end for 10 yards, touchdown",4.19,7.0,11.0,2022,154
+2.0,11:44,,,HOU 15,14.0,0.0,Joey Slye kicks extra point good,0.0,0.0,11.0,2022,154
+2.0,11:44,,,WAS 35,14.0,0.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,11.0,2022,154
+2.0,11:44,1.0,10.0,HOU 25,14.0,0.0,Dameon Pierce left guard for 3 yards (tackle by Efe Obada and John Ridgeway),0.61,0.47,11.0,2022,154
+2.0,11:08,2.0,7.0,HOU 28,14.0,0.0,Davis Mills sacked by Daron Payne for -7 yards,0.47,-1.15,11.0,2022,154
+2.0,10:26,3.0,14.0,HOU 21,14.0,0.0,Davis Mills sacked by Montez Sweat for -7 yards,-1.15,-2.47,11.0,2022,154
+2.0,9:49,4.0,21.0,HOU 14,14.0,0.0,"Cameron Johnston punts 47 yards, fair catch by Dax Milne at WAS-39",-2.47,-1.53,11.0,2022,154
+2.0,9:43,1.0,10.0,WAS 39,14.0,0.0,Brian Robinson right tackle for 5 yards (tackle by Ogbonnia Okoronkwo and Jonathan Owens),1.53,1.66,11.0,2022,154
+2.0,8:57,2.0,5.0,WAS 44,14.0,0.0,Taylor Heinicke pass complete short middle to Logan Thomas for 19 yards (tackle by Christian Harris),1.66,3.12,11.0,2022,154
+2.0,8:12,1.0,10.0,HOU 37,14.0,0.0,Taylor Heinicke pass incomplete short right intended for Terry McLaurin,3.12,2.57,11.0,2022,154
+2.0,8:07,2.0,10.0,HOU 37,14.0,0.0,Antonio Gibson right tackle for 13 yards (tackle by Eric Murray and Steven Nelson),2.57,3.97,11.0,2022,154
+2.0,7:42,1.0,10.0,HOU 24,14.0,0.0,Antonio Gibson right tackle for 1 yard (tackle by Michael Dwumfour),3.97,3.57,11.0,2022,154
+2.0,7:04,2.0,9.0,HOU 23,14.0,0.0,Taylor Heinicke pass complete short right to Antonio Gibson for 18 yards (tackle by Jonathan Owens),3.57,6.06,11.0,2022,154
+2.0,6:17,,,,,,Timeout #1 by Washington Commanders,,,11.0,2022,154
+2.0,6:17,1.0,5.0,HOU 5,14.0,0.0,Taylor Heinicke right end for -2 yards (tackle by Rasheem Green and Desmond King),6.06,4.76,11.0,2022,154
+2.0,5:38,2.0,7.0,HOU 7,14.0,0.0,Antonio Gibson right tackle for no gain (tackle by Maliek Collins and Mario Addison),4.76,3.81,11.0,2022,154
+2.0,5:00,3.0,7.0,HOU 7,14.0,0.0,Taylor Heinicke pass incomplete short right intended for Logan Thomas,3.81,2.97,11.0,2022,154
+2.0,4:55,4.0,7.0,HOU 7,17.0,0.0,"Joey Slye 25 yard field goal good Penalty on HOU: Illegal Formation, 5 yards (declined)",2.97,3.0,11.0,2022,154
+2.0,4:53,,,WAS 35,17.0,0.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,11.0,2022,154
+2.0,4:53,1.0,10.0,HOU 25,17.0,0.0,Davis Mills pass incomplete short right intended for Dameon Pierce,0.61,0.06,11.0,2022,154
+2.0,4:49,2.0,10.0,HOU 25,17.0,0.0,Chris Moore left end for 3 yards (tackle by Jonathan Bostic),0.06,-0.23,11.0,2022,154
+2.0,4:14,3.0,7.0,HOU 28,17.0,0.0,"Davis Mills pass complete to Dare Ogunbowale for no gain. Penalty on Kenyon Green: Offensive Holding, 10 yards (accepted) (no play)",-0.23,-1.72,11.0,2022,154
+2.0,3:41,3.0,17.0,HOU 18,17.0,0.0,Davis Mills pass complete short middle to Dare Ogunbowale for 5 yards (tackle by Kamren Curl and Jamin Davis),-1.72,-1.83,11.0,2022,154
+2.0,3:07,4.0,12.0,HOU 23,17.0,0.0,"Cameron Johnston punts 44 yards, fair catch by Dax Milne at WAS-33. Penalty on Khaleke Hudson: Running Into the Kicker, 5 yards (declined)",-1.83,-1.14,11.0,2022,154
+2.0,3:00,1.0,10.0,WAS 33,17.0,0.0,"Antonio Gibson left guard for 2 yards (tackle by Tavierre Thomas and Jalen Pitre). Penalty on Trai Turner: Offensive Holding, 10 yards (accepted)",1.14,0.61,11.0,2022,154
+2.0,2:29,,,,,,Timeout #2 by Washington Commanders,,,11.0,2022,154
+2.0,2:29,1.0,18.0,WAS 25,17.0,0.0,Taylor Heinicke pass complete short left to Antonio Gibson for 4 yards (tackle by Jonathan Owens),0.61,0.05,11.0,2022,154
+2.0,2:00,2.0,14.0,WAS 29,17.0,0.0,Taylor Heinicke pass complete deep right to Terry McLaurin for 17 yards,0.05,1.99,11.0,2022,154
+2.0,1:53,1.0,10.0,WAS 46,17.0,0.0,Taylor Heinicke pass complete short middle to Terry McLaurin for 9 yards (tackle by Desmond King),1.99,2.67,11.0,2022,154
+2.0,1:48,2.0,1.0,HOU 45,17.0,0.0,Taylor Heinicke pass complete deep left to Logan Thomas for 17 yards (tackle by Desmond King),2.67,3.71,11.0,2022,154
+2.0,1:18,1.0,10.0,HOU 28,17.0,0.0,Antonio Gibson up the middle for no gain (tackle by Roy Lopez and Jonathan Owens),3.71,3.17,11.0,2022,154
+2.0,0:50,2.0,10.0,HOU 28,17.0,0.0,Taylor Heinicke pass complete deep middle to Cam Sims for 17 yards (tackle by Jalen Pitre),3.17,4.84,11.0,2022,154
+2.0,0:27,1.0,10.0,HOU 11,17.0,0.0,Taylor Heinicke pass complete short right to Logan Thomas for 5 yards (tackle by Tavierre Thomas and Jonathan Owens),4.84,5.08,11.0,2022,154
+2.0,0:22,,,,,,Timeout #3 by Washington Commanders,,,11.0,2022,154
+2.0,0:22,2.0,5.0,HOU 6,17.0,0.0,Taylor Heinicke pass incomplete,5.08,4.21,11.0,2022,154
+2.0,0:16,3.0,5.0,HOU 6,17.0,0.0,Taylor Heinicke pass incomplete short right,4.21,2.99,11.0,2022,154
+2.0,0:10,4.0,5.0,HOU 6,20.0,0.0,Joey Slye 24 yard field goal good,2.99,3.0,11.0,2022,154
+2.0,0:07,,,WAS 35,20.0,0.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,11.0,2022,154
+2.0,0:07,1.0,10.0,HOU 25,20.0,0.0,Davis Mills kneels for -1 yards,0.61,-0.07,11.0,2022,154
+3.0,15:00,,,WAS 35,20.0,0.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,11.0,2022,154
+3.0,15:00,1.0,10.0,HOU 25,20.0,0.0,Davis Mills pass complete short right to O.J. Howard for 9 yards (tackle by Jamin Davis and Darrick Forrest),0.61,1.28,11.0,2022,154
+3.0,14:27,2.0,1.0,HOU 34,20.0,0.0,Dameon Pierce up the middle for 3 yards (tackle by Jonathan Bostic),1.28,1.4,11.0,2022,154
+3.0,14:02,1.0,10.0,HOU 37,20.0,0.0,Davis Mills pass complete short left to Brandin Cooks for 41 yards (tackle by Darrick Forrest),1.4,4.11,11.0,2022,154
+3.0,13:16,1.0,10.0,WAS 22,20.0,0.0,Davis Mills pass complete short left to Dameon Pierce for 7 yards (tackle by Kamren Curl and Jamin Davis),4.11,4.65,11.0,2022,154
+3.0,12:36,2.0,3.0,WAS 15,20.0,0.0,Davis Mills pass incomplete short left intended for Nico Collins,4.65,3.93,11.0,2022,154
+3.0,12:34,3.0,3.0,WAS 15,20.0,0.0,Davis Mills pass incomplete short right intended for Jordan Akins (defended by Daron Payne),3.93,2.54,11.0,2022,154
+3.0,12:30,4.0,3.0,WAS 15,20.0,0.0,Davis Mills scrambles right end for 4 yards (tackle by Daron Payne),2.54,4.84,11.0,2022,154
+3.0,11:55,1.0,10.0,WAS 11,20.0,0.0,"Davis Mills pass complete short middle to Dameon Pierce for 1 yard (tackle by John Ridgeway). Penalty on John Ridgeway: Unnecessary Roughness / Defense, 6 yards (accepted) (no play)",4.84,6.06,11.0,2022,154
+3.0,11:22,1.0,5.0,WAS 5,20.0,0.0,Davis Mills left tackle for 1 yard (tackle by Kamren Curl),6.06,5.34,11.0,2022,154
+3.0,10:46,2.0,4.0,WAS 4,20.0,0.0,Davis Mills pass incomplete short left intended for O.J. Howard,5.34,4.49,11.0,2022,154
+3.0,10:41,3.0,4.0,WAS 4,20.0,0.0,Davis Mills sacked by Montez Sweat for -7 yards,4.49,2.7,11.0,2022,154
+3.0,9:56,4.0,11.0,WAS 11,20.0,3.0,Ka'imi Fairbairn 29 yard field goal good,2.7,3.0,11.0,2022,154
+3.0,9:53,,,HOU 35,20.0,3.0,"Ka'imi Fairbairn kicks off 61 yards, returned by Antonio Gibson for 27 yards (tackle by Eric Murray)",0.0,1.0,11.0,2022,154
+3.0,9:48,1.0,10.0,WAS 31,20.0,3.0,Brian Robinson right tackle for 2 yards (tackle by Christian Harris),1.0,0.73,11.0,2022,154
+3.0,9:08,2.0,8.0,WAS 33,20.0,3.0,Brian Robinson right tackle for 6 yards (tackle by Christian Kirksey),0.73,0.83,11.0,2022,154
+3.0,8:27,3.0,2.0,WAS 39,20.0,3.0,Brian Robinson right tackle for 3 yards (tackle by Maliek Collins and Jonathan Owens),0.83,1.73,11.0,2022,154
+3.0,7:49,1.0,10.0,WAS 42,20.0,3.0,Taylor Heinicke pass complete short right to Logan Thomas for 8 yards (tackle by Desmond King),1.73,2.27,11.0,2022,154
+3.0,7:19,2.0,2.0,WAS 50,20.0,3.0,Antonio Gibson up the middle for 1 yard (tackle by Christian Harris and Ogbonnia Okoronkwo),2.27,1.69,11.0,2022,154
+3.0,6:38,3.0,1.0,HOU 49,20.0,3.0,Taylor Heinicke pass incomplete intended for John Bates,1.69,0.0,11.0,2022,154
+3.0,6:33,4.0,1.0,HOU 49,20.0,3.0,"Penalty on Camaron Cheeseman: False Start, 5 yards (accepted) (no play)",0.0,-0.32,11.0,2022,154
+3.0,6:33,4.0,6.0,WAS 46,20.0,3.0,"Tress Way punts 48 yards, fair catch by Desmond King at HOU-6",-0.32,0.38,11.0,2022,154
+3.0,6:26,1.0,10.0,HOU 6,20.0,3.0,Dameon Pierce up the middle for 2 yards (tackle by Daron Payne and Jonathan Bostic),-0.38,-0.63,11.0,2022,154
+3.0,5:49,2.0,8.0,HOU 8,20.0,3.0,Davis Mills pass complete short left to Dameon Pierce for 2 yards (tackle by Bobby McCain and Kendall Fuller),-0.63,-0.95,11.0,2022,154
+3.0,5:17,3.0,6.0,HOU 10,20.0,3.0,Davis Mills pass complete short right to Chris Moore for 11 yards (tackle by Kendall Fuller),-0.95,0.34,11.0,2022,154
+3.0,4:38,1.0,10.0,HOU 21,20.0,3.0,Davis Mills pass incomplete deep left intended for Phillip Dorsett,0.34,-0.2,11.0,2022,154
+3.0,4:32,2.0,10.0,HOU 21,20.0,3.0,"Davis Mills pass incomplete short right. Penalty on Kenyon Green: Ineligible Downfield Pass, 5 yards (declined)",-0.2,-0.89,11.0,2022,154
+3.0,4:27,3.0,10.0,HOU 21,20.0,3.0,Davis Mills sacked by Jonathan Allen for -12 yards,-0.89,-2.49,11.0,2022,154
+3.0,3:51,4.0,22.0,HOU 9,20.0,3.0,"Cameron Johnston punts 53 yards, returned by Dax Milne for 16 yards (tackle by M.J. Stewart)",-2.49,-2.52,11.0,2022,154
+3.0,3:39,1.0,10.0,HOU 46,20.0,3.0,Antonio Gibson left tackle for 2 yards (tackle by Rasheem Green),2.52,2.25,11.0,2022,154
+3.0,2:57,2.0,8.0,HOU 44,20.0,3.0,Taylor Heinicke pass complete short middle to Curtis Samuel for 10 yards (tackle by M.J. Stewart),2.25,3.31,11.0,2022,154
+3.0,2:20,1.0,10.0,HOU 34,20.0,3.0,Antonio Gibson left end for -4 yards (tackle by Roy Lopez),3.31,2.23,11.0,2022,154
+3.0,1:33,2.0,14.0,HOU 38,20.0,3.0,Taylor Heinicke scrambles right end for 4 yards (tackle by Tavierre Thomas),2.23,2.08,11.0,2022,154
+3.0,0:49,3.0,10.0,HOU 34,20.0,3.0,Taylor Heinicke pass complete short right to Antonio Gibson for 9 yards (tackle by Jalen Pitre and Ogbonnia Okoronkwo),2.08,1.95,11.0,2022,154
+4.0,15:00,4.0,1.0,HOU 25,20.0,3.0,Brian Robinson left end for 3 yards (tackle by Christian Kirksey),1.95,4.11,11.0,2022,154
+4.0,14:21,1.0,10.0,HOU 22,20.0,3.0,Antonio Gibson up the middle for no gain (tackle by Christian Harris and Kurt Hinish),4.11,3.56,11.0,2022,154
+4.0,13:35,2.0,10.0,HOU 22,20.0,3.0,"Taylor Heinicke aborted snap, recovered by Taylor Heinicke at HOU-22 and returned for -9 yards",3.56,1.69,11.0,2022,154
+4.0,12:52,3.0,19.0,HOU 31,20.0,3.0,Antonio Gibson up the middle for 5 yards (tackle by Christian Kirksey),1.69,1.74,11.0,2022,154
+4.0,12:12,4.0,14.0,HOU 26,23.0,3.0,Joey Slye 44 yard field goal good,1.74,3.0,11.0,2022,154
+4.0,12:08,,,WAS 35,23.0,3.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,11.0,2022,154
+4.0,12:08,1.0,10.0,HOU 25,23.0,3.0,Davis Mills pass complete short left to Nico Collins for 6 yards (tackle by Bobby McCain),0.61,0.87,11.0,2022,154
+4.0,11:44,2.0,4.0,HOU 31,23.0,3.0,Dameon Pierce up the middle for 2 yards (tackle by Casey Toohill and Jamin Davis),0.87,0.43,11.0,2022,154
+4.0,11:01,,,,,,Timeout #1 by Houston Texans,,,11.0,2022,154
+4.0,11:01,3.0,2.0,HOU 33,23.0,3.0,Davis Mills pass incomplete deep left intended for O.J. Howard,0.43,-1.18,11.0,2022,154
+4.0,10:56,4.0,2.0,HOU 33,23.0,3.0,Davis Mills pass complete short middle to Brandin Cooks for 19 yards (tackle by Bobby McCain),-1.18,2.39,11.0,2022,154
+4.0,10:19,1.0,10.0,WAS 48,23.0,3.0,Davis Mills pass incomplete deep right intended for Chris Moore,2.39,1.85,11.0,2022,154
+4.0,10:13,2.0,10.0,WAS 48,23.0,3.0,"Davis Mills pass incomplete intended for Brandin Cooks Replay Assistant challenged the pass completion ruling, and the original play was overturned. Davis Mills pass deep left (defended by Benjamin St-Juste) intended for Brandin Cooks is intercepted by Darrick Forrest at WAS-3 and returned for no gain",1.85,0.38,11.0,2022,154
+4.0,10:05,1.0,10.0,WAS 3,23.0,3.0,Brian Robinson right guard for 11 yards (tackle by Eric Murray and Jerry Hughes),-0.38,-0.28,11.0,2022,154
+4.0,9:23,1.0,10.0,WAS 14,23.0,3.0,Brian Robinson right guard for 2 yards (tackle by Desmond King),-0.28,-0.51,11.0,2022,154
+4.0,8:42,2.0,8.0,WAS 16,23.0,3.0,Brian Robinson right guard for -2 yards (tackle by Ogbonnia Okoronkwo and Christian Harris),-0.51,-1.4,11.0,2022,154
+4.0,7:55,3.0,10.0,WAS 14,23.0,3.0,Taylor Heinicke pass incomplete short right intended for Cole Turner,-1.4,-2.47,11.0,2022,154
+4.0,7:50,4.0,10.0,WAS 14,23.0,3.0,"Tress Way punts 46 yards, returned by Desmond King for 5 yards (tackle by Jeremy Reaves)",-2.47,-1.93,11.0,2022,154
+4.0,7:39,1.0,10.0,HOU 45,23.0,3.0,Davis Mills pass complete short left to Nico Collins for 22 yards (tackle by Darrick Forrest),1.93,3.38,11.0,2022,154
+4.0,7:03,1.0,10.0,WAS 33,23.0,3.0,Davis Mills pass incomplete short middle intended for Brandin Cooks,3.38,2.84,11.0,2022,154
+4.0,6:58,2.0,10.0,WAS 33,23.0,3.0,Davis Mills pass complete short right to Chris Moore for -2 yards (tackle by James Smith-Williams),2.84,1.88,11.0,2022,154
+4.0,6:24,3.0,12.0,WAS 35,23.0,3.0,Davis Mills pass complete short middle to Nico Collins for 8 yards (tackle by Bobby McCain),1.88,1.75,11.0,2022,154
+4.0,5:42,4.0,4.0,WAS 27,23.0,3.0,Davis Mills pass complete short middle to Jordan Akins for 8 yards (tackle by Kamren Curl),1.75,4.31,11.0,2022,154
+4.0,5:18,1.0,10.0,WAS 19,23.0,3.0,Davis Mills pass incomplete deep middle intended for Teagan Quitoriano,4.31,3.75,11.0,2022,154
+4.0,5:16,2.0,10.0,WAS 19,23.0,3.0,Davis Mills pass complete short right to Chris Moore for 6 yards (tackle by Danny Johnson),3.75,3.96,11.0,2022,154
+4.0,4:35,3.0,4.0,WAS 13,23.0,3.0,Davis Mills pass incomplete short left intended for Chris Moore,3.96,2.64,11.0,2022,154
+4.0,4:29,4.0,4.0,WAS 13,23.0,3.0,Davis Mills pass complete short left to Brandin Cooks for 10 yards (tackle by Kendall Fuller),2.64,6.51,11.0,2022,154
+4.0,4:04,1.0,3.0,WAS 3,23.0,3.0,Dameon Pierce up the middle for -1 yards (tackle by Casey Toohill),6.51,5.47,11.0,2022,154
+4.0,3:25,2.0,3.0,WAS 4,23.0,9.0,"Davis Mills scrambles left guard for 4 yards, touchdown",5.47,7.0,11.0,2022,154
+4.0,3:19,,,WAS 15,23.0,10.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,11.0,2022,154
+4.0,3:19,,,HOU 35,23.0,10.0,"Ka'imi Fairbairn kicks onside 7 yards, returned by Khaleke Hudson for no gain",0.0,2.79,11.0,2022,154
+4.0,3:17,1.0,10.0,HOU 42,23.0,10.0,Brian Robinson left guard for 6 yards (tackle by Jonathan Owens and Desmond King),2.79,3.05,11.0,2022,154
+4.0,3:12,,,,,,Timeout #2 by Houston Texans,,,11.0,2022,154
+4.0,3:12,2.0,4.0,HOU 36,23.0,10.0,Brian Robinson for 2 yards (tackle by Jake Hansen),3.05,2.61,11.0,2022,154
+4.0,2:28,3.0,2.0,HOU 34,23.0,10.0,Antonio Gibson right guard for 18 yards (tackle by Jalen Pitre and Desmond King),2.61,4.51,11.0,2022,154
+4.0,2:18,,,,,,Timeout #3 by Houston Texans,,,11.0,2022,154
+4.0,2:18,1.0,10.0,HOU 16,23.0,10.0,Antonio Gibson up the middle for 2 yards (tackle by Ogbonnia Okoronkwo and Jerry Hughes),4.51,4.21,11.0,2022,154
+4.0,2:00,2.0,8.0,HOU 14,23.0,10.0,Antonio Gibson left guard for 7 yards (tackle by Jonathan Owens),4.21,4.85,11.0,2022,154
+4.0,1:12,,,,,,Timeout #1 by Washington Commanders,,,11.0,2022,154
+4.0,1:12,3.0,1.0,HOU 7,23.0,10.0,Brian Robinson up the middle for no gain (tackle by Ogbonnia Okoronkwo),4.85,3.01,11.0,2022,154
+4.0,0:27,,,,,,Timeout #2 by Washington Commanders,,,11.0,2022,154
+4.0,0:27,4.0,1.0,HOU 7,23.0,10.0,Antonio Gibson left guard for 3 yards (tackle by Desmond King and Jonathan Owens),3.01,4.91,11.0,2022,154

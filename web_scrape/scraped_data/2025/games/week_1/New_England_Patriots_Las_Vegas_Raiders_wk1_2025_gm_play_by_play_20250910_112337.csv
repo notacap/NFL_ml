@@ -1,0 +1,181 @@
+Quarter,Time,Down,ToGo,Location,LVR,NWE,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Patriots won the coin toss and deferred, Raiders to receive the opening kickoff.",,,1,2025,8
+1.0,15:00,,,NWE 35,0.0,0.0,"Andres Borregales kicks off 65 yards, returned by Dylan Laube for 34 yards (tackle by Marte Mapu)",0.0,1.2,1,2025,8
+1.0,14:55,1.0,10.0,LVR 34,0.0,0.0,Geno Smith pass complete short middle to Brock Bowers for 23 yards (tackle by Jaylinn Hawkins),1.2,2.72,1,2025,8
+1.0,14:27,1.0,10.0,NWE 43,0.0,0.0,Ashton Jeanty right guard for 9 yards (tackle by Alex Austin and Christian Elliss),2.72,3.39,1,2025,8
+1.0,13:47,2.0,1.0,NWE 34,0.0,0.0,Geno Smith pass complete short left to Dont'e Thornton for 9 yards (tackle by Alex Austin),3.39,3.91,1,2025,8
+1.0,13:11,1.0,10.0,NWE 25,0.0,0.0,Ashton Jeanty right guard for 4 yards (tackle by Harold Landry),3.91,3.9,1,2025,8
+1.0,12:30,2.0,6.0,NWE 21,0.0,0.0,Geno Smith pass incomplete short middle intended for Tre Tucker,3.9,3.2,1,2025,8
+1.0,12:23,3.0,6.0,NWE 21,0.0,0.0,"Penalty on Dylan Parham: False Start, 5 yards (accepted) (no play)",3.2,2.54,1,2025,8
+1.0,12:23,3.0,11.0,NWE 26,6.0,0.0,"Geno Smith pass complete deep right to Tre Tucker for 26 yards, touchdown",2.54,7.0,1,2025,8
+1.0,12:17,,,NWE 15,7.0,0.0,Daniel Carlson kicks extra point good,0.0,0.0,1,2025,8
+1.0,12:17,,,LVR 35,7.0,0.0,"Daniel Carlson kicks off 59 yards, returned by Antonio Gibson for 41 yards (tackle by Tommy Eichenberg)",0.0,2.06,1,2025,8
+1.0,12:11,1.0,10.0,NWE 47,7.0,0.0,Drake Maye scrambles right end for 1 yard (tackle by Thomas Booker),2.06,1.65,1,2025,8
+1.0,11:27,2.0,9.0,NWE 48,7.0,0.0,Rhamondre Stevenson up the middle for 1 yard (tackle by Devin White),1.65,1.09,1,2025,8
+1.0,10:46,3.0,8.0,NWE 49,7.0,0.0,Drake Maye pass incomplete short right intended for Demario Douglas,1.09,-0.13,1,2025,8
+1.0,10:41,4.0,8.0,NWE 49,7.0,0.0,"Bryce Baringer punts 46 yards, fair catch by Tre Tucker at LV-5",-0.13,0.38,1,2025,8
+1.0,10:34,1.0,10.0,LVR 5,7.0,0.0,Ashton Jeanty up the middle for 9 yards (tackle by Craig Woodson),-0.38,-0.1,1,2025,8
+1.0,9:57,2.0,1.0,LVR 14,7.0,0.0,Geno Smith pass incomplete deep left intended for Dont'e Thornton,-0.1,-0.37,1,2025,8
+1.0,9:50,3.0,1.0,LVR 14,7.0,0.0,Geno Smith pass complete short right to Jakobi Meyers for 4 yards,-0.37,0.04,1,2025,8
+1.0,9:15,1.0,10.0,LVR 18,7.0,0.0,Geno Smith sacked by Harold Landry for 5 yards,0.04,-1.14,1,2025,8
+1.0,8:31,2.0,15.0,LVR 13,7.0,0.0,Geno Smith pass complete short left to Jakobi Meyers for 24 yards (tackle by Christian Elliss),-1.14,1.4,1,2025,8
+1.0,7:57,1.0,10.0,LVR 37,7.0,0.0,Zamir White right tackle for no gain (tackle by Khyiris Tonga),1.4,0.86,1,2025,8
+1.0,7:16,2.0,10.0,LVR 37,7.0,0.0,Geno Smith pass incomplete short middle intended for Alex Bachman (defended by Marcus Jones),0.86,0.17,1,2025,8
+1.0,7:15,3.0,10.0,LVR 37,7.0,0.0,Geno Smith pass complete short left to Jack Bech for 23 yards (tackle by Alex Austin and Christian Elliss),0.17,2.92,1,2025,8
+1.0,6:30,1.0,10.0,NWE 40,7.0,0.0,"Geno Smith pass incomplete short middle intended for Jakobi Meyers. Penalty on Jackson Powers-Johnson: Ineligible Downfield Pass, 5 yards (declined)",2.92,2.37,1,2025,8
+1.0,6:30,2.0,10.0,NWE 40,7.0,0.0,Geno Smith pass deep left (defended by Carlton Davis) intended for Brock Bowers is intercepted by Jaylinn Hawkins at NE-17 and returned for 1 yard (tackle by Brock Bowers),2.37,-0.04,1,2025,8
+1.0,6:22,1.0,10.0,NWE 18,7.0,0.0,"Penalty on Adam Butler: Encroachment, 5 yards (accepted) (no play)",0.04,0.88,1,2025,8
+1.0,6:22,1.0,5.0,NWE 23,7.0,0.0,Drake Maye scrambles left end for 3 yards (tackle by Jamal Adams),0.88,0.68,1,2025,8
+1.0,5:45,2.0,2.0,NWE 26,7.0,0.0,Rhamondre Stevenson left guard for 2 yards (tackle by Devin White),0.68,0.81,1,2025,8
+1.0,4:58,1.0,10.0,NWE 28,7.0,0.0,Drake Maye sacked by Maxx Crosby for 1 yard,0.81,0.13,1,2025,8
+1.0,4:17,2.0,11.0,NWE 27,7.0,0.0,Drake Maye pass complete deep right to Hunter Henry for 27 yards (tackle by Isaiah Pola-Mao),0.13,2.52,1,2025,8
+1.0,3:50,1.0,10.0,LVR 46,7.0,0.0,Drake Maye pass incomplete short right intended for Hunter Henry,2.52,1.98,1,2025,8
+1.0,3:38,2.0,10.0,LVR 46,7.0,0.0,Drake Maye pass incomplete short right intended for Demario Douglas,1.98,1.29,1,2025,8
+1.0,3:34,3.0,10.0,LVR 46,7.0,0.0,Drake Maye pass complete deep middle to Kayshon Boutte for 24 yards (tackle by Devin White and Eric Stokes),1.29,4.11,1,2025,8
+1.0,2:59,1.0,10.0,LVR 22,7.0,0.0,TreVeyon Henderson left end for 7 yards (tackle by Kyu Blu Kelly),4.11,4.65,1,2025,8
+1.0,2:22,2.0,3.0,LVR 15,7.0,0.0,Drake Maye pass complete short right to Austin Hooper for 10 yards (tackle by Elandon Roberts),4.65,6.06,1,2025,8
+1.0,1:45,1.0,5.0,LVR 5,7.0,0.0,Rhamondre Stevenson left guard for 3 yards (tackle by Jonah Laulu),6.06,5.72,1,2025,8
+1.0,1:12,2.0,2.0,LVR 2,7.0,0.0,Drake Maye pass incomplete short left intended for Demario Douglas,5.72,4.95,1,2025,8
+1.0,1:06,3.0,2.0,LVR 2,7.0,6.0,"Drake Maye pass complete short left to Demario Douglas for 2 yards, touchdown",4.95,7.0,1,2025,8
+1.0,1:02,,,LVR 15,7.0,7.0,Andres Borregales kicks extra point good,0.0,0.0,1,2025,8
+1.0,1:02,,,NWE 35,7.0,7.0,"Andres Borregales kicks off 65 yards, returned by Zamir White for 31 yards (tackle by Mark Robinson and Jack Gibbens)",0.0,1.0,1,2025,8
+1.0,0:57,1.0,10.0,LVR 31,7.0,7.0,Ashton Jeanty up the middle for 3 yards (tackle by Milton Williams and K'Lavon Chaisson),1.0,0.87,1,2025,8
+1.0,0:19,2.0,7.0,LVR 34,7.0,7.0,Ashton Jeanty up the middle for -1 yards (tackle by Harold Landry and Craig Woodson),0.87,0.04,1,2025,8
+2.0,15:00,3.0,8.0,LVR 33,7.0,7.0,Geno Smith sacked by Jaylinn Hawkins for 5 yards,0.04,-1.5,1,2025,8
+2.0,14:21,4.0,13.0,LVR 28,7.0,7.0,"AJ Cole punts 55 yards, returned by Marcus Jones for 9 yards (tackle by Decamerion Richardson)",-1.5,-0.67,1,2025,8
+2.0,14:09,1.0,10.0,NWE 26,7.0,7.0,"TreVeyon Henderson left tackle for no gain. Penalty on Jared Wilson: Offensive Holding, 10 yards (accepted) (tackle by Germaine Pratt) (no play)",0.67,-0.3,1,2025,8
+2.0,13:46,1.0,20.0,NWE 16,7.0,7.0,Drake Maye pass complete short right to Stefon Diggs for 5 yards (tackle by Jamal Adams),-0.3,-0.55,1,2025,8
+2.0,13:06,2.0,15.0,NWE 21,7.0,7.0,Drake Maye pass complete short right to Kayshon Boutte for 14 yards (tackle by Eric Stokes),-0.55,0.63,1,2025,8
+2.0,12:35,3.0,1.0,NWE 35,7.0,7.0,"TreVeyon Henderson left end for 14 yards. Penalty on Thomas Booker: Defensive Offside, 5 yards (declined) (tackle by Devin White)",0.63,2.19,1,2025,8
+2.0,12:22,1.0,10.0,NWE 49,7.0,7.0,TreVeyon Henderson left tackle for 3 yards (tackle by Germaine Pratt and Malcolm Koonce),2.19,2.05,1,2025,8
+2.0,11:44,2.0,7.0,LVR 48,7.0,7.0,Drake Maye pass complete deep left to Hunter Henry for 19 yards (tackle by Germaine Pratt),2.05,3.64,1,2025,8
+2.0,11:20,1.0,10.0,LVR 29,7.0,7.0,Drake Maye pass incomplete deep left intended for Hunter Henry,3.64,3.1,1,2025,8
+2.0,11:09,2.0,10.0,LVR 29,7.0,7.0,Drake Maye pass complete short middle to Kayshon Boutte for 14 yards (tackle by Isaiah Pola-Mao),3.1,4.58,1,2025,8
+2.0,10:32,1.0,10.0,LVR 15,7.0,7.0,TreVeyon Henderson left tackle for -2 yards (tackle by Devin White),4.58,3.68,1,2025,8
+2.0,9:55,2.0,12.0,LVR 17,7.0,7.0,Drake Maye pass incomplete short middle intended for Demario Douglas (defended by Thomas Booker),3.68,2.98,1,2025,8
+2.0,9:48,3.0,12.0,LVR 17,7.0,7.0,"Penalty on Drake Maye: Delay of Game, 5 yards (accepted) (no play)",2.98,2.41,1,2025,8
+2.0,9:48,3.0,17.0,LVR 22,7.0,7.0,Drake Maye pass complete short left to TreVeyon Henderson for no gain (tackle by Adam Butler and Germaine Pratt),2.41,1.99,1,2025,8
+2.0,9:11,4.0,17.0,LVR 22,7.0,7.0,Andres Borregales 40 yard field goal no good,1.99,-0.94,1,2025,8
+2.0,9:07,1.0,10.0,LVR 30,7.0,7.0,Ashton Jeanty left guard for no gain (tackle by Christian Barmore and Khyiris Tonga),0.94,0.39,1,2025,8
+2.0,8:30,2.0,10.0,LVR 30,7.0,7.0,Geno Smith pass complete short left to Ashton Jeanty for 4 yards (tackle by Christian Elliss),0.39,0.23,1,2025,8
+2.0,7:54,3.0,6.0,LVR 34,7.0,7.0,"Geno Smith pass incomplete short middle intended for Brock Bowers (defended by Alex Austin). Penalty on Delmar Glaze: Illegal Formation, 5 yards (declined)",0.23,-1.11,1,2025,8
+2.0,7:49,4.0,6.0,LVR 34,7.0,7.0,AJ Cole punts 39 yards out of bounds,-1.11,-0.74,1,2025,8
+2.0,7:42,1.0,10.0,NWE 27,7.0,7.0,"TreVeyon Henderson left tackle for no gain. Penalty on Austin Hooper: Offensive Holding, 10 yards (accepted) (tackle by Tommy Eichenberg) (no play)",0.74,-0.17,1,2025,8
+2.0,7:20,1.0,20.0,NWE 17,7.0,7.0,Drake Maye pass complete short left to TreVeyon Henderson for 5 yards (tackle by Thomas Booker and Germaine Pratt),-0.17,-0.48,1,2025,8
+2.0,6:42,2.0,15.0,NWE 22,7.0,7.0,Drake Maye pass complete deep left to Kayshon Boutte for 22 yards (tackle by Isaiah Pola-Mao),-0.48,1.86,1,2025,8
+2.0,5:59,1.0,10.0,NWE 44,7.0,7.0,Rhamondre Stevenson left end for 6 yards (tackle by Kyu Blu Kelly and Devin White),1.86,2.13,1,2025,8
+2.0,5:22,2.0,4.0,NWE 50,7.0,7.0,Rhamondre Stevenson left tackle for 3 yards (tackle by Adam Butler and Maxx Crosby),2.13,1.82,1,2025,8
+2.0,4:51,3.0,1.0,LVR 47,7.0,7.0,Rhamondre Stevenson left end for no gain (tackle by Jamal Adams and Germaine Pratt),1.82,0.13,1,2025,8
+2.0,4:05,,,,,,Timeout #1 by New England Patriots,,,1,2025,8
+2.0,4:05,4.0,1.0,LVR 47,7.0,7.0,"Drake Maye pass incomplete deep left intended for Mack Hollins. Penalty on Kyu Blu Kelly: Defensive Pass Interference, 22 yards (accepted) (no play)",0.13,3.91,1,2025,8
+2.0,4:00,1.0,10.0,LVR 25,7.0,7.0,Drake Maye pass complete short right to Demario Douglas for -4 yards (tackle by Eric Stokes),3.91,2.82,1,2025,8
+2.0,3:15,2.0,14.0,LVR 29,7.0,7.0,TreVeyon Henderson left end for 5 yards (tackle by Isaiah Pola-Mao and Malcolm Koonce),2.82,2.81,1,2025,8
+2.0,2:36,3.0,9.0,LVR 24,7.0,7.0,Drake Maye pass complete short right to Stefon Diggs for 7 yards (tackle by Devin White),2.81,2.44,1,2025,8
+2.0,2:00,4.0,2.0,LVR 17,7.0,10.0,Andres Borregales 35 yard field goal good,2.44,3.0,1,2025,8
+2.0,1:57,,,NWE 35,7.0,10.0,"Andres Borregales kicks off 60 yards, returned by Dylan Laube for 31 yards (tackle by Mark Robinson and Corey Ballentine)",0.0,1.33,1,2025,8
+2.0,1:51,1.0,10.0,LVR 36,7.0,10.0,Geno Smith pass incomplete short left intended for Brock Bowers,1.33,0.79,1,2025,8
+2.0,1:47,2.0,10.0,LVR 36,7.0,10.0,Geno Smith sacked by and Harold Landry for 10 yards and K'Lavon Chaisson for 10 yards,0.79,-1.22,1,2025,8
+2.0,1:36,,,,,,Timeout #2 by New England Patriots,,,1,2025,8
+2.0,1:36,3.0,20.0,LVR 26,7.0,10.0,"Geno Smith pass complete short right to Jakobi Meyers for 4 yards. Penalty on Jackson Powers-Johnson: Unnecessary Roughness / Offense, 15 yards (accepted) (tackle by Carlton Davis)",-1.22,-2.44,1,2025,8
+2.0,1:25,4.0,31.0,LVR 15,7.0,10.0,"AJ Cole punts 56 yards, returned by Marcus Jones for 7 yards. Penalty on Jack Gibbens: Offensive Illegal Block Above the Waist, 10 yards (accepted) (tackle by Charles Snowden and Jacob Bobenmoyer)",-2.44,-0.67,1,2025,8
+2.0,1:25,1.0,10.0,NWE 26,7.0,10.0,Drake Maye left end for 4 yards (tackle by Tyree Wilson),0.67,0.67,1,2025,8
+2.0,0:59,2.0,6.0,NWE 30,7.0,10.0,Drake Maye pass complete short left to Rhamondre Stevenson for 5 yards (tackle by Jeremy Chinn),0.67,0.63,1,2025,8
+2.0,0:53,3.0,1.0,NWE 35,7.0,10.0,Rhamondre Stevenson left guard for no gain (tackle by Devin White and Tyree Wilson),0.63,-1.04,1,2025,8
+2.0,0:47,,,,,,Timeout #1 by Las Vegas Raiders,,,1,2025,8
+2.0,0:47,4.0,1.0,NWE 35,7.0,10.0,Bryce Baringer punts 39 yards out of bounds,-1.04,-0.67,1,2025,8
+2.0,0:39,1.0,10.0,LVR 26,7.0,10.0,Geno Smith pass complete short right to Brock Bowers for 5 yards (tackle by Dell Pettus and Carlton Davis),0.67,0.81,1,2025,8
+2.0,0:32,,,,,,Timeout #2 by Las Vegas Raiders,,,1,2025,8
+2.0,0:32,2.0,5.0,LVR 31,7.0,10.0,Geno Smith pass complete short middle to Brock Bowers for 7 yards (tackle by Dell Pettus),0.81,1.47,1,2025,8
+2.0,0:26,,,,,,Timeout #3 by Las Vegas Raiders,,,1,2025,8
+2.0,0:26,1.0,10.0,LVR 38,7.0,10.0,Geno Smith scrambles left end for 11 yards (tackle by Jaylinn Hawkins),1.47,2.19,1,2025,8
+2.0,0:16,,,,,,Timeout #3 by New England Patriots,,,1,2025,8
+2.0,0:16,1.0,10.0,LVR 49,7.0,10.0,Geno Smith pass complete short right to Jakobi Meyers for 11 yards (tackle by D.J. James),2.19,2.92,1,2025,8
+2.0,0:03,1.0,10.0,NWE 40,7.0,10.0,Geno Smith spiked the ball,2.92,2.37,1,2025,8
+2.0,0:02,2.0,10.0,NWE 40,7.0,10.0,Daniel Carlson 58 yard field goal no good,2.37,2.06,1,2025,8
+3.0,15:00,,,LVR 35,7.0,10.0,"Daniel Carlson kicks off 63 yards, returned by TreVeyon Henderson for 20 yards. Penalty on Elijah Ponder: Offensive Holding, 10 yards (accepted) (tackle by Charles Snowden)",0.0,-0.35,1,2025,8
+3.0,14:55,1.0,10.0,NWE 12,7.0,10.0,Drake Maye pass complete short left to TreVeyon Henderson for 6 yards (tackle by Kyu Blu Kelly),-0.35,-0.07,1,2025,8
+3.0,14:27,2.0,4.0,NWE 18,7.0,10.0,Drake Maye pass complete short left to Kayshon Boutte for 10 yards (tackle by Kyu Blu Kelly),-0.07,0.81,1,2025,8
+3.0,13:43,1.0,10.0,NWE 28,7.0,10.0,Drake Maye pass complete short right to Rhamondre Stevenson for 7 yards (tackle by Devin White),0.81,1.21,1,2025,8
+3.0,13:13,2.0,3.0,NWE 35,7.0,10.0,Drake Maye pass complete short right to Stefon Diggs for 10 yards (tackle by Germaine Pratt and Eric Stokes),1.21,1.93,1,2025,8
+3.0,12:48,1.0,10.0,NWE 45,7.0,10.0,Drake Maye scrambles up the middle for 3 yards (tackle by Thomas Booker and Devin White),1.93,1.79,1,2025,8
+3.0,12:24,2.0,7.0,NWE 48,7.0,10.0,Drake Maye pass deep right intended for Stefon Diggs is intercepted by Isaiah Pola-Mao at LV-29 and returned for no gain (tackle by Stefon Diggs),1.79,-0.87,1,2025,8
+3.0,12:14,1.0,10.0,LVR 29,7.0,10.0,Geno Smith pass complete deep left to Jakobi Meyers for 23 yards (tackle by Craig Woodson and Carlton Davis),0.87,2.39,1,2025,8
+3.0,11:40,1.0,10.0,NWE 48,7.0,10.0,"Geno Smith pass complete short middle to Jakobi Meyers for 19 yards. Penalty on Jaylinn Hawkins: Unnecessary Roughness / Defense, 15 yards (accepted) (tackle by Alex Austin and Kyle Dugger)",2.39,4.65,1,2025,8
+3.0,11:14,1.0,10.0,NWE 14,7.0,10.0,Ashton Jeanty left end for 4 yards (tackle by Robert Spillane),4.65,4.71,1,2025,8
+3.0,10:31,2.0,6.0,NWE 10,7.0,10.0,Geno Smith pass complete short left to Michael Mayer for 7 yards (tackle by Christian Elliss),4.71,6.51,1,2025,8
+3.0,9:44,1.0,3.0,NWE 3,13.0,10.0,"Ashton Jeanty up the middle for 3 yards, touchdown",6.51,7.0,1,2025,8
+3.0,9:39,,,NWE 15,14.0,10.0,Daniel Carlson kicks extra point good,0.0,0.0,1,2025,8
+3.0,9:39,,,LVR 35,14.0,10.0,"Daniel Carlson kicks off 29 yards,. Penalty on Daniel Carlson: Kickoff Short of Landing Zone, 4 yards (accepted)",0.0,1.6,1,2025,8
+3.0,9:39,1.0,10.0,NWE 40,14.0,10.0,Drake Maye pass incomplete short left intended for Hunter Henry,1.6,1.05,1,2025,8
+3.0,9:35,2.0,10.0,NWE 40,14.0,10.0,Drake Maye pass complete short left to TreVeyon Henderson for -1 yards (tackle by Isaiah Pola-Mao),1.05,0.23,1,2025,8
+3.0,8:56,3.0,11.0,NWE 39,14.0,10.0,Drake Maye pass incomplete short left intended for Kayshon Boutte (defended by Kyu Blu Kelly),0.23,-0.78,1,2025,8
+3.0,8:50,4.0,11.0,NWE 39,14.0,10.0,Bryce Baringer punts 41 yards downed by K'Lavon Chaisson,-0.78,-0.28,1,2025,8
+3.0,8:40,1.0,10.0,LVR 20,14.0,10.0,Geno Smith pass complete deep right to Brock Bowers for 30 yards (tackle by Marcus Jones),0.28,2.26,1,2025,8
+3.0,8:03,1.0,10.0,LVR 50,14.0,10.0,Ashton Jeanty right guard for -1 yards (tackle by Jaylinn Hawkins),2.26,1.58,1,2025,8
+3.0,7:26,2.0,11.0,LVR 49,14.0,10.0,Geno Smith sacked by Harold Landry for 9 yards,1.58,-0.3,1,2025,8
+3.0,6:46,3.0,20.0,LVR 40,14.0,10.0,Geno Smith pass incomplete deep middle intended for Dont'e Thornton (defended by Carlton Davis),-0.3,-0.72,1,2025,8
+3.0,6:33,4.0,20.0,LVR 40,14.0,10.0,"AJ Cole punts 60 yards, touchback.. Penalty on Charles Snowden: Illegal Formation, 5 yards (accepted)",-0.72,-0.61,1,2025,8
+3.0,6:25,1.0,10.0,NWE 25,14.0,10.0,Demario Douglas left end for 4 yards (tackle by Devin White),0.61,0.6,1,2025,8
+3.0,5:50,2.0,6.0,NWE 29,14.0,10.0,Drake Maye pass complete short left to TreVeyon Henderson for 1 yard (tackle by Kyu Blu Kelly),0.6,0.04,1,2025,8
+3.0,5:11,3.0,5.0,NWE 30,14.0,10.0,Drake Maye sacked by Tyree Wilson for 2 yards,0.04,-1.5,1,2025,8
+3.0,4:37,4.0,7.0,NWE 28,14.0,10.0,"Bryce Baringer punts 59 yards, returned by Tre Tucker for 13 yards. Penalty on Tommy Eichenberg: Offensive Illegal Block Above the Waist, 10 yards (accepted) (tackle by Jack Gibbens)",-1.5,0.14,1,2025,8
+3.0,4:27,1.0,10.0,LVR 16,14.0,10.0,Geno Smith pass complete short left to Michael Mayer for 11 yards (tackle by Christian Elliss),-0.14,0.74,1,2025,8
+3.0,3:55,1.0,10.0,LVR 27,14.0,10.0,Geno Smith pass complete short middle to Brock Bowers for 38 yards (tackle by Craig Woodson),0.74,3.25,1,2025,8
+3.0,3:32,1.0,10.0,NWE 35,14.0,10.0,Geno Smith pass complete short left to Ashton Jeanty for -2 yards (tackle by Craig Woodson),3.25,2.43,1,2025,8
+3.0,2:59,2.0,12.0,NWE 37,14.0,10.0,"Ashton Jeanty left tackle for no gain. Penalty on Delmar Glaze: Offensive Holding, 10 yards (accepted) (tackle by Christian Elliss) (no play)",2.43,1.08,1,2025,8
+3.0,2:24,2.0,22.0,NWE 47,14.0,10.0,Zamir White left end for 3 yards (tackle by Christian Barmore and Kyle Dugger),1.08,0.83,1,2025,8
+3.0,1:43,3.0,19.0,NWE 44,14.0,10.0,Geno Smith pass complete short middle to Michael Mayer for 12 yards (tackle by Robert Spillane),0.83,1.24,1,2025,8
+3.0,0:56,4.0,7.0,NWE 32,17.0,10.0,Daniel Carlson 51 yard field goal good,1.24,3.0,1,2025,8
+3.0,0:52,,,LVR 35,17.0,10.0,"Daniel Carlson kicks off 61 yards, returned by Antonio Gibson for 27 yards (tackle by Justin Shorter and Alex Bachman)",0.0,1.0,1,2025,8
+3.0,0:45,1.0,10.0,NWE 31,17.0,10.0,"Penalty on Will Campbell: False Start, 5 yards (accepted) (no play)",1.0,0.67,1,2025,8
+3.0,0:45,1.0,15.0,NWE 26,17.0,10.0,Drake Maye pass complete short right to Stefon Diggs for 10 yards (tackle by Jeremy Chinn),0.67,1.14,1,2025,8
+3.0,0:08,2.0,5.0,NWE 36,17.0,10.0,Drake Maye pass incomplete short right intended for Rhamondre Stevenson,1.14,0.43,1,2025,8
+3.0,0:02,3.0,5.0,NWE 36,17.0,10.0,Drake Maye pass complete short right to Stefon Diggs for 9 yards (tackle by Eric Stokes),0.43,1.93,1,2025,8
+4.0,15:00,1.0,10.0,NWE 45,17.0,10.0,Antonio Gibson up the middle for 3 yards (tackle by Jeremy Chinn),1.93,1.79,1,2025,8
+4.0,14:31,2.0,7.0,NWE 48,17.0,10.0,Drake Maye pass incomplete short right intended for Antonio Gibson,1.79,1.09,1,2025,8
+4.0,14:22,3.0,7.0,NWE 48,17.0,10.0,Drake Maye pass complete short middle to Drake Maye for 2 yards (tackle by Germaine Pratt and Kyu Blu Kelly),1.09,-0.06,1,2025,8
+4.0,13:40,4.0,5.0,NWE 50,17.0,10.0,"Bryce Baringer punts 38 yards, fair catch by Tre Tucker at LV-12",-0.06,0.35,1,2025,8
+4.0,13:33,1.0,10.0,LVR 12,17.0,10.0,Geno Smith pass complete short left to Jakobi Meyers for 8 yards (tackle by Craig Woodson),-0.35,0.29,1,2025,8
+4.0,13:05,2.0,2.0,LVR 20,17.0,10.0,Ashton Jeanty up the middle for 1 yard (tackle by Khyiris Tonga and Christian Barmore),0.29,-0.37,1,2025,8
+4.0,12:21,3.0,1.0,LVR 21,17.0,10.0,Ashton Jeanty right guard for 4 yards (tackle by Keion White and Milton Williams),-0.37,0.61,1,2025,8
+4.0,11:37,1.0,10.0,LVR 25,17.0,10.0,Geno Smith pass complete deep right to Tre Tucker for 28 yards (tackle by Jaylinn Hawkins),0.61,2.46,1,2025,8
+4.0,11:03,1.0,10.0,NWE 47,17.0,10.0,Geno Smith pass incomplete short middle intended for Jakobi Meyers,2.46,1.91,1,2025,8
+4.0,10:47,2.0,10.0,NWE 47,17.0,10.0,Zamir White left guard for 5 yards (tackle by Cory Durden and Keion White),1.91,1.88,1,2025,8
+4.0,10:05,3.0,5.0,NWE 42,17.0,10.0,Geno Smith pass complete short right to Jakobi Meyers for 4 yards (tackle by Marcus Jones),1.88,0.72,1,2025,8
+4.0,9:26,4.0,1.0,NWE 38,17.0,10.0,Geno Smith pass complete short right to Michael Mayer for 8 yards (tackle by Christian Elliss),0.72,3.58,1,2025,8
+4.0,8:47,1.0,10.0,NWE 30,17.0,10.0,Ashton Jeanty right guard for 6 yards (tackle by Christian Elliss and Marcus Jones),3.58,3.84,1,2025,8
+4.0,8:12,2.0,4.0,NWE 24,17.0,10.0,Ashton Jeanty right guard for 3 yards (tackle by Robert Spillane),3.84,3.53,1,2025,8
+4.0,7:37,3.0,1.0,NWE 21,17.0,10.0,Ashton Jeanty left tackle for -1 yards (tackle by Alex Austin),3.53,2.12,1,2025,8
+4.0,6:50,4.0,2.0,NWE 22,20.0,10.0,Daniel Carlson 40 yard field goal good,2.12,3.0,1,2025,8
+4.0,6:46,,,LVR 35,20.0,10.0,"Daniel Carlson kicks off 60 yards, returned by TreVeyon Henderson for 23 yards (tackle by Tommy Eichenberg and Justin Shorter)",0.0,0.81,1,2025,8
+4.0,6:40,1.0,10.0,NWE 28,20.0,10.0,Drake Maye pass incomplete deep right intended for Hunter Henry,0.81,0.26,1,2025,8
+4.0,6:36,2.0,10.0,NWE 28,20.0,10.0,Drake Maye pass complete short left to Stefon Diggs for 16 yards (tackle by Isaiah Pola-Mao),0.26,1.86,1,2025,8
+4.0,6:15,1.0,10.0,NWE 44,20.0,10.0,"Drake Maye sacked by Malcolm Koonce for 8 yards. Drake Maye fumbles (forced by Malcolm Koonce), recovered by Will Campbell at NE-36",1.86,0.24,1,2025,8
+4.0,5:52,2.0,18.0,NWE 36,20.0,10.0,Drake Maye pass incomplete short right intended for Mack Hollins,0.24,-0.43,1,2025,8
+4.0,5:30,3.0,18.0,NWE 36,20.0,10.0,Drake Maye pass complete short left to TreVeyon Henderson for 13 yards (tackle by Isaiah Pola-Mao and Adam Butler),-0.43,-0.13,1,2025,8
+4.0,4:53,4.0,5.0,NWE 49,20.0,10.0,"Penalty on Will Campbell: False Start, 5 yards (accepted) (no play)",-0.13,-0.46,1,2025,8
+4.0,4:53,4.0,10.0,NWE 44,20.0,10.0,Bryce Baringer punts 21 yards out of bounds,-0.46,-1.27,1,2025,8
+4.0,4:48,1.0,10.0,LVR 35,20.0,10.0,"Penalty on Tre Tucker: False Start, 5 yards (accepted) (no play)",1.27,0.94,1,2025,8
+4.0,4:48,1.0,15.0,LVR 30,20.0,10.0,Ashton Jeanty up the middle for -1 yards (tackle by Marcus Jones and Christian Barmore),0.94,-0.09,1,2025,8
+4.0,4:14,2.0,16.0,LVR 29,20.0,10.0,Ashton Jeanty up the middle for -4 yards (tackle by Craig Woodson),-0.09,-1.29,1,2025,8
+4.0,3:28,3.0,20.0,LVR 25,20.0,10.0,Geno Smith pass complete deep right to Dont'e Thornton for 36 yards (tackle by Carlton Davis),-1.29,2.98,1,2025,8
+4.0,2:57,,,,,,Timeout #1 by New England Patriots,,,1,2025,8
+4.0,2:57,1.0,10.0,NWE 39,20.0,10.0,Ashton Jeanty right guard for no gain (tackle by Christian Barmore),2.98,2.44,1,2025,8
+4.0,2:12,2.0,10.0,NWE 39,20.0,10.0,Ashton Jeanty right tackle for -1 yards (tackle by Milton Williams),2.44,1.62,1,2025,8
+4.0,2:00,3.0,11.0,NWE 40,20.0,10.0,Ashton Jeanty up the middle for 1 yard (tackle by Milton Williams and K'Lavon Chaisson),1.62,0.66,1,2025,8
+4.0,1:55,,,,,,Timeout #2 by New England Patriots,,,1,2025,8
+4.0,1:55,4.0,10.0,NWE 39,20.0,10.0,"AJ Cole punts 39 yards, touchback.",0.66,-0.28,1,2025,8
+4.0,1:48,1.0,10.0,NWE 20,20.0,10.0,Drake Maye pass complete deep left to Kayshon Boutte for 19 yards (tackle by Kyu Blu Kelly),0.28,1.53,1,2025,8
+4.0,1:42,1.0,10.0,NWE 39,20.0,10.0,Drake Maye pass complete short right to Hunter Henry for 8 yards (tackle by Germaine Pratt and Darnay Holmes),1.53,2.07,1,2025,8
+4.0,1:24,2.0,2.0,NWE 47,20.0,10.0,Drake Maye pass incomplete short left intended for Demario Douglas (defended by Maxx Crosby),2.07,1.36,1,2025,8
+4.0,1:17,,,,,,Timeout #1 by Las Vegas Raiders,,,1,2025,8
+4.0,1:17,3.0,2.0,NWE 47,20.0,10.0,Drake Maye pass incomplete short right,1.36,-0.26,1,2025,8
+4.0,1:09,4.0,2.0,NWE 47,20.0,10.0,Drake Maye pass complete short left to Mack Hollins for 3 yards (tackle by Kyu Blu Kelly),-0.26,2.26,1,2025,8
+4.0,1:04,1.0,10.0,LVR 50,20.0,10.0,Drake Maye pass complete short middle to Hunter Henry for 12 yards (tackle by Darnay Holmes),2.26,3.05,1,2025,8
+4.0,0:42,1.0,10.0,LVR 38,20.0,10.0,Drake Maye pass complete short left to Kyle Williams for 12 yards (tackle by Kyu Blu Kelly),3.05,3.84,1,2025,8
+4.0,0:35,1.0,10.0,LVR 26,20.0,10.0,Drake Maye pass incomplete deep left intended for Kayshon Boutte,3.84,3.3,1,2025,8
+4.0,0:30,2.0,10.0,LVR 26,20.0,10.0,Drake Maye sacked by Jonah Laulu for no gain,3.3,2.61,1,2025,8
+4.0,0:22,3.0,10.0,LVR 26,20.0,13.0,Andres Borregales 44 yard field goal good,2.61,3.0,1,2025,8
+4.0,0:19,,,,,,Timeout #2 by Las Vegas Raiders,,,1,2025,8
+4.0,0:19,,,NWE 35,20.0,13.0,"Andres Borregales kicks onside 17 yards,. Penalty on Andres Borregales: Kickoff Out of Bounds (accepted)",0.0,2.13,1,2025,8
+4.0,0:19,1.0,10.0,LVR 48,20.0,13.0,Geno Smith kneels for -1 yards,2.13,1.45,1,2025,8

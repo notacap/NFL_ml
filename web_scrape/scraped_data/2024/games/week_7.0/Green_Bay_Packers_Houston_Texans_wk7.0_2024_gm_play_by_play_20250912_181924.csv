@@ -1,0 +1,161 @@
+Quarter,Time,Down,ToGo,Location,HOU,GNB,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Packers won the coin toss, Packers to receive the opening kickoff.",,,7.0,2024,100
+1.0,15:00,,,HOU 35,0.0,0.0,"Ka'imi Fairbairn kicks off 61 yards, returned by Keisean Nixon for 26 yards (tackle by Ka'imi Fairbairn). Penalty on Arron Mosby: Offensive Holding, 10 yards (accepted)",0.0,0.28,7.0,2024,100
+1.0,14:54,1.0,10.0,GNB 20,0.0,0.0,Jordan Love pass complete deep left to Romeo Doubs for 23 yards (tackle by D'Angelo Ross),0.28,1.8,7.0,2024,100
+1.0,14:19,1.0,10.0,GNB 43,0.0,0.0,Josh Jacobs up the middle for 4 yards (tackle by Neville Hewitt and Jake Hansen),1.8,1.79,7.0,2024,100
+1.0,13:37,2.0,6.0,GNB 47,0.0,0.0,Josh Jacobs left end for 3 yards (tackle by Tim Settle),1.79,1.49,7.0,2024,100
+1.0,12:59,3.0,3.0,GNB 50,0.0,0.0,Jordan Love pass short right (defended by Jalen Pitre) intended for Dontayvion Wicks is intercepted by Neville Hewitt at HOU-44 and returned for 45 yards (tackle by Sean Rhyan),1.49,-4.84,7.0,2024,100
+1.0,12:48,1.0,10.0,GNB 11,0.0,0.0,Joe Mixon right end for 1 yard (tackle by Evan Williams and Keisean Nixon),4.84,4.32,7.0,2024,100
+1.0,12:09,2.0,9.0,GNB 10,0.0,0.0,C.J. Stroud pass incomplete short right intended for Tank Dell,4.32,3.3,7.0,2024,100
+1.0,12:02,3.0,9.0,GNB 10,0.0,0.0,"C.J. Stroud pass incomplete short middle intended for Tank Dell. Penalty on Preston Smith: Defensive Offside, 5 yards (accepted) (no play)",3.3,4.44,7.0,2024,100
+1.0,11:57,3.0,4.0,GNB 5,0.0,0.0,C.J. Stroud pass incomplete short right intended for Dare Ogunbowale,4.44,3.01,7.0,2024,100
+1.0,11:51,4.0,4.0,GNB 5,3.0,0.0,Ka'imi Fairbairn 23 yard field goal good,3.01,3.0,7.0,2024,100
+1.0,11:48,,,HOU 35,3.0,0.0,"Penalty on Kingsley Enagbare: Unsportsmanlike Conduct / Defense, 15 yards (accepted) (no play)",0.0,0.0,7.0,2024,100
+1.0,11:48,,,HOU 50,3.0,0.0,"Ka'imi Fairbairn kicks off 25 yards, out of bounds. Penalty on Ka'imi Fairbairn: Kickoff Out of Bounds (accepted)",0.0,0.61,7.0,2024,100
+1.0,11:48,1.0,10.0,GNB 25,3.0,0.0,Jordan Love pass complete short left to Jayden Reed for 4 yards (tackle by D'Angelo Ross),0.61,0.6,7.0,2024,100
+1.0,11:11,2.0,6.0,GNB 29,3.0,0.0,Bo Melton right end for -1 yards (tackle by Derek Stingley),0.6,-0.23,7.0,2024,100
+1.0,10:33,3.0,7.0,GNB 28,3.0,0.0,Jordan Love pass complete short middle to Josh Jacobs for 5 yards (tackle by Jake Hansen),-0.23,-1.18,7.0,2024,100
+1.0,9:46,4.0,2.0,GNB 33,3.0,0.0,"Daniel Whelan punts 47 yards, fair catch by Desmond King at HOU-20",-1.18,-0.28,7.0,2024,100
+1.0,9:39,1.0,10.0,HOU 20,3.0,0.0,C.J. Stroud pass complete deep left to Dalton Schultz for 28 yards (tackle by Evan Williams),0.28,2.13,7.0,2024,100
+1.0,8:59,1.0,10.0,HOU 48,3.0,0.0,C.J. Stroud sacked by Rashan Gary for -6 yards,2.13,0.77,7.0,2024,100
+1.0,8:23,2.0,16.0,HOU 42,3.0,0.0,C.J. Stroud pass complete short right to Cade Stover for 15 yards (tackle by Evan Williams),0.77,2.08,7.0,2024,100
+1.0,7:55,3.0,1.0,GNB 43,3.0,0.0,C.J. Stroud scrambles right end for 3 yards (tackle by Quay Walker),2.08,2.92,7.0,2024,100
+1.0,7:17,1.0,10.0,GNB 40,3.0,0.0,Joe Mixon left end for 2 yards (tackle by Jaire Alexander),2.92,2.64,7.0,2024,100
+1.0,6:37,2.0,8.0,GNB 38,3.0,0.0,Dameon Pierce up the middle for 2 yards (tackle by Evan Williams),2.64,2.21,7.0,2024,100
+1.0,5:57,3.0,6.0,GNB 36,3.0,0.0,C.J. Stroud sacked by Xavier McKinney for -8 yards,2.21,0.33,7.0,2024,100
+1.0,5:13,4.0,14.0,GNB 44,3.0,0.0,"Tommy Townsend punts 36 yards, fair catch by Jayden Reed at GB-8",0.33,0.38,7.0,2024,100
+1.0,5:06,1.0,10.0,GNB 8,3.0,0.0,Josh Jacobs right tackle for 4 yards (tackle by Jalen Pitre),-0.38,-0.49,7.0,2024,100
+1.0,4:32,2.0,6.0,GNB 12,3.0,0.0,Jordan Love pass complete short right to Tucker Kraft for 11 yards (tackle by Calen Bullock),-0.49,0.48,7.0,2024,100
+1.0,3:53,1.0,10.0,GNB 23,3.0,0.0,Josh Jacobs right tackle for 13 yards (tackle by Derek Barnett),0.48,1.33,7.0,2024,100
+1.0,3:10,1.0,10.0,GNB 36,3.0,0.0,Josh Jacobs right guard for 3 yards (tackle by Danielle Hunter),1.33,1.2,7.0,2024,100
+1.0,2:31,2.0,7.0,GNB 39,3.0,0.0,Jordan Love pass complete short middle to Romeo Doubs for 11 yards (tackle by Derek Stingley),1.2,2.26,7.0,2024,100
+1.0,1:50,1.0,10.0,HOU 50,3.0,0.0,Jordan Love pass incomplete short middle intended for Tucker Kraft,2.26,1.71,7.0,2024,100
+1.0,1:45,2.0,10.0,HOU 50,3.0,0.0,Jordan Love pass complete short left to Josh Jacobs for 5 yards (tackle by Neville Hewitt),1.71,1.69,7.0,2024,100
+1.0,1:09,3.0,5.0,HOU 45,3.0,0.0,Jordan Love pass complete short left to Bo Melton for 8 yards (tackle by D'Angelo Ross),1.69,3.12,7.0,2024,100
+1.0,0:24,1.0,10.0,HOU 37,3.0,0.0,Christian Watson left end for -4 yards (tackle by Jake Hansen),3.12,2.03,7.0,2024,100
+2.0,15:00,2.0,14.0,HOU 41,3.0,0.0,"Jordan Love pass complete short middle to Jayden Reed for 6 yards (tackle by Neville Hewitt). Penalty on Neville Hewitt: Unnecessary Roughness / Defense, 15 yards (accepted)",2.03,4.24,7.0,2024,100
+2.0,14:35,1.0,10.0,HOU 20,3.0,0.0,Josh Jacobs right guard for 1 yard (tackle by Tim Settle),4.24,3.82,7.0,2024,100
+2.0,13:56,2.0,9.0,HOU 19,3.0,0.0,Jordan Love pass complete short left to Dontayvion Wicks for 5 yards (tackle by D'Angelo Ross),3.82,3.89,7.0,2024,100
+2.0,13:20,3.0,4.0,HOU 14,3.0,6.0,"Jordan Love pass complete short middle to Tucker Kraft for 14 yards, touchdown",3.89,7.0,7.0,2024,100
+2.0,13:16,,,HOU 15,3.0,7.0,Brandon McManus kicks extra point good,0.0,0.0,7.0,2024,100
+2.0,13:16,,,GNB 35,3.0,7.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,100
+2.0,13:16,1.0,10.0,HOU 30,3.0,7.0,C.J. Stroud pass incomplete short left intended for Tank Dell,0.94,0.39,7.0,2024,100
+2.0,13:12,2.0,10.0,HOU 30,3.0,7.0,C.J. Stroud pass complete short left to Stefon Diggs for 1 yard (tackle by Javon Bullard),0.39,-0.16,7.0,2024,100
+2.0,12:47,3.0,9.0,HOU 31,3.0,7.0,C.J. Stroud pass incomplete short left,-0.16,-1.31,7.0,2024,100
+2.0,12:41,4.0,9.0,HOU 31,3.0,7.0,"Tommy Townsend punts 58 yards, recovered by M.J. Stewart at GB-11",-1.31,4.84,7.0,2024,100
+2.0,12:29,1.0,10.0,GNB 11,3.0,7.0,Joe Mixon left tackle for 9 yards (tackle by Xavier McKinney),4.84,5.85,7.0,2024,100
+2.0,11:56,2.0,1.0,GNB 2,9.0,7.0,"Joe Mixon left end for 2 yards, touchdown",5.85,7.0,7.0,2024,100
+2.0,11:52,,,GNB 15,10.0,7.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,7.0,2024,100
+2.0,11:52,,,HOU 35,10.0,7.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,100
+2.0,11:52,1.0,10.0,GNB 30,10.0,7.0,Emanuel Wilson left guard for 5 yards (tackle by Dylan Horton),0.94,1.07,7.0,2024,100
+2.0,11:17,2.0,5.0,GNB 35,10.0,7.0,Emanuel Wilson left end for 2 yards (tackle by Jake Hansen),1.07,0.63,7.0,2024,100
+2.0,10:37,3.0,3.0,GNB 37,10.0,7.0,Emanuel Wilson right end for 4 yards (tackle by Neville Hewitt),0.63,1.66,7.0,2024,100
+2.0,9:49,1.0,10.0,GNB 41,10.0,7.0,Emanuel Wilson up the middle for -1 yards (tackle by Jalen Pitre),1.66,0.99,7.0,2024,100
+2.0,9:08,2.0,11.0,GNB 40,10.0,7.0,"Jordan Love pass incomplete deep right intended for Jayden Reed. Penalty on Eric Murray: Defensive Pass Interference, 30 yards (accepted) (no play)",0.99,3.58,7.0,2024,100
+2.0,9:01,1.0,10.0,HOU 30,10.0,7.0,Jordan Love pass incomplete short left intended for Jayden Reed,3.58,3.03,7.0,2024,100
+2.0,8:57,2.0,10.0,HOU 30,10.0,13.0,"Jordan Love pass complete deep left to Dontayvion Wicks for 30 yards, touchdown",3.03,7.0,7.0,2024,100
+2.0,8:51,,,HOU 15,10.0,14.0,Brandon McManus kicks extra point good,0.0,0.0,7.0,2024,100
+2.0,8:51,,,GNB 35,10.0,14.0,"Brandon McManus kicks off 64 yards, returned by Dameon Pierce for 42 yards (tackle by Corey Ballentine)",0.0,1.8,7.0,2024,100
+2.0,8:41,1.0,10.0,HOU 43,10.0,14.0,Joe Mixon right tackle for 9 yards (tackle by Xavier McKinney),1.8,2.47,7.0,2024,100
+2.0,8:06,2.0,1.0,GNB 48,10.0,14.0,C.J. Stroud pass complete short right to Stefon Diggs for 2 yards (tackle by Keisean Nixon),2.47,2.52,7.0,2024,100
+2.0,7:31,1.0,10.0,GNB 46,10.0,14.0,Joe Mixon up the middle for 4 yards (tackle by Evan Williams),2.52,2.52,7.0,2024,100
+2.0,6:52,2.0,6.0,GNB 42,10.0,14.0,Joe Mixon right tackle for 4 yards (tackle by Rashan Gary and Keisean Nixon),2.52,2.35,7.0,2024,100
+2.0,6:10,3.0,2.0,GNB 38,10.0,14.0,Dare Ogunbowale up the middle for 6 yards (tackle by Colby Wooden and Evan Williams),2.35,3.45,7.0,2024,100
+2.0,5:30,1.0,10.0,GNB 32,10.0,14.0,C.J. Stroud pass incomplete short right,3.45,2.9,7.0,2024,100
+2.0,5:24,2.0,10.0,GNB 32,10.0,14.0,C.J. Stroud pass complete short right to Joe Mixon for -2 yards (tackle by Eric Wilson),2.9,1.95,7.0,2024,100
+2.0,4:39,3.0,12.0,GNB 34,10.0,14.0,C.J. Stroud pass incomplete deep left intended for Tank Dell,1.95,1.06,7.0,2024,100
+2.0,4:34,4.0,12.0,GNB 34,13.0,14.0,Ka'imi Fairbairn 52 yard field goal good,1.06,3.0,7.0,2024,100
+2.0,4:30,,,HOU 35,13.0,14.0,"Ka'imi Fairbairn kicks off 63 yards, returned by Keisean Nixon for 32 yards (tackle by Jamal Hill and Myles Bryant)",0.0,1.2,7.0,2024,100
+2.0,4:24,1.0,10.0,GNB 34,13.0,14.0,Jordan Love pass deep middle intended for Christian Watson is intercepted by Calen Bullock at HOU-45 and returned for no gain (tackle by Christian Watson),1.2,-1.93,7.0,2024,100
+2.0,4:18,1.0,10.0,HOU 45,13.0,14.0,Joe Mixon left end for 4 yards (tackle by Lukas Van Ness and Evan Williams),1.93,1.92,7.0,2024,100
+2.0,3:42,2.0,6.0,HOU 49,13.0,14.0,Joe Mixon left tackle for 32 yards (tackle by Xavier McKinney),1.92,4.31,7.0,2024,100
+2.0,3:03,1.0,10.0,GNB 19,13.0,14.0,Dameon Pierce up the middle for no gain (tackle by Kingsley Enagbare and Kenny Clark),4.31,3.75,7.0,2024,100
+2.0,2:21,2.0,10.0,GNB 19,13.0,14.0,"Penalty on Lukas Van Ness: Neutral Zone Infraction, 5 yards (accepted) (no play)",3.75,4.53,7.0,2024,100
+2.0,2:00,2.0,5.0,GNB 14,13.0,14.0,Joe Mixon left tackle for 10 yards (tackle by Kingsley Enagbare),4.53,6.28,7.0,2024,100
+2.0,1:16,,,,,,Timeout #1 by Houston Texans,,,7.0,2024,100
+2.0,1:16,1.0,4.0,GNB 4,19.0,14.0,"Joe Mixon left guard for 4 yards, touchdown",6.28,7.0,7.0,2024,100
+2.0,1:13,,,,,,Timeout #1 by Green Bay Packers,,,7.0,2024,100
+2.0,1:13,,,GNB 2,19.0,14.0,"Two Point Attempt: C.J. Stroud pass incomplete intended for intended for Stefon Diggs. Penalty on Keisean Nixon: Defensive Pass Interference, 1 yard (accepted) (no play)",1.0,1.0,7.0,2024,100
+2.0,1:13,,,GNB 1,19.0,14.0,"Two Point Attempt: Joe Mixon rushes, conversion fails. (tackle by Evan Williams)",1.0,-1.0,7.0,2024,100
+2.0,1:13,,,HOU 35,19.0,14.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,100
+2.0,1:13,1.0,10.0,GNB 30,19.0,14.0,Jordan Love pass complete short right to Christian Watson for 9 yards (tackle by Derek Stingley),0.94,1.61,7.0,2024,100
+2.0,0:53,2.0,1.0,GNB 39,19.0,14.0,Jordan Love sacked by Tim Settle for -8 yards,1.61,-0.16,7.0,2024,100
+2.0,0:28,3.0,9.0,GNB 31,19.0,14.0,Jordan Love pass incomplete deep right intended for Jayden Reed,-0.16,-1.31,7.0,2024,100
+2.0,0:21,4.0,9.0,GNB 31,19.0,14.0,"Daniel Whelan punts 51 yards, returned by Desmond King for 2 yards (tackle by Matthew Orzech)",-1.31,-0.28,7.0,2024,100
+2.0,0:07,1.0,10.0,HOU 20,19.0,14.0,C.J. Stroud kneels for -1 yards,0.28,-0.46,7.0,2024,100
+3.0,15:00,,,GNB 35,19.0,14.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,100
+3.0,15:00,1.0,10.0,HOU 30,19.0,14.0,Joe Mixon left end for -2 yards (tackle by Kenny Clark and Preston Smith),0.94,0.12,7.0,2024,100
+3.0,14:17,2.0,12.0,HOU 28,19.0,14.0,Joe Mixon up the middle for 7 yards (tackle by Evan Williams),0.12,0.37,7.0,2024,100
+3.0,13:36,3.0,5.0,HOU 35,19.0,14.0,C.J. Stroud sacked by Eric Wilson for -8 yards,0.37,-1.57,7.0,2024,100
+3.0,12:58,4.0,13.0,HOU 27,19.0,14.0,"Tommy Townsend punts 52 yards, returned by Keisean Nixon for 8 yards (tackle by Troy Hairston)",-1.57,-0.87,7.0,2024,100
+3.0,12:47,1.0,10.0,GNB 29,19.0,14.0,Josh Jacobs left tackle for 3 yards (tackle by Eric Murray),0.87,0.73,7.0,2024,100
+3.0,12:08,2.0,7.0,GNB 32,19.0,14.0,Jordan Love pass complete short left to Romeo Doubs for 11 yards (tackle by D'Angelo Ross),0.73,1.8,7.0,2024,100
+3.0,11:31,1.0,10.0,GNB 43,19.0,14.0,Josh Jacobs left end for 2 yards (tackle by Folorunso Fatukasi and Jake Hansen),1.8,1.52,7.0,2024,100
+3.0,10:53,2.0,8.0,GNB 45,19.0,14.0,Josh Jacobs up the middle for 10 yards (tackle by Neville Hewitt and D'Angelo Ross),1.52,2.59,7.0,2024,100
+3.0,10:14,1.0,10.0,HOU 45,19.0,14.0,Josh Jacobs left guard for 27 yards (tackle by Eric Murray),2.59,4.37,7.0,2024,100
+3.0,9:30,1.0,10.0,HOU 18,19.0,14.0,Emanuel Wilson left tackle for 1 yard (tackle by Jake Hansen),4.37,3.94,7.0,2024,100
+3.0,8:54,2.0,9.0,HOU 17,19.0,14.0,Jordan Love pass complete short middle to Romeo Doubs for 12 yards (tackle by D'Angelo Ross),3.94,6.06,7.0,2024,100
+3.0,8:11,1.0,5.0,HOU 5,19.0,14.0,Jordan Love pass complete short middle to Josh Jacobs for -3 yards (tackle by Tim Settle),6.06,4.57,7.0,2024,100
+3.0,7:31,2.0,8.0,HOU 8,19.0,20.0,"Jordan Love pass complete short middle to Josh Jacobs for 8 yards, touchdown",4.57,7.0,7.0,2024,100
+3.0,7:25,,,HOU 15,19.0,21.0,Brandon McManus kicks extra point good,0.0,0.0,7.0,2024,100
+3.0,7:25,,,GNB 35,19.0,21.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,100
+3.0,7:25,1.0,10.0,HOU 30,19.0,21.0,C.J. Stroud pass incomplete deep middle intended for Stefon Diggs,0.94,0.39,7.0,2024,100
+3.0,7:21,2.0,10.0,HOU 30,19.0,21.0,"Dameon Pierce up the middle for -1 yards (tackle by Lukas Van Ness and Eric Wilson). Penalty on Kenny Clark: Defensive Offside, 5 yards (accepted) (no play)",0.39,1.07,7.0,2024,100
+3.0,7:06,2.0,5.0,HOU 35,19.0,21.0,C.J. Stroud pass incomplete deep left intended for Stefon Diggs,1.07,0.37,7.0,2024,100
+3.0,6:59,3.0,5.0,HOU 35,19.0,21.0,C.J. Stroud pass incomplete short left intended for Dalton Schultz (defended by Eric Wilson),0.37,-1.04,7.0,2024,100
+3.0,6:56,4.0,5.0,HOU 35,19.0,21.0,"Tommy Townsend punts 66 yards, returned by Jayden Reed for 5 yards (tackle by Ka'dar Hollman)",-1.04,0.38,7.0,2024,100
+3.0,6:44,1.0,10.0,GNB 4,19.0,21.0,Josh Jacobs up the middle for 7 yards (tackle by Neville Hewitt and Jake Hansen),-0.38,-0.27,7.0,2024,100
+3.0,6:15,2.0,3.0,GNB 11,19.0,21.0,Jordan Love pass complete short left to Ben Sims for 2 yards (tackle by Jalen Pitre),-0.27,-0.37,7.0,2024,100
+3.0,5:34,3.0,1.0,GNB 13,19.0,21.0,Jayden Reed right end for no gain (tackle by Neville Hewitt),-0.37,-2.49,7.0,2024,100
+3.0,4:50,4.0,1.0,GNB 13,19.0,21.0,"Daniel Whelan punts 59 yards, returned by Desmond King for no gain",-2.49,-0.61,7.0,2024,100
+3.0,4:35,1.0,10.0,HOU 25,19.0,21.0,Joe Mixon right tackle for 1 yard (tackle by Colby Wooden),0.61,0.2,7.0,2024,100
+3.0,4:00,2.0,9.0,HOU 26,19.0,21.0,C.J. Stroud pass complete short right to Joe Mixon for 11 yards (tackle by Javon Bullard and Xavier McKinney),0.2,1.4,7.0,2024,100
+3.0,3:19,1.0,10.0,HOU 37,19.0,21.0,C.J. Stroud pass complete short middle to Stefon Diggs for 17 yards (tackle by Keisean Nixon),1.4,2.52,7.0,2024,100
+3.0,2:42,1.0,10.0,GNB 46,19.0,21.0,Joe Mixon right guard for 2 yards (tackle by Kingsley Enagbare),2.52,2.25,7.0,2024,100
+3.0,2:00,2.0,8.0,GNB 44,19.0,21.0,C.J. Stroud pass incomplete short left intended for Joe Mixon,2.25,1.55,7.0,2024,100
+3.0,1:56,3.0,8.0,GNB 44,19.0,21.0,C.J. Stroud sacked by Eric Wilson for -9 yards,1.55,-0.26,7.0,2024,100
+3.0,1:13,4.0,17.0,HOU 47,19.0,21.0,"Tommy Townsend punts 38 yards, fair catch by Jayden Reed at GB-15",-0.26,0.22,7.0,2024,100
+3.0,1:06,1.0,10.0,GNB 15,19.0,21.0,Josh Jacobs right tackle for -1 yards (tackle by Folorunso Fatukasi),-0.22,-0.82,7.0,2024,100
+3.0,0:26,2.0,11.0,GNB 14,19.0,21.0,Jordan Love pass complete short middle to Romeo Doubs for 8 yards (tackle by Derek Stingley),-0.82,-0.51,7.0,2024,100
+4.0,15:00,3.0,3.0,GNB 22,19.0,21.0,Jordan Love sacked by Will Anderson for -9 yards,-0.51,-2.49,7.0,2024,100
+4.0,14:21,4.0,12.0,GNB 13,19.0,21.0,"Daniel Whelan punts 66 yards, returned by Tank Dell for 11 yards (tackle by Eric Wilson)",-2.49,-1.07,7.0,2024,100
+4.0,14:07,1.0,10.0,HOU 32,19.0,21.0,Joe Mixon left tackle for 3 yards (tackle by Isaiah McDuffie and Eric Wilson) (no play),1.07,0.74,7.0,2024,100
+4.0,13:38,1.0,15.0,HOU 27,19.0,21.0,C.J. Stroud scrambles up the middle for 6 yards (tackle by Isaiah McDuffie),0.74,0.66,7.0,2024,100
+4.0,13:13,2.0,9.0,HOU 33,19.0,21.0,C.J. Stroud scrambles left end for 10 yards (tackle by Jaire Alexander),0.66,1.8,7.0,2024,100
+4.0,12:28,1.0,10.0,HOU 43,19.0,21.0,Joe Mixon up the middle for 2 yards (tackle by Rashan Gary and Tedarrell Slaton),1.8,1.52,7.0,2024,100
+4.0,11:48,2.0,8.0,HOU 45,19.0,21.0,Joe Mixon left end for -3 yards (tackle by Eric Wilson),1.52,0.43,7.0,2024,100
+4.0,11:05,3.0,11.0,HOU 42,19.0,21.0,C.J. Stroud scrambles left end for 1 yard (tackle by Xavier McKinney),0.43,-0.52,7.0,2024,100
+4.0,10:16,4.0,10.0,HOU 43,19.0,21.0,"Tommy Townsend punts 57 yards, touchback.",-0.52,-0.28,7.0,2024,100
+4.0,10:10,1.0,10.0,GNB 20,19.0,21.0,"Jordan Love pass complete short left to Josh Jacobs for 1 yard (tackle by Neville Hewitt). Penalty on Romeo Doubs: Offensive Illegal Block Above the Waist, 10 yards (accepted)",0.28,-0.68,7.0,2024,100
+4.0,9:47,1.0,19.0,GNB 11,19.0,21.0,Jordan Love pass incomplete short right intended for Romeo Doubs (defended by Derek Stingley),-0.68,-1.44,7.0,2024,100
+4.0,9:41,2.0,19.0,GNB 11,19.0,21.0,Jordan Love sacked by Danielle Hunter for -8 yards,-1.44,-3.41,7.0,2024,100
+4.0,8:56,3.0,27.0,GNB 3,19.0,21.0,Jordan Love pass complete short left to Romeo Doubs for 11 yards,-3.41,-2.47,7.0,2024,100
+4.0,8:21,4.0,16.0,GNB 14,19.0,21.0,"Daniel Whelan punts 61 yards, returned by Tank Dell for 13 yards (tackle by Zayne Anderson)",-2.47,-1.47,7.0,2024,100
+4.0,8:11,1.0,10.0,HOU 38,19.0,21.0,Joe Mixon right tackle for 17 yards (tackle by Evan Williams),1.47,2.59,7.0,2024,100
+4.0,7:33,1.0,10.0,GNB 45,19.0,21.0,Joe Mixon left guard for 1 yard (tackle by Javon Bullard and Rashan Gary),2.59,2.18,7.0,2024,100
+4.0,6:50,2.0,9.0,GNB 44,19.0,21.0,Joe Mixon up the middle for 4 yards (tackle by Rashan Gary and Isaiah McDuffie),2.18,2.01,7.0,2024,100
+4.0,6:11,3.0,5.0,GNB 40,19.0,21.0,"C.J. Stroud pass incomplete short left intended for Tank Dell. Penalty on Kingsley Enagbare: Defensive Offside, 4 yards (accepted) (no play)",2.01,2.54,7.0,2024,100
+4.0,6:08,3.0,1.0,GNB 36,19.0,21.0,C.J. Stroud pass complete short right to Stefon Diggs for 2 yards (tackle by Isaiah McDuffie),2.54,3.31,7.0,2024,100
+4.0,5:29,1.0,10.0,GNB 34,19.0,21.0,Joe Mixon left guard for -1 yards (tackle by Lukas Van Ness and Edgerrin Cooper),3.31,2.64,7.0,2024,100
+4.0,4:50,2.0,11.0,GNB 35,19.0,21.0,Joe Mixon left guard for 12 yards (tackle by Eric Wilson),2.64,4.04,7.0,2024,100
+4.0,4:09,1.0,10.0,GNB 23,19.0,21.0,Joe Mixon left end for -1 yards (tackle by Kenny Clark and Isaiah McDuffie),4.04,3.36,7.0,2024,100
+4.0,3:32,2.0,11.0,GNB 24,19.0,21.0,C.J. Stroud pass complete short right to Stefon Diggs for 1 yard (tackle by Javon Bullard and Keisean Nixon),3.36,2.81,7.0,2024,100
+4.0,2:42,3.0,10.0,GNB 23,19.0,21.0,C.J. Stroud pass complete short right to Xavier Hutchinson for 11 yards (tackle by Jaire Alexander),2.81,4.78,7.0,2024,100
+4.0,2:00,1.0,10.0,GNB 12,19.0,21.0,Joe Mixon up the middle for -2 yards (tackle by Edgerrin Cooper and Kingsley Enagbare),4.78,3.79,7.0,2024,100
+4.0,1:56,,,,,,Timeout #1 by Green Bay Packers,,,7.0,2024,100
+4.0,1:56,2.0,12.0,GNB 14,19.0,21.0,Joe Mixon left guard for -3 yards (tackle by Edgerrin Cooper and Kenny Clark),3.79,2.84,7.0,2024,100
+4.0,1:52,,,,,,Timeout #2 by Green Bay Packers,,,7.0,2024,100
+4.0,1:52,3.0,15.0,GNB 17,19.0,21.0,C.J. Stroud pass incomplete short right intended for Tank Dell,2.84,2.31,7.0,2024,100
+4.0,1:48,4.0,15.0,GNB 17,22.0,21.0,Ka'imi Fairbairn 35 yard field goal good,2.31,3.0,7.0,2024,100
+4.0,1:44,,,HOU 35,22.0,21.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,100
+4.0,1:44,1.0,10.0,GNB 30,22.0,21.0,Jordan Love pass incomplete deep middle intended for Romeo Doubs (defended by Neville Hewitt),0.94,0.39,7.0,2024,100
+4.0,1:39,2.0,10.0,GNB 30,22.0,21.0,Jordan Love pass complete short right to Tucker Kraft for 8 yards,0.39,0.76,7.0,2024,100
+4.0,1:34,3.0,2.0,GNB 38,22.0,21.0,Jordan Love pass complete short middle to Dontayvion Wicks for 13 yards (tackle by Derek Stingley and Neville Hewitt),0.76,2.32,7.0,2024,100
+4.0,1:04,1.0,10.0,HOU 49,22.0,21.0,Jordan Love pass incomplete short right intended for Dontayvion Wicks,2.32,1.78,7.0,2024,100
+4.0,1:00,2.0,10.0,HOU 49,22.0,21.0,Jordan Love pass complete short middle to Romeo Doubs for 12 yards (tackle by Derek Stingley),1.78,3.12,7.0,2024,100
+4.0,0:27,1.0,10.0,HOU 37,22.0,21.0,"Jordan Love pass complete short left to Tucker Kraft for no gain (tackle by D'Angelo Ross). Penalty on Will Anderson: Defensive Offside, 5 yards (accepted) (no play)",3.12,3.85,7.0,2024,100
+4.0,0:21,1.0,5.0,HOU 32,22.0,21.0,Jordan Love pass incomplete deep middle intended for Dontayvion Wicks,3.85,3.25,7.0,2024,100
+4.0,0:15,2.0,5.0,HOU 32,22.0,21.0,Jordan Love pass complete short left to Romeo Doubs for 6 yards (tackle by D'Angelo Ross),3.25,3.84,7.0,2024,100
+4.0,0:03,,,,,,Timeout #3 by Green Bay Packers,,,7.0,2024,100
+4.0,0:03,,,,,,Timeout #1 by Houston Texans,,,7.0,2024,100
+4.0,0:03,1.0,10.0,HOU 26,22.0,24.0,Brandon McManus 45 yard field goal good,3.84,3.0,7.0,2024,100

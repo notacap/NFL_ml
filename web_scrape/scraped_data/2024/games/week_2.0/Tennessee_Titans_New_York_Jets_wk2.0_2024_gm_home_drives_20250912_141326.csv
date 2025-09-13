@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,TEN 30,3,2:09,6,Punt,1,Titans,2.0,2024,26
+2,1,9:08,TEN 32,9,6:38,68,Touchdown,1,Titans,2.0,2024,26
+3,2,14:51,TEN 16,10,6:11,72,Fumble,1,Titans,2.0,2024,26
+4,2,7:00,TEN 25,1,0:08,0,Interception,1,Titans,2.0,2024,26
+5,2,1:47,TEN 26,8,1:47,51,Field Goal,1,Titans,2.0,2024,26
+6,3,12:08,TEN 30,3,2:42,-6,Punt,1,Titans,2.0,2024,26
+7,3,8:31,TEN 38,3,0:16,0,Blocked Punt,1,Titans,2.0,2024,26
+8,3,5:58,TEN 29,5,2:36,71,Touchdown,1,Titans,2.0,2024,26
+9,4,14:47,TEN 25,3,1:48,8,Punt,1,Titans,2.0,2024,26
+10,4,10:09,TEN 15,3,1:28,4,Punt,1,Titans,2.0,2024,26
+11,4,4:31,TEN 30,13,4:14,56,Downs,1,Titans,2.0,2024,26

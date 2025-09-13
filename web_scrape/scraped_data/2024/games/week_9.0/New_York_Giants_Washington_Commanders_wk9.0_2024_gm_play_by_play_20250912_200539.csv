@@ -1,0 +1,158 @@
+Quarter,Time,Down,ToGo,Location,WAS,NYG,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Commanders won the coin toss and deferred, Giants to receive the opening kickoff.",,,9.0,2024,132
+1.0,15:00,,,WAS 35,0.0,0.0,"Austin Seibert kicks off 60 yards, returned by Eric Gray for 25 yards (tackle by Tyler Owens and Jeremy Reaves)",0.0,0.94,9.0,2024,132
+1.0,14:56,1.0,10.0,NYG 30,0.0,0.0,Tyrone Tracy left guard for 3 yards (tackle by Dorance Armstrong),0.94,0.8,9.0,2024,132
+1.0,14:20,2.0,7.0,NYG 33,0.0,0.0,Tyrone Tracy left tackle for 4 yards (tackle by Bobby Wagner),0.8,0.63,9.0,2024,132
+1.0,13:44,3.0,3.0,NYG 37,0.0,0.0,Daniel Jones pass complete short right to Theo Johnson for 1 yard (tackle by Jeremy Chinn),0.63,-0.85,9.0,2024,132
+1.0,13:01,4.0,2.0,NYG 38,0.0,0.0,Matt Haack punts 32 yards out of bounds,-0.85,-0.94,9.0,2024,132
+1.0,12:54,1.0,10.0,WAS 30,0.0,0.0,Austin Ekeler left end for 1 yard (tackle by Brian Burns and Bobby Okereke),0.94,0.53,9.0,2024,132
+1.0,12:17,2.0,9.0,WAS 31,0.0,0.0,Austin Ekeler right tackle for 4 yards (tackle by Rakeem Nunez-Roches and Jason Pinnock),0.53,0.37,9.0,2024,132
+1.0,11:52,3.0,5.0,WAS 35,0.0,0.0,Jayden Daniels pass incomplete short middle intended for Noah Brown (defended by Adoree' Jackson),0.37,-1.04,9.0,2024,132
+1.0,11:48,4.0,5.0,WAS 35,0.0,0.0,"Tress Way punts 56 yards, returned by Ihmir Smith-Marsette for 6 yards (tackle by Nick Bellore). Penalty on Tomon Fox: Defensive Illegal Blindside Block, 7 yards (accepted)",-1.04,0.38,9.0,2024,132
+1.0,11:35,1.0,10.0,NYG 8,0.0,0.0,Tyrone Tracy up the middle for 4 yards (tackle by Bobby Wagner),-0.38,-0.49,9.0,2024,132
+1.0,11:03,2.0,6.0,NYG 12,0.0,0.0,Tyrone Tracy left guard for 10 yards (tackle by Frankie Luvu and Clelin Ferrell),-0.49,0.41,9.0,2024,132
+1.0,10:26,1.0,10.0,NYG 22,0.0,0.0,Daniel Jones right end for 24 yards (tackle by Quan Martin),0.41,1.99,9.0,2024,132
+1.0,9:41,1.0,10.0,NYG 46,0.0,0.0,Devin Singletary right guard for 15 yards (tackle by Dante Fowler and Jeremy Chinn),1.99,2.98,9.0,2024,132
+1.0,9:01,1.0,10.0,WAS 39,0.0,0.0,Tyrone Tracy left guard for 10 yards (tackle by Frankie Luvu and Percy Butler),2.98,3.64,9.0,2024,132
+1.0,8:15,1.0,10.0,WAS 29,0.0,0.0,"Daniel Jones pass incomplete short left intended for Devin Singletary (defended by Dante Fowler) WAS challenged the fumble ruling, and the original play was overturned. Daniel Jones sacked by Dante Fowler for -8 yards. Daniel Jones fumbles (forced by Dante Fowler), recovered by Bobby Wagner at NYG-31 (tackle by Dante Fowler)",3.64,-3.51,9.0,2024,132
+1.0,8:15,1.0,10.0,NYG 31,0.0,0.0,Austin Ekeler up the middle for 5 yards (tackle by Micah McFadden and Brian Burns),3.51,3.64,9.0,2024,132
+1.0,7:43,2.0,5.0,NYG 26,0.0,0.0,"Jayden Daniels pass incomplete deep right intended for Noah Brown. Penalty on Cordale Flott: Defensive Pass Interference, 22 yards (accepted) (no play)",3.64,6.28,9.0,2024,132
+1.0,7:38,1.0,4.0,NYG 4,0.0,0.0,Austin Ekeler left guard for 3 yards (tackle by Tyler Nubin and Dexter Lawrence),6.28,5.91,9.0,2024,132
+1.0,7:07,2.0,1.0,NYG 1,6.0,0.0,"Jayden Daniels pass complete short left to Terry McLaurin for 1 yard, touchdown",5.91,7.0,9.0,2024,132
+1.0,7:04,,,NYG 15,7.0,0.0,Austin Seibert kicks extra point good,0.0,0.0,9.0,2024,132
+1.0,7:04,,,WAS 35,7.0,0.0,"Austin Seibert kicks off 62 yards, returned by Eric Gray for 24 yards (tackle by Mike Sainristil)",0.0,0.74,9.0,2024,132
+1.0,6:57,1.0,10.0,NYG 27,7.0,0.0,Devin Singletary up the middle for 4 yards (tackle by Sheldon Day),0.74,0.74,9.0,2024,132
+1.0,6:29,2.0,6.0,NYG 31,7.0,0.0,Devin Singletary up the middle for 5 yards (tackle by Jeremy Chinn and Sheldon Day),0.74,0.7,9.0,2024,132
+1.0,5:50,3.0,1.0,NYG 36,7.0,0.0,Devin Singletary right guard for 1 yard (tackle by Dorance Armstrong and Daron Payne),0.7,1.4,9.0,2024,132
+1.0,5:15,1.0,10.0,NYG 37,7.0,0.0,Tyrone Tracy right guard for 4 yards (tackle by Percy Butler),1.4,1.4,9.0,2024,132
+1.0,4:35,2.0,6.0,NYG 41,7.0,0.0,Tyrone Tracy left tackle for 5 yards (tackle by Bobby Wagner and Jeremy Chinn),1.4,1.36,9.0,2024,132
+1.0,3:59,3.0,1.0,NYG 46,7.0,0.0,Daniel Jones up the middle for 1 yard (tackle by Daron Payne),1.36,2.06,9.0,2024,132
+1.0,3:15,1.0,10.0,NYG 47,7.0,0.0,Tyrone Tracy left guard for 4 yards (tackle by Clelin Ferrell),2.06,2.06,9.0,2024,132
+1.0,2:43,2.0,6.0,WAS 49,7.0,0.0,Tyrone Tracy up the middle for 4 yards (tackle by Bobby Wagner and Jer'Zhan Newton),2.06,1.88,9.0,2024,132
+1.0,2:09,3.0,2.0,WAS 45,7.0,0.0,Devin Singletary left tackle for 6 yards (tackle by Jer'Zhan Newton and Jeremy Chinn),1.88,2.98,9.0,2024,132
+1.0,1:30,1.0,10.0,WAS 39,7.0,0.0,Daniel Jones pass complete short left to Wan'Dale Robinson for -6 yards (tackle by Jeremy Chinn and Phidarian Mathis),2.98,1.63,9.0,2024,132
+1.0,0:46,2.0,16.0,WAS 45,7.0,0.0,Daniel Jones scrambles up the middle for 11 yards (tackle by Noah Igbinoghene),1.63,2.41,9.0,2024,132
+1.0,0:02,3.0,5.0,WAS 34,7.0,0.0,"Penalty on Frankie Luvu: Neutral Zone Infraction, 4 yards (accepted) (no play)",2.41,2.94,9.0,2024,132
+2.0,15:00,3.0,1.0,WAS 30,7.0,0.0,Daniel Jones up the middle for 2 yards (tackle by Dante Fowler and Jeremy Chinn),2.94,3.71,9.0,2024,132
+2.0,14:25,1.0,10.0,WAS 28,7.0,0.0,Daniel Jones right end for 12 yards (tackle by Percy Butler),3.71,4.51,9.0,2024,132
+2.0,13:45,1.0,10.0,WAS 16,7.0,0.0,Daniel Jones pass complete short left to Tyrone Tracy for 3 yards (tackle by Noah Igbinoghene),4.51,4.39,9.0,2024,132
+2.0,13:10,2.0,7.0,WAS 13,7.0,0.0,Darius Slayton left tackle for 11 yards (tackle by Jeremy Chinn),4.39,6.74,9.0,2024,132
+2.0,12:25,1.0,2.0,WAS 2,7.0,6.0,"Daniel Jones pass complete short right to Chris Manhertz for 2 yards, touchdown",6.74,7.0,9.0,2024,132
+2.0,12:21,,,WAS 15,7.0,7.0,Jude McAtamney kicks extra point good,0.0,0.0,9.0,2024,132
+2.0,12:21,,,NYG 35,7.0,7.0,"Jude McAtamney kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,132
+2.0,12:21,1.0,10.0,WAS 30,7.0,7.0,Jayden Daniels left end for 9 yards (tackle by Deonte Banks),0.94,1.61,9.0,2024,132
+2.0,11:45,2.0,1.0,WAS 39,7.0,7.0,Austin Ekeler left end for 1 yard (tackle by Dexter Lawrence),1.61,1.6,9.0,2024,132
+2.0,11:19,1.0,10.0,WAS 40,7.0,7.0,Jayden Daniels pass complete deep right to Noah Brown for 16 yards,1.6,2.65,9.0,2024,132
+2.0,10:43,1.0,10.0,NYG 44,7.0,7.0,Jayden Daniels pass complete short left to Noah Brown for 3 yards (tackle by Andru Phillips),2.65,2.52,9.0,2024,132
+2.0,10:04,2.0,7.0,NYG 41,7.0,7.0,Austin Ekeler right guard for 20 yards (tackle by Jason Pinnock),2.52,4.17,9.0,2024,132
+2.0,9:30,1.0,10.0,NYG 21,7.0,7.0,Jayden Daniels pass complete short right to Austin Ekeler for 9 yards (tackle by Rakeem Nunez-Roches and Jason Pinnock),4.17,5.16,9.0,2024,132
+2.0,8:48,2.0,1.0,NYG 12,7.0,7.0,Jayden Daniels right end for -1 yards (tackle by Azeez Ojulari),5.16,4.24,9.0,2024,132
+2.0,8:13,3.0,2.0,NYG 13,7.0,7.0,Jeremy McNichols left end for 1 yard (tackle by Dexter Lawrence and Deonte Banks),4.24,2.78,9.0,2024,132
+2.0,7:32,4.0,1.0,NYG 12,7.0,7.0,Jayden Daniels scrambles right end for 6 yards (tackle by Micah McFadden),2.78,5.83,9.0,2024,132
+2.0,6:53,1.0,6.0,NYG 6,7.0,7.0,Austin Ekeler right guard for 5 yards (tackle by Bobby Okereke),5.83,5.91,9.0,2024,132
+2.0,6:25,2.0,1.0,NYG 1,13.0,7.0,"Austin Ekeler right guard for 1 yard, touchdown",5.91,7.0,9.0,2024,132
+2.0,6:21,,,NYG 15,14.0,7.0,Austin Seibert kicks extra point good,0.0,0.0,9.0,2024,132
+2.0,6:21,,,WAS 35,14.0,7.0,"Austin Seibert kicks off 61 yards, returned by Eric Gray for 29 yards (tackle by Jeremy Reaves and Jeremy Chinn)",0.0,1.14,9.0,2024,132
+2.0,6:15,1.0,10.0,NYG 33,14.0,7.0,Daniel Jones pass incomplete short middle intended for Malik Nabers (defended by Frankie Luvu),1.14,0.59,9.0,2024,132
+2.0,6:11,2.0,10.0,NYG 33,14.0,7.0,Tyrone Tracy right guard for 2 yards (tackle by Bobby Wagner and Jalyn Holmes),0.59,0.17,9.0,2024,132
+2.0,5:35,3.0,8.0,NYG 35,14.0,7.0,Daniel Jones pass incomplete short left intended for Theo Johnson (defended by Jeremy Chinn),0.17,-1.04,9.0,2024,132
+2.0,5:30,4.0,8.0,NYG 35,14.0,7.0,"Matt Haack punts 60 yards, returned by Olamide Zaccheaus for 8 yards (tackle by Matthew Adams)",-1.04,0.32,9.0,2024,132
+2.0,5:19,1.0,10.0,WAS 13,14.0,7.0,Jeremy McNichols right tackle for 6 yards (tackle by Rakeem Nunez-Roches and Andru Phillips),-0.32,0.03,9.0,2024,132
+2.0,4:56,2.0,4.0,WAS 19,14.0,7.0,Jayden Daniels scrambles up the middle for 7 yards (tackle by Tyler Nubin and Bobby Okereke),0.03,0.67,9.0,2024,132
+2.0,4:26,1.0,10.0,WAS 26,14.0,7.0,Austin Ekeler right tackle for -1 yards (tackle by Cordale Flott and Micah McFadden),0.67,-0.01,9.0,2024,132
+2.0,3:45,2.0,11.0,WAS 25,14.0,7.0,Jayden Daniels pass complete deep left to Noah Brown for 31 yards (tackle by Micah McFadden),-0.01,2.65,9.0,2024,132
+2.0,3:09,1.0,10.0,NYG 44,14.0,7.0,Jeremy McNichols right end for -2 yards (tackle by Bobby Okereke),2.65,1.84,9.0,2024,132
+2.0,2:30,2.0,12.0,NYG 46,14.0,7.0,Jayden Daniels pass complete short right to Olamide Zaccheaus for 6 yards (tackle by Cordale Flott),1.84,1.95,9.0,2024,132
+2.0,2:00,3.0,6.0,NYG 40,14.0,7.0,Jayden Daniels pass complete short middle to Zach Ertz for 5 yards (tackle by Andru Phillips),1.95,1.0,9.0,2024,132
+2.0,1:21,4.0,1.0,NYG 35,14.0,7.0,"Austin Ekeler up the middle for 1 yard (tackle by Micah McFadden and Armon Watts) Replay Assistant challenged the first down ruling, and the play was upheld.",1.0,3.31,9.0,2024,132
+2.0,0:53,1.0,10.0,NYG 34,14.0,7.0,"Jayden Daniels scrambles up the middle for no gain (tackle by Micah McFadden). Penalty on Nick Allegretti: Offensive Holding, 10 yards (accepted) (no play)",3.31,2.65,9.0,2024,132
+2.0,0:43,1.0,20.0,NYG 44,14.0,7.0,Jayden Daniels pass incomplete short left intended for Jeremy McNichols (defended by Brian Burns),2.65,1.42,9.0,2024,132
+2.0,0:40,,,,,,Timeout #1 by Washington Commanders,,,9.0,2024,132
+2.0,0:40,2.0,20.0,NYG 44,14.0,7.0,Jeremy McNichols left guard for 2 yards (tackle by Brian Burns and Rakeem Nunez-Roches),1.42,1.03,9.0,2024,132
+2.0,0:20,,,,,,Timeout #2 by Washington Commanders,,,9.0,2024,132
+2.0,0:20,3.0,18.0,NYG 42,14.0,7.0,Jayden Daniels pass complete short right to Dyami Brown for 24 yards (tackle by Isaiah Simmons and Adoree' Jackson),1.03,4.37,9.0,2024,132
+2.0,0:11,,,,,,Timeout #3 by Washington Commanders,,,9.0,2024,132
+2.0,0:11,1.0,10.0,NYG 18,20.0,7.0,"Jayden Daniels pass complete deep left to Terry McLaurin for 18 yards, touchdown",4.37,7.0,9.0,2024,132
+2.0,0:06,,,NYG 15,21.0,7.0,Austin Seibert kicks extra point good,0.0,0.0,9.0,2024,132
+2.0,0:06,,,WAS 35,21.0,7.0,"Austin Seibert kicks off 59 yards, returned by Ihmir Smith-Marsette for 21 yards (tackle by Jeremy Reaves and Mykal Walker)",0.0,1.27,9.0,2024,132
+3.0,15:00,,,NYG 35,21.0,7.0,"Jude McAtamney kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,132
+3.0,15:00,1.0,10.0,WAS 30,21.0,7.0,Austin Ekeler right guard for 2 yards (tackle by Bobby Okereke),0.94,0.66,9.0,2024,132
+3.0,14:24,2.0,8.0,WAS 32,21.0,7.0,Jayden Daniels pass incomplete short middle,0.66,-0.03,9.0,2024,132
+3.0,14:17,3.0,8.0,WAS 32,21.0,7.0,Jayden Daniels pass incomplete deep left intended for Terry McLaurin,-0.03,-1.24,9.0,2024,132
+3.0,14:16,4.0,8.0,WAS 32,21.0,7.0,"Tress Way punts 53 yards, returned by Ihmir Smith-Marsette for 6 yards (tackle by Percy Butler and Nick Bellore)",-1.24,-0.34,9.0,2024,132
+3.0,14:04,1.0,10.0,NYG 21,21.0,7.0,"Daniel Jones sacked by Dorance Armstrong for no gain. Penalty on Dorance Armstrong: Roughing the Passer, 15 yards (accepted) (no play)",0.34,1.33,9.0,2024,132
+3.0,13:45,1.0,10.0,NYG 36,21.0,7.0,Tyrone Tracy up the middle for no gain (tackle by Daron Payne and Jer'Zhan Newton),1.33,0.79,9.0,2024,132
+3.0,13:21,2.0,10.0,NYG 36,21.0,7.0,Daniel Jones pass complete short left to Malik Nabers for 6 yards (tackle by Benjamin St-Juste),0.79,0.89,9.0,2024,132
+3.0,12:46,3.0,4.0,NYG 42,21.0,7.0,Daniel Jones pass complete short right to Malik Nabers for 3 yards (tackle by Mike Sainristil),0.89,-0.39,9.0,2024,132
+3.0,12:08,4.0,1.0,NYG 45,21.0,7.0,Daniel Jones left guard for 2 yards (tackle by Dante Fowler),-0.39,2.06,9.0,2024,132
+3.0,11:32,1.0,10.0,NYG 47,21.0,7.0,Daniel Jones pass complete short middle to Malik Nabers for 16 yards (tackle by Benjamin St-Juste),2.06,3.12,9.0,2024,132
+3.0,10:46,1.0,10.0,WAS 37,21.0,7.0,Tyrone Tracy right guard for 1 yard (tackle by Bobby Wagner and Dante Fowler),3.12,2.71,9.0,2024,132
+3.0,10:09,2.0,9.0,WAS 36,21.0,7.0,Daniel Jones sacked by Dante Fowler for -4 yards,2.71,1.49,9.0,2024,132
+3.0,9:22,3.0,13.0,WAS 40,21.0,7.0,Daniel Jones pass complete short left to Darius Slayton for 11 yards (tackle by Mike Sainristil),1.49,1.6,9.0,2024,132
+3.0,8:41,4.0,2.0,WAS 29,21.0,7.0,Daniel Jones pass complete short left to Malik Nabers for 2 yards (tackle by Benjamin St-Juste),1.6,3.78,9.0,2024,132
+3.0,8:16,1.0,10.0,WAS 27,21.0,7.0,Daniel Jones pass incomplete short left intended for Malik Nabers,3.78,3.23,9.0,2024,132
+3.0,8:13,2.0,10.0,WAS 27,21.0,7.0,Daniel Jones pass complete short left to Darius Slayton for 15 yards (tackle by Benjamin St-Juste),3.23,4.78,9.0,2024,132
+3.0,7:36,1.0,10.0,WAS 12,21.0,7.0,Tyrone Tracy left end for 3 yards (tackle by Jer'Zhan Newton),4.78,4.64,9.0,2024,132
+3.0,6:56,2.0,7.0,WAS 9,21.0,7.0,Tyrone Tracy left tackle for 2 yards (tackle by Dorance Armstrong and Frankie Luvu),4.64,4.16,9.0,2024,132
+3.0,6:19,3.0,5.0,WAS 7,21.0,7.0,Tyrone Tracy right guard for 4 yards (tackle by Phidarian Mathis and Jer'Zhan Newton),4.16,3.06,9.0,2024,132
+3.0,5:33,4.0,1.0,WAS 3,21.0,7.0,"Daniel Jones pass complete short right to Wan'Dale Robinson for no gain, touchdown. Penalty on Darius Slayton: Offensive Pass Interference, 10 yards (accepted) (no play)",3.06,2.57,9.0,2024,132
+3.0,5:31,4.0,11.0,WAS 13,21.0,10.0,Jude McAtamney 31 yard field goal good,2.57,3.0,9.0,2024,132
+3.0,5:27,,,NYG 35,21.0,10.0,"Jude McAtamney kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,132
+3.0,5:27,1.0,10.0,WAS 30,21.0,10.0,Jayden Daniels scrambles right end for 16 yards (tackle by Cordale Flott),0.94,1.99,9.0,2024,132
+3.0,4:47,1.0,10.0,WAS 46,21.0,10.0,Chris Rodriguez left tackle for 1 yard (tackle by Bobby Okereke and Tomon Fox),1.99,1.59,9.0,2024,132
+3.0,4:11,2.0,9.0,WAS 47,21.0,10.0,Jayden Daniels pass complete short right to Noah Brown for 8 yards (tackle by Tyler Nubin and Bobby Okereke),1.59,1.95,9.0,2024,132
+3.0,3:41,3.0,1.0,NYG 45,21.0,10.0,Jayden Daniels pass complete short left to Ben Sinnott for 12 yards (tackle by Micah McFadden),1.95,3.38,9.0,2024,132
+3.0,3:00,1.0,10.0,NYG 33,21.0,10.0,Chris Rodriguez left tackle for 6 yards (tackle by Dexter Lawrence and Tomon Fox),3.38,3.65,9.0,2024,132
+3.0,2:29,2.0,4.0,NYG 27,21.0,10.0,Chris Rodriguez right tackle for 8 yards (tackle by Bobby Okereke),3.65,4.31,9.0,2024,132
+3.0,1:56,1.0,10.0,NYG 19,21.0,10.0,Jayden Daniels pass complete short right to Austin Ekeler for 4 yards (tackle by Micah McFadden),4.31,4.35,9.0,2024,132
+3.0,1:24,2.0,6.0,NYG 15,21.0,10.0,Jayden Daniels pass complete short right to Noah Brown for 2 yards (tackle by Jason Pinnock),4.35,3.96,9.0,2024,132
+3.0,0:44,3.0,4.0,NYG 13,21.0,10.0,Jayden Daniels pass incomplete short right,3.96,2.64,9.0,2024,132
+3.0,0:36,4.0,4.0,NYG 13,24.0,10.0,Austin Seibert 31 yard field goal good,2.64,3.0,9.0,2024,132
+3.0,0:33,,,WAS 35,24.0,10.0,"Austin Seibert kicks off 65 yards, touchback.",0.0,0.28,9.0,2024,132
+3.0,0:33,1.0,10.0,NYG 20,24.0,10.0,Daniel Jones pass incomplete deep left intended for Theo Johnson (defended by Noah Igbinoghene),0.28,-0.27,9.0,2024,132
+3.0,0:27,2.0,10.0,NYG 20,24.0,10.0,Devin Singletary up the middle for 1 yard (tackle by Bobby Wagner and Efe Obada),-0.27,-0.82,9.0,2024,132
+4.0,15:00,3.0,9.0,NYG 21,24.0,10.0,Daniel Jones pass complete short right to Wan'Dale Robinson for 10 yards (tackle by Noah Igbinoghene),-0.82,1.0,9.0,2024,132
+4.0,14:28,1.0,10.0,NYG 31,24.0,10.0,Devin Singletary left tackle for 1 yard (tackle by Frankie Luvu and Jer'Zhan Newton),1.0,0.6,9.0,2024,132
+4.0,13:49,2.0,9.0,NYG 32,24.0,10.0,Daniel Jones pass complete short right to Malik Nabers for 13 yards (tackle by Benjamin St-Juste),0.6,1.93,9.0,2024,132
+4.0,13:09,1.0,10.0,NYG 45,24.0,10.0,Daniel Jones pass incomplete short left intended for Theo Johnson,1.93,1.38,9.0,2024,132
+4.0,13:03,2.0,10.0,NYG 45,24.0,10.0,Daniel Jones pass complete short middle to Malik Nabers for 5 yards (tackle by Quan Martin and Frankie Luvu),1.38,1.36,9.0,2024,132
+4.0,12:36,3.0,5.0,WAS 50,24.0,10.0,"Daniel Jones pass incomplete short left intended for Malik Nabers. Penalty on Benjamin St-Juste: Defensive Pass Interference, 8 yards (accepted) (no play)",1.36,2.79,9.0,2024,132
+4.0,12:29,1.0,10.0,WAS 42,24.0,10.0,Daniel Jones pass complete short right to Malik Nabers for -5 yards (tackle by Jeremy Chinn),2.79,1.57,9.0,2024,132
+4.0,11:49,2.0,15.0,WAS 47,24.0,10.0,Tyrone Tracy up the middle for 6 yards (tackle by Dorance Armstrong),1.57,1.68,9.0,2024,132
+4.0,11:05,3.0,9.0,WAS 41,24.0,10.0,"Daniel Jones pass complete short middle to Malik Nabers for 8 yards (tackle by Mike Sainristil) NYG challenged the short of the line to gain ruling, and the original play was overturned. Daniel Jones pass complete short middle to Malik Nabers for 10 yards (tackle by Mike Sainristil)",1.68,3.51,9.0,2024,132
+4.0,10:48,1.0,10.0,WAS 31,24.0,10.0,Daniel Jones pass complete short left to Wan'Dale Robinson for 6 yards (tackle by Jeremy Chinn),3.51,3.78,9.0,2024,132
+4.0,10:11,2.0,4.0,WAS 25,24.0,10.0,Daniel Jones pass complete short middle to Darius Slayton for 23 yards (tackle by Quan Martin and Jeremy Chinn),3.78,6.74,9.0,2024,132
+4.0,9:31,1.0,2.0,WAS 2,24.0,16.0,"Daniel Jones left end for 2 yards, touchdown",6.74,7.0,9.0,2024,132
+4.0,9:25,,,WAS 2,24.0,16.0,"Two Point Attempt: Daniel Jones rushes, conversion fails.",1.0,-1.0,9.0,2024,132
+4.0,9:25,,,NYG 35,24.0,16.0,"Jude McAtamney kicks off 65 yards, returned by Austin Ekeler for 35 yards (tackle by Tyler Nubin and Darius Muasau)",0.0,1.27,9.0,2024,132
+4.0,9:19,1.0,10.0,WAS 35,24.0,16.0,Jeremy McNichols up the middle for 1 yard (tackle by Brian Burns and Dexter Lawrence),1.27,0.93,9.0,2024,132
+4.0,8:39,2.0,8.0,WAS 36,24.0,16.0,Jayden Daniels pass incomplete short middle intended for Austin Ekeler,0.93,0.17,9.0,2024,132
+4.0,8:37,3.0,9.0,WAS 36,24.0,16.0,Jayden Daniels pass complete short middle to Austin Ekeler for 28 yards (tackle by Adoree' Jackson),0.17,3.18,9.0,2024,132
+4.0,7:55,1.0,10.0,NYG 36,24.0,16.0,Jeremy McNichols left tackle for 1 yard (tackle by Micah McFadden and Cordale Flott),3.18,2.77,9.0,2024,132
+4.0,7:23,2.0,9.0,NYG 35,24.0,16.0,Jeremy McNichols right tackle for 8 yards (tackle by Micah McFadden and Rakeem Nunez-Roches),2.77,3.14,9.0,2024,132
+4.0,6:42,3.0,1.0,NYG 27,24.0,16.0,Jeremy McNichols up the middle for 3 yards (tackle by Brian Burns and Micah McFadden),3.14,3.97,9.0,2024,132
+4.0,5:58,1.0,10.0,NYG 24,24.0,16.0,Chris Rodriguez right guard for 17 yards (tackle by Jason Pinnock),3.97,5.6,9.0,2024,132
+4.0,5:18,1.0,7.0,NYG 7,24.0,16.0,Chris Rodriguez right tackle for 1 yard (tackle by Bobby Okereke),5.6,4.95,9.0,2024,132
+4.0,4:34,2.0,6.0,NYG 6,24.0,16.0,Chris Rodriguez up the middle for 4 yards (tackle by Tomon Fox),4.95,4.95,9.0,2024,132
+4.0,3:56,3.0,2.0,NYG 2,24.0,16.0,Jayden Daniels pass incomplete short right,4.95,3.25,9.0,2024,132
+4.0,3:49,4.0,2.0,NYG 2,27.0,16.0,Austin Seibert 20 yard field goal good,3.25,3.0,9.0,2024,132
+4.0,3:46,,,WAS 35,27.0,16.0,"Austin Seibert kicks off 65 yards, returned by Eric Gray for 26 yards (tackle by Jordan Magee)",0.0,0.67,9.0,2024,132
+4.0,3:41,1.0,10.0,NYG 26,27.0,16.0,Daniel Jones pass complete short right to Malik Nabers for 9 yards (tackle by Benjamin St-Juste),0.67,1.35,9.0,2024,132
+4.0,3:22,2.0,1.0,NYG 35,27.0,16.0,Daniel Jones pass complete short middle to Theo Johnson for 15 yards (tackle by Jeremy Chinn),1.35,2.26,9.0,2024,132
+4.0,2:58,1.0,10.0,NYG 50,27.0,16.0,"Daniel Jones pass deep left is intercepted by Quan Martin at WAS-34 and returned for no gain. Quan Martin fumbles (forced by Darius Slayton), recovered by Darius Slayton at WAS-35 (tackle by Quan Martin) Daniel Jones pass deep left is intercepted by Quan Martin at NYG-35 and returned for no gain. Penalty on Mike Sainristil: Defensive Pass Interference, 15 yards (accepted) (no play)",2.26,3.25,9.0,2024,132
+4.0,2:57,1.0,10.0,WAS 35,27.0,16.0,Daniel Jones pass incomplete short left intended for Wan'Dale Robinson,3.25,2.7,9.0,2024,132
+4.0,2:54,2.0,10.0,WAS 35,27.0,22.0,"Daniel Jones pass complete short middle to Theo Johnson for 35 yards, touchdown",2.7,7.0,9.0,2024,132
+4.0,2:48,,,WAS 2,27.0,22.0,"Two Point Attempt: Daniel Jones pass incomplete, sacked by Jayden Daniels sacked by",1.0,-1.0,9.0,2024,132
+4.0,2:48,,,NYG 35,27.0,22.0,"Jude McAtamney kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,132
+4.0,2:48,1.0,10.0,WAS 30,27.0,22.0,Chris Rodriguez left guard for 1 yard (tackle by Micah McFadden and Azeez Ojulari),0.94,0.53,9.0,2024,132
+4.0,2:08,2.0,9.0,WAS 31,27.0,22.0,Jayden Daniels pass complete deep left to Olamide Zaccheaus for 42 yards (tackle by Tyler Nubin),0.53,3.78,9.0,2024,132
+4.0,1:56,1.0,10.0,NYG 27,27.0,22.0,"Chris Rodriguez right tackle for 4 yards (tackle by D.J. Davidson). Penalty on D.J. Davidson: Face Mask (15 Yards), 12 yards (accepted)",3.78,4.84,9.0,2024,132
+4.0,1:48,1.0,10.0,NYG 11,27.0,22.0,Chris Rodriguez right tackle for 5 yards (tackle by Cordale Flott),4.84,5.08,9.0,2024,132
+4.0,1:46,,,,,,Timeout #1 by New York Giants,,,9.0,2024,132
+4.0,1:46,2.0,5.0,NYG 6,27.0,22.0,Chris Rodriguez right guard for 4 yards (tackle by D.J. Davidson),5.08,5.12,9.0,2024,132
+4.0,1:41,,,,,,Timeout #2 by New York Giants,,,9.0,2024,132
+4.0,1:41,3.0,1.0,NYG 2,27.0,22.0,Chris Rodriguez up the middle for 1 yard (tackle by D.J. Davidson and Dexter Lawrence),5.12,6.97,9.0,2024,132
+4.0,1:37,,,,,,Timeout #3 by New York Giants,,,9.0,2024,132
+4.0,1:37,1.0,1.0,NYG 1,27.0,22.0,Jayden Daniels kneels for no gain,6.97,5.91,9.0,2024,132
+4.0,0:59,2.0,1.0,NYG 1,27.0,22.0,Jayden Daniels kneels for -1 yards,5.91,4.95,9.0,2024,132
+4.0,0:24,3.0,2.0,NYG 2,27.0,22.0,Jayden Daniels kneels for -1 yards,4.95,3.04,9.0,2024,132

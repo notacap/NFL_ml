@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/nocap/Desktop/code/NFL_ml/database/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

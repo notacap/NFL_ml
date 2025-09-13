@@ -1,0 +1,9 @@
+Quarter,Time,Tm,Detail,CHI,SFO,week,year,game_id
+1.0,12:20,49ers,Jauan Jennings 7 yard pass from Brock Purdy (Jake Moody kick),0,7,14.0,2024,206
+,1:39,49ers,Isaac Guerendo 1 yard rush (Jake Moody kick),0,14,14.0,2024,206
+2.0,7:41,49ers,Jauan Jennings 16 yard pass from Brock Purdy (Jake Moody kick),0,21,14.0,2024,206
+,1:50,49ers,Jake Moody 23 yard field goal,0,24,14.0,2024,206
+3.0,5:56,Bears,Rome Odunze 4 yard pass from Caleb Williams (pass failed),6,24,14.0,2024,206
+4.0,14:57,49ers,Isaac Guerendo 4 yard rush (Jake Moody kick),6,31,14.0,2024,206
+,11:48,Bears,Rome Odunze 14 yard pass from Caleb Williams (Cairo Santos kick),13,31,14.0,2024,206
+,5:15,49ers,Patrick Taylor 3 yard rush (Jake Moody kick),13,38,14.0,2024,206

@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,13:25,MIN 15,9,3:54,33,Punt,1,Vikings,2.0,2024,23
+2,1,6:55,SFO 24,5,2:10,20,Field Goal,1,Vikings,2.0,2024,23
+3,2,10:27,MIN 2,2,0:52,98,Touchdown,1,Vikings,2.0,2024,23
+4,2,6:36,MIN 42,4,1:58,37,Interception,1,Vikings,2.0,2024,23
+5,2,1:53,MIN 30,8,1:53,49,Field Goal,1,Vikings,2.0,2024,23
+6,3,15:00,MIN 30,3,1:25,-7,Punt,1,Vikings,2.0,2024,23
+7,3,10:19,MIN 15,4,2:38,19,Punt,1,Vikings,2.0,2024,23
+8,3,6:53,SFO 10,1,0:04,10,Touchdown,1,Vikings,2.0,2024,23
+9,3,2:28,,5,2:20,48,Fumble,1,Vikings,2.0,2024,23
+10,4,10:16,MIN 30,14,6:46,62,Field Goal,1,Vikings,2.0,2024,23
+11,4,1:12,SFO 42,2,1:12,-2,End of Game,1,Vikings,2.0,2024,23

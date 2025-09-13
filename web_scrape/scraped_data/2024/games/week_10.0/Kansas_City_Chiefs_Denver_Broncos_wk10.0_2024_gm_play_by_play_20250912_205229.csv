@@ -1,0 +1,166 @@
+Quarter,Time,Down,ToGo,Location,DEN,KAN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Chiefs won the coin toss and deferred, Broncos to receive the opening kickoff.",,,10.0,2024,146
+1.0,15:00,,,KAN 35,0.0,0.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.94,10.0,2024,146
+1.0,15:00,1.0,10.0,DEN 30,0.0,0.0,Jaleel McLaughlin right end for 4 yards (tackle by Michael Danna),0.94,0.93,10.0,2024,146
+1.0,14:27,2.0,6.0,DEN 34,0.0,0.0,Bo Nix pass incomplete short right intended for Courtland Sutton,0.93,0.23,10.0,2024,146
+1.0,14:24,3.0,6.0,DEN 34,0.0,0.0,Bo Nix pass complete short left to Marvin Mims for -3 yards (tackle by Justin Reid),0.23,-1.31,10.0,2024,146
+1.0,13:48,4.0,9.0,DEN 31,0.0,0.0,"Riley Dixon punts 57 yards, returned by Mecole Hardman for 9 yards (tackle by Jonah Elliss)",-1.31,-0.34,10.0,2024,146
+1.0,13:37,1.0,10.0,KAN 21,0.0,0.0,Kareem Hunt right guard for 3 yards (tackle by Jonathon Cooper and Cody Barton),0.34,0.21,10.0,2024,146
+1.0,13:03,2.0,7.0,KAN 24,0.0,0.0,Kareem Hunt right guard for 2 yards (tackle by D.J. Jones),0.21,-0.23,10.0,2024,146
+1.0,12:28,3.0,5.0,KAN 26,0.0,0.0,"Penalty on Xavier Worthy: False Start, 5 yards (accepted) (no play)",-0.23,-0.89,10.0,2024,146
+1.0,12:06,3.0,10.0,KAN 21,0.0,0.0,Patrick Mahomes scrambles left end for 12 yards (tackle by Nik Bonitto),-0.89,1.14,10.0,2024,146
+1.0,11:25,1.0,10.0,KAN 33,0.0,0.0,Patrick Mahomes pass incomplete short left intended for Travis Kelce,1.14,0.59,10.0,2024,146
+1.0,11:21,2.0,10.0,KAN 33,0.0,0.0,Patrick Mahomes pass complete short right to Travis Kelce for 6 yards (tackle by Brandon Jones and Justin Strnad),0.59,0.7,10.0,2024,146
+1.0,10:40,3.0,4.0,KAN 39,0.0,0.0,Patrick Mahomes pass complete short right to Travis Kelce for 10 yards (tackle by Brandon Jones),0.7,2.19,10.0,2024,146
+1.0,10:03,1.0,10.0,KAN 49,0.0,0.0,Patrick Mahomes pass incomplete short right intended for Xavier Worthy,2.19,1.65,10.0,2024,146
+1.0,9:58,2.0,10.0,KAN 49,0.0,0.0,Kareem Hunt right guard for 2 yards (tackle by D.J. Jones),1.65,1.22,10.0,2024,146
+1.0,9:19,3.0,8.0,DEN 49,0.0,0.0,Patrick Mahomes sacked by Zach Allen for -6 yards,1.22,-0.39,10.0,2024,146
+1.0,8:43,4.0,14.0,KAN 45,0.0,0.0,"Matt Araiza punts 55 yards, touchback.",-0.39,-0.28,10.0,2024,146
+1.0,8:34,1.0,10.0,DEN 20,0.0,0.0,Marvin Mims right end for 4 yards (tackle by Nazeeh Johnson),0.28,0.27,10.0,2024,146
+1.0,7:59,2.0,6.0,DEN 24,0.0,0.0,Bo Nix pass complete short right to Lucas Krull for 11 yards (tackle by Nazeeh Johnson),0.27,1.27,10.0,2024,146
+1.0,7:31,1.0,10.0,DEN 35,0.0,0.0,Bo Nix sacked by Nazeeh Johnson for -17 yards,1.27,-1.68,10.0,2024,146
+1.0,6:45,2.0,27.0,DEN 18,0.0,0.0,Bo Nix pass incomplete deep left intended for Troy Franklin,-1.68,-2.51,10.0,2024,146
+1.0,6:39,3.0,27.0,DEN 18,0.0,0.0,Bo Nix pass complete short right to Javonte Williams for 5 yards (tackle by Justin Reid and Chris Jones),-2.51,-1.83,10.0,2024,146
+1.0,6:09,4.0,22.0,DEN 23,0.0,0.0,"Riley Dixon punts 56 yards, returned by Mecole Hardman for 19 yards (tackle by Riley Dixon)",-1.83,-1.6,10.0,2024,146
+1.0,5:55,1.0,10.0,KAN 40,0.0,0.0,Kareem Hunt right end for 1 yard (tackle by Riley Moss and Justin Strnad),1.6,1.19,10.0,2024,146
+1.0,5:21,2.0,9.0,KAN 41,0.0,0.0,Patrick Mahomes pass complete short right to DeAndre Hopkins for 4 yards (tackle by Patrick Surtain),1.19,1.03,10.0,2024,146
+1.0,4:43,3.0,5.0,KAN 45,0.0,0.0,Patrick Mahomes pass complete short right to Samaje Perine for 2 yards (tackle by Patrick Surtain),1.03,-0.26,10.0,2024,146
+1.0,4:08,4.0,3.0,KAN 47,0.0,0.0,"Matt Araiza punts 53 yards, touchback.",-0.26,-0.28,10.0,2024,146
+1.0,4:00,1.0,10.0,DEN 20,0.0,0.0,Marvin Mims right end for 14 yards (tackle by Justin Reid),0.28,1.2,10.0,2024,146
+1.0,3:27,1.0,10.0,DEN 34,0.0,0.0,Audric Estime left end for 8 yards (tackle by Justin Reid and Leo Chenal),1.2,1.74,10.0,2024,146
+1.0,2:46,2.0,2.0,DEN 42,0.0,0.0,Audric Estime right guard for 6 yards (tackle by Leo Chenal and Nazeeh Johnson),1.74,2.13,10.0,2024,146
+1.0,2:07,1.0,10.0,DEN 48,0.0,0.0,Bo Nix pass complete short left to Devaughn Vele for 12 yards (tackle by Justin Reid and Leo Chenal),2.13,2.92,10.0,2024,146
+1.0,1:24,1.0,10.0,KAN 40,0.0,0.0,"Bo Nix aborted snap, recovered by Bo Nix at KC-41 Bo Nix pass incomplete short right",2.92,2.37,10.0,2024,146
+1.0,1:21,2.0,10.0,KAN 40,0.0,0.0,"Bo Nix pass complete short right to Troy Franklin for no gain (tackle by Chamarri Conner). Penalty on Luke Wattenberg: Ineligible Downfield Pass, 5 yards (accepted) (no play)",2.37,1.7,10.0,2024,146
+1.0,0:52,2.0,15.0,KAN 45,0.0,0.0,Bo Nix pass complete short left to Adam Trautman for 34 yards (tackle by Bryan Cook),1.7,4.84,10.0,2024,146
+1.0,0:05,1.0,10.0,KAN 11,0.0,0.0,Javonte Williams left end for 1 yard (tackle by Nick Bolton),4.84,4.32,10.0,2024,146
+2.0,15:00,2.0,9.0,KAN 10,0.0,0.0,Bo Nix pass complete short left to Marvin Mims for 4 yards (tackle by Drue Tranquill),4.32,4.21,10.0,2024,146
+2.0,14:23,3.0,5.0,KAN 6,6.0,0.0,"Bo Nix pass complete short left to Devaughn Vele for 6 yards, touchdown",4.21,7.0,10.0,2024,146
+2.0,14:20,,,KAN 15,7.0,0.0,Wil Lutz kicks extra point good,0.0,0.0,10.0,2024,146
+2.0,14:20,,,DEN 35,7.0,0.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.94,10.0,2024,146
+2.0,14:20,1.0,10.0,KAN 30,7.0,0.0,Patrick Mahomes pass complete short middle to Travis Kelce for 8 yards (tackle by Brandon Jones),0.94,1.47,10.0,2024,146
+2.0,13:57,2.0,2.0,KAN 38,7.0,0.0,Kareem Hunt right end for 10 yards (tackle by Brandon Jones and Cody Barton),1.47,2.13,10.0,2024,146
+2.0,13:16,,,,,,Timeout #1 by Kansas City Chiefs,,,10.0,2024,146
+2.0,13:16,1.0,10.0,KAN 48,7.0,0.0,Patrick Mahomes pass complete short right to DeAndre Hopkins for 12 yards (tackle by Riley Moss),2.13,2.92,10.0,2024,146
+2.0,12:42,1.0,10.0,DEN 40,7.0,0.0,Patrick Mahomes pass complete short right to Justin Watson for 5 yards (tackle by Patrick Surtain),2.92,3.05,10.0,2024,146
+2.0,12:08,2.0,5.0,DEN 35,7.0,0.0,Patrick Mahomes pass incomplete deep right,3.05,2.34,10.0,2024,146
+2.0,12:01,3.0,5.0,DEN 35,7.0,0.0,Patrick Mahomes pass complete short left to Noah Gray for 13 yards (tackle by Nik Bonitto),2.34,4.11,10.0,2024,146
+2.0,11:25,1.0,10.0,DEN 22,7.0,0.0,Kareem Hunt right guard for 3 yards (tackle by Jordan Jackson),4.11,3.97,10.0,2024,146
+2.0,10:48,2.0,7.0,DEN 19,7.0,0.0,"Patrick Mahomes scrambles right end for no gain (tackle by Brandon Jones). Penalty on Jawaan Taylor: Illegal Shift, 5 yards (accepted) (no play)",3.97,3.29,10.0,2024,146
+2.0,10:25,2.0,12.0,DEN 24,7.0,0.0,Patrick Mahomes pass complete short left to Travis Kelce for 5 yards (tackle by P.J. Locke),3.29,3.26,10.0,2024,146
+2.0,9:49,3.0,7.0,DEN 19,7.0,0.0,Patrick Mahomes scrambles left end for 1 yard (tackle by John Franklin-Myers),3.26,2.27,10.0,2024,146
+2.0,9:06,4.0,6.0,DEN 18,7.0,3.0,Harrison Butker 36 yard field goal good,2.27,3.0,10.0,2024,146
+2.0,9:02,,,KAN 35,7.0,3.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.94,10.0,2024,146
+2.0,9:02,1.0,10.0,DEN 30,7.0,3.0,Audric Estime left guard for 10 yards (tackle by Jaden Hicks),0.94,1.6,10.0,2024,146
+2.0,8:34,1.0,10.0,DEN 40,7.0,3.0,Bo Nix pass complete short right to Lil'Jordan Humphrey for 20 yards (tackle by Felix Anudike-Uzomah),1.6,2.92,10.0,2024,146
+2.0,8:05,1.0,10.0,KAN 40,7.0,3.0,Bo Nix pass complete short right to Courtland Sutton for 6 yards (tackle by Trent McDuffie),2.92,3.18,10.0,2024,146
+2.0,7:28,2.0,4.0,KAN 34,7.0,3.0,Audric Estime up the middle for 2 yards (tackle by Leo Chenal and Chris Jones),3.18,2.74,10.0,2024,146
+2.0,6:45,3.0,2.0,KAN 32,13.0,3.0,"Bo Nix pass complete deep left to Courtland Sutton for 32 yards, touchdown",2.74,7.0,10.0,2024,146
+2.0,6:39,,,KAN 15,14.0,3.0,Wil Lutz kicks extra point good,0.0,0.0,10.0,2024,146
+2.0,6:39,,,DEN 35,14.0,3.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.94,10.0,2024,146
+2.0,6:39,1.0,10.0,KAN 30,14.0,3.0,Patrick Mahomes pass complete short right to Travis Kelce for 22 yards (tackle by Brandon Jones),0.94,2.39,10.0,2024,146
+2.0,6:01,1.0,10.0,DEN 48,14.0,3.0,Patrick Mahomes pass complete short right to Noah Gray for 5 yards (tackle by Brandon Jones),2.39,2.52,10.0,2024,146
+2.0,5:25,2.0,5.0,DEN 43,14.0,3.0,Patrick Mahomes pass complete short right to DeAndre Hopkins for 9 yards (tackle by Patrick Surtain),2.52,3.31,10.0,2024,146
+2.0,4:47,1.0,10.0,DEN 34,14.0,3.0,Kareem Hunt up the middle for 3 yards (tackle by Jonathon Cooper and Cody Barton),3.31,3.18,10.0,2024,146
+2.0,4:16,2.0,7.0,DEN 31,14.0,3.0,Patrick Mahomes sacked by Jonathon Cooper for -2 yards,3.18,2.21,10.0,2024,146
+2.0,3:37,3.0,9.0,DEN 33,14.0,3.0,"Patrick Mahomes sacked by Nik Bonitto for no gain. Penalty on Brandon Jones: Illegal Contact, 5 yards (accepted) (no play)",2.21,3.71,10.0,2024,146
+2.0,3:20,1.0,10.0,DEN 28,14.0,3.0,Patrick Mahomes pass complete short right to Mecole Hardman for 3 yards (tackle by Brandon Jones),3.71,3.57,10.0,2024,146
+2.0,2:42,2.0,7.0,DEN 25,14.0,3.0,Patrick Mahomes pass complete short left to Kareem Hunt for 19 yards (tackle by Brandon Jones),3.57,5.83,10.0,2024,146
+2.0,2:14,,,,,,Timeout #1 by Denver Broncos,,,10.0,2024,146
+2.0,2:14,1.0,6.0,DEN 6,14.0,3.0,Patrick Mahomes pass complete short middle to Kareem Hunt for 4 yards (tackle by P.J. Locke and Dondrea Tillman),5.83,5.72,10.0,2024,146
+2.0,2:00,2.0,2.0,DEN 2,14.0,3.0,Kareem Hunt left guard for no gain (tackle by D.J. Jones and Zach Allen),5.72,4.95,10.0,2024,146
+2.0,1:55,,,,,,Timeout #2 by Denver Broncos,,,10.0,2024,146
+2.0,1:55,3.0,2.0,DEN 2,14.0,3.0,Patrick Mahomes pass incomplete short left intended for DeAndre Hopkins,4.95,3.25,10.0,2024,146
+2.0,1:47,4.0,2.0,DEN 2,14.0,9.0,"Patrick Mahomes pass complete short right to Travis Kelce for 2 yards, touchdown",3.25,7.0,10.0,2024,146
+2.0,1:44,,,DEN 15,14.0,10.0,Harrison Butker kicks extra point good,0.0,0.0,10.0,2024,146
+2.0,1:44,,,KAN 35,14.0,10.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.94,10.0,2024,146
+2.0,1:44,1.0,10.0,DEN 30,14.0,10.0,Bo Nix pass complete short left to Javonte Williams for 1 yard (tackle by Jaden Hicks),0.94,0.53,10.0,2024,146
+2.0,1:21,2.0,9.0,DEN 31,14.0,10.0,Bo Nix pass complete short left to Courtland Sutton for 10 yards (tackle by Trent McDuffie),0.53,1.66,10.0,2024,146
+2.0,0:58,1.0,10.0,DEN 41,14.0,10.0,Bo Nix pass complete short right to Troy Franklin for 9 yards (tackle by Nazeeh Johnson),1.66,2.34,10.0,2024,146
+2.0,0:38,2.0,1.0,KAN 50,14.0,10.0,Bo Nix pass incomplete short right,2.34,1.62,10.0,2024,146
+2.0,0:32,3.0,1.0,KAN 50,14.0,10.0,Bo Nix pass complete short left to Devaughn Vele for 13 yards (tackle by Nazeeh Johnson),1.62,3.12,10.0,2024,146
+2.0,0:14,1.0,10.0,KAN 37,14.0,10.0,"Bo Nix spiked the ball. Penalty on Courtland Sutton: Offensive Offside, 5 yards (accepted) (no play)",3.12,2.79,10.0,2024,146
+2.0,0:14,1.0,15.0,KAN 42,14.0,10.0,Bo Nix pass incomplete deep left intended for Lil'Jordan Humphrey,2.79,1.9,10.0,2024,146
+2.0,0:09,2.0,15.0,KAN 42,14.0,10.0,Bo Nix pass incomplete deep middle intended for Courtland Sutton,1.9,1.22,10.0,2024,146
+2.0,0:05,,,,,,Timeout #3 by Denver Broncos,,,10.0,2024,146
+2.0,0:05,,,,,,Timeout #2 by Kansas City Chiefs,,,10.0,2024,146
+2.0,0:05,3.0,15.0,KAN 42,14.0,10.0,"Wil Lutz 60 yard field goal no good, returned by Mecole Hardman for no gain (tackle by Cody Barton)",1.22,2.19,10.0,2024,146
+3.0,15:00,,,DEN 35,14.0,10.0,"Wil Lutz kicks off 63 yards, returned by Carson Steele for 25 yards (tackle by Jonah Elliss and Levelle Bailey)",0.0,0.74,10.0,2024,146
+3.0,14:55,1.0,10.0,KAN 27,14.0,10.0,Kareem Hunt right end for no gain (tackle by Cody Barton and Zach Allen),0.74,0.2,10.0,2024,146
+3.0,14:17,2.0,10.0,KAN 27,14.0,10.0,Patrick Mahomes pass incomplete short right intended for Kareem Hunt,0.2,-0.49,10.0,2024,146
+3.0,14:13,3.0,10.0,KAN 27,14.0,10.0,Patrick Mahomes sacked by John Franklin-Myers for -6 yards,-0.49,-1.96,10.0,2024,146
+3.0,13:35,4.0,16.0,KAN 21,14.0,10.0,"Matt Araiza punts 64 yards, returned by Marvin Mims for 28 yards (tackle by Cole Christiansen)",-1.96,-1.8,10.0,2024,146
+3.0,13:19,1.0,10.0,DEN 43,14.0,10.0,Audric Estime right guard for 3 yards (tackle by Mike Pennel),1.8,1.66,10.0,2024,146
+3.0,12:57,2.0,7.0,DEN 46,14.0,10.0,"Audric Estime up the middle for no gain (tackle by Justin Reid). Penalty on Ben Powers: Offensive Holding, 10 yards (accepted) (no play)",1.66,0.31,10.0,2024,146
+3.0,12:23,,,,,,Timeout #1 by Denver Broncos,,,10.0,2024,146
+3.0,12:23,2.0,17.0,DEN 36,14.0,10.0,Bo Nix scrambles right end for 3 yards (tackle by Nick Bolton),0.31,0.04,10.0,2024,146
+3.0,11:47,3.0,14.0,DEN 39,14.0,10.0,Bo Nix pass complete short left to Marvin Mims for 6 yards (tackle by Chamarri Conner),0.04,-0.39,10.0,2024,146
+3.0,11:15,4.0,8.0,DEN 45,14.0,10.0,Riley Dixon punts 30 yards out of bounds,-0.39,-0.61,10.0,2024,146
+3.0,11:07,1.0,10.0,KAN 25,14.0,10.0,Patrick Mahomes pass complete short right to Kareem Hunt for 7 yards (tackle by Ja'Quan McMillian),0.61,1.01,10.0,2024,146
+3.0,10:29,2.0,3.0,KAN 32,14.0,10.0,Kareem Hunt left end for 4 yards (tackle by P.J. Locke and Jordan Jackson),1.01,1.33,10.0,2024,146
+3.0,9:51,1.0,10.0,KAN 36,14.0,10.0,Patrick Mahomes sacked by Nik Bonitto for -9 yards,1.33,-0.43,10.0,2024,146
+3.0,9:07,2.0,19.0,KAN 27,14.0,10.0,Carson Steele up the middle for 6 yards (tackle by Jonathon Cooper),-0.43,-0.3,10.0,2024,146
+3.0,8:28,3.0,13.0,KAN 33,14.0,10.0,Patrick Mahomes pass complete short right to Samaje Perine for 35 yards (tackle by Ja'Quan McMillian),-0.3,3.45,10.0,2024,146
+3.0,7:45,1.0,10.0,DEN 32,14.0,10.0,Patrick Mahomes pass complete short right to Peyton Hendershot for 6 yards (tackle by Jonah Elliss and Riley Moss),3.45,3.71,10.0,2024,146
+3.0,7:06,2.0,4.0,DEN 26,14.0,10.0,Patrick Mahomes pass incomplete short middle intended for Travis Kelce,3.71,3.01,10.0,2024,146
+3.0,7:01,3.0,4.0,DEN 26,14.0,10.0,Patrick Mahomes pass complete short left to Travis Kelce for 5 yards (tackle by P.J. Locke),3.01,4.17,10.0,2024,146
+3.0,6:21,1.0,10.0,DEN 21,14.0,10.0,Patrick Mahomes pass incomplete short left intended for Kareem Hunt,4.17,3.63,10.0,2024,146
+3.0,6:16,2.0,10.0,DEN 21,14.0,10.0,Patrick Mahomes pass complete short left to Kareem Hunt for 3 yards (tackle by Ja'Quan McMillian and Justin Strnad),3.63,3.31,10.0,2024,146
+3.0,5:33,3.0,7.0,DEN 18,14.0,10.0,Patrick Mahomes scrambles right end for 6 yards (tackle by Jonathon Cooper),3.31,2.78,10.0,2024,146
+3.0,4:46,4.0,1.0,DEN 12,14.0,10.0,Kareem Hunt left guard for 2 yards (tackle by Cody Barton),2.78,4.91,10.0,2024,146
+3.0,4:08,1.0,10.0,DEN 10,14.0,10.0,Patrick Mahomes pass incomplete short right intended for Xavier Worthy,4.91,4.19,10.0,2024,146
+3.0,4:01,2.0,10.0,DEN 10,14.0,10.0,Patrick Mahomes pass incomplete short right intended for Kareem Hunt (defended by Zach Allen),4.19,3.13,10.0,2024,146
+3.0,3:58,3.0,10.0,DEN 10,14.0,10.0,Patrick Mahomes pass incomplete short right intended for Justyn Ross,3.13,2.76,10.0,2024,146
+3.0,3:54,4.0,10.0,DEN 10,14.0,13.0,Harrison Butker 28 yard field goal good,2.76,3.0,10.0,2024,146
+3.0,3:51,,,KAN 35,14.0,13.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.94,10.0,2024,146
+3.0,3:51,1.0,10.0,DEN 30,14.0,13.0,Audric Estime left guard for 4 yards (tackle by Nazeeh Johnson and Nick Bolton),0.94,0.93,10.0,2024,146
+3.0,3:24,2.0,6.0,DEN 34,14.0,13.0,Bo Nix pass complete short right to Lucas Krull for 10 yards (tackle by Bryan Cook),0.93,1.86,10.0,2024,146
+3.0,2:45,1.0,10.0,DEN 44,14.0,13.0,Audric Estime left end for 2 yards (tackle by Chamarri Conner and Nazeeh Johnson),1.86,1.59,10.0,2024,146
+3.0,2:22,2.0,8.0,DEN 46,14.0,13.0,Audric Estime left guard for 3 yards (tackle by Drue Tranquill and Justin Reid),1.59,1.29,10.0,2024,146
+3.0,1:43,3.0,5.0,DEN 49,14.0,13.0,Bo Nix pass complete short middle to Devaughn Vele for 8 yards (tackle by Chamarri Conner),1.29,2.72,10.0,2024,146
+3.0,1:01,1.0,10.0,KAN 43,14.0,13.0,Bo Nix pass incomplete short left intended for Courtland Sutton,2.72,2.18,10.0,2024,146
+3.0,0:57,2.0,10.0,KAN 43,14.0,13.0,Marvin Mims right end for -1 yards (tackle by Trent McDuffie),2.18,1.36,10.0,2024,146
+3.0,0:13,3.0,11.0,KAN 44,14.0,13.0,Bo Nix sacked by Nick Bolton for -16 yards,1.36,-0.72,10.0,2024,146
+4.0,15:00,4.0,27.0,DEN 40,14.0,13.0,"Riley Dixon punts 54 yards, returned by Mecole Hardman for no gain (tackle by Tremon Smith)",-0.72,0.38,10.0,2024,146
+4.0,14:51,1.0,10.0,KAN 6,14.0,13.0,Patrick Mahomes pass complete short left to Xavier Worthy for 11 yards (tackle by Patrick Surtain),-0.38,-0.06,10.0,2024,146
+4.0,14:19,1.0,10.0,KAN 17,14.0,13.0,Kareem Hunt up the middle for 1 yard (tackle by Brandon Jones),-0.06,-0.42,10.0,2024,146
+4.0,13:47,2.0,9.0,KAN 18,14.0,13.0,Patrick Mahomes pass complete short left to Kareem Hunt for 26 yards (tackle by P.J. Locke),-0.42,1.86,10.0,2024,146
+4.0,13:16,1.0,10.0,KAN 44,14.0,13.0,"Carson Steele left guard for no gain (tackle by Cody Barton). Penalty on Patrick Surtain: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",1.86,2.19,10.0,2024,146
+4.0,12:52,1.0,10.0,KAN 49,14.0,13.0,Patrick Mahomes pass incomplete deep right intended for Xavier Worthy,2.19,1.65,10.0,2024,146
+4.0,12:44,2.0,10.0,KAN 49,14.0,13.0,"Patrick Mahomes pass complete short right to Justin Watson for 1 yard (tackle by Riley Moss) Penalty on KAN: Illegal Formation, 5 yards (declined)",1.65,1.09,10.0,2024,146
+4.0,12:31,3.0,9.0,KAN 50,14.0,13.0,Patrick Mahomes pass incomplete short middle intended for Travis Kelce (defended by Jonah Elliss),1.09,-0.06,10.0,2024,146
+4.0,12:28,4.0,9.0,KAN 50,14.0,13.0,"Matt Araiza punts 41 yards, fair catch by Marvin Mims at DEN-9",-0.06,0.38,10.0,2024,146
+4.0,12:21,1.0,10.0,DEN 9,14.0,13.0,Jaleel McLaughlin left end for 8 yards (tackle by Chamarri Conner),-0.38,-0.02,10.0,2024,146
+4.0,11:38,2.0,2.0,DEN 17,14.0,13.0,Bo Nix left end for -5 yards (tackle by Felix Anudike-Uzomah),-0.02,-1.07,10.0,2024,146
+4.0,10:53,3.0,7.0,DEN 12,14.0,13.0,Bo Nix pass incomplete deep left intended for Troy Franklin,-1.07,-2.49,10.0,2024,146
+4.0,10:47,4.0,7.0,DEN 12,14.0,13.0,"Penalty on Jonah Elliss: False Start, 5 yards (accepted) (no play)",-2.49,-2.49,10.0,2024,146
+4.0,10:47,4.0,12.0,DEN 7,14.0,13.0,Riley Dixon punts 39 yards out of bounds,-2.49,-2.52,10.0,2024,146
+4.0,10:40,1.0,10.0,DEN 46,14.0,13.0,Patrick Mahomes pass incomplete short right,2.52,1.98,10.0,2024,146
+4.0,10:36,2.0,10.0,DEN 46,14.0,13.0,Carson Steele right guard for -3 yards (tackle by Justin Strnad and Cody Barton),1.98,0.89,10.0,2024,146
+4.0,10:02,3.0,13.0,DEN 49,14.0,13.0,Patrick Mahomes pass complete short left to DeAndre Hopkins for 31 yards (tackle by Riley Moss),0.89,4.37,10.0,2024,146
+4.0,9:21,1.0,10.0,DEN 18,14.0,13.0,Kareem Hunt right guard for 4 yards (tackle by Cody Barton and Jonathon Cooper),4.37,4.43,10.0,2024,146
+4.0,8:41,,,,,,Timeout #1 by Kansas City Chiefs,,,10.0,2024,146
+4.0,8:41,2.0,6.0,DEN 14,14.0,13.0,Patrick Mahomes pass complete short left to Kareem Hunt for 3 yards (tackle by Riley Moss),4.43,4.26,10.0,2024,146
+4.0,8:01,3.0,3.0,DEN 11,14.0,13.0,Patrick Mahomes pass complete short left to Travis Kelce for 6 yards (tackle by P.J. Locke),4.26,6.06,10.0,2024,146
+4.0,7:21,1.0,5.0,DEN 5,14.0,13.0,Kareem Hunt right guard for no gain (tackle by Cody Barton and P.J. Locke),6.06,5.15,10.0,2024,146
+4.0,6:46,2.0,5.0,DEN 5,14.0,13.0,Patrick Mahomes pass complete short middle to Kareem Hunt for 3 yards (tackle by John Franklin-Myers and Zach Allen),5.15,4.95,10.0,2024,146
+4.0,6:03,3.0,2.0,DEN 2,14.0,13.0,Patrick Mahomes pass incomplete short right intended for Travis Kelce,4.95,3.25,10.0,2024,146
+4.0,5:59,4.0,2.0,DEN 2,14.0,16.0,Harrison Butker 20 yard field goal good,3.25,3.0,10.0,2024,146
+4.0,5:57,,,KAN 35,14.0,16.0,"Harrison Butker kicks off 25 yards,. Penalty on Harrison Butker: Kickoff Short of Landing Zone (accepted)",0.0,1.6,10.0,2024,146
+4.0,5:57,1.0,10.0,DEN 40,14.0,16.0,Audric Estime up the middle for 2 yards (tackle by Nazeeh Johnson),1.6,1.32,10.0,2024,146
+4.0,5:18,2.0,8.0,DEN 42,14.0,16.0,Bo Nix pass complete short left to Marvin Mims for 6 yards (tackle by Nazeeh Johnson and Bryan Cook),1.32,1.42,10.0,2024,146
+4.0,4:36,3.0,2.0,DEN 48,14.0,16.0,Bo Nix pass complete short left to Courtland Sutton for 3 yards (tackle by Chamarri Conner),1.42,2.32,10.0,2024,146
+4.0,4:04,1.0,10.0,KAN 49,14.0,16.0,Audric Estime right guard for 3 yards (tackle by Drue Tranquill),2.32,2.19,10.0,2024,146
+4.0,3:42,2.0,7.0,KAN 46,14.0,16.0,Bo Nix pass complete short right to Courtland Sutton for 6 yards (tackle by Trent McDuffie),2.19,2.28,10.0,2024,146
+4.0,3:13,3.0,1.0,KAN 40,14.0,16.0,Audric Estime right guard for 6 yards (tackle by George Karlaftis and Nick Bolton),2.28,3.31,10.0,2024,146
+4.0,2:39,1.0,10.0,KAN 34,14.0,16.0,Bo Nix pass complete short left to Lil'Jordan Humphrey for 3 yards (tackle by Bryan Cook and Trent McDuffie),3.31,3.18,10.0,2024,146
+4.0,2:00,2.0,7.0,KAN 31,14.0,16.0,Audric Estime left guard for 1 yard (tackle by Mike Pennel and Drue Tranquill),3.18,2.61,10.0,2024,146
+4.0,1:53,,,,,,Timeout #2 by Kansas City Chiefs,,,10.0,2024,146
+4.0,1:53,3.0,6.0,KAN 30,14.0,16.0,Bo Nix pass complete short right to Courtland Sutton for 13 yards (tackle by Trent McDuffie),2.61,4.44,10.0,2024,146
+4.0,1:46,,,,,,Timeout #3 by Kansas City Chiefs,,,10.0,2024,146
+4.0,1:46,1.0,10.0,KAN 17,14.0,16.0,Audric Estime left guard for 2 yards (tackle by Nick Bolton),4.44,4.15,10.0,2024,146
+4.0,1:02,2.0,8.0,KAN 15,14.0,16.0,Audric Estime left guard for 1 yard (tackle by Justin Reid and Michael Danna),4.15,3.5,10.0,2024,146
+4.0,0:20,,,,,,Timeout #2 by Denver Broncos,,,10.0,2024,146
+4.0,0:20,3.0,7.0,KAN 14,14.0,16.0,Bo Nix right end for -3 yards,3.5,2.31,10.0,2024,146
+4.0,0:01,,,,,,Timeout #3 by Denver Broncos,,,10.0,2024,146
+4.0,0:01,4.0,10.0,KAN 17,14.0,16.0,Wil Lutz 35 yard field goal no good blocked by Leo Chenal,2.31,0.54,10.0,2024,146

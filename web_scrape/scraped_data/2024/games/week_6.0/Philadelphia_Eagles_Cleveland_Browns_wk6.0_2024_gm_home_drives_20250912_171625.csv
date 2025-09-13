@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,PHI 26,3,1:03,5,Punt,1,Eagles,6.0,2024,81
+2,1,12:42,PHI 31,7,2:45,16,Punt,1,Eagles,6.0,2024,81
+3,1,4:50,PHI 11,14,6:48,58,Field Goal,1,Eagles,6.0,2024,81
+4,2,12:03,PHI 16,10,4:46,84,Touchdown,1,Eagles,6.0,2024,81
+5,2,1:58,PHI 28,6,1:44,33,Blocked FG,1,Eagles,6.0,2024,81
+6,2,0:14,PHI 30,1,0:14,-1,End of Half,1,Eagles,6.0,2024,81
+7,3,10:26,PHI 42,3,1:27,4,Punt,1,Eagles,6.0,2024,81
+8,3,6:47,PHI 47,7,3:57,27,Field Goal,1,Eagles,6.0,2024,81
+9,4,9:49,PHI 30,4,1:55,70,Touchdown,1,Eagles,6.0,2024,81
+10,4,3:54,PHI 24,10,3:54,61,End of Game,1,Eagles,6.0,2024,81

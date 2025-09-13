@@ -1,0 +1,41 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Unnamed: 7_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Fumbles,Fumbles,Fumbles,Fumbles,week,year,game_id
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF,,,
+Jordan Poyer,BUF,2,0,0,0,3,0.0,6,4,2,0,0,0,0,0,0,4.0,2022,52
+Von Miller,BUF,0,0,0,0,0,1.0,2,2,0,1,1,0,0,0,0,4.0,2022,52
+Gregory Rousseau,BUF,0,0,0,0,0,0.5,4,2,2,0,1,0,0,0,0,4.0,2022,52
+DaQuan Jones,BUF,0,0,0,0,0,0.5,2,0,2,0,1,0,0,0,0,4.0,2022,52
+Matt Milano,BUF,0,0,0,0,0,0.0,13,11,2,2,0,0,0,0,0,4.0,2022,52
+Tremaine Edmunds,BUF,0,0,0,0,0,0.0,9,5,4,2,1,0,0,0,0,4.0,2022,52
+Damar Hamlin,BUF,0,0,0,0,0,0.0,8,7,1,0,0,0,0,0,0,4.0,2022,52
+Kaiir Elam,BUF,0,0,0,0,0,0.0,4,2,2,0,0,0,0,0,0,4.0,2022,52
+Taron Johnson,BUF,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0,4.0,2022,52
+Prince Emili,BUF,0,0,0,0,1,0.0,3,0,3,0,0,0,0,0,0,4.0,2022,52
+Dane Jackson,BUF,0,0,0,0,0,0.0,3,3,0,0,0,0,0,0,0,4.0,2022,52
+Brandin Bryant,BUF,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,4.0,2022,52
+Tim Settle,BUF,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,4.0,2022,52
+Boogie Basham,BUF,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,4.0,2022,52
+Tyrel Dodson,BUF,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,4.0,2022,52
+Shaq Lawson,BUF,0,0,0,0,0,0.0,1,1,0,0,1,0,0,0,0,4.0,2022,52
+Mitch Morse,BUF,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,4.0,2022,52
+Devin Singletary,BUF,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,4.0,2022,52
+Baylon Spector,BUF,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,4.0,2022,52
+Josh Allen,BUF,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,0,4.0,2022,52
+Marlon Humphrey,BAL,1,26,0,26,1,0.0,1,1,0,0,0,0,0,0,0,4.0,2022,52
+Odafe Oweh,BAL,0,0,0,0,0,1.0,7,6,1,1,2,0,0,0,1,4.0,2022,52
+Chuck Clark,BAL,0,0,0,0,0,0.0,6,3,3,0,0,0,0,0,0,4.0,2022,52
+Patrick Queen,BAL,0,0,0,0,0,0.0,5,4,1,1,3,0,0,0,0,4.0,2022,52
+Marcus Peters,BAL,0,0,0,0,1,0.0,4,1,3,0,0,0,0,0,0,4.0,2022,52
+Jason Pierre-Paul,BAL,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0,4.0,2022,52
+Brandon Stephens,BAL,0,0,0,0,1,0.0,4,4,0,0,0,0,0,0,0,4.0,2022,52
+Marcus Williams,BAL,0,0,0,0,1,0.0,4,3,1,0,0,1,0,0,0,4.0,2022,52
+Calais Campbell,BAL,0,0,0,0,1,0.0,3,1,2,0,0,0,0,0,0,4.0,2022,52
+Nnamdi Madubuike,BAL,0,0,0,0,2,0.0,3,1,2,1,0,0,0,0,0,4.0,2022,52
+Josh Bynes,BAL,0,0,0,0,1,0.0,2,2,0,0,0,0,0,0,0,4.0,2022,52
+Brandon Copeland,BAL,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,4.0,2022,52
+Malik Harrison,BAL,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,4.0,2022,52
+Lamar Jackson,BAL,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,4.0,2022,52
+Travis Jones,BAL,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,4.0,2022,52
+Del'Shawn Phillips,BAL,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,4.0,2022,52
+Geno Stone,BAL,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,4.0,2022,52
+Justin Tucker,BAL,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,4.0,2022,52
+Broderick Washington Jr.,BAL,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,4.0,2022,52

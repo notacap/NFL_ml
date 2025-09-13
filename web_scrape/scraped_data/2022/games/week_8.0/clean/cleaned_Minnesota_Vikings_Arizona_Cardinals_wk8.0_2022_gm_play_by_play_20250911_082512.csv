@@ -1,0 +1,195 @@
+Quarter,Time,Down,ToGo,Location,ARI,MIN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Cardinals won the coin toss and deferred, Vikings to receive the opening kickoff.",,,8.0,2022,115
+1.0,15:00,,,ARI 35,0.0,0.0,"Rodrigo Blankenship kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,115
+1.0,15:00,1.0,10.0,MIN 25,0.0,0.0,"Penalty on Leki Fotu: Encroachment, 5 yards (accepted) (no play)",0.61,1.34,8.0,2022,115
+1.0,15:00,1.0,5.0,MIN 30,0.0,0.0,Dalvin Cook left guard for 3 yards (tackle by Budda Baker and Ben Niemann),1.34,1.14,8.0,2022,115
+1.0,14:32,2.0,2.0,MIN 33,0.0,0.0,Kirk Cousins scrambles up the middle for 1 yard (tackle by Zaven Collins),1.14,0.56,8.0,2022,115
+1.0,13:49,3.0,1.0,MIN 34,0.0,0.0,Kirk Cousins up the middle for 3 yards (tackle by Leki Fotu and Victor Dimukeje),0.56,1.4,8.0,2022,115
+1.0,13:17,1.0,10.0,MIN 37,0.0,0.0,Dalvin Cook up the middle for 7 yards (tackle by Jalen Thompson),1.4,1.8,8.0,2022,115
+1.0,12:34,2.0,3.0,MIN 44,0.0,0.0,Dalvin Cook left end for 5 yards (tackle by Antwaun Woods),1.8,2.19,8.0,2022,115
+1.0,11:55,1.0,10.0,MIN 49,0.0,0.0,Kirk Cousins pass incomplete short left,2.19,1.65,8.0,2022,115
+1.0,11:51,2.0,10.0,MIN 49,0.0,0.0,Kirk Cousins pass complete deep middle to Justin Jefferson for 28 yards (tackle by Isaiah Simmons),1.65,4.04,8.0,2022,115
+1.0,11:08,1.0,10.0,ARI 23,0.0,0.0,Alexander Mattison left end for 6 yards (tackle by Marco Wilson),4.04,4.38,8.0,2022,115
+1.0,10:26,2.0,4.0,ARI 17,0.0,0.0,Kirk Cousins pass incomplete short right,4.38,3.66,8.0,2022,115
+1.0,10:20,3.0,4.0,ARI 17,0.0,6.0,"Kirk Cousins scrambles right end for 17 yards, touchdown",3.66,7.0,8.0,2022,115
+1.0,10:12,,,ARI 15,0.0,7.0,Greg Joseph kicks extra point good,0.0,0.0,8.0,2022,115
+1.0,10:12,,,MIN 35,0.0,7.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,115
+1.0,10:12,1.0,10.0,ARI 25,0.0,7.0,"Kyler Murray pass complete to Rondale Moore for no gain. Penalty on Patrick Peterson: Horse Collar Tackle, 15 yards (accepted) (no play)",0.61,1.6,8.0,2022,115
+1.0,9:50,1.0,10.0,ARI 40,0.0,7.0,Eno Benjamin left guard for no gain (tackle by Harrison Phillips and Eric Kendricks),1.6,1.05,8.0,2022,115
+1.0,9:17,2.0,10.0,ARI 40,0.0,7.0,Kyler Murray pass complete short left to DeAndre Hopkins for 15 yards,1.05,2.59,8.0,2022,115
+1.0,9:01,1.0,10.0,MIN 45,0.0,7.0,Kyler Murray pass complete short right to Rondale Moore for 7 yards (tackle by Eric Kendricks),2.59,2.99,8.0,2022,115
+1.0,8:27,2.0,3.0,MIN 38,0.0,7.0,Rondale Moore left end for 9 yards (tackle by D.J. Wonnum),2.99,3.64,8.0,2022,115
+1.0,7:40,1.0,10.0,MIN 29,0.0,7.0,Eno Benjamin right end for no gain (tackle by D.J. Wonnum),3.64,3.1,8.0,2022,115
+1.0,6:57,2.0,10.0,MIN 29,0.0,7.0,Kyler Murray pass complete short left to DeAndre Hopkins for 3 yards (tackle by Cameron Dantzler),3.1,2.81,8.0,2022,115
+1.0,6:13,,,,,,Timeout #1 by Arizona Cardinals,,,8.0,2022,115
+1.0,6:13,3.0,7.0,MIN 26,0.0,7.0,Kyler Murray pass incomplete deep right intended for A.J. Green (defended by Patrick Peterson),2.81,1.74,8.0,2022,115
+1.0,6:09,4.0,7.0,MIN 26,3.0,7.0,Matt Prater 44 yard field goal good,1.74,3.0,8.0,2022,115
+1.0,6:04,,,ARI 35,3.0,7.0,"Rodrigo Blankenship kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,115
+1.0,6:04,1.0,10.0,MIN 25,3.0,7.0,Kirk Cousins pass complete short left to Justin Jefferson for 9 yards (tackle by Byron Murphy),0.61,1.28,8.0,2022,115
+1.0,5:52,2.0,1.0,MIN 34,3.0,7.0,Dalvin Cook up the middle for no gain (tackle by Tanner Vallejo and Budda Baker),1.28,0.56,8.0,2022,115
+1.0,5:14,3.0,1.0,MIN 34,3.0,7.0,Dalvin Cook right end for 30 yards (tackle by Budda Baker),0.56,3.12,8.0,2022,115
+1.0,4:56,1.0,10.0,ARI 37,3.0,7.0,"Penalty on Garrett Bradbury: Unsportsmanlike Conduct / Offense, 15 yards (accepted) (no play)",3.12,2.13,8.0,2022,115
+1.0,4:38,1.0,10.0,MIN 48,3.0,7.0,"Kirk Cousins pass incomplete deep right intended for Justin Jefferson. Penalty on Marco Wilson: Illegal Contact, 5 yards (accepted) (no play)",2.13,2.52,8.0,2022,115
+1.0,4:36,1.0,10.0,ARI 46,3.0,7.0,Kirk Cousins pass complete short left to K.J. Osborn for 3 yards (tackle by Budda Baker),2.52,2.45,8.0,2022,115
+1.0,4:02,2.0,6.0,ARI 43,3.0,7.0,Kirk Cousins pass complete short right to Adam Thielen for 5 yards (tackle by Ben Niemann),2.45,2.41,8.0,2022,115
+1.0,3:19,3.0,1.0,ARI 38,3.0,7.0,Kirk Cousins pass incomplete deep left intended for Justin Jefferson,2.41,0.72,8.0,2022,115
+1.0,3:13,,,,,,Timeout #2 by Arizona Cardinals,,,8.0,2022,115
+1.0,3:13,4.0,1.0,ARI 38,3.0,7.0,Kirk Cousins pass incomplete deep right intended for Adam Thielen,0.72,-1.53,8.0,2022,115
+1.0,3:09,1.0,10.0,ARI 39,3.0,7.0,Rondale Moore right end for 3 yards (tackle by Patrick Peterson),1.53,1.39,8.0,2022,115
+1.0,2:30,2.0,7.0,ARI 42,3.0,7.0,"Penalty on Dalvin Tomlinson: Encroachment, 5 yards (accepted) (no play)",1.39,2.07,8.0,2022,115
+1.0,2:06,2.0,2.0,ARI 47,3.0,7.0,Eno Benjamin right tackle for 4 yards (tackle by Za'Darius Smith),2.07,2.32,8.0,2022,115
+1.0,1:24,1.0,10.0,MIN 49,3.0,7.0,Kyler Murray pass incomplete short left intended for Eno Benjamin,2.32,1.78,8.0,2022,115
+1.0,1:19,2.0,10.0,MIN 49,3.0,7.0,Kyler Murray scrambles right end for 8 yards (tackle by Harrison Smith),1.78,2.15,8.0,2022,115
+1.0,0:37,3.0,2.0,MIN 41,3.0,7.0,"Penalty on Zach Ertz: False Start, 5 yards (accepted) (no play)",2.15,1.49,8.0,2022,115
+1.0,0:31,3.0,7.0,MIN 46,3.0,7.0,Kyler Murray sacked by Za'Darius Smith for -8 yards,1.49,-0.32,8.0,2022,115
+2.0,15:00,4.0,15.0,ARI 46,3.0,7.0,"Andy Lee punts 37 yards, fair catch by Jalen Reagor at MIN-17",-0.32,0.06,8.0,2022,115
+2.0,14:54,1.0,10.0,MIN 17,3.0,7.0,Dalvin Cook right end for 19 yards (tackle by Victor Dimukeje),-0.06,1.33,8.0,2022,115
+2.0,14:08,1.0,10.0,MIN 36,3.0,7.0,Dalvin Cook right guard for 11 yards (tackle by Budda Baker),1.33,2.06,8.0,2022,115
+2.0,13:30,1.0,10.0,MIN 47,3.0,7.0,Dalvin Cook right guard for 3 yards (tackle by Leki Fotu and Zaven Collins),2.06,1.92,8.0,2022,115
+2.0,12:54,2.0,7.0,MIN 50,3.0,7.0,Kirk Cousins pass complete short right to Adam Thielen for 7 yards (tackle by Jalen Thompson),1.92,2.72,8.0,2022,115
+2.0,12:28,1.0,10.0,ARI 43,3.0,7.0,Kirk Cousins pass complete short left to Adam Thielen for 16 yards (tackle by Marco Wilson),2.72,3.78,8.0,2022,115
+2.0,12:04,1.0,10.0,ARI 27,3.0,7.0,Alexander Mattison left end for 15 yards (tackle by Byron Murphy),3.78,4.78,8.0,2022,115
+2.0,11:28,1.0,10.0,ARI 12,3.0,7.0,"Kirk Cousins pass incomplete intended for Dalvin Cook. Penalty on Zaven Collins: Defensive Pass Interference, 2 yards (accepted) (no play)",4.78,4.91,8.0,2022,115
+2.0,11:25,1.0,10.0,ARI 10,3.0,7.0,Dalvin Cook up the middle for 2 yards (tackle by Myjai Sanders and Budda Baker),4.91,4.57,8.0,2022,115
+2.0,10:45,2.0,8.0,ARI 8,3.0,7.0,Kirk Cousins pass complete short middle to Dalvin Cook for 7 yards (tackle by Ben Niemann and Jalen Thompson),4.57,5.17,8.0,2022,115
+2.0,9:59,3.0,1.0,ARI 1,3.0,13.0,"Kirk Cousins pass complete short right to Johnny Mundt for 1 yard, touchdown",5.17,7.0,8.0,2022,115
+2.0,9:54,,,ARI 15,3.0,14.0,Greg Joseph kicks extra point good,0.0,0.0,8.0,2022,115
+2.0,9:54,,,MIN 35,3.0,14.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,115
+2.0,9:54,1.0,10.0,ARI 25,3.0,14.0,Kyler Murray pass complete short left to Zach Ertz for 11 yards (tackle by Jordan Hicks),0.61,1.33,8.0,2022,115
+2.0,9:18,1.0,10.0,ARI 36,3.0,14.0,Kyler Murray pass incomplete short right intended for Darrel Williams (defended by Eric Kendricks),1.33,0.79,8.0,2022,115
+2.0,9:13,2.0,10.0,ARI 36,3.0,14.0,Kyler Murray pass complete short left to Darrel Williams for no gain (tackle by Cameron Dantzler),0.79,0.1,8.0,2022,115
+2.0,8:31,3.0,10.0,ARI 36,3.0,14.0,Kyler Murray pass complete short right to Eno Benjamin for 15 yards (tackle by Patrick Peterson),0.1,2.32,8.0,2022,115
+2.0,7:42,1.0,10.0,MIN 49,3.0,14.0,Eno Benjamin left tackle for -1 yards (tackle by Eric Kendricks),2.32,1.65,8.0,2022,115
+2.0,7:06,2.0,11.0,MIN 50,3.0,14.0,Kyler Murray sacked by Za'Darius Smith for -7 yards,1.65,0.04,8.0,2022,115
+2.0,6:25,3.0,18.0,ARI 43,3.0,14.0,Kyler Murray pass complete short right to Greg Dortch for 8 yards (tackle by Eric Kendricks),0.04,0.0,8.0,2022,115
+2.0,5:51,4.0,10.0,MIN 49,3.0,14.0,"Andy Lee punts 41 yards, returned by Jalen Reagor for no gain (tackle by Ben Niemann). Penalty on Akayleb Evans: Offensive Holding, 4 yards (accepted)",0.0,0.38,8.0,2022,115
+2.0,5:45,1.0,10.0,MIN 4,3.0,14.0,Alexander Mattison left end for 1 yard (tackle by Zaven Collins and Zach Allen),-0.38,-0.71,8.0,2022,115
+2.0,5:04,2.0,9.0,MIN 5,3.0,14.0,Alexander Mattison up the middle for 11 yards (tackle by Markus Golden),-0.71,-0.14,8.0,2022,115
+2.0,4:37,1.0,10.0,MIN 16,3.0,14.0,Kirk Cousins pass complete short right to Adam Thielen for 7 yards (tackle by Isaiah Simmons),-0.14,0.42,8.0,2022,115
+2.0,4:00,2.0,3.0,MIN 23,3.0,14.0,Kirk Cousins pass incomplete short left,0.42,-0.45,8.0,2022,115
+2.0,3:55,3.0,3.0,MIN 23,3.0,14.0,Kirk Cousins pass incomplete deep left intended for K.J. Osborn,-0.45,-1.83,8.0,2022,115
+2.0,3:50,4.0,3.0,MIN 23,3.0,14.0,"Ryan Wright punts 58 yards, returned by Greg Dortch for 9 yards (tackle by Theo Jackson)",-1.83,-0.81,8.0,2022,115
+2.0,3:39,1.0,10.0,ARI 28,3.0,14.0,Kyler Murray right end for 8 yards (tackle by Harrison Smith),0.81,1.34,8.0,2022,115
+2.0,3:17,2.0,2.0,ARI 36,3.0,14.0,Eno Benjamin up the middle for 7 yards (tackle by Jordan Hicks),1.34,1.8,8.0,2022,115
+2.0,2:51,1.0,10.0,ARI 43,3.0,14.0,Kyler Murray pass complete deep left to DeAndre Hopkins for 16 yards (tackle by Cameron Dantzler),1.8,2.85,8.0,2022,115
+2.0,2:24,1.0,10.0,MIN 41,3.0,14.0,Kyler Murray pass complete short right to Rondale Moore for 2 yards (tackle by Patrick Peterson),2.85,2.58,8.0,2022,115
+2.0,2:00,2.0,8.0,MIN 39,3.0,14.0,Kyler Murray pass complete short middle to DeAndre Hopkins for 13 yards (tackle by Cameron Dantzler),2.58,3.84,8.0,2022,115
+2.0,1:42,1.0,10.0,MIN 26,3.0,14.0,Eno Benjamin right end for 7 yards (tackle by Camryn Bynum and Dalvin Tomlinson),3.84,4.27,8.0,2022,115
+2.0,1:09,2.0,3.0,MIN 19,3.0,14.0,Darrel Williams right tackle for 5 yards (tackle by Za'Darius Smith and Harrison Phillips),4.27,4.65,8.0,2022,115
+2.0,1:03,,,,,,Timeout #1 by Minnesota Vikings,,,8.0,2022,115
+2.0,1:03,1.0,10.0,MIN 14,3.0,14.0,Darrel Williams right guard for no gain (tackle by D.J. Wonnum),4.65,4.0,8.0,2022,115
+2.0,0:59,,,,,,Timeout #2 by Minnesota Vikings,,,8.0,2022,115
+2.0,0:59,2.0,10.0,MIN 14,3.0,14.0,Kyler Murray scrambles left end for 8 yards (tackle by Cameron Dantzler),4.0,4.73,8.0,2022,115
+2.0,0:50,3.0,2.0,MIN 6,9.0,14.0,"Kyler Murray pass complete short left to DeAndre Hopkins for 6 yards, touchdown",4.73,7.0,8.0,2022,115
+2.0,0:47,,,MIN 15,10.0,14.0,Matt Prater kicks extra point good,0.0,0.0,8.0,2022,115
+2.0,0:47,,,ARI 35,10.0,14.0,"Rodrigo Blankenship kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,115
+2.0,0:47,1.0,10.0,MIN 25,10.0,14.0,Kirk Cousins pass complete short right to Irv Smith for 9 yards (tackle by Isaiah Simmons),0.61,1.28,8.0,2022,115
+2.0,0:30,2.0,1.0,MIN 34,10.0,14.0,Kirk Cousins pass complete short left to Dalvin Cook for 6 yards (tackle by Antonio Hamilton),1.28,1.6,8.0,2022,115
+2.0,0:21,1.0,10.0,MIN 40,10.0,14.0,"Penalty on J.J. Watt: Neutral Zone Infraction, 5 yards (accepted) (no play)",1.6,2.33,8.0,2022,115
+2.0,0:21,1.0,5.0,MIN 45,10.0,14.0,Kirk Cousins pass incomplete short right,2.33,1.73,8.0,2022,115
+2.0,0:18,2.0,5.0,MIN 45,10.0,14.0,Kirk Cousins pass complete short right to Adam Thielen for 14 yards (tackle by Marco Wilson),1.73,2.85,8.0,2022,115
+2.0,0:11,,,,,,Timeout #3 by Minnesota Vikings,,,8.0,2022,115
+2.0,0:11,1.0,10.0,ARI 41,10.0,14.0,Kirk Cousins pass complete short right to Dalvin Cook for 1 yard (tackle by Zaven Collins),2.85,2.44,8.0,2022,115
+2.0,0:07,2.0,9.0,ARI 40,10.0,14.0,Kirk Cousins pass complete short right to Irv Smith for 2 yards,2.44,2.02,8.0,2022,115
+2.0,0:03,,,,,,Timeout #3 by Arizona Cardinals,,,8.0,2022,115
+2.0,0:03,3.0,7.0,ARI 38,10.0,14.0,Greg Joseph 56 yard field goal no good blocked by Leki Fotu,2.02,1.93,8.0,2022,115
+3.0,15:00,,,MIN 35,10.0,14.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,115
+3.0,15:00,1.0,10.0,ARI 25,10.0,14.0,"Kyler Murray pass complete to Rondale Moore for no gain. Penalty on Trey McBride: Offensive Holding, 10 yards (accepted) (no play)",0.61,-0.41,8.0,2022,115
+3.0,14:31,1.0,20.0,ARI 15,10.0,14.0,"Kyler Murray scrambles for no gain. Penalty on Trey McBride: Offensive Holding, 7 yards (accepted) (no play)",-0.41,-1.03,8.0,2022,115
+3.0,14:10,1.0,27.0,ARI 8,10.0,14.0,Kyler Murray pass complete short left to Rondale Moore for 3 yards (tackle by Eric Kendricks),-1.03,-1.8,8.0,2022,115
+3.0,13:30,2.0,24.0,ARI 11,10.0,14.0,Eno Benjamin right guard for 4 yards (tackle by Dalvin Tomlinson and Chandon Sullivan),-1.8,-2.35,8.0,2022,115
+3.0,12:52,3.0,20.0,ARI 15,10.0,14.0,"Kyler Murray scrambles left end for 6 yards (tackle by Jordan Hicks). Penalty on Dalvin Tomlinson: Defensive Too Many Men on Field, 5 yards (accepted) (no play)",-2.35,-1.29,8.0,2022,115
+3.0,12:31,3.0,15.0,ARI 20,10.0,14.0,Kyler Murray pass incomplete deep right intended for Robbie Anderson (defended by Patrick Peterson),-1.29,-2.03,8.0,2022,115
+3.0,12:24,4.0,15.0,ARI 20,10.0,14.0,"Andy Lee punts 61 yards, returned by Jalen Reagor for 6 yards (tackle by Trey McBride)",-2.03,-0.61,8.0,2022,115
+3.0,12:09,1.0,10.0,MIN 25,10.0,14.0,Dalvin Cook left guard for -2 yards (tackle by Markus Golden),0.61,-0.21,8.0,2022,115
+3.0,11:34,2.0,12.0,MIN 23,10.0,14.0,Kirk Cousins pass incomplete short left intended for K.J. Osborn (defended by Zaven Collins),-0.21,-0.89,8.0,2022,115
+3.0,11:32,3.0,12.0,MIN 23,10.0,14.0,"Kirk Cousins sacked by J.J. Watt for -10 yards. Penalty on Ed Ingram: Tripping / Offense, 10 yards (declined)",-0.89,-2.49,8.0,2022,115
+3.0,11:22,4.0,22.0,MIN 13,10.0,14.0,"Ryan Wright punts 39 yards, fair catch by Greg Dortch at ARI-48",-2.49,-2.13,8.0,2022,115
+3.0,11:15,1.0,10.0,ARI 48,10.0,14.0,Darrel Williams right tackle for 2 yards (tackle by James Lynch),2.13,1.85,8.0,2022,115
+3.0,10:40,2.0,8.0,ARI 50,10.0,14.0,Kyler Murray pass complete short left to DeAndre Hopkins for 10 yards (tackle by Cameron Dantzler),1.85,2.92,8.0,2022,115
+3.0,10:12,1.0,10.0,MIN 40,10.0,14.0,Darrel Williams left end for -1 yards (tackle by Patrick Jones),2.92,2.31,8.0,2022,115
+3.0,9:36,2.0,10.0,MIN 41,10.0,14.0,Kyler Murray pass complete deep left to DeAndre Hopkins for 33 yards (tackle by Harrison Smith),2.31,5.14,8.0,2022,115
+3.0,9:17,1.0,9.0,MIN 9,16.0,14.0,"Kyler Murray pass complete short left to Zach Ertz for 8 yards, touchdown",5.14,7.0,8.0,2022,115
+3.0,9:01,,,MIN 15,17.0,14.0,Matt Prater kicks extra point good,0.0,0.0,8.0,2022,115
+3.0,9:01,,,ARI 35,17.0,14.0,"Rodrigo Blankenship kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,115
+3.0,9:01,1.0,10.0,MIN 25,17.0,14.0,Kirk Cousins pass complete short left to Dalvin Cook for 11 yards (tackle by Budda Baker),0.61,1.33,8.0,2022,115
+3.0,8:27,1.0,10.0,MIN 36,17.0,14.0,Dalvin Cook up the middle for 5 yards (tackle by Leki Fotu),1.33,1.47,8.0,2022,115
+3.0,8:08,2.0,5.0,MIN 41,17.0,14.0,Kirk Cousins pass incomplete short left intended for K.J. Osborn (defended by Byron Murphy),1.47,0.76,8.0,2022,115
+3.0,8:05,3.0,5.0,MIN 41,17.0,14.0,Kirk Cousins pass complete deep left to Justin Jefferson for 29 yards (tackle by Antonio Hamilton),0.76,3.58,8.0,2022,115
+3.0,7:19,1.0,10.0,ARI 30,17.0,14.0,Dalvin Cook right end for 5 yards (tackle by Jalen Thompson),3.58,3.71,8.0,2022,115
+3.0,6:40,2.0,5.0,ARI 25,17.0,14.0,Kirk Cousins pass complete short right to Adam Thielen for 18 yards (tackle by Zaven Collins),3.71,5.6,8.0,2022,115
+3.0,5:56,1.0,7.0,ARI 7,17.0,14.0,Kirk Cousins pass incomplete short left intended for Justin Jefferson,5.6,4.76,8.0,2022,115
+3.0,5:51,2.0,7.0,ARI 7,17.0,20.0,"Alexander Mattison left guard for 7 yards, touchdown",4.76,7.0,8.0,2022,115
+3.0,5:47,,,ARI 15,17.0,21.0,Greg Joseph kicks extra point good,0.0,0.0,8.0,2022,115
+3.0,5:47,,,MIN 35,17.0,21.0,"Greg Joseph kicks off 65 yards, returned by Greg Dortch for 18 yards (tackle by C.J. Ham). Penalty on Keaontay Ingram: Illegal Double-Team Block, 9 yards (accepted)",0.0,-0.38,8.0,2022,115
+3.0,5:42,1.0,10.0,ARI 9,17.0,21.0,Kyler Murray pass deep middle intended for Robbie Anderson is intercepted by Harrison Smith at ARI-46 and returned for 15 yards (tackle by Trey McBride),-0.38,-3.51,8.0,2022,115
+3.0,5:27,1.0,10.0,ARI 31,17.0,21.0,Kirk Cousins pass complete short left to Justin Jefferson for 6 yards (tackle by Byron Murphy),3.51,3.78,8.0,2022,115
+3.0,4:49,2.0,4.0,ARI 25,17.0,21.0,"Kirk Cousins pass complete short left to Justin Jefferson for 17 yards (tackle by Jalen Thompson). Penalty on Zach Allen: Roughing the Passer, 4 yards (accepted)",3.78,6.28,8.0,2022,115
+3.0,4:15,1.0,4.0,ARI 4,17.0,21.0,Kirk Cousins pass incomplete short right intended for Dalvin Cook (defended by Budda Baker),6.28,5.34,8.0,2022,115
+3.0,4:11,2.0,4.0,ARI 4,17.0,27.0,"Dalvin Cook up the middle for 4 yards, touchdown",5.34,7.0,8.0,2022,115
+3.0,4:07,,,ARI 15,17.0,28.0,Greg Joseph kicks extra point good,0.0,0.0,8.0,2022,115
+3.0,4:07,,,MIN 35,17.0,28.0,"Greg Joseph kicks off 65 yards, touchback.. Penalty on Brian Asamoah: Offensive Offside, 5 yards (accepted)",0.0,0.94,8.0,2022,115
+3.0,4:07,1.0,10.0,ARI 30,17.0,28.0,(tackle by Cameron Dantzler) Kyler Murray pass complete short left to Eno Benjamin for no gain,0.94,0.39,8.0,2022,115
+3.0,3:28,2.0,10.0,ARI 30,17.0,28.0,Kyler Murray pass complete short left to Rondale Moore for 27 yards (tackle by Camryn Bynum),0.39,2.72,8.0,2022,115
+3.0,3:05,1.0,10.0,MIN 43,17.0,28.0,Kyler Murray pass complete short left to DeAndre Hopkins for 5 yards (tackle by Harrison Smith),2.72,2.85,8.0,2022,115
+3.0,2:37,2.0,5.0,MIN 38,23.0,28.0,"Kyler Murray pass complete short right to Rondale Moore for 38 yards, touchdown",2.85,7.0,8.0,2022,115
+3.0,2:27,,,MIN 2,23.0,28.0,Two Point Attempt: Kyler Murray pass incomplete,1.0,-1.0,8.0,2022,115
+3.0,2:27,,,ARI 35,23.0,28.0,"Rodrigo Blankenship kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,115
+3.0,2:27,1.0,10.0,MIN 25,23.0,28.0,Dalvin Cook up the middle for 4 yards (tackle by Budda Baker and Markus Golden),0.61,0.6,8.0,2022,115
+3.0,1:52,2.0,6.0,MIN 29,23.0,28.0,Kirk Cousins scrambles right end for 1 yard (tackle by Leki Fotu),0.6,0.04,8.0,2022,115
+3.0,1:07,3.0,5.0,MIN 30,23.0,28.0,"Kirk Cousins sacked by Isaiah Simmons for -6 yards. Kirk Cousins fumbles (forced by Isaiah Simmons), recovered by Isaiah Simmons at MIN-24 (tackle by Isaiah Simmons)",0.04,-3.97,8.0,2022,115
+3.0,0:59,1.0,10.0,MIN 24,23.0,28.0,"Kyler Murray pass complete to Eno Benjamin for no gain (tackle by James Lynch). Penalty on Danielle Hunter: Defensive Offside, 5 yards (accepted) (no play)",3.97,4.75,8.0,2022,115
+3.0,0:17,1.0,5.0,MIN 19,23.0,28.0,Eno Benjamin left tackle for -2 yards (tackle by Danielle Hunter),4.75,3.84,8.0,2022,115
+4.0,15:00,2.0,7.0,MIN 21,23.0,28.0,Kyler Murray pass complete short left to DeAndre Hopkins for 6 yards (tackle by Cameron Dantzler),3.84,4.17,8.0,2022,115
+4.0,14:24,3.0,1.0,MIN 15,23.0,28.0,Darrel Williams up the middle for 2 yards (tackle by Danielle Hunter and Harrison Phillips),4.17,4.71,8.0,2022,115
+4.0,14:03,1.0,10.0,MIN 13,23.0,28.0,Kyler Murray pass complete short right to Zach Ertz for 2 yards (tackle by Jordan Hicks),4.71,4.39,8.0,2022,115
+4.0,13:20,2.0,8.0,MIN 11,23.0,28.0,Kyler Murray pass incomplete short middle intended for Rondale Moore,4.39,3.45,8.0,2022,115
+4.0,13:16,,,,,,Timeout #1 by Arizona Cardinals,,,8.0,2022,115
+4.0,13:16,3.0,8.0,MIN 11,23.0,28.0,"Kyler Murray aborted snap, recovered by Kyler Murray at MIN-16 and returned for 5 yards (tackle by Za'Darius Smith)",3.45,2.38,8.0,2022,115
+4.0,12:35,4.0,13.0,MIN 16,26.0,28.0,Matt Prater 34 yard field goal good,2.38,3.0,8.0,2022,115
+4.0,12:32,,,ARI 35,26.0,28.0,"Rodrigo Blankenship kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,115
+4.0,12:32,1.0,10.0,MIN 25,26.0,28.0,Kirk Cousins pass incomplete deep right,0.61,0.06,8.0,2022,115
+4.0,12:26,2.0,10.0,MIN 25,26.0,28.0,Kirk Cousins pass complete short left to Justin Jefferson for 9 yards (tackle by Ben Niemann),0.06,0.56,8.0,2022,115
+4.0,11:43,3.0,1.0,MIN 34,26.0,28.0,"Dalvin Cook for no gain (tackle by Zaven Collins). Penalty on Adam Thielen: Offensive Holding, 9 yards (accepted) (no play)",0.56,-0.62,8.0,2022,115
+4.0,11:21,3.0,10.0,MIN 25,26.0,28.0,Kirk Cousins pass complete short right to Irv Smith for 6 yards (tackle by Antonio Hamilton),-0.62,-1.31,8.0,2022,115
+4.0,10:46,4.0,4.0,MIN 31,26.0,28.0,"Ryan Wright punts 44 yards, recovered by Troy Dye at ARI-25",-1.31,3.91,8.0,2022,115
+4.0,10:34,1.0,10.0,ARI 25,26.0,28.0,Dalvin Cook left tackle for 12 yards (tackle by Jalen Thompson),3.91,4.71,8.0,2022,115
+4.0,10:01,1.0,10.0,ARI 13,26.0,28.0,Dalvin Cook left tackle for -3 yards (tackle by Antwaun Woods),4.71,3.62,8.0,2022,115
+4.0,9:20,2.0,13.0,ARI 16,26.0,28.0,Kirk Cousins pass complete short left to Irv Smith for 11 yards (tackle by Budda Baker),3.62,4.78,8.0,2022,115
+4.0,8:41,3.0,2.0,ARI 5,26.0,34.0,"Kirk Cousins pass complete short right to K.J. Osborn for 5 yards, touchdown",4.78,7.0,8.0,2022,115
+4.0,8:36,,,ARI 15,26.0,34.0,Greg Joseph kicks extra point no good,0.0,-1.0,8.0,2022,115
+4.0,8:36,,,MIN 35,26.0,34.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,115
+4.0,8:36,1.0,10.0,ARI 25,26.0,34.0,Kyler Murray pass complete short left to Rondale Moore for 11 yards (tackle by Eric Kendricks),0.61,1.33,8.0,2022,115
+4.0,7:59,1.0,10.0,ARI 36,26.0,34.0,Kyler Murray pass incomplete intended for Robbie Anderson (defended by Patrick Peterson),1.33,0.79,8.0,2022,115
+4.0,7:55,2.0,10.0,ARI 36,26.0,34.0,Kyler Murray pass complete short left to DeAndre Hopkins for 17 yards (tackle by Harrison Smith),0.79,2.46,8.0,2022,115
+4.0,7:32,1.0,10.0,MIN 47,26.0,34.0,Eno Benjamin left tackle for 3 yards (tackle by Jordan Hicks),2.46,2.32,8.0,2022,115
+4.0,6:55,2.0,7.0,MIN 44,26.0,34.0,Kyler Murray pass intended for Zach Ertz is intercepted by Camryn Bynum at MIN-24 and returned for 12 yards (tackle by DeAndre Hopkins and Trey McBride),2.32,-1.33,8.0,2022,115
+4.0,6:43,1.0,10.0,MIN 36,26.0,34.0,Dalvin Cook left guard for no gain (tackle by Zach Allen),1.33,0.79,8.0,2022,115
+4.0,6:00,2.0,10.0,MIN 36,26.0,34.0,Dalvin Cook left guard for 4 yards (tackle by Marco Wilson),0.79,0.63,8.0,2022,115
+4.0,5:19,3.0,6.0,MIN 40,26.0,34.0,Kirk Cousins sacked by J.J. Watt for -8 yards,0.63,-1.24,8.0,2022,115
+4.0,4:42,4.0,14.0,MIN 32,26.0,34.0,"Ryan Wright punts 53 yards, returned by Greg Dortch for 4 yards (tackle by Kene Nwangwu)",-1.24,-0.15,8.0,2022,115
+4.0,4:31,1.0,10.0,ARI 19,26.0,34.0,Kyler Murray pass complete short right to Rondale Moore for 4 yards (tackle by Chandon Sullivan),0.15,0.21,8.0,2022,115
+4.0,4:00,2.0,6.0,ARI 23,26.0,34.0,Kyler Murray pass complete short left to DeAndre Hopkins for 11 yards (tackle by Cameron Dantzler),0.21,1.2,8.0,2022,115
+4.0,3:37,1.0,10.0,ARI 34,26.0,34.0,Kyler Murray pass complete short right to Greg Dortch for 4 yards (tackle by Patrick Peterson),1.2,1.2,8.0,2022,115
+4.0,3:33,2.0,6.0,ARI 38,26.0,34.0,Kyler Murray pass incomplete short right intended for Eno Benjamin (defended by Danielle Hunter),1.2,0.5,8.0,2022,115
+4.0,3:25,3.0,6.0,ARI 38,26.0,34.0,"Kyler Murray pass incomplete intended for Rondale Moore. Penalty on Patrick Peterson: Defensive Pass Interference, 12 yards (accepted) (no play)",0.5,2.26,8.0,2022,115
+4.0,3:25,,,,,,Timeout #2 by Arizona Cardinals,,,8.0,2022,115
+4.0,3:25,1.0,10.0,ARI 50,26.0,34.0,Kyler Murray pass complete short right to Darrel Williams for 6 yards (tackle by Danielle Hunter),2.26,2.52,8.0,2022,115
+4.0,2:55,2.0,4.0,MIN 44,26.0,34.0,Kyler Murray pass incomplete deep right intended for DeAndre Hopkins,2.52,1.82,8.0,2022,115
+4.0,2:49,3.0,4.0,MIN 44,26.0,34.0,Kyler Murray pass incomplete short middle intended for Greg Dortch (defended by Chandon Sullivan),1.82,0.33,8.0,2022,115
+4.0,2:45,4.0,4.0,MIN 44,26.0,34.0,Kyler Murray pass complete short middle to Eno Benjamin for 3 yards (tackle by Jordan Hicks),0.33,-1.66,8.0,2022,115
+4.0,2:39,1.0,10.0,MIN 41,26.0,34.0,"Dalvin Cook for 2 yards (tackle by Markus Golden and Leki Fotu). Penalty on Johnny Mundt: Offensive Holding, 10 yards (declined)",1.66,1.39,8.0,2022,115
+4.0,2:33,2.0,8.0,MIN 43,26.0,34.0,Dalvin Cook right guard for no gain (tackle by Budda Baker and Zach Allen),1.39,0.7,8.0,2022,115
+4.0,2:27,,,,,,Timeout #3 by Arizona Cardinals,,,8.0,2022,115
+4.0,2:27,3.0,8.0,MIN 43,26.0,34.0,Kirk Cousins pass complete short right to Dalvin Cook for 5 yards (tackle by Isaiah Simmons),0.7,-0.19,8.0,2022,115
+4.0,2:00,4.0,3.0,MIN 48,26.0,34.0,Ryan Wright punts 39 yards out of bounds,-0.19,0.32,8.0,2022,115
+4.0,1:52,1.0,10.0,ARI 13,26.0,34.0,Kyler Murray scrambles up the middle for 6 yards (tackle by Za'Darius Smith),-0.32,0.03,8.0,2022,115
+4.0,1:31,2.0,4.0,ARI 19,26.0,34.0,Kyler Murray pass incomplete short left intended for Eno Benjamin (defended by Za'Darius Smith),0.03,-0.71,8.0,2022,115
+4.0,1:26,3.0,4.0,ARI 19,26.0,34.0,Kyler Murray pass complete short right to Eno Benjamin for 5 yards (tackle by Harrison Smith),-0.71,0.54,8.0,2022,115
+4.0,1:21,1.0,10.0,ARI 24,26.0,34.0,"Kyler Murray pass incomplete intended for DeAndre Hopkins. Penalty on Cameron Dantzler: Defensive Pass Interference, 11 yards (accepted) (no play)",0.54,1.27,8.0,2022,115
+4.0,1:17,1.0,10.0,ARI 35,26.0,34.0,Kyler Murray pass complete short left to Zach Ertz for 13 yards (tackle by Jordan Hicks),1.27,2.13,8.0,2022,115
+4.0,0:54,1.0,10.0,ARI 48,26.0,34.0,"Kyler Murray scrambles left tackle for 6 yards (tackle by Eric Kendricks). Penalty on Eno Benjamin: Illegal Blindside Block, 15 yards (accepted)",2.13,1.53,8.0,2022,115
+4.0,0:48,1.0,19.0,ARI 39,26.0,34.0,Kyler Murray pass complete deep right to DeAndre Hopkins for 24 yards (tackle by Chandon Sullivan),1.53,3.12,8.0,2022,115
+4.0,0:28,1.0,10.0,MIN 37,26.0,34.0,Kyler Murray spiked the ball,3.12,2.57,8.0,2022,115
+4.0,0:27,2.0,10.0,MIN 37,26.0,34.0,Kyler Murray sacked by Za'Darius Smith for -7 yards,2.57,0.96,8.0,2022,115
+4.0,0:11,3.0,17.0,MIN 44,26.0,34.0,Kyler Murray sacked by Harrison Phillips for -7 yards,0.96,-0.13,8.0,2022,115

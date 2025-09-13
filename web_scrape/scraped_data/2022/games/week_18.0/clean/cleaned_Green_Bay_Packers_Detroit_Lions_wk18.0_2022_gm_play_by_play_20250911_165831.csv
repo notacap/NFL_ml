@@ -1,0 +1,162 @@
+Quarter,Time,Down,ToGo,Location,DET,GNB,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Lions won the coin toss and deferred, Packers to receive the opening kickoff.",,,18.0,2022,271
+1.0,15:00,,,DET 35,0.0,0.0,"Jack Fox kicks off 56 yards, returned by Keisean Nixon for 12 yards (tackle by Josh Woods)",0.0,0.34,18.0,2022,271
+1.0,14:55,1.0,10.0,GNB 21,0.0,0.0,Christian Watson left end for 6 yards (tackle by Mike Hughes),0.34,0.61,18.0,2022,271
+1.0,14:14,2.0,4.0,GNB 27,0.0,0.0,Aaron Jones left tackle for 9 yards (tackle by DeShon Elliott),0.61,1.33,18.0,2022,271
+1.0,13:35,1.0,10.0,GNB 36,0.0,0.0,Aaron Rodgers pass complete short left to Christian Watson for 13 yards (tackle by Kerby Joseph),1.33,2.19,18.0,2022,271
+1.0,12:56,1.0,10.0,GNB 49,0.0,0.0,"Aaron Rodgers pass incomplete intended for Allen Lazard. Penalty on Jerry Jacobs: Defensive Pass Interference, 46 yards (accepted) (no play)",2.19,6.06,18.0,2022,271
+1.0,12:50,1.0,5.0,DET 5,0.0,0.0,Aaron Jones up the middle for 1 yard (tackle by Isaiah Buggs and Alex Anzalone),6.06,5.34,18.0,2022,271
+1.0,12:05,2.0,4.0,DET 4,0.0,0.0,AJ Dillon up the middle for no gain (tackle by Isaiah Buggs),5.34,4.49,18.0,2022,271
+1.0,11:33,3.0,4.0,DET 4,0.0,0.0,Aaron Rodgers pass incomplete short right intended for AJ Dillon,4.49,3.03,18.0,2022,271
+1.0,11:25,4.0,4.0,DET 4,0.0,3.0,Mason Crosby 22 yard field goal good,3.03,3.0,18.0,2022,271
+1.0,11:21,,,GNB 35,0.0,3.0,"Mason Crosby kicks off 65 yards, touchback.",0.0,0.61,18.0,2022,271
+1.0,11:21,1.0,10.0,DET 25,0.0,3.0,Jamaal Williams right tackle for 4 yards (tackle by Quay Walker),0.61,0.6,18.0,2022,271
+1.0,10:46,2.0,6.0,DET 29,0.0,3.0,Jared Goff pass incomplete short right intended for Kalif Raymond,0.6,-0.1,18.0,2022,271
+1.0,10:41,3.0,6.0,DET 29,0.0,3.0,Jared Goff pass incomplete short left intended for Josh Reynolds,-0.1,-1.44,18.0,2022,271
+1.0,10:38,4.0,6.0,DET 29,0.0,3.0,"Jack Fox punts 57 yards, returned by Keisean Nixon for 9 yards (tackle by Josh Woods)",-1.44,-0.48,18.0,2022,271
+1.0,10:27,1.0,10.0,GNB 23,0.0,3.0,AJ Dillon left end for 2 yards (tackle by John Cominsky and Benito Jones),0.48,0.2,18.0,2022,271
+1.0,9:51,2.0,8.0,GNB 25,0.0,3.0,Aaron Rodgers pass complete short middle to Randall Cobb for 7 yards (tackle by Kerby Joseph),0.2,0.43,18.0,2022,271
+1.0,9:15,3.0,1.0,GNB 32,0.0,3.0,Aaron Jones left tackle for no gain (tackle by John Cominsky),0.43,-1.24,18.0,2022,271
+1.0,8:37,4.0,1.0,GNB 32,0.0,3.0,Allen Lazard left end for -1 yards (tackle by Alex Anzalone),-1.24,-3.51,18.0,2022,271
+1.0,8:32,1.0,10.0,GNB 31,0.0,3.0,Jared Goff pass complete short right to Amon-Ra St. Brown for 11 yards (tackle by Adrian Amos),3.51,4.24,18.0,2022,271
+1.0,7:54,1.0,10.0,GNB 20,0.0,3.0,Jared Goff pass incomplete deep right intended for Amon-Ra St. Brown,4.24,3.69,18.0,2022,271
+1.0,7:49,2.0,10.0,GNB 20,0.0,3.0,D'Andre Swift up the middle for 1 yard (tackle by Quay Walker),3.69,3.1,18.0,2022,271
+1.0,7:10,3.0,9.0,GNB 19,0.0,3.0,Jared Goff pass incomplete short middle intended for Kalif Raymond (defended by Darnell Savage),3.1,2.18,18.0,2022,271
+1.0,7:04,4.0,9.0,GNB 19,3.0,3.0,Michael Badgley 37 yard field goal good,2.18,3.0,18.0,2022,271
+1.0,7:00,,,DET 35,3.0,3.0,"Jack Fox kicks off 62 yards, returned by Keisean Nixon for 30 yards (tackle by Chris Board)",0.0,1.14,18.0,2022,271
+1.0,6:53,1.0,10.0,GNB 33,3.0,3.0,Aaron Jones up the middle for 6 yards (tackle by Mike Hughes),1.14,1.4,18.0,2022,271
+1.0,6:13,2.0,4.0,GNB 39,3.0,3.0,AJ Dillon left guard for 4 yards (tackle by Alex Anzalone and Malcolm Rodriguez),1.4,1.8,18.0,2022,271
+1.0,5:31,1.0,10.0,GNB 43,3.0,3.0,AJ Dillon up the middle for 5 yards (tackle by Benito Jones),1.8,1.93,18.0,2022,271
+1.0,4:52,2.0,5.0,GNB 48,3.0,3.0,Aaron Rodgers pass complete deep left to Christian Watson for 27 yards (tackle by Kerby Joseph),1.93,3.91,18.0,2022,271
+1.0,4:08,1.0,10.0,DET 25,3.0,3.0,Allen Lazard left end for 1 yard (tackle by Malcolm Rodriguez and DeShon Elliott),3.91,3.5,18.0,2022,271
+1.0,3:28,2.0,9.0,DET 24,3.0,3.0,Aaron Rodgers pass complete short right to Randall Cobb for 4 yards (tackle by Jerry Jacobs),3.5,3.34,18.0,2022,271
+1.0,2:42,3.0,5.0,DET 20,3.0,3.0,Aaron Rodgers sacked by Aidan Hutchinson for -11 yards,3.34,1.32,18.0,2022,271
+1.0,1:59,4.0,16.0,DET 31,3.0,6.0,Mason Crosby 49 yard field goal good,1.32,3.0,18.0,2022,271
+1.0,1:54,,,GNB 35,3.0,6.0,"Mason Crosby kicks off 64 yards, returned by Justin Jackson for 23 yards (tackle by Isaiah McDuffie)",0.0,0.54,18.0,2022,271
+1.0,1:50,1.0,10.0,DET 24,3.0,6.0,Jamaal Williams right end for no gain (tackle by Quay Walker and Kingsley Enagbare),0.54,0.0,18.0,2022,271
+1.0,1:14,2.0,10.0,DET 24,3.0,6.0,Jared Goff pass complete short left to Kalif Raymond for 7 yards (tackle by Darnell Savage and Jaire Alexander),0.0,0.23,18.0,2022,271
+1.0,0:33,3.0,3.0,DET 31,3.0,6.0,"Jared Goff pass complete to Amon-Ra St. Brown for 15 yards Replay Assistant challenged the pass completion ruling, and the original play was overturned. Jared Goff pass incomplete short middle intended for Amon-Ra St. Brown",0.23,-1.31,18.0,2022,271
+1.0,0:29,4.0,3.0,DET 31,3.0,6.0,"Jack Fox punts 40 yards, returned by Keisean Nixon for 16 yards (tackle by Malcolm Rodriguez)",-1.31,-1.93,18.0,2022,271
+1.0,0:17,1.0,10.0,GNB 45,3.0,6.0,Christian Watson right end for 6 yards (tackle by Alex Anzalone and DeShon Elliott),1.93,2.19,18.0,2022,271
+2.0,15:00,2.0,4.0,DET 49,3.0,6.0,Aaron Rodgers pass incomplete deep left intended for Allen Lazard,2.19,1.49,18.0,2022,271
+2.0,14:54,3.0,4.0,DET 49,3.0,6.0,Aaron Rodgers pass complete deep right to Robert Tonyan for 20 yards (tackle by DeShon Elliott),1.49,3.64,18.0,2022,271
+2.0,14:07,1.0,10.0,DET 29,3.0,6.0,AJ Dillon right tackle for 5 yards (tackle by Alex Anzalone and Amani Oruwariye),3.64,3.78,18.0,2022,271
+2.0,13:26,2.0,5.0,DET 24,3.0,6.0,Aaron Rodgers pass incomplete short right intended for AJ Dillon,3.78,3.07,18.0,2022,271
+2.0,13:16,3.0,5.0,DET 24,3.0,6.0,"Aaron Rodgers sacked by Aidan Hutchinson for -6 yards. Penalty on Yosuah Nijman: Offensive Holding, 10 yards (declined)",3.07,1.41,18.0,2022,271
+2.0,13:01,4.0,11.0,DET 30,3.0,9.0,Mason Crosby 48 yard field goal good,1.41,3.0,18.0,2022,271
+2.0,12:56,,,GNB 35,3.0,9.0,"Mason Crosby kicks off 65 yards, returned by Justin Jackson for 25 yards (tackle by Eric Wilson and Tyler Davis)",0.0,0.61,18.0,2022,271
+2.0,12:50,1.0,10.0,DET 25,3.0,9.0,Jamaal Williams up the middle for 2 yards (tackle by Adrian Amos and Jarran Reed),0.61,0.33,18.0,2022,271
+2.0,12:18,2.0,8.0,DET 27,3.0,9.0,Jared Goff pass complete short middle to James Mitchell for 7 yards (tackle by Darnell Savage),0.33,0.56,18.0,2022,271
+2.0,11:41,3.0,1.0,DET 34,3.0,9.0,"Jared Goff pass complete to Jameson Williams for no gain, touchdown. Penalty on Matt Nelson: Offensive Holding, 9 yards (accepted) (no play)",0.56,-0.62,18.0,2022,271
+2.0,11:30,3.0,10.0,DET 25,3.0,9.0,Jared Goff pass complete short right to Justin Jackson for 11 yards (tackle by Rasul Douglas),-0.62,1.33,18.0,2022,271
+2.0,11:00,1.0,10.0,DET 36,3.0,9.0,Justin Jackson left guard for 2 yards (tackle by Kenny Clark),1.33,1.06,18.0,2022,271
+2.0,10:25,2.0,8.0,DET 38,3.0,9.0,Jared Goff pass complete deep right to Josh Reynolds for 16 yards (tackle by Rasul Douglas),1.06,2.52,18.0,2022,271
+2.0,9:46,1.0,10.0,GNB 46,3.0,9.0,Jamaal Williams up the middle for 9 yards (tackle by Quay Walker),2.52,3.19,18.0,2022,271
+2.0,9:12,2.0,1.0,GNB 37,3.0,9.0,"Jared Goff sacked by Devonte Wyatt for -5 yards. Jared Goff fumbles (forced by Devonte Wyatt), recovered by Jared Goff at GB-42 (tackle by Devonte Wyatt)",3.19,1.82,18.0,2022,271
+2.0,8:29,3.0,6.0,GNB 42,3.0,9.0,D'Andre Swift up the middle for 11 yards (tackle by Darnell Savage),1.82,3.51,18.0,2022,271
+2.0,7:49,1.0,10.0,GNB 31,3.0,9.0,Jared Goff pass incomplete short middle,3.51,2.97,18.0,2022,271
+2.0,7:42,2.0,10.0,GNB 31,3.0,9.0,D'Andre Swift left end for -4 yards (tackle by Darnell Savage),2.97,1.75,18.0,2022,271
+2.0,7:01,3.0,14.0,GNB 35,3.0,9.0,Jared Goff pass complete short left to D'Andre Swift for 8 yards (tackle by Quay Walker),1.75,1.7,18.0,2022,271
+2.0,6:16,4.0,6.0,GNB 27,3.0,9.0,Michael Badgley 46 yard field goal no good,1.7,-1.33,18.0,2022,271
+2.0,6:13,1.0,10.0,GNB 36,3.0,9.0,Aaron Rodgers pass complete short right to Christian Watson for 15 yards (tackle by Kerby Joseph),1.33,2.32,18.0,2022,271
+2.0,5:22,,,,,,Timeout #1 by Green Bay Packers,,,18.0,2022,271
+2.0,5:22,1.0,10.0,DET 49,3.0,9.0,Aaron Jones left end for no gain (tackle by Isaiah Buggs and Benito Jones),2.32,1.78,18.0,2022,271
+2.0,4:50,2.0,10.0,DET 49,3.0,9.0,Aaron Rodgers pass complete short left to Robert Tonyan for 5 yards (tackle by Aidan Hutchinson and Mike Hughes),1.78,1.75,18.0,2022,271
+2.0,4:00,3.0,5.0,DET 44,3.0,9.0,"Penalty on GNB: Delay of Game, 5 yards (accepted) (no play)",1.75,1.09,18.0,2022,271
+2.0,3:40,3.0,10.0,DET 49,3.0,9.0,Aaron Rodgers pass complete short middle to Robert Tonyan for 4 yards (tackle by Mike Hughes),1.09,0.27,18.0,2022,271
+2.0,2:57,4.0,6.0,DET 45,3.0,9.0,"Aaron Rodgers pass incomplete intended for Romeo Doubs. Penalty on James Houston: Neutral Zone Infraction, 5 yards (accepted) (no play)",0.27,0.59,18.0,2022,271
+2.0,2:40,4.0,1.0,DET 40,3.0,9.0,AJ Dillon left tackle for 2 yards (tackle by Mike Hughes),0.59,3.05,18.0,2022,271
+2.0,2:00,1.0,10.0,DET 38,3.0,9.0,Aaron Jones left tackle for 6 yards (tackle by Isaiah Buggs and Malcolm Rodriguez),3.05,3.32,18.0,2022,271
+2.0,1:25,2.0,4.0,DET 32,3.0,9.0,"Aaron Rodgers pass complete short left to Aaron Jones for 8 yards. Aaron Jones fumbles (forced by John Cominsky), recovered by Will Harris at DET-15",3.32,0.22,18.0,2022,271
+2.0,1:16,1.0,10.0,DET 15,3.0,9.0,Jared Goff pass complete short left to Kalif Raymond for 5 yards (tackle by Darnell Savage),-0.22,0.08,18.0,2022,271
+2.0,0:56,2.0,5.0,DET 20,3.0,9.0,Jared Goff pass incomplete short right intended for Amon-Ra St. Brown (defended by Darnell Savage),0.08,-0.76,18.0,2022,271
+2.0,0:52,3.0,5.0,DET 20,3.0,9.0,Jared Goff pass complete short right to Amon-Ra St. Brown for 6 yards (tackle by Darnell Savage),-0.76,0.67,18.0,2022,271
+2.0,0:47,1.0,10.0,DET 26,3.0,9.0,Jared Goff pass complete short right to D'Andre Swift for 3 yards (tackle by De'Vondre Campbell),0.67,0.54,18.0,2022,271
+2.0,0:41,2.0,7.0,DET 29,3.0,9.0,Jared Goff pass complete short middle to Kalif Raymond for 11 yards (tackle by Adrian Amos),0.54,1.6,18.0,2022,271
+2.0,0:35,,,,,,Timeout #1 by Detroit Lions,,,18.0,2022,271
+2.0,0:35,1.0,10.0,DET 40,3.0,9.0,Jared Goff pass complete short right to D'Andre Swift for 5 yards (tackle by Rasul Douglas and De'Vondre Campbell),1.6,1.73,18.0,2022,271
+2.0,0:30,,,,,,Timeout #2 by Detroit Lions,,,18.0,2022,271
+2.0,0:30,2.0,5.0,DET 45,3.0,9.0,Jared Goff pass complete short right to D'Andre Swift for 18 yards (tackle by Rudy Ford),1.73,3.12,18.0,2022,271
+2.0,0:09,1.0,10.0,GNB 37,3.0,9.0,Jared Goff pass incomplete short middle intended for Brock Wright,3.12,2.57,18.0,2022,271
+2.0,0:05,,,,,,Timeout #2 by Green Bay Packers,,,18.0,2022,271
+2.0,0:05,2.0,10.0,GNB 37,3.0,9.0,Jared Goff pass complete short middle to Amon-Ra St. Brown for 7 yards (tackle by Innis Gaines),2.57,2.87,18.0,2022,271
+2.0,0:02,,,,,,Timeout #3 by Detroit Lions,,,18.0,2022,271
+2.0,0:02,3.0,2.0,GNB 30,3.0,9.0,"Penalty on Rasul Douglas: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",2.87,4.58,18.0,2022,271
+2.0,0:02,1.0,10.0,GNB 15,6.0,9.0,Michael Badgley 33 yard field goal good,4.58,3.0,18.0,2022,271
+3.0,15:00,,,GNB 35,6.0,9.0,"Mason Crosby kicks off 59 yards, returned by Shane Zylstra for 20 yards (tackle by Corey Ballentine)",0.0,0.67,18.0,2022,271
+3.0,14:55,1.0,10.0,DET 26,6.0,9.0,Jared Goff pass incomplete short right intended for DJ Chark,0.67,0.13,18.0,2022,271
+3.0,14:51,2.0,10.0,DET 26,6.0,9.0,Jared Goff scrambles right end for 6 yards (tackle by Darnell Savage),0.13,0.23,18.0,2022,271
+3.0,14:05,3.0,4.0,DET 32,6.0,9.0,Jared Goff pass complete short middle to DJ Chark for 2 yards (tackle by Rasul Douglas),0.23,-1.11,18.0,2022,271
+3.0,13:26,4.0,2.0,DET 34,6.0,9.0,"Jack Fox punts 50 yards, returned by Keisean Nixon for 9 yards (tackle by C.J. Moore)",-1.11,-0.61,18.0,2022,271
+3.0,13:13,1.0,10.0,GNB 25,6.0,9.0,Aaron Rodgers scrambles right end for 6 yards (tackle by Jerry Jacobs),0.61,0.87,18.0,2022,271
+3.0,12:40,2.0,4.0,GNB 31,6.0,9.0,Aaron Jones up the middle for 17 yards (tackle by Kerby Joseph),0.87,2.13,18.0,2022,271
+3.0,12:01,1.0,10.0,GNB 48,6.0,9.0,Aaron Jones left end for no gain (tackle by Alim McNeill),2.13,1.58,18.0,2022,271
+3.0,11:17,2.0,10.0,GNB 48,6.0,9.0,Aaron Rodgers pass complete short left to Allen Lazard for 15 yards (tackle by Derrick Barnes),1.58,3.12,18.0,2022,271
+3.0,10:32,1.0,10.0,DET 37,6.0,9.0,Aaron Jones left end for 3 yards (tackle by Mike Hughes and Aidan Hutchinson),3.12,2.98,18.0,2022,271
+3.0,9:49,2.0,7.0,DET 34,6.0,9.0,Aaron Rodgers pass incomplete deep right intended for Aaron Jones (defended by Kerby Joseph),2.98,2.28,18.0,2022,271
+3.0,9:40,3.0,7.0,DET 34,6.0,9.0,Aaron Rodgers pass incomplete short right intended for Romeo Doubs,2.28,1.06,18.0,2022,271
+3.0,9:37,4.0,7.0,DET 34,6.0,9.0,Mason Crosby 53 yard field goal no good,1.06,-1.8,18.0,2022,271
+3.0,9:32,1.0,10.0,DET 43,6.0,9.0,Jamaal Williams right tackle for 13 yards (tackle by Adrian Amos),1.8,2.65,18.0,2022,271
+3.0,8:55,1.0,10.0,GNB 44,6.0,9.0,Jared Goff pass complete deep right to Kalif Raymond for 43 yards (tackle by Rudy Ford),2.65,6.97,18.0,2022,271
+3.0,8:07,1.0,1.0,GNB 1,12.0,9.0,"Jamaal Williams right tackle for 1 yard, touchdown",6.97,7.0,18.0,2022,271
+3.0,8:05,,,GNB 15,13.0,9.0,Michael Badgley kicks extra point good,0.0,0.0,18.0,2022,271
+3.0,8:05,,,DET 35,13.0,9.0,"Jack Fox kicks off 62 yards, returned by Keisean Nixon for 14 yards (tackle by Derrick Barnes and Ifeatu Melifonwu)",0.0,-0.06,18.0,2022,271
+3.0,8:00,1.0,10.0,GNB 17,13.0,9.0,Aaron Rodgers pass incomplete short left,-0.06,-0.58,18.0,2022,271
+3.0,7:55,2.0,10.0,GNB 17,13.0,9.0,Aaron Rodgers pass complete short right to Allen Lazard for 7 yards (tackle by Jerry Jacobs),-0.58,-0.37,18.0,2022,271
+3.0,7:22,3.0,3.0,GNB 24,13.0,9.0,Aaron Rodgers pass complete short middle to Allen Lazard for 6 yards (tackle by Mike Hughes),-0.37,0.94,18.0,2022,271
+3.0,6:39,1.0,10.0,GNB 30,13.0,9.0,Aaron Rodgers pass complete short left to Aaron Jones for 4 yards (tackle by Jerry Jacobs),0.94,0.93,18.0,2022,271
+3.0,6:04,2.0,6.0,GNB 34,13.0,9.0,Aaron Jones right end for 5 yards (tackle by Derrick Barnes),0.93,0.89,18.0,2022,271
+3.0,5:18,3.0,1.0,GNB 39,13.0,9.0,Aaron Rodgers up the middle for 2 yards (tackle by Isaiah Buggs),0.89,1.66,18.0,2022,271
+3.0,4:37,1.0,10.0,GNB 41,13.0,9.0,"Aaron Rodgers pass complete deep right to Christian Watson for 45 yards (tackle by Amani Oruwariye). Penalty on Amani Oruwariye: Defensive Pass Interference, 15 yards (declined)",1.66,4.65,18.0,2022,271
+3.0,4:06,1.0,10.0,DET 14,13.0,9.0,Aaron Jones left tackle for 1 yard (tackle by Benito Jones and Isaiah Buggs),4.65,4.16,18.0,2022,271
+3.0,3:22,2.0,9.0,DET 13,13.0,15.0,"Aaron Rodgers pass complete short left to Allen Lazard for 13 yards, touchdown",4.16,7.0,18.0,2022,271
+3.0,3:17,,,DET 15,13.0,16.0,Mason Crosby kicks extra point good,0.0,0.0,18.0,2022,271
+3.0,3:17,,,GNB 35,13.0,16.0,"Mason Crosby kicks off 59 yards, returned by Shane Zylstra for 26 yards (tackle by Isaiah McDuffie and Eric Wilson)",0.0,1.07,18.0,2022,271
+3.0,3:12,1.0,10.0,DET 32,13.0,16.0,Jamaal Williams right end for 5 yards (tackle by Tedarrell Slaton),1.07,1.2,18.0,2022,271
+3.0,2:38,2.0,5.0,DET 37,13.0,16.0,Jared Goff pass incomplete short right intended for Jameson Williams,1.2,0.5,18.0,2022,271
+3.0,2:32,3.0,5.0,DET 37,13.0,16.0,Jared Goff pass incomplete short right intended for Shane Zylstra,0.5,-0.91,18.0,2022,271
+3.0,2:28,4.0,5.0,DET 37,13.0,16.0,"Jack Fox punts 41 yards, returned by Keisean Nixon for 4 yards (tackle by Chris Board)",-0.91,-0.67,18.0,2022,271
+3.0,2:18,1.0,10.0,GNB 26,13.0,16.0,"Aaron Jones for no gain. Penalty on David Bakhtiari: Offensive Holding, 10 yards (accepted) (no play)",0.67,-0.3,18.0,2022,271
+3.0,1:58,1.0,20.0,GNB 16,13.0,16.0,"Aaron Rodgers pass is intercepted by Kerby Joseph at GB-49 and returned for no gain. Penalty on John Cominsky: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",-0.3,0.34,18.0,2022,271
+3.0,1:47,1.0,10.0,GNB 21,13.0,16.0,AJ Dillon right guard for 9 yards (tackle by Alex Anzalone and John Cominsky),0.34,1.02,18.0,2022,271
+3.0,1:06,2.0,1.0,GNB 30,13.0,16.0,AJ Dillon up the middle for 2 yards (tackle by DeShon Elliott),1.02,1.07,18.0,2022,271
+3.0,0:21,1.0,10.0,GNB 32,13.0,16.0,AJ Dillon left tackle for 4 yards (tackle by Romeo Okwara and Alex Anzalone),1.07,1.07,18.0,2022,271
+4.0,15:00,2.0,6.0,GNB 36,13.0,16.0,Aaron Rodgers pass incomplete deep right intended for Romeo Doubs,1.07,0.37,18.0,2022,271
+4.0,14:55,3.0,6.0,GNB 36,13.0,16.0,Aaron Rodgers scrambles up the middle for 2 yards (tackle by James Houston and Alex Anzalone),0.37,-0.85,18.0,2022,271
+4.0,14:09,4.0,4.0,GNB 38,13.0,16.0,Pat O'Donnell punts 37 yards downed by Innis Gaines,-0.85,-0.61,18.0,2022,271
+4.0,13:58,1.0,10.0,DET 25,13.0,16.0,Jared Goff pass complete short middle to Amon-Ra St. Brown for 14 yards (tackle by Quay Walker),0.61,1.53,18.0,2022,271
+4.0,13:26,1.0,10.0,DET 39,13.0,16.0,Jamaal Williams left tackle for 11 yards (tackle by Quay Walker and Darnell Savage),1.53,2.26,18.0,2022,271
+4.0,12:41,1.0,10.0,GNB 50,13.0,16.0,Jamaal Williams up the middle for 8 yards (tackle by Rudy Ford and Darnell Savage),2.26,2.79,18.0,2022,271
+4.0,12:03,2.0,2.0,GNB 42,13.0,16.0,Jared Goff pass complete short left to D'Andre Swift for 9 yards (tackle by De'Vondre Campbell),2.79,3.38,18.0,2022,271
+4.0,11:28,1.0,10.0,GNB 33,13.0,16.0,D'Andre Swift right tackle for no gain (tackle by Tedarrell Slaton),3.38,2.84,18.0,2022,271
+4.0,10:47,2.0,10.0,GNB 33,13.0,16.0,Jared Goff pass complete short left to D'Andre Swift for 2 yards (tackle by Jaire Alexander),2.84,2.41,18.0,2022,271
+4.0,10:05,3.0,8.0,GNB 31,13.0,16.0,D'Andre Swift left end for 6 yards (tackle by Adrian Amos),2.41,1.93,18.0,2022,271
+4.0,9:24,4.0,2.0,GNB 25,13.0,16.0,Jared Goff pass complete short left to DJ Chark for 3 yards (tackle by Jaire Alexander),1.93,4.11,18.0,2022,271
+4.0,8:38,1.0,10.0,GNB 22,13.0,16.0,D'Andre Swift left end for 11 yards (tackle by De'Vondre Campbell),4.11,4.84,18.0,2022,271
+4.0,7:39,1.0,10.0,GNB 11,13.0,16.0,"Jared Goff pass complete short left to D'Andre Swift for 2 yards (tackle by De'Vondre Campbell). Penalty on Quay Walker: Disqualification / Defense, 5 yards (accepted)",4.84,6.28,18.0,2022,271
+4.0,7:24,1.0,4.0,GNB 4,13.0,16.0,Jamaal Williams up the middle for no gain (tackle by Isaiah McDuffie),6.28,5.34,18.0,2022,271
+4.0,6:46,2.0,4.0,GNB 4,13.0,16.0,Jamaal Williams up the middle for 3 yards (tackle by Adrian Amos and De'Vondre Campbell),5.34,5.17,18.0,2022,271
+4.0,5:57,,,,,,Timeout #1 by Detroit Lions,,,18.0,2022,271
+4.0,5:57,3.0,1.0,GNB 1,19.0,16.0,"Jamaal Williams up the middle for 1 yard, touchdown",5.17,7.0,18.0,2022,271
+4.0,5:55,,,GNB 15,20.0,16.0,Michael Badgley kicks extra point good,0.0,0.0,18.0,2022,271
+4.0,5:55,,,DET 35,20.0,16.0,"Jack Fox kicks off 67 yards, returned by Keisean Nixon for 23 yards (tackle by Justin Jackson)",0.0,0.34,18.0,2022,271
+4.0,5:49,1.0,10.0,GNB 21,20.0,16.0,Aaron Rodgers pass complete short left to Aaron Jones for 8 yards (tackle by Amani Oruwariye),0.34,0.88,18.0,2022,271
+4.0,5:11,2.0,2.0,GNB 29,20.0,16.0,Aaron Jones left guard for no gain (tackle by Isaiah Buggs),0.88,0.17,18.0,2022,271
+4.0,4:31,3.0,2.0,GNB 29,20.0,16.0,Aaron Rodgers pass complete short right to Christian Watson for 4 yards (tackle by Jerry Jacobs),0.17,1.14,18.0,2022,271
+4.0,3:49,1.0,10.0,GNB 33,20.0,16.0,Aaron Rodgers pass incomplete deep left intended for Allen Lazard,1.14,0.59,18.0,2022,271
+4.0,3:41,2.0,10.0,GNB 33,20.0,16.0,Aaron Rodgers pass incomplete short right intended for AJ Dillon,0.59,-0.1,18.0,2022,271
+4.0,3:37,3.0,10.0,GNB 33,20.0,16.0,Aaron Rodgers pass deep right intended for Christian Watson is intercepted by Kerby Joseph at DET-32 and returned for 23 yards (tackle by Allen Lazard),-0.1,-2.59,18.0,2022,271
+4.0,3:27,1.0,10.0,GNB 45,20.0,16.0,Jared Goff pass complete short left to Amon-Ra St. Brown for 11 yards (tackle by Darnell Savage),2.59,3.31,18.0,2022,271
+4.0,2:31,1.0,10.0,GNB 34,20.0,16.0,Jamaal Williams up the middle for 9 yards (tackle by De'Vondre Campbell and Darnell Savage),3.31,3.99,18.0,2022,271
+4.0,2:28,,,,,,Timeout #1 by Green Bay Packers,,,18.0,2022,271
+4.0,2:28,2.0,1.0,GNB 25,20.0,16.0,"Penalty on Devonte Wyatt: Neutral Zone Infraction, 5 yards (declined) (no play)",3.99,3.99,18.0,2022,271
+4.0,2:28,2.0,1.0,GNB 25,20.0,16.0,Jamaal Williams right tackle for 1 yard (tackle by Preston Smith and Rasul Douglas),3.99,3.97,18.0,2022,271
+4.0,2:22,,,,,,Timeout #2 by Green Bay Packers,,,18.0,2022,271
+4.0,2:22,1.0,10.0,GNB 24,20.0,16.0,Jamaal Williams up the middle for 3 yards (tackle by Krys Barnes),3.97,3.84,18.0,2022,271
+4.0,2:17,,,,,,Timeout #3 by Green Bay Packers,,,18.0,2022,271
+4.0,2:17,2.0,7.0,GNB 21,20.0,16.0,"Jared Goff pass complete to Amon-Ra St. Brown for no gain. Penalty on James Mitchell: Offensive Holding, 10 yards (accepted) (no play)",3.84,2.49,18.0,2022,271
+4.0,2:04,2.0,17.0,GNB 31,20.0,16.0,"Jared Goff pass complete short right to Amon-Ra St. Brown for -8 yards, lateral to D'Andre Swift for no gain (tackle by Jarran Reed)",2.49,3.75,18.0,2022,271
+4.0,2:00,3.0,3.0,GNB 17,20.0,16.0,Jamaal Williams right tackle for 2 yards (tackle by Krys Barnes and Tedarrell Slaton),3.75,2.59,18.0,2022,271
+4.0,1:15,,,,,,Timeout #2 by Detroit Lions,,,18.0,2022,271
+4.0,1:15,4.0,1.0,GNB 15,20.0,16.0,Jared Goff pass complete short right to DJ Chark for 9 yards (tackle by Krys Barnes),2.59,5.83,18.0,2022,271
+4.0,0:32,1.0,6.0,GNB 6,20.0,16.0,Jared Goff kneels for -1 yards,5.83,4.76,18.0,2022,271

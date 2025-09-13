@@ -1,0 +1,180 @@
+Quarter,Time,Down,ToGo,Location,BAL,ARI,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Ravens won the coin toss and deferred, Cardinals to receive the opening kickoff.",,,8.0,2023,119
+1.0,15:00,,,BAL 35,0.0,0.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,119
+1.0,15:00,1.0,10.0,ARI 25,0.0,0.0,Joshua Dobbs pass complete short right to Marquise Brown for 7 yards (tackle by Jadeveon Clowney),0.61,1.01,8.0,2023,119
+1.0,14:25,2.0,3.0,ARI 32,0.0,0.0,Emari Demercado left end for -1 yards (tackle by Patrick Queen),1.01,0.17,8.0,2023,119
+1.0,13:56,3.0,4.0,ARI 31,0.0,0.0,"Joshua Dobbs sacked by Justin Madubuike for no gain. Penalty on Kyle Hamilton: Illegal Contact, 5 yards (accepted) (no play)",0.17,1.33,8.0,2023,119
+1.0,13:33,1.0,10.0,ARI 36,0.0,0.0,Emari Demercado up the middle for 5 yards (tackle by Malik Harrison),1.33,1.47,8.0,2023,119
+1.0,13:01,2.0,5.0,ARI 41,0.0,0.0,Joshua Dobbs pass complete short right to Michael Wilson for 10 yards (tackle by Patrick Queen and Kyle Hamilton),1.47,2.32,8.0,2023,119
+1.0,12:27,1.0,10.0,BAL 49,0.0,0.0,Joshua Dobbs left end for 8 yards (tackle by Roquan Smith),2.32,2.86,8.0,2023,119
+1.0,11:55,2.0,2.0,BAL 41,0.0,0.0,Emari Demercado up the middle for 4 yards (tackle by Patrick Queen and Malik Harrison),2.86,3.12,8.0,2023,119
+1.0,11:15,1.0,10.0,BAL 37,0.0,0.0,Joshua Dobbs pass complete short left to Trey McBride for 7 yards (tackle by Brandon Stephens),3.12,3.52,8.0,2023,119
+1.0,10:34,2.0,3.0,BAL 30,0.0,0.0,Rondale Moore up the middle for 5 yards (tackle by Patrick Queen and Brent Urban),3.52,3.91,8.0,2023,119
+1.0,9:56,1.0,10.0,BAL 25,0.0,0.0,Emari Demercado up the middle for no gain (tackle by Kyle Hamilton),3.91,3.36,8.0,2023,119
+1.0,9:21,2.0,10.0,BAL 25,0.0,0.0,Emari Demercado right end for 6 yards (tackle by Kyle Van Noy and Roquan Smith),3.36,3.49,8.0,2023,119
+1.0,8:42,3.0,4.0,BAL 19,0.0,0.0,"Joshua Dobbs pass incomplete deep right intended for Marquise Brown. Penalty on Marlon Humphrey: Defensive Pass Interference, 18 yards (accepted) (no play)",3.49,6.97,8.0,2023,119
+1.0,8:37,1.0,1.0,BAL 1,0.0,0.0,Joshua Dobbs up the middle for no gain (tackle by Roquan Smith),6.97,5.91,8.0,2023,119
+1.0,8:09,2.0,1.0,BAL 1,0.0,6.0,"Joshua Dobbs up the middle for 1 yard, touchdown",5.91,7.0,8.0,2023,119
+1.0,8:05,,,BAL 15,0.0,7.0,Matt Prater kicks extra point good,0.0,0.0,8.0,2023,119
+1.0,8:05,,,ARI 35,0.0,7.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,119
+1.0,8:05,1.0,10.0,BAL 25,0.0,7.0,"Lamar Jackson pass complete to Justice Hill for 3 yards (tackle by Dennis Gardeck). Penalty on Isaiah Likely: Offensive Pass Interference, 10 yards (accepted) (no play)",0.61,-0.41,8.0,2023,119
+1.0,7:42,1.0,20.0,BAL 15,0.0,7.0,Lamar Jackson pass complete short left to Zay Flowers for 6 yards (tackle by Dennis Gardeck),-0.41,-0.48,8.0,2023,119
+1.0,7:05,2.0,14.0,BAL 21,0.0,7.0,Lamar Jackson pass complete short middle to Justice Hill for 5 yards (tackle by Kyzir White),-0.48,-0.49,8.0,2023,119
+1.0,6:23,3.0,9.0,BAL 26,0.0,7.0,Lamar Jackson pass complete short left to Mark Andrews for 10 yards (tackle by Antonio Hamilton),-0.49,1.33,8.0,2023,119
+1.0,5:48,1.0,10.0,BAL 36,0.0,7.0,Lamar Jackson pass incomplete short right intended for Odell Beckham (defended by Antonio Hamilton),1.33,0.79,8.0,2023,119
+1.0,5:44,2.0,10.0,BAL 36,0.0,7.0,Lamar Jackson pass complete short left to Gus Edwards for 9 yards (tackle by Josh Woods and Budda Baker),0.79,1.29,8.0,2023,119
+1.0,5:14,3.0,1.0,BAL 45,0.0,7.0,Gus Edwards up the middle for 4 yards (tackle by Victor Dimukeje and Josh Woods),1.29,2.19,8.0,2023,119
+1.0,4:39,1.0,10.0,BAL 49,0.0,7.0,Lamar Jackson pass complete deep left to Rashod Bateman for 29 yards (tackle by Marco Wilson),2.19,4.11,8.0,2023,119
+1.0,4:01,1.0,10.0,ARI 22,0.0,7.0,Lamar Jackson sacked by Dante Stills for -5 yards,4.11,2.89,8.0,2023,119
+1.0,3:17,2.0,15.0,ARI 27,0.0,7.0,"Lamar Jackson pass incomplete intended for Odell Beckham. Penalty on Marco Wilson: Defensive Pass Interference, 19 yards (accepted) (no play)",2.89,5.37,8.0,2023,119
+1.0,3:13,1.0,8.0,ARI 8,0.0,7.0,Gus Edwards up the middle for 3 yards (tackle by Jalen Thompson and Jesse Luketa),5.37,5.15,8.0,2023,119
+1.0,2:43,2.0,5.0,ARI 5,6.0,7.0,"Lamar Jackson pass complete short middle to Mark Andrews for 5 yards, touchdown",5.15,7.0,8.0,2023,119
+1.0,2:38,,,ARI 15,7.0,7.0,Justin Tucker kicks extra point good,0.0,0.0,8.0,2023,119
+1.0,2:38,,,BAL 35,7.0,7.0,"Justin Tucker kicks off 65 yards,",0.0,0.61,8.0,2023,119
+1.0,2:38,1.0,10.0,ARI 25,7.0,7.0,Joshua Dobbs pass complete short right to Trey McBride for 9 yards (tackle by Malik Harrison),0.61,1.28,8.0,2023,119
+1.0,2:02,2.0,1.0,ARI 34,7.0,7.0,Emari Demercado up the middle for 13 yards (tackle by Kyle Hamilton),1.28,2.06,8.0,2023,119
+1.0,1:27,1.0,10.0,ARI 47,7.0,7.0,Emari Demercado right tackle for 1 yard (tackle by Broderick Washington and Tavius Robinson),2.06,1.65,8.0,2023,119
+1.0,0:47,2.0,9.0,ARI 48,7.0,7.0,Emari Demercado up the middle for 8 yards (tackle by Kyle Hamilton),1.65,2.02,8.0,2023,119
+1.0,0:09,3.0,1.0,BAL 44,7.0,7.0,Joshua Dobbs pass incomplete short left,2.02,0.33,8.0,2023,119
+2.0,15:00,4.0,1.0,BAL 44,7.0,7.0,Joshua Dobbs pass incomplete short middle intended for Marquise Brown (defended by Michael Pierce),0.33,-1.93,8.0,2023,119
+2.0,14:57,1.0,10.0,BAL 45,7.0,7.0,Lamar Jackson scrambles left tackle for 1 yard (tackle by Kyzir White),1.93,1.52,8.0,2023,119
+2.0,14:15,2.0,9.0,BAL 46,7.0,7.0,Justice Hill right tackle for 6 yards (tackle by Garrett Williams),1.52,1.62,8.0,2023,119
+2.0,13:34,3.0,3.0,ARI 48,7.0,7.0,Lamar Jackson pass complete short middle to Zay Flowers for 8 yards (tackle by Antonio Hamilton),1.62,2.92,8.0,2023,119
+2.0,12:54,1.0,10.0,ARI 40,7.0,7.0,"Lamar Jackson pass complete short left to Gus Edwards for 5 yards. Gus Edwards fumbles (forced by Josh Woods), recovered by Gus Edwards at ARI-35 (tackle by Josh Woods) (tackle by Josh Woods)",2.92,3.05,8.0,2023,119
+2.0,12:09,2.0,5.0,ARI 35,7.0,7.0,Lamar Jackson pass incomplete short middle intended for Nelson Agholor (defended by Antonio Hamilton) (defended by Jalen Thompson),3.05,2.34,8.0,2023,119
+2.0,12:05,3.0,5.0,ARI 35,7.0,7.0,"Lamar Jackson sacked by. Lamar Jackson fumbles Replay Assistant challenged the fumble ruling, and the original play was overturned. Lamar Jackson pass incomplete short middle intended for Zay Flowers (defended by Zaven Collins)",2.34,0.98,8.0,2023,119
+2.0,12:00,4.0,5.0,ARI 35,7.0,7.0,Justin Tucker 53 yard field goal no good,0.98,-1.8,8.0,2023,119
+2.0,11:55,1.0,10.0,ARI 43,7.0,7.0,Emari Demercado left tackle for 7 yards (tackle by Patrick Queen and Roquan Smith),1.8,2.2,8.0,2023,119
+2.0,11:24,2.0,3.0,ARI 50,7.0,7.0,Joshua Dobbs pass complete short middle to Michael Wilson for 5 yards (tackle by Roquan Smith),2.2,2.59,8.0,2023,119
+2.0,10:48,1.0,10.0,BAL 45,7.0,7.0,Joshua Dobbs pass complete short left to Marquise Brown for 4 yards (tackle by Brandon Stephens),2.59,2.58,8.0,2023,119
+2.0,10:11,2.0,6.0,BAL 41,7.0,7.0,Emari Demercado right tackle for 1 yard (tackle by Michael Pierce),2.58,2.01,8.0,2023,119
+2.0,9:38,3.0,5.0,BAL 40,7.0,7.0,Emari Demercado up the middle for 4 yards (tackle by Patrick Queen),2.01,0.89,8.0,2023,119
+2.0,8:57,4.0,1.0,BAL 36,7.0,7.0,Emari Demercado up the middle for no gain (tackle by Michael Pierce),0.89,-1.33,8.0,2023,119
+2.0,8:55,1.0,10.0,BAL 36,7.0,7.0,Gus Edwards right tackle for 3 yards (tackle by Josh Woods),1.33,1.2,8.0,2023,119
+2.0,8:23,2.0,7.0,BAL 39,7.0,7.0,Gus Edwards right tackle for 4 yards (tackle by Budda Baker),1.2,1.03,8.0,2023,119
+2.0,7:43,3.0,3.0,BAL 43,7.0,7.0,Lamar Jackson pass incomplete short right intended for Odell Beckham (defended by Starling Thomas),1.03,-0.52,8.0,2023,119
+2.0,7:40,4.0,3.0,BAL 43,7.0,7.0,"Penalty on Malik Harrison: False Start, 5 yards (accepted) (no play)",-0.52,-0.85,8.0,2023,119
+2.0,7:40,4.0,8.0,BAL 38,7.0,7.0,Jordan Stout punts 54 yards,-0.85,0.38,8.0,2023,119
+2.0,7:32,1.0,10.0,ARI 8,7.0,7.0,Damien Williams right tackle for 7 yards (tackle by Kyle Hamilton),-0.38,-0.21,8.0,2023,119
+2.0,6:59,2.0,3.0,ARI 15,7.0,7.0,Damien Williams right tackle for -2 yards (tackle by Travis Jones and Jadeveon Clowney),-0.21,-0.84,8.0,2023,119
+2.0,6:21,3.0,5.0,ARI 13,7.0,7.0,Joshua Dobbs pass complete short left to Damien Williams for 4 yards (tackle by Roquan Smith and Brandon Stephens),-0.84,-2.32,8.0,2023,119
+2.0,5:39,4.0,1.0,ARI 17,7.0,7.0,"Blake Gillikin punts 50 yards, returned by Devin Duvernay for 14 yards (tackle by Bobby Price)",-2.32,-2.06,8.0,2023,119
+2.0,5:28,1.0,10.0,BAL 47,7.0,7.0,Lamar Jackson pass complete short right to Zay Flowers for 4 yards (tackle by Antonio Hamilton),2.06,2.06,8.0,2023,119
+2.0,4:53,2.0,6.0,ARI 49,7.0,7.0,Lamar Jackson pass incomplete short right intended for Odell Beckham,2.06,1.36,8.0,2023,119
+2.0,4:49,3.0,6.0,ARI 49,7.0,7.0,Lamar Jackson pass complete short left to Zay Flowers for -1 yards (tackle by Jalen Thompson),1.36,-0.06,8.0,2023,119
+2.0,4:12,4.0,7.0,ARI 50,7.0,7.0,"Jordan Stout punts 40 yards, fair catch by Rondale Moore at ARI-10",-0.06,0.38,8.0,2023,119
+2.0,4:05,1.0,10.0,ARI 10,7.0,7.0,Joshua Dobbs pass incomplete short right intended for Rondale Moore,-0.38,-0.78,8.0,2023,119
+2.0,4:00,2.0,10.0,ARI 10,7.0,7.0,Emari Demercado right tackle for 5 yards (tackle by Roquan Smith),-0.78,-0.84,8.0,2023,119
+2.0,3:24,3.0,5.0,ARI 15,7.0,7.0,Joshua Dobbs pass complete short right to Marquise Brown for 9 yards (tackle by Kyle Hamilton),-0.84,0.54,8.0,2023,119
+2.0,2:38,1.0,10.0,ARI 24,7.0,7.0,Emari Demercado right tackle for 7 yards (tackle by Patrick Queen),0.54,0.94,8.0,2023,119
+2.0,2:00,2.0,3.0,ARI 31,7.0,7.0,Joshua Dobbs pass deep left intended for Michael Wilson is intercepted by Brandon Stephens at ARI-47 and returned for 4 yards (tackle by Trey McBride),0.94,-2.72,8.0,2023,119
+2.0,1:52,1.0,10.0,ARI 43,7.0,7.0,Lamar Jackson pass incomplete short right intended for Mark Andrews,2.72,2.18,8.0,2023,119
+2.0,1:48,2.0,10.0,ARI 43,7.0,7.0,Lamar Jackson pass complete short right to Justice Hill for 24 yards (tackle by Antonio Hamilton),2.18,4.31,8.0,2023,119
+2.0,1:41,1.0,10.0,ARI 19,7.0,7.0,Lamar Jackson right end for 1 yard (tackle by Budda Baker),4.31,3.88,8.0,2023,119
+2.0,1:04,2.0,9.0,ARI 18,7.0,7.0,Lamar Jackson pass complete short left to Mark Andrews for 12 yards (tackle by Kyzir White),3.88,5.83,8.0,2023,119
+2.0,1:00,1.0,6.0,ARI 6,7.0,7.0,Gus Edwards up the middle for 5 yards (tackle by Kyzir White and Leki Fotu),5.83,5.91,8.0,2023,119
+2.0,0:25,,,,,,Timeout #1 by Baltimore Ravens,,,8.0,2023,119
+2.0,0:25,2.0,1.0,ARI 1,13.0,7.0,"Gus Edwards up the middle for 1 yard, touchdown",5.91,7.0,8.0,2023,119
+2.0,0:20,,,ARI 15,14.0,7.0,Justin Tucker kicks extra point good,0.0,0.0,8.0,2023,119
+2.0,0:20,,,BAL 35,14.0,7.0,"Justin Tucker kicks off 68 yards, returned by Andre Baccellia for 22 yards (tackle by Malik Harrison)",0.0,0.15,8.0,2023,119
+2.0,0:15,1.0,10.0,ARI 19,14.0,7.0,Joshua Dobbs kneels for -1 yards,0.15,-0.56,8.0,2023,119
+3.0,15:00,,,ARI 35,14.0,7.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,119
+3.0,15:00,1.0,10.0,BAL 25,14.0,7.0,Gus Edwards up the middle for 5 yards (tackle by Kyzir White and Dante Stills),0.61,0.74,8.0,2023,119
+3.0,14:23,2.0,5.0,BAL 30,14.0,7.0,"Lamar Jackson pass incomplete deep right intended for Odell Beckham. Penalty on Antonio Hamilton: Defensive Holding, 5 yards (accepted) (no play)",0.74,1.27,8.0,2023,119
+3.0,14:17,1.0,10.0,BAL 35,14.0,7.0,Lamar Jackson pass complete short right to Justice Hill for -3 yards (tackle by Zaven Collins),1.27,0.32,8.0,2023,119
+3.0,13:35,2.0,13.0,BAL 32,14.0,7.0,Lamar Jackson sacked by and Dante Stills for -4 yards and Victor Dimukeje for -4 yards,0.32,-0.89,8.0,2023,119
+3.0,12:50,3.0,17.0,BAL 28,14.0,7.0,Lamar Jackson pass incomplete deep right intended for Zay Flowers,-0.89,-1.5,8.0,2023,119
+3.0,12:43,4.0,17.0,BAL 28,14.0,7.0,"Jordan Stout punts 59 yards, returned by Rondale Moore for 11 yards (tackle by DeAndre Houston-Carson)",-1.5,-0.54,8.0,2023,119
+3.0,12:31,1.0,10.0,ARI 24,14.0,7.0,Emari Demercado right tackle for 9 yards (tackle by Justin Madubuike),0.54,1.21,8.0,2023,119
+3.0,11:58,2.0,1.0,ARI 33,14.0,7.0,Emari Demercado up the middle for 5 yards (tackle by Michael Pierce and Brent Urban),1.21,1.47,8.0,2023,119
+3.0,11:24,1.0,10.0,ARI 38,14.0,7.0,Joshua Dobbs pass incomplete deep middle intended for Trey McBride,1.47,0.92,8.0,2023,119
+3.0,11:19,2.0,10.0,ARI 38,14.0,7.0,Emari Demercado right tackle for -1 yards (tackle by Michael Pierce),0.92,0.1,8.0,2023,119
+3.0,10:39,3.0,11.0,ARI 37,14.0,7.0,"Joshua Dobbs sacked by Michael Pierce for -22 yards. Joshua Dobbs fumbles (forced by Michael Pierce), recovered by Hjalte Froholdt at ARI-12 (tackle by Michael Pierce)",0.1,-2.49,8.0,2023,119
+3.0,9:51,4.0,36.0,ARI 12,14.0,7.0,"Blake Gillikin punts 66 yards, returned by Devin Duvernay for 8 yards (tackle by Dennis Gardeck)",-2.49,-0.94,8.0,2023,119
+3.0,9:41,1.0,10.0,BAL 30,14.0,7.0,Justice Hill left tackle for 2 yards (tackle by BJ Ojulari),0.94,0.66,8.0,2023,119
+3.0,9:03,2.0,8.0,BAL 32,14.0,7.0,Lamar Jackson pass complete short left to Mark Andrews for 13 yards (tackle by Kyzir White and Jalen Thompson),0.66,1.93,8.0,2023,119
+3.0,8:20,1.0,10.0,BAL 45,14.0,7.0,Lamar Jackson pass incomplete short right,1.93,1.38,8.0,2023,119
+3.0,8:11,2.0,10.0,BAL 45,14.0,7.0,Lamar Jackson pass complete short right to Zay Flowers for 2 yards (tackle by Antonio Hamilton),1.38,0.96,8.0,2023,119
+3.0,7:31,3.0,8.0,BAL 47,14.0,7.0,Lamar Jackson pass incomplete deep right intended for Odell Beckham,0.96,-0.26,8.0,2023,119
+3.0,7:27,4.0,8.0,BAL 47,14.0,7.0,"Jordan Stout punts 45 yards, fair catch by Rondale Moore at ARI-8",-0.26,0.38,8.0,2023,119
+3.0,7:20,1.0,10.0,ARI 8,14.0,7.0,Emari Demercado up the middle for no gain (tackle by Travis Jones),-0.38,-0.78,8.0,2023,119
+3.0,6:45,2.0,10.0,ARI 8,14.0,7.0,Emari Demercado left tackle for 5 yards (tackle by Travis Jones),-0.78,-0.84,8.0,2023,119
+3.0,6:08,3.0,5.0,ARI 13,14.0,7.0,Joshua Dobbs pass complete short middle to Trey McBride for 8 yards (tackle by Kyle Hamilton and Roquan Smith),-0.84,0.34,8.0,2023,119
+3.0,5:31,1.0,10.0,ARI 21,14.0,7.0,Rondale Moore left end for 6 yards (tackle by Geno Stone and Odafe Oweh),0.34,0.61,8.0,2023,119
+3.0,4:47,2.0,4.0,ARI 27,14.0,7.0,Emari Demercado up the middle for no gain (tackle by Justin Madubuike and Tavius Robinson),0.61,-0.1,8.0,2023,119
+3.0,4:08,3.0,4.0,ARI 27,14.0,7.0,Joshua Dobbs pass incomplete short left intended for Trey McBride (defended by Kyle Hamilton),-0.1,-1.57,8.0,2023,119
+3.0,4:02,4.0,4.0,ARI 27,14.0,7.0,Blake Gillikin punts 33 yards downed by Geoff Swaim,-1.57,-1.6,8.0,2023,119
+3.0,3:52,1.0,10.0,BAL 40,14.0,7.0,Gus Edwards up the middle for 2 yards (tackle by Budda Baker),1.6,1.32,8.0,2023,119
+3.0,3:16,2.0,8.0,BAL 42,14.0,7.0,Lamar Jackson sacked by BJ Ojulari for -10 yards,1.32,-0.69,8.0,2023,119
+3.0,2:33,3.0,18.0,BAL 32,14.0,7.0,Lamar Jackson pass complete short left to Justice Hill for 14 yards (tackle by Budda Baker),-0.69,-0.32,8.0,2023,119
+3.0,1:57,4.0,4.0,BAL 46,14.0,7.0,"Jordan Stout punts 44 yards, fair catch by Rondale Moore at ARI-10",-0.32,0.38,8.0,2023,119
+3.0,1:51,1.0,10.0,ARI 10,14.0,7.0,Joshua Dobbs pass short left intended for Trey McBride is intercepted by Geno Stone at ARI-24 and returned for 1 yard,-0.38,-4.04,8.0,2023,119
+3.0,1:45,1.0,10.0,ARI 23,14.0,7.0,Lamar Jackson pass complete short right to Isaiah Likely for 10 yards (tackle by Jalen Thompson),4.04,4.71,8.0,2023,119
+3.0,1:12,1.0,10.0,ARI 13,14.0,7.0,Gus Edwards up the middle for 6 yards (tackle by Jonathan Ledbetter and Jesse Luketa),4.71,5.15,8.0,2023,119
+3.0,0:45,2.0,4.0,ARI 7,20.0,7.0,"Gus Edwards left tackle for 7 yards, touchdown",5.15,7.0,8.0,2023,119
+3.0,0:40,,,ARI 15,21.0,7.0,Justin Tucker kicks extra point good,0.0,0.0,8.0,2023,119
+3.0,0:40,,,BAL 35,21.0,7.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,119
+3.0,0:40,1.0,10.0,ARI 25,21.0,7.0,Keaontay Ingram right tackle for -5 yards (tackle by Arthur Maulet),0.61,-0.61,8.0,2023,119
+3.0,0:01,2.0,15.0,ARI 20,21.0,7.0,Joshua Dobbs pass complete short left to Trey McBride for -3 yards (tackle by Kyle Hamilton),-0.61,-1.93,8.0,2023,119
+4.0,15:00,3.0,18.0,ARI 17,21.0,7.0,Joshua Dobbs pass complete short left to Emari Demercado for 1 yard (tackle by Brandon Stephens),-1.93,-2.24,8.0,2023,119
+4.0,14:25,4.0,17.0,ARI 18,21.0,7.0,"Blake Gillikin punts 58 yards, returned by Devin Duvernay for 9 yards (tackle by Elijah Higgins and Owen Pappoe)",-2.24,-1.14,8.0,2023,119
+4.0,14:16,1.0,10.0,BAL 33,21.0,7.0,Gus Edwards right tackle for 8 yards (tackle by Kyzir White and Jonathan Ledbetter),1.14,1.67,8.0,2023,119
+4.0,13:40,2.0,2.0,BAL 41,21.0,7.0,Gus Edwards up the middle for 7 yards (tackle by Jalen Thompson),1.67,2.13,8.0,2023,119
+4.0,12:59,1.0,10.0,BAL 48,21.0,7.0,Gus Edwards up the middle for 5 yards (tackle by Jonathan Ledbetter),2.13,2.26,8.0,2023,119
+4.0,12:24,2.0,5.0,ARI 47,21.0,7.0,Gus Edwards left tackle for 10 yards (tackle by Zaven Collins and Cameron Thomas),2.26,3.12,8.0,2023,119
+4.0,11:39,1.0,10.0,ARI 37,21.0,7.0,Lamar Jackson pass incomplete deep left intended for Nelson Agholor (no play),3.12,2.79,8.0,2023,119
+4.0,11:39,1.0,15.0,ARI 42,21.0,7.0,Justice Hill up the middle for 7 yards (tackle by Marco Wilson),2.79,2.84,8.0,2023,119
+4.0,11:00,2.0,8.0,ARI 35,21.0,7.0,Lamar Jackson sacked by Ben Stille for no gain,2.84,2.15,8.0,2023,119
+4.0,10:19,3.0,8.0,ARI 35,21.0,7.0,Lamar Jackson pass complete short right to Rashod Bateman for 5 yards (tackle by Starling Thomas),2.15,1.48,8.0,2023,119
+4.0,9:33,4.0,3.0,ARI 30,24.0,7.0,Justin Tucker 48 yard field goal good,1.48,3.0,8.0,2023,119
+4.0,9:27,,,BAL 35,24.0,7.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,119
+4.0,9:27,1.0,10.0,ARI 25,24.0,7.0,Joshua Dobbs pass complete short left to Marquise Brown for 8 yards (tackle by Patrick Queen),0.61,1.14,8.0,2023,119
+4.0,9:08,2.0,2.0,ARI 33,24.0,7.0,Joshua Dobbs pass complete short middle to Rondale Moore for 4 yards (tackle by Patrick Queen),1.14,1.4,8.0,2023,119
+4.0,8:46,1.0,10.0,ARI 37,24.0,7.0,Joshua Dobbs scrambles left end for 5 yards (tackle by Geno Stone),1.4,1.53,8.0,2023,119
+4.0,8:19,2.0,5.0,ARI 42,24.0,7.0,Joshua Dobbs pass complete short left to Trey McBride for 3 yards (tackle by Brandon Stephens),1.53,1.22,8.0,2023,119
+4.0,7:58,3.0,2.0,ARI 45,24.0,7.0,Keaontay Ingram up the middle for 14 yards (tackle by Kyle Hamilton),1.22,2.85,8.0,2023,119
+4.0,7:40,1.0,10.0,BAL 41,24.0,7.0,Joshua Dobbs pass complete deep left to Michael Wilson for 29 yards (tackle by Kevon Seymour and Geno Stone),2.85,4.78,8.0,2023,119
+4.0,7:13,1.0,10.0,BAL 12,24.0,7.0,Joshua Dobbs pass incomplete short left intended for Michael Wilson,4.78,4.1,8.0,2023,119
+4.0,7:10,2.0,10.0,BAL 12,24.0,7.0,Joshua Dobbs sacked by Justin Madubuike for -5 yards,4.1,2.84,8.0,2023,119
+4.0,6:44,3.0,15.0,BAL 17,24.0,13.0,"Joshua Dobbs pass complete short middle to Trey McBride for 17 yards, touchdown",2.84,7.0,8.0,2023,119
+4.0,6:32,,,BAL 2,24.0,15.0,"Two Point Attempt: Joshua Dobbs rushes, conversion succeeds.",1.0,1.0,8.0,2023,119
+4.0,6:32,,,ARI 35,24.0,15.0,"Matt Prater kicks off 59 yards,",0.0,0.61,8.0,2023,119
+4.0,6:32,1.0,10.0,BAL 25,24.0,15.0,Gus Edwards right tackle for 6 yards (tackle by Victor Dimukeje),0.61,0.87,8.0,2023,119
+4.0,6:26,,,,,,Timeout #1 by Arizona Cardinals,,,8.0,2023,119
+4.0,6:26,2.0,4.0,BAL 31,24.0,15.0,Gus Edwards left tackle for 3 yards (tackle by Budda Baker),0.87,0.56,8.0,2023,119
+4.0,6:22,,,,,,Timeout #2 by Arizona Cardinals,,,8.0,2023,119
+4.0,6:22,3.0,1.0,BAL 34,24.0,15.0,Gus Edwards right tackle for 3 yards (tackle by Dante Stills),0.56,1.4,8.0,2023,119
+4.0,6:17,,,,,,Timeout #3 by Arizona Cardinals,,,8.0,2023,119
+4.0,6:17,1.0,10.0,BAL 37,24.0,15.0,Gus Edwards left tackle for -3 yards (tackle by Kyzir White),1.4,0.45,8.0,2023,119
+4.0,5:39,2.0,13.0,BAL 34,24.0,15.0,"Rashod Bateman left end for 18 yards (tackle by Marco Wilson). Penalty on Jalen Thompson: Unnecessary Roughness / Defense, 15 yards (accepted)",0.45,3.38,8.0,2023,119
+4.0,5:06,1.0,10.0,ARI 33,24.0,15.0,Lamar Jackson right end for 13 yards (tackle by Jalen Thompson),3.38,4.24,8.0,2023,119
+4.0,4:23,1.0,10.0,ARI 20,24.0,15.0,Justice Hill right tackle for no gain (tackle by Dante Stills),4.24,3.69,8.0,2023,119
+4.0,3:43,2.0,10.0,ARI 20,24.0,15.0,Lamar Jackson up the middle for 3 yards (tackle by Jonathan Ledbetter),3.69,3.36,8.0,2023,119
+4.0,3:01,3.0,7.0,ARI 17,24.0,15.0,"Lamar Jackson pass incomplete deep right intended for Odell Beckham. Penalty on Antonio Hamilton: Defensive Pass Interference, 16 yards (accepted) (no play)",3.36,6.97,8.0,2023,119
+4.0,2:56,1.0,1.0,ARI 1,30.0,15.0,"Gus Edwards up the middle for 1 yard, touchdown",6.97,7.0,8.0,2023,119
+4.0,2:51,,,ARI 15,31.0,15.0,Justin Tucker kicks extra point good,0.0,0.0,8.0,2023,119
+4.0,2:51,,,BAL 35,31.0,15.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,119
+4.0,2:51,1.0,10.0,ARI 25,31.0,15.0,Joshua Dobbs pass complete short left to Michael Wilson for 14 yards (tackle by Brandon Stephens),0.61,1.53,8.0,2023,119
+4.0,2:24,1.0,10.0,ARI 39,31.0,15.0,"Joshua Dobbs pass complete deep left to Trey McBride for 21 yards (tackle by Geno Stone) Replay Assistant challenged the runner was in bounds ruling, and the original play was overturned. Joshua Dobbs pass complete deep left to Trey McBride for 21 yards (tackle by Geno Stone)",1.53,2.92,8.0,2023,119
+4.0,2:22,1.0,10.0,BAL 40,31.0,15.0,Joshua Dobbs pass complete short middle to Keaontay Ingram for 7 yards (tackle by Roquan Smith),2.92,3.32,8.0,2023,119
+4.0,2:05,2.0,3.0,BAL 33,31.0,15.0,Joshua Dobbs pass complete short right to Trey McBride for 8 yards (tackle by Roquan Smith),3.32,3.91,8.0,2023,119
+4.0,2:00,1.0,10.0,BAL 25,31.0,15.0,Joshua Dobbs scrambles right end for 13 yards (tackle by Patrick Queen),3.91,4.78,8.0,2023,119
+4.0,1:53,1.0,10.0,BAL 12,31.0,15.0,Joshua Dobbs pass complete short left to Rondale Moore for 6 yards (tackle by Brandon Stephens),4.78,5.21,8.0,2023,119
+4.0,1:46,2.0,4.0,BAL 6,31.0,15.0,Joshua Dobbs pass incomplete short right intended for Marquise Brown,5.21,4.38,8.0,2023,119
+4.0,1:41,3.0,4.0,BAL 6,31.0,15.0,Joshua Dobbs pass complete short right to Trey McBride for 3 yards (tackle by Kyle Hamilton),4.38,3.06,8.0,2023,119
+4.0,1:20,4.0,1.0,BAL 3,31.0,15.0,"Penalty on Tavius Robinson: Defensive Offside, 2 yards (accepted) (no play)",3.06,6.97,8.0,2023,119
+4.0,1:20,1.0,1.0,BAL 1,31.0,15.0,Joshua Dobbs pass incomplete short right intended for Trey McBride,6.97,5.91,8.0,2023,119
+4.0,1:18,2.0,1.0,BAL 1,31.0,21.0,"Joshua Dobbs pass complete short left to Marquise Brown for 1 yard, touchdown",5.91,7.0,8.0,2023,119
+4.0,1:14,,,,,,Timeout #1 by Baltimore Ravens,,,8.0,2023,119
+4.0,1:14,,,BAL 2,31.0,21.0,"Two Point Attempt: Joshua Dobbs rushes, conversion succeeds.. Penalty on Paris Johnson: Offensive Holding, 10 yards (accepted) (no play)",1.0,1.0,8.0,2023,119
+4.0,1:14,,,BAL 12,31.0,21.0,Two Point Attempt: Joshua Dobbs pass incomplete to Marquise Brown for no gain,1.0,-1.0,8.0,2023,119
+4.0,1:14,,,,,,Timeout #2 by Baltimore Ravens,,,8.0,2023,119
+4.0,1:14,,,ARI 35,31.0,21.0,"Matt Prater kicks onside 14 yards, recovered by Owen Pappoe",0.0,-2.26,8.0,2023,119
+4.0,1:11,1.0,10.0,ARI 50,31.0,21.0,Joshua Dobbs pass complete short left to Marquise Brown for 4 yards (tackle by Roquan Smith),2.26,2.25,8.0,2023,119
+4.0,1:02,2.0,6.0,BAL 46,31.0,21.0,Joshua Dobbs pass incomplete deep left intended for Marquise Brown,2.25,1.55,8.0,2023,119
+4.0,0:59,3.0,6.0,BAL 46,31.0,21.0,Joshua Dobbs pass complete short middle to Trey McBride for 22 yards (tackle by Patrick Queen),1.55,3.97,8.0,2023,119
+4.0,0:34,1.0,10.0,BAL 24,31.0,21.0,Joshua Dobbs pass incomplete deep left intended for Zach Pascal,3.97,3.43,8.0,2023,119
+4.0,0:29,2.0,10.0,BAL 24,31.0,21.0,"Penalty on Leki Fotu: False Start, 5 yards (accepted) (no play)",3.43,2.76,8.0,2023,119
+4.0,0:29,2.0,15.0,BAL 29,31.0,24.0,Matt Prater 47 yard field goal good,2.76,3.0,8.0,2023,119
+4.0,0:26,,,ARI 35,31.0,24.0,"Matt Prater kicks onside 13 yards,",0.0,2.39,8.0,2023,119
+4.0,0:25,1.0,10.0,ARI 48,31.0,24.0,Lamar Jackson kneels for -1 yards,2.39,1.71,8.0,2023,119

@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,CHI 25,9,3:39,75,Touchdown,0,Bears,9.0,2023,129
+2,1,9:28,CHI 14,7,3:40,27,Interception,0,Bears,9.0,2023,129
+3,1,0:44,CHI 25,6,2:52,75,Touchdown,0,Bears,9.0,2023,129
+4,2,6:05,CHI 25,13,5:37,53,Missed FG,0,Bears,9.0,2023,129
+5,3,13:44,CHI 23,2,0:45,16,Fumble,0,Bears,9.0,2023,129
+6,3,11:43,CHI 25,13,8:16,62,Field Goal,0,Bears,9.0,2023,129
+7,3,1:05,CHI 9,3,2:06,6,Punt,0,Bears,9.0,2023,129
+8,4,11:05,CHI 25,2,0:07,0,Interception,0,Bears,9.0,2023,129
+9,4,7:29,CHI 17,6,2:21,12,Interception,0,Bears,9.0,2023,129
+10,4,3:41,CHI 2,3,0:56,6,Punt,0,Bears,9.0,2023,129
+11,4,2:26,CHI 37,2,0:21,-14,Fumble,0,Bears,9.0,2023,129

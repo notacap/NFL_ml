@@ -1,0 +1,188 @@
+Quarter,Time,Down,ToGo,Location,DEN,SEA,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Broncos won the coin toss and deferred, Seahawks to receive the opening kickoff.",,,1.0,2024,11
+1.0,15:00,,,DEN 35,0.0,0.0,"Wil Lutz kicks off 66 yards, returned by Laviska Shenault for 31 yards (tackle by JL Skinner)",0.0,0.94,1.0,2024,11
+1.0,14:55,1.0,10.0,SEA 30,0.0,0.0,Geno Smith sacked by Jonathon Cooper for -7 yards,0.94,-0.55,1.0,2024,11
+1.0,14:22,2.0,17.0,SEA 23,0.0,0.0,Geno Smith pass deep middle intended for Tyler Lockett is intercepted by Alex Singleton at SEA-41 and returned for 21 yards (tackle by Jaxon Smith-Njigba),-0.55,-4.24,1.0,2024,11
+1.0,14:12,1.0,10.0,SEA 20,0.0,0.0,Javonte Williams left tackle for 9 yards (tackle by Rayshawn Jenkins),4.24,5.26,1.0,2024,11
+1.0,13:27,2.0,1.0,SEA 11,0.0,0.0,Javonte Williams up the middle for -1 yards (tackle by Johnathan Hankins),5.26,4.34,1.0,2024,11
+1.0,12:47,3.0,2.0,SEA 12,0.0,0.0,Bo Nix pass incomplete short right intended for Javonte Williams,4.34,2.76,1.0,2024,11
+1.0,12:40,4.0,2.0,SEA 12,0.0,0.0,"Penalty on Wil Lutz: Delay of Game, 5 yards (accepted) (no play)",2.76,2.31,1.0,2024,11
+1.0,12:40,4.0,7.0,SEA 17,3.0,0.0,Wil Lutz 35 yard field goal good,2.31,3.0,1.0,2024,11
+1.0,12:36,,,DEN 35,3.0,0.0,"Wil Lutz kicks off 67 yards, returned by Laviska Shenault for 29 yards (tackle by Kristian Welch and Michael Burton)",0.0,0.74,1.0,2024,11
+1.0,12:31,1.0,10.0,SEA 27,3.0,0.0,"Penalty on Laviska Shenault: False Start, 5 yards (accepted) (no play)",0.74,0.41,1.0,2024,11
+1.0,12:31,1.0,15.0,SEA 22,3.0,0.0,Kenneth Walker left guard for 8 yards (tackle by Cody Barton),0.41,0.6,1.0,2024,11
+1.0,11:47,2.0,7.0,SEA 30,3.0,0.0,Geno Smith pass complete short right to Noah Fant for 2 yards (tackle by Brandon Jones),0.6,0.17,1.0,2024,11
+1.0,11:09,3.0,5.0,SEA 32,3.0,0.0,Geno Smith pass incomplete deep right intended for D.K. Metcalf (defended by Patrick Surtain),0.17,-1.24,1.0,2024,11
+1.0,11:04,4.0,5.0,SEA 32,3.0,0.0,"Michael Dickson punts 44 yards, returned by Marvin Mims for 11 yards (tackle by Laviska Shenault)",-1.24,-1.27,1.0,2024,11
+1.0,10:54,1.0,10.0,DEN 35,3.0,0.0,Bo Nix pass complete short right to Jaleel McLaughlin for 3 yards (tackle by Tyrel Dodson and Devon Witherspoon),1.27,1.13,1.0,2024,11
+1.0,10:15,2.0,7.0,DEN 38,3.0,0.0,Bo Nix pass complete short left to Jaleel McLaughlin for -2 yards (tackle by Julian Love),1.13,0.17,1.0,2024,11
+1.0,9:50,3.0,9.0,DEN 36,3.0,0.0,Bo Nix pass complete short right to Devaughn Vele for 4 yards (tackle by Rayshawn Jenkins),0.17,-0.72,1.0,2024,11
+1.0,9:11,4.0,5.0,DEN 40,3.0,0.0,"Riley Dixon punts 39 yards, fair catch by Dee Williams at SEA-21",-0.72,-0.34,1.0,2024,11
+1.0,9:04,1.0,10.0,SEA 21,3.0,0.0,"Kenneth Walker left guard for 3 yards (tackle by Nik Bonitto and Kristian Welch). Penalty on Anthony Bradford: Offensive Holding, 10 yards (accepted)",0.34,-0.44,1.0,2024,11
+1.0,8:38,1.0,17.0,SEA 14,3.0,0.0,Kenneth Walker up the middle for -3 yards (tackle by Riley Moss),-0.44,-1.51,1.0,2024,11
+1.0,8:00,2.0,20.0,SEA 11,3.0,0.0,Geno Smith pass complete short right to Noah Fant for 9 yards (tackle by Riley Moss and Alex Singleton),-1.51,-1.02,1.0,2024,11
+1.0,7:18,3.0,11.0,SEA 20,3.0,0.0,Geno Smith pass incomplete short right intended for Noah Fant,-1.02,-2.03,1.0,2024,11
+1.0,7:14,4.0,11.0,SEA 20,3.0,0.0,"Michael Dickson punts 52 yards, returned by Marvin Mims for 5 yards (tackle by Marquise Blair and Drake Thomas)",-2.03,-1.14,1.0,2024,11
+1.0,7:02,1.0,10.0,DEN 33,3.0,0.0,Javonte Williams right end for 3 yards (tackle by Julian Love),1.14,1.0,1.0,2024,11
+1.0,6:25,2.0,7.0,DEN 36,3.0,0.0,Jaleel McLaughlin right end for 4 yards (tackle by Devon Witherspoon),1.0,0.83,1.0,2024,11
+1.0,5:47,3.0,3.0,DEN 40,3.0,0.0,Bo Nix pass incomplete short left intended for Lil'Jordan Humphrey,0.83,-0.72,1.0,2024,11
+1.0,5:44,4.0,3.0,DEN 40,3.0,0.0,"Riley Dixon punts 38 yards, fair catch by Dee Williams at SEA-22",-0.72,-0.41,1.0,2024,11
+1.0,5:38,1.0,10.0,SEA 22,3.0,0.0,Zach Charbonnet left guard for 4 yards (tackle by P.J. Locke),0.41,0.41,1.0,2024,11
+1.0,5:16,2.0,6.0,SEA 26,3.0,0.0,Geno Smith pass complete short right to Jaxon Smith-Njigba for 9 yards (tackle by Riley Moss and Brandon Jones),0.41,1.27,1.0,2024,11
+1.0,4:52,1.0,10.0,SEA 35,3.0,0.0,"Penalty on Jonathon Cooper: Neutral Zone Infraction, 5 yards (accepted) (no play)",1.27,2.0,1.0,2024,11
+1.0,4:39,1.0,5.0,SEA 40,3.0,0.0,Geno Smith pass complete short right to Jaxon Smith-Njigba for 10 yards (tackle by Patrick Surtain),2.0,2.26,1.0,2024,11
+1.0,3:59,1.0,10.0,DEN 50,3.0,0.0,"Geno Smith pass incomplete deep right intended for D.K. Metcalf. Penalty on Nik Bonitto: Roughing the Passer, 15 yards (accepted) . Penalty on Patrick Surtain: Defensive Holding, 5 yards (declined) (no play)",2.26,3.25,1.0,2024,11
+1.0,3:56,1.0,10.0,DEN 35,3.0,0.0,Geno Smith pass complete short left to Laviska Shenault for no gain (tackle by Ja'Quan McMillian and Riley Moss),3.25,2.7,1.0,2024,11
+1.0,3:20,2.0,10.0,DEN 35,3.0,0.0,Kenneth Walker right tackle for 3 yards (tackle by Brandon Jones and Ja'Quan McMillian),2.7,2.41,1.0,2024,11
+1.0,2:49,3.0,7.0,DEN 32,3.0,0.0,Geno Smith pass incomplete short right intended for Dareke Young,2.41,1.24,1.0,2024,11
+1.0,2:46,4.0,7.0,DEN 32,3.0,3.0,Jason Myers 50 yard field goal good,1.24,3.0,1.0,2024,11
+1.0,2:41,,,SEA 35,3.0,3.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,11
+1.0,2:41,1.0,10.0,DEN 30,3.0,3.0,Bo Nix pass complete short right to Courtland Sutton for 4 yards (tackle by Boye Mafe),0.94,0.93,1.0,2024,11
+1.0,2:03,2.0,6.0,DEN 34,3.0,3.0,Bo Nix pass complete short left to Josh Reynolds for 3 yards (tackle by Julian Love),0.93,0.63,1.0,2024,11
+1.0,1:21,3.0,3.0,DEN 37,3.0,3.0,"Bo Nix scrambles right end for 2 yards (tackle by Devon Witherspoon) DEN challenged the short of the line to gain ruling, and the original play was overturned. Bo Nix scrambles right end for 3 yards (tackle by Devon Witherspoon)",0.63,1.6,1.0,2024,11
+1.0,0:56,1.0,10.0,DEN 40,3.0,3.0,Bo Nix pass incomplete deep middle intended for Courtland Sutton,1.6,1.05,1.0,2024,11
+1.0,0:51,2.0,10.0,DEN 40,3.0,3.0,Bo Nix pass complete short left to Devaughn Vele for 9 yards (tackle by Tyrel Dodson),1.05,1.55,1.0,2024,11
+1.0,0:09,3.0,1.0,DEN 49,3.0,3.0,Javonte Williams right end for 4 yards (tackle by Julian Love),1.55,2.46,1.0,2024,11
+2.0,15:00,1.0,10.0,SEA 47,3.0,3.0,"Audric Estime right guard for 12 yards. Audric Estime fumbles (forced by Julian Love), recovered by Adam Trautman at SEA-35 and returned for 2 yards (tackle by Julian Love)",2.46,3.38,1.0,2024,11
+2.0,14:13,1.0,10.0,SEA 33,3.0,3.0,Javonte Williams up the middle for 4 yards (tackle by Dre'Mont Jones),3.38,3.38,1.0,2024,11
+2.0,13:32,2.0,6.0,SEA 29,3.0,3.0,Jaleel McLaughlin left end for 7 yards (tackle by Julian Love),3.38,4.11,1.0,2024,11
+2.0,12:51,1.0,10.0,SEA 22,3.0,3.0,Bo Nix pass complete short right to Devaughn Vele for 3 yards (tackle by Devon Witherspoon),4.11,3.97,1.0,2024,11
+2.0,12:15,2.0,7.0,SEA 19,3.0,3.0,Bo Nix pass complete short right to Jaleel McLaughlin for -2 yards (tackle by Jerome Baker),3.97,3.01,1.0,2024,11
+2.0,11:34,3.0,9.0,SEA 21,3.0,3.0,Bo Nix pass deep left intended for Courtland Sutton is intercepted by Julian Love at SEA-1 and returned for no gain (tackle by Courtland Sutton),3.01,0.38,1.0,2024,11
+2.0,11:28,1.0,10.0,SEA 1,5.0,3.0,"Geno Smith pass incomplete short left intended for D.K. Metcalf. Penalty on Anthony Bradford: Offensive Holding, 1 yard (accepted)",-0.38,-2.0,1.0,2024,11
+2.0,11:22,,,SEA 20,5.0,3.0,"Jason Myers kicks off 65 yards, returned by Marvin Mims for 17 yards (tackle by Brady Russell)",0.0,1.07,1.0,2024,11
+2.0,11:18,1.0,10.0,DEN 32,5.0,3.0,Bo Nix scrambles up the middle for 4 yards (tackle by Tyrel Dodson),1.07,1.07,1.0,2024,11
+2.0,10:35,2.0,6.0,DEN 36,5.0,3.0,Bo Nix pass incomplete short right intended for Greg Dulcich,1.07,0.37,1.0,2024,11
+2.0,10:31,3.0,6.0,DEN 36,5.0,3.0,Bo Nix pass incomplete short middle intended for Courtland Sutton,0.37,-0.98,1.0,2024,11
+2.0,10:26,4.0,6.0,DEN 36,5.0,3.0,"Riley Dixon punts 54 yards, recovered by JL Skinner at SEA-10",-0.98,5.14,1.0,2024,11
+2.0,10:15,1.0,9.0,SEA 9,5.0,3.0,"Penalty on Bo Nix: False Start, 5 yards (accepted) (no play)",5.14,4.44,1.0,2024,11
+2.0,10:15,1.0,14.0,SEA 14,5.0,3.0,Jaleel McLaughlin up the middle for 1 yard (tackle by Devon Witherspoon and Boye Mafe),4.44,3.72,1.0,2024,11
+2.0,9:34,2.0,13.0,SEA 13,5.0,3.0,Javonte Williams left guard for 2 yards (tackle by Riq Woolen and Julian Love),3.72,3.12,1.0,2024,11
+2.0,8:52,3.0,11.0,SEA 11,5.0,3.0,Bo Nix pass incomplete short middle intended for Courtland Sutton,3.12,2.7,1.0,2024,11
+2.0,8:48,4.0,11.0,SEA 11,8.0,3.0,Wil Lutz 30 yard field goal good,2.7,3.0,1.0,2024,11
+2.0,8:45,,,DEN 35,8.0,3.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,11
+2.0,8:45,1.0,10.0,SEA 30,8.0,3.0,Kenneth Walker left tackle for 3 yards (tackle by Malcolm Roach and Baron Browning),0.94,0.8,1.0,2024,11
+2.0,8:05,2.0,7.0,SEA 33,8.0,3.0,"Geno Smith pass incomplete short left intended for D.K. Metcalf. Penalty on Patrick Surtain: Defensive Pass Interference, 6 yards (accepted) (no play)",0.8,1.53,1.0,2024,11
+2.0,8:00,1.0,10.0,SEA 39,8.0,3.0,Kenneth Walker left guard for -4 yards (tackle by Cody Barton and Baron Browning),1.53,0.45,1.0,2024,11
+2.0,7:14,2.0,14.0,SEA 35,8.0,3.0,Geno Smith pass complete short middle to D.K. Metcalf for 12 yards (tackle by Patrick Surtain),0.45,1.36,1.0,2024,11
+2.0,6:38,3.0,2.0,SEA 47,8.0,3.0,Geno Smith pass complete deep left to Tyler Lockett for 19 yards (tackle by Brandon Jones),1.36,3.31,1.0,2024,11
+2.0,6:04,1.0,10.0,DEN 34,8.0,9.0,"Geno Smith scrambles up the middle for 34 yards, touchdown",3.31,7.0,1.0,2024,11
+2.0,5:55,,,DEN 2,8.0,9.0,Two Point Attempt: Geno Smith pass incomplete intended for intended for D.K. Metcalf,1.0,-1.0,1.0,2024,11
+2.0,5:55,,,SEA 35,8.0,9.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,11
+2.0,5:55,1.0,10.0,DEN 30,8.0,9.0,Bo Nix pass incomplete short left intended for Josh Reynolds (defended by Devon Witherspoon),0.94,0.39,1.0,2024,11
+2.0,5:49,2.0,10.0,DEN 30,8.0,9.0,Jaleel McLaughlin right end for 1 yard (tackle by Tyrel Dodson),0.39,-0.16,1.0,2024,11
+2.0,5:18,,,,,,Timeout #1 by Seattle Seahawks,,,1.0,2024,11
+2.0,5:18,3.0,9.0,DEN 31,8.0,9.0,Bo Nix pass complete short left to Michael Burton for 3 yards (tackle by Rayshawn Jenkins),-0.16,-1.11,1.0,2024,11
+2.0,4:47,4.0,6.0,DEN 34,8.0,9.0,Riley Dixon punts 65 yards downed by JL Skinner,-1.11,0.38,1.0,2024,11
+2.0,4:36,1.0,10.0,SEA 1,10.0,9.0,"Zach Charbonnet right guard for -1 yards (tackle by Zach Allen and Jonathon Cooper), safety.",-0.38,-2.0,1.0,2024,11
+2.0,4:24,,,SEA 20,10.0,9.0,"Jason Myers kicks off 70 yards, returned by Marvin Mims for 26 yards (tackle by Coby Bryant)",0.0,1.33,1.0,2024,11
+2.0,4:14,1.0,10.0,DEN 36,10.0,9.0,Javonte Williams right guard for 2 yards (tackle by Byron Murphy),1.33,1.06,1.0,2024,11
+2.0,3:41,2.0,8.0,DEN 38,10.0,9.0,Bo Nix pass complete short left to Javonte Williams for no gain (tackle by Tyrel Dodson),1.06,0.37,1.0,2024,11
+2.0,2:57,,,,,,Timeout #1 by Denver Broncos,,,1.0,2024,11
+2.0,2:57,3.0,8.0,DEN 38,10.0,9.0,Bo Nix pass complete deep left to Courtland Sutton for 17 yards (tackle by Julian Love),0.37,2.59,1.0,2024,11
+2.0,2:12,1.0,10.0,SEA 45,10.0,9.0,Jaleel McLaughlin up the middle for 4 yards (tackle by Derick Hall and Johnathan Hankins),2.59,2.58,1.0,2024,11
+2.0,2:00,2.0,6.0,SEA 41,10.0,9.0,Bo Nix pass incomplete short middle intended for Marvin Mims (defended by Tyrel Dodson),2.58,1.88,1.0,2024,11
+2.0,1:56,3.0,6.0,SEA 41,10.0,9.0,Bo Nix sacked by Boye Mafe for -6 yards,1.88,0.13,1.0,2024,11
+2.0,1:48,4.0,12.0,SEA 47,10.0,9.0,Riley Dixon punts 37 yards out of bounds,0.13,0.38,1.0,2024,11
+2.0,1:41,1.0,10.0,SEA 10,10.0,9.0,Geno Smith sacked by Jonathon Cooper for -6 yards,-0.38,-1.22,1.0,2024,11
+2.0,1:33,,,,,,Timeout #2 by Denver Broncos,,,1.0,2024,11
+2.0,1:33,2.0,16.0,SEA 4,10.0,9.0,Geno Smith pass complete short left to Kenneth Walker for -2 yards (tackle by P.J. Locke and Zach Allen),-1.22,-2.36,1.0,2024,11
+2.0,1:28,,,,,,Timeout #3 by Denver Broncos,,,1.0,2024,11
+2.0,1:28,3.0,18.0,SEA 2,10.0,9.0,Kenneth Walker up the middle for 9 yards (tackle by Ja'Quan McMillian),-2.36,-2.49,1.0,2024,11
+2.0,0:42,,,,,,Timeout #2 by Seattle Seahawks,,,1.0,2024,11
+2.0,0:42,4.0,9.0,SEA 11,10.0,9.0,"Michael Dickson punts 52 yards, returned by Marvin Mims for 10 yards (tackle by Marquise Blair)",-2.49,-2.06,1.0,2024,11
+2.0,0:31,1.0,10.0,DEN 47,10.0,9.0,Bo Nix scrambles right end for 1 yard (tackle by Tyrel Dodson),2.06,1.65,1.0,2024,11
+2.0,0:24,2.0,9.0,DEN 48,10.0,9.0,Bo Nix pass incomplete deep middle intended for Josh Reynolds (defended by Riq Woolen),1.65,0.96,1.0,2024,11
+2.0,0:19,,,,,,Timeout #3 by Seattle Seahawks,,,1.0,2024,11
+2.0,0:19,3.0,9.0,DEN 48,10.0,9.0,Bo Nix pass complete deep left to Josh Reynolds for 25 yards (tackle by Tre Brown),0.96,3.78,1.0,2024,11
+2.0,0:13,1.0,10.0,SEA 27,10.0,9.0,Bo Nix sacked by Derick Hall for no gain,3.78,3.23,1.0,2024,11
+2.0,0:07,2.0,10.0,SEA 27,13.0,9.0,Wil Lutz 45 yard field goal good,3.23,3.0,1.0,2024,11
+2.0,0:02,,,DEN 35,13.0,9.0,"Wil Lutz kicks off 63 yards, returned by Laviska Shenault for 14 yards (tackle by Justin Strnad)",0.0,1.27,1.0,2024,11
+3.0,15:00,,,SEA 35,13.0,9.0,"Jason Myers kicks off 64 yards, returned by Marvin Mims for 26 yards (tackle by Dareke Young)",0.0,0.74,1.0,2024,11
+3.0,14:55,1.0,10.0,DEN 27,13.0,9.0,Jaleel McLaughlin right tackle for -4 yards (tackle by Boye Mafe),0.74,-0.34,1.0,2024,11
+3.0,14:13,2.0,14.0,DEN 23,13.0,9.0,Bo Nix pass incomplete short left intended for Adam Trautman,-0.34,-1.02,1.0,2024,11
+3.0,14:10,3.0,14.0,DEN 23,13.0,9.0,"Penalty on Bo Nix: Delay of Game, 5 yards (accepted) (no play)",-1.02,-1.88,1.0,2024,11
+3.0,14:10,3.0,19.0,DEN 18,13.0,9.0,Bo Nix pass complete short right to Jaleel McLaughlin for 1 yard (tackle by Jerome Baker),-1.88,-2.14,1.0,2024,11
+3.0,13:36,4.0,18.0,DEN 19,13.0,9.0,"Riley Dixon punts 42 yards, fair catch by Dee Williams at SEA-39",-2.14,-1.53,1.0,2024,11
+3.0,13:31,1.0,10.0,SEA 39,13.0,9.0,Kenneth Walker left guard for 5 yards (tackle by Alex Singleton and Jonathon Cooper),1.53,1.66,1.0,2024,11
+3.0,13:10,2.0,5.0,SEA 44,13.0,9.0,Geno Smith pass complete deep right to Tyler Lockett for 13 yards (tackle by Riley Moss),1.66,2.72,1.0,2024,11
+3.0,12:40,1.0,10.0,DEN 43,13.0,9.0,Kenneth Walker right tackle for 6 yards (tackle by Alex Singleton and Riley Moss),2.72,2.99,1.0,2024,11
+3.0,12:05,2.0,4.0,DEN 37,13.0,9.0,Kenneth Walker right guard for 15 yards (tackle by Brandon Jones),2.99,4.11,1.0,2024,11
+3.0,11:43,1.0,10.0,DEN 22,13.0,9.0,"Penalty on Stone Forsythe: False Start, 5 yards (accepted) (no play)",4.11,3.78,1.0,2024,11
+3.0,11:27,1.0,15.0,DEN 27,13.0,9.0,Kenneth Walker right tackle for 4 yards (tackle by Alex Singleton),3.78,3.43,1.0,2024,11
+3.0,10:51,2.0,11.0,DEN 23,13.0,15.0,"Kenneth Walker up the middle for 23 yards, touchdown",3.43,7.0,1.0,2024,11
+3.0,10:44,,,DEN 15,13.0,16.0,Jason Myers kicks extra point good,0.0,0.0,1.0,2024,11
+3.0,10:44,,,SEA 35,13.0,16.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,11
+3.0,10:44,1.0,10.0,DEN 30,13.0,16.0,Bo Nix pass complete short right to Devaughn Vele for 2 yards (tackle by Julian Love),0.94,0.66,1.0,2024,11
+3.0,10:03,2.0,8.0,DEN 32,13.0,16.0,Jaleel McLaughlin right guard for 15 yards (tackle by Julian Love),0.66,2.06,1.0,2024,11
+3.0,9:23,1.0,10.0,DEN 47,13.0,16.0,Audric Estime left guard for 2 yards (tackle by Leonard Williams and Jerome Baker),2.06,1.79,1.0,2024,11
+3.0,8:42,2.0,8.0,DEN 49,13.0,16.0,Jaleel McLaughlin left end for -3 yards (tackle by Tyrel Dodson and Jerome Baker),1.79,0.7,1.0,2024,11
+3.0,8:12,3.0,11.0,DEN 46,13.0,16.0,"Bo Nix pass complete short left to Jaleel McLaughlin for 1 yard. Jaleel McLaughlin fumbles (forced by K'Von Wallace), recovered by Jerome Baker at DEN-47",0.7,-2.46,1.0,2024,11
+3.0,8:03,1.0,10.0,DEN 47,13.0,16.0,Zach Charbonnet left end for 6 yards (tackle by P.J. Locke and Riley Moss),2.46,2.72,1.0,2024,11
+3.0,7:29,2.0,4.0,DEN 41,13.0,16.0,Zach Charbonnet right guard for 3 yards (tackle by D.J. Jones),2.72,2.41,1.0,2024,11
+3.0,6:49,3.0,1.0,DEN 38,13.0,16.0,Kenneth Walker right guard for 2 yards (tackle by John Franklin-Myers),2.41,3.18,1.0,2024,11
+3.0,6:10,1.0,10.0,DEN 36,13.0,16.0,"Geno Smith pass incomplete deep right intended for Jaxon Smith-Njigba. Penalty on Ja'Quan McMillian: Defensive Pass Interference, 14 yards (accepted) (no play)",3.18,4.11,1.0,2024,11
+3.0,6:04,1.0,10.0,DEN 22,13.0,16.0,Kenneth Walker right guard for 8 yards (tackle by Riley Moss),4.11,4.85,1.0,2024,11
+3.0,5:31,2.0,2.0,DEN 14,13.0,16.0,Geno Smith pass complete short right to Kenneth Walker for 8 yards (tackle by Brandon Jones),4.85,5.83,1.0,2024,11
+3.0,4:52,1.0,6.0,DEN 6,13.0,16.0,"Kenneth Walker right end for 2 yards, touchdown. Penalty on D.K. Metcalf: Offensive Holding, 10 yards (accepted)",5.83,4.44,1.0,2024,11
+3.0,4:48,1.0,14.0,DEN 14,13.0,16.0,Geno Smith pass incomplete short right intended for Noah Fant,4.44,3.58,1.0,2024,11
+3.0,4:45,2.0,14.0,DEN 14,13.0,16.0,Kenneth Walker left guard for 4 yards (tackle by Patrick Surtain and Baron Browning),3.58,3.13,1.0,2024,11
+3.0,4:19,3.0,10.0,DEN 10,13.0,16.0,Geno Smith pass incomplete short left intended for Kenneth Walker,3.13,2.76,1.0,2024,11
+3.0,4:12,4.0,10.0,DEN 10,13.0,19.0,Jason Myers 28 yard field goal good,2.76,3.0,1.0,2024,11
+3.0,4:09,,,SEA 35,13.0,19.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,11
+3.0,4:09,1.0,10.0,DEN 30,13.0,19.0,Jaleel McLaughlin left guard for 1 yard (tackle by Mike Morris),0.94,0.53,1.0,2024,11
+3.0,3:30,2.0,9.0,DEN 31,13.0,19.0,Bo Nix pass complete short left to Devaughn Vele for 4 yards (tackle by Rayshawn Jenkins),0.53,0.37,1.0,2024,11
+3.0,2:48,3.0,5.0,DEN 35,13.0,19.0,Bo Nix pass incomplete short right intended for Courtland Sutton (defended by Tre Brown),0.37,-1.04,1.0,2024,11
+3.0,2:46,4.0,5.0,DEN 35,13.0,19.0,"Riley Dixon punts 65 yards, touchback.",-1.04,-0.28,1.0,2024,11
+3.0,2:37,1.0,10.0,SEA 20,13.0,19.0,Kenneth Walker right guard for no gain (tackle by Alex Singleton and Kristian Welch),0.28,-0.27,1.0,2024,11
+3.0,2:02,2.0,10.0,SEA 20,13.0,19.0,Kenneth Walker left tackle for 12 yards (tackle by Alex Singleton),-0.27,1.07,1.0,2024,11
+3.0,1:35,1.0,10.0,SEA 32,13.0,19.0,Geno Smith pass complete short right to Tyler Lockett for 16 yards (tackle by Riley Moss),1.07,2.13,1.0,2024,11
+3.0,0:57,1.0,10.0,SEA 48,13.0,19.0,Geno Smith pass complete short left to D.K. Metcalf for 11 yards (tackle by Patrick Surtain),2.13,2.85,1.0,2024,11
+3.0,0:15,1.0,10.0,DEN 41,13.0,19.0,Geno Smith pass complete short right to Tyler Lockett for 11 yards (tackle by Riley Moss),2.85,3.58,1.0,2024,11
+4.0,15:00,1.0,10.0,DEN 30,13.0,25.0,"Geno Smith pass complete deep right to Zach Charbonnet for 30 yards, touchdown",3.58,7.0,1.0,2024,11
+4.0,14:54,,,DEN 15,13.0,26.0,Jason Myers kicks extra point good,0.0,0.0,1.0,2024,11
+4.0,14:54,,,SEA 35,13.0,26.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,11
+4.0,14:54,1.0,10.0,DEN 30,13.0,26.0,Javonte Williams right guard for no gain (tackle by Devon Witherspoon and Byron Murphy),0.94,0.39,1.0,2024,11
+4.0,14:12,2.0,10.0,DEN 30,13.0,26.0,Bo Nix pass complete short right to Devaughn Vele for 4 yards (tackle by Rayshawn Jenkins),0.39,0.23,1.0,2024,11
+4.0,13:43,3.0,6.0,DEN 34,13.0,26.0,Bo Nix pass complete short middle to Greg Dulcich for 5 yards (tackle by Tyrel Dodson),0.23,-0.78,1.0,2024,11
+4.0,13:07,4.0,1.0,DEN 39,13.0,26.0,Riley Dixon punts 49 yards downed by Keidron Smith,-0.78,0.35,1.0,2024,11
+4.0,12:59,1.0,10.0,SEA 12,13.0,26.0,Kenneth Walker right tackle for -4 yards (tackle by Alex Singleton and Jonathon Cooper),-0.35,-1.07,1.0,2024,11
+4.0,12:15,2.0,14.0,SEA 8,13.0,26.0,Geno Smith pass complete short left to Tyler Lockett for 9 yards (tackle by Riley Moss),-1.07,-0.84,1.0,2024,11
+4.0,11:38,3.0,5.0,SEA 17,13.0,26.0,Geno Smith pass complete short right to D.K. Metcalf for 6 yards (tackle by Patrick Surtain),-0.84,0.48,1.0,2024,11
+4.0,10:57,1.0,10.0,SEA 23,13.0,26.0,Laviska Shenault left end for 1 yard (tackle by Ja'Quan McMillian and Alex Singleton),0.48,0.07,1.0,2024,11
+4.0,10:11,2.0,9.0,SEA 24,13.0,26.0,Kenneth Walker left guard for 7 yards (tackle by P.J. Locke),0.07,0.3,1.0,2024,11
+4.0,9:30,3.0,2.0,SEA 31,13.0,26.0,Geno Smith pass complete short right to Zach Charbonnet for -1 yards (tackle by John Franklin-Myers and Alex Singleton),0.3,-1.37,1.0,2024,11
+4.0,8:47,4.0,3.0,SEA 30,13.0,26.0,"Michael Dickson punts 50 yards, returned by Marvin Mims for 3 yards (tackle by Dareke Young)",-1.37,-0.48,1.0,2024,11
+4.0,8:37,1.0,10.0,DEN 23,13.0,26.0,Bo Nix pass complete short middle to Devaughn Vele for 6 yards (tackle by Julian Love and Tyrel Dodson),0.48,0.74,1.0,2024,11
+4.0,8:11,2.0,4.0,DEN 29,13.0,26.0,Bo Nix pass complete short left to Devaughn Vele for 7 yards (tackle by Tyrel Dodson),0.74,1.33,1.0,2024,11
+4.0,7:34,1.0,10.0,DEN 36,13.0,26.0,Bo Nix pass incomplete deep right intended for Courtland Sutton,1.33,0.79,1.0,2024,11
+4.0,7:26,2.0,10.0,DEN 36,13.0,26.0,Jaleel McLaughlin right guard for 1 yard (tackle by Mike Morris and Leonard Williams),0.79,0.23,1.0,2024,11
+4.0,6:46,3.0,9.0,DEN 37,13.0,26.0,Bo Nix pass complete short left to Greg Dulcich for 7 yards (tackle by Devon Witherspoon),0.23,-0.46,1.0,2024,11
+4.0,6:05,4.0,2.0,DEN 44,13.0,26.0,Bo Nix pass complete short middle to Josh Reynolds for 7 yards (tackle by Rayshawn Jenkins),-0.46,2.32,1.0,2024,11
+4.0,5:40,1.0,10.0,SEA 49,13.0,26.0,Bo Nix pass incomplete deep left intended for Courtland Sutton,2.32,1.78,1.0,2024,11
+4.0,5:37,2.0,10.0,SEA 49,13.0,26.0,Bo Nix pass short right intended for Courtland Sutton is intercepted by Riq Woolen at SEA-34 and returned for 4 yards,1.78,-1.47,1.0,2024,11
+4.0,5:30,1.0,10.0,SEA 38,13.0,26.0,Zach Charbonnet right end for 1 yard (tackle by Jonathon Cooper and Patrick Surtain),1.47,1.06,1.0,2024,11
+4.0,4:50,2.0,9.0,SEA 39,13.0,26.0,"Geno Smith pass complete short right to Jaxon Smith-Njigba for no gain (tackle by Cody Barton). Penalty on D.K. Metcalf: Offensive Pass Interference, 10 yards (accepted) (no play)",1.06,-0.29,1.0,2024,11
+4.0,4:44,,,,,,Timeout #1 by Seattle Seahawks,,,1.0,2024,11
+4.0,4:44,2.0,19.0,SEA 29,13.0,26.0,Geno Smith pass incomplete short right intended for Zach Charbonnet,-0.29,-0.96,1.0,2024,11
+4.0,4:42,3.0,19.0,SEA 29,13.0,26.0,Zach Charbonnet left guard for no gain (tackle by Baron Browning and Malcolm Roach),-0.96,-1.44,1.0,2024,11
+4.0,4:37,,,,,,Timeout #1 by Denver Broncos,,,1.0,2024,11
+4.0,4:37,4.0,19.0,SEA 29,13.0,26.0,"Michael Dickson punts 43 yards, returned by Marvin Mims for 18 yards (tackle by Zach Charbonnet)",-1.44,-1.99,1.0,2024,11
+4.0,4:28,1.0,10.0,DEN 46,13.0,26.0,Bo Nix scrambles left end for 23 yards (tackle by Riq Woolen),1.99,3.51,1.0,2024,11
+4.0,4:20,1.0,10.0,SEA 31,13.0,26.0,Bo Nix pass incomplete short middle intended for Josh Reynolds,3.51,2.97,1.0,2024,11
+4.0,4:17,2.0,10.0,SEA 31,13.0,26.0,Bo Nix pass complete short left to Courtland Sutton for 7 yards (tackle by Jerome Baker),2.97,3.2,1.0,2024,11
+4.0,3:35,3.0,3.0,SEA 24,13.0,26.0,Bo Nix pass complete short right to Josh Reynolds for 5 yards (tackle by Tre Brown),3.2,4.31,1.0,2024,11
+4.0,3:10,1.0,10.0,SEA 19,13.0,26.0,Bo Nix pass complete short right to Josh Reynolds for 5 yards (tackle by Tre Brown),4.31,4.53,1.0,2024,11
+4.0,2:43,2.0,5.0,SEA 14,13.0,26.0,Bo Nix pass complete short middle to Courtland Sutton for 10 yards (tackle by Julian Love and Riq Woolen),4.53,6.28,1.0,2024,11
+4.0,2:17,1.0,4.0,SEA 4,19.0,26.0,"Bo Nix scrambles right end for 4 yards, touchdown",6.28,7.0,1.0,2024,11
+4.0,2:09,,,SEA 15,20.0,26.0,Wil Lutz kicks extra point good,0.0,0.0,1.0,2024,11
+4.0,2:09,,,DEN 35,20.0,26.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,11
+4.0,2:09,1.0,10.0,SEA 30,20.0,26.0,Zach Charbonnet left guard for no gain (tackle by D.J. Jones),0.94,0.39,1.0,2024,11
+4.0,2:00,2.0,10.0,SEA 30,20.0,26.0,Zach Charbonnet right end for -1 yards (tackle by Baron Browning and D.J. Jones),0.39,-0.43,1.0,2024,11
+4.0,1:54,,,,,,Timeout #2 by Denver Broncos,,,1.0,2024,11
+4.0,1:54,3.0,11.0,SEA 29,20.0,26.0,"Geno Smith pass complete short left to Noah Fant for no gain (tackle by P.J. Locke and Alex Singleton). Penalty on Baron Browning: Defensive Offside, 5 yards (accepted) (no play)",-0.43,0.23,1.0,2024,11
+4.0,1:48,3.0,6.0,SEA 34,20.0,26.0,Geno Smith pass complete short right to Tyler Lockett for 9 yards (tackle by Riley Moss),0.23,1.8,1.0,2024,11
+4.0,1:40,,,,,,Timeout #3 by Denver Broncos,,,1.0,2024,11
+4.0,1:40,1.0,10.0,SEA 43,20.0,26.0,Geno Smith kneels for -2 yards,1.8,0.98,1.0,2024,11
+4.0,0:59,2.0,12.0,SEA 41,20.0,26.0,Geno Smith kneels for -1 yards,0.98,0.17,1.0,2024,11
+4.0,0:38,3.0,13.0,SEA 40,20.0,26.0,Geno Smith kneels for -1 yards,0.17,-0.78,1.0,2024,11

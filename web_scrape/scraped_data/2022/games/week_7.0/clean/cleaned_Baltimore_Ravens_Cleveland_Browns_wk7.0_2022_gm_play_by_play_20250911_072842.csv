@@ -1,0 +1,165 @@
+Quarter,Time,Down,ToGo,Location,CLE,BAL,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Ravens won the coin toss and deferred, Browns to receive the opening kickoff.",,,7.0,2022,98
+1.0,15:00,,,BAL 35,0.0,0.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,98
+1.0,15:00,1.0,10.0,CLE 25,0.0,0.0,Nick Chubb left guard for 5 yards (tackle by Travis Jones and Patrick Queen),0.61,0.74,7.0,2022,98
+1.0,14:24,2.0,5.0,CLE 30,0.0,0.0,Jacoby Brissett pass complete short middle to Nick Chubb for 14 yards (tackle by Josh Bynes and Marlon Humphrey),0.74,1.86,7.0,2022,98
+1.0,13:44,1.0,10.0,CLE 44,0.0,0.0,Nick Chubb left end for 2 yards (tackle by Calais Campbell),1.86,1.59,7.0,2022,98
+1.0,13:10,2.0,8.0,CLE 46,0.0,0.0,Jacoby Brissett pass complete short middle to Harrison Bryant for 14 yards (tackle by Kristian Welch),1.59,2.92,7.0,2022,98
+1.0,12:34,1.0,10.0,BAL 40,0.0,0.0,Jacoby Brissett pass complete short right to David Njoku for 22 yards (tackle by Chuck Clark),2.92,4.37,7.0,2022,98
+1.0,12:00,1.0,10.0,BAL 18,0.0,0.0,Nick Chubb left end for 3 yards (tackle by Devon Kennard),4.37,4.15,7.0,2022,98
+1.0,11:19,2.0,8.0,BAL 15,0.0,0.0,Jacoby Brissett pass complete short right to Donovan Peoples-Jones for 2 yards (tackle by Marlon Humphrey),4.15,3.82,7.0,2022,98
+1.0,10:34,3.0,5.0,BAL 13,0.0,0.0,Jacoby Brissett pass complete short right to David Njoku for 4 yards (tackle by Patrick Queen),3.82,2.98,7.0,2022,98
+1.0,10:07,4.0,1.0,BAL 9,0.0,0.0,Jacoby Brissett up the middle for 1 yard (tackle by Jason Pierre-Paul),2.98,5.37,7.0,2022,98
+1.0,9:13,1.0,8.0,BAL 8,0.0,0.0,Nick Chubb left end for 6 yards (tackle by Geno Stone and Malik Harrison),5.37,5.72,7.0,2022,98
+1.0,8:33,2.0,2.0,BAL 2,6.0,0.0,"Nick Chubb right end for 2 yards, touchdown",5.72,7.0,7.0,2022,98
+1.0,8:23,,,BAL 15,7.0,0.0,Cade York kicks extra point good,0.0,0.0,7.0,2022,98
+1.0,8:23,,,CLE 35,7.0,0.0,"Cade York kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,98
+1.0,8:23,1.0,10.0,BAL 25,7.0,0.0,Gus Edwards right tackle for 4 yards (tackle by Jacob Phillips),0.61,0.6,7.0,2022,98
+1.0,7:41,2.0,6.0,BAL 29,7.0,0.0,Gus Edwards left tackle for 3 yards (tackle by Jeremiah Owusu-Koramoah and Sione Takitaki),0.6,0.3,7.0,2022,98
+1.0,7:10,3.0,3.0,BAL 32,7.0,0.0,Gus Edwards right tackle for 12 yards (tackle by Jordan Elliott and John Johnson),0.3,1.86,7.0,2022,98
+1.0,6:25,1.0,10.0,BAL 44,7.0,0.0,Kenyan Drake right guard for 4 yards (tackle by Grant Delpit),1.86,1.86,7.0,2022,98
+1.0,5:41,2.0,6.0,BAL 48,7.0,0.0,Lamar Jackson pass complete deep right to Devin Duvernay for 31 yards (tackle by Martin Emerson),1.86,4.17,7.0,2022,98
+1.0,5:02,1.0,10.0,CLE 21,7.0,0.0,Kenyan Drake left tackle for 1 yard (tackle by Sione Takitaki and Tommy Togiai),4.17,3.76,7.0,2022,98
+1.0,4:23,2.0,9.0,CLE 20,7.0,0.0,Gus Edwards up the middle for 6 yards (tackle by Greedy Williams and Grant Delpit),3.76,4.02,7.0,2022,98
+1.0,3:39,3.0,3.0,CLE 14,7.0,0.0,Lamar Jackson pass incomplete short left intended for Mark Andrews,4.02,2.61,7.0,2022,98
+1.0,3:31,4.0,3.0,CLE 14,7.0,3.0,Justin Tucker 32 yard field goal good,2.61,3.0,7.0,2022,98
+1.0,3:27,,,BAL 35,7.0,3.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,98
+1.0,3:27,1.0,10.0,CLE 25,7.0,3.0,Jacoby Brissett pass complete deep left to Amari Cooper for 55 yards (tackle by Geno Stone),0.61,4.24,7.0,2022,98
+1.0,2:49,1.0,10.0,BAL 20,7.0,3.0,Nick Chubb left guard for no gain (tackle by Broderick Washington),4.24,3.69,7.0,2022,98
+1.0,2:09,2.0,10.0,BAL 20,7.0,3.0,"Penalty on Jedrick Wills: False Start, 5 yards (accepted) (no play)",3.69,3.02,7.0,2022,98
+1.0,1:52,2.0,15.0,BAL 25,7.0,3.0,Jacoby Brissett pass complete short middle to David Njoku for 10 yards (tackle by Patrick Queen and Kyle Hamilton),3.02,3.7,7.0,2022,98
+1.0,1:07,3.0,5.0,BAL 15,7.0,3.0,Jacoby Brissett sacked by Kyle Hamilton for -8 yards,3.7,1.93,7.0,2022,98
+1.0,0:25,4.0,13.0,BAL 23,10.0,3.0,Cade York 41 yard field goal good,1.93,3.0,7.0,2022,98
+1.0,0:18,,,CLE 35,10.0,3.0,"Cade York kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,98
+1.0,0:18,1.0,10.0,BAL 25,10.0,3.0,Lamar Jackson pass incomplete short right intended for Gus Edwards,0.61,0.06,7.0,2022,98
+1.0,0:12,2.0,10.0,BAL 25,10.0,3.0,Lamar Jackson sacked by Myles Garrett for -7 yards,0.06,-1.72,7.0,2022,98
+2.0,15:00,3.0,17.0,BAL 18,10.0,3.0,"Lamar Jackson scrambles left end for 7 yards (tackle by Ronnie Harrison) CLE challenged the runner was down by contact ruling, and the play was upheld.",-1.72,-1.7,7.0,2022,98
+2.0,14:17,4.0,10.0,BAL 25,10.0,3.0,"Jordan Stout punts 69 yards, returned by Donovan Peoples-Jones for 6 yards (tackle by Geno Stone)",-1.7,0.35,7.0,2022,98
+2.0,14:06,1.0,10.0,CLE 12,10.0,3.0,Kareem Hunt left end for -5 yards (tackle by Patrick Queen),-0.35,-1.15,7.0,2022,98
+2.0,13:28,2.0,15.0,CLE 7,10.0,3.0,Kareem Hunt up the middle for -4 yards (tackle by Patrick Queen),-1.15,-2.47,7.0,2022,98
+2.0,12:48,3.0,19.0,CLE 3,10.0,3.0,Kareem Hunt left tackle for 5 yards (tackle by Odafe Oweh and Calais Campbell),-2.47,-2.49,7.0,2022,98
+2.0,12:04,4.0,14.0,CLE 8,10.0,3.0,"Corey Bojorquez punts 59 yards, returned by Devin Duvernay for 46 yards (tackle by Sione Takitaki)",-2.49,-4.17,7.0,2022,98
+2.0,11:43,1.0,10.0,CLE 21,10.0,3.0,Gus Edwards right tackle for 5 yards (tackle by Jacob Phillips),4.17,4.37,7.0,2022,98
+2.0,10:58,2.0,5.0,CLE 16,10.0,3.0,Gus Edwards right tackle for no gain (tackle by Myles Garrett),4.37,3.63,7.0,2022,98
+2.0,10:12,3.0,5.0,CLE 16,10.0,3.0,Lamar Jackson pass incomplete short middle intended for Kenyan Drake (defended by Jeremiah Owusu-Koramoah),3.63,2.43,7.0,2022,98
+2.0,10:09,4.0,5.0,CLE 16,10.0,6.0,Justin Tucker 34 yard field goal good,2.43,3.0,7.0,2022,98
+2.0,10:05,,,BAL 35,10.0,6.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,98
+2.0,10:05,1.0,10.0,CLE 25,10.0,6.0,Nick Chubb left guard for 2 yards (tackle by Calais Campbell),0.61,0.33,7.0,2022,98
+2.0,9:32,2.0,8.0,CLE 27,10.0,6.0,"Jacoby Brissett pass complete to Pharaoh Brown for no gain (tackle by Geno Stone and Brent Urban). Penalty on Jedrick Wills: Offensive Holding, 10 yards (accepted) (no play)",0.33,-1.15,7.0,2022,98
+2.0,9:01,2.0,18.0,CLE 17,10.0,6.0,Jacoby Brissett pass incomplete short right,-1.15,-1.93,7.0,2022,98
+2.0,8:55,3.0,18.0,CLE 17,10.0,6.0,Jacoby Brissett pass complete short right to David Njoku for 7 yards (tackle by Damarion Williams and Patrick Queen),-1.93,-1.77,7.0,2022,98
+2.0,8:20,4.0,11.0,CLE 24,10.0,6.0,"Corey Bojorquez punts 76 yards, touchback.",-1.77,-0.28,7.0,2022,98
+2.0,8:08,1.0,10.0,BAL 20,10.0,6.0,Kenyan Drake left guard for -2 yards (tackle by Alex Wright),0.28,-0.63,7.0,2022,98
+2.0,7:28,2.0,12.0,BAL 18,10.0,6.0,Lamar Jackson pass complete short middle to Patrick Ricard for 1 yard (tackle by Greg Newsome),-0.63,-1.14,7.0,2022,98
+2.0,6:45,3.0,11.0,BAL 19,10.0,6.0,Lamar Jackson pass complete short right to Rashod Bateman for 26 yards (tackle by Greedy Williams),-1.14,1.93,7.0,2022,98
+2.0,6:08,1.0,10.0,BAL 45,10.0,6.0,Gus Edwards left tackle for 2 yards (tackle by Alex Wright),1.93,1.65,7.0,2022,98
+2.0,5:28,2.0,8.0,BAL 47,10.0,6.0,Gus Edwards right end for 6 yards (tackle by Jeremiah Owusu-Koramoah and Jordan Elliott),1.65,1.75,7.0,2022,98
+2.0,4:48,3.0,2.0,CLE 47,10.0,6.0,Lamar Jackson up the middle for 10 yards (tackle by Deion Jones),1.75,3.12,7.0,2022,98
+2.0,4:04,1.0,10.0,CLE 37,10.0,6.0,Gus Edwards right end for 4 yards (tackle by Myles Garrett),3.12,3.11,7.0,2022,98
+2.0,3:23,2.0,6.0,CLE 33,10.0,6.0,Lamar Jackson pass complete short middle to Isaiah Likely for 16 yards (tackle by Deion Jones),3.11,4.44,7.0,2022,98
+2.0,2:35,1.0,10.0,CLE 17,10.0,6.0,Lamar Jackson scrambles right end for 10 yards (tackle by Grant Delpit),4.44,5.6,7.0,2022,98
+2.0,2:00,1.0,7.0,CLE 7,10.0,12.0,"Gus Edwards left tackle for 7 yards, touchdown",5.6,7.0,7.0,2022,98
+2.0,1:57,,,CLE 15,10.0,13.0,Justin Tucker kicks extra point good,0.0,0.0,7.0,2022,98
+2.0,1:57,,,BAL 35,10.0,13.0,"Justin Tucker kicks off 70 yards, returned by D'Ernest Johnson for 27 yards (tackle by Kyle Hamilton). Penalty on Dakota Allen: Offensive Holding, 10 yards (accepted)",0.0,-0.35,7.0,2022,98
+2.0,1:53,1.0,10.0,CLE 12,10.0,13.0,Jacoby Brissett pass complete short middle to David Njoku for 7 yards (tackle by Chuck Clark),-0.35,0.1,7.0,2022,98
+2.0,1:43,2.0,3.0,CLE 19,10.0,13.0,Jacoby Brissett pass complete short middle to David Njoku for 18 yards (tackle by Chuck Clark and Josh Bynes),0.1,1.4,7.0,2022,98
+2.0,1:21,1.0,10.0,CLE 37,10.0,13.0,Jacoby Brissett pass complete short right to Amari Cooper for 8 yards,1.4,1.94,7.0,2022,98
+2.0,1:09,2.0,2.0,CLE 45,10.0,13.0,Jacoby Brissett pass incomplete short middle intended for Kareem Hunt,1.94,1.22,7.0,2022,98
+2.0,1:05,3.0,2.0,CLE 45,10.0,13.0,"Jacoby Brissett pass incomplete intended for Amari Cooper. Penalty on Marcus Peters: Defensive Pass Interference, 15 yards (accepted) (no play)",1.22,2.92,7.0,2022,98
+2.0,1:01,1.0,10.0,BAL 40,10.0,13.0,Jacoby Brissett sacked by Justin Houston for -1 yards,2.92,2.24,7.0,2022,98
+2.0,0:53,,,,,,Timeout #2 by Cleveland Browns,,,7.0,2022,98
+2.0,0:53,2.0,11.0,BAL 41,10.0,13.0,"Jacoby Brissett sacked by Justin Houston for -9 yards. Jacoby Brissett fumbles (forced by Justin Houston), recovered by Ethan Pocic at 50 (tackle by Justin Houston)",2.24,0.37,7.0,2022,98
+2.0,0:43,,,,,,Timeout #1 by Baltimore Ravens,,,7.0,2022,98
+2.0,0:43,3.0,20.0,BAL 50,10.0,13.0,Jacoby Brissett pass complete short middle to Kareem Hunt for 4 yards (tackle by Marcus Peters and Jason Pierre-Paul),0.37,0.2,7.0,2022,98
+2.0,0:35,,,,,,Timeout #2 by Baltimore Ravens,,,7.0,2022,98
+2.0,0:35,4.0,16.0,BAL 46,10.0,13.0,Corey Bojorquez punts 38 yards downed by Herb Miller,0.2,0.38,7.0,2022,98
+2.0,0:25,1.0,10.0,BAL 8,10.0,13.0,Lamar Jackson kneels for -1 yards,-0.38,-0.85,7.0,2022,98
+3.0,15:00,,,CLE 35,10.0,13.0,"Cade York kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,98
+3.0,15:00,1.0,10.0,BAL 25,10.0,13.0,Lamar Jackson sacked by Martin Emerson for -7 yards,0.61,-0.98,7.0,2022,98
+3.0,14:22,2.0,17.0,BAL 18,10.0,13.0,Lamar Jackson pass incomplete short middle intended for Mark Andrews (defended by Jeremiah Owusu-Koramoah),-0.98,-1.72,7.0,2022,98
+3.0,14:20,3.0,17.0,BAL 18,10.0,13.0,Lamar Jackson sacked by Taven Bryan for -12 yards,-1.72,-2.49,7.0,2022,98
+3.0,13:36,4.0,29.0,BAL 6,10.0,13.0,"Jordan Stout punts 62 yards, returned by Donovan Peoples-Jones for 8 yards (tackle by Kristian Welch)",-2.49,-1.6,7.0,2022,98
+3.0,13:23,1.0,10.0,CLE 40,10.0,13.0,Jacoby Brissett sacked by Patrick Queen for -5 yards,1.6,0.38,7.0,2022,98
+3.0,12:42,2.0,15.0,CLE 35,10.0,13.0,Jacoby Brissett pass complete short left to Nick Chubb for 2 yards (tackle by Geno Stone),0.38,-0.03,7.0,2022,98
+3.0,12:06,3.0,13.0,CLE 37,10.0,13.0,"Jacoby Brissett sacked by Calais Campbell for -12 yards. Jacoby Brissett fumbles (forced by Calais Campbell), recovered by Odafe Oweh at CLE-25 (tackle by Calais Campbell)",-0.03,-3.91,7.0,2022,98
+3.0,11:57,1.0,10.0,CLE 25,10.0,13.0,Gus Edwards right tackle for 1 yard (tackle by Jacob Phillips),3.91,3.5,7.0,2022,98
+3.0,11:15,2.0,9.0,CLE 24,10.0,13.0,Kenyan Drake right end for 2 yards (tackle by Jeremiah Owusu-Koramoah),3.5,3.07,7.0,2022,98
+3.0,10:46,3.0,7.0,CLE 22,10.0,13.0,"Lamar Jackson pass incomplete intended for Devin Duvernay. Penalty on Grant Delpit: Defensive Holding, 5 yards (accepted) (no play)",3.07,4.44,7.0,2022,98
+3.0,10:34,1.0,10.0,CLE 17,10.0,13.0,Lamar Jackson left end for 7 yards (tackle by Grant Delpit),4.44,5.1,7.0,2022,98
+3.0,10:04,2.0,3.0,CLE 10,10.0,13.0,Lamar Jackson up the middle for 5 yards (tackle by Ronnie Harrison),5.1,6.06,7.0,2022,98
+3.0,9:24,1.0,5.0,CLE 5,10.0,13.0,Kenyan Drake left end for no gain (tackle by Isaiah Thomas),6.06,5.15,7.0,2022,98
+3.0,8:30,2.0,5.0,CLE 5,10.0,13.0,Lamar Jackson pass incomplete short middle intended for Josh Oliver (defended by Grant Delpit),5.15,4.26,7.0,2022,98
+3.0,8:25,3.0,5.0,CLE 5,10.0,13.0,Lamar Jackson pass complete short middle to Rashod Bateman for 4 yards (tackle by Martin Emerson),4.26,3.55,7.0,2022,98
+3.0,7:45,4.0,1.0,CLE 1,10.0,19.0,"Gus Edwards left tackle for 1 yard, touchdown",3.55,7.0,7.0,2022,98
+3.0,7:39,,,CLE 15,10.0,20.0,Justin Tucker kicks extra point good,0.0,0.0,7.0,2022,98
+3.0,7:39,,,BAL 35,10.0,20.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,98
+3.0,7:39,1.0,10.0,CLE 25,10.0,20.0,Nick Chubb right tackle for 5 yards (tackle by Josh Bynes and Travis Jones),0.61,0.74,7.0,2022,98
+3.0,7:06,2.0,5.0,CLE 30,10.0,20.0,Nick Chubb left tackle for 6 yards (tackle by Chuck Clark and Patrick Queen),0.74,1.33,7.0,2022,98
+3.0,6:30,1.0,10.0,CLE 36,10.0,20.0,Nick Chubb left guard for 4 yards (tackle by Brent Urban and Justin Madubuike),1.33,1.33,7.0,2022,98
+3.0,5:59,2.0,6.0,CLE 40,10.0,20.0,"Jacoby Brissett pass incomplete intended for David Njoku. Penalty on Geno Stone: Defensive Pass Interference, 23 yards (accepted) (no play)",1.33,3.12,7.0,2022,98
+3.0,5:52,1.0,10.0,BAL 37,10.0,20.0,Nick Chubb up the middle for 1 yard (tackle by Chuck Clark and Broderick Washington),3.12,2.71,7.0,2022,98
+3.0,5:28,2.0,9.0,BAL 36,10.0,20.0,Jacoby Brissett pass complete short middle to Donovan Peoples-Jones for 7 yards (tackle by Marlon Humphrey),2.71,2.94,7.0,2022,98
+3.0,4:51,3.0,2.0,BAL 29,10.0,20.0,Jacoby Brissett pass complete short middle to David Njoku for 3 yards (tackle by Josh Bynes and Chuck Clark),2.94,3.84,7.0,2022,98
+3.0,4:21,1.0,10.0,BAL 26,10.0,20.0,Nick Chubb right end for 4 yards (tackle by Geno Stone),3.84,3.84,7.0,2022,98
+3.0,3:37,2.0,6.0,BAL 22,10.0,20.0,Jacoby Brissett pass incomplete deep left intended for Amari Cooper,3.84,3.14,7.0,2022,98
+3.0,3:26,3.0,6.0,BAL 22,10.0,20.0,Jacoby Brissett pass complete short middle to Donovan Peoples-Jones for 3 yards (tackle by Marlon Humphrey),3.14,2.28,7.0,2022,98
+3.0,2:45,4.0,3.0,BAL 19,13.0,20.0,Cade York 37 yard field goal good,2.28,3.0,7.0,2022,98
+3.0,2:40,,,CLE 35,13.0,20.0,"Cade York kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,98
+3.0,2:40,1.0,10.0,BAL 25,13.0,20.0,Kenyan Drake left tackle for no gain (tackle by Tommy Togiai),0.61,0.06,7.0,2022,98
+3.0,2:03,2.0,10.0,BAL 25,13.0,20.0,Lamar Jackson pass complete short middle to Patrick Ricard for 19 yards (tackle by Sione Takitaki),0.06,1.86,7.0,2022,98
+3.0,2:01,1.0,10.0,BAL 44,13.0,20.0,"Penalty on James Proche: Unnecessary Roughness / Offense, 15 yards (accepted) (no play)",1.86,0.87,7.0,2022,98
+3.0,1:45,1.0,10.0,BAL 29,13.0,20.0,Kenyan Drake left end for 2 yards (tackle by Sione Takitaki),0.87,0.6,7.0,2022,98
+3.0,1:04,2.0,8.0,BAL 31,13.0,20.0,Lamar Jackson pass complete short middle to Rashod Bateman for 5 yards (tackle by Greedy Williams),0.6,0.56,7.0,2022,98
+3.0,0:15,3.0,3.0,BAL 36,13.0,20.0,Gus Edwards right guard for 6 yards (tackle by Grant Delpit and Deion Jones),0.56,1.8,7.0,2022,98
+4.0,15:00,1.0,10.0,BAL 43,13.0,20.0,Lamar Jackson pass incomplete short left intended for Devin Duvernay (defended by Isaiah Thomas),1.8,1.19,7.0,2022,98
+4.0,14:54,2.0,10.0,BAL 42,13.0,20.0,Justice Hill up the middle for 9 yards (tackle by John Johnson),1.19,1.62,7.0,2022,98
+4.0,14:15,3.0,2.0,CLE 49,13.0,20.0,Patrick Ricard up the middle for no gain (tackle by Myles Garrett),1.62,0.0,7.0,2022,98
+4.0,13:37,4.0,1.0,CLE 49,13.0,20.0,Lamar Jackson left end for 11 yards (tackle by Deion Jones),0.0,3.05,7.0,2022,98
+4.0,12:59,1.0,10.0,CLE 38,13.0,20.0,Gus Edwards left tackle for 4 yards (tackle by Isaiah Thomas and John Johnson),3.05,3.05,7.0,2022,98
+4.0,12:17,2.0,6.0,CLE 34,13.0,20.0,Lamar Jackson up the middle for -3 yards (tackle by Sione Takitaki),3.05,1.95,7.0,2022,98
+4.0,11:38,3.0,9.0,CLE 37,13.0,20.0,Lamar Jackson pass incomplete short left intended for Rashod Bateman,1.95,0.79,7.0,2022,98
+4.0,11:29,4.0,9.0,CLE 37,13.0,23.0,Justin Tucker 55 yard field goal good,0.79,3.0,7.0,2022,98
+4.0,11:24,,,BAL 35,13.0,23.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,98
+4.0,11:24,1.0,10.0,CLE 25,13.0,23.0,Jacoby Brissett scrambles up the middle for 10 yards (tackle by Chuck Clark),0.61,1.27,7.0,2022,98
+4.0,10:47,1.0,10.0,CLE 35,13.0,23.0,Nick Chubb left guard for 12 yards (tackle by Marlon Humphrey and Odafe Oweh),1.27,1.99,7.0,2022,98
+4.0,10:38,1.0,10.0,CLE 46,13.0,23.0,Nick Chubb right end for 12 yards (tackle by Chuck Clark and Damarion Williams),1.99,2.85,7.0,2022,98
+4.0,10:24,1.0,10.0,BAL 41,13.0,23.0,Jacoby Brissett pass complete short right to Amari Cooper for 11 yards (tackle by Marcus Peters),2.85,3.58,7.0,2022,98
+4.0,9:59,1.0,10.0,BAL 30,13.0,23.0,Nick Chubb left tackle for 22 yards (tackle by Geno Stone),3.58,5.37,7.0,2022,98
+4.0,9:24,1.0,8.0,BAL 8,13.0,23.0,Kareem Hunt right end for 6 yards (tackle by Chuck Clark),5.37,5.72,7.0,2022,98
+4.0,9:07,2.0,2.0,BAL 2,19.0,23.0,"Kareem Hunt right tackle for 2 yards, touchdown",5.72,7.0,7.0,2022,98
+4.0,9:00,,,BAL 15,20.0,23.0,Cade York kicks extra point good,0.0,0.0,7.0,2022,98
+4.0,9:00,,,CLE 35,20.0,23.0,"Cade York kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,98
+4.0,9:00,1.0,10.0,BAL 25,20.0,23.0,Lamar Jackson pass complete short middle to Rashod Bateman for 7 yards (tackle by Jacob Phillips),0.61,1.01,7.0,2022,98
+4.0,8:37,2.0,3.0,BAL 32,20.0,23.0,Kenyan Drake right end for 2 yards (tackle by Martin Emerson),1.01,0.56,7.0,2022,98
+4.0,8:11,3.0,1.0,BAL 34,20.0,23.0,Gus Edwards left tackle for 1 yard (tackle by Jacob Phillips),0.56,1.27,7.0,2022,98
+4.0,7:34,1.0,10.0,BAL 35,20.0,23.0,Lamar Jackson pass complete short left to Devin Duvernay for 11 yards (tackle by Jacob Phillips),1.27,1.99,7.0,2022,98
+4.0,6:59,1.0,10.0,BAL 46,20.0,23.0,Gus Edwards right guard for 4 yards (tackle by Jacob Phillips and Tommy Togiai),1.99,1.99,7.0,2022,98
+4.0,6:22,2.0,6.0,BAL 50,20.0,23.0,Justice Hill up the middle for 5 yards (tackle by Perrion Winfrey and Sione Takitaki),1.99,1.95,7.0,2022,98
+4.0,5:40,3.0,1.0,CLE 45,20.0,23.0,Mark Andrews up the middle for 4 yards (tackle by Jordan Elliott),1.95,2.85,7.0,2022,98
+4.0,4:57,1.0,10.0,CLE 41,20.0,23.0,Justice Hill right end for 5 yards (tackle by Jeremiah Owusu-Koramoah),2.85,2.98,7.0,2022,98
+4.0,4:18,2.0,5.0,CLE 36,20.0,23.0,Justice Hill up the middle for 3 yards (tackle by Isaiah Thomas),2.98,2.68,7.0,2022,98
+4.0,3:41,3.0,2.0,CLE 33,20.0,23.0,Lamar Jackson up the middle for 10 yards (tackle by Grant Delpit),2.68,4.04,7.0,2022,98
+4.0,3:24,,,,,,Timeout #1 by Cleveland Browns,,,7.0,2022,98
+4.0,3:24,1.0,10.0,CLE 23,20.0,23.0,Kenyan Drake left tackle for -1 yards (tackle by Deion Jones and Sione Takitaki),4.04,3.36,7.0,2022,98
+4.0,3:20,,,,,,Timeout #2 by Cleveland Browns,,,7.0,2022,98
+4.0,3:20,2.0,11.0,CLE 24,20.0,23.0,"Justice Hill up the middle for 4 yards. Justice Hill fumbles (forced by Jeremiah Owusu-Koramoah), recovered by Isaiah Thomas at CLE-16 (tackle by Jeremiah Owusu-Koramoah) Penalty on BAL: Offensive Holding, 10 yards (declined)",3.36,0.14,7.0,2022,98
+4.0,3:12,1.0,10.0,CLE 16,20.0,23.0,Jacoby Brissett pass incomplete short right intended for Nick Chubb (defended by Jason Pierre-Paul),-0.14,-0.66,7.0,2022,98
+4.0,3:10,2.0,10.0,CLE 16,20.0,23.0,Nick Chubb right end for 5 yards (tackle by Patrick Queen),-0.66,-0.7,7.0,2022,98
+4.0,2:45,3.0,5.0,CLE 21,20.0,23.0,Jacoby Brissett pass complete deep right to Donovan Peoples-Jones for 37 yards (tackle by Geno Stone),-0.7,2.79,7.0,2022,98
+4.0,2:38,1.0,10.0,BAL 42,20.0,23.0,Jacoby Brissett pass complete short middle to Harrison Bryant for 1 yard (tackle by Kyle Hamilton and Patrick Queen),2.79,2.38,7.0,2022,98
+4.0,2:23,,,,,,Timeout #1 by Baltimore Ravens,,,7.0,2022,98
+4.0,2:23,2.0,9.0,BAL 41,20.0,23.0,Jacoby Brissett pass complete short right to David Bell for 7 yards (tackle by Patrick Queen),2.38,2.61,7.0,2022,98
+4.0,2:20,3.0,2.0,BAL 34,20.0,23.0,"Jacoby Brissett pass complete to Amari Cooper for no gain, touchdown. Penalty on Amari Cooper: Offensive Pass Interference, 10 yards (accepted) (no play)",2.61,1.29,7.0,2022,98
+4.0,2:18,3.0,12.0,BAL 44,20.0,23.0,Jacoby Brissett scrambles left end for 7 yards (tackle by Odafe Oweh),1.29,0.79,7.0,2022,98
+4.0,2:08,4.0,5.0,BAL 37,20.0,23.0,"Penalty on Jordan Elliott: False Start, 5 yards (accepted) (no play)",0.79,0.46,7.0,2022,98
+4.0,2:08,4.0,10.0,BAL 42,20.0,23.0,Cade York 60 yard field goal no good blocked by Malik Harrison,0.46,-2.26,7.0,2022,98
+4.0,1:59,1.0,10.0,BAL 50,20.0,23.0,Kenyan Drake left tackle for -2 yards (tackle by John Johnson),2.26,1.44,7.0,2022,98
+4.0,1:55,,,,,,Timeout #3 by Cleveland Browns,,,7.0,2022,98
+4.0,1:55,2.0,12.0,BAL 48,20.0,23.0,Lamar Jackson left end for 3 yards (tackle by Isaiah Thomas and Grant Delpit),1.44,1.16,7.0,2022,98
+4.0,1:08,,,,,,Timeout #2 by Baltimore Ravens,,,7.0,2022,98
+4.0,1:08,3.0,9.0,CLE 49,20.0,23.0,Kenyan Drake right tackle for -1 yards (tackle by Jeremiah Owusu-Koramoah),1.16,-0.06,7.0,2022,98
+4.0,0:24,,,,,,Timeout #3 by Baltimore Ravens,,,7.0,2022,98
+4.0,0:24,4.0,10.0,BAL 50,20.0,23.0,"Jordan Stout punts 50 yards, touchback.",-0.06,-0.28,7.0,2022,98
+4.0,0:16,1.0,10.0,CLE 20,20.0,23.0,Jacoby Brissett pass complete short right to Donovan Peoples-Jones for 3 yards,0.28,0.14,7.0,2022,98
+4.0,0:12,2.0,7.0,CLE 23,20.0,23.0,Jacoby Brissett pass incomplete short left,0.14,-0.56,7.0,2022,98
+4.0,0:07,3.0,7.0,CLE 23,20.0,23.0,"Jacoby Brissett pass complete deep middle to Donovan Peoples-Jones for 19 yards. Donovan Peoples-Jones fumbles (forced by Geno Stone), recovered by Geno Stone at CLE-43 (tackle by Geno Stone)",-0.56,0.0,7.0,2022,98

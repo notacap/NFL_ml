@@ -1,0 +1,179 @@
+Quarter,Time,Down,ToGo,Location,JAX,IND,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Jaguars won the coin toss and deferred, Colts to receive the opening kickoff.",,,1.0,2023,4
+1.0,15:00,,,JAX 35,0.0,0.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,4
+1.0,15:00,1.0,10.0,IND 25,0.0,0.0,Anthony Richardson pass complete short right to Josh Downs for 2 yards (tackle by Andre Cisco and Tre Herndon),0.61,0.33,1.0,2023,4
+1.0,14:30,2.0,8.0,IND 27,0.0,0.0,Anthony Richardson pass incomplete short right intended for Andrew Ogletree,0.33,-0.36,1.0,2023,4
+1.0,14:26,3.0,8.0,IND 27,0.0,0.0,Anthony Richardson sacked by Josh Allen for -2 yards,-0.36,-1.7,1.0,2023,4
+1.0,13:41,4.0,10.0,IND 25,0.0,0.0,Rigoberto Sanchez punts 38 yards out of bounds,-1.7,-1.4,1.0,2023,4
+1.0,13:35,1.0,10.0,JAX 37,0.0,0.0,Trevor Lawrence pass incomplete short middle intended for Zay Jones (defended by Zaire Franklin),1.4,0.86,1.0,2023,4
+1.0,13:32,2.0,10.0,JAX 37,0.0,0.0,Trevor Lawrence pass complete short right to Evan Engram for 6 yards (tackle by Shaquille Leonard),0.86,0.96,1.0,2023,4
+1.0,12:56,3.0,4.0,JAX 43,0.0,0.0,Trevor Lawrence pass incomplete short right intended for Calvin Ridley,0.96,-0.52,1.0,2023,4
+1.0,12:52,4.0,2.0,JAX 43,0.0,0.0,Logan Cooke punts 51 yards downed by Daniel Thomas,-0.52,0.38,1.0,2023,4
+1.0,12:42,1.0,10.0,IND 6,0.0,0.0,Deon Jackson up the middle for 2 yards (tackle by Josh Allen and Travon Walker),-0.38,-0.63,1.0,2023,4
+1.0,12:06,2.0,8.0,IND 8,0.0,0.0,Anthony Richardson pass complete short left to Josh Downs for 6 yards (tackle by Tyson Campbell),-0.63,-0.48,1.0,2023,4
+1.0,11:25,3.0,2.0,IND 14,0.0,0.0,Deon Jackson up the middle for 1 yard (tackle by Andre Cisco),-0.48,-2.44,1.0,2023,4
+1.0,10:32,4.0,1.0,IND 15,0.0,0.0,Rigoberto Sanchez punts 46 yards out of bounds,-2.44,-1.53,1.0,2023,4
+1.0,10:25,1.0,10.0,JAX 39,0.0,0.0,Travis Etienne up the middle for no gain (tackle by Grover Stewart),1.53,0.99,1.0,2023,4
+1.0,9:46,2.0,10.0,JAX 39,0.0,0.0,Trevor Lawrence pass complete short left to Christian Kirk for 9 yards,0.99,1.49,1.0,2023,4
+1.0,9:11,3.0,1.0,JAX 48,0.0,0.0,Trevor Lawrence right end for 3 yards (tackle by DeForest Buckner),1.49,2.32,1.0,2023,4
+1.0,8:32,1.0,10.0,IND 49,0.0,0.0,Trevor Lawrence pass complete deep left to Calvin Ridley for 24 yards (tackle by Dallis Flowers),2.32,3.91,1.0,2023,4
+1.0,8:05,1.0,10.0,IND 25,0.0,0.0,Trevor Lawrence pass complete short right to Calvin Ridley for 5 yards (tackle by Kenny Moore),3.91,4.04,1.0,2023,4
+1.0,7:30,2.0,5.0,IND 20,0.0,0.0,Travis Etienne up the middle for 8 yards (tackle by Zaire Franklin and Julian Blackmon),4.04,4.78,1.0,2023,4
+1.0,6:52,1.0,10.0,IND 12,0.0,0.0,Jamal Agnew left end for no gain (tackle by Zaire Franklin),4.78,4.1,1.0,2023,4
+1.0,6:14,2.0,10.0,IND 12,0.0,0.0,Trevor Lawrence pass complete short right to Calvin Ridley for 3 yards (tackle by Kwity Paye and Zaire Franklin),4.1,3.7,1.0,2023,4
+1.0,5:26,3.0,7.0,IND 9,6.0,0.0,"Trevor Lawrence pass complete short left to Calvin Ridley for 9 yards, touchdown",3.7,7.0,1.0,2023,4
+1.0,5:18,,,IND 15,7.0,0.0,Brandon McManus kicks extra point good,0.0,0.0,1.0,2023,4
+1.0,5:18,,,JAX 35,7.0,0.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,4
+1.0,5:18,1.0,10.0,IND 25,7.0,0.0,Deon Jackson up the middle for 1 yard (tackle by Foyesade Oluokun),0.61,0.2,1.0,2023,4
+1.0,4:41,2.0,9.0,IND 26,7.0,0.0,Anthony Richardson pass complete short right to Kylen Granson for 11 yards (tackle by Rayshawn Jenkins and Andre Cisco),0.2,1.4,1.0,2023,4
+1.0,4:11,1.0,10.0,IND 37,7.0,0.0,Deon Jackson right end for no gain (tackle by Travon Walker and Jeremiah Ledbetter),1.4,0.86,1.0,2023,4
+1.0,3:33,2.0,10.0,IND 37,7.0,0.0,Anthony Richardson pass complete short right to Deon Jackson for 8 yards (tackle by Josh Allen),0.86,1.22,1.0,2023,4
+1.0,2:53,3.0,2.0,IND 45,7.0,0.0,Anthony Richardson pass complete short right to Kylen Granson for 7 yards,1.22,2.39,1.0,2023,4
+1.0,2:17,1.0,10.0,JAX 48,7.0,0.0,Anthony Richardson left end for 12 yards (tackle by Foyesade Oluokun),2.39,3.18,1.0,2023,4
+1.0,1:48,1.0,10.0,JAX 36,7.0,0.0,Deon Jackson right tackle for 1 yard (tackle by Travon Walker),3.18,2.77,1.0,2023,4
+1.0,1:09,2.0,9.0,JAX 35,7.0,0.0,Anthony Richardson pass complete short middle to Josh Downs for 22 yards (tackle by Rayshawn Jenkins),2.77,4.71,1.0,2023,4
+1.0,0:44,1.0,10.0,JAX 13,7.0,0.0,Deon Jackson up the middle for 7 yards (tackle by Travon Walker),4.71,5.34,1.0,2023,4
+1.0,0:21,2.0,3.0,JAX 6,7.0,0.0,Deon Jackson left guard for 4 yards (tackle by Roy Robertson-Harris and Travon Walker),5.34,6.74,1.0,2023,4
+2.0,15:00,1.0,2.0,JAX 2,7.0,6.0,"Anthony Richardson up the middle for 2 yards, touchdown",6.74,7.0,1.0,2023,4
+2.0,14:57,,,JAX 15,7.0,7.0,Matt Gay kicks extra point good,0.0,0.0,1.0,2023,4
+2.0,14:57,,,IND 35,7.0,7.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,4
+2.0,14:57,1.0,10.0,JAX 25,7.0,7.0,Travis Etienne left end for 8 yards (tackle by Dallis Flowers),0.61,1.14,1.0,2023,4
+2.0,14:15,2.0,2.0,JAX 33,7.0,7.0,"Trevor Lawrence pass complete to Calvin Ridley for no gain. Calvin Ridley fumbles (forced by E.J. Speed), recovered by E.J. Speed at JAC-49 Replay Assistant challenged the fumble ruling, and the original play was overturned. Trevor Lawrence pass complete short right to Calvin Ridley for 14 yards. Calvin Ridley fumbles (forced by E.J. Speed)",1.14,2.06,1.0,2023,4
+2.0,13:47,1.0,10.0,JAX 47,7.0,7.0,"Travis Etienne up the middle for 6 yards (tackle by Zaire Franklin and E.J. Speed). Penalty on DeForest Buckner: Defensive Holding, 5 yards (accepted)",2.06,2.79,1.0,2023,4
+2.0,13:19,1.0,10.0,IND 42,7.0,7.0,"Trevor Lawrence pass short right intended for Tank Bigsby is intercepted by Tony Brown at IND-41 and returned for 34 yards (tackle by Tank Bigsby). Penalty on Tank Bigsby: Illegal Shift, 5 yards (declined)",2.79,-3.91,1.0,2023,4
+2.0,13:08,1.0,10.0,JAX 25,7.0,7.0,Anthony Richardson left end for 3 yards (tackle by Andre Cisco),3.91,3.77,1.0,2023,4
+2.0,12:45,2.0,7.0,JAX 22,7.0,7.0,Anthony Richardson left end for 4 yards (tackle by Foyesade Oluokun),3.77,3.66,1.0,2023,4
+2.0,12:16,3.0,3.0,JAX 18,7.0,7.0,Deon Jackson up the middle for 2 yards (tackle by Folorunso Fatukasi),3.66,2.53,1.0,2023,4
+2.0,11:58,4.0,1.0,JAX 16,7.0,7.0,Anthony Richardson up the middle for no gain (tackle by Roy Robertson-Harris),2.53,0.14,1.0,2023,4
+2.0,11:55,1.0,10.0,JAX 16,7.0,7.0,Tank Bigsby right tackle for 3 yards (tackle by Kenny Moore),-0.14,-0.18,1.0,2023,4
+2.0,11:38,2.0,7.0,JAX 19,7.0,7.0,Tank Bigsby up the middle for 3 yards (tackle by Zaire Franklin and Kwity Paye),-0.18,-0.57,1.0,2023,4
+2.0,11:01,3.0,4.0,JAX 22,7.0,7.0,Tank Bigsby up the middle for -2 yards (tackle by DeForest Buckner),-0.57,-2.03,1.0,2023,4
+2.0,10:26,4.0,6.0,JAX 20,7.0,7.0,"Logan Cooke punts 44 yards, returned by Isaiah McKenzie for 16 yards (tackle by Caleb Johnson)",-2.03,-2.39,1.0,2023,4
+2.0,10:16,1.0,10.0,JAX 48,7.0,7.0,Anthony Richardson scrambles right end for 4 yards (tackle by Rayshawn Jenkins),2.39,2.39,1.0,2023,4
+2.0,9:44,2.0,6.0,JAX 44,7.0,7.0,Anthony Richardson pass incomplete short left intended for Josh Downs (defended by Tre Herndon),2.39,1.69,1.0,2023,4
+2.0,9:40,3.0,6.0,JAX 44,7.0,7.0,"Penalty on Alec Pierce: False Start, 5 yards (accepted) (no play)",1.69,1.03,1.0,2023,4
+2.0,9:40,3.0,11.0,JAX 49,7.0,7.0,Anthony Richardson pass complete short right to Deon Jackson for 7 yards (tackle by Tyson Campbell and Foyesade Oluokun),1.03,0.46,1.0,2023,4
+2.0,8:54,4.0,4.0,JAX 42,7.0,7.0,Anthony Richardson pass incomplete short right intended for Michael Pittman (defended by Adam Gotsis),0.46,-1.8,1.0,2023,4
+2.0,8:51,1.0,10.0,JAX 43,7.0,7.0,Trevor Lawrence pass complete short right to Travis Etienne for 5 yards (tackle by Julian Blackmon and Shaquille Leonard),1.8,1.93,1.0,2023,4
+2.0,8:15,2.0,5.0,JAX 48,7.0,7.0,Travis Etienne right guard for 4 yards (tackle by Zaire Franklin),1.93,1.75,1.0,2023,4
+2.0,7:42,3.0,1.0,IND 48,7.0,7.0,Tank Bigsby right tackle for 1 yard (tackle by Grover Stewart),1.75,2.46,1.0,2023,4
+2.0,7:03,1.0,10.0,IND 47,7.0,7.0,Travis Etienne right guard for 2 yards (tackle by E.J. Speed),2.46,2.18,1.0,2023,4
+2.0,6:26,2.0,8.0,IND 45,7.0,7.0,Trevor Lawrence pass complete short right to Calvin Ridley for 29 yards (tackle by Rodney Thomas),2.18,4.51,1.0,2023,4
+2.0,5:57,1.0,10.0,IND 16,7.0,7.0,Jamal Agnew left end for -2 yards (tackle by Samson Ebukam),4.51,3.64,1.0,2023,4
+2.0,5:02,2.0,12.0,IND 18,13.0,7.0,"Trevor Lawrence pass complete deep right to Zay Jones for 18 yards, touchdown",3.64,7.0,1.0,2023,4
+2.0,4:56,,,IND 15,14.0,7.0,Brandon McManus kicks extra point good,0.0,0.0,1.0,2023,4
+2.0,4:56,,,JAX 35,14.0,7.0,"Brandon McManus kicks off 60 yards, returned by Dallis Flowers for 19 yards (tackle by Daniel Thomas)",0.0,0.54,1.0,2023,4
+2.0,4:50,1.0,10.0,IND 24,14.0,7.0,Anthony Richardson pass incomplete deep right intended for Mo Alie-Cox,0.54,0.0,1.0,2023,4
+2.0,4:43,2.0,10.0,IND 24,14.0,7.0,"Anthony Richardson pass complete short middle to Andrew Ogletree for 20 yards (tackle by Andre Cisco). Penalty on Andre Cisco: Unnecessary Roughness / Defense, 15 yards (accepted)",0.0,2.85,1.0,2023,4
+2.0,4:19,1.0,10.0,JAX 41,14.0,7.0,"Anthony Richardson pass complete short middle to Deon Jackson for 6 yards. Deon Jackson fumbles (forced by Andre Cisco), recovered by Angelo Blackson at JAC-32 (tackle by Andre Cisco)",2.85,-1.07,1.0,2023,4
+2.0,4:09,1.0,10.0,JAX 32,14.0,7.0,Trevor Lawrence pass complete short left to Evan Engram for 8 yards (tackle by Taven Bryan),1.07,1.61,1.0,2023,4
+2.0,3:34,2.0,2.0,JAX 40,14.0,7.0,Travis Etienne left tackle for 4 yards (tackle by Julian Blackmon and Dallis Flowers),1.61,1.86,1.0,2023,4
+2.0,2:55,1.0,10.0,JAX 44,14.0,7.0,Trevor Lawrence pass complete short middle to Zay Jones for 12 yards (tackle by Dallis Flowers),1.86,2.65,1.0,2023,4
+2.0,2:20,1.0,10.0,IND 44,14.0,7.0,Trevor Lawrence pass complete short right to Calvin Ridley for 8 yards (tackle by Kenny Moore),2.65,3.19,1.0,2023,4
+2.0,2:00,2.0,2.0,IND 36,14.0,7.0,D'Ernest Johnson up the middle for -4 yards (tackle by Shaquille Leonard),3.19,1.95,1.0,2023,4
+2.0,1:15,,,,,,Timeout #1 by Jacksonville Jaguars,,,1.0,2023,4
+2.0,1:15,3.0,6.0,IND 40,14.0,7.0,Trevor Lawrence sacked by Kwity Paye for -3 yards,1.95,0.4,1.0,2023,4
+2.0,1:06,,,,,,Timeout #1 by Indianapolis Colts,,,1.0,2023,4
+2.0,1:06,4.0,9.0,IND 43,14.0,7.0,"Logan Cooke punts 35 yards, fair catch by Isaiah McKenzie at IND-8",0.4,0.38,1.0,2023,4
+2.0,1:03,1.0,10.0,IND 8,14.0,7.0,Anthony Richardson pass complete short middle to Evan Hull for 6 yards (tackle by Foyesade Oluokun and Devin Lloyd),-0.38,-0.32,1.0,2023,4
+2.0,0:43,2.0,4.0,IND 14,14.0,7.0,Anthony Richardson pass complete short middle to Alec Pierce for 5 yards (tackle by Tyson Campbell),-0.32,0.15,1.0,2023,4
+2.0,0:34,,,,,,Timeout #2 by Indianapolis Colts,,,1.0,2023,4
+2.0,0:34,1.0,10.0,IND 19,14.0,7.0,Anthony Richardson sacked by Travon Walker for -5 yards,0.15,-1.11,1.0,2023,4
+3.0,15:00,,,IND 35,14.0,7.0,"Matt Gay kicks off 69 yards, returned by Jamal Agnew for 20 yards (tackle by Grant Stuard)",0.0,-0.14,1.0,2023,4
+3.0,14:56,1.0,10.0,JAX 16,14.0,7.0,Travis Etienne up the middle for -1 yards (tackle by Kwity Paye),-0.14,-0.78,1.0,2023,4
+3.0,14:19,2.0,11.0,JAX 15,14.0,7.0,Trevor Lawrence pass incomplete short right intended for Calvin Ridley,-0.78,-1.47,1.0,2023,4
+3.0,14:15,3.0,11.0,JAX 15,14.0,7.0,Trevor Lawrence pass incomplete short left intended for Zay Jones,-1.47,-2.44,1.0,2023,4
+3.0,14:11,4.0,11.0,JAX 15,14.0,7.0,"Logan Cooke punts 52 yards, returned by Isaiah McKenzie for 4 yards (tackle by Ross Matiscik)",-2.44,-1.4,1.0,2023,4
+3.0,14:00,1.0,10.0,IND 37,14.0,7.0,Anthony Richardson pass complete short middle to Michael Pittman for 16 yards (tackle by Tyson Campbell),1.4,2.46,1.0,2023,4
+3.0,13:38,1.0,10.0,JAX 47,14.0,7.0,"Anthony Richardson pass complete short right to Evan Hull for no gain (tackle by Devin Lloyd). Penalty on Devin Lloyd: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",2.46,3.45,1.0,2023,4
+3.0,13:25,1.0,10.0,JAX 32,14.0,7.0,Anthony Richardson up the middle for 3 yards (tackle by Folorunso Fatukasi),3.45,3.31,1.0,2023,4
+3.0,12:49,2.0,7.0,JAX 29,14.0,7.0,Anthony Richardson pass complete short right to Michael Pittman for 8 yards (tackle by Andre Cisco),3.31,4.17,1.0,2023,4
+3.0,12:28,1.0,10.0,JAX 21,14.0,7.0,"Evan Hull right end for 1 yard (tackle by Andre Cisco). Penalty on Will Fries: Illegal Blindside Block, 15 yards (accepted)",4.17,3.25,1.0,2023,4
+3.0,12:19,1.0,24.0,JAX 35,14.0,7.0,Anthony Richardson pass complete short left to Deon Jackson for -4 yards (tackle by Adam Gotsis and Josh Allen),3.25,1.2,1.0,2023,4
+3.0,11:33,2.0,28.0,JAX 39,14.0,13.0,"Anthony Richardson pass complete short left to Michael Pittman for 39 yards, touchdown",1.2,7.0,1.0,2023,4
+3.0,11:25,,,JAX 15,14.0,14.0,Matt Gay kicks extra point good,0.0,0.0,1.0,2023,4
+3.0,11:25,,,IND 35,14.0,14.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,4
+3.0,11:25,1.0,10.0,JAX 25,14.0,14.0,Trevor Lawrence pass complete short right to Calvin Ridley for 9 yards (tackle by Darrell Baker),0.61,1.28,1.0,2023,4
+3.0,10:57,2.0,1.0,JAX 34,14.0,14.0,Travis Etienne up the middle for 6 yards (tackle by Zaire Franklin),1.28,1.6,1.0,2023,4
+3.0,10:20,1.0,10.0,JAX 40,14.0,14.0,Trevor Lawrence pass incomplete short right intended for Christian Kirk,1.6,1.05,1.0,2023,4
+3.0,10:15,2.0,10.0,JAX 40,14.0,14.0,Trevor Lawrence pass complete deep right to Evan Engram for 26 yards (tackle by Darrell Baker),1.05,3.31,1.0,2023,4
+3.0,9:51,1.0,10.0,IND 34,14.0,14.0,Trevor Lawrence pass complete short right to Zay Jones for 6 yards (tackle by Darrell Baker),3.31,3.58,1.0,2023,4
+3.0,9:45,2.0,4.0,IND 28,14.0,14.0,Travis Etienne up the middle for 3 yards (tackle by DeForest Buckner),3.58,3.27,1.0,2023,4
+3.0,9:10,3.0,1.0,IND 25,14.0,14.0,Travis Etienne left end for -2 yards (tackle by E.J. Speed and DeForest Buckner),3.27,1.77,1.0,2023,4
+3.0,8:35,4.0,3.0,IND 27,17.0,14.0,Brandon McManus 45 yard field goal good,1.77,3.0,1.0,2023,4
+3.0,8:31,,,JAX 35,17.0,14.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,4
+3.0,8:31,1.0,10.0,IND 25,17.0,14.0,Anthony Richardson sacked by Josh Allen for no gain,0.61,0.06,1.0,2023,4
+3.0,7:49,2.0,10.0,IND 25,17.0,14.0,Anthony Richardson sacked by Josh Allen for -1 yards,0.06,-0.76,1.0,2023,4
+3.0,7:11,3.0,11.0,IND 24,17.0,14.0,Anthony Richardson pass complete short right to Deon Jackson for -3 yards (tackle by Rayshawn Jenkins),-0.76,-1.96,1.0,2023,4
+3.0,6:37,4.0,14.0,IND 21,17.0,14.0,Rigoberto Sanchez punts 37 yards downed by Grant Stuard,-1.96,-1.73,1.0,2023,4
+3.0,6:28,1.0,10.0,JAX 42,17.0,14.0,Trevor Lawrence pass complete short right to Travis Etienne for 3 yards (tackle by Zaire Franklin and Shaquille Leonard),1.73,1.59,1.0,2023,4
+3.0,5:46,2.0,7.0,JAX 45,17.0,14.0,Travis Etienne right tackle for 2 yards (tackle by Taven Bryan and Jacob Martin),1.59,1.16,1.0,2023,4
+3.0,5:06,3.0,5.0,JAX 47,17.0,14.0,Trevor Lawrence pass complete short right to Travis Etienne for 4 yards (tackle by Julian Blackmon and Darrell Baker),1.16,0.0,1.0,2023,4
+3.0,4:36,4.0,1.0,IND 49,17.0,14.0,Trevor Lawrence pass complete short left to Evan Engram for no gain (tackle by E.J. Speed),0.0,-2.19,1.0,2023,4
+3.0,4:25,1.0,10.0,IND 49,17.0,14.0,Deon Jackson left guard for 1 yard (tackle by Adam Gotsis and Roy Robertson-Harris),2.19,1.78,1.0,2023,4
+3.0,3:52,2.0,9.0,IND 50,17.0,14.0,Anthony Richardson pass incomplete short middle intended for Deon Jackson,1.78,1.09,1.0,2023,4
+3.0,3:50,3.0,9.0,IND 50,17.0,14.0,Anthony Richardson pass complete short right to Michael Pittman for 8 yards (tackle by Tyson Campbell),1.09,0.46,1.0,2023,4
+3.0,3:19,,,,,,Timeout #1 by Indianapolis Colts,,,1.0,2023,4
+3.0,3:19,4.0,1.0,JAX 42,17.0,14.0,"Deon Jackson right end for -2 yards. Deon Jackson fumbles (forced by Tyson Campbell), recovered by Devin Lloyd at JAC-46 (tackle by Tyson Campbell)",0.46,-1.99,1.0,2023,4
+3.0,3:10,1.0,10.0,JAX 46,17.0,14.0,"Trevor Lawrence pass complete to Calvin Ridley for no gain. Penalty on Walker Little: Offensive Holding, 10 yards (accepted) (no play)",1.99,1.33,1.0,2023,4
+3.0,2:41,1.0,20.0,JAX 36,17.0,20.0,"Trevor Lawrence sacked by DeForest Buckner for -1 yards. Trevor Lawrence fumbles (forced by DeForest Buckner), recovered by Tank Bigsby at JAC-35 and returned for -9 yards. Tank Bigsby fumbles (forced by Zaire Franklin), recovered by DeForest Buckner at JAC-26 and returned for 26 yards, touchdown Replay Assistant challenged the fumble ruling, and the play was upheld.",1.33,-7.0,1.0,2023,4
+3.0,2:27,,,JAX 15,17.0,21.0,Matt Gay kicks extra point good,0.0,0.0,1.0,2023,4
+3.0,2:27,,,IND 35,17.0,21.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,4
+3.0,2:27,1.0,10.0,JAX 25,17.0,21.0,Trevor Lawrence pass complete short middle to Travis Etienne for 5 yards (tackle by Zaire Franklin and Shaquille Leonard),0.61,0.74,1.0,2023,4
+3.0,1:53,2.0,5.0,JAX 30,17.0,21.0,Travis Etienne left guard for 2 yards (tackle by Taven Bryan and Zaire Franklin),0.74,0.3,1.0,2023,4
+3.0,1:17,3.0,3.0,JAX 32,17.0,21.0,Trevor Lawrence pass incomplete short right intended for Christian Kirk (defended by Dayo Odeyingbo),0.3,-1.24,1.0,2023,4
+3.0,1:09,4.0,3.0,JAX 32,17.0,21.0,"Logan Cooke punts 41 yards, fair catch by Isaiah McKenzie at IND-27",-1.24,-0.74,1.0,2023,4
+3.0,1:03,1.0,10.0,IND 27,17.0,21.0,"Deon Jackson right end for no gain. Penalty on Michael Pittman: Offensive Holding, 10 yards (accepted) (no play)",0.74,-0.17,1.0,2023,4
+3.0,0:48,1.0,20.0,IND 17,17.0,21.0,Anthony Richardson pass incomplete short right intended for Alec Pierce,-0.17,-1.29,1.0,2023,4
+3.0,0:34,2.0,20.0,IND 17,17.0,21.0,Jake Funk up the middle for 7 yards (tackle by Devin Lloyd and Foyesade Oluokun),-1.29,-0.89,1.0,2023,4
+4.0,15:00,3.0,13.0,IND 24,17.0,21.0,Anthony Richardson pass incomplete deep middle intended for Kylen Granson,-0.89,-1.77,1.0,2023,4
+4.0,14:56,4.0,13.0,IND 24,17.0,21.0,"Rigoberto Sanchez punts 43 yards, returned by Jamal Agnew for 10 yards (tackle by Nick Cross)",-1.77,-1.8,1.0,2023,4
+4.0,14:47,1.0,10.0,JAX 43,17.0,21.0,Travis Etienne right guard for 5 yards (tackle by Eric Johnson),1.8,1.93,1.0,2023,4
+4.0,14:14,2.0,5.0,JAX 48,17.0,21.0,Tank Bigsby left guard for 3 yards (tackle by Zaire Franklin and Shaquille Leonard),1.93,1.62,1.0,2023,4
+4.0,13:32,3.0,2.0,IND 49,17.0,21.0,Trevor Lawrence up the middle for 1 yard (tackle by Zaire Franklin),1.62,0.07,1.0,2023,4
+4.0,13:01,4.0,1.0,IND 48,17.0,21.0,Trevor Lawrence up the middle for no gain (tackle by Zaire Franklin),0.07,-2.13,1.0,2023,4
+4.0,12:52,1.0,10.0,IND 48,17.0,21.0,Deon Jackson for no gain (tackle by Roy Robertson-Harris and Folorunso Fatukasi),2.13,1.58,1.0,2023,4
+4.0,12:16,2.0,10.0,IND 48,17.0,21.0,Deon Jackson right tackle for -3 yards (tackle by Josh Allen),1.58,0.5,1.0,2023,4
+4.0,11:31,3.0,13.0,IND 45,17.0,21.0,"Anthony Richardson pass complete short middle to Michael Pittman for no gain. Penalty on Travon Walker: Defensive Offside, 5 yards (accepted) (no play)",0.5,1.29,1.0,2023,4
+4.0,11:14,3.0,7.0,JAX 49,17.0,21.0,Anthony Richardson pass incomplete short middle intended for Josh Downs,1.29,-0.06,1.0,2023,4
+4.0,11:03,4.0,7.0,JAX 50,17.0,21.0,"Rigoberto Sanchez punts 44 yards, returned by Jamal Agnew for 48 yards (tackle by Nick Cross)",-0.06,-2.52,1.0,2023,4
+4.0,10:46,1.0,10.0,IND 46,17.0,21.0,Trevor Lawrence scrambles up the middle for 11 yards (tackle by Zaire Franklin and Shaquille Leonard),2.52,3.25,1.0,2023,4
+4.0,10:09,1.0,10.0,IND 35,17.0,21.0,Travis Etienne up the middle for 3 yards (tackle by Grover Stewart),3.25,3.11,1.0,2023,4
+4.0,9:32,2.0,7.0,IND 32,17.0,21.0,Trevor Lawrence pass complete short right to Evan Engram for 9 yards (tackle by Shaquille Leonard),3.11,4.04,1.0,2023,4
+4.0,8:57,1.0,10.0,IND 23,17.0,21.0,Travis Etienne up the middle for -2 yards (tackle by Grover Stewart),4.04,3.23,1.0,2023,4
+4.0,8:15,2.0,12.0,IND 25,17.0,21.0,Trevor Lawrence pass incomplete deep left intended for Calvin Ridley,3.23,2.54,1.0,2023,4
+4.0,8:11,3.0,12.0,IND 25,17.0,21.0,Trevor Lawrence pass complete short left to Travis Etienne for 10 yards (tackle by Samson Ebukam),2.54,2.57,1.0,2023,4
+4.0,7:28,4.0,2.0,IND 15,17.0,21.0,Trevor Lawrence pass complete short right to Zay Jones for 4 yards (tackle by Zaire Franklin),2.57,4.84,1.0,2023,4
+4.0,6:46,1.0,10.0,IND 11,17.0,21.0,Trevor Lawrence up the middle for 6 yards (tackle by Zaire Franklin),4.84,5.28,1.0,2023,4
+4.0,6:04,2.0,4.0,IND 5,17.0,21.0,Tank Bigsby left tackle for 4 yards (tackle by Eric Johnson and Julian Blackmon),5.28,6.97,1.0,2023,4
+4.0,5:17,1.0,1.0,IND 1,23.0,21.0,"Tank Bigsby left guard for 1 yard, touchdown",6.97,7.0,1.0,2023,4
+4.0,5:14,,,IND 15,24.0,21.0,Brandon McManus kicks extra point good,0.0,0.0,1.0,2023,4
+4.0,5:14,,,JAX 35,24.0,21.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,4
+4.0,5:14,1.0,10.0,IND 25,24.0,21.0,Anthony Richardson pass incomplete short right intended for Kylen Granson,0.61,0.06,1.0,2023,4
+4.0,5:09,2.0,10.0,IND 25,24.0,21.0,Anthony Richardson pass deep left intended for Mo Alie-Cox is intercepted by Tyson Campbell at IND-44 and returned for no gain (tackle by Michael Pittman),0.06,-2.65,1.0,2023,4
+4.0,5:00,1.0,10.0,IND 44,24.0,21.0,Travis Etienne up the middle for 3 yards (tackle by DeForest Buckner and Dallis Flowers),2.65,2.52,1.0,2023,4
+4.0,4:23,2.0,7.0,IND 41,24.0,21.0,Trevor Lawrence pass complete short left to Zay Jones for 15 yards (tackle by Rodney Thomas),2.52,3.84,1.0,2023,4
+4.0,4:15,1.0,10.0,IND 26,30.0,21.0,"Travis Etienne right tackle for 26 yards, touchdown",3.84,7.0,1.0,2023,4
+4.0,4:08,,,IND 15,31.0,21.0,Brandon McManus kicks extra point good,0.0,0.0,1.0,2023,4
+4.0,4:08,,,JAX 35,31.0,21.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,4
+4.0,4:08,1.0,10.0,IND 25,31.0,21.0,Jake Funk right tackle for 3 yards (tackle by Josh Allen and Foyesade Oluokun),0.61,0.47,1.0,2023,4
+4.0,3:51,2.0,7.0,IND 28,31.0,21.0,Anthony Richardson pass complete short middle to Kylen Granson for 14 yards (tackle by Rayshawn Jenkins),0.47,1.73,1.0,2023,4
+4.0,3:30,1.0,10.0,IND 42,31.0,21.0,Anthony Richardson pass incomplete deep middle intended for Michael Pittman,1.73,1.19,1.0,2023,4
+4.0,3:24,2.0,10.0,IND 42,31.0,21.0,Anthony Richardson pass complete short middle to Jake Funk for 12 yards (tackle by Foyesade Oluokun),1.19,2.52,1.0,2023,4
+4.0,3:19,1.0,10.0,JAX 46,31.0,21.0,Anthony Richardson scrambles right end for 5 yards (tackle by Foyesade Oluokun),2.52,2.65,1.0,2023,4
+4.0,3:12,2.0,5.0,JAX 41,31.0,21.0,Anthony Richardson pass complete short right to Michael Pittman for 4 yards (tackle by Darious Williams),2.65,2.48,1.0,2023,4
+4.0,2:44,3.0,1.0,JAX 37,31.0,21.0,Anthony Richardson pass complete short middle to Michael Pittman for 9 yards (tackle by Andre Cisco),2.48,3.71,1.0,2023,4
+4.0,2:18,1.0,10.0,JAX 28,31.0,21.0,Anthony Richardson pass complete short right to Michael Pittman for 8 yards (tackle by Devin Lloyd),3.71,4.25,1.0,2023,4
+4.0,2:01,2.0,2.0,JAX 20,31.0,21.0,Anthony Richardson pass complete short right to Kylen Granson for 7 yards,4.25,4.71,1.0,2023,4
+4.0,1:59,1.0,10.0,JAX 13,31.0,21.0,Anthony Richardson pass incomplete short right intended for Alec Pierce (defended by Darious Williams),4.71,4.05,1.0,2023,4
+4.0,1:55,2.0,10.0,JAX 13,31.0,21.0,Anthony Richardson pass incomplete short right intended for Josh Downs,4.05,3.12,1.0,2023,4
+4.0,1:51,3.0,10.0,JAX 13,31.0,21.0,Anthony Richardson pass complete short middle to Michael Pittman for 5 yards (tackle by Foyesade Oluokun),3.12,2.97,1.0,2023,4
+4.0,1:30,4.0,5.0,JAX 8,31.0,21.0,Anthony Richardson right guard for 5 yards (tackle by Josh Allen and Foyesade Oluokun),2.97,6.51,1.0,2023,4
+4.0,1:08,1.0,3.0,JAX 3,31.0,21.0,Anthony Richardson right tackle for 2 yards (tackle by Josh Allen and Andre Cisco),6.51,5.91,1.0,2023,4
+4.0,0:59,,,,,,Timeout #2 by Indianapolis Colts,,,1.0,2023,4
+4.0,0:59,2.0,1.0,JAX 1,31.0,21.0,Gardner Minshew pass incomplete short left intended for Josh Downs,5.91,5.17,1.0,2023,4
+4.0,0:55,3.0,1.0,JAX 1,31.0,21.0,Deon Jackson up the middle for no gain (tackle by Foyesade Oluokun),5.17,3.55,1.0,2023,4
+4.0,0:52,,,,,,Timeout #3 by Indianapolis Colts,,,1.0,2023,4
+4.0,0:52,4.0,1.0,JAX 1,31.0,21.0,Gardner Minshew pass incomplete short right intended for Michael Pittman (defended by Foyesade Oluokun),3.55,0.38,1.0,2023,4
+4.0,0:45,1.0,10.0,JAX 1,31.0,21.0,Trevor Lawrence up the middle for 1 yard (tackle by Grover Stewart and DeForest Buckner),-0.38,-0.38,1.0,2023,4
+4.0,0:26,1.0,10.0,JAX 2,31.0,21.0,Trevor Lawrence kneels for -1 yards,-0.38,-0.85,1.0,2023,4

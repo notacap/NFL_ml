@@ -1,0 +1,177 @@
+Quarter,Time,Down,ToGo,Location,GNB,MIN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Packers won the coin toss, Packers to receive the opening kickoff.",,,17.0,2024,254
+1.0,15:00,,,MIN 35,0.0,0.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,254
+1.0,15:00,1.0,10.0,GNB 30,0.0,0.0,Josh Jacobs right tackle for 2 yards (tackle by Camryn Bynum),0.94,0.66,17.0,2024,254
+1.0,14:25,2.0,8.0,GNB 32,0.0,0.0,Jordan Love pass complete short right to Dontayvion Wicks for 6 yards (tackle by Stephon Gilmore),0.66,0.76,17.0,2024,254
+1.0,13:42,3.0,2.0,GNB 38,0.0,0.0,Jordan Love pass complete short right to Dontayvion Wicks for 8 yards (tackle by Stephon Gilmore),0.76,1.99,17.0,2024,254
+1.0,13:00,1.0,10.0,GNB 46,0.0,0.0,Josh Jacobs left guard for 6 yards (tackle by Blake Cashman),1.99,2.26,17.0,2024,254
+1.0,12:15,2.0,4.0,MIN 48,0.0,0.0,"Josh Jacobs right guard for 7 yards. Josh Jacobs fumbles (forced by Jerry Tillery), recovered by Camryn Bynum at MIN-38",2.26,-1.47,17.0,2024,254
+1.0,12:10,1.0,10.0,MIN 38,0.0,0.0,Aaron Jones up the middle for 7 yards (tackle by Xavier McKinney),1.47,1.87,17.0,2024,254
+1.0,11:33,2.0,3.0,MIN 45,0.0,0.0,Sam Darnold pass complete short right to Johnny Mundt for 7 yards (tackle by Isaiah McDuffie),1.87,2.39,17.0,2024,254
+1.0,10:52,1.0,10.0,GNB 48,0.0,0.0,Aaron Jones right guard for 1 yard (tackle by Edgerrin Cooper),2.39,2.05,17.0,2024,254
+1.0,10:16,2.0,8.0,GNB 47,0.0,0.0,Sam Darnold pass incomplete short left,2.05,1.36,17.0,2024,254
+1.0,10:11,3.0,8.0,GNB 47,0.0,0.0,Sam Darnold pass complete short left to C.J. Ham for 2 yards (tackle by Xavier McKinney),1.36,0.27,17.0,2024,254
+1.0,9:30,4.0,7.0,GNB 45,0.0,0.0,Ryan Wright punts 30 yards out of bounds,0.27,0.22,17.0,2024,254
+1.0,9:23,1.0,10.0,GNB 15,0.0,0.0,Jordan Love pass incomplete deep left intended for Romeo Doubs,-0.22,-0.71,17.0,2024,254
+1.0,9:18,2.0,10.0,GNB 15,0.0,0.0,Jordan Love pass incomplete deep left intended for Dontayvion Wicks,-0.71,-1.37,17.0,2024,254
+1.0,9:12,3.0,10.0,GNB 15,0.0,0.0,Jordan Love pass incomplete deep middle intended for Jayden Reed,-1.37,-2.44,17.0,2024,254
+1.0,9:07,4.0,10.0,GNB 15,0.0,0.0,"Daniel Whelan punts 50 yards, fair catch by Brandon Powell at MIN-35",-2.44,-1.27,17.0,2024,254
+1.0,9:00,1.0,10.0,MIN 35,0.0,0.0,Sam Darnold pass complete short left to Jalen Nailor for 2 yards (tackle by Karl Brooks),1.27,0.99,17.0,2024,254
+1.0,8:27,2.0,8.0,MIN 37,0.0,0.0,Sam Darnold pass complete short middle to Aaron Jones for 6 yards (tackle by Lukas Van Ness and Xavier McKinney),0.99,1.09,17.0,2024,254
+1.0,7:48,3.0,2.0,MIN 43,0.0,0.0,Sam Darnold pass complete short right to T.J. Hockenson for 11 yards (tackle by Javon Bullard),1.09,2.52,17.0,2024,254
+1.0,7:05,1.0,10.0,GNB 46,0.0,0.0,Aaron Jones left guard for 7 yards (tackle by Xavier McKinney),2.52,2.92,17.0,2024,254
+1.0,6:20,2.0,3.0,GNB 39,0.0,0.0,Sam Darnold pass incomplete deep right intended for Jordan Addison (defended by Keisean Nixon),2.92,2.21,17.0,2024,254
+1.0,6:15,3.0,3.0,GNB 39,0.0,0.0,Sam Darnold pass incomplete short right,2.21,0.66,17.0,2024,254
+1.0,6:07,4.0,3.0,GNB 39,0.0,0.0,Will Reichard 57 yard field goal no good,0.66,-2.06,17.0,2024,254
+1.0,6:02,1.0,10.0,GNB 47,0.0,0.0,Josh Jacobs up the middle for 6 yards (tackle by Jonathan Bullard),2.06,2.33,17.0,2024,254
+1.0,5:26,2.0,4.0,MIN 47,0.0,0.0,Josh Jacobs right tackle for 1 yard (tackle by Blake Cashman and Ivan Pace),2.33,1.75,17.0,2024,254
+1.0,4:58,3.0,3.0,MIN 46,0.0,0.0,Josh Jacobs right tackle for 7 yards (tackle by Ivan Pace and Camryn Bynum),1.75,2.98,17.0,2024,254
+1.0,4:24,1.0,10.0,MIN 39,0.0,0.0,"Jordan Love pass complete short right to Tucker Kraft for 18 yards (tackle by Blake Cashman). Penalty on Harrison Smith: Low Block, 10 yards (accepted)",2.98,4.84,17.0,2024,254
+1.0,3:56,1.0,10.0,MIN 11,0.0,0.0,Jordan Love pass complete short left to Bo Melton for 1 yard (tackle by Harrison Smith and Andrew Van Ginkel),4.84,4.32,17.0,2024,254
+1.0,3:23,2.0,9.0,MIN 10,0.0,0.0,Josh Jacobs right guard for 2 yards (tackle by Jalen Redmond and Blake Cashman),4.32,3.76,17.0,2024,254
+1.0,2:42,3.0,7.0,MIN 8,0.0,0.0,Jordan Love pass complete short right to Luke Musgrave for 4 yards (tackle by Josh Metellus),3.76,3.03,17.0,2024,254
+1.0,1:50,4.0,3.0,MIN 4,3.0,0.0,Brandon McManus 22 yard field goal good,3.03,3.0,17.0,2024,254
+1.0,1:47,,,GNB 35,3.0,0.0,"Brandon McManus kicks off 69 yards, returned by Ty Chandler for 27 yards (tackle by Zayne Anderson)",0.0,0.48,17.0,2024,254
+1.0,1:43,1.0,10.0,MIN 23,3.0,0.0,Aaron Jones left end for 5 yards (tackle by Javon Bullard),0.48,0.61,17.0,2024,254
+1.0,1:05,2.0,5.0,MIN 28,3.0,0.0,Aaron Jones right guard for 9 yards (tackle by Eric Wilson and Edgerrin Cooper),0.61,1.4,17.0,2024,254
+1.0,0:26,1.0,10.0,MIN 37,3.0,0.0,Aaron Jones right guard for 1 yard (tackle by Tedarrell Slaton),1.4,0.99,17.0,2024,254
+2.0,15:00,2.0,9.0,MIN 38,3.0,0.0,"Penalty on Cam Robinson: False Start, 5 yards (accepted) (no play)",0.99,0.32,17.0,2024,254
+2.0,15:00,2.0,14.0,MIN 33,3.0,0.0,Sam Darnold pass complete short left to Jalen Nailor for 10 yards (tackle by Javon Bullard and Keisean Nixon),0.32,0.96,17.0,2024,254
+2.0,14:21,3.0,4.0,MIN 43,3.0,0.0,Sam Darnold pass complete short right to Jordan Addison for 13 yards (tackle by Eric Wilson),0.96,2.65,17.0,2024,254
+2.0,13:35,1.0,10.0,GNB 44,3.0,0.0,Aaron Jones right end for -2 yards (tackle by Edgerrin Cooper),2.65,1.84,17.0,2024,254
+2.0,12:59,2.0,12.0,GNB 46,3.0,0.0,Sam Darnold pass complete short left to Jordan Addison for 13 yards (tackle by Keisean Nixon),1.84,3.38,17.0,2024,254
+2.0,12:19,1.0,10.0,GNB 33,3.0,0.0,Aaron Jones left guard for 2 yards (tackle by Eric Wilson),3.38,3.11,17.0,2024,254
+2.0,11:58,2.0,8.0,GNB 31,3.0,6.0,"Sam Darnold pass complete deep left to Jalen Nailor for 31 yards, touchdown",3.11,7.0,17.0,2024,254
+2.0,11:52,,,GNB 15,3.0,7.0,Will Reichard kicks extra point good,0.0,0.0,17.0,2024,254
+2.0,11:52,,,MIN 35,3.0,7.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,254
+2.0,11:52,1.0,10.0,GNB 30,3.0,7.0,Jordan Love pass complete deep middle to Jayden Reed for 6 yards (tackle by Harrison Smith and Blake Cashman),0.94,1.2,17.0,2024,254
+2.0,11:12,2.0,4.0,GNB 36,3.0,7.0,Josh Jacobs right end for 3 yards (tackle by Harrison Phillips),1.2,0.89,17.0,2024,254
+2.0,10:47,3.0,1.0,GNB 39,3.0,7.0,Josh Jacobs up the middle for 13 yards (tackle by Camryn Bynum and Harrison Smith),0.89,2.39,17.0,2024,254
+2.0,10:07,1.0,10.0,MIN 48,3.0,7.0,Josh Jacobs up the middle for 5 yards (tackle by Camryn Bynum and Shaquill Griffin),2.39,2.52,17.0,2024,254
+2.0,9:42,2.0,5.0,MIN 43,3.0,7.0,"Jordan Love pass incomplete short left intended for Jayden Reed. Penalty on Byron Murphy: Defensive Pass Interference, 12 yards (accepted) (no play)",2.52,3.51,17.0,2024,254
+2.0,9:37,1.0,10.0,MIN 31,3.0,7.0,Josh Jacobs right guard for 6 yards (tackle by Blake Cashman),3.51,3.78,17.0,2024,254
+2.0,9:02,2.0,4.0,MIN 25,3.0,7.0,Josh Jacobs right tackle for no gain (tackle by Jalen Redmond and Harrison Phillips),3.78,3.07,17.0,2024,254
+2.0,8:21,3.0,4.0,MIN 25,3.0,7.0,Jordan Love pass complete short left to Romeo Doubs for 2 yards (tackle by Byron Murphy),3.07,2.05,17.0,2024,254
+2.0,7:34,4.0,2.0,MIN 23,3.0,7.0,Jordan Love pass incomplete deep middle intended for Jayden Reed,2.05,-0.54,17.0,2024,254
+2.0,7:29,1.0,10.0,MIN 24,3.0,7.0,Cam Akers left guard for 1 yard (tackle by Karl Brooks and Isaiah McDuffie),0.54,0.13,17.0,2024,254
+2.0,6:51,2.0,9.0,MIN 25,3.0,7.0,Sam Darnold pass complete short left to T.J. Hockenson for 12 yards (tackle by Edgerrin Cooper),0.13,1.4,17.0,2024,254
+2.0,6:06,1.0,10.0,MIN 37,3.0,7.0,"Sam Darnold pass incomplete deep middle intended for Justin Jefferson. Penalty on Keisean Nixon: Defensive Pass Interference, 17 yards (accepted) (no play)",1.4,2.52,17.0,2024,254
+2.0,6:01,1.0,10.0,GNB 46,3.0,7.0,Sam Darnold pass complete short left to Justin Jefferson for 6 yards (tackle by Keisean Nixon),2.52,2.79,17.0,2024,254
+2.0,5:23,2.0,4.0,GNB 40,3.0,7.0,Cam Akers left end for -2 yards (tackle by Edgerrin Cooper),2.79,1.82,17.0,2024,254
+2.0,4:39,3.0,6.0,GNB 42,3.0,7.0,Sam Darnold pass complete short middle to Jalen Nailor for 16 yards (tackle by Keisean Nixon),1.82,3.84,17.0,2024,254
+2.0,3:58,1.0,10.0,GNB 26,3.0,7.0,Cam Akers right end for 16 yards (tackle by Xavier McKinney),3.84,4.91,17.0,2024,254
+2.0,3:16,1.0,10.0,GNB 10,3.0,7.0,Sam Darnold pass incomplete short left intended for Cam Akers,4.91,4.19,17.0,2024,254
+2.0,3:11,2.0,10.0,GNB 10,3.0,7.0,Sam Darnold pass complete short middle to Jordan Addison for 3 yards (tackle by Javon Bullard and Edgerrin Cooper),4.19,3.81,17.0,2024,254
+2.0,2:24,3.0,7.0,GNB 7,3.0,7.0,Sam Darnold pass incomplete short left intended for Justin Jefferson,3.81,2.97,17.0,2024,254
+2.0,2:19,4.0,7.0,GNB 7,3.0,10.0,Will Reichard 25 yard field goal good,2.97,3.0,17.0,2024,254
+2.0,2:16,,,MIN 35,3.0,10.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,254
+2.0,2:16,1.0,10.0,GNB 30,3.0,10.0,Josh Jacobs right guard for 3 yards (tackle by Blake Cashman and Harrison Phillips),0.94,0.8,17.0,2024,254
+2.0,2:00,2.0,7.0,GNB 33,3.0,10.0,Jordan Love scrambles up the middle for 6 yards (tackle by Andrew Van Ginkel),0.8,0.89,17.0,2024,254
+2.0,1:37,3.0,1.0,GNB 39,3.0,10.0,"Josh Jacobs up the middle for no gain (tackle by Dallas Turner). Penalty on Dontayvion Wicks: Illegal Formation, 4 yards (accepted) (no play)",0.89,0.37,17.0,2024,254
+2.0,1:32,3.0,5.0,GNB 35,3.0,10.0,Jordan Love pass incomplete deep left intended for Bo Melton,0.37,-1.04,17.0,2024,254
+2.0,1:26,4.0,5.0,GNB 35,3.0,10.0,"Daniel Whelan punts 49 yards, recovered by Brandon Powell at MIN-16 (tackle by Kingsley Enagbare)",-1.04,0.14,17.0,2024,254
+2.0,1:16,1.0,10.0,MIN 16,3.0,10.0,Sam Darnold pass complete deep middle to T.J. Hockenson for 28 yards (tackle by Eric Wilson),-0.14,1.86,17.0,2024,254
+2.0,0:47,1.0,10.0,MIN 44,3.0,10.0,Sam Darnold pass complete short left to Justin Jefferson for 7 yards (tackle by Carrington Valentine),1.86,2.26,17.0,2024,254
+2.0,0:28,2.0,3.0,GNB 49,3.0,10.0,Sam Darnold pass complete short right to T.J. Hockenson for 5 yards (tackle by Keisean Nixon),2.26,2.65,17.0,2024,254
+2.0,0:19,,,,,,Timeout #1 by Minnesota Vikings,,,17.0,2024,254
+2.0,0:19,1.0,10.0,GNB 44,3.0,10.0,Sam Darnold sacked by Karl Brooks for -5 yards,2.65,1.44,17.0,2024,254
+2.0,0:13,,,,,,Timeout #2 by Minnesota Vikings,,,17.0,2024,254
+2.0,0:13,2.0,15.0,GNB 49,3.0,10.0,Sam Darnold pass complete short right to T.J. Hockenson for 12 yards (tackle by Eric Wilson),1.44,2.35,17.0,2024,254
+2.0,0:04,,,,,,Timeout #3 by Minnesota Vikings,,,17.0,2024,254
+2.0,0:04,,,,,,Timeout #1 by Green Bay Packers,,,17.0,2024,254
+2.0,0:04,3.0,3.0,GNB 37,3.0,10.0,"Will Reichard yard field goal no good. Penalty on Edgerrin Cooper: Defensive Offside, 5 yards (accepted) (no play)",2.35,3.45,17.0,2024,254
+2.0,0:00,,,,,,Timeout #2 by Green Bay Packers,,,17.0,2024,254
+2.0,0:00,1.0,10.0,GNB 32,3.0,13.0,Will Reichard 50 yard field goal good,3.45,3.0,17.0,2024,254
+3.0,15:00,,,GNB 35,3.0,13.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,254
+3.0,15:00,1.0,10.0,MIN 30,3.0,13.0,Aaron Jones right guard for 2 yards (tackle by Tedarrell Slaton and Eric Wilson),0.94,0.66,17.0,2024,254
+3.0,14:21,2.0,8.0,MIN 32,3.0,13.0,Sam Darnold pass complete short middle to Justin Jefferson for 5 yards (tackle by Eric Wilson and Edgerrin Cooper),0.66,0.63,17.0,2024,254
+3.0,13:44,3.0,3.0,MIN 37,3.0,13.0,Sam Darnold pass complete short left to Aaron Jones for 4 yards (tackle by Keisean Nixon),0.63,1.66,17.0,2024,254
+3.0,13:06,1.0,10.0,MIN 41,3.0,13.0,Sam Darnold pass incomplete short left intended for Aaron Jones (defended by Karl Brooks),1.66,1.12,17.0,2024,254
+3.0,13:01,2.0,10.0,MIN 41,3.0,13.0,Sam Darnold pass complete short right to Jordan Addison for 2 yards (tackle by Javon Bullard),1.12,0.7,17.0,2024,254
+3.0,12:17,3.0,8.0,MIN 43,3.0,13.0,Sam Darnold pass complete deep middle to Jalen Nailor for 22 yards (tackle by Javon Bullard),0.7,3.25,17.0,2024,254
+3.0,11:28,1.0,10.0,GNB 35,3.0,13.0,"Penalty on Sam Darnold: Delay of Game, 5 yards (accepted) (no play)",3.25,2.92,17.0,2024,254
+3.0,11:15,1.0,15.0,GNB 40,3.0,13.0,Sam Darnold pass complete short right to Justin Jefferson for 7 yards (tackle by Keisean Nixon),2.92,2.97,17.0,2024,254
+3.0,10:36,2.0,8.0,GNB 33,3.0,13.0,Sam Darnold pass complete short left to Justin Jefferson for 15 yards (tackle by Javon Bullard),2.97,4.37,17.0,2024,254
+3.0,9:50,1.0,10.0,GNB 18,3.0,19.0,"Sam Darnold pass complete deep right to Jordan Addison for 18 yards, touchdown",4.37,7.0,17.0,2024,254
+3.0,9:44,,,GNB 15,3.0,20.0,Will Reichard kicks extra point good,0.0,0.0,17.0,2024,254
+3.0,9:44,,,MIN 35,3.0,20.0,"Will Reichard kicks off 25 yards,. Penalty on Will Reichard: Kickoff Short of Landing Zone (accepted)",0.0,1.6,17.0,2024,254
+3.0,9:44,1.0,10.0,GNB 40,3.0,20.0,Jordan Love pass complete short left to Romeo Doubs for 5 yards (tackle by Stephon Gilmore),1.6,1.73,17.0,2024,254
+3.0,9:13,2.0,5.0,GNB 45,3.0,20.0,"Penalty on GNB: Offensive Too Many Men on Field, 5 yards (accepted) (no play)",1.73,1.05,17.0,2024,254
+3.0,8:55,2.0,10.0,GNB 40,3.0,20.0,Josh Jacobs right guard for 1 yard (tackle by Jonathan Greenard and Jonathan Bullard),1.05,0.5,17.0,2024,254
+3.0,8:09,3.0,9.0,GNB 41,3.0,20.0,Jordan Love pass incomplete short right intended for Jayden Reed (defended by Jonathan Greenard) (defended by Byron Murphy),0.5,-0.65,17.0,2024,254
+3.0,8:04,4.0,9.0,GNB 41,3.0,20.0,Daniel Whelan punts 29 yards out of bounds,-0.65,-0.94,17.0,2024,254
+3.0,7:55,1.0,10.0,MIN 30,3.0,20.0,Cam Akers left end for -1 yards (tackle by Isaiah McDuffie),0.94,0.26,17.0,2024,254
+3.0,7:16,2.0,11.0,MIN 29,3.0,20.0,"Sam Darnold pass deep left intended for T.J. Hockenson is intercepted by Carrington Valentine at MIN-49 and returned for 31 yards. Carrington Valentine fumbles (forced by Jalen Nailor), recovered by Karl Brooks at MIN-16",0.26,-4.51,17.0,2024,254
+3.0,7:03,1.0,10.0,MIN 16,3.0,20.0,Josh Jacobs up the middle for 3 yards (tackle by Harrison Phillips and Ivan Pace),4.51,4.39,17.0,2024,254
+3.0,6:23,2.0,7.0,MIN 13,3.0,20.0,Jordan Love pass complete short right to Romeo Doubs for 9 yards (tackle by Stephon Gilmore),4.39,6.28,17.0,2024,254
+3.0,5:39,1.0,4.0,MIN 4,3.0,20.0,Josh Jacobs left guard for 2 yards (tackle by Jonathan Bullard and Harrison Phillips),6.28,5.72,17.0,2024,254
+3.0,5:11,2.0,2.0,MIN 2,9.0,20.0,"Josh Jacobs left tackle for 2 yards, touchdown",5.72,7.0,17.0,2024,254
+3.0,5:07,,,MIN 15,10.0,20.0,Brandon McManus kicks extra point good,0.0,0.0,17.0,2024,254
+3.0,5:07,,,GNB 35,10.0,20.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,254
+3.0,5:07,1.0,10.0,MIN 30,10.0,20.0,Aaron Jones up the middle for 4 yards (tackle by Kenny Clark and Kingsley Enagbare),0.94,0.93,17.0,2024,254
+3.0,4:47,2.0,6.0,MIN 34,10.0,20.0,Sam Darnold pass complete short right to Aaron Jones for 7 yards (tackle by Javon Bullard),0.93,1.66,17.0,2024,254
+3.0,4:04,1.0,10.0,MIN 41,10.0,20.0,Sam Darnold pass complete short left to Justin Jefferson for 6 yards (tackle by Javon Bullard),1.66,1.93,17.0,2024,254
+3.0,3:41,2.0,4.0,MIN 47,10.0,20.0,"Sam Darnold pass complete short middle to Aaron Jones for 13 yards (tackle by Eric Wilson). Penalty on Carrington Valentine: Illegal Use of Hands / Defense, 5 yards (declined)",1.93,2.92,17.0,2024,254
+3.0,3:16,1.0,10.0,GNB 40,10.0,20.0,Sam Darnold pass complete deep right to Jordan Addison for 20 yards (tackle by Keisean Nixon),2.92,4.24,17.0,2024,254
+3.0,2:35,1.0,10.0,GNB 20,10.0,20.0,Aaron Jones left end for 13 yards (tackle by Isaiah McDuffie),4.24,5.6,17.0,2024,254
+3.0,1:49,1.0,7.0,GNB 7,10.0,20.0,Aaron Jones left end for -2 yards (tackle by Edgerrin Cooper),5.6,4.38,17.0,2024,254
+3.0,0:57,2.0,9.0,GNB 9,10.0,26.0,"Sam Darnold pass complete short left to Cam Akers for 9 yards, touchdown",4.38,7.0,17.0,2024,254
+3.0,0:51,,,GNB 15,10.0,27.0,Will Reichard kicks extra point good,0.0,0.0,17.0,2024,254
+3.0,0:51,,,MIN 35,10.0,27.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,254
+3.0,0:51,1.0,10.0,GNB 30,10.0,27.0,Emanuel Wilson left guard for 6 yards (tackle by Harrison Smith and Harrison Phillips),0.94,1.2,17.0,2024,254
+3.0,0:31,2.0,4.0,GNB 36,10.0,27.0,Jordan Love pass incomplete short right intended for Romeo Doubs,1.2,0.5,17.0,2024,254
+3.0,0:26,3.0,4.0,GNB 36,10.0,27.0,Jordan Love pass complete short left to Romeo Doubs for 5 yards (tackle by Shaquill Griffin),0.5,1.66,17.0,2024,254
+4.0,15:00,1.0,10.0,GNB 41,10.0,27.0,Emanuel Wilson right tackle for 2 yards (tackle by Josh Metellus),1.66,1.39,17.0,2024,254
+4.0,14:38,2.0,8.0,GNB 43,10.0,27.0,"Jordan Love pass complete short middle to Emanuel Wilson for no gain (tackle by Camryn Bynum). Penalty on Zach Tom: Illegal Formation, 5 yards (accepted) (no play)",1.39,0.72,17.0,2024,254
+4.0,14:08,2.0,13.0,GNB 38,10.0,27.0,Jordan Love pass incomplete short right intended for Romeo Doubs,0.72,0.04,17.0,2024,254
+4.0,14:03,3.0,13.0,GNB 38,10.0,27.0,Jordan Love sacked by and Andrew Van Ginkel for -10 yards and Blake Cashman for -10 yards,0.04,-1.5,17.0,2024,254
+4.0,13:30,4.0,23.0,GNB 28,10.0,27.0,"Daniel Whelan punts 41 yards, fair catch by Brandon Powell at MIN-31",-1.5,-1.0,17.0,2024,254
+4.0,13:22,1.0,10.0,MIN 31,10.0,27.0,Ty Chandler right end for 2 yards (tackle by Edgerrin Cooper),1.0,0.73,17.0,2024,254
+4.0,13:00,2.0,8.0,MIN 33,10.0,27.0,Sam Darnold pass complete short middle to Justin Jefferson for 37 yards (tackle by Xavier McKinney),0.73,3.58,17.0,2024,254
+4.0,12:14,1.0,10.0,GNB 30,10.0,27.0,Ty Chandler right end for 7 yards (tackle by Keisean Nixon),3.58,3.98,17.0,2024,254
+4.0,11:34,2.0,3.0,GNB 23,10.0,27.0,Ty Chandler up the middle for 4 yards (tackle by Colby Wooden and Rashan Gary),3.98,4.31,17.0,2024,254
+4.0,10:58,1.0,10.0,GNB 19,10.0,27.0,Ty Chandler left end for -2 yards (tackle by Rashan Gary and Eric Wilson),4.31,3.49,17.0,2024,254
+4.0,10:10,,,,,,Timeout #1 by Minnesota Vikings,,,17.0,2024,254
+4.0,10:10,2.0,12.0,GNB 21,10.0,27.0,Ty Chandler left guard for -4 yards (tackle by Edgerrin Cooper),3.49,2.28,17.0,2024,254
+4.0,9:27,3.0,16.0,GNB 25,10.0,27.0,Sam Darnold pass incomplete short right intended for Justin Jefferson,2.28,1.8,17.0,2024,254
+4.0,9:22,4.0,16.0,GNB 25,10.0,27.0,Will Reichard 43 yard field goal no good,1.8,-1.14,17.0,2024,254
+4.0,9:18,1.0,10.0,GNB 33,10.0,27.0,Jordan Love pass incomplete short right intended for Tucker Kraft,1.14,0.59,17.0,2024,254
+4.0,9:15,2.0,10.0,GNB 33,10.0,27.0,Jordan Love sacked by Blake Cashman for no gain,0.59,-0.1,17.0,2024,254
+4.0,8:30,3.0,10.0,GNB 33,10.0,27.0,Jordan Love pass complete short left to Bo Melton for 13 yards (tackle by Byron Murphy),-0.1,1.99,17.0,2024,254
+4.0,8:06,1.0,10.0,GNB 46,10.0,27.0,Jordan Love pass complete deep left to Tucker Kraft for 35 yards (tackle by Blake Cashman),1.99,4.31,17.0,2024,254
+4.0,7:37,1.0,10.0,MIN 19,10.0,27.0,"Josh Jacobs right tackle for no gain, touchdown. Penalty on Sean Rhyan: Offensive Holding, 10 yards (accepted) (no play)",4.31,3.64,17.0,2024,254
+4.0,7:21,1.0,20.0,MIN 29,10.0,27.0,Emanuel Wilson right end for 14 yards (tackle by Shaquill Griffin),3.64,4.35,17.0,2024,254
+4.0,7:05,2.0,6.0,MIN 15,10.0,27.0,Jordan Love pass incomplete short right,4.35,3.58,17.0,2024,254
+4.0,7:00,3.0,6.0,MIN 15,10.0,27.0,Jordan Love pass complete short left to Romeo Doubs for 6 yards (tackle by Shaquill Griffin),3.58,5.14,17.0,2024,254
+4.0,6:39,1.0,9.0,MIN 9,10.0,27.0,Emanuel Wilson up the middle for 4 yards (tackle by Jonathan Greenard and Jihad Ward),5.14,5.15,17.0,2024,254
+4.0,6:15,2.0,5.0,MIN 5,16.0,27.0,"Emanuel Wilson left guard for 5 yards, touchdown",5.15,7.0,17.0,2024,254
+4.0,6:12,,,MIN 2,18.0,27.0,Two Point Attempt: Jordan Love pass complete to to Romeo Doubs for no gain,1.0,1.0,17.0,2024,254
+4.0,6:12,,,GNB 35,18.0,27.0,"Brandon McManus kicks off 65 yards, returned by Ty Chandler for 21 yards (tackle by Edgerrin Cooper)",0.0,0.34,17.0,2024,254
+4.0,6:07,1.0,10.0,MIN 21,18.0,27.0,Sam Darnold pass incomplete short middle intended for Justin Jefferson (defended by Arron Mosby),0.34,-0.2,17.0,2024,254
+4.0,6:02,2.0,10.0,MIN 21,18.0,27.0,Cam Akers left tackle for 5 yards (tackle by Colby Wooden and Xavier McKinney),-0.2,-0.23,17.0,2024,254
+4.0,5:22,3.0,5.0,MIN 26,18.0,27.0,"Sam Darnold pass complete short middle to Justin Jefferson for no gain (tackle by Javon Bullard). Penalty on Cam Robinson: Offensive Holding, 10 yards (accepted) (no play)",-0.23,-1.78,17.0,2024,254
+4.0,4:48,3.0,15.0,MIN 16,18.0,27.0,Sam Darnold pass incomplete deep right intended for Jordan Addison (defended by Kenny Clark),-1.78,-2.39,17.0,2024,254
+4.0,4:43,4.0,15.0,MIN 16,18.0,27.0,"Penalty on Karl Brooks: Neutral Zone Infraction, 5 yards (accepted) (no play)",-2.39,-1.96,17.0,2024,254
+4.0,4:43,4.0,10.0,MIN 21,18.0,27.0,"Ryan Wright punts 41 yards, fair catch by Jayden Reed at GB-38",-1.96,-1.47,17.0,2024,254
+4.0,4:37,1.0,10.0,GNB 38,18.0,27.0,Jordan Love sacked by Dallas Turner for -8 yards,1.47,-0.16,17.0,2024,254
+4.0,4:11,2.0,18.0,GNB 30,18.0,27.0,Jordan Love pass complete short left to Dontayvion Wicks for 11 yards,-0.16,0.63,17.0,2024,254
+4.0,4:04,3.0,7.0,GNB 41,18.0,27.0,Jordan Love pass complete short middle to Romeo Doubs for 18 yards (tackle by Stephon Gilmore),0.63,2.85,17.0,2024,254
+4.0,3:41,1.0,10.0,MIN 41,18.0,27.0,Jordan Love pass complete short left to Romeo Doubs for 13 yards (tackle by Byron Murphy),2.85,3.71,17.0,2024,254
+4.0,3:33,1.0,10.0,MIN 28,18.0,27.0,Jordan Love pass incomplete deep left intended for Romeo Doubs,3.71,3.17,17.0,2024,254
+4.0,3:29,2.0,10.0,MIN 28,18.0,27.0,"Penalty on Jalen Redmond: Neutral Zone Infraction, 5 yards (accepted) (no play)",3.17,3.84,17.0,2024,254
+4.0,3:29,2.0,5.0,MIN 23,18.0,27.0,Jordan Love pass complete short right to Bo Melton for 4 yards (tackle by Josh Metellus),3.84,3.72,17.0,2024,254
+4.0,3:06,3.0,1.0,MIN 19,18.0,27.0,Jordan Love pass complete deep right to Dontayvion Wicks for 18 yards (tackle by Shaquill Griffin),3.72,6.97,17.0,2024,254
+4.0,2:37,1.0,1.0,MIN 1,18.0,27.0,Emanuel Wilson left guard for -2 yards (tackle by Blake Cashman),6.97,5.53,17.0,2024,254
+4.0,2:20,2.0,3.0,MIN 3,24.0,27.0,"Jordan Love pass complete short left to Malik Heath for 3 yards, touchdown Penalty on MIN: Defensive Too Many Men on Field, 5 yards (declined)",5.53,7.0,17.0,2024,254
+4.0,2:18,,,MIN 15,25.0,27.0,Brandon McManus kicks extra point good,0.0,0.0,17.0,2024,254
+4.0,2:18,,,GNB 35,25.0,27.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,254
+4.0,2:18,1.0,10.0,MIN 30,25.0,27.0,Sam Darnold pass complete short left to C.J. Ham for 13 yards (tackle by Javon Bullard),0.94,1.8,17.0,2024,254
+4.0,2:00,1.0,10.0,MIN 43,25.0,27.0,Cam Akers left end for -1 yards (tackle by Rashan Gary),1.8,1.12,17.0,2024,254
+4.0,1:57,,,,,,Timeout #1 by Green Bay Packers,,,17.0,2024,254
+4.0,1:57,2.0,11.0,MIN 42,25.0,27.0,Sam Darnold pass complete short right to Justin Jefferson for 9 yards (tackle by Carrington Valentine),1.12,1.62,17.0,2024,254
+4.0,1:49,,,,,,Timeout #2 by Green Bay Packers,,,17.0,2024,254
+4.0,1:49,3.0,2.0,GNB 49,25.0,27.0,Sam Darnold pass complete short right to Cam Akers for 6 yards (tackle by Javon Bullard),1.62,2.72,17.0,2024,254
+4.0,1:44,,,,,,Timeout #3 by Green Bay Packers,,,17.0,2024,254
+4.0,1:44,1.0,10.0,GNB 43,25.0,27.0,Sam Darnold kneels for -1 yards,2.72,2.04,17.0,2024,254
+4.0,1:07,2.0,11.0,GNB 44,25.0,27.0,Sam Darnold kneels for -1 yards,2.04,1.22,17.0,2024,254
+4.0,0:39,3.0,12.0,GNB 45,25.0,27.0,Sam Darnold kneels for -1 yards,1.22,0.2,17.0,2024,254

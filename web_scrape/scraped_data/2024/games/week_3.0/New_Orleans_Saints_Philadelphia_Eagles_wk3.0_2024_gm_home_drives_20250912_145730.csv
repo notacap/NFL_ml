@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,NOR 30,15,8:09,54,Field Goal,1,Saints,3.0,2024,39
+2,1,4:33,NOR 36,3,1:42,-3,Punt,1,Saints,3.0,2024,39
+3,2,14:49,NOR 19,3,0:55,8,Punt,1,Saints,3.0,2024,39
+4,2,7:21,NOR 47,6,3:26,13,Punt,1,Saints,3.0,2024,39
+5,2,0:10,NOR 15,1,0:10,-1,End of Half,1,Saints,3.0,2024,39
+6,3,8:43,NOR 40,6,3:33,18,Punt,1,Saints,3.0,2024,39
+7,3,1:29,PHI 27,4,1:31,9,Downs,1,Saints,3.0,2024,39
+8,4,13:17,NOR 30,8,3:28,50,Field Goal,1,Saints,3.0,2024,39
+9,4,6:41,,9,4:38,50,Touchdown,1,Saints,3.0,2024,39
+10,4,1:01,NOR 30,2,0:13,6,Interception,1,Saints,3.0,2024,39

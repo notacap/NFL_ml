@@ -1,0 +1,40 @@
+Player,Tm,Def Interceptions Int,Def Interceptions Yds,Def Interceptions TD,Def Interceptions Lng,Def Interceptions PD,Sk,Tackles Comb,Tackles Solo,Tackles Ast,Tackles TFL,Tackles QBHits,Fumbles FR,Fumbles Yds,Fumbles TD,Fumbles FF,week,year,game_id
+Vonn Bell,CIN,1,0,0,0,1,0.0,7,5,2,0,0,0,0,0,0,5.0,2022,79
+Germaine Pratt,CIN,0,0,0,0,2,1.0,8,2,6,1,1,0,0,0,0,5.0,2022,79
+Logan Wilson,CIN,0,0,0,0,0,0.0,7,7,0,0,1,0,0,0,0,5.0,2022,79
+Chidobe Awuzie,CIN,0,0,0,0,0,0.0,6,3,3,0,0,0,0,0,0,5.0,2022,79
+Jessie Bates III,CIN,0,0,0,0,0,0.0,6,5,1,0,0,0,0,0,0,5.0,2022,79
+Mike Hilton,CIN,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0,5.0,2022,79
+Sam Hubbard,CIN,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0,5.0,2022,79
+Josh Tupou,CIN,0,0,0,0,0,0.0,4,0,4,0,0,0,0,0,0,5.0,2022,79
+Eli Apple,CIN,0,0,0,0,0,0.0,3,3,0,0,0,0,0,0,0,5.0,2022,79
+B.J. Hill,CIN,0,0,0,0,0,0.0,3,0,3,0,1,0,0,0,0,5.0,2022,79
+Trey Hendrickson,CIN,0,0,0,0,0,0.0,2,2,0,0,1,0,0,0,0,5.0,2022,79
+Cameron Sample,CIN,0,0,0,0,0,0.0,2,2,0,1,0,0,0,0,0,5.0,2022,79
+Zachary Carter,CIN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,5.0,2022,79
+Tre Flowers,CIN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,5.0,2022,79
+Daxton Hill,CIN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,5.0,2022,79
+Joe Mixon,CIN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,5.0,2022,79
+Stanley Morgan Jr.,CIN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,5.0,2022,79
+Samaje Perine,CIN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,5.0,2022,79
+Patrick Queen,BAL,1,11,0,11,1,0.0,7,5,2,0,0,0,0,0,0,5.0,2022,79
+Josh Bynes,BAL,0,0,0,0,0,1.0,6,4,2,1,1,0,0,0,0,5.0,2022,79
+Marcus Peters,BAL,0,0,0,0,1,1.0,5,5,0,1,1,0,0,0,0,5.0,2022,79
+Jason Pierre-Paul,BAL,0,0,0,0,2,1.0,2,1,1,1,1,0,0,0,0,5.0,2022,79
+Chuck Clark,BAL,0,0,0,0,0,0.0,7,3,4,0,0,0,0,0,0,5.0,2022,79
+Malik Harrison,BAL,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0,5.0,2022,79
+Odafe Oweh,BAL,0,0,0,0,0,0.0,4,2,2,1,0,0,0,0,0,5.0,2022,79
+Damarion Williams,BAL,0,0,0,0,0,0.0,4,3,1,1,0,0,0,0,0,5.0,2022,79
+Marlon Humphrey,BAL,0,0,0,0,0,0.0,3,3,0,0,0,0,0,0,0,5.0,2022,79
+Brent Urban,BAL,0,0,0,0,1,0.0,3,2,1,0,0,0,0,0,0,5.0,2022,79
+Broderick Washington Jr.,BAL,0,0,0,0,0,0.0,3,2,1,0,0,0,0,0,0,5.0,2022,79
+Brandon Copeland,BAL,0,0,0,0,0,0.0,2,0,2,0,0,0,0,0,0,5.0,2022,79
+Geno Stone,BAL,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,5.0,2022,79
+Marcus Williams,BAL,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,5.0,2022,79
+Calais Campbell,BAL,0,0,0,0,0,0.0,1,0,1,0,2,0,0,0,0,5.0,2022,79
+Demarcus Robinson,BAL,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,5.0,2022,79
+Kevon Seymour,BAL,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,5.0,2022,79
+Brandon Stephens,BAL,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,5.0,2022,79
+Kristian Welch,BAL,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,5.0,2022,79
+Daryl Worley,BAL,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,5.0,2022,79
+Devin Duvernay,BAL,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,0,5.0,2022,79

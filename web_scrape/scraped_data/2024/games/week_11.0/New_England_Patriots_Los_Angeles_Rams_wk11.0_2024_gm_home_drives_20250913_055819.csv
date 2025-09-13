@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,NWE 45,6,3:27,11,Punt,1,Patriots,11.0,2024,161
+2,1,8:39,NWE 23,7,3:34,77,Touchdown,1,Patriots,11.0,2024,161
+3,1,2:51,NWE 11,10,5:28,47,Punt,1,Patriots,11.0,2024,161
+4,2,7:18,NWE 20,3,1:29,-8,Fumble,1,Patriots,11.0,2024,161
+5,2,5:45,NWE 30,9,3:53,57,Field Goal,1,Patriots,11.0,2024,161
+6,3,14:10,NWE 30,13,7:08,63,Field Goal,1,Patriots,11.0,2024,161
+7,3,3:30,NWE 30,9,5:45,70,Touchdown,1,Patriots,11.0,2024,161
+8,4,11:03,NWE 11,13,6:09,66,Field Goal,1,Patriots,11.0,2024,161
+9,4,2:14,NWE 10,5,0:27,15,Interception,1,Patriots,11.0,2024,161

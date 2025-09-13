@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,11:31,CHI 40,11,5:23,40,Touchdown,0,Packers,1.0,2023,10
+2,1,2:04,GNB 25,3,1:32,4,Punt,0,Packers,1.0,2023,10
+3,2,9:00,GNB 24,3,1:44,8,Punt,0,Packers,1.0,2023,10
+4,2,5:28,GNB 31,6,3:16,21,Punt,0,Packers,1.0,2023,10
+5,2,1:12,GNB 44,6,1:12,22,Field Goal,0,Packers,1.0,2023,10
+6,3,15:00,GNB 25,8,4:41,75,Touchdown,0,Packers,1.0,2023,10
+7,3,8:05,CHI 42,4,1:39,42,Touchdown,0,Packers,1.0,2023,10
+8,3,4:58,CHI 43,3,1:36,2,Punt,0,Packers,1.0,2023,10
+9,3,0:59,GNB 39,5,2:29,61,Touchdown,0,Packers,1.0,2023,10
+10,4,10:12,GNB 7,7,3:54,14,Punt,0,Packers,1.0,2023,10
+11,4,2:54,CHI 44,5,1:51,19,Downs,0,Packers,1.0,2023,10

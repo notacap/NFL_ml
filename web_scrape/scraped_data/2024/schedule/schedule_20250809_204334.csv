@@ -1,0 +1,287 @@
+Week,Day,Date,Time,Winner/tie,Loser/tie,Boxscore,Pts,Pts.1,YdsW,TOW,YdsL,TOL,Home,Away
+1,Thu,2024-09-05,8:20PM,Kansas City Chiefs,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202409050kan.htm,27,20,353,1,452,1,Kansas City Chiefs,Baltimore Ravens
+1,Fri,2024-09-06,8:15PM,Philadelphia Eagles,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202409060phi.htm,34,29,410,3,414,1,Philadelphia Eagles,Green Bay Packers
+1,Sun,2024-09-08,1:00PM,Pittsburgh Steelers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202409080atl.htm,18,10,270,0,226,3,Atlanta Falcons,Pittsburgh Steelers
+1,Sun,2024-09-08,1:00PM,Buffalo Bills,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202409080buf.htm,34,28,352,1,270,1,Buffalo Bills,Arizona Cardinals
+1,Sun,2024-09-08,1:00PM,New Orleans Saints,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202409080nor.htm,47,10,379,1,193,3,New Orleans Saints,Carolina Panthers
+1,Sun,2024-09-08,1:00PM,Chicago Bears,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202409080chi.htm,24,17,148,1,244,3,Chicago Bears,Tennessee Titans
+1,Sun,2024-09-08,1:00PM,New England Patriots,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202409080cin.htm,16,10,290,0,224,2,Cincinnati Bengals,New England Patriots
+1,Sun,2024-09-08,1:00PM,Houston Texans,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202409080clt.htm,29,27,417,0,303,1,Indianapolis Colts,Houston Texans
+1,Sun,2024-09-08,1:00PM,Miami Dolphins,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202409080mia.htm,20,17,400,0,267,1,Miami Dolphins,Jacksonville Jaguars
+1,Sun,2024-09-08,1:00PM,Minnesota Vikings,New York Giants,https://www.pro-football-reference.com/boxscores/202409080nyg.htm,28,6,312,2,240,2,New York Giants,Minnesota Vikings
+1,Sun,2024-09-08,4:05PM,Seattle Seahawks,Denver Broncos,https://www.pro-football-reference.com/boxscores/202409080sea.htm,26,20,304,2,231,3,Seattle Seahawks,Denver Broncos
+1,Sun,2024-09-08,4:05PM,Los Angeles Chargers,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202409080sdg.htm,22,10,316,0,296,3,Los Angeles Chargers,Las Vegas Raiders
+1,Sun,2024-09-08,4:25PM,Dallas Cowboys,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202409080cle.htm,33,17,265,0,230,2,Cleveland Browns,Dallas Cowboys
+1,Sun,2024-09-08,4:25PM,Tampa Bay Buccaneers,Washington Commanders,https://www.pro-football-reference.com/boxscores/202409080tam.htm,37,20,392,0,299,0,Tampa Bay Buccaneers,Washington Commanders
+1,Sun,2024-09-08,8:20PM,Detroit Lions,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202409080det.htm,26,20,363,1,387,1,Detroit Lions,Los Angeles Rams
+1,Mon,2024-09-09,8:15PM,San Francisco 49ers,New York Jets,https://www.pro-football-reference.com/boxscores/202409090sfo.htm,32,19,401,0,266,2,San Francisco 49ers,New York Jets
+2,Thu,2024-09-12,8:15PM,Buffalo Bills,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202409120mia.htm,31,10,247,0,351,3,Miami Dolphins,Buffalo Bills
+2,Sun,2024-09-15,1:00PM,Los Angeles Chargers,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202409150car.htm,26,3,349,2,159,1,Carolina Panthers,Los Angeles Chargers
+2,Sun,2024-09-15,1:00PM,Cleveland Browns,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202409150jax.htm,18,13,297,0,323,0,Jacksonville Jaguars,Cleveland Browns
+2,Sun,2024-09-15,1:00PM,Green Bay Packers,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202409150gnb.htm,16,10,383,1,338,3,Green Bay Packers,Indianapolis Colts
+2,Sun,2024-09-15,1:00PM,New Orleans Saints,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202409150dal.htm,44,19,432,1,353,2,Dallas Cowboys,New Orleans Saints
+2,Sun,2024-09-15,1:00PM,Tampa Bay Buccaneers,Detroit Lions,https://www.pro-football-reference.com/boxscores/202409150det.htm,20,16,216,1,463,2,Detroit Lions,Tampa Bay Buccaneers
+2,Sun,2024-09-15,1:00PM,Minnesota Vikings,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202409150min.htm,23,17,403,2,396,2,Minnesota Vikings,San Francisco 49ers
+2,Sun,2024-09-15,1:00PM,Seattle Seahawks,New England Patriots,https://www.pro-football-reference.com/boxscores/202409150nwe.htm,23,20,358,0,310,0,New England Patriots,Seattle Seahawks
+2,Sun,2024-09-15,1:00PM,Washington Commanders,New York Giants,https://www.pro-football-reference.com/boxscores/202409150was.htm,21,18,425,0,304,1,Washington Commanders,New York Giants
+2,Sun,2024-09-15,1:00PM,New York Jets,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202409150oti.htm,24,17,265,0,300,2,Tennessee Titans,New York Jets
+2,Sun,2024-09-15,1:00PM,Las Vegas Raiders,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202409150rav.htm,26,23,260,1,383,1,Baltimore Ravens,Las Vegas Raiders
+2,Sun,2024-09-15,4:05PM,Arizona Cardinals,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202409150crd.htm,41,10,489,1,245,1,Arizona Cardinals,Los Angeles Rams
+2,Sun,2024-09-15,4:25PM,Kansas City Chiefs,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202409150kan.htm,26,25,286,3,320,1,Kansas City Chiefs,Cincinnati Bengals
+2,Sun,2024-09-15,4:25PM,Pittsburgh Steelers,Denver Broncos,https://www.pro-football-reference.com/boxscores/202409150den.htm,13,6,251,0,295,2,Denver Broncos,Pittsburgh Steelers
+2,Sun,2024-09-15,8:20PM,Houston Texans,Chicago Bears,https://www.pro-football-reference.com/boxscores/202409150htx.htm,19,13,310,1,205,2,Houston Texans,Chicago Bears
+2,Mon,2024-09-16,8:15PM,Atlanta Falcons,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202409160phi.htm,22,21,385,0,365,1,Philadelphia Eagles,Atlanta Falcons
+3,Thu,2024-09-19,8:15PM,New York Jets,New England Patriots,https://www.pro-football-reference.com/boxscores/202409190nyj.htm,24,3,400,0,139,1,New York Jets,New England Patriots
+3,Sun,2024-09-22,1:00PM,Indianapolis Colts,Chicago Bears,https://www.pro-football-reference.com/boxscores/202409220clt.htm,21,16,306,2,395,3,Indianapolis Colts,Chicago Bears
+3,Sun,2024-09-22,1:00PM,New York Giants,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202409220cle.htm,21,15,340,2,217,2,Cleveland Browns,New York Giants
+3,Sun,2024-09-22,1:00PM,Denver Broncos,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202409220tam.htm,26,7,352,1,223,2,Tampa Bay Buccaneers,Denver Broncos
+3,Sun,2024-09-22,1:00PM,Green Bay Packers,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202409220oti.htm,30,14,378,0,237,3,Tennessee Titans,Green Bay Packers
+3,Sun,2024-09-22,1:00PM,Minnesota Vikings,Houston Texans,https://www.pro-football-reference.com/boxscores/202409220min.htm,34,7,274,0,296,2,Minnesota Vikings,Houston Texans
+3,Sun,2024-09-22,1:00PM,Philadelphia Eagles,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202409220nor.htm,15,12,460,2,219,1,New Orleans Saints,Philadelphia Eagles
+3,Sun,2024-09-22,1:00PM,Pittsburgh Steelers,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202409220pit.htm,20,10,346,1,166,0,Pittsburgh Steelers,Los Angeles Chargers
+3,Sun,2024-09-22,4:05PM,Carolina Panthers,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202409220rai.htm,36,22,437,0,331,1,Las Vegas Raiders,Carolina Panthers
+3,Sun,2024-09-22,4:05PM,Seattle Seahawks,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202409220sea.htm,24,3,370,2,205,0,Seattle Seahawks,Miami Dolphins
+3,Sun,2024-09-22,4:25PM,Detroit Lions,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202409220crd.htm,20,13,373,1,277,1,Arizona Cardinals,Detroit Lions
+3,Sun,2024-09-22,4:25PM,Baltimore Ravens,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202409220dal.htm,28,25,456,0,412,1,Dallas Cowboys,Baltimore Ravens
+3,Sun,2024-09-22,4:25PM,Los Angeles Rams,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202409220ram.htm,27,24,296,0,425,1,Los Angeles Rams,San Francisco 49ers
+3,Sun,2024-09-22,8:20PM,Kansas City Chiefs,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202409220atl.htm,22,17,345,1,311,1,Atlanta Falcons,Kansas City Chiefs
+3,Mon,2024-09-23,7:30PM,Buffalo Bills,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202409230buf.htm,47,10,388,0,239,2,Buffalo Bills,Jacksonville Jaguars
+3,Mon,2024-09-23,8:15PM,Washington Commanders,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202409230cin.htm,38,33,356,0,436,0,Cincinnati Bengals,Washington Commanders
+4,Thu,2024-09-26,8:15PM,Dallas Cowboys,New York Giants,https://www.pro-football-reference.com/boxscores/202409260nyg.htm,20,15,293,0,303,1,New York Giants,Dallas Cowboys
+4,Sun,2024-09-29,1:00PM,Atlanta Falcons,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202409290atl.htm,26,24,315,1,366,2,Atlanta Falcons,New Orleans Saints
+4,Sun,2024-09-29,1:00PM,Cincinnati Bengals,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202409290car.htm,34,24,373,1,375,1,Carolina Panthers,Cincinnati Bengals
+4,Sun,2024-09-29,1:00PM,Chicago Bears,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202409290chi.htm,24,18,264,0,322,2,Chicago Bears,Los Angeles Rams
+4,Sun,2024-09-29,1:00PM,Indianapolis Colts,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202409290clt.htm,27,24,358,0,404,2,Indianapolis Colts,Pittsburgh Steelers
+4,Sun,2024-09-29,1:00PM,Denver Broncos,New York Jets,https://www.pro-football-reference.com/boxscores/202409290nyj.htm,10,9,186,1,248,1,New York Jets,Denver Broncos
+4,Sun,2024-09-29,1:00PM,Minnesota Vikings,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202409290gnb.htm,31,29,374,3,465,4,Green Bay Packers,Minnesota Vikings
+4,Sun,2024-09-29,1:00PM,Houston Texans,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202409290htx.htm,24,20,435,1,313,0,Houston Texans,Jacksonville Jaguars
+4,Sun,2024-09-29,1:00PM,Tampa Bay Buccaneers,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202409290tam.htm,33,16,445,0,227,2,Tampa Bay Buccaneers,Philadelphia Eagles
+4,Sun,2024-09-29,4:05PM,Washington Commanders,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202409290crd.htm,42,14,449,1,296,1,Arizona Cardinals,Washington Commanders
+4,Sun,2024-09-29,4:05PM,San Francisco 49ers,New England Patriots,https://www.pro-football-reference.com/boxscores/202409290sfo.htm,30,13,431,2,216,3,San Francisco 49ers,New England Patriots
+4,Sun,2024-09-29,4:25PM,Las Vegas Raiders,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202409290rai.htm,20,16,268,1,241,1,Las Vegas Raiders,Cleveland Browns
+4,Sun,2024-09-29,4:25PM,Kansas City Chiefs,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202409290sdg.htm,17,10,329,2,224,0,Los Angeles Chargers,Kansas City Chiefs
+4,Sun,2024-09-29,8:20PM,Baltimore Ravens,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202409290rav.htm,35,10,427,1,236,1,Baltimore Ravens,Buffalo Bills
+4,Mon,2024-09-30,7:30PM,Tennessee Titans,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202409300mia.htm,31,12,244,1,184,1,Miami Dolphins,Tennessee Titans
+4,Mon,2024-09-30,8:15PM,Detroit Lions,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202409300det.htm,42,29,389,0,516,2,Detroit Lions,Seattle Seahawks
+5,Thu,2024-10-03,8:15PM,Atlanta Falcons,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202410030atl.htm,36,30,550,1,333,1,Atlanta Falcons,Tampa Bay Buccaneers
+5,Sun,2024-10-06,9:30AM,Minnesota Vikings,New York Jets,https://www.pro-football-reference.com/boxscores/202410060min.htm,23,17,253,2,254,3,Minnesota Vikings,New York Jets
+5,Sun,2024-10-06,1:00PM,Houston Texans,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202410060htx.htm,23,20,425,2,276,0,Houston Texans,Buffalo Bills
+5,Sun,2024-10-06,1:00PM,Chicago Bears,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202410060chi.htm,36,10,424,0,292,3,Chicago Bears,Carolina Panthers
+5,Sun,2024-10-06,1:00PM,Baltimore Ravens,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202410060cin.htm,41,38,520,1,442,1,Cincinnati Bengals,Baltimore Ravens
+5,Sun,2024-10-06,1:00PM,Washington Commanders,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202410060was.htm,34,13,434,2,212,1,Washington Commanders,Cleveland Browns
+5,Sun,2024-10-06,1:00PM,Jacksonville Jaguars,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202410060jax.htm,37,34,497,2,447,1,Jacksonville Jaguars,Indianapolis Colts
+5,Sun,2024-10-06,1:00PM,Miami Dolphins,New England Patriots,https://www.pro-football-reference.com/boxscores/202410060nwe.htm,15,10,372,2,299,0,New England Patriots,Miami Dolphins
+5,Sun,2024-10-06,4:05PM,Arizona Cardinals,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202410060sfo.htm,24,23,358,1,384,3,San Francisco 49ers,Arizona Cardinals
+5,Sun,2024-10-06,4:05PM,Denver Broncos,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202410060den.htm,34,18,289,0,330,3,Denver Broncos,Las Vegas Raiders
+5,Sun,2024-10-06,4:25PM,Green Bay Packers,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202410060ram.htm,24,19,328,1,370,2,Los Angeles Rams,Green Bay Packers
+5,Sun,2024-10-06,4:25PM,New York Giants,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202410060sea.htm,29,20,420,1,333,1,Seattle Seahawks,New York Giants
+5,Sun,2024-10-06,8:20PM,Dallas Cowboys,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202410060pit.htm,20,17,445,3,226,1,Pittsburgh Steelers,Dallas Cowboys
+5,Mon,2024-10-07,8:15PM,Kansas City Chiefs,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202410070kan.htm,26,13,460,1,220,1,Kansas City Chiefs,New Orleans Saints
+6,Thu,2024-10-10,8:15PM,San Francisco 49ers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202410100sea.htm,36,24,483,0,358,3,Seattle Seahawks,San Francisco 49ers
+6,Sun,2024-10-13,9:30AM,Chicago Bears,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202410130chi.htm,35,16,373,1,278,2,Chicago Bears,Jacksonville Jaguars
+6,Sun,2024-10-13,1:00PM,Philadelphia Eagles,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202410130phi.htm,20,16,372,0,244,0,Philadelphia Eagles,Cleveland Browns
+6,Sun,2024-10-13,1:00PM,Indianapolis Colts,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202410130oti.htm,20,17,269,1,241,1,Tennessee Titans,Indianapolis Colts
+6,Sun,2024-10-13,1:00PM,Green Bay Packers,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202410130gnb.htm,34,13,437,1,303,3,Green Bay Packers,Arizona Cardinals
+6,Sun,2024-10-13,1:00PM,Houston Texans,New England Patriots,https://www.pro-football-reference.com/boxscores/202410130nwe.htm,41,21,368,1,291,4,New England Patriots,Houston Texans
+6,Sun,2024-10-13,1:00PM,Tampa Bay Buccaneers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202410130nor.htm,51,27,594,3,303,3,New Orleans Saints,Tampa Bay Buccaneers
+6,Sun,2024-10-13,1:00PM,Baltimore Ravens,Washington Commanders,https://www.pro-football-reference.com/boxscores/202410130rav.htm,30,23,484,1,305,0,Baltimore Ravens,Washington Commanders
+6,Sun,2024-10-13,4:05PM,Los Angeles Chargers,Denver Broncos,https://www.pro-football-reference.com/boxscores/202410130den.htm,23,16,350,0,316,2,Denver Broncos,Los Angeles Chargers
+6,Sun,2024-10-13,4:05PM,Pittsburgh Steelers,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202410130rai.htm,32,13,293,0,275,3,Las Vegas Raiders,Pittsburgh Steelers
+6,Sun,2024-10-13,4:25PM,Atlanta Falcons,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202410130car.htm,38,20,423,1,335,2,Carolina Panthers,Atlanta Falcons
+6,Sun,2024-10-13,4:25PM,Detroit Lions,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202410130dal.htm,47,9,492,0,251,5,Dallas Cowboys,Detroit Lions
+6,Sun,2024-10-13,8:20PM,Cincinnati Bengals,New York Giants,https://www.pro-football-reference.com/boxscores/202410130nyg.htm,17,7,304,1,309,1,New York Giants,Cincinnati Bengals
+6,Mon,2024-10-14,8:15PM,Buffalo Bills,New York Jets,https://www.pro-football-reference.com/boxscores/202410140nyj.htm,23,20,359,0,393,1,New York Jets,Buffalo Bills
+7,Thu,2024-10-17,8:15PM,Denver Broncos,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202410170nor.htm,33,10,389,1,271,2,New Orleans Saints,Denver Broncos
+7,Sun,2024-10-20,9:30AM,Jacksonville Jaguars,New England Patriots,https://www.pro-football-reference.com/boxscores/202410200jax.htm,32,16,364,0,295,0,Jacksonville Jaguars,New England Patriots
+7,Sun,2024-10-20,1:00PM,Detroit Lions,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202410200min.htm,31,29,391,1,383,1,Minnesota Vikings,Detroit Lions
+7,Sun,2024-10-20,1:00PM,Seattle Seahawks,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202410200atl.htm,34,14,339,0,369,3,Atlanta Falcons,Seattle Seahawks
+7,Sun,2024-10-20,1:00PM,Buffalo Bills,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202410200buf.htm,34,10,389,0,289,2,Buffalo Bills,Tennessee Titans
+7,Sun,2024-10-20,1:00PM,Cincinnati Bengals,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202410200cle.htm,21,14,223,0,336,2,Cleveland Browns,Cincinnati Bengals
+7,Sun,2024-10-20,1:00PM,Indianapolis Colts,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202410200clt.htm,16,10,284,1,337,2,Indianapolis Colts,Miami Dolphins
+7,Sun,2024-10-20,1:00PM,Green Bay Packers,Houston Texans,https://www.pro-football-reference.com/boxscores/202410200gnb.htm,24,22,277,3,197,0,Green Bay Packers,Houston Texans
+7,Sun,2024-10-20,1:00PM,Philadelphia Eagles,New York Giants,https://www.pro-football-reference.com/boxscores/202410200nyg.htm,28,3,339,0,119,0,New York Giants,Philadelphia Eagles
+7,Sun,2024-10-20,4:05PM,Washington Commanders,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202410200was.htm,40,7,421,0,180,2,Washington Commanders,Carolina Panthers
+7,Sun,2024-10-20,4:05PM,Los Angeles Rams,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202410200ram.htm,20,15,259,1,317,4,Los Angeles Rams,Las Vegas Raiders
+7,Sun,2024-10-20,4:25PM,Kansas City Chiefs,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202410200sfo.htm,28,18,329,2,310,3,San Francisco 49ers,Kansas City Chiefs
+7,Sun,2024-10-20,8:20PM,Pittsburgh Steelers,New York Jets,https://www.pro-football-reference.com/boxscores/202410200pit.htm,37,15,409,0,323,2,Pittsburgh Steelers,New York Jets
+7,Mon,2024-10-21,8:15PM,Baltimore Ravens,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202410210tam.htm,41,31,508,1,481,2,Tampa Bay Buccaneers,Baltimore Ravens
+7,Mon,2024-10-21,9:00PM,Arizona Cardinals,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202410210crd.htm,17,15,326,1,395,2,Arizona Cardinals,Los Angeles Chargers
+8,Thu,2024-10-24,8:15PM,Los Angeles Rams,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202410240ram.htm,30,20,386,1,276,0,Los Angeles Rams,Minnesota Vikings
+8,Sun,2024-10-27,1:00PM,Detroit Lions,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202410270det.htm,52,14,225,0,416,4,Detroit Lions,Tennessee Titans
+8,Sun,2024-10-27,1:00PM,Atlanta Falcons,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202410270tam.htm,31,26,394,0,432,3,Tampa Bay Buccaneers,Atlanta Falcons
+8,Sun,2024-10-27,1:00PM,Philadelphia Eagles,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202410270cin.htm,37,17,397,0,280,2,Cincinnati Bengals,Philadelphia Eagles
+8,Sun,2024-10-27,1:00PM,Cleveland Browns,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202410270cle.htm,29,24,401,1,387,0,Cleveland Browns,Baltimore Ravens
+8,Sun,2024-10-27,1:00PM,Houston Texans,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202410270htx.htm,23,20,363,1,303,2,Houston Texans,Indianapolis Colts
+8,Sun,2024-10-27,1:00PM,Arizona Cardinals,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202410270mia.htm,28,27,389,0,377,0,Miami Dolphins,Arizona Cardinals
+8,Sun,2024-10-27,1:00PM,Green Bay Packers,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202410270jax.htm,30,27,422,1,390,2,Jacksonville Jaguars,Green Bay Packers
+8,Sun,2024-10-27,1:00PM,New England Patriots,New York Jets,https://www.pro-football-reference.com/boxscores/202410270nwe.htm,25,22,248,0,336,0,New England Patriots,New York Jets
+8,Sun,2024-10-27,4:05PM,Buffalo Bills,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202410270sea.htm,31,10,445,1,233,2,Seattle Seahawks,Buffalo Bills
+8,Sun,2024-10-27,4:05PM,Los Angeles Chargers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202410270sdg.htm,26,8,378,0,366,0,Los Angeles Chargers,New Orleans Saints
+8,Sun,2024-10-27,4:25PM,Washington Commanders,Chicago Bears,https://www.pro-football-reference.com/boxscores/202410270was.htm,18,15,481,0,307,1,Washington Commanders,Chicago Bears
+8,Sun,2024-10-27,4:25PM,Kansas City Chiefs,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202410270rai.htm,27,20,334,1,228,1,Las Vegas Raiders,Kansas City Chiefs
+8,Sun,2024-10-27,4:25PM,Denver Broncos,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202410270den.htm,28,14,400,2,284,2,Denver Broncos,Carolina Panthers
+8,Sun,2024-10-27,8:20PM,San Francisco 49ers,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202410270sfo.htm,30,24,469,0,292,2,San Francisco 49ers,Dallas Cowboys
+8,Mon,2024-10-28,8:15PM,Pittsburgh Steelers,New York Giants,https://www.pro-football-reference.com/boxscores/202410280pit.htm,26,18,426,1,394,2,Pittsburgh Steelers,New York Giants
+9,Thu,2024-10-31,8:15PM,New York Jets,Houston Texans,https://www.pro-football-reference.com/boxscores/202410310nyj.htm,21,13,293,1,322,1,New York Jets,Houston Texans
+9,Sun,2024-11-03,1:00PM,Atlanta Falcons,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202411030atl.htm,27,21,310,1,378,0,Atlanta Falcons,Dallas Cowboys
+9,Sun,2024-11-03,1:00PM,Buffalo Bills,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202411030buf.htm,30,27,325,1,373,1,Buffalo Bills,Miami Dolphins
+9,Sun,2024-11-03,1:00PM,Carolina Panthers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202411030car.htm,23,22,246,1,427,0,Carolina Panthers,New Orleans Saints
+9,Sun,2024-11-03,1:00PM,Cincinnati Bengals,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202411030cin.htm,41,24,373,1,217,2,Cincinnati Bengals,Las Vegas Raiders
+9,Sun,2024-11-03,1:00PM,Los Angeles Chargers,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202411030cle.htm,27,10,342,0,292,3,Cleveland Browns,Los Angeles Chargers
+9,Sun,2024-11-03,1:00PM,Baltimore Ravens,Denver Broncos,https://www.pro-football-reference.com/boxscores/202411030rav.htm,41,10,396,0,319,1,Baltimore Ravens,Denver Broncos
+9,Sun,2024-11-03,1:00PM,Tennessee Titans,New England Patriots,https://www.pro-football-reference.com/boxscores/202411030oti.htm,20,17,400,1,295,3,Tennessee Titans,New England Patriots
+9,Sun,2024-11-03,1:00PM,Washington Commanders,New York Giants,https://www.pro-football-reference.com/boxscores/202411030nyg.htm,27,22,358,0,326,1,New York Giants,Washington Commanders
+9,Sun,2024-11-03,4:05PM,Arizona Cardinals,Chicago Bears,https://www.pro-football-reference.com/boxscores/202411030crd.htm,29,9,350,2,241,0,Arizona Cardinals,Chicago Bears
+9,Sun,2024-11-03,4:05PM,Philadelphia Eagles,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202411030phi.htm,28,23,447,1,215,3,Philadelphia Eagles,Jacksonville Jaguars
+9,Sun,2024-11-03,4:25PM,Detroit Lions,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202411030gnb.htm,24,14,261,0,411,1,Green Bay Packers,Detroit Lions
+9,Sun,2024-11-03,4:25PM,Los Angeles Rams,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202411030sea.htm,26,20,366,1,424,3,Seattle Seahawks,Los Angeles Rams
+9,Sun,2024-11-03,8:20PM,Minnesota Vikings,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202411030min.htm,21,13,415,3,227,2,Minnesota Vikings,Indianapolis Colts
+9,Mon,2024-11-04,8:15PM,Kansas City Chiefs,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202411040kan.htm,30,24,384,1,284,0,Kansas City Chiefs,Tampa Bay Buccaneers
+10,Thu,2024-11-07,8:15PM,Baltimore Ravens,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202411070rav.htm,35,34,389,0,470,1,Baltimore Ravens,Cincinnati Bengals
+10,Sun,2024-11-10,9:30AM,Carolina Panthers,New York Giants,https://www.pro-football-reference.com/boxscores/202411100car.htm,20,17,306,1,342,3,Carolina Panthers,New York Giants
+10,Sun,2024-11-10,1:00PM,New England Patriots,Chicago Bears,https://www.pro-football-reference.com/boxscores/202411100chi.htm,19,3,328,1,142,0,Chicago Bears,New England Patriots
+10,Sun,2024-11-10,1:00PM,Pittsburgh Steelers,Washington Commanders,https://www.pro-football-reference.com/boxscores/202411100was.htm,28,27,312,2,242,1,Washington Commanders,Pittsburgh Steelers
+10,Sun,2024-11-10,1:00PM,San Francisco 49ers,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202411100tam.htm,23,20,413,1,215,0,Tampa Bay Buccaneers,San Francisco 49ers
+10,Sun,2024-11-10,1:00PM,New Orleans Saints,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202411100nor.htm,20,17,365,0,468,1,New Orleans Saints,Atlanta Falcons
+10,Sun,2024-11-10,1:00PM,Buffalo Bills,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202411100clt.htm,30,20,415,2,361,4,Indianapolis Colts,Buffalo Bills
+10,Sun,2024-11-10,1:00PM,Kansas City Chiefs,Denver Broncos,https://www.pro-football-reference.com/boxscores/202411100kan.htm,16,14,300,0,260,0,Kansas City Chiefs,Denver Broncos
+10,Sun,2024-11-10,1:00PM,Minnesota Vikings,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202411100jax.htm,12,7,402,3,143,3,Jacksonville Jaguars,Minnesota Vikings
+10,Sun,2024-11-10,4:05PM,Los Angeles Chargers,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202411100sdg.htm,27,17,309,0,289,0,Los Angeles Chargers,Tennessee Titans
+10,Sun,2024-11-10,4:25PM,Philadelphia Eagles,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202411100dal.htm,34,6,348,2,146,5,Dallas Cowboys,Philadelphia Eagles
+10,Sun,2024-11-10,4:25PM,Arizona Cardinals,New York Jets,https://www.pro-football-reference.com/boxscores/202411100crd.htm,31,6,406,0,207,1,Arizona Cardinals,New York Jets
+10,Sun,2024-11-10,8:20PM,Detroit Lions,Houston Texans,https://www.pro-football-reference.com/boxscores/202411100htx.htm,26,23,345,5,248,2,Houston Texans,Detroit Lions
+10,Mon,2024-11-11,8:15PM,Miami Dolphins,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202411110ram.htm,23,15,238,2,327,2,Los Angeles Rams,Miami Dolphins
+11,Thu,2024-11-14,8:15PM,Philadelphia Eagles,Washington Commanders,https://www.pro-football-reference.com/boxscores/202411140phi.htm,26,18,434,0,264,1,Philadelphia Eagles,Washington Commanders
+11,Sun,2024-11-17,1:00PM,Green Bay Packers,Chicago Bears,https://www.pro-football-reference.com/boxscores/202411170chi.htm,20,19,366,1,391,0,Chicago Bears,Green Bay Packers
+11,Sun,2024-11-17,1:00PM,New Orleans Saints,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202411170nor.htm,35,14,473,2,443,0,New Orleans Saints,Cleveland Browns
+11,Sun,2024-11-17,1:00PM,Detroit Lions,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202411170det.htm,52,6,645,0,170,1,Detroit Lions,Jacksonville Jaguars
+11,Sun,2024-11-17,1:00PM,Miami Dolphins,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202411170mia.htm,34,19,353,0,328,1,Miami Dolphins,Las Vegas Raiders
+11,Sun,2024-11-17,1:00PM,Minnesota Vikings,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202411170oti.htm,23,13,318,1,294,1,Tennessee Titans,Minnesota Vikings
+11,Sun,2024-11-17,1:00PM,Pittsburgh Steelers,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202411170pit.htm,18,16,303,1,329,3,Pittsburgh Steelers,Baltimore Ravens
+11,Sun,2024-11-17,1:00PM,Indianapolis Colts,New York Jets,https://www.pro-football-reference.com/boxscores/202411170nyj.htm,28,27,332,1,253,0,New York Jets,Indianapolis Colts
+11,Sun,2024-11-17,1:00PM,Los Angeles Rams,New England Patriots,https://www.pro-football-reference.com/boxscores/202411170nwe.htm,28,22,402,0,382,2,New England Patriots,Los Angeles Rams
+11,Sun,2024-11-17,4:05PM,Seattle Seahawks,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202411170sfo.htm,20,17,289,1,277,1,San Francisco 49ers,Seattle Seahawks
+11,Sun,2024-11-17,4:05PM,Denver Broncos,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202411170den.htm,38,6,400,0,226,1,Denver Broncos,Atlanta Falcons
+11,Sun,2024-11-17,4:25PM,Buffalo Bills,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202411170buf.htm,30,21,366,1,259,2,Buffalo Bills,Kansas City Chiefs
+11,Sun,2024-11-17,8:20PM,Los Angeles Chargers,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202411170sdg.htm,34,27,435,1,452,0,Los Angeles Chargers,Cincinnati Bengals
+11,Mon,2024-11-18,8:15PM,Houston Texans,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202411180dal.htm,34,10,391,1,388,2,Dallas Cowboys,Houston Texans
+12,Thu,2024-11-21,8:15PM,Cleveland Browns,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202411210cle.htm,24,19,304,3,368,1,Cleveland Browns,Pittsburgh Steelers
+12,Sun,2024-11-24,1:00PM,Kansas City Chiefs,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202411240car.htm,30,27,391,0,334,0,Carolina Panthers,Kansas City Chiefs
+12,Sun,2024-11-24,1:00PM,Minnesota Vikings,Chicago Bears,https://www.pro-football-reference.com/boxscores/202411240chi.htm,30,27,452,1,398,1,Chicago Bears,Minnesota Vikings
+12,Sun,2024-11-24,1:00PM,Dallas Cowboys,Washington Commanders,https://www.pro-football-reference.com/boxscores/202411240was.htm,34,26,332,1,412,3,Washington Commanders,Dallas Cowboys
+12,Sun,2024-11-24,1:00PM,Miami Dolphins,New England Patriots,https://www.pro-football-reference.com/boxscores/202411240mia.htm,34,15,373,1,269,2,Miami Dolphins,New England Patriots
+12,Sun,2024-11-24,1:00PM,Tampa Bay Buccaneers,New York Giants,https://www.pro-football-reference.com/boxscores/202411240nyg.htm,30,7,451,1,245,1,New York Giants,Tampa Bay Buccaneers
+12,Sun,2024-11-24,1:00PM,Detroit Lions,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202411240clt.htm,24,6,390,0,268,0,Indianapolis Colts,Detroit Lions
+12,Sun,2024-11-24,1:00PM,Tennessee Titans,Houston Texans,https://www.pro-football-reference.com/boxscores/202411240htx.htm,32,27,369,3,260,2,Houston Texans,Tennessee Titans
+12,Sun,2024-11-24,4:05PM,Denver Broncos,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202411240rai.htm,29,19,325,0,369,2,Las Vegas Raiders,Denver Broncos
+12,Sun,2024-11-24,4:25PM,Seattle Seahawks,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202411240sea.htm,16,6,285,1,298,1,Seattle Seahawks,Arizona Cardinals
+12,Sun,2024-11-24,4:25PM,Green Bay Packers,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202411240gnb.htm,38,10,325,0,241,3,Green Bay Packers,San Francisco 49ers
+12,Sun,2024-11-24,8:20PM,Philadelphia Eagles,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202411240ram.htm,37,20,481,0,290,1,Los Angeles Rams,Philadelphia Eagles
+12,Mon,2024-11-25,8:15PM,Baltimore Ravens,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202411250sdg.htm,30,23,389,0,285,0,Los Angeles Chargers,Baltimore Ravens
+13,Thu,2024-11-28,12:30PM,Detroit Lions,Chicago Bears,https://www.pro-football-reference.com/boxscores/202411280det.htm,23,20,405,1,301,0,Detroit Lions,Chicago Bears
+13,Thu,2024-11-28,4:30PM,Dallas Cowboys,New York Giants,https://www.pro-football-reference.com/boxscores/202411280dal.htm,27,20,317,0,247,2,Dallas Cowboys,New York Giants
+13,Thu,2024-11-28,8:20PM,Green Bay Packers,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202411280gnb.htm,30,17,388,0,375,1,Green Bay Packers,Miami Dolphins
+13,Fri,2024-11-29,3:00PM,Kansas City Chiefs,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202411290kan.htm,19,17,329,0,434,1,Kansas City Chiefs,Las Vegas Raiders
+13,Sun,2024-12-01,1:00PM,Los Angeles Chargers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202412010atl.htm,17,13,187,1,350,4,Atlanta Falcons,Los Angeles Chargers
+13,Sun,2024-12-01,1:00PM,Pittsburgh Steelers,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202412010cin.htm,44,38,520,1,375,3,Cincinnati Bengals,Pittsburgh Steelers
+13,Sun,2024-12-01,1:00PM,Minnesota Vikings,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202412010min.htm,23,22,273,1,406,2,Minnesota Vikings,Arizona Cardinals
+13,Sun,2024-12-01,1:00PM,Seattle Seahawks,New York Jets,https://www.pro-football-reference.com/boxscores/202412010nyj.htm,26,21,259,2,258,2,New York Jets,Seattle Seahawks
+13,Sun,2024-12-01,1:00PM,Washington Commanders,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202412010was.htm,42,19,463,1,245,2,Washington Commanders,Tennessee Titans
+13,Sun,2024-12-01,1:00PM,Indianapolis Colts,New England Patriots,https://www.pro-football-reference.com/boxscores/202412010nwe.htm,25,24,253,2,422,1,New England Patriots,Indianapolis Colts
+13,Sun,2024-12-01,1:00PM,Houston Texans,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202412010jax.htm,23,20,326,0,373,1,Jacksonville Jaguars,Houston Texans
+13,Sun,2024-12-01,4:05PM,Tampa Bay Buccaneers,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202412010car.htm,26,23,445,2,367,1,Carolina Panthers,Tampa Bay Buccaneers
+13,Sun,2024-12-01,4:05PM,Los Angeles Rams,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202412010nor.htm,21,14,322,0,327,0,New Orleans Saints,Los Angeles Rams
+13,Sun,2024-12-01,4:25PM,Philadelphia Eagles,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202412010rav.htm,24,19,252,0,372,0,Baltimore Ravens,Philadelphia Eagles
+13,Sun,2024-12-01,8:20PM,Buffalo Bills,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202412010buf.htm,35,10,372,0,239,3,Buffalo Bills,San Francisco 49ers
+13,Mon,2024-12-02,8:15PM,Denver Broncos,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202412020den.htm,41,32,400,2,552,3,Denver Broncos,Cleveland Browns
+14,Thu,2024-12-05,8:15PM,Detroit Lions,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202412050det.htm,34,31,391,1,298,1,Detroit Lions,Green Bay Packers
+14,Sun,2024-12-08,1:00PM,Minnesota Vikings,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202412080min.htm,42,21,433,0,496,3,Minnesota Vikings,Atlanta Falcons
+14,Sun,2024-12-08,1:00PM,Philadelphia Eagles,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202412080phi.htm,22,16,292,0,302,1,Philadelphia Eagles,Carolina Panthers
+14,Sun,2024-12-08,1:00PM,Pittsburgh Steelers,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202412080pit.htm,27,14,267,1,300,3,Pittsburgh Steelers,Cleveland Browns
+14,Sun,2024-12-08,1:00PM,Jacksonville Jaguars,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202412080oti.htm,10,6,291,2,272,0,Tennessee Titans,Jacksonville Jaguars
+14,Sun,2024-12-08,1:00PM,Miami Dolphins,New York Jets,https://www.pro-football-reference.com/boxscores/202412080mia.htm,32,26,375,0,402,0,Miami Dolphins,New York Jets
+14,Sun,2024-12-08,1:00PM,New Orleans Saints,New York Giants,https://www.pro-football-reference.com/boxscores/202412080nyg.htm,14,11,292,1,325,1,New York Giants,New Orleans Saints
+14,Sun,2024-12-08,1:00PM,Tampa Bay Buccaneers,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202412080tam.htm,28,13,420,3,286,2,Tampa Bay Buccaneers,Las Vegas Raiders
+14,Sun,2024-12-08,4:05PM,Seattle Seahawks,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202412080crd.htm,30,18,409,0,356,2,Arizona Cardinals,Seattle Seahawks
+14,Sun,2024-12-08,4:25PM,Los Angeles Rams,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202412080ram.htm,44,42,457,0,445,0,Los Angeles Rams,Buffalo Bills
+14,Sun,2024-12-08,4:25PM,San Francisco 49ers,Chicago Bears,https://www.pro-football-reference.com/boxscores/202412080sfo.htm,38,13,452,1,162,1,San Francisco 49ers,Chicago Bears
+14,Sun,2024-12-08,8:20PM,Kansas City Chiefs,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202412080kan.htm,19,17,298,0,288,0,Kansas City Chiefs,Los Angeles Chargers
+14,Mon,2024-12-09,8:15PM,Cincinnati Bengals,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202412090dal.htm,27,20,433,1,322,2,Dallas Cowboys,Cincinnati Bengals
+15,Thu,2024-12-12,8:15PM,Los Angeles Rams,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202412120sfo.htm,12,6,302,0,191,1,San Francisco 49ers,Los Angeles Rams
+15,Sun,2024-12-15,1:00PM,Dallas Cowboys,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202412150car.htm,30,14,410,1,235,4,Carolina Panthers,Dallas Cowboys
+15,Sun,2024-12-15,1:00PM,Cincinnati Bengals,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202412150oti.htm,37,27,370,4,374,6,Tennessee Titans,Cincinnati Bengals
+15,Sun,2024-12-15,1:00PM,Kansas City Chiefs,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202412150cle.htm,21,7,311,0,266,6,Cleveland Browns,Kansas City Chiefs
+15,Sun,2024-12-15,1:00PM,Houston Texans,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202412150htx.htm,20,12,181,1,224,4,Houston Texans,Miami Dolphins
+15,Sun,2024-12-15,1:00PM,New York Jets,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202412150jax.htm,32,25,400,0,421,2,Jacksonville Jaguars,New York Jets
+15,Sun,2024-12-15,1:00PM,Washington Commanders,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202412150nor.htm,20,19,326,0,245,1,New Orleans Saints,Washington Commanders
+15,Sun,2024-12-15,1:00PM,Baltimore Ravens,New York Giants,https://www.pro-football-reference.com/boxscores/202412150nyg.htm,35,14,445,1,236,1,New York Giants,Baltimore Ravens
+15,Sun,2024-12-15,4:25PM,Buffalo Bills,Detroit Lions,https://www.pro-football-reference.com/boxscores/202412150det.htm,48,42,559,0,521,1,Detroit Lions,Buffalo Bills
+15,Sun,2024-12-15,4:25PM,Denver Broncos,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202412150den.htm,31,13,193,3,310,5,Denver Broncos,Indianapolis Colts
+15,Sun,2024-12-15,4:25PM,Arizona Cardinals,New England Patriots,https://www.pro-football-reference.com/boxscores/202412150crd.htm,30,17,395,0,311,1,Arizona Cardinals,New England Patriots
+15,Sun,2024-12-15,4:25PM,Philadelphia Eagles,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202412150phi.htm,27,13,401,2,163,1,Philadelphia Eagles,Pittsburgh Steelers
+15,Sun,2024-12-15,4:25PM,Tampa Bay Buccaneers,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202412150sdg.htm,40,17,506,2,206,2,Los Angeles Chargers,Tampa Bay Buccaneers
+15,Sun,2024-12-15,8:20PM,Green Bay Packers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202412150sea.htm,30,13,369,1,208,2,Seattle Seahawks,Green Bay Packers
+15,Mon,2024-12-16,8:00PM,Minnesota Vikings,Chicago Bears,https://www.pro-football-reference.com/boxscores/202412160min.htm,30,12,329,1,284,1,Minnesota Vikings,Chicago Bears
+15,Mon,2024-12-16,8:30PM,Atlanta Falcons,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202412160rai.htm,15,9,261,1,249,3,Las Vegas Raiders,Atlanta Falcons
+16,Thu,2024-12-19,8:15PM,Los Angeles Chargers,Denver Broncos,https://www.pro-football-reference.com/boxscores/202412190sdg.htm,34,27,380,1,355,0,Los Angeles Chargers,Denver Broncos
+16,Sat,2024-12-21,1:00PM,Kansas City Chiefs,Houston Texans,https://www.pro-football-reference.com/boxscores/202412210kan.htm,27,19,375,0,311,2,Kansas City Chiefs,Houston Texans
+16,Sat,2024-12-21,4:30PM,Baltimore Ravens,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202412210rav.htm,34,17,418,1,315,2,Baltimore Ravens,Pittsburgh Steelers
+16,Sun,2024-12-22,1:00PM,Atlanta Falcons,New York Giants,https://www.pro-football-reference.com/boxscores/202412220atl.htm,34,7,329,1,234,3,Atlanta Falcons,New York Giants
+16,Sun,2024-12-22,1:00PM,Carolina Panthers,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202412220car.htm,36,30,392,0,382,2,Carolina Panthers,Arizona Cardinals
+16,Sun,2024-12-22,1:00PM,Detroit Lions,Chicago Bears,https://www.pro-football-reference.com/boxscores/202412220chi.htm,34,17,475,0,382,2,Chicago Bears,Detroit Lions
+16,Sun,2024-12-22,1:00PM,Cincinnati Bengals,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202412220cin.htm,24,6,326,1,273,3,Cincinnati Bengals,Cleveland Browns
+16,Sun,2024-12-22,1:00PM,Indianapolis Colts,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202412220clt.htm,38,30,458,1,307,3,Indianapolis Colts,Tennessee Titans
+16,Sun,2024-12-22,1:00PM,Los Angeles Rams,New York Jets,https://www.pro-football-reference.com/boxscores/202412220nyj.htm,19,9,242,1,321,2,New York Jets,Los Angeles Rams
+16,Sun,2024-12-22,1:00PM,Washington Commanders,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202412220was.htm,36,33,368,5,338,2,Washington Commanders,Philadelphia Eagles
+16,Sun,2024-12-22,4:05PM,Minnesota Vikings,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202412220sea.htm,27,24,298,0,361,2,Seattle Seahawks,Minnesota Vikings
+16,Sun,2024-12-22,4:25PM,Buffalo Bills,New England Patriots,https://www.pro-football-reference.com/boxscores/202412220buf.htm,24,21,324,1,379,3,Buffalo Bills,New England Patriots
+16,Sun,2024-12-22,4:25PM,Las Vegas Raiders,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202412220rai.htm,19,14,314,0,308,2,Las Vegas Raiders,Jacksonville Jaguars
+16,Sun,2024-12-22,4:25PM,Miami Dolphins,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202412220mia.htm,29,17,381,0,374,1,Miami Dolphins,San Francisco 49ers
+16,Sun,2024-12-22,8:20PM,Dallas Cowboys,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202412220dal.htm,26,24,317,0,410,2,Dallas Cowboys,Tampa Bay Buccaneers
+16,Mon,2024-12-23,8:15PM,Green Bay Packers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202412230gnb.htm,34,0,404,0,196,2,Green Bay Packers,New Orleans Saints
+17,Wed,2024-12-25,1:00PM,Kansas City Chiefs,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202412250pit.htm,29,10,389,0,364,2,Pittsburgh Steelers,Kansas City Chiefs
+17,Wed,2024-12-25,4:30PM,Baltimore Ravens,Houston Texans,https://www.pro-football-reference.com/boxscores/202412250htx.htm,31,2,432,0,211,1,Houston Texans,Baltimore Ravens
+17,Thu,2024-12-26,8:15PM,Seattle Seahawks,Chicago Bears,https://www.pro-football-reference.com/boxscores/202412260chi.htm,6,3,265,1,179,1,Chicago Bears,Seattle Seahawks
+17,Sat,2024-12-28,1:00PM,Los Angeles Chargers,New England Patriots,https://www.pro-football-reference.com/boxscores/202412280nwe.htm,40,7,428,0,181,1,New England Patriots,Los Angeles Chargers
+17,Sat,2024-12-28,4:30PM,Cincinnati Bengals,Denver Broncos,https://www.pro-football-reference.com/boxscores/202412280cin.htm,30,24,499,1,329,1,Cincinnati Bengals,Denver Broncos
+17,Sat,2024-12-28,8:10PM,Los Angeles Rams,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202412280ram.htm,13,9,257,0,396,2,Los Angeles Rams,Arizona Cardinals
+17,Sun,2024-12-29,1:00PM,Buffalo Bills,New York Jets,https://www.pro-football-reference.com/boxscores/202412290buf.htm,40,14,348,0,281,3,Buffalo Bills,New York Jets
+17,Sun,2024-12-29,1:00PM,Tampa Bay Buccaneers,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202412290tam.htm,48,14,551,0,204,0,Tampa Bay Buccaneers,Carolina Panthers
+17,Sun,2024-12-29,1:00PM,New York Giants,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202412290nyg.htm,45,33,389,0,446,3,New York Giants,Indianapolis Colts
+17,Sun,2024-12-29,1:00PM,Philadelphia Eagles,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202412290phi.htm,41,7,376,0,268,4,Philadelphia Eagles,Dallas Cowboys
+17,Sun,2024-12-29,1:00PM,Jacksonville Jaguars,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202412290jax.htm,20,13,295,0,337,1,Jacksonville Jaguars,Tennessee Titans
+17,Sun,2024-12-29,1:00PM,Las Vegas Raiders,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202412290nor.htm,25,10,388,0,269,2,New Orleans Saints,Las Vegas Raiders
+17,Sun,2024-12-29,4:05PM,Miami Dolphins,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202412290cle.htm,20,3,280,0,276,2,Cleveland Browns,Miami Dolphins
+17,Sun,2024-12-29,4:25PM,Minnesota Vikings,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202412290min.htm,27,25,441,1,271,1,Minnesota Vikings,Green Bay Packers
+17,Sun,2024-12-29,8:20PM,Washington Commanders,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202412290was.htm,30,24,412,1,337,1,Washington Commanders,Atlanta Falcons
+17,Mon,2024-12-30,8:15PM,Detroit Lions,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202412300sfo.htm,40,34,439,0,475,2,San Francisco 49ers,Detroit Lions
+18,Sat,2025-01-04,4:30PM,Baltimore Ravens,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202501040rav.htm,35,10,437,0,230,2,Baltimore Ravens,Cleveland Browns
+18,Sat,2025-01-04,8:00PM,Cincinnati Bengals,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202501040pit.htm,19,17,314,2,193,1,Pittsburgh Steelers,Cincinnati Bengals
+18,Sun,2025-01-05,1:00PM,Carolina Panthers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202501050atl.htm,44,38,425,0,537,1,Atlanta Falcons,Carolina Panthers
+18,Sun,2025-01-05,1:00PM,New England Patriots,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202501050nwe.htm,23,16,309,1,259,0,New England Patriots,Buffalo Bills
+18,Sun,2025-01-05,1:00PM,Chicago Bears,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202501050gnb.htm,24,22,224,2,367,2,Green Bay Packers,Chicago Bears
+18,Sun,2025-01-05,1:00PM,Indianapolis Colts,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202501050clt.htm,26,23,429,0,319,1,Indianapolis Colts,Jacksonville Jaguars
+18,Sun,2025-01-05,1:00PM,Washington Commanders,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202501050dal.htm,23,19,269,1,378,0,Dallas Cowboys,Washington Commanders
+18,Sun,2025-01-05,1:00PM,Houston Texans,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202501050oti.htm,23,14,374,1,314,1,Tennessee Titans,Houston Texans
+18,Sun,2025-01-05,1:00PM,Tampa Bay Buccaneers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202501050tam.htm,27,19,395,1,292,0,Tampa Bay Buccaneers,New Orleans Saints
+18,Sun,2025-01-05,1:00PM,Philadelphia Eagles,New York Giants,https://www.pro-football-reference.com/boxscores/202501050phi.htm,20,13,303,0,238,1,Philadelphia Eagles,New York Giants
+18,Sun,2025-01-05,4:25PM,Arizona Cardinals,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202501050crd.htm,47,24,393,0,436,3,Arizona Cardinals,San Francisco 49ers
+18,Sun,2025-01-05,4:25PM,Denver Broncos,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202501050den.htm,38,0,479,0,98,0,Denver Broncos,Kansas City Chiefs
+18,Sun,2025-01-05,4:25PM,New York Jets,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202501050nyj.htm,32,20,375,1,334,4,New York Jets,Miami Dolphins
+18,Sun,2025-01-05,4:25PM,Los Angeles Chargers,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202501050rai.htm,34,20,473,0,264,1,Las Vegas Raiders,Los Angeles Chargers
+18,Sun,2025-01-05,4:25PM,Seattle Seahawks,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202501050ram.htm,30,25,336,0,403,1,Los Angeles Rams,Seattle Seahawks
+18,Sun,2025-01-05,8:20PM,Detroit Lions,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202501050det.htm,31,9,394,2,262,0,Detroit Lions,Minnesota Vikings
+,,Playoffs,,,,,,,,,,,,
+WildCard,Sat,2025-01-11,4:30PM,Houston Texans,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202501110htx.htm,32,12,429,3,261,4,Houston Texans,Los Angeles Chargers
+WildCard,Sat,2025-01-11,8:00PM,Baltimore Ravens,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202501110rav.htm,28,14,464,0,280,0,Baltimore Ravens,Pittsburgh Steelers
+WildCard,Sun,2025-01-12,1:00PM,Buffalo Bills,Denver Broncos,https://www.pro-football-reference.com/boxscores/202501120buf.htm,31,7,471,0,224,0,Buffalo Bills,Denver Broncos
+WildCard,Sun,2025-01-12,4:30PM,Philadelphia Eagles,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202501120phi.htm,22,10,290,0,302,4,Philadelphia Eagles,Green Bay Packers
+WildCard,Sun,2025-01-12,8:00PM,Washington Commanders,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202501120tam.htm,23,20,350,0,284,1,Tampa Bay Buccaneers,Washington Commanders
+WildCard,Mon,2025-01-13,8:00PM,Los Angeles Rams,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202501130ram.htm,27,9,292,0,269,2,Los Angeles Rams,Minnesota Vikings
+Division,Sat,2025-01-18,4:30PM,Kansas City Chiefs,Houston Texans,https://www.pro-football-reference.com/boxscores/202501180kan.htm,23,14,212,0,336,0,Kansas City Chiefs,Houston Texans
+Division,Sat,2025-01-18,8:00PM,Washington Commanders,Detroit Lions,https://www.pro-football-reference.com/boxscores/202501180det.htm,45,31,481,0,521,5,Detroit Lions,Washington Commanders
+Division,Sun,2025-01-19,3:00PM,Philadelphia Eagles,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202501190phi.htm,28,22,350,0,402,2,Philadelphia Eagles,Los Angeles Rams
+Division,Sun,2025-01-19,6:30PM,Buffalo Bills,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202501190buf.htm,27,25,273,0,416,3,Buffalo Bills,Baltimore Ravens
+ConfChamp,Sun,2025-01-26,3:00PM,Philadelphia Eagles,Washington Commanders,https://www.pro-football-reference.com/boxscores/202501260phi.htm,55,23,459,0,350,4,Philadelphia Eagles,Washington Commanders
+ConfChamp,Sun,2025-01-26,6:30PM,Kansas City Chiefs,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202501260kan.htm,32,29,368,1,374,0,Kansas City Chiefs,Buffalo Bills
+SuperBowl,Sun,2025-02-09,6:30PM,Philadelphia Eagles,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202502090phi.htm,40,22,345,1,275,3,Philadelphia Eagles,Kansas City Chiefs

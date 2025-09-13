@@ -1,0 +1,196 @@
+Quarter,Time,Down,ToGo,Location,ARI,LVR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Cardinals won the coin toss and deferred, Raiders to receive the opening kickoff.",,,2.0,2022,28
+1,15:00,,,ARI 35,0.0,0.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,2.0,2022,28
+1,15:00,1.0,10.0,LVR 25,0.0,0.0,Josh Jacobs up the middle for 7 yards (tackle by Jalen Thompson and Marco Wilson),0.61,1.01,2.0,2022,28
+1,14:22,2.0,3.0,LVR 32,0.0,0.0,Derek Carr sacked by J.J. Watt for -8 yards,1.01,-0.76,2.0,2022,28
+1,13:40,3.0,11.0,LVR 24,0.0,0.0,Derek Carr pass complete deep middle to Mack Hollins for 20 yards (tackle by Jace Whittaker),-0.76,1.86,2.0,2022,28
+1,13:02,1.0,10.0,LVR 44,0.0,0.0,Josh Jacobs up the middle for 6 yards (tackle by Jalen Thompson and Zach Allen),1.86,2.13,2.0,2022,28
+1,12:27,2.0,4.0,LVR 50,0.0,0.0,Josh Jacobs left guard for 3 yards (tackle by Zaven Collins),2.13,1.82,2.0,2022,28
+1,11:58,3.0,1.0,ARI 47,0.0,0.0,Josh Jacobs up the middle for 2 yards (tackle by Budda Baker),1.82,2.59,2.0,2022,28
+1,11:17,1.0,10.0,ARI 45,0.0,0.0,"Penalty on Michael Dogbe: Neutral Zone Infraction, 5 yards (accepted) (no play)",2.59,3.32,2.0,2022,28
+1,10:58,1.0,5.0,ARI 40,0.0,0.0,Josh Jacobs left tackle for no gain (tackle by Rashard Lawrence and Dennis Gardeck),3.32,2.72,2.0,2022,28
+1,10:21,2.0,5.0,ARI 40,0.0,0.0,Josh Jacobs right tackle for 13 yards (tackle by Nick Vigil and Marco Wilson),2.72,3.78,2.0,2022,28
+1,9:44,1.0,10.0,ARI 27,0.0,0.0,Josh Jacobs for no gain (no play),3.78,3.45,2.0,2022,28
+1,9:11,1.0,15.0,ARI 32,0.0,0.0,Derek Carr pass complete short right to Foster Moreau for -6 yards (tackle by Nick Vigil),3.45,1.75,2.0,2022,28
+1,8:25,2.0,21.0,ARI 38,0.0,0.0,Derek Carr pass complete short right to Mack Hollins for 9 yards (tackle by Jace Whittaker),1.75,2.28,2.0,2022,28
+1,7:49,3.0,12.0,ARI 29,0.0,0.0,Derek Carr pass complete deep middle to Mack Hollins for 23 yards (tackle by Budda Baker),2.28,5.83,2.0,2022,28
+1,7:06,1.0,6.0,ARI 6,0.0,0.0,Josh Jacobs up the middle for 2 yards (tackle by Jalen Thompson and Leki Fotu),5.83,5.34,2.0,2022,28
+1,6:25,2.0,4.0,ARI 4,0.0,0.0,Derek Carr pass incomplete short left intended for Mack Hollins,5.34,4.49,2.0,2022,28
+1,6:15,3.0,4.0,ARI 4,0.0,0.0,"Derek Carr pass incomplete short left intended for Darren Waller. Penalty on Jalen Thompson: Defensive Pass Interference, 3 yards (accepted) (no play)",4.49,6.97,2.0,2022,28
+1,6:11,1.0,1.0,ARI 1,0.0,0.0,Josh Jacobs up the middle for no gain (tackle by Jalen Thompson),6.97,5.91,2.0,2022,28
+1,5:25,2.0,1.0,ARI 1,0.0,6.0,"Derek Carr pass complete short left to Davante Adams for 1 yard, touchdown",5.91,7.0,2.0,2022,28
+1,5:22,,,ARI 15,0.0,7.0,Daniel Carlson kicks extra point good,0.0,0.0,2.0,2022,28
+1,5:22,,,LVR 35,0.0,7.0,"Daniel Carlson kicks off 65 yards, touchback.",0.0,0.61,2.0,2022,28
+1,5:22,1.0,10.0,ARI 25,0.0,7.0,Kyler Murray pass complete short left to Marquise Brown for 6 yards (tackle by Nate Hobbs),0.61,0.87,2.0,2022,28
+1,4:47,2.0,4.0,ARI 31,0.0,7.0,James Conner up the middle for 3 yards (tackle by Maxx Crosby and Divine Deablo),0.87,0.56,2.0,2022,28
+1,4:05,3.0,1.0,ARI 34,0.0,7.0,James Conner left guard for 4 yards (tackle by Chandler Jones and Divine Deablo),0.56,1.47,2.0,2022,28
+1,3:23,1.0,10.0,ARI 38,0.0,7.0,Eno Benjamin up the middle for 3 yards (tackle by Andrew Billings and Jayon Brown),1.47,1.33,2.0,2022,28
+1,2:49,2.0,7.0,ARI 41,0.0,7.0,Kyler Murray sacked by Maxx Crosby for -7 yards,1.33,-0.29,2.0,2022,28
+1,2:05,,,,,,Timeout #1 by Arizona Cardinals,,,2.0,2022,28
+1,2:05,3.0,14.0,ARI 34,0.0,7.0,Kyler Murray pass complete short left to Marquise Brown for 10 yards (tackle by Divine Deablo),-0.29,-0.46,2.0,2022,28
+1,1:29,4.0,4.0,ARI 44,0.0,7.0,"Andy Lee punts 56 yards, touchback.",-0.46,-0.28,2.0,2022,28
+1,1:21,1.0,10.0,LVR 20,0.0,7.0,"Penalty on J.J. Watt: Neutral Zone Infraction, 5 yards (accepted) (no play)",0.28,1.01,2.0,2022,28
+1,1:21,1.0,5.0,LVR 25,0.0,7.0,"Derek Carr pass complete deep left to Darren Waller for 19 yards (tackle by Jalen Thompson). Penalty on Marco Wilson: Illegal Contact, 5 yards (declined)",1.01,1.86,2.0,2022,28
+1,0:55,1.0,10.0,LVR 44,0.0,7.0,Josh Jacobs left guard for 4 yards (tackle by Budda Baker and Dennis Gardeck),1.86,1.86,2.0,2022,28
+1,0:11,2.0,6.0,LVR 48,0.0,7.0,Derek Carr pass complete short left to Foster Moreau for 19 yards (tackle by Nick Vigil),1.86,3.38,2.0,2022,28
+2,15:00,1.0,10.0,ARI 33,0.0,7.0,"Penalty on Kolton Miller: False Start, 5 yards (accepted) (no play)",3.38,3.05,2.0,2022,28
+2,15:00,1.0,15.0,ARI 38,0.0,7.0,Derek Carr pass complete short left to Josh Jacobs for 12 yards (tackle by Tanner Vallejo),3.05,3.78,2.0,2022,28
+2,14:18,2.0,3.0,ARI 26,0.0,7.0,Derek Carr pass complete short left to Mack Hollins for 7 yards (tackle by Marco Wilson and Jace Whittaker),3.78,4.31,2.0,2022,28
+2,13:28,1.0,10.0,ARI 19,0.0,7.0,"Zamir White left tackle for no gain (tackle by Budda Baker and Nick Vigil). Penalty on Dylan Parham: Offensive Holding, 10 yards (accepted) (no play)",4.31,3.64,2.0,2022,28
+2,13:06,1.0,20.0,ARI 29,0.0,7.0,Derek Carr pass complete short left to Hunter Renfrow for 8 yards (tackle by Victor Dimukeje),3.64,3.49,2.0,2022,28
+2,12:28,2.0,12.0,ARI 21,0.0,7.0,Derek Carr pass complete short right to Mack Hollins for 7 yards (tackle by Byron Murphy),3.49,3.76,2.0,2022,28
+2,11:52,3.0,5.0,ARI 14,0.0,7.0,Derek Carr pass incomplete short right intended for Davante Adams,3.76,2.56,2.0,2022,28
+2,11:45,4.0,5.0,ARI 14,0.0,10.0,Daniel Carlson 32 yard field goal good,2.56,3.0,2.0,2022,28
+2,11:40,,,LVR 35,0.0,10.0,"Daniel Carlson kicks off 62 yards, returned by Eno Benjamin for 22 yards (tackle by Matthias Farley and Sam Webb)",0.0,0.61,2.0,2022,28
+2,11:32,1.0,10.0,ARI 25,0.0,10.0,James Conner right guard for 5 yards (tackle by Divine Deablo and Johnathan Hankins),0.61,0.74,2.0,2022,28
+2,11:04,2.0,5.0,ARI 30,0.0,10.0,Kyler Murray pass complete short middle to Zach Ertz for 5 yards (tackle by Jayon Brown),0.74,1.27,2.0,2022,28
+2,10:20,1.0,10.0,ARI 35,0.0,10.0,James Conner up the middle for 4 yards (tackle by Johnathan Abram),1.27,1.26,2.0,2022,28
+2,9:35,2.0,6.0,ARI 39,0.0,10.0,"Kyler Murray pass incomplete short right. Penalty on Kyler Murray: Intentional Grounding, 15 yards (accepted)",1.26,-1.42,2.0,2022,28
+2,9:28,3.0,21.0,ARI 24,0.0,10.0,Kyler Murray pass complete short right to James Conner for 5 yards (tackle by Amik Robertson),-1.42,-1.44,2.0,2022,28
+2,9:08,4.0,16.0,ARI 29,0.0,10.0,Andy Lee punts 30 yards out of bounds,-1.44,-1.66,2.0,2022,28
+2,9:02,1.0,10.0,LVR 41,0.0,10.0,Derek Carr pass incomplete deep middle intended for Darren Waller,1.66,1.12,2.0,2022,28
+2,8:58,2.0,10.0,LVR 41,0.0,10.0,Derek Carr pass complete short middle to Darren Waller for 13 yards (tackle by Zaven Collins and Devon Kennard),1.12,2.52,2.0,2022,28
+2,8:32,1.0,10.0,ARI 46,0.0,10.0,Derek Carr pass complete short middle to Hunter Renfrow for 20 yards (tackle by Nick Vigil),2.52,3.84,2.0,2022,28
+2,8:01,1.0,10.0,ARI 26,0.0,10.0,Derek Carr pass incomplete short left intended for Hunter Renfrow (defended by Jace Whittaker),3.84,3.3,2.0,2022,28
+2,7:56,2.0,10.0,ARI 26,0.0,10.0,Derek Carr pass incomplete deep left intended for Davante Adams,3.3,2.61,2.0,2022,28
+2,7:51,3.0,10.0,ARI 26,0.0,10.0,Derek Carr pass complete short left to Ameer Abdullah for 23 yards (tackle by Zaven Collins),2.61,6.51,2.0,2022,28
+2,7:04,1.0,3.0,ARI 3,0.0,16.0,"Derek Carr pass complete short left to Darren Waller for 3 yards, touchdown",6.51,7.0,2.0,2022,28
+2,7:00,,,ARI 15,0.0,17.0,Daniel Carlson kicks extra point good,0.0,0.0,2.0,2022,28
+2,7:00,,,LVR 35,0.0,17.0,"Daniel Carlson kicks off 63 yards, returned by Eno Benjamin for 18 yards (tackle by Sam Webb). Penalty on Dennis Gardeck: Offensive Illegal Block Above the Waist, 10 yards (accepted)",0.0,-0.38,2.0,2022,28
+2,6:53,1.0,10.0,ARI 10,0.0,17.0,Kyler Murray pass complete short middle to James Conner for 21 yards (tackle by Duron Harmon and Nate Hobbs),-0.38,1.0,2.0,2022,28
+2,6:17,1.0,10.0,ARI 31,0.0,17.0,Eno Benjamin left guard for 6 yards (tackle by Jayon Brown and Johnathan Abram),1.0,1.27,2.0,2022,28
+2,5:40,2.0,4.0,ARI 37,0.0,17.0,Eno Benjamin left tackle for 7 yards (tackle by Nate Hobbs),1.27,1.86,2.0,2022,28
+2,4:50,1.0,10.0,ARI 44,0.0,17.0,"Kyler Murray pass complete short right to A.J. Green for 11 yards (tackle by Amik Robertson). Penalty on Kelvin Beachum: Ineligible Downfield Pass, 5 yards (accepted) (no play)",1.86,1.53,2.0,2022,28
+2,4:50,1.0,15.0,ARI 39,0.0,17.0,Kyler Murray pass complete short middle to Zach Ertz for 6 yards (tackle by Divine Deablo),1.53,1.45,2.0,2022,28
+2,4:10,2.0,9.0,ARI 45,0.0,17.0,Kyler Murray pass incomplete deep right intended for James Conner,1.45,0.76,2.0,2022,28
+2,3:36,,,,,,Timeout #1 by Las Vegas Raiders,,,2.0,2022,28
+2,3:36,3.0,9.0,ARI 45,0.0,17.0,"Kyler Murray pass short middle is intercepted by Nate Hobbs at LV-45 and returned for no gain (tackle by Darrel Williams). Penalty on Nate Hobbs: Defensive Holding, 5 yards (accepted) (no play)",0.76,2.26,2.0,2022,28
+2,3:25,1.0,10.0,ARI 50,0.0,17.0,James Conner up the middle for 6 yards (tackle by Divine Deablo and Maxx Crosby),2.26,2.52,2.0,2022,28
+2,2:52,2.0,4.0,LVR 44,0.0,17.0,James Conner left guard for 2 yards (tackle by Andrew Billings),2.52,2.08,2.0,2022,28
+2,2:00,3.0,2.0,LVR 42,0.0,17.0,Kyler Murray pass deep right intended for Marquise Brown is intercepted by Amik Robertson at LV-20 and returned for 7 yards (tackle by Marquise Brown),2.08,-0.74,2.0,2022,28
+2,1:51,1.0,10.0,LVR 27,0.0,17.0,"Josh Jacobs up the middle for 5 yards (tackle by Jalen Thompson and Markus Golden). Penalty on Thayer Munford: Offensive Holding, 10 yards (accepted)",0.74,0.41,2.0,2022,28
+2,1:24,1.0,15.0,LVR 22,0.0,17.0,Josh Jacobs up the middle for 5 yards (tackle by Nick Vigil and Markus Golden),0.41,0.2,2.0,2022,28
+2,1:13,2.0,10.0,LVR 27,0.0,17.0,Derek Carr pass complete short middle to Foster Moreau for 17 yards (tackle by Zaven Collins),0.2,1.86,2.0,2022,28
+2,0:41,1.0,10.0,LVR 44,0.0,17.0,Josh Jacobs right guard for no gain (tackle by J.J. Watt),1.86,1.32,2.0,2022,28
+2,0:36,,,,,,Timeout #2 by Las Vegas Raiders,,,2.0,2022,28
+2,0:36,2.0,10.0,LVR 44,0.0,17.0,"Derek Carr pass complete to Ameer Abdullah for no gain. Penalty on Thayer Munford: Illegal Formation, 5 yards (accepted) (no play)",1.32,0.64,2.0,2022,28
+2,0:30,2.0,15.0,LVR 39,0.0,17.0,Derek Carr scrambles right end for 9 yards (tackle by Zaven Collins),0.64,1.16,2.0,2022,28
+2,0:18,,,,,,Timeout #3 by Las Vegas Raiders,,,2.0,2022,28
+2,0:18,3.0,6.0,LVR 48,0.0,17.0,Derek Carr pass complete short left to Davante Adams for 11 yards (tackle by Jalen Thompson),1.16,2.85,2.0,2022,28
+2,0:12,1.0,10.0,ARI 41,0.0,17.0,Derek Carr pass incomplete short left intended for Mack Hollins,2.85,2.31,2.0,2022,28
+2,0:09,2.0,10.0,ARI 41,0.0,17.0,Derek Carr pass complete short right to Hunter Renfrow for 4 yards,2.31,2.15,2.0,2022,28
+2,0:05,3.0,6.0,ARI 37,0.0,20.0,Daniel Carlson 55 yard field goal good,2.15,3.0,2.0,2022,28
+3,15:00,,,LVR 35,0.0,20.0,"Daniel Carlson kicks off 65 yards, touchback.",0.0,0.61,2.0,2022,28
+3,15:00,1.0,10.0,ARI 25,0.0,20.0,James Conner left tackle for 1 yard (tackle by Divine Deablo and Chandler Jones),0.61,0.2,2.0,2022,28
+3,14:30,2.0,9.0,ARI 26,0.0,20.0,"Kyler Murray sacked by Bilal Nichols for no gain. Penalty on Bilal Nichols: Face Mask (15 Yards), 15 yards (accepted) (no play)",0.2,1.66,2.0,2022,28
+3,14:09,1.0,10.0,ARI 41,0.0,20.0,Kyler Murray pass incomplete short right intended for James Conner,1.66,1.12,2.0,2022,28
+3,14:02,2.0,10.0,ARI 41,0.0,20.0,Kyler Murray pass complete short left to Darrel Williams for 1 yard (tackle by Nate Hobbs),1.12,0.56,2.0,2022,28
+3,13:22,3.0,9.0,ARI 42,0.0,20.0,Kyler Murray pass incomplete short right,0.56,-0.59,2.0,2022,28
+3,13:15,4.0,9.0,ARI 42,0.0,20.0,Andy Lee punts 50 yards out of bounds,-0.59,0.38,2.0,2022,28
+3,13:07,1.0,10.0,LVR 8,0.0,20.0,Josh Jacobs up the middle for 1 yard (tackle by Zaven Collins),-0.38,-0.71,2.0,2022,28
+3,12:30,2.0,9.0,LVR 9,0.0,20.0,Derek Carr pass incomplete short right intended for Hunter Renfrow,-0.71,-1.3,2.0,2022,28
+3,12:21,3.0,9.0,LVR 9,0.0,20.0,Derek Carr pass complete short left to Darren Waller for 7 yards (tackle by Marco Wilson),-1.3,-2.39,2.0,2022,28
+3,11:42,4.0,2.0,LVR 16,0.0,20.0,"AJ Cole punts 66 yards, returned by Greg Dortch for 3 yards (tackle by Mack Hollins)",-2.39,-0.34,2.0,2022,28
+3,11:30,1.0,10.0,ARI 21,0.0,20.0,"Kyler Murray pass complete short left to A.J. Green for no gain (tackle by Nate Hobbs). Penalty on Kelvin Beachum: Illegal Formation, 5 yards (accepted) (no play)",0.34,-0.22,2.0,2022,28
+3,11:06,1.0,15.0,ARI 16,0.0,20.0,Kyler Murray pass complete short left to Greg Dortch for 29 yards (tackle by Nate Hobbs),-0.22,1.93,2.0,2022,28
+3,10:37,1.0,10.0,ARI 45,0.0,20.0,Kyler Murray pass complete short left to Zach Ertz for 13 yards (tackle by Johnathan Abram),1.93,2.79,2.0,2022,28
+3,10:13,1.0,10.0,LVR 42,0.0,20.0,"Kyler Murray right end for 10 yards (tackle by Duron Harmon). Penalty on A.J. Green: Offensive Holding, 10 yards (accepted)",2.79,2.79,2.0,2022,28
+3,9:29,,,,,,Timeout #1 by Arizona Cardinals,,,2.0,2022,28
+3,9:29,1.0,10.0,LVR 42,0.0,20.0,Darrel Williams left end for 8 yards (tackle by Amik Robertson),2.79,3.32,2.0,2022,28
+3,8:58,2.0,2.0,LVR 34,0.0,20.0,Darrel Williams left guard for 4 yards (tackle by Jayon Brown),3.32,3.58,2.0,2022,28
+3,8:22,1.0,10.0,LVR 30,0.0,20.0,Kyler Murray pass complete short left to Marquise Brown for 4 yards (tackle by Jayon Brown),3.58,3.57,2.0,2022,28
+3,7:44,2.0,6.0,LVR 26,0.0,20.0,Kyler Murray pass incomplete short right intended for Eno Benjamin,3.57,2.87,2.0,2022,28
+3,7:37,3.0,6.0,LVR 26,0.0,20.0,Kyler Murray pass complete short middle to Zach Ertz for 16 yards (tackle by Johnathan Abram),2.87,4.91,2.0,2022,28
+3,7:02,1.0,10.0,LVR 10,0.0,20.0,Eno Benjamin left guard for 5 yards (tackle by Johnathan Hankins and Divine Deablo),4.91,5.15,2.0,2022,28
+3,6:17,2.0,5.0,LVR 5,0.0,20.0,Kyler Murray pass incomplete short left intended for Marquise Brown,5.15,4.26,2.0,2022,28
+3,6:08,3.0,5.0,LVR 5,6.0,20.0,"Kyler Murray pass complete short right to Greg Dortch for 5 yards, touchdown",4.26,7.0,2.0,2022,28
+3,6:03,,,LVR 15,7.0,20.0,Matt Prater kicks extra point good,0.0,0.0,2.0,2022,28
+3,6:03,,,ARI 35,7.0,20.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,2.0,2022,28
+3,6:03,1.0,10.0,LVR 25,7.0,20.0,Josh Jacobs right guard for 6 yards (tackle by Jalen Thompson),0.61,0.87,2.0,2022,28
+3,5:21,2.0,4.0,LVR 31,7.0,20.0,Josh Jacobs up the middle for 9 yards (tackle by Budda Baker),0.87,1.6,2.0,2022,28
+3,4:43,1.0,10.0,LVR 40,7.0,20.0,"Zamir White right guard for no gain (tackle by Zaven Collins). Penalty on Mack Hollins: Illegal Formation, 5 yards (accepted) (no play)",1.6,1.27,2.0,2022,28
+3,4:16,1.0,15.0,LVR 35,7.0,20.0,"Derek Carr pass incomplete deep middle intended for Mack Hollins. Penalty on Marco Wilson: Defensive Pass Interference, 47 yards (accepted) (no play)",1.27,4.37,2.0,2022,28
+3,4:08,1.0,10.0,ARI 18,7.0,20.0,Zamir White left end for 2 yards (tackle by Budda Baker),4.37,4.09,2.0,2022,28
+3,3:22,2.0,8.0,ARI 16,7.0,20.0,Derek Carr pass complete short right to Hunter Renfrow for 9 yards (tackle by Jalen Thompson),4.09,5.6,2.0,2022,28
+3,2:39,1.0,7.0,ARI 7,7.0,20.0,Josh Jacobs left guard for no gain (tackle by Zach Allen),5.6,4.76,2.0,2022,28
+3,1:55,2.0,7.0,ARI 7,7.0,20.0,Derek Carr pass incomplete short left intended for Darren Waller (defended by Jalen Thompson),4.76,3.81,2.0,2022,28
+3,1:47,3.0,7.0,ARI 7,7.0,20.0,Derek Carr pass incomplete short middle intended for Hunter Renfrow,3.81,2.97,2.0,2022,28
+3,1:41,4.0,7.0,ARI 7,7.0,23.0,Daniel Carlson 25 yard field goal good,2.97,3.0,2.0,2022,28
+3,1:38,,,LVR 35,7.0,23.0,"Daniel Carlson kicks off 65 yards, touchback.",0.0,0.61,2.0,2022,28
+3,1:38,1.0,10.0,ARI 25,7.0,23.0,Kyler Murray pass complete short right to A.J. Green for 6 yards (tackle by Divine Deablo),0.61,0.87,2.0,2022,28
+3,1:04,2.0,4.0,ARI 31,7.0,23.0,Kyler Murray left guard for 8 yards (tackle by Jayon Brown),0.87,1.53,2.0,2022,28
+3,0:30,1.0,10.0,ARI 39,7.0,23.0,Kyler Murray pass incomplete deep right intended for A.J. Green,1.53,0.99,2.0,2022,28
+3,0:22,2.0,10.0,ARI 39,7.0,23.0,Kyler Murray pass complete short left to Andre Baccellia for 11 yards (tackle by Chandler Jones),0.99,2.26,2.0,2022,28
+4,15:00,1.0,10.0,ARI 50,7.0,23.0,Darrel Williams right tackle for 30 yards (tackle by Johnathan Abram),2.26,4.24,2.0,2022,28
+4,14:15,1.0,10.0,LVR 20,7.0,23.0,Kyler Murray pass complete short left to Eno Benjamin for 9 yards (tackle by Divine Deablo and Roderic Teamer),4.24,5.26,2.0,2022,28
+4,13:28,2.0,1.0,LVR 11,7.0,23.0,Eno Benjamin up the middle for no gain (tackle by Bilal Nichols),5.26,4.59,2.0,2022,28
+4,12:46,3.0,1.0,LVR 11,7.0,23.0,Kyler Murray pass incomplete short left intended for Marquise Brown,4.59,2.85,2.0,2022,28
+4,12:37,,,,,,Timeout #1 by Las Vegas Raiders,,,2.0,2022,28
+4,12:37,4.0,1.0,LVR 11,7.0,23.0,Kyler Murray pass incomplete short right intended for Zach Ertz,2.85,0.37,2.0,2022,28
+4,12:31,1.0,10.0,LVR 11,7.0,23.0,Derek Carr pass incomplete short middle intended for Davante Adams (defended by Zach Allen),-0.37,-0.78,2.0,2022,28
+4,12:29,2.0,10.0,LVR 11,7.0,23.0,Derek Carr pass incomplete short left intended for Mack Hollins,-0.78,-1.42,2.0,2022,28
+4,12:24,3.0,10.0,LVR 11,7.0,23.0,Derek Carr pass incomplete short right intended for Foster Moreau (defended by J.J. Watt),-1.42,-2.49,2.0,2022,28
+4,12:22,4.0,10.0,LVR 11,7.0,23.0,"AJ Cole punts 61 yards, returned by Greg Dortch for 18 yards (tackle by Trent Sieg)",-2.49,-1.99,2.0,2022,28
+4,12:07,1.0,10.0,ARI 46,7.0,23.0,Eno Benjamin up the middle for 1 yard (tackle by Maxx Crosby and Andrew Billings),1.99,1.59,2.0,2022,28
+4,11:43,2.0,9.0,ARI 47,7.0,23.0,Kyler Murray pass complete short left to Greg Dortch for 11 yards (tackle by Divine Deablo and Kendal Vickers),1.59,2.79,2.0,2022,28
+4,11:22,1.0,10.0,LVR 42,7.0,23.0,Kyler Murray pass complete short left to Eno Benjamin for 8 yards (tackle by Nate Hobbs),2.79,3.32,2.0,2022,28
+4,10:55,2.0,2.0,LVR 34,7.0,23.0,Darrel Williams right guard for 3 yards (tackle by Kendal Vickers and Divine Deablo),3.32,3.51,2.0,2022,28
+4,10:33,1.0,10.0,LVR 31,7.0,23.0,Kyler Murray pass complete short right to Andre Baccellia for 1 yard (tackle by Jayon Brown),3.51,3.1,2.0,2022,28
+4,9:59,2.0,9.0,LVR 30,7.0,23.0,Eno Benjamin left end for no gain (tackle by Nate Hobbs) (no play),3.1,2.43,2.0,2022,28
+4,9:25,,,,,,Timeout #2 by Arizona Cardinals,,,2.0,2022,28
+4,9:25,2.0,14.0,LVR 35,7.0,23.0,Kyler Murray pass complete short right to Greg Dortch for 10 yards (tackle by Rock Ya-Sin and Jayon Brown),2.43,3.07,2.0,2022,28
+4,8:45,3.0,4.0,LVR 25,7.0,23.0,Kyler Murray pass incomplete short right intended for A.J. Green (defended by Rock Ya-Sin),3.07,1.88,2.0,2022,28
+4,8:35,4.0,4.0,LVR 25,7.0,23.0,"Kyler Murray pass complete to Marquise Brown for no gain, touchdown. Penalty on Amik Robertson: Defensive Pass Interference, 15 yards (declined) Replay Assistant challenged the runner broke the plane ruling, and the original play was overturned. Kyler Murray pass complete deep left to Marquise Brown for 24 yards (tackle by Amik Robertson). Penalty on Amik Robertson: Defensive Pass Interference, 15 yards (declined)",1.88,6.97,2.0,2022,28
+4,8:17,1.0,1.0,LVR 1,13.0,23.0,"Darrel Williams up the middle for 1 yard, touchdown",6.97,7.0,2.0,2022,28
+4,8:13,,,LVR 2,15.0,23.0,"Two Point Attempt: Kyler Murray rushes, conversion succeeds.",1.0,1.0,2.0,2022,28
+4,8:13,1.0,2.0,ARI 35,15.0,23.0,"Matt Prater kicks off 65 yards, touchback.",3.89,0.61,2.0,2022,28
+4,8:13,1.0,10.0,LVR 25,15.0,23.0,Josh Jacobs up the middle for 7 yards (tackle by Ben Niemann and Zaven Collins),0.61,1.01,2.0,2022,28
+4,7:40,2.0,3.0,LVR 32,15.0,23.0,Josh Jacobs up the middle for 3 yards (tackle by Budda Baker),1.01,1.27,2.0,2022,28
+4,6:56,1.0,10.0,LVR 35,15.0,23.0,Josh Jacobs up the middle for -4 yards (tackle by Rashard Lawrence),1.27,0.18,2.0,2022,28
+4,6:17,2.0,14.0,LVR 31,15.0,23.0,Derek Carr pass complete short middle to Darren Waller for 4 yards (tackle by Dennis Gardeck),0.18,0.04,2.0,2022,28
+4,5:39,3.0,10.0,LVR 35,15.0,23.0,Derek Carr pass complete short right to Darren Waller for 4 yards (tackle by Dennis Gardeck and Jace Whittaker),0.04,-0.78,2.0,2022,28
+4,4:58,4.0,6.0,LVR 39,15.0,23.0,AJ Cole punts 34 yards downed by Foster Moreau,-0.78,-0.74,2.0,2022,28
+4,4:43,1.0,10.0,ARI 27,15.0,23.0,Kyler Murray pass complete short right to A.J. Green for no gain (tackle by Amik Robertson),0.74,0.2,2.0,2022,28
+4,4:17,2.0,10.0,ARI 27,15.0,23.0,Kyler Murray pass complete short right to A.J. Green for 10 yards (tackle by Jayon Brown),0.2,1.4,2.0,2022,28
+4,3:50,1.0,10.0,ARI 37,15.0,23.0,Kyler Murray pass complete short middle to Zach Ertz for 11 yards (tackle by Jayon Brown),1.4,2.13,2.0,2022,28
+4,3:26,1.0,10.0,ARI 48,15.0,23.0,Kyler Murray pass incomplete short left intended for Marquise Brown (defended by Johnathan Hankins),2.13,1.58,2.0,2022,28
+4,3:25,2.0,10.0,ARI 48,15.0,23.0,Darrel Williams up the middle for 9 yards (tackle by Divine Deablo and Kendal Vickers),1.58,2.08,2.0,2022,28
+4,3:03,3.0,1.0,LVR 43,15.0,23.0,Darrel Williams left guard for no gain (tackle by Kendal Vickers),2.08,0.4,2.0,2022,28
+4,2:28,4.0,1.0,LVR 43,15.0,23.0,Kyler Murray scrambles right end for 2 yards (tackle by Johnathan Abram),0.4,2.85,2.0,2022,28
+4,2:20,1.0,10.0,LVR 41,15.0,23.0,"Kyler Murray sacked by Maxx Crosby for no gain. Penalty on Rock Ya-Sin: Defensive Holding, 5 yards (accepted) (no play)",2.85,3.18,2.0,2022,28
+4,2:17,1.0,10.0,LVR 36,15.0,23.0,Kyler Murray pass complete short left to Zach Ertz for 6 yards (tackle by Divine Deablo),3.18,3.45,2.0,2022,28
+4,2:00,2.0,4.0,LVR 30,15.0,23.0,Kyler Murray left end for 5 yards (tackle by Johnathan Abram and Jayon Brown),3.45,3.91,2.0,2022,28
+4,1:55,1.0,10.0,LVR 25,15.0,23.0,Kyler Murray pass complete short left to Eno Benjamin for 3 yards (tackle by Nate Hobbs),3.91,3.77,2.0,2022,28
+4,1:36,2.0,7.0,LVR 22,15.0,23.0,Kyler Murray pass complete short right to Zach Ertz for 10 yards (tackle by Duron Harmon),3.77,4.78,2.0,2022,28
+4,1:09,1.0,10.0,LVR 12,15.0,23.0,Eno Benjamin right tackle for 6 yards (tackle by Jayon Brown),4.78,5.21,2.0,2022,28
+4,0:39,2.0,4.0,LVR 6,15.0,23.0,Kyler Murray pass incomplete short middle intended for Darrel Williams,5.21,4.38,2.0,2022,28
+4,0:34,,,,,,Timeout #3 by Arizona Cardinals,,,2.0,2022,28
+4,0:34,3.0,4.0,LVR 6,15.0,23.0,"Kyler Murray pass complete to A.J. Green for 5 yards Replay Assistant challenged the pass completion ruling, and the original play was overturned. Kyler Murray pass incomplete short right intended for A.J. Green (defended by Rock Ya-Sin)",4.38,3.0,2.0,2022,28
+4,0:30,,,,,,Timeout #2 by Las Vegas Raiders,,,2.0,2022,28
+4,0:30,4.0,4.0,LVR 6,15.0,23.0,"Kyler Murray pass incomplete short left intended for Marquise Brown. Penalty on Roderic Teamer: Defensive Holding, 3 yards (accepted) (no play)",3.0,6.51,2.0,2022,28
+4,0:18,1.0,3.0,LVR 3,15.0,23.0,Kyler Murray pass incomplete short right intended for A.J. Green (defended by Rock Ya-Sin),6.51,5.53,2.0,2022,28
+4,0:11,2.0,3.0,LVR 3,15.0,23.0,Kyler Murray pass incomplete short left intended for Zach Ertz (defended by Johnathan Abram),5.53,4.72,2.0,2022,28
+4,0:08,3.0,3.0,LVR 3,15.0,23.0,Kyler Murray pass incomplete short left intended for Zach Ertz,4.72,3.04,2.0,2022,28
+4,0:05,4.0,3.0,LVR 3,21.0,23.0,"Kyler Murray scrambles left tackle for 3 yards, touchdown",3.04,7.0,2.0,2022,28
+4,0:00,,,,,,Timeout #3 by Las Vegas Raiders,,,2.0,2022,28
+4,0:00,,,LVR 15,21.0,23.0,"Penalty on ARI: Delay of Game, 5 yards (accepted) (no play)",0.0,1.0,2.0,2022,28
+4,0:00,1.0,7.0,LVR 2,23.0,23.0,"Two Point Attempt: Kyler Murray pass complete to to A.J. Green for no gain Replay Assistant challenged the pass completion ruling, and the play was upheld.",1.0,1.0,2.0,2022,28
+,,,,,,,"Cardinals won the coin toss, Cardinals to receive the overtime kickoff.",,,2.0,2022,28
+OT,10:00,,,LVR 35,23.0,23.0,"Daniel Carlson kicks off 65 yards, touchback.",0.0,0.61,2.0,2022,28
+OT,10:00,1.0,10.0,ARI 25,23.0,23.0,Kyler Murray pass complete short right to Zach Ertz for 8 yards (tackle by Duron Harmon),0.61,1.14,2.0,2022,28
+OT,9:28,2.0,2.0,ARI 33,23.0,23.0,Eno Benjamin left guard for 3 yards (tackle by Divine Deablo),1.14,1.33,2.0,2022,28
+OT,8:53,1.0,10.0,ARI 36,23.0,23.0,Kyler Murray pass complete short left to Stephen Anderson for 2 yards (tackle by Nate Hobbs),1.33,1.06,2.0,2022,28
+OT,8:23,2.0,8.0,ARI 38,23.0,23.0,Kyler Murray pass complete short middle to Marquise Brown for 16 yards (tackle by Nate Hobbs),1.06,2.52,2.0,2022,28
+OT,7:40,1.0,10.0,LVR 46,23.0,23.0,"Penalty on Zach Ertz: False Start, 5 yards (accepted) (no play)",2.52,2.19,2.0,2022,28
+OT,7:40,1.0,15.0,ARI 49,23.0,23.0,Kyler Murray pass complete short middle to Marquise Brown for 8 yards (tackle by Divine Deablo),2.19,2.38,2.0,2022,28
+OT,7:06,2.0,7.0,LVR 43,23.0,23.0,Kyler Murray pass complete short left to Darrel Williams for 2 yards (tackle by Nate Hobbs),2.38,1.95,2.0,2022,28
+OT,6:25,3.0,5.0,LVR 41,23.0,23.0,Darrel Williams left end for 4 yards (tackle by Nate Hobbs and Duron Harmon),1.95,0.79,2.0,2022,28
+OT,5:36,,,,,,Timeout #1 by Arizona Cardinals,,,2.0,2022,28
+OT,5:36,4.0,1.0,LVR 37,23.0,23.0,Kyler Murray pass incomplete deep left intended for Marquise Brown (defended by Duron Harmon),0.79,-1.4,2.0,2022,28
+OT,5:30,1.0,10.0,LVR 37,23.0,23.0,Derek Carr pass incomplete short right intended for Davante Adams,1.4,0.86,2.0,2022,28
+OT,5:26,2.0,10.0,LVR 37,23.0,23.0,Derek Carr pass complete short left to Hunter Renfrow for 7 yards (tackle by Isaiah Simmons),0.86,1.09,2.0,2022,28
+OT,4:45,,,,,,Timeout #1 by Las Vegas Raiders,,,2.0,2022,28
+OT,4:45,,,,,,Timeout #2 by Arizona Cardinals,,,2.0,2022,28
+OT,4:45,3.0,3.0,LVR 44,23.0,23.0,"Derek Carr pass complete to Hunter Renfrow for 11 yards. Hunter Renfrow fumbles (forced by Zaven Collins) (tackle by Jalen Thompson), recovered by Foster Moreau at ARI-39",1.09,2.98,2.0,2022,28
+OT,4:12,1.0,10.0,ARI 39,23.0,23.0,Derek Carr pass incomplete deep middle intended for Davante Adams,2.98,2.44,2.0,2022,28
+OT,4:05,2.0,10.0,ARI 39,29.0,23.0,"Derek Carr pass complete short left to Hunter Renfrow for no gain. Hunter Renfrow fumbles (forced by Isaiah Simmons), recovered by Byron Murphy at ARI-41 and returned for 59 yards, touchdown Replay Assistant challenged the runner broke the plane ruling, and the play was upheld.",2.44,-6.0,2.0,2022,28

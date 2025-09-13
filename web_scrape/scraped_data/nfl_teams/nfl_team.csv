@@ -1,0 +1,33 @@
+name,abbreviation,conference,division,indoor_stadium,warm_climate
+Arizona Cardinals,ARI,NFC,West,TRUE,TRUE
+Atlanta Falcons,ATL,NFC,South,TRUE,FALSE
+Baltimore Ravens,BAL,AFC,North,FALSE,FALSE
+Buffalo Bills,BUF,AFC,East,FALSE,FALSE
+Carolina Panthers,CAR,NFC,South,FALSE,FALSE
+Chicago Bears,CHI,NFC,North,FALSE,FALSE
+Cincinnati Bengals,CIN,AFC,North,FALSE,FALSE
+Cleveland Browns,CLE,AFC,North,FALSE,FALSE
+Dallas Cowboys,DAL,NFC,East,TRUE,FALSE
+Denver Broncos,DEN,AFC,West,FALSE,FALSE
+Detroit Lions,DET,NFC,North,TRUE,FALSE
+Green Bay Packers,GB,NFC,North,FALSE,FALSE
+Houston Texans,HOU,AFC,South,TRUE,FALSE
+Indianapolis Colts,IND,AFC,South,TRUE,FALSE
+Jacksonville Jaguars,JAX,AFC,South,FALSE,TRUE
+Kansas City Chiefs,KC,AFC,West,FALSE,FALSE
+Miami Dolphins,MIA,AFC,East,FALSE,TRUE
+Minnesota Vikings,MIN,NFC,North,TRUE,FALSE
+New England Patriots,NE,AFC,East,FALSE,FALSE
+New Orleans Saints,NO,NFC,South,TRUE,FALSE
+New York Giants,NYG,NFC,East,FALSE,FALSE
+New York Jets,NYJ,AFC,East,FALSE,FALSE
+Las Vegas Raiders,LV,AFC,West,TRUE,TRUE
+Philadelphia Eagles,PHI,NFC,East,FALSE,FALSE
+Pittsburgh Steelers,PIT,AFC,North,FALSE,FALSE
+Los Angeles Chargers,LAC,AFC,West,FALSE,TRUE
+San Francisco 49ers,SF,NFC,West,FALSE,TRUE
+Seattle Seahawks,SEA,NFC,West,FALSE,FALSE
+Los Angeles Rams,LAR,NFC,West,FALSE,TRUE
+Tampa Bay Buccaneers,TB,NFC,South,FALSE,TRUE
+Tennessee Titans,TEN,AFC,South,FALSE,FALSE
+Washington Commanders,WAS,NFC,East,FALSE,FALSE

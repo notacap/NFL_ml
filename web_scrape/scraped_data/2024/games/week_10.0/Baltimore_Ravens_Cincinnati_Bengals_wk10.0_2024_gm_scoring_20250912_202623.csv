@@ -1,0 +1,11 @@
+Quarter,Time,Tm,Detail,CIN,BAL,week,year,game_id
+1.0,9:23,Bengals,Chase Brown 1 yard rush (Evan McPherson kick),7,0,10.0,2024,139
+2.0,13:04,Ravens,Nelson Agholor 6 yard pass from Lamar Jackson (Justin Tucker kick),7,7,10.0,2024,139
+,0:30,Bengals,Tanner Hudson 3 yard pass from Joe Burrow (Evan McPherson kick),14,7,10.0,2024,139
+3.0,13:09,Bengals,Ja'Marr Chase 67 yard pass from Joe Burrow (Evan McPherson kick),21,7,10.0,2024,139
+,4:12,Ravens,Derrick Henry 1 yard rush (Justin Tucker kick),21,14,10.0,2024,139
+4.0,13:30,Ravens,Tylan Wallace 84 yard pass from Lamar Jackson (Justin Tucker kick failed),21,20,10.0,2024,139
+,5:50,Ravens,Mark Andrews 18 yard pass from Lamar Jackson (Lamar Jackson run),21,28,10.0,2024,139
+,5:37,Bengals,Ja'Marr Chase 70 yard pass from Joe Burrow (Evan McPherson kick),28,28,10.0,2024,139
+,1:49,Ravens,Rashod Bateman 5 yard pass from Lamar Jackson (Justin Tucker kick),28,35,10.0,2024,139
+,0:38,Bengals,Ja'Marr Chase 5 yard pass from Joe Burrow (pass failed),34,35,10.0,2024,139

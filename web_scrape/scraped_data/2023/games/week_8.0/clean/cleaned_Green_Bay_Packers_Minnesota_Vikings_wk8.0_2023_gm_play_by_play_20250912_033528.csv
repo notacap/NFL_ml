@@ -1,0 +1,180 @@
+Quarter,Time,Down,ToGo,Location,MIN,GNB,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Vikings won the coin toss and deferred, Packers to receive the opening kickoff.",,,8.0,2023,110
+1.0,15:00,,,MIN 35,0.0,0.0,"Greg Joseph kicks off 61 yards, returned by Keisean Nixon for 15 yards (tackle by Jay Ward)",0.0,0.15,8.0,2023,110
+1.0,14:57,1.0,10.0,GNB 19,0.0,0.0,Jordan Love pass complete short left to Luke Musgrave for 2 yards (tackle by Harrison Smith),0.15,-0.06,8.0,2023,110
+1.0,14:25,2.0,8.0,GNB 21,0.0,0.0,AJ Dillon left tackle for 7 yards (tackle by Harrison Phillips and Jordan Hicks),-0.06,0.1,8.0,2023,110
+1.0,14:01,3.0,1.0,GNB 28,0.0,0.0,"Jordan Love pass complete to Romeo Doubs for no gain. Penalty on Rasheed Walker: Ineligible Downfield Pass, 4 yards (accepted) (no play)",0.1,-0.42,8.0,2023,110
+1.0,13:36,3.0,5.0,GNB 24,0.0,0.0,"Jordan Love pass incomplete intended for Jayden Reed. Penalty on Jordan Hicks: Defensive Offside, 4 yards (accepted) (no play)",-0.42,0.1,8.0,2023,110
+1.0,13:31,3.0,1.0,GNB 28,0.0,0.0,AJ Dillon up the middle for no gain (tackle by Harrison Phillips),0.1,-1.5,8.0,2023,110
+1.0,12:49,4.0,1.0,GNB 28,0.0,0.0,"Penalty on Corey Ballentine: False Start, 5 yards (accepted) (no play)",-1.5,-1.83,8.0,2023,110
+1.0,12:49,4.0,6.0,GNB 23,0.0,0.0,"Daniel Whelan punts 59 yards, returned by Brandon Powell for 16 yards (tackle by Corey Ballentine)",-1.83,-1.2,8.0,2023,110
+1.0,12:38,1.0,10.0,MIN 34,0.0,0.0,Alexander Mattison right tackle for 2 yards (tackle by Tedarrell Slaton and De'Vondre Campbell),1.2,0.93,8.0,2023,110
+1.0,11:58,2.0,8.0,MIN 36,0.0,0.0,Kirk Cousins pass incomplete short middle intended for K.J. Osborn (defended by Quay Walker),0.93,0.23,8.0,2023,110
+1.0,11:53,3.0,8.0,MIN 36,0.0,0.0,Kirk Cousins pass complete short right to Jordan Addison for 10 yards (tackle by Jaire Alexander),0.23,1.99,8.0,2023,110
+1.0,11:22,1.0,10.0,MIN 46,0.0,0.0,Kirk Cousins scrambles for 7 yards (tackle by De'Vondre Campbell),1.99,2.4,8.0,2023,110
+1.0,10:43,2.0,3.0,GNB 47,0.0,0.0,Alexander Mattison right end for 2 yards (tackle by Kingsley Enagbare and Jaire Alexander),2.4,1.95,8.0,2023,110
+1.0,9:59,3.0,1.0,GNB 45,0.0,0.0,Brandon Powell left end for 2 yards (tackle by Rasul Douglas and Quay Walker),1.95,2.72,8.0,2023,110
+1.0,9:19,1.0,10.0,GNB 43,0.0,0.0,Kirk Cousins pass complete short left to Jordan Addison for 10 yards,2.72,3.38,8.0,2023,110
+1.0,8:35,1.0,10.0,GNB 33,0.0,0.0,Alexander Mattison up the middle for no gain (tackle by Tedarrell Slaton),3.38,2.84,8.0,2023,110
+1.0,8:00,2.0,10.0,GNB 33,0.0,0.0,Kirk Cousins pass incomplete short middle,2.84,2.15,8.0,2023,110
+1.0,7:56,3.0,10.0,GNB 33,0.0,0.0,Kirk Cousins pass complete short middle to T.J. Hockenson for 9 yards (tackle by Jonathan Owens),2.15,2.02,8.0,2023,110
+1.0,7:11,4.0,1.0,GNB 24,0.0,0.0,Greg Joseph 42 yard field goal no good,2.02,-1.07,8.0,2023,110
+1.0,7:07,1.0,10.0,GNB 32,0.0,0.0,Aaron Jones left tackle for 4 yards (tackle by Jonathan Bullard),1.07,1.07,8.0,2023,110
+1.0,6:34,2.0,6.0,GNB 36,0.0,0.0,Jordan Love pass incomplete short right intended for Aaron Jones,1.07,0.37,8.0,2023,110
+1.0,6:29,3.0,6.0,GNB 36,0.0,0.0,Jordan Love pass incomplete short middle intended for Luke Musgrave,0.37,-0.98,8.0,2023,110
+1.0,6:25,4.0,6.0,GNB 36,0.0,0.0,"Daniel Whelan punts, fair catch by Brandon Powell at MIN-25. Penalty on Josh Metellus: Illegal Formation, 5 yards (offset) . Penalty on Dallin Leavitt: Offensive Holding, 10 yards (offset) (no play)",-0.98,-0.98,8.0,2023,110
+1.0,6:19,4.0,6.0,GNB 36,0.0,0.0,"Daniel Whelan punts 55 yards, returned by Brandon Powell for 14 yards (tackle by Tucker Kraft)",-0.98,-0.48,8.0,2023,110
+1.0,6:07,1.0,10.0,MIN 23,0.0,0.0,Cam Akers right end for 9 yards (tackle by De'Vondre Campbell),0.48,1.15,8.0,2023,110
+1.0,5:36,2.0,1.0,MIN 32,0.0,0.0,Cam Akers up the middle for 2 yards (tackle by Rashan Gary and Kenny Clark),1.15,1.2,8.0,2023,110
+1.0,4:58,1.0,10.0,MIN 34,0.0,0.0,"Kirk Cousins pass complete deep right to Jordan Addison for 25 yards. Penalty on Jonathan Owens: Unnecessary Roughness / Defense, 15 yards (accepted) Kirk Cousins pass incomplete deep right intended for Jordan Addison. Penalty on Jonathan Owens: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",1.2,2.19,8.0,2023,110
+1.0,4:54,1.0,10.0,MIN 49,0.0,0.0,"Kirk Cousins pass incomplete deep right intended for Jordan Addison. Penalty on Kingsley Enagbare: Roughing the Passer, 15 yards (accepted) (no play)",2.19,3.18,8.0,2023,110
+1.0,4:49,1.0,10.0,GNB 36,0.0,0.0,Cam Akers right end for -2 yards (tackle by Tedarrell Slaton),3.18,2.37,8.0,2023,110
+1.0,4:02,2.0,12.0,GNB 38,0.0,0.0,Kirk Cousins pass complete short middle to Jordan Addison for 11 yards (tackle by Rudy Ford),2.37,3.14,8.0,2023,110
+1.0,3:21,3.0,1.0,GNB 27,0.0,0.0,Kirk Cousins pass complete short left to T.J. Hockenson for 23 yards (tackle by Keisean Nixon),3.14,6.28,8.0,2023,110
+1.0,2:36,1.0,4.0,GNB 4,0.0,0.0,"Penalty on Kirk Cousins: Delay of Game, 5 yards (accepted) (no play)",6.28,5.14,8.0,2023,110
+1.0,2:20,1.0,9.0,GNB 9,0.0,0.0,Cam Akers up the middle for 3 yards (tackle by Quay Walker and Preston Smith),5.14,4.95,8.0,2023,110
+1.0,1:39,2.0,6.0,GNB 6,6.0,0.0,"Cam Akers up the middle for 6 yards, touchdown",4.95,7.0,8.0,2023,110
+1.0,1:34,,,GNB 15,7.0,0.0,Greg Joseph kicks extra point good,0.0,0.0,8.0,2023,110
+1.0,1:34,,,MIN 35,7.0,0.0,"Greg Joseph kicks off 62 yards, returned by Keisean Nixon for 25 yards (tackle by Jay Ward)",0.0,0.81,8.0,2023,110
+1.0,1:29,1.0,10.0,GNB 28,7.0,0.0,Jordan Love pass complete short left to Romeo Doubs for 5 yards (tackle by Akayleb Evans),0.81,0.94,8.0,2023,110
+1.0,1:12,2.0,5.0,GNB 33,7.0,0.0,Jordan Love sacked by D.J. Wonnum for -12 yards,0.94,-1.35,8.0,2023,110
+1.0,0:26,3.0,17.0,GNB 21,7.0,0.0,"Penalty on Jordan Love: Delay of Game, 5 yards (accepted) (no play)",-1.35,-2.42,8.0,2023,110
+1.0,0:05,3.0,22.0,GNB 16,7.0,0.0,Jordan Love scrambles left end for 9 yards (tackle by Theo Jackson),-2.42,-1.7,8.0,2023,110
+2.0,15:00,4.0,13.0,GNB 25,7.0,0.0,"Daniel Whelan punts 55 yards, fair catch by Brandon Powell at MIN-20",-1.7,-0.28,8.0,2023,110
+2.0,14:53,1.0,10.0,MIN 20,7.0,0.0,"Kirk Cousins pass complete to Alexander Mattison for no gain. Penalty on Rasul Douglas: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",0.28,0.61,8.0,2023,110
+2.0,14:39,1.0,10.0,MIN 25,7.0,0.0,Alexander Mattison up the middle for 2 yards (tackle by Devonte Wyatt),0.61,0.33,8.0,2023,110
+2.0,14:00,2.0,8.0,MIN 27,7.0,0.0,Kirk Cousins pass incomplete short middle intended for Brandon Powell (defended by Lukas Van Ness),0.33,-0.36,8.0,2023,110
+2.0,13:56,3.0,8.0,MIN 27,7.0,0.0,Kirk Cousins pass complete deep middle to K.J. Osborn for 21 yards (tackle by Rudy Ford and De'Vondre Campbell),-0.36,2.13,8.0,2023,110
+2.0,13:18,1.0,10.0,MIN 48,7.0,0.0,Kirk Cousins pass complete short left to Jordan Addison for 20 yards (tackle by Jonathan Owens),2.13,3.45,8.0,2023,110
+2.0,12:30,1.0,10.0,GNB 32,7.0,0.0,Kirk Cousins pass complete deep left to T.J. Hockenson for 18 yards (tackle by Rasul Douglas),3.45,4.65,8.0,2023,110
+2.0,11:48,,,,,,Timeout #1 by Minnesota Vikings,,,8.0,2023,110
+2.0,11:48,1.0,10.0,GNB 14,7.0,0.0,Jordan Addison left end for 2 yards (tackle by Rudy Ford),4.65,4.33,8.0,2023,110
+2.0,11:08,2.0,8.0,GNB 12,7.0,0.0,Kirk Cousins pass incomplete short middle intended for Jordan Addison (defended by Keisean Nixon),4.33,3.43,8.0,2023,110
+2.0,11:02,3.0,8.0,GNB 12,7.0,0.0,Kirk Cousins pass complete short right to Jordan Addison for 5 yards (tackle by Jaire Alexander),3.43,2.99,8.0,2023,110
+2.0,10:16,4.0,3.0,GNB 7,10.0,0.0,Greg Joseph 25 yard field goal good,2.99,3.0,8.0,2023,110
+2.0,10:13,,,MIN 35,10.0,0.0,"Greg Joseph kicks off 63 yards, out of bounds",0.0,1.6,8.0,2023,110
+2.0,10:13,1.0,10.0,GNB 40,10.0,0.0,Aaron Jones left tackle for 4 yards (tackle by Ivan Pace),1.6,1.59,8.0,2023,110
+2.0,9:34,2.0,6.0,GNB 44,10.0,0.0,"Aaron Jones for no gain. Penalty on Jon Runyan: Offensive Holding, 10 yards (accepted) (no play)",1.59,0.24,8.0,2023,110
+2.0,9:06,2.0,16.0,GNB 34,10.0,0.0,Jordan Love pass incomplete short left intended for Romeo Doubs,0.24,-0.43,8.0,2023,110
+2.0,9:02,3.0,16.0,GNB 34,10.0,0.0,Jordan Love scrambles right end for 7 yards (tackle by Josh Metellus),-0.43,-0.65,8.0,2023,110
+2.0,8:22,4.0,9.0,GNB 41,10.0,0.0,"Daniel Whelan punts 38 yards, returned by Brandon Powell for 4 yards (tackle by Carrington Valentine and Eric Wilson)",-0.65,-0.61,8.0,2023,110
+2.0,8:14,1.0,10.0,MIN 25,10.0,0.0,Cam Akers left tackle for no gain (tackle by De'Vondre Campbell),0.61,0.06,8.0,2023,110
+2.0,7:44,2.0,10.0,MIN 25,10.0,0.0,Cam Akers right tackle for 2 yards (tackle by De'Vondre Campbell and Tedarrell Slaton),0.06,-0.36,8.0,2023,110
+2.0,7:02,3.0,8.0,MIN 27,10.0,0.0,Kirk Cousins pass complete short left to K.J. Osborn for 11 yards (tackle by Quay Walker),-0.36,1.47,8.0,2023,110
+2.0,6:20,1.0,10.0,MIN 38,10.0,0.0,Cam Akers left end for 1 yard (tackle by Quay Walker),1.47,1.06,8.0,2023,110
+2.0,5:50,2.0,9.0,MIN 39,10.0,0.0,Kirk Cousins pass complete short left to Cam Akers for 6 yards (tackle by De'Vondre Campbell and Rudy Ford),1.06,1.16,8.0,2023,110
+2.0,5:12,3.0,3.0,MIN 45,10.0,0.0,Kirk Cousins pass incomplete short right intended for Brandon Powell (defended by Keisean Nixon),1.16,-0.39,8.0,2023,110
+2.0,5:02,4.0,3.0,MIN 45,10.0,0.0,"Ryan Wright punts 40 yards, fair catch by Jayden Reed at GB-15, fair catch by Andrew DePaola at GB-15",-0.39,0.22,8.0,2023,110
+2.0,4:56,1.0,10.0,GNB 15,10.0,0.0,Jordan Love pass complete short left to AJ Dillon for 4 yards (tackle by Camryn Bynum and Josh Metellus),-0.22,-0.11,8.0,2023,110
+2.0,4:20,2.0,6.0,GNB 19,10.0,0.0,Jordan Love pass incomplete deep left intended for Dontayvion Wicks (defended by Camryn Bynum),-0.11,-0.88,8.0,2023,110
+2.0,4:16,3.0,6.0,GNB 19,10.0,0.0,Jordan Love pass complete short left to Christian Watson for 11 yards (tackle by Akayleb Evans),-0.88,0.94,8.0,2023,110
+2.0,3:36,1.0,10.0,GNB 30,10.0,0.0,"Jordan Love pass complete short right to Aaron Jones for 7 yards. Aaron Jones fumbles (forced by Danielle Hunter), recovered by Elgton Jenkins at GB-39",0.94,1.61,8.0,2023,110
+2.0,2:53,2.0,1.0,GNB 39,10.0,0.0,Aaron Jones up the middle for 6 yards (tackle by Jaquelin Roy),1.61,1.93,8.0,2023,110
+2.0,2:35,1.0,10.0,GNB 45,10.0,0.0,Jordan Love pass complete short left to Romeo Doubs for no gain Jordan Love pass incomplete short left intended for Romeo Doubs (no play),1.93,2.66,8.0,2023,110
+2.0,2:31,1.0,5.0,GNB 50,10.0,0.0,"Jordan Love pass incomplete short left intended for Luke Musgrave. Penalty on Christian Watson: Offensive Pass Interference, 10 yards (accepted) (no play)",2.66,1.6,8.0,2023,110
+2.0,2:28,1.0,15.0,GNB 40,10.0,0.0,Jordan Love pass complete short right to AJ Dillon for 5 yards (tackle by Josh Metellus and Byron Murphy),1.6,1.38,8.0,2023,110
+2.0,2:00,2.0,10.0,GNB 45,10.0,0.0,Aaron Jones up the middle for 7 yards (tackle by Camryn Bynum),1.38,1.62,8.0,2023,110
+2.0,1:15,,,,,,Timeout #1 by Green Bay Packers,,,8.0,2023,110
+2.0,1:15,3.0,3.0,MIN 48,10.0,0.0,Jordan Love pass complete short left to Aaron Jones for 4 yards (tackle by Akayleb Evans),1.62,2.65,8.0,2023,110
+2.0,1:10,1.0,10.0,MIN 44,10.0,0.0,Jordan Love pass complete short middle to AJ Dillon for 16 yards (tackle by Josh Metellus and Jordan Hicks),2.65,3.71,8.0,2023,110
+2.0,0:44,1.0,10.0,MIN 28,10.0,0.0,Jordan Love sacked by and D.J. Wonnum for -4 yards and Camryn Bynum for -4 yards,3.71,2.63,8.0,2023,110
+2.0,0:35,,,,,,Timeout #2 by Green Bay Packers,,,8.0,2023,110
+2.0,0:35,2.0,14.0,MIN 32,10.0,0.0,Jordan Love pass complete short right to Jayden Reed for 8 yards (tackle by Josh Metellus),2.63,3.01,8.0,2023,110
+2.0,0:17,3.0,6.0,MIN 24,10.0,0.0,Jordan Love pass complete short middle to Luke Musgrave for 7 yards (tackle by Harrison Smith),3.01,4.44,8.0,2023,110
+2.0,0:12,,,,,,Timeout #3 by Green Bay Packers,,,8.0,2023,110
+2.0,0:12,1.0,10.0,MIN 17,10.0,0.0,Jordan Love pass incomplete short left,4.44,3.85,8.0,2023,110
+2.0,0:05,2.0,10.0,MIN 17,10.0,0.0,"Anders Carlson yard field goal no good. Penalty on Jay Ward: Defensive Offside, 5 yards (accepted) (no play)",3.85,4.69,8.0,2023,110
+2.0,0:00,2.0,5.0,MIN 12,10.0,3.0,Anders Carlson 30 yard field goal good,4.69,3.0,8.0,2023,110
+3.0,15:00,,,GNB 35,10.0,3.0,"Anders Carlson kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,110
+3.0,15:00,1.0,10.0,MIN 25,10.0,3.0,Kirk Cousins pass incomplete short middle intended for T.J. Hockenson,0.61,0.06,8.0,2023,110
+3.0,14:57,2.0,10.0,MIN 25,10.0,3.0,Alexander Mattison left guard for 1 yard (tackle by Rasul Douglas and Quay Walker),0.06,-0.49,8.0,2023,110
+3.0,14:29,3.0,9.0,MIN 26,10.0,3.0,Kirk Cousins pass complete short right to K.J. Osborn for 32 yards (tackle by Rudy Ford),-0.49,2.79,8.0,2023,110
+3.0,13:51,1.0,10.0,GNB 42,10.0,3.0,Alexander Mattison up the middle for 1 yard (tackle by De'Vondre Campbell and Tedarrell Slaton),2.79,2.38,8.0,2023,110
+3.0,13:09,2.0,9.0,GNB 41,10.0,3.0,Kirk Cousins pass complete short right to K.J. Osborn for 8 yards (tackle by Keisean Nixon),2.38,2.74,8.0,2023,110
+3.0,12:58,3.0,1.0,GNB 33,10.0,3.0,Kirk Cousins pass complete short right to K.J. Osborn for 12 yards (tackle by Quay Walker),2.74,4.17,8.0,2023,110
+3.0,12:26,1.0,10.0,GNB 21,10.0,3.0,Kirk Cousins pass complete short middle to K.J. Osborn for 8 yards (tackle by Keisean Nixon),4.17,4.95,8.0,2023,110
+3.0,12:05,2.0,2.0,GNB 13,10.0,3.0,Alexander Mattison left end for -1 yards (tackle by Kingsley Enagbare and Tedarrell Slaton),4.95,4.02,8.0,2023,110
+3.0,11:29,3.0,3.0,GNB 14,10.0,3.0,Kirk Cousins pass complete short left to Alexander Mattison for 2 yards (tackle by De'Vondre Campbell),4.02,2.78,8.0,2023,110
+3.0,11:04,4.0,1.0,GNB 12,10.0,3.0,Kirk Cousins up the middle for 2 yards (tackle by Quay Walker),2.78,4.91,8.0,2023,110
+3.0,10:20,1.0,10.0,GNB 10,10.0,3.0,Kirk Cousins pass complete short right to Johnny Mundt for 8 yards (tackle by Quay Walker),4.91,5.72,8.0,2023,110
+3.0,9:34,2.0,2.0,GNB 2,10.0,3.0,Kirk Cousins pass incomplete short right intended for T.J. Hockenson (defended by Preston Smith),5.72,4.95,8.0,2023,110
+3.0,9:28,3.0,2.0,GNB 2,16.0,3.0,"Kirk Cousins pass complete short middle to T.J. Hockenson for 2 yards, touchdown",4.95,7.0,8.0,2023,110
+3.0,9:25,,,GNB 15,17.0,3.0,Greg Joseph kicks extra point good,0.0,0.0,8.0,2023,110
+3.0,9:25,,,MIN 35,17.0,3.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,110
+3.0,9:25,1.0,10.0,GNB 25,17.0,3.0,Aaron Jones left tackle for no gain (tackle by Danielle Hunter),0.61,0.06,8.0,2023,110
+3.0,8:53,2.0,10.0,GNB 25,17.0,3.0,Jordan Love pass complete short right to Romeo Doubs for 2 yards (tackle by Josh Metellus),0.06,-0.36,8.0,2023,110
+3.0,8:08,3.0,8.0,GNB 27,17.0,3.0,Jordan Love pass deep middle intended for Jayden Reed is intercepted by Josh Metellus at MIN-37 and returned for 43 yards (tackle by Elgton Jenkins),-0.36,-4.24,8.0,2023,110
+3.0,7:53,1.0,10.0,GNB 20,23.0,3.0,"Kirk Cousins pass complete deep right to Jordan Addison for 20 yards, touchdown",4.24,7.0,8.0,2023,110
+3.0,7:48,,,GNB 15,24.0,3.0,Greg Joseph kicks extra point good,0.0,0.0,8.0,2023,110
+3.0,7:48,,,MIN 35,24.0,3.0,"Greg Joseph kicks off 68 yards, returned by Keisean Nixon for 22 yards (tackle by Jay Ward)",0.0,0.15,8.0,2023,110
+3.0,7:44,1.0,10.0,GNB 19,24.0,3.0,Jordan Love pass complete short middle to Christian Watson for 5 yards (tackle by Jordan Hicks and Josh Metellus),0.15,0.34,8.0,2023,110
+3.0,7:21,2.0,5.0,GNB 24,24.0,3.0,AJ Dillon up the middle for 3 yards (tackle by Harrison Smith and Harrison Phillips),0.34,-0.03,8.0,2023,110
+3.0,6:57,3.0,2.0,GNB 27,24.0,3.0,Jordan Love pass complete short left to Romeo Doubs for 10 yards (tackle by Akayleb Evans),-0.03,1.4,8.0,2023,110
+3.0,6:39,1.0,10.0,GNB 37,24.0,3.0,Jordan Love pass complete deep middle to Jayden Reed for 31 yards (tackle by Camryn Bynum),1.4,3.45,8.0,2023,110
+3.0,6:13,1.0,10.0,MIN 32,24.0,3.0,Jordan Love pass incomplete short left intended for Jayden Reed,3.45,2.9,8.0,2023,110
+3.0,6:11,2.0,10.0,MIN 32,24.0,3.0,Jordan Love pass complete short left to AJ Dillon for 10 yards (tackle by Jordan Hicks and Theo Jackson),2.9,4.11,8.0,2023,110
+3.0,5:48,1.0,10.0,MIN 22,24.0,3.0,Jordan Love pass complete short left to AJ Dillon for 6 yards (tackle by Harrison Smith),4.11,4.46,8.0,2023,110
+3.0,5:28,2.0,4.0,MIN 16,24.0,3.0,Jordan Love pass complete short right to Aaron Jones for 5 yards (tackle by Camryn Bynum and Jordan Hicks),4.46,4.84,8.0,2023,110
+3.0,5:01,1.0,10.0,MIN 11,24.0,3.0,Jordan Love pass complete short middle to Aaron Jones for 1 yard (tackle by Jordan Hicks),4.84,4.32,8.0,2023,110
+3.0,4:41,2.0,9.0,MIN 10,24.0,3.0,Aaron Jones up the middle for 3 yards (tackle by Harrison Phillips and Jaquelin Roy),4.32,3.98,8.0,2023,110
+3.0,3:58,3.0,6.0,MIN 7,24.0,3.0,"Jordan Love pass incomplete intended for Jayden Reed. Penalty on Akayleb Evans: Defensive Pass Interference, 6 yards (accepted) (no play)",3.98,6.97,8.0,2023,110
+3.0,3:53,1.0,1.0,MIN 1,24.0,3.0,AJ Dillon up the middle for no gain (tackle by Jaquelin Roy and Harrison Phillips),6.97,5.91,8.0,2023,110
+3.0,3:28,2.0,1.0,MIN 1,24.0,3.0,Jordan Love pass incomplete short middle intended for Christian Watson,5.91,5.17,8.0,2023,110
+3.0,3:23,3.0,1.0,MIN 1,24.0,3.0,Penalty on Jonathan Bullard: Neutral Zone Infraction (accepted) (no play),5.17,5.17,8.0,2023,110
+3.0,3:23,3.0,1.0,MIN 1,24.0,3.0,AJ Dillon up the middle for no gain (tackle by Harrison Phillips),5.17,3.55,8.0,2023,110
+3.0,2:42,4.0,1.0,MIN 1,24.0,9.0,"Jordan Love pass complete short left to Romeo Doubs for 1 yard, touchdown",3.55,7.0,8.0,2023,110
+3.0,2:39,,,MIN 15,24.0,10.0,Anders Carlson kicks extra point good,0.0,0.0,8.0,2023,110
+3.0,2:39,,,GNB 35,24.0,10.0,"Anders Carlson kicks off 68 yards, returned by Ty Chandler for 27 yards (tackle by Carrington Valentine). Penalty on Ivan Pace: Offensive Holding, 10 yards (accepted)",0.0,-0.28,8.0,2023,110
+3.0,2:21,1.0,10.0,MIN 14,24.0,10.0,Alexander Mattison right end for 8 yards (tackle by Quay Walker),-0.28,0.42,8.0,2023,110
+3.0,1:46,2.0,2.0,MIN 22,24.0,10.0,Alexander Mattison up the middle for 7 yards (tackle by De'Vondre Campbell and Preston Smith),0.42,0.87,8.0,2023,110
+3.0,1:08,1.0,10.0,MIN 29,24.0,10.0,Alexander Mattison right end for -7 yards (tackle by Rashan Gary),0.87,-0.62,8.0,2023,110
+3.0,0:30,2.0,17.0,MIN 22,24.0,10.0,Kirk Cousins pass complete short right to Jordan Addison for 6 yards (tackle by Jaire Alexander),-0.62,-0.49,8.0,2023,110
+4.0,15:00,3.0,11.0,MIN 28,24.0,10.0,Kirk Cousins pass complete short left to C.J. Ham for 2 yards (tackle by De'Vondre Campbell),-0.49,-1.37,8.0,2023,110
+4.0,15:00,4.0,9.0,MIN 30,24.0,10.0,"Penalty on Rashan Gary: Roughing the Passer, 15 yards (accepted)",-1.37,1.93,8.0,2023,110
+4.0,14:34,1.0,10.0,MIN 45,24.0,10.0,Kirk Cousins pass complete deep left to T.J. Hockenson for 20 yards (tackle by Rasul Douglas),1.93,3.25,8.0,2023,110
+4.0,13:57,1.0,10.0,GNB 35,24.0,10.0,Alexander Mattison left tackle for 10 yards (tackle by Rasul Douglas),3.25,3.91,8.0,2023,110
+4.0,13:14,1.0,10.0,GNB 25,24.0,10.0,Alexander Mattison up the middle for 2 yards (tackle by De'Vondre Campbell),3.91,3.63,8.0,2023,110
+4.0,12:34,2.0,8.0,GNB 23,24.0,10.0,Alexander Mattison left tackle for no gain (tackle by Colby Wooden and De'Vondre Campbell),3.63,2.94,8.0,2023,110
+4.0,11:49,3.0,8.0,GNB 23,24.0,10.0,Kirk Cousins pass complete short middle to Brandon Powell for 10 yards (tackle by Quay Walker and Keisean Nixon),2.94,4.71,8.0,2023,110
+4.0,11:20,1.0,10.0,GNB 13,24.0,10.0,Kirk Cousins pass incomplete short left intended for K.J. Osborn,4.71,4.05,8.0,2023,110
+4.0,11:17,2.0,10.0,GNB 13,24.0,10.0,Kirk Cousins sacked by Preston Smith for -9 yards,4.05,2.28,8.0,2023,110
+4.0,10:30,,,,,,Timeout #1 by Minnesota Vikings,,,8.0,2023,110
+4.0,10:30,3.0,19.0,GNB 22,24.0,10.0,Kirk Cousins sacked by Kenny Clark for -4 yards,2.28,1.74,8.0,2023,110
+4.0,10:06,4.0,23.0,GNB 26,24.0,10.0,Greg Joseph 44 yard field goal no good blocked by Karl Brooks (tackle by Greg Joseph),1.74,-1.86,8.0,2023,110
+4.0,9:42,1.0,10.0,GNB 44,24.0,10.0,Jordan Love pass complete short middle to Christian Watson for 17 yards (tackle by Jordan Hicks),1.86,2.98,8.0,2023,110
+4.0,9:19,1.0,10.0,MIN 39,24.0,10.0,Jordan Love pass incomplete short right intended for Romeo Doubs,2.98,2.44,8.0,2023,110
+4.0,9:12,2.0,10.0,MIN 39,24.0,10.0,Jordan Love scrambles right end for 3 yards (tackle by Josh Metellus),2.44,2.15,8.0,2023,110
+4.0,8:31,3.0,7.0,MIN 36,24.0,10.0,Jordan Love pass complete short middle to Dontayvion Wicks for 11 yards (tackle by Camryn Bynum),2.15,3.91,8.0,2023,110
+4.0,8:04,1.0,10.0,MIN 25,24.0,10.0,Jordan Love pass complete short left to Jayden Reed for 10 yards (tackle by Byron Murphy),3.91,4.58,8.0,2023,110
+4.0,7:47,1.0,10.0,MIN 15,24.0,10.0,Aaron Jones right guard for 5 yards (tackle by Harrison Phillips and Harrison Smith),4.58,4.84,8.0,2023,110
+4.0,7:25,2.0,5.0,MIN 10,24.0,10.0,Jordan Love pass incomplete short right intended for Dontayvion Wicks,4.84,4.0,8.0,2023,110
+4.0,7:23,3.0,5.0,MIN 10,24.0,10.0,Jordan Love pass incomplete short right intended for Christian Watson (defended by Mekhi Blackmon),4.0,2.81,8.0,2023,110
+4.0,7:19,4.0,5.0,MIN 10,24.0,10.0,Jordan Love pass incomplete short middle intended for Romeo Doubs (defended by Camryn Bynum),2.81,0.38,8.0,2023,110
+4.0,7:15,1.0,10.0,MIN 10,24.0,10.0,Cam Akers left end for -2 yards (tackle by Tedarrell Slaton),-0.38,-0.93,8.0,2023,110
+4.0,6:38,2.0,12.0,MIN 8,24.0,10.0,Jaren Hall pass complete short right to K.J. Osborn for 4 yards (tackle by Keisean Nixon),-0.93,-1.19,8.0,2023,110
+4.0,6:02,3.0,8.0,MIN 12,24.0,10.0,"Jaren Hall sacked by Preston Smith for no gain. Jaren Hall fumbles (forced by Preston Smith), recovered by Devonte Wyatt at MIN-15",-1.19,-4.58,8.0,2023,110
+4.0,5:54,1.0,10.0,MIN 15,24.0,10.0,AJ Dillon left guard for 1 yard (tackle by Ivan Pace and Jordan Hicks),4.58,4.11,8.0,2023,110
+4.0,5:20,2.0,9.0,MIN 14,24.0,10.0,"Jordan Love sacked by and D.J. Wonnum for -7 yards and Harrison Phillips for -7 yards. Penalty on Yosh Nijman: Offensive Facemask, 15 yards (declined)",4.11,2.54,8.0,2023,110
+4.0,5:00,3.0,16.0,MIN 21,24.0,10.0,Jordan Love pass incomplete deep left intended for Christian Watson (defended by Akayleb Evans),2.54,2.06,8.0,2023,110
+4.0,4:54,4.0,16.0,MIN 21,24.0,10.0,Jordan Love scrambles up the middle for 15 yards (tackle by Harrison Smith),2.06,0.38,8.0,2023,110
+4.0,4:46,1.0,10.0,MIN 6,24.0,10.0,Alexander Mattison right end for 2 yards (tackle by Tedarrell Slaton),-0.38,-0.63,8.0,2023,110
+4.0,4:42,,,,,,Timeout #1 by Green Bay Packers,,,8.0,2023,110
+4.0,4:42,2.0,8.0,MIN 8,24.0,10.0,Jaren Hall pass incomplete short left intended for T.J. Hockenson,-0.63,-1.19,8.0,2023,110
+4.0,4:39,,,,,,Timeout #2 by Minnesota Vikings,,,8.0,2023,110
+4.0,4:39,3.0,8.0,MIN 8,24.0,10.0,Jaren Hall pass complete short middle to T.J. Hockenson for 16 yards (tackle by De'Vondre Campbell),-1.19,0.54,8.0,2023,110
+4.0,4:28,,,,,,Timeout #2 by Green Bay Packers,,,8.0,2023,110
+4.0,4:28,1.0,10.0,MIN 24,24.0,10.0,Alexander Mattison left tackle for no gain (tackle by Tedarrell Slaton and Kenny Clark),0.54,0.0,8.0,2023,110
+4.0,4:23,,,,,,Timeout #3 by Green Bay Packers,,,8.0,2023,110
+4.0,4:23,2.0,10.0,MIN 24,24.0,10.0,Alexander Mattison left end for 2 yards (tackle by Rashan Gary and Jonathan Owens),0.0,-0.43,8.0,2023,110
+4.0,3:39,3.0,8.0,MIN 26,24.0,10.0,Jaren Hall pass complete short left to K.J. Osborn for 3 yards (tackle by Preston Smith and Rudy Ford),-0.43,-1.44,8.0,2023,110
+4.0,2:53,4.0,5.0,MIN 29,24.0,10.0,"Ryan Wright punts 47 yards, returned by Keisean Nixon for 6 yards (tackle by Nick Vigil and Jay Ward). Penalty on Eric Wilson: Offensive Holding, 10 yards (accepted)",-1.44,-0.28,8.0,2023,110
+4.0,2:41,1.0,10.0,GNB 20,24.0,10.0,Jordan Love pass incomplete deep left intended for Romeo Doubs,0.28,-0.27,8.0,2023,110
+4.0,2:33,2.0,10.0,GNB 20,24.0,10.0,Jordan Love pass complete deep left to Jayden Reed for 34 yards (tackle by Camryn Bynum),-0.27,2.52,8.0,2023,110
+4.0,2:22,1.0,10.0,MIN 46,24.0,10.0,"Penalty on Rasheed Walker: False Start, 5 yards (accepted) (no play)",2.52,2.19,8.0,2023,110
+4.0,2:22,1.0,15.0,GNB 49,24.0,10.0,Jordan Love pass complete short right to Dontayvion Wicks for 17 yards (tackle by Andrew Booth),2.19,3.31,8.0,2023,110
+4.0,2:03,1.0,10.0,MIN 34,24.0,10.0,Jordan Love pass incomplete deep right intended for Christian Watson,3.31,2.77,8.0,2023,110
+4.0,1:58,2.0,10.0,MIN 34,24.0,10.0,Jordan Love pass incomplete deep middle intended for Christian Watson (defended by Mekhi Blackmon),2.77,2.08,8.0,2023,110
+4.0,1:51,3.0,10.0,MIN 34,24.0,10.0,"Jordan Love sacked by Danielle Hunter for -10 yards. Jordan Love fumbles (forced by Danielle Hunter), recovered by Zach Tom at MIN-44",2.08,0.33,8.0,2023,110
+4.0,1:22,4.0,20.0,MIN 44,24.0,10.0,Jordan Love pass incomplete deep middle intended for Romeo Doubs (defended by Mekhi Blackmon),0.33,-1.86,8.0,2023,110
+4.0,1:17,1.0,10.0,MIN 44,24.0,10.0,Jaren Hall kneels for no gain,1.86,1.32,8.0,2023,110
+4.0,0:39,2.0,10.0,MIN 44,24.0,10.0,Jaren Hall kneels for -1 yards,1.32,0.5,8.0,2023,110

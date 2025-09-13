@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,DAL 30,10,5:54,30,Field Goal,1,Cowboys,16.0,2024,239
+2,1,4:57,DAL 48,5,2:08,52,Touchdown,1,Cowboys,16.0,2024,239
+3,1,1:12,DAL 20,3,1:27,2,Punt,1,Cowboys,16.0,2024,239
+4,2,11:30,DAL 30,5,2:15,39,Field Goal,1,Cowboys,16.0,2024,239
+5,2,4:14,DAL 20,9,2:29,80,Touchdown,1,Cowboys,16.0,2024,239
+6,2,0:48,DAL 30,6,0:48,30,Field Goal,1,Cowboys,16.0,2024,239
+7,3,9:07,DAL 35,5,2:34,30,Field Goal,1,Cowboys,16.0,2024,239
+8,3,0:31,DAL 30,5,3:53,13,Punt,1,Cowboys,16.0,2024,239
+9,4,9:10,DAL 39,3,1:38,13,Punt,1,Cowboys,16.0,2024,239
+10,4,6:22,DAL 20,3,1:39,8,Punt,1,Cowboys,16.0,2024,239
+11,4,2:36,DAL 30,3,0:56,8,Punt,1,Cowboys,16.0,2024,239
+12,4,1:31,TAM 31,3,1:31,-4,End of Game,1,Cowboys,16.0,2024,239

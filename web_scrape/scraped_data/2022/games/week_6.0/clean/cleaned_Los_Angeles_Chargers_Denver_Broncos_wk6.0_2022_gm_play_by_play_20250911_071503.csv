@@ -1,0 +1,199 @@
+Quarter,Time,Down,ToGo,Location,DEN,LAC,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Broncos won the coin toss and deferred, Chargers to receive the opening kickoff.",,,6.0,2022,94
+1,15:00,,,DEN 35,0.0,0.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,6.0,2022,94
+1,15:00,1.0,10.0,LAC 25,0.0,0.0,"Justin Herbert pass incomplete deep left intended for Josh Palmer. Penalty on Damarri Mathis: Defensive Pass Interference, 30 yards (accepted) (no play)",0.61,2.59,6.0,2022,94
+1,14:54,1.0,10.0,DEN 45,0.0,0.0,Austin Ekeler left tackle for 8 yards (tackle by Kareem Jackson),2.59,3.12,6.0,2022,94
+1,14:20,2.0,2.0,DEN 37,0.0,0.0,Justin Herbert pass incomplete short right,3.12,2.41,6.0,2022,94
+1,14:14,3.0,2.0,DEN 37,0.0,0.0,Justin Herbert pass incomplete short right intended for DeAndre Carter,2.41,0.79,6.0,2022,94
+1,14:10,4.0,2.0,DEN 37,0.0,0.0,Justin Herbert pass complete short right to Michael Bandy for 4 yards (tackle by Alex Singleton),0.79,3.38,6.0,2022,94
+1,13:28,1.0,10.0,DEN 33,0.0,0.0,Austin Ekeler up the middle for -1 yards (tackle by Baron Browning and Dre'Mont Jones),3.38,2.7,6.0,2022,94
+1,12:51,2.0,11.0,DEN 34,0.0,0.0,Justin Herbert pass incomplete short left intended for Mike Williams,2.7,2.01,6.0,2022,94
+1,12:45,3.0,11.0,DEN 34,0.0,0.0,"Penalty on Will Clapp: False Start, 5 yards (accepted) (no play)",2.01,1.35,6.0,2022,94
+1,12:45,3.0,16.0,DEN 39,0.0,0.0,Justin Herbert pass incomplete deep right intended for Michael Bandy,1.35,0.66,6.0,2022,94
+1,12:39,4.0,16.0,DEN 39,0.0,0.0,"JK Scott punts 18 yards, fair catch by Montrell Washington at DEN-21",0.66,-0.34,6.0,2022,94
+1,12:31,1.0,10.0,DEN 21,0.0,0.0,"Melvin Gordon left guard for 4 yards. Penalty on Lloyd Cushenberry: Offensive Holding, 10 yards (accepted) (no play)",0.34,-0.72,6.0,2022,94
+1,12:12,1.0,20.0,DEN 11,0.0,0.0,Melvin Gordon right tackle for 2 yards (tackle by Khalil Mack and Morgan Fox),-0.72,-1.35,6.0,2022,94
+1,11:31,2.0,18.0,DEN 13,0.0,0.0,Russell Wilson pass complete short middle to Courtland Sutton for 9 yards (tackle by Kenneth Murray and Derwin James),-1.35,-0.76,6.0,2022,94
+1,10:49,3.0,9.0,DEN 22,0.0,0.0,"Penalty on Cameron Fleming: False Start, 5 yards (accepted) (no play)",-0.76,-1.59,6.0,2022,94
+1,10:21,3.0,14.0,DEN 17,0.0,0.0,"Russell Wilson pass incomplete deep left intended for Courtland Sutton. Penalty on J.C. Jackson: Defensive Pass Interference, 21 yards (accepted) (no play)",-1.59,1.47,6.0,2022,94
+1,10:16,1.0,10.0,DEN 38,0.0,0.0,Russell Wilson pass complete short middle to Kendall Hinton for 8 yards (tackle by Derwin James and Chris Rumph),1.47,2.0,6.0,2022,94
+1,9:45,2.0,2.0,DEN 46,0.0,0.0,Russell Wilson pass complete deep right to Eric Tomlinson for 16 yards (tackle by Derrek Tuszka),2.0,3.05,6.0,2022,94
+1,9:20,1.0,10.0,LAC 38,0.0,0.0,Russell Wilson pass complete short left to Andrew Beck for 7 yards (tackle by Chris Rumph),3.05,3.45,6.0,2022,94
+1,8:44,2.0,3.0,LAC 31,0.0,0.0,Melvin Gordon up the middle for 2 yards (tackle by Drue Tranquill),3.45,2.94,6.0,2022,94
+1,7:53,3.0,2.0,LAC 29,0.0,0.0,Russell Wilson sacked by Khalil Mack for -4 yards,2.94,1.16,6.0,2022,94
+1,7:25,4.0,6.0,LAC 33,3.0,0.0,Brandon McManus 51 yard field goal good,1.16,3.0,6.0,2022,94
+1,7:20,,,DEN 35,3.0,0.0,"Brandon McManus kicks off 63 yards, returned by DeAndre Carter for 27 yards (tackle by Essang Bassey)",0.0,0.87,6.0,2022,94
+1,7:14,1.0,10.0,LAC 29,3.0,0.0,"Austin Ekeler right tackle for no gain. Penalty on Zion Johnson: Offensive Holding, 10 yards (accepted) (no play)",0.87,0.11,6.0,2022,94
+1,6:53,1.0,20.0,LAC 19,3.0,0.0,Justin Herbert pass complete short left to Austin Ekeler for 9 yards (tackle by Alex Singleton and Mike Purcell),0.11,0.19,6.0,2022,94
+1,6:29,2.0,11.0,LAC 28,3.0,0.0,Justin Herbert pass incomplete short middle intended for Josh Palmer,0.19,-0.49,6.0,2022,94
+1,6:23,3.0,11.0,LAC 28,3.0,0.0,Justin Herbert pass complete short right to Austin Ekeler for 6 yards (tackle by Baron Browning),-0.49,-1.11,6.0,2022,94
+1,5:42,4.0,5.0,LAC 34,3.0,0.0,"JK Scott punts 52 yards, recovered by Montrell Washington at DEN-16",-1.11,0.14,6.0,2022,94
+1,5:30,1.0,10.0,DEN 16,3.0,0.0,Russell Wilson pass complete short left to Latavius Murray for -2 yards (tackle by Kyle Van Noy),-0.14,-0.89,6.0,2022,94
+1,4:59,2.0,12.0,DEN 14,3.0,0.0,Latavius Murray up the middle for 8 yards (tackle by Derwin James),-0.89,-0.57,6.0,2022,94
+1,4:21,3.0,4.0,DEN 22,3.0,0.0,Russell Wilson pass complete short left to Greg Dulcich for 5 yards (tackle by Derwin James),-0.57,0.74,6.0,2022,94
+1,4:03,1.0,10.0,DEN 27,3.0,0.0,Russell Wilson pass complete short right to Montrell Washington for no gain (tackle by Khalil Mack),0.74,0.2,6.0,2022,94
+1,3:24,2.0,10.0,DEN 27,3.0,0.0,Russell Wilson pass complete short left to KJ Hamler for -3 yards (tackle by Bryce Callahan),0.2,-0.89,6.0,2022,94
+1,2:40,3.0,13.0,DEN 24,3.0,0.0,Russell Wilson pass complete deep right to Jerry Jeudy for 37 yards (tackle by Alohi Gilman),-0.89,2.98,6.0,2022,94
+1,1:57,1.0,10.0,LAC 39,9.0,0.0,"Russell Wilson pass complete deep right to Greg Dulcich for 39 yards, touchdown",2.98,7.0,6.0,2022,94
+1,1:49,,,LAC 15,10.0,0.0,Brandon McManus kicks extra point good,0.0,0.0,6.0,2022,94
+1,1:49,,,DEN 35,10.0,0.0,"Brandon McManus kicks off 65 yards, returned by DeAndre Carter for 18 yards (tackle by Essang Bassey and P.J. Locke)",0.0,0.04,6.0,2022,94
+1,1:45,1.0,10.0,LAC 18,10.0,0.0,Justin Herbert pass complete short middle to Sony Michel for 3 yards (tackle by Alex Singleton and Jonas Griffith),0.04,0.01,6.0,2022,94
+1,1:03,2.0,7.0,LAC 21,10.0,0.0,Justin Herbert pass complete short left to Austin Ekeler for 8 yards (tackle by Alex Singleton),0.01,0.87,6.0,2022,94
+1,0:24,1.0,10.0,LAC 29,10.0,0.0,Justin Herbert pass complete deep right to Donald Parham for 24 yards (tackle by Kareem Jackson),0.87,2.46,6.0,2022,94
+2,15:00,1.0,10.0,DEN 47,10.0,0.0,Austin Ekeler left tackle for 2 yards (tackle by Alex Singleton),2.46,2.18,6.0,2022,94
+2,14:23,2.0,8.0,DEN 45,10.0,0.0,Justin Herbert scrambles left end for 4 yards (tackle by Jonas Griffith),2.18,2.01,6.0,2022,94
+2,13:54,3.0,4.0,DEN 41,10.0,0.0,Justin Herbert pass complete short middle to Josh Palmer for 6 yards (tackle by Alex Singleton),2.01,3.25,6.0,2022,94
+2,13:16,1.0,10.0,DEN 35,10.0,0.0,Justin Herbert pass incomplete deep right intended for Mike Williams (defended by Patrick Surtain),3.25,2.7,6.0,2022,94
+2,13:12,2.0,10.0,DEN 35,10.0,0.0,Justin Herbert pass complete short right to Gerald Everett for 5 yards (tackle by Justin Simmons),2.7,2.68,6.0,2022,94
+2,12:31,3.0,5.0,DEN 30,10.0,0.0,Justin Herbert pass complete short right to Gerald Everett for 6 yards (tackle by D.J. Jones),2.68,3.97,6.0,2022,94
+2,11:50,1.0,10.0,DEN 24,10.0,0.0,Sony Michel right guard for no gain (tackle by Bradley Chubb),3.97,3.43,6.0,2022,94
+2,11:17,2.0,10.0,DEN 24,10.0,0.0,Justin Herbert pass complete short left to DeAndre Carter for 5 yards (tackle by Jonas Griffith),3.43,3.41,6.0,2022,94
+2,10:37,3.0,5.0,DEN 19,10.0,0.0,Justin Herbert pass complete short left to Gerald Everett for 5 yards (tackle by Damarri Mathis),3.41,4.65,6.0,2022,94
+2,10:00,1.0,10.0,DEN 14,10.0,0.0,Austin Ekeler right guard for no gain (tackle by Alex Singleton and Jonas Griffith),4.65,4.0,6.0,2022,94
+2,9:41,2.0,10.0,DEN 14,10.0,0.0,Justin Herbert pass complete short right to Mike Williams for 8 yards (tackle by Alex Singleton),4.0,4.73,6.0,2022,94
+2,9:16,3.0,2.0,DEN 6,10.0,6.0,"Austin Ekeler up the middle for 6 yards, touchdown",4.73,7.0,6.0,2022,94
+2,9:09,,,DEN 15,10.0,7.0,Dustin Hopkins kicks extra point good,0.0,0.0,6.0,2022,94
+2,9:09,,,LAC 35,10.0,7.0,"JK Scott kicks off 62 yards, returned by Montrell Washington for 26 yards (tackle by Alohi Gilman and Troy Reeder)",0.0,0.87,6.0,2022,94
+2,9:01,1.0,10.0,DEN 29,10.0,7.0,Russell Wilson scrambles right end for 1 yard (tackle by Kenneth Murray),0.87,0.46,6.0,2022,94
+2,8:27,2.0,9.0,DEN 30,10.0,7.0,Melvin Gordon right tackle for 4 yards (tackle by Drue Tranquill and Kenneth Murray),0.46,0.3,6.0,2022,94
+2,7:42,3.0,5.0,DEN 34,10.0,7.0,Russell Wilson pass incomplete short left intended for Mike Boone (defended by Khalil Mack),0.3,-1.11,6.0,2022,94
+2,7:37,4.0,5.0,DEN 34,10.0,7.0,"Corliss Waitman punts 54 yards, fair catch by DeAndre Carter at LAC-12",-1.11,0.35,6.0,2022,94
+2,7:29,1.0,10.0,LAC 12,10.0,7.0,Justin Herbert pass complete short left to Austin Ekeler for 3 yards (tackle by Dre'Mont Jones),-0.35,-0.5,6.0,2022,94
+2,7:04,2.0,7.0,LAC 15,10.0,7.0,Justin Herbert pass complete short right to Josh Palmer for 6 yards (tackle by K'Waun Williams and Damarri Mathis),-0.5,-0.37,6.0,2022,94
+2,6:24,3.0,1.0,LAC 21,10.0,7.0,Sony Michel right end for 4 yards (tackle by Alex Singleton and Bradley Chubb),-0.37,0.61,6.0,2022,94
+2,5:46,1.0,10.0,LAC 25,10.0,7.0,Sony Michel right tackle for 4 yards (tackle by Jonathon Cooper),0.61,0.6,6.0,2022,94
+2,5:07,2.0,6.0,LAC 29,10.0,7.0,Justin Herbert sacked by Matt Henningsen for -7 yards,0.6,-1.02,6.0,2022,94
+2,4:22,3.0,13.0,LAC 22,10.0,7.0,"Justin Herbert pass incomplete deep right intended for Josh Palmer. Penalty on Damarri Mathis: Defensive Pass Interference, 36 yards (accepted) (no play)",-1.02,2.79,6.0,2022,94
+2,4:13,1.0,10.0,DEN 42,10.0,7.0,"Justin Herbert pass complete short middle to Austin Ekeler for no gain. Penalty on Zion Johnson: Offensive Holding, 10 yards (accepted) (no play)",2.79,2.13,6.0,2022,94
+2,3:56,1.0,20.0,LAC 48,10.0,7.0,Justin Herbert pass complete short right to Donald Parham for 17 yards (tackle by Justin Simmons),2.13,3.19,6.0,2022,94
+2,3:23,2.0,3.0,DEN 35,10.0,7.0,Austin Ekeler right end for 1 yard (tackle by Damarri Mathis),3.19,2.61,6.0,2022,94
+2,2:46,3.0,2.0,DEN 34,10.0,7.0,"Justin Herbert pass incomplete short middle intended for DeAndre Carter. Penalty on Damarri Mathis: Defensive Pass Interference, 11 yards (accepted) (no play)",2.61,4.04,6.0,2022,94
+2,2:41,1.0,10.0,DEN 23,10.0,7.0,Justin Herbert pass complete short left to Josh Palmer for 5 yards (tackle by Alex Singleton and Kareem Jackson),4.04,4.21,6.0,2022,94
+2,2:00,2.0,5.0,DEN 18,10.0,7.0,Sony Michel up the middle for 2 yards (tackle by Dre'Mont Jones),4.21,3.85,6.0,2022,94
+2,1:51,,,,,,Timeout #1 by Denver Broncos,,,6.0,2022,94
+2,1:51,3.0,3.0,DEN 16,10.0,7.0,Austin Ekeler left end for 4 yards (tackle by Bradley Chubb and Kareem Jackson),3.85,4.78,6.0,2022,94
+2,1:16,1.0,10.0,DEN 12,10.0,7.0,Justin Herbert pass complete short right to Josh Palmer for no gain (tackle by Damarri Mathis and Kareem Jackson),4.78,4.1,6.0,2022,94
+2,1:05,,,,,,Timeout #2 by Denver Broncos,,,6.0,2022,94
+2,1:05,2.0,10.0,DEN 12,10.0,7.0,Justin Herbert sacked by Baron Browning for -7 yards,4.1,2.61,6.0,2022,94
+2,1:01,,,,,,Timeout #3 by Denver Broncos,,,6.0,2022,94
+2,1:01,3.0,17.0,DEN 19,10.0,7.0,Justin Herbert pass incomplete short middle intended for Austin Ekeler (defended by Baron Browning),2.61,2.18,6.0,2022,94
+2,0:57,4.0,17.0,DEN 19,10.0,10.0,Dustin Hopkins 37 yard field goal good,2.18,3.0,6.0,2022,94
+2,0:53,,,LAC 35,10.0,10.0,"JK Scott kicks off 65 yards, touchback.",0.0,0.61,6.0,2022,94
+2,0:53,1.0,10.0,DEN 25,10.0,10.0,Russell Wilson pass incomplete short left intended for Jerry Jeudy,0.61,0.06,6.0,2022,94
+2,0:50,2.0,10.0,DEN 25,10.0,10.0,Russell Wilson pass complete deep right to KJ Hamler for 47 yards (tackle by Derwin James),0.06,3.71,6.0,2022,94
+2,0:27,1.0,10.0,LAC 28,10.0,10.0,Russell Wilson pass complete short left to Jerry Jeudy for 10 yards (tackle by Bryce Callahan),3.71,4.37,6.0,2022,94
+2,0:22,,,,,,Timeout #1 by Los Angeles Chargers,,,6.0,2022,94
+2,0:22,1.0,10.0,LAC 18,10.0,10.0,"Russell Wilson pass incomplete deep right intended for Jerry Jeudy. Penalty on Morgan Fox: Roughing the Passer, 9 yards (accepted) (no play)",4.37,5.14,6.0,2022,94
+2,0:17,1.0,9.0,LAC 9,10.0,10.0,Russell Wilson pass incomplete short right intended for Mike Boone,5.14,4.38,6.0,2022,94
+2,0:12,2.0,9.0,LAC 9,10.0,10.0,Russell Wilson pass incomplete short left intended for Jerry Jeudy,4.38,3.36,6.0,2022,94
+2,0:07,3.0,9.0,LAC 9,10.0,10.0,Russell Wilson pass incomplete short middle intended for Greg Dulcich,3.36,2.83,6.0,2022,94
+2,0:05,4.0,9.0,LAC 9,13.0,10.0,Brandon McManus 27 yard field goal good,2.83,3.0,6.0,2022,94
+3,15:00,,,LAC 35,13.0,10.0,"JK Scott kicks off 65 yards, touchback.",0.0,0.61,6.0,2022,94
+3,15:00,1.0,10.0,DEN 25,13.0,10.0,Latavius Murray left tackle for 8 yards (tackle by Sebastian Joseph-Day and Kyle Van Noy),0.61,1.14,6.0,2022,94
+3,14:21,2.0,2.0,DEN 33,13.0,10.0,Latavius Murray left tackle for no gain (tackle by Kenneth Murray),1.14,0.43,6.0,2022,94
+3,13:45,3.0,2.0,DEN 33,13.0,10.0,Russell Wilson pass incomplete short right,0.43,-1.18,6.0,2022,94
+3,13:39,4.0,2.0,DEN 33,13.0,10.0,"Corliss Waitman punts 58 yards, returned by DeAndre Carter for 19 yards (tackle by Mitchell Fraboni)",-1.18,-0.81,6.0,2022,94
+3,13:27,1.0,10.0,LAC 28,13.0,10.0,Austin Ekeler up the middle for 11 yards (tackle by Damarri Mathis),0.81,1.53,6.0,2022,94
+3,12:50,1.0,10.0,LAC 39,13.0,10.0,Justin Herbert pass complete short left to Josh Palmer for 5 yards (tackle by Jonas Griffith),1.53,1.66,6.0,2022,94
+3,12:14,2.0,5.0,LAC 44,13.0,10.0,"Austin Ekeler right tackle for no gain. Penalty on Tre' McKitty: Offensive Holding, 10 yards (accepted) (no play)",1.66,0.31,6.0,2022,94
+3,11:54,2.0,15.0,LAC 34,13.0,10.0,Justin Herbert pass complete short right to Josh Palmer for 14 yards (tackle by K'Waun Williams and Kareem Jackson),0.31,1.49,6.0,2022,94
+3,11:28,3.0,1.0,LAC 48,13.0,10.0,Austin Ekeler right guard for 2 yards (tackle by Justin Simmons and Dre'Mont Jones),1.49,2.26,6.0,2022,94
+3,10:51,1.0,10.0,LAC 50,13.0,10.0,"Justin Herbert pass incomplete deep right intended for Josh Palmer. Penalty on Bradley Chubb: Roughing the Passer, 15 yards (accepted) (no play)",2.26,3.25,6.0,2022,94
+3,10:44,1.0,10.0,DEN 35,13.0,10.0,Justin Herbert pass complete short right to Josh Palmer for 14 yards,3.25,4.17,6.0,2022,94
+3,10:05,1.0,10.0,DEN 21,13.0,10.0,Sony Michel right tackle for 6 yards (tackle by Jonas Griffith),4.17,4.55,6.0,2022,94
+3,9:32,2.0,4.0,DEN 15,13.0,10.0,Sony Michel up the middle for 3 yards (tackle by Nik Bonitto and Mike Purcell),4.55,4.49,6.0,2022,94
+3,9:14,3.0,1.0,DEN 12,13.0,10.0,Justin Herbert pass incomplete short right intended for Josh Palmer (defended by DeShawn Williams),4.49,2.78,6.0,2022,94
+3,9:12,4.0,1.0,DEN 12,13.0,13.0,Dustin Hopkins 31 yard field goal good,2.78,3.0,6.0,2022,94
+3,9:08,,,LAC 35,13.0,13.0,"JK Scott kicks off 65 yards, touchback.",0.0,0.61,6.0,2022,94
+3,9:08,1.0,10.0,DEN 25,13.0,13.0,Russell Wilson pass incomplete deep middle intended for Jerry Jeudy,0.61,0.06,6.0,2022,94
+3,9:03,2.0,10.0,DEN 25,13.0,13.0,Latavius Murray right guard for 5 yards (tackle by Drue Tranquill and Khalil Mack),0.06,0.04,6.0,2022,94
+3,8:21,3.0,5.0,DEN 30,13.0,13.0,Russell Wilson pass complete short left to Courtland Sutton for 5 yards (tackle by Michael Davis),0.04,1.27,6.0,2022,94
+3,7:51,1.0,10.0,DEN 35,13.0,13.0,Latavius Murray left end for 7 yards (tackle by Drue Tranquill),1.27,1.67,6.0,2022,94
+3,7:30,2.0,3.0,DEN 42,13.0,13.0,Latavius Murray left tackle for 4 yards (tackle by Drue Tranquill and Chris Rumph),1.67,1.99,6.0,2022,94
+3,6:52,1.0,10.0,DEN 46,13.0,13.0,Latavius Murray up the middle for 1 yard (tackle by Sebastian Joseph-Day),1.99,1.59,6.0,2022,94
+3,6:09,2.0,9.0,DEN 47,13.0,13.0,Russell Wilson pass incomplete deep left,1.59,0.89,6.0,2022,94
+3,6:02,3.0,9.0,DEN 47,13.0,13.0,Russell Wilson sacked by Derwin James for -11 yards,0.89,-0.98,6.0,2022,94
+3,5:19,4.0,20.0,DEN 36,13.0,13.0,"Corliss Waitman punts 43 yards, returned by DeAndre Carter for 9 yards (tackle by Tyrie Cleveland)",-0.98,-0.94,6.0,2022,94
+3,5:13,1.0,10.0,LAC 30,13.0,13.0,Justin Herbert pass incomplete short right intended for Austin Ekeler,0.94,0.39,6.0,2022,94
+3,5:10,2.0,10.0,LAC 30,13.0,13.0,Justin Herbert pass complete short right to Sony Michel for 5 yards (tackle by Alex Singleton),0.39,0.37,6.0,2022,94
+3,4:29,3.0,5.0,LAC 35,13.0,13.0,"Penalty on Baron Browning: Neutral Zone Infraction, 4 yards (accepted) (no play)",0.37,0.89,6.0,2022,94
+3,4:19,3.0,1.0,LAC 39,13.0,13.0,Sony Michel right tackle for 2 yards (tackle by Mike Purcell),0.89,1.66,6.0,2022,94
+3,3:38,1.0,10.0,LAC 41,13.0,13.0,Justin Herbert pass complete left to Donald Parham for 12 yards (tackle by K'Waun Williams),1.66,2.46,6.0,2022,94
+3,2:56,1.0,10.0,DEN 47,13.0,13.0,Austin Ekeler right end for 3 yards (tackle by Jonathon Cooper and Jonas Griffith),2.46,2.32,6.0,2022,94
+3,2:18,2.0,7.0,DEN 44,13.0,13.0,Justin Herbert pass incomplete short right intended for Austin Ekeler (defended by Justin Simmons),2.32,1.62,6.0,2022,94
+3,2:13,3.0,7.0,DEN 44,13.0,13.0,Justin Herbert pass complete short middle to DeAndre Carter for 7 yards (tackle by K'Waun Williams),1.62,3.12,6.0,2022,94
+3,1:27,1.0,10.0,DEN 37,13.0,13.0,Justin Herbert pass complete short left to Josh Palmer for 2 yards (tackle by Alex Singleton),3.12,2.84,6.0,2022,94
+3,0:51,2.0,8.0,DEN 35,13.0,13.0,Justin Herbert pass incomplete deep right intended for Austin Ekeler,2.84,2.15,6.0,2022,94
+3,0:44,3.0,8.0,DEN 35,13.0,13.0,Justin Herbert pass complete short right to Sony Michel for 6 yards (tackle by Justin Simmons and Jonas Griffith),2.15,1.6,6.0,2022,94
+4,15:00,4.0,2.0,DEN 29,13.0,13.0,Justin Herbert pass incomplete short left intended for DeAndre Carter (defended by Damarri Mathis),1.6,-0.87,6.0,2022,94
+4,14:55,1.0,10.0,DEN 29,13.0,13.0,Latavius Murray up the middle for 4 yards (tackle by Derwin James),0.87,0.87,6.0,2022,94
+4,14:26,2.0,6.0,DEN 33,13.0,13.0,Russell Wilson pass complete short right to Jerry Jeudy for 7 yards (tackle by Asante Samuel),0.87,1.6,6.0,2022,94
+4,13:43,1.0,10.0,DEN 40,13.0,13.0,Russell Wilson pass incomplete short right intended for Courtland Sutton (defended by Michael Davis),1.6,1.05,6.0,2022,94
+4,13:40,2.0,10.0,DEN 40,13.0,13.0,Russell Wilson scrambles left end for 9 yards (tackle by Bryce Callahan),1.05,1.55,6.0,2022,94
+4,12:57,3.0,1.0,DEN 49,13.0,13.0,Russell Wilson left end for 10 yards (tackle by Derwin James),1.55,2.85,6.0,2022,94
+4,12:17,1.0,10.0,LAC 41,13.0,13.0,Latavius Murray left tackle for -1 yards (tackle by Austin Johnson),2.85,2.17,6.0,2022,94
+4,11:37,2.0,11.0,LAC 42,13.0,13.0,Russell Wilson left end for 3 yards (tackle by Derrek Tuszka),2.17,1.88,6.0,2022,94
+4,10:58,3.0,8.0,LAC 39,13.0,13.0,Russell Wilson pass incomplete short left intended for Mike Boone,1.88,0.66,6.0,2022,94
+4,10:49,4.0,8.0,LAC 39,13.0,13.0,"Corliss Waitman punts 22 yards, fair catch by DeAndre Carter at LAC-17",0.66,0.06,6.0,2022,94
+4,10:41,1.0,10.0,LAC 17,13.0,13.0,"Justin Herbert pass short middle intended for Gerald Everett is intercepted by Baron Browning at LAC-24 and returned for -6 yards. Baron Browning fumbles (forced by Josh Palmer), recovered by Baron Browning at LAC-30",-0.06,-3.58,6.0,2022,94
+4,10:28,1.0,10.0,LAC 30,13.0,13.0,Mike Boone up the middle for 1 yard (tackle by Austin Johnson and Sebastian Joseph-Day),3.58,3.17,6.0,2022,94
+4,9:46,2.0,9.0,LAC 29,13.0,13.0,Russell Wilson pass complete short left to Mike Boone for 3 yards (tackle by Kenneth Murray),3.17,2.87,6.0,2022,94
+4,9:03,3.0,6.0,LAC 26,13.0,13.0,Russell Wilson sacked by Drue Tranquill for -4 yards,2.87,1.41,6.0,2022,94
+4,8:26,4.0,10.0,LAC 30,16.0,13.0,Brandon McManus 48 yard field goal good,1.41,3.0,6.0,2022,94
+4,8:21,,,DEN 35,16.0,13.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,6.0,2022,94
+4,8:21,1.0,10.0,LAC 25,16.0,13.0,"Austin Ekeler right guard for 2 yards (tackle by Dre'Mont Jones and D.J. Jones). Penalty on Dre'Mont Jones: Face Mask (15 Yards), 15 yards (accepted)",0.61,1.73,6.0,2022,94
+4,8:01,1.0,10.0,LAC 42,16.0,13.0,Justin Herbert pass complete short right to Gerald Everett for 9 yards (tackle by Justin Simmons),1.73,2.4,6.0,2022,94
+4,7:25,2.0,1.0,DEN 49,16.0,13.0,Austin Ekeler left tackle for no gain (tackle by DeShawn Williams),2.4,1.69,6.0,2022,94
+4,6:42,3.0,1.0,DEN 49,16.0,13.0,Sony Michel left end for 7 yards (tackle by Alex Singleton),1.69,2.79,6.0,2022,94
+4,6:28,1.0,10.0,DEN 42,16.0,13.0,"Penalty on Mike Purcell: Unnecessary Roughness / Defense, 15 yards (accepted)",2.79,3.78,6.0,2022,94
+4,6:24,1.0,10.0,DEN 27,16.0,13.0,Justin Herbert pass complete short left to Austin Ekeler for -3 yards (tackle by Alex Singleton),3.78,2.83,6.0,2022,94
+4,5:46,2.0,13.0,DEN 30,16.0,13.0,Justin Herbert scrambles right end for 5 yards (tackle by Jonas Griffith),2.83,2.81,6.0,2022,94
+4,5:06,3.0,8.0,DEN 25,16.0,13.0,"Justin Herbert pass incomplete short right intended for Josh Palmer. Penalty on Damarri Mathis: Defensive Pass Interference, 10 yards (accepted) (no play)",2.81,4.58,6.0,2022,94
+4,4:59,1.0,10.0,DEN 15,16.0,13.0,"Austin Ekeler up the middle for no gain. Penalty on Brenden Jaimes: Offensive Holding, 10 yards (accepted) (no play)",4.58,3.91,6.0,2022,94
+4,4:54,1.0,20.0,DEN 25,16.0,13.0,Justin Herbert pass complete short middle to Austin Ekeler for 8 yards (tackle by Alex Singleton and Kareem Jackson),3.91,3.68,6.0,2022,94
+4,4:11,2.0,12.0,DEN 17,16.0,13.0,Justin Herbert pass incomplete short left intended for Austin Ekeler,3.68,2.98,6.0,2022,94
+4,4:06,3.0,12.0,DEN 17,16.0,13.0,Justin Herbert pass incomplete deep left intended for Mike Williams,2.98,2.31,6.0,2022,94
+4,4:02,4.0,12.0,DEN 17,16.0,16.0,Dustin Hopkins 35 yard field goal good,2.31,3.0,6.0,2022,94
+4,3:58,,,LAC 35,16.0,16.0,"JK Scott kicks off 65 yards, touchback.",0.0,0.61,6.0,2022,94
+4,3:58,1.0,10.0,DEN 25,16.0,16.0,Latavius Murray left guard for 14 yards (tackle by Michael Davis and Derwin James),0.61,1.53,6.0,2022,94
+4,3:24,1.0,10.0,DEN 39,16.0,16.0,Latavius Murray up the middle for 4 yards (tackle by Drue Tranquill and Jerry Tillery),1.53,1.53,6.0,2022,94
+4,2:40,2.0,6.0,DEN 43,16.0,16.0,Russell Wilson pass incomplete short left,1.53,0.83,6.0,2022,94
+4,2:31,,,,,,Timeout #1 by Denver Broncos,,,6.0,2022,94
+4,2:31,3.0,6.0,DEN 43,16.0,16.0,Russell Wilson sacked by Drue Tranquill for -9 yards,0.83,-1.11,6.0,2022,94
+4,2:01,4.0,15.0,DEN 34,16.0,16.0,Corliss Waitman punts 41 yards downed by Mitchell Fraboni,-1.11,-0.61,6.0,2022,94
+4,1:51,1.0,10.0,LAC 25,16.0,16.0,Justin Herbert pass complete short middle to Austin Ekeler for no gain (tackle by Jonas Griffith),0.61,0.06,6.0,2022,94
+4,1:27,2.0,10.0,LAC 25,16.0,16.0,Justin Herbert pass complete short left to Austin Ekeler for 5 yards (tackle by Alex Singleton),0.06,0.04,6.0,2022,94
+4,1:03,3.0,5.0,LAC 30,16.0,16.0,Justin Herbert pass complete short middle to Austin Ekeler for 5 yards (tackle by Alex Singleton),0.04,1.27,6.0,2022,94
+4,0:44,1.0,10.0,LAC 35,16.0,16.0,Justin Herbert pass complete short right to Josh Palmer for 5 yards (tackle by Damarri Mathis),1.27,1.4,6.0,2022,94
+4,0:38,,,,,,Timeout #2 by Denver Broncos,,,6.0,2022,94
+4,0:38,2.0,5.0,LAC 40,16.0,16.0,Justin Herbert pass complete short left to Gerald Everett for 4 yards (tackle by Alex Singleton),1.4,1.22,6.0,2022,94
+4,0:33,,,,,,Timeout #3 by Denver Broncos,,,6.0,2022,94
+4,0:33,3.0,1.0,LAC 44,16.0,16.0,Justin Herbert pass complete short left to Zander Horvath for no gain (tackle by Alex Singleton),1.22,-0.46,6.0,2022,94
+4,0:01,,,,,,Timeout #1 by Los Angeles Chargers,,,6.0,2022,94
+4,0:01,4.0,1.0,LAC 44,16.0,16.0,Justin Herbert pass incomplete deep right (defended by Damarri Mathis),-0.46,0.0,6.0,2022,94
+,,,,,,,"Broncos won the coin toss, Broncos to receive the overtime kickoff.",,,6.0,2022,94
+OT,10:00,,,LAC 35,16.0,16.0,"JK Scott kicks off 65 yards, touchback.",0.0,0.61,6.0,2022,94
+OT,10:00,1.0,10.0,DEN 25,16.0,16.0,Latavius Murray left guard for 5 yards (tackle by Austin Johnson and Derwin James),0.61,0.74,6.0,2022,94
+OT,9:25,2.0,5.0,DEN 30,16.0,16.0,Latavius Murray up the middle for 4 yards (tackle by Otito Ogbonnia),0.74,0.56,6.0,2022,94
+OT,8:38,3.0,1.0,DEN 34,16.0,16.0,Russell Wilson pass incomplete deep middle intended for KJ Hamler,0.56,-1.11,6.0,2022,94
+OT,8:32,,,,,,Timeout #1 by Los Angeles Chargers,,,6.0,2022,94
+OT,8:32,4.0,1.0,DEN 34,16.0,16.0,"Corliss Waitman punts 58 yards, returned by DeAndre Carter for 11 yards (tackle by Aaron Patrick)",-1.11,-0.15,6.0,2022,94
+OT,8:22,1.0,10.0,LAC 19,16.0,16.0,"Austin Ekeler for no gain. Penalty on Zion Johnson: Offensive Holding, 9 yards (accepted) (no play)",0.15,-0.72,6.0,2022,94
+OT,8:09,1.0,19.0,LAC 10,16.0,16.0,Justin Herbert pass complete short left to DeAndre Carter for 5 yards (tackle by K'Waun Williams),-0.72,-1.0,6.0,2022,94
+OT,7:30,2.0,14.0,LAC 15,16.0,16.0,Justin Herbert pass incomplete deep left intended for Mike Williams,-1.0,-1.76,6.0,2022,94
+OT,7:24,3.0,14.0,LAC 15,16.0,16.0,Justin Herbert pass incomplete deep right intended for Josh Palmer,-1.76,-2.44,6.0,2022,94
+OT,7:19,4.0,14.0,LAC 15,16.0,16.0,"JK Scott punts 54 yards, fair catch by Montrell Washington at DEN-31",-2.44,-1.0,6.0,2022,94
+OT,7:10,1.0,10.0,DEN 31,16.0,16.0,Latavius Murray right guard for 2 yards (tackle by Austin Johnson),1.0,0.73,6.0,2022,94
+OT,6:31,2.0,8.0,DEN 33,16.0,16.0,Latavius Murray up the middle for 1 yard (tackle by Khalil Mack),0.73,0.17,6.0,2022,94
+OT,5:51,3.0,7.0,DEN 34,16.0,16.0,Russell Wilson pass incomplete deep left intended for Jerry Jeudy (defended by Asante Samuel),0.17,-1.11,6.0,2022,94
+OT,5:44,4.0,7.0,DEN 34,16.0,16.0,"Corliss Waitman punts 47 yards, fair catch by DeAndre Carter at LAC-19",-1.11,-0.15,6.0,2022,94
+OT,5:36,1.0,10.0,LAC 19,16.0,16.0,Justin Herbert pass incomplete short middle intended for Austin Ekeler (defended by Alex Singleton),0.15,-0.39,6.0,2022,94
+OT,5:32,2.0,10.0,LAC 19,16.0,16.0,Justin Herbert pass incomplete short middle intended for Gerald Everett (defended by Kareem Jackson),-0.39,-1.07,6.0,2022,94
+OT,5:28,3.0,10.0,LAC 19,16.0,16.0,"Penalty on Jamaree Salyer: False Start, 5 yards (accepted) (no play)",-1.07,-1.92,6.0,2022,94
+OT,5:28,3.0,15.0,LAC 14,16.0,16.0,Justin Herbert pass complete short middle to Austin Ekeler for 6 yards (tackle by Jonas Griffith),-1.92,-2.03,6.0,2022,94
+OT,4:55,4.0,9.0,LAC 20,16.0,16.0,"JK Scott punts 52 yards, recovered by Deane Leonard at DEN-28",-2.03,3.71,6.0,2022,94
+OT,4:46,1.0,10.0,DEN 28,16.0,16.0,Austin Ekeler left end for -1 yards (tackle by Alex Singleton),3.71,3.03,6.0,2022,94
+OT,4:04,2.0,11.0,DEN 29,16.0,16.0,Austin Ekeler left end for -1 yards (tackle by Kareem Jackson and Alex Singleton),3.03,2.21,6.0,2022,94
+OT,3:24,3.0,12.0,DEN 30,16.0,16.0,Justin Herbert pass complete short left to Mike Williams for 9 yards (tackle by Justin Simmons),2.21,2.16,6.0,2022,94
+OT,2:43,,,,,,Timeout #1 by Denver Broncos,,,6.0,2022,94
+OT,2:43,4.0,3.0,DEN 21,16.0,19.0,Dustin Hopkins 39 yard field goal good,2.16,3.0,6.0,2022,94

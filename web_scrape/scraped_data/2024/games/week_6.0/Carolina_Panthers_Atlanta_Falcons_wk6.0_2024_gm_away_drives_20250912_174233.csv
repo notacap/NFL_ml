@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,13:14,ATL 21,3,0:45,6,Punt,0,Falcons,6.0,2024,89
+2,1,5:56,ATL 30,12,5:18,70,Touchdown,0,Falcons,6.0,2024,89
+3,2,14:05,ATL 17,6,1:56,26,Fumble,0,Falcons,6.0,2024,89
+4,2,8:48,ATL 24,5,2:45,76,Touchdown,0,Falcons,6.0,2024,89
+5,2,2:59,CAR 27,5,1:17,27,Touchdown,0,Falcons,6.0,2024,89
+6,2,0:07,ATL 30,1,0:07,-1,End of Half,0,Falcons,6.0,2024,89
+7,3,15:00,ATL 30,11,4:56,67,Field Goal,0,Falcons,6.0,2024,89
+8,3,4:51,ATL 30,10,4:44,57,Field Goal,0,Falcons,6.0,2024,89
+9,4,10:47,ATL 16,9,5:09,84,Touchdown,0,Falcons,6.0,2024,89
+10,4,4:09,CAR 36,6,1:58,19,Field Goal,0,Falcons,6.0,2024,89
+11,4,1:45,CAR 6,3,1:45,-4,End of Game,0,Falcons,6.0,2024,89

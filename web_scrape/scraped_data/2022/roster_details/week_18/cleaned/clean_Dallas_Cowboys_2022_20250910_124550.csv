@@ -1,0 +1,74 @@
+Player,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Team,Draft Team,Draft Round,Draft Pick,Draft Year
+Mackensie Alexander,29.0,LB,1,1.0,192.0,70,Clemson,11/12/1993,6,0.0,Dallas Cowboys,Minnesota Vikings,2.0,54.0,2016.0
+Bryan Anger,34.0,P,17,0.0,202.0,75,California,10/6/1988,10,3.0,Dallas Cowboys,Jacksonville Jaguars,3.0,70.0,2012.0
+Dorance Armstrong Jr.,25.0,RDE,17,5.0,255.0,76,Kansas,6/10/1997,4,5.0,Dallas Cowboys,Dallas Cowboys,4.0,116.0,2018.0
+Josh Ball,24.0,T,13,0.0,304.0,80,"Marshall,Butler (KS),Florida St.",5/15/1998,1,1.0,Dallas Cowboys,Dallas Cowboys,4.0,138.0,2021.0
+Anthony Barr,30.0,RLB,14,10.0,257.0,77,UCLA,3/18/1992,8,6.0,Dallas Cowboys,Minnesota Vikings,1.0,9.0,2014.0
+Tarell Basham,28.0,DE,2,0.0,266.0,76,Ohio,3/18/1994,5,0.0,Dallas Cowboys,Indianapolis Colts,3.0,80.0,2017.0
+Markquese Bell,23.0,S,5,0.0,205.0,75,Florida A&M,1/6/1999,0,0.0,Dallas Cowboys,,,,
+Tyler Biadasz,25.0,C,16,16.0,318.0,76,Wisconsin,11/20/1997,2,9.0,Dallas Cowboys,Dallas Cowboys,4.0,146.0,2020.0
+DaRon Bland,23.0,DB,17,8.0,197.0,72,"Sacramento St.,Fresno St.",7/12/1999,0,4.0,Dallas Cowboys,Dallas Cowboys,5.0,167.0,2022.0
+Quinton Bohanna,23.0,RDT,13,9.0,355.0,76,Kentucky,3/16/1999,1,4.0,Dallas Cowboys,Dallas Cowboys,6.0,192.0,2021.0
+Anthony Brown,29.0,LCB,12,12.0,192.0,71,Purdue,12/15/1993,6,4.0,Dallas Cowboys,Dallas Cowboys,6.0,189.0,2016.0
+Noah Brown,26.0,WR,16,13.0,225.0,74,Ohio St.,1/6/1996,5,6.0,Dallas Cowboys,Dallas Cowboys,7.0,239.0,2017.0
+Damone Clark,22.0,LB,10,5.0,240.0,75,LSU,6/28/2000,0,3.0,Dallas Cowboys,Dallas Cowboys,5.0,176.0,2022.0
+Aviante Collins,28.0,T,2,0.0,292.0,76,TCU,5/13/1994,5,0.0,Dallas Cowboys,,,,
+Jabril Cox,24.0,LB,9,0.0,233.0,75,"North Dakota St.,LSU",4/16/1998,1,1.0,Dallas Cowboys,Dallas Cowboys,4.0,115.0,2021.0
+Tyler Coyle,24.0,S,1,0.0,210.0,73,Purdue,11/15/1998,1,0.0,Dallas Cowboys,,,,
+Malik Davis,24.0,RB,12,0.0,202.0,71,Florida,11/26/1998,0,2.0,Dallas Cowboys,,,,
+Trevon Diggs,24.0,RCB,17,17.0,195.0,74,Alabama,9/20/1998,2,9.0,Dallas Cowboys,Dallas Cowboys,2.0,51.0,2020.0
+Rico Dowdle,24.0,RB,5,0.0,215.0,71,South Carolina,6/14/1998,2,0.0,Dallas Cowboys,,,,
+Ezekiel Elliott,27.0,RB,15,14.0,228.0,72,Ohio St.,7/22/1995,6,6.0,Dallas Cowboys,Dallas Cowboys,1.0,4.0,2016.0
+Matt Farniok,25.0,G,7,2.0,315.0,77,Nebraska,9/26/1997,1,1.0,Dallas Cowboys,Dallas Cowboys,7.0,238.0,2021.0
+Simi Fehoko,25.0,WR,5,0.0,225.0,76,Stanford,11/5/1997,1,0.0,Dallas Cowboys,Dallas Cowboys,5.0,179.0,2021.0
+Jake Ferguson,23.0,TE,16,8.0,244.0,77,Wisconsin,1/18/1999,0,2.0,Dallas Cowboys,Dallas Cowboys,4.0,129.0,2022.0
+Dante Fowler,28.0,DE,17,0.0,261.0,75,Florida,8/3/1994,6,2.0,Dallas Cowboys,Jacksonville Jaguars,1.0,3.0,2015.0
+Neville Gallimore,25.0,DT,16,1.0,307.0,74,Oklahoma,1/17/1997,2,2.0,Dallas Cowboys,Dallas Cowboys,3.0,82.0,2020.0
+Michael Gallup,26.0,WR,14,11.0,205.0,73,Colorado St.,3/4/1996,4,4.0,Dallas Cowboys,Dallas Cowboys,3.0,81.0,2018.0
+Luke Gifford,27.0,LB,16,0.0,243.0,75,Nebraska,8/28/1995,3,2.0,Dallas Cowboys,,,,
+Chauncey Golston,24.0,LB,15,0.0,277.0,77,Iowa,2/10/1998,1,1.0,Dallas Cowboys,Dallas Cowboys,3.0,84.0,2021.0
+C.J. Goodwin,32.0,CB,17,0.0,190.0,75,California (PA),2/4/1990,6,1.0,Dallas Cowboys,,,,
+Johnathan Hankins,30.0,DT,5,3.0,335.0,75,Ohio St.,3/30/1992,9,2.0,Dallas Cowboys,New York Giants,2.0,49.0,2013.0
+Devin Harper,24.0,LB,3,0.0,234.0,72,Oklahoma St.,5/13/1998,0,0.0,Dallas Cowboys,Dallas Cowboys,6.0,193.0,2022.0
+Peyton Hendershot,23.0,TE,17,2.0,254.0,76,Indiana,4/23/1999,0,1.0,Dallas Cowboys,,,,
+Trysten Hill,24.0,DT,7,0.0,310.0,75,Central Florida,3/25/1998,3,1.0,Dallas Cowboys,Dallas Cowboys,2.0,58.0,2019.0
+T.Y. Hilton,33.0,WR,3,0.0,183.0,70,Florida International,11/14/1989,10,1.0,Dallas Cowboys,Indianapolis Colts,3.0,92.0,2012.0
+Brock Hoffman,23.0,C,3,0.0,302.0,76,"Coastal Carolina,Virginia Tech",7/2/1999,0,0.0,Dallas Cowboys,,,,
+Malik Hooker,26.0,SS,16,6.0,212.0,74,Ohio St.,4/2/1996,5,3.0,Dallas Cowboys,Indianapolis Colts,1.0,15.0,2017.0
+Dennis Houston,23.0,WR,2,0.0,190.0,73,Western Illinois,4/24/1999,0,0.0,Dallas Cowboys,,,,
+Kelvin Joseph,23.0,CB,16,1.0,195.0,73,"LSU,Kentucky",11/11/1999,1,1.0,Dallas Cowboys,Dallas Cowboys,2.0,44.0,2021.0
+Jayron Kearse,28.0,SS,14,14.0,215.0,76,Clemson,2/11/1994,6,5.0,Dallas Cowboys,Minnesota Vikings,7.0,244.0,2016.0
+CeeDee Lamb,23.0,WR,17,17.0,200.0,74,Oklahoma,4/8/1999,2,14.0,Dallas Cowboys,Dallas Cowboys,1.0,17.0,2020.0
+DeMarcus Lawrence,30.0,LDE,17,17.0,254.0,75,"Butler (KS),Boise St.",4/28/1992,8,13.0,Dallas Cowboys,Dallas Cowboys,2.0,34.0,2014.0
+Jourdan Lewis,27.0,CB,6,4.0,190.0,70,Michigan,8/31/1995,5,2.0,Dallas Cowboys,Dallas Cowboys,3.0,92.0,2017.0
+Brett Maher,33.0,K,17,0.0,180.0,72,Nebraska,11/21/1989,4,4.0,Dallas Cowboys,,,,
+Zack Martin,32.0,RG,17,17.0,315.0,76,Notre Dame,11/20/1990,8,14.0,Dallas Cowboys,Dallas Cowboys,1.0,16.0,2014.0
+Connor McGovern,25.0,LG,15,15.0,318.0,77,Penn St.,11/3/1997,2,7.0,Dallas Cowboys,Dallas Cowboys,3.0,90.0,2019.0
+Sean McKeon,25.0,TE,13,0.0,255.0,77,Michigan,12/28/1997,2,0.0,Dallas Cowboys,,,,
+Jake McQuaide,35.0,LS,4,0.0,247.0,74,Ohio St.,12/7/1987,11,0.0,Dallas Cowboys,,,,
+Israel Mukuamu,23.0,S,15,3.0,205.0,76,South Carolina,11/28/1999,1,2.0,Dallas Cowboys,Dallas Cowboys,6.0,227.0,2021.0
+Trayvon Mullen,25.0,CB,1,0.0,194.0,74,Clemson,9/20/1997,3,0.0,Dallas Cowboys,Oakland Raiders,2.0,40.0,2019.0
+Osa Odighizuwa,24.0,LDT,17,17.0,280.0,74,UCLA,8/13/1998,1,8.0,Dallas Cowboys,Dallas Cowboys,3.0,75.0,2021.0
+Qadree Ollison,26.0,RB,3,0.0,232.0,73,Pittsburgh,9/8/1996,3,0.0,Dallas Cowboys,Atlanta Falcons,5.0,152.0,2019.0
+Matt Overton,37.0,LS,13,0.0,254.0,73,Western Washington,7/6/1985,10,1.0,Dallas Cowboys,,,,
+Micah Parsons,23.0,LLB,17,17.0,245.0,75,Penn St.,5/26/1999,1,19.0,Dallas Cowboys,Dallas Cowboys,1.0,12.0,2021.0
+Jason Peters,40.0,T,12,1.0,328.0,76,Arkansas,1/22/1982,18,1.0,Dallas Cowboys,,,,
+Tony Pollard,25.0,RB,16,4.0,209.0,72,Memphis,4/30/1997,3,11.0,Dallas Cowboys,Dallas Cowboys,4.0,128.0,2019.0
+Dak Prescott,29.0,QB,12,12.0,238.0,74,Mississippi St.,7/29/1993,6,11.0,Dallas Cowboys,Dallas Cowboys,4.0,135.0,2016.0
+Xavier Rhodes,32.0,CB,0,0.0,218.0,73,Florida St.,6/19/1990,9,0.0,Dallas Cowboys,Minnesota Vikings,1.0,25.0,2013.0
+Cooper Rush,29.0,QB,9,5.0,225.0,75,Central Michigan,11/21/1993,5,4.0,Dallas Cowboys,,,,
+Dalton Schultz,26.0,TE,15,15.0,242.0,77,Stanford,7/11/1996,4,6.0,Dallas Cowboys,Dallas Cowboys,4.0,137.0,2018.0
+Dakoda Shepley,28.0,T,4,0.0,290.0,77,British Columbia,12/27/1994,2,0.0,Dallas Cowboys,,,,
+Tyler Smith,21.0,LT,17,17.0,332.0,78,Tulsa,4/3/2001,0,8.0,Dallas Cowboys,Dallas Cowboys,1.0,24.0,2022.0
+Tyron Smith,32.0,T,4,4.0,320.0,77,USC,12/12/1990,11,2.0,Dallas Cowboys,Dallas Cowboys,1.0,9.0,2011.0
+Terence Steele,25.0,RT,13,13.0,310.0,78,Texas Tech,6/4/1997,2,7.0,Dallas Cowboys,,,,
+Alex Taylor-Prioleau,25.0,T,1,0.0,301.0,80,"Appalachian St.,South Carolina St.",4/29/1997,2,0.0,Dallas Cowboys,,,,
+Jalen Tolbert,23.0,WR,8,1.0,195.0,73,South Alabama,2/27/1999,0,0.0,Dallas Cowboys,Dallas Cowboys,3.0,88.0,2022.0
+KaVontae Turpin,26.0,WR,17,0.0,153.0,69,TCU,8/2/1996,1,0.0,Dallas Cowboys,,,,
+Leighton Vander Esch,25.0,MLB,14,14.0,256.0,76,Boise St.,2/9/1997,4,7.0,Dallas Cowboys,Dallas Cowboys,1.0,19.0,2018.0
+Matt Waletzko,23.0,T,3,0.0,305.0,78,North Dakota,12/15/1999,0,0.0,Dallas Cowboys,Dallas Cowboys,5.0,155.0,2022.0
+James Washington,26.0,WR,2,0.0,213.0,71,Oklahoma St.,4/2/1996,4,0.0,Dallas Cowboys,Pittsburgh Steelers,2.0,60.0,2018.0
+Carlos Watkins,29.0,DE,12,4.0,305.0,75,Clemson,12/5/1993,5,2.0,Dallas Cowboys,Houston Texans,4.0,142.0,2017.0
+Sam Williams,23.0,DE,15,0.0,261.0,76,"Northeast Mississippi CC,Mississippi",3/31/1999,0,2.0,Dallas Cowboys,Dallas Cowboys,2.0,56.0,2022.0
+Donovan Wilson,27.0,FS,17,17.0,204.0,72,Texas A&M,2/21/1995,3,6.0,Dallas Cowboys,Dallas Cowboys,6.0,213.0,2019.0
+Nahshon Wright,24.0,CB,7,2.0,199.0,76,"Laney,Oregon St.",9/23/1998,1,1.0,Dallas Cowboys,Dallas Cowboys,3.0,99.0,2021.0

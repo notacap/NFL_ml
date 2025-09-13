@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,11:45,LVR 3,4,2:42,20,Punt,1,Raiders,16.0,2024,237
+2,1,7:06,LVR 14,4,3:02,2,Punt,1,Raiders,16.0,2024,237
+3,1,1:32,LVR 30,6,2:27,70,Touchdown,1,Raiders,16.0,2024,237
+4,2,12:39,LVR 36,6,2:11,33,Field Goal,1,Raiders,16.0,2024,237
+5,2,9:01,LVR 37,10,5:05,44,Field Goal,1,Raiders,16.0,2024,237
+6,2,3:50,JAX 45,3,1:04,4,Punt,1,Raiders,16.0,2024,237
+7,2,0:09,LVR 33,1,0:09,-1,End of Half,1,Raiders,16.0,2024,237
+8,3,15:00,LVR 30,3,1:03,5,Punt,1,Raiders,16.0,2024,237
+9,3,8:38,LVR 20,6,3:29,11,Punt,1,Raiders,16.0,2024,237
+10,3,3:28,JAX 33,4,1:10,5,Missed FG,1,Raiders,16.0,2024,237
+11,3,0:54,LVR 30,10,4:28,70,Touchdown,1,Raiders,16.0,2024,237
+12,4,9:20,LVR 20,10,6:36,32,Punt,1,Raiders,16.0,2024,237
+13,4,0:52,JAX 46,3,0:52,-5,End of Game,1,Raiders,16.0,2024,237

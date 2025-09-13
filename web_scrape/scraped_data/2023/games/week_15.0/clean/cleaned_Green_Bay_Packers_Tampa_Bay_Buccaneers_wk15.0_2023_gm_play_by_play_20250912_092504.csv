@@ -1,0 +1,161 @@
+Quarter,Time,Down,ToGo,Location,TAM,GNB,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Packers won the coin toss and deferred, Buccaneers to receive the opening kickoff.",,,15.0,2023,215
+1.0,15:00,,,GNB 35,0.0,0.0,"Anders Carlson kicks off 58 yards,",0.0,0.61,15.0,2023,215
+1.0,15:00,1.0,10.0,TAM 25,0.0,0.0,Baker Mayfield pass complete short right to Chris Godwin for 11 yards (tackle by Carrington Valentine),0.61,1.33,15.0,2023,215
+1.0,14:28,1.0,10.0,TAM 36,0.0,0.0,Rachaad White left guard for 3 yards (tackle by Jonathan Owens),1.33,1.2,15.0,2023,215
+1.0,13:52,2.0,7.0,TAM 39,0.0,0.0,Baker Mayfield pass complete short middle to Rachaad White for 24 yards (tackle by Quay Walker and Jonathan Owens),1.2,3.12,15.0,2023,215
+1.0,13:16,1.0,10.0,GNB 37,0.0,0.0,Rachaad White up the middle for 1 yard (tackle by Tedarrell Slaton),3.12,2.71,15.0,2023,215
+1.0,12:31,2.0,9.0,GNB 36,0.0,0.0,Rachaad White left tackle for 5 yards (tackle by Tedarrell Slaton),2.71,2.68,15.0,2023,215
+1.0,11:51,3.0,4.0,GNB 31,0.0,0.0,Baker Mayfield pass complete short middle to Chris Godwin for 12 yards (tackle by Rudy Ford and Keisean Nixon),2.68,4.31,15.0,2023,215
+1.0,11:11,1.0,10.0,GNB 19,0.0,0.0,Deven Thompkins left end for -1 yards (tackle by Eric Stokes and Rudy Ford),4.31,3.63,15.0,2023,215
+1.0,10:27,2.0,11.0,GNB 20,0.0,0.0,Rachaad White up the middle for 5 yards (tackle by Preston Smith and Tedarrell Slaton),3.63,3.58,15.0,2023,215
+1.0,9:48,3.0,6.0,GNB 15,0.0,0.0,Baker Mayfield sacked by Kenny Clark for -6 yards,3.58,2.06,15.0,2023,215
+1.0,9:06,4.0,12.0,GNB 21,3.0,0.0,Chase McLaughlin 39 yard field goal good,2.06,3.0,15.0,2023,215
+1.0,9:02,,,TAM 35,3.0,0.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,215
+1.0,9:02,1.0,10.0,GNB 25,3.0,0.0,Jordan Love pass complete short right to Romeo Doubs for 7 yards (tackle by Zyon McCollum),0.61,1.01,15.0,2023,215
+1.0,8:25,2.0,3.0,GNB 32,3.0,0.0,Aaron Jones right end for 20 yards (tackle by Lavonte David and Kaevon Merriweather),1.01,2.39,15.0,2023,215
+1.0,7:42,1.0,10.0,TAM 48,3.0,0.0,Aaron Jones up the middle for 5 yards (tackle by Vita Vea and Antoine Winfield),2.39,2.52,15.0,2023,215
+1.0,7:10,2.0,5.0,TAM 43,3.0,0.0,Aaron Jones right tackle for -1 yards (tackle by K.J. Britt),2.52,1.69,15.0,2023,215
+1.0,6:31,3.0,6.0,TAM 44,3.0,0.0,Jordan Love pass complete deep left to Jayden Reed for 20 yards (tackle by Christian Izien),1.69,3.97,15.0,2023,215
+1.0,5:49,1.0,10.0,TAM 24,3.0,0.0,Aaron Jones right guard for 5 yards (tackle by Christian Izien),3.97,4.12,15.0,2023,215
+1.0,5:13,2.0,5.0,TAM 19,3.0,0.0,Aaron Jones left guard for 7 yards (tackle by Kaevon Merriweather),4.12,4.78,15.0,2023,215
+1.0,4:33,1.0,10.0,TAM 12,3.0,0.0,Aaron Jones right tackle for 7 yards (tackle by Antoine Winfield),4.78,5.41,15.0,2023,215
+1.0,3:50,2.0,3.0,TAM 5,3.0,0.0,Aaron Jones up the middle for 2 yards (tackle by Lavonte David),5.41,5.06,15.0,2023,215
+1.0,3:11,3.0,1.0,TAM 3,3.0,0.0,Aaron Jones up the middle for -1 yards (tackle by Christian Izien and Anthony Nelson),5.06,3.04,15.0,2023,215
+1.0,2:29,4.0,2.0,TAM 4,3.0,0.0,Jordan Love pass incomplete short left intended for Jayden Reed,3.04,0.38,15.0,2023,215
+1.0,2:25,1.0,10.0,TAM 4,3.0,0.0,Rachaad White right guard for 5 yards (tackle by Lukas Van Ness),-0.38,-0.42,15.0,2023,215
+1.0,1:49,2.0,5.0,TAM 9,3.0,0.0,"Baker Mayfield sacked by Kingsley Enagbare for -5 yards. Baker Mayfield fumbles (forced by Kingsley Enagbare), recovered by Kingsley Enagbare at TB-4",-0.42,-6.28,15.0,2023,215
+1.0,1:41,1.0,4.0,TAM 4,3.0,0.0,Aaron Jones right guard for -1 yards (tackle by Lavonte David),6.28,5.15,15.0,2023,215
+1.0,0:54,2.0,5.0,TAM 5,3.0,6.0,"Jordan Love pass complete short left to Tucker Kraft for 5 yards, touchdown",5.15,7.0,15.0,2023,215
+1.0,0:49,,,TAM 15,3.0,7.0,Anders Carlson kicks extra point good,0.0,0.0,15.0,2023,215
+1.0,0:49,,,GNB 35,3.0,7.0,"Anders Carlson kicks off 62 yards,",0.0,0.61,15.0,2023,215
+1.0,0:49,1.0,10.0,TAM 25,3.0,7.0,Rachaad White right guard for 8 yards (tackle by Colby Wooden),0.61,1.14,15.0,2023,215
+1.0,0:11,2.0,2.0,TAM 33,3.0,7.0,Rachaad White right guard for 5 yards (tackle by De'Vondre Campbell),1.14,1.47,15.0,2023,215
+2.0,15:00,1.0,10.0,TAM 38,3.0,7.0,Baker Mayfield pass complete short middle to Mike Evans for 14 yards (tackle by Rudy Ford),1.47,2.39,15.0,2023,215
+2.0,14:26,1.0,10.0,GNB 48,3.0,7.0,Baker Mayfield pass complete short right to Chris Godwin for 25 yards (tackle by Rudy Ford),2.39,4.04,15.0,2023,215
+2.0,13:44,1.0,10.0,GNB 23,3.0,7.0,Rachaad White right guard for 1 yard (tackle by Rashan Gary),4.04,3.63,15.0,2023,215
+2.0,13:07,2.0,9.0,GNB 22,3.0,7.0,Baker Mayfield pass complete short right to Chris Godwin for 3 yards (tackle by De'Vondre Campbell),3.63,3.34,15.0,2023,215
+2.0,12:26,3.0,6.0,GNB 19,9.0,7.0,"Baker Mayfield pass complete deep middle to Mike Evans for 19 yards, touchdown",3.34,7.0,15.0,2023,215
+2.0,12:21,,,GNB 15,10.0,7.0,Chase McLaughlin kicks extra point good,0.0,0.0,15.0,2023,215
+2.0,12:21,,,TAM 35,10.0,7.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,215
+2.0,12:21,1.0,10.0,GNB 25,10.0,7.0,Jordan Love sacked by Anthony Nelson for -2 yards,0.61,-0.21,15.0,2023,215
+2.0,11:36,2.0,12.0,GNB 23,10.0,7.0,Jordan Love pass complete short right to Malik Heath for 5 yards (tackle by Antoine Winfield),-0.21,-0.23,15.0,2023,215
+2.0,10:56,3.0,7.0,GNB 28,10.0,7.0,"Penalty on Markees Watts: Neutral Zone Infraction, 5 yards (accepted) (no play)",-0.23,0.43,15.0,2023,215
+2.0,10:37,3.0,2.0,GNB 33,10.0,7.0,Jordan Love pass complete short left to Tucker Kraft for 8 yards (tackle by Dee Delaney),0.43,1.66,15.0,2023,215
+2.0,9:56,1.0,10.0,GNB 41,10.0,7.0,Jordan Love pass complete deep left to Tucker Kraft for 36 yards (tackle by Dee Delaney),1.66,4.04,15.0,2023,215
+2.0,9:09,1.0,10.0,TAM 23,10.0,7.0,Kenyan Drake up the middle for no gain (tackle by Joe Tryon-Shoyinka and K.J. Britt),4.04,3.5,15.0,2023,215
+2.0,8:27,2.0,10.0,TAM 23,10.0,7.0,Jordan Love pass complete short left to Jayden Reed for 1 yard (tackle by Christian Izien),3.5,2.94,15.0,2023,215
+2.0,7:50,3.0,9.0,TAM 22,10.0,7.0,Jordan Love pass complete short left to Aaron Jones for 4 yards,2.94,2.3,15.0,2023,215
+2.0,7:13,4.0,5.0,TAM 18,10.0,10.0,Anders Carlson 36 yard field goal good,2.3,3.0,15.0,2023,215
+2.0,7:09,,,GNB 35,10.0,10.0,"Anders Carlson kicks off 59 yards,",0.0,0.61,15.0,2023,215
+2.0,7:09,1.0,10.0,TAM 25,10.0,10.0,"Penalty on Robert Hainsey: False Start, 5 yards (accepted) (no play)",0.61,0.28,15.0,2023,215
+2.0,7:09,1.0,15.0,TAM 20,10.0,10.0,Chase Edmonds up the middle for 9 yards (tackle by Jonathan Owens),0.28,0.6,15.0,2023,215
+2.0,6:28,2.0,6.0,TAM 29,10.0,10.0,Chase Edmonds right end for 2 yards (tackle by Quay Walker),0.6,0.17,15.0,2023,215
+2.0,5:48,3.0,4.0,TAM 31,10.0,10.0,Baker Mayfield pass incomplete short right intended for Chris Godwin (defended by Kenny Clark),0.17,-1.31,15.0,2023,215
+2.0,5:44,4.0,4.0,TAM 31,10.0,10.0,Jake Camarda punts 65 yards downed by David Moore,-1.31,0.38,15.0,2023,215
+2.0,5:31,1.0,10.0,GNB 4,10.0,10.0,"Jordan Love pass incomplete deep right intended for Jayden Reed. Penalty on Christian Izien: Defensive Pass Interference, 32 yards (accepted) (no play)",-0.38,1.33,15.0,2023,215
+2.0,5:26,1.0,10.0,GNB 36,10.0,10.0,Jordan Love pass incomplete short right intended for Dontayvion Wicks (defended by Zyon McCollum),1.33,0.79,15.0,2023,215
+2.0,5:23,2.0,10.0,GNB 36,10.0,10.0,Jordan Love pass complete short right to Romeo Doubs for 11 yards (tackle by Antoine Winfield),0.79,2.06,15.0,2023,215
+2.0,4:46,1.0,10.0,GNB 47,10.0,10.0,Jordan Love pass incomplete short right,2.06,1.52,15.0,2023,215
+2.0,4:42,2.0,10.0,GNB 47,10.0,10.0,Jordan Love pass complete short right to Aaron Jones for 4 yards (tackle by Calijah Kancey and Shaquil Barrett),1.52,1.36,15.0,2023,215
+2.0,3:53,3.0,6.0,TAM 49,10.0,10.0,"Penalty on Jordan Love: Delay of Game, 5 yards (accepted) (no play)",1.36,0.7,15.0,2023,215
+2.0,3:29,3.0,11.0,GNB 46,10.0,10.0,Jordan Love pass complete short middle to Jayden Reed for 5 yards (tackle by Lavonte David and Kaevon Merriweather),0.7,0.0,15.0,2023,215
+2.0,2:41,4.0,6.0,TAM 49,10.0,10.0,"Penalty on GNB: Delay of Game, 5 yards (accepted) (no play)",0.0,-0.32,15.0,2023,215
+2.0,2:21,4.0,11.0,GNB 46,10.0,10.0,"Daniel Whelan punts 43 yards, fair catch by Deven Thompkins at TB-11",-0.32,0.37,15.0,2023,215
+2.0,2:13,1.0,10.0,TAM 11,10.0,10.0,Rachaad White up the middle for 1 yard (tackle by Tedarrell Slaton and Karl Brooks),-0.37,-0.71,15.0,2023,215
+2.0,2:00,2.0,9.0,TAM 12,10.0,10.0,Baker Mayfield pass complete short right to Mike Evans for 6 yards (tackle by Carrington Valentine),-0.71,-0.6,15.0,2023,215
+2.0,1:21,3.0,3.0,TAM 18,10.0,10.0,Baker Mayfield pass complete short right to Chris Godwin for 8 yards (tackle by Jonathan Owens and Quay Walker),-0.6,0.67,15.0,2023,215
+2.0,1:03,1.0,10.0,TAM 26,10.0,10.0,Baker Mayfield pass complete deep right to David Moore for 16 yards (tackle by Carrington Valentine),0.67,1.73,15.0,2023,215
+2.0,0:43,1.0,10.0,TAM 42,10.0,10.0,Baker Mayfield pass complete deep middle to Chris Godwin for 25 yards (tackle by Rudy Ford),1.73,3.38,15.0,2023,215
+2.0,0:36,,,,,,Timeout #1 by Tampa Bay Buccaneers,,,15.0,2023,215
+2.0,0:36,1.0,10.0,GNB 33,10.0,10.0,Baker Mayfield sacked by Lukas Van Ness for -9 yards,3.38,1.62,15.0,2023,215
+2.0,0:31,,,,,,Timeout #2 by Tampa Bay Buccaneers,,,15.0,2023,215
+2.0,0:31,2.0,19.0,GNB 42,10.0,10.0,"Baker Mayfield pass incomplete intended for Cade Otton. Penalty on Luke Goedeke: Offensive Holding, 10 yards (accepted) (no play)",1.62,0.27,15.0,2023,215
+2.0,0:26,2.0,29.0,TAM 48,10.0,10.0,Baker Mayfield pass complete deep right to Chris Godwin for 24 yards (tackle by Carrington Valentine),0.27,2.81,15.0,2023,215
+2.0,0:19,,,,,,Timeout #3 by Tampa Bay Buccaneers,,,15.0,2023,215
+2.0,0:19,,,,,,Timeout #1 by Green Bay Packers,,,15.0,2023,215
+2.0,0:19,3.0,5.0,GNB 28,10.0,10.0,Baker Mayfield pass incomplete deep right,2.81,1.63,15.0,2023,215
+2.0,0:14,4.0,5.0,GNB 28,13.0,10.0,Chase McLaughlin 46 yard field goal good,1.63,3.0,15.0,2023,215
+2.0,0:10,,,TAM 35,13.0,10.0,"Jake Camarda kicks off 60 yards, returned by Keisean Nixon for 20 yards (tackle by Zyon McCollum)",0.0,0.61,15.0,2023,215
+2.0,0:04,1.0,10.0,GNB 25,13.0,10.0,Jordan Love kneels for -1 yards,0.61,-0.07,15.0,2023,215
+3.0,15:00,,,TAM 35,13.0,10.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,215
+3.0,15:00,1.0,10.0,GNB 25,13.0,10.0,Jordan Love pass incomplete short right,0.61,0.06,15.0,2023,215
+3.0,14:56,2.0,10.0,GNB 25,13.0,10.0,Aaron Jones up the middle for 3 yards (tackle by YaYa Diaby and Vita Vea),0.06,-0.23,15.0,2023,215
+3.0,14:36,,,,,,Timeout #1 by Tampa Bay Buccaneers,,,15.0,2023,215
+3.0,14:36,3.0,7.0,GNB 28,13.0,10.0,Jordan Love pass incomplete deep left intended for Jayden Reed,-0.23,-1.5,15.0,2023,215
+3.0,14:31,4.0,7.0,GNB 28,13.0,10.0,"Daniel Whelan punts 51 yards, returned by Deven Thompkins for 13 yards (tackle by Jonathan Owens)",-1.5,-1.2,15.0,2023,215
+3.0,14:21,1.0,10.0,TAM 34,13.0,10.0,Rachaad White up the middle for 4 yards (tackle by Tedarrell Slaton and Kenny Clark),1.2,1.2,15.0,2023,215
+3.0,13:47,2.0,6.0,TAM 38,13.0,10.0,Baker Mayfield pass incomplete deep right intended for Chris Godwin,1.2,0.5,15.0,2023,215
+3.0,13:42,3.0,6.0,TAM 38,13.0,10.0,Baker Mayfield pass complete deep middle to Mike Evans for 18 yards (tackle by Jonathan Owens),0.5,2.65,15.0,2023,215
+3.0,13:02,1.0,10.0,GNB 44,13.0,10.0,Rachaad White up the middle for -2 yards (tackle by De'Vondre Campbell and Jonathan Owens),2.65,1.84,15.0,2023,215
+3.0,12:20,2.0,12.0,GNB 46,13.0,10.0,Baker Mayfield pass incomplete short middle intended for Trey Palmer (defended by Rudy Ford),1.84,1.16,15.0,2023,215
+3.0,12:17,3.0,12.0,GNB 46,13.0,10.0,Baker Mayfield pass complete short left to Chris Godwin for 15 yards (tackle by De'Vondre Campbell),1.16,3.51,15.0,2023,215
+3.0,11:38,1.0,10.0,GNB 31,13.0,10.0,Baker Mayfield pass complete short left to Trey Palmer for 5 yards (tackle by Jonathan Owens),3.51,3.64,15.0,2023,215
+3.0,11:01,2.0,5.0,GNB 26,19.0,10.0,"Baker Mayfield pass complete short right to Rachaad White for 26 yards, touchdown",3.64,7.0,15.0,2023,215
+3.0,10:55,,,GNB 15,20.0,10.0,Chase McLaughlin kicks extra point good,0.0,0.0,15.0,2023,215
+3.0,10:55,,,TAM 35,20.0,10.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,215
+3.0,10:55,1.0,10.0,GNB 25,20.0,10.0,Aaron Jones left guard for no gain (tackle by Lavonte David),0.61,0.06,15.0,2023,215
+3.0,10:20,2.0,10.0,GNB 25,20.0,10.0,Jordan Love pass complete short right to Aaron Jones for 5 yards (tackle by K.J. Britt),0.06,0.04,15.0,2023,215
+3.0,9:36,3.0,5.0,GNB 30,20.0,10.0,Jordan Love pass complete short middle to Dontayvion Wicks for 22 yards (tackle by Antoine Winfield and K.J. Britt),0.04,2.39,15.0,2023,215
+3.0,8:53,1.0,10.0,TAM 48,20.0,10.0,"Jordan Love pass complete short middle to Dontayvion Wicks for 2 yards. Dontayvion Wicks fumbles (forced by Antoine Winfield), recovered by Dontayvion Wicks at TB-46",2.39,2.12,15.0,2023,215
+3.0,8:04,2.0,8.0,TAM 46,20.0,10.0,Jordan Love pass incomplete deep left intended for Ben Sims,2.12,1.42,15.0,2023,215
+3.0,7:57,3.0,8.0,TAM 46,20.0,10.0,Jordan Love pass complete deep middle to Dontayvion Wicks for 21 yards (tackle by Antoine Winfield),1.42,3.91,15.0,2023,215
+3.0,7:14,1.0,10.0,TAM 25,20.0,10.0,"Jordan Love pass complete to Bo Melton for no gain. Penalty on Josh Myers: Offensive Holding, 10 yards (accepted) (no play)",3.91,3.25,15.0,2023,215
+3.0,6:45,1.0,20.0,TAM 35,20.0,10.0,Jordan Love pass complete short right to Malik Heath for 15 yards (tackle by Lavonte David),3.25,4.04,15.0,2023,215
+3.0,6:18,2.0,5.0,TAM 20,20.0,10.0,Jordan Love pass complete short left to Bo Melton for 7 yards (tackle by Jamel Dean),4.04,4.71,15.0,2023,215
+3.0,5:46,1.0,10.0,TAM 13,20.0,10.0,Jordan Love pass complete short right to Patrick Taylor for -3 yards (tackle by Lavonte David),4.71,3.62,15.0,2023,215
+3.0,5:05,2.0,13.0,TAM 16,20.0,10.0,Jordan Love pass complete short right to Patrick Taylor for -1 yards (tackle by Anthony Nelson),3.62,2.88,15.0,2023,215
+3.0,4:26,3.0,14.0,TAM 17,20.0,16.0,"Jordan Love pass complete deep right to Jayden Reed for 17 yards, touchdown",2.88,7.0,15.0,2023,215
+3.0,4:18,,,TAM 15,20.0,17.0,Anders Carlson kicks extra point good,0.0,0.0,15.0,2023,215
+3.0,4:18,,,GNB 35,20.0,17.0,"Anders Carlson kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,215
+3.0,4:18,1.0,10.0,TAM 25,20.0,17.0,Baker Mayfield pass complete short middle to Cade Otton for 22 yards (tackle by Carrington Valentine and Quay Walker),0.61,2.06,15.0,2023,215
+3.0,3:39,1.0,10.0,TAM 47,20.0,17.0,Baker Mayfield sacked by Kenny Clark for -8 yards,2.06,0.44,15.0,2023,215
+3.0,3:05,2.0,18.0,TAM 39,20.0,17.0,Baker Mayfield pass complete short middle to Chris Godwin for 21 yards (tackle by Jonathan Owens and Rudy Ford),0.44,2.92,15.0,2023,215
+3.0,2:25,1.0,10.0,GNB 40,20.0,17.0,Chase Edmonds right guard for 2 yards (tackle by Devonte Wyatt),2.92,2.64,15.0,2023,215
+3.0,1:43,2.0,8.0,GNB 38,20.0,17.0,Baker Mayfield pass incomplete short right intended for Mike Evans (defended by Carrington Valentine),2.64,1.95,15.0,2023,215
+3.0,1:40,3.0,8.0,GNB 38,20.0,17.0,"Baker Mayfield pass incomplete intended for Mike Evans. Penalty on Corey Ballentine: Defensive Pass Interference, 11 yards (accepted) (no play)",1.95,3.78,15.0,2023,215
+3.0,1:35,1.0,10.0,GNB 27,20.0,17.0,Rachaad White left guard for 3 yards (tackle by De'Vondre Campbell),3.78,3.64,15.0,2023,215
+3.0,0:51,2.0,7.0,GNB 24,20.0,17.0,Baker Mayfield pass complete deep middle to Cade Otton for 22 yards (tackle by Jonathan Owens),3.64,6.74,15.0,2023,215
+3.0,0:29,1.0,2.0,GNB 2,20.0,17.0,Baker Mayfield pass incomplete short left intended for Mike Evans,6.74,5.72,15.0,2023,215
+3.0,0:26,2.0,2.0,GNB 2,26.0,17.0,"Baker Mayfield pass complete short right to Ko Kieft for 2 yards, touchdown",5.72,7.0,15.0,2023,215
+3.0,0:20,,,GNB 15,27.0,17.0,Chase McLaughlin kicks extra point good,0.0,0.0,15.0,2023,215
+3.0,0:20,,,TAM 35,27.0,17.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,215
+3.0,0:20,1.0,10.0,GNB 25,27.0,17.0,Jordan Love pass complete short left to Jayden Reed for 4 yards (tackle by Jamel Dean),0.61,0.6,15.0,2023,215
+4.0,15:00,2.0,6.0,GNB 29,27.0,17.0,Jordan Love pass complete short right to Dontayvion Wicks for 20 yards (tackle by Antoine Winfield and Dee Delaney),0.6,2.19,15.0,2023,215
+4.0,14:20,1.0,10.0,GNB 49,27.0,17.0,Jordan Love pass complete deep right to Dontayvion Wicks for 19 yards (tackle by Antoine Winfield and Zyon McCollum),2.19,3.45,15.0,2023,215
+4.0,13:40,1.0,10.0,TAM 32,27.0,17.0,Jordan Love pass complete short left to Jayden Reed for 5 yards (tackle by Calijah Kancey),3.45,3.58,15.0,2023,215
+4.0,12:58,2.0,5.0,TAM 27,27.0,17.0,"Aaron Jones right end for 4 yards (tackle by Christian Izien) GNB challenged the short of the line to gain ruling, and the play was upheld.",3.58,3.4,15.0,2023,215
+4.0,12:19,3.0,1.0,TAM 23,27.0,17.0,Jordan Love up the middle for 2 yards (tackle by Pat O'Connor and Greg Gaines),3.4,4.17,15.0,2023,215
+4.0,11:39,1.0,10.0,TAM 21,27.0,17.0,Aaron Jones right end for 3 yards (tackle by Joe Tryon-Shoyinka),4.17,4.04,15.0,2023,215
+4.0,10:58,2.0,7.0,TAM 18,27.0,17.0,Jordan Love pass complete short left to Aaron Jones for 3 yards (tackle by Lavonte David and Christian Izien),4.04,3.81,15.0,2023,215
+4.0,10:13,3.0,4.0,TAM 15,27.0,17.0,Jordan Love pass incomplete short right intended for Tucker Kraft (defended by Lavonte David),3.81,2.52,15.0,2023,215
+4.0,10:07,4.0,4.0,TAM 15,27.0,20.0,Anders Carlson 33 yard field goal good,2.52,3.0,15.0,2023,215
+4.0,10:04,,,GNB 35,27.0,20.0,"Anders Carlson kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,215
+4.0,10:04,1.0,10.0,TAM 25,27.0,20.0,Baker Mayfield sacked by Devonte Wyatt for no gain,0.61,0.06,15.0,2023,215
+4.0,9:27,2.0,10.0,TAM 25,27.0,20.0,Rachaad White up the middle for 6 yards (tackle by Rudy Ford),0.06,0.17,15.0,2023,215
+4.0,8:49,3.0,4.0,TAM 31,27.0,20.0,Baker Mayfield pass complete short middle to Chris Godwin for 11 yards (tackle by Quay Walker),0.17,1.73,15.0,2023,215
+4.0,8:06,1.0,10.0,TAM 42,27.0,20.0,Rachaad White up the middle for 4 yards (tackle by Devonte Wyatt),1.73,1.73,15.0,2023,215
+4.0,7:24,2.0,6.0,TAM 46,27.0,20.0,Rachaad White up the middle for 2 yards (tackle by Lukas Van Ness),1.73,1.29,15.0,2023,215
+4.0,6:40,3.0,4.0,TAM 48,33.0,20.0,"Baker Mayfield pass complete short right to David Moore for 52 yards, touchdown Replay Assistant challenged the fumble ruling, and the play was upheld.",1.29,7.0,15.0,2023,215
+4.0,6:30,,,GNB 15,34.0,20.0,Chase McLaughlin kicks extra point good,0.0,0.0,15.0,2023,215
+4.0,6:30,,,TAM 35,34.0,20.0,"Jake Camarda kicks off 51 yards, returned by Keisean Nixon for 8 yards (tackle by Cam Gill)",0.0,0.41,15.0,2023,215
+4.0,6:26,1.0,10.0,GNB 22,34.0,20.0,Jordan Love pass complete short left to Romeo Doubs for 12 yards (tackle by Jamel Dean),0.41,1.2,15.0,2023,215
+4.0,6:05,1.0,10.0,GNB 34,34.0,20.0,Jordan Love pass complete short right to Malik Heath for 9 yards (tackle by Antoine Winfield),1.2,1.87,15.0,2023,215
+4.0,5:45,2.0,1.0,GNB 43,34.0,20.0,Patrick Taylor up the middle for 6 yards (tackle by Anthony Nelson and K.J. Britt),1.87,2.19,15.0,2023,215
+4.0,5:22,1.0,10.0,GNB 49,34.0,20.0,Jordan Love pass complete short right to Tucker Kraft for 8 yards (tackle by K.J. Britt),2.19,2.8,15.0,2023,215
+4.0,5:04,2.0,1.0,TAM 43,34.0,20.0,Jordan Love pass complete short right to Dontayvion Wicks for 13 yards (tackle by Dee Delaney),2.8,3.58,15.0,2023,215
+4.0,4:42,1.0,10.0,TAM 30,34.0,20.0,Jordan Love pass incomplete short right,3.58,3.03,15.0,2023,215
+4.0,4:37,2.0,10.0,TAM 30,34.0,20.0,Jordan Love pass incomplete short right intended for Tucker Kraft,3.03,2.34,15.0,2023,215
+4.0,4:33,3.0,10.0,TAM 30,34.0,20.0,Jordan Love pass incomplete deep left intended for Bo Melton,2.34,1.41,15.0,2023,215
+4.0,4:28,4.0,10.0,TAM 30,34.0,20.0,"Jordan Love sacked by and Shaquil Barrett for -21 yards and Lavonte David for -21 yards. Jordan Love fumbles (forced by Shaquil Barrett), recovered by Logan Hall at GB-49 (tackle by Rasheed Walker)",1.41,-2.32,15.0,2023,215
+4.0,4:18,1.0,10.0,GNB 49,34.0,20.0,Rachaad White left end for 5 yards (tackle by Lukas Van Ness and Corey Ballentine),2.32,2.46,15.0,2023,215
+4.0,4:13,,,,,,Timeout #2 by Green Bay Packers,,,15.0,2023,215
+4.0,4:13,2.0,5.0,GNB 44,34.0,20.0,Rachaad White right end for 1 yard (tackle by Quay Walker),2.46,1.88,15.0,2023,215
+4.0,4:08,,,,,,Timeout #3 by Green Bay Packers,,,15.0,2023,215
+4.0,4:08,3.0,4.0,GNB 43,34.0,20.0,Rachaad White up the middle for 2 yards (tackle by Jonathan Owens and Rudy Ford),1.88,0.53,15.0,2023,215
+4.0,3:25,,,,,,Timeout #2 by Tampa Bay Buccaneers,,,15.0,2023,215
+4.0,3:25,4.0,2.0,GNB 41,34.0,20.0,Rachaad White up the middle for 3 yards (tackle by Kenny Clark and Jonathan Owens),0.53,3.05,15.0,2023,215
+4.0,2:41,1.0,10.0,GNB 38,34.0,20.0,Rachaad White right guard for 5 yards (tackle by Kingsley Enagbare),3.05,3.18,15.0,2023,215
+4.0,2:00,2.0,5.0,GNB 33,34.0,20.0,Rachaad White up the middle for 22 yards,3.18,4.84,15.0,2023,215
+4.0,1:14,1.0,10.0,GNB 11,34.0,20.0,Baker Mayfield kneels for -1 yards,4.84,3.98,15.0,2023,215
+4.0,0:34,2.0,11.0,GNB 12,34.0,20.0,Baker Mayfield kneels for -1 yards,3.98,3.08,15.0,2023,215

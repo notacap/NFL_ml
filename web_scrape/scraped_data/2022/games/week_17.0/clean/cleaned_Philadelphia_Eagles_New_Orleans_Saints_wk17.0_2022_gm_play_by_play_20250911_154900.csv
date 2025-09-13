@@ -1,0 +1,165 @@
+Quarter,Time,Down,ToGo,Location,NOR,PHI,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Eagles won the coin toss and deferred, Saints to receive the opening kickoff.",,,17.0,2022,250
+1.0,15:00,,,PHI 35,0.0,0.0,"Jake Elliott kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,250
+1.0,15:00,1.0,10.0,NOR 25,0.0,0.0,Andy Dalton pass complete short left to Chris Olave for 16 yards (tackle by Darius Slay),0.61,1.66,17.0,2022,250
+1.0,14:26,1.0,10.0,NOR 41,0.0,0.0,Alvin Kamara left tackle for 6 yards (tackle by Fletcher Cox),1.66,1.93,17.0,2022,250
+1.0,13:51,2.0,4.0,NOR 47,0.0,0.0,Taysom Hill right end for no gain (tackle by T.J. Edwards),1.93,1.22,17.0,2022,250
+1.0,13:14,3.0,4.0,NOR 47,0.0,0.0,Andy Dalton pass complete short right to Juwan Johnson for 10 yards (tackle by T.J. Edwards),1.22,2.72,17.0,2022,250
+1.0,12:34,1.0,10.0,PHI 43,0.0,0.0,Andy Dalton pass complete short right to Rashid Shaheed for 4 yards (tackle by Marcus Epps),2.72,2.72,17.0,2022,250
+1.0,11:56,2.0,6.0,PHI 39,0.0,0.0,Alvin Kamara left end for 3 yards (tackle by Kyzir White),2.72,2.41,17.0,2022,250
+1.0,11:15,3.0,3.0,PHI 36,0.0,0.0,Andy Dalton pass complete short right to Chris Olave for 8 yards (tackle by Josiah Scott),2.41,3.71,17.0,2022,250
+1.0,10:41,1.0,10.0,PHI 28,0.0,0.0,Andy Dalton pass complete short left to Rashid Shaheed for 2 yards (tackle by Darius Slay),3.71,3.44,17.0,2022,250
+1.0,10:06,2.0,8.0,PHI 26,0.0,0.0,Taysom Hill pass complete short right to Chris Olave for 7 yards (tackle by Haason Reddick),3.44,3.72,17.0,2022,250
+1.0,9:32,3.0,1.0,PHI 19,0.0,0.0,Adam Prentice up the middle for 2 yards (tackle by Josh Sweat and Fletcher Cox),3.72,4.44,17.0,2022,250
+1.0,8:59,1.0,10.0,PHI 17,0.0,0.0,Alvin Kamara right end for 4 yards (tackle by Javon Hargrave and Linval Joseph),4.44,4.5,17.0,2022,250
+1.0,8:15,2.0,6.0,PHI 13,0.0,0.0,"Andy Dalton pass incomplete. Penalty on Erik McCoy: Ineligible Downfield Pass, 5 yards (accepted) (no play)",4.5,3.72,17.0,2022,250
+1.0,8:15,2.0,11.0,PHI 18,0.0,0.0,Eno Benjamin left end for 8 yards (tackle by Reed Blankenship),3.72,4.34,17.0,2022,250
+1.0,7:28,3.0,3.0,PHI 10,0.0,0.0,Taysom Hill left guard for 1 yard (tackle by James Bradberry and Reed Blankenship),4.34,2.95,17.0,2022,250
+1.0,6:48,4.0,2.0,PHI 9,0.0,0.0,Taysom Hill right guard for 8 yards (tackle by Reed Blankenship),2.95,6.97,17.0,2022,250
+1.0,6:07,1.0,1.0,PHI 1,6.0,0.0,"Taysom Hill left end for 1 yard, touchdown",6.97,7.0,17.0,2022,250
+1.0,6:02,,,PHI 15,7.0,0.0,Wil Lutz kicks extra point good,0.0,0.0,17.0,2022,250
+1.0,6:02,,,NOR 35,7.0,0.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,250
+1.0,6:02,1.0,10.0,PHI 25,7.0,0.0,Gardner Minshew sacked by Kaden Elliss for -6 yards,0.61,-0.81,17.0,2022,250
+1.0,5:22,2.0,16.0,PHI 19,7.0,0.0,Gardner Minshew sacked by and Carl Granderson for no gain and Kaden Elliss for no gain,-0.81,-1.58,17.0,2022,250
+1.0,4:35,3.0,17.0,PHI 19,7.0,0.0,Gardner Minshew pass complete short right to Kenneth Gainwell for 8 yards (tackle by David Onyemata),-1.58,-1.57,17.0,2022,250
+1.0,4:03,4.0,8.0,PHI 27,7.0,0.0,"Brett Kern punts 53 yards, returned by Rashid Shaheed for 9 yards (tackle by Patrick Johnson)",-1.57,-0.87,17.0,2022,250
+1.0,3:54,1.0,10.0,NOR 29,7.0,0.0,Alvin Kamara up the middle for 4 yards (tackle by Jordan Davis and Haason Reddick),0.87,0.87,17.0,2022,250
+1.0,3:12,2.0,6.0,NOR 33,7.0,0.0,Taysom Hill left end for 2 yards (tackle by Reed Blankenship),0.87,0.43,17.0,2022,250
+1.0,2:35,3.0,4.0,NOR 35,7.0,0.0,Andy Dalton pass complete short left to Rashid Shaheed for 9 yards (tackle by Marcus Epps),0.43,1.86,17.0,2022,250
+1.0,2:02,1.0,10.0,NOR 44,7.0,0.0,Eno Benjamin up the middle for 2 yards (tackle by Kyzir White),1.86,1.59,17.0,2022,250
+1.0,1:29,2.0,8.0,NOR 46,7.0,0.0,Andy Dalton pass complete short left to Alvin Kamara for 7 yards (tackle by Javon Hargrave),1.59,1.82,17.0,2022,250
+1.0,0:51,,,,,,Timeout #1 by New Orleans Saints,,,17.0,2022,250
+1.0,0:51,3.0,1.0,PHI 47,7.0,0.0,Taysom Hill left tackle for 3 yards (tackle by Javon Hargrave and Kyzir White),1.82,2.65,17.0,2022,250
+1.0,0:15,1.0,10.0,PHI 44,7.0,0.0,Andy Dalton sacked by Javon Hargrave for -5 yards,2.65,1.5,17.0,2022,250
+2.0,15:00,2.0,14.0,PHI 49,7.0,0.0,Alvin Kamara left guard for 9 yards (tackle by T.J. Edwards),1.5,1.95,17.0,2022,250
+2.0,14:26,3.0,6.0,PHI 40,7.0,0.0,Andy Dalton sacked by Brandon Graham for -3 yards,1.95,0.4,17.0,2022,250
+2.0,13:39,4.0,9.0,PHI 43,7.0,0.0,"Blake Gillikin punts 33 yards, fair catch by Britain Covey at PHI-10",0.4,0.38,17.0,2022,250
+2.0,13:34,1.0,10.0,PHI 10,7.0,0.0,Miles Sanders right tackle for 4 yards (tackle by Paulson Adebo),-0.38,-0.46,17.0,2022,250
+2.0,12:57,2.0,6.0,PHI 14,7.0,0.0,Miles Sanders right guard for 5 yards (tackle by Cameron Jordan and Demario Davis),-0.46,-0.37,17.0,2022,250
+2.0,12:12,3.0,1.0,PHI 19,7.0,0.0,Gardner Minshew sacked by Cameron Jordan for no gain,-0.37,-2.14,17.0,2022,250
+2.0,11:34,4.0,1.0,PHI 19,7.0,0.0,"Brett Kern punts 39 yards, fair catch by Rashid Shaheed at NO-42",-2.14,-1.73,17.0,2022,250
+2.0,11:28,1.0,10.0,NOR 42,7.0,0.0,Taysom Hill pass complete deep right to Juwan Johnson for 17 yards (tackle by Marcus Epps),1.73,2.85,17.0,2022,250
+2.0,10:53,1.0,10.0,PHI 41,7.0,0.0,Alvin Kamara right end for no gain (tackle by T.J. Edwards and Reed Blankenship),2.85,2.31,17.0,2022,250
+2.0,10:15,2.0,10.0,PHI 41,7.0,0.0,"Andy Dalton scrambles for no gain. Penalty on Landon Young: Offensive Holding, 10 yards (accepted) (no play)",2.31,0.96,17.0,2022,250
+2.0,9:55,2.0,20.0,NOR 49,7.0,0.0,Andy Dalton pass complete short left to Adam Prentice for 4 yards (tackle by Josiah Scott),0.96,0.83,17.0,2022,250
+2.0,9:16,3.0,16.0,PHI 47,7.0,0.0,Andy Dalton pass complete short right to Chris Olave for 11 yards (tackle by Darius Slay),0.83,0.88,17.0,2022,250
+2.0,8:35,4.0,5.0,PHI 36,10.0,0.0,Wil Lutz 54 yard field goal good,0.88,3.0,17.0,2022,250
+2.0,8:30,,,NOR 35,10.0,0.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,250
+2.0,8:30,1.0,10.0,PHI 25,10.0,0.0,Gardner Minshew pass incomplete short right intended for DeVonta Smith,0.61,0.06,17.0,2022,250
+2.0,8:26,2.0,10.0,PHI 25,10.0,0.0,Gardner Minshew sacked by Carl Granderson for -6 yards,0.06,-1.51,17.0,2022,250
+2.0,7:44,3.0,16.0,PHI 19,10.0,0.0,Gardner Minshew pass complete short middle to Kenneth Gainwell for 9 yards (tackle by Demario Davis),-1.51,-1.5,17.0,2022,250
+2.0,7:09,4.0,7.0,PHI 28,10.0,0.0,"Brett Kern punts 45 yards, returned by Rashid Shaheed for 3 yards (tackle by Zech McPhearson)",-1.5,-0.94,17.0,2022,250
+2.0,7:00,1.0,10.0,NOR 30,10.0,0.0,Taysom Hill right end for 3 yards (tackle by Marcus Epps),0.94,0.8,17.0,2022,250
+2.0,6:23,2.0,7.0,NOR 33,10.0,0.0,Andy Dalton pass complete short middle to Juwan Johnson for 3 yards (tackle by Kyzir White),0.8,0.5,17.0,2022,250
+2.0,5:49,3.0,4.0,NOR 36,10.0,0.0,Andy Dalton pass complete deep right to Rashid Shaheed for 58 yards (tackle by James Bradberry),0.5,5.83,17.0,2022,250
+2.0,5:00,1.0,6.0,PHI 6,10.0,0.0,Alvin Kamara right guard for 4 yards (tackle by Javon Hargrave),5.83,5.72,17.0,2022,250
+2.0,4:26,2.0,2.0,PHI 2,10.0,0.0,Alvin Kamara left guard for 1 yard (tackle by Josiah Scott and Reed Blankenship),5.72,5.17,17.0,2022,250
+2.0,3:51,3.0,1.0,PHI 1,10.0,0.0,Taysom Hill right end for -1 yards (tackle by T.J. Edwards and Javon Hargrave),5.17,3.25,17.0,2022,250
+2.0,3:08,4.0,2.0,PHI 2,13.0,0.0,Wil Lutz 20 yard field goal good,3.25,3.0,17.0,2022,250
+2.0,3:05,,,NOR 35,13.0,0.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,250
+2.0,3:05,1.0,10.0,PHI 25,13.0,0.0,Gardner Minshew pass incomplete short right intended for Dallas Goedert,0.61,0.06,17.0,2022,250
+2.0,3:01,2.0,10.0,PHI 25,13.0,0.0,Gardner Minshew pass complete short left to A.J. Brown for 7 yards (tackle by Marshon Lattimore),0.06,0.3,17.0,2022,250
+2.0,2:28,3.0,3.0,PHI 32,13.0,0.0,Gardner Minshew pass incomplete deep right intended for DeVonta Smith,0.3,-1.24,17.0,2022,250
+2.0,2:19,4.0,3.0,PHI 32,13.0,0.0,"Brett Kern punts 38 yards, fair catch by Rashid Shaheed at NO-30",-1.24,-0.94,17.0,2022,250
+2.0,2:13,1.0,10.0,NOR 30,13.0,0.0,Andy Dalton pass complete short right to Juwan Johnson for 11 yards (tackle by Marcus Epps),0.94,1.66,17.0,2022,250
+2.0,2:00,1.0,10.0,NOR 41,13.0,0.0,Alvin Kamara left guard for 12 yards (tackle by Reed Blankenship and Brandon Graham),1.66,2.46,17.0,2022,250
+2.0,1:37,1.0,10.0,PHI 47,13.0,0.0,Andy Dalton pass complete deep middle to Juwan Johnson for 21 yards (tackle by Marcus Epps),2.46,3.84,17.0,2022,250
+2.0,1:09,1.0,10.0,PHI 26,13.0,0.0,Andy Dalton sacked by Haason Reddick for -5 yards,3.84,2.62,17.0,2022,250
+2.0,0:45,2.0,15.0,PHI 31,13.0,0.0,Andy Dalton pass deep right intended for Chris Olave is intercepted by Josiah Scott at PHI-12 and returned for 13 yards (tackle by Calvin Throckmorton),2.62,-0.61,17.0,2022,250
+2.0,0:34,1.0,10.0,PHI 25,13.0,0.0,Gardner Minshew sacked by Cameron Jordan for -5 yards,0.61,-0.61,17.0,2022,250
+2.0,0:26,,,,,,Timeout #1 by Philadelphia Eagles,,,17.0,2022,250
+2.0,0:26,2.0,15.0,PHI 20,13.0,0.0,Gardner Minshew pass complete short left to A.J. Brown for 8 yards (tackle by Marshon Lattimore),-0.61,-0.23,17.0,2022,250
+2.0,0:19,,,,,,Timeout #2 by Philadelphia Eagles,,,17.0,2022,250
+2.0,0:19,3.0,7.0,PHI 28,13.0,0.0,Gardner Minshew pass complete short left to Dallas Goedert for 12 yards (tackle by Tyrann Mathieu and P.J. Williams),-0.23,1.6,17.0,2022,250
+2.0,0:12,,,,,,Timeout #3 by Philadelphia Eagles,,,17.0,2022,250
+2.0,0:12,1.0,10.0,PHI 40,13.0,0.0,Gardner Minshew pass incomplete deep left intended for Dallas Goedert (defended by Daniel Sorensen),1.6,1.05,17.0,2022,250
+2.0,0:05,2.0,10.0,PHI 40,13.0,0.0,Gardner Minshew pass complete short right to DeVonta Smith for 25 yards (tackle by Paulson Adebo and J.T. Gray),1.05,3.25,17.0,2022,250
+3.0,15:00,,,NOR 35,13.0,0.0,"Wil Lutz kicks off 62 yards, returned by Boston Scott for 15 yards (tackle by Andrew Dowell and J.T. Gray). Penalty on Kyron Johnson: Offensive Holding, 9 yards (accepted)",0.0,-0.38,17.0,2022,250
+3.0,14:54,1.0,10.0,PHI 9,13.0,0.0,Miles Sanders up the middle for 9 yards (tackle by Demario Davis),-0.38,0.14,17.0,2022,250
+3.0,14:19,2.0,1.0,PHI 18,13.0,0.0,Miles Sanders right guard for 14 yards (tackle by Daniel Sorensen),0.14,1.07,17.0,2022,250
+3.0,13:50,1.0,10.0,PHI 32,13.0,0.0,Gardner Minshew pass complete to Dallas Goedert for 18 yards (tackle by Tyrann Mathieu),1.07,2.26,17.0,2022,250
+3.0,13:19,1.0,10.0,NOR 50,13.0,0.0,Gardner Minshew pass complete short right to DeVonta Smith for 1 yard (tackle by Paulson Adebo),2.26,1.85,17.0,2022,250
+3.0,12:41,2.0,9.0,NOR 49,13.0,0.0,Gardner Minshew pass complete short right to DeVonta Smith for 15 yards (tackle by Paulson Adebo),1.85,3.31,17.0,2022,250
+3.0,12:15,1.0,10.0,NOR 34,13.0,0.0,Boston Scott left end for 8 yards (tackle by Daniel Sorensen and Demario Davis),3.31,3.85,17.0,2022,250
+3.0,11:49,2.0,2.0,NOR 26,13.0,0.0,Boston Scott right tackle for -2 yards (tackle by Kaden Elliss),3.85,2.87,17.0,2022,250
+3.0,11:13,3.0,4.0,NOR 28,13.0,0.0,"Kenneth Gainwell for no gain, touchdown. Penalty on Landon Dickerson: Offensive Holding, 10 yards (accepted) (no play)",2.87,1.55,17.0,2022,250
+3.0,11:06,3.0,14.0,NOR 38,13.0,0.0,Gardner Minshew pass incomplete short right intended for A.J. Brown (defended by Demario Davis),1.55,0.72,17.0,2022,250
+3.0,11:03,4.0,14.0,NOR 38,13.0,3.0,Jake Elliott 56 yard field goal good,0.72,3.0,17.0,2022,250
+3.0,10:58,,,PHI 35,13.0,3.0,"Jake Elliott kicks off 67 yards, returned by Rashid Shaheed for 27 yards (tackle by Zach Pascal)",0.0,0.61,17.0,2022,250
+3.0,10:52,1.0,10.0,NOR 25,13.0,3.0,Andy Dalton pass complete short left to Rashid Shaheed for -1 yards (tackle by T.J. Edwards),0.61,-0.07,17.0,2022,250
+3.0,10:18,2.0,11.0,NOR 24,13.0,3.0,Andy Dalton pass complete short right to Rashid Shaheed for 7 yards (tackle by Josiah Scott),-0.07,0.04,17.0,2022,250
+3.0,9:43,3.0,5.0,NOR 30,13.0,3.0,Andy Dalton pass incomplete short right intended for Juwan Johnson (defended by K'Von Wallace),0.04,-1.31,17.0,2022,250
+3.0,9:39,4.0,5.0,NOR 31,13.0,3.0,"Blake Gillikin punts 55 yards, fair catch by Britain Covey at PHI-14",-1.31,0.28,17.0,2022,250
+3.0,9:32,1.0,10.0,PHI 14,13.0,3.0,Miles Sanders up the middle for 9 yards (tackle by Kaden Elliss and Daniel Sorensen),-0.28,0.55,17.0,2022,250
+3.0,8:57,2.0,1.0,PHI 23,13.0,3.0,Miles Sanders left guard for 4 yards (tackle by Bradley Roby),0.55,0.74,17.0,2022,250
+3.0,8:22,1.0,10.0,PHI 27,13.0,3.0,Miles Sanders right guard for 6 yards (tackle by Malcolm Roach),0.74,1.01,17.0,2022,250
+3.0,7:45,2.0,4.0,PHI 33,13.0,3.0,Miles Sanders left tackle for 2 yards (tackle by David Onyemata),1.01,0.56,17.0,2022,250
+3.0,7:05,3.0,2.0,PHI 35,13.0,3.0,"Penalty on Landon Dickerson: False Start, 5 yards (accepted) (no play)",0.56,-0.1,17.0,2022,250
+3.0,6:42,3.0,7.0,PHI 30,13.0,3.0,"Penalty on Jason Kelce: False Start, 5 yards (accepted) (no play)",-0.1,-0.76,17.0,2022,250
+3.0,6:24,3.0,12.0,PHI 25,13.0,3.0,Gardner Minshew pass complete short left to DeVonta Smith for 12 yards (tackle by Marshon Lattimore),-0.76,1.4,17.0,2022,250
+3.0,5:41,,,,,,Timeout #1 by New Orleans Saints,,,17.0,2022,250
+3.0,5:41,1.0,10.0,PHI 37,13.0,3.0,Miles Sanders right guard for 2 yards (tackle by Cameron Jordan),1.4,1.13,17.0,2022,250
+3.0,5:05,2.0,8.0,PHI 39,13.0,3.0,Gardner Minshew pass incomplete deep left intended for A.J. Brown,1.13,0.43,17.0,2022,250
+3.0,5:00,3.0,8.0,PHI 39,13.0,3.0,"Penalty on Isaac Seumalo: False Start, 5 yards (accepted) (no play)",0.43,-0.23,17.0,2022,250
+3.0,5:00,3.0,13.0,PHI 34,13.0,3.0,Gardner Minshew pass incomplete deep right intended for DeVonta Smith,-0.23,-1.11,17.0,2022,250
+3.0,4:55,4.0,13.0,PHI 34,13.0,3.0,Brett Kern punts 26 yards out of bounds,-1.11,-1.6,17.0,2022,250
+3.0,4:49,1.0,10.0,NOR 40,13.0,3.0,Alvin Kamara left end for 15 yards (tackle by Reed Blankenship),1.6,2.59,17.0,2022,250
+3.0,4:17,1.0,10.0,PHI 45,13.0,3.0,Alvin Kamara right guard for 2 yards (tackle by Haason Reddick and Marcus Epps),2.59,2.31,17.0,2022,250
+3.0,3:46,2.0,8.0,PHI 43,13.0,3.0,Andy Dalton sacked by Fletcher Cox for -12 yards,2.31,0.04,17.0,2022,250
+3.0,3:00,3.0,20.0,NOR 45,13.0,3.0,Andy Dalton pass complete short left to Eno Benjamin for 9 yards (tackle by James Bradberry and Javon Hargrave),0.04,0.2,17.0,2022,250
+3.0,2:24,4.0,11.0,PHI 46,13.0,3.0,Blake Gillikin punts 42 yards,0.2,0.38,17.0,2022,250
+3.0,2:14,1.0,10.0,PHI 4,13.0,3.0,Gardner Minshew pass complete short right to DeVonta Smith for 12 yards (tackle by Daniel Sorensen),-0.38,-0.14,17.0,2022,250
+3.0,1:37,1.0,10.0,PHI 16,13.0,3.0,Gardner Minshew pass complete short left to DeVonta Smith for 6 yards (tackle by Marshon Lattimore),-0.14,0.28,17.0,2022,250
+3.0,0:58,2.0,4.0,PHI 22,13.0,9.0,"Gardner Minshew pass complete deep right to A.J. Brown for 78 yards, touchdown",0.28,7.0,17.0,2022,250
+3.0,0:45,,,NOR 15,13.0,10.0,Jake Elliott kicks extra point good,0.0,0.0,17.0,2022,250
+3.0,0:45,,,PHI 35,13.0,10.0,"Jake Elliott kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,250
+3.0,0:45,1.0,10.0,NOR 25,13.0,10.0,Andy Dalton pass complete short right to Adam Trautman for 16 yards (tackle by Darius Slay),0.61,1.66,17.0,2022,250
+3.0,0:06,1.0,10.0,NOR 41,13.0,10.0,Alvin Kamara left guard for 7 yards (tackle by T.J. Edwards and Kyzir White),1.66,2.07,17.0,2022,250
+4.0,15:00,2.0,3.0,NOR 48,13.0,10.0,Taysom Hill right guard for no gain (tackle by Kyzir White and Ndamukong Suh),2.07,1.36,17.0,2022,250
+4.0,14:16,3.0,3.0,NOR 48,13.0,10.0,Andy Dalton sacked by Brandon Graham for -5 yards,1.36,-0.52,17.0,2022,250
+4.0,13:39,4.0,8.0,NOR 43,13.0,10.0,"Blake Gillikin punts 43 yards, fair catch by Britain Covey at PHI-14",-0.52,0.28,17.0,2022,250
+4.0,13:34,1.0,10.0,PHI 14,13.0,10.0,Gardner Minshew pass complete deep left to Dallas Goedert for 15 yards (tackle by Daniel Sorensen),-0.28,0.87,17.0,2022,250
+4.0,12:58,1.0,10.0,PHI 29,13.0,10.0,"Gardner Minshew pass complete to Boston Scott for no gain. Penalty on Jason Kelce: Ineligible Downfield Pass, 5 yards (accepted) (no play)",0.87,0.54,17.0,2022,250
+4.0,12:28,1.0,15.0,PHI 24,13.0,10.0,Gardner Minshew pass incomplete short middle intended for DeVonta Smith,0.54,-0.35,17.0,2022,250
+4.0,12:25,2.0,15.0,PHI 24,13.0,10.0,Gardner Minshew pass incomplete short left intended for Quez Watkins (defended by Marshon Lattimore),-0.35,-1.02,17.0,2022,250
+4.0,12:21,3.0,15.0,PHI 24,13.0,10.0,Gardner Minshew pass incomplete deep left intended for A.J. Brown,-1.02,-1.77,17.0,2022,250
+4.0,12:16,4.0,15.0,PHI 24,13.0,10.0,"Brett Kern punts 50 yards, returned by Rashid Shaheed for 6 yards (tackle by Kyron Johnson)",-1.77,-1.07,17.0,2022,250
+4.0,12:03,1.0,10.0,NOR 32,13.0,10.0,Alvin Kamara left end for no gain (tackle by Kyzir White),1.07,0.53,17.0,2022,250
+4.0,11:30,2.0,10.0,NOR 32,13.0,10.0,Andy Dalton sacked by Haason Reddick for -8 yards,0.53,-1.22,17.0,2022,250
+4.0,10:45,3.0,18.0,NOR 24,13.0,10.0,"Andy Dalton pass incomplete intended for Chris Olave. Penalty on Erik McCoy: False Start, 5 yards (accepted) (no play)",-1.22,-2.01,17.0,2022,250
+4.0,10:45,3.0,23.0,NOR 19,13.0,10.0,Alvin Kamara up the middle for no gain (tackle by Javon Hargrave),-2.01,-2.14,17.0,2022,250
+4.0,10:11,4.0,23.0,NOR 19,13.0,10.0,"Blake Gillikin punts 47 yards, returned by Britain Covey for 7 yards (tackle by Andrew Dowell)",-2.14,-1.66,17.0,2022,250
+4.0,10:01,1.0,10.0,PHI 41,13.0,10.0,Miles Sanders up the middle for 1 yard (tackle by David Onyemata and Demario Davis),1.66,1.26,17.0,2022,250
+4.0,9:28,2.0,9.0,PHI 42,13.0,10.0,Gardner Minshew pass complete short right to DeVonta Smith for 5 yards (tackle by Paulson Adebo),1.26,1.22,17.0,2022,250
+4.0,9:01,3.0,4.0,PHI 47,13.0,10.0,Miles Sanders left tackle for 3 yards (tackle by David Onyemata and Demario Davis),1.22,-0.06,17.0,2022,250
+4.0,8:36,4.0,1.0,PHI 50,13.0,10.0,Gardner Minshew up the middle for no gain (tackle by Demario Davis),-0.06,-2.26,17.0,2022,250
+4.0,8:32,1.0,10.0,PHI 50,13.0,10.0,Alvin Kamara up the middle for 2 yards (tackle by Milton Williams and Jordan Davis),2.26,1.98,17.0,2022,250
+4.0,7:53,2.0,8.0,PHI 48,13.0,10.0,Andy Dalton pass complete short right to Taysom Hill for 10 yards (tackle by Darius Slay),1.98,3.05,17.0,2022,250
+4.0,7:06,1.0,10.0,PHI 38,13.0,10.0,Taysom Hill sacked by Milton Williams for -7 yards,3.05,1.56,17.0,2022,250
+4.0,6:27,2.0,17.0,PHI 45,13.0,10.0,Andy Dalton pass incomplete short middle intended for Juwan Johnson,1.56,0.89,17.0,2022,250
+4.0,6:19,3.0,17.0,PHI 45,13.0,10.0,Andy Dalton pass incomplete short right,0.89,0.27,17.0,2022,250
+4.0,6:14,4.0,17.0,PHI 45,13.0,10.0,"Blake Gillikin punts 36 yards, fair catch by Britain Covey at PHI-9",0.27,0.38,17.0,2022,250
+4.0,6:07,1.0,10.0,PHI 9,13.0,10.0,Miles Sanders left end for 2 yards (tackle by Marshon Lattimore),-0.38,-0.63,17.0,2022,250
+4.0,5:31,2.0,8.0,PHI 11,19.0,10.0,"Gardner Minshew pass short left intended for A.J. Brown is intercepted by Marshon Lattimore at PHI-12 and returned for 12 yards, touchdown",-0.63,-7.0,17.0,2022,250
+4.0,5:27,,,PHI 15,20.0,10.0,Wil Lutz kicks extra point good,0.0,0.0,17.0,2022,250
+4.0,5:27,,,NOR 35,20.0,10.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,250
+4.0,5:27,1.0,10.0,PHI 25,20.0,10.0,Gardner Minshew pass incomplete deep right intended for A.J. Brown,0.61,0.06,17.0,2022,250
+4.0,5:22,2.0,10.0,PHI 25,20.0,10.0,Gardner Minshew pass incomplete short right intended for Boston Scott,0.06,-0.62,17.0,2022,250
+4.0,5:17,3.0,10.0,PHI 25,20.0,10.0,Gardner Minshew pass complete deep left to DeVonta Smith for 28 yards (tackle by Daniel Sorensen),-0.62,2.46,17.0,2022,250
+4.0,4:47,1.0,10.0,NOR 47,20.0,10.0,"Gardner Minshew sacked by Cameron Jordan for -11 yards. Gardner Minshew fumbles (forced by Cameron Jordan), recovered by Gardner Minshew at PHI-42 and returned for 22 yards. Gardner Minshew fumbles (forced by Kaden Elliss), recovered by Gardner Minshew at PHI-42 and returned for 22 yards",2.46,0.43,17.0,2022,250
+4.0,4:17,2.0,21.0,PHI 42,20.0,10.0,Gardner Minshew pass complete short right to A.J. Brown for 4 yards (tackle by Paulson Adebo),0.43,0.3,17.0,2022,250
+4.0,3:50,3.0,17.0,PHI 46,20.0,10.0,Gardner Minshew pass incomplete short right intended for Dallas Goedert (defended by Paulson Adebo),0.3,-0.32,17.0,2022,250
+4.0,3:43,4.0,17.0,PHI 46,20.0,10.0,"Penalty on Jack Driscoll: False Start, 5 yards (accepted) (no play)",-0.32,-0.65,17.0,2022,250
+4.0,3:43,4.0,22.0,PHI 41,20.0,10.0,Gardner Minshew pass complete short left to DeVonta Smith for 11 yards (tackle by Marshon Lattimore),-0.65,-2.13,17.0,2022,250
+4.0,3:35,1.0,10.0,NOR 48,20.0,10.0,Taysom Hill right end for 9 yards (tackle by Marcus Epps),2.13,2.8,17.0,2022,250
+4.0,3:29,,,,,,Timeout #1 by Philadelphia Eagles,,,17.0,2022,250
+4.0,3:29,2.0,1.0,PHI 43,20.0,10.0,"Penalty on PHI: Defensive Too Many Men on Field, 5 yards (accepted) (no play)",2.8,3.05,17.0,2022,250
+4.0,3:29,1.0,10.0,PHI 38,20.0,10.0,Taysom Hill up the middle for 7 yards (tackle by Fletcher Cox and Linval Joseph),3.05,3.45,17.0,2022,250
+4.0,3:20,,,,,,Timeout #2 by Philadelphia Eagles,,,17.0,2022,250
+4.0,3:20,2.0,3.0,PHI 31,20.0,10.0,Taysom Hill right tackle for 6 yards (tackle by T.J. Edwards),3.45,3.91,17.0,2022,250
+4.0,3:15,,,,,,Timeout #3 by Philadelphia Eagles,,,17.0,2022,250
+4.0,3:15,1.0,10.0,PHI 25,20.0,10.0,Taysom Hill right end for 5 yards (tackle by T.J. Edwards),3.91,4.04,17.0,2022,250
+4.0,2:32,2.0,5.0,PHI 20,20.0,10.0,Taysom Hill right tackle for 2 yards (tackle by T.J. Edwards),4.04,3.66,17.0,2022,250
+4.0,2:00,3.0,3.0,PHI 18,20.0,10.0,Alvin Kamara left guard for 4 yards (tackle by Milton Williams and T.J. Edwards),3.66,4.65,17.0,2022,250
+4.0,1:16,1.0,10.0,PHI 14,20.0,10.0,Andy Dalton kneels for -1 yards,4.65,3.85,17.0,2022,250
+4.0,0:37,2.0,11.0,PHI 15,20.0,10.0,Andy Dalton kneels for -1 yards,3.85,3.0,17.0,2022,250

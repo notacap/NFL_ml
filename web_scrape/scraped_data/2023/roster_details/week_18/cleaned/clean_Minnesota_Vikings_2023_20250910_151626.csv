@@ -1,0 +1,71 @@
+Player,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Team,Draft Team,Draft Round,Draft Pick,Draft Year
+Jordan Addison,21.0,WR,17,14.0,175.0,71,"Pittsburgh,USC",1/27/2002,0,7.0,Minnesota Vikings,Minnesota Vikings,1.0,23.0,2023.0
+Hakeem Adeniji,26.0,OL,4,0.0,302.0,76,Kansas,12/8/1997,3,0.0,Minnesota Vikings,Cincinnati Bengals,6.0,180.0,2020.0
+Cam Akers,24.0,RB,6,0.0,217.0,70,Florida St.,6/22/1999,3,1.0,Minnesota Vikings,Los Angeles Rams,2.0,52.0,2020.0
+Brian Asamoah,23.0,LB,13,0.0,226.0,72,Oklahoma,3/29/2000,1,1.0,Minnesota Vikings,Minnesota Vikings,3.0,66.0,2022.0
+Anthony Barr,31.0,LB,4,0.0,257.0,77,UCLA,3/18/1992,9,1.0,Minnesota Vikings,Minnesota Vikings,1.0,9.0,2014.0
+Mekhi Blackmon,24.0,CB,15,3.0,178.0,71,"San Mateo,Colorado,USC",3/18/1999,0,2.0,Minnesota Vikings,Minnesota Vikings,3.0,102.0,2023.0
+Andrew Booth,23.0,CB,17,1.0,194.0,72,Clemson,9/28/2000,1,1.0,Minnesota Vikings,Minnesota Vikings,2.0,42.0,2022.0
+Garrett Bradbury,28.0,C,14,14.0,300.0,75,North Carolina St.,6/20/1995,4,6.0,Minnesota Vikings,Minnesota Vikings,1.0,18.0,2019.0
+Blake Brandel,26.0,T,17,2.0,315.0,78,Oregon St.,1/23/1997,2,2.0,Minnesota Vikings,Minnesota Vikings,6.0,203.0,2020.0
+Jonathan Bullard,30.0,DL,17,14.0,290.0,75,Florida,10/22/1993,7,7.0,Minnesota Vikings,Chicago Bears,3.0,72.0,2016.0
+Camryn Bynum,25.0,S,17,17.0,200.0,72,California,7/19/1998,2,6.0,Minnesota Vikings,Minnesota Vikings,4.0,125.0,2021.0
+Andre Carter II,23.0,OLB,12,0.0,257.0,78,Army,6/2/2000,0,1.0,Minnesota Vikings,,,,
+Ty Chandler,25.0,RB,17,4.0,204.0,71,"Tennessee,North Carolina",5/12/1998,1,4.0,Minnesota Vikings,Minnesota Vikings,5.0,169.0,2022.0
+Lewis Cine,24.0,S,7,0.0,199.0,74,Georgia,10/5/1999,1,0.0,Minnesota Vikings,Minnesota Vikings,1.0,32.0,2022.0
+Ezra Cleveland,25.0,LG,6,6.0,312.0,78,Boise St.,5/8/1998,3,2.0,Minnesota Vikings,Minnesota Vikings,2.0,58.0,2020.0
+Kirk Cousins,35.0,QB,8,8.0,205.0,75,Michigan St.,8/19/1988,11,7.0,Minnesota Vikings,Washington Redskins,4.0,102.0,2012.0
+Christian Darrisaw,24.0,T,15,15.0,315.0,77,Virginia Tech,6/2/1999,2,7.0,Minnesota Vikings,Minnesota Vikings,1.0,23.0,2021.0
+Marcus Davenport,27.0,DL,4,3.0,285.0,78,Texas-San Antonio,9/4/1996,5,2.0,Minnesota Vikings,New Orleans Saints,1.0,14.0,2018.0
+Sheldon Day,29.0,DL,6,1.0,285.0,73,Notre Dame,7/1/1994,7,1.0,Minnesota Vikings,Jacksonville Jaguars,4.0,103.0,2016.0
+Andrew DePaola,36.0,LS,17,0.0,229.0,73,Rutgers,7/28/1987,9,2.0,Minnesota Vikings,,,,
+Joshua Dobbs,28.0,QB,5,4.0,220.0,75,Tennessee,1/26/1995,5,1.0,Minnesota Vikings,Pittsburgh Steelers,4.0,135.0,2017.0
+Troy Dye,27.0,LB,15,2.0,225.0,75,Oregon,9/18/1996,3,2.0,Minnesota Vikings,Minnesota Vikings,4.0,132.0,2020.0
+Akayleb Evans,24.0,CB,15,15.0,198.0,74,"Tulsa,Missouri",6/22/1999,1,5.0,Minnesota Vikings,Minnesota Vikings,4.0,118.0,2022.0
+Myles Gaskin,26.0,RB,2,0.0,199.0,69,Washington,2/15/1997,4,0.0,Minnesota Vikings,Miami Dolphins,7.0,234.0,2019.0
+Jaren Hall,25.0,QB,3,2.0,207.0,72,BYU,3/24/1998,0,1.0,Minnesota Vikings,Minnesota Vikings,5.0,164.0,2023.0
+C.J. Ham,30.0,FB,17,5.0,250.0,71,Augustana (SD),7/22/1993,6,0.0,Minnesota Vikings,,,,
+N'Keal Harry,26.0,WR,9,0.0,225.0,76,Arizona St.,12/17/1997,4,0.0,Minnesota Vikings,New England Patriots,1.0,32.0,2019.0
+Jordan Hicks,31.0,LB,13,13.0,235.0,73,Texas,6/27/1992,8,7.0,Minnesota Vikings,Philadelphia Eagles,3.0,84.0,2015.0
+T.J. Hockenson,26.0,TE,15,11.0,248.0,77,Iowa,7/3/1997,4,7.0,Minnesota Vikings,Detroit Lions,1.0,8.0,2019.0
+Danielle Hunter,29.0,OLB,17,17.0,263.0,77,LSU,10/29/1994,8,12.0,Minnesota Vikings,Minnesota Vikings,3.0,88.0,2015.0
+Ed Ingram,24.0,G,15,15.0,307.0,75,LSU,2/11/1999,1,6.0,Minnesota Vikings,Minnesota Vikings,2.0,59.0,2022.0
+Lucky Jackson,26.0,WR,3,0.0,186.0,72,Western Kentucky,7/17/1997,1,0.0,Minnesota Vikings,,,,
+Theo Jackson,25.0,S,15,0.0,198.0,73,Tennessee,10/2/1998,1,1.0,Minnesota Vikings,Tennessee Titans,6.0,204.0,2022.0
+Trishton Jackson,25.0,WR,7,0.0,200.0,73,"Michigan St.,Syracuse",3/9/1998,1,0.0,Minnesota Vikings,,,,
+Justin Jefferson,24.0,WR,10,9.0,195.0,73,LSU,6/16/1999,3,8.0,Minnesota Vikings,Minnesota Vikings,1.0,22.0,2020.0
+Patrick Jones II,25.0,OLB,17,4.0,264.0,76,Pittsburgh,9/29/1998,2,3.0,Minnesota Vikings,Minnesota Vikings,3.0,90.0,2021.0
+Greg Joseph,29.0,K,17,0.0,206.0,72,Florida Atlantic,8/4/1994,5,2.0,Minnesota Vikings,,,,
+Dean Lowry,29.0,DL,9,4.0,296.0,78,Northwestern,6/9/1994,7,3.0,Minnesota Vikings,Green Bay Packers,4.0,137.0,2016.0
+Alexander Mattison,25.0,RB,16,13.0,220.0,71,Boise St.,6/19/1998,4,5.0,Minnesota Vikings,Minnesota Vikings,3.0,102.0,2019.0
+Josh Metellus,25.0,S,17,17.0,207.0,71,Michigan,1/21/1998,3,6.0,Minnesota Vikings,Minnesota Vikings,6.0,205.0,2020.0
+Nick Mullens,28.0,QB,5,3.0,210.0,72,Southern Miss,3/21/1995,5,4.0,Minnesota Vikings,,,,
+Johnny Mundt,29.0,TE,17,0.0,243.0,76,Oregon,11/23/1994,6,1.0,Minnesota Vikings,,,,
+Byron Murphy,25.0,CB,14,14.0,190.0,71,Washington,1/18/1998,4,5.0,Minnesota Vikings,Arizona Cardinals,2.0,33.0,2019.0
+Nick Muse,25.0,TE,2,0.0,252.0,77,"William & Mary,South Carolina",11/25/1998,1,0.0,Minnesota Vikings,Minnesota Vikings,7.0,227.0,2022.0
+Jalen Nailor,24.0,WR,6,1.0,190.0,71,Michigan St.,3/2/1999,1,0.0,Minnesota Vikings,Minnesota Vikings,6.0,191.0,2022.0
+Kene Nwangwu,25.0,RB,9,0.0,210.0,73,Iowa St.,2/9/1998,2,0.0,Minnesota Vikings,Minnesota Vikings,4.0,119.0,2021.0
+Brian O'Neill,28.0,T,14,14.0,310.0,79,Pittsburgh,9/15/1995,5,7.0,Minnesota Vikings,Minnesota Vikings,2.0,62.0,2018.0
+Josh Oliver,26.0,TE,17,14.0,259.0,77,San Jose St.,3/21/1997,4,2.0,Minnesota Vikings,Jacksonville Jaguars,3.0,69.0,2019.0
+K.J. Osborn,26.0,WR,16,12.0,203.0,71,"Buffalo,Miami (FL)",6/10/1997,3,4.0,Minnesota Vikings,Minnesota Vikings,5.0,176.0,2020.0
+Ivan Pace,23.0,LB,17,11.0,231.0,70,"Miami (OH),Cincinnati",12/16/2000,0,6.0,Minnesota Vikings,,,,
+Harrison Phillips,27.0,DL,17,17.0,307.0,75,Stanford,1/25/1996,5,8.0,Minnesota Vikings,Buffalo Bills,3.0,96.0,2018.0
+Brandon Powell,28.0,WR,17,2.0,181.0,68,Florida,9/12/1995,5,3.0,Minnesota Vikings,,,,
+David Quessenberry,33.0,T,16,4.0,306.0,77,San Jose St.,8/24/1990,6,3.0,Minnesota Vikings,Houston Texans,6.0,176.0,2013.0
+Chris Reed,31.0,OL,2,0.0,314.0,75,Minnesota St.,7/22/1992,7,0.0,Minnesota Vikings,,,,
+Dalton Risner,28.0,G,15,11.0,312.0,77,Kansas St.,7/13/1995,4,5.0,Minnesota Vikings,Denver Broncos,2.0,41.0,2019.0
+Jaquelin Roy,23.0,DL,12,1.0,305.0,75,LSU,10/22/2000,0,1.0,Minnesota Vikings,Minnesota Vikings,5.0,141.0,2023.0
+Austin Schlottmann,28.0,OL,9,3.0,300.0,78,TCU,9/18/1995,4,2.0,Minnesota Vikings,,,,
+Harrison Smith,34.0,S,17,17.0,211.0,74,Notre Dame,2/2/1989,11,5.0,Minnesota Vikings,Minnesota Vikings,1.0,29.0,2012.0
+T.J. Smith,26.0,DL,2,0.0,300.0,75,Arkansas,4/19/1997,2,0.0,Minnesota Vikings,,,,
+NaJee Thompson,23.0,CB,15,0.0,205.0,71,Georgia Southern,7/7/2000,0,1.0,Minnesota Vikings,,,,
+Khyiris Tonga,27.0,DL,14,2.0,335.0,74,BYU,7/7/1996,2,2.0,Minnesota Vikings,Chicago Bears,7.0,250.0,2021.0
+Oli Udoh,26.0,T,2,1.0,320.0,78,Elon,2/14/1997,4,0.0,Minnesota Vikings,Minnesota Vikings,6.0,193.0,2019.0
+Nick Vigil,30.0,LB,8,0.0,239.0,74,Utah St.,8/20/1993,7,1.0,Minnesota Vikings,Cincinnati Bengals,3.0,87.0,2016.0
+Luiji Vilain,25.0,LB,1,0.0,252.0,76,"Michigan,Wake Forest",3/10/1998,1,0.0,Minnesota Vikings,,,,
+Jay Ward,23.0,S,17,0.0,188.0,73,LSU,7/13/2000,0,1.0,Minnesota Vikings,Minnesota Vikings,4.0,134.0,2023.0
+Benton Whitley,24.0,LB,1,0.0,255.0,76,Holy Cross,2/12/1999,1,0.0,Minnesota Vikings,,,,
+Jaylin Williams,23.0,CB,3,0.0,195.0,70,Indiana,2/26/2000,0,0.0,Minnesota Vikings,,,,
+Joejuan Williams,26.0,CB,2,0.0,212.0,75,Vanderbilt,12/6/1997,4,0.0,Minnesota Vikings,New England Patriots,2.0,45.0,2019.0
+D.J. Wonnum,26.0,OLB,15,14.0,258.0,77,South Carolina,10/31/1997,3,8.0,Minnesota Vikings,Minnesota Vikings,4.0,117.0,2020.0
+Ryan Wright,23.0,P,17,0.0,245.0,75,Tulane,6/1/2000,1,2.0,Minnesota Vikings,,,,

@@ -1,0 +1,167 @@
+Quarter,Time,Down,ToGo,Location,GNB,TAM,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Buccaneers won the coin toss, Buccaneers to receive the opening kickoff.",,,3.0,2022,46
+1.0,15:00,,,GNB 35,0.0,0.0,"Mason Crosby kicks off 65 yards, touchback.",0.0,0.61,3.0,2022,46
+1.0,15:00,1.0,10.0,TAM 25,0.0,0.0,Tom Brady pass complete deep left to Breshad Perriman for 24 yards (tackle by Rasul Douglas),0.61,2.19,3.0,2022,46
+1.0,14:21,1.0,10.0,TAM 49,0.0,0.0,Leonard Fournette left tackle for 5 yards (tackle by Quay Walker),2.19,2.32,3.0,2022,46
+1.0,13:49,2.0,5.0,GNB 46,0.0,0.0,Leonard Fournette right end for 4 yards (tackle by Rashan Gary and De'Vondre Campbell),2.32,2.15,3.0,2022,46
+1.0,13:17,3.0,1.0,GNB 42,0.0,0.0,Leonard Fournette right guard for no gain (tackle by Kenny Clark),2.15,0.46,3.0,2022,46
+1.0,12:38,4.0,1.0,GNB 42,0.0,0.0,Tom Brady pass complete short left to Cole Beasley for 4 yards (tackle by Rasul Douglas),0.46,3.05,3.0,2022,46
+1.0,12:00,1.0,10.0,GNB 38,0.0,0.0,Tom Brady pass complete short left to Kyle Rudolph for 12 yards,3.05,3.84,3.0,2022,46
+1.0,11:25,1.0,10.0,GNB 26,0.0,0.0,Leonard Fournette right tackle for 6 yards (tackle by Quay Walker and De'Vondre Campbell),3.84,4.11,3.0,2022,46
+1.0,10:41,2.0,4.0,GNB 20,0.0,0.0,Tom Brady pass complete short right to Leonard Fournette for -1 yards (tackle by De'Vondre Campbell),4.11,3.27,3.0,2022,46
+1.0,9:58,3.0,5.0,GNB 21,0.0,0.0,Tom Brady sacked by Kenny Clark for -6 yards,3.27,1.67,3.0,2022,46
+1.0,9:10,4.0,11.0,GNB 27,0.0,3.0,Ryan Succop 45 yard field goal good,1.67,3.0,3.0,2022,46
+1.0,9:05,,,TAM 35,0.0,3.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,3.0,2022,46
+1.0,9:05,1.0,10.0,GNB 25,0.0,3.0,Aaron Jones up the middle for 3 yards (tackle by Shaquil Barrett),0.61,0.47,3.0,2022,46
+1.0,8:29,2.0,7.0,GNB 28,0.0,3.0,Aaron Jones left tackle for 10 yards (tackle by Jamel Dean),0.47,1.47,3.0,2022,46
+1.0,8:02,1.0,10.0,GNB 38,0.0,3.0,Aaron Rodgers pass complete short right to Aaron Jones for 8 yards (tackle by Carlton Davis),1.47,2.0,3.0,2022,46
+1.0,7:25,2.0,2.0,GNB 46,0.0,3.0,"Aaron Rodgers pass complete to Romeo Doubs for 21 yards. Romeo Doubs fumbles (forced by Carlton Davis) (tackle by Carlton Davis and Jamel Dean), recovered by Romeo Doubs at TB-33",2.0,3.38,3.0,2022,46
+1.0,6:39,1.0,10.0,TAM 33,0.0,3.0,AJ Dillon up the middle for 4 yards (tackle by Devin White),3.38,3.38,3.0,2022,46
+1.0,6:01,2.0,6.0,TAM 29,0.0,3.0,AJ Dillon left guard for no gain (tackle by Rakeem Nunez-Roches),3.38,2.68,3.0,2022,46
+1.0,5:19,3.0,6.0,TAM 29,0.0,3.0,Aaron Rodgers pass complete short right to Randall Cobb for 17 yards (tackle by Mike Edwards),2.68,4.78,3.0,2022,46
+1.0,4:36,1.0,10.0,TAM 12,0.0,3.0,Aaron Jones right end for -2 yards (tackle by Carlton Davis and Lavonte David),4.78,3.79,3.0,2022,46
+1.0,3:52,2.0,12.0,TAM 14,0.0,3.0,Aaron Rodgers pass complete short left to Romeo Doubs for 9 yards (tackle by Jamel Dean),3.79,4.61,3.0,2022,46
+1.0,3:07,3.0,3.0,TAM 5,6.0,3.0,"Aaron Rodgers pass complete short right to Romeo Doubs for 5 yards, touchdown",4.61,7.0,3.0,2022,46
+1.0,3:01,,,TAM 15,7.0,3.0,Mason Crosby kicks extra point good,0.0,0.0,3.0,2022,46
+1.0,3:01,,,GNB 35,7.0,3.0,"Mason Crosby kicks off 62 yards, returned by Rachaad White for 20 yards (tackle by Keisean Nixon)",0.0,0.48,3.0,2022,46
+1.0,2:56,1.0,10.0,TAM 23,7.0,3.0,"Leonard Fournette right guard for no gain (tackle by Jonathan Garvin and Quay Walker). Penalty on Shaq Mason: Offensive Holding, 10 yards (accepted) (no play)",0.48,-0.59,3.0,2022,46
+1.0,2:36,1.0,20.0,TAM 13,7.0,3.0,Leonard Fournette up the middle for no gain (tackle by Dean Lowry),-0.59,-1.5,3.0,2022,46
+1.0,2:01,2.0,20.0,TAM 13,7.0,3.0,Tom Brady pass complete short right to Russell Gage for 8 yards,-1.5,-1.02,3.0,2022,46
+1.0,1:23,3.0,12.0,TAM 21,7.0,3.0,Tom Brady pass complete short middle to Breshad Perriman for 6 yards (tackle by Eric Stokes),-1.02,-1.57,3.0,2022,46
+1.0,0:42,4.0,6.0,TAM 27,7.0,3.0,"Jake Camarda punts 44 yards, fair catch by Amari Rodgers at GB-29",-1.57,-0.87,3.0,2022,46
+1.0,0:33,1.0,10.0,GNB 29,7.0,3.0,Aaron Jones right end for 3 yards (tackle by William Gholston),0.87,0.73,3.0,2022,46
+2.0,15:00,2.0,7.0,GNB 32,7.0,3.0,Aaron Rodgers pass complete short left to AJ Dillon for -1 yards (tackle by Jamel Dean and Mike Edwards),0.73,-0.1,3.0,2022,46
+2.0,14:12,,,,,,Timeout #1 by Green Bay Packers,,,3.0,2022,46
+2.0,14:12,3.0,8.0,GNB 31,7.0,3.0,Aaron Rodgers pass complete short middle to Robert Tonyan for 9 yards (tackle by Keanu Neal),-0.1,1.6,3.0,2022,46
+2.0,13:32,1.0,10.0,GNB 40,7.0,3.0,Aaron Rodgers pass complete short right to Romeo Doubs for 9 yards (tackle by Antoine Winfield),1.6,2.27,3.0,2022,46
+2.0,12:50,,,,,,Timeout #2 by Green Bay Packers,,,3.0,2022,46
+2.0,12:50,2.0,1.0,GNB 49,7.0,3.0,AJ Dillon up the middle for 3 yards (tackle by Carl Nassib),2.27,2.39,3.0,2022,46
+2.0,12:10,1.0,10.0,TAM 48,7.0,3.0,Aaron Rodgers pass incomplete short left intended for Aaron Jones,2.39,1.85,3.0,2022,46
+2.0,12:06,2.0,10.0,TAM 48,7.0,3.0,AJ Dillon up the middle for 3 yards (tackle by Anthony Nelson),1.85,1.55,3.0,2022,46
+2.0,11:47,,,,,,Timeout #1 by Tampa Bay Buccaneers,,,3.0,2022,46
+2.0,11:47,3.0,7.0,TAM 45,7.0,3.0,Aaron Rodgers pass complete short left to Allen Lazard for 7 yards (tackle by Mike Edwards),1.55,3.05,3.0,2022,46
+2.0,11:04,1.0,10.0,TAM 38,7.0,3.0,Aaron Jones right end for 2 yards (tackle by Devin White),3.05,2.78,3.0,2022,46
+2.0,10:22,2.0,8.0,TAM 36,7.0,3.0,Aaron Rodgers pass complete short middle to AJ Dillon for 7 yards (tackle by Devin White),2.78,3.01,3.0,2022,46
+2.0,9:40,3.0,1.0,TAM 29,7.0,3.0,Aaron Rodgers pass complete short left to Tyler Davis for 23 yards (tackle by Antoine Winfield),3.01,5.83,3.0,2022,46
+2.0,8:47,1.0,6.0,TAM 6,13.0,3.0,"Aaron Rodgers pass complete short right to Allen Lazard for 6 yards, touchdown",5.83,7.0,3.0,2022,46
+2.0,8:44,,,TAM 15,14.0,3.0,Mason Crosby kicks extra point good,0.0,0.0,3.0,2022,46
+2.0,8:44,,,GNB 35,14.0,3.0,"Mason Crosby kicks off 65 yards, touchback.",0.0,0.61,3.0,2022,46
+2.0,8:44,1.0,10.0,TAM 25,14.0,3.0,Tom Brady pass complete short left to Russell Gage for 3 yards (tackle by Rasul Douglas),0.61,0.47,3.0,2022,46
+2.0,8:11,2.0,7.0,TAM 28,14.0,3.0,"Penalty on Scott Miller: False Start, 5 yards (accepted) (no play)",0.47,-0.21,3.0,2022,46
+2.0,7:56,2.0,12.0,TAM 23,14.0,3.0,Tom Brady pass complete short middle to Cameron Brate for 5 yards (tackle by Rasul Douglas),-0.21,-0.23,3.0,2022,46
+2.0,7:18,3.0,7.0,TAM 28,14.0,3.0,"Penalty on Brandon Walton: False Start, 5 yards (accepted) (no play)",-0.23,-0.89,3.0,2022,46
+2.0,7:00,3.0,12.0,TAM 23,14.0,3.0,Tom Brady sacked by Rashan Gary for -6 yards,-0.89,-2.32,3.0,2022,46
+2.0,6:11,4.0,18.0,TAM 17,14.0,3.0,"Jake Camarda punts 52 yards, returned by Amari Rodgers for 7 yards (tackle by Ko Kieft)",-2.32,-1.47,3.0,2022,46
+2.0,5:57,1.0,10.0,GNB 38,14.0,3.0,Aaron Rodgers pass complete short left to Randall Cobb for 40 yards (tackle by Carlton Davis),1.47,4.11,3.0,2022,46
+2.0,5:10,1.0,10.0,TAM 22,14.0,3.0,AJ Dillon right guard for 6 yards (tackle by Lavonte David),4.11,4.46,3.0,2022,46
+2.0,4:25,2.0,4.0,TAM 16,14.0,3.0,AJ Dillon right tackle for 7 yards (tackle by Carlton Davis and Devin White),4.46,5.14,3.0,2022,46
+2.0,3:39,1.0,9.0,TAM 9,14.0,3.0,Aaron Jones right end for 2 yards (tackle by Rakeem Nunez-Roches and Vita Vea),5.14,4.76,3.0,2022,46
+2.0,2:55,2.0,7.0,TAM 7,14.0,3.0,AJ Dillon up the middle for 2 yards (tackle by Shaquil Barrett),4.76,4.26,3.0,2022,46
+2.0,2:13,3.0,5.0,TAM 5,14.0,3.0,"Aaron Rodgers pass complete short middle to Aaron Jones for 3 yards. Aaron Jones fumbles (forced by Vita Vea), recovered by Logan Ryan in end zone",4.26,-0.28,3.0,2022,46
+2.0,2:02,1.0,10.0,TAM 20,14.0,3.0,"Tom Brady pass complete short left to Leonard Fournette for no gain (tackle by Adrian Amos). Penalty on Rasul Douglas: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",0.28,0.61,3.0,2022,46
+2.0,1:59,1.0,10.0,TAM 25,14.0,3.0,Tom Brady pass complete short right to Russell Gage for 5 yards (tackle by Keisean Nixon),0.61,0.74,3.0,2022,46
+2.0,1:43,2.0,5.0,TAM 30,14.0,3.0,Tom Brady pass complete short right to Cameron Brate for 6 yards (tackle by De'Vondre Campbell),0.74,1.33,3.0,2022,46
+2.0,1:31,1.0,10.0,TAM 36,14.0,3.0,Tom Brady pass complete short right to Russell Gage for 12 yards (tackle by De'Vondre Campbell),1.33,2.13,3.0,2022,46
+2.0,1:18,1.0,10.0,TAM 48,14.0,3.0,Tom Brady pass complete short left to Leonard Fournette for 12 yards (tackle by Rasul Douglas),2.13,2.92,3.0,2022,46
+2.0,0:57,1.0,10.0,GNB 40,14.0,3.0,Tom Brady pass incomplete short left intended for Scott Miller (defended by Rasul Douglas),2.92,2.37,3.0,2022,46
+2.0,0:51,2.0,10.0,GNB 40,14.0,3.0,"Tom Brady pass complete to Breshad Perriman for 14 yards. Breshad Perriman fumbles (forced by Quay Walker), recovered by Darnell Savage at GB-25 and returned for 2 yards (tackle by Leonard Fournette)",2.37,-0.74,3.0,2022,46
+2.0,0:41,1.0,10.0,GNB 27,14.0,3.0,Aaron Rodgers pass complete short middle to Robert Tonyan for 8 yards (tackle by Mike Edwards),0.74,1.28,3.0,2022,46
+2.0,0:23,2.0,2.0,GNB 35,14.0,3.0,Aaron Rodgers pass incomplete short right,1.28,0.56,3.0,2022,46
+2.0,0:19,3.0,2.0,GNB 35,14.0,3.0,Aaron Rodgers pass incomplete deep right intended for Allen Lazard,0.56,-1.04,3.0,2022,46
+2.0,0:14,4.0,2.0,GNB 35,14.0,3.0,"Pat O'Donnell punts 52 yards, returned by Jaelon Darden for no gain (tackle by Rudy Ford)",-1.04,0.32,3.0,2022,46
+2.0,0:06,1.0,10.0,TAM 13,14.0,3.0,Tom Brady kneels for -1 yards,-0.32,-0.85,3.0,2022,46
+3.0,15:00,,,TAM 35,14.0,3.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,3.0,2022,46
+3.0,15:00,1.0,10.0,GNB 25,14.0,3.0,"Aaron Rodgers pass complete short right to Romeo Doubs for 8 yards (tackle by Mike Edwards). Penalty on Allen Lazard: Offensive Illegal Block Above the Waist, 10 yards (accepted)",0.61,0.48,3.0,2022,46
+3.0,14:18,1.0,12.0,GNB 23,14.0,3.0,Aaron Rodgers pass complete short right to Romeo Doubs for 3 yards (tackle by Carlton Davis),0.48,0.2,3.0,2022,46
+3.0,13:49,2.0,9.0,GNB 26,14.0,3.0,Aaron Jones left end for 6 yards (tackle by Mike Edwards),0.2,0.3,3.0,2022,46
+3.0,13:07,3.0,3.0,GNB 32,14.0,3.0,Aaron Rodgers pass incomplete short left intended for AJ Dillon,0.3,-1.24,3.0,2022,46
+3.0,12:57,4.0,3.0,GNB 32,14.0,3.0,"Pat O'Donnell punts 57 yards, returned by Jaelon Darden for 10 yards (tackle by Dallin Leavitt and Tipa Galeai)",-1.24,-0.34,3.0,2022,46
+3.0,12:46,1.0,10.0,TAM 21,14.0,3.0,Leonard Fournette right tackle for 6 yards (tackle by Quay Walker),0.34,0.61,3.0,2022,46
+3.0,12:21,2.0,4.0,TAM 27,14.0,3.0,Leonard Fournette right tackle for 3 yards (tackle by Adrian Amos and Kenny Clark),0.61,0.3,3.0,2022,46
+3.0,12:01,3.0,1.0,TAM 30,14.0,3.0,Leonard Fournette up the middle for 3 yards (tackle by Quay Walker and De'Vondre Campbell),0.3,1.14,3.0,2022,46
+3.0,11:36,1.0,10.0,TAM 33,14.0,3.0,"Tom Brady pass incomplete short right intended for Cameron Brate. Penalty on Darnell Savage: Defensive Pass Interference, 13 yards (accepted) (no play)",1.14,1.99,3.0,2022,46
+3.0,11:31,1.0,10.0,TAM 46,14.0,3.0,Tom Brady pass incomplete short left intended for Scott Miller (defended by Rasul Douglas),1.99,1.45,3.0,2022,46
+3.0,11:25,2.0,10.0,TAM 46,14.0,3.0,"Tom Brady pass complete short right to Russell Gage for 4 yards. Russell Gage fumbles (forced by Keisean Nixon), recovered by Jarran Reed at 50",1.45,-2.26,3.0,2022,46
+3.0,11:18,1.0,10.0,TAM 50,14.0,3.0,Aaron Rodgers pass complete short left to Romeo Doubs for 3 yards (tackle by Jamel Dean),2.26,2.12,3.0,2022,46
+3.0,10:50,2.0,7.0,TAM 47,14.0,3.0,Aaron Rodgers pass complete short right to Robert Tonyan for 3 yards (tackle by Antoine Winfield),2.12,1.82,3.0,2022,46
+3.0,10:08,3.0,4.0,TAM 44,14.0,3.0,"Aaron Rodgers pass incomplete short right intended for Juwann Winfree Penalty on GNB: Illegal Shift, 5 yards (declined)",1.82,0.33,3.0,2022,46
+3.0,10:08,4.0,4.0,TAM 44,14.0,3.0,Pat O'Donnell punts 42 yards downed by Keisean Nixon,0.33,0.38,3.0,2022,46
+3.0,10:00,1.0,10.0,TAM 2,14.0,3.0,Tom Brady pass incomplete short left intended for Leonard Fournette,-0.38,-0.78,3.0,2022,46
+3.0,9:58,2.0,10.0,TAM 2,14.0,3.0,Tom Brady pass incomplete short middle intended for Russell Gage,-0.78,-1.42,3.0,2022,46
+3.0,9:54,3.0,10.0,TAM 2,14.0,3.0,Tom Brady pass incomplete short middle intended for Cole Beasley,-1.42,-2.49,3.0,2022,46
+3.0,9:50,4.0,10.0,TAM 2,14.0,3.0,"Jake Camarda punts, returned by Amari Rodgers for no gain (tackle by Keanu Neal). Penalty on Tipa Galeai: Running Into the Kicker, 5 yards (accepted) (no play)",-2.49,-2.49,3.0,2022,46
+3.0,9:38,4.0,5.0,TAM 7,14.0,3.0,"Jake Camarda punts 62 yards, returned by Amari Rodgers for 14 yards (tackle by Keanu Neal). Penalty on Rudy Ford: Offensive Illegal Block Above the Waist, 10 yards (accepted)",-2.49,-1.27,3.0,2022,46
+3.0,9:26,1.0,10.0,GNB 35,14.0,3.0,AJ Dillon left guard for 2 yards (tackle by Mike Edwards and Shaquil Barrett),1.27,0.99,3.0,2022,46
+3.0,8:43,2.0,8.0,GNB 37,14.0,3.0,Aaron Jones left end for 3 yards (tackle by Mike Edwards and Shaquil Barrett),0.99,0.7,3.0,2022,46
+3.0,7:59,3.0,5.0,GNB 40,14.0,3.0,Aaron Rodgers pass short middle intended for Robert Tonyan is intercepted by Logan Ryan at GB-47 and returned for no gain (tackle by Allen Lazard),0.7,-2.46,3.0,2022,46
+3.0,7:52,1.0,10.0,GNB 47,14.0,3.0,Tom Brady pass complete short right to Cameron Brate for 19 yards,2.46,3.71,3.0,2022,46
+3.0,7:12,1.0,10.0,GNB 28,14.0,3.0,Tom Brady pass incomplete short middle intended for Scott Miller,3.71,3.17,3.0,2022,46
+3.0,7:08,2.0,10.0,GNB 28,14.0,3.0,Leonard Fournette left guard for 1 yard (tackle by De'Vondre Campbell and Dean Lowry),3.17,2.61,3.0,2022,46
+3.0,6:34,3.0,9.0,GNB 27,14.0,3.0,Tom Brady pass incomplete deep middle intended for Breshad Perriman,2.61,1.67,3.0,2022,46
+3.0,6:27,4.0,9.0,GNB 27,14.0,6.0,Ryan Succop 45 yard field goal good,1.67,3.0,3.0,2022,46
+3.0,6:22,,,TAM 35,14.0,6.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,3.0,2022,46
+3.0,6:22,1.0,10.0,GNB 25,14.0,6.0,Aaron Rodgers pass complete short left to Romeo Doubs for 15 yards (tackle by Jamel Dean),0.61,1.6,3.0,2022,46
+3.0,5:45,1.0,10.0,GNB 40,14.0,6.0,Aaron Jones right end for -1 yards (tackle by Mike Edwards),1.6,0.92,3.0,2022,46
+3.0,5:01,2.0,11.0,GNB 39,14.0,6.0,Aaron Rodgers pass complete short middle to Robert Tonyan for 4 yards (tackle by Mike Edwards and Devin White),0.92,0.76,3.0,2022,46
+3.0,4:19,3.0,7.0,GNB 43,14.0,6.0,Aaron Rodgers pass complete short right to Aaron Jones for no gain (tackle by Lavonte David),0.76,-0.52,3.0,2022,46
+3.0,3:37,4.0,7.0,GNB 43,14.0,6.0,"Pat O'Donnell punts 46 yards, fair catch by Jaelon Darden at TB-11",-0.52,0.37,3.0,2022,46
+3.0,3:29,1.0,10.0,TAM 11,14.0,6.0,Leonard Fournette right tackle for 5 yards (tackle by Jarran Reed),-0.37,-0.3,3.0,2022,46
+3.0,2:59,2.0,5.0,TAM 16,14.0,6.0,Tom Brady pass complete short middle to Russell Gage for 7 yards (tackle by Darnell Savage),-0.3,0.48,3.0,2022,46
+3.0,2:32,1.0,10.0,TAM 23,14.0,6.0,Tom Brady pass complete short left to Leonard Fournette for -3 yards (tackle by Adrian Amos),0.48,-0.47,3.0,2022,46
+3.0,1:53,2.0,13.0,TAM 20,14.0,6.0,Tom Brady pass complete short right to Russell Gage for 10 yards (tackle by De'Vondre Campbell),-0.47,0.17,3.0,2022,46
+3.0,1:08,3.0,3.0,TAM 30,14.0,6.0,"Tom Brady scrambles up the middle for no gain (tackle by Quay Walker). Penalty on Brandon Walton: Offensive Holding, 10 yards (accepted) (no play)",0.17,-1.15,3.0,2022,46
+3.0,0:48,3.0,13.0,TAM 20,14.0,6.0,Tom Brady pass incomplete short middle,-1.15,-2.03,3.0,2022,46
+3.0,0:45,4.0,13.0,TAM 20,14.0,6.0,Jake Camarda punts 36 yards downed by Kenny Young,-2.03,-1.86,3.0,2022,46
+3.0,0:35,1.0,10.0,GNB 44,14.0,6.0,AJ Dillon up the middle for 2 yards (tackle by Deadrin Senat),1.86,1.59,3.0,2022,46
+4.0,15:00,2.0,8.0,GNB 46,14.0,6.0,Aaron Rodgers pass complete short right to Robert Tonyan for 6 yards (tackle by Shaquil Barrett),1.59,1.69,3.0,2022,46
+4.0,14:13,3.0,2.0,TAM 48,14.0,6.0,Aaron Jones right guard for -2 yards (tackle by Joe Tryon-Shoyinka),1.69,-0.06,3.0,2022,46
+4.0,13:24,4.0,4.0,TAM 50,14.0,6.0,"Penalty on GNB: Delay of Game, 5 yards (accepted) (no play)",-0.06,-0.39,3.0,2022,46
+4.0,13:24,4.0,9.0,GNB 45,14.0,6.0,"Pat O'Donnell punts 41 yards, fair catch by Jaelon Darden at TB-14",-0.39,0.28,3.0,2022,46
+4.0,13:17,1.0,10.0,TAM 14,14.0,6.0,Leonard Fournette up the middle for no gain (tackle by Rashan Gary),-0.28,-0.75,3.0,2022,46
+4.0,12:45,2.0,10.0,TAM 14,14.0,6.0,Tom Brady pass complete short right to Cole Beasley for 3 yards,-0.75,-1.04,3.0,2022,46
+4.0,12:08,3.0,7.0,TAM 17,14.0,6.0,Tom Brady pass complete short left to Cole Beasley for 5 yards (tackle by Rasul Douglas),-1.04,-1.9,3.0,2022,46
+4.0,11:27,4.0,2.0,TAM 22,14.0,6.0,"Jake Camarda punts 58 yards, fair catch by Amari Rodgers at GB-20",-1.9,-0.28,3.0,2022,46
+4.0,11:18,1.0,10.0,GNB 20,14.0,6.0,"AJ Dillon up the middle for 2 yards (tackle by Mike Edwards and Lavonte David). Penalty on Allen Lazard: Offensive Holding, 10 yards (accepted)",0.28,-0.6,3.0,2022,46
+4.0,10:45,1.0,18.0,GNB 12,14.0,6.0,AJ Dillon right end for 1 yard (tackle by Deadrin Senat),-0.6,-1.28,3.0,2022,46
+4.0,10:32,2.0,17.0,GNB 13,14.0,6.0,Aaron Rodgers pass deep middle is intercepted by Jamel Dean at TB-41 and returned for no gain (tackle by Randall Cobb) (no play),-1.28,-0.63,3.0,2022,46
+4.0,10:22,2.0,12.0,GNB 18,14.0,6.0,Aaron Rodgers pass complete short right to Robert Tonyan for 7 yards (tackle by Mike Edwards and Lavonte David),-0.63,-0.3,3.0,2022,46
+4.0,9:39,3.0,5.0,GNB 25,14.0,6.0,Aaron Rodgers pass complete short middle to Tyler Davis for 3 yards (tackle by Lavonte David),-0.3,-1.5,3.0,2022,46
+4.0,8:54,4.0,2.0,GNB 28,14.0,6.0,"Pat O'Donnell punts 63 yards, returned by Jaelon Darden for 16 yards (tackle by Isaiah McDuffie)",-1.5,-0.61,3.0,2022,46
+4.0,8:40,1.0,10.0,TAM 25,14.0,6.0,Tom Brady pass complete short right to Jaelon Darden for 25 yards (tackle by Keisean Nixon),0.61,2.26,3.0,2022,46
+4.0,8:02,1.0,10.0,TAM 50,14.0,6.0,"Breshad Perriman aborted snap, recovered by Cameron Brate at TB-41",2.26,0.09,3.0,2022,46
+4.0,7:16,2.0,22.0,TAM 38,14.0,6.0,Tom Brady sacked by Kenny Clark for -8 yards,0.09,-1.62,3.0,2022,46
+4.0,6:53,3.0,30.0,TAM 30,14.0,6.0,Tom Brady pass complete to Cameron Brate for 11 yards (tackle by De'Vondre Campbell),-1.62,-0.65,3.0,2022,46
+4.0,6:07,4.0,19.0,TAM 41,14.0,6.0,"Jake Camarda punts 45 yards, fair catch by Amari Rodgers at GB-14",-0.65,0.28,3.0,2022,46
+4.0,5:57,1.0,10.0,GNB 14,14.0,6.0,Aaron Rodgers pass incomplete deep right intended for Allen Lazard,-0.28,-0.75,3.0,2022,46
+4.0,5:50,2.0,10.0,GNB 14,14.0,6.0,Aaron Jones right guard for 6 yards (tackle by Antoine Winfield),-0.75,-0.68,3.0,2022,46
+4.0,5:04,,,,,,Timeout #1 by Green Bay Packers,,,3.0,2022,46
+4.0,5:04,3.0,4.0,GNB 20,14.0,6.0,Aaron Rodgers pass complete short right to Allen Lazard for 6 yards (tackle by Antoine Winfield),-0.68,0.67,3.0,2022,46
+4.0,4:22,1.0,10.0,GNB 26,14.0,6.0,Aaron Jones right guard for 6 yards (tackle by Mike Edwards),0.67,0.94,3.0,2022,46
+4.0,3:37,2.0,4.0,GNB 32,14.0,6.0,Aaron Rodgers pass complete deep right to Allen Lazard for 26 yards (tackle by Antoine Winfield),0.94,2.79,3.0,2022,46
+4.0,3:29,1.0,10.0,TAM 42,14.0,6.0,AJ Dillon right guard for no gain (tackle by William Gholston and Rakeem Nunez-Roches),2.79,2.24,3.0,2022,46
+4.0,3:24,,,,,,Timeout #1 by Tampa Bay Buccaneers,,,3.0,2022,46
+4.0,3:24,2.0,10.0,TAM 42,14.0,6.0,Aaron Rodgers pass incomplete deep right intended for Juwann Winfree,2.24,1.55,3.0,2022,46
+4.0,3:18,,,,,,Timeout #2 by Green Bay Packers,,,3.0,2022,46
+4.0,3:18,3.0,10.0,TAM 42,14.0,6.0,Aaron Rodgers sacked by Logan Hall for -7 yards,1.55,0.0,3.0,2022,46
+4.0,3:11,,,,,,Timeout #2 by Tampa Bay Buccaneers,,,3.0,2022,46
+4.0,3:11,4.0,17.0,TAM 49,14.0,6.0,"Pat O'Donnell punts 38 yards, fair catch by Jaelon Darden at TB-11",0.0,0.37,3.0,2022,46
+4.0,3:04,1.0,10.0,TAM 11,14.0,6.0,Tom Brady pass complete short left to Russell Gage for 9 yards (tackle by Keisean Nixon),-0.37,0.36,3.0,2022,46
+4.0,2:40,2.0,1.0,TAM 20,14.0,6.0,Tom Brady pass complete short middle to Russell Gage for 15 yards (tackle by Keisean Nixon),0.36,1.27,3.0,2022,46
+4.0,2:20,1.0,10.0,TAM 35,14.0,6.0,Tom Brady pass complete short middle to Russell Gage for 5 yards (tackle by De'Vondre Campbell),1.27,1.4,3.0,2022,46
+4.0,2:04,2.0,5.0,TAM 40,14.0,6.0,Tom Brady pass complete short left to Leonard Fournette for 17 yards (tackle by De'Vondre Campbell),1.4,2.72,3.0,2022,46
+4.0,1:54,1.0,10.0,GNB 43,14.0,6.0,Tom Brady pass complete short right to Cameron Brate for 11 yards (tackle by De'Vondre Campbell),2.72,3.45,3.0,2022,46
+4.0,1:34,1.0,10.0,GNB 32,14.0,6.0,Tom Brady pass incomplete short left,3.45,2.9,3.0,2022,46
+4.0,1:31,2.0,10.0,GNB 32,14.0,6.0,Tom Brady pass complete short left to Leonard Fournette for 10 yards (tackle by Rasul Douglas),2.9,4.11,3.0,2022,46
+4.0,1:26,1.0,10.0,GNB 22,14.0,6.0,Tom Brady pass complete short right to Scott Miller for 4 yards (tackle by De'Vondre Campbell and Keisean Nixon),4.11,4.13,3.0,2022,46
+4.0,1:02,2.0,6.0,GNB 18,14.0,6.0,Tom Brady pass complete short left to Russell Gage for 8 yards (tackle by Rasul Douglas),4.13,4.91,3.0,2022,46
+4.0,0:34,1.0,10.0,GNB 10,14.0,6.0,Tom Brady pass incomplete short middle intended for Scott Miller (defended by De'Vondre Campbell),4.91,4.19,3.0,2022,46
+4.0,0:30,2.0,10.0,GNB 10,14.0,6.0,"Tom Brady pass incomplete short left intended for Cameron Brate. Penalty on Adrian Amos: Defensive Pass Interference, 7 yards (accepted) (no play)",4.19,6.51,3.0,2022,46
+4.0,0:26,1.0,3.0,GNB 3,14.0,6.0,Leonard Fournette up the middle for 2 yards (tackle by Dean Lowry and De'Vondre Campbell),6.51,5.91,3.0,2022,46
+4.0,0:20,,,,,,Timeout #3 by Tampa Bay Buccaneers,,,3.0,2022,46
+4.0,0:20,,,,,,Timeout #3 by Green Bay Packers,,,3.0,2022,46
+4.0,0:20,2.0,1.0,GNB 1,14.0,6.0,Tom Brady pass incomplete short right intended for Cameron Brate,5.91,5.17,3.0,2022,46
+4.0,0:18,3.0,1.0,GNB 1,14.0,12.0,"Tom Brady pass complete short middle to Russell Gage for 1 yard, touchdown",5.17,7.0,3.0,2022,46
+4.0,0:14,,,GNB 15,14.0,12.0,"Penalty on TAM: Delay of Game, 5 yards (accepted) (no play)",0.0,1.0,3.0,2022,46
+4.0,0:14,1.0,7.0,GNB 7,14.0,12.0,Two Point Attempt: Tom Brady pass incomplete intended for Russell Gage,1.0,-1.0,3.0,2022,46
+4.0,0:14,,,TAM 35,14.0,12.0,"Jake Camarda kicks onside 12 yards, returned by Allen Lazard for 2 yards",0.0,2.59,3.0,2022,46
+4.0,0:13,1.0,10.0,TAM 45,14.0,12.0,Aaron Rodgers kneels for -1 yards,2.59,1.91,3.0,2022,46

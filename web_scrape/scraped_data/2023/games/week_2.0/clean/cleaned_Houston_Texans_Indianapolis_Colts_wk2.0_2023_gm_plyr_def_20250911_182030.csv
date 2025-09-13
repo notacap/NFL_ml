@@ -1,0 +1,41 @@
+Player,Tm,Def Interceptions Int,Def Interceptions Yds,Def Interceptions TD,Def Interceptions Lng,Def Interceptions PD,Sk,Tackles Comb,Tackles Solo,Tackles Ast,Tackles TFL,Tackles QBHits,Fumbles FR,Fumbles Yds,Fumbles TD,Fumbles FF,week,year,game_id
+E.J. Speed,IND,0,0,0,0,0,1.0,6,6,0,2,1,0,0,0,0,2.0,2023,22
+Kwity Paye,IND,0,0,0,0,0,1.0,5,3,2,1,1,1,0,0,0,2.0,2023,22
+DeForest Buckner,IND,0,0,0,0,0,1.0,4,4,0,2,1,0,0,0,0,2.0,2023,22
+Samson Ebukam,IND,0,0,0,0,0,1.0,2,2,0,1,2,0,0,0,0,2.0,2023,22
+Taven Bryan,IND,0,0,0,0,0,1.0,1,1,0,1,1,0,0,0,0,2.0,2023,22
+Jacob Martin,IND,0,0,0,0,0,1.0,1,1,0,1,1,0,0,0,0,2.0,2023,22
+Zaire Franklin,IND,0,0,0,0,0,0.0,13,8,5,1,0,0,0,0,0,2.0,2023,22
+Julian Blackmon,IND,0,0,0,0,0,0.0,10,7,3,0,0,0,0,0,0,2.0,2023,22
+Kenny Moore,IND,0,0,0,0,0,0.0,6,5,1,1,0,0,0,0,0,2.0,2023,22
+Grover Stewart,IND,0,0,0,0,0,0.0,5,2,3,0,1,0,0,0,0,2.0,2023,22
+Shaquille Leonard,IND,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0,2.0,2023,22
+Rodney Thomas II,IND,0,0,0,0,0,0.0,4,4,0,0,0,0,0,0,0,2.0,2023,22
+Darrell Baker,IND,0,0,0,0,1,0.0,3,3,0,0,0,0,0,0,0,2.0,2023,22
+Tyquan Lewis,IND,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,2.0,2023,22
+Tony Brown,IND,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2023,22
+Nick Cross,IND,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2023,22
+Dallis Flowers,IND,0,0,0,0,1,0.0,1,1,0,0,0,0,0,0,0,2.0,2023,22
+Kylen Granson,IND,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2023,22
+Eric Johnson,IND,0,0,0,0,0,0.0,1,0,1,0,1,0,0,0,0,2.0,2023,22
+Dayo Odeyingbo,IND,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,1,2.0,2023,22
+Segun Olubi,IND,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2023,22
+M.J. Stewart,HOU,0,0,0,0,0,0.0,10,6,4,0,0,0,0,0,1,2.0,2023,22
+Denzel Perryman,HOU,0,0,0,0,0,0.0,7,5,2,0,0,0,0,0,0,2.0,2023,22
+Henry To'oTo'o,HOU,0,0,0,0,0,0.0,7,4,3,0,0,0,0,0,0,2.0,2023,22
+Derek Stingley Jr.,HOU,0,0,0,0,0,0.0,6,5,1,0,0,0,0,0,0,2.0,2023,22
+Tavierre Thomas,HOU,0,0,0,0,0,0.0,5,4,1,0,0,0,0,0,0,2.0,2023,22
+Will Anderson,HOU,0,0,0,0,0,0.0,3,2,1,0,1,0,0,0,0,2.0,2023,22
+Jonathan Greenard,HOU,0,0,0,0,0,0.0,3,1,2,0,0,0,0,0,0,2.0,2023,22
+Sheldon Rankins,HOU,0,0,0,0,0,0.0,3,3,0,0,0,0,0,0,0,2.0,2023,22
+DeAndre Houston-Carson,HOU,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,2.0,2023,22
+Jerry Hughes,HOU,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,2.0,2023,22
+Eric Murray,HOU,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,2.0,2023,22
+Steven Nelson,HOU,0,0,0,0,1,0.0,2,2,0,0,0,0,0,0,0,2.0,2023,22
+Grayland Arnold,HOU,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,2.0,2023,22
+Maliek Collins,HOU,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2023,22
+Michael Dogbe,HOU,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,2.0,2023,22
+Christian Harris,HOU,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,2.0,2023,22
+Ka'dar Hollman,HOU,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2023,22
+Tank Dell,HOU,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,0,2.0,2023,22
+C.J. Stroud,HOU,0,0,0,0,0,0.0,0,0,0,0,0,1,-9,0,0,2.0,2023,22

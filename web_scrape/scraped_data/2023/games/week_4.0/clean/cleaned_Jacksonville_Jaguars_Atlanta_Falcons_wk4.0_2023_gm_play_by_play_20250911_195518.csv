@@ -1,0 +1,158 @@
+Quarter,Time,Down,ToGo,Location,ATL,JAX,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Falcons won the coin toss and deferred, Jaguars to receive the opening kickoff.",,,4.0,2023,50
+1.0,15:00,,,ATL 35,0.0,0.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,50
+1.0,15:00,1.0,10.0,JAX 25,0.0,0.0,Travis Etienne right guard for 4 yards (tackle by Grady Jarrett and Calais Campbell),0.61,0.6,4.0,2023,50
+1.0,14:18,2.0,6.0,JAX 29,0.0,0.0,Travis Etienne left guard for 4 yards (tackle by Nathan Landman),0.6,0.43,4.0,2023,50
+1.0,13:39,3.0,2.0,JAX 33,0.0,0.0,Trevor Lawrence pass complete short right to Travis Etienne for 5 yards (tackle by Richie Grant),0.43,1.47,4.0,2023,50
+1.0,13:03,1.0,10.0,JAX 38,0.0,0.0,Tank Bigsby right guard for 2 yards (tackle by Nathan Landman and Calais Campbell),1.47,1.19,4.0,2023,50
+1.0,12:27,2.0,8.0,JAX 40,0.0,0.0,Trevor Lawrence pass complete short right to Evan Engram for 3 yards (tackle by Richie Grant),1.19,0.89,4.0,2023,50
+1.0,11:40,,,,,,Timeout #1 by Jacksonville Jaguars,,,4.0,2023,50
+1.0,11:40,3.0,5.0,JAX 43,0.0,0.0,Trevor Lawrence pass incomplete short right intended for Evan Engram,0.89,-0.52,4.0,2023,50
+1.0,11:36,4.0,5.0,JAX 43,0.0,0.0,Logan Cooke punts 54 yards downed by Daniel Thomas,-0.52,0.38,4.0,2023,50
+1.0,11:25,1.0,10.0,ATL 7,0.0,0.0,Bijan Robinson right end for -1 yards (tackle by Andre Cisco),-0.38,-0.85,4.0,2023,50
+1.0,10:42,2.0,11.0,ATL 6,0.0,0.0,Tyler Allgeier right guard for 2 yards (tackle by Roy Robertson-Harris and Chad Muma),-0.85,-1.3,4.0,2023,50
+1.0,10:03,3.0,9.0,ATL 8,0.0,0.0,Desmond Ridder pass complete short right to Bijan Robinson for 8 yards (tackle by Andre Cisco),-1.3,-2.39,4.0,2023,50
+1.0,9:45,4.0,1.0,ATL 16,0.0,0.0,"Bradley Pinion punts 61 yards, returned by Parker Washington for 5 yards (tackle by DeMarcco Hellams and Keith Smith)",-2.39,-0.81,4.0,2023,50
+1.0,9:33,1.0,10.0,JAX 28,0.0,0.0,Trevor Lawrence pass complete short left to Luke Farrell for 3 yards (tackle by Richie Grant),0.81,0.67,4.0,2023,50
+1.0,8:58,2.0,7.0,JAX 31,0.0,0.0,Trevor Lawrence scrambles left end for 22 yards (tackle by Richie Grant),0.67,2.46,4.0,2023,50
+1.0,8:15,1.0,10.0,ATL 47,0.0,0.0,Trevor Lawrence scrambles right end for 6 yards (tackle by Richie Grant),2.46,2.72,4.0,2023,50
+1.0,7:37,2.0,4.0,ATL 41,0.0,0.0,Travis Etienne left tackle for 3 yards (tackle by Jeff Okudah and Kaden Elliss),2.72,2.41,4.0,2023,50
+1.0,7:00,3.0,1.0,ATL 38,0.0,0.0,Trevor Lawrence pass incomplete short right intended for Christian Kirk,2.41,0.72,4.0,2023,50
+1.0,6:54,4.0,1.0,ATL 38,0.0,0.0,Trevor Lawrence pass complete short middle to Christian Kirk for 10 yards (tackle by AJ Terrell),0.72,3.71,4.0,2023,50
+1.0,6:26,1.0,10.0,ATL 28,0.0,0.0,D'Ernest Johnson right tackle for -2 yards (tackle by Jessie Bates and Jeff Okudah),3.71,2.9,4.0,2023,50
+1.0,5:50,2.0,12.0,ATL 30,0.0,6.0,"Trevor Lawrence pass complete deep right to Calvin Ridley for 30 yards, touchdown",2.9,7.0,4.0,2023,50
+1.0,5:44,,,ATL 15,0.0,7.0,Brandon McManus kicks extra point good,0.0,0.0,4.0,2023,50
+1.0,5:44,,,JAX 35,0.0,7.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,50
+1.0,5:44,1.0,10.0,ATL 25,0.0,7.0,Desmond Ridder sacked by Travon Walker for no gain,0.61,0.06,4.0,2023,50
+1.0,5:08,2.0,10.0,ATL 25,0.0,7.0,Desmond Ridder pass complete short right to Bijan Robinson for 4 yards (tackle by Darious Williams),0.06,-0.1,4.0,2023,50
+1.0,4:29,3.0,6.0,ATL 29,0.0,7.0,"Penalty on K'Lavon Chaisson: Neutral Zone Infraction, 5 yards (accepted) (no play)",-0.1,0.56,4.0,2023,50
+1.0,4:13,3.0,1.0,ATL 34,0.0,7.0,Desmond Ridder sacked by Josh Allen for -8 yards,0.56,-1.63,4.0,2023,50
+1.0,3:31,4.0,9.0,ATL 26,0.0,7.0,Bradley Pinion punts 58 yards out of bounds,-1.63,0.14,4.0,2023,50
+1.0,3:23,1.0,10.0,JAX 16,0.0,7.0,Trevor Lawrence pass complete short right to Travis Etienne for 8 yards (tackle by DeAundre Alford),-0.14,0.55,4.0,2023,50
+1.0,2:38,2.0,2.0,JAX 24,0.0,7.0,Travis Etienne up the middle for 7 yards (tackle by Nathan Landman and Richie Grant),0.55,1.0,4.0,2023,50
+1.0,2:05,1.0,10.0,JAX 31,0.0,7.0,Trevor Lawrence pass complete deep left to Christian Kirk for 30 yards (tackle by Arnold Ebiketie),1.0,2.98,4.0,2023,50
+1.0,1:22,1.0,10.0,ATL 39,0.0,7.0,Tank Bigsby left tackle for 6 yards (tackle by Nathan Landman),2.98,3.25,4.0,2023,50
+1.0,0:42,2.0,4.0,ATL 33,0.0,7.0,"Tank Bigsby left end for 2 yards (tackle by Richie Grant). Penalty on Brenton Strange: Offensive Holding, 10 yards (accepted) . Penalty on Brenton Strange: Unnecessary Roughness / Offense, 15 yards (declined)",3.25,2.17,4.0,2023,50
+1.0,0:17,2.0,12.0,ATL 41,0.0,7.0,Trevor Lawrence pass complete short middle to Evan Engram for 3 yards (tackle by Nathan Landman),2.17,1.88,4.0,2023,50
+2.0,15:00,3.0,9.0,ATL 38,0.0,7.0,Trevor Lawrence pass incomplete deep right intended for Christian Kirk,1.88,0.72,4.0,2023,50
+2.0,14:56,4.0,9.0,ATL 38,0.0,10.0,Brandon McManus 56 yard field goal good,0.72,3.0,4.0,2023,50
+2.0,14:51,,,JAX 35,0.0,10.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,50
+2.0,14:51,1.0,10.0,ATL 25,0.0,10.0,Bijan Robinson left end for 4 yards (tackle by Andre Cisco),0.61,0.6,4.0,2023,50
+2.0,14:15,2.0,6.0,ATL 29,0.0,10.0,Desmond Ridder pass incomplete short middle intended for Drake London (defended by Darious Williams),0.6,-0.1,4.0,2023,50
+2.0,14:10,3.0,6.0,ATL 29,0.0,10.0,Desmond Ridder pass complete short left to Jonnu Smith for 15 yards (tackle by Foyesade Oluokun),-0.1,1.86,4.0,2023,50
+2.0,13:36,1.0,10.0,ATL 44,0.0,10.0,Bijan Robinson right end for 1 yard (tackle by Foyesade Oluokun),1.86,1.45,4.0,2023,50
+2.0,12:53,2.0,9.0,ATL 45,0.0,10.0,Desmond Ridder pass incomplete deep right intended for Drake London (defended by Tyson Campbell),1.45,0.76,4.0,2023,50
+2.0,12:47,3.0,9.0,ATL 45,0.0,10.0,Desmond Ridder sacked by Josh Allen for -14 yards,0.76,-1.31,4.0,2023,50
+2.0,12:10,4.0,23.0,ATL 31,0.0,10.0,"Bradley Pinion punts 62 yards, returned by Christian Kirk for 12 yards (tackle by Jaylinn Hawkins)",-1.31,-0.15,4.0,2023,50
+2.0,11:57,1.0,10.0,JAX 19,0.0,10.0,"Trevor Lawrence pass complete short middle to Evan Engram for 5 yards. Evan Engram fumbles (forced by Jessie Bates), recovered by Evan Engram at JAC-24 ATL challenged the ruling, and the play was upheld.",0.15,0.34,4.0,2023,50
+2.0,11:26,2.0,5.0,JAX 24,0.0,10.0,Trevor Lawrence pass complete short left to Christian Kirk for 3 yards (tackle by Jessie Bates and DeAundre Alford),0.34,-0.03,4.0,2023,50
+2.0,10:45,3.0,2.0,JAX 27,0.0,10.0,Trevor Lawrence scrambles up the middle for 1 yard (tackle by David Onyemata and Bud Dupree),-0.03,-1.5,4.0,2023,50
+2.0,10:14,4.0,1.0,JAX 28,0.0,10.0,"Logan Cooke punts 59 yards, fair catch by Mike Hughes at ATL-13",-1.5,0.32,4.0,2023,50
+2.0,10:08,1.0,10.0,ATL 13,0.0,10.0,Tyler Allgeier right tackle for 5 yards (tackle by Andrew Wingard),-0.32,-0.14,4.0,2023,50
+2.0,9:24,2.0,5.0,ATL 18,0.0,10.0,Tyler Allgeier left tackle for -3 yards (tackle by Foyesade Oluokun and Angelo Blackson),-0.14,-1.18,4.0,2023,50
+2.0,8:39,3.0,8.0,ATL 15,0.0,10.0,Desmond Ridder pass complete short left to Bijan Robinson for 9 yards (tackle by Foyesade Oluokun),-1.18,0.54,4.0,2023,50
+2.0,8:03,1.0,10.0,ATL 24,0.0,10.0,Desmond Ridder pass complete short right to Jonnu Smith for 7 yards (tackle by Chad Muma),0.54,0.94,4.0,2023,50
+2.0,7:24,2.0,3.0,ATL 31,0.0,10.0,Tyler Allgeier right tackle for 4 yards (tackle by Roy Robertson-Harris),0.94,1.27,4.0,2023,50
+2.0,6:39,1.0,10.0,ATL 35,0.0,10.0,Desmond Ridder pass complete short left to KhaDarel Hodge for 10 yards (tackle by Darious Williams),1.27,1.93,4.0,2023,50
+2.0,6:02,1.0,10.0,ATL 45,0.0,10.0,Bijan Robinson left guard for 8 yards (tackle by Chad Muma),1.93,2.46,4.0,2023,50
+2.0,5:21,2.0,2.0,JAX 47,0.0,10.0,Bijan Robinson left guard for 2 yards (tackle by Andre Cisco),2.46,2.59,4.0,2023,50
+2.0,4:42,1.0,10.0,JAX 45,0.0,16.0,"Desmond Ridder pass short right intended for Drake London is intercepted by Darious Williams at JAC-39 and returned for 61 yards, touchdown",2.59,-7.0,4.0,2023,50
+2.0,4:31,,,ATL 15,0.0,17.0,Brandon McManus kicks extra point good,0.0,0.0,4.0,2023,50
+2.0,4:31,,,JAX 35,0.0,17.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,50
+2.0,4:31,1.0,10.0,ATL 25,0.0,17.0,"Desmond Ridder pass short middle intended for Kyle Pitts is intercepted by Andre Cisco at ATL-38 and returned for 18 yards. Andre Cisco fumbles (forced by Keith Smith), recovered by Foyesade Oluokun at ATL-16",0.61,-4.51,4.0,2023,50
+2.0,4:20,1.0,10.0,ATL 16,0.0,17.0,Travis Etienne right guard for 2 yards (tackle by Nathan Landman),4.51,4.21,4.0,2023,50
+2.0,3:40,2.0,8.0,ATL 14,0.0,17.0,Trevor Lawrence pass complete short middle to Christian Kirk for 6 yards (tackle by Jessie Bates),4.21,4.62,4.0,2023,50
+2.0,3:04,3.0,2.0,ATL 8,0.0,17.0,Travis Etienne right tackle for 1 yard (tackle by Grady Jarrett),4.62,3.01,4.0,2023,50
+2.0,2:26,4.0,1.0,ATL 7,0.0,17.0,Trevor Lawrence sacked by David Onyemata for -5 yards,3.01,0.35,4.0,2023,50
+2.0,2:20,1.0,10.0,ATL 12,0.0,17.0,"Penalty on Bijan Robinson: False Start, 5 yards (accepted) (no play)",-0.35,-0.57,4.0,2023,50
+2.0,2:20,1.0,15.0,ATL 7,0.0,17.0,Bijan Robinson left tackle for 4 yards (tackle by Folorunso Fatukasi and Chad Muma),-0.57,-0.85,4.0,2023,50
+2.0,2:00,2.0,11.0,ATL 11,0.0,17.0,Desmond Ridder pass complete short left to Drake London for 7 yards (tackle by Tyson Campbell),-0.85,-0.72,4.0,2023,50
+2.0,1:40,3.0,4.0,ATL 18,0.0,17.0,Desmond Ridder pass complete short left to Bijan Robinson for 5 yards (tackle by Foyesade Oluokun),-0.72,0.48,4.0,2023,50
+2.0,1:37,1.0,10.0,ATL 23,0.0,17.0,Desmond Ridder pass incomplete deep right intended for Mack Hollins (defended by Darious Williams),0.48,-0.07,4.0,2023,50
+2.0,1:30,2.0,10.0,ATL 23,0.0,17.0,Desmond Ridder pass complete short right to Kyle Pitts for 8 yards (tackle by Tre Herndon),-0.07,0.3,4.0,2023,50
+2.0,1:12,3.0,2.0,ATL 31,0.0,17.0,Bijan Robinson left tackle for no gain (tackle by Adam Gotsis),0.3,-1.31,4.0,2023,50
+2.0,1:05,,,,,,Timeout #2 by Jacksonville Jaguars,,,4.0,2023,50
+2.0,1:05,4.0,2.0,ATL 31,0.0,17.0,"Bradley Pinion punts 49 yards, fair catch by Christian Kirk at JAC-20",-1.31,-0.28,4.0,2023,50
+2.0,0:58,1.0,10.0,JAX 20,0.0,17.0,Trevor Lawrence pass complete short left to Christian Kirk for 6 yards (tackle by Kaden Elliss),0.28,0.54,4.0,2023,50
+2.0,0:36,2.0,4.0,JAX 26,0.0,17.0,Trevor Lawrence pass incomplete short middle intended for Christian Kirk,0.54,-0.16,4.0,2023,50
+2.0,0:33,3.0,4.0,JAX 26,0.0,17.0,Trevor Lawrence pass complete short right to Christian Kirk for 16 yards (tackle by DeAundre Alford),-0.16,1.73,4.0,2023,50
+2.0,0:28,1.0,10.0,JAX 42,0.0,17.0,Trevor Lawrence pass incomplete short left intended for Christian Kirk,1.73,1.19,4.0,2023,50
+2.0,0:24,2.0,10.0,JAX 42,0.0,17.0,Trevor Lawrence sacked by and David Onyemata for -7 yards and Bud Dupree for -7 yards,1.19,-0.43,4.0,2023,50
+3.0,15:00,,,JAX 35,0.0,17.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,50
+3.0,15:00,1.0,10.0,ATL 25,0.0,17.0,Tyler Allgeier left end for 9 yards (tackle by Rayshawn Jenkins),0.61,1.28,4.0,2023,50
+3.0,14:20,2.0,1.0,ATL 34,0.0,17.0,Bijan Robinson left guard for 38 yards (tackle by Darious Williams),1.28,3.71,4.0,2023,50
+3.0,13:40,1.0,10.0,JAX 28,0.0,17.0,Bijan Robinson left guard for 3 yards (tackle by Angelo Blackson),3.71,3.57,4.0,2023,50
+3.0,13:03,2.0,7.0,JAX 25,0.0,17.0,Desmond Ridder pass incomplete short middle,3.57,2.87,4.0,2023,50
+3.0,12:59,3.0,7.0,JAX 25,0.0,17.0,Desmond Ridder pass complete short left to KhaDarel Hodge for 9 yards (tackle by Tyson Campbell),2.87,4.51,4.0,2023,50
+3.0,12:26,1.0,10.0,JAX 16,0.0,17.0,Bijan Robinson left tackle for 1 yard (tackle by Tyson Campbell and Chad Muma),4.51,4.05,4.0,2023,50
+3.0,11:48,2.0,9.0,JAX 15,0.0,17.0,Desmond Ridder pass incomplete short right intended for Tyler Allgeier,4.05,3.22,4.0,2023,50
+3.0,11:42,3.0,9.0,JAX 15,6.0,17.0,"Desmond Ridder pass complete short left to Drake London for 15 yards, touchdown",3.22,7.0,4.0,2023,50
+3.0,11:38,,,JAX 15,7.0,17.0,Younghoe Koo kicks extra point good,0.0,0.0,4.0,2023,50
+3.0,11:38,,,ATL 35,7.0,17.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,50
+3.0,11:38,1.0,10.0,JAX 25,7.0,17.0,Trevor Lawrence pass complete short right to Calvin Ridley for 8 yards (tackle by AJ Terrell),0.61,1.14,4.0,2023,50
+3.0,11:01,2.0,2.0,JAX 33,7.0,17.0,Trevor Lawrence pass complete short middle to Travis Etienne for 4 yards (tackle by Nathan Landman),1.14,1.4,4.0,2023,50
+3.0,10:18,,,,,,Timeout #1 by Jacksonville Jaguars,,,4.0,2023,50
+3.0,10:18,1.0,10.0,JAX 37,7.0,17.0,Travis Etienne right guard for 3 yards (tackle by Kaden Elliss),1.4,1.26,4.0,2023,50
+3.0,9:41,2.0,7.0,JAX 40,7.0,17.0,Trevor Lawrence pass complete short left to Luke Farrell for 7 yards (tackle by Mike Hughes and Jessie Bates),1.26,2.06,4.0,2023,50
+3.0,8:59,1.0,10.0,JAX 47,7.0,17.0,Travis Etienne right guard for no gain (tackle by Calais Campbell and Jessie Bates),2.06,1.52,4.0,2023,50
+3.0,8:15,2.0,10.0,JAX 47,7.0,17.0,Trevor Lawrence pass complete short left to Tim Jones for -1 yards (tackle by DeAundre Alford),1.52,0.7,4.0,2023,50
+3.0,7:36,3.0,11.0,JAX 46,7.0,17.0,Trevor Lawrence pass incomplete short right intended for Jamycal Hasty,0.7,-0.32,4.0,2023,50
+3.0,7:32,4.0,11.0,JAX 46,7.0,17.0,Logan Cooke punts 47 yards,-0.32,0.38,4.0,2023,50
+3.0,7:24,1.0,10.0,ATL 7,7.0,17.0,"Bijan Robinson for 5 yards (tackle by Chad Muma and Foyesade Oluokun). Penalty on Jeremiah Ledbetter: Defensive Holding, 5 yards (offset) . Penalty on Chris Lindstrom: Chop Block, 15 yards (offset) (no play)",-0.38,-0.38,4.0,2023,50
+3.0,6:56,1.0,10.0,ATL 7,7.0,17.0,Bijan Robinson right end for 9 yards (tackle by Darious Williams),-0.38,-0.02,4.0,2023,50
+3.0,6:19,2.0,1.0,ATL 16,7.0,17.0,Bijan Robinson right tackle for 2 yards (tackle by Travon Walker and Foyesade Oluokun),-0.02,0.04,4.0,2023,50
+3.0,5:36,1.0,10.0,ATL 18,7.0,17.0,Desmond Ridder pass incomplete deep right intended for Kyle Pitts (defended by Tyson Campbell),0.04,-0.49,4.0,2023,50
+3.0,5:31,2.0,10.0,ATL 18,7.0,17.0,Bijan Robinson right end for 21 yards (tackle by Tyson Campbell),-0.49,1.53,4.0,2023,50
+3.0,5:01,1.0,10.0,ATL 39,7.0,17.0,Desmond Ridder pass complete short right to Kyle Pitts for 13 yards (tackle by Tyson Campbell),1.53,2.39,4.0,2023,50
+3.0,4:26,1.0,10.0,JAX 48,7.0,17.0,Desmond Ridder pass complete short left to Tyler Allgeier for -4 yards (tackle by Foyesade Oluokun),2.39,1.31,4.0,2023,50
+3.0,3:41,2.0,14.0,ATL 48,7.0,17.0,Desmond Ridder pass incomplete deep left intended for Mack Hollins,1.31,0.63,4.0,2023,50
+3.0,3:37,3.0,14.0,ATL 48,7.0,17.0,"Penalty on Jonnu Smith: False Start, 5 yards (accepted) (no play)",0.63,-0.03,4.0,2023,50
+3.0,3:37,3.0,19.0,ATL 43,7.0,17.0,Desmond Ridder pass complete short left to Bijan Robinson for 6 yards (tackle by Tre Herndon),-0.03,-0.13,4.0,2023,50
+3.0,3:03,4.0,13.0,ATL 49,7.0,17.0,"Bradley Pinion punts 41 yards, fair catch by Christian Kirk at JAC-10",-0.13,0.38,4.0,2023,50
+3.0,2:57,1.0,10.0,JAX 10,7.0,17.0,Travis Etienne right guard for 3 yards (tackle by Nathan Landman and Kaden Elliss),-0.38,-0.56,4.0,2023,50
+3.0,2:18,2.0,7.0,JAX 13,7.0,17.0,Trevor Lawrence pass complete short left to Evan Engram for 10 yards (tackle by Mike Hughes),-0.56,0.48,4.0,2023,50
+3.0,1:42,1.0,10.0,JAX 23,7.0,17.0,"Trevor Lawrence pass incomplete deep left intended for Evan Engram (defended by Jeff Okudah). Penalty on Luke Fortner: Offensive Holding, 10 yards (accepted) (no play)",0.48,-0.59,4.0,2023,50
+3.0,1:36,1.0,20.0,JAX 13,7.0,17.0,Trevor Lawrence pass complete short middle to Evan Engram for 10 yards (tackle by Richie Grant),-0.59,-0.07,4.0,2023,50
+3.0,0:54,2.0,10.0,JAX 23,7.0,17.0,Travis Etienne left tackle for 3 yards (tackle by Bud Dupree and David Onyemata),-0.07,-0.36,4.0,2023,50
+3.0,0:11,3.0,7.0,JAX 26,7.0,17.0,Trevor Lawrence pass complete short right to Christian Kirk for 11 yards (tackle by Mike Hughes),-0.36,1.4,4.0,2023,50
+4.0,15:00,1.0,10.0,JAX 37,7.0,17.0,Trevor Lawrence pass complete short left to Evan Engram for 19 yards (tackle by Jessie Bates),1.4,2.65,4.0,2023,50
+4.0,14:20,1.0,10.0,ATL 44,7.0,17.0,Travis Etienne left guard for 4 yards (tackle by Grady Jarrett and David Onyemata),2.65,2.65,4.0,2023,50
+4.0,13:42,2.0,6.0,ATL 40,7.0,17.0,Travis Etienne right guard for no gain (tackle by Jeff Okudah and Calais Campbell),2.65,1.95,4.0,2023,50
+4.0,12:59,3.0,6.0,ATL 40,7.0,17.0,Trevor Lawrence scrambles right end for 10 yards (tackle by Richie Grant),1.95,3.58,4.0,2023,50
+4.0,12:18,1.0,10.0,ATL 30,7.0,17.0,Travis Etienne right guard for 3 yards (tackle by Zach Harrison and Timmy Horne),3.58,3.44,4.0,2023,50
+4.0,11:34,2.0,7.0,ATL 27,7.0,17.0,Trevor Lawrence pass complete short left to Christian Kirk for 2 yards (tackle by AJ Terrell),3.44,3.01,4.0,2023,50
+4.0,10:48,3.0,5.0,ATL 25,7.0,17.0,Trevor Lawrence pass incomplete deep right intended for Jamycal Hasty,3.01,1.85,4.0,2023,50
+4.0,10:41,4.0,5.0,ATL 25,7.0,20.0,Brandon McManus 43 yard field goal good,1.85,3.0,4.0,2023,50
+4.0,10:36,,,JAX 35,7.0,20.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,50
+4.0,10:36,1.0,10.0,ATL 25,7.0,20.0,Desmond Ridder pass incomplete deep middle intended for Mack Hollins (defended by Chad Muma),0.61,0.06,4.0,2023,50
+4.0,10:32,2.0,10.0,ATL 25,7.0,20.0,Tyler Allgeier right end for 4 yards (tackle by Yasir Abdullah),0.06,-0.1,4.0,2023,50
+4.0,9:49,3.0,6.0,ATL 29,7.0,20.0,Desmond Ridder pass complete short left to Drake London for 6 yards (tackle by Tre Herndon and Chad Muma),-0.1,1.27,4.0,2023,50
+4.0,9:14,1.0,10.0,ATL 35,7.0,20.0,Desmond Ridder scrambles up the middle for 6 yards (tackle by Chad Muma),1.27,1.53,4.0,2023,50
+4.0,8:31,2.0,4.0,ATL 41,7.0,20.0,Bijan Robinson up the middle for 13 yards (tackle by Andrew Wingard),1.53,2.52,4.0,2023,50
+4.0,8:05,1.0,10.0,JAX 46,7.0,20.0,Desmond Ridder pass complete short middle to Jonnu Smith for 33 yards (tackle by Tre Herndon and Darious Williams),2.52,4.71,4.0,2023,50
+4.0,7:26,1.0,10.0,JAX 13,7.0,20.0,Tyler Allgeier left tackle for -5 yards (tackle by Foyesade Oluokun),4.71,3.4,4.0,2023,50
+4.0,6:51,2.0,15.0,JAX 18,7.0,20.0,Desmond Ridder pass incomplete short left intended for MyCole Pruitt (defended by Chad Muma),3.4,2.79,4.0,2023,50
+4.0,6:48,3.0,15.0,JAX 18,7.0,20.0,Desmond Ridder pass complete short left to Jonnu Smith for 12 yards (tackle by Tyson Campbell),2.79,3.01,4.0,2023,50
+4.0,6:06,4.0,3.0,JAX 6,7.0,20.0,Desmond Ridder pass incomplete short right intended for Drake London (defended by Tre Herndon),3.01,0.38,4.0,2023,50
+4.0,6:01,1.0,10.0,JAX 6,7.0,20.0,Travis Etienne left guard for 3 yards (tackle by Grady Jarrett and Calais Campbell),-0.38,-0.56,4.0,2023,50
+4.0,5:20,2.0,7.0,JAX 9,7.0,20.0,Trevor Lawrence pass complete short right to Evan Engram for 9 yards (tackle by Richie Grant),-0.56,0.04,4.0,2023,50
+4.0,4:37,1.0,10.0,JAX 18,7.0,20.0,Travis Etienne right guard for 1 yard (tackle by Grady Jarrett and David Onyemata),0.04,-0.32,4.0,2023,50
+4.0,4:34,,,,,,Timeout #1 by Atlanta Falcons,,,4.0,2023,50
+4.0,4:34,2.0,9.0,JAX 19,7.0,20.0,"Trevor Lawrence pass incomplete deep left intended for Calvin Ridley. Penalty on AJ Terrell: Defensive Pass Interference, 40 yards (accepted) (no play)",-0.32,2.85,4.0,2023,50
+4.0,4:27,1.0,10.0,ATL 41,7.0,20.0,Travis Etienne left tackle for 1 yard (tackle by Calais Campbell and Bud Dupree),2.85,2.44,4.0,2023,50
+4.0,4:23,,,,,,Timeout #2 by Atlanta Falcons,,,4.0,2023,50
+4.0,4:23,2.0,9.0,ATL 40,7.0,20.0,Travis Etienne right end for 6 yards (tackle by Mike Hughes and Richie Grant),2.44,2.54,4.0,2023,50
+4.0,3:41,3.0,3.0,ATL 34,7.0,20.0,Trevor Lawrence right end for 7 yards (tackle by Mike Hughes),2.54,3.78,4.0,2023,50
+4.0,3:38,,,,,,Timeout #3 by Atlanta Falcons,,,4.0,2023,50
+4.0,3:38,1.0,10.0,ATL 27,7.0,20.0,Travis Etienne up the middle for 2 yards (tackle by David Onyemata and Bud Dupree),3.78,3.5,4.0,2023,50
+4.0,2:52,2.0,8.0,ATL 25,7.0,20.0,Travis Etienne right guard for 3 yards (tackle by Jessie Bates),3.5,3.2,4.0,2023,50
+4.0,2:09,,,,,,Timeout #2 by Jacksonville Jaguars,,,4.0,2023,50
+4.0,2:09,3.0,5.0,ATL 22,7.0,20.0,Travis Etienne right guard for 2 yards (tackle by Nathan Landman),3.2,2.22,4.0,2023,50
+4.0,2:00,4.0,3.0,ATL 20,7.0,23.0,Brandon McManus 38 yard field goal good,2.22,3.0,4.0,2023,50
+4.0,1:56,,,JAX 35,7.0,23.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,50
+4.0,1:56,1.0,10.0,ATL 25,7.0,23.0,Desmond Ridder pass complete short right to Jonnu Smith for 14 yards (tackle by Rayshawn Jenkins),0.61,1.53,4.0,2023,50
+4.0,1:50,1.0,10.0,ATL 39,7.0,23.0,Desmond Ridder pass complete short middle to Jonnu Smith for 14 yards (tackle by Foyesade Oluokun),1.53,2.46,4.0,2023,50
+4.0,1:33,1.0,10.0,JAX 47,7.0,23.0,"Desmond Ridder sacked by Josh Allen for -9 yards. Desmond Ridder fumbles (forced by Josh Allen), recovered by Angelo Blackson at ATL-44 (tackle by Kaleb McGary)",2.46,-2.65,4.0,2023,50
+4.0,1:28,1.0,10.0,ATL 44,7.0,23.0,Trevor Lawrence kneels for -2 yards,2.65,1.84,4.0,2023,50
+4.0,0:46,2.0,12.0,ATL 46,7.0,23.0,Trevor Lawrence kneels for -1 yards,1.84,1.03,4.0,2023,50
+4.0,0:25,3.0,13.0,ATL 47,7.0,23.0,Trevor Lawrence kneels for -1 yards,1.03,0.07,4.0,2023,50

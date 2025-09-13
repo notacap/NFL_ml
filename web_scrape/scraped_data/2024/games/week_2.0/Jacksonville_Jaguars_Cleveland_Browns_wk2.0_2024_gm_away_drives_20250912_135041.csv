@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,11:43,CLE 11,16,9:14,89,Touchdown,0,Browns,2.0,2024,19
+2,1,1:27,CLE 24,12,6:35,41,Field Goal,0,Browns,2.0,2024,19
+3,2,4:44,CLE 28,8,4:17,52,Field Goal,0,Browns,2.0,2024,19
+4,3,15:00,CLE 30,3,0:44,6,Punt,0,Browns,2.0,2024,19
+5,3,12:36,JAX 49,6,2:16,23,Field Goal,0,Browns,2.0,2024,19
+6,3,5:48,CLE 33,5,3:19,8,Punt,0,Browns,2.0,2024,19
+7,3,1:11,CLE 30,3,1:57,3,Punt,0,Browns,2.0,2024,19
+8,4,7:32,CLE 30,12,5:44,29,Punt,0,Browns,2.0,2024,19
+9,4,1:44,JAX 42,3,0:17,4,Punt,0,Browns,2.0,2024,19

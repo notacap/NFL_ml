@@ -1,0 +1,169 @@
+Quarter,Time,Down,ToGo,Location,NYJ,LVR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Jets won the coin toss and deferred, Raiders to receive the opening kickoff.",,,10.0,2023,149
+1.0,15:00,,,NYJ 35,0.0,0.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,149
+1.0,15:00,1.0,10.0,LVR 25,0.0,0.0,Aidan O'Connell pass incomplete short left intended for Davante Adams (defended by Jamien Sherwood),0.61,0.06,10.0,2023,149
+1.0,14:56,2.0,10.0,LVR 25,0.0,0.0,Aidan O'Connell pass complete short right to Davante Adams for 6 yards (tackle by Jamien Sherwood and Jordan Whitehead),0.06,0.17,10.0,2023,149
+1.0,14:23,3.0,4.0,LVR 31,0.0,0.0,Aidan O'Connell pass complete short middle to Davante Adams for 3 yards (tackle by Sauce Gardner),0.17,-1.11,10.0,2023,149
+1.0,13:33,4.0,1.0,LVR 34,0.0,0.0,"AJ Cole punts 44 yards, fair catch by Xavier Gipson at NYJ-22",-1.11,-0.41,10.0,2023,149
+1.0,13:26,1.0,10.0,NYJ 22,0.0,0.0,Breece Hall up the middle for 4 yards (tackle by Jerry Tillery),0.41,0.41,10.0,2023,149
+1.0,12:52,2.0,6.0,NYJ 26,0.0,0.0,Breece Hall right guard for 1 yard (tackle by Bilal Nichols and John Jenkins),0.41,-0.16,10.0,2023,149
+1.0,12:14,3.0,5.0,NYJ 27,0.0,0.0,"Zach Wilson pass complete short left to Garrett Wilson for 6 yards (tackle by Amik Robertson). Penalty on Malcolm Koonce: Defensive Offside, 5 yards (declined)",-0.16,1.14,10.0,2023,149
+1.0,11:44,1.0,10.0,NYJ 33,0.0,0.0,Zach Wilson pass complete deep right to Garrett Wilson for 41 yards (tackle by Marcus Epps),1.14,3.84,10.0,2023,149
+1.0,11:08,1.0,10.0,LVR 26,0.0,0.0,"Zach Wilson pass incomplete short middle. Penalty on Zach Wilson: Intentional Grounding, 10 yards (accepted)",3.84,1.95,10.0,2023,149
+1.0,11:03,2.0,20.0,LVR 36,0.0,0.0,Dalvin Cook left tackle for 7 yards (tackle by Nate Hobbs),1.95,2.21,10.0,2023,149
+1.0,10:21,3.0,13.0,LVR 29,0.0,0.0,Zach Wilson pass incomplete short right intended for Xavier Gipson,2.21,1.5,10.0,2023,149
+1.0,10:18,4.0,13.0,LVR 29,3.0,0.0,Greg Zuerlein 47 yard field goal good,1.5,3.0,10.0,2023,149
+1.0,10:13,,,NYJ 35,3.0,0.0,"Greg Zuerlein kicks off 65 yards, returned by DeAndre Carter for 25 yards (tackle by Jamien Sherwood)",0.0,0.61,10.0,2023,149
+1.0,10:08,1.0,10.0,LVR 25,3.0,0.0,Josh Jacobs left guard for 2 yards (tackle by Quincy Williams and C.J. Mosley),0.61,0.33,10.0,2023,149
+1.0,9:30,2.0,8.0,LVR 27,3.0,0.0,Aidan O'Connell pass complete deep left to Davante Adams for 42 yards (tackle by Jordan Whitehead),0.33,3.51,10.0,2023,149
+1.0,8:39,1.0,10.0,NYJ 31,3.0,0.0,"Aidan O'Connell pass complete short left to Josh Jacobs for 9 yards (tackle by Jamien Sherwood). Penalty on Davante Adams: Offensive Pass Interference, 10 yards (accepted) (no play)",3.51,2.85,10.0,2023,149
+1.0,8:21,1.0,20.0,NYJ 41,3.0,0.0,Aidan O'Connell pass complete short right to Ameer Abdullah for 4 yards (tackle by Quincy Williams),2.85,2.16,10.0,2023,149
+1.0,7:42,2.0,16.0,NYJ 37,3.0,0.0,Aidan O'Connell pass complete short left to Davante Adams for 8 yards (tackle by D.J. Reed),2.16,2.54,10.0,2023,149
+1.0,7:02,3.0,8.0,NYJ 29,3.0,0.0,Aidan O'Connell pass complete short right to Michael Mayer for 7 yards (tackle by Quincy Williams and C.J. Mosley),2.54,2.05,10.0,2023,149
+1.0,6:18,4.0,2.0,NYJ 23,3.0,3.0,Daniel Carlson 41 yard field goal good,2.05,3.0,10.0,2023,149
+1.0,6:15,,,LVR 35,3.0,3.0,"Daniel Carlson kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,149
+1.0,6:15,1.0,10.0,NYJ 25,3.0,3.0,Breece Hall up the middle for 2 yards (tackle by Bilal Nichols),0.61,0.33,10.0,2023,149
+1.0,5:38,2.0,8.0,NYJ 27,3.0,3.0,Breece Hall left tackle for 4 yards (tackle by John Jenkins),0.33,0.1,10.0,2023,149
+1.0,4:50,3.0,5.0,NYJ 31,3.0,3.0,Zach Wilson pass complete short right to Xavier Gipson for 24 yards (tackle by Nate Hobbs),0.1,2.59,10.0,2023,149
+1.0,4:04,1.0,10.0,LVR 45,3.0,3.0,Zach Wilson pass complete short left to Garrett Wilson for 5 yards (tackle by Marcus Epps),2.59,2.72,10.0,2023,149
+1.0,3:29,2.0,5.0,LVR 40,3.0,3.0,Zach Wilson pass complete short left to Garrett Wilson for 8 yards (tackle by Amik Robertson and Divine Deablo),2.72,3.45,10.0,2023,149
+1.0,2:55,1.0,10.0,LVR 32,3.0,3.0,Breece Hall right guard for 2 yards (tackle by Divine Deablo),3.45,3.17,10.0,2023,149
+1.0,2:11,2.0,8.0,LVR 30,3.0,3.0,"Garrett Wilson left end for no gain (tackle by Robert Spillane). Penalty on C.J. Uzomah: Offensive Holding, 10 yards (accepted) (no play)",3.17,1.82,10.0,2023,149
+1.0,2:03,2.0,18.0,LVR 40,3.0,3.0,Zach Wilson pass incomplete short right intended for Garrett Wilson,1.82,1.16,10.0,2023,149
+1.0,1:56,3.0,18.0,LVR 40,3.0,3.0,Zach Wilson pass complete short right to Tyler Conklin for 5 yards (tackle by Nate Hobbs),1.16,0.97,10.0,2023,149
+1.0,1:16,4.0,13.0,LVR 35,6.0,3.0,Greg Zuerlein 53 yard field goal good,0.97,3.0,10.0,2023,149
+1.0,1:11,,,NYJ 35,6.0,3.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,149
+1.0,1:11,1.0,10.0,LVR 25,6.0,3.0,"Aidan O'Connell aborted snap, recovered by Aidan O'Connell at LV-24 and returned for -1 yards",0.61,-0.07,10.0,2023,149
+1.0,0:38,2.0,11.0,LVR 24,6.0,3.0,Aidan O'Connell pass short middle intended for Davante Adams is intercepted by Jordan Whitehead at LV-32 and returned for 6 yards (tackle by Michael Mayer),-0.07,-3.84,10.0,2023,149
+1.0,0:27,,,,,,Timeout #1 by Las Vegas Raiders,,,10.0,2023,149
+1.0,0:27,1.0,10.0,LVR 26,6.0,3.0,Breece Hall right guard for 1 yard (tackle by Jerry Tillery),3.84,3.43,10.0,2023,149
+2.0,15:00,2.0,9.0,LVR 25,6.0,3.0,"Breece Hall left tackle for 5 yards (tackle by Amik Robertson and Marcus Epps). Penalty on Laken Tomlinson: Offensive Holding, 10 yards (accepted)",3.43,2.76,10.0,2023,149
+2.0,14:36,2.0,14.0,LVR 30,6.0,3.0,Zach Wilson pass complete short middle to Garrett Wilson for 7 yards (tackle by Amari Burney),2.76,3.01,10.0,2023,149
+2.0,13:56,3.0,7.0,LVR 23,6.0,3.0,"Zach Wilson scrambles for no gain, touchdown Replay Assistant challenged the runner was in bounds ruling, and the original play was overturned. Zach Wilson scrambles right end for 20 yards (tackle by Nate Hobbs)",3.01,6.51,10.0,2023,149
+2.0,13:33,1.0,3.0,LVR 3,6.0,3.0,"Breece Hall for no gain, touchdown. Penalty on C.J. Uzomah: Offensive Holding, 10 yards (accepted) (no play)",6.51,4.53,10.0,2023,149
+2.0,13:27,1.0,13.0,LVR 13,6.0,3.0,Breece Hall up the middle for 1 yard (tackle by Jakorian Bennett),4.53,3.86,10.0,2023,149
+2.0,12:42,2.0,12.0,LVR 12,6.0,3.0,Breece Hall right end for no gain (tackle by Maxx Crosby and Robert Spillane),3.86,3.1,10.0,2023,149
+2.0,11:56,,,,,,Timeout #1 by New York Jets,,,10.0,2023,149
+2.0,11:56,3.0,12.0,LVR 12,6.0,3.0,Zach Wilson pass incomplete short left intended for Michael Carter (defended by Adam Butler),3.1,2.63,10.0,2023,149
+2.0,11:51,4.0,12.0,LVR 12,9.0,3.0,Greg Zuerlein 30 yard field goal good,2.63,3.0,10.0,2023,149
+2.0,11:48,,,NYJ 35,9.0,3.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,149
+2.0,11:48,1.0,10.0,LVR 25,9.0,3.0,Josh Jacobs up the middle for -2 yards (tackle by Tony Adams and Micheal Clemons),0.61,-0.21,10.0,2023,149
+2.0,11:12,2.0,12.0,LVR 23,9.0,3.0,Josh Jacobs up the middle for 3 yards (tackle by C.J. Mosley),-0.21,-0.49,10.0,2023,149
+2.0,10:32,3.0,9.0,LVR 26,9.0,3.0,Aidan O'Connell pass incomplete deep right intended for Davante Adams,-0.49,-1.63,10.0,2023,149
+2.0,10:23,4.0,9.0,LVR 26,9.0,3.0,AJ Cole punts 55 yards out of bounds,-1.63,-0.15,10.0,2023,149
+2.0,10:16,1.0,10.0,NYJ 19,9.0,3.0,Dalvin Cook right tackle for 10 yards (tackle by Divine Deablo),0.15,0.87,10.0,2023,149
+2.0,9:36,1.0,10.0,NYJ 29,9.0,3.0,Dalvin Cook left tackle for 9 yards (tackle by Maxx Crosby and Bilal Nichols),0.87,1.54,10.0,2023,149
+2.0,8:51,2.0,1.0,NYJ 38,9.0,3.0,Dalvin Cook left guard for no gain (tackle by John Jenkins and Maxx Crosby),1.54,0.83,10.0,2023,149
+2.0,8:04,3.0,1.0,NYJ 38,9.0,3.0,Breece Hall up the middle for no gain (tackle by Robert Spillane and Jerry Tillery),0.83,-0.85,10.0,2023,149
+2.0,7:28,4.0,1.0,NYJ 38,9.0,3.0,"Thomas Morstead punts 62 yards, touchback.",-0.85,-0.28,10.0,2023,149
+2.0,7:18,1.0,10.0,LVR 20,9.0,3.0,Josh Jacobs right tackle for 4 yards (tackle by Solomon Thomas and C.J. Mosley),0.28,0.27,10.0,2023,149
+2.0,6:43,2.0,6.0,LVR 24,9.0,3.0,Josh Jacobs left guard for 5 yards (tackle by Jordan Whitehead and C.J. Mosley),0.27,0.23,10.0,2023,149
+2.0,6:05,3.0,1.0,LVR 29,9.0,3.0,Josh Jacobs right guard for 2 yards (tackle by Michael Carter and Solomon Thomas),0.23,1.0,10.0,2023,149
+2.0,5:40,1.0,10.0,LVR 31,9.0,3.0,Josh Jacobs up the middle for 4 yards (tackle by C.J. Mosley),1.0,1.0,10.0,2023,149
+2.0,5:15,2.0,6.0,LVR 35,9.0,3.0,Josh Jacobs right end for 5 yards (tackle by Sauce Gardner),1.0,0.96,10.0,2023,149
+2.0,4:31,3.0,1.0,LVR 40,9.0,3.0,Aidan O'Connell up the middle for 3 yards (tackle by Tanzel Smart),0.96,1.8,10.0,2023,149
+2.0,4:10,1.0,10.0,LVR 43,9.0,3.0,Aidan O'Connell pass complete short left to Jakobi Meyers for 13 yards (tackle by D.J. Reed),1.8,2.65,10.0,2023,149
+2.0,3:27,1.0,10.0,NYJ 44,9.0,3.0,Aidan O'Connell pass complete deep middle to Davante Adams for 18 yards (tackle by Sauce Gardner),2.65,3.84,10.0,2023,149
+2.0,3:00,1.0,10.0,NYJ 26,9.0,3.0,Aidan O'Connell sacked by Solomon Thomas for -8 yards,3.84,2.22,10.0,2023,149
+2.0,2:18,2.0,18.0,NYJ 34,9.0,3.0,Aidan O'Connell pass incomplete short right,2.22,1.55,10.0,2023,149
+2.0,2:07,3.0,18.0,NYJ 34,9.0,3.0,Aidan O'Connell sacked by John Franklin-Myers for -11 yards,1.55,0.27,10.0,2023,149
+2.0,2:00,4.0,30.0,NYJ 45,9.0,3.0,"AJ Cole punts 31 yards, fair catch by Xavier Gipson at NYJ-14",0.27,0.28,10.0,2023,149
+2.0,1:52,1.0,10.0,NYJ 14,9.0,3.0,Breece Hall left tackle for 7 yards (tackle by Tre'von Moehrig),-0.28,0.28,10.0,2023,149
+2.0,1:46,2.0,3.0,NYJ 21,9.0,3.0,Zach Wilson pass incomplete short left intended for Garrett Wilson (defended by John Jenkins),0.28,-0.56,10.0,2023,149
+2.0,1:42,3.0,3.0,NYJ 21,9.0,3.0,Zach Wilson scrambles left tackle for 20 yards (tackle by Jakorian Bennett),-0.56,1.66,10.0,2023,149
+2.0,1:33,1.0,10.0,NYJ 41,9.0,3.0,Zach Wilson pass complete short middle to Tyler Conklin for 8 yards (tackle by Divine Deablo and Robert Spillane),1.66,2.2,10.0,2023,149
+2.0,1:15,2.0,2.0,NYJ 49,9.0,3.0,Zach Wilson sacked by Robert Spillane for -1 yards,2.2,1.36,10.0,2023,149
+2.0,1:08,3.0,3.0,NYJ 48,9.0,3.0,Zach Wilson pass incomplete deep left intended for Allen Lazard,1.36,-0.19,10.0,2023,149
+2.0,1:02,4.0,3.0,NYJ 48,9.0,3.0,"Thomas Morstead punts 52 yards, touchback.",-0.19,-0.28,10.0,2023,149
+2.0,0:52,1.0,10.0,LVR 20,9.0,3.0,Josh Jacobs right guard for 6 yards (tackle by Quinton Jefferson and C.J. Mosley),0.28,0.54,10.0,2023,149
+2.0,0:37,2.0,4.0,LVR 26,9.0,3.0,Aidan O'Connell pass complete short left to Davante Adams for 9 yards (tackle by D.J. Reed),0.54,1.27,10.0,2023,149
+2.0,0:32,1.0,10.0,LVR 35,9.0,3.0,Aidan O'Connell pass complete short right to Josh Jacobs for 8 yards (tackle by Jordan Whitehead),1.27,1.8,10.0,2023,149
+2.0,0:26,2.0,2.0,LVR 43,9.0,3.0,"Aidan O'Connell pass complete short right to Michael Mayer for 5 yards (tackle by Quincy Williams). Penalty on Bryce Huff: Roughing the Passer, 15 yards (accepted)",1.8,3.12,10.0,2023,149
+2.0,0:21,1.0,10.0,NYJ 37,9.0,3.0,Aidan O'Connell pass incomplete short right intended for Davante Adams,3.12,2.57,10.0,2023,149
+2.0,0:17,2.0,10.0,NYJ 37,9.0,3.0,Aidan O'Connell pass incomplete short middle intended for Davante Adams (defended by Quinnen Williams),2.57,1.88,10.0,2023,149
+2.0,0:13,3.0,10.0,NYJ 37,9.0,3.0,Josh Jacobs left guard for 1 yard (tackle by Quinnen Williams),1.88,0.88,10.0,2023,149
+2.0,0:03,,,,,,Timeout #2 by Las Vegas Raiders,,,10.0,2023,149
+2.0,0:03,4.0,8.0,NYJ 36,9.0,6.0,Daniel Carlson 54 yard field goal good,0.88,3.0,10.0,2023,149
+3.0,15:00,,,LVR 35,9.0,6.0,"Daniel Carlson kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,149
+3.0,15:00,1.0,10.0,NYJ 25,9.0,6.0,Zach Wilson pass incomplete short left intended for Garrett Wilson,0.61,0.06,10.0,2023,149
+3.0,14:56,2.0,10.0,NYJ 25,9.0,6.0,Breece Hall up the middle for 2 yards (tackle by Malcolm Koonce),0.06,-0.36,10.0,2023,149
+3.0,14:07,3.0,8.0,NYJ 27,9.0,6.0,"Zach Wilson pass complete to Xavier Gipson for no gain. Penalty on Michael Carter: Chop Block, 13 yards (accepted) (no play)",-0.36,-2.55,10.0,2023,149
+3.0,14:00,3.0,21.0,NYJ 14,9.0,6.0,"Zach Wilson pass complete short middle to Tyler Conklin for 9 yards (tackle by Tre'von Moehrig). Penalty on Xavier Gipson: Offensive Holding, 10 yards (accepted)",-2.55,-2.75,10.0,2023,149
+3.0,13:45,3.0,22.0,NYJ 13,9.0,6.0,Zach Wilson pass complete short left to Malik Taylor for 6 yards (tackle by Robert Spillane),-2.75,-2.14,10.0,2023,149
+3.0,13:05,4.0,16.0,NYJ 19,9.0,6.0,"Thomas Morstead punts 56 yards, returned by DeAndre Carter for 6 yards (tackle by Ashtyn Davis)",-2.14,-1.0,10.0,2023,149
+3.0,12:56,1.0,10.0,LVR 31,9.0,6.0,Josh Jacobs up the middle for -3 yards (tackle by Quinnen Williams),1.0,0.06,10.0,2023,149
+3.0,12:19,2.0,13.0,LVR 28,9.0,6.0,Tre Tucker right end for 9 yards (tackle by C.J. Mosley),0.06,0.56,10.0,2023,149
+3.0,11:33,3.0,4.0,LVR 37,9.0,6.0,"Aidan O'Connell scrambles for no gain (tackle by C.J. Mosley). Penalty on Andre James: Offensive Holding, 10 yards (accepted) (no play)",0.56,-0.76,10.0,2023,149
+3.0,11:00,,,,,,Timeout #1 by Las Vegas Raiders,,,10.0,2023,149
+3.0,11:00,3.0,14.0,LVR 27,9.0,6.0,Aidan O'Connell pass incomplete short left,-0.76,-1.57,10.0,2023,149
+3.0,10:56,4.0,14.0,LVR 27,9.0,6.0,"AJ Cole punts 63 yards, returned by Xavier Gipson for 5 yards (tackle by Ameer Abdullah)",-1.57,0.22,10.0,2023,149
+3.0,10:45,1.0,10.0,NYJ 15,9.0,6.0,Zach Wilson pass incomplete deep left intended for Garrett Wilson,-0.22,-0.71,10.0,2023,149
+3.0,10:40,2.0,10.0,NYJ 15,9.0,6.0,Breece Hall left tackle for -1 yards (tackle by Adam Butler and Luke Masterson),-0.71,-1.51,10.0,2023,149
+3.0,9:55,3.0,11.0,NYJ 14,9.0,6.0,"Penalty on Joe Tippmann: False Start, 5 yards (accepted) (no play)",-1.51,-2.12,10.0,2023,149
+3.0,9:46,3.0,16.0,NYJ 9,9.0,6.0,Zach Wilson scrambles right end for 13 yards (tackle by Nate Hobbs),-2.12,-1.9,10.0,2023,149
+3.0,9:00,4.0,3.0,NYJ 22,9.0,6.0,"Thomas Morstead punts 55 yards, returned by DeAndre Carter for 32 yards (tackle by Jamien Sherwood)",-1.9,-2.59,10.0,2023,149
+3.0,8:48,1.0,10.0,NYJ 45,9.0,6.0,Josh Jacobs up the middle for no gain (tackle by Michael Carter and Carl Lawson),2.59,2.04,10.0,2023,149
+3.0,8:12,2.0,10.0,NYJ 45,9.0,6.0,Aidan O'Connell pass complete short left to Jakobi Meyers for 8 yards (tackle by C.J. Mosley),2.04,2.41,10.0,2023,149
+3.0,7:30,3.0,2.0,NYJ 37,9.0,6.0,Aidan O'Connell pass complete short middle to Josh Jacobs for 3 yards (tackle by C.J. Mosley),2.41,3.31,10.0,2023,149
+3.0,7:03,1.0,10.0,NYJ 34,9.0,6.0,Aidan O'Connell sacked by and Jermaine Johnson for -8 yards and Quinnen Williams for -8 yards,3.31,1.69,10.0,2023,149
+3.0,6:18,2.0,18.0,NYJ 42,9.0,6.0,Josh Jacobs left end for 12 yards (tackle by Michael Carter and Tony Adams),1.69,2.61,10.0,2023,149
+3.0,5:38,3.0,6.0,NYJ 30,9.0,6.0,Aidan O'Connell pass complete short right to Hunter Renfrow for 5 yards (tackle by Jordan Whitehead),2.61,1.95,10.0,2023,149
+3.0,4:46,4.0,1.0,NYJ 25,9.0,6.0,Josh Jacobs right guard for 2 yards (tackle by Sauce Gardner and C.J. Mosley),1.95,4.04,10.0,2023,149
+3.0,4:15,1.0,10.0,NYJ 23,9.0,6.0,Josh Jacobs right end for -4 yards (tackle by Quincy Williams),4.04,2.96,10.0,2023,149
+3.0,3:32,2.0,14.0,NYJ 27,9.0,6.0,Josh Jacobs right end for 5 yards (tackle by Quincy Williams and C.J. Mosley),2.96,2.94,10.0,2023,149
+3.0,2:49,3.0,9.0,NYJ 22,9.0,6.0,Aidan O'Connell pass incomplete short left intended for Davante Adams,2.94,1.99,10.0,2023,149
+3.0,2:40,4.0,9.0,NYJ 22,9.0,9.0,Daniel Carlson 40 yard field goal good,1.99,3.0,10.0,2023,149
+3.0,2:36,,,LVR 35,9.0,9.0,"Daniel Carlson kicks off 66 yards, returned by Xavier Gipson for 14 yards (tackle by Ameer Abdullah and Curtis Bolton)",0.0,-0.32,10.0,2023,149
+3.0,2:28,1.0,10.0,NYJ 13,9.0,9.0,Zach Wilson pass complete short left to Garrett Wilson for 5 yards (tackle by Jakorian Bennett),-0.32,-0.14,10.0,2023,149
+3.0,1:52,2.0,5.0,NYJ 18,9.0,9.0,"Zach Wilson sacked by Malcolm Koonce for -5 yards. Zach Wilson fumbles (forced by Malcolm Koonce), recovered by Mekhi Becton at NYJ-13",-0.14,-1.42,10.0,2023,149
+3.0,1:05,3.0,10.0,NYJ 13,9.0,9.0,Zach Wilson pass incomplete deep middle intended for Malik Taylor,-1.42,-2.49,10.0,2023,149
+3.0,0:56,4.0,10.0,NYJ 13,9.0,9.0,"Thomas Morstead punts 51 yards, returned by DeAndre Carter for 11 yards (tackle by Samuel Eguavoen)",-2.49,-1.99,10.0,2023,149
+3.0,0:46,1.0,10.0,LVR 46,9.0,9.0,Aidan O'Connell pass incomplete short left intended for Michael Mayer,1.99,1.52,10.0,2023,149
+3.0,0:42,2.0,10.0,LVR 47,9.0,9.0,Josh Jacobs up the middle for 40 yards. Josh Jacobs fumbles. Josh Jacobs fumbles out of bounds (forced by Michael Carter),1.52,4.71,10.0,2023,149
+3.0,0:05,1.0,10.0,NYJ 13,9.0,9.0,Josh Jacobs up the middle for 5 yards (tackle by Tony Adams and Jordan Whitehead),4.71,4.96,10.0,2023,149
+4.0,15:00,2.0,5.0,NYJ 8,9.0,9.0,Josh Jacobs up the middle for 1 yard (tackle by Jordan Whitehead and Quinnen Williams),4.96,4.33,10.0,2023,149
+4.0,14:17,3.0,4.0,NYJ 7,9.0,15.0,"Aidan O'Connell pass complete short right to Michael Mayer for 7 yards, touchdown",4.33,7.0,10.0,2023,149
+4.0,14:10,,,NYJ 15,9.0,16.0,Daniel Carlson kicks extra point good,0.0,0.0,10.0,2023,149
+4.0,14:10,,,LVR 35,9.0,16.0,"Daniel Carlson kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,149
+4.0,14:10,1.0,10.0,NYJ 25,9.0,16.0,Zach Wilson pass complete short left to Breece Hall for 35 yards (tackle by Jakorian Bennett),0.61,2.92,10.0,2023,149
+4.0,13:28,1.0,10.0,LVR 40,9.0,16.0,Zach Wilson pass complete short left to Garrett Wilson for 12 yards (tackle by Divine Deablo),2.92,3.71,10.0,2023,149
+4.0,12:50,1.0,10.0,LVR 28,9.0,16.0,Garrett Wilson pass incomplete short right intended for Allen Lazard,3.71,3.17,10.0,2023,149
+4.0,12:44,2.0,10.0,LVR 28,9.0,16.0,Zach Wilson pass incomplete short right intended for Dalvin Cook,3.17,2.48,10.0,2023,149
+4.0,12:40,3.0,10.0,LVR 28,9.0,16.0,Zach Wilson scrambles left end for 1 yard (tackle by Jerry Tillery),2.48,1.67,10.0,2023,149
+4.0,12:02,4.0,9.0,LVR 27,12.0,16.0,Greg Zuerlein 45 yard field goal good,1.67,3.0,10.0,2023,149
+4.0,11:58,,,NYJ 35,12.0,16.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,149
+4.0,11:58,1.0,10.0,LVR 25,12.0,16.0,Aidan O'Connell pass incomplete deep left intended for Davante Adams,0.61,0.06,10.0,2023,149
+4.0,11:51,2.0,10.0,LVR 25,12.0,16.0,Josh Jacobs up the middle for 9 yards (tackle by Tony Adams),0.06,0.56,10.0,2023,149
+4.0,11:14,3.0,1.0,LVR 34,12.0,16.0,Josh Jacobs left tackle for 1 yard (tackle by Jermaine Johnson and Quincy Williams),0.56,1.27,10.0,2023,149
+4.0,10:29,1.0,10.0,LVR 35,12.0,16.0,Josh Jacobs left tackle for no gain (tackle by Sauce Gardner),1.27,0.72,10.0,2023,149
+4.0,9:54,2.0,10.0,LVR 35,12.0,16.0,Josh Jacobs right end for 2 yards (tackle by C.J. Mosley and John Franklin-Myers),0.72,0.3,10.0,2023,149
+4.0,9:08,3.0,8.0,LVR 37,12.0,16.0,Aidan O'Connell pass complete short middle to Austin Hooper for 7 yards (tackle by C.J. Mosley and Tony Adams),0.3,-0.46,10.0,2023,149
+4.0,8:29,4.0,1.0,LVR 44,12.0,16.0,DeAndre Carter left end for 15 yards (tackle by Jamien Sherwood and Jordan Whitehead),-0.46,2.85,10.0,2023,149
+4.0,7:49,1.0,10.0,NYJ 41,12.0,16.0,Zamir White up the middle for 5 yards (tackle by Tony Adams),2.85,2.98,10.0,2023,149
+4.0,7:01,2.0,5.0,NYJ 36,12.0,16.0,Josh Jacobs left guard for 7 yards (tackle by Jamien Sherwood),2.98,3.64,10.0,2023,149
+4.0,6:13,1.0,10.0,NYJ 29,12.0,16.0,"Josh Jacobs up the middle for 4 yards. Josh Jacobs fumbles (forced by Jamien Sherwood), recovered by Ashtyn Davis at NYJ-25 and returned for -1 yards Replay Assistant challenged the fumble ruling, and the play was upheld.",3.64,-0.54,10.0,2023,149
+4.0,6:06,1.0,10.0,NYJ 24,12.0,16.0,Zach Wilson pass complete short middle to Allen Lazard for 17 yards (tackle by Robert Spillane),0.54,1.66,10.0,2023,149
+4.0,5:32,1.0,10.0,NYJ 41,12.0,16.0,Zach Wilson pass complete short left to Garrett Wilson for 3 yards (tackle by Robert Spillane and Divine Deablo),1.66,1.53,10.0,2023,149
+4.0,4:55,2.0,7.0,NYJ 44,12.0,16.0,Zach Wilson pass complete short middle to Breece Hall for 10 yards (tackle by Divine Deablo),1.53,2.52,10.0,2023,149
+4.0,4:16,1.0,10.0,LVR 46,12.0,16.0,Zach Wilson pass complete short left to C.J. Uzomah for 6 yards (tackle by John Jenkins and Malik Reed),2.52,2.79,10.0,2023,149
+4.0,3:36,2.0,4.0,LVR 40,12.0,16.0,Zach Wilson pass incomplete deep left intended for Garrett Wilson (defended by Nate Hobbs),2.79,2.08,10.0,2023,149
+4.0,3:30,3.0,4.0,LVR 40,12.0,16.0,Zach Wilson pass complete short right to Tyler Conklin for 4 yards (tackle by Tyler Hall),2.08,3.18,10.0,2023,149
+4.0,3:03,1.0,10.0,LVR 36,12.0,16.0,Zach Wilson pass incomplete short right intended for Allen Lazard (defended by Divine Deablo),3.18,2.64,10.0,2023,149
+4.0,3:00,2.0,10.0,LVR 36,12.0,16.0,Zach Wilson pass complete short right to Tyler Conklin for 8 yards (tackle by Adam Butler),2.64,3.01,10.0,2023,149
+4.0,2:20,3.0,2.0,LVR 28,12.0,16.0,Zach Wilson pass complete short middle to Garrett Wilson for 6 yards (tackle by Tre'von Moehrig),3.01,4.11,10.0,2023,149
+4.0,2:00,1.0,10.0,LVR 22,12.0,16.0,Zach Wilson pass complete short right to Breece Hall for 2 yards (tackle by Tyler Hall),4.11,3.83,10.0,2023,149
+4.0,1:14,2.0,8.0,LVR 20,12.0,16.0,Zach Wilson pass short right intended for Allen Lazard is intercepted by Robert Spillane at LV-15 and returned for 25 yards (tackle by Allen Lazard),3.83,-1.6,10.0,2023,149
+4.0,1:14,1.0,10.0,LVR 40,12.0,16.0,Josh Jacobs left guard for 5 yards (tackle by Jamien Sherwood and Jordan Whitehead),1.6,1.73,10.0,2023,149
+4.0,1:09,,,,,,Timeout #1 by New York Jets,,,10.0,2023,149
+4.0,1:09,2.0,5.0,LVR 45,12.0,16.0,Josh Jacobs up the middle for no gain (tackle by C.J. Mosley),1.73,1.03,10.0,2023,149
+4.0,1:05,,,,,,Timeout #2 by New York Jets,,,10.0,2023,149
+4.0,1:05,3.0,5.0,LVR 45,12.0,16.0,Aidan O'Connell pass incomplete short right intended for Michael Mayer (defended by Jermaine Johnson),1.03,-0.39,10.0,2023,149
+4.0,1:00,4.0,5.0,LVR 45,12.0,16.0,"Penalty on LVR: Delay of Game, 5 yards (accepted) (no play)",-0.39,-0.72,10.0,2023,149
+4.0,1:00,4.0,10.0,LVR 40,12.0,16.0,"AJ Cole punts 60 yards, touchback.",-0.72,-0.28,10.0,2023,149
+4.0,0:53,1.0,10.0,NYJ 20,12.0,16.0,Zach Wilson pass incomplete short middle,0.28,-0.27,10.0,2023,149
+4.0,0:49,2.0,10.0,NYJ 20,12.0,16.0,Zach Wilson pass complete short middle to Tyler Conklin for 9 yards (tackle by Tyler Hall and Adam Butler),-0.27,0.23,10.0,2023,149
+4.0,0:28,3.0,1.0,NYJ 29,12.0,16.0,Zach Wilson pass complete deep middle to Tyler Conklin for 27 yards (tackle by Marcus Epps),0.23,2.65,10.0,2023,149
+4.0,0:13,,,,,,Timeout #3 by New York Jets,,,10.0,2023,149
+4.0,0:13,1.0,10.0,LVR 44,12.0,16.0,Zach Wilson pass incomplete deep left intended for Xavier Gipson,2.65,2.11,10.0,2023,149
+4.0,0:05,,,,,,Timeout #2 by Las Vegas Raiders,,,10.0,2023,149
+4.0,0:05,2.0,10.0,LVR 44,12.0,16.0,Zach Wilson pass incomplete deep left,2.11,1.42,10.0,2023,149

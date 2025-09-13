@@ -1,0 +1,172 @@
+Quarter,Time,Down,ToGo,Location,HOU,MIN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Vikings won the coin toss and deferred, Texans to receive the opening kickoff.",,,3.0,2024,38
+1.0,15:00,,,MIN 35,0.0,0.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,3.0,2024,38
+1.0,15:00,1.0,10.0,HOU 30,0.0,0.0,"C.J. Stroud pass complete deep left to Nico Collins for no gain (tackle by Andrew Van Ginkel). Penalty on Cade Stover: Offensive Holding, 10 yards (accepted) (no play)",0.94,0.28,3.0,2024,38
+1.0,14:47,1.0,20.0,HOU 20,0.0,0.0,C.J. Stroud pass short middle (defended by Harrison Phillips) intended for Tank Dell is intercepted by Kamu Grugier-Hill at HOU-26 and returned for 5 yards (tackle by Cam Akers and Nico Collins),0.28,-4.17,3.0,2024,38
+1.0,14:24,1.0,10.0,HOU 21,0.0,0.0,Aaron Jones left tackle for 3 yards (tackle by Kamari Lassiter and Azeez Al-Shaair),4.17,4.04,3.0,2024,38
+1.0,13:48,2.0,7.0,HOU 18,0.0,0.0,Sam Darnold pass incomplete short left intended for Johnny Mundt,4.04,3.31,3.0,2024,38
+1.0,13:42,3.0,7.0,HOU 18,0.0,0.0,Sam Darnold pass complete short right to Justin Jefferson for 9 yards,3.31,5.14,3.0,2024,38
+1.0,13:10,1.0,9.0,HOU 9,0.0,0.0,Sam Darnold pass incomplete short middle intended for Aaron Jones,5.14,4.38,3.0,2024,38
+1.0,12:54,2.0,9.0,HOU 9,0.0,0.0,Aaron Jones up the middle for 3 yards (tackle by Jalen Pitre and Tim Settle),4.38,4.04,3.0,2024,38
+1.0,12:10,3.0,6.0,HOU 6,0.0,6.0,"Sam Darnold pass complete short left to Justin Jefferson for 6 yards, touchdown",4.04,7.0,3.0,2024,38
+1.0,12:03,,,HOU 15,0.0,7.0,Will Reichard kicks extra point good,0.0,0.0,3.0,2024,38
+1.0,12:03,,,MIN 35,0.0,7.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,3.0,2024,38
+1.0,12:03,1.0,10.0,HOU 30,0.0,7.0,C.J. Stroud scrambles up the middle for 1 yard (tackle by Harrison Phillips),0.94,0.53,3.0,2024,38
+1.0,11:23,2.0,9.0,HOU 31,0.0,7.0,Cam Akers right end for 2 yards (tackle by Kamu Grugier-Hill),0.53,0.1,3.0,2024,38
+1.0,10:40,3.0,7.0,HOU 33,0.0,7.0,C.J. Stroud pass complete short left to Stefon Diggs for 7 yards (tackle by Byron Murphy),0.1,1.6,3.0,2024,38
+1.0,9:57,1.0,10.0,HOU 40,0.0,7.0,Cam Akers right end for 8 yards (tackle by Camryn Bynum),1.6,2.13,3.0,2024,38
+1.0,9:14,2.0,2.0,HOU 48,0.0,7.0,C.J. Stroud pass complete short right to Stefon Diggs for 7 yards (tackle by Blake Cashman),2.13,2.59,3.0,2024,38
+1.0,8:30,1.0,10.0,MIN 45,0.0,7.0,"Penalty on Laremy Tunsil: False Start, 5 yards (accepted) (no play)",2.59,2.26,3.0,2024,38
+1.0,8:07,1.0,15.0,MIN 50,0.0,7.0,"C.J. Stroud pass complete short right to Dalton Schultz for no gain. Dalton Schultz fumbles (forced by Kamu Grugier-Hill), recovered by Stephon Gilmore at MIN-47 (tackle by C.J. Stroud) Replay Assistant challenged the fumble ruling, and the original play was overturned. C.J. Stroud pass incomplete short right intended for Dalton Schultz (defended by Kamu Grugier-Hill)",2.26,1.37,3.0,2024,38
+1.0,7:59,2.0,15.0,MIN 50,0.0,7.0,C.J. Stroud pass complete short left to Robert Woods for 5 yards,1.37,1.36,3.0,2024,38
+1.0,7:20,3.0,10.0,MIN 45,0.0,7.0,C.J. Stroud scrambles left tackle for 7 yards (tackle by Andrew Van Ginkel),1.36,0.72,3.0,2024,38
+1.0,6:54,4.0,3.0,MIN 38,0.0,7.0,C.J. Stroud pass complete short right to Dalton Schultz for 3 yards (tackle by Josh Metellus),0.72,3.25,3.0,2024,38
+1.0,6:13,1.0,10.0,MIN 35,0.0,7.0,Cam Akers right tackle for 9 yards (tackle by Camryn Bynum),3.25,3.92,3.0,2024,38
+1.0,5:30,2.0,1.0,MIN 26,0.0,7.0,C.J. Stroud sacked by Jonathan Greenard for -10 yards,3.92,1.88,3.0,2024,38
+1.0,4:43,3.0,11.0,MIN 36,0.0,7.0,C.J. Stroud pass incomplete short right intended for Dalton Schultz,1.88,0.88,3.0,2024,38
+1.0,4:36,4.0,11.0,MIN 36,0.0,7.0,Ka'imi Fairbairn 54 yard field goal no good,0.88,-1.86,3.0,2024,38
+1.0,4:31,1.0,10.0,MIN 44,0.0,7.0,Sam Darnold pass complete deep right to Justin Jefferson for 28 yards (tackle by Azeez Al-Shaair),1.86,3.71,3.0,2024,38
+1.0,3:48,1.0,10.0,HOU 28,0.0,7.0,Aaron Jones left guard for 7 yards (tackle by Eric Murray and Jimmie Ward),3.71,4.11,3.0,2024,38
+1.0,3:12,2.0,3.0,HOU 21,0.0,7.0,Sam Darnold pass complete short left to Justin Jefferson for 5 yards,4.11,4.51,3.0,2024,38
+1.0,2:41,1.0,10.0,HOU 16,0.0,7.0,Sam Darnold pass complete short middle to Aaron Jones for 4 yards (tackle by Folorunso Fatukasi),4.51,4.57,3.0,2024,38
+1.0,1:59,2.0,6.0,HOU 12,0.0,7.0,Aaron Jones left tackle for 4 yards (tackle by Azeez Al-Shaair and Jalen Pitre),4.57,4.62,3.0,2024,38
+1.0,1:13,3.0,2.0,HOU 8,0.0,13.0,"Sam Darnold pass complete short left to Aaron Jones for 8 yards, touchdown",4.62,7.0,3.0,2024,38
+1.0,1:08,,,HOU 15,0.0,14.0,Will Reichard kicks extra point good,0.0,0.0,3.0,2024,38
+1.0,1:08,,,MIN 35,0.0,14.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,3.0,2024,38
+1.0,1:08,1.0,10.0,HOU 30,0.0,14.0,J.J. Taylor left end for 3 yards (tackle by Harrison Smith),0.94,0.8,3.0,2024,38
+1.0,0:43,2.0,7.0,HOU 33,0.0,14.0,C.J. Stroud pass incomplete deep middle intended for Stefon Diggs,0.8,0.1,3.0,2024,38
+1.0,0:37,3.0,7.0,HOU 33,0.0,14.0,"C.J. Stroud pass complete short middle to Xavier Hutchinson for no gain (tackle by Harrison Smith). Penalty on Laremy Tunsil: Illegal Formation, 5 yards (accepted) (no play)",0.1,-0.56,3.0,2024,38
+1.0,0:12,3.0,12.0,HOU 28,0.0,14.0,C.J. Stroud scrambles left end for 4 yards (tackle by Andrew Van Ginkel),-0.56,-1.24,3.0,2024,38
+2.0,15:00,4.0,8.0,HOU 32,0.0,14.0,"Tommy Townsend punts 52 yards downed by Henry To'oTo'o. Penalty on Kamu Grugier-Hill: Running Into the Kicker, 5 yards (declined)",-1.24,0.14,3.0,2024,38
+2.0,14:50,1.0,10.0,MIN 16,0.0,14.0,Ty Chandler left end for 1 yard (tackle by Jalen Pitre and Jerry Hughes),-0.14,-0.51,3.0,2024,38
+2.0,14:20,2.0,9.0,MIN 17,0.0,14.0,Sam Darnold pass incomplete deep right intended for Josh Oliver (defended by Calen Bullock),-0.51,-1.2,3.0,2024,38
+2.0,14:12,3.0,9.0,MIN 17,0.0,14.0,"Sam Darnold pass complete short left to Justin Jefferson for no gain (tackle by Kamari Lassiter and Will Anderson). Penalty on Jalen Nailor: Illegal Motion, 5 yards (accepted) (no play)",-1.2,-1.89,3.0,2024,38
+2.0,14:00,3.0,14.0,MIN 12,0.0,14.0,"Penalty on Garrett Bradbury: False Start, 5 yards (accepted) (no play)",-1.89,-2.47,3.0,2024,38
+2.0,13:27,3.0,19.0,MIN 7,0.0,14.0,Sam Darnold pass incomplete short right,-2.47,-2.49,3.0,2024,38
+2.0,13:27,4.0,19.0,MIN 7,0.0,14.0,"Ryan Wright punts 55 yards, returned by Steven Sims for 1 yard (tackle by Jay Ward)",-2.49,-1.53,3.0,2024,38
+2.0,13:20,1.0,10.0,HOU 39,0.0,14.0,C.J. Stroud pass complete deep middle to Stefon Diggs for 19 yards (tackle by Harrison Smith and Camryn Bynum),1.53,2.79,3.0,2024,38
+2.0,12:51,1.0,10.0,MIN 42,0.0,14.0,C.J. Stroud pass incomplete short left intended for Cam Akers (defended by Jerry Tillery),2.79,2.24,3.0,2024,38
+2.0,12:48,2.0,10.0,MIN 42,0.0,14.0,Cam Akers right end for -2 yards (tackle by Jonathan Bullard and Jonathan Greenard),2.24,1.29,3.0,2024,38
+2.0,12:06,3.0,12.0,MIN 44,0.0,14.0,Stefon Diggs pass complete short right to Dare Ogunbowale for 13 yards (tackle by Byron Murphy and Harrison Smith),1.29,3.51,3.0,2024,38
+2.0,11:17,1.0,10.0,MIN 31,0.0,14.0,C.J. Stroud pass complete short right to Tank Dell for 4 yards (tackle by Stephon Gilmore),3.51,3.51,3.0,2024,38
+2.0,10:34,2.0,6.0,MIN 27,0.0,14.0,British Brooks left guard for 2 yards (tackle by Jonathan Bullard and Andrew Van Ginkel),3.51,3.07,3.0,2024,38
+2.0,9:52,3.0,4.0,MIN 25,0.0,14.0,"Penalty on Tytus Howard: False Start, 5 yards (accepted) (no play)",3.07,2.41,3.0,2024,38
+2.0,9:40,3.0,9.0,MIN 30,0.0,14.0,"Penalty on Juice Scruggs: False Start, 5 yards (accepted) (no play)",2.41,1.75,3.0,2024,38
+2.0,9:10,3.0,14.0,MIN 35,0.0,14.0,"Penalty on Laremy Tunsil: False Start, 5 yards (accepted) (no play)",1.75,1.09,3.0,2024,38
+2.0,8:51,3.0,19.0,MIN 40,0.0,14.0,"C.J. Stroud pass incomplete deep left intended for Nico Collins. Penalty on Laremy Tunsil: Illegal Formation, 5 yards (declined)",1.09,0.59,3.0,2024,38
+2.0,8:46,4.0,19.0,MIN 40,0.0,14.0,"Tommy Townsend punts 40 yards, touchback.",0.59,-0.28,3.0,2024,38
+2.0,8:37,1.0,10.0,MIN 20,0.0,14.0,Aaron Jones left guard for 5 yards (tackle by Jalen Pitre and Mario Edwards),0.28,0.41,3.0,2024,38
+2.0,8:14,2.0,5.0,MIN 25,0.0,14.0,Sam Darnold pass complete short left to Aaron Jones for 20 yards (tackle by Calen Bullock),0.41,1.93,3.0,2024,38
+2.0,7:41,1.0,10.0,MIN 45,0.0,14.0,Aaron Jones left guard for 6 yards (tackle by Jimmie Ward),1.93,2.19,3.0,2024,38
+2.0,7:03,2.0,4.0,HOU 49,0.0,14.0,Aaron Jones left tackle for 1 yard (tackle by Kamari Lassiter),2.19,1.62,3.0,2024,38
+2.0,6:23,3.0,3.0,HOU 48,0.0,14.0,"Penalty on Garrett Bradbury: False Start, 5 yards (accepted) (no play)",1.62,0.96,3.0,2024,38
+2.0,6:10,3.0,8.0,MIN 47,0.0,14.0,Sam Darnold pass incomplete short middle intended for Brandon Powell (defended by Eric Murray),0.96,-0.26,3.0,2024,38
+2.0,5:58,4.0,8.0,MIN 47,0.0,14.0,"Ryan Wright punts 43 yards, returned by Steven Sims for 6 yards (tackle by C.J. Ham)",-0.26,0.14,3.0,2024,38
+2.0,5:46,1.0,10.0,HOU 16,0.0,14.0,Cam Akers left tackle for 3 yards (tackle by Patrick Jones and Jonathan Bullard),-0.14,-0.18,3.0,2024,38
+2.0,5:02,2.0,7.0,HOU 19,0.0,14.0,C.J. Stroud pass complete short left to Nico Collins for 9 yards (tackle by Camryn Bynum and Stephon Gilmore),-0.18,0.81,3.0,2024,38
+2.0,4:21,1.0,10.0,HOU 28,0.0,14.0,C.J. Stroud pass complete short right to Stefon Diggs for 12 yards (tackle by Josh Metellus and Stephon Gilmore),0.81,1.6,3.0,2024,38
+2.0,3:52,1.0,10.0,HOU 40,0.0,14.0,Cam Akers left tackle for -3 yards (tackle by Patrick Jones),1.6,0.65,3.0,2024,38
+2.0,3:14,2.0,13.0,HOU 37,0.0,14.0,Cam Akers up the middle for 3 yards (tackle by Harrison Smith and Kamu Grugier-Hill),0.65,0.37,3.0,2024,38
+2.0,2:30,3.0,10.0,HOU 40,0.0,14.0,"C.J. Stroud pass complete short left to Tank Dell for no gain (tackle by Camryn Bynum). Penalty on Laremy Tunsil: Illegal Formation, 5 yards (accepted) (no play)",0.37,-0.3,3.0,2024,38
+2.0,2:01,3.0,15.0,HOU 35,0.0,14.0,C.J. Stroud pass complete short middle to Stefon Diggs for 12 yards (tackle by Josh Metellus),-0.3,-0.26,3.0,2024,38
+2.0,1:58,4.0,3.0,HOU 47,0.0,14.0,"Tommy Townsend punts 40 yards, fair catch by Brandon Powell at MIN-13",-0.26,0.32,3.0,2024,38
+2.0,1:51,1.0,10.0,MIN 13,0.0,14.0,Sam Darnold pass complete deep middle to Justin Jefferson for 21 yards (tackle by Derek Stingley),-0.32,1.2,3.0,2024,38
+2.0,1:20,1.0,10.0,MIN 34,0.0,14.0,Sam Darnold pass complete short left to Trent Sherfield for 8 yards (tackle by Kamari Lassiter),1.2,1.74,3.0,2024,38
+2.0,1:15,2.0,2.0,MIN 42,0.0,14.0,Sam Darnold sacked by Tim Settle for -9 yards,1.74,-0.16,3.0,2024,38
+2.0,1:07,,,,,,Timeout #1 by Houston Texans,,,3.0,2024,38
+2.0,1:07,3.0,11.0,MIN 33,0.0,14.0,Sam Darnold pass complete short right to Justin Jefferson for 12 yards,-0.16,1.93,3.0,2024,38
+2.0,1:03,1.0,10.0,MIN 45,0.0,14.0,Sam Darnold pass incomplete short right,1.93,1.38,3.0,2024,38
+2.0,0:56,2.0,10.0,MIN 45,0.0,14.0,Ty Chandler left guard for 2 yards (tackle by Khalil Davis and Derek Barnett),1.38,0.96,3.0,2024,38
+2.0,0:51,,,,,,Timeout #2 by Houston Texans,,,3.0,2024,38
+2.0,0:51,3.0,8.0,MIN 47,0.0,14.0,Sam Darnold sacked by Will Anderson for -8 yards,0.96,-0.78,3.0,2024,38
+2.0,0:46,,,,,,Timeout #3 by Houston Texans,,,3.0,2024,38
+2.0,0:46,4.0,16.0,MIN 39,0.0,14.0,"Ryan Wright punts 46 yards, returned by Steven Sims for -2 yards (tackle by Theo Jackson)",-0.78,0.32,3.0,2024,38
+2.0,0:34,1.0,10.0,HOU 13,0.0,14.0,C.J. Stroud pass complete short middle to Stefon Diggs for 16 yards (tackle by Harrison Smith),-0.32,0.87,3.0,2024,38
+2.0,0:22,1.0,10.0,HOU 29,0.0,14.0,C.J. Stroud spiked the ball,0.87,0.33,3.0,2024,38
+2.0,0:21,,,,,,Timeout #1 by Minnesota Vikings,,,3.0,2024,38
+2.0,0:21,2.0,10.0,HOU 29,0.0,14.0,C.J. Stroud sacked by Andrew Van Ginkel for -12 yards,0.33,-2.27,3.0,2024,38
+3.0,15:00,,,HOU 35,0.0,14.0,"Ka'imi Fairbairn kicks off no gain, returned by Myles Gaskin for no gain (tackle by Zeke Turner and Jake Hansen). Penalty on Neville Hewitt: Illegal Formation, 5 yards (offset) . Penalty on Kamu Grugier-Hill: Offensive Holding, 10 yards (offset) (no play)",0.0,0.0,3.0,2024,38
+3.0,14:52,,,HOU 35,0.0,14.0,"Ka'imi Fairbairn kicks off 61 yards, returned by Myles Gaskin for 19 yards (tackle by Jake Hansen)",0.0,0.48,3.0,2024,38
+3.0,14:47,1.0,10.0,MIN 23,0.0,14.0,Aaron Jones right end for 3 yards (tackle by Azeez Al-Shaair and Jalen Pitre),0.48,0.34,3.0,2024,38
+3.0,14:09,2.0,7.0,MIN 26,0.0,14.0,Sam Darnold pass complete deep left to Jalen Nailor for 18 yards,0.34,1.86,3.0,2024,38
+3.0,13:41,1.0,10.0,MIN 44,0.0,14.0,Aaron Jones up the middle for 8 yards (tackle by Henry To'oTo'o),1.86,2.4,3.0,2024,38
+3.0,13:18,2.0,2.0,HOU 48,0.0,14.0,Sam Darnold pass complete short right to Jalen Nailor for 9 yards (tackle by Jalen Pitre),2.4,2.98,3.0,2024,38
+3.0,12:49,1.0,10.0,HOU 39,0.0,14.0,"Sam Darnold sacked by Derek Barnett for no gain. Sam Darnold fumbles (forced by Derek Barnett), recovered by Brandon Powell at HOU-39 and returned for 7 yards (tackle by Calen Bullock)",2.98,3.39,3.0,2024,38
+3.0,11:56,2.0,3.0,HOU 32,0.0,14.0,Aaron Jones left tackle for 3 yards (tackle by Azeez Al-Shaair),3.39,3.64,3.0,2024,38
+3.0,11:16,1.0,10.0,HOU 29,0.0,14.0,"Sam Darnold pass incomplete deep right intended for Johnny Mundt. Penalty on Jalen Pitre: Defensive Pass Interference, 28 yards (accepted) (no play)",3.64,6.97,3.0,2024,38
+3.0,11:09,1.0,1.0,HOU 1,0.0,14.0,Aaron Jones right guard for -3 yards (tackle by Danielle Hunter and Will Anderson),6.97,5.34,3.0,2024,38
+3.0,10:26,2.0,4.0,HOU 4,0.0,20.0,"Sam Darnold pass complete short right to Jalen Nailor for 4 yards, touchdown",5.34,7.0,3.0,2024,38
+3.0,10:22,,,HOU 15,0.0,21.0,Will Reichard kicks extra point good,0.0,0.0,3.0,2024,38
+3.0,10:22,,,MIN 35,0.0,21.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,3.0,2024,38
+3.0,10:22,1.0,10.0,HOU 30,0.0,21.0,C.J. Stroud sacked by Jonathan Greenard for -6 yards,0.94,-0.42,3.0,2024,38
+3.0,9:56,2.0,16.0,HOU 24,0.0,21.0,C.J. Stroud pass incomplete short left intended for Cam Akers (defended by Harrison Smith),-0.42,-1.09,3.0,2024,38
+3.0,9:53,3.0,16.0,HOU 24,0.0,21.0,C.J. Stroud pass complete short right to Dalton Schultz for 8 yards (tackle by Camryn Bynum and Blake Cashman),-1.09,-1.24,3.0,2024,38
+3.0,9:13,4.0,8.0,HOU 32,0.0,21.0,"Tommy Townsend punts 45 yards, returned by Brandon Powell for 10 yards (tackle by D'Angelo Ross)",-1.24,-1.14,3.0,2024,38
+3.0,9:02,1.0,10.0,MIN 33,0.0,21.0,Ty Chandler right end for -2 yards (tackle by Azeez Al-Shaair),1.14,0.32,3.0,2024,38
+3.0,8:26,2.0,12.0,MIN 31,0.0,21.0,Sam Darnold sacked by Tim Settle for -8 yards,0.32,-1.42,3.0,2024,38
+3.0,7:42,3.0,20.0,MIN 23,0.0,21.0,Sam Darnold pass incomplete short right intended for Johnny Mundt,-1.42,-1.83,3.0,2024,38
+3.0,7:32,4.0,20.0,MIN 23,0.0,21.0,"Ryan Wright punts 49 yards, fair catch by Steven Sims at HOU-28",-1.83,-0.81,3.0,2024,38
+3.0,7:27,1.0,10.0,HOU 28,0.0,21.0,Cam Akers left end for 2 yards (tackle by Andrew Van Ginkel),0.81,0.53,3.0,2024,38
+3.0,6:43,2.0,8.0,HOU 30,0.0,21.0,"C.J. Stroud pass incomplete short right intended for Cam Akers. Penalty on Jonathan Bullard: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",0.53,1.27,3.0,2024,38
+3.0,6:37,1.0,10.0,HOU 35,0.0,21.0,C.J. Stroud pass complete short middle to Tank Dell for 19 yards (tackle by Andrew Van Ginkel),1.27,2.52,3.0,2024,38
+3.0,5:58,1.0,10.0,MIN 46,0.0,21.0,Cam Akers right end for -1 yards (tackle by Jonathan Bullard),2.52,1.84,3.0,2024,38
+3.0,5:23,2.0,11.0,MIN 47,0.0,21.0,C.J. Stroud pass incomplete short right intended for Xavier Hutchinson,1.84,1.16,3.0,2024,38
+3.0,5:20,3.0,11.0,MIN 47,0.0,21.0,C.J. Stroud pass complete deep left to Nico Collins for 34 yards (tackle by Byron Murphy),1.16,4.71,3.0,2024,38
+3.0,4:52,1.0,10.0,MIN 13,0.0,21.0,C.J. Stroud pass complete short right to Tank Dell for 5 yards (tackle by Josh Metellus and Shaquill Griffin),4.71,4.96,3.0,2024,38
+3.0,4:00,2.0,5.0,MIN 8,6.0,21.0,"C.J. Stroud pass complete short right to Cam Akers for 8 yards, touchdown",4.96,7.0,3.0,2024,38
+3.0,3:56,,,MIN 15,7.0,21.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,3.0,2024,38
+3.0,3:56,,,HOU 35,7.0,21.0,"Ka'imi Fairbairn kicks off 25 yards, out of bounds. Penalty on Ka'imi Fairbairn: Kickoff Out of Bounds (accepted)",0.0,1.6,3.0,2024,38
+3.0,3:56,1.0,10.0,MIN 40,7.0,21.0,Sam Darnold pass incomplete short left intended for Jalen Nailor (defended by Jalen Pitre),1.6,1.05,3.0,2024,38
+3.0,3:43,2.0,10.0,MIN 40,7.0,21.0,"Sam Darnold pass complete short right to Aaron Jones for 9 yards (tackle by Jimmie Ward and Henry To'oTo'o). Penalty on Danielle Hunter: Roughing the Passer, 15 yards (accepted)",1.05,3.18,3.0,2024,38
+3.0,3:43,1.0,10.0,HOU 36,7.0,21.0,Aaron Jones left guard for 1 yard (tackle by Azeez Al-Shaair),3.18,2.77,3.0,2024,38
+3.0,3:08,2.0,9.0,HOU 35,7.0,21.0,Sam Darnold pass complete short middle to Aaron Jones for 5 yards (tackle by Henry To'oTo'o),2.77,2.74,3.0,2024,38
+3.0,2:25,3.0,4.0,HOU 30,7.0,21.0,"Sam Darnold pass complete deep left to Jalen Nailor for no gain, touchdown. Penalty on Aaron Jones: Offensive Pass Interference, 10 yards (accepted) (no play)",2.74,1.42,3.0,2024,38
+3.0,2:15,3.0,14.0,HOU 40,7.0,21.0,Sam Darnold pass complete short middle to Brandon Powell for 13 yards (tackle by Jalen Pitre),1.42,1.82,3.0,2024,38
+3.0,1:31,4.0,1.0,HOU 27,7.0,21.0,Jalen Nailor left end for 3 yards (tackle by Kamari Lassiter),1.82,3.97,3.0,2024,38
+3.0,0:55,1.0,10.0,HOU 24,7.0,21.0,Ty Chandler up the middle for 5 yards (tackle by Danielle Hunter and Henry To'oTo'o),3.97,4.12,3.0,2024,38
+3.0,0:30,2.0,5.0,HOU 19,7.0,21.0,Ty Chandler left guard for 2 yards (tackle by Folorunso Fatukasi and Jimmie Ward),4.12,3.75,3.0,2024,38
+4.0,15:00,3.0,3.0,HOU 17,7.0,21.0,Sam Darnold pass incomplete short right intended for Justin Jefferson,3.75,2.41,3.0,2024,38
+4.0,14:57,4.0,3.0,HOU 17,7.0,24.0,Will Reichard 35 yard field goal good,2.41,3.0,3.0,2024,38
+4.0,14:53,,,MIN 35,7.0,24.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,3.0,2024,38
+4.0,14:53,1.0,10.0,HOU 30,7.0,24.0,C.J. Stroud pass incomplete deep middle intended for Dalton Schultz,0.94,0.39,3.0,2024,38
+4.0,14:48,2.0,10.0,HOU 30,7.0,24.0,C.J. Stroud pass complete short right to Stefon Diggs for 3 yards (tackle by Kamu Grugier-Hill),0.39,0.1,3.0,2024,38
+4.0,14:10,3.0,7.0,HOU 33,7.0,24.0,C.J. Stroud pass deep left intended for Nico Collins is intercepted by Camryn Bynum at MIN-44 and returned for 3 yards (tackle by Tank Dell),0.1,-2.06,3.0,2024,38
+4.0,14:01,1.0,10.0,MIN 47,7.0,24.0,Aaron Jones left end for 4 yards (tackle by Jalen Pitre),2.06,2.06,3.0,2024,38
+4.0,13:24,2.0,6.0,HOU 49,7.0,24.0,Aaron Jones left guard for 5 yards (tackle by Jimmie Ward),2.06,2.02,3.0,2024,38
+4.0,12:33,,,,,,Timeout #1 by Minnesota Vikings,,,3.0,2024,38
+4.0,12:33,3.0,1.0,HOU 44,7.0,24.0,Aaron Jones left end for 4 yards (tackle by Azeez Al-Shaair),2.02,2.92,3.0,2024,38
+4.0,12:00,1.0,10.0,HOU 40,7.0,24.0,Aaron Jones up the middle for 39 yards (tackle by Calen Bullock),2.92,6.97,3.0,2024,38
+4.0,11:12,1.0,1.0,HOU 1,7.0,24.0,Aaron Jones up the middle for -1 yards (tackle by Azeez Al-Shaair),6.97,5.72,3.0,2024,38
+4.0,10:22,2.0,2.0,HOU 2,7.0,24.0,Sam Darnold pass incomplete short middle,5.72,4.95,3.0,2024,38
+4.0,10:16,3.0,2.0,HOU 2,7.0,30.0,"Sam Darnold pass complete short middle to Johnny Mundt for 2 yards, touchdown",4.95,7.0,3.0,2024,38
+4.0,10:14,,,HOU 15,7.0,31.0,Will Reichard kicks extra point good,0.0,0.0,3.0,2024,38
+4.0,10:14,,,MIN 35,7.0,31.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,3.0,2024,38
+4.0,10:14,1.0,10.0,HOU 30,7.0,31.0,C.J. Stroud pass complete short left to Nico Collins for 18 yards (tackle by Harrison Smith),0.94,2.13,3.0,2024,38
+4.0,9:56,1.0,10.0,HOU 48,7.0,31.0,C.J. Stroud pass complete short left to J.J. Taylor for -2 yards (tackle by Stephon Gilmore),2.13,1.31,3.0,2024,38
+4.0,9:31,2.0,12.0,HOU 46,7.0,31.0,C.J. Stroud sacked by Jonathan Greenard for -14 yards,1.31,-1.22,3.0,2024,38
+4.0,8:48,3.0,26.0,HOU 32,7.0,31.0,"Penalty on Laremy Tunsil: False Start, 5 yards (accepted) (no play)",-1.22,-1.88,3.0,2024,38
+4.0,8:42,3.0,31.0,HOU 27,7.0,31.0,C.J. Stroud pass complete short right to Robert Woods for 13 yards (tackle by Blake Cashman),-1.88,-0.72,3.0,2024,38
+4.0,8:00,4.0,18.0,HOU 40,7.0,31.0,C.J. Stroud pass complete short right to Dare Ogunbowale for 15 yards (tackle by Harrison Smith and Blake Cashman),-0.72,-1.93,3.0,2024,38
+4.0,7:49,1.0,10.0,MIN 45,7.0,31.0,Aaron Jones up the middle for 6 yards (tackle by Henry To'oTo'o),1.93,2.19,3.0,2024,38
+4.0,7:08,2.0,4.0,HOU 49,7.0,31.0,Aaron Jones left guard for 4 yards (tackle by Folorunso Fatukasi),2.19,2.59,3.0,2024,38
+4.0,6:17,,,,,,Timeout #2 by Minnesota Vikings,,,3.0,2024,38
+4.0,6:17,1.0,10.0,HOU 45,7.0,31.0,Ty Chandler right end for 2 yards (tackle by Azeez Al-Shaair),2.59,2.31,3.0,2024,38
+4.0,5:37,2.0,8.0,HOU 43,7.0,31.0,Ty Chandler up the middle for 3 yards (tackle by Derek Barnett),2.31,2.08,3.0,2024,38
+4.0,4:55,3.0,4.0,HOU 40,7.0,31.0,Sam Darnold pass incomplete short left intended for Justin Jefferson,2.08,0.59,3.0,2024,38
+4.0,4:48,4.0,4.0,HOU 40,7.0,34.0,Will Reichard 58 yard field goal good,0.59,3.0,3.0,2024,38
+4.0,4:43,,,MIN 35,7.0,34.0,"Will Reichard kicks off 67 yards, returned by Steven Sims for 27 yards (tackle by Bo Richter)",0.0,0.61,3.0,2024,38
+4.0,4:39,1.0,10.0,HOU 25,7.0,34.0,Davis Mills pass complete short right to Nico Collins for 25 yards (tackle by Bo Richter),0.61,2.26,3.0,2024,38
+4.0,4:17,1.0,10.0,MIN 50,7.0,34.0,Davis Mills pass incomplete short right intended for Stefon Diggs,2.26,1.71,3.0,2024,38
+4.0,4:11,2.0,10.0,MIN 50,7.0,34.0,Davis Mills pass complete short middle to J.J. Taylor for 2 yards (tackle by Josh Metellus),1.71,1.29,3.0,2024,38
+4.0,3:46,3.0,8.0,MIN 48,7.0,34.0,Davis Mills pass complete short left to Stefon Diggs for 6 yards (tackle by Camryn Bynum),1.29,0.46,3.0,2024,38
+4.0,3:05,4.0,2.0,MIN 42,7.0,34.0,Davis Mills pass complete short left to Stefon Diggs for 9 yards (tackle by Brian Asamoah and Shaquill Griffin),0.46,3.38,3.0,2024,38
+4.0,2:38,1.0,10.0,MIN 33,7.0,34.0,Davis Mills pass complete deep right to Tank Dell for 17 yards (tackle by Theo Jackson),3.38,4.51,3.0,2024,38
+4.0,2:29,1.0,10.0,MIN 16,7.0,34.0,Davis Mills sacked by Jalen Redmond for -7 yards,4.51,3.01,3.0,2024,38
+4.0,2:00,2.0,17.0,MIN 23,7.0,34.0,Davis Mills pass complete short left to Stefon Diggs for 3 yards (tackle by Shaquill Griffin),3.01,2.74,3.0,2024,38
+4.0,1:31,3.0,14.0,MIN 20,7.0,34.0,Davis Mills pass complete deep middle to Tank Dell for 17 yards (tackle by Byron Murphy),2.74,6.51,3.0,2024,38
+4.0,1:10,1.0,3.0,MIN 3,7.0,34.0,Davis Mills pass incomplete short left intended for Nico Collins,6.51,5.53,3.0,2024,38
+4.0,1:02,,,,,,Timeout #3 by Minnesota Vikings,,,3.0,2024,38
+4.0,1:02,2.0,3.0,MIN 3,7.0,34.0,Davis Mills pass incomplete short middle intended for Nico Collins (defended by Shaquill Griffin),5.53,4.72,3.0,2024,38
+4.0,0:57,3.0,3.0,MIN 3,7.0,34.0,Davis Mills pass incomplete short right intended for Nico Collins,4.72,3.04,3.0,2024,38
+4.0,0:52,4.0,3.0,MIN 3,7.0,34.0,Davis Mills pass incomplete short left intended for Nico Collins (defended by Theo Jackson),3.04,0.38,3.0,2024,38
+4.0,0:47,1.0,10.0,MIN 3,7.0,34.0,Nick Mullens kneels for no gain,-0.38,-0.78,3.0,2024,38

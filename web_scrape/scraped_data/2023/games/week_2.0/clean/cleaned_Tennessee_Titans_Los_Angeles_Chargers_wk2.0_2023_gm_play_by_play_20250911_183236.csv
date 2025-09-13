@@ -1,0 +1,176 @@
+Quarter,Time,Down,ToGo,Location,LAC,TEN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Titans won the coin toss and deferred, Chargers to receive the opening kickoff.",,,2.0,2023,25
+1,15:00,,,TEN 35,0.0,0.0,"Nick Folk kicks off 65 yards, touchback.",0.0,0.61,2.0,2023,25
+1,15:00,1.0,10.0,LAC 25,0.0,0.0,Justin Herbert pass incomplete short left intended for Joshua Kelley,0.61,0.06,2.0,2023,25
+1,14:54,2.0,10.0,LAC 25,0.0,0.0,Justin Herbert pass complete short left to Quentin Johnston for 7 yards (tackle by Roger McCreary),0.06,0.3,2.0,2023,25
+1,14:12,3.0,3.0,LAC 32,0.0,0.0,Justin Herbert sacked by Denico Autry for -7 yards,0.3,-1.7,2.0,2023,25
+1,13:30,4.0,10.0,LAC 25,0.0,0.0,"JK Scott punts 40 yards, returned by Kearis Jackson for no gain (tackle by Nick Niemann). Penalty on Tre Avery: Offensive Holding, 10 yards (accepted)",-1.7,-0.61,2.0,2023,25
+1,13:20,1.0,10.0,TEN 25,0.0,0.0,Ryan Tannehill pass complete short right to Nick Westbrook-Ikhine for 7 yards (tackle by J.C. Jackson),0.61,1.01,2.0,2023,25
+1,12:49,2.0,3.0,TEN 32,0.0,0.0,Derrick Henry right guard for 5 yards (tackle by Derwin James and Kenneth Murray),1.01,1.4,2.0,2023,25
+1,12:08,1.0,10.0,TEN 37,0.0,0.0,Derrick Henry right guard for 4 yards (tackle by Kenneth Murray and Austin Johnson),1.4,1.4,2.0,2023,25
+1,11:28,2.0,6.0,TEN 41,0.0,0.0,Ryan Tannehill pass complete short left to Chigoziem Okonkwo for 4 yards (tackle by Derwin James and Nick Williams),1.4,1.22,2.0,2023,25
+1,11:00,3.0,2.0,TEN 45,0.0,0.0,Tyjae Spears right tackle for 3 yards (tackle by Alohi Gilman and Ja'Sir Taylor),1.22,2.13,2.0,2023,25
+1,10:25,1.0,10.0,TEN 48,0.0,0.0,Tyjae Spears right end for 4 yards (tackle by Khalil Mack),2.13,2.12,2.0,2023,25
+1,9:39,2.0,6.0,LAC 48,0.0,0.0,Derrick Henry left end for 1 yard (tackle by Kenneth Murray and Tuli Tuipulotu),2.12,1.55,2.0,2023,25
+1,8:58,3.0,5.0,LAC 47,0.0,0.0,Tyjae Spears up the middle for 1 yard (tackle by Tuli Tuipulotu and Nick Niemann),1.55,0.2,2.0,2023,25
+1,8:15,4.0,4.0,LAC 46,0.0,0.0,Ryan Tannehill sacked by Kenneth Murray for -6 yards,0.2,-2.39,2.0,2023,25
+1,8:11,1.0,10.0,TEN 48,0.0,0.0,Joshua Kelley left guard for 1 yard (tackle by Roger McCreary),2.39,1.98,2.0,2023,25
+1,7:40,2.0,9.0,TEN 47,0.0,0.0,Justin Herbert pass complete short left to Keenan Allen for 7 yards (tackle by Denico Autry),1.98,2.21,2.0,2023,25
+1,7:07,3.0,2.0,TEN 40,0.0,0.0,Joshua Kelley for 5 yards (tackle by Azeez Al-Shaair),2.21,3.25,2.0,2023,25
+1,6:29,1.0,10.0,TEN 35,0.0,0.0,Justin Herbert pass complete short left to Keenan Allen for 8 yards (tackle by Tre Avery),3.25,3.78,2.0,2023,25
+1,5:51,2.0,2.0,TEN 27,0.0,0.0,Justin Herbert pass complete short left to Mike Williams for -1 yards (tackle by Tre Avery),3.78,2.94,2.0,2023,25
+1,5:30,3.0,3.0,TEN 28,0.0,0.0,Elijah Dotson left guard for 1 yard (tackle by Jeffery Simmons and Roger McCreary),2.94,1.8,2.0,2023,25
+1,4:52,4.0,2.0,TEN 27,0.0,0.0,Justin Herbert pass complete short left to Mike Williams for 20 yards (tackle by Elijah Molden),1.8,5.6,2.0,2023,25
+1,4:35,1.0,7.0,TEN 7,0.0,0.0,Justin Herbert pass incomplete short right intended for Keenan Allen (defended by Sean Murphy-Bunting),5.6,4.76,2.0,2023,25
+1,4:29,2.0,7.0,TEN 7,0.0,0.0,Joshua Kelley right tackle for -2 yards (tackle by Roger McCreary and Azeez Al-Shaair),4.76,3.36,2.0,2023,25
+1,3:56,3.0,9.0,TEN 9,0.0,0.0,"Justin Herbert pass incomplete short right intended for Mike Williams. Penalty on Trey Pipkins: Offensive Holding, 10 yards (declined)",3.36,2.83,2.0,2023,25
+1,3:49,4.0,9.0,TEN 9,3.0,0.0,Cameron Dicker 27 yard field goal good,2.83,3.0,2.0,2023,25
+1,3:46,,,LAC 35,3.0,0.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,2.0,2023,25
+1,3:46,1.0,10.0,TEN 25,3.0,0.0,Tyjae Spears left guard for 5 yards (tackle by Tuli Tuipulotu and Austin Johnson),0.61,0.74,2.0,2023,25
+1,3:02,2.0,5.0,TEN 30,3.0,0.0,"Penalty on Trevon Wesco: False Start, 5 yards (accepted) (no play)",0.74,0.06,2.0,2023,25
+1,2:38,2.0,10.0,TEN 25,3.0,0.0,Ryan Tannehill pass incomplete short middle intended for DeAndre Hopkins,0.06,-0.62,2.0,2023,25
+1,2:34,3.0,10.0,TEN 25,3.0,0.0,Ryan Tannehill sacked by Joey Bosa for -8 yards,-0.62,-2.32,2.0,2023,25
+1,1:54,4.0,18.0,TEN 17,3.0,0.0,"Ryan Stonehouse punts 60 yards, returned by Derius Davis for 13 yards (tackle by Julius Chestnut)",-2.32,-1.33,2.0,2023,25
+1,1:42,1.0,10.0,LAC 36,3.0,0.0,Justin Herbert pass complete short left to Mike Williams for 7 yards (tackle by Roger McCreary),1.33,1.74,2.0,2023,25
+1,1:03,2.0,3.0,LAC 43,3.0,0.0,Joshua Kelley right end for 4 yards (tackle by Rashad Weaver and Sean Murphy-Bunting),1.74,2.06,2.0,2023,25
+1,0:27,1.0,10.0,LAC 47,3.0,0.0,Mike Williams left end for 3 yards (tackle by Kevin Byard),2.06,1.92,2.0,2023,25
+2,15:00,2.0,7.0,LAC 50,3.0,0.0,Justin Herbert pass incomplete deep left intended for Mike Williams,1.92,1.22,2.0,2023,25
+2,14:53,3.0,7.0,LAC 50,3.0,0.0,Justin Herbert pass complete short left to Josh Palmer for 6 yards (tackle by Tre Avery),1.22,0.33,2.0,2023,25
+2,14:05,4.0,1.0,TEN 44,3.0,0.0,JK Scott punts 29 yards downed by Deane Leonard,0.33,0.22,2.0,2023,25
+2,14:05,1.0,10.0,TEN 15,3.0,0.0,Derrick Henry right guard for 1 yard (tackle by Derwin James and Nick Niemann),-0.22,-0.58,2.0,2023,25
+2,13:29,2.0,9.0,TEN 16,3.0,0.0,Ryan Tannehill pass complete short right to Derrick Henry for no gain (tackle by Derwin James),-0.58,-1.25,2.0,2023,25
+2,12:49,3.0,9.0,TEN 16,3.0,0.0,Ryan Tannehill sacked by Morgan Fox for -13 yards,-1.25,-2.49,2.0,2023,25
+2,12:02,4.0,22.0,TEN 3,3.0,0.0,"Ryan Stonehouse punts 63 yards, returned by Derius Davis for 19 yards (tackle by Rashad Weaver)",-2.49,-2.46,2.0,2023,25
+2,11:50,1.0,10.0,TEN 47,3.0,0.0,Justin Herbert pass complete short right to Elijah Dotson for 7 yards (tackle by Sean Murphy-Bunting and Azeez Al-Shaair),2.46,2.86,2.0,2023,25
+2,11:23,2.0,3.0,TEN 40,3.0,0.0,Elijah Dotson up the middle for 2 yards (tackle by Naquan Jones and Kyle Peko),2.86,2.41,2.0,2023,25
+2,10:46,3.0,1.0,TEN 38,3.0,0.0,Justin Herbert up the middle for no gain (tackle by Jeffery Simmons),2.41,0.72,2.0,2023,25
+2,10:10,4.0,1.0,TEN 38,3.0,0.0,"Derius Davis left end for 10 yards (tackle by Azeez Al-Shaair). Penalty on Azeez Al-Shaair: Horse Collar Tackle, 14 yards (accepted)",0.72,4.65,2.0,2023,25
+2,9:51,1.0,10.0,TEN 14,3.0,0.0,Elijah Dotson left guard for 1 yard (tackle by Azeez Al-Shaair and Jeffery Simmons),4.65,4.16,2.0,2023,25
+2,9:15,2.0,9.0,TEN 13,3.0,0.0,Justin Herbert pass complete short right to Gerald Everett for 5 yards (tackle by Sean Murphy-Bunting and Kevin Byard),4.16,4.28,2.0,2023,25
+2,8:30,3.0,4.0,TEN 8,3.0,0.0,"Justin Herbert pass incomplete short left intended for Josh Palmer LAC challenged the pass completion ruling, and the play was upheld.",4.28,2.98,2.0,2023,25
+2,8:24,4.0,4.0,TEN 8,9.0,0.0,"Justin Herbert pass complete short left to Keenan Allen for 8 yards, touchdown. Penalty on Tre Avery: Defensive Pass Interference, 15 yards (declined)",2.98,7.0,2.0,2023,25
+2,8:16,,,TEN 15,9.0,0.0,"Penalty on Jeffery Simmons: Roughing the Passer, 1 yard (accepted) (no play)",0.0,1.0,2.0,2023,25
+2,8:16,1.0,10.0,TEN 2,11.0,0.0,Two Point Attempt: Justin Herbert pass complete to to Trey Pipkins for no gain,1.0,1.0,2.0,2023,25
+2,8:16,,,LAC 35,11.0,0.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,2.0,2023,25
+2,8:16,1.0,10.0,TEN 25,11.0,0.0,Ryan Tannehill pass complete deep left to Treylon Burks for 70 yards (tackle by Asante Samuel),0.61,6.06,2.0,2023,25
+2,7:31,1.0,5.0,LAC 5,11.0,0.0,Derrick Henry up the middle for 4 yards (tackle by Amen Ogbongbemiga and Kenneth Murray),6.06,5.91,2.0,2023,25
+2,7:12,2.0,1.0,LAC 1,11.0,6.0,"Derrick Henry up the middle for 1 yard, touchdown",5.91,7.0,2.0,2023,25
+2,7:09,,,LAC 15,11.0,7.0,Nick Folk kicks extra point good,0.0,0.0,2.0,2023,25
+2,7:09,,,TEN 35,11.0,7.0,"Nick Folk kicks off 64 yards, returned by Derius Davis for 24 yards (tackle by Elijah Molden)",0.0,0.61,2.0,2023,25
+2,7:03,1.0,10.0,LAC 25,11.0,7.0,Joshua Kelley left guard for 15 yards (tackle by Kevin Byard and Elijah Molden),0.61,1.6,2.0,2023,25
+2,6:31,1.0,10.0,LAC 40,11.0,7.0,Joshua Kelley up the middle for 3 yards (tackle by Azeez Al-Shaair),1.6,1.46,2.0,2023,25
+2,5:55,2.0,7.0,LAC 43,11.0,7.0,Justin Herbert pass complete deep right to Keenan Allen for 42 yards (tackle by Kevin Byard),1.46,4.58,2.0,2023,25
+2,5:18,1.0,10.0,TEN 15,11.0,7.0,Justin Herbert pass incomplete short right,4.58,3.95,2.0,2023,25
+2,5:12,2.0,10.0,TEN 15,11.0,7.0,Isaiah Spiller up the middle for 3 yards (tackle by Jack Gibbens and Harold Landry),3.95,3.58,2.0,2023,25
+2,4:32,3.0,7.0,TEN 12,11.0,7.0,Justin Herbert pass incomplete short left intended for Quentin Johnston (defended by Tre Avery),3.58,2.63,2.0,2023,25
+2,4:27,4.0,7.0,TEN 12,14.0,7.0,Cameron Dicker 30 yard field goal good,2.63,3.0,2.0,2023,25
+2,4:23,,,LAC 35,14.0,7.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,2.0,2023,25
+2,4:23,1.0,10.0,TEN 25,14.0,7.0,Derrick Henry left end for 23 yards (tackle by Alohi Gilman and Nick Niemann),0.61,2.13,2.0,2023,25
+2,3:42,1.0,10.0,TEN 48,14.0,7.0,Ryan Tannehill pass complete short right to Treylon Burks for 5 yards (tackle by Asante Samuel),2.13,2.26,2.0,2023,25
+2,3:04,2.0,5.0,LAC 47,14.0,7.0,Tyjae Spears left end for 3 yards (tackle by Michael Davis),2.26,1.95,2.0,2023,25
+2,2:18,3.0,2.0,LAC 44,14.0,7.0,Tyjae Spears right guard for 8 yards (tackle by Kenneth Murray),1.95,3.18,2.0,2023,25
+2,2:00,1.0,10.0,LAC 36,14.0,7.0,Ryan Tannehill pass complete short middle to Nick Westbrook-Ikhine for 14 yards (tackle by Asante Samuel),3.18,4.11,2.0,2023,25
+2,1:32,,,,,,Timeout #2 by Los Angeles Chargers,,,2.0,2023,25
+2,1:32,1.0,10.0,LAC 22,14.0,7.0,Derrick Henry right guard for 3 yards (tackle by Joey Bosa),4.11,3.97,2.0,2023,25
+2,0:57,2.0,7.0,LAC 19,14.0,7.0,Derrick Henry right guard for 3 yards (tackle by Joey Bosa and Khalil Mack),3.97,3.74,2.0,2023,25
+2,0:50,,,,,,Timeout #1 by Tennessee Titans,,,2.0,2023,25
+2,0:50,3.0,4.0,LAC 16,14.0,7.0,Ryan Tannehill pass complete short left to Treylon Burks for 1 yard (tackle by Kenneth Murray),3.74,2.54,2.0,2023,25
+2,0:03,,,,,,Timeout #2 by Tennessee Titans,,,2.0,2023,25
+2,0:03,4.0,3.0,LAC 15,14.0,10.0,Nick Folk 33 yard field goal good,2.54,3.0,2.0,2023,25
+3,15:00,,,LAC 35,14.0,10.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,2.0,2023,25
+3,15:00,1.0,10.0,TEN 25,14.0,10.0,Derrick Henry right guard for 4 yards (tackle by Nick Niemann),0.61,0.6,2.0,2023,25
+3,14:22,2.0,6.0,TEN 29,14.0,10.0,Ryan Tannehill pass complete short left to Tyjae Spears for 2 yards (tackle by Ja'Sir Taylor),0.6,0.17,2.0,2023,25
+3,13:41,3.0,4.0,TEN 31,14.0,10.0,Ryan Tannehill pass complete short left to DeAndre Hopkins for 9 yards (tackle by J.C. Jackson),0.17,1.6,2.0,2023,25
+3,13:04,1.0,10.0,TEN 40,14.0,10.0,Ryan Tannehill pass complete short middle to Chigoziem Okonkwo for 20 yards (tackle by Derwin James and Alohi Gilman),1.6,2.92,2.0,2023,25
+3,12:16,1.0,10.0,LAC 40,14.0,10.0,Ryan Tannehill pass incomplete short right intended for Derrick Henry (defended by Khalil Mack),2.92,2.37,2.0,2023,25
+3,12:12,2.0,10.0,LAC 40,14.0,10.0,Derrick Henry for 2 yards (tackle by Khalil Mack and Alohi Gilman),2.37,1.95,2.0,2023,25
+3,11:31,3.0,8.0,LAC 38,14.0,10.0,"Penalty on Josh Whyle: False Start, 5 yards (accepted) (no play)",1.95,1.29,2.0,2023,25
+3,11:09,3.0,13.0,LAC 43,14.0,10.0,"Ryan Tannehill pass incomplete intended for Nick Westbrook-Ikhine. Penalty on Derwin James: Personal Foul / Defense, 15 yards (accepted) (no play)",1.29,3.71,2.0,2023,25
+3,11:04,1.0,10.0,LAC 28,14.0,10.0,Derrick Henry for 4 yards (tackle by Derwin James),3.71,3.71,2.0,2023,25
+3,10:24,2.0,6.0,LAC 24,14.0,10.0,Ryan Tannehill pass incomplete deep right intended for Treylon Burks,3.71,3.01,2.0,2023,25
+3,10:19,3.0,6.0,LAC 24,14.0,10.0,"Ryan Tannehill pass incomplete intended for Treylon Burks. Penalty on Sebastian Joseph-Day: Roughing the Passer, 12 yards (accepted) (no play)",3.01,4.78,2.0,2023,25
+3,10:14,1.0,10.0,LAC 12,14.0,16.0,"Ryan Tannehill right tackle for 12 yards, touchdown",4.78,7.0,2.0,2023,25
+3,10:08,,,LAC 15,14.0,17.0,Nick Folk kicks extra point good,0.0,0.0,2.0,2023,25
+3,10:08,,,TEN 35,14.0,17.0,"Nick Folk kicks off 65 yards, touchback.",0.0,0.61,2.0,2023,25
+3,10:08,1.0,10.0,LAC 25,14.0,17.0,Justin Herbert pass complete short middle to Mike Williams for 11 yards (tackle by Jack Gibbens and Harold Landry),0.61,1.33,2.0,2023,25
+3,9:31,1.0,10.0,LAC 36,14.0,17.0,Justin Herbert pass complete short right to Mike Williams for 11 yards (tackle by Sean Murphy-Bunting and Kevin Byard),1.33,2.06,2.0,2023,25
+3,8:57,1.0,10.0,LAC 47,14.0,17.0,Joshua Kelley right guard for 3 yards (tackle by Elijah Molden),2.06,1.92,2.0,2023,25
+3,8:22,2.0,7.0,TEN 50,14.0,17.0,Joshua Kelley up the middle for 1 yard (tackle by Denico Autry),1.92,1.36,2.0,2023,25
+3,7:46,3.0,6.0,TEN 49,14.0,17.0,Justin Herbert sacked by Jeffery Simmons for -9 yards,1.36,-0.59,2.0,2023,25
+3,7:03,4.0,15.0,LAC 42,14.0,17.0,"JK Scott punts 45 yards, fair catch by Kearis Jackson at TEN-13",-0.59,0.32,2.0,2023,25
+3,7:00,1.0,10.0,TEN 13,14.0,17.0,Derrick Henry up the middle for 4 yards (tackle by Khalil Mack),-0.32,-0.3,2.0,2023,25
+3,6:18,2.0,6.0,TEN 17,14.0,17.0,Ryan Tannehill pass complete short right to Chigoziem Okonkwo for 8 yards (tackle by Nick Niemann),-0.3,0.61,2.0,2023,25
+3,5:44,1.0,10.0,TEN 25,14.0,17.0,Ryan Tannehill pass complete short left to Derrick Henry for 9 yards (tackle by Kenneth Murray),0.61,1.28,2.0,2023,25
+3,5:14,2.0,1.0,TEN 34,14.0,17.0,Derrick Henry up the middle for 2 yards (tackle by Austin Johnson and Tuli Tuipulotu),1.28,1.33,2.0,2023,25
+3,4:38,1.0,10.0,TEN 36,14.0,17.0,Tyjae Spears left tackle for 11 yards (tackle by Derwin James),1.33,2.06,2.0,2023,25
+3,4:03,1.0,10.0,TEN 47,14.0,17.0,Ryan Tannehill pass complete short left to DeAndre Hopkins for 3 yards (tackle by J.C. Jackson),2.06,1.92,2.0,2023,25
+3,3:23,2.0,7.0,TEN 50,14.0,17.0,Ryan Tannehill pass incomplete short left intended for Trevon Wesco,1.92,1.22,2.0,2023,25
+3,3:19,3.0,7.0,TEN 50,14.0,17.0,Ryan Tannehill sacked by Joey Bosa for -13 yards,1.22,-0.91,2.0,2023,25
+3,2:47,4.0,20.0,TEN 37,14.0,17.0,"Ryan Stonehouse punts 63 yards, touchback.",-0.91,-0.28,2.0,2023,25
+3,2:39,1.0,10.0,LAC 20,14.0,17.0,Justin Herbert pass complete short left to Keenan Allen for 9 yards (tackle by Tre Avery),0.28,0.95,2.0,2023,25
+3,2:00,2.0,1.0,LAC 29,14.0,17.0,"Justin Herbert pass incomplete deep right intended for Keenan Allen. Penalty on Rashawn Slater: Offensive Holding, 9 yards (accepted) (no play)",0.95,-0.34,2.0,2023,25
+3,1:54,2.0,11.0,LAC 20,14.0,17.0,Justin Herbert pass complete short middle to Mike Williams for 11 yards (tackle by Kevin Byard),-0.34,1.0,2.0,2023,25
+3,1:17,1.0,10.0,LAC 31,14.0,17.0,Joshua Kelley up the middle for no gain (tackle by Teair Tart and Kyle Peko),1.0,0.46,2.0,2023,25
+3,0:47,2.0,10.0,LAC 31,14.0,17.0,Justin Herbert pass complete deep right to Stone Smartt for 24 yards (tackle by Kevin Byard),0.46,2.59,2.0,2023,25
+3,0:12,1.0,10.0,TEN 45,14.0,17.0,Justin Herbert pass complete short right to Gerald Everett for 29 yards (tackle by Azeez Al-Shaair),2.59,4.51,2.0,2023,25
+4,15:00,1.0,10.0,TEN 16,14.0,17.0,Joshua Kelley left guard for 4 yards (tackle by Azeez Al-Shaair),4.51,4.57,2.0,2023,25
+4,14:41,2.0,6.0,TEN 12,20.0,17.0,"Justin Herbert pass complete short left to Keenan Allen for 12 yards, touchdown",4.57,7.0,2.0,2023,25
+4,14:38,,,TEN 15,21.0,17.0,Cameron Dicker kicks extra point good,0.0,0.0,2.0,2023,25
+4,14:38,,,LAC 35,21.0,17.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,2.0,2023,25
+4,14:38,1.0,10.0,TEN 25,21.0,17.0,Derrick Henry up the middle for 6 yards (tackle by Derwin James and Sebastian Joseph-Day),0.61,0.87,2.0,2023,25
+4,14:01,2.0,4.0,TEN 31,21.0,17.0,Derrick Henry right tackle for -1 yards (tackle by Michael Davis and Sebastian Joseph-Day),0.87,0.04,2.0,2023,25
+4,13:15,3.0,5.0,TEN 30,21.0,17.0,"Penalty on Dillon Radunz: False Start, 5 yards (accepted) (no play)",0.04,-0.62,2.0,2023,25
+4,13:15,3.0,10.0,TEN 25,21.0,17.0,Ryan Tannehill pass complete short left to Chigoziem Okonkwo for 3 yards (tackle by Asante Samuel and Derwin James),-0.62,-1.5,2.0,2023,25
+4,12:34,4.0,7.0,TEN 28,21.0,17.0,"Ryan Stonehouse punts 58 yards, returned by Derius Davis for 20 yards (tackle by Monty Rice)",-1.5,-1.2,2.0,2023,25
+4,12:25,1.0,10.0,LAC 34,21.0,17.0,Justin Herbert pass incomplete deep left intended for Mike Williams,1.2,0.66,2.0,2023,25
+4,12:19,2.0,10.0,LAC 34,21.0,17.0,Justin Herbert pass complete short right to Elijah Dotson for 6 yards (tackle by Jack Gibbens),0.66,0.76,2.0,2023,25
+4,11:45,3.0,4.0,LAC 40,21.0,17.0,Elijah Dotson up the middle for 2 yards (tackle by Kevin Byard and Jeffery Simmons),0.76,-0.59,2.0,2023,25
+4,11:06,4.0,2.0,LAC 42,21.0,17.0,"JK Scott punts 44 yards, fair catch by Kearis Jackson at TEN-14",-0.59,0.28,2.0,2023,25
+4,11:01,1.0,10.0,TEN 14,21.0,17.0,Derrick Henry right tackle for 2 yards (tackle by Tuli Tuipulotu),-0.28,-0.51,2.0,2023,25
+4,10:20,2.0,8.0,TEN 16,21.0,17.0,Ryan Tannehill pass complete short right to Tyjae Spears for 4 yards (tackle by Derwin James),-0.51,-0.68,2.0,2023,25
+4,9:42,3.0,4.0,TEN 20,21.0,17.0,Ryan Tannehill sacked by Tuli Tuipulotu for -6 yards,-0.68,-2.47,2.0,2023,25
+4,8:53,4.0,10.0,TEN 14,21.0,17.0,"Ryan Stonehouse punts 62 yards, returned by Derius Davis for 11 yards (tackle by Luke Gifford and Julius Chestnut)",-2.47,-1.27,2.0,2023,25
+4,8:44,1.0,10.0,LAC 35,21.0,17.0,Joshua Kelley left end for 4 yards (tackle by Kevin Byard and Jack Gibbens),1.27,1.26,2.0,2023,25
+4,8:09,2.0,6.0,LAC 39,21.0,17.0,Joshua Kelley up the middle for -2 yards (tackle by Teair Tart),1.26,0.3,2.0,2023,25
+4,7:33,3.0,8.0,LAC 37,21.0,17.0,Justin Herbert pass complete short right to Gerald Everett for 13 yards (tackle by Sean Murphy-Bunting),0.3,2.26,2.0,2023,25
+4,6:49,1.0,10.0,TEN 50,21.0,17.0,Joshua Kelley right guard for 3 yards (tackle by Jack Gibbens),2.26,2.12,2.0,2023,25
+4,6:12,2.0,7.0,TEN 47,21.0,17.0,Justin Herbert pass incomplete short right intended for Mike Williams (defended by Sean Murphy-Bunting),2.12,1.42,2.0,2023,25
+4,6:12,3.0,7.0,TEN 47,21.0,17.0,Justin Herbert pass incomplete short middle intended for Keenan Allen (defended by Mike Brown),1.42,0.13,2.0,2023,25
+4,6:08,4.0,7.0,TEN 47,21.0,17.0,"JK Scott punts 29 yards, fair catch by Kearis Jackson at TEN-18",0.13,-0.04,2.0,2023,25
+4,6:00,1.0,10.0,TEN 18,21.0,17.0,Ryan Tannehill pass complete deep middle to Chris Moore for 49 yards (tackle by Michael Davis),0.04,3.38,2.0,2023,25
+4,5:22,1.0,10.0,LAC 33,21.0,17.0,Derrick Henry right guard for 5 yards (tackle by Nick Niemann and Khalil Mack),3.38,3.51,2.0,2023,25
+4,4:42,2.0,5.0,LAC 28,21.0,17.0,Derrick Henry right end for 1 yard (tackle by Tuli Tuipulotu and Kenneth Murray),3.51,2.94,2.0,2023,25
+4,3:59,3.0,4.0,LAC 27,21.0,17.0,"Ryan Tannehill pass complete short right to DeAndre Hopkins for 14 yards (tackle by Derwin James). Penalty on Kenneth Murray: Roughing the Passer, 7 yards (accepted)",2.94,5.83,2.0,2023,25
+4,3:50,1.0,6.0,LAC 6,21.0,17.0,Derrick Henry left end for 5 yards (tackle by Austin Johnson),5.83,5.91,2.0,2023,25
+4,3:09,2.0,1.0,LAC 1,21.0,17.0,Derrick Henry right tackle for -3 yards (tackle by Kenneth Murray),5.91,4.49,2.0,2023,25
+4,2:25,3.0,4.0,LAC 4,21.0,23.0,"Ryan Tannehill pass complete short middle to Nick Westbrook-Ikhine for 4 yards, touchdown",4.49,7.0,2.0,2023,25
+4,2:22,,,LAC 15,21.0,24.0,Nick Folk kicks extra point good,0.0,0.0,2.0,2023,25
+4,2:22,,,TEN 35,21.0,24.0,"Nick Folk kicks off 65 yards, touchback.",0.0,0.61,2.0,2023,25
+4,2:22,1.0,10.0,LAC 25,21.0,24.0,Justin Herbert pass complete short middle to Mike Williams for 15 yards (tackle by Tre Avery),0.61,1.6,2.0,2023,25
+4,2:05,1.0,10.0,LAC 40,21.0,24.0,Justin Herbert pass complete short left to Mike Williams for 9 yards (tackle by Tre Avery),1.6,2.27,2.0,2023,25
+4,1:56,2.0,1.0,LAC 49,21.0,24.0,Justin Herbert pass complete short left to Donald Parham for 7 yards (tackle by Tre Avery and Kevin Byard),2.27,2.65,2.0,2023,25
+4,1:40,1.0,10.0,TEN 44,21.0,24.0,"Justin Herbert pass incomplete deep left. Penalty on Arden Key: Defensive Offside, 5 yards (accepted) (no play)",2.65,3.38,2.0,2023,25
+4,1:34,1.0,5.0,TEN 39,21.0,24.0,Justin Herbert pass complete short right to Keenan Allen for 14 yards (tackle by Roger McCreary and Kevin Byard),3.38,3.91,2.0,2023,25
+4,1:18,1.0,10.0,TEN 25,21.0,24.0,Justin Herbert pass incomplete deep left intended for Donald Parham,3.91,3.36,2.0,2023,25
+4,1:11,2.0,10.0,TEN 25,21.0,24.0,Justin Herbert pass complete short left to Keenan Allen for 11 yards (tackle by Elijah Molden),3.36,4.65,2.0,2023,25
+4,0:55,1.0,10.0,TEN 14,21.0,24.0,Justin Herbert pass complete short left to Josh Palmer for 4 yards (tackle by Kevin Byard),4.65,4.71,2.0,2023,25
+4,0:28,2.0,6.0,TEN 10,21.0,24.0,Justin Herbert pass complete short left to Josh Palmer for 3 yards (tackle by Tre Avery),4.71,4.68,2.0,2023,25
+4,0:21,,,,,,Timeout #1 by Los Angeles Chargers,,,2.0,2023,25
+4,0:21,,,,,,Timeout #1 by Tennessee Titans,,,2.0,2023,25
+4,0:21,3.0,2.0,TEN 7,21.0,24.0,Justin Herbert sacked by Harold Landry for -8 yards,4.68,2.44,2.0,2023,25
+4,0:03,,,,,,Timeout #2 by Los Angeles Chargers,,,2.0,2023,25
+4,0:03,4.0,10.0,TEN 15,24.0,24.0,Cameron Dicker 33 yard field goal good,2.44,3.0,2.0,2023,25
+,,,,,,,"Chargers won the coin toss, Chargers to receive the overtime kickoff.",,,2.0,2023,25
+OT,10:00,,,TEN 35,24.0,24.0,"Nick Folk kicks off 65 yards, touchback.",0.0,0.61,2.0,2023,25
+OT,10:00,1.0,10.0,LAC 25,24.0,24.0,Justin Herbert pass incomplete deep right intended for Mike Williams (defended by Sean Murphy-Bunting),0.61,0.06,2.0,2023,25
+OT,9:54,2.0,10.0,LAC 25,24.0,24.0,Justin Herbert pass incomplete deep right,0.06,-0.62,2.0,2023,25
+OT,9:49,3.0,10.0,LAC 25,24.0,24.0,Justin Herbert pass incomplete deep left intended for Josh Palmer,-0.62,-1.7,2.0,2023,25
+OT,9:43,4.0,10.0,LAC 25,24.0,24.0,"JK Scott punts 47 yards, returned by Kearis Jackson for 11 yards (tackle by Josh Harris)",-1.7,-1.53,2.0,2023,25
+OT,9:32,1.0,10.0,TEN 39,24.0,24.0,Tyjae Spears right end for 14 yards (tackle by Alohi Gilman),1.53,2.46,2.0,2023,25
+OT,8:52,1.0,10.0,LAC 47,24.0,24.0,Ryan Tannehill pass complete short right to Derrick Henry for 6 yards (tackle by Nick Niemann),2.46,2.72,2.0,2023,25
+OT,8:09,2.0,4.0,LAC 41,24.0,24.0,Derrick Henry up the middle for 2 yards (tackle by Nick Niemann and Nick Williams),2.72,2.28,2.0,2023,25
+OT,7:35,3.0,2.0,LAC 39,24.0,24.0,"Derrick Henry left tackle for 2 yards (tackle by Asante Samuel and Khalil Mack) Replay Assistant challenged the first down ruling, and the play was upheld.",2.28,3.12,2.0,2023,25
+OT,6:54,1.0,10.0,LAC 37,24.0,24.0,Ryan Tannehill pass complete short right to DeAndre Hopkins for 14 yards,3.12,4.04,2.0,2023,25
+OT,6:24,1.0,10.0,LAC 23,24.0,24.0,Derrick Henry up the middle for -2 yards (tackle by Asante Samuel and Sebastian Joseph-Day),4.04,3.23,2.0,2023,25
+OT,5:48,2.0,12.0,LAC 25,24.0,24.0,Derrick Henry right guard for 2 yards (tackle by Sebastian Joseph-Day and Alohi Gilman),3.23,2.81,2.0,2023,25
+OT,5:06,3.0,10.0,LAC 23,24.0,27.0,Nick Folk 41 yard field goal good,2.81,3.0,2.0,2023,25

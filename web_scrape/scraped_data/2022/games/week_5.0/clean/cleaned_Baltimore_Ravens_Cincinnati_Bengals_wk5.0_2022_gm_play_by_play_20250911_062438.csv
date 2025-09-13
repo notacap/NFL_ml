@@ -1,0 +1,163 @@
+Quarter,Time,Down,ToGo,Location,CIN,BAL,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Ravens won the coin toss and deferred, Bengals to receive the opening kickoff.",,,5.0,2022,79
+1.0,15:00,,,BAL 35,0.0,0.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,5.0,2022,79
+1.0,15:00,1.0,10.0,CIN 25,0.0,0.0,Joe Burrow pass complete short left to Ja'Marr Chase for 11 yards (tackle by Odafe Oweh),0.61,1.33,5.0,2022,79
+1.0,14:22,1.0,10.0,CIN 36,0.0,0.0,Joe Burrow pass complete short right to Ja'Marr Chase for no gain (tackle by Marcus Peters),1.33,0.79,5.0,2022,79
+1.0,13:45,2.0,10.0,CIN 36,0.0,0.0,Joe Burrow pass complete short right to Joe Mixon for 6 yards (tackle by Patrick Queen),0.79,0.89,5.0,2022,79
+1.0,13:09,3.0,4.0,CIN 42,0.0,0.0,Joe Burrow pass incomplete short right intended for Ja'Marr Chase,0.89,-0.59,5.0,2022,79
+1.0,13:03,4.0,4.0,CIN 42,0.0,0.0,Kevin Huber punts 28 yards out of bounds,-0.59,-0.94,5.0,2022,79
+1.0,12:57,1.0,10.0,BAL 30,0.0,0.0,Lamar Jackson pass complete short left to Mark Andrews for 7 yards (tackle by Logan Wilson and Jessie Bates),0.94,1.34,5.0,2022,79
+1.0,12:08,2.0,3.0,BAL 37,0.0,0.0,J.K. Dobbins left guard for 3 yards (tackle by B.J. Hill and Germaine Pratt),1.34,1.6,5.0,2022,79
+1.0,11:18,1.0,10.0,BAL 40,0.0,0.0,"Tyler Linderbaum aborted snap, recovered by Devin Duvernay at BAL-40 Devin Duvernay right end for no gain (tackle by Logan Wilson)",1.6,2.39,5.0,2022,79
+1.0,10:44,1.0,10.0,CIN 48,0.0,0.0,Lamar Jackson pass complete short left to Devin Duvernay for 9 yards (tackle by Chidobe Awuzie),2.39,3.06,5.0,2022,79
+1.0,10:22,2.0,1.0,CIN 39,0.0,0.0,J.K. Dobbins left tackle for 6 yards (tackle by Vonn Bell and Chidobe Awuzie),3.06,3.38,5.0,2022,79
+1.0,9:41,1.0,10.0,CIN 33,0.0,0.0,Devin Duvernay left end for 12 yards (tackle by Logan Wilson),3.38,4.17,5.0,2022,79
+1.0,8:55,1.0,10.0,CIN 21,0.0,0.0,Lamar Jackson pass incomplete short right,4.17,3.63,5.0,2022,79
+1.0,8:49,2.0,10.0,CIN 21,0.0,0.0,Lamar Jackson pass incomplete short middle intended for James Proche,3.63,2.94,5.0,2022,79
+1.0,8:46,3.0,10.0,CIN 21,0.0,0.0,Lamar Jackson pass complete short middle to Isaiah Likely for 2 yards (tackle by Daxton Hill),2.94,2.18,5.0,2022,79
+1.0,8:07,4.0,8.0,CIN 19,0.0,3.0,Justin Tucker 37 yard field goal good,2.18,3.0,5.0,2022,79
+1.0,8:03,,,BAL 35,0.0,3.0,"Justin Tucker kicks off 63 yards, returned by Chris Evans for 29 yards (tackle by Kristian Welch and Daryl Worley)",0.0,1.0,5.0,2022,79
+1.0,7:57,1.0,10.0,CIN 31,0.0,3.0,Joe Mixon left end for -2 yards (tackle by Odafe Oweh and Jason Pierre-Paul),1.0,0.19,5.0,2022,79
+1.0,7:21,2.0,12.0,CIN 29,0.0,3.0,Ja'Marr Chase right end for no gain (tackle by Marcus Peters),0.19,-0.49,5.0,2022,79
+1.0,6:45,3.0,12.0,CIN 29,0.0,3.0,Joe Burrow sacked by Jason Pierre-Paul for -8 yards,-0.49,-1.96,5.0,2022,79
+1.0,6:09,4.0,20.0,CIN 21,0.0,3.0,"Kevin Huber punts 51 yards, returned by Devin Duvernay for 4 yards (tackle by Stanley Morgan)",-1.96,-1.07,5.0,2022,79
+1.0,5:55,1.0,10.0,BAL 32,0.0,3.0,J.K. Dobbins left guard for 17 yards (tackle by Jessie Bates),1.07,2.19,5.0,2022,79
+1.0,5:13,1.0,10.0,BAL 49,0.0,3.0,Lamar Jackson pass incomplete deep right,2.19,1.65,5.0,2022,79
+1.0,5:05,2.0,10.0,BAL 49,0.0,3.0,Lamar Jackson pass incomplete short middle intended for Mark Andrews (defended by Germaine Pratt),1.65,0.96,5.0,2022,79
+1.0,4:54,3.0,10.0,BAL 49,0.0,3.0,"Lamar Jackson sacked by Sam Hubbard for no gain. Penalty on Chidobe Awuzie: Defensive Holding, 5 yards (accepted) (no play)",0.96,2.52,5.0,2022,79
+1.0,4:46,1.0,10.0,CIN 46,0.0,3.0,"Lamar Jackson right end for no gain (tackle by Eli Apple). Penalty on Patrick Mekari: Offensive Holding, 10 yards (accepted) (no play)",2.52,1.86,5.0,2022,79
+1.0,4:19,1.0,20.0,BAL 44,0.0,3.0,Lamar Jackson pass incomplete short right,1.86,0.63,5.0,2022,79
+1.0,4:12,2.0,20.0,BAL 44,0.0,3.0,Lamar Jackson pass complete short right to Devin Duvernay for 5 yards (tackle by Logan Wilson),0.63,0.63,5.0,2022,79
+1.0,3:40,3.0,15.0,BAL 49,0.0,3.0,Lamar Jackson scrambles up the middle for 4 yards (tackle by Trey Hendrickson),0.63,0.13,5.0,2022,79
+1.0,3:01,4.0,11.0,CIN 47,0.0,3.0,"Jordan Stout punts 38 yards, fair catch by Trent Taylor at CIN-9",0.13,0.38,5.0,2022,79
+1.0,2:51,1.0,10.0,CIN 9,0.0,3.0,Joe Burrow up the middle for 2 yards (tackle by Brandon Stephens and Brent Urban),-0.38,-0.63,5.0,2022,79
+1.0,2:12,2.0,8.0,CIN 11,0.0,3.0,Joe Burrow pass incomplete short left intended for Ja'Marr Chase,-0.63,-1.19,5.0,2022,79
+1.0,2:08,3.0,8.0,CIN 11,0.0,3.0,Joe Burrow pass complete short right to Hayden Hurst for 5 yards (tackle by Marcus Peters),-1.19,-2.39,5.0,2022,79
+1.0,1:27,4.0,3.0,CIN 16,0.0,3.0,Kevin Huber punts 34 yards,-2.39,-2.26,5.0,2022,79
+1.0,1:21,1.0,10.0,BAL 50,0.0,3.0,Lamar Jackson pass complete deep left to Devin Duvernay for 21 yards (tackle by Jessie Bates),2.26,3.64,5.0,2022,79
+1.0,0:39,1.0,10.0,CIN 29,0.0,3.0,Lamar Jackson pass complete short right to Demarcus Robinson for 8 yards (tackle by Eli Apple),3.64,4.18,5.0,2022,79
+1.0,0:12,2.0,2.0,CIN 21,0.0,3.0,J.K. Dobbins right guard for no gain (tackle by Mike Hilton and Josh Tupou),4.18,3.47,5.0,2022,79
+2.0,15:00,3.0,2.0,CIN 21,0.0,3.0,Devin Duvernay left end for 7 yards (tackle by Logan Wilson),3.47,4.65,5.0,2022,79
+2.0,14:20,1.0,10.0,CIN 14,0.0,3.0,Mike Davis right end for 3 yards (tackle by Logan Wilson),4.65,4.52,5.0,2022,79
+2.0,13:38,2.0,7.0,CIN 11,0.0,3.0,Lamar Jackson pass incomplete short right,4.52,3.62,5.0,2022,79
+2.0,13:31,3.0,7.0,CIN 11,0.0,9.0,"Lamar Jackson pass complete short left to Mark Andrews for 11 yards, touchdown",3.62,7.0,5.0,2022,79
+2.0,13:26,,,CIN 15,0.0,10.0,Justin Tucker kicks extra point good,0.0,0.0,5.0,2022,79
+2.0,13:26,,,BAL 35,0.0,10.0,"Justin Tucker kicks off 68 yards, returned by Chris Evans for 25 yards (tackle by Kevon Seymour)",0.0,0.41,5.0,2022,79
+2.0,13:22,1.0,10.0,CIN 22,0.0,10.0,Joe Mixon right guard for 3 yards (tackle by Chuck Clark and Malik Harrison),0.41,0.27,5.0,2022,79
+2.0,12:49,2.0,7.0,CIN 25,0.0,10.0,Joe Burrow sacked by Josh Bynes for -7 yards,0.27,-1.49,5.0,2022,79
+2.0,12:06,3.0,14.0,CIN 18,0.0,10.0,Joe Burrow pass complete short right to Hayden Hurst for 12 yards (tackle by Damarion Williams),-1.49,-1.37,5.0,2022,79
+2.0,11:24,4.0,2.0,CIN 30,0.0,10.0,"Kevin Huber punts 41 yards, fair catch by Devin Duvernay at BAL-29",-1.37,-0.87,5.0,2022,79
+2.0,11:15,1.0,10.0,BAL 29,0.0,10.0,Lamar Jackson right end for 12 yards (tackle by Vonn Bell),0.87,1.66,5.0,2022,79
+2.0,10:38,1.0,10.0,BAL 41,0.0,10.0,Kenyan Drake left guard for 14 yards (tackle by Jessie Bates),1.66,2.59,5.0,2022,79
+2.0,10:07,1.0,10.0,CIN 45,0.0,10.0,Kenyan Drake left guard for 2 yards (tackle by Sam Hubbard and Germaine Pratt),2.59,2.31,5.0,2022,79
+2.0,9:30,2.0,8.0,CIN 43,0.0,10.0,Lamar Jackson pass deep right intended for Demarcus Robinson is intercepted by Vonn Bell at CIN-17 and returned for no gain (tackle by Demarcus Robinson),2.31,0.06,5.0,2022,79
+2.0,9:18,1.0,10.0,CIN 17,0.0,10.0,Joe Mixon left guard for 9 yards (tackle by Josh Bynes and Odafe Oweh),-0.06,0.75,5.0,2022,79
+2.0,8:40,2.0,1.0,CIN 26,0.0,10.0,Joe Mixon up the middle for 3 yards (tackle by Broderick Washington and Josh Bynes),0.75,0.87,5.0,2022,79
+2.0,8:00,,,,,,Timeout #1 by Cincinnati Bengals,,,5.0,2022,79
+2.0,8:00,1.0,10.0,CIN 29,0.0,10.0,Joe Mixon left tackle for 12 yards (tackle by Marcus Williams),0.87,1.66,5.0,2022,79
+2.0,7:23,,,,,,Timeout #1 by Baltimore Ravens,,,5.0,2022,79
+2.0,7:23,1.0,10.0,CIN 41,0.0,10.0,"Joe Burrow pass complete short right to Ja'Marr Chase for no gain. Penalty on La'el Collins: Ineligible Downfield Pass, 5 yards (accepted) (no play)",1.66,1.33,5.0,2022,79
+2.0,7:02,1.0,15.0,CIN 36,0.0,10.0,Joe Burrow pass complete short right to Mike Thomas for 33 yards (tackle by Chuck Clark),1.33,3.51,5.0,2022,79
+2.0,6:20,1.0,10.0,BAL 31,0.0,10.0,Joe Mixon up the middle for 9 yards (tackle by Patrick Queen),3.51,4.18,5.0,2022,79
+2.0,5:42,2.0,1.0,BAL 22,0.0,10.0,Joe Burrow up the middle for 3 yards (tackle by Josh Bynes),4.18,4.31,5.0,2022,79
+2.0,5:02,1.0,10.0,BAL 19,6.0,10.0,"Joe Burrow pass complete short middle to Hayden Hurst for 19 yards, touchdown",4.31,7.0,5.0,2022,79
+2.0,4:54,,,BAL 15,7.0,10.0,Evan McPherson kicks extra point good,0.0,0.0,5.0,2022,79
+2.0,4:54,,,CIN 35,7.0,10.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,5.0,2022,79
+2.0,4:54,1.0,10.0,BAL 25,7.0,10.0,Lamar Jackson pass complete short right to Devin Duvernay for 9 yards (tackle by Jessie Bates),0.61,1.28,5.0,2022,79
+2.0,4:19,2.0,1.0,BAL 34,7.0,10.0,J.K. Dobbins left guard for 3 yards (tackle by Sam Hubbard),1.28,1.4,5.0,2022,79
+2.0,3:51,1.0,10.0,BAL 37,7.0,10.0,Lamar Jackson pass complete short middle to James Proche for 7 yards (tackle by Mike Hilton),1.4,1.8,5.0,2022,79
+2.0,3:08,2.0,3.0,BAL 44,7.0,10.0,"Penalty on BAL: Illegal Shift, 5 yards (accepted) (no play)",1.8,1.13,5.0,2022,79
+2.0,3:08,2.0,8.0,BAL 39,7.0,10.0,Lamar Jackson sacked by Germaine Pratt for -4 yards,1.13,-0.1,5.0,2022,79
+2.0,2:07,3.0,12.0,BAL 35,7.0,10.0,Lamar Jackson pass complete short right to Tylan Wallace for 8 yards (tackle by Eli Apple),-0.1,-0.52,5.0,2022,79
+2.0,2:00,4.0,4.0,BAL 43,7.0,10.0,"Jordan Stout punts 41 yards, fair catch by Trent Taylor at CIN-16",-0.52,0.14,5.0,2022,79
+2.0,1:54,1.0,10.0,CIN 16,7.0,10.0,Joe Burrow pass incomplete short right intended for Tyler Boyd (defended by Jason Pierre-Paul),-0.14,-0.66,5.0,2022,79
+2.0,1:50,2.0,10.0,CIN 16,7.0,10.0,Joe Burrow pass incomplete short middle intended for Ja'Marr Chase (defended by Jason Pierre-Paul),-0.66,-1.32,5.0,2022,79
+2.0,1:47,3.0,10.0,CIN 16,7.0,10.0,Joe Burrow pass complete short left to Samaje Perine for 15 yards (tackle by Marcus Williams),-1.32,1.0,5.0,2022,79
+2.0,1:22,1.0,10.0,CIN 31,7.0,10.0,Joe Burrow pass complete to Samaje Perine for 8 yards (tackle by Patrick Queen),1.0,1.54,5.0,2022,79
+2.0,1:09,,,,,,Timeout #2 by Cincinnati Bengals,,,5.0,2022,79
+2.0,1:09,2.0,2.0,CIN 39,7.0,10.0,Samaje Perine up the middle for 9 yards (tackle by Patrick Queen and Chuck Clark),1.54,2.13,5.0,2022,79
+2.0,0:55,1.0,10.0,CIN 48,7.0,10.0,Joe Burrow pass complete short left to Samaje Perine for 9 yards (tackle by Patrick Queen),2.13,2.8,5.0,2022,79
+2.0,0:31,2.0,1.0,BAL 43,7.0,10.0,Joe Burrow pass complete short middle to Tyler Boyd for 18 yards (tackle by Patrick Queen),2.8,3.91,5.0,2022,79
+2.0,0:23,,,,,,Timeout #3 by Cincinnati Bengals,,,5.0,2022,79
+2.0,0:23,1.0,10.0,BAL 25,7.0,10.0,Joe Burrow pass incomplete deep right intended for Mike Thomas (defended by Marcus Peters),3.91,3.36,5.0,2022,79
+2.0,0:18,2.0,10.0,BAL 25,7.0,10.0,Joe Burrow pass complete short left to Hayden Hurst for 3 yards (tackle by Marlon Humphrey),3.36,3.07,5.0,2022,79
+2.0,0:13,,,,,,Timeout #2 by Baltimore Ravens,,,5.0,2022,79
+2.0,0:13,3.0,7.0,BAL 22,7.0,10.0,Joe Burrow pass incomplete short left,3.07,1.99,5.0,2022,79
+2.0,0:08,4.0,7.0,BAL 22,10.0,10.0,Evan McPherson 40 yard field goal good,1.99,3.0,5.0,2022,79
+2.0,0:04,,,CIN 35,10.0,10.0,"Evan McPherson kicks off 56 yards, returned by Devin Duvernay for 15 yards (tackle by Samaje Perine)",0.0,0.54,5.0,2022,79
+2.0,0:01,1.0,10.0,BAL 24,10.0,10.0,Lamar Jackson kneels for -1 yards,0.54,-0.14,5.0,2022,79
+3.0,15:00,,,CIN 35,10.0,10.0,"Evan McPherson kicks off 53 yards, out of bounds",0.0,1.6,5.0,2022,79
+3.0,15:00,1.0,10.0,BAL 40,10.0,10.0,Lamar Jackson pass incomplete short right,1.6,1.05,5.0,2022,79
+3.0,14:51,2.0,10.0,BAL 40,10.0,10.0,J.K. Dobbins left guard for 12 yards (tackle by Josh Tupou and Chidobe Awuzie),1.05,2.39,5.0,2022,79
+3.0,14:08,1.0,10.0,CIN 48,10.0,10.0,J.K. Dobbins right guard for -1 yards (tackle by Cameron Sample and Mike Hilton),2.39,1.71,5.0,2022,79
+3.0,13:29,2.0,11.0,CIN 49,10.0,10.0,Lamar Jackson pass incomplete deep middle intended for Devin Duvernay,1.71,1.03,5.0,2022,79
+3.0,13:21,3.0,11.0,CIN 49,10.0,10.0,Lamar Jackson pass complete short middle to Mark Andrews for 8 yards (tackle by Chidobe Awuzie),1.03,0.53,5.0,2022,79
+3.0,12:37,4.0,3.0,CIN 41,10.0,10.0,Lamar Jackson pass incomplete deep right intended for Tylan Wallace,0.53,-1.66,5.0,2022,79
+3.0,12:31,1.0,10.0,CIN 41,10.0,10.0,Joe Burrow pass deep middle intended for Ja'Marr Chase is intercepted by Patrick Queen at BAL-43 and returned for 11 yards (tackle by Joe Mixon),1.66,-2.52,5.0,2022,79
+3.0,12:24,1.0,10.0,CIN 46,10.0,10.0,Lamar Jackson pass incomplete deep middle intended for Devin Duvernay,2.52,1.98,5.0,2022,79
+3.0,12:18,2.0,10.0,CIN 46,10.0,10.0,Devin Duvernay left end for 5 yards (tackle by Vonn Bell),1.98,1.95,5.0,2022,79
+3.0,11:39,3.0,5.0,CIN 41,10.0,10.0,Lamar Jackson pass complete short right to Kenyan Drake for 1 yard (tackle by Vonn Bell),1.95,0.59,5.0,2022,79
+3.0,10:54,4.0,4.0,CIN 40,10.0,13.0,Justin Tucker 58 yard field goal good,0.59,3.0,5.0,2022,79
+3.0,10:49,,,BAL 35,10.0,13.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,5.0,2022,79
+3.0,10:49,1.0,10.0,CIN 25,10.0,13.0,Joe Mixon right guard for 4 yards (tackle by Broderick Washington and Brandon Copeland),0.61,0.6,5.0,2022,79
+3.0,10:15,2.0,6.0,CIN 29,10.0,13.0,Joe Burrow pass complete short right to Hayden Hurst for 8 yards (tackle by Marcus Peters),0.6,1.4,5.0,2022,79
+3.0,9:39,1.0,10.0,CIN 37,10.0,13.0,Joe Mixon left guard for 1 yard (tackle by Broderick Washington),1.4,0.99,5.0,2022,79
+3.0,8:58,2.0,9.0,CIN 38,10.0,13.0,Joe Burrow pass complete short right to Tyler Boyd for 6 yards (tackle by Damarion Williams),0.99,1.09,5.0,2022,79
+3.0,8:13,3.0,3.0,CIN 44,10.0,13.0,"Joe Burrow pass incomplete deep right intended for Ja'Marr Chase. Penalty on Marcus Peters: Defensive Pass Interference, 18 yards (accepted) (no play)",1.09,3.05,5.0,2022,79
+3.0,8:08,1.0,10.0,BAL 38,10.0,13.0,Joe Burrow pass complete short right to Joe Mixon for 4 yards (tackle by Malik Harrison),3.05,3.05,5.0,2022,79
+3.0,7:31,2.0,6.0,BAL 34,10.0,13.0,Joe Mixon left guard for 10 yards (tackle by Chuck Clark and Brandon Copeland),3.05,3.97,5.0,2022,79
+3.0,6:52,1.0,10.0,BAL 24,10.0,13.0,Joe Burrow pass incomplete short right intended for Ja'Marr Chase,3.97,3.43,5.0,2022,79
+3.0,6:46,2.0,10.0,BAL 24,10.0,13.0,Samaje Perine right guard for 4 yards (tackle by Brent Urban),3.43,3.27,5.0,2022,79
+3.0,6:08,3.0,6.0,BAL 20,10.0,13.0,"Joe Burrow pass complete short middle to Samaje Perine for 7 yards (tackle by Malik Harrison). Penalty on Marcus Peters: Illegal Use of Hands / Defense, 5 yards (declined)",3.27,4.71,5.0,2022,79
+3.0,5:48,1.0,10.0,BAL 13,10.0,13.0,Joe Burrow pass complete short left to Ja'Marr Chase for -1 yards (tackle by Damarion Williams),4.71,3.9,5.0,2022,79
+3.0,5:11,2.0,11.0,BAL 14,10.0,13.0,Joe Burrow pass complete short left to Hayden Hurst for 6 yards,3.9,4.1,5.0,2022,79
+3.0,4:26,3.0,5.0,BAL 8,10.0,13.0,"Joe Burrow pass incomplete intended for Hayden Hurst. Penalty on Kyle Hamilton: Defensive Pass Interference, 6 yards (accepted) (no play)",4.1,6.74,5.0,2022,79
+3.0,4:21,1.0,2.0,BAL 2,10.0,13.0,Joe Burrow pass incomplete short left intended for Hayden Hurst,6.74,5.72,5.0,2022,79
+3.0,4:18,2.0,2.0,BAL 2,10.0,13.0,Tyler Boyd sacked by Marcus Peters for -12 yards,5.72,3.0,5.0,2022,79
+3.0,3:31,3.0,14.0,BAL 14,10.0,13.0,Joe Burrow pass complete short middle to Ja'Marr Chase for 12 yards (tackle by Chuck Clark and Damarion Williams),3.0,3.25,5.0,2022,79
+3.0,2:50,4.0,2.0,BAL 2,10.0,13.0,Joe Burrow pass incomplete short middle intended for Stanley Morgan,3.25,0.38,5.0,2022,79
+3.0,2:45,1.0,10.0,BAL 2,10.0,13.0,J.K. Dobbins left tackle for 4 yards (tackle by Germaine Pratt and Sam Hubbard),-0.38,-0.49,5.0,2022,79
+3.0,2:05,2.0,6.0,BAL 6,10.0,13.0,Lamar Jackson pass incomplete short middle intended for Mark Andrews,-0.49,-0.95,5.0,2022,79
+3.0,1:58,3.0,6.0,BAL 6,10.0,13.0,Lamar Jackson pass complete short middle to Mark Andrews for 20 yards (tackle by Chidobe Awuzie and Vonn Bell),-0.95,0.67,5.0,2022,79
+3.0,1:12,1.0,10.0,BAL 26,10.0,13.0,Lamar Jackson right tackle for 7 yards (tackle by Josh Tupou and Germaine Pratt),0.67,1.07,5.0,2022,79
+3.0,0:30,2.0,3.0,BAL 33,10.0,13.0,Lamar Jackson right end for 3 yards (tackle by Jessie Bates),1.07,1.33,5.0,2022,79
+4.0,15:00,1.0,10.0,BAL 36,10.0,13.0,Lamar Jackson pass complete deep left to Mark Andrews for 19 yards (tackle by Eli Apple),1.33,2.59,5.0,2022,79
+4.0,14:29,1.0,10.0,CIN 45,10.0,13.0,Lamar Jackson scrambles up the middle for 1 yard (tackle by Zachary Carter),2.59,2.18,5.0,2022,79
+4.0,13:44,2.0,9.0,CIN 44,10.0,13.0,Lamar Jackson right end for 2 yards (tackle by B.J. Hill and Germaine Pratt),2.18,1.75,5.0,2022,79
+4.0,13:06,3.0,7.0,CIN 42,10.0,13.0,Lamar Jackson pass complete short middle to Mark Andrews for 9 yards (tackle by Tre Flowers),1.75,3.38,5.0,2022,79
+4.0,12:27,1.0,10.0,CIN 33,10.0,13.0,Lamar Jackson pass complete short right to Devin Duvernay for 10 yards,3.38,4.04,5.0,2022,79
+4.0,11:23,1.0,10.0,CIN 23,10.0,13.0,"Kenyan Drake left tackle for 6 yards (tackle by Vonn Bell). Penalty on Zachary Carter: Defensive Holding, 5 yards (accepted)",4.04,4.78,5.0,2022,79
+4.0,11:24,1.0,10.0,CIN 12,10.0,13.0,Lamar Jackson pass incomplete short right intended for Josh Oliver (defended by Germaine Pratt),4.78,4.1,5.0,2022,79
+4.0,11:19,2.0,10.0,CIN 12,10.0,13.0,Lamar Jackson left tackle for 4 yards (tackle by Trey Hendrickson),4.1,3.93,5.0,2022,79
+4.0,10:37,3.0,6.0,CIN 8,10.0,13.0,Lamar Jackson pass complete to Isaiah Likely for 5 yards (tackle by Logan Wilson and Chidobe Awuzie),3.93,3.06,5.0,2022,79
+4.0,9:46,4.0,1.0,CIN 3,10.0,13.0,"Penalty on BAL: Delay of Game, 4 yards (accepted) (no play)",3.06,2.98,5.0,2022,79
+4.0,9:46,4.0,5.0,CIN 7,10.0,16.0,Justin Tucker 25 yard field goal good,2.98,3.0,5.0,2022,79
+4.0,9:42,,,BAL 35,10.0,16.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,5.0,2022,79
+4.0,9:42,1.0,10.0,CIN 25,10.0,16.0,Joe Mixon right tackle for 7 yards (tackle by Chuck Clark),0.61,1.01,5.0,2022,79
+4.0,9:00,2.0,3.0,CIN 32,10.0,16.0,Joe Mixon left end for 10 yards (tackle by Geno Stone),1.01,1.73,5.0,2022,79
+4.0,8:17,1.0,10.0,CIN 42,10.0,16.0,Joe Burrow pass incomplete short middle intended for Mike Thomas (defended by Brent Urban),1.73,1.19,5.0,2022,79
+4.0,8:12,2.0,10.0,CIN 42,10.0,16.0,"Joe Burrow pass incomplete deep left intended for Ja'Marr Chase. Penalty on Damarion Williams: Defensive Holding, 5 yards (accepted) (no play)",1.19,2.06,5.0,2022,79
+4.0,8:08,1.0,10.0,CIN 47,10.0,16.0,Samaje Perine left guard for 4 yards (tackle by Josh Bynes),2.06,2.06,5.0,2022,79
+4.0,7:33,2.0,6.0,BAL 49,10.0,16.0,Joe Burrow pass complete short left to Ja'Marr Chase for 9 yards (tackle by Geno Stone),2.06,2.92,5.0,2022,79
+4.0,6:52,1.0,10.0,BAL 40,10.0,16.0,Joe Mixon left tackle for 3 yards (tackle by Patrick Queen and Calais Campbell),2.92,2.78,5.0,2022,79
+4.0,6:15,2.0,7.0,BAL 37,10.0,16.0,Joe Burrow pass complete short left to Ja'Marr Chase for 6 yards (tackle by Marlon Humphrey),2.78,2.87,5.0,2022,79
+4.0,5:27,3.0,1.0,BAL 31,10.0,16.0,Joe Burrow pass complete short left to Tyler Boyd for 8 yards (tackle by Josh Bynes),2.87,4.04,5.0,2022,79
+4.0,4:46,1.0,10.0,BAL 23,10.0,16.0,Joe Mixon left tackle for 5 yards (tackle by Brent Urban),4.04,4.21,5.0,2022,79
+4.0,4:04,2.0,5.0,BAL 18,10.0,16.0,Joe Burrow pass complete short middle to Joe Mixon for no gain (tackle by Malik Harrison),4.21,3.49,5.0,2022,79
+4.0,3:25,3.0,5.0,BAL 18,10.0,16.0,Joe Burrow pass complete short left to Ja'Marr Chase for 13 yards (tackle by Marlon Humphrey),3.49,6.06,5.0,2022,79
+4.0,2:47,1.0,5.0,BAL 5,10.0,16.0,Joe Mixon left guard for 4 yards (tackle by Chuck Clark and Odafe Oweh),6.06,5.91,5.0,2022,79
+4.0,2:00,2.0,1.0,BAL 1,16.0,16.0,"Joe Burrow right guard for 1 yard, touchdown",5.91,7.0,5.0,2022,79
+4.0,1:58,,,BAL 15,17.0,16.0,Evan McPherson kicks extra point good,0.0,0.0,5.0,2022,79
+4.0,1:58,,,CIN 35,17.0,16.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,5.0,2022,79
+4.0,1:58,1.0,10.0,BAL 25,17.0,16.0,Lamar Jackson pass complete short middle to Mark Andrews for 7 yards (tackle by Mike Hilton),0.61,1.01,5.0,2022,79
+4.0,1:39,2.0,3.0,BAL 32,17.0,16.0,Lamar Jackson pass complete short right to Mark Andrews for 8 yards (tackle by Vonn Bell and Germaine Pratt),1.01,1.6,5.0,2022,79
+4.0,1:15,1.0,10.0,BAL 40,17.0,16.0,Lamar Jackson up the middle for 5 yards (tackle by Logan Wilson) (no play),1.6,2.33,5.0,2022,79
+4.0,1:10,1.0,5.0,BAL 45,17.0,16.0,Lamar Jackson up the middle for 19 yards (tackle by Sam Hubbard),2.33,3.18,5.0,2022,79
+4.0,0:56,,,,,,Timeout #1 by Cincinnati Bengals,,,5.0,2022,79
+4.0,0:56,1.0,10.0,CIN 36,17.0,16.0,Kenyan Drake left tackle for 4 yards (tackle by Germaine Pratt),3.18,3.18,5.0,2022,79
+4.0,0:52,,,,,,Timeout #2 by Cincinnati Bengals,,,5.0,2022,79
+4.0,0:52,2.0,6.0,CIN 32,17.0,16.0,Lamar Jackson up the middle for 4 yards (tackle by Josh Tupou and B.J. Hill),3.18,3.01,5.0,2022,79
+4.0,0:46,,,,,,Timeout #3 by Cincinnati Bengals,,,5.0,2022,79
+4.0,0:46,3.0,2.0,CIN 28,17.0,16.0,Lamar Jackson up the middle for 3 yards (tackle by Cameron Sample),3.01,3.91,5.0,2022,79
+4.0,0:03,,,,,,Timeout #1 by Baltimore Ravens,,,5.0,2022,79
+4.0,0:03,1.0,10.0,CIN 25,17.0,19.0,Justin Tucker 43 yard field goal good,3.91,3.0,5.0,2022,79

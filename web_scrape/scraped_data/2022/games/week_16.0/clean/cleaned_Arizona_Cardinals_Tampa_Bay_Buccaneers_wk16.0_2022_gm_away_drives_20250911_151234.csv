@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,TAM 25,5,1:37,55,Field Goal,0,Buccaneers,16.0,2022,239
+2,1,7:38,TAM 43,4,2:01,8,Downs,0,Buccaneers,16.0,2022,239
+3,1,3:59,TAM 10,4,2:12,14,Punt,0,Buccaneers,16.0,2022,239
+4,1,0:32,TAM 25,15,7:18,58,Field Goal,0,Buccaneers,16.0,2022,239
+5,2,7:14,TAM 48,4,2:05,19,Interception,0,Buccaneers,16.0,2022,239
+6,2,3:02,TAM 9,5,1:55,21,Punt,0,Buccaneers,16.0,2022,239
+7,2,0:08,TAM 17,1,0:08,-1,End of Half,0,Buccaneers,16.0,2022,239
+8,3,13:05,TAM 9,3,1:29,8,Punt,0,Buccaneers,16.0,2022,239
+9,3,9:38,TAM 30,10,6:30,34,Interception,0,Buccaneers,16.0,2022,239
+10,4,14:07,TAM 17,3,1:41,8,Punt,0,Buccaneers,16.0,2022,239
+11,4,10:47,TAM 33,7,2:44,67,Touchdown,0,Buccaneers,16.0,2022,239
+12,4,4:49,TAM 45,9,2:22,31,Field Goal,0,Buccaneers,16.0,2022,239
+13,4,1:36,TAM 34,3,0:53,8,Punt,0,Buccaneers,16.0,2022,239
+14,5,7:43,TAM 12,9,4:02,66,Field Goal,0,Buccaneers,16.0,2022,239

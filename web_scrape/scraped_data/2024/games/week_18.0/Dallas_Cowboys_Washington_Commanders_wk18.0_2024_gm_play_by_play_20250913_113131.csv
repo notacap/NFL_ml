@@ -1,0 +1,184 @@
+Quarter,Time,Down,ToGo,Location,WAS,DAL,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Cowboys won the coin toss and deferred, Commanders to receive the opening kickoff.",,,18.0,2024,263
+1.0,15:00,,,DAL 35,0.0,0.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,263
+1.0,15:00,1.0,10.0,WAS 30,0.0,0.0,Jayden Daniels sacked by Micah Parsons for -4 yards,0.94,-0.15,18.0,2024,263
+1.0,14:19,2.0,14.0,WAS 26,0.0,0.0,Jayden Daniels pass complete short left to Zach Ertz for 11 yards (tackle by Marist Liufau),-0.15,0.63,18.0,2024,263
+1.0,13:44,3.0,3.0,WAS 37,0.0,0.0,Jayden Daniels sacked by Micah Parsons for -9 yards,0.63,-1.5,18.0,2024,263
+1.0,13:01,4.0,12.0,WAS 28,0.0,0.0,"Tress Way punts 56 yards, returned by KaVontae Turpin for 1 yard (tackle by Chris Rodriguez). Penalty on C.J. Goodwin: Illegal Block Above the Waist, 8 yards (accepted)",-1.5,0.38,18.0,2024,263
+1.0,12:48,1.0,10.0,DAL 9,0.0,0.0,Rico Dowdle right tackle for 1 yard (tackle by Frankie Luvu and Jer'Zhan Newton),-0.38,-0.63,18.0,2024,263
+1.0,12:25,2.0,8.0,DAL 10,0.0,0.0,Rico Dowdle right tackle for 7 yards (tackle by Frankie Luvu and Percy Butler),-0.63,-0.37,18.0,2024,263
+1.0,11:47,3.0,1.0,DAL 17,0.0,0.0,"Penalty on Terence Steele: False Start, 4 yards (accepted) (no play)",-0.37,-0.95,18.0,2024,263
+1.0,11:31,3.0,6.0,DAL 13,0.0,0.0,Trey Lance pass complete deep right to Jalen Tolbert for 31 yards (tackle by Percy Butler),-0.95,1.86,18.0,2024,263
+1.0,10:53,1.0,10.0,DAL 44,0.0,0.0,Trey Lance pass complete deep middle to KaVontae Turpin for 33 yards (tackle by Percy Butler),1.86,4.04,18.0,2024,263
+1.0,10:13,1.0,10.0,WAS 23,0.0,0.0,"Trey Lance pass complete short right to Jalen Brooks for no gain (tackle by Percy Butler). Penalty on Tyler Guyton: Ineligible Downfield Pass, 5 yards (accepted) (no play)",4.04,3.71,18.0,2024,263
+1.0,9:49,1.0,15.0,WAS 28,0.0,0.0,Trey Lance pass complete short right to Luke Schoonmaker for 6 yards (tackle by Jeremy Chinn),3.71,3.63,18.0,2024,263
+1.0,9:16,2.0,9.0,WAS 22,0.0,0.0,Rico Dowdle up the middle for 6 yards (tackle by Noah Igbinoghene),3.63,3.85,18.0,2024,263
+1.0,8:31,3.0,3.0,WAS 16,0.0,0.0,Trey Lance pass incomplete short middle intended for Brandin Cooks (defended by Daron Payne),3.85,2.48,18.0,2024,263
+1.0,8:24,4.0,3.0,WAS 16,0.0,3.0,Brandon Aubrey 34 yard field goal good,2.48,3.0,18.0,2024,263
+1.0,8:20,,,DAL 35,0.0,3.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,263
+1.0,8:20,1.0,10.0,WAS 30,0.0,3.0,Brian Robinson right tackle for 3 yards (tackle by Marist Liufau and Osa Odighizuwa),0.94,0.8,18.0,2024,263
+1.0,7:50,2.0,7.0,WAS 33,0.0,3.0,Jayden Daniels pass complete short right to Dyami Brown for 6 yards (tackle by Mazi Smith),0.8,0.89,18.0,2024,263
+1.0,7:20,3.0,1.0,WAS 39,0.0,3.0,Jayden Daniels right guard for 7 yards (tackle by Marist Liufau),0.89,1.99,18.0,2024,263
+1.0,6:51,1.0,10.0,WAS 46,0.0,3.0,"Brian Robinson left tackle for no gain (tackle by Chauncey Golston). Penalty on John Bates: Offensive Holding, 10 yards (accepted) (no play)",1.99,1.33,18.0,2024,263
+1.0,6:28,1.0,20.0,WAS 36,0.0,3.0,Jayden Daniels pass complete short left to Terry McLaurin for 5 yards (tackle by DaRon Bland),1.33,0.78,18.0,2024,263
+1.0,5:57,2.0,15.0,WAS 41,0.0,3.0,Jayden Daniels pass incomplete deep right intended for Terry McLaurin,0.78,0.1,18.0,2024,263
+1.0,5:49,3.0,15.0,WAS 41,0.0,3.0,Jayden Daniels sacked by Donovan Wilson for -4 yards,0.1,-0.91,18.0,2024,263
+1.0,5:09,4.0,19.0,WAS 37,0.0,3.0,Tress Way punts 53 yards downed by Nick Bellore,-0.91,0.38,18.0,2024,263
+1.0,4:59,1.0,10.0,DAL 10,0.0,3.0,"Penalty on Jake Ferguson: False Start, 5 yards (accepted) (no play)",-0.38,-0.57,18.0,2024,263
+1.0,4:59,1.0,15.0,DAL 5,0.0,3.0,Rico Dowdle left guard for 5 yards (tackle by Bobby Wagner),-0.57,-0.78,18.0,2024,263
+1.0,4:19,2.0,10.0,DAL 10,0.0,3.0,Trey Lance pass incomplete short right intended for Brandin Cooks (defended by Dorance Armstrong),-0.78,-1.42,18.0,2024,263
+1.0,4:13,3.0,10.0,DAL 10,0.0,3.0,Trey Lance pass complete short middle to KaVontae Turpin for 7 yards (tackle by Noah Igbinoghene),-1.42,-2.32,18.0,2024,263
+1.0,3:34,4.0,3.0,DAL 17,0.0,3.0,"Bryan Anger punts 55 yards, returned by Jamison Crowder for no gain (tackle by C.J. Goodwin)",-2.32,-0.81,18.0,2024,263
+1.0,3:25,1.0,10.0,WAS 28,0.0,3.0,Jayden Daniels pass incomplete deep left intended for Terry McLaurin,0.81,0.26,18.0,2024,263
+1.0,3:19,2.0,10.0,WAS 28,0.0,3.0,Jayden Daniels right end for 5 yards (tackle by Jourdan Lewis),0.26,0.23,18.0,2024,263
+1.0,2:45,3.0,5.0,WAS 33,0.0,3.0,Jayden Daniels pass incomplete short left intended for Terry McLaurin,0.23,-1.18,18.0,2024,263
+1.0,2:40,4.0,5.0,WAS 33,0.0,3.0,"Tress Way punts 48 yards, fair catch by KaVontae Turpin at DAL-19",-1.18,-0.15,18.0,2024,263
+1.0,2:33,1.0,10.0,DAL 19,0.0,3.0,Trey Lance left end for 2 yards (tackle by Mike Sainristil),0.15,-0.06,18.0,2024,263
+1.0,2:01,2.0,8.0,DAL 21,0.0,3.0,Trey Lance pass complete short right to Jalen Tolbert for 7 yards (tackle by Percy Butler),-0.06,0.1,18.0,2024,263
+1.0,1:20,3.0,1.0,DAL 28,0.0,3.0,Hunter Luepke up the middle for 10 yards (tackle by Jeremy Chinn),0.1,1.47,18.0,2024,263
+1.0,0:47,1.0,10.0,DAL 38,0.0,3.0,Brandin Cooks right end for -5 yards (tackle by Dorance Armstrong),1.47,0.25,18.0,2024,263
+1.0,0:07,2.0,15.0,DAL 33,0.0,3.0,KaVontae Turpin left end for 5 yards (tackle by Mike Sainristil),0.25,0.23,18.0,2024,263
+2.0,15:00,3.0,10.0,DAL 38,0.0,3.0,Trey Lance pass incomplete deep right intended for Brandin Cooks,0.23,-0.85,18.0,2024,263
+2.0,14:54,4.0,10.0,DAL 38,0.0,3.0,"Bryan Anger punts 42 yards, recovered by C.J. Goodwin at WAS-22",-0.85,4.11,18.0,2024,263
+2.0,14:45,1.0,10.0,WAS 22,0.0,3.0,Rico Dowdle left guard for 3 yards (tackle by Jonathan Allen and Bobby Wagner),4.11,3.97,18.0,2024,263
+2.0,14:11,2.0,7.0,WAS 19,0.0,3.0,Trey Lance sacked by Jeremy Chinn for -8 yards,3.97,2.21,18.0,2024,263
+2.0,13:26,3.0,15.0,WAS 27,0.0,3.0,Rico Dowdle left guard for 4 yards (tackle by Jonathan Allen),2.21,1.93,18.0,2024,263
+2.0,12:45,4.0,11.0,WAS 23,0.0,6.0,Brandon Aubrey 41 yard field goal good,1.93,3.0,18.0,2024,263
+2.0,12:41,,,DAL 35,0.0,6.0,"Penalty on Daron Payne: Unnecessary Roughness / Defense, 15 yards (accepted)",0.0,0.0,18.0,2024,263
+2.0,12:41,,,DAL 50,0.0,6.0,"Brandon Aubrey kicks off 25 yards, out of bounds. Penalty on Brandon Aubrey: Kickoff Out of Bounds (accepted)",0.0,0.61,18.0,2024,263
+2.0,12:41,1.0,10.0,WAS 25,0.0,6.0,Jayden Daniels pass complete short left to Dyami Brown for 11 yards (tackle by Malik Hooker),0.61,1.33,18.0,2024,263
+2.0,11:59,1.0,10.0,WAS 36,0.0,6.0,Brian Robinson left end for 1 yard (tackle by Carl Lawson and Jourdan Lewis),1.33,0.93,18.0,2024,263
+2.0,11:25,2.0,9.0,WAS 37,0.0,6.0,Jayden Daniels sacked by and Mazi Smith for -1 yards and Micah Parsons for -1 yards,0.93,0.1,18.0,2024,263
+2.0,10:54,3.0,10.0,WAS 36,0.0,6.0,Jayden Daniels pass incomplete short right intended for Olamide Zaccheaus,0.1,-0.98,18.0,2024,263
+2.0,10:36,4.0,10.0,WAS 36,0.0,6.0,"Tress Way punts 39 yards, fair catch by KaVontae Turpin at DAL-25",-0.98,-0.61,18.0,2024,263
+2.0,10:28,1.0,10.0,DAL 25,0.0,6.0,Trey Lance pass complete short right to Brandin Cooks for 8 yards (tackle by Mike Sainristil and Darrick Forrest),0.61,1.14,18.0,2024,263
+2.0,9:53,2.0,2.0,DAL 33,0.0,6.0,Rico Dowdle right end for 3 yards (tackle by Bobby Wagner and Jalyn Holmes),1.14,1.33,18.0,2024,263
+2.0,9:14,1.0,10.0,DAL 36,0.0,6.0,"Penalty on Tyler Guyton: False Start, 5 yards (accepted)",1.33,1.0,18.0,2024,263
+2.0,8:46,,,,,,Timeout #1 by Dallas Cowboys,,,18.0,2024,263
+2.0,8:46,1.0,15.0,DAL 31,0.0,6.0,Rico Dowdle left guard for -3 yards (tackle by Bobby Wagner),1.0,-0.29,18.0,2024,263
+2.0,8:05,2.0,18.0,DAL 28,0.0,6.0,Trey Lance pass incomplete deep right intended for KaVontae Turpin,-0.29,-0.96,18.0,2024,263
+2.0,7:59,3.0,18.0,DAL 28,0.0,6.0,Trey Lance pass incomplete deep right intended for KaVontae Turpin,-0.96,-1.5,18.0,2024,263
+2.0,7:49,4.0,18.0,DAL 28,0.0,6.0,"Bryan Anger punts 58 yards, returned by Jamison Crowder for 23 yards (tackle by Luke Schoonmaker)",-1.5,-1.4,18.0,2024,263
+2.0,7:39,1.0,10.0,WAS 37,0.0,6.0,Jayden Daniels pass complete short left to Zach Ertz for 6 yards (tackle by Marist Liufau),1.4,1.67,18.0,2024,263
+2.0,7:17,2.0,4.0,WAS 43,0.0,6.0,Austin Ekeler right tackle for 5 yards (tackle by Eric Kendricks),1.67,2.13,18.0,2024,263
+2.0,6:55,1.0,10.0,WAS 48,0.0,6.0,Jayden Daniels pass incomplete deep right intended for Olamide Zaccheaus (defended by Troy Pride),2.13,1.58,18.0,2024,263
+2.0,6:52,2.0,10.0,WAS 48,0.0,6.0,Jayden Daniels pass incomplete deep left intended for Dyami Brown (defended by Jourdan Lewis),1.58,0.89,18.0,2024,263
+2.0,6:46,3.0,10.0,WAS 48,0.0,6.0,Jayden Daniels scrambles up the middle for 16 yards (tackle by Israel Mukuamu),0.89,3.18,18.0,2024,263
+2.0,6:20,1.0,10.0,DAL 36,0.0,6.0,Dyami Brown pass incomplete deep left intended for Olamide Zaccheaus,3.18,2.64,18.0,2024,263
+2.0,6:10,2.0,10.0,DAL 36,0.0,6.0,Dyami Brown left end for 8 yards (tackle by DaRon Bland),2.64,3.01,18.0,2024,263
+2.0,5:32,3.0,2.0,DAL 28,0.0,6.0,Jayden Daniels pass complete short right to Dyami Brown for -1 yards (tackle by Malik Hooker and Marist Liufau),3.01,1.58,18.0,2024,263
+2.0,4:44,4.0,3.0,DAL 29,3.0,6.0,Zane Gonzalez 47 yard field goal good,1.58,3.0,18.0,2024,263
+2.0,4:40,,,WAS 35,3.0,6.0,"Zane Gonzalez kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,263
+2.0,4:40,1.0,10.0,DAL 30,3.0,6.0,Trey Lance pass complete short left to Brandin Cooks for 3 yards (tackle by Dante Fowler and Jer'Zhan Newton),0.94,0.8,18.0,2024,263
+2.0,4:07,2.0,7.0,DAL 33,3.0,6.0,Rico Dowdle right guard for 7 yards (tackle by Dante Fowler and Daron Payne),0.8,1.6,18.0,2024,263
+2.0,3:26,1.0,10.0,DAL 40,3.0,6.0,Trey Lance pass complete short left to Jonathan Mingo for 14 yards (tackle by Mike Sainristil),1.6,2.52,18.0,2024,263
+2.0,2:47,1.0,10.0,WAS 46,3.0,6.0,Trey Lance pass complete short left to Ryan Flournoy for 4 yards (tackle by Benjamin St-Juste),2.52,2.52,18.0,2024,263
+2.0,2:00,2.0,6.0,WAS 42,3.0,6.0,Trey Lance pass incomplete short right intended for Jalen Tolbert (defended by Mike Sainristil),2.52,1.82,18.0,2024,263
+2.0,1:55,3.0,6.0,WAS 42,3.0,6.0,Trey Lance left end for 5 yards (tackle by Jeremy Chinn),1.82,0.79,18.0,2024,263
+2.0,1:50,,,,,,Timeout #2 by Dallas Cowboys,,,18.0,2024,263
+2.0,1:50,4.0,1.0,WAS 37,3.0,6.0,Hunter Luepke up the middle for 5 yards (tackle by Frankie Luvu),0.79,3.45,18.0,2024,263
+2.0,1:15,1.0,10.0,WAS 32,3.0,6.0,Trey Lance pass complete short right to Rico Dowdle for 12 yards (tackle by Percy Butler),3.45,4.24,18.0,2024,263
+2.0,1:12,1.0,10.0,WAS 20,3.0,6.0,Trey Lance pass complete short right to Rico Dowdle for no gain (tackle by Frankie Luvu),4.24,3.69,18.0,2024,263
+2.0,1:06,,,,,,Timeout #1 by Washington Commanders,,,18.0,2024,263
+2.0,1:06,2.0,10.0,WAS 20,3.0,6.0,Trey Lance up the middle for 9 yards (tackle by Jeremy Chinn),3.69,4.59,18.0,2024,263
+2.0,0:59,,,,,,Timeout #2 by Washington Commanders,,,18.0,2024,263
+2.0,0:59,3.0,1.0,WAS 11,3.0,6.0,Rico Dowdle up the middle for 2 yards (tackle by Dante Fowler),4.59,5.14,18.0,2024,263
+2.0,0:53,,,,,,Timeout #3 by Washington Commanders,,,18.0,2024,263
+2.0,0:53,1.0,9.0,WAS 9,3.0,6.0,Trey Lance pass incomplete short right intended for Brandin Cooks,5.14,4.38,18.0,2024,263
+2.0,0:48,2.0,9.0,WAS 9,3.0,6.0,Rico Dowdle up the middle for 7 yards (tackle by Benjamin St-Juste and Darrick Forrest),4.38,4.95,18.0,2024,263
+2.0,0:26,3.0,2.0,WAS 2,3.0,6.0,Trey Lance pass incomplete short right intended for Brandin Cooks (defended by Mike Sainristil),4.95,3.25,18.0,2024,263
+2.0,0:24,4.0,2.0,WAS 2,3.0,6.0,Trey Lance pass incomplete short left intended for Rico Dowdle,3.25,0.38,18.0,2024,263
+2.0,0:16,1.0,10.0,WAS 2,3.0,6.0,Jayden Daniels kneels for -1 yards,-0.38,-0.85,18.0,2024,263
+3.0,15:00,,,WAS 35,3.0,6.0,"Zane Gonzalez kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,263
+3.0,15:00,1.0,10.0,DAL 30,3.0,6.0,Trey Lance pass complete short left to Jonathan Mingo for 10 yards (tackle by Mike Sainristil),0.94,1.6,18.0,2024,263
+3.0,14:21,1.0,10.0,DAL 40,3.0,6.0,Rico Dowdle left guard for 5 yards (tackle by Frankie Luvu),1.6,1.73,18.0,2024,263
+3.0,13:49,2.0,5.0,DAL 45,3.0,6.0,Rico Dowdle left tackle for 2 yards (tackle by Bobby Wagner),1.73,1.29,18.0,2024,263
+3.0,13:13,3.0,3.0,DAL 47,3.0,6.0,Trey Lance pass complete short right to Brandin Cooks for 4 yards (tackle by Mike Sainristil),1.29,2.32,18.0,2024,263
+3.0,12:48,1.0,10.0,WAS 49,3.0,6.0,Trey Lance pass complete short left to Jalen Tolbert for 28 yards (tackle by Benjamin St-Juste),2.32,4.17,18.0,2024,263
+3.0,12:07,1.0,10.0,WAS 21,3.0,6.0,Deuce Vaughn left tackle for 3 yards (tackle by Jeremy Chinn and Benjamin St-Juste),4.17,4.04,18.0,2024,263
+3.0,11:30,2.0,7.0,WAS 18,3.0,6.0,Trey Lance pass incomplete short left,4.04,3.31,18.0,2024,263
+3.0,11:25,3.0,7.0,WAS 18,3.0,6.0,Trey Lance scrambles left end for 8 yards (tackle by Mike Sainristil),3.31,4.91,18.0,2024,263
+3.0,10:50,1.0,10.0,WAS 10,3.0,6.0,Rico Dowdle left tackle for -3 yards (tackle by Frankie Luvu),4.91,3.72,18.0,2024,263
+3.0,10:14,2.0,13.0,WAS 13,3.0,6.0,Rico Dowdle left tackle for 4 yards (tackle by Dante Fowler),3.72,3.36,18.0,2024,263
+3.0,9:35,3.0,9.0,WAS 9,3.0,6.0,Trey Lance sacked by Jonathan Allen for -8 yards,3.36,2.25,18.0,2024,263
+3.0,8:55,4.0,18.0,WAS 18,3.0,9.0,Brandon Aubrey 36 yard field goal good,2.25,3.0,18.0,2024,263
+3.0,8:52,,,DAL 35,3.0,9.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,263
+3.0,8:52,1.0,10.0,WAS 30,3.0,9.0,Marcus Mariota pass complete short right to Austin Ekeler for 6 yards (tackle by Marist Liufau and Troy Pride),0.94,1.2,18.0,2024,263
+3.0,8:19,2.0,4.0,WAS 36,3.0,9.0,Brian Robinson up the middle for 1 yard (tackle by Eric Kendricks),1.2,0.63,18.0,2024,263
+3.0,7:45,3.0,3.0,WAS 37,3.0,9.0,Marcus Mariota pass complete short left to Austin Ekeler for 14 yards (tackle by Troy Pride),0.63,2.32,18.0,2024,263
+3.0,7:16,1.0,10.0,DAL 49,3.0,9.0,Marcus Mariota left end for 10 yards (tackle by Donovan Wilson),2.32,2.98,18.0,2024,263
+3.0,6:46,1.0,10.0,DAL 39,3.0,9.0,Brian Robinson left guard for -1 yards (tackle by Marist Liufau),2.98,2.3,18.0,2024,263
+3.0,6:16,2.0,11.0,DAL 40,3.0,9.0,Marcus Mariota pass complete short left to Brian Robinson for 6 yards (tackle by Micah Parsons),2.3,2.41,18.0,2024,263
+3.0,5:40,3.0,5.0,DAL 34,3.0,9.0,Marcus Mariota pass complete deep right to Olamide Zaccheaus for 29 yards (tackle by Jourdan Lewis),2.41,6.06,18.0,2024,263
+3.0,5:10,1.0,5.0,DAL 5,9.0,9.0,"Marcus Mariota pass complete short right to Zach Ertz for 5 yards, touchdown",6.06,7.0,18.0,2024,263
+3.0,5:07,,,DAL 15,10.0,9.0,Zane Gonzalez kicks extra point good,0.0,0.0,18.0,2024,263
+3.0,5:07,,,WAS 35,10.0,9.0,"Zane Gonzalez kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,263
+3.0,5:07,1.0,10.0,DAL 30,10.0,9.0,Trey Lance pass complete short right to Luke Schoonmaker for 10 yards (tackle by Percy Butler),0.94,1.6,18.0,2024,263
+3.0,4:25,1.0,10.0,DAL 40,10.0,9.0,"Trey Lance right end for 2 yards (tackle by Benjamin St-Juste). Penalty on Jake Ferguson: Offensive Holding, 10 yards (accepted)",1.6,1.07,18.0,2024,263
+3.0,4:07,1.0,18.0,DAL 32,10.0,9.0,Trey Lance pass incomplete short right intended for Jalen Tolbert (defended by Mike Sainristil),1.07,-0.03,18.0,2024,263
+3.0,4:06,2.0,18.0,DAL 32,10.0,9.0,Trey Lance pass complete short middle to Jake Ferguson for 19 yards (tackle by Noah Igbinoghene and Mike Sainristil),-0.03,2.32,18.0,2024,263
+3.0,3:24,1.0,10.0,WAS 49,10.0,9.0,Deuce Vaughn up the middle for 9 yards (tackle by Noah Igbinoghene and Dorance Armstrong),2.32,3.0,18.0,2024,263
+3.0,2:50,2.0,1.0,WAS 40,10.0,9.0,Deuce Vaughn right tackle for 8 yards (tackle by Frankie Luvu),3.0,3.45,18.0,2024,263
+3.0,2:15,1.0,10.0,WAS 32,10.0,9.0,Deuce Vaughn right guard for 4 yards (tackle by Jeremy Chinn and Mike Sainristil),3.45,3.44,18.0,2024,263
+3.0,1:32,2.0,6.0,WAS 28,10.0,9.0,Trey Lance pass complete short right to Jake Ferguson for -7 yards (tackle by Jeremy Chinn),3.44,1.82,18.0,2024,263
+3.0,0:51,3.0,13.0,WAS 35,10.0,9.0,Trey Lance pass complete short left to KaVontae Turpin for 13 yards (tackle by Noah Igbinoghene),1.82,4.11,18.0,2024,263
+3.0,0:21,1.0,10.0,WAS 22,10.0,9.0,Rico Dowdle left guard for 5 yards (tackle by Jer'Zhan Newton and Jeremy Chinn),4.11,4.29,18.0,2024,263
+4.0,15:00,2.0,5.0,WAS 17,10.0,9.0,Deuce Vaughn up the middle for 12 yards (tackle by Darrick Forrest),4.29,6.06,18.0,2024,263
+4.0,14:35,1.0,5.0,WAS 5,10.0,9.0,Deuce Vaughn up the middle for 1 yard (tackle by Jeremy Chinn and Bobby Wagner),6.06,5.34,18.0,2024,263
+4.0,14:05,2.0,4.0,WAS 4,10.0,9.0,"Trey Lance pass incomplete short right intended for Jake Ferguson (defended by Bobby Wagner) DAL challenged the pass completion ruling, and the play was upheld.",5.34,4.49,18.0,2024,263
+4.0,13:59,,,,,,Timeout #1 by Washington Commanders,,,18.0,2024,263
+4.0,13:59,3.0,4.0,WAS 4,10.0,9.0,"Trey Lance pass incomplete short left intended for Brandin Cooks (defended by Noah Igbinoghene) Penalty on DAL: Illegal Motion, 5 yards (declined)",4.49,3.03,18.0,2024,263
+4.0,13:55,4.0,4.0,WAS 4,10.0,12.0,Brandon Aubrey 22 yard field goal good,3.03,3.0,18.0,2024,263
+4.0,13:53,,,DAL 35,10.0,12.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,263
+4.0,13:53,1.0,10.0,WAS 30,10.0,12.0,Marcus Mariota pass complete deep middle to Olamide Zaccheaus for 22 yards (tackle by Jourdan Lewis),0.94,2.39,18.0,2024,263
+4.0,13:41,1.0,10.0,DAL 48,10.0,12.0,Marcus Mariota pass incomplete deep left intended for John Bates (defended by Malik Hooker),2.39,1.85,18.0,2024,263
+4.0,13:29,2.0,10.0,DAL 48,10.0,12.0,Marcus Mariota scrambles up the middle for 7 yards (tackle by Troy Pride),1.85,2.08,18.0,2024,263
+4.0,12:47,3.0,3.0,DAL 41,10.0,12.0,Marcus Mariota pass complete short left to Terry McLaurin for 8 yards (tackle by DaRon Bland),2.08,3.38,18.0,2024,263
+4.0,12:23,1.0,10.0,DAL 33,10.0,12.0,Austin Ekeler right tackle for 7 yards (tackle by Marist Liufau and Malik Hooker),3.38,3.78,18.0,2024,263
+4.0,12:01,2.0,3.0,DAL 26,10.0,12.0,Marcus Mariota pass complete short left to Terry McLaurin for 10 yards (tackle by DaRon Bland),3.78,4.51,18.0,2024,263
+4.0,11:34,1.0,10.0,DAL 16,10.0,12.0,Marcus Mariota pass complete short left to Zach Ertz for 11 yards (tackle by DaRon Bland),4.51,6.06,18.0,2024,263
+4.0,11:22,1.0,5.0,DAL 5,16.0,12.0,"Marcus Mariota left end for 5 yards, touchdown",6.06,7.0,18.0,2024,263
+4.0,11:18,,,DAL 2,16.0,12.0,Two Point Attempt: Marcus Mariota pass incomplete intended for Terry McLaurin,1.0,-1.0,18.0,2024,263
+4.0,11:18,,,WAS 35,16.0,12.0,"Zane Gonzalez kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,263
+4.0,11:18,1.0,10.0,DAL 30,16.0,12.0,Trey Lance pass incomplete short right intended for Jake Ferguson,0.94,0.39,18.0,2024,263
+4.0,11:14,2.0,10.0,DAL 30,16.0,12.0,Rico Dowdle up the middle for 5 yards (tackle by Jalyn Holmes and Percy Butler),0.39,0.37,18.0,2024,263
+4.0,10:42,3.0,5.0,DAL 35,16.0,12.0,"Trey Lance pass incomplete deep left intended for Brandin Cooks. Penalty on Benjamin St-Juste: Defensive Holding, 5 yards (accepted) (no play)",0.37,1.6,18.0,2024,263
+4.0,10:34,1.0,10.0,DAL 40,16.0,12.0,Trey Lance pass complete deep right to Jalen Tolbert for 32 yards (tackle by Mike Sainristil),1.6,3.71,18.0,2024,263
+4.0,9:47,1.0,10.0,WAS 28,16.0,12.0,Trey Lance pass complete short right to Ryan Flournoy for 10 yards (tackle by Frankie Luvu),3.71,4.37,18.0,2024,263
+4.0,9:07,1.0,10.0,WAS 18,16.0,12.0,"Penalty on Jake Ferguson: False Start, 5 yards (accepted)",4.37,4.04,18.0,2024,263
+4.0,9:07,1.0,15.0,WAS 23,16.0,12.0,Rico Dowdle left guard for 2 yards (tackle by Dorance Armstrong),4.04,3.42,18.0,2024,263
+4.0,8:32,2.0,13.0,WAS 21,16.0,12.0,"Trey Lance pass incomplete deep right intended for Jonathan Mingo. Penalty on Benjamin St-Juste: Defensive Pass Interference, 20 yards (accepted) (no play)",3.42,6.97,18.0,2024,263
+4.0,8:25,1.0,1.0,WAS 1,16.0,12.0,Hunter Luepke up the middle for no gain (tackle by Clelin Ferrell and Daron Payne),6.97,5.91,18.0,2024,263
+4.0,7:46,2.0,1.0,WAS 1,16.0,12.0,Rico Dowdle left tackle for -1 yards (tackle by Jalyn Holmes and Bobby Wagner),5.91,4.95,18.0,2024,263
+4.0,7:06,3.0,2.0,WAS 2,16.0,18.0,"Rico Dowdle left guard for 2 yards, touchdown",4.95,7.0,18.0,2024,263
+4.0,7:02,,,WAS 15,16.0,18.0,"Penalty on Matt Waletzko: False Start, 5 yards (accepted) (no play)",0.0,0.0,18.0,2024,263
+4.0,7:02,,,WAS 20,16.0,19.0,Brandon Aubrey kicks extra point good,0.0,0.0,18.0,2024,263
+4.0,7:02,,,DAL 35,16.0,19.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,263
+4.0,7:02,1.0,10.0,WAS 30,16.0,19.0,Marcus Mariota sacked by Chauncey Golston for -10 yards,0.94,-0.96,18.0,2024,263
+4.0,6:20,2.0,20.0,WAS 20,16.0,19.0,Marcus Mariota pass complete short left to Terry McLaurin for 9 yards (tackle by Malik Hooker),-0.96,-0.43,18.0,2024,263
+4.0,5:55,3.0,11.0,WAS 29,16.0,19.0,Marcus Mariota sacked by and Chauncey Golston for -15 yards and Osa Odighizuwa for -15 yards,-0.43,-2.47,18.0,2024,263
+4.0,5:40,4.0,26.0,WAS 14,16.0,19.0,"Tress Way punts 42 yards, fair catch by KaVontae Turpin at DAL-44",-2.47,-1.86,18.0,2024,263
+4.0,5:34,1.0,10.0,DAL 44,16.0,19.0,Rico Dowdle left guard for -1 yards (tackle by Bobby Wagner),1.86,1.18,18.0,2024,263
+4.0,4:58,2.0,11.0,DAL 43,16.0,19.0,Rico Dowdle left end for 10 yards (tackle by Jeremy Chinn),1.18,1.82,18.0,2024,263
+4.0,4:15,3.0,1.0,WAS 47,16.0,19.0,Trey Lance left guard for no gain (tackle by Frankie Luvu and Jeremy Chinn),1.82,0.13,18.0,2024,263
+4.0,3:25,4.0,1.0,WAS 47,16.0,19.0,"Penalty on Trey Lance: Delay of Game, 5 yards (accepted) (no play)",0.13,-0.19,18.0,2024,263
+4.0,3:25,4.0,6.0,DAL 48,16.0,19.0,"Bryan Anger punts 43 yards, fair catch by Jamison Crowder at WAS-9",-0.19,0.38,18.0,2024,263
+4.0,3:18,1.0,10.0,WAS 9,16.0,19.0,Brian Robinson up the middle for 6 yards (tackle by Eric Kendricks and Osa Odighizuwa),-0.38,-0.28,18.0,2024,263
+4.0,2:44,2.0,4.0,WAS 15,16.0,19.0,"Marcus Mariota sacked by Donovan Wilson for no gain. Penalty on Donovan Wilson: Face Mask (15 Yards), 15 yards (accepted) (no play)",-0.28,0.94,18.0,2024,263
+4.0,2:36,1.0,10.0,WAS 30,16.0,19.0,Marcus Mariota pass incomplete deep right intended for Terry McLaurin,0.94,0.39,18.0,2024,263
+4.0,2:28,2.0,10.0,WAS 30,16.0,19.0,Marcus Mariota pass complete short left to Terry McLaurin for 6 yards (tackle by Jourdan Lewis),0.39,0.5,18.0,2024,263
+4.0,2:00,3.0,4.0,WAS 36,16.0,19.0,Marcus Mariota pass complete short right to Terry McLaurin for 6 yards (tackle by DaRon Bland),0.5,1.73,18.0,2024,263
+4.0,1:41,1.0,10.0,WAS 42,16.0,19.0,"Penalty on Nick Allegretti: False Start, 5 yards (accepted)",1.73,1.4,18.0,2024,263
+4.0,1:24,1.0,15.0,WAS 37,16.0,19.0,Austin Ekeler left end for no gain (tackle by Eric Kendricks),1.4,0.51,18.0,2024,263
+4.0,1:15,2.0,15.0,WAS 37,16.0,19.0,Marcus Mariota pass complete short left to Terry McLaurin for 13 yards (tackle by DaRon Bland),0.51,1.55,18.0,2024,263
+4.0,0:47,3.0,2.0,DAL 50,16.0,19.0,Marcus Mariota scrambles left end for 1 yard (tackle by Chauncey Golston and Eric Kendricks),1.55,0.0,18.0,2024,263
+4.0,0:33,,,,,,Timeout #2 by Washington Commanders,,,18.0,2024,263
+4.0,0:33,,,,,,Timeout #2 by Dallas Cowboys,,,18.0,2024,263
+4.0,0:33,4.0,1.0,DAL 49,16.0,19.0,Marcus Mariota left tackle for 33 yards (tackle by Malik Hooker),0.0,4.51,18.0,2024,263
+4.0,0:24,,,,,,Timeout #3 by Washington Commanders,,,18.0,2024,263
+4.0,0:24,1.0,10.0,DAL 16,16.0,19.0,Marcus Mariota pass complete short left to Zach Ertz for 11 yards (tackle by Malik Hooker),4.51,6.06,18.0,2024,263
+4.0,0:07,1.0,5.0,DAL 5,16.0,19.0,Marcus Mariota spiked the ball,6.06,5.15,18.0,2024,263
+4.0,0:06,,,,,,Timeout #3 by Dallas Cowboys,,,18.0,2024,263
+4.0,0:06,2.0,5.0,DAL 5,22.0,19.0,"Marcus Mariota pass complete short left to Terry McLaurin for 5 yards, touchdown",5.15,7.0,18.0,2024,263
+4.0,0:03,,,DAL 15,23.0,19.0,Zane Gonzalez kicks extra point good,0.0,0.0,18.0,2024,263
+4.0,0:02,,,WAS 35,23.0,19.0,"Zane Gonzalez kicks off 73 yards, returned by KaVontae Turpin for 30 yards (tackle by Jeremy Chinn)",0.0,1.27,18.0,2024,263

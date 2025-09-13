@@ -1,0 +1,169 @@
+Quarter,Time,Down,ToGo,Location,ATL,LVR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Falcons won the coin toss and deferred, Raiders to receive the opening kickoff.",,,15.0,2024,224
+1.0,15:00,,,ATL 35,0.0,0.0,"Bradley Pinion kicks off 61 yards, returned by Dylan Laube for 24 yards (tackle by Josh Woods)",0.0,0.81,15.0,2024,224
+1.0,14:54,1.0,10.0,LVR 28,0.0,0.0,"Penalty on Kolton Miller: False Start, 5 yards (accepted) (no play)",0.81,0.48,15.0,2024,224
+1.0,14:54,1.0,15.0,LVR 23,0.0,0.0,Sincere McCormick right guard for 5 yards (tackle by Kaden Elliss),0.48,0.26,15.0,2024,224
+1.0,14:17,2.0,10.0,LVR 28,0.0,0.0,Desmond Ridder pass complete short right to Brock Bowers for 8 yards (tackle by Lorenzo Carter),0.26,0.63,15.0,2024,224
+1.0,13:43,3.0,2.0,LVR 36,0.0,0.0,Sincere McCormick left guard for 1 yard (tackle by Kaden Elliss and Grady Jarrett),0.63,-0.91,15.0,2024,224
+1.0,13:02,4.0,1.0,LVR 37,0.0,0.0,Desmond Ridder left guard for 3 yards (tackle by David Onyemata),-0.91,1.6,15.0,2024,224
+1.0,12:30,1.0,10.0,LVR 40,0.0,0.0,Sincere McCormick right guard for 3 yards (tackle by Matt Judon),1.6,1.46,15.0,2024,224
+1.0,11:50,2.0,7.0,LVR 43,0.0,0.0,Desmond Ridder pass complete short middle to Sincere McCormick for 2 yards (tackle by Kaden Elliss),1.46,1.03,15.0,2024,224
+1.0,11:20,3.0,5.0,LVR 45,0.0,0.0,Desmond Ridder pass complete short right to Ameer Abdullah for 5 yards (tackle by Jessie Bates),1.03,2.26,15.0,2024,224
+1.0,10:44,1.0,10.0,ATL 50,0.0,0.0,Jakobi Meyers sacked by Kaden Elliss for -10 yards,2.26,0.36,15.0,2024,224
+1.0,10:03,2.0,20.0,LVR 40,0.0,0.0,Sincere McCormick up the middle for -3 yards (tackle by Ruke Orhorhoro),0.36,-0.69,15.0,2024,224
+1.0,9:23,3.0,23.0,LVR 37,0.0,0.0,"Alexander Mattison up the middle for 7 yards. Alexander Mattison fumbles (tackle by JD Bertrand, recovered by Kevin King at LV-48",-0.69,-2.39,15.0,2024,224
+1.0,9:15,1.0,10.0,LVR 48,0.0,0.0,Bijan Robinson left tackle for 6 yards (tackle by Robert Spillane),2.39,2.66,15.0,2024,224
+1.0,8:41,2.0,4.0,LVR 42,0.0,0.0,"Penalty on Chris Lindstrom: False Start, 5 yards (accepted) (no play)",2.66,1.98,15.0,2024,224
+1.0,8:25,2.0,9.0,LVR 47,0.0,0.0,Kirk Cousins pass complete short middle to Ray-Ray McCloud for 14 yards (tackle by Isaiah Pola-Mao),1.98,3.38,15.0,2024,224
+1.0,7:44,1.0,10.0,LVR 33,0.0,0.0,Bijan Robinson right tackle for 3 yards (tackle by Divine Deablo),3.38,3.24,15.0,2024,224
+1.0,7:09,2.0,7.0,LVR 30,0.0,0.0,Kirk Cousins pass complete short right to Charlie Woerner for 2 yards (tackle by Jack Jones),3.24,2.81,15.0,2024,224
+1.0,6:24,3.0,5.0,LVR 28,0.0,0.0,Kirk Cousins sacked by Jonah Laulu for -10 yards,2.81,0.72,15.0,2024,224
+1.0,5:26,4.0,15.0,LVR 38,0.0,0.0,"Bradley Pinion punts 38 yards, touchback.",0.72,-0.28,15.0,2024,224
+1.0,5:19,1.0,10.0,LVR 20,0.0,0.0,Sincere McCormick up the middle for -1 yards (tackle by Kentavius Street and Kaden Elliss),0.28,-0.46,15.0,2024,224
+1.0,4:45,2.0,11.0,LVR 19,0.0,0.0,Desmond Ridder pass incomplete deep right intended for Michael Mayer (defended by Demone Harris),-0.46,-1.14,15.0,2024,224
+1.0,4:37,3.0,11.0,LVR 19,0.0,0.0,Desmond Ridder pass complete short left to Ameer Abdullah for 2 yards (tackle by DeAundre Alford),-1.14,-1.96,15.0,2024,224
+1.0,3:55,4.0,9.0,LVR 21,0.0,0.0,AJ Cole punts 30 yards downed by Ramel Keyton,-1.96,-2.19,15.0,2024,224
+1.0,3:44,1.0,10.0,ATL 49,0.0,0.0,Bijan Robinson right guard for 10 yards (tackle by Jack Jones and Isaiah Pola-Mao),2.19,2.85,15.0,2024,224
+1.0,3:02,1.0,10.0,LVR 41,0.0,0.0,Bijan Robinson left end for 8 yards (tackle by Robert Spillane),2.85,3.39,15.0,2024,224
+1.0,2:26,2.0,2.0,LVR 33,0.0,0.0,Tyler Allgeier left end for -2 yards (tackle by K'Lavon Chaisson and Divine Deablo),3.39,2.41,15.0,2024,224
+1.0,1:43,3.0,4.0,LVR 35,0.0,0.0,Kirk Cousins pass complete short right to Kyle Pitts for 5 yards (tackle by Adam Butler),2.41,3.58,15.0,2024,224
+1.0,0:59,1.0,10.0,LVR 30,0.0,0.0,Tyler Allgeier right guard for no gain (tackle by Adam Butler and Divine Deablo),3.58,3.03,15.0,2024,224
+1.0,0:19,2.0,10.0,LVR 30,6.0,0.0,"Kirk Cousins pass complete deep right to Drake London for 30 yards, touchdown",3.03,7.0,15.0,2024,224
+1.0,0:14,,,LVR 15,7.0,0.0,Younghoe Koo kicks extra point good,0.0,0.0,15.0,2024,224
+1.0,0:14,,,ATL 35,7.0,0.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,224
+1.0,0:14,1.0,10.0,LVR 30,7.0,0.0,Desmond Ridder scrambles left end for 8 yards (tackle by Demone Harris),0.94,1.47,15.0,2024,224
+2.0,15:00,2.0,2.0,LVR 38,7.0,0.0,Sincere McCormick up the middle for 2 yards (tackle by David Onyemata and Grady Jarrett),1.47,1.6,15.0,2024,224
+2.0,14:19,1.0,10.0,LVR 40,7.0,0.0,"Desmond Ridder pass complete short left to Sincere McCormick for 15 yards (tackle by Mike Hughes) ATL challenged the pass completion ruling, and the play was upheld.",1.6,2.59,15.0,2024,224
+2.0,13:58,1.0,10.0,ATL 45,7.0,0.0,Sincere McCormick left guard for 1 yard (tackle by Kaden Elliss and Zach Harrison),2.59,2.18,15.0,2024,224
+2.0,13:17,2.0,9.0,ATL 44,7.0,0.0,Desmond Ridder scrambles left end for 11 yards (tackle by Mike Hughes),2.18,3.38,15.0,2024,224
+2.0,12:38,1.0,10.0,ATL 33,7.0,0.0,Desmond Ridder pass incomplete short left intended for Brock Bowers,3.38,2.84,15.0,2024,224
+2.0,12:35,2.0,10.0,ATL 33,7.0,0.0,Ameer Abdullah right tackle for no gain (tackle by Kaden Elliss),2.84,2.15,15.0,2024,224
+2.0,11:54,3.0,10.0,ATL 33,7.0,0.0,Desmond Ridder pass incomplete deep right intended for Brock Bowers,2.15,1.15,15.0,2024,224
+2.0,11:49,4.0,10.0,ATL 33,7.0,3.0,Daniel Carlson 52 yard field goal good,1.15,3.0,15.0,2024,224
+2.0,11:44,,,LVR 35,7.0,3.0,"Daniel Carlson kicks off 65 yards, touchback.",0.0,0.28,15.0,2024,224
+2.0,11:44,1.0,10.0,ATL 20,7.0,3.0,Bijan Robinson left tackle for 3 yards (tackle by Robert Spillane),0.28,0.14,15.0,2024,224
+2.0,11:18,2.0,7.0,ATL 23,7.0,3.0,Kirk Cousins pass complete short right to Bijan Robinson for 10 yards (tackle by Isaiah Pola-Mao),0.14,1.14,15.0,2024,224
+2.0,10:32,1.0,10.0,ATL 33,7.0,3.0,Bijan Robinson left tackle for 14 yards (tackle by Isaiah Pola-Mao),1.14,2.06,15.0,2024,224
+2.0,9:56,1.0,10.0,ATL 47,7.0,3.0,Bijan Robinson up the middle for 5 yards (tackle by K'Lavon Chaisson and John Jenkins),2.06,2.19,15.0,2024,224
+2.0,9:19,2.0,5.0,LVR 48,7.0,3.0,Tyler Allgeier left end for 3 yards (tackle by Robert Spillane),2.19,1.88,15.0,2024,224
+2.0,8:25,3.0,2.0,LVR 45,7.0,3.0,Bijan Robinson right guard for 3 yards (tackle by Adam Butler and Jack Jones),1.88,2.79,15.0,2024,224
+2.0,7:47,1.0,10.0,LVR 42,7.0,3.0,Bijan Robinson right tackle for 2 yards (tackle by Tre'von Moehrig),2.79,2.51,15.0,2024,224
+2.0,7:09,2.0,8.0,LVR 40,7.0,3.0,Kirk Cousins scrambles left guard for 2 yards (tackle by Jonah Laulu),2.51,2.08,15.0,2024,224
+2.0,6:29,3.0,6.0,LVR 38,7.0,3.0,Kirk Cousins pass incomplete short left intended for Darnell Mooney,2.08,0.72,15.0,2024,224
+2.0,6:24,4.0,6.0,LVR 38,7.0,3.0,"Penalty on ATL: Delay of Game, 5 yards (accepted) (no play)",0.72,0.4,15.0,2024,224
+2.0,6:24,4.0,11.0,LVR 43,7.0,3.0,"Bradley Pinion punts 40 yards, fair catch by Ameer Abdullah at LV-3",0.4,0.38,15.0,2024,224
+2.0,6:17,1.0,10.0,LVR 3,7.0,3.0,Alexander Mattison up the middle for -2 yards (tackle by Kentavius Street),-0.38,-0.93,15.0,2024,224
+2.0,5:39,2.0,12.0,LVR 1,9.0,3.0,"Alexander Mattison up the middle for -1 yards (tackle by Zach Harrison), safety.",-0.93,-2.0,15.0,2024,224
+2.0,5:35,,,LVR 20,9.0,3.0,"Daniel Carlson kicks off 73 yards, returned by Avery Williams for 28 yards (tackle by Thomas Harper and Amari Burney)",0.0,1.27,15.0,2024,224
+2.0,5:29,1.0,10.0,ATL 35,9.0,3.0,Bijan Robinson up the middle for 4 yards (tackle by Zachary Carter),1.27,1.26,15.0,2024,224
+2.0,4:56,2.0,6.0,ATL 39,9.0,3.0,Kirk Cousins pass incomplete short left intended for Bijan Robinson (defended by Divine Deablo),1.26,0.56,15.0,2024,224
+2.0,4:53,3.0,6.0,ATL 39,9.0,3.0,Kirk Cousins pass complete short left to Drake London for 18 yards (tackle by Isaiah Pola-Mao and Decamerion Richardson),0.56,2.72,15.0,2024,224
+2.0,4:05,1.0,10.0,LVR 43,9.0,3.0,Tyler Allgeier left tackle for 1 yard (tackle by Isaiah Pola-Mao),2.72,2.31,15.0,2024,224
+2.0,3:40,2.0,9.0,LVR 42,9.0,3.0,"Penalty on Matthew Bergeron: False Start, 5 yards (accepted) (no play)",2.31,1.64,15.0,2024,224
+2.0,3:19,2.0,14.0,LVR 47,9.0,3.0,Kirk Cousins pass complete short right to Charlie Woerner for 5 yards (tackle by Isaiah Pola-Mao),1.64,1.62,15.0,2024,224
+2.0,2:46,,,,,,Timeout #1 by Las Vegas Raiders,,,15.0,2024,224
+2.0,2:46,3.0,9.0,LVR 42,9.0,3.0,Kirk Cousins sacked by Adam Butler for -8 yards,1.62,-0.06,15.0,2024,224
+2.0,2:01,4.0,17.0,LVR 50,9.0,3.0,"Bradley Pinion punts 42 yards, fair catch by Ameer Abdullah at LV-8",-0.06,0.38,15.0,2024,224
+2.0,1:54,1.0,10.0,LVR 8,9.0,3.0,Desmond Ridder pass complete short right to Brock Bowers for 5 yards (tackle by Kaden Elliss and Lorenzo Carter),-0.38,-0.41,15.0,2024,224
+2.0,1:47,,,,,,Timeout #2 by Atlanta Falcons,,,15.0,2024,224
+2.0,1:47,2.0,5.0,LVR 13,9.0,3.0,Ameer Abdullah right tackle for 4 yards (tackle by Lorenzo Carter),-0.41,-0.37,15.0,2024,224
+2.0,1:06,3.0,1.0,LVR 17,9.0,3.0,Alexander Mattison up the middle for 1 yard (tackle by Nathan Landman),-0.37,0.04,15.0,2024,224
+2.0,0:32,1.0,10.0,LVR 18,9.0,3.0,Desmond Ridder pass complete short middle to Brock Bowers for 22 yards (tackle by DeAundre Alford),0.04,1.6,15.0,2024,224
+2.0,0:27,,,,,,Timeout #2 by Las Vegas Raiders,,,15.0,2024,224
+2.0,0:27,1.0,10.0,LVR 40,9.0,3.0,Desmond Ridder pass incomplete deep middle intended for Brock Bowers (defended by Kevin King),1.6,1.05,15.0,2024,224
+2.0,0:22,2.0,10.0,LVR 40,9.0,3.0,Desmond Ridder sacked by DeAngelo Malone for -8 yards,1.05,-0.69,15.0,2024,224
+3.0,15:00,,,LVR 35,9.0,3.0,"Daniel Carlson kicks off 58 yards, returned by Avery Williams for 38 yards (tackle by Thomas Harper and Dylan Laube)",0.0,1.93,15.0,2024,224
+3.0,14:52,1.0,10.0,ATL 45,9.0,3.0,Kirk Cousins pass short middle (defended by Adam Butler) intended for Charlie Woerner is intercepted by Robert Spillane at LV-46 and returned for no gain (tackle by Charlie Woerner),1.93,-1.99,15.0,2024,224
+3.0,14:46,1.0,10.0,LVR 46,9.0,3.0,Desmond Ridder up the middle for -2 yards (tackle by Grady Jarrett),1.99,1.18,15.0,2024,224
+3.0,14:08,2.0,12.0,LVR 44,9.0,3.0,"Desmond Ridder pass complete short left to Jakobi Meyers for no gain (tackle by DeAngelo Malone). Penalty on Jakobi Meyers: Offensive Pass Interference, 10 yards (accepted) (no play)",1.18,-0.17,15.0,2024,224
+3.0,13:43,2.0,22.0,LVR 34,9.0,3.0,Desmond Ridder sacked by DeAngelo Malone for -4 yards,-0.17,-1.35,15.0,2024,224
+3.0,13:04,3.0,26.0,LVR 30,9.0,3.0,Ameer Abdullah left guard for 4 yards (tackle by Grady Jarrett),-1.35,-1.11,15.0,2024,224
+3.0,12:26,4.0,22.0,LVR 34,9.0,3.0,AJ Cole punts blocked by KhaDarel Hodge (tackle by Natrone Brooks),-1.11,-3.12,15.0,2024,224
+3.0,12:13,1.0,10.0,LVR 37,9.0,3.0,Bijan Robinson right tackle for 5 yards (tackle by Adam Butler and Jonah Laulu),3.12,3.25,15.0,2024,224
+3.0,11:33,2.0,5.0,LVR 32,9.0,3.0,Bijan Robinson right guard for 9 yards (tackle by Tyree Wilson),3.25,4.04,15.0,2024,224
+3.0,10:57,1.0,10.0,LVR 23,9.0,3.0,Bijan Robinson right tackle for 2 yards (tackle by Divine Deablo and Robert Spillane),4.04,3.77,15.0,2024,224
+3.0,10:14,2.0,8.0,LVR 21,9.0,3.0,Bijan Robinson right tackle for -1 yards (tackle by Tre'von Moehrig),3.77,2.94,15.0,2024,224
+3.0,9:33,3.0,9.0,LVR 22,9.0,3.0,Kirk Cousins pass incomplete short left intended for Ray-Ray McCloud,2.94,1.99,15.0,2024,224
+3.0,9:29,4.0,9.0,LVR 22,12.0,3.0,Younghoe Koo 40 yard field goal good,1.99,3.0,15.0,2024,224
+3.0,9:25,,,ATL 35,12.0,3.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,224
+3.0,9:25,1.0,10.0,LVR 30,12.0,3.0,Desmond Ridder scrambles up the middle for 8 yards (tackle by Kaden Elliss),0.94,1.47,15.0,2024,224
+3.0,8:48,2.0,2.0,LVR 38,12.0,3.0,Alexander Mattison up the middle for 12 yards (tackle by Demone Harris),1.47,2.26,15.0,2024,224
+3.0,8:11,1.0,10.0,LVR 50,12.0,3.0,Desmond Ridder pass incomplete deep left intended for Tre Tucker,2.26,1.71,15.0,2024,224
+3.0,8:04,2.0,10.0,LVR 50,12.0,3.0,"Penalty on Jordan Meredith: False Start, 5 yards (accepted) (no play)",1.71,1.04,15.0,2024,224
+3.0,8:04,2.0,15.0,LVR 45,12.0,3.0,Desmond Ridder pass incomplete short right intended for Jakobi Meyers (defended by DeAundre Alford),1.04,0.37,15.0,2024,224
+3.0,8:01,3.0,15.0,LVR 45,12.0,3.0,Desmond Ridder pass incomplete deep right,0.37,-0.39,15.0,2024,224
+3.0,7:52,4.0,15.0,LVR 45,12.0,3.0,"AJ Cole punts 47 yards, fair catch by Avery Williams at ATL-8",-0.39,0.38,15.0,2024,224
+3.0,7:44,1.0,10.0,ATL 8,12.0,3.0,Tyler Allgeier up the middle for 2 yards (tackle by Jonah Laulu),-0.38,-0.63,15.0,2024,224
+3.0,7:08,2.0,8.0,ATL 10,12.0,3.0,Tyler Allgeier right guard for 19 yards (tackle by Nate Hobbs),-0.63,0.87,15.0,2024,224
+3.0,6:41,1.0,10.0,ATL 29,12.0,3.0,Tyler Allgeier left guard for 2 yards (tackle by Zachary Carter and K'Lavon Chaisson),0.87,0.6,15.0,2024,224
+3.0,6:07,2.0,8.0,ATL 31,12.0,3.0,Bijan Robinson right tackle for 2 yards (tackle by Adam Butler),0.6,0.17,15.0,2024,224
+3.0,5:18,3.0,6.0,ATL 33,12.0,3.0,"Penalty on Jake Matthews: False Start, 5 yards (accepted) (no play)",0.17,-0.49,15.0,2024,224
+3.0,5:00,3.0,11.0,ATL 28,12.0,3.0,Kirk Cousins pass complete short left to Kyle Pitts for 6 yards (tackle by Isaiah Pola-Mao and Robert Spillane),-0.49,-1.11,15.0,2024,224
+3.0,4:26,4.0,5.0,ATL 34,12.0,3.0,Bradley Pinion punts 63 yards downed by Antonio Hamilton,-1.11,0.38,15.0,2024,224
+3.0,4:15,1.0,10.0,LVR 3,12.0,3.0,Alexander Mattison up the middle for no gain (tackle by Zach Harrison and Nathan Landman),-0.38,-0.78,15.0,2024,224
+3.0,3:35,2.0,10.0,LVR 3,12.0,3.0,Desmond Ridder pass complete short middle to Alexander Mattison for 4 yards (tackle by Kaden Elliss and Nathan Landman),-0.78,-0.95,15.0,2024,224
+3.0,2:52,3.0,6.0,LVR 7,12.0,3.0,Alexander Mattison left end for 4 yards (tackle by AJ Terrell),-0.95,-2.49,15.0,2024,224
+3.0,2:06,4.0,2.0,LVR 11,12.0,3.0,AJ Cole punts 37 yards out of bounds,-2.49,-2.39,15.0,2024,224
+3.0,2:00,1.0,10.0,LVR 48,12.0,3.0,Bijan Robinson right end for 6 yards (tackle by Tyree Wilson and Zachary Carter),2.39,2.66,15.0,2024,224
+3.0,1:23,2.0,4.0,LVR 42,12.0,3.0,Kirk Cousins pass incomplete short left,2.66,1.95,15.0,2024,224
+3.0,1:18,3.0,4.0,LVR 42,12.0,3.0,Kirk Cousins pass complete short right to Drake London for 5 yards,1.95,3.12,15.0,2024,224
+3.0,0:40,1.0,10.0,LVR 37,12.0,3.0,Bijan Robinson left tackle for 2 yards (tackle by Jonah Laulu),3.12,2.84,15.0,2024,224
+4.0,15:00,2.0,8.0,LVR 35,12.0,3.0,"Penalty on Ross Dwelley: False Start, 5 yards (accepted) (no play)",2.84,2.17,15.0,2024,224
+4.0,15:00,2.0,13.0,LVR 40,12.0,3.0,Kirk Cousins sacked by Tyree Wilson for -1 yards,2.17,1.36,15.0,2024,224
+4.0,14:16,3.0,14.0,LVR 41,12.0,3.0,Kirk Cousins pass complete short middle to Kyle Pitts for 11 yards (tackle by Thomas Harper),1.36,1.48,15.0,2024,224
+4.0,13:31,4.0,3.0,LVR 30,15.0,3.0,Younghoe Koo 48 yard field goal good,1.48,3.0,15.0,2024,224
+4.0,13:26,,,ATL 35,15.0,3.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,224
+4.0,13:26,1.0,10.0,LVR 30,15.0,3.0,Desmond Ridder pass complete short right to Michael Mayer for 11 yards (tackle by Lorenzo Carter),0.94,1.66,15.0,2024,224
+4.0,12:48,1.0,10.0,LVR 41,15.0,3.0,Desmond Ridder pass incomplete deep left intended for Jakobi Meyers (defended by Justin Simmons),1.66,1.12,15.0,2024,224
+4.0,12:42,2.0,10.0,LVR 41,15.0,3.0,Desmond Ridder pass incomplete short left intended for Alexander Mattison,1.12,0.43,15.0,2024,224
+4.0,12:37,3.0,10.0,LVR 41,15.0,3.0,Desmond Ridder pass incomplete short right intended for Alexander Mattison,0.43,-0.65,15.0,2024,224
+4.0,12:32,4.0,10.0,LVR 41,15.0,3.0,"AJ Cole punts 45 yards, returned by Avery Williams for 12 yards (tackle by Christopher Smith and Tommy Eichenberg)",-0.65,-0.67,15.0,2024,224
+4.0,12:21,1.0,10.0,ATL 26,15.0,3.0,Bijan Robinson up the middle for 29 yards (tackle by Isaiah Pola-Mao),0.67,2.59,15.0,2024,224
+4.0,11:43,1.0,10.0,LVR 45,15.0,3.0,"Kirk Cousins aborted snap, recovered by Kirk Cousins at ATL-49 and returned for -6 yards (tackle by Divine Deablo)",2.59,1.23,15.0,2024,224
+4.0,11:01,2.0,16.0,ATL 49,15.0,3.0,Bijan Robinson right guard for 4 yards (tackle by K'Lavon Chaisson and Janarius Robinson),1.23,1.09,15.0,2024,224
+4.0,10:38,3.0,12.0,LVR 47,15.0,3.0,Kirk Cousins pass complete short left to Kyle Pitts for 6 yards (tackle by Nate Hobbs),1.09,0.53,15.0,2024,224
+4.0,9:48,4.0,6.0,LVR 41,15.0,3.0,"Penalty on ATL: Delay of Game, 5 yards (accepted) (no play)",0.53,0.2,15.0,2024,224
+4.0,9:48,4.0,11.0,LVR 46,15.0,3.0,"Bradley Pinion punts 37 yards, fair catch by Ameer Abdullah at LV-9",0.2,0.38,15.0,2024,224
+4.0,9:40,1.0,10.0,LVR 9,15.0,3.0,Desmond Ridder pass complete short right to Alexander Mattison for -1 yards (tackle by Kentavius Street),-0.38,-0.85,15.0,2024,224
+4.0,9:02,2.0,11.0,LVR 8,15.0,3.0,Desmond Ridder pass deep middle intended for Jakobi Meyers is intercepted by Justin Simmons at LV-39 and returned for no gain (tackle by Jakobi Meyers),-0.85,-2.98,15.0,2024,224
+4.0,8:55,1.0,10.0,LVR 39,15.0,3.0,Tyler Allgeier right tackle for 5 yards (tackle by Zachary Carter),2.98,3.12,15.0,2024,224
+4.0,8:15,2.0,5.0,LVR 34,15.0,3.0,Tyler Allgeier left tackle for 5 yards (tackle by John Jenkins),3.12,3.64,15.0,2024,224
+4.0,7:37,1.0,10.0,LVR 29,15.0,3.0,Tyler Allgeier left end for 2 yards (tackle by Decamerion Richardson and Robert Spillane),3.64,3.37,15.0,2024,224
+4.0,6:53,2.0,8.0,LVR 27,15.0,3.0,Kirk Cousins up the middle for -2 yards (tackle by Tyree Wilson),3.37,2.41,15.0,2024,224
+4.0,6:12,3.0,10.0,LVR 29,15.0,3.0,Bijan Robinson right guard for 5 yards (tackle by Thomas Harper),2.41,1.92,15.0,2024,224
+4.0,5:31,4.0,5.0,LVR 24,15.0,3.0,Younghoe Koo 42 yard field goal no good,1.92,-1.07,15.0,2024,224
+4.0,5:27,1.0,10.0,LVR 32,15.0,3.0,Desmond Ridder pass complete short right to Tre Tucker for 8 yards (tackle by DeAundre Alford and Arnold Ebiketie),1.07,1.61,15.0,2024,224
+4.0,5:06,2.0,2.0,LVR 40,15.0,3.0,Desmond Ridder pass complete short left to Jakobi Meyers for 11 yards (tackle by Mike Hughes),1.61,2.32,15.0,2024,224
+4.0,4:47,1.0,10.0,ATL 49,15.0,3.0,Desmond Ridder pass complete short left to Jakobi Meyers for 8 yards (tackle by Mike Hughes),2.32,2.86,15.0,2024,224
+4.0,4:28,2.0,2.0,ATL 41,15.0,3.0,Desmond Ridder sacked by Zach Harrison for -2 yards,2.86,1.88,15.0,2024,224
+4.0,3:53,3.0,4.0,ATL 43,15.0,3.0,Desmond Ridder pass complete short right to Jakobi Meyers for 7 yards (tackle by JD Bertrand),1.88,3.18,15.0,2024,224
+4.0,3:33,1.0,10.0,ATL 36,15.0,3.0,Desmond Ridder pass complete short right to Terrace Marshall for 7 yards (tackle by Mike Hughes),3.18,3.58,15.0,2024,224
+4.0,3:09,2.0,3.0,ATL 29,15.0,3.0,Desmond Ridder pass incomplete short left,3.58,2.87,15.0,2024,224
+4.0,3:05,3.0,3.0,ATL 29,15.0,3.0,Desmond Ridder pass complete short right to Ameer Abdullah for 24 yards (tackle by Jessie Bates),2.87,6.06,15.0,2024,224
+4.0,2:59,1.0,5.0,ATL 5,15.0,9.0,"Desmond Ridder pass complete short right to Ameer Abdullah for 5 yards, touchdown",6.06,7.0,15.0,2024,224
+4.0,2:54,,,ATL 15,15.0,9.0,Daniel Carlson kicks extra point blocked blocked by Kevin King,0.0,-1.0,15.0,2024,224
+4.0,2:54,,,LVR 35,15.0,9.0,"Daniel Carlson kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,224
+4.0,2:54,1.0,10.0,ATL 30,15.0,9.0,Tyler Allgeier up the middle for 3 yards (tackle by Divine Deablo),0.94,0.8,15.0,2024,224
+4.0,2:50,,,,,,Timeout #1 by Las Vegas Raiders,,,15.0,2024,224
+4.0,2:50,2.0,7.0,ATL 33,15.0,9.0,Tyler Allgeier up the middle for 3 yards (tackle by John Jenkins and Robert Spillane),0.8,0.5,15.0,2024,224
+4.0,2:44,,,,,,Timeout #2 by Las Vegas Raiders,,,15.0,2024,224
+4.0,2:44,3.0,4.0,ATL 36,15.0,9.0,"Kirk Cousins pass incomplete short middle intended for Kyle Pitts. Penalty on Robert Spillane: Roughing the Passer, 15 yards (accepted) (no play)",0.5,2.32,15.0,2024,224
+4.0,2:40,1.0,10.0,LVR 49,15.0,9.0,Bijan Robinson left tackle for 1 yard (tackle by John Jenkins and K'Lavon Chaisson),2.32,1.92,15.0,2024,224
+4.0,2:33,,,,,,Timeout #3 by Las Vegas Raiders,,,15.0,2024,224
+4.0,2:33,2.0,9.0,LVR 48,15.0,9.0,Bijan Robinson right end for 3 yards (tackle by Decamerion Richardson and John Jenkins),1.92,1.62,15.0,2024,224
+4.0,2:00,3.0,6.0,LVR 45,15.0,9.0,Kirk Cousins pass incomplete short middle intended for Ray-Ray McCloud (defended by Jonah Laulu),1.62,0.27,15.0,2024,224
+4.0,1:56,4.0,6.0,LVR 45,15.0,9.0,"Bradley Pinion punts 45 yards, touchback.",0.27,-0.28,15.0,2024,224
+4.0,1:50,1.0,10.0,LVR 20,15.0,9.0,Desmond Ridder pass complete short middle to Ameer Abdullah for 7 yards (tackle by JD Bertrand),0.28,0.68,15.0,2024,224
+4.0,1:33,2.0,3.0,LVR 27,15.0,9.0,"Penalty on Jordan Meredith: False Start, 5 yards (accepted) (no play)",0.68,0.0,15.0,2024,224
+4.0,1:21,2.0,8.0,LVR 22,15.0,9.0,Desmond Ridder pass complete short left to Tre Tucker for 10 yards (tackle by Mike Hughes),0.0,1.07,15.0,2024,224
+4.0,1:16,1.0,10.0,LVR 32,15.0,9.0,"Desmond Ridder pass incomplete short right. Penalty on Delmar Glaze: Offensive Holding, 10 yards (accepted) (no play)",1.07,0.41,15.0,2024,224
+4.0,1:10,1.0,20.0,LVR 22,15.0,9.0,Desmond Ridder pass complete short left to Jakobi Meyers for 11 yards (tackle by Kaden Elliss),0.41,0.66,15.0,2024,224
+4.0,0:56,2.0,9.0,LVR 33,15.0,9.0,Desmond Ridder pass complete short middle to Ameer Abdullah for 6 yards (tackle by JD Bertrand),0.66,0.76,15.0,2024,224
+4.0,0:40,3.0,3.0,LVR 39,15.0,9.0,Desmond Ridder pass incomplete short left intended for Jakobi Meyers (defended by Mike Hughes),0.76,-0.78,15.0,2024,224
+4.0,0:35,4.0,3.0,LVR 39,15.0,9.0,"Penalty on Desmond Ridder: Delay of Game, 5 yards (accepted) (no play)",-0.78,-1.11,15.0,2024,224
+4.0,0:35,4.0,8.0,LVR 34,15.0,9.0,Desmond Ridder pass complete short right to Ameer Abdullah for 9 yards (tackle by Mike Hughes),-1.11,1.8,15.0,2024,224
+4.0,0:26,1.0,10.0,LVR 43,15.0,9.0,Desmond Ridder pass complete deep left to Jakobi Meyers for 22 yards (tackle by DeAundre Alford and AJ Terrell),1.8,3.25,15.0,2024,224
+4.0,0:10,1.0,10.0,ATL 35,15.0,9.0,Desmond Ridder spiked the ball,3.25,2.7,15.0,2024,224
+4.0,0:10,,,,,,Timeout #1 by Atlanta Falcons,,,15.0,2024,224
+4.0,0:10,2.0,10.0,ATL 35,15.0,9.0,Desmond Ridder pass incomplete deep left (defended by Kevin King),2.7,2.01,15.0,2024,224
+4.0,0:02,3.0,10.0,ATL 35,15.0,9.0,Desmond Ridder pass deep right is intercepted by Jessie Bates in end zone and returned for no gain,2.01,0.0,15.0,2024,224

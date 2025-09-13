@@ -1,0 +1,197 @@
+Quarter,Time,Down,ToGo,Location,NYJ,MIN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Vikings won the coin toss and deferred, Jets to receive the opening kickoff.",,,13.0,2022,185
+1.0,15:00,,,MIN 35,0.0,0.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,185
+1.0,15:00,1.0,10.0,NYJ 25,0.0,0.0,"Zonovan Knight left end for 7 yards (tackle by Akayleb Evans). Penalty on Corey Davis: Offensive Holding, 10 yards (accepted)",0.61,0.41,13.0,2022,185
+1.0,14:53,1.0,13.0,NYJ 22,0.0,0.0,Mike White pass complete short right to Zonovan Knight for 5 yards (tackle by Dalvin Tomlinson and Danielle Hunter),0.41,0.33,13.0,2022,185
+1.0,14:17,2.0,8.0,NYJ 27,0.0,0.0,Mike White pass complete short right to Tyler Conklin for 6 yards (tackle by Harrison Smith),0.33,0.43,13.0,2022,185
+1.0,13:41,3.0,2.0,NYJ 33,0.0,0.0,"Mike White pass short middle (defended by Camryn Bynum) intended for Corey Davis is intercepted by Harrison Smith at NYJ-43 and returned for 8 yards, lateral to Patrick Peterson for no gain (tackle by Elijah Moore)",0.43,-3.31,13.0,2022,185
+1.0,13:25,1.0,10.0,NYJ 34,0.0,0.0,Dalvin Cook left guard for 1 yard (tackle by Quinnen Williams),3.31,2.91,13.0,2022,185
+1.0,12:49,2.0,9.0,NYJ 33,0.0,0.0,Kirk Cousins pass incomplete short right,2.91,2.21,13.0,2022,185
+1.0,12:42,3.0,9.0,NYJ 33,0.0,0.0,Kirk Cousins pass incomplete short right intended for T.J. Hockenson (defended by Quinnen Williams),2.21,1.15,13.0,2022,185
+1.0,12:38,4.0,9.0,NYJ 33,0.0,3.0,Greg Joseph 51 yard field goal good,1.15,3.0,13.0,2022,185
+1.0,12:33,,,MIN 35,0.0,3.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,185
+1.0,12:33,1.0,10.0,NYJ 25,0.0,3.0,Zonovan Knight right tackle for 2 yards (tackle by Patrick Jones and Harrison Smith),0.61,0.33,13.0,2022,185
+1.0,12:07,2.0,8.0,NYJ 27,0.0,3.0,Mike White pass complete short left to Corey Davis for 9 yards (tackle by Eric Kendricks),0.33,1.33,13.0,2022,185
+1.0,11:41,1.0,10.0,NYJ 36,0.0,3.0,Mike White pass complete short left to Elijah Moore for 3 yards (tackle by Harrison Smith),1.33,1.2,13.0,2022,185
+1.0,11:15,2.0,7.0,NYJ 39,0.0,3.0,Mike White pass complete to Zonovan Knight for 6 yards (tackle by Chandon Sullivan and Eric Kendricks),1.2,1.29,13.0,2022,185
+1.0,10:31,3.0,1.0,NYJ 45,0.0,3.0,James Robinson up the middle for 4 yards (tackle by Eric Kendricks),1.29,2.19,13.0,2022,185
+1.0,10:03,1.0,10.0,NYJ 49,0.0,3.0,James Robinson right guard for 4 yards (tackle by Jordan Hicks),2.19,2.19,13.0,2022,185
+1.0,9:24,2.0,6.0,MIN 47,0.0,3.0,Mike White pass incomplete short right,2.19,1.49,13.0,2022,185
+1.0,9:19,3.0,6.0,MIN 47,0.0,3.0,Mike White pass complete short right to Corey Davis for 17 yards (tackle by Akayleb Evans),1.49,3.58,13.0,2022,185
+1.0,8:50,1.0,10.0,MIN 30,0.0,3.0,Mike White pass incomplete short right intended for Ty Johnson,3.58,3.03,13.0,2022,185
+1.0,8:45,2.0,10.0,MIN 30,0.0,3.0,Mike White pass incomplete deep right intended for Tyler Conklin,3.03,2.34,13.0,2022,185
+1.0,8:40,3.0,10.0,MIN 30,0.0,3.0,Mike White pass incomplete short middle intended for Tyler Conklin,2.34,1.41,13.0,2022,185
+1.0,8:34,4.0,10.0,MIN 30,3.0,3.0,Greg Zuerlein 48 yard field goal good,1.41,3.0,13.0,2022,185
+1.0,8:30,,,NYJ 35,3.0,3.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,185
+1.0,8:30,1.0,10.0,MIN 25,3.0,3.0,Kirk Cousins pass incomplete short left intended for Dalvin Cook (defended by Michael Carter),0.61,0.06,13.0,2022,185
+1.0,8:26,2.0,10.0,MIN 25,3.0,3.0,Dalvin Cook up the middle for 21 yards (tackle by Michael Carter and Jordan Whitehead),0.06,1.99,13.0,2022,185
+1.0,7:50,1.0,10.0,MIN 46,3.0,3.0,Dalvin Cook left tackle for 7 yards (tackle by John Franklin-Myers and Jordan Whitehead),1.99,2.4,13.0,2022,185
+1.0,7:26,2.0,3.0,NYJ 47,3.0,3.0,Kirk Cousins pass incomplete deep left intended for Justin Jefferson (defended by D.J. Reed),2.4,1.69,13.0,2022,185
+1.0,7:20,3.0,3.0,NYJ 47,3.0,3.0,Kirk Cousins pass incomplete deep right intended for Adam Thielen,1.69,0.13,13.0,2022,185
+1.0,7:16,4.0,3.0,NYJ 47,3.0,3.0,"Ryan Wright punts 39 yards, fair catch by Braxton Berrios at NYJ-8",0.13,0.38,13.0,2022,185
+1.0,7:09,1.0,10.0,NYJ 8,3.0,3.0,Zonovan Knight left tackle for 3 yards (tackle by Khyiris Tonga and Eric Kendricks),-0.38,-0.56,13.0,2022,185
+1.0,6:40,2.0,7.0,NYJ 11,3.0,3.0,"Zonovan Knight right guard for 9 yards (tackle by Camryn Bynum and Eric Kendricks). Penalty on Jonathan Bullard: Face Mask (15 Yards), 15 yards (accepted)",-0.56,1.27,13.0,2022,185
+1.0,6:15,1.0,10.0,NYJ 35,3.0,3.0,"Penalty on Corey Davis: False Start, 5 yards (accepted) (no play)",1.27,0.94,13.0,2022,185
+1.0,5:53,1.0,15.0,NYJ 30,3.0,3.0,Mike White pass incomplete short middle intended for Corey Davis,0.94,0.05,13.0,2022,185
+1.0,5:49,2.0,15.0,NYJ 30,3.0,3.0,Mike White pass incomplete deep left intended for Denzel Mims (defended by Akayleb Evans),0.05,-0.63,13.0,2022,185
+1.0,5:43,3.0,15.0,NYJ 30,3.0,3.0,Mike White pass complete short right to Ty Johnson for 7 yards (tackle by Eric Kendricks),-0.63,-0.91,13.0,2022,185
+1.0,5:07,4.0,8.0,NYJ 37,3.0,3.0,Braden Mann punts 37 yards out of bounds,-0.91,-0.67,13.0,2022,185
+1.0,5:00,1.0,10.0,MIN 26,3.0,3.0,Dalvin Cook up the middle for 4 yards (tackle by Jordan Whitehead),0.67,0.67,13.0,2022,185
+1.0,4:22,2.0,6.0,MIN 30,3.0,3.0,Dalvin Cook up the middle for 4 yards (tackle by Nathan Shepherd and Vinny Curry),0.67,0.5,13.0,2022,185
+1.0,3:37,3.0,2.0,MIN 34,3.0,3.0,Kirk Cousins pass complete short right to Justin Jefferson for 4 yards (tackle by Sauce Gardner),0.5,1.47,13.0,2022,185
+1.0,3:02,1.0,10.0,MIN 38,3.0,3.0,"Kirk Cousins pass incomplete intended for T.J. Hockenson. Penalty on D.J. Reed: Defensive Holding, 5 yards (accepted) (no play)",1.47,1.8,13.0,2022,185
+1.0,2:56,1.0,10.0,MIN 43,3.0,3.0,Dalvin Cook left end for 8 yards (tackle by D.J. Reed),1.8,2.33,13.0,2022,185
+1.0,2:21,2.0,2.0,NYJ 49,3.0,3.0,Kirk Cousins pass incomplete short left,2.33,1.62,13.0,2022,185
+1.0,2:18,3.0,2.0,NYJ 49,3.0,3.0,Kirk Cousins pass incomplete short right intended for Justin Jefferson,1.62,0.0,13.0,2022,185
+1.0,2:13,4.0,2.0,NYJ 49,3.0,3.0,Kirk Cousins pass complete short right to K.J. Osborn for 7 yards (tackle by Sauce Gardner and C.J. Mosley),0.0,2.79,13.0,2022,185
+1.0,1:39,1.0,10.0,NYJ 42,3.0,3.0,"Kirk Cousins pass incomplete intended for K.J. Osborn. Penalty on Sauce Gardner: Defensive Holding, 5 yards (accepted) (no play)",2.79,3.12,13.0,2022,185
+1.0,1:34,1.0,10.0,NYJ 37,3.0,3.0,Dalvin Cook left end for 4 yards (tackle by Lamarcus Joyner and Jordan Whitehead),3.12,3.11,13.0,2022,185
+1.0,0:49,2.0,6.0,NYJ 33,3.0,3.0,Justin Jefferson right end for 3 yards (tackle by C.J. Mosley),3.11,2.81,13.0,2022,185
+1.0,0:21,3.0,3.0,NYJ 30,3.0,3.0,Kirk Cousins pass complete short right to T.J. Hockenson for 6 yards (tackle by Kwon Alexander),2.81,3.97,13.0,2022,185
+2.0,15:00,1.0,10.0,NYJ 24,3.0,3.0,Kirk Cousins pass complete short right to Dalvin Cook for -3 yards (tackle by Michael Carter),3.97,3.03,13.0,2022,185
+2.0,14:24,2.0,13.0,NYJ 27,3.0,3.0,Justin Jefferson up the middle for 8 yards (tackle by Jordan Whitehead),3.03,3.41,13.0,2022,185
+2.0,13:32,3.0,5.0,NYJ 19,3.0,3.0,"Kirk Cousins pass complete short middle to Justin Jefferson for 10 yards (tackle by Jordan Whitehead). Penalty on Jordan Whitehead: Unnecessary Roughness / Defense, 5 yards (accepted)",3.41,6.28,13.0,2022,185
+2.0,13:06,1.0,4.0,NYJ 4,3.0,9.0,"Dalvin Cook left tackle for 4 yards, touchdown",6.28,7.0,13.0,2022,185
+2.0,13:02,,,NYJ 15,3.0,10.0,Greg Joseph kicks extra point good,0.0,0.0,13.0,2022,185
+2.0,13:02,,,MIN 35,3.0,10.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,185
+2.0,13:02,1.0,10.0,NYJ 25,3.0,10.0,Zonovan Knight left guard for no gain (tackle by Eric Kendricks and Patrick Jones),0.61,0.06,13.0,2022,185
+2.0,12:27,2.0,10.0,NYJ 25,3.0,10.0,Mike White pass complete short left to Garrett Wilson for 15 yards (tackle by Camryn Bynum),0.06,1.6,13.0,2022,185
+2.0,11:48,1.0,10.0,NYJ 40,3.0,10.0,Zonovan Knight left end for no gain (tackle by Akayleb Evans),1.6,1.05,13.0,2022,185
+2.0,11:19,2.0,10.0,NYJ 40,3.0,10.0,Mike White sacked by Patrick Jones for -3 yards,1.05,-0.03,13.0,2022,185
+2.0,10:37,3.0,13.0,NYJ 37,3.0,10.0,Mike White pass complete short left to Ty Johnson for 5 yards (tackle by Josh Metellus),-0.03,-0.59,13.0,2022,185
+2.0,9:56,4.0,8.0,NYJ 42,3.0,10.0,"Braden Mann punts 44 yards, fair catch by Jalen Reagor at MIN-14",-0.59,0.28,13.0,2022,185
+2.0,9:50,1.0,10.0,MIN 14,3.0,10.0,Alexander Mattison up the middle for 3 yards (tackle by Kwon Alexander and C.J. Mosley),-0.28,-0.37,13.0,2022,185
+2.0,9:13,2.0,7.0,MIN 17,3.0,10.0,Kirk Cousins pass complete short left to Justin Jefferson for 5 yards (tackle by D.J. Reed),-0.37,-0.44,13.0,2022,185
+2.0,8:43,3.0,2.0,MIN 22,3.0,10.0,Kirk Cousins pass complete short right to Justin Jefferson for 4 yards (tackle by Jordan Whitehead),-0.44,0.67,13.0,2022,185
+2.0,7:58,1.0,10.0,MIN 26,3.0,10.0,"Kirk Cousins pass incomplete deep left intended for Justin Jefferson Penalty on MIN: Illegal Shift, 5 yards (declined)",0.67,0.13,13.0,2022,185
+2.0,7:50,2.0,10.0,MIN 26,3.0,10.0,Kirk Cousins pass complete short left to Alexander Mattison for 1 yard (tackle by Michael Carter and Micheal Clemons),0.13,-0.43,13.0,2022,185
+2.0,7:09,3.0,9.0,MIN 27,3.0,10.0,Kirk Cousins scrambles left end for 11 yards (tackle by Quincy Williams and C.J. Mosley),-0.43,1.47,13.0,2022,185
+2.0,6:22,1.0,10.0,MIN 38,3.0,10.0,Kirk Cousins pass complete deep left to Jalen Reagor for 38 yards (tackle by Lamarcus Joyner),1.47,3.97,13.0,2022,185
+2.0,5:29,1.0,10.0,NYJ 24,3.0,10.0,"Penalty on Blake Brandel: False Start, 5 yards (accepted) (no play)",3.97,3.64,13.0,2022,185
+2.0,5:08,1.0,15.0,NYJ 29,3.0,10.0,Kirk Cousins pass complete short right to Alexander Mattison for 3 yards (tackle by Jordan Whitehead),3.64,3.16,13.0,2022,185
+2.0,4:48,2.0,12.0,NYJ 26,3.0,10.0,Kirk Cousins pass complete short left to Justin Jefferson for 5 yards (tackle by D.J. Reed),3.16,3.14,13.0,2022,185
+2.0,4:08,3.0,7.0,NYJ 21,3.0,10.0,"Kirk Cousins pass complete short right to T.J. Hockenson for 7 yards (tackle by C.J. Mosley) NYJ challenged the first down ruling, and the play was upheld.",3.14,4.65,13.0,2022,185
+2.0,3:39,1.0,10.0,NYJ 14,3.0,16.0,"Alexander Mattison up the middle for 14 yards, touchdown",4.65,7.0,13.0,2022,185
+2.0,3:35,,,NYJ 15,3.0,17.0,Greg Joseph kicks extra point good,0.0,0.0,13.0,2022,185
+2.0,3:35,,,MIN 35,3.0,17.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,185
+2.0,3:35,1.0,10.0,NYJ 25,3.0,17.0,Mike White pass incomplete short middle intended for Garrett Wilson (defended by Khyiris Tonga),0.61,0.06,13.0,2022,185
+2.0,3:31,2.0,10.0,NYJ 25,3.0,17.0,Mike White pass complete short left to Garrett Wilson for 10 yards (tackle by Akayleb Evans),0.06,1.27,13.0,2022,185
+2.0,3:05,1.0,10.0,NYJ 35,3.0,17.0,Ty Johnson left guard for 3 yards (tackle by Danielle Hunter),1.27,1.13,13.0,2022,185
+2.0,2:24,2.0,7.0,NYJ 38,3.0,17.0,Mike White pass incomplete deep left intended for Garrett Wilson,1.13,0.43,13.0,2022,185
+2.0,2:17,3.0,7.0,NYJ 38,3.0,17.0,Mike White pass complete short left to Ty Johnson for 5 yards (tackle by Harrison Smith),0.43,-0.52,13.0,2022,185
+2.0,2:00,4.0,2.0,NYJ 43,3.0,17.0,Mike White pass incomplete short right intended for Tyler Conklin (defended by Chandon Sullivan),-0.52,-2.72,13.0,2022,185
+2.0,1:58,1.0,10.0,NYJ 43,3.0,17.0,Dalvin Cook up the middle for 3 yards (tackle by Sheldon Rankins),2.72,2.58,13.0,2022,185
+2.0,1:21,2.0,7.0,NYJ 40,3.0,17.0,Kirk Cousins pass incomplete short middle intended for Adam Thielen (defended by Jordan Whitehead),2.58,1.88,13.0,2022,185
+2.0,1:17,,,,,,Timeout #1 by Minnesota Vikings,,,13.0,2022,185
+2.0,1:17,3.0,7.0,NYJ 40,3.0,17.0,Kirk Cousins pass complete short right to K.J. Osborn for 10 yards (tackle by Brandin Echols),1.88,3.58,13.0,2022,185
+2.0,1:12,1.0,10.0,NYJ 30,3.0,17.0,Dalvin Cook left guard for no gain (tackle by Jermaine Johnson),3.58,3.03,13.0,2022,185
+2.0,0:54,2.0,10.0,NYJ 30,3.0,17.0,Kirk Cousins pass complete short left to Justin Jefferson for 7 yards (tackle by Brandin Echols),3.03,3.27,13.0,2022,185
+2.0,0:48,3.0,3.0,NYJ 23,3.0,17.0,Kirk Cousins pass incomplete short right intended for Adam Thielen,3.27,2.03,13.0,2022,185
+2.0,0:44,4.0,3.0,NYJ 23,3.0,20.0,Greg Joseph 41 yard field goal good,2.03,3.0,13.0,2022,185
+2.0,0:40,,,MIN 35,3.0,20.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,185
+2.0,0:40,1.0,10.0,NYJ 25,3.0,20.0,Mike White pass complete short left to Ty Johnson for 8 yards (tackle by Jordan Hicks),0.61,1.14,13.0,2022,185
+2.0,0:35,2.0,2.0,NYJ 33,3.0,20.0,Mike White pass complete deep left to Garrett Wilson for 18 yards,1.14,2.32,13.0,2022,185
+2.0,0:30,1.0,10.0,MIN 49,3.0,20.0,Mike White pass incomplete deep middle intended for Garrett Wilson (defended by Harrison Smith),2.32,1.78,13.0,2022,185
+2.0,0:23,2.0,10.0,MIN 49,3.0,20.0,Mike White pass incomplete deep left intended for Elijah Moore,1.78,1.09,13.0,2022,185
+2.0,0:18,,,,,,Timeout #2 by Minnesota Vikings,,,13.0,2022,185
+2.0,0:18,3.0,10.0,MIN 49,3.0,20.0,Mike White pass complete short right to Ty Johnson for 7 yards (tackle by Eric Kendricks),1.09,0.46,13.0,2022,185
+2.0,0:13,,,,,,Timeout #3 by Minnesota Vikings,,,13.0,2022,185
+2.0,0:13,4.0,3.0,MIN 42,6.0,20.0,Greg Zuerlein 60 yard field goal good,0.46,3.0,13.0,2022,185
+2.0,0:08,,,NYJ 35,6.0,20.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,185
+2.0,0:08,1.0,10.0,MIN 25,6.0,20.0,Kirk Cousins kneels for -1 yards,0.61,-0.07,13.0,2022,185
+3.0,15:00,,,NYJ 35,6.0,20.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,185
+3.0,15:00,1.0,10.0,MIN 25,6.0,20.0,Dalvin Cook right tackle for 6 yards (tackle by Carl Lawson and C.J. Mosley),0.61,0.87,13.0,2022,185
+3.0,14:25,2.0,4.0,MIN 31,6.0,20.0,Dalvin Cook up the middle for no gain (tackle by D.J. Reed),0.87,0.17,13.0,2022,185
+3.0,13:47,3.0,4.0,MIN 31,6.0,20.0,Kirk Cousins pass complete short left to Dalvin Cook for no gain (tackle by C.J. Mosley),0.17,-1.31,13.0,2022,185
+3.0,13:06,4.0,4.0,MIN 31,6.0,20.0,"Ryan Wright punts 44 yards, returned by Braxton Berrios for 14 yards (tackle by D.J. Wonnum and Theo Jackson)",-1.31,-1.53,13.0,2022,185
+3.0,12:56,1.0,10.0,NYJ 39,6.0,20.0,Zonovan Knight right tackle for 1 yard (tackle by Za'Darius Smith),1.53,1.12,13.0,2022,185
+3.0,12:27,2.0,9.0,NYJ 40,6.0,20.0,Mike White pass complete deep middle to Garrett Wilson for 23 yards (tackle by Akayleb Evans),1.12,3.12,13.0,2022,185
+3.0,11:48,1.0,10.0,MIN 37,6.0,20.0,Zonovan Knight left tackle for 6 yards (tackle by Dalvin Tomlinson),3.12,3.38,13.0,2022,185
+3.0,11:16,2.0,4.0,MIN 31,6.0,20.0,Elijah Moore left end for 10 yards (tackle by Akayleb Evans),3.38,4.17,13.0,2022,185
+3.0,10:37,1.0,10.0,MIN 21,6.0,20.0,Garrett Wilson pass incomplete short right,4.17,3.63,13.0,2022,185
+3.0,10:31,2.0,10.0,MIN 21,6.0,20.0,Mike White pass complete short middle to Tyler Conklin for 3 yards (tackle by Danielle Hunter),3.63,3.31,13.0,2022,185
+3.0,9:52,3.0,7.0,MIN 18,6.0,20.0,Mike White pass incomplete short left intended for Garrett Wilson,3.31,2.25,13.0,2022,185
+3.0,9:47,4.0,7.0,MIN 18,9.0,20.0,Greg Zuerlein 36 yard field goal good,2.25,3.0,13.0,2022,185
+3.0,9:43,,,NYJ 35,9.0,20.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,185
+3.0,9:43,1.0,10.0,MIN 25,9.0,20.0,Jalen Reagor left end for 8 yards (tackle by C.J. Mosley and Quincy Williams),0.61,1.14,13.0,2022,185
+3.0,9:09,2.0,2.0,MIN 33,9.0,20.0,Kirk Cousins pass incomplete deep left intended for T.J. Hockenson,1.14,0.43,13.0,2022,185
+3.0,9:03,3.0,2.0,MIN 33,9.0,20.0,Dalvin Cook left end for 8 yards (tackle by Michael Carter),0.43,1.66,13.0,2022,185
+3.0,8:28,1.0,10.0,MIN 41,9.0,20.0,Kirk Cousins pass incomplete deep left intended for Justin Jefferson,1.66,1.12,13.0,2022,185
+3.0,8:22,2.0,10.0,MIN 41,9.0,20.0,Dalvin Cook up the middle for -2 yards (tackle by Quinnen Williams),1.12,0.17,13.0,2022,185
+3.0,7:58,3.0,12.0,MIN 39,9.0,20.0,Kirk Cousins sacked by Quinnen Williams for -8 yards,0.17,-1.31,13.0,2022,185
+3.0,7:21,4.0,20.0,MIN 31,9.0,20.0,Ryan Wright punts 43 yards out of bounds,-1.31,-0.67,13.0,2022,185
+3.0,7:16,1.0,10.0,NYJ 26,9.0,20.0,Zonovan Knight right guard for 3 yards (tackle by Patrick Jones),0.67,0.54,13.0,2022,185
+3.0,6:38,2.0,7.0,NYJ 29,9.0,20.0,Mike White pass complete short right to Zonovan Knight for 8 yards (tackle by Patrick Peterson and Jordan Hicks),0.54,1.4,13.0,2022,185
+3.0,5:57,1.0,10.0,NYJ 37,9.0,20.0,Mike White pass complete short middle to Garrett Wilson for 13 yards (tackle by Camryn Bynum),1.4,2.26,13.0,2022,185
+3.0,5:35,1.0,10.0,NYJ 50,9.0,20.0,James Robinson left guard for 2 yards (tackle by James Lynch and Za'Darius Smith),2.26,1.98,13.0,2022,185
+3.0,4:53,2.0,8.0,MIN 48,9.0,20.0,Mike White pass complete deep right to C.J. Uzomah for 31 yards (tackle by Harrison Smith),1.98,4.44,13.0,2022,185
+3.0,4:08,1.0,10.0,MIN 17,9.0,20.0,Mike White pass complete short left to Garrett Wilson for 5 yards (tackle by Duke Shelley),4.44,4.69,13.0,2022,185
+3.0,3:29,2.0,5.0,MIN 12,9.0,20.0,Zonovan Knight right tackle for 4 yards (tackle by Eric Kendricks and Chandon Sullivan),4.69,4.8,13.0,2022,185
+3.0,3:01,3.0,1.0,MIN 8,9.0,20.0,Mike White up the middle for 2 yards (tackle by Jordan Hicks),4.8,5.83,13.0,2022,185
+3.0,2:22,1.0,6.0,MIN 6,9.0,20.0,"Mike White pass complete to Braxton Berrios for no gain. Penalty on George Fant: Offensive Illegal Block Above the Waist, 10 yards (accepted) (no play)",5.83,4.31,13.0,2022,185
+3.0,1:57,1.0,16.0,MIN 16,9.0,20.0,Mike White pass incomplete short left intended for Corey Davis,4.31,3.34,13.0,2022,185
+3.0,1:51,2.0,16.0,MIN 16,9.0,20.0,Mike White pass incomplete short left intended for Tyler Conklin (defended by Duke Shelley),3.34,2.85,13.0,2022,185
+3.0,1:46,3.0,16.0,MIN 16,9.0,20.0,Mike White pass complete short left to Elijah Moore for 4 yards (tackle by Eric Kendricks),2.85,2.63,13.0,2022,185
+3.0,1:03,4.0,12.0,MIN 12,12.0,20.0,Greg Zuerlein 30 yard field goal good,2.63,3.0,13.0,2022,185
+3.0,0:59,,,NYJ 35,12.0,20.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,185
+3.0,0:59,1.0,10.0,MIN 25,12.0,20.0,Kirk Cousins pass incomplete short right intended for Adam Thielen (defended by Sauce Gardner),0.61,0.06,13.0,2022,185
+3.0,0:55,2.0,10.0,MIN 25,12.0,20.0,Dalvin Cook left tackle for 4 yards (tackle by John Franklin-Myers),0.06,-0.1,13.0,2022,185
+3.0,0:19,3.0,6.0,MIN 29,12.0,20.0,Kirk Cousins sacked by Carl Lawson for -6 yards,-0.1,-1.83,13.0,2022,185
+4.0,15:00,4.0,12.0,MIN 23,12.0,20.0,"Ryan Wright punts 63 yards, returned by Braxton Berrios for 15 yards (tackle by C.J. Ham)",-1.83,-0.87,13.0,2022,185
+4.0,14:46,1.0,10.0,NYJ 29,12.0,20.0,Mike White pass complete short middle to Garrett Wilson for 60 yards (tackle by Camryn Bynum),0.87,4.84,13.0,2022,185
+4.0,13:56,1.0,10.0,MIN 11,12.0,20.0,Mike White pass complete short left to Zonovan Knight for 2 yards (tackle by D.J. Wonnum),4.84,4.51,13.0,2022,185
+4.0,13:18,2.0,8.0,MIN 9,12.0,20.0,Mike White pass complete short middle to Braxton Berrios for 1 yard (tackle by Patrick Peterson),4.51,3.76,13.0,2022,185
+4.0,12:38,3.0,7.0,MIN 8,12.0,20.0,Mike White pass incomplete short middle intended for Corey Davis (defended by Za'Darius Smith),3.76,2.96,13.0,2022,185
+4.0,12:33,4.0,7.0,MIN 8,15.0,20.0,Greg Zuerlein 26 yard field goal good,2.96,3.0,13.0,2022,185
+4.0,12:30,,,NYJ 35,15.0,20.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,185
+4.0,12:30,1.0,10.0,MIN 25,15.0,20.0,Kirk Cousins pass complete short right to Johnny Mundt for 12 yards (tackle by Jordan Whitehead and Nathan Shepherd),0.61,1.4,13.0,2022,185
+4.0,11:58,1.0,10.0,MIN 37,15.0,20.0,Kirk Cousins pass complete short left to T.J. Hockenson for 13 yards (tackle by C.J. Mosley and D.J. Reed),1.4,2.26,13.0,2022,185
+4.0,11:20,1.0,10.0,MIN 50,15.0,20.0,Dalvin Cook left end for 11 yards (tackle by Lamarcus Joyner),2.26,2.98,13.0,2022,185
+4.0,10:46,1.0,10.0,NYJ 39,15.0,20.0,Kirk Cousins pass complete deep middle to Adam Thielen for 25 yards (tackle by Jordan Whitehead),2.98,4.65,13.0,2022,185
+4.0,10:02,1.0,10.0,NYJ 14,15.0,20.0,Kirk Cousins pass complete short right to Adam Thielen for 2 yards (tackle by Lamarcus Joyner),4.65,4.33,13.0,2022,185
+4.0,9:23,2.0,8.0,NYJ 12,15.0,20.0,Dalvin Cook left end for 2 yards (tackle by Carl Lawson),4.33,3.82,13.0,2022,185
+4.0,8:40,3.0,6.0,NYJ 10,15.0,26.0,"Kirk Cousins pass complete short right to Justin Jefferson for 10 yards, touchdown",3.82,7.0,13.0,2022,185
+4.0,8:33,,,NYJ 15,15.0,27.0,Greg Joseph kicks extra point good,0.0,0.0,13.0,2022,185
+4.0,8:33,,,MIN 35,15.0,27.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,185
+4.0,8:33,1.0,10.0,NYJ 25,15.0,27.0,Zonovan Knight left end for 48 yards (tackle by Patrick Peterson),0.61,3.78,13.0,2022,185
+4.0,7:59,1.0,10.0,MIN 27,15.0,27.0,"Mike White pass incomplete intended for Garrett Wilson. Penalty on Duke Shelley: Defensive Pass Interference, 24 yards (accepted) (no play)",3.78,6.51,13.0,2022,185
+4.0,7:53,1.0,3.0,MIN 3,15.0,27.0,Zonovan Knight left guard for -2 yards (tackle by D.J. Wonnum and Khyiris Tonga),6.51,5.15,13.0,2022,185
+4.0,7:31,2.0,5.0,MIN 5,15.0,27.0,Mike White pass incomplete short right intended for Elijah Moore (defended by Duke Shelley),5.15,4.44,13.0,2022,185
+4.0,7:27,3.0,4.0,MIN 5,15.0,27.0,Mike White scrambles left end for 4 yards (tackle by Jordan Hicks),4.44,3.55,13.0,2022,185
+4.0,6:49,4.0,1.0,MIN 1,21.0,27.0,"Mike White for no gain NYJ challenged the runner broke the plane ruling, and the original play was overturned. Mike White for 1 yard, touchdown",3.55,7.0,13.0,2022,185
+4.0,6:45,,,MIN 15,22.0,27.0,Greg Zuerlein kicks extra point good,0.0,0.0,13.0,2022,185
+4.0,6:45,,,NYJ 35,22.0,27.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,185
+4.0,6:45,1.0,10.0,MIN 25,22.0,27.0,Alexander Mattison left guard for -3 yards (tackle by Quinnen Williams),0.61,-0.34,13.0,2022,185
+4.0,6:18,2.0,13.0,MIN 22,22.0,27.0,Kirk Cousins pass incomplete short left intended for K.J. Osborn,-0.34,-1.02,13.0,2022,185
+4.0,6:13,3.0,13.0,MIN 22,22.0,27.0,Kirk Cousins pass complete short right to T.J. Hockenson for 7 yards (tackle by Quincy Williams),-1.02,-1.44,13.0,2022,185
+4.0,5:38,4.0,8.0,MIN 29,22.0,27.0,"Ryan Wright punts 55 yards, fair catch by Braxton Berrios at NYJ-16",-1.44,0.14,13.0,2022,185
+4.0,5:30,1.0,10.0,NYJ 16,22.0,27.0,Mike White pass incomplete deep right intended for Garrett Wilson,-0.14,-0.66,13.0,2022,185
+4.0,5:24,2.0,10.0,NYJ 16,22.0,27.0,Mike White pass complete deep right to Corey Davis for 23 yards (tackle by Camryn Bynum),-0.66,1.53,13.0,2022,185
+4.0,4:46,1.0,10.0,NYJ 39,22.0,27.0,Zonovan Knight left end for 6 yards (tackle by Eric Kendricks),1.53,1.8,13.0,2022,185
+4.0,4:40,2.0,4.0,NYJ 45,22.0,27.0,Mike White pass complete short left to Braxton Berrios for 8 yards (tackle by Harrison Smith),1.8,2.46,13.0,2022,185
+4.0,4:35,1.0,10.0,MIN 47,22.0,27.0,James Robinson left end for no gain (tackle by Eric Kendricks),2.46,1.91,13.0,2022,185
+4.0,3:59,2.0,10.0,MIN 47,22.0,27.0,Mike White pass incomplete deep right intended for Elijah Moore,1.91,1.22,13.0,2022,185
+4.0,3:52,3.0,10.0,MIN 47,22.0,27.0,Mike White pass incomplete short left intended for Tyler Conklin (defended by Danielle Hunter),1.22,0.13,13.0,2022,185
+4.0,3:48,4.0,10.0,MIN 47,22.0,27.0,Mike White pass complete deep middle to Corey Davis for 31 yards (tackle by Camryn Bynum),0.13,4.51,13.0,2022,185
+4.0,3:01,1.0,10.0,MIN 16,22.0,27.0,Mike White pass complete short right to Zonovan Knight for 7 yards (tackle by Harrison Phillips and Harrison Smith),4.51,5.03,13.0,2022,185
+4.0,2:16,2.0,4.0,MIN 9,22.0,27.0,Mike White pass complete short right to Corey Davis for 5 yards (tackle by Jordan Hicks and Duke Shelley),5.03,6.28,13.0,2022,185
+4.0,2:00,1.0,4.0,MIN 4,22.0,27.0,Zonovan Knight up the middle for 3 yards (tackle by Harrison Smith and Camryn Bynum),6.28,5.91,13.0,2022,185
+4.0,1:54,,,,,,Timeout #1 by Minnesota Vikings,,,13.0,2022,185
+4.0,1:54,2.0,1.0,MIN 1,22.0,27.0,Zonovan Knight up the middle for no gain (tackle by Khyiris Tonga and Duke Shelley),5.91,5.17,13.0,2022,185
+4.0,1:50,,,,,,Timeout #2 by Minnesota Vikings,,,13.0,2022,185
+4.0,1:50,3.0,1.0,MIN 1,22.0,27.0,Mike White pass incomplete short right intended for Garrett Wilson,5.17,3.55,13.0,2022,185
+4.0,1:46,4.0,1.0,MIN 1,22.0,27.0,Mike White pass incomplete short middle intended for Braxton Berrios (defended by Jordan Hicks),3.55,0.38,13.0,2022,185
+4.0,1:43,1.0,10.0,MIN 2,22.0,27.0,Dalvin Cook up the middle for no gain (tackle by Micheal Clemons and Kwon Alexander),-0.38,-0.78,13.0,2022,185
+4.0,1:39,,,,,,Timeout #1 by New York Jets,,,13.0,2022,185
+4.0,1:39,2.0,10.0,MIN 2,22.0,27.0,Dalvin Cook right guard for 3 yards (tackle by Jordan Whitehead and Quinnen Williams),-0.78,-1.07,13.0,2022,185
+4.0,1:35,,,,,,Timeout #2 by New York Jets,,,13.0,2022,185
+4.0,1:35,3.0,7.0,MIN 5,22.0,27.0,Dalvin Cook left end for -2 yards (tackle by Kwon Alexander),-1.07,-2.49,13.0,2022,185
+4.0,1:30,,,,,,Timeout #3 by New York Jets,,,13.0,2022,185
+4.0,1:30,4.0,9.0,MIN 3,22.0,27.0,"Ryan Wright punts 48 yards, returned by Braxton Berrios for 8 yards (tackle by Josh Metellus)",-2.49,-2.72,13.0,2022,185
+4.0,1:19,1.0,10.0,MIN 43,22.0,27.0,Mike White pass complete short left to Ty Johnson for 6 yards (tackle by Eric Kendricks and Duke Shelley),2.72,2.99,13.0,2022,185
+4.0,0:57,2.0,4.0,MIN 37,22.0,27.0,Mike White pass complete deep left to Garrett Wilson for 18 yards (tackle by Harrison Smith),2.99,4.31,13.0,2022,185
+4.0,0:33,1.0,10.0,MIN 19,22.0,27.0,Mike White pass incomplete short right,4.31,3.75,13.0,2022,185
+4.0,0:27,2.0,10.0,MIN 19,22.0,27.0,Mike White pass incomplete short left intended for Garrett Wilson (defended by Harrison Smith),3.75,3.03,13.0,2022,185
+4.0,0:23,3.0,10.0,MIN 19,22.0,27.0,Mike White pass incomplete short right intended for Elijah Moore,3.03,2.18,13.0,2022,185
+4.0,0:16,4.0,10.0,MIN 19,22.0,27.0,Mike White pass deep middle intended for Corey Davis is intercepted by Camryn Bynum at MIN-1 and returned for 5 yards,2.18,0.38,13.0,2022,185
+4.0,0:10,1.0,10.0,MIN 6,22.0,27.0,Kirk Cousins kneels for -1 yards,-0.38,-0.85,13.0,2022,185

@@ -1,0 +1,73 @@
+Player,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Team,Draft Team,Draft Round,Draft Pick,Draft Year
+Calvin Anderson,27.0,OL,5,2.0,300.0,77,"Rice,Texas",3/25/1996,3,1.0,New England Patriots,,,,
+David Andrews,31.0,C,17,17.0,300.0,74,Georgia,7/10/1992,8,5.0,New England Patriots,,,,
+Jake Andrews,24.0,C,16,1.0,308.0,75,Troy,11/11/1999,0,1.0,New England Patriots,New England Patriots,4.0,107.0,2023.0
+Alex Austin,22.0,CB,5,1.0,191.0,73,Oregon St.,5/22/2001,0,1.0,New England Patriots,Buffalo Bills,7.0,252.0,2023.0
+Bryce Baringer,24.0,P,17,0.0,215.0,74,Michigan St.,4/26/1999,0,3.0,New England Patriots,New England Patriots,6.0,192.0,2023.0
+Christian Barmore,24.0,DL,17,6.0,315.0,77,Alabama,7/28/1999,2,5.0,New England Patriots,New England Patriots,2.0,38.0,2021.0
+Ja'Whaun Bentley,27.0,LB,16,16.0,250.0,74,Purdue,8/24/1996,5,9.0,New England Patriots,New England Patriots,5.0,143.0,2018.0
+Joshuah Bledsoe,25.0,S,1,0.0,207.0,71,Missouri,12/30/1998,1,0.0,New England Patriots,New England Patriots,6.0,188.0,2021.0
+Chris Board,28.0,LB,17,0.0,229.0,74,North Dakota St.,7/23/1995,5,2.0,New England Patriots,,,,
+Kendrick Bourne,28.0,WR,8,5.0,205.0,73,Eastern Washington,8/4/1995,6,3.0,New England Patriots,,,,
+Kayshon Boutte,21.0,WR,5,0.0,197.0,71,LSU,5/7/2002,0,0.0,New England Patriots,New England Patriots,6.0,187.0,2023.0
+Pharaoh Brown,29.0,TE,17,11.0,260.0,77,Oregon,5/4/1994,6,1.0,New England Patriots,,,,
+Trent Brown,30.0,OL,11,8.0,380.0,80,"Georgia Military,Florida",4/13/1993,8,2.0,New England Patriots,San Francisco 49ers,7.0,244.0,2015.0
+Myles Bryant,25.0,DB,17,9.0,192.0,69,Washington,1/2/1998,3,4.0,New England Patriots,,,,
+Joe Cardona,31.0,LS,17,0.0,241.0,74,Navy,4/16/1992,8,1.0,New England Patriots,New England Patriots,5.0,166.0,2015.0
+Malik Cunningham,25.0,QB,1,0.0,190.0,73,Louisville,10/6/1998,0,0.0,New England Patriots,,,,
+Cody Davis,34.0,DB,11,0.0,205.0,74,Texas Tech,6/6/1989,10,1.0,New England Patriots,,,,
+Demario Douglas,23.0,WR,14,7.0,192.0,68,Liberty,12/8/2000,0,4.0,New England Patriots,New England Patriots,6.0,210.0,2023.0
+Kyle Dugger,27.0,DB,17,17.0,216.0,73,Lenoir-Rhyne,3/22/1996,3,7.0,New England Patriots,New England Patriots,2.0,37.0,2020.0
+Daniel Ekuale,29.0,DL,3,0.0,300.0,75,Washington St.,1/13/1994,4,0.0,New England Patriots,,,,
+Ezekiel Elliott,28.0,RB,17,5.0,228.0,72,Ohio St.,7/22/1995,7,5.0,New England Patriots,Dallas Cowboys,1.0,4.0,2016.0
+Christian Elliss,24.0,LB,4,0.0,231.0,74,Idaho,1/2/1999,2,0.0,New England Patriots,,,,
+James Ferentz,34.0,G,1,1.0,290.0,74,Iowa,6/5/1989,8,0.0,New England Patriots,,,,
+Mike Gesicki,28.0,TE,17,10.0,245.0,78,Penn St.,10/3/1995,5,2.0,New England Patriots,Miami Dolphins,2.0,42.0,2018.0
+Davon Godchaux,29.0,DL,17,17.0,330.0,75,LSU,11/11/1994,6,10.0,New England Patriots,Miami Dolphins,5.0,178.0,2017.0
+Christian Gonzalez,21.0,CB,4,4.0,205.0,73,"Colorado,Oregon",6/28/2002,0,2.0,New England Patriots,New England Patriots,1.0,17.0,2023.0
+Lawrence Guy,33.0,RDE,17,12.0,315.0,76,Arizona St.,3/17/1990,11,7.0,New England Patriots,Green Bay Packers,7.0,233.0,2011.0
+Kevin Harris,23.0,RB,4,0.0,225.0,70,South Carolina,11/17/2000,1,1.0,New England Patriots,New England Patriots,6.0,183.0,2022.0
+Jamycal Hasty,27.0,RB,2,0.0,205.0,68,Baylor,9/12/1996,3,0.0,New England Patriots,,,,
+Hunter Henry,29.0,TE,14,10.0,249.0,77,Arkansas,12/7/1994,7,3.0,New England Patriots,San Diego Chargers,2.0,35.0,2016.0
+Trysten Hill,25.0,DT,1,0.0,310.0,75,Central Florida,3/25/1998,4,0.0,New England Patriots,Dallas Cowboys,2.0,58.0,2019.0
+J.C. Jackson,28.0,RCB,8,6.0,198.0,73,"Florida,Riverside CC,Maryland",11/17/1995,5,2.0,New England Patriots,,,,
+Anfernee Jennings,26.0,LB,15,14.0,255.0,74,Alabama,9/1/1997,3,8.0,New England Patriots,New England Patriots,3.0,87.0,2020.0
+Jack Jones,26.0,CB,5,0.0,175.0,71,"USC,Moorpark College,Arizona St.",12/20/1997,1,0.0,New England Patriots,New England Patriots,4.0,121.0,2022.0
+Jonathan Jones,30.0,DB,14,14.0,190.0,70,Auburn,9/20/1993,7,5.0,New England Patriots,,,,
+Mac Jones,25.0,QB,11,11.0,220.0,75,Alabama,9/5/1998,2,3.0,New England Patriots,New England Patriots,1.0,15.0,2021.0
+Marcus Jones,25.0,DB,2,1.0,188.0,68,"Troy,Houston",10/22/1998,1,1.0,New England Patriots,New England Patriots,3.0,85.0,2022.0
+Matt Judon,31.0,LB,4,2.0,275.0,75,Grand Valley St.,8/15/1992,7,2.0,New England Patriots,Baltimore Ravens,5.0,146.0,2016.0
+Vederian Lowe,24.0,T,11,8.0,315.0,77,Illinois,4/17/1999,1,3.0,New England Patriots,Minnesota Vikings,6.0,184.0,2022.0
+Atonio Mafi,23.0,OL,17,5.0,330.0,75,UCLA,10/20/2000,0,2.0,New England Patriots,New England Patriots,5.0,144.0,2023.0
+Marte Mapu,24.0,LB,17,1.0,230.0,75,Sacramento St.,11/8/1999,0,2.0,New England Patriots,New England Patriots,3.0,76.0,2023.0
+Conor McDermott,31.0,T,6,5.0,305.0,80,UCLA,10/19/1992,6,2.0,New England Patriots,New England Patriots,6.0,211.0,2017.0
+Jalen Mills,29.0,DB,17,8.0,191.0,72,LSU,4/6/1994,7,4.0,New England Patriots,Philadelphia Eagles,7.0,233.0,2016.0
+Ty Montgomery,30.0,RB,13,0.0,220.0,72,Stanford,1/22/1993,8,0.0,New England Patriots,Green Bay Packers,3.0,94.0,2015.0
+Calvin Munson,29.0,LB,3,0.0,240.0,73,San Diego St.,12/27/1994,6,0.0,New England Patriots,,,,
+Michael Onwenu,26.0,OL,15,15.0,350.0,75,Michigan,12/10/1997,3,4.0,New England Patriots,New England Patriots,6.0,182.0,2020.0
+DeVante Parker,30.0,WR,13,13.0,215.0,75,Louisville,1/20/1993,8,2.0,New England Patriots,Miami Dolphins,1.0,14.0,2015.0
+Jabrill Peppers,28.0,DB,15,15.0,217.0,71,Michigan,10/4/1995,6,7.0,New England Patriots,Cleveland Browns,1.0,25.0,2017.0
+Jeremiah Pharms,27.0,DL,12,0.0,300.0,74,"Sacramento CC,Delta College,Friends",10/16/1996,1,1.0,New England Patriots,,,,
+Adrian Phillips,31.0,DE,17,1.0,208.0,71,Texas,3/28/1992,9,1.0,New England Patriots,,,,
+Jalen Reagor,24.0,WR,11,1.0,197.0,71,TCU,1/2/1999,3,2.0,New England Patriots,Philadelphia Eagles,1.0,21.0,2020.0
+Riley Reiff,35.0,OL,1,0.0,310.0,78,Iowa,12/1/1988,11,0.0,New England Patriots,Detroit Lions,1.0,23.0,2012.0
+Sam Roberts,25.0,DL,7,1.0,295.0,77,NW Missouri St.,4/14/1998,1,1.0,New England Patriots,New England Patriots,6.0,200.0,2022.0
+Chad Ryland,24.0,K,17,0.0,195.0,72,"Eastern Michigan,Maryland",10/15/1999,0,0.0,New England Patriots,New England Patriots,4.0,112.0,2023.0
+Brenden Schooler,26.0,DB,17,0.0,210.0,74,"Oregon,Texas",5/30/1997,1,2.0,New England Patriots,,,,
+Matthew Slater,38.0,WR,16,0.0,205.0,72,UCLA,9/9/1985,15,0.0,New England Patriots,New England Patriots,5.0,153.0,2008.0
+JuJu Smith-Schuster,27.0,WR,11,7.0,215.0,73,USC,11/22/1996,6,2.0,New England Patriots,Pittsburgh Steelers,2.0,62.0,2017.0
+Matt Sokol,28.0,TE,3,1.0,249.0,77,Michigan St.,11/9/1995,3,0.0,New England Patriots,,,,
+Sidy Sow,25.0,RG,15,13.0,318.0,77,Eastern Michigan,6/28/1998,0,4.0,New England Patriots,New England Patriots,4.0,117.0,2023.0
+Ameer Speed,24.0,CB,5,0.0,215.0,75,"Georgia,Michigan St.",10/11/1999,0,0.0,New England Patriots,New England Patriots,6.0,214.0,2023.0
+Rhamondre Stevenson,25.0,RB,12,12.0,227.0,72,"Cerritos (CA),Oklahoma",2/23/1998,2,4.0,New England Patriots,New England Patriots,4.0,120.0,2021.0
+Cole Strange,25.0,OL,10,10.0,310.0,77,Chattanooga,7/31/1998,1,3.0,New England Patriots,New England Patriots,1.0,29.0,2022.0
+Jahlani Tavai,27.0,LB,17,16.0,255.0,74,Hawaii,9/28/1996,4,10.0,New England Patriots,Detroit Lions,2.0,43.0,2019.0
+Tyquan Thornton,23.0,WR,9,3.0,185.0,74,Baylor,9/7/2000,1,1.0,New England Patriots,New England Patriots,2.0,50.0,2022.0
+Joshua Uche,25.0,LB,15,2.0,226.0,75,Michigan,9/18/1998,3,3.0,New England Patriots,New England Patriots,2.0,60.0,2020.0
+Shaun Wade,25.0,CB,14,6.0,196.0,73,Ohio St.,9/15/1998,2,3.0,New England Patriots,Baltimore Ravens,5.0,160.0,2021.0
+Tyrone Wheatley Jr.,26.0,T,2,0.0,320.0,78,"Michigan,Stony Brook",2/4/1997,1,0.0,New England Patriots,,,,
+Keion White,24.0,DE,16,4.0,285.0,77,"Old Dominion,Georgia Tech",1/20/1999,0,3.0,New England Patriots,New England Patriots,2.0,46.0,2023.0
+Mack Wilson,25.0,LB,17,1.0,240.0,73,Alabama,2/14/1998,4,2.0,New England Patriots,Cleveland Browns,5.0,155.0,2019.0
+Marco Wilson,24.0,CB,1,0.0,191.0,71,Florida,3/3/1999,2,0.0,New England Patriots,Arizona Cardinals,4.0,136.0,2021.0
+Deatrich Wise Jr.,29.0,DL,16,13.0,271.0,77,Arkansas,7/26/1994,6,8.0,New England Patriots,New England Patriots,4.0,131.0,2017.0
+Bailey Zappe,24.0,QB,10,6.0,215.0,73,"Houston Christian,Western Kentucky",4/26/1999,1,0.0,New England Patriots,New England Patriots,4.0,137.0,2022.0

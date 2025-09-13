@@ -1,0 +1,164 @@
+Quarter,Time,Down,ToGo,Location,DEN,BAL,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Ravens won the coin toss and deferred, Broncos to receive the opening kickoff.",,,13.0,2022,183
+1.0,15:00,,,BAL 35,0.0,0.0,"Justin Tucker kicks off 59 yards, returned by Montrell Washington for 11 yards (tackle by Daryl Worley)",0.0,-0.06,13.0,2022,183
+1.0,14:56,1.0,10.0,DEN 17,0.0,0.0,Latavius Murray left tackle for 3 yards (tackle by Calais Campbell and Marlon Humphrey),-0.06,-0.06,13.0,2022,183
+1.0,14:25,2.0,7.0,DEN 20,0.0,0.0,Russell Wilson pass complete short left to Greg Dulcich for 8 yards (tackle by Marlon Humphrey),-0.06,0.81,13.0,2022,183
+1.0,13:54,1.0,10.0,DEN 28,0.0,0.0,Latavius Murray up the middle for 7 yards (tackle by Jason Pierre-Paul),0.81,1.21,13.0,2022,183
+1.0,13:32,2.0,3.0,DEN 35,0.0,0.0,Latavius Murray left guard for 2 yards (tackle by Roquan Smith),1.21,0.76,13.0,2022,183
+1.0,12:56,3.0,1.0,DEN 37,0.0,0.0,Latavius Murray up the middle for 2 yards (tackle by Justin Madubuike),0.76,1.53,13.0,2022,183
+1.0,12:20,1.0,10.0,DEN 39,0.0,0.0,Marlon Mack left end for 4 yards (tackle by Patrick Queen),1.53,1.53,13.0,2022,183
+1.0,11:51,2.0,6.0,DEN 43,0.0,0.0,Russell Wilson pass complete short middle to Greg Dulcich for 19 yards (tackle by Patrick Queen),1.53,3.05,13.0,2022,183
+1.0,11:15,1.0,10.0,BAL 38,0.0,0.0,Latavius Murray up the middle for 3 yards (tackle by Marlon Humphrey),3.05,2.91,13.0,2022,183
+1.0,10:38,2.0,7.0,BAL 35,0.0,0.0,Latavius Murray left tackle for 2 yards (tackle by Roquan Smith and Brent Urban),2.91,2.48,13.0,2022,183
+1.0,9:54,3.0,5.0,BAL 33,0.0,0.0,Mike Boone left tackle for -1 yards (tackle by Patrick Queen),2.48,1.07,13.0,2022,183
+1.0,9:09,4.0,6.0,BAL 34,3.0,0.0,Brandon McManus 52 yard field goal good,1.07,3.0,13.0,2022,183
+1.0,9:03,,,DEN 35,3.0,0.0,"Brandon McManus kicks off 65 yards, returned by Devin Duvernay for 23 yards (tackle by Jalen Virgil and P.J. Locke)",0.0,0.48,13.0,2022,183
+1.0,8:59,1.0,10.0,BAL 23,3.0,0.0,Gus Edwards left tackle for 1 yard (tackle by DeShawn Williams and Jonathon Cooper),0.48,0.07,13.0,2022,183
+1.0,8:36,2.0,9.0,BAL 24,3.0,0.0,Lamar Jackson pass complete short left to Devin Duvernay for 4 yards (tackle by Alex Singleton and Patrick Surtain),0.07,-0.1,13.0,2022,183
+1.0,8:02,3.0,5.0,BAL 28,3.0,0.0,Lamar Jackson pass incomplete short middle intended for Mark Andrews,-0.1,-1.5,13.0,2022,183
+1.0,7:58,4.0,5.0,BAL 28,3.0,0.0,"Jordan Stout punts 52 yards, fair catch by Montrell Washington at DEN-20",-1.5,-0.28,13.0,2022,183
+1.0,7:50,1.0,10.0,DEN 20,3.0,0.0,Latavius Murray left tackle for 4 yards (tackle by Kyle Hamilton),0.28,0.27,13.0,2022,183
+1.0,7:21,2.0,6.0,DEN 24,3.0,0.0,Russell Wilson pass complete short left to Greg Dulcich for 5 yards (tackle by Roquan Smith),0.27,0.23,13.0,2022,183
+1.0,6:43,3.0,1.0,DEN 29,3.0,0.0,Latavius Murray up the middle for no gain (tackle by Justin Madubuike and Patrick Queen),0.23,-1.44,13.0,2022,183
+1.0,6:08,4.0,1.0,DEN 29,3.0,0.0,Corliss Waitman punts 39 yards downed by Delarrin Turner-Yell,-1.44,-1.07,13.0,2022,183
+1.0,5:58,1.0,10.0,BAL 32,3.0,0.0,Lamar Jackson up the middle for 9 yards (tackle by Alex Singleton),1.07,1.74,13.0,2022,183
+1.0,5:09,2.0,1.0,BAL 41,3.0,0.0,Gus Edwards left tackle for 3 yards (tackle by Baron Browning and Dre'Mont Jones),1.74,1.86,13.0,2022,183
+1.0,4:27,1.0,10.0,BAL 44,3.0,0.0,Lamar Jackson sacked by DeShawn Williams for -4 yards,1.86,0.78,13.0,2022,183
+1.0,3:42,2.0,14.0,BAL 40,3.0,0.0,Lamar Jackson pass complete short left to DeSean Jackson for 5 yards (tackle by Josey Jewell),0.78,0.76,13.0,2022,183
+1.0,3:06,3.0,9.0,BAL 45,3.0,0.0,Lamar Jackson pass complete short right to Devin Duvernay for 2 yards (tackle by Justin Simmons),0.76,-0.26,13.0,2022,183
+1.0,2:29,4.0,7.0,BAL 47,3.0,0.0,"Jordan Stout punts 34 yards, fair catch by Montrell Washington at DEN-19",-0.26,-0.15,13.0,2022,183
+1.0,2:24,1.0,10.0,DEN 19,3.0,0.0,Russell Wilson pass incomplete short right intended for Courtland Sutton,0.15,-0.39,13.0,2022,183
+1.0,2:20,2.0,10.0,DEN 19,3.0,0.0,Latavius Murray up the middle for 5 yards (tackle by Patrick Queen and Chuck Clark),-0.39,-0.42,13.0,2022,183
+1.0,1:38,3.0,5.0,DEN 24,3.0,0.0,Russell Wilson sacked by Marlon Humphrey for no gain,-0.42,-1.77,13.0,2022,183
+1.0,0:59,4.0,5.0,DEN 24,3.0,0.0,"Corliss Waitman punts 46 yards, fair catch by Devin Duvernay at BAL-30",-1.77,-0.94,13.0,2022,183
+1.0,0:54,1.0,10.0,BAL 30,3.0,0.0,Gus Edwards right tackle for 3 yards (tackle by Josey Jewell and Kareem Jackson),0.94,0.8,13.0,2022,183
+1.0,0:10,2.0,7.0,BAL 33,3.0,0.0,Lamar Jackson sacked by Jonathon Cooper for -6 yards,0.8,-0.69,13.0,2022,183
+2.0,15:00,3.0,13.0,BAL 27,3.0,0.0,Tyler Huntley pass complete short right to Devin Duvernay for 11 yards (tackle by Damarri Mathis),-0.69,-0.85,13.0,2022,183
+2.0,14:12,4.0,2.0,BAL 38,3.0,0.0,"Jordan Stout punts 53 yards, returned by Montrell Washington for 5 yards (tackle by Justice Hill)",-0.85,0.28,13.0,2022,183
+2.0,14:01,1.0,10.0,DEN 14,3.0,0.0,Latavius Murray left tackle for 7 yards (tackle by Kyle Hamilton and Chuck Clark),-0.28,0.28,13.0,2022,183
+2.0,13:21,2.0,3.0,DEN 21,3.0,0.0,Mike Boone left end for 6 yards (tackle by Marlon Humphrey),0.28,0.74,13.0,2022,183
+2.0,12:54,1.0,10.0,DEN 27,3.0,0.0,Latavius Murray right guard for 1 yard (tackle by Roquan Smith and Chuck Clark),0.74,0.33,13.0,2022,183
+2.0,12:19,2.0,9.0,DEN 28,3.0,0.0,Latavius Murray right end for 6 yards (tackle by Marcus Peters and Chuck Clark),0.33,0.43,13.0,2022,183
+2.0,11:44,3.0,3.0,DEN 34,3.0,0.0,Russell Wilson pass complete short left to Greg Dulcich for 1 yard (tackle by Geno Stone),0.43,-1.04,13.0,2022,183
+2.0,11:09,4.0,2.0,DEN 35,3.0,0.0,Corliss Waitman punts 35 yards downed by Jonathon Cooper,-1.04,-0.94,13.0,2022,183
+2.0,10:57,1.0,10.0,BAL 30,3.0,0.0,Kenyan Drake right guard for 4 yards (tackle by Justin Simmons and Mike Purcell),0.94,0.93,13.0,2022,183
+2.0,10:24,2.0,6.0,BAL 34,3.0,0.0,Tyler Huntley pass complete short left to Mark Andrews for 22 yards (tackle by Kareem Jackson),0.93,2.65,13.0,2022,183
+2.0,9:49,1.0,10.0,DEN 44,3.0,0.0,Tyler Huntley pass complete short left to Demarcus Robinson for 5 yards (tackle by Patrick Surtain),2.65,2.78,13.0,2022,183
+2.0,9:32,2.0,5.0,DEN 39,3.0,0.0,Tyler Huntley up the middle for 2 yards (tackle by Alex Singleton),2.78,2.35,13.0,2022,183
+2.0,8:55,3.0,3.0,DEN 37,3.0,0.0,Devin Duvernay left end for 10 yards (tackle by Josey Jewell),2.35,3.78,13.0,2022,183
+2.0,8:21,1.0,10.0,DEN 27,3.0,0.0,Tyler Huntley pass complete short right to DeSean Jackson for 5 yards (tackle by Damarri Mathis),3.78,3.91,13.0,2022,183
+2.0,7:47,2.0,5.0,DEN 22,3.0,0.0,"Tyler Huntley pass incomplete deep right intended for Devin Duvernay. Penalty on Jonathon Cooper: Roughing the Passer, 11 yards (accepted) (no play)",3.91,4.84,13.0,2022,183
+2.0,7:47,1.0,10.0,DEN 11,3.0,0.0,Tyler Huntley pass complete short middle to Devin Duvernay for -1 yards (tackle by Justin Simmons),4.84,3.98,13.0,2022,183
+2.0,7:26,2.0,11.0,DEN 12,3.0,0.0,Tyler Huntley pass complete short middle to Demarcus Robinson for 2 yards (tackle by Josey Jewell),3.98,3.3,13.0,2022,183
+2.0,6:44,3.0,9.0,DEN 10,3.0,0.0,Tyler Huntley scrambles right end for 2 yards (tackle by Alex Singleton and Josey Jewell),3.3,2.96,13.0,2022,183
+2.0,5:58,4.0,7.0,DEN 8,3.0,3.0,Justin Tucker 26 yard field goal good,2.96,3.0,13.0,2022,183
+2.0,5:55,,,BAL 35,3.0,3.0,"Justin Tucker kicks off 47 yards, returned by Eric Saubert for 6 yards (tackle by Daryl Worley)",0.0,0.54,13.0,2022,183
+2.0,5:51,1.0,10.0,DEN 24,3.0,3.0,Russell Wilson pass complete short middle to Marlon Mack for 6 yards (tackle by Roquan Smith),0.54,0.81,13.0,2022,183
+2.0,5:14,2.0,4.0,DEN 30,3.0,3.0,Marlon Mack left tackle for -1 yards (tackle by Roquan Smith and Broderick Washington),0.81,-0.03,13.0,2022,183
+2.0,4:33,3.0,5.0,DEN 29,3.0,3.0,Russell Wilson pass incomplete short right intended for Greg Dulcich (defended by Tyus Bowser),-0.03,-1.44,13.0,2022,183
+2.0,4:29,4.0,5.0,DEN 29,3.0,3.0,"Corliss Waitman punts 42 yards, fair catch by Devin Duvernay at BAL-29",-1.44,-0.87,13.0,2022,183
+2.0,4:23,1.0,10.0,BAL 29,3.0,3.0,Tyler Huntley pass incomplete deep right intended for Demarcus Robinson (defended by Patrick Surtain),0.87,0.33,13.0,2022,183
+2.0,4:15,2.0,10.0,BAL 29,3.0,3.0,Tyler Huntley pass complete short left to Demarcus Robinson for 6 yards (tackle by Patrick Surtain),0.33,0.43,13.0,2022,183
+2.0,3:47,3.0,4.0,BAL 35,3.0,3.0,Justice Hill left end for 2 yards (tackle by D.J. Jones and Josey Jewell),0.43,-0.91,13.0,2022,183
+2.0,3:08,4.0,2.0,BAL 37,3.0,3.0,Jordan Stout punts 56 yards downed by Kevon Seymour,-0.91,0.38,13.0,2022,183
+2.0,2:55,1.0,10.0,DEN 7,3.0,3.0,Russell Wilson pass complete deep middle to Jerry Jeudy for 40 yards (tackle by Geno Stone and Marlon Humphrey),-0.38,2.06,13.0,2022,183
+2.0,2:25,1.0,10.0,DEN 47,3.0,3.0,Latavius Murray left end for 2 yards (tackle by Broderick Washington),2.06,1.79,13.0,2022,183
+2.0,2:03,2.0,8.0,DEN 49,3.0,3.0,"Penalty on Russell Wilson: False Start, 5 yards (accepted) (no play)",1.79,1.11,13.0,2022,183
+2.0,2:00,2.0,13.0,DEN 44,3.0,3.0,Russell Wilson pass complete short left to Latavius Murray for 2 yards (tackle by Patrick Queen),1.11,0.7,13.0,2022,183
+2.0,1:27,3.0,11.0,DEN 46,3.0,3.0,Russell Wilson pass complete deep left to Greg Dulcich for 22 yards (tackle by Marlon Humphrey),0.7,3.45,13.0,2022,183
+2.0,1:06,1.0,10.0,BAL 32,3.0,3.0,Russell Wilson pass incomplete short right,3.45,2.9,13.0,2022,183
+2.0,0:49,2.0,10.0,BAL 32,3.0,3.0,Russell Wilson pass complete short left to Jerry Jeudy for 2 yards,2.9,2.48,13.0,2022,183
+2.0,0:42,3.0,8.0,BAL 30,3.0,3.0,"Russell Wilson pass complete short right to Jerry Jeudy for 8 yards (tackle by Kyle Hamilton) Replay Assistant challenged the first down ruling, and the original play was overturned. Russell Wilson pass complete short right to Jerry Jeudy for 7 yards (tackle by Kyle Hamilton)",2.48,2.08,13.0,2022,183
+2.0,0:42,,,,,,Timeout #1 by Denver Broncos,,,13.0,2022,183
+2.0,0:42,4.0,1.0,BAL 23,6.0,3.0,Brandon McManus 41 yard field goal good,2.08,3.0,13.0,2022,183
+2.0,0:37,,,DEN 35,6.0,3.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,183
+2.0,0:37,1.0,10.0,BAL 25,6.0,3.0,"Penalty on Demarcus Robinson: False Start, 5 yards (accepted) (no play)",0.61,0.28,13.0,2022,183
+2.0,0:37,1.0,15.0,BAL 20,6.0,3.0,Tyler Huntley pass complete short right to Mark Andrews for 10 yards (tackle by Josey Jewell),0.28,0.74,13.0,2022,183
+2.0,0:31,,,,,,Timeout #1 by Baltimore Ravens,,,13.0,2022,183
+2.0,0:31,2.0,5.0,BAL 30,6.0,3.0,Tyler Huntley pass incomplete deep right intended for DeSean Jackson,0.74,0.04,13.0,2022,183
+2.0,0:25,3.0,5.0,BAL 30,6.0,3.0,Tyler Huntley pass complete short middle to Isaiah Likely for 9 yards (tackle by Essang Bassey),0.04,1.53,13.0,2022,183
+2.0,0:21,,,,,,Timeout #2 by Baltimore Ravens,,,13.0,2022,183
+2.0,0:21,1.0,10.0,BAL 39,6.0,3.0,Tyler Huntley pass incomplete short right intended for Mark Andrews,1.53,0.99,13.0,2022,183
+2.0,0:16,,,,,,Timeout #2 by Denver Broncos,,,13.0,2022,183
+2.0,0:16,2.0,10.0,BAL 39,6.0,3.0,Tyler Huntley pass complete short middle to Mark Andrews for 16 yards (tackle by Josey Jewell and Alex Singleton),0.99,2.59,13.0,2022,183
+2.0,0:01,1.0,10.0,DEN 45,6.0,3.0,Tyler Huntley spiked the ball,2.59,2.04,13.0,2022,183
+3.0,15:00,,,DEN 35,6.0,3.0,"Brandon McManus kicks off 67 yards, returned by Devin Duvernay for 18 yards (tackle by Jalen Virgil)",0.0,-0.14,13.0,2022,183
+3.0,14:55,1.0,10.0,BAL 16,6.0,3.0,Gus Edwards right end for 4 yards (tackle by Dre'Mont Jones and Alex Singleton),-0.14,0.01,13.0,2022,183
+3.0,14:16,2.0,6.0,BAL 20,6.0,3.0,Tyler Huntley pass complete short middle to Devin Duvernay for 5 yards (tackle by Damarri Mathis),0.01,-0.2,13.0,2022,183
+3.0,13:44,3.0,1.0,BAL 25,6.0,3.0,Tyler Huntley left guard for 2 yards (tackle by Kareem Jackson and Josey Jewell),-0.2,0.74,13.0,2022,183
+3.0,13:02,1.0,10.0,BAL 27,6.0,3.0,Kenyan Drake left guard for 2 yards (tackle by Eyioma Uwazurike),0.74,0.47,13.0,2022,183
+3.0,12:34,2.0,8.0,BAL 29,6.0,3.0,Tyler Huntley pass complete short right to Demarcus Robinson for 5 yards (tackle by Damarri Mathis),0.47,0.43,13.0,2022,183
+3.0,11:56,3.0,3.0,BAL 34,6.0,3.0,Devin Duvernay right end for -1 yards (tackle by Jacob Martin and Josey Jewell),0.43,-1.18,13.0,2022,183
+3.0,11:17,4.0,4.0,BAL 33,6.0,3.0,"Jordan Stout punts 63 yards, returned by Montrell Washington for 14 yards (tackle by Nick Boyle and Nick Moore)",-1.18,-0.04,13.0,2022,183
+3.0,11:06,1.0,10.0,DEN 18,6.0,3.0,Mike Boone left tackle for 10 yards (tackle by Kyle Hamilton),0.04,0.81,13.0,2022,183
+3.0,10:29,1.0,10.0,DEN 28,6.0,3.0,Mike Boone left tackle for 2 yards (tackle by Patrick Queen and Roquan Smith),0.81,0.53,13.0,2022,183
+3.0,9:47,2.0,8.0,DEN 30,6.0,3.0,"Russell Wilson pass incomplete short right. Penalty on Marlon Humphrey: Defensive Holding, 5 yards (accepted) (no play)",0.53,1.27,13.0,2022,183
+3.0,9:47,,,,,,Timeout #1 by Denver Broncos,,,13.0,2022,183
+3.0,9:47,1.0,10.0,DEN 35,6.0,3.0,Mike Boone right end for 1 yard (tackle by Jason Pierre-Paul and Marcus Peters),1.27,0.86,13.0,2022,183
+3.0,9:10,2.0,9.0,DEN 36,6.0,3.0,Latavius Murray right guard for no gain (tackle by Chuck Clark),0.86,0.17,13.0,2022,183
+3.0,8:32,3.0,9.0,DEN 36,6.0,3.0,Russell Wilson pass complete short middle to Latavius Murray for 6 yards (tackle by Roquan Smith),0.17,-0.59,13.0,2022,183
+3.0,8:00,4.0,3.0,DEN 42,6.0,3.0,"Corliss Waitman punts 46 yards, fair catch by Devin Duvernay at BAL-12",-0.59,0.35,13.0,2022,183
+3.0,7:55,1.0,10.0,BAL 12,6.0,3.0,Tyler Huntley pass complete short left to Demarcus Robinson for 3 yards (tackle by Alex Singleton),-0.35,-0.5,13.0,2022,183
+3.0,7:18,2.0,7.0,BAL 15,6.0,3.0,Tyler Huntley pass complete short left to Devin Duvernay for 13 yards (tackle by Kareem Jackson),-0.5,0.81,13.0,2022,183
+3.0,6:33,1.0,10.0,BAL 28,6.0,3.0,Kenyan Drake up the middle for 12 yards (tackle by Josey Jewell and Kareem Jackson),0.81,1.6,13.0,2022,183
+3.0,6:03,1.0,10.0,BAL 40,6.0,3.0,Tyler Huntley pass short right intended for Mark Andrews is intercepted by Justin Simmons at BAL-48 and returned for 8 yards,1.6,-2.92,13.0,2022,183
+3.0,5:59,1.0,10.0,BAL 40,6.0,3.0,Russell Wilson pass complete short left to Latavius Murray for 2 yards (tackle by Jason Pierre-Paul),2.92,2.64,13.0,2022,183
+3.0,5:22,2.0,8.0,BAL 38,6.0,3.0,Latavius Murray left guard for -2 yards (tackle by Jason Pierre-Paul),2.64,1.68,13.0,2022,183
+3.0,4:40,3.0,10.0,BAL 40,6.0,3.0,Russell Wilson pass complete short left to Mike Boone for 8 yards (tackle by Geno Stone and Patrick Queen),1.68,1.3,13.0,2022,183
+3.0,4:03,4.0,2.0,BAL 32,9.0,3.0,Brandon McManus 50 yard field goal good,1.3,3.0,13.0,2022,183
+3.0,3:58,,,DEN 35,9.0,3.0,"Brandon McManus kicks off 64 yards, returned by Devin Duvernay for 21 yards (tackle by P.J. Locke)",0.0,0.41,13.0,2022,183
+3.0,3:53,1.0,10.0,BAL 22,9.0,3.0,Tyler Huntley pass complete short left to Patrick Ricard for no gain (tackle by Alex Singleton),0.41,-0.13,13.0,2022,183
+3.0,3:10,2.0,10.0,BAL 22,9.0,3.0,Tyler Huntley scrambles up the middle for 14 yards (tackle by Patrick Surtain),-0.13,1.33,13.0,2022,183
+3.0,2:27,1.0,10.0,BAL 36,9.0,3.0,Gus Edwards left guard for 1 yard (tackle by Alex Singleton and Jonathon Cooper),1.33,0.93,13.0,2022,183
+3.0,1:50,2.0,9.0,BAL 37,9.0,3.0,Tyler Huntley pass complete short left to Demarcus Robinson for 10 yards (tackle by Patrick Surtain),0.93,2.06,13.0,2022,183
+3.0,1:12,1.0,10.0,BAL 47,9.0,3.0,Kenyan Drake right tackle for 3 yards (tackle by Alex Singleton),2.06,1.92,13.0,2022,183
+3.0,0:31,2.0,7.0,BAL 50,9.0,3.0,Tyler Huntley pass complete short left to James Proche for 2 yards (tackle by Essang Bassey and Jonathon Cooper),1.92,1.49,13.0,2022,183
+4.0,15:00,3.0,5.0,DEN 48,9.0,3.0,Tyler Huntley pass complete short left to Isaiah Likely for 4 yards (tackle by Kareem Jackson),1.49,0.33,13.0,2022,183
+4.0,14:23,4.0,1.0,DEN 44,9.0,3.0,Tyler Huntley up the middle for 2 yards (tackle by Josey Jewell and Alex Singleton),0.33,2.79,13.0,2022,183
+4.0,13:42,1.0,10.0,DEN 42,9.0,3.0,Tyler Huntley pass complete short right to Demarcus Robinson for 10 yards (tackle by Damarri Mathis),2.79,3.45,13.0,2022,183
+4.0,13:06,1.0,10.0,DEN 32,9.0,3.0,Kenyan Drake up the middle for 3 yards (tackle by D.J. Jones and Alex Singleton),3.45,3.31,13.0,2022,183
+4.0,12:25,2.0,7.0,DEN 29,9.0,3.0,James Proche pass deep right intended for Kenyan Drake is intercepted by Justin Simmons in end zone and returned for no gain,3.31,-0.28,13.0,2022,183
+4.0,12:15,1.0,10.0,DEN 20,9.0,3.0,Latavius Murray right tackle for 5 yards (tackle by Chuck Clark),0.28,0.41,13.0,2022,183
+4.0,11:41,2.0,5.0,DEN 25,9.0,3.0,Russell Wilson pass complete short right to Kendall Hinton for 11 yards (tackle by Marcus Peters and Chuck Clark),0.41,1.33,13.0,2022,183
+4.0,11:03,1.0,10.0,DEN 36,9.0,3.0,Latavius Murray for no gain (tackle by Geno Stone and Roquan Smith),1.33,0.79,13.0,2022,183
+4.0,10:28,2.0,10.0,DEN 36,9.0,3.0,Mike Boone right end for no gain (tackle by Justin Houston),0.79,0.1,13.0,2022,183
+4.0,9:51,3.0,10.0,DEN 36,9.0,3.0,Russell Wilson sacked by Odafe Oweh for -5 yards,0.1,-1.31,13.0,2022,183
+4.0,9:20,4.0,15.0,DEN 31,9.0,3.0,"Corliss Waitman punts 41 yards, returned by Devin Duvernay for 3 yards (tackle by Jonathon Cooper)",-1.31,-1.0,13.0,2022,183
+4.0,9:10,1.0,10.0,BAL 31,9.0,3.0,Kenyan Drake right guard for 4 yards (tackle by Justin Simmons and Matt Henningsen),1.0,1.0,13.0,2022,183
+4.0,8:33,2.0,6.0,BAL 35,9.0,3.0,Tyler Huntley sacked by Baron Browning for -6 yards,1.0,-0.49,13.0,2022,183
+4.0,7:53,3.0,12.0,BAL 29,9.0,3.0,"Tyler Huntley scrambles right end for 7 yards (tackle by Patrick Surtain). Penalty on Kevin Zeitler: Offensive Holding, 10 yards (declined)",-0.49,-0.98,13.0,2022,183
+4.0,7:43,4.0,5.0,BAL 36,9.0,3.0,"Jordan Stout punts 45 yards, returned by Montrell Washington for no gain (tackle by Kevon Seymour)",-0.98,-0.15,13.0,2022,183
+4.0,7:35,1.0,10.0,DEN 19,9.0,3.0,Russell Wilson pass complete short left to Latavius Murray for 4 yards (tackle by Patrick Queen and Roquan Smith),0.15,0.21,13.0,2022,183
+4.0,6:56,2.0,6.0,DEN 23,9.0,3.0,Russell Wilson pass complete deep middle to Greg Dulcich for 30 yards (tackle by Geno Stone),0.21,2.46,13.0,2022,183
+4.0,6:09,1.0,10.0,BAL 47,9.0,3.0,Montrell Washington left end for -1 yards (tackle by Roquan Smith),2.46,1.78,13.0,2022,183
+4.0,5:22,2.0,11.0,BAL 48,9.0,3.0,Russell Wilson pass incomplete deep left intended for Greg Dulcich,1.78,1.09,13.0,2022,183
+4.0,5:17,3.0,11.0,BAL 48,9.0,3.0,Russell Wilson pass incomplete deep right intended for Montrell Washington,1.09,0.07,13.0,2022,183
+4.0,5:12,4.0,11.0,BAL 48,9.0,3.0,Corliss Waitman punts 39 yards downed by Mike Boone,0.07,0.38,13.0,2022,183
+4.0,5:02,1.0,10.0,BAL 9,9.0,3.0,Tyler Huntley scrambles right end for 4 yards (tackle by Jacob Martin),-0.38,-0.48,13.0,2022,183
+4.0,4:56,2.0,6.0,BAL 13,9.0,3.0,Tyler Huntley pass complete short left to Isaiah Likely for 5 yards (tackle by Josey Jewell),-0.48,-0.37,13.0,2022,183
+4.0,4:38,3.0,1.0,BAL 18,9.0,3.0,Gus Edwards right end for no gain (tackle by Alex Singleton and Josey Jewell),-0.37,-2.24,13.0,2022,183
+4.0,4:22,4.0,1.0,BAL 18,9.0,3.0,Mark Andrews up the middle for 1 yard (tackle by Alex Singleton and Josey Jewell),-2.24,0.15,13.0,2022,183
+4.0,3:47,1.0,10.0,BAL 19,9.0,3.0,Tyler Huntley pass complete short middle to James Proche for 7 yards (tackle by Mike Purcell),0.15,0.61,13.0,2022,183
+4.0,3:09,2.0,3.0,BAL 26,9.0,3.0,"Tyler Huntley pass incomplete short middle intended for Justice Hill. Penalty on Daniel Faalele: Ineligible Downfield Pass, 5 yards (accepted) (no play)",0.61,-0.06,13.0,2022,183
+4.0,3:09,2.0,8.0,BAL 21,9.0,3.0,"Tyler Huntley pass complete short middle to Mark Andrews for 5 yards (tackle by Damarri Mathis). Penalty on Alex Singleton: Personal Foul / Defense, 15 yards (accepted)",-0.06,1.66,13.0,2022,183
+4.0,3:03,1.0,10.0,BAL 41,9.0,3.0,Tyler Huntley sacked by DeShawn Williams for no gain,1.66,1.12,13.0,2022,183
+4.0,2:32,2.0,10.0,BAL 41,9.0,3.0,Tyler Huntley pass complete short right to Justice Hill for 5 yards. Justice Hill fumbles (forced by Justin Simmons),1.12,1.09,13.0,2022,183
+4.0,2:00,3.0,5.0,BAL 46,9.0,3.0,"Tyler Huntley pass incomplete deep right intended for Mark Andrews. Penalty on Patrick Surtain: Defensive Pass Interference, 17 yards (accepted) (no play)",1.09,3.12,13.0,2022,183
+4.0,1:56,1.0,10.0,DEN 37,9.0,3.0,Tyler Huntley pass complete short right to Justice Hill for -1 yards (tackle by Patrick Surtain),3.12,2.44,13.0,2022,183
+4.0,1:50,2.0,11.0,DEN 38,9.0,3.0,Tyler Huntley pass complete short left to Isaiah Likely for 12 yards (tackle by Alex Singleton),2.44,3.84,13.0,2022,183
+4.0,1:26,1.0,10.0,DEN 26,9.0,3.0,Tyler Huntley scrambles left end for 3 yards (tackle by Essang Bassey),3.84,3.7,13.0,2022,183
+4.0,1:19,2.0,7.0,DEN 23,9.0,3.0,Tyler Huntley pass complete short right to Kenyan Drake for 4 yards (tackle by Josey Jewell),3.7,3.57,13.0,2022,183
+4.0,1:13,3.0,3.0,DEN 19,9.0,3.0,Kenyan Drake right tackle for 1 yard (tackle by Josey Jewell and DeShawn Williams),3.57,2.37,13.0,2022,183
+4.0,1:06,,,,,,Timeout #1 by Baltimore Ravens,,,13.0,2022,183
+4.0,1:06,4.0,2.0,DEN 18,9.0,3.0,Tyler Huntley left tackle for 3 yards (tackle by Josey Jewell),2.37,4.58,13.0,2022,183
+4.0,0:35,1.0,10.0,DEN 15,9.0,3.0,Tyler Huntley pass complete short left to Kenyan Drake for 13 yards (tackle by Alex Singleton),4.58,6.74,13.0,2022,183
+4.0,0:12,,,,,,Timeout #2 by Baltimore Ravens,,,13.0,2022,183
+4.0,0:31,1.0,2.0,DEN 2,9.0,9.0,"Tyler Huntley up the middle for 2 yards, touchdown",6.74,7.0,13.0,2022,183
+4.0,0:28,,,DEN 15,9.0,10.0,Justin Tucker kicks extra point good,0.0,0.0,13.0,2022,183
+4.0,0:28,,,BAL 35,9.0,10.0,"Justin Tucker kicks off 62 yards, returned by Montrell Washington for 15 yards (tackle by Kevon Seymour)",0.0,0.04,13.0,2022,183
+4.0,0:23,1.0,10.0,DEN 18,9.0,10.0,Russell Wilson pass complete short right to Jerry Jeudy for 16 yards (tackle by Marcus Peters),0.04,1.2,13.0,2022,183
+4.0,0:16,,,,,,Timeout #3 by Denver Broncos,,,13.0,2022,183
+4.0,0:16,1.0,10.0,DEN 34,9.0,10.0,Russell Wilson scrambles up the middle for 17 yards (tackle by Kyle Hamilton and Chuck Clark),1.2,2.32,13.0,2022,183
+4.0,0:09,,,,,,Timeout #3 by Denver Broncos,,,13.0,2022,183
+4.0,0:09,1.0,10.0,BAL 49,9.0,10.0,Russell Wilson scrambles right end for 4 yards (tackle by Tyus Bowser),2.32,2.32,13.0,2022,183
+4.0,0:02,2.0,6.0,BAL 45,9.0,10.0,Brandon McManus 63 yard field goal no good,2.32,2.39,13.0,2022,183

@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,11:06,BUF 30,9,4:54,70,Touchdown,0,Bills,6.0,2024,92
+2,1,2:01,BUF 30,3,1:36,8,Punt,0,Bills,6.0,2024,92
+3,2,12:06,BUF 10,10,5:12,90,Touchdown,0,Bills,6.0,2024,92
+4,2,2:49,BUF 20,10,2:28,80,Touchdown,0,Bills,6.0,2024,92
+5,3,15:00,BUF 23,7,3:54,48,Missed FG,0,Bills,6.0,2024,92
+6,3,6:13,BUF 30,3,1:48,4,Punt,0,Bills,6.0,2024,92
+7,3,0:55,BUF 22,3,1:49,-5,Punt,0,Bills,6.0,2024,92
+8,4,9:44,BUF 33,11,6:01,64,Field Goal,0,Bills,6.0,2024,92
+9,4,1:52,BUF 18,6,1:52,9,End of Game,0,Bills,6.0,2024,92

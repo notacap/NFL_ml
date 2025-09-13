@@ -1,0 +1,183 @@
+Quarter,Time,Down,ToGo,Location,BUF,LAR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Bills won the coin toss and deferred, Rams to receive the opening kickoff.",,,14.0,2024,205
+1.0,15:00,,,BUF 35,0.0,0.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,205
+1.0,15:00,1.0,10.0,LAR 30,0.0,0.0,Kyren Williams left tackle for -3 yards (tackle by DaQuan Jones),0.94,-0.01,14.0,2024,205
+1.0,14:25,2.0,13.0,LAR 27,0.0,0.0,Matthew Stafford pass complete short right to Puka Nacua for 12 yards (tackle by Taylor Rapp),-0.01,0.89,14.0,2024,205
+1.0,13:44,3.0,1.0,LAR 39,0.0,0.0,Kyren Williams right tackle for 3 yards (tackle by Matt Milano and Taylor Rapp),0.89,1.73,14.0,2024,205
+1.0,13:06,1.0,10.0,LAR 42,0.0,0.0,Kyren Williams left tackle for 1 yard (tackle by Austin Johnson),1.73,1.32,14.0,2024,205
+1.0,12:26,2.0,9.0,LAR 43,0.0,0.0,Matthew Stafford pass incomplete deep right intended for Demarcus Robinson (defended by Christian Benford),1.32,0.63,14.0,2024,205
+1.0,12:20,3.0,9.0,LAR 43,0.0,0.0,Matthew Stafford pass complete short right to Puka Nacua for 17 yards (tackle by Taylor Rapp and Damar Hamlin),0.63,2.92,14.0,2024,205
+1.0,11:37,1.0,10.0,BUF 40,0.0,0.0,Kyren Williams right guard for 7 yards (tackle by Taron Johnson),2.92,3.32,14.0,2024,205
+1.0,10:58,2.0,3.0,BUF 33,0.0,0.0,Kyren Williams left guard for 12 yards (tackle by Christian Benford and Damar Hamlin),3.32,4.17,14.0,2024,205
+1.0,10:20,1.0,10.0,BUF 21,0.0,0.0,Kyren Williams up the middle for 4 yards (tackle by Damar Hamlin),4.17,4.2,14.0,2024,205
+1.0,9:47,2.0,6.0,BUF 17,0.0,0.0,Puka Nacua left end for 5 yards (tackle by Damar Hamlin and Rasul Douglas),4.2,4.49,14.0,2024,205
+1.0,9:10,3.0,1.0,BUF 12,0.0,0.0,Puka Nacua left end for 9 yards (tackle by Taylor Rapp),4.49,6.51,14.0,2024,205
+1.0,8:29,1.0,3.0,BUF 3,0.0,6.0,"Kyren Williams left tackle for 3 yards, touchdown",6.51,7.0,14.0,2024,205
+1.0,8:26,,,BUF 15,0.0,7.0,Joshua Karty kicks extra point good,0.0,0.0,14.0,2024,205
+1.0,8:26,,,LAR 35,0.0,7.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,205
+1.0,8:26,1.0,10.0,BUF 30,0.0,7.0,James Cook left tackle for 1 yard (tackle by Kobie Turner),0.94,0.53,14.0,2024,205
+1.0,7:52,2.0,9.0,BUF 31,0.0,7.0,Josh Allen pass incomplete short right intended for Amari Cooper,0.53,-0.16,14.0,2024,205
+1.0,7:35,3.0,9.0,BUF 31,0.0,7.0,"Josh Allen pass incomplete deep right. Penalty on Byron Young: Roughing the Passer, 15 yards (accepted) (no play)",-0.16,1.99,14.0,2024,205
+1.0,7:35,1.0,10.0,BUF 46,0.0,7.0,James Cook right tackle for 2 yards (tackle by Christian Rozeboom and Omar Speights),1.99,1.72,14.0,2024,205
+1.0,6:54,2.0,8.0,BUF 48,0.0,7.0,Josh Allen pass complete short middle to Khalil Shakir for 16 yards (tackle by Kamren Curl),1.72,3.18,14.0,2024,205
+1.0,6:14,1.0,10.0,LAR 36,0.0,7.0,Josh Allen pass complete short right to Mack Hollins for 16 yards (tackle by Kamren Kinchens),3.18,4.24,14.0,2024,205
+1.0,5:29,1.0,10.0,LAR 20,0.0,7.0,Josh Allen pass complete short left to Ty Johnson for 14 yards (tackle by Christian Rozeboom),4.24,5.83,14.0,2024,205
+1.0,4:46,1.0,6.0,LAR 6,0.0,7.0,Josh Allen pass complete short left to Khalil Shakir for 5 yards (tackle by Christian Rozeboom),5.83,5.91,14.0,2024,205
+1.0,4:20,2.0,1.0,LAR 1,0.0,7.0,James Cook left tackle for no gain (tackle by Bobby Brown). Penalty on Byron Young: Defensive Offside (accepted) (no play),5.91,5.91,14.0,2024,205
+1.0,4:08,2.0,1.0,LAR 1,0.0,7.0,Josh Allen up the middle for no gain (tackle by Bobby Brown),5.91,5.17,14.0,2024,205
+1.0,3:27,3.0,1.0,LAR 1,6.0,7.0,"Josh Allen up the middle for 1 yard, touchdown. Penalty on Bobby Brown: Defensive Offside, 5 yards (declined)",5.17,7.0,14.0,2024,205
+1.0,3:22,,,LAR 15,7.0,7.0,Tyler Bass kicks extra point good,0.0,0.0,14.0,2024,205
+1.0,3:22,,,BUF 35,7.0,7.0,"Tyler Bass kicks off 66 yards, returned by Jordan Whittington for 33 yards (tackle by Damar Hamlin)",0.0,1.07,14.0,2024,205
+1.0,3:16,1.0,10.0,LAR 32,7.0,7.0,Blake Corum up the middle for 2 yards (tackle by Terrel Bernard and DaQuan Jones),1.07,0.8,14.0,2024,205
+1.0,2:50,2.0,8.0,LAR 34,7.0,7.0,Matthew Stafford pass complete deep left to Cooper Kupp for 24 yards (tackle by Damar Hamlin),0.8,2.79,14.0,2024,205
+1.0,2:12,1.0,10.0,BUF 42,7.0,7.0,Matthew Stafford pass complete short right to Tutu Atwell for 13 yards (tackle by Christian Benford),2.79,3.64,14.0,2024,205
+1.0,1:32,1.0,10.0,BUF 29,7.0,7.0,Blake Corum right guard for 11 yards (tackle by Taylor Rapp),3.64,4.37,14.0,2024,205
+1.0,0:48,1.0,10.0,BUF 18,7.0,7.0,Blake Corum left end for 7 yards (tackle by Christian Benford),4.37,5.01,14.0,2024,205
+1.0,0:10,2.0,3.0,BUF 11,7.0,7.0,Blake Corum up the middle for 6 yards (tackle by Taylor Rapp),5.01,6.06,14.0,2024,205
+2.0,15:00,1.0,5.0,BUF 5,7.0,7.0,Blake Corum up the middle for no gain (tackle by Rasul Douglas and Ed Oliver),6.06,5.15,14.0,2024,205
+2.0,14:23,2.0,5.0,BUF 5,7.0,7.0,Blake Corum left guard for 2 yards (tackle by A.J. Epenesa and Ed Oliver),5.15,4.72,14.0,2024,205
+2.0,13:45,3.0,3.0,BUF 3,7.0,7.0,Matthew Stafford pass incomplete short left intended for Puka Nacua,4.72,3.04,14.0,2024,205
+2.0,13:40,4.0,3.0,BUF 3,7.0,10.0,Joshua Karty 22 yard field goal good,3.04,3.0,14.0,2024,205
+2.0,13:37,,,LAR 35,7.0,10.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,205
+2.0,13:37,1.0,10.0,BUF 30,7.0,10.0,Josh Allen pass complete deep left to Amari Cooper for 18 yards (tackle by Darious Williams),0.94,2.13,14.0,2024,205
+2.0,12:59,1.0,10.0,BUF 48,7.0,10.0,Josh Allen pass incomplete deep left intended for Amari Cooper,2.13,1.58,14.0,2024,205
+2.0,12:50,2.0,10.0,BUF 48,7.0,10.0,Josh Allen pass incomplete deep middle intended for Mack Hollins (defended by Kamren Kinchens),1.58,0.89,14.0,2024,205
+2.0,12:43,3.0,10.0,BUF 48,7.0,10.0,Josh Allen pass incomplete deep left intended for Amari Cooper,0.89,-0.19,14.0,2024,205
+2.0,12:38,4.0,10.0,BUF 48,7.0,16.0,"Sam Martin punts blocked by Jake Hummel, touchdown",-0.19,-7.0,14.0,2024,205
+2.0,12:29,,,BUF 15,7.0,17.0,Joshua Karty kicks extra point good,0.0,0.0,14.0,2024,205
+2.0,12:29,,,LAR 35,7.0,17.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,205
+2.0,12:29,1.0,10.0,BUF 30,7.0,17.0,James Cook up the middle for 3 yards (tackle by Desjuan Johnson and Christian Rozeboom),0.94,0.8,14.0,2024,205
+2.0,11:48,2.0,7.0,BUF 33,7.0,17.0,Josh Allen pass complete short left to Mack Hollins for 12 yards (tackle by Darious Williams),0.8,1.93,14.0,2024,205
+2.0,11:13,1.0,10.0,BUF 45,7.0,17.0,Josh Allen pass complete short left to Amari Cooper for 14 yards (tackle by Darious Williams),1.93,2.85,14.0,2024,205
+2.0,10:32,1.0,10.0,LAR 41,13.0,17.0,"Josh Allen pass complete short left to Ty Johnson for 41 yards, touchdown",2.85,7.0,14.0,2024,205
+2.0,10:23,,,LAR 15,14.0,17.0,Tyler Bass kicks extra point good,0.0,0.0,14.0,2024,205
+2.0,10:23,,,BUF 35,14.0,17.0,"Tyler Bass kicks off 63 yards, returned by Jordan Whittington for 22 yards (tackle by Joe Andreessen)",0.0,0.54,14.0,2024,205
+2.0,10:17,1.0,10.0,LAR 24,14.0,17.0,"Kyren Williams left end for 1 yard (tackle by Damar Hamlin). Penalty on Kevin Dotson: Offensive Illegal Block Above the Waist, 10 yards (accepted)",0.54,-0.39,14.0,2024,205
+2.0,9:50,1.0,19.0,LAR 15,14.0,17.0,Matthew Stafford pass complete short right to Puka Nacua for 9 yards (tackle by Damar Hamlin),-0.39,0.0,14.0,2024,205
+2.0,9:07,2.0,10.0,LAR 24,14.0,17.0,"Matthew Stafford pass incomplete deep right intended for Demarcus Robinson. Penalty on Taron Johnson: Defensive Pass Interference, 10 yards (accepted) (no play)",0.0,1.2,14.0,2024,205
+2.0,9:02,1.0,10.0,LAR 34,14.0,17.0,Matthew Stafford pass complete short right to Puka Nacua for 16 yards (tackle by Christian Benford),1.2,2.26,14.0,2024,205
+2.0,8:17,1.0,10.0,LAR 50,14.0,17.0,Kyren Williams right tackle for no gain (tackle by Von Miller and DaQuan Jones),2.26,1.71,14.0,2024,205
+2.0,7:34,2.0,10.0,LAR 50,14.0,17.0,Matthew Stafford pass complete deep left to Puka Nacua for 19 yards (tackle by Christian Benford),1.71,3.51,14.0,2024,205
+2.0,7:00,1.0,10.0,BUF 31,14.0,17.0,Kyren Williams up the middle for 7 yards (tackle by Rasul Douglas),3.51,3.91,14.0,2024,205
+2.0,6:19,2.0,3.0,BUF 24,14.0,17.0,Kyren Williams right tackle for -1 yards (tackle by Matt Milano),3.91,3.07,14.0,2024,205
+2.0,5:38,3.0,4.0,BUF 25,14.0,17.0,Matthew Stafford pass complete short right to Cooper Kupp for 6 yards (tackle by Taron Johnson),3.07,4.31,14.0,2024,205
+2.0,5:02,1.0,10.0,BUF 19,14.0,17.0,Matthew Stafford pass complete short left to Puka Nacua for 2 yards (tackle by Christian Benford),4.31,4.03,14.0,2024,205
+2.0,4:24,2.0,8.0,BUF 17,14.0,17.0,Kyren Williams up the middle for 10 yards (tackle by Terrel Bernard and Taylor Rapp),4.03,5.6,14.0,2024,205
+2.0,3:38,1.0,7.0,BUF 7,14.0,17.0,Kyren Williams up the middle for -1 yards (tackle by Von Miller and A.J. Epenesa),5.6,4.57,14.0,2024,205
+2.0,2:59,2.0,8.0,BUF 8,14.0,17.0,"Matthew Stafford pass complete short middle to Kyren Williams for no gain (tackle by Taron Johnson). Penalty on Rasul Douglas: Illegal Use of Hands / Defense, 4 yards (accepted) (no play)",4.57,6.28,14.0,2024,205
+2.0,2:39,,,,,,Timeout #1 by Los Angeles Rams,,,14.0,2024,205
+2.0,2:39,1.0,4.0,BUF 4,14.0,23.0,"Puka Nacua left end for 4 yards, touchdown",6.28,7.0,14.0,2024,205
+2.0,2:36,,,BUF 15,14.0,24.0,Joshua Karty kicks extra point good,0.0,0.0,14.0,2024,205
+2.0,2:36,,,LAR 35,14.0,24.0,"Ethan Evans kicks off 61 yards, returned by Ray Davis for 14 yards (tackle by Jaylen McCollough and Josh Wallace)",0.0,0.04,14.0,2024,205
+2.0,2:33,1.0,10.0,BUF 18,14.0,24.0,James Cook right end for 8 yards (tackle by Byron Young and Kamren Kinchens),0.04,0.68,14.0,2024,205
+2.0,2:00,2.0,2.0,BUF 26,14.0,24.0,Josh Allen pass complete short right to Amari Cooper for 7 yards (tackle by Cobie Durant),0.68,1.14,14.0,2024,205
+2.0,1:39,1.0,10.0,BUF 33,14.0,24.0,Josh Allen pass incomplete deep right intended for Amari Cooper,1.14,0.59,14.0,2024,205
+2.0,1:32,2.0,10.0,BUF 33,14.0,24.0,Josh Allen pass complete short right to Mack Hollins for 8 yards (tackle by Jaylen McCollough),0.59,0.96,14.0,2024,205
+2.0,1:06,3.0,2.0,BUF 41,14.0,24.0,Josh Allen pass incomplete deep right intended for Khalil Shakir,0.96,-0.65,14.0,2024,205
+2.0,0:56,4.0,2.0,BUF 41,14.0,24.0,"Sam Martin punts 46 yards, fair catch by Xavier Smith at LA-13",-0.65,0.32,14.0,2024,205
+2.0,0:49,1.0,10.0,LAR 13,14.0,24.0,Matthew Stafford pass complete short right to Puka Nacua for 8 yards (tackle by Terrel Bernard),-0.32,0.35,14.0,2024,205
+2.0,0:28,2.0,2.0,LAR 21,14.0,24.0,Matthew Stafford pass incomplete short middle intended for Cooper Kupp,0.35,-0.47,14.0,2024,205
+2.0,0:23,3.0,2.0,LAR 21,14.0,24.0,Kyren Williams right guard for 4 yards (tackle by Damar Hamlin and Terrel Bernard),-0.47,0.61,14.0,2024,205
+2.0,0:18,,,,,,Timeout #2 by Los Angeles Rams,,,14.0,2024,205
+2.0,0:18,1.0,10.0,LAR 25,14.0,24.0,Kyren Williams right tackle for 1 yard (tackle by Cameron Lewis),0.61,0.2,14.0,2024,205
+3.0,15:00,,,LAR 35,14.0,24.0,"Ethan Evans kicks off 59 yards, returned by Brandon Codrington for 20 yards (tackle by Hunter Long)",0.0,0.67,14.0,2024,205
+3.0,14:55,1.0,10.0,BUF 26,14.0,24.0,Josh Allen pass incomplete short left intended for Curtis Samuel,0.67,0.13,14.0,2024,205
+3.0,14:52,2.0,10.0,BUF 26,14.0,24.0,James Cook up the middle for 3 yards (tackle by Quentin Lake and Byron Young),0.13,-0.16,14.0,2024,205
+3.0,14:14,3.0,7.0,BUF 29,14.0,24.0,Josh Allen pass incomplete deep middle intended for Khalil Shakir,-0.16,-1.44,14.0,2024,205
+3.0,14:08,4.0,7.0,BUF 29,14.0,24.0,"Sam Martin punts 55 yards, returned by Xavier Smith for 8 yards (tackle by Jalen Virgil)",-1.44,-0.54,14.0,2024,205
+3.0,13:55,1.0,10.0,LAR 24,14.0,24.0,Matthew Stafford pass incomplete deep right intended for Cooper Kupp (defended by Christian Benford),0.54,0.0,14.0,2024,205
+3.0,13:50,2.0,10.0,LAR 24,14.0,24.0,Matthew Stafford pass incomplete short right intended for Cooper Kupp,0.0,-0.69,14.0,2024,205
+3.0,13:45,3.0,10.0,LAR 24,14.0,24.0,Matthew Stafford pass complete short left to Puka Nacua for 13 yards (tackle by Taron Johnson),-0.69,1.4,14.0,2024,205
+3.0,13:21,1.0,10.0,LAR 37,14.0,24.0,"Matthew Stafford pass complete deep right to Demarcus Robinson for no gain (tackle by Damar Hamlin). Penalty on Demarcus Robinson: Offensive Pass Interference, 10 yards (offset) . Penalty on Damar Hamlin: Defensive Pass Interference, 15 yards (offset) (no play)",1.4,1.4,14.0,2024,205
+3.0,12:47,1.0,10.0,LAR 37,14.0,24.0,Kyren Williams up the middle for no gain (tackle by Austin Johnson),1.4,0.86,14.0,2024,205
+3.0,12:08,2.0,10.0,LAR 37,14.0,24.0,Matthew Stafford pass complete short right to Kyren Williams for 4 yards (tackle by Taron Johnson and Ed Oliver),0.86,0.7,14.0,2024,205
+3.0,11:24,3.0,6.0,LAR 41,14.0,24.0,"Matthew Stafford pass complete short right to Puka Nacua for 7 yards (tackle by Rasul Douglas). Penalty on Rasul Douglas: Defensive Pass Interference, 15 yards (declined)",0.7,2.13,14.0,2024,205
+3.0,10:57,1.0,10.0,LAR 48,14.0,24.0,Kyren Williams up the middle for 1 yard (tackle by Terrel Bernard),2.13,1.72,14.0,2024,205
+3.0,10:13,2.0,9.0,LAR 49,14.0,24.0,"Matthew Stafford pass complete deep right to Cooper Kupp for 37 yards (tackle by Rasul Douglas). Penalty on Rasul Douglas: Defensive Pass Interference, 15 yards (declined)",1.72,4.65,14.0,2024,205
+3.0,9:48,1.0,10.0,BUF 14,14.0,24.0,Kyren Williams left tackle for 3 yards (tackle by Taylor Rapp),4.65,4.52,14.0,2024,205
+3.0,9:11,2.0,7.0,BUF 11,14.0,24.0,Kyren Williams up the middle for 4 yards (tackle by Taylor Rapp),4.52,4.5,14.0,2024,205
+3.0,8:31,3.0,3.0,BUF 7,14.0,30.0,"Kyren Williams right end for 7 yards, touchdown",4.5,7.0,14.0,2024,205
+3.0,8:26,,,BUF 15,14.0,31.0,Joshua Karty kicks extra point good,0.0,0.0,14.0,2024,205
+3.0,8:26,,,LAR 35,14.0,31.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.28,14.0,2024,205
+3.0,8:26,1.0,10.0,BUF 20,14.0,31.0,Curtis Samuel right end for 1 yard (tackle by Kobie Turner),0.28,-0.13,14.0,2024,205
+3.0,7:45,2.0,9.0,BUF 21,14.0,31.0,Josh Allen pass complete short left to Khalil Shakir for no gain (tackle by Quentin Lake),-0.13,-0.82,14.0,2024,205
+3.0,7:04,3.0,9.0,BUF 21,14.0,31.0,Josh Allen pass complete deep left to Amari Cooper for 26 yards (tackle by Darious Williams),-0.82,2.06,14.0,2024,205
+3.0,6:22,1.0,10.0,BUF 47,14.0,31.0,"Penalty on Dion Dawkins: False Start, 5 yards (accepted) (no play)",2.06,1.73,14.0,2024,205
+3.0,6:05,1.0,15.0,BUF 42,14.0,31.0,"Josh Allen pass complete short right to Ty Johnson for no gain (tackle by Cobie Durant and Christian Rozeboom). Penalty on Spencer Brown: Offensive Facemask, 15 yards (accepted) (no play)",1.73,0.74,14.0,2024,205
+3.0,5:40,1.0,30.0,BUF 27,14.0,31.0,Josh Allen pass complete short left to Amari Cooper for 5 yards (tackle by Darious Williams and Christian Rozeboom),0.74,-0.51,14.0,2024,205
+3.0,4:56,2.0,25.0,BUF 32,14.0,31.0,Josh Allen scrambles left end for 17 yards (tackle by Byron Young),-0.51,1.09,14.0,2024,205
+3.0,4:04,3.0,8.0,BUF 49,20.0,31.0,"Josh Allen pass complete short middle to Khalil Shakir for 51 yards, touchdown",1.09,7.0,14.0,2024,205
+3.0,3:54,,,LAR 15,21.0,31.0,Tyler Bass kicks extra point good,0.0,0.0,14.0,2024,205
+3.0,3:54,,,BUF 35,21.0,31.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,205
+3.0,3:54,1.0,10.0,LAR 30,21.0,31.0,Matthew Stafford pass complete short right to Tutu Atwell for 21 yards (tackle by Christian Benford and Terrel Bernard),0.94,2.32,14.0,2024,205
+3.0,3:08,1.0,10.0,BUF 49,21.0,31.0,Blake Corum right guard for 4 yards (tackle by Matt Milano),2.32,2.32,14.0,2024,205
+3.0,2:30,2.0,6.0,BUF 45,21.0,31.0,Matthew Stafford pass incomplete deep right intended for Puka Nacua,2.32,1.62,14.0,2024,205
+3.0,2:25,3.0,6.0,BUF 45,21.0,31.0,Matthew Stafford pass complete deep right to Puka Nacua for 21 yards (tackle by Rasul Douglas),1.62,3.97,14.0,2024,205
+3.0,1:42,1.0,10.0,BUF 24,21.0,31.0,Blake Corum left end for 2 yards (tackle by Christian Benford),3.97,3.7,14.0,2024,205
+3.0,1:04,2.0,8.0,BUF 22,21.0,31.0,Kyren Williams up the middle for 5 yards (tackle by Quinton Jefferson and Austin Johnson),3.7,3.75,14.0,2024,205
+3.0,0:22,3.0,3.0,BUF 17,21.0,37.0,"Matthew Stafford pass complete deep middle to Cooper Kupp for 17 yards, touchdown",3.75,7.0,14.0,2024,205
+3.0,0:18,,,BUF 15,21.0,38.0,Joshua Karty kicks extra point good,0.0,0.0,14.0,2024,205
+3.0,0:18,,,LAR 35,21.0,38.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,205
+3.0,0:18,1.0,10.0,BUF 30,21.0,38.0,Josh Allen pass incomplete short left intended for Amari Cooper,0.94,0.39,14.0,2024,205
+3.0,0:15,2.0,10.0,BUF 30,21.0,38.0,Josh Allen pass incomplete short right intended for Amari Cooper (defended by Cobie Durant),0.39,-0.3,14.0,2024,205
+3.0,0:12,3.0,10.0,BUF 30,21.0,38.0,"Josh Allen scrambles up the middle for 20 yards (tackle by Jared Verse). Penalty on Jared Verse: Horse Collar Tackle, 15 yards (accepted)",-0.3,3.25,14.0,2024,205
+4.0,15:00,1.0,10.0,LAR 35,21.0,38.0,Josh Allen pass complete deep left to Khalil Shakir for 34 yards (tackle by Kamren Curl),3.25,6.97,14.0,2024,205
+4.0,14:29,1.0,1.0,LAR 1,27.0,38.0,"Josh Allen left guard for 1 yard, touchdown",6.97,7.0,14.0,2024,205
+4.0,14:27,,,LAR 15,28.0,38.0,Tyler Bass kicks extra point good,0.0,0.0,14.0,2024,205
+4.0,14:27,,,BUF 35,28.0,38.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,205
+4.0,14:27,1.0,10.0,LAR 30,28.0,38.0,Matthew Stafford pass incomplete short middle intended for Hunter Long,0.94,0.39,14.0,2024,205
+4.0,14:22,2.0,10.0,LAR 30,28.0,38.0,Kyren Williams up the middle for no gain (tackle by Damar Hamlin),0.39,-0.3,14.0,2024,205
+4.0,13:41,3.0,10.0,LAR 30,28.0,38.0,Matthew Stafford pass complete short left to Cooper Kupp for 8 yards (tackle by Taron Johnson and Terrel Bernard),-0.3,-0.85,14.0,2024,205
+4.0,13:02,4.0,2.0,LAR 38,28.0,38.0,Ethan Evans punts 53 yards out of bounds,-0.85,0.38,14.0,2024,205
+4.0,12:52,1.0,10.0,BUF 9,28.0,38.0,Josh Allen pass complete short right to Curtis Samuel for 4 yards (tackle by Byron Young and Christian Rozeboom),-0.38,-0.48,14.0,2024,205
+4.0,12:24,2.0,6.0,BUF 13,28.0,38.0,Josh Allen pass complete short right to James Cook for 5 yards (tackle by Omar Speights),-0.48,-0.37,14.0,2024,205
+4.0,12:03,3.0,1.0,BUF 18,28.0,38.0,Josh Allen up the middle for 3 yards (tackle by Braden Fiske),-0.37,0.34,14.0,2024,205
+4.0,11:38,1.0,10.0,BUF 21,28.0,38.0,Josh Allen pass complete short left to Dawson Knox for 5 yards (tackle by Kamren Curl and Omar Speights),0.34,0.48,14.0,2024,205
+4.0,11:02,2.0,5.0,BUF 26,28.0,38.0,Josh Allen scrambles right end for 30 yards (tackle by Kamren Kinchens),0.48,2.65,14.0,2024,205
+4.0,10:30,1.0,10.0,LAR 44,28.0,38.0,Josh Allen pass complete short middle to Curtis Samuel for 11 yards (tackle by Christian Rozeboom),2.65,3.38,14.0,2024,205
+4.0,10:02,1.0,10.0,LAR 33,28.0,38.0,Josh Allen pass complete short left to James Cook for 4 yards (tackle by Quentin Lake and Jared Verse),3.38,3.38,14.0,2024,205
+4.0,9:41,2.0,6.0,LAR 29,28.0,38.0,James Cook left tackle for 3 yards (tackle by Christian Rozeboom and Darious Williams),3.38,3.07,14.0,2024,205
+4.0,9:16,3.0,3.0,LAR 26,28.0,38.0,James Cook left end for no gain (tackle by Kamren Curl) (no play),3.07,4.17,14.0,2024,205
+4.0,8:58,1.0,10.0,LAR 21,28.0,38.0,Josh Allen pass incomplete short middle intended for Khalil Shakir (defended by Quentin Lake),4.17,3.63,14.0,2024,205
+4.0,8:53,2.0,10.0,LAR 21,34.0,38.0,"Josh Allen pass complete deep right to Mack Hollins for 21 yards, touchdown",3.63,7.0,14.0,2024,205
+4.0,8:49,,,LAR 15,35.0,38.0,Tyler Bass kicks extra point good,0.0,0.0,14.0,2024,205
+4.0,8:49,,,BUF 35,35.0,38.0,"Tyler Bass kicks off 63 yards, returned by Jordan Whittington for 27 yards (tackle by Ja'Marcus Ingram and Joe Andreessen)",0.0,0.87,14.0,2024,205
+4.0,8:41,1.0,10.0,LAR 29,35.0,38.0,Matthew Stafford pass complete short middle to Kyren Williams for 6 yards (tackle by Taron Johnson),0.87,1.14,14.0,2024,205
+4.0,8:01,2.0,4.0,LAR 35,35.0,38.0,Matthew Stafford pass complete short middle to Puka Nacua for 19 yards (tackle by Damar Hamlin and Taron Johnson),1.14,2.52,14.0,2024,205
+4.0,7:16,1.0,10.0,BUF 46,35.0,38.0,Kyren Williams left tackle for no gain (tackle by Von Miller and Terrel Bernard),2.52,1.98,14.0,2024,205
+4.0,6:38,2.0,10.0,BUF 46,35.0,38.0,Puka Nacua right end for 1 yard (tackle by Terrel Bernard),1.98,1.42,14.0,2024,205
+4.0,5:50,3.0,9.0,BUF 45,35.0,38.0,"Matthew Stafford pass incomplete short right intended for Puka Nacua (defended by Ja'Marcus Ingram). Penalty on Ja'Marcus Ingram: Defensive Pass Interference, 5 yards (accepted) (no play)",1.42,2.92,14.0,2024,205
+4.0,5:50,1.0,10.0,BUF 40,35.0,38.0,Kyren Williams left end for 6 yards (tackle by Taylor Rapp),2.92,3.18,14.0,2024,205
+4.0,5:26,2.0,4.0,BUF 34,35.0,38.0,Puka Nacua left end for -3 yards (tackle by A.J. Epenesa),3.18,2.08,14.0,2024,205
+4.0,4:48,3.0,7.0,BUF 37,35.0,38.0,"Matthew Stafford scrambles left end for no gain (tackle by Cameron Lewis). Penalty on Steve Avila: Offensive Holding, 9 yards (accepted) (no play)",2.08,0.89,14.0,2024,205
+4.0,4:40,3.0,16.0,BUF 46,35.0,38.0,Matthew Stafford pass complete short middle to Colby Parkinson for 11 yards (tackle by Terrel Bernard and Damar Hamlin),0.89,0.98,14.0,2024,205
+4.0,3:52,4.0,5.0,BUF 35,35.0,38.0,Matthew Stafford pass complete short middle to Tutu Atwell for 11 yards (tackle by Taylor Rapp),0.98,3.97,14.0,2024,205
+4.0,3:09,1.0,10.0,BUF 24,35.0,38.0,Kyren Williams right tackle for no gain (tackle by DaQuan Jones and A.J. Epenesa),3.97,3.43,14.0,2024,205
+4.0,2:29,2.0,10.0,BUF 24,35.0,38.0,Kyren Williams up the middle for 5 yards (tackle by Taylor Rapp and Gregory Rousseau),3.43,3.41,14.0,2024,205
+4.0,2:00,3.0,5.0,BUF 19,35.0,44.0,"Matthew Stafford pass complete short right to Puka Nacua for 19 yards, touchdown",3.41,7.0,14.0,2024,205
+4.0,1:54,,,BUF 15,35.0,44.0,Joshua Karty kicks extra point no good,0.0,-1.0,14.0,2024,205
+4.0,1:54,,,LAR 35,35.0,44.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.94,14.0,2024,205
+4.0,1:54,1.0,10.0,BUF 30,35.0,44.0,Josh Allen pass incomplete deep right intended for Amari Cooper,0.94,0.39,14.0,2024,205
+4.0,1:47,2.0,10.0,BUF 30,35.0,44.0,Josh Allen pass complete deep left to Amari Cooper for 25 yards (tackle by Kamren Curl),0.39,2.59,14.0,2024,205
+4.0,1:41,1.0,10.0,LAR 45,35.0,44.0,Josh Allen pass incomplete deep left intended for Amari Cooper,2.59,2.04,14.0,2024,205
+4.0,1:35,2.0,10.0,LAR 45,35.0,44.0,"Penalty on Dion Dawkins: False Start, 5 yards (accepted) (no play)",2.04,1.37,14.0,2024,205
+4.0,1:35,2.0,15.0,LAR 50,35.0,44.0,Josh Allen pass incomplete deep right intended for Mack Hollins,1.37,0.7,14.0,2024,205
+4.0,1:30,3.0,15.0,LAR 50,35.0,44.0,Josh Allen pass incomplete short left intended for Ty Johnson,0.7,-0.06,14.0,2024,205
+4.0,1:24,,,,,,Timeout #1 by Los Angeles Rams,,,14.0,2024,205
+4.0,1:24,4.0,15.0,LAR 50,35.0,44.0,"Josh Allen pass incomplete deep middle intended for Khalil Shakir. Penalty on Quentin Lake: Defensive Pass Interference, 34 yards (accepted) (no play)",-0.06,4.51,14.0,2024,205
+4.0,1:18,1.0,10.0,LAR 16,35.0,44.0,Josh Allen scrambles left end for 9 yards (tackle by Neville Gallimore),4.51,5.54,14.0,2024,205
+4.0,1:11,2.0,1.0,LAR 7,35.0,44.0,"Josh Allen pass incomplete short left intended for Amari Cooper (defended by Darious Williams). Penalty on Darious Williams: Defensive Pass Interference, 6 yards (accepted) (no play)",5.54,6.97,14.0,2024,205
+4.0,1:06,1.0,1.0,LAR 1,35.0,44.0,Josh Allen up the middle for no gain (tackle by Omar Speights),6.97,5.91,14.0,2024,205
+4.0,1:02,,,,,,Timeout #1 by Buffalo Bills,,,14.0,2024,205
+4.0,1:02,2.0,1.0,LAR 1,41.0,44.0,"Josh Allen left guard for 1 yard, touchdown",5.91,7.0,14.0,2024,205
+4.0,1:00,2.0,16.0,LAR 16,41.0,44.0,"Penalty on Dion Dawkins: Unnecessary Roughness / Offense, 15 yards (accepted) (no play)",3.34,0.0,14.0,2024,205
+4.0,1:00,,,LAR 30,42.0,44.0,Tyler Bass kicks extra point good,0.0,0.0,14.0,2024,205
+4.0,1:00,,,BUF 35,42.0,44.0,"Tyler Bass kicks onside 10 yards, returned by Ronnie Rivers for no gain",0.0,2.59,14.0,2024,205
+4.0,0:59,1.0,10.0,BUF 45,42.0,44.0,Kyren Williams up the middle for 2 yards (tackle by Damar Hamlin),2.59,2.31,14.0,2024,205
+4.0,0:56,,,,,,Timeout #2 by Buffalo Bills,,,14.0,2024,205
+4.0,0:56,2.0,8.0,BUF 43,42.0,44.0,Kyren Williams right guard for 2 yards (tackle by Ja'Marcus Ingram),2.31,1.88,14.0,2024,205
+4.0,0:52,,,,,,Timeout #3 by Buffalo Bills,,,14.0,2024,205
+4.0,0:52,3.0,6.0,BUF 41,42.0,44.0,Kyren Williams left tackle for 4 yards (tackle by Ja'Marcus Ingram and Taylor Rapp),1.88,0.79,14.0,2024,205
+4.0,0:07,4.0,2.0,BUF 37,42.0,44.0,"Penalty on Matthew Stafford: Delay of Game, 5 yards (accepted) (no play)",0.79,0.46,14.0,2024,205
+4.0,0:07,,,,,,Timeout #2 by Los Angeles Rams,,,14.0,2024,205
+4.0,0:07,4.0,7.0,BUF 42,42.0,44.0,"Ethan Evans punts 42 yards, touchback.",0.46,1.73,14.0,2024,205

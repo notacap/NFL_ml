@@ -1,0 +1,183 @@
+Quarter,Time,Down,ToGo,Location,NWE,CLE,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Patriots won the coin toss and deferred, Browns to receive the opening kickoff.",,,6.0,2022,84
+1.0,15:00,,,NWE 35,0.0,0.0,"Jake Bailey kicks off 65 yards, touchback.",0.0,0.61,6.0,2022,84
+1.0,15:00,1.0,10.0,CLE 25,0.0,0.0,Jacoby Brissett pass complete short left to Harrison Bryant for 6 yards (tackle by Kyle Dugger and Adrian Phillips),0.61,0.87,6.0,2022,84
+1.0,14:28,2.0,4.0,CLE 31,0.0,0.0,Jacoby Brissett pass deep right intended for Pharaoh Brown is intercepted by Kyle Dugger at NE-36 and returned for no gain (tackle by Pharaoh Brown),0.87,-1.33,6.0,2022,84
+1.0,14:21,1.0,10.0,NWE 36,0.0,0.0,Rhamondre Stevenson right guard for 3 yards (tackle by Sione Takitaki),1.33,1.2,6.0,2022,84
+1.0,13:44,2.0,7.0,NWE 39,0.0,0.0,Bailey Zappe pass incomplete short left,1.2,0.5,6.0,2022,84
+1.0,13:41,3.0,7.0,NWE 39,0.0,0.0,Bailey Zappe pass complete short left to Kendrick Bourne for 17 yards (tackle by John Johnson and Greedy Williams),0.5,2.65,6.0,2022,84
+1.0,13:00,1.0,10.0,CLE 44,0.0,0.0,Rhamondre Stevenson left guard for 2 yards (tackle by Alex Wright),2.65,2.38,6.0,2022,84
+1.0,12:20,2.0,8.0,CLE 42,0.0,0.0,Rhamondre Stevenson right guard for 4 yards (tackle by Isaac Rochell),2.38,2.21,6.0,2022,84
+1.0,12:20,3.0,4.0,CLE 38,0.0,0.0,"Penalty on Trent Brown: False Start, 5 yards (accepted) (no play)",2.21,1.55,6.0,2022,84
+1.0,11:21,3.0,9.0,CLE 43,0.0,0.0,Bailey Zappe pass complete deep left to DeVante Parker for 29 yards (tackle by Martin Emerson),1.55,4.65,6.0,2022,84
+1.0,10:37,1.0,10.0,CLE 14,0.0,0.0,Rhamondre Stevenson right guard for 1 yard (tackle by Greg Newsome and Sione Takitaki),4.65,4.16,6.0,2022,84
+1.0,9:57,2.0,9.0,CLE 13,0.0,0.0,Bailey Zappe pass complete short right to Rhamondre Stevenson for 7 yards (tackle by Jacob Phillips),4.16,4.73,6.0,2022,84
+1.0,9:57,3.0,2.0,CLE 6,0.0,0.0,"Penalty on Isaiah Wynn: False Start, 5 yards (accepted) (no play)",4.73,3.62,6.0,2022,84
+1.0,8:55,3.0,7.0,CLE 11,0.0,0.0,"Bailey Zappe pass incomplete intended for Jakobi Meyers. Penalty on Greg Newsome: Defensive Pass Interference, 10 yards (accepted) (no play)",3.62,6.97,6.0,2022,84
+1.0,8:51,1.0,1.0,CLE 1,0.0,0.0,Rhamondre Stevenson left guard for no gain (tackle by John Johnson and Myles Garrett),6.97,5.91,6.0,2022,84
+1.0,8:15,2.0,1.0,CLE 1,0.0,0.0,Rhamondre Stevenson right guard for no gain (tackle by Jordan Elliott),5.91,5.17,6.0,2022,84
+1.0,7:40,3.0,1.0,CLE 1,0.0,0.0,Bailey Zappe pass incomplete short right intended for Hunter Henry. Penalty on Hunter Henry: Illegal Touch Pass (accepted),5.17,3.55,6.0,2022,84
+1.0,7:34,4.0,1.0,CLE 1,3.0,0.0,Nick Folk 19 yard field goal good,3.55,3.0,6.0,2022,84
+1.0,7:31,,,NWE 35,3.0,0.0,"Jake Bailey kicks off 67 yards, returned by Chester Rogers for 27 yards (tackle by Raekwon McMillan)",0.0,0.61,6.0,2022,84
+1.0,7:27,1.0,10.0,CLE 25,3.0,0.0,Nick Chubb left tackle for 8 yards (tackle by Devin McCourty and Kyle Dugger),0.61,1.14,6.0,2022,84
+1.0,6:49,2.0,2.0,CLE 33,3.0,0.0,Nick Chubb left tackle for 7 yards (tackle by Jahlani Tavai and Kyle Dugger),1.14,1.6,6.0,2022,84
+1.0,6:06,1.0,10.0,CLE 40,3.0,0.0,Jacoby Brissett pass incomplete short left intended for Amari Cooper (defended by Adrian Phillips),1.6,1.05,6.0,2022,84
+1.0,6:01,2.0,10.0,CLE 40,3.0,0.0,Nick Chubb right guard for no gain (tackle by Carl Davis),1.05,0.37,6.0,2022,84
+1.0,5:22,3.0,10.0,CLE 40,3.0,0.0,Jacoby Brissett pass complete deep left to David Njoku for 33 yards,0.37,3.78,6.0,2022,84
+1.0,5:03,1.0,10.0,NWE 27,3.0,0.0,Donovan Peoples-Jones right end for 2 yards (tackle by Kyle Dugger),3.78,3.5,6.0,2022,84
+1.0,4:25,2.0,8.0,NWE 25,3.0,0.0,Jacoby Brissett pass complete short right to David Njoku for 4 yards (tackle by Kyle Dugger),3.5,3.34,6.0,2022,84
+1.0,3:47,3.0,4.0,NWE 21,3.0,0.0,Kareem Hunt right guard for no gain (tackle by Kyle Dugger and Jalen Mills),3.34,2.16,6.0,2022,84
+1.0,3:04,4.0,3.0,NWE 21,3.0,3.0,Cade York 39 yard field goal good,2.16,3.0,6.0,2022,84
+1.0,3:00,,,CLE 35,3.0,3.0,"Cade York kicks off 63 yards, returned by Marcus Jones for 20 yards (tackle by A.J. Green)",0.0,0.41,6.0,2022,84
+1.0,2:55,1.0,10.0,NWE 22,3.0,3.0,Bailey Zappe pass complete short right to DeVante Parker for 14 yards (tackle by Martin Emerson),0.41,1.33,6.0,2022,84
+1.0,2:19,1.0,10.0,NWE 36,3.0,3.0,"Rhamondre Stevenson left guard for no gain (tackle by Grant Delpit). Penalty on Jakobi Meyers: Offensive Illegal Block Above the Waist, 10 yards (accepted) (no play)",1.33,0.67,6.0,2022,84
+1.0,1:42,1.0,20.0,NWE 26,3.0,3.0,"Penalty on Bailey Zappe: Delay of Game, 5 yards (accepted) (no play)",0.67,0.34,6.0,2022,84
+1.0,1:10,1.0,25.0,NWE 21,3.0,3.0,Bailey Zappe pass complete short left to Jakobi Meyers for 11 yards (tackle by Martin Emerson),0.34,0.25,6.0,2022,84
+1.0,0:54,2.0,14.0,NWE 32,3.0,3.0,"Bailey Zappe sacked by Myles Garrett for no gain. Bailey Zappe fumbles (forced by Myles Garrett), recovered by John Johnson at NE-38 Replay Assistant challenged the fumble ruling, and the play was upheld.",0.25,-3.05,6.0,2022,84
+1.0,0:47,1.0,10.0,NWE 38,3.0,3.0,Jacoby Brissett pass complete short left to Pharaoh Brown for 11 yards (tackle by Kyle Dugger and Jahlani Tavai),3.05,3.78,6.0,2022,84
+1.0,0:15,1.0,10.0,NWE 27,3.0,3.0,Nick Chubb left tackle for 3 yards (tackle by Christian Barmore),3.78,3.64,6.0,2022,84
+2.0,15:00,2.0,7.0,NWE 24,3.0,3.0,Nick Chubb left guard for 1 yard (tackle by Christian Barmore),3.64,3.07,6.0,2022,84
+2.0,14:22,3.0,6.0,NWE 23,3.0,3.0,Jacoby Brissett pass complete short right to Harrison Bryant for 5 yards (tackle by Adrian Phillips),3.07,2.4,6.0,2022,84
+2.0,14:00,4.0,1.0,NWE 18,3.0,3.0,Jacoby Brissett right guard for no gain (tackle by Matt Judon),2.4,-0.04,6.0,2022,84
+2.0,13:56,1.0,10.0,NWE 18,3.0,3.0,Bailey Zappe pass complete short right to Rhamondre Stevenson for 3 yards (tackle by Jacob Phillips),0.04,0.01,6.0,2022,84
+2.0,13:21,2.0,7.0,NWE 21,3.0,3.0,Rhamondre Stevenson right guard for 5 yards (tackle by Alex Wright),0.01,-0.14,6.0,2022,84
+2.0,12:38,3.0,2.0,NWE 26,3.0,3.0,"Bailey Zappe pass incomplete deep right intended for Jakobi Meyers. Penalty on Greedy Williams: Defensive Pass Interference, 18 yards (accepted) (no play)",-0.14,1.86,6.0,2022,84
+2.0,12:32,1.0,10.0,NWE 44,3.0,3.0,Tyquan Thornton left tackle for -2 yards (tackle by Myles Garrett and Jeremiah Owusu-Koramoah),1.86,1.05,6.0,2022,84
+2.0,11:50,2.0,12.0,NWE 42,3.0,3.0,Bailey Zappe pass incomplete deep left intended for DeVante Parker,1.05,0.37,6.0,2022,84
+2.0,11:45,3.0,12.0,NWE 42,3.0,3.0,Bailey Zappe pass incomplete short right intended for Hunter Henry,0.37,-0.59,6.0,2022,84
+2.0,11:41,4.0,12.0,NWE 42,3.0,3.0,Jake Bailey punts 45 yards out of bounds,-0.59,0.32,6.0,2022,84
+2.0,11:35,1.0,10.0,CLE 13,3.0,3.0,Nick Chubb right guard for 2 yards (tackle by Deatrich Wise),-0.32,-0.57,6.0,2022,84
+2.0,10:58,2.0,8.0,CLE 15,3.0,3.0,Jacoby Brissett pass complete short middle to Donovan Peoples-Jones for 12 yards (tackle by Jack Jones),-0.57,0.74,6.0,2022,84
+2.0,10:19,1.0,10.0,CLE 27,3.0,3.0,Nick Chubb left tackle for 6 yards (tackle by Anfernee Jennings),0.74,1.01,6.0,2022,84
+2.0,9:30,2.0,4.0,CLE 33,3.0,3.0,"Penalty on Carl Davis: Encroachment, 5 yards (accepted) (no play)",1.01,1.47,6.0,2022,84
+2.0,9:23,1.0,10.0,CLE 38,3.0,3.0,Jacoby Brissett pass complete short right to Pharaoh Brown for 10 yards (tackle by Ja'Whaun Bentley and Jahlani Tavai),1.47,2.13,6.0,2022,84
+2.0,8:39,1.0,10.0,CLE 48,3.0,3.0,Nick Chubb left tackle for 3 yards (tackle by Kyle Dugger),2.13,1.99,6.0,2022,84
+2.0,8:09,2.0,7.0,NWE 49,3.0,3.0,Jacoby Brissett pass incomplete short right,1.99,1.29,6.0,2022,84
+2.0,8:03,3.0,7.0,NWE 49,3.0,3.0,Jacoby Brissett pass incomplete deep left intended for Amari Cooper,1.29,0.0,6.0,2022,84
+2.0,7:58,4.0,7.0,NWE 49,3.0,3.0,"Corey Bojorquez punts 44 yards, returned by Marcus Jones for 8 yards (tackle by John Johnson and Jordan Kunaszyk)",0.0,0.32,6.0,2022,84
+2.0,7:48,1.0,10.0,NWE 13,3.0,3.0,Bailey Zappe pass complete short right to Hunter Henry for 12 yards (tackle by Jacob Phillips and Grant Delpit),-0.32,0.61,6.0,2022,84
+2.0,7:11,1.0,10.0,NWE 25,3.0,3.0,Bailey Zappe pass complete deep left to Jakobi Meyers for 20 yards (tackle by Martin Emerson),0.61,1.93,6.0,2022,84
+2.0,6:31,1.0,10.0,NWE 45,3.0,3.0,Bailey Zappe pass complete short right to Jakobi Meyers for 2 yards (tackle by Greg Newsome),1.93,1.65,6.0,2022,84
+2.0,5:55,2.0,8.0,NWE 47,3.0,3.0,"Penalty on Jakobi Meyers: False Start, 5 yards (accepted) (no play)",1.65,0.98,6.0,2022,84
+2.0,5:35,2.0,13.0,NWE 42,3.0,3.0,Bailey Zappe pass complete short left to DeVante Parker for 14 yards (tackle by Jacob Phillips),0.98,2.65,6.0,2022,84
+2.0,4:59,1.0,10.0,CLE 44,3.0,3.0,Rhamondre Stevenson right guard for 1 yard (tackle by Greg Newsome and Jeremiah Owusu-Koramoah),2.65,2.25,6.0,2022,84
+2.0,4:22,2.0,9.0,CLE 43,3.0,3.0,Bailey Zappe pass complete short left to Tyquan Thornton for 12 yards (tackle by Grant Delpit),2.25,3.51,6.0,2022,84
+2.0,3:40,1.0,10.0,CLE 31,3.0,3.0,Bailey Zappe pass incomplete short right,3.51,2.97,6.0,2022,84
+2.0,3:34,,,,,,Timeout #1 by New England Patriots,,,6.0,2022,84
+2.0,3:34,2.0,10.0,CLE 31,3.0,3.0,Bailey Zappe pass incomplete short left intended for DeVante Parker (defended by Martin Emerson),2.97,2.28,6.0,2022,84
+2.0,3:30,3.0,10.0,CLE 31,9.0,3.0,"Rhamondre Stevenson left guard for 31 yards, touchdown",2.28,7.0,6.0,2022,84
+2.0,3:23,,,CLE 15,10.0,3.0,Nick Folk kicks extra point good,0.0,0.0,6.0,2022,84
+2.0,3:23,,,NWE 35,10.0,3.0,"Jake Bailey kicks off 63 yards, returned by Chester Rogers for 27 yards (tackle by Raekwon McMillan)",0.0,0.87,6.0,2022,84
+2.0,3:17,1.0,10.0,CLE 29,10.0,3.0,Jacoby Brissett pass complete short right to Donovan Peoples-Jones for 3 yards (tackle by Jalen Mills),0.87,0.73,6.0,2022,84
+2.0,2:46,2.0,7.0,CLE 32,10.0,3.0,Kareem Hunt left guard for 2 yards (tackle by Deatrich Wise),0.73,0.3,6.0,2022,84
+2.0,2:00,3.0,5.0,CLE 34,10.0,3.0,Jacoby Brissett pass complete to Amari Cooper for 7 yards (tackle by Devin McCourty),0.3,1.66,6.0,2022,84
+2.0,1:30,1.0,10.0,CLE 41,10.0,3.0,Jacoby Brissett pass incomplete short right,1.66,1.12,6.0,2022,84
+2.0,1:22,2.0,10.0,CLE 41,10.0,3.0,Jacoby Brissett pass incomplete short right intended for David Njoku (defended by Kyle Dugger),1.12,0.43,6.0,2022,84
+2.0,1:18,3.0,10.0,CLE 41,10.0,3.0,"Jacoby Brissett pass incomplete short left intended for Amari Cooper. Penalty on Jalen Mills: Defensive Pass Interference, 21 yards (accepted) (no play)",0.43,3.05,6.0,2022,84
+2.0,1:13,1.0,10.0,NWE 38,10.0,3.0,Kareem Hunt right tackle for 9 yards (tackle by Matt Judon and Devin McCourty),3.05,3.72,6.0,2022,84
+2.0,0:42,,,,,,Timeout #1 by Cleveland Browns,,,6.0,2022,84
+2.0,0:42,2.0,1.0,NWE 29,10.0,3.0,Jacoby Brissett pass incomplete deep left intended for Amari Cooper,3.72,3.01,6.0,2022,84
+2.0,0:36,3.0,1.0,NWE 29,10.0,3.0,Jacoby Brissett pass incomplete short left intended for Amari Cooper,3.01,1.62,6.0,2022,84
+2.0,0:30,4.0,1.0,NWE 29,10.0,6.0,Cade York 48 yard field goal good,1.62,3.0,6.0,2022,84
+2.0,0:26,,,CLE 35,10.0,6.0,"Cade York kicks off 65 yards, touchback.",0.0,0.61,6.0,2022,84
+2.0,0:26,1.0,10.0,NWE 25,10.0,6.0,Rhamondre Stevenson right guard for 5 yards (tackle by Jacob Phillips and Taven Bryan),0.61,0.74,6.0,2022,84
+3.0,15:00,,,CLE 35,10.0,6.0,"Cade York kicks off 65 yards, touchback.",0.0,0.61,6.0,2022,84
+3.0,15:00,1.0,10.0,NWE 25,10.0,6.0,Rhamondre Stevenson right tackle for 1 yard (tackle by Grant Delpit),0.61,0.2,6.0,2022,84
+3.0,14:21,2.0,9.0,NWE 26,10.0,6.0,Bailey Zappe pass complete short right to Jonnu Smith for 53 yards (tackle by Martin Emerson),0.2,4.17,6.0,2022,84
+3.0,13:33,1.0,10.0,CLE 21,10.0,6.0,Rhamondre Stevenson left guard for 6 yards (tackle by Myles Garrett and John Johnson),4.17,4.55,6.0,2022,84
+3.0,12:49,2.0,4.0,CLE 15,10.0,6.0,Bailey Zappe pass complete short right to Hunter Henry for 13 yards (tackle by Grant Delpit),4.55,6.74,6.0,2022,84
+3.0,12:09,1.0,2.0,CLE 2,10.0,6.0,Rhamondre Stevenson right guard for no gain (tackle by Grant Delpit and Jacob Phillips),6.74,5.72,6.0,2022,84
+3.0,11:29,2.0,2.0,CLE 2,10.0,6.0,Bailey Zappe pass incomplete short right intended for Tyquan Thornton (defended by Martin Emerson),5.72,4.95,6.0,2022,84
+3.0,11:25,3.0,2.0,CLE 2,16.0,6.0,"Bailey Zappe pass complete short right to Tyquan Thornton for 2 yards, touchdown",4.95,7.0,6.0,2022,84
+3.0,11:22,,,CLE 15,17.0,6.0,Nick Folk kicks extra point good,0.0,0.0,6.0,2022,84
+3.0,11:22,,,NWE 35,17.0,6.0,"Jake Bailey kicks off 65 yards, touchback.",0.0,0.61,6.0,2022,84
+3.0,11:22,1.0,10.0,CLE 25,17.0,6.0,Nick Chubb right guard for -2 yards (tackle by Matt Judon),0.61,-0.21,6.0,2022,84
+3.0,10:47,2.0,12.0,CLE 23,17.0,6.0,Jacoby Brissett pass incomplete short right,-0.21,-0.89,6.0,2022,84
+3.0,10:39,3.0,12.0,CLE 23,17.0,6.0,Jacoby Brissett pass complete short right to Amari Cooper for 13 yards (tackle by Jalen Mills),-0.89,1.33,6.0,2022,84
+3.0,10:13,1.0,10.0,CLE 36,17.0,6.0,Kareem Hunt right tackle for 1 yard (tackle by Matt Judon and Mack Wilson),1.33,0.93,6.0,2022,84
+3.0,9:31,2.0,9.0,CLE 37,17.0,6.0,Jacoby Brissett pass incomplete intended for Amari Cooper,0.93,0.23,6.0,2022,84
+3.0,9:25,3.0,9.0,CLE 37,17.0,6.0,Jacoby Brissett pass incomplete deep left intended for Anthony Schwartz (defended by Marcus Jones),0.23,-0.91,6.0,2022,84
+3.0,9:18,4.0,9.0,CLE 37,17.0,6.0,"Penalty on CLE: Delay of Game, 5 yards (accepted) (no play)",-0.91,-1.24,6.0,2022,84
+3.0,9:18,4.0,14.0,CLE 32,17.0,6.0,"Corey Bojorquez punts 45 yards, returned by Marcus Jones for 16 yards (tackle by D'Ernest Johnson)",-1.24,-1.53,6.0,2022,84
+3.0,9:08,1.0,10.0,NWE 39,17.0,6.0,"Bailey Zappe pass complete to Rhamondre Stevenson for -3 yards (tackle by Martin Emerson). Penalty on Trent Brown: Offensive Holding, 10 yards (accepted) (no play)",1.53,0.87,6.0,2022,84
+3.0,8:49,1.0,20.0,NWE 29,17.0,6.0,Bailey Zappe pass complete to Tyquan Thornton for 2 yards (tackle by Grant Delpit),0.87,-0.09,6.0,2022,84
+3.0,8:05,2.0,18.0,NWE 31,17.0,6.0,Rhamondre Stevenson right tackle for 6 yards (tackle by Grant Delpit),-0.09,0.04,6.0,2022,84
+3.0,7:26,3.0,12.0,NWE 37,17.0,6.0,Bailey Zappe pass incomplete short right intended for Hunter Henry (defended by Grant Delpit),0.04,-0.91,6.0,2022,84
+3.0,7:20,4.0,12.0,NWE 37,17.0,6.0,"Jake Bailey punts 35 yards, fair catch by Chester Rogers at CLE-28",-0.91,-0.81,6.0,2022,84
+3.0,7:13,1.0,10.0,CLE 28,17.0,6.0,Jacoby Brissett pass intended for David Njoku is intercepted by Jalen Mills at NE-45 and returned for 15 yards (tackle by Amari Cooper),0.81,-2.92,6.0,2022,84
+3.0,7:02,1.0,10.0,CLE 40,17.0,6.0,Rhamondre Stevenson left tackle for 1 yard (tackle by John Johnson),2.92,2.51,6.0,2022,84
+3.0,6:24,2.0,9.0,CLE 39,17.0,6.0,Bailey Zappe pass complete to Jonnu Smith for 8 yards (tackle by Jacob Phillips),2.51,2.87,6.0,2022,84
+3.0,5:39,3.0,1.0,CLE 31,23.0,6.0,"Bailey Zappe pass complete short left to Hunter Henry for 31 yards, touchdown",2.87,7.0,6.0,2022,84
+3.0,5:32,,,CLE 15,24.0,6.0,Nick Folk kicks extra point good,0.0,0.0,6.0,2022,84
+3.0,5:32,,,NWE 35,24.0,6.0,"Jake Bailey kicks off 61 yards, returned by Chester Rogers for 22 yards (tackle by DaMarcus Mitchell)",0.0,0.67,6.0,2022,84
+3.0,5:28,1.0,10.0,CLE 26,24.0,6.0,Jacoby Brissett pass incomplete short right intended for Amari Cooper (defended by Jack Jones),0.67,0.13,6.0,2022,84
+3.0,5:24,2.0,10.0,CLE 26,24.0,6.0,Jacoby Brissett pass incomplete short right intended for Nick Chubb (defended by Deatrich Wise),0.13,-0.56,6.0,2022,84
+3.0,5:21,3.0,10.0,CLE 26,24.0,6.0,Jacoby Brissett sacked by and Anfernee Jennings for -2 yards and Mack Wilson for -2 yards,-0.56,-1.77,6.0,2022,84
+3.0,4:42,4.0,12.0,CLE 24,24.0,6.0,"Corey Bojorquez punts 44 yards, returned by Marcus Jones for 11 yards (tackle by Herb Miller)",-1.77,-1.8,6.0,2022,84
+3.0,4:32,1.0,10.0,NWE 43,24.0,6.0,Kevin Harris left tackle for 1 yard (tackle by Jeremiah Owusu-Koramoah),1.8,1.39,6.0,2022,84
+3.0,3:57,2.0,9.0,NWE 44,24.0,6.0,Bailey Zappe pass complete to DeVante Parker for 7 yards (tackle by Martin Emerson),1.39,1.62,6.0,2022,84
+3.0,3:20,,,,,,Timeout #1 by New England Patriots,,,6.0,2022,84
+3.0,3:20,3.0,2.0,CLE 49,24.0,6.0,Bailey Zappe pass complete short right to Rhamondre Stevenson for -1 yards (tackle by John Johnson),1.62,-0.06,6.0,2022,84
+3.0,2:32,4.0,3.0,CLE 50,24.0,6.0,"Penalty on NWE: Delay of Game, 5 yards (accepted) (no play)",-0.06,-0.39,6.0,2022,84
+3.0,2:23,4.0,8.0,NWE 45,24.0,6.0,"Jake Bailey punts 43 yards, returned by Chester Rogers for 7 yards (tackle by Brenden Schooler)",-0.39,-0.15,6.0,2022,84
+3.0,2:14,1.0,10.0,CLE 19,24.0,6.0,Nick Chubb right tackle for 5 yards (tackle by Daniel Ekuale and Myles Bryant),0.15,0.27,6.0,2022,84
+3.0,1:47,2.0,6.0,CLE 24,24.0,6.0,Jacoby Brissett pass incomplete intended for Amari Cooper,0.27,-0.42,6.0,2022,84
+3.0,1:43,3.0,5.0,CLE 24,24.0,6.0,Jacoby Brissett pass complete short left to David Njoku for 21 yards (tackle by Adrian Phillips),-0.42,1.93,6.0,2022,84
+3.0,1:12,1.0,10.0,CLE 45,24.0,6.0,Nick Chubb right tackle for 18 yards (tackle by Myles Bryant),1.93,3.12,6.0,2022,84
+3.0,0:44,1.0,10.0,NWE 37,24.0,6.0,Jacoby Brissett pass complete short left to Nick Chubb for 14 yards (tackle by Daniel Ekuale),3.12,4.04,6.0,2022,84
+3.0,0:09,1.0,10.0,NWE 23,24.0,6.0,Jacoby Brissett pass incomplete short middle intended for David Njoku,4.04,3.5,6.0,2022,84
+3.0,0:04,2.0,10.0,NWE 23,24.0,6.0,Jacoby Brissett pass incomplete short middle intended for Kareem Hunt,3.5,2.81,6.0,2022,84
+4.0,15:00,3.0,10.0,NWE 23,24.0,6.0,"Jacoby Brissett sacked by Deatrich Wise for no gain. Jacoby Brissett fumbles (forced by Deatrich Wise). Jacoby Brissett fumbles out of bounds. Penalty on Donovan Peoples-Jones: Illegal Bat / Offense, 10 yards (accepted)",2.81,1.15,6.0,2022,84
+4.0,14:39,4.0,20.0,NWE 33,24.0,9.0,Cade York 51 yard field goal good,1.15,3.0,6.0,2022,84
+4.0,14:35,,,CLE 35,24.0,9.0,"Cade York kicks off 61 yards, returned by Marcus Jones for 19 yards (tackle by Jordan Kunaszyk)",0.0,0.48,6.0,2022,84
+4.0,14:30,1.0,10.0,NWE 23,24.0,9.0,Bailey Zappe pass complete to Jakobi Meyers for 27 yards (tackle by Greg Newsome),0.48,2.26,6.0,2022,84
+4.0,13:56,1.0,10.0,NWE 50,24.0,9.0,Rhamondre Stevenson left guard for no gain (tackle by Myles Garrett and Jeremiah Owusu-Koramoah),2.26,1.71,6.0,2022,84
+4.0,13:22,2.0,10.0,NWE 50,24.0,9.0,Bailey Zappe pass complete short right to Hunter Henry for 5 yards (tackle by Jeremiah Owusu-Koramoah and Jacob Phillips),1.71,1.69,6.0,2022,84
+4.0,12:38,3.0,5.0,CLE 45,24.0,9.0,Bailey Zappe pass complete to Rhamondre Stevenson for 6 yards (tackle by Sione Takitaki),1.69,2.98,6.0,2022,84
+4.0,11:54,1.0,10.0,CLE 39,24.0,9.0,"Penalty on Hunter Henry: False Start, 5 yards (accepted) (no play)",2.98,2.65,6.0,2022,84
+4.0,11:54,1.0,15.0,CLE 44,24.0,9.0,Bailey Zappe pass complete deep left to Tyquan Thornton for 21 yards (tackle by John Johnson),2.65,4.04,6.0,2022,84
+4.0,11:15,1.0,10.0,CLE 23,24.0,9.0,Pierre Strong left guard for 5 yards (tackle by Isaac Rochell),4.04,4.21,6.0,2022,84
+4.0,10:40,2.0,5.0,CLE 18,24.0,9.0,Kevin Harris left guard for 1 yard (tackle by Jordan Elliott and Perrion Winfrey),4.21,3.66,6.0,2022,84
+4.0,9:59,3.0,4.0,CLE 17,24.0,9.0,"Bailey Zappe pass incomplete short right intended for Hunter Henry. Penalty on Myles Garrett: Defensive Offside, 5 yards (accepted) (no play)",3.66,4.78,6.0,2022,84
+4.0,9:55,1.0,10.0,CLE 12,24.0,9.0,Rhamondre Stevenson right tackle for 1 yard (tackle by Perrion Winfrey and Jacob Phillips),4.78,4.27,6.0,2022,84
+4.0,9:18,2.0,9.0,CLE 11,24.0,9.0,Bailey Zappe pass incomplete short middle intended for Rhamondre Stevenson,4.27,3.29,6.0,2022,84
+4.0,9:14,3.0,9.0,CLE 11,24.0,9.0,"Bailey Zappe pass incomplete. Penalty on Bailey Zappe: Intentional Grounding, 16 yards (accepted)",3.29,1.67,6.0,2022,84
+4.0,9:06,4.0,25.0,CLE 27,24.0,9.0,Nick Folk 45 yard field goal no good,1.67,-1.27,6.0,2022,84
+4.0,9:01,1.0,10.0,CLE 35,24.0,9.0,"Jacoby Brissett pass complete to David Njoku for no gain (tackle by Raekwon McMillan). Penalty on Jedrick Wills: Offensive Holding, 10 yards (accepted) (no play)",1.27,0.61,6.0,2022,84
+4.0,8:35,1.0,20.0,CLE 25,24.0,9.0,Jacoby Brissett pass complete short right to Amari Cooper for 9 yards (tackle by Jalen Mills),0.61,0.59,6.0,2022,84
+4.0,8:16,2.0,11.0,CLE 34,24.0,9.0,Jacoby Brissett sacked by Davon Godchaux for -4 yards,0.59,-0.63,6.0,2022,84
+4.0,7:45,3.0,15.0,CLE 30,24.0,9.0,Jacoby Brissett pass complete short middle to David Bell for 13 yards (tackle by Adrian Phillips and Myles Bryant),-0.63,-0.52,6.0,2022,84
+4.0,7:22,4.0,2.0,CLE 43,24.0,9.0,Jacoby Brissett pass complete deep right to Donovan Peoples-Jones for 37 yards,-0.52,4.24,6.0,2022,84
+4.0,6:50,1.0,10.0,NWE 20,24.0,9.0,Nick Chubb left tackle for 5 yards (tackle by Sam Roberts),4.24,4.55,6.0,2022,84
+4.0,6:30,2.0,4.0,NWE 15,24.0,9.0,Jacoby Brissett pass incomplete short right intended for Donovan Peoples-Jones,4.55,3.7,6.0,2022,84
+4.0,6:25,3.0,5.0,NWE 15,24.0,9.0,Jacoby Brissett pass incomplete short right intended for Amari Cooper (defended by Myles Bryant),3.7,2.49,6.0,2022,84
+4.0,6:22,4.0,5.0,NWE 15,24.0,15.0,"Jacoby Brissett pass complete short right to Amari Cooper for 15 yards, touchdown Replay Assistant challenged the pass completion ruling, and the play was upheld.",2.49,7.0,6.0,2022,84
+4.0,6:17,,,NWE 2,24.0,15.0,Two Point Attempt: Jacoby Brissett pass incomplete intended for Harrison Bryant,1.0,-1.0,6.0,2022,84
+4.0,6:17,,,CLE 35,24.0,15.0,"Cade York kicks onside 17 yards, recovered by Ronnie Harrison Replay Assistant challenged the runner was in bounds ruling, and the original play was overturned. Cade York kicks onside 17 yards, out of bounds. Penalty on A.J. Green: Illegal Touch Kick, 5 yards (accepted)",0.0,2.46,6.0,2022,84
+4.0,6:16,1.0,10.0,CLE 47,24.0,15.0,Rhamondre Stevenson right tackle for 3 yards (tackle by Sione Takitaki),2.46,2.32,6.0,2022,84
+4.0,5:35,2.0,7.0,CLE 44,24.0,15.0,Bailey Zappe sacked by Myles Garrett for -8 yards,2.32,0.56,6.0,2022,84
+4.0,5:14,3.0,15.0,NWE 48,24.0,15.0,Bailey Zappe pass complete to Bailey Zappe for -6 yards (tackle by Isaac Rochell),0.56,-0.59,6.0,2022,84
+4.0,4:41,4.0,21.0,NWE 42,24.0,15.0,"Jake Bailey punts 41 yards, recovered by Brenden Schooler at CLE-19",-0.59,4.31,6.0,2022,84
+4.0,4:32,1.0,10.0,CLE 19,30.0,15.0,"Tyquan Thornton left end for 19 yards, touchdown",4.31,7.0,6.0,2022,84
+4.0,4:28,,,CLE 15,31.0,15.0,Nick Folk kicks extra point good,0.0,0.0,6.0,2022,84
+4.0,4:28,,,NWE 35,31.0,15.0,"Jake Bailey kicks off 65 yards, returned by Chester Rogers for 17 yards (tackle by Pierre Strong)",0.0,-0.06,6.0,2022,84
+4.0,4:23,1.0,10.0,CLE 17,31.0,15.0,Jacoby Brissett pass complete short middle to Harrison Bryant for 7 yards (tackle by Raekwon McMillan),-0.06,0.48,6.0,2022,84
+4.0,4:06,2.0,3.0,CLE 24,31.0,15.0,"Jacoby Brissett sacked by. Jacoby Brissett fumbles, recovered by Carl Davis at CLE-25 and returned for 17 yards (tackle by Jack Conklin) Replay Assistant challenged the fumble ruling, and the play was upheld.",0.48,-5.37,6.0,2022,84
+4.0,3:56,1.0,8.0,CLE 8,31.0,15.0,Kevin Harris right guard for 3 yards (tackle by Jacob Phillips and Jeremiah Owusu-Koramoah),5.37,5.15,6.0,2022,84
+4.0,3:50,,,,,,Timeout #1 by Cleveland Browns,,,6.0,2022,84
+4.0,3:50,2.0,5.0,CLE 5,31.0,15.0,Tyquan Thornton right end for -1 yards (tackle by Sione Takitaki),5.15,4.04,6.0,2022,84
+4.0,3:45,3.0,6.0,CLE 6,37.0,15.0,"Rhamondre Stevenson right guard for 6 yards, touchdown",4.04,7.0,6.0,2022,84
+4.0,3:40,,,CLE 15,38.0,15.0,Nick Folk kicks extra point good,0.0,0.0,6.0,2022,84
+4.0,3:40,,,NWE 35,38.0,15.0,"Jake Bailey kicks off 61 yards, returned by Chester Rogers for 13 yards (tackle by Brenden Schooler and Mack Wilson)",0.0,-0.06,6.0,2022,84
+4.0,3:35,1.0,10.0,CLE 17,38.0,15.0,Jacoby Brissett pass complete short right to Michael Woods for 15 yards (tackle by Jack Jones),-0.06,1.07,6.0,2022,84
+4.0,3:15,1.0,10.0,CLE 32,38.0,15.0,Jacoby Brissett pass incomplete short middle intended for David Bell,1.07,0.53,6.0,2022,84
+4.0,3:11,2.0,10.0,CLE 32,38.0,15.0,Jacoby Brissett pass complete short right to D'Ernest Johnson for 2 yards (tackle by Mack Wilson),0.53,0.1,6.0,2022,84
+4.0,2:45,3.0,8.0,CLE 34,38.0,15.0,Jacoby Brissett pass incomplete intended for Harrison Bryant,0.1,-1.11,6.0,2022,84
+4.0,2:41,4.0,8.0,CLE 34,38.0,15.0,Jacoby Brissett pass complete deep left to Donovan Peoples-Jones for 22 yards (tackle by Shaun Wade),-1.11,1.86,6.0,2022,84
+4.0,2:25,1.0,10.0,CLE 44,38.0,15.0,Jacoby Brissett pass complete short left to D'Ernest Johnson for 7 yards (tackle by Raekwon McMillan),1.86,3.06,6.0,2022,84
+4.0,2:03,2.0,3.0,NWE 37,38.0,15.0,Jacoby Brissett pass incomplete deep left intended for Michael Woods,3.06,2.35,6.0,2022,84
+4.0,1:57,3.0,3.0,NWE 37,38.0,15.0,Jacoby Brissett pass incomplete short left intended for Anthony Schwartz,2.35,0.79,6.0,2022,84
+4.0,1:53,4.0,3.0,NWE 37,38.0,15.0,Jacoby Brissett pass incomplete short left intended for Anthony Schwartz,0.79,-1.4,6.0,2022,84
+4.0,1:50,1.0,10.0,NWE 37,38.0,15.0,Bailey Zappe kneels for -2 yards,1.4,0.59,6.0,2022,84
+4.0,1:09,2.0,12.0,NWE 35,38.0,15.0,Bailey Zappe kneels for -1 yards,0.59,-0.23,6.0,2022,84
+4.0,0:29,3.0,13.0,NWE 34,38.0,15.0,Bailey Zappe kneels for -1 yards,-0.23,-1.18,6.0,2022,84

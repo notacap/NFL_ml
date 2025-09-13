@@ -1,0 +1,180 @@
+Quarter,Time,Down,ToGo,Location,DAL,NYG,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Giants won the coin toss and deferred, Cowboys to receive the opening kickoff.",,,3.0,2022,48
+1.0,15:00,,,NYG 35,0.0,0.0,"Graham Gano kicks off 65 yards, touchback.",0.0,0.61,3.0,2022,48
+1.0,15:00,1.0,10.0,DAL 25,0.0,0.0,Cooper Rush pass complete short right to CeeDee Lamb for 15 yards (tackle by Adoree' Jackson and Austin Calitro),0.61,1.6,3.0,2022,48
+1.0,14:27,1.0,10.0,DAL 40,0.0,0.0,Tony Pollard left end for 14 yards (tackle by Julian Love),1.6,2.52,3.0,2022,48
+1.0,13:51,1.0,10.0,NYG 46,0.0,0.0,Ezekiel Elliott left tackle for 2 yards (tackle by Cordale Flott),2.52,2.25,3.0,2022,48
+1.0,13:17,2.0,8.0,NYG 44,0.0,0.0,"Ezekiel Elliott right guard for 6 yards (tackle by Xavier McKinney and Justin Ellis). Penalty on Matt Farniok: Offensive Holding, 10 yards (accepted) (no play)",2.25,0.9,3.0,2022,48
+1.0,12:45,2.0,18.0,DAL 46,0.0,0.0,Cooper Rush pass incomplete short left intended for Jake Ferguson,0.9,0.23,3.0,2022,48
+1.0,12:41,3.0,18.0,DAL 46,0.0,0.0,Cooper Rush pass complete short right to Peyton Hendershot for 4 yards (tackle by Cordale Flott and Julian Love),0.23,-0.06,3.0,2022,48
+1.0,12:04,4.0,14.0,DAL 50,0.0,0.0,"Bryan Anger punts 39 yards, returned by Richie James for 1 yard (tackle by Kelvin Joseph)",-0.06,0.35,3.0,2022,48
+1.0,11:53,1.0,10.0,NYG 12,0.0,0.0,Daniel Jones pass complete short right to Richie James for 8 yards (tackle by Jourdan Lewis),-0.35,0.29,3.0,2022,48
+1.0,11:19,2.0,2.0,NYG 20,0.0,0.0,Saquon Barkley left tackle for -1 yards (tackle by Micah Parsons and Quinton Bohanna),0.29,-0.6,3.0,2022,48
+1.0,10:51,3.0,3.0,NYG 19,0.0,0.0,"Daniel Jones pass incomplete short left intended for Saquon Barkley. Penalty on Anthony Barr: Defensive Holding, 5 yards (accepted) (no play)",-0.6,0.54,3.0,2022,48
+1.0,10:46,1.0,10.0,NYG 24,0.0,0.0,Daniel Jones sacked by DeMarcus Lawrence for -4 yards,0.54,-0.54,3.0,2022,48
+1.0,10:04,2.0,14.0,NYG 20,0.0,0.0,Daniel Jones pass complete short right to Saquon Barkley for 13 yards (tackle by Malik Hooker and Leighton Vander Esch),-0.54,0.5,3.0,2022,48
+1.0,9:33,3.0,1.0,NYG 33,0.0,0.0,Daniel Jones pass complete short right to Sterling Shepard for 10 yards (tackle by Donovan Wilson),0.5,1.8,3.0,2022,48
+1.0,9:05,1.0,10.0,NYG 43,0.0,0.0,Daniel Jones pass complete short middle to Daniel Bellinger for 8 yards (tackle by Jourdan Lewis),1.8,2.33,3.0,2022,48
+1.0,8:35,2.0,2.0,DAL 49,0.0,0.0,Daniel Jones pass complete short left to Daniel Bellinger for 20 yards (tackle by Donovan Wilson),2.33,3.64,3.0,2022,48
+1.0,8:04,1.0,10.0,DAL 29,0.0,0.0,Daniel Jones pass incomplete short middle intended for Kenny Golladay (defended by Trevon Diggs),3.64,3.1,3.0,2022,48
+1.0,7:59,2.0,10.0,DAL 29,0.0,0.0,Daniel Jones pass incomplete short middle intended for Sterling Shepard (defended by Trevon Diggs),3.1,2.41,3.0,2022,48
+1.0,7:55,3.0,10.0,DAL 29,0.0,0.0,Daniel Jones pass incomplete deep left,2.41,1.5,3.0,2022,48
+1.0,7:49,4.0,10.0,DAL 29,0.0,0.0,Graham Gano 47 yard field goal no good blocked by Dorance Armstrong,1.5,-1.4,3.0,2022,48
+1.0,7:40,1.0,10.0,DAL 37,0.0,0.0,Ezekiel Elliott right guard for 6 yards (tackle by Nick Williams and Julian Love),1.4,1.67,3.0,2022,48
+1.0,7:04,2.0,4.0,DAL 43,0.0,0.0,"Ezekiel Elliott left tackle for 6 yards (tackle by Xavier McKinney). Penalty on Jihad Ward: Illegal Use of Hands / Defense, 5 yards (accepted)",1.67,2.52,3.0,2022,48
+1.0,6:39,1.0,10.0,NYG 46,0.0,0.0,Cooper Rush pass complete deep right to Noah Brown for 19 yards (tackle by Xavier McKinney),2.52,3.78,3.0,2022,48
+1.0,6:01,1.0,10.0,NYG 27,0.0,0.0,Cooper Rush pass complete short left to CeeDee Lamb for 5 yards (tackle by Adoree' Jackson),3.78,3.91,3.0,2022,48
+1.0,5:18,2.0,5.0,NYG 22,0.0,0.0,Ezekiel Elliott right tackle for 2 yards (tackle by Azeez Ojulari and Tae Crowder),3.91,3.47,3.0,2022,48
+1.0,4:53,3.0,3.0,NYG 20,0.0,0.0,Cooper Rush pass complete short right to Noah Brown for 14 yards (tackle by Tae Crowder),3.47,5.83,3.0,2022,48
+1.0,4:14,1.0,6.0,NYG 6,0.0,0.0,Ezekiel Elliott up the middle for 1 yard (tackle by Kayvon Thibodeaux),5.83,5.15,3.0,2022,48
+1.0,3:27,2.0,5.0,NYG 5,0.0,0.0,Ezekiel Elliott right guard for 2 yards (tackle by Julian Love and Dexter Lawrence),5.15,4.72,3.0,2022,48
+1.0,2:39,3.0,3.0,NYG 3,0.0,0.0,"Penalty on Peyton Hendershot: False Start, 5 yards (accepted) (no play)",4.72,3.58,3.0,2022,48
+1.0,2:17,3.0,8.0,NYG 8,0.0,0.0,"Cooper Rush pass incomplete short middle intended for Tony Pollard (defended by Jihad Ward). Penalty on Tyler Smith: Offensive Holding, 10 yards (declined)",3.58,2.95,3.0,2022,48
+1.0,2:12,4.0,8.0,NYG 8,3.0,0.0,Brett Maher 26 yard field goal good,2.95,3.0,3.0,2022,48
+1.0,2:09,,,DAL 35,3.0,0.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,3.0,2022,48
+1.0,2:09,1.0,10.0,NYG 25,3.0,0.0,Saquon Barkley up the middle for 3 yards (tackle by DeMarcus Lawrence),0.61,0.47,3.0,2022,48
+1.0,1:41,2.0,7.0,NYG 28,3.0,0.0,Daniel Jones scrambles up the middle for 2 yards (tackle by Neville Gallimore),0.47,0.04,3.0,2022,48
+1.0,0:55,3.0,5.0,NYG 30,3.0,0.0,Daniel Jones pass complete short right to David Sills for 6 yards (tackle by Anthony Brown),0.04,1.33,3.0,2022,48
+1.0,0:32,1.0,10.0,NYG 36,3.0,0.0,Daniel Jones pass complete short right to Sterling Shepard for 6 yards (tackle by Anthony Brown),1.33,1.6,3.0,2022,48
+1.0,0:09,2.0,4.0,NYG 42,3.0,0.0,Saquon Barkley up the middle for 3 yards (tackle by Osa Odighizuwa),1.6,1.29,3.0,2022,48
+2.0,15:00,3.0,1.0,NYG 45,3.0,0.0,Matt Breida right end for 3 yards (tackle by Markquese Bell),1.29,2.13,3.0,2022,48
+2.0,14:22,1.0,10.0,NYG 48,3.0,0.0,Daniel Jones pass incomplete short middle intended for David Sills,2.13,1.58,3.0,2022,48
+2.0,14:18,2.0,10.0,NYG 48,3.0,0.0,Daniel Jones scrambles right end for 11 yards (tackle by Sam Williams),1.58,2.85,3.0,2022,48
+2.0,13:47,1.0,10.0,DAL 41,3.0,0.0,Saquon Barkley right tackle for 9 yards (tackle by Anthony Brown),2.85,3.52,3.0,2022,48
+2.0,13:17,2.0,1.0,DAL 32,3.0,0.0,Saquon Barkley right tackle for 3 yards (tackle by Anthony Brown),3.52,3.64,3.0,2022,48
+2.0,12:39,1.0,10.0,DAL 29,3.0,0.0,Daniel Jones sacked by Dorance Armstrong for -1 yards,3.64,2.97,3.0,2022,48
+2.0,12:03,2.0,11.0,DAL 30,3.0,0.0,Daniel Jones pass complete short middle to Daniel Bellinger for 6 yards (tackle by Jourdan Lewis),2.97,3.07,3.0,2022,48
+2.0,11:27,3.0,5.0,DAL 24,3.0,0.0,Daniel Jones pass incomplete short middle intended for Sterling Shepard (defended by Donovan Wilson),3.07,1.92,3.0,2022,48
+2.0,11:21,4.0,5.0,DAL 24,3.0,3.0,Graham Gano 42 yard field goal good,1.92,3.0,3.0,2022,48
+2.0,11:17,,,NYG 35,3.0,3.0,"Graham Gano kicks off 52 yards, returned by KaVontae Turpin for 24 yards (tackle by Fabian Moreau)",0.0,1.4,3.0,2022,48
+2.0,11:11,1.0,10.0,DAL 37,3.0,3.0,Tony Pollard left tackle for 46 yards (tackle by Adoree' Jackson and Cordale Flott),1.4,4.44,3.0,2022,48
+2.0,10:41,1.0,10.0,NYG 17,3.0,3.0,Tony Pollard right guard for 3 yards (tackle by Dexter Lawrence),4.44,4.32,3.0,2022,48
+2.0,9:58,2.0,7.0,NYG 14,3.0,3.0,Cooper Rush pass complete short right to Jalen Tolbert for 4 yards (tackle by Cordale Flott),4.32,4.34,3.0,2022,48
+2.0,9:17,3.0,3.0,NYG 10,3.0,3.0,Cooper Rush pass incomplete short left intended for Noah Brown,4.34,2.86,3.0,2022,48
+2.0,9:13,4.0,3.0,NYG 10,6.0,3.0,Brett Maher 28 yard field goal good,2.86,3.0,3.0,2022,48
+2.0,9:09,,,DAL 35,6.0,3.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,3.0,2022,48
+2.0,9:09,1.0,10.0,NYG 25,6.0,3.0,"Saquon Barkley left guard for 1 yard (tackle by Jourdan Lewis). Penalty on David Sills: Offensive Illegal Block Above the Waist, 10 yards (accepted)",0.61,-0.28,3.0,2022,48
+2.0,8:40,1.0,19.0,NYG 16,6.0,3.0,Daniel Jones pass complete short right to Richie James for -2 yards (tackle by Dante Fowler),-0.28,-1.54,3.0,2022,48
+2.0,8:03,2.0,21.0,NYG 14,6.0,3.0,Saquon Barkley right guard for 8 yards (tackle by DeMarcus Lawrence),-1.54,-1.02,3.0,2022,48
+2.0,7:38,3.0,13.0,NYG 22,6.0,3.0,Daniel Jones pass incomplete short middle intended for Richie James,-1.02,-1.9,3.0,2022,48
+2.0,7:33,4.0,13.0,NYG 22,6.0,3.0,Jamie Gillan punts 55 yards out of bounds,-1.9,-0.48,3.0,2022,48
+2.0,7:23,1.0,10.0,DAL 23,6.0,3.0,Tony Pollard left guard for 5 yards (tackle by Jihad Ward and Henry Mondeaux),0.48,0.61,3.0,2022,48
+2.0,6:41,2.0,5.0,DAL 28,6.0,3.0,"Tony Pollard right end for 10 yards (tackle by Fabian Moreau). Penalty on Peyton Hendershot: Offensive Holding, 10 yards (accepted) (no play)",0.61,-0.84,3.0,2022,48
+2.0,6:11,2.0,15.0,DAL 18,6.0,3.0,"Penalty on Tyler Smith: False Start, 5 yards (accepted) (no play)",-0.84,-1.5,3.0,2022,48
+2.0,5:51,2.0,20.0,DAL 13,6.0,3.0,Cooper Rush pass complete short middle to Jake Ferguson for 8 yards (tackle by Julian Love and Micah McFadden),-1.5,-1.02,3.0,2022,48
+2.0,5:10,3.0,12.0,DAL 21,6.0,3.0,Ezekiel Elliott left end for 27 yards (tackle by Oshane Ximines and Julian Love),-1.02,2.13,3.0,2022,48
+2.0,4:42,1.0,10.0,DAL 48,6.0,3.0,Cooper Rush pass incomplete deep left intended for CeeDee Lamb,2.13,1.58,3.0,2022,48
+2.0,4:34,2.0,10.0,DAL 48,6.0,3.0,Ezekiel Elliott left end for 9 yards (tackle by Fabian Moreau and Tae Crowder),1.58,2.08,3.0,2022,48
+2.0,4:05,3.0,1.0,NYG 43,6.0,3.0,Tony Pollard right end for 3 yards (tackle by Julian Love),2.08,2.92,3.0,2022,48
+2.0,3:27,1.0,10.0,NYG 40,6.0,3.0,Tony Pollard left end for no gain (tackle by Micah McFadden and Jihad Ward),2.92,2.37,3.0,2022,48
+2.0,2:48,2.0,10.0,NYG 40,6.0,3.0,Cooper Rush pass incomplete short right,2.37,1.68,3.0,2022,48
+2.0,2:43,3.0,10.0,NYG 40,6.0,3.0,Cooper Rush pass incomplete short right intended for CeeDee Lamb (defended by Kayvon Thibodeaux),1.68,0.59,3.0,2022,48
+2.0,2:38,4.0,10.0,NYG 40,6.0,3.0,"Penalty on DAL: Delay of Game, 5 yards (declined) (no play)",0.59,0.59,3.0,2022,48
+2.0,2:38,4.0,10.0,NYG 40,6.0,3.0,Bryan Anger punts 40 yards,0.59,-0.28,3.0,2022,48
+2.0,2:30,1.0,10.0,NYG 20,6.0,3.0,Daniel Jones scrambles right end for 1 yard (tackle by Chauncey Golston),0.28,-0.13,3.0,2022,48
+2.0,2:00,2.0,9.0,NYG 21,6.0,3.0,Daniel Jones up the middle for 10 yards (tackle by DeMarcus Lawrence),-0.13,1.0,3.0,2022,48
+2.0,1:35,1.0,10.0,NYG 31,6.0,3.0,Daniel Jones pass complete short middle to Richie James for 14 yards (tackle by Jourdan Lewis),1.0,1.93,3.0,2022,48
+2.0,1:15,1.0,10.0,NYG 45,6.0,3.0,Daniel Jones sacked by DeMarcus Lawrence for -3 yards,1.93,0.98,3.0,2022,48
+2.0,0:42,,,,,,Timeout #1 by Dallas Cowboys,,,3.0,2022,48
+2.0,0:42,2.0,13.0,NYG 42,6.0,3.0,Daniel Jones pass incomplete short right,0.98,0.3,3.0,2022,48
+2.0,0:35,3.0,13.0,NYG 42,6.0,3.0,"Daniel Jones pass complete to Kenny Golladay for 22 yards. Penalty on Sterling Shepard: Offensive Pass Interference, 10 yards (accepted) (no play)",0.3,-1.02,3.0,2022,48
+2.0,0:24,3.0,23.0,NYG 32,6.0,3.0,Daniel Jones pass complete short left to Saquon Barkley for 21 yards (tackle by Leighton Vander Esch and Donovan Wilson),-1.02,0.13,3.0,2022,48
+2.0,0:10,,,,,,Timeout #2 by Dallas Cowboys,,,3.0,2022,48
+2.0,0:10,4.0,2.0,DAL 47,6.0,3.0,Daniel Jones pass incomplete short left intended for Kenny Golladay,0.13,-2.06,3.0,2022,48
+2.0,0:08,,,,,,Timeout #1 by New York Giants,,,3.0,2022,48
+2.0,0:08,1.0,10.0,DAL 47,6.0,3.0,Cooper Rush pass complete short right to Simi Fehoko for 12 yards (tackle by Adoree' Jackson),2.06,2.85,3.0,2022,48
+2.0,0:04,,,,,,Timeout #3 by Dallas Cowboys,,,3.0,2022,48
+2.0,0:04,1.0,10.0,NYG 41,6.0,3.0,Brett Maher 59 yard field goal no good,2.85,2.13,3.0,2022,48
+3.0,15:00,,,DAL 35,6.0,3.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,3.0,2022,48
+3.0,15:00,1.0,10.0,NYG 25,6.0,3.0,Richie James right end for 4 yards (tackle by Osa Odighizuwa),0.61,0.6,3.0,2022,48
+3.0,14:22,2.0,6.0,NYG 29,6.0,3.0,Daniel Jones sacked by DeMarcus Lawrence for -8 yards,0.6,-1.15,3.0,2022,48
+3.0,13:43,3.0,14.0,NYG 21,6.0,3.0,"Daniel Jones pass incomplete deep right intended for Sterling Shepard. Penalty on Jourdan Lewis: Illegal Contact, 5 yards (accepted) (no play)",-1.15,0.67,3.0,2022,48
+3.0,13:38,1.0,10.0,NYG 26,6.0,3.0,Saquon Barkley right end for 3 yards (tackle by Trysten Hill),0.67,0.54,3.0,2022,48
+3.0,13:11,2.0,7.0,NYG 29,6.0,3.0,Daniel Jones scrambles up the middle for 13 yards (tackle by Donovan Wilson),0.54,1.73,3.0,2022,48
+3.0,12:39,1.0,10.0,NYG 42,6.0,3.0,Saquon Barkley left guard for 3 yards (tackle by Donovan Wilson),1.73,1.59,3.0,2022,48
+3.0,12:12,2.0,7.0,NYG 45,6.0,3.0,Daniel Jones scrambles up the middle for 17 yards (tackle by Jourdan Lewis),1.59,3.05,3.0,2022,48
+3.0,11:27,1.0,10.0,DAL 38,6.0,3.0,"Daniel Jones pass complete to Saquon Barkley for no gain (tackle by DeMarcus Lawrence). Penalty on Jon Feliciano: Ineligible Downfield Pass, 5 yards (accepted) (no play)",3.05,2.72,3.0,2022,48
+3.0,10:55,1.0,15.0,DAL 43,6.0,3.0,Daniel Jones sacked by Donovan Wilson for -11 yards,2.72,0.35,3.0,2022,48
+3.0,10:11,2.0,26.0,NYG 46,6.0,3.0,Daniel Jones pass complete short left to Sterling Shepard for 16 yards (tackle by Jourdan Lewis),0.35,1.82,3.0,2022,48
+3.0,9:43,3.0,10.0,DAL 38,6.0,3.0,Daniel Jones pass complete short right to Sterling Shepard for 5 yards (tackle by Anthony Brown),1.82,1.17,3.0,2022,48
+3.0,9:06,4.0,5.0,DAL 33,6.0,6.0,Graham Gano 51 yard field goal good,1.17,3.0,3.0,2022,48
+3.0,9:02,,,NYG 35,6.0,6.0,"Graham Gano kicks off 65 yards, touchback.",0.0,0.61,3.0,2022,48
+3.0,9:02,1.0,10.0,DAL 25,6.0,6.0,Ezekiel Elliott right end for -2 yards (tackle by Xavier McKinney and Oshane Ximines),0.61,-0.21,3.0,2022,48
+3.0,8:21,2.0,12.0,DAL 23,6.0,6.0,Cooper Rush pass incomplete deep right intended for CeeDee Lamb (defended by Xavier McKinney),-0.21,-0.89,3.0,2022,48
+3.0,8:13,3.0,12.0,DAL 23,6.0,6.0,Cooper Rush pass incomplete deep right intended for Jalen Tolbert,-0.89,-1.83,3.0,2022,48
+3.0,8:08,4.0,12.0,DAL 23,6.0,6.0,"Bryan Anger punts 54 yards, returned by Richie James for no gain",-1.83,-0.48,3.0,2022,48
+3.0,8:00,1.0,10.0,NYG 23,6.0,6.0,Saquon Barkley up the middle for 1 yard (tackle by Donovan Wilson and Israel Mukuamu),0.48,0.07,3.0,2022,48
+3.0,7:32,2.0,9.0,NYG 24,6.0,6.0,"Daniel Jones scrambles right end for 14 yards (tackle by Sam Williams). Penalty on Sam Williams: Unnecessary Roughness / Defense, 15 yards (offset) . Penalty on Sterling Shepard: Unsportsmanlike Conduct / Offense, 15 yards (offset)",0.07,1.47,3.0,2022,48
+3.0,7:08,1.0,10.0,NYG 38,6.0,6.0,Daniel Jones pass complete short left to David Sills for 14 yards (tackle by Malik Hooker),1.47,2.39,3.0,2022,48
+3.0,6:40,1.0,10.0,DAL 48,6.0,6.0,Saquon Barkley right tackle for 6 yards (tackle by Malik Hooker),2.39,2.66,3.0,2022,48
+3.0,6:16,2.0,4.0,DAL 42,6.0,6.0,Daniel Jones pass complete short left to Daniel Bellinger for 6 yards (tackle by Israel Mukuamu),2.66,3.18,3.0,2022,48
+3.0,5:41,1.0,10.0,DAL 36,6.0,12.0,"Saquon Barkley right guard for 36 yards, touchdown",3.18,7.0,3.0,2022,48
+3.0,5:31,,,DAL 15,6.0,13.0,Graham Gano kicks extra point good,0.0,0.0,3.0,2022,48
+3.0,5:31,,,NYG 35,6.0,13.0,"Graham Gano kicks off 65 yards, touchback.",0.0,0.61,3.0,2022,48
+3.0,5:31,1.0,10.0,DAL 25,6.0,13.0,Cooper Rush pass complete short left to CeeDee Lamb for 17 yards (tackle by Adoree' Jackson),0.61,1.73,3.0,2022,48
+3.0,4:51,1.0,10.0,DAL 42,6.0,13.0,Ezekiel Elliott up the middle for 7 yards (tackle by Jihad Ward and Dexter Lawrence),1.73,2.06,3.0,2022,48
+3.0,4:15,2.0,4.0,DAL 49,6.0,13.0,Cooper Rush pass complete short right to CeeDee Lamb for 2 yards (tackle by Adoree' Jackson and Julian Love),2.06,1.62,3.0,2022,48
+3.0,3:36,3.0,2.0,NYG 49,6.0,13.0,Ezekiel Elliott up the middle for 2 yards (tackle by Nick Williams and Julian Love),1.62,2.46,3.0,2022,48
+3.0,2:59,1.0,10.0,NYG 47,6.0,13.0,Cooper Rush pass complete short right to Peyton Hendershot for 29 yards (tackle by Xavier McKinney),2.46,4.37,3.0,2022,48
+3.0,2:14,1.0,10.0,NYG 18,6.0,13.0,Cooper Rush pass complete short left to Noah Brown for 12 yards (tackle by Xavier McKinney),4.37,5.83,3.0,2022,48
+3.0,1:47,1.0,6.0,NYG 6,6.0,13.0,Tony Pollard up the middle for 1 yard (tackle by Tae Crowder and Henry Mondeaux),5.83,5.15,3.0,2022,48
+3.0,1:09,2.0,5.0,NYG 5,6.0,13.0,Cooper Rush pass complete short right to Noah Brown for 4 yards (tackle by Tae Crowder),5.15,5.17,3.0,2022,48
+3.0,0:32,3.0,1.0,NYG 1,12.0,13.0,"Ezekiel Elliott right end for 1 yard, touchdown",5.17,7.0,3.0,2022,48
+3.0,0:27,,,NYG 15,13.0,13.0,Brett Maher kicks extra point good,0.0,0.0,3.0,2022,48
+3.0,0:27,,,DAL 35,13.0,13.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,3.0,2022,48
+3.0,0:27,1.0,10.0,NYG 25,13.0,13.0,Daniel Jones pass complete short left to Chris Myarick for 6 yards (tackle by Donovan Wilson),0.61,0.87,3.0,2022,48
+3.0,0:27,2.0,4.0,NYG 31,13.0,13.0,"Penalty on Donovan Wilson: Unsportsmanlike Conduct / Defense, 15 yards (accepted) (no play)",0.87,1.99,3.0,2022,48
+3.0,0:04,1.0,10.0,NYG 46,13.0,13.0,Saquon Barkley right tackle for 4 yards (tackle by Leighton Vander Esch and Chauncey Golston),1.99,1.99,3.0,2022,48
+4.0,15:00,2.0,6.0,NYG 50,13.0,13.0,Daniel Jones pass incomplete short right intended for Daniel Bellinger,1.99,1.29,3.0,2022,48
+4.0,14:53,3.0,6.0,NYG 50,13.0,13.0,Daniel Jones pass incomplete short middle intended for Sterling Shepard,1.29,-0.06,3.0,2022,48
+4.0,14:49,4.0,6.0,NYG 50,13.0,13.0,"Jamie Gillan punts 39 yards, fair catch by KaVontae Turpin at DAL-11",-0.06,0.37,3.0,2022,48
+4.0,14:42,1.0,10.0,DAL 11,13.0,13.0,Tony Pollard right end for 4 yards (tackle by Jihad Ward),-0.37,-0.43,3.0,2022,48
+4.0,14:09,2.0,6.0,DAL 15,13.0,13.0,Cooper Rush pass complete short right to Noah Brown for 5 yards (tackle by Fabian Moreau),-0.43,-0.37,3.0,2022,48
+4.0,13:30,3.0,1.0,DAL 20,13.0,13.0,"Cooper Rush right guard for no gain (tackle by Kayvon Thibodeaux). Penalty on D.J. Davidson: Defensive Offside, 6 yards (accepted) (no play)",-0.37,0.67,3.0,2022,48
+4.0,13:04,1.0,10.0,DAL 26,13.0,13.0,Tony Pollard up the middle for 10 yards (tackle by Xavier McKinney and Julian Love),0.67,1.33,3.0,2022,48
+4.0,12:25,1.0,10.0,DAL 36,13.0,13.0,Cooper Rush pass complete deep middle to CeeDee Lamb for 17 yards (tackle by Adoree' Jackson),1.33,2.46,3.0,2022,48
+4.0,11:45,1.0,10.0,NYG 47,13.0,13.0,Tony Pollard right tackle for 4 yards (tackle by Justin Ellis and Oshane Ximines),2.46,2.45,3.0,2022,48
+4.0,11:09,2.0,6.0,NYG 43,13.0,13.0,Cooper Rush pass complete short right to Ezekiel Elliott for 2 yards (tackle by Fabian Moreau),2.45,2.01,3.0,2022,48
+4.0,10:32,3.0,4.0,NYG 41,13.0,13.0,Cooper Rush pass incomplete short left intended for CeeDee Lamb,2.01,0.53,3.0,2022,48
+4.0,10:27,,,,,,Timeout #1 by New York Giants,,,3.0,2022,48
+4.0,10:27,4.0,4.0,NYG 41,13.0,13.0,Cooper Rush pass complete short left to CeeDee Lamb for 4 yards (tackle by Dane Belton),0.53,3.12,3.0,2022,48
+4.0,10:06,1.0,10.0,NYG 37,13.0,13.0,Cooper Rush pass complete short right to Peyton Hendershot for 10 yards (tackle by Dane Belton and Julian Love),3.12,3.78,3.0,2022,48
+4.0,9:21,1.0,10.0,NYG 27,13.0,13.0,Cooper Rush pass complete short left to CeeDee Lamb for 26 yards (tackle by Fabian Moreau and Julian Love),3.78,6.97,3.0,2022,48
+4.0,8:34,1.0,1.0,NYG 1,19.0,13.0,"Cooper Rush pass complete short left to CeeDee Lamb for 1 yard, touchdown",6.97,7.0,3.0,2022,48
+4.0,8:30,,,NYG 15,20.0,13.0,Brett Maher kicks extra point good,0.0,0.0,3.0,2022,48
+4.0,8:30,,,DAL 35,20.0,13.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,3.0,2022,48
+4.0,8:30,1.0,10.0,NYG 25,20.0,13.0,Saquon Barkley up the middle for 2 yards (tackle by Donovan Wilson),0.61,0.33,3.0,2022,48
+4.0,7:58,2.0,8.0,NYG 27,20.0,13.0,Daniel Jones pass incomplete deep right intended for Sterling Shepard (defended by Anthony Brown),0.33,-0.36,3.0,2022,48
+4.0,7:49,3.0,8.0,NYG 27,20.0,13.0,"Penalty on NYG: Delay of Game, 5 yards (accepted) (no play)",-0.36,-1.02,3.0,2022,48
+4.0,7:49,3.0,13.0,NYG 22,20.0,13.0,Daniel Jones pass incomplete short right intended for Kenny Golladay,-1.02,-1.9,3.0,2022,48
+4.0,7:44,4.0,13.0,NYG 22,20.0,13.0,"Jamie Gillan punts 41 yards, returned by KaVontae Turpin for 28 yards (tackle by Jamie Gillan)",-1.9,-3.25,3.0,2022,48
+4.0,7:32,1.0,10.0,NYG 35,20.0,13.0,Ezekiel Elliott up the middle for 5 yards (tackle by Micah McFadden),3.25,3.38,3.0,2022,48
+4.0,6:46,2.0,5.0,NYG 30,20.0,13.0,Ezekiel Elliott left guard for 4 yards (tackle by Henry Mondeaux and Dexter Lawrence),3.38,3.2,3.0,2022,48
+4.0,6:06,3.0,1.0,NYG 26,20.0,13.0,Cooper Rush pass incomplete short left intended for Noah Brown,3.2,1.89,3.0,2022,48
+4.0,6:02,4.0,1.0,NYG 26,23.0,13.0,Brett Maher 44 yard field goal good,1.89,3.0,3.0,2022,48
+4.0,5:58,,,DAL 35,23.0,13.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,3.0,2022,48
+4.0,5:58,1.0,10.0,NYG 25,23.0,13.0,Daniel Jones pass complete deep right to Richie James for 16 yards (tackle by Trevon Diggs),0.61,1.66,3.0,2022,48
+4.0,5:34,1.0,10.0,NYG 41,23.0,13.0,Daniel Jones pass complete short right to Saquon Barkley for 5 yards (tackle by Anthony Brown),1.66,1.8,3.0,2022,48
+4.0,5:09,2.0,5.0,NYG 46,23.0,13.0,Daniel Jones up the middle for 7 yards (tackle by Donovan Wilson),1.8,2.46,3.0,2022,48
+4.0,4:41,1.0,10.0,DAL 47,23.0,13.0,"Daniel Jones sacked by Dorance Armstrong for no gain. Penalty on Kelvin Joseph: Face Mask (15 Yards), 15 yards (accepted) (no play)",2.46,3.45,3.0,2022,48
+4.0,4:34,1.0,10.0,DAL 32,23.0,13.0,Daniel Jones pass complete short right to Saquon Barkley for 6 yards (tackle by Malik Hooker),3.45,3.71,3.0,2022,48
+4.0,4:08,2.0,4.0,DAL 26,23.0,13.0,Daniel Jones scrambles right end for 4 yards (tackle by Donovan Wilson),3.71,4.11,3.0,2022,48
+4.0,4:02,1.0,10.0,DAL 22,23.0,13.0,Daniel Jones pass incomplete short right,4.11,3.56,3.0,2022,48
+4.0,3:57,2.0,10.0,DAL 22,23.0,13.0,Daniel Jones pass incomplete deep right,3.56,2.87,3.0,2022,48
+4.0,3:52,3.0,10.0,DAL 22,23.0,13.0,"Daniel Jones pass incomplete short left. Penalty on Ben Bredeson: Offensive Holding, 10 yards (declined) . Penalty on Daniel Jones: Intentional Grounding, 11 yards (accepted)",2.87,1.15,3.0,2022,48
+4.0,3:42,4.0,21.0,DAL 33,23.0,16.0,Graham Gano 51 yard field goal good,1.15,3.0,3.0,2022,48
+4.0,3:37,,,NYG 35,23.0,16.0,"Graham Gano kicks off 65 yards, touchback.",0.0,0.61,3.0,2022,48
+4.0,3:37,1.0,10.0,DAL 25,23.0,16.0,Tony Pollard right tackle for 3 yards (tackle by Dexter Lawrence and Nick Williams),0.61,0.47,3.0,2022,48
+4.0,3:32,,,,,,Timeout #2 by New York Giants,,,3.0,2022,48
+4.0,3:32,2.0,7.0,DAL 28,23.0,16.0,Tony Pollard right guard for 10 yards (tackle by Darnay Holmes and Julian Love),0.47,1.47,3.0,2022,48
+4.0,2:46,1.0,10.0,DAL 38,23.0,16.0,Tony Pollard right tackle for 2 yards (tackle by Justin Ellis),1.47,1.19,3.0,2022,48
+4.0,2:40,,,,,,Timeout #3 by New York Giants,,,3.0,2022,48
+4.0,2:40,2.0,8.0,DAL 40,23.0,16.0,Ezekiel Elliott left tackle for 1 yard (tackle by Jihad Ward and Justin Ellis),1.19,0.63,3.0,2022,48
+4.0,2:00,3.0,7.0,DAL 41,23.0,16.0,Cooper Rush pass complete short right to Jake Ferguson for 5 yards (tackle by Julian Love and Jihad Ward),0.63,-0.32,3.0,2022,48
+4.0,1:52,4.0,2.0,DAL 46,23.0,16.0,"Bryan Anger punts 45 yards, fair catch by Richie James at NYG-9",-0.32,0.38,3.0,2022,48
+4.0,1:45,1.0,10.0,NYG 9,23.0,16.0,Daniel Jones pass complete short middle to Sterling Shepard for 12 yards (tackle by Anthony Brown),-0.38,0.34,3.0,2022,48
+4.0,1:22,1.0,10.0,NYG 21,23.0,16.0,Daniel Jones pass incomplete deep right intended for Sterling Shepard,0.34,-0.2,3.0,2022,48
+4.0,1:17,2.0,10.0,NYG 21,23.0,16.0,"Penalty on Evan Neal: False Start, 5 yards (accepted) (no play)",-0.2,-1.01,3.0,2022,48
+4.0,1:17,2.0,15.0,NYG 16,23.0,16.0,Daniel Jones pass deep left intended for David Sills is intercepted by Trevon Diggs at NYG-36 and returned for 7 yards,-1.01,-3.64,3.0,2022,48
+4.0,1:11,1.0,10.0,NYG 29,23.0,16.0,Cooper Rush kneels for -1 yards,3.64,2.97,3.0,2022,48
+4.0,0:39,2.0,11.0,NYG 30,23.0,16.0,Cooper Rush kneels for -1 yards,2.97,2.15,3.0,2022,48

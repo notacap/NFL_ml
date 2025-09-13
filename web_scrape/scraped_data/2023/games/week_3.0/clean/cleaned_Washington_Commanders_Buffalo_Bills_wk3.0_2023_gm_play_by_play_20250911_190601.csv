@@ -1,0 +1,153 @@
+Quarter,Time,Down,ToGo,Location,BUF,WAS,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Commanders won the coin toss and deferred, Bills to receive the opening kickoff.",,,3.0,2023,35
+1.0,15:00,,,WAS 35,0.0,0.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,3.0,2023,35
+1.0,15:00,1.0,10.0,BUF 25,0.0,0.0,Josh Allen pass complete short left to Dalton Kincaid for -1 yards (tackle by Kamren Curl),0.61,-0.07,3.0,2023,35
+1.0,14:20,2.0,11.0,BUF 24,0.0,0.0,James Cook left tackle for 1 yard (tackle by Chase Young),-0.07,-0.62,3.0,2023,35
+1.0,13:41,3.0,10.0,BUF 25,0.0,0.0,Josh Allen scrambles up the middle for 13 yards (tackle by Darrick Forrest),-0.62,1.47,3.0,2023,35
+1.0,13:02,1.0,10.0,BUF 38,0.0,0.0,Gabriel Davis right guard for -2 yards (tackle by Daron Payne),1.47,0.65,3.0,2023,35
+1.0,12:22,2.0,12.0,BUF 36,0.0,0.0,Josh Allen pass complete short right to Dalton Kincaid for 4 yards (tackle by Jamin Davis),0.65,0.5,3.0,2023,35
+1.0,11:41,3.0,8.0,BUF 40,0.0,0.0,Josh Allen pass complete deep right to Stefon Diggs for 30 yards (tackle by Emmanuel Forbes),0.5,3.58,3.0,2023,35
+1.0,10:55,1.0,10.0,WAS 30,0.0,0.0,"Josh Allen pass complete short right to Dawson Knox for 11 yards (tackle by Benjamin St-Juste). Penalty on James Smith-Williams: Defensive Offside, 5 yards (declined)",3.58,4.31,3.0,2023,35
+1.0,10:23,1.0,10.0,WAS 19,0.0,0.0,Josh Allen pass incomplete deep middle intended for Dawson Knox,4.31,3.75,3.0,2023,35
+1.0,10:18,2.0,10.0,WAS 19,0.0,0.0,James Cook right tackle for 1 yard (tackle by Cody Barton and Jamin Davis),3.75,3.14,3.0,2023,35
+1.0,9:38,3.0,9.0,WAS 18,0.0,0.0,Josh Allen pass incomplete deep middle intended for Dawson Knox,3.14,2.25,3.0,2023,35
+1.0,9:32,4.0,9.0,WAS 18,3.0,0.0,Tyler Bass 36 yard field goal good,2.25,3.0,3.0,2023,35
+1.0,9:29,,,BUF 35,3.0,0.0,"Tyler Bass kicks off 66 yards, returned by Antonio Gibson for 28 yards (tackle by Reggie Gilliam and Siran Neal)",0.0,0.74,3.0,2023,35
+1.0,9:25,1.0,10.0,WAS 27,3.0,0.0,Brian Robinson left tackle for 7 yards (tackle by Jordan Poyer),0.74,1.14,3.0,2023,35
+1.0,8:43,2.0,3.0,WAS 34,3.0,0.0,Sam Howell pass complete short middle to Terry McLaurin for 5 yards (tackle by Terrel Bernard),1.14,1.53,3.0,2023,35
+1.0,8:09,1.0,10.0,WAS 39,3.0,0.0,Brian Robinson right end for 5 yards (tackle by Matt Milano),1.53,1.66,3.0,2023,35
+1.0,7:30,2.0,5.0,WAS 44,3.0,0.0,Sam Howell pass complete short right to Terry McLaurin for 10 yards (tackle by Tre'Davious White),1.66,2.52,3.0,2023,35
+1.0,6:52,1.0,10.0,BUF 46,3.0,0.0,Sam Howell pass complete deep right to Cole Turner for 21 yards (tackle by Jordan Poyer),2.52,3.91,3.0,2023,35
+1.0,6:13,1.0,10.0,BUF 25,3.0,0.0,Sam Howell sacked by and DaQuan Jones for -8 yards and Ed Oliver for -8 yards,3.91,2.28,3.0,2023,35
+1.0,5:30,2.0,18.0,BUF 33,3.0,0.0,Sam Howell sacked by Terrel Bernard for -1 yards,2.28,1.49,3.0,2023,35
+1.0,4:45,3.0,19.0,BUF 34,3.0,0.0,Sam Howell pass deep middle intended for Dyami Brown is intercepted by Terrel Bernard at BUF-16 and returned for no gain (tackle by Dyami Brown),1.49,0.14,3.0,2023,35
+1.0,4:39,1.0,10.0,BUF 16,3.0,0.0,Josh Allen pass incomplete deep left intended for Stefon Diggs (defended by Benjamin St-Juste),-0.14,-0.66,3.0,2023,35
+1.0,4:33,2.0,10.0,BUF 16,3.0,0.0,James Cook left guard for 8 yards (tackle by Percy Butler),-0.66,-0.32,3.0,2023,35
+1.0,3:58,3.0,2.0,BUF 24,3.0,0.0,Josh Allen pass complete short right to Stefon Diggs for 4 yards (tackle by Cody Barton),-0.32,0.81,3.0,2023,35
+1.0,3:25,1.0,10.0,BUF 28,3.0,0.0,Josh Allen pass incomplete short middle intended for James Cook (defended by Jonathan Allen),0.81,0.26,3.0,2023,35
+1.0,3:20,2.0,10.0,BUF 28,3.0,0.0,James Cook right tackle for 2 yards (tackle by Cody Barton),0.26,-0.16,3.0,2023,35
+1.0,2:41,3.0,8.0,BUF 30,3.0,0.0,Josh Allen pass incomplete deep middle intended for Stefon Diggs (defended by Percy Butler),-0.16,-1.37,3.0,2023,35
+1.0,2:35,4.0,8.0,BUF 30,3.0,0.0,"Sam Martin punts 70 yards, touchback.",-1.37,-0.28,3.0,2023,35
+1.0,2:27,1.0,10.0,WAS 20,3.0,0.0,Brian Robinson right guard for 1 yard (tackle by Ed Oliver and DaQuan Jones),0.28,-0.13,3.0,2023,35
+1.0,1:48,2.0,9.0,WAS 21,3.0,0.0,Sam Howell pass incomplete short left intended for Jahan Dotson,-0.13,-0.82,3.0,2023,35
+1.0,1:45,3.0,9.0,WAS 21,3.0,0.0,Sam Howell sacked by Terrel Bernard for -10 yards,-0.82,-2.49,3.0,2023,35
+1.0,0:59,4.0,19.0,WAS 11,3.0,0.0,"Tress Way punts 57 yards, returned by Deonte Harty for 23 yards (tackle by Jeremy Reaves). Penalty on David Mayo: Offensive Holding, 10 yards (accepted)",-2.49,-3.25,3.0,2023,35
+1.0,0:47,1.0,10.0,WAS 35,9.0,0.0,"Josh Allen pass complete deep left to Gabriel Davis for 35 yards, touchdown",3.25,7.0,3.0,2023,35
+1.0,0:41,,,WAS 15,10.0,0.0,Tyler Bass kicks extra point good,0.0,0.0,3.0,2023,35
+1.0,0:41,,,BUF 35,10.0,0.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.61,3.0,2023,35
+1.0,0:41,1.0,10.0,WAS 25,10.0,0.0,Sam Howell pass complete deep left to Curtis Samuel for 37 yards (tackle by Christian Benford),0.61,3.05,3.0,2023,35
+2.0,15:00,1.0,10.0,BUF 38,10.0,0.0,"Curtis Samuel left tackle for no gain (tackle by Terrel Bernard). Penalty on Jordan Phillips: Defensive Holding, 5 yards (accepted) (no play)",3.05,3.38,3.0,2023,35
+2.0,14:40,1.0,10.0,BUF 33,10.0,0.0,Sam Howell pass complete short right to Terry McLaurin for 9 yards,3.38,4.05,3.0,2023,35
+2.0,14:05,2.0,1.0,BUF 24,10.0,0.0,Sam Howell scrambles up the middle for 18 yards (tackle by Tim Settle and Matt Milano),4.05,5.83,3.0,2023,35
+2.0,13:15,1.0,6.0,BUF 6,10.0,0.0,Sam Howell pass incomplete short middle intended for Cole Turner,5.83,4.95,3.0,2023,35
+2.0,13:11,2.0,6.0,BUF 6,10.0,0.0,Sam Howell pass complete short right to Cole Turner for 5 yards (tackle by Terrel Bernard),4.95,5.17,3.0,2023,35
+2.0,12:29,3.0,1.0,BUF 1,10.0,0.0,Brian Robinson right tackle for -1 yards (tackle by Ed Oliver and Matt Milano),5.17,3.25,3.0,2023,35
+2.0,11:46,4.0,2.0,BUF 2,10.0,0.0,Sam Howell pass incomplete short middle intended for Cole Turner,3.25,0.38,3.0,2023,35
+2.0,11:42,1.0,10.0,BUF 2,10.0,0.0,Damien Harris right tackle for 2 yards (tackle by John Ridgeway),-0.38,-0.63,3.0,2023,35
+2.0,11:05,2.0,8.0,BUF 4,10.0,0.0,Damien Harris left end for 4 yards (tackle by Kendall Fuller and Jonathan Allen),-0.63,-0.72,3.0,2023,35
+2.0,10:23,3.0,4.0,BUF 8,10.0,0.0,Josh Allen pass complete short right to Khalil Shakir for 5 yards (tackle by Benjamin St-Juste),-0.72,-0.32,3.0,2023,35
+2.0,9:37,1.0,10.0,BUF 13,10.0,0.0,"Josh Allen scrambles for no gain. Penalty on Dalton Kincaid: Illegal Shift, 5 yards (accepted) (no play)",-0.32,-0.57,3.0,2023,35
+2.0,9:10,1.0,15.0,BUF 8,10.0,0.0,James Cook right guard for 3 yards (tackle by Jamin Davis),-0.57,-0.93,3.0,2023,35
+2.0,8:29,2.0,12.0,BUF 11,10.0,0.0,Josh Allen scrambles up the middle for 23 yards (tackle by Cody Barton),-0.93,1.2,3.0,2023,35
+2.0,7:48,1.0,10.0,BUF 34,10.0,0.0,James Cook left end for 2 yards (tackle by Jamin Davis and Cody Barton),1.2,0.93,3.0,2023,35
+2.0,7:04,2.0,8.0,BUF 36,10.0,0.0,Josh Allen pass incomplete deep right intended for Trent Sherfield (defended by Kendall Fuller),0.93,0.23,3.0,2023,35
+2.0,6:57,,,,,,Timeout #1 by Washington Commanders,,,3.0,2023,35
+2.0,6:57,3.0,8.0,BUF 36,10.0,0.0,Josh Allen pass complete short middle to Stefon Diggs for 19 yards (tackle by Darrick Forrest and Kendall Fuller),0.23,2.59,3.0,2023,35
+2.0,6:29,1.0,10.0,WAS 45,10.0,0.0,Deonte Harty for 1 yard (tackle by Benjamin St-Juste),2.59,2.18,3.0,2023,35
+2.0,5:51,2.0,9.0,WAS 44,10.0,0.0,Josh Allen pass complete short middle to Deonte Harty for 7 yards (tackle by Kamren Curl),2.18,2.41,3.0,2023,35
+2.0,5:09,3.0,2.0,WAS 37,10.0,0.0,Damien Harris left tackle for 7 yards (tackle by Cody Barton),2.41,3.58,3.0,2023,35
+2.0,4:25,1.0,10.0,WAS 30,10.0,0.0,"Josh Allen sacked by Montez Sweat for no gain. Penalty on Dalton Kincaid: Tripping / Offense, 15 yards (accepted) (no play)",3.58,2.59,3.0,2023,35
+2.0,4:03,1.0,25.0,WAS 45,10.0,0.0,Josh Allen pass complete short left to Stefon Diggs for 9 yards (tackle by Benjamin St-Juste and Jamin Davis),2.59,2.22,3.0,2023,35
+2.0,3:17,2.0,16.0,WAS 36,10.0,0.0,"Penalty on Mitch Morse: False Start, 5 yards (accepted) (no play)",2.22,1.55,3.0,2023,35
+2.0,2:56,2.0,21.0,WAS 41,10.0,0.0,Josh Allen pass complete short middle to Trent Sherfield for 9 yards (tackle by Benjamin St-Juste),1.55,2.08,3.0,2023,35
+2.0,2:12,3.0,12.0,WAS 32,10.0,0.0,Josh Allen pass complete short right to Stefon Diggs for -4 yards (tackle by Chase Young),2.08,0.88,3.0,2023,35
+2.0,2:00,4.0,16.0,WAS 36,13.0,0.0,Tyler Bass 54 yard field goal good,0.88,3.0,3.0,2023,35
+2.0,1:55,,,BUF 35,13.0,0.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.61,3.0,2023,35
+2.0,1:55,1.0,10.0,WAS 25,13.0,0.0,Sam Howell pass complete short middle to Terry McLaurin for 4 yards (tackle by Taron Johnson),0.61,0.6,3.0,2023,35
+2.0,1:37,2.0,6.0,WAS 29,13.0,0.0,Sam Howell pass complete short middle to Cole Turner for 5 yards (tackle by Taron Johnson),0.6,0.56,3.0,2023,35
+2.0,1:19,3.0,1.0,WAS 34,13.0,0.0,Sam Howell pass short left intended for Antonio Gibson is intercepted by Micah Hyde at WAS-34 and returned for 1 yard (tackle by Antonio Gibson),0.56,-3.38,3.0,2023,35
+2.0,1:15,1.0,10.0,WAS 33,13.0,0.0,Josh Allen pass complete short left to James Cook for 4 yards (tackle by Kendall Fuller),3.38,3.31,3.0,2023,35
+2.0,1:10,2.0,7.0,WAS 29,13.0,0.0,James Cook up the middle for 7 yards (tackle by Cody Barton and Kamren Curl),3.31,4.11,3.0,2023,35
+2.0,0:36,1.0,10.0,WAS 22,13.0,0.0,Josh Allen pass incomplete short middle intended for Deonte Harty,4.11,3.56,3.0,2023,35
+2.0,0:32,2.0,10.0,WAS 22,13.0,0.0,Josh Allen pass incomplete deep left intended for Gabriel Davis (defended by Kendall Fuller),3.56,2.87,3.0,2023,35
+2.0,0:26,,,,,,Timeout #1 by Buffalo Bills,,,3.0,2023,35
+2.0,0:26,3.0,10.0,WAS 22,13.0,0.0,Josh Allen pass complete short right to Deonte Harty for 8 yards (tackle by Emmanuel Forbes),2.87,2.63,3.0,2023,35
+2.0,0:22,,,,,,Timeout #2 by Buffalo Bills,,,3.0,2023,35
+2.0,0:22,4.0,2.0,WAS 14,16.0,0.0,Tyler Bass 32 yard field goal good,2.63,3.0,3.0,2023,35
+2.0,0:19,,,BUF 35,16.0,0.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.61,3.0,2023,35
+2.0,0:19,1.0,10.0,WAS 25,16.0,0.0,Brian Robinson up the middle for 10 yards (tackle by Gregory Rousseau),0.61,1.27,3.0,2023,35
+3.0,15:00,,,BUF 35,16.0,0.0,"Tyler Bass kicks off 65 yards, returned by Antonio Gibson for 17 yards (tackle by Cameron Lewis and Taylor Rapp)",0.0,-0.06,3.0,2023,35
+3.0,14:56,1.0,10.0,WAS 17,16.0,0.0,Brian Robinson right tackle for 4 yards (tackle by Leonard Floyd and DaQuan Jones),-0.06,0.08,3.0,2023,35
+3.0,14:20,2.0,6.0,WAS 21,16.0,0.0,Sam Howell pass incomplete short middle intended for Cole Turner,0.08,-0.75,3.0,2023,35
+3.0,14:16,3.0,6.0,WAS 21,16.0,0.0,"Sam Howell pass incomplete. Penalty on Christian Benford: Illegal Contact, 5 yards (accepted) (no play)",-0.75,0.67,3.0,2023,35
+3.0,14:06,1.0,10.0,WAS 26,16.0,0.0,Sam Howell pass complete short middle to Terry McLaurin for 1 yard (tackle by Jordan Poyer),0.67,0.27,3.0,2023,35
+3.0,13:08,2.0,9.0,WAS 27,16.0,0.0,Antonio Gibson left end for 4 yards (tackle by Terrel Bernard and DaQuan Jones),0.27,0.1,3.0,2023,35
+3.0,12:30,3.0,5.0,WAS 31,16.0,0.0,Sam Howell pass complete short right to Antonio Gibson for 10 yards (tackle by Christian Benford and Matt Milano),0.1,1.66,3.0,2023,35
+3.0,11:56,1.0,10.0,WAS 41,16.0,0.0,Sam Howell pass complete short right to Jahan Dotson for 6 yards (tackle by Matt Milano and Micah Hyde),1.66,1.93,3.0,2023,35
+3.0,11:22,2.0,4.0,WAS 47,16.0,0.0,Brian Robinson right guard for 23 yards (tackle by Micah Hyde),1.93,3.58,3.0,2023,35
+3.0,10:37,1.0,10.0,BUF 30,16.0,0.0,Antonio Gibson right end for 13 yards (tackle by Jordan Poyer),3.58,4.44,3.0,2023,35
+3.0,9:58,1.0,10.0,BUF 17,16.0,0.0,Brian Robinson right tackle for 2 yards (tackle by Taron Johnson and Terrel Bernard),4.44,4.15,3.0,2023,35
+3.0,9:17,2.0,8.0,BUF 15,16.0,0.0,Sam Howell pass deep right intended for Curtis Samuel is intercepted by Tre'Davious White in end zone and returned for 2 yards (tackle by Curtis Samuel),4.15,0.38,3.0,2023,35
+3.0,9:11,1.0,10.0,BUF 1,16.0,0.0,Josh Allen pass complete deep right to Stefon Diggs for 30 yards (tackle by Darrick Forrest and Benjamin St-Juste),-0.38,1.0,3.0,2023,35
+3.0,8:24,1.0,10.0,BUF 31,16.0,0.0,Josh Allen pass complete short left to Trent Sherfield for 9 yards (tackle by Kendall Fuller and Percy Butler),1.0,1.68,3.0,2023,35
+3.0,7:47,2.0,1.0,BUF 40,16.0,0.0,James Cook right tackle for 10 yards (tackle by Jamin Davis and Darrick Forrest),1.68,2.26,3.0,2023,35
+3.0,7:13,1.0,10.0,WAS 50,16.0,0.0,Josh Allen pass incomplete short middle intended for Gabriel Davis,2.26,1.71,3.0,2023,35
+3.0,7:07,2.0,10.0,WAS 50,16.0,0.0,"Josh Allen scrambles for no gain. Penalty on Spencer Brown: Offensive Holding, 10 yards (accepted) (no play)",1.71,0.36,3.0,2023,35
+3.0,6:41,2.0,20.0,BUF 40,16.0,0.0,Josh Allen pass incomplete short middle intended for Stefon Diggs (defended by Jamin Davis),0.36,-0.3,3.0,2023,35
+3.0,6:34,3.0,20.0,BUF 40,16.0,0.0,Josh Allen pass deep left intended for Gabriel Davis is intercepted by Kendall Fuller at WAS-19 and returned for no gain (tackle by Gabriel Davis),-0.3,-0.15,3.0,2023,35
+3.0,6:27,1.0,10.0,WAS 19,16.0,0.0,Brian Robinson right end for 6 yards (tackle by Terrel Bernard),0.15,0.48,3.0,2023,35
+3.0,5:49,2.0,4.0,WAS 25,16.0,0.0,Brian Robinson left end for 13 yards (tackle by Taron Johnson and Christian Benford),0.48,1.47,3.0,2023,35
+3.0,5:05,1.0,10.0,WAS 38,16.0,0.0,Sam Howell sacked by Leonard Floyd for -1 yards,1.47,0.79,3.0,2023,35
+3.0,4:24,2.0,11.0,WAS 37,16.0,0.0,Sam Howell sacked by Leonard Floyd for -6 yards,0.79,-0.69,3.0,2023,35
+3.0,3:42,3.0,17.0,WAS 31,16.0,0.0,"Sam Howell pass complete to Brian Robinson for no gain. Penalty on Nick Gates: Ineligible Downfield Pass, 5 yards (accepted) (no play)",-0.69,-1.35,3.0,2023,35
+3.0,3:21,3.0,22.0,WAS 26,16.0,0.0,Sam Howell pass complete short left to Antonio Gibson for -1 yards (tackle by Christian Benford),-1.35,-1.7,3.0,2023,35
+3.0,2:38,4.0,23.0,WAS 25,16.0,0.0,"Tress Way punts 48 yards, returned by Deonte Harty for 4 yards (tackle by Christian Holmes)",-1.7,-1.0,3.0,2023,35
+3.0,2:28,1.0,10.0,BUF 31,16.0,0.0,James Cook right tackle for 3 yards (tackle by Darrick Forrest),1.0,0.87,3.0,2023,35
+3.0,1:50,2.0,7.0,BUF 34,16.0,0.0,Josh Allen pass complete deep left to Stefon Diggs for 20 yards (tackle by Kamren Curl),0.87,2.52,3.0,2023,35
+3.0,1:07,1.0,10.0,WAS 46,16.0,0.0,James Cook right tackle for 5 yards (tackle by Montez Sweat and Cody Barton),2.52,2.65,3.0,2023,35
+3.0,0:28,2.0,5.0,WAS 41,16.0,0.0,Latavius Murray right guard for 3 yards (tackle by Daron Payne),2.65,2.35,3.0,2023,35
+4.0,15:00,3.0,2.0,WAS 38,16.0,0.0,Damien Harris left end for 1 yard (tackle by Jamin Davis and Kamren Curl),2.35,0.79,3.0,2023,35
+4.0,14:18,4.0,1.0,WAS 37,16.0,0.0,Josh Allen pass incomplete short right intended for Stefon Diggs (defended by Daron Payne),0.79,-1.4,3.0,2023,35
+4.0,14:16,1.0,10.0,WAS 37,16.0,0.0,"Sam Howell pass complete short middle to Antonio Gibson for -2 yards. Antonio Gibson fumbles (forced by Taron Johnson), recovered by Terrel Bernard at WAS-30 and returned for -1 yards (tackle by Taron Johnson)",1.4,-3.51,3.0,2023,35
+4.0,14:05,1.0,10.0,WAS 31,16.0,0.0,Josh Allen pass complete short middle to James Cook for 10 yards (tackle by Jamin Davis and Cody Barton),3.51,4.17,3.0,2023,35
+4.0,13:25,1.0,10.0,WAS 21,16.0,0.0,Josh Allen pass complete short left to Stefon Diggs for 3 yards (tackle by Kamren Curl),4.17,4.04,3.0,2023,35
+4.0,12:47,2.0,7.0,WAS 18,16.0,0.0,James Cook right end for 5 yards (tackle by Cody Barton and Kendall Fuller),4.04,4.24,3.0,2023,35
+4.0,12:07,3.0,2.0,WAS 13,16.0,0.0,Josh Allen pass complete short right to Latavius Murray for 6 yards (tackle by Jamin Davis and Kendall Fuller),4.24,5.6,3.0,2023,35
+4.0,11:28,1.0,7.0,WAS 7,16.0,0.0,Deonte Harty right end for -3 yards (tackle by Emmanuel Forbes),5.6,4.19,3.0,2023,35
+4.0,10:43,2.0,10.0,WAS 10,22.0,0.0,"Josh Allen scrambles up the middle for 10 yards, touchdown",4.19,7.0,3.0,2023,35
+4.0,10:37,,,WAS 15,23.0,0.0,Tyler Bass kicks extra point good,0.0,0.0,3.0,2023,35
+4.0,10:37,,,BUF 35,23.0,0.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.61,3.0,2023,35
+4.0,10:37,1.0,10.0,WAS 25,23.0,0.0,Sam Howell pass complete short middle to John Bates for 5 yards (tackle by Tre'Davious White),0.61,0.74,3.0,2023,35
+4.0,10:16,2.0,5.0,WAS 30,23.0,0.0,Sam Howell pass incomplete short middle intended for Antonio Gibson (defended by Jordan Phillips),0.74,0.04,3.0,2023,35
+4.0,10:12,3.0,5.0,WAS 30,29.0,0.0,"Sam Howell pass short left intended for Jahan Dotson is intercepted by A.J. Epenesa at WAS-32 and returned for 32 yards, touchdown",0.04,-7.0,3.0,2023,35
+4.0,10:01,,,WAS 15,30.0,0.0,Tyler Bass kicks extra point good,0.0,0.0,3.0,2023,35
+4.0,10:01,,,BUF 35,30.0,0.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.61,3.0,2023,35
+4.0,10:01,1.0,10.0,WAS 25,30.0,0.0,Sam Howell pass complete short middle to Cole Turner for 4 yards (tackle by Tre'Davious White),0.61,0.6,3.0,2023,35
+4.0,9:38,2.0,6.0,WAS 29,30.0,0.0,Sam Howell sacked by Ed Oliver for -6 yards,0.6,-0.89,3.0,2023,35
+4.0,8:54,3.0,12.0,WAS 23,30.0,0.0,Sam Howell sacked by Gregory Rousseau for -4 yards,-0.89,-2.14,3.0,2023,35
+4.0,8:19,4.0,16.0,WAS 19,30.0,0.0,"Tress Way punts 45 yards, fair catch by Deonte Harty at BUF-36",-2.14,-1.33,3.0,2023,35
+4.0,8:12,1.0,10.0,BUF 36,30.0,0.0,James Cook left guard for 10 yards (tackle by Darrick Forrest and Kendall Fuller),1.33,1.99,3.0,2023,35
+4.0,7:28,1.0,10.0,BUF 46,30.0,0.0,Latavius Murray right end for 2 yards (tackle by Chase Young),1.99,1.72,3.0,2023,35
+4.0,6:43,2.0,8.0,BUF 48,30.0,0.0,Damien Harris left end for 1 yard (tackle by Kendall Fuller),1.72,1.16,3.0,2023,35
+4.0,5:59,3.0,7.0,BUF 49,30.0,0.0,Latavius Murray up the middle for 7 yards (tackle by Cody Barton and Jamin Davis),1.16,2.65,3.0,2023,35
+4.0,5:21,1.0,10.0,WAS 44,30.0,0.0,James Cook left end for 6 yards (tackle by Darrick Forrest and Cody Barton),2.65,2.92,3.0,2023,35
+4.0,4:38,2.0,4.0,WAS 38,30.0,0.0,James Cook left end for 34 yards (tackle by Benjamin St-Juste),2.92,6.28,3.0,2023,35
+4.0,3:49,,,,,,Timeout #1 by Buffalo Bills,,,3.0,2023,35
+4.0,3:49,1.0,4.0,WAS 4,30.0,0.0,Latavius Murray left tackle for 1 yard (tackle by Daron Payne and Jamin Davis),6.28,5.53,3.0,2023,35
+4.0,3:04,2.0,3.0,WAS 3,30.0,0.0,James Cook left guard for 1 yard (tackle by Cody Barton),5.53,4.95,3.0,2023,35
+4.0,2:19,3.0,2.0,WAS 2,36.0,0.0,"Latavius Murray right guard for 2 yards, touchdown",4.95,7.0,3.0,2023,35
+4.0,2:15,,,WAS 15,37.0,0.0,Tyler Bass kicks extra point good,0.0,0.0,3.0,2023,35
+4.0,2:15,,,BUF 35,37.0,0.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.61,3.0,2023,35
+4.0,2:15,1.0,10.0,WAS 25,37.0,0.0,Sam Howell pass complete short left to Terry McLaurin for 12 yards (tackle by Dane Jackson),0.61,1.4,3.0,2023,35
+4.0,2:00,1.0,10.0,WAS 37,37.0,0.0,Sam Howell pass complete short middle to John Bates for 7 yards (tackle by Siran Neal and Dorian Williams),1.4,1.8,3.0,2023,35
+4.0,1:36,2.0,3.0,WAS 44,37.0,0.0,Sam Howell pass complete short middle to Jahan Dotson for 15 yards (tackle by Cameron Lewis),1.8,2.85,3.0,2023,35
+4.0,1:15,1.0,10.0,BUF 41,37.0,0.0,"Sam Howell pass incomplete intended for Curtis Samuel Replay Assistant challenged the pass completion ruling, and the original play was overturned. Sam Howell pass complete deep left to Curtis Samuel for 17 yards",2.85,3.97,3.0,2023,35
+4.0,1:10,1.0,10.0,BUF 24,37.0,0.0,Sam Howell sacked by A.J. Epenesa for -4 yards,3.97,2.89,3.0,2023,35
+4.0,1:02,,,,,,Timeout #1 by Washington Commanders,,,3.0,2023,35
+4.0,1:02,2.0,14.0,BUF 28,37.0,0.0,Sam Howell sacked by DaQuan Jones for -5 yards,2.89,1.55,3.0,2023,35
+4.0,0:55,,,,,,Timeout #2 by Washington Commanders,,,3.0,2023,35
+4.0,0:55,3.0,19.0,BUF 33,37.0,0.0,Sam Howell pass incomplete short right intended for Curtis Samuel,1.55,1.15,3.0,2023,35
+4.0,0:50,4.0,19.0,BUF 33,37.0,3.0,Joey Slye 51 yard field goal good,1.15,3.0,3.0,2023,35
+4.0,0:46,,,WAS 35,37.0,3.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,3.0,2023,35
+4.0,0:46,1.0,10.0,BUF 25,37.0,3.0,Kyle Allen kneels for -1 yards,0.61,-0.07,3.0,2023,35
+4.0,0:18,2.0,11.0,BUF 24,37.0,3.0,Kyle Allen kneels for -1 yards,-0.07,-0.89,3.0,2023,35

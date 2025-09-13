@@ -1,0 +1,163 @@
+Quarter,Time,Down,ToGo,Location,KAN,BUF,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Bills won the coin toss and deferred, Chiefs to receive the opening kickoff.",,,11.0,2024,164
+1.0,15:00,,,BUF 35,0.0,0.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.94,11.0,2024,164
+1.0,15:00,1.0,10.0,KAN 30,0.0,0.0,Xavier Worthy right end for 7 yards (tackle by Taylor Rapp),0.94,1.34,11.0,2024,164
+1.0,14:23,2.0,3.0,KAN 37,0.0,0.0,"Patrick Mahomes pass deep right intended for Noah Gray is intercepted by Taylor Rapp at BUF-45 and returned for 5 yards (tackle by JuJu Smith-Schuster). Penalty on A.J. Epenesa: Unnecessary Roughness / Defense, 15 yards (accepted)",1.34,-1.27,11.0,2024,164
+1.0,14:15,1.0,10.0,BUF 35,0.0,0.0,Josh Allen pass complete short left to James Cook for 1 yard (tackle by Trent McDuffie),1.27,0.86,11.0,2024,164
+1.0,13:39,2.0,9.0,BUF 36,0.0,0.0,James Cook right guard for 3 yards (tackle by Nazeeh Johnson and Drue Tranquill),0.86,0.56,11.0,2024,164
+1.0,12:59,3.0,6.0,BUF 39,0.0,0.0,Josh Allen pass complete deep left to Amari Cooper for 30 yards (tackle by Nazeeh Johnson),0.56,3.51,11.0,2024,164
+1.0,12:13,1.0,10.0,KAN 31,0.0,0.0,Josh Allen pass complete short right to Khalil Shakir for 11 yards (tackle by Drue Tranquill),3.51,4.24,11.0,2024,164
+1.0,11:33,1.0,10.0,KAN 20,0.0,0.0,Josh Allen pass incomplete deep right,4.24,3.69,11.0,2024,164
+1.0,11:26,2.0,10.0,KAN 20,0.0,0.0,Josh Allen pass complete short left to James Cook for 2 yards (tackle by Nick Bolton and Justin Reid),3.69,3.22,11.0,2024,164
+1.0,10:43,3.0,8.0,KAN 18,0.0,0.0,Josh Allen pass complete short right to Curtis Samuel for 15 yards (tackle by Bryan Cook),3.22,6.51,11.0,2024,164
+1.0,10:04,1.0,3.0,KAN 3,0.0,6.0,"James Cook right end for 3 yards, touchdown",6.51,7.0,11.0,2024,164
+1.0,10:00,,,KAN 15,0.0,6.0,Tyler Bass kicks extra point no good,0.0,-1.0,11.0,2024,164
+1.0,10:00,,,BUF 35,0.0,6.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.94,11.0,2024,164
+1.0,10:00,1.0,10.0,KAN 30,0.0,6.0,Patrick Mahomes pass incomplete short left intended for Mecole Hardman (defended by A.J. Epenesa),0.94,0.39,11.0,2024,164
+1.0,9:55,2.0,10.0,KAN 30,0.0,6.0,Kareem Hunt up the middle for 5 yards (tackle by Taron Johnson and Terrel Bernard),0.39,0.37,11.0,2024,164
+1.0,9:17,3.0,5.0,KAN 35,0.0,6.0,Patrick Mahomes sacked by Terrel Bernard for -6 yards,0.37,-1.44,11.0,2024,164
+1.0,8:34,4.0,11.0,KAN 29,0.0,6.0,"Matt Araiza punts 46 yards, returned by Brandon Codrington for 10 yards (tackle by Keith Taylor and Chamarri Conner). Penalty on Joshua Williams: Player Out of Bounds on a Punt, 5 yards (accepted)",-1.44,-1.6,11.0,2024,164
+1.0,8:22,1.0,10.0,BUF 40,0.0,6.0,Josh Allen pass incomplete deep left intended for Amari Cooper,1.6,1.05,11.0,2024,164
+1.0,8:17,2.0,10.0,BUF 40,0.0,6.0,Ray Davis left guard for 1 yard (tackle by George Karlaftis),1.05,0.5,11.0,2024,164
+1.0,7:35,3.0,9.0,BUF 41,0.0,6.0,Josh Allen pass complete short middle to Khalil Shakir for 15 yards (tackle by Bryan Cook),0.5,2.65,11.0,2024,164
+1.0,6:55,1.0,10.0,KAN 44,0.0,6.0,James Cook right end for no gain (tackle by Chamarri Conner),2.65,2.11,11.0,2024,164
+1.0,6:15,2.0,10.0,KAN 44,0.0,6.0,Josh Allen right guard for 2 yards (tackle by Chris Jones),2.11,1.69,11.0,2024,164
+1.0,5:33,3.0,8.0,KAN 42,0.0,6.0,Josh Allen pass incomplete short right,1.69,0.46,11.0,2024,164
+1.0,5:28,4.0,8.0,KAN 42,0.0,6.0,"Penalty on BUF: Delay of Game, 5 yards (accepted) (no play)",0.46,0.13,11.0,2024,164
+1.0,5:28,4.0,13.0,KAN 47,0.0,6.0,"Sam Martin punts 35 yards, fair catch by Mecole Hardman at KC-12",0.13,0.35,11.0,2024,164
+1.0,5:20,1.0,10.0,KAN 12,0.0,6.0,Kareem Hunt up the middle for 4 yards (tackle by Dorian Williams and Austin Johnson),-0.35,-0.37,11.0,2024,164
+1.0,4:43,2.0,6.0,KAN 16,0.0,6.0,"Patrick Mahomes pass complete short right to DeAndre Hopkins for 5 yards (tackle by Christian Benford) BUF challenged the pass completion ruling, and the play was upheld.",-0.37,-0.37,11.0,2024,164
+1.0,4:13,3.0,1.0,KAN 21,0.0,6.0,Kareem Hunt up the middle for 4 yards (tackle by Austin Johnson and Terrel Bernard),-0.37,0.61,11.0,2024,164
+1.0,3:36,1.0,10.0,KAN 25,0.0,6.0,Patrick Mahomes pass complete deep right to Xavier Worthy for 31 yards (tackle by Taron Johnson and Taylor Rapp),0.61,2.65,11.0,2024,164
+1.0,2:53,1.0,10.0,BUF 44,0.0,6.0,Kareem Hunt right guard for 5 yards (tackle by Terrel Bernard),2.65,2.78,11.0,2024,164
+1.0,2:16,2.0,5.0,BUF 39,0.0,6.0,Kareem Hunt left end for 4 yards (tackle by Damar Hamlin),2.78,2.61,11.0,2024,164
+1.0,1:33,3.0,1.0,BUF 35,0.0,6.0,Patrick Mahomes pass complete short middle to Mike Caliendo for 5 yards (tackle by Taron Johnson),2.61,3.58,11.0,2024,164
+1.0,1:03,1.0,10.0,BUF 30,0.0,6.0,Patrick Mahomes pass complete short right to Xavier Worthy for 6 yards (tackle by Rasul Douglas),3.58,3.84,11.0,2024,164
+1.0,0:23,2.0,4.0,BUF 24,0.0,6.0,Patrick Mahomes pass incomplete short left intended for Travis Kelce,3.84,3.14,11.0,2024,164
+1.0,0:18,3.0,4.0,BUF 24,0.0,6.0,Patrick Mahomes pass complete short right to Xavier Worthy for 14 yards (tackle by Rasul Douglas),3.14,4.91,11.0,2024,164
+2.0,15:00,1.0,10.0,BUF 10,6.0,6.0,"Patrick Mahomes pass complete short right to Xavier Worthy for 10 yards, touchdown",4.91,7.0,11.0,2024,164
+2.0,14:53,,,BUF 15,7.0,6.0,Spencer Shrader kicks extra point good,0.0,0.0,11.0,2024,164
+2.0,14:53,,,KAN 35,7.0,6.0,"Spencer Shrader kicks off 65 yards, touchback.",0.0,0.94,11.0,2024,164
+2.0,14:53,1.0,10.0,BUF 30,7.0,6.0,Josh Allen pass complete short right to Curtis Samuel for 1 yard (tackle by Nazeeh Johnson),0.94,0.53,11.0,2024,164
+2.0,14:14,2.0,9.0,BUF 31,7.0,6.0,Josh Allen pass incomplete short right intended for James Cook,0.53,-0.16,11.0,2024,164
+2.0,14:07,3.0,9.0,BUF 31,7.0,6.0,"Josh Allen pass complete short middle to Khalil Shakir for no gain (tackle by Nick Bolton and Chamarri Conner). Penalty on Felix Anudike-Uzomah: Defensive Holding, 5 yards (accepted) (no play)",-0.16,1.33,11.0,2024,164
+2.0,13:54,1.0,10.0,BUF 36,7.0,6.0,Josh Allen scrambles left end for 3 yards (tackle by Leo Chenal and Nazeeh Johnson),1.33,1.2,11.0,2024,164
+2.0,13:09,2.0,7.0,BUF 39,7.0,6.0,James Cook up the middle for 5 yards (tackle by Drue Tranquill and Michael Danna),1.2,1.16,11.0,2024,164
+2.0,12:29,3.0,2.0,BUF 44,7.0,6.0,Josh Allen left guard for 2 yards (tackle by Michael Danna),1.16,1.99,11.0,2024,164
+2.0,11:47,1.0,10.0,BUF 46,7.0,6.0,Josh Allen pass complete deep left to Dawson Knox for 24 yards (tackle by Leo Chenal),1.99,3.58,11.0,2024,164
+2.0,11:10,1.0,10.0,KAN 30,7.0,6.0,James Cook left guard for -1 yards (tackle by Tershawn Wharton),3.58,2.9,11.0,2024,164
+2.0,10:39,2.0,11.0,KAN 31,7.0,6.0,"Josh Allen pass complete deep right to Amari Cooper for 25 yards KAN challenged the pass completion ruling, and the play was upheld.",2.9,5.83,11.0,2024,164
+2.0,10:13,1.0,6.0,KAN 6,7.0,12.0,"James Cook up the middle for 6 yards, touchdown",5.83,7.0,11.0,2024,164
+2.0,10:08,,,KAN 15,7.0,13.0,Tyler Bass kicks extra point good,0.0,0.0,11.0,2024,164
+2.0,10:08,,,BUF 35,7.0,13.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.94,11.0,2024,164
+2.0,10:08,1.0,10.0,KAN 30,7.0,13.0,Patrick Mahomes pass incomplete deep left intended for Xavier Worthy,0.94,0.39,11.0,2024,164
+2.0,10:01,2.0,10.0,KAN 30,7.0,13.0,Patrick Mahomes pass incomplete short right,0.39,-0.3,11.0,2024,164
+2.0,9:56,3.0,10.0,KAN 30,7.0,13.0,"Penalty on Trey Smith: Unnecessary Roughness / Offense, 15 yards (offset) Penalty on A.J. Epenesa: Unnecessary Roughness / Defense, 15 yards (offset) (no play)",-0.3,-0.3,11.0,2024,164
+2.0,9:56,3.0,10.0,KAN 30,7.0,13.0,Patrick Mahomes sacked by Von Miller for -9 yards,-0.3,-1.96,11.0,2024,164
+2.0,9:19,4.0,19.0,KAN 21,7.0,13.0,"Matt Araiza punts 45 yards, returned by Brandon Codrington for 25 yards (tackle by Peyton Hendershot)",-1.96,-2.85,11.0,2024,164
+2.0,9:06,1.0,10.0,KAN 41,7.0,13.0,James Cook right end for 1 yard (tackle by Justin Reid),2.85,2.44,11.0,2024,164
+2.0,8:24,2.0,9.0,KAN 40,7.0,13.0,Josh Allen pass incomplete short left intended for Curtis Samuel,2.44,1.75,11.0,2024,164
+2.0,8:21,3.0,9.0,KAN 40,7.0,13.0,Josh Allen scrambles left tackle for 6 yards (tackle by Chamarri Conner),1.75,1.09,11.0,2024,164
+2.0,7:38,4.0,3.0,KAN 34,7.0,13.0,Josh Allen pass short right intended for Dawson Knox is intercepted by Chamarri Conner at KC-31 and returned for 29 yards (tackle by Ryan Van Demark),1.09,-2.92,11.0,2024,164
+2.0,7:25,1.0,10.0,BUF 40,7.0,13.0,Kareem Hunt left guard for 2 yards (tackle by A.J. Epenesa and Austin Johnson),2.92,2.64,11.0,2024,164
+2.0,6:51,2.0,8.0,BUF 38,7.0,13.0,Patrick Mahomes pass complete short middle to Noah Gray for 14 yards (tackle by Terrel Bernard and A.J. Epenesa),2.64,3.97,11.0,2024,164
+2.0,6:13,1.0,10.0,BUF 24,7.0,13.0,Mecole Hardman right end for 9 yards (tackle by Taron Johnson),3.97,4.85,11.0,2024,164
+2.0,5:39,2.0,1.0,BUF 15,7.0,13.0,Patrick Mahomes pass complete short left to Mecole Hardman for no gain (tackle by Casey Toohill),4.85,4.17,11.0,2024,164
+2.0,5:04,3.0,1.0,BUF 15,7.0,13.0,Carson Steele left guard for 2 yards (tackle by DaQuan Jones),4.17,4.71,11.0,2024,164
+2.0,4:23,1.0,10.0,BUF 13,7.0,13.0,Patrick Mahomes pass complete short right to Peyton Hendershot for 11 yards (tackle by Christian Benford),4.71,6.74,11.0,2024,164
+2.0,3:37,,,,,,Timeout #2 by Kansas City Chiefs,,,11.0,2024,164
+2.0,3:37,1.0,2.0,BUF 2,7.0,13.0,Patrick Mahomes pass incomplete short middle intended for Samaje Perine,6.74,5.72,11.0,2024,164
+2.0,3:33,2.0,2.0,BUF 2,7.0,13.0,Kareem Hunt right guard for no gain (tackle by A.J. Epenesa),5.72,4.95,11.0,2024,164
+2.0,2:53,3.0,2.0,BUF 2,13.0,13.0,"Patrick Mahomes pass complete short middle to Noah Gray for 2 yards, touchdown",4.95,7.0,11.0,2024,164
+2.0,2:51,,,BUF 15,14.0,13.0,Spencer Shrader kicks extra point good,0.0,0.0,11.0,2024,164
+2.0,2:51,,,KAN 35,14.0,13.0,"Spencer Shrader kicks off 65 yards, returned by Brandon Codrington for 23 yards (tackle by Christian Roland-Wallace and Cam Jones)",0.0,0.48,11.0,2024,164
+2.0,2:44,1.0,10.0,BUF 23,14.0,13.0,Josh Allen pass complete short right to Dawson Knox for 5 yards (tackle by Justin Reid),0.48,0.61,11.0,2024,164
+2.0,2:00,2.0,5.0,BUF 28,14.0,13.0,Ty Johnson left end for 8 yards (tackle by Chamarri Conner),0.61,1.33,11.0,2024,164
+2.0,1:39,1.0,10.0,BUF 36,14.0,13.0,Josh Allen pass complete deep left to Curtis Samuel for 21 yards (tackle by Jaden Hicks),1.33,2.72,11.0,2024,164
+2.0,1:16,1.0,10.0,KAN 43,14.0,13.0,Ty Johnson left guard for 5 yards (tackle by Chris Jones),2.72,2.85,11.0,2024,164
+2.0,0:51,2.0,5.0,KAN 38,14.0,13.0,Josh Allen pass complete short right to Khalil Shakir for 4 yards (tackle by Chamarri Conner),2.85,2.68,11.0,2024,164
+2.0,0:47,,,,,,Timeout #2 by Buffalo Bills,,,11.0,2024,164
+2.0,0:47,3.0,1.0,KAN 34,14.0,13.0,Ty Johnson right guard for 6 yards (tackle by Drue Tranquill),2.68,3.71,11.0,2024,164
+2.0,0:31,1.0,10.0,KAN 28,14.0,13.0,Josh Allen pass complete short right to Khalil Shakir for 2 yards,3.71,3.44,11.0,2024,164
+2.0,0:27,2.0,8.0,KAN 26,14.0,13.0,Josh Allen pass complete short right to Mack Hollins for 12 yards (tackle by Justin Reid),3.44,4.65,11.0,2024,164
+2.0,0:20,1.0,10.0,KAN 14,14.0,13.0,Josh Allen pass incomplete short right intended for Ty Johnson,4.65,4.0,11.0,2024,164
+2.0,0:16,2.0,10.0,KAN 14,14.0,13.0,Josh Allen pass complete short left to Khalil Shakir for -1 yards (tackle by Chamarri Conner),4.0,3.06,11.0,2024,164
+2.0,0:10,,,,,,Timeout #3 by Buffalo Bills,,,11.0,2024,164
+2.0,0:10,3.0,11.0,KAN 15,14.0,13.0,Josh Allen pass incomplete short right intended for Khalil Shakir,3.06,2.44,11.0,2024,164
+2.0,0:05,4.0,11.0,KAN 15,14.0,16.0,Tyler Bass 33 yard field goal good,2.44,3.0,11.0,2024,164
+3.0,15:00,,,KAN 35,14.0,16.0,"Spencer Shrader kicks off 65 yards, touchback.",0.0,0.94,11.0,2024,164
+3.0,15:00,1.0,10.0,BUF 30,14.0,16.0,Josh Allen pass complete short right to James Cook for 3 yards (tackle by Chamarri Conner),0.94,0.8,11.0,2024,164
+3.0,14:21,2.0,7.0,BUF 33,14.0,16.0,Josh Allen pass incomplete short left intended for Khalil Shakir (defended by Michael Danna),0.8,0.1,11.0,2024,164
+3.0,14:19,3.0,7.0,BUF 33,14.0,16.0,Josh Allen pass incomplete deep right intended for Dawson Knox,0.1,-1.18,11.0,2024,164
+3.0,14:13,4.0,7.0,BUF 33,14.0,16.0,"Sam Martin punts 47 yards, fair catch by Mecole Hardman at KC-20",-1.18,-0.28,11.0,2024,164
+3.0,14:06,1.0,10.0,KAN 20,14.0,16.0,Kareem Hunt left guard for 7 yards (tackle by Damar Hamlin and DaQuan Jones),0.28,0.68,11.0,2024,164
+3.0,13:29,2.0,3.0,KAN 27,14.0,16.0,Patrick Mahomes pass complete short right to Travis Kelce for 2 yards (tackle by Christian Benford),0.68,0.23,11.0,2024,164
+3.0,12:53,3.0,1.0,KAN 29,14.0,16.0,Kareem Hunt right guard for no gain (tackle by Ed Oliver),0.23,-1.44,11.0,2024,164
+3.0,12:07,4.0,1.0,KAN 29,14.0,16.0,"Penalty on KAN: Delay of Game, 5 yards (accepted) (no play)",-1.44,-1.77,11.0,2024,164
+3.0,11:58,4.0,6.0,KAN 24,14.0,16.0,"Matt Araiza punts 58 yards, returned by Brandon Codrington for 15 yards (tackle by Samaje Perine and Joshua Williams)",-1.77,-1.14,11.0,2024,164
+3.0,11:43,1.0,10.0,BUF 33,14.0,16.0,James Cook right guard for 2 yards (tackle by Leo Chenal),1.14,0.86,11.0,2024,164
+3.0,10:58,2.0,8.0,BUF 35,14.0,16.0,Josh Allen pass complete short left to Zach Davidson for 5 yards (tackle by Nick Bolton),0.86,0.83,11.0,2024,164
+3.0,10:10,3.0,3.0,BUF 40,14.0,16.0,Josh Allen pass complete short right to Dawson Knox for 7 yards (tackle by Nazeeh Johnson),0.83,2.06,11.0,2024,164
+3.0,9:31,1.0,10.0,BUF 47,14.0,16.0,Josh Allen scrambles up the middle for 1 yard (tackle by Drue Tranquill),2.06,1.65,11.0,2024,164
+3.0,8:50,2.0,9.0,BUF 48,14.0,16.0,Ray Davis up the middle for 2 yards (tackle by Tershawn Wharton),1.65,1.22,11.0,2024,164
+3.0,8:07,3.0,7.0,BUF 50,14.0,16.0,Josh Allen pass incomplete short left intended for Khalil Shakir,1.22,-0.06,11.0,2024,164
+3.0,8:04,4.0,7.0,BUF 50,14.0,16.0,"Sam Martin punts 44 yards, returned by Mecole Hardman for 8 yards (tackle by Cameron Lewis)",-0.06,0.28,11.0,2024,164
+3.0,7:54,1.0,10.0,KAN 14,14.0,16.0,Kareem Hunt left guard for 4 yards (tackle by Jordan Phillips and Casey Toohill),-0.28,-0.21,11.0,2024,164
+3.0,7:15,2.0,6.0,KAN 18,14.0,16.0,Patrick Mahomes pass complete short right to DeAndre Hopkins for 13 yards (tackle by Damar Hamlin),-0.21,1.0,11.0,2024,164
+3.0,6:32,1.0,10.0,KAN 31,14.0,16.0,Patrick Mahomes pass complete short right to Mecole Hardman for 12 yards (tackle by Taylor Rapp),1.0,1.8,11.0,2024,164
+3.0,6:02,1.0,10.0,KAN 43,14.0,16.0,Kareem Hunt up the middle for 6 yards (tackle by Taylor Rapp and Terrel Bernard),1.8,2.06,11.0,2024,164
+3.0,5:18,2.0,4.0,KAN 49,14.0,16.0,"Patrick Mahomes scrambles left end for no gain (tackle by Gregory Rousseau). Penalty on Wanya Morris: Offensive Holding, 10 yards (accepted) (no play)",2.06,0.71,11.0,2024,164
+3.0,4:49,2.0,14.0,KAN 39,14.0,16.0,Patrick Mahomes pass incomplete deep right intended for DeAndre Hopkins (defended by Christian Benford),0.71,0.04,11.0,2024,164
+3.0,4:42,3.0,14.0,KAN 39,14.0,16.0,Patrick Mahomes pass complete short right to Travis Kelce for 6 yards (tackle by Cameron Lewis),0.04,-0.39,11.0,2024,164
+3.0,4:02,4.0,8.0,KAN 45,14.0,16.0,"Matt Araiza punts 44 yards, returned by Brandon Codrington for 6 yards",-0.39,0.06,11.0,2024,164
+3.0,3:54,1.0,10.0,BUF 17,14.0,16.0,James Cook right tackle for 1 yard (tackle by Felix Anudike-Uzomah and Drue Tranquill),-0.06,-0.42,11.0,2024,164
+3.0,3:15,2.0,9.0,BUF 18,14.0,16.0,Josh Allen pass complete short left to James Cook for no gain (tackle by Nazeeh Johnson),-0.42,-1.13,11.0,2024,164
+3.0,2:29,3.0,9.0,BUF 18,14.0,16.0,"Josh Allen pass incomplete deep left intended for Curtis Samuel. Penalty on Chamarri Conner: Defensive Pass Interference, 22 yards (accepted) (no play)",-1.13,1.6,11.0,2024,164
+3.0,2:23,1.0,10.0,BUF 40,14.0,16.0,Ray Davis right end for 2 yards (tackle by Leo Chenal),1.6,1.32,11.0,2024,164
+3.0,1:40,2.0,8.0,BUF 42,14.0,16.0,Josh Allen pass complete short left to Khalil Shakir for 7 yards (tackle by Nick Bolton and Michael Danna),1.32,1.55,11.0,2024,164
+3.0,1:19,3.0,1.0,BUF 49,14.0,16.0,Josh Allen left guard for 2 yards (tackle by Michael Danna and Drue Tranquill),1.55,2.32,11.0,2024,164
+3.0,0:40,1.0,10.0,KAN 49,14.0,16.0,Josh Allen pass complete short right to Khalil Shakir for 22 yards (tackle by Justin Reid),2.32,3.78,11.0,2024,164
+4.0,15:00,1.0,10.0,KAN 27,14.0,16.0,Josh Allen pass complete short right to Curtis Samuel for 9 yards (tackle by Nick Bolton),3.78,4.53,11.0,2024,164
+4.0,14:22,2.0,1.0,KAN 18,14.0,16.0,Ray Davis left tackle for 6 yards (tackle by Justin Reid and Bryan Cook),4.53,4.78,11.0,2024,164
+4.0,13:39,1.0,10.0,KAN 12,14.0,16.0,Ray Davis right tackle for no gain (tackle by Nick Bolton and Nazeeh Johnson),4.78,4.1,11.0,2024,164
+4.0,12:57,2.0,10.0,KAN 12,14.0,22.0,"Josh Allen pass complete short right to Curtis Samuel for 12 yards, touchdown",4.1,7.0,11.0,2024,164
+4.0,12:51,,,KAN 15,14.0,23.0,Tyler Bass kicks extra point good,0.0,0.0,11.0,2024,164
+4.0,12:51,,,BUF 35,14.0,23.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.94,11.0,2024,164
+4.0,12:51,1.0,10.0,KAN 30,14.0,23.0,Patrick Mahomes pass complete short left to Carson Steele for 5 yards (tackle by A.J. Epenesa),0.94,1.07,11.0,2024,164
+4.0,12:16,2.0,5.0,KAN 35,14.0,23.0,Patrick Mahomes pass complete short left to Noah Gray for 6 yards (tackle by Terrel Bernard and Dorian Williams),1.07,1.66,11.0,2024,164
+4.0,11:44,1.0,10.0,KAN 41,14.0,23.0,Kareem Hunt left guard for 17 yards (tackle by Taylor Rapp),1.66,2.79,11.0,2024,164
+4.0,11:11,1.0,10.0,BUF 42,14.0,23.0,Patrick Mahomes pass incomplete short right,2.79,2.24,11.0,2024,164
+4.0,11:02,2.0,10.0,BUF 42,14.0,23.0,Patrick Mahomes pass complete short left to DeAndre Hopkins for 11 yards (tackle by Terrel Bernard),2.24,3.51,11.0,2024,164
+4.0,10:27,1.0,10.0,BUF 31,14.0,23.0,Patrick Mahomes pass complete short right to Justin Watson for 16 yards (tackle by Taron Johnson),3.51,4.58,11.0,2024,164
+4.0,9:48,1.0,10.0,BUF 15,14.0,23.0,Kareem Hunt right guard for 2 yards (tackle by Von Miller and Dorian Williams),4.58,4.39,11.0,2024,164
+4.0,9:14,2.0,7.0,BUF 13,14.0,23.0,Patrick Mahomes pass complete short left to JuJu Smith-Schuster for 8 yards (tackle by Taylor Rapp and Damar Hamlin),4.39,6.06,11.0,2024,164
+4.0,8:37,1.0,5.0,BUF 5,14.0,23.0,"Patrick Mahomes pass incomplete short middle intended for DeAndre Hopkins. Penalty on Christian Benford: Defensive Pass Interference, 4 yards (accepted) (no play)",6.06,6.97,11.0,2024,164
+4.0,8:34,1.0,1.0,BUF 1,14.0,23.0,Kareem Hunt up the middle for no gain (tackle by Dorian Williams),6.97,5.91,11.0,2024,164
+4.0,7:59,2.0,1.0,BUF 1,20.0,23.0,"Patrick Mahomes pass complete short right to Noah Gray for 1 yard, touchdown",5.91,7.0,11.0,2024,164
+4.0,7:53,,,BUF 15,21.0,23.0,Spencer Shrader kicks extra point good,0.0,0.0,11.0,2024,164
+4.0,7:53,,,KAN 35,21.0,23.0,"Spencer Shrader kicks off 65 yards, touchback.",0.0,0.94,11.0,2024,164
+4.0,7:53,1.0,10.0,BUF 30,21.0,23.0,Ty Johnson right tackle for -1 yards (tackle by Chris Jones),0.94,0.26,11.0,2024,164
+4.0,7:11,2.0,11.0,BUF 29,21.0,23.0,Josh Allen pass complete short left to Mack Hollins for 15 yards (tackle by Nazeeh Johnson),0.26,1.86,11.0,2024,164
+4.0,6:32,1.0,10.0,BUF 44,21.0,23.0,Josh Allen pass incomplete deep right intended for Quintin Morris,1.86,1.32,11.0,2024,164
+4.0,6:25,,,,,,Timeout #1 by Buffalo Bills,,,11.0,2024,164
+4.0,6:25,2.0,10.0,BUF 44,21.0,23.0,Josh Allen scrambles up the middle for 9 yards (tackle by Chamarri Conner),1.32,1.82,11.0,2024,164
+4.0,6:03,3.0,1.0,KAN 47,21.0,23.0,Josh Allen left guard for 2 yards (tackle by Chris Jones),1.82,2.59,11.0,2024,164
+4.0,5:21,1.0,10.0,KAN 45,21.0,23.0,Josh Allen pass incomplete deep left intended for Khalil Shakir,2.59,2.04,11.0,2024,164
+4.0,5:17,2.0,10.0,KAN 45,21.0,23.0,Josh Allen pass complete short left to James Cook for 1 yard (tackle by Nick Bolton),2.04,1.49,11.0,2024,164
+4.0,4:34,3.0,9.0,KAN 44,21.0,23.0,Josh Allen pass complete short middle to Khalil Shakir for 10 yards (tackle by Bryan Cook),1.49,3.31,11.0,2024,164
+4.0,3:52,1.0,10.0,KAN 34,21.0,23.0,Josh Allen pass complete short right to Dawson Knox for 4 yards (tackle by Nick Bolton),3.31,3.31,11.0,2024,164
+4.0,3:11,2.0,6.0,KAN 30,21.0,23.0,Josh Allen right guard for 4 yards (tackle by Leo Chenal),3.31,3.14,11.0,2024,164
+4.0,2:31,3.0,2.0,KAN 26,21.0,23.0,Ty Johnson left guard for no gain (tackle by Chris Jones and Drue Tranquill),3.14,1.86,11.0,2024,164
+4.0,2:27,,,,,,Timeout #1 by Kansas City Chiefs,,,11.0,2024,164
+4.0,2:27,4.0,2.0,KAN 26,21.0,29.0,"Josh Allen scrambles right tackle for 26 yards, touchdown",1.86,7.0,11.0,2024,164
+4.0,2:17,,,KAN 15,21.0,30.0,Tyler Bass kicks extra point good,0.0,0.0,11.0,2024,164
+4.0,2:17,,,BUF 35,21.0,30.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.94,11.0,2024,164
+4.0,2:17,1.0,10.0,KAN 30,21.0,30.0,Patrick Mahomes pass complete short right to Samaje Perine for 11 yards (tackle by Taron Johnson),0.94,1.66,11.0,2024,164
+4.0,2:00,1.0,10.0,KAN 41,21.0,30.0,Patrick Mahomes pass complete short right to Samaje Perine for -3 yards (tackle by Cameron Lewis),1.66,0.72,11.0,2024,164
+4.0,1:40,2.0,13.0,KAN 38,21.0,30.0,Patrick Mahomes pass incomplete short middle intended for Samaje Perine (defended by Cameron Lewis),0.72,0.04,11.0,2024,164
+4.0,1:32,3.0,13.0,KAN 38,21.0,30.0,Patrick Mahomes pass complete short right to Justin Watson for 10 yards (tackle by Rasul Douglas),0.04,-0.19,11.0,2024,164
+4.0,1:24,,,,,,Timeout #2 by Kansas City Chiefs,,,11.0,2024,164
+4.0,1:24,4.0,3.0,KAN 48,21.0,30.0,"Patrick Mahomes scrambles up the middle for no gain (tackle by Cameron Lewis). Penalty on Jawaan Taylor: Offensive Holding, 10 yards (accepted) (no play)",-0.19,-0.85,11.0,2024,164
+4.0,1:17,4.0,13.0,KAN 38,21.0,30.0,Patrick Mahomes pass deep middle intended for Travis Kelce is intercepted by Terrel Bernard at BUF-29 and returned for no gain (tackle by Travis Kelce),-0.85,-0.87,11.0,2024,164
+4.0,1:07,1.0,10.0,BUF 29,21.0,30.0,Josh Allen kneels for -1 yards,0.87,0.19,11.0,2024,164
+4.0,0:39,2.0,11.0,BUF 28,21.0,30.0,Josh Allen kneels for -1 yards,0.19,-0.63,11.0,2024,164

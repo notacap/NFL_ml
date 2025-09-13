@@ -1,0 +1,193 @@
+Quarter,Time,Down,ToGo,Location,DAL,JAX,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Cowboys won the coin toss, Cowboys to receive the opening kickoff.",,,15.0,2022,216
+1,15:00,,,JAX 35,0.0,0.0,"Riley Patterson kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,216
+1,15:00,1.0,10.0,DAL 25,0.0,0.0,Ezekiel Elliott right guard for 5 yards (tackle by Arden Key and Josh Allen),0.61,0.74,15.0,2022,216
+1,14:29,2.0,5.0,DAL 30,0.0,0.0,Dak Prescott pass complete short right to Ezekiel Elliott for 6 yards (tackle by Rayshawn Jenkins),0.74,1.33,15.0,2022,216
+1,13:58,1.0,10.0,DAL 36,0.0,0.0,Dak Prescott sacked by and Arden Key for -3 yards and Folorunso Fatukasi for -3 yards,1.33,0.39,15.0,2022,216
+1,13:19,2.0,13.0,DAL 33,0.0,0.0,Ezekiel Elliott left guard for 5 yards (tackle by DaVon Hamilton and Rayshawn Jenkins),0.39,0.37,15.0,2022,216
+1,12:45,3.0,8.0,DAL 38,0.0,0.0,Dak Prescott pass complete deep left to CeeDee Lamb for 18 yards (tackle by Tre Herndon),0.37,2.65,15.0,2022,216
+1,12:02,1.0,10.0,JAX 44,0.0,0.0,Ezekiel Elliott left end for 2 yards (tackle by DaVon Hamilton and Devin Lloyd),2.65,2.38,15.0,2022,216
+1,11:28,2.0,8.0,JAX 42,0.0,0.0,CeeDee Lamb right end for 1 yard (tackle by Darious Williams),2.38,1.82,15.0,2022,216
+1,10:49,3.0,7.0,JAX 41,0.0,0.0,Dak Prescott pass incomplete short left intended for Noah Brown,1.82,0.53,15.0,2022,216
+1,10:43,4.0,7.0,JAX 41,0.0,0.0,"Penalty on DAL: Delay of Game, 5 yards (accepted) (no play)",0.53,0.2,15.0,2022,216
+1,10:43,4.0,12.0,JAX 46,0.0,0.0,"Bryan Anger punts 37 yards, fair catch by Jamal Agnew at JAC-9",0.2,0.38,15.0,2022,216
+1,10:37,1.0,10.0,JAX 9,0.0,0.0,Trevor Lawrence pass complete short left to Zay Jones for 9 yards (tackle by Donovan Wilson),-0.38,0.14,15.0,2022,216
+1,10:05,2.0,1.0,JAX 18,0.0,0.0,Travis Etienne up the middle for 5 yards (tackle by Carlos Watkins),0.14,0.48,15.0,2022,216
+1,9:30,1.0,10.0,JAX 23,0.0,0.0,Travis Etienne up the middle for 2 yards (tackle by Osa Odighizuwa and Micah Parsons),0.48,0.2,15.0,2022,216
+1,8:54,2.0,8.0,JAX 25,0.0,0.0,Trevor Lawrence pass complete short middle to Jamal Agnew for 7 yards (tackle by Anthony Barr),0.2,0.43,15.0,2022,216
+1,8:12,3.0,1.0,JAX 32,0.0,0.0,Travis Etienne right end for 11 yards (tackle by Malik Hooker and Neville Gallimore),0.43,1.8,15.0,2022,216
+1,7:35,1.0,10.0,JAX 43,0.0,0.0,Trevor Lawrence pass incomplete short right intended for Christian Kirk,1.8,1.25,15.0,2022,216
+1,7:30,2.0,10.0,JAX 43,0.0,0.0,"Travis Etienne up the middle for -2 yards. Travis Etienne fumbles, recovered by Donovan Wilson at JAC-41",1.25,-2.85,15.0,2022,216
+1,7:25,1.0,10.0,JAX 41,0.0,0.0,Dak Prescott pass complete short right to Tony Pollard for 9 yards (tackle by Foyesade Oluokun),2.85,3.52,15.0,2022,216
+1,6:48,2.0,1.0,JAX 32,0.0,0.0,Tony Pollard right guard for no gain (tackle by Roy Robertson-Harris and Rayshawn Jenkins),3.52,2.81,15.0,2022,216
+1,6:18,3.0,1.0,JAX 32,0.0,0.0,Tony Pollard right end for 3 yards (tackle by Roy Robertson-Harris),2.81,3.64,15.0,2022,216
+1,5:42,1.0,10.0,JAX 29,0.0,0.0,Tony Pollard up the middle for 11 yards (tackle by Rayshawn Jenkins and Andre Cisco),3.64,4.37,15.0,2022,216
+1,5:08,1.0,10.0,JAX 18,0.0,0.0,Ezekiel Elliott left guard for 8 yards (tackle by Tyson Campbell),4.37,5.23,15.0,2022,216
+1,4:39,2.0,2.0,JAX 10,6.0,0.0,"Ezekiel Elliott up the middle for 10 yards, touchdown",5.23,7.0,15.0,2022,216
+1,4:31,,,JAX 15,7.0,0.0,Brett Maher kicks extra point good,0.0,0.0,15.0,2022,216
+1,4:31,,,DAL 35,7.0,0.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,216
+1,4:31,1.0,10.0,JAX 25,7.0,0.0,Trevor Lawrence sacked by Micah Parsons for -7 yards,0.61,-0.98,15.0,2022,216
+1,3:50,2.0,17.0,JAX 18,7.0,0.0,Trevor Lawrence pass complete short middle to Evan Engram for 10 yards (tackle by Anthony Barr),-0.98,-0.23,15.0,2022,216
+1,3:06,3.0,7.0,JAX 28,7.0,0.0,Trevor Lawrence pass incomplete short right intended for Christian Kirk (defended by DaRon Bland),-0.23,-1.5,15.0,2022,216
+1,3:02,4.0,7.0,JAX 28,7.0,0.0,"Logan Cooke punts 61 yards, returned by KaVontae Turpin for 16 yards (tackle by Andrew Wingard). Penalty on Sam Williams: Unnecessary Roughness / Defense, 13 yards (accepted)",-1.5,0.28,15.0,2022,216
+1,2:51,1.0,10.0,DAL 14,7.0,0.0,Tony Pollard left end for 1 yard (tackle by Andre Cisco),-0.28,-0.64,15.0,2022,216
+1,2:12,2.0,9.0,DAL 15,7.0,0.0,Dak Prescott pass complete short left to Noah Brown for 8 yards (tackle by Andre Cisco),-0.64,-0.32,15.0,2022,216
+1,1:51,3.0,1.0,DAL 23,7.0,0.0,Tony Pollard right end for 4 yards (tackle by Devin Lloyd),-0.32,0.74,15.0,2022,216
+1,1:16,1.0,10.0,DAL 27,7.0,0.0,Tony Pollard up the middle for 5 yards (tackle by Rayshawn Jenkins),0.74,0.87,15.0,2022,216
+1,0:39,2.0,5.0,DAL 32,7.0,0.0,Dak Prescott pass complete short left to CeeDee Lamb for 4 yards (tackle by Devin Lloyd),0.87,0.7,15.0,2022,216
+1,0:10,3.0,1.0,DAL 36,7.0,0.0,"Dak Prescott pass incomplete deep right intended for CeeDee Lamb. Penalty on Tre Herndon: Defensive Pass Interference, 17 yards (accepted) (no play)",0.7,2.46,15.0,2022,216
+1,0:06,1.0,10.0,JAX 47,7.0,0.0,Ezekiel Elliott left guard for 2 yards (tackle by Devin Lloyd),2.46,2.18,15.0,2022,216
+2,15:00,2.0,8.0,JAX 45,7.0,0.0,Dak Prescott pass complete short middle to Noah Brown for 9 yards (tackle by Foyesade Oluokun and Rayshawn Jenkins),2.18,3.18,15.0,2022,216
+2,14:23,1.0,10.0,JAX 36,7.0,0.0,Dak Prescott pass complete short middle to CeeDee Lamb for 15 yards (tackle by Foyesade Oluokun),3.18,4.17,15.0,2022,216
+2,13:49,1.0,10.0,JAX 21,7.0,0.0,Ezekiel Elliott left guard for 1 yard (tackle by Dawuane Smoot),4.17,3.76,15.0,2022,216
+2,13:08,2.0,9.0,JAX 20,13.0,0.0,"Dak Prescott pass complete deep right to Peyton Hendershot for 20 yards, touchdown",3.76,7.0,15.0,2022,216
+2,13:01,,,JAX 15,14.0,0.0,Brett Maher kicks extra point good,0.0,0.0,15.0,2022,216
+2,13:01,,,DAL 35,14.0,0.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,216
+2,13:01,1.0,10.0,JAX 25,14.0,0.0,Travis Etienne left guard for 6 yards (tackle by Trevon Diggs),0.61,0.87,15.0,2022,216
+2,12:27,2.0,4.0,JAX 31,14.0,0.0,Travis Etienne up the middle for 5 yards (tackle by Dante Fowler),0.87,1.33,15.0,2022,216
+2,11:47,1.0,10.0,JAX 36,14.0,0.0,Trevor Lawrence pass complete short left to Marvin Jones for 7 yards (tackle by Trevon Diggs),1.33,1.74,15.0,2022,216
+2,11:14,2.0,3.0,JAX 43,14.0,0.0,Jamal Agnew right end for 4 yards (tackle by Anthony Barr),1.74,2.06,15.0,2022,216
+2,10:38,1.0,10.0,JAX 47,14.0,0.0,Trevor Lawrence pass complete short left to Evan Engram for 13 yards (tackle by Damone Clark),2.06,2.92,15.0,2022,216
+2,9:56,1.0,10.0,DAL 40,14.0,0.0,Trevor Lawrence pass complete short right to Travis Etienne for 13 yards (tackle by DaRon Bland and Jayron Kearse),2.92,3.78,15.0,2022,216
+2,9:10,1.0,10.0,DAL 27,14.0,0.0,Jamal Agnew right end for 18 yards (tackle by Carlos Watkins),3.78,5.14,15.0,2022,216
+2,8:28,1.0,9.0,DAL 9,14.0,0.0,Travis Etienne up the middle for 4 yards (tackle by Anthony Barr),5.14,5.15,15.0,2022,216
+2,7:49,2.0,5.0,DAL 5,14.0,6.0,"Trevor Lawrence pass complete short middle to Zay Jones for 5 yards, touchdown",5.15,7.0,15.0,2022,216
+2,7:45,,,DAL 15,14.0,7.0,Riley Patterson kicks extra point good,0.0,0.0,15.0,2022,216
+2,7:45,,,JAX 35,14.0,7.0,"Riley Patterson kicks off 69 yards, returned by KaVontae Turpin for 38 yards (tackle by Andre Cisco)",0.0,1.2,15.0,2022,216
+2,7:40,1.0,10.0,DAL 34,14.0,7.0,Dak Prescott pass complete short left to Ezekiel Elliott for 7 yards (tackle by Foyesade Oluokun),1.2,1.6,15.0,2022,216
+2,7:05,2.0,3.0,DAL 41,14.0,7.0,Ezekiel Elliott up the middle for 7 yards (tackle by Roy Robertson-Harris),1.6,2.13,15.0,2022,216
+2,6:36,1.0,10.0,DAL 48,14.0,7.0,Ezekiel Elliott right end for 5 yards (tackle by Rayshawn Jenkins),2.13,2.26,15.0,2022,216
+2,6:08,2.0,5.0,JAX 47,14.0,7.0,Dak Prescott pass complete short right to Dalton Schultz for 6 yards (tackle by Rayshawn Jenkins),2.26,2.85,15.0,2022,216
+2,5:26,1.0,10.0,JAX 41,14.0,7.0,Tony Pollard right guard for 8 yards (tackle by Devin Lloyd),2.85,3.39,15.0,2022,216
+2,5:01,2.0,2.0,JAX 33,14.0,7.0,Dak Prescott sacked by Josh Allen for -2 yards,3.39,2.41,15.0,2022,216
+2,4:22,3.0,4.0,JAX 35,14.0,7.0,Dak Prescott pass complete short middle to Noah Brown for 14 yards (tackle by Tre Herndon),2.41,4.17,15.0,2022,216
+2,3:40,1.0,10.0,JAX 21,14.0,7.0,Tony Pollard left guard for 8 yards (tackle by Rayshawn Jenkins),4.17,4.95,15.0,2022,216
+2,3:04,2.0,2.0,JAX 13,14.0,7.0,Dak Prescott left end for 12 yards (tackle by Foyesade Oluokun and Tyson Campbell),4.95,6.97,15.0,2022,216
+2,2:18,1.0,1.0,JAX 1,14.0,7.0,Tony Pollard up the middle for no gain (tackle by Foyesade Oluokun),6.97,5.91,15.0,2022,216
+2,2:00,2.0,1.0,JAX 1,20.0,7.0,"Dak Prescott pass complete short middle to Noah Brown for 1 yard, touchdown",5.91,7.0,15.0,2022,216
+2,1:55,,,JAX 15,21.0,7.0,Brett Maher kicks extra point good,0.0,0.0,15.0,2022,216
+2,1:55,,,DAL 35,21.0,7.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,216
+2,1:55,1.0,10.0,JAX 25,21.0,7.0,Trevor Lawrence pass incomplete deep right intended for Evan Engram,0.61,0.06,15.0,2022,216
+2,1:51,2.0,10.0,JAX 25,21.0,7.0,"Penalty on Evan Engram: False Start, 5 yards (accepted) (no play)",0.06,-0.61,15.0,2022,216
+2,1:51,2.0,15.0,JAX 20,21.0,7.0,Trevor Lawrence pass complete short right to Evan Engram for 6 yards (tackle by Malik Hooker),-0.61,-0.49,15.0,2022,216
+2,1:43,3.0,9.0,JAX 26,21.0,7.0,Trevor Lawrence pass incomplete deep middle intended for Christian Kirk,-0.49,-1.63,15.0,2022,216
+2,1:38,4.0,9.0,JAX 26,21.0,7.0,"Logan Cooke punts 51 yards, fair catch by KaVontae Turpin at DAL-23",-1.63,-0.48,15.0,2022,216
+2,1:31,1.0,10.0,DAL 23,21.0,7.0,Dak Prescott pass complete short left to Tony Pollard for 11 yards (tackle by Rayshawn Jenkins),0.48,1.2,15.0,2022,216
+2,1:25,1.0,10.0,DAL 34,21.0,7.0,Dak Prescott pass complete short right to CeeDee Lamb for 3 yards (tackle by Foyesade Oluokun),1.2,1.06,15.0,2022,216
+2,1:06,2.0,7.0,DAL 37,21.0,7.0,Dak Prescott pass complete short middle to Tony Pollard for 6 yards (tackle by Foyesade Oluokun and Devin Lloyd),1.06,1.16,15.0,2022,216
+2,0:59,,,,,,Timeout #1 by Jacksonville Jaguars,,,15.0,2022,216
+2,0:59,3.0,1.0,DAL 43,21.0,7.0,Tony Pollard left end for -7 yards (tackle by Foyesade Oluokun),1.16,-0.98,15.0,2022,216
+2,0:53,,,,,,Timeout #2 by Jacksonville Jaguars,,,15.0,2022,216
+2,0:53,4.0,8.0,DAL 36,21.0,7.0,Bryan Anger punts 50 yards downed by Nahshon Wright,-0.98,0.28,15.0,2022,216
+2,0:41,1.0,10.0,JAX 14,21.0,7.0,Trevor Lawrence scrambles left end for 7 yards (tackle by Jayron Kearse),-0.28,0.28,15.0,2022,216
+2,0:22,2.0,3.0,JAX 21,21.0,7.0,Trevor Lawrence pass complete short left to Zay Jones for 14 yards (tackle by Trevon Diggs and Anthony Barr),0.28,1.27,15.0,2022,216
+2,0:16,,,,,,Timeout #3 by Jacksonville Jaguars,,,15.0,2022,216
+2,0:16,,,,,,Timeout #1 by Dallas Cowboys,,,15.0,2022,216
+2,0:16,1.0,10.0,JAX 35,21.0,7.0,Trevor Lawrence pass incomplete short left intended for Travis Etienne,1.27,0.72,15.0,2022,216
+2,0:10,2.0,10.0,JAX 35,21.0,7.0,Trevor Lawrence pass incomplete deep right intended for Marvin Jones,0.72,0.04,15.0,2022,216
+2,0:06,3.0,10.0,JAX 35,21.0,7.0,Travis Etienne up the middle for 15 yards (tackle by Damone Clark),0.04,2.26,15.0,2022,216
+3,15:00,,,DAL 35,21.0,7.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,216
+3,15:00,1.0,10.0,JAX 25,21.0,7.0,Travis Etienne left end for no gain (tackle by Carlos Watkins and Sam Williams),0.61,0.06,15.0,2022,216
+3,14:27,2.0,10.0,JAX 25,21.0,7.0,Trevor Lawrence pass complete short middle to Evan Engram for 9 yards (tackle by Trevon Diggs),0.06,0.56,15.0,2022,216
+3,13:51,3.0,1.0,JAX 34,21.0,7.0,Trevor Lawrence left guard for 3 yards (tackle by Anthony Barr),0.56,1.4,15.0,2022,216
+3,13:17,1.0,10.0,JAX 37,21.0,7.0,Trevor Lawrence pass complete deep left to Christian Kirk for 30 yards (tackle by Anthony Barr),1.4,3.38,15.0,2022,216
+3,12:42,1.0,10.0,DAL 33,21.0,7.0,Trevor Lawrence pass complete short right to Evan Engram for 5 yards (tackle by Kelvin Joseph),3.38,3.51,15.0,2022,216
+3,12:11,2.0,5.0,DAL 28,21.0,7.0,Travis Etienne left guard for 9 yards (tackle by DaRon Bland),3.51,4.31,15.0,2022,216
+3,11:31,1.0,10.0,DAL 19,21.0,7.0,Trevor Lawrence pass incomplete deep left intended for Zay Jones,4.31,3.75,15.0,2022,216
+3,11:25,2.0,10.0,DAL 19,21.0,7.0,Trevor Lawrence pass complete short right to Christian Kirk for 5 yards (tackle by DaRon Bland),3.75,3.76,15.0,2022,216
+3,10:49,3.0,5.0,DAL 14,21.0,7.0,Trevor Lawrence pass incomplete short middle intended for Jamal Agnew,3.76,2.56,15.0,2022,216
+3,10:40,4.0,5.0,DAL 14,21.0,10.0,Riley Patterson 33 yard field goal good,2.56,3.0,15.0,2022,216
+3,10:35,,,JAX 35,21.0,10.0,"Riley Patterson kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,216
+3,10:35,1.0,10.0,DAL 25,21.0,10.0,Ezekiel Elliott left guard for 2 yards (tackle by Foyesade Oluokun and Rayshawn Jenkins),0.61,0.33,15.0,2022,216
+3,10:03,2.0,8.0,DAL 27,21.0,10.0,Dak Prescott pass incomplete short middle intended for Dalton Schultz (defended by DaVon Hamilton),0.33,-0.36,15.0,2022,216
+3,10:01,3.0,8.0,DAL 27,21.0,10.0,Dak Prescott pass complete short middle to CeeDee Lamb for 39 yards (tackle by Devin Lloyd),-0.36,3.31,15.0,2022,216
+3,9:31,1.0,10.0,JAX 34,21.0,10.0,Dak Prescott pass complete deep left to CeeDee Lamb for 22 yards (tackle by Tre Herndon),3.31,4.78,15.0,2022,216
+3,8:52,1.0,10.0,JAX 12,21.0,10.0,Ezekiel Elliott up the middle for 8 yards (tackle by Rayshawn Jenkins and Andre Cisco),4.78,5.6,15.0,2022,216
+3,8:27,2.0,2.0,JAX 4,21.0,10.0,Ezekiel Elliott right guard for -2 yards (tackle by Dawuane Smoot and Rayshawn Jenkins),5.6,4.38,15.0,2022,216
+3,7:47,3.0,4.0,JAX 6,21.0,10.0,Dak Prescott pass incomplete short left intended for Michael Gallup,4.38,3.0,15.0,2022,216
+3,7:39,4.0,4.0,JAX 6,24.0,10.0,Brett Maher 24 yard field goal good,3.0,3.0,15.0,2022,216
+3,7:36,,,DAL 35,24.0,10.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,216
+3,7:36,1.0,10.0,JAX 25,24.0,10.0,Trevor Lawrence pass complete short left to Evan Engram for 9 yards (tackle by Damone Clark and Malik Hooker),0.61,1.28,15.0,2022,216
+3,7:14,2.0,1.0,JAX 34,24.0,10.0,Snoop Conner up the middle for 3 yards (tackle by DaRon Bland and Damone Clark),1.28,1.4,15.0,2022,216
+3,6:40,1.0,10.0,JAX 37,24.0,10.0,Trevor Lawrence pass incomplete short left,1.4,0.86,15.0,2022,216
+3,6:35,2.0,10.0,JAX 37,24.0,10.0,Trevor Lawrence pass deep middle intended for Christian Kirk is intercepted by DaRon Bland at DAL-43 and returned for 15 yards (tackle by Snoop Conner),0.86,-2.79,15.0,2022,216
+3,6:27,1.0,10.0,JAX 42,24.0,10.0,Tony Pollard right guard for -2 yards (tackle by Dawuane Smoot and Foyesade Oluokun),2.79,1.97,15.0,2022,216
+3,6:07,2.0,12.0,JAX 44,24.0,10.0,Dak Prescott pass complete short right to Dalton Schultz for 9 yards (tackle by Rayshawn Jenkins and Darious Williams),1.97,2.48,15.0,2022,216
+3,5:32,3.0,3.0,JAX 35,24.0,10.0,Dak Prescott pass incomplete deep right intended for Tony Pollard (defended by Dawuane Smoot),2.48,0.99,15.0,2022,216
+3,5:26,4.0,3.0,JAX 35,27.0,10.0,Brett Maher 53 yard field goal good,0.99,3.0,15.0,2022,216
+3,5:21,,,DAL 35,27.0,10.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,216
+3,5:21,1.0,10.0,JAX 25,27.0,10.0,Travis Etienne up the middle for 6 yards (tackle by Neville Gallimore and Damone Clark),0.61,0.87,15.0,2022,216
+3,4:46,2.0,4.0,JAX 31,27.0,10.0,Travis Etienne left end for 10 yards (tackle by Trevon Diggs),0.87,1.66,15.0,2022,216
+3,4:07,1.0,10.0,JAX 41,27.0,16.0,"Trevor Lawrence pass complete deep right to Zay Jones for 59 yards, touchdown. Penalty on Trevon Diggs: Defensive Holding, 5 yards (declined)",1.66,7.0,15.0,2022,216
+3,3:57,,,DAL 15,27.0,17.0,Riley Patterson kicks extra point good,0.0,0.0,15.0,2022,216
+3,3:57,,,JAX 35,27.0,17.0,"Riley Patterson kicks off 64 yards, returned by KaVontae Turpin for 15 yards (tackle by Shaquille Quarterman)",0.0,-0.14,15.0,2022,216
+3,3:51,1.0,10.0,DAL 16,27.0,17.0,Dak Prescott sacked by Arden Key for -8 yards,-0.14,-1.36,15.0,2022,216
+3,3:03,2.0,18.0,DAL 8,27.0,17.0,"Dak Prescott pass deep middle intended for Dalton Schultz is intercepted by Rayshawn Jenkins at DAL-31 and returned for 2 yards (tackle by Tyler Biadasz). Penalty on Devin Lloyd: Illegal Block Above the Waist, 10 yards (accepted)",-1.36,-2.98,15.0,2022,216
+3,2:53,1.0,10.0,DAL 39,27.0,17.0,Jamal Agnew right end for 30 yards (tackle by Donovan Wilson),2.98,5.14,15.0,2022,216
+3,2:13,1.0,9.0,DAL 9,27.0,17.0,Travis Etienne right guard for -1 yards (tackle by Jayron Kearse and Damone Clark),5.14,4.19,15.0,2022,216
+3,1:36,2.0,10.0,DAL 10,27.0,17.0,Trevor Lawrence pass incomplete short right intended for Evan Engram (defended by Jayron Kearse),4.19,3.13,15.0,2022,216
+3,1:28,3.0,10.0,DAL 10,27.0,23.0,"Trevor Lawrence pass complete short right to Marvin Jones for 10 yards, touchdown",3.13,7.0,15.0,2022,216
+3,1:23,,,DAL 15,27.0,24.0,Riley Patterson kicks extra point good,0.0,0.0,15.0,2022,216
+3,1:23,,,JAX 35,27.0,24.0,"Riley Patterson kicks off 63 yards, returned by KaVontae Turpin for 17 yards (tackle by Chad Muma)",0.0,0.15,15.0,2022,216
+3,1:15,1.0,10.0,DAL 19,27.0,24.0,Ezekiel Elliott left end for 5 yards (tackle by Rayshawn Jenkins),0.15,0.34,15.0,2022,216
+3,0:44,2.0,5.0,DAL 24,27.0,24.0,Ezekiel Elliott up the middle for -2 yards (tackle by Josh Allen),0.34,-0.68,15.0,2022,216
+4,15:00,3.0,7.0,DAL 22,27.0,24.0,Dak Prescott scrambles right end for 1 yard (tackle by Roy Robertson-Harris),-0.68,-1.83,15.0,2022,216
+4,14:24,4.0,6.0,DAL 23,27.0,24.0,"Bryan Anger punts 52 yards, fair catch by Jamal Agnew at JAC-25",-1.83,-0.61,15.0,2022,216
+4,14:17,1.0,10.0,JAX 25,27.0,24.0,Travis Etienne up the middle for 16 yards (tackle by Malik Hooker),0.61,1.66,15.0,2022,216
+4,13:45,1.0,10.0,JAX 41,27.0,24.0,Travis Etienne up the middle for 5 yards (tackle by Damone Clark),1.66,1.8,15.0,2022,216
+4,13:13,2.0,5.0,JAX 46,27.0,24.0,Trevor Lawrence pass complete deep left to Christian Kirk for 27 yards (tackle by DaRon Bland),1.8,3.78,15.0,2022,216
+4,12:31,1.0,10.0,DAL 27,27.0,24.0,Travis Etienne right guard for 6 yards (tackle by Nahshon Wright),3.78,4.04,15.0,2022,216
+4,11:51,2.0,4.0,DAL 21,27.0,24.0,Jamycal Hasty left end for 13 yards (tackle by Malik Hooker),4.04,5.37,15.0,2022,216
+4,11:09,1.0,8.0,DAL 8,27.0,24.0,Travis Etienne right guard for 3 yards (tackle by Donovan Wilson),5.37,5.15,15.0,2022,216
+4,10:47,2.0,5.0,DAL 5,27.0,24.0,Travis Etienne up the middle for 2 yards (tackle by Damone Clark and Quinton Bohanna),5.15,4.72,15.0,2022,216
+4,10:07,3.0,3.0,DAL 3,27.0,30.0,"Trevor Lawrence pass complete short middle to Zay Jones for 3 yards, touchdown",4.72,7.0,15.0,2022,216
+4,10:03,,,DAL 15,27.0,31.0,Riley Patterson kicks extra point good,0.0,0.0,15.0,2022,216
+4,10:03,,,JAX 35,27.0,31.0,"Riley Patterson kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,216
+4,10:03,1.0,10.0,DAL 25,27.0,31.0,Dak Prescott pass complete short right to CeeDee Lamb for 25 yards (tackle by Tyson Campbell),0.61,2.26,15.0,2022,216
+4,9:28,1.0,10.0,DAL 50,27.0,31.0,Tony Pollard up the middle for 5 yards (tackle by DaVon Hamilton),2.26,2.39,15.0,2022,216
+4,8:56,2.0,5.0,JAX 45,27.0,31.0,Dak Prescott left end for 4 yards (tackle by Rayshawn Jenkins),2.39,2.21,15.0,2022,216
+4,8:27,3.0,1.0,JAX 41,27.0,31.0,Dak Prescott up the middle for 1 yard (tackle by Roy Robertson-Harris),2.21,2.92,15.0,2022,216
+4,7:45,1.0,10.0,JAX 40,27.0,31.0,Tony Pollard up the middle for 6 yards (tackle by Devin Lloyd),2.92,3.18,15.0,2022,216
+4,7:13,2.0,4.0,JAX 34,27.0,31.0,Tony Pollard up the middle for 3 yards (tackle by Adam Gotsis and Rayshawn Jenkins),3.18,2.87,15.0,2022,216
+4,6:40,3.0,1.0,JAX 31,27.0,31.0,Dak Prescott up the middle for 2 yards (tackle by Foyesade Oluokun),2.87,3.64,15.0,2022,216
+4,6:05,1.0,10.0,JAX 29,27.0,31.0,Ezekiel Elliott left end for 5 yards (tackle by Foyesade Oluokun and Dawuane Smoot),3.64,3.78,15.0,2022,216
+4,5:32,2.0,5.0,JAX 24,27.0,31.0,Dak Prescott pass complete short right to Michael Gallup for 2 yards (tackle by Tre Herndon),3.78,3.34,15.0,2022,216
+4,4:50,3.0,3.0,JAX 22,27.0,31.0,Dak Prescott pass complete short left to Tony Pollard for 5 yards (tackle by Foyesade Oluokun),3.34,4.44,15.0,2022,216
+4,4:22,1.0,10.0,JAX 17,27.0,31.0,Tony Pollard up the middle for no gain (tackle by DaVon Hamilton),4.44,3.85,15.0,2022,216
+4,3:40,2.0,10.0,JAX 17,27.0,31.0,Dak Prescott pass complete short left to Noah Brown for 4 yards (tackle by Tyson Campbell),3.85,3.68,15.0,2022,216
+4,3:07,3.0,6.0,JAX 13,33.0,31.0,"Dak Prescott pass complete short left to Noah Brown for 13 yards, touchdown",3.68,7.0,15.0,2022,216
+4,3:02,,,JAX 15,34.0,31.0,Brett Maher kicks extra point good,0.0,0.0,15.0,2022,216
+4,3:02,,,DAL 35,34.0,31.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,216
+4,3:02,1.0,10.0,JAX 25,34.0,31.0,Trevor Lawrence pass complete short middle to Evan Engram for 5 yards (tackle by Damone Clark),0.61,0.74,15.0,2022,216
+4,2:30,2.0,5.0,JAX 30,34.0,31.0,Trevor Lawrence pass complete short right to Christian Kirk for 7 yards (tackle by DaRon Bland),0.74,1.4,15.0,2022,216
+4,2:07,1.0,10.0,JAX 37,34.0,31.0,Trevor Lawrence pass incomplete short left intended for Marvin Jones,1.4,0.86,15.0,2022,216
+4,2:01,2.0,10.0,JAX 37,34.0,31.0,Trevor Lawrence pass complete short right to Jamal Agnew for 5 yards (tackle by Jayron Kearse),0.86,0.83,15.0,2022,216
+4,1:55,3.0,5.0,JAX 42,34.0,31.0,Trevor Lawrence pass complete short middle to Christian Kirk for 8 yards (tackle by Trevon Diggs and Nahshon Wright),0.83,2.26,15.0,2022,216
+4,1:34,1.0,10.0,DAL 50,34.0,31.0,"Trevor Lawrence scrambles left end for 11 yards. Trevor Lawrence fumbles (forced by Jayron Kearse), recovered by Micah Parsons at DAL-38 (tackle by Trevor Lawrence)",2.26,-1.47,15.0,2022,216
+4,1:28,1.0,10.0,DAL 38,34.0,31.0,Ezekiel Elliott left end for -3 yards (tackle by Dawuane Smoot),1.47,0.52,15.0,2022,216
+4,1:25,,,,,,Timeout #1 by Jacksonville Jaguars,,,15.0,2022,216
+4,1:25,2.0,13.0,DAL 35,34.0,31.0,Tony Pollard right end for 3 yards (tackle by Corey Peters),0.52,0.23,15.0,2022,216
+4,1:20,,,,,,Timeout #2 by Jacksonville Jaguars,,,15.0,2022,216
+4,1:20,3.0,10.0,DAL 38,34.0,31.0,Dak Prescott pass incomplete deep left intended for Noah Brown (defended by Darious Williams),0.23,-0.85,15.0,2022,216
+4,1:13,4.0,10.0,DAL 38,34.0,31.0,"Bryan Anger punts 46 yards, returned by Jamal Agnew for 13 yards (tackle by C.J. Goodwin)",-0.85,-0.87,15.0,2022,216
+4,1:01,1.0,10.0,JAX 29,34.0,31.0,Trevor Lawrence pass incomplete deep middle intended for Marvin Jones,0.87,0.33,15.0,2022,216
+4,0:56,2.0,10.0,JAX 29,34.0,31.0,Trevor Lawrence pass incomplete deep right intended for Zay Jones,0.33,-0.36,15.0,2022,216
+4,0:50,3.0,10.0,JAX 29,34.0,31.0,"Trevor Lawrence pass complete short right to Christian Kirk for 15 yards (tackle by Nahshon Wright) Replay Assistant challenged the pass completion ruling, and the play was upheld.",-0.36,1.86,15.0,2022,216
+4,0:24,1.0,10.0,JAX 44,34.0,31.0,Trevor Lawrence pass complete short right to Jamycal Hasty for 2 yards (tackle by Jayron Kearse),1.86,1.59,15.0,2022,216
+4,0:17,2.0,8.0,JAX 46,34.0,31.0,"Trevor Lawrence pass complete short right to Evan Engram for 5 yards (tackle by Jayron Kearse) Replay Assistant challenged the runner was in bounds ruling, and the original play was overturned. Trevor Lawrence pass complete short right to Evan Engram for 5 yards (tackle by Jayron Kearse)",1.59,1.55,15.0,2022,216
+4,0:12,,,,,,Timeout #1 by Dallas Cowboys,,,15.0,2022,216
+4,0:12,3.0,3.0,DAL 49,34.0,31.0,Trevor Lawrence pass complete short left to Zay Jones for 19 yards (tackle by Trevon Diggs),1.55,3.58,15.0,2022,216
+4,0:05,,,,,,Timeout #3 by Jacksonville Jaguars,,,15.0,2022,216
+4,0:05,,,,,,Timeout #2 by Dallas Cowboys,,,15.0,2022,216
+4,0:05,1.0,10.0,DAL 30,34.0,34.0,Riley Patterson 48 yard field goal good,3.58,3.0,15.0,2022,216
+,,,,,,,"Jaguars won the coin toss, Jaguars to receive the overtime kickoff.",,,15.0,2022,216
+OT,10:00,,,DAL 35,34.0,34.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,216
+OT,10:00,1.0,10.0,JAX 25,34.0,34.0,Travis Etienne up the middle for 1 yard (tackle by DeMarcus Lawrence),0.61,0.2,15.0,2022,216
+OT,9:24,2.0,9.0,JAX 26,34.0,34.0,Trevor Lawrence pass incomplete short middle intended for Marvin Jones,0.2,-0.49,15.0,2022,216
+OT,9:20,3.0,9.0,JAX 26,34.0,34.0,"Penalty on Jawaan Taylor: False Start, 5 yards (accepted) (no play)",-0.49,-1.15,15.0,2022,216
+OT,9:20,3.0,14.0,JAX 21,34.0,34.0,Trevor Lawrence pass complete short right to Travis Etienne for 11 yards (tackle by Nahshon Wright),-1.15,-1.24,15.0,2022,216
+OT,8:56,4.0,3.0,JAX 32,34.0,34.0,"Logan Cooke punts 48 yards, fair catch by KaVontae Turpin at DAL-20",-1.24,-0.28,15.0,2022,216
+OT,8:48,1.0,10.0,DAL 20,34.0,34.0,Tony Pollard left end for 21 yards (tackle by Devin Lloyd),0.28,1.66,15.0,2022,216
+OT,8:14,1.0,10.0,DAL 41,34.0,34.0,Tony Pollard left tackle for 6 yards (tackle by Tyson Campbell),1.66,1.93,15.0,2022,216
+OT,7:38,2.0,4.0,DAL 47,34.0,34.0,Tony Pollard up the middle for no gain (tackle by Rayshawn Jenkins),1.93,1.22,15.0,2022,216
+OT,7:04,3.0,4.0,DAL 47,34.0,40.0,"Dak Prescott pass short left intended for Noah Brown is intercepted by Rayshawn Jenkins at JAC-48 and returned for 52 yards, touchdown",1.22,-6.0,15.0,2022,216

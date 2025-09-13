@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,ARI 22,5,3:33,2,Punt,0,Cardinals,1,2025,7
+2,1,10:34,ARI 34,11,5:31,42,Field Goal,0,Cardinals,1,2025,7
+3,2,14:20,ARI 35,7,4:15,65,Touchdown,0,Cardinals,1,2025,7
+4,2,4:58,ARI 29,10,4:30,71,Touchdown,0,Cardinals,1,2025,7
+5,3,12:27,ARI 19,6,3:11,49,Field Goal,0,Cardinals,1,2025,7
+6,3,3:55,ARI 28,5,3:02,11,Punt,0,Cardinals,1,2025,7
+7,4,13:51,ARI 6,9,4:42,35,Punt,0,Cardinals,1,2025,7
+8,4,8:43,NOR 40,8,4:09,12,Missed FG,0,Cardinals,1,2025,7
+9,4,2:42,ARI 26,3,0:53,-9,Punt,0,Cardinals,1,2025,7

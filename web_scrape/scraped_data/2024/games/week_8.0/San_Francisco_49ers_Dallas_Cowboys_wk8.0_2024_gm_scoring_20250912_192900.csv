@@ -1,0 +1,11 @@
+Quarter,Time,Tm,Detail,DAL,SFO,week,year,game_id
+1.0,7:14,49ers,Anders Carlson 50 yard field goal,0,3,8.0,2024,122
+2.0,10:58,Cowboys,Ezekiel Elliott 1 yard rush (Brandon Aubrey kick),7,3,8.0,2024,122
+,2:56,Cowboys,Brandon Aubrey 29 yard field goal,10,3,8.0,2024,122
+,1:30,49ers,Anders Carlson 44 yard field goal,10,6,8.0,2024,122
+3.0,12:57,49ers,Isaac Guerendo 4 yard rush (Anders Carlson kick),10,13,8.0,2024,122
+,7:14,49ers,George Kittle 2 yard pass from Brock Purdy (Anders Carlson kick),10,20,8.0,2024,122
+,0:36,49ers,Brock Purdy 2 yard rush (Anders Carlson kick),10,27,8.0,2024,122
+4.0,7:58,Cowboys,CeeDee Lamb 7 yard pass from Dak Prescott (Brandon Aubrey kick),17,27,8.0,2024,122
+,4:25,49ers,Anders Carlson 41 yard field goal,17,30,8.0,2024,122
+,3:32,Cowboys,CeeDee Lamb 20 yard pass from Dak Prescott (Brandon Aubrey kick),24,30,8.0,2024,122

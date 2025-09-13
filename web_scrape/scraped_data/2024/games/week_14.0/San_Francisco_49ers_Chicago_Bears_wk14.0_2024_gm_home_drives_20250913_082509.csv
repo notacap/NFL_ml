@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,SFO 30,5,2:40,70,Touchdown,1,49ers,14.0,2024,206
+2,1,10:08,SFO 13,7,3:58,36,Punt,1,49ers,14.0,2024,206
+3,1,3:50,SFO 36,4,2:11,64,Touchdown,1,49ers,14.0,2024,206
+4,1,0:05,SFO 29,12,7:24,71,Touchdown,1,49ers,14.0,2024,206
+5,2,5:34,SFO 26,9,3:44,69,Field Goal,1,49ers,14.0,2024,206
+6,2,0:03,SFO 6,1,0:03,-1,End of Half,1,49ers,14.0,2024,206
+7,3,5:56,SFO 30,3,0:57,2,Punt,1,49ers,14.0,2024,206
+8,3,2:40,SFO 38,5,2:43,62,Touchdown,1,49ers,14.0,2024,206
+9,4,11:48,SFO 30,13,6:33,70,Touchdown,1,49ers,14.0,2024,206
+10,4,3:34,,3,1:35,-1,Interception,1,49ers,14.0,2024,206

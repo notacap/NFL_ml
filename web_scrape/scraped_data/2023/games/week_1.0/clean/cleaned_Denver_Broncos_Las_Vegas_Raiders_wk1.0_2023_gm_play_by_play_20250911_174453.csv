@@ -1,0 +1,157 @@
+Quarter,Time,Down,ToGo,Location,LVR,DEN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Broncos won the coin toss and deferred, Raiders to receive the opening kickoff.",,,1.0,2023,11
+1.0,15:00,,,DEN 35,0.0,0.0,"Wil Lutz kicks onside 9 yards,. Penalty on Tremon Smith: Illegal Touch Kick (accepted)",0.0,2.65,1.0,2023,11
+1.0,14:56,1.0,10.0,DEN 44,0.0,0.0,Josh Jacobs right tackle for 1 yard (tackle by Alex Singleton and Josey Jewell),2.65,2.25,1.0,2023,11
+1.0,14:22,2.0,9.0,DEN 43,0.0,0.0,Jimmy Garoppolo pass complete short middle to Davante Adams for 8 yards (tackle by Patrick Surtain),2.25,2.61,1.0,2023,11
+1.0,13:47,3.0,1.0,DEN 35,0.0,0.0,Jimmy Garoppolo up the middle for no gain (tackle by Jonathan Harris and Alex Singleton),2.61,1.0,1.0,2023,11
+1.0,12:56,4.0,1.0,DEN 35,0.0,0.0,Jimmy Garoppolo pass complete short right to Davante Adams for 13 yards (tackle by Kareem Jackson),1.0,4.11,1.0,2023,11
+1.0,12:18,1.0,10.0,DEN 22,0.0,0.0,Josh Jacobs left end for 1 yard (tackle by Damarri Mathis),4.11,3.7,1.0,2023,11
+1.0,11:42,2.0,9.0,DEN 21,0.0,0.0,Josh Jacobs right tackle for 2 yards (tackle by Essang Bassey),3.7,3.26,1.0,2023,11
+1.0,11:02,3.0,7.0,DEN 19,0.0,0.0,"Jimmy Garoppolo scrambles left guard for 8 yards (tackle by Frank Clark). Penalty on Justin Simmons: Unnecessary Roughness / Defense, 6 yards (accepted)",3.26,6.06,1.0,2023,11
+1.0,10:49,1.0,5.0,DEN 5,0.0,0.0,Josh Jacobs right guard for 2 yards (tackle by Alex Singleton),6.06,5.53,1.0,2023,11
+1.0,10:07,2.0,3.0,DEN 3,0.0,0.0,Josh Jacobs left tackle for no gain (tackle by Alex Singleton and Elijah Garcia),5.53,4.72,1.0,2023,11
+1.0,9:32,,,,,,Timeout #1 by Las Vegas Raiders,,,1.0,2023,11
+1.0,9:32,3.0,3.0,DEN 3,6.0,0.0,"Jimmy Garoppolo pass complete short left to Jakobi Meyers for 3 yards, touchdown",4.72,7.0,1.0,2023,11
+1.0,9:28,,,DEN 15,7.0,0.0,Daniel Carlson kicks extra point good,0.0,0.0,1.0,2023,11
+1.0,9:28,,,LVR 35,7.0,0.0,"Penalty on Jakobi Meyers: Taunting / Offense, 15 yards (accepted)",0.0,0.0,1.0,2023,11
+1.0,9:28,,,LVR 20,7.0,0.0,"Daniel Carlson kicks off 81 yards, returned by Marvin Mims for 25 yards (tackle by Brandon Bolden and Jesper Horsted). Penalty on Justin Strnad: Defensive Holding, 10 yards (accepted)",0.0,-0.28,1.0,2023,11
+1.0,9:22,1.0,10.0,DEN 14,7.0,0.0,Russell Wilson pass complete short right to Adam Trautman for 6 yards (tackle by Nate Hobbs),-0.28,0.15,1.0,2023,11
+1.0,8:40,2.0,4.0,DEN 20,7.0,0.0,Russell Wilson pass complete deep right to Brandon Johnson for 21 yards (tackle by Marcus Epps),0.15,1.66,1.0,2023,11
+1.0,8:08,1.0,10.0,DEN 41,7.0,0.0,Javonte Williams left guard for 8 yards (tackle by Marcus Epps and Nate Hobbs),1.66,2.2,1.0,2023,11
+1.0,7:39,2.0,2.0,DEN 49,7.0,0.0,Javonte Williams left guard for 3 yards (tackle by Jerry Tillery and Bilal Nichols),2.2,2.39,1.0,2023,11
+1.0,6:58,1.0,10.0,LVR 48,7.0,0.0,Russell Wilson pass incomplete short left intended for Javonte Williams,2.39,1.85,1.0,2023,11
+1.0,6:31,2.0,10.0,LVR 48,7.0,0.0,"Russell Wilson pass complete short right to Marvin Mims for 7 yards (tackle by Robert Spillane and Marcus Peters). Penalty on Courtland Sutton: Illegal Motion, 5 yards (accepted) (no play)",1.85,1.17,1.0,2023,11
+1.0,6:25,2.0,15.0,DEN 47,7.0,0.0,Russell Wilson pass complete short right to Brandon Johnson for 10 yards (tackle by Marcus Peters),1.17,1.82,1.0,2023,11
+1.0,5:45,3.0,5.0,LVR 43,7.0,0.0,"Russell Wilson pass incomplete short left intended for Courtland Sutton. Penalty on Jakorian Bennett: Defensive Pass Interference, 5 yards (accepted) (no play)",1.82,3.05,1.0,2023,11
+1.0,5:42,1.0,10.0,LVR 38,7.0,0.0,Javonte Williams left guard for 2 yards (tackle by Tre'von Moehrig),3.05,2.78,1.0,2023,11
+1.0,5:05,2.0,8.0,LVR 36,7.0,0.0,Russell Wilson pass complete short left to Javonte Williams for -2 yards (tackle by Nate Hobbs),2.78,1.82,1.0,2023,11
+1.0,4:20,3.0,10.0,LVR 38,7.0,0.0,Russell Wilson pass complete short left to Greg Dulcich for 13 yards (tackle by Jakorian Bennett),1.82,3.91,1.0,2023,11
+1.0,3:41,1.0,10.0,LVR 25,7.0,0.0,Samaje Perine right end for no gain (tackle by Nate Hobbs),3.91,3.36,1.0,2023,11
+1.0,3:03,2.0,10.0,LVR 25,7.0,0.0,Javonte Williams left end for 7 yards (tackle by Tre'von Moehrig),3.36,3.66,1.0,2023,11
+1.0,2:15,3.0,3.0,LVR 18,7.0,0.0,Russell Wilson pass complete short middle to Adam Trautman for 15 yards (tackle by Marcus Epps and Tre'von Moehrig),3.66,6.51,1.0,2023,11
+1.0,1:27,1.0,3.0,LVR 3,7.0,0.0,Javonte Williams up the middle for -2 yards (tackle by Robert Spillane),6.51,5.15,1.0,2023,11
+1.0,0:50,2.0,5.0,LVR 5,7.0,6.0,"Russell Wilson pass complete short right to Lil'Jordan Humphrey for 5 yards, touchdown",5.15,7.0,1.0,2023,11
+1.0,0:44,,,LVR 15,7.0,6.0,Wil Lutz kicks extra point no good,0.0,-1.0,1.0,2023,11
+1.0,0:44,,,DEN 35,7.0,6.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,11
+1.0,0:44,1.0,10.0,LVR 25,7.0,6.0,Jimmy Garoppolo pass complete short left to Josh Jacobs for 4 yards (tackle by Kareem Jackson),0.61,0.6,1.0,2023,11
+1.0,0:10,2.0,6.0,LVR 29,7.0,6.0,Josh Jacobs up the middle for 4 yards (tackle by Zach Allen and Jonathan Harris),0.6,0.43,1.0,2023,11
+2.0,15:00,3.0,2.0,LVR 33,7.0,6.0,Josh Jacobs up the middle for 6 yards (tackle by Josey Jewell and Justin Simmons),0.43,1.53,1.0,2023,11
+2.0,14:31,1.0,10.0,LVR 39,7.0,6.0,Jimmy Garoppolo pass complete deep right to Jakobi Meyers for 21 yards (tackle by Damarri Mathis),1.53,2.92,1.0,2023,11
+2.0,13:46,1.0,10.0,DEN 40,7.0,6.0,Jimmy Garoppolo pass complete short right to Jakobi Meyers for 13 yards (tackle by Damarri Mathis),2.92,3.78,1.0,2023,11
+2.0,13:08,1.0,10.0,DEN 27,7.0,6.0,Jimmy Garoppolo pass complete short right to Josh Jacobs for 19 yards (tackle by Kareem Jackson),3.78,5.37,1.0,2023,11
+2.0,12:32,1.0,8.0,DEN 8,7.0,6.0,Josh Jacobs left guard for 1 yard (tackle by Zach Allen),5.37,4.76,1.0,2023,11
+2.0,11:51,2.0,7.0,DEN 7,7.0,6.0,Zamir White left end for 2 yards (tackle by Nik Bonitto and Alex Singleton),4.76,4.26,1.0,2023,11
+2.0,11:03,3.0,5.0,DEN 5,7.0,6.0,Jimmy Garoppolo pass incomplete short middle intended for Jakobi Meyers,4.26,3.01,1.0,2023,11
+2.0,10:57,4.0,5.0,DEN 5,10.0,6.0,Daniel Carlson 24 yard field goal good,3.01,3.0,1.0,2023,11
+2.0,10:54,,,LVR 35,10.0,6.0,"Daniel Carlson kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,11
+2.0,10:54,1.0,10.0,DEN 25,10.0,6.0,Javonte Williams right end for 11 yards (tackle by Luke Masterson),0.61,1.33,1.0,2023,11
+2.0,10:13,1.0,10.0,DEN 36,10.0,6.0,Javonte Williams right end for 3 yards (tackle by Maxx Crosby and Luke Masterson),1.33,1.2,1.0,2023,11
+2.0,9:29,2.0,7.0,DEN 39,10.0,6.0,Russell Wilson pass complete short right to Lil'Jordan Humphrey for 6 yards (tackle by Marcus Peters),1.2,1.29,1.0,2023,11
+2.0,8:54,3.0,1.0,DEN 45,10.0,6.0,Samaje Perine left end for no gain (tackle by Jakorian Bennett),1.29,-0.39,1.0,2023,11
+2.0,8:30,4.0,1.0,DEN 45,10.0,6.0,"Penalty on Jerry Tillery: Neutral Zone Infraction, 5 yards (accepted) (no play)",-0.39,2.26,1.0,2023,11
+2.0,8:30,1.0,10.0,DEN 50,10.0,6.0,Russell Wilson scrambles for 1 yard (tackle by Divine Deablo),2.26,1.85,1.0,2023,11
+2.0,7:36,,,,,,Timeout #1 by Denver Broncos,,,1.0,2023,11
+2.0,7:36,2.0,9.0,LVR 49,10.0,6.0,"Russell Wilson pass complete short left to Jaleel McLaughlin for no gain (tackle by Divine Deablo). Penalty on Divine Deablo: Face Mask (15 Yards), 15 yards (accepted) (no play)",1.85,3.31,1.0,2023,11
+2.0,7:18,1.0,10.0,LVR 34,10.0,6.0,"Jaleel McLaughlin right end for no gain (tackle by Maxx Crosby and John Jenkins). Penalty on Chris Manhertz: Offensive Holding, 10 yards (accepted) (no play)",3.31,2.65,1.0,2023,11
+2.0,6:56,1.0,20.0,LVR 44,10.0,6.0,Russell Wilson sacked by Maxx Crosby for -7 yards,2.65,0.47,1.0,2023,11
+2.0,6:12,2.0,27.0,DEN 49,10.0,6.0,Russell Wilson pass complete short left to Jaleel McLaughlin for -7 yards (tackle by Divine Deablo),0.47,-1.09,1.0,2023,11
+2.0,5:33,3.0,34.0,DEN 42,10.0,6.0,Samaje Perine left guard for 10 yards (tackle by Divine Deablo),-1.09,0.07,1.0,2023,11
+2.0,4:58,4.0,24.0,LVR 48,10.0,6.0,Riley Dixon punts 43 yards downed by Fabian Moreau,0.07,0.38,1.0,2023,11
+2.0,4:49,1.0,10.0,LVR 5,10.0,6.0,Josh Jacobs up the middle for 4 yards (tackle by Elijah Garcia and Matt Henningsen),-0.38,-0.49,1.0,2023,11
+2.0,4:10,2.0,6.0,LVR 9,10.0,6.0,Jimmy Garoppolo pass complete short right to Davante Adams for 3 yards (tackle by Patrick Surtain),-0.49,-0.6,1.0,2023,11
+2.0,3:23,3.0,3.0,LVR 12,10.0,6.0,"Penalty on Frank Clark: Neutral Zone Infraction, 5 yards (accepted) (no play)",-0.6,-0.06,1.0,2023,11
+2.0,3:05,1.0,10.0,LVR 17,10.0,6.0,Jimmy Garoppolo pass incomplete short middle intended for Davante Adams (defended by Patrick Surtain),-0.06,-0.58,1.0,2023,11
+2.0,3:02,2.0,10.0,LVR 17,10.0,6.0,Jimmy Garoppolo pass complete short left to Jakobi Meyers for 4 yards (tackle by Alex Singleton),-0.58,-0.75,1.0,2023,11
+2.0,2:53,,,,,,Timeout #2 by Denver Broncos,,,1.0,2023,11
+2.0,2:53,3.0,6.0,LVR 21,10.0,6.0,Jimmy Garoppolo pass complete short right to Jakobi Meyers for 5 yards (tackle by Alex Singleton and Josey Jewell),-0.75,-1.63,1.0,2023,11
+2.0,2:38,,,,,,Timeout #3 by Denver Broncos,,,1.0,2023,11
+2.0,2:38,4.0,1.0,LVR 26,10.0,6.0,"AJ Cole punts 49 yards, fair catch by Marvin Mims at DEN-25",-1.63,-0.61,1.0,2023,11
+2.0,2:30,1.0,10.0,DEN 25,10.0,6.0,Russell Wilson pass complete short left to Courtland Sutton for 9 yards,0.61,1.28,1.0,2023,11
+2.0,2:01,2.0,1.0,DEN 34,10.0,6.0,Russell Wilson pass complete short middle to Greg Dulcich for 9 yards (tackle by Nate Hobbs and Robert Spillane),1.28,1.8,1.0,2023,11
+2.0,1:56,1.0,10.0,DEN 43,10.0,6.0,Russell Wilson pass complete short middle to Samaje Perine for 6 yards (tackle by Divine Deablo),1.8,2.06,1.0,2023,11
+2.0,1:36,2.0,4.0,DEN 49,10.0,6.0,Russell Wilson pass complete short left to Samaje Perine for 10 yards (tackle by Nate Hobbs),2.06,2.85,1.0,2023,11
+2.0,1:29,1.0,10.0,LVR 41,10.0,6.0,Russell Wilson pass complete short left to Samaje Perine for 1 yard (tackle by Divine Deablo),2.85,2.44,1.0,2023,11
+2.0,1:00,2.0,9.0,LVR 40,10.0,6.0,Russell Wilson pass complete short left to Courtland Sutton for 3 yards (tackle by Tre'von Moehrig),2.44,2.15,1.0,2023,11
+2.0,0:39,3.0,6.0,LVR 37,10.0,6.0,"Russell Wilson pass incomplete deep left intended for Courtland Sutton. Penalty on Jakorian Bennett: Defensive Pass Interference, 17 yards (accepted) (no play)",2.15,4.24,1.0,2023,11
+2.0,0:33,1.0,10.0,LVR 20,10.0,6.0,Russell Wilson pass complete short middle to Courtland Sutton for 15 yards (tackle by Tre'von Moehrig),4.24,6.06,1.0,2023,11
+2.0,0:18,1.0,5.0,LVR 5,10.0,6.0,Russell Wilson spiked the ball,6.06,5.15,1.0,2023,11
+2.0,0:18,,,,,,Timeout #2 by Las Vegas Raiders,,,1.0,2023,11
+2.0,0:18,2.0,5.0,LVR 5,10.0,12.0,"Russell Wilson pass complete short right to Courtland Sutton for 5 yards, touchdown",5.15,7.0,1.0,2023,11
+2.0,0:12,,,LVR 15,10.0,13.0,Wil Lutz kicks extra point good,0.0,0.0,1.0,2023,11
+2.0,0:12,,,DEN 35,10.0,13.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,11
+2.0,0:12,1.0,10.0,LVR 25,10.0,13.0,Jimmy Garoppolo kneels for -1 yards,0.61,-0.07,1.0,2023,11
+3.0,15:00,,,LVR 35,10.0,13.0,"Daniel Carlson kicks off 69 yards, returned by Marvin Mims for 30 yards (tackle by Roderic Teamer)",0.0,0.67,1.0,2023,11
+3.0,14:56,1.0,10.0,DEN 26,10.0,13.0,Javonte Williams left tackle for 6 yards (tackle by Maxx Crosby and Divine Deablo),0.67,0.94,1.0,2023,11
+3.0,14:11,2.0,4.0,DEN 32,10.0,13.0,Russell Wilson pass incomplete deep left intended for Phillip Dorsett,0.94,0.23,1.0,2023,11
+3.0,14:05,3.0,4.0,DEN 32,10.0,13.0,Samaje Perine left guard for 5 yards (tackle by Robert Spillane and Jerry Tillery),0.23,1.4,1.0,2023,11
+3.0,13:21,1.0,10.0,DEN 37,10.0,13.0,Javonte Williams up the middle for 3 yards (tackle by Robert Spillane),1.4,1.26,1.0,2023,11
+3.0,12:39,2.0,7.0,DEN 40,10.0,13.0,Russell Wilson pass incomplete short left intended for Javonte Williams,1.26,0.56,1.0,2023,11
+3.0,12:34,3.0,7.0,DEN 40,10.0,13.0,"Russell Wilson scrambles for no gain. Russell Wilson fumbles (forced by Marcus Epps). Penalty on Marcus Peters: Illegal Contact, 5 yards (accepted) , recovered by Divine Deablo at DEN-47 (no play)",0.56,1.93,1.0,2023,11
+3.0,12:23,1.0,10.0,DEN 45,10.0,13.0,Samaje Perine left guard for 11 yards (tackle by Nate Hobbs and Divine Deablo),1.93,2.65,1.0,2023,11
+3.0,11:36,,,,,,Timeout #1 by Denver Broncos,,,1.0,2023,11
+3.0,11:36,1.0,10.0,LVR 44,10.0,13.0,Samaje Perine left tackle for 2 yards (tackle by Maxx Crosby),2.65,2.38,1.0,2023,11
+3.0,10:55,2.0,8.0,LVR 42,10.0,13.0,Samaje Perine for 1 yard (tackle by Jakorian Bennett and Tyree Wilson),2.38,1.82,1.0,2023,11
+3.0,10:14,3.0,7.0,LVR 41,10.0,13.0,Russell Wilson pass complete short right to Marvin Mims for 4 yards (tackle by Nate Hobbs),1.82,0.79,1.0,2023,11
+3.0,9:36,4.0,3.0,LVR 37,10.0,13.0,Wil Lutz 55 yard field goal no good,0.79,-1.93,1.0,2023,11
+3.0,9:32,1.0,10.0,LVR 45,10.0,13.0,Josh Jacobs left end for 7 yards (tackle by Jonathon Cooper),1.93,2.33,1.0,2023,11
+3.0,9:03,2.0,3.0,DEN 48,10.0,13.0,Josh Jacobs right tackle for 4 yards (tackle by Josey Jewell and Essang Bassey),2.33,2.65,1.0,2023,11
+3.0,8:24,1.0,10.0,DEN 44,10.0,13.0,Jimmy Garoppolo pass incomplete deep left intended for Davante Adams (defended by Patrick Surtain),2.65,2.11,1.0,2023,11
+3.0,8:19,2.0,10.0,DEN 44,10.0,13.0,Josh Jacobs right guard for 3 yards (tackle by D.J. Jones and Randy Gregory),2.11,1.82,1.0,2023,11
+3.0,7:35,3.0,7.0,DEN 41,10.0,13.0,"Penalty on Jermaine Eluemunor: False Start, 5 yards (accepted) (no play)",1.82,1.16,1.0,2023,11
+3.0,7:21,3.0,12.0,DEN 46,10.0,13.0,Jimmy Garoppolo pass complete short middle to Davante Adams for 12 yards (tackle by Justin Simmons),1.16,3.31,1.0,2023,11
+3.0,6:46,1.0,10.0,DEN 34,10.0,13.0,Josh Jacobs left tackle for 1 yard (tackle by Jonathan Harris),3.31,2.91,1.0,2023,11
+3.0,6:04,2.0,9.0,DEN 33,10.0,13.0,Jimmy Garoppolo pass complete short left to Davante Adams for 12 yards (tackle by Damarri Mathis),2.91,4.17,1.0,2023,11
+3.0,5:31,1.0,10.0,DEN 21,10.0,13.0,"Josh Jacobs left end for no gain (tackle by Randy Gregory and Josey Jewell). Penalty on Michael Mayer: Offensive Holding, 10 yards (accepted) (no play)",4.17,3.51,1.0,2023,11
+3.0,5:25,1.0,20.0,DEN 31,10.0,13.0,Jimmy Garoppolo pass complete short right to Jakobi Meyers for 6 yards (tackle by Justin Simmons),3.51,3.09,1.0,2023,11
+3.0,4:30,2.0,14.0,DEN 25,10.0,13.0,Jimmy Garoppolo pass complete short right to Zamir White for 5 yards (tackle by Frank Clark),3.09,3.07,1.0,2023,11
+3.0,3:53,3.0,9.0,DEN 20,10.0,13.0,"Jimmy Garoppolo pass incomplete deep left intended for Davante Adams (defended by Patrick Surtain). Penalty on Patrick Surtain: Defensive Pass Interference, 16 yards (accepted) (no play)",3.07,6.28,1.0,2023,11
+3.0,3:48,1.0,4.0,DEN 4,10.0,13.0,Josh Jacobs left tackle for 2 yards (tackle by Alex Singleton and Jonathon Cooper),6.28,5.72,1.0,2023,11
+3.0,3:08,2.0,2.0,DEN 2,10.0,13.0,"Jimmy Garoppolo pass incomplete short left intended for Jakobi Meyers. Penalty on Damarri Mathis: Defensive Pass Interference, 1 yard (accepted) (no play)",5.72,6.97,1.0,2023,11
+3.0,3:02,1.0,1.0,DEN 1,10.0,13.0,"Jimmy Garoppolo aborted snap, recovered by Jimmy Garoppolo at DEN-1",6.97,5.91,1.0,2023,11
+3.0,2:20,2.0,1.0,DEN 1,10.0,13.0,Jimmy Garoppolo pass incomplete short right intended for DeAndre Carter (no play),5.91,4.95,1.0,2023,11
+3.0,2:15,2.0,6.0,DEN 6,10.0,13.0,Jimmy Garoppolo pass incomplete short middle intended for Davante Adams (defended by Patrick Surtain),4.95,4.04,1.0,2023,11
+3.0,2:11,3.0,6.0,DEN 6,10.0,13.0,Jimmy Garoppolo pass short left (defended by Alex Singleton) intended for Ameer Abdullah is intercepted by Kareem Jackson in end zone and returned for no gain,4.04,-0.28,1.0,2023,11
+3.0,2:01,1.0,10.0,DEN 20,10.0,13.0,Javonte Williams right guard for 4 yards (tackle by Maxx Crosby and Marcus Epps),0.28,0.27,1.0,2023,11
+3.0,1:18,2.0,6.0,DEN 24,10.0,13.0,Russell Wilson pass complete short left to Javonte Williams for 3 yards (tackle by Nate Hobbs),0.27,-0.03,1.0,2023,11
+3.0,0:40,3.0,3.0,DEN 27,10.0,13.0,Russell Wilson pass complete short left to Samaje Perine for 20 yards (tackle by Jakorian Bennett),-0.03,2.06,1.0,2023,11
+3.0,0:02,1.0,10.0,DEN 47,10.0,13.0,Javonte Williams right end for 3 yards (tackle by Nate Hobbs and Robert Spillane),2.06,1.86,1.0,2023,11
+4.0,15:00,2.0,7.0,DEN 49,10.0,13.0,Russell Wilson pass complete short right to Javonte Williams for -3 yards (tackle by Marcus Epps),1.86,0.83,1.0,2023,11
+4.0,14:16,3.0,10.0,DEN 47,10.0,13.0,Russell Wilson sacked by Jerry Tillery for -4 yards,0.83,-0.59,1.0,2023,11
+4.0,13:42,4.0,15.0,DEN 42,10.0,13.0,"Riley Dixon punts, fair catch by DeAndre Carter at LV-13. Penalty on Luke Masterson: Roughing the Kicker, 15 yards (accepted) (no play)",-0.59,2.79,1.0,2023,11
+4.0,13:34,1.0,10.0,LVR 42,10.0,13.0,Javonte Williams up the middle for 5 yards (tackle by Jakorian Bennett),2.79,2.92,1.0,2023,11
+4.0,12:52,2.0,5.0,LVR 37,10.0,13.0,Russell Wilson pass complete short right to Marvin Mims for 5 yards (tackle by Marcus Peters),2.92,3.45,1.0,2023,11
+4.0,12:13,1.0,10.0,LVR 32,10.0,13.0,Russell Wilson pass complete short right to Javonte Williams for 7 yards (tackle by Robert Spillane),3.45,3.85,1.0,2023,11
+4.0,11:44,2.0,3.0,LVR 25,10.0,13.0,Russell Wilson pass complete short left to Adam Trautman for 2 yards (tackle by Jakorian Bennett),3.85,3.4,1.0,2023,11
+4.0,11:00,3.0,1.0,LVR 23,10.0,13.0,Russell Wilson pass complete short right to Michael Burton for 3 yards (tackle by Robert Spillane),3.4,4.24,1.0,2023,11
+4.0,10:20,1.0,10.0,LVR 20,10.0,13.0,Samaje Perine left guard for 12 yards (tackle by Nate Hobbs and Divine Deablo),4.24,5.37,1.0,2023,11
+4.0,9:48,1.0,8.0,LVR 8,10.0,13.0,Russell Wilson pass complete short left to Adam Trautman for 3 yards (tackle by Jakorian Bennett),5.37,5.15,1.0,2023,11
+4.0,9:07,2.0,5.0,LVR 5,10.0,13.0,Russell Wilson pass incomplete short left intended for Brandon Johnson (defended by Divine Deablo),5.15,4.26,1.0,2023,11
+4.0,9:04,3.0,5.0,LVR 5,10.0,13.0,Russell Wilson pass incomplete short right,4.26,3.01,1.0,2023,11
+4.0,8:57,4.0,5.0,LVR 5,10.0,16.0,Wil Lutz 24 yard field goal good,3.01,3.0,1.0,2023,11
+4.0,8:54,,,DEN 35,10.0,16.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,11
+4.0,8:54,1.0,10.0,LVR 25,10.0,16.0,Jimmy Garoppolo pass incomplete short left intended for Josh Jacobs,0.61,0.06,1.0,2023,11
+4.0,8:50,2.0,10.0,LVR 25,10.0,16.0,Jimmy Garoppolo pass complete deep left to Davante Adams for 18 yards,0.06,1.8,1.0,2023,11
+4.0,8:14,1.0,10.0,LVR 43,10.0,16.0,"Jimmy Garoppolo pass complete short middle to Jakobi Meyers for 16 yards (tackle by Damarri Mathis). Penalty on Essang Bassey: Roughing the Passer, 15 yards (accepted)",1.8,3.84,1.0,2023,11
+4.0,7:45,1.0,10.0,DEN 26,10.0,16.0,Jimmy Garoppolo pass complete deep right to Austin Hooper for 20 yards (tackle by Justin Simmons),3.84,5.83,1.0,2023,11
+4.0,7:20,1.0,6.0,DEN 6,10.0,16.0,Josh Jacobs up the middle for no gain (tackle by Mike Purcell and Zach Allen),5.83,4.95,1.0,2023,11
+4.0,6:38,2.0,6.0,DEN 6,16.0,16.0,"Jimmy Garoppolo pass complete short middle to Jakobi Meyers for 6 yards, touchdown",4.95,7.0,1.0,2023,11
+4.0,6:34,,,DEN 15,17.0,16.0,Daniel Carlson kicks extra point good,0.0,0.0,1.0,2023,11
+4.0,6:34,,,LVR 35,17.0,16.0,"Daniel Carlson kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,11
+4.0,6:34,1.0,10.0,DEN 25,17.0,16.0,Javonte Williams right tackle for -1 yards (tackle by Nate Hobbs and Divine Deablo),0.61,-0.07,1.0,2023,11
+4.0,5:55,2.0,11.0,DEN 24,17.0,16.0,Russell Wilson pass incomplete short right intended for Courtland Sutton,-0.07,-0.76,1.0,2023,11
+4.0,5:51,3.0,11.0,DEN 24,17.0,16.0,Russell Wilson pass complete short left to Adam Trautman for 8 yards (tackle by Tre'von Moehrig),-0.76,-1.24,1.0,2023,11
+4.0,5:13,4.0,3.0,DEN 32,17.0,16.0,Riley Dixon punts 37 yards out of bounds,-1.24,-1.0,1.0,2023,11
+4.0,5:08,1.0,10.0,LVR 31,17.0,16.0,Jimmy Garoppolo pass complete short left to DeAndre Carter for 5 yards (tackle by D.J. Jones),1.0,1.14,1.0,2023,11
+4.0,4:32,2.0,5.0,LVR 36,17.0,16.0,Josh Jacobs right tackle for 6 yards (tackle by Jonathon Cooper),1.14,1.73,1.0,2023,11
+4.0,3:53,1.0,10.0,LVR 42,17.0,16.0,Josh Jacobs left tackle for 5 yards (tackle by Jonathan Harris),1.73,1.86,1.0,2023,11
+4.0,3:08,2.0,5.0,LVR 47,17.0,16.0,Josh Jacobs right guard for -3 yards (tackle by Zach Allen),1.86,0.76,1.0,2023,11
+4.0,3:00,,,,,,Timeout #2 by Denver Broncos,,,1.0,2023,11
+4.0,3:00,3.0,8.0,LVR 44,17.0,16.0,Jimmy Garoppolo pass complete short middle to Jakobi Meyers for 7 yards (tackle by Kareem Jackson),0.76,0.0,1.0,2023,11
+4.0,3:00,4.0,1.0,DEN 49,17.0,16.0,"Penalty on Kareem Jackson: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",0.0,3.31,1.0,2023,11
+4.0,2:54,1.0,10.0,DEN 34,17.0,16.0,Josh Jacobs right guard for 2 yards (tackle by Zach Allen and Josey Jewell),3.31,3.04,1.0,2023,11
+4.0,2:06,2.0,8.0,DEN 32,17.0,16.0,Jimmy Garoppolo scrambles left end for 1 yard (tackle by D.J. Jones),3.04,2.48,1.0,2023,11
+4.0,2:00,3.0,7.0,DEN 31,17.0,16.0,Jimmy Garoppolo scrambles left end for 8 yards (tackle by Josey Jewell),2.48,4.04,1.0,2023,11
+4.0,1:42,,,,,,Timeout #3 by Denver Broncos,,,1.0,2023,11
+4.0,1:42,1.0,10.0,DEN 23,17.0,16.0,Jimmy Garoppolo kneels for -2 yards,4.04,3.23,1.0,2023,11
+4.0,0:59,2.0,12.0,DEN 25,17.0,16.0,Jimmy Garoppolo kneels for -2 yards,3.23,2.28,1.0,2023,11
+4.0,0:20,3.0,14.0,DEN 27,17.0,16.0,Jimmy Garoppolo kneels for -1 yards,2.28,1.59,1.0,2023,11

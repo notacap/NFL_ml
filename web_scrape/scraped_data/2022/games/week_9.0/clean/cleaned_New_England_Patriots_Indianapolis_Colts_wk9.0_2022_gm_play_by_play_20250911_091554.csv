@@ -1,0 +1,168 @@
+Quarter,Time,Down,ToGo,Location,IND,NWE,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Colts won the coin toss and deferred, Patriots to receive the opening kickoff.",,,9.0,2022,131
+1.0,15:00,,,IND 35,0.0,0.0,"Chase McLaughlin kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,131
+1.0,15:00,1.0,10.0,NWE 25,0.0,0.0,Rhamondre Stevenson left tackle for -2 yards (tackle by DeForest Buckner),0.61,-0.21,9.0,2022,131
+1.0,14:32,2.0,12.0,NWE 23,0.0,0.0,Mac Jones pass incomplete short right intended for Rhamondre Stevenson,-0.21,-0.89,9.0,2022,131
+1.0,14:27,3.0,12.0,NWE 23,0.0,0.0,Mac Jones pass incomplete short middle intended for Kendrick Bourne,-0.89,-1.83,9.0,2022,131
+1.0,14:24,4.0,12.0,NWE 23,0.0,0.0,"Jake Bailey punts 58 yards, returned by Keke Coutee for 12 yards (tackle by Ja'Whaun Bentley)",-1.83,-1.0,9.0,2022,131
+1.0,14:11,1.0,10.0,IND 31,0.0,0.0,Sam Ehlinger sacked by Matt Judon for -3 yards,1.0,0.06,9.0,2022,131
+1.0,13:31,2.0,13.0,IND 28,0.0,0.0,Phillip Lindsay left end for 2 yards (tackle by Jalen Mills),0.06,-0.36,9.0,2022,131
+1.0,12:50,3.0,11.0,IND 30,0.0,0.0,"Sam Ehlinger sacked by Matt Judon for no gain. Penalty on Daniel Ekuale: Roughing the Passer, 15 yards (accepted) (no play)",-0.36,1.93,9.0,2022,131
+1.0,12:25,1.0,10.0,IND 45,0.0,0.0,Sam Ehlinger pass incomplete deep right intended for Jelani Woods,1.93,1.38,9.0,2022,131
+1.0,12:19,2.0,10.0,IND 45,0.0,0.0,Deon Jackson right guard for 5 yards (tackle by Lawrence Guy and Ja'Whaun Bentley),1.38,1.36,9.0,2022,131
+1.0,11:36,3.0,5.0,IND 50,0.0,0.0,Sam Ehlinger pass incomplete short left intended for Alec Pierce (defended by Jalen Mills),1.36,-0.06,9.0,2022,131
+1.0,11:32,4.0,5.0,IND 50,0.0,0.0,Matt Haack punts 41 yards out of bounds,-0.06,0.38,9.0,2022,131
+1.0,11:24,1.0,10.0,NWE 9,0.0,0.0,Rhamondre Stevenson up the middle for -5 yards (tackle by Bobby Okereke),-0.38,-1.15,9.0,2022,131
+1.0,10:47,2.0,15.0,NWE 4,0.0,0.0,"Rhamondre Stevenson up the middle for 5 yards (tackle by Kwity Paye). Penalty on Cole Strange: Illegal Use of Hands / Offense, 5 yards (declined)",-1.15,-1.42,9.0,2022,131
+1.0,10:16,3.0,10.0,NWE 9,0.0,0.0,Mac Jones sacked by and DeForest Buckner for -3 yards and Yannick Ngakoue for -3 yards,-1.42,-2.49,9.0,2022,131
+1.0,9:42,4.0,13.0,NWE 6,0.0,0.0,Jake Bailey punts 36 yards out of bounds,-2.49,-2.79,9.0,2022,131
+1.0,9:34,1.0,10.0,NWE 42,0.0,0.0,Deon Jackson up the middle for no gain (tackle by Ja'Whaun Bentley and Jabrill Peppers),2.79,2.24,9.0,2022,131
+1.0,9:02,2.0,10.0,NWE 42,0.0,0.0,Sam Ehlinger left guard for 2 yards (tackle by Jahlani Tavai),2.24,1.82,9.0,2022,131
+1.0,8:20,3.0,8.0,NWE 40,0.0,0.0,Sam Ehlinger sacked by Matt Judon for -8 yards,1.82,0.07,9.0,2022,131
+1.0,7:39,4.0,16.0,NWE 48,0.0,0.0,Matt Haack punts 29 yards out of bounds,0.07,-0.15,9.0,2022,131
+1.0,7:32,1.0,10.0,NWE 19,0.0,0.0,J.J. Taylor left end for 1 yard (tackle by Shaquille Leonard),0.15,-0.2,9.0,2022,131
+1.0,6:56,2.0,9.0,NWE 20,0.0,0.0,Mac Jones pass complete short middle to J.J. Taylor for 8 yards (tackle by Shaquille Leonard),-0.2,0.1,9.0,2022,131
+1.0,6:15,3.0,1.0,NWE 28,0.0,0.0,Jakobi Meyers up the middle for 2 yards (tackle by Grover Stewart),0.1,0.94,9.0,2022,131
+1.0,5:36,1.0,10.0,NWE 30,0.0,0.0,J.J. Taylor up the middle for 1 yard (tackle by Kwity Paye),0.94,0.53,9.0,2022,131
+1.0,4:57,2.0,9.0,NWE 31,0.0,0.0,Mac Jones sacked by Kwity Paye for -6 yards,0.53,-0.96,9.0,2022,131
+1.0,4:11,3.0,15.0,NWE 25,0.0,0.0,Mac Jones pass complete short left to Kendrick Bourne for 10 yards (tackle by Brandon Facyson),-0.96,-1.04,9.0,2022,131
+1.0,3:31,4.0,5.0,NWE 35,0.0,0.0,"Jake Bailey punts 47 yards, returned by Keke Coutee for 6 yards (tackle by Brenden Schooler and DaMarcus Mitchell)",-1.04,-0.54,9.0,2022,131
+1.0,3:21,1.0,10.0,IND 24,0.0,0.0,Deon Jackson right guard for 3 yards (tackle by Adrian Phillips and Ja'Whaun Bentley),0.54,0.4,9.0,2022,131
+1.0,2:48,2.0,7.0,IND 27,0.0,0.0,Deon Jackson up the middle for 2 yards (tackle by Jahlani Tavai and Ja'Whaun Bentley),0.4,-0.03,9.0,2022,131
+1.0,2:08,3.0,5.0,IND 29,0.0,0.0,Sam Ehlinger sacked by Ja'Whaun Bentley for -5 yards,-0.03,-1.77,9.0,2022,131
+1.0,1:24,4.0,10.0,IND 24,0.0,0.0,"Matt Haack punts 49 yards, fair catch by Marcus Jones at NE-27",-1.77,-0.74,9.0,2022,131
+1.0,1:16,1.0,10.0,NWE 27,0.0,0.0,Mac Jones pass complete short right to Jonnu Smith for 24 yards (tackle by Shaquille Leonard),0.74,2.32,9.0,2022,131
+1.0,0:37,1.0,10.0,IND 49,0.0,0.0,Rhamondre Stevenson right end for 11 yards (tackle by Rodney Thomas),2.32,3.05,9.0,2022,131
+2.0,15:00,1.0,10.0,IND 38,0.0,0.0,Kendrick Bourne right end for 1 yard (tackle by Rodney McLeod),3.05,2.64,9.0,2022,131
+2.0,14:16,2.0,9.0,IND 37,0.0,0.0,Mac Jones pass complete short middle to Jakobi Meyers for 6 yards (tackle by Zaire Franklin),2.64,2.74,9.0,2022,131
+2.0,13:40,3.0,3.0,IND 31,0.0,0.0,Mac Jones pass incomplete deep right intended for Rhamondre Stevenson,2.74,1.38,9.0,2022,131
+2.0,13:35,4.0,3.0,IND 31,0.0,3.0,Nick Folk 49 yard field goal good,1.38,3.0,9.0,2022,131
+2.0,13:30,,,NWE 35,0.0,3.0,"Jake Bailey kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,131
+2.0,13:30,1.0,10.0,IND 25,0.0,3.0,Deon Jackson up the middle for 2 yards (tackle by Davon Godchaux),0.61,0.33,9.0,2022,131
+2.0,12:51,2.0,8.0,IND 27,0.0,3.0,Deon Jackson left tackle for 1 yard (tackle by Jabrill Peppers and Raekwon McMillan),0.33,-0.23,9.0,2022,131
+2.0,12:06,3.0,7.0,IND 28,0.0,3.0,Sam Ehlinger pass incomplete deep left intended for Michael Pittman,-0.23,-1.5,9.0,2022,131
+2.0,12:03,4.0,7.0,IND 28,0.0,3.0,"Matt Haack punts 38 yards, returned by Marcus Jones for 23 yards (tackle by Dallis Flowers and Nick Cross)",-1.5,-2.72,9.0,2022,131
+2.0,11:50,1.0,10.0,IND 43,0.0,3.0,Mac Jones pass complete short right to Hunter Henry for 3 yards (tackle by Bobby Okereke),2.72,2.58,9.0,2022,131
+2.0,11:23,2.0,7.0,IND 40,0.0,3.0,Mac Jones pass complete short right to Hunter Henry for 6 yards (tackle by Stephon Gilmore),2.58,2.68,9.0,2022,131
+2.0,10:54,3.0,1.0,IND 34,0.0,3.0,Rhamondre Stevenson up the middle for 2 yards (tackle by Kwity Paye),2.68,3.45,9.0,2022,131
+2.0,10:31,1.0,10.0,IND 32,0.0,3.0,"Rhamondre Stevenson left guard for no gain (tackle by Zaire Franklin). Penalty on Isaiah Wynn: Offensive Holding, 10 yards (accepted) (no play)",3.45,2.79,9.0,2022,131
+2.0,10:03,1.0,20.0,IND 42,0.0,3.0,Rhamondre Stevenson up the middle for 16 yards (tackle by Julian Blackmon),2.79,3.71,9.0,2022,131
+2.0,9:35,2.0,4.0,IND 26,0.0,3.0,Rhamondre Stevenson left guard for 2 yards (tackle by DeForest Buckner),3.71,3.27,9.0,2022,131
+2.0,9:00,3.0,2.0,IND 24,0.0,3.0,Mac Jones pass incomplete short left intended for Rhamondre Stevenson,3.27,1.99,9.0,2022,131
+2.0,8:55,4.0,2.0,IND 24,0.0,6.0,Nick Folk 43 yard field goal good,1.99,3.0,9.0,2022,131
+2.0,8:50,,,NWE 35,0.0,6.0,"Jake Bailey kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,131
+2.0,8:50,1.0,10.0,IND 25,0.0,6.0,Sam Ehlinger pass incomplete short left intended for Deon Jackson,0.61,0.06,9.0,2022,131
+2.0,8:45,2.0,10.0,IND 25,0.0,6.0,Deon Jackson up the middle for 2 yards (tackle by Ja'Whaun Bentley and Anfernee Jennings),0.06,-0.36,9.0,2022,131
+2.0,8:03,3.0,8.0,IND 27,0.0,6.0,"Sam Ehlinger pass complete short left to Michael Pittman for no gain (tackle by Kyle Dugger). Penalty on Braden Smith: Illegal Use of Hands / Offense, 10 yards (accepted) (no play)",-0.36,-1.93,9.0,2022,131
+2.0,7:41,3.0,18.0,IND 17,0.0,6.0,Sam Ehlinger pass complete short left to Jordan Wilkins for 9 yards (tackle by Myles Bryant and Kyle Dugger),-1.93,-1.63,9.0,2022,131
+2.0,7:04,4.0,10.0,IND 26,0.0,6.0,Matt Haack punts blocked by Jonathan Jones (tackle by Matt Haack),-1.63,0.0,9.0,2022,131
+2.0,6:58,1.0,3.0,IND 2,0.0,6.0,J.J. Taylor up the middle for -1 yards (tackle by Zaire Franklin),0.0,5.53,9.0,2022,131
+2.0,6:18,2.0,3.0,IND 3,0.0,12.0,"Mac Jones pass complete short left to Rhamondre Stevenson for 3 yards, touchdown",5.53,7.0,9.0,2022,131
+2.0,6:12,,,IND 15,0.0,13.0,Nick Folk kicks extra point good,0.0,0.0,9.0,2022,131
+2.0,6:12,,,NWE 35,0.0,13.0,"Jake Bailey kicks off 66 yards, returned by Isaiah Rodgers for 24 yards (tackle by Kyle Dugger)",0.0,0.48,9.0,2022,131
+2.0,6:05,1.0,10.0,IND 23,0.0,13.0,Jordan Wilkins right tackle for 4 yards (tackle by Lawrence Guy),0.48,0.47,9.0,2022,131
+2.0,5:29,2.0,6.0,IND 27,0.0,13.0,Sam Ehlinger pass complete short left to Parris Campbell for 11 yards (tackle by Devin McCourty and Adrian Phillips),0.47,1.47,9.0,2022,131
+2.0,4:51,1.0,10.0,IND 38,0.0,13.0,Deon Jackson left tackle for 1 yard (tackle by Deatrich Wise and Lawrence Guy),1.47,1.06,9.0,2022,131
+2.0,4:10,2.0,9.0,IND 39,0.0,13.0,Sam Ehlinger pass incomplete short middle intended for Michael Pittman (defended by Jalen Mills),1.06,0.37,9.0,2022,131
+2.0,4:05,3.0,9.0,IND 39,0.0,13.0,Sam Ehlinger sacked by Josh Uche for -8 yards,0.37,-1.31,9.0,2022,131
+2.0,3:22,4.0,17.0,IND 31,0.0,13.0,"Matt Haack punts 45 yards, fair catch by Marcus Jones at NE-24",-1.31,-0.54,9.0,2022,131
+2.0,3:18,1.0,10.0,NWE 24,0.0,13.0,Mac Jones pass complete short left to Rhamondre Stevenson for 2 yards (tackle by Stephon Gilmore),0.54,0.27,9.0,2022,131
+2.0,2:42,2.0,8.0,NWE 26,0.0,13.0,Rhamondre Stevenson left end for 10 yards (tackle by Rodney McLeod),0.27,1.33,9.0,2022,131
+2.0,2:10,1.0,10.0,NWE 36,0.0,13.0,Rhamondre Stevenson up the middle for 2 yards (tackle by Grover Stewart),1.33,1.06,9.0,2022,131
+2.0,2:00,2.0,8.0,NWE 38,0.0,13.0,Mac Jones pass incomplete short middle intended for Tyquan Thornton,1.06,0.37,9.0,2022,131
+2.0,1:57,3.0,8.0,NWE 38,0.0,13.0,"Penalty on Kwity Paye: Neutral Zone Infraction, 5 yards (accepted) (no play)",0.37,1.03,9.0,2022,131
+2.0,1:57,3.0,3.0,NWE 43,0.0,13.0,"Mac Jones sacked by and DeForest Buckner for -5 yards and Zaire Franklin for -5 yards. Penalty on Trent Brown: Offensive Holding, 10 yards (declined)",1.03,-0.85,9.0,2022,131
+2.0,1:45,4.0,8.0,NWE 38,0.0,13.0,"Jake Bailey punts 40 yards, returned by Keke Coutee for 8 yards (tackle by Mack Wilson)",-0.85,-0.94,9.0,2022,131
+2.0,1:34,1.0,10.0,IND 30,0.0,13.0,Sam Ehlinger scrambles up the middle for 5 yards (tackle by Ja'Whaun Bentley),0.94,1.07,9.0,2022,131
+2.0,1:11,2.0,5.0,IND 35,0.0,13.0,Sam Ehlinger scrambles for 9 yards (tackle by Myles Bryant),1.07,1.86,9.0,2022,131
+2.0,1:01,1.0,10.0,IND 44,0.0,13.0,"Penalty on Daniel Ekuale: Encroachment, 5 yards (accepted) (no play)",1.86,2.59,9.0,2022,131
+2.0,1:01,1.0,5.0,IND 49,0.0,13.0,Sam Ehlinger pass incomplete short right,2.59,1.99,9.0,2022,131
+2.0,0:53,,,,,,Timeout #1 by New England Patriots,,,9.0,2022,131
+2.0,0:53,2.0,5.0,IND 49,0.0,13.0,Sam Ehlinger pass complete short left to Deon Jackson for 5 yards (tackle by Adrian Phillips),1.99,2.52,9.0,2022,131
+2.0,0:44,,,,,,Timeout #1 by Indianapolis Colts,,,9.0,2022,131
+2.0,0:44,1.0,10.0,NWE 46,0.0,13.0,Sam Ehlinger pass complete short right to Alec Pierce for 23 yards (tackle by Devin McCourty),2.52,4.04,9.0,2022,131
+2.0,0:36,1.0,10.0,NWE 23,0.0,13.0,Sam Ehlinger pass complete short middle to Parris Campbell for 4 yards (tackle by Myles Bryant),4.04,4.05,9.0,2022,131
+2.0,0:30,2.0,6.0,NWE 19,0.0,13.0,"Sam Ehlinger pass complete to Parris Campbell for -3 yards (tackle by Kyle Dugger) Replay Assistant challenged the pass completion ruling, and the original play was overturned. Sam Ehlinger pass incomplete short left intended for Parris Campbell",4.05,3.34,9.0,2022,131
+2.0,0:27,3.0,6.0,NWE 19,0.0,13.0,Sam Ehlinger sacked by Josh Uche for -2 yards,3.34,2.06,9.0,2022,131
+2.0,0:21,4.0,8.0,NWE 21,0.0,13.0,Chase McLaughlin 39 yard field goal no good,2.06,-0.87,9.0,2022,131
+2.0,0:18,1.0,10.0,NWE 29,0.0,13.0,Mac Jones kneels for -2 yards,0.87,0.06,9.0,2022,131
+3.0,15:00,,,NWE 35,0.0,13.0,"Jake Bailey kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,131
+3.0,15:00,1.0,10.0,IND 25,0.0,13.0,Deon Jackson left tackle for 2 yards (tackle by Jahlani Tavai and Deatrich Wise),0.61,0.33,9.0,2022,131
+3.0,14:20,2.0,8.0,IND 27,0.0,13.0,Sam Ehlinger pass incomplete deep left intended for Parris Campbell,0.33,-0.36,9.0,2022,131
+3.0,14:15,3.0,8.0,IND 27,0.0,13.0,Sam Ehlinger sacked by Josh Uche for -1 yards,-0.36,-1.63,9.0,2022,131
+3.0,13:34,4.0,9.0,IND 26,0.0,13.0,Matt Haack punts 40 yards downed by Dallis Flowers,-1.63,-1.2,9.0,2022,131
+3.0,13:24,1.0,10.0,NWE 34,0.0,13.0,J.J. Taylor right tackle for -3 yards (tackle by Grover Stewart),1.2,0.25,9.0,2022,131
+3.0,12:46,2.0,13.0,NWE 31,0.0,13.0,"Mac Jones pass complete short left to Jakobi Meyers for 8 yards. Jakobi Meyers fumbles (forced by Bobby Okereke), recovered by Bobby Okereke at NE-39 (tackle by Bobby Okereke)",0.25,-2.92,9.0,2022,131
+3.0,12:40,1.0,10.0,NWE 40,0.0,13.0,Sam Ehlinger pass complete short middle to Michael Pittman for 7 yards (tackle by Adrian Phillips),2.92,3.32,9.0,2022,131
+3.0,12:05,2.0,3.0,NWE 33,0.0,13.0,Deon Jackson up the middle for 5 yards (tackle by Davon Godchaux and Lawrence Guy),3.32,3.71,9.0,2022,131
+3.0,11:25,1.0,10.0,NWE 28,0.0,13.0,Sam Ehlinger pass complete short right to Deon Jackson for 8 yards (tackle by Kyle Dugger),3.71,4.25,9.0,2022,131
+3.0,10:56,2.0,2.0,NWE 20,0.0,13.0,Jordan Wilkins right guard for 4 yards (tackle by Adrian Phillips and Matt Judon),4.25,4.51,9.0,2022,131
+3.0,10:10,1.0,10.0,NWE 16,0.0,13.0,Parris Campbell left tackle for 1 yard (tackle by Ja'Whaun Bentley),4.51,4.05,9.0,2022,131
+3.0,9:31,2.0,9.0,NWE 15,0.0,13.0,Sam Ehlinger pass complete short right to Jordan Wilkins for 2 yards (tackle by Adrian Phillips and Matt Judon),4.05,3.54,9.0,2022,131
+3.0,8:47,3.0,7.0,NWE 13,0.0,13.0,Sam Ehlinger sacked by Matt Judon for -9 yards,3.54,1.99,9.0,2022,131
+3.0,8:04,4.0,16.0,NWE 22,3.0,13.0,Chase McLaughlin 40 yard field goal good,1.99,3.0,9.0,2022,131
+3.0,8:00,,,IND 35,3.0,13.0,"Chase McLaughlin kicks off 64 yards, returned by Marcus Jones for 32 yards (tackle by Rodney McLeod and Julian Blackmon)",0.0,1.14,9.0,2022,131
+3.0,7:53,1.0,10.0,NWE 33,3.0,13.0,Mac Jones pass complete short right to Tyquan Thornton for 5 yards (tackle by Kenny Moore),1.14,1.27,9.0,2022,131
+3.0,7:15,2.0,5.0,NWE 38,3.0,13.0,Rhamondre Stevenson right guard for 6 yards (tackle by Rodney Thomas),1.27,1.86,9.0,2022,131
+3.0,6:39,1.0,10.0,NWE 44,3.0,13.0,Mac Jones pass complete short right to Jonnu Smith for 2 yards (tackle by Zaire Franklin),1.86,1.59,9.0,2022,131
+3.0,6:01,2.0,8.0,NWE 46,3.0,13.0,Mac Jones pass complete short middle to Jakobi Meyers for 6 yards (tackle by Rodney Thomas),1.59,1.69,9.0,2022,131
+3.0,5:25,3.0,2.0,IND 48,3.0,13.0,Mac Jones pass complete deep right to Jakobi Meyers for 17 yards (tackle by Rodney Thomas),1.69,3.51,9.0,2022,131
+3.0,4:55,1.0,10.0,IND 31,3.0,13.0,Rhamondre Stevenson left guard for 6 yards (tackle by DeForest Buckner and Kenny Moore),3.51,3.78,9.0,2022,131
+3.0,4:34,2.0,4.0,IND 25,3.0,13.0,Mac Jones pass incomplete deep left intended for Tyquan Thornton,3.78,3.07,9.0,2022,131
+3.0,4:28,3.0,4.0,IND 25,3.0,13.0,Mac Jones pass incomplete short left intended for Rhamondre Stevenson,3.07,1.88,9.0,2022,131
+3.0,4:22,4.0,4.0,IND 25,3.0,16.0,Nick Folk 43 yard field goal good,1.88,3.0,9.0,2022,131
+3.0,4:17,,,NWE 35,3.0,16.0,"Jake Bailey kicks off 63 yards, returned by Isaiah Rodgers for 22 yards (tackle by Pierre Strong)",0.0,0.54,9.0,2022,131
+3.0,4:11,1.0,10.0,IND 24,3.0,16.0,Sam Ehlinger pass complete short right to Jelani Woods for 2 yards (tackle by Devin McCourty),0.54,0.27,9.0,2022,131
+3.0,3:39,2.0,8.0,IND 26,3.0,16.0,Sam Ehlinger pass complete short middle to Mo Alie-Cox for 5 yards (tackle by Jahlani Tavai),0.27,0.17,9.0,2022,131
+3.0,2:58,3.0,4.0,IND 31,3.0,16.0,Sam Ehlinger pass incomplete deep right intended for Jelani Woods (defended by Devin McCourty),0.17,-1.31,9.0,2022,131
+3.0,2:54,4.0,3.0,IND 31,3.0,16.0,"Matt Haack punts 54 yards, returned by Marcus Jones for 7 yards (tackle by Luke Rhodes)",-1.31,-0.41,9.0,2022,131
+3.0,2:43,1.0,10.0,NWE 22,3.0,16.0,Mac Jones pass incomplete short right,0.41,-0.13,9.0,2022,131
+3.0,2:39,2.0,10.0,NWE 22,3.0,16.0,J.J. Taylor right guard for 3 yards (tackle by Shaquille Leonard),-0.13,-0.43,9.0,2022,131
+3.0,2:01,3.0,7.0,NWE 25,3.0,16.0,Mac Jones pass incomplete short left intended for Jakobi Meyers,-0.43,-1.7,9.0,2022,131
+3.0,1:51,4.0,7.0,NWE 25,3.0,16.0,Jake Bailey punts 39 yards out of bounds,-1.7,-1.33,9.0,2022,131
+3.0,1:45,1.0,10.0,IND 36,3.0,16.0,Sam Ehlinger pass complete short middle to Michael Pittman for 5 yards (tackle by Jonathan Jones),1.33,1.47,9.0,2022,131
+3.0,1:02,2.0,5.0,IND 41,3.0,16.0,Sam Ehlinger scrambles right end for 4 yards (tackle by Jabrill Peppers),1.47,1.29,9.0,2022,131
+3.0,0:26,3.0,1.0,IND 45,3.0,16.0,Kylen Granson up the middle for no gain (tackle by Jabrill Peppers),1.29,-0.39,9.0,2022,131
+4.0,15:00,4.0,1.0,IND 45,3.0,16.0,Deon Jackson for no gain (tackle by Matt Judon),-0.39,-2.59,9.0,2022,131
+4.0,14:55,1.0,10.0,IND 45,3.0,16.0,Mac Jones pass incomplete deep left intended for Tyquan Thornton,2.59,2.04,9.0,2022,131
+4.0,14:52,2.0,10.0,IND 45,3.0,16.0,Mac Jones pass complete short middle to Kendrick Bourne for 1 yard (tackle by Kwity Paye),2.04,1.49,9.0,2022,131
+4.0,14:18,3.0,9.0,IND 44,3.0,16.0,Mac Jones pass complete deep middle to Hunter Henry for 30 yards (tackle by Rodney McLeod and Julian Blackmon),1.49,4.65,9.0,2022,131
+4.0,13:45,1.0,10.0,IND 14,3.0,16.0,Rhamondre Stevenson left tackle for 2 yards (tackle by DeForest Buckner),4.65,4.33,9.0,2022,131
+4.0,13:12,2.0,8.0,IND 12,3.0,16.0,Mac Jones pass complete short left to Rhamondre Stevenson for 5 yards (tackle by DeForest Buckner),4.33,4.5,9.0,2022,131
+4.0,12:32,3.0,3.0,IND 7,3.0,16.0,Mac Jones pass complete short left to Jakobi Meyers for 5 yards (tackle by Stephon Gilmore and Kenny Moore),4.5,6.74,9.0,2022,131
+4.0,12:08,1.0,2.0,IND 2,3.0,16.0,Rhamondre Stevenson left guard for -3 yards (tackle by Zaire Franklin),6.74,5.15,9.0,2022,131
+4.0,11:33,2.0,5.0,IND 5,3.0,16.0,Rhamondre Stevenson up the middle for no gain (tackle by Kwity Paye),5.15,4.26,9.0,2022,131
+4.0,10:57,3.0,5.0,IND 5,3.0,16.0,Mac Jones sacked by Julian Blackmon for no gain,4.26,3.01,9.0,2022,131
+4.0,10:13,4.0,5.0,IND 5,3.0,16.0,"Penalty on Joe Cardona: False Start, 5 yards (accepted) (no play)",3.01,2.76,9.0,2022,131
+4.0,10:13,4.0,10.0,IND 10,3.0,19.0,Nick Folk 28 yard field goal good,2.76,3.0,9.0,2022,131
+4.0,10:10,,,NWE 35,3.0,19.0,"Jake Bailey kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,131
+4.0,10:10,1.0,10.0,IND 25,3.0,19.0,Sam Ehlinger pass incomplete short left intended for Jordan Wilkins (defended by Jack Jones),0.61,0.06,9.0,2022,131
+4.0,10:05,2.0,10.0,IND 25,3.0,19.0,Sam Ehlinger sacked by and Jahlani Tavai for -15 yards and Deatrich Wise for -15 yards,0.06,-3.18,9.0,2022,131
+4.0,9:17,3.0,25.0,IND 10,3.0,19.0,Sam Ehlinger pass complete short left to Michael Pittman for 10 yards (tackle by Josh Uche and Mack Wilson),-3.18,-2.03,9.0,2022,131
+4.0,8:40,4.0,15.0,IND 20,3.0,19.0,"Matt Haack punts 52 yards, returned by Marcus Jones for 4 yards (tackle by E.J. Speed)",-2.03,-1.07,9.0,2022,131
+4.0,8:30,1.0,10.0,NWE 32,3.0,19.0,J.J. Taylor left tackle for -2 yards (tackle by Grover Stewart),1.07,0.26,9.0,2022,131
+4.0,7:58,2.0,12.0,NWE 30,3.0,19.0,J.J. Taylor left guard for 5 yards (tackle by Kenny Moore),0.26,0.23,9.0,2022,131
+4.0,7:25,3.0,7.0,NWE 35,3.0,19.0,Mac Jones pass complete short left to Hunter Henry for 11 yards (tackle by Shaquille Leonard and Rodney McLeod),0.23,1.99,9.0,2022,131
+4.0,6:52,1.0,10.0,NWE 46,3.0,19.0,"Mac Jones pass complete short right to Kendrick Bourne for no gain. Kendrick Bourne fumbles (forced by Isaiah Rodgers), recovered by J.J. Taylor at NE-46 (tackle by Isaiah Rodgers)",1.99,1.45,9.0,2022,131
+4.0,6:07,2.0,10.0,NWE 46,3.0,19.0,Mac Jones pass complete short left to Jonnu Smith for -5 yards (tackle by Rodney McLeod),1.45,0.1,9.0,2022,131
+4.0,5:25,3.0,15.0,NWE 41,3.0,19.0,Rhamondre Stevenson left end for 8 yards (tackle by Zaire Franklin),0.1,-0.13,9.0,2022,131
+4.0,5:19,,,,,,Timeout #1 by Indianapolis Colts,,,9.0,2022,131
+4.0,5:19,4.0,7.0,NWE 49,3.0,19.0,"Jake Bailey punts 44 yards, returned by Keke Coutee for 4 yards (tackle by Brenden Schooler and Matthew Slater)",-0.13,0.37,9.0,2022,131
+4.0,5:09,1.0,10.0,IND 11,3.0,19.0,Sam Ehlinger pass complete short right to Jordan Wilkins for 4 yards (tackle by Jack Jones and Jabrill Peppers),-0.37,-0.43,9.0,2022,131
+4.0,4:43,2.0,6.0,IND 15,3.0,19.0,Sam Ehlinger sacked by Raekwon McMillan for -9 yards,-0.43,-2.01,9.0,2022,131
+4.0,4:07,3.0,15.0,IND 6,3.0,25.0,"Sam Ehlinger pass short left intended for Kylen Granson is intercepted by Jonathan Jones at IND-17 and returned for 17 yards, touchdown",-2.01,-7.0,9.0,2022,131
+4.0,3:59,,,IND 15,3.0,26.0,Nick Folk kicks extra point good,0.0,0.0,9.0,2022,131
+4.0,3:59,,,NWE 35,3.0,26.0,"Jake Bailey kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,131
+4.0,3:59,1.0,10.0,IND 25,3.0,26.0,Sam Ehlinger pass complete short left to Jordan Wilkins for no gain (tackle by Ja'Whaun Bentley and Josh Uche),0.61,0.06,9.0,2022,131
+4.0,3:33,2.0,10.0,IND 25,3.0,26.0,Sam Ehlinger scrambles left tackle for 19 yards (tackle by Devin McCourty),0.06,1.86,9.0,2022,131
+4.0,3:24,1.0,10.0,IND 44,3.0,26.0,Sam Ehlinger pass complete short left to Mo Alie-Cox for 8 yards (tackle by Marcus Jones and Jabrill Peppers),1.86,2.4,9.0,2022,131
+4.0,2:55,2.0,2.0,NWE 48,3.0,26.0,Sam Ehlinger pass incomplete short right intended for Phillip Lindsay (defended by Anfernee Jennings),2.4,1.69,9.0,2022,131
+4.0,2:49,3.0,2.0,NWE 48,3.0,26.0,Sam Ehlinger pass incomplete short middle intended for Michael Pittman (defended by Devin McCourty),1.69,0.07,9.0,2022,131
+4.0,2:46,4.0,2.0,NWE 48,3.0,26.0,Sam Ehlinger pass incomplete deep right intended for Parris Campbell (defended by Myles Bryant),0.07,-2.13,9.0,2022,131
+4.0,2:40,,,,,,Timeout #1 by New England Patriots,,,9.0,2022,131
+4.0,2:40,1.0,10.0,NWE 48,3.0,26.0,J.J. Taylor up the middle for 3 yards (tackle by Bobby Okereke and Grover Stewart),2.13,1.99,9.0,2022,131
+4.0,2:00,2.0,7.0,IND 49,3.0,26.0,J.J. Taylor up the middle for no gain (tackle by Kwity Paye),1.99,1.29,9.0,2022,131
+4.0,1:18,3.0,7.0,IND 49,3.0,26.0,J.J. Taylor right tackle for 2 yards (tackle by Stephon Gilmore and Kwity Paye),1.29,0.13,9.0,2022,131
+4.0,0:35,4.0,5.0,IND 47,3.0,26.0,Jake Bailey punts 7 yards out of bounds,0.13,-1.6,9.0,2022,131
+4.0,0:29,,,,,,Timeout #2 by New England Patriots,,,9.0,2022,131
+4.0,0:29,1.0,10.0,IND 40,3.0,26.0,Jordan Wilkins up the middle for 5 yards (tackle by Josh Uche),1.6,1.73,9.0,2022,131

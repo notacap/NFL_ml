@@ -1,0 +1,172 @@
+Quarter,Time,Down,ToGo,Location,NYJ,PIT,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Jets won the coin toss and deferred, Steelers to receive the opening kickoff.",,,4.0,2022,59
+1.0,15:00,,,NYJ 35,0.0,0.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,59
+1.0,15:00,1.0,10.0,PIT 25,0.0,0.0,Najee Harris up the middle for 6 yards (tackle by C.J. Mosley and Carl Lawson),0.61,0.87,4.0,2022,59
+1.0,14:23,2.0,4.0,PIT 31,0.0,0.0,Mitchell Trubisky pass complete short right to Pat Freiermuth for 5 yards (tackle by Marcell Harris),0.87,1.33,4.0,2022,59
+1.0,13:46,1.0,10.0,PIT 36,0.0,0.0,Najee Harris right end for 6 yards (tackle by Quinnen Williams and Kwon Alexander),1.33,1.6,4.0,2022,59
+1.0,13:04,2.0,4.0,PIT 42,0.0,0.0,Mitchell Trubisky pass incomplete deep right intended for George Pickens (defended by Lamarcus Joyner),1.6,0.89,4.0,2022,59
+1.0,12:55,3.0,4.0,PIT 42,0.0,0.0,Mitchell Trubisky pass complete short middle to Pat Freiermuth for 6 yards (tackle by C.J. Mosley),0.89,2.13,4.0,2022,59
+1.0,12:19,1.0,10.0,PIT 48,0.0,0.0,Najee Harris right tackle for 3 yards (tackle by Jermaine Johnson),2.13,1.99,4.0,2022,59
+1.0,11:42,2.0,7.0,NYJ 49,0.0,0.0,"Mitchell Trubisky pass complete short middle to George Pickens for 14 yards (tackle by Sauce Gardner). Penalty on James Daniels: Ineligible Downfield Pass, 5 yards (accepted) (no play)",1.99,1.31,4.0,2022,59
+1.0,11:14,2.0,12.0,PIT 46,0.0,0.0,Diontae Johnson left end for 8 yards (tackle by D.J. Reed and Kwon Alexander),1.31,1.68,4.0,2022,59
+1.0,10:33,3.0,4.0,NYJ 46,0.0,0.0,Mitchell Trubisky scrambles up the middle for 1 yard (tackle by Quinnen Williams and John Franklin-Myers),1.68,0.27,4.0,2022,59
+1.0,10:03,4.0,3.0,NYJ 45,0.0,0.0,"Pressley Harvin punts 36 yards, fair catch by Braxton Berrios at NYJ-9",0.27,0.38,4.0,2022,59
+1.0,9:57,1.0,10.0,NYJ 9,0.0,0.0,Michael Carter left guard for 3 yards (tackle by Devin Bush and Myles Jack),-0.38,-0.56,4.0,2022,59
+1.0,9:17,2.0,7.0,NYJ 12,0.0,0.0,Breece Hall left tackle for no gain (tackle by DeMarvin Leal and Alex Highsmith),-0.56,-1.07,4.0,2022,59
+1.0,8:37,3.0,7.0,NYJ 12,0.0,0.0,Zach Wilson pass complete short left to Garrett Wilson for 6 yards (tackle by Arthur Maulet),-1.07,-2.24,4.0,2022,59
+1.0,7:53,4.0,1.0,NYJ 18,0.0,0.0,Braden Mann punts 59 yards downed by Justin Hardee,-2.24,-0.48,4.0,2022,59
+1.0,7:41,1.0,10.0,PIT 23,0.0,0.0,Mitchell Trubisky pass deep middle intended for Diontae Johnson is intercepted by Lamarcus Joyner at PIT-40 and returned for 4 yards (tackle by Najee Harris),0.48,-3.18,4.0,2022,59
+1.0,7:35,1.0,10.0,PIT 36,0.0,0.0,Zach Wilson sacked by Alex Highsmith for -4 yards,3.18,2.1,4.0,2022,59
+1.0,6:53,2.0,14.0,PIT 40,0.0,0.0,Zach Wilson scrambles for 9 yards (tackle by Devin Bush),2.1,2.61,4.0,2022,59
+1.0,6:17,3.0,5.0,PIT 31,0.0,0.0,Breece Hall left tackle for 5 yards (tackle by Larry Ogunjobi),2.61,3.84,4.0,2022,59
+1.0,5:37,1.0,10.0,PIT 26,0.0,0.0,Zach Wilson pass incomplete deep left intended for Elijah Moore,3.84,3.3,4.0,2022,59
+1.0,5:32,2.0,10.0,PIT 26,0.0,0.0,Michael Carter up the middle for no gain (tackle by DeMarvin Leal and Minkah Fitzpatrick),3.3,2.61,4.0,2022,59
+1.0,4:50,3.0,10.0,PIT 26,0.0,0.0,Zach Wilson pass complete short left to Breece Hall for 6 yards (tackle by Minkah Fitzpatrick),2.61,2.2,4.0,2022,59
+1.0,4:06,4.0,4.0,PIT 20,3.0,0.0,Greg Zuerlein 38 yard field goal good,2.2,3.0,4.0,2022,59
+1.0,4:03,,,NYJ 35,3.0,0.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,59
+1.0,4:03,1.0,10.0,PIT 25,3.0,0.0,Gunner Olszewski right end for no gain (tackle by Kwon Alexander),0.61,0.06,4.0,2022,59
+1.0,3:25,2.0,10.0,PIT 25,3.0,0.0,Mitchell Trubisky pass complete short left to George Pickens for 5 yards (tackle by D.J. Reed),0.06,0.04,4.0,2022,59
+1.0,2:45,3.0,5.0,PIT 30,3.0,0.0,Mitchell Trubisky pass complete short right to Jaylen Warren for 4 yards (tackle by Michael Carter),0.04,-1.11,4.0,2022,59
+1.0,2:13,4.0,1.0,PIT 34,3.0,0.0,"Pressley Harvin punts 36 yards, fair catch by Braxton Berrios at NYJ-30",-1.11,-0.94,4.0,2022,59
+1.0,2:05,1.0,10.0,NYJ 30,3.0,0.0,Breece Hall left guard for 3 yards (tackle by Devin Bush and DeMarvin Leal),0.94,0.8,4.0,2022,59
+1.0,1:25,2.0,7.0,NYJ 33,3.0,0.0,Zach Wilson pass incomplete short left,0.8,0.1,4.0,2022,59
+1.0,1:12,3.0,7.0,NYJ 33,3.0,0.0,Zach Wilson pass complete deep right to Elijah Moore for 20 yards (tackle by Levi Wallace and Robert Spillane),0.1,2.46,4.0,2022,59
+1.0,0:26,1.0,10.0,PIT 47,3.0,0.0,Breece Hall up the middle for 3 yards (tackle by Chris Wormley and Levi Wallace),2.46,2.32,4.0,2022,59
+2.0,15:00,2.0,7.0,PIT 44,3.0,0.0,Zach Wilson pass complete short middle to Elijah Moore for 28 yards (tackle by Myles Jack),2.32,4.51,4.0,2022,59
+2.0,14:23,1.0,10.0,PIT 16,3.0,0.0,Michael Carter left guard for 3 yards (tackle by Cameron Sutton),4.51,4.39,4.0,2022,59
+2.0,13:45,2.0,7.0,PIT 13,3.0,0.0,Breece Hall right end for 9 yards (tackle by Minkah Fitzpatrick),4.39,6.28,4.0,2022,59
+2.0,13:22,1.0,4.0,PIT 4,3.0,0.0,Breece Hall left guard for 2 yards (tackle by Alex Highsmith and Myles Jack),6.28,5.72,4.0,2022,59
+2.0,12:42,2.0,2.0,PIT 2,9.0,0.0,"Braxton Berrios pass complete short right to Zach Wilson for 2 yards, touchdown",5.72,7.0,4.0,2022,59
+2.0,12:37,,,PIT 15,10.0,0.0,Greg Zuerlein kicks extra point good,0.0,0.0,4.0,2022,59
+2.0,12:37,,,NYJ 35,10.0,0.0,"Penalty on DeMarvin Leal: Leverage, 15 yards (accepted) (no play)",0.0,-2.26,4.0,2022,59
+2.0,12:37,1.0,10.0,NYJ 50,10.0,0.0,"Greg Zuerlein kicks off 32 yards, returned by Benny Snell for 7 yards (tackle by Michael Carter and Micheal Clemons)",2.26,0.61,4.0,2022,59
+2.0,12:31,1.0,10.0,PIT 25,10.0,0.0,Najee Harris left tackle for 3 yards (tackle by John Franklin-Myers and C.J. Mosley),0.61,0.47,4.0,2022,59
+2.0,12:00,2.0,7.0,PIT 28,10.0,0.0,"Najee Harris left guard for 1 yard (tackle by Jacob Martin). Penalty on Kevin Dotson: Offensive Holding, 10 yards (accepted)",0.47,-0.81,4.0,2022,59
+2.0,11:52,2.0,16.0,PIT 19,10.0,0.0,Mitchell Trubisky pass complete deep middle to George Pickens for 26 yards (tackle by Lamarcus Joyner),-0.81,1.93,4.0,2022,59
+2.0,11:26,1.0,10.0,PIT 45,10.0,0.0,Jaylen Warren right end for 3 yards (tackle by Sheldon Rankins and John Franklin-Myers),1.93,1.79,4.0,2022,59
+2.0,10:47,2.0,7.0,PIT 48,10.0,0.0,Jaylen Warren right end for 14 yards (tackle by Lamarcus Joyner and Marcell Harris),1.79,3.05,4.0,2022,59
+2.0,10:03,1.0,10.0,NYJ 38,10.0,0.0,Najee Harris right tackle for 13 yards (tackle by Jermaine Johnson),3.05,3.91,4.0,2022,59
+2.0,9:21,1.0,10.0,NYJ 25,10.0,0.0,Najee Harris left guard for 2 yards (tackle by Solomon Thomas and Marcell Harris),3.91,3.63,4.0,2022,59
+2.0,8:55,2.0,8.0,NYJ 23,10.0,0.0,"Mitchell Trubisky pass incomplete deep middle intended for Diontae Johnson PIT challenged the runner was in bounds ruling, and the play was upheld.",3.63,2.94,4.0,2022,59
+2.0,8:49,3.0,8.0,NYJ 23,10.0,0.0,"Mitchell Trubisky sacked by Quinnen Williams for -10 yards. Penalty on Chukwuma Okorafor: Illegal Use of Hands / Defense, 5 yards (declined)",2.94,1.15,4.0,2022,59
+2.0,8:34,4.0,18.0,NYJ 33,10.0,3.0,Chris Boswell 51 yard field goal good,1.15,3.0,4.0,2022,59
+2.0,8:30,,,PIT 35,10.0,3.0,"Chris Boswell kicks off 51 yards,",0.0,1.6,4.0,2022,59
+2.0,8:30,1.0,10.0,NYJ 40,10.0,3.0,Elijah Moore left end for 2 yards (tackle by Arthur Maulet),1.6,1.32,4.0,2022,59
+2.0,7:51,2.0,8.0,NYJ 42,10.0,3.0,Zach Wilson pass incomplete short right intended for Garrett Wilson,1.32,0.63,4.0,2022,59
+2.0,7:49,3.0,8.0,NYJ 42,10.0,3.0,Zach Wilson pass incomplete deep right,0.63,-0.59,4.0,2022,59
+2.0,7:39,4.0,8.0,NYJ 42,10.0,3.0,"Braden Mann punts 43 yards, fair catch by Gunner Olszewski at PIT-15",-0.59,0.22,4.0,2022,59
+2.0,7:33,1.0,10.0,PIT 15,10.0,3.0,Mitchell Trubisky pass complete deep right to Pat Freiermuth for 24 yards (tackle by C.J. Mosley),-0.22,1.53,4.0,2022,59
+2.0,7:06,1.0,10.0,PIT 39,10.0,3.0,"Mitchell Trubisky pass incomplete deep middle intended for Chase Claypool. Penalty on Diontae Johnson: Illegal Shift, 5 yards (accepted) (no play)",1.53,1.2,4.0,2022,59
+2.0,7:00,1.0,15.0,PIT 34,10.0,3.0,Najee Harris right guard for 6 yards (tackle by C.J. Mosley and Jordan Whitehead),1.2,1.12,4.0,2022,59
+2.0,6:22,2.0,9.0,PIT 40,10.0,3.0,Mitchell Trubisky sacked by Jermaine Johnson for -9 yards,1.12,-0.76,4.0,2022,59
+2.0,5:36,3.0,18.0,PIT 31,10.0,3.0,Mitchell Trubisky pass incomplete deep right intended for Chase Claypool,-0.76,-1.31,4.0,2022,59
+2.0,5:30,4.0,18.0,PIT 31,10.0,3.0,"Pressley Harvin punts 51 yards, fair catch by Braxton Berrios at NYJ-18. Penalty on Micheal Clemons: Offensive Holding, 9 yards (accepted)",-1.31,0.38,4.0,2022,59
+2.0,5:22,1.0,10.0,NYJ 9,10.0,3.0,Zach Wilson pass incomplete deep right intended for Breece Hall,-0.38,-0.78,4.0,2022,59
+2.0,5:15,2.0,10.0,NYJ 9,10.0,3.0,Zach Wilson pass complete short middle to Tyler Conklin for 26 yards (tackle by Arthur Maulet and Terrell Edmunds),-0.78,1.27,4.0,2022,59
+2.0,4:45,1.0,10.0,NYJ 35,10.0,3.0,Michael Carter up the middle for -4 yards (tackle by DeMarvin Leal and Cameron Heyward),1.27,0.18,4.0,2022,59
+2.0,4:04,2.0,14.0,NYJ 31,10.0,3.0,Zach Wilson pass incomplete short left intended for Breece Hall,0.18,-0.49,4.0,2022,59
+2.0,3:58,3.0,14.0,NYJ 31,10.0,3.0,Zach Wilson pass incomplete short right intended for Garrett Wilson (defended by Arthur Maulet),-0.49,-1.31,4.0,2022,59
+2.0,3:52,4.0,14.0,NYJ 31,10.0,3.0,"Braden Mann punts 40 yards, returned by Gunner Olszewski for 5 yards (tackle by Marcell Harris)",-1.31,-1.2,4.0,2022,59
+2.0,3:43,1.0,10.0,PIT 34,10.0,3.0,Najee Harris up the middle for -3 yards (tackle by C.J. Mosley and Sheldon Rankins),1.2,0.25,4.0,2022,59
+2.0,3:16,2.0,13.0,PIT 31,10.0,3.0,Mitchell Trubisky pass incomplete deep right intended for George Pickens (defended by Sauce Gardner),0.25,-0.43,4.0,2022,59
+2.0,3:10,3.0,13.0,PIT 31,10.0,3.0,"Penalty on Dan Moore: False Start, 5 yards (accepted) (no play)",-0.43,-1.09,4.0,2022,59
+2.0,3:10,3.0,18.0,PIT 26,10.0,3.0,Mitchell Trubisky sacked by Carl Lawson for -7 yards,-1.09,-2.14,4.0,2022,59
+2.0,2:39,4.0,25.0,PIT 19,10.0,3.0,"Pressley Harvin punts 35 yards, fair catch by Braxton Berrios at NYJ-46",-2.14,-1.99,4.0,2022,59
+2.0,2:32,1.0,10.0,NYJ 46,10.0,3.0,Breece Hall right guard for no gain (tackle by Arthur Maulet),1.99,1.45,4.0,2022,59
+2.0,2:00,2.0,10.0,NYJ 46,10.0,3.0,Zach Wilson pass complete short right to Elijah Moore for 5 yards (tackle by Levi Wallace),1.45,1.42,4.0,2022,59
+2.0,1:56,3.0,5.0,PIT 49,10.0,3.0,"Zach Wilson pass incomplete deep right intended for Michael Carter. Penalty on Arthur Maulet: Defensive Holding, 5 yards (accepted) (no play)",1.42,2.65,4.0,2022,59
+2.0,1:49,1.0,10.0,PIT 44,10.0,3.0,"Michael Carter fumbles Zach Wilson pass incomplete short left, recovered by Zach Wilson at PIT-44",2.65,2.11,4.0,2022,59
+2.0,1:40,2.0,10.0,PIT 44,10.0,3.0,Breece Hall right guard for 16 yards (tackle by Minkah Fitzpatrick and Tre Norwood),2.11,3.71,4.0,2022,59
+2.0,1:06,1.0,10.0,PIT 28,10.0,3.0,Breece Hall up the middle for -1 yards (tackle by Tre Norwood),3.71,3.03,4.0,2022,59
+2.0,0:40,2.0,11.0,PIT 29,10.0,3.0,Zach Wilson pass incomplete deep right intended for Corey Davis,3.03,2.34,4.0,2022,59
+2.0,0:33,3.0,11.0,PIT 29,10.0,3.0,Zach Wilson pass deep left intended for Jeff Smith is intercepted by Cameron Sutton at PIT-4 and returned for 26 yards (tackle by Connor McGovern),2.34,-0.94,4.0,2022,59
+2.0,0:20,1.0,10.0,PIT 30,10.0,3.0,Mitchell Trubisky pass complete short middle to Pat Freiermuth for 14 yards (tackle by Michael Carter),0.94,1.86,4.0,2022,59
+2.0,0:12,,,,,,Timeout #2 by Pittsburgh Steelers,,,4.0,2022,59
+2.0,0:12,,,,,,Timeout #1 by New York Jets,,,4.0,2022,59
+2.0,0:12,1.0,10.0,PIT 44,10.0,3.0,Mitchell Trubisky pass incomplete short middle intended for Pat Freiermuth (defended by C.J. Mosley),1.86,1.32,4.0,2022,59
+2.0,0:09,2.0,10.0,PIT 44,10.0,3.0,"Mitchell Trubisky pass deep middle is intercepted by Jordan Whitehead in end zone and returned for no gain (tackle by Najee Harris). Penalty on Carl Lawson: Roughing the Passer, 15 yards (accepted) (no play)",1.32,2.85,4.0,2022,59
+2.0,0:00,1.0,10.0,NYJ 41,10.0,6.0,Chris Boswell 59 yard field goal good,2.85,3.0,4.0,2022,59
+3.0,15:00,,,PIT 35,10.0,6.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,59
+3.0,15:00,1.0,10.0,NYJ 25,10.0,6.0,Michael Carter right guard for 1 yard (tackle by Devin Bush),0.61,0.2,4.0,2022,59
+3.0,14:22,2.0,9.0,NYJ 26,10.0,6.0,Zach Wilson pass incomplete short middle intended for Garrett Wilson (defended by Minkah Fitzpatrick),0.2,-0.49,4.0,2022,59
+3.0,14:12,3.0,9.0,NYJ 26,10.0,6.0,Zach Wilson pass incomplete short right intended for Garrett Wilson,-0.49,-1.63,4.0,2022,59
+3.0,14:07,4.0,9.0,NYJ 26,10.0,6.0,"Braden Mann punts 49 yards, returned by Gunner Olszewski for 1 yard. Gunner Olszewski fumbles (forced by Justin Hardee), recovered by James Pierre at PIT-22",-1.63,-0.41,4.0,2022,59
+3.0,13:53,1.0,10.0,PIT 22,10.0,6.0,Najee Harris up the middle for 4 yards (tackle by Kwon Alexander and Quinnen Williams),0.41,0.41,4.0,2022,59
+3.0,13:28,2.0,6.0,PIT 26,10.0,6.0,Najee Harris right guard for 5 yards (tackle by C.J. Mosley and John Franklin-Myers),0.41,0.37,4.0,2022,59
+3.0,13:05,3.0,1.0,PIT 31,10.0,6.0,Najee Harris up the middle for no gain (tackle by Jermaine Johnson and Lamarcus Joyner),0.37,-1.31,4.0,2022,59
+3.0,12:13,4.0,1.0,PIT 31,10.0,6.0,Kenny Pickett up the middle for 2 yards (tackle by Sheldon Rankins),-1.31,1.14,4.0,2022,59
+3.0,11:32,1.0,10.0,PIT 33,10.0,6.0,"Diontae Johnson left end for 3 yards (tackle by D.J. Reed). Penalty on C.J. Mosley: Unnecessary Roughness / Defense, 15 yards (accepted)",1.14,2.32,4.0,2022,59
+3.0,11:07,1.0,10.0,NYJ 49,10.0,6.0,Kenny Pickett pass deep left (defended by Lamarcus Joyner) intended for Chase Claypool is intercepted by Jordan Whitehead at NYJ-11 and returned for no gain (tackle by Chase Claypool),2.32,0.37,4.0,2022,59
+3.0,10:59,1.0,10.0,NYJ 11,10.0,6.0,Zach Wilson pass complete short right to Corey Davis for 15 yards (tackle by Montravius Adams),-0.37,0.67,4.0,2022,59
+3.0,10:22,1.0,10.0,NYJ 26,10.0,6.0,Breece Hall up the middle for 3 yards (tackle by Chris Wormley and Minkah Fitzpatrick),0.67,0.54,4.0,2022,59
+3.0,9:37,2.0,7.0,NYJ 29,10.0,6.0,Breece Hall right tackle for 1 yard (tackle by Myles Jack),0.54,-0.03,4.0,2022,59
+3.0,8:53,3.0,6.0,NYJ 30,10.0,6.0,"Zach Wilson pass short right intended for Tyler Conklin is intercepted by Minkah Fitzpatrick at NYJ-38 and returned for 34 yards (tackle by Breece Hall). Penalty on Garrett Wilson: Offensive Pass Interference, 10 yards (declined)",-0.03,-6.28,4.0,2022,59
+3.0,8:45,1.0,4.0,NYJ 4,10.0,6.0,Kenny Pickett pass complete short middle to Zach Gentry for 2 yards (tackle by John Franklin-Myers),6.28,5.72,4.0,2022,59
+3.0,8:03,2.0,2.0,NYJ 2,10.0,6.0,Najee Harris left guard for 1 yard (tackle by Lamarcus Joyner and Sheldon Rankins),5.72,5.17,4.0,2022,59
+3.0,7:22,3.0,1.0,NYJ 1,10.0,12.0,"Kenny Pickett right guard for 1 yard, touchdown",5.17,7.0,4.0,2022,59
+3.0,7:18,,,NYJ 15,10.0,13.0,Chris Boswell kicks extra point good,0.0,0.0,4.0,2022,59
+3.0,7:18,,,PIT 35,10.0,13.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,59
+3.0,7:18,1.0,10.0,NYJ 25,10.0,13.0,Michael Carter left end for 5 yards (tackle by Myles Jack and Larry Ogunjobi),0.61,0.74,4.0,2022,59
+3.0,6:42,2.0,5.0,NYJ 30,10.0,13.0,Zach Wilson pass incomplete short right intended for Michael Carter,0.74,0.04,4.0,2022,59
+3.0,6:36,3.0,5.0,NYJ 30,10.0,13.0,Zach Wilson pass complete short middle to Tyler Conklin for 18 yards (tackle by Tre Norwood),0.04,2.13,4.0,2022,59
+3.0,6:00,1.0,10.0,NYJ 48,10.0,13.0,Breece Hall up the middle for 5 yards (tackle by Montravius Adams and Chris Wormley),2.13,2.26,4.0,2022,59
+3.0,5:30,2.0,5.0,PIT 47,10.0,13.0,Zach Wilson pass incomplete short left,2.26,1.55,4.0,2022,59
+3.0,5:20,3.0,5.0,PIT 47,10.0,13.0,"Penalty on Conor McDermott: False Start, 5 yards (accepted) (no play)",1.55,0.89,4.0,2022,59
+3.0,5:20,3.0,10.0,NYJ 48,10.0,13.0,Zach Wilson pass incomplete short right intended for Breece Hall,0.89,-0.19,4.0,2022,59
+3.0,5:16,4.0,10.0,NYJ 48,10.0,13.0,"Braden Mann punts 44 yards, returned by Gunner Olszewski for 10 yards (tackle by C.J. Uzomah)",-0.19,-0.04,4.0,2022,59
+3.0,5:07,1.0,10.0,PIT 18,10.0,13.0,Kenny Pickett pass complete short left to Pat Freiermuth for 14 yards,0.04,1.07,4.0,2022,59
+3.0,4:34,1.0,10.0,PIT 32,10.0,13.0,Najee Harris up the middle for 16 yards (tackle by Lamarcus Joyner and Sauce Gardner),1.07,2.13,4.0,2022,59
+3.0,4:18,1.0,10.0,PIT 48,10.0,13.0,Kenny Pickett pass complete short right to Pat Freiermuth for 4 yards (tackle by Sauce Gardner),2.13,2.12,4.0,2022,59
+3.0,3:35,2.0,6.0,NYJ 48,10.0,13.0,Najee Harris right tackle for no gain (tackle by John Franklin-Myers and Quinnen Williams),2.12,1.42,4.0,2022,59
+3.0,2:51,3.0,6.0,NYJ 48,10.0,13.0,Kenny Pickett scrambles right end for 7 yards (tackle by Marcell Harris),1.42,2.85,4.0,2022,59
+3.0,2:10,1.0,10.0,NYJ 41,10.0,13.0,Jaylen Warren up the middle for 1 yard (tackle by Marcell Harris),2.85,2.44,4.0,2022,59
+3.0,1:31,2.0,9.0,NYJ 40,10.0,13.0,Kenny Pickett pass complete short left to George Pickens for 5 yards (tackle by Michael Carter),2.44,2.41,4.0,2022,59
+3.0,0:49,3.0,4.0,NYJ 35,10.0,13.0,Kenny Pickett pass complete short left to George Pickens for 13 yards (tackle by D.J. Reed),2.41,4.11,4.0,2022,59
+3.0,0:35,1.0,10.0,NYJ 22,10.0,13.0,"Kenny Pickett pass incomplete short left intended for George Pickens. Penalty on Kevin Dotson: Ineligible Downfield Pass, 5 yards (accepted) (no play)",4.11,3.78,4.0,2022,59
+3.0,0:30,1.0,15.0,NYJ 27,10.0,13.0,Najee Harris up the middle for 4 yards (tackle by C.J. Mosley),3.78,3.43,4.0,2022,59
+4.0,15:00,2.0,11.0,NYJ 23,10.0,13.0,Najee Harris left guard for 3 yards (tackle by John Franklin-Myers and C.J. Mosley),3.43,3.14,4.0,2022,59
+4.0,14:25,3.0,8.0,NYJ 20,10.0,13.0,Kenny Pickett pass complete short middle to Pat Freiermuth for 18 yards (tackle by Jordan Whitehead),3.14,6.74,4.0,2022,59
+4.0,13:41,1.0,2.0,NYJ 2,10.0,19.0,"Kenny Pickett right tackle for 2 yards, touchdown",6.74,7.0,4.0,2022,59
+4.0,13:36,,,NYJ 15,10.0,20.0,Chris Boswell kicks extra point good,0.0,0.0,4.0,2022,59
+4.0,13:36,,,PIT 35,10.0,20.0,"Chris Boswell kicks off 60 yards, returned by Ty Johnson for 14 yards (tackle by Jamir Jones)",0.0,0.15,4.0,2022,59
+4.0,13:30,1.0,10.0,NYJ 19,10.0,20.0,Zach Wilson pass complete short right to Michael Carter for 3 yards (tackle by Myles Jack),0.15,0.07,4.0,2022,59
+4.0,12:49,2.0,7.0,NYJ 22,10.0,20.0,Michael Carter left guard for 1 yard (tackle by Cameron Heyward and Larry Ogunjobi),0.07,-0.55,4.0,2022,59
+4.0,12:05,3.0,6.0,NYJ 23,10.0,20.0,Zach Wilson pass complete short right to Garrett Wilson for 35 yards (tackle by Minkah Fitzpatrick),-0.55,2.79,4.0,2022,59
+4.0,11:19,1.0,10.0,PIT 42,10.0,20.0,Zach Wilson pass incomplete short middle intended for Tyler Conklin,2.79,2.24,4.0,2022,59
+4.0,11:16,2.0,10.0,PIT 42,10.0,20.0,Breece Hall right guard for -3 yards (tackle by Chris Wormley),2.24,1.16,4.0,2022,59
+4.0,10:34,3.0,13.0,PIT 45,10.0,20.0,Zach Wilson scrambles left tackle for 6 yards (tackle by Arthur Maulet),1.16,0.66,4.0,2022,59
+4.0,9:48,4.0,7.0,PIT 39,10.0,20.0,Zach Wilson pass complete short right to Corey Davis for 22 yards (tackle by Tre Norwood and Arthur Maulet),0.66,4.44,4.0,2022,59
+4.0,9:05,1.0,10.0,PIT 17,10.0,20.0,Breece Hall left end for 16 yards (tackle by Devin Bush),4.44,6.97,4.0,2022,59
+4.0,8:27,1.0,1.0,PIT 1,10.0,20.0,"Penalty on Michael Carter: False Start, 5 yards (accepted) (no play)",6.97,5.83,4.0,2022,59
+4.0,8:24,1.0,6.0,PIT 6,10.0,20.0,"Zach Wilson pass incomplete short right intended for Tyler Conklin. Penalty on Conor McDermott: Ineligible Downfield Pass, 5 yards (accepted) (no play)",5.83,4.77,4.0,2022,59
+4.0,8:19,1.0,11.0,PIT 11,10.0,20.0,Zach Wilson pass incomplete short right intended for Breece Hall,4.77,4.02,4.0,2022,59
+4.0,8:16,2.0,11.0,PIT 11,10.0,20.0,Zach Wilson pass complete short right to Braxton Berrios for 6 yards (tackle by Tre Norwood),4.02,4.26,4.0,2022,59
+4.0,7:35,3.0,5.0,PIT 5,16.0,20.0,"Zach Wilson pass complete short left to Corey Davis for 5 yards, touchdown",4.26,7.0,4.0,2022,59
+4.0,7:31,,,PIT 15,17.0,20.0,Greg Zuerlein kicks extra point good,0.0,0.0,4.0,2022,59
+4.0,7:31,,,NYJ 35,17.0,20.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,59
+4.0,7:31,1.0,10.0,PIT 25,17.0,20.0,Kenny Pickett pass complete short right to Diontae Johnson for 5 yards (tackle by Kwon Alexander and Sauce Gardner),0.61,0.74,4.0,2022,59
+4.0,6:53,2.0,5.0,PIT 30,17.0,20.0,Kenny Pickett pass complete short right to Diontae Johnson for 6 yards (tackle by C.J. Mosley and Kwon Alexander),0.74,1.33,4.0,2022,59
+4.0,6:14,1.0,10.0,PIT 36,17.0,20.0,Kenny Pickett scrambles right end for 3 yards (tackle by Quinnen Williams),1.33,1.2,4.0,2022,59
+4.0,5:38,2.0,7.0,PIT 39,17.0,20.0,Najee Harris up the middle for 4 yards (tackle by Kwon Alexander and Nathan Shepherd),1.2,1.03,4.0,2022,59
+4.0,4:57,3.0,3.0,PIT 43,17.0,20.0,Kenny Pickett pass complete deep left to George Pickens for 26 yards (tackle by Michael Carter),1.03,3.51,4.0,2022,59
+4.0,4:23,1.0,10.0,NYJ 31,17.0,20.0,"Kenny Pickett aborted snap, recovered by Jaylen Warren at NYJ-39 and returned for 3 yards (tackle by Marcell Harris and Lamarcus Joyner)",3.51,2.29,4.0,2022,59
+4.0,3:42,2.0,15.0,NYJ 36,17.0,20.0,Kenny Pickett pass short right intended for Pat Freiermuth is intercepted by Michael Carter at NYJ-35 and returned for no gain (tackle by Pat Freiermuth),2.29,-1.27,4.0,2022,59
+4.0,3:34,1.0,10.0,NYJ 35,17.0,20.0,Zach Wilson pass complete short middle to Corey Davis for 15 yards (tackle by Minkah Fitzpatrick),1.27,2.26,4.0,2022,59
+4.0,2:58,1.0,10.0,NYJ 50,17.0,20.0,Breece Hall left guard for -2 yards (tackle by Tre Norwood),2.26,1.44,4.0,2022,59
+4.0,2:18,2.0,12.0,NYJ 48,17.0,20.0,Zach Wilson pass complete short middle to Breece Hall for 6 yards (tackle by Myles Jack),1.44,1.55,4.0,2022,59
+4.0,2:00,3.0,6.0,PIT 46,17.0,20.0,Zach Wilson pass complete short middle to Tyler Conklin for 8 yards (tackle by Minkah Fitzpatrick),1.55,3.05,4.0,2022,59
+4.0,1:51,,,,,,Timeout #1 by Pittsburgh Steelers,,,4.0,2022,59
+4.0,1:51,1.0,10.0,PIT 38,17.0,20.0,"Zach Wilson pass complete short left to Garrett Wilson for no gain (tackle by Cameron Heyward). Penalty on Corey Davis: Offensive Illegal Block Above the Waist, 10 yards (accepted) (no play)",3.05,2.39,4.0,2022,59
+4.0,1:44,1.0,20.0,PIT 48,17.0,20.0,Zach Wilson pass complete short left to Michael Carter for 11 yards (tackle by Arthur Maulet),2.39,2.64,4.0,2022,59
+4.0,1:31,2.0,9.0,PIT 37,17.0,20.0,Zach Wilson pass complete deep right to Corey Davis for 17 yards (tackle by Devin Bush),2.64,4.24,4.0,2022,59
+4.0,1:10,1.0,10.0,PIT 20,17.0,20.0,Michael Carter left guard for 5 yards (tackle by Myles Jack),4.24,4.45,4.0,2022,59
+4.0,0:50,2.0,5.0,PIT 15,17.0,20.0,"Michael Carter left tackle for 1 yard (tackle by Alex Highsmith and Malik Reed). Penalty on Tyson Alualu: Defensive Holding, 5 yards (accepted)",4.45,5.14,4.0,2022,59
+4.0,0:45,1.0,9.0,PIT 9,17.0,20.0,Breece Hall left tackle for 7 yards (tackle by Tre Norwood and Myles Jack),5.14,5.72,4.0,2022,59
+4.0,0:18,,,,,,Timeout #1 by New York Jets,,,4.0,2022,59
+4.0,0:18,2.0,2.0,PIT 2,23.0,20.0,"Breece Hall left guard for no gain (forced by Minkah Fitzpatrick), recovered by Tyler Conklin at PIT-1 Replay Assistant challenged the runner broke the plane ruling, and the original play was overturned. Breece Hall left guard for 2 yards, touchdown",5.72,7.0,4.0,2022,59
+4.0,0:16,,,PIT 15,24.0,20.0,Greg Zuerlein kicks extra point good,0.0,0.0,4.0,2022,59
+4.0,0:16,,,NYJ 35,24.0,20.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,59
+4.0,0:16,1.0,10.0,PIT 25,24.0,20.0,Kenny Pickett pass complete deep middle to George Pickens for 27 yards (tackle by C.J. Mosley),0.61,2.39,4.0,2022,59
+4.0,0:08,,,,,,Timeout #2 by Pittsburgh Steelers,,,4.0,2022,59
+4.0,0:08,,,,,,Timeout #2 by New York Jets,,,4.0,2022,59
+4.0,0:08,1.0,10.0,NYJ 48,24.0,20.0,Kenny Pickett pass deep middle is intercepted by Lamarcus Joyner in end zone and returned for no gain,2.39,0.0,4.0,2022,59

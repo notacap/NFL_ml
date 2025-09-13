@@ -1,0 +1,182 @@
+Quarter,Time,Down,ToGo,Location,CLE,DEN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Broncos won the coin toss and deferred, Browns to receive the opening kickoff.",,,12.0,2023,175
+1.0,15:00,,,DEN 35,0.0,0.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,175
+1.0,15:00,1.0,10.0,CLE 25,0.0,0.0,Dorian Thompson-Robinson scrambles left end for 3 yards (tackle by Alex Singleton),0.61,0.47,12.0,2023,175
+1.0,14:29,2.0,7.0,CLE 28,0.0,0.0,Dorian Thompson-Robinson pass complete short left to Jerome Ford for no gain (tackle by P.J. Locke),0.47,-0.23,12.0,2023,175
+1.0,13:50,3.0,7.0,CLE 28,0.0,0.0,Dorian Thompson-Robinson pass incomplete short left intended for Amari Cooper (defended by P.J. Locke),-0.23,-1.5,12.0,2023,175
+1.0,13:44,4.0,7.0,CLE 28,0.0,0.0,"Corey Bojorquez punts 72 yards, touchback.",-1.5,-0.28,12.0,2023,175
+1.0,13:35,1.0,10.0,DEN 20,0.0,0.0,Javonte Williams left end for 2 yards (tackle by Sione Takitaki),0.28,0.0,12.0,2023,175
+1.0,12:56,2.0,8.0,DEN 22,0.0,0.0,Javonte Williams right tackle for 7 yards (tackle by Juan Thornhill),0.0,0.23,12.0,2023,175
+1.0,12:19,3.0,1.0,DEN 29,0.0,0.0,Russell Wilson right guard for 1 yard (tackle by Sione Takitaki and Shelby Harris),0.23,0.94,12.0,2023,175
+1.0,11:39,1.0,10.0,DEN 30,0.0,0.0,Javonte Williams right tackle for no gain (tackle by Jeremiah Owusu-Koramoah),0.94,0.39,12.0,2023,175
+1.0,11:00,2.0,10.0,DEN 30,0.0,0.0,Russell Wilson pass complete short right to Javonte Williams for no gain (tackle by Sione Takitaki),0.39,-0.3,12.0,2023,175
+1.0,10:21,3.0,10.0,DEN 30,0.0,0.0,"Russell Wilson pass incomplete deep right intended for Courtland Sutton. Penalty on Greg Newsome: Defensive Pass Interference, 34 yards (accepted) (no play)",-0.3,3.18,12.0,2023,175
+1.0,10:12,1.0,10.0,CLE 36,0.0,0.0,"Samaje Perine up the middle for no gain. Penalty on Alex Wright: Defensive Offside, 5 yards (accepted) (no play)",3.18,3.91,12.0,2023,175
+1.0,9:46,1.0,5.0,CLE 31,0.0,0.0,Russell Wilson pass incomplete deep left intended for Marvin Mims (defended by Greg Newsome),3.91,3.31,12.0,2023,175
+1.0,9:39,2.0,5.0,CLE 31,0.0,0.0,"Russell Wilson aborted snap, recovered by Russell Wilson at CLE-32 and returned for -3 yards",3.31,2.21,12.0,2023,175
+1.0,9:00,3.0,8.0,CLE 34,0.0,0.0,Russell Wilson pass complete deep left to Courtland Sutton for 31 yards (tackle by Ronnie Hickman),2.21,6.51,12.0,2023,175
+1.0,8:19,1.0,3.0,CLE 3,0.0,6.0,"Samaje Perine up the middle for 3 yards, touchdown Replay Assistant challenged the runner broke the plane ruling, and the play was upheld.",6.51,7.0,12.0,2023,175
+1.0,8:14,,,CLE 15,0.0,7.0,Wil Lutz kicks extra point good,0.0,0.0,12.0,2023,175
+1.0,8:14,,,DEN 35,0.0,7.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,175
+1.0,8:14,1.0,10.0,CLE 25,0.0,7.0,Dorian Thompson-Robinson pass complete short right to David Njoku for 5 yards (tackle by Alex Singleton),0.61,0.74,12.0,2023,175
+1.0,7:32,2.0,5.0,CLE 30,0.0,7.0,Dorian Thompson-Robinson pass complete short right to Cedric Tillman for 10 yards (tackle by Fabian Moreau),0.74,1.6,12.0,2023,175
+1.0,6:50,1.0,10.0,CLE 40,0.0,7.0,Dorian Thompson-Robinson pass complete short left to Amari Cooper for 5 yards (tackle by Ja'Quan McMillian),1.6,1.73,12.0,2023,175
+1.0,6:13,2.0,5.0,CLE 45,0.0,7.0,Jerome Ford right end for 4 yards (tackle by Justin Simmons),1.73,1.55,12.0,2023,175
+1.0,5:34,3.0,1.0,CLE 49,0.0,7.0,"Penalty on Ethan Pocic: False Start, 4 yards (accepted) (no play)",1.55,0.96,12.0,2023,175
+1.0,5:20,3.0,6.0,CLE 45,0.0,7.0,Dorian Thompson-Robinson pass complete short middle to Cedric Tillman for 4 yards (tackle by Fabian Moreau and Drew Sanders),0.96,-0.13,12.0,2023,175
+1.0,4:43,4.0,1.0,CLE 49,0.0,7.0,"Harrison Bryant aborted snap, recovered by Mike Purcell at CLE-49 and returned for -1 yards",-0.13,-2.26,12.0,2023,175
+1.0,4:37,1.0,10.0,CLE 50,0.0,7.0,Russell Wilson pass incomplete short right intended for Javonte Williams,2.26,1.71,12.0,2023,175
+1.0,4:32,2.0,10.0,CLE 50,0.0,7.0,Javonte Williams up the middle for -1 yards (tackle by Myles Garrett and Jeremiah Owusu-Koramoah),1.71,0.89,12.0,2023,175
+1.0,3:51,3.0,11.0,DEN 49,0.0,7.0,Russell Wilson scrambles right end for 9 yards (tackle by Myles Garrett),0.89,0.46,12.0,2023,175
+1.0,3:12,,,,,,Timeout #1 by Denver Broncos,,,12.0,2023,175
+1.0,3:12,4.0,2.0,CLE 42,0.0,7.0,"Russell Wilson scrambles right guard for 5 yards. Russell Wilson fumbles (forced by Jeremiah Owusu-Koramoah) (tackle by Juan Thornhill), recovered by Alex Wright at CLE-34 (tackle by Jeremiah Owusu-Koramoah) (tackle by Juan Thornhill) (tackle by Jeremiah Owusu-Koramoah)",0.46,-1.2,12.0,2023,175
+1.0,3:00,1.0,10.0,CLE 34,0.0,7.0,Kareem Hunt right tackle for 3 yards (tackle by Jonathan Harris and Matt Henningsen),1.2,1.06,12.0,2023,175
+1.0,2:23,2.0,7.0,CLE 37,0.0,7.0,Dorian Thompson-Robinson pass incomplete short left,1.06,0.37,12.0,2023,175
+1.0,2:16,3.0,7.0,CLE 37,0.0,7.0,Dorian Thompson-Robinson pass incomplete short left intended for David Njoku,0.37,-0.91,12.0,2023,175
+1.0,2:12,4.0,7.0,CLE 37,0.0,7.0,"Corey Bojorquez punts 63 yards, touchback.",-0.91,-0.28,12.0,2023,175
+1.0,2:03,1.0,10.0,DEN 20,0.0,7.0,Jaleel McLaughlin left tackle for 6 yards (tackle by Grant Delpit and Tony Fields),0.28,0.54,12.0,2023,175
+1.0,1:31,2.0,4.0,DEN 26,0.0,7.0,Russell Wilson pass incomplete short right intended for Courtland Sutton,0.54,-0.16,12.0,2023,175
+1.0,1:28,3.0,4.0,DEN 26,0.0,7.0,Samaje Perine up the middle for 6 yards (tackle by Dalvin Tomlinson),-0.16,1.07,12.0,2023,175
+1.0,0:53,1.0,10.0,DEN 32,0.0,7.0,Russell Wilson pass incomplete short right,1.07,0.53,12.0,2023,175
+1.0,0:47,2.0,10.0,DEN 32,0.0,7.0,"Javonte Williams right end for 15 yards (tackle by Greg Newsome). Penalty on Courtland Sutton: Offensive Holding, 10 yards (accepted)",0.53,1.2,12.0,2023,175
+1.0,0:25,2.0,5.0,DEN 37,0.0,7.0,Samaje Perine up the middle for 15 yards (tackle by Juan Thornhill and Mike Ford),1.2,2.39,12.0,2023,175
+2.0,15:00,1.0,10.0,CLE 48,0.0,7.0,Russell Wilson pass incomplete short left intended for Javonte Williams,2.39,1.85,12.0,2023,175
+2.0,14:56,2.0,10.0,CLE 48,0.0,7.0,Javonte Williams right tackle for 3 yards (tackle by Jordan Elliott),1.85,1.55,12.0,2023,175
+2.0,14:21,3.0,7.0,CLE 45,0.0,7.0,Russell Wilson pass complete short right to Marvin Mims for 16 yards (tackle by Mike Ford),1.55,3.64,12.0,2023,175
+2.0,13:34,1.0,10.0,CLE 29,0.0,7.0,Jaleel McLaughlin left tackle for -2 yards (tackle by Za'Darius Smith),3.64,2.83,12.0,2023,175
+2.0,13:01,2.0,12.0,CLE 31,0.0,7.0,"Penalty on Myles Garrett: Neutral Zone Infraction, 5 yards (accepted) (no play)",2.83,3.51,12.0,2023,175
+2.0,12:43,2.0,7.0,CLE 26,0.0,7.0,Russell Wilson left end for 19 yards (tackle by Juan Thornhill),3.51,5.6,12.0,2023,175
+2.0,12:00,1.0,7.0,CLE 7,0.0,7.0,Russell Wilson right end for 2 yards (tackle by Juan Thornhill),5.6,5.15,12.0,2023,175
+2.0,11:22,2.0,5.0,CLE 5,0.0,7.0,"Russell Wilson pass incomplete short right. Penalty on Alex Wright: Defensive Offside, 3 yards (accepted) (no play)",5.15,5.72,12.0,2023,175
+2.0,11:14,2.0,2.0,CLE 2,0.0,13.0,"Russell Wilson right tackle for 2 yards, touchdown",5.72,7.0,12.0,2023,175
+2.0,11:11,,,CLE 15,0.0,14.0,Wil Lutz kicks extra point good,0.0,0.0,12.0,2023,175
+2.0,11:11,,,DEN 35,0.0,14.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,175
+2.0,11:11,1.0,10.0,CLE 25,0.0,14.0,Dorian Thompson-Robinson pass incomplete deep middle intended for Amari Cooper,0.61,0.06,12.0,2023,175
+2.0,11:05,2.0,10.0,CLE 25,0.0,14.0,Jerome Ford left end for 19 yards (tackle by P.J. Locke and Patrick Surtain),0.06,1.86,12.0,2023,175
+2.0,10:25,1.0,10.0,CLE 44,0.0,14.0,Dorian Thompson-Robinson pass incomplete short right,1.86,1.32,12.0,2023,175
+2.0,10:18,2.0,10.0,CLE 44,0.0,14.0,Jerome Ford left tackle for 11 yards (tackle by Josey Jewell and Alex Singleton),1.32,2.59,12.0,2023,175
+2.0,9:36,1.0,10.0,DEN 45,0.0,14.0,Dorian Thompson-Robinson left tackle for 9 yards (tackle by P.J. Locke),2.59,3.26,12.0,2023,175
+2.0,8:55,2.0,1.0,DEN 36,0.0,14.0,Kareem Hunt right end for 7 yards (tackle by Drew Sanders),3.26,3.64,12.0,2023,175
+2.0,8:14,1.0,10.0,DEN 29,0.0,14.0,Dorian Thompson-Robinson pass incomplete short middle intended for Elijah Moore,3.64,3.1,12.0,2023,175
+2.0,8:07,2.0,10.0,DEN 29,0.0,14.0,Dorian Thompson-Robinson pass complete short right to Elijah Moore for 9 yards (tackle by Alex Singleton),3.1,3.6,12.0,2023,175
+2.0,7:31,3.0,1.0,DEN 20,0.0,14.0,Kareem Hunt right tackle for 3 yards (tackle by Jonathan Harris and Alex Singleton),3.6,4.44,12.0,2023,175
+2.0,6:53,1.0,10.0,DEN 17,0.0,14.0,"Dorian Thompson-Robinson aborted snap, recovered by Kareem Hunt at DEN-22 (tackle by Tyler Lancaster)",4.44,3.72,12.0,2023,175
+2.0,6:15,2.0,11.0,DEN 18,0.0,14.0,Dorian Thompson-Robinson pass incomplete deep right intended for Elijah Moore,3.72,3.0,12.0,2023,175
+2.0,6:07,3.0,11.0,DEN 18,0.0,14.0,Dorian Thompson-Robinson pass incomplete short left intended for Jerome Ford,3.0,2.25,12.0,2023,175
+2.0,6:02,4.0,11.0,DEN 18,3.0,14.0,Dustin Hopkins 36 yard field goal good,2.25,3.0,12.0,2023,175
+2.0,5:59,,,CLE 35,3.0,14.0,"Dustin Hopkins kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,175
+2.0,5:59,1.0,10.0,DEN 25,3.0,14.0,Russell Wilson pass complete short right to Marvin Mims for 8 yards (tackle by Mike Ford),0.61,1.14,12.0,2023,175
+2.0,5:21,2.0,2.0,DEN 33,3.0,14.0,Javonte Williams right end for 10 yards (tackle by Grant Delpit),1.14,1.8,12.0,2023,175
+2.0,4:38,1.0,10.0,DEN 43,3.0,14.0,"Penalty on Ben Powers: False Start, 5 yards (accepted) (no play)",1.8,1.47,12.0,2023,175
+2.0,4:23,1.0,15.0,DEN 38,3.0,14.0,"Russell Wilson pass complete deep right to Courtland Sutton for no gain (tackle by Greg Newsome). Penalty on Courtland Sutton: Offensive Pass Interference, 10 yards (accepted) (no play)",1.47,0.81,12.0,2023,175
+2.0,3:53,1.0,25.0,DEN 28,3.0,14.0,Russell Wilson pass incomplete deep right intended for Courtland Sutton,0.81,-0.77,12.0,2023,175
+2.0,3:46,2.0,25.0,DEN 28,3.0,14.0,Russell Wilson pass incomplete short left intended for Javonte Williams (defended by Myles Garrett),-0.77,-1.42,12.0,2023,175
+2.0,3:42,3.0,25.0,DEN 28,3.0,14.0,Russell Wilson pass complete short right to Samaje Perine for 11 yards (tackle by Greg Newsome),-1.42,-0.78,12.0,2023,175
+2.0,3:14,4.0,14.0,DEN 39,3.0,14.0,"Riley Dixon punts 43 yards, returned by James Proche for 9 yards (tackle by Riley Moss and Mitchell Fraboni)",-0.78,-0.74,12.0,2023,175
+2.0,3:04,1.0,10.0,CLE 27,3.0,14.0,Dorian Thompson-Robinson pass complete short left to Cedric Tillman for 18 yards (tackle by Ja'Quan McMillian),0.74,1.93,12.0,2023,175
+2.0,2:45,1.0,10.0,CLE 45,3.0,14.0,Dorian Thompson-Robinson pass incomplete short left intended for Jerome Ford,1.93,1.38,12.0,2023,175
+2.0,2:35,2.0,10.0,CLE 45,3.0,14.0,Jerome Ford right end for 3 yards (tackle by Jonathon Cooper),1.38,1.09,12.0,2023,175
+2.0,2:00,3.0,7.0,CLE 48,3.0,14.0,Dorian Thompson-Robinson scrambles right end for 6 yards (tackle by Alex Singleton and D.J. Jones),1.09,0.2,12.0,2023,175
+2.0,1:19,4.0,1.0,DEN 46,3.0,14.0,Kareem Hunt right tackle for 3 yards (tackle by Tyler Lancaster),0.2,2.72,12.0,2023,175
+2.0,1:14,,,,,,Timeout #1 by Cleveland Browns,,,12.0,2023,175
+2.0,1:14,1.0,10.0,DEN 43,3.0,14.0,Dorian Thompson-Robinson pass complete short right to Jerome Ford for 11 yards (tackle by Patrick Surtain),2.72,3.45,12.0,2023,175
+2.0,1:06,1.0,10.0,DEN 32,3.0,14.0,Dorian Thompson-Robinson pass complete short middle to Cedric Tillman for 23 yards (tackle by Justin Simmons),3.45,5.14,12.0,2023,175
+2.0,0:39,1.0,9.0,DEN 9,3.0,14.0,Dorian Thompson-Robinson left end for 3 yards (tackle by Baron Browning),5.14,4.95,12.0,2023,175
+2.0,0:34,2.0,6.0,DEN 6,3.0,14.0,Dorian Thompson-Robinson pass incomplete short middle intended for David Bell (defended by Mike Purcell),4.95,4.04,12.0,2023,175
+2.0,0:30,3.0,6.0,DEN 6,3.0,14.0,Dorian Thompson-Robinson pass incomplete short right intended for Elijah Moore,4.04,2.99,12.0,2023,175
+2.0,0:25,4.0,6.0,DEN 6,6.0,14.0,Dustin Hopkins 24 yard field goal good,2.99,3.0,12.0,2023,175
+2.0,0:22,,,CLE 35,6.0,14.0,"Dustin Hopkins kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,175
+2.0,0:22,1.0,10.0,DEN 25,6.0,14.0,Russell Wilson kneels for -1 yards,0.61,-0.07,12.0,2023,175
+3.0,15:00,,,CLE 35,6.0,14.0,"Dustin Hopkins kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,175
+3.0,15:00,1.0,10.0,DEN 25,6.0,14.0,Russell Wilson pass complete short left to Javonte Williams for 2 yards (tackle by Tony Fields),0.61,0.33,12.0,2023,175
+3.0,14:35,2.0,8.0,DEN 27,6.0,14.0,Russell Wilson pass complete short right to Jerry Jeudy for 7 yards (tackle by Martin Emerson),0.33,0.56,12.0,2023,175
+3.0,13:54,3.0,1.0,DEN 34,6.0,14.0,Javonte Williams right end for -3 yards (tackle by Jeremiah Owusu-Koramoah and Alex Wright),0.56,-1.31,12.0,2023,175
+3.0,13:14,4.0,4.0,DEN 31,6.0,14.0,Riley Dixon punts 48 yards downed by Delarrin Turner-Yell,-1.31,-0.34,12.0,2023,175
+3.0,13:06,1.0,10.0,CLE 21,6.0,14.0,Dorian Thompson-Robinson pass incomplete short right intended for Amari Cooper,0.34,-0.2,12.0,2023,175
+3.0,13:03,2.0,10.0,CLE 21,6.0,14.0,Jerome Ford left tackle for 2 yards (tackle by Alex Singleton and P.J. Locke),-0.2,-0.63,12.0,2023,175
+3.0,12:21,3.0,8.0,CLE 23,6.0,14.0,Dorian Thompson-Robinson pass complete short right to Amari Cooper for 11 yards,-0.63,1.2,12.0,2023,175
+3.0,11:55,1.0,10.0,CLE 34,6.0,14.0,Jerome Ford left tackle for 13 yards (tackle by P.J. Locke),1.2,2.06,12.0,2023,175
+3.0,11:15,1.0,10.0,CLE 47,6.0,14.0,Dorian Thompson-Robinson pass complete short right to David Njoku for 16 yards (tackle by Fabian Moreau),2.06,3.12,12.0,2023,175
+3.0,10:34,1.0,10.0,DEN 37,6.0,14.0,Jerome Ford left guard for 6 yards (tackle by Ja'Quan McMillian and Alex Singleton),3.12,3.31,12.0,2023,175
+3.0,9:54,2.0,5.0,DEN 31,6.0,14.0,Dorian Thompson-Robinson pass complete deep right to David Njoku for 17 yards (tackle by Justin Simmons),3.31,4.65,12.0,2023,175
+3.0,9:09,1.0,10.0,DEN 14,6.0,14.0,Dorian Thompson-Robinson pass incomplete short right,4.65,4.0,12.0,2023,175
+3.0,9:00,2.0,10.0,DEN 14,6.0,14.0,Jerome Ford left guard for 3 yards (tackle by Jonathon Cooper and Justin Simmons),4.0,3.62,12.0,2023,175
+3.0,8:20,3.0,7.0,DEN 11,6.0,14.0,"Dorian Thompson-Robinson pass incomplete short middle intended for David Njoku. Penalty on P.J. Locke: Personal Foul / Defense, 6 yards (accepted) (no play)",3.62,6.06,12.0,2023,175
+3.0,8:15,1.0,5.0,DEN 5,6.0,14.0,Kareem Hunt right tackle for 1 yard (tackle by Jonathon Cooper and Alex Singleton),6.06,5.34,12.0,2023,175
+3.0,7:34,2.0,4.0,DEN 4,6.0,14.0,Dorian Thompson-Robinson pass incomplete short middle intended for David Njoku (defended by Alex Singleton),5.34,4.49,12.0,2023,175
+3.0,7:30,3.0,4.0,DEN 4,6.0,14.0,Kareem Hunt right end for 2 yards (tackle by Jonathon Cooper and Patrick Surtain),4.49,3.25,12.0,2023,175
+3.0,6:44,4.0,2.0,DEN 2,12.0,14.0,"Dorian Thompson-Robinson pass complete short right to Harrison Bryant for 2 yards, touchdown",3.25,7.0,12.0,2023,175
+3.0,6:42,,,DEN 2,12.0,14.0,Two Point Attempt: Dorian Thompson-Robinson pass incomplete,1.0,-1.0,12.0,2023,175
+3.0,6:42,,,CLE 35,12.0,14.0,"Dustin Hopkins kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,175
+3.0,6:42,1.0,10.0,DEN 25,12.0,14.0,"Javonte Williams right guard for no gain (tackle by Jeremiah Owusu-Koramoah). Penalty on Shelby Harris: Defensive Holding, 5 yards (accepted) (no play)",0.61,0.94,12.0,2023,175
+3.0,6:30,1.0,10.0,DEN 30,12.0,14.0,Russell Wilson pass complete short middle to Javonte Williams for 4 yards (tackle by Jeremiah Owusu-Koramoah),0.94,0.93,12.0,2023,175
+3.0,5:48,2.0,6.0,DEN 34,12.0,14.0,Russell Wilson pass complete short left to Lil'Jordan Humphrey for 13 yards (tackle by Jeremiah Owusu-Koramoah),0.93,2.06,12.0,2023,175
+3.0,5:11,1.0,10.0,DEN 47,12.0,14.0,Javonte Williams right tackle for 15 yards (tackle by Juan Thornhill),2.06,3.05,12.0,2023,175
+3.0,4:29,1.0,10.0,CLE 38,12.0,14.0,Samaje Perine up the middle for 7 yards (tackle by Sione Takitaki and Matthew Adams),3.05,3.45,12.0,2023,175
+3.0,3:46,2.0,3.0,CLE 31,12.0,14.0,Samaje Perine right end for 24 yards (tackle by Tony Fields and Greg Newsome),3.45,5.6,12.0,2023,175
+3.0,3:01,1.0,7.0,CLE 7,12.0,14.0,Russell Wilson pass incomplete short right intended for Jerry Jeudy,5.6,4.76,12.0,2023,175
+3.0,2:48,2.0,7.0,CLE 7,12.0,14.0,Javonte Williams left guard for 5 yards (tackle by Grant Delpit),4.76,4.95,12.0,2023,175
+3.0,2:09,3.0,2.0,CLE 2,12.0,14.0,Samaje Perine up the middle for -3 yards (tackle by Ogbonnia Okoronkwo and Jeremiah Owusu-Koramoah),4.95,3.01,12.0,2023,175
+3.0,1:29,4.0,5.0,CLE 5,12.0,17.0,Wil Lutz 23 yard field goal good,3.01,3.0,12.0,2023,175
+3.0,1:25,,,DEN 35,12.0,17.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,175
+3.0,1:25,1.0,10.0,CLE 25,12.0,17.0,Dorian Thompson-Robinson pass incomplete short middle intended for David Njoku,0.61,0.06,12.0,2023,175
+3.0,1:20,2.0,10.0,CLE 25,12.0,17.0,Dorian Thompson-Robinson pass complete short left to David Njoku for 3 yards (tackle by P.J. Locke),0.06,-0.23,12.0,2023,175
+3.0,0:38,3.0,7.0,CLE 28,12.0,17.0,"Penalty on James Hudson: False Start, 5 yards (accepted) (no play)",-0.23,-0.89,12.0,2023,175
+3.0,0:11,3.0,12.0,CLE 23,12.0,17.0,"Dorian Thompson-Robinson pass incomplete short right intended for David Njoku. Penalty on Baron Browning: Roughing the Passer, 15 yards (accepted) (no play)",-0.89,1.47,12.0,2023,175
+3.0,0:11,1.0,10.0,CLE 38,12.0,17.0,Kareem Hunt right guard for 3 yards (tackle by Josey Jewell and Baron Browning),1.47,1.33,12.0,2023,175
+4.0,15:00,2.0,7.0,CLE 41,12.0,17.0,"Elijah Moore aborted snap, recovered by D.J. Jones at CLE-31 and returned for 11 yards",1.33,-4.24,12.0,2023,175
+4.0,14:54,1.0,10.0,CLE 20,12.0,17.0,Marvin Mims right end for 11 yards (tackle by Greg Newsome),4.24,5.14,12.0,2023,175
+4.0,14:22,1.0,9.0,CLE 9,12.0,17.0,Javonte Williams right end for 1 yard (tackle by Jeremiah Owusu-Koramoah and Mike Ford),5.14,4.57,12.0,2023,175
+4.0,13:45,2.0,8.0,CLE 8,12.0,17.0,Russell Wilson pass incomplete short right intended for Courtland Sutton,4.57,3.58,12.0,2023,175
+4.0,13:37,3.0,8.0,CLE 8,12.0,23.0,"Russell Wilson pass incomplete intended for Adam Trautman DEN challenged the pass completion ruling, and the original play was overturned. Russell Wilson pass complete short right to Adam Trautman for 8 yards, touchdown",3.58,7.0,12.0,2023,175
+4.0,13:29,,,CLE 15,12.0,24.0,Wil Lutz kicks extra point good,0.0,0.0,12.0,2023,175
+4.0,13:29,,,DEN 35,12.0,24.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,175
+4.0,13:29,1.0,10.0,CLE 25,12.0,24.0,Jerome Ford right guard for 4 yards (tackle by Ja'Quan McMillian and Fabian Moreau),0.61,0.6,12.0,2023,175
+4.0,12:53,2.0,6.0,CLE 29,12.0,24.0,"Penalty on Geron Christian: False Start, 5 yards (accepted) (no play)",0.6,-0.07,12.0,2023,175
+4.0,12:53,2.0,11.0,CLE 24,12.0,24.0,P.J. Walker sacked by Nik Bonitto for -4 yards,-0.07,-1.29,12.0,2023,175
+4.0,12:13,3.0,15.0,CLE 20,12.0,24.0,P.J. Walker pass incomplete short right intended for Cedric Tillman (defended by Nik Bonitto),-1.29,-2.03,12.0,2023,175
+4.0,12:06,4.0,15.0,CLE 20,12.0,24.0,"Corey Bojorquez punts 46 yards, returned by Marvin Mims for 2 yards (tackle by A.J. Green)",-2.03,-1.33,12.0,2023,175
+4.0,11:57,1.0,10.0,DEN 36,12.0,24.0,Javonte Williams right guard for -2 yards (tackle by Grant Delpit),1.33,0.52,12.0,2023,175
+4.0,11:14,2.0,12.0,DEN 34,12.0,24.0,"Javonte Williams right tackle for 1 yard (tackle by Ogbonnia Okoronkwo and Alex Wright) Penalty on DEN: Illegal Shift, 5 yards (declined)",0.52,-0.03,12.0,2023,175
+4.0,10:49,3.0,11.0,DEN 35,12.0,24.0,Russell Wilson pass complete short middle to Jerry Jeudy for 4 yards (tackle by Sione Takitaki),-0.03,-0.78,12.0,2023,175
+4.0,10:14,4.0,7.0,DEN 39,12.0,24.0,"Penalty on Tremon Smith: False Start, 5 yards (accepted) (no play)",-0.78,-1.11,12.0,2023,175
+4.0,10:14,4.0,12.0,DEN 34,12.0,24.0,"Riley Dixon punts 43 yards, fair catch by James Proche at CLE-23",-1.11,-0.48,12.0,2023,175
+4.0,10:07,1.0,10.0,CLE 23,12.0,24.0,"P.J. Walker pass complete short right to Jerome Ford for 7 yards (tackle by Jonathon Cooper). Penalty on Jonathon Cooper: Personal Foul / Defense, 15 yards (accepted)",0.48,1.93,12.0,2023,175
+4.0,9:56,1.0,10.0,CLE 45,12.0,24.0,P.J. Walker pass complete deep left to Elijah Moore for 26 yards,1.93,3.64,12.0,2023,175
+4.0,9:22,1.0,10.0,DEN 29,12.0,24.0,P.J. Walker pass incomplete deep right intended for Elijah Moore,3.64,3.1,12.0,2023,175
+4.0,9:16,2.0,10.0,DEN 29,12.0,24.0,P.J. Walker pass complete short left to Jerome Ford for -4 yards (tackle by Jonathan Harris),3.1,1.88,12.0,2023,175
+4.0,8:33,3.0,14.0,DEN 33,12.0,24.0,"P.J. Walker pass incomplete short left intended for Amari Cooper. Penalty on Wyatt Teller: Offensive Holding, 10 yards (declined)",1.88,1.15,12.0,2023,175
+4.0,8:28,4.0,14.0,DEN 33,12.0,24.0,"P.J. Walker sacked by P.J. Locke for -9 yards. P.J. Walker fumbles (forced by P.J. Locke), recovered by Alex Singleton at DEN-42",1.15,-1.73,12.0,2023,175
+4.0,8:24,1.0,10.0,DEN 42,12.0,24.0,Javonte Williams right guard for 3 yards (tackle by Sione Takitaki and Jeremiah Owusu-Koramoah),1.73,1.59,12.0,2023,175
+4.0,7:45,2.0,7.0,DEN 45,12.0,24.0,Javonte Williams right guard for 6 yards (tackle by Tony Fields),1.59,1.69,12.0,2023,175
+4.0,7:03,3.0,1.0,CLE 49,12.0,24.0,Russell Wilson pass complete deep left to Courtland Sutton for 25 yards (tackle by Greg Newsome),1.69,3.97,12.0,2023,175
+4.0,6:19,1.0,10.0,CLE 24,12.0,24.0,Javonte Williams right tackle for 2 yards (tackle by Greg Newsome),3.97,3.7,12.0,2023,175
+4.0,5:46,2.0,8.0,CLE 22,12.0,24.0,Russell Wilson pass complete short right to Courtland Sutton for 5 yards,3.7,3.75,12.0,2023,175
+4.0,5:11,3.0,3.0,CLE 17,12.0,24.0,Javonte Williams right tackle for 1 yard (tackle by Greg Newsome and Jeremiah Owusu-Koramoah),3.75,2.5,12.0,2023,175
+4.0,4:23,,,,,,Timeout #1 by Denver Broncos,,,12.0,2023,175
+4.0,4:23,4.0,2.0,CLE 16,12.0,27.0,Wil Lutz 34 yard field goal good,2.5,3.0,12.0,2023,175
+4.0,4:19,,,DEN 35,12.0,27.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,175
+4.0,4:19,1.0,10.0,CLE 25,12.0,27.0,P.J. Walker pass complete short right to Elijah Moore for 9 yards (tackle by Patrick Surtain),0.61,1.28,12.0,2023,175
+4.0,4:15,2.0,1.0,CLE 34,12.0,27.0,P.J. Walker pass complete short left to David Njoku for 6 yards (tackle by Ja'Quan McMillian),1.28,1.6,12.0,2023,175
+4.0,4:09,1.0,10.0,CLE 40,12.0,27.0,P.J. Walker pass incomplete short right intended for Elijah Moore,1.6,1.05,12.0,2023,175
+4.0,4:04,2.0,10.0,CLE 40,12.0,27.0,"P.J. Walker sacked by Josey Jewell for -10 yards. P.J. Walker fumbles (forced by Josey Jewell), recovered by Dawand Jones at CLE-30",1.05,-0.96,12.0,2023,175
+4.0,3:24,3.0,20.0,CLE 30,12.0,27.0,P.J. Walker pass complete short right to David Njoku for 12 yards (tackle by Alex Singleton),-0.96,-0.59,12.0,2023,175
+4.0,2:55,4.0,8.0,CLE 42,12.0,27.0,P.J. Walker pass incomplete short middle intended for Jerome Ford,-0.59,-2.85,12.0,2023,175
+4.0,2:53,1.0,10.0,CLE 41,12.0,27.0,Javonte Williams left tackle for no gain (tackle by Maurice Hurst and Shelby Harris),2.85,2.31,12.0,2023,175
+4.0,2:48,,,,,,Timeout #1 by Cleveland Browns,,,12.0,2023,175
+4.0,2:48,2.0,10.0,CLE 41,12.0,27.0,Russell Wilson sacked by Jeremiah Owusu-Koramoah for -9 yards,2.31,0.43,12.0,2023,175
+4.0,2:44,,,,,,Timeout #2 by Cleveland Browns,,,12.0,2023,175
+4.0,2:44,3.0,19.0,DEN 50,12.0,27.0,Samaje Perine right end for 3 yards (tackle by Jeremiah Owusu-Koramoah),0.43,0.13,12.0,2023,175
+4.0,2:38,,,,,,Timeout #3 by Cleveland Browns,,,12.0,2023,175
+4.0,2:38,4.0,15.0,CLE 47,12.0,27.0,"Riley Dixon punts 42 yards, fair catch by James Proche at CLE-5",0.13,0.38,12.0,2023,175
+4.0,2:32,1.0,10.0,CLE 5,12.0,27.0,P.J. Walker pass incomplete short left intended for David Bell,-0.38,-0.78,12.0,2023,175
+4.0,2:28,2.0,10.0,CLE 5,12.0,27.0,P.J. Walker pass incomplete short left intended for Elijah Moore,-0.78,-1.42,12.0,2023,175
+4.0,2:24,3.0,10.0,CLE 5,12.0,29.0,P.J. Walker sacked by and Zach Allen for -5 yards and Nik Bonitto for -5 yards,-1.42,-2.0,12.0,2023,175
+4.0,2:19,,,CLE 20,12.0,29.0,"Dustin Hopkins kicks off 62 yards,",0.0,0.61,12.0,2023,175
+4.0,2:19,1.0,10.0,DEN 25,12.0,29.0,Russell Wilson kneels for -1 yards,0.61,-0.07,12.0,2023,175
+4.0,2:00,2.0,11.0,DEN 24,12.0,29.0,"Penalty on Lloyd Cushenberry: False Start, 5 yards (accepted) (no play)",-0.07,-0.81,12.0,2023,175
+4.0,2:00,2.0,16.0,DEN 19,12.0,29.0,Russell Wilson kneels for -1 yards,-0.81,-1.72,12.0,2023,175
+4.0,1:20,3.0,17.0,DEN 18,12.0,29.0,Russell Wilson kneels for -1 yards,-1.72,-2.32,12.0,2023,175
+4.0,0:37,,,,,,Timeout #2 by Denver Broncos,,,12.0,2023,175
+4.0,0:37,4.0,18.0,DEN 17,12.0,29.0,"Riley Dixon punts 50 yards, fair catch by James Proche at CLE-33",-2.32,-1.14,12.0,2023,175
+4.0,0:30,1.0,10.0,CLE 33,12.0,29.0,P.J. Walker kneels for -1 yards,1.14,0.46,12.0,2023,175

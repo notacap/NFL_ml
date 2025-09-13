@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+      "dbeaver": {
+        "command": "dbeaver-mcp-server",
+        "type": "stdio",
+        "env": {
+          "DBEAVER_DEBUG": "true",
+          "DBEAVER_TIMEOUT": "30000",
+          "DBEAVER_CONFIG_PATH": "C:\\Users\\nocap\\AppData\\Roaming\\DBeaverData\\workspace6\\General\\.dbeaver"
+        }
+      }
+    }
+  }

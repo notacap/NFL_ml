@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,ARI 25,8,3:35,38,Field Goal,0,Cardinals,6.0,2023,89
+2,1,9:09,ARI 7,11,7:02,40,Punt,0,Cardinals,6.0,2023,89
+3,1,0:11,ARI 25,4,1:44,15,Punt,0,Cardinals,6.0,2023,89
+4,2,13:27,LAR 17,4,0:52,3,Field Goal,0,Cardinals,6.0,2023,89
+5,2,10:28,ARI 41,6,3:19,19,Downs,0,Cardinals,6.0,2023,89
+6,2,5:05,ARI 28,11,4:22,63,Field Goal,0,Cardinals,6.0,2023,89
+7,2,0:04,ARI 25,1,0:04,-1,End of Half,0,Cardinals,6.0,2023,89
+8,3,8:57,ARI 25,3,1:42,3,Punt,0,Cardinals,6.0,2023,89
+9,3,2:44,ARI 25,6,2:50,63,Interception,0,Cardinals,6.0,2023,89
+10,4,8:19,ARI 25,5,2:04,8,Fumble,0,Cardinals,6.0,2023,89
+11,4,4:37,ARI 25,8,1:05,28,Downs,0,Cardinals,6.0,2023,89
+12,4,1:51,ARI 20,9,1:51,70,End of Game,0,Cardinals,6.0,2023,89

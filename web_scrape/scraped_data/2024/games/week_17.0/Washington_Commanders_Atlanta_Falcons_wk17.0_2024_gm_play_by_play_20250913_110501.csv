@@ -1,0 +1,187 @@
+Quarter,Time,Down,ToGo,Location,ATL,WAS,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Falcons won the coin toss, Falcons to receive the opening kickoff.",,,17.0,2024,255
+1,15:00,,,WAS 35,0.0,0.0,"Zane Gonzalez kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,255
+1,15:00,1.0,10.0,ATL 30,0.0,0.0,Bijan Robinson left guard for 7 yards (tackle by Quan Martin),0.94,1.34,17.0,2024,255
+1,14:18,2.0,3.0,ATL 37,0.0,0.0,Michael Penix pass complete short right to KhaDarel Hodge for 9 yards (tackle by Jeremy Chinn and Bobby Wagner),1.34,1.99,17.0,2024,255
+1,13:43,1.0,10.0,ATL 46,0.0,0.0,Michael Penix pass complete short right to Bijan Robinson for 1 yard (tackle by Michael Davis and Frankie Luvu),1.99,1.59,17.0,2024,255
+1,12:59,2.0,9.0,ATL 47,0.0,0.0,Michael Penix pass incomplete short middle intended for Darnell Mooney,1.59,0.89,17.0,2024,255
+1,12:54,3.0,9.0,ATL 47,0.0,0.0,Michael Penix pass deep left intended for Chris Blair is intercepted by Quan Martin at WAS-33 and returned for 29 yards (tackle by Ray-Ray McCloud and Michael Penix),0.89,-3.05,17.0,2024,255
+1,12:45,1.0,10.0,ATL 38,0.0,0.0,Jayden Daniels pass complete short right to Olamide Zaccheaus for 12 yards (tackle by Jessie Bates and Kaden Elliss),3.05,3.84,17.0,2024,255
+1,12:17,1.0,10.0,ATL 26,0.0,0.0,Brian Robinson right guard for 2 yards (tackle by David Onyemata and Mike Hughes),3.84,3.57,17.0,2024,255
+1,11:40,2.0,8.0,ATL 24,0.0,0.0,Jayden Daniels pass complete short right to Olamide Zaccheaus for 9 yards (tackle by Kaden Elliss),3.57,4.58,17.0,2024,255
+1,11:02,1.0,10.0,ATL 15,0.0,0.0,Brian Robinson up the middle for 1 yard (tackle by Grady Jarrett),4.58,4.11,17.0,2024,255
+1,10:25,2.0,9.0,ATL 14,0.0,0.0,Jayden Daniels pass incomplete short middle intended for Zach Ertz,4.11,3.24,17.0,2024,255
+1,10:19,3.0,9.0,ATL 14,0.0,0.0,Jayden Daniels pass complete short middle to Jamison Crowder for 7 yards (tackle by Jessie Bates),3.24,3.0,17.0,2024,255
+1,9:37,4.0,2.0,ATL 7,0.0,6.0,"Jayden Daniels pass complete short left to Olamide Zaccheaus for 7 yards, touchdown",3.0,7.0,17.0,2024,255
+1,9:33,,,ATL 15,0.0,7.0,Zane Gonzalez kicks extra point good,0.0,0.0,17.0,2024,255
+1,9:33,,,WAS 35,0.0,7.0,"Zane Gonzalez kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,255
+1,9:33,1.0,10.0,ATL 30,0.0,7.0,Bijan Robinson right guard for 13 yards (tackle by Quan Martin and Sheldon Day),0.94,1.8,17.0,2024,255
+1,9:10,1.0,10.0,ATL 43,0.0,7.0,Michael Penix pass incomplete deep middle intended for KhaDarel Hodge (defended by Jeremy Chinn),1.8,1.25,17.0,2024,255
+1,8:59,2.0,10.0,ATL 43,0.0,7.0,Michael Penix pass complete short right to Kyle Pitts for 23 yards (tackle by Quan Martin),1.25,3.31,17.0,2024,255
+1,8:20,1.0,10.0,WAS 34,0.0,7.0,Michael Penix pass complete short right to Bijan Robinson for 1 yard (tackle by Bobby Wagner and Dorance Armstrong),3.31,2.91,17.0,2024,255
+1,7:39,2.0,9.0,WAS 33,0.0,7.0,Michael Penix pass complete short middle to Kyle Pitts for 5 yards (tackle by Jeremy Chinn),2.91,2.87,17.0,2024,255
+1,6:59,3.0,4.0,WAS 28,0.0,7.0,Michael Penix pass incomplete short right intended for Drake London,2.87,1.65,17.0,2024,255
+1,6:53,4.0,4.0,WAS 28,0.0,7.0,"Riley Patterson yard field goal good. Penalty on Mike Sainristil: Defensive Offside, 5 yards (accepted) (no play)",1.65,4.04,17.0,2024,255
+1,6:49,1.0,10.0,WAS 23,0.0,7.0,Michael Penix pass complete short left to Drake London for 13 yards (tackle by Mike Sainristil),4.04,4.91,17.0,2024,255
+1,6:08,1.0,10.0,WAS 10,0.0,7.0,Bijan Robinson left end for 4 yards (tackle by Javontae Jean-Baptiste),4.91,4.95,17.0,2024,255
+1,5:23,2.0,6.0,WAS 6,0.0,7.0,Michael Penix pass incomplete short right intended for KhaDarel Hodge,4.95,4.04,17.0,2024,255
+1,5:17,3.0,6.0,WAS 6,0.0,7.0,"Michael Penix pass incomplete short left intended for Drake London. Penalty on Michael Davis: Defensive Pass Interference, 5 yards (accepted) (no play)",4.04,6.97,17.0,2024,255
+1,5:12,1.0,1.0,WAS 1,6.0,7.0,"Bijan Robinson left tackle for 1 yard, touchdown",6.97,7.0,17.0,2024,255
+1,5:10,,,WAS 15,7.0,7.0,Riley Patterson kicks extra point good,0.0,0.0,17.0,2024,255
+1,5:10,,,ATL 35,7.0,7.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,255
+1,5:10,1.0,10.0,WAS 30,7.0,7.0,Brian Robinson left tackle for no gain (tackle by Nathan Landman),0.94,0.39,17.0,2024,255
+1,4:37,2.0,10.0,WAS 30,7.0,7.0,Jayden Daniels sacked by JD Bertrand for -13 yards,0.39,-2.36,17.0,2024,255
+1,3:55,3.0,23.0,WAS 17,7.0,7.0,Jayden Daniels pass complete short right to Olamide Zaccheaus for 12 yards (tackle by DeAngelo Malone and Mike Hughes),-2.36,-1.44,17.0,2024,255
+1,3:00,4.0,11.0,WAS 29,7.0,7.0,"Tress Way punts 55 yards, returned by Avery Williams for 13 yards (tackle by Kevon Seymour and Jeremy Reaves)",-1.44,-0.87,17.0,2024,255
+1,2:48,1.0,10.0,ATL 29,7.0,7.0,Bijan Robinson left end for 8 yards (tackle by Quan Martin),0.87,1.41,17.0,2024,255
+1,2:07,2.0,2.0,ATL 37,7.0,7.0,"Penalty on Charlie Woerner: False Start, 5 yards (accepted) (no play)",1.41,0.73,17.0,2024,255
+1,1:46,2.0,7.0,ATL 32,7.0,7.0,Bijan Robinson left end for 1 yard (tackle by Clelin Ferrell and Bobby Wagner),0.73,0.17,17.0,2024,255
+1,1:04,3.0,6.0,ATL 33,7.0,7.0,Michael Penix pass incomplete short left intended for Bijan Robinson,0.17,-1.18,17.0,2024,255
+1,0:59,4.0,6.0,ATL 33,7.0,7.0,"Bradley Pinion punts 61 yards, returned by Jamison Crowder for 22 yards (tackle by DeAngelo Malone and Nathan Landman)",-1.18,-0.81,17.0,2024,255
+1,0:45,1.0,10.0,WAS 28,7.0,7.0,Jayden Daniels pass complete short right to Zach Ertz for 9 yards (tackle by Nathan Landman),0.81,1.48,17.0,2024,255
+2,15:00,2.0,1.0,WAS 37,7.0,7.0,Brian Robinson left end for 12 yards (tackle by Justin Simmons and Nathan Landman),1.48,2.19,17.0,2024,255
+2,14:43,1.0,10.0,WAS 49,7.0,7.0,"Brian Robinson up the middle for 7 yards (tackle by Jessie Bates). Penalty on Grady Jarrett: Defensive Holding, 5 yards (accepted)",2.19,2.98,17.0,2024,255
+2,14:22,1.0,10.0,ATL 39,7.0,7.0,Brian Robinson left end for 1 yard (tackle by Zach Harrison and Demone Harris),2.98,2.58,17.0,2024,255
+2,13:41,2.0,9.0,ATL 38,7.0,7.0,Jayden Daniels pass complete short left to Terry McLaurin for 5 yards (tackle by Matt Judon),2.58,2.54,17.0,2024,255
+2,13:01,3.0,4.0,ATL 33,7.0,7.0,Jayden Daniels pass complete short middle to Jamison Crowder for 9 yards (tackle by DeAundre Alford),2.54,3.97,17.0,2024,255
+2,12:24,1.0,10.0,ATL 24,7.0,7.0,Jayden Daniels pass complete short left to Jeremy McNichols for -1 yards (tackle by Mike Hughes),3.97,3.3,17.0,2024,255
+2,11:51,2.0,11.0,ATL 25,7.0,7.0,Jayden Daniels pass complete short middle to Olamide Zaccheaus for 13 yards (tackle by Kaden Elliss and Jessie Bates),3.3,4.78,17.0,2024,255
+2,11:07,1.0,10.0,ATL 12,7.0,7.0,"Jayden Daniels right end for no gain (tackle by Demone Harris and DeAundre Alford). Penalty on Tyler Biadasz: Offensive Holding, 10 yards (accepted) (no play)",4.78,4.11,17.0,2024,255
+2,10:46,1.0,20.0,ATL 22,7.0,7.0,Jayden Daniels pass short middle intended for Jamison Crowder is intercepted by Kaden Elliss at ATL-16 and returned for 12 yards (tackle by Jamison Crowder and Tyler Biadasz),4.11,-0.81,17.0,2024,255
+2,10:37,1.0,10.0,ATL 28,7.0,7.0,Tyler Allgeier right guard for 8 yards (tackle by Bobby Wagner and Quan Martin),0.81,1.34,17.0,2024,255
+2,10:02,2.0,2.0,ATL 36,7.0,7.0,Tyler Allgeier right end for 5 yards (tackle by Noah Igbinoghene and Jeremy Chinn),1.34,1.66,17.0,2024,255
+2,9:18,1.0,10.0,ATL 41,7.0,7.0,Michael Penix pass incomplete deep left intended for KhaDarel Hodge,1.66,1.12,17.0,2024,255
+2,9:10,2.0,10.0,ATL 41,7.0,7.0,Michael Penix pass complete short left to Drake London for 14 yards (tackle by Quan Martin),1.12,2.59,17.0,2024,255
+2,8:30,1.0,10.0,WAS 45,7.0,7.0,Bijan Robinson right guard for 5 yards (tackle by Jer'Zhan Newton),2.59,2.72,17.0,2024,255
+2,7:47,2.0,5.0,WAS 40,7.0,7.0,Bijan Robinson left guard for 12 yards (tackle by Benjamin St-Juste),2.72,3.71,17.0,2024,255
+2,7:02,1.0,10.0,WAS 28,7.0,7.0,Tyler Allgeier right end for 6 yards (tackle by Daron Payne),3.71,3.98,17.0,2024,255
+2,6:22,2.0,4.0,WAS 22,7.0,7.0,"Michael Penix pass incomplete short right intended for KhaDarel Hodge. Penalty on Dante Fowler: Roughing the Passer, 10 yards (accepted) (no play)",3.98,4.78,17.0,2024,255
+2,6:17,1.0,10.0,WAS 12,7.0,7.0,Bijan Robinson right end for 8 yards (tackle by Benjamin St-Juste),4.78,5.6,17.0,2024,255
+2,5:33,2.0,2.0,WAS 4,7.0,7.0,"Bijan Robinson right end for no gain, touchdown Replay Assistant challenged the runner broke the plane ruling, and the original play was overturned. Bijan Robinson right end for 3 yards (tackle by Benjamin St-Juste)",5.6,6.97,17.0,2024,255
+2,5:10,1.0,1.0,WAS 1,7.0,7.0,Michael Penix left guard for no gain (tackle by Clelin Ferrell and Bobby Wagner),6.97,5.91,17.0,2024,255
+2,4:27,2.0,1.0,WAS 1,13.0,7.0,"Bijan Robinson right end for 1 yard, touchdown",5.91,7.0,17.0,2024,255
+2,4:24,,,WAS 15,14.0,7.0,Riley Patterson kicks extra point good,0.0,0.0,17.0,2024,255
+2,4:24,,,ATL 35,14.0,7.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,255
+2,4:24,1.0,10.0,WAS 30,14.0,7.0,Jayden Daniels left end for 25 yards (tackle by Kaden Elliss),0.94,2.59,17.0,2024,255
+2,3:53,1.0,10.0,ATL 45,14.0,7.0,"Brian Robinson left end for no gain (tackle by David Onyemata). Penalty on Brandon Coleman: Offensive Holding, 10 yards (accepted) (no play)",2.59,1.93,17.0,2024,255
+2,3:31,1.0,20.0,WAS 45,14.0,7.0,Jayden Daniels sacked by Matt Judon for -10 yards,1.93,-0.66,17.0,2024,255
+2,2:44,,,,,,Timeout #1 by Washington Commanders,,,17.0,2024,255
+2,2:44,2.0,30.0,WAS 35,14.0,7.0,Jayden Daniels pass incomplete short right,-0.66,-1.29,17.0,2024,255
+2,2:38,3.0,30.0,WAS 35,14.0,7.0,Jayden Daniels pass complete short right to Olamide Zaccheaus for 10 yards (tackle by Jessie Bates and Mike Hughes),-1.29,-0.39,17.0,2024,255
+2,2:00,4.0,20.0,WAS 45,14.0,7.0,"Tress Way punts 37 yards out of bounds. Penalty on Darrick Forrest: Offensive Holding, 10 yards (accepted)",-0.39,-0.81,17.0,2024,255
+2,1:53,1.0,10.0,ATL 28,14.0,7.0,Bijan Robinson right end for 9 yards (tackle by Bobby Wagner and Jeremy Chinn),0.81,1.48,17.0,2024,255
+2,1:19,2.0,1.0,ATL 37,14.0,7.0,Bijan Robinson right tackle for 10 yards (tackle by Jeremy Chinn),1.48,2.06,17.0,2024,255
+2,0:54,1.0,10.0,ATL 47,14.0,7.0,Michael Penix pass complete deep right to Drake London for 17 yards,2.06,3.18,17.0,2024,255
+2,0:46,1.0,10.0,WAS 36,14.0,7.0,Michael Penix pass complete short right to Darnell Mooney for 12 yards (tackle by Michael Davis),3.18,3.97,17.0,2024,255
+2,0:22,1.0,10.0,WAS 24,14.0,7.0,Michael Penix pass complete short right to Kyle Pitts for 3 yards,3.97,3.84,17.0,2024,255
+2,0:16,2.0,7.0,WAS 21,14.0,7.0,Michael Penix pass incomplete short middle intended for Bijan Robinson (defended by Bobby Wagner),3.84,3.14,17.0,2024,255
+2,0:11,3.0,7.0,WAS 21,14.0,7.0,Michael Penix pass incomplete deep left intended for Drake London,3.14,2.06,17.0,2024,255
+2,0:06,4.0,7.0,WAS 21,17.0,7.0,Riley Patterson 39 yard field goal good,2.06,3.0,17.0,2024,255
+2,0:02,,,ATL 35,17.0,7.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,255
+2,0:02,1.0,10.0,WAS 30,17.0,7.0,Jayden Daniels kneels for -1 yards,0.94,0.26,17.0,2024,255
+3,15:00,,,ATL 35,17.0,7.0,"Bradley Pinion kicks off 63 yards, returned by Luke McCaffrey for 29 yards (tackle by DeAundre Alford and JD Bertrand)",0.0,1.0,17.0,2024,255
+3,14:49,1.0,10.0,WAS 31,17.0,7.0,"Jayden Daniels pass incomplete short right intended for Olamide Zaccheaus. Penalty on Samuel Cosmi: Offensive Holding, 10 yards (accepted) (no play)",1.0,0.34,17.0,2024,255
+3,14:49,1.0,20.0,WAS 21,17.0,7.0,Jayden Daniels pass complete short middle to Brian Robinson for 5 yards (tackle by Arnold Ebiketie),0.34,-0.22,17.0,2024,255
+3,14:21,2.0,15.0,WAS 26,17.0,7.0,Jayden Daniels sacked by David Onyemata for -7 yards,-0.22,-1.94,17.0,2024,255
+3,13:40,3.0,22.0,WAS 19,17.0,7.0,"Jayden Daniels sacked by Arnold Ebiketie for no gain. Penalty on DeAngelo Malone: Illegal Contact, 5 yards (accepted) (no play)",-1.94,0.54,17.0,2024,255
+3,13:29,1.0,10.0,WAS 24,17.0,7.0,Jayden Daniels pass incomplete short left intended for Jamison Crowder,0.54,0.0,17.0,2024,255
+3,13:22,2.0,10.0,WAS 24,17.0,7.0,Brian Robinson right end for 10 yards (tackle by DeAngelo Malone and DeAundre Alford),0.0,1.2,17.0,2024,255
+3,12:45,1.0,10.0,WAS 34,17.0,7.0,"Jayden Daniels pass complete short left to Olamide Zaccheaus for no gain (tackle by Kentavius Street). Penalty on K.J. Osborn: Offensive Holding, 10 yards (accepted) (no play)",1.2,0.54,17.0,2024,255
+3,12:21,1.0,20.0,WAS 24,17.0,7.0,Jayden Daniels pass complete short left to Zach Ertz for 37 yards (tackle by JD Bertrand),0.54,2.98,17.0,2024,255
+3,11:32,1.0,10.0,ATL 39,17.0,7.0,Jayden Daniels pass incomplete short left intended for Jeremy McNichols,2.98,2.44,17.0,2024,255
+3,11:29,2.0,10.0,ATL 39,17.0,7.0,Jeremy McNichols right guard for 5 yards (tackle by Grady Jarrett),2.44,2.41,17.0,2024,255
+3,10:55,3.0,5.0,ATL 34,17.0,7.0,Jayden Daniels scrambles left end for 9 yards (tackle by Kaden Elliss),2.41,3.91,17.0,2024,255
+3,10:14,1.0,10.0,ATL 25,17.0,7.0,Jayden Daniels pass incomplete short middle intended for Terry McLaurin (defended by AJ Terrell),3.91,3.36,17.0,2024,255
+3,10:11,2.0,10.0,ATL 25,17.0,7.0,Jayden Daniels pass incomplete deep middle intended for Terry McLaurin,3.36,2.68,17.0,2024,255
+3,10:06,3.0,10.0,ATL 25,17.0,7.0,Jayden Daniels pass complete short right to Jamison Crowder for 9 yards (tackle by Mike Hughes),2.68,2.53,17.0,2024,255
+3,9:24,4.0,1.0,ATL 16,17.0,7.0,Jayden Daniels right end for 4 yards (tackle by Jessie Bates),2.53,4.78,17.0,2024,255
+3,8:47,1.0,10.0,ATL 12,17.0,7.0,Brian Robinson right end for 3 yards (tackle by Demone Harris and Eddie Goldman),4.78,4.64,17.0,2024,255
+3,8:04,2.0,7.0,ATL 9,17.0,7.0,Jayden Daniels sacked by Jessie Bates for -1 yards,4.64,3.48,17.0,2024,255
+3,7:19,3.0,8.0,ATL 10,17.0,13.0,"Jayden Daniels pass complete short middle to Zach Ertz for 10 yards, touchdown",3.48,7.0,17.0,2024,255
+3,7:13,,,ATL 15,17.0,14.0,Zane Gonzalez kicks extra point good,0.0,0.0,17.0,2024,255
+3,7:13,,,WAS 35,17.0,14.0,"Zane Gonzalez kicks off 67 yards, returned by Avery Williams for 31 yards (tackle by Jeremy Reaves)",0.0,0.87,17.0,2024,255
+3,7:07,1.0,10.0,ATL 29,17.0,14.0,Bijan Robinson left end for 1 yard (tackle by Jer'Zhan Newton and Daron Payne),0.87,0.46,17.0,2024,255
+3,6:16,2.0,9.0,ATL 30,17.0,14.0,Michael Penix pass complete short left to Drake London for 4 yards (tackle by Michael Davis),0.46,0.3,17.0,2024,255
+3,5:36,3.0,5.0,ATL 34,17.0,14.0,"Michael Penix sacked by Dante Fowler for -6 yards. Michael Penix fumbles (forced by Dante Fowler), recovered by Michael Penix at ATL-28 (tackle by Dante Fowler). Penalty on Matthew Bergeron: Offensive Holding, 10 yards (declined)",0.3,-1.5,17.0,2024,255
+3,5:15,4.0,11.0,ATL 28,17.0,14.0,Bradley Pinion punts 42 yards out of bounds,-1.5,-0.94,17.0,2024,255
+3,5:06,1.0,10.0,WAS 30,17.0,14.0,Jayden Daniels scrambles up the middle for 13 yards (tackle by AJ Terrell),0.94,1.8,17.0,2024,255
+3,4:31,1.0,10.0,WAS 43,17.0,14.0,"Penalty on Samuel Cosmi: False Start, 5 yards (accepted) (no play)",1.8,1.47,17.0,2024,255
+3,4:16,1.0,15.0,WAS 38,17.0,14.0,Jayden Daniels pass incomplete short middle intended for Terry McLaurin (defended by Nathan Landman),1.47,0.58,17.0,2024,255
+3,4:11,2.0,15.0,WAS 38,17.0,14.0,Jayden Daniels scrambles up the middle for 18 yards (tackle by Richie Grant),0.58,2.65,17.0,2024,255
+3,3:30,1.0,10.0,ATL 44,17.0,14.0,Chris Rodriguez right end for 2 yards (tackle by Nathan Landman),2.65,2.38,17.0,2024,255
+3,3:09,2.0,8.0,ATL 42,17.0,14.0,Jayden Daniels scrambles right end for 3 yards (tackle by Lorenzo Carter),2.38,2.08,17.0,2024,255
+3,2:23,3.0,5.0,ATL 39,17.0,14.0,Jayden Daniels pass incomplete deep left intended for Terry McLaurin,2.08,0.66,17.0,2024,255
+3,2:15,4.0,5.0,ATL 39,17.0,14.0,Jayden Daniels pass complete short middle to Jeremy McNichols for 6 yards (tackle by Jessie Bates),0.66,3.38,17.0,2024,255
+3,1:38,,,,,,Timeout #1 by Atlanta Falcons,,,17.0,2024,255
+3,1:38,1.0,10.0,ATL 33,17.0,14.0,Jayden Daniels pass complete short right to Olamide Zaccheaus for 6 yards (tackle by DeAundre Alford),3.38,3.65,17.0,2024,255
+3,1:09,2.0,4.0,ATL 27,17.0,14.0,Olamide Zaccheaus right end for 8 yards (tackle by Jessie Bates and Kaden Elliss),3.65,4.31,17.0,2024,255
+3,0:38,1.0,10.0,ATL 19,17.0,14.0,Jayden Daniels right end for 5 yards (tackle by Kaden Elliss),4.31,4.53,17.0,2024,255
+4,15:00,2.0,5.0,ATL 14,17.0,14.0,Chris Rodriguez right tackle for 4 yards (tackle by Matt Judon),4.53,4.69,17.0,2024,255
+4,14:22,3.0,1.0,ATL 10,17.0,14.0,Chris Rodriguez up the middle for 2 yards (tackle by Eddie Goldman and Grady Jarrett),4.69,5.37,17.0,2024,255
+4,13:46,1.0,8.0,ATL 8,17.0,14.0,Chris Rodriguez left guard for 6 yards (tackle by Justin Simmons and Kaden Elliss),5.37,5.72,17.0,2024,255
+4,13:08,2.0,2.0,ATL 2,17.0,20.0,"Chris Rodriguez left end for 2 yards, touchdown",5.72,7.0,17.0,2024,255
+4,13:03,,,ATL 15,17.0,21.0,Zane Gonzalez kicks extra point good,0.0,0.0,17.0,2024,255
+4,13:03,,,WAS 35,17.0,21.0,"Zane Gonzalez kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,255
+4,13:03,1.0,10.0,ATL 30,17.0,21.0,Michael Penix pass complete short middle to Charlie Woerner for 6 yards (tackle by Michael Davis),0.94,1.2,17.0,2024,255
+4,12:27,2.0,4.0,ATL 36,17.0,21.0,Bijan Robinson left end for 2 yards (tackle by Jonathan Allen),1.2,0.76,17.0,2024,255
+4,11:46,3.0,2.0,ATL 38,17.0,21.0,Michael Penix pass complete short middle to Ray-Ray McCloud for 13 yards (tackle by Mike Sainristil and Jer'Zhan Newton),0.76,2.32,17.0,2024,255
+4,11:09,1.0,10.0,WAS 49,17.0,21.0,Michael Penix pass incomplete short left intended for Darnell Mooney,2.32,1.78,17.0,2024,255
+4,11:02,2.0,10.0,WAS 49,17.0,21.0,Michael Penix pass incomplete short middle intended for Drake London (defended by Quan Martin),1.78,1.09,17.0,2024,255
+4,10:57,3.0,10.0,WAS 49,17.0,21.0,"Michael Penix sacked by Dorance Armstrong for -6 yards. Michael Penix fumbles (forced by Dorance Armstrong), recovered by Drew Dalman at ATL-45 (tackle by Dorance Armstrong)",1.09,-0.39,17.0,2024,255
+4,10:13,4.0,16.0,ATL 45,17.0,21.0,"Bradley Pinion punts 38 yards, returned by Jamison Crowder for 19 yards (tackle by Avery Williams and JD Bertrand)",-0.39,-1.33,17.0,2024,255
+4,10:02,1.0,10.0,WAS 36,17.0,21.0,Jayden Daniels pass complete short middle to Olamide Zaccheaus for 16 yards (tackle by Jessie Bates),1.33,2.39,17.0,2024,255
+4,9:23,1.0,10.0,ATL 48,17.0,21.0,Jayden Daniels left end for 7 yards (tackle by Nathan Landman),2.39,2.79,17.0,2024,255
+4,8:41,2.0,3.0,ATL 41,17.0,21.0,Brian Robinson left guard for 11 yards (tackle by Justin Simmons),2.79,3.58,17.0,2024,255
+4,8:05,1.0,10.0,ATL 30,17.0,21.0,Brian Robinson left end for 12 yards (tackle by Kaden Elliss),3.58,4.37,17.0,2024,255
+4,7:32,1.0,10.0,ATL 18,17.0,21.0,Brian Robinson right guard for 1 yard (tackle by Kentavius Street),4.37,3.94,17.0,2024,255
+4,6:58,2.0,9.0,ATL 17,17.0,21.0,Jayden Daniels pass complete short middle to John Bates for 14 yards (tackle by Justin Simmons),3.94,6.51,17.0,2024,255
+4,6:07,,,,,,Timeout #1 by Washington Commanders,,,17.0,2024,255
+4,6:07,1.0,3.0,ATL 3,17.0,21.0,Jayden Daniels left tackle for 2 yards (tackle by Grady Jarrett and Eddie Goldman),6.51,5.91,17.0,2024,255
+4,5:21,,,,,,Timeout #2 by Washington Commanders,,,17.0,2024,255
+4,5:21,2.0,1.0,ATL 1,17.0,21.0,Brian Robinson up the middle for -1 yards (tackle by Matt Judon and Ruke Orhorhoro),5.91,4.95,17.0,2024,255
+4,4:45,3.0,2.0,ATL 2,17.0,21.0,"Jayden Daniels pass complete short left to Olamide Zaccheaus for no gain, touchdown. Penalty on Samuel Cosmi: Offensive Holding, 10 yards (accepted) (no play)",4.95,3.1,17.0,2024,255
+4,4:39,3.0,12.0,ATL 12,17.0,21.0,Jayden Daniels pass incomplete short left intended for Terry McLaurin,3.1,2.63,17.0,2024,255
+4,4:35,4.0,12.0,ATL 12,17.0,24.0,Zane Gonzalez 31 yard field goal good,2.63,3.0,17.0,2024,255
+4,4:32,,,WAS 35,17.0,24.0,"Zane Gonzalez kicks off 60 yards, returned by Avery Williams for 27 yards (tackle by Brycen Tremayne)",0.0,1.07,17.0,2024,255
+4,4:25,1.0,10.0,ATL 32,17.0,24.0,Bijan Robinson left end for 5 yards (tackle by Mike Sainristil),1.07,1.2,17.0,2024,255
+4,4:18,2.0,5.0,ATL 37,17.0,24.0,Michael Penix pass incomplete deep right intended for Drake London,1.2,0.5,17.0,2024,255
+4,4:13,3.0,5.0,ATL 37,17.0,24.0,Michael Penix pass complete short left to Drake London for 14 yards,0.5,2.32,17.0,2024,255
+4,4:08,1.0,10.0,WAS 49,17.0,24.0,"Michael Penix pass complete short left to Kyle Pitts for no gain (tackle by Michael Davis). Penalty on Kaleb McGary: Offensive Holding, 10 yards (accepted) (no play)",2.32,1.66,17.0,2024,255
+4,3:57,1.0,20.0,ATL 41,17.0,24.0,Michael Penix pass complete short middle to Bijan Robinson for 6 yards (tackle by Dante Fowler and Dorance Armstrong),1.66,1.24,17.0,2024,255
+4,3:28,2.0,14.0,ATL 47,17.0,24.0,Michael Penix scrambles up the middle for 3 yards (tackle by Javontae Jean-Baptiste and Dorance Armstrong),1.24,0.96,17.0,2024,255
+4,2:40,3.0,11.0,ATL 50,17.0,24.0,Michael Penix pass incomplete deep right intended for Kyle Pitts (defended by Jeremy Chinn),0.96,-0.06,17.0,2024,255
+4,2:34,4.0,11.0,ATL 50,17.0,24.0,Michael Penix pass complete deep left to Drake London for 31 yards (tackle by Quan Martin),-0.06,4.31,17.0,2024,255
+4,2:25,1.0,10.0,WAS 19,17.0,24.0,Ray-Ray McCloud right end for 14 yards (tackle by Quan Martin),4.31,6.06,17.0,2024,255
+4,2:20,1.0,5.0,WAS 5,17.0,24.0,"Bijan Robinson aborted snap, recovered by Bijan Robinson at WAS-27 and returned for -21 yards (tackle by Jalyn Holmes)",6.06,2.19,17.0,2024,255
+4,2:00,2.0,26.0,WAS 26,17.0,24.0,Michael Penix pass complete short left to Drake London for 13 yards (tackle by Michael Davis),2.19,3.06,17.0,2024,255
+4,1:30,3.0,13.0,WAS 13,17.0,24.0,Michael Penix pass incomplete short right intended for Drake London,3.06,2.57,17.0,2024,255
+4,1:23,4.0,13.0,WAS 13,23.0,24.0,"Michael Penix pass complete short middle to Kyle Pitts for 13 yards, touchdown",2.57,7.0,17.0,2024,255
+4,1:19,,,WAS 15,24.0,24.0,Riley Patterson kicks extra point good,0.0,0.0,17.0,2024,255
+4,1:19,,,ATL 35,24.0,24.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,255
+4,1:19,1.0,10.0,WAS 30,24.0,24.0,Jayden Daniels sacked by Arnold Ebiketie for no gain,0.94,0.39,17.0,2024,255
+4,0:59,2.0,10.0,WAS 30,24.0,24.0,Jayden Daniels pass incomplete short middle intended for Terry McLaurin,0.39,-0.3,17.0,2024,255
+4,0:55,3.0,10.0,WAS 30,24.0,24.0,Jayden Daniels pass incomplete deep middle intended for Olamide Zaccheaus,-0.3,-1.37,17.0,2024,255
+4,0:50,4.0,10.0,WAS 30,24.0,24.0,"Tress Way punts 61 yards, returned by Avery Williams for 10 yards (tackle by Percy Butler)",-1.37,-0.15,17.0,2024,255
+4,0:40,1.0,10.0,ATL 19,24.0,24.0,Michael Penix pass complete deep right to Darnell Mooney for 25 yards (tackle by Michael Davis),0.15,1.86,17.0,2024,255
+4,0:19,1.0,10.0,ATL 44,24.0,24.0,Michael Penix pass incomplete deep left intended for Darnell Mooney,1.86,1.32,17.0,2024,255
+4,0:12,2.0,10.0,ATL 44,24.0,24.0,Michael Penix pass incomplete short middle intended for Drake London,1.32,0.63,17.0,2024,255
+4,0:07,,,,,,Timeout #2 by Atlanta Falcons,,,17.0,2024,255
+4,0:07,3.0,10.0,ATL 44,24.0,24.0,"Penalty on Daron Payne: Neutral Zone Infraction, 5 yards (accepted) (no play)",0.63,1.29,17.0,2024,255
+4,0:07,3.0,5.0,ATL 49,24.0,24.0,"Michael Penix pass incomplete deep right intended for Darnell Mooney. Penalty on Michael Davis: Defensive Pass Interference, 13 yards (accepted) (no play)",1.29,3.05,17.0,2024,255
+4,0:02,1.0,10.0,WAS 38,24.0,24.0,Riley Patterson 56 yard field goal no good,3.05,0.0,17.0,2024,255
+,,,,,,,"Commanders won the coin toss, Commanders to receive the overtime kickoff.",,,17.0,2024,255
+OT,10:00,,,ATL 35,24.0,24.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,255
+OT,10:00,1.0,10.0,WAS 30,24.0,24.0,"Penalty on Brandon Coleman: False Start, 5 yards (accepted) (no play)",0.94,0.61,17.0,2024,255
+OT,10:00,1.0,15.0,WAS 25,24.0,24.0,Jayden Daniels scrambles up the middle for 7 yards (tackle by Lorenzo Carter),0.61,0.66,17.0,2024,255
+OT,9:24,2.0,8.0,WAS 32,24.0,24.0,Jayden Daniels pass complete short middle to Zach Ertz for 10 yards (tackle by Jessie Bates),0.66,1.73,17.0,2024,255
+OT,8:46,1.0,10.0,WAS 42,24.0,24.0,Jayden Daniels left end for 7 yards (tackle by Nathan Landman),1.73,2.13,17.0,2024,255
+OT,8:10,2.0,3.0,WAS 49,24.0,24.0,Brian Robinson left tackle for 1 yard (tackle by Grady Jarrett),2.13,1.55,17.0,2024,255
+OT,7:38,3.0,2.0,WAS 50,24.0,24.0,Jayden Daniels scrambles right end for 16 yards (tackle by Justin Simmons),1.55,3.31,17.0,2024,255
+OT,6:58,1.0,10.0,ATL 34,24.0,24.0,Jayden Daniels pass complete short middle to Zach Ertz for 4 yards (tackle by Kaden Elliss),3.31,3.31,17.0,2024,255
+OT,6:19,2.0,6.0,ATL 30,24.0,24.0,Jayden Daniels pass complete short left to Chris Rodriguez for 12 yards (tackle by Mike Hughes),3.31,4.37,17.0,2024,255
+OT,5:41,1.0,10.0,ATL 18,24.0,24.0,Jayden Daniels pass complete short right to Brian Robinson for 4 yards (tackle by Jessie Bates and DeAundre Alford),4.37,4.43,17.0,2024,255
+OT,5:07,2.0,6.0,ATL 14,24.0,24.0,Jayden Daniels right end for 6 yards (tackle by JD Bertrand),4.43,5.37,17.0,2024,255
+OT,4:26,1.0,8.0,ATL 8,24.0,24.0,Jayden Daniels left end for no gain (tackle by DeAundre Alford),5.37,4.57,17.0,2024,255
+OT,3:37,2.0,8.0,ATL 8,24.0,24.0,Jayden Daniels scrambles up the middle for 6 yards (tackle by Justin Simmons),4.57,4.95,17.0,2024,255
+OT,2:45,,,,,,Timeout #1 by Washington Commanders,,,17.0,2024,255
+OT,2:45,3.0,2.0,ATL 2,24.0,30.0,"Jayden Daniels pass complete short middle to Zach Ertz for 2 yards, touchdown",4.95,6.0,17.0,2024,255

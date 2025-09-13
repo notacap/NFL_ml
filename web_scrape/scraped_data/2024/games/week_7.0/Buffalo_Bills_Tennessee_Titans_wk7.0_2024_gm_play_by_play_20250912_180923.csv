@@ -1,0 +1,165 @@
+Quarter,Time,Down,ToGo,Location,TEN,BUF,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Bills won the coin toss, Bills to receive the opening kickoff.",,,7.0,2024,97
+1.0,15:00,,,TEN 35,0.0,0.0,"Nick Folk kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,97
+1.0,15:00,1.0,10.0,BUF 30,0.0,0.0,James Cook left guard for 5 yards (tackle by Ernest Jones and T'Vondre Sweat),0.94,1.07,7.0,2024,97
+1.0,14:26,2.0,5.0,BUF 35,0.0,0.0,James Cook up the middle for 4 yards (tackle by Kenneth Murray and T'Vondre Sweat),1.07,0.89,7.0,2024,97
+1.0,13:44,3.0,1.0,BUF 39,0.0,0.0,Josh Allen pass incomplete short left intended for Amari Cooper,0.89,-0.78,7.0,2024,97
+1.0,13:31,4.0,1.0,BUF 39,0.0,0.0,"Sam Martin punts 46 yards, returned by Jha'Quan Jackson for no gain (tackle by Baylon Spector). Penalty on Tre Avery: Offensive Holding, 7 yards (accepted)",-0.78,0.38,7.0,2024,97
+1.0,13:31,1.0,10.0,TEN 8,0.0,0.0,Mason Rudolph pass complete short left to Josh Whyle for 11 yards (tackle by Dorian Williams),-0.38,0.15,7.0,2024,97
+1.0,12:54,1.0,10.0,TEN 19,0.0,0.0,Mason Rudolph pass complete short right to Nick Vannett for 6 yards (tackle by Taylor Rapp and Dorian Williams),0.15,0.48,7.0,2024,97
+1.0,12:14,2.0,4.0,TEN 25,0.0,0.0,Mason Rudolph pass complete short left to Calvin Ridley for no gain (tackle by Terrel Bernard),0.48,-0.29,7.0,2024,97
+1.0,11:32,3.0,4.0,TEN 25,0.0,0.0,Mason Rudolph pass incomplete short right intended for Calvin Ridley (defended by Taron Johnson),-0.29,-1.7,7.0,2024,97
+1.0,11:25,4.0,4.0,TEN 25,0.0,0.0,"Ryan Stonehouse punts 60 yards, returned by Brandon Codrington for 12 yards (tackle by Luke Gifford)",-1.7,-0.74,7.0,2024,97
+1.0,11:14,1.0,10.0,BUF 27,0.0,0.0,Josh Allen pass complete short left to Dawson Knox for 5 yards (tackle by Kenneth Murray and Jarvis Brownlee),0.74,0.87,7.0,2024,97
+1.0,10:39,2.0,5.0,BUF 32,0.0,0.0,"Penalty on Dion Dawkins: False Start, 5 yards (accepted) (no play)",0.87,0.2,7.0,2024,97
+1.0,10:18,2.0,10.0,BUF 27,0.0,0.0,Josh Allen pass incomplete short left intended for Curtis Samuel (defended by Jeffery Simmons),0.2,-0.49,7.0,2024,97
+1.0,10:14,3.0,10.0,BUF 27,0.0,0.0,Josh Allen pass incomplete deep left intended for Keon Coleman,-0.49,-1.57,7.0,2024,97
+1.0,10:07,4.0,10.0,BUF 27,0.0,0.0,Sam Martin punts 41 yards out of bounds,-1.57,-1.07,7.0,2024,97
+1.0,10:00,1.0,10.0,TEN 32,0.0,0.0,Tony Pollard left guard for 2 yards (tackle by Terrel Bernard),1.07,0.8,7.0,2024,97
+1.0,9:21,2.0,8.0,TEN 34,0.0,0.0,"Tony Pollard up the middle for no gain (tackle by Terrel Bernard). Penalty on Gregory Rousseau: Defensive Offside, 5 yards (accepted) (no play)",0.8,1.47,7.0,2024,97
+1.0,8:57,2.0,3.0,TEN 39,0.0,0.0,Mason Rudolph pass incomplete short left intended for Tony Pollard (defended by A.J. Epenesa),1.47,0.76,7.0,2024,97
+1.0,8:52,,,,,,Timeout #1 by Tennessee Titans,,,7.0,2024,97
+1.0,8:52,3.0,3.0,TEN 39,0.0,0.0,Mason Rudolph pass complete short left to Nick Westbrook-Ikhine for 6 yards (tackle by Dorian Williams),0.76,1.93,7.0,2024,97
+1.0,8:22,1.0,10.0,TEN 45,0.0,0.0,Mason Rudolph pass incomplete short right intended for Tony Pollard,1.93,1.38,7.0,2024,97
+1.0,8:17,2.0,10.0,TEN 45,0.0,0.0,Tony Pollard left end for no gain (tackle by Dawuane Smoot),1.38,0.7,7.0,2024,97
+1.0,7:34,3.0,10.0,TEN 45,0.0,0.0,Mason Rudolph pass complete short middle to Tyler Boyd for 12 yards (tackle by Terrel Bernard and Taron Johnson),0.7,2.72,7.0,2024,97
+1.0,6:58,1.0,10.0,BUF 43,0.0,0.0,Tony Pollard left tackle for 14 yards (tackle by Christian Benford and Damar Hamlin),2.72,3.64,7.0,2024,97
+1.0,6:20,1.0,10.0,BUF 29,0.0,0.0,Tony Pollard right end for 4 yards (tackle by Dorian Williams),3.64,3.64,7.0,2024,97
+1.0,5:58,2.0,6.0,BUF 25,0.0,0.0,Mason Rudolph pass complete short right to Nick Vannett for 11 yards (tackle by Damar Hamlin),3.64,4.65,7.0,2024,97
+1.0,5:20,1.0,10.0,BUF 14,0.0,0.0,"Penalty on Dillon Radunz: False Start, 5 yards (accepted) (no play)",4.65,4.26,7.0,2024,97
+1.0,5:02,1.0,15.0,BUF 19,0.0,0.0,Mason Rudolph pass complete short right to Tyler Boyd for 3 yards (tackle by Terrel Bernard and Gregory Rousseau),4.26,3.72,7.0,2024,97
+1.0,4:20,2.0,12.0,BUF 16,0.0,0.0,Mason Rudolph pass complete short right to Nick Vannett for -1 yards (tackle by Dorian Williams),3.72,2.93,7.0,2024,97
+1.0,3:44,3.0,13.0,BUF 17,0.0,0.0,Mason Rudolph pass complete short left to Tyler Boyd for 10 yards (tackle by Damar Hamlin),2.93,2.99,7.0,2024,97
+1.0,3:00,4.0,3.0,BUF 7,3.0,0.0,Nick Folk 25 yard field goal good,2.99,3.0,7.0,2024,97
+1.0,2:57,,,TEN 35,3.0,0.0,"Nick Folk kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,97
+1.0,2:57,1.0,10.0,BUF 30,3.0,0.0,James Cook left guard for 5 yards (tackle by Ernest Jones),0.94,1.07,7.0,2024,97
+1.0,2:17,2.0,5.0,BUF 35,3.0,0.0,James Cook up the middle for -1 yards (tackle by Harold Landry),1.07,0.23,7.0,2024,97
+1.0,1:36,3.0,6.0,BUF 34,3.0,0.0,Josh Allen pass incomplete deep middle intended for Mack Hollins (defended by Darrell Baker),0.23,-1.11,7.0,2024,97
+1.0,1:29,4.0,6.0,BUF 34,3.0,0.0,"Sam Martin punts 39 yards, returned by Jha'Quan Jackson for 8 yards (tackle by Reid Ferguson and Quintin Morris). Penalty on James Williams: Offensive Holding, 10 yards (accepted)",-1.11,-0.61,7.0,2024,97
+1.0,1:16,1.0,10.0,TEN 25,3.0,0.0,Mason Rudolph pass complete deep left to Chigoziem Okonkwo for 26 yards (tackle by Baylon Spector),0.61,2.32,7.0,2024,97
+1.0,0:39,1.0,10.0,BUF 49,3.0,0.0,Tony Pollard left tackle for no gain (tackle by Dorian Williams) (no play),2.32,1.99,7.0,2024,97
+1.0,0:13,1.0,15.0,TEN 46,3.0,0.0,Tony Pollard up the middle for 14 yards (tackle by Dorian Williams and Taylor Rapp),1.99,3.0,7.0,2024,97
+2.0,15:00,2.0,1.0,BUF 40,3.0,0.0,Mason Rudolph pass complete short left to Josh Whyle for 12 yards (tackle by Damar Hamlin and Taylor Rapp),3.0,3.71,7.0,2024,97
+2.0,14:22,1.0,10.0,BUF 28,3.0,0.0,Tony Pollard left guard for 5 yards (tackle by Gregory Rousseau),3.71,3.84,7.0,2024,97
+2.0,13:41,2.0,5.0,BUF 23,3.0,0.0,Tony Pollard up the middle for 2 yards (tackle by Christian Benford),3.84,3.4,7.0,2024,97
+2.0,12:59,3.0,3.0,BUF 21,3.0,0.0,"Mason Rudolph pass incomplete short right intended for Tony Pollard. Penalty on Taron Johnson: Unnecessary Roughness / Defense, 10 yards (accepted) (no play)",3.4,4.84,7.0,2024,97
+2.0,12:54,1.0,10.0,BUF 11,3.0,0.0,Julius Chestnut left guard for 8 yards (tackle by Dorian Williams and Damar Hamlin),4.84,5.66,7.0,2024,97
+2.0,12:17,2.0,2.0,BUF 3,3.0,0.0,Julius Chestnut up the middle for -1 yards (tackle by Dawuane Smoot),5.66,4.67,7.0,2024,97
+2.0,11:38,3.0,3.0,BUF 4,9.0,0.0,"Mason Rudolph pass complete short right to Nick Westbrook-Ikhine for 4 yards, touchdown",4.67,7.0,7.0,2024,97
+2.0,11:31,,,BUF 15,10.0,0.0,Nick Folk kicks extra point good,0.0,0.0,7.0,2024,97
+2.0,11:31,,,TEN 35,10.0,0.0,"Nick Folk kicks off 53 yards, returned by Brandon Codrington for 27 yards (tackle by Luke Gifford)",0.0,1.53,7.0,2024,97
+2.0,11:20,1.0,10.0,BUF 39,10.0,0.0,Josh Allen pass complete short right to Khalil Shakir for 6 yards (tackle by Darrell Baker),1.53,1.8,7.0,2024,97
+2.0,10:45,2.0,4.0,BUF 45,10.0,0.0,Josh Allen pass complete deep right to Keon Coleman for 44 yards (tackle by Jarvis Brownlee),1.8,4.84,7.0,2024,97
+2.0,10:08,1.0,10.0,TEN 11,10.0,6.0,"James Cook right guard for 11 yards, touchdown",4.84,7.0,7.0,2024,97
+2.0,10:04,,,TEN 15,10.0,7.0,Tyler Bass kicks extra point good,0.0,0.0,7.0,2024,97
+2.0,10:04,,,BUF 35,10.0,7.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,97
+2.0,10:04,1.0,10.0,TEN 30,10.0,7.0,Mason Rudolph pass incomplete deep left intended for Calvin Ridley,0.94,0.39,7.0,2024,97
+2.0,9:58,2.0,10.0,TEN 30,10.0,7.0,Tony Pollard right end for 7 yards (tackle by Christian Benford),0.39,0.63,7.0,2024,97
+2.0,9:13,3.0,3.0,TEN 37,10.0,7.0,Mason Rudolph pass complete short left to DeAndre Hopkins for 6 yards (tackle by Taron Johnson and Terrel Bernard),0.63,1.8,7.0,2024,97
+2.0,8:38,1.0,10.0,TEN 43,10.0,7.0,"Mason Rudolph aborted snap, recovered by Terrel Bernard at TEN-46",1.8,-2.52,7.0,2024,97
+2.0,8:30,1.0,10.0,TEN 46,10.0,7.0,Ray Davis up the middle for no gain (tackle by T'Vondre Sweat),2.52,1.98,7.0,2024,97
+2.0,7:48,2.0,10.0,TEN 46,10.0,7.0,Josh Allen pass complete short right to Dalton Kincaid for 10 yards (tackle by Jarvis Brownlee and Kenneth Murray),1.98,3.18,7.0,2024,97
+2.0,7:07,1.0,10.0,TEN 36,10.0,7.0,Josh Allen sacked by Arden Key for -8 yards,3.18,1.56,7.0,2024,97
+2.0,6:26,2.0,18.0,TEN 44,10.0,7.0,Josh Allen pass incomplete short right intended for Dalton Kincaid,1.56,0.89,7.0,2024,97
+2.0,6:21,3.0,18.0,TEN 44,10.0,7.0,Josh Allen pass incomplete deep middle intended for Dawson Knox (defended by Ernest Jones),0.89,0.33,7.0,2024,97
+2.0,6:16,4.0,18.0,TEN 44,10.0,7.0,"Sam Martin punts 44 yards, touchback.",0.33,-0.28,7.0,2024,97
+2.0,6:07,1.0,10.0,TEN 20,10.0,7.0,Tony Pollard left guard for 2 yards (tackle by A.J. Epenesa),0.28,0.0,7.0,2024,97
+2.0,5:32,2.0,8.0,TEN 22,10.0,7.0,Mason Rudolph pass complete short right to Chigoziem Okonkwo for 10 yards (tackle by Taron Johnson),0.0,1.07,7.0,2024,97
+2.0,4:54,,,,,,Timeout #2 by Tennessee Titans,,,7.0,2024,97
+2.0,4:54,1.0,10.0,TEN 32,10.0,7.0,"Mason Rudolph sacked by A.J. Epenesa for -9 yards. Mason Rudolph fumbles (forced by A.J. Epenesa), recovered by Lloyd Cushenberry at TEN-12",1.07,-2.24,7.0,2024,97
+2.0,4:14,2.0,30.0,TEN 12,10.0,7.0,Tony Pollard right end for 2 yards (tackle by Gregory Rousseau),-2.24,-3.28,7.0,2024,97
+2.0,3:35,3.0,28.0,TEN 14,10.0,7.0,Tony Pollard left guard for 12 yards (tackle by Cameron Lewis and Baylon Spector),-3.28,-1.63,7.0,2024,97
+2.0,2:53,4.0,16.0,TEN 26,10.0,7.0,"Ryan Stonehouse punts 62 yards, returned by Brandon Codrington for 12 yards (tackle by Luke Gifford)",-1.63,-0.54,7.0,2024,97
+2.0,2:41,1.0,10.0,BUF 24,10.0,7.0,James Cook right guard for 2 yards (tackle by Kenneth Murray),0.54,0.27,7.0,2024,97
+2.0,2:00,2.0,8.0,BUF 26,10.0,7.0,Josh Allen pass incomplete deep right intended for Dalton Kincaid (defended by Harold Landry),0.27,-0.43,7.0,2024,97
+2.0,1:56,3.0,8.0,BUF 26,10.0,7.0,Josh Allen scrambles right end for 7 yards (tackle by Kenneth Murray and Harold Landry),-0.43,-1.18,7.0,2024,97
+2.0,0:57,4.0,1.0,BUF 33,10.0,7.0,Sam Martin punts 27 yards out of bounds,-1.18,-1.6,7.0,2024,97
+2.0,0:44,1.0,10.0,TEN 40,10.0,7.0,Mason Rudolph pass complete short right to Tony Pollard for 2 yards (tackle by Terrel Bernard),1.6,1.32,7.0,2024,97
+2.0,0:20,2.0,8.0,TEN 42,10.0,7.0,Mason Rudolph pass complete short right to Chigoziem Okonkwo for 5 yards (tackle by Taylor Rapp),1.32,1.29,7.0,2024,97
+2.0,0:15,,,,,,Timeout #3 by Tennessee Titans,,,7.0,2024,97
+2.0,0:15,3.0,3.0,TEN 47,10.0,7.0,Mason Rudolph pass complete short middle to Tyler Boyd for 7 yards (tackle by Taron Johnson),1.29,2.52,7.0,2024,97
+2.0,0:02,1.0,10.0,BUF 46,10.0,7.0,Mason Rudolph spiked the ball,2.52,1.98,7.0,2024,97
+2.0,0:01,2.0,10.0,BUF 46,10.0,7.0,"Mason Rudolph pass complete short middle to Calvin Ridley for 30 yards, lateral to DeAndre Hopkins for -6 yards. DeAndre Hopkins fumbles (forced by Ed Oliver), recovered by Tony Pollard at BUF-21 (tackle by Dawuane Smoot)",1.98,0.87,7.0,2024,97
+3.0,15:00,,,BUF 35,10.0,7.0,"Tyler Bass kicks off 63 yards, returned by Jha'Quan Jackson for 34 yards (tackle by Baylon Spector)",0.0,1.33,7.0,2024,97
+3.0,14:54,1.0,10.0,TEN 36,10.0,7.0,Tony Pollard right tackle for 1 yard (tackle by Gregory Rousseau and Dorian Williams),1.33,0.93,7.0,2024,97
+3.0,14:16,2.0,9.0,TEN 37,10.0,7.0,Mason Rudolph scrambles left tackle for 8 yards (tackle by DeWayne Carter),0.93,1.29,7.0,2024,97
+3.0,13:34,3.0,1.0,TEN 45,10.0,7.0,Tony Pollard up the middle for -1 yards (tackle by Terrel Bernard and Dorian Williams),1.29,-0.46,7.0,2024,97
+3.0,13:00,4.0,2.0,TEN 44,10.0,7.0,Tony Pollard up the middle for -3 yards (tackle by DeWayne Carter and Taylor Rapp),-0.46,-2.85,7.0,2024,97
+3.0,12:55,1.0,10.0,TEN 41,10.0,7.0,Josh Allen pass complete short left to Keon Coleman for 14 yards (tackle by Kenneth Murray),2.85,3.78,7.0,2024,97
+3.0,12:17,1.0,10.0,TEN 27,10.0,7.0,James Cook left guard for 2 yards (tackle by Jeffery Simmons and T'Vondre Sweat),3.78,3.5,7.0,2024,97
+3.0,11:41,2.0,8.0,TEN 25,10.0,7.0,Josh Allen left guard for -4 yards (tackle by Jaylen Harrell),3.5,2.28,7.0,2024,97
+3.0,11:03,3.0,12.0,TEN 29,10.0,7.0,Josh Allen pass complete deep left to Dalton Kincaid for 17 yards (tackle by Quandre Diggs),2.28,4.78,7.0,2024,97
+3.0,10:31,1.0,10.0,TEN 12,10.0,7.0,Josh Allen pass incomplete short left intended for Dalton Kincaid (defended by Jarvis Brownlee),4.78,4.1,7.0,2024,97
+3.0,10:28,2.0,10.0,TEN 12,10.0,13.0,"Josh Allen pass complete short left to Amari Cooper for 12 yards, touchdown",4.1,7.0,7.0,2024,97
+3.0,10:23,,,TEN 15,10.0,14.0,Tyler Bass kicks extra point good,0.0,0.0,7.0,2024,97
+3.0,10:23,,,BUF 35,10.0,14.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,97
+3.0,10:23,1.0,10.0,TEN 30,10.0,14.0,"Mason Rudolph pass incomplete deep left intended for Calvin Ridley. Penalty on Christian Benford: Illegal Contact, 5 yards (accepted) (no play)",0.94,1.27,7.0,2024,97
+3.0,10:17,1.0,10.0,TEN 35,10.0,14.0,Tony Pollard left end for -3 yards (tackle by Terrel Bernard),1.27,0.32,7.0,2024,97
+3.0,9:43,2.0,13.0,TEN 32,10.0,14.0,"Mason Rudolph pass incomplete short left intended for Calvin Ridley. Penalty on Rasul Douglas: Defensive Pass Interference, 15 yards (accepted) (no play)",0.32,2.06,7.0,2024,97
+3.0,9:38,1.0,10.0,TEN 47,10.0,14.0,"Penalty on Chigoziem Okonkwo: False Start, 5 yards (accepted) (no play)",2.06,1.73,7.0,2024,97
+3.0,9:38,1.0,15.0,TEN 42,10.0,14.0,Mason Rudolph sacked by and Gregory Rousseau for -3 yards and Dawuane Smoot for -3 yards,1.73,0.44,7.0,2024,97
+3.0,8:55,2.0,18.0,TEN 39,10.0,14.0,Mason Rudolph pass incomplete short left intended for Tony Pollard,0.44,-0.23,7.0,2024,97
+3.0,8:49,3.0,18.0,TEN 39,10.0,14.0,Tony Pollard left guard for 3 yards (tackle by Ed Oliver and A.J. Epenesa),-0.23,-0.59,7.0,2024,97
+3.0,8:15,4.0,15.0,TEN 42,10.0,14.0,"Ryan Stonehouse punts 43 yards, returned by Brandon Codrington for 11 yards (tackle by Morgan Cox)",-0.59,-0.67,7.0,2024,97
+3.0,8:05,1.0,10.0,BUF 26,10.0,14.0,Ray Davis left guard for 22 yards (tackle by Harold Landry and Quandre Diggs),0.67,2.13,7.0,2024,97
+3.0,7:22,1.0,10.0,BUF 48,10.0,14.0,Josh Allen pass complete short left to Ray Davis for 6 yards (tackle by Ernest Jones),2.13,2.39,7.0,2024,97
+3.0,6:55,2.0,4.0,TEN 46,10.0,14.0,Josh Allen pass complete deep left to Amari Cooper for 19 yards (tackle by Jarvis Brownlee),2.39,3.78,7.0,2024,97
+3.0,6:23,1.0,10.0,TEN 27,10.0,14.0,Ray Davis right guard for no gain (tackle by Darrell Baker and Harold Landry),3.78,3.23,7.0,2024,97
+3.0,5:43,2.0,10.0,TEN 27,10.0,14.0,Josh Allen pass complete short middle to Khalil Shakir for 9 yards (tackle by Jarvis Brownlee),3.23,3.84,7.0,2024,97
+3.0,5:14,3.0,1.0,TEN 18,10.0,14.0,"Josh Allen left guard for no gain (tackle by Jack Gibbens). Penalty on Jeffery Simmons: Defensive Offside, 5 yards (accepted) (no play)",3.84,4.71,7.0,2024,97
+3.0,5:03,1.0,10.0,TEN 13,10.0,14.0,Ray Davis left guard for 3 yards (tackle by Ernest Jones),4.71,4.58,7.0,2024,97
+3.0,4:23,2.0,7.0,TEN 10,10.0,14.0,Josh Allen pass incomplete short left intended for Dawson Knox,4.58,3.65,7.0,2024,97
+3.0,4:18,3.0,7.0,TEN 10,10.0,14.0,Josh Allen pass incomplete short right intended for Keon Coleman,3.65,2.76,7.0,2024,97
+3.0,4:15,4.0,7.0,TEN 10,10.0,17.0,Tyler Bass 28 yard field goal good,2.76,3.0,7.0,2024,97
+3.0,4:12,,,BUF 35,10.0,17.0,"Tyler Bass kicks off 63 yards, returned by Jha'Quan Jackson for 21 yards (tackle by Cole Bishop)",0.0,0.48,7.0,2024,97
+3.0,4:05,1.0,10.0,TEN 23,10.0,17.0,Mason Rudolph pass complete short left to Nick Vannett for 9 yards (tackle by Dorian Williams and Taron Johnson),0.48,1.15,7.0,2024,97
+3.0,3:25,2.0,1.0,TEN 32,10.0,17.0,"Tony Pollard right end for no gain (tackle by Terrel Bernard and Christian Benford). Penalty on Lloyd Cushenberry: Offensive Holding, 10 yards (accepted) (no play)",1.15,-0.2,7.0,2024,97
+3.0,3:11,2.0,11.0,TEN 22,10.0,17.0,Mason Rudolph pass incomplete deep middle intended for Calvin Ridley,-0.2,-0.89,7.0,2024,97
+3.0,3:06,3.0,11.0,TEN 22,10.0,17.0,"Penalty on JC Latham: False Start, 5 yards (accepted) (no play)",-0.89,-1.76,7.0,2024,97
+3.0,3:06,3.0,16.0,TEN 17,10.0,17.0,Mason Rudolph pass incomplete deep left intended for Calvin Ridley,-1.76,-2.32,7.0,2024,97
+3.0,3:00,4.0,16.0,TEN 17,10.0,17.0,"Ryan Stonehouse punts 53 yards, returned by Brandon Codrington for 14 yards (tackle by Chigoziem Okonkwo)",-2.32,-1.86,7.0,2024,97
+3.0,2:49,1.0,10.0,BUF 44,10.0,17.0,Josh Allen pass complete short left to Amari Cooper for 27 yards (tackle by Jack Gibbens),1.86,3.64,7.0,2024,97
+3.0,2:09,1.0,10.0,TEN 29,10.0,17.0,James Cook up the middle for 6 yards (tackle by Darrell Baker),3.64,3.91,7.0,2024,97
+3.0,1:32,2.0,4.0,TEN 23,10.0,17.0,James Cook left tackle for -4 yards (tackle by James Lynch),3.91,2.68,7.0,2024,97
+3.0,0:52,3.0,8.0,TEN 27,10.0,17.0,"Josh Allen pass complete deep right to Dalton Kincaid for 25 yards (tackle by Amani Hooker and Mike Brown) TEN challenged the runner was down by contact ruling, and the original play was overturned. Josh Allen pass complete deep right to Dalton Kincaid for 25 yards. Dalton Kincaid fumbles, ball out of bounds at TEN-1 and Mike Brown). Dalton Kincaid fumbles out of bounds",2.68,6.74,7.0,2024,97
+3.0,0:30,1.0,2.0,TEN 2,10.0,17.0,Josh Allen left guard for -2 yards (tackle by Arden Key and Jeffery Simmons),6.74,5.34,7.0,2024,97
+4.0,15:00,2.0,4.0,TEN 4,10.0,23.0,"Josh Allen pass complete short middle to Ty Johnson for 4 yards, touchdown",5.34,7.0,7.0,2024,97
+4.0,14:54,,,TEN 15,10.0,24.0,Tyler Bass kicks extra point good,0.0,0.0,7.0,2024,97
+4.0,14:54,,,BUF 35,10.0,24.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,97
+4.0,14:54,1.0,10.0,TEN 30,10.0,24.0,Mason Rudolph pass incomplete short right,0.94,0.39,7.0,2024,97
+4.0,14:49,2.0,10.0,TEN 30,10.0,24.0,Mason Rudolph pass incomplete short left intended for Tony Pollard,0.39,-0.3,7.0,2024,97
+4.0,14:44,3.0,10.0,TEN 30,10.0,24.0,Mason Rudolph pass incomplete short middle intended for Nick Westbrook-Ikhine (defended by Rasul Douglas),-0.3,-1.37,7.0,2024,97
+4.0,14:38,4.0,10.0,TEN 30,10.0,24.0,"Ryan Stonehouse punts 48 yards, returned by Brandon Codrington for 7 yards (tackle by Luke Gifford and Mike Brown)",-1.37,-0.87,7.0,2024,97
+4.0,14:25,1.0,10.0,BUF 29,10.0,24.0,Josh Allen pass incomplete short right,0.87,0.33,7.0,2024,97
+4.0,14:17,2.0,10.0,BUF 29,10.0,24.0,Josh Allen pass complete short middle to Khalil Shakir for 4 yards (tackle by Quandre Diggs),0.33,0.17,7.0,2024,97
+4.0,13:41,3.0,6.0,BUF 33,10.0,24.0,Josh Allen pass complete short left to Khalil Shakir for 18 yards (tackle by Amani Hooker),0.17,2.32,7.0,2024,97
+4.0,12:57,1.0,10.0,TEN 49,10.0,24.0,Josh Allen pass complete short left to Khalil Shakir for 2 yards (tackle by Darrell Baker),2.32,2.05,7.0,2024,97
+4.0,12:18,2.0,8.0,TEN 47,10.0,24.0,Josh Allen pass complete short left to Amari Cooper for 8 yards (tackle by Jarvis Brownlee),2.05,2.98,7.0,2024,97
+4.0,11:39,1.0,10.0,TEN 39,10.0,24.0,Josh Allen pass complete short right to Khalil Shakir for 20 yards (tackle by Ernest Jones),2.98,4.31,7.0,2024,97
+4.0,10:53,1.0,10.0,TEN 19,10.0,24.0,Josh Allen pass complete short left to Khalil Shakir for 6 yards (tackle by Ali Gaye),4.31,4.72,7.0,2024,97
+4.0,10:16,2.0,4.0,TEN 13,10.0,24.0,James Cook left end for 1 yard (tackle by James Lynch and Sebastian Joseph-Day),4.72,4.19,7.0,2024,97
+4.0,9:32,3.0,3.0,TEN 12,10.0,24.0,"Josh Allen pass complete short left to Keon Coleman for no gain, touchdown Replay Assistant challenged the pass completion ruling, and the original play was overturned. Josh Allen pass incomplete short left intended for Keon Coleman (defended by Jarvis Brownlee)",4.19,2.73,7.0,2024,97
+4.0,9:29,4.0,3.0,TEN 12,10.0,27.0,Tyler Bass 30 yard field goal good,2.73,3.0,7.0,2024,97
+4.0,9:26,,,BUF 35,10.0,27.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,97
+4.0,9:26,1.0,10.0,TEN 30,10.0,27.0,Mason Rudolph pass complete short left to Calvin Ridley for 9 yards (tackle by Taron Johnson),0.94,1.61,7.0,2024,97
+4.0,8:54,2.0,1.0,TEN 39,10.0,27.0,Mason Rudolph pass complete short right to Josh Whyle for 11 yards (tackle by Taylor Rapp and Baylon Spector),1.61,2.26,7.0,2024,97
+4.0,8:27,1.0,10.0,TEN 50,10.0,27.0,Mason Rudolph pass incomplete short right intended for Josh Whyle,2.26,1.71,7.0,2024,97
+4.0,8:23,2.0,10.0,TEN 50,10.0,27.0,Mason Rudolph pass complete short left to Chigoziem Okonkwo for 9 yards (tackle by Baylon Spector),1.71,2.21,7.0,2024,97
+4.0,7:44,3.0,1.0,BUF 41,10.0,27.0,Mason Rudolph pass incomplete deep right intended for Calvin Ridley,2.21,0.53,7.0,2024,97
+4.0,7:39,4.0,1.0,BUF 41,10.0,27.0,Mason Rudolph right guard for 2 yards (tackle by Taylor Rapp),0.53,2.98,7.0,2024,97
+4.0,7:09,1.0,10.0,BUF 39,10.0,27.0,Mason Rudolph pass complete short left to Tony Pollard for 2 yards (tackle by Taron Johnson),2.98,2.71,7.0,2024,97
+4.0,6:41,2.0,8.0,BUF 37,10.0,27.0,Mason Rudolph pass incomplete short right intended for Calvin Ridley,2.71,2.02,7.0,2024,97
+4.0,6:37,3.0,8.0,BUF 37,10.0,27.0,Mason Rudolph pass complete short right to Tyler Boyd for 11 yards (tackle by Christian Benford),2.02,3.84,7.0,2024,97
+4.0,5:59,1.0,10.0,BUF 26,10.0,27.0,Mason Rudolph pass complete short right to Julius Chestnut for 9 yards (tackle by Cameron Lewis),3.84,4.64,7.0,2024,97
+4.0,5:19,2.0,1.0,BUF 17,10.0,27.0,Mason Rudolph sacked by DaQuan Jones for -3 yards,4.64,3.4,7.0,2024,97
+4.0,4:40,3.0,4.0,BUF 20,10.0,27.0,Mason Rudolph pass short right (defended by Christian Benford) intended for Nick Westbrook-Ikhine is intercepted by Damar Hamlin at BUF-16 and returned for no gain (tackle by Nick Westbrook-Ikhine),3.4,0.14,7.0,2024,97
+4.0,4:37,1.0,10.0,BUF 16,10.0,27.0,Josh Allen pass complete short left to Keon Coleman for 57 yards (tackle by Quandre Diggs),-0.14,3.78,7.0,2024,97
+4.0,3:42,1.0,10.0,TEN 27,10.0,27.0,James Cook left end for 2 yards (tackle by Quandre Diggs and Kenneth Murray),3.78,3.5,7.0,2024,97
+4.0,2:57,2.0,8.0,TEN 25,10.0,27.0,Josh Allen pass complete short right to Keon Coleman for 10 yards (tackle by Darrell Baker),3.5,4.58,7.0,2024,97
+4.0,2:11,1.0,10.0,TEN 15,10.0,27.0,James Cook up the middle for -1 yards (tackle by Amani Hooker),4.58,3.81,7.0,2024,97
+4.0,2:00,2.0,11.0,TEN 16,10.0,33.0,"Ray Davis right tackle for 16 yards, touchdown",3.81,7.0,7.0,2024,97
+4.0,1:53,,,TEN 15,10.0,34.0,Tyler Bass kicks extra point good,0.0,0.0,7.0,2024,97
+4.0,1:53,,,BUF 35,10.0,34.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,97
+4.0,1:53,1.0,10.0,TEN 30,10.0,34.0,"Mason Rudolph aborted snap, recovered by Mason Rudolph at TEN-24 and returned for -6 yards",0.94,-0.42,7.0,2024,97
+4.0,1:16,2.0,16.0,TEN 24,10.0,34.0,Mason Rudolph left guard for 3 yards (tackle by DeWayne Carter),-0.42,-0.69,7.0,2024,97
+4.0,0:34,3.0,13.0,TEN 27,10.0,34.0,Julius Chestnut left end for 8 yards (tackle by Brandon Codrington),-0.69,-1.04,7.0,2024,97

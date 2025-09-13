@@ -1,0 +1,158 @@
+Quarter,Time,Down,ToGo,Location,DAL,PHI,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Eagles won the coin toss and deferred, Cowboys to receive the opening kickoff.",,,1,2025,1
+1.0,15:00,,,PHI 35,0.0,0.0,"Jake Elliott kicks off 60 yards, returned by KaVontae Turpin for 27 yards. Penalty on Jalen Carter: Disqualification / Defense, 15 yards (accepted) (tackle by Kylen Granson)",0.0,2.06,1,2025,1
+1.0,14:54,1.0,10.0,DAL 47,0.0,0.0,Javonte Williams left tackle for 7 yards (tackle by Cooper DeJean),2.06,2.46,1,2025,1
+1.0,14:19,2.0,3.0,PHI 46,0.0,0.0,KaVontae Turpin right end for 4 yards (tackle by Cooper DeJean and Zack Baun),2.46,2.79,1,2025,1
+1.0,13:45,1.0,10.0,PHI 42,0.0,0.0,Dak Prescott pass complete short right to George Pickens for 6 yards (tackle by Quinyon Mitchell),2.79,3.05,1,2025,1
+1.0,13:05,2.0,4.0,PHI 36,0.0,0.0,Javonte Williams up the middle for 3 yards (tackle by Andrew Mukuba),3.05,2.74,1,2025,1
+1.0,12:22,3.0,1.0,PHI 33,0.0,0.0,Dak Prescott pass complete deep right to CeeDee Lamb for 32 yards (tackle by Adoree' Jackson),2.74,6.97,1,2025,1
+1.0,11:56,1.0,1.0,PHI 1,0.0,0.0,Dak Prescott pass incomplete short right intended for CeeDee Lamb. Penalty on Adoree' Jackson: Defensive Pass Interference (accepted) (no play),6.97,6.97,1,2025,1
+1.0,11:52,1.0,1.0,PHI 1,6.0,0.0,"Javonte Williams left guard for 1 yard, touchdown",6.97,7.0,1,2025,1
+1.0,11:49,,,PHI 15,7.0,0.0,Brandon Aubrey kicks extra point good,0.0,0.0,1,2025,1
+1.0,11:49,,,DAL 35,7.0,0.0,"Brandon Aubrey kicks off 65 yards, touchback.. Penalty on Marcus Epps: Illegal Motion, 5 yards (accepted)",0.0,0.94,1,2025,1
+1.0,11:49,1.0,10.0,PHI 30,7.0,0.0,Jalen Hurts pass complete short left to Dallas Goedert for 8 yards (tackle by Kenneth Murray),0.94,1.47,1,2025,1
+1.0,11:17,2.0,2.0,PHI 38,7.0,0.0,Saquon Barkley right guard for 3 yards (tackle by Kenny Clark),1.47,1.66,1,2025,1
+1.0,10:40,1.0,10.0,PHI 41,7.0,0.0,Jalen Hurts scrambles up the middle for 7 yards (tackle by Jack Sanborn),1.66,2.07,1,2025,1
+1.0,9:57,2.0,3.0,PHI 48,7.0,0.0,Saquon Barkley left end for 16 yards (tackle by Damone Clark and DaRon Bland),2.07,3.18,1,2025,1
+1.0,9:09,1.0,10.0,DAL 36,7.0,0.0,Jalen Hurts pass complete short right to Dallas Goedert for 6 yards (tackle by Malik Hooker),3.18,3.45,1,2025,1
+1.0,8:43,2.0,4.0,DAL 30,7.0,0.0,Will Shipley right guard for 5 yards (tackle by Damone Clark and Kenneth Murray),3.45,3.91,1,2025,1
+1.0,8:08,1.0,10.0,DAL 25,7.0,0.0,Will Shipley left end for 20 yards (tackle by Jack Sanborn and Malik Hooker and Jack Sanborn),3.91,6.06,1,2025,1
+1.0,7:24,1.0,5.0,DAL 5,7.0,0.0,Saquon Barkley left tackle for 2 yards (tackle by Donovan Ezeiruaku),6.06,5.53,1,2025,1
+1.0,6:41,2.0,3.0,DAL 3,7.0,0.0,Saquon Barkley up the middle for -1 yards (tackle by Solomon Thomas and Kenneth Murray),5.53,4.49,1,2025,1
+1.0,6:01,3.0,4.0,DAL 4,7.0,6.0,"Jalen Hurts scrambles right tackle for 4 yards, touchdown",4.49,7.0,1,2025,1
+1.0,5:55,,,DAL 15,7.0,7.0,Jake Elliott kicks extra point good,0.0,0.0,1,2025,1
+1.0,5:55,,,PHI 35,7.0,7.0,"Jake Elliott kicks off 63 yards, returned by KaVontae Turpin for 22 yards. Penalty on Markquese Bell: Unnecessary Roughness / Offense, 12 yards (declined) . Penalty on Marist Liufau: Unnecessary Roughness / Offense, 12 yards (accepted) (tackle by Joshua Uche and Jeremiah Trotter)",0.0,-0.35,1,2025,1
+1.0,5:48,1.0,10.0,DAL 12,7.0,7.0,Javonte Williams left guard for 3 yards (tackle by Moro Ojomo and Zack Baun),-0.35,-0.5,1,2025,1
+1.0,5:08,2.0,7.0,DAL 15,7.0,7.0,Dak Prescott pass complete short left to CeeDee Lamb for 18 yards (tackle by Reed Blankenship),-0.5,1.14,1,2025,1
+1.0,4:26,1.0,10.0,DAL 33,7.0,7.0,Javonte Williams right guard for 5 yards (tackle by Jalyx Hunt and Cooper DeJean),1.14,1.27,1,2025,1
+1.0,3:44,2.0,5.0,DAL 38,7.0,7.0,Javonte Williams left end for 3 yards (tackle by Andrew Mukuba and Jihaad Campbell),1.27,0.96,1,2025,1
+1.0,3:01,3.0,2.0,DAL 41,7.0,7.0,Dak Prescott pass complete short left to CeeDee Lamb for 26 yards (tackle by Adoree' Jackson),0.96,3.38,1,2025,1
+1.0,2:14,1.0,10.0,PHI 33,7.0,7.0,"Dak Prescott pass complete short left to Miles Sanders for no gain. Penalty on Tyler Smith: Offensive Holding, 10 yards (accepted) (tackle by Reed Blankenship) (no play)",3.38,2.72,1,2025,1
+1.0,1:47,1.0,20.0,PHI 43,7.0,7.0,Dak Prescott pass complete short right to Miles Sanders for -3 yards (tackle by Zack Baun),2.72,1.08,1,2025,1
+1.0,1:00,2.0,23.0,PHI 46,7.0,7.0,"Dak Prescott pass incomplete deep right intended for George Pickens. Penalty on Quinyon Mitchell: Defensive Pass Interference, 34 yards (accepted) (no play)",1.08,4.78,1,2025,1
+1.0,0:51,1.0,10.0,PHI 12,7.0,7.0,Dak Prescott pass incomplete short left intended for Jalen Tolbert,4.78,4.1,1,2025,1
+1.0,0:46,2.0,10.0,PHI 12,7.0,7.0,Javonte Williams up the middle for 11 yards (tackle by Reed Blankenship),4.1,6.97,1,2025,1
+2.0,15:00,1.0,1.0,PHI 1,13.0,7.0,"Javonte Williams up the middle for 1 yard, touchdown",6.97,7.0,1,2025,1
+2.0,14:56,,,PHI 15,14.0,7.0,Brandon Aubrey kicks extra point good,0.0,0.0,1,2025,1
+2.0,14:56,,,DAL 35,14.0,7.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,1.27,1,2025,1
+2.0,14:56,1.0,10.0,PHI 35,14.0,7.0,Saquon Barkley right end for 6 yards (tackle by Osa Odighizuwa and Malik Hooker),1.27,1.53,1,2025,1
+2.0,14:12,2.0,4.0,PHI 41,14.0,7.0,Jalen Hurts pass complete short right to DeVonta Smith for 6 yards (tackle by Kenneth Murray),1.53,2.06,1,2025,1
+2.0,13:29,1.0,10.0,PHI 47,14.0,7.0,Saquon Barkley right guard for 4 yards (tackle by Malik Hooker and Sam Williams),2.06,2.06,1,2025,1
+2.0,12:48,2.0,6.0,DAL 49,14.0,7.0,Jalen Hurts pass complete short right to Dallas Goedert for 3 yards (tackle by Kenneth Murray),2.06,1.75,1,2025,1
+2.0,12:01,3.0,3.0,DAL 46,14.0,7.0,Jalen Hurts pass complete short middle to Dallas Goedert for 7 yards (tackle by Malik Hooker),1.75,2.98,1,2025,1
+2.0,11:19,1.0,10.0,DAL 39,14.0,7.0,Jalen Hurts pass complete short right to Kylen Granson for 1 yard,2.98,2.58,1,2025,1
+2.0,10:38,2.0,9.0,DAL 38,14.0,7.0,Jalen Hurts scrambles left end for 9 yards (tackle by Kaiir Elam),2.58,3.64,1,2025,1
+2.0,9:52,1.0,10.0,DAL 29,14.0,7.0,Saquon Barkley right end for 4 yards (tackle by Marshawn Kneeland),3.64,3.64,1,2025,1
+2.0,9:13,2.0,6.0,DAL 25,14.0,7.0,Will Shipley left guard for 1 yard (tackle by Osa Odighizuwa),3.64,3.07,1,2025,1
+2.0,8:28,3.0,5.0,DAL 24,14.0,7.0,Jalen Hurts scrambles right tackle for 15 yards (tackle by Malik Hooker),3.07,5.14,1,2025,1
+2.0,7:45,1.0,9.0,DAL 9,14.0,7.0,Saquon Barkley up the middle for 1 yard (tackle by Solomon Thomas),5.14,4.57,1,2025,1
+2.0,6:58,2.0,8.0,DAL 8,14.0,13.0,"Jalen Hurts scrambles left end for 8 yards, touchdown",4.57,7.0,1,2025,1
+2.0,6:46,,,DAL 15,14.0,14.0,Jake Elliott kicks extra point good,0.0,0.0,1,2025,1
+2.0,6:46,,,PHI 35,14.0,14.0,"Jake Elliott kicks off 57 yards, returned by KaVontae Turpin for 23 yards (tackle by Sydney Brown)",0.0,1.0,1,2025,1
+2.0,6:41,1.0,10.0,DAL 31,14.0,14.0,Dak Prescott pass complete short left to Jake Ferguson for 3 yards (tackle by Reed Blankenship),1.0,0.87,1,2025,1
+2.0,6:03,2.0,7.0,DAL 34,14.0,14.0,Dak Prescott pass complete short left to KaVontae Turpin for 16 yards (tackle by Adoree' Jackson),0.87,2.26,1,2025,1
+2.0,5:16,,,,,,Timeout #1 by Dallas Cowboys,,,1,2025,1
+2.0,5:16,1.0,10.0,DAL 50,14.0,14.0,"Miles Sanders right end for no gain. Penalty on Nolan Smith: Taunting / Defense, 15 yards (accepted) (tackle by Nolan Smith)",2.26,3.25,1,2025,1
+2.0,5:08,1.0,10.0,PHI 35,14.0,14.0,Dak Prescott scrambles left end for 3 yards (tackle by Zack Baun),3.25,3.11,1,2025,1
+2.0,4:15,2.0,7.0,PHI 32,14.0,14.0,KaVontae Turpin left tackle for 5 yards (tackle by Nolan Smith and Adoree' Jackson),3.11,3.07,1,2025,1
+2.0,3:33,3.0,2.0,PHI 27,14.0,14.0,Javonte Williams up the middle for 4 yards (tackle by Zack Baun),3.07,4.04,1,2025,1
+2.0,2:55,1.0,10.0,PHI 23,14.0,14.0,Dak Prescott pass incomplete short left intended for CeeDee Lamb,4.04,3.5,1,2025,1
+2.0,2:49,2.0,10.0,PHI 23,14.0,14.0,Dak Prescott pass incomplete short left intended for CeeDee Lamb (defended by Adoree' Jackson),3.5,2.81,1,2025,1
+2.0,2:43,3.0,10.0,PHI 23,14.0,14.0,Dak Prescott pass incomplete deep left intended for George Pickens,2.81,1.93,1,2025,1
+2.0,2:38,4.0,10.0,PHI 23,17.0,14.0,Brandon Aubrey 41 yard field goal good,1.93,3.0,1,2025,1
+2.0,2:34,,,DAL 35,17.0,14.0,"Brandon Aubrey kicks off 61 yards, recovered by Will Shipley at PHI-7 (tackle by Marist Liufau)",0.0,0.15,1,2025,1
+2.0,2:29,1.0,10.0,PHI 19,17.0,14.0,Saquon Barkley left end for 4 yards (tackle by Sam Williams),0.15,0.21,1,2025,1
+2.0,2:00,2.0,6.0,PHI 23,17.0,14.0,Jalen Hurts pass incomplete short left,0.21,-0.55,1,2025,1
+2.0,1:53,3.0,6.0,PHI 23,17.0,14.0,Jalen Hurts pass complete deep right to Jahan Dotson for 51 yards (tackle by Kaiir Elam),-0.55,3.84,1,2025,1
+2.0,1:24,1.0,10.0,DAL 26,17.0,14.0,Jalen Hurts pass incomplete short left intended for Saquon Barkley,3.84,3.3,1,2025,1
+2.0,1:16,2.0,10.0,DAL 26,17.0,14.0,Jalen Hurts pass complete short right to Saquon Barkley for 8 yards (tackle by Kaiir Elam and Kenneth Murray),3.3,3.75,1,2025,1
+2.0,1:09,3.0,2.0,DAL 18,17.0,14.0,Jalen Hurts pass complete short left to Saquon Barkley for 3 yards,3.75,4.58,1,2025,1
+2.0,1:04,1.0,10.0,DAL 15,17.0,14.0,Jalen Hurts scrambles right end for 5 yards (tackle by Damone Clark),4.58,4.84,1,2025,1
+2.0,0:56,2.0,5.0,DAL 10,17.0,20.0,"Saquon Barkley right guard for 10 yards, touchdown",4.84,7.0,1,2025,1
+2.0,0:51,,,DAL 15,17.0,21.0,Jake Elliott kicks extra point good,0.0,0.0,1,2025,1
+2.0,0:51,,,PHI 35,17.0,21.0,"Jake Elliott kicks off 62 yards, recovered by KaVontae Turpin at DAL-3 (tackle by Sydney Brown and Jeremiah Trotter)",0.0,-0.35,1,2025,1
+2.0,0:44,1.0,10.0,DAL 12,17.0,21.0,"Dak Prescott pass incomplete short right intended for CeeDee Lamb. Penalty on Jakorian Bennett: Defensive Pass Interference, 9 yards (accepted) (no play)",-0.35,0.34,1,2025,1
+2.0,0:40,1.0,10.0,DAL 21,17.0,21.0,"Dak Prescott pass complete short right to Jake Ferguson for 5 yards. Penalty on Nolan Smith: Roughing the Passer, 15 yards (accepted) (tackle by Jakorian Bennett)",0.34,1.66,1,2025,1
+2.0,0:34,1.0,10.0,DAL 41,17.0,21.0,Dak Prescott pass complete short right to Jake Ferguson for 5 yards (tackle by Jakorian Bennett),1.66,1.8,1,2025,1
+2.0,0:27,,,,,,Timeout #2 by Dallas Cowboys,,,1,2025,1
+2.0,0:27,2.0,5.0,DAL 46,17.0,21.0,Dak Prescott pass complete short left to Jalen Tolbert for no gain (tackle by Cooper DeJean),1.8,1.09,1,2025,1
+2.0,0:20,3.0,5.0,DAL 46,17.0,21.0,Dak Prescott pass complete short right to George Pickens for 9 yards (tackle by Quinyon Mitchell),1.09,2.59,1,2025,1
+2.0,0:15,,,,,,Timeout #3 by Dallas Cowboys,,,1,2025,1
+2.0,0:15,,,,,,Timeout #1 by Philadelphia Eagles,,,1,2025,1
+2.0,0:15,1.0,10.0,PHI 45,17.0,21.0,Dak Prescott pass complete short right to CeeDee Lamb for 10 yards (tackle by Jakorian Bennett),2.59,3.25,1,2025,1
+2.0,0:04,1.0,10.0,PHI 35,17.0,21.0,Dak Prescott spiked the ball,3.25,2.7,1,2025,1
+2.0,0:03,,,,,,Timeout #2 by Philadelphia Eagles,,,1,2025,1
+2.0,0:03,2.0,10.0,PHI 35,20.0,21.0,Brandon Aubrey 53 yard field goal good,2.7,3.0,1,2025,1
+3.0,15:00,,,DAL 35,20.0,21.0,"Brandon Aubrey kicks off 57 yards, returned by John Metchie for 20 yards (tackle by Damone Clark)",0.0,0.81,1,2025,1
+3.0,14:55,1.0,10.0,PHI 28,20.0,21.0,Jalen Hurts pass complete short right to Dallas Goedert for 5 yards (tackle by Jack Sanborn and Kenny Clark),0.81,0.94,1,2025,1
+3.0,14:13,2.0,5.0,PHI 33,20.0,21.0,Jalen Hurts pass complete short right to Dallas Goedert for 6 yards (tackle by Marist Liufau),0.94,1.53,1,2025,1
+3.0,13:40,1.0,10.0,PHI 39,20.0,21.0,Jalen Hurts pass complete short right to DeVonta Smith for 3 yards (tackle by Kaiir Elam),1.53,1.39,1,2025,1
+3.0,12:56,2.0,7.0,PHI 42,20.0,21.0,Saquon Barkley left tackle for 12 yards (tackle by Malik Hooker and Jay Toia),1.39,2.52,1,2025,1
+3.0,12:11,1.0,10.0,DAL 46,20.0,21.0,AJ Dillon left tackle for 9 yards (tackle by Marist Liufau),2.52,3.19,1,2025,1
+3.0,11:26,2.0,1.0,DAL 37,20.0,21.0,AJ Dillon right guard for 1 yard (tackle by Solomon Thomas),3.19,3.18,1,2025,1
+3.0,10:47,1.0,10.0,DAL 36,20.0,21.0,AJ Dillon up the middle for no gain (tackle by Donovan Wilson and Kenny Clark),3.18,2.64,1,2025,1
+3.0,10:03,2.0,10.0,DAL 36,20.0,21.0,Jalen Hurts sacked by Marshawn Kneeland for 8 yards,2.64,0.89,1,2025,1
+3.0,9:17,3.0,18.0,DAL 44,20.0,21.0,Jalen Hurts pass complete short right to Jahan Dotson for 4 yards (tackle by Damone Clark),0.89,0.59,1,2025,1
+3.0,8:35,4.0,14.0,DAL 40,20.0,24.0,Jake Elliott 58 yard field goal good,0.59,3.0,1,2025,1
+3.0,8:30,,,PHI 35,20.0,24.0,"Jake Elliott kicks off 56 yards, returned by Jalen Tolbert for 20 yards (tackle by John Metchie)",0.0,0.87,1,2025,1
+3.0,8:22,1.0,10.0,DAL 29,20.0,24.0,Javonte Williams left guard for 6 yards (tackle by Cooper DeJean),0.87,1.14,1,2025,1
+3.0,7:49,2.0,4.0,DAL 35,20.0,24.0,Javonte Williams up the middle for 3 yards (tackle by Jordan Davis),1.14,0.83,1,2025,1
+3.0,7:05,3.0,1.0,DAL 38,20.0,24.0,Javonte Williams left end for 2 yards (tackle by Zack Baun and Jalyx Hunt),0.83,1.6,1,2025,1
+3.0,6:28,1.0,10.0,DAL 40,20.0,24.0,Dak Prescott pass incomplete deep middle intended for Brevyn Spann-Ford (defended by Jihaad Campbell),1.6,1.05,1,2025,1
+3.0,6:21,2.0,10.0,DAL 40,20.0,24.0,Miles Sanders left end for 49 yards (tackle by Zack Baun),1.05,4.84,1,2025,1
+3.0,5:34,1.0,10.0,PHI 11,20.0,24.0,"Miles Sanders left guard for 3 yards. Penalty on George Pickens: Unnecessary Roughness / Offense, 15 yards (accepted) (tackle by Jordan Davis)",4.84,4.04,1,2025,1
+3.0,5:07,1.0,22.0,PHI 23,20.0,24.0,Dak Prescott pass incomplete deep middle intended for Jake Ferguson (defended by Zack Baun),4.04,2.67,1,2025,1
+3.0,5:02,2.0,22.0,PHI 23,20.0,24.0,Dak Prescott pass incomplete short left intended for Javonte Williams (defended by Jordan Davis),2.67,2.01,1,2025,1
+3.0,4:58,3.0,22.0,PHI 23,20.0,24.0,"Dak Prescott pass incomplete deep middle intended for Jake Ferguson. Penalty on Reed Blankenship: Unnecessary Roughness / Defense, 12 yards (accepted) (no play)",2.01,4.84,1,2025,1
+3.0,4:52,1.0,10.0,PHI 11,20.0,24.0,"Miles Sanders left guard for 1 yard. Miles Sanders fumbles, recovered by Quinyon Mitchell at PHI-10 and returned for 6 yards (tackle by Byron Young) (tackle by Dak Prescott)",4.84,0.14,1,2025,1
+3.0,4:44,1.0,10.0,PHI 16,20.0,24.0,Saquon Barkley left guard for -1 yards (tackle by Jack Sanborn and Osa Odighizuwa),-0.14,-0.78,1,2025,1
+3.0,4:02,2.0,11.0,PHI 15,20.0,24.0,Jalen Hurts pass incomplete short left,-0.78,-1.47,1,2025,1
+3.0,3:56,3.0,11.0,PHI 15,20.0,24.0,Jalen Hurts scrambles right end for 8 yards (tackle by Kenneth Murray),-1.47,-1.83,1,2025,1
+3.0,3:19,4.0,3.0,PHI 23,20.0,24.0,"Braden Mann punts 51 yards, fair catch by KaVontae Turpin at DAL-26",-1.83,-0.67,1,2025,1
+3.0,3:10,1.0,10.0,DAL 26,20.0,24.0,Javonte Williams right guard for 4 yards (tackle by Jordan Davis and Nolan Smith),0.67,0.67,1,2025,1
+3.0,2:30,2.0,6.0,DAL 30,20.0,24.0,Dak Prescott pass complete short left to Jake Ferguson for 5 yards (tackle by Andrew Mukuba),0.67,0.63,1,2025,1
+3.0,1:47,3.0,1.0,DAL 35,20.0,24.0,Dak Prescott pass complete short left to CeeDee Lamb for 14 yards (tackle by Adoree' Jackson),0.63,2.19,1,2025,1
+3.0,1:08,1.0,10.0,DAL 49,20.0,24.0,Javonte Williams up the middle for 3 yards (tackle by Jordan Davis and Nolan Smith),2.19,2.05,1,2025,1
+3.0,0:29,2.0,7.0,PHI 48,20.0,24.0,Dak Prescott pass complete short left to CeeDee Lamb for -3 yards (tackle by Jordan Davis),2.05,0.96,1,2025,1
+4.0,15:00,3.0,10.0,DAL 49,20.0,24.0,Dak Prescott pass incomplete short right intended for CeeDee Lamb,0.96,-0.13,1,2025,1
+4.0,14:53,4.0,10.0,DAL 49,20.0,24.0,"Bryan Anger punts 38 yards, fair catch by Jahan Dotson at PHI-13",-0.13,0.32,1,2025,1
+4.0,14:46,1.0,10.0,PHI 13,20.0,24.0,Jalen Hurts pass complete short left to Saquon Barkley for 8 yards (tackle by Kaiir Elam and Kenneth Murray),-0.32,0.35,1,2025,1
+4.0,14:04,2.0,2.0,PHI 21,20.0,24.0,Saquon Barkley left guard for 1 yard (tackle by Marshawn Kneeland and Solomon Thomas),0.35,-0.35,1,2025,1
+4.0,13:24,3.0,1.0,PHI 22,20.0,24.0,Jalen Hurts up the middle for 1 yard (tackle by James Houston),-0.35,0.48,1,2025,1
+4.0,12:46,1.0,10.0,PHI 23,20.0,24.0,"Penalty on DAL: Defensive Too Many Men on Field, 5 yards (accepted) (no play)",0.48,1.21,1,2025,1
+4.0,12:28,1.0,5.0,PHI 28,20.0,24.0,Saquon Barkley right end for 4 yards (tackle by Damone Clark and Jack Sanborn),1.21,1.15,1,2025,1
+4.0,11:45,2.0,1.0,PHI 32,20.0,24.0,Saquon Barkley left guard for no gain (tackle by Malik Hooker and Solomon Thomas),1.15,0.43,1,2025,1
+4.0,11:05,3.0,1.0,PHI 32,20.0,24.0,Jalen Hurts up the middle for 1 yard (tackle by Jack Sanborn and Kenneth Murray),0.43,1.14,1,2025,1
+4.0,10:21,1.0,10.0,PHI 33,20.0,24.0,Jalen Hurts pass complete short left to DeVonta Smith for 7 yards (tackle by Malik Hooker),1.14,1.54,1,2025,1
+4.0,9:47,2.0,3.0,PHI 40,20.0,24.0,Jalen Hurts pass complete short left to Saquon Barkley for 5 yards (tackle by DaRon Bland),1.54,1.93,1,2025,1
+4.0,9:12,1.0,10.0,PHI 45,20.0,24.0,Saquon Barkley left end for -4 yards (tackle by James Houston),1.93,0.84,1,2025,1
+4.0,8:26,,,,,,Timeout #1 by Philadelphia Eagles,,,1,2025,1
+4.0,8:26,2.0,14.0,PHI 41,20.0,24.0,Jalen Hurts pass incomplete short right,0.84,0.17,1,2025,1
+4.0,8:18,3.0,14.0,PHI 41,20.0,24.0,Jalen Hurts pass complete short left to Dallas Goedert for 9 yards (tackle by Trevon Diggs),0.17,-0.06,1,2025,1
+4.0,7:27,4.0,5.0,DAL 50,20.0,24.0,"Penalty on Jalen Hurts: Delay of Game, 5 yards (accepted) (no play)",-0.06,-0.39,1,2025,1
+4.0,7:27,4.0,10.0,PHI 45,20.0,24.0,Braden Mann punts 44 yards out of bounds,-0.39,0.37,1,2025,1
+4.0,7:20,1.0,10.0,DAL 11,20.0,24.0,Dak Prescott pass complete short left to CeeDee Lamb for 13 yards (tackle by Quinyon Mitchell),-0.37,0.54,1,2025,1
+4.0,6:50,1.0,10.0,DAL 24,20.0,24.0,Javonte Williams right guard for -2 yards (tackle by Jalyx Hunt and Jordan Davis),0.54,-0.27,1,2025,1
+4.0,6:12,2.0,12.0,DAL 22,20.0,24.0,Dak Prescott pass complete short left to KaVontae Turpin for 2 yards (tackle by Andrew Mukuba and Jihaad Campbell),-0.27,-0.69,1,2025,1
+4.0,5:26,3.0,10.0,DAL 24,20.0,24.0,Dak Prescott pass complete short right to Javonte Williams for 3 yards (tackle by Adoree' Jackson and Quinyon Mitchell),-0.69,-1.57,1,2025,1
+4.0,4:49,4.0,7.0,DAL 27,20.0,24.0,"Bryan Anger punts 49 yards, fair catch by Jahan Dotson at PHI-24",-1.57,-0.54,1,2025,1
+4.0,4:43,1.0,10.0,PHI 24,20.0,24.0,Saquon Barkley right guard for no gain (tackle by Kenny Clark and Sam Williams),0.54,0.0,1,2025,1
+4.0,4:03,2.0,10.0,PHI 24,20.0,24.0,Jalen Hurts scrambles left end for 3 yards (tackle by Sam Williams),0.0,-0.3,1,2025,1
+4.0,3:52,3.0,7.0,PHI 27,20.0,24.0,Jalen Hurts pass complete short right to Jahan Dotson for 4 yards (tackle by DaRon Bland),-0.3,-1.31,1,2025,1
+4.0,3:09,4.0,3.0,PHI 31,20.0,24.0,Braden Mann punts 51 yards out of bounds,-1.31,-0.04,1,2025,1
+4.0,3:02,1.0,10.0,DAL 18,20.0,24.0,Dak Prescott pass complete short right to Jake Ferguson for 5 yards (tackle by Zack Baun),0.04,0.28,1,2025,1
+4.0,2:57,2.0,5.0,DAL 23,20.0,24.0,Dak Prescott pass incomplete deep right intended for CeeDee Lamb,0.28,-0.53,1,2025,1
+4.0,2:52,3.0,5.0,DAL 23,20.0,24.0,Dak Prescott pass complete short left to George Pickens for 15 yards (tackle by Adoree' Jackson),-0.53,1.47,1,2025,1
+4.0,2:47,1.0,10.0,DAL 38,20.0,24.0,Dak Prescott pass incomplete deep right intended for CeeDee Lamb (defended by Quinyon Mitchell),1.47,0.92,1,2025,1
+4.0,2:40,2.0,10.0,DAL 38,20.0,24.0,Dak Prescott pass incomplete deep right intended for Luke Schoonmaker (defended by Cooper DeJean),0.92,0.23,1,2025,1
+4.0,2:33,3.0,10.0,DAL 38,20.0,24.0,Dak Prescott pass complete short middle to Javonte Williams for 7 yards (tackle by Zack Baun),0.23,-0.39,1,2025,1
+4.0,2:00,4.0,3.0,DAL 45,20.0,24.0,Dak Prescott pass incomplete deep left intended for CeeDee Lamb,-0.39,-2.65,1,2025,1
+4.0,1:54,1.0,10.0,DAL 44,20.0,24.0,Saquon Barkley right end for -1 yards (tackle by Sam Williams),2.65,1.98,1,2025,1
+4.0,1:51,,,,,,Timeout #1 by Dallas Cowboys,,,1,2025,1
+4.0,1:51,2.0,11.0,DAL 45,20.0,24.0,Jalen Hurts pass complete short left to A.J. Brown for 8 yards (tackle by Kaiir Elam),1.98,2.35,1,2025,1
+4.0,1:45,,,,,,Timeout #2 by Dallas Cowboys,,,1,2025,1
+4.0,1:45,3.0,3.0,DAL 37,20.0,24.0,Jalen Hurts scrambles up the middle for 4 yards (tackle by Kenny Clark),2.35,3.38,1,2025,1
+4.0,1:29,,,,,,Timeout #3 by Dallas Cowboys,,,1,2025,1
+4.0,1:29,1.0,10.0,DAL 33,20.0,24.0,Jalen Hurts kneels for -1 yards,3.38,2.7,1,2025,1
+4.0,0:53,2.0,11.0,DAL 34,20.0,24.0,Jalen Hurts kneels for -1 yards,2.7,1.88,1,2025,1
+4.0,0:36,3.0,12.0,DAL 35,20.0,24.0,Jalen Hurts kneels for -1 yards,1.88,0.88,1,2025,1

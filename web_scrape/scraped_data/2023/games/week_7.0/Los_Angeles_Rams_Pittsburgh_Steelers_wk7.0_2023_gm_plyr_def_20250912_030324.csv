@@ -1,0 +1,41 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Unnamed: 7_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Fumbles,Fumbles,Fumbles,Fumbles,week,year,game_id
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF,,,
+T.J. Watt,PIT,1,24,0,24,1,0.0,1,0,1,0,0,0,0,0,0,7.0,2023,101
+Larry Ogunjobi,PIT,0,0,0,0,0,1.0,4,2,2,1,1,0,0,0,0,7.0,2023,101
+Nick Herbig,PIT,0,0,0,0,0,1.0,3,3,0,1,1,0,0,0,0,7.0,2023,101
+Minkah Fitzpatrick,PIT,0,0,0,0,0,0.0,11,6,5,0,0,0,0,0,0,7.0,2023,101
+Cole Holcomb,PIT,0,0,0,0,0,0.0,8,3,5,1,0,0,0,0,0,7.0,2023,101
+Damontae Kazee,PIT,0,0,0,0,0,0.0,7,4,3,0,0,0,0,0,0,7.0,2023,101
+Montravius Adams,PIT,0,0,0,0,0,0.0,4,3,1,1,0,0,0,0,0,7.0,2023,101
+Keanu Neal,PIT,0,0,0,0,0,0.0,4,4,0,0,0,0,0,0,0,7.0,2023,101
+Kwon Alexander,PIT,0,0,0,0,0,0.0,3,1,2,0,0,0,0,0,0,7.0,2023,101
+Patrick Peterson,PIT,0,0,0,0,0,0.0,3,3,0,0,0,0,0,0,0,7.0,2023,101
+Joey Porter Jr.,PIT,0,0,0,0,1,0.0,3,2,1,0,0,0,0,0,0,7.0,2023,101
+Elandon Roberts,PIT,0,0,0,0,0,0.0,3,3,0,0,0,0,0,0,0,7.0,2023,101
+Levi Wallace,PIT,0,0,0,0,0,0.0,3,0,3,0,0,0,0,0,0,7.0,2023,101
+Alex Highsmith,PIT,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,7.0,2023,101
+DeMarvin Leal,PIT,0,0,0,0,0,0.0,2,0,2,0,0,0,0,0,0,7.0,2023,101
+Chandon Sullivan,PIT,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,7.0,2023,101
+Keeanu Benton,PIT,0,0,0,0,0,0.0,0,0,0,0,2,0,0,0,0,7.0,2023,101
+Isaac Seumalo,PIT,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,0,7.0,2023,101
+Michael Hoecht,LAR,0,0,0,0,0,2.0,7,4,3,2,2,0,0,0,1,7.0,2023,101
+Quentin Lake,LAR,0,0,0,0,0,0.0,6,4,2,0,0,0,0,0,0,7.0,2023,101
+Christian Rozeboom,LAR,0,0,0,0,1,0.0,6,4,2,0,0,0,0,0,0,7.0,2023,101
+Russ Yeast,LAR,0,0,0,0,0,0.0,6,2,4,0,0,0,0,0,0,7.0,2023,101
+Cobie Durant,LAR,0,0,0,0,1,0.0,5,4,1,0,1,0,0,0,0,7.0,2023,101
+Jordan Fuller,LAR,0,0,0,0,0,0.0,5,3,2,1,0,0,0,0,0,7.0,2023,101
+Aaron Donald,LAR,0,0,0,0,0,0.0,4,0,4,0,2,0,0,0,0,7.0,2023,101
+Ernest Jones,LAR,0,0,0,0,0,0.0,4,1,3,0,0,0,0,0,0,7.0,2023,101
+Ahkello Witherspoon,LAR,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0,7.0,2023,101
+Kobie Turner,LAR,0,0,0,0,0,0.0,3,1,2,0,0,0,0,0,0,7.0,2023,101
+Byron Young,LAR,0,0,0,0,0,0.0,3,3,0,1,2,0,0,0,0,7.0,2023,101
+Jonah Williams,LAR,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,7.0,2023,101
+Earnest Brown IV,LAR,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,7.0,2023,101
+Cory Durden,LAR,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,7.0,2023,101
+Jake Hummel,LAR,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,7.0,2023,101
+Desjuan Johnson,LAR,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,7.0,2023,101
+John Johnson,LAR,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,7.0,2023,101
+Duke Shelley,LAR,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,7.0,2023,101
+Tre'Vius Tomlinson,LAR,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,7.0,2023,101
+Zach VanValkenburg,LAR,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,7.0,2023,101
+Alex Ward,LAR,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,7.0,2023,101

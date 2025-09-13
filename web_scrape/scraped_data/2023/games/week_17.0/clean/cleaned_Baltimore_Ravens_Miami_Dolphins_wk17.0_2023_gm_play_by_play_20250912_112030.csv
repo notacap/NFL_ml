@@ -1,0 +1,169 @@
+Quarter,Time,Down,ToGo,Location,MIA,BAL,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Ravens won the coin toss and deferred, Dolphins to receive the opening kickoff.",,,17.0,2023,249
+1.0,15:00,,,BAL 35,0.0,0.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,249
+1.0,15:00,1.0,10.0,MIA 25,0.0,0.0,Tua Tagovailoa pass complete short left to De'Von Achane for 23 yards (tackle by Patrick Queen and Justin Madubuike),0.61,2.13,17.0,2023,249
+1.0,14:18,1.0,10.0,MIA 48,0.0,0.0,De'Von Achane left end for 1 yard (tackle by Malik Harrison and Justin Madubuike),2.13,1.72,17.0,2023,249
+1.0,13:38,2.0,9.0,MIA 49,0.0,0.0,Tua Tagovailoa pass complete short middle to Tyreek Hill for 12 yards (tackle by Marlon Humphrey),1.72,2.98,17.0,2023,249
+1.0,13:00,1.0,10.0,BAL 39,0.0,0.0,Tua Tagovailoa pass complete short right to Alec Ingold for 18 yards (tackle by Geno Stone),2.98,4.17,17.0,2023,249
+1.0,12:25,1.0,10.0,BAL 21,0.0,0.0,De'Von Achane right end for 13 yards (tackle by Marcus Williams),4.17,5.37,17.0,2023,249
+1.0,11:45,1.0,8.0,BAL 8,0.0,0.0,De'Von Achane up the middle for no gain (tackle by Travis Jones),5.37,4.57,17.0,2023,249
+1.0,11:08,2.0,8.0,BAL 8,0.0,0.0,Tua Tagovailoa pass incomplete short right intended for Tyreek Hill,4.57,3.58,17.0,2023,249
+1.0,11:04,3.0,8.0,BAL 8,6.0,0.0,"Tua Tagovailoa pass complete short middle to Cedrick Wilson for 8 yards, touchdown",3.58,7.0,17.0,2023,249
+1.0,11:00,,,BAL 15,7.0,0.0,Jason Sanders kicks extra point good,0.0,0.0,17.0,2023,249
+1.0,11:00,,,MIA 35,7.0,0.0,"Jason Sanders kicks off 63 yards, returned by Justice Hill for 23 yards (tackle by Chase Claypool)",0.0,0.61,17.0,2023,249
+1.0,10:56,1.0,10.0,BAL 25,7.0,0.0,"Lamar Jackson pass complete to Rashod Bateman for 42 yards Replay Assistant challenged the pass completion ruling, and the original play was overturned. Lamar Jackson pass incomplete deep right intended for Rashod Bateman",0.61,0.06,17.0,2023,249
+1.0,10:50,2.0,10.0,BAL 25,7.0,0.0,Gus Edwards right tackle for 4 yards (tackle by Bradley Chubb and Duke Riley),0.06,-0.1,17.0,2023,249
+1.0,10:08,3.0,6.0,BAL 29,7.0,0.0,"Lamar Jackson pass complete deep right to Justice Hill for no gain (tackle by Jevon Holland). Penalty on Isaiah Likely: Offensive Pass Interference, 10 yards (accepted) (no play)",-0.1,-1.51,17.0,2023,249
+1.0,9:31,3.0,16.0,BAL 19,7.0,0.0,Lamar Jackson pass complete short right to Justice Hill for 18 yards (tackle by DeShon Elliott),-1.51,1.4,17.0,2023,249
+1.0,8:51,1.0,10.0,BAL 37,7.0,0.0,Lamar Jackson pass complete deep right to Zay Flowers for 25 yards (tackle by DeShon Elliott),1.4,3.05,17.0,2023,249
+1.0,8:11,1.0,10.0,MIA 38,7.0,0.0,Gus Edwards right end for 4 yards (tackle by David Long and DeShon Elliott),3.05,3.05,17.0,2023,249
+1.0,7:30,2.0,6.0,MIA 34,7.0,0.0,Lamar Jackson pass complete short left to Rashod Bateman for 14 yards (tackle by Duke Riley),3.05,4.24,17.0,2023,249
+1.0,6:44,1.0,10.0,MIA 20,7.0,6.0,"Lamar Jackson pass complete deep right to Justice Hill for 20 yards, touchdown",4.24,7.0,17.0,2023,249
+1.0,6:39,,,MIA 15,7.0,7.0,Justin Tucker kicks extra point good,0.0,0.0,17.0,2023,249
+1.0,6:39,,,BAL 35,7.0,7.0,"Justin Tucker kicks off 57 yards, returned by Braxton Berrios for 19 yards (tackle by Tylan Wallace)",0.0,0.74,17.0,2023,249
+1.0,6:34,1.0,10.0,MIA 27,7.0,7.0,Tua Tagovailoa pass complete short middle to Tyreek Hill for 16 yards (tackle by Geno Stone),0.74,1.8,17.0,2023,249
+1.0,5:56,1.0,10.0,MIA 43,7.0,7.0,De'Von Achane left end for 45 yards (tackle by Marcus Williams),1.8,4.78,17.0,2023,249
+1.0,5:12,1.0,10.0,BAL 12,7.0,7.0,De'Von Achane left end for -3 yards (tackle by Patrick Queen and Roquan Smith),4.78,3.66,17.0,2023,249
+1.0,4:29,2.0,13.0,BAL 15,7.0,7.0,De'Von Achane right end for 7 yards (tackle by Patrick Queen and Roquan Smith),3.66,3.93,17.0,2023,249
+1.0,3:46,3.0,6.0,BAL 8,7.0,7.0,Tua Tagovailoa pass incomplete short middle intended for Tyreek Hill,3.93,2.96,17.0,2023,249
+1.0,3:42,4.0,6.0,BAL 8,10.0,7.0,Jason Sanders 27 yard field goal good,2.96,3.0,17.0,2023,249
+1.0,3:39,,,MIA 35,10.0,7.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,249
+1.0,3:39,1.0,10.0,BAL 25,10.0,7.0,Lamar Jackson pass complete short middle to Rashod Bateman for 14 yards (tackle by Eli Apple),0.61,1.53,17.0,2023,249
+1.0,2:56,1.0,10.0,BAL 39,10.0,7.0,"Justice Hill right end for no gain. Penalty on John Simpson: Offensive Holding, 10 yards (accepted) (no play)",1.53,0.87,17.0,2023,249
+1.0,2:30,1.0,20.0,BAL 29,10.0,7.0,Lamar Jackson pass complete short left to Nelson Agholor for 4 yards (tackle by DeShon Elliott),0.87,0.18,17.0,2023,249
+1.0,1:51,2.0,16.0,BAL 33,10.0,7.0,Lamar Jackson sacked by Zach Sieler for -9 yards,0.18,-1.68,17.0,2023,249
+1.0,1:07,3.0,25.0,BAL 24,10.0,7.0,Lamar Jackson scrambles left end for 18 yards (tackle by Bradley Chubb),-1.68,-0.59,17.0,2023,249
+1.0,0:26,4.0,7.0,BAL 42,10.0,7.0,"Jordan Stout punts 33 yards out of bounds. Penalty on Cameron Goode: Offensive Holding, 10 yards (accepted)",-0.59,0.22,17.0,2023,249
+1.0,0:17,1.0,10.0,MIA 15,10.0,7.0,Tua Tagovailoa pass incomplete short left intended for Tyreek Hill,-0.22,-0.71,17.0,2023,249
+1.0,0:14,2.0,10.0,MIA 15,10.0,7.0,De'Von Achane right guard for 5 yards (tackle by Patrick Queen),-0.71,-0.76,17.0,2023,249
+2.0,15:00,3.0,5.0,MIA 20,10.0,7.0,Tua Tagovailoa pass complete short middle to Durham Smythe for 22 yards (tackle by Geno Stone),-0.76,1.73,17.0,2023,249
+2.0,14:17,1.0,10.0,MIA 42,10.0,7.0,Tua Tagovailoa sacked by Kyle Van Noy for -5 yards,1.73,0.51,17.0,2023,249
+2.0,13:33,2.0,15.0,MIA 37,10.0,7.0,Tua Tagovailoa pass complete short left to De'Von Achane for 4 yards (tackle by Justin Madubuike and Jadeveon Clowney),0.51,0.37,17.0,2023,249
+2.0,12:57,3.0,11.0,MIA 41,10.0,7.0,Tua Tagovailoa pass incomplete short right intended for Cedrick Wilson,0.37,-0.65,17.0,2023,249
+2.0,12:53,4.0,11.0,MIA 41,10.0,7.0,"Jake Bailey punts 48 yards, fair catch by Tylan Wallace at BAL-11",-0.65,0.37,17.0,2023,249
+2.0,12:46,1.0,10.0,BAL 11,10.0,7.0,Gus Edwards left tackle for 4 yards (tackle by David Long and Christian Wilkins),-0.37,-0.43,17.0,2023,249
+2.0,12:02,2.0,6.0,BAL 15,10.0,7.0,Gus Edwards right guard for 6 yards (tackle by Zach Sieler),-0.43,0.34,17.0,2023,249
+2.0,11:20,1.0,10.0,BAL 21,10.0,7.0,Lamar Jackson pass complete short right to Nelson Agholor for 14 yards (tackle by Jalen Ramsey),0.34,1.27,17.0,2023,249
+2.0,10:36,1.0,10.0,BAL 35,10.0,7.0,Gus Edwards right guard for 6 yards (tackle by David Long),1.27,1.53,17.0,2023,249
+2.0,9:59,2.0,4.0,BAL 41,10.0,7.0,Gus Edwards right end for 12 yards (tackle by Da'Shawn Hand),1.53,2.46,17.0,2023,249
+2.0,9:18,1.0,10.0,MIA 47,10.0,7.0,Lamar Jackson scrambles left end for 6 yards (tackle by David Long),2.46,2.72,17.0,2023,249
+2.0,8:46,2.0,4.0,MIA 41,10.0,7.0,Justice Hill up the middle for 5 yards (tackle by Duke Riley),2.72,3.18,17.0,2023,249
+2.0,8:09,1.0,10.0,MIA 36,10.0,7.0,Lamar Jackson pass complete short left to Justice Hill for 2 yards (tackle by DeShon Elliott),3.18,2.91,17.0,2023,249
+2.0,7:21,2.0,8.0,MIA 34,10.0,7.0,"Lamar Jackson pass complete deep right to Odell Beckham for 33 yards MIA challenged the pass completion ruling, and the play was upheld.",2.91,6.97,17.0,2023,249
+2.0,6:59,1.0,1.0,MIA 1,10.0,13.0,"Gus Edwards right guard for 1 yard, touchdown",6.97,7.0,17.0,2023,249
+2.0,6:56,,,MIA 15,10.0,14.0,Justin Tucker kicks extra point good,0.0,0.0,17.0,2023,249
+2.0,6:56,,,BAL 35,10.0,14.0,"Justin Tucker kicks off 66 yards, returned by Braxton Berrios for 32 yards (tackle by Rock Ya-Sin)",0.0,1.0,17.0,2023,249
+2.0,6:50,1.0,10.0,MIA 31,10.0,14.0,De'Von Achane up the middle for 3 yards (tackle by Michael Pierce),1.0,0.87,17.0,2023,249
+2.0,6:12,2.0,7.0,MIA 34,10.0,14.0,Tua Tagovailoa pass incomplete short right intended for Tyreek Hill,0.87,0.17,17.0,2023,249
+2.0,6:08,3.0,7.0,MIA 34,10.0,14.0,Tua Tagovailoa pass complete deep middle to Durham Smythe for 16 yards (tackle by Marcus Williams),0.17,2.26,17.0,2023,249
+2.0,5:29,1.0,10.0,MIA 50,10.0,14.0,Jeff Wilson up the middle for 5 yards (tackle by Roquan Smith),2.26,2.39,17.0,2023,249
+2.0,4:50,2.0,5.0,BAL 45,10.0,14.0,Tua Tagovailoa pass incomplete short right intended for De'Von Achane,2.39,1.69,17.0,2023,249
+2.0,4:46,3.0,5.0,BAL 45,10.0,14.0,Tua Tagovailoa pass incomplete deep right intended for Robbie Chosen,1.69,0.27,17.0,2023,249
+2.0,4:41,4.0,5.0,BAL 45,10.0,14.0,Tua Tagovailoa pass complete deep left to Tyreek Hill for 25 yards (tackle by Rock Ya-Sin),0.27,4.24,17.0,2023,249
+2.0,4:05,1.0,10.0,BAL 20,10.0,14.0,De'Von Achane left end for no gain (tackle by Michael Pierce),4.24,3.69,17.0,2023,249
+2.0,3:22,2.0,10.0,BAL 20,10.0,14.0,Tua Tagovailoa pass incomplete short right,3.69,3.01,17.0,2023,249
+2.0,3:18,3.0,10.0,BAL 20,10.0,14.0,Tua Tagovailoa pass incomplete short right intended for Tyreek Hill (defended by Arthur Maulet),3.01,2.12,17.0,2023,249
+2.0,3:14,4.0,10.0,BAL 20,13.0,14.0,Jason Sanders 38 yard field goal good,2.12,3.0,17.0,2023,249
+2.0,3:10,,,MIA 35,13.0,14.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,249
+2.0,3:10,1.0,10.0,BAL 25,13.0,20.0,"Lamar Jackson pass complete deep right to Zay Flowers for 75 yards, touchdown",0.61,7.0,17.0,2023,249
+2.0,2:58,,,MIA 15,13.0,21.0,Justin Tucker kicks extra point good,0.0,0.0,17.0,2023,249
+2.0,2:58,,,BAL 35,13.0,21.0,"Justin Tucker kicks off 61 yards,",0.0,0.61,17.0,2023,249
+2.0,2:57,1.0,10.0,MIA 25,13.0,21.0,De'Von Achane left end for 15 yards (tackle by Marcus Williams),0.61,1.6,17.0,2023,249
+2.0,2:19,1.0,10.0,MIA 40,13.0,21.0,Tua Tagovailoa pass complete short middle to Durham Smythe for 16 yards (tackle by Marcus Williams and Rock Ya-Sin),1.6,2.65,17.0,2023,249
+2.0,2:00,1.0,10.0,BAL 44,13.0,21.0,Tua Tagovailoa pass short left intended for Cedrick Wilson is intercepted by Roquan Smith at BAL-32 and returned for 30 yards (tackle by Lester Cotton),2.65,-3.05,17.0,2023,249
+2.0,1:50,1.0,10.0,MIA 38,13.0,21.0,Lamar Jackson pass complete short right to Justice Hill for 1 yard (tackle by Eli Apple),3.05,2.64,17.0,2023,249
+2.0,1:43,2.0,9.0,MIA 37,13.0,21.0,Lamar Jackson scrambles right end for 2 yards (tackle by David Long),2.64,2.21,17.0,2023,249
+2.0,1:36,,,,,,Timeout #2 by Miami Dolphins,,,17.0,2023,249
+2.0,1:36,3.0,7.0,MIA 35,13.0,21.0,Lamar Jackson pass incomplete short right intended for Rashod Bateman (defended by Eli Apple),2.21,0.97,17.0,2023,249
+2.0,1:32,4.0,7.0,MIA 35,13.0,27.0,"Lamar Jackson pass complete short right to Isaiah Likely for 35 yards, touchdown",0.97,7.0,17.0,2023,249
+2.0,1:24,,,MIA 15,13.0,28.0,Justin Tucker kicks extra point good,0.0,0.0,17.0,2023,249
+2.0,1:24,,,BAL 35,13.0,28.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,249
+2.0,1:24,1.0,10.0,MIA 25,13.0,28.0,Tua Tagovailoa pass complete short right to Jeff Wilson for 1 yard (tackle by Ronald Darby),0.61,0.2,17.0,2023,249
+2.0,1:04,2.0,9.0,MIA 26,13.0,28.0,Tua Tagovailoa pass complete short right to Jeff Wilson for 5 yards (tackle by Ronald Darby),0.2,0.17,17.0,2023,249
+2.0,0:46,3.0,4.0,MIA 31,13.0,28.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 8 yards (tackle by Ronald Darby),0.17,1.53,17.0,2023,249
+2.0,0:41,,,,,,Timeout #3 by Miami Dolphins,,,17.0,2023,249
+2.0,0:41,1.0,10.0,MIA 39,13.0,28.0,Tua Tagovailoa pass incomplete deep right intended for Jeff Wilson (defended by Patrick Queen),1.53,0.99,17.0,2023,249
+2.0,0:35,2.0,10.0,MIA 39,13.0,28.0,Tua Tagovailoa pass complete short middle to Tyreek Hill for 9 yards (tackle by Geno Stone and Patrick Queen),0.99,1.49,17.0,2023,249
+2.0,0:20,3.0,1.0,MIA 48,13.0,28.0,Tua Tagovailoa pass incomplete short middle,1.49,-0.19,17.0,2023,249
+2.0,0:15,,,,,,Timeout #1 by Baltimore Ravens,,,17.0,2023,249
+2.0,0:15,4.0,1.0,MIA 48,13.0,28.0,"Tua Tagovailoa pass complete short right to Tyreek Hill for no gain. Penalty on Cedrick Wilson: Offensive Pass Interference, 10 yards (accepted) (no play)",-0.19,-0.85,17.0,2023,249
+2.0,0:10,,,,,,Timeout #2 by Baltimore Ravens,,,17.0,2023,249
+2.0,0:10,4.0,11.0,MIA 38,13.0,28.0,"Jake Bailey punts 62 yards, touchback.",-0.85,-0.28,17.0,2023,249
+2.0,0:02,1.0,10.0,BAL 20,13.0,28.0,Lamar Jackson kneels for -1 yards,0.28,-0.46,17.0,2023,249
+3.0,15:00,,,MIA 35,13.0,28.0,"Jason Sanders kicks off 61 yards, returned by Justice Hill for 78 yards (tackle by Elijah Campbell)",0.0,4.37,17.0,2023,249
+3.0,14:49,1.0,10.0,MIA 18,13.0,28.0,Gus Edwards right end for 8 yards (tackle by Duke Riley),4.37,5.23,17.0,2023,249
+3.0,14:15,2.0,2.0,MIA 10,13.0,28.0,Gus Edwards right guard for 3 yards (tackle by Raekwon Davis and DeShon Elliott),5.23,5.6,17.0,2023,249
+3.0,13:35,1.0,7.0,MIA 7,13.0,34.0,"Lamar Jackson pass complete short middle to Isaiah Likely for 7 yards, touchdown",5.6,7.0,17.0,2023,249
+3.0,13:29,,,MIA 15,13.0,35.0,Justin Tucker kicks extra point good,0.0,0.0,17.0,2023,249
+3.0,13:29,,,BAL 35,13.0,35.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,249
+3.0,13:29,1.0,10.0,MIA 25,13.0,35.0,De'Von Achane left end for 11 yards (tackle by Daryl Worley),0.61,1.33,17.0,2023,249
+3.0,12:49,1.0,10.0,MIA 36,13.0,35.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 6 yards (tackle by Daryl Worley and Michael Pierce),1.33,1.6,17.0,2023,249
+3.0,12:28,2.0,4.0,MIA 42,13.0,35.0,Tua Tagovailoa sacked by Justin Madubuike for -6 yards,1.6,0.1,17.0,2023,249
+3.0,11:44,3.0,10.0,MIA 36,13.0,35.0,"Penalty on Robert Jones: False Start, 5 yards (accepted) (no play)",0.1,-0.56,17.0,2023,249
+3.0,11:24,3.0,15.0,MIA 31,13.0,35.0,Tua Tagovailoa pass complete short left to Braxton Berrios for 4 yards (tackle by Arthur Maulet),-0.56,-1.04,17.0,2023,249
+3.0,10:45,4.0,11.0,MIA 35,13.0,35.0,"Jake Bailey punts 48 yards, returned by Tylan Wallace for 6 yards (tackle by Channing Tindall)",-1.04,-0.48,17.0,2023,249
+3.0,10:34,1.0,10.0,BAL 23,13.0,35.0,"Penalty on Ronnie Stanley: False Start, 5 yards (accepted) (no play)",0.48,0.0,17.0,2023,249
+3.0,10:34,1.0,15.0,BAL 18,13.0,35.0,Gus Edwards right guard for 5 yards (tackle by Raekwon Davis),0.0,-0.07,17.0,2023,249
+3.0,9:56,2.0,10.0,BAL 23,13.0,35.0,Lamar Jackson pass incomplete short middle intended for Isaiah Likely,-0.07,-0.76,17.0,2023,249
+3.0,9:52,3.0,10.0,BAL 23,13.0,35.0,Lamar Jackson pass complete short middle to Justice Hill for 23 yards (tackle by Duke Riley),-0.76,1.99,17.0,2023,249
+3.0,9:10,1.0,10.0,BAL 46,13.0,35.0,Gus Edwards right end for 2 yards (tackle by Christian Wilkins and Raekwon Davis),1.99,1.72,17.0,2023,249
+3.0,8:26,2.0,8.0,BAL 48,13.0,35.0,"Gus Edwards up the middle for 6 yards. Gus Edwards fumbles (forced by Zach Sieler), recovered by Jevon Holland at MIA-42 and returned for 4 yards (tackle by Gus Edwards and Zach Sieler)",1.72,-1.99,17.0,2023,249
+3.0,8:19,1.0,10.0,MIA 46,13.0,35.0,Tua Tagovailoa pass deep middle (defended by Roquan Smith) intended for Tyreek Hill is intercepted by Geno Stone at BAL-33 and returned for 4 yards (tackle by Tyreek Hill),1.99,-1.4,17.0,2023,249
+3.0,8:13,1.0,10.0,BAL 37,13.0,35.0,Lamar Jackson pass complete short left to Zay Flowers for 6 yards (tackle by Jevon Holland),1.4,1.67,17.0,2023,249
+3.0,7:41,2.0,4.0,BAL 43,13.0,35.0,Justice Hill right end for 2 yards (tackle by Duke Riley),1.67,1.22,17.0,2023,249
+3.0,6:58,3.0,2.0,BAL 45,13.0,35.0,Lamar Jackson right guard for no gain (tackle by DeShon Elliott and Andrew Van Ginkel),1.22,-0.39,17.0,2023,249
+3.0,6:10,4.0,2.0,BAL 45,13.0,35.0,"Penalty on BAL: Delay of Game, 5 yards (accepted) (no play)",-0.39,-0.72,17.0,2023,249
+3.0,5:48,4.0,7.0,BAL 40,13.0,35.0,Jordan Stout punts 38 yards downed by Tylan Wallace,-0.72,-0.41,17.0,2023,249
+3.0,5:39,1.0,10.0,MIA 22,13.0,35.0,Tua Tagovailoa pass complete short right to Julian Hill for 9 yards (tackle by Roquan Smith),0.41,1.08,17.0,2023,249
+3.0,4:57,2.0,1.0,MIA 31,13.0,35.0,De'Von Achane right end for 5 yards (tackle by Ronald Darby and Geno Stone),1.08,1.33,17.0,2023,249
+3.0,4:19,1.0,10.0,MIA 36,13.0,35.0,De'Von Achane right end for 6 yards (tackle by Geno Stone and Roquan Smith),1.33,1.6,17.0,2023,249
+3.0,3:34,2.0,4.0,MIA 42,13.0,35.0,"Tua Tagovailoa pass incomplete deep left intended for Cedrick Wilson. Penalty on Rock Ya-Sin: Illegal Contact, 5 yards (accepted) (no play)",1.6,2.06,17.0,2023,249
+3.0,3:26,1.0,10.0,MIA 47,13.0,35.0,Tyreek Hill right end for no gain (tackle by Tavius Robinson),2.06,1.52,17.0,2023,249
+3.0,3:01,2.0,10.0,MIA 47,13.0,35.0,Tua Tagovailoa scrambles left end for 5 yards (tackle by Roquan Smith),1.52,1.49,17.0,2023,249
+3.0,2:17,3.0,5.0,BAL 48,13.0,35.0,Tua Tagovailoa pass complete deep right to Cedrick Wilson for 19 yards (tackle by Geno Stone),1.49,3.64,17.0,2023,249
+3.0,1:35,1.0,10.0,BAL 29,13.0,35.0,De'Von Achane left end for -1 yards (tackle by Arthur Maulet and Jadeveon Clowney),3.64,2.97,17.0,2023,249
+3.0,0:55,2.0,11.0,BAL 30,13.0,35.0,Tua Tagovailoa pass incomplete deep right intended for Chase Claypool,2.97,2.28,17.0,2023,249
+3.0,0:48,3.0,11.0,BAL 30,13.0,35.0,Tua Tagovailoa pass complete short right to Jeff Wilson for 7 yards (tackle by Arthur Maulet and Roquan Smith),2.28,2.0,17.0,2023,249
+3.0,0:05,4.0,4.0,BAL 23,13.0,35.0,Tua Tagovailoa pass complete short left to Braxton Berrios for 6 yards (tackle by Arthur Maulet),2.0,4.44,17.0,2023,249
+4.0,15:00,1.0,10.0,BAL 17,13.0,35.0,Jeff Wilson right end for 15 yards (tackle by Arthur Maulet),4.44,6.74,17.0,2023,249
+4.0,14:33,1.0,2.0,BAL 2,13.0,35.0,Jeff Wilson up the middle for 1 yard (tackle by Geno Stone and Justin Madubuike),6.74,5.91,17.0,2023,249
+4.0,14:08,2.0,1.0,BAL 1,13.0,35.0,Tua Tagovailoa pass incomplete short left intended for River Cracraft,5.91,5.17,17.0,2023,249
+4.0,14:03,3.0,1.0,BAL 1,19.0,35.0,"Tua Tagovailoa pass complete short middle to De'Von Achane for 1 yard, touchdown",5.17,7.0,17.0,2023,249
+4.0,13:57,,,BAL 2,19.0,35.0,Two Point Attempt: Tua Tagovailoa pass incomplete,1.0,-1.0,17.0,2023,249
+4.0,13:57,,,MIA 35,19.0,35.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,249
+4.0,13:57,1.0,10.0,BAL 25,19.0,35.0,Lamar Jackson pass complete short left to Rashod Bateman for 11 yards (tackle by Jalen Ramsey),0.61,1.33,17.0,2023,249
+4.0,13:16,1.0,10.0,BAL 36,19.0,35.0,Lamar Jackson pass complete short middle to Rashod Bateman for 15 yards (tackle by Jevon Holland),1.33,2.32,17.0,2023,249
+4.0,12:37,1.0,10.0,MIA 49,19.0,35.0,Gus Edwards up the middle for 3 yards (tackle by Raekwon Davis),2.32,2.19,17.0,2023,249
+4.0,11:54,2.0,7.0,MIA 46,19.0,35.0,Justice Hill left end for 41 yards (tackle by DeShon Elliott),2.19,6.06,17.0,2023,249
+4.0,11:06,1.0,5.0,MIA 5,19.0,35.0,Gus Edwards right guard for 2 yards (tackle by Andrew Van Ginkel and Da'Shawn Hand),6.06,5.53,17.0,2023,249
+4.0,10:23,2.0,3.0,MIA 3,19.0,35.0,Gus Edwards up the middle for -1 yards (tackle by Bradley Chubb and Da'Shawn Hand),5.53,4.49,17.0,2023,249
+4.0,9:44,3.0,4.0,MIA 4,19.0,41.0,"Lamar Jackson pass complete short left to Patrick Ricard for 4 yards, touchdown",4.49,7.0,17.0,2023,249
+4.0,9:38,,,MIA 15,19.0,42.0,Justin Tucker kicks extra point good,0.0,0.0,17.0,2023,249
+4.0,9:38,,,BAL 35,19.0,42.0,"Justin Tucker kicks off 62 yards, returned by Braxton Berrios for 23 yards (tackle by Charlie Kolar)",0.0,0.67,17.0,2023,249
+4.0,9:34,1.0,10.0,MIA 26,19.0,42.0,Tua Tagovailoa pass incomplete short right intended for Alec Ingold (defended by Jadeveon Clowney),0.67,0.13,17.0,2023,249
+4.0,9:31,2.0,10.0,MIA 26,19.0,42.0,Tua Tagovailoa pass complete short right to De'Von Achane for 2 yards (tackle by Ronald Darby),0.13,-0.3,17.0,2023,249
+4.0,8:47,3.0,8.0,MIA 28,19.0,42.0,Tua Tagovailoa sacked by Odafe Oweh for -5 yards,-0.3,-1.83,17.0,2023,249
+4.0,8:02,4.0,13.0,MIA 23,19.0,42.0,Tua Tagovailoa scrambles up the middle for 9 yards (tackle by Patrick Queen),-1.83,-3.45,17.0,2023,249
+4.0,7:55,1.0,10.0,MIA 32,19.0,42.0,Gus Edwards right end for 3 yards (tackle by Andrew Van Ginkel and David Long),3.45,3.31,17.0,2023,249
+4.0,7:10,2.0,7.0,MIA 29,19.0,42.0,Lamar Jackson left end for 10 yards (tackle by David Long),3.31,4.31,17.0,2023,249
+4.0,6:24,1.0,10.0,MIA 19,19.0,42.0,"Penalty on Patrick Ricard: False Start, 5 yards (accepted) (no play)",4.31,3.97,17.0,2023,249
+4.0,6:24,1.0,15.0,MIA 24,19.0,42.0,Melvin Gordon right tackle for 7 yards (tackle by Jevon Holland),3.97,4.03,17.0,2023,249
+4.0,5:41,2.0,8.0,MIA 17,19.0,42.0,Melvin Gordon left end for 2 yards (tackle by Zach Sieler and Bradley Chubb),4.03,3.46,17.0,2023,249
+4.0,5:26,3.0,7.0,MIA 15,19.0,42.0,"Penalty on Jalen Ramsey: Unnecessary Roughness / Defense, 8 yards (accepted) Penalty on Bradley Chubb: Unnecessary Roughness / Defense, 8 yards (declined) (no play)",3.46,5.6,17.0,2023,249
+4.0,5:01,1.0,7.0,MIA 7,19.0,42.0,Melvin Gordon left end for no gain (tackle by Da'Shawn Hand and Bradley Chubb),5.6,4.76,17.0,2023,249
+4.0,4:19,2.0,7.0,MIA 7,19.0,48.0,"Melvin Gordon up the middle for 7 yards, touchdown",4.76,7.0,17.0,2023,249
+4.0,4:11,,,MIA 15,19.0,49.0,Justin Tucker kicks extra point good,0.0,0.0,17.0,2023,249
+4.0,4:11,,,BAL 35,19.0,49.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,249
+4.0,4:11,1.0,10.0,MIA 25,19.0,49.0,"Mike White aborted snap, recovered by Trenton Simpson at MIA-18 and returned for 10 yards (tackle by Alec Ingold)",0.61,-5.37,17.0,2023,249
+4.0,4:03,1.0,8.0,MIA 8,19.0,49.0,Melvin Gordon right end for -2 yards (tackle by DeShon Elliott and Eli Apple),5.37,4.19,17.0,2023,249
+4.0,3:18,2.0,10.0,MIA 10,19.0,49.0,"Penalty on Ben Cleveland: False Start, 5 yards (accepted) (no play)",4.19,3.46,17.0,2023,249
+4.0,3:18,2.0,15.0,MIA 15,19.0,49.0,Melvin Gordon left end for -4 yards (tackle by David Long),3.46,2.49,17.0,2023,249
+4.0,2:33,3.0,19.0,MIA 19,19.0,55.0,"Tyler Huntley pass complete deep middle to Charlie Kolar for 19 yards, touchdown",2.49,7.0,17.0,2023,249
+4.0,2:28,,,MIA 15,19.0,56.0,Justin Tucker kicks extra point good,0.0,0.0,17.0,2023,249
+4.0,2:28,,,BAL 35,19.0,56.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,249
+4.0,2:28,1.0,10.0,MIA 25,19.0,56.0,Chris Brooks left guard for 2 yards (tackle by Del'Shawn Phillips and Travis Jones),0.61,0.33,17.0,2023,249
+4.0,2:00,2.0,8.0,MIA 27,19.0,56.0,Chris Brooks right tackle for 7 yards (tackle by Del'Shawn Phillips and Jeremiah Moon),0.33,0.56,17.0,2023,249
+4.0,1:23,3.0,1.0,MIA 34,19.0,56.0,Chris Brooks right tackle for no gain (tackle by Travis Jones and Tavius Robinson),0.56,-1.11,17.0,2023,249
+4.0,0:38,4.0,1.0,MIA 34,19.0,56.0,"Penalty on Kion Smith: False Start, 4 yards (accepted) (no play)",-1.11,-1.37,17.0,2023,249
+4.0,0:18,4.0,5.0,MIA 30,19.0,56.0,Chris Brooks left guard for 3 yards (tackle by Broderick Washington and Trenton Simpson),-1.37,-3.38,17.0,2023,249
+4.0,0:12,1.0,10.0,MIA 33,19.0,56.0,Tyler Huntley kneels for -1 yards,3.38,2.7,17.0,2023,249

@@ -1,0 +1,147 @@
+Quarter,Time,Down,ToGo,Location,SEA,CHI,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Bears won the coin toss and deferred, Seahawks to receive the opening kickoff.",,,17.0,2024,243
+1.0,15:00,,,CHI 35,0.0,0.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.28,17.0,2024,243
+1.0,15:00,1.0,10.0,SEA 20,0.0,0.0,Geno Smith pass complete short left to Tyler Lockett for 3 yards (tackle by Jonathan Owens),0.28,0.14,17.0,2024,243
+1.0,14:22,2.0,7.0,SEA 23,0.0,0.0,Zach Charbonnet left end for 6 yards (tackle by Montez Sweat and Kyler Gordon),0.14,0.23,17.0,2024,243
+1.0,13:42,3.0,1.0,SEA 29,0.0,0.0,Zach Charbonnet left tackle for 2 yards (tackle by Tyrique Stevenson),0.23,1.0,17.0,2024,243
+1.0,12:59,1.0,10.0,SEA 31,0.0,0.0,Zach Charbonnet left guard for 11 yards (tackle by Kevin Byard),1.0,1.73,17.0,2024,243
+1.0,12:26,1.0,10.0,SEA 42,0.0,0.0,Geno Smith pass complete short left to Noah Fant for 15 yards (tackle by Byron Cowart and Tyrique Stevenson),1.73,2.72,17.0,2024,243
+1.0,11:45,1.0,10.0,CHI 43,0.0,0.0,Kenny McIntosh right guard for 2 yards (tackle by Darrell Taylor),2.72,2.45,17.0,2024,243
+1.0,11:00,2.0,8.0,CHI 41,0.0,0.0,Kenny McIntosh left guard for 25 yards (tackle by Kevin Byard),2.45,4.51,17.0,2024,243
+1.0,10:34,1.0,10.0,CHI 16,0.0,0.0,Kenny McIntosh left guard for 2 yards (tackle by Tremaine Edmunds),4.51,4.21,17.0,2024,243
+1.0,9:48,2.0,8.0,CHI 14,0.0,0.0,Zach Charbonnet right guard for 5 yards (tackle by Tremaine Edmunds and T.J. Edwards),4.21,4.39,17.0,2024,243
+1.0,9:07,3.0,3.0,CHI 9,0.0,0.0,Geno Smith pass incomplete short middle intended for Tyler Lockett (defended by Tremaine Edmunds),4.39,2.93,17.0,2024,243
+1.0,9:03,4.0,3.0,CHI 9,3.0,0.0,Jason Myers 27 yard field goal good,2.93,3.0,17.0,2024,243
+1.0,8:59,,,SEA 35,3.0,0.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,243
+1.0,8:59,1.0,10.0,CHI 30,3.0,0.0,D'Andre Swift right end for 2 yards (tackle by Byron Murphy),0.94,0.66,17.0,2024,243
+1.0,8:24,2.0,8.0,CHI 32,3.0,0.0,Roschon Johnson left guard for 3 yards (tackle by Boye Mafe),0.66,0.37,17.0,2024,243
+1.0,7:50,3.0,5.0,CHI 35,3.0,0.0,Caleb Williams pass incomplete short middle intended for Rome Odunze,0.37,-1.04,17.0,2024,243
+1.0,7:46,4.0,5.0,CHI 35,3.0,0.0,"Tory Taylor punts 48 yards, returned by Jaelon Darden for no gain (tackle by Josh Blackwell)",-1.04,0.06,17.0,2024,243
+1.0,7:39,1.0,10.0,SEA 17,3.0,0.0,"Geno Smith sacked by Montez Sweat for -8 yards. Geno Smith fumbles (forced by Montez Sweat), recovered by Geno Smith at SEA-9 (tackle by Montez Sweat)",-0.06,-1.36,17.0,2024,243
+1.0,6:57,2.0,18.0,SEA 9,3.0,0.0,Geno Smith pass complete short right to Zach Charbonnet for 11 yards (tackle by Kevin Byard),-1.36,-0.87,17.0,2024,243
+1.0,6:15,3.0,7.0,SEA 20,3.0,0.0,Geno Smith pass incomplete short left intended for Jaxon Smith-Njigba,-0.87,-2.03,17.0,2024,243
+1.0,6:10,4.0,7.0,SEA 20,3.0,0.0,"Michael Dickson punts 58 yards, returned by Josh Blackwell for 7 yards (tackle by Kenny McIntosh)",-2.03,-0.87,17.0,2024,243
+1.0,6:00,1.0,10.0,CHI 29,3.0,0.0,Caleb Williams pass complete short right to D.J. Moore for 9 yards (tackle by Uchenna Nwosu),0.87,1.54,17.0,2024,243
+1.0,5:21,2.0,1.0,CHI 38,3.0,0.0,Caleb Williams pass complete short middle to D'Andre Swift for 2 yards (tackle by Uchenna Nwosu),1.54,1.6,17.0,2024,243
+1.0,4:42,1.0,10.0,CHI 40,3.0,0.0,D'Andre Swift up the middle for 5 yards (tackle by Byron Murphy),1.6,1.73,17.0,2024,243
+1.0,4:03,2.0,5.0,CHI 45,3.0,0.0,Caleb Williams pass incomplete deep right,1.73,1.03,17.0,2024,243
+1.0,3:57,3.0,5.0,CHI 45,3.0,0.0,Caleb Williams pass incomplete short right intended for Keenan Allen,1.03,-0.39,17.0,2024,243
+1.0,3:53,4.0,5.0,CHI 45,3.0,0.0,"Tory Taylor punts 50 yards, returned by Jaelon Darden for no gain (tackle by Tyler Scott)",-0.39,0.38,17.0,2024,243
+1.0,3:45,1.0,10.0,SEA 5,3.0,0.0,Kenny McIntosh left tackle for 6 yards (tackle by Darrell Taylor),-0.38,-0.34,17.0,2024,243
+1.0,3:10,2.0,4.0,SEA 11,3.0,0.0,Kenny McIntosh right tackle for 2 yards (tackle by Kevin Byard),-0.34,-0.48,17.0,2024,243
+1.0,2:28,3.0,2.0,SEA 13,3.0,0.0,Geno Smith pass incomplete short left intended for Jaxon Smith-Njigba (defended by Kyler Gordon),-0.48,-2.49,17.0,2024,243
+1.0,2:20,4.0,2.0,SEA 13,3.0,0.0,"Michael Dickson punts 56 yards, fair catch by Josh Blackwell at CHI-31",-2.49,-1.0,17.0,2024,243
+1.0,2:12,1.0,10.0,CHI 31,3.0,0.0,D'Andre Swift right end for -7 yards (tackle by Devon Witherspoon),1.0,-0.49,17.0,2024,243
+1.0,1:35,2.0,17.0,CHI 24,3.0,0.0,D.J. Moore left end for 11 yards (tackle by Josh Jobe),-0.49,0.3,17.0,2024,243
+1.0,0:55,3.0,6.0,CHI 35,3.0,0.0,Caleb Williams pass incomplete deep middle intended for Rome Odunze,0.3,-1.04,17.0,2024,243
+1.0,0:49,4.0,6.0,CHI 35,3.0,0.0,"Tory Taylor punts 49 yards, fair catch by Jaelon Darden at SEA-16",-1.04,0.14,17.0,2024,243
+1.0,0:41,1.0,10.0,SEA 16,3.0,0.0,Geno Smith pass complete short right to D.K. Metcalf for 5 yards (tackle by Jaylon Johnson),-0.14,0.15,17.0,2024,243
+2.0,15:00,2.0,5.0,SEA 21,3.0,0.0,Zach Charbonnet left guard for 1 yard (tackle by Gervon Dexter and DeMarcus Walker),0.15,-0.57,17.0,2024,243
+2.0,14:18,3.0,4.0,SEA 22,3.0,0.0,Geno Smith pass complete short left to Jaxon Smith-Njigba for 7 yards (tackle by Tremaine Edmunds),-0.57,0.87,17.0,2024,243
+2.0,13:36,1.0,10.0,SEA 29,3.0,0.0,Zach Charbonnet right tackle for 6 yards (tackle by Jonathan Ford and Jonathan Owens),0.87,1.14,17.0,2024,243
+2.0,13:15,2.0,4.0,SEA 35,3.0,0.0,Zach Charbonnet left tackle for 9 yards (tackle by T.J. Edwards),1.14,1.86,17.0,2024,243
+2.0,12:36,1.0,10.0,SEA 44,3.0,0.0,Geno Smith pass complete short right to Tyler Lockett for 15 yards (tackle by Jaylon Johnson),1.86,2.85,17.0,2024,243
+2.0,11:58,1.0,10.0,CHI 41,3.0,0.0,Geno Smith pass complete short left to Tyler Lockett for 2 yards (tackle by Jaylon Johnson),2.85,2.58,17.0,2024,243
+2.0,11:16,2.0,8.0,CHI 39,3.0,0.0,Geno Smith sacked by Byron Cowart for -2 yards,2.58,1.62,17.0,2024,243
+2.0,10:32,3.0,10.0,CHI 41,3.0,0.0,"Geno Smith pass incomplete short right. Penalty on Jaxon Smith-Njigba: Offensive Offside, 5 yards (declined)",1.62,0.53,17.0,2024,243
+2.0,10:28,4.0,10.0,CHI 41,3.0,0.0,Michael Dickson punts 32 yards downed by AJ Barner,0.53,0.38,17.0,2024,243
+2.0,10:19,1.0,10.0,CHI 9,3.0,0.0,"Caleb Williams pass complete short left to D.J. Moore for no gain (tackle by Josh Jobe). Penalty on D.J. Moore: Offensive Pass Interference, 4 yards (accepted) (no play)",-0.38,-0.53,17.0,2024,243
+2.0,9:52,1.0,14.0,CHI 5,3.0,0.0,D.J. Moore left end for -3 yards (tackle by Devon Witherspoon),-0.53,-1.29,17.0,2024,243
+2.0,9:05,2.0,17.0,CHI 2,3.0,0.0,Caleb Williams pass complete short right to D.J. Moore for 10 yards (tackle by Josh Jobe),-1.29,-1.07,17.0,2024,243
+2.0,8:22,3.0,7.0,CHI 12,3.0,0.0,Caleb Williams pass complete short right to D'Andre Swift for 24 yards (tackle by Coby Bryant and Ernest Jones),-1.07,1.33,17.0,2024,243
+2.0,7:53,1.0,10.0,CHI 36,3.0,0.0,Caleb Williams pass incomplete short middle intended for Keenan Allen (defended by Devon Witherspoon) (no play),1.33,2.06,17.0,2024,243
+2.0,7:47,1.0,5.0,CHI 41,3.0,0.0,D'Andre Swift left end for 8 yards (tackle by Coby Bryant and Tyrice Knight),2.06,2.19,17.0,2024,243
+2.0,7:19,1.0,10.0,CHI 49,3.0,0.0,D'Andre Swift left end for 3 yards (tackle by Tyrice Knight and Julian Love),2.19,2.05,17.0,2024,243
+2.0,6:33,2.0,7.0,SEA 48,3.0,0.0,Caleb Williams sacked by Derick Hall for -2 yards,2.05,1.09,17.0,2024,243
+2.0,5:52,3.0,9.0,CHI 50,3.0,0.0,Caleb Williams pass complete short right to D.J. Moore for 18 yards (tackle by Coby Bryant),1.09,3.45,17.0,2024,243
+2.0,5:01,1.0,10.0,SEA 32,3.0,0.0,Roschon Johnson left guard for -1 yards (tackle by Leonard Williams),3.45,2.77,17.0,2024,243
+2.0,4:26,2.0,11.0,SEA 33,3.0,0.0,"Coleman Shelton aborted snap, recovered by Caleb Williams at SEA-33 Caleb Williams pass complete short middle to Keenan Allen for 16 yards (tackle by Josh Jobe)",2.77,4.44,17.0,2024,243
+2.0,3:39,1.0,10.0,SEA 17,3.0,0.0,"Caleb Williams pass incomplete deep right intended for Gerald Everett. Penalty on D'Andre Swift: Illegal Shift, 5 yards (declined)",4.44,3.85,17.0,2024,243
+2.0,3:34,2.0,10.0,SEA 17,3.0,0.0,Caleb Williams pass incomplete deep right intended for Keenan Allen,3.85,3.07,17.0,2024,243
+2.0,3:27,3.0,10.0,SEA 17,3.0,0.0,"Caleb Williams pass complete deep left to Rome Odunze for no gain, touchdown. Penalty on Jake Curhan: Offensive Holding, 10 yards (accepted) (no play)",3.07,1.88,17.0,2024,243
+2.0,3:21,3.0,20.0,SEA 27,3.0,0.0,Caleb Williams pass complete short middle to D'Andre Swift for 3 yards (tackle by Boye Mafe),1.88,1.87,17.0,2024,243
+2.0,2:37,4.0,17.0,SEA 24,3.0,3.0,Cairo Santos 42 yard field goal good,1.87,3.0,17.0,2024,243
+2.0,2:32,,,CHI 35,3.0,3.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,243
+2.0,2:32,1.0,10.0,SEA 30,3.0,3.0,Zach Charbonnet left tackle for 9 yards (tackle by Jonathan Owens),0.94,1.61,17.0,2024,243
+2.0,2:18,2.0,1.0,SEA 39,3.0,3.0,"Penalty on D.K. Metcalf: Unnecessary Roughness / Offense, 15 yards (accepted) (no play)",1.61,-0.42,17.0,2024,243
+2.0,2:00,2.0,16.0,SEA 24,3.0,3.0,Geno Smith pass complete short middle to Noah Fant for 13 yards (tackle by Tremaine Edmunds),-0.42,0.63,17.0,2024,243
+2.0,1:52,,,,,,Timeout #1 by Chicago Bears,,,17.0,2024,243
+2.0,1:52,3.0,3.0,SEA 37,3.0,3.0,Geno Smith pass complete short left to Noah Fant for 12 yards (tackle by T.J. Edwards),0.63,2.19,17.0,2024,243
+2.0,1:27,1.0,10.0,SEA 49,3.0,3.0,Geno Smith pass complete short left to D.K. Metcalf for 14 yards (tackle by Jaylon Johnson and Kyler Gordon),2.19,3.12,17.0,2024,243
+2.0,1:03,1.0,10.0,CHI 37,3.0,3.0,Geno Smith scrambles right end for 4 yards (tackle by Kyler Gordon),3.12,3.11,17.0,2024,243
+2.0,0:53,,,,,,Timeout #1 by Seattle Seahawks,,,17.0,2024,243
+2.0,0:53,2.0,6.0,CHI 33,3.0,3.0,Zach Charbonnet right guard for 1 yard (tackle by Chris Williams and Jacob Martin),3.11,2.54,17.0,2024,243
+2.0,0:30,,,,,,Timeout #2 by Seattle Seahawks,,,17.0,2024,243
+2.0,0:30,3.0,5.0,CHI 32,3.0,3.0,Geno Smith pass incomplete short left intended for Noah Fant (defended by Jacob Martin),2.54,1.26,17.0,2024,243
+2.0,0:26,4.0,5.0,CHI 32,6.0,3.0,Jason Myers 50 yard field goal good,1.26,3.0,17.0,2024,243
+2.0,0:21,,,SEA 35,6.0,3.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.94,17.0,2024,243
+2.0,0:21,1.0,10.0,CHI 30,6.0,3.0,D'Andre Swift right guard for 7 yards (tackle by Leonard Williams),0.94,1.34,17.0,2024,243
+2.0,0:15,,,,,,Timeout #2 by Chicago Bears,,,17.0,2024,243
+2.0,0:15,2.0,3.0,CHI 37,6.0,3.0,Caleb Williams sacked by Leonard Williams for -7 yards,1.34,-0.3,17.0,2024,243
+3.0,15:00,,,SEA 35,6.0,3.0,"Jason Myers kicks off 65 yards, returned by Tyler Scott for 22 yards (tackle by Dareke Young and George Holani)",0.0,0.41,17.0,2024,243
+3.0,14:53,1.0,10.0,CHI 22,6.0,3.0,Caleb Williams sacked by Devon Witherspoon for no gain,0.41,-0.13,17.0,2024,243
+3.0,14:16,2.0,10.0,CHI 22,6.0,3.0,D'Andre Swift right guard for 8 yards (tackle by Boye Mafe),-0.13,0.23,17.0,2024,243
+3.0,13:35,3.0,2.0,CHI 30,6.0,3.0,Roschon Johnson left guard for 1 yard (tackle by Julian Love),0.23,-1.31,17.0,2024,243
+3.0,12:54,4.0,1.0,CHI 31,6.0,3.0,"Tory Taylor punts 49 yards, fair catch by Jaelon Darden at SEA-20",-1.31,-0.28,17.0,2024,243
+3.0,12:47,1.0,10.0,SEA 20,6.0,3.0,Geno Smith pass complete short right to Zach Charbonnet for 6 yards (tackle by Kyler Gordon),0.28,0.54,17.0,2024,243
+3.0,12:09,2.0,4.0,SEA 26,6.0,3.0,Zach Charbonnet left tackle for -1 yards (tackle by DeMarcus Walker and Byron Cowart),0.54,-0.3,17.0,2024,243
+3.0,11:25,3.0,5.0,SEA 25,6.0,3.0,Geno Smith scrambles right end for 16 yards (tackle by Jaylon Johnson),-0.3,1.66,17.0,2024,243
+3.0,10:41,1.0,10.0,SEA 41,6.0,3.0,Zach Charbonnet left guard for 2 yards (tackle by T.J. Edwards),1.66,1.39,17.0,2024,243
+3.0,10:03,2.0,8.0,SEA 43,6.0,3.0,Zach Charbonnet left end for 5 yards (tackle by Jack Sanborn and Darrell Taylor),1.39,1.36,17.0,2024,243
+3.0,9:23,3.0,3.0,SEA 48,6.0,3.0,"Geno Smith sacked by Darrell Taylor for -7 yards. Geno Smith fumbles (forced by Darrell Taylor), recovered by Olusegun Oluwatimi at SEA-41",1.36,-0.65,17.0,2024,243
+3.0,8:23,4.0,10.0,SEA 41,6.0,3.0,Michael Dickson punts 43 yards downed by Drake Thomas,-0.65,0.14,17.0,2024,243
+3.0,8:13,1.0,10.0,CHI 16,6.0,3.0,D'Andre Swift left tackle for 4 yards (tackle by Ernest Jones and Tyrice Knight),-0.14,0.01,17.0,2024,243
+3.0,7:31,2.0,6.0,CHI 20,6.0,3.0,Caleb Williams scrambles right end for 16 yards (tackle by Coby Bryant),0.01,1.33,17.0,2024,243
+3.0,6:47,1.0,10.0,CHI 36,6.0,3.0,Caleb Williams pass complete short right to D'Andre Swift for -1 yards (tackle by Devon Witherspoon),1.33,0.66,17.0,2024,243
+3.0,6:06,2.0,11.0,CHI 35,6.0,3.0,Caleb Williams pass complete short right to Keenan Allen for 1 yard,0.66,0.1,17.0,2024,243
+3.0,5:28,3.0,10.0,CHI 36,6.0,3.0,Caleb Williams sacked by Jarran Reed for -10 yards,0.1,-1.63,17.0,2024,243
+3.0,4:44,4.0,20.0,CHI 26,6.0,3.0,Tory Taylor punts 39 yards downed by Tyler Scott,-1.63,-1.27,17.0,2024,243
+3.0,4:35,1.0,10.0,SEA 35,6.0,3.0,Geno Smith pass incomplete deep right intended for Jaxon Smith-Njigba,1.27,0.72,17.0,2024,243
+3.0,4:29,2.0,10.0,SEA 35,6.0,3.0,Kenny McIntosh right guard for 3 yards (tackle by Byron Cowart),0.72,0.43,17.0,2024,243
+3.0,3:47,3.0,7.0,SEA 38,6.0,3.0,Geno Smith pass complete short middle to Jaxon Smith-Njigba for 19 yards (tackle by Jonathan Owens),0.43,2.72,17.0,2024,243
+3.0,3:04,1.0,10.0,CHI 43,6.0,3.0,"Kenny McIntosh right guard for no gain (tackle by Jonathan Ford). Penalty on Abraham Lucas: Illegal Formation, 5 yards (accepted) (no play)",2.72,2.39,17.0,2024,243
+3.0,2:35,1.0,15.0,CHI 48,6.0,3.0,Kenny McIntosh right tackle for 6 yards (tackle by T.J. Edwards),2.39,2.31,17.0,2024,243
+3.0,1:56,2.0,9.0,CHI 42,6.0,3.0,"Geno Smith pass complete short left to Pharaoh Brown for no gain. Pharaoh Brown fumbles (forced by Kyler Gordon), recovered by Kyler Gordon at CHI-38, touchdown Replay Assistant challenged the runner was down by contact ruling, and the original play was overturned. Geno Smith pass complete short left to Pharaoh Brown for 4 yards. Pharaoh Brown fumbles (forced by Kyler Gordon) (tackle by Tremaine Edmunds), recovered by Kyler Gordon at CHI-38 (tackle by Pharaoh Brown)",2.31,-1.47,17.0,2024,243
+3.0,1:50,1.0,10.0,CHI 38,6.0,3.0,Caleb Williams pass complete short left to Keenan Allen for 4 yards (tackle by Josh Jobe),1.47,1.46,17.0,2024,243
+3.0,1:24,2.0,6.0,CHI 42,6.0,3.0,Caleb Williams left end for 5 yards (tackle by Julian Love),1.46,1.42,17.0,2024,243
+3.0,0:55,3.0,1.0,CHI 47,6.0,3.0,Caleb Williams pass complete short left to Keenan Allen for 4 yards (tackle by Riq Woolen),1.42,2.32,17.0,2024,243
+3.0,0:26,1.0,10.0,SEA 49,6.0,3.0,Caleb Williams sacked by Uchenna Nwosu for -14 yards,2.32,-0.11,17.0,2024,243
+4.0,15:00,2.0,24.0,CHI 37,6.0,3.0,Caleb Williams pass incomplete short middle intended for Keenan Allen (defended by Uchenna Nwosu),-0.11,-0.76,17.0,2024,243
+4.0,14:55,3.0,24.0,CHI 37,6.0,3.0,Caleb Williams pass complete short middle to D.J. Moore for 2 yards (tackle by Devon Witherspoon),-0.76,-0.78,17.0,2024,243
+4.0,14:12,4.0,22.0,CHI 39,6.0,3.0,"Tory Taylor punts 47 yards, fair catch by Jaelon Darden at SEA-14",-0.78,0.28,17.0,2024,243
+4.0,14:06,1.0,10.0,SEA 14,6.0,3.0,Zach Charbonnet left guard for 1 yard (tackle by Chris Williams and Gervon Dexter),-0.28,-0.64,17.0,2024,243
+4.0,13:24,2.0,9.0,SEA 15,6.0,3.0,Geno Smith pass complete short middle to Jaxon Smith-Njigba for 6 yards (tackle by Tyrique Stevenson),-0.64,-0.56,17.0,2024,243
+4.0,12:37,3.0,3.0,SEA 21,6.0,3.0,Zach Charbonnet right tackle for -1 yards (tackle by T.J. Edwards),-0.56,-2.03,17.0,2024,243
+4.0,11:54,4.0,4.0,SEA 20,6.0,3.0,"Michael Dickson punts 56 yards, returned by Josh Blackwell for 14 yards (tackle by Julian Love)",-2.03,-1.47,17.0,2024,243
+4.0,11:43,1.0,10.0,CHI 38,6.0,3.0,D'Andre Swift left tackle for 8 yards (tackle by Ernest Jones and Julian Love),1.47,2.0,17.0,2024,243
+4.0,11:21,2.0,2.0,CHI 46,6.0,3.0,D'Andre Swift right tackle for 1 yard (tackle by Jarran Reed and Coby Bryant),2.0,1.42,17.0,2024,243
+4.0,10:37,3.0,1.0,CHI 47,6.0,3.0,Roschon Johnson right guard for 2 yards (tackle by Dre'Mont Jones),1.42,2.19,17.0,2024,243
+4.0,9:50,1.0,10.0,CHI 49,6.0,3.0,D'Andre Swift left guard for 2 yards (tackle by Ernest Jones and Tyrice Knight),2.19,1.92,17.0,2024,243
+4.0,9:07,2.0,8.0,SEA 49,6.0,3.0,Caleb Williams pass incomplete short middle intended for D'Andre Swift,1.92,1.22,17.0,2024,243
+4.0,9:04,3.0,8.0,SEA 49,6.0,3.0,Caleb Williams sacked by Rayshawn Jenkins for -8 yards,1.22,-0.52,17.0,2024,243
+4.0,8:20,4.0,16.0,CHI 43,6.0,3.0,"Tory Taylor punts 45 yards, fair catch by Jaelon Darden at SEA-12",-0.52,0.35,17.0,2024,243
+4.0,8:13,1.0,10.0,SEA 12,6.0,3.0,"Penalty on Jonathan Ford: Neutral Zone Infraction, 5 yards (accepted) (no play)",-0.35,0.28,17.0,2024,243
+4.0,8:13,1.0,5.0,SEA 17,6.0,3.0,Geno Smith pass complete deep left to D.K. Metcalf for 23 yards (tackle by Kyler Gordon),0.28,1.6,17.0,2024,243
+4.0,7:26,1.0,10.0,SEA 40,6.0,3.0,Zach Charbonnet right end for 1 yard (tackle by Jacob Martin),1.6,1.19,17.0,2024,243
+4.0,6:49,2.0,9.0,SEA 41,6.0,3.0,Geno Smith pass complete short right to Noah Fant for 3 yards,1.19,0.89,17.0,2024,243
+4.0,6:07,3.0,6.0,SEA 44,6.0,3.0,Geno Smith pass complete short left to Zach Charbonnet for 2 yards (tackle by Tremaine Edmunds and Daniel Hardy),0.89,-0.32,17.0,2024,243
+4.0,5:19,4.0,4.0,SEA 46,6.0,3.0,"Michael Dickson punts 43 yards, fair catch by Josh Blackwell at CHI-11",-0.32,0.37,17.0,2024,243
+4.0,5:12,1.0,10.0,CHI 11,6.0,3.0,Caleb Williams right end for 7 yards (tackle by Boye Mafe),-0.37,0.0,17.0,2024,243
+4.0,4:45,2.0,3.0,CHI 18,6.0,3.0,D'Andre Swift up the middle for 12 yards (tackle by Tyrice Knight and Ernest Jones),0.0,0.94,17.0,2024,243
+4.0,4:18,1.0,10.0,CHI 30,6.0,3.0,Caleb Williams scrambles right end for 8 yards (tackle by Ernest Jones),0.94,1.47,17.0,2024,243
+4.0,3:40,2.0,2.0,CHI 38,6.0,3.0,Caleb Williams pass complete short left to Keenan Allen for no gain (tackle by Tre Brown),1.47,0.76,17.0,2024,243
+4.0,2:54,3.0,2.0,CHI 38,6.0,3.0,Caleb Williams scrambles up the middle for 1 yard (tackle by Leonard Williams),0.76,-0.78,17.0,2024,243
+4.0,2:14,,,,,,Timeout #1 by Seattle Seahawks,,,17.0,2024,243
+4.0,2:14,4.0,1.0,CHI 39,6.0,3.0,"Penalty on Jake Curhan: False Start, 4 yards (accepted) (no play)",-0.78,-1.04,17.0,2024,243
+4.0,2:14,,,,,,Timeout #1 by Chicago Bears,,,17.0,2024,243
+4.0,2:14,4.0,5.0,CHI 35,6.0,3.0,Caleb Williams pass complete short right to D.J. Moore for 14 yards (tackle by Devon Witherspoon),-1.04,2.19,17.0,2024,243
+4.0,2:05,1.0,10.0,CHI 49,6.0,3.0,"Caleb Williams aborted snap, recovered by Caleb Williams at CHI-49 Caleb Williams sacked by Leonard Williams for -5 yards",2.19,0.97,17.0,2024,243
+4.0,2:00,2.0,15.0,CHI 44,6.0,3.0,Caleb Williams pass complete short left to D.J. Moore for 1 yard (tackle by Uchenna Nwosu and Tyrice Knight),0.97,0.43,17.0,2024,243
+4.0,1:16,3.0,14.0,CHI 45,6.0,3.0,Caleb Williams pass complete short right to Rome Odunze for 15 yards (tackle by Coby Bryant),0.43,2.92,17.0,2024,243
+4.0,0:38,1.0,10.0,SEA 40,6.0,3.0,Caleb Williams pass incomplete short right,2.92,2.37,17.0,2024,243
+4.0,0:31,,,,,,Timeout #2 by Chicago Bears,,,17.0,2024,243
+4.0,0:31,2.0,10.0,SEA 40,6.0,3.0,Caleb Williams pass incomplete deep right intended for Rome Odunze,2.37,1.68,17.0,2024,243
+4.0,0:26,3.0,10.0,SEA 40,6.0,3.0,Caleb Williams pass incomplete deep right intended for D.J. Moore,1.68,0.59,17.0,2024,243
+4.0,0:20,,,,,,Timeout #2 by Seattle Seahawks,,,17.0,2024,243
+4.0,0:20,4.0,10.0,SEA 40,6.0,3.0,Caleb Williams pass deep right (defended by Coby Bryant) intended for D.J. Moore is intercepted by Riq Woolen at SEA-22 and returned for 7 yards (tackle by Cole Kmet),0.59,-0.87,17.0,2024,243
+4.0,0:11,1.0,10.0,SEA 29,6.0,3.0,Geno Smith kneels for -1 yards,0.87,0.19,17.0,2024,243

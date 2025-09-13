@@ -1,0 +1,194 @@
+Quarter,Time,Down,ToGo,Location,JAX,IND,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Colts won the coin toss, Colts to receive the opening kickoff.",,,18.0,2024,262
+1,15:00,,,JAX 35,0.0,0.0,"Cam Little kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,262
+1,15:00,1.0,10.0,IND 30,0.0,0.0,Joe Flacco pass complete short right to Andrew Ogletree for 21 yards (tackle by Andrew Wingard and Montaric Brown),0.94,2.32,18.0,2024,262
+1,14:36,1.0,10.0,JAX 49,0.0,0.0,Joe Flacco pass complete short right to Michael Pittman for 9 yards (tackle by Andrew Wingard),2.32,3.0,18.0,2024,262
+1,13:56,2.0,1.0,JAX 40,0.0,6.0,"Joe Flacco pass complete deep right to Alec Pierce for 40 yards, touchdown",3.0,7.0,18.0,2024,262
+1,13:50,,,JAX 15,0.0,7.0,Matt Gay kicks extra point good,0.0,0.0,18.0,2024,262
+1,13:50,,,IND 35,0.0,7.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,262
+1,13:50,1.0,10.0,JAX 30,0.0,7.0,Travis Etienne right tackle for 1 yard (tackle by DeForest Buckner and Nick Cross),0.94,0.53,18.0,2024,262
+1,13:12,2.0,9.0,JAX 31,0.0,7.0,Mac Jones pass complete short left to Brenton Strange for 12 yards (tackle by E.J. Speed and Jaylon Jones),0.53,1.8,18.0,2024,262
+1,12:39,1.0,10.0,JAX 43,0.0,7.0,"Penalty on DeForest Buckner: Encroachment, 5 yards (accepted) (no play)",1.8,2.53,18.0,2024,262
+1,12:25,1.0,5.0,JAX 48,0.0,7.0,Travis Etienne right guard for 11 yards (tackle by Kwity Paye),2.53,2.85,18.0,2024,262
+1,11:56,1.0,10.0,IND 41,0.0,7.0,Travis Etienne left tackle for 5 yards (tackle by Kenny Moore and DeForest Buckner),2.85,2.98,18.0,2024,262
+1,11:33,2.0,5.0,IND 36,0.0,7.0,Travis Etienne up the middle for 2 yards (tackle by DeForest Buckner and Grover Stewart),2.98,2.54,18.0,2024,262
+1,11:00,3.0,3.0,IND 34,0.0,7.0,Tank Bigsby left end for 11 yards (tackle by Julian Blackmon),2.54,4.04,18.0,2024,262
+1,10:20,1.0,10.0,IND 23,0.0,7.0,Mac Jones pass complete short left to Luke Farrell for 4 yards (tackle by Jaylon Carlies),4.04,4.05,18.0,2024,262
+1,9:34,2.0,6.0,IND 19,0.0,7.0,Mac Jones pass complete short right to Brian Thomas for 17 yards (tackle by Nick Cross),4.05,6.74,18.0,2024,262
+1,8:58,1.0,2.0,IND 2,0.0,7.0,Tank Bigsby up the middle for 1 yard (tackle by Nick Cross and Laiatu Latu),6.74,5.91,18.0,2024,262
+1,8:16,2.0,1.0,IND 1,6.0,7.0,"Tank Bigsby right guard for 1 yard, touchdown",5.91,7.0,18.0,2024,262
+1,8:12,,,IND 15,7.0,7.0,Cam Little kicks extra point good,0.0,0.0,18.0,2024,262
+1,8:12,,,JAX 35,7.0,7.0,"Cam Little kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,262
+1,8:12,1.0,10.0,IND 30,7.0,7.0,Joe Flacco pass complete short left to Josh Downs for 13 yards (tackle by Devin Lloyd),0.94,1.8,18.0,2024,262
+1,7:37,1.0,10.0,IND 43,7.0,7.0,Joe Flacco sacked by Devin Lloyd for -8 yards,1.8,0.17,18.0,2024,262
+1,6:58,2.0,18.0,IND 35,7.0,7.0,Joe Flacco pass complete short right to Josh Downs for 12 yards (tackle by Montaric Brown),0.17,1.09,18.0,2024,262
+1,6:20,3.0,6.0,IND 47,7.0,7.0,Joe Flacco pass incomplete short left intended for Josh Downs,1.09,-0.26,18.0,2024,262
+1,6:17,4.0,6.0,IND 47,7.0,7.0,"Rigoberto Sanchez punts 44 yards, fair catch by Devin Duvernay at JAC-9",-0.26,0.38,18.0,2024,262
+1,6:11,1.0,10.0,JAX 9,7.0,7.0,Mac Jones pass complete short left to Parker Washington for 6 yards (tackle by Jaylon Carlies),-0.38,-0.28,18.0,2024,262
+1,5:42,2.0,4.0,JAX 15,7.0,7.0,Travis Etienne up the middle for 3 yards (tackle by Grover Stewart and DeForest Buckner),-0.28,-0.37,18.0,2024,262
+1,5:05,3.0,1.0,JAX 18,7.0,7.0,Tank Bigsby up the middle for no gain (tackle by Nick Cross and Grover Stewart),-0.37,-2.24,18.0,2024,262
+1,4:27,4.0,1.0,JAX 18,7.0,7.0,"Logan Cooke punts 62 yards, returned by Anthony Gould for 7 yards (tackle by Daniel Thomas)",-2.24,-0.74,18.0,2024,262
+1,4:19,1.0,10.0,IND 27,7.0,7.0,Jonathan Taylor up the middle for 12 yards (tackle by Darnell Savage),0.74,1.53,18.0,2024,262
+1,3:40,1.0,10.0,IND 39,7.0,7.0,Jonathan Taylor right guard for 4 yards (tackle by Travon Walker),1.53,1.53,18.0,2024,262
+1,3:04,2.0,6.0,IND 43,7.0,7.0,Joe Flacco pass incomplete short left intended for Michael Pittman (defended by Tyson Campbell),1.53,0.83,18.0,2024,262
+1,3:00,3.0,6.0,IND 43,7.0,7.0,Joe Flacco pass complete short right to Michael Pittman for 5 yards (tackle by Antonio Johnson),0.83,-0.19,18.0,2024,262
+1,2:22,4.0,1.0,IND 48,7.0,7.0,Joe Flacco sacked by Jarrian Jones for no gain,-0.19,-2.39,18.0,2024,262
+1,2:17,1.0,10.0,IND 48,7.0,7.0,Mac Jones pass complete short middle to Brenton Strange for 11 yards (tackle by E.J. Speed and Zaire Franklin),2.39,3.12,18.0,2024,262
+1,1:35,1.0,10.0,IND 37,7.0,7.0,Travis Etienne up the middle for no gain (tackle by Dayo Odeyingbo and Taven Bryan),3.12,2.57,18.0,2024,262
+1,0:58,2.0,10.0,IND 37,7.0,7.0,Travis Etienne left guard for 1 yard (tackle by Taven Bryan),2.57,2.01,18.0,2024,262
+1,0:11,3.0,9.0,IND 36,7.0,7.0,"Mac Jones pass complete short left to Brenton Strange for 14 yards (tackle by E.J. Speed). Penalty on Ezra Cleveland: Offensive Holding, 10 yards (accepted) (no play)",2.01,0.7,18.0,2024,262
+2,15:00,3.0,19.0,IND 46,7.0,7.0,Mac Jones pass complete short right to Josh Reynolds for 11 yards (tackle by Samuel Womack),0.7,0.97,18.0,2024,262
+2,14:22,4.0,8.0,IND 35,10.0,7.0,Cam Little 53 yard field goal good,0.97,3.0,18.0,2024,262
+2,14:17,,,JAX 35,10.0,7.0,"Cam Little kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,262
+2,14:17,1.0,10.0,IND 30,10.0,7.0,Jonathan Taylor left tackle for 8 yards (tackle by Andrew Wingard),0.94,1.47,18.0,2024,262
+2,13:39,2.0,2.0,IND 38,10.0,7.0,Jonathan Taylor left end for 9 yards (tackle by Andrew Wingard and Darnell Savage),1.47,2.06,18.0,2024,262
+2,13:01,1.0,10.0,IND 47,10.0,7.0,Jonathan Taylor left tackle for 7 yards (tackle by DaVon Hamilton),2.06,2.46,18.0,2024,262
+2,12:22,2.0,3.0,JAX 46,10.0,7.0,Jonathan Taylor up the middle for 3 yards (tackle by Foyesade Oluokun),2.46,2.72,18.0,2024,262
+2,11:43,1.0,10.0,JAX 43,10.0,7.0,Joe Flacco pass complete deep right to Michael Pittman for 26 yards,2.72,4.44,18.0,2024,262
+2,11:05,1.0,10.0,JAX 17,10.0,7.0,Jonathan Taylor right guard for 9 yards (tackle by Deantre Prince and Andrew Wingard),4.44,5.48,18.0,2024,262
+2,10:22,2.0,1.0,JAX 8,10.0,7.0,Jonathan Taylor right guard for 2 yards (tackle by Jordan Jefferson and Travon Walker),5.48,5.83,18.0,2024,262
+2,9:36,1.0,6.0,JAX 6,10.0,13.0,"Jonathan Taylor up the middle for 6 yards, touchdown",5.83,7.0,18.0,2024,262
+2,9:32,,,JAX 15,10.0,14.0,Matt Gay kicks extra point good,0.0,0.0,18.0,2024,262
+2,9:32,,,IND 35,10.0,14.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,262
+2,9:32,1.0,10.0,JAX 30,10.0,14.0,Mac Jones sacked by Kwity Paye for -3 yards,0.94,-0.01,18.0,2024,262
+2,8:55,2.0,13.0,JAX 27,10.0,14.0,Mac Jones pass incomplete short right intended for Brian Thomas,-0.01,-0.69,18.0,2024,262
+2,8:49,3.0,13.0,JAX 27,10.0,14.0,Mac Jones pass complete short right to D'Ernest Johnson for no gain (tackle by E.J. Speed),-0.69,-1.57,18.0,2024,262
+2,8:13,4.0,13.0,JAX 27,10.0,14.0,"Logan Cooke punts 47 yards, returned by Anthony Gould for no gain (tackle by Tim Jones)",-1.57,-0.67,18.0,2024,262
+2,8:04,1.0,10.0,IND 26,10.0,14.0,Jonathan Taylor left tackle for 9 yards (tackle by Darnell Savage),0.67,1.35,18.0,2024,262
+2,7:21,2.0,1.0,IND 35,10.0,14.0,Jonathan Taylor right guard for 3 yards (tackle by DaVon Hamilton),1.35,1.47,18.0,2024,262
+2,6:44,1.0,10.0,IND 38,10.0,14.0,Joe Flacco pass complete short right to Tyler Goodson for 5 yards (tackle by Foyesade Oluokun and Andrew Wingard),1.47,1.6,18.0,2024,262
+2,6:07,2.0,5.0,IND 43,10.0,14.0,Joe Flacco pass incomplete deep right intended for Adonai Mitchell,1.6,0.89,18.0,2024,262
+2,6:03,3.0,5.0,IND 43,10.0,14.0,Joe Flacco pass complete short right to Josh Downs for 11 yards (tackle by Montaric Brown),0.89,2.52,18.0,2024,262
+2,5:25,1.0,10.0,JAX 46,10.0,14.0,Jonathan Taylor right tackle for 6 yards (tackle by Devin Lloyd),2.52,2.79,18.0,2024,262
+2,4:50,2.0,4.0,JAX 40,10.0,14.0,Jonathan Taylor up the middle for 5 yards (tackle by Jordan Jefferson and Foyesade Oluokun),2.79,3.25,18.0,2024,262
+2,4:15,1.0,10.0,JAX 35,10.0,14.0,Jonathan Taylor left guard for 4 yards (tackle by Darnell Savage),3.25,3.24,18.0,2024,262
+2,3:37,2.0,6.0,JAX 31,10.0,14.0,Joe Flacco pass incomplete short right,3.24,2.54,18.0,2024,262
+2,3:32,3.0,6.0,JAX 31,10.0,14.0,Joe Flacco pass incomplete short left intended for Kylen Granson (defended by Andrew Wingard),2.54,1.34,18.0,2024,262
+2,3:27,4.0,6.0,JAX 31,10.0,17.0,Matt Gay 49 yard field goal good,1.34,3.0,18.0,2024,262
+2,3:22,,,IND 35,10.0,17.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,262
+2,3:22,1.0,10.0,JAX 30,10.0,17.0,Tank Bigsby up the middle for 8 yards (tackle by Julian Blackmon),0.94,1.47,18.0,2024,262
+2,2:55,2.0,2.0,JAX 38,10.0,17.0,Tank Bigsby right tackle for no gain (tackle by Zaire Franklin and Grover Stewart),1.47,0.76,18.0,2024,262
+2,2:16,3.0,2.0,JAX 38,10.0,17.0,Tank Bigsby up the middle for 3 yards (tackle by Zaire Franklin),0.76,1.66,18.0,2024,262
+2,2:00,1.0,10.0,JAX 41,10.0,17.0,Mac Jones pass complete short left to Travis Etienne for 10 yards (tackle by Jaylon Jones),1.66,2.32,18.0,2024,262
+2,1:54,1.0,10.0,IND 49,10.0,17.0,Mac Jones pass complete short middle to Brian Thomas for 41 yards (tackle by Julian Blackmon),2.32,5.37,18.0,2024,262
+2,1:40,,,,,,Timeout #1 by Indianapolis Colts,,,18.0,2024,262
+2,1:40,1.0,8.0,IND 8,10.0,17.0,Travis Etienne right guard for -1 yards (tackle by Grover Stewart),5.37,4.38,18.0,2024,262
+2,1:36,,,,,,Timeout #2 by Indianapolis Colts,,,18.0,2024,262
+2,1:36,2.0,9.0,IND 9,10.0,17.0,Mac Jones pass incomplete short right intended for Travis Etienne,4.38,3.36,18.0,2024,262
+2,1:32,3.0,9.0,IND 9,10.0,17.0,Mac Jones pass incomplete short right intended for Josh Reynolds,3.36,2.83,18.0,2024,262
+2,1:28,4.0,9.0,IND 9,13.0,17.0,Cam Little 28 yard field goal good,2.83,3.0,18.0,2024,262
+2,1:25,,,JAX 35,13.0,17.0,"Cam Little kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,262
+2,1:25,1.0,10.0,IND 30,13.0,17.0,Joe Flacco pass complete short left to Josh Downs for 8 yards (tackle by Tyson Campbell),0.94,1.47,18.0,2024,262
+2,1:07,2.0,2.0,IND 38,13.0,17.0,Joe Flacco pass complete short right to Michael Pittman for 7 yards (tackle by Deantre Prince and Foyesade Oluokun),1.47,1.93,18.0,2024,262
+2,0:47,1.0,10.0,IND 45,13.0,17.0,Joe Flacco pass incomplete deep right intended for Michael Pittman,1.93,1.38,18.0,2024,262
+2,0:42,2.0,10.0,IND 45,13.0,17.0,"Joe Flacco pass incomplete deep right intended for Alec Pierce. Penalty on Deantre Prince: Defensive Pass Interference, 37 yards (accepted) (no play)",1.38,4.37,18.0,2024,262
+2,0:37,1.0,10.0,JAX 18,13.0,17.0,Joe Flacco pass incomplete deep right intended for Michael Pittman,4.37,3.8,18.0,2024,262
+2,0:32,2.0,10.0,JAX 18,13.0,17.0,Joe Flacco pass incomplete deep right intended for Mo Alie-Cox (defended by Deantre Prince),3.8,3.05,18.0,2024,262
+2,0:24,3.0,10.0,JAX 18,13.0,17.0,Joe Flacco pass incomplete short middle intended for Trey Sermon,3.05,2.25,18.0,2024,262
+2,0:17,4.0,10.0,JAX 18,13.0,20.0,Matt Gay 36 yard field goal good,2.25,3.0,18.0,2024,262
+2,0:13,,,IND 35,13.0,20.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,262
+2,0:13,1.0,10.0,JAX 30,13.0,20.0,Mac Jones kneels for -1 yards,0.94,0.26,18.0,2024,262
+3,15:00,,,IND 35,13.0,20.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,262
+3,15:00,1.0,10.0,JAX 30,13.0,20.0,Mac Jones pass complete short right to Brian Thomas for 4 yards (tackle by Jaylon Carlies),0.94,0.93,18.0,2024,262
+3,14:25,2.0,6.0,JAX 34,13.0,20.0,Mac Jones pass complete short right to Travis Etienne for 5 yards (tackle by E.J. Speed),0.93,0.89,18.0,2024,262
+3,13:47,3.0,1.0,JAX 39,13.0,20.0,Mac Jones up the middle for 2 yards (tackle by Jaylon Carlies),0.89,1.66,18.0,2024,262
+3,13:11,1.0,10.0,JAX 41,13.0,20.0,Tank Bigsby right tackle for 6 yards (tackle by Kenny Moore),1.66,1.93,18.0,2024,262
+3,12:45,2.0,4.0,JAX 47,13.0,20.0,Tank Bigsby left tackle for no gain (tackle by E.J. Speed and Jaylon Jones),1.93,1.22,18.0,2024,262
+3,12:05,3.0,4.0,JAX 47,13.0,20.0,Mac Jones pass incomplete short left intended for Parker Washington (defended by Zaire Franklin),1.22,-0.26,18.0,2024,262
+3,11:59,4.0,4.0,JAX 47,13.0,20.0,"Logan Cooke punts 46 yards, fair catch by Anthony Gould at IND-7",-0.26,0.38,18.0,2024,262
+3,11:52,1.0,10.0,IND 7,13.0,20.0,Jonathan Taylor left guard for 2 yards (tackle by Foyesade Oluokun and Jeremiah Ledbetter),-0.38,-0.63,18.0,2024,262
+3,11:15,2.0,8.0,IND 9,13.0,20.0,Jonathan Taylor up the middle for no gain (tackle by DaVon Hamilton and Devin Lloyd),-0.63,-1.19,18.0,2024,262
+3,10:37,3.0,8.0,IND 9,13.0,20.0,Joe Flacco pass complete short middle to Trey Sermon for 5 yards (tackle by Antonio Johnson and Tyson Campbell),-1.19,-2.47,18.0,2024,262
+3,10:03,4.0,3.0,IND 14,13.0,20.0,"Rigoberto Sanchez punts 57 yards, returned by Devin Duvernay for 13 yards (tackle by Andrew Ogletree). Penalty on Ashton Dulin: Player Out of Bounds on a Punt, 5 yards (accepted) (no play)",-2.47,-2.49,18.0,2024,262
+3,9:52,4.0,8.0,IND 9,13.0,20.0,"Rigoberto Sanchez punts 61 yards, returned by Devin Duvernay for 8 yards (tackle by Andrew Ogletree)",-2.49,-1.47,18.0,2024,262
+3,9:41,1.0,10.0,JAX 38,13.0,20.0,Mac Jones scrambles left end for 5 yards (tackle by Kenny Moore),1.47,1.6,18.0,2024,262
+3,8:55,2.0,5.0,JAX 43,13.0,20.0,Travis Etienne up the middle for 7 yards (tackle by Julian Blackmon),1.6,2.26,18.0,2024,262
+3,8:18,1.0,10.0,JAX 50,13.0,20.0,Mac Jones pass incomplete deep left intended for Parker Washington,2.26,1.71,18.0,2024,262
+3,8:13,2.0,10.0,JAX 50,13.0,20.0,Mac Jones pass incomplete short right intended for Brian Thomas,1.71,1.03,18.0,2024,262
+3,8:09,3.0,10.0,JAX 50,13.0,20.0,Mac Jones pass deep left intended for Brian Thomas is intercepted by Julian Blackmon at IND-1 and returned for 10 yards (tackle by Josh Reynolds),1.03,0.37,18.0,2024,262
+3,7:58,1.0,10.0,IND 11,13.0,20.0,Jonathan Taylor right tackle for 5 yards (tackle by Joe Gaziano),-0.37,-0.3,18.0,2024,262
+3,7:25,2.0,5.0,IND 16,13.0,20.0,Joe Flacco pass complete short left to Josh Downs for 9 yards (tackle by Jarrian Jones),-0.3,0.61,18.0,2024,262
+3,6:42,1.0,10.0,IND 25,13.0,20.0,Jonathan Taylor right guard for 3 yards (tackle by DaVon Hamilton and Chad Muma),0.61,0.47,18.0,2024,262
+3,6:05,2.0,7.0,IND 28,13.0,20.0,Joe Flacco pass complete short right to Josh Downs for 5 yards (tackle by Deantre Prince),0.47,0.43,18.0,2024,262
+3,5:29,3.0,2.0,IND 33,13.0,20.0,Joe Flacco pass complete short right to Michael Pittman for 19 yards (tackle by Darnell Savage),0.43,2.39,18.0,2024,262
+3,4:52,1.0,10.0,JAX 48,13.0,20.0,Joe Flacco pass complete short left to Josh Downs for 6 yards (tackle by Tyson Campbell),2.39,2.66,18.0,2024,262
+3,4:15,2.0,4.0,JAX 42,13.0,20.0,Jonathan Taylor up the middle for 6 yards (tackle by Darnell Savage),2.66,3.18,18.0,2024,262
+3,3:34,1.0,10.0,JAX 36,13.0,20.0,Jonathan Taylor right guard for 3 yards (tackle by Jeremiah Ledbetter and Foyesade Oluokun),3.18,3.04,18.0,2024,262
+3,2:55,2.0,7.0,JAX 33,13.0,20.0,Joe Flacco pass incomplete short right intended for Trey Sermon,3.04,2.35,18.0,2024,262
+3,2:52,3.0,7.0,JAX 33,13.0,20.0,Joe Flacco pass incomplete deep right intended for Kylen Granson,2.35,1.15,18.0,2024,262
+3,2:47,4.0,7.0,JAX 33,13.0,20.0,Matt Gay 51 yard field goal no good,1.15,-1.66,18.0,2024,262
+3,2:42,1.0,10.0,JAX 41,13.0,20.0,Mac Jones pass incomplete deep right intended for Brian Thomas,1.66,1.12,18.0,2024,262
+3,2:37,2.0,10.0,JAX 41,13.0,20.0,Mac Jones pass incomplete short left intended for Travis Etienne (defended by Kwity Paye),1.12,0.43,18.0,2024,262
+3,2:33,3.0,10.0,JAX 41,13.0,20.0,Mac Jones pass incomplete short right intended for D'Ernest Johnson,0.43,-0.65,18.0,2024,262
+3,2:28,4.0,10.0,JAX 41,13.0,20.0,"Logan Cooke punts 45 yards, returned by Anthony Gould for 5 yards (tackle by Daniel Thomas and Tim Jones)",-0.65,-0.15,18.0,2024,262
+3,2:20,1.0,10.0,IND 19,13.0,20.0,Jonathan Taylor left end for 7 yards (tackle by Andrew Wingard),0.15,0.61,18.0,2024,262
+3,1:42,2.0,3.0,IND 26,13.0,20.0,Jonathan Taylor up the middle for no gain (tackle by Devin Lloyd and Foyesade Oluokun),0.61,-0.16,18.0,2024,262
+3,1:03,3.0,3.0,IND 26,13.0,20.0,Joe Flacco pass complete short right to Josh Downs for 6 yards (tackle by Foyesade Oluokun and Jarrian Jones),-0.16,1.07,18.0,2024,262
+3,0:17,1.0,10.0,IND 32,13.0,20.0,Joe Flacco pass incomplete short right intended for Tyler Goodson (defended by Arik Armstead),1.07,0.53,18.0,2024,262
+3,0:12,2.0,10.0,IND 32,13.0,20.0,Joe Flacco pass complete short right to Jonathan Taylor for 3 yards (tackle by Foyesade Oluokun),0.53,0.23,18.0,2024,262
+4,15:00,3.0,7.0,IND 35,13.0,20.0,Joe Flacco pass incomplete deep right intended for Kylen Granson,0.23,-1.04,18.0,2024,262
+4,14:54,4.0,7.0,IND 35,13.0,20.0,"Rigoberto Sanchez punts 56 yards, returned by Devin Duvernay for 7 yards (tackle by Ashton Dulin)",-1.04,0.14,18.0,2024,262
+4,14:45,1.0,10.0,JAX 16,13.0,20.0,Tank Bigsby right tackle for 5 yards (tackle by Tyquan Lewis),-0.14,0.15,18.0,2024,262
+4,14:06,2.0,5.0,JAX 21,13.0,20.0,Tank Bigsby right tackle for 1 yard (tackle by Tyquan Lewis),0.15,-0.57,18.0,2024,262
+4,13:27,3.0,4.0,JAX 22,13.0,20.0,Mac Jones pass complete short left to Brenton Strange for 11 yards (tackle by Kenny Moore),-0.57,1.14,18.0,2024,262
+4,12:48,1.0,10.0,JAX 33,13.0,20.0,Travis Etienne right end for -7 yards (tackle by Nick Cross),1.14,-0.35,18.0,2024,262
+4,12:05,2.0,17.0,JAX 26,13.0,20.0,Mac Jones pass complete deep right to Brenton Strange for 26 yards (tackle by Jaylon Jones),-0.35,2.39,18.0,2024,262
+4,11:31,1.0,10.0,IND 48,13.0,20.0,Mac Jones pass complete short left to Brian Thomas for 9 yards (tackle by Jaylon Jones),2.39,3.06,18.0,2024,262
+4,11:03,2.0,1.0,IND 39,13.0,20.0,Travis Etienne up the middle for 3 yards (tackle by Jaylon Jones),3.06,3.18,18.0,2024,262
+4,10:39,1.0,10.0,IND 36,13.0,20.0,Travis Etienne up the middle for 4 yards (tackle by E.J. Speed),3.18,3.18,18.0,2024,262
+4,10:15,2.0,6.0,IND 32,13.0,20.0,"Penalty on Mitch Morse: False Start, 5 yards (accepted) (no play)",3.18,2.5,18.0,2024,262
+4,10:15,2.0,11.0,IND 37,13.0,20.0,Mac Jones pass incomplete short middle,2.5,1.82,18.0,2024,262
+4,10:12,3.0,11.0,IND 37,13.0,20.0,D'Ernest Johnson up the middle for 22 yards (tackle by Julian Blackmon and Jaylon Jones),1.82,4.58,18.0,2024,262
+4,9:43,1.0,10.0,IND 15,13.0,20.0,D'Ernest Johnson up the middle for 4 yards (tackle by Jaylon Jones and Zaire Franklin),4.58,4.64,18.0,2024,262
+4,9:02,2.0,6.0,IND 11,13.0,20.0,Mac Jones pass complete short right to Brian Thomas for 7 yards (tackle by Kenny Moore),4.64,6.28,18.0,2024,262
+4,8:33,1.0,4.0,IND 4,13.0,20.0,Tank Bigsby left guard for no gain (tackle by Zaire Franklin and Grover Stewart),6.28,5.34,18.0,2024,262
+4,7:57,2.0,4.0,IND 4,13.0,20.0,"Penalty on Luke Farrell: False Start, 5 yards (accepted) (no play)",5.34,4.38,18.0,2024,262
+4,7:57,2.0,9.0,IND 9,19.0,20.0,"Mac Jones pass complete short right to Parker Washington for 9 yards. Parker Washington fumbles (forced by Zaire Franklin), recovered by Parker Washington at IND-1, touchdown Replay Assistant challenged the runner broke the plane ruling, and the play was upheld.",4.38,7.0,18.0,2024,262
+4,7:50,,,IND 15,20.0,20.0,Cam Little kicks extra point good,0.0,0.0,18.0,2024,262
+4,7:50,,,JAX 35,20.0,20.0,"Cam Little kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,262
+4,7:50,1.0,10.0,IND 30,20.0,20.0,Jonathan Taylor left tackle for 17 yards (tackle by Darnell Savage),0.94,2.06,18.0,2024,262
+4,7:09,1.0,10.0,IND 47,20.0,20.0,Jonathan Taylor left tackle for 4 yards (tackle by DaVon Hamilton),2.06,2.06,18.0,2024,262
+4,6:37,2.0,6.0,JAX 49,20.0,20.0,Joe Flacco pass complete short right to Josh Downs for 18 yards (tackle by Darnell Savage),2.06,3.51,18.0,2024,262
+4,5:59,1.0,10.0,JAX 31,20.0,20.0,Jonathan Taylor up the middle for 1 yard (tackle by DaVon Hamilton),3.51,3.1,18.0,2024,262
+4,5:19,2.0,9.0,JAX 30,20.0,20.0,Jonathan Taylor up the middle for 2 yards (tackle by Foyesade Oluokun and DaVon Hamilton),3.1,2.68,18.0,2024,262
+4,4:44,3.0,7.0,JAX 28,20.0,20.0,Joe Flacco pass complete short right to Michael Pittman for 6 yards (tackle by Deantre Prince and Antonio Johnson),2.68,2.14,18.0,2024,262
+4,3:57,4.0,1.0,JAX 22,20.0,20.0,"Penalty on Joe Flacco: Delay of Game, 5 yards (accepted) (no play)",2.14,1.7,18.0,2024,262
+4,3:57,4.0,6.0,JAX 27,20.0,23.0,Matt Gay 45 yard field goal good,1.7,3.0,18.0,2024,262
+4,3:52,,,IND 35,20.0,23.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,262
+4,3:52,1.0,10.0,JAX 30,20.0,23.0,Travis Etienne left guard for 2 yards (tackle by Grover Stewart and Nick Cross),0.94,0.66,18.0,2024,262
+4,3:27,2.0,8.0,JAX 32,20.0,23.0,Mac Jones pass complete short left to Travis Etienne for 14 yards (tackle by Kenny Moore and Zaire Franklin),0.66,1.99,18.0,2024,262
+4,3:01,1.0,10.0,JAX 46,20.0,23.0,Mac Jones scrambles left tackle for 12 yards (tackle by Nick Cross),1.99,2.79,18.0,2024,262
+4,2:25,1.0,10.0,IND 42,20.0,23.0,Tank Bigsby up the middle for 2 yards (tackle by Dayo Odeyingbo and Kenny Moore),2.79,2.51,18.0,2024,262
+4,2:00,2.0,8.0,IND 40,20.0,23.0,Mac Jones pass incomplete short left intended for Josh Reynolds (defended by E.J. Speed),2.51,1.82,18.0,2024,262
+4,1:56,3.0,8.0,IND 40,20.0,23.0,Mac Jones pass complete short right to Brian Thomas for 5 yards (tackle by Samuel Womack and E.J. Speed),1.82,0.99,18.0,2024,262
+4,1:49,4.0,3.0,IND 35,23.0,23.0,Cam Little 53 yard field goal good,0.99,3.0,18.0,2024,262
+4,1:44,,,JAX 35,23.0,23.0,"Cam Little kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,262
+4,1:44,1.0,10.0,IND 30,23.0,23.0,Jonathan Taylor left tackle for 3 yards (tackle by Travon Walker and DaVon Hamilton),0.94,0.8,18.0,2024,262
+4,1:14,2.0,7.0,IND 33,23.0,23.0,Joe Flacco pass complete short right to Josh Downs for 6 yards (tackle by Deantre Prince),0.8,0.89,18.0,2024,262
+4,0:41,3.0,1.0,IND 39,23.0,23.0,Jonathan Taylor up the middle for 4 yards (tackle by Maason Smith),0.89,1.8,18.0,2024,262
+4,0:38,,,,,,Timeout #1 by Indianapolis Colts,,,18.0,2024,262
+4,0:38,1.0,10.0,IND 43,23.0,23.0,Joe Flacco pass incomplete short right intended for Jonathan Taylor,1.8,1.25,18.0,2024,262
+4,0:34,2.0,10.0,IND 43,23.0,23.0,Joe Flacco pass complete short left to Kylen Granson for 7 yards (tackle by Tyson Campbell),1.25,1.49,18.0,2024,262
+4,0:28,3.0,3.0,IND 50,23.0,23.0,Joe Flacco sacked by Travon Walker for -4 yards,1.49,-0.32,18.0,2024,262
+4,0:22,,,,,,Timeout #1 by Jacksonville Jaguars,,,18.0,2024,262
+4,0:22,4.0,7.0,IND 46,23.0,23.0,Rigoberto Sanchez punts 39 yards out of bounds,-0.32,0.22,18.0,2024,262
+4,0:15,1.0,10.0,JAX 15,23.0,23.0,Mac Jones kneels for -1 yards,-0.22,0.0,18.0,2024,262
+,,,,,,,"Colts won the coin toss, Colts to receive the overtime kickoff.",,,18.0,2024,262
+OT,10:00,,,JAX 35,23.0,23.0,"Cam Little kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,262
+OT,10:00,1.0,10.0,IND 30,23.0,23.0,Joe Flacco pass incomplete deep right intended for Michael Pittman,0.94,0.39,18.0,2024,262
+OT,9:53,2.0,10.0,IND 30,23.0,23.0,Joe Flacco pass incomplete short right intended for Josh Downs (defended by Maason Smith),0.39,-0.3,18.0,2024,262
+OT,9:49,3.0,10.0,IND 30,23.0,23.0,Joe Flacco pass complete deep left to Alec Pierce for 17 yards (tackle by Tyson Campbell),-0.3,2.06,18.0,2024,262
+OT,9:12,1.0,10.0,IND 47,23.0,23.0,Jonathan Taylor up the middle for 6 yards (tackle by Andrew Wingard and Tyson Campbell),2.06,2.33,18.0,2024,262
+OT,8:40,2.0,4.0,JAX 47,23.0,23.0,Jonathan Taylor left tackle for 11 yards (tackle by Andrew Wingard and Darnell Savage),2.33,3.18,18.0,2024,262
+OT,8:13,1.0,10.0,JAX 36,23.0,23.0,Jonathan Taylor left tackle for 4 yards (tackle by Travon Walker and Jeremiah Ledbetter),3.18,3.18,18.0,2024,262
+OT,7:35,2.0,6.0,JAX 32,23.0,23.0,Jonathan Taylor left guard for 7 yards (tackle by Jeremiah Ledbetter),3.18,3.91,18.0,2024,262
+OT,6:55,1.0,10.0,JAX 25,23.0,23.0,Jonathan Taylor left end for 7 yards (tackle by Andrew Wingard),3.91,4.37,18.0,2024,262
+OT,6:12,2.0,3.0,JAX 18,23.0,23.0,Jonathan Taylor left tackle for -2 yards (tackle by Devin Lloyd),4.37,3.34,18.0,2024,262
+OT,5:33,3.0,5.0,JAX 20,23.0,23.0,Joe Flacco pass incomplete deep left intended for Josh Downs (defended by Jarrian Jones),3.34,2.17,18.0,2024,262
+OT,5:27,4.0,5.0,JAX 20,23.0,26.0,Matt Gay 38 yard field goal good,2.17,3.0,18.0,2024,262
+OT,5:23,,,IND 35,23.0,26.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,18.0,2024,262
+OT,5:23,1.0,10.0,JAX 30,23.0,26.0,Tank Bigsby up the middle for 1 yard (tackle by E.J. Speed),0.94,0.53,18.0,2024,262
+OT,4:38,2.0,9.0,JAX 31,23.0,26.0,Mac Jones pass complete short left to Tank Bigsby for 3 yards (tackle by Kenny Moore and Jaylon Jones),0.53,0.23,18.0,2024,262
+OT,4:02,3.0,6.0,JAX 34,23.0,26.0,Mac Jones sacked by Zaire Franklin for -16 yards,0.23,-2.24,18.0,2024,262
+OT,3:20,,,,,,Timeout #1 by Jacksonville Jaguars,,,18.0,2024,262
+OT,3:20,4.0,22.0,JAX 18,23.0,26.0,Mac Jones pass complete deep right to Brian Thomas for 20 yards (tackle by Samuel Womack),-2.24,0.0,18.0,2024,262

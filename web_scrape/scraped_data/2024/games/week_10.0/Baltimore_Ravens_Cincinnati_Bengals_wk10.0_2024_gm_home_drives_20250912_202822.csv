@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,9:23,BAL 30,3,1:29,6,Punt,1,Ravens,10.0,2024,139
+2,1,2:56,BAL 41,9,4:52,59,Touchdown,1,Ravens,10.0,2024,139
+3,2,11:28,BAL 16,3,2:14,4,Punt,1,Ravens,10.0,2024,139
+4,2,5:32,BAL 20,3,1:30,5,Punt,1,Ravens,10.0,2024,139
+5,2,0:30,BAL 30,4,0:30,23,End of Half,1,Ravens,10.0,2024,139
+6,3,15:00,BAL 30,3,1:39,2,Punt,1,Ravens,10.0,2024,139
+7,3,13:09,BAL 28,6,4:11,8,Punt,1,Ravens,10.0,2024,139
+8,3,6:58,CIN 31,5,2:46,31,Touchdown,1,Ravens,10.0,2024,139
+9,4,14:44,BAL 8,3,1:14,92,Touchdown,1,Ravens,10.0,2024,139
+10,4,9:24,BAL 35,7,3:34,65,Touchdown,1,Ravens,10.0,2024,139
+11,4,5:37,BAL 30,11,3:48,70,Touchdown,1,Ravens,10.0,2024,139
+12,4,0:38,CIN 42,1,0:38,-1,End of Game,1,Ravens,10.0,2024,139

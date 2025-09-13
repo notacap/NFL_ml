@@ -1,0 +1,177 @@
+Quarter,Time,Down,ToGo,Location,PHI,KAN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Eagles won the coin toss and deferred, Chiefs to receive the opening kickoff.",,,11.0,2023,164
+1.0,15:00,,,PHI 35,0.0,0.0,"Jake Elliott kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,164
+1.0,15:00,1.0,10.0,KAN 25,0.0,0.0,Patrick Mahomes pass incomplete short right intended for Noah Gray,0.61,0.06,11.0,2023,164
+1.0,14:55,2.0,10.0,KAN 25,0.0,0.0,Patrick Mahomes sacked by Haason Reddick for -9 yards,0.06,-2.14,11.0,2023,164
+1.0,14:13,3.0,19.0,KAN 16,0.0,0.0,Patrick Mahomes pass complete short right to Jerick McKinnon for 4 yards (tackle by Bradley Roby),-2.14,-2.03,11.0,2023,164
+1.0,13:39,4.0,15.0,KAN 20,0.0,0.0,Tommy Townsend punts 37 yards out of bounds,-2.03,-1.8,11.0,2023,164
+1.0,13:31,1.0,10.0,PHI 43,0.0,0.0,D'Andre Swift right end for 3 yards (tackle by Drue Tranquill),1.8,1.66,11.0,2023,164
+1.0,12:50,2.0,7.0,PHI 46,0.0,0.0,D'Andre Swift left end for 1 yard (tackle by Leo Chenal),1.66,1.09,11.0,2023,164
+1.0,12:06,3.0,6.0,PHI 47,0.0,0.0,Jalen Hurts sacked by Trent McDuffie for -7 yards,1.09,-0.72,11.0,2023,164
+1.0,11:30,4.0,13.0,PHI 40,0.0,0.0,Braden Mann punts 40 yards downed by Ben VanSumeren,-0.72,-0.28,11.0,2023,164
+1.0,11:17,1.0,10.0,KAN 20,0.0,0.0,Isiah Pacheco right guard for 3 yards (tackle by Milton Williams and Fletcher Cox),0.28,0.14,11.0,2023,164
+1.0,10:44,2.0,7.0,KAN 23,0.0,0.0,Isiah Pacheco right end for 24 yards (tackle by Reed Blankenship),0.14,2.06,11.0,2023,164
+1.0,10:25,1.0,10.0,KAN 47,0.0,0.0,Kadarius Toney right end for 14 yards (tackle by Darius Slay and Reed Blankenship),2.06,2.98,11.0,2023,164
+1.0,9:46,1.0,10.0,PHI 39,0.0,0.0,Patrick Mahomes pass complete short right to Mecole Hardman for 5 yards (tackle by Darius Slay),2.98,3.12,11.0,2023,164
+1.0,9:09,2.0,5.0,PHI 34,0.0,0.0,Isiah Pacheco right end for -2 yards (tackle by Milton Williams),3.12,2.15,11.0,2023,164
+1.0,8:28,3.0,7.0,PHI 36,0.0,0.0,Patrick Mahomes pass complete short middle to Kadarius Toney for 7 yards (tackle by Bradley Roby),2.15,3.64,11.0,2023,164
+1.0,7:56,1.0,10.0,PHI 29,0.0,0.0,"Penalty on Josh Sweat: Neutral Zone Infraction, 5 yards (accepted) (no play)",3.64,4.37,11.0,2023,164
+1.0,7:39,1.0,5.0,PHI 24,0.0,0.0,Patrick Mahomes pass complete short right to Rashee Rice for 14 yards (tackle by Kevin Byard),4.37,4.91,11.0,2023,164
+1.0,6:58,1.0,10.0,PHI 10,0.0,0.0,Kadarius Toney left end for no gain (tackle by Haason Reddick and Josh Sweat),4.91,4.19,11.0,2023,164
+1.0,6:19,2.0,10.0,PHI 10,0.0,0.0,Isiah Pacheco right end for 7 yards (tackle by Nicholas Morrow),4.19,4.72,11.0,2023,164
+1.0,5:40,3.0,3.0,PHI 3,0.0,6.0,"Patrick Mahomes pass complete short left to Justin Watson for 3 yards, touchdown",4.72,7.0,11.0,2023,164
+1.0,5:34,,,PHI 15,0.0,7.0,Harrison Butker kicks extra point good,0.0,0.0,11.0,2023,164
+1.0,5:34,,,KAN 35,0.0,7.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,164
+1.0,5:34,1.0,10.0,PHI 25,0.0,7.0,Jalen Hurts pass complete deep right to DeVonta Smith for 20 yards,0.61,1.93,11.0,2023,164
+1.0,4:54,1.0,10.0,PHI 45,0.0,7.0,D'Andre Swift left guard for 7 yards (tackle by Bryan Cook and L'Jarius Sneed),1.93,2.33,11.0,2023,164
+1.0,4:07,2.0,3.0,KAN 48,0.0,7.0,Jalen Hurts left end for 6 yards (tackle by Justin Reid),2.33,2.79,11.0,2023,164
+1.0,3:31,,,,,,Timeout #1 by Kansas City Chiefs,,,11.0,2023,164
+1.0,3:31,1.0,10.0,KAN 42,0.0,7.0,D'Andre Swift up the middle for 3 yards (tackle by Matt Dickerson and Drue Tranquill),2.79,2.65,11.0,2023,164
+1.0,2:53,2.0,7.0,KAN 39,0.0,7.0,"Jalen Hurts pass complete short right to D'Andre Swift for no gain (tackle by Drue Tranquill). Penalty on L'Jarius Sneed: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",2.65,3.31,11.0,2023,164
+1.0,2:33,1.0,10.0,KAN 34,0.0,7.0,D'Andre Swift left guard for 2 yards (tackle by Michael Danna),3.31,3.04,11.0,2023,164
+1.0,2:04,2.0,8.0,KAN 32,0.0,7.0,Jalen Hurts pass complete short left to DeVonta Smith for 11 yards (tackle by Justin Reid),3.04,4.17,11.0,2023,164
+1.0,1:18,1.0,10.0,KAN 21,0.0,7.0,Jalen Hurts pass incomplete deep right,4.17,3.63,11.0,2023,164
+1.0,1:11,2.0,10.0,KAN 21,0.0,7.0,D'Andre Swift left end for 17 yards (tackle by Michael Danna),3.63,6.28,11.0,2023,164
+1.0,0:36,1.0,4.0,KAN 4,6.0,7.0,"D'Andre Swift right end for 4 yards, touchdown",6.28,7.0,11.0,2023,164
+1.0,0:31,,,KAN 15,7.0,7.0,Jake Elliott kicks extra point good,0.0,0.0,11.0,2023,164
+1.0,0:31,,,PHI 35,7.0,7.0,"Jake Elliott kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,164
+1.0,0:31,1.0,10.0,KAN 25,7.0,7.0,Isiah Pacheco left tackle for no gain (tackle by Milton Williams and Jordan Davis),0.61,0.06,11.0,2023,164
+2.0,15:00,2.0,10.0,KAN 25,7.0,7.0,Isiah Pacheco left end for 1 yard (tackle by Josh Sweat),0.06,-0.49,11.0,2023,164
+2.0,14:22,3.0,9.0,KAN 26,7.0,7.0,"Patrick Mahomes scrambles up the middle for 2 yards (tackle by Jalen Carter). Penalty on Donovan Smith: Offensive Holding, 10 yards (declined)",-0.49,-1.5,11.0,2023,164
+2.0,14:12,4.0,7.0,KAN 28,7.0,7.0,"Tommy Townsend punts 41 yards, returned by Britain Covey for 8 yards (tackle by Noah Gray)",-1.5,-1.53,11.0,2023,164
+2.0,14:02,1.0,10.0,PHI 39,7.0,7.0,Jalen Hurts pass complete short right to A.J. Brown for 8 yards (tackle by L'Jarius Sneed),1.53,2.07,11.0,2023,164
+2.0,13:26,2.0,2.0,PHI 47,7.0,7.0,Boston Scott right tackle for 4 yards (tackle by Felix Anudike-Uzomah and Drue Tranquill),2.07,2.32,11.0,2023,164
+2.0,12:43,1.0,10.0,KAN 49,7.0,7.0,Kenneth Gainwell left guard for 1 yard (tackle by Willie Gay),2.32,1.92,11.0,2023,164
+2.0,11:59,2.0,9.0,KAN 48,7.0,7.0,Jalen Hurts pass deep left intended for A.J. Brown is intercepted by L'Jarius Sneed at KC-30 and returned for no gain (tackle by A.J. Brown),1.92,-0.94,11.0,2023,164
+2.0,11:55,1.0,10.0,KAN 30,7.0,7.0,Patrick Mahomes scrambles right guard for 3 yards (tackle by Kevin Byard),0.94,0.8,11.0,2023,164
+2.0,11:16,2.0,7.0,KAN 33,7.0,7.0,Patrick Mahomes scrambles right end for 3 yards (tackle by Zach Cunningham),0.8,0.5,11.0,2023,164
+2.0,10:32,3.0,4.0,KAN 36,7.0,7.0,Patrick Mahomes pass complete short right to Justin Watson for 13 yards (tackle by Sydney Brown),0.5,2.19,11.0,2023,164
+2.0,9:53,1.0,10.0,KAN 49,7.0,7.0,Isiah Pacheco right guard for 9 yards (tackle by Reed Blankenship),2.19,2.86,11.0,2023,164
+2.0,9:15,2.0,1.0,PHI 42,7.0,7.0,Isiah Pacheco left guard for 2 yards (tackle by Milton Williams),2.86,2.92,11.0,2023,164
+2.0,8:33,1.0,10.0,PHI 40,7.0,7.0,Patrick Mahomes pass complete short middle to Travis Kelce for 7 yards (tackle by Kevin Byard),2.92,3.32,11.0,2023,164
+2.0,7:56,2.0,3.0,PHI 33,7.0,7.0,Patrick Mahomes scrambles right end for 7 yards (tackle by Darius Slay),3.32,3.84,11.0,2023,164
+2.0,7:25,1.0,10.0,PHI 26,7.0,7.0,Clyde Edwards-Helaire left end for 12 yards (tackle by Nicholas Morrow),3.84,4.65,11.0,2023,164
+2.0,6:51,,,,,,Timeout #2 by Kansas City Chiefs,,,11.0,2023,164
+2.0,6:51,1.0,10.0,PHI 14,7.0,7.0,Patrick Mahomes pass short left intended for Justin Watson is intercepted by Kevin Byard in end zone and returned for no gain,4.65,-0.28,11.0,2023,164
+2.0,6:45,1.0,10.0,PHI 20,7.0,7.0,D'Andre Swift right guard for 10 yards (tackle by Charles Omenihu),0.28,0.94,11.0,2023,164
+2.0,6:08,1.0,10.0,PHI 30,7.0,7.0,Jalen Hurts sacked by Chris Jones for -7 yards,0.94,-0.55,11.0,2023,164
+2.0,5:23,2.0,17.0,PHI 23,7.0,7.0,Jalen Hurts pass complete short right to Jack Stoll for 3 yards (tackle by Leo Chenal),-0.55,-0.82,11.0,2023,164
+2.0,4:37,3.0,14.0,PHI 26,7.0,7.0,Jalen Hurts sacked by Chris Jones for -3 yards,-0.82,-1.83,11.0,2023,164
+2.0,4:04,4.0,17.0,PHI 23,7.0,7.0,"Braden Mann punts 43 yards, returned by Kadarius Toney for 21 yards (tackle by Sydney Brown)",-1.83,-2.59,11.0,2023,164
+2.0,3:49,1.0,10.0,PHI 45,7.0,7.0,Isiah Pacheco right guard for 3 yards (tackle by Zach Cunningham),2.59,2.45,11.0,2023,164
+2.0,3:11,2.0,7.0,PHI 42,7.0,7.0,Patrick Mahomes pass incomplete short left intended for Justin Watson,2.45,1.75,11.0,2023,164
+2.0,3:08,3.0,7.0,PHI 42,7.0,7.0,"Patrick Mahomes pass incomplete deep right intended for Travis Kelce. Penalty on Josh Sweat: Defensive Offside, 5 yards (accepted) (no play)",1.75,2.41,11.0,2023,164
+2.0,3:02,3.0,2.0,PHI 37,7.0,7.0,Isiah Pacheco left tackle for 12 yards (tackle by Reed Blankenship),2.41,3.91,11.0,2023,164
+2.0,2:23,1.0,10.0,PHI 25,7.0,7.0,Patrick Mahomes scrambles left end for 14 yards (tackle by Josh Sweat),3.91,4.84,11.0,2023,164
+2.0,2:00,1.0,10.0,PHI 11,7.0,7.0,Isiah Pacheco left guard for 3 yards (tackle by Milton Williams),4.84,4.7,11.0,2023,164
+2.0,1:55,,,,,,Timeout #1 by Philadelphia Eagles,,,11.0,2023,164
+2.0,1:55,2.0,7.0,PHI 8,7.0,7.0,Isiah Pacheco left guard for 4 yards (tackle by Josh Sweat and Jordan Davis),4.7,4.67,11.0,2023,164
+2.0,1:49,,,,,,Timeout #2 by Philadelphia Eagles,,,11.0,2023,164
+2.0,1:49,3.0,3.0,PHI 4,7.0,13.0,"Patrick Mahomes pass complete short left to Travis Kelce for 4 yards, touchdown",4.67,7.0,11.0,2023,164
+2.0,1:45,,,PHI 15,7.0,14.0,Harrison Butker kicks extra point good,0.0,0.0,11.0,2023,164
+2.0,1:45,,,KAN 35,7.0,14.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,164
+2.0,1:45,1.0,10.0,PHI 25,7.0,14.0,"Jalen Hurts sacked by Trent McDuffie for -9 yards. Jalen Hurts fumbles (forced by Trent McDuffie), recovered by Jalen Hurts at PHI-16 (tackle by Trent McDuffie and George Karlaftis)",0.61,-1.29,11.0,2023,164
+2.0,1:04,2.0,19.0,PHI 16,7.0,14.0,Jalen Hurts pass complete short left to Kenneth Gainwell for 4 yards (tackle by Drue Tranquill),-1.29,-1.29,11.0,2023,164
+2.0,0:58,3.0,15.0,PHI 20,7.0,14.0,Jalen Hurts sacked by George Karlaftis for no gain,-1.29,-2.03,11.0,2023,164
+2.0,0:54,,,,,,Timeout #3 by Kansas City Chiefs,,,11.0,2023,164
+2.0,0:54,4.0,15.0,PHI 20,7.0,14.0,"Braden Mann punts 42 yards, returned by Kadarius Toney for 16 yards (tackle by Reed Blankenship)",-2.03,-2.52,11.0,2023,164
+2.0,0:44,1.0,10.0,PHI 46,7.0,14.0,"Penalty on Jawaan Taylor: False Start, 5 yards (accepted) (no play)",2.52,2.19,11.0,2023,164
+2.0,0:44,1.0,15.0,KAN 49,7.0,14.0,Patrick Mahomes pass incomplete short right,2.19,1.3,11.0,2023,164
+2.0,0:39,2.0,15.0,KAN 49,7.0,14.0,Patrick Mahomes pass incomplete short middle intended for Justin Watson,1.3,0.63,11.0,2023,164
+2.0,0:34,3.0,15.0,KAN 49,7.0,14.0,Patrick Mahomes pass complete deep middle to Justin Watson for 17 yards (tackle by Bradley Roby),0.63,1.2,11.0,2023,164
+2.0,0:19,1.0,10.0,KAN 34,7.0,14.0,"Patrick Mahomes spiked the ball. Penalty on Jalen Carter: Encroachment, 5 yards (accepted) (no play)",1.2,4.04,11.0,2023,164
+2.0,0:19,1.0,5.0,PHI 29,7.0,14.0,Patrick Mahomes pass complete short left to Jerick McKinnon for 4 yards (tackle by Zach Cunningham and Jalen Carter),4.04,3.99,11.0,2023,164
+2.0,0:03,2.0,1.0,PHI 25,7.0,14.0,Patrick Mahomes spiked the ball,3.99,3.27,11.0,2023,164
+2.0,0:02,3.0,1.0,PHI 25,7.0,17.0,Harrison Butker 43 yard field goal good,3.27,3.0,11.0,2023,164
+3.0,15:00,,,KAN 35,7.0,17.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,164
+3.0,15:00,1.0,10.0,PHI 25,7.0,17.0,Boston Scott right end for 4 yards (tackle by George Karlaftis),0.61,0.6,11.0,2023,164
+3.0,14:26,2.0,6.0,PHI 29,7.0,17.0,D'Andre Swift right end for -1 yards (tackle by Chris Jones),0.6,-0.23,11.0,2023,164
+3.0,13:44,3.0,7.0,PHI 28,7.0,17.0,Jalen Hurts up the middle for -2 yards (tackle by Chris Jones),-0.23,-1.63,11.0,2023,164
+3.0,13:10,4.0,9.0,PHI 26,7.0,17.0,"Braden Mann punts 63 yards, returned by Kadarius Toney for 10 yards (tackle by Ben VanSumeren)",-1.63,-0.34,11.0,2023,164
+3.0,12:58,1.0,10.0,KAN 21,7.0,17.0,Isiah Pacheco left end for 15 yards (tackle by Reed Blankenship),0.34,1.33,11.0,2023,164
+3.0,12:27,1.0,10.0,KAN 36,7.0,17.0,"Isiah Pacheco right end for no gain (tackle by Reed Blankenship). Penalty on Trey Smith: Offensive Holding, 10 yards (accepted) (no play)",1.33,0.67,11.0,2023,164
+3.0,12:04,1.0,20.0,KAN 26,7.0,17.0,Clyde Edwards-Helaire left guard for 8 yards (tackle by Reed Blankenship and Haason Reddick),0.67,0.52,11.0,2023,164
+3.0,11:20,2.0,12.0,KAN 34,7.0,17.0,Patrick Mahomes scrambles up the middle for 9 yards (tackle by Nicholas Morrow),0.52,1.03,11.0,2023,164
+3.0,10:37,3.0,3.0,KAN 43,7.0,17.0,Patrick Mahomes pass incomplete deep right intended for Travis Kelce,1.03,-0.52,11.0,2023,164
+3.0,10:29,4.0,3.0,KAN 43,7.0,17.0,Tommy Townsend punts 32 yards out of bounds,-0.52,-0.61,11.0,2023,164
+3.0,10:22,1.0,10.0,PHI 25,7.0,17.0,Jalen Hurts pass incomplete deep right intended for A.J. Brown,0.61,0.06,11.0,2023,164
+3.0,10:17,2.0,10.0,PHI 25,7.0,17.0,Jalen Hurts pass complete short left to D'Andre Swift for 9 yards (tackle by Justin Reid),0.06,0.56,11.0,2023,164
+3.0,9:48,3.0,1.0,PHI 34,7.0,17.0,D'Andre Swift right guard for -3 yards (tackle by Willie Gay),0.56,-1.31,11.0,2023,164
+3.0,9:11,4.0,4.0,PHI 31,7.0,17.0,"Braden Mann punts 44 yards, returned by Kadarius Toney for 4 yards (tackle by Jack Stoll)",-1.31,-0.87,11.0,2023,164
+3.0,8:59,1.0,10.0,KAN 29,7.0,17.0,Isiah Pacheco right guard for no gain (tackle by Jordan Davis and Nicholas Morrow),0.87,0.33,11.0,2023,164
+3.0,8:21,2.0,10.0,KAN 29,7.0,17.0,Patrick Mahomes pass complete short left to Travis Kelce for 8 yards (tackle by Kevin Byard),0.33,0.7,11.0,2023,164
+3.0,7:38,3.0,2.0,KAN 37,7.0,17.0,"Penalty on Jawaan Taylor: False Start, 5 yards (accepted) (no play)",0.7,0.04,11.0,2023,164
+3.0,7:15,3.0,7.0,KAN 32,7.0,17.0,Patrick Mahomes pass incomplete deep right intended for Justin Watson,0.04,-1.24,11.0,2023,164
+3.0,7:11,4.0,7.0,KAN 32,7.0,17.0,"Tommy Townsend punts 55 yards, returned by Britain Covey for 26 yards (tackle by Leo Chenal)",-1.24,-1.53,11.0,2023,164
+3.0,6:58,1.0,10.0,PHI 39,7.0,17.0,Jalen Hurts pass incomplete short right intended for DeVonta Smith,1.53,0.99,11.0,2023,164
+3.0,6:54,2.0,10.0,PHI 39,7.0,17.0,Jalen Hurts pass complete short right to DeVonta Smith for 9 yards (tackle by Mike Edwards),0.99,1.49,11.0,2023,164
+3.0,6:24,3.0,1.0,PHI 48,7.0,17.0,Jalen Hurts up the middle for 2 yards (tackle by Drue Tranquill),1.49,2.26,11.0,2023,164
+3.0,5:42,1.0,10.0,PHI 50,7.0,17.0,D'Andre Swift left end for 35 yards (tackle by Trent McDuffie),2.26,4.58,11.0,2023,164
+3.0,4:55,1.0,10.0,KAN 15,7.0,17.0,Jalen Hurts pass incomplete short right intended for A.J. Brown,4.58,3.95,11.0,2023,164
+3.0,4:51,2.0,10.0,KAN 15,7.0,17.0,Jalen Hurts pass complete short right to DeVonta Smith for 5 yards (tackle by Justin Reid),3.95,4.0,11.0,2023,164
+3.0,4:09,3.0,5.0,KAN 10,13.0,17.0,"Jalen Hurts right guard for 10 yards, touchdown",4.0,7.0,11.0,2023,164
+3.0,4:05,,,KAN 15,14.0,17.0,Jake Elliott kicks extra point good,0.0,0.0,11.0,2023,164
+3.0,4:05,,,PHI 35,14.0,17.0,"Jake Elliott kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,164
+3.0,4:05,1.0,10.0,KAN 25,14.0,17.0,Patrick Mahomes pass complete short left to Rashee Rice for 17 yards (tackle by Zach Cunningham),0.61,1.73,11.0,2023,164
+3.0,3:34,1.0,10.0,KAN 42,14.0,17.0,"Isiah Pacheco right end for no gain (tackle by James Bradberry). Penalty on Travis Kelce: Offensive Holding, 10 yards (accepted) (no play)",1.73,1.07,11.0,2023,164
+3.0,3:11,1.0,20.0,KAN 32,14.0,17.0,Patrick Mahomes pass complete short left to Rashee Rice for 6 yards (tackle by Darius Slay),1.07,0.65,11.0,2023,164
+3.0,2:32,2.0,14.0,KAN 38,14.0,17.0,"Patrick Mahomes pass incomplete deep left intended for Marquez Valdes-Scantling. Penalty on Darius Slay: Defensive Pass Interference, 16 yards (accepted) (no play)",0.65,2.52,11.0,2023,164
+3.0,2:28,1.0,10.0,PHI 46,14.0,17.0,Isiah Pacheco right guard for 2 yards (tackle by Kevin Byard),2.52,2.25,11.0,2023,164
+3.0,1:46,2.0,8.0,PHI 44,14.0,17.0,Patrick Mahomes pass incomplete deep right intended for Marquez Valdes-Scantling,2.25,1.55,11.0,2023,164
+3.0,1:40,3.0,8.0,PHI 44,14.0,17.0,"Patrick Mahomes pass incomplete short left intended for Kadarius Toney. Penalty on Eli Ricks: Illegal Contact, 5 yards (accepted) (no play)",1.55,2.98,11.0,2023,164
+3.0,1:34,1.0,10.0,PHI 39,14.0,17.0,Patrick Mahomes pass incomplete short left intended for Skyy Moore (defended by Kevin Byard),2.98,2.44,11.0,2023,164
+3.0,1:27,2.0,10.0,PHI 39,14.0,17.0,Patrick Mahomes pass complete short left to Mecole Hardman for 7 yards (tackle by Zach Cunningham),2.44,2.68,11.0,2023,164
+3.0,0:47,3.0,3.0,PHI 32,14.0,17.0,Jerick McKinnon right guard for 7 yards (tackle by Reed Blankenship),2.68,3.91,11.0,2023,164
+3.0,0:10,1.0,10.0,PHI 25,14.0,17.0,Isiah Pacheco right end for no gain (tackle by Haason Reddick),3.91,3.36,11.0,2023,164
+4.0,15:00,2.0,10.0,PHI 25,14.0,17.0,Patrick Mahomes pass complete short left to Travis Kelce for 4 yards (tackle by Nicholas Morrow),3.36,3.2,11.0,2023,164
+4.0,14:37,3.0,6.0,PHI 21,14.0,17.0,Patrick Mahomes pass complete short right to Kadarius Toney for 5 yards (tackle by Kevin Byard),3.2,2.53,11.0,2023,164
+4.0,14:00,4.0,1.0,PHI 16,14.0,17.0,Isiah Pacheco up the middle for 2 yards (tackle by Zach Cunningham),2.53,4.65,11.0,2023,164
+4.0,13:21,1.0,10.0,PHI 14,14.0,17.0,"Patrick Mahomes pass complete short left to Travis Kelce for 4 yards. Travis Kelce fumbles (forced by Bradley Roby), recovered by Nicholas Morrow at PHI-10",4.65,0.38,11.0,2023,164
+4.0,13:15,1.0,10.0,PHI 10,14.0,17.0,Jalen Hurts pass incomplete short left intended for DeVonta Smith (defended by L'Jarius Sneed),-0.38,-0.78,11.0,2023,164
+4.0,13:10,2.0,10.0,PHI 10,14.0,17.0,Jalen Hurts pass complete short right to Julio Jones for no gain (tackle by Justin Reid),-0.78,-1.42,11.0,2023,164
+4.0,12:28,3.0,10.0,PHI 10,14.0,17.0,Jalen Hurts scrambles left end for 5 yards (tackle by Mike Edwards),-1.42,-2.44,11.0,2023,164
+4.0,11:52,4.0,5.0,PHI 15,14.0,17.0,"Braden Mann punts 55 yards, returned by Kadarius Toney for 7 yards (tackle by Josh Jobe)",-2.44,-1.4,11.0,2023,164
+4.0,11:38,1.0,10.0,KAN 37,14.0,17.0,Isiah Pacheco right end for 1 yard (tackle by Marlon Tuipulotu),1.4,0.99,11.0,2023,164
+4.0,10:55,2.0,9.0,KAN 38,14.0,17.0,Patrick Mahomes pass incomplete short right intended for Rashee Rice (defended by Darius Slay),0.99,0.3,11.0,2023,164
+4.0,10:52,3.0,9.0,KAN 38,14.0,17.0,Patrick Mahomes pass complete deep left to Justin Watson for 17 yards (tackle by Sydney Brown),0.3,2.59,11.0,2023,164
+4.0,10:20,1.0,10.0,PHI 45,14.0,17.0,Patrick Mahomes pass complete short left to Isiah Pacheco for 2 yards (tackle by Zach Cunningham),2.59,2.31,11.0,2023,164
+4.0,9:45,2.0,8.0,PHI 43,14.0,17.0,Patrick Mahomes pass complete short right to Skyy Moore for 4 yards (tackle by Bradley Roby),2.31,2.15,11.0,2023,164
+4.0,9:07,3.0,4.0,PHI 39,14.0,17.0,Patrick Mahomes pass incomplete short middle intended for Justin Watson,2.15,0.66,11.0,2023,164
+4.0,9:04,4.0,4.0,PHI 39,14.0,17.0,"Tommy Townsend punts 39 yards, touchback.",0.66,-0.28,11.0,2023,164
+4.0,8:56,1.0,10.0,PHI 20,14.0,17.0,Jalen Hurts pass incomplete short right intended for Olamide Zaccheaus (defended by Trent McDuffie),0.28,-0.27,11.0,2023,164
+4.0,8:53,2.0,10.0,PHI 20,14.0,17.0,Jalen Hurts pass complete short left to D'Andre Swift for 20 yards (tackle by Willie Gay),-0.27,1.6,11.0,2023,164
+4.0,8:19,1.0,10.0,PHI 40,14.0,17.0,Jalen Hurts pass complete short right to Julio Jones for 5 yards (tackle by L'Jarius Sneed),1.6,1.73,11.0,2023,164
+4.0,7:39,2.0,5.0,PHI 45,14.0,17.0,Jalen Hurts pass incomplete short right intended for Jack Stoll,1.73,1.03,11.0,2023,164
+4.0,7:33,3.0,5.0,PHI 45,14.0,17.0,Jalen Hurts pass complete short middle to DeVonta Smith for 13 yards (tackle by Jaylen Watson),1.03,2.79,11.0,2023,164
+4.0,6:55,1.0,10.0,KAN 42,14.0,17.0,Jalen Hurts pass complete deep right to DeVonta Smith for 41 yards (tackle by Mike Edwards),2.79,6.97,11.0,2023,164
+4.0,6:23,1.0,1.0,KAN 1,20.0,17.0,"Jalen Hurts up the middle for 1 yard, touchdown Penalty on KAN: Defensive Offside, 5 yards (declined)",6.97,7.0,11.0,2023,164
+4.0,6:20,,,KAN 15,21.0,17.0,Jake Elliott kicks extra point good,0.0,0.0,11.0,2023,164
+4.0,6:20,,,PHI 35,21.0,17.0,"Jake Elliott kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,164
+4.0,6:20,1.0,10.0,KAN 25,21.0,17.0,Isiah Pacheco left guard for 3 yards (tackle by Jalen Carter),0.61,0.47,11.0,2023,164
+4.0,5:51,2.0,7.0,KAN 28,21.0,17.0,Patrick Mahomes pass incomplete short right intended for Marquez Valdes-Scantling,0.47,-0.23,11.0,2023,164
+4.0,5:46,3.0,7.0,KAN 28,21.0,17.0,"Penalty on Creed Humphrey: False Start, 5 yards (accepted) (no play)",-0.23,-0.89,11.0,2023,164
+4.0,5:46,3.0,12.0,KAN 23,21.0,17.0,Patrick Mahomes pass incomplete short left intended for Jerick McKinnon (defended by Zach Cunningham),-0.89,-1.83,11.0,2023,164
+4.0,5:39,4.0,12.0,KAN 23,21.0,17.0,"Tommy Townsend punts 52 yards, returned by Britain Covey for 19 yards (tackle by Chamarri Conner)",-1.83,-1.86,11.0,2023,164
+4.0,5:28,1.0,10.0,PHI 44,21.0,17.0,Jalen Hurts right end for 9 yards (tackle by Justin Reid),1.86,2.53,11.0,2023,164
+4.0,4:46,2.0,1.0,KAN 47,21.0,17.0,Jalen Hurts up the middle for 2 yards (tackle by Chris Jones),2.53,2.59,11.0,2023,164
+4.0,4:02,1.0,10.0,KAN 45,21.0,17.0,D'Andre Swift right end for -2 yards (tackle by Drue Tranquill),2.59,1.77,11.0,2023,164
+4.0,3:20,2.0,12.0,KAN 47,21.0,17.0,"Jalen Hurts scrambles left end for no gain (tackle by Leo Chenal). Penalty on Jordan Mailata: Offensive Holding, 10 yards (accepted) (no play)",1.77,0.42,11.0,2023,164
+4.0,3:13,2.0,22.0,PHI 43,21.0,17.0,Jalen Hurts right end for -1 yards (tackle by Justin Reid),0.42,-0.36,11.0,2023,164
+4.0,3:08,,,,,,Timeout #1 by Kansas City Chiefs,,,11.0,2023,164
+4.0,3:08,3.0,23.0,PHI 42,21.0,17.0,Jalen Hurts pass complete short right to D'Andre Swift for 2 yards (tackle by Drue Tranquill),-0.36,-0.46,11.0,2023,164
+4.0,2:56,,,,,,Timeout #2 by Kansas City Chiefs,,,11.0,2023,164
+4.0,2:56,4.0,21.0,PHI 44,21.0,17.0,"Braden Mann punts 47 yards, returned by Kadarius Toney for no gain (tackle by Josh Jobe)",-0.46,0.38,11.0,2023,164
+4.0,2:49,1.0,10.0,KAN 9,21.0,17.0,Patrick Mahomes pass complete short left to Rashee Rice for 5 yards (tackle by Kevin Byard),-0.38,-0.39,11.0,2023,164
+4.0,2:27,2.0,5.0,KAN 14,21.0,17.0,Patrick Mahomes pass complete short left to Justin Watson for 3 yards (tackle by James Bradberry),-0.39,-0.48,11.0,2023,164
+4.0,2:21,3.0,2.0,KAN 17,21.0,17.0,Patrick Mahomes pass incomplete short right intended for Travis Kelce,-0.48,-2.32,11.0,2023,164
+4.0,2:18,4.0,2.0,KAN 17,21.0,17.0,Patrick Mahomes pass complete short middle to Travis Kelce for 4 yards (tackle by Sydney Brown),-2.32,0.34,11.0,2023,164
+4.0,2:04,1.0,10.0,KAN 21,21.0,17.0,"Patrick Mahomes pass complete short left to Travis Kelce for 13 yards (tackle by Kevin Byard). Penalty on Fletcher Cox: Roughing the Passer, 15 yards (accepted)",0.34,2.19,11.0,2023,164
+4.0,1:56,1.0,10.0,KAN 49,21.0,17.0,Patrick Mahomes pass incomplete deep right,2.19,1.65,11.0,2023,164
+4.0,1:50,2.0,10.0,KAN 49,21.0,17.0,Patrick Mahomes pass incomplete deep middle intended for Marquez Valdes-Scantling,1.65,0.96,11.0,2023,164
+4.0,1:42,3.0,10.0,KAN 49,21.0,17.0,"Patrick Mahomes pass incomplete short right. Penalty on Patrick Mahomes: Intentional Grounding, 15 yards (accepted)",0.96,-1.11,11.0,2023,164
+4.0,1:35,,,,,,Timeout #3 by Kansas City Chiefs,,,11.0,2023,164
+4.0,1:35,,,,,,Timeout #1 by Philadelphia Eagles,,,11.0,2023,164
+4.0,1:35,4.0,25.0,KAN 34,21.0,17.0,Patrick Mahomes pass incomplete deep right intended for Justin Watson (defended by Darius Slay),-1.11,-3.31,11.0,2023,164
+4.0,1:28,1.0,10.0,KAN 34,21.0,17.0,Jalen Hurts kneels for -1 yards,3.31,2.64,11.0,2023,164
+4.0,0:48,2.0,11.0,KAN 35,21.0,17.0,Jalen Hurts kneels for -1 yards,2.64,1.82,11.0,2023,164
+4.0,0:33,3.0,12.0,KAN 36,21.0,17.0,Jalen Hurts kneels for -1 yards,1.82,0.79,11.0,2023,164

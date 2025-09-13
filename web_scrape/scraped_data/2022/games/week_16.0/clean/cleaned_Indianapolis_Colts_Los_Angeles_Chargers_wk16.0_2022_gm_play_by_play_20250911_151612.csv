@@ -1,0 +1,149 @@
+Quarter,Time,Down,ToGo,Location,LAC,IND,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Colts won the coin toss, Colts to receive the opening kickoff.",,,16.0,2022,240
+1.0,15:00,,,LAC 35,0.0,0.0,"Cameron Dicker kicks off 68 yards, returned by Dallis Flowers for 31 yards (tackle by Amen Ogbongbemiga)",0.0,0.81,16.0,2022,240
+1.0,14:55,1.0,10.0,IND 28,0.0,0.0,Zack Moss right guard for 2 yards (tackle by Morgan Fox),0.81,0.53,16.0,2022,240
+1.0,14:20,2.0,8.0,IND 30,0.0,0.0,Nick Foles pass complete short right to Mo Alie-Cox for 2 yards (tackle by Michael Davis),0.53,0.1,16.0,2022,240
+1.0,13:37,3.0,6.0,IND 32,0.0,0.0,Nick Foles pass incomplete short right intended for Alec Pierce,0.1,-1.24,16.0,2022,240
+1.0,13:31,4.0,6.0,IND 32,0.0,0.0,"Matt Haack punts 50 yards, returned by DeAndre Carter for 16 yards (tackle by Ashton Dulin and JoJo Domann)",-1.24,-1.2,16.0,2022,240
+1.0,13:20,1.0,10.0,LAC 34,0.0,0.0,Austin Ekeler right end for 3 yards (tackle by Bobby Okereke),1.2,1.06,16.0,2022,240
+1.0,12:47,2.0,7.0,LAC 37,0.0,0.0,Justin Herbert pass complete short right to Keenan Allen for 6 yards (tackle by Bobby Okereke),1.06,1.16,16.0,2022,240
+1.0,12:26,3.0,1.0,LAC 43,0.0,0.0,Joshua Kelley right tackle for no gain (tackle by DeForest Buckner and Stephon Gilmore),1.16,-0.52,16.0,2022,240
+1.0,11:48,4.0,1.0,LAC 43,0.0,0.0,"JK Scott punts 42 yards, fair catch by Dallis Flowers at IND-15",-0.52,0.22,16.0,2022,240
+1.0,11:39,1.0,10.0,IND 15,0.0,0.0,Nick Foles pass complete short middle to Jelani Woods for 15 yards (tackle by Michael Davis),-0.22,0.94,16.0,2022,240
+1.0,11:02,1.0,10.0,IND 30,0.0,0.0,Zack Moss right end for 5 yards (tackle by Michael Davis),0.94,1.07,16.0,2022,240
+1.0,10:24,2.0,5.0,IND 35,0.0,0.0,Nick Foles pass complete short left to Jelani Woods for 17 yards (tackle by Drue Tranquill),1.07,2.39,16.0,2022,240
+1.0,9:44,1.0,10.0,LAC 48,0.0,0.0,Zack Moss up the middle for 6 yards (tackle by Drue Tranquill and Morgan Fox),2.39,2.66,16.0,2022,240
+1.0,9:03,2.0,4.0,LAC 42,0.0,0.0,Nick Foles pass incomplete deep left intended for Jelani Woods,2.66,1.95,16.0,2022,240
+1.0,8:55,3.0,4.0,LAC 42,0.0,0.0,Nick Foles pass incomplete deep left intended for Mo Alie-Cox,1.95,0.46,16.0,2022,240
+1.0,8:45,4.0,4.0,LAC 42,0.0,0.0,"Nick Foles pass complete to Alec Pierce for 3 yards (tackle by Asante Samuel) IND challenged the short of the line to gain ruling, and the original play was overturned. Nick Foles pass complete short right to Alec Pierce for 4 yards (tackle by Asante Samuel)",0.46,3.05,16.0,2022,240
+1.0,8:40,1.0,10.0,LAC 38,0.0,0.0,Nick Foles pass deep right intended for Jelani Woods is intercepted by Michael Davis at LAC-11 and returned for 30 yards (tackle by Jelani Woods),3.05,-1.66,16.0,2022,240
+1.0,8:13,1.0,10.0,LAC 41,0.0,0.0,Justin Herbert pass complete short left to Donald Parham for 8 yards (tackle by Julian Blackmon and Isaiah Rodgers),1.66,2.2,16.0,2022,240
+1.0,7:40,2.0,2.0,LAC 49,0.0,0.0,Justin Herbert pass incomplete short middle intended for Tre' McKitty,2.2,1.49,16.0,2022,240
+1.0,7:34,3.0,2.0,LAC 49,0.0,0.0,Justin Herbert pass short left intended for Keenan Allen is intercepted by Rodney Thomas at IND-42 and returned for 5 yards (tackle by Keenan Allen),1.49,-2.06,16.0,2022,240
+1.0,7:28,1.0,10.0,IND 47,0.0,0.0,Nick Foles pass complete short left to Parris Campbell for 7 yards (tackle by Bryce Callahan),2.06,2.46,16.0,2022,240
+1.0,6:49,2.0,3.0,LAC 46,0.0,0.0,Nick Foles pass complete short left to Alec Pierce for 7 yards (tackle by Michael Davis),2.46,2.98,16.0,2022,240
+1.0,6:16,1.0,10.0,LAC 39,0.0,0.0,Zack Moss up the middle for 5 yards (tackle by Drue Tranquill and Derwin James),2.98,3.12,16.0,2022,240
+1.0,5:41,2.0,5.0,LAC 34,0.0,0.0,Nick Foles pass complete short left to Deon Jackson for -9 yards (tackle by Kyle Van Noy),3.12,1.22,16.0,2022,240
+1.0,4:55,3.0,14.0,LAC 43,0.0,0.0,Nick Foles pass short right intended for Parris Campbell is intercepted by Derwin James at LAC-33 and returned for no gain,1.22,-1.14,16.0,2022,240
+1.0,4:48,1.0,10.0,LAC 33,0.0,0.0,Justin Herbert sacked by DeForest Buckner for -5 yards,1.14,-0.08,16.0,2022,240
+1.0,4:12,2.0,15.0,LAC 28,0.0,0.0,Justin Herbert pass complete short right to Keenan Allen for 6 yards (tackle by Julian Blackmon),-0.08,0.04,16.0,2022,240
+1.0,3:35,3.0,9.0,LAC 34,0.0,0.0,"Justin Herbert pass complete to Keenan Allen for 12 yards IND challenged the pass completion ruling, and the original play was overturned. Justin Herbert pass incomplete short middle intended for Keenan Allen",0.04,-1.11,16.0,2022,240
+1.0,3:33,4.0,9.0,LAC 34,0.0,0.0,JK Scott punts 36 yards out of bounds,-1.11,-0.94,16.0,2022,240
+1.0,3:25,1.0,10.0,IND 30,0.0,0.0,Zack Moss right tackle for 4 yards (tackle by Sebastian Joseph-Day),0.94,0.93,16.0,2022,240
+1.0,2:50,2.0,6.0,IND 34,0.0,0.0,Nick Foles sacked by Drue Tranquill for no gain,0.93,0.23,16.0,2022,240
+1.0,2:02,3.0,6.0,IND 34,0.0,0.0,Nick Foles sacked by Kenneth Murray for -8 yards,0.23,-1.63,16.0,2022,240
+1.0,1:18,4.0,14.0,IND 26,0.0,0.0,"Matt Haack punts 43 yards, returned by DeAndre Carter for 9 yards (tackle by Grant Stuard). Penalty on Ja'Sir Taylor: Offensive Holding, 10 yards (accepted)",-1.63,-0.94,16.0,2022,240
+1.0,1:07,1.0,10.0,LAC 30,0.0,0.0,Justin Herbert pass complete short middle to Keenan Allen for 15 yards (tackle by Rodney Thomas),0.94,1.93,16.0,2022,240
+1.0,0:33,1.0,10.0,LAC 45,0.0,0.0,Austin Ekeler right tackle for -1 yards (tackle by Kwity Paye),1.93,1.25,16.0,2022,240
+2.0,15:00,2.0,11.0,LAC 44,0.0,0.0,Justin Herbert pass complete short right to Keenan Allen for 4 yards (tackle by Bobby Okereke),1.25,1.09,16.0,2022,240
+2.0,14:25,3.0,7.0,LAC 48,0.0,0.0,Justin Herbert pass complete short left to Josh Palmer for 8 yards (tackle by Zaire Franklin and Julian Blackmon),1.09,2.65,16.0,2022,240
+2.0,13:45,1.0,10.0,IND 44,0.0,0.0,Justin Herbert sacked by Dayo Odeyingbo for -11 yards,2.65,0.63,16.0,2022,240
+2.0,13:04,2.0,21.0,LAC 45,0.0,0.0,Justin Herbert pass complete short right to Keenan Allen for 8 yards (tackle by Julian Blackmon),0.63,1.03,16.0,2022,240
+2.0,12:28,3.0,13.0,IND 47,0.0,0.0,Justin Herbert pass complete short left to Mike Williams for 16 yards (tackle by Brandon Facyson),1.03,3.51,16.0,2022,240
+2.0,11:46,1.0,10.0,IND 31,0.0,0.0,Joshua Kelley right guard for 1 yard (tackle by Julian Blackmon),3.51,3.1,16.0,2022,240
+2.0,11:14,2.0,9.0,IND 30,0.0,0.0,Justin Herbert pass complete short right to Mike Williams for 18 yards (tackle by Rodney Thomas),3.1,4.78,16.0,2022,240
+2.0,10:35,1.0,10.0,IND 12,0.0,0.0,Austin Ekeler left guard for 7 yards (tackle by Rodney McLeod),4.78,5.41,16.0,2022,240
+2.0,10:02,2.0,3.0,IND 5,0.0,0.0,Austin Ekeler left guard for 2 yards (tackle by Stephon Gilmore and Rodney McLeod),5.41,5.06,16.0,2022,240
+2.0,9:26,3.0,1.0,IND 3,0.0,0.0,Justin Herbert up the middle for 2 yards (tackle by Rodney McLeod and Bobby Okereke),5.06,6.97,16.0,2022,240
+2.0,8:44,1.0,1.0,IND 1,6.0,0.0,"Austin Ekeler up the middle for 1 yard, touchdown",6.97,7.0,16.0,2022,240
+2.0,8:41,,,IND 15,7.0,0.0,Cameron Dicker kicks extra point good,0.0,0.0,16.0,2022,240
+2.0,8:41,,,LAC 35,7.0,0.0,"Cameron Dicker kicks off 74 yards, returned by Dallis Flowers for 22 yards (tackle by Raheem Layne)",0.0,-0.32,16.0,2022,240
+2.0,8:38,1.0,10.0,IND 13,7.0,0.0,"Zack Moss for no gain. Penalty on Mo Alie-Cox: Offensive Holding, 6 yards (accepted) (no play)",-0.32,-0.61,16.0,2022,240
+2.0,8:17,1.0,16.0,IND 7,7.0,0.0,Nick Foles pass complete short middle to Alec Pierce for 15 yards (tackle by Derwin James and Drue Tranquill),-0.61,0.49,16.0,2022,240
+2.0,7:42,2.0,1.0,IND 22,7.0,0.0,Zack Moss up the middle for 7 yards (tackle by Morgan Fox and Nasir Adderley),0.49,0.87,16.0,2022,240
+2.0,6:47,1.0,10.0,IND 29,7.0,0.0,"Penalty on Parris Campbell: False Start, 5 yards (accepted) (no play)",0.87,0.54,16.0,2022,240
+2.0,6:27,1.0,15.0,IND 24,7.0,0.0,"Nick Foles pass complete short right to Michael Pittman for 7 yards (tackle by Derwin James and Drue Tranquill). Penalty on Derwin James: Face Mask (15 Yards), 15 yards (accepted)",0.54,1.99,16.0,2022,240
+2.0,6:04,1.0,10.0,IND 46,7.0,0.0,Zack Moss right guard for 8 yards (tackle by Michael Davis),1.99,2.53,16.0,2022,240
+2.0,5:26,2.0,2.0,LAC 46,7.0,0.0,"Nick Foles pass incomplete intended for Ashton Dulin. Penalty on Derwin James: Disqualification / Defense, 15 yards (accepted) (no play)",2.53,3.51,16.0,2022,240
+2.0,5:19,1.0,10.0,LAC 31,7.0,0.0,Nick Foles pass incomplete deep left intended for Michael Pittman,3.51,2.97,16.0,2022,240
+2.0,5:13,2.0,10.0,LAC 31,7.0,0.0,Jordan Wilkins right tackle for 4 yards (tackle by Kenneth Murray),2.97,2.81,16.0,2022,240
+2.0,4:35,3.0,6.0,LAC 27,7.0,0.0,Nick Foles pass incomplete short right,2.81,1.7,16.0,2022,240
+2.0,4:26,4.0,6.0,LAC 27,7.0,3.0,Chase McLaughlin 46 yard field goal good,1.7,3.0,16.0,2022,240
+2.0,4:21,,,IND 35,7.0,3.0,"Chase McLaughlin kicks off 65 yards, touchback.",0.0,0.61,16.0,2022,240
+2.0,4:21,1.0,10.0,LAC 25,7.0,3.0,"Penalty on Zion Johnson: False Start, 5 yards (accepted) (no play)",0.61,0.28,16.0,2022,240
+2.0,4:21,1.0,15.0,LAC 20,7.0,3.0,Justin Herbert pass complete short right to Josh Palmer for 8 yards,0.28,0.47,16.0,2022,240
+2.0,4:07,2.0,7.0,LAC 28,7.0,3.0,Justin Herbert pass complete short middle to Austin Ekeler for 2 yards (tackle by Zaire Franklin),0.47,0.04,16.0,2022,240
+2.0,3:33,3.0,5.0,LAC 30,7.0,3.0,Justin Herbert pass complete short middle to Keenan Allen for 13 yards (tackle by Rodney Thomas),0.04,1.8,16.0,2022,240
+2.0,2:59,1.0,10.0,LAC 43,7.0,3.0,Austin Ekeler right tackle for 5 yards (tackle by E.J. Speed and Grover Stewart),1.8,1.93,16.0,2022,240
+2.0,2:17,2.0,5.0,LAC 48,7.0,3.0,Justin Herbert pass complete short middle to Austin Ekeler for 4 yards (tackle by DeForest Buckner and Rodney McLeod),1.93,1.75,16.0,2022,240
+2.0,2:00,3.0,1.0,IND 48,7.0,3.0,Justin Herbert pass complete deep left to Keenan Allen for 25 yards,1.75,4.04,16.0,2022,240
+2.0,1:53,1.0,10.0,IND 23,7.0,3.0,Joshua Kelley up the middle for 8 yards (tackle by Bobby Okereke),4.04,4.75,16.0,2022,240
+2.0,1:17,2.0,2.0,IND 15,7.0,3.0,Joshua Kelley right end for no gain (tackle by Julian Blackmon and Zaire Franklin),4.75,4.05,16.0,2022,240
+2.0,1:08,,,,,,Timeout #1 by Indianapolis Colts,,,16.0,2022,240
+2.0,1:08,3.0,2.0,IND 15,7.0,3.0,Austin Ekeler left guard for 6 yards (tackle by Zaire Franklin and Julian Blackmon),4.05,5.14,16.0,2022,240
+2.0,1:00,,,,,,Timeout #2 by Indianapolis Colts,,,16.0,2022,240
+2.0,1:00,1.0,9.0,IND 9,7.0,3.0,Austin Ekeler left tackle for -1 yards (tackle by Yannick Ngakoue and Dallis Flowers),5.14,4.19,16.0,2022,240
+2.0,0:55,,,,,,Timeout #3 by Indianapolis Colts,,,16.0,2022,240
+2.0,0:55,2.0,10.0,IND 10,7.0,3.0,Justin Herbert pass incomplete short right intended for Keenan Allen (defended by Rodney Thomas),4.19,3.13,16.0,2022,240
+2.0,0:47,3.0,10.0,IND 10,7.0,3.0,Justin Herbert pass complete short left to Austin Ekeler for 4 yards (tackle by DeForest Buckner and Rodney McLeod),3.13,2.99,16.0,2022,240
+2.0,0:03,,,,,,Timeout #1 by Los Angeles Chargers,,,16.0,2022,240
+2.0,0:03,4.0,6.0,IND 6,10.0,3.0,Cameron Dicker 24 yard field goal good,2.99,3.0,16.0,2022,240
+3.0,15:00,,,IND 35,10.0,3.0,"Chase McLaughlin kicks off 65 yards, touchback.",0.0,0.61,16.0,2022,240
+3.0,15:00,1.0,10.0,LAC 25,10.0,3.0,Austin Ekeler right tackle for 1 yard (tackle by Rodney Thomas and Julian Blackmon),0.61,0.2,16.0,2022,240
+3.0,14:21,2.0,9.0,LAC 26,10.0,3.0,Justin Herbert pass complete short middle to Keenan Allen for 13 yards (tackle by Rodney McLeod),0.2,1.53,16.0,2022,240
+3.0,13:43,1.0,10.0,LAC 39,10.0,3.0,"Justin Herbert pass complete to Donald Parham for no gain. Penalty on Trey Pipkins: Offensive Holding, 10 yards (accepted) (no play)",1.53,0.87,16.0,2022,240
+3.0,13:10,1.0,20.0,LAC 29,10.0,3.0,Justin Herbert pass incomplete deep right intended for Josh Palmer,0.87,-0.36,16.0,2022,240
+3.0,13:04,2.0,20.0,LAC 29,10.0,3.0,Justin Herbert pass complete short left to Keenan Allen for 6 yards (tackle by Julian Blackmon),-0.36,-0.23,16.0,2022,240
+3.0,12:26,3.0,14.0,LAC 35,10.0,3.0,Justin Herbert pass complete short right to Tre' McKitty for 10 yards (tackle by Bobby Okereke and Zaire Franklin),-0.23,-0.39,16.0,2022,240
+3.0,11:47,4.0,4.0,LAC 45,10.0,3.0,"JK Scott punts 33 yards, fair catch by Dallis Flowers at IND-22",-0.39,-0.41,16.0,2022,240
+3.0,11:38,1.0,10.0,IND 22,10.0,3.0,Nick Foles sacked by Morgan Fox for -5 yards,0.41,-0.94,16.0,2022,240
+3.0,11:03,2.0,15.0,IND 17,10.0,3.0,Zack Moss left tackle for 8 yards (tackle by Michael Davis and Bryce Callahan),-0.94,-0.43,16.0,2022,240
+3.0,10:19,3.0,7.0,IND 25,10.0,3.0,Nick Foles pass short right intended for Parris Campbell is intercepted by Asante Samuel at IND-37 and returned for 11 yards (tackle by Michael Pittman),-0.43,-3.84,16.0,2022,240
+3.0,10:03,1.0,10.0,IND 26,10.0,3.0,Justin Herbert sacked by Zaire Franklin for -2 yards,3.84,3.03,16.0,2022,240
+3.0,9:24,2.0,12.0,IND 28,10.0,3.0,Justin Herbert pass complete short left to Austin Ekeler for 2 yards (tackle by Bobby Okereke),3.03,2.61,16.0,2022,240
+3.0,8:45,3.0,10.0,IND 26,10.0,3.0,Justin Herbert pass complete short right to Joshua Kelley for 9 yards (tackle by Stephon Gilmore),2.61,2.46,16.0,2022,240
+3.0,8:14,4.0,1.0,IND 17,10.0,3.0,Justin Herbert pass complete short middle to Keenan Allen for 7 yards (tackle by Brandon Facyson),2.46,4.91,16.0,2022,240
+3.0,7:37,1.0,10.0,IND 10,10.0,3.0,Austin Ekeler left guard for 5 yards (tackle by Rodney Thomas),4.91,5.15,16.0,2022,240
+3.0,6:58,2.0,5.0,IND 5,10.0,3.0,Austin Ekeler right tackle for 2 yards (tackle by Zaire Franklin),5.15,4.72,16.0,2022,240
+3.0,6:17,3.0,3.0,IND 3,10.0,3.0,Justin Herbert pass incomplete short middle,4.72,3.04,16.0,2022,240
+3.0,6:05,4.0,3.0,IND 3,13.0,3.0,Cameron Dicker 21 yard field goal good,3.04,3.0,16.0,2022,240
+3.0,6:01,,,LAC 35,13.0,3.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,16.0,2022,240
+3.0,6:01,1.0,10.0,IND 25,13.0,3.0,Zack Moss left tackle for 2 yards (tackle by Kenneth Murray and Drue Tranquill),0.61,0.33,16.0,2022,240
+3.0,5:25,2.0,8.0,IND 27,13.0,3.0,Zack Moss up the middle for 14 yards (tackle by Alohi Gilman and Michael Davis),0.33,1.66,16.0,2022,240
+3.0,4:43,1.0,10.0,IND 41,13.0,3.0,Zack Moss right tackle for 2 yards (tackle by Morgan Fox and Sebastian Joseph-Day),1.66,1.39,16.0,2022,240
+3.0,3:49,2.0,8.0,IND 43,13.0,3.0,Nick Foles pass incomplete short left intended for Jordan Wilkins,1.39,0.7,16.0,2022,240
+3.0,3:53,3.0,8.0,IND 43,13.0,3.0,Nick Foles sacked by Khalil Mack for -10 yards,0.7,-1.18,16.0,2022,240
+3.0,3:00,4.0,18.0,IND 33,13.0,3.0,Matt Haack punts 53 yards,-1.18,-0.04,16.0,2022,240
+3.0,2:52,1.0,10.0,LAC 18,13.0,3.0,Justin Herbert scrambles right end for 2 yards (tackle by Dayo Odeyingbo),0.04,-0.13,16.0,2022,240
+3.0,2:19,2.0,8.0,LAC 20,13.0,3.0,Austin Ekeler up the middle for 5 yards (tackle by Grover Stewart and Rodney McLeod),-0.13,-0.27,16.0,2022,240
+3.0,1:39,3.0,3.0,LAC 25,13.0,3.0,"Justin Herbert sacked by and Dayo Odeyingbo for -4 yards and DeForest Buckner for -4 yards. Justin Herbert fumbles (forced by DeForest Buckner), recovered by Kwity Paye at LAC-21 (tackle by DeForest Buckner) (tackle by DeForest Buckner)",-0.27,-4.17,16.0,2022,240
+3.0,1:31,1.0,10.0,LAC 21,13.0,3.0,Zack Moss right tackle for 2 yards (tackle by Kenneth Murray and Khalil Mack),4.17,3.9,16.0,2022,240
+3.0,0:55,2.0,8.0,LAC 19,13.0,3.0,Nick Foles pass incomplete short left intended for Parris Campbell,3.9,3.18,16.0,2022,240
+3.0,0:48,3.0,8.0,LAC 19,13.0,3.0,Nick Foles pass complete short middle to Michael Pittman for 7 yards (tackle by Alohi Gilman),3.18,2.78,16.0,2022,240
+4.0,15:00,4.0,1.0,LAC 12,13.0,3.0,Nick Foles up the middle for no gain (tackle by Drue Tranquill and Alohi Gilman),2.78,0.35,16.0,2022,240
+4.0,14:53,1.0,10.0,LAC 12,13.0,3.0,Joshua Kelley up the middle for 11 yards (tackle by E.J. Speed),-0.35,0.48,16.0,2022,240
+4.0,14:23,1.0,10.0,LAC 23,13.0,3.0,Joshua Kelley left tackle for 5 yards (tackle by E.J. Speed and Grover Stewart),0.48,0.61,16.0,2022,240
+4.0,13:41,2.0,5.0,LAC 28,13.0,3.0,Justin Herbert pass incomplete deep left intended for Donald Parham,0.61,-0.1,16.0,2022,240
+4.0,13:33,3.0,5.0,LAC 28,13.0,3.0,Justin Herbert pass complete short middle to Mike Williams for 26 yards (tackle by Rodney McLeod),-0.1,2.52,16.0,2022,240
+4.0,12:48,1.0,10.0,IND 46,13.0,3.0,"Penalty on Corey Linsley: False Start, 5 yards (accepted) (no play)",2.52,2.19,16.0,2022,240
+4.0,12:48,1.0,15.0,LAC 49,13.0,3.0,Austin Ekeler left tackle for 2 yards (tackle by Yannick Ngakoue),2.19,1.57,16.0,2022,240
+4.0,12:12,2.0,13.0,IND 49,13.0,3.0,Justin Herbert pass complete short middle to Mike Williams for 16 yards (tackle by Stephon Gilmore),1.57,3.38,16.0,2022,240
+4.0,11:30,1.0,10.0,IND 33,13.0,3.0,Joshua Kelley right tackle for 3 yards (tackle by Zaire Franklin and Kwity Paye),3.38,3.24,16.0,2022,240
+4.0,10:49,2.0,7.0,IND 30,13.0,3.0,Austin Ekeler left tackle for 6 yards (tackle by E.J. Speed and Rodney McLeod),3.24,3.34,16.0,2022,240
+4.0,10:13,3.0,1.0,IND 24,13.0,3.0,Austin Ekeler right guard for 1 yard (tackle by Kwity Paye and Grover Stewart),3.34,4.04,16.0,2022,240
+4.0,9:32,1.0,10.0,IND 23,13.0,3.0,Austin Ekeler left tackle for 6 yards (tackle by E.J. Speed and Grover Stewart),4.04,4.38,16.0,2022,240
+4.0,8:54,2.0,4.0,IND 17,13.0,3.0,Austin Ekeler up the middle for 16 yards (tackle by Rodney Thomas),4.38,6.97,16.0,2022,240
+4.0,8:23,1.0,1.0,IND 1,19.0,3.0,"Austin Ekeler left guard for 1 yard, touchdown",6.97,7.0,16.0,2022,240
+4.0,8:20,,,IND 15,20.0,3.0,Cameron Dicker kicks extra point good,0.0,0.0,16.0,2022,240
+4.0,8:20,,,LAC 35,20.0,3.0,"Cameron Dicker kicks off 70 yards, returned by Dallis Flowers for 31 yards (tackle by Troy Reeder and Alohi Gilman)",0.0,0.67,16.0,2022,240
+4.0,8:15,1.0,10.0,IND 26,20.0,3.0,Nick Foles pass complete short right to Zack Moss for 5 yards (tackle by Kenneth Murray and Alohi Gilman),0.67,0.81,16.0,2022,240
+4.0,7:56,2.0,5.0,IND 31,20.0,3.0,Nick Foles pass complete short left to Parris Campbell for 12 yards (tackle by Bryce Callahan),0.81,1.8,16.0,2022,240
+4.0,7:33,1.0,10.0,IND 43,20.0,3.0,Nick Foles pass incomplete short left intended for Michael Pittman (defended by Michael Davis),1.8,1.25,16.0,2022,240
+4.0,7:27,2.0,10.0,IND 43,20.0,3.0,Nick Foles sacked by Kyle Van Noy for -5 yards,1.25,-0.1,16.0,2022,240
+4.0,6:43,3.0,15.0,IND 38,20.0,3.0,Nick Foles pass complete short middle to Jelani Woods for 11 yards (tackle by Alohi Gilman),-0.1,-0.13,16.0,2022,240
+4.0,6:11,4.0,4.0,IND 49,20.0,3.0,Nick Foles pass incomplete short right intended for Michael Pittman (defended by Michael Davis),-0.13,-2.39,16.0,2022,240
+4.0,6:04,1.0,10.0,IND 48,20.0,3.0,Joshua Kelley right end for 5 yards (tackle by Bobby Okereke and Zaire Franklin),2.39,2.52,16.0,2022,240
+4.0,5:20,2.0,5.0,IND 43,20.0,3.0,Joshua Kelley left tackle for no gain (tackle by Brandon Facyson),2.52,1.82,16.0,2022,240
+4.0,5:13,,,,,,Timeout #1 by Indianapolis Colts,,,16.0,2022,240
+4.0,5:13,3.0,5.0,IND 43,20.0,3.0,Justin Herbert pass complete short right to Keenan Allen for 1 yard (tackle by Bobby Okereke),1.82,0.46,16.0,2022,240
+4.0,5:07,,,,,,Timeout #2 by Indianapolis Colts,,,16.0,2022,240
+4.0,5:07,4.0,4.0,IND 42,20.0,3.0,"JK Scott punts 42 yards, touchback.",0.46,-0.28,16.0,2022,240
+4.0,4:59,1.0,10.0,IND 20,20.0,3.0,Nick Foles pass complete short middle to Deon Jackson for 6 yards (tackle by Derrek Tuszka and Bryce Callahan),0.28,0.54,16.0,2022,240
+4.0,4:34,2.0,4.0,IND 26,20.0,3.0,Nick Foles pass complete deep left to Michael Pittman for 19 yards (tackle by Drue Tranquill),0.54,1.93,16.0,2022,240
+4.0,4:05,1.0,10.0,IND 45,20.0,3.0,Nick Foles sacked by Morgan Fox for -3 yards,1.93,0.98,16.0,2022,240
+4.0,3:21,2.0,13.0,IND 42,20.0,3.0,Nick Foles sacked by Chris Rumph for -8 yards,0.98,-0.76,16.0,2022,240
+4.0,2:42,3.0,21.0,IND 34,20.0,3.0,Nick Foles pass complete short right to Deon Jackson for 12 yards (tackle by Drue Tranquill and Kenneth Murray),-0.76,-0.32,16.0,2022,240
+4.0,2:00,4.0,9.0,IND 46,20.0,3.0,Nick Foles pass complete short left to Michael Pittman for 6 yards (tackle by Bryce Callahan and Drue Tranquill),-0.32,-2.13,16.0,2022,240
+4.0,1:55,1.0,10.0,LAC 48,20.0,3.0,Justin Herbert kneels for -1 yards,2.13,1.45,16.0,2022,240
+4.0,1:15,2.0,11.0,LAC 47,20.0,3.0,Justin Herbert kneels for -1 yards,1.45,0.63,16.0,2022,240
+4.0,0:36,3.0,12.0,LAC 46,20.0,3.0,Justin Herbert kneels for -1 yards,0.63,-0.39,16.0,2022,240

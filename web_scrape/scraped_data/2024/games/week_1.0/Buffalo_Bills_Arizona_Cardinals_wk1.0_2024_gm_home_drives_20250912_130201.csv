@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,7:47,ARI 45,4,2:23,16,Fumble,1,Bills,1.0,2024,4
+2,2,14:57,BUF 30,9,5:10,51,Field Goal,1,Bills,1.0,2024,4
+3,2,2:40,BUF 30,7,2:21,70,Touchdown,1,Bills,1.0,2024,4
+4,3,15:00,BUF 40,10,5:09,60,Touchdown,1,Bills,1.0,2024,4
+5,3,7:53,BUF 31,3,1:37,3,Punt,1,Bills,1.0,2024,4
+6,3,5:25,ARI 21,5,2:48,21,Touchdown,1,Bills,1.0,2024,4
+7,4,13:32,BUF 30,10,4:48,70,Touchdown,1,Bills,1.0,2024,4
+8,4,8:31,BUF 30,6,3:14,17,Punt,1,Bills,1.0,2024,4
+9,4,4:30,ARI 42,5,2:34,21,Field Goal,1,Bills,1.0,2024,4
+10,4,0:26,BUF 29,1,0:26,-1,End of Game,1,Bills,1.0,2024,4

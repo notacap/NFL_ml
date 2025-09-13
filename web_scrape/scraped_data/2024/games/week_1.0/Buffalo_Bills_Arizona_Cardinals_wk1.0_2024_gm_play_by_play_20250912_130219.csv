@@ -1,0 +1,160 @@
+Quarter,Time,Down,ToGo,Location,ARI,BUF,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Cardinals won the coin toss, Cardinals to receive the opening kickoff.",,,1.0,2024,4
+1.0,15:00,,,BUF 35,0.0,0.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,4
+1.0,15:00,1.0,10.0,ARI 30,0.0,0.0,James Conner up the middle for 3 yards (tackle by Terrel Bernard and Taron Johnson),0.94,0.8,1.0,2024,4
+1.0,14:26,2.0,7.0,ARI 33,0.0,0.0,Kyler Murray pass complete short left to James Conner for 22 yards (tackle by Damar Hamlin and Rasul Douglas),0.8,2.59,1.0,2024,4
+1.0,13:43,1.0,10.0,BUF 45,0.0,0.0,Kyler Murray pass complete short middle to James Conner for 9 yards (tackle by Taylor Rapp and Dorian Williams),2.59,3.26,1.0,2024,4
+1.0,13:07,2.0,1.0,BUF 36,0.0,0.0,James Conner up the middle for 2 yards (tackle by Terrel Bernard),3.26,3.31,1.0,2024,4
+1.0,12:28,1.0,10.0,BUF 34,0.0,0.0,James Conner left guard for 2 yards (tackle by Austin Johnson and Dorian Williams),3.31,2.97,1.0,2024,4
+1.0,11:56,2.0,9.0,BUF 32,0.0,0.0,James Conner left end for 2 yards (tackle by Terrel Bernard),2.97,2.61,1.0,2024,4
+1.0,11:13,3.0,6.0,BUF 30,0.0,0.0,Kyler Murray pass complete short middle to Greg Dortch for 8 yards (tackle by Terrel Bernard and Taylor Rapp),2.61,4.11,1.0,2024,4
+1.0,10:37,1.0,10.0,BUF 22,0.0,0.0,Kyler Murray pass incomplete short right intended for Marvin Harrison,4.11,3.56,1.0,2024,4
+1.0,10:28,2.0,10.0,BUF 22,0.0,0.0,James Conner left tackle for -3 yards (tackle by Gregory Rousseau),3.56,2.48,1.0,2024,4
+1.0,9:49,3.0,13.0,BUF 25,0.0,0.0,"Kyler Murray scrambles right end for 6 yards (tackle by Ja'Marcus Ingram). Penalty on Ja'Marcus Ingram: Unnecessary Roughness / Defense, 10 yards (accepted)",2.48,5.14,1.0,2024,4
+1.0,9:15,1.0,9.0,BUF 9,0.0,0.0,James Conner left end for 4 yards (tackle by Terrel Bernard),5.14,5.15,1.0,2024,4
+1.0,8:30,2.0,5.0,BUF 5,0.0,0.0,Kyler Murray sacked by Gregory Rousseau for no gain,5.15,4.26,1.0,2024,4
+1.0,7:54,3.0,5.0,BUF 5,6.0,0.0,"Kyler Murray pass complete short left to Michael Wilson for 5 yards, touchdown",4.26,7.0,1.0,2024,4
+1.0,7:47,,,BUF 15,7.0,0.0,Matt Prater kicks extra point good,0.0,0.0,1.0,2024,4
+1.0,7:47,,,ARI 35,7.0,0.0,"Matt Prater kicks off 63 yards, returned by Brandon Codrington for 53 yards (tackle by Max Melton and Kei'Trel Clark)",0.0,2.59,1.0,2024,4
+1.0,7:39,1.0,10.0,ARI 45,7.0,0.0,James Cook left guard for 9 yards (tackle by Jalen Thompson),2.59,3.26,1.0,2024,4
+1.0,7:06,2.0,1.0,ARI 36,7.0,0.0,James Cook right guard for 3 yards (tackle by Zaven Collins and Jalen Thompson),3.26,3.38,1.0,2024,4
+1.0,6:23,1.0,10.0,ARI 33,7.0,0.0,Josh Allen pass complete short middle to Mack Hollins for 14 yards (tackle by Budda Baker),3.38,4.31,1.0,2024,4
+1.0,5:38,1.0,10.0,ARI 19,7.0,0.0,"Josh Allen sacked by Roy Lopez for -10 yards. Josh Allen fumbles (forced by Roy Lopez), recovered by Justin Jones at ARI-29",4.31,-0.87,1.0,2024,4
+1.0,5:24,1.0,10.0,ARI 29,7.0,0.0,James Conner left end for 4 yards (tackle by Von Miller),0.87,0.87,1.0,2024,4
+1.0,4:46,2.0,6.0,ARI 33,7.0,0.0,Kyler Murray pass complete short left to James Conner for 2 yards (tackle by Gregory Rousseau),0.87,0.43,1.0,2024,4
+1.0,4:08,3.0,4.0,ARI 35,7.0,0.0,Kyler Murray pass complete short right to Emari Demercado for 24 yards (tackle by Christian Benford),0.43,2.85,1.0,2024,4
+1.0,3:24,1.0,10.0,BUF 41,7.0,0.0,Kyler Murray pass complete short left to Trey McBride for 6 yards (tackle by Cameron Lewis),2.85,3.12,1.0,2024,4
+1.0,2:41,2.0,4.0,BUF 35,7.0,0.0,Kyler Murray pass complete short right to Elijah Higgins for 7 yards (tackle by Terrel Bernard),3.12,3.71,1.0,2024,4
+1.0,2:01,1.0,10.0,BUF 28,7.0,0.0,Kyler Murray right end for 11 yards (tackle by Taylor Rapp),3.71,4.44,1.0,2024,4
+1.0,1:33,1.0,10.0,BUF 17,7.0,0.0,Kyler Murray pass complete short middle to Greg Dortch for 3 yards (tackle by Terrel Bernard),4.44,4.32,1.0,2024,4
+1.0,0:55,2.0,7.0,BUF 14,7.0,0.0,James Conner right guard for 1 yard (tackle by Gregory Rousseau),4.32,3.68,1.0,2024,4
+1.0,0:15,3.0,6.0,BUF 13,7.0,0.0,Kyler Murray pass complete short right to Emari Demercado for 2 yards (tackle by Rasul Douglas),3.68,2.77,1.0,2024,4
+2.0,15:00,4.0,4.0,BUF 11,10.0,0.0,Matt Prater 29 yard field goal good,2.77,3.0,1.0,2024,4
+2.0,14:57,,,ARI 35,10.0,0.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,4
+2.0,14:57,1.0,10.0,BUF 30,10.0,0.0,"Josh Allen pass incomplete short right intended for Keon Coleman (defended by Zaven Collins). Penalty on Sean Murphy-Bunting: Defensive Pass Interference, 6 yards (accepted) (no play)",0.94,1.33,1.0,2024,4
+2.0,14:54,1.0,10.0,BUF 36,10.0,0.0,James Cook right guard for 15 yards (tackle by Mack Wilson),1.33,2.32,1.0,2024,4
+2.0,14:29,1.0,10.0,ARI 49,10.0,0.0,James Cook right guard for 5 yards (tackle by Budda Baker and Kyzir White),2.32,2.46,1.0,2024,4
+2.0,13:47,2.0,5.0,ARI 44,10.0,0.0,Josh Allen pass complete short middle to Dawson Knox for 23 yards (tackle by Budda Baker),2.46,4.17,1.0,2024,4
+2.0,13:13,1.0,10.0,ARI 21,10.0,0.0,James Cook left tackle for 9 yards (tackle by Garrett Williams and Kyzir White),4.17,5.16,1.0,2024,4
+2.0,12:41,2.0,1.0,ARI 12,10.0,0.0,James Cook right guard for 4 yards (tackle by Mack Wilson and Kyzir White),5.16,5.37,1.0,2024,4
+2.0,12:02,1.0,8.0,ARI 8,10.0,0.0,James Cook right guard for 4 yards (tackle by Justin Jones and Kyzir White),5.37,5.34,1.0,2024,4
+2.0,11:22,2.0,4.0,ARI 4,10.0,0.0,James Cook left guard for no gain (tackle by Mack Wilson),5.34,4.49,1.0,2024,4
+2.0,10:38,3.0,4.0,ARI 4,10.0,0.0,"Josh Allen right guard for no gain, touchdown. Penalty on O'Cyrus Torrence: Offensive Facemask, 15 yards (accepted) (no play)",4.49,2.49,1.0,2024,4
+2.0,10:31,3.0,19.0,ARI 19,10.0,0.0,Josh Allen sacked by Kei'Trel Clark for no gain,2.49,2.18,1.0,2024,4
+2.0,9:51,4.0,19.0,ARI 19,10.0,3.0,Tyler Bass 37 yard field goal good,2.18,3.0,1.0,2024,4
+2.0,9:47,,,BUF 35,10.0,3.0,"Tyler Bass kicks off 61 yards, returned by DeeJay Dallas for 25 yards (tackle by Ty Johnson)",0.0,0.87,1.0,2024,4
+2.0,9:42,1.0,10.0,ARI 29,10.0,3.0,Kyler Murray pass complete short right to Trey Benson for 5 yards (tackle by Damar Hamlin),0.87,1.0,1.0,2024,4
+2.0,9:00,2.0,5.0,ARI 34,10.0,3.0,Trey Benson left end for 6 yards (tackle by Taylor Rapp),1.0,1.6,1.0,2024,4
+2.0,8:23,1.0,10.0,ARI 40,10.0,3.0,Kyler Murray pass incomplete short left intended for Marvin Harrison,1.6,1.05,1.0,2024,4
+2.0,8:19,2.0,10.0,ARI 40,10.0,3.0,Kyler Murray pass complete short left to Marvin Harrison for 4 yards (tackle by Dorian Williams),1.05,0.89,1.0,2024,4
+2.0,7:41,3.0,6.0,ARI 44,10.0,3.0,Kyler Murray scrambles left tackle for 12 yards (tackle by Dorian Williams),0.89,2.65,1.0,2024,4
+2.0,7:06,1.0,10.0,BUF 44,10.0,3.0,Kyler Murray pass complete short right to Elijah Higgins for 5 yards (tackle by Cameron Lewis),2.65,2.78,1.0,2024,4
+2.0,6:24,2.0,5.0,BUF 39,10.0,3.0,Kyler Murray pass incomplete deep left intended for Trey McBride,2.78,2.08,1.0,2024,4
+2.0,6:16,3.0,5.0,BUF 39,10.0,3.0,Kyler Murray pass complete short left to Greg Dortch for 14 yards (tackle by Christian Benford and Ja'Marcus Ingram),2.08,3.91,1.0,2024,4
+2.0,5:33,1.0,10.0,BUF 25,10.0,3.0,Trey Benson right end for 4 yards (tackle by Taylor Rapp),3.91,3.9,1.0,2024,4
+2.0,4:56,2.0,6.0,BUF 21,10.0,3.0,Kyler Murray pass complete short right to Trey McBride for 8 yards (tackle by Terrel Bernard),3.9,4.71,1.0,2024,4
+2.0,4:11,1.0,10.0,BUF 13,10.0,3.0,Trey Benson right end for 3 yards (tackle by Casey Toohill and Dorian Williams),4.71,4.58,1.0,2024,4
+2.0,3:27,2.0,7.0,BUF 10,10.0,3.0,Kyler Murray pass complete short left to Trey McBride for 7 yards (tackle by Damar Hamlin and Cameron Lewis),4.58,6.51,1.0,2024,4
+2.0,2:44,1.0,3.0,BUF 3,16.0,3.0,"James Conner right guard for 3 yards, touchdown",6.51,7.0,1.0,2024,4
+2.0,2:40,,,BUF 15,17.0,3.0,Matt Prater kicks extra point good,0.0,0.0,1.0,2024,4
+2.0,2:40,,,ARI 35,17.0,3.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,4
+2.0,2:40,1.0,10.0,BUF 30,17.0,3.0,"Penalty on Quintin Morris: False Start, 5 yards (accepted) (no play)",0.94,0.61,1.0,2024,4
+2.0,2:40,1.0,15.0,BUF 25,17.0,3.0,Ty Johnson left end for 6 yards (tackle by Mack Wilson),0.61,0.53,1.0,2024,4
+2.0,2:00,2.0,9.0,BUF 31,17.0,3.0,Josh Allen pass complete short right to Curtis Samuel for 8 yards (tackle by Sean Murphy-Bunting),0.53,0.89,1.0,2024,4
+2.0,1:39,3.0,1.0,BUF 39,17.0,3.0,"Penalty on Dion Dawkins: False Start, 5 yards (accepted) (no play)",0.89,0.23,1.0,2024,4
+2.0,1:31,3.0,6.0,BUF 34,17.0,3.0,Josh Allen pass complete short left to Khalil Shakir for 19 yards (tackle by Budda Baker and Krys Barnes),0.23,2.46,1.0,2024,4
+2.0,0:55,1.0,10.0,ARI 47,17.0,3.0,"Penalty on Spencer Brown: False Start, 5 yards (accepted) (no play)",2.46,2.13,1.0,2024,4
+2.0,0:55,,,,,,Timeout #1 by Buffalo Bills,,,1.0,2024,4
+2.0,0:55,1.0,15.0,BUF 48,17.0,3.0,"Josh Allen scrambles right end for 6 yards (tackle by Krys Barnes). Penalty on Sean Murphy-Bunting: Defensive Holding, 5 yards (accepted)",2.13,2.85,1.0,2024,4
+2.0,0:45,1.0,10.0,ARI 41,17.0,3.0,"Josh Allen sacked by Zaven Collins for no gain. Penalty on Zaven Collins: Roughing the Passer, 15 yards (accepted) (no play)",2.85,3.84,1.0,2024,4
+2.0,0:38,1.0,10.0,ARI 26,17.0,3.0,Josh Allen pass complete short right to Keon Coleman for 12 yards (tackle by Kyzir White),3.84,4.65,1.0,2024,4
+2.0,0:32,1.0,10.0,ARI 14,17.0,3.0,Josh Allen right guard for 7 yards (tackle by Jalen Thompson),4.65,5.41,1.0,2024,4
+2.0,0:25,,,,,,Timeout #2 by Buffalo Bills,,,1.0,2024,4
+2.0,0:25,2.0,2.0,ARI 7,17.0,9.0,"Josh Allen right end for 7 yards, touchdown",5.41,7.0,1.0,2024,4
+2.0,0:19,,,ARI 15,17.0,10.0,Tyler Bass kicks extra point good,0.0,0.0,1.0,2024,4
+2.0,0:19,,,BUF 35,17.0,10.0,"Tyler Bass kicks off 63 yards, recovered by DeeJay Dallas at ARI-2 (tackle by Casey Toohill)",0.0,-0.38,1.0,2024,4
+2.0,0:11,1.0,10.0,ARI 4,17.0,10.0,Kyler Murray kneels for -1 yards,-0.38,-0.85,1.0,2024,4
+3.0,15:00,,,ARI 35,17.0,10.0,"Matt Prater kicks off 25 yards,. Penalty on Matt Prater: Kickoff Short of Landing Zone (accepted)",0.0,1.6,1.0,2024,4
+3.0,15:00,1.0,10.0,BUF 40,17.0,10.0,"James Cook left end for 1 yard (tackle by Kyzir White and Budda Baker). Penalty on Dion Dawkins: Offensive Holding, 10 yards (accepted)",1.6,1.0,1.0,2024,4
+3.0,14:36,1.0,19.0,BUF 31,17.0,10.0,Josh Allen pass complete short right to James Cook for 4 yards (tackle by Owen Pappoe and Sean Murphy-Bunting),1.0,0.38,1.0,2024,4
+3.0,13:50,2.0,15.0,BUF 35,17.0,10.0,Josh Allen pass complete short right to Keon Coleman for 4 yards (tackle by Owen Pappoe and Sean Murphy-Bunting),0.38,0.23,1.0,2024,4
+3.0,13:26,3.0,11.0,BUF 39,17.0,10.0,Josh Allen pass complete short right to James Cook for 25 yards (tackle by Budda Baker),0.23,3.18,1.0,2024,4
+3.0,12:44,1.0,10.0,ARI 36,17.0,10.0,James Cook right guard for -2 yards (tackle by Budda Baker and Zaven Collins),3.18,2.37,1.0,2024,4
+3.0,11:46,2.0,12.0,ARI 38,17.0,10.0,Josh Allen pass complete short left to Ray Davis for 14 yards (tackle by Garrett Williams),2.37,3.97,1.0,2024,4
+3.0,11:24,1.0,10.0,ARI 24,17.0,10.0,Ray Davis right tackle for 13 yards (tackle by Jalen Thompson),3.97,4.84,1.0,2024,4
+3.0,10:42,1.0,10.0,ARI 11,17.0,10.0,Ray Davis left guard for no gain (tackle by Zaven Collins),4.84,4.14,1.0,2024,4
+3.0,10:03,2.0,10.0,ARI 11,17.0,10.0,Josh Allen pass incomplete short right intended for Dalton Kincaid (defended by Mack Wilson),4.14,3.13,1.0,2024,4
+3.0,9:55,3.0,10.0,ARI 11,17.0,16.0,"Josh Allen pass complete short middle to Mack Hollins for 11 yards, touchdown",3.13,7.0,1.0,2024,4
+3.0,9:51,,,ARI 15,17.0,17.0,Tyler Bass kicks extra point good,0.0,0.0,1.0,2024,4
+3.0,9:51,,,BUF 35,17.0,17.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,4
+3.0,9:51,1.0,10.0,ARI 30,17.0,17.0,James Conner left end for 2 yards (tackle by Terrel Bernard),0.94,0.66,1.0,2024,4
+3.0,9:20,2.0,8.0,ARI 32,17.0,17.0,James Conner right end for 2 yards (tackle by Cameron Lewis),0.66,0.23,1.0,2024,4
+3.0,8:41,3.0,6.0,ARI 34,17.0,17.0,Kyler Murray sacked by Gregory Rousseau for -8 yards,0.23,-1.63,1.0,2024,4
+3.0,8:03,4.0,14.0,ARI 26,17.0,17.0,"Blake Gillikin punts 50 yards, returned by Brandon Codrington for 7 yards (tackle by Max Melton)",-1.63,-1.0,1.0,2024,4
+3.0,7:53,1.0,10.0,BUF 31,17.0,17.0,Josh Allen pass complete short right to James Cook for 3 yards (tackle by Zaven Collins),1.0,0.87,1.0,2024,4
+3.0,7:22,2.0,7.0,BUF 34,17.0,17.0,Ray Davis right guard for no gain (tackle by Zaven Collins),0.87,0.17,1.0,2024,4
+3.0,6:35,3.0,7.0,BUF 34,17.0,17.0,Josh Allen pass incomplete deep middle intended for Marquez Valdes-Scantling,0.17,-1.11,1.0,2024,4
+3.0,6:28,4.0,7.0,BUF 34,17.0,17.0,"Sam Martin punts 51 yards, returned by Greg Dortch for 6 yards (tackle by Mack Hollins and Cameron Lewis)",-1.11,-0.34,1.0,2024,4
+3.0,6:16,1.0,10.0,ARI 21,17.0,17.0,Kyler Murray pass complete short right to Greg Dortch for 3 yards (tackle by Cameron Lewis),0.34,0.21,1.0,2024,4
+3.0,5:42,2.0,7.0,ARI 24,17.0,17.0,"Kyler Murray sacked by Gregory Rousseau for -3 yards. Kyler Murray fumbles (forced by Gregory Rousseau), recovered by Dorian Williams at ARI-21",0.21,-4.17,1.0,2024,4
+3.0,5:25,1.0,10.0,ARI 21,17.0,17.0,James Cook up the middle for 1 yard (tackle by Mack Wilson),4.17,3.76,1.0,2024,4
+3.0,4:51,2.0,9.0,ARI 20,17.0,17.0,Josh Allen pass complete short left to Keon Coleman for 7 yards (tackle by Starling Thomas and Budda Baker),3.76,4.24,1.0,2024,4
+3.0,4:02,3.0,2.0,ARI 13,17.0,17.0,Ty Johnson right guard for 1 yard (tackle by Khyiris Tonga),4.24,2.78,1.0,2024,4
+3.0,3:29,4.0,1.0,ARI 12,17.0,17.0,Josh Allen up the middle for 1 yard (tackle by Zaven Collins and Kyzir White),2.78,4.84,1.0,2024,4
+3.0,2:43,1.0,10.0,ARI 11,17.0,23.0,"Josh Allen pass complete short left to Khalil Shakir for 11 yards, touchdown",4.84,7.0,1.0,2024,4
+3.0,2:37,,,ARI 15,17.0,24.0,Tyler Bass kicks extra point good,0.0,0.0,1.0,2024,4
+3.0,2:37,,,BUF 35,17.0,24.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,4
+3.0,2:37,1.0,10.0,ARI 30,17.0,24.0,James Conner up the middle for 3 yards (tackle by Cameron Lewis and Terrel Bernard),0.94,0.8,1.0,2024,4
+3.0,2:00,2.0,7.0,ARI 33,17.0,24.0,Kyler Murray pass incomplete deep right intended for Trey McBride (defended by Taylor Rapp),0.8,0.1,1.0,2024,4
+3.0,1:53,3.0,7.0,ARI 33,17.0,24.0,Kyler Murray scrambles left end for 29 yards (tackle by Christian Benford),0.1,3.05,1.0,2024,4
+3.0,1:12,1.0,10.0,BUF 38,17.0,24.0,James Conner up the middle for 20 yards (tackle by A.J. Epenesa and Damar Hamlin),3.05,4.37,1.0,2024,4
+3.0,0:31,1.0,10.0,BUF 18,17.0,24.0,Greg Dortch left end for 4 yards (tackle by Dorian Williams),4.37,4.43,1.0,2024,4
+4.0,15:00,2.0,6.0,BUF 14,17.0,24.0,James Conner right tackle for 2 yards (tackle by DaQuan Jones and Cameron Lewis),4.43,4.03,1.0,2024,4
+4.0,14:17,3.0,4.0,BUF 12,17.0,24.0,James Conner left end for no gain (tackle by Cameron Lewis),4.03,2.71,1.0,2024,4
+4.0,13:35,4.0,4.0,BUF 12,20.0,24.0,Matt Prater 31 yard field goal good,2.71,3.0,1.0,2024,4
+4.0,13:32,,,ARI 35,20.0,24.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,4
+4.0,13:32,1.0,10.0,BUF 30,20.0,24.0,James Cook right guard for 6 yards (tackle by Mack Wilson),0.94,1.2,1.0,2024,4
+4.0,12:54,2.0,4.0,BUF 36,20.0,24.0,Josh Allen pass complete short left to Marquez Valdes-Scantling for 19 yards (tackle by Starling Thomas and Budda Baker),1.2,2.59,1.0,2024,4
+4.0,12:14,1.0,10.0,ARI 45,20.0,24.0,James Cook right end for 1 yard (tackle by Garrett Williams),2.59,2.18,1.0,2024,4
+4.0,11:28,2.0,9.0,ARI 44,20.0,24.0,Josh Allen pass incomplete short right intended for Dawson Knox (defended by Starling Thomas),2.18,1.49,1.0,2024,4
+4.0,11:21,3.0,9.0,ARI 44,20.0,24.0,"Penalty on O'Cyrus Torrence: False Start, 5 yards (accepted) (no play)",1.49,0.83,1.0,2024,4
+4.0,11:21,3.0,14.0,ARI 49,20.0,24.0,Josh Allen pass complete short middle to Khalil Shakir for 12 yards (tackle by Kei'Trel Clark and Budda Baker),0.83,0.79,1.0,2024,4
+4.0,10:43,4.0,2.0,ARI 37,20.0,24.0,Josh Allen scrambles right end for 5 yards (tackle by Kyzir White),0.79,3.45,1.0,2024,4
+4.0,10:00,,,,,,Timeout #1 by Buffalo Bills,,,1.0,2024,4
+4.0,10:00,1.0,10.0,ARI 32,20.0,24.0,James Cook left end for -2 yards (tackle by Zaven Collins and Kyzir White),3.45,2.63,1.0,2024,4
+4.0,9:19,2.0,12.0,ARI 34,20.0,24.0,Josh Allen pass complete deep right to Keon Coleman for 28 yards (tackle by Starling Thomas),2.63,5.83,1.0,2024,4
+4.0,8:55,1.0,6.0,ARI 6,20.0,24.0,Josh Allen pass incomplete short right intended for Keon Coleman,5.83,4.95,1.0,2024,4
+4.0,8:51,2.0,6.0,ARI 6,20.0,30.0,"Josh Allen scrambles right guard for 6 yards, touchdown",4.95,7.0,1.0,2024,4
+4.0,8:44,,,ARI 15,20.0,31.0,Tyler Bass kicks extra point good,0.0,0.0,1.0,2024,4
+4.0,8:44,,,BUF 35,26.0,31.0,"Tyler Bass kicks off 61 yards, returned by DeeJay Dallas for 96 yards, touchdown",0.0,7.0,1.0,2024,4
+4.0,8:31,,,BUF 2,28.0,31.0,"Two Point Attempt: James Conner rushes, conversion succeeds.",1.0,1.0,1.0,2024,4
+4.0,8:31,,,ARI 35,28.0,31.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,4
+4.0,8:31,1.0,10.0,BUF 30,28.0,31.0,Josh Allen scrambles up the middle for 9 yards (tackle by Mack Wilson),0.94,1.61,1.0,2024,4
+4.0,7:47,2.0,1.0,BUF 39,28.0,31.0,"James Cook left guard for 3 yards (tackle by Jalen Thompson and Zaven Collins). Penalty on O'Cyrus Torrence: Offensive Holding, 10 yards (accepted)",1.61,0.66,1.0,2024,4
+4.0,7:34,2.0,8.0,BUF 32,28.0,31.0,Josh Allen pass complete short left to Dalton Kincaid for 11 yards (tackle by Sean Murphy-Bunting and Owen Pappoe),0.66,1.8,1.0,2024,4
+4.0,7:00,1.0,10.0,BUF 43,28.0,31.0,James Cook right end for -3 yards (tackle by Mack Wilson),1.8,0.85,1.0,2024,4
+4.0,6:15,2.0,13.0,BUF 40,28.0,31.0,Josh Allen pass complete short left to Curtis Samuel for 7 yards (tackle by Owen Pappoe),0.85,1.09,1.0,2024,4
+4.0,5:42,3.0,6.0,BUF 47,28.0,31.0,Josh Allen pass incomplete short middle intended for Ty Johnson,1.09,-0.26,1.0,2024,4
+4.0,5:28,4.0,6.0,BUF 47,28.0,31.0,Sam Martin punts 34 yards downed by Reggie Gilliam,-0.26,-0.15,1.0,2024,4
+4.0,5:17,1.0,10.0,ARI 19,28.0,31.0,Kyler Murray pass incomplete short left intended for Trey McBride,0.15,-0.39,1.0,2024,4
+4.0,5:13,2.0,10.0,ARI 19,28.0,31.0,Kyler Murray pass incomplete short right intended for James Conner (defended by DaQuan Jones),-0.39,-1.07,1.0,2024,4
+4.0,5:08,3.0,10.0,ARI 19,28.0,31.0,Kyler Murray sacked by Von Miller for -5 yards,-1.07,-2.47,1.0,2024,4
+4.0,4:32,4.0,15.0,ARI 14,28.0,31.0,Blake Gillikin punts 28 yards out of bounds,-2.47,-2.79,1.0,2024,4
+4.0,4:30,1.0,10.0,ARI 42,28.0,31.0,James Cook up the middle for 9 yards (tackle by Kyzir White and Sean Murphy-Bunting),2.79,3.46,1.0,2024,4
+4.0,3:52,2.0,1.0,ARI 33,28.0,31.0,"Penalty on ARI: Defensive Too Many Men on Field, 5 yards (accepted) (no play)",3.46,3.71,1.0,2024,4
+4.0,3:52,1.0,10.0,ARI 28,28.0,31.0,James Cook up the middle for 7 yards (tackle by Zaven Collins and Justin Jones),3.71,4.11,1.0,2024,4
+4.0,3:09,2.0,3.0,ARI 21,28.0,31.0,James Cook left tackle for 1 yard (tackle by Mack Wilson and Jalen Thompson),4.11,3.53,1.0,2024,4
+4.0,2:22,3.0,2.0,ARI 20,28.0,31.0,Josh Allen left guard for -1 yards (tackle by Kyzir White),3.53,2.16,1.0,2024,4
+4.0,2:00,4.0,3.0,ARI 21,28.0,34.0,Tyler Bass 39 yard field goal good,2.16,3.0,1.0,2024,4
+4.0,1:56,,,BUF 35,28.0,34.0,"Tyler Bass kicks off 25 yards, out of bounds. Penalty on Tyler Bass: Kickoff Out of Bounds (accepted)",0.0,1.6,1.0,2024,4
+4.0,1:56,1.0,10.0,ARI 40,28.0,34.0,Kyler Murray pass incomplete deep right intended for Michael Wilson,1.6,1.05,1.0,2024,4
+4.0,1:51,2.0,10.0,ARI 40,28.0,34.0,Kyler Murray pass complete short right to Trey McBride for 5 yards (tackle by Terrel Bernard),1.05,1.03,1.0,2024,4
+4.0,1:33,3.0,5.0,ARI 45,28.0,34.0,Kyler Murray pass complete short left to Greg Dortch for 12 yards (tackle by Cameron Lewis),1.03,2.72,1.0,2024,4
+4.0,1:28,1.0,10.0,BUF 43,28.0,34.0,Kyler Murray pass complete short left to Trey McBride for 4 yards (tackle by Dorian Williams),2.72,2.72,1.0,2024,4
+4.0,1:07,2.0,6.0,BUF 39,28.0,34.0,Kyler Murray pass complete short right to Greg Dortch for 7 yards (tackle by Dorian Williams),2.72,3.45,1.0,2024,4
+4.0,0:44,1.0,10.0,BUF 32,28.0,34.0,Kyler Murray pass incomplete short left intended for Trey McBride,3.45,2.9,1.0,2024,4
+4.0,0:40,2.0,10.0,BUF 32,28.0,34.0,Kyler Murray pass incomplete short middle intended for Greg Dortch,2.9,2.21,1.0,2024,4
+4.0,0:36,3.0,10.0,BUF 32,28.0,34.0,James Conner right guard for 3 yards (tackle by Dorian Williams),2.21,1.5,1.0,2024,4
+4.0,0:32,,,,,,Timeout #1 by Arizona Cardinals,,,1.0,2024,4
+4.0,0:32,4.0,7.0,BUF 29,28.0,34.0,Kyler Murray pass incomplete deep left intended for Greg Dortch (defended by Ja'Marcus Ingram),1.5,-0.87,1.0,2024,4
+4.0,0:26,1.0,10.0,BUF 29,28.0,34.0,Josh Allen kneels for -1 yards,0.87,0.19,1.0,2024,4

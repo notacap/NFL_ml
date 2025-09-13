@@ -1,0 +1,163 @@
+Quarter,Time,Down,ToGo,Location,KAN,LVR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Raiders won the coin toss and deferred, Chiefs to receive the opening kickoff.",,,18.0,2022,256
+1.0,15:00,,,LVR 35,0.0,0.0,"Daniel Carlson kicks off 65 yards, touchback.",0.0,0.61,18.0,2022,256
+1.0,15:00,1.0,10.0,KAN 25,0.0,0.0,Isiah Pacheco up the middle for 5 yards (tackle by Luke Masterson and Tyler Hall),0.61,0.74,18.0,2022,256
+1.0,14:22,2.0,5.0,KAN 30,0.0,0.0,Patrick Mahomes pass complete deep left to Justin Watson for 67 yards (tackle by Amik Robertson),0.74,6.51,18.0,2022,256
+1.0,13:41,1.0,3.0,LVR 3,0.0,0.0,Patrick Mahomes pass complete short right to Travis Kelce for -1 yards (tackle by Amik Robertson and Maxx Crosby),6.51,5.34,18.0,2022,256
+1.0,13:03,2.0,4.0,LVR 4,0.0,0.0,Patrick Mahomes pass incomplete short right,5.34,4.49,18.0,2022,256
+1.0,12:58,3.0,4.0,LVR 4,0.0,0.0,"Penalty on LVR: Defensive Too Many Men on Field, 2 yards (accepted) (no play)",4.49,4.95,18.0,2022,256
+1.0,12:58,3.0,2.0,LVR 2,6.0,0.0,"Patrick Mahomes pass complete short left to Jerick McKinnon for 2 yards, touchdown",4.95,7.0,18.0,2022,256
+1.0,12:52,,,LVR 15,7.0,0.0,Harrison Butker kicks extra point good,0.0,0.0,18.0,2022,256
+1.0,12:52,,,KAN 35,7.0,0.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,18.0,2022,256
+1.0,12:52,1.0,10.0,LVR 25,7.0,0.0,Jarrett Stidham pass complete short left to Foster Moreau for 10 yards (tackle by Leo Chenal and Nick Bolton),0.61,1.27,18.0,2022,256
+1.0,12:13,1.0,10.0,LVR 35,7.0,0.0,Josh Jacobs left guard for 4 yards (tackle by Willie Gay and Nick Bolton),1.27,1.26,18.0,2022,256
+1.0,11:30,2.0,6.0,LVR 39,7.0,0.0,Jarrett Stidham scrambles right end for 8 yards (tackle by George Karlaftis),1.26,2.06,18.0,2022,256
+1.0,10:54,1.0,10.0,LVR 47,7.0,0.0,Josh Jacobs up the middle for -2 yards (tackle by Juan Thornhill),2.06,1.25,18.0,2022,256
+1.0,10:17,2.0,12.0,LVR 45,7.0,0.0,Jarrett Stidham scrambles up the middle for 10 yards (tackle by Trent McDuffie),1.25,1.88,18.0,2022,256
+1.0,9:32,3.0,2.0,KAN 45,7.0,0.0,Jarrett Stidham pass complete short right to Davante Adams for 13 yards (tackle by Jaylen Watson),1.88,3.45,18.0,2022,256
+1.0,8:54,1.0,10.0,KAN 32,7.0,0.0,Jarrett Stidham pass incomplete deep left intended for Davante Adams,3.45,2.9,18.0,2022,256
+1.0,8:47,2.0,10.0,KAN 32,7.0,0.0,Jarrett Stidham pass complete short left to Hunter Renfrow for 4 yards (tackle by L'Jarius Sneed and Juan Thornhill),2.9,2.74,18.0,2022,256
+1.0,8:01,3.0,6.0,KAN 28,7.0,0.0,Jarrett Stidham sacked by Chris Jones for -7 yards,2.74,0.97,18.0,2022,256
+1.0,7:20,4.0,13.0,KAN 35,7.0,3.0,Daniel Carlson 54 yard field goal good,0.97,3.0,18.0,2022,256
+1.0,7:15,,,LVR 35,7.0,3.0,"Daniel Carlson kicks off 65 yards, touchback.",0.0,0.61,18.0,2022,256
+1.0,7:15,1.0,10.0,KAN 25,7.0,3.0,Patrick Mahomes pass complete short left to Travis Kelce for 7 yards (tackle by Harvey Langi),0.61,1.01,18.0,2022,256
+1.0,6:45,2.0,3.0,KAN 32,7.0,3.0,Ronald Jones up the middle for 2 yards (tackle by Luke Masterson and Bilal Nichols),1.01,0.56,18.0,2022,256
+1.0,6:05,3.0,1.0,KAN 34,7.0,3.0,Kadarius Toney right end for 1 yard (tackle by Harvey Langi),0.56,1.27,18.0,2022,256
+1.0,5:33,1.0,10.0,KAN 35,7.0,3.0,Ronald Jones right tackle for 1 yard (tackle by Luke Masterson and Bilal Nichols),1.27,0.86,18.0,2022,256
+1.0,4:57,2.0,9.0,KAN 36,7.0,3.0,Patrick Mahomes pass complete short middle to Noah Gray for 14 yards (tackle by Luke Masterson),0.86,2.26,18.0,2022,256
+1.0,4:20,1.0,10.0,KAN 50,7.0,3.0,Patrick Mahomes pass incomplete deep right intended for Marquez Valdes-Scantling (defended by Trevon Moehrig),2.26,1.71,18.0,2022,256
+1.0,4:14,2.0,10.0,KAN 50,7.0,3.0,Isiah Pacheco right tackle for 8 yards (tackle by Luke Masterson),1.71,2.08,18.0,2022,256
+1.0,3:37,3.0,2.0,LVR 42,7.0,3.0,Patrick Mahomes pass incomplete short right intended for Travis Kelce,2.08,0.46,18.0,2022,256
+1.0,3:33,4.0,2.0,LVR 42,7.0,3.0,Tommy Townsend punts 37 yards downed by Chris Lammons,0.46,0.38,18.0,2022,256
+1.0,3:25,1.0,10.0,LVR 5,7.0,3.0,Josh Jacobs left tackle for 1 yard (tackle by Nick Bolton),-0.38,-0.71,18.0,2022,256
+1.0,2:51,2.0,9.0,LVR 6,7.0,3.0,Jarrett Stidham pass complete short middle to Mack Hollins for 12 yards (tackle by Juan Thornhill),-0.71,0.04,18.0,2022,256
+1.0,1:56,1.0,10.0,LVR 18,7.0,3.0,Jarrett Stidham sacked by Justin Reid for -8 yards,0.04,-1.36,18.0,2022,256
+1.0,1:11,2.0,18.0,LVR 10,7.0,3.0,Jarrett Stidham pass deep right intended for Mack Hollins is intercepted by Juan Thornhill at LV-44 and returned for no gain,-1.36,-2.65,18.0,2022,256
+1.0,1:04,1.0,10.0,LVR 44,7.0,3.0,Patrick Mahomes pass complete short middle to JuJu Smith-Schuster for 28 yards (tackle by Duron Harmon),2.65,4.51,18.0,2022,256
+1.0,0:22,1.0,10.0,LVR 16,7.0,3.0,Kadarius Toney left tackle for 14 yards (tackle by Trevon Moehrig),4.51,6.74,18.0,2022,256
+2.0,15:00,1.0,2.0,LVR 2,13.0,3.0,"Ronald Jones left guard for 2 yards, touchdown",6.74,7.0,18.0,2022,256
+2.0,14:56,,,LVR 15,14.0,3.0,Harrison Butker kicks extra point good,0.0,0.0,18.0,2022,256
+2.0,14:56,,,KAN 35,14.0,3.0,"Harrison Butker kicks off 66 yards, returned by Ameer Abdullah for 25 yards (tackle by Leo Chenal and Jaylen Watson)",0.0,0.54,18.0,2022,256
+2.0,14:47,1.0,10.0,LVR 24,14.0,3.0,Josh Jacobs right end for -1 yards (tackle by Leo Chenal),0.54,-0.14,18.0,2022,256
+2.0,14:00,2.0,11.0,LVR 23,14.0,3.0,Jarrett Stidham pass complete short right to Darren Waller for 24 yards (tackle by Darius Harris and Juan Thornhill),-0.14,2.06,18.0,2022,256
+2.0,13:15,1.0,10.0,LVR 47,14.0,3.0,Jarrett Stidham scrambles left tackle for 10 yards (tackle by Nick Bolton),2.06,2.72,18.0,2022,256
+2.0,12:31,1.0,10.0,KAN 43,14.0,3.0,Josh Jacobs left guard for 3 yards (tackle by Nick Bolton and Justin Reid),2.72,2.58,18.0,2022,256
+2.0,11:48,2.0,7.0,KAN 40,14.0,3.0,Jarrett Stidham scrambles right end for 5 yards (tackle by Justin Reid),2.58,2.54,18.0,2022,256
+2.0,11:04,3.0,2.0,KAN 35,14.0,3.0,Jarrett Stidham pass complete short left to Davante Adams for 8 yards (tackle by Juan Thornhill),2.54,3.78,18.0,2022,256
+2.0,10:30,1.0,10.0,KAN 27,14.0,3.0,Josh Jacobs left tackle for 7 yards (tackle by Leo Chenal),3.78,4.11,18.0,2022,256
+2.0,9:55,2.0,4.0,KAN 20,14.0,3.0,Josh Jacobs up the middle for 2 yards (tackle by Frank Clark),4.11,3.84,18.0,2022,256
+2.0,9:12,3.0,1.0,KAN 18,14.0,3.0,Josh Jacobs left tackle for 1 yard (tackle by Nick Bolton),3.84,4.44,18.0,2022,256
+2.0,8:26,1.0,10.0,KAN 17,14.0,3.0,Jarrett Stidham pass complete short left to Ameer Abdullah for 10 yards (tackle by Justin Reid and Nick Bolton),4.44,5.6,18.0,2022,256
+2.0,7:44,1.0,7.0,KAN 7,14.0,3.0,Josh Jacobs left guard for 2 yards (tackle by Michael Danna and Nick Bolton),5.6,5.15,18.0,2022,256
+2.0,6:58,2.0,5.0,KAN 5,14.0,3.0,Josh Jacobs up the middle for 3 yards (tackle by Justin Reid and Willie Gay),5.15,4.95,18.0,2022,256
+2.0,6:15,3.0,2.0,KAN 2,14.0,3.0,Jarrett Stidham pass incomplete short left intended for Darren Waller,4.95,3.25,18.0,2022,256
+2.0,6:11,4.0,2.0,KAN 2,14.0,3.0,Jarrett Stidham pass incomplete short right intended for Davante Adams,3.25,0.38,18.0,2022,256
+2.0,6:06,1.0,10.0,KAN 2,14.0,3.0,Isiah Pacheco left guard for 3 yards (tackle by Andrew Billings and Maxx Crosby),-0.38,-0.56,18.0,2022,256
+2.0,5:32,2.0,7.0,KAN 5,14.0,3.0,Patrick Mahomes pass complete short left to Blake Bell for 3 yards (tackle by Nate Hobbs),-0.56,-0.72,18.0,2022,256
+2.0,4:48,3.0,4.0,KAN 8,14.0,3.0,"Patrick Mahomes pass incomplete intended for Marquez Valdes-Scantling. Penalty on Maxx Crosby: Roughing the Passer, 14 yards (accepted) (no play)",-0.72,0.41,18.0,2022,256
+2.0,4:42,1.0,10.0,KAN 22,14.0,3.0,Patrick Mahomes pass complete short right to Travis Kelce for 15 yards (tackle by Duron Harmon),0.41,1.4,18.0,2022,256
+2.0,4:00,1.0,10.0,KAN 37,14.0,3.0,"Isiah Pacheco for 6 yards. Penalty on Maxx Crosby: Defensive Offside, 5 yards (accepted) (no play)",1.4,2.13,18.0,2022,256
+2.0,3:49,1.0,5.0,KAN 42,14.0,3.0,Patrick Mahomes pass complete short left to Marquez Valdes-Scantling for 13 yards (tackle by Amik Robertson),2.13,2.59,18.0,2022,256
+2.0,3:19,1.0,10.0,LVR 45,14.0,3.0,Isiah Pacheco up the middle for 5 yards (tackle by Clelin Ferrell and Bilal Nichols),2.59,2.72,18.0,2022,256
+2.0,2:37,2.0,5.0,LVR 40,14.0,3.0,Patrick Mahomes pass complete short left to Kadarius Toney for 10 yards (tackle by Duron Harmon),2.72,3.58,18.0,2022,256
+2.0,2:00,1.0,10.0,LVR 30,14.0,3.0,Patrick Mahomes pass complete short middle to Jerick McKinnon for -2 yards (tackle by Isaiah Pola-Mao),3.58,2.76,18.0,2022,256
+2.0,1:24,2.0,12.0,LVR 32,14.0,3.0,Patrick Mahomes scrambles right end for 2 yards (tackle by Luke Masterson),2.76,2.34,18.0,2022,256
+2.0,1:18,3.0,10.0,LVR 30,14.0,3.0,Patrick Mahomes scrambles left tackle for 14 yards (tackle by Maxx Crosby),2.34,4.51,18.0,2022,256
+2.0,1:09,,,,,,Timeout #1 by Kansas City Chiefs,,,18.0,2022,256
+2.0,1:09,1.0,10.0,LVR 16,14.0,3.0,Patrick Mahomes pass complete short middle to JuJu Smith-Schuster for 7 yards (tackle by Roderic Teamer),4.51,5.16,18.0,2022,256
+2.0,1:02,,,,,,Timeout #1 by Las Vegas Raiders,,,18.0,2022,256
+2.0,1:02,2.0,3.0,LVR 9,14.0,3.0,"Patrick Mahomes pass complete short left to Kadarius Toney for 8 yards, touchdown. Penalty on Creed Humphrey: Offensive Holding, 10 yards (accepted)",5.16,4.76,18.0,2022,256
+2.0,0:53,2.0,5.0,LVR 11,20.0,3.0,"Kadarius Toney left end for 11 yards, touchdown",4.76,7.0,18.0,2022,256
+2.0,0:47,,,LVR 15,21.0,3.0,Harrison Butker kicks extra point good,0.0,0.0,18.0,2022,256
+2.0,0:47,,,KAN 35,21.0,3.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,18.0,2022,256
+2.0,0:47,1.0,10.0,LVR 25,21.0,3.0,Jarrett Stidham pass complete deep middle to Davante Adams for 22 yards (tackle by Nick Bolton),0.61,1.99,18.0,2022,256
+2.0,0:42,,,,,,Timeout #2 by Las Vegas Raiders,,,18.0,2022,256
+2.0,0:42,1.0,10.0,LVR 46,21.0,3.0,"Jarrett Stidham pass incomplete intended for Davante Adams. Penalty on L'Jarius Sneed: Defensive Pass Interference, 8 yards (accepted) (no play)",1.99,2.59,18.0,2022,256
+2.0,0:38,1.0,10.0,KAN 45,21.0,3.0,Jarrett Stidham sacked by and George Karlaftis for -7 yards and Chris Jones for -7 yards,2.59,1.1,18.0,2022,256
+2.0,0:32,,,,,,Timeout #3 by Las Vegas Raiders,,,18.0,2022,256
+2.0,0:32,2.0,17.0,LVR 48,21.0,3.0,"Jarrett Stidham pass complete to Davante Adams for no gain. Penalty on Dylan Parham: Illegal Use of Hands / Offense, 10 yards (accepted) (no play)",1.1,-0.25,18.0,2022,256
+2.0,0:24,2.0,27.0,LVR 38,21.0,3.0,Jarrett Stidham pass incomplete short right,-0.25,-0.89,18.0,2022,256
+2.0,0:17,3.0,27.0,LVR 38,21.0,3.0,"Jarrett Stidham sacked by Michael Danna for -8 yards. Jarrett Stidham fumbles (forced by Michael Danna), recovered by George Karlaftis at LV-30 (tackle by Alex Bars). Penalty on Darren Waller: Illegal Shift, 5 yards (declined)",-0.89,-3.58,18.0,2022,256
+2.0,0:09,1.0,10.0,LVR 30,21.0,3.0,Patrick Mahomes pass complete short left to Marquez Valdes-Scantling for 4 yards (tackle by Sidney Jones),3.58,3.57,18.0,2022,256
+2.0,0:05,2.0,6.0,LVR 26,24.0,3.0,Harrison Butker 44 yard field goal good,3.57,3.0,18.0,2022,256
+3.0,15:00,,,KAN 35,24.0,3.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,18.0,2022,256
+3.0,15:00,1.0,10.0,LVR 25,24.0,3.0,Jarrett Stidham scrambles left guard for 5 yards (tackle by Leo Chenal),0.61,0.74,18.0,2022,256
+3.0,14:22,2.0,5.0,LVR 30,24.0,3.0,Jarrett Stidham pass complete short middle to Josh Jacobs for 4 yards (tackle by Willie Gay),0.74,0.56,18.0,2022,256
+3.0,13:36,3.0,1.0,LVR 34,24.0,3.0,Jarrett Stidham scrambles right end for 5 yards (tackle by Willie Gay),0.56,1.53,18.0,2022,256
+3.0,12:54,1.0,10.0,LVR 39,24.0,3.0,Josh Jacobs right guard for 3 yards (tackle by Chris Jones),1.53,1.39,18.0,2022,256
+3.0,12:11,2.0,7.0,LVR 42,24.0,3.0,Zamir White left end for 4 yards (tackle by Juan Thornhill and Nick Bolton),1.39,1.22,18.0,2022,256
+3.0,11:32,3.0,3.0,LVR 46,24.0,3.0,Jarrett Stidham pass complete short right to Hunter Renfrow for 16 yards (tackle by L'Jarius Sneed),1.22,3.05,18.0,2022,256
+3.0,10:50,1.0,10.0,KAN 38,24.0,3.0,Jarrett Stidham pass complete short right to Jakob Johnson for 3 yards (tackle by Trent McDuffie),3.05,2.91,18.0,2022,256
+3.0,10:05,2.0,7.0,KAN 35,24.0,3.0,"Jarrett Stidham pass complete to Josh Jacobs for no gain. Penalty on Michael Danna: Defensive Offside, 5 yards (accepted) (no play)",2.91,3.59,18.0,2022,256
+3.0,9:41,2.0,2.0,KAN 30,24.0,3.0,Josh Jacobs left guard for 1 yard (tackle by Khalen Saunders),3.59,3.01,18.0,2022,256
+3.0,9:03,3.0,1.0,KAN 29,24.0,3.0,Josh Jacobs left tackle for 10 yards (tackle by Juan Thornhill),3.01,4.31,18.0,2022,256
+3.0,8:30,1.0,10.0,KAN 19,24.0,3.0,Josh Jacobs left tackle for no gain (tackle by Chris Jones and Khalen Saunders),4.31,3.75,18.0,2022,256
+3.0,7:49,2.0,10.0,KAN 19,24.0,3.0,Jarrett Stidham pass incomplete deep middle intended for Darren Waller,3.75,3.03,18.0,2022,256
+3.0,7:44,3.0,10.0,KAN 19,24.0,3.0,"Penalty on LVR: Delay of Game, 5 yards (accepted) (no play)",3.03,2.41,18.0,2022,256
+3.0,7:44,3.0,15.0,KAN 24,24.0,3.0,Jarrett Stidham pass complete short right to Hunter Renfrow for 4 yards (tackle by Nick Bolton),2.41,2.12,18.0,2022,256
+3.0,7:00,4.0,11.0,KAN 20,24.0,6.0,Daniel Carlson 38 yard field goal good,2.12,3.0,18.0,2022,256
+3.0,6:55,,,LVR 35,24.0,6.0,"Daniel Carlson kicks off 65 yards, touchback.",0.0,0.61,18.0,2022,256
+3.0,6:55,1.0,10.0,KAN 25,24.0,6.0,Isiah Pacheco right guard for 3 yards (tackle by Luke Masterson and Sidney Jones),0.61,0.47,18.0,2022,256
+3.0,6:17,2.0,7.0,KAN 28,24.0,6.0,Patrick Mahomes pass incomplete short middle intended for Marquez Valdes-Scantling,0.47,-0.23,18.0,2022,256
+3.0,6:14,3.0,7.0,KAN 28,24.0,6.0,Patrick Mahomes sacked by Maxx Crosby for -10 yards,-0.23,-2.24,18.0,2022,256
+3.0,5:25,4.0,17.0,KAN 18,24.0,6.0,"Penalty on KAN: Delay of Game, 5 yards (accepted) (no play)",-2.24,-2.49,18.0,2022,256
+3.0,5:25,4.0,22.0,KAN 13,24.0,6.0,"Tommy Townsend punts 59 yards, returned by Hunter Renfrow for no gain (tackle by Darius Harris and Nazeeh Johnson)",-2.49,-0.81,18.0,2022,256
+3.0,5:09,1.0,10.0,LVR 28,24.0,6.0,Jarrett Stidham scrambles right end for 7 yards (tackle by Trent McDuffie),0.81,1.21,18.0,2022,256
+3.0,4:31,2.0,3.0,LVR 35,24.0,6.0,Josh Jacobs right guard for no gain (tackle by Willie Gay),1.21,0.5,18.0,2022,256
+3.0,3:44,3.0,3.0,LVR 35,24.0,6.0,Jarrett Stidham pass incomplete deep right intended for Darren Waller (defended by Justin Reid),0.5,-1.04,18.0,2022,256
+3.0,3:42,4.0,3.0,LVR 35,24.0,6.0,AJ Cole punts 63 yards out of bounds,-1.04,0.38,18.0,2022,256
+3.0,3:34,1.0,10.0,KAN 2,24.0,6.0,Patrick Mahomes pass complete short right to Travis Kelce for 5 yards (tackle by Roderic Teamer and Luke Masterson),-0.38,-0.42,18.0,2022,256
+3.0,2:58,2.0,5.0,KAN 7,24.0,6.0,Jerick McKinnon left guard for 7 yards (tackle by Clelin Ferrell and Sidney Jones),-0.42,-0.28,18.0,2022,256
+3.0,2:20,1.0,10.0,KAN 14,24.0,6.0,Patrick Mahomes pass incomplete deep right intended for Justin Watson (defended by Sidney Jones),-0.28,-0.75,18.0,2022,256
+3.0,2:13,2.0,10.0,KAN 14,24.0,6.0,Patrick Mahomes scrambles right end for 13 yards (tackle by Isaiah Pola-Mao),-0.75,0.74,18.0,2022,256
+3.0,1:34,1.0,10.0,KAN 27,24.0,6.0,Jerick McKinnon up the middle for -1 yards (tackle by Roderic Teamer),0.74,0.06,18.0,2022,256
+3.0,0:53,2.0,11.0,KAN 26,24.0,6.0,Ronald Jones left guard for 9 yards (tackle by Roderic Teamer),0.06,0.56,18.0,2022,256
+3.0,0:15,3.0,2.0,KAN 35,24.0,6.0,Patrick Mahomes pass incomplete short left intended for Jerick McKinnon,0.56,-1.04,18.0,2022,256
+3.0,0:13,4.0,2.0,KAN 35,24.0,6.0,Tommy Townsend punts 61 yards downed by Nazeeh Johnson,-1.04,0.38,18.0,2022,256
+3.0,0:02,1.0,10.0,LVR 4,24.0,6.0,Josh Jacobs up the middle for -1 yards (tackle by George Karlaftis),-0.38,-0.85,18.0,2022,256
+4.0,15:00,2.0,11.0,LVR 3,24.0,6.0,Jarrett Stidham pass complete short middle to Hunter Renfrow for 5 yards (tackle by Nick Bolton),-0.85,-0.95,18.0,2022,256
+4.0,14:19,3.0,6.0,LVR 8,24.0,6.0,Jarrett Stidham pass incomplete short right intended for Davante Adams (defended by Carlos Dunlap),-0.95,-2.49,18.0,2022,256
+4.0,14:14,4.0,6.0,LVR 8,24.0,6.0,"AJ Cole punts 59 yards, returned by Kadarius Toney for 5 yards (tackle by Brandon Bolden)",-2.49,-1.47,18.0,2022,256
+4.0,14:04,1.0,10.0,KAN 38,24.0,6.0,Patrick Mahomes pass complete short right to Travis Kelce for 11 yards (tackle by Trevon Moehrig),1.47,2.19,18.0,2022,256
+4.0,13:29,1.0,10.0,KAN 49,24.0,6.0,Isiah Pacheco right guard for 8 yards (tackle by Sidney Jones),2.19,2.73,18.0,2022,256
+4.0,12:54,2.0,2.0,LVR 43,24.0,6.0,"Patrick Mahomes pass complete short right to Marquez Valdes-Scantling for 10 yards (tackle by Tyler Hall). Penalty on Sidney Jones: Illegal Contact, 5 yards (declined)",2.73,3.38,18.0,2022,256
+4.0,12:31,1.0,10.0,LVR 33,24.0,6.0,Isiah Pacheco right guard for 31 yards (tackle by Duron Harmon),3.38,6.74,18.0,2022,256
+4.0,11:50,1.0,2.0,LVR 2,24.0,6.0,Patrick Mahomes pass incomplete short right,6.74,5.72,18.0,2022,256
+4.0,11:46,2.0,2.0,LVR 2,24.0,6.0,Patrick Mahomes pass complete short left to Travis Kelce for 1 yard (tackle by Duron Harmon),5.72,5.17,18.0,2022,256
+4.0,11:06,3.0,1.0,LVR 1,30.0,6.0,"Isiah Pacheco left guard for 1 yard, touchdown",5.17,7.0,18.0,2022,256
+4.0,11:03,,,LVR 15,31.0,6.0,Harrison Butker kicks extra point good,0.0,0.0,18.0,2022,256
+4.0,11:03,,,KAN 35,31.0,6.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,18.0,2022,256
+4.0,11:03,1.0,10.0,LVR 25,31.0,6.0,Jarrett Stidham pass complete deep right to Davante Adams for 18 yards (tackle by Trent McDuffie),0.61,1.8,18.0,2022,256
+4.0,10:22,1.0,10.0,LVR 43,31.0,6.0,Jarrett Stidham pass complete short right to Mack Hollins for 3 yards (tackle by Nick Bolton),1.8,1.66,18.0,2022,256
+4.0,9:40,2.0,7.0,LVR 46,31.0,6.0,Jarrett Stidham pass complete short middle to Darren Waller for 11 yards (tackle by Bryan Cook),1.66,2.72,18.0,2022,256
+4.0,9:00,1.0,10.0,KAN 43,31.0,6.0,Jarrett Stidham pass complete short middle to Hunter Renfrow for 14 yards (tackle by Trent McDuffie),2.72,3.64,18.0,2022,256
+4.0,8:29,1.0,10.0,KAN 29,31.0,6.0,Jarrett Stidham pass complete short right to Keelan Cole for 5 yards (tackle by Trent McDuffie),3.64,3.78,18.0,2022,256
+4.0,7:54,2.0,5.0,KAN 24,31.0,6.0,Jarrett Stidham pass complete short right to Josh Jacobs for 1 yard (tackle by L'Jarius Sneed and Nick Bolton),3.78,3.2,18.0,2022,256
+4.0,7:26,3.0,4.0,KAN 23,31.0,6.0,Jarrett Stidham pass complete short right to Davante Adams for 12 yards (tackle by Nick Bolton),3.2,4.84,18.0,2022,256
+4.0,6:51,1.0,10.0,KAN 11,31.0,6.0,Jarrett Stidham pass incomplete short middle intended for Ameer Abdullah (defended by Willie Gay),4.84,4.14,18.0,2022,256
+4.0,6:48,2.0,10.0,KAN 11,31.0,6.0,Jarrett Stidham pass incomplete short right intended for Darren Waller (defended by Justin Reid),4.14,3.13,18.0,2022,256
+4.0,6:43,3.0,10.0,KAN 11,31.0,12.0,"Jarrett Stidham pass complete short left to Hunter Renfrow for 11 yards, touchdown",3.13,7.0,18.0,2022,256
+4.0,6:37,,,KAN 15,31.0,13.0,Daniel Carlson kicks extra point good,0.0,0.0,18.0,2022,256
+4.0,6:37,,,LVR 35,31.0,13.0,"Daniel Carlson kicks onside 8 yards, returned by Noah Gray for no gain",0.0,2.72,18.0,2022,256
+4.0,6:36,1.0,10.0,LVR 43,31.0,13.0,Ronald Jones right guard for 5 yards (tackle by Duron Harmon),2.72,2.72,18.0,2022,256
+4.0,6:29,,,,,,Timeout #1 by Las Vegas Raiders,,,18.0,2022,256
+4.0,6:29,2.0,5.0,LVR 40,31.0,13.0,Patrick Mahomes pass incomplete intended for Marquez Valdes-Scantling (defended by Amik Robertson),2.72,2.15,18.0,2022,256
+4.0,6:24,3.0,5.0,LVR 38,31.0,13.0,Patrick Mahomes sacked by Clelin Ferrell for -11 yards,2.15,0.0,18.0,2022,256
+4.0,6:18,,,,,,Timeout #2 by Las Vegas Raiders,,,18.0,2022,256
+4.0,6:18,4.0,14.0,LVR 49,31.0,13.0,"Tommy Townsend punts 39 yards, returned by Hunter Renfrow for 8 yards (tackle by James Winchester)",0.0,-0.04,18.0,2022,256
+4.0,6:07,1.0,10.0,LVR 18,31.0,13.0,Josh Jacobs up the middle for 12 yards (tackle by Justin Reid),0.04,0.94,18.0,2022,256
+4.0,5:46,1.0,10.0,LVR 30,31.0,13.0,Jarrett Stidham pass incomplete short right intended for Josh Jacobs,0.94,0.39,18.0,2022,256
+4.0,5:41,2.0,10.0,LVR 30,31.0,13.0,"Jarrett Stidham sacked by Michael Danna for no gain. Jarrett Stidham fumbles (forced by Michael Danna), recovered by Davante Adams at LV-30",0.39,-0.3,18.0,2022,256
+4.0,4:57,3.0,10.0,LVR 30,31.0,13.0,Jarrett Stidham pass complete short middle to Hunter Renfrow for 9 yards (tackle by Nick Bolton and Trent McDuffie),-0.3,-0.78,18.0,2022,256
+4.0,4:57,4.0,1.0,LVR 39,31.0,13.0,"Penalty on Nick Bolton: Face Mask (15 Yards), 15 yards (accepted) (no play)",-0.78,2.52,18.0,2022,256
+4.0,4:45,1.0,10.0,KAN 46,31.0,13.0,Jarrett Stidham pass incomplete short left,2.52,0.49,18.0,2022,256
+4.0,4:43,2.0,21.0,LVR 43,31.0,13.0,Jarrett Stidham pass incomplete deep middle intended for Davante Adams,0.49,-0.16,18.0,2022,256
+4.0,4:38,3.0,21.0,LVR 43,31.0,13.0,Jarrett Stidham pass incomplete deep middle intended for Keelan Cole (defended by Trent McDuffie),-0.16,-0.52,18.0,2022,256
+4.0,4:31,4.0,21.0,LVR 43,31.0,13.0,Jarrett Stidham sacked by Chris Jones for -9 yards,-0.52,-3.31,18.0,2022,256
+4.0,4:24,1.0,10.0,LVR 34,31.0,13.0,Ronald Jones right guard for 9 yards (tackle by Luke Masterson and Duron Harmon),3.31,3.99,18.0,2022,256
+4.0,3:42,2.0,1.0,LVR 25,31.0,13.0,Ronald Jones right guard for 4 yards (tackle by Jerry Tillery and Bilal Nichols),3.99,4.17,18.0,2022,256
+4.0,2:56,1.0,10.0,LVR 21,31.0,13.0,Ronald Jones right guard for 1 yard (tackle by Andrew Billings),4.17,3.76,18.0,2022,256
+4.0,2:15,2.0,9.0,LVR 20,31.0,13.0,Ronald Jones left tackle for -1 yards (tackle by Maxx Crosby and Trevon Moehrig),3.76,2.94,18.0,2022,256
+4.0,2:00,3.0,10.0,LVR 21,31.0,13.0,Ronald Jones left tackle for 13 yards (tackle by Trevon Moehrig and Roderic Teamer),2.94,5.37,18.0,2022,256
+4.0,1:10,1.0,8.0,LVR 8,31.0,13.0,Chad Henne kneels for -1 yards,5.37,4.38,18.0,2022,256
+4.0,0:30,2.0,9.0,LVR 9,31.0,13.0,Chad Henne kneels for -1 yards,4.38,3.13,18.0,2022,256

@@ -1,0 +1,163 @@
+Quarter,Time,Down,ToGo,Location,CIN,NYG,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Bengals won the coin toss, Bengals to receive the opening kickoff.",,,6.0,2024,91
+1.0,15:00,,,NYG 35,0.0,0.0,"Greg Joseph kicks off 65 yards, returned by Charlie Jones for 31 yards (tackle by Ty Summers and Dane Belton)",0.0,1.0,6.0,2024,91
+1.0,14:54,1.0,10.0,CIN 31,0.0,0.0,Chase Brown right end for 4 yards (tackle by Brian Burns),1.0,1.0,6.0,2024,91
+1.0,14:23,2.0,6.0,CIN 35,0.0,0.0,Joe Burrow pass incomplete short left intended for Chase Brown (defended by Bobby Okereke),1.0,0.3,6.0,2024,91
+1.0,14:20,3.0,6.0,CIN 35,0.0,0.0,Joe Burrow scrambles up the middle for 10 yards (tackle by Tyler Nubin),0.3,1.93,6.0,2024,91
+1.0,13:49,1.0,10.0,CIN 45,0.0,0.0,Zack Moss left guard for 5 yards (tackle by Dexter Lawrence and Rakeem Nunez-Roches),1.93,2.06,6.0,2024,91
+1.0,13:13,2.0,5.0,CIN 50,0.0,0.0,Joe Burrow pass complete short left to Tee Higgins for 11 yards (tackle by Deonte Banks),2.06,2.98,6.0,2024,91
+1.0,12:34,1.0,10.0,NYG 39,0.0,0.0,Joe Burrow pass incomplete short right,2.98,2.44,6.0,2024,91
+1.0,12:26,2.0,10.0,NYG 39,0.0,0.0,Joe Burrow sacked by Brian Burns for -8 yards,2.44,0.7,6.0,2024,91
+1.0,11:41,,,,,,Timeout #1 by Cincinnati Bengals,,,6.0,2024,91
+1.0,11:41,3.0,18.0,NYG 47,6.0,0.0,"Joe Burrow scrambles right end for 47 yards, touchdown",0.7,7.0,6.0,2024,91
+1.0,11:32,,,NYG 15,7.0,0.0,Evan McPherson kicks extra point good,0.0,0.0,6.0,2024,91
+1.0,11:32,,,CIN 35,7.0,0.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.94,6.0,2024,91
+1.0,11:32,1.0,10.0,NYG 30,7.0,0.0,Daniel Jones pass complete short left to Darius Slayton for 11 yards (tackle by Cam Taylor-Britt),0.94,1.66,6.0,2024,91
+1.0,10:54,1.0,10.0,NYG 41,7.0,0.0,Daniel Jones pass incomplete short right intended for Wan'Dale Robinson,1.66,1.12,6.0,2024,91
+1.0,10:51,2.0,10.0,NYG 41,7.0,0.0,Daniel Jones pass incomplete short right,1.12,0.43,6.0,2024,91
+1.0,10:46,3.0,10.0,NYG 41,7.0,0.0,Daniel Jones pass complete short left to Jalin Hyatt for 6 yards (tackle by Cam Taylor-Britt),0.43,-0.26,6.0,2024,91
+1.0,10:04,4.0,3.0,NYG 47,7.0,0.0,"Matt Haack punts 47 yards, returned by Charlie Jones for no gain (tackle by Casey Kreiter). Penalty on Maema Njongmeta: Offensive Holding, 3 yards (accepted)",-0.26,0.38,6.0,2024,91
+1.0,9:50,1.0,10.0,CIN 3,7.0,0.0,Zack Moss left tackle for 1 yard (tackle by Deonte Banks and Brian Burns),-0.38,-0.71,6.0,2024,91
+1.0,9:18,2.0,9.0,CIN 4,7.0,0.0,Joe Burrow pass complete short left to Ja'Marr Chase for 8 yards (tackle by Andru Phillips and Dane Belton),-0.71,-0.37,6.0,2024,91
+1.0,8:34,3.0,1.0,CIN 12,7.0,0.0,Joe Burrow pass incomplete deep left,-0.37,-2.49,6.0,2024,91
+1.0,8:25,,,,,,Timeout #1 by New York Giants,,,6.0,2024,91
+1.0,8:25,4.0,1.0,CIN 12,7.0,0.0,"Ryan Rehkow punts 55 yards, returned by Ihmir Smith-Marsette for no gain (tackle by Tycen Anderson)",-2.49,-1.14,6.0,2024,91
+1.0,8:16,1.0,10.0,NYG 33,7.0,0.0,Tyrone Tracy up the middle for 2 yards (tackle by B.J. Hill and Sheldon Rankins),1.14,0.86,6.0,2024,91
+1.0,7:44,2.0,8.0,NYG 35,7.0,0.0,Daniel Jones pass incomplete short right intended for Wan'Dale Robinson (defended by Sam Hubbard),0.86,0.17,6.0,2024,91
+1.0,7:39,3.0,8.0,NYG 35,7.0,0.0,"Daniel Jones sacked by Germaine Pratt for no gain. Penalty on DJ Turner: Defensive Holding, 5 yards (accepted) (no play)",0.17,1.6,6.0,2024,91
+1.0,7:26,1.0,10.0,NYG 40,7.0,0.0,Daniel Jones pass complete short middle to Wan'Dale Robinson for 7 yards (tackle by Logan Wilson),1.6,2.0,6.0,2024,91
+1.0,6:40,2.0,3.0,NYG 47,7.0,0.0,Tyrone Tracy right tackle for 1 yard (tackle by Sam Hubbard),2.0,1.42,6.0,2024,91
+1.0,5:57,3.0,2.0,NYG 48,7.0,0.0,Daniel Jones pass complete short right to Darius Slayton for 9 yards (tackle by Mike Hilton),1.42,2.72,6.0,2024,91
+1.0,5:22,1.0,10.0,CIN 43,7.0,0.0,Daniel Jones pass complete short left to Tyrone Tracy for 14 yards (tackle by Cam Taylor-Britt and Geno Stone),2.72,3.64,6.0,2024,91
+1.0,4:41,1.0,10.0,CIN 29,7.0,0.0,Daniel Jones pass complete short middle to Wan'Dale Robinson for 15 yards (tackle by Logan Wilson),3.64,4.65,6.0,2024,91
+1.0,4:04,1.0,10.0,CIN 14,7.0,0.0,Daniel Jones pass short middle is intercepted by Germaine Pratt at CIN-3 and returned for 24 yards (tackle by Jermaine Eluemunor and Daniel Bellinger),4.65,-0.74,6.0,2024,91
+1.0,3:45,1.0,10.0,CIN 27,7.0,0.0,Joe Burrow pass complete short right to Chase Brown for 11 yards (tackle by Tyler Nubin and Jason Pinnock),0.74,1.47,6.0,2024,91
+1.0,3:11,1.0,10.0,CIN 38,7.0,0.0,Chase Brown right guard for 7 yards (tackle by Tyler Nubin),1.47,1.87,6.0,2024,91
+1.0,2:31,2.0,3.0,CIN 45,7.0,0.0,Joe Burrow pass incomplete short right intended for Erick All (defended by Boogie Basham),1.87,1.16,6.0,2024,91
+1.0,2:25,3.0,3.0,CIN 45,7.0,0.0,Joe Burrow pass complete short middle to Tee Higgins for 6 yards (tackle by Deonte Banks),1.16,2.32,6.0,2024,91
+1.0,1:54,1.0,10.0,NYG 49,7.0,0.0,Chase Brown left end for no gain (tackle by Bobby Okereke),2.32,1.78,6.0,2024,91
+1.0,1:15,2.0,10.0,NYG 49,7.0,0.0,Zack Moss up the middle for 7 yards (tackle by Bobby Okereke and Andru Phillips),1.78,2.02,6.0,2024,91
+1.0,0:41,3.0,3.0,NYG 42,7.0,0.0,Zack Moss right guard for -4 yards (tackle by Brian Burns),2.02,0.2,6.0,2024,91
+2.0,15:00,4.0,7.0,NYG 46,7.0,0.0,"Ryan Rehkow punts 32 yards, fair catch by Ihmir Smith-Marsette at NYG-14",0.2,0.28,6.0,2024,91
+2.0,14:53,1.0,10.0,NYG 14,7.0,0.0,Daniel Jones up the middle for 13 yards (tackle by Vonn Bell),-0.28,0.74,6.0,2024,91
+2.0,14:15,1.0,10.0,NYG 27,7.0,0.0,Daniel Jones sacked by Trey Hendrickson for -9 yards,0.74,-1.12,6.0,2024,91
+2.0,13:37,2.0,19.0,NYG 18,7.0,0.0,Daniel Jones up the middle for 11 yards (tackle by Germaine Pratt),-1.12,-0.23,6.0,2024,91
+2.0,12:55,3.0,8.0,NYG 29,7.0,0.0,Daniel Jones pass incomplete deep left intended for Wan'Dale Robinson,-0.23,-1.44,6.0,2024,91
+2.0,12:48,4.0,8.0,NYG 29,7.0,0.0,"Matt Haack punts 55 yards, returned by Charlie Jones for 14 yards (tackle by Casey Kreiter and Dante Miller)",-1.44,-0.94,6.0,2024,91
+2.0,12:35,1.0,10.0,CIN 30,7.0,0.0,"Joe Burrow pass incomplete short middle. Penalty on Joe Burrow: Intentional Grounding, 14 yards (accepted)",0.94,-1.65,6.0,2024,91
+2.0,12:26,2.0,24.0,CIN 16,7.0,0.0,Joe Burrow pass complete short right to Zack Moss for 2 yards (tackle by Rakeem Nunez-Roches and Deonte Banks),-1.65,-2.12,6.0,2024,91
+2.0,11:46,3.0,22.0,CIN 18,7.0,0.0,Joe Burrow pass complete short left to Ja'Marr Chase for 11 yards (tackle by Bobby Okereke),-2.12,-1.44,6.0,2024,91
+2.0,11:13,4.0,11.0,CIN 29,7.0,0.0,"Ryan Rehkow punts 55 yards, returned by Ihmir Smith-Marsette for 1 yard (tackle by Tycen Anderson)",-1.44,0.06,6.0,2024,91
+2.0,11:01,1.0,10.0,NYG 17,7.0,0.0,Eric Gray left guard for 3 yards (tackle by Jordan Battle),-0.06,-0.06,6.0,2024,91
+2.0,10:23,2.0,7.0,NYG 20,7.0,0.0,Eric Gray left tackle for 4 yards (tackle by Jordan Battle and Logan Wilson),-0.06,-0.37,6.0,2024,91
+2.0,9:43,3.0,3.0,NYG 24,7.0,0.0,Daniel Jones scrambles right end for 4 yards (tackle by DJ Turner and Logan Wilson),-0.37,0.81,6.0,2024,91
+2.0,8:54,1.0,10.0,NYG 28,7.0,0.0,Daniel Jones pass complete short right to Tyrone Tracy for 12 yards (tackle by Logan Wilson and Jordan Battle),0.81,1.6,6.0,2024,91
+2.0,8:16,1.0,10.0,NYG 40,7.0,0.0,Daniel Jones pass incomplete deep right intended for Darius Slayton,1.6,1.05,6.0,2024,91
+2.0,8:09,2.0,10.0,NYG 40,7.0,0.0,"Daniel Jones pass complete short middle to Daniel Bellinger for no gain (tackle by Geno Stone and Germaine Pratt). Penalty on Daniel Bellinger: Illegal Shift, 5 yards (accepted) (no play)",1.05,0.38,6.0,2024,91
+2.0,7:43,2.0,15.0,NYG 35,7.0,0.0,Tyrone Tracy left tackle for no gain (tackle by Mike Hilton),0.38,-0.3,6.0,2024,91
+2.0,7:03,3.0,15.0,NYG 35,7.0,0.0,Daniel Jones scrambles right end for 10 yards (tackle by Geno Stone and B.J. Hill),-0.3,-0.39,6.0,2024,91
+2.0,6:27,4.0,5.0,NYG 45,7.0,0.0,"Matt Haack punts 43 yards, fair catch by Charlie Jones at CIN-12",-0.39,0.35,6.0,2024,91
+2.0,6:19,1.0,10.0,CIN 12,7.0,0.0,Chase Brown up the middle for 4 yards (tackle by Brian Burns and Bobby Okereke),-0.35,-0.37,6.0,2024,91
+2.0,5:40,2.0,6.0,CIN 16,7.0,0.0,Joe Burrow pass complete short right to Tee Higgins for 24 yards (tackle by Jason Pinnock),-0.37,1.6,6.0,2024,91
+2.0,4:57,1.0,10.0,CIN 40,7.0,0.0,Joe Burrow pass complete short right to Tee Higgins for 7 yards (tackle by Micah McFadden),1.6,2.0,6.0,2024,91
+2.0,4:17,2.0,3.0,CIN 47,7.0,0.0,Chase Brown left end for -2 yards (tackle by Tyler Nubin and Cordale Flott),2.0,1.03,6.0,2024,91
+2.0,3:35,3.0,5.0,CIN 45,7.0,0.0,Joe Burrow pass incomplete short left intended for Ja'Marr Chase,1.03,-0.39,6.0,2024,91
+2.0,3:25,4.0,5.0,CIN 45,7.0,0.0,Ryan Rehkow punts 46 yards,-0.39,0.38,6.0,2024,91
+2.0,3:14,1.0,10.0,NYG 9,7.0,0.0,"Daniel Jones pass complete short middle to Darius Slayton for no gain (tackle by Geno Stone). Penalty on Andrew Thomas: Ineligible Downfield Pass, 4 yards (accepted) (no play)",-0.38,-0.53,6.0,2024,91
+2.0,2:46,1.0,14.0,NYG 5,7.0,0.0,Daniel Jones pass incomplete deep left intended for Jalin Hyatt,-0.53,-1.07,6.0,2024,91
+2.0,2:40,2.0,14.0,NYG 5,7.0,0.0,Daniel Jones pass incomplete short right intended for Darius Slayton,-1.07,-1.89,6.0,2024,91
+2.0,2:37,3.0,14.0,NYG 5,7.0,0.0,Daniel Jones pass complete short right to Tyrone Tracy for 7 yards (tackle by Logan Wilson),-1.89,-2.49,6.0,2024,91
+2.0,2:00,4.0,7.0,NYG 12,7.0,0.0,"Matt Haack punts 42 yards, returned by Charlie Jones for -1 yards (tackle by Nick McCloud)",-2.49,-1.93,6.0,2024,91
+2.0,1:50,1.0,10.0,CIN 45,7.0,0.0,Joe Burrow sacked by Azeez Ojulari for -1 yards,1.93,1.25,6.0,2024,91
+2.0,1:13,2.0,11.0,CIN 44,7.0,0.0,Joe Burrow pass complete short middle to Andrei Iosivas for 7 yards (tackle by Tyler Nubin),1.25,1.49,6.0,2024,91
+2.0,0:35,3.0,4.0,NYG 49,7.0,0.0,Joe Burrow sacked by Azeez Ojulari for -8 yards,1.49,-0.52,6.0,2024,91
+2.0,0:29,,,,,,Timeout #2 by New York Giants,,,6.0,2024,91
+2.0,0:29,4.0,12.0,CIN 43,7.0,0.0,"Ryan Rehkow punts 57 yards, touchback.",-0.52,-0.28,6.0,2024,91
+2.0,0:21,1.0,10.0,NYG 20,7.0,0.0,Daniel Jones kneels for -1 yards,0.28,-0.46,6.0,2024,91
+3.0,15:00,,,CIN 35,7.0,0.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.94,6.0,2024,91
+3.0,15:00,1.0,10.0,NYG 30,7.0,0.0,Daniel Jones pass incomplete short left intended for Darius Slayton,0.94,0.39,6.0,2024,91
+3.0,14:55,2.0,10.0,NYG 30,7.0,0.0,Tyrone Tracy left end for no gain (tackle by B.J. Hill),0.39,-0.3,6.0,2024,91
+3.0,14:17,3.0,10.0,NYG 30,7.0,0.0,"Daniel Jones pass complete short right to Theo Johnson for 8 yards (tackle by DJ Turner). Penalty on Andrew Thomas: Illegal Formation, 5 yards (declined)",-0.3,-0.85,6.0,2024,91
+3.0,13:58,4.0,2.0,NYG 38,7.0,0.0,Daniel Jones pass incomplete short middle intended for Wan'Dale Robinson (defended by Mike Hilton),-0.85,-3.05,6.0,2024,91
+3.0,13:53,1.0,10.0,NYG 38,7.0,0.0,Zack Moss left guard for 3 yards (tackle by Dexter Lawrence),3.05,2.91,6.0,2024,91
+3.0,13:17,2.0,7.0,NYG 35,7.0,0.0,Joe Burrow pass complete short right to Ja'Marr Chase for 9 yards (tackle by Jason Pinnock and Cordale Flott),2.91,3.84,6.0,2024,91
+3.0,12:38,1.0,10.0,NYG 26,7.0,0.0,"Zack Moss right guard for 1 yard. Zack Moss fumbles (tackle by Azeez Ojulari, recovered by Micah McFadden at NYG-21",3.84,-0.34,6.0,2024,91
+3.0,12:30,1.0,10.0,NYG 21,7.0,0.0,Tyrone Tracy up the middle for 9 yards (tackle by Mike Hilton and Geno Stone),0.34,1.02,6.0,2024,91
+3.0,12:22,2.0,1.0,NYG 30,7.0,0.0,Daniel Jones pass incomplete short left intended for Darius Slayton (defended by Cam Taylor-Britt),1.02,0.3,6.0,2024,91
+3.0,12:09,3.0,1.0,NYG 30,7.0,0.0,Daniel Jones up the middle for 2 yards (tackle by B.J. Hill),0.3,1.07,6.0,2024,91
+3.0,11:39,1.0,10.0,NYG 32,7.0,0.0,Tyrone Tracy left end for 2 yards (tackle by Germaine Pratt),1.07,0.8,6.0,2024,91
+3.0,11:18,2.0,8.0,NYG 34,7.0,0.0,Daniel Jones pass complete short right to Wan'Dale Robinson for 6 yards (tackle by Mike Hilton),0.8,0.89,6.0,2024,91
+3.0,10:55,3.0,2.0,NYG 40,7.0,0.0,Tyrone Tracy right guard for no gain (tackle by Germaine Pratt and B.J. Hill),0.89,-0.72,6.0,2024,91
+3.0,10:11,,,,,,Timeout #1 by New York Giants,,,6.0,2024,91
+3.0,10:11,4.0,2.0,NYG 40,7.0,0.0,Tyrone Tracy right end for 4 yards (tackle by Vonn Bell and Sam Hubbard),-0.72,1.86,6.0,2024,91
+3.0,9:43,1.0,10.0,NYG 44,7.0,0.0,Tyrone Tracy right tackle for 2 yards (tackle by B.J. Hill and Myles Murphy),1.86,1.59,6.0,2024,91
+3.0,9:11,2.0,8.0,NYG 46,7.0,0.0,Daniel Jones pass complete short left to Tyrone Tracy for 10 yards (tackle by Geno Stone),1.59,2.65,6.0,2024,91
+3.0,8:44,1.0,10.0,CIN 44,7.0,0.0,Eric Gray right guard for 6 yards (tackle by Germaine Pratt),2.65,2.92,6.0,2024,91
+3.0,8:19,2.0,4.0,CIN 38,7.0,0.0,Daniel Jones pass incomplete short right,2.92,2.21,6.0,2024,91
+3.0,8:14,3.0,4.0,CIN 38,7.0,0.0,Daniel Jones pass complete short left to Darius Slayton for 3 yards (tackle by Cam Taylor-Britt),2.21,1.0,6.0,2024,91
+3.0,7:31,4.0,1.0,CIN 35,7.0,0.0,Tyrone Tracy left guard for 5 yards (tackle by Joseph Ossai),1.0,3.58,6.0,2024,91
+3.0,7:01,1.0,10.0,CIN 30,7.0,0.0,Daniel Jones right guard for 5 yards (tackle by Germaine Pratt),3.58,3.71,6.0,2024,91
+3.0,6:34,2.0,5.0,CIN 25,7.0,0.0,Tyrone Tracy right end for 6 yards (tackle by Joseph Ossai),3.71,4.31,6.0,2024,91
+3.0,6:00,1.0,10.0,CIN 19,7.0,0.0,"Daniel Jones pass incomplete deep right intended for Darius Slayton. Penalty on DJ Turner: Defensive Pass Interference, 18 yards (accepted) (no play)",4.31,6.97,6.0,2024,91
+3.0,5:52,1.0,1.0,CIN 1,7.0,6.0,"Tyrone Tracy left guard for 1 yard, touchdown",6.97,7.0,6.0,2024,91
+3.0,5:48,,,CIN 15,7.0,7.0,Greg Joseph kicks extra point good,0.0,0.0,6.0,2024,91
+3.0,5:48,,,NYG 35,7.0,7.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.94,6.0,2024,91
+3.0,5:48,1.0,10.0,CIN 30,7.0,7.0,Joe Burrow pass complete deep left to Ja'Marr Chase for 33 yards (tackle by Cordale Flott),0.94,3.12,6.0,2024,91
+3.0,5:06,1.0,10.0,NYG 37,7.0,7.0,Joe Burrow pass complete short right to Tee Higgins for 6 yards (tackle by Deonte Banks and Brian Burns),3.12,3.38,6.0,2024,91
+3.0,4:25,2.0,4.0,NYG 31,7.0,7.0,Joe Burrow pass complete short middle to Ja'Marr Chase for 11 yards (tackle by Tyler Nubin and Boogie Basham),3.38,4.24,6.0,2024,91
+3.0,3:47,1.0,10.0,NYG 20,7.0,7.0,Joe Burrow pass complete short left to Erick All for 1 yard (tackle by Tyler Nubin),4.24,3.82,6.0,2024,91
+3.0,3:00,2.0,9.0,NYG 19,7.0,7.0,Joe Burrow pass complete short middle to Erick All for 9 yards (tackle by Micah McFadden),3.82,5.08,6.0,2024,91
+3.0,2:30,1.0,9.0,NYG 10,7.0,7.0,Joe Burrow pass incomplete short middle intended for Andrei Iosivas,5.08,4.19,6.0,2024,91
+3.0,2:23,2.0,10.0,NYG 10,7.0,7.0,Joe Burrow pass complete short middle to Tee Higgins for 9 yards (tackle by Micah McFadden and Tyler Nubin),4.19,5.17,6.0,2024,91
+3.0,1:38,3.0,1.0,NYG 1,7.0,7.0,"Chase Brown right guard for no gain, touchdown. Penalty on Cordell Volson: Offensive Holding, 10 yards (accepted) (no play)",5.17,3.12,6.0,2024,91
+3.0,1:34,3.0,11.0,NYG 11,7.0,7.0,Joe Burrow sacked by Dexter Lawrence for -8 yards,3.12,2.18,6.0,2024,91
+3.0,0:45,4.0,19.0,NYG 19,10.0,7.0,Evan McPherson 37 yard field goal good,2.18,3.0,6.0,2024,91
+3.0,0:41,,,CIN 35,10.0,7.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.94,6.0,2024,91
+3.0,0:41,1.0,10.0,NYG 30,10.0,7.0,Daniel Jones pass complete short right to Theo Johnson for 15 yards (tackle by Logan Wilson),0.94,1.93,6.0,2024,91
+4.0,15:00,1.0,10.0,NYG 45,10.0,7.0,Tyrone Tracy right tackle for 4 yards (tackle by Jordan Battle),1.93,1.92,6.0,2024,91
+4.0,14:35,2.0,6.0,NYG 49,10.0,7.0,Daniel Jones up the middle for 5 yards (tackle by Sam Hubbard and Germaine Pratt),1.92,1.88,6.0,2024,91
+4.0,14:11,3.0,1.0,CIN 46,10.0,7.0,Tyrone Tracy left guard for no gain (tackle by Sam Hubbard and Kris Jenkins),1.88,0.2,6.0,2024,91
+4.0,13:32,4.0,1.0,CIN 46,10.0,7.0,Daniel Jones right guard for 1 yard (tackle by B.J. Hill),0.2,2.59,6.0,2024,91
+4.0,12:44,1.0,10.0,CIN 45,10.0,7.0,Daniel Jones pass complete short right to Tyrone Tracy for 9 yards (tackle by Sheldon Rankins),2.59,3.26,6.0,2024,91
+4.0,12:01,2.0,1.0,CIN 36,10.0,7.0,Daniel Jones up the middle for 3 yards (tackle by Germaine Pratt),3.26,3.38,6.0,2024,91
+4.0,11:20,1.0,10.0,CIN 33,10.0,7.0,Daniel Jones pass complete short left to Tyrone Tracy for 5 yards (tackle by Logan Wilson),3.38,3.51,6.0,2024,91
+4.0,10:44,2.0,5.0,CIN 28,10.0,7.0,Daniel Jones pass incomplete short right intended for Jalin Hyatt,3.51,2.81,6.0,2024,91
+4.0,10:37,3.0,5.0,CIN 28,10.0,7.0,Daniel Jones pass incomplete short middle intended for Wan'Dale Robinson (defended by B.J. Hill),2.81,1.63,6.0,2024,91
+4.0,10:32,4.0,5.0,CIN 28,10.0,7.0,Greg Joseph 47 yard field goal no good,1.63,-1.4,6.0,2024,91
+4.0,10:27,1.0,10.0,CIN 37,10.0,7.0,Chase Brown right guard for 5 yards (tackle by Micah McFadden and Azeez Ojulari),1.4,1.53,6.0,2024,91
+4.0,9:53,2.0,5.0,CIN 42,10.0,7.0,Joe Burrow pass complete short middle to Tee Higgins for 14 yards (tackle by Andru Phillips and Tyler Nubin),1.53,2.65,6.0,2024,91
+4.0,9:10,1.0,10.0,NYG 44,10.0,7.0,Joe Burrow pass incomplete short middle,2.65,2.11,6.0,2024,91
+4.0,9:03,2.0,10.0,NYG 44,10.0,7.0,Joe Burrow pass complete short right to Chase Brown for no gain (tackle by Andru Phillips),2.11,1.42,6.0,2024,91
+4.0,8:18,3.0,10.0,NYG 44,10.0,7.0,Joe Burrow pass incomplete short middle,1.42,0.33,6.0,2024,91
+4.0,8:13,4.0,10.0,NYG 44,10.0,7.0,"Ryan Rehkow punts 33 yards, fair catch by Ihmir Smith-Marsette at NYG-11",0.33,0.37,6.0,2024,91
+4.0,8:06,1.0,10.0,NYG 11,10.0,7.0,Daniel Jones pass complete short left to Darius Slayton for 15 yards (tackle by Cam Taylor-Britt),-0.37,0.67,6.0,2024,91
+4.0,7:28,1.0,10.0,NYG 26,10.0,7.0,Daniel Jones pass complete short middle to Darius Slayton for 9 yards (tackle by Cam Taylor-Britt),0.67,1.35,6.0,2024,91
+4.0,7:03,2.0,1.0,NYG 35,10.0,7.0,Daniel Jones up the middle for 3 yards (tackle by Myles Murphy),1.35,1.47,6.0,2024,91
+4.0,6:32,1.0,10.0,NYG 38,10.0,7.0,Daniel Jones pass complete short left to Wan'Dale Robinson for 7 yards (tackle by Mike Hilton and Geno Stone),1.47,1.87,6.0,2024,91
+4.0,5:56,2.0,3.0,NYG 45,10.0,7.0,Daniel Jones pass incomplete deep left intended for Jalin Hyatt (defended by Cam Taylor-Britt),1.87,1.16,6.0,2024,91
+4.0,5:44,3.0,3.0,NYG 45,10.0,7.0,Tyrone Tracy left guard for 11 yards (tackle by Myles Murphy),1.16,2.65,6.0,2024,91
+4.0,5:12,1.0,10.0,CIN 44,10.0,7.0,Tyrone Tracy left tackle for 4 yards (tackle by Joseph Ossai and Logan Wilson),2.65,2.58,6.0,2024,91
+4.0,4:35,2.0,7.0,CIN 40,10.0,7.0,Daniel Jones pass complete short left to Isaiah Hodgins for 5 yards (tackle by Cam Taylor-Britt),2.58,2.54,6.0,2024,91
+4.0,3:53,3.0,2.0,CIN 35,10.0,7.0,Tyrone Tracy left tackle for -1 yards (tackle by DJ Turner),2.54,0.89,6.0,2024,91
+4.0,3:12,4.0,3.0,CIN 36,10.0,7.0,Daniel Jones pass incomplete short middle intended for Darius Slayton (defended by DJ Turner),0.89,-1.33,6.0,2024,91
+4.0,3:01,1.0,10.0,CIN 36,10.0,7.0,Chase Brown left tackle for -2 yards (tackle by Andru Phillips and Brian Burns),1.33,0.52,6.0,2024,91
+4.0,2:18,2.0,12.0,CIN 34,10.0,7.0,Chase Brown up the middle for no gain (tackle by Brian Burns),0.52,-0.16,6.0,2024,91
+4.0,2:12,,,,,,Timeout #2 by New York Giants,,,6.0,2024,91
+4.0,2:12,3.0,12.0,CIN 34,10.0,7.0,Joe Burrow pass complete deep left to Andrei Iosivas for 29 yards,-0.16,3.12,6.0,2024,91
+4.0,2:05,1.0,10.0,NYG 37,10.0,7.0,Chase Brown left end for 7 yards. Chase Brown fumbles (forced by Micah McFadden). Chase Brown fumbles out of bounds,3.12,3.52,6.0,2024,91
+4.0,1:58,,,,,,Timeout #1 by Cincinnati Bengals,,,6.0,2024,91
+4.0,1:58,2.0,3.0,NYG 30,16.0,7.0,"Chase Brown up the middle for 30 yards, touchdown",3.52,7.0,6.0,2024,91
+4.0,1:52,,,NYG 15,17.0,7.0,Evan McPherson kicks extra point good,0.0,0.0,6.0,2024,91
+4.0,1:52,,,CIN 35,17.0,7.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.94,6.0,2024,91
+4.0,1:52,1.0,10.0,NYG 30,17.0,7.0,Daniel Jones pass incomplete short middle intended for Wan'Dale Robinson (defended by B.J. Hill),0.94,0.39,6.0,2024,91
+4.0,1:48,2.0,10.0,NYG 30,17.0,7.0,Daniel Jones sacked by Trey Hendrickson for -6 yards,0.39,-1.09,6.0,2024,91
+4.0,1:41,,,,,,Timeout #3 by New York Giants,,,6.0,2024,91
+4.0,1:41,3.0,16.0,NYG 24,17.0,7.0,"Daniel Jones pass incomplete deep left intended for Jalin Hyatt. Penalty on Cam Taylor-Britt: Defensive Pass Interference, 17 yards (accepted) (no play)",-1.09,1.66,6.0,2024,91
+4.0,1:36,1.0,10.0,NYG 41,17.0,7.0,Daniel Jones pass complete short middle to Wan'Dale Robinson for 15 yards (tackle by Geno Stone),1.66,2.65,6.0,2024,91
+4.0,1:22,1.0,10.0,CIN 44,17.0,7.0,Daniel Jones spiked the ball,2.65,2.11,6.0,2024,91
+4.0,1:21,2.0,10.0,CIN 44,17.0,7.0,Daniel Jones pass complete short right to Theo Johnson for 7 yards,2.11,2.35,6.0,2024,91
+4.0,1:14,3.0,3.0,CIN 37,17.0,7.0,Daniel Jones pass complete short left to Darius Slayton for 10 yards (tackle by Jalen Davis and Geno Stone),2.35,3.78,6.0,2024,91
+4.0,0:56,1.0,10.0,CIN 27,17.0,7.0,Daniel Jones spiked the ball,3.78,3.23,6.0,2024,91
+4.0,0:55,2.0,10.0,CIN 27,17.0,7.0,Greg Joseph 45 yard field goal no good,3.23,-1.27,6.0,2024,91
+4.0,0:51,1.0,10.0,CIN 35,17.0,7.0,Joe Burrow kneels for -1 yards,1.27,0.59,6.0,2024,91
+4.0,0:38,2.0,11.0,CIN 34,17.0,7.0,Joe Burrow kneels for -1 yards,0.59,-0.23,6.0,2024,91

@@ -1,0 +1,167 @@
+Quarter,Time,Down,ToGo,Location,DEN,KAN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Chiefs won the coin toss and deferred, Broncos to receive the opening kickoff.",,,17.0,2022,247
+1.0,15:00,,,KAN 35,0.0,0.0,"Harrison Butker kicks off 68 yards, returned by Marlon Mack for 20 yards (tackle by Nazeeh Johnson)",0.0,-0.06,17.0,2022,247
+1.0,14:55,1.0,10.0,DEN 17,0.0,0.0,Latavius Murray up the middle for 4 yards (tackle by Nick Bolton),-0.06,0.08,17.0,2022,247
+1.0,14:11,2.0,6.0,DEN 21,0.0,0.0,Latavius Murray right end for 1 yard (tackle by George Karlaftis and Trent McDuffie),0.08,-0.62,17.0,2022,247
+1.0,13:29,3.0,5.0,DEN 22,0.0,0.0,Russell Wilson pass incomplete short right intended for Albert Okwuegbunam (defended by Justin Reid),-0.62,-1.9,17.0,2022,247
+1.0,13:23,4.0,5.0,DEN 22,0.0,0.0,"Corliss Waitman punts 43 yards, fair catch by Kadarius Toney at KC-35",-1.9,-1.27,17.0,2022,247
+1.0,13:17,1.0,10.0,KAN 35,0.0,0.0,Isiah Pacheco up the middle for 2 yards (tackle by Jonathan Harris),1.27,0.99,17.0,2022,247
+1.0,12:43,2.0,8.0,KAN 37,0.0,0.0,Patrick Mahomes pass complete short right to Marquez Valdes-Scantling for 6 yards (tackle by Damarri Mathis),0.99,1.09,17.0,2022,247
+1.0,12:06,3.0,2.0,KAN 43,0.0,0.0,Patrick Mahomes pass complete short left to Travis Kelce for 4 yards (tackle by Damarri Mathis),1.09,2.06,17.0,2022,247
+1.0,11:33,1.0,10.0,KAN 47,0.0,0.0,Ronald Jones left guard for 3 yards (tackle by DeShawn Williams),2.06,1.92,17.0,2022,247
+1.0,11:01,2.0,7.0,KAN 50,0.0,0.0,Patrick Mahomes pass complete short left to Patrick Mahomes for 6 yards (tackle by Alex Singleton),1.92,2.02,17.0,2022,247
+1.0,10:17,3.0,1.0,DEN 44,0.0,0.0,Jerick McKinnon up the middle for no gain (tackle by Mike Purcell),2.02,0.33,17.0,2022,247
+1.0,9:38,4.0,1.0,DEN 44,0.0,0.0,Patrick Mahomes pass complete short left to Travis Kelce for 10 yards (tackle by Josey Jewell),0.33,3.31,17.0,2022,247
+1.0,9:03,1.0,10.0,DEN 34,0.0,0.0,Patrick Mahomes pass complete short left to Jerick McKinnon for 11 yards (tackle by Alex Singleton and Patrick Surtain),3.31,4.04,17.0,2022,247
+1.0,8:24,1.0,10.0,DEN 23,0.0,0.0,Patrick Mahomes pass complete short right to Skyy Moore for 18 yards (tackle by Kareem Jackson),4.04,6.06,17.0,2022,247
+1.0,7:42,1.0,5.0,DEN 5,0.0,6.0,"Isiah Pacheco right tackle for 5 yards, touchdown",6.06,7.0,17.0,2022,247
+1.0,7:35,,,DEN 2,0.0,6.0,"Two Point Attempt: Tommy Townsend rushes, conversion fails.",1.0,-1.0,17.0,2022,247
+1.0,7:35,,,KAN 35,0.0,6.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,247
+1.0,7:35,1.0,10.0,DEN 25,0.0,6.0,Russell Wilson pass complete short right to Courtland Sutton for 7 yards (tackle by L'Jarius Sneed),0.61,1.01,17.0,2022,247
+1.0,7:03,2.0,3.0,DEN 32,0.0,6.0,Latavius Murray up the middle for 4 yards (tackle by Frank Clark),1.01,1.33,17.0,2022,247
+1.0,6:29,1.0,10.0,DEN 36,0.0,6.0,Russell Wilson pass incomplete short right intended for Latavius Murray (defended by Carlos Dunlap),1.33,0.79,17.0,2022,247
+1.0,6:22,2.0,10.0,DEN 36,0.0,6.0,Russell Wilson right end for 5 yards (tackle by L'Jarius Sneed),0.79,0.76,17.0,2022,247
+1.0,5:44,3.0,5.0,DEN 41,0.0,6.0,"Russell Wilson pass incomplete deep left. Penalty on Cameron Fleming: Offensive Holding, 10 yards (declined)",0.76,-0.65,17.0,2022,247
+1.0,5:31,4.0,5.0,DEN 41,0.0,6.0,"Corliss Waitman punts 50 yards, fair catch by Kadarius Toney at KC-9",-0.65,0.38,17.0,2022,247
+1.0,5:24,1.0,10.0,KAN 9,0.0,6.0,Patrick Mahomes pass complete short right to Travis Kelce for 3 yards (tackle by Jonathan Harris),-0.38,-0.56,17.0,2022,247
+1.0,4:46,2.0,7.0,KAN 12,0.0,6.0,Patrick Mahomes pass complete short left to Isiah Pacheco for 9 yards (tackle by Alex Singleton and Damarri Mathis),-0.56,0.34,17.0,2022,247
+1.0,4:08,1.0,10.0,KAN 21,0.0,6.0,Patrick Mahomes pass complete short middle to Travis Kelce for 6 yards (tackle by Josey Jewell),0.34,0.61,17.0,2022,247
+1.0,3:29,2.0,4.0,KAN 27,0.0,6.0,Isiah Pacheco left tackle for 3 yards (tackle by Jonathan Harris),0.61,0.3,17.0,2022,247
+1.0,2:47,3.0,1.0,KAN 30,0.0,6.0,Patrick Mahomes pass incomplete short middle intended for Travis Kelce,0.3,-1.37,17.0,2022,247
+1.0,2:42,4.0,1.0,KAN 30,0.0,6.0,"Tommy Townsend punts 60 yards, returned by Kendall Hinton for 11 yards (tackle by Leo Chenal)",-1.37,-0.34,17.0,2022,247
+1.0,2:32,1.0,10.0,DEN 21,0.0,6.0,Latavius Murray right end for 2 yards (tackle by Trent McDuffie and Leo Chenal),0.34,0.07,17.0,2022,247
+1.0,2:07,2.0,8.0,DEN 23,0.0,6.0,Russell Wilson pass complete short left to Andrew Beck for 6 yards (tackle by Leo Chenal),0.07,0.17,17.0,2022,247
+1.0,1:26,3.0,2.0,DEN 29,0.0,6.0,Russell Wilson pass complete short right to Jerry Jeudy for 4 yards (tackle by Juan Thornhill),0.17,1.14,17.0,2022,247
+1.0,0:54,1.0,10.0,DEN 33,0.0,6.0,Latavius Murray right tackle for 2 yards (tackle by Khalen Saunders),1.14,0.86,17.0,2022,247
+1.0,0:19,2.0,8.0,DEN 35,0.0,6.0,Russell Wilson pass complete short middle to Chase Edmonds for 11 yards (tackle by Nick Bolton),0.86,1.99,17.0,2022,247
+2.0,15:00,1.0,10.0,DEN 46,0.0,6.0,Chase Edmonds right end for 5 yards (tackle by Juan Thornhill),1.99,2.13,17.0,2022,247
+2.0,14:23,2.0,5.0,KAN 49,0.0,6.0,Russell Wilson pass complete short right to Jerry Jeudy for 3 yards (tackle by Trent McDuffie),2.13,1.82,17.0,2022,247
+2.0,13:39,3.0,2.0,KAN 46,0.0,6.0,Latavius Murray up the middle for 1 yard (tackle by Darius Harris),1.82,0.27,17.0,2022,247
+2.0,13:09,4.0,1.0,KAN 45,0.0,6.0,Russell Wilson up the middle for 2 yards (tackle by Chris Jones),0.27,2.72,17.0,2022,247
+2.0,12:37,1.0,10.0,KAN 43,0.0,6.0,Russell Wilson pass complete short left to Andrew Beck for 4 yards (tackle by Darius Harris and Khalen Saunders),2.72,2.72,17.0,2022,247
+2.0,11:51,2.0,6.0,KAN 39,0.0,6.0,"Russell Wilson pass incomplete. Penalty on Jaylen Watson: Defensive Holding, 5 yards (accepted) (no play)",2.72,3.31,17.0,2022,247
+2.0,11:40,1.0,10.0,KAN 34,0.0,6.0,Chase Edmonds up the middle for 4 yards (tackle by Nick Bolton),3.31,3.24,17.0,2022,247
+2.0,11:03,2.0,7.0,KAN 30,0.0,6.0,Russell Wilson pass incomplete deep right,3.24,2.54,17.0,2022,247
+2.0,10:58,3.0,7.0,KAN 30,0.0,6.0,Russell Wilson pass incomplete short right intended for Albert Okwuegbunam (defended by Bryan Cook),2.54,1.32,17.0,2022,247
+2.0,10:51,4.0,7.0,KAN 31,3.0,6.0,Brandon McManus 49 yard field goal good,1.32,3.0,17.0,2022,247
+2.0,10:46,,,DEN 35,3.0,6.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,247
+2.0,10:46,1.0,10.0,KAN 25,3.0,6.0,Isiah Pacheco up the middle for 6 yards (tackle by Jonathan Harris),0.61,0.87,17.0,2022,247
+2.0,10:12,2.0,4.0,KAN 31,3.0,6.0,Patrick Mahomes pass complete short right to Skyy Moore for 9 yards (tackle by Josey Jewell),0.87,1.6,17.0,2022,247
+2.0,9:33,1.0,10.0,KAN 40,3.0,6.0,Patrick Mahomes pass complete deep right to Kadarius Toney for 38 yards (tackle by Kareem Jackson and Josey Jewell),1.6,4.11,17.0,2022,247
+2.0,8:41,1.0,10.0,DEN 22,3.0,6.0,Patrick Mahomes pass complete short left to Travis Kelce for 12 yards (tackle by Damarri Mathis),4.11,4.91,17.0,2022,247
+2.0,8:08,1.0,10.0,DEN 10,3.0,6.0,Patrick Mahomes pass incomplete short left intended for JuJu Smith-Schuster,4.91,4.19,17.0,2022,247
+2.0,8:01,2.0,10.0,DEN 10,3.0,6.0,Patrick Mahomes pass incomplete short right intended for Marquez Valdes-Scantling (defended by Lamar Jackson),4.19,3.13,17.0,2022,247
+2.0,7:57,3.0,10.0,DEN 10,3.0,6.0,Patrick Mahomes pass short left intended for Justin Watson is intercepted by Justin Simmons in end zone and returned for no gain,3.13,-0.28,17.0,2022,247
+2.0,7:51,1.0,10.0,DEN 20,3.0,6.0,Russell Wilson pass complete short right to Jerry Jeudy for 3 yards (tackle by Willie Gay),0.28,0.14,17.0,2022,247
+2.0,7:10,2.0,7.0,DEN 23,3.0,6.0,Russell Wilson sacked by George Karlaftis for -3 yards,0.14,-0.96,17.0,2022,247
+2.0,6:29,3.0,10.0,DEN 20,3.0,6.0,Russell Wilson pass complete deep middle to Courtland Sutton for 18 yards (tackle by Jaylen Watson),-0.96,1.47,17.0,2022,247
+2.0,5:51,1.0,10.0,DEN 38,3.0,6.0,Russell Wilson pass incomplete short right intended for Latavius Murray (defended by Justin Reid),1.47,0.92,17.0,2022,247
+2.0,5:45,2.0,10.0,DEN 38,3.0,6.0,Chase Edmonds left end for 3 yards (tackle by Willie Gay),0.92,0.63,17.0,2022,247
+2.0,5:05,3.0,7.0,DEN 41,3.0,6.0,Russell Wilson pass incomplete short left intended for Courtland Sutton (defended by Nick Bolton),0.63,-0.65,17.0,2022,247
+2.0,4:59,4.0,7.0,DEN 41,3.0,6.0,"Corliss Waitman punts 53 yards, returned by Kadarius Toney for 7 yards. Kadarius Toney fumbles (forced by Alex Singleton), recovered by Eric Saubert at KC-16",-0.65,4.51,17.0,2022,247
+2.0,4:45,1.0,10.0,KAN 16,9.0,6.0,"Russell Wilson left end for 16 yards, touchdown",4.51,7.0,17.0,2022,247
+2.0,4:40,,,KAN 15,10.0,6.0,Brandon McManus kicks extra point good,0.0,0.0,17.0,2022,247
+2.0,4:40,,,DEN 35,10.0,6.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,247
+2.0,4:40,1.0,10.0,KAN 25,10.0,6.0,Patrick Mahomes pass complete deep right to Kadarius Toney for 27 yards,0.61,2.39,17.0,2022,247
+2.0,4:07,1.0,10.0,DEN 48,10.0,6.0,"Isiah Pacheco for no gain. Penalty on Trey Smith: Offensive Holding, 10 yards (accepted) (no play)",2.39,1.73,17.0,2022,247
+2.0,3:45,1.0,20.0,KAN 42,10.0,6.0,Patrick Mahomes pass complete short left to Noah Gray for 12 yards (tackle by Alex Singleton),1.73,2.12,17.0,2022,247
+2.0,3:10,2.0,8.0,DEN 46,10.0,6.0,Patrick Mahomes pass complete deep right to Jerick McKinnon for 28 yards (tackle by Patrick Surtain),2.12,4.37,17.0,2022,247
+2.0,2:24,1.0,10.0,DEN 18,10.0,6.0,Patrick Mahomes pass complete short middle to Kadarius Toney for 3 yards (tackle by Kareem Jackson),4.37,4.25,17.0,2022,247
+2.0,2:00,2.0,7.0,DEN 15,10.0,6.0,Patrick Mahomes pass incomplete short middle,4.25,3.46,17.0,2022,247
+2.0,1:57,3.0,7.0,DEN 15,10.0,6.0,"Patrick Mahomes pass incomplete short right. Penalty on Essang Bassey: Defensive Holding, 5 yards (accepted) (no play)",3.46,4.91,17.0,2022,247
+2.0,1:52,1.0,10.0,DEN 10,10.0,6.0,Patrick Mahomes pass complete short left to Jerick McKinnon for 4 yards (tackle by Josey Jewell),4.91,4.95,17.0,2022,247
+2.0,1:08,2.0,6.0,DEN 6,10.0,12.0,"Patrick Mahomes pass complete short right to Jerick McKinnon for 6 yards, touchdown",4.95,7.0,17.0,2022,247
+2.0,1:02,,,DEN 15,10.0,13.0,Harrison Butker kicks extra point good,0.0,0.0,17.0,2022,247
+2.0,1:02,,,KAN 35,10.0,13.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,247
+2.0,1:02,1.0,10.0,DEN 25,10.0,13.0,Russell Wilson pass complete short right to Chase Edmonds for 1 yard (tackle by Bryan Cook),0.61,0.27,17.0,2022,247
+2.0,0:56,2.0,8.0,DEN 26,10.0,13.0,Russell Wilson pass incomplete short right intended for Albert Okwuegbunam,0.27,-0.43,17.0,2022,247
+2.0,0:53,3.0,8.0,DEN 26,10.0,13.0,Russell Wilson pass complete short middle to Chase Edmonds for 27 yards (tackle by Nick Bolton),-0.43,2.46,17.0,2022,247
+2.0,0:41,,,,,,Timeout #1 by Denver Broncos,,,17.0,2022,247
+2.0,0:41,1.0,10.0,KAN 47,10.0,13.0,Russell Wilson pass complete short left to Courtland Sutton for 8 yards (tackle by Jaylen Watson),2.46,2.99,17.0,2022,247
+2.0,0:36,,,,,,Timeout #2 by Denver Broncos,,,17.0,2022,247
+2.0,0:36,2.0,2.0,KAN 39,10.0,13.0,Russell Wilson pass complete short right to Courtland Sutton for 11 yards (tackle by L'Jarius Sneed and Bryan Cook),2.99,3.71,17.0,2022,247
+2.0,0:20,1.0,10.0,KAN 28,10.0,13.0,"Russell Wilson sacked by Trent McDuffie for -12 yards. Russell Wilson fumbles (forced by Trent McDuffie), recovered by George Karlaftis at KC-40 Replay Assistant challenged the fumble ruling, and the play was upheld.",3.71,-1.6,17.0,2022,247
+2.0,0:11,1.0,10.0,KAN 40,10.0,13.0,Patrick Mahomes pass complete deep right to Justin Watson for 27 yards,1.6,3.38,17.0,2022,247
+2.0,0:05,1.0,10.0,DEN 33,10.0,13.0,Harrison Butker 51 yard field goal no good blocked by Eyioma Uwazurike,3.38,1.6,17.0,2022,247
+3.0,15:00,,,DEN 35,10.0,13.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,247
+3.0,15:00,1.0,10.0,KAN 25,10.0,13.0,Isiah Pacheco left end for 2 yards (tackle by Kareem Jackson),0.61,0.33,17.0,2022,247
+3.0,14:21,2.0,8.0,KAN 27,10.0,13.0,Patrick Mahomes pass incomplete deep right intended for Skyy Moore,0.33,-0.36,17.0,2022,247
+3.0,14:16,3.0,8.0,KAN 27,10.0,13.0,Patrick Mahomes pass incomplete deep right intended for Marquez Valdes-Scantling (defended by K'Waun Williams),-0.36,-1.57,17.0,2022,247
+3.0,14:09,4.0,8.0,KAN 27,10.0,13.0,"Tommy Townsend punts 49 yards, fair catch by Kendall Hinton at DEN-24",-1.57,-0.54,17.0,2022,247
+3.0,14:01,1.0,10.0,DEN 24,10.0,13.0,Russell Wilson pass complete short middle to Eric Saubert for 24 yards (tackle by Trent McDuffie and Willie Gay),0.54,2.13,17.0,2022,247
+3.0,13:17,1.0,10.0,DEN 48,10.0,13.0,"Chase Edmonds right end for 4 yards (tackle by Justin Reid). Penalty on Eric Saubert: Offensive Holding, 10 yards (accepted)",2.13,1.73,17.0,2022,247
+3.0,12:43,1.0,16.0,DEN 42,10.0,13.0,Russell Wilson pass complete short right to Latavius Murray for no gain (tackle by Frank Clark),1.73,0.77,17.0,2022,247
+3.0,12:12,2.0,16.0,DEN 42,10.0,13.0,Russell Wilson pass incomplete short middle intended for Kendall Hinton,0.77,0.1,17.0,2022,247
+3.0,12:04,3.0,16.0,DEN 42,10.0,13.0,Russell Wilson pass complete short right to Latavius Murray for 1 yard (tackle by Frank Clark),0.1,-0.52,17.0,2022,247
+3.0,11:28,4.0,15.0,DEN 43,10.0,13.0,"Corliss Waitman punts 57 yards, touchback.",-0.52,-0.28,17.0,2022,247
+3.0,11:18,1.0,10.0,KAN 20,10.0,13.0,Patrick Mahomes pass incomplete short right intended for Marquez Valdes-Scantling,0.28,-0.27,17.0,2022,247
+3.0,11:14,2.0,10.0,KAN 20,10.0,13.0,Patrick Mahomes pass incomplete deep left intended for Marquez Valdes-Scantling,-0.27,-0.96,17.0,2022,247
+3.0,11:08,3.0,10.0,KAN 20,10.0,13.0,Patrick Mahomes scrambles right end for 4 yards (tackle by Jonathon Cooper),-0.96,-1.77,17.0,2022,247
+3.0,10:34,4.0,6.0,KAN 24,10.0,13.0,"Tommy Townsend punts 48 yards, returned by Kendall Hinton for 9 yards (tackle by Leo Chenal and Michael Burton)",-1.77,-1.4,17.0,2022,247
+3.0,10:23,1.0,10.0,DEN 37,10.0,13.0,Latavius Murray left guard for 5 yards (tackle by Derrick Nnadi),1.4,1.53,17.0,2022,247
+3.0,10:00,2.0,5.0,DEN 42,10.0,13.0,Russell Wilson pass complete short middle to Latavius Murray for 7 yards (tackle by Nick Bolton and Leo Chenal),1.53,2.19,17.0,2022,247
+3.0,9:18,1.0,10.0,DEN 49,10.0,13.0,Russell Wilson pass complete short right to Eric Saubert for -2 yards (tackle by Juan Thornhill),2.19,1.38,17.0,2022,247
+3.0,8:35,2.0,12.0,DEN 47,10.0,13.0,Latavius Murray up the middle for 19 yards (tackle by Justin Reid and Juan Thornhill),1.38,3.31,17.0,2022,247
+3.0,7:57,1.0,10.0,KAN 34,10.0,13.0,Latavius Murray right end for 5 yards (tackle by Juan Thornhill and Nick Bolton),3.31,3.45,17.0,2022,247
+3.0,7:08,2.0,5.0,KAN 29,10.0,13.0,"Penalty on Chris Jones: Neutral Zone Infraction, 4 yards (accepted) (no play)",3.45,3.99,17.0,2022,247
+3.0,6:41,2.0,1.0,KAN 25,16.0,13.0,"Russell Wilson pass complete deep middle to Albert Okwuegbunam for 25 yards, touchdown",3.99,7.0,17.0,2022,247
+3.0,6:35,,,KAN 15,17.0,13.0,Brandon McManus kicks extra point good,0.0,0.0,17.0,2022,247
+3.0,6:35,,,DEN 35,17.0,13.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,247
+3.0,6:35,1.0,10.0,KAN 25,17.0,13.0,Patrick Mahomes pass incomplete short left intended for Travis Kelce (defended by Lamar Jackson),0.61,0.06,17.0,2022,247
+3.0,6:30,2.0,10.0,KAN 25,17.0,13.0,Patrick Mahomes pass incomplete deep right intended for Travis Kelce (defended by Josey Jewell),0.06,-0.62,17.0,2022,247
+3.0,6:23,3.0,10.0,KAN 25,17.0,13.0,Patrick Mahomes scrambles right end for 2 yards (tackle by Jonathon Cooper),-0.62,-1.57,17.0,2022,247
+3.0,5:42,4.0,8.0,KAN 27,17.0,13.0,"Tommy Townsend punts 56 yards, fair catch by Kendall Hinton at DEN-17",-1.57,0.06,17.0,2022,247
+3.0,5:34,1.0,10.0,DEN 17,17.0,13.0,Latavius Murray up the middle for -1 yards (tackle by Carlos Dunlap),-0.06,-0.73,17.0,2022,247
+3.0,4:56,2.0,11.0,DEN 16,17.0,13.0,Kendall Hinton right end for no gain (tackle by Willie Gay),-0.73,-1.41,17.0,2022,247
+3.0,4:18,3.0,11.0,DEN 16,17.0,13.0,"Russell Wilson pass complete deep right to Courtland Sutton for no gain. Penalty on Courtland Sutton: Offensive Pass Interference, 8 yards (accepted) (no play)",-1.41,-2.47,17.0,2022,247
+3.0,3:48,3.0,19.0,DEN 8,17.0,13.0,Chase Edmonds up the middle for 10 yards (tackle by Trent McDuffie),-2.47,-2.24,17.0,2022,247
+3.0,3:09,4.0,9.0,DEN 18,17.0,13.0,"Corliss Waitman punts 54 yards, returned by Kadarius Toney for 7 yards (tackle by Delarrin Turner-Yell)",-2.24,-1.27,17.0,2022,247
+3.0,2:56,1.0,10.0,KAN 35,17.0,13.0,Patrick Mahomes pass complete short left to Skyy Moore for 6 yards (tackle by Kareem Jackson),1.27,1.53,17.0,2022,247
+3.0,2:29,2.0,4.0,KAN 41,17.0,13.0,Isiah Pacheco right guard for 6 yards (tackle by DeShawn Williams),1.53,2.06,17.0,2022,247
+3.0,1:51,1.0,10.0,KAN 47,17.0,13.0,Patrick Mahomes scrambles left end for 3 yards (tackle by Alex Singleton),2.06,1.92,17.0,2022,247
+3.0,1:11,2.0,7.0,KAN 50,17.0,13.0,Patrick Mahomes pass complete short right to JuJu Smith-Schuster for 11 yards (tackle by Lamar Jackson),1.92,2.98,17.0,2022,247
+3.0,0:40,1.0,10.0,DEN 39,17.0,13.0,Patrick Mahomes pass complete deep left to Marquez Valdes-Scantling for 22 yards (tackle by Lamar Jackson),2.98,4.44,17.0,2022,247
+4.0,15:00,1.0,10.0,DEN 17,17.0,19.0,"Patrick Mahomes pass complete short middle to Blake Bell for 17 yards, touchdown",4.44,7.0,17.0,2022,247
+4.0,14:50,,,DEN 15,17.0,20.0,Harrison Butker kicks extra point good,0.0,0.0,17.0,2022,247
+4.0,14:50,,,KAN 35,17.0,20.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,247
+4.0,14:50,1.0,10.0,DEN 25,17.0,20.0,Russell Wilson pass deep left intended for Jerry Jeudy is intercepted by L'Jarius Sneed at DEN-42 and returned for 25 yards (tackle by Courtland Sutton),0.61,-4.44,17.0,2022,247
+4.0,14:31,1.0,10.0,DEN 17,17.0,20.0,Patrick Mahomes pass complete short left to Isiah Pacheco for 9 yards (tackle by Kareem Jackson),4.44,5.48,17.0,2022,247
+4.0,14:03,2.0,1.0,DEN 8,17.0,20.0,Isiah Pacheco up the middle for 2 yards (tackle by Alex Singleton and Jonathon Cooper),5.48,5.83,17.0,2022,247
+4.0,13:23,1.0,6.0,DEN 6,17.0,20.0,Patrick Mahomes pass complete short right to Kadarius Toney for 3 yards (tackle by Alex Singleton and Wyatt Ray),5.83,5.53,17.0,2022,247
+4.0,12:40,2.0,3.0,DEN 3,17.0,26.0,"Patrick Mahomes pass complete short left to Jerick McKinnon for 3 yards, touchdown",5.53,7.0,17.0,2022,247
+4.0,12:36,,,DEN 15,17.0,27.0,Harrison Butker kicks extra point good,0.0,0.0,17.0,2022,247
+4.0,12:36,,,KAN 35,17.0,27.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,247
+4.0,12:36,1.0,10.0,DEN 25,17.0,27.0,Latavius Murray up the middle for 11 yards (tackle by Willie Gay and Justin Reid),0.61,1.4,17.0,2022,247
+4.0,12:04,1.0,10.0,DEN 37,17.0,27.0,Russell Wilson pass incomplete short right intended for Kendall Hinton,1.4,0.79,17.0,2022,247
+4.0,11:57,2.0,10.0,DEN 36,17.0,27.0,Russell Wilson pass complete short right to Albert Okwuegbunam for 4 yards (tackle by Jaylen Watson),0.79,0.63,17.0,2022,247
+4.0,11:11,3.0,6.0,DEN 40,17.0,27.0,"Russell Wilson pass incomplete intended for Jerry Jeudy. Penalty on Joshua Williams: Defensive Pass Interference, 7 yards (accepted) (no play)",0.63,2.06,17.0,2022,247
+4.0,11:05,1.0,10.0,DEN 47,17.0,27.0,Russell Wilson pass complete short right to Jerry Jeudy for 10 yards (tackle by Jaylen Watson),2.06,2.72,17.0,2022,247
+4.0,10:33,1.0,10.0,KAN 43,17.0,27.0,Latavius Murray right tackle for 3 yards (tackle by Willie Gay),2.72,2.58,17.0,2022,247
+4.0,9:50,2.0,7.0,KAN 40,17.0,27.0,Russell Wilson sacked by Khalen Saunders for -8 yards,2.58,0.83,17.0,2022,247
+4.0,9:07,3.0,15.0,KAN 48,17.0,27.0,Russell Wilson pass complete short left to Latavius Murray for 8 yards (tackle by Willie Gay and Nick Bolton),0.83,0.59,17.0,2022,247
+4.0,8:16,4.0,7.0,KAN 40,17.0,27.0,"Russell Wilson pass is intercepted by Nick Bolton at KC-30 and returned for no gain. Penalty on Joshua Williams: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",0.59,3.25,17.0,2022,247
+4.0,7:51,1.0,10.0,KAN 35,17.0,27.0,Russell Wilson pass complete short right to Jerry Jeudy for 7 yards (tackle by Jaylen Watson),3.25,3.72,17.0,2022,247
+4.0,7:36,2.0,2.0,KAN 28,17.0,27.0,Russell Wilson pass complete short left to Eric Saubert for 8 yards (tackle by Trent McDuffie),3.72,4.24,17.0,2022,247
+4.0,7:09,1.0,10.0,KAN 20,17.0,27.0,Russell Wilson pass incomplete deep left intended for Courtland Sutton,4.24,3.69,17.0,2022,247
+4.0,7:02,2.0,10.0,KAN 20,17.0,27.0,Russell Wilson pass complete short right to Albert Okwuegbunam for 16 yards (tackle by Jaylen Watson and Nick Bolton),3.69,6.28,17.0,2022,247
+4.0,6:21,1.0,4.0,KAN 4,23.0,27.0,"Russell Wilson scrambles right end for 4 yards, touchdown",6.28,7.0,17.0,2022,247
+4.0,6:14,,,KAN 15,24.0,27.0,Brandon McManus kicks extra point good,0.0,0.0,17.0,2022,247
+4.0,6:14,,,DEN 35,24.0,27.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,247
+4.0,6:14,1.0,10.0,KAN 25,24.0,27.0,Jerick McKinnon left end for 4 yards (tackle by Jonathan Harris and Josey Jewell),0.61,0.6,17.0,2022,247
+4.0,5:37,2.0,6.0,KAN 29,24.0,27.0,Patrick Mahomes pass complete short right to JuJu Smith-Schuster for 10 yards (tackle by Lamar Jackson),0.6,1.53,17.0,2022,247
+4.0,5:00,1.0,10.0,KAN 39,24.0,27.0,Patrick Mahomes pass complete short right to Travis Kelce for 2 yards (tackle by Justin Simmons),1.53,1.26,17.0,2022,247
+4.0,4:16,2.0,8.0,KAN 41,24.0,27.0,Patrick Mahomes pass incomplete short right intended for Jerick McKinnon,1.26,0.56,17.0,2022,247
+4.0,4:07,3.0,8.0,KAN 41,24.0,27.0,Patrick Mahomes pass incomplete short left intended for Marquez Valdes-Scantling,0.56,-0.65,17.0,2022,247
+4.0,4:03,4.0,8.0,KAN 41,24.0,27.0,"Tommy Townsend punts 50 yards, returned by Kendall Hinton for 17 yards (tackle by Nazeeh Johnson)",-0.65,-0.67,17.0,2022,247
+4.0,3:53,1.0,10.0,DEN 26,24.0,27.0,Russell Wilson pass complete short left to Jerry Jeudy for 11 yards (tackle by Nick Bolton and Juan Thornhill),0.67,1.4,17.0,2022,247
+4.0,3:08,1.0,10.0,DEN 37,24.0,27.0,Chase Edmonds up the middle for 5 yards (tackle by Frank Clark),1.4,1.53,17.0,2022,247
+4.0,2:36,2.0,5.0,DEN 42,24.0,27.0,Russell Wilson pass complete short right to Jerry Jeudy for no gain (tackle by Jaylen Watson),1.53,0.83,17.0,2022,247
+4.0,2:00,3.0,5.0,DEN 42,24.0,27.0,Chase Edmonds right guard for 3 yards (tackle by Chris Jones),0.83,-0.39,17.0,2022,247
+4.0,1:23,4.0,2.0,DEN 45,24.0,27.0,Russell Wilson sacked by Chris Jones for -9 yards,-0.39,-3.18,17.0,2022,247
+4.0,1:19,1.0,10.0,DEN 36,24.0,27.0,Isiah Pacheco up the middle for 2 yards (tackle by DeShawn Williams and Mike Purcell),3.18,2.91,17.0,2022,247
+4.0,1:16,,,,,,Timeout #1 by Denver Broncos,,,17.0,2022,247
+4.0,1:16,2.0,8.0,DEN 34,24.0,27.0,Isiah Pacheco up the middle for 3 yards (tackle by Jonathon Cooper and Josey Jewell),2.91,2.61,17.0,2022,247
+4.0,1:09,,,,,,Timeout #2 by Denver Broncos,,,17.0,2022,247
+4.0,1:09,3.0,5.0,DEN 31,24.0,27.0,Patrick Mahomes pass complete short left to Travis Kelce for 6 yards (tackle by Kareem Jackson),2.61,3.91,17.0,2022,247
+4.0,0:37,,,,,,Timeout #3 by Denver Broncos,,,17.0,2022,247
+4.0,0:37,1.0,10.0,DEN 25,24.0,27.0,Patrick Mahomes kneels for -1 yards,3.91,3.23,17.0,2022,247

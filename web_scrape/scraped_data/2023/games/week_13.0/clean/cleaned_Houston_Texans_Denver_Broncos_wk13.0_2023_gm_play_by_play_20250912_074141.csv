@@ -1,0 +1,173 @@
+Quarter,Time,Down,ToGo,Location,DEN,HOU,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Broncos won the coin toss and deferred, Texans to receive the opening kickoff.",,,13.0,2023,184
+1.0,15:00,,,DEN 35,0.0,0.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,13.0,2023,184
+1.0,15:00,1.0,10.0,HOU 25,0.0,0.0,Devin Singletary left guard for 1 yard (tackle by Josey Jewell and Mike Purcell),0.61,0.2,13.0,2023,184
+1.0,14:29,2.0,9.0,HOU 26,0.0,0.0,Devin Singletary left tackle for 4 yards (tackle by Alex Singleton and Jonathon Cooper),0.2,0.04,13.0,2023,184
+1.0,13:56,3.0,5.0,HOU 30,0.0,0.0,C.J. Stroud scrambles right guard for 4 yards (tackle by Alex Singleton and D.J. Jones),0.04,-1.11,13.0,2023,184
+1.0,13:15,4.0,1.0,HOU 34,0.0,0.0,"Cameron Johnston punts 48 yards, fair catch by Marvin Mims at DEN-18",-1.11,-0.04,13.0,2023,184
+1.0,13:08,1.0,10.0,DEN 18,0.0,0.0,Russell Wilson pass incomplete deep right intended for Courtland Sutton (defended by Derek Stingley),0.04,-0.49,13.0,2023,184
+1.0,13:03,2.0,10.0,DEN 18,0.0,0.0,Russell Wilson pass incomplete deep middle intended for Courtland Sutton,-0.49,-1.17,13.0,2023,184
+1.0,12:54,3.0,10.0,DEN 18,0.0,0.0,Russell Wilson scrambles up the middle for 7 yards (tackle by Sheldon Rankins),-1.17,-1.7,13.0,2023,184
+1.0,12:20,4.0,3.0,DEN 25,0.0,0.0,Riley Dixon punts 22 yards out of bounds,-1.7,-2.46,13.0,2023,184
+1.0,12:14,1.0,10.0,DEN 47,0.0,0.0,C.J. Stroud pass complete short left to Brevin Jordan for 27 yards (tackle by Fabian Moreau),2.46,4.24,13.0,2023,184
+1.0,11:35,1.0,10.0,DEN 20,0.0,0.0,C.J. Stroud pass complete short left to Andrew Beck for 5 yards (tackle by P.J. Locke),4.24,4.45,13.0,2023,184
+1.0,11:05,2.0,5.0,DEN 15,0.0,0.0,"Devin Singletary right guard for no gain (tackle by Mike Purcell). Penalty on Baron Browning: Defensive Offside, 4 yards (accepted) (no play)",4.45,5.26,13.0,2023,184
+1.0,10:43,2.0,1.0,DEN 11,0.0,0.0,Devin Singletary right guard for no gain (tackle by Zach Allen),5.26,4.59,13.0,2023,184
+1.0,10:18,3.0,1.0,DEN 11,0.0,0.0,C.J. Stroud pass incomplete short left intended for Andrew Beck,4.59,2.85,13.0,2023,184
+1.0,10:14,4.0,1.0,DEN 11,0.0,3.0,Matt Ammendola 29 yard field goal good,2.85,3.0,13.0,2023,184
+1.0,10:11,,,HOU 35,0.0,3.0,"Matt Ammendola kicks off 65 yards, touchback.",0.0,0.61,13.0,2023,184
+1.0,10:11,1.0,10.0,DEN 25,0.0,3.0,Javonte Williams left guard for 5 yards (tackle by Jimmie Ward and Maliek Collins),0.61,0.74,13.0,2023,184
+1.0,9:32,2.0,5.0,DEN 30,0.0,3.0,Javonte Williams left guard for 2 yards (tackle by Will Anderson and Denzel Perryman),0.74,0.3,13.0,2023,184
+1.0,8:52,3.0,3.0,DEN 32,0.0,3.0,Russell Wilson sacked by Will Anderson for -11 yards,0.3,-1.96,13.0,2023,184
+1.0,8:17,4.0,14.0,DEN 21,0.0,3.0,"Riley Dixon punts 57 yards, fair catch by Desmond King at HOU-22",-1.96,-0.41,13.0,2023,184
+1.0,8:11,1.0,10.0,HOU 22,0.0,3.0,C.J. Stroud pass complete deep left to Nico Collins for 52 yards (tackle by Fabian Moreau),0.41,3.84,13.0,2023,184
+1.0,7:37,1.0,10.0,DEN 26,0.0,3.0,Dameon Pierce right guard for 2 yards (tackle by Josey Jewell),3.84,3.57,13.0,2023,184
+1.0,6:59,2.0,8.0,DEN 24,0.0,3.0,C.J. Stroud pass complete short right to Nico Collins for 6 yards,3.57,3.75,13.0,2023,184
+1.0,6:25,3.0,2.0,DEN 18,0.0,3.0,Dare Ogunbowale right tackle for 1 yard (tackle by D.J. Jones and Damarri Mathis),3.75,2.46,13.0,2023,184
+1.0,5:58,4.0,1.0,DEN 17,0.0,3.0,C.J. Stroud up the middle for 2 yards (tackle by Alex Singleton),2.46,4.58,13.0,2023,184
+1.0,5:20,1.0,10.0,DEN 15,0.0,3.0,Dameon Pierce left end for 6 yards (tackle by Alex Singleton),4.58,5.03,13.0,2023,184
+1.0,4:42,2.0,4.0,DEN 9,0.0,3.0,Dameon Pierce left tackle for 2 yards (tackle by Alex Singleton and Matt Henningsen),5.03,4.68,13.0,2023,184
+1.0,4:03,3.0,2.0,DEN 7,0.0,3.0,C.J. Stroud pass incomplete short right intended for Nico Collins,4.68,3.0,13.0,2023,184
+1.0,3:56,4.0,2.0,DEN 7,0.0,3.0,"Penalty on Alex Singleton: Unnecessary Roughness / Defense, 4 yards (accepted) (no play)",3.0,6.51,13.0,2023,184
+1.0,3:56,1.0,3.0,DEN 3,0.0,3.0,C.J. Stroud pass incomplete short right intended for Nico Collins,6.51,5.53,13.0,2023,184
+1.0,3:53,2.0,3.0,DEN 3,0.0,9.0,"Dameon Pierce up the middle for 3 yards, touchdown",5.53,7.0,13.0,2023,184
+1.0,3:49,,,DEN 15,0.0,10.0,Matt Ammendola kicks extra point good,0.0,0.0,13.0,2023,184
+1.0,3:49,,,HOU 35,0.0,10.0,"Matt Ammendola kicks off 65 yards, touchback.",0.0,0.61,13.0,2023,184
+1.0,3:49,1.0,10.0,DEN 25,0.0,10.0,Russell Wilson pass complete short right to Lil'Jordan Humphrey for 12 yards (tackle by Christian Harris),0.61,1.4,13.0,2023,184
+1.0,3:19,1.0,10.0,DEN 37,0.0,10.0,Marvin Mims right end for 8 yards (tackle by Jalen Pitre and Desmond King),1.4,1.94,13.0,2023,184
+1.0,2:40,2.0,2.0,DEN 45,0.0,10.0,Jaleel McLaughlin left guard for -1 yards (tackle by Desmond King),1.94,1.09,13.0,2023,184
+1.0,1:58,3.0,3.0,DEN 44,0.0,10.0,Russell Wilson scrambles up the middle for 1 yard (tackle by Jerry Hughes),1.09,-0.39,13.0,2023,184
+1.0,1:11,4.0,2.0,DEN 45,0.0,10.0,"Riley Dixon punts 44 yards, fair catch by Robert Woods at HOU-11",-0.39,0.37,13.0,2023,184
+1.0,1:06,1.0,10.0,HOU 11,0.0,10.0,Devin Singletary right tackle for 4 yards (tackle by Mike Purcell and Alex Singleton),-0.37,-0.43,13.0,2023,184
+1.0,0:33,2.0,6.0,HOU 15,0.0,10.0,C.J. Stroud pass incomplete short right intended for Brevin Jordan,-0.43,-0.95,13.0,2023,184
+1.0,0:26,3.0,6.0,HOU 15,0.0,10.0,C.J. Stroud pass complete deep right to Nico Collins for 59 yards (tackle by P.J. Locke and Patrick Surtain),-0.95,3.84,13.0,2023,184
+2.0,15:00,1.0,10.0,DEN 26,0.0,10.0,"C.J. Stroud pass complete short left to John Metchie for no gain (tackle by Alex Singleton). Penalty on Juice Scruggs: Offensive Illegal Block Above the Waist, 10 yards (accepted) (no play)",3.84,3.18,13.0,2023,184
+2.0,14:42,1.0,20.0,DEN 36,0.0,10.0,C.J. Stroud pass complete short right to Devin Singletary for 4 yards (tackle by Alex Singleton and Justin Simmons),3.18,2.49,13.0,2023,184
+2.0,14:01,2.0,16.0,DEN 32,0.0,10.0,Devin Singletary up the middle for 10 yards (tackle by Justin Simmons),2.49,3.14,13.0,2023,184
+2.0,13:35,3.0,6.0,DEN 22,0.0,10.0,C.J. Stroud scrambles up the middle for 2 yards (tackle by Jonathon Cooper),3.14,2.2,13.0,2023,184
+2.0,12:58,4.0,4.0,DEN 20,0.0,13.0,Matt Ammendola 38 yard field goal good,2.2,3.0,13.0,2023,184
+2.0,12:54,,,HOU 35,0.0,13.0,"Matt Ammendola kicks off 67 yards, returned by Marvin Mims for 27 yards (tackle by Desmond King and Neville Hewitt)",0.0,0.61,13.0,2023,184
+2.0,12:47,1.0,10.0,DEN 25,0.0,13.0,Russell Wilson scrambles up the middle for 3 yards (tackle by Will Anderson),0.61,0.47,13.0,2023,184
+2.0,12:09,2.0,7.0,DEN 28,0.0,13.0,Javonte Williams up the middle for 16 yards (tackle by Will Anderson and Blake Cashman),0.47,1.86,13.0,2023,184
+2.0,11:27,1.0,10.0,DEN 44,0.0,13.0,Russell Wilson pass incomplete deep right intended for Marvin Mims (defended by Derek Stingley),1.86,1.32,13.0,2023,184
+2.0,11:19,2.0,10.0,DEN 44,0.0,13.0,Javonte Williams up the middle for 5 yards (tackle by Jimmie Ward and Denzel Perryman),1.32,1.29,13.0,2023,184
+2.0,10:35,3.0,5.0,DEN 49,0.0,13.0,Samaje Perine right tackle for 1 yard (tackle by Jonathan Greenard and Sheldon Rankins),1.29,-0.06,13.0,2023,184
+2.0,10:02,4.0,4.0,DEN 50,0.0,13.0,"Riley Dixon punts 41 yards, fair catch by Desmond King at HOU-9",-0.06,0.38,13.0,2023,184
+2.0,9:55,1.0,10.0,HOU 9,0.0,13.0,Dameon Pierce right guard for -1 yards (tackle by Jonathan Harris and Jonathon Cooper),-0.38,-0.85,13.0,2023,184
+2.0,9:18,2.0,11.0,HOU 8,0.0,13.0,C.J. Stroud pass complete short right to Brevin Jordan for 24 yards (tackle by Jonathon Cooper),-0.85,1.07,13.0,2023,184
+2.0,8:38,1.0,10.0,HOU 32,0.0,13.0,"C.J. Stroud sacked by Jonathon Cooper for no gain. C.J. Stroud fumbles (forced by Jonathon Cooper), recovered by George Fant at HOU-24. Penalty on Michael Deiter: Tripping / Offense, 15 yards (accepted) (no play)",1.07,-0.23,13.0,2023,184
+2.0,8:20,1.0,25.0,HOU 17,0.0,13.0,Dameon Pierce up the middle for 22 yards (tackle by P.J. Locke),-0.23,1.47,13.0,2023,184
+2.0,7:56,2.0,3.0,HOU 39,0.0,13.0,Dameon Pierce right tackle for 1 yard (tackle by Zach Allen and D.J. Jones),1.47,0.89,13.0,2023,184
+2.0,7:18,3.0,2.0,HOU 40,0.0,13.0,C.J. Stroud pass incomplete deep middle intended for John Metchie,0.89,-0.72,13.0,2023,184
+2.0,7:02,4.0,2.0,HOU 40,0.0,13.0,"Penalty on Henry To'oTo'o: Illegal Formation, 5 yards (accepted) (no play)",-0.72,-1.04,13.0,2023,184
+2.0,7:02,4.0,7.0,HOU 35,0.0,13.0,"Penalty on Andrew Beck: Offensive Facemask, 15 yards (accepted) (no play)",-1.04,-2.03,13.0,2023,184
+2.0,6:47,4.0,22.0,HOU 20,0.0,13.0,Cameron Johnston punts 52 yards downed by Eric Saubert,-2.03,-0.81,13.0,2023,184
+2.0,6:33,1.0,10.0,DEN 28,0.0,13.0,Javonte Williams right tackle for 2 yards (tackle by Desmond King and Blake Cashman),0.81,0.53,13.0,2023,184
+2.0,5:58,2.0,8.0,DEN 30,0.0,13.0,Russell Wilson pass complete short middle to Javonte Williams for 15 yards (tackle by Blake Cashman and Desmond King),0.53,1.93,13.0,2023,184
+2.0,5:19,1.0,10.0,DEN 45,0.0,13.0,Russell Wilson left end for 11 yards (tackle by Jalen Pitre),1.93,2.65,13.0,2023,184
+2.0,4:43,1.0,10.0,HOU 44,0.0,13.0,Javonte Williams up the middle for 4 yards (tackle by Derek Stingley),2.65,2.65,13.0,2023,184
+2.0,4:02,2.0,6.0,HOU 40,0.0,13.0,Russell Wilson pass incomplete deep left intended for Courtland Sutton (defended by Steven Nelson),2.65,1.95,13.0,2023,184
+2.0,3:57,3.0,6.0,HOU 40,0.0,13.0,Russell Wilson pass complete short right to Samaje Perine for 5 yards (tackle by Desmond King and Blake Cashman),1.95,1.0,13.0,2023,184
+2.0,3:13,4.0,1.0,HOU 35,0.0,13.0,Russell Wilson scrambles up the middle for 3 yards (tackle by Christian Harris),1.0,3.45,13.0,2023,184
+2.0,2:36,1.0,10.0,HOU 32,0.0,13.0,Russell Wilson pass complete short right to Adam Trautman for 6 yards (tackle by Blake Cashman),3.45,3.71,13.0,2023,184
+2.0,2:00,2.0,4.0,HOU 26,0.0,13.0,Jaleel McLaughlin right end for 6 yards (tackle by Jalen Pitre),3.71,4.24,13.0,2023,184
+2.0,1:48,,,,,,Timeout #1 by Denver Broncos,,,13.0,2023,184
+2.0,1:48,1.0,10.0,HOU 20,0.0,13.0,Russell Wilson pass complete short left to Jerry Jeudy for 6 yards (tackle by Desmond King and Jimmie Ward),4.24,4.64,13.0,2023,184
+2.0,1:37,,,,,,Timeout #1 by Houston Texans,,,13.0,2023,184
+2.0,1:37,2.0,4.0,HOU 14,0.0,13.0,Javonte Williams left guard for -2 yards (tackle by Jalen Pitre),4.64,3.52,13.0,2023,184
+2.0,1:34,,,,,,Timeout #2 by Houston Texans,,,13.0,2023,184
+2.0,1:34,3.0,6.0,HOU 16,0.0,13.0,Russell Wilson pass incomplete deep right,3.52,2.4,13.0,2023,184
+2.0,1:27,4.0,6.0,HOU 16,3.0,13.0,Wil Lutz 34 yard field goal good,2.4,3.0,13.0,2023,184
+2.0,1:24,,,DEN 35,3.0,13.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,13.0,2023,184
+2.0,1:24,1.0,10.0,HOU 25,3.0,13.0,Devin Singletary right guard for 14 yards (tackle by Patrick Surtain),0.61,1.53,13.0,2023,184
+2.0,0:55,1.0,10.0,HOU 39,3.0,13.0,C.J. Stroud pass complete short left to Nico Collins for 5 yards (tackle by Fabian Moreau and Ja'Quan McMillian),1.53,1.66,13.0,2023,184
+2.0,0:36,2.0,5.0,HOU 44,3.0,13.0,C.J. Stroud pass incomplete deep left intended for John Metchie,1.66,0.96,13.0,2023,184
+2.0,0:28,3.0,5.0,HOU 44,3.0,13.0,C.J. Stroud pass incomplete short left,0.96,-0.46,13.0,2023,184
+2.0,0:20,4.0,5.0,HOU 44,3.0,13.0,"Cameron Johnston punts 45 yards, fair catch by Marvin Mims at DEN-11",-0.46,0.37,13.0,2023,184
+2.0,0:14,1.0,10.0,DEN 11,3.0,13.0,Russell Wilson kneels for -1 yards,-0.37,-0.85,13.0,2023,184
+3.0,15:00,,,HOU 35,3.0,13.0,"Matt Ammendola kicks off 65 yards, touchback.",0.0,0.61,13.0,2023,184
+3.0,15:00,1.0,10.0,DEN 25,3.0,13.0,Russell Wilson sacked by Will Anderson for -4 yards,0.61,-0.48,13.0,2023,184
+3.0,14:20,2.0,14.0,DEN 21,3.0,13.0,Russell Wilson pass complete short left to Jaleel McLaughlin for 5 yards (tackle by Jonathan Greenard),-0.48,-0.49,13.0,2023,184
+3.0,13:34,3.0,9.0,DEN 26,3.0,13.0,Russell Wilson sacked by Jonathan Greenard for -7 yards,-0.49,-2.14,13.0,2023,184
+3.0,13:02,4.0,16.0,DEN 19,3.0,13.0,"Riley Dixon punts 48 yards, returned by Desmond King for 7 yards (tackle by Dwayne Washington)",-2.14,-1.6,13.0,2023,184
+3.0,12:53,1.0,10.0,HOU 40,3.0,13.0,Dameon Pierce up the middle for no gain (tackle by Zach Allen),1.6,1.05,13.0,2023,184
+3.0,12:18,2.0,10.0,HOU 40,3.0,13.0,Dameon Pierce up the middle for -1 yards (tackle by D.J. Jones),1.05,0.23,13.0,2023,184
+3.0,11:44,3.0,11.0,HOU 39,3.0,13.0,C.J. Stroud pass complete deep middle to Nico Collins for 39 yards (tackle by P.J. Locke),0.23,4.11,13.0,2023,184
+3.0,10:57,1.0,10.0,DEN 22,3.0,13.0,John Metchie left end for no gain (tackle by Patrick Surtain) (no play),4.11,3.78,13.0,2023,184
+3.0,10:35,1.0,15.0,DEN 27,3.0,13.0,Dameon Pierce up the middle for 3 yards (tackle by Jonathan Harris),3.78,3.29,13.0,2023,184
+3.0,10:15,2.0,12.0,DEN 24,3.0,13.0,C.J. Stroud sacked by Jonathan Harris for -1 yards,3.29,2.48,13.0,2023,184
+3.0,9:35,3.0,13.0,DEN 25,3.0,13.0,C.J. Stroud pass complete short left to Nico Collins for 5 yards (tackle by Josey Jewell),2.48,2.12,13.0,2023,184
+3.0,8:55,4.0,8.0,DEN 20,3.0,16.0,Matt Ammendola 38 yard field goal good,2.12,3.0,13.0,2023,184
+3.0,8:51,,,HOU 35,3.0,16.0,"Matt Ammendola kicks off 58 yards, returned by Marvin Mims for 17 yards (tackle by DeAndre Houston-Carson and Henry To'oTo'o)",0.0,0.54,13.0,2023,184
+3.0,8:47,1.0,10.0,DEN 24,3.0,16.0,Jaleel McLaughlin left end for 2 yards (tackle by Jalen Pitre),0.54,0.27,13.0,2023,184
+3.0,8:09,2.0,8.0,DEN 26,3.0,16.0,Russell Wilson pass complete short middle to Javonte Williams for 5 yards (tackle by Denzel Perryman),0.27,0.23,13.0,2023,184
+3.0,7:24,3.0,3.0,DEN 31,3.0,16.0,Russell Wilson pass complete short left to Samaje Perine for no gain (tackle by Desmond King),0.23,-1.31,13.0,2023,184
+3.0,7:10,4.0,3.0,DEN 31,3.0,16.0,"Riley Dixon punts 54 yards, fair catch by Robert Woods at HOU-15",-1.31,0.22,13.0,2023,184
+3.0,7:00,1.0,10.0,HOU 15,3.0,16.0,C.J. Stroud pass incomplete short middle intended for Brevin Jordan,-0.22,-0.71,13.0,2023,184
+3.0,6:56,2.0,10.0,HOU 15,3.0,16.0,Devin Singletary left tackle for no gain (tackle by Nik Bonitto and Zach Allen),-0.71,-1.37,13.0,2023,184
+3.0,6:20,3.0,10.0,HOU 15,3.0,16.0,C.J. Stroud pass incomplete deep right intended for Noah Brown,-1.37,-2.44,13.0,2023,184
+3.0,6:14,4.0,10.0,HOU 15,3.0,16.0,Cameron Johnston punts 43 yards out of bounds,-2.44,-1.73,13.0,2023,184
+3.0,6:07,1.0,10.0,DEN 42,3.0,16.0,"Penalty on Kurt Hinish: Neutral Zone Infraction, 5 yards (accepted) (no play)",1.73,2.46,13.0,2023,184
+3.0,6:07,1.0,5.0,DEN 47,3.0,16.0,Javonte Williams right tackle for 4 yards (tackle by Christian Harris),2.46,2.4,13.0,2023,184
+3.0,5:29,2.0,1.0,HOU 49,3.0,16.0,Michael Burton right tackle for 4 yards (tackle by Christian Harris and Denzel Perryman),2.4,2.59,13.0,2023,184
+3.0,4:55,1.0,10.0,HOU 45,9.0,16.0,"Russell Wilson pass complete deep left to Courtland Sutton for 45 yards, touchdown. Penalty on Jalen Pitre: Defensive Pass Interference, 15 yards (declined)",2.59,7.0,13.0,2023,184
+3.0,4:47,,,HOU 15,10.0,16.0,Wil Lutz kicks extra point good,0.0,0.0,13.0,2023,184
+3.0,4:47,,,DEN 35,10.0,16.0,"Wil Lutz kicks off 67 yards, returned by Desmond King for 23 yards (tackle by Drew Sanders)",0.0,0.34,13.0,2023,184
+3.0,4:42,1.0,10.0,HOU 21,10.0,16.0,C.J. Stroud pass complete short left to Eric Saubert for 5 yards (tackle by Josey Jewell and Jonathon Cooper),0.34,0.48,13.0,2023,184
+3.0,4:05,2.0,5.0,HOU 26,10.0,16.0,C.J. Stroud pass complete short left to Nico Collins for 4 yards (tackle by Patrick Surtain),0.48,0.3,13.0,2023,184
+3.0,3:30,3.0,1.0,HOU 30,10.0,16.0,C.J. Stroud right guard for 2 yards (tackle by D.J. Jones),0.3,1.07,13.0,2023,184
+3.0,2:52,1.0,10.0,HOU 32,10.0,16.0,C.J. Stroud pass incomplete short middle intended for Noah Brown,1.07,0.53,13.0,2023,184
+3.0,2:48,2.0,10.0,HOU 32,10.0,16.0,C.J. Stroud sacked by and Zach Allen for -3 yards and Baron Browning for -3 yards,0.53,-0.62,13.0,2023,184
+3.0,2:01,,,,,,Timeout #1 by Houston Texans,,,13.0,2023,184
+3.0,2:01,3.0,14.0,HOU 29,10.0,16.0,"C.J. Stroud sacked by Ja'Quan McMillian for -5 yards. C.J. Stroud fumbles (forced by Ja'Quan McMillian), recovered by Dare Ogunbowale at HOU-31",-0.62,-1.31,13.0,2023,184
+3.0,1:12,4.0,12.0,HOU 31,10.0,16.0,"Cameron Johnston punts 69 yards, touchback.",-1.31,-0.28,13.0,2023,184
+3.0,1:04,1.0,10.0,DEN 20,10.0,16.0,Russell Wilson pass short right (defended by Will Anderson) intended for Jerry Jeudy is intercepted by Derek Stingley at DEN-24 and returned for 3 yards (tackle by Chris Manhertz),0.28,-4.17,13.0,2023,184
+3.0,0:59,1.0,10.0,DEN 21,10.0,16.0,Dameon Pierce right guard for no gain (tackle by Jonathon Cooper),4.17,3.63,13.0,2023,184
+3.0,0:27,2.0,10.0,DEN 21,10.0,16.0,C.J. Stroud pass complete short left to Brevin Jordan for 13 yards (tackle by P.J. Locke and Alex Singleton),3.63,5.37,13.0,2023,184
+4.0,15:00,1.0,8.0,DEN 8,10.0,16.0,Dameon Pierce right end for 5 yards (tackle by Jonathon Cooper and Alex Singleton),5.37,5.53,13.0,2023,184
+4.0,14:21,2.0,3.0,DEN 3,10.0,22.0,"C.J. Stroud pass complete short left to Nico Collins for 3 yards, touchdown",5.53,7.0,13.0,2023,184
+4.0,14:16,,,DEN 2,10.0,22.0,Two Point Attempt: C.J. Stroud pass incomplete. Interception by Fabian Moreau,1.0,-1.0,13.0,2023,184
+4.0,14:16,,,HOU 35,10.0,22.0,"Matt Ammendola kicks off 65 yards, touchback.",0.0,0.61,13.0,2023,184
+4.0,14:16,1.0,10.0,DEN 25,10.0,22.0,"Russell Wilson left end for 7 yards (tackle by Jimmie Ward). Penalty on Jimmie Ward: Unnecessary Roughness / Defense, 15 yards (accepted)",0.61,2.06,13.0,2023,184
+4.0,13:54,1.0,10.0,DEN 47,10.0,22.0,Jaleel McLaughlin right guard for 8 yards (tackle by Denzel Perryman),2.06,2.6,13.0,2023,184
+4.0,13:13,2.0,2.0,HOU 45,10.0,22.0,Javonte Williams up the middle for 3 yards (tackle by Denzel Perryman),2.6,2.79,13.0,2023,184
+4.0,12:40,1.0,10.0,HOU 42,10.0,22.0,Russell Wilson pass complete deep left to Jerry Jeudy for 41 yards (tackle by Steven Nelson and DeAndre Houston-Carson),2.79,6.97,13.0,2023,184
+4.0,12:06,1.0,1.0,HOU 1,16.0,22.0,"Russell Wilson right guard for 1 yard, touchdown",6.97,7.0,13.0,2023,184
+4.0,12:04,,,HOU 15,17.0,22.0,Wil Lutz kicks extra point good,0.0,0.0,13.0,2023,184
+4.0,12:04,,,DEN 35,17.0,22.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,13.0,2023,184
+4.0,12:04,1.0,10.0,HOU 25,17.0,22.0,Devin Singletary up the middle for 3 yards (tackle by Josey Jewell and Zach Allen),0.61,0.47,13.0,2023,184
+4.0,11:27,2.0,7.0,HOU 28,17.0,22.0,C.J. Stroud sacked by Alex Singleton for -10 yards,0.47,-1.72,13.0,2023,184
+4.0,10:44,3.0,17.0,HOU 18,17.0,22.0,C.J. Stroud pass incomplete deep left intended for Nico Collins (defended by Patrick Surtain),-1.72,-2.24,13.0,2023,184
+4.0,10:40,4.0,17.0,HOU 18,17.0,22.0,"Cameron Johnston punts 57 yards, returned by Marvin Mims for 7 yards (tackle by Jake Hansen and Tavierre Thomas). Penalty on Delarrin Turner-Yell: Running Into the Kicker, 5 yards (declined)",-2.24,-1.07,13.0,2023,184
+4.0,10:28,1.0,10.0,DEN 32,17.0,22.0,Javonte Williams right tackle for 4 yards (tackle by Sheldon Rankins),1.07,1.07,13.0,2023,184
+4.0,9:40,2.0,6.0,DEN 36,17.0,22.0,Russell Wilson pass deep middle intended for Courtland Sutton is intercepted by Derek Stingley at HOU-27 and returned for no gain (tackle by Marvin Mims),1.07,-0.74,13.0,2023,184
+4.0,9:33,1.0,10.0,HOU 27,17.0,22.0,Dameon Pierce left tackle for no gain (tackle by Alex Singleton and Josey Jewell),0.74,0.2,13.0,2023,184
+4.0,8:56,2.0,10.0,HOU 27,17.0,22.0,C.J. Stroud pass complete short left to John Metchie for 9 yards (tackle by Patrick Surtain and Alex Singleton),0.2,0.7,13.0,2023,184
+4.0,8:11,,,,,,Timeout #2 by Houston Texans,,,13.0,2023,184
+4.0,8:11,3.0,1.0,HOU 36,17.0,22.0,C.J. Stroud left guard for 2 yards (tackle by Matt Henningsen),0.7,1.47,13.0,2023,184
+4.0,7:44,1.0,10.0,HOU 38,17.0,22.0,Dameon Pierce right guard for 3 yards (tackle by P.J. Locke),1.47,1.33,13.0,2023,184
+4.0,7:04,2.0,7.0,HOU 41,17.0,22.0,Davis Mills pass complete short right to Nico Collins for 18 yards (tackle by Baron Browning),1.33,2.85,13.0,2023,184
+4.0,6:32,1.0,10.0,DEN 41,17.0,22.0,Dameon Pierce up the middle for -4 yards (tackle by P.J. Locke),2.85,1.77,13.0,2023,184
+4.0,5:54,2.0,14.0,DEN 45,17.0,22.0,C.J. Stroud sacked by P.J. Locke for -9 yards,1.77,-0.1,13.0,2023,184
+4.0,5:11,3.0,23.0,HOU 46,17.0,22.0,C.J. Stroud pass complete short right to Dare Ogunbowale for 14 yards (tackle by Patrick Surtain),-0.1,0.59,13.0,2023,184
+4.0,4:40,4.0,10.0,DEN 40,17.0,22.0,"Cameron Johnston punts 40 yards, touchback.",0.59,-0.28,13.0,2023,184
+4.0,4:36,1.0,10.0,DEN 20,17.0,22.0,Russell Wilson pass complete deep middle to Courtland Sutton for 32 yards (tackle by Jimmie Ward),0.28,2.39,13.0,2023,184
+4.0,3:54,1.0,10.0,HOU 48,17.0,22.0,Russell Wilson pass complete short left to Marvin Mims for 5 yards (tackle by Steven Nelson),2.39,2.52,13.0,2023,184
+4.0,3:48,2.0,5.0,HOU 43,17.0,22.0,Javonte Williams left tackle for 1 yard (tackle by Jonathan Greenard),2.52,1.95,13.0,2023,184
+4.0,3:05,3.0,4.0,HOU 42,17.0,22.0,"Russell Wilson pass incomplete short left intended for Samaje Perine. Penalty on Christian Harris: Defensive Pass Interference, 11 yards (accepted) (no play)",1.95,3.51,13.0,2023,184
+4.0,2:59,1.0,10.0,HOU 31,17.0,22.0,Javonte Williams left tackle for 1 yard (tackle by Jake Hansen and Christian Harris),3.51,3.1,13.0,2023,184
+4.0,2:16,2.0,9.0,HOU 30,17.0,22.0,Russell Wilson pass complete short left to Jaleel McLaughlin for 1 yard (tackle by Jalen Pitre),3.1,2.54,13.0,2023,184
+4.0,2:11,3.0,8.0,HOU 29,17.0,22.0,Russell Wilson scrambles left end for 7 yards (tackle by Christian Harris and Sheldon Rankins),2.54,2.14,13.0,2023,184
+4.0,2:00,,,,,,Timeout #1 by Denver Broncos,,,13.0,2023,184
+4.0,2:00,4.0,1.0,HOU 22,17.0,22.0,Javonte Williams right tackle for 1 yard (tackle by Desmond King),2.14,4.17,13.0,2023,184
+4.0,1:18,1.0,10.0,HOU 21,17.0,22.0,Russell Wilson pass complete short middle to Javonte Williams for 4 yards (tackle by Jake Hansen and Blake Cashman),4.17,4.2,13.0,2023,184
+4.0,0:39,2.0,6.0,HOU 17,17.0,22.0,Russell Wilson pass complete short right to Jerry Jeudy for 4 yards (tackle by Desmond King),4.2,4.24,13.0,2023,184
+4.0,0:35,3.0,2.0,HOU 13,17.0,22.0,Russell Wilson pass incomplete short right,4.24,2.69,13.0,2023,184
+4.0,0:30,,,,,,Timeout #2 by Denver Broncos,,,13.0,2023,184
+4.0,0:30,,,,,,Timeout #3 by Houston Texans,,,13.0,2023,184
+4.0,0:30,4.0,2.0,HOU 13,17.0,22.0,Russell Wilson scrambles up the middle for 5 yards (tackle by Maliek Collins),2.69,5.37,13.0,2023,184
+4.0,0:23,,,,,,Timeout #3 by Denver Broncos,,,13.0,2023,184
+4.0,0:23,1.0,8.0,HOU 8,17.0,22.0,Russell Wilson pass incomplete short middle intended for Adam Trautman,5.37,4.57,13.0,2023,184
+4.0,0:20,2.0,8.0,HOU 8,17.0,22.0,Russell Wilson pass incomplete short middle intended for Courtland Sutton,4.57,3.58,13.0,2023,184
+4.0,0:16,3.0,8.0,HOU 8,17.0,22.0,Russell Wilson pass short left intended for Lucas Krull is intercepted by Jimmie Ward in end zone and returned for no gain,3.58,-0.28,13.0,2023,184
+4.0,0:09,1.0,10.0,HOU 20,17.0,22.0,C.J. Stroud kneels for -1 yards,0.28,-0.46,13.0,2023,184

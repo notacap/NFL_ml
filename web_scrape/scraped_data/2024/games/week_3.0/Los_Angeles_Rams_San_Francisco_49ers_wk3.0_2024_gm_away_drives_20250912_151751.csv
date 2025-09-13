@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,SFO 30,8,3:48,70,Touchdown,0,49ers,3.0,2024,45
+2,1,9:40,SFO 23,13,7:53,77,Touchdown,0,49ers,3.0,2024,45
+3,2,11:51,SFO 19,5,2:56,21,Punt,0,49ers,3.0,2024,45
+4,2,1:11,SFO 30,4,0:44,26,Fumble,0,49ers,3.0,2024,45
+5,3,13:28,SFO 9,11,6:27,91,Touchdown,0,49ers,3.0,2024,45
+6,3,3:53,SFO 30,13,6:56,62,Field Goal,0,49ers,3.0,2024,45
+7,4,6:15,SFO 30,7,3:32,33,Missed FG,0,49ers,3.0,2024,45
+8,4,1:51,SFO 30,5,1:09,15,Punt,0,49ers,3.0,2024,45
+9,4,0:02,SFO 30,1,0:02,34,End of Game,0,49ers,3.0,2024,45

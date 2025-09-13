@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,JAX 20,5,3:17,15,Punt,1,Jaguars,2.0,2024,19
+2,1,2:29,JAX 30,3,1:02,5,Punt,1,Jaguars,2.0,2024,19
+3,2,9:52,JAX 30,11,5:08,66,Field Goal,1,Jaguars,2.0,2024,19
+4,2,0:27,JAX 30,1,0:27,0,End of Half,1,Jaguars,2.0,2024,19
+5,3,14:16,JAX 20,3,1:40,-7,Punt,1,Jaguars,2.0,2024,19
+6,3,10:20,JAX 30,11,4:32,45,Missed FG,1,Jaguars,2.0,2024,19
+7,3,2:29,JAX 28,3,1:18,72,Touchdown,1,Jaguars,2.0,2024,19
+8,4,14:14,JAX 10,13,6:42,83,Field Goal,1,Jaguars,2.0,2024,19
+9,4,1:48,JAX 2,1,0:04,-2,Safety,1,Jaguars,2.0,2024,19
+10,4,1:27,JAX 10,7,1:27,57,End of Game,1,Jaguars,2.0,2024,19

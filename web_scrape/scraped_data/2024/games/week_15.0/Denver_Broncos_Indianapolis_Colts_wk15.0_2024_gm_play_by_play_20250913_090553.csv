@@ -1,0 +1,180 @@
+Quarter,Time,Down,ToGo,Location,IND,DEN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Broncos won the coin toss and deferred, Colts to receive the opening kickoff.",,,15.0,2024,218
+1.0,15:00,,,DEN 35,0.0,0.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,218
+1.0,15:00,1.0,10.0,IND 30,0.0,0.0,Jonathan Taylor right guard for no gain (tackle by Zach Allen),0.94,0.39,15.0,2024,218
+1.0,14:26,2.0,10.0,IND 30,0.0,0.0,Anthony Richardson pass complete short left to Michael Pittman for no gain (tackle by Ja'Quan McMillian and Kris Abrams-Draine),0.39,-0.3,15.0,2024,218
+1.0,13:45,3.0,10.0,IND 30,0.0,0.0,Anthony Richardson pass complete deep middle to Josh Downs for 22 yards (tackle by Brandon Jones),-0.3,2.39,15.0,2024,218
+1.0,13:20,1.0,10.0,DEN 48,0.0,0.0,Anthony Richardson scrambles left end for 5 yards (tackle by Jonathon Cooper),2.39,2.52,15.0,2024,218
+1.0,12:40,2.0,5.0,DEN 43,0.0,0.0,Jonathan Taylor right guard for 5 yards (tackle by Malcolm Roach and Justin Strnad),2.52,3.05,15.0,2024,218
+1.0,11:58,1.0,10.0,DEN 38,0.0,0.0,Anthony Richardson pass incomplete short right intended for Alec Pierce (defended by Brandon Jones),3.05,2.51,15.0,2024,218
+1.0,11:53,2.0,10.0,DEN 38,0.0,0.0,Anthony Richardson pass incomplete short right intended for Josh Downs,2.51,1.82,15.0,2024,218
+1.0,11:50,3.0,10.0,DEN 38,0.0,0.0,Jonathan Taylor up the middle for 15 yards (tackle by Brandon Jones),1.82,4.04,15.0,2024,218
+1.0,11:04,1.0,10.0,DEN 23,0.0,0.0,Anthony Richardson pass incomplete short right intended for Jonathan Taylor,4.04,3.5,15.0,2024,218
+1.0,10:58,2.0,10.0,DEN 23,6.0,0.0,"Anthony Richardson right end for 23 yards, touchdown",3.5,7.0,15.0,2024,218
+1.0,10:52,,,DEN 15,7.0,0.0,Matt Gay kicks extra point good,0.0,0.0,15.0,2024,218
+1.0,10:52,,,IND 35,7.0,0.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,218
+1.0,10:52,1.0,10.0,DEN 30,7.0,0.0,Jaleel McLaughlin right tackle for 3 yards (tackle by Nick Cross),0.94,0.8,15.0,2024,218
+1.0,10:16,2.0,7.0,DEN 33,7.0,0.0,Bo Nix pass complete short right to Marvin Mims for 3 yards (tackle by Grant Stuard),0.8,0.5,15.0,2024,218
+1.0,9:42,3.0,4.0,DEN 36,7.0,0.0,Bo Nix pass complete short left to Courtland Sutton for 5 yards (tackle by Jaylon Jones),0.5,1.66,15.0,2024,218
+1.0,9:07,1.0,10.0,DEN 41,7.0,0.0,Bo Nix pass complete short left to Courtland Sutton for 7 yards (tackle by Jaylon Jones),1.66,2.07,15.0,2024,218
+1.0,8:19,2.0,3.0,DEN 48,7.0,0.0,Jaleel McLaughlin right end for -2 yards (tackle by Zaire Franklin),2.07,1.09,15.0,2024,218
+1.0,7:37,3.0,5.0,DEN 46,7.0,0.0,Bo Nix scrambles left tackle for 16 yards (tackle by Julian Blackmon),1.09,3.05,15.0,2024,218
+1.0,7:11,1.0,10.0,IND 38,7.0,0.0,Bo Nix pass short middle intended for Lil'Jordan Humphrey is intercepted by Zaire Franklin at IND-26 and returned for 4 yards (tackle by Lil'Jordan Humphrey),3.05,-0.94,15.0,2024,218
+1.0,7:06,1.0,10.0,IND 30,7.0,0.0,Jonathan Taylor left tackle for 3 yards (tackle by John Franklin-Myers),0.94,0.8,15.0,2024,218
+1.0,6:29,2.0,7.0,IND 33,7.0,0.0,Jonathan Taylor right guard for 2 yards (tackle by D.J. Jones),0.8,0.37,15.0,2024,218
+1.0,5:47,3.0,5.0,IND 35,7.0,0.0,Anthony Richardson pass complete short middle to Michael Pittman for 17 yards (tackle by Brandon Jones),0.37,2.39,15.0,2024,218
+1.0,5:20,1.0,10.0,DEN 48,7.0,0.0,Anthony Richardson pass incomplete deep left intended for Josh Downs,2.39,1.85,15.0,2024,218
+1.0,5:15,2.0,10.0,DEN 48,7.0,0.0,Anthony Richardson scrambles right end for 7 yards (tackle by Brandon Jones),1.85,2.08,15.0,2024,218
+1.0,4:34,3.0,3.0,DEN 41,7.0,0.0,Jonathan Taylor up the middle for 2 yards (tackle by Zach Allen and Malcolm Roach),2.08,0.66,15.0,2024,218
+1.0,3:51,4.0,1.0,DEN 39,7.0,0.0,Jonathan Taylor right end for 5 yards (tackle by Dondrea Tillman),0.66,3.31,15.0,2024,218
+1.0,3:08,1.0,10.0,DEN 34,7.0,0.0,Jonathan Taylor right tackle for -1 yards (tackle by Jonah Elliss),3.31,2.64,15.0,2024,218
+1.0,2:31,2.0,11.0,DEN 35,7.0,0.0,Jonathan Taylor left guard for 2 yards (tackle by Malcolm Roach and Justin Strnad),2.64,2.21,15.0,2024,218
+1.0,1:51,3.0,9.0,DEN 33,7.0,0.0,Jonathan Taylor right end for 10 yards (tackle by Ja'Quan McMillian and Cody Barton),2.21,4.04,15.0,2024,218
+1.0,1:16,1.0,10.0,DEN 23,7.0,0.0,Jonathan Taylor up the middle for 2 yards (tackle by Nik Bonitto),4.04,3.77,15.0,2024,218
+1.0,0:39,2.0,8.0,DEN 21,7.0,0.0,Trey Sermon left tackle for 3 yards (tackle by Malcolm Roach and Nik Bonitto),3.77,3.49,15.0,2024,218
+2.0,15:00,3.0,5.0,DEN 18,7.0,0.0,Anthony Richardson pass incomplete short middle intended for Kylen Granson (defended by Brandon Jones),3.49,2.3,15.0,2024,218
+2.0,14:53,4.0,5.0,DEN 18,10.0,0.0,Matt Gay 37 yard field goal good,2.3,3.0,15.0,2024,218
+2.0,14:49,,,IND 35,10.0,0.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,218
+2.0,14:49,1.0,10.0,DEN 30,10.0,0.0,Jaleel McLaughlin up the middle for 6 yards (tackle by Zaire Franklin),0.94,1.2,15.0,2024,218
+2.0,14:18,2.0,4.0,DEN 36,10.0,0.0,Bo Nix scrambles left end for 4 yards (tackle by E.J. Speed),1.2,1.6,15.0,2024,218
+2.0,13:32,1.0,10.0,DEN 40,10.0,0.0,Javonte Williams right tackle for 4 yards (tackle by DeForest Buckner),1.6,1.59,15.0,2024,218
+2.0,12:57,2.0,6.0,DEN 44,10.0,0.0,Bo Nix pass complete short left to Marvin Mims for no gain (tackle by Grover Stewart and DeForest Buckner),1.59,0.89,15.0,2024,218
+2.0,12:23,3.0,6.0,DEN 44,10.0,0.0,Bo Nix sacked by DeForest Buckner for -9 yards,0.89,-1.04,15.0,2024,218
+2.0,11:51,4.0,15.0,DEN 35,10.0,0.0,"Riley Dixon punts 57 yards, returned by Anthony Gould for no gain (tackle by Jonah Elliss). Penalty on Chris Lammons: Offensive Holding, 4 yards (accepted) . Penalty on Tyler Goodson: Illegal Block Above the Waist, 10 yards (declined)",-1.04,0.38,15.0,2024,218
+2.0,11:39,1.0,10.0,IND 4,10.0,0.0,Anthony Richardson pass incomplete deep left,-0.38,-0.78,15.0,2024,218
+2.0,11:32,2.0,10.0,IND 4,10.0,0.0,Jonathan Taylor right guard for 4 yards (tackle by Malcolm Roach),-0.78,-0.95,15.0,2024,218
+2.0,10:51,3.0,6.0,IND 8,10.0,0.0,Anthony Richardson pass complete short right to Anthony Richardson for -1 yards (tackle by Justin Strnad),-0.95,-2.49,15.0,2024,218
+2.0,10:07,4.0,7.0,IND 7,10.0,0.0,Rigoberto Sanchez punts 47 yards out of bounds,-2.49,-1.99,15.0,2024,218
+2.0,10:00,1.0,10.0,DEN 46,10.0,0.0,Bo Nix pass complete short middle to Javonte Williams for 9 yards (tackle by E.J. Speed and Zaire Franklin),1.99,2.67,15.0,2024,218
+2.0,9:25,2.0,1.0,IND 45,10.0,0.0,Javonte Williams right tackle for no gain (tackle by Grant Stuard),2.67,1.95,15.0,2024,218
+2.0,8:50,3.0,1.0,IND 45,10.0,0.0,Bo Nix up the middle for 2 yards (tackle by Zaire Franklin),1.95,2.72,15.0,2024,218
+2.0,8:13,1.0,10.0,IND 43,10.0,0.0,Bo Nix pass incomplete short right,2.72,2.18,15.0,2024,218
+2.0,8:05,2.0,10.0,IND 43,10.0,0.0,Jaleel McLaughlin up the middle for 2 yards (tackle by E.J. Speed),2.18,1.75,15.0,2024,218
+2.0,7:24,3.0,8.0,IND 41,10.0,0.0,Bo Nix pass complete short left to Marvin Mims for 11 yards (tackle by E.J. Speed),1.75,3.58,15.0,2024,218
+2.0,6:40,1.0,10.0,IND 30,10.0,0.0,Bo Nix pass complete short left to Adam Trautman for 7 yards (tackle by Nick Cross and E.J. Speed),3.58,3.98,15.0,2024,218
+2.0,6:14,2.0,3.0,IND 23,10.0,0.0,"Bo Nix pass incomplete deep left intended for Courtland Sutton. Penalty on Jaylon Jones: Defensive Pass Interference, 10 yards (accepted) (no play)",3.98,4.71,15.0,2024,218
+2.0,6:10,1.0,10.0,IND 13,10.0,0.0,Jaleel McLaughlin right end for no gain (tackle by Zaire Franklin),4.71,4.05,15.0,2024,218
+2.0,5:33,2.0,10.0,IND 13,10.0,6.0,"Bo Nix pass complete short middle to Adam Trautman for 13 yards, touchdown",4.05,7.0,15.0,2024,218
+2.0,5:29,,,IND 15,10.0,7.0,Wil Lutz kicks extra point good,0.0,0.0,15.0,2024,218
+2.0,5:29,,,DEN 35,10.0,7.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,218
+2.0,5:29,1.0,10.0,IND 30,10.0,7.0,Jonathan Taylor left guard for no gain (tackle by John Franklin-Myers and Cody Barton),0.94,0.39,15.0,2024,218
+2.0,4:51,2.0,10.0,IND 30,10.0,7.0,Anthony Richardson left guard for 12 yards (tackle by Nik Bonitto),0.39,1.73,15.0,2024,218
+2.0,4:12,1.0,10.0,IND 42,10.0,7.0,Anthony Richardson pass incomplete short left intended for Alec Pierce,1.73,1.19,15.0,2024,218
+2.0,4:03,2.0,10.0,IND 42,10.0,7.0,"Anthony Richardson pass deep right intended for Alec Pierce is intercepted by Brandon Jones at DEN-38 and returned for no gain (tackle by Alec Pierce). Penalty on Bernhard Raimann: Ineligible Downfield Pass, 5 yards (declined)",1.19,-1.47,15.0,2024,218
+2.0,3:57,1.0,10.0,DEN 38,10.0,7.0,Bo Nix pass complete short left to Jaleel McLaughlin for 5 yards (tackle by Grover Stewart),1.47,1.6,15.0,2024,218
+2.0,3:18,2.0,5.0,DEN 43,10.0,7.0,Bo Nix pass incomplete short left intended for Courtland Sutton,1.6,0.89,15.0,2024,218
+2.0,3:15,3.0,5.0,DEN 43,10.0,7.0,Bo Nix pass incomplete short right intended for Javonte Williams,0.89,-0.52,15.0,2024,218
+2.0,3:09,4.0,5.0,DEN 43,10.0,7.0,"Riley Dixon punts 43 yards, fair catch by Anthony Gould at IND-14",-0.52,0.28,15.0,2024,218
+2.0,3:02,1.0,10.0,IND 14,10.0,7.0,Jonathan Taylor left tackle for 4 yards (tackle by Ja'Quan McMillian and Dondrea Tillman),-0.28,-0.21,15.0,2024,218
+2.0,2:56,,,,,,Timeout #1 by Denver Broncos,,,15.0,2024,218
+2.0,2:56,2.0,6.0,IND 18,10.0,7.0,Anthony Richardson pass incomplete short right intended for Josh Downs,-0.21,-0.92,15.0,2024,218
+2.0,2:52,3.0,6.0,IND 18,10.0,7.0,Anthony Richardson pass incomplete short right intended for Michael Pittman,-0.92,-2.24,15.0,2024,218
+2.0,2:48,4.0,6.0,IND 18,10.0,7.0,"Rigoberto Sanchez punts 54 yards, fair catch by Marvin Mims at DEN-28",-2.24,-0.81,15.0,2024,218
+2.0,2:40,1.0,10.0,DEN 28,10.0,7.0,Javonte Williams right guard for 2 yards (tackle by E.J. Speed),0.81,0.53,15.0,2024,218
+2.0,2:04,2.0,8.0,DEN 30,10.0,7.0,Bo Nix pass complete short left to Jaleel McLaughlin for 6 yards (tackle by Zaire Franklin),0.53,0.63,15.0,2024,218
+2.0,1:58,3.0,2.0,DEN 36,10.0,7.0,"Penalty on Mike McGlinchey: False Start, 5 yards (accepted) (no play)",0.63,-0.03,15.0,2024,218
+2.0,1:58,3.0,7.0,DEN 31,10.0,7.0,Bo Nix pass complete short right to Lucas Krull for no gain (tackle by Samuel Womack),-0.03,-1.31,15.0,2024,218
+2.0,1:52,,,,,,Timeout #1 by Indianapolis Colts,,,15.0,2024,218
+2.0,1:52,4.0,7.0,DEN 31,10.0,7.0,"Riley Dixon punts 52 yards, returned by Anthony Gould for 36 yards (tackle by Mitchell Fraboni)",-1.31,-2.46,15.0,2024,218
+2.0,1:38,1.0,10.0,DEN 47,10.0,7.0,Anthony Richardson right tackle for 2 yards (tackle by Cody Barton),2.46,2.18,15.0,2024,218
+2.0,0:59,2.0,8.0,DEN 45,10.0,7.0,Anthony Richardson pass complete short right to Kylen Granson for 18 yards (tackle by Cody Barton),2.18,3.78,15.0,2024,218
+2.0,0:28,1.0,10.0,DEN 27,10.0,7.0,Anthony Richardson pass incomplete deep right,3.78,3.23,15.0,2024,218
+2.0,0:22,2.0,10.0,DEN 27,10.0,7.0,Anthony Richardson sacked by and Nik Bonitto for -5 yards and John Franklin-Myers for -5 yards,3.23,1.88,15.0,2024,218
+2.0,0:17,,,,,,Timeout #2 by Indianapolis Colts,,,15.0,2024,218
+2.0,0:17,3.0,15.0,DEN 32,10.0,7.0,Anthony Richardson pass incomplete deep left intended for Alec Pierce (defended by Kris Abrams-Draine),1.88,1.24,15.0,2024,218
+2.0,0:10,,,,,,Timeout #3 by Indianapolis Colts,,,15.0,2024,218
+2.0,0:10,4.0,15.0,DEN 32,13.0,7.0,Matt Gay 49 yard field goal good,1.24,3.0,15.0,2024,218
+2.0,0:06,,,IND 35,13.0,7.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,218
+2.0,0:06,1.0,10.0,DEN 30,13.0,7.0,Bo Nix kneels for -1 yards,0.94,0.26,15.0,2024,218
+3.0,15:00,,,IND 35,13.0,7.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,218
+3.0,15:00,1.0,10.0,DEN 30,13.0,7.0,"Bo Nix pass complete short right to Adam Trautman for no gain (tackle by Nick Cross and Grover Stewart). Penalty on Dayo Odeyingbo: Defensive Holding, 5 yards (accepted) (no play)",0.94,1.27,15.0,2024,218
+3.0,14:35,1.0,10.0,DEN 35,13.0,7.0,Bo Nix pass complete short right to Troy Franklin for 6 yards (tackle by Julian Blackmon),1.27,1.53,15.0,2024,218
+3.0,14:02,2.0,4.0,DEN 41,13.0,7.0,Bo Nix pass complete short right to Troy Franklin for 3 yards (tackle by Kenny Moore),1.53,1.22,15.0,2024,218
+3.0,13:18,3.0,1.0,DEN 44,13.0,7.0,Bo Nix pass deep right intended for Courtland Sutton is intercepted by Samuel Womack at IND-38 and returned for no gain (tackle by Courtland Sutton),1.22,-1.47,15.0,2024,218
+3.0,13:12,1.0,10.0,IND 38,13.0,7.0,"Anthony Richardson pass complete short right to Josh Downs for 6 yards (tackle by Kris Abrams-Draine). Penalty on Brandon Jones: Personal Foul / Defense, 15 yards (accepted)",1.47,2.85,15.0,2024,218
+3.0,12:43,1.0,10.0,DEN 41,13.0,7.0,"Jonathan Taylor right tackle for no gain, touchdown Replay Assistant challenged the runner broke the plane ruling, and the original play was overturned. Jonathan Taylor right tackle for 40 yards. Jonathan Taylor fumbles out of bounds",2.85,-0.28,15.0,2024,218
+3.0,12:36,1.0,10.0,DEN 20,13.0,7.0,Jaleel McLaughlin right tackle for 12 yards (tackle by Jaylon Jones and Julian Blackmon),0.28,1.07,15.0,2024,218
+3.0,11:56,1.0,10.0,DEN 32,13.0,7.0,Javonte Williams up the middle for 4 yards (tackle by Zaire Franklin and E.J. Speed),1.07,1.07,15.0,2024,218
+3.0,11:14,2.0,6.0,DEN 36,13.0,7.0,Bo Nix scrambles right guard for 2 yards (tackle by Nick Cross),1.07,0.63,15.0,2024,218
+3.0,10:37,3.0,4.0,DEN 38,13.0,7.0,Bo Nix pass incomplete short left intended for Devaughn Vele,0.63,-0.85,15.0,2024,218
+3.0,10:29,4.0,4.0,DEN 38,13.0,7.0,Riley Dixon punts 44 yards out of bounds,-0.85,-0.04,15.0,2024,218
+3.0,10:23,1.0,10.0,IND 18,13.0,7.0,Jonathan Taylor right guard for 3 yards (tackle by Cody Barton and Justin Strnad),0.04,0.01,15.0,2024,218
+3.0,9:47,2.0,7.0,IND 21,13.0,7.0,"Jonathan Taylor right guard for no gain (tackle by Patrick Surtain and Jonathon Cooper). Penalty on Danny Pinter: Offensive Holding, 10 yards (accepted) (no play)",0.01,-1.29,15.0,2024,218
+3.0,9:24,2.0,17.0,IND 11,13.0,7.0,Anthony Richardson scrambles right end for 2 yards (tackle by Jonathon Cooper),-1.29,-1.97,15.0,2024,218
+3.0,8:36,3.0,15.0,IND 13,13.0,7.0,"Jonathan Taylor right guard for no gain (tackle by Justin Strnad). Penalty on Mark Glowinski: Offensive Holding, 10 yards (declined)",-1.97,-2.49,15.0,2024,218
+3.0,8:24,4.0,15.0,IND 13,13.0,7.0,"Rigoberto Sanchez punts 53 yards, returned by Marvin Mims for 27 yards (tackle by Nick Cross)",-2.49,-2.98,15.0,2024,218
+3.0,8:11,1.0,10.0,IND 39,13.0,7.0,Bo Nix pass incomplete short left intended for Courtland Sutton (defended by Jaylon Jones),2.98,2.44,15.0,2024,218
+3.0,8:06,2.0,10.0,IND 39,13.0,7.0,Marvin Mims right end for no gain (tackle by E.J. Speed),2.44,1.75,15.0,2024,218
+3.0,7:27,3.0,10.0,IND 39,13.0,7.0,Bo Nix pass deep right intended for Courtland Sutton is intercepted by Nick Cross at IND-22 and returned for 5 yards,1.75,-0.74,15.0,2024,218
+3.0,7:22,1.0,10.0,IND 27,13.0,7.0,"Anthony Richardson pass complete short right to Michael Pittman for 4 yards. Michael Pittman fumbles (forced by P.J. Locke), recovered by D.J. Jones at IND-31",0.74,-3.51,15.0,2024,218
+3.0,7:14,1.0,10.0,IND 31,13.0,7.0,Javonte Williams left guard for 3 yards (tackle by E.J. Speed and Laiatu Latu),3.51,3.37,15.0,2024,218
+3.0,6:33,2.0,7.0,IND 28,13.0,7.0,Jaleel McLaughlin right end for no gain (tackle by Kenny Moore),3.37,2.68,15.0,2024,218
+3.0,6:03,3.0,7.0,IND 28,13.0,7.0,Bo Nix pass complete short right to Jaleel McLaughlin for 2 yards (tackle by Samuel Womack),2.68,1.79,15.0,2024,218
+3.0,5:22,4.0,5.0,IND 26,13.0,10.0,Wil Lutz 44 yard field goal good,1.79,3.0,15.0,2024,218
+3.0,5:18,,,DEN 35,13.0,10.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,218
+3.0,5:18,1.0,10.0,IND 30,13.0,10.0,"Jonathan Taylor right tackle for 1 yard (tackle by Brandon Jones). Penalty on Danny Pinter: Offensive Holding, 10 yards (accepted)",0.94,0.34,15.0,2024,218
+3.0,4:50,1.0,19.0,IND 21,13.0,10.0,Anthony Richardson pass complete short left to Jonathan Taylor for 4 yards (tackle by Brandon Jones),0.34,-0.28,15.0,2024,218
+3.0,4:04,2.0,15.0,IND 25,13.0,10.0,Anthony Richardson pass incomplete short right intended for Michael Pittman (defended by Patrick Surtain),-0.28,-0.96,15.0,2024,218
+3.0,4:02,3.0,15.0,IND 25,13.0,10.0,Anthony Richardson pass incomplete short left intended for Adonai Mitchell,-0.96,-1.7,15.0,2024,218
+3.0,3:57,4.0,15.0,IND 25,13.0,10.0,"Rigoberto Sanchez punts 51 yards, returned by Marvin Mims for 9 yards (tackle by Cameron McGrone). Penalty on Cameron McGrone: Unnecessary Roughness / Defense, 15 yards (accepted)",-1.7,-2.13,15.0,2024,218
+3.0,3:47,1.0,10.0,DEN 48,13.0,10.0,"Penalty on Luke Wattenberg: False Start, 5 yards (accepted) (no play)",2.13,1.8,15.0,2024,218
+3.0,3:47,1.0,15.0,DEN 43,13.0,10.0,Audric Estime up the middle for 6 yards (tackle by Raekwon Davis and Zaire Franklin),1.8,1.72,15.0,2024,218
+3.0,3:11,2.0,9.0,DEN 49,13.0,10.0,Bo Nix pass complete short middle to Lucas Krull for 8 yards (tackle by E.J. Speed and Julian Blackmon),1.72,2.08,15.0,2024,218
+3.0,2:43,3.0,1.0,IND 43,13.0,10.0,Bo Nix right guard for 2 yards (tackle by E.J. Speed),2.08,2.85,15.0,2024,218
+3.0,2:05,1.0,10.0,IND 41,13.0,10.0,Bo Nix pass complete short left to Javonte Williams for -1 yards (tackle by Zaire Franklin),2.85,2.17,15.0,2024,218
+3.0,1:25,2.0,11.0,IND 42,13.0,10.0,Bo Nix pass incomplete deep right intended for Courtland Sutton,2.17,1.49,15.0,2024,218
+3.0,1:16,3.0,11.0,IND 42,13.0,10.0,Bo Nix pass incomplete short left intended for Courtland Sutton,1.49,0.46,15.0,2024,218
+3.0,1:13,4.0,11.0,IND 42,13.0,10.0,"Riley Dixon punts 42 yards, touchback.",0.46,-0.28,15.0,2024,218
+3.0,1:04,1.0,10.0,IND 20,13.0,10.0,Jonathan Taylor right guard for 5 yards (tackle by Brandon Jones and Justin Strnad),0.28,0.41,15.0,2024,218
+3.0,0:28,2.0,5.0,IND 25,13.0,10.0,Jonathan Taylor left guard for 2 yards (tackle by Jordan Jackson and D.J. Jones),0.41,-0.03,15.0,2024,218
+4.0,15:00,3.0,3.0,IND 27,13.0,10.0,Anthony Richardson up the middle for -5 yards (tackle by Jonathon Cooper),-0.03,-1.9,15.0,2024,218
+4.0,14:20,4.0,8.0,IND 22,13.0,10.0,"Rigoberto Sanchez punts 54 yards, returned by Marvin Mims for 61 yards (tackle by Cameron McGrone)",-1.9,-4.58,15.0,2024,218
+4.0,14:01,1.0,10.0,IND 15,13.0,10.0,Bo Nix pass incomplete short right intended for Troy Franklin,4.58,3.95,15.0,2024,218
+4.0,13:58,2.0,10.0,IND 15,13.0,16.0,"Bo Nix pass complete short left to Nate Adkins for 15 yards, touchdown",3.95,7.0,15.0,2024,218
+4.0,13:51,,,IND 15,13.0,17.0,Wil Lutz kicks extra point good,0.0,0.0,15.0,2024,218
+4.0,13:51,,,DEN 35,13.0,17.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,218
+4.0,13:51,1.0,10.0,IND 30,13.0,17.0,Anthony Richardson pass complete short right to Kylen Granson for 14 yards (tackle by Cody Barton),0.94,1.86,15.0,2024,218
+4.0,13:16,1.0,10.0,IND 44,13.0,17.0,"Anthony Richardson pass incomplete short middle intended for Andrew Ogletree. Penalty on Cody Barton: Defensive Pass Interference, 13 yards (accepted) (no play)",1.86,2.72,15.0,2024,218
+4.0,13:12,1.0,10.0,DEN 43,13.0,17.0,Jonathan Taylor up the middle for 3 yards (tackle by Cody Barton and D.J. Jones),2.72,2.58,15.0,2024,218
+4.0,12:39,2.0,7.0,DEN 40,13.0,23.0,"Adonai Mitchell for -10 yards. Adonai Mitchell fumbles (forced by Nik Bonitto), recovered by Nik Bonitto at 50 and returned for 50 yards, touchdown. Penalty on Nik Bonitto: Unsportsmanlike Conduct / Defense, 15 yards (accepted)",2.58,-7.0,15.0,2024,218
+4.0,12:29,2.0,18.0,IND 18,13.0,24.0,Wil Lutz kicks extra point good,0.0,0.0,15.0,2024,218
+4.0,12:29,,,DEN 35,13.0,24.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,218
+4.0,12:29,1.0,10.0,IND 30,13.0,24.0,Anthony Richardson pass complete short middle to Michael Pittman for 16 yards (tackle by Cody Barton),0.94,1.99,15.0,2024,218
+4.0,11:48,1.0,10.0,IND 46,13.0,24.0,"Anthony Richardson pass incomplete deep right intended for Adonai Mitchell. Penalty on Patrick Surtain: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",1.99,2.32,15.0,2024,218
+4.0,11:41,1.0,10.0,DEN 49,13.0,24.0,Jonathan Taylor right tackle for no gain (tackle by Justin Strnad and Malcolm Roach),2.32,1.78,15.0,2024,218
+4.0,11:03,2.0,10.0,DEN 49,13.0,24.0,Anthony Richardson pass incomplete short left intended for Adonai Mitchell (defended by Ja'Quan McMillian),1.78,1.09,15.0,2024,218
+4.0,10:58,3.0,10.0,DEN 49,13.0,24.0,Anthony Richardson pass complete short left to Josh Downs for 4 yards (tackle by Brandon Jones),1.09,0.27,15.0,2024,218
+4.0,10:14,4.0,6.0,DEN 45,13.0,24.0,Anthony Richardson pass incomplete short right intended for Josh Downs,0.27,-1.93,15.0,2024,218
+4.0,10:10,1.0,10.0,DEN 45,13.0,24.0,Audric Estime up the middle for 1 yard (tackle by E.J. Speed and Grover Stewart),1.93,1.52,15.0,2024,218
+4.0,9:34,2.0,9.0,DEN 46,13.0,24.0,Bo Nix pass complete short left to Audric Estime for 5 yards (tackle by Nick Cross),1.52,1.49,15.0,2024,218
+4.0,8:51,3.0,4.0,IND 49,13.0,24.0,Bo Nix pass incomplete short middle intended for Troy Franklin (defended by Grover Stewart),1.49,0.0,15.0,2024,218
+4.0,8:47,4.0,4.0,IND 49,13.0,24.0,"Riley Dixon punts 49 yards, touchback.",0.0,-0.28,15.0,2024,218
+4.0,8:39,1.0,10.0,IND 20,13.0,24.0,Anthony Richardson pass complete short left to Kylen Granson for 15 yards (tackle by P.J. Locke),0.28,1.27,15.0,2024,218
+4.0,8:11,1.0,10.0,IND 35,13.0,24.0,"Anthony Richardson scrambles up the middle for no gain (tackle by Cody Barton). Penalty on Bernhard Raimann: Offensive Holding, 10 yards (accepted) (no play)",1.27,0.61,15.0,2024,218
+4.0,7:46,1.0,20.0,IND 25,13.0,24.0,"Anthony Richardson pass short left intended for Will Mallory is intercepted by Patrick Surtain at IND-39 and returned for 4 yards (tackle by Josh Downs). Penalty on Bernhard Raimann: Offensive Holding, 10 yards (declined)",0.61,-3.25,15.0,2024,218
+4.0,7:39,1.0,10.0,IND 35,13.0,24.0,Audric Estime up the middle for no gain (tackle by Grover Stewart),3.25,2.7,15.0,2024,218
+4.0,7:02,2.0,10.0,IND 35,13.0,24.0,Bo Nix pass complete short left to Marvin Mims for 6 yards (tackle by Jaylon Jones and Laiatu Latu),2.7,2.81,15.0,2024,218
+4.0,6:17,3.0,4.0,IND 29,13.0,24.0,Bo Nix pass incomplete deep right intended for Troy Franklin (defended by Samuel Womack),2.81,1.56,15.0,2024,218
+4.0,6:11,4.0,4.0,IND 29,13.0,24.0,"Penalty on Chris Lammons: Defensive Offside, 5 yards (accepted) (no play)",1.56,3.97,15.0,2024,218
+4.0,6:07,1.0,10.0,IND 24,13.0,24.0,Audric Estime up the middle for 2 yards (tackle by Grant Stuard),3.97,3.7,15.0,2024,218
+4.0,6:00,,,,,,Timeout #1 by Indianapolis Colts,,,15.0,2024,218
+4.0,6:00,2.0,8.0,IND 22,13.0,24.0,Javonte Williams left guard for 2 yards (tackle by Dayo Odeyingbo),3.7,3.27,15.0,2024,218
+4.0,5:54,,,,,,Timeout #2 by Indianapolis Colts,,,15.0,2024,218
+4.0,5:54,3.0,6.0,IND 20,13.0,30.0,"Bo Nix pass complete deep right to Courtland Sutton for 20 yards, touchdown",3.27,7.0,15.0,2024,218
+4.0,5:48,,,IND 15,13.0,31.0,Wil Lutz kicks extra point good,0.0,0.0,15.0,2024,218
+4.0,5:48,,,DEN 35,13.0,31.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.94,15.0,2024,218
+4.0,5:48,1.0,10.0,IND 30,13.0,31.0,Anthony Richardson pass complete short middle to Michael Pittman for 11 yards (tackle by Kris Abrams-Draine),0.94,1.66,15.0,2024,218
+4.0,5:13,1.0,10.0,IND 41,13.0,31.0,Anthony Richardson pass incomplete short left intended for Josh Downs,1.66,1.12,15.0,2024,218
+4.0,5:09,2.0,10.0,IND 41,13.0,31.0,Anthony Richardson pass complete deep middle to Anthony Gould for 23 yards (tackle by Brandon Jones),1.12,3.18,15.0,2024,218
+4.0,4:41,1.0,10.0,DEN 36,13.0,31.0,Anthony Richardson pass complete short middle to Trey Sermon for 5 yards (tackle by Ja'Quan McMillian and Justin Strnad),3.18,3.31,15.0,2024,218
+4.0,4:15,2.0,5.0,DEN 31,13.0,31.0,Anthony Richardson sacked by Dondrea Tillman for -6 yards,3.31,1.82,15.0,2024,218
+4.0,3:31,3.0,11.0,DEN 37,13.0,31.0,Anthony Richardson pass complete short middle to Michael Pittman for 10 yards (tackle by Ja'Quan McMillian and Justin Strnad),1.82,1.82,15.0,2024,218
+4.0,2:51,4.0,1.0,DEN 27,13.0,31.0,Tyler Goodson up the middle for 3 yards (tackle by Jonah Elliss),1.82,3.97,15.0,2024,218
+4.0,2:20,1.0,10.0,DEN 24,13.0,31.0,Anthony Richardson pass incomplete deep right intended for Adonai Mitchell,3.97,3.43,15.0,2024,218
+4.0,2:12,2.0,10.0,DEN 24,13.0,31.0,Anthony Richardson pass complete short left to Trey Sermon for 4 yards (tackle by Patrick Surtain),3.43,3.27,15.0,2024,218
+4.0,2:06,3.0,6.0,DEN 20,13.0,31.0,Anthony Richardson pass incomplete deep right intended for Adonai Mitchell,3.27,2.15,15.0,2024,218
+4.0,2:00,,,,,,Timeout #1 by Denver Broncos,,,15.0,2024,218
+4.0,2:00,4.0,6.0,DEN 20,13.0,31.0,Anthony Richardson pass incomplete short right intended for Michael Pittman,2.15,-0.28,15.0,2024,218
+4.0,1:57,1.0,10.0,DEN 20,13.0,31.0,Audric Estime up the middle for 4 yards (tackle by Grover Stewart),0.28,0.27,15.0,2024,218
+4.0,1:14,2.0,6.0,DEN 24,13.0,31.0,Bo Nix kneels for -1 yards,0.27,-0.56,15.0,2024,218
+4.0,0:38,3.0,7.0,DEN 23,13.0,31.0,Bo Nix kneels for -1 yards,-0.56,-1.9,15.0,2024,218

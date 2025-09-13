@@ -1,0 +1,41 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Unnamed: 7_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Fumbles,Fumbles,Fumbles,Fumbles,week,year,game_id
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF,,,
+Marlon Humphrey,BAL,1,0,0,0,1,0.0,3,3,0,1,0,0,0,0,0,11.0,2024,159
+Odafe Oweh,BAL,0,0,0,0,0,2.5,5,3,2,2,4,0,0,0,0,11.0,2024,159
+Broderick Washington Jr.,BAL,0,0,0,0,0,1.0,4,2,2,1,1,0,0,0,0,11.0,2024,159
+Brandon Stephens,BAL,0,0,0,0,2,0.5,5,3,2,0,1,0,0,0,0,11.0,2024,159
+Roquan Smith,BAL,0,0,0,0,0,0.0,13,8,5,2,0,0,0,0,0,11.0,2024,159
+Ar'Darius Washington,BAL,0,0,0,0,0,0.0,12,5,7,1,0,0,0,0,0,11.0,2024,159
+Kyle Hamilton,BAL,0,0,0,0,0,0.0,10,9,1,0,0,0,0,0,0,11.0,2024,159
+Trenton Simpson,BAL,0,0,0,0,0,0.0,7,2,5,0,0,0,0,0,0,11.0,2024,159
+Malik Harrison,BAL,0,0,0,0,0,0.0,6,4,2,0,0,0,0,0,0,11.0,2024,159
+Nnamdi Madubuike,BAL,0,0,0,0,0,0.0,5,2,3,0,0,0,0,0,0,11.0,2024,159
+Tavius Robinson,BAL,0,0,0,0,0,0.0,3,1,2,0,1,0,0,0,0,11.0,2024,159
+Brent Urban,BAL,0,0,0,0,0,0.0,2,0,2,0,0,0,0,0,0,11.0,2024,159
+Travis Jones,BAL,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,11.0,2024,159
+Charlie Kolar,BAL,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,11.0,2024,159
+Kyle Van Noy,BAL,0,0,0,0,0,0.0,1,0,1,0,1,0,0,0,0,11.0,2024,159
+Tylan Wallace,BAL,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,11.0,2024,159
+Kristian Welch,BAL,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,11.0,2024,159
+Nate Wiggins,BAL,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,11.0,2024,159
+Adisa Isaac,BAL,0,0,0,0,1,0.0,0,0,0,0,0,0,0,0,0,11.0,2024,159
+Tre'Davious White,BAL,0,0,0,0,2,0.0,0,0,0,0,0,0,0,0,0,11.0,2024,159
+Payton Wilson,PIT,1,0,0,0,1,0.0,2,2,0,0,0,0,0,0,0,11.0,2024,159
+T.J. Watt,PIT,0,0,0,0,0,1.0,3,3,0,2,2,0,0,0,0,11.0,2024,159
+Dean Lowry,PIT,0,0,0,0,1,1.0,1,1,0,0,1,0,0,0,0,11.0,2024,159
+Patrick Queen,PIT,0,0,0,0,0,0.0,10,3,7,1,0,1,0,0,1,11.0,2024,159
+Minkah Fitzpatrick,PIT,0,0,0,0,0,0.0,7,4,3,0,0,0,0,0,0,11.0,2024,159
+Larry Ogunjobi,PIT,0,0,0,0,0,0.0,5,0,5,0,0,0,0,0,0,11.0,2024,159
+Beanie Bishop,PIT,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0,11.0,2024,159
+Cameron Heyward,PIT,0,0,0,0,2,0.0,4,2,2,0,1,0,0,0,0,11.0,2024,159
+Keeanu Benton,PIT,0,0,0,0,0,0.0,3,1,2,0,0,0,0,0,0,11.0,2024,159
+Elandon Roberts,PIT,0,0,0,0,0,0.0,3,0,3,0,0,0,0,0,0,11.0,2024,159
+DeShon Elliott,PIT,0,0,0,0,0,0.0,2,1,1,0,1,1,0,0,0,11.0,2024,159
+Nick Herbig,PIT,0,0,0,0,0,0.0,2,1,1,0,1,0,0,0,1,11.0,2024,159
+Damontae Kazee,PIT,0,0,0,0,0,0.0,2,0,2,0,0,0,0,0,0,11.0,2024,159
+Isaiahh Loudermilk,PIT,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,11.0,2024,159
+Tyler Matakevich,PIT,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,11.0,2024,159
+James Pierre,PIT,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,11.0,2024,159
+Joey Porter Jr.,PIT,0,0,0,0,2,0.0,1,0,1,0,0,0,0,0,0,11.0,2024,159
+Mark Robinson,PIT,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,11.0,2024,159
+Preston Smith,PIT,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,11.0,2024,159

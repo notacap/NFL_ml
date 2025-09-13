@@ -1,0 +1,176 @@
+Quarter,Time,Down,ToGo,Location,BAL,JAX,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Jaguars won the coin toss and deferred, Ravens to receive the opening kickoff.",,,12.0,2022,171
+1.0,15:00,,,JAX 35,0.0,0.0,"Riley Patterson kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,171
+1.0,15:00,1.0,10.0,BAL 25,0.0,0.0,Lamar Jackson pass complete deep right to Mark Andrews for 25 yards (tackle by Andre Cisco and Foyesade Oluokun),0.61,2.26,12.0,2022,171
+1.0,14:19,1.0,10.0,JAX 50,0.0,0.0,Lamar Jackson pass incomplete deep right intended for Demarcus Robinson,2.26,1.71,12.0,2022,171
+1.0,14:12,2.0,10.0,JAX 50,0.0,0.0,Gus Edwards right end for 8 yards (tackle by Chad Muma),1.71,2.08,12.0,2022,171
+1.0,13:30,3.0,2.0,JAX 42,0.0,0.0,Devin Duvernay left end for 9 yards (tackle by Foyesade Oluokun),2.08,3.38,12.0,2022,171
+1.0,12:37,1.0,10.0,JAX 33,0.0,0.0,"Lamar Jackson pass complete short right to Mark Andrews for no gain. Mark Andrews fumbles (forced by Foyesade Oluokun), recovered by Rayshawn Jenkins at JAC-33 (tackle by Foyesade Oluokun) (tackle by Rayshawn Jenkins) Replay Assistant challenged the loose ball recovery ruling, and the original play was overturned. Lamar Jackson pass complete short right to Mark Andrews for 3 yards. Mark Andrews fumbles (forced by Rayshawn Jenkins) (tackle by Foyesade Oluokun and Rayshawn Jenkins). Mark Andrews fumbles out of bounds",3.38,3.24,12.0,2022,171
+1.0,12:25,2.0,7.0,JAX 30,0.0,0.0,Gus Edwards up the middle for 3 yards (tackle by Rayshawn Jenkins),3.24,2.94,12.0,2022,171
+1.0,11:42,3.0,4.0,JAX 27,0.0,0.0,"Lamar Jackson scrambles left end for no gain (tackle by Travon Walker). Penalty on Travon Walker: Defensive Offside, 5 yards (offset) . Penalty on Tyler Linderbaum: Offensive Holding, 10 yards (offset) (no play)",2.94,2.94,12.0,2022,171
+1.0,11:15,3.0,4.0,JAX 27,0.0,0.0,Lamar Jackson pass complete short left to Demarcus Robinson for 17 yards (tackle by Darious Williams),2.94,4.91,12.0,2022,171
+1.0,10:21,1.0,10.0,JAX 10,0.0,0.0,Lamar Jackson pass incomplete short right intended for Josh Oliver,4.91,4.19,12.0,2022,171
+1.0,10:12,2.0,10.0,JAX 10,0.0,0.0,"Penalty on BAL: Delay of Game, 5 yards (accepted) (no play)",4.19,3.46,12.0,2022,171
+1.0,10:12,2.0,15.0,JAX 15,0.0,0.0,Lamar Jackson pass complete short right to Mark Andrews for 5 yards (tackle by Foyesade Oluokun and Rayshawn Jenkins),3.46,3.13,12.0,2022,171
+1.0,9:37,3.0,10.0,JAX 10,0.0,0.0,Lamar Jackson pass incomplete short right,3.13,2.76,12.0,2022,171
+1.0,9:28,4.0,10.0,JAX 10,3.0,0.0,Justin Tucker 27 yard field goal good,2.76,3.0,12.0,2022,171
+1.0,9:23,,,BAL 35,3.0,0.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,171
+1.0,9:23,1.0,10.0,JAX 25,3.0,0.0,Trevor Lawrence sacked by Broderick Washington for -8 yards,0.61,-1.15,12.0,2022,171
+1.0,8:41,2.0,18.0,JAX 17,3.0,0.0,Trevor Lawrence pass complete short middle to Zay Jones for 24 yards (tackle by Roquan Smith and Chuck Clark),-1.15,1.66,12.0,2022,171
+1.0,8:10,1.0,10.0,JAX 41,3.0,0.0,Travis Etienne up the middle for 3 yards (tackle by Broderick Washington),1.66,1.53,12.0,2022,171
+1.0,7:30,2.0,7.0,JAX 44,3.0,0.0,Trevor Lawrence pass complete short left to Zay Jones for 6 yards (tackle by Geno Stone),1.53,1.62,12.0,2022,171
+1.0,6:45,3.0,1.0,JAX 50,3.0,0.0,Jamycal Hasty up the middle for no gain (tackle by Calais Campbell and Malik Harrison),1.62,-0.06,12.0,2022,171
+1.0,6:09,4.0,1.0,JAX 50,3.0,0.0,Trevor Lawrence up the middle for no gain (tackle by Calais Campbell),-0.06,-2.26,12.0,2022,171
+1.0,6:01,1.0,10.0,JAX 50,3.0,0.0,Gus Edwards left guard for 16 yards (tackle by Andre Cisco and Chad Muma),2.26,3.31,12.0,2022,171
+1.0,5:32,1.0,10.0,JAX 34,3.0,0.0,Lamar Jackson pass complete short left to Devin Duvernay for 7 yards (tackle by Andre Cisco),3.31,3.72,12.0,2022,171
+1.0,4:56,2.0,3.0,JAX 27,3.0,0.0,Gus Edwards up the middle for 2 yards (tackle by Foyesade Oluokun),3.72,3.27,12.0,2022,171
+1.0,4:12,3.0,1.0,JAX 25,3.0,0.0,Gus Edwards up the middle for 7 yards (tackle by Rayshawn Jenkins),3.27,4.37,12.0,2022,171
+1.0,3:31,1.0,10.0,JAX 18,3.0,0.0,Lamar Jackson left end for 7 yards (tackle by Devin Lloyd),4.37,5.01,12.0,2022,171
+1.0,2:55,2.0,3.0,JAX 11,3.0,0.0,Gus Edwards right guard for -1 yards (tackle by Foyesade Oluokun),5.01,4.03,12.0,2022,171
+1.0,2:16,3.0,4.0,JAX 12,3.0,0.0,Lamar Jackson pass incomplete short right intended for Demarcus Robinson,4.03,2.71,12.0,2022,171
+1.0,2:08,4.0,4.0,JAX 12,6.0,0.0,Justin Tucker 29 yard field goal good,2.71,3.0,12.0,2022,171
+1.0,2:03,,,BAL 35,6.0,0.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,171
+1.0,2:03,1.0,10.0,JAX 25,6.0,0.0,Travis Etienne left end for no gain (tackle by Brent Urban),0.61,0.06,12.0,2022,171
+1.0,1:26,2.0,10.0,JAX 25,6.0,0.0,Trevor Lawrence pass complete short left to Zay Jones for 5 yards (tackle by Brandon Stephens),0.06,0.04,12.0,2022,171
+1.0,1:01,3.0,5.0,JAX 30,6.0,0.0,Trevor Lawrence pass incomplete short right intended for Christian Kirk,0.04,-1.37,12.0,2022,171
+1.0,0:58,4.0,5.0,JAX 30,6.0,0.0,"Logan Cooke punts 70 yards, touchback.",-1.37,-0.28,12.0,2022,171
+1.0,0:51,1.0,10.0,BAL 20,6.0,0.0,Gus Edwards left end for -1 yards (tackle by Foyesade Oluokun and Josh Allen),0.28,-0.46,12.0,2022,171
+1.0,0:26,2.0,11.0,BAL 19,6.0,0.0,Lamar Jackson pass complete short right to Patrick Ricard for 10 yards (tackle by Foyesade Oluokun and Andre Cisco),-0.46,0.23,12.0,2022,171
+2.0,15:00,3.0,1.0,BAL 29,6.0,0.0,Lamar Jackson right end for 12 yards (tackle by Chad Muma),0.23,1.66,12.0,2022,171
+2.0,14:15,1.0,10.0,BAL 41,6.0,0.0,"Lamar Jackson pass complete short right to Devin Duvernay for 5 yards (tackle by Foyesade Oluokun) JAX challenged the pass completion ruling, and the play was upheld.",1.66,1.8,12.0,2022,171
+2.0,13:35,2.0,5.0,BAL 46,6.0,0.0,Gus Edwards up the middle for 3 yards (tackle by Josh Allen and Chad Muma),1.8,1.49,12.0,2022,171
+2.0,13:02,3.0,2.0,BAL 49,6.0,0.0,Lamar Jackson right guard for 1 yard (tackle by Roy Robertson-Harris and Foyesade Oluokun),1.49,-0.06,12.0,2022,171
+2.0,12:04,4.0,1.0,JAX 50,6.0,0.0,"Lamar Jackson right guard for no gain. Lamar Jackson fumbles (forced by DaVon Hamilton) (tackle by Foyesade Oluokun and DaVon Hamilton), recovered by DaVon Hamilton at 50",-0.06,-2.26,12.0,2022,171
+2.0,11:52,1.0,10.0,JAX 50,6.0,0.0,Trevor Lawrence pass complete short right to Zay Jones for 12 yards (tackle by Chuck Clark),2.26,3.05,12.0,2022,171
+2.0,11:19,1.0,10.0,BAL 38,6.0,0.0,Jamycal Hasty left end for 13 yards (tackle by Marlon Humphrey and Chuck Clark),3.05,3.91,12.0,2022,171
+2.0,10:46,1.0,10.0,BAL 25,6.0,0.0,Jamycal Hasty right end for -3 yards (tackle by Patrick Queen),3.91,2.96,12.0,2022,171
+2.0,10:03,2.0,13.0,BAL 28,6.0,6.0,"Trevor Lawrence pass complete deep right to Jamycal Hasty for 28 yards, touchdown",2.96,7.0,12.0,2022,171
+2.0,9:57,,,BAL 15,6.0,7.0,Riley Patterson kicks extra point good,0.0,0.0,12.0,2022,171
+2.0,9:57,,,JAX 35,6.0,7.0,"Riley Patterson kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,171
+2.0,9:57,1.0,10.0,BAL 25,6.0,7.0,Lamar Jackson scrambles left end for 8 yards (tackle by Foyesade Oluokun),0.61,1.14,12.0,2022,171
+2.0,9:23,2.0,2.0,BAL 33,6.0,7.0,Kenyan Drake up the middle for 6 yards (tackle by Foyesade Oluokun),1.14,1.53,12.0,2022,171
+2.0,8:46,1.0,10.0,BAL 39,6.0,7.0,Lamar Jackson pass incomplete short right,1.53,0.99,12.0,2022,171
+2.0,8:38,2.0,10.0,BAL 39,6.0,7.0,Lamar Jackson pass incomplete short middle intended for DeSean Jackson (defended by Andre Cisco),0.99,0.3,12.0,2022,171
+2.0,8:30,3.0,10.0,BAL 39,6.0,7.0,Lamar Jackson scrambles right end for 10 yards (tackle by Darious Williams),0.3,2.19,12.0,2022,171
+2.0,8:02,1.0,10.0,BAL 49,6.0,7.0,Gus Edwards up the middle for 2 yards (tackle by Folorunso Fatukasi),2.19,1.92,12.0,2022,171
+2.0,7:22,2.0,8.0,JAX 49,6.0,7.0,Lamar Jackson pass incomplete deep right intended for Mark Andrews,1.92,1.22,12.0,2022,171
+2.0,7:10,3.0,8.0,JAX 49,6.0,7.0,Lamar Jackson pass complete short left to DeSean Jackson for 12 yards (tackle by Tevaughn Campbell),1.22,3.12,12.0,2022,171
+2.0,6:34,1.0,10.0,JAX 37,6.0,7.0,Kenyan Drake up the middle for -4 yards (tackle by Josh Allen),3.12,2.03,12.0,2022,171
+2.0,5:50,2.0,14.0,JAX 41,6.0,7.0,Lamar Jackson pass complete short left to Patrick Ricard for 4 yards (tackle by Corey Peters and Adam Gotsis),2.03,1.88,12.0,2022,171
+2.0,5:03,3.0,10.0,JAX 37,6.0,7.0,Lamar Jackson pass incomplete short right intended for Patrick Ricard,1.88,0.79,12.0,2022,171
+2.0,4:56,4.0,10.0,JAX 37,9.0,7.0,Justin Tucker 55 yard field goal good,0.79,3.0,12.0,2022,171
+2.0,4:51,,,BAL 35,9.0,7.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,171
+2.0,4:51,1.0,10.0,JAX 25,9.0,7.0,Trevor Lawrence pass complete short right to Christian Kirk for 11 yards (tackle by Justin Houston and Chuck Clark),0.61,1.33,12.0,2022,171
+2.0,4:15,1.0,10.0,JAX 36,9.0,7.0,Jamycal Hasty right end for 4 yards (tackle by Marcus Peters and Travis Jones),1.33,1.33,12.0,2022,171
+2.0,3:40,2.0,6.0,JAX 40,9.0,7.0,Trevor Lawrence pass complete short right to Zay Jones for 13 yards (tackle by Marcus Peters),1.33,2.46,12.0,2022,171
+2.0,3:02,1.0,10.0,BAL 47,9.0,7.0,Jamycal Hasty right guard for 4 yards (tackle by Marcus Peters),2.46,2.45,12.0,2022,171
+2.0,2:25,2.0,6.0,BAL 43,9.0,7.0,Trevor Lawrence pass complete short left to Zay Jones for 6 yards (tackle by Brandon Stephens),2.45,3.12,12.0,2022,171
+2.0,2:00,1.0,10.0,BAL 37,9.0,7.0,Trevor Lawrence pass complete short right to Jamal Agnew for 6 yards (tackle by Marlon Humphrey and Roquan Smith),3.12,3.38,12.0,2022,171
+2.0,1:21,2.0,4.0,BAL 31,9.0,7.0,Jamycal Hasty left guard for 1 yard (tackle by Broderick Washington and Tyus Bowser),3.38,2.81,12.0,2022,171
+2.0,1:17,,,,,,Timeout #1 by Baltimore Ravens,,,12.0,2022,171
+2.0,1:17,3.0,3.0,BAL 30,9.0,7.0,Trevor Lawrence pass complete short left to Jamycal Hasty for 24 yards (tackle by Chuck Clark),2.81,5.83,12.0,2022,171
+2.0,1:03,,,,,,Timeout #2 by Baltimore Ravens,,,12.0,2022,171
+2.0,1:03,1.0,6.0,BAL 6,9.0,7.0,Jamycal Hasty up the middle for 4 yards (tackle by Chuck Clark),5.83,5.72,12.0,2022,171
+2.0,0:59,,,,,,Timeout #3 by Baltimore Ravens,,,12.0,2022,171
+2.0,0:59,2.0,2.0,BAL 2,9.0,7.0,Jamycal Hasty left guard for -2 yards (tackle by Tyus Bowser),5.72,4.49,12.0,2022,171
+2.0,0:18,,,,,,Timeout #2 by Jacksonville Jaguars,,,12.0,2022,171
+2.0,0:18,3.0,4.0,BAL 4,9.0,7.0,Trevor Lawrence pass incomplete short right intended for Christian Kirk,4.49,3.03,12.0,2022,171
+2.0,0:14,4.0,4.0,BAL 4,9.0,10.0,Riley Patterson 22 yard field goal good,3.03,3.0,12.0,2022,171
+2.0,0:09,,,JAX 35,9.0,10.0,"Riley Patterson kicks off 50 yards, returned by Nick Boyle for 14 yards (tackle by Adam Gotsis)",0.0,0.87,12.0,2022,171
+2.0,0:04,1.0,10.0,BAL 29,9.0,10.0,Lamar Jackson kneels for -1 yards,0.87,0.19,12.0,2022,171
+3.0,15:00,,,BAL 35,9.0,10.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,171
+3.0,15:00,1.0,10.0,JAX 25,9.0,10.0,Trevor Lawrence pass incomplete short right intended for Christian Kirk,0.61,0.06,12.0,2022,171
+3.0,14:54,2.0,10.0,JAX 25,9.0,10.0,Trevor Lawrence pass complete short right to Jamycal Hasty for 5 yards (tackle by Marlon Humphrey and Marcus Peters),0.06,0.04,12.0,2022,171
+3.0,14:06,3.0,5.0,JAX 30,9.0,10.0,Trevor Lawrence pass complete short left to Marvin Jones for 2 yards (tackle by Brandon Stephens and Marlon Humphrey),0.04,-1.24,12.0,2022,171
+3.0,13:31,4.0,3.0,JAX 32,9.0,10.0,"Logan Cooke punts 68 yards, touchback.",-1.24,-0.28,12.0,2022,171
+3.0,13:20,1.0,10.0,BAL 20,9.0,10.0,Lamar Jackson pass complete to Josh Oliver for 40 yards (tackle by Josh Allen),0.28,2.92,12.0,2022,171
+3.0,12:49,1.0,10.0,JAX 40,9.0,10.0,Lamar Jackson pass complete short middle to Devin Duvernay for 11 yards (tackle by Tyson Campbell),2.92,3.64,12.0,2022,171
+3.0,12:14,1.0,10.0,JAX 29,9.0,10.0,Lamar Jackson scrambles up the middle for 11 yards (tackle by Chad Muma),3.64,4.37,12.0,2022,171
+3.0,11:35,1.0,10.0,JAX 18,9.0,10.0,Lamar Jackson pass incomplete deep middle intended for Josh Oliver,4.37,3.8,12.0,2022,171
+3.0,11:28,2.0,10.0,JAX 18,9.0,10.0,Lamar Jackson up the middle for 8 yards (tackle by Rayshawn Jenkins),3.8,4.51,12.0,2022,171
+3.0,10:53,3.0,2.0,JAX 10,9.0,10.0,Gus Edwards right end for 3 yards (tackle by Andrew Wingard and Chad Muma),4.51,5.6,12.0,2022,171
+3.0,10:10,1.0,7.0,JAX 7,9.0,10.0,Lamar Jackson left end for -1 yards (tackle by Foyesade Oluokun),5.6,4.57,12.0,2022,171
+3.0,9:24,2.0,8.0,JAX 8,9.0,10.0,Justice Hill up the middle for 3 yards (tackle by DaVon Hamilton and Chad Muma),4.57,4.26,12.0,2022,171
+3.0,8:42,3.0,5.0,JAX 5,9.0,10.0,Lamar Jackson sacked by DaVon Hamilton for -1 yards,4.26,2.99,12.0,2022,171
+3.0,7:56,4.0,6.0,JAX 6,12.0,10.0,Justin Tucker 24 yard field goal good,2.99,3.0,12.0,2022,171
+3.0,7:51,,,BAL 35,12.0,10.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,171
+3.0,7:51,1.0,10.0,JAX 25,12.0,10.0,Snoop Conner left guard for 5 yards (tackle by Roquan Smith),0.61,0.74,12.0,2022,171
+3.0,7:20,2.0,5.0,JAX 30,12.0,10.0,Trevor Lawrence pass incomplete short left intended for Christian Kirk (defended by Patrick Queen),0.74,0.04,12.0,2022,171
+3.0,7:15,3.0,5.0,JAX 30,12.0,10.0,Trevor Lawrence pass complete short left to Evan Engram for 4 yards (tackle by Brandon Stephens),0.04,-1.11,12.0,2022,171
+3.0,6:22,4.0,1.0,JAX 34,12.0,10.0,"Penalty on JAX: Delay of Game, 4 yards (accepted) (no play)",-1.11,-1.37,12.0,2022,171
+3.0,6:22,4.0,5.0,JAX 30,12.0,10.0,Logan Cooke punts 68 yards downed by Chris Claybrooks,-1.37,0.38,12.0,2022,171
+3.0,6:09,1.0,10.0,BAL 2,12.0,10.0,Lamar Jackson pass complete short middle to Mark Andrews for 17 yards (tackle by Andre Cisco),-0.38,0.15,12.0,2022,171
+3.0,5:46,1.0,10.0,BAL 19,12.0,10.0,Lamar Jackson pass incomplete deep left intended for Mark Andrews (defended by Arden Key),0.15,-0.39,12.0,2022,171
+3.0,5:40,2.0,10.0,BAL 19,12.0,10.0,"Lamar Jackson right end for no gain (tackle by Tevaughn Campbell and Chad Muma). Penalty on Folorunso Fatukasi: Defensive Holding, 5 yards (accepted) (no play)",-0.39,0.54,12.0,2022,171
+3.0,5:12,1.0,10.0,BAL 24,12.0,10.0,Lamar Jackson pass complete short middle to Josh Oliver for 12 yards (tackle by Foyesade Oluokun),0.54,1.33,12.0,2022,171
+3.0,4:37,1.0,10.0,BAL 36,12.0,10.0,Lamar Jackson right guard for 8 yards (tackle by Chad Muma),1.33,1.87,12.0,2022,171
+3.0,3:59,2.0,2.0,BAL 44,12.0,10.0,Gus Edwards right guard for 3 yards (tackle by Devin Lloyd),1.87,2.06,12.0,2022,171
+3.0,3:17,1.0,10.0,BAL 47,12.0,10.0,Lamar Jackson pass incomplete short right intended for Demarcus Robinson,2.06,1.52,12.0,2022,171
+3.0,3:03,2.0,10.0,BAL 47,12.0,10.0,Lamar Jackson pass incomplete short right intended for Devin Duvernay,1.52,0.83,12.0,2022,171
+3.0,2:57,3.0,10.0,BAL 47,12.0,10.0,Lamar Jackson pass incomplete deep middle intended for Devin Duvernay,0.83,-0.26,12.0,2022,171
+3.0,2:54,4.0,10.0,BAL 47,12.0,10.0,"Jordan Stout punts 53 yards, touchback.",-0.26,-0.28,12.0,2022,171
+3.0,2:44,1.0,10.0,JAX 20,12.0,10.0,Snoop Conner up the middle for 2 yards (tackle by Justin Madubuike and Patrick Queen),0.28,0.0,12.0,2022,171
+3.0,2:11,2.0,8.0,JAX 22,12.0,10.0,"Trevor Lawrence pass incomplete short left intended for Marvin Jones. Penalty on Brandon Stephens: Defensive Holding, 5 yards (accepted) (no play)",0.0,0.74,12.0,2022,171
+3.0,2:05,1.0,10.0,JAX 27,12.0,10.0,Snoop Conner left guard for 4 yards (tackle by Justin Madubuike),0.74,0.74,12.0,2022,171
+3.0,1:31,2.0,6.0,JAX 31,12.0,10.0,Trevor Lawrence pass complete short right to Christian Kirk for 2 yards,0.74,0.3,12.0,2022,171
+3.0,0:52,3.0,4.0,JAX 33,12.0,10.0,"Penalty on Cam Robinson: False Start, 5 yards (accepted) (no play)",0.3,-0.36,12.0,2022,171
+3.0,0:28,3.0,9.0,JAX 28,12.0,10.0,"Trevor Lawrence sacked by Tyus Bowser for -3 yards. Trevor Lawrence fumbles (forced by Tyus Bowser), recovered by Marcus Peters at JAC-25",-0.36,-3.91,12.0,2022,171
+3.0,0:19,1.0,10.0,JAX 25,12.0,10.0,Lamar Jackson pass incomplete short right intended for Gus Edwards,3.91,3.36,12.0,2022,171
+3.0,0:12,2.0,10.0,JAX 25,12.0,10.0,Lamar Jackson scrambles up the middle for 12 yards (tackle by Andre Cisco),3.36,4.71,12.0,2022,171
+4.0,15:00,1.0,10.0,JAX 13,12.0,10.0,Devin Duvernay left end for 7 yards (tackle by Foyesade Oluokun and Devin Lloyd),4.71,5.34,12.0,2022,171
+4.0,14:20,2.0,3.0,JAX 6,12.0,10.0,Gus Edwards up the middle for no gain (tackle by Foyesade Oluokun),5.34,4.56,12.0,2022,171
+4.0,13:23,3.0,3.0,JAX 6,12.0,10.0,"Lamar Jackson for no gain, touchdown Replay Assistant challenged the runner broke the plane ruling, and the original play was overturned. Lamar Jackson up the middle for 5 yards (tackle by Andre Cisco and Travon Walker)",4.56,6.97,12.0,2022,171
+4.0,13:17,1.0,1.0,JAX 1,12.0,10.0,Lamar Jackson pass incomplete short left intended for Mark Andrews (defended by Andre Cisco),6.97,5.91,12.0,2022,171
+4.0,13:13,2.0,1.0,JAX 1,18.0,10.0,"Gus Edwards up the middle for 1 yard, touchdown",5.91,7.0,12.0,2022,171
+4.0,13:07,,,JAX 15,19.0,10.0,Justin Tucker kicks extra point good,0.0,0.0,12.0,2022,171
+4.0,13:07,,,BAL 35,19.0,10.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,171
+4.0,13:07,1.0,10.0,JAX 25,19.0,10.0,Trevor Lawrence sacked by Marlon Humphrey for -5 yards,0.61,-0.61,12.0,2022,171
+4.0,12:33,2.0,15.0,JAX 20,19.0,10.0,Trevor Lawrence pass complete short middle to Jamal Agnew for 17 yards (tackle by Patrick Queen),-0.61,1.4,12.0,2022,171
+4.0,11:58,1.0,10.0,JAX 37,19.0,10.0,Jamycal Hasty up the middle for 2 yards (tackle by Broderick Washington),1.4,1.13,12.0,2022,171
+4.0,11:24,2.0,8.0,JAX 39,19.0,10.0,Jamycal Hasty right end for 6 yards (tackle by Roquan Smith),1.13,1.22,12.0,2022,171
+4.0,10:51,3.0,2.0,JAX 45,19.0,10.0,Trevor Lawrence pass complete short middle to Zay Jones for 8 yards (tackle by Patrick Queen),1.22,2.46,12.0,2022,171
+4.0,10:14,1.0,10.0,BAL 47,19.0,10.0,Christian Kirk left end for -5 yards (tackle by Marlon Humphrey),2.46,1.24,12.0,2022,171
+4.0,9:36,2.0,15.0,JAX 48,19.0,10.0,Trevor Lawrence pass complete short right to Zay Jones for 7 yards (tackle by Marcus Peters),1.24,1.49,12.0,2022,171
+4.0,8:57,3.0,8.0,BAL 45,19.0,10.0,Trevor Lawrence pass incomplete deep left intended for Christian Kirk,1.49,0.27,12.0,2022,171
+4.0,8:44,4.0,8.0,BAL 45,19.0,10.0,Trevor Lawrence pass complete deep right to Zay Jones for 27 yards (tackle by Geno Stone),0.27,4.37,12.0,2022,171
+4.0,8:14,1.0,10.0,BAL 18,19.0,10.0,Trevor Lawrence pass incomplete short right intended for Zay Jones,4.37,3.8,12.0,2022,171
+4.0,8:09,2.0,10.0,BAL 18,19.0,10.0,Trevor Lawrence pass complete short left to Jamal Agnew for 8 yards (tackle by Brandon Stephens),3.8,4.51,12.0,2022,171
+4.0,7:28,3.0,2.0,BAL 10,19.0,10.0,Trevor Lawrence pass complete short right to Jamycal Hasty for 9 yards (tackle by Roquan Smith),4.51,6.97,12.0,2022,171
+4.0,6:47,1.0,1.0,BAL 1,19.0,10.0,Jamycal Hasty left guard for no gain (tackle by Roquan Smith and Patrick Queen),6.97,5.91,12.0,2022,171
+4.0,5:59,2.0,1.0,BAL 1,19.0,16.0,"Trevor Lawrence pass complete short right to Jamal Agnew for 1 yard, touchdown",5.91,7.0,12.0,2022,171
+4.0,5:55,,,BAL 15,19.0,17.0,Riley Patterson kicks extra point good,0.0,0.0,12.0,2022,171
+4.0,5:55,,,JAX 35,19.0,17.0,"Riley Patterson kicks off 65 yards, returned by Devin Duvernay for 6 yards (tackle by Caleb Johnson and Tim Jones)",0.0,-0.38,12.0,2022,171
+4.0,5:49,1.0,10.0,BAL 6,19.0,17.0,"Gus Edwards right guard for 4 yards. Gus Edwards fumbles (forced by Andrew Wingard), recovered by Tyson Campbell at BAL-16",-0.38,-4.51,12.0,2022,171
+4.0,5:42,1.0,10.0,BAL 16,19.0,17.0,Jamycal Hasty up the middle for -1 yards (tackle by Marcus Peters and Broderick Washington),4.51,3.77,12.0,2022,171
+4.0,5:07,2.0,11.0,BAL 17,19.0,17.0,Trevor Lawrence scrambles right end for 1 yard (tackle by Roquan Smith),3.77,3.08,12.0,2022,171
+4.0,4:57,3.0,10.0,BAL 16,19.0,17.0,Trevor Lawrence pass complete short left to Jamal Agnew for 5 yards (tackle by Roquan Smith),3.08,2.75,12.0,2022,171
+4.0,4:22,4.0,5.0,BAL 11,19.0,20.0,Riley Patterson 29 yard field goal good,2.75,3.0,12.0,2022,171
+4.0,4:19,,,JAX 35,19.0,20.0,"Riley Patterson kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,171
+4.0,4:19,1.0,10.0,BAL 25,19.0,20.0,Lamar Jackson pass incomplete short right intended for Kenyan Drake,0.61,0.06,12.0,2022,171
+4.0,4:16,2.0,10.0,BAL 25,19.0,20.0,"Lamar Jackson pass complete deep right to James Proche for no gain. Penalty on Patrick Mekari: Offensive Holding, 10 yards (accepted) (no play)",0.06,-1.43,12.0,2022,171
+4.0,4:03,2.0,20.0,BAL 15,19.0,20.0,Lamar Jackson pass complete to DeSean Jackson for 62 yards (tackle by Rayshawn Jenkins),-1.43,4.04,12.0,2022,171
+4.0,3:11,1.0,10.0,JAX 23,19.0,20.0,Lamar Jackson right end for 9 yards (tackle by Chad Muma and Darious Williams),4.04,4.95,12.0,2022,171
+4.0,2:22,2.0,1.0,JAX 14,19.0,20.0,Gus Edwards right guard for 3 yards (tackle by Rayshawn Jenkins and Josh Allen),4.95,4.84,12.0,2022,171
+4.0,2:16,,,,,,Timeout #1 by Jacksonville Jaguars,,,12.0,2022,171
+4.0,2:16,1.0,10.0,JAX 11,19.0,20.0,Gus Edwards up the middle for -1 yards (tackle by Corey Peters and Foyesade Oluokun),4.84,3.98,12.0,2022,171
+4.0,2:10,,,,,,Timeout #2 by Jacksonville Jaguars,,,12.0,2022,171
+4.0,2:10,2.0,11.0,JAX 12,25.0,20.0,"Lamar Jackson pass complete short left to Josh Oliver for 12 yards, touchdown",3.98,7.0,12.0,2022,171
+4.0,2:02,,,JAX 2,27.0,20.0,Two Point Attempt: Lamar Jackson pass complete to to Mark Andrews for no gain,1.0,1.0,12.0,2022,171
+4.0,2:02,,,BAL 35,27.0,20.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,12.0,2022,171
+4.0,2:02,1.0,10.0,JAX 25,27.0,20.0,Trevor Lawrence pass incomplete short right intended for Zay Jones,0.61,0.06,12.0,2022,171
+4.0,1:59,2.0,10.0,JAX 25,27.0,20.0,"Trevor Lawrence sacked by Calais Campbell for -11 yards. Trevor Lawrence fumbles (forced by Calais Campbell), recovered by Luke Fortner at JAC-14",0.06,-2.55,12.0,2022,171
+4.0,1:51,,,,,,Timeout #3 by Jacksonville Jaguars,,,12.0,2022,171
+4.0,1:51,3.0,21.0,JAX 14,27.0,20.0,Trevor Lawrence pass complete short middle to Christian Kirk for 16 yards (tackle by Patrick Queen),-2.55,-1.37,12.0,2022,171
+4.0,1:30,4.0,5.0,JAX 30,27.0,20.0,Trevor Lawrence pass complete short left to Marvin Jones for 10 yards (tackle by Brandon Stephens),-1.37,1.6,12.0,2022,171
+4.0,1:08,1.0,10.0,JAX 40,27.0,20.0,Trevor Lawrence pass incomplete short right intended for Zay Jones,1.6,1.05,12.0,2022,171
+4.0,1:04,2.0,10.0,JAX 40,27.0,20.0,Trevor Lawrence pass complete short middle to Christian Kirk for 17 yards (tackle by Chuck Clark),1.05,2.72,12.0,2022,171
+4.0,0:41,1.0,10.0,BAL 43,27.0,20.0,Trevor Lawrence pass complete short right to Zay Jones for 8 yards (tackle by Marcus Peters),2.72,3.26,12.0,2022,171
+4.0,0:38,2.0,2.0,BAL 35,27.0,20.0,"Penalty on Jamycal Hasty: False Start, 5 yards (accepted) (no play)",3.26,2.58,12.0,2022,171
+4.0,0:38,2.0,7.0,BAL 40,27.0,20.0,Trevor Lawrence pass complete short right to Jamycal Hasty for 1 yard (tackle by Marcus Peters),2.58,2.01,12.0,2022,171
+4.0,0:35,3.0,6.0,BAL 39,27.0,20.0,Trevor Lawrence pass complete deep left to Zay Jones for 29 yards (tackle by Geno Stone),2.01,4.91,12.0,2022,171
+4.0,0:18,1.0,10.0,BAL 10,27.0,26.0,"Trevor Lawrence pass complete short right to Marvin Jones for 10 yards, touchdown Replay Assistant challenged the runner was in bounds ruling, and the play was upheld.",4.91,7.0,12.0,2022,171
+4.0,0:14,,,,,,Timeout #1 by Baltimore Ravens,,,12.0,2022,171
+4.0,0:14,,,BAL 2,27.0,28.0,Two Point Attempt: Trevor Lawrence pass complete to to Zay Jones for no gain,1.0,1.0,12.0,2022,171
+4.0,0:14,,,JAX 35,27.0,28.0,"Riley Patterson kicks off 41 yards, returned by Patrick Ricard for 15 yards (tackle by Andrew Wingard and Caleb Johnson)",0.0,1.53,12.0,2022,171
+4.0,0:10,1.0,10.0,BAL 39,27.0,28.0,Lamar Jackson pass complete short right to Josh Oliver for 12 yards (tackle by Chris Claybrooks),1.53,2.32,12.0,2022,171
+4.0,0:02,1.0,10.0,JAX 49,27.0,28.0,Justin Tucker 67 yard field goal no good,2.32,2.65,12.0,2022,171

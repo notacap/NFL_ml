@@ -1,0 +1,43 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Unnamed: 7_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Fumbles,Fumbles,Fumbles,Fumbles,week,year,game_id
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF,,,
+Byron Young,LAR,0,0,0,0,0,2.0,10,8,2,1,1,0,0,0,1,9.0,2023,126
+Kobie Turner,LAR,0,0,0,0,0,1.0,10,7,3,1,1,0,0,0,0,9.0,2023,126
+Aaron Donald,LAR,0,0,0,0,0,1.0,4,2,2,1,1,0,0,0,0,9.0,2023,126
+Jordan Fuller,LAR,0,0,0,0,0,0.0,8,3,5,0,0,0,0,0,1,9.0,2023,126
+Christian Rozeboom,LAR,0,0,0,0,0,0.0,7,2,5,0,0,0,0,0,0,9.0,2023,126
+Russ Yeast,LAR,0,0,0,0,0,0.0,7,4,3,0,0,0,0,0,0,9.0,2023,126
+Michael Hoecht,LAR,0,0,0,0,0,0.0,6,3,3,0,2,0,0,0,0,9.0,2023,126
+Quentin Lake,LAR,0,0,0,0,0,0.0,6,5,1,0,0,0,0,0,0,9.0,2023,126
+Troy Reeder,LAR,0,0,0,0,0,0.0,5,2,3,0,0,0,0,0,0,9.0,2023,126
+Duke Shelley,LAR,0,0,0,0,0,0.0,4,4,0,0,0,1,9,0,0,9.0,2023,126
+Jonah Williams,LAR,0,0,0,0,0,0.0,4,0,4,0,0,0,0,0,0,9.0,2023,126
+Ahkello Witherspoon,LAR,0,0,0,0,1,0.0,4,3,1,0,0,1,0,0,0,9.0,2023,126
+Larrell Murchison,LAR,0,0,0,0,0,0.0,3,1,2,0,0,0,0,0,0,9.0,2023,126
+Davis Allen,LAR,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,9.0,2023,126
+Cobie Durant,LAR,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,9.0,2023,126
+Cory Durden,LAR,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,9.0,2023,126
+Royce Freeman,LAR,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,9.0,2023,126
+Ochaun Mathis,LAR,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,9.0,2023,126
+Zach VanValkenburg,LAR,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,9.0,2023,126
+Brett Rypien,LAR,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,0,9.0,2023,126
+Anthony Johnson,GNB,1,1,0,1,2,0.0,1,1,0,0,0,0,0,0,0,9.0,2023,126
+Jonathan Owens,GNB,0,0,0,0,0,1.0,9,5,4,0,1,0,0,0,1,9.0,2023,126
+Jaire Alexander,GNB,0,0,0,0,2,0.0,7,6,1,1,0,0,0,0,0,9.0,2023,126
+Isaiah McDuffie,GNB,0,0,0,0,0,0.0,7,6,1,2,0,0,0,0,0,9.0,2023,126
+De'Vondre Campbell,GNB,0,0,0,0,0,0.0,6,3,3,0,0,1,3,0,0,9.0,2023,126
+Keisean Nixon,GNB,0,0,0,0,0,0.0,5,5,0,0,0,0,0,0,0,9.0,2023,126
+Rashan Gary,GNB,0,0,0,0,0,0.0,3,1,2,0,2,0,0,0,0,9.0,2023,126
+Carrington Valentine,GNB,0,0,0,0,3,0.0,2,2,0,0,0,0,0,0,0,9.0,2023,126
+Lukas Van Ness,GNB,0,0,0,0,0,0.0,2,2,0,1,1,0,0,0,0,9.0,2023,126
+Eric Wilson,GNB,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,9.0,2023,126
+Devonte Wyatt,GNB,0,0,0,0,0,0.0,2,0,2,0,0,0,0,0,0,9.0,2023,126
+Zayne Anderson,GNB,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,9.0,2023,126
+Corey Ballentine,GNB,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,9.0,2023,126
+Karl Brooks,GNB,0,0,0,0,2,0.0,1,1,0,0,0,0,0,0,0,9.0,2023,126
+Kenny Clark,GNB,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,9.0,2023,126
+Kingsley Enagbare,GNB,0,0,0,0,0,0.0,1,1,0,1,0,0,0,0,0,9.0,2023,126
+Tucker Kraft,GNB,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,9.0,2023,126
+Dallin Leavitt,GNB,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,9.0,2023,126
+Tedarrell Slaton,GNB,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,9.0,2023,126
+Preston Smith,GNB,0,0,0,0,1,0.0,1,1,0,0,0,0,0,0,0,9.0,2023,126
+Colby Wooden,GNB,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,9.0,2023,126

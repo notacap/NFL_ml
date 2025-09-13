@@ -1,0 +1,178 @@
+Quarter,Time,Down,ToGo,Location,BUF,KAN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Bills won the coin toss and deferred, Chiefs to receive the opening kickoff.",,,14.0,2023,204
+1.0,15:00,,,BUF 35,0.0,0.0,"Tyler Bass kicks off 55 yards,",0.0,0.61,14.0,2023,204
+1.0,15:00,1.0,10.0,KAN 25,0.0,0.0,Clyde Edwards-Helaire right guard for 5 yards (tackle by Jordan Phillips and Terrel Bernard),0.61,0.74,14.0,2023,204
+1.0,14:30,2.0,5.0,KAN 30,0.0,0.0,Patrick Mahomes pass complete short right to Travis Kelce for 7 yards (tackle by Taron Johnson),0.74,1.4,14.0,2023,204
+1.0,13:57,1.0,10.0,KAN 37,0.0,0.0,Patrick Mahomes pass complete short left to Kadarius Toney for 9 yards (tackle by Christian Benford),1.4,2.07,14.0,2023,204
+1.0,13:20,2.0,1.0,KAN 46,0.0,0.0,Clyde Edwards-Helaire right end for 5 yards (tackle by Taron Johnson),2.07,2.32,14.0,2023,204
+1.0,12:44,1.0,10.0,BUF 49,0.0,0.0,Patrick Mahomes pass incomplete deep right intended for Travis Kelce,2.32,1.78,14.0,2023,204
+1.0,12:37,2.0,10.0,BUF 49,0.0,0.0,Kadarius Toney right end for 14 yards (tackle by Micah Hyde and Rasul Douglas),1.78,3.25,14.0,2023,204
+1.0,12:09,1.0,10.0,BUF 35,0.0,0.0,Clyde Edwards-Helaire left end for 5 yards (tackle by Linval Joseph),3.25,3.38,14.0,2023,204
+1.0,11:36,2.0,5.0,BUF 30,0.0,0.0,Patrick Mahomes pass short left intended for Clyde Edwards-Helaire is intercepted by A.J. Epenesa at BUF-41 and returned for 6 yards (tackle by Patrick Mahomes),3.38,-2.06,14.0,2023,204
+1.0,11:30,1.0,10.0,BUF 47,0.0,0.0,Josh Allen pass complete short right to James Cook for 12 yards (tackle by Mike Edwards),2.06,2.85,14.0,2023,204
+1.0,10:48,1.0,10.0,KAN 41,0.0,0.0,James Cook right guard for 1 yard (tackle by Derrick Nnadi and Nick Bolton),2.85,2.44,14.0,2023,204
+1.0,10:04,2.0,9.0,KAN 40,0.0,0.0,Josh Allen pass incomplete short right intended for Stefon Diggs,2.44,1.75,14.0,2023,204
+1.0,9:58,3.0,9.0,KAN 40,0.0,0.0,Josh Allen pass incomplete short left,1.75,0.59,14.0,2023,204
+1.0,9:50,4.0,9.0,KAN 40,0.0,0.0,"Sam Martin punts 35 yards, returned by Richie James for 7 yards (tackle by Taylor Rapp)",0.59,0.35,14.0,2023,204
+1.0,9:39,1.0,10.0,KAN 12,0.0,0.0,Patrick Mahomes pass complete short left to Clyde Edwards-Helaire for 9 yards (tackle by Tyrel Dodson),-0.35,0.42,14.0,2023,204
+1.0,9:02,2.0,1.0,KAN 21,0.0,0.0,Clyde Edwards-Helaire left end for 6 yards (tackle by Micah Hyde),0.42,0.74,14.0,2023,204
+1.0,8:29,1.0,10.0,KAN 27,0.0,0.0,Jerick McKinnon right end for 3 yards (tackle by Tyrel Dodson),0.74,0.6,14.0,2023,204
+1.0,7:57,2.0,7.0,KAN 30,0.0,0.0,Patrick Mahomes pass incomplete short left,0.6,-0.1,14.0,2023,204
+1.0,7:53,3.0,7.0,KAN 30,0.0,0.0,Patrick Mahomes sacked by and Ed Oliver for -7 yards and Gregory Rousseau for -7 yards,-0.1,-1.83,14.0,2023,204
+1.0,7:18,4.0,14.0,KAN 23,0.0,0.0,"Tommy Townsend punts 39 yards, returned by Deonte Harty for 9 yards (tackle by Leo Chenal)",-1.83,-2.06,14.0,2023,204
+1.0,7:07,1.0,10.0,BUF 47,0.0,0.0,Josh Allen right guard for 4 yards (tackle by Michael Danna and Charles Omenihu),2.06,2.06,14.0,2023,204
+1.0,6:28,2.0,6.0,KAN 49,0.0,0.0,Josh Allen pass complete short right to Dawson Knox for 11 yards (tackle by Justin Reid),2.06,3.05,14.0,2023,204
+1.0,5:47,1.0,10.0,KAN 38,0.0,0.0,Josh Allen scrambles left end for 8 yards (tackle by Mike Edwards),3.05,3.59,14.0,2023,204
+1.0,5:13,2.0,2.0,KAN 30,0.0,0.0,Josh Allen pass complete short right to Stefon Diggs for 3 yards (tackle by L'Jarius Sneed),3.59,3.78,14.0,2023,204
+1.0,4:27,1.0,10.0,KAN 27,0.0,0.0,James Cook right end for 2 yards (tackle by Nick Bolton and George Karlaftis),3.78,3.5,14.0,2023,204
+1.0,3:48,2.0,8.0,KAN 25,6.0,0.0,"Josh Allen pass complete short left to James Cook for 25 yards, touchdown",3.5,7.0,14.0,2023,204
+1.0,3:43,,,KAN 15,7.0,0.0,Tyler Bass kicks extra point good,0.0,0.0,14.0,2023,204
+1.0,3:43,,,BUF 35,7.0,0.0,"Tyler Bass kicks off 55 yards,",0.0,0.61,14.0,2023,204
+1.0,3:43,1.0,10.0,KAN 25,7.0,0.0,Clyde Edwards-Helaire right guard for 3 yards (tackle by Terrel Bernard and Rasul Douglas),0.61,0.47,14.0,2023,204
+1.0,3:09,2.0,7.0,KAN 28,7.0,0.0,Patrick Mahomes pass incomplete short right intended for Rashee Rice (defended by Rasul Douglas),0.47,-0.23,14.0,2023,204
+1.0,3:05,3.0,7.0,KAN 28,7.0,0.0,"Penalty on Marquez Valdes-Scantling: False Start, 5 yards (accepted) (no play)",-0.23,-0.89,14.0,2023,204
+1.0,3:05,3.0,12.0,KAN 23,7.0,0.0,Patrick Mahomes pass complete short right to Jerick McKinnon for 4 yards (tackle by Taron Johnson),-0.89,-1.57,14.0,2023,204
+1.0,2:26,4.0,8.0,KAN 27,7.0,0.0,"Tommy Townsend punts 46 yards, fair catch by Deonte Harty at BUF-27",-1.57,-0.74,14.0,2023,204
+1.0,2:19,1.0,10.0,BUF 27,7.0,0.0,Josh Allen pass incomplete deep left intended for Stefon Diggs (defended by Justin Reid),0.74,0.2,14.0,2023,204
+1.0,2:13,2.0,10.0,BUF 27,7.0,0.0,James Cook right guard for 12 yards (tackle by Mike Edwards),0.2,1.53,14.0,2023,204
+1.0,1:34,1.0,10.0,BUF 39,7.0,0.0,Ty Johnson right end for 5 yards (tackle by Leo Chenal and Trent McDuffie),1.53,1.66,14.0,2023,204
+1.0,0:56,2.0,5.0,BUF 44,7.0,0.0,Ty Johnson left end for 6 yards (tackle by Mike Edwards),1.66,2.26,14.0,2023,204
+1.0,0:14,1.0,10.0,KAN 50,7.0,0.0,Josh Allen pass incomplete short right,2.26,1.71,14.0,2023,204
+1.0,0:06,,,,,,Timeout #1 by Kansas City Chiefs,,,14.0,2023,204
+1.0,0:06,2.0,10.0,KAN 50,7.0,0.0,Josh Allen pass complete short left to James Cook for 27 yards (tackle by Justin Reid),1.71,4.04,14.0,2023,204
+2.0,15:00,1.0,10.0,KAN 23,7.0,0.0,Josh Allen pass complete short right to Stefon Diggs for 4 yards (tackle by L'Jarius Sneed),4.04,4.05,14.0,2023,204
+2.0,14:19,2.0,6.0,KAN 19,7.0,0.0,Josh Allen pass incomplete short right intended for Dalton Kincaid,4.05,3.34,14.0,2023,204
+2.0,14:13,3.0,6.0,KAN 19,7.0,0.0,Josh Allen scrambles left end for 5 yards (tackle by Nick Bolton and Michael Danna),3.34,2.66,14.0,2023,204
+2.0,13:25,4.0,1.0,KAN 14,7.0,0.0,Josh Allen pass complete short right to Dalton Kincaid for 4 yards (tackle by Leo Chenal),2.66,4.91,14.0,2023,204
+2.0,12:39,1.0,10.0,KAN 10,7.0,0.0,Latavius Murray right end for 4 yards (tackle by Willie Gay),4.91,4.95,14.0,2023,204
+2.0,11:58,2.0,6.0,KAN 6,13.0,0.0,"Josh Allen right guard for 6 yards, touchdown",4.95,7.0,14.0,2023,204
+2.0,11:50,,,KAN 15,14.0,0.0,Tyler Bass kicks extra point good,0.0,0.0,14.0,2023,204
+2.0,11:50,,,BUF 35,14.0,0.0,"Tyler Bass kicks off 59 yards,",0.0,0.61,14.0,2023,204
+2.0,11:50,1.0,10.0,KAN 25,14.0,0.0,"Clyde Edwards-Helaire left end for no gain (tackle by Terrel Bernard). Penalty on Linval Joseph: Defensive Holding, 5 yards (accepted) (no play)",0.61,0.94,14.0,2023,204
+2.0,11:30,1.0,10.0,KAN 30,14.0,0.0,Clyde Edwards-Helaire left guard for 2 yards (tackle by Tim Settle and Tyrel Dodson),0.94,0.66,14.0,2023,204
+2.0,10:53,2.0,8.0,KAN 32,14.0,0.0,"Patrick Mahomes pass incomplete short left intended for Travis Kelce (defended by Rasul Douglas). Penalty on Travis Kelce: Offensive Pass Interference, 10 yards (accepted) (no play)",0.66,-0.69,14.0,2023,204
+2.0,10:48,2.0,18.0,KAN 22,14.0,0.0,Patrick Mahomes pass incomplete deep middle intended for Richie James (defended by Taron Johnson),-0.69,-1.35,14.0,2023,204
+2.0,10:42,3.0,18.0,KAN 22,14.0,0.0,Patrick Mahomes pass complete deep left to Travis Kelce for 23 yards (tackle by Rasul Douglas and Taylor Rapp),-1.35,1.93,14.0,2023,204
+2.0,10:00,1.0,10.0,KAN 45,14.0,0.0,Patrick Mahomes pass complete deep right to Justin Watson for 18 yards (tackle by Micah Hyde),1.93,3.12,14.0,2023,204
+2.0,9:20,1.0,10.0,BUF 37,14.0,0.0,Clyde Edwards-Helaire right end for -2 yards (tackle by Tyrel Dodson),3.12,2.3,14.0,2023,204
+2.0,8:45,2.0,12.0,BUF 39,14.0,0.0,Patrick Mahomes pass incomplete short left intended for Kadarius Toney,2.3,1.62,14.0,2023,204
+2.0,8:41,3.0,12.0,BUF 39,14.0,0.0,Patrick Mahomes pass incomplete deep left intended for Marquez Valdes-Scantling,1.62,0.66,14.0,2023,204
+2.0,8:36,4.0,12.0,BUF 39,14.0,0.0,Tommy Townsend punts 32 yards downed by Ekow Boye-Doe,0.66,0.38,14.0,2023,204
+2.0,8:26,1.0,10.0,BUF 7,14.0,0.0,Ty Johnson left end for 1 yard (tackle by Mike Edwards),-0.38,-0.71,14.0,2023,204
+2.0,7:44,2.0,9.0,BUF 8,14.0,0.0,Josh Allen pass complete short right to Dalton Kincaid for 8 yards (tackle by Chamarri Conner),-0.71,-0.37,14.0,2023,204
+2.0,6:59,3.0,1.0,BUF 16,14.0,0.0,Latavius Murray left end for 4 yards (tackle by Trent McDuffie),-0.37,0.28,14.0,2023,204
+2.0,6:18,1.0,10.0,BUF 20,14.0,0.0,Josh Allen pass complete short right to James Cook for 8 yards (tackle by Jack Cochrane and Justin Reid),0.28,0.81,14.0,2023,204
+2.0,5:37,2.0,2.0,BUF 28,14.0,0.0,Josh Allen pass complete short left to Trent Sherfield for 9 yards (tackle by Mike Edwards),0.81,1.4,14.0,2023,204
+2.0,5:18,1.0,10.0,BUF 37,14.0,0.0,Josh Allen sacked by George Karlaftis for -5 yards,1.4,0.18,14.0,2023,204
+2.0,4:32,,,,,,Timeout #1 by Buffalo Bills,,,14.0,2023,204
+2.0,4:32,2.0,15.0,BUF 32,14.0,0.0,Josh Allen pass complete short left to James Cook for 11 yards (tackle by L'Jarius Sneed),0.18,0.96,14.0,2023,204
+2.0,3:47,3.0,4.0,BUF 43,14.0,0.0,Josh Allen pass short middle intended for Trent Sherfield is intercepted by Chamarri Conner at KC-44 and returned for 4 yards (tackle by Dalton Kincaid),0.96,-2.13,14.0,2023,204
+2.0,3:36,1.0,10.0,KAN 48,14.0,0.0,Patrick Mahomes pass complete short right to Rashee Rice for 5 yards (tackle by Taron Johnson),2.13,2.26,14.0,2023,204
+2.0,3:18,2.0,5.0,BUF 47,14.0,0.0,Patrick Mahomes pass complete short left to Kadarius Toney for 9 yards (tackle by Taron Johnson and Shaq Lawson),2.26,3.05,14.0,2023,204
+2.0,3:00,1.0,10.0,BUF 38,14.0,0.0,Patrick Mahomes pass complete short middle to Travis Kelce for 12 yards (tackle by Taron Johnson and Jordan Poyer),3.05,3.84,14.0,2023,204
+2.0,2:24,1.0,10.0,BUF 26,14.0,0.0,"Jerick McKinnon right end for no gain (tackle by Gregory Rousseau). Penalty on Creed Humphrey: Offensive Holding, 10 yards (accepted) (no play)",3.84,3.18,14.0,2023,204
+2.0,2:00,1.0,20.0,BUF 36,14.0,0.0,"Penalty on Jawaan Taylor: False Start, 5 yards (accepted) (no play)",3.18,2.85,14.0,2023,204
+2.0,2:00,1.0,25.0,BUF 41,14.0,0.0,Patrick Mahomes pass complete short left to Rashee Rice for 17 yards (tackle by Terrel Bernard),2.85,3.57,14.0,2023,204
+2.0,1:52,,,,,,Timeout #2 by Buffalo Bills,,,14.0,2023,204
+2.0,1:52,2.0,8.0,BUF 24,14.0,0.0,Patrick Mahomes pass complete short right to Kadarius Toney for 7 yards (tackle by Micah Hyde and Tyrel Dodson),3.57,3.95,14.0,2023,204
+2.0,1:42,,,,,,Timeout #3 by Buffalo Bills,,,14.0,2023,204
+2.0,1:42,3.0,1.0,BUF 17,14.0,0.0,Patrick Mahomes pass complete short left to Richie James for 4 yards (tackle by Christian Benford),3.95,4.71,14.0,2023,204
+2.0,1:38,1.0,10.0,BUF 13,14.0,0.0,Patrick Mahomes pass incomplete short middle intended for Rashee Rice,4.71,4.05,14.0,2023,204
+2.0,1:34,2.0,10.0,BUF 13,14.0,0.0,Patrick Mahomes pass complete short right to Jerick McKinnon for 6 yards (tackle by Tyrel Dodson and Micah Hyde),4.05,4.33,14.0,2023,204
+2.0,1:26,3.0,4.0,BUF 7,14.0,6.0,"Jerick McKinnon left end for 7 yards, touchdown",4.33,7.0,14.0,2023,204
+2.0,1:19,,,BUF 15,14.0,7.0,Harrison Butker kicks extra point good,0.0,0.0,14.0,2023,204
+2.0,1:19,,,KAN 35,14.0,7.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,14.0,2023,204
+2.0,1:19,1.0,10.0,BUF 25,14.0,7.0,Josh Allen pass complete short right to Dalton Kincaid for 5 yards (tackle by Trent McDuffie),0.61,0.74,14.0,2023,204
+2.0,0:53,2.0,5.0,BUF 30,14.0,7.0,Josh Allen pass incomplete deep right intended for Stefon Diggs,0.74,0.04,14.0,2023,204
+2.0,0:48,3.0,5.0,BUF 30,14.0,7.0,Josh Allen pass complete short right to Dawson Knox for 13 yards (tackle by Mike Edwards),0.04,1.8,14.0,2023,204
+2.0,0:41,1.0,10.0,BUF 43,14.0,7.0,"Josh Allen pass complete short right to Stefon Diggs for 10 yards (tackle by Nick Bolton) Replay Assistant challenged the first down ruling, and the original play was overturned. Josh Allen pass complete short right to Stefon Diggs for 9 yards (tackle by Nick Bolton)",1.8,2.47,14.0,2023,204
+2.0,0:26,2.0,1.0,KAN 48,14.0,7.0,Josh Allen pass incomplete deep left intended for Gabriel Davis,2.47,1.75,14.0,2023,204
+2.0,0:18,3.0,1.0,KAN 48,14.0,7.0,Josh Allen scrambles left end for 4 yards (tackle by Willie Gay),1.75,2.65,14.0,2023,204
+2.0,0:06,1.0,10.0,KAN 44,14.0,7.0,Josh Allen spiked the ball,2.65,2.11,14.0,2023,204
+2.0,0:05,2.0,10.0,KAN 44,14.0,7.0,Josh Allen pass incomplete short left,2.11,1.42,14.0,2023,204
+2.0,0:03,3.0,10.0,KAN 44,14.0,7.0,Josh Allen pass incomplete deep right (defended by L'Jarius Sneed) (defended by Nick Bolton),1.42,0.33,14.0,2023,204
+3.0,15:00,,,KAN 35,14.0,7.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,14.0,2023,204
+3.0,15:00,1.0,10.0,BUF 25,14.0,7.0,Josh Allen pass complete short middle to Dawson Knox for 12 yards (tackle by Justin Reid),0.61,1.4,14.0,2023,204
+3.0,14:26,1.0,10.0,BUF 37,14.0,7.0,James Cook right guard for 11 yards (tackle by Mike Edwards),1.4,2.13,14.0,2023,204
+3.0,13:51,1.0,10.0,BUF 48,14.0,7.0,James Cook left end for 3 yards (tackle by Michael Danna),2.13,1.99,14.0,2023,204
+3.0,13:13,2.0,7.0,KAN 49,14.0,7.0,James Cook left end for 15 yards (tackle by Willie Gay),1.99,3.31,14.0,2023,204
+3.0,12:36,1.0,10.0,KAN 34,14.0,7.0,James Cook left end for 6 yards (tackle by Nick Bolton and Trent McDuffie),3.31,3.58,14.0,2023,204
+3.0,11:56,2.0,4.0,KAN 28,14.0,7.0,Josh Allen pass complete short right to Khalil Shakir for 12 yards (tackle by Willie Gay),3.58,4.51,14.0,2023,204
+3.0,11:11,1.0,10.0,KAN 16,14.0,7.0,"Ty Johnson left end for no gain (tackle by Willie Gay). Penalty on Dawson Knox: Offensive Holding, 10 yards (accepted) (no play)",4.51,3.84,14.0,2023,204
+3.0,10:44,1.0,20.0,KAN 26,14.0,7.0,Josh Allen pass complete short right to Stefon Diggs for 8 yards (tackle by Leo Chenal and L'Jarius Sneed),3.84,3.64,14.0,2023,204
+3.0,10:05,2.0,12.0,KAN 18,14.0,7.0,Josh Allen pass complete short left to Ty Johnson for -1 yards (tackle by Nick Bolton and Michael Danna),3.64,2.85,14.0,2023,204
+3.0,9:27,3.0,13.0,KAN 19,14.0,7.0,"Penalty on Chris Jones: Neutral Zone Infraction, 5 yards (accepted) (no play)",2.85,3.37,14.0,2023,204
+3.0,9:03,3.0,8.0,KAN 14,14.0,7.0,"Josh Allen scrambles up the middle for 1 yard (tackle by Nick Bolton). Penalty on Mitch Morse: Offensive Holding, 10 yards (declined)",3.37,2.57,14.0,2023,204
+3.0,8:41,4.0,7.0,KAN 13,17.0,7.0,Tyler Bass 31 yard field goal good,2.57,3.0,14.0,2023,204
+3.0,8:38,,,BUF 35,17.0,7.0,"Tyler Bass kicks off 59 yards,",0.0,0.61,14.0,2023,204
+3.0,8:38,1.0,10.0,KAN 25,17.0,7.0,Patrick Mahomes pass complete short right to Marquez Valdes-Scantling for 15 yards (tackle by Terrel Bernard),0.61,1.6,14.0,2023,204
+3.0,7:59,1.0,10.0,KAN 40,17.0,7.0,Patrick Mahomes pass complete short right to Travis Kelce for 11 yards (tackle by Jordan Poyer and Taylor Rapp),1.6,2.32,14.0,2023,204
+3.0,7:10,1.0,10.0,BUF 49,17.0,7.0,Clyde Edwards-Helaire left guard for 7 yards (tackle by Terrel Bernard),2.32,2.73,14.0,2023,204
+3.0,6:34,2.0,3.0,BUF 42,17.0,7.0,Jerick McKinnon right end for 2 yards (tackle by Taron Johnson and Ed Oliver),2.73,2.28,14.0,2023,204
+3.0,5:57,3.0,1.0,BUF 40,17.0,7.0,Jerick McKinnon up the middle for 7 yards (tackle by Tyrel Dodson),2.28,3.38,14.0,2023,204
+3.0,5:30,1.0,10.0,BUF 33,17.0,7.0,Patrick Mahomes pass complete deep left to Travis Kelce for 22 yards (tackle by Dorian Williams),3.38,4.84,14.0,2023,204
+3.0,4:48,1.0,10.0,BUF 11,17.0,7.0,Clyde Edwards-Helaire right end for 1 yard (tackle by Taron Johnson and Terrel Bernard),4.84,4.32,14.0,2023,204
+3.0,4:13,2.0,9.0,BUF 10,17.0,7.0,Patrick Mahomes pass complete short left to Rashee Rice for 6 yards (tackle by Christian Benford),4.32,4.67,14.0,2023,204
+3.0,3:34,3.0,3.0,BUF 4,17.0,13.0,"Patrick Mahomes pass complete short middle to Rashee Rice for 4 yards, touchdown",4.67,7.0,14.0,2023,204
+3.0,3:30,,,BUF 15,17.0,14.0,Harrison Butker kicks extra point good,0.0,0.0,14.0,2023,204
+3.0,3:30,,,KAN 35,17.0,14.0,"Harrison Butker kicks off 62 yards, returned by Ty Johnson for 23 yards (tackle by Chamarri Conner and Jack Cochrane)",0.0,0.67,14.0,2023,204
+3.0,3:24,1.0,10.0,BUF 26,17.0,14.0,Josh Allen pass complete short left to Ty Johnson for 3 yards (tackle by L'Jarius Sneed),0.67,0.54,14.0,2023,204
+3.0,2:42,2.0,7.0,BUF 29,17.0,14.0,James Cook left end for 4 yards (tackle by Nick Bolton),0.54,0.37,14.0,2023,204
+3.0,2:03,3.0,3.0,BUF 33,17.0,14.0,Josh Allen pass incomplete short left intended for Stefon Diggs (defended by L'Jarius Sneed),0.37,-1.18,14.0,2023,204
+3.0,1:59,4.0,3.0,BUF 33,17.0,14.0,"Sam Martin punts 61 yards, returned by Richie James for 20 yards (tackle by Cameron Lewis)",-1.18,-0.67,14.0,2023,204
+3.0,1:47,1.0,10.0,KAN 26,17.0,14.0,Patrick Mahomes pass incomplete short left intended for Clyde Edwards-Helaire (defended by Gregory Rousseau),0.67,0.13,14.0,2023,204
+3.0,1:42,2.0,10.0,KAN 26,17.0,14.0,"Patrick Mahomes pass incomplete intended for Travis Kelce KAN challenged the pass completion ruling, and the original play was overturned. Patrick Mahomes pass complete short middle to Travis Kelce for 8 yards (tackle by Christian Benford)",0.13,0.5,14.0,2023,204
+3.0,1:23,3.0,2.0,KAN 34,17.0,14.0,Patrick Mahomes pass complete short left to Jerick McKinnon for 8 yards (tackle by Tyrel Dodson),0.5,1.73,14.0,2023,204
+3.0,0:43,1.0,10.0,KAN 42,17.0,14.0,Patrick Mahomes pass incomplete short middle intended for Skyy Moore,1.73,1.19,14.0,2023,204
+3.0,0:38,2.0,10.0,KAN 42,17.0,14.0,"Patrick Mahomes pass complete short right to Rashee Rice for 6 yards. Rashee Rice fumbles (forced by Christian Benford), recovered by Taron Johnson at KC-48",1.19,-2.39,14.0,2023,204
+3.0,0:33,1.0,10.0,KAN 48,17.0,14.0,Josh Allen pass incomplete short right intended for Stefon Diggs,2.39,1.85,14.0,2023,204
+3.0,0:31,2.0,10.0,KAN 48,17.0,14.0,Josh Allen pass incomplete deep left intended for Dalton Kincaid,1.85,1.16,14.0,2023,204
+3.0,0:26,3.0,10.0,KAN 48,17.0,14.0,Josh Allen sacked by Trent McDuffie for -8 yards,1.16,-0.46,14.0,2023,204
+4.0,15:00,4.0,18.0,BUF 44,17.0,14.0,"Sam Martin punts 40 yards, returned by Richie James for 25 yards (tackle by Baylon Spector)",-0.46,-1.66,14.0,2023,204
+4.0,14:46,1.0,10.0,KAN 41,17.0,14.0,Patrick Mahomes pass complete short left to Rashee Rice for 15 yards (tackle by Terrel Bernard),1.66,2.65,14.0,2023,204
+4.0,14:14,1.0,10.0,BUF 44,17.0,14.0,Clyde Edwards-Helaire right guard for 4 yards (tackle by Jordan Poyer and Gregory Rousseau),2.65,2.65,14.0,2023,204
+4.0,13:34,2.0,6.0,BUF 40,17.0,14.0,Patrick Mahomes scrambles right end for 8 yards (tackle by Tim Settle),2.65,3.45,14.0,2023,204
+4.0,12:54,1.0,10.0,BUF 32,17.0,14.0,Patrick Mahomes pass complete short right to Clyde Edwards-Helaire for 20 yards (tackle by Jordan Poyer),3.45,4.78,14.0,2023,204
+4.0,12:18,1.0,10.0,BUF 12,17.0,14.0,Kadarius Toney right guard for 2 yards (tackle by Ed Oliver and Terrel Bernard),4.78,4.45,14.0,2023,204
+4.0,11:39,2.0,8.0,BUF 10,17.0,14.0,Patrick Mahomes pass incomplete short middle intended for Travis Kelce,4.45,3.48,14.0,2023,204
+4.0,11:35,3.0,8.0,BUF 10,17.0,14.0,"Patrick Mahomes sacked by Von Miller for no gain. Patrick Mahomes fumbles (forced by Von Miller), recovered by Taron Johnson at BUF-17 Replay Assistant challenged the fumble ruling, and the original play was overturned. Patrick Mahomes pass incomplete short left",3.48,2.76,14.0,2023,204
+4.0,11:33,4.0,8.0,BUF 10,17.0,17.0,Harrison Butker 27 yard field goal good,2.76,3.0,14.0,2023,204
+4.0,11:31,,,KAN 35,17.0,17.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,14.0,2023,204
+4.0,11:31,1.0,10.0,BUF 25,17.0,17.0,Josh Allen up the middle for 1 yard (tackle by George Karlaftis),0.61,0.2,14.0,2023,204
+4.0,10:47,2.0,9.0,BUF 26,17.0,17.0,Josh Allen pass incomplete short middle intended for Gabriel Davis (defended by Trent McDuffie),0.2,-0.49,14.0,2023,204
+4.0,10:42,3.0,9.0,BUF 26,17.0,17.0,"Josh Allen pass complete deep left to Latavius Murray for 21 yards. Latavius Murray fumbles, ball out of bounds at BUF-47. Latavius Murray fumbles out of bounds KAN challenged the pass completion ruling, and the play was upheld.",-0.49,2.06,14.0,2023,204
+4.0,10:28,1.0,10.0,BUF 47,17.0,17.0,Josh Allen pass complete short right to Dalton Kincaid for 3 yards (tackle by Mike Edwards),2.06,1.92,14.0,2023,204
+4.0,9:46,2.0,7.0,BUF 50,17.0,17.0,"Josh Allen pass complete short right to Dalton Kincaid for no gain (tackle by Justin Reid). Penalty on Dion Dawkins: Offensive Holding, 10 yards (accepted) (no play)",1.92,0.57,14.0,2023,204
+4.0,9:16,2.0,17.0,BUF 40,17.0,17.0,Josh Allen pass incomplete short left,0.57,-0.1,14.0,2023,204
+4.0,9:10,3.0,17.0,BUF 40,17.0,17.0,"Josh Allen pass complete short left to Latavius Murray for no gain (tackle by George Karlaftis). Penalty on Spencer Brown: Offensive Holding, 10 yards (accepted) (no play)",-0.1,-1.42,14.0,2023,204
+4.0,8:39,3.0,27.0,BUF 30,17.0,17.0,Josh Allen sacked by Charles Omenihu for -11 yards,-1.42,-2.14,14.0,2023,204
+4.0,8:01,4.0,38.0,BUF 19,17.0,17.0,Sam Martin punts 50 yards out of bounds,-2.14,-1.0,14.0,2023,204
+4.0,7:53,1.0,10.0,KAN 31,17.0,17.0,Clyde Edwards-Helaire right end for 3 yards (tackle by Leonard Floyd),1.0,0.87,14.0,2023,204
+4.0,7:16,2.0,7.0,KAN 34,17.0,17.0,Patrick Mahomes pass incomplete short left,0.87,0.17,14.0,2023,204
+4.0,7:11,3.0,7.0,KAN 34,17.0,17.0,Patrick Mahomes pass incomplete deep left intended for Marquez Valdes-Scantling,0.17,-1.11,14.0,2023,204
+4.0,7:05,4.0,7.0,KAN 34,17.0,17.0,"Tommy Townsend punts 43 yards, returned by Deonte Harty for 8 yards (tackle by Jack Cochrane)",-1.11,-1.0,14.0,2023,204
+4.0,6:57,1.0,10.0,BUF 31,17.0,17.0,James Cook left end for 2 yards (tackle by Charles Omenihu),1.0,0.73,14.0,2023,204
+4.0,6:19,2.0,8.0,BUF 33,17.0,17.0,James Cook for 2 yards (tackle by Tershawn Wharton and Trent McDuffie),0.73,0.3,14.0,2023,204
+4.0,5:41,3.0,6.0,BUF 35,17.0,17.0,Josh Allen pass complete deep right to Deonte Harty for 25 yards (tackle by Chamarri Conner),0.3,2.92,14.0,2023,204
+4.0,5:00,1.0,10.0,KAN 40,17.0,17.0,Ty Johnson right end for 7 yards (tackle by L'Jarius Sneed and Justin Reid),2.92,3.32,14.0,2023,204
+4.0,4:22,2.0,3.0,KAN 33,17.0,17.0,Latavius Murray right end for 1 yard (tackle by Mike Edwards),3.32,2.74,14.0,2023,204
+4.0,3:41,3.0,2.0,KAN 32,17.0,17.0,Josh Allen right end for 5 yards (tackle by Justin Reid and Tershawn Wharton),2.74,3.78,14.0,2023,204
+4.0,3:00,1.0,10.0,KAN 27,17.0,17.0,Ty Johnson left end for no gain (tackle by Mike Edwards and Tershawn Wharton),3.78,3.23,14.0,2023,204
+4.0,2:23,2.0,10.0,KAN 27,17.0,17.0,Josh Allen pass incomplete short left intended for Dalton Kincaid,3.23,2.54,14.0,2023,204
+4.0,2:17,3.0,10.0,KAN 27,17.0,17.0,"Josh Allen sacked by George Karlaftis for no gain. Penalty on Jaylen Watson: Illegal Contact, 5 yards (accepted) (no play)",2.54,4.11,14.0,2023,204
+4.0,2:12,1.0,10.0,KAN 22,17.0,17.0,Josh Allen pass incomplete short left intended for Stefon Diggs,4.11,3.56,14.0,2023,204
+4.0,2:10,2.0,10.0,KAN 22,17.0,17.0,Josh Allen pass incomplete deep right intended for Stefon Diggs (defended by L'Jarius Sneed),3.56,2.87,14.0,2023,204
+4.0,2:06,3.0,10.0,KAN 22,17.0,17.0,Josh Allen pass complete short left to Dalton Kincaid for 1 yard (tackle by L'Jarius Sneed),2.87,2.06,14.0,2023,204
+4.0,1:57,4.0,9.0,KAN 21,20.0,17.0,Tyler Bass 39 yard field goal good,2.06,3.0,14.0,2023,204
+4.0,1:54,,,BUF 35,20.0,17.0,"Tyler Bass kicks off 58 yards,",0.0,0.61,14.0,2023,204
+4.0,1:54,1.0,10.0,KAN 25,20.0,17.0,"Patrick Mahomes pass complete short left to Marquez Valdes-Scantling for 7 yards Replay Assistant challenged the pass completion ruling, and the play was upheld.",0.61,1.01,14.0,2023,204
+4.0,1:50,2.0,3.0,KAN 32,20.0,17.0,Patrick Mahomes pass complete deep right to Rashee Rice for 19 yards (tackle by Taron Johnson),1.01,2.32,14.0,2023,204
+4.0,1:28,1.0,10.0,BUF 49,20.0,17.0,Patrick Mahomes pass incomplete short left intended for Rashee Rice,2.32,1.78,14.0,2023,204
+4.0,1:25,2.0,10.0,BUF 49,20.0,17.0,"Patrick Mahomes pass complete to Travis Kelce for no gain, lateral to Kadarius Toney for 24 yards, touchdown. Penalty on Kadarius Toney: Offensive Offside, 5 yards (accepted) (no play)",1.78,1.11,14.0,2023,204
+4.0,1:12,2.0,15.0,KAN 46,20.0,17.0,Patrick Mahomes pass incomplete short right,1.11,0.43,14.0,2023,204
+4.0,1:05,3.0,15.0,KAN 46,20.0,17.0,Patrick Mahomes pass incomplete short left intended for Travis Kelce (defended by Ed Oliver),0.43,-0.32,14.0,2023,204
+4.0,1:01,,,,,,Timeout #2 by Kansas City Chiefs,,,14.0,2023,204
+4.0,1:01,,,,,,Timeout #1 by Buffalo Bills,,,14.0,2023,204
+4.0,1:01,4.0,15.0,KAN 46,20.0,17.0,Patrick Mahomes pass incomplete deep right intended for Travis Kelce,-0.32,-2.52,14.0,2023,204
+4.0,0:55,1.0,10.0,KAN 46,20.0,17.0,Josh Allen kneels for -1 yards,2.52,1.84,14.0,2023,204
+4.0,0:25,2.0,11.0,KAN 47,20.0,17.0,Josh Allen kneels for -1 yards,1.84,1.03,14.0,2023,204

@@ -1,0 +1,167 @@
+Quarter,Time,Down,ToGo,Location,SFO,SEA,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"49ers won the coin toss and deferred, Seahawks to receive the opening kickoff.",,,15.0,2022,209
+1.0,15:00,,,SFO 35,0.0,0.0,"Robbie Gould kicks off 61 yards, returned by Godwin Igwebuike for 31 yards (tackle by Jackrabbit Jenkins)",0.0,1.27,15.0,2022,209
+1.0,14:54,1.0,10.0,SEA 35,0.0,0.0,Kenneth Walker up the middle for 5 yards (tackle by Deommodore Lenoir and Fred Warner),1.27,1.4,15.0,2022,209
+1.0,14:23,2.0,5.0,SEA 40,0.0,0.0,Geno Smith pass complete short left to Tyler Lockett for 5 yards (tackle by Deommodore Lenoir),1.4,1.93,15.0,2022,209
+1.0,13:56,1.0,10.0,SEA 45,0.0,0.0,Geno Smith pass complete short left to Kenneth Walker for -3 yards (tackle by Azeez Al-Shaair),1.93,0.98,15.0,2022,209
+1.0,13:14,2.0,13.0,SEA 42,0.0,0.0,Geno Smith pass incomplete short middle intended for Noah Fant (defended by Dre Greenlaw),0.98,0.3,15.0,2022,209
+1.0,13:06,3.0,13.0,SEA 42,0.0,0.0,Geno Smith pass incomplete short left intended for Tyler Lockett,0.3,-0.59,15.0,2022,209
+1.0,13:01,4.0,13.0,SEA 42,0.0,0.0,"Michael Dickson punts 48 yards, fair catch by Ray-Ray McCloud at SF-10",-0.59,0.38,15.0,2022,209
+1.0,12:54,1.0,10.0,SFO 10,0.0,0.0,Christian McCaffrey left end for 3 yards (tackle by Cody Barton),-0.38,-0.56,15.0,2022,209
+1.0,12:21,2.0,7.0,SFO 13,0.0,0.0,Brock Purdy pass complete short right to George Kittle for 2 yards (tackle by Jordyn Brooks),-0.56,-0.84,15.0,2022,209
+1.0,11:38,3.0,5.0,SFO 15,0.0,0.0,Brock Purdy pass complete short right to Christian McCaffrey for 4 yards (tackle by Ryan Neal),-0.84,-2.14,15.0,2022,209
+1.0,11:00,4.0,1.0,SFO 19,0.0,0.0,"Mitch Wishnowsky punts 46 yards, fair catch by Tyler Lockett at SEA-35",-2.14,-1.27,15.0,2022,209
+1.0,10:57,1.0,10.0,SEA 35,0.0,0.0,Geno Smith pass incomplete short left,1.27,0.72,15.0,2022,209
+1.0,10:52,2.0,10.0,SEA 35,0.0,0.0,Kenneth Walker left end for -2 yards (tackle by Jimmie Ward),0.72,-0.23,15.0,2022,209
+1.0,10:04,3.0,12.0,SEA 33,0.0,0.0,Geno Smith pass complete short right to Noah Fant for 5 yards (tackle by Fred Warner),-0.23,-0.85,15.0,2022,209
+1.0,9:22,4.0,7.0,SEA 38,0.0,0.0,"Michael Dickson punts 48 yards, fair catch by Ray-Ray McCloud at SF-14",-0.85,0.28,15.0,2022,209
+1.0,9:13,1.0,10.0,SFO 14,0.0,0.0,Brock Purdy pass complete short right to Christian McCaffrey for 7 yards (tackle by Jordyn Brooks),-0.28,0.28,15.0,2022,209
+1.0,8:29,2.0,3.0,SFO 21,0.0,0.0,Christian McCaffrey up the middle for 23 yards (tackle by Quandre Diggs and Cody Barton),0.28,1.86,15.0,2022,209
+1.0,7:47,1.0,10.0,SFO 44,0.0,0.0,Christian McCaffrey right tackle for 3 yards (tackle by Bruce Irvin),1.86,1.72,15.0,2022,209
+1.0,7:18,2.0,7.0,SFO 47,0.0,0.0,Christian McCaffrey right end for 4 yards (tackle by Cody Barton),1.72,1.55,15.0,2022,209
+1.0,6:37,3.0,3.0,SEA 49,0.0,0.0,Brock Purdy pass complete short left to Jauan Jennings for 8 yards (tackle by Quandre Diggs),1.55,2.85,15.0,2022,209
+1.0,5:59,1.0,10.0,SEA 41,0.0,0.0,Christian McCaffrey right end for no gain (tackle by Uchenna Nwosu),2.85,2.31,15.0,2022,209
+1.0,5:16,2.0,10.0,SEA 41,0.0,0.0,Brock Purdy pass complete short left to Christian McCaffrey for 11 yards (tackle by Cody Barton),2.31,3.58,15.0,2022,209
+1.0,4:33,1.0,10.0,SEA 30,0.0,0.0,Christian McCaffrey left end for 2 yards (tackle by Bruce Irvin),3.58,3.3,15.0,2022,209
+1.0,3:56,2.0,8.0,SEA 28,6.0,0.0,"Brock Purdy pass complete short middle to George Kittle for 28 yards, touchdown",3.3,7.0,15.0,2022,209
+1.0,3:49,,,SEA 15,7.0,0.0,Robbie Gould kicks extra point good,0.0,0.0,15.0,2022,209
+1.0,3:49,,,SFO 35,7.0,0.0,"Robbie Gould kicks off 64 yards, returned by Godwin Igwebuike for 31 yards (tackle by Talanoa Hufanga)",0.0,1.07,15.0,2022,209
+1.0,3:41,1.0,10.0,SEA 32,7.0,0.0,Kenneth Walker right guard for 3 yards (tackle by Dre Greenlaw and Talanoa Hufanga),1.07,0.93,15.0,2022,209
+1.0,3:08,2.0,7.0,SEA 35,7.0,0.0,"Geno Smith sacked by Talanoa Hufanga for -11 yards. Geno Smith fumbles (forced by Talanoa Hufanga), recovered by Abraham Lucas at SEA-24",0.93,-1.22,15.0,2022,209
+1.0,2:30,3.0,18.0,SEA 24,7.0,0.0,Geno Smith pass incomplete short right intended for Marquise Goodwin (defended by Nick Bosa),-1.22,-1.77,15.0,2022,209
+1.0,2:25,4.0,15.0,SEA 24,7.0,0.0,"Michael Dickson punts 41 yards, fair catch by Ray-Ray McCloud at SF-35. Penalty on Joey Blount: Fair Catch Interference, 15 yards (accepted)",-1.77,-2.26,15.0,2022,209
+1.0,2:17,1.0,10.0,SFO 50,7.0,0.0,Brock Purdy pass complete short left to Christian McCaffrey for 1 yard (tackle by Boye Mafe),2.26,1.85,15.0,2022,209
+1.0,1:36,2.0,9.0,SEA 49,7.0,0.0,Brock Purdy pass complete short right to Brandon Aiyuk for 3 yards (tackle by Darrell Taylor),1.85,1.55,15.0,2022,209
+1.0,0:56,3.0,6.0,SEA 46,7.0,0.0,"Brock Purdy pass complete to Ray-Ray McCloud for no gain (tackle by Coby Bryant). Penalty on Mike McGlinchey: Offensive Holding, 10 yards (accepted) (no play)",1.55,0.23,15.0,2022,209
+1.0,0:30,3.0,16.0,SFO 44,7.0,0.0,Brock Purdy pass complete short middle to Christian McCaffrey for 9 yards (tackle by Tariq Woolen and Jordyn Brooks),0.23,0.13,15.0,2022,209
+1.0,0:01,4.0,7.0,SEA 47,7.0,0.0,"Penalty on Darrell Taylor: Neutral Zone Infraction, 5 yards (accepted) (no play)",0.13,0.46,15.0,2022,209
+2.0,15:00,4.0,2.0,SEA 42,7.0,0.0,"Mitch Wishnowsky punts 42 yards, touchback.. Penalty on Danny Gray: Illegal Formation, 5 yards (accepted)",0.46,-0.61,15.0,2022,209
+2.0,14:51,1.0,10.0,SEA 25,7.0,0.0,Geno Smith pass incomplete short left intended for D.K. Metcalf (defended by Charvarius Ward),0.61,0.06,15.0,2022,209
+2.0,14:47,2.0,10.0,SEA 25,7.0,0.0,Kenneth Walker up the middle for 5 yards (tackle by Arik Armstead),0.06,0.04,15.0,2022,209
+2.0,14:09,3.0,5.0,SEA 30,7.0,0.0,"Geno Smith pass complete short right to Travis Homer for 4 yards (tackle by Dre Greenlaw). Penalty on D.K. Metcalf: Taunting / Offense, 15 yards (accepted)",0.04,-2.14,15.0,2022,209
+2.0,13:31,4.0,16.0,SEA 19,7.0,0.0,"Michael Dickson punts 55 yards, returned by Ray-Ray McCloud for 8 yards (tackle by Jon Rhattigan). Penalty on Jackrabbit Jenkins: Offensive Holding, 10 yards (accepted)",-2.14,-0.54,15.0,2022,209
+2.0,13:21,1.0,10.0,SFO 24,7.0,0.0,Christian McCaffrey up the middle for 6 yards (tackle by Michael Jackson),0.54,0.81,15.0,2022,209
+2.0,12:44,2.0,4.0,SFO 30,7.0,0.0,Brock Purdy pass complete short right to Brandon Aiyuk for 16 yards (tackle by Jordyn Brooks),0.81,1.99,15.0,2022,209
+2.0,12:05,1.0,10.0,SFO 46,7.0,0.0,"Christian McCaffrey up the middle for 2 yards (tackle by Coby Bryant). Penalty on Brandon Aiyuk: Offensive Illegal Block Above the Waist, 10 yards (accepted)",1.99,1.47,15.0,2022,209
+2.0,11:39,1.0,18.0,SFO 38,7.0,0.0,Brock Purdy pass complete short middle to George Kittle for 9 yards (tackle by Michael Jackson and Jordyn Brooks),1.47,1.59,15.0,2022,209
+2.0,10:53,2.0,9.0,SFO 47,7.0,0.0,Brock Purdy pass incomplete short left intended for Christian McCaffrey,1.59,0.89,15.0,2022,209
+2.0,10:49,3.0,9.0,SFO 47,7.0,0.0,Brock Purdy pass incomplete short right intended for Brandon Aiyuk,0.89,-0.26,15.0,2022,209
+2.0,10:44,4.0,9.0,SFO 47,7.0,0.0,"Mitch Wishnowsky punts 35 yards, fair catch by Tyler Lockett at SEA-18",-0.26,-0.04,15.0,2022,209
+2.0,10:37,1.0,10.0,SEA 18,7.0,0.0,Kenneth Walker up the middle for 2 yards (tackle by Fred Warner),0.04,-0.13,15.0,2022,209
+2.0,9:57,2.0,8.0,SEA 20,7.0,0.0,Geno Smith pass complete short middle to D.K. Metcalf for 13 yards (tackle by Charvarius Ward),-0.13,1.14,15.0,2022,209
+2.0,9:23,1.0,10.0,SEA 33,7.0,0.0,Geno Smith pass complete short middle to D.K. Metcalf for 13 yards (tackle by Fred Warner),1.14,1.99,15.0,2022,209
+2.0,8:44,1.0,10.0,SEA 46,7.0,0.0,Geno Smith pass incomplete short left intended for D.K. Metcalf (defended by Charvarius Ward),1.99,1.45,15.0,2022,209
+2.0,8:38,2.0,10.0,SEA 46,7.0,0.0,Geno Smith pass complete short left to Kenneth Walker for 2 yards (tackle by Deommodore Lenoir),1.45,1.03,15.0,2022,209
+2.0,7:57,3.0,8.0,SEA 48,7.0,0.0,"Penalty on Tyler Lockett: False Start, 5 yards (accepted) (no play)",1.03,0.37,15.0,2022,209
+2.0,7:32,3.0,13.0,SEA 43,7.0,0.0,Geno Smith scrambles right end for 18 yards (tackle by Talanoa Hufanga),0.37,3.12,15.0,2022,209
+2.0,6:56,1.0,10.0,SFO 37,7.0,0.0,Kenneth Walker up the middle for 5 yards (tackle by Azeez Al-Shaair and Akeem Spence),3.12,3.12,15.0,2022,209
+2.0,6:16,2.0,5.0,SFO 34,7.0,0.0,Geno Smith pass complete short left to Noah Fant for 12 yards (tackle by Azeez Al-Shaair),3.12,4.11,15.0,2022,209
+2.0,5:45,1.0,10.0,SFO 22,7.0,0.0,Geno Smith pass complete short right to D.K. Metcalf for 2 yards (tackle by Charvarius Ward and Fred Warner),4.11,3.83,15.0,2022,209
+2.0,5:04,2.0,8.0,SFO 20,7.0,0.0,Geno Smith pass incomplete deep middle intended for Colby Parkinson (defended by Talanoa Hufanga),3.83,3.14,15.0,2022,209
+2.0,4:55,3.0,8.0,SFO 20,7.0,0.0,Geno Smith pass incomplete short middle,3.14,2.12,15.0,2022,209
+2.0,4:52,4.0,8.0,SFO 20,7.0,3.0,Jason Myers 38 yard field goal good,2.12,3.0,15.0,2022,209
+2.0,4:47,,,SEA 35,7.0,3.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,209
+2.0,4:47,1.0,10.0,SFO 25,7.0,3.0,Brock Purdy pass incomplete deep left intended for George Kittle (defended by Ryan Neal),0.61,0.06,15.0,2022,209
+2.0,4:41,2.0,10.0,SFO 25,7.0,3.0,"Brock Purdy scrambles left end for no gain (tackle by Cody Barton). Penalty on Tariq Woolen: Defensive Offside, 5 yards (accepted) (no play)",0.06,0.74,15.0,2022,209
+2.0,4:16,2.0,5.0,SFO 30,7.0,3.0,Christian McCaffrey up the middle for 4 yards (tackle by Cody Barton and Jordyn Brooks),0.74,0.56,15.0,2022,209
+2.0,3:32,3.0,1.0,SFO 34,7.0,3.0,Christian McCaffrey up the middle for 3 yards (tackle by Uchenna Nwosu),0.56,1.47,15.0,2022,209
+2.0,2:52,1.0,10.0,SFO 38,7.0,3.0,Christian McCaffrey right end for 1 yard (tackle by L.J. Collier),1.47,0.99,15.0,2022,209
+2.0,2:14,2.0,9.0,SFO 38,7.0,3.0,Brock Purdy pass complete short middle to Christian McCaffrey for -2 yards (tackle by Uchenna Nwosu and Jordyn Brooks),0.99,0.04,15.0,2022,209
+2.0,2:00,3.0,11.0,SFO 36,7.0,3.0,Brock Purdy pass incomplete deep middle intended for Jauan Jennings (defended by Quandre Diggs),0.04,-0.98,15.0,2022,209
+2.0,1:55,4.0,11.0,SFO 36,7.0,3.0,"Mitch Wishnowsky punts 45 yards, fair catch by Tyler Lockett at SEA-19",-0.98,-0.15,15.0,2022,209
+2.0,1:48,1.0,10.0,SEA 19,7.0,3.0,Geno Smith pass complete short left to Tyler Lockett for 7 yards (tackle by Deommodore Lenoir),0.15,0.61,15.0,2022,209
+2.0,1:31,2.0,3.0,SEA 26,7.0,3.0,Geno Smith pass complete short left to Marquise Goodwin for 4 yards,0.61,0.94,15.0,2022,209
+2.0,1:27,1.0,10.0,SEA 30,7.0,3.0,Travis Homer up the middle for 5 yards (tackle by Nick Bosa and Dre Greenlaw),0.94,1.07,15.0,2022,209
+2.0,1:09,2.0,5.0,SEA 35,7.0,3.0,"Geno Smith pass complete short right to Travis Homer for 6 yards. Travis Homer fumbles (forced by Dre Greenlaw), recovered by Charvarius Ward at SEA-46 and returned for 40 yards (tackle by Abraham Lucas)",1.07,-5.83,15.0,2022,209
+2.0,0:56,1.0,6.0,SEA 6,7.0,3.0,Christian McCaffrey up the middle for 5 yards (tackle by Cody Barton and Ryan Neal),5.83,5.91,15.0,2022,209
+2.0,0:49,,,,,,Timeout #1 by Seattle Seahawks,,,15.0,2022,209
+2.0,0:49,2.0,1.0,SEA 1,13.0,3.0,"Christian McCaffrey up the middle for 1 yard, touchdown",5.91,7.0,15.0,2022,209
+2.0,0:47,,,SEA 15,14.0,3.0,Robbie Gould kicks extra point good,0.0,0.0,15.0,2022,209
+2.0,0:47,,,SFO 35,14.0,3.0,"Robbie Gould kicks off 56 yards, returned by Godwin Igwebuike for 21 yards (tackle by George Odum and Demetrius Flannigan-Fowles)",0.0,1.0,15.0,2022,209
+2.0,0:41,1.0,10.0,SEA 31,14.0,3.0,"Geno Smith pass complete to D.K. Metcalf for no gain. Penalty on D.K. Metcalf: Offensive Pass Interference, 10 yards (accepted) (no play)",1.0,0.28,15.0,2022,209
+2.0,0:34,1.0,20.0,SEA 20,14.0,3.0,Geno Smith pass complete short right to Tyler Lockett for 13 yards (tackle by Deommodore Lenoir),0.28,0.8,15.0,2022,209
+2.0,0:28,2.0,7.0,SEA 33,14.0,3.0,Geno Smith pass complete short left to Penny Hart for 3 yards (tackle by Jimmie Ward),0.8,0.5,15.0,2022,209
+2.0,0:25,,,,,,Timeout #2 by Seattle Seahawks,,,15.0,2022,209
+2.0,0:25,3.0,4.0,SEA 36,14.0,3.0,Geno Smith pass complete short left to Kenneth Walker for no gain (tackle by Drake Jackson and Tashaun Gipson),0.5,-0.98,15.0,2022,209
+2.0,0:17,,,,,,Timeout #1 by San Francisco 49ers,,,15.0,2022,209
+2.0,0:17,4.0,4.0,SEA 36,14.0,3.0,"Michael Dickson punts 64 yards, touchback.",-0.98,-0.28,15.0,2022,209
+2.0,0:08,1.0,10.0,SFO 20,14.0,3.0,Brock Purdy kneels for -1 yards,0.28,-0.46,15.0,2022,209
+3.0,15:00,,,SEA 35,14.0,3.0,"Jason Myers kicks off 63 yards, returned by Ray-Ray McCloud for 39 yards (tackle by Jason Myers and Godwin Igwebuike)",0.0,1.66,15.0,2022,209
+3.0,14:53,1.0,10.0,SFO 41,14.0,3.0,Christian McCaffrey up the middle for 5 yards (tackle by Quinton Jefferson),1.66,1.8,15.0,2022,209
+3.0,14:12,2.0,5.0,SFO 46,20.0,3.0,"Brock Purdy pass complete deep left to George Kittle for 54 yards, touchdown",1.8,7.0,15.0,2022,209
+3.0,14:00,,,SEA 15,21.0,3.0,Robbie Gould kicks extra point good,0.0,0.0,15.0,2022,209
+3.0,14:00,,,SFO 35,21.0,3.0,"Robbie Gould kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,209
+3.0,14:00,1.0,10.0,SEA 25,21.0,3.0,Kenneth Walker up the middle for 3 yards (tackle by Dre Greenlaw),0.61,0.47,15.0,2022,209
+3.0,13:28,2.0,7.0,SEA 28,21.0,3.0,Geno Smith pass complete short right to Noah Fant for -1 yards (tackle by Deommodore Lenoir),0.47,-0.36,15.0,2022,209
+3.0,12:51,3.0,8.0,SEA 27,21.0,3.0,"Geno Smith pass is intercepted by Deommodore Lenoir at SEA-38 and returned for no gain, touchdown. Penalty on Nick Bosa: Roughing the Passer, 15 yards (accepted) (no play)",-0.36,1.73,15.0,2022,209
+3.0,12:42,1.0,10.0,SEA 42,21.0,3.0,"Geno Smith pass complete deep right to Tyler Lockett for 19 yards (tackle by Deommodore Lenoir). Penalty on Deommodore Lenoir: Illegal Contact, 5 yards (declined)",1.73,2.98,15.0,2022,209
+3.0,12:26,1.0,10.0,SFO 39,21.0,3.0,Kenneth Walker up the middle for 1 yard (tackle by Fred Warner and Dre Greenlaw),2.98,2.58,15.0,2022,209
+3.0,12:04,2.0,9.0,SFO 38,21.0,3.0,Geno Smith pass complete short left to D.K. Metcalf for 5 yards (tackle by Charvarius Ward),2.58,2.54,15.0,2022,209
+3.0,11:23,3.0,4.0,SFO 33,21.0,3.0,Geno Smith pass complete short middle to Tyler Lockett for 9 yards (tackle by Jimmie Ward),2.54,3.97,15.0,2022,209
+3.0,10:32,1.0,10.0,SFO 24,21.0,3.0,"Geno Smith pass complete to Dareke Young for 22 yards. Penalty on Abraham Lucas: Offensive Holding, 11 yards (accepted) (no play)",3.97,3.25,15.0,2022,209
+3.0,10:15,1.0,20.0,SFO 35,21.0,3.0,Geno Smith pass complete short left to D.K. Metcalf for no gain (tackle by Fred Warner and Tashaun Gipson),3.25,2.01,15.0,2022,209
+3.0,9:35,2.0,20.0,SFO 35,21.0,3.0,Geno Smith sacked by Nick Bosa for -11 yards,2.01,-0.1,15.0,2022,209
+3.0,8:59,3.0,31.0,SFO 46,21.0,3.0,Geno Smith pass complete short left to D.K. Metcalf for 13 yards (tackle by Charvarius Ward and Dre Greenlaw),-0.1,1.15,15.0,2022,209
+3.0,8:13,4.0,18.0,SFO 33,21.0,6.0,Jason Myers 51 yard field goal good,1.15,3.0,15.0,2022,209
+3.0,8:08,,,SEA 35,21.0,6.0,"Jason Myers kicks off 65 yards, returned by Ray-Ray McCloud for 28 yards (tackle by Justin Coleman)",0.0,0.81,15.0,2022,209
+3.0,8:02,1.0,10.0,SFO 28,21.0,6.0,Christian McCaffrey up the middle for 9 yards (tackle by Jordyn Brooks and Quandre Diggs),0.81,1.48,15.0,2022,209
+3.0,7:22,2.0,1.0,SFO 37,21.0,6.0,Christian McCaffrey left end for 2 yards (tackle by Tariq Woolen),1.48,1.53,15.0,2022,209
+3.0,6:37,1.0,10.0,SFO 39,21.0,6.0,Jordan Mason up the middle for 1 yard (tackle by Uchenna Nwosu),1.53,1.12,15.0,2022,209
+3.0,5:58,2.0,9.0,SFO 40,21.0,6.0,Brock Purdy sacked by Quinton Jefferson for -6 yards,1.12,-0.36,15.0,2022,209
+3.0,5:13,3.0,15.0,SFO 34,21.0,6.0,Brock Purdy pass complete short middle to Ray-Ray McCloud for 16 yards (tackle by Tariq Woolen),-0.36,2.26,15.0,2022,209
+3.0,4:31,1.0,10.0,SFO 50,21.0,6.0,Brock Purdy pass complete to Ray-Ray McCloud for no gain (no play),2.26,1.93,15.0,2022,209
+3.0,3:59,1.0,15.0,SFO 45,21.0,6.0,Brock Purdy pass complete short right to Jauan Jennings for 12 yards (tackle by Coby Bryant and Michael Jackson),1.93,2.66,15.0,2022,209
+3.0,3:21,2.0,3.0,SEA 43,21.0,6.0,Christian McCaffrey right tackle for -2 yards (tackle by Myles Adams),2.66,1.69,15.0,2022,209
+3.0,2:45,3.0,5.0,SEA 45,21.0,6.0,Brock Purdy pass incomplete short left intended for Ray-Ray McCloud,1.69,0.27,15.0,2022,209
+3.0,2:39,4.0,5.0,SEA 45,21.0,6.0,Mitch Wishnowsky punts 41 yards downed by George Odum,0.27,0.38,15.0,2022,209
+3.0,2:31,1.0,10.0,SEA 4,21.0,6.0,Geno Smith pass complete short right to Tyler Lockett for 7 yards (tackle by Tashaun Gipson),-0.38,-0.27,15.0,2022,209
+3.0,2:04,2.0,3.0,SEA 11,21.0,6.0,Geno Smith pass complete short left to Noah Fant for 6 yards (tackle by Deommodore Lenoir),-0.27,-0.06,15.0,2022,209
+3.0,1:40,1.0,10.0,SEA 17,21.0,6.0,Kenneth Walker right end for 4 yards (tackle by Charvarius Ward),-0.06,0.08,15.0,2022,209
+3.0,1:08,2.0,6.0,SEA 21,21.0,6.0,Kenneth Walker up the middle for 4 yards (tackle by Kerry Hyder),0.08,-0.24,15.0,2022,209
+3.0,0:26,3.0,2.0,SEA 25,21.0,6.0,"Geno Smith pass complete short right to Travis Homer for 11 yards (tackle by Charvarius Ward). Penalty on Charvarius Ward: Defensive Holding, 5 yards (declined) . Penalty on Nick Bosa: Illegal Use of Hands / Defense, 5 yards (declined) . Penalty on Dre Greenlaw: Defensive Holding, 5 yards (declined)",-0.24,1.33,15.0,2022,209
+3.0,0:10,1.0,10.0,SEA 36,21.0,6.0,Geno Smith pass complete short left to Tyler Lockett for 8 yards (tackle by Tashaun Gipson),1.33,1.87,15.0,2022,209
+4.0,15:00,2.0,2.0,SEA 44,21.0,6.0,Kenneth Walker right end for 15 yards (tackle by Deommodore Lenoir),1.87,2.85,15.0,2022,209
+4.0,14:21,1.0,10.0,SFO 41,21.0,6.0,Geno Smith pass incomplete short right intended for Marquise Goodwin (defended by Dre Greenlaw),2.85,2.31,15.0,2022,209
+4.0,14:16,2.0,10.0,SFO 41,21.0,6.0,"Geno Smith pass complete short right to Marquise Goodwin for 6 yards (tackle by Deommodore Lenoir) SFO challenged the pass completion ruling, and the play was upheld.",2.31,2.41,15.0,2022,209
+4.0,14:05,3.0,4.0,SFO 35,21.0,6.0,Geno Smith sacked by Samson Ebukam for -9 yards,2.41,0.33,15.0,2022,209
+4.0,13:18,4.0,13.0,SFO 44,21.0,6.0,Michael Dickson punts 43 yards downed by Tanner Muse,0.33,0.38,15.0,2022,209
+4.0,13:06,1.0,10.0,SFO 1,21.0,6.0,Brock Purdy pass incomplete short right intended for Jauan Jennings (defended by Myles Adams),-0.38,-0.78,15.0,2022,209
+4.0,13:03,,,,,,Timeout #2 by San Francisco 49ers,,,15.0,2022,209
+4.0,13:03,2.0,10.0,SFO 1,21.0,6.0,Christian McCaffrey up the middle for 3 yards (tackle by Uchenna Nwosu),-0.78,-1.07,15.0,2022,209
+4.0,12:23,3.0,7.0,SFO 4,21.0,6.0,Brock Purdy pass complete short middle to Jauan Jennings for 11 yards (tackle by Michael Jackson and Cody Barton),-1.07,-0.22,15.0,2022,209
+4.0,11:36,1.0,10.0,SFO 15,21.0,6.0,Christian McCaffrey right guard for no gain (tackle by Cody Barton and Myles Adams),-0.22,-0.71,15.0,2022,209
+4.0,10:55,2.0,10.0,SFO 15,21.0,6.0,Brock Purdy pass incomplete short middle intended for Christian McCaffrey,-0.71,-1.37,15.0,2022,209
+4.0,10:50,3.0,10.0,SFO 15,21.0,6.0,"Penalty on Trent Williams: False Start, 5 yards (accepted) (no play)",-1.37,-2.01,15.0,2022,209
+4.0,10:50,3.0,15.0,SFO 10,21.0,6.0,"Brock Purdy pass complete short left to Ray-Ray McCloud for 6 yards (tackle by Ryan Neal) SEA challenged the pass completion ruling, and the original play was overturned. Brock Purdy pass incomplete short left intended for Ray-Ray McCloud",-2.01,-2.49,15.0,2022,209
+4.0,10:44,4.0,15.0,SFO 10,21.0,6.0,"Mitch Wishnowsky punts 44 yards, fair catch by Tyler Lockett at SEA-46",-2.49,-1.99,15.0,2022,209
+4.0,10:38,1.0,10.0,SEA 46,21.0,6.0,"Geno Smith pass incomplete short middle. Penalty on Geno Smith: Intentional Grounding, 13 yards (accepted)",1.99,-0.31,15.0,2022,209
+4.0,10:32,2.0,23.0,SEA 33,21.0,6.0,Geno Smith pass incomplete short middle intended for Kenneth Walker,-0.31,-0.96,15.0,2022,209
+4.0,10:27,,,,,,Timeout #1 by Seattle Seahawks,,,15.0,2022,209
+4.0,10:27,3.0,23.0,SEA 33,21.0,6.0,Geno Smith pass complete short left to Travis Homer for 4 yards (tackle by Dre Greenlaw),-0.96,-0.91,15.0,2022,209
+4.0,9:44,4.0,19.0,SEA 37,21.0,6.0,"Michael Dickson punts 50 yards, returned by Ray-Ray McCloud for 9 yards (tackle by Will Dissly and Jon Rhattigan)",-0.91,-0.41,15.0,2022,209
+4.0,9:34,1.0,10.0,SFO 22,21.0,6.0,Christian McCaffrey up the middle for 6 yards (tackle by Ryan Neal),0.41,0.68,15.0,2022,209
+4.0,8:55,2.0,4.0,SFO 28,21.0,6.0,Christian McCaffrey up the middle for 11 yards (tackle by Quandre Diggs),0.68,1.53,15.0,2022,209
+4.0,8:10,1.0,10.0,SFO 39,21.0,6.0,Christian McCaffrey up the middle for 4 yards (tackle by Ryan Neal and Poona Ford),1.53,1.53,15.0,2022,209
+4.0,7:28,2.0,6.0,SFO 43,21.0,6.0,Brock Purdy pass complete deep right to Tyler Kroft for 28 yards (tackle by Quandre Diggs),1.53,3.64,15.0,2022,209
+4.0,6:41,1.0,10.0,SEA 29,21.0,6.0,Christian McCaffrey right tackle for 3 yards (tackle by Tanner Muse),3.64,3.51,15.0,2022,209
+4.0,5:54,2.0,7.0,SEA 26,21.0,6.0,Christian McCaffrey up the middle for 1 yard (tackle by Cody Barton and L.J. Collier),3.51,2.94,15.0,2022,209
+4.0,5:10,3.0,6.0,SEA 25,21.0,6.0,Brock Purdy pass incomplete short middle intended for Brandon Aiyuk,2.94,1.83,15.0,2022,209
+4.0,5:05,4.0,6.0,SEA 25,21.0,6.0,Robbie Gould 43 yard field goal no good,1.83,-1.14,15.0,2022,209
+4.0,5:00,1.0,10.0,SEA 33,21.0,6.0,Geno Smith pass complete short left to D.K. Metcalf for 9 yards (tackle by Jackrabbit Jenkins),1.14,1.81,15.0,2022,209
+4.0,4:43,2.0,1.0,SEA 42,21.0,6.0,Geno Smith pass incomplete short right intended for Marquise Goodwin (defended by Samson Ebukam),1.81,1.09,15.0,2022,209
+4.0,4:39,3.0,1.0,SEA 42,21.0,6.0,Kenneth Walker left guard for 2 yards (tackle by Fred Warner),1.09,1.86,15.0,2022,209
+4.0,4:17,1.0,10.0,SEA 44,21.0,6.0,Geno Smith pass complete short left to Will Dissly for 13 yards (tackle by Tashaun Gipson),1.86,2.72,15.0,2022,209
+4.0,3:49,1.0,10.0,SFO 43,21.0,6.0,Geno Smith pass incomplete short right intended for Tyler Lockett,2.72,2.18,15.0,2022,209
+4.0,3:47,2.0,10.0,SFO 43,21.0,6.0,Geno Smith pass complete short right to Kenneth Walker for 33 yards (tackle by Talanoa Hufanga),2.18,4.91,15.0,2022,209
+4.0,3:39,1.0,10.0,SFO 10,21.0,12.0,"Geno Smith pass complete short middle to Noah Fant for 10 yards, touchdown",4.91,7.0,15.0,2022,209
+4.0,3:35,,,SFO 15,21.0,13.0,Jason Myers kicks extra point good,0.0,0.0,15.0,2022,209
+4.0,3:35,,,SEA 35,21.0,13.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,209
+4.0,3:35,1.0,10.0,SFO 25,21.0,13.0,Christian McCaffrey up the middle for 6 yards (tackle by Ryan Neal and Quandre Diggs),0.61,0.87,15.0,2022,209
+4.0,2:55,2.0,4.0,SFO 31,21.0,13.0,Christian McCaffrey right guard for 3 yards (tackle by Bruce Irvin and Tanner Muse),0.87,0.56,15.0,2022,209
+4.0,2:42,,,,,,Timeout #2 by Seattle Seahawks,,,15.0,2022,209
+4.0,2:42,3.0,1.0,SFO 34,21.0,13.0,"Brock Purdy scrambles right end for 1 yard (tackle by Cody Barton) SEA challenged the first down ruling, and the play was upheld.",0.56,1.27,15.0,2022,209
+4.0,2:16,1.0,10.0,SFO 35,21.0,13.0,Jordan Mason left guard for 6 yards (tackle by Quandre Diggs and Tanner Muse),1.27,1.53,15.0,2022,209
+4.0,2:00,2.0,4.0,SFO 41,21.0,13.0,Jordan Mason right end for 2 yards (tackle by Uchenna Nwosu and Tanner Muse),1.53,1.09,15.0,2022,209
+4.0,1:16,3.0,2.0,SFO 43,21.0,13.0,Jordan Mason up the middle for 55 yards (tackle by Michael Jackson),1.09,6.74,15.0,2022,209
+4.0,1:02,1.0,2.0,SEA 2,21.0,13.0,Brock Purdy kneels for -1 yards,6.74,5.53,15.0,2022,209
+4.0,0:31,2.0,3.0,SEA 3,21.0,13.0,Brock Purdy kneels for -1 yards,5.53,4.49,15.0,2022,209

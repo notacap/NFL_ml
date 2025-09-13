@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,DAL 30,3,1:25,3,Punt,1,Cowboys,10.0,2024,149
+2,1,8:57,DAL 20,1,0:05,-3,Fumble,1,Cowboys,10.0,2024,149
+3,1,7:05,DAL 40,9,3:55,32,Field Goal,1,Cowboys,10.0,2024,149
+4,2,14:55,DAL 20,3,2:06,5,Punt,1,Cowboys,10.0,2024,149
+5,2,9:21,DAL 20,13,6:17,77,Fumble,1,Cowboys,10.0,2024,149
+6,2,2:08,PHI 6,4,0:20,1,Field Goal,1,Cowboys,10.0,2024,149
+7,2,0:23,DAL 30,3,0:22,0,Punt,1,Cowboys,10.0,2024,149
+8,3,13:48,DAL 11,3,2:06,3,Punt,1,Cowboys,10.0,2024,149
+9,3,8:52,DAL 30,3,1:39,5,Punt,1,Cowboys,10.0,2024,149
+10,3,2:56,DAL 30,3,1:53,-9,Fumble,1,Cowboys,10.0,2024,149
+11,4,14:50,DAL 30,5,2:08,13,Fumble,1,Cowboys,10.0,2024,149
+12,4,10:32,DAL 30,2,0:39,11,Interception,1,Cowboys,10.0,2024,149
+13,4,8:07,DAL 21,6,3:04,14,Punt,1,Cowboys,10.0,2024,149

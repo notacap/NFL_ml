@@ -1,0 +1,163 @@
+Quarter,Time,Down,ToGo,Location,JAX,CHI,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Jaguars won the coin toss and deferred, Bears to receive the opening kickoff.",,,6.0,2024,80
+1.0,15:00,,,JAX 35,0.0,0.0,"Cam Little kicks off 65 yards, touchback.. Penalty on Daniel Hardy: Illegal Formation, 5 yards (accepted)",0.0,0.61,6.0,2024,80
+1.0,15:00,1.0,10.0,CHI 25,0.0,0.0,D'Andre Swift right tackle for 2 yards (tackle by Montaric Brown and Ventrell Miller),0.61,0.33,6.0,2024,80
+1.0,14:23,2.0,8.0,CHI 27,0.0,0.0,D'Andre Swift left end for 3 yards (tackle by Chad Muma),0.33,0.04,6.0,2024,80
+1.0,13:46,3.0,5.0,CHI 30,0.0,0.0,Caleb Williams sacked by Roy Robertson-Harris for -1 yards,0.04,-1.44,6.0,2024,80
+1.0,13:04,4.0,6.0,CHI 29,0.0,0.0,"Tory Taylor punts 64 yards, returned by Parker Washington for 14 yards (tackle by Tarvarius Moore)",-1.44,-0.34,6.0,2024,80
+1.0,12:49,1.0,10.0,JAX 21,0.0,0.0,Trevor Lawrence pass complete short left to Brian Thomas for 8 yards (tackle by Jaylon Jones),0.34,0.88,6.0,2024,80
+1.0,12:25,2.0,2.0,JAX 29,0.0,0.0,Travis Etienne up the middle for no gain (tackle by Kyler Gordon),0.88,0.17,6.0,2024,80
+1.0,11:35,3.0,2.0,JAX 29,0.0,0.0,Trevor Lawrence pass complete short right to Gabriel Davis for 5 yards (tackle by Jaylon Johnson),0.17,1.2,6.0,2024,80
+1.0,10:59,1.0,10.0,JAX 34,0.0,0.0,Tank Bigsby left end for 2 yards (tackle by DeMarcus Walker and Montez Sweat),1.2,0.93,6.0,2024,80
+1.0,10:20,2.0,8.0,JAX 36,0.0,0.0,Trevor Lawrence pass complete short left to Evan Engram for 14 yards (tackle by T.J. Edwards and Tremaine Edmunds),0.93,2.26,6.0,2024,80
+1.0,9:37,1.0,10.0,CHI 50,0.0,0.0,Trevor Lawrence scrambles right end for 10 yards (tackle by Jaylon Jones),2.26,2.92,6.0,2024,80
+1.0,8:56,1.0,10.0,CHI 40,0.0,0.0,Trevor Lawrence pass complete short left to Brian Thomas for 13 yards (tackle by Austin Booker and Elijah Hicks),2.92,3.78,6.0,2024,80
+1.0,8:18,1.0,10.0,CHI 27,0.0,0.0,Tank Bigsby left tackle for 8 yards (tackle by Byron Cowart and Tremaine Edmunds),3.78,4.35,6.0,2024,80
+1.0,7:36,2.0,2.0,CHI 19,0.0,0.0,Tank Bigsby left tackle for 1 yard (tackle by Gervon Dexter),4.35,3.84,6.0,2024,80
+1.0,6:58,3.0,1.0,CHI 18,0.0,0.0,"Penalty on Walker Little: False Start, 4 yards (accepted) (no play)",3.84,3.2,6.0,2024,80
+1.0,6:31,3.0,5.0,CHI 22,0.0,0.0,Trevor Lawrence pass complete short middle to Christian Kirk for 14 yards (tackle by Jaylon Jones and Kevin Byard),3.2,5.37,6.0,2024,80
+1.0,5:49,1.0,8.0,CHI 8,0.0,0.0,"Penalty on Gabriel Davis: False Start, 5 yards (accepted) (no play)",5.37,4.53,6.0,2024,80
+1.0,5:29,1.0,13.0,CHI 13,0.0,0.0,D'Ernest Johnson up the middle for 1 yard (tackle by Montez Sweat and Kyler Gordon),4.53,3.86,6.0,2024,80
+1.0,4:51,2.0,12.0,CHI 12,0.0,0.0,Trevor Lawrence pass incomplete short left,3.86,3.1,6.0,2024,80
+1.0,4:45,3.0,12.0,CHI 12,0.0,0.0,Trevor Lawrence pass incomplete short left intended for Gabriel Davis (defended by Elijah Hicks),3.1,2.63,6.0,2024,80
+1.0,4:40,4.0,12.0,CHI 12,3.0,0.0,Cam Little 30 yard field goal good,2.63,3.0,6.0,2024,80
+1.0,4:37,,,JAX 35,3.0,0.0,"Cam Little kicks off 65 yards, touchback.",0.0,0.94,6.0,2024,80
+1.0,4:37,1.0,10.0,CHI 30,3.0,0.0,Caleb Williams pass complete short right to Cole Kmet for 5 yards (tackle by Ventrell Miller),0.94,1.07,6.0,2024,80
+1.0,4:08,2.0,5.0,CHI 35,3.0,0.0,Caleb Williams pass complete short left to D.J. Moore for -2 yards (tackle by Devin Lloyd),1.07,0.1,6.0,2024,80
+1.0,3:19,,,,,,Timeout #1 by Chicago Bears,,,6.0,2024,80
+1.0,3:19,3.0,7.0,CHI 33,3.0,0.0,Caleb Williams pass incomplete short right intended for Roschon Johnson,0.1,-1.18,6.0,2024,80
+1.0,3:16,4.0,7.0,CHI 33,3.0,0.0,"Tory Taylor punts 59 yards, returned by Parker Washington for 13 yards (tackle by Noah Sewell)",-1.18,-0.34,6.0,2024,80
+1.0,3:04,1.0,10.0,JAX 21,3.0,0.0,Travis Etienne left tackle for -2 yards (tackle by Kyler Gordon),0.34,-0.53,6.0,2024,80
+1.0,2:28,2.0,12.0,JAX 19,3.0,0.0,Trevor Lawrence pass complete short right to Evan Engram for 16 yards (tackle by Kevin Byard),-0.53,1.27,6.0,2024,80
+1.0,1:50,1.0,10.0,JAX 35,3.0,0.0,Travis Etienne right end for 1 yard (tackle by T.J. Edwards),1.27,0.86,6.0,2024,80
+1.0,1:12,2.0,9.0,JAX 36,3.0,0.0,Trevor Lawrence sacked by and Byron Cowart for -2 yards and Montez Sweat for -2 yards,0.86,-0.1,6.0,2024,80
+1.0,0:35,3.0,11.0,JAX 34,3.0,0.0,Trevor Lawrence pass complete short left to Evan Engram for 9 yards (tackle by Kyler Gordon and Jaylon Johnson),-0.1,-0.52,6.0,2024,80
+2.0,15:00,4.0,2.0,JAX 43,3.0,0.0,"Penalty on Tim Jones: False Start, 5 yards (accepted) (no play)",-0.52,-0.85,6.0,2024,80
+2.0,15:00,4.0,7.0,JAX 38,3.0,0.0,"Logan Cooke punts 43 yards, fair catch by DeAndre Carter at CHI-19",-0.85,-0.15,6.0,2024,80
+2.0,14:53,1.0,10.0,CHI 19,3.0,0.0,D'Andre Swift left tackle for 12 yards (tackle by Ventrell Miller),0.15,1.0,6.0,2024,80
+2.0,14:23,1.0,10.0,CHI 31,3.0,0.0,"Caleb Williams pass incomplete deep right intended for Rome Odunze. Penalty on Darnell Savage: Defensive Pass Interference, 4 yards (accepted) (no play)",1.0,1.27,6.0,2024,80
+2.0,14:16,1.0,10.0,CHI 35,3.0,0.0,D'Andre Swift left tackle for 3 yards (tackle by Ventrell Miller),1.27,1.13,6.0,2024,80
+2.0,13:50,2.0,7.0,CHI 38,3.0,0.0,Caleb Williams right end for 10 yards (tackle by Ronald Darby),1.13,2.13,6.0,2024,80
+2.0,13:23,1.0,10.0,CHI 48,3.0,0.0,D'Andre Swift up the middle for 6 yards (tackle by Andre Cisco),2.13,2.39,6.0,2024,80
+2.0,12:48,2.0,4.0,JAX 46,3.0,0.0,D'Andre Swift left tackle for -2 yards (tackle by DaVon Hamilton),2.39,1.42,6.0,2024,80
+2.0,12:06,3.0,6.0,JAX 48,3.0,0.0,Caleb Williams pass complete short left to Roschon Johnson for 17 yards (tackle by Ronald Darby and Antonio Johnson),1.42,3.51,6.0,2024,80
+2.0,11:17,1.0,10.0,JAX 31,3.0,6.0,"Caleb Williams pass complete deep middle to Cole Kmet for 31 yards, touchdown",3.51,7.0,6.0,2024,80
+2.0,11:07,,,JAX 15,3.0,7.0,Cairo Santos kicks extra point good,0.0,0.0,6.0,2024,80
+2.0,11:07,,,CHI 35,3.0,7.0,"Cairo Santos kicks off 63 yards, returned by Tank Bigsby for 41 yards (tackle by Khari Blasingame)",0.0,1.8,6.0,2024,80
+2.0,11:01,1.0,10.0,JAX 43,3.0,7.0,"Trevor Lawrence pass complete short middle to Travis Etienne for no gain. Travis Etienne fumbles (forced by Tremaine Edmunds), recovered by Tremaine Edmunds at JAC-48 Replay Assistant challenged the fumble ruling, and the original play was overturned. Trevor Lawrence pass incomplete short middle intended for Travis Etienne (defended by Tremaine Edmunds)",1.8,1.25,6.0,2024,80
+2.0,10:56,2.0,10.0,JAX 43,3.0,7.0,Trevor Lawrence pass complete short right to D'Ernest Johnson for 2 yards (tackle by Kevin Byard),1.25,0.83,6.0,2024,80
+2.0,10:15,3.0,8.0,JAX 45,3.0,7.0,Trevor Lawrence scrambles left end for 4 yards (tackle by Kevin Byard and Kyler Gordon),0.83,-0.13,6.0,2024,80
+2.0,9:42,4.0,4.0,JAX 49,3.0,7.0,Logan Cooke punts 46 yards out of bounds,-0.13,0.38,6.0,2024,80
+2.0,9:26,1.0,10.0,CHI 5,3.0,7.0,Caleb Williams right end for 4 yards (tackle by Ventrell Miller),-0.38,-0.49,6.0,2024,80
+2.0,9:08,2.0,6.0,CHI 9,3.0,7.0,D'Andre Swift left tackle for 1 yard (tackle by DaVon Hamilton),-0.49,-0.84,6.0,2024,80
+2.0,8:26,3.0,5.0,CHI 10,3.0,7.0,Caleb Williams pass complete short left to Roschon Johnson for 8 yards (tackle by Andre Cisco),-0.84,0.04,6.0,2024,80
+2.0,7:56,1.0,10.0,CHI 18,3.0,7.0,Roschon Johnson right end for 4 yards (tackle by Ventrell Miller and Devin Lloyd),0.04,0.14,6.0,2024,80
+2.0,7:15,2.0,6.0,CHI 22,3.0,7.0,Caleb Williams pass complete deep middle to Rome Odunze for 28 yards (tackle by Devin Lloyd),0.14,2.26,6.0,2024,80
+2.0,6:47,1.0,10.0,CHI 50,3.0,7.0,Caleb Williams pass complete short left to D.J. Moore for 9 yards (tackle by Chad Muma and Montaric Brown),2.26,2.93,6.0,2024,80
+2.0,6:22,2.0,1.0,JAX 41,3.0,7.0,Roschon Johnson up the middle for no gain (tackle by Arik Armstead),2.93,2.21,6.0,2024,80
+2.0,5:39,3.0,1.0,JAX 41,3.0,7.0,Caleb Williams pass deep left intended for D.J. Moore is intercepted by Andre Cisco at JAC-7 and returned for 22 yards (tackle by Roschon Johnson),2.21,-0.87,6.0,2024,80
+2.0,5:10,1.0,10.0,JAX 29,3.0,7.0,Tank Bigsby left tackle for 2 yards (tackle by DeMarcus Walker),0.87,0.6,6.0,2024,80
+2.0,4:41,2.0,8.0,JAX 31,3.0,7.0,Tank Bigsby right tackle for 5 yards (tackle by Tremaine Edmunds),0.6,0.56,6.0,2024,80
+2.0,3:55,3.0,3.0,JAX 36,3.0,7.0,Trevor Lawrence pass complete short left to Evan Engram for 1 yard (tackle by Kyler Gordon),0.56,-0.91,6.0,2024,80
+2.0,3:22,4.0,2.0,JAX 37,3.0,7.0,Logan Cooke punts 48 yards out of bounds,-0.91,0.22,6.0,2024,80
+2.0,3:08,1.0,10.0,CHI 15,3.0,7.0,D'Andre Swift up the middle for 1 yard (tackle by Andre Cisco and Devin Lloyd),-0.22,-0.58,6.0,2024,80
+2.0,2:44,2.0,9.0,CHI 16,3.0,7.0,D'Andre Swift left end for 10 yards (tackle by Darnell Savage),-0.58,0.67,6.0,2024,80
+2.0,2:11,1.0,10.0,CHI 26,3.0,7.0,Caleb Williams scrambles right end for 23 yards (tackle by Chad Muma),0.67,2.19,6.0,2024,80
+2.0,1:56,1.0,10.0,CHI 49,3.0,7.0,Caleb Williams pass complete short middle to Rome Odunze for 12 yards (tackle by Ronald Darby),2.19,2.98,6.0,2024,80
+2.0,1:16,1.0,10.0,JAX 39,3.0,7.0,Caleb Williams pass complete short right to Cole Kmet for 5 yards (tackle by Ronald Darby),2.98,3.12,6.0,2024,80
+2.0,0:51,2.0,5.0,JAX 34,3.0,7.0,Caleb Williams pass incomplete short left,3.12,2.41,6.0,2024,80
+2.0,0:46,3.0,5.0,JAX 34,3.0,7.0,Caleb Williams pass complete short right to Keenan Allen for 10 yards (tackle by Ronald Darby),2.41,3.97,6.0,2024,80
+2.0,0:35,,,,,,Timeout #2 by Chicago Bears,,,6.0,2024,80
+2.0,0:35,1.0,10.0,JAX 24,3.0,7.0,Caleb Williams pass complete short left to D'Andre Swift for 3 yards (tackle by Montaric Brown),3.97,3.84,6.0,2024,80
+2.0,0:28,2.0,7.0,JAX 21,3.0,7.0,Caleb Williams scrambles left end for 19 yards (tackle by Montaric Brown),3.84,6.74,6.0,2024,80
+2.0,0:17,,,,,,Timeout #3 by Chicago Bears,,,6.0,2024,80
+2.0,0:17,1.0,2.0,JAX 2,3.0,13.0,"Caleb Williams pass complete short right to Cole Kmet for 2 yards, touchdown",6.74,7.0,6.0,2024,80
+2.0,0:13,,,JAX 15,3.0,14.0,Cairo Santos kicks extra point good,0.0,0.0,6.0,2024,80
+2.0,0:13,,,CHI 35,3.0,14.0,"Cairo Santos kicks off 61 yards, returned by Tim Jones for 23 yards (tackle by Daniel Hardy)",0.0,0.74,6.0,2024,80
+2.0,0:06,1.0,10.0,JAX 27,3.0,14.0,Trevor Lawrence kneels for -1 yards,0.74,0.06,6.0,2024,80
+3.0,15:00,,,CHI 35,3.0,14.0,"Cairo Santos kicks off 64 yards, returned by Tank Bigsby for 33 yards (tackle by Jonathan Owens)",0.0,1.2,6.0,2024,80
+3.0,14:56,1.0,10.0,JAX 34,3.0,14.0,"Trevor Lawrence pass complete deep right to Evan Engram for 24 yards. Evan Engram fumbles (tackle by Jaylon Jones), recovered by Elijah Hicks at CHI-40 and returned for 19 yards (tackle by Trevor Lawrence)",1.2,-2.85,6.0,2024,80
+3.0,14:40,1.0,10.0,JAX 41,3.0,14.0,Caleb Williams pass complete short left to D'Andre Swift for no gain (tackle by Montaric Brown and Chad Muma),2.85,2.31,6.0,2024,80
+3.0,14:17,2.0,10.0,JAX 41,3.0,14.0,D'Andre Swift right tackle for 2 yards (tackle by Devin Lloyd and Travon Walker),2.31,1.88,6.0,2024,80
+3.0,13:31,3.0,8.0,JAX 39,3.0,14.0,Caleb Williams pass complete short left to Keenan Allen for 11 yards (tackle by Darnell Savage),1.88,3.71,6.0,2024,80
+3.0,13:13,1.0,10.0,JAX 28,3.0,14.0,Caleb Williams pass complete short middle to D'Andre Swift for 19 yards (tackle by Ronald Darby and Devin Lloyd),3.71,5.14,6.0,2024,80
+3.0,12:46,1.0,9.0,JAX 9,3.0,14.0,Caleb Williams pass complete short left to D.J. Moore for 5 yards (tackle by Andre Cisco),5.14,5.34,6.0,2024,80
+3.0,11:55,2.0,4.0,JAX 4,3.0,14.0,Caleb Williams pass incomplete short right,5.34,4.49,6.0,2024,80
+3.0,11:50,3.0,4.0,JAX 4,3.0,14.0,Caleb Williams pass complete short right to Keenan Allen for no gain (tackle by Antonio Johnson) (no play),4.49,3.36,6.0,2024,80
+3.0,11:26,3.0,9.0,JAX 9,3.0,20.0,"Caleb Williams pass complete short middle to Keenan Allen for 9 yards, touchdown",3.36,7.0,6.0,2024,80
+3.0,11:22,,,JAX 15,3.0,21.0,Cairo Santos kicks extra point good,0.0,0.0,6.0,2024,80
+3.0,11:22,,,CHI 35,3.0,21.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.94,6.0,2024,80
+3.0,11:22,1.0,10.0,JAX 30,3.0,21.0,Tank Bigsby right guard for 2 yards (tackle by Kyler Gordon and T.J. Edwards),0.94,0.66,6.0,2024,80
+3.0,10:46,2.0,8.0,JAX 32,3.0,21.0,Trevor Lawrence scrambles left end for 4 yards (tackle by Andrew Billings),0.66,0.5,6.0,2024,80
+3.0,10:18,3.0,4.0,JAX 36,3.0,21.0,Trevor Lawrence pass complete short right to Christian Kirk for 15 yards (tackle by Elijah Hicks),0.5,2.32,6.0,2024,80
+3.0,10:00,1.0,10.0,CHI 49,3.0,21.0,D'Ernest Johnson right end for 4 yards (tackle by DeMarcus Walker and Darrell Taylor),2.32,2.39,6.0,2024,80
+3.0,9:20,2.0,5.0,CHI 45,3.0,21.0,Trevor Lawrence pass incomplete deep right intended for Brian Thomas (defended by T.J. Edwards),2.39,1.69,6.0,2024,80
+3.0,9:11,3.0,5.0,CHI 45,3.0,21.0,Trevor Lawrence pass complete short right to Evan Engram for 9 yards (tackle by Jaylon Jones),1.69,3.18,6.0,2024,80
+3.0,8:33,1.0,10.0,CHI 36,3.0,21.0,Trevor Lawrence pass complete short middle to Evan Engram for 13 yards (tackle by Kevin Byard and Elijah Hicks),3.18,4.04,6.0,2024,80
+3.0,8:03,1.0,10.0,CHI 23,3.0,21.0,Trevor Lawrence pass complete short left to Gabriel Davis for 8 yards (tackle by Jaylon Jones and Elijah Hicks),4.04,4.75,6.0,2024,80
+3.0,7:20,2.0,2.0,CHI 15,3.0,21.0,Trevor Lawrence pass incomplete short right intended for Brenton Strange (defended by Kevin Byard),4.75,4.05,6.0,2024,80
+3.0,7:13,3.0,2.0,CHI 15,3.0,21.0,Tank Bigsby right guard for 4 yards (tackle by Tremaine Edmunds),4.05,4.84,6.0,2024,80
+3.0,6:33,1.0,10.0,CHI 11,3.0,21.0,"Tank Bigsby left end for no gain (tackle by Kevin Byard). Penalty on Josiah Deguara: Offensive Holding, 10 yards (accepted) (no play)",4.84,4.17,6.0,2024,80
+3.0,6:08,1.0,20.0,CHI 21,9.0,21.0,"Trevor Lawrence pass complete deep left to Gabriel Davis for 21 yards, touchdown",4.17,7.0,6.0,2024,80
+3.0,6:02,,,CHI 15,10.0,21.0,Cam Little kicks extra point good,0.0,0.0,6.0,2024,80
+3.0,6:02,,,JAX 35,10.0,21.0,"Cam Little kicks off 65 yards, touchback.",0.0,0.94,6.0,2024,80
+3.0,6:02,1.0,10.0,CHI 30,10.0,21.0,D'Andre Swift right end for 8 yards (tackle by Devin Lloyd),0.94,1.47,6.0,2024,80
+3.0,5:29,2.0,2.0,CHI 38,10.0,21.0,Caleb Williams pass complete short right to Marcedes Lewis for 2 yards (tackle by Antonio Johnson),1.47,1.6,6.0,2024,80
+3.0,4:30,1.0,10.0,CHI 40,10.0,21.0,Caleb Williams sacked by and Josh Hines-Allen for -4 yards and Esezi Otomewo for -4 yards,1.6,0.51,6.0,2024,80
+3.0,3:41,2.0,14.0,CHI 36,10.0,21.0,Caleb Williams pass complete short left to D'Andre Swift for 6 yards (tackle by Montaric Brown),0.51,0.63,6.0,2024,80
+3.0,3:17,3.0,8.0,CHI 42,10.0,21.0,Caleb Williams sacked by Travon Walker for no gain (no play),0.63,1.29,6.0,2024,80
+3.0,2:50,3.0,3.0,CHI 47,10.0,21.0,"Caleb Williams pass incomplete short right. Penalty on Ronald Darby: Defensive Holding, 5 yards (accepted) (no play)",1.29,2.39,6.0,2024,80
+3.0,2:43,1.0,10.0,JAX 48,10.0,21.0,D'Andre Swift right end for 17 yards (tackle by Ronald Darby),2.39,3.51,6.0,2024,80
+3.0,1:58,1.0,10.0,JAX 31,10.0,21.0,Caleb Williams sacked by Maason Smith for no gain,3.51,2.97,6.0,2024,80
+3.0,1:12,2.0,10.0,JAX 31,10.0,21.0,Caleb Williams pass incomplete short right,2.97,2.28,6.0,2024,80
+3.0,1:07,3.0,10.0,JAX 31,10.0,21.0,"Caleb Williams pass complete short left to Roschon Johnson for no gain (tackle by Andre Cisco). Penalty on Ronald Darby: Defensive Holding, 5 yards (accepted) (no play)",2.28,3.84,6.0,2024,80
+3.0,0:55,1.0,10.0,JAX 26,10.0,21.0,D'Andre Swift right guard for 19 yards (tackle by Devin Lloyd and Antonio Johnson),3.84,5.6,6.0,2024,80
+3.0,0:25,1.0,7.0,JAX 7,10.0,21.0,D'Andre Swift right tackle for 4 yards (tackle by Devin Lloyd and Andre Cisco),5.6,5.53,6.0,2024,80
+4.0,15:00,2.0,3.0,JAX 3,10.0,27.0,"Caleb Williams pass complete short left to Keenan Allen for 3 yards, touchdown",5.53,7.0,6.0,2024,80
+4.0,14:56,,,JAX 15,10.0,28.0,Cairo Santos kicks extra point good,0.0,0.0,6.0,2024,80
+4.0,14:56,,,CHI 35,10.0,28.0,"Cairo Santos kicks off 65 yards, returned by Tank Bigsby for 28 yards. Tank Bigsby fumbles (forced by Daniel Hardy), recovered by Esezi Otomewo at JAC-35",0.0,1.27,6.0,2024,80
+4.0,14:46,1.0,10.0,JAX 35,10.0,28.0,Trevor Lawrence pass complete short left to Evan Engram for 7 yards (tackle by Jaylon Jones),1.27,1.67,6.0,2024,80
+4.0,14:35,2.0,3.0,JAX 42,10.0,28.0,Trevor Lawrence sacked by Chris Williams for -10 yards,1.67,-0.36,6.0,2024,80
+4.0,14:01,3.0,13.0,JAX 32,10.0,28.0,Trevor Lawrence pass short middle intended for Christian Kirk is intercepted by Josh Blackwell at JAC-46 and returned for 10 yards (tackle by Christian Kirk),-0.36,-3.18,6.0,2024,80
+4.0,13:35,1.0,10.0,JAX 36,10.0,28.0,Caleb Williams pass complete short right to Cole Kmet for 27 yards (tackle by Ronald Darby),3.18,5.14,6.0,2024,80
+4.0,12:58,1.0,9.0,JAX 9,10.0,28.0,"Caleb Williams pass complete short left to D.J. Moore for no gain, touchdown Replay Assistant challenged the runner broke the plane ruling, and the original play was overturned. Caleb Williams pass complete short left to D.J. Moore for 8 yards (tackle by Ventrell Miller and Andre Cisco)",5.14,5.91,6.0,2024,80
+4.0,12:33,2.0,1.0,JAX 1,10.0,34.0,"D'Andre Swift up the middle for 1 yard, touchdown",5.91,7.0,6.0,2024,80
+4.0,12:29,,,JAX 15,10.0,35.0,Cairo Santos kicks extra point good,0.0,0.0,6.0,2024,80
+4.0,12:29,,,CHI 35,10.0,35.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.94,6.0,2024,80
+4.0,12:29,1.0,10.0,JAX 30,10.0,35.0,Trevor Lawrence sacked by DeMarcus Walker for -8 yards,0.94,-0.69,6.0,2024,80
+4.0,11:52,2.0,18.0,JAX 22,10.0,35.0,D'Ernest Johnson right tackle for 13 yards (tackle by Tremaine Edmunds and Kevin Byard),-0.69,0.37,6.0,2024,80
+4.0,11:20,3.0,5.0,JAX 35,10.0,35.0,Trevor Lawrence pass complete short right to Gabriel Davis for 6 yards (tackle by Jaylon Jones),0.37,1.66,6.0,2024,80
+4.0,10:51,1.0,10.0,JAX 41,10.0,35.0,Trevor Lawrence pass incomplete deep left intended for Christian Kirk,1.66,1.12,6.0,2024,80
+4.0,10:43,2.0,10.0,JAX 41,10.0,35.0,Trevor Lawrence pass complete short right to D'Ernest Johnson for 14 yards (tackle by Kevin Byard),1.12,2.59,6.0,2024,80
+4.0,10:18,1.0,10.0,CHI 45,10.0,35.0,Trevor Lawrence pass complete short left to Evan Engram for 6 yards (tackle by Jaylon Jones and T.J. Edwards),2.59,2.85,6.0,2024,80
+4.0,9:59,2.0,4.0,CHI 39,10.0,35.0,Trevor Lawrence pass complete short left to Evan Engram for 3 yards (tackle by Josh Blackwell),2.85,2.54,6.0,2024,80
+4.0,9:25,3.0,1.0,CHI 36,10.0,35.0,Trevor Lawrence pass incomplete deep right intended for Gabriel Davis (defended by Jaylon Johnson),2.54,0.89,6.0,2024,80
+4.0,9:08,4.0,1.0,CHI 36,10.0,35.0,D'Ernest Johnson right tackle for 7 yards (tackle by Elijah Hicks and T.J. Edwards),0.89,3.64,6.0,2024,80
+4.0,8:43,1.0,10.0,CHI 29,10.0,35.0,Trevor Lawrence pass complete short left to Brenton Strange for 11 yards (tackle by T.J. Edwards and Jaylon Jones),3.64,4.37,6.0,2024,80
+4.0,8:26,1.0,10.0,CHI 18,10.0,35.0,D'Ernest Johnson right guard for 3 yards (tackle by Austin Booker),4.37,4.25,6.0,2024,80
+4.0,7:44,2.0,7.0,CHI 15,10.0,35.0,Trevor Lawrence pass incomplete short right intended for Brian Thomas,4.25,3.46,6.0,2024,80
+4.0,7:39,3.0,7.0,CHI 15,10.0,35.0,Trevor Lawrence pass complete short right to Christian Kirk for 10 yards (tackle by Tremaine Edmunds),3.46,6.06,6.0,2024,80
+4.0,7:17,1.0,5.0,CHI 5,10.0,35.0,Trevor Lawrence pass incomplete short right intended for Brian Thomas,6.06,5.15,6.0,2024,80
+4.0,7:14,2.0,5.0,CHI 5,10.0,35.0,Trevor Lawrence pass incomplete short middle intended for Gabriel Davis,5.15,4.26,6.0,2024,80
+4.0,7:07,3.0,5.0,CHI 5,10.0,35.0,Trevor Lawrence pass incomplete short left intended for Christian Kirk,4.26,3.01,6.0,2024,80
+4.0,7:03,4.0,5.0,CHI 5,16.0,35.0,"Trevor Lawrence pass complete short right to Gabriel Davis for 5 yards, touchdown",3.01,7.0,6.0,2024,80
+4.0,6:58,,,CHI 2,16.0,35.0,Two Point Attempt: Trevor Lawrence pass incomplete intended for intended for Evan Engram,1.0,-1.0,6.0,2024,80
+4.0,6:58,,,JAX 35,16.0,35.0,"Cam Little kicks onside 9 yards, returned by Khalil Herbert for no gain",0.0,2.65,6.0,2024,80
+4.0,6:57,1.0,10.0,JAX 44,16.0,35.0,D'Andre Swift left end for 3 yards (tackle by Ventrell Miller),2.65,2.52,6.0,2024,80
+4.0,6:17,2.0,7.0,JAX 41,16.0,35.0,Caleb Williams pass incomplete short right intended for Gerald Everett (defended by Maason Smith),2.52,1.82,6.0,2024,80
+4.0,6:15,3.0,7.0,JAX 41,16.0,35.0,"D'Andre Swift right end for 1 yard. D'Andre Swift fumbles (forced by Ventrell Miller), recovered by Teven Jenkins at JAC-37",1.82,0.79,6.0,2024,80
+4.0,6:07,,,,,,Timeout #1 by Jacksonville Jaguars,,,6.0,2024,80
+4.0,6:07,,,,,,Timeout #1 by Chicago Bears,,,6.0,2024,80
+4.0,6:07,4.0,3.0,JAX 37,16.0,35.0,Caleb Williams pass complete short left to Keenan Allen for 8 yards (tackle by Montaric Brown),0.79,3.64,6.0,2024,80
+4.0,5:30,1.0,10.0,JAX 29,16.0,35.0,Roschon Johnson left guard for 3 yards (tackle by Ventrell Miller),3.64,3.51,6.0,2024,80
+4.0,4:53,2.0,7.0,JAX 26,16.0,35.0,Roschon Johnson left end for 1 yard (tackle by Esezi Otomewo and Antonio Johnson),3.51,2.94,6.0,2024,80
+4.0,4:13,3.0,6.0,JAX 25,16.0,35.0,Roschon Johnson left guard for no gain (tackle by Andre Cisco and Jordan Jefferson),2.94,1.83,6.0,2024,80
+4.0,3:25,,,,,,Timeout #2 by Chicago Bears,,,6.0,2024,80
+4.0,3:25,4.0,6.0,JAX 25,16.0,35.0,Cairo Santos 43 yard field goal no good blocked by Roy Robertson-Harris,1.83,-1.14,6.0,2024,80
+4.0,3:21,1.0,10.0,JAX 33,16.0,35.0,D'Ernest Johnson right tackle for no gain (tackle by Austin Booker),1.14,0.59,6.0,2024,80
+4.0,2:51,2.0,10.0,JAX 33,16.0,35.0,Mac Jones pass complete short right to Brian Thomas for 6 yards (tackle by Jack Sanborn),0.59,0.7,6.0,2024,80
+4.0,2:22,3.0,4.0,JAX 39,16.0,35.0,Mac Jones sacked by Amen Ogbongbemiga for -10 yards,0.7,-1.44,6.0,2024,80
+4.0,2:00,4.0,14.0,JAX 29,16.0,35.0,"Logan Cooke punts 56 yards, fair catch by DeAndre Carter at CHI-15",-1.44,0.22,6.0,2024,80
+4.0,1:52,1.0,10.0,CHI 15,16.0,35.0,Tyson Bagent kneels for -1 yards,-0.22,-0.82,6.0,2024,80
+4.0,1:14,2.0,11.0,CHI 14,16.0,35.0,Tyson Bagent kneels for -1 yards,-0.82,-1.64,6.0,2024,80
+4.0,0:36,3.0,12.0,CHI 13,16.0,35.0,Tyson Bagent kneels for -1 yards,-1.64,-2.49,6.0,2024,80

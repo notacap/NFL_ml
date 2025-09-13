@@ -1,0 +1,156 @@
+Quarter,Time,Down,ToGo,Location,NYJ,MIA,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Jets won the coin toss and deferred, Dolphins to receive the opening kickoff.",,,15.0,2023,218
+1.0,15:00,,,NYJ 35,0.0,0.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,218
+1.0,15:00,1.0,10.0,MIA 25,0.0,0.0,Tua Tagovailoa pass complete short right to Jaylen Waddle for 8 yards (tackle by Sauce Gardner and Jordan Whitehead),0.61,1.14,15.0,2023,218
+1.0,14:19,2.0,2.0,MIA 33,0.0,0.0,Tua Tagovailoa pass complete short left to Jaylen Waddle for 13 yards (tackle by C.J. Mosley),1.14,1.99,15.0,2023,218
+1.0,13:40,1.0,10.0,MIA 46,0.0,0.0,Raheem Mostert right end for 1 yard (tackle by Quincy Williams),1.99,1.59,15.0,2023,218
+1.0,12:58,2.0,9.0,MIA 47,0.0,0.0,"Tua Tagovailoa pass complete deep right to Jaylen Waddle for no gain (tackle by Sauce Gardner). Penalty on Austin Jackson: Offensive Holding, 10 yards (accepted) (no play)",1.59,0.24,15.0,2023,218
+1.0,12:40,2.0,19.0,MIA 37,0.0,0.0,Tua Tagovailoa pass complete short right to Raheem Mostert for 1 yard (tackle by Quincy Williams),0.24,-0.3,15.0,2023,218
+1.0,11:58,3.0,18.0,MIA 38,0.0,0.0,Tua Tagovailoa pass complete short left to De'Von Achane for 12 yards (tackle by D.J. Reed and Jordan Whitehead),-0.3,-0.06,15.0,2023,218
+1.0,11:18,4.0,6.0,MIA 50,0.0,0.0,"Jake Bailey punts 38 yards, fair catch by Xavier Gipson at NYJ-12",-0.06,0.35,15.0,2023,218
+1.0,11:10,1.0,10.0,NYJ 12,0.0,0.0,Breece Hall right guard for 5 yards (tackle by Bradley Chubb),-0.35,-0.23,15.0,2023,218
+1.0,10:33,2.0,5.0,NYJ 17,0.0,0.0,Breece Hall left guard for -1 yards (tackle by Bradley Chubb),-0.23,-0.95,15.0,2023,218
+1.0,9:51,3.0,6.0,NYJ 16,0.0,0.0,Zach Wilson pass complete short right to Xavier Gipson for 8 yards,-0.95,0.54,15.0,2023,218
+1.0,9:13,1.0,10.0,NYJ 24,0.0,0.0,"Zach Wilson sacked by and Bradley Chubb for -20 yards and Christian Wilkins for -20 yards. Zach Wilson fumbles (forced by Bradley Chubb), recovered by Zach Sieler at NYJ-4 and returned for 3 yards (tackle by Laken Tomlinson)",0.54,-6.97,15.0,2023,218
+1.0,9:05,1.0,1.0,NYJ 1,0.0,0.0,Raheem Mostert up the middle for no gain (tackle by John Franklin-Myers and Quincy Williams),6.97,5.91,15.0,2023,218
+1.0,8:23,2.0,1.0,NYJ 1,0.0,0.0,Raheem Mostert left tackle for -1 yards (tackle by Tony Adams),5.91,4.95,15.0,2023,218
+1.0,7:41,3.0,2.0,NYJ 2,0.0,6.0,"Raheem Mostert left end for 2 yards, touchdown",4.95,7.0,15.0,2023,218
+1.0,7:37,,,NYJ 15,0.0,7.0,Jason Sanders kicks extra point good,0.0,0.0,15.0,2023,218
+1.0,7:37,,,MIA 35,0.0,7.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,218
+1.0,7:37,1.0,10.0,NYJ 25,0.0,7.0,Zach Wilson pass incomplete short middle,0.61,0.06,15.0,2023,218
+1.0,7:33,2.0,10.0,NYJ 25,0.0,7.0,Dalvin Cook right guard for 4 yards (tackle by Bradley Chubb),0.06,-0.1,15.0,2023,218
+1.0,6:50,3.0,6.0,NYJ 29,0.0,7.0,"Zach Wilson pass complete short middle to Tyler Conklin for 7 yards (tackle by Nik Needham). Penalty on Jalen Ramsey: Illegal Contact, 5 yards (declined)",-0.1,1.33,15.0,2023,218
+1.0,6:29,1.0,10.0,NYJ 36,0.0,7.0,Zach Wilson pass incomplete short right intended for Tyler Conklin (defended by Andrew Van Ginkel),1.33,0.79,15.0,2023,218
+1.0,6:22,2.0,10.0,NYJ 36,0.0,7.0,Zach Wilson pass complete short middle to Dalvin Cook for 6 yards (tackle by Brandon Jones),0.79,0.89,15.0,2023,218
+1.0,5:34,3.0,4.0,NYJ 42,0.0,7.0,Zach Wilson pass incomplete short right intended for Xavier Gipson (defended by Eli Apple),0.89,-0.59,15.0,2023,218
+1.0,5:29,4.0,4.0,NYJ 42,0.0,7.0,Ashtyn Davis up the middle for -1 yards (tackle by Christian Wilkins and Raekwon Davis),-0.59,-2.85,15.0,2023,218
+1.0,5:23,1.0,10.0,NYJ 41,0.0,7.0,Tua Tagovailoa pass complete short right to Chase Claypool for 5 yards (tackle by Jermaine Johnson),2.85,2.98,15.0,2023,218
+1.0,4:42,2.0,5.0,NYJ 36,0.0,7.0,De'Von Achane left end for 2 yards (tackle by Quinnen Williams),2.98,2.54,15.0,2023,218
+1.0,3:57,3.0,3.0,NYJ 34,0.0,7.0,Tua Tagovailoa pass complete short right to De'Von Achane for 5 yards (tackle by Quincy Williams),2.54,3.64,15.0,2023,218
+1.0,3:21,1.0,10.0,NYJ 29,0.0,7.0,De'Von Achane up the middle for 3 yards (tackle by Bryce Huff and Micheal Clemons),3.64,3.51,15.0,2023,218
+1.0,2:38,2.0,7.0,NYJ 26,0.0,7.0,Tua Tagovailoa pass complete short middle to Durham Smythe for 7 yards (tackle by Jamien Sherwood),3.51,4.31,15.0,2023,218
+1.0,1:53,,,,,,Timeout #1 by Miami Dolphins,,,15.0,2023,218
+1.0,1:53,1.0,10.0,NYJ 19,0.0,7.0,De'Von Achane up the middle for 5 yards (tackle by Sauce Gardner),4.31,4.53,15.0,2023,218
+1.0,1:13,2.0,5.0,NYJ 14,0.0,7.0,"De'Von Achane right tackle for no gain (tackle by Jordan Whitehead and Jermaine Johnson). Penalty on Robbie Chosen: Offensive Offside, 5 yards (accepted) (no play)",4.53,3.75,15.0,2023,218
+1.0,0:56,2.0,10.0,NYJ 19,0.0,7.0,Tua Tagovailoa pass complete short left to Raheem Mostert for no gain (tackle by C.J. Mosley),3.75,3.03,15.0,2023,218
+1.0,0:08,3.0,10.0,NYJ 19,0.0,7.0,"Penalty on Raheem Mostert: False Start, 5 yards (accepted) (no play)",3.03,2.41,15.0,2023,218
+2.0,15:00,3.0,15.0,NYJ 24,0.0,7.0,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 10 yards (tackle by Sauce Gardner),2.41,2.64,15.0,2023,218
+2.0,14:12,4.0,4.0,NYJ 13,0.0,7.0,"Penalty on MIA: Delay of Game, 5 yards (accepted) (no play)",2.64,2.25,15.0,2023,218
+2.0,14:00,4.0,9.0,NYJ 18,0.0,10.0,Jason Sanders 37 yard field goal good,2.25,3.0,15.0,2023,218
+2.0,13:56,,,MIA 35,0.0,10.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,218
+2.0,13:56,1.0,10.0,NYJ 25,0.0,10.0,Breece Hall right tackle for 1 yard (tackle by Christian Wilkins and David Long),0.61,0.2,15.0,2023,218
+2.0,13:18,2.0,9.0,NYJ 26,0.0,10.0,Zach Wilson sacked by Bradley Chubb for -10 yards,0.2,-2.14,15.0,2023,218
+2.0,12:33,3.0,19.0,NYJ 16,0.0,10.0,"Penalty on NYJ: Delay of Game, 5 yards (accepted) (no play)",-2.14,-3.06,15.0,2023,218
+2.0,12:18,3.0,24.0,NYJ 11,0.0,10.0,Breece Hall right tackle for 3 yards (tackle by Andrew Van Ginkel and David Long),-3.06,-2.47,15.0,2023,218
+2.0,11:38,4.0,21.0,NYJ 14,0.0,10.0,"Thomas Morstead punts 47 yards, returned by Braxton Berrios for 12 yards (tackle by Thomas Hennessy and Ashtyn Davis)",-2.47,-2.32,15.0,2023,218
+2.0,11:29,1.0,10.0,NYJ 49,0.0,10.0,Raheem Mostert right end for 2 yards (tackle by Jordan Whitehead and John Franklin-Myers),2.32,2.05,15.0,2023,218
+2.0,10:49,2.0,8.0,NYJ 47,0.0,10.0,Tua Tagovailoa pass complete short left to Durham Smythe for 5 yards (tackle by Michael Carter),2.05,2.02,15.0,2023,218
+2.0,10:03,3.0,3.0,NYJ 42,0.0,10.0,Tua Tagovailoa sacked by and Quinnen Williams for -8 yards and Will McDonald for -8 yards,2.02,-0.06,15.0,2023,218
+2.0,9:24,4.0,11.0,NYJ 50,0.0,10.0,"Jake Bailey punts 41 yards, fair catch by Xavier Gipson at NYJ-9",-0.06,0.38,15.0,2023,218
+2.0,9:19,1.0,10.0,NYJ 9,0.0,10.0,Breece Hall left guard for 3 yards (tackle by Duke Riley and David Long),-0.38,-0.56,15.0,2023,218
+2.0,8:43,2.0,7.0,NYJ 12,0.0,10.0,Zach Wilson pass incomplete short middle,-0.56,-1.07,15.0,2023,218
+2.0,8:37,3.0,7.0,NYJ 12,0.0,10.0,Zach Wilson sacked by Zach Sieler for -6 yards,-1.07,-2.49,15.0,2023,218
+2.0,7:57,4.0,13.0,NYJ 6,0.0,10.0,Thomas Morstead punts 54 yards out of bounds,-2.49,-1.6,15.0,2023,218
+2.0,7:51,1.0,10.0,MIA 40,0.0,16.0,"Tua Tagovailoa pass complete deep left to Jaylen Waddle for 60 yards, touchdown",1.6,7.0,15.0,2023,218
+2.0,7:42,,,NYJ 15,0.0,17.0,Jason Sanders kicks extra point good,0.0,0.0,15.0,2023,218
+2.0,7:42,,,MIA 35,0.0,17.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,218
+2.0,7:42,1.0,10.0,NYJ 25,0.0,17.0,Zach Wilson pass incomplete short middle,0.61,0.06,15.0,2023,218
+2.0,7:36,2.0,10.0,NYJ 25,0.0,17.0,Zach Wilson pass complete short right to Allen Lazard for 5 yards (tackle by Eli Apple),0.06,0.04,15.0,2023,218
+2.0,6:57,3.0,5.0,NYJ 30,0.0,17.0,"Zach Wilson pass complete to Breece Hall for no gain. Penalty on Eli Apple: Illegal Contact, 5 yards (accepted) (no play)",0.04,1.27,15.0,2023,218
+2.0,6:31,1.0,10.0,NYJ 35,0.0,17.0,Zach Wilson pass incomplete deep left intended for Allen Lazard (defended by Elijah Campbell),1.27,0.72,15.0,2023,218
+2.0,6:25,2.0,10.0,NYJ 35,0.0,17.0,Zach Wilson sacked by and Duke Riley for -1 yards and Emmanuel Ogbah for -1 yards,0.72,-0.1,15.0,2023,218
+2.0,5:43,3.0,11.0,NYJ 34,0.0,17.0,Zach Wilson pass incomplete short right intended for Breece Hall,-0.1,-1.11,15.0,2023,218
+2.0,5:37,4.0,11.0,NYJ 34,0.0,17.0,"Thomas Morstead punts 59 yards, returned by Braxton Berrios for 13 yards (tackle by Justin Hardee)",-1.11,-0.28,15.0,2023,218
+2.0,5:27,1.0,10.0,MIA 20,0.0,17.0,Raheem Mostert left end for 3 yards (tackle by Quinnen Williams),0.28,0.14,15.0,2023,218
+2.0,4:43,2.0,7.0,MIA 23,0.0,17.0,Tua Tagovailoa pass complete short right to Cedrick Wilson for 3 yards (tackle by Michael Carter),0.14,-0.16,15.0,2023,218
+2.0,4:00,3.0,4.0,MIA 26,0.0,17.0,"Tua Tagovailoa pass complete short right to Jaylen Waddle for 8 yards (tackle by Jordan Whitehead). Penalty on Tony Adams: Unnecessary Roughness / Defense, 15 yards (accepted)",-0.16,2.19,15.0,2023,218
+2.0,3:34,1.0,10.0,MIA 49,0.0,17.0,Raheem Mostert left tackle for 4 yards (tackle by C.J. Mosley and Jermaine Johnson),2.19,2.19,15.0,2023,218
+2.0,2:50,2.0,6.0,NYJ 47,0.0,17.0,Tua Tagovailoa pass incomplete short middle intended for Jaylen Waddle (defended by D.J. Reed),2.19,1.49,15.0,2023,218
+2.0,2:46,,,,,,Timeout #1 by New York Jets,,,15.0,2023,218
+2.0,2:46,3.0,6.0,NYJ 47,0.0,17.0,Tua Tagovailoa pass complete short right to Braxton Berrios for 12 yards (tackle by Michael Carter),1.49,3.25,15.0,2023,218
+2.0,2:19,1.0,10.0,NYJ 35,0.0,17.0,Tua Tagovailoa pass incomplete short right intended for Cedrick Wilson (defended by Quincy Williams),3.25,2.7,15.0,2023,218
+2.0,2:16,2.0,10.0,NYJ 35,0.0,17.0,De'Von Achane up the middle for 3 yards (tackle by Solomon Thomas),2.7,2.41,15.0,2023,218
+2.0,2:00,3.0,7.0,NYJ 32,0.0,17.0,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 19 yards (tackle by D.J. Reed),2.41,4.71,15.0,2023,218
+2.0,1:19,1.0,10.0,NYJ 13,0.0,17.0,Raheem Mostert right end for 12 yards (tackle by Jordan Whitehead and Ashtyn Davis),4.71,6.97,15.0,2023,218
+2.0,1:07,,,,,,Timeout #2 by New York Jets,,,15.0,2023,218
+2.0,1:07,1.0,1.0,NYJ 1,0.0,23.0,"Raheem Mostert left end for 1 yard, touchdown",6.97,7.0,15.0,2023,218
+2.0,1:03,,,NYJ 15,0.0,24.0,Jason Sanders kicks extra point good,0.0,0.0,15.0,2023,218
+2.0,1:03,,,MIA 35,0.0,24.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,218
+2.0,1:03,1.0,10.0,NYJ 25,0.0,24.0,Trevor Siemian pass complete short right to Allen Lazard for 5 yards (tackle by Eli Apple),0.61,0.74,15.0,2023,218
+2.0,0:33,2.0,5.0,NYJ 30,0.0,24.0,Trevor Siemian pass complete short middle to Breece Hall for 6 yards (tackle by Duke Riley),0.74,1.33,15.0,2023,218
+2.0,0:26,,,,,,Timeout #3 by New York Jets,,,15.0,2023,218
+2.0,0:26,1.0,10.0,NYJ 36,0.0,24.0,Trevor Siemian pass incomplete short left intended for Tyler Conklin (defended by Zach Sieler),1.33,0.79,15.0,2023,218
+2.0,0:23,2.0,10.0,NYJ 36,0.0,24.0,Trevor Siemian pass incomplete deep left intended for Xavier Gipson,0.79,0.1,15.0,2023,218
+2.0,0:18,3.0,10.0,NYJ 36,0.0,24.0,Trevor Siemian sacked by and Bradley Chubb for -10 yards and Andrew Van Ginkel for -10 yards,0.1,-1.63,15.0,2023,218
+2.0,0:12,,,,,,Timeout #2 by Miami Dolphins,,,15.0,2023,218
+2.0,0:12,4.0,21.0,NYJ 26,0.0,24.0,"Thomas Morstead punts 54 yards, returned by Braxton Berrios for 9 yards (tackle by Ashtyn Davis and Kenny Yeboah)",-1.63,0.67,15.0,2023,218
+3.0,15:00,,,MIA 35,0.0,24.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,218
+3.0,15:00,1.0,10.0,NYJ 25,0.0,24.0,Breece Hall right end for 1 yard (tackle by Duke Riley and David Long),0.61,0.2,15.0,2023,218
+3.0,14:22,2.0,9.0,NYJ 26,0.0,24.0,"Trevor Siemian pass incomplete intended for Garrett Wilson. Penalty on Xavier Gipson: Offensive Pass Interference, 10 yards (accepted) (no play)",0.2,-1.29,15.0,2023,218
+3.0,14:19,2.0,19.0,NYJ 16,0.0,24.0,Trevor Siemian pass incomplete short middle intended for Tyler Conklin,-1.29,-2.14,15.0,2023,218
+3.0,14:15,3.0,19.0,NYJ 16,0.0,24.0,Trevor Siemian pass incomplete deep right intended for Garrett Wilson (defended by Jalen Ramsey),-2.14,-2.39,15.0,2023,218
+3.0,14:10,4.0,19.0,NYJ 16,0.0,24.0,"Thomas Morstead punts 53 yards, returned by Braxton Berrios for 19 yards (tackle by Ashtyn Davis)",-2.39,-2.26,15.0,2023,218
+3.0,13:57,1.0,10.0,NYJ 50,0.0,24.0,Raheem Mostert right tackle for -3 yards (tackle by Jermaine Johnson),2.26,1.31,15.0,2023,218
+3.0,13:15,2.0,13.0,MIA 47,0.0,24.0,Tua Tagovailoa sacked by Bryce Huff for -5 yards,1.31,-0.03,15.0,2023,218
+3.0,12:33,3.0,18.0,MIA 42,0.0,24.0,Tua Tagovailoa pass complete short left to De'Von Achane for 13 yards (tackle by Michael Carter and D.J. Reed),-0.03,0.27,15.0,2023,218
+3.0,11:34,4.0,5.0,NYJ 45,0.0,24.0,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 25 yards (tackle by Jordan Whitehead),0.27,4.24,15.0,2023,218
+3.0,10:57,1.0,10.0,NYJ 20,0.0,24.0,"De'Von Achane up the middle for 4 yards (tackle by Tony Adams). Penalty on Jalyn Holmes: Defensive Holding, 5 yards (accepted)",4.24,4.84,15.0,2023,218
+3.0,10:30,1.0,10.0,NYJ 11,0.0,24.0,"Penalty on Jalyn Holmes: Encroachment, 5 yards (accepted) (no play)",4.84,5.99,15.0,2023,218
+3.0,10:08,1.0,5.0,NYJ 6,0.0,24.0,Raheem Mostert up the middle for 4 yards (tackle by Jordan Whitehead and C.J. Mosley),5.99,5.85,15.0,2023,218
+3.0,9:29,2.0,1.0,NYJ 2,0.0,24.0,Raheem Mostert right end for -7 yards (tackle by Michael Carter and Quincy Williams),5.85,3.53,15.0,2023,218
+3.0,8:46,3.0,8.0,NYJ 9,0.0,24.0,Tua Tagovailoa pass incomplete short left intended for Jeff Wilson,3.53,2.83,15.0,2023,218
+3.0,8:39,4.0,8.0,NYJ 9,0.0,27.0,Jason Sanders 27 yard field goal good,2.83,3.0,15.0,2023,218
+3.0,8:36,,,MIA 35,0.0,27.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,218
+3.0,8:36,1.0,10.0,NYJ 25,0.0,27.0,Trevor Siemian pass complete short left to Garrett Wilson for 6 yards (tackle by Brandon Jones),0.61,0.87,15.0,2023,218
+3.0,8:05,2.0,4.0,NYJ 31,0.0,27.0,Israel Abanikanda up the middle for 1 yard (tackle by Zach Sieler and David Long),0.87,0.3,15.0,2023,218
+3.0,7:26,3.0,3.0,NYJ 32,0.0,27.0,Trevor Siemian pass complete short right to Allen Lazard for 11 yards (tackle by Eli Apple),0.3,1.8,15.0,2023,218
+3.0,6:49,1.0,10.0,NYJ 43,0.0,27.0,"Penalty on Jake Hanson: False Start, 5 yards (accepted) (no play)",1.8,1.47,15.0,2023,218
+3.0,6:31,1.0,15.0,NYJ 38,0.0,27.0,Trevor Siemian pass complete short right to Garrett Wilson for 18 yards (tackle by Brandon Jones),1.47,2.65,15.0,2023,218
+3.0,5:58,1.0,10.0,MIA 44,0.0,27.0,Israel Abanikanda up the middle for 1 yard (tackle by Cameron Goode and Da'Shawn Hand),2.65,2.25,15.0,2023,218
+3.0,5:24,2.0,9.0,MIA 43,0.0,27.0,Trevor Siemian pass complete short right to Garrett Wilson for 5 yards (tackle by Brandon Jones),2.25,2.21,15.0,2023,218
+3.0,4:46,3.0,4.0,MIA 38,0.0,27.0,"Trevor Siemian pass incomplete intended for Garrett Wilson. Penalty on Christian Wilkins: Defensive Offside, 5 yards (accepted) (no play)",2.21,3.38,15.0,2023,218
+3.0,4:41,1.0,10.0,MIA 33,0.0,27.0,Trevor Siemian pass deep right intended for Randall Cobb is intercepted by Brandon Jones at MIA-1 and returned for 40 yards (tackle by Breece Hall),3.38,-1.66,15.0,2023,218
+3.0,4:25,1.0,10.0,MIA 41,0.0,27.0,Raheem Mostert left end for 4 yards (tackle by Micheal Clemons),1.66,1.66,15.0,2023,218
+3.0,3:43,2.0,6.0,MIA 45,0.0,27.0,Raheem Mostert left end for 2 yards (tackle by Ashtyn Davis),1.66,1.22,15.0,2023,218
+3.0,3:16,3.0,4.0,MIA 47,0.0,27.0,Tua Tagovailoa pass complete short left to Durham Smythe for 9 yards (tackle by Jamien Sherwood),1.22,2.65,15.0,2023,218
+3.0,2:36,1.0,10.0,NYJ 44,0.0,27.0,De'Von Achane right end for -2 yards (tackle by Ashtyn Davis and Jordan Whitehead),2.65,1.84,15.0,2023,218
+3.0,1:53,2.0,12.0,NYJ 46,0.0,27.0,Tua Tagovailoa pass complete short left to Cedrick Wilson for -1 yards (tackle by C.J. Mosley and D.J. Reed),1.84,1.03,15.0,2023,218
+3.0,1:07,3.0,13.0,NYJ 47,0.0,27.0,Tua Tagovailoa pass complete short left to Durham Smythe for 11 yards (tackle by D.J. Reed),1.03,0.89,15.0,2023,218
+3.0,0:21,4.0,2.0,NYJ 36,0.0,27.0,De'Von Achane up the middle for 4 yards (tackle by Jamien Sherwood),0.89,3.45,15.0,2023,218
+4.0,15:00,1.0,10.0,NYJ 32,0.0,27.0,Raheem Mostert left tackle for 18 yards (tackle by Tony Adams and D.J. Reed),3.45,4.65,15.0,2023,218
+4.0,14:10,1.0,10.0,NYJ 14,0.0,27.0,"Raheem Mostert for 13 yards. Penalty on Julian Hill: Offensive Holding, 10 yards (accepted) (no play)",4.65,3.97,15.0,2023,218
+4.0,13:54,1.0,20.0,NYJ 24,0.0,27.0,Tua Tagovailoa pass complete short right to Jaylen Waddle for -1 yards (tackle by Jermaine Johnson),3.97,2.61,15.0,2023,218
+4.0,13:12,2.0,21.0,NYJ 25,0.0,27.0,De'Von Achane left end for 10 yards (tackle by Tony Adams),2.61,3.06,15.0,2023,218
+4.0,12:27,3.0,11.0,NYJ 15,0.0,27.0,Tua Tagovailoa sacked by Solomon Thomas for -2 yards,3.06,2.25,15.0,2023,218
+4.0,11:46,4.0,14.0,NYJ 18,0.0,30.0,Jason Sanders 35 yard field goal good,2.25,3.0,15.0,2023,218
+4.0,11:42,,,MIA 35,0.0,30.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,218
+4.0,11:42,1.0,10.0,NYJ 25,0.0,30.0,Trevor Siemian pass complete short right to Tyler Conklin for no gain (tackle by Elijah Campbell),0.61,0.06,15.0,2023,218
+4.0,11:09,2.0,10.0,NYJ 25,0.0,30.0,Trevor Siemian pass complete short right to Israel Abanikanda for 13 yards (tackle by Duke Riley and Elijah Campbell),0.06,1.47,15.0,2023,218
+4.0,10:26,1.0,10.0,NYJ 38,0.0,30.0,Trevor Siemian pass incomplete short right intended for Xavier Gipson,1.47,0.92,15.0,2023,218
+4.0,10:23,2.0,10.0,NYJ 38,0.0,30.0,Trevor Siemian pass complete short middle to Xavier Gipson for 21 yards (tackle by Eli Apple),0.92,2.85,15.0,2023,218
+4.0,9:45,1.0,10.0,MIA 41,0.0,30.0,Trevor Siemian pass complete short middle to Jeremy Ruckert for 7 yards (tackle by Elijah Campbell),2.85,3.25,15.0,2023,218
+4.0,9:08,2.0,3.0,MIA 34,0.0,30.0,"Israel Abanikanda for no gain. Penalty on Laken Tomlinson: Offensive Holding, 10 yards (accepted) (no play)",3.25,1.9,15.0,2023,218
+4.0,8:41,2.0,13.0,MIA 44,0.0,30.0,Trevor Siemian pass incomplete short middle intended for Randall Cobb (defended by Duke Riley),1.9,1.22,15.0,2023,218
+4.0,8:38,3.0,13.0,MIA 44,0.0,30.0,"Trevor Siemian sacked by Bradley Chubb for -9 yards. Trevor Siemian fumbles (forced by Bradley Chubb), recovered by Bradley Chubb at NYJ-47",1.22,-2.46,15.0,2023,218
+4.0,8:32,1.0,10.0,NYJ 47,0.0,30.0,De'Von Achane left tackle for 3 yards (tackle by C.J. Mosley and Jermaine Johnson),2.46,2.32,15.0,2023,218
+4.0,7:55,2.0,7.0,NYJ 44,0.0,30.0,"Mike White pass complete short right to Chase Claypool for 3 yards (tackle by C.J. Mosley). Penalty on Tyler Kroft: Offensive Holding, 10 yards (accepted)",2.32,1.37,15.0,2023,218
+4.0,7:29,2.0,14.0,MIA 49,0.0,30.0,"De'Von Achane for no gain (tackle by D.J. Reed). Penalty on Liam Eichenberg: Illegal Use of Hands / Offense, 10 yards (accepted) (no play)",1.37,0.02,15.0,2023,218
+4.0,6:59,2.0,24.0,MIA 39,0.0,30.0,Jeff Wilson right end for 5 yards (tackle by Jordan Whitehead),0.02,0.04,15.0,2023,218
+4.0,6:45,3.0,19.0,MIA 44,0.0,30.0,Mike White pass complete short left to Jeff Wilson for 1 yard (tackle by Quincy Williams),0.04,-0.39,15.0,2023,218
+4.0,6:09,4.0,18.0,MIA 45,0.0,30.0,"Jake Bailey punts 42 yards, fair catch by Xavier Gipson at NYJ-13",-0.39,0.32,15.0,2023,218
+4.0,6:03,1.0,10.0,NYJ 13,0.0,30.0,Israel Abanikanda right guard for 6 yards (tackle by Andrew Van Ginkel and Ethan Bonner),-0.32,0.03,15.0,2023,218
+4.0,5:29,2.0,4.0,NYJ 19,0.0,30.0,Trevor Siemian pass complete short right to Israel Abanikanda for -2 yards (tackle by David Long),0.03,-0.94,15.0,2023,218
+4.0,4:51,3.0,6.0,NYJ 17,0.0,30.0,Trevor Siemian pass complete short middle to Tyler Conklin for 10 yards (tackle by Nik Needham),-0.94,0.74,15.0,2023,218
+4.0,4:15,1.0,10.0,NYJ 27,0.0,30.0,Trevor Siemian pass complete short right to Tyler Conklin for 1 yard (tackle by Brandon Jones),0.74,0.33,15.0,2023,218
+4.0,3:44,2.0,9.0,NYJ 28,0.0,30.0,Trevor Siemian pass incomplete short right intended for Allen Lazard (defended by Ethan Bonner),0.33,-0.36,15.0,2023,218
+4.0,3:39,3.0,9.0,NYJ 28,0.0,30.0,Trevor Siemian pass complete short middle to Jeremy Ruckert for 9 yards (tackle by Elijah Campbell),-0.36,1.4,15.0,2023,218
+4.0,3:04,1.0,10.0,NYJ 37,0.0,30.0,Trevor Siemian pass incomplete short right intended for Allen Lazard,1.4,0.86,15.0,2023,218
+4.0,3:00,2.0,10.0,NYJ 37,0.0,30.0,Trevor Siemian pass incomplete short middle,0.86,0.17,15.0,2023,218
+4.0,2:57,3.0,10.0,NYJ 37,0.0,30.0,Trevor Siemian pass incomplete deep left intended for Randall Cobb,0.17,-0.91,15.0,2023,218
+4.0,2:51,4.0,10.0,NYJ 37,0.0,30.0,Trevor Siemian pass deep left intended for Xavier Gipson is intercepted by Brandon Jones at MIA-34 and returned for no gain (tackle by Xavier Gipson),-0.91,-1.2,15.0,2023,218
+4.0,2:42,1.0,10.0,MIA 34,0.0,30.0,Jeff Wilson right guard for no gain (tackle by Chazz Surratt and Solomon Thomas),1.2,0.66,15.0,2023,218
+4.0,2:00,2.0,10.0,MIA 34,0.0,30.0,Mike White kneels for -1 yards,0.66,-0.16,15.0,2023,218
+4.0,1:21,3.0,11.0,MIA 33,0.0,30.0,Mike White kneels for -1 yards,-0.16,-1.24,15.0,2023,218
+4.0,0:36,,,,,,Timeout #1 by Miami Dolphins,,,15.0,2023,218
+4.0,0:36,4.0,12.0,MIA 32,0.0,30.0,Jake Bailey punts 22 yards downed by Blake Ferguson,-1.24,-1.99,15.0,2023,218
+4.0,0:22,1.0,10.0,NYJ 46,0.0,30.0,Israel Abanikanda up the middle for no gain (tackle by Calvin Munson and Andrew Van Ginkel),1.99,1.45,15.0,2023,218

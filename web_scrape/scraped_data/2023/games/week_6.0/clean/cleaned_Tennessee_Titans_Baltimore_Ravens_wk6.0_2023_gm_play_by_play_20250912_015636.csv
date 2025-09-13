@@ -1,0 +1,168 @@
+Quarter,Time,Down,ToGo,Location,BAL,TEN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Titans won the coin toss and deferred, Ravens to receive the opening kickoff.",,,6.0,2023,80
+1.0,15:00,,,TEN 35,0.0,0.0,"Nick Folk kicks off 65 yards, returned by Devin Duvernay for 27 yards (tackle by Kevin Rader)",0.0,0.74,6.0,2023,80
+1.0,14:55,1.0,10.0,BAL 27,0.0,0.0,Lamar Jackson pass complete short left to Justice Hill for 2 yards (tackle by Jack Gibbens),0.74,0.47,6.0,2023,80
+1.0,14:22,2.0,8.0,BAL 29,0.0,0.0,Justice Hill right guard for 4 yards (tackle by Azeez Al-Shaair),0.47,0.3,6.0,2023,80
+1.0,13:37,3.0,4.0,BAL 33,0.0,0.0,Lamar Jackson pass complete short left to Nelson Agholor for 21 yards (tackle by Sean Murphy-Bunting),0.3,2.52,6.0,2023,80
+1.0,12:55,1.0,10.0,TEN 46,0.0,0.0,Lamar Jackson pass complete short left to Zay Flowers for 14 yards,2.52,3.45,6.0,2023,80
+1.0,12:21,1.0,10.0,TEN 32,0.0,0.0,Lamar Jackson pass complete short right to Rashod Bateman for 8 yards (tackle by Kristian Fulton),3.45,3.98,6.0,2023,80
+1.0,11:42,2.0,2.0,TEN 24,0.0,0.0,Gus Edwards left guard for 1 yard (tackle by Jack Gibbens),3.98,3.4,6.0,2023,80
+1.0,11:15,3.0,1.0,TEN 23,0.0,0.0,Gus Edwards left guard for no gain (tackle by Jack Gibbens and Jaleel Johnson),3.4,2.08,6.0,2023,80
+1.0,10:30,4.0,1.0,TEN 23,3.0,0.0,Justin Tucker 41 yard field goal good,2.08,3.0,6.0,2023,80
+1.0,10:26,,,BAL 35,3.0,0.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,6.0,2023,80
+1.0,10:26,1.0,10.0,TEN 25,3.0,0.0,Ryan Tannehill pass complete short right to Derrick Henry for 7 yards (tackle by Patrick Queen),0.61,1.01,6.0,2023,80
+1.0,9:52,2.0,3.0,TEN 32,3.0,0.0,Derrick Henry right tackle for 1 yard (tackle by Marlon Humphrey),1.01,0.43,6.0,2023,80
+1.0,9:12,3.0,2.0,TEN 33,3.0,0.0,"Ryan Tannehill pass incomplete short right intended for DeAndre Hopkins. Penalty on Marlon Humphrey: Defensive Pass Interference, 7 yards (accepted) (no play)",0.43,1.6,6.0,2023,80
+1.0,9:08,1.0,10.0,TEN 40,3.0,0.0,Derrick Henry right guard for 1 yard (tackle by Broderick Washington),1.6,1.19,6.0,2023,80
+1.0,8:30,2.0,9.0,TEN 41,3.0,0.0,Ryan Tannehill pass complete short right to Nick Westbrook-Ikhine for 10 yards (tackle by Brandon Stephens),1.19,2.32,6.0,2023,80
+1.0,7:47,1.0,10.0,BAL 49,3.0,0.0,Ryan Tannehill pass complete short right to Josh Whyle for 11 yards (tackle by Kyle Hamilton and Roquan Smith),2.32,3.05,6.0,2023,80
+1.0,7:16,1.0,10.0,BAL 38,3.0,0.0,"Ryan Tannehill pass incomplete deep left intended for DeAndre Hopkins. Penalty on Marcus Williams: Defensive Pass Interference, 22 yards (accepted) (no play)",3.05,4.51,6.0,2023,80
+1.0,7:10,1.0,10.0,BAL 16,3.0,0.0,Derrick Henry left tackle for 2 yards (tackle by Justin Madubuike),4.51,4.21,6.0,2023,80
+1.0,6:25,2.0,8.0,BAL 14,3.0,0.0,Ryan Tannehill pass incomplete short left intended for Nick Westbrook-Ikhine (defended by Brandon Stephens),4.21,3.37,6.0,2023,80
+1.0,6:19,3.0,8.0,BAL 14,3.0,0.0,Ryan Tannehill pass complete short left to Chris Moore for 6 yards (tackle by Patrick Queen),3.37,2.99,6.0,2023,80
+1.0,5:38,4.0,2.0,BAL 8,3.0,3.0,Nick Folk 26 yard field goal good,2.99,3.0,6.0,2023,80
+1.0,5:34,,,TEN 35,3.0,3.0,"Nick Folk kicks off 65 yards, returned by Devin Duvernay for 14 yards (tackle by Monty Rice)",0.0,-0.28,6.0,2023,80
+1.0,5:29,1.0,10.0,BAL 14,3.0,3.0,Gus Edwards left end for 3 yards (tackle by Azeez Al-Shaair and Kristian Fulton),-0.28,-0.37,6.0,2023,80
+1.0,4:51,2.0,7.0,BAL 17,3.0,3.0,Lamar Jackson pass complete short left to Odell Beckham for 2 yards (tackle by Kristian Fulton),-0.37,-0.8,6.0,2023,80
+1.0,4:06,3.0,5.0,BAL 19,3.0,3.0,Lamar Jackson pass complete short left to Odell Beckham for 32 yards (tackle by Kevin Byard),-0.8,2.32,6.0,2023,80
+1.0,3:25,1.0,10.0,TEN 49,3.0,3.0,Lamar Jackson pass complete short right to Nelson Agholor for 19 yards (tackle by Kevin Byard),2.32,3.58,6.0,2023,80
+1.0,2:41,1.0,10.0,TEN 30,3.0,3.0,Gus Edwards left tackle for 6 yards (tackle by Jaleel Johnson and Kevin Byard),3.58,3.84,6.0,2023,80
+1.0,2:17,2.0,4.0,TEN 24,3.0,3.0,Gus Edwards right end for 8 yards (tackle by Jeffery Simmons),3.84,4.51,6.0,2023,80
+1.0,1:38,1.0,10.0,TEN 16,3.0,3.0,Gus Edwards left end for 5 yards (tackle by Azeez Al-Shaair),4.51,4.76,6.0,2023,80
+1.0,0:52,2.0,5.0,TEN 11,3.0,3.0,Justice Hill right tackle for 1 yard (tackle by Jack Gibbens and Naquan Jones),4.76,4.17,6.0,2023,80
+1.0,0:11,3.0,4.0,TEN 10,3.0,3.0,Lamar Jackson pass incomplete short left intended for Odell Beckham,4.17,2.84,6.0,2023,80
+1.0,0:07,4.0,4.0,TEN 10,6.0,3.0,Justin Tucker 28 yard field goal good,2.84,3.0,6.0,2023,80
+1.0,0:04,,,BAL 35,6.0,3.0,"Justin Tucker kicks off 58 yards,",0.0,0.61,6.0,2023,80
+1.0,0:04,1.0,10.0,TEN 25,6.0,3.0,Derrick Henry right guard for 2 yards (tackle by Brent Urban and Roquan Smith),0.61,0.33,6.0,2023,80
+2.0,15:00,2.0,8.0,TEN 27,6.0,3.0,Ryan Tannehill pass complete short left to Chigoziem Okonkwo for 7 yards (tackle by Malik Harrison),0.33,0.56,6.0,2023,80
+2.0,14:25,3.0,1.0,TEN 34,6.0,3.0,Derrick Henry right tackle for no gain (tackle by Kyle Hamilton and Marcus Williams) (no play),0.56,0.04,6.0,2023,80
+2.0,14:03,3.0,5.0,TEN 30,6.0,3.0,Ryan Tannehill pass incomplete short right intended for DeAndre Hopkins (defended by Kyle Van Noy),0.04,-1.37,6.0,2023,80
+2.0,13:58,4.0,5.0,TEN 30,6.0,3.0,"Ryan Stonehouse punts 57 yards, returned by Devin Duvernay for 70 yards (tackle by Ryan Stonehouse)",-1.37,-4.44,6.0,2023,80
+2.0,13:40,1.0,10.0,TEN 17,6.0,3.0,Lamar Jackson scrambles right tackle for 4 yards (tackle by Kevin Byard),4.44,4.5,6.0,2023,80
+2.0,12:55,2.0,6.0,TEN 13,6.0,3.0,Lamar Jackson right end for 7 yards (tackle by Kevin Byard),4.5,5.83,6.0,2023,80
+2.0,12:18,1.0,6.0,TEN 6,6.0,3.0,Gus Edwards right guard for 3 yards (tackle by Azeez Al-Shaair),5.83,5.53,6.0,2023,80
+2.0,11:40,2.0,3.0,TEN 3,6.0,3.0,Gus Edwards left guard for 2 yards (tackle by Azeez Al-Shaair),5.53,5.17,6.0,2023,80
+2.0,11:00,3.0,1.0,TEN 1,6.0,3.0,Lamar Jackson right tackle for -4 yards (tackle by Harold Landry),5.17,3.01,6.0,2023,80
+2.0,10:16,4.0,5.0,TEN 5,9.0,3.0,Justin Tucker 23 yard field goal good,3.01,3.0,6.0,2023,80
+2.0,10:13,,,BAL 35,9.0,3.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,6.0,2023,80
+2.0,10:13,1.0,10.0,TEN 25,9.0,3.0,Derrick Henry up the middle for 6 yards (tackle by Broderick Washington and Patrick Queen),0.61,0.87,6.0,2023,80
+2.0,9:35,2.0,4.0,TEN 31,9.0,3.0,Tyjae Spears right guard for 1 yard (tackle by Justin Madubuike and Malik Harrison),0.87,0.3,6.0,2023,80
+2.0,8:53,3.0,3.0,TEN 32,9.0,3.0,Ryan Tannehill pass incomplete short right intended for Kyle Philips,0.3,-1.24,6.0,2023,80
+2.0,8:48,4.0,3.0,TEN 32,9.0,3.0,"Ryan Stonehouse punts 55 yards, returned by Devin Duvernay for 7 yards (tackle by Matthew Jackson)",-1.24,-0.28,6.0,2023,80
+2.0,8:39,1.0,10.0,BAL 20,9.0,3.0,Lamar Jackson pass complete short middle to Mark Andrews for 20 yards (tackle by Jack Gibbens),0.28,1.6,6.0,2023,80
+2.0,7:59,1.0,10.0,BAL 40,9.0,3.0,Justice Hill right end for 8 yards (tackle by Kevin Byard),1.6,2.13,6.0,2023,80
+2.0,7:16,2.0,2.0,BAL 48,9.0,3.0,Justice Hill left end for 10 yards (tackle by Tre Avery),2.13,2.79,6.0,2023,80
+2.0,6:39,1.0,10.0,TEN 42,9.0,3.0,Zay Flowers left end for 1 yard (tackle by Denico Autry),2.79,2.38,6.0,2023,80
+2.0,5:56,2.0,9.0,TEN 41,9.0,3.0,Lamar Jackson left end for 7 yards (tackle by Rashad Weaver),2.38,2.61,6.0,2023,80
+2.0,5:31,3.0,2.0,TEN 34,9.0,3.0,Gus Edwards right tackle for 4 yards (tackle by Azeez Al-Shaair and Denico Autry),2.61,3.58,6.0,2023,80
+2.0,4:55,1.0,10.0,TEN 30,9.0,3.0,Lamar Jackson pass incomplete short left intended for Zay Flowers,3.58,3.03,6.0,2023,80
+2.0,4:52,2.0,10.0,TEN 30,9.0,3.0,"Lamar Jackson pass complete short left to Zay Flowers for 4 yards (tackle by Tre Avery and Jack Gibbens). Penalty on Jeffery Simmons: Personal Foul / Defense, 13 yards (accepted)",3.03,4.71,6.0,2023,80
+2.0,4:17,1.0,10.0,TEN 13,9.0,3.0,Lamar Jackson pass complete short left to Patrick Ricard for 3 yards (tackle by Azeez Al-Shaair),4.71,4.58,6.0,2023,80
+2.0,3:36,2.0,7.0,TEN 10,15.0,3.0,"Lamar Jackson pass complete short left to Zay Flowers for 10 yards, touchdown",4.58,7.0,6.0,2023,80
+2.0,3:28,,,TEN 2,15.0,3.0,"Two Point Attempt: Lamar Jackson pass complete to to Zay Flowers for no gain. Penalty on Odell Beckham: Offensive Pass Interference, 10 yards (accepted) (no play)",1.0,0.0,6.0,2023,80
+2.0,3:28,,,TEN 25,15.0,3.0,Justin Tucker kicks extra point blocked blocked by Denico Autry,0.0,-1.0,6.0,2023,80
+2.0,3:28,,,BAL 35,15.0,3.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,6.0,2023,80
+2.0,3:28,1.0,10.0,TEN 25,15.0,3.0,Ryan Tannehill pass complete short left to DeAndre Hopkins for 20 yards (tackle by Patrick Queen and Roquan Smith),0.61,1.93,6.0,2023,80
+2.0,2:47,1.0,10.0,TEN 45,15.0,3.0,Derrick Henry right tackle for 1 yard (tackle by Patrick Queen and Malik Harrison),1.93,1.52,6.0,2023,80
+2.0,2:07,2.0,9.0,TEN 46,15.0,3.0,Ryan Tannehill pass incomplete deep right intended for Chigoziem Okonkwo (defended by Marcus Williams),1.52,0.83,6.0,2023,80
+2.0,2:02,3.0,9.0,TEN 46,15.0,3.0,Ryan Tannehill sacked by Patrick Queen for -9 yards,0.83,-0.91,6.0,2023,80
+2.0,1:57,4.0,18.0,TEN 37,15.0,3.0,Ryan Stonehouse punts 46 yards out of bounds,-0.91,0.06,6.0,2023,80
+2.0,1:47,1.0,10.0,BAL 17,15.0,3.0,Justice Hill left guard for -1 yards (tackle by Kyle Peko),-0.06,-0.73,6.0,2023,80
+2.0,1:09,2.0,11.0,BAL 16,15.0,3.0,Justice Hill right guard for 10 yards (tackle by Azeez Al-Shaair and Shyheim Carter),-0.73,-0.12,6.0,2023,80
+2.0,0:45,3.0,1.0,BAL 26,15.0,3.0,Lamar Jackson right end for 11 yards (tackle by Kevin Byard),-0.12,1.4,6.0,2023,80
+2.0,0:40,1.0,10.0,BAL 37,15.0,3.0,Lamar Jackson scrambles up the middle for 3 yards (tackle by Azeez Al-Shaair),1.4,1.26,6.0,2023,80
+2.0,0:34,,,,,,Timeout #1 by Baltimore Ravens,,,6.0,2023,80
+2.0,0:34,2.0,7.0,BAL 40,15.0,3.0,Lamar Jackson pass complete short left to Mark Andrews for 7 yards (tackle by Amani Hooker),1.26,2.06,6.0,2023,80
+2.0,0:29,1.0,10.0,BAL 47,15.0,3.0,Lamar Jackson pass incomplete deep left intended for Nelson Agholor,2.06,1.52,6.0,2023,80
+2.0,0:23,2.0,10.0,BAL 47,15.0,3.0,Lamar Jackson pass complete short left to Rashod Bateman for 7 yards (tackle by Amani Hooker),1.52,1.75,6.0,2023,80
+2.0,0:17,,,,,,Timeout #2 by Baltimore Ravens,,,6.0,2023,80
+2.0,0:17,3.0,3.0,TEN 46,15.0,3.0,Lamar Jackson pass incomplete deep right intended for Zay Flowers,1.75,0.2,6.0,2023,80
+2.0,0:12,4.0,3.0,TEN 46,15.0,3.0,"Jordan Stout punts 37 yards, recovered by Del'Shawn Phillips at TEN-11",0.2,4.84,6.0,2023,80
+2.0,0:01,,,,,,Timeout #3 by Baltimore Ravens,,,6.0,2023,80
+2.0,0:01,1.0,10.0,TEN 11,18.0,3.0,Justin Tucker 29 yard field goal good,4.84,3.0,6.0,2023,80
+3.0,15:00,,,BAL 35,18.0,3.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,6.0,2023,80
+3.0,15:00,1.0,10.0,TEN 25,18.0,3.0,Tyjae Spears up the middle for 2 yards (tackle by Justin Madubuike),0.61,0.33,6.0,2023,80
+3.0,14:17,2.0,8.0,TEN 27,18.0,3.0,Ryan Tannehill pass complete short left to Nick Westbrook-Ikhine for 6 yards (tackle by Roquan Smith),0.33,0.43,6.0,2023,80
+3.0,13:38,3.0,2.0,TEN 33,18.0,3.0,Ryan Tannehill sacked by Justin Madubuike for -7 yards,0.43,-1.63,6.0,2023,80
+3.0,13:03,4.0,9.0,TEN 26,18.0,3.0,"Ryan Stonehouse punts 56 yards, returned by Devin Duvernay for 14 yards (tackle by Amani Hooker)",-1.63,-1.07,6.0,2023,80
+3.0,12:51,1.0,10.0,BAL 32,18.0,3.0,Lamar Jackson pass complete short left to Justice Hill for -3 yards (tackle by Amani Hooker),1.07,0.12,6.0,2023,80
+3.0,12:33,2.0,13.0,BAL 29,18.0,3.0,"Justice Hill right end for 2 yards (tackle by Harold Landry and Kevin Byard). Penalty on Morgan Moses: Offensive Holding, 10 yards (declined)",0.12,-0.29,6.0,2023,80
+3.0,12:13,3.0,11.0,BAL 31,18.0,3.0,Lamar Jackson pass incomplete short right,-0.29,-1.31,6.0,2023,80
+3.0,12:06,4.0,11.0,BAL 31,18.0,3.0,"Jordan Stout punts 53 yards, returned by Kyle Philips for no gain (tackle by Geno Stone and Del'Shawn Phillips). Penalty on Shyheim Carter: Offensive Illegal Block Above the Waist, 8 yards (accepted)",-1.31,0.38,6.0,2023,80
+3.0,11:55,1.0,10.0,TEN 8,18.0,3.0,Derrick Henry left tackle for 5 yards (tackle by Michael Pierce),-0.38,-0.41,6.0,2023,80
+3.0,11:15,2.0,5.0,TEN 13,18.0,3.0,Ryan Tannehill pass incomplete short right,-0.41,-0.84,6.0,2023,80
+3.0,11:09,3.0,5.0,TEN 13,18.0,3.0,"Ryan Tannehill pass incomplete deep right intended for Chigoziem Okonkwo. Penalty on Michael Pierce: Roughing the Passer, 15 yards (accepted) (no play)",-0.84,0.81,6.0,2023,80
+3.0,11:04,1.0,10.0,TEN 28,18.0,3.0,Derrick Henry right end for 63 yards (tackle by Marcus Williams),0.81,5.14,6.0,2023,80
+3.0,10:17,1.0,9.0,BAL 9,18.0,3.0,Tyjae Spears up the middle for no gain (tackle by Travis Jones),5.14,4.38,6.0,2023,80
+3.0,9:36,2.0,9.0,BAL 9,18.0,3.0,Ryan Tannehill pass incomplete short left intended for DeAndre Hopkins,4.38,3.36,6.0,2023,80
+3.0,9:32,3.0,9.0,BAL 9,18.0,3.0,Ryan Tannehill pass incomplete short left intended for DeAndre Hopkins,3.36,2.83,6.0,2023,80
+3.0,9:27,4.0,9.0,BAL 9,18.0,6.0,Nick Folk 27 yard field goal good,2.83,3.0,6.0,2023,80
+3.0,9:24,,,TEN 35,18.0,6.0,"Nick Folk kicks off 65 yards, touchback.",0.0,0.61,6.0,2023,80
+3.0,9:24,1.0,10.0,BAL 25,18.0,6.0,Gus Edwards right tackle for 1 yard (tackle by Jeffery Simmons and Azeez Al-Shaair),0.61,0.2,6.0,2023,80
+3.0,8:45,2.0,9.0,BAL 26,18.0,6.0,Lamar Jackson pass short right intended for Rashod Bateman is intercepted by Sean Murphy-Bunting at BAL-35 and returned for 10 yards (tackle by Rashod Bateman),0.2,-3.91,6.0,2023,80
+3.0,8:37,1.0,10.0,BAL 25,18.0,6.0,"Penalty on Nicholas Petit-Frere: False Start, 5 yards (accepted) (no play)",3.91,3.58,6.0,2023,80
+3.0,8:37,1.0,15.0,BAL 30,18.0,6.0,"Ryan Tannehill pass incomplete short left intended for Chris Moore. Penalty on Kyle Hamilton: Disqualification / Defense, 15 yards (accepted) (no play)",3.58,4.58,6.0,2023,80
+3.0,8:32,1.0,10.0,BAL 15,18.0,12.0,"Derrick Henry left guard for 15 yards, touchdown",4.58,7.0,6.0,2023,80
+3.0,8:24,,,BAL 15,18.0,13.0,Nick Folk kicks extra point good,0.0,0.0,6.0,2023,80
+3.0,8:24,,,TEN 35,18.0,13.0,"Nick Folk kicks off 65 yards, touchback.",0.0,0.61,6.0,2023,80
+3.0,8:24,1.0,10.0,BAL 25,18.0,13.0,Gus Edwards left tackle for 1 yard (tackle by Jaleel Johnson and Azeez Al-Shaair),0.61,0.2,6.0,2023,80
+3.0,7:48,2.0,9.0,BAL 26,18.0,13.0,Lamar Jackson pass incomplete short right intended for Odell Beckham,0.2,-0.49,6.0,2023,80
+3.0,7:40,3.0,9.0,BAL 26,18.0,13.0,Lamar Jackson sacked by Harold Landry for -2 yards,-0.49,-1.77,6.0,2023,80
+3.0,7:00,4.0,11.0,BAL 24,18.0,13.0,"Jordan Stout punts 56 yards, returned by Kyle Philips for 11 yards (tackle by Devin Duvernay and Del'Shawn Phillips). Penalty on Colton Dowell: Running Into the Kicker, 5 yards (declined)",-1.77,-1.0,6.0,2023,80
+3.0,6:49,1.0,10.0,TEN 31,18.0,13.0,Tyjae Spears left end for 12 yards (tackle by Roquan Smith and Geno Stone),1.0,1.8,6.0,2023,80
+3.0,6:06,1.0,10.0,TEN 43,18.0,13.0,Ryan Tannehill pass complete short left to Derrick Henry for 9 yards (tackle by Patrick Queen),1.8,2.47,6.0,2023,80
+3.0,5:23,2.0,1.0,BAL 48,18.0,13.0,Derrick Henry left end for no gain (tackle by Roquan Smith),2.47,1.75,6.0,2023,80
+3.0,4:44,3.0,1.0,BAL 48,18.0,13.0,Ryan Tannehill pass deep right intended for Chigoziem Okonkwo is intercepted by Geno Stone at BAL-20 and returned for 24 yards (tackle by Tyjae Spears),1.75,-1.86,6.0,2023,80
+3.0,4:27,1.0,10.0,BAL 44,18.0,13.0,Lamar Jackson pass complete short left to Justice Hill for 1 yard (tackle by Harold Landry),1.86,1.45,6.0,2023,80
+3.0,3:48,2.0,9.0,BAL 45,18.0,13.0,Lamar Jackson pass complete short left to Zay Flowers for 7 yards (tackle by Azeez Al-Shaair),1.45,1.69,6.0,2023,80
+3.0,3:23,3.0,2.0,TEN 48,18.0,13.0,"Lamar Jackson right end for 12 yards (tackle by Kevin Byard). Penalty on Denico Autry: Defensive Offside, 5 yards (declined)",1.69,3.18,6.0,2023,80
+3.0,3:05,1.0,10.0,TEN 36,18.0,13.0,Lamar Jackson pass incomplete deep left intended for Mark Andrews (defended by Kristian Fulton),3.18,2.64,6.0,2023,80
+3.0,2:58,2.0,10.0,TEN 36,18.0,13.0,Lamar Jackson pass complete short right to Mark Andrews for 4 yards (tackle by Kevin Byard),2.64,2.48,6.0,2023,80
+3.0,2:30,3.0,6.0,TEN 32,18.0,13.0,Lamar Jackson pass complete short right to Gus Edwards for 12 yards (tackle by Shyheim Carter),2.48,4.24,6.0,2023,80
+3.0,1:55,1.0,10.0,TEN 20,18.0,13.0,Justice Hill left end for 1 yard (tackle by Kristian Fulton and Amani Hooker),4.24,3.82,6.0,2023,80
+3.0,1:18,2.0,9.0,TEN 19,18.0,13.0,Lamar Jackson scrambles right tackle for 6 yards (tackle by Kyle Peko),3.82,4.1,6.0,2023,80
+3.0,0:26,3.0,3.0,TEN 13,18.0,13.0,Lamar Jackson scrambles right end for 3 yards (tackle by Amani Hooker),4.1,4.91,6.0,2023,80
+4.0,15:00,1.0,10.0,TEN 10,18.0,13.0,Lamar Jackson left guard for 6 yards (tackle by Amani Hooker),4.91,5.34,6.0,2023,80
+4.0,14:20,2.0,4.0,TEN 4,18.0,13.0,Gus Edwards left tackle for 1 yard (tackle by Harold Landry),5.34,4.72,6.0,2023,80
+4.0,13:40,3.0,3.0,TEN 3,18.0,13.0,Lamar Jackson scrambles left end for 1 yard (tackle by Amani Hooker),4.72,3.25,6.0,2023,80
+4.0,12:52,4.0,2.0,TEN 2,21.0,13.0,Justin Tucker 20 yard field goal good,3.25,3.0,6.0,2023,80
+4.0,12:49,,,BAL 35,21.0,13.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,6.0,2023,80
+4.0,12:49,1.0,10.0,TEN 25,21.0,13.0,Malik Willis pass complete short right to Nick Westbrook-Ikhine for 9 yards (tackle by Rock Ya-Sin),0.61,1.28,6.0,2023,80
+4.0,12:09,2.0,1.0,TEN 34,21.0,13.0,Derrick Henry right guard for 2 yards (tackle by Marlon Humphrey),1.28,1.33,6.0,2023,80
+4.0,11:28,1.0,10.0,TEN 36,21.0,13.0,Malik Willis scrambles left end for 3 yards (tackle by Patrick Queen),1.33,1.2,6.0,2023,80
+4.0,10:41,2.0,7.0,TEN 39,21.0,13.0,Derrick Henry left guard for -1 yards (tackle by Broderick Washington),1.2,0.37,6.0,2023,80
+4.0,9:58,3.0,8.0,TEN 38,21.0,13.0,Malik Willis scrambles left end for 3 yards (tackle by Patrick Queen and Roquan Smith),0.37,-0.65,6.0,2023,80
+4.0,9:01,4.0,5.0,TEN 41,21.0,13.0,"Ryan Stonehouse punts 49 yards, fair catch by Devin Duvernay at BAL-10",-0.65,0.38,6.0,2023,80
+4.0,8:55,1.0,10.0,BAL 10,21.0,13.0,Lamar Jackson pass complete short left to Zay Flowers for 8 yards (tackle by Jack Gibbens),-0.38,0.07,6.0,2023,80
+4.0,8:14,2.0,2.0,BAL 18,21.0,13.0,Gus Edwards right tackle for 2 yards (tackle by Azeez Al-Shaair),0.07,0.28,6.0,2023,80
+4.0,7:36,1.0,10.0,BAL 20,21.0,13.0,Gus Edwards right guard for -1 yards (tackle by Denico Autry and Roger McCreary),0.28,-0.46,6.0,2023,80
+4.0,6:58,2.0,11.0,BAL 19,21.0,13.0,Lamar Jackson pass complete deep right to Mark Andrews for 38 yards (tackle by Sean Murphy-Bunting),-0.46,2.72,6.0,2023,80
+4.0,6:17,1.0,10.0,TEN 43,21.0,13.0,Gus Edwards right guard for 3 yards (tackle by Denico Autry and Azeez Al-Shaair),2.72,2.58,6.0,2023,80
+4.0,5:39,2.0,7.0,TEN 40,21.0,13.0,Lamar Jackson pass incomplete short right intended for Mark Andrews,2.58,1.88,6.0,2023,80
+4.0,5:35,3.0,7.0,TEN 40,21.0,13.0,"Lamar Jackson scrambles left tackle for 7 yards (tackle by Sean Murphy-Bunting). Penalty on Sean Murphy-Bunting: Illegal Contact, 5 yards (accepted)",1.88,3.71,6.0,2023,80
+4.0,5:15,1.0,10.0,TEN 28,21.0,13.0,Lamar Jackson pass complete short right to Zay Flowers for 7 yards (tackle by Jack Gibbens),3.71,4.11,6.0,2023,80
+4.0,4:29,2.0,3.0,TEN 21,21.0,13.0,Gus Edwards left tackle for 2 yards (tackle by Azeez Al-Shaair and Jack Gibbens),4.11,3.72,6.0,2023,80
+4.0,4:24,,,,,,Timeout #1 by Tennessee Titans,,,6.0,2023,80
+4.0,4:24,3.0,1.0,TEN 19,21.0,13.0,Mark Andrews up the middle for no gain (tackle by Jaleel Johnson),3.72,2.34,6.0,2023,80
+4.0,4:19,,,,,,Timeout #2 by Tennessee Titans,,,6.0,2023,80
+4.0,4:19,4.0,1.0,TEN 19,24.0,13.0,Justin Tucker 36 yard field goal good,2.34,3.0,6.0,2023,80
+4.0,4:16,,,BAL 35,24.0,13.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,6.0,2023,80
+4.0,4:16,1.0,10.0,TEN 25,24.0,13.0,Malik Willis sacked by Jadeveon Clowney for -9 yards,0.61,-1.29,6.0,2023,80
+4.0,3:33,2.0,19.0,TEN 16,24.0,13.0,"Malik Willis pass incomplete deep right intended for Nick Westbrook-Ikhine. Penalty on Marlon Humphrey: Illegal Contact, 5 yards (accepted) (no play)",-1.29,0.34,6.0,2023,80
+4.0,3:29,1.0,10.0,TEN 21,24.0,13.0,Malik Willis scrambles up the middle for 11 yards (tackle by Geno Stone),0.34,1.07,6.0,2023,80
+4.0,3:21,1.0,10.0,TEN 32,24.0,13.0,Malik Willis pass complete short left to Kyle Philips for 6 yards (tackle by Arthur Maulet),1.07,1.34,6.0,2023,80
+4.0,2:51,2.0,4.0,TEN 38,24.0,13.0,"Penalty on Jadeveon Clowney: Neutral Zone Infraction, 5 yards (accepted) (no play)",1.34,1.8,6.0,2023,80
+4.0,2:51,1.0,10.0,TEN 43,24.0,13.0,Malik Willis sacked by Justin Madubuike for -8 yards,1.8,0.17,6.0,2023,80
+4.0,2:20,2.0,18.0,TEN 35,24.0,13.0,Malik Willis pass complete short right to Chigoziem Okonkwo for 11 yards (tackle by Roquan Smith),0.17,0.96,6.0,2023,80
+4.0,2:00,3.0,7.0,TEN 46,24.0,13.0,Malik Willis pass complete short left to Tyjae Spears for 48 yards (tackle by Roquan Smith and Marlon Humphrey),0.96,5.83,6.0,2023,80
+4.0,1:46,,,,,,Timeout #3 by Tennessee Titans,,,6.0,2023,80
+4.0,1:46,1.0,6.0,BAL 6,24.0,13.0,"Malik Willis sacked by Kyle Van Noy for no gain. Penalty on Arthur Maulet: Defensive Holding, 3 yards (accepted) (no play)",5.83,6.51,6.0,2023,80
+4.0,1:41,1.0,3.0,BAL 3,24.0,13.0,Malik Willis sacked by Jadeveon Clowney for -4 yards,6.51,4.76,6.0,2023,80
+4.0,1:21,2.0,7.0,BAL 7,24.0,13.0,"Malik Willis pass incomplete short left intended for Kyle Philips. Penalty on Arthur Maulet: Defensive Pass Interference, 6 yards (accepted) (no play)",4.76,6.97,6.0,2023,80
+4.0,1:17,1.0,1.0,BAL 1,24.0,13.0,"Malik Willis left end for no gain (tackle by Justin Madubuike). Penalty on Tyjae Spears: Offensive Illegal Block Above the Waist, 10 yards (accepted) (no play)",6.97,4.77,6.0,2023,80
+4.0,1:07,1.0,11.0,BAL 11,24.0,13.0,Malik Willis sacked by Kyle Van Noy for -9 yards,4.77,3.0,6.0,2023,80
+4.0,0:46,2.0,20.0,BAL 20,24.0,13.0,Malik Willis pass incomplete deep left intended for DeAndre Hopkins,3.0,2.34,6.0,2023,80
+4.0,0:41,3.0,20.0,BAL 20,24.0,16.0,Nick Folk 38 yard field goal good,2.34,3.0,6.0,2023,80
+4.0,0:38,,,,,,Timeout #1 by Baltimore Ravens,,,6.0,2023,80
+4.0,0:38,,,TEN 35,24.0,16.0,"Nick Folk kicks onside 7 yards, returned by Isaiah Likely for no gain",0.0,2.79,6.0,2023,80
+4.0,0:37,1.0,10.0,TEN 42,24.0,16.0,Lamar Jackson kneels for -1 yards,2.79,2.11,6.0,2023,80

@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,ATL 35,3,1:46,65,Touchdown,1,Falcons,1,2025,3
+2,1,12:11,ATL 18,8,5:43,41,Punt,1,Falcons,1,2025,3
+3,1,4:46,ATL 38,3,1:22,5,Punt,1,Falcons,1,2025,3
+4,2,10:17,ATL 29,4,1:20,24,Downs,1,Falcons,1,2025,3
+5,2,6:53,ATL 30,13,6:00,48,Field Goal,1,Falcons,1,2025,3
+6,2,0:09,ATL 38,2,0:09,-1,End of Half,1,Falcons,1,2025,3
+7,3,11:42,ATL 34,4,2:03,-7,Punt,1,Falcons,1,2025,3
+8,3,7:26,ATL 29,11,7:06,53,Field Goal,1,Falcons,1,2025,3
+9,4,11:03,ATL 9,18,8:46,91,Touchdown,1,Falcons,1,2025,3
+10,4,0:59,ATL 14,8,0:57,60,Missed FG,1,Falcons,1,2025,3

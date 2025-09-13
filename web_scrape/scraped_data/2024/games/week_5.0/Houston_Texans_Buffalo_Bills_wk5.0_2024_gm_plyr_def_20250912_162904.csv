@@ -1,0 +1,41 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Unnamed: 7_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Fumbles,Fumbles,Fumbles,Fumbles,week,year,game_id
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF,,,
+Terrel Bernard,BUF,1,1,0,1,1,0.0,5,2,3,0,0,0,0,0,0,5.0,2024,67
+Dawuane Smoot,BUF,0,0,0,0,0,1.0,1,1,0,0,0,0,0,0,1,5.0,2024,67
+Dorian Williams,BUF,0,0,0,0,0,0.0,12,10,2,0,0,1,0,0,0,5.0,2024,67
+Damar Hamlin,BUF,0,0,0,0,0,0.0,9,7,2,0,0,0,0,0,0,5.0,2024,67
+Cameron Lewis,BUF,0,0,0,0,0,0.0,9,7,2,1,0,0,0,0,0,5.0,2024,67
+DaQuan Jones,BUF,0,0,0,0,0,0.0,6,5,1,1,0,0,0,0,0,5.0,2024,67
+Christian Benford,BUF,0,0,0,0,0,0.0,5,4,1,1,0,0,0,0,0,5.0,2024,67
+Cole Bishop,BUF,0,0,0,0,0,0.0,4,2,2,0,0,0,0,0,0,5.0,2024,67
+Rasul Douglas,BUF,0,0,0,0,0,0.0,4,4,0,2,0,0,0,0,0,5.0,2024,67
+DeWayne Carter,BUF,0,0,0,0,0,0.0,3,3,0,2,1,0,0,0,0,5.0,2024,67
+Ja'Marcus Ingram,BUF,0,0,0,0,0,0.0,3,2,1,0,0,0,0,0,0,5.0,2024,67
+Zion Logue,BUF,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,5.0,2024,67
+Javon Solomon,BUF,0,0,0,0,0,0.0,2,2,0,0,1,0,0,0,0,5.0,2024,67
+Joe Andreessen,BUF,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,5.0,2024,67
+Mike Edwards,BUF,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,5.0,2024,67
+A.J. Epenesa,BUF,0,0,0,0,0,0.0,1,0,1,0,1,0,0,0,0,5.0,2024,67
+Ty Johnson,BUF,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,5.0,2024,67
+Gregory Rousseau,BUF,0,0,0,0,0,0.0,1,1,0,0,3,0,0,0,0,5.0,2024,67
+Baylon Spector,BUF,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,5.0,2024,67
+Casey Toohill,BUF,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,5.0,2024,67
+Khalil Davis,HOU,0,0,0,0,0,1.0,2,2,0,2,1,0,0,0,0,5.0,2024,67
+Azeez Al-Shaair,HOU,0,0,0,0,3,0.0,8,5,3,1,2,0,0,0,0,5.0,2024,67
+Derek Stingley Jr.,HOU,0,0,0,0,1,0.0,7,4,3,0,0,0,0,0,0,5.0,2024,67
+Henry To'oTo'o,HOU,0,0,0,0,0,0.0,6,2,4,0,0,0,0,0,0,5.0,2024,67
+Folorunso Fatukasi,HOU,0,0,0,0,0,0.0,4,3,1,1,0,0,0,0,0,5.0,2024,67
+Danielle Hunter,HOU,0,0,0,0,0,0.0,3,1,2,0,1,0,0,0,0,5.0,2024,67
+Kamari Lassiter,HOU,0,0,0,0,1,0.0,3,3,0,1,0,0,0,0,0,5.0,2024,67
+Eric Murray,HOU,0,0,0,0,1,0.0,3,3,0,0,0,0,0,0,0,5.0,2024,67
+Calen Bullock,HOU,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,5.0,2024,67
+Mario Edwards,HOU,0,0,0,0,0,0.0,2,2,0,0,1,0,0,0,0,5.0,2024,67
+Jalen Pitre,HOU,0,0,0,0,0,0.0,2,1,1,0,1,0,0,0,0,5.0,2024,67
+Jimmie Ward,HOU,0,0,0,0,0,0.0,2,2,0,1,0,0,0,0,0,5.0,2024,67
+Will Anderson,HOU,0,0,0,0,0,0.0,1,1,0,1,2,0,0,0,0,5.0,2024,67
+Kris Boyd,HOU,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,5.0,2024,67
+Jamal Hill,HOU,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,5.0,2024,67
+Dylan Horton,HOU,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,5.0,2024,67
+Xavier Hutchinson,HOU,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,5.0,2024,67
+M.J. Stewart,HOU,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,5.0,2024,67
+Tim Settle,HOU,0,0,0,0,0,0.0,0,0,0,0,1,0,0,0,0,5.0,2024,67

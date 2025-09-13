@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,10:41,KAN 30,16,8:30,69,Field Goal,1,Chiefs,2.0,2024,29
+2,1,0:28,KAN 29,1,0:09,0,Interception,1,Chiefs,2.0,2024,29
+3,2,12:04,KAN 30,6,3:14,70,Touchdown,1,Chiefs,2.0,2024,29
+4,2,4:19,KAN 30,4,1:18,15,Fumble,1,Chiefs,2.0,2024,29
+5,2,1:33,KAN 30,5,1:19,20,Punt,1,Chiefs,2.0,2024,29
+6,3,15:00,KAN 30,13,6:39,70,Touchdown,1,Chiefs,2.0,2024,29
+7,3,2:16,KAN 30,4,2:16,8,Interception,1,Chiefs,2.0,2024,29
+8,4,9:28,KAN 30,3,2:31,0,Punt,1,Chiefs,2.0,2024,29
+9,4,2:35,KAN 25,9,2:35,43,Field Goal,1,Chiefs,2.0,2024,29

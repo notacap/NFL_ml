@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,12:19,PHI 16,14,8:05,84,Touchdown,0,Eagles,14.0,2022,202
+2,1,2:00,PHI 9,12,4:55,91,Touchdown,0,Eagles,14.0,2022,202
+3,2,8:24,NYG 33,1,0:08,33,Touchdown,0,Eagles,14.0,2022,202
+4,2,5:05,PHI 8,3,0:50,-6,"Blocked Punt, Downs",0,Eagles,14.0,2022,202
+5,2,2:57,NYG 35,6,2:03,24,Field Goal,0,Eagles,14.0,2022,202
+6,2,0:14,PHI 32,1,0:14,0,End of Half,0,Eagles,14.0,2022,202
+7,3,15:00,PHI 16,8,3:39,63,Field Goal,0,Eagles,14.0,2022,202
+8,3,5:40,PHI 37,8,3:59,63,Touchdown,0,Eagles,14.0,2022,202
+9,3,0:04,PHI 44,3,1:40,-4,Punt,0,Eagles,14.0,2022,202
+10,4,9:58,PHI 24,7,3:57,76,Touchdown,0,Eagles,14.0,2022,202
+11,4,5:30,NYG 23,4,2:21,23,Touchdown,0,Eagles,14.0,2022,202
+12,4,0:39,NYG 46,1,0:39,-1,End of Game,0,Eagles,14.0,2022,202

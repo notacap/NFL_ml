@@ -1,0 +1,71 @@
+Player,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Team,Draft Team,Draft Round,Draft Pick,Draft Year
+Nasir Adderley,25.0,SS,16,15.0,206.0,72,Delaware,5/31/1997,3,5.0,Los Angeles Chargers,Los Angeles Chargers,2.0,60.0,2019.0
+Keenan Allen,30.0,WR,10,10.0,211.0,74,California,4/27/1992,9,6.0,Los Angeles Chargers,San Diego Chargers,3.0,76.0,2013.0
+Jeremiah Attaochu,29.0,LB,2,0.0,262.0,75,Georgia Tech,1/17/1993,8,0.0,Los Angeles Chargers,San Diego Chargers,2.0,50.0,2014.0
+Zack Bailey,27.0,T,1,0.0,299.0,77,South Carolina,11/8/1995,1,0.0,Los Angeles Chargers,,,,
+Michael Bandy,25.0,WR,10,2.0,190.0,70,San Diego,12/5/1997,1,1.0,Los Angeles Chargers,,,,
+Taylor Bertolet,30.0,K,2,0.0,188.0,69,Texas A&M,10/24/1992,1,0.0,Los Angeles Chargers,,,,
+Joey Bosa,27.0,LDE,5,4.0,280.0,77,Ohio St.,7/11/1995,6,2.0,Los Angeles Chargers,San Diego Chargers,1.0,3.0,2016.0
+Bryce Callahan,31.0,DB,15,11.0,188.0,69,Rice,10/23/1991,7,4.0,Los Angeles Chargers,,,,
+DeAndre Carter,29.0,WR,17,7.0,190.0,68,Sacramento St.,4/10/1993,4,4.0,Los Angeles Chargers,,,,
+Will Clapp,27.0,C,17,3.0,314.0,77,LSU,12/10/1995,4,3.0,Los Angeles Chargers,New Orleans Saints,7.0,245.0,2018.0
+Christian Covington,29.0,DT,4,0.0,289.0,74,Rice,10/16/1993,7,0.0,Los Angeles Chargers,Houston Texans,6.0,216.0,2015.0
+Chase Daniel,36.0,QB,4,0.0,218.0,72,Missouri,10/7/1986,12,0.0,Los Angeles Chargers,,,,
+Michael Davis,27.0,LCB,17,12.0,196.0,74,BYU,1/6/1995,5,4.0,Los Angeles Chargers,,,,
+Tyeler Davison,30.0,DT,6,0.0,309.0,74,Fresno St.,9/23/1992,7,0.0,Los Angeles Chargers,New Orleans Saints,5.0,154.0,2015.0
+Cameron Dicker,22.0,K,10,0.0,216.0,73,Texas,5/6/2000,0,3.0,Los Angeles Chargers,,,,
+Austin Ekeler,27.0,RB,17,17.0,200.0,69,Western St. (CO),5/17/1995,5,11.0,Los Angeles Chargers,,,,
+Gerald Everett,28.0,TE,16,11.0,252.0,75,South Alabama,6/25/1994,5,5.0,Los Angeles Chargers,Los Angeles Rams,2.0,44.0,2017.0
+Breiden Fehoko,26.0,DT,9,3.0,300.0,75,"Texas Tech,LSU",10/15/1996,2,2.0,Los Angeles Chargers,,,,
+Matt Feiler,30.0,LG,17,17.0,330.0,78,Bloomsburg,7/7/1992,5,8.0,Los Angeles Chargers,,,,
+Morgan Fox,28.0,LDT,17,12.0,275.0,75,Colorado State-Pueblo,9/12/1994,6,6.0,Los Angeles Chargers,,,,
+Joe Gaziano,26.0,DE,5,0.0,280.0,76,Northwestern,9/27/1996,2,0.0,Los Angeles Chargers,,,,
+Alohi Gilman,25.0,S,17,5.0,201.0,70,"Navy,Notre Dame",9/17/1997,2,3.0,Los Angeles Chargers,Los Angeles Chargers,6.0,186.0,2020.0
+Jalen Guyton,25.0,WR,3,0.0,212.0,73,North Texas,6/7/1997,3,1.0,Los Angeles Chargers,,,,
+Kemon Hall,25.0,CB,2,0.0,190.0,71,North Texas,6/2/1997,1,0.0,Los Angeles Chargers,,,,
+Josh Harris,33.0,LS,17,0.0,224.0,73,Auburn,4/27/1989,10,1.0,Los Angeles Chargers,,,,
+Justin Herbert,24.0,QB,17,17.0,236.0,78,Oregon,3/10/1998,2,14.0,Los Angeles Chargers,Los Angeles Chargers,1.0,6.0,2020.0
+Christopher Hinton,22.0,T,4,0.0,310.0,76,Michigan,9/14/2000,0,0.0,Los Angeles Chargers,,,,
+Dustin Hopkins,32.0,K,5,0.0,210.0,74,Florida St.,10/1/1990,7,1.0,Los Angeles Chargers,Buffalo Bills,6.0,177.0,2013.0
+Zander Horvath,24.0,FB,15,2.0,230.0,75,Purdue,12/10/1998,0,0.0,Los Angeles Chargers,Los Angeles Chargers,7.0,260.0,2022.0
+J.C. Jackson,27.0,LCB,5,5.0,198.0,73,"Florida,Riverside CC,Maryland",11/17/1995,4,1.0,Los Angeles Chargers,,,,
+Brenden Jaimes,23.0,G,12,0.0,300.0,77,Nebraska,5/28/1999,1,1.0,Los Angeles Chargers,Los Angeles Chargers,5.0,159.0,2021.0
+Derwin James,26.0,FS,14,14.0,215.0,74,Florida St.,8/3/1996,4,8.0,Los Angeles Chargers,Los Angeles Chargers,1.0,17.0,2018.0
+Austin Johnson,28.0,LDT,8,8.0,314.0,76,Penn St.,5/8/1994,6,4.0,Los Angeles Chargers,Tennessee Titans,2.0,43.0,2016.0
+Zion Johnson,23.0,RG,17,17.0,316.0,75,"Davidson,Boston Col.",11/18/1999,0,8.0,Los Angeles Chargers,Los Angeles Chargers,1.0,17.0,2022.0
+Sebastian Joseph-Day,27.0,RDT,16,16.0,310.0,76,Rutgers,3/21/1995,3,8.0,Los Angeles Chargers,Los Angeles Rams,6.0,195.0,2018.0
+Joshua Kelley,25.0,RB,13,1.0,212.0,71,"UC Davis,UCLA",11/20/1997,2,3.0,Los Angeles Chargers,Los Angeles Chargers,4.0,112.0,2020.0
+Raheem Layne,23.0,S,6,0.0,192.0,71,Indiana,7/2/1999,0,0.0,Los Angeles Chargers,,,,
+Deane Leonard,23.0,DB,17,0.0,195.0,72,"Calgary,Mississippi",11/20/1999,0,1.0,Los Angeles Chargers,Los Angeles Chargers,7.0,236.0,2022.0
+Corey Linsley,31.0,C,14,14.0,301.0,75,Ohio St.,7/27/1991,8,7.0,Los Angeles Chargers,Green Bay Packers,5.0,161.0,2014.0
+Khalil Mack,31.0,RDE,17,17.0,269.0,75,Buffalo,2/22/1991,8,11.0,Los Angeles Chargers,Oakland Raiders,1.0,5.0,2014.0
+Tre' McKitty,23.0,TE,17,8.0,246.0,76,"Florida St.,Georgia",1/12/1999,1,1.0,Los Angeles Chargers,Los Angeles Chargers,3.0,97.0,2021.0
+Sony Michel,27.0,RB,10,0.0,215.0,71,Georgia,2/17/1995,4,1.0,Los Angeles Chargers,New England Patriots,1.0,31.0,2018.0
+David Moa,26.0,DT,2,0.0,296.0,75,Boise St.,6/14/1996,1,0.0,Los Angeles Chargers,,,,
+Jason Moore,27.0,WR,6,0.0,215.0,75,Findlay,6/23/1995,3,0.0,Los Angeles Chargers,,,,
+Kenneth Murray,24.0,MLB,17,16.0,241.0,74,Oklahoma,11/16/1998,2,7.0,Los Angeles Chargers,Los Angeles Chargers,1.0,23.0,2020.0
+Nick Niemann,25.0,LB,17,0.0,234.0,75,Iowa,12/2/1997,1,1.0,Los Angeles Chargers,Los Angeles Chargers,6.0,185.0,2021.0
+Storm Norton,28.0,T,12,0.0,310.0,79,Toledo,5/16/1994,4,1.0,Los Angeles Chargers,,,,
+Amen Ogbongbemiga,24.0,LB,17,0.0,226.0,73,Oklahoma St.,9/4/1998,1,1.0,Los Angeles Chargers,,,,
+Otito Ogbonnia,22.0,DT,7,1.0,320.0,76,UCLA,8/25/2000,0,1.0,Los Angeles Chargers,Los Angeles Chargers,5.0,160.0,2022.0
+Josh Palmer,23.0,WR,16,11.0,210.0,73,Tennessee,9/22/1999,1,6.0,Los Angeles Chargers,Los Angeles Chargers,3.0,77.0,2021.0
+Donald Parham,25.0,TE,6,1.0,237.0,80,Stetson,8/16/1997,2,1.0,Los Angeles Chargers,,,,
+Trey Pipkins,26.0,RT,14,14.0,307.0,78,Sioux Falls,9/5/1996,3,8.0,Los Angeles Chargers,Los Angeles Chargers,3.0,91.0,2019.0
+Troy Reeder,28.0,LB,17,0.0,236.0,75,"Penn St.,Delaware",9/13/1994,3,1.0,Los Angeles Chargers,,,,
+Richard Rodgers,30.0,TE,10,1.0,257.0,76,California,1/22/1992,8,0.0,Los Angeles Chargers,Green Bay Packers,3.0,98.0,2014.0
+Larry Rountree,23.0,RB,4,0.0,211.0,70,Missouri,2/13/1999,1,0.0,Los Angeles Chargers,Los Angeles Chargers,6.0,198.0,2021.0
+Chris Rumph,24.0,LB,15,0.0,244.0,74,Duke,10/19/1998,1,1.0,Los Angeles Chargers,Los Angeles Chargers,4.0,118.0,2021.0
+Jamaree Salyer,22.0,LT,17,14.0,325.0,76,Georgia,7/13/2000,0,7.0,Los Angeles Chargers,Los Angeles Chargers,6.0,195.0,2022.0
+Asante Samuel Jr.,23.0,RCB,17,15.0,180.0,70,Florida St.,10/3/1999,1,5.0,Los Angeles Chargers,Los Angeles Chargers,2.0,47.0,2021.0
+Foster Sarell,24.0,T,7,3.0,315.0,79,Stanford,8/28/1998,1,2.0,Los Angeles Chargers,,,,
+JK Scott,27.0,P,17,0.0,208.0,77,Alabama,10/30/1995,4,2.0,Los Angeles Chargers,Green Bay Packers,5.0,172.0,2018.0
+Rashawn Slater,23.0,T,3,3.0,315.0,76,Northwestern,3/26/1999,1,2.0,Los Angeles Chargers,Los Angeles Chargers,1.0,13.0,2021.0
+Stone Smartt,24.0,TE,7,1.0,226.0,76,"Northern Arizona,Riverside CC,Old Dominion",10/4/1998,0,0.0,Los Angeles Chargers,,,,
+Isaiah Spiller,21.0,RB,6,0.0,215.0,73,Texas A&M,8/9/2001,0,0.0,Los Angeles Chargers,Los Angeles Chargers,4.0,123.0,2022.0
+Ja'Sir Taylor,23.0,DB,17,3.0,185.0,70,Wake Forest,1/8/1999,0,2.0,Los Angeles Chargers,Los Angeles Chargers,6.0,214.0,2022.0
+Jerry Tillery,26.0,DE,7,0.0,295.0,78,Notre Dame,10/8/1996,3,1.0,Los Angeles Chargers,Los Angeles Chargers,1.0,28.0,2019.0
+Drue Tranquill,27.0,LLB,17,16.0,234.0,74,Notre Dame,8/15/1995,3,8.0,Los Angeles Chargers,Los Angeles Chargers,4.0,130.0,2019.0
+Derrek Tuszka,25.0,LB,14,0.0,251.0,76,North Dakota St.,8/17/1997,2,1.0,Los Angeles Chargers,Denver Broncos,7.0,254.0,2020.0
+Kyle Van Noy,31.0,LDE,17,13.0,255.0,75,BYU,3/26/1991,8,7.0,Los Angeles Chargers,Detroit Lions,2.0,40.0,2014.0
+Mike Williams,28.0,WR,13,13.0,218.0,76,Clemson,10/4/1994,5,7.0,Los Angeles Chargers,Los Angeles Chargers,1.0,7.0,2017.0
+JT Woods,22.0,S,10,1.0,195.0,74,Baylor,6/10/2000,0,1.0,Los Angeles Chargers,Los Angeles Chargers,3.0,79.0,2022.0

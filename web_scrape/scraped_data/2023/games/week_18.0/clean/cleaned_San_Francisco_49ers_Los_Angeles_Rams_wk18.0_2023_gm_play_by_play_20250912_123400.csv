@@ -1,0 +1,158 @@
+Quarter,Time,Down,ToGo,Location,LAR,SFO,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Rams won the coin toss and deferred, 49ers to receive the opening kickoff.",,,18.0,2023,271
+1.0,15:00,,,LAR 35,0.0,0.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,271
+1.0,15:00,1.0,10.0,SFO 25,0.0,0.0,Sam Darnold pass complete short right to Deebo Samuel for 6 yards (tackle by Ahkello Witherspoon),0.61,0.87,18.0,2023,271
+1.0,14:29,2.0,4.0,SFO 31,0.0,0.0,Sam Darnold pass complete short left to Charlie Woerner for 20 yards (tackle by Ahkello Witherspoon),0.87,2.32,18.0,2023,271
+1.0,13:44,1.0,10.0,LAR 49,0.0,0.0,Elijah Mitchell right tackle for 4 yards (tackle by Quentin Lake and Bobby Brown),2.32,2.32,18.0,2023,271
+1.0,13:03,2.0,6.0,LAR 45,0.0,0.0,Elijah Mitchell left tackle for 2 yards (tackle by Troy Reeder and Michael Hoecht),2.32,1.88,18.0,2023,271
+1.0,12:20,3.0,4.0,LAR 43,0.0,0.0,Sam Darnold pass complete short left to Brandon Aiyuk for 5 yards (tackle by Ahkello Witherspoon),1.88,3.05,18.0,2023,271
+1.0,11:38,1.0,10.0,LAR 38,0.0,0.0,Elijah Mitchell left guard for 5 yards (tackle by Earnest Brown),3.05,3.18,18.0,2023,271
+1.0,11:02,2.0,5.0,LAR 33,0.0,0.0,Sam Darnold pass complete short middle to Elijah Mitchell for 7 yards (tackle by Troy Reeder),3.18,3.84,18.0,2023,271
+1.0,10:19,1.0,10.0,LAR 26,0.0,0.0,Deebo Samuel left tackle for 11 yards (tackle by Jordan Fuller),3.84,4.58,18.0,2023,271
+1.0,9:34,1.0,10.0,LAR 15,0.0,0.0,Sam Darnold pass complete short right to Brandon Aiyuk for 11 yards (tackle by Cobie Durant),4.58,6.28,18.0,2023,271
+1.0,8:54,1.0,4.0,LAR 4,0.0,0.0,Elijah Mitchell up the middle for no gain (tackle by Jonah Williams and Bobby Brown),6.28,5.34,18.0,2023,271
+1.0,8:13,2.0,4.0,LAR 4,0.0,0.0,Elijah Mitchell left guard for 3 yards (tackle by Larrell Murchison),5.34,5.17,18.0,2023,271
+1.0,7:31,3.0,1.0,LAR 1,0.0,6.0,"Elijah Mitchell right guard for 1 yard, touchdown",5.17,7.0,18.0,2023,271
+1.0,7:27,,,LAR 15,0.0,7.0,Jake Moody kicks extra point good,0.0,0.0,18.0,2023,271
+1.0,7:27,,,SFO 35,0.0,7.0,"Jake Moody kicks off 62 yards,",0.0,0.61,18.0,2023,271
+1.0,7:27,1.0,10.0,LAR 25,0.0,7.0,Ronnie Rivers up the middle for 5 yards (tackle by Charvarius Ward and Oren Burks),0.61,0.74,18.0,2023,271
+1.0,6:59,2.0,5.0,LAR 30,0.0,7.0,Carson Wentz pass complete short right to Davis Allen for 9 yards (tackle by Charvarius Ward),0.74,1.53,18.0,2023,271
+1.0,6:26,1.0,10.0,LAR 39,0.0,7.0,Carson Wentz pass complete short middle to Puka Nacua for 9 yards (tackle by Charvarius Ward),1.53,2.2,18.0,2023,271
+1.0,5:59,2.0,1.0,LAR 48,0.0,7.0,Ronnie Rivers up the middle for 10 yards (tackle by Deommodore Lenoir and Tayler Hawkins),2.2,2.79,18.0,2023,271
+1.0,5:32,1.0,10.0,SFO 42,0.0,7.0,Carson Wentz scrambles up the middle for 2 yards (tackle by Javon Kinlaw),2.79,2.51,18.0,2023,271
+1.0,4:48,2.0,8.0,SFO 40,0.0,7.0,Ronnie Rivers up the middle for 5 yards (tackle by Isaiah Oliver),2.51,2.48,18.0,2023,271
+1.0,4:07,3.0,3.0,SFO 35,0.0,7.0,Ronnie Rivers right guard for 1 yard (tackle by Nick Bosa and Oren Burks),2.48,1.1,18.0,2023,271
+1.0,3:27,4.0,2.0,SFO 34,0.0,7.0,Carson Wentz pass complete short right to Davis Allen for 10 yards (tackle by Logan Ryan),1.1,3.97,18.0,2023,271
+1.0,2:48,1.0,10.0,SFO 24,0.0,7.0,Carson Wentz pass incomplete short right intended for Puka Nacua,3.97,3.43,18.0,2023,271
+1.0,2:41,2.0,10.0,SFO 24,0.0,7.0,Carson Wentz right guard for 5 yards (tackle by Charvarius Ward),3.43,3.41,18.0,2023,271
+1.0,1:59,3.0,5.0,SFO 19,6.0,7.0,"Carson Wentz pass complete deep right to Puka Nacua for 19 yards, touchdown. Penalty on Charvarius Ward: Defensive Pass Interference, 15 yards (declined)",3.41,7.0,18.0,2023,271
+1.0,1:53,,,SFO 15,7.0,7.0,Brett Maher kicks extra point good,0.0,0.0,18.0,2023,271
+1.0,1:53,,,LAR 35,7.0,7.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,271
+1.0,1:53,1.0,10.0,SFO 25,7.0,7.0,"Sam Darnold pass complete to Deebo Samuel for no gain. Penalty on Deebo Samuel: Offensive Pass Interference, 10 yards (accepted) (no play)",0.61,-0.41,18.0,2023,271
+1.0,1:23,1.0,20.0,SFO 15,7.0,7.0,Sam Darnold pass complete short left to Deebo Samuel for 15 yards (tackle by Keir Thomas and Ahkello Witherspoon),-0.41,0.74,18.0,2023,271
+1.0,0:38,2.0,5.0,SFO 30,7.0,7.0,Jordan Mason right guard for 6 yards (tackle by Troy Reeder and Keir Thomas),0.74,1.33,18.0,2023,271
+2.0,15:00,1.0,10.0,SFO 36,7.0,7.0,Sam Darnold pass incomplete deep right intended for Brandon Aiyuk,1.33,0.79,18.0,2023,271
+2.0,14:56,2.0,10.0,SFO 36,7.0,7.0,Jordan Mason left tackle for 16 yards (tackle by Russ Yeast),0.79,2.39,18.0,2023,271
+2.0,14:10,1.0,10.0,LAR 48,7.0,7.0,Sam Darnold pass incomplete short right intended for Ronnie Bell,2.39,1.85,18.0,2023,271
+2.0,14:04,2.0,10.0,LAR 48,7.0,7.0,Sam Darnold up the middle for 9 yards (tackle by Nick Hampton),1.85,2.34,18.0,2023,271
+2.0,13:26,3.0,1.0,LAR 39,7.0,7.0,Sam Darnold up the middle for 2 yards (tackle by Jonah Williams),2.34,3.12,18.0,2023,271
+2.0,12:48,1.0,10.0,LAR 37,7.0,7.0,Sam Darnold pass complete short left to Brandon Aiyuk for 9 yards (tackle by John Johnson),3.12,3.79,18.0,2023,271
+2.0,12:07,2.0,1.0,LAR 28,7.0,7.0,"Sam Darnold aborted snap, recovered by Sam Darnold at LA-29 and returned for -1 yards",3.79,2.94,18.0,2023,271
+2.0,11:29,3.0,2.0,LAR 29,7.0,7.0,Sam Darnold up the middle for 1 yard (tackle by Jonah Williams and Troy Reeder),2.94,1.72,18.0,2023,271
+2.0,10:43,4.0,1.0,LAR 28,7.0,7.0,Jordan Mason left tackle for 3 yards (tackle by Ahkello Witherspoon and John Johnson),1.72,3.91,18.0,2023,271
+2.0,9:59,1.0,10.0,LAR 25,7.0,7.0,Elijah Mitchell left tackle for 14 yards (tackle by Russ Yeast),3.91,4.84,18.0,2023,271
+2.0,9:10,1.0,10.0,LAR 11,7.0,7.0,Elijah Mitchell right tackle for 7 yards (tackle by Cobie Durant and Russ Yeast),4.84,5.6,18.0,2023,271
+2.0,8:31,2.0,2.0,LAR 4,7.0,7.0,Elijah Mitchell right guard for -1 yards (tackle by Bobby Brown and Troy Reeder),5.6,4.44,18.0,2023,271
+2.0,7:48,3.0,4.0,LAR 5,7.0,7.0,"Sam Darnold pass incomplete. Penalty on Quentin Lake: Defensive Holding, 3 yards (accepted) (no play)",4.44,6.74,18.0,2023,271
+2.0,7:41,1.0,2.0,LAR 2,7.0,7.0,Elijah Mitchell left guard for 1 yard (tackle by Bobby Brown),6.74,5.91,18.0,2023,271
+2.0,7:04,2.0,1.0,LAR 1,7.0,13.0,"Sam Darnold up the middle for 1 yard, touchdown",5.91,7.0,18.0,2023,271
+2.0,6:59,,,LAR 15,7.0,14.0,Jake Moody kicks extra point good,0.0,0.0,18.0,2023,271
+2.0,6:59,,,SFO 35,7.0,14.0,"Jake Moody kicks off 61 yards,",0.0,0.61,18.0,2023,271
+2.0,6:59,1.0,10.0,LAR 25,7.0,14.0,Carson Wentz pass short left (defended by Javon Hargrave) intended for Tutu Atwell is intercepted by Tayler Hawkins at LA-36 and returned for no gain (tackle by Tutu Atwell),0.61,-3.18,18.0,2023,271
+2.0,6:54,1.0,10.0,LAR 36,7.0,14.0,Jordan Mason right guard for 3 yards (tackle by Earnest Brown and Troy Reeder),3.18,3.04,18.0,2023,271
+2.0,6:12,2.0,7.0,LAR 33,7.0,14.0,Sam Darnold pass complete short left to Ray-Ray McCloud for 11 yards (tackle by Christian Rozeboom and John Johnson),3.04,4.11,18.0,2023,271
+2.0,5:32,1.0,10.0,LAR 22,7.0,14.0,"Jordan Mason for no gain. Penalty on Aaron Banks: Offensive Holding, 10 yards (accepted) (no play)",4.11,3.45,18.0,2023,271
+2.0,5:02,1.0,20.0,LAR 32,7.0,14.0,Sam Darnold pass incomplete deep middle intended for Ronnie Bell,3.45,2.21,18.0,2023,271
+2.0,4:57,2.0,20.0,LAR 32,7.0,14.0,Sam Darnold pass complete short middle to Jordan Mason for 12 yards (tackle by Quentin Lake and Christian Rozeboom),2.21,3.14,18.0,2023,271
+2.0,4:27,3.0,8.0,LAR 20,7.0,14.0,Sam Darnold pass incomplete short left intended for Ronnie Bell (defended by Derion Kendrick),3.14,2.12,18.0,2023,271
+2.0,4:22,4.0,8.0,LAR 20,7.0,14.0,Jake Moody 38 yard field goal no good,2.12,-0.81,18.0,2023,271
+2.0,4:19,1.0,10.0,LAR 28,7.0,14.0,Carson Wentz pass complete short left to Davis Allen for 5 yards (tackle by Logan Ryan),0.81,0.94,18.0,2023,271
+2.0,3:46,2.0,5.0,LAR 33,7.0,14.0,Ronnie Rivers left guard for 4 yards (tackle by Logan Ryan and Demetrius Flannigan-Fowles),0.94,0.76,18.0,2023,271
+2.0,3:19,3.0,1.0,LAR 37,7.0,14.0,Ronnie Rivers right guard for 3 yards (tackle by Tayler Hawkins),0.76,1.6,18.0,2023,271
+2.0,2:45,1.0,10.0,LAR 40,7.0,14.0,Carson Wentz pass complete short left to Davis Allen for 1 yard (tackle by Isaiah Oliver),1.6,1.19,18.0,2023,271
+2.0,2:04,2.0,9.0,LAR 41,7.0,14.0,Carson Wentz pass incomplete short left intended for Puka Nacua,1.19,0.5,18.0,2023,271
+2.0,1:59,3.0,9.0,LAR 41,7.0,14.0,"Carson Wentz pass incomplete intended for Demarcus Robinson. Penalty on Nick Bosa: Defensive Offside, 5 yards (accepted) (no play)",0.5,1.16,18.0,2023,271
+2.0,1:53,3.0,4.0,LAR 46,7.0,14.0,Carson Wentz pass incomplete deep left intended for Brycen Hopkins,1.16,-0.32,18.0,2023,271
+2.0,1:48,4.0,4.0,LAR 46,7.0,14.0,"Ethan Evans punts 51 yards, returned by Ray-Ray McCloud for 7 yards (tackle by Cobie Durant)",-0.32,0.38,18.0,2023,271
+2.0,1:38,1.0,10.0,SFO 10,7.0,14.0,Ray-Ray McCloud right end for 7 yards (tackle by Russ Yeast and Desjuan Johnson),-0.38,-0.09,18.0,2023,271
+2.0,1:32,,,,,,Timeout #1 by Los Angeles Rams,,,18.0,2023,271
+2.0,1:32,2.0,3.0,SFO 17,7.0,14.0,Sam Darnold pass complete short right to Ray-Ray McCloud for 6 yards,-0.09,0.48,18.0,2023,271
+2.0,1:29,1.0,10.0,SFO 23,7.0,14.0,Elijah Mitchell left tackle for 5 yards (tackle by Quentin Lake),0.48,0.61,18.0,2023,271
+2.0,1:22,,,,,,Timeout #2 by Los Angeles Rams,,,18.0,2023,271
+2.0,1:22,2.0,5.0,SFO 28,7.0,14.0,Sam Darnold pass complete short middle to Elijah Mitchell for 8 yards (tackle by Russ Yeast and Christian Rozeboom),0.61,1.33,18.0,2023,271
+2.0,1:03,1.0,10.0,SFO 36,7.0,14.0,Sam Darnold pass complete short right to Ray-Ray McCloud for 5 yards,1.33,1.47,18.0,2023,271
+2.0,0:59,2.0,5.0,SFO 41,7.0,14.0,Sam Darnold pass complete deep left to Chris Conley for 48 yards (tackle by John Johnson),1.47,4.84,18.0,2023,271
+2.0,0:48,1.0,10.0,LAR 11,7.0,14.0,Elijah Mitchell left tackle for 6 yards (tackle by Michael Hoecht),4.84,5.28,18.0,2023,271
+2.0,0:25,,,,,,Timeout #1 by San Francisco 49ers,,,18.0,2023,271
+2.0,0:25,2.0,4.0,LAR 5,7.0,14.0,Sam Darnold pass incomplete short left intended for Chris Conley,5.28,4.44,18.0,2023,271
+2.0,0:16,3.0,4.0,LAR 5,7.0,20.0,"Sam Darnold pass complete short right to Ronnie Bell for 5 yards, touchdown",4.44,7.0,18.0,2023,271
+2.0,0:11,,,LAR 15,7.0,20.0,Jake Moody kicks extra point no good,0.0,-1.0,18.0,2023,271
+2.0,0:11,,,SFO 35,7.0,20.0,"Jake Moody kicks off 58 yards,",0.0,0.61,18.0,2023,271
+2.0,0:11,1.0,10.0,LAR 25,7.0,20.0,Carson Wentz pass incomplete short right,0.61,0.06,18.0,2023,271
+2.0,0:07,2.0,10.0,LAR 25,7.0,20.0,Carson Wentz pass complete short middle to Brycen Hopkins for 18 yards (tackle by Isaiah Oliver),0.06,1.8,18.0,2023,271
+2.0,0:02,,,,,,Timeout #3 by Los Angeles Rams,,,18.0,2023,271
+2.0,0:02,1.0,10.0,LAR 43,7.0,20.0,"Carson Wentz pass incomplete. Penalty on Randy Gregory: Defensive Offside, 5 yards (accepted) (no play)",1.8,2.53,18.0,2023,271
+2.0,0:00,1.0,5.0,LAR 48,7.0,20.0,Carson Wentz scrambles right end for 2 yards (tackle by Demetrius Flannigan-Fowles),2.53,2.2,18.0,2023,271
+3.0,15:00,,,SFO 35,7.0,20.0,"Jake Moody kicks off 57 yards,",0.0,0.61,18.0,2023,271
+3.0,15:00,1.0,10.0,LAR 25,7.0,20.0,Carson Wentz left end for 2 yards (tackle by Oren Burks),0.61,0.33,18.0,2023,271
+3.0,14:25,2.0,8.0,LAR 27,7.0,20.0,Ronnie Rivers left tackle for 7 yards (tackle by Darrell Luter and Logan Ryan),0.33,0.56,18.0,2023,271
+3.0,14:00,3.0,1.0,LAR 34,7.0,20.0,Carson Wentz scrambles right end for 2 yards (tackle by Isaiah Oliver),0.56,1.33,18.0,2023,271
+3.0,13:22,1.0,10.0,LAR 36,7.0,20.0,Ronnie Rivers up the middle for 8 yards (tackle by Demetrius Flannigan-Fowles and Oren Burks),1.33,1.87,18.0,2023,271
+3.0,12:44,2.0,2.0,LAR 44,7.0,20.0,Carson Wentz pass complete short right to Puka Nacua for 7 yards (tackle by Samuel Womack and Robert Beal),1.87,2.32,18.0,2023,271
+3.0,12:00,1.0,10.0,SFO 49,7.0,20.0,Carson Wentz pass complete short left to Puka Nacua for 6 yards (tackle by Isaiah Oliver),2.32,2.59,18.0,2023,271
+3.0,11:21,2.0,4.0,SFO 43,7.0,20.0,Ronnie Rivers up the middle for 3 yards (tackle by Sebastian Joseph-Day),2.59,2.28,18.0,2023,271
+3.0,10:44,3.0,1.0,SFO 40,7.0,20.0,Carson Wentz left guard for 4 yards (tackle by Kevin Givens),2.28,3.18,18.0,2023,271
+3.0,10:10,1.0,10.0,SFO 36,7.0,20.0,Royce Freeman up the middle for 4 yards (tackle by Isaiah Oliver),3.18,3.18,18.0,2023,271
+3.0,9:31,2.0,6.0,SFO 32,7.0,20.0,Carson Wentz left end for 5 yards (tackle by Oren Burks),3.18,3.14,18.0,2023,271
+3.0,8:57,3.0,1.0,SFO 27,7.0,20.0,Royce Freeman left tackle for 1 yard (tackle by Oren Burks and Demetrius Flannigan-Fowles),3.14,3.84,18.0,2023,271
+3.0,8:18,1.0,10.0,SFO 26,7.0,20.0,Carson Wentz pass complete short right to Tyler Johnson for no gain (tackle by Isaiah Oliver),3.84,3.3,18.0,2023,271
+3.0,7:40,2.0,10.0,SFO 26,7.0,20.0,Carson Wentz sacked by Robert Beal for -7 yards,3.3,1.69,18.0,2023,271
+3.0,6:55,3.0,17.0,SFO 33,7.0,20.0,Carson Wentz pass complete deep left to Brycen Hopkins for 29 yards (tackle by Tayler Hawkins),1.69,6.28,18.0,2023,271
+3.0,6:13,1.0,4.0,SFO 4,7.0,20.0,"Carson Wentz pass incomplete intended for Tyler Johnson. Penalty on Ben Skowronek: Illegal Shift, 5 yards (accepted) (no play)",6.28,5.14,18.0,2023,271
+3.0,6:13,1.0,9.0,SFO 9,7.0,20.0,Carson Wentz up the middle for 4 yards (tackle by Darrell Luter and Kevin Givens),5.14,5.15,18.0,2023,271
+3.0,5:32,2.0,5.0,SFO 5,7.0,20.0,Royce Freeman right end for -3 yards (tackle by Demetrius Flannigan-Fowles),5.15,3.58,18.0,2023,271
+3.0,4:50,3.0,8.0,SFO 8,13.0,20.0,"Carson Wentz pass complete short right to Tyler Johnson for 8 yards, touchdown",3.58,7.0,18.0,2023,271
+3.0,4:45,,,SFO 15,13.0,20.0,Brett Maher kicks extra point no good,0.0,-1.0,18.0,2023,271
+3.0,4:45,,,LAR 35,13.0,20.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,271
+3.0,4:45,1.0,10.0,SFO 25,13.0,20.0,Jordan Mason up the middle for 3 yards (tackle by Christian Rozeboom and Jonah Williams),0.61,0.47,18.0,2023,271
+3.0,4:00,,,,,,Timeout #1 by San Francisco 49ers,,,18.0,2023,271
+3.0,4:00,2.0,7.0,SFO 28,13.0,20.0,Jordan Mason right tackle for 5 yards (tackle by Michael Hoecht),0.47,0.43,18.0,2023,271
+3.0,3:17,3.0,2.0,SFO 33,13.0,20.0,Sam Darnold scrambles up the middle for 5 yards (tackle by Russ Yeast),0.43,1.47,18.0,2023,271
+3.0,2:38,1.0,10.0,SFO 38,13.0,20.0,Sam Darnold sacked by Byron Young for -7 yards,1.47,-0.02,18.0,2023,271
+3.0,1:55,2.0,17.0,SFO 31,13.0,20.0,Sam Darnold pass complete short left to Chris Conley for 3 yards (tackle by Jake Hummel),-0.02,-0.29,18.0,2023,271
+3.0,1:17,3.0,14.0,SFO 34,13.0,20.0,Sam Darnold pass incomplete deep left intended for Ronnie Bell,-0.29,-1.11,18.0,2023,271
+3.0,1:10,4.0,14.0,SFO 34,13.0,20.0,Mitch Wishnowsky punts 47 yards out of bounds,-1.11,-0.15,18.0,2023,271
+3.0,1:02,1.0,10.0,LAR 19,13.0,20.0,Ronnie Rivers left guard for -1 yards (tackle by Logan Ryan),0.15,-0.56,18.0,2023,271
+3.0,0:25,2.0,11.0,LAR 18,13.0,20.0,Carson Wentz pass incomplete short left intended for Tyler Johnson,-0.56,-1.25,18.0,2023,271
+3.0,0:18,3.0,11.0,LAR 18,13.0,20.0,Carson Wentz pass complete deep middle to Ben Skowronek for 17 yards (tackle by Tayler Hawkins),-1.25,1.27,18.0,2023,271
+4.0,15:00,1.0,10.0,LAR 35,13.0,20.0,Carson Wentz pass complete short left to Royce Freeman for 13 yards (tackle by Kevin Givens),1.27,2.13,18.0,2023,271
+4.0,14:21,1.0,10.0,LAR 48,13.0,20.0,Ronnie Rivers up the middle for 2 yards (tackle by Chase Young),2.13,1.85,18.0,2023,271
+4.0,13:40,2.0,8.0,LAR 50,13.0,20.0,Carson Wentz up the middle for 6 yards (tackle by Sebastian Joseph-Day),1.85,1.95,18.0,2023,271
+4.0,12:55,3.0,2.0,SFO 44,13.0,20.0,Carson Wentz right tackle for 1 yard (tackle by Sebastian Joseph-Day),1.95,0.4,18.0,2023,271
+4.0,12:14,,,,,,Timeout #1 by Los Angeles Rams,,,18.0,2023,271
+4.0,12:14,4.0,1.0,SFO 43,13.0,20.0,Carson Wentz up the middle for 2 yards (tackle by Randy Gregory),0.4,2.85,18.0,2023,271
+4.0,11:35,1.0,10.0,SFO 41,13.0,20.0,Ronnie Rivers right tackle for 3 yards (tackle by Sebastian Joseph-Day),2.85,2.71,18.0,2023,271
+4.0,10:54,2.0,7.0,SFO 38,13.0,20.0,Zach Evans left end for 3 yards (tackle by Isaiah Oliver),2.71,2.41,18.0,2023,271
+4.0,10:08,3.0,4.0,SFO 35,13.0,20.0,Carson Wentz pass incomplete short middle intended for Tutu Atwell,2.41,0.98,18.0,2023,271
+4.0,10:03,4.0,4.0,SFO 35,13.0,20.0,"Royce Freeman left end for no gain SFO challenged the runner was down by contact ruling, and the original play was overturned. (tackle by Oren Burks) Carson Wentz sacked by Oren Burks for -7 yards",0.98,-1.73,18.0,2023,271
+4.0,9:59,1.0,10.0,SFO 42,13.0,20.0,Elijah Mitchell right guard for 4 yards (tackle by Jason Taylor and Christian Rozeboom),1.73,1.73,18.0,2023,271
+4.0,9:24,2.0,6.0,SFO 46,13.0,20.0,Elijah Mitchell left tackle for 1 yard (tackle by Christian Rozeboom and Earnest Brown),1.73,1.16,18.0,2023,271
+4.0,8:39,3.0,5.0,SFO 47,13.0,20.0,Sam Darnold scrambles up the middle for 1 yard (tackle by Michael Hoecht),1.16,-0.19,18.0,2023,271
+4.0,7:55,4.0,4.0,SFO 48,13.0,20.0,"Mitch Wishnowsky punts 36 yards, returned by Austin Trammell for 13 yards (tackle by Isaiah Oliver)",-0.19,-0.87,18.0,2023,271
+4.0,7:49,1.0,10.0,LAR 29,13.0,20.0,"Carson Wentz pass incomplete deep middle intended for Ben Skowronek. Penalty on Tayler Hawkins: Defensive Pass Interference, 48 yards (accepted) (no play)",0.87,4.04,18.0,2023,271
+4.0,7:40,1.0,10.0,SFO 23,13.0,20.0,Carson Wentz scrambles up the middle for 5 yards (tackle by Demetrius Flannigan-Fowles),4.04,4.21,18.0,2023,271
+4.0,6:59,2.0,5.0,SFO 18,13.0,20.0,Carson Wentz right tackle for 3 yards (tackle by Sebastian Joseph-Day and Logan Ryan),4.21,4.05,18.0,2023,271
+4.0,6:22,3.0,2.0,SFO 15,13.0,20.0,Royce Freeman right guard for no gain (tackle by Logan Ryan),4.05,2.57,18.0,2023,271
+4.0,5:39,4.0,2.0,SFO 15,13.0,20.0,Carson Wentz pass complete short right to Tutu Atwell for 3 yards (tackle by Samuel Womack),2.57,4.78,18.0,2023,271
+4.0,5:02,1.0,10.0,SFO 12,19.0,20.0,"Carson Wentz up the middle for 12 yards, touchdown",4.78,7.0,18.0,2023,271
+4.0,4:56,,,SFO 2,21.0,20.0,Two Point Attempt: Carson Wentz pass complete to to Tutu Atwell for no gain,1.0,1.0,18.0,2023,271
+4.0,4:56,,,LAR 35,21.0,20.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,271
+4.0,4:56,1.0,10.0,SFO 25,21.0,20.0,Sam Darnold pass incomplete deep left intended for Ray-Ray McCloud (defended by Russ Yeast),0.61,0.06,18.0,2023,271
+4.0,4:45,2.0,10.0,SFO 25,21.0,20.0,Sam Darnold pass incomplete short left intended for Chris Conley,0.06,-0.62,18.0,2023,271
+4.0,4:41,3.0,10.0,SFO 25,21.0,20.0,Sam Darnold sacked by Michael Hoecht for -7 yards,-0.62,-2.24,18.0,2023,271
+4.0,3:59,4.0,17.0,SFO 18,21.0,20.0,"Mitch Wishnowsky punts 61 yards, returned by Austin Trammell for 13 yards (tackle by Jeremy McNichols and Dee Winters)",-2.24,-1.2,18.0,2023,271
+4.0,3:48,1.0,10.0,LAR 34,21.0,20.0,Ronnie Rivers up the middle for 2 yards (tackle by Javon Kinlaw and Robert Beal),1.2,0.93,18.0,2023,271
+4.0,3:04,2.0,8.0,LAR 36,21.0,20.0,Carson Wentz pass complete short left to Ben Skowronek for 5 yards (tackle by Demetrius Flannigan-Fowles and Darrell Luter),0.93,0.89,18.0,2023,271
+4.0,2:20,3.0,3.0,LAR 41,21.0,20.0,Carson Wentz pass complete short right to Tutu Atwell for 4 yards (tackle by Isaiah Oliver),0.89,1.93,18.0,2023,271
+4.0,2:12,,,,,,Timeout #2 by San Francisco 49ers,,,18.0,2023,271
+4.0,2:12,1.0,10.0,LAR 45,21.0,20.0,Tutu Atwell left end for -4 yards (tackle by Demetrius Flannigan-Fowles),1.93,0.84,18.0,2023,271
+4.0,2:00,2.0,14.0,LAR 41,21.0,20.0,Carson Wentz up the middle for 5 yards (tackle by Darrell Luter and Demetrius Flannigan-Fowles),0.84,0.83,18.0,2023,271
+4.0,1:55,,,,,,Timeout #3 by San Francisco 49ers,,,18.0,2023,271
+4.0,1:55,,,,,,Timeout #2 by Los Angeles Rams,,,18.0,2023,271
+4.0,1:55,3.0,9.0,LAR 46,21.0,20.0,Carson Wentz right tackle for -3 yards (tackle by Demetrius Flannigan-Fowles and Chase Young),0.83,-0.52,18.0,2023,271
+4.0,1:07,4.0,12.0,LAR 43,21.0,20.0,"Ethan Evans punts 45 yards, returned by Ray-Ray McCloud for 10 yards (tackle by Michael Hoecht and Olakunle Fatukasi)",-0.52,-0.41,18.0,2023,271
+4.0,0:55,1.0,10.0,SFO 22,21.0,20.0,"Sam Darnold pass incomplete deep right intended for Chris Conley (defended by Russ Yeast) Replay Assistant challenged the pass completion ruling, and the play was upheld.",0.41,-0.13,18.0,2023,271
+4.0,0:49,2.0,10.0,SFO 22,21.0,20.0,Sam Darnold pass complete deep middle to Chris Conley for 18 yards (tackle by Russ Yeast),-0.13,1.6,18.0,2023,271
+4.0,0:34,1.0,10.0,SFO 40,21.0,20.0,Sam Darnold spiked the ball,1.6,1.05,18.0,2023,271
+4.0,0:33,2.0,10.0,SFO 40,21.0,20.0,"Sam Darnold sacked by Desjuan Johnson for no gain. Sam Darnold fumbles (forced by Desjuan Johnson), recovered by Byron Young at SF-43 (tackle by Desjuan Johnson)",1.05,-2.72,18.0,2023,271
+4.0,0:25,1.0,10.0,SFO 43,21.0,20.0,Carson Wentz kneels for -1 yards,2.72,2.04,18.0,2023,271

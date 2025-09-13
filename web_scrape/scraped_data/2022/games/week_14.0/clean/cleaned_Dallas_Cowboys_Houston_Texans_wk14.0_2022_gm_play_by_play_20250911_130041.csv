@@ -1,0 +1,179 @@
+Quarter,Time,Down,ToGo,Location,HOU,DAL,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Texans won the coin toss and deferred, Cowboys to receive the opening kickoff.",,,14.0,2022,199
+1.0,15:00,,,HOU 35,0.0,0.0,"Ka'imi Fairbairn kicks off 68 yards, returned by KaVontae Turpin for 27 yards (tackle by Neville Hewitt)",0.0,0.54,14.0,2022,199
+1.0,14:55,1.0,10.0,DAL 24,0.0,0.0,Dak Prescott pass complete short right to Ezekiel Elliott for 8 yards (tackle by Jake Hansen),0.54,1.08,14.0,2022,199
+1.0,14:22,2.0,2.0,DAL 32,0.0,0.0,Dak Prescott pass incomplete short middle intended for Michael Gallup,1.08,0.37,14.0,2022,199
+1.0,14:16,3.0,2.0,DAL 32,0.0,0.0,Dak Prescott pass complete short right to CeeDee Lamb for 13 yards (tackle by Christian Kirksey),0.37,1.93,14.0,2022,199
+1.0,13:46,1.0,10.0,DAL 45,0.0,0.0,Tony Pollard right end for 11 yards (tackle by Roy Lopez and Jalen Pitre),1.93,2.65,14.0,2022,199
+1.0,13:24,1.0,10.0,HOU 44,0.0,0.0,Dak Prescott pass incomplete deep right intended for Dalton Schultz,2.65,2.11,14.0,2022,199
+1.0,13:18,2.0,10.0,HOU 44,0.0,0.0,Ezekiel Elliott up the middle for 7 yards (tackle by Tavierre Thomas and Mario Addison),2.11,2.35,14.0,2022,199
+1.0,12:45,3.0,3.0,HOU 37,0.0,0.0,Ezekiel Elliott up the middle for 25 yards (tackle by Desmond King and Tavierre Thomas),2.35,4.78,14.0,2022,199
+1.0,12:05,1.0,10.0,HOU 12,0.0,0.0,Ezekiel Elliott left tackle for 1 yard (tackle by Maliek Collins),4.78,4.27,14.0,2022,199
+1.0,11:25,2.0,9.0,HOU 11,0.0,6.0,"Tony Pollard right end for 11 yards, touchdown",4.27,7.0,14.0,2022,199
+1.0,11:20,,,HOU 15,0.0,7.0,Brett Maher kicks extra point good,0.0,0.0,14.0,2022,199
+1.0,11:20,,,DAL 35,0.0,7.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,199
+1.0,11:20,1.0,10.0,HOU 25,0.0,7.0,Dameon Pierce right tackle for no gain (tackle by Donovan Wilson),0.61,0.06,14.0,2022,199
+1.0,10:39,2.0,10.0,HOU 25,0.0,7.0,Dameon Pierce up the middle for 2 yards (tackle by Osa Odighizuwa),0.06,-0.36,14.0,2022,199
+1.0,9:57,3.0,8.0,HOU 27,0.0,7.0,Davis Mills pass complete short left to Chris Moore for 1 yard (tackle by DeMarcus Lawrence),-0.36,-1.5,14.0,2022,199
+1.0,9:11,4.0,7.0,HOU 28,0.0,7.0,"Cameron Johnston punts 48 yards, recovered by Blake Cashman at DAL-24",-1.5,3.97,14.0,2022,199
+1.0,9:01,1.0,10.0,DAL 24,0.0,7.0,Jeff Driskel right end for 3 yards (tackle by Leighton Vander Esch),3.97,3.84,14.0,2022,199
+1.0,8:23,2.0,7.0,DAL 21,0.0,7.0,Jeff Driskel pass complete short right to Chris Moore for 5 yards (tackle by Donovan Wilson),3.84,3.95,14.0,2022,199
+1.0,7:36,3.0,2.0,DAL 16,0.0,7.0,Dameon Pierce left tackle for 8 yards (tackle by Micah Parsons),3.95,5.37,14.0,2022,199
+1.0,6:49,1.0,8.0,DAL 8,0.0,7.0,Dameon Pierce left tackle for 3 yards (tackle by Micah Parsons and Leighton Vander Esch),5.37,5.15,14.0,2022,199
+1.0,6:07,2.0,5.0,DAL 5,0.0,7.0,Dameon Pierce right guard for 4 yards (tackle by Leighton Vander Esch and DaRon Bland),5.15,5.17,14.0,2022,199
+1.0,5:47,3.0,1.0,DAL 1,0.0,7.0,Jeff Driskel up the middle for no gain (tackle by Anthony Barr). Penalty on Micah Parsons: Defensive Offside (accepted) (no play),5.17,5.17,14.0,2022,199
+1.0,5:36,3.0,1.0,DAL 1,6.0,7.0,"Dameon Pierce right tackle for 1 yard, touchdown",5.17,7.0,14.0,2022,199
+1.0,5:33,,,DAL 15,7.0,7.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,14.0,2022,199
+1.0,5:33,,,HOU 35,7.0,7.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,199
+1.0,5:33,1.0,10.0,DAL 25,7.0,7.0,Tony Pollard right tackle for no gain (tackle by Maliek Collins),0.61,0.06,14.0,2022,199
+1.0,4:53,2.0,10.0,DAL 25,7.0,7.0,Tony Pollard left end for -3 yards (tackle by Maliek Collins),0.06,-1.02,14.0,2022,199
+1.0,4:20,3.0,13.0,DAL 22,7.0,7.0,Dak Prescott pass complete short left to Noah Brown for 9 yards (tackle by Desmond King and Jonathan Owens),-1.02,-1.31,14.0,2022,199
+1.0,3:39,4.0,4.0,DAL 31,7.0,7.0,"Bryan Anger punts 53 yards, returned by Desmond King for 12 yards (tackle by Damone Clark)",-1.31,-0.81,14.0,2022,199
+1.0,3:27,1.0,10.0,HOU 28,7.0,7.0,Davis Mills pass complete short left to Phillip Dorsett for 9 yards (tackle by Dante Fowler),0.81,1.48,14.0,2022,199
+1.0,2:49,2.0,1.0,HOU 37,7.0,7.0,"Davis Mills pass complete deep right to Chris Moore for 36 yards DAL challenged the pass completion ruling, and the play was upheld.",1.48,3.78,14.0,2022,199
+1.0,2:16,1.0,10.0,DAL 27,7.0,7.0,Dameon Pierce up the middle for 2 yards (tackle by Dorance Armstrong and Micah Parsons),3.78,3.5,14.0,2022,199
+1.0,1:38,2.0,8.0,DAL 25,7.0,7.0,Dameon Pierce right guard for 3 yards (tackle by Leighton Vander Esch and Neville Gallimore),3.5,3.2,14.0,2022,199
+1.0,1:06,3.0,5.0,DAL 22,7.0,7.0,Dare Ogunbowale left end for -3 yards (tackle by Osa Odighizuwa),3.2,1.8,14.0,2022,199
+1.0,0:22,4.0,8.0,DAL 25,10.0,7.0,Ka'imi Fairbairn 43 yard field goal good,1.8,3.0,14.0,2022,199
+1.0,0:18,,,HOU 35,10.0,7.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,199
+1.0,0:18,1.0,10.0,DAL 25,10.0,7.0,Dak Prescott pass complete short left to Tony Pollard for -2 yards (tackle by Desmond King),0.61,-0.21,14.0,2022,199
+2.0,15:00,2.0,12.0,DAL 23,10.0,7.0,Dak Prescott pass incomplete short left intended for Michael Gallup (defended by Thomas Booker),-0.21,-0.89,14.0,2022,199
+2.0,14:56,3.0,12.0,DAL 23,10.0,7.0,"Dak Prescott pass complete deep right to Noah Brown for 51 yards (tackle by Jalen Pitre). Penalty on Tavierre Thomas: Defensive Holding, 5 yards (declined)",-0.89,3.84,14.0,2022,199
+2.0,14:37,1.0,10.0,HOU 26,10.0,7.0,Dak Prescott pass complete short left to CeeDee Lamb for 3 yards (tackle by Christian Kirksey and Tavierre Thomas),3.84,3.7,14.0,2022,199
+2.0,14:00,2.0,7.0,HOU 23,10.0,7.0,Tony Pollard right end for 18 yards (tackle by Jonathan Owens),3.7,6.06,14.0,2022,199
+2.0,13:27,1.0,5.0,HOU 5,10.0,7.0,"Penalty on Terence Steele: False Start, 5 yards (accepted) (no play)",6.06,4.91,14.0,2022,199
+2.0,13:09,1.0,10.0,HOU 10,10.0,7.0,Tony Pollard right tackle for no gain (tackle by Maliek Collins),4.91,4.19,14.0,2022,199
+2.0,12:34,2.0,10.0,HOU 10,10.0,13.0,"Dak Prescott pass complete short left to Tony Pollard for 10 yards, touchdown",4.19,7.0,14.0,2022,199
+2.0,12:28,,,HOU 15,10.0,14.0,Brett Maher kicks extra point good,0.0,0.0,14.0,2022,199
+2.0,12:28,,,DAL 35,10.0,14.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,199
+2.0,12:28,1.0,10.0,HOU 25,10.0,14.0,Dameon Pierce left end for 2 yards (tackle by DeMarcus Lawrence and Leighton Vander Esch),0.61,0.33,14.0,2022,199
+2.0,11:49,2.0,8.0,HOU 27,10.0,14.0,Davis Mills pass complete short left to Jordan Akins for 5 yards (tackle by Trevon Diggs),0.33,0.3,14.0,2022,199
+2.0,11:07,3.0,3.0,HOU 32,10.0,14.0,Davis Mills pass complete short left to Chris Moore for 4 yards (tackle by Trevon Diggs),0.3,1.33,14.0,2022,199
+2.0,10:28,1.0,10.0,HOU 36,10.0,14.0,Amari Rodgers right end for 3 yards (tackle by Leighton Vander Esch and Damone Clark),1.33,1.2,14.0,2022,199
+2.0,9:50,2.0,7.0,HOU 39,10.0,14.0,Jeff Driskel left end for 5 yards (tackle by Trevon Diggs),1.2,1.16,14.0,2022,199
+2.0,9:09,3.0,2.0,HOU 44,10.0,14.0,Jeff Driskel right end for 7 yards (tackle by Malik Hooker),1.16,2.32,14.0,2022,199
+2.0,8:32,1.0,10.0,DAL 49,10.0,14.0,Dameon Pierce left guard for 7 yards (tackle by Leighton Vander Esch),2.32,2.73,14.0,2022,199
+2.0,7:52,2.0,3.0,DAL 42,10.0,14.0,Dameon Pierce right end for no gain (tackle by Damone Clark),2.73,2.02,14.0,2022,199
+2.0,7:07,3.0,3.0,DAL 42,10.0,14.0,Dameon Pierce up the middle for no gain (tackle by Leighton Vander Esch),2.02,0.46,14.0,2022,199
+2.0,6:22,4.0,3.0,DAL 42,10.0,14.0,Dameon Pierce up the middle for 2 yards (tackle by Johnathan Hankins),0.46,-1.6,14.0,2022,199
+2.0,6:13,1.0,10.0,DAL 40,10.0,14.0,Ezekiel Elliott left end for no gain (tackle by Taylor Stallworth and Jake Hansen),1.6,1.05,14.0,2022,199
+2.0,5:36,2.0,10.0,DAL 40,10.0,14.0,Dak Prescott pass incomplete short right intended for Ezekiel Elliott,1.05,0.37,14.0,2022,199
+2.0,5:28,3.0,10.0,DAL 40,10.0,14.0,Dak Prescott pass complete short left to Tony Pollard for 6 yards (tackle by Desmond King and Christian Harris),0.37,-0.32,14.0,2022,199
+2.0,4:47,4.0,4.0,DAL 46,10.0,14.0,"Bryan Anger punts 42 yards, returned by Desmond King for 9 yards (tackle by Matt Overton and Luke Gifford)",-0.32,-0.34,14.0,2022,199
+2.0,4:36,1.0,10.0,HOU 21,10.0,14.0,Dameon Pierce left tackle for 2 yards (tackle by Leighton Vander Esch),0.34,0.07,14.0,2022,199
+2.0,4:01,2.0,8.0,HOU 23,10.0,14.0,Davis Mills pass incomplete short left,0.07,-0.63,14.0,2022,199
+2.0,3:57,3.0,8.0,HOU 23,10.0,14.0,Davis Mills pass incomplete short right intended for Phillip Dorsett,-0.63,-1.83,14.0,2022,199
+2.0,3:52,4.0,8.0,HOU 23,10.0,14.0,"Cameron Johnston punts 50 yards, returned by KaVontae Turpin for 9 yards (tackle by Chris Moore)",-1.83,-1.33,14.0,2022,199
+2.0,3:42,1.0,10.0,DAL 36,10.0,14.0,Ezekiel Elliott right guard for 2 yards (tackle by Tremon Smith and Jalen Pitre),1.33,1.06,14.0,2022,199
+2.0,3:21,2.0,8.0,DAL 38,10.0,14.0,Dak Prescott pass short right (defended by M.J. Stewart) intended for Noah Brown is intercepted by Tremon Smith at HOU-47 and returned for 26 yards (tackle by Ezekiel Elliott),1.06,-3.78,14.0,2022,199
+2.0,3:12,1.0,10.0,DAL 27,10.0,14.0,"Penalty on Kenyon Green: False Start, 5 yards (accepted) (no play)",3.78,3.45,14.0,2022,199
+2.0,3:12,1.0,15.0,DAL 32,10.0,14.0,Dameon Pierce right tackle for 4 yards (tackle by Osa Odighizuwa),3.45,3.1,14.0,2022,199
+2.0,2:30,2.0,11.0,DAL 28,16.0,14.0,"Jeff Driskel pass complete deep right to Amari Rodgers for 28 yards, touchdown",3.1,7.0,14.0,2022,199
+2.0,2:23,,,DAL 15,17.0,14.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,14.0,2022,199
+2.0,2:23,,,HOU 35,17.0,14.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,199
+2.0,2:23,1.0,10.0,DAL 25,17.0,14.0,Dak Prescott pass complete short middle to CeeDee Lamb for 7 yards (tackle by Christian Kirksey),0.61,1.01,14.0,2022,199
+2.0,2:00,2.0,3.0,DAL 32,17.0,14.0,Dak Prescott pass complete short left to Dalton Schultz for 8 yards (tackle by Desmond King),1.01,1.6,14.0,2022,199
+2.0,1:56,1.0,10.0,DAL 40,17.0,14.0,Dak Prescott pass complete short right to Noah Brown for 7 yards (tackle by Christian Harris),1.6,2.0,14.0,2022,199
+2.0,1:36,2.0,3.0,DAL 47,17.0,14.0,"Dak Prescott pass complete deep right to Michael Gallup for 16 yards (tackle by Jalen Pitre). Penalty on Desmond King: Illegal Contact, 5 yards (declined)",2.0,3.12,14.0,2022,199
+2.0,1:30,1.0,10.0,HOU 37,17.0,14.0,Dak Prescott pass incomplete short right intended for James Washington (defended by Jalen Pitre),3.12,2.57,14.0,2022,199
+2.0,1:26,2.0,10.0,HOU 37,17.0,14.0,Dak Prescott pass incomplete short middle intended for Dalton Schultz,2.57,1.88,14.0,2022,199
+2.0,1:21,3.0,10.0,HOU 37,17.0,14.0,Dak Prescott pass complete short middle to Dalton Schultz for 22 yards (tackle by Christian Harris),1.88,4.58,14.0,2022,199
+2.0,0:57,1.0,10.0,HOU 15,17.0,14.0,Dak Prescott pass incomplete short middle intended for Dalton Schultz,4.58,3.95,14.0,2022,199
+2.0,0:53,2.0,10.0,HOU 15,17.0,14.0,Dak Prescott pass incomplete short right intended for Tony Pollard,3.95,3.1,14.0,2022,199
+2.0,0:49,,,,,,Timeout #2 by Dallas Cowboys,,,14.0,2022,199
+2.0,0:49,3.0,10.0,HOU 15,17.0,14.0,Dak Prescott pass incomplete short left intended for Noah Brown (defended by Jalen Pitre),3.1,2.44,14.0,2022,199
+2.0,0:44,4.0,10.0,HOU 15,17.0,17.0,Brett Maher 33 yard field goal good,2.44,3.0,14.0,2022,199
+2.0,0:40,,,DAL 35,17.0,17.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,199
+2.0,0:40,1.0,10.0,HOU 25,17.0,17.0,Davis Mills pass complete deep right to Chris Moore for 18 yards (tackle by Kelvin Joseph),0.61,1.8,14.0,2022,199
+2.0,0:34,,,,,,Timeout #1 by Houston Texans,,,14.0,2022,199
+2.0,0:34,1.0,10.0,HOU 43,17.0,17.0,Davis Mills pass complete short right to Dare Ogunbowale for 4 yards (tackle by Jayron Kearse),1.8,1.79,14.0,2022,199
+2.0,0:29,2.0,6.0,HOU 47,17.0,17.0,Davis Mills pass complete short left to Amari Rodgers for 7 yards (tackle by DaRon Bland),1.79,2.52,14.0,2022,199
+2.0,0:23,,,,,,Timeout #2 by Houston Texans,,,14.0,2022,199
+2.0,0:23,1.0,10.0,DAL 46,17.0,17.0,"Davis Mills pass incomplete deep left intended for Phillip Dorsett. Penalty on Dorance Armstrong: Defensive Offside, 5 yards (accepted) . Penalty on Trevon Diggs: Defensive Pass Interference, 15 yards (declined) (no play)",2.52,3.25,14.0,2022,199
+2.0,0:19,1.0,5.0,DAL 41,17.0,17.0,Davis Mills pass complete short right to Phillip Dorsett for 9 yards (tackle by Kelvin Joseph),3.25,3.45,14.0,2022,199
+2.0,0:02,,,,,,Timeout #3 by Houston Texans,,,14.0,2022,199
+2.0,0:02,1.0,10.0,DAL 32,20.0,17.0,Ka'imi Fairbairn 50 yard field goal good,3.45,3.0,14.0,2022,199
+3.0,15:00,,,DAL 35,20.0,17.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,199
+3.0,15:00,1.0,10.0,HOU 25,20.0,17.0,Jeff Driskel pass complete short left to Chris Moore for 1 yard (tackle by DaRon Bland),0.61,0.2,14.0,2022,199
+3.0,14:32,2.0,9.0,HOU 26,20.0,17.0,Dameon Pierce up the middle for 3 yards (tackle by Carlos Watkins and Osa Odighizuwa),0.2,-0.1,14.0,2022,199
+3.0,13:55,3.0,6.0,HOU 29,20.0,17.0,Davis Mills pass complete short middle to Amari Rodgers for 8 yards (tackle by Damone Clark),-0.1,1.4,14.0,2022,199
+3.0,13:19,1.0,10.0,HOU 37,20.0,17.0,"Dameon Pierce left tackle for no gain. Dameon Pierce fumbles (forced by Donovan Wilson), recovered by Trevon Diggs at HOU-45 and returned for 17 yards (tackle by A.J. Cann)",1.4,-3.71,14.0,2022,199
+3.0,12:59,1.0,10.0,HOU 28,20.0,17.0,Ezekiel Elliott up the middle for 5 yards (tackle by Jalen Pitre),3.71,3.84,14.0,2022,199
+3.0,12:38,2.0,5.0,HOU 23,20.0,17.0,Ezekiel Elliott up the middle for 5 yards (tackle by Jonathan Owens and Roy Lopez),3.84,4.37,14.0,2022,199
+3.0,12:06,1.0,10.0,HOU 18,20.0,17.0,Ezekiel Elliott left end for 6 yards (tackle by Jalen Pitre),4.37,4.81,14.0,2022,199
+3.0,11:30,2.0,4.0,HOU 12,20.0,17.0,Tony Pollard left guard for 3 yards (tackle by Roy Lopez and Christian Kirksey),4.81,4.74,14.0,2022,199
+3.0,10:55,3.0,1.0,HOU 9,20.0,17.0,Tony Pollard up the middle for 1 yard (tackle by Ogbonnia Okoronkwo and Taylor Stallworth),4.74,5.37,14.0,2022,199
+3.0,10:22,1.0,8.0,HOU 8,20.0,17.0,Ezekiel Elliott right end for 1 yard (tackle by Jake Hansen),5.37,4.76,14.0,2022,199
+3.0,9:39,2.0,7.0,HOU 7,20.0,17.0,Ezekiel Elliott right tackle for 4 yards (tackle by Rasheem Green),4.76,4.72,14.0,2022,199
+3.0,9:00,3.0,3.0,HOU 3,20.0,17.0,Ezekiel Elliott left guard for 2 yards (tackle by Jalen Pitre),4.72,3.55,14.0,2022,199
+3.0,8:23,4.0,1.0,HOU 1,20.0,17.0,Ezekiel Elliott up the middle for -1 yards (tackle by Desmond King and Christian Harris),3.55,0.38,14.0,2022,199
+3.0,8:19,1.0,10.0,HOU 2,20.0,17.0,Dameon Pierce right tackle for 4 yards (tackle by Leighton Vander Esch),-0.38,-0.49,14.0,2022,199
+3.0,7:53,2.0,6.0,HOU 6,20.0,17.0,Jeff Driskel scrambles right end for 10 yards (tackle by Leighton Vander Esch),-0.49,-0.14,14.0,2022,199
+3.0,7:12,1.0,10.0,HOU 16,20.0,17.0,Dameon Pierce right guard for 24 yards (tackle by DaRon Bland and Jayron Kearse),-0.14,1.6,14.0,2022,199
+3.0,6:26,1.0,10.0,HOU 40,20.0,17.0,Dameon Pierce right guard for 4 yards (tackle by DeMarcus Lawrence and Dante Fowler),1.6,1.59,14.0,2022,199
+3.0,5:46,2.0,6.0,HOU 44,20.0,17.0,Jeff Driskel pass incomplete short middle intended for Jordan Akins (defended by Jayron Kearse),1.59,0.89,14.0,2022,199
+3.0,5:42,3.0,6.0,HOU 44,20.0,17.0,Davis Mills pass complete short left to Amari Rodgers for 14 yards (tackle by DaRon Bland),0.89,2.79,14.0,2022,199
+3.0,5:09,1.0,10.0,DAL 42,20.0,17.0,Eno Benjamin up the middle for -4 yards (tackle by Quinton Bohanna and Sam Williams),2.79,1.7,14.0,2022,199
+3.0,4:26,2.0,14.0,DAL 46,20.0,17.0,Jeff Driskel left end for 5 yards (tackle by Trevon Diggs),1.7,1.68,14.0,2022,199
+3.0,3:42,3.0,9.0,DAL 41,20.0,17.0,Davis Mills pass complete to Chris Moore for 6 yards (tackle by Kelvin Joseph),1.68,0.99,14.0,2022,199
+3.0,3:07,4.0,3.0,DAL 35,23.0,17.0,Ka'imi Fairbairn 54 yard field goal good,0.99,3.0,14.0,2022,199
+3.0,3:03,,,HOU 35,23.0,17.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,199
+3.0,3:03,1.0,10.0,DAL 25,23.0,17.0,Dak Prescott pass complete short right to Tony Pollard for 6 yards (tackle by Tremon Smith),0.61,0.87,14.0,2022,199
+3.0,2:38,2.0,4.0,DAL 31,23.0,17.0,Dak Prescott pass incomplete short middle intended for CeeDee Lamb (defended by Christian Harris),0.87,0.17,14.0,2022,199
+3.0,2:33,3.0,4.0,DAL 31,23.0,17.0,Dak Prescott scrambles left end for 3 yards (tackle by Christian Kirksey),0.17,-1.11,14.0,2022,199
+3.0,1:49,4.0,1.0,DAL 34,23.0,17.0,Dak Prescott up the middle for 4 yards (tackle by Tavierre Thomas and Desmond King),-1.11,1.47,14.0,2022,199
+3.0,1:25,1.0,10.0,DAL 38,23.0,17.0,Dak Prescott pass complete short middle to Michael Gallup for 24 yards (tackle by Jalen Pitre),1.47,3.05,14.0,2022,199
+3.0,1:01,1.0,10.0,HOU 38,23.0,17.0,Dak Prescott pass complete short middle to Dalton Schultz for 5 yards (tackle by Taylor Stallworth),3.05,3.18,14.0,2022,199
+3.0,0:28,2.0,5.0,HOU 33,23.0,17.0,Tony Pollard left tackle for -2 yards (tackle by Taylor Stallworth),3.18,2.21,14.0,2022,199
+4.0,15:00,3.0,7.0,HOU 35,23.0,17.0,Dak Prescott pass incomplete short right intended for Michael Gallup (defended by Christian Kirksey),2.21,0.97,14.0,2022,199
+4.0,14:54,4.0,7.0,HOU 35,23.0,20.0,Brett Maher 53 yard field goal good,0.97,3.0,14.0,2022,199
+4.0,14:50,,,DAL 35,23.0,20.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,199
+4.0,14:50,1.0,10.0,HOU 25,23.0,20.0,Davis Mills scrambles right end for 2 yards (tackle by Leighton Vander Esch),0.61,0.33,14.0,2022,199
+4.0,14:13,2.0,8.0,HOU 27,23.0,20.0,Dameon Pierce right tackle for 1 yard (tackle by DeMarcus Lawrence and Sam Williams),0.33,-0.23,14.0,2022,199
+4.0,13:37,3.0,7.0,HOU 28,23.0,20.0,Davis Mills pass incomplete short right intended for Chris Moore (defended by Kelvin Joseph),-0.23,-1.5,14.0,2022,199
+4.0,13:32,4.0,7.0,HOU 28,23.0,20.0,Cameron Johnston punts 60 yards out of bounds,-1.5,0.35,14.0,2022,199
+4.0,13:24,1.0,10.0,DAL 12,23.0,20.0,Dak Prescott pass complete short middle to Ezekiel Elliott for 5 yards (tackle by Christian Kirksey),-0.35,-0.23,14.0,2022,199
+4.0,12:54,2.0,5.0,DAL 17,23.0,20.0,Ezekiel Elliott up the middle for 1 yard (tackle by Ogbonnia Okoronkwo),-0.23,-0.72,14.0,2022,199
+4.0,12:22,3.0,4.0,DAL 18,23.0,20.0,"Dak Prescott pass incomplete short right intended for Ezekiel Elliott (defended by Jonathan Owens). Penalty on Tyler Smith: Offensive Holding, 10 yards (declined)",-0.72,-2.24,14.0,2022,199
+4.0,12:16,4.0,4.0,DAL 18,23.0,20.0,"Bryan Anger punts 62 yards, returned by Desmond King for 15 yards (tackle by Luke Gifford). Penalty on Tremon Smith: Offensive Holding, 10 yards (accepted)",-2.24,-0.61,14.0,2022,199
+4.0,12:03,1.0,10.0,HOU 25,23.0,20.0,Eno Benjamin left tackle for 4 yards (tackle by Micah Parsons and Damone Clark),0.61,0.6,14.0,2022,199
+4.0,11:23,2.0,6.0,HOU 29,23.0,20.0,Jeff Driskel right end for 5 yards (tackle by Micah Parsons and Jayron Kearse),0.6,0.56,14.0,2022,199
+4.0,10:50,3.0,1.0,HOU 34,23.0,20.0,Dameon Pierce up the middle for 2 yards (tackle by DaRon Bland and Donovan Wilson),0.56,1.33,14.0,2022,199
+4.0,10:10,1.0,10.0,HOU 36,23.0,20.0,Davis Mills pass complete short right to Chris Moore for 18 yards (tackle by Kelvin Joseph),1.33,2.52,14.0,2022,199
+4.0,9:31,1.0,10.0,DAL 46,23.0,20.0,Eno Benjamin up the middle for 1 yard (tackle by Dante Fowler),2.52,2.11,14.0,2022,199
+4.0,8:55,2.0,9.0,DAL 45,23.0,20.0,Davis Mills pass complete short middle to Rex Burkhead for 5 yards (tackle by Leighton Vander Esch and Damone Clark),2.11,2.08,14.0,2022,199
+4.0,8:13,3.0,4.0,DAL 40,23.0,20.0,Jeff Driskel pass incomplete short right intended for Amari Rodgers (defended by Neville Gallimore),2.08,0.59,14.0,2022,199
+4.0,8:10,4.0,4.0,DAL 40,23.0,20.0,Cameron Johnston punts 39 yards downed by Chris Moore,0.59,0.38,14.0,2022,199
+4.0,8:01,1.0,10.0,DAL 1,23.0,20.0,Dak Prescott up the middle for 2 yards (tackle by Rasheem Green and Christian Kirksey),-0.38,-0.63,14.0,2022,199
+4.0,7:25,2.0,8.0,DAL 3,23.0,20.0,Dak Prescott pass complete short left to CeeDee Lamb for 7 yards (tackle by Jalen Pitre),-0.63,-0.37,14.0,2022,199
+4.0,6:59,3.0,1.0,DAL 10,23.0,20.0,Tony Pollard right tackle for 3 yards (tackle by Roy Lopez),-0.37,-0.32,14.0,2022,199
+4.0,6:30,1.0,10.0,DAL 13,23.0,20.0,"Dak Prescott sacked by Ogbonnia Okoronkwo for -7 yards. Dak Prescott fumbles (forced by Ogbonnia Okoronkwo), recovered by Josh Ball at DAL-3",-0.32,-1.51,14.0,2022,199
+4.0,5:45,2.0,20.0,DAL 3,23.0,20.0,Dak Prescott pass short right (defended by Ogbonnia Okoronkwo) intended for Dalton Schultz is intercepted by Tremon Smith at DAL-11 and returned for 7 yards (tackle by Dalton Schultz),-1.51,-6.28,14.0,2022,199
+4.0,5:37,1.0,4.0,DAL 4,23.0,20.0,Rex Burkhead up the middle for -1 yards (tackle by Leighton Vander Esch and Sam Williams),6.28,5.15,14.0,2022,199
+4.0,4:58,2.0,5.0,DAL 5,23.0,20.0,Jeff Driskel pass complete short right to Chris Moore for 4 yards (tackle by Carlos Watkins),5.15,5.17,14.0,2022,199
+4.0,4:11,3.0,1.0,DAL 1,23.0,20.0,Rex Burkhead right tackle for -2 yards (tackle by DeMarcus Lawrence),5.17,3.04,14.0,2022,199
+4.0,3:25,,,,,,Timeout #1 by Houston Texans,,,14.0,2022,199
+4.0,3:25,4.0,3.0,DAL 3,23.0,20.0,Jeff Driskel scrambles right end for 1 yard (tackle by Neville Gallimore and Anthony Barr),3.04,0.38,14.0,2022,199
+4.0,3:20,1.0,10.0,DAL 2,23.0,20.0,Dak Prescott pass complete short left to Dalton Schultz for 21 yards (tackle by Jalen Pitre and Jonathan Owens),-0.38,0.48,14.0,2022,199
+4.0,2:52,1.0,10.0,DAL 23,23.0,20.0,Dak Prescott scrambles right end for 9 yards (tackle by Tavierre Thomas),0.48,1.15,14.0,2022,199
+4.0,2:44,2.0,1.0,DAL 32,23.0,20.0,Dak Prescott pass complete short right to Dalton Schultz for 13 yards (tackle by Tremon Smith),1.15,1.93,14.0,2022,199
+4.0,2:21,1.0,10.0,DAL 45,23.0,20.0,Dak Prescott pass complete short middle to Ezekiel Elliott for 6 yards (tackle by Christian Kirksey),1.93,2.19,14.0,2022,199
+4.0,2:00,2.0,4.0,HOU 49,23.0,20.0,Dak Prescott pass complete short right to CeeDee Lamb for 3 yards (tackle by Tavierre Thomas),2.19,1.88,14.0,2022,199
+4.0,1:42,3.0,1.0,HOU 46,23.0,20.0,Dak Prescott up the middle for 6 yards (tackle by Christian Harris and Christian Kirksey),1.88,2.92,14.0,2022,199
+4.0,1:21,1.0,10.0,HOU 40,23.0,20.0,Dak Prescott pass complete deep right to Noah Brown for 18 yards (tackle by Jalen Pitre),2.92,4.11,14.0,2022,199
+4.0,1:14,,,,,,Timeout #1 by Dallas Cowboys,,,14.0,2022,199
+4.0,1:14,1.0,10.0,HOU 22,23.0,20.0,Dak Prescott pass complete deep middle to Dalton Schultz for 18 yards (tackle by Jonathan Owens),4.11,6.28,14.0,2022,199
+4.0,0:55,,,,,,Timeout #2 by Houston Texans,,,14.0,2022,199
+4.0,0:55,1.0,4.0,HOU 4,23.0,20.0,Ezekiel Elliott left tackle for 2 yards (tackle by Jalen Pitre and Christian Kirksey),6.28,5.72,14.0,2022,199
+4.0,0:51,,,,,,Timeout #3 by Houston Texans,,,14.0,2022,199
+4.0,0:51,2.0,2.0,HOU 2,23.0,20.0,"Dak Prescott pass incomplete short right intended for Michael Gallup (defended by Jonathan Owens) Replay Assistant challenged the pass completion ruling, and the play was upheld.",5.72,4.95,14.0,2022,199
+4.0,0:46,3.0,2.0,HOU 2,23.0,26.0,"Ezekiel Elliott up the middle for 2 yards, touchdown",4.95,7.0,14.0,2022,199
+4.0,0:41,,,HOU 15,23.0,27.0,Brett Maher kicks extra point good,0.0,0.0,14.0,2022,199
+4.0,0:41,,,DAL 35,23.0,27.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,199
+4.0,0:41,1.0,10.0,HOU 25,23.0,27.0,Davis Mills pass complete short left to Dare Ogunbowale for no gain (tackle by Trevon Diggs),0.61,0.06,14.0,2022,199
+4.0,0:35,2.0,10.0,HOU 25,23.0,27.0,Davis Mills pass complete deep middle to Chris Moore for 31 yards (tackle by Malik Hooker),0.06,2.65,14.0,2022,199
+4.0,0:15,1.0,10.0,DAL 44,23.0,27.0,Davis Mills spiked the ball,2.65,2.11,14.0,2022,199
+4.0,0:14,2.0,10.0,DAL 44,23.0,27.0,"Penalty on Laremy Tunsil: False Start, 5 yards (accepted) (no play)",2.11,1.44,14.0,2022,199
+4.0,0:14,2.0,15.0,DAL 49,23.0,27.0,"Penalty on Laremy Tunsil: False Start, 5 yards (accepted) (no play)",1.44,0.76,14.0,2022,199
+4.0,0:14,2.0,20.0,HOU 46,23.0,27.0,Davis Mills pass deep middle is intercepted by Israel Mukuamu in end zone and returned for no gain,0.76,-0.28,14.0,2022,199
+4.0,0:03,1.0,10.0,DAL 20,23.0,27.0,Dak Prescott kneels for -1 yards,0.28,-0.46,14.0,2022,199

@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,ARI 30,6,3:05,29,Interception,1,Cardinals,7.0,2024,107
+2,1,11:55,ARI 28,3,0:59,6,Punt,1,Cardinals,7.0,2024,107
+3,1,7:27,ARI 20,7,3:27,34,Punt,1,Cardinals,7.0,2024,107
+4,2,11:59,ARI 21,10,6:19,79,Touchdown,1,Cardinals,7.0,2024,107
+5,2,4:01,ARI 27,5,2:14,18,Punt,1,Cardinals,7.0,2024,107
+6,3,10:25,ARI 7,8,4:19,48,Downs,1,Cardinals,7.0,2024,107
+7,3,0:40,ARI 30,4,1:26,70,Touchdown,1,Cardinals,7.0,2024,107
+8,4,12:09,ARI 30,6,2:03,25,Punt,1,Cardinals,7.0,2024,107
+9,4,1:54,ARI 30,7,1:54,56,Field Goal,1,Cardinals,7.0,2024,107

@@ -1,0 +1,161 @@
+Quarter,Time,Down,ToGo,Location,NYJ,NWE,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Jets won the coin toss and deferred, Patriots to receive the opening kickoff.",,,18.0,2023,264
+1.0,15:00,,,NYJ 35,0.0,0.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,264
+1.0,15:00,1.0,10.0,NWE 25,0.0,0.0,Ezekiel Elliott up the middle for 2 yards (tackle by Jamien Sherwood),0.61,0.33,18.0,2023,264
+1.0,14:27,2.0,8.0,NWE 27,0.0,0.0,Bailey Zappe pass incomplete short left intended for Ezekiel Elliott (defended by Solomon Thomas),0.33,-0.36,18.0,2023,264
+1.0,14:22,3.0,8.0,NWE 27,0.0,0.0,Bailey Zappe pass incomplete short right intended for Ezekiel Elliott,-0.36,-1.57,18.0,2023,264
+1.0,14:18,4.0,8.0,NWE 27,0.0,0.0,"Bryce Baringer punts 63 yards, returned by Xavier Gipson for 13 yards (tackle by Cody Davis)",-1.57,-0.48,18.0,2023,264
+1.0,14:04,1.0,10.0,NYJ 23,0.0,0.0,Trevor Siemian pass incomplete deep left intended for Garrett Wilson,0.48,-0.07,18.0,2023,264
+1.0,13:59,2.0,10.0,NYJ 23,0.0,0.0,Breece Hall right tackle for 5 yards (tackle by Deatrich Wise),-0.07,-0.1,18.0,2023,264
+1.0,13:24,3.0,5.0,NYJ 28,0.0,0.0,Trevor Siemian sacked by and Mack Wilson for -1 yards and Ja'Whaun Bentley for -1 yards,-0.1,-1.57,18.0,2023,264
+1.0,12:39,4.0,6.0,NYJ 27,0.0,0.0,"Thomas Morstead punts 49 yards, returned by Myles Bryant for 15 yards (tackle by Jamien Sherwood and Quinnen Williams)",-1.57,-1.53,18.0,2023,264
+1.0,12:27,1.0,10.0,NWE 39,0.0,0.0,Bailey Zappe pass complete short right to Ezekiel Elliott for 2 yards (tackle by C.J. Mosley),1.53,1.26,18.0,2023,264
+1.0,11:52,2.0,8.0,NWE 41,0.0,0.0,Bailey Zappe pass complete short left to Demario Douglas for -2 yards (tackle by Jamien Sherwood),1.26,0.3,18.0,2023,264
+1.0,11:11,3.0,10.0,NWE 39,0.0,0.0,Bailey Zappe sacked by Quinnen Williams for -12 yards,0.3,-1.57,18.0,2023,264
+1.0,10:40,4.0,22.0,NWE 27,0.0,0.0,Bryce Baringer punts 37 yards downed by Joe Cardona,-1.57,-1.33,18.0,2023,264
+1.0,10:30,1.0,10.0,NYJ 36,0.0,0.0,Breece Hall left end for 1 yard (tackle by Jonathan Jones),1.33,0.93,18.0,2023,264
+1.0,9:45,2.0,9.0,NYJ 37,0.0,0.0,Breece Hall left end for 1 yard (tackle by Jonathan Jones),0.93,0.37,18.0,2023,264
+1.0,9:04,3.0,8.0,NYJ 38,0.0,0.0,Trevor Siemian pass incomplete deep left intended for Xavier Gipson (defended by Jabrill Peppers),0.37,-0.85,18.0,2023,264
+1.0,8:56,4.0,8.0,NYJ 38,0.0,0.0,Thomas Morstead punts 59 yards downed by Justin Hardee,-0.85,0.38,18.0,2023,264
+1.0,8:45,1.0,10.0,NWE 3,0.0,0.0,Kevin Harris left guard for no gain (tackle by Will McDonald and Micheal Clemons),-0.38,-0.78,18.0,2023,264
+1.0,8:11,2.0,10.0,NWE 3,0.0,0.0,Kevin Harris left tackle for 2 yards (tackle by Micheal Clemons and Bruce Hector),-0.78,-1.19,18.0,2023,264
+1.0,7:35,3.0,8.0,NWE 5,0.0,0.0,Bailey Zappe pass incomplete short right intended for Demario Douglas,-1.19,-2.49,18.0,2023,264
+1.0,7:30,4.0,8.0,NWE 5,0.0,0.0,"Bryce Baringer punts 37 yards, returned by Xavier Gipson for 4 yards (tackle by Chris Board)",-2.49,-3.05,18.0,2023,264
+1.0,7:20,1.0,10.0,NWE 38,0.0,0.0,Trevor Siemian pass complete short right to Breece Hall for 1 yard (tackle by Anfernee Jennings),3.05,2.64,18.0,2023,264
+1.0,6:41,2.0,9.0,NWE 37,0.0,0.0,Breece Hall right end for 8 yards (tackle by Jahlani Tavai),2.64,3.01,18.0,2023,264
+1.0,6:01,3.0,1.0,NWE 29,0.0,0.0,Breece Hall left guard for 3 yards (tackle by Christian Barmore and Kyle Dugger),3.01,3.84,18.0,2023,264
+1.0,5:28,1.0,10.0,NWE 26,0.0,0.0,Breece Hall right end for 1 yard (tackle by Anfernee Jennings and Kyle Dugger),3.84,3.43,18.0,2023,264
+1.0,4:54,2.0,9.0,NWE 25,0.0,0.0,Israel Abanikanda left guard for 4 yards (tackle by Christian Barmore),3.43,3.27,18.0,2023,264
+1.0,4:07,,,,,,Timeout #1 by New England Patriots,,,18.0,2023,264
+1.0,4:07,3.0,5.0,NWE 21,0.0,0.0,Breece Hall left end for 11 yards (tackle by Jabrill Peppers),3.27,4.91,18.0,2023,264
+1.0,3:37,1.0,10.0,NWE 10,0.0,0.0,Breece Hall left tackle for no gain (tackle by Jahlani Tavai),4.91,4.19,18.0,2023,264
+1.0,2:52,,,,,,Timeout #1 by New York Jets,,,18.0,2023,264
+1.0,2:52,2.0,10.0,NWE 10,0.0,0.0,Trevor Siemian pass complete short middle to Tyler Conklin for 7 yards (tackle by Ja'Whaun Bentley and Jabrill Peppers),4.19,4.72,18.0,2023,264
+1.0,2:11,3.0,3.0,NWE 3,0.0,0.0,Trevor Siemian pass incomplete short left intended for Tyler Conklin,4.72,3.04,18.0,2023,264
+1.0,2:07,4.0,3.0,NWE 3,3.0,0.0,Greg Zuerlein 21 yard field goal good,3.04,3.0,18.0,2023,264
+1.0,2:04,,,NYJ 35,3.0,0.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,264
+1.0,2:04,1.0,10.0,NWE 25,3.0,0.0,Bailey Zappe pass complete short right to DeVante Parker for 6 yards (tackle by Quincy Williams),0.61,0.87,18.0,2023,264
+1.0,1:31,2.0,4.0,NWE 31,3.0,0.0,Bailey Zappe pass incomplete deep middle intended for DeVante Parker,0.87,0.17,18.0,2023,264
+1.0,1:26,3.0,4.0,NWE 31,3.0,0.0,Bailey Zappe sacked by Bryce Huff for -5 yards,0.17,-1.63,18.0,2023,264
+1.0,0:56,4.0,9.0,NWE 26,3.0,0.0,"Bryce Baringer punts 60 yards, fair catch by Xavier Gipson at NYJ-14",-1.63,0.28,18.0,2023,264
+1.0,0:47,1.0,10.0,NYJ 14,3.0,0.0,Breece Hall up the middle for 2 yards (tackle by Davon Godchaux and Anfernee Jennings),-0.28,-0.51,18.0,2023,264
+2.0,15:00,2.0,8.0,NYJ 16,3.0,0.0,Trevor Siemian pass incomplete short left,-0.51,-1.16,18.0,2023,264
+2.0,14:53,3.0,8.0,NYJ 16,3.0,0.0,Trevor Siemian pass incomplete deep middle intended for Xavier Gipson,-1.16,-2.39,18.0,2023,264
+2.0,14:49,4.0,8.0,NYJ 16,3.0,0.0,"Thomas Morstead punts 51 yards, fair catch by Myles Bryant at NE-33. Penalty on Justin Hardee: Player Out of Bounds on Kick, 5 yards (accepted)",-2.39,-1.47,18.0,2023,264
+2.0,14:41,1.0,10.0,NWE 38,3.0,0.0,"Ezekiel Elliott right end for 9 yards (tackle by Ashtyn Davis). Penalty on Demario Douglas: Offensive Holding, 10 yards (accepted)",1.47,1.4,18.0,2023,264
+2.0,14:20,1.0,11.0,NWE 37,3.0,0.0,Ezekiel Elliott up the middle for 2 yards (tackle by Jermaine Johnson),1.4,1.06,18.0,2023,264
+2.0,13:42,2.0,9.0,NWE 39,3.0,0.0,Bailey Zappe pass complete short left to Mike Gesicki for 5 yards (tackle by Michael Carter),1.06,1.02,18.0,2023,264
+2.0,12:59,3.0,4.0,NWE 44,3.0,0.0,Bailey Zappe pass complete deep left to Jalen Reagor for 33 yards (tackle by D.J. Reed),1.02,4.04,18.0,2023,264
+2.0,12:43,1.0,10.0,NYJ 23,3.0,0.0,"Penalty on Jalen Reagor: Delay of Game, 5 yards (accepted) (no play)",4.04,3.71,18.0,2023,264
+2.0,12:25,1.0,10.0,NYJ 28,3.0,0.0,Ezekiel Elliott for 6 yards (tackle by Sauce Gardner and Quincy Williams),3.71,3.98,18.0,2023,264
+2.0,11:44,2.0,4.0,NYJ 22,3.0,0.0,Ezekiel Elliott right end for 4 yards (tackle by Sauce Gardner),3.98,4.37,18.0,2023,264
+2.0,10:25,1.0,10.0,NYJ 18,3.0,0.0,Kevin Harris up the middle for 2 yards (tackle by D.J. Reed and Tony Adams),4.37,4.09,18.0,2023,264
+2.0,10:13,2.0,8.0,NYJ 16,3.0,0.0,Bailey Zappe pass complete short right to Kevin Harris for 4 yards (tackle by Quincy Williams),4.09,4.03,18.0,2023,264
+2.0,9:41,3.0,4.0,NYJ 12,3.0,0.0,Bailey Zappe pass incomplete short left intended for Mike Gesicki (defended by Tony Adams),4.03,2.71,18.0,2023,264
+2.0,9:35,4.0,4.0,NYJ 12,3.0,3.0,Chad Ryland 30 yard field goal good,2.71,3.0,18.0,2023,264
+2.0,9:32,,,NWE 35,3.0,3.0,"Chad Ryland kicks off 58 yards, returned by Xavier Gipson for 15 yards (tackle by Cody Davis)",0.0,0.41,18.0,2023,264
+2.0,9:22,1.0,10.0,NYJ 22,3.0,3.0,Breece Hall left end for -1 yards (tackle by Shaun Wade),0.41,-0.27,18.0,2023,264
+2.0,8:49,2.0,11.0,NYJ 21,3.0,3.0,Trevor Siemian pass complete deep left to Garrett Wilson for 30 yards (tackle by Kyle Dugger),-0.27,2.32,18.0,2023,264
+2.0,8:18,1.0,10.0,NWE 49,3.0,3.0,Breece Hall left end for 12 yards (tackle by Ja'Whaun Bentley),2.32,3.12,18.0,2023,264
+2.0,7:45,1.0,10.0,NWE 37,3.0,3.0,Breece Hall right guard for 12 yards (tackle by Alex Austin),3.12,3.91,18.0,2023,264
+2.0,7:08,1.0,10.0,NWE 25,3.0,3.0,Israel Abanikanda right tackle for 3 yards (tackle by Jeremiah Pharms and Ja'Whaun Bentley),3.91,3.77,18.0,2023,264
+2.0,6:25,2.0,7.0,NWE 22,3.0,3.0,Trevor Siemian pass incomplete deep right intended for Jason Brownlee (defended by Alex Austin),3.77,3.07,18.0,2023,264
+2.0,6:19,3.0,7.0,NWE 22,3.0,3.0,Trevor Siemian pass incomplete short right intended for Garrett Wilson,3.07,1.99,18.0,2023,264
+2.0,6:12,4.0,7.0,NWE 22,6.0,3.0,Greg Zuerlein 40 yard field goal good,1.99,3.0,18.0,2023,264
+2.0,6:07,,,NYJ 35,6.0,3.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,264
+2.0,6:07,1.0,10.0,NWE 25,6.0,3.0,Ezekiel Elliott left guard for 4 yards (tackle by Michael Carter and C.J. Mosley),0.61,0.6,18.0,2023,264
+2.0,5:33,2.0,6.0,NWE 29,6.0,3.0,Ezekiel Elliott up the middle for no gain (tackle by Quincy Williams),0.6,-0.1,18.0,2023,264
+2.0,4:58,3.0,6.0,NWE 29,6.0,3.0,Bailey Zappe pass incomplete short right intended for Pharaoh Brown (defended by Ashtyn Davis),-0.1,-1.44,18.0,2023,264
+2.0,4:48,4.0,6.0,NWE 29,6.0,3.0,"Bryce Baringer punts 37 yards, recovered by Xavier Gipson at NYJ-36",-1.44,-1.33,18.0,2023,264
+2.0,4:40,1.0,10.0,NYJ 36,6.0,3.0,Breece Hall left tackle for 6 yards (tackle by Jahlani Tavai and Jonathan Jones),1.33,1.6,18.0,2023,264
+2.0,3:56,2.0,4.0,NYJ 42,6.0,3.0,Trevor Siemian pass complete short left to Garrett Wilson for 4 yards (tackle by Jonathan Jones),1.6,1.99,18.0,2023,264
+2.0,3:42,1.0,10.0,NYJ 46,6.0,3.0,Trevor Siemian pass complete short right to Tyler Conklin for 9 yards (tackle by Marco Wilson and Kyle Dugger),1.99,2.67,18.0,2023,264
+2.0,3:00,2.0,1.0,NWE 45,6.0,3.0,Breece Hall right tackle for 2 yards (tackle by Lawrence Guy and Mack Wilson),2.67,2.72,18.0,2023,264
+2.0,2:14,1.0,10.0,NWE 43,6.0,3.0,Breece Hall right tackle for 8 yards (tackle by Jonathan Jones),2.72,3.26,18.0,2023,264
+2.0,2:00,2.0,2.0,NWE 35,6.0,3.0,Breece Hall right guard for 4 yards (tackle by Jeremiah Pharms),3.26,3.51,18.0,2023,264
+2.0,1:19,1.0,10.0,NWE 31,6.0,3.0,Breece Hall left end for 1 yard (tackle by Jonathan Jones),3.51,3.1,18.0,2023,264
+2.0,1:13,2.0,9.0,NWE 30,6.0,3.0,Israel Abanikanda left tackle for -1 yards (tackle by Anfernee Jennings and Deatrich Wise),3.1,2.28,18.0,2023,264
+2.0,0:31,3.0,10.0,NWE 31,6.0,3.0,Trevor Siemian pass incomplete deep right intended for Xavier Gipson,2.28,1.32,18.0,2023,264
+2.0,0:26,,,,,,Timeout #2 by New York Jets,,,18.0,2023,264
+2.0,0:26,4.0,10.0,NWE 31,6.0,3.0,Greg Zuerlein 49 yard field goal no good,1.32,-1.53,18.0,2023,264
+2.0,0:21,1.0,10.0,NWE 39,6.0,3.0,Bailey Zappe pass incomplete deep left intended for Jalen Reagor,1.53,0.99,18.0,2023,264
+2.0,0:15,2.0,10.0,NWE 39,6.0,3.0,Bailey Zappe pass incomplete deep middle intended for DeVante Parker,0.99,0.3,18.0,2023,264
+2.0,0:10,3.0,10.0,NWE 39,6.0,3.0,Ezekiel Elliott left tackle for 7 yards (tackle by C.J. Mosley and Tony Adams),0.3,-0.32,18.0,2023,264
+2.0,0:04,,,,,,Timeout #3 by New York Jets,,,18.0,2023,264
+2.0,0:04,4.0,3.0,NWE 46,6.0,3.0,Bailey Zappe pass incomplete deep left,-0.32,1.99,18.0,2023,264
+3.0,15:00,,,NWE 35,6.0,3.0,"Chad Ryland kicks off 59 yards, returned by Xavier Gipson for 24 yards (tackle by Chris Board)",0.0,0.94,18.0,2023,264
+3.0,14:54,1.0,10.0,NYJ 30,6.0,3.0,Breece Hall right tackle for 3 yards (tackle by Anfernee Jennings and Ja'Whaun Bentley),0.94,0.8,18.0,2023,264
+3.0,14:15,2.0,7.0,NYJ 33,6.0,3.0,Breece Hall left guard for 4 yards (tackle by Christian Barmore),0.8,0.63,18.0,2023,264
+3.0,13:31,3.0,3.0,NYJ 37,6.0,3.0,Trevor Siemian pass incomplete short left,0.63,-0.91,18.0,2023,264
+3.0,13:22,4.0,3.0,NYJ 37,6.0,3.0,"Thomas Morstead punts 44 yards, returned by Myles Bryant for 14 yards (tackle by Jamien Sherwood)",-0.91,-1.14,18.0,2023,264
+3.0,13:11,1.0,10.0,NWE 33,6.0,3.0,Ezekiel Elliott right end for 9 yards (tackle by Sauce Gardner),1.14,1.81,18.0,2023,264
+3.0,12:36,2.0,1.0,NWE 42,6.0,3.0,Ezekiel Elliott up the middle for 6 yards (tackle by John Franklin-Myers and Ashtyn Davis),1.81,2.13,18.0,2023,264
+3.0,12:02,1.0,10.0,NWE 48,6.0,3.0,Bailey Zappe pass incomplete deep left intended for Mike Gesicki,2.13,1.58,18.0,2023,264
+3.0,11:56,2.0,10.0,NWE 48,6.0,3.0,Bailey Zappe pass complete short right to Ezekiel Elliott for 2 yards (tackle by Quincy Williams),1.58,1.16,18.0,2023,264
+3.0,11:12,3.0,8.0,NWE 50,6.0,3.0,Bailey Zappe sacked by Quinnen Williams for -4 yards,1.16,-0.32,18.0,2023,264
+3.0,10:34,4.0,12.0,NWE 46,6.0,3.0,"Bryce Baringer punts 54 yards, touchback.",-0.32,-0.28,18.0,2023,264
+3.0,10:26,1.0,10.0,NYJ 20,6.0,3.0,"Penalty on Anfernee Jennings: Neutral Zone Infraction, 5 yards (accepted) (no play)",0.28,1.01,18.0,2023,264
+3.0,10:26,1.0,5.0,NYJ 25,6.0,3.0,Breece Hall right end for -4 yards (tackle by Christian Barmore),1.01,-0.13,18.0,2023,264
+3.0,9:42,2.0,9.0,NYJ 21,6.0,3.0,Breece Hall up the middle for 5 yards (tackle by Christian Barmore and Ja'Whaun Bentley),-0.13,-0.16,18.0,2023,264
+3.0,8:58,3.0,4.0,NYJ 26,6.0,3.0,Trevor Siemian pass incomplete short left intended for Garrett Wilson,-0.16,-1.63,18.0,2023,264
+3.0,8:54,4.0,4.0,NYJ 26,6.0,3.0,Thomas Morstead punts 56 yards,-1.63,-0.04,18.0,2023,264
+3.0,8:43,1.0,10.0,NWE 18,6.0,3.0,Bailey Zappe pass complete short right to Demario Douglas for 15 yards (tackle by Quincy Williams and Jamien Sherwood),0.04,1.07,18.0,2023,264
+3.0,7:58,1.0,10.0,NWE 32,6.0,3.0,Ezekiel Elliott right end for 3 yards (tackle by Jamien Sherwood and Quincy Williams),1.07,0.93,18.0,2023,264
+3.0,7:22,2.0,7.0,NWE 35,6.0,3.0,Bailey Zappe pass incomplete deep right intended for Demario Douglas (defended by Sauce Gardner),0.93,0.23,18.0,2023,264
+3.0,7:17,3.0,7.0,NWE 35,6.0,3.0,Bailey Zappe pass incomplete short left intended for Demario Douglas (defended by Michael Carter),0.23,-0.98,18.0,2023,264
+3.0,7:12,4.0,6.0,NWE 36,6.0,3.0,"Bryce Baringer punts 56 yards, returned by Xavier Gipson for 10 yards (tackle by Brenden Schooler)",-0.98,-0.04,18.0,2023,264
+3.0,7:01,1.0,10.0,NYJ 18,6.0,3.0,"Trevor Siemian pass incomplete deep left intended for Garrett Wilson. Penalty on Jabrill Peppers: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",0.04,1.14,18.0,2023,264
+3.0,6:57,1.0,10.0,NYJ 33,6.0,3.0,Breece Hall right guard for 3 yards (tackle by Keion White and Lawrence Guy),1.14,1.0,18.0,2023,264
+3.0,6:17,2.0,7.0,NYJ 36,6.0,3.0,Breece Hall right tackle for 6 yards (tackle by Ja'Whaun Bentley),1.0,1.09,18.0,2023,264
+3.0,5:38,3.0,1.0,NYJ 42,6.0,3.0,Trevor Siemian up the middle for 1 yard (tackle by Christian Barmore and Ja'Whaun Bentley),1.09,1.8,18.0,2023,264
+3.0,4:47,1.0,10.0,NYJ 43,6.0,3.0,Breece Hall left tackle for 4 yards (tackle by Christian Barmore),1.8,1.79,18.0,2023,264
+3.0,4:10,2.0,6.0,NYJ 47,6.0,3.0,"Chris Glaser for -12 yards. Chris Glaser fumbles, recovered by Trevor Siemian at NYJ-35 (tackle by Anfernee Jennings) Penalty on NYJ: Illegal Formation, 5 yards (declined)",1.79,-0.49,18.0,2023,264
+3.0,3:50,3.0,18.0,NYJ 35,6.0,3.0,Breece Hall left end for 6 yards (tackle by Mack Wilson),-0.49,-0.65,18.0,2023,264
+3.0,3:09,4.0,12.0,NYJ 41,6.0,3.0,Thomas Morstead punts 27 yards out of bounds,-0.65,-0.94,18.0,2023,264
+3.0,3:02,1.0,10.0,NWE 30,6.0,3.0,Ezekiel Elliott right guard for 1 yard (tackle by Sauce Gardner),0.94,0.66,18.0,2023,264
+3.0,2:22,2.0,9.0,NWE 33,6.0,3.0,Bailey Zappe sacked by Jalyn Holmes for -5 yards,0.66,-0.69,18.0,2023,264
+3.0,1:42,3.0,14.0,NWE 28,6.0,3.0,Bailey Zappe pass incomplete deep left intended for DeVante Parker,-0.69,-1.5,18.0,2023,264
+3.0,1:36,4.0,14.0,NWE 28,6.0,3.0,"Bryce Baringer punts 37 yards, returned by Xavier Gipson for 10 yards (tackle by Matthew Slater)",-1.5,-1.93,18.0,2023,264
+3.0,1:26,1.0,10.0,NYJ 45,6.0,3.0,Breece Hall up the middle for 1 yard (tackle by Kyle Dugger and Ja'Whaun Bentley),1.93,1.52,18.0,2023,264
+3.0,0:44,2.0,9.0,NYJ 46,6.0,3.0,Breece Hall right guard for no gain (tackle by Jahlani Tavai),1.52,0.83,18.0,2023,264
+4.0,15:00,3.0,9.0,NYJ 46,6.0,3.0,Trevor Siemian pass incomplete short right intended for Irvin Charles,0.83,-0.32,18.0,2023,264
+4.0,14:57,4.0,9.0,NYJ 46,6.0,3.0,"Thomas Morstead punts 36 yards, returned by Myles Bryant for 1 yard (tackle by Irvin Charles)",-0.32,-0.15,18.0,2023,264
+4.0,14:47,1.0,10.0,NWE 19,6.0,3.0,Jalen Reagor left end for 17 yards (tackle by Michael Carter),0.15,1.33,18.0,2023,264
+4.0,14:06,1.0,10.0,NWE 36,6.0,3.0,Bailey Zappe pass incomplete short left intended for Jalen Reagor (defended by D.J. Reed),1.33,0.79,18.0,2023,264
+4.0,13:59,2.0,10.0,NWE 36,6.0,3.0,Bailey Zappe up the middle for 1 yard (tackle by Bruce Hector),0.79,0.23,18.0,2023,264
+4.0,13:18,3.0,9.0,NWE 37,6.0,3.0,Bailey Zappe left end for 8 yards (tackle by C.J. Mosley),0.23,-0.39,18.0,2023,264
+4.0,12:23,4.0,1.0,NWE 45,6.0,3.0,Bailey Zappe pass incomplete short right intended for Pharaoh Brown (defended by Ashtyn Davis),-0.39,-2.59,18.0,2023,264
+4.0,12:17,1.0,10.0,NWE 45,6.0,3.0,Breece Hall right end for 8 yards (tackle by Jahlani Tavai),2.59,3.12,18.0,2023,264
+4.0,11:39,2.0,2.0,NWE 37,6.0,3.0,Breece Hall left tackle for 3 yards (tackle by Christian Barmore and Anfernee Jennings),3.12,3.31,18.0,2023,264
+4.0,10:58,1.0,10.0,NWE 34,6.0,3.0,Trevor Siemian pass complete short left to Xavier Gipson for 4 yards (tackle by Alex Austin),3.31,3.31,18.0,2023,264
+4.0,10:19,2.0,6.0,NWE 30,6.0,3.0,Trevor Siemian pass complete short right to Breece Hall for 11 yards (tackle by Shaun Wade),3.31,4.31,18.0,2023,264
+4.0,9:40,1.0,10.0,NWE 19,6.0,3.0,Breece Hall left tackle for no gain (tackle by Jahlani Tavai and Jeremiah Pharms),4.31,3.75,18.0,2023,264
+4.0,8:52,,,,,,Timeout #1 by New York Jets,,,18.0,2023,264
+4.0,8:52,2.0,10.0,NWE 19,6.0,3.0,Trevor Siemian pass incomplete short right intended for Xavier Gipson (defended by Keion White),3.75,3.03,18.0,2023,264
+4.0,8:48,3.0,10.0,NWE 19,6.0,3.0,Trevor Siemian pass complete short left to Randall Cobb for 4 yards,3.03,2.47,18.0,2023,264
+4.0,8:10,4.0,6.0,NWE 15,9.0,3.0,Greg Zuerlein 33 yard field goal good,2.47,3.0,18.0,2023,264
+4.0,8:08,,,NYJ 35,9.0,3.0,"Greg Zuerlein kicks off 62 yards, returned by Kevin Harris for 20 yards (tackle by Jamien Sherwood and Jarrick Bernard-Converse)",0.0,0.48,18.0,2023,264
+4.0,8:02,1.0,10.0,NWE 23,9.0,3.0,Demario Douglas right tackle for no gain (tackle by Ashtyn Davis),0.48,-0.07,18.0,2023,264
+4.0,7:21,2.0,10.0,NWE 23,9.0,3.0,Bailey Zappe pass complete short left to Pharaoh Brown for no gain (tackle by D.J. Reed and Jamien Sherwood),-0.07,-0.76,18.0,2023,264
+4.0,6:45,3.0,10.0,NWE 23,9.0,3.0,Bailey Zappe sacked by Jermaine Johnson for -7 yards,-0.76,-2.39,18.0,2023,264
+4.0,6:09,4.0,17.0,NWE 16,9.0,3.0,"Joe Cardona aborted snap, recovered by Bryce Baringer at NE-16 and returned for 3 yards Bryce Baringer punts 41 yards, returned by Xavier Gipson for 11 yards (tackle by Pharaoh Brown)",-2.39,-2.52,18.0,2023,264
+4.0,5:58,1.0,10.0,NWE 46,9.0,3.0,Breece Hall left end for 8 yards (tackle by Jonathan Jones and Kyle Dugger),2.52,3.06,18.0,2023,264
+4.0,5:17,2.0,2.0,NWE 38,9.0,3.0,Breece Hall right tackle for -1 yards (tackle by Christian Barmore and Davon Godchaux),3.06,2.21,18.0,2023,264
+4.0,4:31,3.0,3.0,NWE 39,9.0,3.0,Breece Hall right guard for 2 yards (tackle by Deatrich Wise and Ja'Whaun Bentley),2.21,0.79,18.0,2023,264
+4.0,3:41,4.0,1.0,NWE 37,9.0,3.0,Breece Hall right tackle for -3 yards (tackle by Anfernee Jennings),0.79,-1.6,18.0,2023,264
+4.0,3:37,1.0,10.0,NWE 40,9.0,3.0,Bailey Zappe sacked by Will McDonald for -16 yards,1.6,-1.04,18.0,2023,264
+4.0,3:00,2.0,25.0,NWE 24,9.0,3.0,"Bailey Zappe pass deep middle intended for Jalen Reagor is intercepted by Ashtyn Davis at NYJ-42 and returned for 14 yards. Ashtyn Davis fumbles (forced by Mike Gesicki), recovered by Vederian Lowe at NE-41",-1.04,1.66,18.0,2023,264
+4.0,2:44,1.0,10.0,NWE 41,9.0,3.0,Ezekiel Elliott up the middle for 1 yard (tackle by C.J. Mosley and Quincy Williams),1.66,1.26,18.0,2023,264
+4.0,2:10,2.0,9.0,NWE 42,9.0,3.0,Bailey Zappe pass short middle (defended by Michael Carter) intended for Demario Douglas is intercepted by Tony Adams at NYJ-47 and returned for no gain,1.26,-2.06,18.0,2023,264
+4.0,2:03,1.0,10.0,NYJ 47,9.0,3.0,Breece Hall left guard for 3 yards (tackle by Keion White),2.06,1.92,18.0,2023,264
+4.0,1:57,2.0,7.0,NYJ 50,15.0,3.0,"Breece Hall left end for 50 yards, touchdown",1.92,7.0,18.0,2023,264
+4.0,1:47,,,NWE 2,17.0,3.0,"Two Point Attempt: Breece Hall rushes, conversion succeeds.",1.0,1.0,18.0,2023,264
+4.0,1:47,,,NYJ 35,17.0,3.0,"Thomas Morstead kicks off 50 yards, returned by Jalen Reagor for 15 yards (tackle by Chazz Surratt)",0.0,0.94,18.0,2023,264
+4.0,1:39,1.0,10.0,NWE 30,17.0,3.0,Bailey Zappe pass complete short middle to Ezekiel Elliott for 2 yards (tackle by C.J. Mosley),0.94,0.66,18.0,2023,264
+4.0,1:13,2.0,8.0,NWE 32,17.0,3.0,Bailey Zappe pass complete short middle to Ezekiel Elliott for 10 yards (tackle by Ashtyn Davis),0.66,1.73,18.0,2023,264
+4.0,0:54,1.0,10.0,NWE 42,17.0,3.0,Bailey Zappe sacked by Bryce Huff for -8 yards,1.73,0.11,18.0,2023,264
+4.0,0:50,,,,,,Timeout #1 by New England Patriots,,,18.0,2023,264
+4.0,0:50,2.0,18.0,NWE 34,17.0,3.0,Bailey Zappe pass complete short middle to Ezekiel Elliott for 11 yards (tackle by C.J. Mosley and Ashtyn Davis),0.11,0.89,18.0,2023,264
+4.0,0:32,3.0,7.0,NWE 45,17.0,3.0,Bailey Zappe pass incomplete short left intended for Jalen Reagor,0.89,-0.39,18.0,2023,264
+4.0,0:26,4.0,7.0,NWE 45,17.0,3.0,Bailey Zappe scrambles right end for 4 yards (tackle by Will McDonald),-0.39,-2.32,18.0,2023,264
+4.0,0:18,1.0,10.0,NWE 49,17.0,3.0,Breece Hall up the middle for 4 yards (tackle by Christian Barmore),2.32,2.32,18.0,2023,264

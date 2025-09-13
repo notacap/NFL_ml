@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,13:42,BAL 28,6,3:53,21,Punt,0,Ravens,1.0,2022,10
+2,1,7:05,BAL 34,3,1:04,1,Punt,0,Ravens,1.0,2022,10
+3,1,4:56,NYJ 13,4,1:40,7,Field Goal,0,Ravens,1.0,2022,10
+4,1,1:53,BAL 16,4,2:08,16,Punt,0,Ravens,1.0,2022,10
+5,2,10:51,BAL 35,5,2:50,14,Punt,0,Ravens,1.0,2022,10
+6,2,4:41,BAL 38,3,0:56,62,Touchdown,0,Ravens,1.0,2022,10
+7,2,0:24,BAL 25,1,0:24,3,End of Half,0,Ravens,1.0,2022,10
+8,3,15:00,BAL 25,6,2:22,11,Punt,0,Ravens,1.0,2022,10
+9,3,10:24,NYJ 44,6,3:10,44,Touchdown,0,Ravens,1.0,2022,10
+10,3,4:37,BAL 12,5,2:31,88,Touchdown,0,Ravens,1.0,2022,10
+11,4,14:03,BAL 15,6,3:57,23,Punt,0,Ravens,1.0,2022,10
+12,4,4:17,BAL 7,3,1:35,4,Interception,0,Ravens,1.0,2022,10
+13,4,1:00,NYJ 42,2,1:00,-2,End of Game,0,Ravens,1.0,2022,10

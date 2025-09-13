@@ -1,0 +1,167 @@
+Quarter,Time,Down,ToGo,Location,KAN,DEN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Broncos won the coin toss and deferred, Chiefs to receive the opening kickoff.",,,8.0,2023,120
+1.0,15:00,,,DEN 35,0.0,0.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,120
+1.0,15:00,1.0,10.0,KAN 25,0.0,0.0,Isiah Pacheco right tackle for no gain (tackle by Jonathon Cooper),0.61,0.06,8.0,2023,120
+1.0,14:28,2.0,10.0,KAN 25,0.0,0.0,Patrick Mahomes pass complete short left to Isiah Pacheco for -4 yards (tackle by Ja'Quan McMillian and D.J. Jones),0.06,-1.15,8.0,2023,120
+1.0,13:43,3.0,14.0,KAN 21,0.0,0.0,Patrick Mahomes pass incomplete deep right,-1.15,-1.96,8.0,2023,120
+1.0,13:30,4.0,14.0,KAN 21,0.0,0.0,"Tommy Townsend punts 49 yards, returned by Marvin Mims for 31 yards (tackle by Leo Chenal)",-1.96,-2.98,8.0,2023,120
+1.0,13:16,1.0,10.0,KAN 39,0.0,0.0,Javonte Williams left tackle for 4 yards (tackle by Trent McDuffie),2.98,2.98,8.0,2023,120
+1.0,12:43,2.0,6.0,KAN 35,0.0,0.0,Javonte Williams right tackle for no gain (tackle by Justin Reid),2.98,2.28,8.0,2023,120
+1.0,12:05,3.0,6.0,KAN 35,0.0,0.0,Jaleel McLaughlin left end for 9 yards (tackle by Bryan Cook),2.28,3.84,8.0,2023,120
+1.0,11:23,1.0,10.0,KAN 26,0.0,0.0,Javonte Williams right tackle for 6 yards (tackle by Drue Tranquill and Willie Gay),3.84,4.11,8.0,2023,120
+1.0,10:55,2.0,4.0,KAN 20,0.0,0.0,Javonte Williams left tackle for 3 yards (tackle by Justin Reid and Charles Omenihu),4.11,3.95,8.0,2023,120
+1.0,10:18,3.0,1.0,KAN 17,0.0,0.0,Russell Wilson scrambles right end for 2 yards (tackle by Charles Omenihu),3.95,4.58,8.0,2023,120
+1.0,9:39,1.0,10.0,KAN 15,0.0,0.0,Russell Wilson scrambles right end for 5 yards (tackle by Matt Dickerson),4.58,4.84,8.0,2023,120
+1.0,8:55,2.0,5.0,KAN 10,0.0,0.0,Javonte Williams left tackle for 6 yards (tackle by L'Jarius Sneed and Leo Chenal),4.84,6.28,8.0,2023,120
+1.0,8:11,1.0,4.0,KAN 4,0.0,0.0,Russell Wilson pass incomplete short right,6.28,5.34,8.0,2023,120
+1.0,8:04,2.0,4.0,KAN 4,0.0,6.0,"Russell Wilson pass complete short left to Javonte Williams for 4 yards, touchdown",5.34,7.0,8.0,2023,120
+1.0,7:56,,,KAN 15,0.0,7.0,Wil Lutz kicks extra point good,0.0,0.0,8.0,2023,120
+1.0,7:56,,,DEN 35,0.0,7.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,120
+1.0,7:56,1.0,10.0,KAN 25,0.0,7.0,Isiah Pacheco up the middle for 19 yards (tackle by Nik Bonitto),0.61,1.86,8.0,2023,120
+1.0,7:25,1.0,10.0,KAN 44,0.0,7.0,Isiah Pacheco left guard for 3 yards (tackle by Zach Allen),1.86,1.72,8.0,2023,120
+1.0,6:55,2.0,7.0,KAN 47,0.0,7.0,Patrick Mahomes pass complete short left to Isiah Pacheco for -6 yards (tackle by Alex Singleton),1.72,0.23,8.0,2023,120
+1.0,6:13,3.0,13.0,KAN 41,0.0,7.0,Patrick Mahomes pass complete deep right to Justin Watson for 27 yards,0.23,3.45,8.0,2023,120
+1.0,5:48,1.0,10.0,DEN 32,0.0,7.0,Patrick Mahomes pass complete short middle to Travis Kelce for 2 yards (tackle by Alex Singleton),3.45,3.17,8.0,2023,120
+1.0,5:12,2.0,8.0,DEN 30,0.0,7.0,Patrick Mahomes scrambles right end for 8 yards (tackle by Justin Simmons),3.17,4.11,8.0,2023,120
+1.0,4:24,1.0,10.0,DEN 22,0.0,7.0,Clyde Edwards-Helaire left end for 4 yards (tackle by Alex Singleton),4.11,4.04,8.0,2023,120
+1.0,3:48,2.0,7.0,DEN 18,0.0,7.0,Patrick Mahomes pass complete short middle to Travis Kelce for 7 yards (tackle by Josey Jewell),4.04,4.84,8.0,2023,120
+1.0,3:10,1.0,10.0,DEN 11,0.0,7.0,Kadarius Toney left guard for -3 yards (tackle by Zach Allen),4.84,3.69,8.0,2023,120
+1.0,2:32,2.0,13.0,DEN 14,0.0,7.0,Patrick Mahomes pass complete short right to Travis Kelce for 11 yards (tackle by Fabian Moreau),3.69,4.89,8.0,2023,120
+1.0,1:53,3.0,2.0,DEN 3,0.0,7.0,Patrick Mahomes pass complete short middle to Rashee Rice for -1 yards (tackle by Baron Browning),4.89,3.03,8.0,2023,120
+1.0,1:14,4.0,3.0,DEN 4,3.0,7.0,Harrison Butker 23 yard field goal good,3.03,3.0,8.0,2023,120
+1.0,1:11,,,KAN 35,3.0,7.0,"Harrison Butker kicks off 70 yards, returned by Marvin Mims for 28 yards (tackle by Chamarri Conner)",0.0,0.48,8.0,2023,120
+1.0,1:08,1.0,10.0,DEN 23,3.0,7.0,"Javonte Williams for no gain. Penalty on Charles Omenihu: Defensive Offside, 5 yards (accepted) (no play)",0.48,1.21,8.0,2023,120
+1.0,0:40,1.0,5.0,DEN 28,3.0,7.0,"Russell Wilson pass incomplete intended for Courtland Sutton. Penalty on Courtland Sutton: Offensive Pass Interference, 10 yards (accepted) (no play)",1.21,0.0,8.0,2023,120
+1.0,0:35,1.0,15.0,DEN 18,3.0,7.0,Javonte Williams up the middle for 9 yards (tackle by Trent McDuffie and Bryan Cook),0.0,0.47,8.0,2023,120
+2.0,15:00,2.0,6.0,DEN 27,3.0,7.0,Jaleel McLaughlin right end for 2 yards (tackle by Willie Gay),0.47,0.04,8.0,2023,120
+2.0,14:22,3.0,4.0,DEN 29,3.0,7.0,Russell Wilson pass incomplete short middle intended for Jerry Jeudy,0.04,-1.44,8.0,2023,120
+2.0,14:19,4.0,4.0,DEN 29,3.0,7.0,Riley Dixon punts 46 yards out of bounds,-1.44,-0.61,8.0,2023,120
+2.0,14:13,1.0,10.0,KAN 25,3.0,7.0,Patrick Mahomes pass incomplete short right intended for Blake Bell,0.61,0.06,8.0,2023,120
+2.0,14:07,2.0,10.0,KAN 25,3.0,7.0,Patrick Mahomes pass complete short right to Marquez Valdes-Scantling for 13 yards (tackle by Fabian Moreau),0.06,1.47,8.0,2023,120
+2.0,13:35,1.0,10.0,KAN 38,3.0,7.0,"Patrick Mahomes sacked by D.J. Jones for no gain. Penalty on Josey Jewell: Defensive Holding, 5 yards (accepted) (no play)",1.47,1.8,8.0,2023,120
+2.0,13:12,1.0,10.0,KAN 43,3.0,7.0,"Patrick Mahomes pass complete short middle to Marquez Valdes-Scantling for 14 yards. Marquez Valdes-Scantling fumbles (forced by Josey Jewell), recovered by Justin Simmons at DEN-43 and returned for 7 yards (tackle by Creed Humphrey)",1.8,-2.26,8.0,2023,120
+2.0,13:03,1.0,10.0,KAN 50,3.0,7.0,Russell Wilson pass complete deep middle to Jerry Jeudy for 39 yards (tackle by Justin Reid),2.26,4.84,8.0,2023,120
+2.0,12:33,1.0,10.0,KAN 11,3.0,7.0,Javonte Williams right end for no gain (tackle by George Karlaftis),4.84,4.14,8.0,2023,120
+2.0,11:57,2.0,10.0,KAN 11,3.0,13.0,"Russell Wilson pass complete short left to Jerry Jeudy for 11 yards, touchdown Replay Assistant challenged the pass completion ruling, and the play was upheld.",4.14,7.0,8.0,2023,120
+2.0,11:51,,,KAN 15,3.0,14.0,Wil Lutz kicks extra point good,0.0,0.0,8.0,2023,120
+2.0,11:51,,,DEN 35,3.0,14.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,120
+2.0,11:51,1.0,10.0,KAN 25,3.0,14.0,Isiah Pacheco left tackle for 5 yards (tackle by Mike Purcell),0.61,0.74,8.0,2023,120
+2.0,11:19,2.0,5.0,KAN 30,3.0,14.0,Patrick Mahomes pass complete short left to Kadarius Toney for 4 yards,0.74,0.56,8.0,2023,120
+2.0,10:44,3.0,1.0,KAN 34,3.0,14.0,Jerick McKinnon left tackle for 1 yard (tackle by Ronnie Perkins and Jonathan Harris),0.56,1.27,8.0,2023,120
+2.0,10:09,1.0,10.0,KAN 35,3.0,14.0,Patrick Mahomes pass deep middle intended for Travis Kelce is intercepted by Ja'Quan McMillian at DEN-47 and returned for 5 yards (tackle by Skyy Moore),1.27,-2.39,8.0,2023,120
+2.0,10:01,1.0,10.0,KAN 48,3.0,14.0,Russell Wilson pass incomplete deep left intended for Jerry Jeudy,2.39,1.85,8.0,2023,120
+2.0,9:54,2.0,10.0,KAN 48,3.0,14.0,Russell Wilson scrambles left guard for 8 yards (tackle by Drue Tranquill),1.85,2.21,8.0,2023,120
+2.0,9:10,3.0,2.0,KAN 40,3.0,14.0,Javonte Williams right guard for no gain (tackle by Willie Gay),2.21,0.59,8.0,2023,120
+2.0,8:35,,,,,,Timeout #1 by Denver Broncos,,,8.0,2023,120
+2.0,8:35,4.0,2.0,KAN 40,3.0,14.0,"Russell Wilson sacked by Drue Tranquill for no gain. Russell Wilson fumbles, ball out of bounds at KC-40 (forced by Drue Tranquill). Russell Wilson fumbles out of bounds",0.59,-1.6,8.0,2023,120
+2.0,8:26,1.0,10.0,KAN 40,3.0,14.0,Patrick Mahomes pass complete short right to Rashee Rice for 39 yards (tackle by Fabian Moreau),1.6,4.17,8.0,2023,120
+2.0,7:44,1.0,10.0,DEN 21,3.0,14.0,Isiah Pacheco left end for 3 yards (tackle by Baron Browning),4.17,4.04,8.0,2023,120
+2.0,7:10,2.0,7.0,DEN 18,3.0,14.0,Patrick Mahomes scrambles right end for 5 yards (tackle by Ja'Quan McMillian),4.04,4.24,8.0,2023,120
+2.0,6:24,3.0,2.0,DEN 13,3.0,14.0,Jerick McKinnon left end for -3 yards (tackle by Ja'Quan McMillian),4.24,2.43,8.0,2023,120
+2.0,5:42,4.0,5.0,DEN 16,6.0,14.0,Harrison Butker 34 yard field goal good,2.43,3.0,8.0,2023,120
+2.0,5:39,,,KAN 35,6.0,14.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,120
+2.0,5:39,1.0,10.0,DEN 25,6.0,14.0,Javonte Williams right guard for no gain (tackle by Trent McDuffie),0.61,0.06,8.0,2023,120
+2.0,4:58,2.0,10.0,DEN 25,6.0,14.0,Javonte Williams right guard for 15 yards (tackle by Tershawn Wharton),0.06,1.6,8.0,2023,120
+2.0,4:20,1.0,10.0,DEN 40,6.0,14.0,Russell Wilson pass incomplete deep left intended for Jerry Jeudy,1.6,1.05,8.0,2023,120
+2.0,4:12,2.0,10.0,DEN 40,6.0,14.0,Russell Wilson pass incomplete short left intended for Courtland Sutton (defended by L'Jarius Sneed),1.05,0.37,8.0,2023,120
+2.0,4:10,3.0,10.0,DEN 40,6.0,14.0,Russell Wilson sacked by Michael Danna for -5 yards,0.37,-1.04,8.0,2023,120
+2.0,3:40,4.0,15.0,DEN 35,6.0,14.0,"Riley Dixon punts 46 yards, returned by Mecole Hardman for 2 yards (tackle by Mitchell Fraboni)",-1.04,-0.34,8.0,2023,120
+2.0,3:30,1.0,10.0,KAN 21,6.0,14.0,Isiah Pacheco left tackle for 1 yard (tackle by Zach Allen),0.34,-0.07,8.0,2023,120
+2.0,3:02,2.0,9.0,KAN 22,6.0,14.0,Patrick Mahomes pass complete short left to Travis Kelce for 11 yards (tackle by P.J. Locke),-0.07,1.14,8.0,2023,120
+2.0,2:29,1.0,10.0,KAN 33,6.0,14.0,Patrick Mahomes pass incomplete deep right intended for Marquez Valdes-Scantling (defended by Fabian Moreau),1.14,0.59,8.0,2023,120
+2.0,2:22,2.0,10.0,KAN 33,6.0,14.0,Patrick Mahomes pass complete short right to Mecole Hardman for 12 yards (tackle by Alex Singleton),0.59,1.93,8.0,2023,120
+2.0,2:04,1.0,10.0,KAN 45,6.0,14.0,Isiah Pacheco right tackle for 4 yards (tackle by Alex Singleton),1.93,1.92,8.0,2023,120
+2.0,2:00,2.0,6.0,KAN 49,6.0,14.0,Patrick Mahomes pass complete short right to Skyy Moore for 8 yards (tackle by Patrick Surtain and Alex Singleton),1.92,2.72,8.0,2023,120
+2.0,1:38,1.0,10.0,DEN 43,6.0,14.0,"Patrick Mahomes pass incomplete intended for Skyy Moore. Penalty on Patrick Surtain: Defensive Holding, 5 yards (accepted) (no play)",2.72,3.05,8.0,2023,120
+2.0,1:35,1.0,10.0,DEN 38,6.0,14.0,Patrick Mahomes pass complete short right to Travis Kelce for 19 yards (tackle by Justin Simmons and Josey Jewell),3.05,4.31,8.0,2023,120
+2.0,0:57,1.0,10.0,DEN 19,6.0,14.0,"Patrick Mahomes sacked by Baron Browning for -11 yards. Patrick Mahomes fumbles (forced by Baron Browning), recovered by Jonathon Cooper at DEN-30",4.31,-0.94,8.0,2023,120
+2.0,0:48,1.0,10.0,DEN 30,6.0,14.0,Russell Wilson scrambles left end for 3 yards (tackle by Michael Danna),0.94,0.8,8.0,2023,120
+2.0,0:38,,,,,,Timeout #2 by Kansas City Chiefs,,,8.0,2023,120
+2.0,0:38,2.0,7.0,DEN 33,6.0,14.0,Russell Wilson pass complete short right to Marvin Mims for no gain (tackle by Mike Edwards),0.8,0.1,8.0,2023,120
+2.0,0:33,,,,,,Timeout #1 by Kansas City Chiefs,,,8.0,2023,120
+2.0,0:33,3.0,7.0,DEN 33,6.0,14.0,Russell Wilson pass complete short left to Samaje Perine for 10 yards (tackle by Trent McDuffie),0.1,1.8,8.0,2023,120
+2.0,0:26,1.0,10.0,DEN 43,6.0,14.0,Russell Wilson pass incomplete short left intended for Samaje Perine,1.8,1.25,8.0,2023,120
+2.0,0:22,2.0,10.0,DEN 43,6.0,14.0,Russell Wilson pass complete short middle to Samaje Perine for 6 yards (tackle by Drue Tranquill),1.25,1.35,8.0,2023,120
+2.0,0:15,,,,,,Timeout #2 by Denver Broncos,,,8.0,2023,120
+2.0,0:15,3.0,4.0,DEN 49,6.0,14.0,"Russell Wilson sacked by George Karlaftis for -3 yards. Russell Wilson fumbles (forced by George Karlaftis), recovered by Willie Gay at DEN-47",1.35,-2.46,8.0,2023,120
+2.0,0:09,1.0,10.0,DEN 47,6.0,14.0,Patrick Mahomes pass complete short right to Jerick McKinnon for 10 yards (tackle by Fabian Moreau),2.46,3.12,8.0,2023,120
+2.0,0:04,1.0,10.0,DEN 37,9.0,14.0,Harrison Butker 56 yard field goal good,3.12,3.0,8.0,2023,120
+3.0,15:00,,,KAN 35,9.0,14.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,120
+3.0,15:00,1.0,10.0,DEN 25,9.0,14.0,Javonte Williams up the middle for 1 yard (tackle by Chris Jones and Derrick Nnadi),0.61,0.2,8.0,2023,120
+3.0,14:26,2.0,9.0,DEN 26,9.0,14.0,Russell Wilson pass complete short left to Jaleel McLaughlin for 4 yards (tackle by Drue Tranquill),0.2,-0.03,8.0,2023,120
+3.0,13:48,3.0,6.0,DEN 30,9.0,14.0,"Russell Wilson pass complete deep left to Courtland Sutton for 23 yards (tackle by L'Jarius Sneed). Penalty on L'Jarius Sneed: Defensive Pass Interference, 15 yards (declined)",-0.03,2.46,8.0,2023,120
+3.0,13:35,1.0,10.0,KAN 47,9.0,14.0,Javonte Williams right end for 4 yards (tackle by Charles Omenihu),2.46,2.45,8.0,2023,120
+3.0,12:56,2.0,6.0,KAN 43,9.0,14.0,Javonte Williams right guard for 8 yards (tackle by Justin Reid),2.45,3.25,8.0,2023,120
+3.0,12:20,1.0,10.0,KAN 35,9.0,14.0,Russell Wilson scrambles right end for 3 yards (tackle by Justin Reid),3.25,3.11,8.0,2023,120
+3.0,11:37,2.0,7.0,KAN 32,9.0,14.0,Javonte Williams right end for 3 yards (tackle by Leo Chenal),3.11,2.81,8.0,2023,120
+3.0,10:51,3.0,4.0,KAN 29,9.0,14.0,"Russell Wilson sacked by Charles Omenihu for no gain. Penalty on L'Jarius Sneed: Defensive Holding, 5 yards (accepted) (no play)",2.81,3.97,8.0,2023,120
+3.0,10:12,1.0,10.0,KAN 24,9.0,14.0,Samaje Perine left guard for 5 yards (tackle by Mike Edwards),3.97,4.12,8.0,2023,120
+3.0,9:48,2.0,5.0,KAN 19,9.0,14.0,Russell Wilson scrambles right end for 5 yards (tackle by Drue Tranquill),4.12,4.65,8.0,2023,120
+3.0,9:04,1.0,10.0,KAN 14,9.0,14.0,Jaleel McLaughlin for no gain (no play),4.65,4.26,8.0,2023,120
+3.0,8:42,1.0,15.0,KAN 19,9.0,14.0,Javonte Williams right end for 4 yards (tackle by Jack Cochrane and Drue Tranquill),4.26,3.85,8.0,2023,120
+3.0,8:03,2.0,11.0,KAN 15,9.0,14.0,Russell Wilson pass complete short right to Jaleel McLaughlin for 2 yards (tackle by Tershawn Wharton and Leo Chenal),3.85,3.26,8.0,2023,120
+3.0,7:20,3.0,9.0,KAN 13,9.0,14.0,Russell Wilson sacked by and George Karlaftis for -7 yards and Charles Omenihu for -7 yards,3.26,2.12,8.0,2023,120
+3.0,6:40,4.0,16.0,KAN 20,9.0,14.0,Wil Lutz 38 yard field goal no good blocked by Justin Reid (tackle by Leo Chenal),2.12,-0.74,8.0,2023,120
+3.0,6:34,1.0,10.0,KAN 27,9.0,14.0,Isiah Pacheco up the middle for 5 yards (tackle by Jonathon Cooper and Josey Jewell),0.74,0.87,8.0,2023,120
+3.0,6:00,2.0,5.0,KAN 32,9.0,14.0,Patrick Mahomes pass complete short left to Mecole Hardman for 1 yard (tackle by Fabian Moreau and Ja'Quan McMillian),0.87,0.3,8.0,2023,120
+3.0,5:14,3.0,4.0,KAN 33,9.0,14.0,"Patrick Mahomes sacked by Josey Jewell for no gain. Penalty on Fabian Moreau: Defensive Holding, 5 yards (accepted) (no play)",0.3,1.47,8.0,2023,120
+3.0,4:59,1.0,10.0,KAN 38,9.0,14.0,Patrick Mahomes pass incomplete short middle intended for Rashee Rice,1.47,0.92,8.0,2023,120
+3.0,4:53,2.0,10.0,KAN 38,9.0,14.0,Patrick Mahomes pass complete short middle to Justin Watson for 15 yards (tackle by Patrick Surtain),0.92,2.46,8.0,2023,120
+3.0,4:13,1.0,10.0,DEN 47,9.0,14.0,Mecole Hardman right end for 3 yards (tackle by Ja'Quan McMillian),2.46,2.32,8.0,2023,120
+3.0,3:42,2.0,7.0,DEN 44,9.0,14.0,"Penalty on KAN: Offensive Too Many Men on Field, 5 yards (accepted) (no play)",2.32,1.64,8.0,2023,120
+3.0,3:36,2.0,12.0,DEN 49,9.0,14.0,Patrick Mahomes pass complete short right to Isiah Pacheco for 7 yards (tackle by Alex Singleton),1.64,1.88,8.0,2023,120
+3.0,2:58,3.0,5.0,DEN 42,9.0,14.0,Patrick Mahomes pass incomplete deep left intended for Justin Watson,1.88,0.46,8.0,2023,120
+3.0,2:53,4.0,5.0,DEN 42,9.0,14.0,Tommy Townsend punts 33 yards downed by Jerick McKinnon,0.46,0.38,8.0,2023,120
+3.0,2:45,1.0,10.0,DEN 9,9.0,14.0,Javonte Williams right end for 10 yards (tackle by Justin Reid),-0.38,0.15,8.0,2023,120
+3.0,2:10,1.0,10.0,DEN 19,9.0,14.0,Javonte Williams left end for 2 yards (tackle by Charles Omenihu and Drue Tranquill),0.15,-0.06,8.0,2023,120
+3.0,1:33,2.0,8.0,DEN 21,9.0,14.0,Russell Wilson pass complete short left to Javonte Williams for 14 yards (tackle by George Karlaftis and Trent McDuffie),-0.06,1.27,8.0,2023,120
+3.0,0:46,,,,,,Timeout #1 by Denver Broncos,,,8.0,2023,120
+3.0,0:46,1.0,10.0,DEN 35,9.0,14.0,Russell Wilson pass complete to Samaje Perine for no gain (no play),1.27,0.94,8.0,2023,120
+3.0,0:19,1.0,15.0,DEN 30,9.0,14.0,Javonte Williams right tackle for -1 yards (tackle by Michael Danna),0.94,-0.09,8.0,2023,120
+4.0,15:00,2.0,16.0,DEN 29,9.0,14.0,"Russell Wilson pass incomplete deep left intended for Courtland Sutton. Penalty on L'Jarius Sneed: Defensive Pass Interference, 18 yards (accepted) (no play)",-0.09,2.06,8.0,2023,120
+4.0,14:56,1.0,10.0,DEN 47,9.0,14.0,Javonte Williams right tackle for no gain (tackle by George Karlaftis and Leo Chenal),2.06,1.52,8.0,2023,120
+4.0,14:19,,,,,,Timeout #1 by Kansas City Chiefs,,,8.0,2023,120
+4.0,14:19,2.0,10.0,DEN 47,9.0,14.0,Jaleel McLaughlin left end for 9 yards (tackle by Drue Tranquill),1.52,2.02,8.0,2023,120
+4.0,14:02,3.0,1.0,KAN 44,9.0,14.0,Russell Wilson right guard for 2 yards (tackle by Jack Cochrane),2.02,2.79,8.0,2023,120
+4.0,13:21,1.0,10.0,KAN 42,9.0,14.0,Jaleel McLaughlin left tackle for 13 yards (tackle by Mike Edwards),2.79,3.64,8.0,2023,120
+4.0,12:44,1.0,10.0,KAN 29,9.0,14.0,Javonte Williams right guard for 2 yards (tackle by Jack Cochrane),3.64,3.37,8.0,2023,120
+4.0,12:06,2.0,8.0,KAN 27,9.0,14.0,Russell Wilson pass incomplete short middle intended for Jerry Jeudy (defended by Jack Cochrane),3.37,2.68,8.0,2023,120
+4.0,12:01,3.0,8.0,KAN 27,9.0,14.0,Russell Wilson sacked by Leo Chenal for -9 yards,2.68,0.88,8.0,2023,120
+4.0,11:23,4.0,17.0,KAN 36,9.0,14.0,"Riley Dixon punts 31 yards, recovered by Drew Sanders at KC-10 Penalty on KAN: Defensive Too Many Men on Field, 5 yards (declined)",0.88,4.91,8.0,2023,120
+4.0,11:15,1.0,10.0,KAN 10,9.0,14.0,Javonte Williams right guard for 4 yards (tackle by George Karlaftis and Drue Tranquill),4.91,4.95,8.0,2023,120
+4.0,10:40,2.0,6.0,KAN 6,9.0,20.0,"Russell Wilson pass complete short left to Courtland Sutton for 6 yards, touchdown. Penalty on L'Jarius Sneed: Defensive Holding, 3 yards (declined)",4.95,7.0,8.0,2023,120
+4.0,10:33,,,KAN 15,9.0,21.0,Wil Lutz kicks extra point good,0.0,0.0,8.0,2023,120
+4.0,10:33,,,DEN 35,9.0,21.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,120
+4.0,10:33,1.0,10.0,KAN 25,9.0,21.0,Patrick Mahomes pass incomplete short left intended for Isiah Pacheco,0.61,0.06,8.0,2023,120
+4.0,10:29,2.0,10.0,KAN 25,9.0,21.0,Patrick Mahomes pass incomplete short right intended for Travis Kelce (defended by Josey Jewell),0.06,-0.62,8.0,2023,120
+4.0,10:22,3.0,10.0,KAN 25,9.0,21.0,Patrick Mahomes pass complete short middle to Rashee Rice for 9 yards (tackle by Patrick Surtain),-0.62,-1.11,8.0,2023,120
+4.0,9:39,4.0,1.0,KAN 34,9.0,21.0,Patrick Mahomes pass complete short left to Travis Kelce for 8 yards (tackle by P.J. Locke),-1.11,1.73,8.0,2023,120
+4.0,9:15,1.0,10.0,KAN 42,9.0,21.0,Patrick Mahomes scrambles left end for 7 yards (tackle by Josey Jewell),1.73,2.13,8.0,2023,120
+4.0,8:47,2.0,3.0,KAN 49,9.0,21.0,Patrick Mahomes pass incomplete short left intended for Jerick McKinnon,2.13,1.42,8.0,2023,120
+4.0,8:44,3.0,3.0,KAN 49,9.0,21.0,Patrick Mahomes pass complete deep right to Noah Gray for 17 yards,1.42,3.31,8.0,2023,120
+4.0,8:19,1.0,10.0,DEN 34,9.0,21.0,Patrick Mahomes pass incomplete short right intended for Skyy Moore (defended by Patrick Surtain),3.31,2.77,8.0,2023,120
+4.0,8:14,2.0,10.0,DEN 34,9.0,21.0,Patrick Mahomes pass complete short left to Noah Gray for 8 yards (tackle by Ja'Quan McMillian),2.77,3.07,8.0,2023,120
+4.0,7:49,3.0,3.0,DEN 26,9.0,21.0,Patrick Mahomes pass incomplete short middle intended for Travis Kelce (defended by Nik Bonitto),3.07,1.84,8.0,2023,120
+4.0,7:40,4.0,3.0,DEN 26,9.0,21.0,Patrick Mahomes pass incomplete deep left intended for Skyy Moore,1.84,-0.74,8.0,2023,120
+4.0,7:35,1.0,10.0,DEN 27,9.0,21.0,Javonte Williams left guard for 2 yards (tackle by Derrick Nnadi),0.74,0.47,8.0,2023,120
+4.0,7:30,,,,,,Timeout #2 by Kansas City Chiefs,,,8.0,2023,120
+4.0,7:30,2.0,8.0,DEN 29,9.0,21.0,Russell Wilson pass complete short left to Javonte Williams for -5 yards (tackle by Drue Tranquill),0.47,-0.89,8.0,2023,120
+4.0,7:26,,,,,,Timeout #3 by Kansas City Chiefs,,,8.0,2023,120
+4.0,7:26,3.0,13.0,DEN 24,9.0,21.0,Russell Wilson sacked by George Karlaftis for -3 yards,-0.89,-1.96,8.0,2023,120
+4.0,6:43,4.0,16.0,DEN 21,9.0,21.0,"Riley Dixon punts 43 yards, returned by Mecole Hardman for -5 yards (tackle by Tremon Smith)",-1.96,-1.0,8.0,2023,120
+4.0,6:33,1.0,10.0,KAN 31,9.0,21.0,Patrick Mahomes pass incomplete short left intended for Noah Gray,1.0,0.46,8.0,2023,120
+4.0,6:26,2.0,10.0,KAN 31,9.0,21.0,Patrick Mahomes sacked by and Zach Allen for -7 yards and Jonathon Cooper for -7 yards,0.46,-1.15,8.0,2023,120
+4.0,5:41,3.0,17.0,KAN 24,9.0,21.0,Patrick Mahomes sacked by Baron Browning for -10 yards,-1.15,-2.47,8.0,2023,120
+4.0,4:59,4.0,27.0,KAN 14,9.0,21.0,Patrick Mahomes pass deep right intended for Marquez Valdes-Scantling is intercepted by Justin Simmons at DEN-47 and returned for 33 yards (tackle by Trey Smith),-2.47,-4.24,8.0,2023,120
+4.0,4:45,1.0,10.0,KAN 20,9.0,21.0,Javonte Williams right tackle for 5 yards (tackle by Leo Chenal and Chris Jones),4.24,4.45,8.0,2023,120
+4.0,4:02,2.0,5.0,KAN 15,9.0,21.0,Javonte Williams right end for 4 yards (tackle by Mike Edwards and Jack Cochrane),4.45,4.59,8.0,2023,120
+4.0,3:17,,,,,,Timeout #2 by Denver Broncos,,,8.0,2023,120
+4.0,3:17,3.0,1.0,KAN 11,9.0,21.0,Russell Wilson up the middle for 2 yards (tackle by Chris Jones and Leo Chenal),4.59,5.14,8.0,2023,120
+4.0,2:35,1.0,9.0,KAN 9,9.0,21.0,Javonte Williams up the middle for 1 yard (tackle by Derrick Nnadi and Matt Dickerson),5.14,4.57,8.0,2023,120
+4.0,2:00,2.0,8.0,KAN 8,9.0,21.0,Javonte Williams right guard for -4 yards (tackle by Leo Chenal),4.57,3.1,8.0,2023,120
+4.0,1:18,,,,,,Timeout #3 by Denver Broncos,,,8.0,2023,120
+4.0,1:18,3.0,12.0,KAN 12,9.0,21.0,Javonte Williams right tackle for -3 yards (tackle by Chris Jones),3.1,2.44,8.0,2023,120
+4.0,0:34,4.0,15.0,KAN 15,9.0,21.0,"Penalty on Justin Reid: Neutral Zone Infraction, 5 yards (accepted) (no play)",2.44,2.76,8.0,2023,120
+4.0,0:34,4.0,10.0,KAN 10,9.0,24.0,Wil Lutz 28 yard field goal good,2.76,3.0,8.0,2023,120
+4.0,0:31,,,DEN 35,9.0,24.0,"Wil Lutz kicks off 65 yards, returned by Mecole Hardman for 14 yards (tackle by Tremon Smith)",0.0,-0.28,8.0,2023,120
+4.0,0:26,1.0,10.0,KAN 14,9.0,24.0,Patrick Mahomes pass complete short left to Rashee Rice for 9 yards (tackle by P.J. Locke),-0.28,0.55,8.0,2023,120

@@ -1,0 +1,182 @@
+Quarter,Time,Down,ToGo,Location,KAN,HOU,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Chiefs won the coin toss and deferred, Texans to receive the opening kickoff.",,,15.0,2022,218
+1,15:00,,,KAN 35,0.0,0.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,218
+1,15:00,1.0,10.0,HOU 25,0.0,0.0,Jeff Driskel pass complete short right to Amari Rodgers for 11 yards (tackle by Juan Thornhill and Nick Bolton),0.61,1.33,15.0,2022,218
+1,14:33,1.0,10.0,HOU 36,0.0,0.0,Dare Ogunbowale right end for 3 yards (tackle by Nick Bolton),1.33,1.2,15.0,2022,218
+1,13:56,2.0,7.0,HOU 39,0.0,0.0,Dare Ogunbowale right tackle for no gain (tackle by Frank Clark),1.2,0.5,15.0,2022,218
+1,13:23,3.0,7.0,HOU 39,0.0,0.0,Davis Mills pass incomplete short left,0.5,-0.78,15.0,2022,218
+1,13:17,4.0,7.0,HOU 39,0.0,0.0,Cameron Johnston punts 42 yards downed by Jacobi Francis,-0.78,-0.15,15.0,2022,218
+1,13:08,1.0,10.0,KAN 19,0.0,0.0,Patrick Mahomes pass complete short left to JuJu Smith-Schuster for 7 yards (tackle by Jalen Pitre),0.15,0.61,15.0,2022,218
+1,12:32,2.0,3.0,KAN 26,0.0,0.0,Isiah Pacheco left guard for 1 yard (tackle by Maliek Collins),0.61,-0.03,15.0,2022,218
+1,11:59,3.0,2.0,KAN 27,0.0,0.0,Patrick Mahomes pass complete short left to Travis Kelce for 4 yards (tackle by Christian Harris),-0.03,1.0,15.0,2022,218
+1,11:25,1.0,10.0,KAN 31,0.0,0.0,Patrick Mahomes pass complete short right to Travis Kelce for 12 yards (tackle by Jonathan Owens and Tremon Smith),1.0,1.8,15.0,2022,218
+1,10:45,1.0,10.0,KAN 43,0.0,0.0,Patrick Mahomes pass incomplete short left intended for Marquez Valdes-Scantling,1.8,1.25,15.0,2022,218
+1,10:38,2.0,10.0,KAN 43,0.0,0.0,Patrick Mahomes pass complete short middle to Kadarius Toney for 5 yards (tackle by Jonathan Owens),1.25,1.22,15.0,2022,218
+1,10:03,3.0,5.0,KAN 48,0.0,0.0,Patrick Mahomes pass incomplete deep left intended for Marquez Valdes-Scantling,1.22,-0.19,15.0,2022,218
+1,9:57,4.0,5.0,KAN 48,0.0,0.0,"Tommy Townsend punts 40 yards, returned by Desmond King for 3 yards (tackle by Darius Harris and Nazeeh Johnson)",-0.19,0.22,15.0,2022,218
+1,9:48,1.0,10.0,HOU 15,0.0,0.0,Davis Mills pass incomplete short left intended for Chris Moore (defended by Joshua Williams),-0.22,-0.71,15.0,2022,218
+1,9:44,2.0,10.0,HOU 15,0.0,0.0,Dare Ogunbowale left tackle for no gain (tackle by Carlos Dunlap),-0.71,-1.37,15.0,2022,218
+1,9:06,3.0,10.0,HOU 15,0.0,0.0,Davis Mills pass complete short left to Rex Burkhead for no gain (tackle by Michael Danna and Frank Clark),-1.37,-2.44,15.0,2022,218
+1,8:33,4.0,10.0,HOU 15,0.0,0.0,"Cameron Johnston punts 48 yards, returned by Kadarius Toney for 3 yards (tackle by Will Redmond)",-2.44,-1.6,15.0,2022,218
+1,8:24,1.0,10.0,KAN 40,0.0,0.0,Patrick Mahomes sacked by Christian Kirksey for -11 yards,1.6,-0.43,15.0,2022,218
+1,7:48,2.0,21.0,KAN 29,0.0,0.0,Patrick Mahomes pass complete short right to Marquez Valdes-Scantling for 7 yards (tackle by Tremon Smith and Christian Harris),-0.43,-0.16,15.0,2022,218
+1,7:04,3.0,14.0,KAN 36,0.0,0.0,Patrick Mahomes pass incomplete deep left intended for Justin Watson (defended by Blake Cashman),-0.16,-0.98,15.0,2022,218
+1,6:54,4.0,14.0,KAN 36,0.0,0.0,"Tommy Townsend punts 57 yards, returned by Desmond King for 13 yards (tackle by Jack Cochrane)",-0.98,-0.28,15.0,2022,218
+1,6:43,1.0,10.0,HOU 20,0.0,0.0,Jeff Driskel right end for 9 yards (tackle by Darius Harris),0.28,0.95,15.0,2022,218
+1,6:07,2.0,1.0,HOU 29,0.0,0.0,Dare Ogunbowale left guard for 2 yards (tackle by L'Jarius Sneed),0.95,1.0,15.0,2022,218
+1,5:35,1.0,10.0,HOU 31,0.0,0.0,Jeff Driskel right end for -1 yards (tackle by George Karlaftis and Nick Bolton),1.0,0.32,15.0,2022,218
+1,5:06,2.0,11.0,HOU 30,0.0,0.0,Davis Mills pass complete deep right to Chris Moore for 34 yards (tackle by Trent McDuffie),0.32,3.18,15.0,2022,218
+1,4:23,1.0,10.0,KAN 36,0.0,0.0,Dare Ogunbowale right tackle for 1 yard (tackle by Justin Reid),3.18,2.77,15.0,2022,218
+1,3:47,2.0,9.0,KAN 35,0.0,0.0,Davis Mills pass incomplete short left intended for Jordan Akins,2.77,2.08,15.0,2022,218
+1,3:42,3.0,9.0,KAN 35,0.0,0.0,Davis Mills pass complete short right to Rex Burkhead for 17 yards (tackle by Bryan Cook),2.08,4.37,15.0,2022,218
+1,3:02,1.0,10.0,KAN 18,0.0,0.0,Dare Ogunbowale up the middle for 3 yards (tackle by Leo Chenal and Khalen Saunders),4.37,4.25,15.0,2022,218
+1,2:25,2.0,7.0,KAN 15,0.0,0.0,Jeff Driskel pass complete short left to Chris Moore for -3 yards (tackle by Justin Reid),4.25,3.05,15.0,2022,218
+1,1:46,3.0,10.0,KAN 18,0.0,0.0,"Davis Mills pass incomplete intended for Jordan Akins. Penalty on Darius Harris: Defensive Pass Interference, 14 yards (accepted) (no play)",3.05,6.28,15.0,2022,218
+1,1:40,1.0,4.0,KAN 4,0.0,0.0,Jeff Driskel sacked by Frank Clark for -4 yards,6.28,4.57,15.0,2022,218
+1,1:04,2.0,8.0,KAN 8,0.0,6.0,"Davis Mills pass complete short right to Teagan Quitoriano for 8 yards, touchdown",4.57,7.0,15.0,2022,218
+1,1:01,,,KAN 15,0.0,7.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,15.0,2022,218
+1,1:01,,,HOU 35,0.0,7.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,218
+1,1:01,1.0,10.0,KAN 25,0.0,7.0,Isiah Pacheco right tackle for 11 yards (tackle by Thomas Booker and Jalen Pitre),0.61,1.33,15.0,2022,218
+1,0:27,1.0,10.0,KAN 36,0.0,7.0,Isiah Pacheco left tackle for 18 yards (tackle by M.J. Stewart),1.33,2.52,15.0,2022,218
+2,15:00,1.0,10.0,HOU 46,0.0,7.0,Isiah Pacheco right end for -2 yards (tackle by Tremon Smith),2.52,1.71,15.0,2022,218
+2,14:28,2.0,12.0,HOU 48,0.0,7.0,Isiah Pacheco up the middle for 7 yards (tackle by Maliek Collins and Jalen Pitre),1.71,1.95,15.0,2022,218
+2,13:56,3.0,5.0,HOU 41,0.0,7.0,Patrick Mahomes pass complete short middle to JuJu Smith-Schuster for 8 yards (tackle by Christian Kirksey),1.95,3.38,15.0,2022,218
+2,13:19,1.0,10.0,HOU 33,0.0,7.0,Patrick Mahomes pass complete short middle to Noah Gray for 13 yards (tackle by M.J. Stewart),3.38,4.24,15.0,2022,218
+2,12:35,1.0,10.0,HOU 20,6.0,7.0,"Patrick Mahomes pass complete short right to Jerick McKinnon for 20 yards, touchdown",4.24,7.0,15.0,2022,218
+2,12:27,,,HOU 15,7.0,7.0,Harrison Butker kicks extra point good,0.0,0.0,15.0,2022,218
+2,12:27,,,KAN 35,7.0,7.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,218
+2,12:27,1.0,10.0,HOU 25,7.0,7.0,Dare Ogunbowale up the middle for 3 yards (tackle by Justin Reid and Carlos Dunlap),0.61,0.47,15.0,2022,218
+2,11:48,2.0,7.0,HOU 28,7.0,7.0,Royce Freeman up the middle for 1 yard (tackle by L'Jarius Sneed),0.47,-0.1,15.0,2022,218
+2,11:16,3.0,6.0,HOU 29,7.0,7.0,Davis Mills pass complete short left to Chris Moore for 7 yards (tackle by L'Jarius Sneed),-0.1,1.33,15.0,2022,218
+2,10:37,1.0,10.0,HOU 36,7.0,7.0,Phillip Dorsett pass incomplete short right,1.33,0.79,15.0,2022,218
+2,10:29,2.0,10.0,HOU 36,7.0,7.0,Davis Mills pass complete short left to Chris Moore for 4 yards (tackle by Willie Gay),0.79,0.63,15.0,2022,218
+2,9:57,3.0,6.0,HOU 40,7.0,7.0,Davis Mills pass incomplete deep left intended for Phillip Dorsett,0.63,-0.72,15.0,2022,218
+2,9:52,4.0,6.0,HOU 40,7.0,7.0,"Penalty on Jake Hansen: False Start, 5 yards (accepted) (no play)",-0.72,-1.04,15.0,2022,218
+2,9:52,4.0,11.0,HOU 35,7.0,7.0,"Cameron Johnston punts 48 yards, returned by Kadarius Toney for 5 yards (tackle by Blake Cashman)",-1.04,-0.41,15.0,2022,218
+2,9:37,1.0,10.0,KAN 22,7.0,7.0,"Isiah Pacheco up the middle for no gain. Isiah Pacheco fumbles (forced by Mario Addison), recovered by Desmond King at KC-22 and returned for 5 yards (tackle by JuJu Smith-Schuster and Skyy Moore)",0.41,-4.44,15.0,2022,218
+2,9:31,1.0,10.0,KAN 17,7.0,7.0,Jeff Driskel pass incomplete short right intended for Teagan Quitoriano (defended by Carlos Dunlap),4.44,3.85,15.0,2022,218
+2,9:28,2.0,10.0,KAN 17,7.0,13.0,"Davis Mills scrambles left end for 17 yards, touchdown",3.85,7.0,15.0,2022,218
+2,9:19,,,KAN 15,7.0,14.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,15.0,2022,218
+2,9:19,,,HOU 35,7.0,14.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,218
+2,9:19,1.0,10.0,KAN 25,7.0,14.0,Ronald Jones left tackle for 6 yards (tackle by Desmond King and Maliek Collins),0.61,0.87,15.0,2022,218
+2,8:53,2.0,4.0,KAN 31,7.0,14.0,"Patrick Mahomes aborted snap, recovered by Patrick Mahomes at KC-26 (tackle by Maliek Collins)",0.87,-0.23,15.0,2022,218
+2,8:11,3.0,7.0,KAN 28,7.0,14.0,Patrick Mahomes pass complete short right to Jerick McKinnon for 3 yards (tackle by Christian Harris),-0.23,-1.31,15.0,2022,218
+2,7:38,4.0,4.0,KAN 31,7.0,14.0,"Tommy Townsend punts 54 yards, returned by Tremon Smith for 7 yards (tackle by Michael Burton and Chris Lammons)",-1.31,-0.41,15.0,2022,218
+2,7:28,1.0,10.0,HOU 22,7.0,14.0,Royce Freeman left guard for 8 yards (tackle by Joshua Williams),0.41,0.95,15.0,2022,218
+2,6:52,2.0,2.0,HOU 30,7.0,14.0,Royce Freeman left end for 11 yards (tackle by Willie Gay),0.95,1.66,15.0,2022,218
+2,6:15,1.0,10.0,HOU 41,7.0,14.0,Royce Freeman left guard for 6 yards (tackle by Leo Chenal),1.66,1.93,15.0,2022,218
+2,5:36,2.0,4.0,HOU 47,7.0,14.0,Royce Freeman right end for 2 yards (tackle by Willie Gay and Khalen Saunders),1.93,1.49,15.0,2022,218
+2,4:52,3.0,2.0,HOU 49,7.0,14.0,Jeff Driskel right end for 1 yard (tackle by Leo Chenal),1.49,-0.06,15.0,2022,218
+2,4:13,4.0,1.0,HOU 50,7.0,14.0,"Cameron Johnston punts 44 yards, fair catch by Kadarius Toney at KC-6. Penalty on L'Jarius Sneed: Offensive Holding, 3 yards (accepted)",-0.06,0.38,15.0,2022,218
+2,4:06,1.0,10.0,KAN 3,7.0,14.0,Patrick Mahomes pass incomplete deep right intended for Justin Watson,-0.38,-0.78,15.0,2022,218
+2,3:58,,,,,,Timeout #1 by Kansas City Chiefs,,,15.0,2022,218
+2,3:58,2.0,10.0,KAN 3,7.0,14.0,Patrick Mahomes pass complete short middle to Jerick McKinnon for 5 yards (tackle by Christian Harris and Christian Kirksey),-0.78,-0.84,15.0,2022,218
+2,3:17,3.0,5.0,KAN 8,7.0,14.0,Patrick Mahomes pass complete short left to Travis Kelce for 14 yards (tackle by Jalen Pitre),-0.84,0.41,15.0,2022,218
+2,3:04,1.0,10.0,KAN 22,7.0,14.0,"Penalty on Travis Kelce: Unsportsmanlike Conduct / Offense, 11 yards (accepted) (no play)",0.41,-0.37,15.0,2022,218
+2,3:04,1.0,10.0,KAN 11,7.0,14.0,Patrick Mahomes pass complete short right to Noah Gray for 13 yards (tackle by M.J. Stewart),-0.37,0.54,15.0,2022,218
+2,2:23,1.0,10.0,KAN 24,7.0,14.0,Patrick Mahomes pass complete short left to Jerick McKinnon for 21 yards (tackle by M.J. Stewart),0.54,1.93,15.0,2022,218
+2,2:00,1.0,10.0,KAN 45,7.0,14.0,Patrick Mahomes pass complete short left to Jerick McKinnon for 11 yards (tackle by Christian Kirksey),1.93,2.65,15.0,2022,218
+2,1:56,1.0,10.0,HOU 44,7.0,14.0,Jerick McKinnon right guard for 8 yards (tackle by M.J. Stewart),2.65,3.19,15.0,2022,218
+2,1:18,2.0,2.0,HOU 36,7.0,14.0,Patrick Mahomes scrambles right end for 12 yards (tackle by Tremon Smith and Jalen Pitre),3.19,3.97,15.0,2022,218
+2,1:10,1.0,10.0,HOU 24,7.0,14.0,Jerick McKinnon right guard for 3 yards (tackle by Christian Harris),3.97,3.84,15.0,2022,218
+2,0:34,2.0,7.0,HOU 21,7.0,14.0,Patrick Mahomes pass complete short right to Travis Kelce for 12 yards (tackle by M.J. Stewart),3.84,5.14,15.0,2022,218
+2,0:26,,,,,,Timeout #2 by Kansas City Chiefs,,,15.0,2022,218
+2,0:26,1.0,9.0,HOU 9,7.0,14.0,Patrick Mahomes pass complete short middle to Noah Gray for 5 yards (tackle by Christian Kirksey and Christian Harris),5.14,5.34,15.0,2022,218
+2,0:20,,,,,,Timeout #3 by Kansas City Chiefs,,,15.0,2022,218
+2,0:20,2.0,4.0,HOU 4,7.0,14.0,Patrick Mahomes pass incomplete short right intended for Jody Fortson (defended by Tremon Smith),5.34,4.49,15.0,2022,218
+2,0:17,3.0,4.0,HOU 4,13.0,14.0,"Patrick Mahomes pass complete short right to Marquez Valdes-Scantling for 4 yards, touchdown",4.49,7.0,15.0,2022,218
+2,0:14,,,HOU 15,13.0,14.0,Harrison Butker kicks extra point no good,0.0,-1.0,15.0,2022,218
+2,0:14,,,KAN 35,13.0,14.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,218
+2,0:14,1.0,10.0,HOU 25,13.0,14.0,Davis Mills kneels for -1 yards,0.61,-0.07,15.0,2022,218
+3,15:00,,,HOU 35,13.0,14.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,218
+3,15:00,1.0,10.0,KAN 25,13.0,14.0,Isiah Pacheco left guard for 9 yards (tackle by Jalen Pitre and Christian Harris),0.61,1.28,15.0,2022,218
+3,14:21,2.0,1.0,KAN 34,13.0,14.0,Isiah Pacheco left guard for 3 yards (tackle by Jonathan Owens and Desmond King),1.28,1.4,15.0,2022,218
+3,13:45,1.0,10.0,KAN 37,13.0,14.0,Patrick Mahomes pass complete short left to JuJu Smith-Schuster for 15 yards (tackle by Jalen Pitre),1.4,2.39,15.0,2022,218
+3,13:04,1.0,10.0,HOU 48,13.0,14.0,Skyy Moore left end for 9 yards (tackle by Jonathan Owens),2.39,3.06,15.0,2022,218
+3,12:30,2.0,1.0,HOU 39,13.0,14.0,Isiah Pacheco left guard for 12 yards (tackle by Jalen Pitre),3.06,3.78,15.0,2022,218
+3,11:56,1.0,10.0,HOU 27,13.0,14.0,Patrick Mahomes pass complete short left to Isiah Pacheco for 11 yards (tackle by Desmond King),3.78,4.51,15.0,2022,218
+3,11:10,1.0,10.0,HOU 16,13.0,14.0,Jerick McKinnon right tackle for 2 yards (tackle by Mario Addison and Christian Kirksey),4.51,4.21,15.0,2022,218
+3,10:30,2.0,8.0,HOU 14,13.0,14.0,Patrick Mahomes pass complete short right to JuJu Smith-Schuster for 4 yards (tackle by Christian Harris),4.21,4.17,15.0,2022,218
+3,9:49,3.0,4.0,HOU 10,13.0,14.0,Isiah Pacheco left guard for 2 yards (tackle by Maliek Collins),4.17,2.99,15.0,2022,218
+3,9:09,4.0,2.0,HOU 8,16.0,14.0,Harrison Butker 27 yard field goal good,2.99,3.0,15.0,2022,218
+3,9:05,,,KAN 35,16.0,14.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,218
+3,9:05,1.0,10.0,HOU 25,16.0,14.0,Davis Mills pass incomplete short right intended for Jordan Akins,0.61,0.06,15.0,2022,218
+3,9:00,2.0,10.0,HOU 25,16.0,14.0,Jeff Driskel pass incomplete short right intended for Amari Rodgers (defended by Khalen Saunders),0.06,-0.62,15.0,2022,218
+3,8:57,3.0,10.0,HOU 25,16.0,14.0,"Davis Mills pass incomplete deep right intended for Rex Burkhead. Penalty on Tytus Howard: Offensive Holding, 10 yards (declined)",-0.62,-1.7,15.0,2022,218
+3,8:50,4.0,10.0,HOU 25,16.0,14.0,Cameron Johnston punts 52 yards out of bounds,-1.7,-0.48,15.0,2022,218
+3,8:43,1.0,10.0,KAN 23,16.0,14.0,Isiah Pacheco left guard for 4 yards (tackle by Thomas Booker),0.48,0.47,15.0,2022,218
+3,8:08,2.0,6.0,KAN 27,16.0,14.0,Patrick Mahomes pass complete short right to Travis Kelce for 18 yards (tackle by Christian Kirksey),0.47,1.93,15.0,2022,218
+3,7:25,1.0,10.0,KAN 45,16.0,14.0,"Patrick Mahomes pass complete short right to JuJu Smith-Schuster for 5 yards (tackle by Jalen Pitre). Penalty on Jalen Pitre: Unnecessary Roughness / Defense, 15 yards (accepted)",1.93,3.25,15.0,2022,218
+3,7:07,1.0,10.0,HOU 35,16.0,14.0,Patrick Mahomes pass complete short right to Jerick McKinnon for -2 yards (tackle by Christian Harris),3.25,2.43,15.0,2022,218
+3,6:28,2.0,12.0,HOU 37,16.0,14.0,"Jerick McKinnon up the middle for 5 yards (tackle by Jonathan Owens). Penalty on JuJu Smith-Schuster: Offensive Holding, 10 yards (accepted)",2.43,1.76,15.0,2022,218
+3,5:50,2.0,17.0,HOU 42,16.0,14.0,"Patrick Mahomes pass complete to JuJu Smith-Schuster for 7 yards (tackle by Tremon Smith). Penalty on Jerick McKinnon: Illegal Blindside Block, 15 yards (accepted) HOU challenged the fumble ruling, and the original play was overturned. Patrick Mahomes pass complete short middle to JuJu Smith-Schuster for 6 yards. JuJu Smith-Schuster fumbles (forced by Tremon Smith), recovered by Jake Hansen at HOU-36 (tackle by Tremon Smith). Penalty on Jerick McKinnon: Illegal Blindside Block, 15 yards (accepted)",1.76,-2.32,15.0,2022,218
+3,5:43,1.0,10.0,KAN 49,16.0,14.0,Davis Mills pass complete short left to Jordan Akins for 7 yards (tackle by Nick Bolton),2.32,2.73,15.0,2022,218
+3,5:15,2.0,3.0,KAN 42,16.0,14.0,Royce Freeman up the middle for 1 yard (tackle by Leo Chenal and Frank Clark),2.73,2.15,15.0,2022,218
+3,4:35,3.0,2.0,KAN 41,16.0,14.0,"Royce Freeman left guard for no gain (tackle by Nick Bolton). Penalty on Frank Clark: Defensive Offside, 5 yards (accepted) (no play)",2.15,3.18,15.0,2022,218
+3,4:09,1.0,10.0,KAN 36,16.0,14.0,Davis Mills pass incomplete deep right intended for Chris Moore,3.18,2.64,15.0,2022,218
+3,4:04,2.0,10.0,KAN 36,16.0,14.0,Davis Mills pass complete short right to Royce Freeman for 5 yards (tackle by Justin Reid),2.64,2.61,15.0,2022,218
+3,3:28,3.0,5.0,KAN 31,16.0,14.0,"Davis Mills pass incomplete deep left intended for Jordan Akins. Penalty on Juan Thornhill: Defensive Pass Interference, 16 yards (accepted) (no play)",2.61,4.58,15.0,2022,218
+3,3:23,1.0,10.0,KAN 15,16.0,14.0,"Davis Mills sacked by Brandon Williams for no gain. Penalty on Juan Thornhill: Illegal Contact, 5 yards (accepted) . Penalty on Willie Gay: Illegal Contact, 5 yards (declined) (no play)",4.58,4.91,15.0,2022,218
+3,3:13,1.0,10.0,KAN 10,16.0,14.0,Royce Freeman left tackle for no gain (tackle by Carlos Dunlap and Khalen Saunders),4.91,4.19,15.0,2022,218
+3,2:34,2.0,10.0,KAN 10,16.0,14.0,Davis Mills pass complete short right to Jordan Akins for 3 yards (tackle by L'Jarius Sneed),4.19,3.81,15.0,2022,218
+3,1:52,3.0,7.0,KAN 7,16.0,14.0,"Penalty on Laremy Tunsil: False Start, 5 yards (accepted) (no play)",3.81,3.1,15.0,2022,218
+3,1:30,3.0,12.0,KAN 12,16.0,20.0,"Davis Mills pass complete short middle to Jordan Akins for 12 yards, touchdown. Penalty on Willie Gay: Illegal Contact, 5 yards (declined)",3.1,7.0,15.0,2022,218
+3,1:25,,,KAN 15,16.0,21.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,15.0,2022,218
+3,1:25,,,HOU 35,16.0,21.0,"Ka'imi Fairbairn kicks off 64 yards, returned by Isiah Pacheco for 15 yards (tackle by Troy Hairston)",0.0,-0.14,15.0,2022,218
+3,1:21,1.0,10.0,KAN 16,16.0,21.0,Patrick Mahomes pass complete short left to JuJu Smith-Schuster for 8 yards (tackle by Desmond King),-0.14,0.55,15.0,2022,218
+3,0:41,2.0,2.0,KAN 24,16.0,21.0,Jerick McKinnon left guard for 4 yards (tackle by Christian Harris and Tremon Smith),0.55,0.81,15.0,2022,218
+3,0:10,1.0,10.0,KAN 28,16.0,21.0,Patrick Mahomes pass complete short right to Travis Kelce for 13 yards (tackle by Jake Hansen),0.81,1.66,15.0,2022,218
+4,15:00,1.0,10.0,KAN 41,16.0,21.0,Patrick Mahomes pass complete short right to JuJu Smith-Schuster for 12 yards (tackle by Christian Kirksey),1.66,2.46,15.0,2022,218
+4,14:31,1.0,10.0,HOU 47,16.0,21.0,Jerick McKinnon left guard for 3 yards (tackle by Tavierre Thomas and Jalen Pitre),2.46,2.32,15.0,2022,218
+4,13:49,2.0,7.0,HOU 44,16.0,21.0,Patrick Mahomes pass complete short right to Marquez Valdes-Scantling for 15 yards (tackle by Tremon Smith),2.32,3.64,15.0,2022,218
+4,13:12,1.0,10.0,HOU 29,16.0,21.0,"Patrick Mahomes pass complete to Jerick McKinnon for 13 yards (tackle by Tremon Smith). Penalty on Christian Harris: Defensive Chop Block, 8 yards (accepted)",3.64,5.37,15.0,2022,218
+4,12:43,1.0,8.0,HOU 8,16.0,21.0,Skyy Moore right end for 3 yards (tackle by Jalen Pitre and Tavierre Thomas),5.37,5.15,15.0,2022,218
+4,12:06,2.0,5.0,HOU 5,22.0,21.0,"Patrick Mahomes scrambles left end for 5 yards, touchdown",5.15,7.0,15.0,2022,218
+4,11:57,,,HOU 2,24.0,21.0,Two Point Attempt: Patrick Mahomes pass complete to to Jerick McKinnon for no gain,1.0,1.0,15.0,2022,218
+4,11:57,,,KAN 35,24.0,21.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,15.0,2022,218
+4,11:57,1.0,10.0,HOU 25,24.0,21.0,Davis Mills scrambles right end for 4 yards (tackle by George Karlaftis),0.61,0.6,15.0,2022,218
+4,11:22,2.0,6.0,HOU 29,24.0,21.0,Davis Mills pass incomplete short right intended for Chris Moore,0.6,-0.1,15.0,2022,218
+4,11:15,3.0,6.0,HOU 29,24.0,21.0,"Davis Mills pass incomplete short right intended for Chris Moore. Penalty on L'Jarius Sneed: Defensive Pass Interference, 14 yards (accepted) (no play)",-0.1,1.8,15.0,2022,218
+4,11:10,1.0,10.0,HOU 43,24.0,21.0,Davis Mills pass incomplete deep left intended for Amari Rodgers,1.8,1.25,15.0,2022,218
+4,11:04,2.0,10.0,HOU 43,24.0,21.0,Dare Ogunbowale right guard for 2 yards (tackle by Derrick Nnadi and Nick Bolton),1.25,0.83,15.0,2022,218
+4,10:28,3.0,8.0,HOU 45,24.0,21.0,Davis Mills pass complete short right to Brevin Jordan for 9 yards (tackle by Justin Reid),0.83,2.52,15.0,2022,218
+4,9:44,1.0,10.0,KAN 46,24.0,21.0,Royce Freeman right tackle for 5 yards (tackle by Khalen Saunders and L'Jarius Sneed),2.52,2.65,15.0,2022,218
+4,9:02,2.0,5.0,KAN 41,24.0,21.0,Royce Freeman left end for 6 yards (tackle by L'Jarius Sneed),2.65,3.25,15.0,2022,218
+4,8:23,1.0,10.0,KAN 35,24.0,21.0,Davis Mills pass incomplete deep left intended for Chris Moore (defended by Justin Reid),3.25,2.7,15.0,2022,218
+4,8:17,2.0,10.0,KAN 35,24.0,21.0,Davis Mills pass complete short middle to Amari Rodgers for 15 yards (tackle by Nick Bolton),2.7,4.24,15.0,2022,218
+4,7:32,1.0,10.0,KAN 20,24.0,21.0,Royce Freeman left end for 7 yards (tackle by Nick Bolton),4.24,4.83,15.0,2022,218
+4,6:50,2.0,3.0,KAN 13,24.0,21.0,Royce Freeman left end for 4 yards (tackle by Justin Reid and Willie Gay),4.83,5.14,15.0,2022,218
+4,6:04,1.0,9.0,KAN 9,24.0,21.0,Jeff Driskel left end for -1 yards (tackle by Leo Chenal),5.14,4.19,15.0,2022,218
+4,5:24,2.0,10.0,KAN 10,24.0,21.0,Davis Mills pass incomplete short middle intended for Jordan Akins (defended by Jaylen Watson),4.19,3.13,15.0,2022,218
+4,5:19,3.0,10.0,KAN 10,24.0,21.0,Davis Mills pass incomplete short left intended for Rex Burkhead (defended by Carlos Dunlap),3.13,2.76,15.0,2022,218
+4,5:14,4.0,10.0,KAN 10,24.0,24.0,Ka'imi Fairbairn 29 yard field goal good,2.76,3.0,15.0,2022,218
+4,5:11,,,HOU 35,24.0,24.0,"Ka'imi Fairbairn kicks off 59 yards, returned by Isiah Pacheco for 17 yards (tackle by Jake Hansen)",0.0,0.48,15.0,2022,218
+4,5:06,1.0,10.0,KAN 23,24.0,24.0,Isiah Pacheco left tackle for 6 yards (tackle by Christian Kirksey and Christian Harris),0.48,0.74,15.0,2022,218
+4,4:25,2.0,4.0,KAN 29,24.0,24.0,Isiah Pacheco right end for 9 yards (tackle by M.J. Stewart),0.74,1.47,15.0,2022,218
+4,3:57,1.0,10.0,KAN 38,24.0,24.0,Patrick Mahomes pass complete short middle to Travis Kelce for 7 yards (tackle by Christian Kirksey),1.47,1.87,15.0,2022,218
+4,3:23,2.0,3.0,KAN 45,24.0,24.0,Isiah Pacheco right guard for 4 yards (tackle by Tremon Smith),1.87,2.19,15.0,2022,218
+4,2:38,1.0,10.0,KAN 49,24.0,24.0,Jerick McKinnon right tackle for 2 yards (tackle by Ogbonnia Okoronkwo),2.19,1.92,15.0,2022,218
+4,2:00,2.0,8.0,HOU 49,24.0,24.0,Patrick Mahomes pass complete short middle to JuJu Smith-Schuster for 4 yards (tackle by Jonathan Owens),1.92,1.75,15.0,2022,218
+4,1:54,,,,,,Timeout #1 by Houston Texans,,,15.0,2022,218
+4,1:54,3.0,4.0,HOU 45,24.0,24.0,Patrick Mahomes scrambles right end for 14 yards (tackle by Tavierre Thomas),1.75,3.51,15.0,2022,218
+4,1:45,,,,,,Timeout #2 by Houston Texans,,,15.0,2022,218
+4,1:45,1.0,10.0,HOU 31,24.0,24.0,Jerick McKinnon right tackle for -3 yards (tackle by Christian Harris and M.J. Stewart),3.51,2.56,15.0,2022,218
+4,1:41,,,,,,Timeout #3 by Houston Texans,,,15.0,2022,218
+4,1:41,2.0,13.0,HOU 34,24.0,24.0,Patrick Mahomes right end for 2 yards (tackle by Tremon Smith),2.56,2.15,15.0,2022,218
+4,0:58,3.0,11.0,HOU 32,24.0,24.0,Patrick Mahomes pass complete short left to Jerick McKinnon for -1 yards (tackle by Christian Harris),2.15,1.15,15.0,2022,218
+4,0:12,,,,,,Timeout #1 by Kansas City Chiefs,,,15.0,2022,218
+4,0:12,4.0,12.0,HOU 33,24.0,24.0,Harrison Butker 51 yard field goal no good,1.15,-1.66,15.0,2022,218
+4,0:08,1.0,10.0,HOU 41,24.0,24.0,Davis Mills kneels for -1 yards,1.66,0.0,15.0,2022,218
+,,,,,,,"Chiefs won the coin toss, Chiefs to receive the overtime kickoff.",,,15.0,2022,218
+OT,10:00,,,HOU 35,24.0,24.0,"Ka'imi Fairbairn kicks off 62 yards, returned by Isiah Pacheco for 15 yards (tackle by Neville Hewitt and M.J. Stewart). Penalty on Noah Gray: Offensive Holding, 9 yards (accepted)",0.0,-0.38,15.0,2022,218
+OT,9:55,1.0,10.0,KAN 9,24.0,24.0,Patrick Mahomes pass complete short middle to JuJu Smith-Schuster for 19 yards (tackle by Jalen Pitre),-0.38,0.81,15.0,2022,218
+OT,9:20,1.0,10.0,KAN 28,24.0,24.0,Patrick Mahomes pass complete short left to Travis Kelce for 7 yards (tackle by Jonathan Owens),0.81,1.21,15.0,2022,218
+OT,8:45,2.0,3.0,KAN 35,24.0,24.0,Isiah Pacheco left guard for 2 yards (tackle by Jerry Hughes),1.21,0.76,15.0,2022,218
+OT,8:08,,,,,,Timeout #1 by Kansas City Chiefs,,,15.0,2022,218
+OT,8:08,3.0,1.0,KAN 37,24.0,24.0,Patrick Mahomes pass complete short right to Travis Kelce for 14 yards (tackle by Jalen Pitre),0.76,2.32,15.0,2022,218
+OT,7:37,1.0,10.0,HOU 49,24.0,24.0,Jerick McKinnon right guard for 2 yards (tackle by Rasheem Green),2.32,2.05,15.0,2022,218
+OT,7:01,2.0,8.0,HOU 47,24.0,24.0,Patrick Mahomes pass complete short middle to Travis Kelce for 4 yards (tackle by Christian Kirksey),2.05,1.88,15.0,2022,218
+OT,6:23,3.0,4.0,HOU 43,24.0,24.0,Patrick Mahomes sacked by Blake Cashman for -12 yards,1.88,-0.39,15.0,2022,218
+OT,5:40,4.0,16.0,KAN 45,24.0,24.0,"Tommy Townsend punts 42 yards, fair catch by Desmond King at HOU-13",-0.39,0.32,15.0,2022,218
+OT,5:34,1.0,10.0,HOU 13,24.0,24.0,"Davis Mills scrambles left end for 2 yards. Davis Mills fumbles (forced by Frank Clark), recovered by Willie Gay at HOU-26 (tackle by Frank Clark)",-0.32,-3.84,15.0,2022,218
+OT,5:19,1.0,10.0,HOU 26,30.0,24.0,"Jerick McKinnon left guard for 26 yards, touchdown",3.84,6.0,15.0,2022,218

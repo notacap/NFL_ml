@@ -1,0 +1,146 @@
+<prompt>
+  
+  <context>
+
+    - We need to refactor the nfl_standings.py script
+
+    - I copied the code from another project to repurpose for this current project
+
+    - The script needs to be modified to work in this project
+
+    - Similar scripts from this project that can be used for reference are tm_rush.py or tm_def.py
+
+  </context>
+  <agents>
+
+    - Make sure to consult with the csv-source-analyzer agent before modifying the script. The agent ONLY needs to review the files that get ingested into the tm_def_rush.py script.
+
+    - After you run the script and the data is inserted/upserted into the database, have the @database-quality-checker agent quality control the database against the source csv files to make sure the data in the mapped columns match 1:1
+
+    - When you run the script after creating it, you are running it for the first time. There should NOT be any rows updated when you run the script, there should only be new rows inserted. If you encounter any rows updated, call on the database-insert-validator agent to investigate why. The reason for the update statement should not be fixed, only explained. I will provide instructions for how to prevent the update record after I investiage the agent's findings.
+
+  </agents>
+
+  <source_csv>
+
+    <directory_logic>
+
+      - The source csv file name includes: nfl_standings
+
+      - The script should process the most recently created file from the following directory path:
+      
+        C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\2{YEAR}\nfl_standings\week_{WEEK}
+
+      - The YEAR and WEEK variables at the top of the db_utils.py determine the {YEAR} and {WEEK} variables in the source file directory path
+
+      The WEEK_START and WEEK_END variables are not applicable, as those are reserved for game level data
+
+    </directory_logic>
+
+    <example>
+
+      - Here is an example source csv the script should process
+
+        C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\2025\nfl_standings\week_1\nfl_standings_20250910_183712.csv
+
+    </example>
+
+  </source_csv>
+
+  <refactor_details>
+
+    <logging>
+
+      - The script currently has a comprehensive logging system
+
+      - I no longer need logging like this
+
+      - You can scale the logging system back to be more in line with other scripts in the project
+
+    </logging>
+
+    <column_names>
+
+      - The source csv column names and possibly the source csv structure has changed
+
+      - The script's mapping between database table and source csv columns will need to be updated
+
+    </column_names>
+
+    <updated_database_table>
+
+    - The nfl_standings table now has a column 'week_id', which references the nfl_week table
+
+    </updated_database_table>
+
+    <id_values>
+
+        <season_id>
+
+          - Currently, the script has a hardcoded season_id value, which needs to be changed
+
+          - To determine the season_id, the script needs to match the YEAR variable value from the db_utils.py file with the 'year' column value in the nfl_season table
+
+          - The get_season_id function in the db_utils.py file should be used to determine the season_id value
+
+        </season_id>
+
+        <week_id>
+
+          - To determine the week_id, should match the season_id and WEEK variable value (from the db_utils.py file) with the season_id and week_num column in the nfl_week database table
+
+        </week_id>
+
+        <team_id>
+
+          - the get_team_id function in the db_utils.py file should be used to determine the team_id value
+
+          - The source csv 'Tm' column is populated with full team names
+
+        </team_id>
+
+    </id_values>
+
+    <create_table>
+
+      - The script should be creating the database table if it does not exist in the database
+
+      - The create table statement has been updated to include the week_id, and new unique/foreign keys
+
+      - The script should reflect this updated create table statement
+
+      - Here is the updated created table statement
+
+          CREATE TABLE nfl_standings (
+              nfl_standings_id INT AUTO_INCREMENT PRIMARY KEY,
+              team_id INT,
+              season_id INT,
+              week_id INT,
+              win INT,
+              loss INT,
+              win_loss_pct DECIMAL(7,4),
+              pt_for INT,
+              pt_against INT,
+              pt_diff INT,
+              margin_of_victory DECIMAL(7,4),
+              strength_of_schedule DECIMAL(7,4),
+              simple_rating_system DECIMAL(7,4),
+              off_srs DECIMAL(7,4),
+              def_srs DECIMAL(7,4),
+              UNIQUE KEY uk_tm_season (team_id, season_id, week_id),
+              FOREIGN KEY (team_id) REFERENCES nfl_team(team_id),
+              FOREIGN KEY (season_id) REFERENCES nfl_season(season_id),
+              FOREIGN KEY (week_id) REFERENCES nfl_week(week_id),
+          );
+
+    </create_table>
+
+  </refactor_details>
+
+  <important_note>
+
+      - Do not deviate from the create table statement provided. There are source csv columns I am intentionally omitting from the database.
+
+  </important_note>
+
+</prompt>

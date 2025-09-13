@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,14:06,TAM 26,3,1:33,-1,Punt,0,Buccaneers,13.0,2024,191
+2,1,10:35,TAM 37,12,6:06,63,Touchdown,0,Buccaneers,13.0,2024,191
+3,1,0:48,TAM 26,3,0:57,1,Punt,0,Buccaneers,13.0,2024,191
+4,2,11:39,TAM 28,3,1:57,-14,Punt,0,Buccaneers,13.0,2024,191
+5,2,7:45,TAM 30,9,4:06,61,Field Goal,0,Buccaneers,13.0,2024,191
+6,2,1:41,TAM 35,3,0:58,26,Interception,0,Buccaneers,13.0,2024,191
+8,3,15:00,TAM 30,4,2:30,11,Punt,0,Buccaneers,13.0,2024,191
+9,3,9:31,TAM 21,5,3:04,14,Punt,0,Buccaneers,13.0,2024,191
+10,3,5:32,TAM 33,3,1:24,9,Interception,0,Buccaneers,13.0,2024,191
+11,3,0:19,TAM 31,11,6:26,69,Touchdown,0,Buccaneers,13.0,2024,191
+12,4,7:18,TAM 25,9,4:13,67,Field Goal,0,Buccaneers,13.0,2024,191
+13,4,0:30,TAM 30,6,0:30,36,Field Goal,0,Buccaneers,13.0,2024,191
+14,5,10:00,TAM 34,6,3:29,29,Missed FG,0,Buccaneers,13.0,2024,191
+15,5,5:03,TAM 29,5,2:13,59,Field Goal,0,Buccaneers,13.0,2024,191

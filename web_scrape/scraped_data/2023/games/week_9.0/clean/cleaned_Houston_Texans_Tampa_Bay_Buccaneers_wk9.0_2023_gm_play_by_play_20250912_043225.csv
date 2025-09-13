@@ -1,0 +1,187 @@
+Quarter,Time,Down,ToGo,Location,TAM,HOU,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Buccaneers won the coin toss and deferred, Texans to receive the opening kickoff.",,,9.0,2023,127
+1.0,15:00,,,TAM 35,0.0,0.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,127
+1.0,15:00,1.0,10.0,HOU 25,0.0,0.0,C.J. Stroud pass incomplete short right intended for Tank Dell,0.61,0.06,9.0,2023,127
+1.0,14:55,2.0,10.0,HOU 25,0.0,0.0,C.J. Stroud pass incomplete short right,0.06,-0.62,9.0,2023,127
+1.0,14:48,3.0,10.0,HOU 25,0.0,0.0,"C.J. Stroud pass complete short left to Dalton Schultz for 9 yards. Dalton Schultz fumbles (forced by Lavonte David), recovered by Antoine Winfield at HOU-42",-0.62,-2.79,9.0,2023,127
+1.0,14:38,1.0,10.0,HOU 42,0.0,0.0,"Baker Mayfield pass complete short right to Cade Otton for 24 yards (tackle by Jimmie Ward). Penalty on Jonathan Greenard: Defensive Offside, 5 yards (declined)",2.79,4.37,9.0,2023,127
+1.0,14:15,1.0,10.0,HOU 18,0.0,0.0,Rachaad White up the middle for no gain (tackle by Blake Cashman and Denzel Perryman),4.37,3.8,9.0,2023,127
+1.0,13:40,2.0,10.0,HOU 18,0.0,0.0,Baker Mayfield pass incomplete short right intended for Cade Otton,3.8,3.05,9.0,2023,127
+1.0,13:36,3.0,10.0,HOU 18,0.0,0.0,Baker Mayfield pass complete short right to Rachaad White for 1 yard (tackle by Blake Cashman),3.05,2.31,9.0,2023,127
+1.0,12:59,4.0,9.0,HOU 17,3.0,0.0,Chase McLaughlin 35 yard field goal good,2.31,3.0,9.0,2023,127
+1.0,12:56,,,TAM 35,3.0,0.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,127
+1.0,12:56,1.0,10.0,HOU 25,3.0,0.0,C.J. Stroud pass complete short right to Dalton Schultz for 21 yards (tackle by Carlton Davis),0.61,1.99,9.0,2023,127
+1.0,12:17,1.0,10.0,HOU 46,3.0,0.0,Devin Singletary left guard for 3 yards (tackle by Vita Vea),1.99,1.86,9.0,2023,127
+1.0,11:38,2.0,7.0,HOU 49,3.0,0.0,C.J. Stroud pass complete short middle to Tank Dell for 15 yards (tackle by Ryan Neal),1.86,3.18,9.0,2023,127
+1.0,11:02,1.0,10.0,TAM 36,3.0,0.0,Devin Singletary left guard for -1 yards (tackle by Lavonte David),3.18,2.5,9.0,2023,127
+1.0,10:24,2.0,11.0,TAM 37,3.0,0.0,Tank Dell left end for 2 yards (tackle by Shaquil Barrett),2.5,2.08,9.0,2023,127
+1.0,9:43,3.0,9.0,TAM 35,3.0,0.0,C.J. Stroud pass complete short right to Noah Brown for 6 yards (tackle by Devin White),2.08,1.58,9.0,2023,127
+1.0,9:43,4.0,3.0,TAM 29,3.0,0.0,"Penalty on Shaquil Barrett: Roughing the Passer, 15 yards (accepted) (no play)",1.58,4.65,9.0,2023,127
+1.0,9:14,1.0,10.0,TAM 14,3.0,6.0,"C.J. Stroud pass complete short left to Nico Collins for 14 yards, touchdown",4.65,7.0,9.0,2023,127
+1.0,9:10,,,TAM 15,3.0,7.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,9.0,2023,127
+1.0,9:10,,,HOU 35,3.0,7.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,127
+1.0,9:10,1.0,10.0,TAM 25,3.0,7.0,Baker Mayfield pass complete short left to Rachaad White for 33 yards (tackle by Blake Cashman and Jalen Pitre),0.61,2.79,9.0,2023,127
+1.0,8:27,1.0,10.0,HOU 42,3.0,7.0,Rachaad White up the middle for 4 yards (tackle by Jerry Hughes),2.79,2.78,9.0,2023,127
+1.0,7:50,2.0,6.0,HOU 38,3.0,7.0,Rachaad White right guard for 4 yards (tackle by Denzel Perryman and Shaquill Griffin),2.78,2.61,9.0,2023,127
+1.0,7:16,3.0,2.0,HOU 34,3.0,7.0,Baker Mayfield pass complete short right to Mike Evans for 10 yards (tackle by M.J. Stewart),2.61,3.97,9.0,2023,127
+1.0,6:42,1.0,10.0,HOU 24,3.0,7.0,Ke'Shawn Vaughn right tackle for 1 yard (tackle by Jonathan Greenard),3.97,3.57,9.0,2023,127
+1.0,6:04,2.0,9.0,HOU 23,3.0,7.0,Ke'Shawn Vaughn left guard for 1 yard (tackle by Hassan Ridgeway),3.57,3.01,9.0,2023,127
+1.0,5:27,3.0,8.0,HOU 22,3.0,7.0,Baker Mayfield sacked by Will Anderson for -5 yards,3.01,1.67,9.0,2023,127
+1.0,5:27,4.0,13.0,HOU 27,3.0,7.0,"Penalty on Jimmie Ward: Unnecessary Roughness / Defense, 14 yards (accepted) Penalty on M.J. Stewart: Illegal Contact, 5 yards (declined) (no play)",1.67,4.71,9.0,2023,127
+1.0,4:47,1.0,10.0,HOU 13,3.0,7.0,Rachaad White up the middle for 4 yards (tackle by Blake Cashman and Henry To'oTo'o),4.71,4.77,9.0,2023,127
+1.0,4:13,2.0,6.0,HOU 9,3.0,7.0,Baker Mayfield pass incomplete short right intended for Mike Evans,4.77,3.88,9.0,2023,127
+1.0,4:10,3.0,6.0,HOU 9,3.0,7.0,"Baker Mayfield pass complete short middle to Chris Godwin for no gain (tackle by Blake Cashman). Penalty on Luke Goedeke: Offensive Holding, 10 yards (accepted) (no play)",3.88,2.67,9.0,2023,127
+1.0,3:42,3.0,16.0,HOU 19,3.0,7.0,Baker Mayfield pass complete short left to Chris Godwin for 15 yards (tackle by Henry To'oTo'o and Steven Nelson),2.67,3.04,9.0,2023,127
+1.0,3:18,4.0,1.0,HOU 4,3.0,7.0,Rachaad White right tackle for 3 yards (tackle by Henry To'oTo'o and Tavierre Thomas),3.04,6.97,9.0,2023,127
+1.0,2:54,1.0,1.0,HOU 1,3.0,7.0,Baker Mayfield right end for -2 yards (tackle by Blake Cashman),6.97,5.53,9.0,2023,127
+1.0,2:19,2.0,3.0,HOU 3,9.0,7.0,"Baker Mayfield pass complete short middle to Cade Otton for 3 yards, touchdown",5.53,7.0,9.0,2023,127
+1.0,2:13,,,HOU 15,10.0,7.0,Chase McLaughlin kicks extra point good,0.0,0.0,9.0,2023,127
+1.0,2:13,,,TAM 35,10.0,7.0,"Jake Camarda kicks off 64 yards, returned by Mike Boone for 8 yards (tackle by Cam Gill and Josh Hayes)",0.0,-0.38,9.0,2023,127
+1.0,2:08,1.0,10.0,HOU 9,10.0,7.0,Devin Singletary right end for 1 yard (tackle by Lavonte David),-0.38,-0.71,9.0,2023,127
+1.0,1:33,2.0,9.0,HOU 10,10.0,7.0,C.J. Stroud pass incomplete deep left intended for Tank Dell,-0.71,-1.3,9.0,2023,127
+1.0,1:27,,,,,,Timeout #1 by Houston Texans,,,9.0,2023,127
+1.0,1:27,3.0,9.0,HOU 10,10.0,7.0,C.J. Stroud pass incomplete short left intended for Tank Dell,-1.3,-2.49,9.0,2023,127
+1.0,1:22,4.0,9.0,HOU 10,10.0,7.0,"Cameron Johnston punts 58 yards, returned by Deven Thompkins for 4 yards (tackle by M.J. Stewart)",-2.49,-1.33,9.0,2023,127
+1.0,1:07,1.0,10.0,TAM 36,10.0,7.0,Chase Edmonds left tackle for 2 yards (tackle by Blake Cashman and Denzel Perryman),1.33,1.06,9.0,2023,127
+1.0,0:31,2.0,8.0,TAM 38,10.0,7.0,"Baker Mayfield pass complete deep left to Mike Evans for no gain. Penalty on Mike Evans: Offensive Pass Interference, 10 yards (accepted) (no play)",1.06,-0.29,9.0,2023,127
+1.0,0:07,2.0,18.0,TAM 28,10.0,7.0,Chase Edmonds up the middle for 1 yard (tackle by Will Anderson and Blake Cashman),-0.29,-0.82,9.0,2023,127
+2.0,15:00,3.0,17.0,TAM 29,10.0,7.0,Baker Mayfield pass complete short middle to Cade Otton for 9 yards (tackle by Jimmie Ward),-0.82,-0.85,9.0,2023,127
+2.0,14:20,4.0,8.0,TAM 38,10.0,7.0,Jake Camarda punts 52 yards out of bounds,-0.85,0.38,9.0,2023,127
+2.0,14:11,1.0,10.0,HOU 10,10.0,7.0,Devin Singletary left tackle for -2 yards (tackle by Shaquil Barrett),-0.38,-0.93,9.0,2023,127
+2.0,13:36,2.0,12.0,HOU 8,10.0,7.0,C.J. Stroud pass complete short right to Noah Brown for -1 yards (tackle by Christian Izien and Devin White),-0.93,-1.77,9.0,2023,127
+2.0,12:54,3.0,13.0,HOU 7,10.0,7.0,Mike Boone right guard for 3 yards (tackle by Calijah Kancey),-1.77,-2.49,9.0,2023,127
+2.0,12:15,4.0,10.0,HOU 10,10.0,7.0,"Cameron Johnston punts 54 yards, returned by Deven Thompkins for 9 yards (tackle by D'Angelo Ross). Penalty on D'Angelo Ross: Unsportsmanlike Conduct / Offense, 15 yards (accepted)",-2.49,-2.92,9.0,2023,127
+2.0,12:03,1.0,10.0,HOU 40,10.0,7.0,Baker Mayfield pass complete deep left to Mike Evans for 16 yards (tackle by Steven Nelson),2.92,3.97,9.0,2023,127
+2.0,11:30,1.0,10.0,HOU 24,10.0,7.0,Rachaad White left guard for 11 yards (tackle by Christian Harris and M.J. Stewart),3.97,4.71,9.0,2023,127
+2.0,10:51,1.0,10.0,HOU 13,10.0,7.0,Rachaad White left guard for 3 yards (tackle by Will Anderson),4.71,4.58,9.0,2023,127
+2.0,10:17,2.0,7.0,HOU 10,10.0,7.0,Rachaad White right guard for no gain (tackle by Jalen Pitre),4.58,3.65,9.0,2023,127
+2.0,9:36,3.0,7.0,HOU 10,10.0,7.0,Baker Mayfield pass complete short left to Rachaad White for 9 yards (tackle by Khalil Davis and Blake Cashman),3.65,6.97,9.0,2023,127
+2.0,9:07,1.0,1.0,HOU 1,16.0,7.0,"Rachaad White left guard for 1 yard, touchdown",6.97,7.0,9.0,2023,127
+2.0,9:05,,,HOU 15,17.0,7.0,Chase McLaughlin kicks extra point good,0.0,0.0,9.0,2023,127
+2.0,9:05,,,TAM 35,17.0,7.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,127
+2.0,9:05,1.0,10.0,HOU 25,17.0,7.0,C.J. Stroud pass complete short right to Devin Singletary for 3 yards (tackle by Carlton Davis and Devin White),0.61,0.47,9.0,2023,127
+2.0,8:26,2.0,7.0,HOU 28,17.0,7.0,C.J. Stroud pass complete short middle to Tank Dell for 13 yards (tackle by Carlton Davis and Zyon McCollum),0.47,1.66,9.0,2023,127
+2.0,7:44,1.0,10.0,HOU 41,17.0,7.0,C.J. Stroud pass incomplete short middle intended for Nico Collins,1.66,1.12,9.0,2023,127
+2.0,7:38,2.0,10.0,HOU 41,17.0,7.0,C.J. Stroud pass incomplete deep left intended for Tank Dell,1.12,0.43,9.0,2023,127
+2.0,7:32,3.0,10.0,HOU 41,17.0,7.0,C.J. Stroud pass complete short middle to Dalton Schultz for 12 yards (tackle by Carlton Davis),0.43,2.46,9.0,2023,127
+2.0,6:55,1.0,10.0,TAM 47,17.0,7.0,C.J. Stroud pass complete short left to John Metchie for 14 yards (tackle by Zyon McCollum),2.46,3.38,9.0,2023,127
+2.0,6:23,1.0,10.0,TAM 33,17.0,7.0,Devin Singletary left tackle for 1 yard (tackle by Lavonte David),3.38,2.97,9.0,2023,127
+2.0,5:42,2.0,9.0,TAM 32,17.0,7.0,C.J. Stroud pass incomplete deep right,2.97,2.28,9.0,2023,127
+2.0,5:36,3.0,9.0,TAM 32,17.0,7.0,C.J. Stroud pass incomplete deep right,2.28,1.24,9.0,2023,127
+2.0,5:22,4.0,9.0,TAM 32,17.0,10.0,Ka'imi Fairbairn 50 yard field goal good,1.24,3.0,9.0,2023,127
+2.0,5:17,,,HOU 35,17.0,10.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,127
+2.0,5:17,1.0,10.0,TAM 25,17.0,10.0,Ke'Shawn Vaughn right guard for 3 yards (tackle by Jerry Hughes),0.61,0.47,9.0,2023,127
+2.0,4:35,2.0,7.0,TAM 28,17.0,10.0,Ke'Shawn Vaughn left guard for 4 yards (tackle by Jalen Pitre and Christian Harris),0.47,0.3,9.0,2023,127
+2.0,3:48,3.0,3.0,TAM 32,17.0,10.0,Baker Mayfield pass complete short right to Ke'Shawn Vaughn for -1 yards (tackle by Christian Harris),0.3,-1.31,9.0,2023,127
+2.0,3:08,4.0,4.0,TAM 31,17.0,10.0,Jake Camarda punts 53 yards out of bounds,-1.31,0.14,9.0,2023,127
+2.0,3:00,1.0,10.0,HOU 16,17.0,10.0,C.J. Stroud pass complete short middle to Dalton Schultz for 9 yards (tackle by Ryan Neal),-0.14,0.69,9.0,2023,127
+2.0,2:24,2.0,1.0,HOU 25,17.0,10.0,"C.J. Stroud sacked by Calijah Kancey for -13 yards. Penalty on Noah Brown: Illegal Shift, 5 yards (declined)",0.69,-1.89,9.0,2023,127
+2.0,2:00,3.0,14.0,HOU 12,17.0,10.0,C.J. Stroud pass complete short right to Nico Collins for 17 yards (tackle by Antoine Winfield and Lavonte David),-1.89,0.87,9.0,2023,127
+2.0,1:29,1.0,10.0,HOU 29,17.0,10.0,"C.J. Stroud pass incomplete short left intended for Noah Brown. Penalty on Christian Izien: Defensive Holding, 5 yards (accepted) (no play)",0.87,1.2,9.0,2023,127
+2.0,1:25,1.0,10.0,HOU 34,17.0,10.0,C.J. Stroud pass complete short middle to Tank Dell for 16 yards (tackle by Zyon McCollum),1.2,2.26,9.0,2023,127
+2.0,1:02,1.0,10.0,TAM 50,17.0,10.0,C.J. Stroud sacked by Devin White for -7 yards,2.26,0.77,9.0,2023,127
+2.0,0:57,,,,,,Timeout #2 by Houston Texans,,,9.0,2023,127
+2.0,0:57,2.0,17.0,HOU 43,17.0,10.0,C.J. Stroud pass complete short right to Devin Singletary for -3 yards (tackle by Lavonte David),0.77,-0.3,9.0,2023,127
+2.0,0:13,3.0,20.0,HOU 40,17.0,10.0,"C.J. Stroud pass complete short left to Nico Collins for no gain (tackle by Zyon McCollum). Penalty on Shaquil Barrett: Defensive Offside, 5 yards (accepted) (no play)",-0.3,0.37,9.0,2023,127
+2.0,0:07,3.0,15.0,HOU 45,17.0,10.0,C.J. Stroud pass complete short right to Nico Collins for 12 yards (tackle by Carlton Davis). Penalty on Laremy Tunsil: Offensive Holding (accepted) (no play),0.37,-0.39,9.0,2023,127
+3.0,15:00,,,HOU 35,17.0,10.0,"Dare Ogunbowale kicks off 61 yards, returned by Deven Thompkins for 23 yards (tackle by Xavier Hutchinson)",0.0,0.74,9.0,2023,127
+3.0,14:55,1.0,10.0,TAM 27,17.0,10.0,"Baker Mayfield pass complete short middle to Rachaad White for 3 yards (tackle by Denzel Perryman). Penalty on Denzel Perryman: Unnecessary Roughness / Defense, 15 yards (accepted)",0.74,1.93,9.0,2023,127
+3.0,14:28,1.0,10.0,TAM 45,17.0,10.0,Baker Mayfield pass incomplete deep left intended for Chris Godwin,1.93,1.38,9.0,2023,127
+3.0,14:22,2.0,10.0,TAM 45,17.0,10.0,Rachaad White right tackle for 16 yards (tackle by Tavierre Thomas),1.38,2.98,9.0,2023,127
+3.0,13:39,1.0,10.0,HOU 39,17.0,10.0,Baker Mayfield pass incomplete deep right intended for Trey Palmer (defended by Jalen Pitre),2.98,2.44,9.0,2023,127
+3.0,13:34,2.0,10.0,HOU 39,17.0,10.0,Baker Mayfield pass incomplete deep right intended for Cade Otton,2.44,1.75,9.0,2023,127
+3.0,13:27,3.0,10.0,HOU 39,17.0,10.0,Baker Mayfield pass complete short left to Cade Otton for 8 yards (tackle by Tavierre Thomas and Steven Nelson),1.75,1.4,9.0,2023,127
+3.0,12:42,4.0,2.0,HOU 31,20.0,10.0,Chase McLaughlin 49 yard field goal good,1.4,3.0,9.0,2023,127
+3.0,12:38,,,TAM 35,20.0,10.0,"Jake Camarda kicks off 61 yards, returned by Tank Dell for 21 yards (tackle by Rakim Jarrett)",0.0,0.61,9.0,2023,127
+3.0,12:32,1.0,10.0,HOU 25,20.0,16.0,"C.J. Stroud pass complete deep left to Noah Brown for 75 yards, touchdown",0.61,7.0,9.0,2023,127
+3.0,12:20,,,TAM 2,20.0,16.0,Two Point Attempt: C.J. Stroud pass complete to . Interception by Joe Tryon-Shoyinka,1.0,-1.0,9.0,2023,127
+3.0,12:20,,,HOU 35,20.0,16.0,"Penalty on Joe Tryon-Shoyinka: Unsportsmanlike Conduct / Defense, 15 yards (accepted) (no play)",0.0,0.0,9.0,2023,127
+3.0,12:20,,,HOU 50,20.0,16.0,"Dare Ogunbowale kicks off 50 yards, touchback.",0.0,0.61,9.0,2023,127
+3.0,12:20,1.0,10.0,TAM 25,20.0,16.0,Rachaad White left tackle for 1 yard (tackle by Jerry Hughes and Blake Cashman),0.61,0.2,9.0,2023,127
+3.0,11:40,2.0,9.0,TAM 26,20.0,16.0,Baker Mayfield left end for no gain (tackle by Christian Harris),0.2,-0.49,9.0,2023,127
+3.0,10:59,3.0,9.0,TAM 26,20.0,16.0,"Baker Mayfield pass incomplete deep middle intended for Trey Palmer (defended by Shaquill Griffin). Penalty on Shaquill Griffin: Defensive Pass Interference, 37 yards (accepted) (no play)",-0.49,3.12,9.0,2023,127
+3.0,10:53,1.0,10.0,HOU 37,20.0,16.0,Baker Mayfield pass incomplete short right intended for Cade Otton (defended by Christian Harris),3.12,2.57,9.0,2023,127
+3.0,10:49,2.0,10.0,HOU 37,20.0,16.0,Rachaad White up the middle for -1 yards (tackle by Blake Cashman and Dylan Horton),2.57,1.75,9.0,2023,127
+3.0,10:11,3.0,11.0,HOU 38,20.0,16.0,Baker Mayfield scrambles left end for 1 yard (tackle by Tavierre Thomas),1.75,0.79,9.0,2023,127
+3.0,9:28,4.0,10.0,HOU 37,23.0,16.0,Chase McLaughlin 55 yard field goal good,0.79,3.0,9.0,2023,127
+3.0,9:23,,,TAM 35,23.0,16.0,"Jake Camarda kicks off 67 yards, returned by Tank Dell for 23 yards (tackle by Josh Hayes)",0.0,0.34,9.0,2023,127
+3.0,9:18,1.0,10.0,HOU 21,23.0,16.0,Devin Singletary left tackle for 2 yards (tackle by Vita Vea),0.34,0.07,9.0,2023,127
+3.0,8:40,2.0,8.0,HOU 23,23.0,16.0,C.J. Stroud pass complete deep middle to Nico Collins for 23 yards (tackle by Lavonte David),0.07,1.99,9.0,2023,127
+3.0,7:58,1.0,10.0,HOU 46,23.0,16.0,Devin Singletary right tackle for 9 yards (tackle by Dee Delaney and Devin White),1.99,2.67,9.0,2023,127
+3.0,7:15,2.0,1.0,TAM 45,23.0,16.0,C.J. Stroud pass incomplete deep left intended for Tank Dell,2.67,1.95,9.0,2023,127
+3.0,7:08,3.0,1.0,TAM 45,23.0,16.0,"Devin Singletary up the middle for no gain (tackle by Calijah Kancey). Penalty on Michael Deiter: Offensive Holding, 10 yards (accepted) (no play)",1.95,0.63,9.0,2023,127
+3.0,6:42,3.0,11.0,HOU 45,23.0,16.0,C.J. Stroud pass complete short middle to Dalton Schultz for 26 yards (tackle by Devin White),0.63,3.64,9.0,2023,127
+3.0,6:05,1.0,10.0,TAM 29,23.0,22.0,"C.J. Stroud pass complete deep right to Tank Dell for 29 yards, touchdown",3.64,7.0,9.0,2023,127
+3.0,5:59,,,TAM 2,23.0,22.0,Two Point Attempt: C.J. Stroud pass incomplete intended for intended for Tank Dell,1.0,-1.0,9.0,2023,127
+3.0,5:59,,,HOU 35,23.0,22.0,"Dare Ogunbowale kicks off 55 yards, returned by Deven Thompkins for 19 yards (tackle by Tavierre Thomas). Penalty on Cam Gill: Offensive Holding, 10 yards (accepted)",0.0,0.15,9.0,2023,127
+3.0,5:50,1.0,10.0,TAM 19,23.0,22.0,Baker Mayfield pass complete short right to Chase Edmonds for -1 yards (tackle by Tavierre Thomas),0.15,-0.56,9.0,2023,127
+3.0,5:07,2.0,11.0,TAM 18,23.0,22.0,Baker Mayfield pass complete short left to Chris Godwin for 1 yard (tackle by Denzel Perryman),-0.56,-1.07,9.0,2023,127
+3.0,4:27,3.0,10.0,TAM 19,23.0,22.0,Baker Mayfield sacked by Khalil Davis for -9 yards,-1.07,-2.49,9.0,2023,127
+3.0,3:48,4.0,19.0,TAM 10,23.0,22.0,"Jake Camarda punts 49 yards, returned by Tank Dell for 7 yards (tackle by Zach Triner)",-2.49,-2.13,9.0,2023,127
+3.0,3:37,1.0,10.0,HOU 48,23.0,22.0,"C.J. Stroud pass complete short right to Dalton Schultz for 13 yards (tackle by Carlton Davis and Christian Izien). Penalty on Carlton Davis: Defensive Holding, 5 yards (declined)",2.13,2.98,9.0,2023,127
+3.0,3:07,1.0,10.0,TAM 39,23.0,22.0,Devin Singletary left tackle for 6 yards (tackle by Greg Gaines),2.98,3.25,9.0,2023,127
+3.0,2:26,2.0,4.0,TAM 33,23.0,22.0,C.J. Stroud pass complete short middle to Andrew Beck for 6 yards (tackle by Lavonte David and Devin White),3.25,3.78,9.0,2023,127
+3.0,1:40,1.0,10.0,TAM 27,23.0,22.0,Xavier Hutchinson left end for 12 yards (tackle by Anthony Nelson and Mike Greene),3.78,4.58,9.0,2023,127
+3.0,0:53,1.0,10.0,TAM 15,23.0,22.0,C.J. Stroud pass complete short left to Dalton Schultz for 11 yards (tackle by Zyon McCollum),4.58,6.28,9.0,2023,127
+3.0,0:29,1.0,4.0,TAM 4,23.0,22.0,Devin Singletary up the middle for -4 yards (tackle by Vita Vea),6.28,4.57,9.0,2023,127
+4.0,15:00,2.0,8.0,TAM 8,23.0,22.0,Devin Singletary up the middle for -1 yards (tackle by Calijah Kancey),4.57,3.36,9.0,2023,127
+4.0,14:20,3.0,9.0,TAM 9,23.0,22.0,C.J. Stroud pass incomplete short left intended for Nico Collins (defended by Zyon McCollum),3.36,2.83,9.0,2023,127
+4.0,14:15,4.0,9.0,TAM 9,23.0,28.0,"C.J. Stroud pass complete short right to Dalton Schultz for 9 yards, touchdown",2.83,7.0,9.0,2023,127
+4.0,14:11,,,TAM 2,23.0,30.0,"Two Point Attempt: C.J. Stroud rushes, conversion succeeds.",1.0,1.0,9.0,2023,127
+4.0,14:11,,,HOU 35,23.0,30.0,"Dare Ogunbowale kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,127
+4.0,14:11,1.0,10.0,TAM 25,23.0,30.0,Rachaad White left tackle for 1 yard (tackle by Khalil Davis),0.61,0.2,9.0,2023,127
+4.0,13:33,2.0,9.0,TAM 26,23.0,30.0,Baker Mayfield pass complete short middle to Cade Otton for 9 yards (tackle by Christian Harris),0.2,1.27,9.0,2023,127
+4.0,12:53,1.0,10.0,TAM 35,23.0,30.0,Rachaad White up the middle for 11 yards (tackle by Jonathan Greenard),1.27,1.99,9.0,2023,127
+4.0,12:12,1.0,10.0,TAM 46,23.0,30.0,"Baker Mayfield pass complete deep left to Mike Evans for 53 yards Replay Assistant challenged the runner broke the plane ruling, and the original play was overturned. Baker Mayfield pass complete deep left to Mike Evans for 53 yards (tackle by Steven Nelson)",1.99,6.97,9.0,2023,127
+4.0,11:48,1.0,1.0,HOU 1,23.0,30.0,Baker Mayfield pass incomplete short right intended for Chris Godwin,6.97,5.91,9.0,2023,127
+4.0,11:46,2.0,1.0,HOU 1,29.0,30.0,"Rachaad White left guard for 1 yard, touchdown",5.91,7.0,9.0,2023,127
+4.0,11:43,,,HOU 15,30.0,30.0,Chase McLaughlin kicks extra point good,0.0,0.0,9.0,2023,127
+4.0,11:43,,,TAM 35,30.0,30.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,127
+4.0,11:43,1.0,10.0,HOU 25,30.0,30.0,"C.J. Stroud pass complete short middle to Noah Brown for 28 yards (tackle by Zyon McCollum). Penalty on Zyon McCollum: Defensive Holding, 5 yards (declined)",0.61,2.46,9.0,2023,127
+4.0,11:16,1.0,10.0,TAM 47,30.0,30.0,"Devin Singletary left end for 1 yard, lateral to C.J. Stroud for 10 yards (tackle by Devin White)",2.46,3.18,9.0,2023,127
+4.0,10:39,1.0,10.0,TAM 36,30.0,30.0,"C.J. Stroud pass complete deep left to Noah Brown for 31 yards (tackle by Antoine Winfield). Penalty on Carlton Davis: Defensive Holding, 5 yards (declined)",3.18,6.06,9.0,2023,127
+4.0,10:11,1.0,5.0,TAM 5,30.0,30.0,"Penalty on Xavier Hutchinson: False Start, 5 yards (accepted) (no play)",6.06,4.91,9.0,2023,127
+4.0,10:07,1.0,10.0,TAM 10,30.0,30.0,C.J. Stroud pass complete short middle to Andrew Beck for -1 yards (tackle by Calijah Kancey),4.91,4.02,9.0,2023,127
+4.0,9:41,2.0,11.0,TAM 11,30.0,30.0,Tank Dell left end for no gain (tackle by Devin White and Antoine Winfield),4.02,3.12,9.0,2023,127
+4.0,8:55,3.0,11.0,TAM 11,30.0,30.0,C.J. Stroud pass incomplete short right intended for Dalton Schultz,3.12,2.7,9.0,2023,127
+4.0,8:48,4.0,11.0,TAM 11,30.0,33.0,Dare Ogunbowale 29 yard field goal good,2.7,3.0,9.0,2023,127
+4.0,8:45,,,HOU 35,30.0,33.0,"Dare Ogunbowale kicks off 50 yards, returned by Deven Thompkins for 12 yards (tackle by Ka'dar Hollman and D'Angelo Ross)",0.0,0.74,9.0,2023,127
+4.0,8:41,1.0,10.0,TAM 27,30.0,33.0,Rachaad White left guard for 1 yard (tackle by Jerry Hughes),0.74,0.33,9.0,2023,127
+4.0,8:04,2.0,9.0,TAM 28,30.0,33.0,Rachaad White up the middle for 2 yards (tackle by Jalen Pitre and Tavierre Thomas),0.33,-0.1,9.0,2023,127
+4.0,7:21,,,,,,Timeout #1 by Tampa Bay Buccaneers,,,9.0,2023,127
+4.0,7:21,3.0,7.0,TAM 30,30.0,33.0,"Baker Mayfield pass incomplete short right intended for Chris Godwin. Penalty on Baker Mayfield: Illegal Motion, 5 yards (declined)",-0.1,-1.37,9.0,2023,127
+4.0,7:17,4.0,7.0,TAM 30,30.0,33.0,Jake Camarda punts 48 yards out of bounds,-1.37,-0.41,9.0,2023,127
+4.0,7:11,1.0,10.0,HOU 22,30.0,33.0,"C.J. Stroud pass complete short left to Noah Brown for no gain (tackle by Zyon McCollum). Penalty on George Fant: Offensive Holding, 10 yards (accepted) (no play)",0.41,-0.66,9.0,2023,127
+4.0,6:40,1.0,20.0,HOU 12,30.0,33.0,Devin Singletary left guard for 6 yards (tackle by Vita Vea),-0.66,-0.77,9.0,2023,127
+4.0,6:07,2.0,14.0,HOU 18,30.0,33.0,"C.J. Stroud pass incomplete deep right intended for Nico Collins (defended by Zyon McCollum). Penalty on Laremy Tunsil: Offensive Holding, 9 yards (accepted) (no play)",-0.77,-1.73,9.0,2023,127
+4.0,5:59,2.0,23.0,HOU 9,30.0,33.0,Devin Singletary up the middle for 5 yards (tackle by Joe Tryon-Shoyinka and Lavonte David),-1.73,-2.24,9.0,2023,127
+4.0,5:21,3.0,18.0,HOU 14,30.0,33.0,"C.J. Stroud sacked by Shaquil Barrett for -7 yards. C.J. Stroud fumbles (forced by Shaquil Barrett), recovered by George Fant at HOU-8 and returned for 6 yards",-2.24,-2.49,9.0,2023,127
+4.0,4:42,4.0,24.0,HOU 8,30.0,33.0,"Cameron Johnston punts 62 yards, returned by Deven Thompkins for 9 yards (tackle by Henry To'oTo'o)",-2.49,-1.53,9.0,2023,127
+4.0,4:27,1.0,10.0,TAM 39,30.0,33.0,Baker Mayfield pass complete short left to Mike Evans for 8 yards (tackle by Jalen Pitre and Denzel Perryman),1.53,2.07,9.0,2023,127
+4.0,3:53,2.0,2.0,TAM 47,30.0,33.0,Rachaad White up the middle for 1 yard (tackle by Maliek Collins),2.07,1.49,9.0,2023,127
+4.0,3:15,3.0,1.0,TAM 48,30.0,33.0,Rachaad White right guard for 3 yards (tackle by Tavierre Thomas and DeAndre Houston-Carson),1.49,2.32,9.0,2023,127
+4.0,2:31,1.0,10.0,HOU 49,30.0,33.0,Chase Edmonds left tackle for -8 yards (tackle by Jalen Pitre),2.32,0.7,9.0,2023,127
+4.0,2:00,2.0,18.0,TAM 43,30.0,33.0,Baker Mayfield pass incomplete deep middle intended for Chris Godwin (defended by Khalil Davis),0.7,0.04,9.0,2023,127
+4.0,1:55,3.0,18.0,TAM 43,30.0,33.0,"Penalty on Tristan Wirfs: False Start, 5 yards (accepted) (no play)",0.04,-0.63,9.0,2023,127
+4.0,1:55,3.0,23.0,TAM 38,30.0,33.0,Baker Mayfield pass complete deep middle to Trey Palmer for 21 yards (tackle by DeAndre Houston-Carson),-0.63,0.53,9.0,2023,127
+4.0,1:13,4.0,2.0,HOU 41,30.0,33.0,Baker Mayfield scrambles left end for 5 yards (tackle by Tavierre Thomas and Khalil Davis),0.53,3.18,9.0,2023,127
+4.0,1:02,,,,,,Timeout #2 by Tampa Bay Buccaneers,,,9.0,2023,127
+4.0,1:02,1.0,10.0,HOU 36,30.0,33.0,Rachaad White left guard for 7 yards (tackle by Steven Nelson),3.18,3.58,9.0,2023,127
+4.0,0:53,,,,,,Timeout #1 by Houston Texans,,,9.0,2023,127
+4.0,0:53,2.0,3.0,HOU 29,30.0,33.0,"Baker Mayfield pass complete short middle to Trey Palmer for 15 yards. Trey Palmer fumbles (forced by Tavierre Thomas), recovered by Mike Evans at HOU-14 (tackle by Tavierre Thomas) Replay Assistant challenged the fumble ruling, and the play was upheld.",3.58,4.65,9.0,2023,127
+4.0,0:49,,,,,,Timeout #3 by Tampa Bay Buccaneers,,,9.0,2023,127
+4.0,0:49,1.0,10.0,HOU 14,36.0,33.0,"Baker Mayfield pass complete short middle to Cade Otton for 14 yards, touchdown",4.65,7.0,9.0,2023,127
+4.0,0:46,,,HOU 15,37.0,33.0,Chase McLaughlin kicks extra point good,0.0,0.0,9.0,2023,127
+4.0,0:46,,,TAM 35,37.0,33.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,127
+4.0,0:46,1.0,10.0,HOU 25,37.0,33.0,C.J. Stroud pass complete short middle to Dalton Schultz for 14 yards (tackle by Lavonte David),0.61,1.53,9.0,2023,127
+4.0,0:39,,,,,,Timeout #2 by Houston Texans,,,9.0,2023,127
+4.0,0:39,1.0,10.0,HOU 39,37.0,33.0,C.J. Stroud pass complete short left to Dalton Schultz for 6 yards (tackle by Zyon McCollum),1.53,1.8,9.0,2023,127
+4.0,0:31,,,,,,Timeout #3 by Houston Texans,,,9.0,2023,127
+4.0,0:31,2.0,4.0,HOU 45,37.0,33.0,C.J. Stroud pass complete short middle to Noah Brown for 14 yards (tackle by Lavonte David),1.8,2.85,9.0,2023,127
+4.0,0:16,1.0,10.0,TAM 41,37.0,33.0,C.J. Stroud spiked the ball,2.85,2.31,9.0,2023,127
+4.0,0:16,2.0,10.0,TAM 41,37.0,33.0,C.J. Stroud pass complete deep left to Tank Dell for 26 yards,2.31,4.58,9.0,2023,127
+4.0,0:10,1.0,10.0,TAM 15,37.0,39.0,"C.J. Stroud pass complete short middle to Tank Dell for 15 yards, touchdown",4.58,7.0,9.0,2023,127
+4.0,0:06,,,TAM 2,37.0,39.0,"Two Point Attempt: C.J. Stroud rushes, conversion fails.",1.0,-1.0,9.0,2023,127
+4.0,0:06,,,HOU 35,37.0,39.0,"Penalty on Lavonte David: Unsportsmanlike Conduct / Defense, 15 yards (accepted)",0.0,0.0,9.0,2023,127
+4.0,0:06,,,HOU 50,37.0,39.0,"Dare Ogunbowale kicks off 50 yards, touchback.",0.0,0.61,9.0,2023,127
+4.0,0:06,1.0,10.0,TAM 25,37.0,39.0,"Baker Mayfield pass complete short right to Trey Palmer for 15 yards, lateral to Robert Hainsey for no gain, lateral to Cade Otton for no gain. Cade Otton fumbles (forced by Henry To'oTo'o), recovered by DeAndre Houston-Carson at TB-41 (tackle by Tristan Wirfs)",0.61,0.0,9.0,2023,127

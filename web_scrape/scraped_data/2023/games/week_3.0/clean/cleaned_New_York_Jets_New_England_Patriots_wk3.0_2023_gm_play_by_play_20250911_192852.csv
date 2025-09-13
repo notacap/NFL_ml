@@ -1,0 +1,184 @@
+Quarter,Time,Down,ToGo,Location,NWE,NYJ,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Patriots won the coin toss and deferred, Jets to receive the opening kickoff.",,,3.0,2023,42
+1.0,15:00,,,NWE 35,0.0,0.0,"Chad Ryland kicks off 65 yards, touchback.",0.0,0.61,3.0,2023,42
+1.0,15:00,1.0,10.0,NYJ 25,0.0,0.0,Zach Wilson pass complete short right to Garrett Wilson for 1 yard (tackle by Anfernee Jennings),0.61,0.2,3.0,2023,42
+1.0,14:14,2.0,9.0,NYJ 26,0.0,0.0,Breece Hall right end for -6 yards (tackle by Anfernee Jennings),0.2,-1.29,3.0,2023,42
+1.0,13:34,3.0,15.0,NYJ 20,0.0,0.0,Zach Wilson pass incomplete short left,-1.29,-2.03,3.0,2023,42
+1.0,13:24,4.0,15.0,NYJ 20,0.0,0.0,"Thomas Morstead punts 38 yards, fair catch by Demario Douglas at NE-42",-2.03,-1.73,3.0,2023,42
+1.0,13:18,1.0,10.0,NWE 42,0.0,0.0,Mac Jones pass incomplete short middle,1.73,1.19,3.0,2023,42
+1.0,13:15,2.0,10.0,NWE 42,0.0,0.0,Rhamondre Stevenson right end for 4 yards (tackle by Jordan Whitehead),1.19,1.03,3.0,2023,42
+1.0,12:42,3.0,6.0,NWE 46,0.0,0.0,Mac Jones pass complete short left to Mike Gesicki for 18 yards (tackle by Adrian Amos),1.03,3.18,3.0,2023,42
+1.0,12:08,1.0,10.0,NYJ 36,0.0,0.0,Rhamondre Stevenson up the middle for -1 yards (tackle by Quincy Williams and Jamien Sherwood),3.18,2.5,3.0,2023,42
+1.0,11:30,2.0,11.0,NYJ 37,0.0,0.0,Mac Jones pass complete short left to Hunter Henry for 8 yards (tackle by C.J. Mosley and Quincy Williams),2.5,2.87,3.0,2023,42
+1.0,10:51,3.0,3.0,NYJ 29,0.0,0.0,Mac Jones pass incomplete deep right intended for DeVante Parker,2.87,1.58,3.0,2023,42
+1.0,10:46,4.0,3.0,NYJ 29,3.0,0.0,Chad Ryland 48 yard field goal good,1.58,3.0,3.0,2023,42
+1.0,10:41,,,NWE 35,3.0,0.0,"Chad Ryland kicks off 65 yards, touchback.",0.0,0.61,3.0,2023,42
+1.0,10:41,1.0,10.0,NYJ 25,3.0,0.0,Breece Hall up the middle for 3 yards (tackle by Anfernee Jennings),0.61,0.47,3.0,2023,42
+1.0,10:05,2.0,7.0,NYJ 28,3.0,0.0,Zach Wilson pass incomplete short left intended for Garrett Wilson (defended by Ja'Whaun Bentley),0.47,-0.23,3.0,2023,42
+1.0,9:59,3.0,7.0,NYJ 28,3.0,0.0,Zach Wilson pass complete short left to Allen Lazard for 12 yards (tackle by Shaun Wade),-0.23,1.6,3.0,2023,42
+1.0,9:24,1.0,10.0,NYJ 40,3.0,0.0,Dalvin Cook right guard for 3 yards (tackle by Anfernee Jennings and Sam Roberts),1.6,1.46,3.0,2023,42
+1.0,8:45,2.0,7.0,NYJ 43,3.0,0.0,Dalvin Cook left tackle for -1 yards (tackle by Jabrill Peppers),1.46,0.63,3.0,2023,42
+1.0,8:05,3.0,8.0,NYJ 42,3.0,0.0,Zach Wilson sacked by Matt Judon for -7 yards,0.63,-1.04,3.0,2023,42
+1.0,7:23,4.0,15.0,NYJ 35,3.0,0.0,"Penalty on Nick Bawden: False Start, 5 yards (accepted) (no play)",-1.04,-1.37,3.0,2023,42
+1.0,7:15,4.0,20.0,NYJ 30,3.0,0.0,"Thomas Morstead punts 52 yards, returned by Jabrill Peppers for 18 yards (tackle by Ashtyn Davis)",-1.37,-1.33,3.0,2023,42
+1.0,7:05,1.0,10.0,NWE 36,3.0,0.0,Ezekiel Elliott left end for 12 yards (tackle by Quincy Williams and Adrian Amos),1.33,2.13,3.0,2023,42
+1.0,6:30,1.0,10.0,NWE 48,3.0,0.0,Mac Jones pass complete short right to Kendrick Bourne for 8 yards (tackle by Sauce Gardner),2.13,2.66,3.0,2023,42
+1.0,6:00,2.0,2.0,NYJ 44,3.0,0.0,Ezekiel Elliott up the middle for -1 yards (tackle by Solomon Thomas),2.66,1.82,3.0,2023,42
+1.0,5:18,3.0,3.0,NYJ 45,3.0,0.0,Mac Jones pass incomplete short right intended for Rhamondre Stevenson,1.82,0.27,3.0,2023,42
+1.0,5:13,4.0,3.0,NYJ 45,3.0,0.0,Bryce Baringer punts 39 yards downed by Pharaoh Brown,0.27,0.38,3.0,2023,42
+1.0,5:00,1.0,10.0,NYJ 6,3.0,0.0,"Breece Hall right guard for 1 yard. Breece Hall fumbles (forced by Daniel Ekuale), recovered by Breece Hall at NYJ-7",-0.38,-0.71,3.0,2023,42
+1.0,4:14,2.0,9.0,NYJ 7,3.0,0.0,Breece Hall left end for 2 yards (tackle by Kyle Dugger and Matt Judon),-0.71,-1.07,3.0,2023,42
+1.0,3:42,3.0,7.0,NYJ 9,3.0,0.0,Zach Wilson pass complete short middle to Michael Carter for 3 yards (tackle by Matt Judon and Christian Gonzalez),-1.07,-2.49,3.0,2023,42
+1.0,3:14,4.0,4.0,NYJ 12,3.0,0.0,"Thomas Morstead punts 52 yards, returned by Jabrill Peppers for 7 yards (tackle by Ashtyn Davis)",-2.49,-1.8,3.0,2023,42
+1.0,3:02,1.0,10.0,NWE 43,3.0,0.0,Rhamondre Stevenson up the middle for 10 yards (tackle by C.J. Mosley),1.8,2.46,3.0,2023,42
+1.0,2:30,1.0,10.0,NYJ 47,3.0,0.0,Rhamondre Stevenson up the middle for 5 yards (tackle by Quincy Williams),2.46,2.59,3.0,2023,42
+1.0,1:55,2.0,5.0,NYJ 42,3.0,0.0,Mac Jones pass incomplete short right intended for Rhamondre Stevenson,2.59,1.88,3.0,2023,42
+1.0,1:51,3.0,5.0,NYJ 42,3.0,0.0,Mac Jones pass complete short middle to Kendrick Bourne for 18 yards (tackle by Jordan Whitehead and Quincy Williams),1.88,3.97,3.0,2023,42
+1.0,1:10,1.0,10.0,NYJ 24,3.0,0.0,Rhamondre Stevenson up the middle for 4 yards (tackle by Micheal Clemons),3.97,3.97,3.0,2023,42
+1.0,0:31,2.0,6.0,NYJ 20,3.0,0.0,"Rhamondre Stevenson up the middle for no gain (tackle by Micheal Clemons). Penalty on Cole Strange: Offensive Holding, 10 yards (accepted) (no play)",3.97,2.62,3.0,2023,42
+1.0,0:11,2.0,16.0,NYJ 30,3.0,0.0,Rhamondre Stevenson left guard for no gain (tackle by Jermaine Johnson),2.62,1.95,3.0,2023,42
+2.0,15:00,3.0,16.0,NYJ 30,3.0,0.0,Mac Jones pass incomplete short right intended for Rhamondre Stevenson (defended by Quinnen Williams),1.95,1.41,3.0,2023,42
+2.0,14:56,4.0,16.0,NYJ 30,3.0,0.0,Chad Ryland 48 yard field goal no good,1.41,-1.47,3.0,2023,42
+2.0,14:51,1.0,10.0,NYJ 38,3.0,0.0,Zach Wilson sacked by Christian Barmore for -12 yards,1.47,-0.7,3.0,2023,42
+2.0,14:06,2.0,22.0,NYJ 26,3.0,0.0,Zach Wilson pass incomplete short left intended for Tyler Conklin,-0.7,-1.35,3.0,2023,42
+2.0,14:02,3.0,22.0,NYJ 26,3.0,0.0,Zach Wilson pass incomplete short middle,-1.35,-1.63,3.0,2023,42
+2.0,13:58,4.0,22.0,NYJ 26,3.0,0.0,"Thomas Morstead punts 58 yards, returned by Demario Douglas for 6 yards (tackle by Justin Hardee)",-1.63,-0.41,3.0,2023,42
+2.0,13:47,1.0,10.0,NWE 22,3.0,0.0,Ezekiel Elliott up the middle for no gain (tackle by Al Woods),0.41,-0.13,3.0,2023,42
+2.0,13:11,2.0,10.0,NWE 22,3.0,0.0,Ezekiel Elliott left end for 5 yards (tackle by Solomon Thomas),-0.13,-0.16,3.0,2023,42
+2.0,12:28,3.0,5.0,NWE 27,3.0,0.0,Mac Jones pass complete short right to Demario Douglas for 15 yards (tackle by Jordan Whitehead),-0.16,1.73,3.0,2023,42
+2.0,11:49,1.0,10.0,NWE 42,9.0,0.0,"Mac Jones pass complete deep right to Pharaoh Brown for 58 yards, touchdown",1.73,7.0,3.0,2023,42
+2.0,11:38,,,NYJ 15,10.0,0.0,Chad Ryland kicks extra point good,0.0,0.0,3.0,2023,42
+2.0,11:38,,,NWE 35,10.0,0.0,"Chad Ryland kicks off 64 yards, returned by Xavier Gipson for 30 yards (tackle by Adrian Phillips and Mack Wilson)",0.0,1.0,3.0,2023,42
+2.0,11:32,1.0,10.0,NYJ 31,10.0,0.0,Breece Hall left end for -2 yards (tackle by Ja'Whaun Bentley),1.0,0.19,3.0,2023,42
+2.0,10:57,2.0,12.0,NYJ 29,10.0,0.0,Zach Wilson pass complete short left to Breece Hall for 9 yards (tackle by Adrian Phillips),0.19,0.7,3.0,2023,42
+2.0,10:11,3.0,3.0,NYJ 38,10.0,0.0,Zach Wilson pass incomplete deep left,0.7,-0.85,3.0,2023,42
+2.0,10:03,4.0,3.0,NYJ 38,10.0,0.0,"Thomas Morstead punts 54 yards, fair catch by Jabrill Peppers at NE-8",-0.85,0.38,3.0,2023,42
+2.0,9:56,1.0,10.0,NWE 8,10.0,0.0,Rhamondre Stevenson right guard for 4 yards (tackle by C.J. Mosley),-0.38,-0.49,3.0,2023,42
+2.0,9:30,2.0,6.0,NWE 12,10.0,0.0,Mac Jones pass complete short left to DeVante Parker for 3 yards (tackle by D.J. Reed),-0.49,-0.6,3.0,2023,42
+2.0,8:52,3.0,3.0,NWE 15,10.0,0.0,Mac Jones pass complete short right to JuJu Smith-Schuster for 5 yards (tackle by C.J. Mosley),-0.6,0.28,3.0,2023,42
+2.0,8:15,1.0,10.0,NWE 20,10.0,0.0,Rhamondre Stevenson up the middle for 5 yards (tackle by Jermaine Johnson),0.28,0.41,3.0,2023,42
+2.0,7:49,2.0,5.0,NWE 25,10.0,0.0,Mac Jones pass incomplete short right,0.41,-0.3,3.0,2023,42
+2.0,7:42,3.0,5.0,NWE 25,10.0,0.0,Mac Jones pass incomplete deep right intended for Kendrick Bourne,-0.3,-1.7,3.0,2023,42
+2.0,7:38,4.0,5.0,NWE 25,10.0,0.0,"Bryce Baringer punts 42 yards, returned by Xavier Gipson for no gain (tackle by Brenden Schooler)",-1.7,-1.14,3.0,2023,42
+2.0,7:29,1.0,10.0,NYJ 33,10.0,0.0,Breece Hall right tackle for 7 yards (tackle by Kyle Dugger and Jabrill Peppers),1.14,1.54,3.0,2023,42
+2.0,6:52,2.0,3.0,NYJ 40,10.0,0.0,Breece Hall left guard for 3 yards (tackle by Mack Wilson and Davon Godchaux),1.54,1.8,3.0,2023,42
+2.0,6:04,1.0,10.0,NYJ 43,10.0,0.0,Dalvin Cook left guard for 3 yards (tackle by Ja'Whaun Bentley),1.8,1.66,3.0,2023,42
+2.0,5:25,2.0,7.0,NYJ 46,10.0,0.0,Dalvin Cook up the middle for 5 yards (tackle by Jabrill Peppers and Anfernee Jennings),1.66,1.62,3.0,2023,42
+2.0,4:44,3.0,2.0,NWE 49,10.0,0.0,Breece Hall left end for 1 yard (tackle by Jahlani Tavai and Deatrich Wise),1.62,0.07,3.0,2023,42
+2.0,4:11,4.0,1.0,NWE 48,10.0,0.0,Breece Hall up the middle for 6 yards (tackle by Jabrill Peppers),0.07,2.79,3.0,2023,42
+2.0,3:30,1.0,10.0,NWE 42,10.0,0.0,Dalvin Cook right tackle for 2 yards (tackle by Jahlani Tavai and Kyle Dugger),2.79,2.51,3.0,2023,42
+2.0,2:47,2.0,8.0,NWE 40,10.0,0.0,Dalvin Cook right tackle for 2 yards (tackle by Deatrich Wise),2.51,2.08,3.0,2023,42
+2.0,2:00,3.0,6.0,NWE 38,10.0,0.0,Zach Wilson pass complete short right to Garrett Wilson for 4 yards (tackle by Christian Gonzalez),2.08,1.1,3.0,2023,42
+2.0,1:25,,,,,,Timeout #1 by New York Jets,,,3.0,2023,42
+2.0,1:25,,,,,,Timeout #1 by New England Patriots,,,3.0,2023,42
+2.0,1:25,4.0,2.0,NWE 34,10.0,3.0,Greg Zuerlein 52 yard field goal good,1.1,3.0,3.0,2023,42
+2.0,1:21,,,NYJ 35,10.0,3.0,"Thomas Morstead kicks off 65 yards, touchback.",0.0,0.61,3.0,2023,42
+2.0,1:21,1.0,10.0,NWE 25,10.0,3.0,Ezekiel Elliott right tackle for 14 yards (tackle by Michael Carter),0.61,1.53,3.0,2023,42
+2.0,1:03,1.0,10.0,NWE 39,10.0,3.0,Mac Jones pass incomplete short right intended for Hunter Henry (defended by Jordan Whitehead),1.53,0.99,3.0,2023,42
+2.0,1:00,2.0,10.0,NWE 39,10.0,3.0,Ezekiel Elliott up the middle for 2 yards (tackle by Bryce Huff),0.99,0.56,3.0,2023,42
+2.0,0:29,3.0,8.0,NWE 41,10.0,3.0,Mac Jones pass complete short right to Hunter Henry for 9 yards (tackle by Jordan Whitehead),0.56,2.26,3.0,2023,42
+2.0,0:21,1.0,10.0,NYJ 50,10.0,3.0,Mac Jones scrambles up the middle for 8 yards (tackle by C.J. Mosley),2.26,2.79,3.0,2023,42
+2.0,0:14,,,,,,Timeout #2 by New England Patriots,,,3.0,2023,42
+2.0,0:14,2.0,2.0,NYJ 42,10.0,3.0,Mac Jones pass incomplete deep left intended for Demario Douglas (defended by Michael Carter),2.79,2.08,3.0,2023,42
+2.0,0:08,,,,,,Timeout #2 by New York Jets,,,3.0,2023,42
+2.0,0:08,3.0,2.0,NYJ 42,10.0,3.0,Mac Jones up the middle for 3 yards (tackle by C.J. Mosley),2.08,2.98,3.0,2023,42
+2.0,0:05,,,,,,Timeout #3 by New England Patriots,,,3.0,2023,42
+2.0,0:05,,,,,,Timeout #3 by New York Jets,,,3.0,2023,42
+2.0,0:05,1.0,10.0,NYJ 39,10.0,3.0,Chad Ryland 57 yard field goal no good,2.98,1.99,3.0,2023,42
+3.0,15:00,,,NYJ 35,10.0,3.0,"Thomas Morstead kicks off 65 yards, touchback.",0.0,0.61,3.0,2023,42
+3.0,15:00,1.0,10.0,NWE 25,10.0,3.0,Ezekiel Elliott up the middle for 6 yards (tackle by John Franklin-Myers and Quinton Jefferson),0.61,0.87,3.0,2023,42
+3.0,14:25,2.0,4.0,NWE 31,10.0,3.0,Rhamondre Stevenson up the middle for 3 yards (tackle by Adrian Amos),0.87,0.56,3.0,2023,42
+3.0,14:06,3.0,1.0,NWE 34,10.0,3.0,Mac Jones up the middle for 2 yards (tackle by Quinnen Williams),0.56,1.33,3.0,2023,42
+3.0,13:27,1.0,10.0,NWE 36,10.0,3.0,Mac Jones pass complete short middle to Pharaoh Brown for 13 yards (tackle by Sauce Gardner and C.J. Mosley),1.33,2.19,3.0,2023,42
+3.0,12:55,1.0,10.0,NWE 49,10.0,3.0,Rhamondre Stevenson right tackle for 6 yards (tackle by C.J. Mosley),2.19,2.46,3.0,2023,42
+3.0,12:18,2.0,4.0,NYJ 45,10.0,3.0,Rhamondre Stevenson right end for 8 yards (tackle by Jordan Whitehead),2.46,3.12,3.0,2023,42
+3.0,11:41,1.0,10.0,NYJ 37,10.0,3.0,Rhamondre Stevenson up the middle for 1 yard (tackle by Adrian Amos),3.12,2.71,3.0,2023,42
+3.0,11:14,2.0,9.0,NYJ 36,10.0,3.0,Mac Jones pass complete short right to Rhamondre Stevenson for 3 yards (tackle by Quincy Williams),2.71,2.41,3.0,2023,42
+3.0,10:36,3.0,6.0,NYJ 33,10.0,3.0,Mac Jones pass incomplete deep left intended for Demario Douglas,2.41,1.16,3.0,2023,42
+3.0,10:31,4.0,6.0,NYJ 33,13.0,3.0,Chad Ryland 51 yard field goal good,1.16,3.0,3.0,2023,42
+3.0,10:26,,,NWE 35,13.0,3.0,"Chad Ryland kicks off 63 yards, returned by Xavier Gipson for 25 yards (tackle by Ameer Speed)",0.0,0.74,3.0,2023,42
+3.0,10:20,1.0,10.0,NYJ 27,13.0,3.0,Breece Hall right guard for 2 yards (tackle by Ja'Whaun Bentley and Jahlani Tavai),0.74,0.47,3.0,2023,42
+3.0,9:45,2.0,8.0,NYJ 29,13.0,3.0,Zach Wilson pass complete short left to C.J. Uzomah for 9 yards (tackle by Myles Bryant),0.47,1.47,3.0,2023,42
+3.0,9:06,1.0,10.0,NYJ 38,13.0,3.0,Breece Hall up the middle for 4 yards (tackle by Sam Roberts),1.47,1.46,3.0,2023,42
+3.0,8:23,2.0,6.0,NYJ 42,13.0,3.0,Zach Wilson pass complete short right to Dalvin Cook for 3 yards (tackle by Jabrill Peppers),1.46,1.16,3.0,2023,42
+3.0,7:44,3.0,3.0,NYJ 45,13.0,3.0,Zach Wilson pass incomplete short right,1.16,-0.39,3.0,2023,42
+3.0,7:35,4.0,3.0,NYJ 45,13.0,3.0,"Thomas Morstead punts 55 yards, touchback.",-0.39,-0.28,3.0,2023,42
+3.0,7:26,1.0,10.0,NWE 20,13.0,3.0,"Mac Jones pass complete to Mike Gesicki for no gain. Penalty on JuJu Smith-Schuster: Illegal Blindside Block, 10 yards (accepted) (no play)",0.28,-0.76,3.0,2023,42
+3.0,7:04,1.0,20.0,NWE 10,13.0,3.0,Ezekiel Elliott up the middle for no gain (tackle by C.J. Mosley),-0.76,-1.51,3.0,2023,42
+3.0,6:26,2.0,20.0,NWE 10,13.0,3.0,Mac Jones pass complete short right to Ezekiel Elliott for 7 yards (tackle by Quincy Williams),-1.51,-1.51,3.0,2023,42
+3.0,5:48,3.0,13.0,NWE 17,13.0,3.0,"Penalty on Trent Brown: False Start, 5 yards (accepted) (no play)",-1.51,-2.36,3.0,2023,42
+3.0,5:36,3.0,18.0,NWE 12,13.0,3.0,"Penalty on Michael Onwenu: False Start, 5 yards (accepted) (no play)",-2.36,-2.94,3.0,2023,42
+3.0,5:22,3.0,23.0,NWE 7,13.0,3.0,Ezekiel Elliott left tackle for 5 yards (tackle by Michael Carter and Jermaine Johnson),-2.94,-2.49,3.0,2023,42
+3.0,4:49,4.0,18.0,NWE 12,13.0,3.0,"Bryce Baringer punts 48 yards, returned by Xavier Gipson for 9 yards (tackle by Ty Montgomery)",-2.49,-2.19,3.0,2023,42
+3.0,4:34,1.0,10.0,NYJ 49,13.0,3.0,Breece Hall left end for -3 yards (tackle by Kyle Dugger),2.19,1.24,3.0,2023,42
+3.0,3:55,2.0,13.0,NYJ 46,13.0,3.0,Zach Wilson pass incomplete short left intended for Allen Lazard (defended by Christian Gonzalez),1.24,0.56,3.0,2023,42
+3.0,3:49,3.0,13.0,NYJ 46,13.0,3.0,Zach Wilson pass complete short right to Tyler Conklin for 6 yards (tackle by Kyle Dugger),0.56,0.07,3.0,2023,42
+3.0,3:06,4.0,7.0,NWE 48,13.0,3.0,"Thomas Morstead punts 48 yards, touchback.",0.07,-0.28,3.0,2023,42
+3.0,2:57,1.0,10.0,NWE 20,13.0,3.0,Rhamondre Stevenson right tackle for no gain (tackle by Jordan Whitehead),0.28,-0.27,3.0,2023,42
+3.0,2:31,2.0,10.0,NWE 20,13.0,3.0,"Penalty on NWE: Offensive Too Many Men on Field, 5 yards (accepted) (no play)",-0.27,-1.07,3.0,2023,42
+3.0,2:16,2.0,15.0,NWE 15,13.0,3.0,Mac Jones pass incomplete short right intended for Hunter Henry,-1.07,-1.86,3.0,2023,42
+3.0,2:12,3.0,15.0,NWE 15,13.0,3.0,Mac Jones pass complete deep left to DeVante Parker for 16 yards,-1.86,1.0,3.0,2023,42
+3.0,1:39,1.0,10.0,NWE 31,13.0,3.0,Rhamondre Stevenson up the middle for no gain (tackle by Quincy Williams and Carl Lawson),1.0,0.46,3.0,2023,42
+3.0,1:06,2.0,10.0,NWE 31,13.0,3.0,Rhamondre Stevenson left end for 1 yard (tackle by Michael Carter),0.46,-0.1,3.0,2023,42
+3.0,0:22,3.0,9.0,NWE 32,13.0,3.0,Mac Jones pass incomplete short left intended for Hunter Henry (defended by Adrian Amos),-0.1,-1.24,3.0,2023,42
+3.0,0:16,4.0,9.0,NWE 32,13.0,3.0,"Bryce Baringer punts 49 yards, returned by Xavier Gipson for 12 yards (tackle by Chris Board)",-1.24,-1.0,3.0,2023,42
+3.0,0:07,1.0,10.0,NYJ 31,13.0,3.0,Zach Wilson pass complete short left to Dalvin Cook for no gain (tackle by Jabrill Peppers),1.0,0.46,3.0,2023,42
+4.0,15:00,2.0,10.0,NYJ 31,13.0,3.0,Zach Wilson pass incomplete short right intended for Randall Cobb,0.46,-0.23,3.0,2023,42
+4.0,14:58,3.0,10.0,NYJ 31,13.0,3.0,Zach Wilson scrambles right end for 1 yard (tackle by Josh Uche),-0.23,-1.24,3.0,2023,42
+4.0,14:23,4.0,9.0,NYJ 32,13.0,3.0,"Thomas Morstead punts 53 yards, returned by Demario Douglas for 8 yards (tackle by C.J. Uzomah)",-1.24,-0.48,3.0,2023,42
+4.0,14:13,1.0,10.0,NWE 23,13.0,3.0,Ezekiel Elliott left end for 13 yards (tackle by D.J. Reed),0.48,1.33,3.0,2023,42
+4.0,13:38,1.0,10.0,NWE 36,13.0,3.0,Ezekiel Elliott up the middle for 4 yards (tackle by Jordan Whitehead),1.33,1.33,3.0,2023,42
+4.0,12:59,2.0,6.0,NWE 40,13.0,3.0,Ezekiel Elliott up the middle for 6 yards (tackle by D.J. Reed),1.33,1.99,3.0,2023,42
+4.0,12:22,1.0,10.0,NWE 46,13.0,3.0,Ezekiel Elliott right guard for 3 yards (tackle by Al Woods),1.99,1.86,3.0,2023,42
+4.0,11:42,2.0,7.0,NWE 49,13.0,3.0,Ezekiel Elliott up the middle for 6 yards (tackle by Sauce Gardner and Jordan Whitehead),1.86,1.95,3.0,2023,42
+4.0,11:20,3.0,1.0,NYJ 45,13.0,3.0,Mac Jones up the middle for no gain (tackle by Jordan Whitehead),1.95,0.27,3.0,2023,42
+4.0,10:52,,,,,,Timeout #1 by New England Patriots,,,3.0,2023,42
+4.0,10:52,4.0,1.0,NYJ 45,13.0,3.0,"Bryce Baringer punts 32 yards, fair catch by Xavier Gipson at NYJ-13",0.27,0.32,3.0,2023,42
+4.0,10:46,1.0,10.0,NYJ 13,13.0,3.0,Zach Wilson pass complete short right to Garrett Wilson for 5 yards (tackle by Jahlani Tavai),-0.32,-0.14,3.0,2023,42
+4.0,10:09,2.0,5.0,NYJ 18,13.0,3.0,Zach Wilson pass incomplete deep left intended for Allen Lazard (defended by Myles Bryant),-0.14,-0.83,3.0,2023,42
+4.0,10:04,3.0,5.0,NYJ 18,13.0,3.0,Zach Wilson pass complete deep left to Tyler Conklin for 18 yards (tackle by Jabrill Peppers),-0.83,1.33,3.0,2023,42
+4.0,9:25,1.0,10.0,NYJ 36,13.0,3.0,Zach Wilson pass complete short middle to Dalvin Cook for 8 yards (tackle by Ja'Whaun Bentley and Jahlani Tavai),1.33,1.87,3.0,2023,42
+4.0,8:44,2.0,2.0,NYJ 44,13.0,3.0,Dalvin Cook left tackle for 3 yards (tackle by Ja'Whaun Bentley and Myles Bryant),1.87,2.06,3.0,2023,42
+4.0,8:25,1.0,10.0,NYJ 47,13.0,3.0,Zach Wilson pass complete short right to Garrett Wilson for 9 yards (tackle by Myles Bryant),2.06,2.73,3.0,2023,42
+4.0,7:57,2.0,1.0,NWE 44,13.0,3.0,Dalvin Cook up the middle for 1 yard (tackle by Christian Barmore and Matt Judon),2.73,2.72,3.0,2023,42
+4.0,7:19,1.0,10.0,NWE 43,13.0,3.0,Zach Wilson pass complete deep right to Allen Lazard for 21 yards (tackle by Kyle Dugger),2.72,4.11,3.0,2023,42
+4.0,6:45,1.0,10.0,NWE 22,13.0,3.0,Zach Wilson pass complete short right to Allen Lazard for 6 yards (tackle by Christian Gonzalez),4.11,4.46,3.0,2023,42
+4.0,6:15,2.0,4.0,NWE 16,13.0,3.0,Zach Wilson pass complete short left to Randall Cobb for 12 yards (tackle by Myles Bryant),4.46,6.28,3.0,2023,42
+4.0,5:46,1.0,4.0,NWE 4,13.0,3.0,"Penalty on Alijah Vera-Tucker: False Start, 5 yards (accepted) (no play)",6.28,5.14,3.0,2023,42
+4.0,5:46,1.0,9.0,NWE 9,13.0,3.0,Zach Wilson pass incomplete short left intended for Garrett Wilson (defended by Christian Barmore),5.14,4.38,3.0,2023,42
+4.0,5:39,2.0,9.0,NWE 9,13.0,3.0,Zach Wilson pass incomplete short left intended for Garrett Wilson,4.38,3.36,3.0,2023,42
+4.0,5:36,3.0,9.0,NWE 9,13.0,3.0,"Zach Wilson pass incomplete intended for Randall Cobb. Penalty on Myles Bryant: Defensive Pass Interference, 8 yards (accepted) (no play)",3.36,6.97,3.0,2023,42
+4.0,5:29,1.0,1.0,NWE 1,13.0,9.0,"Nick Bawden up the middle for 1 yard, touchdown",6.97,7.0,3.0,2023,42
+4.0,5:24,,,NWE 15,13.0,10.0,Greg Zuerlein kicks extra point good,0.0,0.0,3.0,2023,42
+4.0,5:24,,,NYJ 35,13.0,10.0,"Thomas Morstead kicks off 59 yards,",0.0,0.61,3.0,2023,42
+4.0,5:24,1.0,10.0,NWE 25,13.0,10.0,Ezekiel Elliott up the middle for 3 yards (tackle by John Franklin-Myers),0.61,0.47,3.0,2023,42
+4.0,4:58,2.0,7.0,NWE 28,13.0,10.0,Mac Jones pass complete short right to Kendrick Bourne for 18 yards (tackle by Adrian Amos),0.47,1.99,3.0,2023,42
+4.0,4:15,1.0,10.0,NWE 46,13.0,10.0,Rhamondre Stevenson right tackle for 2 yards (tackle by Jordan Whitehead),1.99,1.72,3.0,2023,42
+4.0,3:40,2.0,8.0,NWE 48,13.0,10.0,Mac Jones pass complete short middle to Kendrick Bourne for 2 yards (tackle by Quincy Williams),1.72,1.29,3.0,2023,42
+4.0,2:56,3.0,6.0,NYJ 50,13.0,10.0,Mac Jones pass incomplete deep left intended for JuJu Smith-Schuster,1.29,-0.06,3.0,2023,42
+4.0,2:51,4.0,6.0,NYJ 50,13.0,10.0,"Bryce Baringer punts 40 yards, fair catch by Xavier Gipson at NYJ-10",-0.06,0.38,3.0,2023,42
+4.0,2:44,1.0,10.0,NYJ 10,13.0,10.0,Zach Wilson pass incomplete short left,-0.38,-0.78,3.0,2023,42
+4.0,2:38,2.0,10.0,NYJ 10,13.0,10.0,Zach Wilson pass incomplete short right intended for Breece Hall,-0.78,-1.42,3.0,2023,42
+4.0,2:35,3.0,10.0,NYJ 10,13.0,10.0,"Zach Wilson scrambles for no gain. Penalty on Joe Tippmann: Offensive Holding, 5 yards (accepted) (no play)",-1.42,-2.01,3.0,2023,42
+4.0,2:27,3.0,15.0,NYJ 5,15.0,10.0,"Zach Wilson sacked by Matt Judon for -5 yards, safety.",-2.01,-2.0,3.0,2023,42
+4.0,2:19,,,NYJ 20,15.0,10.0,"Thomas Morstead kicks off 75 yards, returned by Myles Bryant for 11 yards (tackle by Xavier Gipson)",0.0,-0.14,3.0,2023,42
+4.0,2:15,1.0,10.0,NWE 16,15.0,10.0,Ezekiel Elliott left tackle for 2 yards (tackle by D.J. Reed and C.J. Mosley),-0.14,-0.35,3.0,2023,42
+4.0,2:09,,,,,,Timeout #1 by New York Jets,,,3.0,2023,42
+4.0,2:09,2.0,8.0,NWE 18,15.0,10.0,Demario Douglas left end for 5 yards (tackle by Jamien Sherwood),-0.35,-0.45,3.0,2023,42
+4.0,2:00,3.0,3.0,NWE 23,15.0,10.0,Mac Jones pass incomplete short right intended for JuJu Smith-Schuster,-0.45,-1.83,3.0,2023,42
+4.0,1:56,4.0,3.0,NWE 23,15.0,10.0,"Bryce Baringer punts 50 yards, returned by Xavier Gipson for 18 yards (tackle by Ty Montgomery)",-1.83,-1.93,3.0,2023,42
+4.0,1:43,1.0,10.0,NYJ 45,15.0,10.0,Zach Wilson pass incomplete short left,1.93,1.38,3.0,2023,42
+4.0,1:35,2.0,10.0,NYJ 45,15.0,10.0,Zach Wilson pass incomplete short left intended for Tyler Conklin,1.38,0.7,3.0,2023,42
+4.0,1:31,3.0,10.0,NYJ 45,15.0,10.0,Zach Wilson pass incomplete short left intended for Garrett Wilson,0.7,-0.39,3.0,2023,42
+4.0,1:26,4.0,10.0,NYJ 45,15.0,10.0,Zach Wilson pass complete short right to Tyler Conklin for 2 yards (tackle by Kyle Dugger),-0.39,-2.52,3.0,2023,42
+4.0,1:19,1.0,10.0,NYJ 46,15.0,10.0,Rhamondre Stevenson left end for 4 yards (tackle by Adrian Amos),2.52,2.52,3.0,2023,42
+4.0,1:13,,,,,,Timeout #2 by New York Jets,,,3.0,2023,42
+4.0,1:13,2.0,6.0,NYJ 42,15.0,10.0,Rhamondre Stevenson up the middle for 2 yards (tackle by Adrian Amos),2.52,2.08,3.0,2023,42
+4.0,1:08,,,,,,Timeout #3 by New York Jets,,,3.0,2023,42
+4.0,1:08,3.0,4.0,NYJ 40,15.0,10.0,Rhamondre Stevenson up the middle for 1 yard (tackle by Micheal Clemons),2.08,0.66,3.0,2023,42
+4.0,0:22,,,,,,Timeout #2 by New England Patriots,,,3.0,2023,42
+4.0,0:22,4.0,3.0,NYJ 39,15.0,10.0,Bryce Baringer punts 22 yards out of bounds,0.66,0.06,3.0,2023,42
+4.0,0:16,1.0,10.0,NYJ 17,15.0,10.0,Zach Wilson pass complete deep left to Garrett Wilson for 29 yards (tackle by Adrian Phillips),-0.06,1.99,3.0,2023,42
+4.0,0:02,1.0,10.0,NYJ 46,15.0,10.0,Zach Wilson spiked the ball,1.99,1.38,3.0,2023,42
+4.0,0:01,,,,,,Timeout #3 by New England Patriots,,,3.0,2023,42
+4.0,0:01,2.0,10.0,NYJ 45,15.0,10.0,Zach Wilson pass incomplete deep middle (defended by Kyle Dugger),1.38,0.7,3.0,2023,42

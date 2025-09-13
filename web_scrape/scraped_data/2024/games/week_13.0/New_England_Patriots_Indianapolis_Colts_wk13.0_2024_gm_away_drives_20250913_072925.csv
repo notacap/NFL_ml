@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,9:12,IND 29,8,4:10,71,Touchdown,0,Colts,13.0,2024,189
+2,1,0:43,IND 30,2,0:43,-1,Interception,0,Colts,13.0,2024,189
+3,2,12:49,IND 30,8,4:13,70,Touchdown,0,Colts,13.0,2024,189
+4,2,4:02,IND 30,3,1:05,-2,Punt,0,Colts,13.0,2024,189
+5,2,0:18,IND 20,1,0:18,-1,End of Half,0,Colts,13.0,2024,189
+6,3,15:00,IND 25,13,7:34,68,Field Goal,0,Colts,13.0,2024,189
+7,3,0:53,IND 17,3,1:39,-2,Punt,0,Colts,13.0,2024,189
+8,4,8:43,IND 32,2,0:44,3,Interception,0,Colts,13.0,2024,189
+9,4,5:34,IND 20,19,5:22,80,Touchdown,0,Colts,13.0,2024,189

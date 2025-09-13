@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,LVR 34,6,2:43,66,Touchdown,0,Raiders,1,2025,8
+2,1,10:34,LVR 5,10,4:12,55,Interception,0,Raiders,1,2025,8
+3,1,1:02,LVR 31,3,1:53,-3,Punt,0,Raiders,1,2025,8
+4,2,9:07,LVR 30,3,1:25,4,Punt,0,Raiders,1,2025,8
+5,2,1:57,LVR 36,3,0:32,-21,Punt,0,Raiders,1,2025,8
+6,2,0:39,LVR 26,6,0:39,34,Missed FG,0,Raiders,1,2025,8
+7,3,12:14,LVR 29,5,2:35,71,Touchdown,0,Raiders,1,2025,8
+8,3,8:40,LVR 20,4,2:15,20,Punt,0,Raiders,1,2025,8
+9,3,4:27,LVR 16,6,3:35,52,Field Goal,0,Raiders,1,2025,8
+10,4,13:33,LVR 12,12,6:47,66,Field Goal,0,Raiders,1,2025,8
+11,4,4:48,LVR 35,6,3:00,26,Punt,0,Raiders,1,2025,8
+12,4,0:19,LVR 48,1,0:19,-1,End of Game,0,Raiders,1,2025,8

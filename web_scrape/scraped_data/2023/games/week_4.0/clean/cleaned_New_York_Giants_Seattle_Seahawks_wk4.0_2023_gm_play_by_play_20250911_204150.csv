@@ -1,0 +1,168 @@
+Quarter,Time,Down,ToGo,Location,SEA,NYG,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Seahawks won the coin toss and deferred, Giants to receive the opening kickoff.",,,4.0,2023,64
+1.0,15:00,,,SEA 35,0.0,0.0,"Jason Myers kicks off 64 yards,",0.0,0.61,4.0,2023,64
+1.0,15:00,1.0,10.0,NYG 25,0.0,0.0,Matt Breida right guard for 5 yards (tackle by Jarran Reed),0.61,0.74,4.0,2023,64
+1.0,14:25,2.0,5.0,NYG 30,0.0,0.0,Wan'Dale Robinson right end for 7 yards (tackle by Julian Love),0.74,1.4,4.0,2023,64
+1.0,13:49,1.0,10.0,NYG 37,0.0,0.0,Daniel Jones pass complete short left to Daniel Bellinger for 6 yards (tackle by Devon Witherspoon and Bobby Wagner),1.4,1.67,4.0,2023,64
+1.0,13:11,2.0,4.0,NYG 43,0.0,0.0,Matt Breida left guard for 5 yards (tackle by Julian Love and Jordyn Brooks),1.67,2.13,4.0,2023,64
+1.0,12:33,1.0,10.0,NYG 48,0.0,0.0,Daniel Jones pass complete short right to Parris Campbell for 2 yards (tackle by Jamal Adams),2.13,1.85,4.0,2023,64
+1.0,11:55,2.0,8.0,NYG 50,0.0,0.0,Matt Breida right end for 2 yards (tackle by Jarran Reed),1.85,1.42,4.0,2023,64
+1.0,11:29,3.0,6.0,SEA 48,0.0,0.0,Daniel Jones pass complete short left to Wan'Dale Robinson for 12 yards (tackle by Riq Woolen),1.42,3.18,4.0,2023,64
+1.0,10:54,1.0,10.0,SEA 36,0.0,0.0,Daniel Jones sacked by Jordyn Brooks for -1 yards,3.18,2.5,4.0,2023,64
+1.0,10:08,2.0,11.0,SEA 37,0.0,0.0,Daniel Jones scrambles right end for 8 yards (tackle by Jamal Adams),2.5,2.87,4.0,2023,64
+1.0,9:46,3.0,3.0,SEA 29,0.0,0.0,Gary Brightwell left guard for 2 yards (tackle by Bobby Wagner and Jordyn Brooks),2.87,1.82,4.0,2023,64
+1.0,9:06,4.0,1.0,SEA 27,0.0,0.0,Daniel Jones up the middle for no gain (tackle by Bobby Wagner and Jordyn Brooks),1.82,-0.74,4.0,2023,64
+1.0,8:45,1.0,10.0,SEA 27,0.0,0.0,"Kenneth Walker for no gain, touchdown Replay Assistant challenged the runner was down by contact ruling, and the original play was overturned. Kenneth Walker right end for -2 yards (tackle by Bobby Okereke)",0.74,-0.07,4.0,2023,64
+1.0,8:38,2.0,12.0,SEA 25,0.0,0.0,Geno Smith pass complete short right to Jaxon Smith-Njigba for no gain (tackle by Xavier McKinney),-0.07,-0.76,4.0,2023,64
+1.0,8:07,3.0,12.0,SEA 25,0.0,0.0,Geno Smith sacked by Kayvon Thibodeaux for -5 yards,-0.76,-2.03,4.0,2023,64
+1.0,7:29,4.0,17.0,SEA 20,0.0,0.0,"Michael Dickson punts 45 yards, recovered by Nick McCloud at NYG-35",-2.03,-1.14,4.0,2023,64
+1.0,7:14,1.0,10.0,NYG 33,0.0,0.0,Daniel Jones scrambles left end for 16 yards (tackle by Julian Love and Riq Woolen),1.14,2.19,4.0,2023,64
+1.0,6:30,1.0,10.0,NYG 49,0.0,0.0,Daniel Jones pass complete short right to Darren Waller for 5 yards (tackle by Michael Jackson and Derick Hall),2.19,2.32,4.0,2023,64
+1.0,6:00,2.0,5.0,SEA 46,0.0,0.0,Daniel Jones sacked by Devon Witherspoon for -6 yards,2.32,0.83,4.0,2023,64
+1.0,5:36,3.0,11.0,NYG 48,0.0,0.0,Daniel Jones pass incomplete short middle intended for Darius Slayton,0.83,-0.19,4.0,2023,64
+1.0,5:26,4.0,11.0,NYG 48,0.0,0.0,"Jamie Gillan punts 52 yards, touchback.",-0.19,-0.28,4.0,2023,64
+1.0,5:17,1.0,10.0,SEA 20,0.0,0.0,Geno Smith pass complete short right to Noah Fant for 12 yards (tackle by Jason Pinnock),0.28,1.07,4.0,2023,64
+1.0,4:42,1.0,10.0,SEA 32,0.0,0.0,"Geno Smith pass incomplete deep left intended for Tyler Lockett (defended by Adoree' Jackson). Penalty on Phil Haynes: Offensive Holding, 10 yards (offset) . Penalty on Adoree' Jackson: Defensive Pass Interference, 15 yards (offset) (no play)",1.07,1.07,4.0,2023,64
+1.0,4:35,1.0,10.0,SEA 32,0.0,0.0,"Kenneth Walker left end for no gain (tackle by Adoree' Jackson). Penalty on Anthony Bradford: Offensive Holding, 10 yards (accepted) (no play)",1.07,0.41,4.0,2023,64
+1.0,3:50,1.0,20.0,SEA 22,0.0,0.0,"Penalty on Evan Brown: False Start, 4 yards (accepted) (no play)",0.41,-0.07,4.0,2023,64
+1.0,3:32,1.0,24.0,SEA 18,0.0,0.0,"Geno Smith pass complete short middle to Tyler Lockett for 14 yards (tackle by Bobby Okereke). Penalty on D.K. Metcalf: Offensive Holding, 10 yards (accepted)",-0.07,0.41,4.0,2023,64
+1.0,3:24,1.0,20.0,SEA 22,0.0,0.0,Geno Smith pass complete short left to Jaxon Smith-Njigba for 2 yards (tackle by Cordale Flott),0.41,-0.55,4.0,2023,64
+1.0,2:42,2.0,18.0,SEA 24,0.0,0.0,Geno Smith pass complete short left to Cody Thompson for 10 yards (tackle by Xavier McKinney and Deonte Banks),-0.55,0.1,4.0,2023,64
+1.0,2:02,3.0,8.0,SEA 34,0.0,0.0,Geno Smith pass incomplete short left intended for D.K. Metcalf,0.1,-1.11,4.0,2023,64
+1.0,1:46,4.0,8.0,SEA 34,0.0,0.0,"Michael Dickson punts 52 yards, fair catch by Adoree' Jackson at NYG-14",-1.11,0.28,4.0,2023,64
+1.0,1:37,1.0,10.0,NYG 14,0.0,0.0,Daniel Jones pass complete short right to Wan'Dale Robinson for 11 yards (tackle by Bobby Wagner),-0.28,0.61,4.0,2023,64
+1.0,1:03,1.0,10.0,NYG 25,0.0,0.0,"Daniel Jones sacked by Mario Edwards for -10 yards. Daniel Jones fumbles (forced by Mario Edwards), recovered by Jordyn Brooks at NYG-15 and returned for 8 yards (tackle by Matt Peart)",0.61,-5.6,4.0,2023,64
+1.0,0:45,1.0,7.0,NYG 7,0.0,0.0,Kenneth Walker left guard for 1 yard (tackle by Dexter Lawrence and Bobby Okereke),5.6,4.95,4.0,2023,64
+1.0,0:06,2.0,6.0,NYG 6,6.0,0.0,"Geno Smith pass complete short right to D.K. Metcalf for 6 yards, touchdown",4.95,7.0,4.0,2023,64
+1.0,0:00,,,NYG 15,7.0,0.0,Jason Myers kicks extra point good,0.0,0.0,4.0,2023,64
+2.0,15:00,,,SEA 35,7.0,0.0,"Jason Myers kicks off 64 yards, returned by Eric Gray for 19 yards (tackle by Jerrick Reed and Julian Love). Penalty on Gary Brightwell: Unnecessary Roughness / Offense, 10 yards (accepted)",0.0,-0.38,4.0,2023,64
+2.0,14:51,1.0,10.0,NYG 10,7.0,0.0,Daniel Jones up the middle for 2 yards (tackle by Bobby Wagner),-0.38,-0.63,4.0,2023,64
+2.0,14:15,2.0,8.0,NYG 12,7.0,0.0,Matt Breida left guard for 4 yards (tackle by Dre'Mont Jones and Bobby Wagner),-0.63,-0.72,4.0,2023,64
+2.0,13:58,3.0,4.0,NYG 16,7.0,0.0,Daniel Jones pass complete deep left to Matt Breida for 22 yards (tackle by Devon Witherspoon),-0.72,1.47,4.0,2023,64
+2.0,13:20,1.0,10.0,NYG 38,7.0,0.0,Matt Breida up the middle for 4 yards (tackle by Uchenna Nwosu),1.47,1.46,4.0,2023,64
+2.0,12:59,2.0,6.0,NYG 42,7.0,0.0,Matt Breida left end for -5 yards (tackle by Dre'Mont Jones and Jordyn Brooks),1.46,0.1,4.0,2023,64
+2.0,12:13,3.0,11.0,NYG 37,7.0,0.0,Daniel Jones pass incomplete short right,0.1,-0.91,4.0,2023,64
+2.0,12:01,4.0,11.0,NYG 37,7.0,0.0,"Jamie Gillan punts 46 yards, fair catch by DeeJay Dallas at SEA-17. Penalty on Carter Coughlin: Ineligible Downfield Kick, 5 yards (accepted)",-0.91,-0.41,4.0,2023,64
+2.0,11:54,1.0,10.0,SEA 22,7.0,0.0,Geno Smith pass complete short left to D.K. Metcalf for 16 yards (tackle by Deonte Banks),0.41,1.47,4.0,2023,64
+2.0,11:19,1.0,10.0,SEA 38,7.0,0.0,"Zach Charbonnet left tackle for no gain (tackle by Jason Pinnock and D.J. Davidson). Penalty on Colby Parkinson: Offensive Holding, 10 yards (accepted) (no play)",1.47,0.81,4.0,2023,64
+2.0,10:50,1.0,20.0,SEA 28,7.0,0.0,Geno Smith pass complete short left to Zach Charbonnet for 9 yards (tackle by Azeez Ojulari),0.81,0.79,4.0,2023,64
+2.0,10:07,2.0,11.0,SEA 37,7.0,0.0,Geno Smith pass complete short middle to Geno Smith for -2 yards (tackle by Isaiah Simmons),0.79,-0.16,4.0,2023,64
+2.0,9:32,,,,,,Timeout #1 by Seattle Seahawks,,,4.0,2023,64
+2.0,9:32,3.0,13.0,SEA 35,7.0,0.0,Geno Smith pass incomplete short right intended for Jaxon Smith-Njigba (defended by Kayvon Thibodeaux),-0.16,-1.04,4.0,2023,64
+2.0,9:28,4.0,13.0,SEA 35,7.0,0.0,Michael Dickson punts 63 yards downed by Kyu Blu Kelly,-1.04,0.38,4.0,2023,64
+2.0,9:16,1.0,10.0,NYG 2,7.0,0.0,Matt Breida up the middle for 3 yards (tackle by Derick Hall),-0.38,-0.56,4.0,2023,64
+2.0,8:44,2.0,7.0,NYG 5,7.0,0.0,Daniel Jones pass complete short right to Isaiah Hodgins for 11 yards (tackle by Julian Love and Devon Witherspoon),-0.56,-0.14,4.0,2023,64
+2.0,8:10,1.0,10.0,NYG 16,7.0,0.0,Daniel Jones pass complete short left to Parris Campbell for 5 yards (tackle by Quandre Diggs),-0.14,0.15,4.0,2023,64
+2.0,7:56,2.0,5.0,NYG 21,7.0,0.0,Matt Breida left tackle for 1 yard (tackle by Uchenna Nwosu and Bobby Wagner),0.15,-0.57,4.0,2023,64
+2.0,7:17,3.0,4.0,NYG 22,7.0,0.0,Daniel Jones pass complete short right to Matt Breida for 22 yards (tackle by Quandre Diggs),-0.57,1.86,4.0,2023,64
+2.0,6:49,1.0,10.0,NYG 44,7.0,0.0,Gary Brightwell right tackle for 1 yard (tackle by Devon Witherspoon),1.86,1.45,4.0,2023,64
+2.0,6:28,2.0,9.0,NYG 45,7.0,0.0,Daniel Jones pass complete short left to Isaiah Hodgins for 7 yards (tackle by Riq Woolen),1.45,1.69,4.0,2023,64
+2.0,5:51,3.0,2.0,SEA 48,7.0,0.0,Daniel Jones pass complete short left to Wan'Dale Robinson for 8 yards (tackle by Riq Woolen),1.69,2.92,4.0,2023,64
+2.0,5:17,1.0,10.0,SEA 40,7.0,0.0,Parris Campbell sacked by Devon Witherspoon for -8 yards,2.92,1.29,4.0,2023,64
+2.0,4:32,2.0,18.0,SEA 48,7.0,0.0,Daniel Jones pass complete short right to Jalin Hyatt for 3 yards (tackle by Julian Love),1.29,1.03,4.0,2023,64
+2.0,3:54,3.0,15.0,SEA 45,7.0,0.0,Daniel Jones pass complete short left to Parris Campbell for 8 yards (tackle by Bobby Wagner),1.03,0.79,4.0,2023,64
+2.0,3:10,4.0,7.0,SEA 37,7.0,3.0,Graham Gano 55 yard field goal good,0.79,3.0,4.0,2023,64
+2.0,3:05,,,NYG 35,7.0,3.0,"Graham Gano kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,64
+2.0,3:05,1.0,10.0,SEA 25,7.0,3.0,Drew Lock pass incomplete deep right intended for Jaxon Smith-Njigba,0.61,0.06,4.0,2023,64
+2.0,3:00,2.0,10.0,SEA 25,7.0,3.0,Drew Lock scrambles up the middle for 11 yards (tackle by Bobby Okereke),0.06,1.33,4.0,2023,64
+2.0,2:34,1.0,10.0,SEA 36,7.0,3.0,Drew Lock pass complete short left to D.K. Metcalf for 12 yards (tackle by Deonte Banks),1.33,2.13,4.0,2023,64
+2.0,2:00,1.0,10.0,SEA 48,7.0,3.0,Drew Lock pass incomplete short right intended for Tyler Lockett,2.13,1.58,4.0,2023,64
+2.0,1:57,2.0,10.0,SEA 48,7.0,3.0,Drew Lock pass incomplete deep right intended for Jaxon Smith-Njigba,1.58,0.89,4.0,2023,64
+2.0,1:52,3.0,10.0,SEA 48,7.0,3.0,"Drew Lock pass complete short right to Noah Fant for no gain, touchdown Replay Assistant challenged the runner broke the plane ruling, and the original play was overturned. Drew Lock pass complete short right to Noah Fant for 51 yards (tackle by Isaiah Simmons)",0.89,6.97,4.0,2023,64
+2.0,1:42,,,,,,Timeout #1 by New York Giants,,,4.0,2023,64
+2.0,1:42,1.0,1.0,NYG 1,13.0,3.0,"Kenneth Walker up the middle for 1 yard, touchdown",6.97,7.0,4.0,2023,64
+2.0,1:39,,,NYG 15,13.0,3.0,"Penalty on Anthony Bradford: Unnecessary Roughness / Offense, 15 yards (offset) (no play)",0.0,0.0,4.0,2023,64
+2.0,1:39,,,NYG 15,14.0,3.0,Jason Myers kicks extra point good,0.0,0.0,4.0,2023,64
+2.0,1:39,,,SEA 35,14.0,3.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,64
+2.0,1:39,1.0,10.0,NYG 25,14.0,3.0,Daniel Jones pass complete short right to Matt Breida for -1 yards (tackle by Julian Love),0.61,-0.07,4.0,2023,64
+2.0,1:17,2.0,11.0,NYG 24,14.0,3.0,Daniel Jones pass incomplete short left intended for Wan'Dale Robinson (defended by Riq Woolen),-0.07,-0.76,4.0,2023,64
+2.0,1:14,3.0,11.0,NYG 24,14.0,3.0,Matt Breida right guard for 4 yards (tackle by Jordyn Brooks and Bobby Wagner),-0.76,-1.5,4.0,2023,64
+2.0,1:08,,,,,,Timeout #2 by Seattle Seahawks,,,4.0,2023,64
+2.0,1:08,4.0,7.0,NYG 28,14.0,3.0,Jamie Gillan punts 61 yards downed by Dane Belton,-1.5,0.37,4.0,2023,64
+2.0,0:53,1.0,10.0,SEA 11,14.0,3.0,Kenneth Walker up the middle for -1 yards (tackle by Bobby Okereke),-0.37,-0.85,4.0,2023,64
+2.0,0:49,,,,,,Timeout #2 by New York Giants,,,4.0,2023,64
+2.0,0:49,2.0,11.0,SEA 10,14.0,3.0,Kenneth Walker left end for 3 yards (tackle by Isaiah Simmons),-0.85,-1.19,4.0,2023,64
+2.0,0:43,3.0,8.0,SEA 13,14.0,3.0,Kenneth Walker up the middle for 5 yards (tackle by Leonard Williams and Bobby Okereke),-1.19,-2.24,4.0,2023,64
+2.0,0:38,,,,,,Timeout #3 by New York Giants,,,4.0,2023,64
+2.0,0:38,4.0,4.0,SEA 18,14.0,3.0,"Michael Dickson punts 51 yards, fair catch by Adoree' Jackson at NYG-31. Penalty on Cam Brown: Defensive Holding, 5 yards (accepted) . Penalty on Gary Brightwell: Running Into the Kicker, 5 yards (declined) (no play)",-2.24,0.48,4.0,2023,64
+2.0,0:31,1.0,10.0,SEA 23,14.0,3.0,Kenneth Walker left end for 4 yards (tackle by Deonte Banks),0.48,0.47,4.0,2023,64
+2.0,0:26,2.0,6.0,SEA 27,14.0,3.0,Kenneth Walker right tackle for 5 yards (tackle by Leonard Williams and Dane Belton),0.47,0.43,4.0,2023,64
+2.0,0:19,,,,,,Timeout #3 by Seattle Seahawks,,,4.0,2023,64
+2.0,0:19,3.0,1.0,SEA 32,14.0,3.0,Kenneth Walker left tackle for 3 yards (tackle by Dexter Lawrence and Rakeem Nunez-Roches),0.43,1.27,4.0,2023,64
+3.0,15:00,,,NYG 35,14.0,3.0,"Graham Gano kicks off 67 yards, returned by DeeJay Dallas for 30 yards (tackle by Carter Coughlin)",0.0,0.81,4.0,2023,64
+3.0,14:55,1.0,10.0,SEA 28,14.0,3.0,Kenneth Walker right guard for 5 yards (tackle by Dexter Lawrence and Bobby Okereke),0.81,0.94,4.0,2023,64
+3.0,14:12,2.0,5.0,SEA 33,14.0,3.0,"Geno Smith pass complete short left to Tyler Lockett for 9 yards (tackle by Azeez Ojulari). Penalty on Jake Curhan: Ineligible Downfield Pass, 5 yards (accepted) (no play)",0.94,0.26,4.0,2023,64
+3.0,13:48,2.0,10.0,SEA 28,14.0,3.0,Geno Smith pass complete short left to Tyler Lockett for 9 yards (tackle by Isaiah Simmons),0.26,0.76,4.0,2023,64
+3.0,13:10,3.0,1.0,SEA 37,14.0,3.0,Geno Smith pass complete deep left to Tyler Lockett for 23 yards (tackle by Adoree' Jackson),0.76,2.92,4.0,2023,64
+3.0,12:54,1.0,10.0,NYG 40,14.0,3.0,"Penalty on Geno Smith: Unsportsmanlike Conduct / Offense, 15 yards (accepted) (no play)",2.92,1.93,4.0,2023,64
+3.0,12:54,1.0,10.0,SEA 45,14.0,3.0,Kenneth Walker up the middle for 16 yards (tackle by Xavier McKinney and Bobby Okereke),1.93,2.98,4.0,2023,64
+3.0,11:48,1.0,10.0,NYG 39,14.0,3.0,Zach Charbonnet right end for 15 yards (tackle by Adoree' Jackson),2.98,3.97,4.0,2023,64
+3.0,11:04,1.0,10.0,NYG 24,14.0,3.0,Zach Charbonnet left end for no gain (tackle by Bobby Okereke),3.97,3.43,4.0,2023,64
+3.0,10:25,2.0,10.0,NYG 24,14.0,3.0,Geno Smith pass complete short middle to Tyler Lockett for 8 yards (tackle by Micah McFadden),3.43,3.95,4.0,2023,64
+3.0,9:55,3.0,2.0,NYG 16,14.0,3.0,Kenneth Walker left tackle for 1 yard (tackle by Rakeem Nunez-Roches and Micah McFadden),3.95,2.59,4.0,2023,64
+3.0,9:11,4.0,1.0,NYG 15,14.0,3.0,Geno Smith pass incomplete short right intended for Zach Charbonnet (defended by Micah McFadden),2.59,0.14,4.0,2023,64
+3.0,9:03,1.0,10.0,NYG 16,14.0,3.0,Daniel Jones pass complete short left to Wan'Dale Robinson for 3 yards (tackle by Quandre Diggs),-0.14,-0.18,4.0,2023,64
+3.0,8:44,2.0,7.0,NYG 19,14.0,3.0,Daniel Jones sacked by Jordyn Brooks for no gain,-0.18,-0.95,4.0,2023,64
+3.0,8:13,3.0,7.0,NYG 19,14.0,3.0,Daniel Jones sacked by Bobby Wagner for -7 yards,-0.95,-2.49,4.0,2023,64
+3.0,7:36,4.0,14.0,NYG 12,14.0,3.0,"Jamie Gillan punts 61 yards, returned by DeeJay Dallas for 23 yards (tackle by Casey Kreiter). Penalty on Casey Kreiter: Offensive Holding, 10 yards (accepted)",-2.49,-2.92,4.0,2023,64
+3.0,7:25,1.0,10.0,NYG 40,14.0,3.0,Zach Charbonnet right end for 5 yards (tackle by Micah McFadden and Adoree' Jackson),2.92,3.18,4.0,2023,64
+3.0,6:50,2.0,4.0,NYG 34,14.0,3.0,Geno Smith pass incomplete short right intended for Zach Charbonnet (defended by Bobby Okereke),3.18,2.48,4.0,2023,64
+3.0,6:41,3.0,4.0,NYG 34,14.0,3.0,Geno Smith pass incomplete short middle intended for Tyler Lockett,2.48,1.08,4.0,2023,64
+3.0,6:36,4.0,4.0,NYG 34,14.0,3.0,Jason Myers 53 yard field goal no good,1.08,-1.8,4.0,2023,64
+3.0,6:31,1.0,10.0,NYG 43,14.0,3.0,Daniel Jones pass incomplete short right,1.8,1.25,4.0,2023,64
+3.0,6:22,2.0,10.0,NYG 43,14.0,3.0,"Matt Breida up the middle for 1 yard (tackle by Mario Edwards). Penalty on Mario Edwards: Face Mask (15 Yards), 15 yards (accepted)",1.25,2.85,4.0,2023,64
+3.0,6:06,1.0,10.0,SEA 41,14.0,3.0,Daniel Jones scrambles up the middle for 1 yard (tackle by Cameron Young),2.85,2.44,4.0,2023,64
+3.0,5:24,2.0,9.0,SEA 40,14.0,3.0,Daniel Jones pass complete short right to Jalin Hyatt for 7 yards (tackle by Michael Jackson),2.44,2.68,4.0,2023,64
+3.0,5:05,3.0,2.0,SEA 33,14.0,3.0,Daniel Jones right end for 8 yards (tackle by Michael Jackson),2.68,3.91,4.0,2023,64
+3.0,4:26,1.0,10.0,SEA 25,14.0,3.0,Matt Breida right guard for 1 yard (tackle by Boye Mafe and Dre'Mont Jones),3.91,3.5,4.0,2023,64
+3.0,3:50,2.0,9.0,SEA 24,14.0,3.0,Daniel Jones pass complete short left to Isaiah Hodgins for 6 yards (tackle by Riq Woolen),3.5,3.66,4.0,2023,64
+3.0,3:28,3.0,3.0,SEA 18,14.0,3.0,Matt Breida up the middle for 2 yards (tackle by Jordyn Brooks and Dre'Mont Jones),3.66,2.53,4.0,2023,64
+3.0,2:46,,,,,,Timeout #1 by New York Giants,,,4.0,2023,64
+3.0,2:46,4.0,1.0,SEA 16,14.0,3.0,Daniel Jones scrambles right end for 10 yards (tackle by Julian Love),2.53,5.83,4.0,2023,64
+3.0,2:00,1.0,6.0,SEA 6,14.0,3.0,Daniel Jones left tackle for 1 yard (tackle by Bobby Wagner and Uchenna Nwosu),5.83,5.15,4.0,2023,64
+3.0,1:19,2.0,5.0,SEA 5,20.0,3.0,"Daniel Jones pass short left intended for Parris Campbell is intercepted by Devon Witherspoon at SEA-3 and returned for 97 yards, touchdown",5.15,-7.0,4.0,2023,64
+3.0,1:03,,,NYG 15,21.0,3.0,Jason Myers kicks extra point good,0.0,0.0,4.0,2023,64
+3.0,1:03,,,SEA 35,21.0,3.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,64
+3.0,1:03,1.0,10.0,NYG 25,21.0,3.0,Matt Breida right guard for no gain (tackle by Myles Adams and Bobby Wagner),0.61,0.06,4.0,2023,64
+3.0,0:44,2.0,10.0,NYG 25,21.0,3.0,Daniel Jones pass complete short right to Darius Slayton for 12 yards (tackle by Bobby Wagner),0.06,1.4,4.0,2023,64
+3.0,0:19,1.0,10.0,NYG 37,21.0,3.0,Daniel Jones pass complete short middle to Matt Breida for 3 yards (tackle by Bobby Wagner),1.4,1.26,4.0,2023,64
+4.0,15:00,2.0,7.0,NYG 40,21.0,3.0,Daniel Jones pass complete short right to Matt Breida for 2 yards (tackle by Bobby Wagner and Myles Adams),1.26,0.83,4.0,2023,64
+4.0,14:32,3.0,5.0,NYG 42,21.0,3.0,Daniel Jones pass complete short middle to Ben Bredeson for no gain (tackle by Jarran Reed),0.83,-0.59,4.0,2023,64
+4.0,14:02,4.0,5.0,NYG 42,21.0,3.0,Daniel Jones pass complete short left to Wan'Dale Robinson for 6 yards (tackle by Devon Witherspoon),-0.59,2.13,4.0,2023,64
+4.0,13:36,1.0,10.0,NYG 48,21.0,3.0,"Daniel Jones scrambles up the middle for no gain (tackle by Bobby Wagner). Penalty on Ben Bredeson: Offensive Holding, 10 yards (accepted) (no play)",2.13,1.47,4.0,2023,64
+4.0,13:18,1.0,20.0,NYG 38,21.0,3.0,Daniel Jones sacked by Bobby Wagner for -8 yards,1.47,-0.85,4.0,2023,64
+4.0,12:46,2.0,28.0,NYG 30,21.0,3.0,Daniel Jones pass complete short middle to Sterling Shepard for 6 yards (tackle by Bobby Wagner),-0.85,-0.69,4.0,2023,64
+4.0,12:08,3.0,22.0,NYG 36,21.0,3.0,Daniel Jones sacked by Uchenna Nwosu for -9 yards,-0.69,-1.57,4.0,2023,64
+4.0,11:28,4.0,31.0,NYG 27,21.0,3.0,"Jamie Gillan punts 48 yards, fair catch by DeeJay Dallas at SEA-25. Penalty on Isaiah Simmons: Illegal Shift, 5 yards (accepted)",-1.57,-0.94,4.0,2023,64
+4.0,11:20,1.0,10.0,SEA 30,21.0,3.0,Geno Smith pass complete short right to Jaxon Smith-Njigba for 3 yards (tackle by Adoree' Jackson),0.94,0.8,4.0,2023,64
+4.0,10:48,2.0,7.0,SEA 33,21.0,3.0,Geno Smith pass incomplete deep left intended for Colby Parkinson,0.8,0.1,4.0,2023,64
+4.0,10:41,3.0,7.0,SEA 33,21.0,3.0,Geno Smith pass incomplete short middle intended for DeeJay Dallas,0.1,-1.18,4.0,2023,64
+4.0,10:36,4.0,7.0,SEA 33,21.0,3.0,Michael Dickson punts 54 yards downed by Drake Thomas,-1.18,0.32,4.0,2023,64
+4.0,10:23,1.0,10.0,NYG 13,21.0,3.0,Daniel Jones sacked by Myles Adams for -7 yards,-0.32,-1.29,4.0,2023,64
+4.0,10:02,2.0,17.0,NYG 6,21.0,3.0,Daniel Jones pass complete short left to Gary Brightwell for 10 yards (tackle by Jordyn Brooks),-1.29,-1.06,4.0,2023,64
+4.0,9:35,3.0,7.0,NYG 16,21.0,3.0,Daniel Jones scrambles up the middle for 17 yards (tackle by Jordyn Brooks),-1.06,1.14,4.0,2023,64
+4.0,9:11,1.0,10.0,NYG 33,21.0,3.0,Daniel Jones pass complete short left to Darius Slayton for 11 yards (tackle by Julian Love),1.14,1.86,4.0,2023,64
+4.0,8:48,1.0,10.0,NYG 44,21.0,3.0,Daniel Jones pass incomplete short middle intended for Gary Brightwell (defended by Mario Edwards),1.86,1.32,4.0,2023,64
+4.0,8:39,2.0,10.0,NYG 44,21.0,3.0,Daniel Jones pass deep middle intended for Parris Campbell is intercepted by Quandre Diggs at SEA-34 and returned for 21 yards (tackle by Gary Brightwell),1.32,-2.59,4.0,2023,64
+4.0,8:26,1.0,10.0,NYG 45,21.0,3.0,Kenneth Walker right end for 5 yards (tackle by Bobby Okereke),2.59,2.72,4.0,2023,64
+4.0,7:46,2.0,5.0,NYG 40,21.0,3.0,Kenneth Walker right guard for 31 yards (tackle by Jason Pinnock),2.72,5.14,4.0,2023,64
+4.0,7:00,1.0,9.0,NYG 9,21.0,3.0,"Penalty on Colby Parkinson: False Start, 5 yards (accepted) (no play)",5.14,4.44,4.0,2023,64
+4.0,7:00,1.0,14.0,NYG 14,21.0,3.0,Kenneth Walker right guard for 1 yard (tackle by Micah McFadden),4.44,3.72,4.0,2023,64
+4.0,6:16,2.0,13.0,NYG 13,21.0,3.0,Kenneth Walker left guard for 5 yards (tackle by Deonte Banks),3.72,3.58,4.0,2023,64
+4.0,5:34,3.0,8.0,NYG 8,21.0,3.0,Geno Smith sacked by Kayvon Thibodeaux for -8 yards,3.58,2.38,4.0,2023,64
+4.0,5:29,,,,,,Timeout #2 by New York Giants,,,4.0,2023,64
+4.0,5:29,4.0,16.0,NYG 16,24.0,3.0,Jason Myers 34 yard field goal good,2.38,3.0,4.0,2023,64
+4.0,5:26,,,SEA 35,24.0,3.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,64
+4.0,5:26,1.0,10.0,NYG 25,24.0,3.0,Daniel Jones pass complete short left to Darren Waller for 8 yards (tackle by Julian Love and Riq Woolen),0.61,1.14,4.0,2023,64
+4.0,5:05,2.0,2.0,NYG 33,24.0,3.0,Matt Breida up the middle for 3 yards (tackle by Mario Edwards and Myles Adams),1.14,1.33,4.0,2023,64
+4.0,4:43,1.0,10.0,NYG 36,24.0,3.0,Daniel Jones sacked by Boye Mafe for -6 yards,1.33,-0.02,4.0,2023,64
+4.0,4:12,2.0,16.0,NYG 30,24.0,3.0,Daniel Jones pass complete short left to Darren Waller for 8 yards (tackle by Jon Rhattigan and Riq Woolen),-0.02,0.37,4.0,2023,64
+4.0,3:43,3.0,8.0,NYG 38,24.0,3.0,Daniel Jones scrambles left end for 3 yards (tackle by Uchenna Nwosu),0.37,-0.65,4.0,2023,64
+4.0,3:36,4.0,5.0,NYG 41,24.0,3.0,"Daniel Jones sacked by Uchenna Nwosu for -5 yards. Daniel Jones fumbles (forced by Uchenna Nwosu), recovered by Joshua Ezeudu at NYG-35 (tackle by Uchenna Nwosu)",-0.65,-3.25,4.0,2023,64
+4.0,3:30,1.0,10.0,NYG 35,24.0,3.0,Kenneth Walker right end for -4 yards (tackle by D.J. Davidson),3.25,2.16,4.0,2023,64
+4.0,2:44,2.0,14.0,NYG 39,24.0,3.0,Zach Charbonnet left guard for 8 yards (tackle by Micah McFadden),2.16,2.54,4.0,2023,64
+4.0,2:00,3.0,6.0,NYG 31,24.0,3.0,Zach Charbonnet right guard for 3 yards (tackle by A'Shawn Robinson and Jason Pinnock),2.54,1.68,4.0,2023,64
+4.0,1:15,,,,,,Timeout #1 by Seattle Seahawks,,,4.0,2023,64
+4.0,1:15,4.0,3.0,NYG 28,24.0,3.0,Drew Lock pass incomplete short right intended for Jake Bobo (defended by D.J. Davidson),1.68,-0.87,4.0,2023,64
+4.0,1:11,1.0,10.0,NYG 29,24.0,3.0,Gary Brightwell left guard for 4 yards (tackle by Darrell Taylor and Jon Rhattigan),0.87,0.87,4.0,2023,64
+4.0,0:41,2.0,6.0,NYG 33,24.0,3.0,Gary Brightwell left tackle for 2 yards (tackle by Cameron Young),0.87,0.43,4.0,2023,64

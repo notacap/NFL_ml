@@ -1,0 +1,9 @@
+Quarter,Time,Tm,Detail,IND,LVR,week,year,game_id
+1.0,3:17,Colts,Matt Ryan 1 yard rush (Chase McLaughlin kick),7,0,10.0,2022,146
+2.0,12:38,Colts,Chase McLaughlin 48 yard field goal,10,0,10.0,2022,146
+,0:58,Raiders,Foster Moreau 4 yard pass from Derek Carr (Daniel Carlson kick),10,7,10.0,2022,146
+,0:00,Colts,Chase McLaughlin 48 yard field goal,13,7,10.0,2022,146
+3.0,1:51,Raiders,Josh Jacobs 1 yard rush (Daniel Carlson kick),13,14,10.0,2022,146
+,1:01,Colts,Jonathan Taylor 66 yard rush (pass failed),19,14,10.0,2022,146
+4.0,11:36,Raiders,Davante Adams 48 yard pass from Derek Carr (pass failed),19,20,10.0,2022,146
+,5:07,Colts,Parris Campbell 35 yard pass from Matt Ryan (pass failed),25,20,10.0,2022,146

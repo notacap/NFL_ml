@@ -1,0 +1,155 @@
+Quarter,Time,Down,ToGo,Location,LVR,NOR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Saints won the coin toss and deferred, Raiders to receive the opening kickoff.",,,8.0,2022,116
+1.0,15:00,,,NOR 35,0.0,0.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,116
+1.0,15:00,1.0,10.0,LVR 25,0.0,0.0,Josh Jacobs left end for 1 yard (tackle by Alontae Taylor),0.61,0.2,8.0,2022,116
+1.0,14:21,2.0,9.0,LVR 26,0.0,0.0,Derek Carr pass complete short middle to Foster Moreau for -3 yards (tackle by Demario Davis and Cameron Jordan),0.2,-0.89,8.0,2022,116
+1.0,13:36,3.0,12.0,LVR 23,0.0,0.0,Derek Carr pass incomplete deep left intended for Mack Hollins,-0.89,-1.83,8.0,2022,116
+1.0,13:30,4.0,12.0,LVR 23,0.0,0.0,"AJ Cole punts 54 yards, returned by Rashid Shaheed for 10 yards (tackle by Jesper Horsted)",-1.83,-1.14,8.0,2022,116
+1.0,13:20,1.0,10.0,NOR 33,0.0,0.0,Andy Dalton pass complete short left to Juwan Johnson for 6 yards (tackle by Divine Deablo and Anthony Averett),1.14,1.33,8.0,2022,116
+1.0,12:47,2.0,5.0,NOR 39,0.0,0.0,Andy Dalton pass incomplete short right intended for Chris Olave (defended by Rock Ya-Sin),1.33,0.7,8.0,2022,116
+1.0,12:43,3.0,4.0,NOR 39,0.0,0.0,Andy Dalton pass complete short right to Mark Ingram for 2 yards (tackle by Denzel Perryman),0.7,-0.65,8.0,2022,116
+1.0,11:58,4.0,2.0,NOR 41,0.0,0.0,"Blake Gillikin punts 46 yards, returned by DJ Turner for 3 yards (tackle by Zack Baun)",-0.65,0.14,8.0,2022,116
+1.0,11:48,1.0,10.0,LVR 16,0.0,0.0,Josh Jacobs right end for 6 yards (tackle by Pete Werner),-0.14,0.21,8.0,2022,116
+1.0,11:08,2.0,5.0,LVR 22,0.0,0.0,Josh Jacobs left end for -3 yards (tackle by Kentavius Street),0.21,-0.95,8.0,2022,116
+1.0,10:27,3.0,7.0,LVR 19,0.0,0.0,Derek Carr pass complete short middle to Mack Hollins for 13 yards (tackle by Paulson Adebo),-0.95,1.07,8.0,2022,116
+1.0,9:47,1.0,10.0,LVR 32,0.0,0.0,Derek Carr pass incomplete short right intended for Jesper Horsted (defended by Alontae Taylor),1.07,0.53,8.0,2022,116
+1.0,9:41,2.0,10.0,LVR 32,0.0,0.0,Josh Jacobs right guard for 16 yards (tackle by Tyrann Mathieu),0.53,2.13,8.0,2022,116
+1.0,9:00,1.0,10.0,LVR 48,0.0,0.0,Derek Carr pass incomplete deep right intended for Keelan Cole,2.13,1.58,8.0,2022,116
+1.0,8:53,2.0,10.0,LVR 48,0.0,0.0,Josh Jacobs left guard for no gain (tackle by Kentavius Street) (no play),1.58,0.91,8.0,2022,116
+1.0,8:32,2.0,15.0,LVR 43,0.0,0.0,Derek Carr pass incomplete short left intended for Josh Jacobs,0.91,0.23,8.0,2022,116
+1.0,8:27,3.0,15.0,LVR 43,0.0,0.0,Derek Carr pass incomplete deep left intended for Davante Adams,0.23,-0.52,8.0,2022,116
+1.0,8:22,4.0,15.0,LVR 43,0.0,0.0,"AJ Cole punts 41 yards, fair catch by Rashid Shaheed at NO-16",-0.52,0.14,8.0,2022,116
+1.0,8:15,1.0,10.0,NOR 16,0.0,0.0,Alvin Kamara right guard for 5 yards (tackle by Blake Martinez and Divine Deablo),-0.14,0.15,8.0,2022,116
+1.0,7:41,2.0,5.0,NOR 21,0.0,0.0,Alvin Kamara right guard for -1 yards (tackle by Maxx Crosby),0.15,-0.82,8.0,2022,116
+1.0,7:00,3.0,6.0,NOR 20,0.0,0.0,Andy Dalton pass complete short middle to Taysom Hill for 11 yards (tackle by Divine Deablo),-0.82,1.0,8.0,2022,116
+1.0,6:20,1.0,10.0,NOR 31,0.0,0.0,Andy Dalton pass complete short left to Alvin Kamara for 8 yards (tackle by Kendal Vickers and Blake Martinez),1.0,1.54,8.0,2022,116
+1.0,5:41,2.0,2.0,NOR 39,0.0,0.0,Taysom Hill left guard for 7 yards (tackle by Blake Martinez),1.54,1.99,8.0,2022,116
+1.0,5:01,1.0,10.0,NOR 46,0.0,0.0,Andy Dalton pass complete deep left to Rashid Shaheed for 30 yards (tackle by Anthony Averett),1.99,3.97,8.0,2022,116
+1.0,4:19,1.0,10.0,LVR 24,0.0,0.0,Taysom Hill pass complete short right to Alvin Kamara for 2 yards (tackle by Malcolm Koonce and Divine Deablo),3.97,3.7,8.0,2022,116
+1.0,3:38,2.0,8.0,LVR 22,0.0,0.0,Andy Dalton pass complete short right to Alvin Kamara for 7 yards (tackle by Divine Deablo),3.7,4.17,8.0,2022,116
+1.0,2:56,3.0,1.0,LVR 15,0.0,0.0,Taysom Hill right end for 7 yards (tackle by Trevon Moehrig),4.17,5.37,8.0,2022,116
+1.0,2:13,1.0,8.0,LVR 8,0.0,0.0,Taysom Hill right end for 5 yards (tackle by Maxx Crosby and Duron Harmon),5.37,5.53,8.0,2022,116
+1.0,1:36,2.0,3.0,LVR 3,0.0,6.0,"Alvin Kamara right guard for 3 yards, touchdown",5.53,7.0,8.0,2022,116
+1.0,1:32,,,LVR 15,0.0,7.0,Wil Lutz kicks extra point good,0.0,0.0,8.0,2022,116
+1.0,1:32,,,NOR 35,0.0,7.0,"Wil Lutz kicks off 62 yards, returned by DJ Turner for 22 yards (tackle by Chase Hansen and Daniel Sorensen)",0.0,0.61,8.0,2022,116
+1.0,1:27,1.0,10.0,LVR 25,0.0,7.0,Derek Carr pass complete short right to Foster Moreau for 12 yards (tackle by Paulson Adebo),0.61,1.4,8.0,2022,116
+1.0,0:51,1.0,10.0,LVR 37,0.0,7.0,Derek Carr pass complete short right to Mack Hollins for 5 yards (tackle by Paulson Adebo),1.4,1.53,8.0,2022,116
+1.0,0:15,2.0,5.0,LVR 42,0.0,7.0,Josh Jacobs right guard for 4 yards (tackle by Malcolm Roach and Paulson Adebo),1.53,1.36,8.0,2022,116
+2.0,15:00,3.0,1.0,LVR 46,0.0,7.0,Davante Adams left end for -1 yards (tackle by Marcus Davenport),1.36,-0.39,8.0,2022,116
+2.0,14:23,4.0,2.0,LVR 45,0.0,7.0,Matthias Farley right end for -3 yards (tackle by Paulson Adebo),-0.39,-2.79,8.0,2022,116
+2.0,14:18,1.0,10.0,LVR 42,0.0,7.0,"Penalty on Brandon Bolden: Defensive Chop Block, 15 yards (accepted) (no play)",2.79,3.78,8.0,2022,116
+2.0,14:18,1.0,10.0,LVR 27,0.0,7.0,Alvin Kamara left tackle for 1 yard (tackle by Maxx Crosby),3.78,3.37,8.0,2022,116
+2.0,13:40,2.0,9.0,LVR 26,0.0,7.0,Andy Dalton pass incomplete deep right intended for Tre'Quan Smith,3.37,2.68,8.0,2022,116
+2.0,13:34,3.0,9.0,LVR 26,0.0,7.0,Andy Dalton pass complete short right to Juwan Johnson for 8 yards (tackle by Amik Robertson and Divine Deablo),2.68,2.4,8.0,2022,116
+2.0,12:47,,,,,,Timeout #1 by New Orleans Saints,,,8.0,2022,116
+2.0,12:47,4.0,1.0,LVR 18,0.0,10.0,Wil Lutz 37 yard field goal good,2.4,3.0,8.0,2022,116
+2.0,12:43,,,NOR 35,0.0,10.0,"Wil Lutz kicks off 63 yards, returned by Ameer Abdullah for 20 yards (tackle by J.T. Gray and Kevin White)",0.0,0.41,8.0,2022,116
+2.0,12:38,1.0,10.0,LVR 22,0.0,10.0,Josh Jacobs up the middle for 1 yard (tackle by Payton Turner and Demario Davis),0.41,0.0,8.0,2022,116
+2.0,11:58,2.0,9.0,LVR 23,0.0,10.0,Derek Carr pass complete short left to Foster Moreau for 7 yards (tackle by Pete Werner),0.0,0.23,8.0,2022,116
+2.0,11:17,3.0,2.0,LVR 30,0.0,10.0,Derek Carr pass short middle (defended by Pete Werner) intended for Hunter Renfrow is intercepted by Tyrann Mathieu at LV-45 and returned for no gain (tackle by Mack Hollins),0.23,-2.59,8.0,2022,116
+2.0,11:09,1.0,10.0,LVR 45,0.0,10.0,Andy Dalton pass complete short right to Alvin Kamara for 3 yards (tackle by Rock Ya-Sin),2.59,2.45,8.0,2022,116
+2.0,10:31,2.0,7.0,LVR 42,0.0,10.0,Alvin Kamara left guard for 7 yards (tackle by Denzel Perryman),2.45,3.25,8.0,2022,116
+2.0,9:54,1.0,10.0,LVR 35,0.0,10.0,Taysom Hill left end for 11 yards (tackle by Duron Harmon),3.25,3.97,8.0,2022,116
+2.0,9:16,1.0,10.0,LVR 24,0.0,10.0,Alvin Kamara left guard for 5 yards (tackle by Maxx Crosby),3.97,4.12,8.0,2022,116
+2.0,8:31,2.0,5.0,LVR 19,0.0,10.0,Andy Dalton pass complete short middle to Chris Olave for 8 yards (tackle by Anthony Averett),4.12,4.84,8.0,2022,116
+2.0,7:47,1.0,10.0,LVR 11,0.0,10.0,"Penalty on Erik McCoy: False Start, 5 yards (accepted) (no play)",4.84,4.34,8.0,2022,116
+2.0,7:23,1.0,15.0,LVR 16,0.0,16.0,"Andy Dalton pass complete short middle to Alvin Kamara for 16 yards, touchdown",4.34,7.0,8.0,2022,116
+2.0,7:15,,,LVR 15,0.0,17.0,Wil Lutz kicks extra point good,0.0,0.0,8.0,2022,116
+2.0,7:15,,,NOR 35,0.0,17.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,116
+2.0,7:15,1.0,10.0,LVR 25,0.0,17.0,Derek Carr pass complete short left to Josh Jacobs for no gain (tackle by Chris Harris),0.61,-0.01,8.0,2022,116
+2.0,6:39,2.0,11.0,LVR 25,0.0,17.0,"Derek Carr pass incomplete intended for Davante Adams LVR challenged the pass completion ruling, and the play was upheld.",-0.01,-0.69,8.0,2022,116
+2.0,6:33,3.0,11.0,LVR 25,0.0,17.0,"Derek Carr sacked by and Pete Werner for no gain and Marcus Davenport for no gain. Penalty on Paulson Adebo: Defensive Holding, 5 yards (accepted) (no play)",-0.69,0.94,8.0,2022,116
+2.0,6:07,1.0,10.0,LVR 30,0.0,17.0,Josh Jacobs right end for 4 yards (tackle by Paulson Adebo and David Onyemata),0.94,0.93,8.0,2022,116
+2.0,5:28,2.0,6.0,LVR 34,0.0,17.0,Josh Jacobs left guard for 2 yards (tackle by Pete Werner and Tyrann Mathieu),0.93,0.5,8.0,2022,116
+2.0,4:44,3.0,4.0,LVR 36,0.0,17.0,Derek Carr pass complete short left to Foster Moreau for 9 yards (tackle by Pete Werner and Marcus Maye),0.5,1.93,8.0,2022,116
+2.0,4:00,1.0,10.0,LVR 45,0.0,17.0,Josh Jacobs left end for 4 yards (tackle by Pete Werner),1.93,1.92,8.0,2022,116
+2.0,3:22,2.0,6.0,LVR 49,0.0,17.0,Derek Carr pass incomplete short middle intended for Josh Jacobs,1.92,1.22,8.0,2022,116
+2.0,3:16,3.0,6.0,LVR 49,0.0,17.0,Derek Carr pass incomplete deep left intended for Davante Adams (defended by Alontae Taylor),1.22,-0.13,8.0,2022,116
+2.0,3:11,4.0,6.0,LVR 49,0.0,17.0,"AJ Cole punts 35 yards, fair catch by Rashid Shaheed at NO-16. Penalty on Trent Sieg: Offensive Holding, 10 yards (accepted)",-0.13,-0.67,8.0,2022,116
+2.0,3:04,1.0,10.0,NOR 26,0.0,17.0,Andy Dalton pass complete short left to Rashid Shaheed for 1 yard (tackle by Trevon Moehrig),0.67,0.27,8.0,2022,116
+2.0,2:20,2.0,9.0,NOR 27,0.0,17.0,Andy Dalton pass incomplete short left intended for Alvin Kamara (defended by Duron Harmon),0.27,-0.43,8.0,2022,116
+2.0,2:15,3.0,9.0,NOR 27,0.0,17.0,Andy Dalton pass complete short right to Chris Olave for 14 yards (tackle by Rock Ya-Sin),-0.43,1.66,8.0,2022,116
+2.0,2:00,1.0,10.0,NOR 41,0.0,17.0,Alvin Kamara left guard for 5 yards (tackle by Divine Deablo and Duron Harmon),1.66,1.8,8.0,2022,116
+2.0,1:22,2.0,5.0,NOR 46,0.0,17.0,Andy Dalton pass complete short middle to Alvin Kamara for 9 yards (tackle by Denzel Perryman),1.8,2.59,8.0,2022,116
+2.0,0:58,1.0,10.0,LVR 45,0.0,17.0,Andy Dalton pass incomplete short right intended for Juwan Johnson,2.59,2.04,8.0,2022,116
+2.0,0:53,2.0,10.0,LVR 45,0.0,17.0,Alvin Kamara right guard for 6 yards (tackle by Divine Deablo),2.04,2.15,8.0,2022,116
+2.0,0:41,,,,,,Timeout #2 by New Orleans Saints,,,8.0,2022,116
+2.0,0:41,3.0,4.0,LVR 39,0.0,17.0,Andy Dalton pass complete short left to Marquez Callaway for 10 yards (tackle by Anthony Averett),2.15,3.64,8.0,2022,116
+2.0,0:24,1.0,10.0,LVR 29,0.0,17.0,Andy Dalton pass complete short middle to Alvin Kamara for 9 yards (tackle by Divine Deablo),3.64,4.32,8.0,2022,116
+2.0,0:17,,,,,,Timeout #3 by New Orleans Saints,,,8.0,2022,116
+2.0,0:17,2.0,1.0,LVR 20,0.0,17.0,Andy Dalton pass incomplete short right,4.32,3.6,8.0,2022,116
+2.0,0:13,,,,,,Timeout #2 by Las Vegas Raiders,,,8.0,2022,116
+2.0,0:13,3.0,1.0,LVR 20,0.0,17.0,Andy Dalton pass incomplete short right intended for Chris Olave,3.6,2.27,8.0,2022,116
+2.0,0:09,4.0,1.0,LVR 20,0.0,17.0,Wil Lutz 38 yard field goal no good,2.27,-0.81,8.0,2022,116
+2.0,0:04,1.0,10.0,LVR 28,0.0,17.0,Derek Carr kneels for -1 yards,0.81,0.13,8.0,2022,116
+3.0,15:00,,,LVR 35,0.0,17.0,"Daniel Carlson kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,116
+3.0,15:00,1.0,10.0,NOR 25,0.0,17.0,Alvin Kamara left guard for 1 yard (tackle by Maxx Crosby),0.61,0.2,8.0,2022,116
+3.0,14:20,2.0,9.0,NOR 26,0.0,17.0,Taysom Hill left end for 10 yards (tackle by Anthony Averett),0.2,1.33,8.0,2022,116
+3.0,13:46,1.0,10.0,NOR 36,0.0,17.0,"Penalty on James Hurst: False Start, 5 yards (accepted) (no play)",1.33,1.0,8.0,2022,116
+3.0,13:24,1.0,15.0,NOR 31,0.0,17.0,Andy Dalton pass complete short left to Alvin Kamara for 6 yards (tackle by Duron Harmon),1.0,0.93,8.0,2022,116
+3.0,12:43,2.0,9.0,NOR 37,0.0,17.0,Andy Dalton pass incomplete short middle intended for Taysom Hill,0.93,0.23,8.0,2022,116
+3.0,12:38,3.0,9.0,NOR 37,0.0,17.0,"Andy Dalton pass incomplete short right intended for Chris Olave. Penalty on Rock Ya-Sin: Defensive Pass Interference, 14 yards (accepted) (no play)",0.23,2.32,8.0,2022,116
+3.0,12:33,1.0,10.0,LVR 49,0.0,17.0,Taysom Hill left guard for 4 yards (tackle by Denzel Perryman),2.32,2.32,8.0,2022,116
+3.0,11:55,2.0,6.0,LVR 45,0.0,17.0,Alvin Kamara left tackle for 9 yards (tackle by Anthony Averett),2.32,3.18,8.0,2022,116
+3.0,11:12,1.0,10.0,LVR 36,0.0,23.0,"Andy Dalton pass complete short middle to Alvin Kamara for 36 yards, touchdown",3.18,7.0,8.0,2022,116
+3.0,11:03,,,LVR 15,0.0,24.0,Wil Lutz kicks extra point good,0.0,0.0,8.0,2022,116
+3.0,11:03,,,NOR 35,0.0,24.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,116
+3.0,11:03,1.0,10.0,LVR 25,0.0,24.0,Derek Carr pass complete short middle to Hunter Renfrow for 6 yards (tackle by Demario Davis),0.61,0.87,8.0,2022,116
+3.0,10:25,2.0,4.0,LVR 31,0.0,24.0,"Josh Jacobs left guard for 8 yards (tackle by Chris Harris). Penalty on Marcus Davenport: Illegal Use of Hands / Defense, 5 yards (accepted)",0.87,1.86,8.0,2022,116
+3.0,10:08,1.0,10.0,LVR 44,0.0,24.0,Derek Carr sacked by David Onyemata for -8 yards,1.86,0.24,8.0,2022,116
+3.0,9:25,2.0,18.0,LVR 36,0.0,24.0,Derek Carr sacked by and Cameron Jordan for -5 yards and Kentavius Street for -5 yards,0.24,-1.09,8.0,2022,116
+3.0,8:38,3.0,23.0,LVR 31,0.0,24.0,Derek Carr pass complete short left to Ameer Abdullah for 10 yards (tackle by Pete Werner),-1.09,-0.65,8.0,2022,116
+3.0,7:57,4.0,13.0,LVR 41,0.0,24.0,"AJ Cole punts 46 yards, returned by Rashid Shaheed for 5 yards (tackle by Matthias Farley and Ameer Abdullah)",-0.65,-0.04,8.0,2022,116
+3.0,7:47,1.0,10.0,NOR 18,0.0,24.0,Dwayne Washington left tackle for 4 yards (tackle by Clelin Ferrell and Neil Farrell),0.04,0.14,8.0,2022,116
+3.0,7:05,2.0,6.0,NOR 22,0.0,24.0,Taysom Hill left end for 11 yards (tackle by Anthony Averett),0.14,1.14,8.0,2022,116
+3.0,6:30,1.0,10.0,NOR 33,0.0,24.0,Alvin Kamara left tackle for 4 yards (tackle by Divine Deablo and Andrew Billings),1.14,1.13,8.0,2022,116
+3.0,5:52,2.0,6.0,NOR 37,0.0,24.0,Andy Dalton pass complete short right to Rashid Shaheed for 7 yards (tackle by Rock Ya-Sin),1.13,1.86,8.0,2022,116
+3.0,5:11,1.0,10.0,NOR 44,0.0,24.0,Taysom Hill left end for -1 yards (tackle by Denzel Perryman),1.86,1.18,8.0,2022,116
+3.0,4:26,2.0,11.0,NOR 43,0.0,24.0,Andy Dalton pass complete short right to Nick Vannett for 8 yards (tackle by Rock Ya-Sin),1.18,1.55,8.0,2022,116
+3.0,3:43,3.0,3.0,LVR 49,0.0,24.0,Alvin Kamara right tackle for 2 yards (tackle by Maxx Crosby and Denzel Perryman),1.55,0.13,8.0,2022,116
+3.0,2:59,4.0,2.0,LVR 47,0.0,24.0,"Blake Gillikin punts 34 yards, fair catch by Hunter Renfrow at LV-13",0.13,0.32,8.0,2022,116
+3.0,2:52,1.0,10.0,LVR 13,0.0,24.0,"Penalty on Kolton Miller: False Start, 5 yards (accepted) (no play)",-0.32,-0.57,8.0,2022,116
+3.0,2:52,1.0,15.0,LVR 8,0.0,24.0,Derek Carr pass complete short middle to Josh Jacobs for 11 yards (tackle by Pete Werner and Kaden Elliss),-0.57,0.03,8.0,2022,116
+3.0,2:13,2.0,4.0,LVR 19,0.0,24.0,Derek Carr pass incomplete deep right intended for Davante Adams (defended by Paulson Adebo),0.03,-0.71,8.0,2022,116
+3.0,2:09,3.0,4.0,LVR 19,0.0,24.0,Derek Carr pass complete short right to Foster Moreau for 9 yards (tackle by Pete Werner),-0.71,0.81,8.0,2022,116
+3.0,1:29,1.0,10.0,LVR 28,0.0,24.0,Derek Carr pass complete short middle to Foster Moreau for -3 yards (tackle by Marcus Davenport and Pete Werner),0.81,-0.14,8.0,2022,116
+3.0,0:49,2.0,13.0,LVR 25,0.0,24.0,Derek Carr pass incomplete short right intended for Foster Moreau,-0.14,-0.82,8.0,2022,116
+3.0,0:43,,,,,,Timeout #1 by Las Vegas Raiders,,,8.0,2022,116
+3.0,0:43,3.0,13.0,LVR 25,0.0,24.0,Derek Carr pass complete short left to Mack Hollins for 14 yards,-0.82,1.53,8.0,2022,116
+3.0,0:06,1.0,10.0,LVR 39,0.0,24.0,"Josh Jacobs left end for no gain (tackle by Alontae Taylor). Penalty on Dylan Parham: Offensive Holding, 10 yards (accepted) (no play)",1.53,0.87,8.0,2022,116
+4.0,15:00,1.0,20.0,LVR 29,0.0,24.0,Derek Carr sacked by Payton Turner for -7 yards,0.87,-1.31,8.0,2022,116
+4.0,14:15,2.0,27.0,LVR 22,0.0,24.0,Derek Carr pass complete short left to Davante Adams for 3 yards (tackle by David Onyemata and Payton Turner),-1.31,-1.55,8.0,2022,116
+4.0,13:33,3.0,24.0,LVR 25,0.0,24.0,Derek Carr pass complete short left to Ameer Abdullah for 8 yards (tackle by Alontae Taylor),-1.55,-1.18,8.0,2022,116
+4.0,12:56,4.0,16.0,LVR 33,0.0,24.0,"AJ Cole punts 53 yards, fair catch by Rashid Shaheed at NO-14. Penalty on J.T. Gray: Offensive Holding, 7 yards (accepted)",-1.18,0.38,8.0,2022,116
+4.0,12:48,1.0,10.0,NOR 7,0.0,24.0,Taysom Hill left tackle for 5 yards (tackle by Divine Deablo),-0.38,-0.42,8.0,2022,116
+4.0,12:10,2.0,5.0,NOR 12,0.0,24.0,Andy Dalton pass complete short right to Chris Olave for 6 yards (tackle by Rock Ya-Sin),-0.42,0.04,8.0,2022,116
+4.0,11:35,1.0,10.0,NOR 18,0.0,24.0,Alvin Kamara left guard for 3 yards (tackle by Denzel Perryman and Trevon Moehrig),0.04,0.08,8.0,2022,116
+4.0,10:55,2.0,6.0,NOR 21,0.0,24.0,Alvin Kamara right tackle for 1 yard (tackle by Divine Deablo),0.08,-0.62,8.0,2022,116
+4.0,10:11,3.0,5.0,NOR 22,0.0,24.0,Andy Dalton pass complete short left to Chris Olave for 11 yards (tackle by Anthony Averett),-0.62,1.14,8.0,2022,116
+4.0,9:33,1.0,10.0,NOR 33,0.0,24.0,Alvin Kamara right tackle for 5 yards (tackle by Divine Deablo),1.14,1.27,8.0,2022,116
+4.0,8:49,2.0,5.0,NOR 38,0.0,24.0,Alvin Kamara right tackle for 4 yards (tackle by Bilal Nichols and Johnathan Abram),1.27,1.09,8.0,2022,116
+4.0,8:09,3.0,1.0,NOR 42,0.0,24.0,Alvin Kamara left guard for 2 yards (tackle by Chandler Jones),1.09,1.86,8.0,2022,116
+4.0,7:26,1.0,10.0,NOR 44,0.0,24.0,Taysom Hill right tackle for 2 yards (tackle by Blake Martinez and Neil Farrell),1.86,1.59,8.0,2022,116
+4.0,6:42,2.0,8.0,NOR 46,0.0,24.0,Dwayne Washington left tackle for 3 yards (tackle by Divine Deablo),1.59,1.29,8.0,2022,116
+4.0,5:56,,,,,,Timeout #1 by New Orleans Saints,,,8.0,2022,116
+4.0,5:56,3.0,5.0,NOR 49,0.0,24.0,Andy Dalton pass complete short right to Chris Olave for 13 yards (tackle by Rock Ya-Sin and Amik Robertson),1.29,3.05,8.0,2022,116
+4.0,5:13,1.0,10.0,LVR 38,0.0,24.0,Alvin Kamara right guard for no gain (tackle by Andrew Billings),3.05,2.51,8.0,2022,116
+4.0,4:29,2.0,10.0,LVR 38,0.0,24.0,Dwayne Washington left end for 3 yards (tackle by Denzel Perryman),2.51,2.21,8.0,2022,116
+4.0,3:45,3.0,7.0,LVR 35,0.0,24.0,Dwayne Washington right guard for 3 yards (tackle by Johnathan Abram and Maxx Crosby),2.21,1.27,8.0,2022,116
+4.0,3:40,,,,,,Timeout #2 by Las Vegas Raiders,,,8.0,2022,116
+4.0,3:40,4.0,4.0,LVR 32,0.0,24.0,Andy Dalton pass incomplete deep left intended for Juwan Johnson,1.27,-1.07,8.0,2022,116
+4.0,3:33,1.0,10.0,LVR 32,0.0,24.0,Jarrett Stidham pass incomplete short left intended for Keelan Cole,1.07,0.53,8.0,2022,116
+4.0,3:29,2.0,10.0,LVR 32,0.0,24.0,Jarrett Stidham pass complete short left to Keelan Cole for 18 yards (tackle by Alontae Taylor),0.53,2.26,8.0,2022,116
+4.0,3:04,1.0,10.0,LVR 50,0.0,24.0,Jarrett Stidham sacked by Payton Turner for -8 yards,2.26,0.63,8.0,2022,116
+4.0,2:25,2.0,18.0,LVR 42,0.0,24.0,Jarrett Stidham pass complete short right to Mack Hollins for 13 yards (tackle by Paulson Adebo),0.63,1.69,8.0,2022,116
+4.0,2:00,3.0,5.0,NOR 45,0.0,24.0,Jarrett Stidham pass incomplete deep right intended for Foster Moreau,1.69,0.27,8.0,2022,116
+4.0,1:56,4.0,5.0,NOR 45,0.0,24.0,Jarrett Stidham pass complete short right to Mack Hollins for 7 yards (tackle by Pete Werner),0.27,3.05,8.0,2022,116
+4.0,1:32,1.0,10.0,NOR 38,0.0,24.0,Jarrett Stidham pass incomplete short right intended for Foster Moreau,3.05,2.51,8.0,2022,116
+4.0,1:29,2.0,10.0,NOR 38,0.0,24.0,Jarrett Stidham pass complete short middle to Ameer Abdullah for 8 yards (tackle by Tyrann Mathieu),2.51,2.87,8.0,2022,116
+4.0,0:53,3.0,2.0,NOR 30,0.0,24.0,Jarrett Stidham pass incomplete short left intended for Ameer Abdullah (defended by Tyrann Mathieu),2.87,1.5,8.0,2022,116
+4.0,0:48,4.0,2.0,NOR 30,0.0,24.0,Jarrett Stidham pass complete short left to Keelan Cole for 12 yards (tackle by Tyrann Mathieu),1.5,4.37,8.0,2022,116
+4.0,0:37,,,,,,Timeout #3 by Las Vegas Raiders,,,8.0,2022,116
+4.0,0:37,1.0,10.0,NOR 18,0.0,24.0,Jarrett Stidham pass incomplete deep left intended for Keelan Cole (defended by Alontae Taylor),4.37,3.8,8.0,2022,116
+4.0,0:33,2.0,10.0,NOR 18,0.0,24.0,Jarrett Stidham pass complete short right to Mack Hollins for 9 yards (tackle by Paulson Adebo),3.8,4.74,8.0,2022,116
+4.0,0:12,3.0,1.0,NOR 9,0.0,24.0,Jarrett Stidham pass complete short right to Mack Hollins for 3 yards,4.74,5.83,8.0,2022,116
+4.0,0:07,1.0,6.0,NOR 6,0.0,24.0,Jarrett Stidham pass complete short right to Ameer Abdullah for 2 yards (tackle by Pete Werner),5.83,5.34,8.0,2022,116

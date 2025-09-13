@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,JAX 25,7,3:03,60,Field Goal,0,Jaguars,1.0,2022,8
+2,1,7:36,JAX 25,6,3:18,-2,Punt,0,Jaguars,1.0,2022,8
+3,2,11:47,JAX 25,3,1:05,5,Punt,0,Jaguars,1.0,2022,8
+4,2,9:07,JAX 29,8,4:08,68,Downs,0,Jaguars,1.0,2022,8
+5,2,1:22,JAX 34,10,1:06,47,Missed FG,0,Jaguars,1.0,2022,8
+6,3,11:58,JAX 20,6,3:08,80,Touchdown,0,Jaguars,1.0,2022,8
+7,3,6:45,JAX 20,11,5:29,55,Field Goal,0,Jaguars,1.0,2022,8
+8,4,14:19,WAS 45,6,2:15,19,Field Goal,0,Jaguars,1.0,2022,8
+9,4,11:52,WAS 11,1,0:07,11,Touchdown,0,Jaguars,1.0,2022,8
+10,4,9:36,JAX 25,4,2:48,27,Punt,0,Jaguars,1.0,2022,8
+11,4,1:46,JAX 25,4,0:36,19,Interception,0,Jaguars,1.0,2022,8

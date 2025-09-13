@@ -1,0 +1,71 @@
+Player,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Team,Draft Team,Draft Round,Draft Pick,Draft Year
+Yasir Abdullah,24.0,LB,14,3.0,240.0,73,Louisville,4/12/2000,1,2.0,Jacksonville Jaguars,Jacksonville Jaguars,5.0,136.0,2023.0
+Arik Armstead,31.0,DE,17,1.0,290.0,79,Oregon,11/15/1993,9,1.0,Jacksonville Jaguars,San Francisco 49ers,1.0,17.0,2015.0
+Tank Bigsby,23.0,RB,16,1.0,215.0,71,Auburn,8/30/2001,1,5.0,Jacksonville Jaguars,Jacksonville Jaguars,3.0,88.0,2023.0
+Christian Braswell,25.0,CB,3,0.0,185.0,71,Rutgers,9/27/1999,1,0.0,Jacksonville Jaguars,Jacksonville Jaguars,6.0,202.0,2023.0
+Montaric Brown,25.0,CB,17,10.0,190.0,72,Arkansas,8/24/1999,2,4.0,Jacksonville Jaguars,Jacksonville Jaguars,7.0,222.0,2022.0
+Tyson Campbell,24.0,RCB,12,12.0,195.0,73,Georgia,3/17/2000,3,4.0,Jacksonville Jaguars,Jacksonville Jaguars,2.0,33.0,2021.0
+Joshua Cephus,23.0,WR,1,0.0,193.0,74,Texas-San Antonio,3/5/2001,0,0.0,Jacksonville Jaguars,,,,
+Andre Cisco,24.0,SS,16,14.0,210.0,72,Syracuse,3/23/2000,3,5.0,Jacksonville Jaguars,Jacksonville Jaguars,3.0,65.0,2021.0
+Ezra Cleveland,26.0,LG,15,15.0,312.0,78,Boise St.,5/8/1998,4,6.0,Jacksonville Jaguars,Minnesota Vikings,2.0,58.0,2020.0
+Myles Cole,24.0,DE,8,0.0,278.0,78,"La-Monroe,Texas Tech",4/29/2000,0,0.0,Jacksonville Jaguars,Jacksonville Jaguars,7.0,236.0,2024.0
+DJ Coleman,26.0,DE,1,0.0,283.0,77,"Jacksonville St.,Missouri",9/2/1998,0,0.0,Jacksonville Jaguars,,,,
+Logan Cooke,29.0,P,17,0.0,230.0,77,Mississippi St.,7/28/1995,6,4.0,Jacksonville Jaguars,Jacksonville Jaguars,7.0,247.0,2018.0
+Elijah Cooks,26.0,WR,2,0.0,215.0,76,"Nevada,San Jose St.",10/13/1998,1,0.0,Jacksonville Jaguars,,,,
+Ronald Darby,30.0,LCB,13,12.0,193.0,71,Florida St.,1/2/1994,9,4.0,Jacksonville Jaguars,Buffalo Bills,2.0,50.0,2015.0
+Gabriel Davis,25.0,WR,10,9.0,225.0,74,Central Florida,4/1/1999,4,2.0,Jacksonville Jaguars,Buffalo Bills,4.0,128.0,2020.0
+Josiah Deguara,27.0,TE,15,0.0,238.0,74,Cincinnati,2/14/1997,4,0.0,Jacksonville Jaguars,Green Bay Packers,3.0,94.0,2020.0
+Devin Duvernay,27.0,WR,13,1.0,202.0,71,Texas,9/12/1997,4,1.0,Jacksonville Jaguars,Baltimore Ravens,3.0,92.0,2020.0
+Terrell Edmunds,27.0,S,1,0.0,217.0,73,Virginia Tech,1/20/1997,6,0.0,Jacksonville Jaguars,Pittsburgh Steelers,1.0,28.0,2018.0
+Evan Engram,30.0,TE,9,9.0,240.0,75,Mississippi,9/2/1994,7,3.0,Jacksonville Jaguars,New York Giants,1.0,23.0,2017.0
+Travis Etienne,25.0,RB,15,15.0,215.0,70,Clemson,1/26/1999,2,5.0,Jacksonville Jaguars,Jacksonville Jaguars,1.0,25.0,2021.0
+Luke Farrell,27.0,TE,17,8.0,250.0,77,Ohio St.,10/14/1997,3,1.0,Jacksonville Jaguars,Jacksonville Jaguars,5.0,145.0,2021.0
+Tre Flowers,29.0,CB,4,0.0,200.0,75,Oklahoma St.,6/2/1995,6,0.0,Jacksonville Jaguars,Seattle Seahawks,5.0,146.0,2018.0
+Luke Fortner,26.0,OL,17,0.0,307.0,76,Kentucky,5/15/1998,2,1.0,Jacksonville Jaguars,Jacksonville Jaguars,3.0,65.0,2022.0
+Javon Foster,24.0,OL,4,0.0,313.0,78,Missouri,3/31/2000,0,0.0,Jacksonville Jaguars,Jacksonville Jaguars,4.0,114.0,2024.0
+Joe Gaziano,28.0,DE,3,0.0,280.0,76,Northwestern,9/27/1996,4,0.0,Jacksonville Jaguars,,,,
+Joe Giles-Harris,27.0,LB,2,0.0,234.0,74,Duke,4/1/1997,5,0.0,Jacksonville Jaguars,,,,
+DaVon Hamilton,27.0,RDT,17,14.0,335.0,76,Ohio St.,2/1/1997,4,5.0,Jacksonville Jaguars,Jacksonville Jaguars,3.0,73.0,2020.0
+Blake Hance,28.0,OL,9,1.0,310.0,77,Northwestern,1/11/1996,3,1.0,Jacksonville Jaguars,,,,
+Anton Harrison,22.0,RT,16,16.0,315.0,76,Oklahoma,2/2/2002,1,7.0,Jacksonville Jaguars,Jacksonville Jaguars,1.0,27.0,2023.0
+Josh Hines-Allen,27.0,LDE,16,16.0,255.0,77,Kentucky,7/13/1997,5,7.0,Jacksonville Jaguars,Jacksonville Jaguars,1.0,7.0,2019.0
+Cooper Hodges,24.0,OL,9,1.0,305.0,76,Appalachian St.,7/13/2000,1,1.0,Jacksonville Jaguars,Jacksonville Jaguars,7.0,226.0,2023.0
+Matthew Jackson,26.0,CB,1,0.0,209.0,73,Eastern Kentucky,11/9/1998,1,0.0,Jacksonville Jaguars,,,,
+Jordan Jefferson,23.0,DT,8,0.0,316.0,74,"West Virginia,LSU",9/24/2001,0,1.0,Jacksonville Jaguars,Jacksonville Jaguars,4.0,116.0,2024.0
+Antonio Johnson,23.0,S,17,8.0,198.0,74,Texas A&M,10/29/2001,1,3.0,Jacksonville Jaguars,Jacksonville Jaguars,5.0,160.0,2023.0
+Caleb Johnson,26.0,LB,17,0.0,220.0,74,Houston Christian,7/28/1998,3,1.0,Jacksonville Jaguars,,,,
+D'Ernest Johnson,28.0,RB,14,1.0,208.0,70,South Florida,2/27/1996,5,2.0,Jacksonville Jaguars,,,,
+Jarrian Jones,23.0,CB,17,4.0,190.0,71,"Mississippi St.,Florida St.",5/8/2001,0,2.0,Jacksonville Jaguars,Jacksonville Jaguars,3.0,96.0,2024.0
+Mac Jones,26.0,QB,10,7.0,220.0,75,Alabama,9/5/1998,3,3.0,Jacksonville Jaguars,New England Patriots,1.0,15.0,2021.0
+Tim Jones,26.0,WR,17,0.0,200.0,73,Southern Miss,5/16/1998,2,0.0,Jacksonville Jaguars,,,,
+Christian Kirk,28.0,WR,8,7.0,200.0,71,Texas A&M,11/18/1996,6,3.0,Jacksonville Jaguars,Arizona Cardinals,2.0,47.0,2018.0
+Tyler Lacy,25.0,LDT,13,8.0,279.0,76,Oklahoma St.,11/10/1999,1,3.0,Jacksonville Jaguars,Jacksonville Jaguars,4.0,130.0,2023.0
+Trevor Lawrence,25.0,QB,10,10.0,220.0,78,Clemson,10/6/1999,3,6.0,Jacksonville Jaguars,Jacksonville Jaguars,1.0,1.0,2021.0
+Jeremiah Ledbetter,30.0,DT,15,3.0,299.0,75,Arkansas,6/2/1994,7,2.0,Jacksonville Jaguars,Detroit Lions,6.0,205.0,2017.0
+Cam Little,21.0,K,17,0.0,180.0,73,Arkansas,8/17/2003,0,5.0,Jacksonville Jaguars,Jacksonville Jaguars,6.0,212.0,2024.0
+Walker Little,25.0,LT,15,8.0,325.0,79,Stanford,4/1/1999,3,3.0,Jacksonville Jaguars,Jacksonville Jaguars,2.0,45.0,2021.0
+Devin Lloyd,26.0,RLB,16,16.0,235.0,75,Utah,9/30/1998,2,6.0,Jacksonville Jaguars,Jacksonville Jaguars,1.0,27.0,2022.0
+Ross Matiscik,28.0,LS,17,0.0,240.0,72,Baylor,9/13/1996,4,2.0,Jacksonville Jaguars,,,,
+Ventrell Miller,25.0,LLB,15,9.0,232.0,72,Florida,1/15/1999,1,4.0,Jacksonville Jaguars,Jacksonville Jaguars,4.0,121.0,2023.0
+Mitch Morse,32.0,C,17,17.0,305.0,78,Missouri,4/21/1992,9,6.0,Jacksonville Jaguars,Kansas City Chiefs,2.0,49.0,2015.0
+Chad Muma,25.0,LB,17,3.0,239.0,75,Wyoming,8/18/1999,2,2.0,Jacksonville Jaguars,Jacksonville Jaguars,3.0,70.0,2022.0
+Tanner Muse,28.0,LB,3,0.0,227.0,74,Clemson,9/6/1996,3,0.0,Jacksonville Jaguars,Las Vegas Raiders,3.0,100.0,2020.0
+Foyesade Oluokun,29.0,MLB,13,13.0,230.0,74,Yale,8/2/1995,6,5.0,Jacksonville Jaguars,Atlanta Falcons,6.0,200.0,2018.0
+Esezi Otomewo,26.0,DT,4,2.0,282.0,77,Minnesota,12/30/1998,2,1.0,Jacksonville Jaguars,Minnesota Vikings,5.0,165.0,2022.0
+Anthony Pittman,28.0,LB,1,0.0,224.0,75,Wayne State (MI),11/24/1996,5,0.0,Jacksonville Jaguars,,,,
+Deantre Prince,24.0,CB,10,0.0,183.0,72,"Northeast Mississippi CC,Mississippi",10/12/2000,0,1.0,Jacksonville Jaguars,Jacksonville Jaguars,5.0,153.0,2024.0
+Josh Reynolds,29.0,WR,4,1.0,192.0,75,Texas A&M,2/16/1995,7,0.0,Jacksonville Jaguars,Los Angeles Rams,4.0,117.0,2017.0
+Roy Robertson-Harris,31.0,DT,6,2.0,290.0,77,Texas-El Paso,7/23/1993,7,1.0,Jacksonville Jaguars,,,,
+Cam Robinson,29.0,OL,7,7.0,335.0,78,Alabama,10/9/1995,7,3.0,Jacksonville Jaguars,Jacksonville Jaguars,2.0,34.0,2017.0
+Keilan Robinson,24.0,RB,6,0.0,191.0,68,"Alabama,Texas",2/16/2000,0,0.0,Jacksonville Jaguars,Jacksonville Jaguars,5.0,167.0,2024.0
+Darnell Savage Jr.,27.0,FS,13,13.0,198.0,71,Maryland,7/30/1997,5,4.0,Jacksonville Jaguars,Green Bay Packers,1.0,21.0,2019.0
+Brandon Scherff,33.0,RG,17,17.0,315.0,77,Iowa,12/26/1991,9,6.0,Jacksonville Jaguars,Washington Redskins,1.0,5.0,2015.0
+Maason Smith,22.0,DT,11,5.0,306.0,77,LSU,10/13/2002,0,2.0,Jacksonville Jaguars,Jacksonville Jaguars,2.0,48.0,2024.0
+Brenton Strange,24.0,TE,17,10.0,253.0,76,Penn St.,12/27/2000,1,3.0,Jacksonville Jaguars,Jacksonville Jaguars,2.0,61.0,2023.0
+Brian Thomas,22.0,WR,17,16.0,209.0,75,LSU,10/8/2002,0,11.0,Jacksonville Jaguars,Jacksonville Jaguars,1.0,23.0,2024.0
+Daniel Thomas,26.0,S,15,0.0,215.0,70,Auburn,7/1/1998,4,1.0,Jacksonville Jaguars,Jacksonville Jaguars,5.0,157.0,2020.0
+Austin Trammell,26.0,WR,1,0.0,185.0,70,Rice,7/4/1998,3,0.0,Jacksonville Jaguars,,,,
+Cole Van Lanen,26.0,OL,9,3.0,312.0,77,Wisconsin,4/23/1998,3,1.0,Jacksonville Jaguars,Green Bay Packers,6.0,214.0,2021.0
+Travon Walker,24.0,RDE,17,17.0,272.0,77,Georgia,12/18/2000,2,8.0,Jacksonville Jaguars,Jacksonville Jaguars,1.0,1.0,2022.0
+Parker Washington,22.0,WR,17,7.0,204.0,70,Penn St.,3/21/2002,1,4.0,Jacksonville Jaguars,Jacksonville Jaguars,6.0,185.0,2023.0
+Andrew Wingard,28.0,S,8,2.0,200.0,72,Wyoming,12/5/1996,5,1.0,Jacksonville Jaguars,,,,

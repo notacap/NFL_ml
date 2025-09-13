@@ -1,0 +1,161 @@
+Quarter,Time,Down,ToGo,Location,LAR,SFO,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"49ers won the coin toss and deferred, Rams to receive the opening kickoff.",,,4.0,2022,64
+1.0,15:00,,,SFO 35,0.0,0.0,"Robbie Gould kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,64
+1.0,15:00,1.0,10.0,LAR 25,0.0,0.0,Cam Akers right guard for 4 yards (tackle by Fred Warner),0.61,0.6,4.0,2022,64
+1.0,14:30,2.0,6.0,LAR 29,0.0,0.0,Matthew Stafford pass complete short right to Cooper Kupp for 7 yards (tackle by Charvarius Ward),0.6,1.33,4.0,2022,64
+1.0,13:58,1.0,10.0,LAR 36,0.0,0.0,Cam Akers right tackle for 1 yard (tackle by Nick Bosa),1.33,0.93,4.0,2022,64
+1.0,13:36,2.0,9.0,LAR 37,0.0,0.0,Matthew Stafford pass complete short middle to Tyler Higbee for 8 yards (tackle by Dre Greenlaw),0.93,1.29,4.0,2022,64
+1.0,13:08,3.0,1.0,LAR 45,0.0,0.0,Matthew Stafford pass complete short middle to Cooper Kupp for 10 yards (tackle by Deommodore Lenoir),1.29,2.59,4.0,2022,64
+1.0,12:23,1.0,10.0,SFO 45,0.0,0.0,Matthew Stafford scrambles right end for 4 yards (tackle by Dre Greenlaw),2.59,2.58,4.0,2022,64
+1.0,11:54,2.0,6.0,SFO 41,0.0,0.0,Matthew Stafford pass complete short left to Cooper Kupp for 10 yards (tackle by Dre Greenlaw and Fred Warner),2.58,3.51,4.0,2022,64
+1.0,11:18,1.0,10.0,SFO 31,0.0,0.0,Matthew Stafford pass complete short right to Tyler Higbee for 4 yards (tackle by Dre Greenlaw),3.51,3.51,4.0,2022,64
+1.0,10:29,2.0,6.0,SFO 27,0.0,0.0,Cam Akers left tackle for 1 yard (tackle by Emmanuel Moseley and Talanoa Hufanga),3.51,2.94,4.0,2022,64
+1.0,10:05,3.0,5.0,SFO 26,0.0,0.0,Matthew Stafford pass complete short right to Tyler Higbee for 7 yards (tackle by Fred Warner),2.94,4.31,4.0,2022,64
+1.0,9:20,1.0,10.0,SFO 19,0.0,0.0,"Penalty on Joseph Noteboom: False Start, 5 yards (accepted) (no play)",4.31,3.97,4.0,2022,64
+1.0,9:01,1.0,15.0,SFO 24,0.0,0.0,Matthew Stafford pass complete short left to Darrell Henderson for 6 yards (tackle by Dre Greenlaw),3.97,3.88,4.0,2022,64
+1.0,8:21,2.0,9.0,SFO 18,0.0,0.0,Matthew Stafford sacked by Samson Ebukam for -10 yards,3.88,1.88,4.0,2022,64
+1.0,7:37,3.0,19.0,SFO 28,0.0,0.0,Darrell Henderson left tackle for 7 yards (tackle by Dre Greenlaw and Drake Jackson),1.88,2.06,4.0,2022,64
+1.0,6:53,4.0,12.0,SFO 21,3.0,0.0,Matt Gay 39 yard field goal good,2.06,3.0,4.0,2022,64
+1.0,6:48,,,LAR 35,3.0,0.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,64
+1.0,6:48,1.0,10.0,SFO 25,3.0,0.0,Jimmy Garoppolo pass complete short left to Brandon Aiyuk for 15 yards (tackle by Taylor Rapp),0.61,1.6,4.0,2022,64
+1.0,6:10,1.0,10.0,SFO 40,3.0,0.0,Deebo Samuel up the middle for 1 yard (tackle by Leonard Floyd and Greg Gaines),1.6,1.19,4.0,2022,64
+1.0,5:38,2.0,9.0,SFO 41,3.0,0.0,Jimmy Garoppolo pass incomplete short right,1.19,0.5,4.0,2022,64
+1.0,5:35,3.0,9.0,SFO 41,3.0,0.0,Jimmy Garoppolo pass complete short left to Jauan Jennings for 10 yards (tackle by Grant Haley and Taylor Rapp),0.5,2.32,4.0,2022,64
+1.0,4:57,1.0,10.0,LAR 49,3.0,0.0,Jeff Wilson right tackle for -2 yards (tackle by Aaron Donald),2.32,1.51,4.0,2022,64
+1.0,4:15,2.0,12.0,SFO 49,3.0,0.0,Jimmy Garoppolo pass complete short left to Deebo Samuel for 7 yards (tackle by Ernest Jones and Taylor Rapp),1.51,1.75,4.0,2022,64
+1.0,3:37,3.0,5.0,LAR 44,3.0,0.0,Jimmy Garoppolo pass complete short left to Jauan Jennings for 12 yards (tackle by Bobby Wagner),1.75,3.45,4.0,2022,64
+1.0,2:52,,,,,,Timeout #1 by San Francisco 49ers,,,4.0,2022,64
+1.0,2:52,1.0,10.0,LAR 32,3.0,6.0,"Jeff Wilson left guard for 32 yards, touchdown",3.45,7.0,4.0,2022,64
+1.0,2:46,,,LAR 15,3.0,7.0,Robbie Gould kicks extra point good,0.0,0.0,4.0,2022,64
+1.0,2:46,,,SFO 35,3.0,7.0,"Robbie Gould kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,64
+1.0,2:46,1.0,10.0,LAR 25,3.0,7.0,Cam Akers up the middle for 2 yards (tackle by Charles Omenihu and Dre Greenlaw),0.61,0.33,4.0,2022,64
+1.0,2:25,2.0,8.0,LAR 27,3.0,7.0,Matthew Stafford pass incomplete short left intended for Cam Akers,0.33,-0.36,4.0,2022,64
+1.0,2:21,3.0,8.0,LAR 27,3.0,7.0,Matthew Stafford sacked by Nick Bosa for -9 yards,-0.36,-2.24,4.0,2022,64
+1.0,1:37,4.0,17.0,LAR 18,3.0,7.0,Riley Dixon punts 56 yards downed by Terrell Burgess,-2.24,-0.67,4.0,2022,64
+1.0,1:27,1.0,10.0,SFO 26,3.0,7.0,Jimmy Garoppolo pass complete short right to Deebo Samuel for 15 yards (tackle by Nick Scott),0.67,1.66,4.0,2022,64
+1.0,0:47,1.0,10.0,SFO 41,3.0,7.0,Deebo Samuel left tackle for 1 yard (tackle by Bobby Wagner),1.66,1.26,4.0,2022,64
+2.0,15:00,2.0,9.0,SFO 42,3.0,7.0,Jimmy Garoppolo pass complete short right to Brandon Aiyuk for 11 yards (tackle by A'Shawn Robinson and Bobby Wagner),1.26,2.46,4.0,2022,64
+2.0,14:14,1.0,10.0,LAR 47,3.0,7.0,Jeff Wilson right tackle for 2 yards (tackle by Leonard Floyd),2.46,2.18,4.0,2022,64
+2.0,13:35,2.0,8.0,LAR 45,3.0,7.0,Jeff Wilson left tackle for 2 yards (tackle by Bobby Wagner and Justin Hollins),2.18,1.75,4.0,2022,64
+2.0,12:55,3.0,6.0,LAR 43,3.0,7.0,Jimmy Garoppolo pass incomplete short right intended for Jauan Jennings,1.75,0.4,4.0,2022,64
+2.0,12:49,4.0,6.0,LAR 43,3.0,7.0,"Mitch Wishnowsky punts 43 yards, touchback.",0.4,-0.28,4.0,2022,64
+2.0,12:40,1.0,10.0,LAR 20,3.0,7.0,Matthew Stafford pass incomplete short right intended for Cooper Kupp,0.28,-0.27,4.0,2022,64
+2.0,12:36,2.0,10.0,LAR 20,3.0,7.0,Darrell Henderson up the middle for 1 yard (tackle by Fred Warner),-0.27,-0.82,4.0,2022,64
+2.0,12:06,3.0,9.0,LAR 21,3.0,7.0,Matthew Stafford pass incomplete deep right intended for Allen Robinson,-0.82,-1.96,4.0,2022,64
+2.0,11:58,4.0,9.0,LAR 21,3.0,7.0,Riley Dixon punts 57 yards out of bounds,-1.96,-0.41,4.0,2022,64
+2.0,11:51,1.0,10.0,SFO 22,3.0,7.0,Jimmy Garoppolo pass incomplete deep left intended for Charlie Woerner,0.41,-0.13,4.0,2022,64
+2.0,11:47,2.0,10.0,SFO 22,3.0,7.0,Jimmy Garoppolo pass incomplete short right intended for Ray-Ray McCloud (defended by Jalen Ramsey),-0.13,-0.82,4.0,2022,64
+2.0,11:42,3.0,10.0,SFO 22,3.0,7.0,Jimmy Garoppolo pass incomplete deep right intended for Jauan Jennings,-0.82,-1.9,4.0,2022,64
+2.0,11:38,4.0,10.0,SFO 22,3.0,7.0,"Mitch Wishnowsky punts 43 yards, fair catch by Brandon Powell at LA-35",-1.9,-1.27,4.0,2022,64
+2.0,11:30,1.0,10.0,LAR 35,3.0,7.0,Matthew Stafford pass complete short left to Tyler Higbee for 7 yards (tackle by Emmanuel Moseley),1.27,1.67,4.0,2022,64
+2.0,10:54,2.0,3.0,LAR 42,3.0,7.0,Matthew Stafford up the middle for 2 yards (tackle by Arik Armstead and Kevin Givens),1.67,1.22,4.0,2022,64
+2.0,10:19,3.0,1.0,LAR 44,3.0,7.0,"Penalty on Kevin Givens: Neutral Zone Infraction, 5 yards (accepted) (no play)",1.22,2.19,4.0,2022,64
+2.0,9:58,1.0,10.0,LAR 49,3.0,7.0,Cam Akers right guard for 6 yards (tackle by Arik Armstead),2.19,2.46,4.0,2022,64
+2.0,9:19,2.0,4.0,SFO 45,3.0,7.0,Matthew Stafford pass complete short left to Tyler Higbee for 7 yards (tackle by Emmanuel Moseley),2.46,3.05,4.0,2022,64
+2.0,8:33,1.0,10.0,SFO 38,3.0,7.0,Matthew Stafford pass complete deep left to Cooper Kupp for 18 yards,3.05,4.24,4.0,2022,64
+2.0,7:56,1.0,10.0,SFO 20,3.0,7.0,Brandon Powell left end for 11 yards (tackle by Deommodore Lenoir),4.24,5.14,4.0,2022,64
+2.0,7:17,1.0,9.0,SFO 9,3.0,7.0,Matthew Stafford pass complete short left to Cooper Kupp for -2 yards (tackle by Emmanuel Moseley),5.14,4.02,4.0,2022,64
+2.0,6:35,2.0,11.0,SFO 11,3.0,7.0,Matthew Stafford pass incomplete short middle intended for Ben Skowronek,4.02,3.12,4.0,2022,64
+2.0,6:30,3.0,11.0,SFO 11,3.0,7.0,Matthew Stafford pass incomplete short middle intended for Cooper Kupp,3.12,2.7,4.0,2022,64
+2.0,6:26,4.0,11.0,SFO 11,6.0,7.0,Matt Gay 29 yard field goal good,2.7,3.0,4.0,2022,64
+2.0,6:22,,,LAR 35,6.0,7.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,64
+2.0,6:22,1.0,10.0,SFO 25,6.0,7.0,Jimmy Garoppolo pass complete short left to Brandon Aiyuk for 5 yards (tackle by Derion Kendrick),0.61,0.74,4.0,2022,64
+2.0,5:46,2.0,5.0,SFO 30,6.0,7.0,Jeff Wilson left tackle for 3 yards (tackle by Justin Hollins),0.74,0.43,4.0,2022,64
+2.0,5:07,3.0,2.0,SFO 33,6.0,7.0,Jimmy Garoppolo scrambles up the middle for 3 yards (tackle by Bobby Wagner),0.43,1.33,4.0,2022,64
+2.0,4:26,1.0,10.0,SFO 36,6.0,7.0,Jeff Wilson right tackle for 6 yards (tackle by Grant Haley),1.33,1.6,4.0,2022,64
+2.0,3:45,2.0,4.0,SFO 42,6.0,7.0,Jeff Wilson right tackle for 1 yard (tackle by Aaron Donald),1.6,1.03,4.0,2022,64
+2.0,3:01,3.0,3.0,SFO 43,6.0,13.0,"Jimmy Garoppolo pass complete short left to Deebo Samuel for 57 yards, touchdown",1.03,7.0,4.0,2022,64
+2.0,2:46,,,LAR 15,6.0,14.0,Robbie Gould kicks extra point good,0.0,0.0,4.0,2022,64
+2.0,2:46,,,SFO 35,6.0,14.0,"Robbie Gould kicks off 64 yards, returned by Brandon Powell for 20 yards (tackle by Demetrius Flannigan-Fowles)",0.0,0.34,4.0,2022,64
+2.0,2:39,1.0,10.0,LAR 21,6.0,14.0,Matthew Stafford pass incomplete short left intended for Cooper Kupp (defended by Kevin Givens),0.34,-0.2,4.0,2022,64
+2.0,2:36,2.0,10.0,LAR 21,6.0,14.0,Darrell Henderson up the middle for 5 yards (tackle by Samson Ebukam),-0.2,-0.16,4.0,2022,64
+2.0,2:00,3.0,4.0,LAR 26,6.0,14.0,Matthew Stafford pass complete short right to Cooper Kupp for 7 yards (tackle by Fred Warner),-0.16,1.14,4.0,2022,64
+2.0,1:40,1.0,10.0,LAR 33,6.0,14.0,Matthew Stafford pass complete short right to Cooper Kupp for 8 yards (tackle by Charvarius Ward),1.14,1.67,4.0,2022,64
+2.0,1:19,2.0,2.0,LAR 41,6.0,14.0,Matthew Stafford sacked by Charles Omenihu for -11 yards,1.67,-0.49,4.0,2022,64
+2.0,0:46,3.0,13.0,LAR 30,6.0,14.0,Matthew Stafford sacked by Deommodore Lenoir for -9 yards,-0.49,-1.96,4.0,2022,64
+2.0,0:41,,,,,,Timeout #2 by San Francisco 49ers,,,4.0,2022,64
+2.0,0:41,4.0,22.0,LAR 21,6.0,14.0,"Riley Dixon punts 60 yards, returned by Ray-Ray McCloud for 12 yards (tackle by Robert Rochell)",-1.96,-1.0,4.0,2022,64
+2.0,0:31,1.0,10.0,SFO 31,6.0,14.0,Jimmy Garoppolo pass complete short right to Ray-Ray McCloud for 6 yards (tackle by Greg Gaines and Grant Haley),1.0,1.27,4.0,2022,64
+2.0,0:12,2.0,4.0,SFO 37,6.0,14.0,Jimmy Garoppolo pass incomplete short right intended for Deebo Samuel (defended by Derion Kendrick),1.27,0.56,4.0,2022,64
+2.0,0:08,3.0,4.0,SFO 37,6.0,14.0,Jimmy Garoppolo pass incomplete deep left intended for Ray-Ray McCloud,0.56,-0.91,4.0,2022,64
+2.0,0:02,4.0,4.0,SFO 37,6.0,14.0,Jimmy Garoppolo pass incomplete deep right,-0.91,1.4,4.0,2022,64
+3.0,15:00,,,LAR 35,6.0,14.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,64
+3.0,15:00,1.0,10.0,SFO 25,6.0,14.0,Jeff Wilson left guard for 1 yard (tackle by Ernest Jones and Justin Hollins),0.61,0.2,4.0,2022,64
+3.0,14:25,2.0,9.0,SFO 26,6.0,14.0,Jimmy Garoppolo pass complete deep left to George Kittle for 20 yards (tackle by Ernest Jones and Bobby Wagner),0.2,1.99,4.0,2022,64
+3.0,13:44,1.0,10.0,SFO 46,6.0,14.0,Jimmy Garoppolo pass incomplete short right intended for Ross Dwelley (defended by Grant Haley),1.99,1.45,4.0,2022,64
+3.0,13:37,2.0,10.0,SFO 46,6.0,14.0,Jeff Wilson left guard for 5 yards (tackle by Nick Scott),1.45,1.42,4.0,2022,64
+3.0,12:55,3.0,5.0,LAR 49,6.0,14.0,Jimmy Garoppolo pass complete short left to Deebo Samuel for no gain (tackle by Ernest Jones),1.42,0.0,4.0,2022,64
+3.0,12:19,4.0,5.0,LAR 49,6.0,14.0,Mitch Wishnowsky punts 31 yards downed by Oren Burks,0.0,-0.04,4.0,2022,64
+3.0,12:08,1.0,10.0,LAR 18,6.0,14.0,Matthew Stafford pass complete short left to Cooper Kupp for 4 yards (tackle by Talanoa Hufanga),0.04,0.14,4.0,2022,64
+3.0,11:29,2.0,6.0,LAR 22,6.0,14.0,Matthew Stafford pass complete short right to Cooper Kupp for 12 yards (tackle by Talanoa Hufanga),0.14,1.2,4.0,2022,64
+3.0,10:40,1.0,10.0,LAR 34,6.0,14.0,Matthew Stafford pass complete short middle to Ben Skowronek for 16 yards (tackle by Tashaun Gipson),1.2,2.26,4.0,2022,64
+3.0,10:00,1.0,10.0,LAR 50,6.0,14.0,Darrell Henderson right guard for 3 yards (tackle by Tashaun Gipson),2.26,2.12,4.0,2022,64
+3.0,9:38,2.0,7.0,SFO 47,6.0,14.0,Matthew Stafford pass complete short middle to Tyler Higbee for 12 yards (tackle by Deommodore Lenoir and Fred Warner),2.12,3.25,4.0,2022,64
+3.0,8:55,1.0,10.0,SFO 35,6.0,14.0,Matthew Stafford pass incomplete short left intended for Tyler Higbee,3.25,2.7,4.0,2022,64
+3.0,8:51,2.0,10.0,SFO 35,6.0,14.0,Matthew Stafford pass complete short right to Cooper Kupp for 7 yards (tackle by Dre Greenlaw),2.7,2.94,4.0,2022,64
+3.0,8:08,3.0,3.0,SFO 28,6.0,14.0,Matthew Stafford pass complete short left to Allen Robinson for 2 yards (tackle by Emmanuel Moseley),2.94,1.89,4.0,2022,64
+3.0,7:25,4.0,1.0,SFO 26,6.0,14.0,Cam Akers right guard for 4 yards (tackle by Charvarius Ward),1.89,4.11,4.0,2022,64
+3.0,6:48,1.0,10.0,SFO 22,6.0,14.0,Matthew Stafford sacked by Nick Bosa for -1 yards,4.11,3.43,4.0,2022,64
+3.0,6:15,2.0,11.0,SFO 23,6.0,14.0,"Matthew Stafford pass incomplete short right intended for Cam Akers. Penalty on Fred Warner: Illegal Contact, 5 yards (accepted) (no play)",3.43,4.37,4.0,2022,64
+3.0,6:09,1.0,10.0,SFO 18,6.0,14.0,Cam Akers left end for -3 yards (tackle by Dre Greenlaw),4.37,3.42,4.0,2022,64
+3.0,5:26,2.0,13.0,SFO 21,6.0,14.0,Matthew Stafford pass complete short right to Cooper Kupp for 14 yards (tackle by Charvarius Ward),3.42,5.6,4.0,2022,64
+3.0,4:41,1.0,7.0,SFO 7,6.0,14.0,Matthew Stafford pass incomplete short right intended for Tyler Higbee,5.6,4.76,4.0,2022,64
+3.0,4:37,2.0,7.0,SFO 7,6.0,14.0,Matthew Stafford pass incomplete short right intended for Allen Robinson (defended by Charvarius Ward),4.76,3.81,4.0,2022,64
+3.0,4:33,3.0,7.0,SFO 7,6.0,14.0,Matthew Stafford pass incomplete short left intended for Tyler Higbee,3.81,2.97,4.0,2022,64
+3.0,4:28,4.0,7.0,SFO 7,9.0,14.0,Matt Gay 26 yard field goal good,2.97,3.0,4.0,2022,64
+3.0,4:25,,,LAR 35,9.0,14.0,"Matt Gay kicks off 61 yards, returned by Ray-Ray McCloud for 21 yards. Ray-Ray McCloud fumbles (forced by Jordan Fuller), recovered by Marlon Mack at SF-27 (tackle by Jordan Fuller)",0.0,0.74,4.0,2022,64
+3.0,4:17,1.0,10.0,SFO 27,9.0,14.0,Jimmy Garoppolo pass complete short right to Kyle Juszczyk for 35 yards (tackle by Nick Scott),0.74,3.05,4.0,2022,64
+3.0,3:48,1.0,10.0,LAR 38,9.0,14.0,Jeff Wilson up the middle for 5 yards (tackle by Nick Scott and Jordan Fuller),3.05,3.18,4.0,2022,64
+3.0,3:08,2.0,5.0,LAR 33,9.0,14.0,Jeff Wilson right guard for 8 yards (tackle by Bobby Wagner),3.18,3.91,4.0,2022,64
+3.0,2:23,1.0,10.0,LAR 25,9.0,14.0,Jeff Wilson up the middle for 8 yards (tackle by Derion Kendrick),3.91,4.55,4.0,2022,64
+3.0,1:42,2.0,2.0,LAR 17,9.0,14.0,Kyle Juszczyk left tackle for 9 yards (tackle by Jalen Ramsey),4.55,5.37,4.0,2022,64
+3.0,0:56,1.0,8.0,LAR 8,9.0,14.0,Jimmy Garoppolo pass complete short right to Deebo Samuel for 7 yards (tackle by Bobby Wagner and Derion Kendrick),5.37,5.91,4.0,2022,64
+3.0,0:07,2.0,1.0,LAR 1,9.0,14.0,Jeff Wilson right tackle for no gain (tackle by Bobby Wagner and Leonard Floyd),5.91,5.17,4.0,2022,64
+4.0,15:00,3.0,1.0,LAR 1,9.0,14.0,"Jimmy Garoppolo pass complete short right to George Kittle for no gain Replay Assistant challenged the pass completion ruling, and the original play was overturned. Jimmy Garoppolo pass incomplete short right intended for George Kittle",5.17,3.55,4.0,2022,64
+4.0,14:55,4.0,1.0,LAR 1,9.0,14.0,"Penalty on SFO: Delay of Game, 5 yards (accepted) (no play)",3.55,2.99,4.0,2022,64
+4.0,14:56,4.0,6.0,LAR 6,9.0,17.0,Robbie Gould 25 yard field goal good,2.99,3.0,4.0,2022,64
+4.0,14:53,,,SFO 35,9.0,17.0,"Robbie Gould kicks off 60 yards, returned by Brandon Powell for 16 yards (tackle by Charlie Woerner and Malik Turner)",0.0,0.34,4.0,2022,64
+4.0,14:47,1.0,10.0,LAR 21,9.0,17.0,Cam Akers up the middle for -2 yards (tackle by Kevin Givens),0.34,-0.53,4.0,2022,64
+4.0,14:04,2.0,12.0,LAR 19,9.0,17.0,Matthew Stafford pass complete short right to Darrell Henderson for 2 yards (tackle by Fred Warner),-0.53,-0.89,4.0,2022,64
+4.0,13:39,3.0,10.0,LAR 21,9.0,17.0,Matthew Stafford pass incomplete short left intended for Cooper Kupp,-0.89,-1.96,4.0,2022,64
+4.0,13:32,4.0,10.0,LAR 21,9.0,17.0,"Riley Dixon punts 56 yards, returned by Ray-Ray McCloud for 22 yards (tackle by Riley Dixon and Jake Funk)",-1.96,-1.93,4.0,2022,64
+4.0,13:19,1.0,10.0,SFO 45,9.0,17.0,Jeff Wilson left tackle for 3 yards (tackle by Bobby Wagner),1.93,1.79,4.0,2022,64
+4.0,12:25,2.0,7.0,SFO 48,9.0,17.0,"Deebo Samuel up the middle for 4 yards (tackle by Bobby Wagner). Penalty on Jake Brendel: Offensive Holding, 10 yards (accepted) (no play)",1.79,0.44,4.0,2022,64
+4.0,12:09,2.0,17.0,SFO 38,9.0,17.0,Jimmy Garoppolo pass complete short right to George Kittle for 4 yards (tackle by Grant Haley and Aaron Donald),0.44,0.3,4.0,2022,64
+4.0,11:27,3.0,13.0,SFO 42,9.0,17.0,Jimmy Garoppolo pass complete short left to Deebo Samuel for 29 yards (tackle by Leonard Floyd),0.3,3.64,4.0,2022,64
+4.0,10:10,1.0,10.0,LAR 29,9.0,17.0,Jeff Wilson right tackle for -1 yards (tackle by Aaron Donald),3.64,2.97,4.0,2022,64
+4.0,9:28,2.0,11.0,LAR 30,9.0,17.0,Jimmy Garoppolo pass incomplete short right intended for George Kittle,2.97,2.28,4.0,2022,64
+4.0,9:24,3.0,11.0,LAR 30,9.0,17.0,Jimmy Garoppolo pass complete short left to Brandon Aiyuk for 6 yards (tackle by Jalen Ramsey),2.28,1.92,4.0,2022,64
+4.0,8:43,4.0,5.0,LAR 24,9.0,17.0,Robbie Gould 42 yard field goal no good,1.92,-1.14,4.0,2022,64
+4.0,8:38,1.0,10.0,LAR 33,9.0,17.0,Darrell Henderson right tackle for 2 yards (tackle by Samson Ebukam and Kevin Givens),1.14,0.86,4.0,2022,64
+4.0,8:18,2.0,8.0,LAR 35,9.0,17.0,Matthew Stafford pass complete short right to Tyler Higbee for 10 yards (tackle by Dre Greenlaw),0.86,1.93,4.0,2022,64
+4.0,7:42,1.0,10.0,LAR 45,9.0,17.0,Matthew Stafford pass complete short right to Tyler Higbee for 6 yards (tackle by Dre Greenlaw),1.93,2.19,4.0,2022,64
+4.0,7:20,2.0,4.0,SFO 49,9.0,17.0,Matthew Stafford pass complete short middle to Cooper Kupp for 5 yards (tackle by Deommodore Lenoir),2.19,2.65,4.0,2022,64
+4.0,6:36,1.0,10.0,SFO 44,9.0,23.0,"Matthew Stafford pass intended for Cooper Kupp is intercepted by Talanoa Hufanga at SF-48 and returned for 52 yards, touchdown",2.65,-7.0,4.0,2022,64
+4.0,6:27,,,LAR 15,9.0,24.0,Robbie Gould kicks extra point good,0.0,0.0,4.0,2022,64
+4.0,6:27,,,SFO 35,9.0,24.0,"Robbie Gould kicks off 61 yards, returned by Brandon Powell for 22 yards (tackle by Charlie Woerner)",0.0,0.67,4.0,2022,64
+4.0,6:21,1.0,10.0,LAR 26,9.0,24.0,Matthew Stafford pass complete short left to Allen Robinson for 5 yards (tackle by Emmanuel Moseley),0.67,0.81,4.0,2022,64
+4.0,5:58,2.0,5.0,LAR 31,9.0,24.0,Matthew Stafford pass complete short right to Tyler Higbee for 4 yards (tackle by Dre Greenlaw),0.81,0.63,4.0,2022,64
+4.0,5:25,3.0,1.0,LAR 35,9.0,24.0,Darrell Henderson up the middle for 4 yards (tackle by Fred Warner),0.63,1.53,4.0,2022,64
+4.0,5:02,1.0,10.0,LAR 39,9.0,24.0,Matthew Stafford pass incomplete deep left intended for Allen Robinson,1.53,0.99,4.0,2022,64
+4.0,4:58,2.0,10.0,LAR 39,9.0,24.0,Matthew Stafford pass complete short middle to Kendall Blanton for 7 yards (tackle by Deommodore Lenoir and Dre Greenlaw),0.99,1.22,4.0,2022,64
+4.0,4:12,3.0,3.0,LAR 46,9.0,24.0,Matthew Stafford pass complete short right to Ben Skowronek for 17 yards (tackle by Deommodore Lenoir),1.22,3.12,4.0,2022,64
+4.0,3:48,1.0,10.0,SFO 37,9.0,24.0,Matthew Stafford pass incomplete short left intended for Darrell Henderson (defended by Drake Jackson),3.12,2.57,4.0,2022,64
+4.0,3:44,2.0,10.0,SFO 37,9.0,24.0,Matthew Stafford sacked by Hassan Ridgeway for -8 yards,2.57,0.83,4.0,2022,64
+4.0,3:11,3.0,18.0,SFO 45,9.0,24.0,Matthew Stafford pass complete short middle to Tyler Higbee for 8 yards (tackle by Dre Greenlaw),0.83,0.79,4.0,2022,64
+4.0,2:30,,,,,,Timeout #1 by Los Angeles Rams,,,4.0,2022,64
+4.0,2:30,4.0,10.0,SFO 37,9.0,24.0,Matthew Stafford pass complete short middle to Cooper Kupp for 13 yards (tackle by Talanoa Hufanga),0.79,3.97,4.0,2022,64
+4.0,2:06,1.0,10.0,SFO 24,9.0,24.0,Matthew Stafford pass incomplete deep left intended for Allen Robinson (defended by Emmanuel Moseley),3.97,3.43,4.0,2022,64
+4.0,2:02,2.0,10.0,SFO 24,9.0,24.0,Matthew Stafford pass incomplete short right intended for Tyler Higbee,3.43,2.74,4.0,2022,64
+4.0,1:58,3.0,10.0,SFO 24,9.0,24.0,"Matthew Stafford sacked by Samson Ebukam for -6 yards. Matthew Stafford fumbles (forced by Samson Ebukam), recovered by Kerry Hyder at SF-16 (tackle by Samson Ebukam)",2.74,0.14,4.0,2022,64
+4.0,1:49,1.0,10.0,SFO 16,9.0,24.0,Jeff Wilson up the middle for -1 yards (tackle by Leonard Floyd and Greg Gaines),-0.14,-0.78,4.0,2022,64
+4.0,1:44,,,,,,Timeout #2 by Los Angeles Rams,,,4.0,2022,64
+4.0,1:44,2.0,11.0,SFO 15,9.0,24.0,Jeff Wilson left tackle for 2 yards (tackle by A'Shawn Robinson),-0.78,-1.2,4.0,2022,64
+4.0,1:40,,,,,,Timeout #3 by Los Angeles Rams,,,4.0,2022,64
+4.0,1:40,,,,,,Timeout #1 by San Francisco 49ers,,,4.0,2022,64
+4.0,1:40,3.0,9.0,SFO 17,9.0,24.0,Jeff Wilson up the middle for no gain (tackle by Aaron Donald and Ernest Jones),-1.2,-2.32,4.0,2022,64
+4.0,0:54,,,,,,Timeout #2 by San Francisco 49ers,,,4.0,2022,64
+4.0,0:54,4.0,9.0,SFO 17,9.0,24.0,Mitch Wishnowsky punts 41 yards out of bounds,-2.32,-1.73,4.0,2022,64
+4.0,0:45,1.0,10.0,LAR 42,9.0,24.0,Matthew Stafford pass complete short left to Cooper Kupp for 9 yards (tackle by Fred Warner and Deommodore Lenoir),1.73,2.4,4.0,2022,64
+4.0,0:22,2.0,1.0,SFO 49,9.0,24.0,Matthew Stafford pass complete short left to Darrell Henderson for 4 yards,2.4,2.59,4.0,2022,64
+4.0,0:16,1.0,10.0,SFO 45,9.0,24.0,Darrell Henderson left guard for 5 yards (tackle by Dre Greenlaw),2.59,2.72,4.0,2022,64

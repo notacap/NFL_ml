@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,PHI 25,14,7:18,61,Field Goal,0,Eagles,1.0,2023,13
+2,1,4:48,NWE 26,4,2:09,26,Touchdown,0,Eagles,1.0,2023,13
+3,1,1:49,PHI 16,3,2:01,2,Punt,0,Eagles,1.0,2023,13
+4,2,13:22,PHI 8,3,1:33,3,Punt,0,Eagles,1.0,2023,13
+5,2,10:30,PHI 14,3,1:08,3,Punt,0,Eagles,1.0,2023,13
+6,2,4:34,PHI 25,3,2:01,-9,Punt,0,Eagles,1.0,2023,13
+7,2,0:25,PHI 25,1,0:25,3,End of Half,0,Eagles,1.0,2023,13
+8,3,13:43,PHI 29,10,4:55,33,Field Goal,0,Eagles,1.0,2023,13
+9,3,2:43,PHI 20,11,4:22,50,Field Goal,0,Eagles,1.0,2023,13
+10,4,9:32,PHI 17,7,3:59,50,Field Goal,0,Eagles,1.0,2023,13
+11,4,3:37,PHI 27,1,0:09,8,Fumble,0,Eagles,1.0,2023,13
+12,4,2:20,PHI 48,4,0:23,8,Downs,0,Eagles,1.0,2023,13
+13,4,0:25,PHI 20,1,0:25,-1,End of Game,0,Eagles,1.0,2023,13

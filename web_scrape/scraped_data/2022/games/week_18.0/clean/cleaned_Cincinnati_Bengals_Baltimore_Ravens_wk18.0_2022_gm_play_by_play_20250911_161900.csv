@@ -1,0 +1,184 @@
+Quarter,Time,Down,ToGo,Location,BAL,CIN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Ravens won the coin toss, Ravens to receive the opening kickoff.",,,18.0,2022,259
+1.0,15:00,,,CIN 35,0.0,0.0,"Evan McPherson kicks off 66 yards, returned by Justice Hill for 30 yards (tackle by Tre Flowers)",0.0,0.87,18.0,2022,259
+1.0,14:54,1.0,10.0,BAL 29,0.0,0.0,Gus Edwards left tackle for 11 yards (tackle by Jessie Bates),0.87,1.6,18.0,2022,259
+1.0,14:14,1.0,10.0,BAL 40,0.0,0.0,Gus Edwards right guard for no gain (tackle by D.J. Reader and Vonn Bell),1.6,1.05,18.0,2022,259
+1.0,13:37,2.0,10.0,BAL 40,0.0,0.0,Anthony Brown pass incomplete short right intended for Demarcus Robinson,1.05,0.37,18.0,2022,259
+1.0,13:31,3.0,10.0,BAL 40,0.0,0.0,Anthony Brown pass complete short right to Isaiah Likely for 5 yards (tackle by Daxton Hill and Cam Taylor-Britt),0.37,-0.39,18.0,2022,259
+1.0,12:56,4.0,5.0,BAL 45,0.0,0.0,"Jordan Stout punts 34 yards, fair catch by Trent Taylor at CIN-21",-0.39,-0.34,18.0,2022,259
+1.0,12:50,1.0,10.0,CIN 21,0.0,0.0,Joe Burrow pass complete short middle to Joe Mixon for 2 yards (tackle by Roquan Smith),0.34,0.07,18.0,2022,259
+1.0,12:14,2.0,8.0,CIN 23,0.0,0.0,Joe Burrow pass complete short left to Tee Higgins for 7 yards (tackle by Marlon Humphrey),0.07,0.3,18.0,2022,259
+1.0,11:35,3.0,1.0,CIN 30,0.0,0.0,Joe Mixon left guard for 3 yards (tackle by Chuck Clark and Roquan Smith),0.3,1.14,18.0,2022,259
+1.0,10:59,1.0,10.0,CIN 33,0.0,0.0,Joe Mixon right guard for 2 yards (tackle by Kyle Hamilton),1.14,0.86,18.0,2022,259
+1.0,10:26,2.0,8.0,CIN 35,0.0,0.0,Joe Burrow scrambles right end for 6 yards (tackle by Brent Urban),0.86,0.96,18.0,2022,259
+1.0,9:37,3.0,2.0,CIN 41,0.0,0.0,Joe Burrow pass complete short left to Hayden Hurst for 3 yards (tackle by Marcus Williams),0.96,1.86,18.0,2022,259
+1.0,9:02,1.0,10.0,CIN 44,0.0,0.0,Joe Mixon left guard for 3 yards (tackle by Roquan Smith),1.86,1.72,18.0,2022,259
+1.0,8:20,2.0,7.0,CIN 47,0.0,0.0,Joe Burrow pass complete short middle to Joe Mixon for 2 yards (tackle by Roquan Smith),1.72,1.29,18.0,2022,259
+1.0,7:42,3.0,5.0,CIN 49,0.0,0.0,Joe Burrow pass complete short right to Hayden Hurst for 6 yards (tackle by Daryl Worley),1.29,2.59,18.0,2022,259
+1.0,6:58,1.0,10.0,BAL 45,0.0,0.0,Joe Burrow pass incomplete deep middle intended for Ja'Marr Chase (defended by Daryl Worley),2.59,2.04,18.0,2022,259
+1.0,6:48,2.0,10.0,BAL 45,0.0,0.0,Joe Burrow pass complete short middle to Trenton Irwin for 12 yards (tackle by Daryl Worley and Marcus Williams),2.04,3.38,18.0,2022,259
+1.0,6:07,1.0,10.0,BAL 33,0.0,0.0,Joe Burrow pass incomplete short left intended for Tee Higgins,3.38,2.84,18.0,2022,259
+1.0,6:02,2.0,10.0,BAL 33,0.0,0.0,Joe Burrow pass complete short left to Ja'Marr Chase for 17 yards (tackle by Marcus Williams),2.84,4.51,18.0,2022,259
+1.0,5:23,1.0,10.0,BAL 16,0.0,0.0,Joe Burrow pass incomplete short right intended for Hayden Hurst,4.51,3.9,18.0,2022,259
+1.0,5:17,2.0,10.0,BAL 16,0.0,0.0,Joe Burrow pass incomplete deep left,3.9,3.08,18.0,2022,259
+1.0,5:09,3.0,10.0,BAL 16,0.0,0.0,Joe Burrow pass incomplete short right intended for Trenton Irwin,3.08,2.38,18.0,2022,259
+1.0,5:05,4.0,10.0,BAL 16,0.0,3.0,Evan McPherson 34 yard field goal good,2.38,3.0,18.0,2022,259
+1.0,5:01,,,CIN 35,0.0,3.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,18.0,2022,259
+1.0,5:01,1.0,10.0,BAL 25,0.0,3.0,Anthony Brown pass deep middle intended for Isaiah Likely is intercepted by Jessie Bates at CIN-48 and returned for 4 yards (tackle by Isaiah Likely),0.61,-2.39,18.0,2022,259
+1.0,4:49,1.0,10.0,BAL 48,0.0,3.0,Joe Burrow pass incomplete deep right intended for Tyler Boyd,2.39,1.85,18.0,2022,259
+1.0,4:45,2.0,10.0,BAL 48,0.0,3.0,Joe Burrow pass incomplete short left intended for Tee Higgins,1.85,1.16,18.0,2022,259
+1.0,4:41,3.0,10.0,BAL 48,0.0,3.0,Joe Burrow pass complete deep middle to Tyler Boyd for 22 yards (tackle by Marcus Williams),1.16,3.84,18.0,2022,259
+1.0,3:59,1.0,10.0,BAL 26,0.0,3.0,Joe Mixon right tackle for 8 yards (tackle by Patrick Queen and Chuck Clark),3.84,4.45,18.0,2022,259
+1.0,3:19,2.0,2.0,BAL 18,0.0,3.0,Joe Burrow pass complete short left to Hayden Hurst for 7 yards (tackle by Marcus Williams),4.45,4.84,18.0,2022,259
+1.0,2:46,1.0,10.0,BAL 11,0.0,3.0,Joe Burrow pass complete short right to Ja'Marr Chase for -2 yards (tackle by Daryl Worley),4.84,3.83,18.0,2022,259
+1.0,2:08,2.0,12.0,BAL 13,0.0,3.0,Joe Burrow pass complete short middle to Tyler Boyd for 12 yards (tackle by Kyle Hamilton),3.83,6.97,18.0,2022,259
+1.0,1:18,1.0,1.0,BAL 1,0.0,9.0,"Joe Mixon left guard for 1 yard, touchdown",6.97,7.0,18.0,2022,259
+1.0,1:11,,,BAL 15,0.0,10.0,Evan McPherson kicks extra point good,0.0,0.0,18.0,2022,259
+1.0,1:11,,,CIN 35,0.0,10.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,18.0,2022,259
+1.0,1:11,1.0,10.0,BAL 25,0.0,10.0,Gus Edwards left end for 5 yards (tackle by Eli Apple),0.61,0.74,18.0,2022,259
+1.0,0:43,2.0,5.0,BAL 30,0.0,10.0,Gus Edwards left tackle for no gain (tackle by Cameron Sample),0.74,0.04,18.0,2022,259
+2.0,15:00,3.0,5.0,BAL 30,0.0,10.0,Anthony Brown pass short middle intended for Demarcus Robinson is intercepted by Mike Hilton at BAL-37 and returned for 5 yards (tackle by Demarcus Robinson),0.04,-3.45,18.0,2022,259
+2.0,14:55,1.0,10.0,BAL 32,0.0,10.0,Samaje Perine right tackle for 6 yards (tackle by Roquan Smith),3.45,3.71,18.0,2022,259
+2.0,14:22,2.0,4.0,BAL 26,0.0,10.0,Joe Burrow pass incomplete deep left intended for Tee Higgins,3.71,3.01,18.0,2022,259
+2.0,14:17,3.0,4.0,BAL 26,0.0,16.0,"Joe Burrow pass complete deep left to Ja'Marr Chase for 26 yards, touchdown",3.01,7.0,18.0,2022,259
+2.0,14:12,,,BAL 15,0.0,17.0,Evan McPherson kicks extra point good,0.0,0.0,18.0,2022,259
+2.0,14:12,,,CIN 35,0.0,17.0,"Evan McPherson kicks off 62 yards, returned by Justice Hill for 21 yards (tackle by Markus Bailey)",0.0,0.54,18.0,2022,259
+2.0,14:06,1.0,10.0,BAL 24,0.0,17.0,Anthony Brown pass complete short left to Kenyan Drake for 9 yards (tackle by D.J. Reader and Logan Wilson),0.54,1.21,18.0,2022,259
+2.0,13:25,2.0,1.0,BAL 33,0.0,17.0,Kenyan Drake right tackle for 18 yards (tackle by Cam Taylor-Britt),1.21,2.32,18.0,2022,259
+2.0,12:45,1.0,10.0,CIN 49,0.0,17.0,Kenyan Drake up the middle for 6 yards (tackle by Cam Taylor-Britt and Joseph Ossai),2.32,2.59,18.0,2022,259
+2.0,12:01,2.0,4.0,CIN 43,0.0,17.0,Justice Hill right end for 6 yards (tackle by Cam Taylor-Britt),2.59,3.12,18.0,2022,259
+2.0,11:23,1.0,10.0,CIN 37,0.0,17.0,"Kenyan Drake left end for no gain (tackle by Sam Hubbard). Penalty on Tyler Linderbaum: Offensive Holding, 10 yards (accepted) (no play)",3.12,2.46,18.0,2022,259
+2.0,11:02,1.0,20.0,CIN 47,0.0,17.0,Anthony Brown pass complete short right to Isaiah Likely for 7 yards (tackle by Logan Wilson and Germaine Pratt),2.46,2.17,18.0,2022,259
+2.0,10:19,2.0,13.0,CIN 40,0.0,17.0,Justice Hill right end for no gain (tackle by Germaine Pratt and Joseph Ossai),2.17,1.49,18.0,2022,259
+2.0,9:39,3.0,13.0,CIN 40,0.0,17.0,Anthony Brown pass complete short middle to Isaiah Likely for 12 yards (tackle by Logan Wilson),1.49,1.72,18.0,2022,259
+2.0,9:01,4.0,1.0,CIN 28,0.0,17.0,Kenyan Drake left guard for -1 yards (tackle by Cam Taylor-Britt),1.72,-0.87,18.0,2022,259
+2.0,8:52,1.0,10.0,CIN 29,0.0,17.0,Joe Burrow up the middle for 4 yards (tackle by Travis Jones and Broderick Washington),0.87,0.87,18.0,2022,259
+2.0,8:12,2.0,6.0,CIN 33,0.0,17.0,Joe Burrow pass complete short right to Tyler Boyd for 8 yards (tackle by Roquan Smith and Daryl Worley),0.87,1.66,18.0,2022,259
+2.0,7:50,1.0,10.0,CIN 41,0.0,17.0,Joe Burrow pass complete short right to Joe Mixon for 2 yards (tackle by Travis Jones and Roquan Smith),1.66,1.39,18.0,2022,259
+2.0,7:07,2.0,8.0,CIN 43,0.0,17.0,Joe Burrow pass incomplete short right intended for Ja'Marr Chase (defended by Jason Pierre-Paul),1.39,0.7,18.0,2022,259
+2.0,7:03,3.0,8.0,CIN 43,0.0,17.0,Joe Burrow pass complete short left to Ja'Marr Chase for -2 yards (tackle by Roquan Smith),0.7,-0.65,18.0,2022,259
+2.0,6:16,4.0,10.0,CIN 41,0.0,17.0,"Drue Chrisman punts 43 yards, returned by James Proche for 8 yards (tackle by Clay Johnston)",-0.65,-0.54,18.0,2022,259
+2.0,6:05,1.0,10.0,BAL 24,0.0,17.0,Kenyan Drake right guard for 2 yards (tackle by Cameron Sample),0.54,0.27,18.0,2022,259
+2.0,5:42,2.0,8.0,BAL 26,0.0,17.0,"Anthony Brown pass complete short left to Isaiah Likely for no gain (tackle by Akeem Davis-Gaither). Penalty on Josh Oliver: Illegal Shift, 5 yards (accepted) (no play)",0.27,-0.41,18.0,2022,259
+2.0,5:15,2.0,13.0,BAL 21,0.0,17.0,Anthony Brown pass incomplete short right intended for Demarcus Robinson,-0.41,-1.09,18.0,2022,259
+2.0,5:12,3.0,13.0,BAL 21,0.0,17.0,"Anthony Brown pass incomplete short right intended for Isaiah Likely. Penalty on Tre Flowers: Face Mask (15 Yards), 15 yards (declined) . Penalty on Trey Hendrickson: Roughing the Passer, 15 yards (accepted) (no play)",-1.09,1.33,18.0,2022,259
+2.0,4:54,1.0,10.0,BAL 36,0.0,17.0,Anthony Brown pass complete deep left to Isaiah Likely for 28 yards (tackle by Eli Apple),1.33,3.18,18.0,2022,259
+2.0,4:41,1.0,10.0,CIN 36,0.0,17.0,Kenyan Drake left tackle for 1 yard (tackle by D.J. Reader and Joseph Ossai),3.18,2.77,18.0,2022,259
+2.0,4:11,2.0,9.0,CIN 35,0.0,17.0,Anthony Brown pass complete short middle to Charlie Kolar for 15 yards (tackle by Logan Wilson),2.77,4.24,18.0,2022,259
+2.0,3:42,1.0,10.0,CIN 20,0.0,17.0,Kenyan Drake right guard for 1 yard (tackle by B.J. Hill and Cameron Sample),4.24,3.82,18.0,2022,259
+2.0,3:12,2.0,9.0,CIN 19,0.0,17.0,Anthony Brown pass incomplete short right intended for Kenyan Drake (defended by Germaine Pratt),3.82,3.1,18.0,2022,259
+2.0,3:04,3.0,9.0,CIN 19,0.0,17.0,Anthony Brown pass complete short middle to Isaiah Likely for 12 yards (tackle by Tre Flowers),3.1,5.6,18.0,2022,259
+2.0,2:24,1.0,7.0,CIN 7,0.0,17.0,Kenyan Drake right tackle for 3 yards (tackle by Josh Tupou and Cam Taylor-Britt),5.6,5.34,18.0,2022,259
+2.0,2:00,2.0,4.0,CIN 4,6.0,17.0,"Kenyan Drake left tackle for 4 yards, touchdown",5.34,7.0,18.0,2022,259
+2.0,1:57,,,CIN 15,7.0,17.0,Justin Tucker kicks extra point good,0.0,0.0,18.0,2022,259
+2.0,1:57,,,BAL 35,7.0,17.0,"Justin Tucker kicks off 57 yards, returned by Trayveon Williams for 19 yards (tackle by Del'Shawn Phillips)",0.0,0.74,18.0,2022,259
+2.0,1:52,1.0,10.0,CIN 27,7.0,17.0,Joe Burrow pass complete short right to Ja'Marr Chase for 10 yards (tackle by Daryl Worley),0.74,1.4,18.0,2022,259
+2.0,1:33,1.0,10.0,CIN 37,7.0,17.0,Joe Burrow pass complete short right to Hayden Hurst for -2 yards (tackle by Patrick Queen),1.4,0.59,18.0,2022,259
+2.0,1:07,2.0,12.0,CIN 35,7.0,17.0,Joe Burrow pass incomplete short right intended for Tee Higgins (defended by Daryl Worley),0.59,-0.1,18.0,2022,259
+2.0,1:02,3.0,12.0,CIN 35,7.0,17.0,Joe Burrow pass complete short left to Samaje Perine for 4 yards (tackle by Roquan Smith),-0.1,-0.78,18.0,2022,259
+2.0,0:55,,,,,,Timeout #1 by Baltimore Ravens,,,18.0,2022,259
+2.0,0:55,4.0,8.0,CIN 39,7.0,17.0,Drue Chrisman punts 56 yards out of bounds,-0.78,0.38,18.0,2022,259
+2.0,0:47,1.0,10.0,BAL 5,7.0,17.0,Kenyan Drake left tackle for 1 yard (tackle by Zachary Carter and Germaine Pratt),-0.38,-0.71,18.0,2022,259
+2.0,0:35,,,,,,Timeout #1 by Cincinnati Bengals,,,18.0,2022,259
+2.0,0:35,2.0,9.0,BAL 6,7.0,17.0,Anthony Brown pass incomplete short left intended for Sammy Watkins,-0.71,-1.3,18.0,2022,259
+2.0,0:36,3.0,9.0,BAL 6,7.0,23.0,"Anthony Brown sacked by Trey Hendrickson for -6 yards. Anthony Brown fumbles (forced by Trey Hendrickson), recovered by Joseph Ossai in end zone, touchdown",-1.3,-7.0,18.0,2022,259
+2.0,0:30,,,BAL 15,7.0,24.0,Evan McPherson kicks extra point good,0.0,0.0,18.0,2022,259
+2.0,0:30,,,CIN 35,7.0,24.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,18.0,2022,259
+2.0,0:30,1.0,10.0,BAL 25,7.0,24.0,Justice Hill left end for 9 yards (tackle by Tre Flowers),0.61,1.28,18.0,2022,259
+2.0,0:22,,,,,,Timeout #2 by Cincinnati Bengals,,,18.0,2022,259
+2.0,0:22,2.0,1.0,BAL 34,7.0,24.0,Anthony Brown pass incomplete short left intended for James Proche,1.28,0.56,18.0,2022,259
+2.0,0:19,3.0,1.0,BAL 34,7.0,24.0,Justice Hill right guard for 3 yards (tackle by Sam Hubbard and Mike Hilton),0.56,1.4,18.0,2022,259
+2.0,0:14,,,,,,Timeout #2 by Baltimore Ravens,,,18.0,2022,259
+2.0,0:14,1.0,10.0,BAL 37,7.0,24.0,Anthony Brown pass incomplete short left intended for Demarcus Robinson,1.4,0.86,18.0,2022,259
+2.0,0:11,2.0,10.0,BAL 37,7.0,24.0,Anthony Brown pass incomplete deep right intended for Sammy Watkins,0.86,0.17,18.0,2022,259
+2.0,0:05,3.0,10.0,BAL 37,7.0,24.0,Justice Hill right tackle for 12 yards (tackle by Jessie Bates and Sam Hubbard),0.17,2.19,18.0,2022,259
+3.0,15:00,,,BAL 35,7.0,24.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,18.0,2022,259
+3.0,15:00,1.0,10.0,CIN 25,7.0,24.0,Joe Burrow pass complete short left to Tyler Boyd for 3 yards (tackle by Kyle Hamilton),0.61,0.47,18.0,2022,259
+3.0,14:30,2.0,7.0,CIN 28,7.0,24.0,Joe Burrow pass incomplete short middle intended for Ja'Marr Chase (defended by Marcus Williams),0.47,-0.23,18.0,2022,259
+3.0,14:25,3.0,7.0,CIN 28,7.0,24.0,Joe Burrow pass incomplete short right intended for Ja'Marr Chase (defended by Kyle Hamilton),-0.23,-1.5,18.0,2022,259
+3.0,14:21,4.0,7.0,CIN 28,7.0,24.0,"Drue Chrisman punts 42 yards downed by Akeem Davis-Gaither. Penalty on Cal Adomitis: Offensive Holding, 10 yards (accepted)",-1.5,-1.6,18.0,2022,259
+3.0,14:11,1.0,10.0,BAL 40,7.0,24.0,Justice Hill left tackle for no gain (tackle by Sam Hubbard),1.6,1.05,18.0,2022,259
+3.0,13:33,2.0,10.0,BAL 40,7.0,24.0,Anthony Brown pass complete short middle to Isaiah Likely for 5 yards (tackle by Eli Apple),1.05,1.03,18.0,2022,259
+3.0,12:57,3.0,5.0,BAL 45,7.0,24.0,Anthony Brown pass incomplete deep right intended for James Proche. Penalty on James Proche: Illegal Touch Pass (accepted),1.03,-0.39,18.0,2022,259
+3.0,12:39,4.0,5.0,BAL 45,7.0,24.0,"Jordan Stout punts 49 yards, returned by Trent Taylor for 3 yards (tackle by Kyle Hamilton)",-0.39,0.38,18.0,2022,259
+3.0,12:23,1.0,10.0,CIN 9,7.0,24.0,Joe Mixon left tackle for no gain (tackle by Roquan Smith and Kyle Hamilton),-0.38,-0.78,18.0,2022,259
+3.0,11:40,2.0,10.0,CIN 9,7.0,24.0,"Joe Burrow sacked by David Ojabo for -5 yards. Joe Burrow fumbles (forced by David Ojabo), recovered by Patrick Queen at CIN-9 (tackle by David Ojabo)",-0.78,-5.14,18.0,2022,259
+3.0,11:26,1.0,9.0,CIN 9,7.0,24.0,Kenyan Drake left tackle for 1 yard (tackle by Germaine Pratt and Zachary Carter),5.14,4.57,18.0,2022,259
+3.0,10:48,2.0,8.0,CIN 8,7.0,24.0,Anthony Brown pass incomplete short middle intended for Demarcus Robinson (defended by Cam Taylor-Britt),4.57,3.58,18.0,2022,259
+3.0,10:42,3.0,8.0,CIN 8,7.0,24.0,Anthony Brown pass incomplete short middle intended for Charlie Kolar,3.58,2.95,18.0,2022,259
+3.0,10:37,4.0,8.0,CIN 8,10.0,24.0,Justin Tucker 26 yard field goal good,2.95,3.0,18.0,2022,259
+3.0,10:34,,,BAL 35,10.0,24.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,18.0,2022,259
+3.0,10:34,1.0,10.0,CIN 25,10.0,24.0,Joe Mixon left tackle for 2 yards (tackle by Justin Madubuike),0.61,0.33,18.0,2022,259
+3.0,10:00,2.0,8.0,CIN 27,10.0,24.0,Joe Burrow pass complete short right to Joe Mixon for 33 yards (tackle by Chuck Clark),0.33,2.92,18.0,2022,259
+3.0,9:20,1.0,10.0,BAL 40,10.0,24.0,Joe Burrow pass complete deep left to Ja'Marr Chase for 20 yards (tackle by Marlon Humphrey),2.92,4.24,18.0,2022,259
+3.0,8:42,1.0,10.0,BAL 20,10.0,24.0,Samaje Perine left guard for 2 yards (tackle by Roquan Smith),4.24,3.96,18.0,2022,259
+3.0,7:59,2.0,8.0,BAL 18,10.0,24.0,"Joe Burrow pass incomplete short middle intended for Hayden Hurst. Penalty on Patrick Queen: Defensive Pass Interference, 2 yards (accepted) (no play)",3.96,4.51,18.0,2022,259
+3.0,7:54,1.0,10.0,BAL 16,10.0,24.0,Joe Burrow pass complete short left to Joe Mixon for 2 yards (tackle by Patrick Queen),4.51,4.21,18.0,2022,259
+3.0,7:18,2.0,8.0,BAL 14,10.0,24.0,Joe Burrow pass incomplete short right intended for Ja'Marr Chase,4.21,3.37,18.0,2022,259
+3.0,7:13,3.0,8.0,BAL 14,10.0,24.0,Joe Burrow pass complete short right to Tyler Boyd for 6 yards (tackle by Damarion Williams),3.37,2.99,18.0,2022,259
+3.0,6:31,4.0,2.0,BAL 8,10.0,27.0,Evan McPherson 26 yard field goal good,2.99,3.0,18.0,2022,259
+3.0,6:27,,,CIN 35,10.0,27.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,18.0,2022,259
+3.0,6:27,1.0,10.0,BAL 25,10.0,27.0,Anthony Brown sacked by B.J. Hill for -1 yards,0.61,-0.07,18.0,2022,259
+3.0,5:46,2.0,11.0,BAL 24,10.0,27.0,Anthony Brown pass incomplete short middle intended for Isaiah Likely (defended by Mike Hilton),-0.07,-0.76,18.0,2022,259
+3.0,5:42,,,,,,Timeout #1 by Baltimore Ravens,,,18.0,2022,259
+3.0,5:42,3.0,11.0,BAL 24,10.0,27.0,Anthony Brown pass complete short left to Charlie Kolar for 14 yards (tackle by Daxton Hill),-0.76,1.47,18.0,2022,259
+3.0,5:06,1.0,10.0,BAL 38,10.0,27.0,Kenyan Drake left tackle for 8 yards (tackle by B.J. Hill),1.47,2.0,18.0,2022,259
+3.0,4:23,2.0,2.0,BAL 46,10.0,27.0,Justice Hill left tackle for 4 yards (tackle by D.J. Reader and Vonn Bell),2.0,2.26,18.0,2022,259
+3.0,3:32,1.0,10.0,BAL 50,10.0,27.0,Anthony Brown pass incomplete short right intended for Isaiah Likely,2.26,1.71,18.0,2022,259
+3.0,3:31,2.0,10.0,BAL 50,10.0,27.0,Anthony Brown pass complete short left to Demarcus Robinson for 11 yards (tackle by Eli Apple),1.71,2.98,18.0,2022,259
+3.0,2:53,1.0,10.0,CIN 39,10.0,27.0,Anthony Brown pass incomplete short middle intended for Josh Oliver,2.98,2.44,18.0,2022,259
+3.0,2:42,2.0,10.0,CIN 39,10.0,27.0,Kenyan Drake right tackle for 6 yards (tackle by Jessie Bates and Cam Taylor-Britt),2.44,2.54,18.0,2022,259
+3.0,2:08,3.0,4.0,CIN 33,10.0,27.0,Anthony Brown pass incomplete short middle intended for Isaiah Likely (defended by Zachary Carter),2.54,1.18,18.0,2022,259
+3.0,2:04,4.0,4.0,CIN 33,13.0,27.0,Justin Tucker 51 yard field goal good,1.18,3.0,18.0,2022,259
+3.0,1:59,,,BAL 35,13.0,27.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,18.0,2022,259
+3.0,1:59,1.0,10.0,CIN 25,13.0,27.0,Joe Burrow pass incomplete deep right intended for Tee Higgins,0.61,0.06,18.0,2022,259
+3.0,1:54,2.0,10.0,CIN 25,13.0,27.0,Joe Burrow pass complete short right to Ja'Marr Chase for 9 yards (tackle by Damarion Williams and Roquan Smith),0.06,0.56,18.0,2022,259
+3.0,1:11,3.0,1.0,CIN 34,13.0,27.0,Joe Burrow pass incomplete deep right intended for Tee Higgins,0.56,-1.11,18.0,2022,259
+3.0,1:04,4.0,1.0,CIN 34,13.0,27.0,Drue Chrisman punts 48 yards out of bounds,-1.11,-0.04,18.0,2022,259
+3.0,0:57,1.0,10.0,BAL 18,13.0,27.0,Anthony Brown pass complete short right to Tylan Wallace for 12 yards (tackle by Logan Wilson),0.04,0.94,18.0,2022,259
+3.0,0:36,1.0,10.0,BAL 30,13.0,27.0,Kenyan Drake right end for 2 yards (tackle by B.J. Hill and Jessie Bates),0.94,0.66,18.0,2022,259
+3.0,0:04,2.0,8.0,BAL 32,13.0,27.0,Anthony Brown pass incomplete short left intended for Kenyan Drake (defended by Germaine Pratt),0.66,-0.03,18.0,2022,259
+4.0,15:00,3.0,8.0,BAL 32,13.0,27.0,Anthony Brown pass complete short right to Sammy Watkins for 32 yards (tackle by Cam Taylor-Britt and Jessie Bates),-0.03,3.18,18.0,2022,259
+4.0,14:18,1.0,10.0,CIN 36,13.0,27.0,Anthony Brown pass complete deep middle to Isaiah Likely for 22 yards (tackle by Jessie Bates and Logan Wilson),3.18,4.65,18.0,2022,259
+4.0,13:52,1.0,10.0,CIN 14,13.0,27.0,Kenyan Drake left end for 5 yards (tackle by Eli Apple),4.65,4.9,18.0,2022,259
+4.0,13:12,2.0,5.0,CIN 9,13.0,27.0,Anthony Brown pass incomplete short middle intended for Isaiah Likely (defended by Logan Wilson),4.9,4.05,18.0,2022,259
+4.0,13:07,3.0,5.0,CIN 9,13.0,27.0,Anthony Brown sacked by Joseph Ossai for no gain,4.05,2.88,18.0,2022,259
+4.0,12:19,4.0,5.0,CIN 9,16.0,27.0,Justin Tucker 27 yard field goal good,2.88,3.0,18.0,2022,259
+4.0,12:17,,,BAL 35,16.0,27.0,"Justin Tucker kicks off 54 yards, returned by Trayveon Williams for 29 yards (tackle by Tylan Wallace)",0.0,1.6,18.0,2022,259
+4.0,12:10,1.0,10.0,CIN 40,16.0,27.0,Joe Mixon right guard for 5 yards (tackle by Patrick Queen),1.6,1.73,18.0,2022,259
+4.0,11:34,2.0,5.0,CIN 45,16.0,27.0,Joe Burrow pass incomplete deep middle intended for Tyler Boyd,1.73,1.03,18.0,2022,259
+4.0,11:29,3.0,5.0,CIN 45,16.0,27.0,Joe Burrow sacked by and Justin Houston for -8 yards and Odafe Oweh for -8 yards,1.03,-0.91,18.0,2022,259
+4.0,10:47,4.0,13.0,CIN 37,16.0,27.0,"Drue Chrisman punts 52 yards, fair catch by James Proche at BAL-11",-0.91,0.37,18.0,2022,259
+4.0,10:39,1.0,10.0,BAL 11,16.0,27.0,Kenyan Drake right tackle for 2 yards (tackle by Vonn Bell),-0.37,-0.63,18.0,2022,259
+4.0,10:14,2.0,8.0,BAL 13,16.0,27.0,Anthony Brown pass incomplete short middle intended for Charlie Kolar (defended by Vonn Bell),-0.63,-1.19,18.0,2022,259
+4.0,10:10,3.0,8.0,BAL 13,16.0,27.0,Anthony Brown sacked by Trey Hendrickson for -3 yards,-1.19,-2.49,18.0,2022,259
+4.0,9:34,4.0,11.0,BAL 10,16.0,27.0,"Jordan Stout punts 54 yards, returned by Trent Taylor for 9 yards (tackle by Justice Hill). Penalty on Justice Hill: Player Out of Bounds on a Punt, 5 yards (accepted)",-2.49,-2.26,18.0,2022,259
+4.0,9:23,1.0,10.0,CIN 50,16.0,27.0,Joe Mixon up the middle for 1 yard (tackle by Broderick Washington),2.26,1.85,18.0,2022,259
+4.0,8:46,2.0,9.0,BAL 49,16.0,27.0,Joe Burrow pass complete short middle to Ja'Marr Chase for 8 yards (tackle by Roquan Smith and Marcus Williams),1.85,2.21,18.0,2022,259
+4.0,8:21,3.0,1.0,BAL 41,16.0,27.0,Joe Burrow up the middle for no gain (tackle by Justin Madubuike),2.21,0.53,18.0,2022,259
+4.0,7:20,,,,,,Timeout #2 by Baltimore Ravens,,,18.0,2022,259
+4.0,7:20,4.0,1.0,BAL 41,16.0,27.0,Joe Burrow pass incomplete short right,0.53,-1.66,18.0,2022,259
+4.0,7:18,1.0,10.0,BAL 41,16.0,27.0,Anthony Brown pass complete short left to Demarcus Robinson for 13 yards (tackle by Eli Apple),1.66,2.52,18.0,2022,259
+4.0,6:53,1.0,10.0,CIN 46,16.0,27.0,Kenyan Drake left guard for 1 yard (tackle by Jessie Bates),2.52,2.11,18.0,2022,259
+4.0,6:11,2.0,9.0,CIN 45,16.0,27.0,"Anthony Brown pass incomplete short left intended for Demarcus Robinson BAL challenged the pass completion ruling, and the play was upheld.",2.11,1.42,18.0,2022,259
+4.0,6:06,3.0,9.0,CIN 45,16.0,27.0,Anthony Brown pass incomplete short left intended for Demarcus Robinson,1.42,0.27,18.0,2022,259
+4.0,6:03,4.0,9.0,CIN 45,16.0,27.0,"Anthony Brown pass incomplete short right intended for James Proche. Penalty on Morgan Moses: Offensive Holding, 10 yards (declined)",0.27,-1.93,18.0,2022,259
+4.0,5:55,1.0,10.0,CIN 45,16.0,27.0,"Samaje Perine right tackle for no gain. Penalty on Hakeem Adeniji: Offensive Holding, 10 yards (accepted) (no play)",1.93,1.27,18.0,2022,259
+4.0,5:31,,,,,,Timeout #1 by Cincinnati Bengals,,,18.0,2022,259
+4.0,5:31,1.0,20.0,CIN 35,16.0,27.0,Joe Mixon up the middle for 4 yards (tackle by Jason Pierre-Paul and Patrick Queen),1.27,0.57,18.0,2022,259
+4.0,4:48,2.0,16.0,CIN 39,16.0,27.0,Joe Mixon left tackle for -2 yards (tackle by Marcus Williams),0.57,-0.36,18.0,2022,259
+4.0,4:04,3.0,18.0,CIN 37,16.0,27.0,Samaje Perine right tackle for 4 yards (tackle by Roquan Smith),-0.36,-0.65,18.0,2022,259
+4.0,3:20,4.0,14.0,CIN 41,16.0,27.0,"Drue Chrisman punts 59 yards, touchback.",-0.65,-0.28,18.0,2022,259
+4.0,3:10,1.0,10.0,BAL 20,16.0,27.0,"Anthony Brown pass complete deep right to Sammy Watkins for 47 yards. Sammy Watkins fumbles (forced by Jessie Bates), recovered by Vonn Bell at CIN-32 (tackle by Demarcus Robinson)",0.28,-1.07,18.0,2022,259
+4.0,2:56,1.0,10.0,CIN 32,16.0,27.0,Samaje Perine right guard for 4 yards (tackle by Justin Madubuike and Jason Pierre-Paul),1.07,1.07,18.0,2022,259
+4.0,2:12,2.0,6.0,CIN 36,16.0,27.0,Samaje Perine left tackle for 1 yard (tackle by Roquan Smith and Jason Pierre-Paul),1.07,0.5,18.0,2022,259
+4.0,2:00,3.0,5.0,CIN 37,16.0,27.0,Samaje Perine right tackle for 1 yard (tackle by Roquan Smith),0.5,-0.85,18.0,2022,259
+4.0,1:16,,,,,,Timeout #2 by Cincinnati Bengals,,,18.0,2022,259
+4.0,1:16,4.0,4.0,CIN 38,16.0,27.0,"Drue Chrisman punts 62 yards, touchback.",-0.85,-0.28,18.0,2022,259
+4.0,1:07,1.0,10.0,BAL 20,16.0,27.0,Anthony Brown pass complete short right to Charlie Kolar for 6 yards (tackle by Mike Hilton),0.28,0.54,18.0,2022,259
+4.0,0:49,2.0,4.0,BAL 26,16.0,27.0,Anthony Brown pass incomplete short middle intended for Kenyan Drake,0.54,-0.16,18.0,2022,259
+4.0,0:44,3.0,4.0,BAL 26,16.0,27.0,Anthony Brown pass complete short middle to Charlie Kolar for 14 yards (tackle by Logan Wilson),-0.16,1.6,18.0,2022,259
+4.0,0:31,1.0,10.0,BAL 40,16.0,27.0,Anthony Brown spiked the ball,1.6,1.05,18.0,2022,259
+4.0,0:29,2.0,10.0,BAL 40,16.0,27.0,Anthony Brown pass complete short middle to Kenyan Drake for 10 yards (tackle by Vonn Bell and Logan Wilson),1.05,2.26,18.0,2022,259
+4.0,0:11,1.0,10.0,BAL 50,16.0,27.0,Anthony Brown spiked the ball,2.26,1.71,18.0,2022,259
+4.0,0:10,2.0,10.0,BAL 50,16.0,27.0,Anthony Brown pass complete short middle to Isaiah Likely for 12 yards (tackle by Mike Hilton),1.71,3.05,18.0,2022,259

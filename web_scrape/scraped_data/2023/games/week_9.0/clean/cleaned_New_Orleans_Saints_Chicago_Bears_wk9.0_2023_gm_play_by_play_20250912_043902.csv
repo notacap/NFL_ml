@@ -1,0 +1,169 @@
+Quarter,Time,Down,ToGo,Location,CHI,NOR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Bears won the coin toss, Bears to receive the opening kickoff.",,,9.0,2023,129
+1.0,15:00,,,NOR 35,0.0,0.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,129
+1.0,15:00,1.0,10.0,CHI 25,0.0,0.0,Tyson Bagent pass complete short middle to Darnell Mooney for 13 yards (tackle by Tyrann Mathieu),0.61,1.47,9.0,2023,129
+1.0,14:17,1.0,10.0,CHI 38,0.0,0.0,Tyson Bagent pass complete short middle to D.J. Moore for 16 yards (tackle by Paulson Adebo),1.47,2.52,9.0,2023,129
+1.0,13:58,1.0,10.0,NOR 46,0.0,0.0,Tyson Bagent pass incomplete short right,2.52,1.98,9.0,2023,129
+1.0,13:56,2.0,10.0,NOR 46,0.0,0.0,D'Onta Foreman right tackle for 8 yards (tackle by Cameron Jordan and Demario Davis),1.98,2.35,9.0,2023,129
+1.0,13:23,,,,,,Timeout #1 by Chicago Bears,,,9.0,2023,129
+1.0,13:23,3.0,2.0,NOR 38,0.0,0.0,D'Onta Foreman right guard for 1 yard (tackle by Demario Davis),2.35,0.79,9.0,2023,129
+1.0,12:54,4.0,1.0,NOR 37,0.0,0.0,Tyson Bagent scrambles right end for 5 yards (tackle by Marcus Maye),0.79,3.45,9.0,2023,129
+1.0,12:23,1.0,10.0,NOR 32,0.0,0.0,D'Onta Foreman left tackle for 1 yard (tackle by Pete Werner),3.45,3.04,9.0,2023,129
+1.0,11:44,2.0,9.0,NOR 31,0.0,0.0,D'Onta Foreman left end for 13 yards (tackle by Marshon Lattimore),3.04,4.37,9.0,2023,129
+1.0,11:28,1.0,10.0,NOR 18,6.0,0.0,"Tyson Bagent pass complete deep right to Cole Kmet for 18 yards, touchdown",4.37,7.0,9.0,2023,129
+1.0,11:21,,,NOR 15,7.0,0.0,Cairo Santos kicks extra point good,0.0,0.0,9.0,2023,129
+1.0,11:21,,,CHI 35,7.0,0.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,129
+1.0,11:21,1.0,10.0,NOR 25,7.0,0.0,Derek Carr pass complete short middle to Chris Olave for 14 yards (tackle by Eddie Jackson),0.61,1.53,9.0,2023,129
+1.0,10:49,1.0,10.0,NOR 39,7.0,0.0,Jamaal Williams left guard for 1 yard (tackle by Kyler Gordon and Jack Sanborn),1.53,1.12,9.0,2023,129
+1.0,10:15,2.0,9.0,NOR 40,7.0,0.0,Derek Carr pass complete short middle to Jamaal Williams for 4 yards (tackle by Jack Sanborn),1.12,0.96,9.0,2023,129
+1.0,9:40,3.0,5.0,NOR 44,7.0,0.0,Derek Carr pass incomplete deep right intended for Chris Olave,0.96,-0.46,9.0,2023,129
+1.0,9:35,4.0,5.0,NOR 44,7.0,0.0,"Lou Hedley punts 42 yards, fair catch by Trent Taylor at CHI-14",-0.46,0.28,9.0,2023,129
+1.0,9:28,1.0,10.0,CHI 14,7.0,0.0,D'Onta Foreman left end for no gain (tackle by Carl Granderson),-0.28,-0.75,9.0,2023,129
+1.0,8:57,2.0,10.0,CHI 14,7.0,0.0,Tyson Bagent scrambles up the middle for 20 yards (tackle by Paulson Adebo),-0.75,1.2,9.0,2023,129
+1.0,8:16,1.0,10.0,CHI 34,7.0,0.0,Tyler Scott left end for -5 yards (tackle by Carl Granderson),1.2,-0.02,9.0,2023,129
+1.0,7:34,2.0,15.0,CHI 29,7.0,0.0,Tyson Bagent pass complete short right to Darrynton Evans for 17 yards (tackle by Demario Davis),-0.02,1.99,9.0,2023,129
+1.0,7:04,1.0,10.0,CHI 46,7.0,0.0,"Darrynton Evans left guard for 2 yards (tackle by Nathan Shepherd and Khalen Saunders). Penalty on Darnell Wright: Offensive Holding, 10 yards (accepted)",1.99,1.47,9.0,2023,129
+1.0,6:34,1.0,18.0,CHI 38,7.0,0.0,D'Onta Foreman left guard for 3 yards (tackle by Cameron Jordan and Khalen Saunders),1.47,0.78,9.0,2023,129
+1.0,5:59,2.0,15.0,CHI 41,7.0,0.0,Tyson Bagent pass short right intended for Cole Kmet is intercepted by Paulson Adebo at 50 and returned for 5 yards (tackle by Cole Kmet and Darnell Mooney),0.78,-2.59,9.0,2023,129
+1.0,5:48,1.0,10.0,CHI 45,7.0,0.0,Taysom Hill up the middle for 7 yards (tackle by Eddie Jackson),2.59,2.99,9.0,2023,129
+1.0,5:13,2.0,3.0,CHI 38,7.0,0.0,Alvin Kamara right guard for 5 yards (tackle by Zacch Pickens and Rasheem Green),2.99,3.38,9.0,2023,129
+1.0,4:38,1.0,10.0,CHI 33,7.0,0.0,Derek Carr pass complete short left to Taysom Hill for 5 yards (tackle by T.J. Edwards and Tyrique Stevenson),3.38,3.51,9.0,2023,129
+1.0,4:04,2.0,5.0,CHI 28,7.0,0.0,Alvin Kamara right end for -2 yards (tackle by Jack Sanborn and Kyler Gordon),3.51,2.54,9.0,2023,129
+1.0,3:30,3.0,7.0,CHI 30,7.0,0.0,Derek Carr pass complete short right to Chris Olave for 11 yards (tackle by Elijah Hicks and Tyrique Stevenson),2.54,4.31,9.0,2023,129
+1.0,2:55,1.0,10.0,CHI 19,7.0,0.0,Derek Carr pass complete short right to Rashid Shaheed for 9 yards (tackle by T.J. Edwards),4.31,5.36,9.0,2023,129
+1.0,2:14,2.0,1.0,CHI 10,7.0,0.0,Taysom Hill right tackle for 1 yard (tackle by Justin Jones and Tyrique Stevenson),5.36,5.14,9.0,2023,129
+1.0,1:32,1.0,9.0,CHI 9,7.0,0.0,Derek Carr pass incomplete short middle intended for Taysom Hill (defended by T.J. Edwards),5.14,4.38,9.0,2023,129
+1.0,1:27,2.0,9.0,CHI 9,7.0,0.0,Taysom Hill right end for 1 yard (tackle by T.J. Edwards and Tyrique Stevenson),4.38,3.58,9.0,2023,129
+1.0,0:49,3.0,8.0,CHI 8,7.0,6.0,"Derek Carr pass complete short left to Chris Olave for 8 yards, touchdown",3.58,7.0,9.0,2023,129
+1.0,0:44,,,CHI 15,7.0,7.0,Blake Grupe kicks extra point good,0.0,0.0,9.0,2023,129
+1.0,0:44,,,NOR 35,7.0,7.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,129
+1.0,0:44,1.0,10.0,CHI 25,7.0,7.0,Tyson Bagent pass complete short left to Darnell Mooney for 38 yards (tackle by Khalen Saunders),0.61,3.12,9.0,2023,129
+2.0,15:00,1.0,10.0,NOR 37,7.0,7.0,Tyson Bagent pass complete short left to D.J. Moore for 18 yards (tackle by Zack Baun),3.12,4.31,9.0,2023,129
+2.0,14:21,1.0,10.0,NOR 19,7.0,7.0,D'Onta Foreman left tackle for 5 yards (tackle by Cameron Jordan),4.31,4.53,9.0,2023,129
+2.0,13:43,2.0,5.0,NOR 14,7.0,7.0,D'Onta Foreman left guard for 3 yards (tackle by Malcolm Roach and Cameron Jordan),4.53,4.43,9.0,2023,129
+2.0,13:24,3.0,2.0,NOR 11,7.0,7.0,"Tyson Bagent pass incomplete short right. Penalty on Lucas Patrick: Offensive Holding, 10 yards (accepted) (no play)",4.43,2.81,9.0,2023,129
+2.0,13:15,3.0,12.0,NOR 21,7.0,7.0,"Tyson Bagent scrambles left end for 11 yards (tackle by Marcus Maye) CHI challenged the first down ruling, and the original play was overturned. Tyson Bagent scrambles left end for 12 yards (tackle by Marcus Maye)",2.81,5.14,9.0,2023,129
+2.0,12:57,1.0,9.0,NOR 9,13.0,7.0,"Tyson Bagent pass complete short left to Cole Kmet for 9 yards, touchdown",5.14,7.0,9.0,2023,129
+2.0,12:52,,,NOR 15,14.0,7.0,Cairo Santos kicks extra point good,0.0,0.0,9.0,2023,129
+2.0,12:52,,,CHI 35,14.0,7.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,129
+2.0,12:52,1.0,10.0,NOR 25,14.0,7.0,Derek Carr pass complete short middle to Foster Moreau for 23 yards (tackle by Jack Sanborn),0.61,2.13,9.0,2023,129
+2.0,12:05,1.0,10.0,NOR 48,14.0,7.0,Alvin Kamara left end for no gain (tackle by Eddie Jackson),2.13,1.58,9.0,2023,129
+2.0,11:40,2.0,10.0,NOR 48,14.0,7.0,Derek Carr pass complete short right to Jamaal Williams for 2 yards (tackle by Kyler Gordon),1.58,1.16,9.0,2023,129
+2.0,10:56,3.0,8.0,NOR 50,14.0,7.0,Derek Carr pass complete short middle to Alvin Kamara for 13 yards (tackle by Jaylon Johnson),1.16,3.12,9.0,2023,129
+2.0,10:09,1.0,10.0,CHI 37,14.0,7.0,Taysom Hill right end for 14 yards (tackle by T.J. Edwards),3.12,4.04,9.0,2023,129
+2.0,9:28,1.0,10.0,CHI 23,14.0,7.0,Jamaal Williams right guard for 3 yards (tackle by Noah Sewell and Zacch Pickens),4.04,3.9,9.0,2023,129
+2.0,8:49,2.0,7.0,CHI 20,14.0,7.0,Derek Carr pass complete short left to Juwan Johnson for 1 yard (tackle by Jack Sanborn),3.9,3.34,9.0,2023,129
+2.0,8:07,3.0,6.0,CHI 19,14.0,7.0,Derek Carr pass complete short middle to Juwan Johnson for 14 yards (tackle by Duron Harmon),3.34,6.06,9.0,2023,129
+2.0,7:26,1.0,5.0,CHI 5,14.0,7.0,Alvin Kamara left guard for 4 yards (tackle by Tyrique Stevenson),6.06,5.91,9.0,2023,129
+2.0,6:47,2.0,1.0,CHI 1,14.0,7.0,Taysom Hill right tackle for -1 yards (tackle by T.J. Edwards and Andrew Billings),5.91,4.95,9.0,2023,129
+2.0,6:08,3.0,2.0,CHI 2,14.0,13.0,"Derek Carr pass complete short right to Taysom Hill for 2 yards, touchdown",4.95,7.0,9.0,2023,129
+2.0,6:05,,,CHI 15,14.0,14.0,Blake Grupe kicks extra point good,0.0,0.0,9.0,2023,129
+2.0,6:05,,,NOR 35,14.0,14.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,129
+2.0,6:05,1.0,10.0,CHI 25,14.0,14.0,Tyson Bagent right end for 3 yards (tackle by Zack Baun),0.61,0.47,9.0,2023,129
+2.0,5:25,2.0,7.0,CHI 28,14.0,14.0,Tyson Bagent scrambles right end for 16 yards (tackle by Tyrann Mathieu),0.47,1.86,9.0,2023,129
+2.0,4:43,1.0,10.0,CHI 44,14.0,14.0,Roschon Johnson right tackle for 2 yards (tackle by Paulson Adebo and Cameron Jordan),1.86,1.59,9.0,2023,129
+2.0,4:00,2.0,8.0,CHI 46,14.0,14.0,Roschon Johnson left tackle for 4 yards (tackle by Bryan Bresee),1.59,1.42,9.0,2023,129
+2.0,3:27,3.0,4.0,CHI 50,14.0,14.0,Tyson Bagent pass complete short right to Darnell Mooney for 7 yards (tackle by Paulson Adebo),1.42,2.72,9.0,2023,129
+2.0,2:50,1.0,10.0,NOR 43,14.0,14.0,Tyson Bagent pass complete short left to Cole Kmet for no gain (tackle by Demario Davis),2.72,2.18,9.0,2023,129
+2.0,2:09,2.0,10.0,NOR 43,14.0,14.0,D'Onta Foreman left end for 8 yards (tackle by Nathan Shepherd),2.18,2.54,9.0,2023,129
+2.0,2:00,3.0,2.0,NOR 35,14.0,14.0,Tyson Bagent left end for 4 yards (tackle by Nathan Shepherd),2.54,3.51,9.0,2023,129
+2.0,1:20,1.0,10.0,NOR 31,14.0,14.0,Tyson Bagent pass complete short right to Darnell Mooney for 12 yards (tackle by Tyrann Mathieu),3.51,4.31,9.0,2023,129
+2.0,0:54,1.0,10.0,NOR 19,14.0,14.0,D'Onta Foreman right guard for 1 yard (tackle by Cameron Jordan),4.31,3.88,9.0,2023,129
+2.0,0:49,,,,,,Timeout #2 by Chicago Bears,,,9.0,2023,129
+2.0,0:49,2.0,9.0,NOR 18,14.0,14.0,Tyson Bagent sacked by Cameron Jordan for -4 yards,3.88,2.68,9.0,2023,129
+2.0,0:43,,,,,,Timeout #1 by New Orleans Saints,,,9.0,2023,129
+2.0,0:43,3.0,13.0,NOR 22,14.0,14.0,Tyson Bagent pass incomplete deep left,2.68,1.99,9.0,2023,129
+2.0,0:32,4.0,13.0,NOR 22,14.0,14.0,Cairo Santos 40 yard field goal no good,1.99,-0.94,9.0,2023,129
+2.0,0:28,1.0,10.0,NOR 30,14.0,14.0,Derek Carr pass complete short middle to Alvin Kamara for 7 yards (tackle by T.J. Edwards),0.94,1.34,9.0,2023,129
+2.0,0:23,,,,,,Timeout #2 by New Orleans Saints,,,9.0,2023,129
+2.0,0:23,2.0,3.0,NOR 37,14.0,14.0,Derek Carr pass incomplete short right,1.34,0.63,9.0,2023,129
+2.0,0:18,3.0,3.0,NOR 37,14.0,14.0,Derek Carr pass complete short left to Alvin Kamara for 17 yards (tackle by T.J. Edwards),0.63,2.52,9.0,2023,129
+2.0,0:09,,,,,,Timeout #3 by New Orleans Saints,,,9.0,2023,129
+2.0,0:09,1.0,10.0,CHI 46,14.0,14.0,Derek Carr pass incomplete short left,2.52,1.98,9.0,2023,129
+2.0,0:04,2.0,10.0,CHI 46,14.0,14.0,Derek Carr pass complete short middle to Alvin Kamara for 7 yards (tackle by T.J. Edwards),1.98,2.21,9.0,2023,129
+3.0,15:00,,,CHI 35,14.0,14.0,"Cairo Santos kicks off 67 yards, returned by Rashid Shaheed for 24 yards (tackle by Quindell Johnson)",0.0,0.41,9.0,2023,129
+3.0,14:56,1.0,10.0,NOR 22,14.0,14.0,Derek Carr scrambles left end for 4 yards (tackle by Elijah Hicks),0.41,0.41,9.0,2023,129
+3.0,14:24,2.0,6.0,NOR 26,14.0,14.0,Alvin Kamara left guard for 3 yards (tackle by Elijah Hicks),0.41,0.1,9.0,2023,129
+3.0,13:55,3.0,3.0,NOR 29,14.0,14.0,Derek Carr pass incomplete short middle intended for Chris Olave,0.1,-1.44,9.0,2023,129
+3.0,13:51,4.0,3.0,NOR 29,14.0,14.0,"Lou Hedley punts 48 yards, fair catch by Trent Taylor at CHI-23",-1.44,-0.48,9.0,2023,129
+3.0,13:44,1.0,10.0,CHI 23,14.0,14.0,Tyson Bagent left end for 6 yards (tackle by Tyrann Mathieu),0.48,0.74,9.0,2023,129
+3.0,13:08,2.0,4.0,CHI 29,14.0,14.0,"Tyson Bagent pass complete short middle to D.J. Moore for 10 yards. D.J. Moore fumbles (forced by Paulson Adebo), recovered by Paulson Adebo at CHI-39",0.74,-2.98,9.0,2023,129
+3.0,12:59,1.0,10.0,CHI 39,14.0,14.0,Alvin Kamara right guard for 2 yards (tackle by Andrew Billings),2.98,2.71,9.0,2023,129
+3.0,12:26,2.0,8.0,CHI 37,14.0,14.0,Derek Carr pass complete short left to Taysom Hill for no gain (tackle by Jaylon Johnson),2.71,2.02,9.0,2023,129
+3.0,11:52,3.0,8.0,CHI 37,14.0,14.0,Derek Carr pass incomplete short left intended for Jamaal Williams (defended by Montez Sweat),2.02,0.79,9.0,2023,129
+3.0,11:48,4.0,8.0,CHI 37,14.0,17.0,Blake Grupe 55 yard field goal good,0.79,3.0,9.0,2023,129
+3.0,11:43,,,NOR 35,14.0,17.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,129
+3.0,11:43,1.0,10.0,CHI 25,14.0,17.0,Tyson Bagent pass complete short left to Cole Kmet for 11 yards (tackle by Paulson Adebo and Khalen Saunders),0.61,1.33,9.0,2023,129
+3.0,11:08,1.0,10.0,CHI 36,14.0,17.0,D'Onta Foreman left guard for no gain (tackle by Khalen Saunders and Carl Granderson),1.33,0.79,9.0,2023,129
+3.0,10:36,2.0,10.0,CHI 36,14.0,17.0,D'Onta Foreman right tackle for 9 yards (tackle by Demario Davis and Paulson Adebo),0.79,1.29,9.0,2023,129
+3.0,9:57,3.0,1.0,CHI 45,14.0,17.0,"Tyson Bagent for no gain. Penalty on Cody Whitehair: Offensive Offside, 5 yards (accepted) (no play)",1.29,0.63,9.0,2023,129
+3.0,9:42,3.0,6.0,CHI 40,14.0,17.0,Tyson Bagent pass complete short middle to Darnell Mooney for 12 yards (tackle by Marshon Lattimore),0.63,2.39,9.0,2023,129
+3.0,9:03,1.0,10.0,NOR 48,14.0,17.0,D'Onta Foreman right tackle for 5 yards (tackle by Alontae Taylor),2.39,2.52,9.0,2023,129
+3.0,8:26,2.0,5.0,NOR 43,14.0,17.0,D'Onta Foreman left guard for no gain (tackle by Carl Granderson and Bryan Bresee),2.52,1.82,9.0,2023,129
+3.0,7:46,3.0,5.0,NOR 43,14.0,17.0,Tyson Bagent pass complete short middle to Robert Tonyan for 11 yards (tackle by Pete Werner),1.82,3.45,9.0,2023,129
+3.0,7:04,1.0,10.0,NOR 32,14.0,17.0,Tyson Bagent pass complete short left to Roschon Johnson for 9 yards (tackle by Pete Werner and Marshon Lattimore),3.45,4.12,9.0,2023,129
+3.0,6:22,2.0,1.0,NOR 23,14.0,17.0,"D'Onta Foreman left guard for no gain. Penalty on Lucas Patrick: Offensive Holding, 10 yards (accepted) . Penalty on Braxton Jones: Offensive Holding, 10 yards (declined) (no play)",4.12,2.77,9.0,2023,129
+3.0,5:55,2.0,11.0,NOR 33,14.0,17.0,"Penalty on Braxton Jones: False Start, 5 yards (accepted) (no play)",2.77,2.09,9.0,2023,129
+3.0,5:43,2.0,16.0,NOR 38,14.0,17.0,D'Onta Foreman right guard for 22 yards (tackle by Marcus Maye),2.09,4.51,9.0,2023,129
+3.0,4:56,1.0,10.0,NOR 16,14.0,17.0,D'Onta Foreman right guard for -1 yards (tackle by Demario Davis),4.51,3.77,9.0,2023,129
+3.0,4:15,2.0,11.0,NOR 17,14.0,17.0,Tyson Bagent scrambles right end for 4 yards (tackle by Demario Davis),3.77,3.54,9.0,2023,129
+3.0,3:35,3.0,7.0,NOR 13,14.0,17.0,Tyson Bagent pass incomplete short right intended for D.J. Moore (defended by Tyrann Mathieu) (defended by Paulson Adebo),3.54,2.57,9.0,2023,129
+3.0,3:30,4.0,7.0,NOR 13,17.0,17.0,Cairo Santos 31 yard field goal good,2.57,3.0,9.0,2023,129
+3.0,3:27,,,CHI 35,17.0,17.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,129
+3.0,3:27,1.0,10.0,NOR 25,17.0,17.0,Derek Carr pass incomplete short right,0.61,0.06,9.0,2023,129
+3.0,3:20,,,,,,Timeout #1 by New Orleans Saints,,,9.0,2023,129
+3.0,3:20,2.0,10.0,NOR 25,17.0,17.0,Derek Carr pass complete short left to Kendre Miller for 31 yards (tackle by Eddie Jackson),0.06,2.65,9.0,2023,129
+3.0,2:46,1.0,10.0,CHI 44,17.0,17.0,Kendre Miller left guard for no gain (tackle by Jaylon Johnson and T.J. Edwards),2.65,2.11,9.0,2023,129
+3.0,2:03,2.0,10.0,CHI 44,17.0,17.0,Derek Carr pass incomplete short left intended for Alvin Kamara,2.11,1.42,9.0,2023,129
+3.0,2:00,3.0,10.0,CHI 44,17.0,17.0,Derek Carr pass complete short middle to Juwan Johnson for 5 yards (tackle by Jack Sanborn),1.42,0.66,9.0,2023,129
+3.0,1:12,4.0,5.0,CHI 39,17.0,17.0,"Lou Hedley punts 30 yards, fair catch by Trent Taylor at CHI-9",0.66,0.38,9.0,2023,129
+3.0,1:05,1.0,10.0,CHI 9,17.0,17.0,D'Onta Foreman right guard for 4 yards (tackle by Carl Granderson),-0.38,-0.48,9.0,2023,129
+3.0,0:16,2.0,6.0,CHI 13,17.0,17.0,D'Onta Foreman right guard for no gain (tackle by Nathan Shepherd and Tanoh Kpassagnon),-0.48,-0.95,9.0,2023,129
+4.0,15:00,3.0,6.0,CHI 13,17.0,17.0,Tyson Bagent pass complete short right to Darrynton Evans for 2 yards (tackle by Alontae Taylor),-0.95,-2.44,9.0,2023,129
+4.0,14:10,4.0,4.0,CHI 15,17.0,17.0,"Trenton Gill punts 46 yards, returned by Rashid Shaheed for 14 yards (tackle by Roschon Johnson and Velus Jones)",-2.44,-2.46,9.0,2023,129
+4.0,13:59,1.0,10.0,CHI 47,17.0,17.0,Derek Carr pass complete short right to Juwan Johnson for 6 yards (tackle by T.J. Edwards and Elijah Hicks),2.46,2.72,9.0,2023,129
+4.0,13:29,2.0,4.0,CHI 41,17.0,17.0,Derek Carr pass complete short right to Rashid Shaheed for 12 yards (tackle by T.J. Edwards and Jaylon Jones),2.72,3.64,9.0,2023,129
+4.0,12:48,1.0,10.0,CHI 29,17.0,17.0,Taysom Hill left end for 13 yards (tackle by Montez Sweat),3.64,4.51,9.0,2023,129
+4.0,12:05,1.0,10.0,CHI 16,17.0,17.0,Alvin Kamara right guard for 13 yards (tackle by Jaylon Jones and Elijah Hicks),4.51,6.51,9.0,2023,129
+4.0,11:11,1.0,3.0,CHI 3,17.0,23.0,"Taysom Hill pass complete short left to Juwan Johnson for 3 yards, touchdown",6.51,7.0,9.0,2023,129
+4.0,11:05,,,CHI 15,17.0,24.0,Blake Grupe kicks extra point good,0.0,0.0,9.0,2023,129
+4.0,11:05,,,NOR 35,17.0,24.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.61,9.0,2023,129
+4.0,11:05,1.0,10.0,CHI 25,17.0,24.0,Tyson Bagent pass incomplete short left intended for Velus Jones (defended by Alontae Taylor),0.61,0.06,9.0,2023,129
+4.0,11:03,2.0,10.0,CHI 25,17.0,24.0,Tyson Bagent pass short middle intended for Darnell Mooney is intercepted by Marcus Maye at CHI-38 and returned for no gain (tackle by Cole Kmet),0.06,-3.05,9.0,2023,129
+4.0,10:58,1.0,10.0,CHI 38,17.0,24.0,Taysom Hill left end for 5 yards (tackle by Jaylon Jones),3.05,3.11,9.0,2023,129
+4.0,10:19,2.0,6.0,CHI 33,17.0,24.0,Alvin Kamara right guard for 1 yard (tackle by Jack Sanborn and T.J. Edwards),3.11,2.61,9.0,2023,129
+4.0,9:46,3.0,4.0,CHI 32,17.0,24.0,"Derek Carr pass incomplete short left intended for Michael Thomas. Penalty on Jaylon Jones: Defensive Holding, 6 yards (accepted) (no play)",2.61,3.78,9.0,2023,129
+4.0,9:41,1.0,10.0,CHI 27,17.0,24.0,Derek Carr pass complete short right to Rashid Shaheed for 1 yard (tackle by Kyler Gordon),3.78,3.43,9.0,2023,129
+4.0,9:03,2.0,9.0,CHI 25,17.0,24.0,"Penalty on Juwan Johnson: False Start, 5 yards (accepted) (no play)",3.43,2.76,9.0,2023,129
+4.0,9:03,2.0,14.0,CHI 30,17.0,24.0,Derek Carr pass complete short middle to Taysom Hill for 6 yards (tackle by Jack Sanborn and Justin Jones),2.76,2.87,9.0,2023,129
+4.0,8:21,3.0,8.0,CHI 24,17.0,24.0,Derek Carr pass complete short left to Chris Olave for 7 yards (tackle by Kyler Gordon),2.87,2.46,9.0,2023,129
+4.0,7:51,4.0,1.0,CHI 17,17.0,24.0,Derek Carr up the middle for no gain (tackle by T.J. Edwards and Andrew Billings),2.46,0.06,9.0,2023,129
+4.0,7:29,1.0,10.0,CHI 17,17.0,24.0,D'Onta Foreman left tackle for no gain (tackle by Malcolm Roach),-0.06,-0.58,9.0,2023,129
+4.0,6:51,2.0,10.0,CHI 17,17.0,24.0,Tyson Bagent pass incomplete short right,-0.58,-1.25,9.0,2023,129
+4.0,6:46,3.0,10.0,CHI 17,17.0,24.0,Tyson Bagent pass complete short middle to Cole Kmet for 11 yards (tackle by Tyrann Mathieu and Bryan Bresee),-1.25,0.81,9.0,2023,129
+4.0,6:02,1.0,10.0,CHI 28,17.0,24.0,D'Onta Foreman left tackle for 1 yard (tackle by Carl Granderson and Nathan Shepherd),0.81,0.4,9.0,2023,129
+4.0,5:22,2.0,9.0,CHI 29,17.0,24.0,"Lucas Patrick aborted snap, recovered by Tyson Bagent at CHI-26 Tyson Bagent pass incomplete deep right",0.4,-0.3,9.0,2023,129
+4.0,5:14,3.0,9.0,CHI 29,17.0,24.0,Tyson Bagent pass deep middle intended for Tyler Scott is intercepted by Paulson Adebo at CHI-46 and returned for no gain (tackle by Tyler Scott),-0.3,-2.52,9.0,2023,129
+4.0,5:08,1.0,10.0,CHI 46,17.0,24.0,Alvin Kamara left guard for no gain (tackle by T.J. Edwards),2.52,1.98,9.0,2023,129
+4.0,4:29,2.0,10.0,CHI 46,17.0,24.0,Derek Carr pass complete short right to Chris Olave for 1 yard (tackle by Jaylon Johnson),1.98,1.42,9.0,2023,129
+4.0,3:52,3.0,9.0,CHI 45,17.0,24.0,Derek Carr pass incomplete short right intended for Michael Thomas,1.42,0.27,9.0,2023,129
+4.0,3:49,4.0,9.0,CHI 45,17.0,24.0,Lou Hedley punts 44 yards out of bounds,0.27,0.38,9.0,2023,129
+4.0,3:41,1.0,10.0,CHI 2,17.0,24.0,Tyson Bagent pass complete short right to Cole Kmet for 6 yards (tackle by Demario Davis),-0.38,-0.34,9.0,2023,129
+4.0,3:07,2.0,4.0,CHI 8,17.0,24.0,Tyson Bagent pass incomplete deep left intended for D.J. Moore,-0.34,-0.72,9.0,2023,129
+4.0,3:00,3.0,4.0,CHI 8,17.0,24.0,Tyson Bagent pass incomplete short left intended for Tyler Scott (defended by Bryan Bresee),-0.72,-2.49,9.0,2023,129
+4.0,2:57,4.0,4.0,CHI 8,17.0,24.0,"Trenton Gill punts 49 yards, returned by Rashid Shaheed for 6 yards (tackle by Jack Sanborn). Penalty on Velus Jones: Face Mask (15 Yards), 15 yards (accepted)",-2.49,-3.18,9.0,2023,129
+4.0,2:45,1.0,10.0,CHI 36,17.0,24.0,Jamaal Williams right guard for 2 yards (tackle by Montez Sweat),3.18,2.91,9.0,2023,129
+4.0,2:41,,,,,,Timeout #1 by Chicago Bears,,,9.0,2023,129
+4.0,2:41,2.0,8.0,CHI 34,17.0,24.0,Taysom Hill right end for no gain (tackle by Eddie Jackson and Rasheem Green),2.91,2.21,9.0,2023,129
+4.0,2:37,,,,,,Timeout #2 by Chicago Bears,,,9.0,2023,129
+4.0,2:37,3.0,8.0,CHI 34,17.0,24.0,Derek Carr pass complete short left to Chris Olave for 5 yards (tackle by Eddie Jackson and Yannick Ngakoue),2.21,1.58,9.0,2023,129
+4.0,2:30,,,,,,Timeout #3 by Chicago Bears,,,9.0,2023,129
+4.0,2:30,4.0,3.0,CHI 29,17.0,24.0,Blake Grupe 47 yard field goal no good,1.58,-1.4,9.0,2023,129
+4.0,2:26,1.0,10.0,CHI 37,17.0,24.0,"Tyson Bagent pass complete short right to Roschon Johnson for no gain (tackle by Pete Werner). Penalty on Darnell Wright: Offensive Holding, 10 yards (accepted) (no play)",1.4,0.74,9.0,2023,129
+4.0,2:20,1.0,20.0,CHI 27,17.0,24.0,Tyson Bagent pass incomplete short left intended for Cole Kmet,0.74,-0.49,9.0,2023,129
+4.0,2:16,2.0,20.0,CHI 27,17.0,24.0,"Tyson Bagent sacked by Demario Davis for -4 yards. Tyson Bagent fumbles (forced by Demario Davis), recovered by Pete Werner at CHI-20 and returned for 2 yards (tackle by D.J. Moore)",-0.49,-4.37,9.0,2023,129
+4.0,2:05,1.0,10.0,CHI 18,17.0,24.0,Taysom Hill for 6 yards (tackle by T.J. Edwards),4.37,4.81,9.0,2023,129
+4.0,1:59,2.0,4.0,CHI 12,17.0,24.0,Taysom Hill right tackle for 2 yards (tackle by Jack Sanborn and Andrew Billings),4.81,4.51,9.0,2023,129
+4.0,1:13,,,,,,Timeout #2 by New Orleans Saints,,,9.0,2023,129
+4.0,1:13,3.0,2.0,CHI 10,17.0,24.0,Taysom Hill right tackle for 4 yards (tackle by Elijah Hicks),4.51,5.83,9.0,2023,129
+4.0,0:33,1.0,6.0,CHI 6,17.0,24.0,Derek Carr kneels for -1 yards,5.83,4.76,9.0,2023,129

@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,9:16,SEA 19,6,3:23,22,Punt,0,Seahawks,2.0,2022,26
+2,1,1:26,SEA 25,5,2:51,15,Punt,0,Seahawks,2.0,2022,26
+3,2,11:19,SEA 25,3,1:26,15,Interception,0,Seahawks,2.0,2022,26
+4,2,7:42,SEA 39,6,3:30,53,Interception,0,Seahawks,2.0,2022,26
+5,2,1:26,SEA 16,8,1:26,51,End of Half,0,Seahawks,2.0,2022,26
+6,3,15:00,SEA 16,3,2:11,8,Punt,0,Seahawks,2.0,2022,26
+7,3,1:23,SEA 13,3,1:31,9,Punt,0,Seahawks,2.0,2022,26
+8,4,12:31,SEA 8,6,3:31,15,Punt,0,Seahawks,2.0,2022,26
+9,4,1:51,SEA 25,7,1:51,31,End of Game,0,Seahawks,2.0,2022,26

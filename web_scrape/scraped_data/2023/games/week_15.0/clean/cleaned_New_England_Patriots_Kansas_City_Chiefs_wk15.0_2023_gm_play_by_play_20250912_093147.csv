@@ -1,0 +1,157 @@
+Quarter,Time,Down,ToGo,Location,KAN,NWE,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Chiefs won the coin toss and deferred, Patriots to receive the opening kickoff.",,,15.0,2023,217
+1.0,15:00,,,KAN 35,0.0,0.0,"Harrison Butker kicks off 62 yards, returned by Jalen Reagor for 20 yards (tackle by Justin Watson). Penalty on Brenden Schooler: Offensive Holding, 10 yards (accepted)",0.0,-0.32,15.0,2023,217
+1.0,14:52,1.0,10.0,NWE 13,0.0,0.0,Ezekiel Elliott left tackle for -1 yards (tackle by Justin Reid and Nick Bolton),-0.32,-0.93,15.0,2023,217
+1.0,14:22,2.0,12.0,NWE 12,0.0,0.0,Bailey Zappe pass complete short right to DeVante Parker for 3 yards (tackle by Nick Bolton and Chamarri Conner),-0.93,-1.18,15.0,2023,217
+1.0,13:38,3.0,8.0,NWE 15,0.0,0.0,Bailey Zappe pass incomplete short middle intended for Demario Douglas,-1.18,-2.44,15.0,2023,217
+1.0,13:33,4.0,8.0,NWE 15,0.0,0.0,"Bryce Baringer punts 47 yards, fair catch by Richie James at KC-38",-2.44,-1.47,15.0,2023,217
+1.0,13:24,1.0,10.0,KAN 38,0.0,0.0,Patrick Mahomes pass complete deep right to Noah Gray for 32 yards (tackle by Jonathan Jones and Jabrill Peppers),1.47,3.58,15.0,2023,217
+1.0,12:40,1.0,10.0,NWE 30,0.0,0.0,"Patrick Mahomes pass complete short left to Rashee Rice for -14 yards (tackle by Myles Bryant). Penalty on Alex Austin: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",3.58,3.91,15.0,2023,217
+1.0,12:37,1.0,10.0,NWE 25,0.0,0.0,Clyde Edwards-Helaire left guard for 5 yards (tackle by Ja'Whaun Bentley and Kyle Dugger),3.91,4.04,15.0,2023,217
+1.0,11:52,2.0,5.0,NWE 20,0.0,0.0,"Patrick Mahomes pass complete short right to Kadarius Toney for no gain (tackle by Alex Austin). Penalty on Rashee Rice: Offensive Pass Interference, 10 yards (accepted) (no play)",4.04,2.69,15.0,2023,217
+1.0,11:24,2.0,15.0,NWE 30,0.0,0.0,Patrick Mahomes pass complete short right to Travis Kelce for 4 yards (tackle by Myles Bryant and Christian Barmore),2.69,2.61,15.0,2023,217
+1.0,10:39,3.0,10.0,NWE 26,0.0,0.0,Patrick Mahomes pass complete short right to Jerick McKinnon for 6 yards (tackle by Jabrill Peppers),2.61,2.17,15.0,2023,217
+1.0,9:56,4.0,5.0,NWE 20,0.0,0.0,Harrison Butker 39 yard field goal no good,2.17,-0.87,15.0,2023,217
+1.0,9:51,1.0,10.0,NWE 29,0.0,0.0,Bailey Zappe pass complete short left to Hunter Henry for 2 yards (tackle by Justin Reid),0.87,0.6,15.0,2023,217
+1.0,9:21,2.0,8.0,NWE 31,0.0,0.0,Bailey Zappe pass complete short middle to Hunter Henry for 9 yards (tackle by Mike Edwards and Leo Chenal),0.6,1.6,15.0,2023,217
+1.0,8:41,1.0,10.0,NWE 40,0.0,0.0,Bailey Zappe pass complete short middle to DeVante Parker for 20 yards (tackle by Trent McDuffie),1.6,2.92,15.0,2023,217
+1.0,7:57,1.0,10.0,KAN 40,0.0,0.0,Bailey Zappe pass complete short right to DeVante Parker for 3 yards (tackle by L'Jarius Sneed),2.92,2.78,15.0,2023,217
+1.0,7:17,2.0,7.0,KAN 37,0.0,0.0,Bailey Zappe pass complete short middle to Hunter Henry for 9 yards (tackle by Justin Reid),2.78,3.71,15.0,2023,217
+1.0,6:44,1.0,10.0,KAN 28,0.0,0.0,Bailey Zappe pass complete short left to Demario Douglas for 16 yards (tackle by L'Jarius Sneed),3.71,4.78,15.0,2023,217
+1.0,6:01,1.0,10.0,KAN 12,0.0,0.0,"Bailey Zappe pass complete short middle to Demario Douglas for no gain (tackle by Trent McDuffie). Penalty on Demario Douglas: Offensive Facemask, 15 yards (accepted) (no play)",4.78,3.78,15.0,2023,217
+1.0,5:39,1.0,25.0,KAN 27,0.0,0.0,Bailey Zappe sacked by Derrick Nnadi for -2 yards,3.78,1.93,15.0,2023,217
+1.0,5:01,2.0,27.0,KAN 29,0.0,0.0,Bailey Zappe pass complete short left to Ezekiel Elliott for 3 yards (tackle by Willie Gay),1.93,1.69,15.0,2023,217
+1.0,4:18,3.0,24.0,KAN 26,0.0,0.0,Ezekiel Elliott up the middle for 3 yards (tackle by Nick Bolton),1.69,1.93,15.0,2023,217
+1.0,3:40,4.0,21.0,KAN 23,0.0,0.0,Chad Ryland 41 yard field goal no good,1.93,-1.0,15.0,2023,217
+1.0,3:35,1.0,10.0,KAN 31,0.0,0.0,Patrick Mahomes pass complete short middle to Travis Kelce for 6 yards (tackle by Jahlani Tavai),1.0,1.27,15.0,2023,217
+1.0,2:58,2.0,4.0,KAN 37,0.0,0.0,"Patrick Mahomes pass incomplete short middle Penalty on KAN: Intentional Grounding, 10 yards (offset) Penalty on NWE: Illegal Contact, 5 yards (offset) (no play)",1.27,1.27,15.0,2023,217
+1.0,2:52,2.0,4.0,KAN 37,0.0,0.0,Patrick Mahomes pass complete short right to Clyde Edwards-Helaire for 48 yards (tackle by Alex Austin),1.27,4.58,15.0,2023,217
+1.0,2:08,1.0,10.0,NWE 15,0.0,0.0,Patrick Mahomes pass complete short left to Rashee Rice for 11 yards (tackle by Jabrill Peppers),4.58,6.28,15.0,2023,217
+1.0,1:34,1.0,4.0,NWE 4,6.0,0.0,"Jerick McKinnon pass complete short middle to Rashee Rice for 4 yards, touchdown",6.28,7.0,15.0,2023,217
+1.0,1:30,,,NWE 15,7.0,0.0,Harrison Butker kicks extra point good,0.0,0.0,15.0,2023,217
+1.0,1:30,,,KAN 35,7.0,0.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,217
+1.0,1:30,1.0,10.0,NWE 25,7.0,0.0,Bailey Zappe pass complete short right to Pharaoh Brown for 4 yards (tackle by Leo Chenal),0.61,0.6,15.0,2023,217
+1.0,0:57,2.0,6.0,NWE 29,7.0,0.0,Ezekiel Elliott left guard for 5 yards (tackle by Derrick Nnadi and Leo Chenal),0.6,0.56,15.0,2023,217
+1.0,0:13,3.0,1.0,NWE 34,7.0,0.0,Bailey Zappe pass incomplete short left intended for Mike Gesicki (defended by Leo Chenal),0.56,-1.11,15.0,2023,217
+1.0,0:08,4.0,1.0,NWE 34,7.0,0.0,"Bryce Baringer punts 54 yards, returned by Richie James for 15 yards (tackle by Chris Board)",-1.11,-0.74,15.0,2023,217
+2.0,15:00,1.0,10.0,KAN 27,7.0,0.0,Clyde Edwards-Helaire left guard for 1 yard (tackle by Anfernee Jennings),0.74,0.33,15.0,2023,217
+2.0,14:33,2.0,9.0,KAN 28,7.0,0.0,Patrick Mahomes sacked by Christian Barmore for -7 yards,0.33,-1.29,15.0,2023,217
+2.0,13:43,3.0,16.0,KAN 21,7.0,0.0,Patrick Mahomes pass complete short middle to Jerick McKinnon for 5 yards (tackle by Mack Wilson),-1.29,-1.63,15.0,2023,217
+2.0,13:06,4.0,11.0,KAN 26,7.0,0.0,Tommy Townsend punts 35 yards downed by Leo Chenal,-1.63,-1.53,15.0,2023,217
+2.0,12:56,1.0,10.0,NWE 39,7.0,0.0,Bailey Zappe sacked by Drue Tranquill for -7 yards,1.53,0.04,15.0,2023,217
+2.0,12:14,2.0,17.0,NWE 32,7.0,0.0,Bailey Zappe pass complete short middle to Tyquan Thornton for 5 yards (tackle by Leo Chenal and Drue Tranquill),0.04,0.04,15.0,2023,217
+2.0,11:34,3.0,12.0,NWE 37,7.0,0.0,"Bailey Zappe pass complete short middle to Hunter Henry for 15 yards (tackle by Chamarri Conner). Penalty on Justin Reid: Defensive Holding, 5 yards (declined)",0.04,2.39,15.0,2023,217
+2.0,11:04,1.0,10.0,KAN 48,7.0,0.0,Bailey Zappe pass complete short left to Hunter Henry for 6 yards (tackle by Leo Chenal and Mike Edwards),2.39,2.66,15.0,2023,217
+2.0,10:44,2.0,4.0,KAN 42,7.0,0.0,Bailey Zappe pass complete short right to DeVante Parker for -1 yards (tackle by L'Jarius Sneed),2.66,1.82,15.0,2023,217
+2.0,10:02,3.0,5.0,KAN 43,7.0,0.0,Bailey Zappe pass complete short right to DeVante Parker for 19 yards (tackle by Mike Edwards and L'Jarius Sneed),1.82,3.97,15.0,2023,217
+2.0,9:22,1.0,10.0,KAN 24,7.0,0.0,Ezekiel Elliott right guard for 1 yard (tackle by L'Jarius Sneed),3.97,3.57,15.0,2023,217
+2.0,8:43,2.0,9.0,KAN 23,7.0,0.0,Bailey Zappe pass complete short right to Ezekiel Elliott for 6 yards (tackle by Willie Gay),3.57,3.75,15.0,2023,217
+2.0,8:03,3.0,3.0,KAN 17,7.0,0.0,Ezekiel Elliott up the middle for 1 yard (tackle by Justin Reid),3.75,2.5,15.0,2023,217
+2.0,7:14,4.0,2.0,KAN 16,7.0,6.0,"Bailey Zappe pass complete deep right to Hunter Henry for 16 yards, touchdown",2.5,7.0,15.0,2023,217
+2.0,7:09,,,KAN 15,7.0,7.0,Chad Ryland kicks extra point good,0.0,0.0,15.0,2023,217
+2.0,7:09,,,NWE 35,7.0,7.0,"Chad Ryland kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,217
+2.0,7:09,1.0,10.0,KAN 25,7.0,7.0,Patrick Mahomes pass short middle intended for Blake Bell is intercepted by Marte Mapu at KC-28 and returned for 20 yards (tackle by Noah Gray),0.61,-5.37,15.0,2023,217
+2.0,6:57,1.0,8.0,KAN 8,7.0,7.0,Ezekiel Elliott left guard for 5 yards (tackle by Mike Edwards),5.37,5.53,15.0,2023,217
+2.0,6:22,2.0,3.0,KAN 3,7.0,7.0,Ezekiel Elliott left end for no gain (tackle by L'Jarius Sneed and Mike Edwards),5.53,4.72,15.0,2023,217
+2.0,5:42,3.0,3.0,KAN 3,7.0,7.0,"Bailey Zappe pass complete short left to Hunter Henry for no gain. Penalty on Conor McDermott: Offensive Holding, 10 yards (accepted) (no play)",4.72,3.06,15.0,2023,217
+2.0,5:34,3.0,13.0,KAN 13,7.0,7.0,Bailey Zappe pass complete short left to Ezekiel Elliott for 6 yards (tackle by Justin Reid and Mike Edwards),3.06,2.97,15.0,2023,217
+2.0,4:50,4.0,7.0,KAN 7,7.0,10.0,Chad Ryland 25 yard field goal good,2.97,3.0,15.0,2023,217
+2.0,4:47,,,NWE 35,7.0,10.0,"Chad Ryland kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,217
+2.0,4:47,1.0,10.0,KAN 25,7.0,10.0,Jerick McKinnon up the middle for 4 yards (tackle by Christian Barmore),0.61,0.6,15.0,2023,217
+2.0,4:15,2.0,6.0,KAN 29,7.0,10.0,Patrick Mahomes pass complete short middle to Kadarius Toney for 3 yards (tackle by Anfernee Jennings),0.6,0.3,15.0,2023,217
+2.0,3:36,3.0,3.0,KAN 32,7.0,10.0,"Penalty on Jawaan Taylor: False Start, 5 yards (accepted) (no play)",0.3,-0.36,15.0,2023,217
+2.0,3:22,3.0,8.0,KAN 27,7.0,10.0,Patrick Mahomes pass complete deep left to Justin Watson for 31 yards (tackle by Jonathan Jones),-0.36,2.79,15.0,2023,217
+2.0,2:42,1.0,10.0,NWE 42,7.0,10.0,Patrick Mahomes pass incomplete short left,2.79,2.24,15.0,2023,217
+2.0,2:38,2.0,10.0,NWE 42,7.0,10.0,Jerick McKinnon left guard for 1 yard (tackle by Josh Uche and Jeremiah Pharms),2.24,1.68,15.0,2023,217
+2.0,2:09,3.0,9.0,NWE 41,7.0,10.0,Patrick Mahomes pass complete short middle to Rashee Rice for 20 yards (tackle by Ja'Whaun Bentley and Kyle Dugger),1.68,4.17,15.0,2023,217
+2.0,2:00,1.0,10.0,NWE 21,7.0,10.0,Jerick McKinnon right tackle for 2 yards (tackle by Anfernee Jennings),4.17,3.9,15.0,2023,217
+2.0,1:24,2.0,8.0,NWE 19,7.0,10.0,Patrick Mahomes pass complete short right to Rashee Rice for 7 yards (tackle by Kyle Dugger),3.9,4.49,15.0,2023,217
+2.0,0:50,,,,,,Timeout #1 by New England Patriots,,,15.0,2023,217
+2.0,0:50,3.0,1.0,NWE 12,7.0,10.0,Clyde Edwards-Helaire left guard for 2 yards (tackle by Davon Godchaux and Jabrill Peppers),4.49,4.91,15.0,2023,217
+2.0,0:45,,,,,,Timeout #1 by Kansas City Chiefs,,,15.0,2023,217
+2.0,0:45,1.0,10.0,NWE 10,7.0,10.0,Patrick Mahomes pass complete short left to Kadarius Toney for 2 yards (tackle by Jalen Mills),4.91,4.57,15.0,2023,217
+2.0,0:40,,,,,,Timeout #2 by Kansas City Chiefs,,,15.0,2023,217
+2.0,0:40,2.0,8.0,NWE 8,13.0,10.0,"Patrick Mahomes pass complete short right to Jerick McKinnon for 8 yards, touchdown",4.57,7.0,15.0,2023,217
+2.0,0:35,,,NWE 15,14.0,10.0,Harrison Butker kicks extra point good,0.0,0.0,15.0,2023,217
+2.0,0:35,,,KAN 35,14.0,10.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,217
+2.0,0:35,1.0,10.0,NWE 25,14.0,10.0,Ezekiel Elliott left tackle for 3 yards (tackle by Nick Bolton and Michael Danna),0.61,0.47,15.0,2023,217
+3.0,15:00,,,NWE 35,14.0,10.0,"Chad Ryland kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,217
+3.0,15:00,1.0,10.0,KAN 25,14.0,10.0,"Patrick Mahomes pass complete short left to Rashee Rice for 24 yards. Rashee Rice fumbles (forced by Jalen Mills), recovered by Rashee Rice at KC-49 (tackle by Jalen Mills)",0.61,2.19,15.0,2023,217
+3.0,14:32,1.0,10.0,KAN 49,14.0,10.0,Clyde Edwards-Helaire left guard for 3 yards (tackle by Lawrence Guy and Deatrich Wise),2.19,2.05,15.0,2023,217
+3.0,13:40,2.0,7.0,NWE 48,14.0,10.0,"Patrick Mahomes pass complete short middle to Skyy Moore for no gain. Skyy Moore fumbles (forced by Jonathan Jones), recovered by Jabrill Peppers at NE-41 (tackle by Jonathan Jones). Penalty on Alex Austin: Defensive Holding, 5 yards (accepted) (no play)",2.05,2.72,15.0,2023,217
+3.0,13:25,1.0,10.0,NWE 43,14.0,10.0,Patrick Mahomes pass incomplete deep left intended for Justin Watson,2.72,2.18,15.0,2023,217
+3.0,13:20,2.0,10.0,NWE 43,14.0,10.0,Patrick Mahomes pass incomplete short right,2.18,1.49,15.0,2023,217
+3.0,13:12,3.0,10.0,NWE 43,14.0,10.0,Patrick Mahomes pass complete short right to Rashee Rice for 11 yards (tackle by Myles Bryant),1.49,3.45,15.0,2023,217
+3.0,12:32,1.0,10.0,NWE 32,14.0,10.0,Clyde Edwards-Helaire up the middle for 1 yard (tackle by Lawrence Guy),3.45,3.04,15.0,2023,217
+3.0,12:02,2.0,9.0,NWE 31,14.0,10.0,Patrick Mahomes pass complete short left to Richie James for 17 yards (tackle by Kyle Dugger),3.04,4.65,15.0,2023,217
+3.0,11:21,1.0,10.0,NWE 14,14.0,10.0,Patrick Mahomes pass incomplete short middle intended for Travis Kelce,4.65,4.0,15.0,2023,217
+3.0,11:14,2.0,10.0,NWE 14,14.0,10.0,Patrick Mahomes pass complete short middle to Travis Kelce for 3 yards (tackle by Ja'Whaun Bentley and Mack Wilson),4.0,3.62,15.0,2023,217
+3.0,10:39,3.0,7.0,NWE 11,14.0,10.0,Patrick Mahomes pass incomplete short right intended for Travis Kelce,3.62,2.7,15.0,2023,217
+3.0,10:32,4.0,7.0,NWE 11,17.0,10.0,Harrison Butker 29 yard field goal good,2.7,3.0,15.0,2023,217
+3.0,10:29,,,KAN 35,17.0,10.0,"Harrison Butker kicks off 68 yards, returned by Jalen Reagor for 24 yards (tackle by Chamarri Conner and Leo Chenal)",0.0,0.34,15.0,2023,217
+3.0,10:22,1.0,10.0,NWE 21,17.0,10.0,Bailey Zappe pass short right intended for Hunter Henry is intercepted by Willie Gay at NE-31 and returned for 24 yards (tackle by David Andrews),0.34,-5.6,15.0,2023,217
+3.0,10:11,1.0,7.0,NWE 7,17.0,10.0,Patrick Mahomes pass complete short left to Clyde Edwards-Helaire for 1 yard (tackle by Jabrill Peppers),5.6,4.95,15.0,2023,217
+3.0,9:29,2.0,6.0,NWE 6,23.0,10.0,"Patrick Mahomes pass complete short left to Clyde Edwards-Helaire for 6 yards, touchdown",4.95,7.0,15.0,2023,217
+3.0,9:22,,,NWE 15,24.0,10.0,Harrison Butker kicks extra point good,0.0,0.0,15.0,2023,217
+3.0,9:22,,,KAN 35,24.0,10.0,"Harrison Butker kicks off 70 yards, returned by Jalen Reagor for 40 yards (tackle by Jaylen Watson)",0.0,1.27,15.0,2023,217
+3.0,9:14,1.0,10.0,NWE 35,24.0,10.0,Kevin Harris right guard for 5 yards (tackle by L'Jarius Sneed),1.27,1.4,15.0,2023,217
+3.0,8:37,2.0,5.0,NWE 40,24.0,10.0,Bailey Zappe pass complete short right to Hunter Henry for 9 yards (tackle by Justin Reid),1.4,2.19,15.0,2023,217
+3.0,8:03,1.0,10.0,NWE 49,24.0,10.0,Kevin Harris left tackle for -2 yards (tackle by Chris Jones),2.19,1.38,15.0,2023,217
+3.0,7:29,2.0,12.0,NWE 47,24.0,10.0,Bailey Zappe pass incomplete short left intended for Jalen Reagor (defended by Chris Jones),1.38,0.7,15.0,2023,217
+3.0,7:19,3.0,12.0,NWE 47,24.0,10.0,Bailey Zappe sacked by Jaylen Watson for -10 yards,0.7,-0.91,15.0,2023,217
+3.0,6:45,4.0,22.0,NWE 37,24.0,10.0,Bryce Baringer punts 37 yards downed by Ja'Whaun Bentley,-0.91,-0.67,15.0,2023,217
+3.0,6:33,1.0,10.0,KAN 26,24.0,10.0,Patrick Mahomes pass complete short middle to Marquez Valdes-Scantling for 17 yards (tackle by Jabrill Peppers),0.67,1.8,15.0,2023,217
+3.0,5:57,1.0,10.0,KAN 43,24.0,10.0,Clyde Edwards-Helaire up the middle for 20 yards (tackle by Alex Austin),1.8,3.12,15.0,2023,217
+3.0,5:24,1.0,10.0,NWE 37,24.0,10.0,Clyde Edwards-Helaire right tackle for -3 yards (tackle by Anfernee Jennings),3.12,2.17,15.0,2023,217
+3.0,4:35,2.0,13.0,NWE 40,24.0,10.0,Patrick Mahomes pass incomplete short left,2.17,1.49,15.0,2023,217
+3.0,4:28,,,,,,Timeout #1 by Kansas City Chiefs,,,15.0,2023,217
+3.0,4:28,3.0,13.0,NWE 40,24.0,10.0,Patrick Mahomes pass complete short left to Noah Gray for 5 yards (tackle by Kyle Dugger),1.49,0.97,15.0,2023,217
+3.0,3:45,4.0,8.0,NWE 35,27.0,10.0,Harrison Butker 54 yard field goal good,0.97,3.0,15.0,2023,217
+3.0,3:40,,,KAN 35,27.0,10.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,217
+3.0,3:40,1.0,10.0,NWE 25,27.0,10.0,Ezekiel Elliott right tackle for 4 yards (tackle by L'Jarius Sneed),0.61,0.6,15.0,2023,217
+3.0,3:03,2.0,6.0,NWE 29,27.0,10.0,"Bailey Zappe sacked by Charles Omenihu for -7 yards. Bailey Zappe fumbles (forced by Charles Omenihu), recovered by Conor McDermott at NE-22 and returned for 7 yards",0.6,-1.02,15.0,2023,217
+3.0,2:08,3.0,13.0,NWE 22,27.0,10.0,Bailey Zappe pass complete short middle to Demario Douglas for 6 yards (tackle by Nick Bolton),-1.02,-1.5,15.0,2023,217
+3.0,1:46,4.0,7.0,NWE 28,27.0,10.0,"Bryce Baringer punts 64 yards, returned by Richie James for 18 yards (tackle by Christian Elliss)",-1.5,-0.67,15.0,2023,217
+3.0,1:34,1.0,10.0,KAN 26,27.0,10.0,Patrick Mahomes pass incomplete deep left intended for Justin Watson,0.67,0.13,15.0,2023,217
+3.0,1:30,2.0,10.0,KAN 26,27.0,10.0,Patrick Mahomes pass complete short left to Rashee Rice for 1 yard (tackle by Alex Austin),0.13,-0.43,15.0,2023,217
+3.0,0:53,3.0,9.0,KAN 27,27.0,10.0,Patrick Mahomes pass incomplete short middle intended for Kadarius Toney (defended by Jonathan Jones),-0.43,-1.57,15.0,2023,217
+3.0,0:47,4.0,9.0,KAN 27,27.0,10.0,"Tommy Townsend punts 44 yards, returned by Myles Bryant for 6 yards (tackle by Cam Jones)",-1.57,-1.27,15.0,2023,217
+3.0,0:36,1.0,10.0,NWE 35,27.0,10.0,Bailey Zappe pass complete short left to Ezekiel Elliott for 7 yards (tackle by Mike Pennel),1.27,1.67,15.0,2023,217
+4.0,15:00,2.0,3.0,NWE 42,27.0,10.0,Bailey Zappe pass incomplete deep right intended for Demario Douglas,1.67,0.96,15.0,2023,217
+4.0,14:54,3.0,3.0,NWE 42,27.0,10.0,"Bailey Zappe pass complete short right to Hunter Henry for 3 yards (tackle by L'Jarius Sneed) KAN challenged the pass completion ruling, and the original play was overturned. Bailey Zappe pass incomplete short right intended for Hunter Henry (defended by L'Jarius Sneed)",0.96,-0.59,15.0,2023,217
+4.0,14:50,4.0,3.0,NWE 42,27.0,10.0,"Bryce Baringer punts 43 yards, fair catch by Richie James at KC-15",-0.59,0.22,15.0,2023,217
+4.0,14:43,1.0,10.0,KAN 15,27.0,10.0,Clyde Edwards-Helaire right guard for 3 yards (tackle by Anfernee Jennings and Jeremiah Pharms),-0.22,-0.28,15.0,2023,217
+4.0,14:11,2.0,7.0,KAN 18,27.0,10.0,Patrick Mahomes pass complete short left to Clyde Edwards-Helaire for 9 yards (tackle by Myles Bryant and Jalen Mills),-0.28,0.74,15.0,2023,217
+4.0,13:32,1.0,10.0,KAN 27,27.0,10.0,Patrick Mahomes pass complete short middle to Travis Kelce for 4 yards (tackle by Jabrill Peppers),0.74,0.74,15.0,2023,217
+4.0,12:51,2.0,6.0,KAN 31,27.0,10.0,Jerick McKinnon left tackle for 4 yards (tackle by Jeremiah Pharms),0.74,0.56,15.0,2023,217
+4.0,12:11,3.0,2.0,KAN 35,27.0,10.0,Patrick Mahomes sacked by Deatrich Wise for -10 yards,0.56,-1.7,15.0,2023,217
+4.0,11:32,4.0,12.0,KAN 25,27.0,10.0,"Tommy Townsend punts 61 yards, returned by Myles Bryant for 13 yards (tackle by Nic Jones)",-1.7,-0.74,15.0,2023,217
+4.0,11:22,1.0,10.0,NWE 27,27.0,10.0,Bailey Zappe pass complete short right to Ezekiel Elliott for -1 yards (tackle by L'Jarius Sneed),0.74,0.06,15.0,2023,217
+4.0,10:47,2.0,11.0,NWE 26,27.0,10.0,Ezekiel Elliott left guard for no gain (tackle by Chamarri Conner and Charles Omenihu),0.06,-0.62,15.0,2023,217
+4.0,10:06,3.0,11.0,NWE 26,27.0,10.0,Bailey Zappe pass complete short left to Mike Gesicki for 7 yards (tackle by George Karlaftis),-0.62,-1.18,15.0,2023,217
+4.0,9:28,4.0,4.0,NWE 33,27.0,10.0,"Bryce Baringer punts 43 yards, fair catch by Richie James at KC-24",-1.18,-0.54,15.0,2023,217
+4.0,9:20,1.0,10.0,KAN 24,27.0,10.0,Patrick Mahomes pass short middle intended for Kadarius Toney is intercepted by Jahlani Tavai at KC-31 and returned for 2 yards. Jahlani Tavai fumbles (forced by Creed Humphrey). Jahlani Tavai fumbles out of bounds,0.54,-3.64,15.0,2023,217
+4.0,9:08,1.0,10.0,KAN 29,27.0,10.0,Bailey Zappe pass complete short left to Demario Douglas for 11 yards (tackle by Justin Reid),3.64,4.37,15.0,2023,217
+4.0,8:31,1.0,10.0,KAN 18,27.0,16.0,"Kevin Harris up the middle for 18 yards, touchdown",4.37,7.0,15.0,2023,217
+4.0,8:24,,,KAN 15,27.0,17.0,Chad Ryland kicks extra point good,0.0,0.0,15.0,2023,217
+4.0,8:24,,,NWE 35,27.0,17.0,"Chad Ryland kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,217
+4.0,8:24,1.0,10.0,KAN 25,27.0,17.0,Clyde Edwards-Helaire right guard for no gain (tackle by Christian Barmore),0.61,0.06,15.0,2023,217
+4.0,7:50,2.0,10.0,KAN 25,27.0,17.0,Patrick Mahomes pass complete short left to Rashee Rice for 6 yards (tackle by Myles Bryant),0.06,0.17,15.0,2023,217
+4.0,7:11,3.0,4.0,KAN 31,27.0,17.0,Patrick Mahomes pass complete short right to Rashee Rice for 7 yards (tackle by Kyle Dugger),0.17,1.47,15.0,2023,217
+4.0,6:31,1.0,10.0,KAN 38,27.0,17.0,Clyde Edwards-Helaire right guard for 1 yard (tackle by Christian Barmore and Jahlani Tavai),1.47,1.06,15.0,2023,217
+4.0,5:48,2.0,9.0,KAN 39,27.0,17.0,"Creed Humphrey aborted snap, recovered by Patrick Mahomes at KC-34 Patrick Mahomes pass complete short left to Travis Kelce for 11 yards (tackle by Myles Bryant)",1.06,2.26,15.0,2023,217
+4.0,5:01,1.0,10.0,NWE 50,27.0,17.0,Clyde Edwards-Helaire left tackle for 4 yards (tackle by Jahlani Tavai),2.26,2.25,15.0,2023,217
+4.0,4:22,2.0,6.0,NWE 46,27.0,17.0,Clyde Edwards-Helaire up the middle for -2 yards (tackle by Christian Barmore),2.25,1.29,15.0,2023,217
+4.0,4:18,,,,,,Timeout #1 by New England Patriots,,,15.0,2023,217
+4.0,4:18,3.0,8.0,NWE 48,27.0,17.0,Patrick Mahomes sacked by Mack Wilson for -9 yards,1.29,-0.52,15.0,2023,217
+4.0,4:11,,,,,,Timeout #2 by New England Patriots,,,15.0,2023,217
+4.0,4:11,4.0,17.0,KAN 43,27.0,17.0,Tommy Townsend punts 56 yards downed by Ekow Boye-Doe,-0.52,0.38,15.0,2023,217
+4.0,4:00,1.0,10.0,NWE 1,27.0,17.0,Bailey Zappe up the middle for 2 yards (tackle by Michael Danna),-0.38,-0.63,15.0,2023,217
+4.0,3:26,2.0,8.0,NWE 3,27.0,17.0,Ezekiel Elliott up the middle for 4 yards (tackle by Chris Jones),-0.63,-0.72,15.0,2023,217
+4.0,2:46,3.0,4.0,NWE 7,27.0,17.0,Bailey Zappe pass incomplete short right intended for Ezekiel Elliott,-0.72,-2.49,15.0,2023,217
+4.0,2:39,4.0,4.0,NWE 7,27.0,17.0,Bailey Zappe pass incomplete short right intended for Jalen Reagor (defended by L'Jarius Sneed),-2.49,-5.83,15.0,2023,217
+4.0,2:35,1.0,6.0,NWE 6,27.0,17.0,Clyde Edwards-Helaire right end for 2 yards (tackle by Kyle Dugger),5.83,0.0,15.0,2023,217
+4.0,2:00,2.0,5.0,NWE 4,27.0,17.0,Patrick Mahomes kneels for -1 yards,0.0,0.0,15.0,2023,217
+4.0,1:19,3.0,6.0,NWE 5,27.0,17.0,Patrick Mahomes kneels for -2 yards,0.0,2.97,15.0,2023,217
+4.0,0:44,4.0,7.0,NWE 7,27.0,17.0,Patrick Mahomes kneels for -2 yards,2.97,0.38,15.0,2023,217
+4.0,0:35,1.0,10.0,NWE 9,27.0,17.0,Kevin Harris right guard for 4 yards (tackle by Michael Danna and Tershawn Wharton),-0.38,-0.48,15.0,2023,217

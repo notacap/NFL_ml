@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,JAX 30,7,3:15,22,Punt,0,Jaguars,16.0,2024,237
+2,1,9:03,JAX 29,6,1:57,26,Punt,0,Jaguars,16.0,2024,237
+3,1,4:04,LVR 29,6,2:32,29,Touchdown,0,Jaguars,16.0,2024,237
+4,2,14:05,JAX 30,3,1:26,-1,Punt,0,Jaguars,16.0,2024,237
+5,2,10:28,JAX 30,3,1:27,-3,Punt,0,Jaguars,16.0,2024,237
+6,2,3:56,JAX 30,1,0:06,10,Fumble,0,Jaguars,16.0,2024,237
+7,2,2:46,JAX 10,9,2:37,56,Fumble,0,Jaguars,16.0,2024,237
+8,3,13:57,JAX 25,8,5:19,19,Punt,0,Jaguars,16.0,2024,237
+9,3,5:09,JAX 9,4,1:41,4,Punt,0,Jaguars,16.0,2024,237
+10,3,2:18,JAX 36,3,1:24,64,Touchdown,0,Jaguars,16.0,2024,237
+11,4,11:26,JAX 30,3,2:06,6,Punt,0,Jaguars,16.0,2024,237
+12,4,2:44,JAX 7,8,1:52,39,Downs,0,Jaguars,16.0,2024,237

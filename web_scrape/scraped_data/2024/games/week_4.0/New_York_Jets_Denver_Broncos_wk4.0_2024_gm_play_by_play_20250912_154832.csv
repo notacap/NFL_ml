@@ -1,0 +1,179 @@
+Quarter,Time,Down,ToGo,Location,DEN,NYJ,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Broncos won the coin toss and deferred, Jets to receive the opening kickoff.",,,4.0,2024,54
+1.0,15:00,,,DEN 35,0.0,0.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,54
+1.0,15:00,1.0,10.0,NYJ 30,0.0,0.0,Aaron Rodgers sacked by Justin Strnad for -8 yards,0.94,-0.69,4.0,2024,54
+1.0,14:20,2.0,18.0,NYJ 22,0.0,0.0,Aaron Rodgers pass incomplete deep right intended for Tyler Conklin,-0.69,-1.35,4.0,2024,54
+1.0,14:16,3.0,18.0,NYJ 22,0.0,0.0,"Aaron Rodgers pass complete short middle to Garrett Wilson for 7 yards. Garrett Wilson fumbles (forced by Brandon Jones), recovered by Riley Moss at NYJ-30",-1.35,-3.58,4.0,2024,54
+1.0,14:08,1.0,10.0,NYJ 30,0.0,0.0,"Bo Nix pass complete short left to Javonte Williams for no gain (tackle by Quinnen Williams). Penalty on Troy Franklin: Offensive Pass Interference, 10 yards (accepted) (no play)",3.58,2.92,4.0,2024,54
+1.0,13:44,1.0,20.0,NYJ 40,0.0,0.0,"Bo Nix pass incomplete short left intended for Courtland Sutton. Penalty on Ben Powers: Ineligible Downfield Pass, 5 yards (declined)",2.92,1.68,4.0,2024,54
+1.0,13:44,2.0,20.0,NYJ 40,0.0,0.0,Bo Nix pass incomplete deep left intended for Courtland Sutton,1.68,1.02,4.0,2024,54
+1.0,13:39,3.0,20.0,NYJ 40,0.0,0.0,Bo Nix pass complete short right to Troy Franklin for -4 yards (tackle by D.J. Reed),1.02,0.33,4.0,2024,54
+1.0,12:58,4.0,24.0,NYJ 44,0.0,0.0,Riley Dixon punts 43 yards downed by Marvin Mims,0.33,0.38,4.0,2024,54
+1.0,12:50,1.0,10.0,NYJ 1,0.0,0.0,"Breece Hall left guard for 1 yard (tackle by John Franklin-Myers and Nik Bonitto). Penalty on Tyron Smith: Offensive Holding, 10 yards (declined)",-0.38,-0.71,4.0,2024,54
+1.0,12:29,2.0,9.0,NYJ 2,0.0,0.0,Breece Hall up the middle for no gain (tackle by D.J. Jones and Justin Strnad),-0.71,-1.3,4.0,2024,54
+1.0,11:50,3.0,9.0,NYJ 2,0.0,0.0,"Penalty on John Simpson: False Start, 1 yard (accepted) (no play)",-1.3,-1.42,4.0,2024,54
+1.0,11:33,3.0,10.0,NYJ 1,0.0,0.0,Penalty on Breece Hall: False Start (accepted) (no play),-1.42,-1.42,4.0,2024,54
+1.0,11:13,3.0,10.0,NYJ 1,0.0,0.0,Aaron Rodgers pass incomplete short middle intended for Allen Lazard (defended by Ja'Quan McMillian),-1.42,-2.49,4.0,2024,54
+1.0,11:11,4.0,10.0,NYJ 1,0.0,0.0,"Thomas Morstead punts 56 yards, returned by Marvin Mims for 5 yards (tackle by Marcelino McCrary-Ball)",-2.49,-2.13,4.0,2024,54
+1.0,10:57,1.0,10.0,DEN 48,0.0,0.0,Tyler Badie right guard for no gain (tackle by Chazz Surratt),2.13,1.58,4.0,2024,54
+1.0,10:21,2.0,10.0,DEN 48,0.0,0.0,Bo Nix pass complete short left to Tyler Badie for -1 yards (tackle by Jamien Sherwood),1.58,0.76,4.0,2024,54
+1.0,9:41,3.0,11.0,DEN 47,0.0,0.0,Bo Nix pass incomplete short right intended for Greg Dulcich,0.76,-0.26,4.0,2024,54
+1.0,9:37,4.0,11.0,DEN 47,0.0,0.0,"Riley Dixon punts 33 yards, fair catch by Xavier Gipson at NYJ-20",-0.26,-0.28,4.0,2024,54
+1.0,9:29,1.0,10.0,NYJ 20,0.0,0.0,Breece Hall right end for no gain (tackle by Jonathon Cooper and Cody Barton),0.28,-0.27,4.0,2024,54
+1.0,8:47,2.0,10.0,NYJ 20,0.0,0.0,Breece Hall right tackle for -2 yards (tackle by Justin Strnad),-0.27,-1.33,4.0,2024,54
+1.0,8:08,3.0,12.0,NYJ 18,0.0,0.0,Aaron Rodgers pass incomplete short right intended for Tyler Conklin (defended by Riley Moss),-1.33,-2.24,4.0,2024,54
+1.0,8:00,4.0,12.0,NYJ 18,0.0,0.0,"Thomas Morstead punts 48 yards, fair catch by Marvin Mims at DEN-34",-2.24,-1.2,4.0,2024,54
+1.0,7:52,1.0,10.0,DEN 34,0.0,0.0,Jaleel McLaughlin left end for 5 yards (tackle by Quincy Williams),1.2,1.33,4.0,2024,54
+1.0,7:15,2.0,5.0,DEN 39,0.0,0.0,Javonte Williams up the middle for 2 yards (tackle by Bruce Hector and Jamien Sherwood),1.33,0.89,4.0,2024,54
+1.0,6:31,3.0,3.0,DEN 41,0.0,0.0,Bo Nix pass incomplete deep middle intended for Josh Reynolds,0.89,-0.65,4.0,2024,54
+1.0,6:25,4.0,3.0,DEN 41,0.0,0.0,"Riley Dixon punts 44 yards, returned by Xavier Gipson for 8 yards (tackle by P.J. Locke)",-0.65,-0.48,4.0,2024,54
+1.0,6:14,1.0,10.0,NYJ 23,0.0,0.0,Aaron Rodgers pass complete short left to Jeremy Ruckert for 9 yards (tackle by Riley Moss),0.48,1.15,4.0,2024,54
+1.0,5:38,2.0,1.0,NYJ 32,0.0,0.0,Breece Hall right tackle for -2 yards (tackle by Jonah Elliss),1.15,0.17,4.0,2024,54
+1.0,4:59,3.0,3.0,NYJ 30,0.0,0.0,"Penalty on Tyron Smith: False Start, 5 yards (accepted) (no play)",0.17,-0.49,4.0,2024,54
+1.0,4:41,3.0,8.0,NYJ 25,0.0,0.0,Aaron Rodgers scrambles left guard for 1 yard (tackle by Zach Allen),-0.49,-1.63,4.0,2024,54
+1.0,4:00,4.0,7.0,NYJ 26,0.0,0.0,"Thomas Morstead punts 42 yards, fair catch by Marvin Mims at DEN-32. Penalty on Irvin Charles: Kick Catch Interference, 15 yards (accepted)",-1.63,-2.06,4.0,2024,54
+1.0,3:53,1.0,10.0,DEN 47,0.0,0.0,"Tyler Badie right end for no gain (tackle by Quincy Williams). Penalty on Alex Palczewski: Offensive Holding, 10 yards (accepted) (no play)",2.06,1.4,4.0,2024,54
+1.0,3:38,1.0,20.0,DEN 37,0.0,0.0,Bo Nix pass complete short right to Jaleel McLaughlin for no gain (tackle by Sauce Gardner),1.4,0.17,4.0,2024,54
+1.0,2:58,2.0,20.0,DEN 37,0.0,0.0,Bo Nix scrambles left guard for 7 yards (tackle by Jamien Sherwood),0.17,0.43,4.0,2024,54
+1.0,2:14,3.0,13.0,DEN 44,0.0,0.0,"Bo Nix pass complete short right to Tyler Badie for -3 yards. Tyler Badie fumbles (forced by Quincy Williams), recovered by Michael Carter at DEN-41 and returned for 7 yards (tackle by Luke Wattenberg)",0.43,-3.31,4.0,2024,54
+1.0,2:07,1.0,10.0,DEN 34,0.0,0.0,Braelon Allen right tackle for 9 yards (tackle by Dondrea Tillman and Riley Moss),3.31,3.99,4.0,2024,54
+1.0,1:28,2.0,1.0,DEN 25,0.0,0.0,Aaron Rodgers pass incomplete deep right intended for Breece Hall,3.99,3.27,4.0,2024,54
+1.0,1:19,3.0,1.0,DEN 25,0.0,0.0,"Braelon Allen right end for 2 yards (tackle by Riley Moss). Penalty on Allen Lazard: Offensive Holding, 10 yards (accepted) (no play)",3.27,1.95,4.0,2024,54
+1.0,1:01,3.0,11.0,DEN 35,0.0,0.0,"Aaron Rodgers pass incomplete deep right intended for Allen Lazard. Penalty on Riley Moss: Defensive Pass Interference, 34 yards (accepted) (no play)",1.95,6.97,4.0,2024,54
+1.0,0:53,1.0,1.0,DEN 1,0.0,0.0,Breece Hall right guard for no gain (tackle by Kristian Welch and John Franklin-Myers),6.97,5.91,4.0,2024,54
+1.0,0:11,2.0,1.0,DEN 1,0.0,0.0,Breece Hall left tackle for no gain (tackle by Kristian Welch and Cody Barton),5.91,5.17,4.0,2024,54
+2.0,15:00,3.0,1.0,DEN 1,0.0,0.0,Aaron Rodgers pass incomplete short right,5.17,3.55,4.0,2024,54
+2.0,14:54,4.0,1.0,DEN 1,0.0,0.0,"Penalty on John Simpson: False Start, 4 yards (accepted) (no play)",3.55,3.01,4.0,2024,54
+2.0,14:54,4.0,5.0,DEN 5,0.0,3.0,Greg Zuerlein 23 yard field goal good,3.01,3.0,4.0,2024,54
+2.0,14:51,,,NYJ 35,0.0,3.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,54
+2.0,14:51,1.0,10.0,DEN 30,0.0,3.0,Javonte Williams up the middle for 3 yards (tackle by Javon Kinlaw),0.94,0.8,4.0,2024,54
+2.0,14:12,2.0,7.0,DEN 33,0.0,3.0,Bo Nix pass complete short right to Javonte Williams for -1 yards (tackle by Ashtyn Davis),0.8,-0.03,4.0,2024,54
+2.0,13:31,3.0,8.0,DEN 32,0.0,3.0,Bo Nix pass incomplete deep right intended for Courtland Sutton,-0.03,-1.24,4.0,2024,54
+2.0,13:27,4.0,8.0,DEN 32,0.0,3.0,"Riley Dixon punts 54 yards, returned by Xavier Gipson for 10 yards (tackle by Mitchell Fraboni)",-1.24,-0.54,4.0,2024,54
+2.0,13:15,1.0,10.0,NYJ 24,0.0,3.0,Braelon Allen up the middle for 6 yards (tackle by P.J. Locke and D.J. Jones),0.54,0.81,4.0,2024,54
+2.0,12:33,2.0,4.0,NYJ 30,0.0,3.0,Braelon Allen up the middle for 7 yards (tackle by P.J. Locke and Cody Barton),0.81,1.4,4.0,2024,54
+2.0,11:56,1.0,10.0,NYJ 37,0.0,3.0,Braelon Allen right guard for 5 yards (tackle by Cody Barton),1.4,1.53,4.0,2024,54
+2.0,11:21,2.0,5.0,NYJ 42,0.0,3.0,Braelon Allen up the middle for -1 yards (tackle by Zach Allen),1.53,0.7,4.0,2024,54
+2.0,10:42,3.0,6.0,NYJ 41,0.0,3.0,"Aaron Rodgers sacked by Nik Bonitto for -10 yards. Penalty on Allen Lazard: Illegal Motion, 5 yards (declined)",0.7,-1.31,4.0,2024,54
+2.0,10:20,4.0,16.0,NYJ 31,0.0,3.0,"Thomas Morstead punts 42 yards, fair catch by Marvin Mims at DEN-27",-1.31,-0.74,4.0,2024,54
+2.0,10:15,1.0,10.0,DEN 27,0.0,3.0,Javonte Williams left guard for 12 yards (tackle by Tony Adams and Michael Carter),0.74,1.53,4.0,2024,54
+2.0,9:37,1.0,10.0,DEN 39,0.0,3.0,Jaleel McLaughlin right end for 10 yards (tackle by Bruce Hector and Chuck Clark),1.53,2.19,4.0,2024,54
+2.0,9:01,1.0,10.0,DEN 49,0.0,3.0,Bo Nix pass complete short right to Troy Franklin for 2 yards (tackle by Quincy Williams),2.19,1.92,4.0,2024,54
+2.0,8:18,2.0,8.0,NYJ 49,0.0,3.0,"Bo Nix pass incomplete short right intended for Courtland Sutton DEN challenged the pass completion ruling, and the play was upheld.",1.92,1.22,4.0,2024,54
+2.0,8:11,,,,,,Timeout #2 by Denver Broncos,,,4.0,2024,54
+2.0,8:11,3.0,8.0,NYJ 49,0.0,3.0,"Javonte Williams right tackle for no gain (tackle by Isaiah Oliver). Penalty on Will McDonald: Defensive Offside, 5 yards (accepted) (no play)",1.22,1.88,4.0,2024,54
+2.0,7:47,3.0,3.0,NYJ 44,0.0,3.0,Bo Nix pass incomplete deep right intended for Troy Franklin,1.88,0.33,4.0,2024,54
+2.0,7:43,4.0,3.0,NYJ 44,0.0,3.0,"Riley Dixon punts 29 yards, returned by Xavier Gipson for no gain (tackle by Tremon Smith)",0.33,0.22,4.0,2024,54
+2.0,7:35,1.0,10.0,NYJ 15,0.0,3.0,Aaron Rodgers pass incomplete deep right intended for Xavier Gipson,-0.22,-0.71,4.0,2024,54
+2.0,7:31,2.0,10.0,NYJ 15,0.0,3.0,Aaron Rodgers pass incomplete short left intended for Xavier Gipson,-0.71,-1.37,4.0,2024,54
+2.0,7:28,3.0,10.0,NYJ 15,0.0,3.0,Aaron Rodgers scrambles right end for 14 yards (tackle by Levi Wallace),-1.37,0.87,4.0,2024,54
+2.0,6:51,1.0,10.0,NYJ 29,0.0,3.0,Breece Hall left tackle for 3 yards (tackle by Riley Moss),0.87,0.73,4.0,2024,54
+2.0,6:13,2.0,7.0,NYJ 32,0.0,3.0,Aaron Rodgers pass complete short right to Jeremy Ruckert for 1 yard (tackle by Ja'Quan McMillian),0.73,0.17,4.0,2024,54
+2.0,5:26,3.0,6.0,NYJ 33,0.0,3.0,Aaron Rodgers pass complete short right to Breece Hall for 5 yards (tackle by Levi Wallace),0.17,-0.85,4.0,2024,54
+2.0,4:52,4.0,1.0,NYJ 38,0.0,3.0,"Thomas Morstead punts 45 yards, fair catch by Marvin Mims at DEN-17",-0.85,0.06,4.0,2024,54
+2.0,4:45,1.0,10.0,DEN 17,0.0,3.0,Jaleel McLaughlin left tackle for 7 yards (tackle by Jamien Sherwood and Chuck Clark),-0.06,0.48,4.0,2024,54
+2.0,4:03,2.0,3.0,DEN 24,0.0,3.0,Javonte Williams right guard for 5 yards (tackle by Chuck Clark),0.48,0.87,4.0,2024,54
+2.0,3:23,1.0,10.0,DEN 29,0.0,3.0,Javonte Williams up the middle for 2 yards (tackle by Tony Adams and Quincy Williams),0.87,0.6,4.0,2024,54
+2.0,2:48,2.0,8.0,DEN 31,0.0,3.0,Bo Nix pass complete short left to Nate Adkins for no gain (tackle by Tony Adams),0.6,-0.1,4.0,2024,54
+2.0,2:08,3.0,8.0,DEN 31,0.0,3.0,Bo Nix pass incomplete deep right intended for Lil'Jordan Humphrey,-0.1,-1.31,4.0,2024,54
+2.0,2:00,4.0,8.0,DEN 31,0.0,3.0,"Riley Dixon punts 53 yards, returned by Xavier Gipson for 11 yards (tackle by Michael Burton and Devon Key)",-1.31,-0.74,4.0,2024,54
+2.0,1:47,1.0,10.0,NYJ 27,0.0,3.0,Aaron Rodgers pass complete short middle to Allen Lazard for 25 yards (tackle by P.J. Locke and Brandon Jones),0.74,2.39,4.0,2024,54
+2.0,1:18,1.0,10.0,DEN 48,0.0,3.0,Aaron Rodgers pass incomplete short left intended for Allen Lazard,2.39,1.85,4.0,2024,54
+2.0,1:15,2.0,10.0,DEN 48,0.0,3.0,Aaron Rodgers pass complete short left to Allen Lazard for no gain (tackle by Ja'Quan McMillian),1.85,1.16,4.0,2024,54
+2.0,0:34,3.0,10.0,DEN 48,0.0,3.0,Aaron Rodgers pass complete short right to Allen Lazard for 13 yards (tackle by Ja'Quan McMillian),1.16,3.25,4.0,2024,54
+2.0,0:28,,,,,,Timeout #1 by New York Jets,,,4.0,2024,54
+2.0,0:28,1.0,10.0,DEN 35,0.0,3.0,"Aaron Rodgers pass incomplete deep right intended for Mike Williams Replay Assistant challenged the pass completion ruling, and the original play was overturned. Aaron Rodgers pass complete deep right to Mike Williams for 21 yards (tackle by Brandon Jones)",3.25,4.65,4.0,2024,54
+2.0,0:23,1.0,10.0,DEN 14,0.0,3.0,Aaron Rodgers scrambles right end for 1 yard (tackle by Zach Allen),4.65,4.16,4.0,2024,54
+2.0,0:16,2.0,9.0,DEN 13,0.0,3.0,Aaron Rodgers sacked by John Franklin-Myers for -7 yards,4.16,2.61,4.0,2024,54
+2.0,0:10,,,,,,Timeout #2 by New York Jets,,,4.0,2024,54
+2.0,0:10,3.0,16.0,DEN 20,0.0,3.0,Breece Hall right guard for 3 yards (tackle by Malcolm Roach and Zach Allen),2.61,2.31,4.0,2024,54
+2.0,0:02,,,,,,Timeout #3 by New York Jets,,,4.0,2024,54
+2.0,0:02,4.0,13.0,DEN 17,0.0,6.0,Greg Zuerlein 35 yard field goal good,2.31,3.0,4.0,2024,54
+3.0,15:00,,,NYJ 35,0.0,6.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,54
+3.0,15:00,1.0,10.0,DEN 30,0.0,6.0,Jaleel McLaughlin left tackle for 3 yards (tackle by Michael Carter),0.94,0.8,4.0,2024,54
+3.0,14:27,2.0,7.0,DEN 33,0.0,6.0,Bo Nix pass complete short right to Courtland Sutton for 23 yards (tackle by Sauce Gardner),0.8,2.65,4.0,2024,54
+3.0,13:48,1.0,10.0,NYJ 44,0.0,6.0,Javonte Williams right guard for -5 yards (tackle by Quincy Williams),2.65,1.44,4.0,2024,54
+3.0,13:08,2.0,15.0,NYJ 49,0.0,6.0,Bo Nix pass incomplete deep left intended for Courtland Sutton,1.44,0.76,4.0,2024,54
+3.0,13:02,3.0,15.0,NYJ 49,0.0,6.0,Bo Nix pass incomplete short right intended for Javonte Williams,0.76,0.0,4.0,2024,54
+3.0,12:57,4.0,15.0,NYJ 49,0.0,6.0,"Riley Dixon punts 37 yards, fair catch by Xavier Gipson at NYJ-12. Penalty on Qwan'tez Stiggers: Defensive Holding, 6 yards (accepted)",0.0,0.38,4.0,2024,54
+3.0,12:51,1.0,10.0,NYJ 6,0.0,6.0,Breece Hall right guard for 1 yard (tackle by Brandon Jones),-0.38,-0.71,4.0,2024,54
+3.0,12:11,2.0,9.0,NYJ 7,0.0,6.0,Aaron Rodgers pass complete short left to Braelon Allen for 12 yards (tackle by Cody Barton),-0.71,0.15,4.0,2024,54
+3.0,11:31,1.0,10.0,NYJ 19,0.0,6.0,Aaron Rodgers pass incomplete short left intended for Breece Hall,0.15,-0.39,4.0,2024,54
+3.0,11:27,2.0,10.0,NYJ 19,0.0,6.0,"Aaron Rodgers pass complete short right to Tyler Conklin for no gain (tackle by Ja'Quan McMillian and Brandon Jones). Penalty on Olumuyiwa Fashanu: Ineligible Downfield Pass, 5 yards (accepted) (no play)",-0.39,-1.11,4.0,2024,54
+3.0,10:59,2.0,15.0,NYJ 14,0.0,6.0,Aaron Rodgers pass complete deep left to Mike Williams for 20 yards (tackle by P.J. Locke),-1.11,1.2,4.0,2024,54
+3.0,10:12,1.0,10.0,NYJ 34,0.0,6.0,Aaron Rodgers pass complete short left to Garrett Wilson for 1 yard (tackle by Patrick Surtain),1.2,0.79,4.0,2024,54
+3.0,9:28,2.0,9.0,NYJ 35,0.0,6.0,Aaron Rodgers pass incomplete short left intended for Garrett Wilson,0.79,0.1,4.0,2024,54
+3.0,9:25,3.0,9.0,NYJ 35,0.0,6.0,"Penalty on Breece Hall: False Start, 5 yards (accepted) (no play)",0.1,-0.56,4.0,2024,54
+3.0,9:25,3.0,14.0,NYJ 30,0.0,6.0,Aaron Rodgers pass complete short right to Xavier Gipson for 6 yards (tackle by Malcolm Roach and Cody Barton),-0.56,-0.98,4.0,2024,54
+3.0,8:47,4.0,8.0,NYJ 36,0.0,6.0,Thomas Morstead punts 51 yards out of bounds,-0.98,0.32,4.0,2024,54
+3.0,8:35,1.0,10.0,DEN 13,0.0,6.0,"Penalty on Garett Bolles: False Start, 5 yards (accepted) (no play)",-0.32,-0.57,4.0,2024,54
+3.0,8:35,1.0,15.0,DEN 8,0.0,6.0,Jaleel McLaughlin right guard for 5 yards (tackle by Bruce Hector and Tony Adams),-0.57,-0.77,4.0,2024,54
+3.0,7:57,2.0,10.0,DEN 13,0.0,6.0,Jaleel McLaughlin right tackle for 8 yards (tackle by Tony Adams and Eric Watts),-0.77,-0.47,4.0,2024,54
+3.0,7:20,3.0,2.0,DEN 21,0.0,6.0,Javonte Williams right guard for 4 yards (tackle by Jamien Sherwood and Micheal Clemons),-0.47,0.61,4.0,2024,54
+3.0,6:34,1.0,10.0,DEN 25,0.0,6.0,"Javonte Williams right guard for -1 yards (tackle by Tony Adams and Eric Watts). Penalty on Lil'Jordan Humphrey: Illegal Shift, 5 yards (declined)",0.61,-0.07,4.0,2024,54
+3.0,6:16,2.0,11.0,DEN 24,0.0,6.0,Bo Nix pass incomplete deep left intended for Troy Franklin (defended by D.J. Reed),-0.07,-0.76,4.0,2024,54
+3.0,6:09,3.0,11.0,DEN 24,0.0,6.0,Bo Nix pass complete deep middle to Courtland Sutton for 29 yards (tackle by Chuck Clark and Tony Adams),-0.76,2.46,4.0,2024,54
+3.0,5:38,1.0,10.0,NYJ 47,0.0,6.0,"Bo Nix pass incomplete short middle intended for Lil'Jordan Humphrey. Penalty on Michael Carter: Defensive Pass Interference, 14 yards (accepted) (no play)",2.46,3.38,4.0,2024,54
+3.0,5:32,1.0,10.0,NYJ 33,0.0,6.0,"Bo Nix pass incomplete short left intended for Jaleel McLaughlin. Penalty on Will McDonald: Defensive Offside, 5 yards (accepted) (no play)",3.38,4.11,4.0,2024,54
+3.0,5:23,1.0,5.0,NYJ 28,0.0,6.0,Javonte Williams right guard for 5 yards (tackle by D.J. Reed and Chuck Clark),4.11,4.04,4.0,2024,54
+3.0,4:42,1.0,10.0,NYJ 23,0.0,6.0,Javonte Williams left tackle for 12 yards (tackle by D.J. Reed),4.04,4.84,4.0,2024,54
+3.0,4:02,1.0,10.0,NYJ 11,0.0,6.0,Jaleel McLaughlin right end for 3 yards (tackle by Micheal Clemons),4.84,4.7,4.0,2024,54
+3.0,3:19,2.0,7.0,NYJ 8,0.0,6.0,Bo Nix pass incomplete short left intended for Courtland Sutton,4.7,3.76,4.0,2024,54
+3.0,3:13,3.0,7.0,NYJ 8,6.0,6.0,"Bo Nix pass complete short right to Courtland Sutton for 8 yards, touchdown",3.76,7.0,4.0,2024,54
+3.0,3:08,,,NYJ 15,7.0,6.0,Wil Lutz kicks extra point good,0.0,0.0,4.0,2024,54
+3.0,3:08,,,DEN 35,7.0,6.0,"Wil Lutz kicks off 67 yards, returned by Xavier Gipson for 27 yards (tackle by Dondrea Tillman and Jonah Elliss)",0.0,0.61,4.0,2024,54
+3.0,3:02,1.0,10.0,NYJ 25,7.0,6.0,Braelon Allen right end for no gain (tackle by Cody Barton and Brandon Jones),0.61,0.06,4.0,2024,54
+3.0,2:18,2.0,10.0,NYJ 25,7.0,6.0,Aaron Rodgers pass incomplete short middle intended for Tyler Conklin (defended by Brandon Jones),0.06,-0.62,4.0,2024,54
+3.0,2:15,3.0,10.0,NYJ 25,7.0,6.0,Aaron Rodgers pass complete deep left to Mike Williams for 22 yards (tackle by P.J. Locke),-0.62,2.06,4.0,2024,54
+3.0,1:41,1.0,10.0,NYJ 47,7.0,6.0,"Aaron Rodgers pass complete deep right to Garrett Wilson for 23 yards (tackle by Patrick Surtain). Penalty on Cody Barton: Defensive Offside, 5 yards (declined) DEN challenged the pass completion ruling, and the play was upheld.",2.06,3.58,4.0,2024,54
+3.0,1:31,1.0,10.0,DEN 30,7.0,6.0,"Aaron Rodgers pass complete short right to Allen Lazard for 12 yards (tackle by Riley Moss). Penalty on Allen Lazard: Unsportsmanlike Conduct / Offense, 15 yards (accepted)",3.58,3.38,4.0,2024,54
+3.0,1:05,1.0,10.0,DEN 33,7.0,6.0,Aaron Rodgers pass complete short left to Tyler Conklin for 4 yards (tackle by Jonathon Cooper),3.38,3.38,4.0,2024,54
+3.0,0:18,2.0,6.0,DEN 29,7.0,6.0,Braelon Allen right tackle for 6 yards (tackle by Riley Moss and Cody Barton),3.38,4.04,4.0,2024,54
+4.0,15:00,1.0,10.0,DEN 23,7.0,6.0,Aaron Rodgers pass complete short left to Garrett Wilson for -1 yards (tackle by Ja'Quan McMillian),4.04,3.36,4.0,2024,54
+4.0,14:19,2.0,11.0,DEN 24,7.0,6.0,Aaron Rodgers pass incomplete short right intended for Breece Hall,3.36,2.68,4.0,2024,54
+4.0,14:15,3.0,11.0,DEN 24,7.0,6.0,Aaron Rodgers scrambles right end for 2 yards (tackle by Zach Allen),2.68,1.99,4.0,2024,54
+4.0,13:38,4.0,9.0,DEN 22,7.0,9.0,Greg Zuerlein 40 yard field goal good,1.99,3.0,4.0,2024,54
+4.0,13:34,,,NYJ 35,7.0,9.0,"Greg Zuerlein kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,54
+4.0,13:34,1.0,10.0,DEN 30,7.0,9.0,Javonte Williams left guard for 9 yards (tackle by Chuck Clark),0.94,1.61,4.0,2024,54
+4.0,12:52,2.0,1.0,DEN 39,7.0,9.0,Javonte Williams right tackle for 9 yards (tackle by Tony Adams and Sauce Gardner),1.61,2.13,4.0,2024,54
+4.0,12:07,1.0,10.0,DEN 48,7.0,9.0,Javonte Williams right tackle for 1 yard (tackle by Solomon Thomas and Chuck Clark),2.13,1.72,4.0,2024,54
+4.0,11:27,2.0,9.0,DEN 49,7.0,9.0,Javonte Williams up the middle for 16 yards (tackle by Sauce Gardner and Tony Adams),1.72,3.25,4.0,2024,54
+4.0,10:52,1.0,10.0,NYJ 35,7.0,9.0,Bo Nix scrambles right end for 1 yard (tackle by Sauce Gardner),3.25,2.84,4.0,2024,54
+4.0,10:21,2.0,9.0,NYJ 34,7.0,9.0,Jaleel McLaughlin up the middle for 5 yards (tackle by Takkarist McKinley and Tony Adams),2.84,2.81,4.0,2024,54
+4.0,9:36,3.0,4.0,NYJ 29,7.0,9.0,Javonte Williams up the middle for no gain (tackle by Quincy Williams and Takkarist McKinley),2.81,1.56,4.0,2024,54
+4.0,8:59,4.0,4.0,NYJ 29,10.0,9.0,Wil Lutz 47 yard field goal good,1.56,3.0,4.0,2024,54
+4.0,8:55,,,DEN 35,10.0,9.0,"Wil Lutz kicks off 61 yards, returned by Xavier Gipson for 23 yards (tackle by Michael Burton and Keidron Smith)",0.0,0.74,4.0,2024,54
+4.0,8:51,1.0,10.0,NYJ 27,10.0,9.0,Aaron Rodgers pass incomplete deep left intended for Tyler Conklin,0.74,0.2,4.0,2024,54
+4.0,8:43,2.0,10.0,NYJ 27,10.0,9.0,Aaron Rodgers pass complete short left to Tyler Conklin for 9 yards (tackle by P.J. Locke and Jonathon Cooper),0.2,0.7,4.0,2024,54
+4.0,8:02,3.0,1.0,NYJ 36,10.0,9.0,Braelon Allen up the middle for 2 yards (tackle by Cody Barton and Ja'Quan McMillian),0.7,1.47,4.0,2024,54
+4.0,7:21,1.0,10.0,NYJ 38,10.0,9.0,Aaron Rodgers pass complete short middle to Garrett Wilson for 11 yards (tackle by Cody Barton),1.47,2.19,4.0,2024,54
+4.0,6:39,1.0,10.0,NYJ 49,10.0,9.0,Aaron Rodgers left tackle for 8 yards (tackle by P.J. Locke),2.19,2.73,4.0,2024,54
+4.0,5:52,2.0,2.0,DEN 43,10.0,9.0,Aaron Rodgers pass complete short left to Tyler Conklin for no gain (tackle by Riley Moss and Nik Bonitto),2.73,2.01,4.0,2024,54
+4.0,5:05,3.0,2.0,DEN 43,10.0,9.0,Aaron Rodgers sacked by and Malcolm Roach for -6 yards and Jonah Elliss for -6 yards,2.01,0.0,4.0,2024,54
+4.0,4:09,4.0,8.0,DEN 49,10.0,9.0,"Thomas Morstead punts 32 yards, fair catch by Marvin Mims at DEN-17",0.0,0.06,4.0,2024,54
+4.0,4:02,1.0,10.0,DEN 17,10.0,9.0,Bo Nix pass complete short right to Michael Burton for 3 yards (tackle by Jamien Sherwood and Quincy Williams),-0.06,-0.06,4.0,2024,54
+4.0,3:23,2.0,7.0,DEN 20,10.0,9.0,Javonte Williams right tackle for 3 yards (tackle by Quinnen Williams),-0.06,-0.49,4.0,2024,54
+4.0,2:44,3.0,4.0,DEN 23,10.0,9.0,Bo Nix pass incomplete short left intended for Josh Reynolds (defended by D.J. Reed),-0.49,-1.83,4.0,2024,54
+4.0,2:40,4.0,4.0,DEN 23,10.0,9.0,"Riley Dixon punts 46 yards, returned by Xavier Gipson for 2 yards (tackle by Keidron Smith)",-1.83,-1.14,4.0,2024,54
+4.0,2:31,1.0,10.0,NYJ 33,10.0,9.0,Aaron Rodgers pass complete short left to Allen Lazard for 8 yards (tackle by Riley Moss),1.14,1.67,4.0,2024,54
+4.0,2:04,2.0,2.0,NYJ 41,10.0,9.0,Aaron Rodgers pass complete short middle to Tyler Conklin for 4 yards (tackle by P.J. Locke),1.67,1.93,4.0,2024,54
+4.0,2:00,1.0,10.0,NYJ 45,10.0,9.0,Aaron Rodgers pass incomplete short right intended for Garrett Wilson (defended by Patrick Surtain),1.93,1.38,4.0,2024,54
+4.0,1:57,2.0,10.0,NYJ 45,10.0,9.0,Aaron Rodgers pass incomplete deep middle intended for Garrett Wilson,1.38,0.7,4.0,2024,54
+4.0,1:53,3.0,10.0,NYJ 45,10.0,9.0,Aaron Rodgers pass incomplete short left intended for Xavier Gipson,0.7,-0.39,4.0,2024,54
+4.0,1:50,4.0,10.0,NYJ 45,10.0,9.0,Aaron Rodgers sacked by P.J. Locke for -10 yards,-0.39,-3.25,4.0,2024,54
+4.0,1:46,1.0,10.0,NYJ 35,10.0,9.0,Jaleel McLaughlin right tackle for no gain (tackle by Chazz Surratt),3.25,2.7,4.0,2024,54
+4.0,1:42,,,,,,Timeout #1 by New York Jets,,,4.0,2024,54
+4.0,1:42,2.0,10.0,NYJ 35,10.0,9.0,Bo Nix pass complete short right to Javonte Williams for 4 yards (tackle by Jamien Sherwood),2.7,2.54,4.0,2024,54
+4.0,1:36,,,,,,Timeout #2 by New York Jets,,,4.0,2024,54
+4.0,1:36,3.0,6.0,NYJ 31,10.0,9.0,Bo Nix right end for -1 yards (tackle by Tony Adams),2.54,1.24,4.0,2024,54
+4.0,1:31,,,,,,Timeout #3 by New York Jets,,,4.0,2024,54
+4.0,1:31,4.0,7.0,NYJ 32,10.0,9.0,Wil Lutz 50 yard field goal no good,1.24,-1.6,4.0,2024,54
+4.0,1:27,1.0,10.0,NYJ 40,10.0,9.0,Aaron Rodgers pass complete short left to Breece Hall for 9 yards (tackle by Justin Strnad and Ja'Quan McMillian),1.6,2.27,4.0,2024,54
+4.0,1:04,2.0,1.0,NYJ 49,10.0,9.0,"Aaron Rodgers pass incomplete short left intended for Mike Williams. Penalty on Riley Moss: Defensive Pass Interference, 15 yards (accepted) (no play)",2.27,3.18,4.0,2024,54
+4.0,1:04,1.0,10.0,DEN 36,10.0,9.0,Aaron Rodgers pass incomplete short right intended for Allen Lazard,3.18,2.64,4.0,2024,54
+4.0,1:01,2.0,10.0,DEN 36,10.0,9.0,Aaron Rodgers pass complete short right to Mike Williams for 4 yards (tackle by Riley Moss),2.64,2.48,4.0,2024,54
+4.0,0:56,,,,,,Timeout #2 by Denver Broncos,,,4.0,2024,54
+4.0,0:56,3.0,6.0,DEN 32,10.0,9.0,Aaron Rodgers pass incomplete deep right intended for Mike Williams,2.48,1.25,4.0,2024,54
+4.0,0:51,4.0,6.0,DEN 32,10.0,9.0,Greg Zuerlein 50 yard field goal no good,1.25,-1.6,4.0,2024,54
+4.0,0:47,1.0,10.0,DEN 40,10.0,9.0,Bo Nix kneels for -2 yards,1.6,0.78,4.0,2024,54
+4.0,0:17,2.0,12.0,DEN 38,10.0,9.0,Bo Nix kneels for -2 yards,0.78,-0.16,4.0,2024,54

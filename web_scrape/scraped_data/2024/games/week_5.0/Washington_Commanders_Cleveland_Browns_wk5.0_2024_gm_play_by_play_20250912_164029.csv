@@ -1,0 +1,176 @@
+Quarter,Time,Down,ToGo,Location,CLE,WAS,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Commanders won the coin toss and deferred, Browns to receive the opening kickoff.",,,5.0,2024,70
+1.0,15:00,,,WAS 35,0.0,0.0,"Austin Seibert kicks off 64 yards, returned by D'Onta Foreman for 29 yards (tackle by Jeremy McNichols and Nick Bellore)",0.0,0.94,5.0,2024,70
+1.0,14:55,1.0,10.0,CLE 30,0.0,0.0,Deshaun Watson pass complete short left to David Njoku for 14 yards (tackle by Jeremy Chinn),0.94,1.86,5.0,2024,70
+1.0,14:23,1.0,10.0,CLE 44,0.0,0.0,Deshaun Watson pass complete short right to Jerome Ford for 7 yards (tackle by Quan Martin),1.86,2.26,5.0,2024,70
+1.0,13:42,2.0,3.0,WAS 49,0.0,0.0,Deshaun Watson pass incomplete deep middle intended for Amari Cooper,2.26,1.55,5.0,2024,70
+1.0,13:35,3.0,3.0,WAS 49,0.0,0.0,Pierre Strong right guard for 2 yards (tackle by Dorance Armstrong and Frankie Luvu),1.55,0.13,5.0,2024,70
+1.0,12:56,4.0,1.0,WAS 47,0.0,0.0,D'Onta Foreman left end for no gain (tackle by Frankie Luvu),0.13,-2.06,5.0,2024,70
+1.0,12:51,1.0,10.0,WAS 47,0.0,0.0,Brian Robinson right tackle for -1 yards (tackle by Jeremiah Owusu-Koramoah),2.06,1.38,5.0,2024,70
+1.0,12:24,2.0,11.0,WAS 46,0.0,0.0,Jayden Daniels right end for 1 yard (tackle by Ronnie Hickman and Shelby Harris),1.38,0.83,5.0,2024,70
+1.0,11:51,3.0,10.0,WAS 47,0.0,0.0,Jayden Daniels sacked by Za'Darius Smith for -9 yards,0.83,-0.85,5.0,2024,70
+1.0,11:14,4.0,19.0,WAS 38,0.0,0.0,"Tress Way punts 42 yards, returned by James Proche for 7 yards (tackle by Kevon Seymour and Nick Bellore)",-0.85,-0.74,5.0,2024,70
+1.0,11:03,1.0,10.0,CLE 27,0.0,0.0,Deshaun Watson pass complete short left to Jerome Ford for -7 yards (tackle by Jonathan Allen),0.74,-0.75,5.0,2024,70
+1.0,10:17,2.0,17.0,CLE 20,0.0,0.0,Deshaun Watson pass incomplete short right intended for Pierre Strong (defended by Mike Sainristil),-0.75,-1.42,5.0,2024,70
+1.0,10:09,3.0,17.0,CLE 20,0.0,0.0,Deshaun Watson pass incomplete deep right intended for David Njoku,-1.42,-2.03,5.0,2024,70
+1.0,10:02,4.0,17.0,CLE 20,0.0,0.0,"Corey Bojorquez punts 61 yards, fair catch by Olamide Zaccheaus at WAS-19. Penalty on Mike Ford: Fair Catch Interference, 15 yards (accepted)",-2.03,-1.2,5.0,2024,70
+1.0,9:54,1.0,10.0,WAS 34,0.0,0.0,Jayden Daniels pass complete short right to Austin Ekeler for -3 yards (tackle by Martin Emerson),1.2,0.25,5.0,2024,70
+1.0,9:19,2.0,13.0,WAS 31,0.0,0.0,Jayden Daniels pass incomplete short left intended for Terry McLaurin (defended by Devin Bush) (defended by Denzel Ward),0.25,-0.43,5.0,2024,70
+1.0,9:14,3.0,13.0,WAS 31,0.0,0.0,Jayden Daniels pass complete deep right to Terry McLaurin for 66 yards (tackle by Denzel Ward),-0.43,6.51,5.0,2024,70
+1.0,8:22,,,,,,Timeout #1 by Washington Commanders,,,5.0,2024,70
+1.0,8:22,1.0,3.0,CLE 3,0.0,0.0,Jayden Daniels right end for -2 yards (tackle by Grant Delpit),6.51,5.15,5.0,2024,70
+1.0,7:43,2.0,5.0,CLE 5,0.0,0.0,Jayden Daniels pass incomplete short middle intended for Zach Ertz,5.15,4.26,5.0,2024,70
+1.0,7:38,3.0,5.0,CLE 5,0.0,0.0,Jayden Daniels pass short right intended for Zach Ertz is intercepted by Jeremiah Owusu-Koramoah at CLE-1 and returned for no gain (tackle by Zach Ertz),4.26,0.38,5.0,2024,70
+1.0,7:36,1.0,10.0,CLE 1,0.0,0.0,D'Onta Foreman right guard for 2 yards (tackle by Daron Payne),-0.38,-0.63,5.0,2024,70
+1.0,6:56,2.0,8.0,CLE 3,0.0,0.0,D'Onta Foreman left tackle for 2 yards (tackle by Jonathan Allen and Jeremy Chinn),-0.63,-0.95,5.0,2024,70
+1.0,6:21,3.0,6.0,CLE 5,0.0,0.0,Deshaun Watson pass incomplete deep left intended for Amari Cooper,-0.95,-2.49,5.0,2024,70
+1.0,6:15,4.0,6.0,CLE 5,0.0,0.0,"Corey Bojorquez punts 44 yards, returned by Olamide Zaccheaus for 15 yards (tackle by Mike Ford)",-2.49,-3.31,5.0,2024,70
+1.0,6:05,1.0,10.0,CLE 34,0.0,0.0,Jayden Daniels pass complete short right to Terry McLaurin for 12 yards (tackle by Martin Emerson),3.31,4.11,5.0,2024,70
+1.0,5:24,1.0,10.0,CLE 22,0.0,0.0,Jayden Daniels right end for -2 yards (tackle by Ronnie Hickman),4.11,3.29,5.0,2024,70
+1.0,4:45,2.0,12.0,CLE 24,0.0,0.0,Jayden Daniels pass complete short middle to Luke McCaffrey for 3 yards (tackle by Ronnie Hickman),3.29,3.01,5.0,2024,70
+1.0,4:07,3.0,9.0,CLE 21,0.0,0.0,Jayden Daniels pass complete short middle to Zach Ertz for 7 yards (tackle by Cameron Mitchell),3.01,2.63,5.0,2024,70
+1.0,3:31,4.0,2.0,CLE 14,0.0,0.0,Austin Ekeler right end for 10 yards (tackle by D'Anthony Bell),2.63,6.28,5.0,2024,70
+1.0,2:46,1.0,4.0,CLE 4,0.0,6.0,"Brian Robinson left end for 4 yards, touchdown",6.28,7.0,5.0,2024,70
+1.0,2:40,,,CLE 15,0.0,7.0,Austin Seibert kicks extra point good,0.0,0.0,5.0,2024,70
+1.0,2:40,,,WAS 35,0.0,7.0,"Austin Seibert kicks off 62 yards, returned by Pierre Strong for 25 yards (tackle by Jeremy McNichols and Colson Yankoff)",0.0,0.81,5.0,2024,70
+1.0,2:34,1.0,10.0,CLE 28,0.0,7.0,D'Onta Foreman right guard for no gain (tackle by Jeremy Chinn and Phidarian Mathis),0.81,0.26,5.0,2024,70
+1.0,1:55,2.0,10.0,CLE 28,0.0,7.0,Deshaun Watson pass incomplete deep right intended for Amari Cooper,0.26,-0.43,5.0,2024,70
+1.0,1:49,,,,,,Timeout #1 by Cleveland Browns,,,5.0,2024,70
+1.0,1:49,3.0,10.0,CLE 28,0.0,7.0,Deshaun Watson scrambles left end for 5 yards (tackle by Mike Sainristil),-0.43,-1.18,5.0,2024,70
+1.0,1:11,4.0,5.0,CLE 33,0.0,7.0,Corey Bojorquez punts 65 yards downed by Tony Brown,-1.18,0.38,5.0,2024,70
+1.0,1:01,1.0,10.0,WAS 2,0.0,7.0,Brian Robinson right guard for no gain (tackle by Jeremiah Owusu-Koramoah),-0.38,-0.78,5.0,2024,70
+1.0,0:18,2.0,10.0,WAS 2,0.0,7.0,Jayden Daniels pass incomplete deep left intended for Terry McLaurin,-0.78,-1.42,5.0,2024,70
+1.0,0:12,3.0,10.0,WAS 2,0.0,7.0,Jayden Daniels pass incomplete deep middle intended for Zach Ertz,-1.42,-2.49,5.0,2024,70
+1.0,0:07,4.0,10.0,WAS 2,0.0,7.0,"Tress Way punts 50 yards, returned by James Proche for 9 yards (tackle by Nick Bellore)",-2.49,-2.72,5.0,2024,70
+2.0,15:00,1.0,10.0,WAS 43,0.0,7.0,Deshaun Watson pass incomplete short middle intended for David Njoku (defended by Phidarian Mathis),2.72,2.18,5.0,2024,70
+2.0,14:57,2.0,10.0,WAS 43,0.0,7.0,Deshaun Watson pass complete deep left to Amari Cooper for 19 yards (tackle by Quan Martin and Frankie Luvu),2.18,3.97,5.0,2024,70
+2.0,14:14,1.0,10.0,WAS 24,0.0,7.0,"Deshaun Watson pass incomplete short right intended for David Njoku. Penalty on Ethan Pocic: Ineligible Downfield Pass, 5 yards (accepted) (no play)",3.97,3.64,5.0,2024,70
+2.0,14:09,1.0,15.0,WAS 29,0.0,7.0,Deshaun Watson pass incomplete short left intended for Amari Cooper (defended by Benjamin St-Juste),3.64,2.76,5.0,2024,70
+2.0,14:04,2.0,15.0,WAS 29,0.0,7.0,Deshaun Watson pass incomplete short middle intended for Jerry Jeudy (defended by Quan Martin),2.76,2.08,5.0,2024,70
+2.0,14:00,3.0,15.0,WAS 29,0.0,7.0,Deshaun Watson sacked by Frankie Luvu for -4 yards,2.08,1.15,5.0,2024,70
+2.0,13:13,4.0,19.0,WAS 33,3.0,7.0,Dustin Hopkins 51 yard field goal good,1.15,3.0,5.0,2024,70
+2.0,13:08,,,CLE 35,3.0,7.0,"Dustin Hopkins kicks off 65 yards, returned by Austin Ekeler for 20 yards (tackle by Tony Brown and Winston Reid)",0.0,0.28,5.0,2024,70
+2.0,13:02,1.0,10.0,WAS 20,3.0,7.0,"Austin Ekeler right tackle for 50 yards. Austin Ekeler fumbles (forced by Martin Emerson), recovered by Olamide Zaccheaus at CLE-23",0.28,4.04,5.0,2024,70
+2.0,12:10,1.0,10.0,CLE 23,3.0,7.0,Jayden Daniels right end for -1 yards (tackle by Rodney McLeod),4.04,3.36,5.0,2024,70
+2.0,11:33,2.0,11.0,CLE 24,3.0,7.0,Brian Robinson right end for 10 yards (tackle by Devin Bush),3.36,4.28,5.0,2024,70
+2.0,10:47,3.0,1.0,CLE 14,3.0,7.0,Jayden Daniels scrambles right end for 2 yards (tackle by Winston Reid),4.28,4.78,5.0,2024,70
+2.0,10:09,1.0,10.0,CLE 12,3.0,7.0,Jeremy McNichols left guard for no gain (tackle by Grant Delpit),4.78,4.22,5.0,2024,70
+2.0,9:30,2.0,9.0,CLE 12,3.0,7.0,Jayden Daniels pass incomplete short middle intended for Zach Ertz (defended by Rodney McLeod),4.22,3.28,5.0,2024,70
+2.0,9:26,3.0,9.0,CLE 12,3.0,7.0,Jayden Daniels pass complete short middle to Zach Ertz for 3 yards (tackle by Rodney McLeod and Grant Delpit),3.28,2.85,5.0,2024,70
+2.0,8:44,4.0,6.0,CLE 9,3.0,10.0,Austin Seibert 27 yard field goal good,2.85,3.0,5.0,2024,70
+2.0,8:41,,,WAS 35,3.0,10.0,"Austin Seibert kicks off 59 yards, returned by Pierre Strong for 25 yards (tackle by Jeremy McNichols)",0.0,1.0,5.0,2024,70
+2.0,8:35,1.0,10.0,CLE 31,3.0,10.0,Jerome Ford up the middle for no gain (tackle by Phidarian Mathis and Bobby Wagner),1.0,0.46,5.0,2024,70
+2.0,8:08,2.0,10.0,CLE 31,3.0,10.0,Deshaun Watson pass complete short right to Jerome Ford for 2 yards (tackle by Jeremy Chinn),0.46,0.04,5.0,2024,70
+2.0,7:30,3.0,8.0,CLE 33,3.0,10.0,Deshaun Watson sacked by Jonathan Allen for no gain,0.04,-1.18,5.0,2024,70
+2.0,6:56,4.0,8.0,CLE 33,3.0,10.0,Corey Bojorquez punts 41 yards out of bounds,-1.18,-0.67,5.0,2024,70
+2.0,6:48,1.0,10.0,WAS 26,3.0,10.0,Jayden Daniels pass incomplete short left intended for Olamide Zaccheaus (defended by Winston Reid),0.67,0.13,5.0,2024,70
+2.0,6:45,2.0,10.0,WAS 26,3.0,10.0,Jayden Daniels pass incomplete short right intended for Zach Ertz,0.13,-0.56,5.0,2024,70
+2.0,6:39,3.0,10.0,WAS 26,3.0,10.0,"Penalty on CLE: Defensive Too Many Men on Field, 5 yards (accepted) (no play)",-0.56,0.1,5.0,2024,70
+2.0,6:39,3.0,5.0,WAS 31,3.0,10.0,Jayden Daniels pass complete short left to Luke McCaffrey for 9 yards (tackle by Greg Newsome),0.1,1.6,5.0,2024,70
+2.0,6:03,1.0,10.0,WAS 40,3.0,10.0,"Jayden Daniels scrambles right end for 13 yards (tackle by Greg Newsome) Penalty on CLE: Defensive Too Many Men on Field, 5 yards (declined)",1.6,2.46,5.0,2024,70
+2.0,5:56,1.0,10.0,CLE 47,3.0,10.0,Brian Robinson up the middle for 2 yards (tackle by Devin Bush),2.46,2.18,5.0,2024,70
+2.0,5:17,2.0,8.0,CLE 45,3.0,10.0,Jayden Daniels pass complete short right to Zach Ertz for no gain (no play),2.18,1.51,5.0,2024,70
+2.0,4:55,2.0,13.0,CLE 50,3.0,10.0,Jayden Daniels pass incomplete deep middle intended for Terry McLaurin (defended by Denzel Ward),1.51,0.83,5.0,2024,70
+2.0,4:48,,,,,,Timeout #2 by Washington Commanders,,,5.0,2024,70
+2.0,4:48,3.0,13.0,CLE 50,3.0,10.0,Jayden Daniels pass complete short middle to Olamide Zaccheaus for 10 yards (tackle by Greg Newsome),0.83,0.59,5.0,2024,70
+2.0,3:54,4.0,3.0,CLE 40,3.0,10.0,"Jayden Daniels scrambles right end for 34 yards (tackle by Rodney McLeod). Penalty on Denzel Ward: Defensive Holding, 3 yards (accepted)",0.59,6.51,5.0,2024,70
+2.0,3:41,1.0,3.0,CLE 3,3.0,10.0,Brian Robinson right guard for 2 yards (tackle by Za'Darius Smith and Devin Bush),6.51,5.91,5.0,2024,70
+2.0,3:14,2.0,1.0,CLE 1,3.0,16.0,"Brian Robinson right guard for 1 yard, touchdown",5.91,7.0,5.0,2024,70
+2.0,3:11,,,CLE 15,3.0,17.0,Austin Seibert kicks extra point good,0.0,0.0,5.0,2024,70
+2.0,3:11,,,WAS 35,3.0,17.0,"Austin Seibert kicks off 65 yards, returned by Pierre Strong for 27 yards (tackle by Nick Bellore)",0.0,0.74,5.0,2024,70
+2.0,3:05,1.0,10.0,CLE 27,3.0,17.0,Jerome Ford left tackle for 3 yards (tackle by Jonathan Allen),0.74,0.6,5.0,2024,70
+2.0,2:30,2.0,7.0,CLE 30,3.0,17.0,Deshaun Watson pass complete short right to Elijah Moore for 2 yards (tackle by Mike Sainristil),0.6,0.17,5.0,2024,70
+2.0,2:00,3.0,5.0,CLE 32,3.0,17.0,Deshaun Watson sacked by and Bobby Wagner for -9 yards and Frankie Luvu for -9 yards,0.17,-1.83,5.0,2024,70
+2.0,1:51,,,,,,Timeout #3 by Washington Commanders,,,5.0,2024,70
+2.0,1:51,4.0,14.0,CLE 23,3.0,17.0,"Corey Bojorquez punts 57 yards, returned by Olamide Zaccheaus for 18 yards (tackle by Rodney McLeod and Isaiah McGuire)",-1.83,-1.47,5.0,2024,70
+2.0,1:35,1.0,10.0,WAS 38,3.0,17.0,Jayden Daniels pass complete short right to Luke McCaffrey for 7 yards (tackle by Devin Bush and Grant Delpit),1.47,1.87,5.0,2024,70
+2.0,1:14,2.0,3.0,WAS 45,3.0,17.0,Jayden Daniels pass incomplete short middle intended for Zach Ertz,1.87,1.16,5.0,2024,70
+2.0,1:10,3.0,3.0,WAS 45,3.0,17.0,Jayden Daniels pass complete short middle to Terry McLaurin for 11 yards (tackle by Grant Delpit),1.16,2.65,5.0,2024,70
+2.0,0:50,1.0,10.0,CLE 44,3.0,17.0,Jayden Daniels scrambles right end for 3 yards (tackle by Devin Bush),2.65,2.52,5.0,2024,70
+2.0,0:42,2.0,7.0,CLE 41,3.0,23.0,"Jayden Daniels pass complete deep right to Dyami Brown for 41 yards, touchdown",2.52,7.0,5.0,2024,70
+2.0,0:36,,,CLE 15,3.0,24.0,Austin Seibert kicks extra point good,0.0,0.0,5.0,2024,70
+2.0,0:36,,,WAS 35,3.0,24.0,"Austin Seibert kicks off 64 yards, returned by Pierre Strong for 27 yards (tackle by Brycen Tremayne and Jeremy McNichols)",0.0,0.81,5.0,2024,70
+2.0,0:30,1.0,10.0,CLE 28,3.0,24.0,"Penalty on Dawand Jones: False Start, 5 yards (accepted) (no play)",0.81,0.48,5.0,2024,70
+2.0,0:30,1.0,15.0,CLE 23,3.0,24.0,Deshaun Watson pass complete deep middle to Jerry Jeudy for 16 yards (tackle by Mike Sainristil),0.48,1.53,5.0,2024,70
+2.0,0:24,,,,,,Timeout #2 by Cleveland Browns,,,5.0,2024,70
+2.0,0:24,1.0,10.0,CLE 39,3.0,24.0,"Penalty on Jerry Jeudy: False Start, 4 yards (accepted) (no play)",1.53,1.27,5.0,2024,70
+2.0,0:24,1.0,14.0,CLE 35,3.0,24.0,Deshaun Watson pass complete short right to Amari Cooper for 13 yards (tackle by Benjamin St-Juste),1.27,2.2,5.0,2024,70
+2.0,0:19,,,,,,Timeout #3 by Cleveland Browns,,,5.0,2024,70
+2.0,0:19,2.0,1.0,CLE 48,3.0,24.0,Deshaun Watson pass incomplete short middle intended for Elijah Moore (defended by Noah Igbinoghene),2.2,1.49,5.0,2024,70
+2.0,0:17,3.0,1.0,CLE 48,3.0,24.0,Deshaun Watson pass incomplete deep right intended for Amari Cooper (defended by Benjamin St-Juste),1.49,-0.19,5.0,2024,70
+2.0,0:09,4.0,1.0,CLE 48,3.0,24.0,Corey Bojorquez punts 50 yards downed by Mike Ford,-0.19,2.13,5.0,2024,70
+3.0,15:00,,,CLE 35,3.0,24.0,"Dustin Hopkins kicks off 65 yards, touchback.",0.0,0.94,5.0,2024,70
+3.0,15:00,1.0,10.0,WAS 30,3.0,24.0,"Terry McLaurin right end for 2 yards. Terry McLaurin fumbles (forced by Jeremiah Owusu-Koramoah), recovered by Martin Emerson at WAS-32 and returned for 2 yards (tackle by Terry McLaurin)",0.94,-3.58,5.0,2024,70
+3.0,14:52,1.0,10.0,WAS 30,3.0,24.0,Deshaun Watson pass complete short left to Amari Cooper for 9 yards (tackle by Benjamin St-Juste),3.58,4.25,5.0,2024,70
+3.0,14:31,2.0,1.0,WAS 21,3.0,24.0,Deshaun Watson pass complete short middle to Amari Cooper for 19 yards (tackle by Frankie Luvu and Percy Butler),4.25,6.74,5.0,2024,70
+3.0,13:44,1.0,2.0,WAS 2,3.0,24.0,"Penalty on Zak Zinter: False Start, 5 yards (accepted) (no play)",6.74,5.6,5.0,2024,70
+3.0,13:15,,,,,,Timeout #1 by Cleveland Browns,,,5.0,2024,70
+3.0,13:15,1.0,7.0,WAS 7,3.0,24.0,Deshaun Watson sacked by Dorance Armstrong for -1 yards,5.6,4.57,5.0,2024,70
+3.0,12:31,2.0,8.0,WAS 8,3.0,24.0,Deshaun Watson pass incomplete short middle intended for Jerry Jeudy,4.57,3.58,5.0,2024,70
+3.0,12:23,3.0,8.0,WAS 8,3.0,24.0,Deshaun Watson pass incomplete short left,3.58,2.95,5.0,2024,70
+3.0,12:15,4.0,8.0,WAS 8,3.0,24.0,"Penalty on CLE: Delay of Game, 5 yards (accepted) (no play)",2.95,2.57,5.0,2024,70
+3.0,12:15,4.0,13.0,WAS 13,6.0,24.0,Dustin Hopkins 31 yard field goal good,2.57,3.0,5.0,2024,70
+3.0,12:12,,,CLE 35,6.0,24.0,"Dustin Hopkins kicks off 61 yards, returned by Austin Ekeler for 26 yards (tackle by D'Anthony Bell and Winston Reid). Penalty on Jeremy Reaves: Offensive Holding, 10 yards (accepted)",0.0,0.28,5.0,2024,70
+3.0,12:04,1.0,10.0,WAS 20,6.0,24.0,Austin Ekeler left guard for 4 yards (tackle by Jeremiah Owusu-Koramoah and Grant Delpit),0.28,0.27,5.0,2024,70
+3.0,11:34,2.0,6.0,WAS 24,6.0,24.0,Jayden Daniels pass complete short left to Terry McLaurin for 23 yards (tackle by Greg Newsome),0.27,2.06,5.0,2024,70
+3.0,10:51,1.0,10.0,WAS 47,6.0,24.0,Jayden Daniels scrambles up the middle for 23 yards (tackle by Devin Bush),2.06,3.58,5.0,2024,70
+3.0,10:17,1.0,10.0,CLE 30,6.0,24.0,Jeremy McNichols left tackle for 5 yards (tackle by Devin Bush and Winston Reid),3.58,3.71,5.0,2024,70
+3.0,9:52,2.0,5.0,CLE 25,6.0,24.0,Jayden Daniels sacked by Jeremiah Owusu-Koramoah for -2 yards,3.71,2.74,5.0,2024,70
+3.0,9:14,3.0,7.0,CLE 27,6.0,24.0,Jayden Daniels pass complete short right to Dyami Brown for 16 yards (tackle by Grant Delpit and Rodney McLeod),2.74,4.84,5.0,2024,70
+3.0,8:45,1.0,10.0,CLE 11,6.0,24.0,Austin Ekeler up the middle for 2 yards (tackle by Devin Bush and Rodney McLeod),4.84,4.51,5.0,2024,70
+3.0,8:10,2.0,8.0,CLE 9,6.0,24.0,Jayden Daniels right end for 6 yards (tackle by Mike Ford),4.51,4.89,5.0,2024,70
+3.0,7:28,3.0,2.0,CLE 3,6.0,30.0,"Jeremy McNichols left tackle for 3 yards, touchdown",4.89,7.0,5.0,2024,70
+3.0,7:23,,,CLE 15,6.0,31.0,Austin Seibert kicks extra point good,0.0,0.0,5.0,2024,70
+3.0,7:23,,,WAS 35,6.0,31.0,"Austin Seibert kicks off 59 yards, returned by Pierre Strong for 20 yards (tackle by Mykal Walker and Nick Bellore)",0.0,0.67,5.0,2024,70
+3.0,7:17,1.0,10.0,CLE 26,6.0,31.0,D'Onta Foreman left end for 25 yards (tackle by Quan Martin),0.67,2.32,5.0,2024,70
+3.0,6:41,1.0,10.0,WAS 49,6.0,31.0,D'Onta Foreman left end for 8 yards (tackle by Benjamin St-Juste and Bobby Wagner),2.32,2.86,5.0,2024,70
+3.0,5:58,2.0,2.0,WAS 41,6.0,31.0,"Deshaun Watson sacked by Bobby Wagner for -4 yards. Deshaun Watson fumbles (forced by Bobby Wagner), recovered by Frankie Luvu at WAS-45 and returned for 5 yards (tackle by Jedrick Wills)",2.86,-2.26,5.0,2024,70
+3.0,5:48,1.0,10.0,WAS 50,6.0,31.0,Jayden Daniels scrambles right end for 5 yards (tackle by Isaiah McGuire),2.26,2.39,5.0,2024,70
+3.0,5:05,2.0,5.0,CLE 45,6.0,31.0,Jayden Daniels sacked by and Dalvin Tomlinson for -6 yards and Winston Reid for -6 yards,2.39,0.89,5.0,2024,70
+3.0,4:39,3.0,11.0,WAS 49,6.0,31.0,Jayden Daniels pass complete short right to Austin Ekeler for 33 yards (tackle by Rodney McLeod),0.89,4.37,5.0,2024,70
+3.0,3:54,1.0,10.0,CLE 18,6.0,31.0,Jeremy McNichols right tackle for 5 yards (tackle by Devin Bush),4.37,4.61,5.0,2024,70
+3.0,3:26,2.0,5.0,CLE 13,6.0,31.0,Austin Ekeler up the middle for 1 yard (tackle by Isaiah McGuire and Devin Bush),4.61,4.03,5.0,2024,70
+3.0,2:43,3.0,4.0,CLE 12,6.0,31.0,Jayden Daniels pass incomplete short left intended for Terry McLaurin,4.03,2.71,5.0,2024,70
+3.0,2:38,4.0,4.0,CLE 12,6.0,34.0,Austin Seibert 30 yard field goal good,2.71,3.0,5.0,2024,70
+3.0,2:35,,,WAS 35,6.0,34.0,"Austin Seibert kicks off 65 yards, touchback.",0.0,0.94,5.0,2024,70
+3.0,2:35,1.0,10.0,CLE 30,6.0,34.0,Deshaun Watson pass complete short middle to Elijah Moore for 6 yards (tackle by Noah Igbinoghene),0.94,1.2,5.0,2024,70
+3.0,2:02,2.0,4.0,CLE 36,6.0,34.0,Jerome Ford left tackle for 14 yards (tackle by Noah Igbinoghene),1.2,2.26,5.0,2024,70
+3.0,1:33,1.0,10.0,CLE 50,6.0,34.0,Jerome Ford right guard for no gain (tackle by Javontae Jean-Baptiste),2.26,1.71,5.0,2024,70
+3.0,1:05,2.0,10.0,CLE 50,6.0,34.0,Deshaun Watson pass incomplete short left intended for Amari Cooper,1.71,1.03,5.0,2024,70
+3.0,1:01,3.0,10.0,CLE 50,6.0,34.0,"Deshaun Watson pass incomplete short right intended for Jerry Jeudy. Penalty on Dorance Armstrong: Defensive Offside, 5 yards (accepted) (no play)",1.03,1.69,5.0,2024,70
+3.0,0:58,3.0,5.0,WAS 45,6.0,34.0,Deshaun Watson scrambles left end for 4 yards (tackle by Daron Payne),1.69,0.53,5.0,2024,70
+3.0,0:21,4.0,1.0,WAS 41,6.0,34.0,Jerome Ford up the middle for 2 yards (tackle by Jer'Zhan Newton),0.53,2.98,5.0,2024,70
+4.0,15:00,1.0,10.0,WAS 39,6.0,34.0,Deshaun Watson sacked by Frankie Luvu for -7 yards,2.98,1.5,5.0,2024,70
+4.0,14:27,2.0,17.0,WAS 46,6.0,34.0,Deshaun Watson pass complete short right to Jordan Akins for 3 yards (tackle by Bobby Wagner),1.5,1.22,5.0,2024,70
+4.0,13:41,3.0,14.0,WAS 43,6.0,34.0,Deshaun Watson sacked by Dante Fowler for -8 yards,1.22,-0.13,5.0,2024,70
+4.0,13:08,4.0,22.0,CLE 49,6.0,34.0,Corey Bojorquez punts 43 yards downed by Blake Whiteheart,-0.13,0.38,5.0,2024,70
+4.0,12:50,1.0,10.0,WAS 8,6.0,34.0,Jeremy McNichols left guard for 3 yards (tackle by Winston Reid),-0.38,-0.56,5.0,2024,70
+4.0,12:13,2.0,7.0,WAS 11,6.0,34.0,Marcus Mariota pass incomplete short right,-0.56,-1.07,5.0,2024,70
+4.0,12:08,3.0,7.0,WAS 11,6.0,34.0,Marcus Mariota pass incomplete short right intended for Olamide Zaccheaus (defended by Winston Reid),-1.07,-2.49,5.0,2024,70
+4.0,12:03,4.0,7.0,WAS 11,6.0,34.0,"Tress Way punts 53 yards, returned by James Proche for 10 yards (tackle by Jeremy Reaves)",-2.49,-1.99,5.0,2024,70
+4.0,11:51,1.0,10.0,CLE 46,6.0,34.0,Jerome Ford right tackle for 16 yards (tackle by Quan Martin),1.99,3.05,5.0,2024,70
+4.0,11:23,1.0,10.0,WAS 38,6.0,34.0,Jerome Ford up the middle for 1 yard (tackle by Daron Payne),3.05,2.64,5.0,2024,70
+4.0,10:47,2.0,9.0,WAS 37,6.0,34.0,Deshaun Watson pass complete short middle to Jordan Akins for 9 yards (tackle by Noah Igbinoghene and Dorance Armstrong),2.64,3.71,5.0,2024,70
+4.0,10:06,1.0,10.0,WAS 28,6.0,34.0,Jerome Ford left tackle for 8 yards (tackle by Bobby Wagner),3.71,4.25,5.0,2024,70
+4.0,9:46,2.0,2.0,WAS 20,6.0,34.0,D'Onta Foreman left tackle for 1 yard (tackle by Daron Payne and Jer'Zhan Newton),4.25,3.72,5.0,2024,70
+4.0,9:23,3.0,1.0,WAS 19,6.0,34.0,"D'Onta Foreman up the middle for no gain (tackle by Jamin Davis). Penalty on Jer'Zhan Newton: Defensive Offside, 6 yards (accepted) (no play)",3.72,4.71,5.0,2024,70
+4.0,9:09,1.0,10.0,WAS 13,6.0,34.0,Deshaun Watson scrambles right end for 5 yards (tackle by Jamin Davis),4.71,5.09,5.0,2024,70
+4.0,8:31,2.0,4.0,WAS 8,6.0,34.0,D'Onta Foreman right tackle for no gain (tackle by Jamin Davis),5.09,4.28,5.0,2024,70
+4.0,7:45,3.0,4.0,WAS 8,6.0,34.0,"Penalty on Jedrick Wills: False Start, 5 yards (accepted) (no play)",4.28,3.26,5.0,2024,70
+4.0,7:45,,,,,,Timeout #2 by Cleveland Browns,,,5.0,2024,70
+4.0,7:45,3.0,9.0,WAS 13,6.0,34.0,Deshaun Watson pass complete short left to Elijah Moore for 3 yards (tackle by Mike Sainristil),3.26,2.79,5.0,2024,70
+4.0,7:06,4.0,6.0,WAS 10,12.0,34.0,"Deshaun Watson pass complete short middle to Jordan Akins for 10 yards, touchdown",2.79,7.0,5.0,2024,70
+4.0,7:02,,,WAS 15,13.0,34.0,Dustin Hopkins kicks extra point good,0.0,0.0,5.0,2024,70
+4.0,7:02,,,CLE 35,13.0,34.0,"Dustin Hopkins kicks off 65 yards, touchback.",0.0,0.94,5.0,2024,70
+4.0,7:02,1.0,10.0,WAS 30,13.0,34.0,Jeremy McNichols right tackle for no gain (tackle by Winston Reid and Nathaniel Watson),0.94,0.39,5.0,2024,70
+4.0,6:20,2.0,10.0,WAS 30,13.0,34.0,Marcus Mariota right end for -1 yards (tackle by D'Anthony Bell),0.39,-0.43,5.0,2024,70
+4.0,5:37,3.0,11.0,WAS 29,13.0,34.0,Jeremy McNichols left end for 28 yards (tackle by Winston Reid),-0.43,2.72,5.0,2024,70
+4.0,4:49,1.0,10.0,CLE 43,13.0,34.0,Austin Ekeler right tackle for no gain (tackle by Za'Darius Smith),2.72,2.18,5.0,2024,70
+4.0,4:07,2.0,10.0,CLE 43,13.0,34.0,Marcus Mariota right end for 3 yards (tackle by Nathaniel Watson),2.18,1.88,5.0,2024,70
+4.0,3:24,3.0,7.0,CLE 40,13.0,34.0,Marcus Mariota pass complete short left to Brycen Tremayne for -2 yards (tackle by Rodney McLeod),1.88,0.46,5.0,2024,70
+4.0,2:36,4.0,9.0,CLE 42,13.0,34.0,"Penalty on WAS: Delay of Game, 5 yards (accepted) (no play)",0.46,0.13,5.0,2024,70
+4.0,2:36,4.0,14.0,CLE 47,13.0,34.0,"Tress Way punts 47 yards, touchback.",0.13,-0.28,5.0,2024,70
+4.0,2:28,1.0,10.0,CLE 20,13.0,34.0,D'Onta Foreman left end for 6 yards (tackle by Michael Davis and Darrick Forrest),0.28,0.54,5.0,2024,70
+4.0,2:00,2.0,4.0,CLE 26,13.0,34.0,Jameis Winston left guard for -3 yards (tackle by Jer'Zhan Newton and Jamin Davis),0.54,-0.56,5.0,2024,70
+4.0,1:22,3.0,7.0,CLE 23,13.0,34.0,Jameis Winston pass complete short middle to D'Onta Foreman for 16 yards (tackle by Darrick Forrest),-0.56,1.53,5.0,2024,70
+4.0,0:44,1.0,10.0,CLE 39,13.0,34.0,Jerome Ford left guard for 3 yards (tackle by Phidarian Mathis),1.53,1.39,5.0,2024,70

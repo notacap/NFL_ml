@@ -1,0 +1,157 @@
+Quarter,Time,Down,ToGo,Location,BUF,LAR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Rams won the coin toss and deferred, Bills to receive the opening kickoff.",,,1.0,2022,1
+1.0,15:00,,,LAR 35,0.0,0.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,1
+1.0,15:00,1.0,10.0,BUF 25,0.0,0.0,Josh Allen pass complete short right to Stefon Diggs for 6 yards (tackle by Jalen Ramsey),0.61,0.87,1.0,2022,1
+1.0,14:30,2.0,4.0,BUF 31,0.0,0.0,Josh Allen scrambles right end for 7 yards (tackle by Ernest Jones),0.87,1.47,1.0,2022,1
+1.0,13:55,1.0,10.0,BUF 38,0.0,0.0,Devin Singletary right end for 7 yards (tackle by Troy Hill),1.47,1.87,1.0,2022,1
+1.0,13:17,2.0,3.0,BUF 45,0.0,0.0,Josh Allen pass complete short right to Devin Singletary for 6 yards (tackle by Bobby Wagner),1.87,2.32,1.0,2022,1
+1.0,12:35,1.0,10.0,LAR 49,0.0,0.0,Devin Singletary left tackle for 2 yards (tackle by A'Shawn Robinson and Bobby Wagner),2.32,2.05,1.0,2022,1
+1.0,11:57,2.0,8.0,LAR 47,0.0,0.0,Josh Allen pass complete short middle to Stefon Diggs for 12 yards (tackle by Leonard Floyd),2.05,3.25,1.0,2022,1
+1.0,11:23,1.0,10.0,LAR 35,0.0,0.0,Zack Moss right end for 1 yard (tackle by Terrell Lewis and Greg Gaines),3.25,2.84,1.0,2022,1
+1.0,10:45,2.0,9.0,LAR 34,0.0,0.0,Josh Allen pass complete short right to Zack Moss for 8 yards (tackle by Bobby Wagner),2.84,3.2,1.0,2022,1
+1.0,10:03,3.0,1.0,LAR 26,6.0,0.0,"Josh Allen pass complete short right to Gabriel Davis for 26 yards, touchdown",3.2,7.0,1.0,2022,1
+1.0,9:56,,,LAR 15,7.0,0.0,Tyler Bass kicks extra point good,0.0,0.0,1.0,2022,1
+1.0,9:56,,,BUF 35,7.0,0.0,"Tyler Bass kicks off 65 yards, returned by Brandon Powell for 17 yards (tackle by Jaquan Johnson)",0.0,-0.06,1.0,2022,1
+1.0,9:52,1.0,10.0,LAR 17,7.0,0.0,Darrell Henderson up the middle for 5 yards (tackle by Gregory Rousseau),-0.06,0.21,1.0,2022,1
+1.0,9:29,2.0,5.0,LAR 22,7.0,0.0,"Penalty on David Edwards: False Start, 5 yards (accepted) (no play)",0.21,-0.58,1.0,2022,1
+1.0,9:03,2.0,10.0,LAR 17,7.0,0.0,Darrell Henderson up the middle for 2 yards (tackle by Tremaine Edmunds),-0.58,-1.0,1.0,2022,1
+1.0,8:25,3.0,8.0,LAR 19,7.0,0.0,Matthew Stafford pass complete deep right to Cooper Kupp for 23 yards (tackle by Jordan Poyer),-1.0,1.73,1.0,2022,1
+1.0,7:45,1.0,10.0,LAR 42,7.0,0.0,Darrell Henderson right guard for 1 yard (tackle by Tim Settle),1.73,1.32,1.0,2022,1
+1.0,7:23,2.0,9.0,LAR 43,7.0,0.0,Matthew Stafford pass complete short right to Tyler Higbee for 10 yards (tackle by Dane Jackson),1.32,2.46,1.0,2022,1
+1.0,6:49,1.0,10.0,BUF 47,7.0,0.0,Matthew Stafford pass complete short left to Ben Skowronek for 4 yards (tackle by Christian Benford),2.46,2.45,1.0,2022,1
+1.0,6:23,2.0,6.0,BUF 43,7.0,0.0,Matthew Stafford sacked by Von Miller for -8 yards,2.45,0.7,1.0,2022,1
+1.0,5:55,3.0,14.0,LAR 49,7.0,0.0,Matthew Stafford pass complete short right to Cooper Kupp for 6 yards (tackle by Jordan Poyer),0.7,0.27,1.0,2022,1
+1.0,5:15,4.0,8.0,BUF 45,7.0,0.0,"Riley Dixon punts 36 yards, fair catch by Jamison Crowder at BUF-9",0.27,0.38,1.0,2022,1
+1.0,5:06,1.0,10.0,BUF 9,7.0,0.0,Devin Singletary right guard for 7 yards (tackle by Troy Hill),-0.38,-0.16,1.0,2022,1
+1.0,4:28,2.0,3.0,BUF 16,7.0,0.0,Josh Allen sacked by Aaron Donald for -1 yards,-0.16,-0.72,1.0,2022,1
+1.0,3:48,3.0,4.0,BUF 15,7.0,0.0,Josh Allen pass complete short right to Stefon Diggs for 10 yards (tackle by Nick Scott),-0.72,0.61,1.0,2022,1
+1.0,3:13,1.0,10.0,BUF 25,7.0,0.0,Josh Allen pass complete short left to Jamison Crowder for 11 yards (tackle by Taylor Rapp and Nick Scott),0.61,1.33,1.0,2022,1
+1.0,2:35,1.0,10.0,BUF 36,7.0,0.0,Josh Allen pass complete short left to Isaiah McKenzie for 12 yards (tackle by Jalen Ramsey),1.33,2.13,1.0,2022,1
+1.0,1:57,1.0,10.0,BUF 48,7.0,0.0,"Josh Allen pass complete short left to Dawson Knox for 5 yards (tackle by Justin Hollins). Penalty on Justin Hollins: Horse Collar Tackle, 15 yards (accepted)",2.13,3.45,1.0,2022,1
+1.0,1:25,1.0,10.0,LAR 32,7.0,0.0,Josh Allen pass complete short right to Stefon Diggs for 3 yards (tackle by Bobby Wagner),3.45,3.31,1.0,2022,1
+1.0,0:45,2.0,7.0,LAR 29,7.0,0.0,Josh Allen pass short right intended for Isaiah McKenzie is intercepted by Terrell Lewis at LA-24 and returned for no gain (tackle by Isaiah McKenzie),3.31,-0.54,1.0,2022,1
+1.0,0:39,1.0,10.0,LAR 24,7.0,0.0,Darrell Henderson left guard for no gain (tackle by Gregory Rousseau),0.54,0.0,1.0,2022,1
+1.0,0:17,2.0,10.0,LAR 24,7.0,0.0,Matthew Stafford pass complete short right to Cooper Kupp for 6 yards (tackle by Tremaine Edmunds),0.0,0.1,1.0,2022,1
+2.0,15:00,3.0,4.0,LAR 30,7.0,0.0,Matthew Stafford pass complete short left to Darrell Henderson for 1 yard (tackle by Micah Hyde and Christian Benford),0.1,-1.31,1.0,2022,1
+2.0,14:20,4.0,3.0,LAR 31,7.0,0.0,"Riley Dixon punts 57 yards, returned by Jamison Crowder for 20 yards (tackle by Jake Hummel)",-1.31,-1.07,1.0,2022,1
+2.0,14:08,1.0,10.0,BUF 32,7.0,0.0,Josh Allen pass complete short right to Zack Moss for 2 yards (tackle by Jalen Ramsey),1.07,0.8,1.0,2022,1
+2.0,13:36,2.0,8.0,BUF 34,7.0,0.0,"James Cook right tackle for 2 yards. James Cook fumbles (forced by Ernest Jones), recovered by Leonard Floyd at BUF-36 (tackle by Ernest Jones) (tackle by Ernest Jones)",0.8,-3.18,1.0,2022,1
+2.0,13:24,1.0,10.0,BUF 36,7.0,0.0,Cam Akers right guard for no gain (tackle by Ed Oliver),3.18,2.64,1.0,2022,1
+2.0,12:57,2.0,10.0,BUF 36,7.0,0.0,Matthew Stafford pass short right intended for Tyler Higbee is intercepted by Dane Jackson at BUF-30 and returned for 2 yards (tackle by Tyler Higbee),2.64,-1.07,1.0,2022,1
+2.0,12:55,1.0,10.0,BUF 32,7.0,0.0,Josh Allen pass complete short right to Gabriel Davis for 5 yards (tackle by Jordan Fuller),1.07,1.2,1.0,2022,1
+2.0,12:30,2.0,5.0,BUF 37,7.0,0.0,Zack Moss right guard for 3 yards (tackle by A'Shawn Robinson),1.2,0.89,1.0,2022,1
+2.0,11:49,3.0,2.0,BUF 40,7.0,0.0,Josh Allen pass complete short left to Gabriel Davis for 10 yards (tackle by David Long),0.89,2.26,1.0,2022,1
+2.0,11:12,1.0,10.0,LAR 50,7.0,0.0,Josh Allen pass complete short left to Stefon Diggs for 21 yards (tackle by Terrell Lewis),2.26,3.64,1.0,2022,1
+2.0,10:27,1.0,10.0,LAR 29,7.0,0.0,Josh Allen pass complete short left to Zack Moss for 4 yards (tackle by Troy Hill),3.64,3.64,1.0,2022,1
+2.0,9:44,2.0,6.0,LAR 25,7.0,0.0,Josh Allen pass complete short left to Zack Moss for 2 yards (tackle by Troy Hill),3.64,3.2,1.0,2022,1
+2.0,8:55,3.0,4.0,LAR 23,7.0,0.0,Josh Allen pass incomplete deep left intended for Gabriel Davis,3.2,2.0,1.0,2022,1
+2.0,8:51,4.0,4.0,LAR 23,10.0,0.0,Tyler Bass 41 yard field goal good,2.0,3.0,1.0,2022,1
+2.0,8:48,,,BUF 35,10.0,0.0,"Tyler Bass kicks off 51 yards, out of bounds",0.0,1.6,1.0,2022,1
+2.0,8:48,1.0,10.0,LAR 40,10.0,0.0,Darrell Henderson right tackle for 4 yards (tackle by Von Miller and DaQuan Jones),1.6,1.59,1.0,2022,1
+2.0,8:06,2.0,6.0,LAR 44,10.0,0.0,Matthew Stafford pass incomplete short left intended for Tutu Atwell (defended by Taron Johnson),1.59,0.89,1.0,2022,1
+2.0,8:04,3.0,6.0,LAR 44,10.0,0.0,Matthew Stafford pass complete short left to Ben Skowronek for 12 yards (tackle by Taron Johnson),0.89,2.65,1.0,2022,1
+2.0,7:21,1.0,10.0,BUF 44,10.0,0.0,"Brandon Powell left tackle for 3 yards (tackle by Boogie Basham). Penalty on Jordan Phillips: Defensive Holding, 5 yards (accepted)",2.65,3.18,1.0,2022,1
+2.0,6:55,1.0,10.0,BUF 36,10.0,0.0,Matthew Stafford pass complete short left to Cooper Kupp for 6 yards (tackle by Matt Milano),3.18,3.45,1.0,2022,1
+2.0,6:16,2.0,4.0,BUF 30,10.0,0.0,Matthew Stafford sacked by Jordan Phillips for -10 yards,3.45,1.42,1.0,2022,1
+2.0,5:48,3.0,14.0,BUF 40,10.0,0.0,Matthew Stafford pass complete short left to Allen Robinson for 12 yards (tackle by Tremaine Edmunds),1.42,1.7,1.0,2022,1
+2.0,4:59,4.0,2.0,BUF 28,10.0,0.0,Matthew Stafford pass complete short right to Cooper Kupp for 3 yards (tackle by Matt Milano and Ed Oliver),1.7,3.91,1.0,2022,1
+2.0,4:22,1.0,10.0,BUF 25,10.0,0.0,Darrell Henderson left end for 18 yards (tackle by Dane Jackson and Tremaine Edmunds),3.91,5.6,1.0,2022,1
+2.0,3:46,1.0,7.0,BUF 7,10.0,0.0,Darrell Henderson up the middle for 3 yards (tackle by DaQuan Jones),5.6,5.34,1.0,2022,1
+2.0,3:05,2.0,4.0,BUF 4,10.0,6.0,"Matthew Stafford pass complete short right to Cooper Kupp for 4 yards, touchdown",5.34,7.0,1.0,2022,1
+2.0,3:00,,,BUF 15,10.0,7.0,Matt Gay kicks extra point good,0.0,0.0,1.0,2022,1
+2.0,3:00,,,LAR 35,10.0,7.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,1
+2.0,3:00,1.0,10.0,BUF 25,10.0,7.0,Devin Singletary up the middle for 2 yards (tackle by Aaron Donald and Bobby Wagner),0.61,0.33,1.0,2022,1
+2.0,2:23,2.0,8.0,BUF 27,10.0,7.0,Josh Allen sacked by Bobby Wagner for -4 yards,0.33,-0.89,1.0,2022,1
+2.0,2:16,,,,,,Timeout #1 by Los Angeles Rams,,,1.0,2022,1
+2.0,2:16,3.0,12.0,BUF 23,10.0,7.0,"Penalty on LAR: Defensive Too Many Men on Field, 5 yards (accepted) (no play)",-0.89,-0.23,1.0,2022,1
+2.0,2:16,3.0,7.0,BUF 28,10.0,7.0,Josh Allen pass complete short left to Stefon Diggs for 10 yards (tackle by Jalen Ramsey),-0.23,1.47,1.0,2022,1
+2.0,2:00,1.0,10.0,BUF 38,10.0,7.0,Josh Allen pass short middle intended for Jamison Crowder is intercepted by Troy Hill at 50 and returned for 5 yards (tackle by Jamison Crowder),1.47,-2.59,1.0,2022,1
+2.0,1:53,1.0,10.0,BUF 45,10.0,7.0,Matthew Stafford pass incomplete short middle intended for Tyler Higbee,2.59,2.04,1.0,2022,1
+2.0,1:48,2.0,10.0,BUF 45,10.0,7.0,Matthew Stafford pass incomplete deep middle intended for Cooper Kupp,2.04,1.36,1.0,2022,1
+2.0,1:45,3.0,10.0,BUF 45,10.0,7.0,"Matthew Stafford pass incomplete deep left intended for Cooper Kupp. Penalty on Taron Johnson: Defensive Holding, 5 yards (accepted) (no play)",1.36,2.92,1.0,2022,1
+2.0,1:40,1.0,10.0,BUF 40,10.0,7.0,Matthew Stafford pass complete short right to Cooper Kupp for 9 yards (tackle by Dane Jackson and Matt Milano),2.92,3.59,1.0,2022,1
+2.0,1:20,2.0,1.0,BUF 31,10.0,7.0,Cam Akers up the middle for no gain (tackle by Matt Milano),3.59,2.87,1.0,2022,1
+2.0,0:41,3.0,1.0,BUF 31,10.0,7.0,Matthew Stafford scrambles right end for 2 yards (tackle by Gregory Rousseau),2.87,3.64,1.0,2022,1
+2.0,0:34,,,,,,Timeout #1 by Buffalo Bills,,,1.0,2022,1
+2.0,0:34,1.0,10.0,BUF 29,10.0,7.0,Matthew Stafford sacked by and Jordan Phillips for -9 yards and A.J. Epenesa for -9 yards,3.64,1.89,1.0,2022,1
+2.0,0:26,,,,,,Timeout #2 by Los Angeles Rams,,,1.0,2022,1
+2.0,0:26,2.0,19.0,BUF 38,10.0,7.0,Matthew Stafford pass complete short left to Cooper Kupp for -1 yards (tackle by Von Miller),1.89,1.09,1.0,2022,1
+2.0,0:04,,,,,,Timeout #3 by Los Angeles Rams,,,1.0,2022,1
+2.0,0:04,3.0,20.0,BUF 39,10.0,10.0,Matt Gay 57 yard field goal good,1.09,3.0,1.0,2022,1
+3.0,15:00,,,BUF 35,10.0,10.0,"Tyler Bass kicks off 66 yards, returned by Brandon Powell for 12 yards (tackle by Taiwan Jones and Siran Neal)",0.0,-0.37,1.0,2022,1
+3.0,14:55,1.0,10.0,LAR 11,10.0,10.0,Darrell Henderson right end for 2 yards (tackle by Jordan Phillips),-0.37,-0.63,1.0,2022,1
+3.0,14:29,2.0,8.0,LAR 13,10.0,10.0,Matthew Stafford pass complete short middle to Darrell Henderson for 4 yards (tackle by Tremaine Edmunds and Taron Johnson),-0.63,-0.72,1.0,2022,1
+3.0,13:46,3.0,4.0,LAR 17,10.0,10.0,"Matthew Stafford aborted snap, recovered by Matthew Stafford at LA-17 Matthew Stafford sacked by Gregory Rousseau for -7 yards",-0.72,-2.49,1.0,2022,1
+3.0,13:10,4.0,11.0,LAR 10,10.0,10.0,"Riley Dixon punts 48 yards, fair catch by Jamison Crowder at BUF-42",-2.49,-1.73,1.0,2022,1
+3.0,13:02,1.0,10.0,BUF 42,10.0,10.0,Devin Singletary left guard for 12 yards (tackle by Troy Hill),1.73,2.52,1.0,2022,1
+3.0,12:23,1.0,10.0,LAR 46,10.0,10.0,Devin Singletary left end for 1 yard (tackle by Bobby Wagner),2.52,2.11,1.0,2022,1
+3.0,11:36,2.0,9.0,LAR 45,10.0,10.0,Josh Allen left tackle for 7 yards (tackle by Justin Hollins),2.11,2.35,1.0,2022,1
+3.0,10:54,3.0,2.0,LAR 38,10.0,10.0,"Penalty on Rodger Saffold: False Start, 5 yards (accepted) (no play)",2.35,1.68,1.0,2022,1
+3.0,10:36,3.0,7.0,LAR 43,10.0,10.0,Josh Allen scrambles up the middle for 8 yards (tackle by Nick Scott),1.68,3.25,1.0,2022,1
+3.0,10:07,1.0,10.0,LAR 35,10.0,10.0,Devin Singletary left end for 13 yards (tackle by Leonard Floyd and Troy Hill),3.25,4.11,1.0,2022,1
+3.0,9:25,1.0,10.0,LAR 22,10.0,10.0,Josh Allen pass complete short left to Stefon Diggs for 7 yards (tackle by Terrell Lewis),4.11,4.65,1.0,2022,1
+3.0,8:46,2.0,3.0,LAR 15,10.0,10.0,Josh Allen pass complete short left to Devin Singletary for 8 yards (tackle by David Long),4.65,5.6,1.0,2022,1
+3.0,8:02,1.0,7.0,LAR 7,16.0,10.0,"Josh Allen pass complete short right to Isaiah McKenzie for 7 yards, touchdown",5.6,7.0,1.0,2022,1
+3.0,7:59,,,LAR 15,17.0,10.0,Tyler Bass kicks extra point good,0.0,0.0,1.0,2022,1
+3.0,7:59,,,BUF 35,17.0,10.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,1
+3.0,7:59,1.0,10.0,LAR 25,17.0,10.0,Matthew Stafford sacked by Boogie Basham for no gain,0.61,0.06,1.0,2022,1
+3.0,7:29,2.0,10.0,LAR 25,17.0,10.0,Matthew Stafford pass complete deep left to Cooper Kupp for 23 yards (tackle by Taron Johnson and Christian Benford),0.06,2.13,1.0,2022,1
+3.0,7:02,1.0,10.0,LAR 48,17.0,10.0,Matthew Stafford pass complete short middle to Darrell Henderson for 10 yards (tackle by Dane Jackson),2.13,2.79,1.0,2022,1
+3.0,6:19,1.0,10.0,BUF 42,17.0,10.0,Darrell Henderson right tackle for 1 yard (tackle by Tremaine Edmunds),2.79,2.38,1.0,2022,1
+3.0,5:53,2.0,9.0,BUF 41,17.0,10.0,Matthew Stafford sacked by Von Miller for -9 yards,2.38,0.5,1.0,2022,1
+3.0,5:26,3.0,18.0,LAR 50,17.0,10.0,Matthew Stafford pass incomplete deep middle intended for Ben Skowronek,0.5,-0.06,1.0,2022,1
+3.0,5:18,4.0,18.0,LAR 50,17.0,10.0,"Riley Dixon punts 39 yards, fair catch by Jamison Crowder at BUF-11",-0.06,0.37,1.0,2022,1
+3.0,5:11,1.0,10.0,BUF 11,17.0,10.0,"Penalty on Spencer Brown: False Start, 5 yards (accepted) (no play)",-0.37,-0.57,1.0,2022,1
+3.0,5:11,1.0,15.0,BUF 6,17.0,10.0,Josh Allen scrambles left end for 8 yards (tackle by Ernest Jones),-0.57,-0.53,1.0,2022,1
+3.0,4:29,2.0,7.0,BUF 14,17.0,10.0,Zack Moss left end for 8 yards (tackle by Nick Scott),-0.53,0.41,1.0,2022,1
+3.0,3:49,1.0,10.0,BUF 22,17.0,10.0,Zack Moss left end for no gain (tackle by Ernest Jones and Greg Gaines),0.41,-0.13,1.0,2022,1
+3.0,3:07,2.0,10.0,BUF 22,17.0,10.0,Josh Allen pass complete short middle to Jamison Crowder for 11 yards (tackle by Troy Hill),-0.13,1.14,1.0,2022,1
+3.0,2:27,1.0,10.0,BUF 33,17.0,10.0,Zack Moss left guard for 1 yard (tackle by A'Shawn Robinson and Ernest Jones),1.14,0.73,1.0,2022,1
+3.0,1:48,2.0,9.0,BUF 34,17.0,10.0,Josh Allen pass complete short middle to Zack Moss for 4 yards (tackle by Ernest Jones),0.73,0.56,1.0,2022,1
+3.0,1:23,3.0,5.0,BUF 38,17.0,10.0,Josh Allen pass complete short right to Jamison Crowder for 6 yards (tackle by Jalen Ramsey),0.56,1.86,1.0,2022,1
+3.0,0:41,1.0,10.0,BUF 44,17.0,10.0,Josh Allen pass incomplete short right intended for Dawson Knox (defended by Nick Scott),1.86,1.32,1.0,2022,1
+3.0,0:33,2.0,10.0,BUF 44,17.0,10.0,Josh Allen up the middle for 3 yards (tackle by Jalen Ramsey and Taylor Rapp),1.32,1.03,1.0,2022,1
+4.0,15:00,3.0,7.0,BUF 47,17.0,10.0,Josh Allen pass complete deep middle to Gabriel Davis for 47 yards (tackle by David Long),1.03,5.83,1.0,2022,1
+4.0,14:15,1.0,6.0,LAR 6,17.0,10.0,Josh Allen right tackle for 2 yards (tackle by Nick Scott and A'Shawn Robinson),5.83,5.34,1.0,2022,1
+4.0,13:40,2.0,4.0,LAR 4,17.0,10.0,Josh Allen pass incomplete short middle intended for Stefon Diggs,5.34,4.49,1.0,2022,1
+4.0,13:34,3.0,4.0,LAR 4,23.0,10.0,"Josh Allen scrambles right end for 4 yards, touchdown",4.49,7.0,1.0,2022,1
+4.0,13:27,,,LAR 15,24.0,10.0,Tyler Bass kicks extra point good,0.0,0.0,1.0,2022,1
+4.0,13:27,,,BUF 35,24.0,10.0,"Tyler Bass kicks off 60 yards, returned by Brandon Powell for 17 yards (tackle by Damar Hamlin)",0.0,0.41,1.0,2022,1
+4.0,13:23,1.0,10.0,LAR 22,24.0,10.0,Matthew Stafford pass complete short left to Brandon Powell for 10 yards (tackle by Kaiir Elam),0.41,1.07,1.0,2022,1
+4.0,12:46,1.0,10.0,LAR 32,24.0,10.0,Cam Akers left end for no gain (tackle by Micah Hyde and Taron Johnson),1.07,0.53,1.0,2022,1
+4.0,12:27,2.0,10.0,LAR 32,24.0,10.0,Matthew Stafford pass complete short right to Cooper Kupp for 7 yards (tackle by Tremaine Edmunds),0.53,0.76,1.0,2022,1
+4.0,11:41,3.0,3.0,LAR 39,24.0,10.0,Matthew Stafford pass complete short left to Tyler Higbee for 4 yards (tackle by Matt Milano),0.76,1.8,1.0,2022,1
+4.0,11:13,1.0,10.0,LAR 43,24.0,10.0,Matthew Stafford pass deep middle intended for Cooper Kupp is intercepted by Jordan Poyer at BUF-35 and returned for 6 yards (tackle by Cooper Kupp),1.8,-1.66,1.0,2022,1
+4.0,11:01,1.0,10.0,BUF 41,24.0,10.0,Josh Allen pass complete short right to Zack Moss for 1 yard (tackle by Ernest Jones),1.66,1.26,1.0,2022,1
+4.0,10:20,2.0,9.0,BUF 42,24.0,10.0,Josh Allen right guard for 5 yards (tackle by Jordan Fuller),1.26,1.22,1.0,2022,1
+4.0,9:33,3.0,4.0,BUF 47,30.0,10.0,"Josh Allen pass complete deep right to Stefon Diggs for 53 yards, touchdown",1.22,7.0,1.0,2022,1
+4.0,9:25,,,LAR 15,31.0,10.0,Tyler Bass kicks extra point good,0.0,0.0,1.0,2022,1
+4.0,9:25,,,BUF 35,31.0,10.0,"Tyler Bass kicks off 62 yards, returned by Brandon Powell for 21 yards (tackle by Damar Hamlin)",0.0,0.54,1.0,2022,1
+4.0,9:21,1.0,10.0,LAR 24,31.0,10.0,Matthew Stafford pass incomplete short left intended for Tyler Higbee,0.54,0.0,1.0,2022,1
+4.0,9:17,2.0,10.0,LAR 24,31.0,10.0,"Penalty on Ben Skowronek: False Start, 5 yards (accepted) (no play)",0.0,-0.74,1.0,2022,1
+4.0,9:17,2.0,15.0,LAR 19,31.0,10.0,Matthew Stafford pass complete short left to Darrell Henderson for 5 yards (tackle by Taron Johnson),-0.74,-0.69,1.0,2022,1
+4.0,8:50,3.0,10.0,LAR 24,31.0,10.0,Matthew Stafford pass complete short right to Tyler Higbee for 9 yards (tackle by Matt Milano and Tremaine Edmunds),-0.69,-1.18,1.0,2022,1
+4.0,8:23,4.0,1.0,LAR 33,31.0,10.0,Darrell Henderson up the middle for 1 yard (tackle by Dane Jackson),-1.18,1.2,1.0,2022,1
+4.0,7:53,1.0,10.0,LAR 34,31.0,10.0,Matthew Stafford pass complete short left to Cooper Kupp for 6 yards (tackle by Micah Hyde and Taron Johnson),1.2,1.47,1.0,2022,1
+4.0,7:30,2.0,4.0,LAR 40,31.0,10.0,Matthew Stafford pass complete short right to Tyler Higbee for 5 yards (tackle by Kaiir Elam),1.47,1.93,1.0,2022,1
+4.0,7:09,1.0,10.0,LAR 45,31.0,10.0,"Matthew Stafford pass short right intended for Tyler Higbee is intercepted by Boogie Basham at LA-43 and returned for 21 yards (tackle by Matthew Stafford). Penalty on Dane Jackson: Taunting / Defense, 15 yards (accepted)",1.93,-3.12,1.0,2022,1
+4.0,6:58,1.0,10.0,LAR 37,31.0,10.0,Josh Allen scrambles left end for 13 yards (tackle by Troy Hill and Leonard Floyd),3.12,3.97,1.0,2022,1
+4.0,6:13,1.0,10.0,LAR 24,31.0,10.0,Devin Singletary up the middle for 4 yards (tackle by A'Shawn Robinson and Taylor Rapp),3.97,3.97,1.0,2022,1
+4.0,5:30,2.0,6.0,LAR 20,31.0,10.0,"Zack Moss left tackle for 2 yards. Zack Moss fumbles (forced by Nick Scott) (tackle by Taylor Rapp), recovered by Justin Hollins at LA-18",3.97,-0.04,1.0,2022,1
+4.0,5:17,1.0,10.0,LAR 18,31.0,10.0,Darrell Henderson left tackle for 9 yards (tackle by Taron Johnson),0.04,0.82,1.0,2022,1
+4.0,5:08,2.0,1.0,LAR 27,31.0,10.0,Darrell Henderson left tackle for -1 yards (tackle by Taron Johnson),0.82,-0.14,1.0,2022,1
+4.0,4:39,3.0,2.0,LAR 26,31.0,10.0,Matthew Stafford pass complete short right to Cooper Kupp for 8 yards (tackle by Kaiir Elam),-0.14,1.2,1.0,2022,1
+4.0,4:05,1.0,10.0,LAR 34,31.0,10.0,Matthew Stafford pass complete short middle to Darrell Henderson for 6 yards (tackle by Taron Johnson),1.2,1.47,1.0,2022,1
+4.0,3:41,2.0,4.0,LAR 40,31.0,10.0,Matthew Stafford pass complete short right to Ben Skowronek for 5 yards (tackle by Matt Milano),1.47,1.93,1.0,2022,1
+4.0,3:21,1.0,10.0,LAR 45,31.0,10.0,Matthew Stafford pass incomplete short right intended for Tyler Higbee,1.93,1.38,1.0,2022,1
+4.0,3:12,2.0,10.0,LAR 45,31.0,10.0,Matthew Stafford pass complete short right to Tyler Higbee for 11 yards (tackle by Tremaine Edmunds and Micah Hyde),1.38,2.65,1.0,2022,1
+4.0,2:41,1.0,10.0,BUF 44,31.0,10.0,Matthew Stafford pass complete short right to Ben Skowronek for 4 yards (tackle by Tremaine Edmunds),2.65,2.65,1.0,2022,1
+4.0,2:20,2.0,6.0,BUF 40,31.0,10.0,Matthew Stafford pass incomplete short right intended for Ben Skowronek,2.65,1.95,1.0,2022,1
+4.0,2:16,,,,,,Timeout #1 by Buffalo Bills,,,1.0,2022,1
+4.0,2:16,3.0,6.0,BUF 40,31.0,10.0,Matthew Stafford pass complete short right to Cooper Kupp for 28 yards (tackle by Micah Hyde),1.95,4.78,1.0,2022,1
+4.0,2:00,1.0,10.0,BUF 12,31.0,10.0,Matthew Stafford sacked by A.J. Epenesa for -6 yards,4.78,3.31,1.0,2022,1
+4.0,1:18,2.0,16.0,BUF 18,31.0,10.0,Darrell Henderson right tackle for 2 yards (tackle by DaQuan Jones and Jordan Phillips),3.31,2.93,1.0,2022,1
+4.0,0:51,,,,,,Timeout #2 by Buffalo Bills,,,1.0,2022,1
+4.0,0:51,3.0,14.0,BUF 16,31.0,10.0,Matthew Stafford pass incomplete short right intended for Tyler Higbee (defended by Gregory Rousseau),2.93,2.38,1.0,2022,1
+4.0,0:47,4.0,14.0,BUF 16,31.0,10.0,Matthew Stafford pass incomplete deep left intended for Allen Robinson (defended by Christian Benford),2.38,0.14,1.0,2022,1
+4.0,0:41,1.0,10.0,BUF 16,31.0,10.0,Josh Allen kneels for -1 yards,-0.14,-0.78,1.0,2022,1

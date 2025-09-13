@@ -1,0 +1,178 @@
+Quarter,Time,Down,ToGo,Location,GNB,LAR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Rams won the coin toss and deferred, Packers to receive the opening kickoff.",,,5.0,2024,75
+1.0,15:00,,,LAR 35,0.0,0.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.94,5.0,2024,75
+1.0,15:00,1.0,10.0,GNB 30,0.0,0.0,Jordan Love pass incomplete deep left intended for Dontayvion Wicks,0.94,0.39,5.0,2024,75
+1.0,14:54,2.0,10.0,GNB 30,0.0,0.0,Josh Jacobs right guard for 3 yards (tackle by Braden Fiske and Christian Rozeboom),0.39,0.1,5.0,2024,75
+1.0,14:10,3.0,7.0,GNB 33,0.0,0.0,Jordan Love sacked by Kobie Turner for -8 yards,0.1,-1.7,5.0,2024,75
+1.0,13:27,4.0,15.0,GNB 25,0.0,0.0,"Daniel Whelan punts 41 yards, returned by Xavier Smith for no gain (tackle by Corey Ballentine)",-1.7,-1.2,5.0,2024,75
+1.0,13:17,1.0,10.0,LAR 34,0.0,0.0,Kyren Williams up the middle for 1 yard (tackle by Javon Bullard),1.2,0.79,5.0,2024,75
+1.0,12:42,2.0,9.0,LAR 35,0.0,0.0,Matthew Stafford pass complete short left to Colby Parkinson for 6 yards (tackle by Javon Bullard),0.79,0.89,5.0,2024,75
+1.0,12:07,3.0,3.0,LAR 41,0.0,0.0,Matthew Stafford pass incomplete deep left intended for Tutu Atwell (defended by Xavier McKinney),0.89,-0.65,5.0,2024,75
+1.0,12:02,4.0,3.0,LAR 41,0.0,0.0,"Ethan Evans punts 51 yards downed by Hunter Long. Penalty on Robert Rochell: Offensive Holding, 4 yards (accepted)",-0.65,0.38,5.0,2024,75
+1.0,11:50,1.0,10.0,GNB 4,0.0,0.0,Jordan Love pass complete short right to Malik Heath for 7 yards (tackle by Cobie Durant),-0.38,-0.27,5.0,2024,75
+1.0,11:13,2.0,3.0,GNB 11,0.0,0.0,Josh Jacobs up the middle for 4 yards (tackle by Jared Verse),-0.27,-0.22,5.0,2024,75
+1.0,10:37,1.0,10.0,GNB 15,0.0,0.0,Jordan Love pass complete short right to Jayden Reed for 4 yards (tackle by Kamren Curl),-0.22,-0.11,5.0,2024,75
+1.0,9:54,2.0,6.0,GNB 19,0.0,0.0,Josh Jacobs up the middle for 7 yards (tackle by Kamren Curl and Christian Rozeboom),-0.11,0.67,5.0,2024,75
+1.0,9:10,1.0,10.0,GNB 26,0.0,0.0,Jayden Reed left end for 8 yards (tackle by Quentin Lake),0.67,1.21,5.0,2024,75
+1.0,8:26,2.0,2.0,GNB 34,0.0,0.0,Josh Jacobs up the middle for 11 yards (tackle by Quentin Lake),1.21,1.93,5.0,2024,75
+1.0,7:46,1.0,10.0,GNB 45,0.0,0.0,Jordan Love pass incomplete short right intended for Tucker Kraft,1.93,1.38,5.0,2024,75
+1.0,7:41,2.0,10.0,GNB 45,0.0,0.0,Jordan Love pass complete deep left to Jayden Reed for 53 yards (tackle by Quentin Lake),1.38,6.74,5.0,2024,75
+1.0,6:52,1.0,2.0,LAR 2,6.0,0.0,"Josh Jacobs right end for 2 yards, touchdown Replay Assistant challenged the runner broke the plane ruling, and the play was upheld.",6.74,7.0,5.0,2024,75
+1.0,6:45,,,LAR 15,7.0,0.0,Brayden Narveson kicks extra point good,0.0,0.0,5.0,2024,75
+1.0,6:45,,,GNB 35,7.0,0.0,"Brayden Narveson kicks off 65 yards, touchback.",0.0,0.94,5.0,2024,75
+1.0,6:45,1.0,10.0,LAR 30,7.0,0.0,Matthew Stafford pass complete short right to Tutu Atwell for 8 yards (tackle by Javon Bullard),0.94,1.47,5.0,2024,75
+1.0,6:13,2.0,2.0,LAR 38,7.0,0.0,Matthew Stafford pass complete deep left to Tutu Atwell for 24 yards (tackle by Evan Williams),1.47,3.05,5.0,2024,75
+1.0,5:33,1.0,10.0,GNB 38,7.0,0.0,Kyren Williams right end for 30 yards (tackle by Edgerrin Cooper),3.05,5.37,5.0,2024,75
+1.0,4:52,1.0,8.0,GNB 8,7.0,0.0,Kyren Williams right tackle for 2 yards (tackle by Rashan Gary and Edgerrin Cooper),5.37,4.95,5.0,2024,75
+1.0,4:14,2.0,6.0,GNB 6,7.0,0.0,Kyren Williams up the middle for 2 yards (tackle by Isaiah McDuffie),4.95,4.49,5.0,2024,75
+1.0,3:33,3.0,4.0,GNB 4,7.0,0.0,Matthew Stafford pass incomplete short middle intended for Colby Parkinson,4.49,3.03,5.0,2024,75
+1.0,3:28,4.0,4.0,GNB 4,7.0,0.0,Matthew Stafford pass incomplete short middle intended for Colby Parkinson,3.03,0.38,5.0,2024,75
+1.0,3:24,1.0,10.0,GNB 5,7.0,0.0,Emanuel Wilson left tackle for 7 yards (tackle by Christian Rozeboom),-0.38,-0.27,5.0,2024,75
+1.0,2:51,2.0,3.0,GNB 12,7.0,0.0,Emanuel Wilson right end for 1 yard (tackle by Christian Rozeboom),-0.27,-0.48,5.0,2024,75
+1.0,2:10,3.0,2.0,GNB 13,7.0,0.0,Jordan Love pass incomplete deep middle intended for Jayden Reed,-0.48,-2.49,5.0,2024,75
+1.0,2:04,4.0,2.0,GNB 13,7.0,0.0,"Penalty on Daniel Whelan: Delay of Game, 5 yards (accepted) (no play)",-2.49,-2.49,5.0,2024,75
+1.0,2:04,4.0,7.0,GNB 8,7.0,0.0,"Daniel Whelan punts 37 yards, fair catch by Xavier Smith at LA-20. Penalty on Josh Wallace: Offensive Holding, 10 yards (accepted)",-2.49,-1.93,5.0,2024,75
+1.0,1:57,1.0,10.0,LAR 45,7.0,0.0,Blake Corum right tackle for 12 yards (tackle by Xavier McKinney and Evan Williams),1.93,2.72,5.0,2024,75
+1.0,1:19,1.0,10.0,GNB 43,7.0,0.0,"Penalty on Hunter Long: False Start, 5 yards (accepted) (no play)",2.72,2.39,5.0,2024,75
+1.0,1:19,1.0,15.0,GNB 48,7.0,0.0,Matthew Stafford pass complete short left to Tutu Atwell for 4 yards (tackle by Quay Walker),2.39,2.04,5.0,2024,75
+1.0,0:36,2.0,11.0,GNB 44,7.0,0.0,Matthew Stafford pass complete short left to Blake Corum for 8 yards (tackle by Lukas Van Ness),2.04,2.41,5.0,2024,75
+2.0,15:00,3.0,3.0,GNB 36,7.0,0.0,Kyren Williams left tackle for 2 yards (tackle by Lukas Van Ness),2.41,1.1,5.0,2024,75
+2.0,14:28,4.0,1.0,GNB 34,7.0,0.0,Kyren Williams right guard for 3 yards (tackle by Quay Walker and Javon Bullard),1.1,3.51,5.0,2024,75
+2.0,13:51,1.0,10.0,GNB 31,7.0,0.0,Kyren Williams left end for 7 yards (tackle by Keisean Nixon and Preston Smith),3.51,3.91,5.0,2024,75
+2.0,13:06,2.0,3.0,GNB 24,7.0,0.0,Matthew Stafford pass incomplete deep left intended for Demarcus Robinson (defended by Keisean Nixon),3.91,3.2,5.0,2024,75
+2.0,12:57,3.0,3.0,GNB 24,7.0,0.0,Kyren Williams right end for 8 yards (tackle by Evan Williams),3.2,4.51,5.0,2024,75
+2.0,12:16,1.0,10.0,GNB 16,7.0,0.0,Tutu Atwell right end for 7 yards (tackle by Xavier McKinney),4.51,5.16,5.0,2024,75
+2.0,11:36,2.0,3.0,GNB 9,7.0,0.0,Blake Corum right tackle for 5 yards (tackle by Quay Walker),5.16,6.28,5.0,2024,75
+2.0,10:58,1.0,4.0,GNB 4,7.0,0.0,Blake Corum left end for 3 yards (tackle by Tedarrell Slaton and Isaiah McDuffie),6.28,5.91,5.0,2024,75
+2.0,10:35,2.0,1.0,GNB 1,7.0,0.0,Blake Corum up the middle for no gain (tackle by Tedarrell Slaton),5.91,5.17,5.0,2024,75
+2.0,9:51,3.0,1.0,GNB 1,7.0,6.0,"Kyren Williams up the middle for 1 yard, touchdown",5.17,7.0,5.0,2024,75
+2.0,9:47,,,GNB 15,7.0,7.0,Joshua Karty kicks extra point good,0.0,0.0,5.0,2024,75
+2.0,9:47,,,LAR 35,7.0,7.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.94,5.0,2024,75
+2.0,9:47,1.0,10.0,GNB 30,7.0,7.0,Jordan Love pass incomplete short right intended for Dontayvion Wicks,0.94,0.39,5.0,2024,75
+2.0,9:42,2.0,10.0,GNB 30,7.0,7.0,"Josh Jacobs right end for -4 yards (tackle by Byron Young). Penalty on Malik Heath: Offensive Holding, 10 yards (declined)",0.39,-0.82,5.0,2024,75
+2.0,9:24,3.0,14.0,GNB 26,7.0,7.0,Jordan Love pass complete short left to Tucker Kraft for 5 yards (tackle by Ahkello Witherspoon),-0.82,-1.31,5.0,2024,75
+2.0,8:32,4.0,9.0,GNB 31,7.0,7.0,"Daniel Whelan punts 39 yards, fair catch by Xavier Smith at LA-30",-1.31,-0.94,5.0,2024,75
+2.0,8:26,1.0,10.0,LAR 30,7.0,7.0,Kyren Williams left guard for 7 yards (tackle by Kingsley Enagbare and Eric Wilson),0.94,1.34,5.0,2024,75
+2.0,7:53,2.0,3.0,LAR 37,7.0,7.0,Matthew Stafford pass complete short left to Jordan Whittington for 7 yards (tackle by Quay Walker),1.34,1.86,5.0,2024,75
+2.0,7:08,1.0,10.0,LAR 44,7.0,7.0,Matthew Stafford pass incomplete short left intended for Davis Allen,1.86,1.32,5.0,2024,75
+2.0,7:03,2.0,10.0,LAR 44,7.0,7.0,Matthew Stafford pass complete deep left to Demarcus Robinson for 16 yards (tackle by Keisean Nixon),1.32,2.92,5.0,2024,75
+2.0,6:22,1.0,10.0,GNB 40,7.0,7.0,Kyren Williams up the middle for 2 yards (tackle by Lukas Van Ness and Rashan Gary),2.92,2.64,5.0,2024,75
+2.0,5:44,2.0,8.0,GNB 38,7.0,7.0,Matthew Stafford pass complete short middle to Hunter Long for 7 yards (tackle by Isaiah McDuffie and Quay Walker),2.64,2.87,5.0,2024,75
+2.0,5:05,3.0,1.0,GNB 31,7.0,7.0,Kyren Williams up the middle for 2 yards (tackle by Isaiah McDuffie and Kenny Clark),2.87,3.64,5.0,2024,75
+2.0,4:29,1.0,10.0,GNB 29,7.0,7.0,Kyren Williams left end for -6 yards (tackle by Quay Walker and Evan Williams),3.64,2.29,5.0,2024,75
+2.0,3:57,2.0,16.0,GNB 35,7.0,7.0,Matthew Stafford pass incomplete short middle intended for Colby Parkinson,2.29,1.62,5.0,2024,75
+2.0,3:49,,,,,,Timeout #1 by Green Bay Packers,,,5.0,2024,75
+2.0,3:49,3.0,16.0,GNB 35,7.0,7.0,Matthew Stafford sacked by Edgerrin Cooper for -9 yards,1.62,0.33,5.0,2024,75
+2.0,3:12,4.0,25.0,GNB 44,7.0,7.0,"Ethan Evans punts 34 yards, fair catch by Jayden Reed at GB-10",0.33,0.38,5.0,2024,75
+2.0,3:06,1.0,10.0,GNB 10,7.0,7.0,Jordan Love pass complete short left to Jayden Reed for 3 yards (tackle by Josh Wallace),-0.38,-0.56,5.0,2024,75
+2.0,2:33,2.0,7.0,GNB 13,7.0,7.0,"Penalty on Dontayvion Wicks: False Start, 5 yards (accepted) (no play)",-0.56,-0.93,5.0,2024,75
+2.0,2:22,2.0,12.0,GNB 8,7.0,7.0,Jordan Love pass incomplete short left intended for Dontayvion Wicks (defended by Kamren Curl),-0.93,-1.65,5.0,2024,75
+2.0,2:12,3.0,12.0,GNB 8,7.0,13.0,"Jordan Love pass short right is intercepted by Jaylen McCollough at GB-4 and returned for 4 yards, touchdown",-1.65,-7.0,5.0,2024,75
+2.0,2:02,,,GNB 15,7.0,13.0,Joshua Karty kicks extra point blocked blocked by Colby Wooden,0.0,-1.0,5.0,2024,75
+2.0,2:02,,,LAR 35,7.0,13.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.94,5.0,2024,75
+2.0,2:02,1.0,10.0,GNB 30,7.0,13.0,Josh Jacobs up the middle for 5 yards (tackle by Christian Rozeboom and Neville Gallimore),0.94,1.07,5.0,2024,75
+2.0,1:56,2.0,5.0,GNB 35,7.0,13.0,Josh Jacobs left tackle for 1 yard (tackle by Neville Gallimore and Jared Verse),1.07,0.5,5.0,2024,75
+2.0,1:39,3.0,4.0,GNB 36,7.0,13.0,Jordan Love pass incomplete deep left intended for Tucker Kraft (no play),0.5,1.66,5.0,2024,75
+2.0,1:30,1.0,10.0,GNB 41,7.0,13.0,Jordan Love pass complete short middle to Bo Melton for 12 yards (tackle by Troy Reeder),1.66,2.46,5.0,2024,75
+2.0,1:08,1.0,10.0,LAR 47,7.0,13.0,Jordan Love pass complete short left to Malik Heath for 7 yards (tackle by Ahkello Witherspoon),2.46,2.86,5.0,2024,75
+2.0,1:02,2.0,3.0,LAR 40,7.0,13.0,Jordan Love pass complete short middle to Jayden Reed for 18 yards (tackle by Troy Reeder and Kamren Curl),2.86,4.11,5.0,2024,75
+2.0,0:38,1.0,10.0,LAR 22,7.0,13.0,Josh Jacobs up the middle for 3 yards (tackle by Jared Verse and Braden Fiske),4.11,3.97,5.0,2024,75
+2.0,0:35,,,,,,Timeout #2 by Green Bay Packers,,,5.0,2024,75
+2.0,0:35,,,,,,Timeout #1 by Los Angeles Rams,,,5.0,2024,75
+2.0,0:35,2.0,7.0,LAR 19,7.0,13.0,"Jordan Love sacked by Kobie Turner for -14 yards. Jordan Love fumbles, ball out of bounds at LA-33 (forced by Kobie Turner). Jordan Love fumbles out of bounds. Penalty on Jordan Love: Illegal Forward Pass, 5 yards (accepted)",3.97,0.76,5.0,2024,75
+2.0,0:21,3.0,26.0,LAR 38,7.0,13.0,Jordan Love pass complete short right to Dontayvion Wicks for 10 yards (tackle by Darious Williams),0.76,1.59,5.0,2024,75
+2.0,0:02,,,,,,Timeout #3 by Green Bay Packers,,,5.0,2024,75
+2.0,0:02,,,,,,Timeout #2 by Los Angeles Rams,,,5.0,2024,75
+2.0,0:02,4.0,15.0,LAR 28,10.0,13.0,Brayden Narveson 46 yard field goal good,1.59,3.0,5.0,2024,75
+3.0,15:00,,,GNB 35,10.0,13.0,"Brayden Narveson kicks off 63 yards, returned by Blake Corum for 27 yards (tackle by Arron Mosby)",0.0,0.87,5.0,2024,75
+3.0,14:54,1.0,10.0,LAR 29,10.0,13.0,Kyren Williams left end for 6 yards (tackle by Evan Williams and Preston Smith),0.87,1.14,5.0,2024,75
+3.0,14:17,2.0,4.0,LAR 35,10.0,13.0,Matthew Stafford pass complete short middle to Kyren Williams for 3 yards (tackle by Kenny Clark),1.14,0.83,5.0,2024,75
+3.0,13:34,3.0,1.0,LAR 38,10.0,13.0,Matthew Stafford pass complete short right to Jordan Whittington for 31 yards (tackle by Eric Stokes and Xavier McKinney),0.83,3.51,5.0,2024,75
+3.0,12:54,1.0,10.0,GNB 31,10.0,13.0,Kyren Williams up the middle for 4 yards (tackle by Evan Williams and Colby Wooden),3.51,3.51,5.0,2024,75
+3.0,12:15,2.0,6.0,GNB 27,10.0,13.0,"Kyren Williams up the middle for 2 yards. Kyren Williams fumbles (tackle by Lukas Van Ness), recovered by Xavier McKinney at GB-23 and returned for 7 yards (tackle by Kevin Dotson)",3.51,-0.94,5.0,2024,75
+3.0,11:58,1.0,10.0,GNB 30,10.0,13.0,Josh Jacobs right end for 4 yards (tackle by Christian Rozeboom),0.94,0.93,5.0,2024,75
+3.0,11:26,2.0,6.0,GNB 34,16.0,13.0,"Jordan Love pass complete deep left to Tucker Kraft for 66 yards, touchdown",0.93,7.0,5.0,2024,75
+3.0,11:15,,,LAR 15,17.0,13.0,Brayden Narveson kicks extra point good,0.0,0.0,5.0,2024,75
+3.0,11:15,,,GNB 35,17.0,13.0,"Brayden Narveson kicks off 59 yards, returned by Blake Corum for 21 yards (tackle by Javon Bullard)",0.0,0.74,5.0,2024,75
+3.0,11:10,1.0,10.0,LAR 27,17.0,13.0,Kyren Williams up the middle for 5 yards (tackle by Lukas Van Ness and Kingsley Enagbare),0.74,0.87,5.0,2024,75
+3.0,10:31,2.0,5.0,LAR 32,17.0,13.0,Matthew Stafford pass incomplete deep left intended for Tutu Atwell (defended by Evan Williams),0.87,0.17,5.0,2024,75
+3.0,10:24,3.0,5.0,LAR 32,17.0,13.0,Matthew Stafford pass complete short left to Colby Parkinson for 6 yards (tackle by Keisean Nixon),0.17,1.47,5.0,2024,75
+3.0,9:42,1.0,10.0,LAR 38,17.0,13.0,Kyren Williams up the middle for 3 yards (tackle by Colby Wooden and Preston Smith),1.47,1.33,5.0,2024,75
+3.0,9:02,2.0,7.0,LAR 41,17.0,13.0,Matthew Stafford pass complete short right to Xavier Smith for 11 yards (tackle by Quay Walker and Carrington Valentine),1.33,2.39,5.0,2024,75
+3.0,8:24,1.0,10.0,GNB 48,17.0,13.0,Matthew Stafford pass incomplete short middle intended for Jordan Whittington,2.39,1.85,5.0,2024,75
+3.0,8:20,2.0,10.0,GNB 48,17.0,13.0,Matthew Stafford pass incomplete deep left intended for Demarcus Robinson,1.85,1.16,5.0,2024,75
+3.0,8:15,3.0,10.0,GNB 48,17.0,13.0,Matthew Stafford pass deep left intended for Tutu Atwell is intercepted by Xavier McKinney at GB-18 and returned for 28 yards (tackle by Davis Allen),1.16,-1.99,5.0,2024,75
+3.0,8:01,1.0,10.0,GNB 46,17.0,13.0,Jayden Reed right end for 11 yards (tackle by Kamren Curl),1.99,2.72,5.0,2024,75
+3.0,7:30,1.0,10.0,LAR 43,17.0,13.0,Josh Jacobs right guard for 2 yards (tackle by Quentin Lake),2.72,2.45,5.0,2024,75
+3.0,6:53,2.0,8.0,LAR 41,17.0,13.0,Jordan Love pass complete short right to Josh Jacobs for 21 yards (tackle by Josh Wallace),2.45,4.24,5.0,2024,75
+3.0,6:08,1.0,10.0,LAR 20,17.0,13.0,Emanuel Wilson left end for 6 yards (tackle by Quentin Lake and Kamren Curl),4.24,4.64,5.0,2024,75
+3.0,5:23,2.0,4.0,LAR 14,17.0,13.0,Emanuel Wilson left guard for 5 yards (tackle by Ahkello Witherspoon and Christian Rozeboom),4.64,5.14,5.0,2024,75
+3.0,4:42,1.0,9.0,LAR 9,17.0,13.0,Josh Jacobs up the middle for 2 yards (tackle by Michael Hoecht),5.14,4.76,5.0,2024,75
+3.0,4:00,2.0,7.0,LAR 7,23.0,13.0,"Jordan Love pass complete short left to Tucker Kraft for no gain (tackle by Troy Reeder) Replay Assistant challenged the runner broke the plane ruling, and the original play was overturned. Jordan Love pass complete short left to Tucker Kraft for 7 yards, touchdown",4.76,7.0,5.0,2024,75
+3.0,3:55,,,LAR 15,24.0,13.0,Brayden Narveson kicks extra point good,0.0,0.0,5.0,2024,75
+3.0,3:55,,,GNB 35,24.0,13.0,"Brayden Narveson kicks off 63 yards, returned by Blake Corum for 26 yards (tackle by Zayne Anderson)",0.0,0.81,5.0,2024,75
+3.0,3:47,1.0,10.0,LAR 28,24.0,13.0,Matthew Stafford pass complete short middle to Colby Parkinson for 6 yards (tackle by Quay Walker and Javon Bullard),0.81,1.07,5.0,2024,75
+3.0,3:10,2.0,4.0,LAR 34,24.0,13.0,Matthew Stafford pass complete short right to Jordan Whittington for 3 yards (tackle by Evan Williams),1.07,0.76,5.0,2024,75
+3.0,2:28,3.0,1.0,LAR 37,24.0,13.0,Blake Corum up the middle for 5 yards (tackle by Evan Williams and Isaiah McDuffie),0.76,1.73,5.0,2024,75
+3.0,1:50,1.0,10.0,LAR 42,24.0,13.0,Matthew Stafford pass incomplete deep left intended for Colby Parkinson,1.73,1.19,5.0,2024,75
+3.0,1:41,2.0,10.0,LAR 42,24.0,13.0,Matthew Stafford pass complete short left to Demarcus Robinson for 11 yards (tackle by Keisean Nixon),1.19,2.46,5.0,2024,75
+3.0,1:25,1.0,10.0,GNB 47,24.0,13.0,Matthew Stafford pass complete short left to Xavier Smith for -5 yards (tackle by Keisean Nixon and Edgerrin Cooper),2.46,1.24,5.0,2024,75
+3.0,0:33,2.0,15.0,LAR 48,24.0,13.0,Matthew Stafford pass complete short right to Hunter Long for 9 yards (tackle by Eric Stokes and Javon Bullard),1.24,1.75,5.0,2024,75
+4.0,15:00,3.0,6.0,GNB 43,24.0,13.0,Matthew Stafford sacked by Karl Brooks for -8 yards,1.75,-0.13,5.0,2024,75
+4.0,14:24,4.0,14.0,LAR 49,24.0,13.0,"Ethan Evans punts 44 yards, fair catch by Jayden Reed at GB-7",-0.13,0.38,5.0,2024,75
+4.0,14:15,1.0,10.0,GNB 7,24.0,13.0,Josh Jacobs up the middle for 3 yards (tackle by Kobie Turner and Bobby Brown),-0.38,-0.56,5.0,2024,75
+4.0,13:35,2.0,7.0,GNB 10,24.0,13.0,Jordan Love pass complete short left to Dontayvion Wicks for 10 yards (tackle by Quentin Lake and Troy Reeder),-0.56,0.28,5.0,2024,75
+4.0,12:53,1.0,10.0,GNB 20,24.0,13.0,Josh Jacobs left guard for 2 yards (tackle by Kobie Turner),0.28,0.0,5.0,2024,75
+4.0,12:17,2.0,8.0,GNB 22,24.0,13.0,Jordan Love pass complete short right to Tucker Kraft for 10 yards (tackle by Troy Reeder and Michael Hoecht),0.0,1.07,5.0,2024,75
+4.0,11:29,1.0,10.0,GNB 32,24.0,13.0,"Penalty on Malik Heath: False Start, 5 yards (accepted) (no play)",1.07,0.74,5.0,2024,75
+4.0,11:29,1.0,15.0,GNB 27,24.0,13.0,Jordan Love pass incomplete short right intended for Bo Melton,0.74,-0.15,5.0,2024,75
+4.0,11:25,,,,,,Timeout #1 by Green Bay Packers,,,5.0,2024,75
+4.0,11:25,2.0,15.0,GNB 27,24.0,13.0,Josh Jacobs up the middle for 3 yards (tackle by Byron Young and Kobie Turner),-0.15,-0.43,5.0,2024,75
+4.0,10:44,3.0,12.0,GNB 30,24.0,13.0,Jordan Love scrambles right end for 12 yards (tackle by Kamren Curl),-0.43,1.73,5.0,2024,75
+4.0,10:13,1.0,10.0,GNB 42,24.0,13.0,Josh Jacobs left guard for 8 yards (tackle by Cobie Durant),1.73,2.27,5.0,2024,75
+4.0,9:36,2.0,2.0,LAR 50,24.0,13.0,Josh Jacobs right end for 4 yards (tackle by Kamren Curl),2.27,2.52,5.0,2024,75
+4.0,8:51,1.0,10.0,LAR 46,24.0,13.0,Emanuel Wilson right tackle for 4 yards (tackle by Cobie Durant and Christian Rozeboom),2.52,2.52,5.0,2024,75
+4.0,8:08,2.0,6.0,LAR 42,24.0,13.0,Emanuel Wilson up the middle for 1 yard (tackle by Tyler Davis and Braden Fiske),2.52,1.95,5.0,2024,75
+4.0,7:23,3.0,5.0,LAR 41,24.0,13.0,"Penalty on Braden Fiske: Neutral Zone Infraction, 5 yards (accepted) (no play)",1.95,3.18,5.0,2024,75
+4.0,6:55,1.0,10.0,LAR 36,24.0,13.0,"Penalty on Zach Tom: False Start, 5 yards (accepted) (no play)",3.18,2.85,5.0,2024,75
+4.0,6:55,1.0,15.0,LAR 41,24.0,13.0,Jordan Love pass incomplete short left intended for Jayden Reed,2.85,1.96,5.0,2024,75
+4.0,6:50,2.0,15.0,LAR 41,24.0,13.0,Jordan Love pass incomplete short left intended for Dontayvion Wicks,1.96,1.29,5.0,2024,75
+4.0,6:47,3.0,15.0,LAR 41,24.0,13.0,Jordan Love pass complete short left to Emanuel Wilson for -9 yards (tackle by Braden Fiske),1.29,-0.06,5.0,2024,75
+4.0,6:05,4.0,24.0,LAR 50,24.0,13.0,"Daniel Whelan punts 41 yards, fair catch by Xavier Smith at LA-9",-0.06,0.38,5.0,2024,75
+4.0,6:02,1.0,10.0,LAR 9,24.0,13.0,Matthew Stafford pass complete short right to Colby Parkinson for 9 yards (tackle by Eric Stokes and Isaiah McDuffie),-0.38,0.14,5.0,2024,75
+4.0,5:42,2.0,1.0,LAR 18,24.0,13.0,Matthew Stafford pass incomplete short right intended for Colby Parkinson,0.14,-0.37,5.0,2024,75
+4.0,5:37,3.0,1.0,LAR 18,24.0,13.0,Kyren Williams up the middle for 6 yards (tackle by Quay Walker),-0.37,0.54,5.0,2024,75
+4.0,5:20,1.0,10.0,LAR 24,24.0,13.0,"Matthew Stafford pass complete short middle to Jordan Whittington for 9 yards (tackle by Isaiah McDuffie) Penalty on GNB: Defensive Too Many Men on Field, 5 yards (declined)",0.54,1.21,5.0,2024,75
+4.0,5:00,2.0,1.0,LAR 33,24.0,13.0,Matthew Stafford pass complete deep right to Jordan Whittington for 17 yards,1.21,2.26,5.0,2024,75
+4.0,4:33,1.0,10.0,LAR 50,24.0,13.0,Matthew Stafford pass complete short middle to Jordan Whittington for 17 yards (tackle by Javon Bullard),2.26,3.38,5.0,2024,75
+4.0,4:24,1.0,10.0,GNB 33,24.0,13.0,Matthew Stafford pass complete short left to Tutu Atwell for 7 yards,3.38,3.78,5.0,2024,75
+4.0,4:19,2.0,3.0,GNB 26,24.0,13.0,Matthew Stafford pass complete short left to Tutu Atwell for 7 yards (tackle by Edgerrin Cooper),3.78,4.31,5.0,2024,75
+4.0,4:05,1.0,10.0,GNB 19,24.0,13.0,Matthew Stafford pass complete short left to Tutu Atwell for 8 yards,4.31,5.14,5.0,2024,75
+4.0,3:58,2.0,2.0,GNB 11,24.0,13.0,Kyren Williams up the middle for 5 yards (tackle by Tedarrell Slaton and Colby Wooden),5.14,5.83,5.0,2024,75
+4.0,3:36,1.0,6.0,GNB 6,24.0,13.0,"Penalty on Kevin Dotson: False Start, 5 yards (accepted) (no play)",5.83,4.77,5.0,2024,75
+4.0,3:36,1.0,11.0,GNB 11,24.0,13.0,"Matthew Stafford pass incomplete short left intended for Colby Parkinson. Penalty on Carrington Valentine: Defensive Pass Interference, 10 yards (accepted) (no play)",4.77,6.97,5.0,2024,75
+4.0,3:34,1.0,1.0,GNB 1,24.0,19.0,"Matthew Stafford pass complete short right to Demarcus Robinson for 1 yard, touchdown",6.97,7.0,5.0,2024,75
+4.0,3:30,,,,,,Timeout #2 by Green Bay Packers,,,5.0,2024,75
+4.0,3:30,,,GNB 2,24.0,19.0,"Two Point Attempt: Tutu Atwell rushes, conversion fails.",1.0,-1.0,5.0,2024,75
+4.0,3:30,,,LAR 35,24.0,19.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.94,5.0,2024,75
+4.0,3:30,1.0,10.0,GNB 30,24.0,19.0,Josh Jacobs left guard for 13 yards (tackle by Byron Young and Kamren Curl),0.94,1.8,5.0,2024,75
+4.0,3:22,,,,,,Timeout #1 by Los Angeles Rams,,,5.0,2024,75
+4.0,3:22,1.0,10.0,GNB 43,24.0,19.0,Jordan Love pass incomplete short left intended for Malik Heath (defended by Kobie Turner),1.8,1.25,5.0,2024,75
+4.0,3:20,2.0,10.0,GNB 43,24.0,19.0,Josh Jacobs right end for no gain (tackle by Kobie Turner and Byron Young),1.25,0.56,5.0,2024,75
+4.0,3:15,,,,,,Timeout #2 by Los Angeles Rams,,,5.0,2024,75
+4.0,3:15,3.0,10.0,GNB 43,24.0,19.0,Jordan Love pass incomplete deep right intended for Dontayvion Wicks (defended by Darious Williams),0.56,-0.52,5.0,2024,75
+4.0,3:10,4.0,10.0,GNB 43,24.0,19.0,Daniel Whelan punts 28 yards downed by Eric Wilson,-0.52,-0.87,5.0,2024,75
+4.0,2:57,1.0,10.0,LAR 29,24.0,19.0,Matthew Stafford pass complete short right to Colby Parkinson for 9 yards (tackle by Isaiah McDuffie and Eric Stokes),0.87,1.54,5.0,2024,75
+4.0,2:37,2.0,1.0,LAR 38,24.0,19.0,Matthew Stafford pass incomplete deep right intended for Jordan Whittington,1.54,0.83,5.0,2024,75
+4.0,2:33,3.0,1.0,LAR 38,24.0,19.0,Kyren Williams up the middle for 7 yards (tackle by Isaiah McDuffie),0.83,1.93,5.0,2024,75
+4.0,2:14,1.0,10.0,LAR 45,24.0,19.0,Matthew Stafford pass incomplete short middle intended for Jordan Whittington (defended by Evan Williams),1.93,1.38,5.0,2024,75
+4.0,2:06,2.0,10.0,LAR 45,24.0,19.0,Matthew Stafford pass incomplete short right intended for Tutu Atwell,1.38,0.7,5.0,2024,75
+4.0,2:03,3.0,10.0,LAR 45,24.0,19.0,Matthew Stafford pass complete short middle to Colby Parkinson for 9 yards (tackle by Evan Williams),0.7,0.2,5.0,2024,75
+4.0,1:57,4.0,1.0,GNB 46,24.0,19.0,Kyren Williams up the middle for 3 yards (tackle by Evan Williams and Eric Stokes),0.2,2.72,5.0,2024,75
+4.0,1:33,1.0,10.0,GNB 43,24.0,19.0,"Matthew Stafford pass incomplete short left intended for Jordan Whittington Replay Assistant challenged the pass completion ruling, and the original play was overturned. Matthew Stafford pass complete short left to Jordan Whittington for 5 yards (tackle by Eric Stokes)",2.72,2.85,5.0,2024,75
+4.0,1:21,2.0,5.0,GNB 38,24.0,19.0,Matthew Stafford sacked by and Karl Brooks for -7 yards and Preston Smith for -7 yards,2.85,1.22,5.0,2024,75
+4.0,1:11,,,,,,Timeout #3 by Los Angeles Rams,,,5.0,2024,75
+4.0,1:11,3.0,12.0,GNB 45,24.0,19.0,Matthew Stafford pass complete short right to Colby Parkinson for 7 yards (tackle by Eric Stokes),1.22,0.72,5.0,2024,75
+4.0,1:05,4.0,5.0,GNB 38,24.0,19.0,Matthew Stafford pass incomplete short left intended for Colby Parkinson,0.72,-1.47,5.0,2024,75
+4.0,1:02,1.0,10.0,GNB 38,24.0,19.0,Jordan Love kneels for -1 yards,1.47,0.79,5.0,2024,75
+4.0,0:26,2.0,11.0,GNB 37,24.0,19.0,Jordan Love kneels for -1 yards,0.79,-0.03,5.0,2024,75

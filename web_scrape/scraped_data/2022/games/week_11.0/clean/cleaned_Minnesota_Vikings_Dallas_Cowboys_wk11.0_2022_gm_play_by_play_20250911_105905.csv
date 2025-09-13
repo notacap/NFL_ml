@@ -1,0 +1,171 @@
+Quarter,Time,Down,ToGo,Location,DAL,MIN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Vikings won the coin toss, Vikings to receive the opening kickoff.",,,11.0,2022,162
+1.0,15:00,,,DAL 35,0.0,0.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,11.0,2022,162
+1.0,15:00,1.0,10.0,MIN 25,0.0,0.0,Dalvin Cook up the middle for 4 yards (tackle by Micah Parsons),0.61,0.6,11.0,2022,162
+1.0,14:34,2.0,6.0,MIN 29,0.0,0.0,Dalvin Cook left guard for 3 yards (tackle by Osa Odighizuwa),0.6,0.3,11.0,2022,162
+1.0,13:52,3.0,3.0,MIN 32,0.0,0.0,"Kirk Cousins sacked by Micah Parsons for -5 yards. Kirk Cousins fumbles (forced by Micah Parsons), recovered by Dorance Armstrong at MIN-27",0.3,-3.78,11.0,2022,162
+1.0,13:44,1.0,10.0,MIN 27,0.0,0.0,Ezekiel Elliott left guard for 4 yards (tackle by Jordan Hicks),3.78,3.77,11.0,2022,162
+1.0,13:05,2.0,6.0,MIN 23,0.0,0.0,Dak Prescott pass complete short middle to Ezekiel Elliott for 5 yards (tackle by Eric Kendricks),3.77,3.84,11.0,2022,162
+1.0,12:24,3.0,1.0,MIN 18,0.0,0.0,Ezekiel Elliott up the middle for 2 yards (tackle by Jonathan Bullard),3.84,4.51,11.0,2022,162
+1.0,11:48,1.0,10.0,MIN 16,0.0,0.0,Ezekiel Elliott right tackle for 7 yards (tackle by Camryn Bynum),4.51,5.16,11.0,2022,162
+1.0,11:12,2.0,3.0,MIN 9,0.0,0.0,Dak Prescott pass complete short middle to Tony Pollard for no gain (tackle by Harrison Phillips),5.16,4.39,11.0,2022,162
+1.0,10:29,3.0,3.0,MIN 9,0.0,0.0,Dak Prescott pass incomplete short left intended for Dalton Schultz,4.39,2.99,11.0,2022,162
+1.0,10:25,4.0,2.0,MIN 8,3.0,0.0,Brett Maher 27 yard field goal good,2.99,3.0,11.0,2022,162
+1.0,10:22,,,DAL 35,3.0,0.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,11.0,2022,162
+1.0,10:22,1.0,10.0,MIN 25,3.0,0.0,"Kirk Cousins pass incomplete short middle intended for T.J. Hockenson. Penalty on Kelvin Joseph: Defensive Pass Interference, 9 yards (accepted) (no play)",0.61,1.2,11.0,2022,162
+1.0,10:18,1.0,10.0,MIN 34,3.0,0.0,Dalvin Cook right end for 2 yards (tackle by Kelvin Joseph),1.2,0.93,11.0,2022,162
+1.0,9:44,2.0,8.0,MIN 36,3.0,0.0,Kirk Cousins pass complete short middle to Justin Jefferson for 14 yards (tackle by Leighton Vander Esch),0.93,2.26,11.0,2022,162
+1.0,9:04,1.0,10.0,MIN 50,3.0,0.0,"Dalvin Cook right end for 17 yards (tackle by Donovan Wilson). Penalty on Carlos Watkins: Defensive Holding, 5 yards (accepted)",2.26,3.71,11.0,2022,162
+1.0,8:49,1.0,10.0,DAL 28,3.0,0.0,Kirk Cousins pass incomplete deep right intended for Justin Jefferson,3.71,3.17,11.0,2022,162
+1.0,8:44,2.0,10.0,DAL 28,3.0,0.0,Kirk Cousins pass complete short right to Justin Jefferson for 4 yards (tackle by Trevon Diggs),3.17,3.01,11.0,2022,162
+1.0,8:08,3.0,6.0,DAL 24,3.0,0.0,Kirk Cousins pass complete short left to Adam Thielen for 10 yards (tackle by DaRon Bland),3.01,4.65,11.0,2022,162
+1.0,7:34,1.0,10.0,DAL 14,3.0,0.0,Dalvin Cook right end for 8 yards (tackle by DeMarcus Lawrence and Jayron Kearse),4.65,5.47,11.0,2022,162
+1.0,6:50,2.0,2.0,DAL 6,3.0,0.0,Kirk Cousins pass incomplete short left intended for T.J. Hockenson,5.47,4.73,11.0,2022,162
+1.0,6:45,3.0,2.0,DAL 6,3.0,0.0,Kirk Cousins pass incomplete short right intended for T.J. Hockenson,4.73,3.01,11.0,2022,162
+1.0,6:42,4.0,2.0,DAL 6,3.0,3.0,Greg Joseph 25 yard field goal good,3.01,3.0,11.0,2022,162
+1.0,6:39,,,MIN 35,3.0,3.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.61,11.0,2022,162
+1.0,6:39,1.0,10.0,DAL 25,3.0,3.0,Dak Prescott pass complete short middle to Dalton Schultz for 3 yards (tackle by Eric Kendricks),0.61,0.47,11.0,2022,162
+1.0,6:06,2.0,7.0,DAL 28,3.0,3.0,Tony Pollard left tackle for 4 yards (tackle by Danielle Hunter),0.47,0.3,11.0,2022,162
+1.0,5:43,3.0,3.0,DAL 32,3.0,3.0,Dak Prescott pass complete short left to Michael Gallup for 14 yards (tackle by Andrew Booth and Harrison Smith),0.3,1.99,11.0,2022,162
+1.0,5:16,1.0,10.0,DAL 46,3.0,3.0,Tony Pollard left guard for 18 yards (tackle by Harrison Smith),1.99,3.18,11.0,2022,162
+1.0,4:43,1.0,10.0,MIN 36,3.0,3.0,Tony Pollard right tackle for 20 yards (tackle by Camryn Bynum),3.18,4.51,11.0,2022,162
+1.0,3:59,1.0,10.0,MIN 16,3.0,3.0,Dak Prescott pass complete short left to Michael Gallup for 8 yards (tackle by Camryn Bynum),4.51,5.35,11.0,2022,162
+1.0,3:23,2.0,2.0,MIN 8,3.0,3.0,Dak Prescott pass complete short left to CeeDee Lamb for 6 yards (tackle by Danielle Hunter and Camryn Bynum),5.35,6.74,11.0,2022,162
+1.0,2:41,1.0,2.0,MIN 2,3.0,3.0,Tony Pollard up the middle for 1 yard (tackle by Khyiris Tonga),6.74,5.91,11.0,2022,162
+1.0,2:08,2.0,1.0,MIN 1,3.0,3.0,Tony Pollard right guard for no gain (tackle by D.J. Wonnum and Khyiris Tonga),5.91,5.17,11.0,2022,162
+1.0,1:31,3.0,1.0,MIN 1,9.0,3.0,"Ezekiel Elliott left guard for 1 yard, touchdown",5.17,7.0,11.0,2022,162
+1.0,1:26,,,MIN 15,10.0,3.0,Brett Maher kicks extra point good,0.0,0.0,11.0,2022,162
+1.0,1:26,,,DAL 35,10.0,3.0,"Brett Maher kicks off 69 yards, returned by Kene Nwangwu for 25 yards (tackle by Jabril Cox)",0.0,0.34,11.0,2022,162
+1.0,1:22,1.0,10.0,MIN 21,10.0,3.0,Dalvin Cook left end for 4 yards (tackle by Dorance Armstrong),0.34,0.34,11.0,2022,162
+1.0,0:51,2.0,6.0,MIN 25,10.0,3.0,Kirk Cousins pass complete short left to Adam Thielen for 15 yards (tackle by Anthony Brown),0.34,1.6,11.0,2022,162
+1.0,0:11,1.0,10.0,MIN 40,10.0,3.0,Dalvin Cook right guard for 3 yards (tackle by Leighton Vander Esch),1.6,1.46,11.0,2022,162
+2.0,15:00,2.0,7.0,MIN 43,10.0,3.0,Dalvin Cook left guard for 4 yards (tackle by Micah Parsons),1.46,1.29,11.0,2022,162
+2.0,14:20,3.0,3.0,MIN 47,10.0,3.0,Kirk Cousins sacked by Dorance Armstrong for -6 yards,1.29,-0.65,11.0,2022,162
+2.0,13:36,4.0,9.0,MIN 41,10.0,3.0,"Ryan Wright punts 46 yards, returned by KaVontae Turpin for 4 yards (tackle by Patrick Jones)",-0.65,0.06,11.0,2022,162
+2.0,13:25,1.0,10.0,DAL 17,10.0,3.0,Dak Prescott scrambles left end for 1 yard (tackle by Harrison Phillips),-0.06,-0.42,11.0,2022,162
+2.0,12:35,2.0,9.0,DAL 18,10.0,3.0,Dak Prescott pass complete short left to Noah Brown for 7 yards (tackle by Andrew Booth),-0.42,-0.24,11.0,2022,162
+2.0,12:06,3.0,2.0,DAL 25,10.0,3.0,Tony Pollard right guard for 5 yards (tackle by Harrison Phillips),-0.24,0.94,11.0,2022,162
+2.0,11:32,1.0,10.0,DAL 30,10.0,3.0,Ezekiel Elliott left guard for 8 yards (tackle by Harrison Phillips and D.J. Wonnum),0.94,1.47,11.0,2022,162
+2.0,10:53,2.0,2.0,DAL 38,10.0,3.0,Ezekiel Elliott right tackle for 1 yard (tackle by Jonathan Bullard),1.47,0.89,11.0,2022,162
+2.0,10:21,3.0,1.0,DAL 39,10.0,3.0,Ezekiel Elliott left guard for 2 yards (tackle by Khyiris Tonga),0.89,1.66,11.0,2022,162
+2.0,9:42,1.0,10.0,DAL 41,10.0,3.0,"Dak Prescott pass complete short right to Dalton Schultz for 12 yards (tackle by Harrison Smith). Penalty on Andrew Booth: Illegal Contact, 5 yards (declined)",1.66,2.46,11.0,2022,162
+2.0,9:14,1.0,10.0,MIN 47,10.0,3.0,Tony Pollard right end for 1 yard (tackle by Danielle Hunter),2.46,2.05,11.0,2022,162
+2.0,8:40,2.0,9.0,MIN 46,10.0,3.0,Tony Pollard right end for 3 yards (tackle by Danielle Hunter),2.05,1.75,11.0,2022,162
+2.0,7:52,3.0,6.0,MIN 43,10.0,3.0,Dak Prescott left end for 11 yards (tackle by Andrew Booth),1.75,3.45,11.0,2022,162
+2.0,7:12,1.0,10.0,MIN 32,10.0,3.0,"Dak Prescott pass complete short right to CeeDee Lamb for no gain (tackle by Eric Kendricks). Penalty on CeeDee Lamb: Illegal Shift, 5 yards (accepted) (no play)",3.45,3.12,11.0,2022,162
+2.0,6:47,1.0,15.0,MIN 37,10.0,3.0,Tony Pollard up the middle for -2 yards (tackle by Patrick Jones),3.12,1.96,11.0,2022,162
+2.0,6:11,2.0,17.0,MIN 39,10.0,3.0,Ezekiel Elliott left guard for 4 yards (tackle by Za'Darius Smith and Harrison Smith),1.96,1.82,11.0,2022,162
+2.0,5:41,3.0,13.0,MIN 35,10.0,3.0,Dak Prescott pass incomplete short left intended for Michael Gallup,1.82,1.06,11.0,2022,162
+2.0,5:36,4.0,12.0,MIN 34,13.0,3.0,Brett Maher 53 yard field goal good,1.06,3.0,11.0,2022,162
+2.0,5:31,,,DAL 35,13.0,3.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,11.0,2022,162
+2.0,5:31,1.0,10.0,MIN 25,13.0,3.0,Kirk Cousins pass incomplete deep left intended for T.J. Hockenson (defended by Anthony Brown),0.61,0.06,11.0,2022,162
+2.0,5:22,2.0,10.0,MIN 25,13.0,3.0,Alexander Mattison right guard for 3 yards (tackle by Damone Clark and Carlos Watkins),0.06,-0.23,11.0,2022,162
+2.0,4:39,3.0,7.0,MIN 28,13.0,3.0,Kirk Cousins pass incomplete short left,-0.23,-1.5,11.0,2022,162
+2.0,4:34,4.0,7.0,MIN 28,13.0,3.0,"Ryan Wright punts 31 yards, fair catch by KaVontae Turpin at DAL-41",-1.5,-1.66,11.0,2022,162
+2.0,4:27,1.0,10.0,DAL 41,13.0,3.0,Dak Prescott scrambles right end for 4 yards (tackle by Patrick Peterson),1.66,1.66,11.0,2022,162
+2.0,3:50,2.0,6.0,DAL 45,13.0,3.0,Dak Prescott pass complete short right to Jake Ferguson for 4 yards (tackle by Jordan Hicks),1.66,1.49,11.0,2022,162
+2.0,3:17,3.0,2.0,DAL 49,13.0,3.0,Tony Pollard left tackle for 7 yards (tackle by Harrison Smith),1.49,2.65,11.0,2022,162
+2.0,2:47,1.0,10.0,MIN 44,13.0,3.0,Dak Prescott pass complete short middle to CeeDee Lamb for 8 yards (tackle by Camryn Bynum),2.65,3.19,11.0,2022,162
+2.0,2:09,2.0,2.0,MIN 36,13.0,3.0,Ezekiel Elliott left guard for 1 yard (tackle by James Lynch),3.19,2.61,11.0,2022,162
+2.0,2:00,3.0,1.0,MIN 35,13.0,3.0,Ezekiel Elliott right guard for 2 yards (tackle by Jordan Hicks and Camryn Bynum),2.61,3.38,11.0,2022,162
+2.0,1:56,,,,,,Timeout #1 by Minnesota Vikings,,,11.0,2022,162
+2.0,1:56,1.0,10.0,MIN 33,13.0,3.0,Ezekiel Elliott left tackle for 3 yards (tackle by Harrison Phillips),3.38,3.24,11.0,2022,162
+2.0,1:52,,,,,,Timeout #2 by Minnesota Vikings,,,11.0,2022,162
+2.0,1:52,2.0,7.0,MIN 30,19.0,3.0,"Dak Prescott pass complete short right to Tony Pollard for 30 yards, touchdown",3.24,7.0,11.0,2022,162
+2.0,1:43,,,MIN 15,20.0,3.0,Brett Maher kicks extra point good,0.0,0.0,11.0,2022,162
+2.0,1:43,,,DAL 35,20.0,3.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,11.0,2022,162
+2.0,1:43,1.0,10.0,MIN 25,20.0,3.0,Kirk Cousins pass incomplete short left intended for Dalvin Cook (defended by Jayron Kearse),0.61,0.06,11.0,2022,162
+2.0,1:36,2.0,10.0,MIN 25,20.0,3.0,Kirk Cousins pass complete short left to Justin Jefferson for 15 yards,0.06,1.6,11.0,2022,162
+2.0,1:32,1.0,10.0,MIN 40,20.0,3.0,Kirk Cousins pass complete short right to T.J. Hockenson for 6 yards (tackle by Jayron Kearse),1.6,1.86,11.0,2022,162
+2.0,1:08,2.0,4.0,MIN 46,20.0,3.0,Kirk Cousins pass complete short left to K.J. Osborn for 5 yards (tackle by DaRon Bland),1.86,2.32,11.0,2022,162
+2.0,1:05,1.0,10.0,DAL 49,20.0,3.0,"Penalty on Blake Brandel: False Start, 5 yards (accepted) (no play)",2.32,1.99,11.0,2022,162
+2.0,1:05,1.0,15.0,MIN 46,20.0,3.0,Kirk Cousins sacked by Micah Parsons for -8 yards,1.99,-0.11,11.0,2022,162
+2.0,0:52,,,,,,Timeout #3 by Minnesota Vikings,,,11.0,2022,162
+2.0,0:52,2.0,24.0,MIN 37,20.0,3.0,Kirk Cousins pass incomplete short left,-0.11,-0.63,11.0,2022,162
+2.0,0:46,3.0,23.0,MIN 38,20.0,3.0,Kirk Cousins pass incomplete short right intended for T.J. Hockenson,-0.63,-0.85,11.0,2022,162
+2.0,0:41,4.0,23.0,MIN 38,20.0,3.0,"Ryan Wright punts 58 yards, returned by KaVontae Turpin for 10 yards (tackle by D.J. Wonnum)",-0.85,0.28,11.0,2022,162
+2.0,0:31,1.0,10.0,DAL 14,20.0,3.0,Dak Prescott pass complete short left to CeeDee Lamb for 6 yards (tackle by Andrew Booth),-0.28,0.15,11.0,2022,162
+2.0,0:26,,,,,,Timeout #1 by Dallas Cowboys,,,11.0,2022,162
+2.0,0:26,2.0,4.0,DAL 20,20.0,3.0,Dak Prescott pass complete short right to Tony Pollard for 4 yards (tackle by Patrick Peterson),0.15,0.54,11.0,2022,162
+2.0,0:20,1.0,10.0,DAL 24,20.0,3.0,Dak Prescott pass complete short left to Dalton Schultz for 7 yards (tackle by Andrew Booth),0.54,0.94,11.0,2022,162
+2.0,0:13,2.0,3.0,DAL 31,20.0,3.0,"Dak Prescott pass complete deep right to CeeDee Lamb for 27 yards Replay Assistant challenged the pass completion ruling, and the play was upheld.",0.94,2.79,11.0,2022,162
+2.0,0:05,,,,,,Timeout #2 by Dallas Cowboys,,,11.0,2022,162
+2.0,0:05,1.0,10.0,MIN 42,23.0,3.0,Brett Maher 60 yard field goal good,2.79,3.0,11.0,2022,162
+3.0,15:00,,,MIN 35,23.0,3.0,"Greg Joseph kicks off 65 yards, touchback.",0.0,0.61,11.0,2022,162
+3.0,15:00,1.0,10.0,DAL 25,23.0,3.0,Ezekiel Elliott left end for 1 yard (tackle by Andrew Booth),0.61,0.2,11.0,2022,162
+3.0,14:33,2.0,9.0,DAL 26,23.0,3.0,Dak Prescott pass complete short right to Tony Pollard for 10 yards (tackle by Chandon Sullivan),0.2,1.33,11.0,2022,162
+3.0,14:03,1.0,10.0,DAL 36,23.0,3.0,Tony Pollard left tackle for -1 yards (tackle by Harrison Smith),1.33,0.66,11.0,2022,162
+3.0,13:26,2.0,11.0,DAL 35,23.0,3.0,Dak Prescott pass complete short right to Tony Pollard for -3 yards (tackle by Patrick Peterson),0.66,-0.43,11.0,2022,162
+3.0,12:43,3.0,14.0,DAL 32,29.0,3.0,"Dak Prescott pass complete deep right to Tony Pollard for 68 yards, touchdown",-0.43,7.0,11.0,2022,162
+3.0,12:32,,,MIN 15,30.0,3.0,Brett Maher kicks extra point good,0.0,0.0,11.0,2022,162
+3.0,12:32,,,DAL 35,30.0,3.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,11.0,2022,162
+3.0,12:32,1.0,10.0,MIN 25,30.0,3.0,Kirk Cousins sacked by DeMarcus Lawrence for -7 yards,0.61,-0.98,11.0,2022,162
+3.0,11:49,2.0,17.0,MIN 18,30.0,3.0,"Kirk Cousins pass complete short right to Dalvin Cook for no gain (tackle by Jayron Kearse and Leighton Vander Esch). Penalty on T.J. Hockenson: Offensive Pass Interference, 9 yards (accepted) (no play)",-0.98,-1.95,11.0,2022,162
+3.0,11:26,2.0,26.0,MIN 9,30.0,3.0,Kirk Cousins pass complete short left to T.J. Hockenson for 7 yards (tackle by Damone Clark),-1.95,-2.14,11.0,2022,162
+3.0,11:01,3.0,19.0,MIN 16,30.0,3.0,Kirk Cousins sacked by Dante Fowler for -10 yards,-2.14,-2.49,11.0,2022,162
+3.0,10:22,4.0,29.0,MIN 6,30.0,3.0,"Ryan Wright punts 55 yards, returned by KaVontae Turpin for 20 yards (tackle by Andrew DePaola)",-2.49,-2.85,11.0,2022,162
+3.0,10:09,1.0,10.0,MIN 41,30.0,3.0,Ezekiel Elliott right end for 3 yards (tackle by D.J. Wonnum and Jordan Hicks),2.85,2.71,11.0,2022,162
+3.0,9:34,2.0,7.0,MIN 38,30.0,3.0,Ezekiel Elliott left tackle for 2 yards (tackle by Jordan Hicks),2.71,2.28,11.0,2022,162
+3.0,8:51,3.0,5.0,MIN 36,30.0,3.0,"Dak Prescott pass complete deep left to Noah Brown for 35 yards (tackle by Andrew Booth) MIN challenged the pass completion ruling, and the play was upheld.",2.28,6.97,11.0,2022,162
+3.0,8:23,1.0,1.0,MIN 1,30.0,3.0,Dak Prescott pass incomplete short right intended for Dalton Schultz,6.97,5.91,11.0,2022,162
+3.0,8:18,2.0,1.0,MIN 1,36.0,3.0,"Ezekiel Elliott left guard for 1 yard, touchdown",5.91,7.0,11.0,2022,162
+3.0,8:15,,,MIN 15,37.0,3.0,Brett Maher kicks extra point good,0.0,0.0,11.0,2022,162
+3.0,8:15,,,DAL 35,37.0,3.0,"Brett Maher kicks off 67 yards, returned by Kene Nwangwu for 23 yards (tackle by C.J. Goodwin and Luke Gifford)",0.0,0.34,11.0,2022,162
+3.0,8:10,1.0,10.0,MIN 21,37.0,3.0,Dalvin Cook right end for 5 yards (tackle by Trevon Diggs),0.34,0.48,11.0,2022,162
+3.0,7:50,2.0,5.0,MIN 26,37.0,3.0,Kirk Cousins pass complete short middle to Johnny Mundt for 8 yards (tackle by Donovan Wilson). Penalty on Jayron Kearse: Defensive Holding (declined),0.48,1.27,11.0,2022,162
+3.0,7:35,1.0,10.0,MIN 35,37.0,3.0,Dalvin Cook right end for 11 yards (tackle by Anthony Brown),1.27,1.93,11.0,2022,162
+3.0,7:35,1.0,10.0,MIN 45,37.0,3.0,"Penalty on Dalvin Cook: Taunting / Offense, 15 yards (accepted) (no play)",1.93,0.94,11.0,2022,162
+3.0,7:22,1.0,10.0,MIN 30,37.0,3.0,Kirk Cousins sacked by Jayron Kearse for -10 yards,0.94,-0.96,11.0,2022,162
+3.0,6:57,2.0,20.0,MIN 20,37.0,3.0,Kirk Cousins pass incomplete short left intended for Justin Jefferson (defended by Trevon Diggs),-0.96,-1.62,11.0,2022,162
+3.0,6:51,3.0,20.0,MIN 20,37.0,3.0,"Penalty on MIN: Delay of Game, 5 yards (accepted) (no play)",-1.62,-2.84,11.0,2022,162
+3.0,6:51,3.0,25.0,MIN 15,37.0,3.0,Kirk Cousins pass complete short left to T.J. Hockenson for 10 yards (tackle by Trevon Diggs),-2.84,-1.7,11.0,2022,162
+3.0,6:19,4.0,15.0,MIN 25,37.0,3.0,"Ryan Wright punts 57 yards. Penalty on Kris Boyd: Unnecessary Roughness / Defense, 15 yards (accepted)",-1.7,-1.2,11.0,2022,162
+3.0,6:11,1.0,10.0,DAL 34,37.0,3.0,Tony Pollard left tackle for 2 yards (tackle by Patrick Jones),1.2,0.93,11.0,2022,162
+3.0,5:31,2.0,8.0,DAL 36,37.0,3.0,Tony Pollard up the middle for 4 yards (tackle by Jonathan Bullard and Brian Asamoah),0.93,0.76,11.0,2022,162
+3.0,4:49,3.0,4.0,DAL 40,37.0,3.0,Dak Prescott pass complete short right to CeeDee Lamb for -2 yards (tackle by Patrick Peterson),0.76,-0.85,11.0,2022,162
+3.0,4:11,4.0,6.0,DAL 38,37.0,3.0,"Bryan Anger punts 48 yards, returned by Jalen Reagor for 3 yards. Jalen Reagor fumbles (forced by Luke Gifford), recovered by Theo Jackson at MIN-17",-0.85,0.06,11.0,2022,162
+3.0,3:55,1.0,10.0,MIN 17,37.0,3.0,Dalvin Cook left end for 11 yards (tackle by Dante Fowler),-0.06,0.81,11.0,2022,162
+3.0,3:27,1.0,10.0,MIN 28,37.0,3.0,Kirk Cousins pass complete short right to T.J. Hockenson for 11 yards (tackle by Damone Clark),0.81,1.53,11.0,2022,162
+3.0,3:00,1.0,10.0,MIN 39,37.0,3.0,Kirk Cousins pass incomplete short right intended for Adam Thielen (defended by Anthony Brown),1.53,0.99,11.0,2022,162
+3.0,2:58,2.0,10.0,MIN 39,37.0,3.0,"Kirk Cousins pass incomplete short left intended for Alexander Mattison. Penalty on Sam Williams: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",0.99,1.86,11.0,2022,162
+3.0,2:53,1.0,10.0,MIN 44,37.0,3.0,Kirk Cousins pass incomplete deep left intended for K.J. Osborn,1.86,1.32,11.0,2022,162
+3.0,2:48,2.0,10.0,MIN 44,37.0,3.0,Kirk Cousins pass complete short left to T.J. Hockenson for no gain (tackle by Jayron Kearse and Neville Gallimore),1.32,0.63,11.0,2022,162
+3.0,2:23,3.0,10.0,MIN 44,37.0,3.0,"Penalty on Austin Schlottmann: False Start, 5 yards (accepted) (no play)",0.63,-0.03,11.0,2022,162
+3.0,1:57,3.0,15.0,MIN 39,37.0,3.0,"Penalty on Brian O'Neill: False Start, 5 yards (accepted) (no play)",-0.03,-0.69,11.0,2022,162
+3.0,1:38,3.0,20.0,MIN 34,37.0,3.0,Kirk Cousins sacked by Dorance Armstrong for -3 yards,-0.69,-1.31,11.0,2022,162
+3.0,1:16,4.0,23.0,MIN 31,37.0,3.0,"Ryan Wright punts 45 yards, fair catch by KaVontae Turpin at DAL-24",-1.31,-0.54,11.0,2022,162
+3.0,1:09,1.0,10.0,DAL 24,37.0,3.0,"Tony Pollard left tackle for no gain (tackle by Khyiris Tonga and Eric Kendricks). Penalty on Tyler Biadasz: Offensive Holding, 10 yards (accepted) (no play)",0.54,-0.5,11.0,2022,162
+3.0,0:40,1.0,20.0,DAL 14,37.0,3.0,Dak Prescott pass complete short left to Michael Gallup for 19 yards (tackle by Patrick Peterson),-0.5,1.21,11.0,2022,162
+4.0,15:00,2.0,1.0,DAL 33,37.0,3.0,Tony Pollard right tackle for 17 yards (tackle by Camryn Bynum),1.21,2.26,11.0,2022,162
+4.0,14:20,1.0,10.0,DAL 50,37.0,3.0,Tony Pollard left tackle for 1 yard (tackle by Harrison Phillips),2.26,1.85,11.0,2022,162
+4.0,13:39,2.0,9.0,MIN 49,37.0,3.0,Dak Prescott pass complete short right to Malik Davis for 8 yards (tackle by Chandon Sullivan),1.85,2.21,11.0,2022,162
+4.0,12:52,,,,,,Timeout #1 by Dallas Cowboys,,,11.0,2022,162
+4.0,12:52,3.0,1.0,MIN 41,37.0,3.0,Malik Davis up the middle for 9 yards (tackle by Harrison Smith),2.21,3.45,11.0,2022,162
+4.0,12:14,1.0,10.0,MIN 32,37.0,3.0,Malik Davis left tackle for -2 yards (tackle by Jonathan Bullard),3.45,2.63,11.0,2022,162
+4.0,11:33,2.0,12.0,MIN 34,37.0,3.0,Malik Davis left guard for -2 yards (tackle by Harrison Phillips and Jordan Hicks),2.63,1.69,11.0,2022,162
+4.0,10:50,3.0,14.0,MIN 36,37.0,3.0,Malik Davis left guard for 4 yards (tackle by Patrick Jones and Jordan Hicks),1.69,1.24,11.0,2022,162
+4.0,10:09,4.0,10.0,MIN 32,40.0,3.0,Brett Maher 50 yard field goal good,1.24,3.0,11.0,2022,162
+4.0,10:04,,,DAL 35,40.0,3.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,11.0,2022,162
+4.0,10:04,1.0,10.0,MIN 25,40.0,3.0,Alexander Mattison right tackle for -3 yards (tackle by Sam Williams),0.61,-0.34,11.0,2022,162
+4.0,9:38,2.0,13.0,MIN 22,40.0,3.0,Nick Mullens pass complete short middle to Jalen Reagor for 14 yards (tackle by Leighton Vander Esch),-0.34,1.33,11.0,2022,162
+4.0,9:09,1.0,10.0,MIN 36,40.0,3.0,Nick Mullens pass complete short right to Alexander Mattison for 8 yards (tackle by Jayron Kearse),1.33,1.87,11.0,2022,162
+4.0,8:31,2.0,2.0,MIN 44,40.0,3.0,Nick Mullens pass incomplete short right intended for Jalen Nailor,1.87,1.16,11.0,2022,162
+4.0,8:26,3.0,2.0,MIN 44,40.0,3.0,Nick Mullens pass incomplete short left intended for Jalen Nailor,1.16,-0.46,11.0,2022,162
+4.0,8:23,4.0,2.0,MIN 44,40.0,3.0,"Ryan Wright punts 46 yards, fair catch by KaVontae Turpin at DAL-10",-0.46,0.38,11.0,2022,162
+4.0,8:16,1.0,10.0,DAL 10,40.0,3.0,Malik Davis right guard for 1 yard (tackle by D.J. Wonnum),-0.38,-0.71,11.0,2022,162
+4.0,7:42,2.0,9.0,DAL 11,40.0,3.0,Cooper Rush pass complete short right to Jake Ferguson for 11 yards (tackle by Camryn Bynum),-0.71,0.41,11.0,2022,162
+4.0,7:01,1.0,10.0,DAL 22,40.0,3.0,Malik Davis right tackle for 4 yards (tackle by Troy Dye and Patrick Jones),0.41,0.41,11.0,2022,162
+4.0,6:22,2.0,6.0,DAL 26,40.0,3.0,Cooper Rush pass complete short right to Peyton Hendershot for -2 yards (tackle by Josh Metellus),0.41,-0.56,11.0,2022,162
+4.0,5:44,3.0,8.0,DAL 24,40.0,3.0,Cooper Rush pass complete short left to Malik Davis for 14 yards (tackle by Andrew Booth),-0.56,1.47,11.0,2022,162
+4.0,4:59,1.0,10.0,DAL 38,40.0,3.0,Cooper Rush pass complete short left to Jalen Tolbert for 8 yards (tackle by Andrew Booth),1.47,2.0,11.0,2022,162
+4.0,4:19,2.0,2.0,DAL 46,40.0,3.0,Malik Davis right end for -1 yards (tackle by Khyiris Tonga),2.0,1.16,11.0,2022,162
+4.0,3:39,3.0,3.0,DAL 45,40.0,3.0,Cooper Rush pass incomplete short middle intended for Malik Davis (defended by Khyiris Tonga),1.16,-0.39,11.0,2022,162
+4.0,3:34,4.0,3.0,DAL 45,40.0,3.0,Bryan Anger punts 53 yards downed by Matt Overton,-0.39,0.38,11.0,2022,162
+4.0,3:19,1.0,10.0,MIN 2,40.0,3.0,"Penalty on Neville Gallimore: Neutral Zone Infraction, 5 yards (accepted) (no play)",-0.38,-0.19,11.0,2022,162
+4.0,3:19,1.0,5.0,MIN 7,40.0,3.0,Kene Nwangwu right guard for -3 yards (tackle by Sam Williams),-0.19,-0.63,11.0,2022,162
+4.0,2:47,2.0,8.0,MIN 4,40.0,3.0,Nick Mullens pass complete short left to K.J. Osborn for 12 yards (tackle by Neville Gallimore and Israel Mukuamu),-0.63,-0.14,11.0,2022,162
+4.0,2:18,1.0,10.0,MIN 16,40.0,3.0,Kene Nwangwu left end for no gain (tackle by Neville Gallimore),-0.14,-0.66,11.0,2022,162
+4.0,2:00,2.0,10.0,MIN 16,40.0,3.0,Nick Mullens pass complete short right to Jalen Nailor for 15 yards (tackle by Anthony Brown),-0.66,1.0,11.0,2022,162
+4.0,1:33,1.0,10.0,MIN 31,40.0,3.0,Kene Nwangwu up the middle for 4 yards (tackle by Chauncey Golston),1.0,1.0,11.0,2022,162
+4.0,1:05,2.0,6.0,MIN 35,40.0,3.0,Nick Mullens pass complete short middle to Kene Nwangwu for 5 yards (tackle by Jabril Cox),1.0,0.96,11.0,2022,162
+4.0,0:41,3.0,1.0,MIN 40,40.0,3.0,Kene Nwangwu left tackle for no gain (tackle by Sam Williams and Jabril Cox),0.96,-0.72,11.0,2022,162

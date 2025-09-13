@@ -1,0 +1,169 @@
+Quarter,Time,Down,ToGo,Location,TAM,DAL,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Buccaneers won the coin toss and deferred, Cowboys to receive the opening kickoff.",,,1.0,2022,15
+1.0,15:00,,,TAM 35,0.0,0.0,"Jake Camarda kicks off 65 yards, returned by KaVontae Turpin for 14 yards (tackle by K.J. Britt)",0.0,-0.28,1.0,2022,15
+1.0,14:56,1.0,10.0,DAL 14,0.0,0.0,Dak Prescott pass complete short left to Dalton Schultz for 7 yards (tackle by Jamel Dean),-0.28,0.28,1.0,2022,15
+1.0,14:19,2.0,3.0,DAL 21,0.0,0.0,Ezekiel Elliott up the middle for 7 yards (tackle by Lavonte David),0.28,0.81,1.0,2022,15
+1.0,13:48,1.0,10.0,DAL 28,0.0,0.0,Tony Pollard up the middle for -8 yards (tackle by Shaquil Barrett),0.81,-0.82,1.0,2022,15
+1.0,13:09,2.0,18.0,DAL 20,0.0,0.0,Dak Prescott pass complete short right to Dennis Houston for 11 yards (tackle by Devin White),-0.82,-0.03,1.0,2022,15
+1.0,12:35,3.0,7.0,DAL 31,0.0,0.0,Dak Prescott pass complete deep middle to CeeDee Lamb for 16 yards (tackle by Logan Ryan),-0.03,2.06,1.0,2022,15
+1.0,12:13,1.0,10.0,DAL 47,0.0,0.0,Ezekiel Elliott right end for 6 yards (tackle by Devin White and Logan Ryan),2.06,2.33,1.0,2022,15
+1.0,11:38,2.0,4.0,TAM 47,0.0,0.0,Ezekiel Elliott right tackle for 5 yards (tackle by Akiem Hicks and Anthony Nelson),2.33,2.79,1.0,2022,15
+1.0,11:07,1.0,10.0,TAM 42,0.0,0.0,Dak Prescott pass incomplete short middle intended for CeeDee Lamb (defended by Carlton Davis),2.79,2.24,1.0,2022,15
+1.0,11:07,2.0,10.0,TAM 42,0.0,0.0,Ezekiel Elliott right tackle for 2 yards (tackle by Lavonte David),2.24,1.82,1.0,2022,15
+1.0,10:26,3.0,8.0,TAM 40,0.0,0.0,Dak Prescott pass complete short left to Noah Brown for 9 yards (tackle by Antoine Winfield and Lavonte David),1.82,3.51,1.0,2022,15
+1.0,9:49,1.0,10.0,TAM 31,0.0,0.0,Tony Pollard right end for -1 yards (tackle by Logan Hall),3.51,2.83,1.0,2022,15
+1.0,9:13,2.0,11.0,TAM 32,0.0,0.0,Dak Prescott pass incomplete short left intended for CeeDee Lamb,2.83,2.15,1.0,2022,15
+1.0,9:10,3.0,11.0,TAM 32,0.0,0.0,Dak Prescott pass incomplete short right intended for Dalton Schultz,2.15,1.24,1.0,2022,15
+1.0,9:06,4.0,11.0,TAM 32,0.0,3.0,Brett Maher 51 yard field goal good,1.24,3.0,1.0,2022,15
+1.0,9:02,,,DAL 35,0.0,3.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,15
+1.0,9:02,1.0,10.0,TAM 25,0.0,3.0,"Penalty on Cameron Brate: False Start, 5 yards (accepted) (no play)",0.61,0.28,1.0,2022,15
+1.0,9:02,1.0,15.0,TAM 20,0.0,3.0,Tom Brady pass complete short left to Chris Godwin for 24 yards (tackle by Donovan Wilson),0.28,1.86,1.0,2022,15
+1.0,8:33,1.0,10.0,TAM 44,0.0,3.0,Leonard Fournette left tackle for 2 yards (tackle by Dorance Armstrong and Jayron Kearse),1.86,1.59,1.0,2022,15
+1.0,7:58,2.0,8.0,TAM 46,0.0,3.0,Tom Brady pass complete deep right to Mike Evans for 20 yards (tackle by Jayron Kearse and Anthony Brown),1.59,3.31,1.0,2022,15
+1.0,7:17,1.0,10.0,DAL 34,0.0,3.0,Leonard Fournette left end for 7 yards (tackle by Jayron Kearse),3.31,3.72,1.0,2022,15
+1.0,6:37,2.0,3.0,DAL 27,0.0,3.0,Leonard Fournette left tackle for 2 yards (tackle by Neville Gallimore and Jayron Kearse),3.72,3.27,1.0,2022,15
+1.0,5:55,3.0,1.0,DAL 25,0.0,3.0,Leonard Fournette right tackle for -1 yards (tackle by DeMarcus Lawrence and Leighton Vander Esch),3.27,1.86,1.0,2022,15
+1.0,5:09,4.0,2.0,DAL 26,3.0,3.0,Ryan Succop 44 yard field goal good,1.86,3.0,1.0,2022,15
+1.0,5:05,,,TAM 35,3.0,3.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,15
+1.0,5:05,1.0,10.0,DAL 25,3.0,3.0,Ezekiel Elliott right tackle for 7 yards (tackle by Joe Tryon-Shoyinka),0.61,1.01,1.0,2022,15
+1.0,4:28,2.0,3.0,DAL 32,3.0,3.0,"Penalty on Terence Steele: False Start, 5 yards (accepted) (no play)",1.01,0.33,1.0,2022,15
+1.0,4:13,2.0,8.0,DAL 27,3.0,3.0,Dak Prescott pass incomplete short left intended for CeeDee Lamb (defended by Lavonte David),0.33,-0.36,1.0,2022,15
+1.0,4:07,3.0,8.0,DAL 27,3.0,3.0,Dak Prescott pass incomplete short left intended for Dalton Schultz,-0.36,-1.57,1.0,2022,15
+1.0,4:03,4.0,8.0,DAL 27,3.0,3.0,"Bryan Anger punts 52 yards, returned by Jaelon Darden for 10 yards (tackle by Tony Pollard)",-1.57,-1.0,1.0,2022,15
+1.0,3:53,1.0,10.0,TAM 31,3.0,3.0,Tom Brady pass complete deep left to Mike Evans for 19 yards (tackle by Trevon Diggs),1.0,2.26,1.0,2022,15
+1.0,3:20,1.0,10.0,TAM 50,3.0,3.0,Tom Brady pass complete short right to Julio Jones for 8 yards (tackle by Donovan Wilson and Anthony Brown),2.26,2.79,1.0,2022,15
+1.0,2:47,2.0,2.0,DAL 42,3.0,3.0,Leonard Fournette left end for 17 yards (tackle by Micah Parsons),2.79,3.91,1.0,2022,15
+1.0,2:00,1.0,10.0,DAL 25,3.0,3.0,Tom Brady pass incomplete deep middle intended for Mike Evans,3.91,3.36,1.0,2022,15
+1.0,1:56,2.0,10.0,DAL 25,3.0,3.0,Leonard Fournette left guard for 5 yards (tackle by Leighton Vander Esch),3.36,3.34,1.0,2022,15
+1.0,1:13,3.0,5.0,DAL 20,3.0,3.0,Tom Brady pass incomplete short right intended for Julio Jones,3.34,2.17,1.0,2022,15
+1.0,1:10,4.0,5.0,DAL 20,6.0,3.0,Ryan Succop 38 yard field goal good,2.17,3.0,1.0,2022,15
+1.0,1:06,,,TAM 35,6.0,3.0,"Jake Camarda kicks off 67 yards, returned by KaVontae Turpin for 22 yards (tackle by Cade Otton). Penalty on Rico Dowdle: Defensive Holding, 10 yards (accepted)",0.0,-0.38,1.0,2022,15
+1.0,1:01,1.0,10.0,DAL 10,6.0,3.0,Tony Pollard right guard for 1 yard (tackle by Akiem Hicks and Rakeem Nunez-Roches),-0.38,-0.71,1.0,2022,15
+1.0,0:25,2.0,9.0,DAL 11,6.0,3.0,Dak Prescott pass complete short right to Dalton Schultz for 5 yards (tackle by Carlton Davis),-0.71,-0.72,1.0,2022,15
+2.0,15:00,3.0,4.0,DAL 16,6.0,3.0,Dak Prescott pass incomplete short middle intended for CeeDee Lamb,-0.72,-2.39,1.0,2022,15
+2.0,14:55,4.0,4.0,DAL 16,6.0,3.0,"Bryan Anger punts 54 yards, returned by Jaelon Darden for 9 yards (tackle by C.J. Goodwin)",-2.39,-1.53,1.0,2022,15
+2.0,14:45,1.0,10.0,TAM 39,6.0,3.0,Leonard Fournette up the middle for 6 yards (tackle by Anthony Barr),1.53,1.8,1.0,2022,15
+2.0,14:10,2.0,4.0,TAM 45,6.0,3.0,Leonard Fournette up the middle for 3 yards (tackle by DeMarcus Lawrence and Jayron Kearse),1.8,1.49,1.0,2022,15
+2.0,13:30,3.0,1.0,TAM 48,6.0,3.0,Julio Jones right end for 5 yards (tackle by Jayron Kearse),1.49,2.46,1.0,2022,15
+2.0,12:46,1.0,10.0,DAL 47,6.0,3.0,Leonard Fournette left guard for 3 yards (tackle by Jourdan Lewis),2.46,2.32,1.0,2022,15
+2.0,12:09,2.0,7.0,DAL 44,6.0,3.0,Tom Brady pass complete short left to Julio Jones for 13 yards (tackle by Jourdan Lewis),2.32,3.51,1.0,2022,15
+2.0,11:32,1.0,10.0,DAL 31,6.0,3.0,Leonard Fournette left guard for -1 yards (tackle by Osa Odighizuwa),3.51,2.83,1.0,2022,15
+2.0,10:51,2.0,11.0,DAL 32,6.0,3.0,Tom Brady pass complete short left to Leonard Fournette for 9 yards (tackle by Trevon Diggs),2.83,3.34,1.0,2022,15
+2.0,10:05,3.0,2.0,DAL 23,6.0,3.0,Leonard Fournette left end for 10 yards (tackle by Leighton Vander Esch),3.34,4.71,1.0,2022,15
+2.0,9:29,1.0,10.0,DAL 13,6.0,3.0,Rachaad White left guard for -1 yards (tackle by Trysten Hill and Quinton Bohanna),4.71,3.9,1.0,2022,15
+2.0,8:53,2.0,11.0,DAL 14,6.0,3.0,Tom Brady pass complete short middle to Chris Godwin for 6 yards (tackle by Jourdan Lewis and Anthony Barr),3.9,4.1,1.0,2022,15
+2.0,8:05,3.0,5.0,DAL 8,6.0,3.0,Tom Brady sacked by Micah Parsons for -10 yards,4.1,2.25,1.0,2022,15
+2.0,7:34,4.0,15.0,DAL 18,6.0,3.0,Ryan Succop 36 yard field goal no good,2.25,-0.67,1.0,2022,15
+2.0,7:31,1.0,10.0,DAL 26,6.0,3.0,"Dak Prescott pass complete short right to CeeDee Lamb for no gain (tackle by Antoine Winfield). Penalty on CeeDee Lamb: Offensive Pass Interference, 10 yards (accepted) (no play)",0.67,-0.3,1.0,2022,15
+2.0,7:12,1.0,20.0,DAL 16,6.0,3.0,Ezekiel Elliott left guard for 5 yards (tackle by Logan Ryan),-0.3,-0.55,1.0,2022,15
+2.0,6:43,2.0,15.0,DAL 21,6.0,3.0,Dak Prescott pass complete short left to Dennis Houston for 5 yards (tackle by Jamel Dean),-0.55,-0.56,1.0,2022,15
+2.0,6:17,3.0,10.0,DAL 26,6.0,3.0,Dak Prescott pass short right intended for Noah Brown is intercepted by Antoine Winfield at DAL-38 and returned for 15 yards (tackle by Tyler Biadasz),-0.56,-4.04,1.0,2022,15
+2.0,6:06,1.0,10.0,DAL 23,6.0,3.0,Julio Jones right end for 12 yards (tackle by Malik Hooker),4.04,4.84,1.0,2022,15
+2.0,5:36,1.0,10.0,DAL 11,6.0,3.0,Leonard Fournette right end for 6 yards (tackle by Anthony Brown and Malik Hooker),4.84,5.28,1.0,2022,15
+2.0,4:53,2.0,4.0,DAL 5,6.0,3.0,Leonard Fournette left guard for 1 yard (tackle by Osa Odighizuwa and Anthony Barr),5.28,4.67,1.0,2022,15
+2.0,4:13,3.0,3.0,DAL 4,6.0,3.0,Tom Brady sacked by Micah Parsons for -7 yards,4.67,2.7,1.0,2022,15
+2.0,3:28,4.0,10.0,DAL 11,9.0,3.0,Ryan Succop 29 yard field goal good,2.7,3.0,1.0,2022,15
+2.0,3:25,,,TAM 35,9.0,3.0,"Jake Camarda kicks off 62 yards, returned by KaVontae Turpin for 21 yards (tackle by Cade Otton)",0.0,0.54,1.0,2022,15
+2.0,3:20,1.0,10.0,DAL 24,9.0,3.0,"Penalty on Tyler Smith: False Start, 5 yards (accepted) (no play)",0.54,0.13,1.0,2022,15
+2.0,3:20,1.0,15.0,DAL 19,9.0,3.0,Tony Pollard right tackle for 6 yards (tackle by Carlton Davis and William Gholston),0.13,0.13,1.0,2022,15
+2.0,2:48,2.0,9.0,DAL 25,9.0,3.0,Dak Prescott left end for 12 yards (tackle by Mike Edwards),0.13,1.4,1.0,2022,15
+2.0,2:10,1.0,10.0,DAL 37,9.0,3.0,Dak Prescott pass incomplete short right intended for Noah Brown,1.4,0.86,1.0,2022,15
+2.0,2:05,2.0,10.0,DAL 37,9.0,3.0,Dak Prescott pass incomplete short middle intended for CeeDee Lamb (defended by Jamel Dean),0.86,0.17,1.0,2022,15
+2.0,2:01,3.0,10.0,DAL 37,9.0,3.0,Dak Prescott pass incomplete short middle intended for CeeDee Lamb,0.17,-0.91,1.0,2022,15
+2.0,1:56,4.0,10.0,DAL 37,9.0,3.0,Bryan Anger punts 53 yards downed by Devin Harper,-0.91,0.38,1.0,2022,15
+2.0,1:46,1.0,10.0,TAM 10,9.0,3.0,Tom Brady pass complete short right to Chris Godwin for 5 yards (tackle by Anthony Brown),-0.38,-0.35,1.0,2022,15
+2.0,1:41,2.0,5.0,TAM 15,9.0,3.0,Tom Brady pass complete short middle to Leonard Fournette for 1 yard (tackle by Leighton Vander Esch),-0.35,-0.72,1.0,2022,15
+2.0,1:14,3.0,4.0,TAM 16,9.0,3.0,Tom Brady pass complete short middle to Cameron Brate for 7 yards (tackle by Leighton Vander Esch),-0.72,0.48,1.0,2022,15
+2.0,1:00,1.0,10.0,TAM 23,9.0,3.0,Tom Brady pass complete deep right to Julio Jones for 48 yards (tackle by Anthony Brown),0.48,3.64,1.0,2022,15
+2.0,0:33,1.0,10.0,DAL 29,9.0,3.0,Tom Brady pass incomplete deep left intended for Breshad Perriman (defended by Trevon Diggs),3.64,3.1,1.0,2022,15
+2.0,0:28,2.0,10.0,DAL 29,9.0,3.0,Tom Brady pass incomplete short left intended for Cameron Brate,3.1,2.41,1.0,2022,15
+2.0,0:25,3.0,10.0,DAL 29,9.0,3.0,Tom Brady pass incomplete deep left intended for Breshad Perriman,2.41,1.5,1.0,2022,15
+2.0,0:19,,,,,,Timeout #1 by Dallas Cowboys,,,1.0,2022,15
+2.0,0:19,4.0,10.0,DAL 29,12.0,3.0,Ryan Succop 47 yard field goal good,1.5,3.0,1.0,2022,15
+2.0,0:14,,,TAM 35,12.0,3.0,"Jake Camarda kicks off 70 yards, returned by KaVontae Turpin for 20 yards (tackle by Keanu Neal and Cade Otton)",0.0,-0.22,1.0,2022,15
+2.0,0:08,1.0,10.0,DAL 15,12.0,3.0,Dak Prescott kneels for -1 yards,-0.22,-0.82,1.0,2022,15
+3.0,15:00,,,DAL 35,12.0,3.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,15
+3.0,15:00,1.0,10.0,TAM 25,12.0,3.0,Leonard Fournette left tackle for 10 yards (tackle by Donovan Wilson),0.61,1.27,1.0,2022,15
+3.0,14:21,1.0,10.0,TAM 35,12.0,3.0,Leonard Fournette right guard for 2 yards (tackle by Quinton Bohanna and DeMarcus Lawrence),1.27,0.99,1.0,2022,15
+3.0,13:43,2.0,8.0,TAM 37,12.0,3.0,Tom Brady pass complete short right to Rachaad White for no gain (tackle by Dorance Armstrong and Leighton Vander Esch),0.99,0.3,1.0,2022,15
+3.0,12:58,3.0,8.0,TAM 37,12.0,3.0,"Penalty on Luke Goedeke: False Start, 5 yards (accepted) (no play)",0.3,-0.36,1.0,2022,15
+3.0,12:38,3.0,13.0,TAM 32,12.0,3.0,Tom Brady pass incomplete deep left intended for Breshad Perriman (defended by Trevon Diggs),-0.36,-1.24,1.0,2022,15
+3.0,12:30,4.0,13.0,TAM 32,12.0,3.0,"Jake Camarda punts 43 yards, returned by KaVontae Turpin for 5 yards (tackle by Dee Delaney). Penalty on Tarell Basham: Running Into the Kicker, 5 yards (accepted) (no play)",-1.24,-0.91,1.0,2022,15
+3.0,12:19,4.0,8.0,TAM 37,12.0,3.0,"Jake Camarda punts 63 yards, touchback.",-0.91,-0.28,1.0,2022,15
+3.0,12:11,1.0,10.0,DAL 20,12.0,3.0,Ezekiel Elliott left tackle for 6 yards (tackle by Devin White),0.28,0.54,1.0,2022,15
+3.0,11:34,2.0,4.0,DAL 26,12.0,3.0,Ezekiel Elliott right end for 7 yards (tackle by Carlton Davis),0.54,1.14,1.0,2022,15
+3.0,10:56,1.0,10.0,DAL 33,12.0,3.0,"Dak Prescott pass complete short right to Tony Pollard for no gain (tackle by Joe Tryon-Shoyinka). Penalty on Tyler Biadasz: Ineligible Downfield Pass, 5 yards (accepted) (no play)",1.14,0.81,1.0,2022,15
+3.0,10:26,1.0,15.0,DAL 28,12.0,3.0,Ezekiel Elliott left tackle for 5 yards (tackle by Antoine Winfield),0.81,0.59,1.0,2022,15
+3.0,9:41,2.0,10.0,DAL 33,12.0,3.0,Dak Prescott pass complete short right to Tony Pollard for 4 yards (tackle by Antoine Winfield),0.59,0.43,1.0,2022,15
+3.0,9:01,3.0,6.0,DAL 37,12.0,3.0,Dak Prescott sacked by Devin White for -7 yards,0.43,-1.37,1.0,2022,15
+3.0,8:15,4.0,13.0,DAL 30,12.0,3.0,"Bryan Anger punts 58 yards, returned by Jaelon Darden for 9 yards (tackle by Luke Gifford)",-1.37,-0.34,1.0,2022,15
+3.0,8:07,1.0,10.0,TAM 21,12.0,3.0,Leonard Fournette left end for 11 yards (tackle by Dorance Armstrong),0.34,1.07,1.0,2022,15
+3.0,7:32,1.0,10.0,TAM 32,12.0,3.0,Leonard Fournette left end for 9 yards (tackle by Jayron Kearse),1.07,1.74,1.0,2022,15
+3.0,6:53,2.0,1.0,TAM 41,12.0,3.0,Leonard Fournette left guard for 17 yards (tackle by Donovan Wilson),1.74,2.79,1.0,2022,15
+3.0,6:14,1.0,10.0,DAL 42,12.0,3.0,Tom Brady pass incomplete deep left intended for Julio Jones,2.79,2.24,1.0,2022,15
+3.0,6:07,2.0,10.0,DAL 42,12.0,3.0,Tom Brady pass complete short middle to Rachaad White for 7 yards (tackle by Leighton Vander Esch and Dorance Armstrong),2.24,2.48,1.0,2022,15
+3.0,5:19,3.0,3.0,DAL 35,12.0,3.0,Tom Brady pass complete short right to Mike Evans for 10 yards (tackle by Anthony Brown),2.48,3.91,1.0,2022,15
+3.0,4:36,1.0,10.0,DAL 25,12.0,3.0,Leonard Fournette left end for 3 yards (tackle by Leighton Vander Esch),3.91,3.77,1.0,2022,15
+3.0,4:06,2.0,7.0,DAL 22,12.0,3.0,Tom Brady pass complete short middle to Mike Evans for 17 yards (tackle by Anthony Brown),3.77,6.06,1.0,2022,15
+3.0,3:27,1.0,5.0,DAL 5,18.0,3.0,"Tom Brady pass complete short left to Mike Evans for 5 yards, touchdown",6.06,7.0,1.0,2022,15
+3.0,3:23,,,DAL 15,19.0,3.0,Ryan Succop kicks extra point good,0.0,0.0,1.0,2022,15
+3.0,3:23,,,TAM 35,19.0,3.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,15
+3.0,3:23,1.0,10.0,DAL 25,19.0,3.0,Dak Prescott pass incomplete short right intended for Noah Brown,0.61,0.06,1.0,2022,15
+3.0,3:18,2.0,10.0,DAL 25,19.0,3.0,Dak Prescott sacked by Anthony Nelson for -6 yards,0.06,-1.51,1.0,2022,15
+3.0,2:34,3.0,16.0,DAL 19,19.0,3.0,"Dak Prescott pass incomplete deep right intended for Dennis Houston. Penalty on Anthony Nelson: Defensive Offside, 5 yards (accepted) (no play)",-1.51,-0.76,1.0,2022,15
+3.0,2:34,3.0,11.0,DAL 24,19.0,3.0,Dak Prescott pass complete short right to Dalton Schultz for 14 yards (tackle by Devin White),-0.76,1.47,1.0,2022,15
+3.0,2:03,1.0,10.0,DAL 38,19.0,3.0,Dak Prescott pass complete short right to Dalton Schultz for 5 yards (tackle by Lavonte David and Carlton Davis),1.47,1.6,1.0,2022,15
+3.0,1:27,2.0,5.0,DAL 43,19.0,3.0,"Penalty on Terence Steele: False Start, 5 yards (accepted) (no play)",1.6,0.92,1.0,2022,15
+3.0,1:06,2.0,10.0,DAL 38,19.0,3.0,Dak Prescott pass complete short middle to CeeDee Lamb for 13 yards (tackle by Antoine Winfield),0.92,2.32,1.0,2022,15
+3.0,0:31,1.0,10.0,TAM 49,19.0,3.0,"Penalty on Terence Steele: False Start, 5 yards (accepted) (no play)",2.32,1.99,1.0,2022,15
+3.0,0:19,1.0,15.0,DAL 46,19.0,3.0,Tony Pollard up the middle for 9 yards (tackle by Devin White),1.99,2.32,1.0,2022,15
+4.0,15:00,2.0,6.0,TAM 45,19.0,3.0,"Tony Pollard up the middle for 7 yards (tackle by Joe Tryon-Shoyinka). Penalty on Terence Steele: Offensive Holding, 10 yards (accepted) (no play)",2.32,0.97,1.0,2022,15
+4.0,14:43,2.0,16.0,DAL 45,19.0,3.0,Dak Prescott pass complete short left to Dalton Schultz for 13 yards (tackle by Mike Edwards),0.97,2.02,1.0,2022,15
+4.0,14:08,3.0,3.0,TAM 42,19.0,3.0,Tony Pollard right guard for 1 yard (tackle by Shaquil Barrett),2.02,0.53,1.0,2022,15
+4.0,13:34,4.0,2.0,TAM 41,19.0,3.0,Dak Prescott pass incomplete short right intended for Dennis Houston (defended by Devin White),0.53,-1.66,1.0,2022,15
+4.0,13:31,1.0,10.0,TAM 41,19.0,3.0,Leonard Fournette up the middle for 1 yard (tackle by Trysten Hill),1.66,1.26,1.0,2022,15
+4.0,12:45,2.0,9.0,TAM 42,19.0,3.0,Tom Brady pass complete short right to Russell Gage for 6 yards (tackle by Jourdan Lewis),1.26,1.36,1.0,2022,15
+4.0,12:06,3.0,3.0,TAM 48,19.0,3.0,Tom Brady pass short middle intended for Mike Evans is intercepted by Donovan Wilson at DAL-48 and returned for no gain (tackle by Mike Evans),1.36,-2.13,1.0,2022,15
+4.0,12:01,1.0,10.0,DAL 48,19.0,3.0,Ezekiel Elliott right end for 2 yards (tackle by Carlton Davis),2.13,1.85,1.0,2022,15
+4.0,11:32,2.0,8.0,DAL 50,19.0,3.0,Dak Prescott pass incomplete deep right intended for Dennis Houston,1.85,1.16,1.0,2022,15
+4.0,11:26,3.0,8.0,DAL 50,19.0,3.0,Dak Prescott pass incomplete short right intended for Noah Brown,1.16,-0.06,1.0,2022,15
+4.0,11:20,4.0,8.0,DAL 50,19.0,3.0,"Bryan Anger punts 37 yards, fair catch by Jaelon Darden at TB-13",-0.06,0.32,1.0,2022,15
+4.0,11:12,1.0,10.0,TAM 13,19.0,3.0,Leonard Fournette left end for 14 yards (tackle by Trevon Diggs),-0.32,0.74,1.0,2022,15
+4.0,10:31,1.0,10.0,TAM 27,19.0,3.0,Tom Brady pass complete short right to Russell Gage for 7 yards (tackle by Jourdan Lewis),0.74,1.14,1.0,2022,15
+4.0,9:56,2.0,3.0,TAM 34,19.0,3.0,Rachaad White up the middle for 1 yard (tackle by Donovan Wilson),1.14,0.56,1.0,2022,15
+4.0,9:08,,,,,,Timeout #1 by Tampa Bay Buccaneers,,,1.0,2022,15
+4.0,9:08,3.0,2.0,TAM 35,19.0,3.0,Rachaad White right end for 3 yards (tackle by Micah Parsons),0.56,1.47,1.0,2022,15
+4.0,8:38,1.0,10.0,TAM 38,19.0,3.0,Rachaad White right end for 5 yards (tackle by Osa Odighizuwa),1.47,1.6,1.0,2022,15
+4.0,7:59,2.0,5.0,TAM 43,19.0,3.0,Jaelon Darden left end for 2 yards (tackle by Leighton Vander Esch),1.6,1.16,1.0,2022,15
+4.0,7:12,3.0,3.0,TAM 45,19.0,3.0,Tom Brady pass incomplete short left intended for Cameron Brate,1.16,-0.39,1.0,2022,15
+4.0,7:12,4.0,3.0,TAM 45,19.0,3.0,"Penalty on Dee Delaney: False Start, 5 yards (accepted) (no play)",-0.39,-0.72,1.0,2022,15
+4.0,7:06,4.0,8.0,TAM 40,19.0,3.0,"Jake Camarda punts 46 yards, fair catch by KaVontae Turpin at DAL-14",-0.72,0.28,1.0,2022,15
+4.0,7:00,1.0,10.0,DAL 14,19.0,3.0,Dak Prescott pass complete short left to Noah Brown for 22 yards (tackle by Antoine Winfield),-0.28,1.33,1.0,2022,15
+4.0,6:34,1.0,10.0,DAL 36,19.0,3.0,Dak Prescott pass incomplete short left intended for CeeDee Lamb,1.33,0.79,1.0,2022,15
+4.0,6:30,2.0,10.0,DAL 36,19.0,3.0,Dak Prescott pass complete short middle to Noah Brown for 13 yards (tackle by Mike Edwards),0.79,2.19,1.0,2022,15
+4.0,6:02,1.0,10.0,DAL 49,19.0,3.0,Dak Prescott pass complete short left to Ezekiel Elliott for -3 yards (tackle by Lavonte David),2.19,1.24,1.0,2022,15
+4.0,5:31,2.0,13.0,DAL 46,19.0,3.0,Cooper Rush pass complete short left to Noah Brown for 7 yards (tackle by Jamel Dean),1.24,1.49,1.0,2022,15
+4.0,5:03,3.0,6.0,TAM 47,19.0,3.0,Cooper Rush pass incomplete short right intended for CeeDee Lamb,1.49,0.13,1.0,2022,15
+4.0,5:01,4.0,6.0,TAM 47,19.0,3.0,"Cooper Rush sacked by Shaquil Barrett for no gain. Penalty on Shaquil Barrett: Defensive Offside, 5 yards (accepted) (no play)",0.13,0.46,1.0,2022,15
+4.0,4:57,4.0,1.0,TAM 42,19.0,3.0,Cooper Rush pass complete short left to Dalton Schultz for 5 yards (tackle by Jamel Dean and Lavonte David),0.46,3.12,1.0,2022,15
+4.0,4:32,1.0,10.0,TAM 37,19.0,3.0,Cooper Rush pass incomplete deep right intended for Dennis Houston,3.12,2.57,1.0,2022,15
+4.0,4:29,2.0,10.0,TAM 37,19.0,3.0,Cooper Rush pass complete short right to Simi Fehoko for 5 yards (tackle by Logan Ryan),2.57,2.54,1.0,2022,15
+4.0,4:03,3.0,5.0,TAM 32,19.0,3.0,Cooper Rush sacked by Devin White for -10 yards,2.54,0.46,1.0,2022,15
+4.0,3:21,4.0,15.0,TAM 42,19.0,3.0,Cooper Rush pass incomplete deep right intended for Simi Fehoko (defended by Mike Edwards),0.46,-1.73,1.0,2022,15
+4.0,3:14,1.0,10.0,TAM 42,19.0,3.0,Rachaad White right tackle for 4 yards (tackle by Malik Hooker),1.73,1.73,1.0,2022,15
+4.0,3:08,,,,,,Timeout #1 by Dallas Cowboys,,,1.0,2022,15
+4.0,3:08,2.0,6.0,TAM 46,19.0,3.0,Rachaad White left guard for 2 yards (tackle by DeMarcus Lawrence and Micah Parsons),1.73,1.29,1.0,2022,15
+4.0,3:04,,,,,,Timeout #2 by Dallas Cowboys,,,1.0,2022,15
+4.0,3:04,3.0,4.0,TAM 48,19.0,3.0,Breshad Perriman right end for -7 yards (tackle by Osa Odighizuwa),1.29,-0.65,1.0,2022,15
+4.0,2:59,,,,,,Timeout #3 by Dallas Cowboys,,,1.0,2022,15
+4.0,2:59,4.0,11.0,TAM 41,19.0,3.0,"Jake Camarda punts 43 yards, returned by KaVontae Turpin for 3 yards (tackle by K.J. Britt)",-0.65,-0.15,1.0,2022,15
+4.0,2:47,1.0,10.0,DAL 19,19.0,3.0,Cooper Rush pass incomplete short right intended for Ezekiel Elliott,0.15,-0.39,1.0,2022,15
+4.0,2:42,2.0,10.0,DAL 19,19.0,3.0,Cooper Rush pass complete short left to Simi Fehoko for 7 yards (tackle by Antoine Winfield),-0.39,-0.16,1.0,2022,15
+4.0,2:19,3.0,3.0,DAL 26,19.0,3.0,Cooper Rush pass incomplete deep left intended for CeeDee Lamb,-0.16,-1.63,1.0,2022,15
+4.0,2:13,4.0,3.0,DAL 26,19.0,3.0,Cooper Rush pass complete deep middle to Noah Brown for 17 yards (tackle by Mike Edwards and Logan Ryan),-1.63,1.8,1.0,2022,15
+4.0,2:00,1.0,10.0,DAL 43,19.0,3.0,"Cooper Rush pass incomplete short right. Penalty on Cooper Rush: Intentional Grounding, 13 yards (accepted)",1.8,-0.5,1.0,2022,15
+4.0,1:44,2.0,23.0,DAL 30,19.0,3.0,Cooper Rush sacked by Vita Vea for -2 yards,-0.5,-1.42,1.0,2022,15
+4.0,1:18,3.0,25.0,DAL 28,19.0,3.0,Cooper Rush pass complete short middle to Dalton Schultz for 13 yards (tackle by Mike Edwards),-1.42,-0.65,1.0,2022,15
+4.0,0:56,4.0,12.0,DAL 41,19.0,3.0,Cooper Rush pass complete short middle to Tony Pollard for 10 yards (tackle by Devin White),-0.65,-2.26,1.0,2022,15
+4.0,0:49,1.0,10.0,DAL 50,19.0,3.0,Tom Brady kneels for no gain,2.26,1.71,1.0,2022,15
+4.0,0:33,2.0,10.0,TAM 50,19.0,3.0,Tom Brady kneels for -1 yards,1.71,0.89,1.0,2022,15

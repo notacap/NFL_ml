@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,9:42,CAR 25,3,2:05,6,Punt,0,Panthers,9.0,2022,129
+2,1,6:37,CAR 26,3,1:10,2,Punt,0,Panthers,9.0,2022,129
+3,2,14:37,CAR 25,3,1:59,2,Punt,0,Panthers,9.0,2022,129
+4,2,7:29,CAR 21,2,0:53,4,Interception,0,Panthers,9.0,2022,129
+5,2,3:45,CAR 25,4,1:43,15,Punt,0,Panthers,9.0,2022,129
+6,2,1:31,CAR 11,2,0:22,3,Interception,0,Panthers,9.0,2022,129
+8,3,15:00,CIN 37,8,4:08,37,Touchdown,0,Panthers,9.0,2022,129
+9,3,4:38,CAR 25,3,0:56,6,Punt,0,Panthers,9.0,2022,129
+10,4,12:48,CAR 14,10,5:01,86,Touchdown,0,Panthers,9.0,2022,129
+11,4,3:47,CAR 38,10,2:18,62,Touchdown,0,Panthers,9.0,2022,129

@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,TAM 30,7,3:46,70,Touchdown,0,Buccaneers,15.0,2024,221
+2,1,6:18,TAM 30,12,7:37,67,Field Goal,0,Buccaneers,15.0,2024,221
+3,2,8:47,TAM 30,1,0:08,0,Interception,0,Buccaneers,15.0,2024,221
+4,2,7:12,TAM 35,3,1:36,10,Fumble,0,Buccaneers,15.0,2024,221
+5,2,3:37,TAM 20,12,3:04,61,Field Goal,0,Buccaneers,15.0,2024,221
+6,3,13:17,TAM 17,5,2:54,83,Touchdown,0,Buccaneers,15.0,2024,221
+7,3,7:53,TAM 30,5,2:47,46,Field Goal,0,Buccaneers,15.0,2024,221
+8,3,4:34,LAC 42,4,2:58,42,Touchdown,0,Buccaneers,15.0,2024,221
+9,4,13:38,TAM 34,9,6:01,66,Touchdown,0,Buccaneers,15.0,2024,221
+10,4,6:11,TAM 45,9,3:20,30,Field Goal,0,Buccaneers,15.0,2024,221
+11,4,2:37,LAC 37,4,2:37,11,End of Game,0,Buccaneers,15.0,2024,221

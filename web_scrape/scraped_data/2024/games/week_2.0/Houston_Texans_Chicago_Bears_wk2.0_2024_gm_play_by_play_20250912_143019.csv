@@ -1,0 +1,178 @@
+Quarter,Time,Down,ToGo,Location,CHI,HOU,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Bears won the coin toss and deferred, Texans to receive the opening kickoff.",,,2.0,2024,31
+1.0,15:00,,,CHI 35,0.0,0.0,"Cairo Santos kicks off 66 yards, returned by Robert Woods for 30 yards (tackle by Austin Booker)",0.0,0.87,2.0,2024,31
+1.0,14:54,1.0,10.0,HOU 29,0.0,0.0,C.J. Stroud pass incomplete deep right intended for Nico Collins (defended by Jack Sanborn),0.87,0.33,2.0,2024,31
+1.0,14:48,2.0,10.0,HOU 29,0.0,0.0,C.J. Stroud pass complete short left to Brevin Jordan for 4 yards (tackle by Jaquan Brisker),0.33,0.17,2.0,2024,31
+1.0,14:05,3.0,6.0,HOU 33,0.0,0.0,C.J. Stroud pass complete short middle to Joe Mixon for 8 yards (tackle by T.J. Edwards),0.17,1.66,2.0,2024,31
+1.0,13:27,1.0,10.0,HOU 41,0.0,0.0,Joe Mixon left end for 16 yards (tackle by Kevin Byard),1.66,2.72,2.0,2024,31
+1.0,12:41,1.0,10.0,CHI 43,0.0,0.0,Cam Akers right tackle for no gain (tackle by Tremaine Edmunds),2.72,2.18,2.0,2024,31
+1.0,11:56,2.0,10.0,CHI 43,0.0,0.0,"Penalty on Kenyon Green: False Start, 5 yards (accepted) (no play)",2.18,1.5,2.0,2024,31
+1.0,11:44,2.0,15.0,CHI 48,0.0,0.0,C.J. Stroud pass complete short middle to Cam Akers for 3 yards (tackle by Tremaine Edmunds),1.5,1.22,2.0,2024,31
+1.0,11:05,3.0,12.0,CHI 45,0.0,0.0,C.J. Stroud pass complete short middle to Dare Ogunbowale for 7 yards (tackle by Tremaine Edmunds and Kevin Byard),1.22,0.72,2.0,2024,31
+1.0,10:25,4.0,5.0,CHI 38,0.0,3.0,Ka'imi Fairbairn 56 yard field goal good,0.72,3.0,2.0,2024,31
+1.0,10:20,,,HOU 35,0.0,3.0,"Ka'imi Fairbairn kicks off 66 yards, returned by DeAndre Carter for 24 yards (tackle by Neville Hewitt and Jake Hansen)",0.0,0.48,2.0,2024,31
+1.0,10:15,1.0,10.0,CHI 23,0.0,3.0,Caleb Williams pass complete short left to Gerald Everett for 2 yards (tackle by Jalen Pitre),0.48,0.2,2.0,2024,31
+1.0,9:54,2.0,8.0,CHI 25,0.0,3.0,D'Andre Swift left tackle for -4 yards (tackle by Danielle Hunter and Folorunso Fatukasi),0.2,-1.02,2.0,2024,31
+1.0,9:12,3.0,12.0,CHI 21,0.0,3.0,Caleb Williams pass complete short right to DeAndre Carter for 14 yards,-1.02,1.27,2.0,2024,31
+1.0,8:47,1.0,10.0,CHI 35,0.0,3.0,Caleb Williams pass complete short left to DeAndre Carter for 12 yards (tackle by Jalen Pitre),1.27,2.06,2.0,2024,31
+1.0,8:10,1.0,10.0,CHI 47,0.0,3.0,D'Andre Swift up the middle for no gain (tackle by Henry To'oTo'o),2.06,1.52,2.0,2024,31
+1.0,7:32,2.0,10.0,CHI 47,0.0,3.0,Caleb Williams pass complete short right to D'Andre Swift for 8 yards (tackle by Henry To'oTo'o),1.52,1.88,2.0,2024,31
+1.0,6:49,3.0,2.0,HOU 45,0.0,3.0,Caleb Williams pass complete short left to D.J. Moore for 19 yards (tackle by Calen Bullock and Azeez Al-Shaair),1.88,3.84,2.0,2024,31
+1.0,6:05,1.0,10.0,HOU 26,0.0,3.0,D'Andre Swift left tackle for 2 yards (tackle by Azeez Al-Shaair),3.84,3.57,2.0,2024,31
+1.0,5:23,2.0,8.0,HOU 24,0.0,3.0,D'Andre Swift up the middle for -1 yards (tackle by Azeez Al-Shaair and Henry To'oTo'o),3.57,2.74,2.0,2024,31
+1.0,4:42,3.0,9.0,HOU 25,0.0,3.0,Caleb Williams sacked by and Will Anderson for -10 yards and Danielle Hunter for -10 yards,2.74,0.97,2.0,2024,31
+1.0,3:55,4.0,19.0,HOU 35,3.0,3.0,Cairo Santos 53 yard field goal good,0.97,3.0,2.0,2024,31
+1.0,3:51,,,CHI 35,3.0,3.0,"Cairo Santos kicks off 63 yards, returned by Robert Woods for 31 yards (tackle by Elijah Hicks and Jonathan Owens). Penalty on Kris Boyd: Offensive Holding, 10 yards (accepted)",0.0,0.48,2.0,2024,31
+1.0,3:45,1.0,10.0,HOU 23,3.0,3.0,C.J. Stroud pass complete short middle to Nico Collins for 18 yards (tackle by Kyler Gordon),0.48,1.66,2.0,2024,31
+1.0,3:09,1.0,10.0,HOU 41,3.0,3.0,Joe Mixon right end for 3 yards (tackle by Andrew Billings),1.66,1.53,2.0,2024,31
+1.0,2:28,2.0,7.0,HOU 44,3.0,3.0,C.J. Stroud pass incomplete short right intended for Joe Mixon (defended by Montez Sweat),1.53,0.83,2.0,2024,31
+1.0,2:21,3.0,7.0,HOU 44,3.0,3.0,C.J. Stroud pass complete short right to Nico Collins for 6 yards (tackle by Tyrique Stevenson),0.83,-0.06,2.0,2024,31
+1.0,1:39,4.0,1.0,HOU 50,3.0,3.0,C.J. Stroud pass complete short right to Cade Stover for 18 yards (tackle by Tremaine Edmunds),-0.06,3.45,2.0,2024,31
+1.0,0:59,1.0,10.0,CHI 32,3.0,3.0,Tank Dell right end for 18 yards (tackle by Kevin Byard),3.45,4.65,2.0,2024,31
+1.0,0:11,1.0,10.0,CHI 14,3.0,3.0,"Joe Mixon right tackle for 1 yard (tackle by Darrell Taylor and Tremaine Edmunds). Penalty on Nico Collins: Unsportsmanlike Conduct / Offense, 15 yards (accepted)",4.65,2.2,2.0,2024,31
+2.0,15:00,2.0,24.0,CHI 28,3.0,9.0,"C.J. Stroud pass complete short middle to Nico Collins for 28 yards, touchdown. Penalty on Tyrique Stevenson: Illegal Use of Hands / Defense, 5 yards (declined)",2.2,7.0,2.0,2024,31
+2.0,14:55,,,CHI 15,3.0,10.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,2.0,2024,31
+2.0,14:55,,,HOU 35,3.0,10.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.94,2.0,2024,31
+2.0,14:55,1.0,10.0,CHI 30,3.0,10.0,Caleb Williams pass complete short middle to D.J. Moore for no gain (tackle by Kamari Lassiter),0.94,0.39,2.0,2024,31
+2.0,14:29,2.0,10.0,CHI 30,3.0,10.0,Caleb Williams pass complete short right to Rome Odunze for 6 yards (tackle by Kamari Lassiter),0.39,0.5,2.0,2024,31
+2.0,13:48,3.0,4.0,CHI 36,3.0,10.0,Caleb Williams pass incomplete short right,0.5,-0.98,2.0,2024,31
+2.0,13:40,4.0,4.0,CHI 36,3.0,10.0,"Tory Taylor punts 41 yards, fair catch by Steven Sims at HOU-23",-0.98,-0.48,2.0,2024,31
+2.0,13:33,1.0,10.0,HOU 23,3.0,10.0,Joe Mixon left guard for no gain (tackle by T.J. Edwards),0.48,-0.07,2.0,2024,31
+2.0,12:56,2.0,10.0,HOU 23,3.0,10.0,C.J. Stroud pass incomplete short right intended for Joe Mixon (defended by Jaylon Johnson),-0.07,-0.76,2.0,2024,31
+2.0,12:51,3.0,10.0,HOU 23,3.0,10.0,"C.J. Stroud pass complete deep left to Stefon Diggs for 21 yards CHI challenged the pass completion ruling, and the play was upheld.",-0.76,1.86,2.0,2024,31
+2.0,12:30,1.0,10.0,HOU 44,3.0,10.0,C.J. Stroud pass complete deep right to Nico Collins for 18 yards (tackle by Kevin Byard),1.86,3.05,2.0,2024,31
+2.0,11:50,1.0,10.0,CHI 38,3.0,10.0,Joe Mixon right tackle for 1 yard (tackle by Tremaine Edmunds),3.05,2.64,2.0,2024,31
+2.0,11:12,2.0,9.0,CHI 37,3.0,10.0,Tank Dell right end for 3 yards (tackle by Austin Booker),2.64,2.34,2.0,2024,31
+2.0,10:33,3.0,6.0,CHI 34,3.0,10.0,"C.J. Stroud pass complete short right to Stefon Diggs for 5 yards (tackle by Tyrique Stevenson) HOU challenged the short of the line to gain ruling, and the play was upheld.",2.34,1.62,2.0,2024,31
+2.0,9:58,4.0,1.0,CHI 29,3.0,13.0,Ka'imi Fairbairn 47 yard field goal good,1.62,3.0,2.0,2024,31
+2.0,9:55,,,HOU 35,3.0,13.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.94,2.0,2024,31
+2.0,9:55,1.0,10.0,CHI 30,3.0,13.0,D'Andre Swift up the middle for 7 yards (tackle by Henry To'oTo'o),0.94,1.34,2.0,2024,31
+2.0,9:33,2.0,3.0,CHI 37,3.0,13.0,D'Andre Swift right guard for 2 yards (tackle by Henry To'oTo'o),1.34,0.89,2.0,2024,31
+2.0,9:10,3.0,1.0,CHI 39,3.0,13.0,Caleb Williams up the middle for no gain (tackle by Henry To'oTo'o and Will Anderson),0.89,-0.78,2.0,2024,31
+2.0,8:27,4.0,1.0,CHI 39,3.0,13.0,Khalil Herbert up the middle for 1 yard (tackle by Jimmie Ward and Kamari Lassiter),-0.78,1.6,2.0,2024,31
+2.0,7:43,1.0,10.0,CHI 40,3.0,13.0,Caleb Williams pass complete short right to DeAndre Carter for 6 yards (tackle by Jimmie Ward and Azeez Al-Shaair),1.6,1.86,2.0,2024,31
+2.0,7:04,2.0,4.0,CHI 46,3.0,13.0,Caleb Williams pass incomplete short left intended for D'Andre Swift,1.86,1.16,2.0,2024,31
+2.0,6:58,,,,,,Timeout #2 by Chicago Bears,,,2.0,2024,31
+2.0,6:58,3.0,4.0,CHI 46,3.0,13.0,"Penalty on Darnell Wright: False Start, 5 yards (accepted) (no play)",1.16,0.5,2.0,2024,31
+2.0,6:58,3.0,9.0,CHI 41,3.0,13.0,Caleb Williams sacked by Derek Barnett for -8 yards,0.5,-1.18,2.0,2024,31
+2.0,6:07,4.0,17.0,CHI 33,3.0,13.0,Tory Taylor punts 54 yards out of bounds,-1.18,0.32,2.0,2024,31
+2.0,6:01,1.0,10.0,HOU 13,3.0,13.0,Joe Mixon left tackle for -2 yards (tackle by Jaquan Brisker),-0.32,-0.93,2.0,2024,31
+2.0,5:21,2.0,12.0,HOU 11,3.0,13.0,C.J. Stroud pass complete short left to Joe Mixon for 8 yards (tackle by Tremaine Edmunds and Kyler Gordon),-0.93,-0.71,2.0,2024,31
+2.0,4:35,3.0,4.0,HOU 19,3.0,13.0,C.J. Stroud sacked by Tremaine Edmunds for -7 yards,-0.71,-2.49,2.0,2024,31
+2.0,3:50,4.0,11.0,HOU 12,3.0,13.0,Tommy Townsend punts 37 yards out of bounds,-2.49,-2.32,2.0,2024,31
+2.0,3:42,1.0,10.0,HOU 49,3.0,13.0,Caleb Williams pass complete short right to D'Andre Swift for 7 yards (tackle by Calen Bullock),2.32,2.73,2.0,2024,31
+2.0,3:10,2.0,3.0,HOU 42,3.0,13.0,D'Andre Swift up the middle for no gain (tackle by Jalen Pitre),2.73,2.02,2.0,2024,31
+2.0,2:30,3.0,3.0,HOU 42,3.0,13.0,Caleb Williams pass complete short right to D.J. Moore for 16 yards (tackle by Jalen Pitre),2.02,3.84,2.0,2024,31
+2.0,2:00,1.0,10.0,HOU 26,3.0,13.0,Caleb Williams pass complete short left to Gerald Everett for -1 yards (tackle by Will Anderson and Jalen Pitre),3.84,3.16,2.0,2024,31
+2.0,1:16,2.0,11.0,HOU 27,3.0,13.0,Caleb Williams pass complete short middle to Khalil Herbert for 2 yards (tackle by Henry To'oTo'o),3.16,2.74,2.0,2024,31
+2.0,1:11,,,,,,Timeout #2 by Houston Texans,,,2.0,2024,31
+2.0,1:11,3.0,9.0,HOU 25,3.0,13.0,"Penalty on Darnell Wright: False Start, 5 yards (accepted) (no play)",2.74,2.08,2.0,2024,31
+2.0,1:11,3.0,14.0,HOU 30,3.0,13.0,"Caleb Williams pass incomplete deep middle intended for DeAndre Carter. Penalty on Calen Bullock: Defensive Pass Interference, 24 yards (accepted) (no play)",2.08,5.83,2.0,2024,31
+2.0,1:07,1.0,6.0,HOU 6,3.0,13.0,"Penalty on Marcedes Lewis: False Start, 5 yards (accepted) (no play)",5.83,4.77,2.0,2024,31
+2.0,1:07,1.0,11.0,HOU 11,3.0,13.0,Caleb Williams scrambles up the middle for 9 yards (tackle by Calen Bullock),4.77,5.72,2.0,2024,31
+2.0,0:38,2.0,2.0,HOU 2,3.0,13.0,Caleb Williams pass incomplete short right intended for Rome Odunze,5.72,4.95,2.0,2024,31
+2.0,0:35,3.0,2.0,HOU 2,9.0,13.0,"Khalil Herbert left tackle for 2 yards, touchdown",4.95,7.0,2.0,2024,31
+2.0,0:32,,,HOU 15,10.0,13.0,Cairo Santos kicks extra point good,0.0,0.0,2.0,2024,31
+2.0,0:32,,,CHI 35,10.0,13.0,"Cairo Santos kicks off 65 yards, touchback.. Penalty on Amen Ogbongbemiga: Illegal Formation, 5 yards (accepted)",0.0,1.27,2.0,2024,31
+2.0,0:32,1.0,10.0,HOU 35,10.0,13.0,C.J. Stroud pass complete short left to Dare Ogunbowale for 13 yards (tackle by Jaquan Brisker),1.27,2.13,2.0,2024,31
+2.0,0:22,,,,,,Timeout #3 by Houston Texans,,,2.0,2024,31
+2.0,0:22,1.0,10.0,HOU 48,10.0,13.0,C.J. Stroud pass incomplete deep right intended for Tank Dell,2.13,1.58,2.0,2024,31
+2.0,0:17,2.0,10.0,HOU 48,10.0,13.0,"C.J. Stroud pass complete deep right to Nico Collins for 16 yards (tackle by Kevin Byard) Replay Assistant challenged the pass completion ruling, and the play was upheld.",1.58,3.18,2.0,2024,31
+2.0,0:09,1.0,10.0,CHI 36,10.0,13.0,"Penalty on Laremy Tunsil: False Start, 5 yards (accepted) (no play)",3.18,2.85,2.0,2024,31
+2.0,0:09,,,,,,Timeout #3 by Chicago Bears,,,2.0,2024,31
+2.0,0:09,1.0,15.0,CHI 41,10.0,13.0,C.J. Stroud pass incomplete short right,2.85,1.96,2.0,2024,31
+2.0,0:06,2.0,15.0,CHI 41,10.0,16.0,Ka'imi Fairbairn 59 yard field goal good,1.96,3.0,2.0,2024,31
+2.0,0:01,,,HOU 35,10.0,16.0,"Ka'imi Fairbairn kicks off 67 yards, returned by DeAndre Carter for 26 yards (tackle by Dare Ogunbowale)",0.0,1.27,2.0,2024,31
+3.0,15:00,,,HOU 35,10.0,16.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.94,2.0,2024,31
+3.0,15:00,1.0,10.0,CHI 30,10.0,16.0,Caleb Williams pass complete short left to Cole Kmet for 3 yards (tackle by Azeez Al-Shaair),0.94,0.8,2.0,2024,31
+3.0,14:18,2.0,7.0,CHI 33,10.0,16.0,D'Andre Swift right guard for 4 yards (tackle by Kamari Lassiter and Azeez Al-Shaair),0.8,0.63,2.0,2024,31
+3.0,13:41,3.0,3.0,CHI 37,10.0,16.0,Caleb Williams pass incomplete deep left intended for DeAndre Carter,0.63,-0.91,2.0,2024,31
+3.0,13:31,4.0,3.0,CHI 37,10.0,16.0,"Tory Taylor punts 53 yards, returned by Steven Sims for no gain (tackle by Josh Blackwell)",-0.91,0.38,2.0,2024,31
+3.0,13:25,1.0,10.0,HOU 10,10.0,16.0,Joe Mixon left end for 1 yard (tackle by Tyrique Stevenson and Jaquan Brisker),-0.38,-0.71,2.0,2024,31
+3.0,13:13,2.0,9.0,HOU 11,10.0,16.0,C.J. Stroud pass complete short left to Nico Collins for 16 yards (tackle by Tyrique Stevenson and Kevin Byard),-0.71,0.74,2.0,2024,31
+3.0,12:37,1.0,10.0,HOU 27,10.0,16.0,C.J. Stroud pass complete short right to Tank Dell for -3 yards (tackle by Kevin Byard),0.74,-0.21,2.0,2024,31
+3.0,12:00,2.0,13.0,HOU 24,10.0,16.0,C.J. Stroud pass complete short right to Joe Mixon for 9 yards (tackle by T.J. Edwards),-0.21,0.3,2.0,2024,31
+3.0,11:32,3.0,4.0,HOU 33,10.0,16.0,C.J. Stroud pass incomplete deep middle intended for Tank Dell,0.3,-1.18,2.0,2024,31
+3.0,11:26,4.0,4.0,HOU 33,10.0,16.0,Tommy Townsend punts 60 yards downed by D'Angelo Ross,-1.18,0.38,2.0,2024,31
+3.0,11:12,1.0,10.0,CHI 7,10.0,16.0,"Caleb Williams pass incomplete short right intended for Cole Kmet. Penalty on Jalen Pitre: Defensive Pass Interference, 6 yards (accepted) (no play)",-0.38,-0.32,2.0,2024,31
+3.0,11:06,1.0,10.0,CHI 13,10.0,16.0,D'Andre Swift left end for -4 yards (tackle by Henry To'oTo'o),-0.32,-1.07,2.0,2024,31
+3.0,10:25,2.0,14.0,CHI 9,10.0,16.0,Caleb Williams pass incomplete deep right intended for Rome Odunze,-1.07,-1.89,2.0,2024,31
+3.0,10:19,3.0,14.0,CHI 9,10.0,16.0,Caleb Williams scrambles left end for 10 yards (tackle by Azeez Al-Shaair),-1.89,-2.14,2.0,2024,31
+3.0,9:40,4.0,4.0,CHI 19,10.0,16.0,"Tory Taylor punts 57 yards, returned by Steven Sims for no gain (tackle by Scott Daly and Daniel Hardy). Penalty on Kris Boyd: Offensive Holding, 10 yards (accepted)",-2.14,0.28,2.0,2024,31
+3.0,9:24,1.0,10.0,HOU 14,10.0,16.0,C.J. Stroud pass incomplete deep right intended for Dalton Schultz,-0.28,-0.75,2.0,2024,31
+3.0,9:17,2.0,10.0,HOU 14,10.0,16.0,C.J. Stroud pass incomplete deep middle intended for Stefon Diggs,-0.75,-1.4,2.0,2024,31
+3.0,9:13,3.0,10.0,HOU 14,10.0,16.0,"Penalty on Laremy Tunsil: False Start, 5 yards (accepted) (no play)",-1.4,-2.01,2.0,2024,31
+3.0,9:13,3.0,15.0,HOU 9,10.0,16.0,C.J. Stroud pass incomplete short middle intended for Stefon Diggs,-2.01,-2.49,2.0,2024,31
+3.0,9:07,4.0,15.0,HOU 9,10.0,16.0,"Tommy Townsend punts 47 yards downed by D'Angelo Ross. Penalty on Elijah Hicks: Offensive Holding, 10 yards (accepted)",-2.49,-1.2,2.0,2024,31
+3.0,8:56,1.0,10.0,CHI 34,10.0,16.0,"Penalty on Caleb Williams: Delay of Game, 5 yards (accepted) (no play)",1.2,0.87,2.0,2024,31
+3.0,8:56,1.0,15.0,CHI 29,10.0,16.0,Caleb Williams pass complete short right to Cole Kmet for 6 yards (tackle by Jimmie Ward and Henry To'oTo'o),0.87,0.79,2.0,2024,31
+3.0,8:20,2.0,9.0,CHI 35,10.0,16.0,"Caleb Williams pass deep left is intercepted by Kamari Lassiter at HOU-30 and returned for no gain (tackle by Rome Odunze). Penalty on Henry To'oTo'o: Defensive Holding, 5 yards (accepted) (no play)",0.79,1.6,2.0,2024,31
+3.0,8:11,1.0,10.0,CHI 40,10.0,16.0,Caleb Williams pass complete short right to D.J. Moore for 10 yards (tackle by Henry To'oTo'o and Danielle Hunter),1.6,2.26,2.0,2024,31
+3.0,7:26,1.0,10.0,CHI 50,10.0,16.0,"Penalty on Nate Davis: False Start, 5 yards (accepted) (no play)",2.26,1.93,2.0,2024,31
+3.0,7:26,1.0,15.0,CHI 45,10.0,16.0,Caleb Williams sacked by Azeez Al-Shaair for no gain,1.93,1.04,2.0,2024,31
+3.0,7:02,2.0,15.0,CHI 45,10.0,16.0,Caleb Williams pass complete short left to D'Andre Swift for 14 yards (tackle by Jimmie Ward),1.04,2.21,2.0,2024,31
+3.0,6:14,3.0,1.0,HOU 41,10.0,16.0,Caleb Williams sacked by Will Anderson for -7 yards,2.21,0.07,2.0,2024,31
+3.0,5:28,4.0,8.0,HOU 48,10.0,16.0,Tory Taylor punts 25 yards out of bounds,0.07,-0.48,2.0,2024,31
+3.0,5:27,1.0,10.0,HOU 23,10.0,16.0,C.J. Stroud pass complete short right to Dalton Schultz for 5 yards (tackle by Kevin Byard),0.48,0.61,2.0,2024,31
+3.0,4:59,2.0,5.0,HOU 28,10.0,16.0,Cam Akers left tackle for 7 yards (tackle by T.J. Edwards and Kevin Byard),0.61,1.27,2.0,2024,31
+3.0,4:21,1.0,10.0,HOU 35,10.0,16.0,C.J. Stroud pass incomplete short right,1.27,0.72,2.0,2024,31
+3.0,4:16,2.0,10.0,HOU 35,10.0,16.0,"C.J. Stroud pass incomplete short right intended for Nico Collins (defended by Kyler Gordon) CHI challenged the pass interception ruling, and the play was upheld.",0.72,0.04,2.0,2024,31
+3.0,4:11,3.0,10.0,HOU 35,10.0,16.0,C.J. Stroud sacked by Gervon Dexter for -10 yards,0.04,-1.7,2.0,2024,31
+3.0,3:36,4.0,20.0,HOU 25,10.0,16.0,"Tommy Townsend punts 42 yards, returned by DeAndre Carter for 1 yard (tackle by Kris Boyd)",-1.7,-1.2,2.0,2024,31
+3.0,3:28,1.0,10.0,CHI 34,10.0,16.0,D'Andre Swift right end for 6 yards (tackle by Folorunso Fatukasi),1.2,1.47,2.0,2024,31
+3.0,3:01,2.0,4.0,CHI 40,10.0,16.0,"D'Andre Swift right tackle for 1 yard (tackle by Danielle Hunter). Penalty on Folorunso Fatukasi: Defensive Holding, 5 yards (accepted)",1.47,1.99,2.0,2024,31
+3.0,2:34,1.0,10.0,CHI 46,10.0,16.0,D'Andre Swift left end for 1 yard (tackle by Azeez Al-Shaair),1.99,1.59,2.0,2024,31
+3.0,1:59,2.0,9.0,CHI 47,10.0,16.0,"Caleb Williams pass complete short right to D.J. Moore for 1 yard (tackle by Jimmie Ward). Penalty on D'Andre Swift: Offensive Holding, 10 yards (accepted)",1.59,0.37,2.0,2024,31
+3.0,1:51,2.0,18.0,CHI 38,10.0,16.0,Caleb Williams pass complete short left to Khalil Herbert for 2 yards (tackle by Jalen Pitre),0.37,-0.03,2.0,2024,31
+3.0,0:57,3.0,16.0,CHI 40,10.0,16.0,Caleb Williams pass deep left intended for D.J. Moore is intercepted by Derek Stingley at HOU-34 and returned for no gain (tackle by D.J. Moore),-0.03,-1.2,2.0,2024,31
+3.0,0:50,1.0,10.0,HOU 34,10.0,16.0,Tank Dell left end for -5 yards (tackle by Kyler Gordon),1.2,-0.02,2.0,2024,31
+3.0,0:09,2.0,15.0,HOU 29,10.0,16.0,C.J. Stroud pass complete short right to Stefon Diggs for 7 yards (tackle by Kyler Gordon and Tremaine Edmunds),-0.02,0.23,2.0,2024,31
+4.0,15:00,3.0,8.0,HOU 36,10.0,16.0,C.J. Stroud pass complete deep right to Nico Collins for 26 yards (tackle by Kyler Gordon),0.23,3.05,2.0,2024,31
+4.0,14:31,1.0,10.0,CHI 38,10.0,16.0,C.J. Stroud pass incomplete short right intended for Tank Dell,3.05,2.51,2.0,2024,31
+4.0,14:26,2.0,10.0,CHI 38,10.0,16.0,Joe Mixon right tackle for 4 yards (tackle by T.J. Edwards),2.51,2.34,2.0,2024,31
+4.0,13:47,3.0,6.0,CHI 34,10.0,16.0,C.J. Stroud pass incomplete short right intended for Xavier Hutchinson (defended by Tyrique Stevenson),2.34,1.07,2.0,2024,31
+4.0,13:43,4.0,6.0,CHI 34,10.0,19.0,Ka'imi Fairbairn 53 yard field goal good,1.07,3.0,2.0,2024,31
+4.0,13:39,,,HOU 35,10.0,19.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.94,2.0,2024,31
+4.0,13:39,1.0,10.0,CHI 30,10.0,19.0,Caleb Williams pass complete short right to D'Andre Swift for -5 yards (tackle by Jalen Pitre),0.94,-0.28,2.0,2024,31
+4.0,13:09,2.0,15.0,CHI 25,10.0,19.0,Caleb Williams pass deep right intended for Cole Kmet is intercepted by Kamari Lassiter at HOU-48 and returned for 9 yards (tackle by Rome Odunze),-0.28,-2.72,2.0,2024,31
+4.0,12:55,1.0,10.0,CHI 43,10.0,19.0,Joe Mixon left end for 1 yard (tackle by T.J. Edwards),2.72,2.31,2.0,2024,31
+4.0,12:15,2.0,9.0,CHI 42,10.0,19.0,C.J. Stroud sacked by Jack Sanborn for -8 yards,2.31,0.56,2.0,2024,31
+4.0,11:32,3.0,17.0,CHI 50,10.0,19.0,C.J. Stroud pass complete short right to Nico Collins for 7 yards (tackle by Tremaine Edmunds and Kevin Byard),0.56,0.4,2.0,2024,31
+4.0,10:50,4.0,10.0,CHI 43,10.0,19.0,Tommy Townsend punts 37 yards downed by D'Angelo Ross,0.4,0.38,2.0,2024,31
+4.0,10:43,1.0,10.0,CHI 6,10.0,19.0,D'Andre Swift left tackle for 3 yards (tackle by Eric Murray),-0.38,-0.56,2.0,2024,31
+4.0,10:21,2.0,7.0,CHI 9,10.0,19.0,Caleb Williams pass incomplete deep left,-0.56,-1.07,2.0,2024,31
+4.0,10:15,3.0,7.0,CHI 9,10.0,19.0,Caleb Williams sacked by Mario Edwards for -7 yards,-1.07,-2.49,2.0,2024,31
+4.0,9:36,4.0,14.0,CHI 2,10.0,19.0,"Tory Taylor punts 54 yards, returned by Steven Sims for 11 yards (tackle by Daniel Hardy and Jaylon Jones)",-2.49,-2.59,2.0,2024,31
+4.0,9:24,1.0,10.0,CHI 45,10.0,19.0,Cam Akers right tackle for 7 yards (tackle by Kevin Byard),2.59,2.99,2.0,2024,31
+4.0,8:49,2.0,3.0,CHI 38,10.0,19.0,Cam Akers right guard for 13 yards (tackle by Tyrique Stevenson),2.99,3.91,2.0,2024,31
+4.0,8:07,1.0,10.0,CHI 25,10.0,19.0,Cam Akers up the middle for 1 yard (tackle by DeMarcus Walker),3.91,3.5,2.0,2024,31
+4.0,7:30,2.0,9.0,CHI 24,10.0,19.0,Cam Akers up the middle for 4 yards (tackle by Tremaine Edmunds and Jaquan Brisker),3.5,3.34,2.0,2024,31
+4.0,7:22,,,,,,Timeout #2 by Chicago Bears,,,2.0,2024,31
+4.0,7:22,3.0,5.0,CHI 20,10.0,19.0,C.J. Stroud pass complete short left to Dalton Schultz for 16 yards (tackle by T.J. Edwards and Jaquan Brisker),3.34,6.28,2.0,2024,31
+4.0,6:39,1.0,4.0,CHI 4,10.0,19.0,"Cam Akers up the middle for no gain. Cam Akers fumbles (forced by Andrew Billings), recovered by Kevin Byard at CHI-3 (tackle by Andrew Billings)",6.28,0.38,2.0,2024,31
+4.0,6:28,1.0,10.0,CHI 3,10.0,19.0,D'Andre Swift left guard for 1 yard (tackle by Henry To'oTo'o),-0.38,-0.71,2.0,2024,31
+4.0,6:05,2.0,9.0,CHI 4,10.0,19.0,Caleb Williams pass incomplete short middle intended for D.J. Moore (defended by Eric Murray),-0.71,-1.3,2.0,2024,31
+4.0,6:00,3.0,9.0,CHI 4,10.0,19.0,Caleb Williams scrambles right end for 24 yards (tackle by Calen Bullock),-1.3,0.81,2.0,2024,31
+4.0,5:32,1.0,10.0,CHI 28,10.0,19.0,Caleb Williams pass complete short left to D.J. Moore for 7 yards (tackle by Jalen Pitre),0.81,1.21,2.0,2024,31
+4.0,5:11,2.0,3.0,CHI 35,10.0,19.0,Caleb Williams pass incomplete deep left intended for D.J. Moore,1.21,0.5,2.0,2024,31
+4.0,5:02,3.0,3.0,CHI 35,10.0,19.0,Caleb Williams pass complete short left to Cole Kmet for 12 yards (tackle by Eric Murray),0.5,2.06,2.0,2024,31
+4.0,4:31,1.0,10.0,CHI 47,10.0,19.0,Caleb Williams pass complete short right to Cole Kmet for 6 yards (tackle by Jalen Pitre),2.06,2.33,2.0,2024,31
+4.0,4:11,2.0,4.0,HOU 47,10.0,19.0,"Caleb Williams pass incomplete short right. Penalty on Caleb Williams: Intentional Grounding, 10 yards (accepted)",2.33,0.3,2.0,2024,31
+4.0,4:07,3.0,14.0,CHI 43,10.0,19.0,"Caleb Williams pass incomplete deep right intended for D.J. Moore. Penalty on Mario Edwards: Roughing the Passer, 15 yards (accepted) (no play)",0.3,2.79,2.0,2024,31
+4.0,4:02,1.0,10.0,HOU 42,10.0,19.0,Caleb Williams sacked by Henry To'oTo'o for no gain,2.79,2.24,2.0,2024,31
+4.0,3:36,2.0,10.0,HOU 42,10.0,19.0,Travis Homer up the middle for 6 yards (tackle by Jimmie Ward and Henry To'oTo'o),2.24,2.34,2.0,2024,31
+4.0,3:01,3.0,4.0,HOU 36,10.0,19.0,Caleb Williams pass incomplete deep left intended for D.J. Moore,2.34,0.89,2.0,2024,31
+4.0,2:56,4.0,4.0,HOU 36,13.0,19.0,Cairo Santos 54 yard field goal good,0.89,3.0,2.0,2024,31
+4.0,2:51,,,CHI 35,13.0,19.0,"Cairo Santos kicks off 63 yards, returned by Steven Sims for 37 yards (tackle by Elijah Hicks)",0.0,1.53,2.0,2024,31
+4.0,2:45,1.0,10.0,HOU 39,13.0,19.0,Dare Ogunbowale up the middle for no gain (tackle by Jack Sanborn and DeMarcus Walker),1.53,0.99,2.0,2024,31
+4.0,2:03,2.0,10.0,HOU 39,13.0,19.0,Dare Ogunbowale right guard for 3 yards (tackle by Jaquan Brisker and T.J. Edwards),0.99,0.7,2.0,2024,31
+4.0,1:57,3.0,7.0,HOU 42,13.0,19.0,"C.J. Stroud scrambles right end for no gain (tackle by Jaquan Brisker). Penalty on Tytus Howard: Illegal Use of Hands / Offense, 10 yards (accepted) (no play)",0.7,-0.63,2.0,2024,31
+4.0,1:50,3.0,17.0,HOU 32,13.0,19.0,C.J. Stroud pass complete short left to Stefon Diggs for 4 yards (tackle by Kyler Gordon and Jaquan Brisker),-0.63,-0.98,2.0,2024,31
+4.0,1:45,,,,,,Timeout #3 by Chicago Bears,,,2.0,2024,31
+4.0,1:45,4.0,13.0,HOU 36,13.0,19.0,"Tommy Townsend punts 44 yards, fair catch by DeAndre Carter at CHI-20",-0.98,-0.28,2.0,2024,31
+4.0,1:37,1.0,10.0,CHI 20,13.0,19.0,Caleb Williams pass complete short right to Rome Odunze for 27 yards (tackle by Jimmie Ward),0.28,2.06,2.0,2024,31
+4.0,1:11,1.0,10.0,CHI 47,13.0,19.0,Caleb Williams pass incomplete short right intended for Gerald Everett,2.06,1.52,2.0,2024,31
+4.0,1:07,2.0,10.0,CHI 47,13.0,19.0,Caleb Williams sacked by Danielle Hunter for -8 yards,1.52,-0.23,2.0,2024,31
+4.0,0:42,3.0,18.0,CHI 39,13.0,19.0,"Caleb Williams scrambles left end for 1 yard (tackle by Jalen Pitre and Azeez Al-Shaair). Penalty on Braxton Jones: Illegal Formation, 5 yards (declined)",-0.23,-0.72,2.0,2024,31
+4.0,0:34,4.0,17.0,CHI 40,13.0,19.0,Caleb Williams pass incomplete deep right intended for Rome Odunze,-0.72,-2.92,2.0,2024,31
+4.0,0:30,1.0,10.0,CHI 40,13.0,19.0,C.J. Stroud kneels for -1 yards,2.92,2.24,2.0,2024,31

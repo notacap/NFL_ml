@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,8:49,JAX 30,9,5:12,44,Downs,1,Jaguars,5.0,2024,71
+2,1,1:43,JAX 11,14,7:46,84,Field Goal,1,Jaguars,5.0,2024,71
+3,2,7:12,JAX 15,1,0:10,85,Touchdown,1,Jaguars,5.0,2024,71
+4,2,1:44,JAX 30,6,1:17,36,Fumble,1,Jaguars,5.0,2024,71
+5,2,0:06,IND 12,1,0:02,0,Field Goal,1,Jaguars,5.0,2024,71
+6,3,15:00,JAX 30,5,3:23,20,Punt,1,Jaguars,5.0,2024,71
+7,3,10:22,JAX 44,3,1:19,15,Interception,1,Jaguars,5.0,2024,71
+8,3,7:21,IND 19,1,0:08,19,Touchdown,1,Jaguars,5.0,2024,71
+9,4,14:54,JAX 30,7,4:55,70,Touchdown,1,Jaguars,5.0,2024,71
+10,4,6:00,JAX 30,2,0:51,70,Touchdown,1,Jaguars,5.0,2024,71
+11,4,4:27,JAX 30,3,1:02,0,Punt,1,Jaguars,5.0,2024,71
+12,4,2:40,JAX 30,8,2:23,39,Field Goal,1,Jaguars,5.0,2024,71

@@ -1,0 +1,168 @@
+Quarter,Time,Down,ToGo,Location,BAL,JAX,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Ravens won the coin toss and deferred, Jaguars to receive the opening kickoff.",,,15.0,2023,223
+1.0,15:00,,,BAL 35,0.0,0.0,"Justin Tucker kicks off 68 yards, returned by Jamal Agnew for 24 yards (tackle by Arthur Maulet)",0.0,0.34,15.0,2023,223
+1.0,14:52,1.0,10.0,JAX 21,0.0,0.0,Travis Etienne right end for 6 yards (tackle by Patrick Queen),0.34,0.61,15.0,2023,223
+1.0,14:18,2.0,4.0,JAX 27,0.0,0.0,Trevor Lawrence pass incomplete deep left intended for Calvin Ridley,0.61,-0.1,15.0,2023,223
+1.0,14:12,3.0,4.0,JAX 27,0.0,0.0,Trevor Lawrence pass complete short middle to Travis Etienne for 13 yards (tackle by Kyle Hamilton and Marcus Williams),-0.1,1.6,15.0,2023,223
+1.0,13:34,1.0,10.0,JAX 40,0.0,0.0,Travis Etienne up the middle for 4 yards (tackle by Arthur Maulet),1.6,1.59,15.0,2023,223
+1.0,13:04,2.0,6.0,JAX 44,0.0,0.0,Trevor Lawrence pass complete short right to Parker Washington for no gain (tackle by Kyle Hamilton),1.59,0.89,15.0,2023,223
+1.0,12:23,3.0,6.0,JAX 44,0.0,0.0,Trevor Lawrence pass incomplete short middle intended for Zay Jones,0.89,-0.46,15.0,2023,223
+1.0,12:19,4.0,6.0,JAX 44,0.0,0.0,"Logan Cooke punts 45 yards, fair catch by Tylan Wallace at BAL-11",-0.46,0.37,15.0,2023,223
+1.0,12:12,1.0,10.0,BAL 11,0.0,0.0,Keaton Mitchell up the middle for 2 yards (tackle by Devin Lloyd),-0.37,-0.63,15.0,2023,223
+1.0,11:26,2.0,8.0,BAL 13,0.0,0.0,Lamar Jackson pass complete short left to Isaiah Likely for 18 yards (tackle by Devin Lloyd),-0.63,1.0,15.0,2023,223
+1.0,10:39,1.0,10.0,BAL 31,0.0,0.0,Lamar Jackson pass complete short right to Rashod Bateman for 9 yards (tackle by Darious Williams),1.0,1.68,15.0,2023,223
+1.0,9:45,2.0,1.0,BAL 40,0.0,0.0,Lamar Jackson pass complete short right to Rashod Bateman for 18 yards (tackle by Rayshawn Jenkins and Antonio Johnson),1.68,2.79,15.0,2023,223
+1.0,9:01,1.0,10.0,JAX 42,0.0,0.0,Lamar Jackson pass complete short left to Keaton Mitchell for 15 yards (tackle by Foyesade Oluokun),2.79,3.78,15.0,2023,223
+1.0,8:31,1.0,10.0,JAX 27,0.0,0.0,Gus Edwards right end for 2 yards (tackle by Folorunso Fatukasi and Roy Robertson-Harris),3.78,3.5,15.0,2023,223
+1.0,7:53,2.0,8.0,JAX 25,0.0,0.0,Lamar Jackson scrambles up the middle for 11 yards (tackle by Foyesade Oluokun),3.5,4.65,15.0,2023,223
+1.0,7:08,1.0,10.0,JAX 14,0.0,0.0,Keaton Mitchell up the middle for 1 yard (tackle by Josh Allen),4.65,4.16,15.0,2023,223
+1.0,6:37,2.0,9.0,JAX 13,0.0,0.0,Lamar Jackson pass incomplete short right intended for Isaiah Likely,4.16,3.26,15.0,2023,223
+1.0,6:30,3.0,9.0,JAX 13,0.0,0.0,"Lamar Jackson pass incomplete short right. Penalty on Lamar Jackson: Intentional Grounding, 12 yards (accepted)",3.26,1.8,15.0,2023,223
+1.0,6:26,4.0,21.0,JAX 25,3.0,0.0,Justin Tucker 43 yard field goal good,1.8,3.0,15.0,2023,223
+1.0,6:21,,,BAL 35,3.0,0.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,223
+1.0,6:21,1.0,10.0,JAX 25,3.0,0.0,Travis Etienne right guard for 7 yards (tackle by Michael Pierce),0.61,1.01,15.0,2023,223
+1.0,5:46,2.0,3.0,JAX 32,3.0,0.0,Travis Etienne up the middle for 5 yards (tackle by Odafe Oweh),1.01,1.4,15.0,2023,223
+1.0,5:18,1.0,10.0,JAX 37,3.0,0.0,Trevor Lawrence pass complete deep middle to Luke Farrell for 28 yards (tackle by Marcus Williams),1.4,3.25,15.0,2023,223
+1.0,4:38,1.0,10.0,BAL 35,3.0,0.0,Tank Bigsby up the middle for -2 yards (tackle by Kyle Hamilton),3.25,2.43,15.0,2023,223
+1.0,3:53,2.0,12.0,BAL 37,3.0,0.0,Trevor Lawrence pass incomplete short left intended for Travis Etienne,2.43,1.75,15.0,2023,223
+1.0,3:49,3.0,12.0,BAL 37,3.0,0.0,Trevor Lawrence pass complete short left to Jamal Agnew for 5 yards (tackle by Marcus Williams),1.75,1.24,15.0,2023,223
+1.0,3:07,4.0,7.0,BAL 32,3.0,0.0,Brandon McManus 50 yard field goal no good,1.24,-1.6,15.0,2023,223
+1.0,3:03,1.0,10.0,BAL 40,3.0,0.0,Lamar Jackson up the middle for 2 yards (tackle by Rayshawn Jenkins),1.6,1.32,15.0,2023,223
+1.0,2:21,2.0,8.0,BAL 42,3.0,0.0,Lamar Jackson up the middle for 1 yard (tackle by DaVon Hamilton),1.32,0.76,15.0,2023,223
+1.0,1:55,3.0,7.0,BAL 43,3.0,0.0,Lamar Jackson sacked by Travon Walker for -15 yards,0.76,-1.5,15.0,2023,223
+1.0,1:12,4.0,22.0,BAL 28,3.0,0.0,"Jordan Stout punts 51 yards, returned by Jamal Agnew for 17 yards (tackle by Tyler Ott and Malik Harrison)",-1.5,-1.47,15.0,2023,223
+1.0,0:59,1.0,10.0,JAX 38,3.0,0.0,Trevor Lawrence pass complete short right to Parker Washington for 5 yards (tackle by Marlon Humphrey),1.47,1.6,15.0,2023,223
+1.0,0:15,2.0,5.0,JAX 43,3.0,0.0,Travis Etienne left guard for 7 yards (tackle by Kyle Hamilton),1.6,2.26,15.0,2023,223
+2.0,15:00,1.0,10.0,JAX 50,3.0,0.0,Trevor Lawrence pass complete short right to Zay Jones for 9 yards,2.26,2.93,15.0,2023,223
+2.0,14:24,2.0,1.0,BAL 41,3.0,0.0,D'Ernest Johnson right end for 1 yard (tackle by Odafe Oweh and Patrick Queen),2.93,2.92,15.0,2023,223
+2.0,13:53,1.0,10.0,BAL 40,3.0,0.0,D'Ernest Johnson right end for 4 yards (tackle by Jadeveon Clowney and Roquan Smith),2.92,2.91,15.0,2023,223
+2.0,13:15,2.0,6.0,BAL 36,3.0,0.0,Trevor Lawrence pass incomplete short right intended for Travis Etienne,2.91,2.21,15.0,2023,223
+2.0,13:11,3.0,6.0,BAL 36,3.0,0.0,Trevor Lawrence pass incomplete deep right intended for Calvin Ridley,2.21,0.88,15.0,2023,223
+2.0,13:06,4.0,6.0,BAL 36,3.0,0.0,Brandon McManus 55 yard field goal no good,0.88,-1.93,15.0,2023,223
+2.0,13:01,1.0,10.0,BAL 45,3.0,0.0,Lamar Jackson pass complete short left to Gus Edwards for 11 yards (tackle by Montaric Brown and Devin Lloyd),1.93,2.65,15.0,2023,223
+2.0,12:24,1.0,10.0,JAX 44,3.0,0.0,Gus Edwards up the middle for 6 yards (tackle by Josh Allen and Foyesade Oluokun),2.65,2.92,15.0,2023,223
+2.0,11:48,2.0,4.0,JAX 38,3.0,0.0,Lamar Jackson pass short middle intended for Nelson Agholor is intercepted by Rayshawn Jenkins at JAC-30 and returned for 18 yards (tackle by John Simpson),2.92,-2.13,15.0,2023,223
+2.0,11:37,1.0,10.0,JAX 48,3.0,0.0,Trevor Lawrence pass complete short left to Calvin Ridley for -1 yards (tackle by Brandon Stephens),2.13,1.45,15.0,2023,223
+2.0,10:59,2.0,11.0,JAX 47,3.0,0.0,Trevor Lawrence pass complete short left to Evan Engram for 5 yards (tackle by Roquan Smith),1.45,1.42,15.0,2023,223
+2.0,10:25,3.0,6.0,BAL 48,3.0,0.0,Trevor Lawrence pass complete short right to Evan Engram for 4 yards (tackle by Roquan Smith),1.42,0.33,15.0,2023,223
+2.0,9:39,4.0,2.0,BAL 44,3.0,0.0,Trevor Lawrence pass complete short left to Calvin Ridley for 13 yards (tackle by Kyle Hamilton),0.33,3.51,15.0,2023,223
+2.0,9:04,1.0,10.0,BAL 31,3.0,0.0,Travis Etienne left guard for no gain (tackle by Jadeveon Clowney and Michael Pierce),3.51,2.97,15.0,2023,223
+2.0,8:20,2.0,10.0,BAL 31,3.0,0.0,Trevor Lawrence pass complete short right to Calvin Ridley for 9 yards (tackle by Marlon Humphrey),2.97,3.47,15.0,2023,223
+2.0,7:38,3.0,1.0,BAL 22,3.0,0.0,Trevor Lawrence pass complete short left to Zay Jones for 6 yards (tackle by Marcus Williams),3.47,4.51,15.0,2023,223
+2.0,7:06,1.0,10.0,BAL 16,3.0,0.0,Travis Etienne right end for -2 yards (tackle by Brent Urban),4.51,3.64,15.0,2023,223
+2.0,6:23,2.0,12.0,BAL 18,3.0,0.0,"Penalty on Evan Engram: False Start, 5 yards (accepted) (no play)",3.64,3.01,15.0,2023,223
+2.0,5:58,2.0,17.0,BAL 23,3.0,0.0,Trevor Lawrence pass incomplete short left intended for Parker Washington,3.01,2.34,15.0,2023,223
+2.0,5:53,3.0,17.0,BAL 23,3.0,0.0,"Trevor Lawrence scrambles left end for 3 yards. Trevor Lawrence fumbles, recovered by Arthur Maulet at BAL-19 and returned for 21 yards (tackle by Travis Etienne)",2.34,-1.6,15.0,2023,223
+2.0,5:42,1.0,10.0,BAL 40,3.0,0.0,Lamar Jackson pass incomplete short middle intended for Justice Hill (defended by Roy Robertson-Harris),1.6,1.05,15.0,2023,223
+2.0,5:37,2.0,10.0,BAL 40,3.0,0.0,Lamar Jackson pass complete short right to Keaton Mitchell for no gain (tackle by Devin Lloyd),1.05,0.37,15.0,2023,223
+2.0,5:00,3.0,10.0,BAL 40,3.0,0.0,Lamar Jackson pass complete short right to Rashod Bateman for 12 yards (tackle by Andrew Wingard),0.37,2.39,15.0,2023,223
+2.0,4:13,1.0,10.0,JAX 48,3.0,0.0,Lamar Jackson right end for 7 yards (tackle by Rayshawn Jenkins),2.39,2.79,15.0,2023,223
+2.0,3:33,2.0,3.0,JAX 41,3.0,0.0,"Justice Hill up the middle for 1 yard (tackle by Andrew Wingard). Penalty on Ronnie Stanley: Offensive Holding, 10 yards (accepted)",2.79,1.58,15.0,2023,223
+2.0,3:00,2.0,12.0,JAX 50,3.0,0.0,Lamar Jackson pass complete short right to Isaiah Likely for 6 yards (tackle by Montaric Brown),1.58,1.69,15.0,2023,223
+2.0,2:16,3.0,6.0,JAX 44,3.0,0.0,Lamar Jackson pass complete short middle to Odell Beckham for 14 yards (tackle by Montaric Brown),1.69,3.58,15.0,2023,223
+2.0,2:00,1.0,10.0,JAX 30,3.0,0.0,Lamar Jackson pass incomplete short left intended for Rashod Bateman,3.58,3.03,15.0,2023,223
+2.0,1:55,2.0,10.0,JAX 30,3.0,0.0,Lamar Jackson scrambles up the middle for 9 yards (tackle by Josh Allen),3.03,3.53,15.0,2023,223
+2.0,1:43,,,,,,Timeout #1 by Jacksonville Jaguars,,,15.0,2023,223
+2.0,1:43,3.0,1.0,JAX 21,3.0,0.0,Gus Edwards up the middle for 4 yards (tackle by DaVon Hamilton and Rayshawn Jenkins),3.53,4.44,15.0,2023,223
+2.0,1:37,,,,,,Timeout #2 by Jacksonville Jaguars,,,15.0,2023,223
+2.0,1:37,1.0,10.0,JAX 17,3.0,0.0,Lamar Jackson pass complete short left to Charlie Kolar for 15 yards (tackle by Andrew Wingard),4.44,6.74,15.0,2023,223
+2.0,1:31,,,,,,Timeout #3 by Jacksonville Jaguars,,,15.0,2023,223
+2.0,1:31,1.0,2.0,JAX 2,3.0,0.0,"Gus Edwards up the middle for 1 yard (tackle by Travon Walker and DaVon Hamilton). Penalty on John Simpson: Unnecessary Roughness / Offense, 15 yards (accepted)",6.74,3.34,15.0,2023,223
+2.0,1:18,2.0,16.0,JAX 16,9.0,0.0,"Lamar Jackson pass complete deep right to Isaiah Likely for 16 yards, touchdown",3.34,7.0,15.0,2023,223
+2.0,1:12,,,JAX 15,10.0,0.0,Justin Tucker kicks extra point good,0.0,0.0,15.0,2023,223
+2.0,1:12,,,BAL 35,10.0,0.0,"Justin Tucker kicks off 53 yards, returned by Jamal Agnew for 29 yards (tackle by Arthur Maulet)",0.0,1.66,15.0,2023,223
+2.0,1:04,1.0,10.0,JAX 41,10.0,0.0,Trevor Lawrence pass incomplete deep left intended for Zay Jones,1.66,1.12,15.0,2023,223
+2.0,0:57,2.0,10.0,JAX 41,10.0,0.0,Trevor Lawrence pass complete short left to Calvin Ridley for 11 yards (tackle by Brandon Stephens),1.12,2.39,15.0,2023,223
+2.0,0:39,1.0,10.0,BAL 48,10.0,0.0,"Trevor Lawrence pass incomplete short left intended for Zay Jones. Penalty on Brandon Stephens: Defensive Pass Interference, 8 yards (accepted) (no play)",2.39,2.92,15.0,2023,223
+2.0,0:35,1.0,10.0,BAL 40,10.0,0.0,Trevor Lawrence pass complete short right to Zay Jones for 4 yards (tackle by Kyle Hamilton),2.92,2.91,15.0,2023,223
+2.0,0:30,2.0,6.0,BAL 36,10.0,0.0,"Penalty on Brandon Scherff: False Start, 5 yards (accepted) (no play)",2.91,2.24,15.0,2023,223
+2.0,0:30,2.0,11.0,BAL 41,10.0,0.0,Trevor Lawrence pass complete deep left to Zay Jones for 36 yards (tackle by Brandon Stephens),2.24,6.06,15.0,2023,223
+2.0,0:11,1.0,5.0,BAL 5,10.0,0.0,Trevor Lawrence pass complete short left to Parker Washington for 1 yard (tackle by Marcus Williams),6.06,5.34,15.0,2023,223
+3.0,15:00,,,JAX 35,10.0,0.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,223
+3.0,15:00,1.0,10.0,BAL 25,10.0,0.0,Lamar Jackson scrambles left end for 6 yards (tackle by Foyesade Oluokun),0.61,0.87,15.0,2023,223
+3.0,14:17,2.0,4.0,BAL 31,10.0,0.0,Lamar Jackson scrambles left guard for 3 yards (tackle by Travon Walker),0.87,0.56,15.0,2023,223
+3.0,13:55,3.0,1.0,BAL 34,10.0,0.0,Keaton Mitchell up the middle for 2 yards (tackle by Roy Robertson-Harris),0.56,1.33,15.0,2023,223
+3.0,13:18,1.0,10.0,BAL 36,10.0,0.0,Lamar Jackson pass incomplete deep left intended for Odell Beckham,1.33,0.79,15.0,2023,223
+3.0,13:11,2.0,10.0,BAL 36,10.0,0.0,Lamar Jackson up the middle for 12 yards (tackle by Foyesade Oluokun),0.79,2.13,15.0,2023,223
+3.0,12:30,1.0,10.0,BAL 48,10.0,0.0,Gus Edwards up the middle for no gain (tackle by K'Lavon Chaisson),2.13,1.58,15.0,2023,223
+3.0,11:48,2.0,10.0,BAL 48,10.0,0.0,"Penalty on Morgan Moses: False Start, 4 yards (accepted) (no play)",1.58,1.04,15.0,2023,223
+3.0,11:35,2.0,14.0,BAL 44,10.0,0.0,Lamar Jackson pass complete short right to Zay Flowers for 7 yards (tackle by Montaric Brown),1.04,1.29,15.0,2023,223
+3.0,10:53,3.0,7.0,JAX 49,10.0,0.0,Lamar Jackson sacked by Rayshawn Jenkins for -8 yards,1.29,-0.52,15.0,2023,223
+3.0,10:23,4.0,15.0,BAL 43,10.0,0.0,"Jordan Stout punts 45 yards out of bounds. Penalty on Antonio Johnson: Defensive Offside, 5 yards (declined)",-0.52,0.35,15.0,2023,223
+3.0,10:14,1.0,10.0,JAX 12,10.0,0.0,Travis Etienne left end for no gain (tackle by Kyle Van Noy and Geno Stone),-0.35,-0.78,15.0,2023,223
+3.0,9:33,2.0,10.0,JAX 12,10.0,0.0,Trevor Lawrence pass complete short right to Evan Engram for 8 yards (tackle by Roquan Smith),-0.78,-0.48,15.0,2023,223
+3.0,8:52,3.0,2.0,JAX 20,10.0,0.0,Trevor Lawrence pass complete short middle to Evan Engram for 11 yards (tackle by Patrick Queen and Roquan Smith),-0.48,1.0,15.0,2023,223
+3.0,8:07,1.0,10.0,JAX 31,10.0,0.0,Trevor Lawrence pass complete short right to Zay Jones for 4 yards (tackle by Kyle Hamilton),1.0,1.0,15.0,2023,223
+3.0,7:26,2.0,6.0,JAX 35,10.0,6.0,"Trevor Lawrence pass complete deep left to Jamal Agnew for 65 yards, touchdown",1.0,7.0,15.0,2023,223
+3.0,7:15,,,BAL 15,10.0,7.0,Brandon McManus kicks extra point good,0.0,0.0,15.0,2023,223
+3.0,7:15,,,JAX 35,10.0,7.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,223
+3.0,7:15,1.0,10.0,BAL 25,10.0,7.0,Keaton Mitchell left guard for 5 yards (tackle by Foyesade Oluokun),0.61,0.74,15.0,2023,223
+3.0,6:33,2.0,5.0,BAL 30,10.0,7.0,Lamar Jackson scrambles up the middle for 7 yards (tackle by Jeremiah Ledbetter),0.74,1.4,15.0,2023,223
+3.0,6:01,1.0,10.0,BAL 37,10.0,7.0,Keaton Mitchell right guard for 10 yards (tackle by Darious Williams),1.4,2.06,15.0,2023,223
+3.0,5:21,1.0,10.0,BAL 47,10.0,7.0,Keaton Mitchell up the middle for 12 yards (tackle by Foyesade Oluokun),2.06,2.85,15.0,2023,223
+3.0,4:57,1.0,10.0,JAX 41,10.0,7.0,Lamar Jackson up the middle for 3 yards (tackle by Andrew Wingard),2.85,2.71,15.0,2023,223
+3.0,4:32,2.0,7.0,JAX 38,10.0,7.0,Lamar Jackson pass incomplete short left intended for Zay Flowers,2.71,2.02,15.0,2023,223
+3.0,4:27,3.0,7.0,JAX 38,10.0,7.0,Lamar Jackson pass incomplete deep right intended for Rashod Bateman,2.02,0.72,15.0,2023,223
+3.0,4:22,4.0,7.0,JAX 38,10.0,7.0,"Penalty on BAL: Delay of Game, 5 yards (accepted) (no play)",0.72,0.4,15.0,2023,223
+3.0,4:22,4.0,12.0,JAX 43,10.0,7.0,Jordan Stout punts 33 yards out of bounds,0.4,0.38,15.0,2023,223
+3.0,4:14,1.0,10.0,JAX 10,10.0,7.0,Travis Etienne right end for 3 yards (tackle by Kyle Van Noy),-0.38,-0.56,15.0,2023,223
+3.0,3:36,2.0,7.0,JAX 13,10.0,7.0,Trevor Lawrence pass complete short middle to Travis Etienne for 4 yards (tackle by Roquan Smith),-0.56,-0.6,15.0,2023,223
+3.0,2:52,3.0,3.0,JAX 17,10.0,7.0,"Penalty on Walker Little: False Start, 5 yards (accepted) (no play)",-0.6,-1.19,15.0,2023,223
+3.0,2:30,3.0,8.0,JAX 12,10.0,7.0,"Trevor Lawrence pass incomplete short left. Penalty on Trevor Lawrence: Intentional Grounding, 11 yards (accepted)",-1.19,-2.49,15.0,2023,223
+3.0,2:26,4.0,19.0,JAX 1,10.0,7.0,"Logan Cooke punts 60 yards, returned by Tylan Wallace for 3 yards (tackle by Daniel Thomas)",-2.49,-1.73,15.0,2023,223
+3.0,2:15,1.0,10.0,BAL 42,10.0,7.0,Keaton Mitchell right end for 24 yards (tackle by Andrew Wingard),1.73,3.31,15.0,2023,223
+3.0,1:36,1.0,10.0,JAX 34,10.0,7.0,Keaton Mitchell right guard for 4 yards (tackle by Folorunso Fatukasi),3.31,3.31,15.0,2023,223
+3.0,0:58,2.0,6.0,JAX 30,10.0,7.0,Lamar Jackson pass complete deep left to Isaiah Likely for 26 yards (tackle by Darious Williams and Andrew Wingard),3.31,6.28,15.0,2023,223
+3.0,0:14,1.0,4.0,JAX 4,10.0,7.0,Gus Edwards right end for 3 yards (tackle by Tyler Lacy and Devin Lloyd),6.28,5.91,15.0,2023,223
+4.0,15:00,2.0,1.0,JAX 1,16.0,7.0,"Gus Edwards up the middle for 1 yard, touchdown",5.91,7.0,15.0,2023,223
+4.0,14:58,,,JAX 15,17.0,7.0,Justin Tucker kicks extra point good,0.0,0.0,15.0,2023,223
+4.0,14:58,,,BAL 35,17.0,7.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,223
+4.0,14:58,1.0,10.0,JAX 25,17.0,7.0,Travis Etienne left guard for 1 yard (tackle by Marlon Humphrey),0.61,0.2,15.0,2023,223
+4.0,14:22,2.0,9.0,JAX 26,17.0,7.0,Trevor Lawrence pass complete short right to Calvin Ridley for 7 yards (tackle by Marlon Humphrey),0.2,0.43,15.0,2023,223
+4.0,13:44,3.0,2.0,JAX 33,17.0,7.0,Trevor Lawrence pass incomplete short right intended for Evan Engram,0.43,-1.18,15.0,2023,223
+4.0,13:41,4.0,2.0,JAX 33,17.0,7.0,"Logan Cooke punts 43 yards, fair catch by Tylan Wallace at BAL-24",-1.18,-0.54,15.0,2023,223
+4.0,13:32,1.0,10.0,BAL 24,17.0,7.0,Keaton Mitchell right end for 13 yards (tackle by Andrew Wingard),0.54,1.4,15.0,2023,223
+4.0,13:15,1.0,10.0,BAL 37,17.0,7.0,Justice Hill up the middle for 5 yards (tackle by Devin Lloyd),1.4,1.53,15.0,2023,223
+4.0,12:39,2.0,5.0,BAL 42,17.0,7.0,Lamar Jackson pass complete short right to Isaiah Likely for 4 yards (tackle by Montaric Brown),1.53,1.36,15.0,2023,223
+4.0,12:07,3.0,1.0,BAL 46,17.0,7.0,Lamar Jackson up the middle for no gain (tackle by Jeremiah Ledbetter) (no play),1.36,2.39,15.0,2023,223
+4.0,11:36,1.0,10.0,JAX 48,17.0,7.0,Justice Hill left end for 8 yards (tackle by Devin Lloyd),2.39,2.93,15.0,2023,223
+4.0,11:00,2.0,2.0,JAX 40,17.0,7.0,Lamar Jackson right end for 15 yards (tackle by Darious Williams),2.93,3.91,15.0,2023,223
+4.0,10:26,1.0,10.0,JAX 25,17.0,7.0,Gus Edwards right guard for 20 yards (tackle by Rayshawn Jenkins),3.91,6.06,15.0,2023,223
+4.0,9:37,1.0,5.0,JAX 5,17.0,7.0,Gus Edwards up the middle for 1 yard (tackle by Devin Lloyd and Travon Walker),6.06,5.34,15.0,2023,223
+4.0,8:56,2.0,4.0,JAX 4,17.0,7.0,Lamar Jackson sacked by Adam Gotsis for -3 yards,5.34,3.81,15.0,2023,223
+4.0,8:10,3.0,7.0,JAX 7,17.0,7.0,Lamar Jackson pass incomplete short left intended for Rashod Bateman,3.81,2.97,15.0,2023,223
+4.0,8:03,4.0,7.0,JAX 7,20.0,7.0,Justin Tucker 26 yard field goal good,2.97,3.0,15.0,2023,223
+4.0,8:00,,,BAL 35,20.0,7.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,223
+4.0,8:00,1.0,10.0,JAX 25,20.0,7.0,Trevor Lawrence pass incomplete deep right intended for Zay Jones,0.61,0.06,15.0,2023,223
+4.0,7:52,2.0,10.0,JAX 25,20.0,7.0,Trevor Lawrence pass incomplete deep middle intended for Calvin Ridley,0.06,-0.62,15.0,2023,223
+4.0,7:47,3.0,10.0,JAX 25,20.0,7.0,"Trevor Lawrence sacked by Justin Madubuike for -6 yards. Trevor Lawrence fumbles (forced by Justin Madubuike), recovered by Patrick Queen at JAC-19 (tackle by Justin Madubuike)",-0.62,-4.31,15.0,2023,223
+4.0,7:36,1.0,10.0,JAX 19,20.0,7.0,Gus Edwards left end for no gain (tackle by Devin Lloyd),4.31,3.75,15.0,2023,223
+4.0,6:55,2.0,10.0,JAX 19,20.0,7.0,Gus Edwards right end for 3 yards (tackle by Andrew Wingard and Josh Allen),3.75,3.41,15.0,2023,223
+4.0,6:10,3.0,7.0,JAX 16,20.0,7.0,Lamar Jackson pass incomplete deep left intended for Odell Beckham,3.41,2.38,15.0,2023,223
+4.0,6:05,4.0,7.0,JAX 16,23.0,7.0,Justin Tucker 34 yard field goal good,2.38,3.0,15.0,2023,223
+4.0,6:01,,,BAL 35,23.0,7.0,"Justin Tucker kicks off 71 yards, returned by Jamal Agnew for 38 yards (tackle by Ronald Darby and Brandon Stephens)",0.0,1.07,15.0,2023,223
+4.0,5:55,1.0,10.0,JAX 32,23.0,7.0,Trevor Lawrence pass complete short left to Travis Etienne for no gain (tackle by Jadeveon Clowney),1.07,0.53,15.0,2023,223
+4.0,5:29,2.0,10.0,JAX 32,23.0,7.0,Trevor Lawrence pass complete short middle to Travis Etienne for 11 yards (tackle by Jalyn Armour-Davis and Roquan Smith),0.53,1.8,15.0,2023,223
+4.0,5:00,1.0,10.0,JAX 43,23.0,7.0,Trevor Lawrence scrambles up the middle for 13 yards (tackle by Odafe Oweh),1.8,2.65,15.0,2023,223
+4.0,4:34,1.0,10.0,BAL 44,23.0,7.0,Trevor Lawrence pass incomplete deep left intended for Parker Washington,2.65,2.11,15.0,2023,223
+4.0,4:27,2.0,10.0,BAL 44,23.0,7.0,Trevor Lawrence pass incomplete short right intended for Calvin Ridley,2.11,1.42,15.0,2023,223
+4.0,4:23,3.0,10.0,BAL 44,23.0,7.0,Trevor Lawrence pass complete short right to Parker Washington for 6 yards (tackle by Arthur Maulet),1.42,0.72,15.0,2023,223
+4.0,4:00,4.0,4.0,BAL 38,23.0,7.0,Trevor Lawrence scrambles left end for 13 yards (tackle by Patrick Queen),0.72,3.91,15.0,2023,223
+4.0,3:53,1.0,10.0,BAL 25,23.0,7.0,Trevor Lawrence pass incomplete deep middle intended for Calvin Ridley,3.91,3.36,15.0,2023,223
+4.0,3:48,2.0,10.0,BAL 25,23.0,7.0,Trevor Lawrence scrambles left end for 12 yards (tackle by Geno Stone),3.36,4.71,15.0,2023,223
+4.0,3:40,1.0,10.0,BAL 13,23.0,7.0,Trevor Lawrence pass incomplete short right intended for Elijah Cooks,4.71,4.05,15.0,2023,223
+4.0,3:35,2.0,10.0,BAL 13,23.0,7.0,"Trevor Lawrence pass incomplete short middle intended for Calvin Ridley (defended by Kyle Hamilton) JAX challenged the pass completion ruling, and the play was upheld.",4.05,3.12,15.0,2023,223
+4.0,3:29,3.0,10.0,BAL 13,23.0,7.0,Trevor Lawrence pass incomplete short right intended for Calvin Ridley (defended by Marlon Humphrey),3.12,2.57,15.0,2023,223
+4.0,3:24,,,,,,Timeout #1 by Baltimore Ravens,,,15.0,2023,223
+4.0,3:24,4.0,10.0,BAL 13,23.0,7.0,Trevor Lawrence pass incomplete short middle intended for Evan Engram,2.57,0.32,15.0,2023,223
+4.0,3:19,1.0,10.0,BAL 13,23.0,7.0,"Gus Edwards right end for 5 yards (tackle by Devin Lloyd and Daniel Thomas). Penalty on Daniel Thomas: Unnecessary Roughness / Defense, 15 yards (accepted)",-0.32,1.14,15.0,2023,223
+4.0,3:13,1.0,10.0,BAL 33,23.0,7.0,Justice Hill up the middle for 6 yards (tackle by Andrew Wingard),1.14,1.4,15.0,2023,223
+4.0,3:06,,,,,,Timeout #2 by Jacksonville Jaguars,,,15.0,2023,223
+4.0,3:06,2.0,4.0,BAL 39,23.0,7.0,Justice Hill up the middle for 3 yards (tackle by Foyesade Oluokun),1.4,1.09,15.0,2023,223
+4.0,3:02,,,,,,Timeout #3 by Jacksonville Jaguars,,,15.0,2023,223
+4.0,3:02,3.0,1.0,BAL 42,23.0,7.0,Lamar Jackson left end for 21 yards (tackle by Andrew Wingard),1.09,3.12,15.0,2023,223
+4.0,2:16,1.0,10.0,JAX 37,23.0,7.0,Gus Edwards right guard for 2 yards (tackle by Andrew Wingard and Foyesade Oluokun),3.12,2.84,15.0,2023,223
+4.0,2:00,2.0,8.0,JAX 35,23.0,7.0,Gus Edwards left end for 3 yards (tackle by Jeremiah Ledbetter),2.84,2.54,15.0,2023,223
+4.0,1:16,3.0,5.0,JAX 32,23.0,7.0,Gus Edwards right end for 2 yards (tackle by Foyesade Oluokun),2.54,1.48,15.0,2023,223
+4.0,0:30,,,,,,Timeout #2 by Baltimore Ravens,,,15.0,2023,223
+4.0,0:30,4.0,3.0,JAX 30,23.0,7.0,Gus Edwards up the middle for 5 yards (tackle by Devin Lloyd),1.48,3.25,15.0,2023,223

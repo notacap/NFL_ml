@@ -1,0 +1,185 @@
+Quarter,Time,Down,ToGo,Location,SEA,NWE,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Seahawks won the coin toss and deferred, Patriots to receive the opening kickoff.",,,2.0,2024,24
+1,15:00,,,SEA 35,0.0,0.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.94,2.0,2024,24
+1,15:00,1.0,10.0,NWE 30,0.0,0.0,Rhamondre Stevenson up the middle for 1 yard (tackle by Jerome Baker and Tyrel Dodson),0.94,0.53,2.0,2024,24
+1,14:22,2.0,9.0,NWE 31,0.0,0.0,Jacoby Brissett pass complete short right to Rhamondre Stevenson for 7 yards (tackle by Jerome Baker),0.53,0.76,2.0,2024,24
+1,13:49,3.0,2.0,NWE 38,0.0,0.0,Jacoby Brissett sacked by Boye Mafe for -9 yards,0.76,-1.44,2.0,2024,24
+1,13:12,4.0,11.0,NWE 29,0.0,0.0,Bryce Baringer punts 56 yards out of bounds,-1.44,0.22,2.0,2024,24
+1,13:03,1.0,10.0,SEA 15,0.0,0.0,Zach Charbonnet left guard for 1 yard (tackle by Anfernee Jennings),-0.22,-0.58,2.0,2024,24
+1,12:41,2.0,9.0,SEA 16,0.0,0.0,Geno Smith pass complete short left to Jaxon Smith-Njigba for 8 yards (tackle by Jonathan Jones),-0.58,-0.27,2.0,2024,24
+1,12:32,3.0,1.0,SEA 24,0.0,0.0,Geno Smith pass complete short right to Jaxon Smith-Njigba for 3 yards (tackle by Jabrill Peppers),-0.27,0.74,2.0,2024,24
+1,11:34,1.0,10.0,SEA 27,0.0,0.0,Geno Smith pass complete short left to Tyler Lockett for -1 yards (tackle by Kyle Dugger),0.74,0.06,2.0,2024,24
+1,10:49,2.0,11.0,SEA 26,0.0,0.0,Geno Smith sacked by and Keion White for -4 yards and Daniel Ekuale for -4 yards,0.06,-1.15,2.0,2024,24
+1,10:07,3.0,15.0,SEA 22,0.0,0.0,Geno Smith pass incomplete deep middle intended for Jaxon Smith-Njigba (defended by Jaylinn Hawkins),-1.15,-1.9,2.0,2024,24
+1,10:02,4.0,15.0,SEA 22,0.0,0.0,"Michael Dickson punts 53 yards, returned by Marcus Jones for 15 yards (tackle by K'Von Wallace and Jake Bobo)",-1.9,-1.6,2.0,2024,24
+1,9:49,1.0,10.0,NWE 40,0.0,0.0,Rhamondre Stevenson up the middle for 9 yards (tackle by Boye Mafe and Rayshawn Jenkins),1.6,2.27,2.0,2024,24
+1,9:11,2.0,1.0,NWE 49,0.0,0.0,Jacoby Brissett pass complete short middle to Hunter Henry for 8 yards (tackle by Jerome Baker),2.27,2.72,2.0,2024,24
+1,8:30,1.0,10.0,SEA 43,0.0,0.0,Jacoby Brissett pass complete short right to Hunter Henry for 12 yards (tackle by K'Von Wallace),2.72,3.51,2.0,2024,24
+1,7:41,1.0,10.0,SEA 31,0.0,0.0,Rhamondre Stevenson up the middle for 6 yards (tackle by Boye Mafe),3.51,3.78,2.0,2024,24
+1,7:01,2.0,4.0,SEA 25,0.0,0.0,Antonio Gibson right guard for 2 yards (tackle by Jarran Reed),3.78,3.34,2.0,2024,24
+1,6:18,3.0,2.0,SEA 23,0.0,0.0,Jacoby Brissett pass complete short left to Hunter Henry for 17 yards (tackle by Julian Love and Devon Witherspoon),3.34,5.83,2.0,2024,24
+1,5:33,1.0,6.0,SEA 6,0.0,0.0,Rhamondre Stevenson up the middle for 1 yard (tackle by Jerome Baker and Rayshawn Jenkins),5.83,5.15,2.0,2024,24
+1,5:00,2.0,5.0,SEA 5,0.0,6.0,"Jacoby Brissett pass complete short middle to Ja'Lynn Polk for 5 yards, touchdown",5.15,7.0,2.0,2024,24
+1,4:56,,,SEA 15,0.0,7.0,Joey Slye kicks extra point good,0.0,0.0,2.0,2024,24
+1,4:56,,,NWE 35,0.0,7.0,"Joey Slye kicks off 63 yards, returned by Laviska Shenault for 26 yards (tackle by Raekwon McMillan and Kyle Dugger)",0.0,0.81,2.0,2024,24
+1,4:47,1.0,10.0,SEA 28,0.0,7.0,Geno Smith pass complete short left to Jaxon Smith-Njigba for 5 yards (tackle by Kyle Dugger),0.81,0.94,2.0,2024,24
+1,4:10,2.0,5.0,SEA 33,0.0,7.0,Geno Smith pass complete short left to Jaxon Smith-Njigba for 6 yards (tackle by Marcus Jones),0.94,1.53,2.0,2024,24
+1,3:35,1.0,10.0,SEA 39,0.0,7.0,Zach Charbonnet up the middle for 5 yards (tackle by Jahlani Tavai and Christian Gonzalez),1.53,1.66,2.0,2024,24
+1,2:57,2.0,5.0,SEA 44,6.0,7.0,"Geno Smith pass complete deep left to D.K. Metcalf for 56 yards, touchdown",1.66,7.0,2.0,2024,24
+1,2:50,,,NWE 15,7.0,7.0,Jason Myers kicks extra point good,0.0,0.0,2.0,2024,24
+1,2:50,,,SEA 35,7.0,7.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.94,2.0,2024,24
+1,2:50,1.0,10.0,NWE 30,7.0,7.0,Rhamondre Stevenson right tackle for -4 yards (tackle by Dre'Mont Jones and Derick Hall),0.94,-0.15,2.0,2024,24
+1,2:11,2.0,14.0,NWE 26,7.0,7.0,Jacoby Brissett pass complete short left to Austin Hooper for 5 yards (tackle by Devon Witherspoon and Tyrel Dodson),-0.15,-0.16,2.0,2024,24
+1,1:28,3.0,9.0,NWE 31,7.0,7.0,Jacoby Brissett pass complete short right to Hunter Henry for 10 yards (tackle by Tyrel Dodson),-0.16,1.66,2.0,2024,24
+1,1:00,1.0,10.0,NWE 41,7.0,7.0,Rhamondre Stevenson right guard for 3 yards (tackle by Boye Mafe and Leonard Williams),1.66,1.53,2.0,2024,24
+1,0:33,2.0,7.0,NWE 44,7.0,7.0,Jacoby Brissett pass incomplete short right intended for K.J. Osborn,1.53,0.83,2.0,2024,24
+1,0:30,3.0,7.0,NWE 44,7.0,7.0,Jacoby Brissett pass complete short middle to Hunter Henry for 9 yards (tackle by Julian Love),0.83,2.46,2.0,2024,24
+2,15:00,1.0,10.0,SEA 47,7.0,7.0,Antonio Gibson right tackle for 4 yards (tackle by Riq Woolen and Jarran Reed),2.46,2.45,2.0,2024,24
+2,14:30,2.0,6.0,SEA 43,7.0,7.0,Antonio Gibson right end for 19 yards (tackle by Julian Love),2.45,3.97,2.0,2024,24
+2,13:48,1.0,10.0,SEA 24,7.0,7.0,Jacoby Brissett pass complete short middle to Hunter Henry for 7 yards (tackle by Julian Love),3.97,4.46,2.0,2024,24
+2,13:15,2.0,3.0,SEA 17,7.0,7.0,Ja'Lynn Polk right end for no gain (tackle by Tre Brown),4.46,3.75,2.0,2024,24
+2,12:37,3.0,3.0,SEA 17,7.0,7.0,Antonio Gibson right tackle for 4 yards (tackle by Rayshawn Jenkins),3.75,4.71,2.0,2024,24
+2,12:02,,,,,,Timeout #1 by New England Patriots,,,2.0,2024,24
+2,12:02,1.0,10.0,SEA 13,7.0,7.0,Jacoby Brissett pass incomplete short right intended for Rhamondre Stevenson (defended by Jerome Baker),4.71,4.05,2.0,2024,24
+2,11:56,2.0,10.0,SEA 13,7.0,7.0,Jacoby Brissett pass complete short middle to Rhamondre Stevenson for 2 yards (tackle by Jarran Reed and Tyrice Knight),4.05,3.45,2.0,2024,24
+2,11:14,3.0,8.0,SEA 11,7.0,7.0,Jacoby Brissett pass incomplete short right intended for Hunter Henry,3.45,2.7,2.0,2024,24
+2,11:08,4.0,8.0,SEA 11,7.0,10.0,Joey Slye 29 yard field goal good,2.7,3.0,2.0,2024,24
+2,11:05,,,NWE 35,7.0,10.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.94,2.0,2024,24
+2,11:05,1.0,10.0,SEA 30,7.0,10.0,Zach Charbonnet left tackle for no gain (tackle by Jeremiah Pharms),0.94,0.39,2.0,2024,24
+2,10:29,2.0,10.0,SEA 30,7.0,10.0,Geno Smith pass complete short right to Laviska Shenault for 6 yards (tackle by Kyle Dugger and Raekwon McMillan),0.39,0.5,2.0,2024,24
+2,9:48,3.0,4.0,SEA 36,7.0,10.0,Geno Smith pass complete short left to Jaxon Smith-Njigba for 19 yards (tackle by Kyle Dugger),0.5,2.59,2.0,2024,24
+2,9:22,1.0,10.0,NWE 45,7.0,10.0,Geno Smith pass incomplete deep middle intended for D.K. Metcalf (defended by Deatrich Wise),2.59,2.04,2.0,2024,24
+2,9:16,2.0,10.0,NWE 45,7.0,10.0,Zach Charbonnet left tackle for 5 yards (tackle by Keion White),2.04,2.01,2.0,2024,24
+2,8:35,3.0,5.0,NWE 40,7.0,10.0,Geno Smith pass complete short right to Zach Charbonnet for 4 yards (tackle by Christian Gonzalez),2.01,0.89,2.0,2024,24
+2,8:04,4.0,1.0,NWE 36,7.0,10.0,Geno Smith right guard for 2 yards (tackle by Anfernee Jennings),0.89,3.31,2.0,2024,24
+2,7:17,1.0,10.0,NWE 34,7.0,10.0,Geno Smith pass complete deep right to Jaxon Smith-Njigba for 16 yards (tackle by Marco Wilson),3.31,4.37,2.0,2024,24
+2,6:49,1.0,10.0,NWE 18,7.0,10.0,Zach Charbonnet up the middle for 2 yards (tackle by Davon Godchaux),4.37,4.09,2.0,2024,24
+2,6:11,2.0,8.0,NWE 16,7.0,10.0,"Geno Smith pass complete short left to D.K. Metcalf for 3 yards (tackle by Daniel Ekuale and Raekwon McMillan). Penalty on Laken Tomlinson: Ineligible Downfield Pass, 5 yards (declined)",4.09,3.82,2.0,2024,24
+2,6:09,3.0,5.0,NWE 13,7.0,10.0,"Geno Smith pass incomplete short right intended for Tyler Lockett. Penalty on Marco Wilson: Defensive Pass Interference, 12 yards (accepted) (no play)",3.82,6.97,2.0,2024,24
+2,5:52,1.0,1.0,NWE 1,13.0,10.0,"Zach Charbonnet up the middle for 1 yard, touchdown",6.97,7.0,2.0,2024,24
+2,5:47,,,NWE 15,14.0,10.0,Jason Myers kicks extra point good,0.0,0.0,2.0,2024,24
+2,5:47,,,SEA 35,14.0,10.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.94,2.0,2024,24
+2,5:47,1.0,10.0,NWE 30,14.0,10.0,Rhamondre Stevenson right guard for 1 yard (tackle by Tyrel Dodson and Derick Hall),0.94,0.53,2.0,2024,24
+2,5:13,2.0,9.0,NWE 31,14.0,10.0,"Jacoby Brissett pass incomplete short right intended for Demario Douglas. Penalty on Devon Witherspoon: Defensive Pass Interference, 10 yards (accepted) (no play)",0.53,1.66,2.0,2024,24
+2,5:05,1.0,10.0,NWE 41,14.0,10.0,Jacoby Brissett pass complete short right to Hunter Henry for 35 yards (tackle by Rayshawn Jenkins),1.66,3.97,2.0,2024,24
+2,4:33,1.0,10.0,SEA 24,14.0,10.0,Jacoby Brissett pass incomplete short right intended for Ja'Lynn Polk,3.97,3.43,2.0,2024,24
+2,4:27,2.0,10.0,SEA 24,14.0,10.0,Rhamondre Stevenson right guard for 7 yards (tackle by Tyrice Knight),3.43,3.75,2.0,2024,24
+2,3:48,3.0,3.0,SEA 17,14.0,10.0,"Jacoby Brissett scrambles up the middle for 1 yard (tackle by Jarran Reed and Rayshawn Jenkins). Penalty on Devon Witherspoon: Illegal Contact, 5 yards (accepted)",3.75,4.84,2.0,2024,24
+2,3:36,1.0,10.0,SEA 11,14.0,10.0,Jacoby Brissett pass incomplete short right,4.84,4.14,2.0,2024,24
+2,3:16,2.0,10.0,SEA 11,14.0,10.0,Rhamondre Stevenson up the middle for 1 yard (tackle by Devon Witherspoon and Tyrice Knight),4.14,3.3,2.0,2024,24
+2,2:39,3.0,9.0,SEA 10,14.0,10.0,Jacoby Brissett pass incomplete short right intended for Rhamondre Stevenson,3.3,2.76,2.0,2024,24
+2,2:34,4.0,9.0,SEA 10,14.0,13.0,Joey Slye 28 yard field goal good,2.76,3.0,2.0,2024,24
+2,2:31,,,NWE 35,14.0,13.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.94,2.0,2024,24
+2,2:31,1.0,10.0,SEA 30,14.0,13.0,"Geno Smith pass complete short right to Jaxon Smith-Njigba for 9 yards. Penalty on D.K. Metcalf: Offensive Pass Interference, 10 yards (offset) . Penalty on Christian Gonzalez: Face Mask (15 Yards), 15 yards (offset) (no play)",0.94,0.94,2.0,2024,24
+2,2:08,1.0,10.0,SEA 30,14.0,13.0,"Zach Charbonnet left end for 5 yards (tackle by Jonathan Jones). Penalty on Anthony Bradford: Unnecessary Roughness / Defense, 15 yards (accepted)",0.94,-0.96,2.0,2024,24
+2,2:00,2.0,20.0,SEA 20,14.0,13.0,Geno Smith pass complete short middle to D.K. Metcalf for 10 yards (tackle by Jabrill Peppers),-0.96,-0.3,2.0,2024,24
+2,1:53,3.0,10.0,SEA 30,14.0,13.0,Geno Smith pass complete short right to Zach Charbonnet for 4 yards (tackle by Kyle Dugger and Jonathan Jones),-0.3,-1.11,2.0,2024,24
+2,1:43,,,,,,Timeout #2 by New England Patriots,,,2.0,2024,24
+2,1:43,4.0,6.0,SEA 34,14.0,13.0,Michael Dickson punts 58 yards out of bounds,-1.11,0.38,2.0,2024,24
+2,1:37,1.0,10.0,NWE 8,14.0,13.0,Jamycal Hasty left end for 2 yards (tackle by Boye Mafe and Tyrice Knight),-0.38,-0.63,2.0,2024,24
+2,0:59,2.0,8.0,NWE 10,14.0,13.0,Jacoby Brissett pass incomplete short right intended for Hunter Henry (defended by Julian Love),-0.63,-1.19,2.0,2024,24
+2,0:54,3.0,8.0,NWE 10,14.0,13.0,Jacoby Brissett pass incomplete short right intended for Hunter Henry,-1.19,-2.49,2.0,2024,24
+2,0:41,4.0,8.0,NWE 10,14.0,13.0,"Bryce Baringer punts 64 yards, returned by Dee Williams for 23 yards (tackle by Joe Cardona)",-2.49,-2.19,2.0,2024,24
+2,0:35,1.0,10.0,SEA 49,14.0,13.0,Geno Smith pass complete short middle to Zach Charbonnet for 7 yards (tackle by Josh Uche),2.19,2.59,2.0,2024,24
+2,0:27,2.0,3.0,NWE 44,14.0,13.0,Geno Smith sacked by Kyle Dugger for -4 yards,2.59,1.36,2.0,2024,24
+2,0:23,,,,,,Timeout #1 by Seattle Seahawks,,,2.0,2024,24
+2,0:23,3.0,7.0,NWE 48,14.0,13.0,Geno Smith pass complete short middle to Noah Fant for 14 yards (tackle by Jahlani Tavai),1.36,3.31,2.0,2024,24
+2,0:16,,,,,,Timeout #2 by Seattle Seahawks,,,2.0,2024,24
+2,0:16,1.0,10.0,NWE 34,14.0,13.0,Geno Smith pass complete short middle to D.K. Metcalf for 9 yards (tackle by Kyle Dugger),3.31,3.99,2.0,2024,24
+2,0:07,2.0,1.0,NWE 25,14.0,13.0,Geno Smith spiked the ball,3.99,3.27,2.0,2024,24
+2,0:04,3.0,1.0,NWE 25,17.0,13.0,Jason Myers 44 yard field goal good,3.27,3.0,2.0,2024,24
+3,15:00,,,NWE 35,17.0,13.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.94,2.0,2024,24
+3,15:00,1.0,10.0,SEA 30,17.0,13.0,Geno Smith pass incomplete short middle intended for D.K. Metcalf (defended by Raekwon McMillan),0.94,0.39,2.0,2024,24
+3,14:56,2.0,10.0,SEA 30,17.0,13.0,Geno Smith pass complete short right to D.K. Metcalf for 3 yards (tackle by Jonathan Jones),0.39,0.1,2.0,2024,24
+3,14:08,3.0,7.0,SEA 33,17.0,13.0,Geno Smith pass complete deep middle to Jaxon Smith-Njigba for 24 yards (tackle by Keion White and Christian Gonzalez),0.1,2.72,2.0,2024,24
+3,13:54,,,,,,Timeout #1 by New England Patriots,,,2.0,2024,24
+3,13:54,1.0,10.0,NWE 43,17.0,13.0,Geno Smith pass complete short middle to Jake Bobo for 9 yards (tackle by Raekwon McMillan and Jahlani Tavai),2.72,3.39,2.0,2024,24
+3,13:30,2.0,1.0,NWE 34,17.0,13.0,Zach Charbonnet up the middle for no gain (tackle by Jabrill Peppers and Anfernee Jennings),3.39,2.68,2.0,2024,24
+3,12:57,3.0,1.0,NWE 34,17.0,13.0,Geno Smith up the middle for 2 yards (tackle by Anfernee Jennings and Keion White),2.68,3.45,2.0,2024,24
+3,12:14,1.0,10.0,NWE 32,17.0,13.0,Geno Smith pass complete short right to D.K. Metcalf for no gain (tackle by Christian Gonzalez and Jabrill Peppers),3.45,2.9,2.0,2024,24
+3,11:32,2.0,10.0,NWE 32,17.0,13.0,"Penalty on Anthony Bradford: False Start, 5 yards (accepted) (no play)",2.9,2.23,2.0,2024,24
+3,11:11,2.0,15.0,NWE 37,17.0,13.0,Geno Smith pass incomplete deep left intended for Jaxon Smith-Njigba (defended by Marcus Jones),2.23,1.55,2.0,2024,24
+3,11:05,3.0,15.0,NWE 37,17.0,13.0,Geno Smith pass complete short middle to Jaxon Smith-Njigba for 14 yards (tackle by Marcus Jones and Jabrill Peppers),1.55,2.08,2.0,2024,24
+3,10:27,4.0,1.0,NWE 23,17.0,13.0,Zach Charbonnet left guard for -1 yards (tackle by Kyle Dugger),2.08,-0.61,2.0,2024,24
+3,10:21,1.0,10.0,NWE 25,17.0,13.0,Jacoby Brissett scrambles left end for 5 yards (tackle by Rayshawn Jenkins),0.61,0.74,2.0,2024,24
+3,9:52,2.0,5.0,NWE 30,17.0,13.0,"Rhamondre Stevenson left end for no gain (tackle by K'Von Wallace). Penalty on Vederian Lowe: Offensive Holding, 10 yards (accepted) (no play)",0.74,-0.61,2.0,2024,24
+3,9:31,2.0,15.0,NWE 20,17.0,13.0,Rhamondre Stevenson up the middle for 12 yards (tackle by Devon Witherspoon and Rayshawn Jenkins),-0.61,0.3,2.0,2024,24
+3,8:34,3.0,3.0,NWE 32,17.0,13.0,Rhamondre Stevenson up the middle for 2 yards (tackle by Rayshawn Jenkins and Leonard Williams),0.3,-1.11,2.0,2024,24
+3,8:06,4.0,1.0,NWE 34,17.0,13.0,"Bryce Baringer punts 56 yards, fair catch by Dee Williams at SEA-10",-1.11,0.38,2.0,2024,24
+3,7:35,1.0,10.0,SEA 10,17.0,13.0,Zach Charbonnet up the middle for 3 yards (tackle by Raekwon McMillan and Jeremiah Pharms),-0.38,-0.56,2.0,2024,24
+3,6:56,2.0,7.0,SEA 13,17.0,13.0,Geno Smith pass incomplete short middle intended for D.K. Metcalf,-0.56,-1.07,2.0,2024,24
+3,6:51,3.0,7.0,SEA 13,17.0,13.0,Geno Smith pass incomplete short middle intended for Noah Fant,-1.07,-2.49,2.0,2024,24
+3,6:48,4.0,7.0,SEA 13,17.0,13.0,"Michael Dickson punts 57 yards, returned by Marcus Jones for 9 yards (tackle by K'Von Wallace)",-2.49,-1.53,2.0,2024,24
+3,6:36,1.0,10.0,NWE 39,17.0,13.0,Jacoby Brissett pass incomplete short middle,1.53,0.99,2.0,2024,24
+3,6:30,2.0,10.0,NWE 39,17.0,13.0,Jacoby Brissett pass incomplete short middle,0.99,0.3,2.0,2024,24
+3,6:25,3.0,10.0,NWE 39,17.0,13.0,Jacoby Brissett sacked by Leonard Williams for -6 yards,0.3,-1.18,2.0,2024,24
+3,5:45,4.0,16.0,NWE 33,17.0,13.0,"Bryce Baringer punts 67 yards, touchback.",-1.18,-0.28,2.0,2024,24
+3,5:36,1.0,10.0,SEA 20,17.0,13.0,Geno Smith pass incomplete deep left intended for D.K. Metcalf (defended by Christian Gonzalez),0.28,-0.27,2.0,2024,24
+3,5:29,2.0,10.0,SEA 20,17.0,13.0,Zach Charbonnet left end for no gain (tackle by Anfernee Jennings and Deatrich Wise),-0.27,-0.96,2.0,2024,24
+3,4:49,3.0,10.0,SEA 20,17.0,13.0,Geno Smith pass complete short right to Jake Bobo for 6 yards (tackle by Marcus Jones),-0.96,-1.63,2.0,2024,24
+3,4:11,4.0,4.0,SEA 26,17.0,13.0,"Michael Dickson punts 40 yards, fair catch by Marcus Jones at NE-34",-1.63,-1.2,2.0,2024,24
+3,4:03,1.0,10.0,NWE 34,17.0,13.0,Rhamondre Stevenson left tackle for 18 yards (tackle by K'Von Wallace and Devon Witherspoon),1.2,2.39,2.0,2024,24
+3,3:21,1.0,10.0,SEA 48,17.0,13.0,Rhamondre Stevenson right tackle for 7 yards (tackle by Julian Love),2.39,2.79,2.0,2024,24
+3,2:46,2.0,3.0,SEA 41,17.0,13.0,Antonio Gibson left guard for -1 yards (tackle by Byron Murphy),2.79,1.95,2.0,2024,24
+3,2:01,3.0,4.0,SEA 42,17.0,13.0,Jacoby Brissett pass complete short left to Antonio Gibson for 7 yards (tackle by Tyrice Knight),1.95,3.25,2.0,2024,24
+3,1:30,1.0,10.0,SEA 35,17.0,13.0,Antonio Gibson left tackle for 9 yards (tackle by Julian Love),3.25,3.92,2.0,2024,24
+3,0:52,2.0,1.0,SEA 26,17.0,13.0,Antonio Gibson right end for 4 yards (tackle by Devon Witherspoon),3.92,4.11,2.0,2024,24
+3,0:08,1.0,10.0,SEA 22,17.0,13.0,Jacoby Brissett pass complete short right to Hunter Henry for 11 yards (tackle by Tyrel Dodson and Byron Murphy),4.11,4.84,2.0,2024,24
+4,15:00,1.0,10.0,SEA 11,17.0,13.0,Rhamondre Stevenson right guard for 5 yards (tackle by Johnathan Hankins),4.84,5.08,2.0,2024,24
+4,14:03,2.0,5.0,SEA 6,17.0,13.0,"Rhamondre Stevenson up the middle for 3 yards. Rhamondre Stevenson fumbles (forced by Tyrel Dodson), recovered by Michael Onwenu at SEA-3",5.08,4.89,2.0,2024,24
+4,13:30,,,,,,Timeout #2 by New England Patriots,,,2.0,2024,24
+4,13:30,3.0,2.0,SEA 3,17.0,13.0,Rhamondre Stevenson right guard for 2 yards (tackle by Byron Murphy and Tyrice Knight),4.89,6.97,2.0,2024,24
+4,12:46,1.0,1.0,SEA 1,17.0,19.0,"Rhamondre Stevenson left guard for 1 yard, touchdown",6.97,7.0,2.0,2024,24
+4,12:43,,,SEA 15,17.0,20.0,Joey Slye kicks extra point good,0.0,0.0,2.0,2024,24
+4,12:43,,,NWE 35,17.0,20.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.94,2.0,2024,24
+4,12:43,1.0,10.0,SEA 30,17.0,20.0,Geno Smith pass complete short right to Jaxon Smith-Njigba for 6 yards (tackle by Jonathan Jones),0.94,1.2,2.0,2024,24
+4,12:05,2.0,4.0,SEA 36,17.0,20.0,Geno Smith scrambles right end for 5 yards (tackle by Jahlani Tavai),1.2,1.66,2.0,2024,24
+4,11:22,1.0,10.0,SEA 41,17.0,20.0,"Geno Smith pass complete short right to Noah Fant for no gain. Penalty on AJ Barner: Offensive Holding, 10 yards (accepted) (no play)",1.66,1.0,2.0,2024,24
+4,11:16,1.0,20.0,SEA 31,17.0,20.0,Geno Smith pass incomplete deep left intended for Jaxon Smith-Njigba,1.0,-0.23,2.0,2024,24
+4,10:47,,,,,,Timeout #1 by Seattle Seahawks,,,2.0,2024,24
+4,10:47,2.0,20.0,SEA 31,17.0,20.0,Geno Smith sacked by Keion White for -7 yards,-0.23,-1.81,2.0,2024,24
+4,10:05,3.0,27.0,SEA 24,17.0,20.0,Geno Smith pass complete short middle to D.K. Metcalf for 15 yards (tackle by Jabrill Peppers and Keion White),-1.81,-0.78,2.0,2024,24
+4,9:19,4.0,13.0,SEA 39,17.0,20.0,"Michael Dickson punts 61 yards, touchback.",-0.78,-0.28,2.0,2024,24
+4,9:09,1.0,10.0,NWE 20,17.0,20.0,Antonio Gibson left tackle for 3 yards (tackle by Tyrel Dodson),0.28,0.14,2.0,2024,24
+4,8:31,2.0,7.0,NWE 23,17.0,20.0,Antonio Gibson right guard for 9 yards (tackle by Rayshawn Jenkins),0.14,1.07,2.0,2024,24
+4,7:49,1.0,10.0,NWE 32,17.0,20.0,Antonio Gibson left guard for -2 yards (tackle by Johnathan Hankins),1.07,0.26,2.0,2024,24
+4,7:11,2.0,12.0,NWE 30,17.0,20.0,Antonio Gibson left end for 45 yards (tackle by Devon Witherspoon),0.26,3.91,2.0,2024,24
+4,6:15,1.0,10.0,SEA 25,17.0,20.0,Rhamondre Stevenson right tackle for 2 yards (tackle by Jarran Reed),3.91,3.63,2.0,2024,24
+4,5:26,2.0,8.0,SEA 23,17.0,20.0,Rhamondre Stevenson up the middle for 2 yards (tackle by Tyrice Knight and Rayshawn Jenkins),3.63,3.2,2.0,2024,24
+4,4:46,3.0,6.0,SEA 21,17.0,20.0,Jacoby Brissett sacked by and Byron Murphy for -9 yards and Leonard Williams for -9 yards,3.2,1.41,2.0,2024,24
+4,3:59,4.0,15.0,SEA 30,17.0,20.0,Joey Slye 48 yard field goal no good blocked by Julian Love,1.41,-1.47,2.0,2024,24
+4,3:54,1.0,10.0,SEA 38,17.0,20.0,Zach Charbonnet up the middle for 2 yards (tackle by Daniel Ekuale and Keion White),1.47,1.19,2.0,2024,24
+4,3:11,2.0,8.0,SEA 40,17.0,20.0,Geno Smith pass complete short middle to Jaxon Smith-Njigba for 7 yards (tackle by Anfernee Jennings),1.19,1.42,2.0,2024,24
+4,2:34,3.0,1.0,SEA 47,17.0,20.0,Zach Charbonnet up the middle for 6 yards (tackle by Daniel Ekuale),1.42,2.46,2.0,2024,24
+4,2:08,1.0,10.0,NWE 47,17.0,20.0,Geno Smith pass complete short middle to Zach Charbonnet for 9 yards (tackle by Raekwon McMillan),2.46,3.13,2.0,2024,24
+4,2:00,2.0,1.0,NWE 38,17.0,20.0,Geno Smith pass complete short right to D.K. Metcalf for 14 yards,3.13,3.97,2.0,2024,24
+4,1:54,1.0,10.0,NWE 24,17.0,20.0,Geno Smith pass incomplete short right intended for Noah Fant,3.97,3.43,2.0,2024,24
+4,1:43,2.0,10.0,NWE 24,17.0,20.0,"Geno Smith pass complete short right to D.K. Metcalf for 9 yards (tackle by Jonathan Jones) Replay Assistant challenged the short of the line to gain ruling, and the play was upheld.",3.43,4.17,2.0,2024,24
+4,1:43,3.0,1.0,NWE 15,17.0,20.0,Geno Smith up the middle for no gain (tackle by Raekwon McMillan and Anfernee Jennings),4.17,2.59,2.0,2024,24
+4,0:58,,,,,,Timeout #2 by Seattle Seahawks,,,2.0,2024,24
+4,0:58,4.0,1.0,NWE 15,17.0,20.0,"Penalty on Geno Smith: Delay of Game, 5 yards (accepted) (no play)",2.59,2.15,2.0,2024,24
+4,0:58,4.0,6.0,NWE 20,20.0,20.0,Jason Myers 38 yard field goal good,2.15,3.0,2.0,2024,24
+4,0:55,,,SEA 35,20.0,20.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.94,2.0,2024,24
+4,0:55,1.0,10.0,NWE 30,20.0,20.0,Jacoby Brissett pass incomplete short middle intended for Rhamondre Stevenson,0.94,0.39,2.0,2024,24
+4,0:49,2.0,10.0,NWE 30,20.0,20.0,Jacoby Brissett pass complete short left to Ja'Lynn Polk for 7 yards (tackle by Riq Woolen),0.39,0.63,2.0,2024,24
+4,0:34,3.0,3.0,NWE 37,20.0,20.0,Jacoby Brissett pass incomplete short left intended for Hunter Henry,0.63,-0.91,2.0,2024,24
+4,0:25,4.0,3.0,NWE 37,20.0,20.0,"Bryce Baringer punts 54 yards, returned by Dee Williams for 15 yards (tackle by Jaylinn Hawkins and Christian Elliss)",-0.91,-0.54,2.0,2024,24
+4,0:15,,,,,,Timeout #3 by New England Patriots,,,2.0,2024,24
+4,0:15,,,,,,Timeout #3 by Seattle Seahawks,,,2.0,2024,24
+4,0:15,1.0,10.0,SEA 24,20.0,20.0,Geno Smith kneels for -1 yards,0.54,0.0,2.0,2024,24
+,,,,,,,"Patriots won the coin toss, Patriots to receive the overtime kickoff.",,,2.0,2024,24
+OT,10:00,,,SEA 35,20.0,20.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.94,2.0,2024,24
+OT,10:00,1.0,10.0,NWE 30,20.0,20.0,Rhamondre Stevenson left guard for 2 yards (tackle by Johnathan Hankins),0.94,0.66,2.0,2024,24
+OT,9:20,2.0,8.0,NWE 32,20.0,20.0,Jacoby Brissett pass complete short right to K.J. Osborn for 7 yards (tackle by Riq Woolen),0.66,0.89,2.0,2024,24
+OT,8:37,3.0,1.0,NWE 39,20.0,20.0,"Rhamondre Stevenson up the middle for no gain (tackle by Tyrel Dodson and Jarran Reed). Penalty on Caedan Wallace: Illegal Formation, 5 yards (declined)",0.89,-0.78,2.0,2024,24
+OT,8:18,4.0,1.0,NWE 39,20.0,20.0,"Bryce Baringer punts 45 yards, fair catch by Dee Williams at SEA-16",-0.78,0.14,2.0,2024,24
+OT,8:12,1.0,10.0,SEA 16,20.0,20.0,Geno Smith pass complete short right to Jaxon Smith-Njigba for 5 yards (tackle by Marcus Jones),-0.14,0.15,2.0,2024,24
+OT,7:37,2.0,5.0,SEA 21,20.0,20.0,Geno Smith pass complete short right to D.K. Metcalf for 10 yards (tackle by Christian Gonzalez),0.15,1.0,2.0,2024,24
+OT,7:00,1.0,10.0,SEA 31,20.0,20.0,"Geno Smith pass incomplete deep left intended for Tyler Lockett. Penalty on Jonathan Jones: Defensive Pass Interference, 20 yards (accepted) (no play)",1.0,2.32,2.0,2024,24
+OT,6:55,1.0,10.0,NWE 49,20.0,20.0,Geno Smith pass complete short right to Jaxon Smith-Njigba for 4 yards (tackle by Marcus Jones),2.32,2.32,2.0,2024,24
+OT,6:19,,,,,,Timeout #1 by New England Patriots,,,2.0,2024,24
+OT,6:19,2.0,6.0,NWE 45,20.0,20.0,Geno Smith pass incomplete deep left intended for Jaxon Smith-Njigba,2.32,1.62,2.0,2024,24
+OT,6:14,3.0,6.0,NWE 45,20.0,20.0,Geno Smith pass complete short left to Zach Charbonnet for 7 yards (tackle by Christian Gonzalez),1.62,3.05,2.0,2024,24
+OT,5:24,1.0,10.0,NWE 38,20.0,20.0,Geno Smith pass complete short left to Tyler Lockett for 16 yards (tackle by Jonathan Jones),3.05,4.11,2.0,2024,24
+OT,4:48,1.0,10.0,NWE 22,20.0,20.0,"Zach Charbonnet left end for 9 yards (tackle by Jonathan Jones and Marcus Jones) Replay Assistant challenged the short of the line to gain ruling, and the play was upheld.",4.11,5.06,2.0,2024,24
+OT,4:41,2.0,1.0,NWE 13,23.0,20.0,Jason Myers 31 yard field goal good,5.06,3.0,2.0,2024,24

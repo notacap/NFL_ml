@@ -1,0 +1,42 @@
+Player,Tm,Def Interceptions Int,Def Interceptions Yds,Def Interceptions TD,Def Interceptions Lng,Def Interceptions PD,Sk,Tackles Comb,Tackles Solo,Tackles Ast,Tackles TFL,Tackles QBHits,Fumbles FR,Fumbles Yds,Fumbles TD,Fumbles FF,week,year,game_id
+Jack Sanborn,CHI,1,42,0,42,1,0.0,3,1,2,0,0,0,0,0,0,3.0,2023,44
+Quindell Johnson,CHI,1,0,0,0,1,0.0,1,0,1,0,0,0,0,0,0,3.0,2023,44
+T.J. Edwards,CHI,0,0,0,0,0,0.0,17,6,11,2,0,0,0,0,0,3.0,2023,44
+Terell Smith,CHI,0,0,0,0,1,0.0,10,7,3,1,0,0,0,0,0,3.0,2023,44
+Tremaine Edmunds,CHI,0,0,0,0,0,0.0,8,4,4,0,0,0,0,0,0,3.0,2023,44
+Jaquan Brisker,CHI,0,0,0,0,0,0.0,7,4,3,0,0,0,0,0,0,3.0,2023,44
+Jaylon Jones,CHI,0,0,0,0,0,0.0,6,5,1,1,0,0,0,0,0,3.0,2023,44
+Noah Sewell,CHI,0,0,0,0,0,0.0,4,1,3,0,0,0,0,0,0,3.0,2023,44
+Greg Stroman,CHI,0,0,0,0,0,0.0,4,2,2,0,0,0,0,0,0,3.0,2023,44
+Andrew Billings,CHI,0,0,0,0,0,0.0,3,1,2,0,0,0,0,0,0,3.0,2023,44
+Gervon Dexter,CHI,0,0,0,0,0,0.0,3,3,0,0,1,0,0,0,0,3.0,2023,44
+Elijah Hicks,CHI,0,0,0,0,0,0.0,3,2,1,0,0,0,0,0,0,3.0,2023,44
+Dominique Robinson,CHI,0,0,0,0,0,0.0,3,2,1,1,0,0,0,0,0,3.0,2023,44
+Josh Blackwell,CHI,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,3.0,2023,44
+Jaylon Johnson,CHI,0,0,0,0,1,0.0,2,2,0,1,0,0,0,0,0,3.0,2023,44
+Justin Jones,CHI,0,0,0,0,0,0.0,2,1,1,0,1,0,0,0,0,3.0,2023,44
+Yannick Ngakoue,CHI,0,0,0,0,0,0.0,2,1,1,0,2,0,0,0,0,3.0,2023,44
+Zacch Pickens,CHI,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,3.0,2023,44
+Tyrique Stevenson,CHI,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,3.0,2023,44
+Rasheem Green,CHI,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,3.0,2023,44
+Velus Jones Jr.,CHI,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,3.0,2023,44
+DeMarcus Walker,CHI,0,0,0,0,0,0.0,0,0,0,0,1,0,0,0,0,3.0,2023,44
+Mike Edwards,KAN,1,16,0,16,1,0.0,1,0,1,0,0,0,0,0,0,3.0,2023,44
+Michael Danna,KAN,0,0,0,0,0,1.0,3,3,0,1,1,0,0,0,0,3.0,2023,44
+Chris Jones,KAN,0,0,0,0,0,1.0,1,1,0,1,1,0,0,0,0,3.0,2023,44
+Drue Tranquill,KAN,0,0,0,0,0,0.5,8,4,4,0,1,0,0,0,0,3.0,2023,44
+George Karlaftis III,KAN,0,0,0,0,0,0.5,2,1,1,0,1,0,0,0,0,3.0,2023,44
+Trent McDuffie,KAN,0,0,0,0,0,0.0,5,3,2,0,0,0,0,0,1,3.0,2023,44
+Leo Chenal,KAN,0,0,0,0,0,0.0,4,3,1,0,1,0,0,0,0,3.0,2023,44
+Bryan Cook,KAN,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0,3.0,2023,44
+Felix Anudike-Uzomah,KAN,0,0,0,0,0,0.0,3,2,1,0,0,0,0,0,0,3.0,2023,44
+Jack Cochrane,KAN,0,0,0,0,0,0.0,3,1,2,0,0,0,0,0,0,3.0,2023,44
+Malik Herring,KAN,0,0,0,0,0,0.0,3,1,2,0,0,0,0,0,0,3.0,2023,44
+Derrick Nnadi,KAN,0,0,0,0,0,0.0,3,1,2,0,0,0,0,0,0,3.0,2023,44
+Willie Gay Jr.,KAN,0,0,0,0,0,0.0,2,1,1,0,0,1,0,0,0,3.0,2023,44
+Justin Reid,KAN,0,0,0,0,1,0.0,2,1,1,0,0,0,0,0,0,3.0,2023,44
+Joshua Williams,KAN,0,0,0,0,1,0.0,2,2,0,0,0,0,0,0,0,3.0,2023,44
+Chamarri Conner,KAN,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,3.0,2023,44
+L'Jarius Sneed,KAN,0,0,0,0,0,0.0,1,1,0,1,0,0,0,0,0,3.0,2023,44
+Jaylen Watson,KAN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,3.0,2023,44
+Tershawn Wharton,KAN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,3.0,2023,44

@@ -1,0 +1,152 @@
+Quarter,Time,Down,ToGo,Location,CIN,TEN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Bengals won the coin toss, Bengals to receive the opening kickoff.",,,4.0,2023,54
+1.0,15:00,,,TEN 35,0.0,0.0,"Nick Folk kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,54
+1.0,15:00,1.0,10.0,CIN 25,0.0,0.0,Joe Burrow pass complete short right to Ja'Marr Chase for 9 yards (tackle by Sean Murphy-Bunting and Denico Autry),0.61,1.28,4.0,2023,54
+1.0,14:26,2.0,1.0,CIN 34,0.0,0.0,Joe Burrow scrambles up the middle for 1 yard (tackle by Jack Gibbens),1.28,1.27,4.0,2023,54
+1.0,13:42,1.0,10.0,CIN 35,0.0,0.0,Joe Mixon up the middle for 8 yards (tackle by Jeffery Simmons),1.27,1.8,4.0,2023,54
+1.0,13:10,2.0,2.0,CIN 43,0.0,0.0,Joe Mixon left guard for 11 yards (tackle by Amani Hooker),1.8,2.52,4.0,2023,54
+1.0,12:30,1.0,10.0,TEN 46,0.0,0.0,Joe Burrow pass complete short right to Tee Higgins for 9 yards (tackle by Sean Murphy-Bunting and Azeez Al-Shaair),2.52,3.19,4.0,2023,54
+1.0,11:49,2.0,1.0,TEN 37,0.0,0.0,Joe Burrow pass complete short left to Ja'Marr Chase for 17 yards (tackle by Jack Gibbens),3.19,4.24,4.0,2023,54
+1.0,11:17,1.0,10.0,TEN 20,0.0,0.0,Joe Burrow pass complete short left to Tee Higgins for 10 yards (tackle by Roger McCreary),4.24,4.91,4.0,2023,54
+1.0,10:42,1.0,10.0,TEN 10,0.0,0.0,Joe Mixon left guard for 4 yards (tackle by Jack Gibbens and Azeez Al-Shaair),4.91,4.95,4.0,2023,54
+1.0,10:00,2.0,6.0,TEN 6,0.0,0.0,Joe Burrow pass incomplete short left intended for Tee Higgins (defended by Amani Hooker),4.95,4.04,4.0,2023,54
+1.0,9:56,,,,,,Timeout #1 by Cincinnati Bengals,,,4.0,2023,54
+1.0,9:56,3.0,6.0,TEN 6,0.0,0.0,Joe Mixon up the middle for 3 yards (tackle by Azeez Al-Shaair),4.04,3.04,4.0,2023,54
+1.0,9:15,4.0,3.0,TEN 3,3.0,0.0,Evan McPherson 21 yard field goal good,3.04,3.0,4.0,2023,54
+1.0,9:12,,,CIN 35,3.0,0.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,54
+1.0,9:12,1.0,10.0,TEN 25,3.0,0.0,Derrick Henry right tackle for 3 yards (tackle by Cam Taylor-Britt and Nick Scott),0.61,0.47,4.0,2023,54
+1.0,8:30,2.0,7.0,TEN 28,3.0,0.0,Ryan Tannehill pass complete short right to Tyjae Spears for 6 yards (tackle by Nick Scott),0.47,0.56,4.0,2023,54
+1.0,8:06,3.0,1.0,TEN 34,3.0,0.0,Derrick Henry left tackle for 2 yards (tackle by Trey Hendrickson),0.56,1.33,4.0,2023,54
+1.0,7:27,1.0,10.0,TEN 36,3.0,0.0,Derrick Henry left end for 11 yards (tackle by Daxton Hill),1.33,2.06,4.0,2023,54
+1.0,6:47,1.0,10.0,TEN 47,3.0,0.0,Tyjae Spears right guard for 8 yards (tackle by Chidobe Awuzie),2.06,2.6,4.0,2023,54
+1.0,6:10,2.0,2.0,CIN 45,3.0,0.0,Ryan Tannehill pass incomplete deep left intended for DeAndre Hopkins,2.6,1.88,4.0,2023,54
+1.0,6:00,3.0,2.0,CIN 45,3.0,0.0,Ryan Tannehill pass incomplete deep left intended for Chris Moore,1.88,0.27,4.0,2023,54
+1.0,5:55,4.0,2.0,CIN 45,3.0,0.0,Ryan Tannehill pass complete short middle to Tyjae Spears for 3 yards (tackle by Germaine Pratt),0.27,2.79,4.0,2023,54
+1.0,5:15,1.0,10.0,CIN 42,3.0,0.0,Ryan Tannehill scrambles up the middle for 7 yards (tackle by Germaine Pratt),2.79,3.19,4.0,2023,54
+1.0,4:37,2.0,3.0,CIN 35,3.0,0.0,Derrick Henry right end for 2 yards (tackle by Logan Wilson),3.19,2.74,4.0,2023,54
+1.0,4:12,3.0,1.0,CIN 33,3.0,0.0,Derrick Henry up the middle for 2 yards (tackle by Sam Hubbard),2.74,3.51,4.0,2023,54
+1.0,3:31,1.0,10.0,CIN 31,3.0,0.0,Derrick Henry right guard for 1 yard (tackle by Sam Hubbard and Trey Hendrickson),3.51,3.1,4.0,2023,54
+1.0,2:49,2.0,9.0,CIN 30,3.0,0.0,Ryan Tannehill pass complete short left to Nick Westbrook-Ikhine for 6 yards (tackle by Mike Hilton),3.1,3.2,4.0,2023,54
+1.0,2:08,3.0,3.0,CIN 24,3.0,0.0,Ryan Tannehill sacked by and B.J. Hill for -11 yards and Trey Hendrickson for -11 yards,3.2,0.97,4.0,2023,54
+1.0,1:27,4.0,14.0,CIN 35,3.0,3.0,Nick Folk 53 yard field goal good,0.97,3.0,4.0,2023,54
+1.0,1:24,,,TEN 35,3.0,3.0,"Nick Folk kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,54
+1.0,1:24,1.0,10.0,CIN 25,3.0,3.0,Joe Mixon left tackle for 7 yards (tackle by Kristian Fulton),0.61,1.01,4.0,2023,54
+1.0,0:47,2.0,3.0,CIN 32,3.0,3.0,Joe Burrow pass incomplete short left intended for Ja'Marr Chase,1.01,0.3,4.0,2023,54
+1.0,0:43,3.0,3.0,CIN 32,3.0,3.0,"Joe Burrow pass incomplete intended for Tyler Boyd. Penalty on Roger McCreary: Defensive Pass Interference, 2 yards (accepted) (no play)",0.3,1.2,4.0,2023,54
+1.0,0:39,1.0,10.0,CIN 34,3.0,3.0,Joe Burrow pass incomplete short left intended for Tee Higgins (defended by Kristian Fulton),1.2,0.66,4.0,2023,54
+1.0,0:33,2.0,10.0,CIN 34,3.0,3.0,Joe Burrow pass complete short left to Ja'Marr Chase for 12 yards (tackle by Azeez Al-Shaair),0.66,1.99,4.0,2023,54
+1.0,0:00,1.0,10.0,CIN 46,3.0,3.0,"Joe Mixon for no gain. Penalty on Arden Key: Defensive Offside, 5 yards (accepted) (no play)",1.99,2.72,4.0,2023,54
+2.0,15:00,1.0,5.0,TEN 49,3.0,3.0,"Penalty on Joe Mixon: Unsportsmanlike Conduct / Offense, 15 yards (offset) Penalty on Jeffery Simmons: Unsportsmanlike Conduct / Defense, 15 yards (offset) (no play)",2.72,2.72,4.0,2023,54
+2.0,15:00,1.0,5.0,TEN 49,3.0,3.0,"Joe Burrow sacked by Azeez Al-Shaair for no gain. Joe Burrow fumbles (forced by Azeez Al-Shaair), recovered by Azeez Al-Shaair at TEN-41 Replay Assistant challenged the fumble ruling, and the original play was overturned. Joe Burrow pass incomplete short right (defended by Azeez Al-Shaair)",2.72,2.13,4.0,2023,54
+2.0,14:54,2.0,5.0,TEN 49,3.0,3.0,Joe Mixon left end for -2 yards (tackle by Rashad Weaver and Harold Landry),2.13,1.16,4.0,2023,54
+2.0,14:14,3.0,7.0,CIN 49,3.0,3.0,Joe Burrow sacked by and Jeffery Simmons for -8 yards and Denico Autry for -8 yards,1.16,-0.65,4.0,2023,54
+2.0,13:35,4.0,15.0,CIN 41,3.0,3.0,"Brad Robbins punts 49 yards, returned by Mason Kinsey for 21 yards (tackle by Trayveon Williams). Penalty on Tycen Anderson: Illegal Block Above the Waist, 10 yards (accepted)",-0.65,-1.66,4.0,2023,54
+2.0,13:24,1.0,10.0,TEN 41,3.0,3.0,Derrick Henry up the middle for 1 yard (tackle by Germaine Pratt),1.66,1.26,4.0,2023,54
+2.0,12:47,2.0,9.0,TEN 42,3.0,3.0,"Penalty on Nick Westbrook-Ikhine: False Start, 5 yards (accepted) (no play)",1.26,0.58,4.0,2023,54
+2.0,12:30,2.0,14.0,TEN 37,3.0,3.0,Ryan Tannehill pass incomplete short right intended for Tyjae Spears,0.58,-0.1,4.0,2023,54
+2.0,12:27,3.0,14.0,TEN 37,3.0,3.0,Ryan Tannehill pass complete short middle to Chigoziem Okonkwo for 6 yards (tackle by Cam Taylor-Britt),-0.1,-0.52,4.0,2023,54
+2.0,11:45,4.0,8.0,TEN 43,3.0,3.0,"Ryan Stonehouse punts 48 yards, fair catch by Trenton Irwin at CIN-9",-0.52,0.38,4.0,2023,54
+2.0,11:38,1.0,10.0,CIN 9,3.0,3.0,Joe Mixon up the middle for 13 yards (tackle by Kevin Byard),-0.38,0.41,4.0,2023,54
+2.0,11:00,1.0,10.0,CIN 22,3.0,3.0,Joe Mixon right tackle for 2 yards (tackle by Kyle Peko and Jack Gibbens),0.41,0.14,4.0,2023,54
+2.0,10:22,2.0,8.0,CIN 24,3.0,3.0,Trayveon Williams right tackle for 4 yards (tackle by Azeez Al-Shaair and Denico Autry),0.14,-0.03,4.0,2023,54
+2.0,9:41,3.0,4.0,CIN 28,3.0,3.0,Joe Burrow pass incomplete short left intended for Tyler Boyd (defended by Azeez Al-Shaair),-0.03,-1.5,4.0,2023,54
+2.0,9:35,4.0,4.0,CIN 28,3.0,3.0,"Brad Robbins punts 62 yards, returned by Mason Kinsey for 12 yards (tackle by Mitchell Wilcox)",-1.5,-0.41,4.0,2023,54
+2.0,9:25,1.0,10.0,TEN 22,3.0,3.0,Derrick Henry left guard for 5 yards (tackle by Nick Scott),0.41,0.54,4.0,2023,54
+2.0,8:43,2.0,5.0,TEN 27,3.0,3.0,Ryan Tannehill sacked by Myles Murphy for -2 yards,0.54,-0.43,4.0,2023,54
+2.0,7:58,3.0,7.0,TEN 25,3.0,3.0,Ryan Tannehill pass complete deep right to DeAndre Hopkins for 38 yards (tackle by Cam Taylor-Britt),-0.43,3.12,4.0,2023,54
+2.0,7:20,1.0,10.0,CIN 37,3.0,3.0,Ryan Tannehill pass complete short middle to Josh Whyle for 24 yards (tackle by Nick Scott and Daxton Hill),3.12,4.71,4.0,2023,54
+2.0,6:36,1.0,10.0,CIN 13,3.0,9.0,"Ryan Tannehill pass complete short right to Nick Westbrook-Ikhine for 13 yards, touchdown",4.71,7.0,4.0,2023,54
+2.0,6:31,,,CIN 15,3.0,10.0,Nick Folk kicks extra point good,0.0,0.0,4.0,2023,54
+2.0,6:31,,,TEN 35,3.0,10.0,"Nick Folk kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,54
+2.0,6:31,1.0,10.0,CIN 25,3.0,10.0,Joe Burrow pass incomplete short left intended for Ja'Marr Chase (defended by Jack Gibbens),0.61,0.06,4.0,2023,54
+2.0,6:29,2.0,10.0,CIN 25,3.0,10.0,Joe Burrow pass incomplete deep right,0.06,-0.62,4.0,2023,54
+2.0,6:23,3.0,10.0,CIN 25,3.0,10.0,Joe Burrow pass complete short left to Drew Sample for -1 yards (tackle by Roger McCreary),-0.62,-1.77,4.0,2023,54
+2.0,5:47,4.0,11.0,CIN 24,3.0,10.0,"Brad Robbins punts 53 yards, returned by Mason Kinsey for 4 yards (tackle by Tycen Anderson and Andrei Iosivas)",-1.77,-0.74,4.0,2023,54
+2.0,5:39,1.0,10.0,TEN 27,3.0,10.0,Ryan Tannehill pass incomplete deep right intended for Chris Moore,0.74,0.2,4.0,2023,54
+2.0,5:34,2.0,10.0,TEN 27,3.0,10.0,"Ryan Tannehill aborted snap, recovered by Tyjae Spears at TEN-23 Tyjae Spears for 22 yards (tackle by Daxton Hill)",0.2,2.19,4.0,2023,54
+2.0,4:48,1.0,10.0,TEN 49,3.0,10.0,Ryan Tannehill pass complete deep middle to Nick Westbrook-Ikhine for 22 yards (tackle by Logan Wilson),2.19,3.64,4.0,2023,54
+2.0,4:06,1.0,10.0,CIN 29,3.0,16.0,"Derrick Henry left guard for 29 yards, touchdown",3.64,7.0,4.0,2023,54
+2.0,3:58,,,CIN 15,3.0,17.0,Nick Folk kicks extra point good,0.0,0.0,4.0,2023,54
+2.0,3:58,,,TEN 35,3.0,17.0,"Nick Folk kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,54
+2.0,3:58,1.0,10.0,CIN 25,3.0,17.0,Joe Burrow pass complete short right to Mitchell Wilcox for 7 yards (tackle by Roger McCreary and Jack Gibbens),0.61,1.01,4.0,2023,54
+2.0,3:21,2.0,3.0,CIN 32,3.0,17.0,Joe Burrow pass complete short left to Ja'Marr Chase for 8 yards (tackle by Amani Hooker and Roger McCreary),1.01,1.6,4.0,2023,54
+2.0,2:40,1.0,10.0,CIN 40,3.0,17.0,Joe Mixon up the middle for 1 yard (tackle by Jack Gibbens and Azeez Al-Shaair),1.6,1.19,4.0,2023,54
+2.0,2:00,2.0,9.0,CIN 41,3.0,17.0,Joe Burrow pass complete short left to Tanner Hudson for 6 yards (tackle by Azeez Al-Shaair and Amani Hooker),1.19,1.29,4.0,2023,54
+2.0,1:32,3.0,3.0,CIN 47,3.0,17.0,Joe Burrow pass incomplete deep middle intended for Tyler Boyd,1.29,-0.26,4.0,2023,54
+2.0,1:28,4.0,3.0,CIN 47,3.0,17.0,"Brad Robbins punts 53 yards, touchback.",-0.26,-0.28,4.0,2023,54
+2.0,1:20,1.0,10.0,TEN 20,3.0,17.0,Derrick Henry right guard for 16 yards (tackle by Germaine Pratt),0.28,1.33,4.0,2023,54
+2.0,1:13,,,,,,Timeout #1 by Tennessee Titans,,,4.0,2023,54
+2.0,1:13,1.0,10.0,TEN 36,3.0,17.0,"Ryan Tannehill pass complete deep right to Chris Moore for 44 yards. Chris Moore fumbles (forced by Cam Taylor-Britt). Penalty on Mike Hilton: Defensive Offside, 5 yards (declined)",1.33,4.24,4.0,2023,54
+2.0,1:07,1.0,10.0,CIN 20,3.0,17.0,Tyjae Spears left tackle for -5 yards (tackle by Trey Hendrickson),4.24,3.02,4.0,2023,54
+2.0,1:03,,,,,,Timeout #2 by Tennessee Titans,,,4.0,2023,54
+2.0,1:03,2.0,15.0,CIN 25,3.0,17.0,Ryan Tannehill pass complete short right to Derrick Henry for 11 yards (tackle by Germaine Pratt and Daxton Hill),3.02,3.89,4.0,2023,54
+2.0,0:26,3.0,4.0,CIN 14,3.0,17.0,"Ryan Tannehill sacked by D.J. Reader for no gain. Penalty on Germaine Pratt: Defensive Holding, 5 yards (accepted) (no play)",3.89,5.14,4.0,2023,54
+2.0,0:23,1.0,9.0,CIN 9,3.0,17.0,Ryan Tannehill pass incomplete short left intended for DeAndre Hopkins,5.14,4.38,4.0,2023,54
+2.0,0:20,2.0,9.0,CIN 9,3.0,17.0,Ryan Tannehill pass complete short left to DeAndre Hopkins for 7 yards (tackle by Mike Hilton and Daxton Hill),4.38,4.95,4.0,2023,54
+2.0,0:14,,,,,,Timeout #3 by Tennessee Titans,,,4.0,2023,54
+2.0,0:14,,,,,,Timeout #2 by Cincinnati Bengals,,,4.0,2023,54
+2.0,0:14,3.0,2.0,CIN 2,3.0,23.0,"Derrick Henry pass complete short middle to Josh Whyle for 2 yards, touchdown",4.95,7.0,4.0,2023,54
+2.0,0:10,,,CIN 15,3.0,24.0,Nick Folk kicks extra point good,0.0,0.0,4.0,2023,54
+2.0,0:10,,,TEN 35,3.0,24.0,"Nick Folk kicks off 54 yards, returned by Trayveon Williams for 25 yards (tackle by Shyheim Carter and Matthew Jackson)",0.0,1.33,4.0,2023,54
+2.0,0:04,1.0,10.0,CIN 36,3.0,24.0,Joe Burrow kneels for -1 yards,1.33,0.66,4.0,2023,54
+3.0,15:00,,,CIN 35,3.0,24.0,"Evan McPherson kicks off 63 yards, returned by Tyjae Spears for 16 yards (tackle by Chase Brown and Tycen Anderson)",0.0,0.04,4.0,2023,54
+3.0,14:56,1.0,10.0,TEN 18,3.0,24.0,Derrick Henry left tackle for no gain (tackle by D.J. Reader and Trey Hendrickson),0.04,-0.49,4.0,2023,54
+3.0,14:18,2.0,10.0,TEN 18,3.0,24.0,Derrick Henry left end for 5 yards (tackle by Chidobe Awuzie),-0.49,-0.53,4.0,2023,54
+3.0,13:35,3.0,5.0,TEN 23,3.0,24.0,Ryan Tannehill pass complete short left to DeAndre Hopkins for 6 yards (tackle by Logan Wilson),-0.53,0.87,4.0,2023,54
+3.0,12:56,1.0,10.0,TEN 29,3.0,24.0,"Derrick Henry for no gain. Penalty on Dillon Radunz: Offensive Holding, 10 yards (accepted) (no play)",0.87,0.11,4.0,2023,54
+3.0,12:24,1.0,20.0,TEN 19,3.0,24.0,Ryan Tannehill sacked by Sam Hubbard for -2 yards,0.11,-1.43,4.0,2023,54
+3.0,11:41,2.0,22.0,TEN 17,3.0,24.0,Ryan Tannehill pass complete short right to Nick Westbrook-Ikhine for 6 yards (tackle by Chidobe Awuzie and Mike Hilton),-1.43,-1.15,4.0,2023,54
+3.0,11:10,3.0,16.0,TEN 23,3.0,24.0,"Ryan Tannehill pass incomplete intended for Chigoziem Okonkwo. Penalty on Daxton Hill: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",-1.15,1.47,4.0,2023,54
+3.0,10:49,1.0,10.0,TEN 38,3.0,24.0,Ryan Tannehill right guard for no gain (tackle by Nick Scott and Zachary Carter),1.47,0.92,4.0,2023,54
+3.0,10:10,2.0,10.0,TEN 38,3.0,24.0,Ryan Tannehill pass complete short right to Chigoziem Okonkwo for 13 yards (tackle by Cam Taylor-Britt),0.92,2.32,4.0,2023,54
+3.0,9:36,1.0,10.0,CIN 49,3.0,24.0,"Ryan Tannehill scrambles right end for 4 yards (tackle by Germaine Pratt). Penalty on Chidobe Awuzie: Defensive Holding, 5 yards (accepted)",2.32,2.92,4.0,2023,54
+3.0,9:15,1.0,10.0,CIN 40,3.0,24.0,Derrick Henry right tackle for 3 yards (tackle by Germaine Pratt and Myles Murphy),2.92,2.78,4.0,2023,54
+3.0,8:31,2.0,7.0,CIN 37,3.0,24.0,Derrick Henry right end for 2 yards (tackle by Daxton Hill and Cam Taylor-Britt),2.78,2.34,4.0,2023,54
+3.0,8:03,3.0,5.0,CIN 35,3.0,24.0,Ryan Tannehill pass complete short middle to DeAndre Hopkins for 12 yards (tackle by Nick Scott),2.34,4.04,4.0,2023,54
+3.0,7:11,,,,,,Timeout #1 by Tennessee Titans,,,4.0,2023,54
+3.0,7:11,1.0,10.0,CIN 23,3.0,24.0,"Ryan Tannehill aborted snap, recovered by Ryan Tannehill at CIN-35 and returned for -12 yards",4.04,1.88,4.0,2023,54
+3.0,6:31,2.0,22.0,CIN 35,3.0,24.0,Derrick Henry right end for 3 yards (tackle by Trey Hendrickson and Daxton Hill),1.88,1.62,4.0,2023,54
+3.0,5:46,3.0,19.0,CIN 32,3.0,24.0,"Penalty on Trey Hendrickson: Neutral Zone Infraction, 5 yards (accepted) (no play)",1.62,2.28,4.0,2023,54
+3.0,5:25,3.0,14.0,CIN 27,3.0,24.0,Ryan Tannehill pass complete short middle to Chigoziem Okonkwo for 10 yards (tackle by Daxton Hill and Nick Scott),2.28,2.39,4.0,2023,54
+3.0,4:41,4.0,4.0,CIN 17,3.0,27.0,Nick Folk 35 yard field goal good,2.39,3.0,4.0,2023,54
+3.0,4:38,,,TEN 35,3.0,27.0,"Nick Folk kicks off 65 yards, touchback.",0.0,0.61,4.0,2023,54
+3.0,4:38,1.0,10.0,CIN 25,3.0,27.0,Joe Burrow pass complete short right to Tyler Boyd for 7 yards (tackle by Kevin Byard),0.61,1.01,4.0,2023,54
+3.0,4:04,2.0,3.0,CIN 32,3.0,27.0,Joe Burrow pass complete short middle to Tyler Boyd for 9 yards (tackle by Roger McCreary),1.01,1.66,4.0,2023,54
+3.0,3:26,1.0,10.0,CIN 41,3.0,27.0,Joe Burrow pass complete short right to Tanner Hudson for 12 yards (tackle by Sean Murphy-Bunting and Denico Autry),1.66,2.46,4.0,2023,54
+3.0,2:42,1.0,10.0,TEN 47,3.0,27.0,Joe Burrow pass complete short left to Tyler Boyd for 8 yards (tackle by Jack Gibbens),2.46,2.99,4.0,2023,54
+3.0,2:09,2.0,2.0,TEN 39,3.0,27.0,Joe Mixon up the middle for 2 yards (tackle by Azeez Al-Shaair and Jack Gibbens),2.99,3.12,4.0,2023,54
+3.0,1:26,1.0,10.0,TEN 37,3.0,27.0,"Joe Burrow sacked by Trevis Gipson for -8 yards. Joe Burrow fumbles (forced by Trevis Gipson), recovered by Kevin Byard at TEN-45 (tackle by Trevis Gipson)",3.12,-1.93,4.0,2023,54
+3.0,1:17,1.0,10.0,TEN 45,3.0,27.0,Tyjae Spears up the middle for 3 yards (tackle by Joseph Ossai and Jay Tufele),1.93,1.79,4.0,2023,54
+3.0,0:38,2.0,7.0,TEN 48,3.0,27.0,"Ryan Tannehill pass complete to Nick Westbrook-Ikhine for no gain. Penalty on Andre Dillard: Ineligible Downfield Pass, 5 yards (accepted) (no play)",1.79,1.11,4.0,2023,54
+3.0,0:11,2.0,12.0,TEN 43,3.0,27.0,Derrick Henry right guard for 4 yards (tackle by DJ Turner),1.11,0.96,4.0,2023,54
+4.0,15:00,3.0,8.0,TEN 47,3.0,27.0,"Ryan Tannehill pass incomplete deep left intended for Nick Westbrook-Ikhine. Penalty on Nick Westbrook-Ikhine: Offensive Pass Interference, 10 yards (declined)",0.96,-0.26,4.0,2023,54
+4.0,14:55,4.0,8.0,TEN 47,3.0,27.0,"Ryan Stonehouse punts 45 yards, returned by Trenton Irwin for 2 yards. Trenton Irwin fumbles (forced by Chris Moore), recovered by Jalen Davis at CIN-13 (tackle by Chris Moore)",-0.26,0.32,4.0,2023,54
+4.0,14:46,1.0,10.0,CIN 13,3.0,27.0,Joe Burrow pass complete short right to Chase Brown for -3 yards (tackle by Azeez Al-Shaair),-0.32,-1.0,4.0,2023,54
+4.0,14:05,2.0,13.0,CIN 10,3.0,27.0,Joe Burrow pass complete short right to Joe Mixon for 9 yards (tackle by Kevin Byard),-1.0,-0.71,4.0,2023,54
+4.0,13:24,3.0,4.0,CIN 19,3.0,27.0,Joe Burrow pass incomplete short left intended for Tyler Boyd,-0.71,-2.14,4.0,2023,54
+4.0,13:20,4.0,4.0,CIN 19,3.0,27.0,Brad Robbins punts 40 yards out of bounds,-2.14,-1.66,4.0,2023,54
+4.0,13:14,1.0,10.0,TEN 41,3.0,27.0,Ryan Tannehill pass complete short right to Nick Westbrook-Ikhine for 4 yards (tackle by Nick Scott),1.66,1.66,4.0,2023,54
+4.0,12:40,2.0,6.0,TEN 45,3.0,27.0,Derrick Henry up the middle for -1 yards (tackle by Nick Scott and D.J. Reader),1.66,0.83,4.0,2023,54
+4.0,11:56,3.0,7.0,TEN 44,3.0,27.0,Ryan Tannehill pass complete short left to Tyjae Spears for 9 yards (tackle by Nick Scott),0.83,2.46,4.0,2023,54
+4.0,11:21,1.0,10.0,CIN 47,3.0,27.0,Ryan Tannehill right guard for 1 yard (tackle by Sam Hubbard),2.46,2.05,4.0,2023,54
+4.0,10:45,2.0,9.0,CIN 46,3.0,27.0,Ryan Tannehill pass deep right intended for Colton Dowell is intercepted by Daxton Hill at CIN-9 and returned for no gain (tackle by Colton Dowell),2.05,0.38,4.0,2023,54
+4.0,10:31,1.0,10.0,CIN 9,3.0,27.0,Joe Mixon up the middle for -2 yards (tackle by Amani Hooker),-0.38,-0.93,4.0,2023,54
+4.0,9:55,2.0,12.0,CIN 7,3.0,27.0,Joe Burrow pass complete short right to Ja'Marr Chase for 9 yards (tackle by Kevin Byard and Jack Gibbens),-0.93,-0.6,4.0,2023,54
+4.0,9:25,3.0,3.0,CIN 16,3.0,27.0,Joe Burrow pass complete short right to Ja'Marr Chase for 13 yards (tackle by Kevin Byard and Roger McCreary),-0.6,0.87,4.0,2023,54
+4.0,8:48,1.0,10.0,CIN 29,3.0,27.0,Joe Burrow pass complete short left to Ja'Marr Chase for 5 yards (tackle by Kristian Fulton),0.87,1.0,4.0,2023,54
+4.0,8:20,2.0,5.0,CIN 34,3.0,27.0,Joe Burrow pass incomplete short left,1.0,0.3,4.0,2023,54
+4.0,8:15,3.0,5.0,CIN 34,3.0,27.0,Joe Burrow pass complete short right to Trenton Irwin for 17 yards (tackle by Sean Murphy-Bunting),0.3,2.32,4.0,2023,54
+4.0,7:46,1.0,10.0,TEN 49,3.0,27.0,Joe Mixon up the middle for 6 yards (tackle by Jack Gibbens and Naquan Jones),2.32,2.59,4.0,2023,54
+4.0,7:11,2.0,4.0,TEN 43,3.0,27.0,Joe Mixon right tackle for 9 yards (tackle by Sean Murphy-Bunting),2.59,3.31,4.0,2023,54
+4.0,6:44,1.0,10.0,TEN 34,3.0,27.0,Joe Mixon right guard for 5 yards (tackle by Kevin Byard and Naquan Jones),3.31,3.45,4.0,2023,54
+4.0,6:16,2.0,5.0,TEN 29,3.0,27.0,Joe Burrow sacked by Arden Key for -10 yards,3.45,1.42,4.0,2023,54
+4.0,5:32,3.0,15.0,TEN 39,3.0,27.0,Joe Burrow pass complete short right to Tyler Boyd for 2 yards (tackle by Amani Hooker),1.42,0.79,4.0,2023,54
+4.0,4:58,,,,,,Timeout #1 by Cincinnati Bengals,,,4.0,2023,54
+4.0,4:58,4.0,13.0,TEN 37,3.0,27.0,Joe Burrow scrambles up the middle for 1 yard (tackle by Harold Landry),0.79,-1.33,4.0,2023,54
+4.0,4:50,1.0,10.0,TEN 36,3.0,27.0,Derrick Henry up the middle for 9 yards (tackle by Jay Tufele and Logan Wilson),1.33,2.01,4.0,2023,54
+4.0,4:04,2.0,1.0,TEN 45,3.0,27.0,Derrick Henry up the middle for 3 yards (tackle by Josh Tupou),2.01,2.13,4.0,2023,54
+4.0,3:22,1.0,10.0,TEN 48,3.0,27.0,Tyjae Spears right guard for 12 yards (tackle by Chidobe Awuzie),2.13,2.92,4.0,2023,54
+4.0,2:38,1.0,10.0,CIN 40,3.0,27.0,Derrick Henry right guard for 3 yards (tackle by Nick Scott and Zachary Carter),2.92,2.78,4.0,2023,54
+4.0,2:00,2.0,7.0,CIN 37,3.0,27.0,Derrick Henry up the middle for 3 yards (tackle by Myles Murphy),2.78,2.48,4.0,2023,54
+4.0,1:18,3.0,4.0,CIN 34,3.0,27.0,Derrick Henry left end for 16 yards (tackle by Markus Bailey),2.48,4.37,4.0,2023,54
+4.0,0:38,1.0,10.0,CIN 18,3.0,27.0,Ryan Tannehill kneels for -1 yards,4.37,3.67,4.0,2023,54

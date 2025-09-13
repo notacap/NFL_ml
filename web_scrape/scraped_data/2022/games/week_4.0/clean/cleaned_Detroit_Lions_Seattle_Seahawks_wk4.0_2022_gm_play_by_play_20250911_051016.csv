@@ -1,0 +1,192 @@
+Quarter,Time,Down,ToGo,Location,SEA,DET,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Lions won the coin toss and deferred, Seahawks to receive the opening kickoff.",,,4.0,2022,56
+1.0,15:00,,,DET 35,0.0,0.0,"Dominik Eberle kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,56
+1.0,15:00,1.0,10.0,SEA 25,0.0,0.0,Geno Smith pass complete short left to Will Dissly for 9 yards (tackle by Alex Anzalone),0.61,1.28,4.0,2022,56
+1.0,14:20,2.0,1.0,SEA 34,0.0,0.0,Rashaad Penny left end for 1 yard (tackle by DeShon Elliott),1.28,1.27,4.0,2022,56
+1.0,13:48,1.0,10.0,SEA 35,0.0,0.0,Geno Smith pass complete short right to Tyler Lockett for 7 yards (tackle by Mike Hughes),1.27,1.67,4.0,2022,56
+1.0,13:12,2.0,3.0,SEA 42,0.0,0.0,Rashaad Penny left end for no gain (tackle by Alim McNeill),1.67,0.96,4.0,2022,56
+1.0,12:30,3.0,3.0,SEA 42,0.0,0.0,Geno Smith pass complete short left to Rashaad Penny for 6 yards (tackle by Alex Anzalone),0.96,2.13,4.0,2022,56
+1.0,11:49,1.0,10.0,SEA 48,0.0,0.0,Geno Smith pass complete short right to Will Dissly for 8 yards (tackle by Amani Oruwariye),2.13,2.66,4.0,2022,56
+1.0,11:17,2.0,2.0,DET 44,0.0,0.0,Geno Smith pass incomplete deep middle intended for Tyler Lockett,2.66,1.95,4.0,2022,56
+1.0,11:11,3.0,2.0,DET 44,0.0,0.0,"Penalty on SEA: Delay of Game, 5 yards (accepted) (no play)",1.95,1.29,4.0,2022,56
+1.0,11:11,3.0,7.0,DET 49,0.0,0.0,Geno Smith scrambles left end for 17 yards (tackle by Chris Board),1.29,3.45,4.0,2022,56
+1.0,10:30,1.0,10.0,DET 32,0.0,0.0,Rashaad Penny left tackle for no gain (tackle by Malcolm Rodriguez and Julian Okwara),3.45,2.9,4.0,2022,56
+1.0,9:48,2.0,10.0,DET 32,0.0,0.0,"Penalty on Aidan Hutchinson: Defensive Offside, 5 yards (accepted) (no play)",2.9,3.58,4.0,2022,56
+1.0,9:30,2.0,5.0,DET 27,0.0,0.0,Geno Smith pass complete short right to Colby Parkinson for 15 yards (tackle by Kerby Joseph),3.58,4.78,4.0,2022,56
+1.0,8:49,1.0,10.0,DET 12,0.0,0.0,"Penalty on Charles Cross: False Start, 5 yards (accepted) (no play)",4.78,4.32,4.0,2022,56
+1.0,8:29,1.0,15.0,DET 17,6.0,0.0,"Geno Smith pass complete deep right to Will Dissly for 17 yards, touchdown",4.32,7.0,4.0,2022,56
+1.0,8:24,,,DET 15,7.0,0.0,Jason Myers kicks extra point good,0.0,0.0,4.0,2022,56
+1.0,8:24,,,SEA 35,7.0,0.0,"Jason Myers kicks off 59 yards, returned by Maurice Alexander for 20 yards (tackle by DeeJay Dallas and Teez Tabor)",0.0,0.67,4.0,2022,56
+1.0,8:16,1.0,10.0,DET 26,7.0,0.0,Jamaal Williams left tackle for 5 yards (tackle by Quandre Diggs and Coby Bryant),0.67,0.81,4.0,2022,56
+1.0,7:46,2.0,5.0,DET 31,7.0,0.0,Jared Goff pass incomplete deep left intended for Kalif Raymond,0.81,0.1,4.0,2022,56
+1.0,7:41,3.0,5.0,DET 31,7.0,0.0,Jared Goff pass complete short left to Kalif Raymond for no gain (tackle by Ryan Neal),0.1,-1.31,4.0,2022,56
+1.0,7:04,4.0,5.0,DET 31,7.0,0.0,"Jack Fox punts 48 yards, returned by Tyler Lockett for 7 yards. Tyler Lockett fumbles (forced by Malcolm Rodriguez), recovered by Scott Daly at SEA-32 (tackle by Malcolm Rodriguez)",-1.31,3.45,4.0,2022,56
+1.0,6:54,1.0,10.0,SEA 32,7.0,6.0,"Jared Goff pass complete deep left to T.J. Hockenson for 32 yards, touchdown. Penalty on Tariq Woolen: Defensive Holding, 5 yards (declined)",3.45,7.0,4.0,2022,56
+1.0,6:47,,,SEA 15,7.0,6.0,Dominik Eberle kicks extra point no good,0.0,-1.0,4.0,2022,56
+1.0,6:47,,,DET 35,7.0,6.0,"Dominik Eberle kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,56
+1.0,6:47,1.0,10.0,SEA 25,7.0,6.0,Geno Smith pass complete short right to Tyler Lockett for 13 yards (tackle by Jeff Okudah),0.61,1.47,4.0,2022,56
+1.0,6:17,1.0,10.0,SEA 38,7.0,6.0,Geno Smith pass complete deep middle to D.K. Metcalf for 23 yards (tackle by DeShon Elliott),1.47,2.98,4.0,2022,56
+1.0,5:41,1.0,10.0,DET 39,7.0,6.0,"Geno Smith pass complete deep middle to D.K. Metcalf for 21 yards (tackle by DeShon Elliott). Penalty on Isaiah Buggs: Roughing the Passer, 9 yards (accepted)",2.98,5.14,4.0,2022,56
+1.0,5:12,1.0,9.0,DET 9,7.0,6.0,Rashaad Penny up the middle for 1 yard (tackle by Aidan Hutchinson),5.14,4.57,4.0,2022,56
+1.0,4:40,2.0,8.0,DET 8,13.0,6.0,"Geno Smith up the middle for 8 yards, touchdown",4.57,7.0,4.0,2022,56
+1.0,4:35,,,DET 15,14.0,6.0,Jason Myers kicks extra point good,0.0,0.0,4.0,2022,56
+1.0,4:35,,,SEA 35,14.0,6.0,"Jason Myers kicks off 63 yards, returned by Maurice Alexander for 26 yards (tackle by Tanner Muse and Boye Mafe)",0.0,0.81,4.0,2022,56
+1.0,4:26,1.0,10.0,DET 28,14.0,6.0,Jared Goff pass complete short right to Josh Reynolds for 4 yards (tackle by Quandre Diggs),0.81,0.8,4.0,2022,56
+1.0,3:51,2.0,6.0,DET 32,14.0,6.0,Justin Jackson right end for 3 yards (tackle by Cody Barton),0.8,0.5,4.0,2022,56
+1.0,3:12,3.0,3.0,DET 35,14.0,6.0,Jared Goff pass incomplete deep right intended for T.J. Hockenson,0.5,-1.04,4.0,2022,56
+1.0,3:07,4.0,3.0,DET 35,14.0,6.0,Jack Fox pass complete short left to Quintez Cephus for 6 yards (tackle by Xavier Crawford),-1.04,1.66,4.0,2022,56
+1.0,2:23,1.0,10.0,DET 41,14.0,6.0,Kalif Raymond right tackle for 3 yards (tackle by Tariq Woolen),1.66,1.53,4.0,2022,56
+1.0,1:48,2.0,7.0,DET 44,14.0,6.0,"Jared Goff scrambles for no gain Sidney Jones for no gain. Penalty on Evan Brown: Offensive Holding, 10 yards (offset) . Penalty on Tariq Woolen: Defensive Holding, 5 yards (offset) (no play)",1.53,1.53,4.0,2022,56
+1.0,1:25,2.0,7.0,DET 44,14.0,6.0,Jamaal Williams right tackle for 8 yards (tackle by Quinton Jefferson),1.53,2.39,4.0,2022,56
+1.0,0:49,1.0,10.0,SEA 48,14.0,6.0,Jared Goff pass complete to T.J. Hockenson for 5 yards (tackle by Sidney Jones),2.39,2.52,4.0,2022,56
+1.0,0:15,2.0,5.0,SEA 43,14.0,6.0,"Penalty on Penei Sewell: False Start, 5 yards (accepted) (no play)",2.52,1.85,4.0,2022,56
+2.0,15:00,2.0,10.0,SEA 48,14.0,6.0,Craig Reynolds up the middle for 21 yards (tackle by Tariq Woolen),1.85,3.78,4.0,2022,56
+2.0,14:22,1.0,10.0,SEA 27,14.0,6.0,"Penalty on Brock Wright: False Start, 5 yards (accepted) (no play)",3.78,3.45,4.0,2022,56
+2.0,14:00,1.0,15.0,SEA 32,14.0,6.0,Jamaal Williams right tackle for 1 yard (tackle by Uchenna Nwosu and Jordyn Brooks),3.45,2.69,4.0,2022,56
+2.0,13:22,2.0,14.0,SEA 31,14.0,6.0,Jared Goff pass incomplete short right intended for Quintez Cephus (defended by Uchenna Nwosu),2.69,2.02,4.0,2022,56
+2.0,13:18,3.0,14.0,SEA 31,14.0,6.0,Jared Goff pass incomplete deep left intended for Tom Kennedy,2.02,1.32,4.0,2022,56
+2.0,13:12,4.0,14.0,SEA 31,14.0,9.0,Dominik Eberle 49 yard field goal good,1.32,3.0,4.0,2022,56
+2.0,13:07,,,DET 35,14.0,9.0,"Dominik Eberle kicks off 25 yards, out of bounds",0.0,1.6,4.0,2022,56
+2.0,13:07,1.0,10.0,SEA 40,14.0,9.0,Kenneth Walker left tackle for 3 yards (tackle by Derrick Barnes),1.6,1.46,4.0,2022,56
+2.0,12:32,2.0,7.0,SEA 43,14.0,9.0,D'Wayne Eskridge left end for 6 yards (tackle by DeShon Elliott and Alex Anzalone),1.46,1.55,4.0,2022,56
+2.0,12:07,3.0,1.0,SEA 49,14.0,9.0,Geno Smith right tackle for 2 yards (tackle by Malcolm Rodriguez and Michael Brockers),1.55,2.32,4.0,2022,56
+2.0,11:27,1.0,10.0,DET 49,14.0,9.0,Kenneth Walker left end for 13 yards (tackle by DeShon Elliott),2.32,3.18,4.0,2022,56
+2.0,10:50,1.0,10.0,DET 36,14.0,9.0,"Geno Smith pass incomplete short right intended for Marquise Goodwin. Penalty on Kenneth Walker: Offensive Holding, 10 yards (accepted) (no play)",3.18,2.52,4.0,2022,56
+2.0,10:42,1.0,20.0,DET 46,14.0,9.0,Geno Smith pass complete short left to Kenneth Walker for -5 yards (tackle by Malcolm Rodriguez),2.52,0.61,4.0,2022,56
+2.0,10:06,2.0,25.0,SEA 49,14.0,9.0,Geno Smith scrambles left end for 13 yards (tackle by Jeff Okudah),0.61,1.69,4.0,2022,56
+2.0,9:17,3.0,12.0,DET 38,14.0,9.0,Geno Smith pass incomplete short middle intended for D.K. Metcalf,1.69,0.72,4.0,2022,56
+2.0,9:13,4.0,12.0,DET 38,17.0,9.0,Jason Myers 56 yard field goal good,0.72,3.0,4.0,2022,56
+2.0,9:08,,,SEA 35,17.0,9.0,"Jason Myers kicks off 65 yards, returned by Maurice Alexander for 16 yards (tackle by Boye Mafe)",0.0,-0.14,4.0,2022,56
+2.0,9:02,1.0,10.0,DET 16,17.0,9.0,Jared Goff pass complete short left to Jamaal Williams for 1 yard (tackle by Boye Mafe),-0.14,-0.51,4.0,2022,56
+2.0,8:32,2.0,9.0,DET 17,17.0,9.0,Jamaal Williams left end for 4 yards (tackle by Jordyn Brooks),-0.51,-0.7,4.0,2022,56
+2.0,7:58,3.0,5.0,DET 21,17.0,9.0,Jared Goff pass complete short right to Tom Kennedy for 9 yards (tackle by Coby Bryant),-0.7,0.94,4.0,2022,56
+2.0,7:26,1.0,10.0,DET 30,17.0,9.0,Jamaal Williams right tackle for 2 yards (tackle by Jordyn Brooks),0.94,0.66,4.0,2022,56
+2.0,6:16,2.0,8.0,DET 32,17.0,9.0,"Jared Goff pass complete deep left to Kalif Raymond for 21 yards. Kalif Raymond fumbles (forced by Coby Bryant), recovered by Jordyn Brooks at SEA-45 and returned for 3 yards (tackle by Tom Kennedy)",0.66,-2.13,4.0,2022,56
+2.0,6:42,1.0,10.0,SEA 48,17.0,9.0,"Geno Smith pass complete short left to Noah Fant for no gain (tackle by Kerby Joseph). Penalty on D.K. Metcalf: Offensive Pass Interference, 10 yards (accepted) (no play)",2.13,1.47,4.0,2022,56
+2.0,6:22,1.0,20.0,SEA 38,17.0,9.0,Rashaad Penny left end for 6 yards (tackle by DeShon Elliott and Malcolm Rodriguez),1.47,1.04,4.0,2022,56
+2.0,5:43,2.0,14.0,SEA 44,17.0,9.0,Geno Smith pass complete deep left to D.K. Metcalf for 54 yards (tackle by DeShon Elliott),1.04,6.74,4.0,2022,56
+2.0,5:09,1.0,2.0,DET 2,23.0,9.0,"Geno Smith pass complete short right to Noah Fant for 2 yards, touchdown",6.74,7.0,4.0,2022,56
+2.0,5:04,,,DET 15,24.0,9.0,Jason Myers kicks extra point good,0.0,0.0,4.0,2022,56
+2.0,5:04,,,SEA 35,24.0,9.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,56
+2.0,5:04,1.0,10.0,DET 25,24.0,9.0,"Jared Goff pass complete deep right to Josh Reynolds for no gain. Penalty on Matt Nelson: Offensive Holding, 10 yards (accepted) (no play)",0.61,-0.41,4.0,2022,56
+2.0,4:36,1.0,20.0,DET 15,24.0,9.0,Jamaal Williams right end for 7 yards (tackle by Shelby Harris and Quandre Diggs),-0.41,-0.34,4.0,2022,56
+2.0,4:03,2.0,13.0,DET 22,24.0,9.0,"Jared Goff scrambles right end for no gain (tackle by Cody Barton). Penalty on Penei Sewell: Offensive Holding, 10 yards (accepted) (no play)",-0.34,-1.73,4.0,2022,56
+2.0,3:41,2.0,23.0,DET 12,24.0,9.0,Jared Goff pass complete deep right to Tom Kennedy for 28 yards (tackle by Cody Barton),-1.73,1.6,4.0,2022,56
+2.0,3:03,1.0,10.0,DET 40,24.0,9.0,"Jared Goff pass incomplete short right. Penalty on Bryan Mone: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",1.6,1.93,4.0,2022,56
+2.0,2:56,1.0,10.0,DET 45,24.0,9.0,Jared Goff pass complete short left to Quintez Cephus for 9 yards (tackle by Jordyn Brooks),1.93,2.6,4.0,2022,56
+2.0,2:29,2.0,1.0,SEA 46,24.0,9.0,Jamaal Williams up the middle for 6 yards (tackle by Boye Mafe),2.6,2.92,4.0,2022,56
+2.0,2:00,1.0,10.0,SEA 40,24.0,9.0,Jamaal Williams left tackle for 5 yards (tackle by Shelby Harris and Jordyn Brooks),2.92,3.05,4.0,2022,56
+2.0,1:30,2.0,5.0,SEA 35,24.0,9.0,Jared Goff pass complete short right to T.J. Hockenson for 8 yards (tackle by Josh Jones),3.05,3.78,4.0,2022,56
+2.0,1:05,,,,,,Timeout #1 by Detroit Lions,,,4.0,2022,56
+2.0,1:05,1.0,10.0,SEA 27,24.0,9.0,Jared Goff pass incomplete short right intended for Tom Kennedy (defended by Cody Barton),3.78,3.23,4.0,2022,56
+2.0,1:00,2.0,10.0,SEA 27,24.0,9.0,Jared Goff pass complete deep left to Josh Reynolds for 26 yards (tackle by Jordyn Brooks and Coby Bryant),3.23,6.97,4.0,2022,56
+2.0,0:34,,,,,,Timeout #1 by Seattle Seahawks,,,4.0,2022,56
+2.0,0:34,1.0,1.0,SEA 1,24.0,9.0,Jamaal Williams left tackle for no gain (tackle by Nick Bellore and Shelby Harris),6.97,5.91,4.0,2022,56
+2.0,0:25,,,,,,Timeout #2 by Detroit Lions,,,4.0,2022,56
+2.0,0:25,2.0,1.0,SEA 1,24.0,9.0,Jared Goff pass incomplete short right intended for T.J. Hockenson,5.91,5.17,4.0,2022,56
+2.0,0:20,3.0,1.0,SEA 1,24.0,9.0,Jamaal Williams up the middle for no gain (tackle by Quinton Jefferson),5.17,3.55,4.0,2022,56
+2.0,0:03,,,,,,Timeout #3 by Detroit Lions,,,4.0,2022,56
+2.0,0:03,4.0,1.0,SEA 1,24.0,15.0,"Jamaal Williams up the middle for 1 yard, touchdown",3.55,7.0,4.0,2022,56
+2.0,0:00,,,SEA 15,24.0,15.0,Dominik Eberle kicks extra point no good,0.0,-1.0,4.0,2022,56
+3.0,15:00,,,SEA 35,24.0,15.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,56
+3.0,15:00,1.0,10.0,DET 25,30.0,15.0,"Jared Goff pass short right intended for T.J. Hockenson is intercepted by Tariq Woolen at DET-40 and returned for 40 yards, touchdown",0.61,-7.0,4.0,2022,56
+3.0,14:49,,,DET 15,31.0,15.0,Jason Myers kicks extra point good,0.0,0.0,4.0,2022,56
+3.0,14:49,,,SEA 35,31.0,15.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,56
+3.0,14:49,1.0,10.0,DET 25,31.0,15.0,Jamaal Williams up the middle for 4 yards (tackle by Poona Ford),0.61,0.6,4.0,2022,56
+3.0,14:15,2.0,6.0,DET 29,31.0,15.0,Jamaal Williams up the middle for 3 yards (tackle by Cody Barton and Uchenna Nwosu),0.6,0.3,4.0,2022,56
+3.0,13:42,3.0,3.0,DET 32,31.0,15.0,Jamaal Williams up the middle for 4 yards (tackle by Jordyn Brooks and Quandre Diggs),0.3,1.33,4.0,2022,56
+3.0,13:11,1.0,10.0,DET 36,31.0,15.0,Justin Jackson left end for no gain (tackle by Jordyn Brooks and Al Woods),1.33,0.79,4.0,2022,56
+3.0,12:34,2.0,10.0,DET 36,31.0,15.0,Jared Goff pass complete short right to Justin Jackson for 2 yards (tackle by Boye Mafe and Cody Barton),0.79,0.37,4.0,2022,56
+3.0,11:54,3.0,8.0,DET 38,31.0,15.0,Jared Goff sacked by Uchenna Nwosu for -9 yards,0.37,-1.44,4.0,2022,56
+3.0,11:16,4.0,17.0,DET 29,31.0,15.0,Jack Fox punts 49 yards downed by Josh Woods,-1.44,-0.41,4.0,2022,56
+3.0,11:04,1.0,10.0,SEA 22,31.0,15.0,Geno Smith pass complete deep left to D.K. Metcalf for 26 yards (tackle by Jeff Okudah),0.41,2.13,4.0,2022,56
+3.0,10:34,1.0,10.0,SEA 48,31.0,15.0,Rashaad Penny right tackle for 26 yards (tackle by DeShon Elliott),2.13,3.84,4.0,2022,56
+3.0,10:05,1.0,10.0,DET 26,31.0,15.0,"Penalty on SEA: Offensive Too Many Men on Field, 5 yards (accepted) (no play)",3.84,3.51,4.0,2022,56
+3.0,9:46,1.0,15.0,DET 31,31.0,15.0,Kenneth Walker left end for 4 yards (tackle by Jeff Okudah),3.51,3.16,4.0,2022,56
+3.0,9:06,2.0,11.0,DET 27,31.0,15.0,Rashaad Penny up the middle for 1 yard (tackle by Aidan Hutchinson and Alex Anzalone),3.16,2.61,4.0,2022,56
+3.0,8:20,3.0,10.0,DET 26,31.0,15.0,Geno Smith pass complete short right to D.K. Metcalf for 5 yards (tackle by Kerby Joseph),2.61,2.11,4.0,2022,56
+3.0,7:33,4.0,5.0,DET 21,31.0,15.0,Jason Myers 39 yard field goal no good,2.11,-0.87,4.0,2022,56
+3.0,7:29,1.0,10.0,DET 29,31.0,15.0,Jared Goff pass complete deep middle to Kalif Raymond for 17 yards (tackle by Quandre Diggs),0.87,1.99,4.0,2022,56
+3.0,7:11,1.0,10.0,DET 46,31.0,15.0,Jamaal Williams right end for 3 yards (tackle by Sidney Jones and Boye Mafe),1.99,1.86,4.0,2022,56
+3.0,6:39,2.0,7.0,DET 49,31.0,21.0,"Jamaal Williams up the middle for 51 yards, touchdown",1.86,7.0,4.0,2022,56
+3.0,6:30,,,SEA 2,31.0,21.0,"Two Point Attempt: Jared Goff pass incomplete, sacked by. Penalty on Sidney Jones: Defensive Holding, 1 yard (accepted) (no play)",1.0,1.0,4.0,2022,56
+3.0,6:30,,,SEA 1,31.0,23.0,"Two Point Attempt: Jared Goff rushes, conversion succeeds.",1.0,1.0,4.0,2022,56
+3.0,6:30,,,DET 35,31.0,23.0,"Dominik Eberle kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,56
+3.0,6:30,1.0,10.0,SEA 25,31.0,23.0,Kenneth Walker right end for -2 yards (tackle by Mike Hughes),0.61,-0.21,4.0,2022,56
+3.0,6:01,2.0,12.0,SEA 23,31.0,23.0,Geno Smith pass complete short middle to D.K. Metcalf for 11 yards (tackle by Malcolm Rodriguez),-0.21,0.56,4.0,2022,56
+3.0,5:24,3.0,1.0,SEA 34,31.0,23.0,Kenneth Walker right end for 1 yard (tackle by Malcolm Rodriguez and Aidan Hutchinson),0.56,1.27,4.0,2022,56
+3.0,4:50,1.0,10.0,SEA 35,31.0,23.0,Geno Smith pass complete to Will Dissly for 5 yards (tackle by Derrick Barnes),1.27,1.4,4.0,2022,56
+3.0,4:17,2.0,5.0,SEA 40,31.0,23.0,Rashaad Penny right end for 15 yards (tackle by DeShon Elliott),1.4,2.59,4.0,2022,56
+3.0,3:33,1.0,10.0,DET 45,31.0,23.0,Geno Smith pass incomplete deep middle intended for D.K. Metcalf,2.59,2.04,4.0,2022,56
+3.0,3:26,2.0,10.0,DET 45,31.0,23.0,"Geno Smith pass complete deep right to Noah Fant for no gain (tackle by Derrick Barnes). Penalty on Charles Cross: Offensive Holding, 10 yards (accepted) (no play)",2.04,0.69,4.0,2022,56
+3.0,2:59,2.0,20.0,SEA 45,31.0,23.0,Geno Smith pass complete deep right to Tyler Lockett for 16 yards (tackle by DeShon Elliott),0.69,2.15,4.0,2022,56
+3.0,2:29,3.0,4.0,DET 39,31.0,23.0,Geno Smith pass complete short right to D.K. Metcalf for 9 yards (tackle by Amani Oruwariye),2.15,3.58,4.0,2022,56
+3.0,1:45,1.0,10.0,DET 30,31.0,23.0,"Penalty on Julian Okwara: Defensive Offside, 5 yards (accepted) (no play)",3.58,4.31,4.0,2022,56
+3.0,1:29,1.0,5.0,DET 25,31.0,23.0,Rashaad Penny right tackle for -1 yards (tackle by Alex Anzalone),4.31,3.57,4.0,2022,56
+3.0,0:46,2.0,6.0,DET 26,31.0,23.0,"Geno Smith pass incomplete short right. Penalty on Geno Smith: Intentional Grounding, 10 yards (accepted)",3.57,1.55,4.0,2022,56
+3.0,0:40,3.0,16.0,DET 36,37.0,23.0,"Rashaad Penny up the middle for 36 yards, touchdown",1.55,7.0,4.0,2022,56
+3.0,0:33,,,DET 15,38.0,23.0,Jason Myers kicks extra point good,0.0,0.0,4.0,2022,56
+3.0,0:33,,,SEA 35,38.0,23.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,56
+3.0,0:33,1.0,10.0,DET 25,38.0,23.0,"Jamaal Williams up the middle for no gain (tackle by Coby Bryant and Cody Barton). Penalty on Dan Skipper: Offensive Holding, 10 yards (accepted) (no play)",0.61,-0.41,4.0,2022,56
+3.0,0:11,1.0,20.0,DET 15,38.0,23.0,Jared Goff pass complete short middle to T.J. Hockenson for 81 yards (tackle by Cody Barton and Tariq Woolen),-0.41,6.28,4.0,2022,56
+4.0,15:00,1.0,4.0,SEA 4,38.0,23.0,Jamaal Williams left tackle for 1 yard (tackle by Cody Barton and Shelby Harris),6.28,5.53,4.0,2022,56
+4.0,14:27,2.0,3.0,SEA 3,38.0,29.0,"Jared Goff pass complete short middle to Josh Reynolds for 3 yards, touchdown. Penalty on Michael Jackson: Defensive Holding, 5 yards (declined)",5.53,7.0,4.0,2022,56
+4.0,14:23,,,SEA 2,38.0,31.0,Two Point Attempt: Jared Goff pass complete to to T.J. Hockenson for no gain,1.0,1.0,4.0,2022,56
+4.0,14:23,,,DET 35,38.0,31.0,"Dominik Eberle kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,56
+4.0,14:23,1.0,10.0,SEA 25,38.0,31.0,"Rashaad Penny left end for no gain (tackle by Jeff Okudah). Penalty on Marquise Goodwin: Offensive Holding, 10 yards (accepted) (no play)",0.61,-0.41,4.0,2022,56
+4.0,14:05,1.0,20.0,SEA 15,38.0,31.0,Geno Smith pass complete short left to Tyler Lockett for 10 yards (tackle by Jeff Okudah),-0.41,0.06,4.0,2022,56
+4.0,13:38,2.0,10.0,SEA 25,38.0,31.0,Geno Smith up the middle for 11 yards (tackle by Malcolm Rodriguez),0.06,1.33,4.0,2022,56
+4.0,12:58,1.0,10.0,SEA 36,38.0,31.0,Kenneth Walker left end for 3 yards (tackle by Aidan Hutchinson),1.33,1.2,4.0,2022,56
+4.0,12:24,2.0,7.0,SEA 39,38.0,31.0,Geno Smith pass complete short right to Colby Parkinson for 13 yards (tackle by Malcolm Rodriguez),1.2,2.39,4.0,2022,56
+4.0,11:39,,,,,,Timeout #1 by Seattle Seahawks,,,4.0,2022,56
+4.0,11:39,1.0,10.0,DET 48,38.0,31.0,Geno Smith pass incomplete short right intended for D.K. Metcalf (defended by Jeff Okudah),2.39,1.85,4.0,2022,56
+4.0,11:34,2.0,10.0,DET 48,38.0,31.0,Geno Smith pass complete deep middle to Tyler Lockett for 34 yards (tackle by Amani Oruwariye),1.85,4.65,4.0,2022,56
+4.0,11:05,1.0,10.0,DET 14,38.0,31.0,Kenneth Walker left tackle for 5 yards (tackle by Mike Hughes and DeShon Elliott),4.65,4.9,4.0,2022,56
+4.0,10:26,2.0,5.0,DET 9,38.0,31.0,Kenneth Walker left end for 2 yards (tackle by Malcolm Rodriguez),4.9,4.5,4.0,2022,56
+4.0,9:42,3.0,3.0,DET 7,38.0,31.0,Geno Smith pass incomplete short left intended for Tyler Lockett (defended by Amani Oruwariye),4.5,2.99,4.0,2022,56
+4.0,9:36,4.0,3.0,DET 7,41.0,31.0,Jason Myers 25 yard field goal good,2.99,3.0,4.0,2022,56
+4.0,9:32,,,SEA 35,41.0,31.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,56
+4.0,9:32,1.0,10.0,DET 25,41.0,31.0,Jared Goff pass incomplete deep left intended for Jamaal Williams,0.61,0.06,4.0,2022,56
+4.0,9:28,2.0,10.0,DET 25,41.0,31.0,Jared Goff pass complete short middle to Josh Reynolds for 15 yards (tackle by Tariq Woolen),0.06,1.6,4.0,2022,56
+4.0,8:59,1.0,10.0,DET 40,41.0,31.0,Jamaal Williams right tackle for 3 yards (tackle by Shelby Harris and Bryan Mone),1.6,1.46,4.0,2022,56
+4.0,8:29,2.0,7.0,DET 43,41.0,31.0,Jared Goff pass complete short middle to T.J. Hockenson for 9 yards (tackle by Jordyn Brooks and Cody Barton),1.46,2.39,4.0,2022,56
+4.0,7:53,1.0,10.0,SEA 48,41.0,31.0,Jared Goff pass incomplete short right intended for Jamaal Williams,2.39,1.85,4.0,2022,56
+4.0,7:45,2.0,10.0,SEA 48,41.0,31.0,Jamaal Williams left tackle for no gain (tackle by Bryan Mone and Jordyn Brooks),1.85,1.16,4.0,2022,56
+4.0,7:16,3.0,10.0,SEA 48,41.0,31.0,Jared Goff pass incomplete deep middle intended for Kalif Raymond (defended by Josh Jones),1.16,0.07,4.0,2022,56
+4.0,7:07,4.0,10.0,SEA 48,41.0,31.0,Jared Goff pass complete short middle to Tom Kennedy for 17 yards (tackle by Coby Bryant),0.07,3.51,4.0,2022,56
+4.0,6:33,1.0,10.0,SEA 31,41.0,31.0,Jared Goff pass complete short left to T.J. Hockenson for 16 yards (tackle by Ryan Neal),3.51,4.58,4.0,2022,56
+4.0,6:09,1.0,10.0,SEA 15,41.0,31.0,"Jared Goff pass incomplete short left intended for Josh Reynolds. Penalty on Tariq Woolen: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",4.58,4.91,4.0,2022,56
+4.0,6:03,1.0,10.0,SEA 10,41.0,31.0,Jared Goff pass incomplete short right intended for Josh Reynolds,4.91,4.19,4.0,2022,56
+4.0,5:59,2.0,10.0,SEA 10,41.0,31.0,Jared Goff pass complete short left to Josh Reynolds for 6 yards (tackle by Tariq Woolen),4.19,4.49,4.0,2022,56
+4.0,5:28,3.0,4.0,SEA 4,41.0,37.0,"Jared Goff pass complete short left to T.J. Hockenson for 4 yards, touchdown",4.49,7.0,4.0,2022,56
+4.0,5:26,,,SEA 15,41.0,38.0,Dominik Eberle kicks extra point good,0.0,0.0,4.0,2022,56
+4.0,5:26,,,DET 35,41.0,38.0,"Dominik Eberle kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,56
+4.0,5:26,1.0,10.0,SEA 25,41.0,38.0,Geno Smith pass complete short right to D'Wayne Eskridge for 10 yards (tackle by Amani Oruwariye),0.61,1.27,4.0,2022,56
+4.0,4:52,1.0,10.0,SEA 35,41.0,38.0,Rashaad Penny left end for -1 yards (tackle by Alim McNeill and Charles Harris),1.27,0.59,4.0,2022,56
+4.0,4:10,2.0,11.0,SEA 34,41.0,38.0,Rashaad Penny up the middle for 9 yards (tackle by Malcolm Rodriguez),0.59,1.09,4.0,2022,56
+4.0,3:44,3.0,2.0,SEA 43,41.0,38.0,Geno Smith pass complete short left to Tyler Lockett for 11 yards (tackle by Kerby Joseph),1.09,2.52,4.0,2022,56
+4.0,3:02,1.0,10.0,DET 46,41.0,38.0,Rashaad Penny up the middle for 5 yards (tackle by Charles Harris),2.52,2.65,4.0,2022,56
+4.0,2:28,2.0,5.0,DET 41,41.0,38.0,Geno Smith pass incomplete short right intended for Colby Parkinson (defended by Charles Harris),2.65,1.95,4.0,2022,56
+4.0,2:22,3.0,5.0,DET 41,47.0,38.0,"Rashaad Penny right end for 41 yards, touchdown",1.95,7.0,4.0,2022,56
+4.0,2:14,,,DET 15,48.0,38.0,Jason Myers kicks extra point good,0.0,0.0,4.0,2022,56
+4.0,2:14,,,SEA 35,48.0,38.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,56
+4.0,2:14,1.0,10.0,DET 25,48.0,38.0,"Jared Goff pass complete short right to Josh Reynolds for 13 yards (tackle by Sidney Jones) SEA challenged the pass completion ruling, and the play was upheld.",0.61,1.47,4.0,2022,56
+4.0,2:08,1.0,10.0,DET 38,48.0,38.0,Craig Reynolds up the middle for 9 yards (tackle by Quandre Diggs and Jordyn Brooks),1.47,2.14,4.0,2022,56
+4.0,2:00,2.0,1.0,DET 47,48.0,38.0,Jared Goff pass complete short right to Craig Reynolds for 12 yards (tackle by Josh Jones),2.14,2.85,4.0,2022,56
+4.0,1:54,1.0,10.0,SEA 41,48.0,38.0,Jared Goff pass complete short right to Josh Reynolds for 14 yards (tackle by Sidney Jones),2.85,3.78,4.0,2022,56
+4.0,1:48,1.0,10.0,SEA 27,48.0,38.0,Jared Goff pass incomplete short middle intended for T.J. Hockenson,3.78,3.23,4.0,2022,56
+4.0,1:43,2.0,10.0,SEA 27,48.0,38.0,Jared Goff scrambles right end for 1 yard (tackle by Darrell Taylor),3.23,2.68,4.0,2022,56
+4.0,1:38,3.0,9.0,SEA 26,48.0,38.0,Jared Goff pass complete short middle to T.J. Hockenson for 24 yards (tackle by Quandre Diggs and Coby Bryant),2.68,6.74,4.0,2022,56
+4.0,1:15,1.0,2.0,SEA 2,48.0,38.0,Jared Goff pass incomplete short right,6.74,5.72,4.0,2022,56
+4.0,1:09,2.0,2.0,SEA 2,48.0,44.0,"Jared Goff pass complete short left to Justin Jackson for 2 yards, touchdown",5.72,7.0,4.0,2022,56
+4.0,1:06,,,SEA 15,48.0,45.0,Dominik Eberle kicks extra point good,0.0,0.0,4.0,2022,56
+4.0,1:06,,,,,,Timeout #3 by Seattle Seahawks,,,4.0,2022,56
+4.0,1:06,,,DET 35,48.0,45.0,"Dominik Eberle kicks onside 11 yards, returned by DeeJay Dallas for no gain",0.0,2.52,4.0,2022,56
+4.0,1:04,1.0,10.0,DET 46,48.0,45.0,Rashaad Penny up the middle for 1 yard (tackle by Alex Anzalone and Amani Oruwariye),2.52,2.11,4.0,2022,56
+4.0,1:00,,,,,,Timeout #1 by Detroit Lions,,,4.0,2022,56
+4.0,1:00,2.0,9.0,DET 45,48.0,45.0,Rashaad Penny left end for 4 yards (tackle by Aidan Hutchinson and Michael Brockers),2.11,1.95,4.0,2022,56
+4.0,0:58,,,,,,Timeout #2 by Detroit Lions,,,4.0,2022,56
+4.0,0:58,3.0,5.0,DET 41,48.0,45.0,Rashaad Penny left tackle for 7 yards (tackle by Isaiah Buggs),1.95,3.31,4.0,2022,56
+4.0,0:54,,,,,,Timeout #3 by Detroit Lions,,,4.0,2022,56
+4.0,0:54,1.0,10.0,DET 34,48.0,45.0,Geno Smith kneels for -1 yards,3.31,2.64,4.0,2022,56
+4.0,0:30,2.0,11.0,DET 35,48.0,45.0,Geno Smith kneels for -1 yards,2.64,1.82,4.0,2022,56

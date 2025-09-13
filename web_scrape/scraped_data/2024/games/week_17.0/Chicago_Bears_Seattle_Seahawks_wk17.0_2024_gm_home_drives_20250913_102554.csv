@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,8:59,CHI 30,3,1:20,5,Punt,1,Bears,17.0,2024,243
+2,1,6:00,CHI 29,5,2:15,16,Punt,1,Bears,17.0,2024,243
+3,1,2:12,CHI 31,3,1:31,4,Punt,1,Bears,17.0,2024,243
+4,2,10:19,CHI 9,13,7:47,67,Field Goal,1,Bears,17.0,2024,243
+5,2,0:21,CHI 30,2,0:21,0,End of Half,1,Bears,17.0,2024,243
+6,3,15:00,CHI 22,3,2:13,9,Punt,1,Bears,17.0,2024,243
+7,3,8:13,CHI 16,5,3:38,10,Punt,1,Bears,17.0,2024,243
+8,3,1:50,CHI 38,6,2:44,1,Punt,1,Bears,17.0,2024,243
+9,4,11:43,CHI 38,6,3:30,5,Punt,1,Bears,17.0,2024,243
+10,4,5:12,CHI 11,13,5:01,49,Interception,1,Bears,17.0,2024,243

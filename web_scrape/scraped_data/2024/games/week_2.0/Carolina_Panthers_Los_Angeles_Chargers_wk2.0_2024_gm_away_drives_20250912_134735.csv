@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,LAC 33,9,5:40,67,Touchdown,0,Chargers,2.0,2024,18
+2,1,7:49,LAC 25,1,0:11,0,Interception,0,Chargers,2.0,2024,18
+3,1,4:55,LAC 30,5,3:39,19,Punt,0,Chargers,2.0,2024,18
+4,2,14:20,CAR 49,3,1:35,5,Punt,0,Chargers,2.0,2024,18
+5,2,10:17,LAC 35,11,6:01,65,Touchdown,0,Chargers,2.0,2024,18
+6,2,3:27,LAC 48,3,1:26,52,Touchdown,0,Chargers,2.0,2024,18
+7,2,0:15,LAC 1,1,0:15,1,End of Half,0,Chargers,2.0,2024,18
+8,3,12:18,LAC 35,6,3:15,37,Field Goal,0,Chargers,2.0,2024,18
+9,3,7:31,LAC 30,9,5:34,51,Fumble,0,Chargers,2.0,2024,18
+10,3,0:02,LAC 25,10,4:00,52,Field Goal,0,Chargers,2.0,2024,18
+11,4,5:52,LAC 33,6,2:43,14,Punt,0,Chargers,2.0,2024,18
+12,4,1:59,CAR 26,3,1:59,-4,End of Game,0,Chargers,2.0,2024,18

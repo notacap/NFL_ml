@@ -1,0 +1,171 @@
+Quarter,Time,Down,ToGo,Location,MIN,TEN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Vikings won the coin toss and deferred, Titans to receive the opening kickoff.",,,11.0,2024,158
+1.0,15:00,,,MIN 35,0.0,0.0,"John Parker Romo kicks off 63 yards, returned by Julius Chestnut for 23 yards (tackle by Bo Richter)",0.0,0.61,11.0,2024,158
+1.0,14:54,1.0,10.0,TEN 25,0.0,0.0,Will Levis pass incomplete short left intended for Tony Pollard,0.61,0.06,11.0,2024,158
+1.0,14:50,2.0,10.0,TEN 25,0.0,0.0,Tony Pollard up the middle for -2 yards (tackle by Byron Murphy and Andrew Van Ginkel),0.06,-0.89,11.0,2024,158
+1.0,14:17,3.0,12.0,TEN 23,0.0,0.0,Will Levis pass complete short right to Chigoziem Okonkwo for 12 yards (tackle by Stephon Gilmore),-0.89,1.27,11.0,2024,158
+1.0,13:37,1.0,10.0,TEN 35,0.0,0.0,Will Levis scrambles right end for 2 yards (tackle by Jonathan Greenard),1.27,0.99,11.0,2024,158
+1.0,12:56,2.0,8.0,TEN 37,0.0,0.0,"Penalty on Nicholas Petit-Frere: False Start, 5 yards (accepted) (no play)",0.99,0.32,11.0,2024,158
+1.0,12:48,2.0,13.0,TEN 32,0.0,0.0,Will Levis pass complete short left to Chigoziem Okonkwo for 7 yards (tackle by Andrew Van Ginkel),0.32,0.56,11.0,2024,158
+1.0,12:06,3.0,6.0,TEN 39,0.0,0.0,Will Levis sacked by Blake Cashman for -10 yards,0.56,-1.44,11.0,2024,158
+1.0,11:25,4.0,16.0,TEN 29,0.0,0.0,Ryan Stonehouse punts 32 yards out of bounds,-1.44,-1.53,11.0,2024,158
+1.0,11:18,1.0,10.0,MIN 39,0.0,0.0,Sam Darnold pass complete short left to Justin Jefferson for 5 yards (tackle by Darrell Baker),1.53,1.66,11.0,2024,158
+1.0,10:48,2.0,5.0,MIN 44,0.0,0.0,"Sam Darnold scrambles left end for 5 yards (tackle by Kenneth Murray). Penalty on Kenneth Murray: Unnecessary Roughness / Defense, 15 yards (accepted)",1.66,3.18,11.0,2024,158
+1.0,10:30,1.0,10.0,TEN 36,0.0,0.0,"Sam Darnold aborted snap, recovered by Jeffery Simmons at TEN-45",3.18,-1.93,11.0,2024,158
+1.0,10:22,1.0,10.0,TEN 45,0.0,0.0,Tyjae Spears up the middle for 4 yards (tackle by Jonathan Greenard),1.93,1.92,11.0,2024,158
+1.0,9:48,2.0,6.0,TEN 49,0.0,0.0,Tony Pollard right end for 4 yards (tackle by Andrew Van Ginkel),1.92,1.75,11.0,2024,158
+1.0,9:09,3.0,2.0,MIN 47,0.0,0.0,Will Levis right end for 3 yards (tackle by Harrison Smith),1.75,2.65,11.0,2024,158
+1.0,8:30,1.0,10.0,MIN 44,0.0,0.0,Will Levis scrambles right end for 10 yards (tackle by Stephon Gilmore),2.65,3.31,11.0,2024,158
+1.0,7:49,1.0,10.0,MIN 34,0.0,0.0,Will Levis left end for 1 yard (tackle by Andrew Van Ginkel and Patrick Jones),3.31,2.91,11.0,2024,158
+1.0,7:12,2.0,9.0,MIN 33,0.0,0.0,Will Levis pass incomplete deep middle intended for Nick Westbrook-Ikhine,2.91,2.21,11.0,2024,158
+1.0,7:07,3.0,9.0,MIN 33,0.0,0.0,"Will Levis pass complete deep right to Calvin Ridley for 21 yards (tackle by Byron Murphy). Penalty on Byron Murphy: Defensive Pass Interference, 15 yards (declined)",2.21,4.78,11.0,2024,158
+1.0,6:41,1.0,10.0,MIN 12,0.0,0.0,Tony Pollard right guard for 3 yards (tackle by Patrick Jones),4.78,4.64,11.0,2024,158
+1.0,6:01,2.0,7.0,MIN 9,0.0,0.0,Will Levis left tackle for 3 yards (tackle by Andrew Van Ginkel),4.64,4.38,11.0,2024,158
+1.0,5:20,3.0,4.0,MIN 6,0.0,0.0,Will Levis sacked by Patrick Jones for -5 yards,4.38,2.7,11.0,2024,158
+1.0,4:42,4.0,9.0,MIN 11,0.0,3.0,Nick Folk 30 yard field goal good,2.7,3.0,11.0,2024,158
+1.0,4:39,,,TEN 35,0.0,3.0,"Nick Folk kicks off 65 yards, touchback.",0.0,0.94,11.0,2024,158
+1.0,4:39,1.0,10.0,MIN 30,0.0,3.0,Aaron Jones right end for 3 yards (tackle by Sebastian Joseph-Day),0.94,0.8,11.0,2024,158
+1.0,4:08,2.0,7.0,MIN 33,0.0,3.0,Sam Darnold pass complete short left to Justin Jefferson for 4 yards (tackle by Arden Key),0.8,0.63,11.0,2024,158
+1.0,3:29,3.0,3.0,MIN 37,0.0,3.0,"Sam Darnold pass incomplete deep left intended for Justin Jefferson (defended by Jarvis Brownlee). Penalty on Jarvis Brownlee: Defensive Pass Interference, 16 yards (accepted) (no play)",0.63,2.46,11.0,2024,158
+1.0,3:25,1.0,10.0,TEN 47,6.0,3.0,"Sam Darnold pass complete short middle to Jordan Addison for 47 yards, touchdown",2.46,7.0,11.0,2024,158
+1.0,3:16,,,TEN 15,7.0,3.0,John Parker Romo kicks extra point good,0.0,0.0,11.0,2024,158
+1.0,3:16,,,MIN 35,7.0,3.0,"John Parker Romo kicks off 65 yards, touchback.",0.0,0.94,11.0,2024,158
+1.0,3:16,1.0,10.0,TEN 30,7.0,3.0,"Tony Pollard left tackle for no gain (tackle by Ivan Pace). Penalty on Nick Vannett: Offensive Holding, 10 yards (accepted) (no play)",0.94,0.28,11.0,2024,158
+1.0,2:56,1.0,20.0,TEN 20,7.0,3.0,Will Levis pass complete deep left to Nick Westbrook-Ikhine for 19 yards (tackle by Camryn Bynum),0.28,1.61,11.0,2024,158
+1.0,2:19,2.0,1.0,TEN 39,7.0,3.0,Tony Pollard left tackle for 2 yards (tackle by Ivan Pace and Blake Cashman),1.61,1.66,11.0,2024,158
+1.0,1:40,1.0,10.0,TEN 41,7.0,3.0,Tyjae Spears right guard for -2 yards (tackle by Patrick Jones and Blake Cashman),1.66,0.85,11.0,2024,158
+1.0,1:04,2.0,12.0,TEN 39,7.0,3.0,Will Levis pass incomplete deep middle intended for Calvin Ridley,0.85,0.17,11.0,2024,158
+1.0,0:57,3.0,12.0,TEN 39,7.0,3.0,Will Levis pass incomplete short right intended for Chigoziem Okonkwo,0.17,-0.78,11.0,2024,158
+1.0,0:54,4.0,12.0,TEN 39,7.0,3.0,"Ryan Stonehouse punts 50 yards, fair catch by Brandon Powell at MIN-11",-0.78,0.37,11.0,2024,158
+1.0,0:47,1.0,10.0,MIN 11,7.0,3.0,Aaron Jones left guard for 4 yards (tackle by Harold Landry),-0.37,-0.43,11.0,2024,158
+1.0,0:17,2.0,6.0,MIN 15,7.0,3.0,Sam Darnold pass incomplete short left intended for Jordan Addison,-0.43,-0.95,11.0,2024,158
+1.0,0:13,3.0,6.0,MIN 15,7.0,3.0,Sam Darnold pass complete short right to Trent Sherfield for 16 yards (tackle by Roger McCreary),-0.95,1.0,11.0,2024,158
+2.0,15:00,1.0,10.0,MIN 31,7.0,3.0,Aaron Jones right tackle for 1 yard (tackle by Kenneth Murray),1.0,0.6,11.0,2024,158
+2.0,14:34,2.0,9.0,MIN 32,7.0,3.0,Sam Darnold scrambles up the middle for 3 yards (tackle by Mike Brown),0.6,0.3,11.0,2024,158
+2.0,13:52,3.0,6.0,MIN 35,7.0,3.0,Sam Darnold pass complete deep left to Justin Jefferson for 31 yards (tackle by Roger McCreary),0.3,3.31,11.0,2024,158
+2.0,13:02,1.0,10.0,TEN 34,7.0,3.0,Sam Darnold pass complete short left to Josh Oliver for 5 yards (tackle by Jarvis Brownlee and Kenneth Murray),3.31,3.45,11.0,2024,158
+2.0,12:19,2.0,5.0,TEN 29,7.0,3.0,Aaron Jones up the middle for 4 yards (tackle by Keondre Coburn),3.45,3.27,11.0,2024,158
+2.0,11:34,3.0,1.0,TEN 25,7.0,3.0,Sam Darnold pass complete short right to T.J. Hockenson for 4 yards (tackle by Harold Landry),3.27,4.17,11.0,2024,158
+2.0,10:57,,,,,,Timeout #1 by Minnesota Vikings,,,11.0,2024,158
+2.0,10:57,1.0,10.0,TEN 21,7.0,3.0,Sam Darnold pass incomplete short left intended for Justin Jefferson (defended by Darrell Baker),4.17,3.63,11.0,2024,158
+2.0,10:54,2.0,10.0,TEN 21,7.0,3.0,Aaron Jones right end for 3 yards (tackle by Kenneth Murray and Jarvis Brownlee),3.63,3.31,11.0,2024,158
+2.0,10:14,3.0,7.0,TEN 18,7.0,3.0,Sam Darnold scrambles left end for 6 yards (tackle by Harold Landry and Jerome Baker),3.31,2.78,11.0,2024,158
+2.0,9:41,4.0,1.0,TEN 12,7.0,3.0,"Sam Darnold up the middle for no gain (tackle by Harold Landry). Penalty on T'Vondre Sweat: Defensive Offside, 5 yards (accepted) (no play)",2.78,0.0,11.0,2024,158
+2.0,9:16,1.0,10.0,TEN 7,7.0,3.0,Sam Darnold pass complete short middle to Justin Jefferson for 6 yards (tackle by Jaylen Harrell and Jerome Baker),0.0,5.91,11.0,2024,158
+2.0,8:35,2.0,1.0,TEN 1,7.0,3.0,Sam Darnold pass incomplete short right intended for Justin Jefferson (defended by Darrell Baker),5.91,5.17,11.0,2024,158
+2.0,8:31,3.0,1.0,TEN 1,7.0,3.0,Aaron Jones up the middle for no gain (tackle by James Lynch and Amani Hooker),5.17,3.55,11.0,2024,158
+2.0,7:49,4.0,1.0,TEN 1,7.0,3.0,Sam Darnold pass incomplete short left intended for Jordan Addison. Penalty on Mike Brown: Unnecessary Roughness / Defense (accepted) (no play),3.55,6.97,11.0,2024,158
+2.0,7:43,1.0,1.0,TEN 1,7.0,3.0,Penalty on TEN: Unsportsmanlike Conduct / Defense (accepted),6.97,6.97,11.0,2024,158
+2.0,7:43,1.0,1.0,TEN 1,13.0,3.0,"Sam Darnold up the middle for 1 yard, touchdown",6.97,7.0,11.0,2024,158
+2.0,7:40,,,TEN 15,13.0,3.0,John Parker Romo kicks extra point no good,0.0,-1.0,11.0,2024,158
+2.0,7:40,,,MIN 35,13.0,3.0,"John Parker Romo kicks off 65 yards, touchback.",0.0,0.94,11.0,2024,158
+2.0,7:40,1.0,10.0,TEN 30,13.0,3.0,Tony Pollard up the middle for no gain (tackle by Jerry Tillery),0.94,0.39,11.0,2024,158
+2.0,7:08,2.0,10.0,TEN 30,13.0,3.0,Will Levis pass complete short middle to Josh Whyle for 6 yards (tackle by Josh Metellus),0.39,0.5,11.0,2024,158
+2.0,6:22,3.0,4.0,TEN 36,13.0,3.0,Will Levis pass incomplete short left intended for Nick Westbrook-Ikhine,0.5,-0.98,11.0,2024,158
+2.0,6:16,4.0,4.0,TEN 36,13.0,3.0,"Ryan Stonehouse punts 51 yards, returned by Brandon Powell for 10 yards (tackle by James Williams). Penalty on James Williams: Horse Collar Tackle, 15 yards (accepted)",-0.98,-1.47,11.0,2024,158
+2.0,6:08,1.0,10.0,MIN 38,13.0,3.0,Sam Darnold pass complete short right to Cam Akers for 8 yards (tackle by Darrell Baker),1.47,2.0,11.0,2024,158
+2.0,5:32,2.0,2.0,MIN 46,13.0,3.0,Cam Akers left end for 1 yard (tackle by Harold Landry and Jerome Baker),2.0,1.42,11.0,2024,158
+2.0,4:52,3.0,1.0,MIN 47,13.0,3.0,Sam Darnold up the middle for 2 yards (tackle by T'Vondre Sweat),1.42,2.19,11.0,2024,158
+2.0,4:04,,,,,,Timeout #2 by Minnesota Vikings,,,11.0,2024,158
+2.0,4:04,1.0,10.0,MIN 49,13.0,3.0,Sam Darnold pass complete short middle to Josh Oliver for 8 yards (tackle by Kenneth Murray and T'Vondre Sweat),2.19,2.73,11.0,2024,158
+2.0,3:23,2.0,2.0,TEN 43,13.0,3.0,"Cam Akers up the middle for no gain (tackle by T'Vondre Sweat). Penalty on Trent Sherfield: Offensive Holding, 10 yards (accepted) (no play)",2.73,1.38,11.0,2024,158
+2.0,3:00,2.0,12.0,MIN 47,13.0,3.0,Sam Darnold pass complete short right to Jordan Addison for 16 yards (tackle by Kenneth Murray and Amani Hooker),1.38,3.12,11.0,2024,158
+2.0,2:11,1.0,10.0,TEN 37,13.0,3.0,"Sam Darnold pass incomplete short left. Penalty on Darrell Baker: Illegal Contact, 5 yards (accepted) (no play)",3.12,3.45,11.0,2024,158
+2.0,2:11,1.0,10.0,TEN 32,13.0,3.0,Sam Darnold pass incomplete short middle intended for T.J. Hockenson,3.45,2.9,11.0,2024,158
+2.0,2:07,2.0,10.0,TEN 32,13.0,3.0,Cam Akers left guard for 12 yards (tackle by Darrell Baker),2.9,4.24,11.0,2024,158
+2.0,2:00,1.0,10.0,TEN 20,13.0,3.0,Sam Darnold pass complete short right to Jordan Addison for -2 yards (tackle by Roger McCreary and Harold Landry),4.24,3.42,11.0,2024,158
+2.0,1:55,,,,,,Timeout #1 by Tennessee Titans,,,11.0,2024,158
+2.0,1:55,2.0,12.0,TEN 22,13.0,3.0,Cam Akers up the middle for no gain (tackle by Jeffery Simmons),3.42,2.74,11.0,2024,158
+2.0,1:51,,,,,,Timeout #2 by Tennessee Titans,,,11.0,2024,158
+2.0,1:51,3.0,12.0,TEN 22,13.0,3.0,Sam Darnold pass incomplete deep left intended for Jordan Addison,2.74,1.99,11.0,2024,158
+2.0,1:45,4.0,12.0,TEN 22,16.0,3.0,John Parker Romo 40 yard field goal good,1.99,3.0,11.0,2024,158
+2.0,1:41,,,MIN 35,16.0,3.0,"John Parker Romo kicks off 65 yards, touchback.",0.0,0.94,11.0,2024,158
+2.0,1:41,1.0,10.0,TEN 30,16.0,3.0,Will Levis pass incomplete short right intended for Chigoziem Okonkwo,0.94,0.39,11.0,2024,158
+2.0,1:36,2.0,10.0,TEN 30,16.0,3.0,Will Levis pass complete short middle to Tyjae Spears for 5 yards (tackle by Jonathan Greenard),0.39,0.37,11.0,2024,158
+2.0,1:19,3.0,5.0,TEN 35,16.0,3.0,Will Levis pass complete deep right to Calvin Ridley for 16 yards (tackle by Theo Jackson),0.37,2.32,11.0,2024,158
+2.0,0:50,1.0,10.0,MIN 49,16.0,3.0,Will Levis pass incomplete short left intended for Nick Westbrook-Ikhine (defended by Harrison Smith),2.32,1.78,11.0,2024,158
+2.0,0:47,2.0,10.0,MIN 49,16.0,3.0,Will Levis sacked by Andrew Van Ginkel for -5 yards,1.78,0.43,11.0,2024,158
+2.0,0:37,,,,,,Timeout #3 by Tennessee Titans,,,11.0,2024,158
+2.0,0:37,3.0,15.0,TEN 46,16.0,3.0,Will Levis sacked by Andrew Van Ginkel for -8 yards,0.43,-0.85,11.0,2024,158
+2.0,0:30,,,,,,Timeout #3 by Minnesota Vikings,,,11.0,2024,158
+2.0,0:30,4.0,23.0,TEN 38,16.0,3.0,"Ryan Stonehouse punts 62 yards, touchback.",-0.85,-0.28,11.0,2024,158
+2.0,0:22,1.0,10.0,MIN 20,16.0,3.0,Sam Darnold kneels for -1 yards,0.28,-0.46,11.0,2024,158
+3.0,15:00,,,TEN 35,16.0,3.0,"Nick Folk kicks off 65 yards, touchback.",0.0,0.94,11.0,2024,158
+3.0,15:00,1.0,10.0,MIN 30,16.0,3.0,Aaron Jones left tackle for 5 yards (tackle by T'Vondre Sweat),0.94,1.07,11.0,2024,158
+3.0,14:15,2.0,5.0,MIN 35,16.0,3.0,Sam Darnold pass incomplete short left intended for Jordan Addison,1.07,0.37,11.0,2024,158
+3.0,14:10,3.0,5.0,MIN 35,16.0,3.0,Sam Darnold sacked by Kenneth Murray for -1 yards,0.37,-1.11,11.0,2024,158
+3.0,13:22,4.0,6.0,MIN 34,16.0,3.0,"Ryan Wright punts 66 yards, touchback.",-1.11,-0.28,11.0,2024,158
+3.0,13:14,1.0,10.0,TEN 20,16.0,3.0,Will Levis pass complete short middle to Nick Vannett for 6 yards (tackle by Harrison Smith and Ivan Pace),0.28,0.54,11.0,2024,158
+3.0,12:43,2.0,4.0,TEN 26,16.0,3.0,Tony Pollard left end for 3 yards (tackle by Ivan Pace and Josh Metellus),0.54,0.23,11.0,2024,158
+3.0,12:02,3.0,1.0,TEN 29,16.0,3.0,Will Levis left end for -2 yards (tackle by Jonathan Greenard),0.23,-1.57,11.0,2024,158
+3.0,11:16,4.0,3.0,TEN 27,16.0,3.0,"Ryan Stonehouse punts 46 yards, returned by Brandon Powell for 7 yards (tackle by Bryce Oliver)",-1.57,-1.2,11.0,2024,158
+3.0,11:06,1.0,10.0,MIN 34,16.0,3.0,"Aaron Jones right tackle for 3 yards. Aaron Jones fumbles (forced by Jeffery Simmons), recovered by Aaron Jones at MIN-37",1.2,1.06,11.0,2024,158
+3.0,10:40,2.0,7.0,MIN 37,16.0,3.0,Sam Darnold pass complete short right to T.J. Hockenson for 9 yards (tackle by Roger McCreary),1.06,1.99,11.0,2024,158
+3.0,10:08,1.0,10.0,MIN 46,16.0,3.0,Sam Darnold pass complete short left to Aaron Jones for 4 yards (tackle by Kenneth Murray),1.99,1.99,11.0,2024,158
+3.0,9:26,2.0,6.0,MIN 50,16.0,3.0,Aaron Jones left guard for 1 yard (tackle by Darrell Baker),1.99,1.42,11.0,2024,158
+3.0,8:41,3.0,5.0,TEN 49,16.0,3.0,Sam Darnold pass incomplete short right intended for Jordan Addison,1.42,0.0,11.0,2024,158
+3.0,8:38,4.0,5.0,TEN 49,16.0,3.0,Ryan Wright punts 47 yards downed by Trent Sherfield,0.0,0.38,11.0,2024,158
+3.0,8:30,1.0,10.0,TEN 2,16.0,3.0,Tony Pollard up the middle for -1 yards (tackle by Jonathan Bullard and Jalen Redmond),-0.38,-0.85,11.0,2024,158
+3.0,7:56,2.0,11.0,TEN 1,16.0,3.0,Will Levis up the middle for 1 yard (tackle by Jerry Tillery and Harrison Phillips),-0.85,-1.42,11.0,2024,158
+3.0,7:12,3.0,10.0,TEN 2,16.0,9.0,"Will Levis pass complete deep right to Nick Westbrook-Ikhine for 98 yards, touchdown",-1.42,7.0,11.0,2024,158
+3.0,7:00,,,MIN 15,16.0,10.0,Nick Folk kicks extra point good,0.0,0.0,11.0,2024,158
+3.0,7:00,,,TEN 35,16.0,10.0,"Nick Folk kicks off 65 yards, returned by Ty Chandler for 35 yards (tackle by Mike Brown)",0.0,1.27,11.0,2024,158
+3.0,6:55,1.0,10.0,MIN 35,16.0,10.0,Sam Darnold pass complete deep left to Justin Jefferson for 25 yards (tackle by Daryl Worley),1.27,2.92,11.0,2024,158
+3.0,6:07,1.0,10.0,TEN 40,16.0,10.0,Cam Akers up the middle for -1 yards (tackle by T'Vondre Sweat),2.92,2.24,11.0,2024,158
+3.0,5:36,2.0,11.0,TEN 41,16.0,10.0,Sam Darnold pass incomplete deep right intended for Jordan Addison,2.24,1.55,11.0,2024,158
+3.0,5:31,3.0,11.0,TEN 41,16.0,10.0,"Sam Darnold sacked by Jeffery Simmons for no gain. Sam Darnold fumbles (forced by Jeffery Simmons), recovered by Sam Darnold at TEN-49. Penalty on Jarvis Brownlee: Illegal Contact, 5 yards (accepted) (no play)",1.55,3.18,11.0,2024,158
+3.0,5:12,1.0,10.0,TEN 36,16.0,10.0,Sam Darnold pass complete short right to Josh Oliver for 21 yards (tackle by Mike Brown and Darrell Baker),3.18,4.58,11.0,2024,158
+3.0,4:46,1.0,10.0,TEN 15,16.0,10.0,Cam Akers right guard for 2 yards (tackle by Jerome Baker and Kenneth Murray),4.58,4.28,11.0,2024,158
+3.0,4:03,2.0,8.0,TEN 13,16.0,10.0,Sam Darnold pass complete short left to Justin Jefferson for 10 yards (tackle by Jerome Baker),4.28,6.51,11.0,2024,158
+3.0,3:19,1.0,3.0,TEN 3,22.0,10.0,"Sam Darnold pass complete short right to Cam Akers for 3 yards, touchdown",6.51,7.0,11.0,2024,158
+3.0,3:15,,,TEN 15,23.0,10.0,John Parker Romo kicks extra point good,0.0,0.0,11.0,2024,158
+3.0,3:15,,,MIN 35,23.0,10.0,"John Parker Romo kicks off 65 yards, touchback.",0.0,0.94,11.0,2024,158
+3.0,3:15,1.0,10.0,TEN 30,23.0,10.0,Will Levis pass complete deep left to Calvin Ridley for 15 yards (tackle by Byron Murphy),0.94,1.93,11.0,2024,158
+3.0,2:39,1.0,10.0,TEN 45,23.0,10.0,"Will Levis pass complete short right to Tyjae Spears for no gain (tackle by Ivan Pace). Penalty on Isaiah Prince: Illegal Formation, 5 yards (accepted) (no play)",1.93,1.6,11.0,2024,158
+3.0,2:12,1.0,15.0,TEN 40,23.0,10.0,Will Levis pass complete short right to Calvin Ridley for 6 yards,1.6,1.52,11.0,2024,158
+3.0,1:35,2.0,9.0,TEN 46,23.0,10.0,Will Levis pass complete short left to Tyjae Spears for 3 yards (tackle by Camryn Bynum and Byron Murphy),1.52,1.22,11.0,2024,158
+3.0,0:54,3.0,6.0,TEN 49,23.0,10.0,"Will Levis pass complete deep middle to Calvin Ridley for no gain, touchdown. Penalty on Isaiah Prince: Illegal Formation, 5 yards (accepted) (no play)",1.22,0.56,11.0,2024,158
+3.0,0:48,3.0,11.0,TEN 44,23.0,10.0,Will Levis pass complete deep middle to Bryce Oliver for 33 yards (tackle by Shaquill Griffin),0.56,4.04,11.0,2024,158
+4.0,15:00,1.0,10.0,MIN 23,23.0,10.0,Will Levis pass incomplete short left intended for Tyjae Spears,4.04,3.5,11.0,2024,158
+4.0,14:56,2.0,10.0,MIN 23,23.0,10.0,Tyjae Spears left tackle for -2 yards (tackle by Andrew Van Ginkel),3.5,2.54,11.0,2024,158
+4.0,14:20,3.0,12.0,MIN 25,23.0,10.0,Will Levis pass incomplete deep middle,2.54,1.8,11.0,2024,158
+4.0,14:12,4.0,12.0,MIN 25,23.0,13.0,Nick Folk 43 yard field goal good,1.8,3.0,11.0,2024,158
+4.0,14:08,,,TEN 35,23.0,13.0,"Nick Folk kicks off 65 yards, touchback.",0.0,0.94,11.0,2024,158
+4.0,14:08,1.0,10.0,MIN 30,23.0,13.0,Aaron Jones right guard for no gain (tackle by Jeffery Simmons),0.94,0.39,11.0,2024,158
+4.0,13:25,2.0,10.0,MIN 30,23.0,13.0,"Sam Darnold pass incomplete short middle intended for Brandon Powell MIN challenged the pass completion ruling, and the original play was overturned. Sam Darnold pass complete short middle to Brandon Powell for 13 yards (tackle by Jerome Baker)",0.39,1.8,11.0,2024,158
+4.0,13:08,1.0,10.0,MIN 43,23.0,13.0,Aaron Jones left guard for 4 yards (tackle by Arden Key),1.8,1.79,11.0,2024,158
+4.0,12:30,2.0,6.0,MIN 47,23.0,13.0,Aaron Jones right tackle for 5 yards (tackle by Amani Hooker),1.79,1.75,11.0,2024,158
+4.0,11:47,3.0,1.0,TEN 48,23.0,13.0,Sam Darnold up the middle for 2 yards (tackle by T'Vondre Sweat),1.75,2.52,11.0,2024,158
+4.0,11:05,1.0,10.0,TEN 46,23.0,13.0,Sam Darnold pass incomplete deep left intended for Jalen Nailor,2.52,1.98,11.0,2024,158
+4.0,10:57,2.0,10.0,TEN 46,23.0,13.0,Sam Darnold pass incomplete short right intended for Jalen Nailor,1.98,1.29,11.0,2024,158
+4.0,10:54,3.0,10.0,TEN 46,23.0,13.0,Sam Darnold pass incomplete short right,1.29,0.2,11.0,2024,158
+4.0,10:48,4.0,10.0,TEN 46,23.0,13.0,"Ryan Wright punts 40 yards, returned by Jha'Quan Jackson for 20 yards (tackle by Ty Chandler). Penalty on Ty Chandler: Unnecessary Roughness / Defense, 15 yards (accepted)",0.2,-1.66,11.0,2024,158
+4.0,10:38,1.0,10.0,TEN 41,23.0,13.0,Will Levis pass complete short left to Tony Pollard for 10 yards (tackle by Josh Metellus),1.66,2.32,11.0,2024,158
+4.0,10:04,1.0,10.0,MIN 49,23.0,13.0,Tony Pollard left end for 4 yards (tackle by Harrison Smith),2.32,2.32,11.0,2024,158
+4.0,9:18,2.0,6.0,MIN 45,23.0,13.0,Will Levis pass incomplete deep middle intended for Nick Westbrook-Ikhine,2.32,1.62,11.0,2024,158
+4.0,9:14,3.0,6.0,MIN 45,23.0,13.0,Tony Pollard up the middle for 2 yards (tackle by Jihad Ward and Jonathan Greenard),1.62,0.4,11.0,2024,158
+4.0,8:37,4.0,4.0,MIN 43,23.0,13.0,Will Levis sacked by Patrick Jones for -6 yards,0.4,-2.19,11.0,2024,158
+4.0,8:32,1.0,10.0,MIN 49,23.0,13.0,Cam Akers up the middle for 4 yards (tackle by Jeffery Simmons),2.19,2.19,11.0,2024,158
+4.0,7:52,2.0,6.0,TEN 47,23.0,13.0,Sam Darnold pass complete short left to Johnny Mundt for 13 yards (tackle by Jerome Baker),2.19,3.31,11.0,2024,158
+4.0,7:07,1.0,10.0,TEN 34,23.0,13.0,Cam Akers up the middle for 4 yards (tackle by Kenneth Murray),3.31,3.31,11.0,2024,158
+4.0,6:23,2.0,6.0,TEN 30,23.0,13.0,Cam Akers left tackle for -3 yards (tackle by Arden Key),3.31,2.21,11.0,2024,158
+4.0,5:40,3.0,9.0,TEN 33,23.0,13.0,Sam Darnold sacked by Arden Key for -9 yards,2.21,0.46,11.0,2024,158
+4.0,5:16,4.0,18.0,TEN 42,23.0,13.0,"Ryan Wright punts 29 yards, returned by Jha'Quan Jackson for 6 yards (tackle by Bo Richter)",0.46,-0.15,11.0,2024,158
+4.0,5:09,1.0,10.0,TEN 19,23.0,13.0,Will Levis pass incomplete short right,0.15,-0.39,11.0,2024,158
+4.0,5:05,2.0,10.0,TEN 19,23.0,13.0,Will Levis pass complete short right to Tyler Boyd for 30 yards (tackle by Byron Murphy and Ivan Pace),-0.39,2.19,11.0,2024,158
+4.0,4:14,1.0,10.0,TEN 49,23.0,13.0,Will Levis pass incomplete short right intended for Tony Pollard,2.19,1.65,11.0,2024,158
+4.0,4:09,2.0,10.0,TEN 49,23.0,13.0,"Will Levis pass complete short right to Nick Westbrook-Ikhine for no gain (tackle by Camryn Bynum). Penalty on Isaiah Prince: Illegal Formation, 5 yards (accepted) (no play)",1.65,0.97,11.0,2024,158
+4.0,3:59,2.0,15.0,TEN 44,23.0,13.0,Will Levis pass complete short right to Tony Pollard for 4 yards (tackle by Stephon Gilmore),0.97,0.83,11.0,2024,158
+4.0,3:13,3.0,11.0,TEN 48,23.0,13.0,Will Levis pass complete short middle to Tyler Boyd for 4 yards (tackle by Blake Cashman),0.83,0.07,11.0,2024,158
+4.0,2:30,4.0,7.0,MIN 48,23.0,13.0,Will Levis pass incomplete short left intended for Tyler Boyd,0.07,-2.13,11.0,2024,158
+4.0,2:23,1.0,10.0,MIN 48,23.0,13.0,Cam Akers left tackle for 3 yards (tackle by Jerome Baker and Harold Landry),2.13,1.99,11.0,2024,158
+4.0,2:17,,,,,,Timeout #1 by Tennessee Titans,,,11.0,2024,158
+4.0,2:17,2.0,7.0,TEN 49,23.0,13.0,Cam Akers left guard for 3 yards (tackle by Arden Key),1.99,1.68,11.0,2024,158
+4.0,2:05,,,,,,Timeout #2 by Tennessee Titans,,,11.0,2024,158
+4.0,2:05,3.0,4.0,TEN 46,23.0,13.0,"Sam Darnold pass incomplete short left. Penalty on Sam Darnold: Intentional Grounding, 10 yards (accepted)",1.68,-0.46,11.0,2024,158
+4.0,2:05,4.0,14.0,MIN 44,23.0,13.0,Ryan Wright punts 40 yards out of bounds,-0.46,0.14,11.0,2024,158
+4.0,1:57,1.0,10.0,TEN 16,23.0,13.0,Will Levis pass deep right intended for Calvin Ridley is intercepted by Harrison Smith at MIN-34 and returned for no gain (tackle by Calvin Ridley),-0.14,-1.2,11.0,2024,158
+4.0,1:50,1.0,10.0,MIN 34,23.0,13.0,Aaron Jones up the middle for 3 yards (tackle by Amani Hooker),1.2,1.06,11.0,2024,158
+4.0,1:05,2.0,7.0,MIN 37,23.0,13.0,Aaron Jones up the middle for 4 yards (tackle by Ali Gaye),1.06,0.89,11.0,2024,158
+4.0,0:20,,,,,,Timeout #1 by Minnesota Vikings,,,11.0,2024,158
+4.0,0:20,3.0,3.0,MIN 41,23.0,13.0,Aaron Jones up the middle for -1 yards (tackle by Ali Gaye),0.89,-0.72,11.0,2024,158

@@ -1,0 +1,160 @@
+Quarter,Time,Down,ToGo,Location,PIT,BAL,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Ravens won the coin toss and deferred, Steelers to receive the opening kickoff.",,,18.0,2023,257
+1.0,15:00,,,BAL 35,0.0,0.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,257
+1.0,15:00,1.0,10.0,PIT 25,0.0,0.0,Najee Harris up the middle for 2 yards (tackle by Patrick Queen and Jadeveon Clowney),0.61,0.33,18.0,2023,257
+1.0,14:24,2.0,8.0,PIT 27,0.0,0.0,Mason Rudolph pass complete short right to Najee Harris for 7 yards (tackle by Arthur Maulet),0.33,0.56,18.0,2023,257
+1.0,13:40,3.0,1.0,PIT 34,0.0,0.0,Mason Rudolph pass complete short middle to Diontae Johnson for 7 yards (tackle by Del'Shawn Phillips),0.56,1.66,18.0,2023,257
+1.0,12:55,1.0,10.0,PIT 41,0.0,0.0,Jaylen Warren left end for no gain (tackle by Del'Shawn Phillips and Travis Jones),1.66,1.12,18.0,2023,257
+1.0,12:16,2.0,10.0,PIT 41,0.0,0.0,Mason Rudolph pass complete short right to Diontae Johnson for 6 yards (tackle by Del'Shawn Phillips),1.12,1.22,18.0,2023,257
+1.0,11:49,3.0,4.0,PIT 47,0.0,0.0,Mason Rudolph pass incomplete short middle intended for Allen Robinson (defended by Marcus Williams),1.22,-0.26,18.0,2023,257
+1.0,11:44,4.0,4.0,PIT 47,0.0,0.0,"Pressley Harvin punts 34 yards, fair catch by Tylan Wallace at BAL-19",-0.26,-0.15,18.0,2023,257
+1.0,11:37,1.0,10.0,BAL 19,0.0,0.0,Tyler Huntley scrambles left end for 2 yards (tackle by Eric Rowe),0.15,-0.06,18.0,2023,257
+1.0,11:02,2.0,8.0,BAL 21,0.0,0.0,Tyler Huntley pass complete short right to Charlie Kolar for 5 yards (tackle by Eric Rowe),-0.06,-0.16,18.0,2023,257
+1.0,10:26,3.0,3.0,BAL 26,0.0,0.0,Tyler Huntley pass incomplete short right intended for Justice Hill,-0.16,-1.63,18.0,2023,257
+1.0,10:20,4.0,3.0,BAL 26,0.0,0.0,"Jordan Stout punts 64 yards, returned by Calvin Austin for 14 yards (tackle by Trenton Simpson)",-1.63,-0.54,18.0,2023,257
+1.0,10:08,1.0,10.0,PIT 24,0.0,0.0,Najee Harris up the middle for 5 yards (tackle by Marcus Williams and Tavius Robinson),0.54,0.67,18.0,2023,257
+1.0,9:34,2.0,5.0,PIT 29,0.0,0.0,Najee Harris right guard for 4 yards (tackle by Patrick Queen and Del'Shawn Phillips),0.67,0.5,18.0,2023,257
+1.0,8:54,3.0,1.0,PIT 33,0.0,0.0,Najee Harris up the middle for 1 yard (tackle by Del'Shawn Phillips),0.5,1.2,18.0,2023,257
+1.0,8:10,1.0,10.0,PIT 34,0.0,0.0,Jaylen Warren left end for 23 yards (tackle by Del'Shawn Phillips),1.2,2.72,18.0,2023,257
+1.0,7:25,1.0,10.0,BAL 43,0.0,0.0,Calvin Austin left end for 8 yards (tackle by Brandon Stephens),2.72,3.26,18.0,2023,257
+1.0,6:49,2.0,2.0,BAL 35,0.0,0.0,Mason Rudolph pass complete short right to Connor Heyward for 2 yards (tackle by Justin Madubuike),3.26,3.38,18.0,2023,257
+1.0,6:07,1.0,10.0,BAL 33,0.0,0.0,Jaylen Warren left guard for 5 yards (tackle by Arthur Maulet),3.38,3.51,18.0,2023,257
+1.0,5:26,2.0,5.0,BAL 28,0.0,0.0,Mason Rudolph pass complete short left to Diontae Johnson for 5 yards (tackle by Brandon Stephens),3.51,4.04,18.0,2023,257
+1.0,4:47,1.0,10.0,BAL 23,0.0,0.0,Najee Harris up the middle for 9 yards (tackle by Travis Jones and Marcus Williams),4.04,4.95,18.0,2023,257
+1.0,4:11,2.0,1.0,BAL 14,0.0,0.0,Mason Rudolph pass complete short middle to Najee Harris for 6 yards (tackle by Del'Shawn Phillips and Travis Jones),4.95,5.37,18.0,2023,257
+1.0,3:26,1.0,8.0,BAL 8,0.0,0.0,Najee Harris right guard for 2 yards (tackle by Michael Pierce and Tavius Robinson),5.37,4.95,18.0,2023,257
+1.0,2:41,2.0,6.0,BAL 6,6.0,0.0,"Najee Harris up the middle for 6 yards, touchdown",4.95,7.0,18.0,2023,257
+1.0,2:36,,,BAL 15,7.0,0.0,Chris Boswell kicks extra point good,0.0,0.0,18.0,2023,257
+1.0,2:36,,,PIT 35,7.0,0.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,257
+1.0,2:36,1.0,10.0,BAL 25,7.0,0.0,Melvin Gordon right end for 3 yards (tackle by T.J. Watt and Mark Robinson),0.61,0.47,18.0,2023,257
+1.0,1:57,2.0,7.0,BAL 28,7.0,0.0,Tyler Huntley pass incomplete short middle intended for Charlie Kolar,0.47,-0.23,18.0,2023,257
+1.0,1:54,3.0,7.0,BAL 28,7.0,0.0,Tyler Huntley pass incomplete short right intended for Justice Hill,-0.23,-1.5,18.0,2023,257
+1.0,1:45,4.0,7.0,BAL 28,7.0,0.0,"Jordan Stout punts 51 yards, returned by Calvin Austin for 16 yards (tackle by Tyler Ott)",-1.5,-1.4,18.0,2023,257
+1.0,1:34,1.0,10.0,PIT 37,7.0,0.0,Najee Harris right guard for 5 yards (tackle by Broderick Washington),1.4,1.53,18.0,2023,257
+1.0,0:56,2.0,5.0,PIT 42,7.0,0.0,Mason Rudolph pass complete short right to Connor Heyward for 2 yards (tackle by Patrick Queen),1.53,1.09,18.0,2023,257
+1.0,0:11,3.0,3.0,PIT 44,7.0,0.0,Mason Rudolph pass incomplete deep left intended for Diontae Johnson,1.09,-0.46,18.0,2023,257
+1.0,0:05,4.0,3.0,PIT 44,7.0,0.0,Pressley Harvin punts 49 yards downed by James Pierre (no play),-0.46,-0.78,18.0,2023,257
+2.0,15:00,4.0,9.0,PIT 39,7.0,0.0,Pressley Harvin punts 26 yards out of bounds,-0.78,-1.27,18.0,2023,257
+2.0,14:52,1.0,10.0,BAL 35,7.0,0.0,Melvin Gordon right end for 6 yards (tackle by Eric Rowe),1.27,1.53,18.0,2023,257
+2.0,14:14,2.0,4.0,BAL 41,7.0,0.0,Melvin Gordon right guard for 4 yards (tackle by T.J. Watt and Eric Rowe),1.53,1.93,18.0,2023,257
+2.0,13:33,1.0,10.0,BAL 45,7.0,0.0,"Melvin Gordon right end for no gain. Melvin Gordon fumbles (forced by Mark Robinson), recovered by Larry Ogunjobi at BAL-45",1.93,-2.59,18.0,2023,257
+2.0,13:28,1.0,10.0,BAL 45,7.0,0.0,Najee Harris left end for 10 yards (tackle by Patrick Queen),2.59,3.25,18.0,2023,257
+2.0,12:55,1.0,10.0,BAL 35,7.0,0.0,"Penalty on Mason Cole: False Start, 5 yards (accepted) (no play)",3.25,2.92,18.0,2023,257
+2.0,12:35,1.0,15.0,BAL 40,7.0,0.0,Najee Harris up the middle for 2 yards (tackle by Del'Shawn Phillips and Tavius Robinson),2.92,2.3,18.0,2023,257
+2.0,11:58,2.0,13.0,BAL 38,7.0,0.0,Mason Rudolph pass complete short middle to Jaylen Warren for 5 yards (tackle by Arthur Maulet),2.3,2.28,18.0,2023,257
+2.0,11:15,3.0,8.0,BAL 33,7.0,0.0,"Mason Rudolph pass complete short right to Jaylen Warren for 1 yard. Jaylen Warren fumbles (forced by Del'Shawn Phillips), recovered by Arthur Maulet at BAL-33",2.28,-1.14,18.0,2023,257
+2.0,11:02,1.0,10.0,BAL 33,7.0,0.0,Tyler Huntley pass incomplete short left intended for Justice Hill,1.14,0.59,18.0,2023,257
+2.0,10:54,2.0,10.0,BAL 33,7.0,0.0,Tyler Huntley scrambles up the middle for 7 yards (tackle by T.J. Watt),0.59,0.83,18.0,2023,257
+2.0,10:15,3.0,3.0,BAL 40,7.0,0.0,Tyler Huntley pass complete short right to Isaiah Likely for 4 yards (tackle by Eric Rowe),0.83,1.86,18.0,2023,257
+2.0,9:39,1.0,10.0,BAL 44,7.0,0.0,Tyler Huntley sacked by Mark Robinson for -8 yards,1.86,0.24,18.0,2023,257
+2.0,8:56,2.0,18.0,BAL 36,7.0,0.0,Tyler Huntley pass complete short left to Justice Hill for 4 yards (tackle by Miles Killebrew),0.24,0.1,18.0,2023,257
+2.0,8:19,3.0,14.0,BAL 40,7.0,0.0,Tyler Huntley scrambles right end for 7 yards (tackle by Alex Highsmith),0.1,-0.26,18.0,2023,257
+2.0,7:48,4.0,7.0,BAL 47,7.0,0.0,"Jordan Stout punts downed by Laquon Treadwell. Penalty on Trenton Simpson: Ineligible Downfield Kick, 6 yards (accepted) (no play)",-0.26,-0.65,18.0,2023,257
+2.0,7:36,4.0,13.0,BAL 41,7.0,0.0,"Jordan Stout punts 59 yards, touchback.. Penalty on Connor Heyward: Defensive Holding, 10 yards (accepted)",-0.65,0.38,18.0,2023,257
+2.0,7:26,1.0,10.0,PIT 10,7.0,0.0,Najee Harris left end for 2 yards (tackle by Broderick Washington and Marcus Williams),-0.38,-0.63,18.0,2023,257
+2.0,6:42,2.0,8.0,PIT 12,7.0,0.0,Mason Rudolph pass complete short middle to Najee Harris for 5 yards (tackle by Rock Ya-Sin),-0.63,-0.6,18.0,2023,257
+2.0,5:56,3.0,3.0,PIT 17,7.0,0.0,Jaylen Warren up the middle for 2 yards (tackle by Kyle Van Noy and Marcus Williams),-0.6,-2.14,18.0,2023,257
+2.0,5:19,4.0,1.0,PIT 19,7.0,0.0,Pressley Harvin punts 52 yards downed by James Pierre,-2.14,-0.87,18.0,2023,257
+2.0,5:07,1.0,10.0,BAL 29,7.0,0.0,Gus Edwards left guard for 1 yard (tackle by Isaiahh Loudermilk),0.87,0.46,18.0,2023,257
+2.0,4:30,2.0,9.0,BAL 30,7.0,0.0,Tyler Huntley pass incomplete short middle intended for Justice Hill (defended by Eric Rowe),0.46,-0.23,18.0,2023,257
+2.0,4:25,3.0,9.0,BAL 30,7.0,0.0,Tyler Huntley pass complete deep right to Laquon Treadwell for 16 yards (tackle by Chandon Sullivan),-0.23,1.99,18.0,2023,257
+2.0,3:43,1.0,10.0,BAL 46,7.0,0.0,Gus Edwards right guard for 29 yards (tackle by Eric Rowe),1.99,3.91,18.0,2023,257
+2.0,3:05,1.0,10.0,PIT 25,7.0,0.0,Gus Edwards up the middle for -2 yards (tackle by T.J. Watt),3.91,3.09,18.0,2023,257
+2.0,2:26,2.0,12.0,PIT 27,7.0,6.0,"Tyler Huntley pass complete deep right to Isaiah Likely for 27 yards, touchdown",3.09,7.0,18.0,2023,257
+2.0,2:19,,,PIT 15,7.0,7.0,Justin Tucker kicks extra point good,0.0,0.0,18.0,2023,257
+2.0,2:19,,,BAL 35,7.0,7.0,"Justin Tucker kicks off 60 yards, out of bounds",0.0,1.6,18.0,2023,257
+2.0,2:19,1.0,10.0,PIT 40,7.0,7.0,Jaylen Warren left guard for 5 yards (tackle by Justin Madubuike and Michael Pierce),1.6,1.73,18.0,2023,257
+2.0,2:00,2.0,5.0,PIT 45,7.0,7.0,Jaylen Warren left end for -1 yards (tackle by Jeremiah Moon and Patrick Queen),1.73,0.89,18.0,2023,257
+2.0,1:16,3.0,6.0,PIT 44,7.0,7.0,Mason Rudolph pass complete short left to Pat Freiermuth for 13 yards (tackle by Marcus Williams),0.89,2.72,18.0,2023,257
+2.0,1:10,1.0,10.0,BAL 43,7.0,7.0,Mason Rudolph pass complete short right to Jaylen Warren for 3 yards (tackle by Del'Shawn Phillips),2.72,2.58,18.0,2023,257
+2.0,0:51,2.0,7.0,BAL 40,7.0,7.0,Mason Rudolph pass complete short middle to Jaylen Warren for 7 yards (tackle by Patrick Queen),2.58,3.38,18.0,2023,257
+2.0,0:42,,,,,,Timeout #1 by Pittsburgh Steelers,,,18.0,2023,257
+2.0,0:42,1.0,10.0,BAL 33,7.0,7.0,"Mason Rudolph sacked by Jadeveon Clowney for -9 yards. Mason Rudolph fumbles (forced by Jadeveon Clowney), recovered by Dan Moore at BAL-42",3.38,1.62,18.0,2023,257
+2.0,0:31,,,,,,Timeout #2 by Pittsburgh Steelers,,,18.0,2023,257
+2.0,0:31,2.0,19.0,BAL 42,7.0,7.0,Mason Rudolph pass complete short middle to Pat Freiermuth for 8 yards (tackle by Arthur Maulet),1.62,2.01,18.0,2023,257
+2.0,0:13,3.0,11.0,BAL 34,7.0,7.0,"Mason Rudolph sacked by Kyle Van Noy for -3 yards. Mason Rudolph fumbles (forced by Kyle Van Noy), recovered by Broderick Washington at BAL-37",2.01,-1.4,18.0,2023,257
+2.0,0:05,1.0,10.0,BAL 37,7.0,7.0,Tyler Huntley kneels for -1 yards,1.4,0.72,18.0,2023,257
+3.0,15:00,,,PIT 35,7.0,7.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,257
+3.0,15:00,1.0,10.0,BAL 25,7.0,7.0,"Penalty on BAL: Delay of Game, 5 yards (accepted) (no play)",0.61,0.28,18.0,2023,257
+3.0,15:00,1.0,15.0,BAL 20,7.0,7.0,Gus Edwards left tackle for 2 yards (tackle by Cameron Heyward),0.28,-0.34,18.0,2023,257
+3.0,14:20,2.0,13.0,BAL 22,7.0,7.0,Tyler Huntley sacked by T.J. Watt for -3 yards,-0.34,-1.51,18.0,2023,257
+3.0,13:35,3.0,16.0,BAL 19,7.0,7.0,Tyler Huntley pass incomplete short middle intended for Laquon Treadwell,-1.51,-2.14,18.0,2023,257
+3.0,13:27,4.0,16.0,BAL 19,7.0,7.0,"Jordan Stout punts 66 yards, recovered by Calvin Austin at PIT-15 (tackle by Trenton Simpson)",-2.14,-1.33,18.0,2023,257
+3.0,13:13,1.0,10.0,PIT 36,7.0,7.0,Najee Harris left guard for 15 yards (tackle by Marcus Williams and Trenton Simpson),1.33,2.32,18.0,2023,257
+3.0,12:33,1.0,10.0,BAL 49,7.0,7.0,Najee Harris up the middle for 2 yards (tackle by Michael Pierce),2.32,2.05,18.0,2023,257
+3.0,11:48,2.0,8.0,BAL 47,7.0,7.0,Najee Harris right end for -2 yards (tackle by Jadeveon Clowney and Rock Ya-Sin),2.05,1.09,18.0,2023,257
+3.0,10:59,3.0,10.0,BAL 49,7.0,7.0,"Penalty on PIT: Delay of Game, 5 yards (accepted) (no play)",1.09,0.43,18.0,2023,257
+3.0,10:57,3.0,15.0,PIT 46,7.0,7.0,"Mason Rudolph aborted snap, recovered by Mason Rudolph at PIT-40 and returned for -6 yards",0.43,-0.72,18.0,2023,257
+3.0,10:26,4.0,21.0,PIT 40,7.0,7.0,"Pressley Harvin punts 39 yards, fair catch by Tylan Wallace at BAL-21",-0.72,-0.34,18.0,2023,257
+3.0,10:21,1.0,10.0,BAL 21,7.0,7.0,Gus Edwards right guard for 2 yards (tackle by Mark Robinson),0.34,0.07,18.0,2023,257
+3.0,9:44,2.0,8.0,BAL 23,7.0,7.0,Gus Edwards right tackle for 1 yard (tackle by Mykal Walker and T.J. Watt),0.07,-0.49,18.0,2023,257
+3.0,9:04,3.0,7.0,BAL 24,7.0,7.0,Tyler Huntley sacked by T.J. Watt for -8 yards,-0.49,-2.39,18.0,2023,257
+3.0,8:30,4.0,15.0,BAL 16,7.0,7.0,"Jordan Stout punts 57 yards, returned by Calvin Austin for 7 yards (tackle by Tyler Ott)",-2.39,-1.2,18.0,2023,257
+3.0,8:18,1.0,10.0,PIT 34,7.0,7.0,Najee Harris up the middle for 11 yards (tackle by Tavius Robinson),1.2,1.93,18.0,2023,257
+3.0,7:35,1.0,10.0,PIT 45,7.0,7.0,Najee Harris right end for -4 yards (tackle by Del'Shawn Phillips),1.93,0.84,18.0,2023,257
+3.0,6:53,2.0,14.0,PIT 41,7.0,7.0,Mason Rudolph sacked by Trenton Simpson for -6 yards,0.84,-0.63,18.0,2023,257
+3.0,6:12,3.0,20.0,PIT 35,7.0,7.0,Mason Rudolph pass complete short left to Jaylen Warren for 1 yard (tackle by Jadeveon Clowney),-0.63,-0.98,18.0,2023,257
+3.0,5:42,4.0,19.0,PIT 36,7.0,7.0,"Pressley Harvin punts 46 yards, fair catch by Damarion Williams at BAL-18",-0.98,-0.04,18.0,2023,257
+3.0,5:32,1.0,10.0,BAL 18,7.0,7.0,Tyler Huntley pass incomplete short left intended for Laquon Treadwell,0.04,-0.49,18.0,2023,257
+3.0,5:29,2.0,10.0,BAL 18,7.0,7.0,Tyler Huntley pass complete short middle to Charlie Kolar for 12 yards (tackle by Patrick Peterson),-0.49,0.94,18.0,2023,257
+3.0,4:54,1.0,10.0,BAL 30,7.0,7.0,Gus Edwards right end for 2 yards (tackle by T.J. Watt and Mykal Walker),0.94,0.66,18.0,2023,257
+3.0,4:15,2.0,8.0,BAL 32,7.0,7.0,Tyler Huntley pass complete short right to Nelson Agholor for 16 yards (tackle by Mark Robinson),0.66,2.13,18.0,2023,257
+3.0,3:48,1.0,10.0,BAL 48,7.0,7.0,Gus Edwards right tackle for 1 yard (tackle by Myles Jack),2.13,1.72,18.0,2023,257
+3.0,3:10,2.0,9.0,BAL 49,7.0,7.0,Tyler Huntley pass incomplete short right,1.72,1.02,18.0,2023,257
+3.0,3:02,3.0,9.0,BAL 49,7.0,7.0,Tyler Huntley pass incomplete short left intended for Justice Hill,1.02,-0.13,18.0,2023,257
+3.0,2:57,4.0,9.0,BAL 49,7.0,7.0,"Jordan Stout punts 40 yards, fair catch by Calvin Austin at PIT-11",-0.13,0.37,18.0,2023,257
+3.0,2:50,1.0,10.0,PIT 11,7.0,7.0,Najee Harris right guard for 5 yards (tackle by Del'Shawn Phillips and Rock Ya-Sin),-0.37,-0.3,18.0,2023,257
+3.0,2:13,2.0,5.0,PIT 16,7.0,7.0,Najee Harris left guard for 4 yards (tackle by Marcus Williams and Del'Shawn Phillips),-0.3,-0.37,18.0,2023,257
+3.0,1:41,3.0,1.0,PIT 20,7.0,7.0,George Pickens right end for 3 yards (tackle by Jeremiah Moon),-0.37,0.48,18.0,2023,257
+3.0,1:16,1.0,10.0,PIT 23,7.0,7.0,Najee Harris right guard for 3 yards (tackle by Tavius Robinson),0.48,0.34,18.0,2023,257
+3.0,0:34,2.0,7.0,PIT 26,7.0,7.0,Najee Harris left guard for 3 yards (tackle by Broderick Washington),0.34,0.04,18.0,2023,257
+4.0,15:00,3.0,4.0,PIT 29,13.0,7.0,"Mason Rudolph pass complete deep middle to Diontae Johnson for 71 yards, touchdown",0.04,7.0,18.0,2023,257
+4.0,14:49,,,BAL 15,14.0,7.0,Chris Boswell kicks extra point good,0.0,0.0,18.0,2023,257
+4.0,14:49,,,PIT 35,14.0,7.0,"Penalty on Justin Madubuike: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",0.0,-2.26,18.0,2023,257
+4.0,14:49,1.0,10.0,PIT 50,14.0,7.0,"Chris Boswell kicks off 50 yards, touchback.",2.26,0.61,18.0,2023,257
+4.0,14:49,1.0,10.0,BAL 25,14.0,7.0,Melvin Gordon left guard for 5 yards (tackle by Cameron Heyward),0.61,0.74,18.0,2023,257
+4.0,14:18,2.0,5.0,BAL 30,14.0,7.0,Melvin Gordon right guard for -1 yards (tackle by Markus Golden and Alex Highsmith),0.74,-0.1,18.0,2023,257
+4.0,13:38,3.0,6.0,BAL 29,14.0,7.0,Tyler Huntley pass complete short middle to Nelson Agholor for 6 yards (tackle by Eric Rowe),-0.1,1.27,18.0,2023,257
+4.0,12:58,1.0,10.0,BAL 35,14.0,7.0,Melvin Gordon left tackle for 1 yard (tackle by Larry Ogunjobi and Markus Golden),1.27,0.86,18.0,2023,257
+4.0,12:23,2.0,9.0,BAL 36,14.0,7.0,Tyler Huntley pass complete short left to Justice Hill for 3 yards (tackle by Levi Wallace),0.86,0.56,18.0,2023,257
+4.0,11:44,3.0,6.0,BAL 39,14.0,7.0,Tyler Huntley pass complete short middle to Nelson Agholor for 10 yards (tackle by Miles Killebrew),0.56,2.19,18.0,2023,257
+4.0,11:07,1.0,10.0,BAL 49,14.0,7.0,Tyler Huntley pass incomplete short left intended for Justice Hill (defended by Montravius Adams),2.19,1.65,18.0,2023,257
+4.0,11:02,2.0,10.0,BAL 49,14.0,7.0,Tyler Huntley pass complete short left to Nelson Agholor for 2 yards (tackle by Elandon Roberts),1.65,1.22,18.0,2023,257
+4.0,10:23,3.0,8.0,PIT 49,14.0,7.0,Tyler Huntley pass incomplete short middle intended for Tylan Wallace,1.22,0.0,18.0,2023,257
+4.0,10:18,4.0,8.0,PIT 49,14.0,7.0,"Jordan Stout punts 40 yards, returned by Calvin Austin for 34 yards (tackle by Brandon Stephens)",0.0,-1.8,18.0,2023,257
+4.0,10:03,1.0,10.0,PIT 43,14.0,7.0,Jaylen Warren left tackle for 4 yards (tackle by Michael Pierce),1.8,1.79,18.0,2023,257
+4.0,9:25,2.0,6.0,PIT 47,14.0,7.0,"Jaylen Warren right tackle for no gain. Jaylen Warren fumbles (forced by Jeremiah Moon), recovered by Broderick Jones at PIT-47",1.79,1.09,18.0,2023,257
+4.0,8:23,3.0,6.0,PIT 47,14.0,7.0,Mason Rudolph pass complete short right to Najee Harris for no gain (tackle by Trenton Simpson),1.09,-0.26,18.0,2023,257
+4.0,7:50,4.0,6.0,PIT 47,14.0,7.0,"Pressley Harvin punts 53 yards, touchback.",-0.26,-0.28,18.0,2023,257
+4.0,7:41,1.0,10.0,BAL 20,14.0,7.0,Gus Edwards right guard for 7 yards (tackle by Keeanu Benton and Myles Jack),0.28,0.68,18.0,2023,257
+4.0,7:19,2.0,3.0,BAL 27,14.0,7.0,"Gus Edwards left guard for 5 yards. Gus Edwards fumbles (forced by Eric Rowe), recovered by Markus Golden at BAL-32",0.68,-3.45,18.0,2023,257
+4.0,7:14,1.0,10.0,BAL 32,14.0,7.0,Najee Harris right tackle for 9 yards (tackle by Marcus Williams and Jeremiah Moon),3.45,4.12,18.0,2023,257
+4.0,6:32,2.0,1.0,BAL 23,14.0,7.0,Najee Harris left guard for 8 yards (tackle by Patrick Queen and Rock Ya-Sin),4.12,4.58,18.0,2023,257
+4.0,5:44,,,,,,Timeout #1 by Pittsburgh Steelers,,,18.0,2023,257
+4.0,5:44,1.0,10.0,BAL 15,14.0,7.0,Najee Harris left guard for 5 yards (tackle by Trenton Simpson),4.58,4.84,18.0,2023,257
+4.0,4:58,2.0,5.0,BAL 10,14.0,7.0,Najee Harris left guard for 2 yards (tackle by Michael Pierce and Brent Urban),4.84,4.45,18.0,2023,257
+4.0,4:52,,,,,,Timeout #1 by Baltimore Ravens,,,18.0,2023,257
+4.0,4:52,3.0,3.0,BAL 8,14.0,7.0,Mason Rudolph pass complete short right to Najee Harris for 3 yards (tackle by Patrick Queen and Brandon Stephens),4.45,6.06,18.0,2023,257
+4.0,4:09,1.0,5.0,BAL 5,14.0,7.0,Najee Harris right guard for -1 yards (tackle by Michael Pierce),6.06,4.95,18.0,2023,257
+4.0,3:28,2.0,6.0,BAL 6,14.0,7.0,Najee Harris up the middle for 4 yards (tackle by Travis Jones and Marcus Williams),4.95,4.95,18.0,2023,257
+4.0,3:22,,,,,,Timeout #2 by Baltimore Ravens,,,18.0,2023,257
+4.0,3:22,3.0,2.0,BAL 2,14.0,7.0,Jaylen Warren left end for -5 yards (tackle by Trenton Simpson),4.95,2.97,18.0,2023,257
+4.0,3:17,,,,,,Timeout #3 by Baltimore Ravens,,,18.0,2023,257
+4.0,3:17,4.0,7.0,BAL 7,17.0,7.0,Chris Boswell 25 yard field goal good,2.97,3.0,18.0,2023,257
+4.0,3:13,,,PIT 35,17.0,7.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,18.0,2023,257
+4.0,3:13,1.0,10.0,BAL 25,17.0,7.0,Tyler Huntley pass complete short middle to Nelson Agholor for 5 yards (tackle by Eric Rowe),0.61,0.74,18.0,2023,257
+4.0,2:57,2.0,5.0,BAL 30,17.0,7.0,Tyler Huntley pass complete short middle to Justice Hill for 19 yards (tackle by Alex Highsmith),0.74,2.19,18.0,2023,257
+4.0,2:30,1.0,10.0,BAL 49,17.0,7.0,Tyler Huntley pass complete short middle to Charlie Kolar for 6 yards (tackle by Eric Rowe and Miles Killebrew),2.19,2.46,18.0,2023,257
+4.0,2:14,2.0,4.0,PIT 45,17.0,7.0,Tyler Huntley scrambles right end for 3 yards (tackle by Keeanu Benton),2.46,2.15,18.0,2023,257
+4.0,2:08,3.0,1.0,PIT 42,17.0,7.0,Tyler Huntley pass incomplete short left intended for Justice Hill,2.15,0.46,18.0,2023,257
+4.0,2:03,4.0,1.0,PIT 42,17.0,7.0,Tyler Huntley scrambles up the middle for 6 yards (tackle by Eric Rowe),0.46,3.18,18.0,2023,257
+4.0,1:58,1.0,10.0,PIT 36,17.0,7.0,Tyler Huntley scrambles up the middle for 11 yards (tackle by Eric Rowe),3.18,3.91,18.0,2023,257
+4.0,1:36,1.0,10.0,PIT 25,17.0,7.0,Tyler Huntley pass complete short middle to Tylan Wallace for 11 yards (tackle by Myles Jack),3.91,4.65,18.0,2023,257
+4.0,1:20,1.0,10.0,PIT 14,17.0,7.0,Tyler Huntley scrambles right end for 5 yards (tackle by Miles Killebrew),4.65,4.9,18.0,2023,257
+4.0,0:53,2.0,5.0,PIT 9,17.0,7.0,Tyler Huntley pass incomplete short right,4.9,4.05,18.0,2023,257
+4.0,0:45,,,,,,Timeout #2 by Pittsburgh Steelers,,,18.0,2023,257
+4.0,0:45,3.0,5.0,PIT 9,17.0,7.0,Tyler Huntley sacked by Markus Golden for -9 yards,4.05,2.25,18.0,2023,257
+4.0,0:20,,,,,,Timeout #3 by Pittsburgh Steelers,,,18.0,2023,257
+4.0,0:20,4.0,14.0,PIT 18,17.0,10.0,Justin Tucker 36 yard field goal good,2.25,3.0,18.0,2023,257
+4.0,0:16,,,BAL 35,17.0,10.0,"Justin Tucker kicks onside 10 yards, returned by Connor Heyward for no gain",0.0,2.59,18.0,2023,257
+4.0,0:15,1.0,10.0,BAL 45,17.0,10.0,Mason Rudolph kneels for -1 yards,2.59,1.91,18.0,2023,257

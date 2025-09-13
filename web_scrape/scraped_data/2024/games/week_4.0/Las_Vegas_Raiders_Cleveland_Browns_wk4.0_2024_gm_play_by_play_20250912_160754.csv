@@ -1,0 +1,155 @@
+Quarter,Time,Down,ToGo,Location,CLE,LVR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Raiders won the coin toss and deferred, Browns to receive the opening kickoff.",,,4.0,2024,60
+1.0,15:00,,,LVR 35,0.0,0.0,"Daniel Carlson kicks off 64 yards, returned by D'Onta Foreman for 29 yards (tackle by Ameer Abdullah)",0.0,0.94,4.0,2024,60
+1.0,14:53,1.0,10.0,CLE 30,0.0,0.0,Jerome Ford right guard for 6 yards (tackle by John Jenkins and Luke Masterson),0.94,1.2,4.0,2024,60
+1.0,14:15,2.0,4.0,CLE 36,0.0,0.0,Deshaun Watson pass complete short right to Jerry Jeudy for 6 yards (tackle by Nate Hobbs),1.2,1.73,4.0,2024,60
+1.0,13:45,1.0,10.0,CLE 42,0.0,0.0,Jerome Ford up the middle for no gain (tackle by Tre'von Moehrig),1.73,1.19,4.0,2024,60
+1.0,13:12,2.0,10.0,CLE 42,0.0,0.0,Deshaun Watson pass complete short left to Jerome Ford for 5 yards (tackle by Adam Butler),1.19,1.16,4.0,2024,60
+1.0,12:31,3.0,5.0,CLE 47,0.0,0.0,"Penalty on Dawand Jones: False Start, 5 yards (accepted) (no play)",1.16,0.5,4.0,2024,60
+1.0,12:04,3.0,10.0,CLE 42,0.0,0.0,"Deshaun Watson pass complete short left to Elijah Moore for 11 yards (tackle by Isaiah Pola-Mao). Penalty on Adam Butler: Roughing the Passer, 15 yards (accepted)",0.5,3.45,4.0,2024,60
+1.0,11:37,1.0,10.0,LVR 32,0.0,0.0,Deshaun Watson pass complete short right to James Proche for 3 yards (tackle by Robert Spillane),3.45,3.31,4.0,2024,60
+1.0,10:50,2.0,7.0,LVR 29,0.0,0.0,Deshaun Watson pass complete short right to D'Onta Foreman for 5 yards (tackle by Nate Hobbs and Isaiah Pola-Mao),3.31,3.27,4.0,2024,60
+1.0,10:10,3.0,2.0,LVR 24,0.0,0.0,Deshaun Watson pass complete short left to Amari Cooper for 2 yards (tackle by K'Lavon Chaisson),3.27,4.11,4.0,2024,60
+1.0,9:31,1.0,10.0,LVR 22,0.0,0.0,Jerome Ford up the middle for 3 yards (tackle by Robert Spillane),4.11,3.97,4.0,2024,60
+1.0,8:49,2.0,7.0,LVR 19,0.0,0.0,Deshaun Watson scrambles left end for 7 yards (tackle by Isaiah Pola-Mao),3.97,4.78,4.0,2024,60
+1.0,8:01,1.0,10.0,LVR 12,0.0,0.0,Deshaun Watson pass complete short left to Blake Whiteheart for 7 yards (tackle by Luke Masterson),4.78,5.41,4.0,2024,60
+1.0,7:30,2.0,3.0,LVR 5,0.0,0.0,D'Onta Foreman right guard for no gain (tackle by Janarius Robinson and Charles Snowden),5.41,4.61,4.0,2024,60
+1.0,6:56,3.0,3.0,LVR 5,0.0,0.0,Jerome Ford right guard for 4 yards (tackle by K'Lavon Chaisson),4.61,6.97,4.0,2024,60
+1.0,6:15,1.0,1.0,LVR 1,0.0,0.0,D'Onta Foreman up the middle for no gain (tackle by Robert Spillane),6.97,5.91,4.0,2024,60
+1.0,5:41,2.0,1.0,LVR 1,6.0,0.0,"Deshaun Watson pass complete short left to Blake Whiteheart for 1 yard, touchdown",5.91,7.0,4.0,2024,60
+1.0,5:38,,,LVR 15,7.0,0.0,Dustin Hopkins kicks extra point good,0.0,0.0,4.0,2024,60
+1.0,5:38,,,CLE 35,7.0,0.0,"Dustin Hopkins kicks off 67 yards, returned by Tyreik McAllister for 28 yards (tackle by Khaleke Hudson and Sam Kamara). Penalty on Tommy Eichenberg: Offensive Holding, 10 yards (accepted)",0.0,-0.14,4.0,2024,60
+1.0,5:31,1.0,10.0,LVR 16,7.0,0.0,Gardner Minshew pass incomplete deep right intended for Brock Bowers,-0.14,-0.66,4.0,2024,60
+1.0,5:24,2.0,10.0,LVR 16,7.0,0.0,"Gardner Minshew pass complete short right to Brock Bowers for no gain (tackle by Denzel Ward and Jordan Hicks). Penalty on Delmar Glaze: Offensive Holding, 8 yards (accepted) (no play)",-0.66,-1.36,4.0,2024,60
+1.0,5:01,2.0,18.0,LVR 8,7.0,0.0,Zamir White left tackle for 2 yards (tackle by Dalvin Tomlinson and Jordan Hicks),-1.36,-2.12,4.0,2024,60
+1.0,4:21,3.0,16.0,LVR 10,7.0,0.0,Gardner Minshew pass incomplete deep middle intended for DJ Turner,-2.12,-2.49,4.0,2024,60
+1.0,4:15,4.0,16.0,LVR 10,7.0,0.0,"AJ Cole punts, fair catch by James Proche at CLE-35. Penalty on Luke Masterson: Ineligible Downfield Kick, 5 yards (accepted) (no play)",-2.49,-2.49,4.0,2024,60
+1.0,4:07,4.0,21.0,LVR 5,7.0,0.0,"AJ Cole punts 66 yards, returned by James Proche for 17 yards (tackle by Tommy Eichenberg)",-2.49,-1.99,4.0,2024,60
+1.0,3:55,1.0,10.0,CLE 46,7.0,0.0,Deshaun Watson scrambles up the middle for 5 yards (tackle by Tommy Eichenberg),1.99,2.13,4.0,2024,60
+1.0,3:35,2.0,5.0,LVR 49,7.0,0.0,Jerome Ford right guard for 5 yards (tackle by Robert Spillane),2.13,2.65,4.0,2024,60
+1.0,2:49,1.0,10.0,LVR 44,7.0,0.0,Jerome Ford left guard for -3 yards (tackle by Adam Butler and Darnay Holmes),2.65,1.71,4.0,2024,60
+1.0,2:11,2.0,13.0,LVR 47,7.0,0.0,Deshaun Watson pass complete short left to Jerome Ford for 4 yards (tackle by K'Lavon Chaisson and Jakorian Bennett),1.71,1.55,4.0,2024,60
+1.0,1:32,3.0,9.0,LVR 43,7.0,0.0,Deshaun Watson scrambles right tackle for 6 yards (tackle by Isaiah Pola-Mao and Amari Burney),1.55,0.79,4.0,2024,60
+1.0,0:40,,,,,,Timeout #1 by Cleveland Browns,,,4.0,2024,60
+1.0,0:40,4.0,3.0,LVR 37,10.0,0.0,Dustin Hopkins 56 yard field goal good,0.79,3.0,4.0,2024,60
+1.0,0:35,,,CLE 35,10.0,0.0,"Dustin Hopkins kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,60
+1.0,0:35,1.0,10.0,LVR 30,10.0,0.0,Brock Bowers right end for 12 yards (tackle by Jeremiah Owusu-Koramoah and Rodney McLeod),0.94,1.73,4.0,2024,60
+1.0,0:10,1.0,10.0,LVR 42,10.0,0.0,Zamir White up the middle for 1 yard (tackle by Grant Delpit),1.73,1.32,4.0,2024,60
+2.0,15:00,2.0,9.0,LVR 43,10.0,0.0,Zamir White up the middle for 3 yards (tackle by Grant Delpit and Jeremiah Owusu-Koramoah),1.32,1.03,4.0,2024,60
+2.0,14:21,3.0,6.0,LVR 46,10.0,0.0,Gardner Minshew pass complete short left to Tre Tucker for 14 yards (tackle by Martin Emerson),1.03,2.92,4.0,2024,60
+2.0,13:52,1.0,10.0,CLE 40,10.0,0.0,Zamir White right end for no gain (tackle by Ronnie Hickman),2.92,2.37,4.0,2024,60
+2.0,13:10,2.0,10.0,CLE 40,10.0,0.0,Gardner Minshew pass complete short right to Tre Tucker for 14 yards (tackle by Jeremiah Owusu-Koramoah),2.37,3.84,4.0,2024,60
+2.0,12:29,1.0,10.0,CLE 26,10.0,0.0,Zamir White left guard for 8 yards (tackle by Martin Emerson and Shelby Harris),3.84,4.45,4.0,2024,60
+2.0,11:50,2.0,2.0,CLE 18,10.0,0.0,Tyreik McAllister right end for 10 yards (tackle by Devin Bush),4.45,5.37,4.0,2024,60
+2.0,11:12,1.0,8.0,CLE 8,10.0,0.0,Zamir White up the middle for 1 yard (tackle by Rodney McLeod and Isaiah McGuire),5.37,4.76,4.0,2024,60
+2.0,10:33,2.0,7.0,CLE 7,10.0,0.0,Zamir White right guard for 4 yards (tackle by Jeremiah Owusu-Koramoah),4.76,4.72,4.0,2024,60
+2.0,9:55,3.0,3.0,CLE 3,10.0,6.0,"Tre Tucker left end for 3 yards, touchdown",4.72,7.0,4.0,2024,60
+2.0,9:50,,,CLE 15,10.0,7.0,Daniel Carlson kicks extra point good,0.0,0.0,4.0,2024,60
+2.0,9:50,,,LVR 35,10.0,7.0,"Daniel Carlson kicks off 65 yards, returned by D'Onta Foreman for 27 yards (tackle by Alex Bachman)",0.0,0.74,4.0,2024,60
+2.0,9:43,1.0,10.0,CLE 27,10.0,7.0,Deshaun Watson pass incomplete short left intended for Jerry Jeudy,0.74,0.2,4.0,2024,60
+2.0,9:39,2.0,10.0,CLE 27,10.0,7.0,Deshaun Watson pass complete short right to Jerome Ford for -2 yards (tackle by Robert Spillane),0.2,-0.76,4.0,2024,60
+2.0,8:55,3.0,12.0,CLE 25,10.0,7.0,Deshaun Watson pass complete short middle to Jerome Ford for 4 yards (tackle by Robert Spillane),-0.76,-1.44,4.0,2024,60
+2.0,8:11,4.0,8.0,CLE 29,10.0,7.0,"Corey Bojorquez punts 60 yards, returned by Tyreik McAllister for 10 yards (tackle by Isaiah McGuire)",-1.44,-0.34,4.0,2024,60
+2.0,7:58,1.0,10.0,LVR 21,10.0,7.0,Zamir White right guard for 2 yards (tackle by Devin Bush and Za'Darius Smith),0.34,0.07,4.0,2024,60
+2.0,7:12,2.0,8.0,LVR 23,10.0,7.0,Zamir White right guard for 5 yards (tackle by Za'Darius Smith),0.07,0.04,4.0,2024,60
+2.0,6:33,3.0,3.0,LVR 28,10.0,7.0,Gardner Minshew pass complete short left to Jakobi Meyers for 5 yards (tackle by Martin Emerson),0.04,1.14,4.0,2024,60
+2.0,5:56,1.0,10.0,LVR 33,10.0,7.0,Gardner Minshew pass complete short left to Tre Tucker for 9 yards (tackle by Martin Emerson),1.14,1.81,4.0,2024,60
+2.0,5:35,2.0,1.0,LVR 42,10.0,7.0,Alexander Mattison up the middle for 24 yards (tackle by Denzel Ward),1.81,3.31,4.0,2024,60
+2.0,4:53,1.0,10.0,CLE 34,10.0,7.0,"Alexander Mattison left tackle for no gain (tackle by Rodney McLeod and Quinton Jefferson). Penalty on Jackson Powers-Johnson: Offensive Holding, 10 yards (accepted) (no play)",3.31,2.65,4.0,2024,60
+2.0,4:24,1.0,20.0,CLE 44,10.0,7.0,Gardner Minshew pass complete short left to Tre Tucker for 4 yards (tackle by Cameron Mitchell),2.65,1.96,4.0,2024,60
+2.0,3:45,2.0,16.0,CLE 40,10.0,7.0,Gardner Minshew pass complete short right to Brock Bowers for 6 yards (tackle by Grant Delpit),1.96,2.08,4.0,2024,60
+2.0,3:02,3.0,10.0,CLE 34,10.0,7.0,Gardner Minshew pass incomplete short right intended for Zamir White,2.08,1.06,4.0,2024,60
+2.0,2:56,4.0,10.0,CLE 34,10.0,10.0,Daniel Carlson 52 yard field goal good,1.06,3.0,4.0,2024,60
+2.0,2:52,,,LVR 35,10.0,10.0,"Daniel Carlson kicks off 64 yards, recovered by Gary Brightwell at CLE-5 (tackle by Ameer Abdullah)",0.0,-0.06,4.0,2024,60
+2.0,2:45,1.0,10.0,CLE 17,10.0,10.0,Jerome Ford left tackle for 1 yard (tackle by Adam Butler and K'Lavon Chaisson),-0.06,-0.42,4.0,2024,60
+2.0,2:11,2.0,9.0,CLE 18,10.0,10.0,Deshaun Watson pass complete short middle to Jerry Jeudy for 17 yards (tackle by Tre'von Moehrig),-0.42,1.27,4.0,2024,60
+2.0,2:00,1.0,10.0,CLE 35,10.0,10.0,Deshaun Watson pass complete short right to Jerry Jeudy for 5 yards (tackle by Robert Spillane),1.27,1.4,4.0,2024,60
+2.0,1:54,2.0,5.0,CLE 40,10.0,10.0,Deshaun Watson pass complete deep right to Jerry Jeudy for 19 yards (tackle by Luke Masterson),1.4,2.85,4.0,2024,60
+2.0,1:46,1.0,10.0,LVR 41,10.0,10.0,Deshaun Watson pass incomplete short left intended for Amari Cooper,2.85,2.31,4.0,2024,60
+2.0,1:39,2.0,10.0,LVR 41,10.0,10.0,D'Onta Foreman up the middle for 1 yard (tackle by Robert Spillane and Jack Jones),2.31,1.75,4.0,2024,60
+2.0,1:34,,,,,,Timeout #1 by Las Vegas Raiders,,,4.0,2024,60
+2.0,1:34,3.0,9.0,LVR 40,10.0,10.0,Deshaun Watson pass incomplete deep right intended for Amari Cooper,1.75,0.59,4.0,2024,60
+2.0,1:29,4.0,9.0,LVR 40,10.0,10.0,Corey Bojorquez punts 37 yards downed by Tony Brown,0.59,0.38,4.0,2024,60
+2.0,1:20,1.0,10.0,LVR 3,10.0,10.0,"Penalty on Jackson Powers-Johnson: False Start, 1 yard (accepted) (no play)",-0.38,-0.42,4.0,2024,60
+2.0,1:20,1.0,11.0,LVR 2,10.0,10.0,Zamir White right guard for 17 yards (tackle by Ronnie Hickman),-0.42,0.15,4.0,2024,60
+2.0,0:51,1.0,10.0,LVR 19,10.0,10.0,Gardner Minshew sacked by Myles Garrett for -6 yards,0.15,-1.21,4.0,2024,60
+2.0,0:44,,,,,,Timeout #2 by Cleveland Browns,,,4.0,2024,60
+2.0,0:44,2.0,16.0,LVR 13,10.0,10.0,Zamir White right guard for 4 yards (tackle by Devin Bush and Quinton Jefferson),-1.21,-1.42,4.0,2024,60
+2.0,0:39,,,,,,Timeout #3 by Cleveland Browns,,,4.0,2024,60
+2.0,0:39,3.0,12.0,LVR 17,10.0,10.0,Gardner Minshew kneels for -1 yards,-1.42,-2.39,4.0,2024,60
+3.0,15:00,,,CLE 35,10.0,10.0,"Dustin Hopkins kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,60
+3.0,15:00,1.0,10.0,LVR 30,10.0,10.0,Gardner Minshew pass complete short middle to Jakobi Meyers for 19 yards (tackle by Ronnie Hickman),0.94,2.19,4.0,2024,60
+3.0,14:25,1.0,10.0,LVR 49,10.0,10.0,Tyreik McAllister right end for 1 yard (tackle by Jeremiah Owusu-Koramoah),2.19,1.78,4.0,2024,60
+3.0,13:47,2.0,9.0,LVR 50,10.0,10.0,Gardner Minshew pass incomplete short middle intended for Tre Tucker,1.78,1.09,4.0,2024,60
+3.0,13:43,3.0,9.0,LVR 50,10.0,10.0,"Gardner Minshew pass incomplete short left intended for Jakobi Meyers. Penalty on Alex Wright: Roughing the Passer, 15 yards (accepted) (no play)",1.09,3.25,4.0,2024,60
+3.0,13:38,1.0,10.0,CLE 35,10.0,10.0,Gardner Minshew pass complete short right to Harrison Bryant for 14 yards (tackle by Ronnie Hickman),3.25,4.17,4.0,2024,60
+3.0,12:58,1.0,10.0,CLE 21,10.0,10.0,Zamir White up the middle for 2 yards (tackle by Jeremiah Owusu-Koramoah),4.17,3.9,4.0,2024,60
+3.0,12:19,2.0,8.0,CLE 19,10.0,10.0,Gardner Minshew pass complete short right to Jakobi Meyers for 4 yards (tackle by Martin Emerson),3.9,3.81,4.0,2024,60
+3.0,11:37,3.0,4.0,CLE 15,10.0,10.0,Gardner Minshew pass incomplete short left intended for Jakobi Meyers,3.81,2.52,4.0,2024,60
+3.0,11:32,4.0,4.0,CLE 15,10.0,13.0,Daniel Carlson 34 yard field goal good,2.52,3.0,4.0,2024,60
+3.0,11:28,,,LVR 35,10.0,13.0,"Daniel Carlson kicks off 63 yards, returned by Gary Brightwell for 24 yards (tackle by Alex Bachman and Ameer Abdullah)",0.0,0.67,4.0,2024,60
+3.0,11:20,1.0,10.0,CLE 26,10.0,13.0,Deshaun Watson pass complete short left to Amari Cooper for 9 yards (tackle by Robert Spillane and Jakorian Bennett),0.67,1.35,4.0,2024,60
+3.0,10:43,2.0,1.0,CLE 35,10.0,13.0,D'Onta Foreman left guard for 1 yard (tackle by Luke Masterson),1.35,1.33,4.0,2024,60
+3.0,10:05,1.0,10.0,CLE 36,10.0,13.0,Deshaun Watson scrambles left end for 1 yard (tackle by Charles Snowden),1.33,0.93,4.0,2024,60
+3.0,9:25,2.0,9.0,CLE 37,10.0,13.0,Deshaun Watson pass complete short right to Jordan Akins for 10 yards (tackle by Tyree Wilson and Robert Spillane),0.93,2.06,4.0,2024,60
+3.0,8:44,1.0,10.0,CLE 47,10.0,13.0,Jerome Ford left end for 2 yards (tackle by Robert Spillane),2.06,1.79,4.0,2024,60
+3.0,8:09,2.0,8.0,CLE 49,10.0,13.0,Deshaun Watson pass deep right intended for Amari Cooper is intercepted by Tre'von Moehrig at LV-32 and returned for 16 yards (tackle by James Proche),1.79,-2.13,4.0,2024,60
+3.0,7:59,1.0,10.0,LVR 48,10.0,13.0,Gardner Minshew pass incomplete deep left intended for Jakobi Meyers,2.13,1.58,4.0,2024,60
+3.0,7:54,2.0,10.0,LVR 48,10.0,13.0,"Gardner Minshew pass complete short middle to Jakobi Meyers for no gain (tackle by Martin Emerson). Penalty on Martin Emerson: Defensive Pass Interference, 4 yards (accepted) (no play)",1.58,2.39,4.0,2024,60
+3.0,7:49,1.0,10.0,CLE 48,10.0,13.0,Gardner Minshew pass complete short right to Jakobi Meyers for 13 yards (tackle by Za'Darius Smith),2.39,3.25,4.0,2024,60
+3.0,6:54,1.0,10.0,CLE 35,10.0,13.0,Zamir White left end for 1 yard (tackle by Martin Emerson),3.25,2.84,4.0,2024,60
+3.0,6:14,2.0,9.0,CLE 34,10.0,13.0,Gardner Minshew pass incomplete deep middle intended for Jakobi Meyers,2.84,2.15,4.0,2024,60
+3.0,6:09,3.0,9.0,CLE 34,10.0,13.0,Alexander Mattison up the middle for 16 yards (tackle by Grant Delpit),2.15,4.37,4.0,2024,60
+3.0,5:30,1.0,10.0,CLE 18,10.0,19.0,"DJ Turner left end for 18 yards, touchdown",4.37,7.0,4.0,2024,60
+3.0,5:23,,,CLE 15,10.0,20.0,Daniel Carlson kicks extra point good,0.0,0.0,4.0,2024,60
+3.0,5:23,,,LVR 35,10.0,20.0,"Daniel Carlson kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,60
+3.0,5:23,1.0,10.0,CLE 30,10.0,20.0,Deshaun Watson pass complete short middle to Blake Whiteheart for 5 yards (tackle by Tommy Eichenberg),0.94,1.07,4.0,2024,60
+3.0,4:55,2.0,5.0,CLE 35,10.0,20.0,Jerome Ford left tackle for 5 yards (tackle by Tre'von Moehrig and Robert Spillane),1.07,1.6,4.0,2024,60
+3.0,4:14,1.0,10.0,CLE 40,10.0,20.0,"Deshaun Watson pass complete short middle to Blake Whiteheart for no gain (tackle by Tommy Eichenberg). Penalty on Amari Cooper: Illegal Shift, 5 yards (accepted) (no play)",1.6,1.27,4.0,2024,60
+3.0,3:43,1.0,15.0,CLE 35,10.0,20.0,Deshaun Watson sacked by Isaiah Pola-Mao for -8 yards,1.27,-0.7,4.0,2024,60
+3.0,3:00,2.0,23.0,CLE 27,10.0,20.0,Deshaun Watson pass complete short right to Jerry Jeudy for 11 yards (tackle by Tre'von Moehrig),-0.7,0.1,4.0,2024,60
+3.0,2:16,3.0,12.0,CLE 38,10.0,20.0,Deshaun Watson sacked by and Janarius Robinson for -9 yards and Christian Wilkins for -9 yards,0.1,-1.44,4.0,2024,60
+3.0,1:39,4.0,21.0,CLE 29,10.0,20.0,"Corey Bojorquez punts 61 yards, returned by Tyreik McAllister for 14 yards (tackle by D'Anthony Bell)",-1.44,-0.54,4.0,2024,60
+3.0,1:29,1.0,10.0,LVR 24,10.0,20.0,Zamir White up the middle for 2 yards (tackle by Shelby Harris),0.54,0.27,4.0,2024,60
+3.0,0:47,2.0,8.0,LVR 26,10.0,20.0,Zamir White right guard for 7 yards (tackle by Myles Garrett),0.27,0.5,4.0,2024,60
+4.0,15:00,3.0,1.0,LVR 33,16.0,20.0,"Zamir White right tackle for -3 yards. Zamir White fumbles (forced by Isaiah McGuire), recovered by Rodney McLeod at LV-25 and returned for 25 yards, touchdown",0.5,-7.0,4.0,2024,60
+4.0,14:50,,,LVR 15,16.0,20.0,Dustin Hopkins kicks extra point no good,0.0,-1.0,4.0,2024,60
+4.0,14:50,,,CLE 35,16.0,20.0,"Dustin Hopkins kicks off 60 yards, returned by Tyreik McAllister for 21 yards (tackle by Winston Reid)",0.0,0.67,4.0,2024,60
+4.0,14:45,1.0,10.0,LVR 26,16.0,20.0,Alexander Mattison right guard for 2 yards (tackle by Grant Delpit and Jeremiah Owusu-Koramoah),0.67,0.4,4.0,2024,60
+4.0,14:06,2.0,8.0,LVR 28,16.0,20.0,Gardner Minshew pass complete short right to Brock Bowers for 13 yards (tackle by Ronnie Hickman),0.4,1.66,4.0,2024,60
+4.0,13:24,1.0,10.0,LVR 41,16.0,20.0,Gardner Minshew pass incomplete deep right intended for Jakobi Meyers,1.66,1.12,4.0,2024,60
+4.0,13:18,2.0,10.0,LVR 41,16.0,20.0,Gardner Minshew pass complete short left to Jakobi Meyers for 8 yards (tackle by Devin Bush),1.12,1.49,4.0,2024,60
+4.0,12:39,3.0,2.0,LVR 49,16.0,20.0,Gardner Minshew sacked by Myles Garrett for -8 yards,1.49,-0.65,4.0,2024,60
+4.0,12:00,4.0,10.0,LVR 41,16.0,20.0,AJ Cole punts 54 yards out of bounds,-0.65,0.38,4.0,2024,60
+4.0,11:50,1.0,10.0,CLE 5,16.0,20.0,Deshaun Watson pass complete short right to Jerome Ford for 2 yards (tackle by Jack Jones and Nate Hobbs),-0.38,-0.63,4.0,2024,60
+4.0,11:10,2.0,8.0,CLE 7,16.0,20.0,Deshaun Watson pass complete short right to Amari Cooper for 11 yards (tackle by Jack Jones),-0.63,0.04,4.0,2024,60
+4.0,10:30,1.0,10.0,CLE 18,16.0,20.0,"Deshaun Watson pass complete deep right to Amari Cooper for no gain, touchdown. Penalty on Nick Harris: Offensive Holding, 9 yards (accepted) (no play)",0.04,-0.72,4.0,2024,60
+4.0,10:16,,,,,,Timeout #1 by Las Vegas Raiders,,,4.0,2024,60
+4.0,10:16,1.0,19.0,CLE 9,16.0,20.0,Deshaun Watson pass complete short left to Jerome Ford for 9 yards (tackle by Luke Masterson),-0.72,-0.49,4.0,2024,60
+4.0,9:49,2.0,10.0,CLE 18,16.0,20.0,Deshaun Watson scrambles up the middle for 8 yards (tackle by Nate Hobbs),-0.49,-0.14,4.0,2024,60
+4.0,9:03,3.0,2.0,CLE 26,16.0,20.0,Deshaun Watson pass incomplete short left intended for Jerry Jeudy (defended by Jakorian Bennett),-0.14,-1.63,4.0,2024,60
+4.0,8:57,4.0,2.0,CLE 26,16.0,20.0,"Corey Bojorquez punts 74 yards, touchback.",-1.63,-0.28,4.0,2024,60
+4.0,8:48,1.0,10.0,LVR 20,16.0,20.0,Alexander Mattison left guard for 18 yards (tackle by Ronnie Hickman),0.28,1.47,4.0,2024,60
+4.0,8:05,1.0,10.0,LVR 38,16.0,20.0,Alexander Mattison right guard for no gain (tackle by Dalvin Tomlinson and Shelby Harris),1.47,0.92,4.0,2024,60
+4.0,7:25,2.0,10.0,LVR 38,16.0,20.0,Gardner Minshew pass complete short right to Harrison Bryant for 7 yards (tackle by Jeremiah Owusu-Koramoah),0.92,1.16,4.0,2024,60
+4.0,6:35,,,,,,Timeout #2 by Las Vegas Raiders,,,4.0,2024,60
+4.0,6:35,3.0,3.0,LVR 45,16.0,20.0,Gardner Minshew pass incomplete short left intended for Alexander Mattison,1.16,-0.39,4.0,2024,60
+4.0,6:31,4.0,3.0,LVR 45,16.0,20.0,"AJ Cole punts 45 yards, fair catch by James Proche at CLE-10",-0.39,0.38,4.0,2024,60
+4.0,6:24,1.0,10.0,CLE 10,16.0,20.0,Deshaun Watson pass complete short left to Jerome Ford for 5 yards (tackle by Adam Butler),-0.38,-0.35,4.0,2024,60
+4.0,5:57,2.0,5.0,CLE 15,16.0,20.0,Deshaun Watson scrambles up the middle for 1 yard (tackle by Adam Butler),-0.35,-0.72,4.0,2024,60
+4.0,5:13,3.0,4.0,CLE 16,16.0,20.0,Deshaun Watson pass incomplete deep right intended for Jerry Jeudy (defended by Isaiah Pola-Mao),-0.72,-2.39,4.0,2024,60
+4.0,5:07,4.0,4.0,CLE 16,16.0,20.0,"Corey Bojorquez punts 84 yards, touchback.",-2.39,-0.28,4.0,2024,60
+4.0,4:55,1.0,10.0,LVR 20,16.0,20.0,Zamir White left tackle for -5 yards (tackle by Jeremiah Owusu-Koramoah),0.28,-1.07,4.0,2024,60
+4.0,4:18,2.0,15.0,LVR 15,16.0,20.0,Gardner Minshew pass incomplete short middle intended for Jakobi Meyers (defended by Denzel Ward),-1.07,-1.86,4.0,2024,60
+4.0,4:13,3.0,15.0,LVR 15,16.0,20.0,Gardner Minshew pass complete short left to Tre Tucker for no gain (tackle by Ogbonnia Okoronkwo and Alex Wright),-1.86,-2.44,4.0,2024,60
+4.0,3:29,4.0,15.0,LVR 15,16.0,20.0,"AJ Cole punts 67 yards, returned by James Proche for 13 yards (tackle by Luke Masterson)",-2.44,-1.0,4.0,2024,60
+4.0,3:17,1.0,10.0,CLE 31,16.0,20.0,Deshaun Watson pass incomplete short left intended for Amari Cooper (defended by Adam Butler),1.0,0.46,4.0,2024,60
+4.0,3:13,2.0,10.0,CLE 31,16.0,20.0,Deshaun Watson pass complete short middle to Jerry Jeudy for 14 yards (tackle by Jack Jones),0.46,1.93,4.0,2024,60
+4.0,2:34,1.0,10.0,CLE 45,16.0,20.0,Deshaun Watson scrambles left end for 4 yards (tackle by Jakorian Bennett and Adam Butler),1.93,1.92,4.0,2024,60
+4.0,2:24,2.0,6.0,CLE 49,16.0,20.0,Jerome Ford left guard for 35 yards (tackle by Tre'von Moehrig),1.92,4.51,4.0,2024,60
+4.0,2:00,1.0,10.0,LVR 16,16.0,20.0,"Deshaun Watson aborted snap, recovered by Deshaun Watson at LV-22 and returned for -6 yards",4.51,3.15,4.0,2024,60
+4.0,1:24,2.0,16.0,LVR 22,16.0,20.0,Deshaun Watson pass incomplete short right intended for Jordan Akins (defended by Charles Snowden),3.15,2.48,4.0,2024,60
+4.0,1:19,3.0,16.0,LVR 22,16.0,20.0,Deshaun Watson pass complete short left to Amari Cooper for 13 yards (tackle by Isaiah Pola-Mao),2.48,2.93,4.0,2024,60
+4.0,0:41,,,,,,Timeout #1 by Cleveland Browns,,,4.0,2024,60
+4.0,0:41,4.0,3.0,LVR 9,16.0,20.0,Deshaun Watson sacked by Charles Snowden for -10 yards,2.93,-0.15,4.0,2024,60
+4.0,0:35,1.0,10.0,LVR 19,16.0,20.0,Gardner Minshew kneels for -1 yards,0.15,-0.56,4.0,2024,60

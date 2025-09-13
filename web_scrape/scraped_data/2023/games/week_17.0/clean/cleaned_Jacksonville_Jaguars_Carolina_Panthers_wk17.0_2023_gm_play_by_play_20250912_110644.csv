@@ -1,0 +1,147 @@
+Quarter,Time,Down,ToGo,Location,CAR,JAX,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Panthers won the coin toss and deferred, Jaguars to receive the opening kickoff.",,,17.0,2023,245
+1.0,15:00,,,CAR 35,0.0,0.0,"Kamu Grugier-Hill kicks off 47 yards, returned by D'Ernest Johnson for 22 yards (tackle by Alex Cook)",0.0,1.6,17.0,2023,245
+1.0,14:54,1.0,10.0,JAX 40,0.0,0.0,Travis Etienne up the middle for 5 yards (tackle by Kamu Grugier-Hill),1.6,1.73,17.0,2023,245
+1.0,14:34,2.0,5.0,JAX 45,0.0,0.0,Travis Etienne right guard for 4 yards (tackle by Derrick Brown and DeShawn Williams),1.73,1.55,17.0,2023,245
+1.0,14:00,3.0,1.0,JAX 49,0.0,0.0,C.J. Beathard pass complete short left to Evan Engram for 10 yards (tackle by Brian Burns),1.55,2.85,17.0,2023,245
+1.0,13:27,1.0,10.0,CAR 41,0.0,0.0,C.J. Beathard pass complete short right to Jamal Agnew for 5 yards,2.85,2.98,17.0,2023,245
+1.0,13:00,2.0,5.0,CAR 36,0.0,0.0,Tank Bigsby up the middle for 1 yard (tackle by Jeremy Chinn),2.98,2.41,17.0,2023,245
+1.0,12:23,3.0,4.0,CAR 35,0.0,0.0,C.J. Beathard pass complete short right to Calvin Ridley for 12 yards (tackle by Shaquill Griffin),2.41,4.04,17.0,2023,245
+1.0,11:46,1.0,10.0,CAR 23,0.0,0.0,Travis Etienne right guard for 2 yards (tackle by Marquis Haynes and Deion Jones),4.04,3.77,17.0,2023,245
+1.0,11:11,2.0,8.0,CAR 21,0.0,0.0,C.J. Beathard pass complete short left to Luke Farrell for 7 yards (tackle by Deion Jones),3.77,4.28,17.0,2023,245
+1.0,10:37,3.0,1.0,CAR 14,0.0,0.0,Tank Bigsby up the middle for 3 yards (tackle by Marquis Haynes),4.28,4.84,17.0,2023,245
+1.0,10:02,,,,,,Timeout #1 by Carolina Panthers,,,17.0,2023,245
+1.0,10:02,1.0,10.0,CAR 11,0.0,0.0,D'Ernest Johnson left guard for 1 yard (tackle by Derrick Brown and Yetur Gross-Matos),4.84,4.32,17.0,2023,245
+1.0,9:23,2.0,9.0,CAR 10,0.0,0.0,C.J. Beathard pass incomplete short right intended for Brenton Strange,4.32,3.3,17.0,2023,245
+1.0,9:18,3.0,9.0,CAR 10,0.0,0.0,C.J. Beathard sacked by Brian Burns for -7 yards,3.3,2.31,17.0,2023,245
+1.0,8:40,4.0,16.0,CAR 17,0.0,3.0,Brandon McManus 35 yard field goal good,2.31,3.0,17.0,2023,245
+1.0,8:36,,,JAX 35,0.0,3.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,245
+1.0,8:36,1.0,10.0,CAR 25,0.0,3.0,Bryce Young pass complete short right to Adam Thielen for 8 yards (tackle by Devin Lloyd),0.61,1.14,17.0,2023,245
+1.0,8:02,2.0,2.0,CAR 33,0.0,3.0,Chuba Hubbard left guard for no gain (tackle by Travon Walker and Josh Allen),1.14,0.43,17.0,2023,245
+1.0,7:19,3.0,2.0,CAR 33,0.0,3.0,Bryce Young pass complete short right to Ihmir Smith-Marsette for 9 yards (tackle by Antonio Johnson),0.43,1.73,17.0,2023,245
+1.0,6:38,1.0,10.0,CAR 42,0.0,3.0,Bryce Young pass complete short right to Chuba Hubbard for 6 yards (tackle by Tyson Campbell),1.73,2.0,17.0,2023,245
+1.0,5:58,2.0,4.0,CAR 48,0.0,3.0,Chuba Hubbard left guard for 7 yards (tackle by Foyesade Oluokun),2.0,2.59,17.0,2023,245
+1.0,5:17,1.0,10.0,JAX 45,0.0,3.0,Miles Sanders up the middle for 7 yards (tackle by Tyson Campbell and Andre Cisco),2.59,2.99,17.0,2023,245
+1.0,4:36,2.0,3.0,JAX 38,0.0,3.0,Bryce Young pass incomplete short right,2.99,2.28,17.0,2023,245
+1.0,4:32,3.0,3.0,JAX 38,0.0,3.0,Bryce Young pass incomplete short left intended for Stephen Sullivan (defended by Rayshawn Jenkins),2.28,0.72,17.0,2023,245
+1.0,4:26,4.0,3.0,JAX 38,0.0,3.0,Bryce Young pass complete short right to Adam Thielen for 14 yards (tackle by Andre Cisco),0.72,3.97,17.0,2023,245
+1.0,3:46,1.0,10.0,JAX 24,0.0,3.0,Bryce Young pass complete short right to Jonathan Mingo for -4 yards (tackle by Tyson Campbell),3.97,2.89,17.0,2023,245
+1.0,3:01,2.0,14.0,JAX 28,0.0,3.0,Chuba Hubbard up the middle for 7 yards (tackle by Foyesade Oluokun and Tyler Lacy),2.89,3.14,17.0,2023,245
+1.0,2:19,3.0,7.0,JAX 21,0.0,3.0,Bryce Young pass incomplete short middle intended for Tommy Tremble (defended by Foyesade Oluokun),3.14,2.06,17.0,2023,245
+1.0,2:15,4.0,7.0,JAX 21,0.0,3.0,Bryce Young sacked by Roy Robertson-Harris for -10 yards,2.06,-1.0,17.0,2023,245
+1.0,2:10,1.0,10.0,JAX 31,0.0,3.0,Tank Bigsby up the middle for 4 yards (tackle by Vonn Bell and Yetur Gross-Matos),1.0,1.0,17.0,2023,245
+1.0,1:32,2.0,6.0,JAX 35,0.0,3.0,C.J. Beathard pass complete short right to Travis Etienne for 8 yards (tackle by Derrick Brown and Deion Jones),1.0,1.8,17.0,2023,245
+1.0,0:59,1.0,10.0,JAX 43,0.0,3.0,Travis Etienne left end for 3 yards (tackle by Brian Burns and Vonn Bell),1.8,1.66,17.0,2023,245
+1.0,0:18,2.0,7.0,JAX 46,0.0,3.0,Travis Etienne right end for 3 yards (tackle by Marquis Haynes),1.66,1.35,17.0,2023,245
+2.0,15:00,3.0,4.0,JAX 49,0.0,3.0,C.J. Beathard pass incomplete short right intended for Calvin Ridley,1.35,-0.13,17.0,2023,245
+2.0,14:56,4.0,4.0,JAX 49,0.0,3.0,"Logan Cooke punts 37 yards, returned by Ihmir Smith-Marsette for 8 yards (tackle by Andrew Wingard)",-0.13,-0.41,17.0,2023,245
+2.0,14:46,1.0,10.0,CAR 22,0.0,3.0,Chuba Hubbard up the middle for 2 yards (tackle by Josh Allen),0.41,0.14,17.0,2023,245
+2.0,14:03,2.0,8.0,CAR 24,0.0,3.0,Bryce Young pass incomplete deep middle intended for Jonathan Mingo,0.14,-0.56,17.0,2023,245
+2.0,13:57,3.0,8.0,CAR 24,0.0,3.0,Bryce Young sacked by Travon Walker for -10 yards,-0.56,-2.47,17.0,2023,245
+2.0,13:11,4.0,18.0,CAR 14,0.0,3.0,Johnny Hekker punts 48 yards out of bounds,-2.47,-1.47,17.0,2023,245
+2.0,13:05,1.0,10.0,JAX 38,0.0,3.0,C.J. Beathard pass complete short right to Calvin Ridley for 14 yards (tackle by Donte Jackson and AJ Parker),1.47,2.39,17.0,2023,245
+2.0,12:30,1.0,10.0,CAR 48,0.0,3.0,C.J. Beathard pass complete short right to Travis Etienne for 8 yards (tackle by Nick Thurman),2.39,2.93,17.0,2023,245
+2.0,11:53,2.0,2.0,CAR 40,0.0,3.0,C.J. Beathard sacked by Yetur Gross-Matos for -1 yards,2.93,2.08,17.0,2023,245
+2.0,11:14,3.0,3.0,CAR 41,0.0,3.0,C.J. Beathard pass complete short right to Parker Washington for 2 yards (tackle by Xavier Woods),2.08,0.66,17.0,2023,245
+2.0,10:39,4.0,1.0,CAR 39,0.0,3.0,C.J. Beathard pass complete short right to Evan Engram for 4 yards (tackle by Deion Jones),0.66,3.25,17.0,2023,245
+2.0,10:03,1.0,10.0,CAR 35,0.0,3.0,Travis Etienne up the middle for no gain (tackle by Derrick Brown and Nick Thurman),3.25,2.7,17.0,2023,245
+2.0,9:26,2.0,10.0,CAR 35,0.0,3.0,C.J. Beathard pass incomplete short right intended for Calvin Ridley (defended by Derrick Brown),2.7,2.01,17.0,2023,245
+2.0,9:21,3.0,10.0,CAR 35,0.0,3.0,C.J. Beathard pass complete short middle to Evan Engram for 22 yards (tackle by Xavier Woods),2.01,4.71,17.0,2023,245
+2.0,8:41,1.0,10.0,CAR 13,0.0,3.0,Tank Bigsby up the middle for -3 yards (tackle by Donte Jackson and Derrick Brown),4.71,3.62,17.0,2023,245
+2.0,8:09,2.0,13.0,CAR 16,0.0,3.0,C.J. Beathard pass complete short left to Evan Engram for 8 yards (tackle by Deion Jones and AJ Parker),3.62,4.1,17.0,2023,245
+2.0,7:29,3.0,5.0,CAR 8,0.0,3.0,C.J. Beathard pass incomplete short right intended for Calvin Ridley,4.1,2.97,17.0,2023,245
+2.0,7:22,4.0,5.0,CAR 8,0.0,6.0,Brandon McManus 26 yard field goal good,2.97,3.0,17.0,2023,245
+2.0,7:18,,,JAX 35,0.0,6.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,245
+2.0,7:18,1.0,10.0,CAR 25,0.0,6.0,Miles Sanders right guard for no gain (tackle by Folorunso Fatukasi and Foyesade Oluokun) (no play),0.61,0.28,17.0,2023,245
+2.0,6:50,1.0,15.0,CAR 20,0.0,6.0,Bryce Young pass complete short right to Ihmir Smith-Marsette for -4 yards (tackle by Darious Williams),0.28,-1.29,17.0,2023,245
+2.0,6:06,2.0,19.0,CAR 16,0.0,6.0,Bryce Young pass complete short left to Ihmir Smith-Marsette for 7 yards (tackle by Devin Lloyd and Rayshawn Jenkins),-1.29,-0.89,17.0,2023,245
+2.0,5:25,3.0,12.0,CAR 23,0.0,6.0,Bryce Young sacked by Josh Allen for -11 yards,-0.89,-2.49,17.0,2023,245
+2.0,4:44,4.0,23.0,CAR 12,0.0,6.0,"Johnny Hekker punts 48 yards, fair catch by Jamal Agnew at JAC-40",-2.49,-1.6,17.0,2023,245
+2.0,4:35,1.0,10.0,JAX 40,0.0,6.0,Travis Etienne left guard for 5 yards (tackle by Frankie Luvu),1.6,1.73,17.0,2023,245
+2.0,3:50,2.0,5.0,JAX 45,0.0,6.0,C.J. Beathard pass complete deep right to Jamal Agnew for 48 yards (tackle by Shaquill Griffin),1.73,5.6,17.0,2023,245
+2.0,3:37,1.0,7.0,CAR 7,0.0,6.0,C.J. Beathard pass complete short right to Brenton Strange for 1 yard (tackle by Kamu Grugier-Hill),5.6,4.95,17.0,2023,245
+2.0,2:58,2.0,6.0,CAR 6,0.0,6.0,C.J. Beathard pass incomplete short middle,4.95,4.04,17.0,2023,245
+2.0,2:53,3.0,6.0,CAR 6,0.0,6.0,C.J. Beathard pass incomplete short right intended for Calvin Ridley,4.04,2.99,17.0,2023,245
+2.0,2:48,4.0,6.0,CAR 6,0.0,9.0,Brandon McManus 24 yard field goal good,2.99,3.0,17.0,2023,245
+2.0,2:45,,,JAX 35,0.0,9.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,245
+2.0,2:45,1.0,10.0,CAR 25,0.0,9.0,Chuba Hubbard up the middle for 7 yards (tackle by Travon Walker),0.61,1.01,17.0,2023,245
+2.0,2:04,2.0,3.0,CAR 32,0.0,9.0,Ihmir Smith-Marsette right end for no gain (tackle by Travon Walker),1.01,0.3,17.0,2023,245
+2.0,2:00,3.0,3.0,CAR 32,0.0,9.0,Bryce Young sacked by Josh Allen for -7 yards,0.3,-1.7,17.0,2023,245
+2.0,1:56,,,,,,Timeout #1 by Jacksonville Jaguars,,,17.0,2023,245
+2.0,1:56,4.0,10.0,CAR 25,0.0,9.0,Johnny Hekker punts 48 yards out of bounds,-1.7,-0.74,17.0,2023,245
+2.0,1:48,1.0,10.0,JAX 27,0.0,9.0,C.J. Beathard pass incomplete short middle intended for Tim Jones (defended by Shaquill Griffin),0.74,0.2,17.0,2023,245
+2.0,1:43,2.0,10.0,JAX 27,0.0,9.0,C.J. Beathard pass complete short right to Evan Engram for 5 yards (tackle by Xavier Woods and Frankie Luvu),0.2,0.17,17.0,2023,245
+2.0,1:06,3.0,5.0,JAX 32,0.0,9.0,C.J. Beathard sacked by Deion Jones for -8 yards,0.17,-1.77,17.0,2023,245
+2.0,0:48,,,,,,Timeout #2 by Carolina Panthers,,,17.0,2023,245
+2.0,0:48,4.0,13.0,JAX 24,0.0,9.0,"Logan Cooke punts 50 yards, returned by Ihmir Smith-Marsette for 1 yard (tackle by Caleb Johnson). Penalty on Caleb Johnson: Horse Collar Tackle, 15 yards (accepted)",-1.77,-1.73,17.0,2023,245
+2.0,0:48,1.0,10.0,CAR 42,0.0,9.0,Bryce Young pass complete short right to Tommy Tremble for 6 yards (tackle by Foyesade Oluokun),1.73,2.0,17.0,2023,245
+2.0,0:42,2.0,4.0,CAR 48,0.0,9.0,Bryce Young pass complete short left to Adam Thielen for no gain,2.0,1.29,17.0,2023,245
+2.0,0:37,3.0,4.0,CAR 48,0.0,9.0,Bryce Young pass incomplete short right intended for Chuba Hubbard,1.29,-0.19,17.0,2023,245
+2.0,0:29,4.0,4.0,CAR 48,0.0,9.0,"Johnny Hekker punts 52 yards, touchback.",-0.19,-0.28,17.0,2023,245
+2.0,0:20,1.0,10.0,JAX 20,0.0,9.0,C.J. Beathard kneels for -1 yards,0.28,-0.46,17.0,2023,245
+3.0,15:00,,,JAX 35,0.0,9.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,245
+3.0,15:00,1.0,10.0,CAR 25,0.0,9.0,Chuba Hubbard left guard for 1 yard (tackle by Folorunso Fatukasi),0.61,0.2,17.0,2023,245
+3.0,14:24,2.0,9.0,CAR 26,0.0,9.0,Chuba Hubbard up the middle for 4 yards (tackle by Antonio Johnson and Devin Lloyd),0.2,0.04,17.0,2023,245
+3.0,13:42,3.0,5.0,CAR 30,0.0,9.0,Bryce Young scrambles left end for 2 yards (tackle by Devin Lloyd),0.04,-1.24,17.0,2023,245
+3.0,13:02,4.0,3.0,CAR 32,0.0,9.0,"Johnny Hekker punts 49 yards, returned by Parker Washington for 15 yards (tackle by D'Shawn Jamison)",-1.24,-1.2,17.0,2023,245
+3.0,12:47,1.0,10.0,JAX 34,0.0,9.0,Tank Bigsby right end for 4 yards (tackle by DeShawn Williams),1.2,1.2,17.0,2023,245
+3.0,12:10,2.0,6.0,JAX 38,0.0,15.0,"Travis Etienne right end for 62 yards, touchdown",1.2,7.0,17.0,2023,245
+3.0,11:56,,,CAR 15,0.0,16.0,Brandon McManus kicks extra point good,0.0,0.0,17.0,2023,245
+3.0,11:56,,,JAX 35,0.0,16.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,245
+3.0,11:56,1.0,10.0,CAR 25,0.0,16.0,Miles Sanders up the middle for 3 yards (tackle by Foyesade Oluokun and Jeremiah Ledbetter),0.61,0.47,17.0,2023,245
+3.0,11:16,2.0,7.0,CAR 28,0.0,16.0,Bryce Young pass complete short left to Miles Sanders for 5 yards (tackle by Foyesade Oluokun),0.47,0.43,17.0,2023,245
+3.0,10:43,3.0,2.0,CAR 33,0.0,16.0,Bryce Young pass incomplete deep left intended for Ian Thomas,0.43,-1.18,17.0,2023,245
+3.0,10:36,4.0,2.0,CAR 33,0.0,16.0,"Johnny Hekker punts 52 yards, returned by Parker Washington for 2 yards (tackle by D'Shawn Jamison)",-1.18,0.06,17.0,2023,245
+3.0,10:24,1.0,10.0,JAX 17,0.0,16.0,Travis Etienne up the middle for no gain (tackle by Derrick Brown),-0.06,-0.58,17.0,2023,245
+3.0,9:44,2.0,10.0,JAX 17,0.0,16.0,C.J. Beathard pass complete short middle to Evan Engram for 11 yards (tackle by Frankie Luvu and AJ Parker),-0.58,0.81,17.0,2023,245
+3.0,9:05,1.0,10.0,JAX 28,0.0,16.0,"C.J. Beathard for -4 yards. Penalty on Brian Burns: Face Mask (15 Yards), 15 yards (accepted) (no play)",0.81,1.8,17.0,2023,245
+3.0,8:48,1.0,10.0,JAX 43,0.0,16.0,D'Ernest Johnson left guard for -1 yards (tackle by Brian Burns and DeShawn Williams),1.8,1.12,17.0,2023,245
+3.0,8:12,2.0,11.0,JAX 42,0.0,16.0,C.J. Beathard pass complete short right to Calvin Ridley for 6 yards (tackle by AJ Parker),1.12,1.22,17.0,2023,245
+3.0,7:26,3.0,5.0,JAX 48,0.0,16.0,C.J. Beathard scrambles up the middle for 19 yards (tackle by Marquis Haynes),1.22,3.38,17.0,2023,245
+3.0,7:01,1.0,10.0,CAR 33,0.0,16.0,Travis Etienne up the middle for 1 yard (tackle by Nick Thurman),3.38,2.97,17.0,2023,245
+3.0,6:23,2.0,9.0,CAR 32,0.0,16.0,Tank Bigsby up the middle for 4 yards (tackle by Shy Tuttle),2.97,2.81,17.0,2023,245
+3.0,5:45,3.0,5.0,CAR 28,0.0,16.0,C.J. Beathard pass complete short right to Calvin Ridley for 7 yards (tackle by Shaquill Griffin),2.81,4.17,17.0,2023,245
+3.0,5:10,1.0,10.0,CAR 21,0.0,16.0,Tank Bigsby left end for -1 yards (tackle by Donte Jackson and Derrick Brown),4.17,3.49,17.0,2023,245
+3.0,4:31,2.0,11.0,CAR 22,0.0,16.0,C.J. Beathard scrambles right guard for 6 yards (tackle by Brian Burns),3.49,3.63,17.0,2023,245
+3.0,3:46,3.0,5.0,CAR 16,0.0,16.0,D'Ernest Johnson up the middle for no gain (tackle by Xavier Woods and Brian Burns),3.63,2.43,17.0,2023,245
+3.0,3:06,4.0,5.0,CAR 16,0.0,19.0,Brandon McManus 34 yard field goal good,2.43,3.0,17.0,2023,245
+3.0,3:00,,,JAX 35,0.0,19.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,245
+3.0,3:00,1.0,10.0,CAR 25,0.0,19.0,Chuba Hubbard up the middle for 7 yards (tackle by Rayshawn Jenkins and Devin Lloyd),0.61,1.01,17.0,2023,245
+3.0,2:27,2.0,3.0,CAR 32,0.0,19.0,Chuba Hubbard up the middle for 5 yards (tackle by Travon Walker),1.01,1.4,17.0,2023,245
+3.0,1:44,1.0,10.0,CAR 37,0.0,19.0,Bryce Young pass complete short left to Adam Thielen for 6 yards (tackle by Tyson Campbell),1.4,1.67,17.0,2023,245
+3.0,0:58,2.0,4.0,CAR 43,0.0,19.0,Chuba Hubbard left end for 2 yards (tackle by Andre Cisco),1.67,1.22,17.0,2023,245
+3.0,0:18,3.0,2.0,CAR 45,0.0,19.0,"Penalty on Ikem Ekwonu: False Start, 4 yards (accepted) (no play)",1.22,0.7,17.0,2023,245
+4.0,15:00,3.0,6.0,CAR 41,0.0,19.0,Bryce Young pass complete short right to Jonathan Mingo for 4 yards (tackle by Tre Herndon),0.7,-0.39,17.0,2023,245
+4.0,14:23,4.0,2.0,CAR 45,0.0,19.0,Bryce Young pass complete short left to Miles Sanders for 7 yards (tackle by Tre Herndon),-0.39,2.39,17.0,2023,245
+4.0,13:41,1.0,10.0,JAX 48,0.0,19.0,Bryce Young pass complete short left to Adam Thielen for 5 yards (tackle by Tyson Campbell),2.39,2.52,17.0,2023,245
+4.0,13:10,2.0,5.0,JAX 43,0.0,19.0,Bryce Young sacked by Josh Allen for -3 yards,2.52,1.42,17.0,2023,245
+4.0,12:20,3.0,8.0,JAX 46,0.0,19.0,Bryce Young sacked by Travon Walker for -4 yards,1.42,-0.06,17.0,2023,245
+4.0,11:33,4.0,12.0,JAX 50,0.0,19.0,Bryce Young pass complete deep left to DJ Chark for 18 yards (tackle by Tyson Campbell),-0.06,3.45,17.0,2023,245
+4.0,10:54,1.0,10.0,JAX 32,0.0,19.0,"Bryce Young pass complete deep middle to DJ Chark for 30 yards (tackle by Darious Williams) Replay Assistant challenged the pass completion ruling, and the original play was overturned. Bryce Young pass incomplete deep middle intended for DJ Chark",3.45,2.9,17.0,2023,245
+4.0,10:50,2.0,10.0,JAX 32,0.0,19.0,Chuba Hubbard up the middle for 3 yards (tackle by Folorunso Fatukasi),2.9,2.61,17.0,2023,245
+4.0,10:08,3.0,7.0,JAX 29,0.0,19.0,Bryce Young pass incomplete deep right intended for DJ Chark (defended by Tyson Campbell),2.61,1.5,17.0,2023,245
+4.0,10:00,4.0,7.0,JAX 29,0.0,19.0,Bryce Young pass incomplete deep right intended for DJ Chark,1.5,-0.94,17.0,2023,245
+4.0,9:53,1.0,10.0,JAX 30,0.0,19.0,Travis Etienne right end for 1 yard (tackle by Donte Jackson),0.94,0.53,17.0,2023,245
+4.0,9:11,2.0,9.0,JAX 31,0.0,19.0,Tank Bigsby up the middle for 4 yards (tackle by Derrick Brown),0.53,0.37,17.0,2023,245
+4.0,8:30,3.0,5.0,JAX 35,0.0,19.0,Travis Etienne right end for 2 yards (tackle by Deion Jones),0.37,-0.91,17.0,2023,245
+4.0,7:36,4.0,3.0,JAX 37,0.0,19.0,Logan Cooke punts 53 yards downed by Montaric Brown,-0.91,0.38,17.0,2023,245
+4.0,7:24,1.0,10.0,CAR 10,0.0,19.0,Bryce Young pass incomplete short right intended for DJ Chark,-0.38,-0.78,17.0,2023,245
+4.0,7:20,2.0,10.0,CAR 10,0.0,19.0,Bryce Young pass incomplete deep right intended for DJ Chark,-0.78,-1.42,17.0,2023,245
+4.0,7:13,3.0,10.0,CAR 10,0.0,19.0,Bryce Young pass complete short right to Adam Thielen for 5 yards (tackle by Tre Herndon and Foyesade Oluokun),-1.42,-2.44,17.0,2023,245
+4.0,6:30,4.0,5.0,CAR 15,0.0,19.0,Bryce Young pass incomplete short right intended for Stephen Sullivan,-2.44,-4.58,17.0,2023,245
+4.0,6:24,1.0,10.0,CAR 15,0.0,19.0,Travis Etienne up the middle for no gain (tackle by Brian Burns and Frankie Luvu),4.58,3.95,17.0,2023,245
+4.0,5:47,2.0,10.0,CAR 15,0.0,19.0,Tank Bigsby up the middle for 4 yards (tackle by Shaquill Griffin and Brian Burns),3.95,3.58,17.0,2023,245
+4.0,5:24,3.0,7.0,CAR 12,0.0,19.0,"Penalty on Cam Robinson: Personal Foul / Offense, 15 yards (offset) Penalty on Derrick Brown: Personal Foul / Defense, 15 yards (offset) (no play)",3.58,3.78,17.0,2023,245
+4.0,4:46,3.0,6.0,CAR 11,0.0,19.0,Travis Etienne left end for 10 yards (tackle by Vonn Bell),3.78,6.97,17.0,2023,245
+4.0,4:18,1.0,1.0,CAR 1,0.0,25.0,"Travis Etienne up the middle for no gain. Travis Etienne fumbles, recovered by Anton Harrison at CAR-3 Replay Assistant challenged the runner broke the plane ruling, and the original play was overturned. Travis Etienne up the middle for 1 yard, touchdown",6.97,7.0,17.0,2023,245
+4.0,4:16,,,CAR 15,0.0,26.0,Brandon McManus kicks extra point good,0.0,0.0,17.0,2023,245
+4.0,4:16,,,JAX 35,0.0,26.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,245
+4.0,4:16,1.0,10.0,CAR 25,0.0,26.0,Bryce Young pass complete short left to Chuba Hubbard for 7 yards (tackle by Tyson Campbell),0.61,1.01,17.0,2023,245
+4.0,4:10,2.0,3.0,CAR 32,0.0,26.0,Bryce Young pass complete short left to Chuba Hubbard for 5 yards (tackle by Josh Allen and Devin Lloyd),1.01,1.4,17.0,2023,245
+4.0,3:40,1.0,10.0,CAR 37,0.0,26.0,Bryce Young pass complete short left to Chuba Hubbard for 8 yards (tackle by Tyson Campbell and Rayshawn Jenkins),1.4,1.94,17.0,2023,245
+4.0,3:08,2.0,2.0,CAR 45,0.0,26.0,Bryce Young pass deep middle intended for Tommy Tremble is intercepted by Antonio Johnson at JAC-34 and returned for 27 yards (tackle by DJ Chark and Ikem Ekwonu),1.94,-2.98,17.0,2023,245
+4.0,2:52,1.0,10.0,CAR 39,0.0,26.0,Travis Etienne right end for 3 yards (tackle by Shaquill Griffin),2.98,2.85,17.0,2023,245
+4.0,2:10,2.0,7.0,CAR 36,0.0,26.0,Tank Bigsby up the middle for 12 yards (tackle by Frankie Luvu and Vonn Bell),2.85,3.97,17.0,2023,245
+4.0,2:00,1.0,10.0,CAR 24,0.0,26.0,Matt Barkley kneels for -1 yards,3.97,3.3,17.0,2023,245
+4.0,1:18,2.0,11.0,CAR 25,0.0,26.0,Matt Barkley kneels for -1 yards,3.3,2.48,17.0,2023,245
+4.0,0:40,3.0,12.0,CAR 26,0.0,26.0,Matt Barkley kneels for -1 yards,2.48,1.67,17.0,2023,245

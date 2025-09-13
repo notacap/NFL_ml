@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,NYJ 30,3,1:19,7,Punt,1,Jets,11.0,2024,160
+2,1,9:07,NYJ 30,3,1:01,1,Punt,1,Jets,11.0,2024,160
+3,1,5:48,NYJ 22,3,2:10,1,Punt,1,Jets,11.0,2024,160
+4,2,14:11,NYJ 30,4,2:05,9,Downs,1,Jets,11.0,2024,160
+5,2,6:08,NYJ 22,3,2:22,9,Punt,1,Jets,11.0,2024,160
+6,2,2:17,NYJ 24,7,1:37,76,Touchdown,1,Jets,11.0,2024,160
+7,3,14:09,IND 25,2,0:47,25,Touchdown,1,Jets,11.0,2024,160
+8,3,7:41,NYJ 30,3,1:35,5,Punt,1,Jets,11.0,2024,160
+9,3,4:32,IND 38,4,1:37,-2,Field Goal,1,Jets,11.0,2024,160
+10,3,0:57,NYJ 41,6,2:54,59,Touchdown,1,Jets,11.0,2024,160
+11,4,10:11,NYJ 30,13,7:30,53,Field Goal,1,Jets,11.0,2024,160
+12,4,0:46,NYJ 30,3,0:46,-2,End of Game,1,Jets,11.0,2024,160

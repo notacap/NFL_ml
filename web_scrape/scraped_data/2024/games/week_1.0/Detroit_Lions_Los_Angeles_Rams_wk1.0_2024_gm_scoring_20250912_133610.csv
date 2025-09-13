@@ -1,0 +1,10 @@
+Quarter,Time,Tm,Detail,LAR,DET,week,year,game_id
+1,4:50,Rams,Joshua Karty 41 yard field goal,3,0,1.0,2024,15
+2,12:17,Lions,Jake Bates 25 yard field goal,3,3,1.0,2024,15
+,1:57,Lions,Jahmyr Gibbs 1 yard rush (Jake Bates kick),3,10,1.0,2024,15
+3,10:29,Lions,Jameson Williams 52 yard pass from Jared Goff (Jake Bates kick),3,17,1.0,2024,15
+,3:33,Rams,Kyren Williams 2 yard rush (Joshua Karty kick),10,17,1.0,2024,15
+4,12:32,Rams,Joshua Karty 26 yard field goal,13,17,1.0,2024,15
+,4:30,Rams,Cooper Kupp 9 yard pass from Matthew Stafford (Joshua Karty kick),20,17,1.0,2024,15
+,0:17,Lions,Jake Bates 32 yard field goal,20,20,1.0,2024,15
+OT,5:19,Lions,David Montgomery 1 yard rush,20,26,1.0,2024,15

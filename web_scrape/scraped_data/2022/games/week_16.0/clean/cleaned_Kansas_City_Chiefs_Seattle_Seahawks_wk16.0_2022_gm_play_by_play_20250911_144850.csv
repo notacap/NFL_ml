@@ -1,0 +1,167 @@
+Quarter,Time,Down,ToGo,Location,SEA,KAN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Chiefs won the coin toss, Chiefs to receive the opening kickoff.",,,16.0,2022,232
+1.0,15:00,,,SEA 35,0.0,0.0,"Jason Myers kicks off 55 yards, returned by Isiah Pacheco for 19 yards (tackle by Travis Homer)",0.0,0.87,16.0,2022,232
+1.0,14:55,1.0,10.0,KAN 29,0.0,0.0,Patrick Mahomes pass complete short left to Noah Gray for 8 yards (tackle by Cody Barton),0.87,1.41,16.0,2022,232
+1.0,14:33,2.0,2.0,KAN 37,0.0,0.0,Patrick Mahomes pass incomplete deep right intended for Isiah Pacheco,1.41,0.7,16.0,2022,232
+1.0,14:25,3.0,2.0,KAN 37,0.0,0.0,Patrick Mahomes pass incomplete short right intended for JuJu Smith-Schuster,0.7,-0.91,16.0,2022,232
+1.0,14:23,4.0,2.0,KAN 37,0.0,0.0,"Tommy Townsend punts 56 yards, fair catch by DeeJay Dallas at SEA-7",-0.91,0.38,16.0,2022,232
+1.0,14:15,1.0,10.0,SEA 7,0.0,0.0,"Kenneth Walker left end for 3 yards (tackle by Willie Gay and Justin Reid). Penalty on D.K. Metcalf: Offensive Holding, 5 yards (accepted)",-0.38,-0.46,16.0,2022,232
+1.0,13:57,1.0,12.0,SEA 5,0.0,0.0,Geno Smith pass complete short right to D.K. Metcalf for no gain (tackle by Nick Bolton),-0.46,-0.93,16.0,2022,232
+1.0,13:16,2.0,12.0,SEA 5,0.0,0.0,Kenneth Walker right end for 2 yards (tackle by Joshua Williams and Willie Gay),-0.93,-1.42,16.0,2022,232
+1.0,12:45,,,,,,Timeout #1 by Kansas City Chiefs,,,16.0,2022,232
+1.0,12:45,3.0,10.0,SEA 7,0.0,0.0,Geno Smith pass complete short left to D.K. Metcalf for 9 yards (tackle by Nick Bolton),-1.42,-2.39,16.0,2022,232
+1.0,11:52,4.0,1.0,SEA 16,0.0,0.0,"Michael Dickson punts 56 yards, returned by Kadarius Toney for 9 yards (tackle by Nick Bellore)",-2.39,-1.4,16.0,2022,232
+1.0,11:53,1.0,10.0,KAN 37,0.0,0.0,Isiah Pacheco up the middle for 7 yards (tackle by Quandre Diggs and Shelby Harris),1.4,1.8,16.0,2022,232
+1.0,11:21,2.0,3.0,KAN 44,0.0,0.0,Isiah Pacheco left end for 5 yards (tackle by Jordyn Brooks and Coby Bryant),1.8,2.19,16.0,2022,232
+1.0,10:45,1.0,10.0,KAN 49,0.0,0.0,Isiah Pacheco left end for 5 yards (tackle by Teez Tabor),2.19,2.32,16.0,2022,232
+1.0,10:25,2.0,5.0,SEA 46,0.0,0.0,"Penalty on Bruce Irvin: Neutral Zone Infraction, 5 yards (accepted) (no play)",2.32,2.85,16.0,2022,232
+1.0,9:50,1.0,10.0,SEA 41,0.0,0.0,Patrick Mahomes pass complete short left to Jerick McKinnon for 16 yards (tackle by Cody Barton and Tariq Woolen),2.85,3.91,16.0,2022,232
+1.0,9:14,1.0,10.0,SEA 25,0.0,0.0,Patrick Mahomes pass complete short middle to Travis Kelce for 4 yards (tackle by Cody Barton),3.91,3.9,16.0,2022,232
+1.0,8:36,2.0,6.0,SEA 21,0.0,0.0,Patrick Mahomes pass complete short left to Skyy Moore for 5 yards (tackle by Shelby Harris),3.9,4.06,16.0,2022,232
+1.0,7:59,3.0,1.0,SEA 16,0.0,0.0,Isiah Pacheco left guard for 3 yards (tackle by L.J. Collier and Shelby Harris),4.06,4.71,16.0,2022,232
+1.0,7:22,1.0,10.0,SEA 13,0.0,0.0,Patrick Mahomes scrambles left end for 5 yards (tackle by Cody Barton),4.71,4.96,16.0,2022,232
+1.0,6:46,2.0,5.0,SEA 8,0.0,6.0,"Patrick Mahomes pass complete short middle to Kadarius Toney for 8 yards, touchdown",4.96,7.0,16.0,2022,232
+1.0,6:41,,,SEA 15,0.0,7.0,Harrison Butker kicks extra point good,0.0,0.0,16.0,2022,232
+1.0,6:41,,,KAN 35,0.0,7.0,"Harrison Butker kicks off 61 yards, returned by Godwin Igwebuike for 48 yards (tackle by Jack Cochrane)",0.0,2.39,16.0,2022,232
+1.0,6:31,1.0,10.0,KAN 48,0.0,7.0,Kenneth Walker up the middle for 3 yards (tackle by Nick Bolton and Willie Gay),2.39,2.25,16.0,2022,232
+1.0,5:49,2.0,7.0,KAN 45,0.0,7.0,Kenneth Walker left end for -3 yards (tackle by L'Jarius Sneed and Nick Bolton),2.25,1.16,16.0,2022,232
+1.0,5:03,,,,,,Timeout #1 by Seattle Seahawks,,,16.0,2022,232
+1.0,5:03,3.0,10.0,KAN 48,0.0,7.0,Geno Smith pass complete short right to D.K. Metcalf for 7 yards (tackle by L'Jarius Sneed),1.16,0.53,16.0,2022,232
+1.0,4:16,4.0,3.0,KAN 41,0.0,7.0,Geno Smith pass incomplete short left intended for Laquon Treadwell (defended by George Karlaftis),0.53,-1.66,16.0,2022,232
+1.0,4:11,1.0,10.0,KAN 41,0.0,7.0,Isiah Pacheco right end for 8 yards (tackle by Poona Ford),1.66,2.2,16.0,2022,232
+1.0,3:36,2.0,2.0,KAN 49,0.0,7.0,"Patrick Mahomes pass incomplete short middle intended for Kadarius Toney. Penalty on Jordyn Brooks: Defensive Holding, 5 yards (accepted) (no play)",2.2,2.52,16.0,2022,232
+1.0,3:30,1.0,10.0,SEA 46,0.0,7.0,Patrick Mahomes pass incomplete deep middle intended for Justin Watson (defended by Tariq Woolen),2.52,1.98,16.0,2022,232
+1.0,3:22,2.0,10.0,SEA 46,0.0,7.0,Ronald Jones up the middle for 4 yards (tackle by Darrell Taylor and Myles Adams),1.98,1.82,16.0,2022,232
+1.0,2:44,3.0,6.0,SEA 42,0.0,7.0,Patrick Mahomes pass incomplete short left intended for Marquez Valdes-Scantling,1.82,0.46,16.0,2022,232
+1.0,2:41,4.0,6.0,SEA 42,0.0,7.0,Tommy Townsend punts 22 yards out of bounds,0.46,-0.28,16.0,2022,232
+1.0,2:34,1.0,10.0,SEA 20,0.0,7.0,Geno Smith pass complete short left to Laquon Treadwell for 2 yards (tackle by Justin Reid),0.28,0.0,16.0,2022,232
+1.0,1:54,2.0,8.0,SEA 22,0.0,7.0,Geno Smith pass incomplete short left intended for Marquise Goodwin,0.0,-0.69,16.0,2022,232
+1.0,1:50,3.0,8.0,SEA 22,0.0,7.0,Geno Smith pass incomplete short right,-0.69,-1.9,16.0,2022,232
+1.0,1:41,4.0,8.0,SEA 22,0.0,7.0,Michael Dickson punts 48 yards downed by Penny Hart,-1.9,-0.94,16.0,2022,232
+1.0,1:28,1.0,10.0,KAN 30,0.0,7.0,Isiah Pacheco right guard for 3 yards (tackle by Myles Adams and Teez Tabor),0.94,0.8,16.0,2022,232
+1.0,0:48,2.0,7.0,KAN 33,0.0,7.0,Isiah Pacheco right guard for 4 yards (tackle by Boye Mafe),0.8,0.63,16.0,2022,232
+1.0,0:11,3.0,3.0,KAN 37,0.0,7.0,Patrick Mahomes pass incomplete short middle intended for Justin Watson,0.63,-0.91,16.0,2022,232
+1.0,0:06,4.0,3.0,KAN 37,0.0,7.0,"Tommy Townsend punts 53 yards, returned by DeeJay Dallas for 6 yards (tackle by Noah Gray)",-0.91,0.14,16.0,2022,232
+2.0,15:00,1.0,10.0,SEA 16,0.0,7.0,Kenneth Walker up the middle for 3 yards (tackle by Trent McDuffie and Juan Thornhill),-0.14,-0.18,16.0,2022,232
+2.0,14:20,2.0,7.0,SEA 19,0.0,7.0,Kenneth Walker up the middle for 1 yard (tackle by Justin Reid and Leo Chenal),-0.18,-0.82,16.0,2022,232
+2.0,13:27,3.0,6.0,SEA 20,0.0,7.0,"Penalty on Austin Blythe: False Start, 5 yards (accepted) (no play)",-0.82,-1.47,16.0,2022,232
+2.0,13:01,,,,,,Timeout #2 by Seattle Seahawks,,,16.0,2022,232
+2.0,13:01,3.0,11.0,SEA 15,0.0,7.0,Geno Smith sacked by George Karlaftis for -9 yards,-1.47,-2.49,16.0,2022,232
+2.0,12:30,4.0,20.0,SEA 6,0.0,7.0,"Michael Dickson punts 56 yards, returned by Kadarius Toney for 9 yards (tackle by Cody Barton)",-2.49,-2.06,16.0,2022,232
+2.0,12:17,1.0,10.0,KAN 47,0.0,7.0,Patrick Mahomes pass complete short left to Jerick McKinnon for 6 yards (tackle by Cody Barton and Poona Ford),2.06,2.33,16.0,2022,232
+2.0,11:35,2.0,4.0,SEA 47,0.0,7.0,Patrick Mahomes pass complete short left to Travis Kelce for 6 yards (tackle by Tariq Woolen),2.33,2.85,16.0,2022,232
+2.0,11:00,1.0,10.0,SEA 41,0.0,7.0,Patrick Mahomes pass incomplete short middle,2.85,2.31,16.0,2022,232
+2.0,10:55,2.0,10.0,SEA 41,0.0,7.0,Jerick McKinnon left end for 5 yards (tackle by Cody Barton),2.31,2.28,16.0,2022,232
+2.0,10:14,3.0,5.0,SEA 36,0.0,7.0,"Patrick Mahomes pass complete short right to Travis Kelce for 27 yards (tackle by Teez Tabor). Penalty on Teez Tabor: Illegal Contact, 5 yards (declined)",2.28,5.14,16.0,2022,232
+2.0,9:58,1.0,9.0,SEA 9,0.0,7.0,Jerick McKinnon right end for no gain (tackle by Shelby Harris),5.14,4.38,16.0,2022,232
+2.0,9:02,2.0,9.0,SEA 9,0.0,13.0,"Patrick Mahomes pass complete short right to Jerick McKinnon for 9 yards, touchdown",4.38,7.0,16.0,2022,232
+2.0,8:56,,,SEA 15,0.0,14.0,Harrison Butker kicks extra point good,0.0,0.0,16.0,2022,232
+2.0,8:56,,,KAN 35,0.0,14.0,"Harrison Butker kicks off 57 yards, returned by Godwin Igwebuike for 20 yards (tackle by Justin Watson)",0.0,0.81,16.0,2022,232
+2.0,8:51,1.0,10.0,SEA 28,0.0,14.0,Geno Smith pass complete short left to Kenneth Walker for no gain (tackle by Willie Gay),0.81,0.26,16.0,2022,232
+2.0,8:09,2.0,10.0,SEA 28,0.0,14.0,Geno Smith pass complete short left to D.K. Metcalf for 9 yards (tackle by Justin Reid),0.26,0.76,16.0,2022,232
+2.0,7:48,3.0,1.0,SEA 37,0.0,14.0,Kenneth Walker up the middle for 2 yards (tackle by Carlos Dunlap),0.76,1.53,16.0,2022,232
+2.0,7:09,1.0,10.0,SEA 39,0.0,14.0,Geno Smith pass incomplete short middle intended for Noah Fant,1.53,0.99,16.0,2022,232
+2.0,7:02,2.0,10.0,SEA 39,0.0,14.0,Kenneth Walker right end for -1 yards (tackle by Frank Clark and Nick Bolton),0.99,0.17,16.0,2022,232
+2.0,6:21,3.0,11.0,SEA 38,0.0,14.0,Geno Smith pass complete short left to DeeJay Dallas for 4 yards (tackle by Nick Bolton and Michael Danna),0.17,-0.59,16.0,2022,232
+2.0,5:39,4.0,7.0,SEA 42,0.0,14.0,"Michael Dickson punts 40 yards, recovered by Chris Lammons at KC-18. Penalty on Dareke Young: Illegal Contact, 10 yards (accepted)",-0.59,-0.81,16.0,2022,232
+2.0,5:28,1.0,10.0,KAN 28,0.0,14.0,Isiah Pacheco up the middle for 6 yards (tackle by Poona Ford),0.81,1.07,16.0,2022,232
+2.0,5:06,2.0,4.0,KAN 34,0.0,14.0,Patrick Mahomes pass complete short right to Isiah Pacheco for 32 yards (tackle by Coby Bryant),1.07,3.31,16.0,2022,232
+2.0,4:16,1.0,10.0,SEA 34,0.0,14.0,Jerick McKinnon left guard for 1 yard (tackle by Jordyn Brooks),3.31,2.84,16.0,2022,232
+2.0,3:32,2.0,10.0,SEA 33,0.0,14.0,Patrick Mahomes pass complete short middle to Travis Kelce for 4 yards (tackle by Jordyn Brooks),2.84,2.74,16.0,2022,232
+2.0,2:49,3.0,5.0,SEA 29,0.0,14.0,Patrick Mahomes pass incomplete short right intended for Kadarius Toney,2.74,1.54,16.0,2022,232
+2.0,2:44,4.0,5.0,SEA 29,0.0,17.0,Harrison Butker 47 yard field goal good,1.54,3.0,16.0,2022,232
+2.0,2:40,,,KAN 35,0.0,17.0,"Harrison Butker kicks off 58 yards, recovered by Godwin Igwebuike at SEA-7 (tackle by Nazeeh Johnson and Deon Bush)",0.0,-0.38,16.0,2022,232
+2.0,2:40,1.0,10.0,SEA 7,0.0,17.0,Geno Smith pass complete short left to D.K. Metcalf for 11 yards (tackle by L'Jarius Sneed),-0.38,0.04,16.0,2022,232
+2.0,2:13,1.0,10.0,SEA 18,0.0,17.0,Geno Smith pass incomplete short right intended for Laquon Treadwell (defended by Joshua Williams),0.04,-0.49,16.0,2022,232
+2.0,2:02,2.0,10.0,SEA 18,0.0,17.0,DeeJay Dallas up the middle for 2 yards (tackle by Willie Gay and Chris Jones),-0.49,-0.91,16.0,2022,232
+2.0,1:57,3.0,8.0,SEA 20,0.0,17.0,"Geno Smith sacked by Michael Danna for no gain. Penalty on Joshua Williams: Defensive Holding, 5 yards (accepted) (no play)",-0.91,0.61,16.0,2022,232
+2.0,1:45,1.0,10.0,SEA 25,0.0,17.0,DeeJay Dallas up the middle for 8 yards (tackle by Justin Reid),0.61,1.14,16.0,2022,232
+2.0,1:24,2.0,2.0,SEA 33,0.0,17.0,Geno Smith pass complete deep left to D.K. Metcalf for 35 yards (tackle by Bryan Cook),1.14,3.45,16.0,2022,232
+2.0,1:01,1.0,10.0,KAN 32,0.0,17.0,"Geno Smith pass incomplete deep right intended for Laquon Treadwell. Penalty on Joshua Williams: Defensive Pass Interference, 14 yards (accepted) (no play)",3.45,4.37,16.0,2022,232
+2.0,0:56,1.0,10.0,KAN 18,0.0,17.0,Geno Smith pass incomplete deep middle intended for D.K. Metcalf,4.37,3.8,16.0,2022,232
+2.0,0:50,2.0,10.0,KAN 18,0.0,17.0,Kenneth Walker up the middle for 6 yards (tackle by Trent McDuffie and Nick Bolton),3.8,4.03,16.0,2022,232
+2.0,0:21,3.0,4.0,KAN 12,0.0,17.0,"Geno Smith pass incomplete short left. Penalty on L'Jarius Sneed: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",4.03,5.6,16.0,2022,232
+2.0,0:12,1.0,7.0,KAN 7,0.0,17.0,Geno Smith pass complete short right to DeeJay Dallas for 4 yards (tackle by Nick Bolton),5.6,0.0,16.0,2022,232
+2.0,0:09,,,,,,Timeout #3 by Seattle Seahawks,,,16.0,2022,232
+2.0,0:09,2.0,4.0,KAN 3,0.0,17.0,Geno Smith pass incomplete short middle intended for Colby Parkinson (defended by Willie Gay),0.0,0.0,16.0,2022,232
+2.0,0:05,3.0,4.0,KAN 3,0.0,17.0,Geno Smith pass incomplete short right,0.0,0.0,16.0,2022,232
+2.0,0:01,4.0,4.0,KAN 3,3.0,17.0,Jason Myers 22 yard field goal good,0.0,3.0,16.0,2022,232
+3.0,15:00,,,KAN 35,3.0,17.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,16.0,2022,232
+3.0,15:00,1.0,10.0,SEA 25,3.0,17.0,Kenneth Walker right guard for 4 yards (tackle by Derrick Nnadi),0.61,0.6,16.0,2022,232
+3.0,14:22,2.0,6.0,SEA 29,3.0,17.0,Geno Smith pass incomplete short right intended for D.K. Metcalf,0.6,-0.1,16.0,2022,232
+3.0,14:15,3.0,6.0,SEA 29,3.0,17.0,Geno Smith pass incomplete deep middle intended for Marquise Goodwin,-0.1,-1.44,16.0,2022,232
+3.0,14:10,4.0,6.0,SEA 29,3.0,17.0,Michael Dickson punts 38 yards out of bounds,-1.44,-1.14,16.0,2022,232
+3.0,14:05,1.0,10.0,KAN 33,3.0,17.0,Patrick Mahomes pass incomplete short right intended for Justin Watson,1.14,0.59,16.0,2022,232
+3.0,13:59,2.0,10.0,KAN 33,3.0,17.0,Patrick Mahomes pass complete short right to JuJu Smith-Schuster for 7 yards (tackle by Michael Jackson),0.59,0.83,16.0,2022,232
+3.0,13:20,3.0,3.0,KAN 40,3.0,17.0,Patrick Mahomes pass incomplete short middle intended for Travis Kelce (defended by Johnathan Abram),0.83,-0.72,16.0,2022,232
+3.0,13:09,4.0,3.0,KAN 40,3.0,17.0,"Tommy Townsend punts 42 yards, fair catch by DeeJay Dallas at SEA-18",-0.72,-0.04,16.0,2022,232
+3.0,13:00,1.0,10.0,SEA 18,3.0,17.0,Kenneth Walker right end for 20 yards (tackle by Justin Reid),0.04,1.47,16.0,2022,232
+3.0,12:23,1.0,10.0,SEA 38,3.0,17.0,Kenneth Walker left end for 11 yards (tackle by Juan Thornhill),1.47,2.19,16.0,2022,232
+3.0,11:37,,,,,,Timeout #1 by Seattle Seahawks,,,16.0,2022,232
+3.0,11:37,1.0,10.0,SEA 49,3.0,17.0,Kenneth Walker up the middle for 2 yards (tackle by Chris Jones and Nick Bolton),2.19,1.92,16.0,2022,232
+3.0,11:03,2.0,8.0,KAN 49,3.0,17.0,Kenneth Walker up the middle for 5 yards (tackle by Willie Gay and Nick Bolton),1.92,1.88,16.0,2022,232
+3.0,10:37,3.0,3.0,KAN 44,3.0,17.0,Geno Smith pass complete short left to Penny Hart for 2 yards (tackle by L'Jarius Sneed and Trent McDuffie),1.88,0.46,16.0,2022,232
+3.0,10:19,4.0,1.0,KAN 42,3.0,17.0,Geno Smith up the middle for 2 yards (tackle by Michael Danna),0.46,2.92,16.0,2022,232
+3.0,9:47,1.0,10.0,KAN 40,3.0,17.0,Geno Smith pass complete short left to Kenneth Walker for -2 yards (tackle by Willie Gay),2.92,2.1,16.0,2022,232
+3.0,8:57,2.0,12.0,KAN 42,3.0,17.0,Kenneth Walker up the middle for 2 yards (tackle by Carlos Dunlap),2.1,1.68,16.0,2022,232
+3.0,8:11,3.0,10.0,KAN 40,3.0,17.0,Geno Smith pass complete short right to Colby Parkinson for 6 yards (tackle by Jaylen Watson),1.68,1.08,16.0,2022,232
+3.0,7:36,4.0,4.0,KAN 34,3.0,17.0,"Geno Smith pass complete deep left to Colby Parkinson for no gain (tackle by Bryan Cook). Penalty on Penny Hart: Offensive Pass Interference, 10 yards (declined)",1.08,-1.2,16.0,2022,232
+3.0,7:24,1.0,10.0,KAN 34,3.0,17.0,Isiah Pacheco up the middle for 4 yards (tackle by Shelby Harris and Darrell Taylor),1.2,1.2,16.0,2022,232
+3.0,6:52,2.0,6.0,KAN 38,3.0,17.0,"Penalty on Marquez Valdes-Scantling: False Start, 5 yards (accepted) (no play)",1.2,0.52,16.0,2022,232
+3.0,6:46,2.0,11.0,KAN 33,3.0,17.0,Patrick Mahomes pass complete short right to JuJu Smith-Schuster for 13 yards (tackle by Darrell Taylor),0.52,1.99,16.0,2022,232
+3.0,6:17,1.0,10.0,KAN 46,3.0,17.0,Jerick McKinnon up the middle for -1 yards (tackle by Boye Mafe),1.99,1.32,16.0,2022,232
+3.0,5:36,2.0,11.0,KAN 45,3.0,17.0,Patrick Mahomes sacked by Darrell Taylor for -4 yards,1.32,0.1,16.0,2022,232
+3.0,4:46,3.0,15.0,KAN 41,3.0,17.0,Patrick Mahomes pass incomplete short right intended for Travis Kelce (defended by Quinton Jefferson),0.1,-0.65,16.0,2022,232
+3.0,4:39,4.0,15.0,KAN 41,3.0,17.0,Tommy Townsend punts 33 yards downed by Nazeeh Johnson,-0.65,-0.67,16.0,2022,232
+3.0,4:31,1.0,10.0,SEA 26,3.0,17.0,Kenneth Walker left guard for 4 yards (tackle by Nick Bolton and Michael Danna),0.67,0.67,16.0,2022,232
+3.0,3:56,2.0,6.0,SEA 30,3.0,17.0,Kenneth Walker right end for 20 yards (tackle by L'Jarius Sneed),0.67,2.26,16.0,2022,232
+3.0,3:17,1.0,10.0,KAN 50,3.0,17.0,Geno Smith pass complete short left to Will Dissly for 19 yards (tackle by Nick Bolton),2.26,3.51,16.0,2022,232
+3.0,2:32,1.0,10.0,KAN 31,3.0,17.0,"Penalty on Stone Forsythe: False Start, 5 yards (accepted) (no play)",3.51,3.18,16.0,2022,232
+3.0,2:13,1.0,15.0,KAN 36,3.0,17.0,Kenneth Walker right guard for -1 yards (tackle by Frank Clark),3.18,2.16,16.0,2022,232
+3.0,1:30,2.0,16.0,KAN 37,3.0,17.0,Kenneth Walker up the middle for 9 yards (tackle by Juan Thornhill and Nick Bolton),2.16,2.68,16.0,2022,232
+3.0,0:40,3.0,7.0,KAN 28,3.0,17.0,Kenneth Walker up the middle for -1 yards (tackle by Jaylen Watson),2.68,1.5,16.0,2022,232
+4.0,15:00,4.0,8.0,KAN 29,3.0,17.0,Geno Smith pass complete short right to Laquon Treadwell for 7 yards (tackle by Trent McDuffie),1.5,-0.41,16.0,2022,232
+4.0,14:53,1.0,10.0,KAN 22,3.0,17.0,Isiah Pacheco right end for 2 yards (tackle by Michael Jackson),0.41,0.14,16.0,2022,232
+4.0,14:19,2.0,8.0,KAN 24,3.0,17.0,"Patrick Mahomes aborted snap, recovered by Patrick Mahomes at KC-24 Patrick Mahomes pass incomplete deep left. Penalty on Orlando Brown: Offensive Holding, 10 yards (accepted) (no play)",0.14,-1.33,16.0,2022,232
+4.0,14:10,2.0,18.0,KAN 14,3.0,17.0,Patrick Mahomes pass incomplete deep right intended for Marquez Valdes-Scantling (defended by Michael Jackson),-1.33,-2.24,16.0,2022,232
+4.0,14:05,3.0,18.0,KAN 14,3.0,17.0,Patrick Mahomes pass complete short left to JuJu Smith-Schuster for 7 yards (tackle by Myles Adams),-2.24,-1.96,16.0,2022,232
+4.0,13:29,4.0,11.0,KAN 21,3.0,17.0,"Tommy Townsend punts 40 yards, returned by DeeJay Dallas for 6 yards (tackle by Leo Chenal)",-1.96,-1.93,16.0,2022,232
+4.0,13:23,1.0,10.0,SEA 45,3.0,17.0,Kenneth Walker up the middle for 9 yards (tackle by Juan Thornhill),1.93,2.6,16.0,2022,232
+4.0,12:46,2.0,1.0,KAN 46,3.0,17.0,Kenneth Walker up the middle for 4 yards (tackle by Justin Reid and Nick Bolton),2.6,2.79,16.0,2022,232
+4.0,12:04,1.0,10.0,KAN 42,3.0,17.0,Kenneth Walker left end for -5 yards (tackle by Brandon Williams and Trent McDuffie),2.79,1.57,16.0,2022,232
+4.0,11:21,2.0,15.0,KAN 47,3.0,17.0,Kenneth Walker up the middle for 5 yards (tackle by Derrick Nnadi and Willie Gay),1.57,1.49,16.0,2022,232
+4.0,10:37,3.0,11.0,KAN 42,3.0,17.0,Geno Smith pass complete short left to D.K. Metcalf for 10 yards (tackle by L'Jarius Sneed and Bryan Cook),1.49,3.45,16.0,2022,232
+4.0,10:10,1.0,10.0,KAN 32,3.0,17.0,Geno Smith pass complete short right to DeeJay Dallas for 7 yards (tackle by Nick Bolton and Willie Gay),3.45,3.85,16.0,2022,232
+4.0,9:34,2.0,3.0,KAN 25,3.0,17.0,Kenneth Walker left end for 5 yards (tackle by Derrick Nnadi),3.85,4.24,16.0,2022,232
+4.0,8:32,,,,,,Timeout #2 by Seattle Seahawks,,,16.0,2022,232
+4.0,8:32,1.0,10.0,KAN 20,3.0,17.0,Kenneth Walker up the middle for -2 yards (tackle by Chris Jones),4.24,3.42,16.0,2022,232
+4.0,7:49,2.0,12.0,KAN 22,3.0,17.0,Geno Smith pass deep left intended for Marquise Goodwin is intercepted by Juan Thornhill in end zone and returned for no gain,3.42,-0.28,16.0,2022,232
+4.0,7:42,1.0,10.0,KAN 20,3.0,17.0,Patrick Mahomes pass complete short left to Travis Kelce for 20 yards (tackle by Jordyn Brooks and Michael Jackson),0.28,1.6,16.0,2022,232
+4.0,7:02,1.0,10.0,KAN 40,3.0,17.0,Patrick Mahomes pass complete deep left to Travis Kelce for 52 yards (tackle by Jordyn Brooks),1.6,5.37,16.0,2022,232
+4.0,6:10,1.0,8.0,SEA 8,3.0,17.0,Isiah Pacheco up the middle for 5 yards (tackle by Jordyn Brooks),5.37,5.53,16.0,2022,232
+4.0,5:34,2.0,3.0,SEA 3,3.0,17.0,Isiah Pacheco up the middle for no gain (tackle by Cody Barton and Jordyn Brooks),5.53,4.72,16.0,2022,232
+4.0,4:50,3.0,3.0,SEA 3,3.0,23.0,"Patrick Mahomes scrambles right end for 3 yards, touchdown",4.72,7.0,16.0,2022,232
+4.0,4:42,,,SEA 15,3.0,24.0,Harrison Butker kicks extra point good,0.0,0.0,16.0,2022,232
+4.0,4:42,,,KAN 35,3.0,24.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,16.0,2022,232
+4.0,4:42,1.0,10.0,SEA 25,3.0,24.0,Geno Smith pass incomplete short left intended for Marquise Goodwin,0.61,0.06,16.0,2022,232
+4.0,4:37,2.0,10.0,SEA 25,3.0,24.0,Geno Smith pass incomplete short middle intended for Laquon Treadwell,0.06,-0.62,16.0,2022,232
+4.0,4:32,3.0,10.0,SEA 25,3.0,24.0,Geno Smith pass complete short right to Noah Fant for 6 yards (tackle by Justin Reid),-0.62,-1.31,16.0,2022,232
+4.0,3:54,4.0,4.0,SEA 31,3.0,24.0,Geno Smith scrambles right end for 5 yards (tackle by Juan Thornhill),-1.31,1.33,16.0,2022,232
+4.0,3:45,1.0,10.0,SEA 36,3.0,24.0,Geno Smith pass complete deep right to Colby Parkinson for 39 yards (tackle by Bryan Cook),1.33,3.91,16.0,2022,232
+4.0,3:12,1.0,10.0,KAN 25,3.0,24.0,Geno Smith pass complete short right to DeeJay Dallas for 2 yards (tackle by Nick Bolton),3.91,3.63,16.0,2022,232
+4.0,3:05,2.0,8.0,KAN 23,3.0,24.0,Geno Smith pass incomplete deep left intended for Penny Hart,3.63,2.94,16.0,2022,232
+4.0,3:00,3.0,8.0,KAN 23,3.0,24.0,Geno Smith pass incomplete short right intended for Laquon Treadwell (defended by Willie Gay),2.94,1.93,16.0,2022,232
+4.0,2:54,4.0,8.0,KAN 23,3.0,24.0,Geno Smith pass complete deep left to Laquon Treadwell for 17 yards (tackle by Joshua Williams),1.93,5.83,16.0,2022,232
+4.0,2:31,1.0,6.0,KAN 6,9.0,24.0,"Geno Smith pass complete short right to Noah Fant for 6 yards, touchdown",5.83,7.0,16.0,2022,232
+4.0,2:25,,,KAN 15,10.0,24.0,Jason Myers kicks extra point good,0.0,0.0,16.0,2022,232
+4.0,2:25,,,SEA 35,10.0,24.0,"Jason Myers kicks onside 9 yards, returned by Deon Bush for no gain",0.0,2.65,16.0,2022,232
+4.0,2:24,1.0,10.0,SEA 44,10.0,24.0,Jerick McKinnon left end for 2 yards (tackle by Boye Mafe and Shelby Harris),2.65,2.38,16.0,2022,232
+4.0,2:18,,,,,,Timeout #3 by Seattle Seahawks,,,16.0,2022,232
+4.0,2:18,2.0,8.0,SEA 42,10.0,24.0,Isiah Pacheco left end for 5 yards (tackle by Jordyn Brooks and Poona Ford),2.38,2.35,16.0,2022,232
+4.0,2:00,3.0,3.0,SEA 37,10.0,24.0,Isiah Pacheco left end for 1 yard (tackle by Uchenna Nwosu and Cody Barton),2.35,0.89,16.0,2022,232
+4.0,1:12,,,,,,Timeout #1 by Kansas City Chiefs,,,16.0,2022,232
+4.0,1:12,4.0,3.0,SEA 36,10.0,24.0,Patrick Mahomes pass incomplete short right intended for Justin Watson (defended by Jordyn Brooks),0.89,-1.33,16.0,2022,232
+4.0,1:06,1.0,10.0,SEA 36,10.0,24.0,Geno Smith pass complete short middle to DeeJay Dallas for 7 yards (tackle by Nick Bolton),1.33,1.74,16.0,2022,232
+4.0,0:44,2.0,3.0,SEA 43,10.0,24.0,Geno Smith pass complete short middle to DeeJay Dallas for 8 yards (tackle by Nick Bolton),1.74,2.32,16.0,2022,232
+4.0,0:26,1.0,10.0,KAN 49,10.0,24.0,Geno Smith scrambles left end for 9 yards (tackle by L'Jarius Sneed),2.32,3.0,16.0,2022,232
+4.0,0:16,2.0,1.0,KAN 40,10.0,24.0,Geno Smith sacked by Chris Jones for -6 yards,3.0,1.49,16.0,2022,232

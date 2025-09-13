@@ -1,0 +1,170 @@
+Quarter,Time,Down,ToGo,Location,CAR,CHI,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Bears won the coin toss and deferred, Panthers to receive the opening kickoff.",,,5.0,2024,68
+1.0,15:00,,,CHI 35,0.0,0.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.94,5.0,2024,68
+1.0,15:00,1.0,10.0,CAR 30,0.0,0.0,Chuba Hubbard left tackle for 5 yards (tackle by T.J. Edwards and Jaquan Brisker),0.94,1.07,5.0,2024,68
+1.0,14:22,2.0,5.0,CAR 35,0.0,0.0,Andy Dalton pass complete short right to Chuba Hubbard for no gain (tackle by Kyler Gordon),1.07,0.37,5.0,2024,68
+1.0,13:38,3.0,5.0,CAR 35,0.0,0.0,Andy Dalton pass incomplete short left intended for Tommy Tremble,0.37,-1.04,5.0,2024,68
+1.0,13:32,4.0,5.0,CAR 35,0.0,0.0,Johnny Hekker punts 47 yards downed by Thomas Incoom,-1.04,-0.04,5.0,2024,68
+1.0,13:21,1.0,10.0,CHI 18,0.0,0.0,Caleb Williams pass incomplete short left intended for Keenan Allen,0.04,-0.49,5.0,2024,68
+1.0,13:17,2.0,10.0,CHI 18,0.0,0.0,D'Andre Swift left end for 3 yards (tackle by Shy Tuttle and Chau Smith-Wade),-0.49,-0.79,5.0,2024,68
+1.0,12:37,3.0,7.0,CHI 21,0.0,0.0,Caleb Williams sacked by Charles Harris for -8 yards,-0.79,-2.49,5.0,2024,68
+1.0,11:53,4.0,15.0,CHI 13,0.0,0.0,"Tory Taylor punts 49 yards, returned by Raheem Blackshear for 11 yards (tackle by Elijah Hicks and Jack Sanborn)",-2.49,-2.19,5.0,2024,68
+1.0,11:39,1.0,10.0,CAR 49,0.0,0.0,Diontae Johnson left end for 2 yards (tackle by Jack Sanborn),2.19,1.92,5.0,2024,68
+1.0,11:02,2.0,8.0,CHI 49,0.0,0.0,Andy Dalton pass complete short middle to David Moore for 6 yards (tackle by Kevin Byard and Jaquan Brisker),1.92,2.01,5.0,2024,68
+1.0,10:19,3.0,2.0,CHI 43,0.0,0.0,Andy Dalton pass complete short right to Chuba Hubbard for 1 yard (tackle by T.J. Edwards),2.01,0.46,5.0,2024,68
+1.0,9:40,4.0,1.0,CHI 42,0.0,0.0,Diontae Johnson left end for 4 yards (tackle by Jaquan Brisker),0.46,3.05,5.0,2024,68
+1.0,9:01,1.0,10.0,CHI 38,6.0,0.0,"Chuba Hubbard left tackle for 38 yards, touchdown",3.05,7.0,5.0,2024,68
+1.0,8:54,,,CHI 15,7.0,0.0,Eddy Pineiro kicks extra point good,0.0,0.0,5.0,2024,68
+1.0,8:54,,,CAR 35,7.0,0.0,"Eddy Pineiro kicks off 65 yards, returned by DeAndre Carter for 30 yards (tackle by Jon Rhattigan)",0.0,0.94,5.0,2024,68
+1.0,8:49,1.0,10.0,CHI 30,7.0,0.0,D'Andre Swift right tackle for 8 yards (tackle by Trevin Wallace and Jadeveon Clowney),0.94,1.47,5.0,2024,68
+1.0,8:26,2.0,2.0,CHI 38,7.0,0.0,D'Andre Swift right guard for 3 yards (tackle by A'Shawn Robinson),1.47,1.66,5.0,2024,68
+1.0,7:50,1.0,10.0,CHI 41,7.0,0.0,Caleb Williams pass complete short left to Rome Odunze for 11 yards (tackle by Trevin Wallace and Michael Jackson),1.66,2.39,5.0,2024,68
+1.0,7:19,1.0,10.0,CAR 48,7.0,0.0,Caleb Williams pass complete short left to Keenan Allen for 3 yards (tackle by Xavier Woods),2.39,2.25,5.0,2024,68
+1.0,6:45,2.0,7.0,CAR 45,7.0,0.0,D'Andre Swift left guard for 7 yards (tackle by Nick Scott and Troy Hill),2.25,3.05,5.0,2024,68
+1.0,6:14,1.0,10.0,CAR 38,7.0,0.0,D'Andre Swift right tackle for 4 yards (tackle by LaBryan Ray and Chau Smith-Wade),3.05,3.05,5.0,2024,68
+1.0,5:52,2.0,6.0,CAR 34,7.0,6.0,"Caleb Williams pass complete deep right to D.J. Moore for 34 yards, touchdown",3.05,7.0,5.0,2024,68
+1.0,5:44,,,CAR 15,7.0,7.0,Cairo Santos kicks extra point good,0.0,0.0,5.0,2024,68
+1.0,5:44,,,CHI 35,7.0,7.0,"Cairo Santos kicks off 65 yards, touchback., touchback.",0.0,0.94,5.0,2024,68
+1.0,5:44,1.0,10.0,CAR 30,7.0,7.0,Chuba Hubbard right guard for 5 yards (tackle by Tremaine Edmunds),0.94,1.07,5.0,2024,68
+1.0,5:09,2.0,5.0,CAR 35,7.0,7.0,Chuba Hubbard left tackle for 6 yards (tackle by Tremaine Edmunds and Jack Sanborn),1.07,1.66,5.0,2024,68
+1.0,4:32,1.0,10.0,CAR 41,7.0,7.0,Andy Dalton pass complete short middle to Ja'Tavion Sanders for -1 yards (tackle by Kevin Byard and Jaylon Johnson),1.66,0.99,5.0,2024,68
+1.0,3:58,2.0,11.0,CAR 40,7.0,7.0,"Penalty on CAR: Offensive Too Many Men on Field, 5 yards (accepted) (no play)",0.99,0.31,5.0,2024,68
+1.0,3:44,2.0,16.0,CAR 35,7.0,7.0,Andy Dalton scrambles right end for 3 yards (tackle by Andrew Billings),0.31,0.04,5.0,2024,68
+1.0,3:06,3.0,13.0,CAR 38,7.0,7.0,Andy Dalton sacked by and DeMarcus Walker for -3 yards and Gervon Dexter for -3 yards,0.04,-1.04,5.0,2024,68
+1.0,2:22,4.0,16.0,CAR 35,7.0,7.0,"Johnny Hekker punts 65 yards, touchback.",-1.04,-0.28,5.0,2024,68
+1.0,2:11,1.0,10.0,CHI 20,7.0,7.0,D'Andre Swift right tackle for 4 yards (tackle by Jadeveon Clowney),0.28,0.27,5.0,2024,68
+1.0,1:41,2.0,6.0,CHI 24,7.0,7.0,Caleb Williams pass complete short right to D.J. Moore for 23 yards (tackle by Trevin Wallace),0.27,2.06,5.0,2024,68
+1.0,1:03,1.0,10.0,CHI 47,7.0,7.0,D'Andre Swift right tackle for 4 yards (tackle by Jaycee Horn),2.06,2.06,5.0,2024,68
+1.0,0:36,2.0,6.0,CAR 49,7.0,7.0,Caleb Williams scrambles right tackle for 6 yards (tackle by Shy Tuttle),2.06,2.72,5.0,2024,68
+2.0,15:00,1.0,10.0,CAR 43,7.0,7.0,D'Andre Swift left guard for 2 yards (tackle by Claudin Cherelus),2.72,2.45,5.0,2024,68
+2.0,14:40,2.0,8.0,CAR 41,7.0,7.0,D'Andre Swift left end for 18 yards (tackle by Trevin Wallace),2.45,4.04,5.0,2024,68
+2.0,13:57,1.0,10.0,CAR 23,7.0,7.0,Caleb Williams pass complete short left to Rome Odunze for 6 yards (tackle by Jaycee Horn and Xavier Woods),4.04,4.38,5.0,2024,68
+2.0,13:19,2.0,4.0,CAR 17,7.0,7.0,Caleb Williams scrambles right end for 5 yards (tackle by Trevin Wallace),4.38,4.78,5.0,2024,68
+2.0,12:40,1.0,10.0,CAR 12,7.0,7.0,D'Andre Swift left tackle for 5 yards (tackle by Michael Jackson and Trevin Wallace),4.78,5.02,5.0,2024,68
+2.0,12:01,2.0,5.0,CAR 7,7.0,7.0,Caleb Williams pass incomplete short left intended for Keenan Allen,5.02,4.16,5.0,2024,68
+2.0,11:55,3.0,5.0,CAR 7,7.0,7.0,D'Andre Swift left guard for 6 yards (tackle by A'Shawn Robinson and Claudin Cherelus),4.16,6.97,5.0,2024,68
+2.0,11:28,1.0,1.0,CAR 1,7.0,7.0,"D'Andre Swift right guard for no gain, touchdown. Penalty on Rome Odunze: Illegal Shift, 5 yards (accepted) (no play)",6.97,5.83,5.0,2024,68
+2.0,11:27,1.0,6.0,CAR 6,7.0,7.0,"Penalty on CAR: Defensive Too Many Men on Field, 3 yards (accepted) (no play)",5.83,6.51,5.0,2024,68
+2.0,11:27,1.0,3.0,CAR 3,7.0,7.0,D'Andre Swift left guard for 2 yards (tackle by Shy Tuttle),6.51,5.91,5.0,2024,68
+2.0,10:48,2.0,1.0,CAR 1,7.0,13.0,"Roschon Johnson right guard for 1 yard, touchdown",5.91,7.0,5.0,2024,68
+2.0,10:44,,,CAR 15,7.0,14.0,Cairo Santos kicks extra point good,0.0,0.0,5.0,2024,68
+2.0,10:44,,,CHI 35,7.0,14.0,"Cairo Santos kicks off 67 yards, returned by Raheem Blackshear for 31 yards (tackle by Amen Ogbongbemiga and Tyrique Stevenson)",0.0,0.87,5.0,2024,68
+2.0,10:38,1.0,10.0,CAR 29,7.0,14.0,Andy Dalton pass complete short right to Diontae Johnson for 2 yards (tackle by Jaylon Johnson),0.87,0.6,5.0,2024,68
+2.0,10:02,2.0,8.0,CAR 31,7.0,14.0,Miles Sanders right guard for 2 yards (tackle by T.J. Edwards),0.6,0.17,5.0,2024,68
+2.0,9:19,3.0,6.0,CAR 33,7.0,14.0,Andy Dalton pass complete short right to Chuba Hubbard for 1 yard (tackle by Kevin Byard),0.17,-1.11,5.0,2024,68
+2.0,8:32,4.0,5.0,CAR 34,7.0,14.0,"Johnny Hekker punts 47 yards, returned by DeAndre Carter for 6 yards (tackle by Feleipe Franks)",-1.11,-0.61,5.0,2024,68
+2.0,8:20,1.0,10.0,CHI 25,7.0,14.0,D'Andre Swift left end for -1 yards (tackle by Jadeveon Clowney),0.61,-0.07,5.0,2024,68
+2.0,7:40,2.0,11.0,CHI 24,7.0,14.0,Caleb Williams pass incomplete short left intended for D.J. Moore (defended by Jaycee Horn),-0.07,-0.76,5.0,2024,68
+2.0,7:34,3.0,11.0,CHI 24,7.0,14.0,Caleb Williams pass complete short middle to Gerald Everett for 17 yards (tackle by Michael Jackson and Trevin Wallace),-0.76,1.66,5.0,2024,68
+2.0,7:02,1.0,10.0,CHI 41,7.0,14.0,Roschon Johnson left guard for 8 yards (tackle by Claudin Cherelus and Nick Scott),1.66,2.2,5.0,2024,68
+2.0,6:37,2.0,2.0,CHI 49,7.0,14.0,Roschon Johnson right guard for 3 yards (tackle by Troy Hill),2.2,2.39,5.0,2024,68
+2.0,6:00,1.0,10.0,CAR 48,7.0,14.0,Caleb Williams pass complete short right to Rome Odunze for 4 yards (tackle by Jaycee Horn),2.39,2.39,5.0,2024,68
+2.0,5:34,2.0,6.0,CAR 44,7.0,14.0,Roschon Johnson left guard for 4 yards (tackle by T.J. Smith and A'Shawn Robinson),2.39,2.21,5.0,2024,68
+2.0,5:05,3.0,2.0,CAR 40,7.0,14.0,Roschon Johnson left guard for 1 yard (tackle by Trevin Wallace),2.21,0.66,5.0,2024,68
+2.0,4:27,4.0,1.0,CAR 39,7.0,14.0,Roschon Johnson right tackle for no gain (tackle by Trevin Wallace and Nick Scott),0.66,-1.53,5.0,2024,68
+2.0,4:18,1.0,10.0,CAR 39,7.0,14.0,Chuba Hubbard right guard for 5 yards (tackle by T.J. Edwards),1.53,1.66,5.0,2024,68
+2.0,3:42,2.0,5.0,CAR 44,7.0,14.0,Andy Dalton sacked by and Kyler Gordon for -7 yards and Gervon Dexter for -7 yards,1.66,0.04,5.0,2024,68
+2.0,3:00,3.0,12.0,CAR 37,7.0,14.0,"Andy Dalton pass complete short middle to Tommy Tremble for 7 yards. Tommy Tremble fumbles (forced by Jaquan Brisker), recovered by Gervon Dexter at CAR-44 (tackle by Jaquan Brisker)",0.04,-2.65,5.0,2024,68
+2.0,2:49,1.0,10.0,CAR 44,7.0,14.0,Caleb Williams pass complete short right to D'Andre Swift for 42 yards (tackle by Jaycee Horn),2.65,6.74,5.0,2024,68
+2.0,2:24,1.0,2.0,CAR 2,7.0,14.0,"D'Andre Swift left tackle for no gain, touchdown Replay Assistant challenged the runner broke the plane ruling, and the original play was overturned. D'Andre Swift left tackle for 1 yard (tackle by Xavier Woods)",6.74,5.91,5.0,2024,68
+2.0,2:17,2.0,1.0,CAR 1,7.0,20.0,"D'Andre Swift right guard for 1 yard, touchdown",5.91,7.0,5.0,2024,68
+2.0,2:14,,,CAR 15,7.0,21.0,Cairo Santos kicks extra point good,0.0,0.0,5.0,2024,68
+2.0,2:14,,,CHI 35,7.0,21.0,"Cairo Santos kicks off 65 yards, returned by Raheem Blackshear for 43 yards (tackle by Elijah Hicks)",0.0,1.8,5.0,2024,68
+2.0,2:06,1.0,10.0,CAR 43,7.0,21.0,Chuba Hubbard right tackle for 5 yards (tackle by T.J. Edwards and Tremaine Edmunds),1.8,1.93,5.0,2024,68
+2.0,2:00,2.0,5.0,CAR 48,7.0,21.0,Andy Dalton pass complete short middle to Xavier Legette for 8 yards (tackle by Kevin Byard),1.93,2.65,5.0,2024,68
+2.0,1:33,1.0,10.0,CHI 44,7.0,21.0,Andy Dalton pass incomplete short left intended for Jonathan Mingo (defended by Tyrique Stevenson),2.65,2.11,5.0,2024,68
+2.0,1:28,2.0,10.0,CHI 44,7.0,21.0,Andy Dalton pass complete short right to David Moore for 7 yards (tackle by Kyler Gordon),2.11,2.35,5.0,2024,68
+2.0,1:03,3.0,3.0,CHI 37,7.0,21.0,Andy Dalton pass incomplete short right intended for Ja'Tavion Sanders,2.35,0.79,5.0,2024,68
+2.0,1:00,4.0,3.0,CHI 37,7.0,21.0,Andy Dalton pass incomplete short right intended for Diontae Johnson (defended by Tyrique Stevenson),0.79,-1.47,5.0,2024,68
+2.0,0:55,1.0,10.0,CHI 38,7.0,21.0,Caleb Williams pass complete short left to Gerald Everett for 5 yards (tackle by A'Shawn Robinson),1.47,1.6,5.0,2024,68
+2.0,0:50,,,,,,Timeout #1 by Chicago Bears,,,5.0,2024,68
+2.0,0:50,2.0,5.0,CHI 43,7.0,21.0,Caleb Williams pass incomplete short middle intended for Keenan Allen (defended by Nick Scott),1.6,0.89,5.0,2024,68
+2.0,0:45,3.0,5.0,CHI 43,7.0,21.0,Caleb Williams pass complete deep right to Cole Kmet for 25 yards,0.89,3.45,5.0,2024,68
+2.0,0:38,1.0,10.0,CAR 32,7.0,21.0,Caleb Williams scrambles right end for 2 yards (tackle by Nick Scott and Trevin Wallace),3.45,3.17,5.0,2024,68
+2.0,0:30,,,,,,Timeout #1 by Carolina Panthers,,,5.0,2024,68
+2.0,0:30,2.0,8.0,CAR 30,7.0,27.0,"Caleb Williams pass complete deep middle to D.J. Moore for 30 yards, touchdown",3.17,7.0,5.0,2024,68
+2.0,0:24,,,CAR 15,7.0,27.0,Cairo Santos kicks extra point no good,0.0,-1.0,5.0,2024,68
+2.0,0:24,,,CHI 35,7.0,27.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.94,5.0,2024,68
+2.0,0:24,1.0,10.0,CAR 30,7.0,27.0,Andy Dalton pass complete short right to Ja'Tavion Sanders for 4 yards (tackle by Jaylon Johnson),0.94,0.93,5.0,2024,68
+2.0,0:17,,,,,,Timeout #2 by Carolina Panthers,,,5.0,2024,68
+2.0,0:17,2.0,6.0,CAR 34,7.0,27.0,Andy Dalton pass complete short left to Jalen Coker for 31 yards (tackle by Jaylon Johnson),0.93,3.25,5.0,2024,68
+2.0,0:08,1.0,10.0,CHI 35,7.0,27.0,Andy Dalton pass complete short middle to Jonathan Mingo for 8 yards (tackle by Tremaine Edmunds),3.25,3.78,5.0,2024,68
+2.0,0:04,,,,,,Timeout #3 by Carolina Panthers,,,5.0,2024,68
+2.0,0:04,2.0,2.0,CHI 27,7.0,27.0,Eddy Pineiro 45 yard field goal no good,3.78,1.2,5.0,2024,68
+3.0,15:00,,,CAR 35,7.0,27.0,"Eddy Pineiro kicks off 57 yards, returned by Josh Blackwell for 22 yards (tackle by Chandler Wooten and Feleipe Franks)",0.0,0.94,5.0,2024,68
+3.0,14:54,1.0,10.0,CHI 30,7.0,27.0,D'Andre Swift right guard for no gain (tackle by Xavier Woods),0.94,0.39,5.0,2024,68
+3.0,14:26,2.0,10.0,CHI 30,7.0,27.0,"Caleb Williams pass complete short right to Cole Kmet for no gain (tackle by Nick Scott). Penalty on D'Andre Swift: Offensive Holding, 9 yards (accepted) (no play)",0.39,-0.82,5.0,2024,68
+3.0,13:57,2.0,19.0,CHI 21,7.0,27.0,Caleb Williams pass complete short middle to D'Andre Swift for 5 yards (tackle by Trevin Wallace),-0.82,-0.76,5.0,2024,68
+3.0,13:15,3.0,13.0,CHI 26,7.0,27.0,Caleb Williams scrambles left tackle for 11 yards (tackle by Charles Harris),-0.76,-0.91,5.0,2024,68
+3.0,12:28,4.0,3.0,CHI 37,7.0,27.0,Tory Taylor punts 41 yards downed by Elijah Hicks,-0.91,-0.41,5.0,2024,68
+3.0,12:13,1.0,10.0,CAR 22,7.0,27.0,Andy Dalton pass complete short left to Diontae Johnson for 1 yard (tackle by Jaylon Johnson),0.41,0.0,5.0,2024,68
+3.0,11:34,2.0,9.0,CAR 23,7.0,27.0,"Penalty on Ja'Tavion Sanders: False Start, 5 yards (accepted) (no play)",0.0,-0.77,5.0,2024,68
+3.0,11:15,2.0,14.0,CAR 18,7.0,27.0,Andy Dalton pass deep left intended for Jonathan Mingo is intercepted by Kevin Byard at CHI-34 and returned for no gain (tackle by Jonathan Mingo),-0.77,-1.2,5.0,2024,68
+3.0,11:02,1.0,10.0,CHI 34,7.0,27.0,Caleb Williams pass complete short middle to Cole Kmet for 6 yards (tackle by Trevin Wallace),1.2,1.47,5.0,2024,68
+3.0,10:32,2.0,4.0,CHI 40,7.0,27.0,Caleb Williams pass complete short right to Rome Odunze for 11 yards (tackle by Jaycee Horn),1.47,2.32,5.0,2024,68
+3.0,10:03,1.0,10.0,CAR 49,7.0,27.0,Caleb Williams pass complete short right to Keenan Allen for 19 yards (tackle by Xavier Woods),2.32,3.58,5.0,2024,68
+3.0,9:31,1.0,10.0,CAR 30,7.0,27.0,Caleb Williams pass complete short middle to D.J. Moore for 16 yards (tackle by DJ Johnson),3.58,4.65,5.0,2024,68
+3.0,8:53,1.0,10.0,CAR 14,7.0,27.0,Caleb Williams pass incomplete short right intended for Rome Odunze,4.65,4.0,5.0,2024,68
+3.0,8:47,2.0,10.0,CAR 14,7.0,27.0,D'Andre Swift right end for 2 yards (tackle by Jaycee Horn),4.0,3.43,5.0,2024,68
+3.0,8:11,3.0,8.0,CAR 12,7.0,27.0,Caleb Williams scrambles right end for 10 yards (tackle by Xavier Woods),3.43,6.74,5.0,2024,68
+3.0,7:33,1.0,2.0,CAR 2,7.0,27.0,D'Andre Swift left guard for 1 yard (tackle by Trevin Wallace),6.74,5.91,5.0,2024,68
+3.0,6:55,2.0,1.0,CAR 1,7.0,27.0,"Caleb Williams scrambles left guard for no gain, touchdown. Penalty on Doug Kramer: Clipping, 14 yards (accepted) (no play)",5.91,3.46,5.0,2024,68
+3.0,6:40,2.0,15.0,CAR 15,7.0,27.0,"Caleb Williams pass incomplete short right Penalty on CHI: Ineligible Downfield Pass, 5 yards (declined)",3.46,2.93,5.0,2024,68
+3.0,6:33,3.0,15.0,CAR 15,7.0,27.0,Caleb Williams pass incomplete short middle intended for D.J. Moore,2.93,2.44,5.0,2024,68
+3.0,6:29,4.0,15.0,CAR 15,7.0,30.0,Cairo Santos 33 yard field goal good,2.44,3.0,5.0,2024,68
+3.0,6:25,,,CHI 35,7.0,30.0,"Cairo Santos kicks off 65 yards, touchback., touchback.",0.0,0.94,5.0,2024,68
+3.0,6:25,1.0,10.0,CAR 30,7.0,30.0,Andy Dalton pass incomplete deep middle intended for Jonathan Mingo (defended by Jaquan Brisker),0.94,0.39,5.0,2024,68
+3.0,6:18,2.0,10.0,CAR 30,7.0,30.0,Miles Sanders left guard for 4 yards (tackle by Byron Cowart),0.39,0.23,5.0,2024,68
+3.0,5:39,,,,,,Timeout #1 by Carolina Panthers,,,5.0,2024,68
+3.0,5:39,3.0,6.0,CAR 34,7.0,30.0,Andy Dalton pass complete short middle to Jalen Coker for 6 yards (tackle by Jaquan Brisker),0.23,1.6,5.0,2024,68
+3.0,5:03,1.0,10.0,CAR 40,7.0,30.0,"Andy Dalton aborted snap, recovered by Andy Dalton at CAR-36 Chuba Hubbard for 5 yards (tackle by Kyler Gordon)",1.6,1.73,5.0,2024,68
+3.0,4:36,2.0,5.0,CAR 45,7.0,30.0,Chuba Hubbard left tackle for 3 yards (tackle by Darrell Taylor and Chris Williams),1.73,1.42,5.0,2024,68
+3.0,3:53,3.0,2.0,CAR 48,7.0,30.0,"Andy Dalton pass incomplete short left intended for Diontae Johnson. Penalty on Tyrique Stevenson: Defensive Pass Interference, 13 yards (accepted) (no play)",1.42,2.98,5.0,2024,68
+3.0,3:45,1.0,10.0,CHI 39,7.0,30.0,Andy Dalton pass complete deep left to Jonathan Mingo for 29 yards (tackle by Tyrique Stevenson and Kevin Byard),2.98,4.91,5.0,2024,68
+3.0,3:03,1.0,10.0,CHI 10,7.0,30.0,Chuba Hubbard left tackle for 1 yard (tackle by DeMarcus Walker),4.91,4.38,5.0,2024,68
+3.0,2:28,2.0,9.0,CHI 9,7.0,30.0,Andy Dalton pass incomplete short left intended for Diontae Johnson,4.38,3.36,5.0,2024,68
+3.0,2:19,3.0,9.0,CHI 9,7.0,30.0,Andy Dalton pass incomplete short right intended for Ja'Tavion Sanders,3.36,2.83,5.0,2024,68
+3.0,2:14,4.0,9.0,CHI 9,10.0,30.0,Eddy Pineiro 27 yard field goal good,2.83,3.0,5.0,2024,68
+3.0,2:10,,,CAR 35,10.0,30.0,"Eddy Pineiro kicks off 63 yards, returned by Khalil Herbert for 28 yards (tackle by Thomas Incoom)",0.0,0.94,5.0,2024,68
+3.0,2:04,1.0,10.0,CHI 30,10.0,30.0,"Penalty on Matt Pryor: False Start, 5 yards (accepted) (no play)",0.94,0.61,5.0,2024,68
+3.0,2:04,1.0,15.0,CHI 25,10.0,30.0,D'Andre Swift right tackle for 2 yards (tackle by Shy Tuttle),0.61,-0.01,5.0,2024,68
+3.0,1:26,2.0,13.0,CHI 27,10.0,30.0,Caleb Williams pass incomplete short right intended for Cole Kmet,-0.01,-0.69,5.0,2024,68
+3.0,1:24,3.0,13.0,CHI 27,10.0,30.0,Caleb Williams pass complete short middle to Keenan Allen for 11 yards (tackle by Troy Hill),-0.69,-0.85,5.0,2024,68
+3.0,0:40,4.0,2.0,CHI 38,10.0,30.0,"Tory Taylor punts 48 yards, returned by Raheem Blackshear for 9 yards (tackle by Josh Blackwell)",-0.85,-0.48,5.0,2024,68
+3.0,0:32,1.0,10.0,CAR 23,10.0,30.0,Chuba Hubbard right guard for 14 yards (tackle by Kevin Byard),0.48,1.4,5.0,2024,68
+4.0,15:00,1.0,10.0,CAR 37,10.0,30.0,Andy Dalton pass complete deep right to Diontae Johnson for 20 yards (tackle by Tyrique Stevenson),1.4,2.72,5.0,2024,68
+4.0,14:28,1.0,10.0,CHI 43,10.0,30.0,Chuba Hubbard right tackle for 3 yards (tackle by Chris Williams),2.72,2.58,5.0,2024,68
+4.0,13:53,2.0,7.0,CHI 40,10.0,30.0,Chuba Hubbard left guard for 3 yards (tackle by Kyler Gordon),2.58,2.28,5.0,2024,68
+4.0,13:12,3.0,4.0,CHI 37,10.0,30.0,Andy Dalton sacked by Andrew Billings for -10 yards,2.28,0.13,5.0,2024,68
+4.0,12:16,4.0,14.0,CHI 47,10.0,30.0,"Johnny Hekker punts 47 yards, touchback.",0.13,-0.28,5.0,2024,68
+4.0,12:02,1.0,10.0,CHI 20,10.0,30.0,Caleb Williams pass complete short left to D.J. Moore for 2 yards (tackle by Troy Hill and Claudin Cherelus),0.28,0.0,5.0,2024,68
+4.0,11:19,2.0,8.0,CHI 22,10.0,30.0,Caleb Williams pass complete short right to Cole Kmet for 26 yards (tackle by Nick Scott and Troy Hill),0.0,2.13,5.0,2024,68
+4.0,10:29,1.0,10.0,CHI 48,10.0,30.0,Roschon Johnson right guard for 3 yards (tackle by Troy Hill and DJ Johnson),2.13,1.99,5.0,2024,68
+4.0,9:49,2.0,7.0,CAR 49,10.0,30.0,Roschon Johnson left guard for 1 yard (tackle by Trevin Wallace),1.99,1.42,5.0,2024,68
+4.0,9:04,3.0,6.0,CAR 48,10.0,30.0,Caleb Williams pass incomplete short left intended for D.J. Moore,1.42,0.07,5.0,2024,68
+4.0,8:53,4.0,6.0,CAR 48,10.0,30.0,"Tory Taylor punts 40 yards, fair catch by David Moore at CAR-8",0.07,0.38,5.0,2024,68
+4.0,8:46,1.0,10.0,CAR 8,10.0,30.0,Andy Dalton pass incomplete deep right intended for Diontae Johnson,-0.38,-0.78,5.0,2024,68
+4.0,8:41,2.0,10.0,CAR 8,10.0,30.0,"Andy Dalton aborted snap, recovered by Andy Dalton in end zone Andy Dalton pass incomplete short right",-0.78,-1.42,5.0,2024,68
+4.0,8:35,3.0,10.0,CAR 8,10.0,30.0,Andy Dalton pass complete short middle to Ja'Tavion Sanders for 10 yards (tackle by Tremaine Edmunds and T.J. Edwards),-1.42,0.04,5.0,2024,68
+4.0,8:10,1.0,10.0,CAR 18,10.0,30.0,Chuba Hubbard right tackle for 4 yards (tackle by Tyrique Stevenson and Darrell Taylor),0.04,0.14,5.0,2024,68
+4.0,7:43,2.0,6.0,CAR 22,10.0,30.0,"Andy Dalton pass complete short middle to Chuba Hubbard for -4 yards. Chuba Hubbard fumbles (forced by Tremaine Edmunds), recovered by Kyler Gordon at CAR-18 (tackle by Jalen Coker)",0.14,-4.37,5.0,2024,68
+4.0,7:30,1.0,10.0,CAR 18,10.0,30.0,Roschon Johnson right guard for 3 yards (tackle by Trevin Wallace and Shy Tuttle),4.37,4.25,5.0,2024,68
+4.0,6:47,2.0,7.0,CAR 15,10.0,30.0,Caleb Williams pass complete short left to Rome Odunze for 8 yards (tackle by Claudin Cherelus and Xavier Woods),4.25,5.6,5.0,2024,68
+4.0,6:01,1.0,7.0,CAR 7,10.0,30.0,D'Andre Swift left guard for 1 yard (tackle by Shy Tuttle),5.6,4.95,5.0,2024,68
+4.0,5:21,2.0,6.0,CAR 6,10.0,30.0,D'Andre Swift left end for no gain (tackle by Charles Harris and DJ Johnson),4.95,4.04,5.0,2024,68
+4.0,4:38,3.0,6.0,CAR 6,10.0,30.0,"Caleb Williams pass incomplete short middle intended for Rome Odunze. Penalty on Jaycee Horn: Defensive Pass Interference, 5 yards (accepted) (no play)",4.04,6.97,5.0,2024,68
+4.0,4:26,1.0,1.0,CAR 1,10.0,36.0,"Roschon Johnson right tackle for 1 yard, touchdown. Penalty on Matt Pryor: Unnecessary Roughness / Offense, 15 yards (offset) . Penalty on Jaycee Horn: Unnecessary Roughness / Defense, 15 yards (offset) . Penalty on DJ Johnson: Unnecessary Roughness / Defense, 15 yards (offset)",6.97,7.0,5.0,2024,68
+4.0,4:23,,,CAR 2,10.0,36.0,"Two Point Attempt: Caleb Williams pass incomplete intended for. Penalty on Darnell Wright: Offensive Holding, 10 yards (declined)",1.0,-1.0,5.0,2024,68
+4.0,4:23,,,CHI 35,10.0,36.0,"Cairo Santos kicks off 66 yards, returned by Raheem Blackshear for 27 yards (tackle by Tyrique Stevenson and Amen Ogbongbemiga)",0.0,0.67,5.0,2024,68
+4.0,4:15,1.0,10.0,CAR 26,10.0,36.0,Bryce Young pass complete deep right to Miles Sanders for 27 yards,0.67,2.46,5.0,2024,68
+4.0,4:04,1.0,10.0,CHI 47,10.0,36.0,Bryce Young pass complete short middle to Jalen Coker for 16 yards (tackle by Tyrique Stevenson),2.46,3.51,5.0,2024,68
+4.0,3:59,1.0,10.0,CHI 31,10.0,36.0,Bryce Young pass incomplete short left intended for David Moore (defended by Jaylon Jones),3.51,2.97,5.0,2024,68
+4.0,3:54,2.0,10.0,CHI 31,10.0,36.0,Bryce Young pass incomplete short right,2.97,2.28,5.0,2024,68
+4.0,3:46,3.0,10.0,CHI 31,10.0,36.0,Bryce Young pass complete short middle to Jalen Coker for 15 yards (tackle by Josh Blackwell),2.28,4.51,5.0,2024,68
+4.0,3:06,1.0,10.0,CHI 16,10.0,36.0,Bryce Young pass incomplete short left intended for Miles Sanders (defended by Jaylon Jones),4.51,3.9,5.0,2024,68
+4.0,2:59,2.0,10.0,CHI 16,10.0,36.0,Bryce Young pass complete short right to Miles Sanders for no gain (tackle by Amen Ogbongbemiga),3.9,3.08,5.0,2024,68
+4.0,2:52,3.0,10.0,CHI 16,10.0,36.0,Bryce Young scrambles left end for 8 yards (tackle by Jack Sanborn),3.08,2.99,5.0,2024,68
+4.0,2:05,4.0,2.0,CHI 8,10.0,36.0,Bryce Young sacked by Austin Booker for -2 yards,2.99,0.38,5.0,2024,68
+4.0,1:56,1.0,10.0,CHI 10,10.0,36.0,Tyson Bagent kneels for -2 yards,-0.38,-0.93,5.0,2024,68
+4.0,1:14,2.0,12.0,CHI 8,10.0,36.0,Tyson Bagent kneels for -1 yards,-0.93,-1.77,5.0,2024,68
+4.0,0:38,3.0,13.0,CHI 7,10.0,36.0,Tyson Bagent kneels for -1 yards,-1.77,-2.49,5.0,2024,68

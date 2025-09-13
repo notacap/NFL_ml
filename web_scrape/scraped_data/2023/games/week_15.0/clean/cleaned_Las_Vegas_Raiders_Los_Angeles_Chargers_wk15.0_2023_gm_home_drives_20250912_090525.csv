@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,13:33,LVR 32,12,5:23,68,Touchdown,1,Raiders,15.0,2023,209
+2,1,6:07,LAC 42,4,1:26,42,Touchdown,1,Raiders,15.0,2023,209
+3,1,4:36,LAC 31,3,1:29,31,Touchdown,1,Raiders,15.0,2023,209
+4,2,14:51,LVR 18,3,1:39,8,Punt,1,Raiders,15.0,2023,209
+5,2,10:46,LVR 30,3,1:02,6,Punt,1,Raiders,15.0,2023,209
+6,2,9:44,LAC 14,2,0:29,14,Touchdown,1,Raiders,15.0,2023,209
+7,2,7:21,LVR 35,6,3:31,65,Touchdown,1,Raiders,15.0,2023,209
+8,2,1:56,LAC 49,6,1:25,49,Touchdown,1,Raiders,15.0,2023,209
+9,3,15:00,LVR 25,9,4:18,75,Touchdown,1,Raiders,15.0,2023,209
+10,3,10:27,LVR 25,3,2:14,0,Punt,1,Raiders,15.0,2023,209
+11,3,6:29,LVR 22,6,3:02,17,Punt,1,Raiders,15.0,2023,209
+12,4,8:39,LVR 23,3,1:46,9,Punt,1,Raiders,15.0,2023,209
+13,4,2:38,LVR 25,3,2:07,9,Punt,1,Raiders,15.0,2023,209

@@ -1,0 +1,36 @@
+Player,Tm,Def Interceptions Int,Def Interceptions Yds,Def Interceptions TD,Def Interceptions Lng,Def Interceptions PD,Sk,Tackles Comb,Tackles Solo,Tackles Ast,Tackles TFL,Tackles QBHits,Fumbles FR,Fumbles Yds,Fumbles TD,Fumbles FF,week,year,game_id
+Sam Hubbard,CIN,0,0,0,0,1,1.0,4,3,1,2,2,0,0,0,0,2.0,2022,27
+Vonn Bell,CIN,0,0,0,0,0,0.0,7,5,2,1,0,0,0,0,1,2.0,2022,27
+Chidobe Awuzie,CIN,0,0,0,0,0,0.0,5,5,0,0,0,0,0,0,0,2.0,2022,27
+B.J. Hill,CIN,0,0,0,0,1,0.0,5,2,3,0,0,0,0,0,0,2.0,2022,27
+Germaine Pratt,CIN,0,0,0,0,0,0.0,5,5,0,0,0,0,0,0,0,2.0,2022,27
+D.J. Reader,CIN,0,0,0,0,0,0.0,5,5,0,0,2,1,0,0,0,2.0,2022,27
+Eli Apple,CIN,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0,2.0,2022,27
+Mike Hilton,CIN,0,0,0,0,1,0.0,4,4,0,0,0,0,0,0,0,2.0,2022,27
+Markus Bailey,CIN,0,0,0,0,0,0.0,3,3,0,0,0,0,0,0,0,2.0,2022,27
+Jessie Bates III,CIN,0,0,0,0,0,0.0,3,3,0,0,0,0,0,0,0,2.0,2022,27
+Logan Wilson,CIN,0,0,0,0,0,0.0,3,1,2,0,0,0,0,0,0,2.0,2022,27
+Tre Flowers,CIN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2022,27
+Trey Hendrickson,CIN,0,0,0,0,0,0.0,1,1,0,1,1,0,0,0,0,2.0,2022,27
+Joseph Ossai,CIN,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,2.0,2022,27
+Cameron Sample,CIN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2022,27
+Josh Tupou,CIN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2022,27
+Joe Mixon,CIN,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,0,2.0,2022,27
+Micah Parsons,DAL,0,0,0,0,0,2.0,4,4,0,2,5,0,0,0,0,2.0,2022,27
+Dorance Armstrong Jr.,DAL,0,0,0,0,0,2.0,2,2,0,2,2,0,0,0,0,2.0,2022,27
+Leighton Vander Esch,DAL,0,0,0,0,1,1.0,7,4,3,1,1,0,0,0,0,2.0,2022,27
+Dante Fowler,DAL,0,0,0,0,1,1.0,2,1,1,0,1,0,0,0,1,2.0,2022,27
+Donovan Wilson,DAL,0,0,0,0,0,0.0,8,6,2,1,0,0,0,0,0,2.0,2022,27
+Anthony Barr,DAL,0,0,0,0,0,0.0,7,4,3,1,0,0,0,0,0,2.0,2022,27
+DeMarcus Lawrence,DAL,0,0,0,0,0,0.0,7,3,4,0,0,0,0,0,0,2.0,2022,27
+Anthony Brown,DAL,0,0,0,0,1,0.0,6,4,2,0,0,0,0,0,0,2.0,2022,27
+Trevon Diggs,DAL,0,0,0,0,1,0.0,5,5,0,0,0,0,0,0,0,2.0,2022,27
+Malik Hooker,DAL,0,0,0,0,0,0.0,5,3,2,0,0,0,0,0,0,2.0,2022,27
+Jourdan Lewis,DAL,0,0,0,0,0,0.0,4,1,3,0,0,0,0,0,0,2.0,2022,27
+Quinton Bohanna,DAL,0,0,0,0,0,0.0,2,0,2,0,0,0,0,0,0,2.0,2022,27
+Osa Odighizuwa,DAL,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,2.0,2022,27
+Rico Dowdle,DAL,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2022,27
+Matt Farniok,DAL,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,2.0,2022,27
+Neville Gallimore,DAL,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,2.0,2022,27
+Israel Mukuamu,DAL,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,2.0,2022,27
+Sam Williams,DAL,0,0,0,0,0,0.0,1,1,0,1,0,0,0,0,0,2.0,2022,27

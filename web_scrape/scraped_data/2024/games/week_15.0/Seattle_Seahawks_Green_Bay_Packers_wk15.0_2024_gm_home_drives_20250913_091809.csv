@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,9:19,SEA 25,4,2:36,12,Punt,1,Seahawks,15.0,2024,222
+2,1,1:54,SEA 30,7,3:55,40,Field Goal,1,Seahawks,15.0,2024,222
+3,2,9:21,SEA 25,12,6:27,63,Interception,1,Seahawks,15.0,2024,222
+4,3,15:00,SEA 38,8,4:34,19,Punt,1,Seahawks,15.0,2024,222
+5,3,7:46,GNB 46,5,1:26,20,Field Goal,1,Seahawks,15.0,2024,222
+6,3,1:36,SEA 26,3,1:46,-6,Punt,1,Seahawks,15.0,2024,222
+7,4,13:18,SEA 4,3,0:18,0,Punt,1,Seahawks,15.0,2024,222
+8,4,12:44,GNB 45,5,1:28,45,Touchdown,1,Seahawks,15.0,2024,222
+9,4,10:04,SEA 32,3,0:32,5,Punt,1,Seahawks,15.0,2024,222
+10,4,5:50,SEA 39,2,0:33,-6,Interception,1,Seahawks,15.0,2024,222
+11,4,4:59,SEA 35,3,1:41,-4,Punt,1,Seahawks,15.0,2024,222
+12,4,1:46,SEA 32,3,1:46,10,End of Game,1,Seahawks,15.0,2024,222

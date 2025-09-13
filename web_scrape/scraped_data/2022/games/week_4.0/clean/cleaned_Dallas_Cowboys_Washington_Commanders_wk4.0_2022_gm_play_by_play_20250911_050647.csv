@@ -1,0 +1,178 @@
+Quarter,Time,Down,ToGo,Location,WAS,DAL,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Commanders won the coin toss and deferred, Cowboys to receive the opening kickoff.",,,4.0,2022,55
+1.0,15:00,,,WAS 35,0.0,0.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,55
+1.0,15:00,1.0,10.0,DAL 25,0.0,0.0,Ezekiel Elliott left tackle for 5 yards (tackle by Montez Sweat and Daron Payne),0.61,0.74,4.0,2022,55
+1.0,14:27,2.0,5.0,DAL 30,0.0,0.0,Cooper Rush pass incomplete short right intended for Michael Gallup,0.74,0.04,4.0,2022,55
+1.0,14:20,3.0,5.0,DAL 30,0.0,0.0,Cooper Rush pass complete short left to Ezekiel Elliott for 31 yards (tackle by Kamren Curl),0.04,2.98,4.0,2022,55
+1.0,13:32,1.0,10.0,WAS 39,0.0,0.0,Ezekiel Elliott right tackle for 1 yard (tackle by Jonathan Allen),2.98,2.58,4.0,2022,55
+1.0,12:58,2.0,9.0,WAS 38,0.0,0.0,Ezekiel Elliott left guard for 1 yard (tackle by Jamin Davis and Jonathan Allen),2.58,2.02,4.0,2022,55
+1.0,12:18,3.0,8.0,WAS 37,0.0,0.0,Cooper Rush pass complete short right to Tony Pollard for 2 yards (tackle by Cole Holcomb),2.02,0.97,4.0,2022,55
+1.0,11:39,4.0,6.0,WAS 35,0.0,3.0,Brett Maher 53 yard field goal good,0.97,3.0,4.0,2022,55
+1.0,11:34,,,DAL 35,0.0,3.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,55
+1.0,11:34,1.0,10.0,WAS 25,0.0,3.0,Antonio Gibson right guard for 4 yards (tackle by Osa Odighizuwa and Leighton Vander Esch),0.61,0.6,4.0,2022,55
+1.0,10:56,2.0,6.0,WAS 29,0.0,3.0,Antonio Gibson left end for 8 yards (tackle by Leighton Vander Esch and Israel Mukuamu),0.6,1.4,4.0,2022,55
+1.0,10:12,1.0,10.0,WAS 37,0.0,3.0,Carson Wentz pass complete short middle to Antonio Gibson for 3 yards (tackle by Leighton Vander Esch and DeMarcus Lawrence),1.4,1.26,4.0,2022,55
+1.0,9:42,2.0,7.0,WAS 40,0.0,3.0,Carson Wentz pass complete short right to Terry McLaurin for 9 yards (tackle by Leighton Vander Esch),1.26,2.19,4.0,2022,55
+1.0,9:04,1.0,10.0,WAS 49,0.0,3.0,Jonathan Williams right tackle for 3 yards (tackle by Quinton Bohanna),2.19,2.05,4.0,2022,55
+1.0,8:22,2.0,7.0,DAL 48,0.0,3.0,"Penalty on Trai Turner: False Start, 5 yards (accepted) (no play)",2.05,1.38,4.0,2022,55
+1.0,8:01,2.0,12.0,WAS 47,0.0,3.0,Carson Wentz sacked by Neville Gallimore for -9 yards,1.38,-0.49,4.0,2022,55
+1.0,7:17,3.0,21.0,WAS 38,0.0,3.0,Carson Wentz pass incomplete short left intended for John Bates,-0.49,-0.85,4.0,2022,55
+1.0,7:12,4.0,21.0,WAS 38,0.0,3.0,Tress Way punts 52 yards downed by Milo Eifler,-0.85,0.38,4.0,2022,55
+1.0,7:01,1.0,10.0,DAL 10,0.0,3.0,Ezekiel Elliott right guard for 5 yards (tackle by Darrick Forrest),-0.38,-0.35,4.0,2022,55
+1.0,6:24,2.0,5.0,DAL 15,0.0,3.0,Ezekiel Elliott left guard for 2 yards (tackle by Jonathan Allen and Cole Holcomb),-0.35,-0.6,4.0,2022,55
+1.0,5:46,3.0,3.0,DAL 17,0.0,3.0,Cooper Rush sacked by Jonathan Allen for -6 yards,-0.6,-2.49,4.0,2022,55
+1.0,5:06,4.0,9.0,DAL 11,0.0,3.0,"Bryan Anger punts 51 yards, returned by Dax Milne for no gain (tackle by C.J. Goodwin and Kelvin Joseph)",-2.49,-1.47,4.0,2022,55
+1.0,4:58,1.0,10.0,WAS 38,0.0,3.0,Antonio Gibson left tackle for 4 yards (tackle by Dorance Armstrong),1.47,1.46,4.0,2022,55
+1.0,4:21,2.0,6.0,WAS 42,0.0,3.0,"Antonio Gibson for no gain (tackle by Leighton Vander Esch). Penalty on Nick Martin: Offensive Holding, 10 yards (accepted) (no play)",1.46,0.11,4.0,2022,55
+1.0,3:50,2.0,16.0,WAS 32,0.0,3.0,J.D. McKissic right tackle for 1 yard (tackle by Trysten Hill),0.11,-0.43,4.0,2022,55
+1.0,3:02,3.0,15.0,WAS 33,0.0,3.0,Carson Wentz pass incomplete deep right intended for Terry McLaurin,-0.43,-1.18,4.0,2022,55
+1.0,2:56,4.0,15.0,WAS 33,0.0,3.0,"Tress Way punts 51 yards, returned by KaVontae Turpin for -3 yards (tackle by Darrick Forrest)",-1.18,0.32,4.0,2022,55
+1.0,2:44,1.0,10.0,DAL 13,0.0,3.0,Cooper Rush pass complete short middle to CeeDee Lamb for 23 yards (tackle by Bobby McCain and Jamin Davis),-0.32,1.33,4.0,2022,55
+1.0,2:14,1.0,10.0,DAL 36,0.0,3.0,Cooper Rush pass complete short left to CeeDee Lamb for 16 yards (tackle by Kamren Curl),1.33,2.39,4.0,2022,55
+1.0,1:26,1.0,10.0,WAS 48,0.0,3.0,Cooper Rush pass complete short middle to CeeDee Lamb for 17 yards (tackle by Darrick Forrest and Bobby McCain),2.39,3.51,4.0,2022,55
+1.0,0:53,1.0,10.0,WAS 31,0.0,3.0,Tony Pollard left tackle for -2 yards (tackle by Jonathan Allen),3.51,2.7,4.0,2022,55
+1.0,0:16,2.0,12.0,WAS 33,0.0,3.0,Cooper Rush pass incomplete short right intended for Noah Brown,2.7,2.02,4.0,2022,55
+1.0,0:12,3.0,12.0,WAS 33,0.0,3.0,Cooper Rush scrambles for 6 yards (tackle by Benjamin St-Juste),2.02,1.7,4.0,2022,55
+2.0,15:00,4.0,6.0,WAS 27,0.0,6.0,Brett Maher 45 yard field goal good,1.7,3.0,4.0,2022,55
+2.0,14:56,,,DAL 35,0.0,6.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,55
+2.0,14:56,1.0,10.0,WAS 25,0.0,6.0,Carson Wentz pass complete short right to Antonio Gibson for no gain (tackle by Donovan Wilson),0.61,0.06,4.0,2022,55
+2.0,14:20,2.0,10.0,WAS 25,0.0,6.0,Antonio Gibson left end for 11 yards (tackle by Malik Hooker),0.06,1.33,4.0,2022,55
+2.0,13:49,1.0,10.0,WAS 36,0.0,6.0,Jonathan Williams up the middle for 2 yards (tackle by DeMarcus Lawrence),1.33,1.06,4.0,2022,55
+2.0,13:08,2.0,8.0,WAS 38,0.0,6.0,Jonathan Williams left end for 18 yards (tackle by Leighton Vander Esch),1.06,2.65,4.0,2022,55
+2.0,12:34,1.0,10.0,DAL 44,0.0,6.0,"Carson Wentz pass incomplete short right. Penalty on Carson Wentz: Intentional Grounding, 12 yards (accepted)",2.65,0.49,4.0,2022,55
+2.0,12:25,2.0,22.0,WAS 44,0.0,6.0,Carson Wentz pass complete short right to Antonio Gibson for 11 yards (tackle by Micah Parsons),0.49,1.29,4.0,2022,55
+2.0,11:47,3.0,11.0,DAL 45,0.0,6.0,Carson Wentz pass incomplete short right intended for J.D. McKissic,1.29,0.27,4.0,2022,55
+2.0,11:43,4.0,11.0,DAL 45,0.0,6.0,Tress Way punts 29 yards downed by Jeremy Reaves,0.27,0.14,4.0,2022,55
+2.0,11:33,1.0,10.0,DAL 16,0.0,6.0,Ezekiel Elliott right tackle for 1 yard (tackle by Kamren Curl),-0.14,-0.51,4.0,2022,55
+2.0,10:59,2.0,9.0,DAL 17,0.0,6.0,Cooper Rush pass incomplete deep left intended for Noah Brown,-0.51,-1.2,4.0,2022,55
+2.0,10:53,3.0,9.0,DAL 17,0.0,6.0,Cooper Rush pass incomplete short right,-1.2,-2.32,4.0,2022,55
+2.0,10:48,4.0,9.0,DAL 17,0.0,6.0,"Bryan Anger punts 48 yards, fair catch by Dax Milne at WAS-35",-2.32,-1.27,4.0,2022,55
+2.0,10:40,1.0,10.0,WAS 35,0.0,6.0,Antonio Gibson left tackle for 6 yards (tackle by Dorance Armstrong and Osa Odighizuwa),1.27,1.53,4.0,2022,55
+2.0,10:07,2.0,4.0,WAS 41,0.0,6.0,Carson Wentz pass complete short right to Curtis Samuel for 6 yards (tackle by Micah Parsons),1.53,2.06,4.0,2022,55
+2.0,9:42,1.0,10.0,WAS 47,0.0,6.0,Antonio Gibson up the middle for 3 yards (tackle by Anthony Barr and Leighton Vander Esch),2.06,1.92,4.0,2022,55
+2.0,9:00,2.0,7.0,WAS 50,0.0,6.0,J.D. McKissic right tackle for 33 yards (tackle by Leighton Vander Esch),1.92,4.44,4.0,2022,55
+2.0,8:26,1.0,10.0,DAL 17,0.0,6.0,Carson Wentz pass complete short left to Terry McLaurin for 6 yards (tackle by Leighton Vander Esch and Malik Hooker),4.44,4.89,4.0,2022,55
+2.0,8:01,2.0,4.0,DAL 11,0.0,6.0,J.D. McKissic up the middle for 1 yard (tackle by Donovan Wilson),4.89,4.34,4.0,2022,55
+2.0,7:11,3.0,3.0,DAL 10,6.0,6.0,"Carson Wentz pass complete short right to Jahan Dotson for 10 yards, touchdown",4.34,7.0,4.0,2022,55
+2.0,7:05,,,DAL 15,7.0,6.0,Joey Slye kicks extra point good,0.0,0.0,4.0,2022,55
+2.0,7:05,,,WAS 35,7.0,6.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,55
+2.0,7:05,1.0,10.0,DAL 25,7.0,6.0,Cooper Rush pass incomplete short right intended for Dalton Schultz (defended by Darrick Forrest),0.61,0.06,4.0,2022,55
+2.0,7:00,2.0,10.0,DAL 25,7.0,6.0,Ezekiel Elliott up the middle for 3 yards (tackle by Daron Payne and Cole Holcomb),0.06,-0.23,4.0,2022,55
+2.0,6:16,3.0,7.0,DAL 28,7.0,6.0,"Cooper Rush pass is intercepted by Benjamin St-Juste at 50 and returned for no gain (tackle by Michael Gallup). Penalty on Benjamin St-Juste: Illegal Contact, 5 yards (accepted) (no play)",-0.23,1.14,4.0,2022,55
+2.0,6:05,1.0,10.0,DAL 33,7.0,6.0,Ezekiel Elliott left guard for 2 yards (tackle by Darrick Forrest),1.14,0.86,4.0,2022,55
+2.0,5:28,2.0,8.0,DAL 35,7.0,6.0,Cooper Rush pass incomplete short middle intended for CeeDee Lamb (defended by Daron Payne),0.86,0.17,4.0,2022,55
+2.0,5:26,3.0,8.0,DAL 35,7.0,6.0,Cooper Rush pass complete short left to Michael Gallup for 15 yards (tackle by Kendall Fuller),0.17,2.26,4.0,2022,55
+2.0,5:00,1.0,10.0,DAL 50,7.0,6.0,Cooper Rush pass complete short right to CeeDee Lamb for 3 yards (tackle by William Jackson),2.26,2.12,4.0,2022,55
+2.0,4:26,2.0,7.0,WAS 47,7.0,6.0,Ezekiel Elliott right guard for 6 yards (tackle by Cole Holcomb),2.12,2.21,4.0,2022,55
+2.0,4:01,3.0,1.0,WAS 41,7.0,6.0,Ezekiel Elliott right guard for 7 yards (tackle by Kamren Curl),2.21,3.31,4.0,2022,55
+2.0,3:23,1.0,10.0,WAS 34,7.0,6.0,Tony Pollard left tackle for 5 yards (tackle by Cole Holcomb and Jamin Davis),3.31,3.45,4.0,2022,55
+2.0,2:44,2.0,5.0,WAS 29,7.0,6.0,Tony Pollard left tackle for 4 yards (tackle by Kendall Fuller and Jonathan Allen),3.45,3.27,4.0,2022,55
+2.0,2:13,3.0,1.0,WAS 25,7.0,6.0,Cooper Rush up the middle for 1 yard (tackle by Cole Holcomb),3.27,3.97,4.0,2022,55
+2.0,2:00,1.0,10.0,WAS 24,7.0,6.0,Cooper Rush pass complete short left to Noah Brown for 11 yards (tackle by Cole Holcomb and Benjamin St-Juste),3.97,4.71,4.0,2022,55
+2.0,1:23,1.0,10.0,WAS 13,7.0,6.0,"Penalty on Tyler Biadasz: False Start, 5 yards (accepted) (no play)",4.71,4.29,4.0,2022,55
+2.0,1:23,1.0,15.0,WAS 18,7.0,6.0,Tony Pollard up the middle for 9 yards (tackle by Cole Holcomb and Kamren Curl),4.29,4.77,4.0,2022,55
+2.0,1:15,,,,,,Timeout #1 by Washington Commanders,,,4.0,2022,55
+2.0,1:15,2.0,6.0,WAS 9,7.0,6.0,Cooper Rush pass incomplete short left intended for Tony Pollard,4.77,3.88,4.0,2022,55
+2.0,1:10,3.0,6.0,WAS 9,7.0,12.0,"Cooper Rush pass complete short right to Michael Gallup for 9 yards, touchdown",3.88,7.0,4.0,2022,55
+2.0,1:04,,,WAS 15,7.0,12.0,Brett Maher kicks extra point blocked blocked by Efe Obada,0.0,-1.0,4.0,2022,55
+2.0,1:04,,,DAL 35,7.0,12.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,55
+2.0,1:04,1.0,10.0,WAS 25,7.0,12.0,J.D. McKissic right end for 3 yards (tackle by Israel Mukuamu),0.61,0.47,4.0,2022,55
+2.0,0:26,2.0,7.0,WAS 28,7.0,12.0,Carson Wentz pass complete short right to Logan Thomas for 5 yards (tackle by Israel Mukuamu),0.47,0.43,4.0,2022,55
+2.0,0:22,3.0,2.0,WAS 33,7.0,12.0,J.D. McKissic up the middle for 4 yards (tackle by Israel Mukuamu and Donovan Wilson),0.43,1.4,4.0,2022,55
+2.0,0:17,,,,,,Timeout #2 by Washington Commanders,,,4.0,2022,55
+2.0,0:17,1.0,10.0,WAS 37,7.0,12.0,Carson Wentz pass deep left intended for Jahan Dotson is intercepted by Trevon Diggs at DAL-17 and returned for no gain (tackle by Jahan Dotson),1.4,0.06,4.0,2022,55
+2.0,0:10,1.0,10.0,DAL 17,7.0,12.0,Ezekiel Elliott up the middle for 3 yards (tackle by Daron Payne and Efe Obada),-0.06,-0.06,4.0,2022,55
+3.0,15:00,,,DAL 35,7.0,12.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,55
+3.0,15:00,1.0,10.0,WAS 25,7.0,12.0,Antonio Gibson left end for -2 yards (tackle by Micah Parsons),0.61,-0.21,4.0,2022,55
+3.0,14:14,2.0,12.0,WAS 23,7.0,12.0,Carson Wentz pass incomplete short left intended for Terry McLaurin,-0.21,-0.89,4.0,2022,55
+3.0,14:09,3.0,12.0,WAS 23,7.0,12.0,Carson Wentz pass complete short right to Curtis Samuel for 14 yards (tackle by DaRon Bland),-0.89,1.4,4.0,2022,55
+3.0,13:30,1.0,10.0,WAS 37,7.0,12.0,J.D. McKissic left tackle for 1 yard (tackle by Micah Parsons),1.4,0.99,4.0,2022,55
+3.0,12:50,2.0,9.0,WAS 38,7.0,12.0,J.D. McKissic right end for -2 yards (tackle by Neville Gallimore),0.99,0.04,4.0,2022,55
+3.0,12:04,3.0,11.0,WAS 36,7.0,12.0,Carson Wentz pass complete short left to Jahan Dotson for 2 yards (tackle by Donovan Wilson),0.04,-0.85,4.0,2022,55
+3.0,11:30,4.0,9.0,WAS 38,7.0,12.0,"Tress Way punts 47 yards, fair catch by KaVontae Turpin at DAL-15",-0.85,0.22,4.0,2022,55
+3.0,11:22,1.0,10.0,DAL 15,7.0,12.0,Tony Pollard right tackle for -7 yards (tackle by William Jackson),-0.22,-1.29,4.0,2022,55
+3.0,10:43,2.0,17.0,DAL 8,7.0,12.0,"Cooper Rush pass is intercepted by Kamren Curl at DAL-35 and returned for no gain. Penalty on William Jackson: Defensive Holding, 5 yards (accepted) (no play)",-1.29,-0.32,4.0,2022,55
+3.0,10:35,1.0,10.0,DAL 13,7.0,12.0,Tony Pollard up the middle for -2 yards (tackle by Daron Payne),-0.32,-0.93,4.0,2022,55
+3.0,10:03,2.0,12.0,DAL 11,7.0,12.0,Cooper Rush pass incomplete short right intended for Tony Pollard,-0.93,-1.65,4.0,2022,55
+3.0,9:59,3.0,12.0,DAL 11,7.0,12.0,Cooper Rush pass incomplete short right intended for Dalton Schultz,-1.65,-2.49,4.0,2022,55
+3.0,9:52,4.0,12.0,DAL 11,7.0,12.0,"Bryan Anger punts 58 yards, returned by Dax Milne for 8 yards (tackle by Kelvin Joseph)",-2.49,-1.53,4.0,2022,55
+3.0,9:41,1.0,10.0,WAS 39,7.0,12.0,Carson Wentz pass complete short right to Logan Thomas for -1 yards (tackle by Malik Hooker),1.53,0.85,4.0,2022,55
+3.0,8:53,2.0,11.0,WAS 38,7.0,12.0,"Carson Wentz pass incomplete short middle intended for Terry McLaurin. Penalty on Saahdiq Charles: Offensive Holding, 10 yards (accepted) (no play)",0.85,-0.5,4.0,2022,55
+3.0,8:48,2.0,21.0,WAS 28,7.0,12.0,"Penalty on Samuel Cosmi: False Start, 5 yards (accepted) (no play)",-0.5,-1.17,4.0,2022,55
+3.0,8:48,2.0,26.0,WAS 23,7.0,12.0,J.D. McKissic up the middle for -1 yards (tackle by Dante Fowler),-1.17,-1.95,4.0,2022,55
+3.0,8:03,3.0,27.0,WAS 22,7.0,12.0,Carson Wentz pass incomplete short right intended for John Bates,-1.95,-1.9,4.0,2022,55
+3.0,7:55,4.0,27.0,WAS 22,7.0,12.0,Tress Way punts 40 yards out of bounds,-1.9,-1.47,4.0,2022,55
+3.0,7:48,1.0,10.0,DAL 38,7.0,12.0,Cooper Rush pass complete deep middle to Noah Brown for 45 yards (tackle by Bobby McCain),1.47,4.44,4.0,2022,55
+3.0,7:01,1.0,10.0,WAS 17,7.0,12.0,"Penalty on Dalton Schultz: False Start, 5 yards (accepted) (no play)",4.44,4.11,4.0,2022,55
+3.0,6:48,1.0,15.0,WAS 22,7.0,12.0,Ezekiel Elliott left tackle for -1 yards (tackle by Montez Sweat),4.11,3.08,4.0,2022,55
+3.0,6:29,2.0,16.0,WAS 23,7.0,12.0,Cooper Rush pass complete short left to CeeDee Lamb for 8 yards (tackle by Kendall Fuller),3.08,3.34,4.0,2022,55
+3.0,5:43,3.0,8.0,WAS 15,7.0,12.0,Cooper Rush pass complete short right to Noah Brown for 5 yards (tackle by William Jackson),3.34,2.86,4.0,2022,55
+3.0,5:00,4.0,3.0,WAS 10,7.0,15.0,Brett Maher 28 yard field goal good,2.86,3.0,4.0,2022,55
+3.0,4:56,,,DAL 35,7.0,15.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,55
+3.0,4:56,1.0,10.0,WAS 25,7.0,15.0,Antonio Gibson left tackle for 2 yards (tackle by Donovan Wilson),0.61,0.33,4.0,2022,55
+3.0,4:11,2.0,8.0,WAS 27,7.0,15.0,Carson Wentz pass incomplete short right intended for Curtis Samuel,0.33,-0.36,4.0,2022,55
+3.0,4:05,3.0,8.0,WAS 27,7.0,15.0,Carson Wentz pass complete deep right to Jahan Dotson for 31 yards (tackle by DaRon Bland),-0.36,2.79,4.0,2022,55
+3.0,3:26,1.0,10.0,DAL 42,7.0,15.0,Jonathan Williams right tackle for 23 yards (tackle by Anthony Brown and Malik Hooker),2.79,4.31,4.0,2022,55
+3.0,2:56,1.0,10.0,DAL 19,7.0,15.0,Jonathan Williams up the middle for 2 yards (tackle by Donovan Wilson),4.31,4.03,4.0,2022,55
+3.0,2:17,2.0,8.0,DAL 17,7.0,15.0,"Carson Wentz pass incomplete short right. Penalty on Carson Wentz: Intentional Grounding, 14 yards (accepted)",4.03,1.49,4.0,2022,55
+3.0,2:10,3.0,22.0,DAL 31,7.0,15.0,"Penalty on Samuel Cosmi: False Start, 5 yards (accepted) (no play)",1.49,0.83,4.0,2022,55
+3.0,2:10,3.0,27.0,DAL 36,7.0,15.0,Carson Wentz pass complete short left to J.D. McKissic for 9 yards (tackle by Israel Mukuamu),0.83,1.67,4.0,2022,55
+3.0,1:31,4.0,16.0,DAL 27,10.0,15.0,Joey Slye 45 yard field goal good,1.67,3.0,4.0,2022,55
+3.0,1:27,,,WAS 35,10.0,15.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,55
+3.0,1:27,1.0,10.0,DAL 25,10.0,15.0,Ezekiel Elliott right tackle for 2 yards (tackle by John Ridgeway and Jamin Davis),0.61,0.33,4.0,2022,55
+3.0,0:54,2.0,8.0,DAL 27,10.0,15.0,"Cooper Rush pass incomplete deep middle intended for Michael Gallup. Penalty on William Jackson: Defensive Pass Interference, 38 yards (accepted) (no play)",0.33,3.25,4.0,2022,55
+3.0,0:48,1.0,10.0,WAS 35,10.0,15.0,Ezekiel Elliott up the middle for 5 yards (tackle by Bobby McCain),3.25,3.38,4.0,2022,55
+4.0,15:00,2.0,5.0,WAS 30,10.0,21.0,"Cooper Rush pass complete deep middle to CeeDee Lamb for 30 yards, touchdown",3.38,7.0,4.0,2022,55
+4.0,14:54,,,WAS 15,10.0,22.0,Brett Maher kicks extra point good,0.0,0.0,4.0,2022,55
+4.0,14:54,,,DAL 35,10.0,22.0,"Brett Maher kicks off 65 yards, returned by Dax Milne for 18 yards (tackle by Peyton Hendershot)",0.0,0.04,4.0,2022,55
+4.0,14:49,1.0,10.0,WAS 18,10.0,22.0,Carson Wentz pass complete short left to Curtis Samuel for 15 yards (tackle by Malik Hooker),0.04,1.14,4.0,2022,55
+4.0,14:23,1.0,10.0,WAS 33,10.0,22.0,Carson Wentz pass complete short right to Curtis Samuel for 3 yards (tackle by Malik Hooker),1.14,1.0,4.0,2022,55
+4.0,13:58,2.0,7.0,WAS 36,10.0,22.0,Antonio Gibson right tackle for 4 yards (tackle by Dorance Armstrong),1.0,0.83,4.0,2022,55
+4.0,13:22,3.0,3.0,WAS 40,10.0,22.0,Antonio Gibson up the middle for no gain (tackle by Osa Odighizuwa),0.83,-0.72,4.0,2022,55
+4.0,12:43,4.0,3.0,WAS 40,10.0,22.0,"Tress Way punts 51 yards, fair catch by KaVontae Turpin at DAL-9",-0.72,0.38,4.0,2022,55
+4.0,12:35,1.0,10.0,DAL 9,10.0,22.0,Tony Pollard left tackle for -3 yards (tackle by Jonathan Allen),-0.38,-1.0,4.0,2022,55
+4.0,11:58,2.0,13.0,DAL 6,10.0,22.0,"Tony Pollard right end for 2 yards (tackle by Bobby McCain). Penalty on Dalton Schultz: Offensive Holding, 3 yards (declined)",-1.0,-1.42,4.0,2022,55
+4.0,11:32,3.0,10.0,DAL 9,10.0,22.0,Cooper Rush pass incomplete short middle intended for Noah Brown (defended by Jonathan Allen),-1.42,-2.49,4.0,2022,55
+4.0,11:28,4.0,11.0,DAL 8,10.0,22.0,Bryan Anger punts 22 yards out of bounds,-2.49,-3.58,4.0,2022,55
+4.0,11:21,1.0,10.0,DAL 30,10.0,22.0,Antonio Gibson up the middle for 5 yards (tackle by Anthony Brown and Malik Hooker),3.58,3.71,4.0,2022,55
+4.0,10:35,2.0,5.0,DAL 25,10.0,22.0,Carson Wentz pass complete short left to Logan Thomas for 6 yards (tackle by Malik Hooker),3.71,4.31,4.0,2022,55
+4.0,10:02,1.0,10.0,DAL 19,10.0,22.0,Antonio Gibson left tackle for 3 yards (tackle by Quinton Bohanna),4.31,4.18,4.0,2022,55
+4.0,9:32,2.0,7.0,DAL 16,10.0,22.0,"Carson Wentz pass incomplete short left intended for Jahan Dotson. Penalty on Anthony Brown: Defensive Holding, 5 yards (accepted) (no play)",4.18,4.84,4.0,2022,55
+4.0,9:32,1.0,10.0,DAL 11,10.0,22.0,Antonio Gibson left end for 1 yard (tackle by Donovan Wilson),4.84,4.32,4.0,2022,55
+4.0,8:51,2.0,9.0,DAL 10,10.0,22.0,Carson Wentz pass incomplete short right intended for Curtis Samuel,4.32,3.3,4.0,2022,55
+4.0,8:45,3.0,9.0,DAL 10,10.0,22.0,Carson Wentz sacked by Dante Fowler for -6 yards,3.3,2.38,4.0,2022,55
+4.0,8:02,,,,,,Timeout #1 by Washington Commanders,,,4.0,2022,55
+4.0,8:02,4.0,15.0,DAL 16,10.0,22.0,Carson Wentz pass incomplete deep right intended for Terry McLaurin (defended by Trevon Diggs),2.38,0.14,4.0,2022,55
+4.0,7:57,1.0,10.0,DAL 16,10.0,22.0,"Cooper Rush pass incomplete deep right intended for Michael Gallup. Penalty on William Jackson: Defensive Pass Interference, 27 yards (accepted) (no play)",-0.14,1.8,4.0,2022,55
+4.0,7:51,1.0,10.0,DAL 43,10.0,22.0,Ezekiel Elliott left guard for 7 yards (tackle by Bobby McCain),1.8,2.2,4.0,2022,55
+4.0,7:12,2.0,3.0,DAL 50,10.0,22.0,Cooper Rush pass incomplete deep right intended for CeeDee Lamb (defended by William Jackson),2.2,1.49,4.0,2022,55
+4.0,7:03,3.0,3.0,DAL 50,10.0,22.0,Ezekiel Elliott up the middle for no gain (tackle by Jamin Davis),1.49,-0.06,4.0,2022,55
+4.0,6:17,4.0,3.0,DAL 50,10.0,22.0,Bryan Anger punts 39 yards downed by Jabril Cox,-0.06,0.37,4.0,2022,55
+4.0,6:08,1.0,10.0,WAS 11,10.0,22.0,Carson Wentz pass complete short right to J.D. McKissic for 2 yards (tackle by Sam Williams),-0.37,-0.63,4.0,2022,55
+4.0,5:41,2.0,8.0,WAS 13,10.0,22.0,Carson Wentz pass incomplete short right intended for Dyami Brown,-0.63,-1.19,4.0,2022,55
+4.0,5:36,3.0,8.0,WAS 13,10.0,22.0,Carson Wentz pass short middle intended for Curtis Samuel is intercepted by DaRon Bland at WAS-24 and returned for 4 yards (tackle by Terry McLaurin),-1.19,-4.24,4.0,2022,55
+4.0,5:29,1.0,10.0,WAS 20,10.0,22.0,Ezekiel Elliott right tackle for 2 yards (tackle by Kamren Curl and James Smith-Williams),4.24,3.96,4.0,2022,55
+4.0,4:46,2.0,8.0,WAS 18,10.0,22.0,Cooper Rush pass incomplete short right intended for Dalton Schultz,3.96,3.22,4.0,2022,55
+4.0,4:39,3.0,8.0,WAS 18,10.0,22.0,Cooper Rush pass complete short right to Jake Ferguson for 7 yards (tackle by William Jackson),3.22,2.85,4.0,2022,55
+4.0,3:54,4.0,1.0,WAS 11,10.0,25.0,Brett Maher 29 yard field goal good,2.85,3.0,4.0,2022,55
+4.0,3:51,,,DAL 35,10.0,25.0,"Brett Maher kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,55
+4.0,3:51,1.0,10.0,WAS 25,10.0,25.0,Carson Wentz pass complete short middle to J.D. McKissic for 5 yards (tackle by Anthony Barr),0.61,0.74,4.0,2022,55
+4.0,3:28,2.0,5.0,WAS 30,10.0,25.0,Carson Wentz pass complete short right to Logan Thomas for 6 yards (tackle by Anthony Barr),0.74,1.33,4.0,2022,55
+4.0,3:25,1.0,10.0,WAS 36,10.0,25.0,Carson Wentz pass complete short middle to Logan Thomas for 3 yards (tackle by Anthony Barr),1.33,1.2,4.0,2022,55
+4.0,2:57,2.0,7.0,WAS 39,10.0,25.0,Carson Wentz pass incomplete deep right intended for Dyami Brown,1.2,0.5,4.0,2022,55
+4.0,2:51,3.0,7.0,WAS 39,10.0,25.0,Carson Wentz pass complete short right to John Bates for 5 yards (tackle by DaRon Bland),0.5,-0.46,4.0,2022,55
+4.0,2:45,4.0,2.0,WAS 44,10.0,25.0,Carson Wentz pass incomplete deep left intended for Terry McLaurin (defended by Trevon Diggs),-0.46,-2.65,4.0,2022,55
+4.0,2:39,1.0,10.0,WAS 44,10.0,25.0,Ezekiel Elliott up the middle for -3 yards (tackle by Jonathan Allen),2.65,1.71,4.0,2022,55
+4.0,2:34,,,,,,Timeout #2 by Washington Commanders,,,4.0,2022,55
+4.0,2:34,2.0,13.0,WAS 47,10.0,25.0,Cooper Rush pass complete short right to Ezekiel Elliott for 1 yard (tackle by Kamren Curl),1.71,1.16,4.0,2022,55
+4.0,2:24,,,,,,Timeout #3 by Washington Commanders,,,4.0,2022,55
+4.0,2:24,3.0,12.0,WAS 46,10.0,25.0,Ezekiel Elliott up the middle for 1 yard (tackle by Daron Payne),1.16,0.27,4.0,2022,55
+4.0,2:00,4.0,11.0,WAS 45,10.0,25.0,"Bryan Anger punts 38 yards, fair catch by Dax Milne at WAS-7",0.27,0.38,4.0,2022,55
+4.0,1:53,1.0,10.0,WAS 7,10.0,25.0,Carson Wentz pass incomplete short right intended for Logan Thomas,-0.38,-0.78,4.0,2022,55
+4.0,1:49,2.0,10.0,WAS 7,10.0,25.0,"Penalty on DeMarcus Lawrence: Neutral Zone Infraction, 5 yards (accepted) (no play)",-0.78,-0.42,4.0,2022,55
+4.0,1:49,2.0,5.0,WAS 12,10.0,25.0,Carson Wentz pass complete short middle to Dyami Brown for 6 yards (tackle by Donovan Wilson),-0.42,0.04,4.0,2022,55
+4.0,1:23,1.0,10.0,WAS 18,10.0,25.0,Carson Wentz scrambles right end for 5 yards (tackle by Donovan Wilson),0.04,0.28,4.0,2022,55
+4.0,0:56,2.0,5.0,WAS 23,10.0,25.0,Carson Wentz pass incomplete deep right intended for Dyami Brown,0.28,-0.53,4.0,2022,55
+4.0,0:50,3.0,5.0,WAS 23,10.0,25.0,Carson Wentz pass complete short middle to John Bates for 7 yards (tackle by Israel Mukuamu),-0.53,0.94,4.0,2022,55
+4.0,0:25,1.0,10.0,WAS 30,10.0,25.0,Carson Wentz pass complete short right to John Bates for 7 yards (tackle by Anthony Brown),0.94,1.34,4.0,2022,55
+4.0,0:18,2.0,3.0,WAS 37,10.0,25.0,"Carson Wentz pass complete short left to John Bates for no gain. John Bates fumbles (forced by Anthony Brown), recovered by John Bates at WAS-37",1.34,0.63,4.0,2022,55

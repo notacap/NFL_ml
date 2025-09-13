@@ -1,0 +1,175 @@
+Quarter,Time,Down,ToGo,Location,ATL,TAM,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Falcons won the coin toss and deferred, Buccaneers to receive the opening kickoff.",,,7.0,2023,96
+1.0,15:00,,,ATL 35,0.0,0.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,96
+1.0,15:00,1.0,10.0,TAM 25,0.0,0.0,Baker Mayfield pass complete short right to Chris Godwin for 2 yards (tackle by Jessie Bates),0.61,0.33,7.0,2023,96
+1.0,14:25,2.0,8.0,TAM 27,0.0,0.0,Baker Mayfield pass complete short middle to Mike Evans for 9 yards (tackle by Richie Grant),0.33,1.33,7.0,2023,96
+1.0,13:44,1.0,10.0,TAM 36,0.0,0.0,Rachaad White up the middle for -1 yards (tackle by Bud Dupree and Jessie Bates),1.33,0.66,7.0,2023,96
+1.0,13:07,2.0,11.0,TAM 35,0.0,0.0,Baker Mayfield pass incomplete short left intended for Rakim Jarrett (defended by Grady Jarrett),0.66,-0.03,7.0,2023,96
+1.0,12:58,3.0,11.0,TAM 35,0.0,0.0,Baker Mayfield pass complete short right to Rachaad White for 11 yards (tackle by Grady Jarrett),-0.03,1.99,7.0,2023,96
+1.0,12:24,1.0,10.0,TAM 46,0.0,0.0,Rachaad White up the middle for 3 yards (tackle by Ta'Quon Graham and Richie Grant),1.99,1.86,7.0,2023,96
+1.0,11:38,2.0,7.0,TAM 49,0.0,0.0,"Baker Mayfield pass incomplete short left. Penalty on AJ Terrell: Defensive Holding, 5 yards (accepted) (no play)",1.86,2.52,7.0,2023,96
+1.0,11:32,1.0,10.0,ATL 46,0.0,0.0,Baker Mayfield pass complete short left to Deven Thompkins for 5 yards (tackle by Jeff Okudah),2.52,2.65,7.0,2023,96
+1.0,10:55,2.0,5.0,ATL 41,0.0,0.0,Baker Mayfield pass incomplete deep right intended for Chris Godwin,2.65,1.95,7.0,2023,96
+1.0,10:51,3.0,5.0,ATL 41,0.0,0.0,Baker Mayfield pass incomplete short right intended for Trey Palmer (defended by AJ Terrell),1.95,0.53,7.0,2023,96
+1.0,10:46,4.0,5.0,ATL 41,0.0,0.0,Baker Mayfield pass incomplete short right,0.53,-1.73,7.0,2023,96
+1.0,10:39,1.0,10.0,ATL 42,0.0,0.0,Desmond Ridder pass complete short middle to KhaDarel Hodge for 19 yards (tackle by Ryan Neal),1.73,2.98,7.0,2023,96
+1.0,10:16,1.0,10.0,TAM 39,0.0,0.0,Tyler Allgeier right tackle for 4 yards (tackle by Lavonte David),2.98,2.98,7.0,2023,96
+1.0,9:42,2.0,6.0,TAM 35,0.0,0.0,Desmond Ridder pass complete short left to Jonnu Smith for 7 yards (tackle by Lavonte David and Ryan Neal),2.98,3.71,7.0,2023,96
+1.0,9:10,1.0,10.0,TAM 28,0.0,0.0,Cordarrelle Patterson left end for 4 yards (tackle by Jamel Dean),3.71,3.71,7.0,2023,96
+1.0,8:38,2.0,6.0,TAM 24,0.0,0.0,Desmond Ridder pass complete deep right to Jonnu Smith for 18 yards (tackle by Carlton Davis),3.71,5.83,7.0,2023,96
+1.0,8:03,1.0,6.0,TAM 6,0.0,0.0,Tyler Allgeier left tackle for 2 yards (tackle by William Gholston),5.83,5.34,7.0,2023,96
+1.0,7:24,2.0,4.0,TAM 4,0.0,0.0,Desmond Ridder pass complete short right to Jonnu Smith for 2 yards (tackle by Lavonte David),5.34,4.95,7.0,2023,96
+1.0,6:53,3.0,2.0,TAM 2,6.0,0.0,"Desmond Ridder left end for 2 yards, touchdown",4.95,7.0,7.0,2023,96
+1.0,6:48,,,TAM 15,7.0,0.0,Younghoe Koo kicks extra point good,0.0,0.0,7.0,2023,96
+1.0,6:48,,,ATL 35,7.0,0.0,"Bradley Pinion kicks off 64 yards, returned by Deven Thompkins for 32 yards (tackle by Micah Abernathy)",0.0,1.14,7.0,2023,96
+1.0,6:40,1.0,10.0,TAM 33,7.0,0.0,"Baker Mayfield pass incomplete short left. Penalty on AJ Terrell: Defensive Holding, 5 yards (accepted) (no play)",1.14,1.47,7.0,2023,96
+1.0,6:37,1.0,10.0,TAM 38,7.0,0.0,Baker Mayfield pass incomplete deep left intended for Chris Godwin,1.47,0.92,7.0,2023,96
+1.0,6:32,2.0,10.0,TAM 38,7.0,0.0,Baker Mayfield pass complete short right to Cade Otton for 11 yards (tackle by Nathan Landman),0.92,2.19,7.0,2023,96
+1.0,5:55,1.0,10.0,TAM 49,7.0,0.0,Ke'Shawn Vaughn left guard for 9 yards (tackle by Arnold Ebiketie),2.19,2.86,7.0,2023,96
+1.0,5:30,2.0,1.0,ATL 42,7.0,0.0,"Penalty on Matt Feiler: False Start, 5 yards (accepted) (no play)",2.86,2.19,7.0,2023,96
+1.0,5:18,2.0,6.0,ATL 47,7.0,0.0,Baker Mayfield pass complete short right to Cade Otton for 5 yards (tackle by Jessie Bates and Nathan Landman),2.19,2.15,7.0,2023,96
+1.0,4:53,3.0,1.0,ATL 42,7.0,0.0,Baker Mayfield up the middle for 2 yards (tackle by Kaden Elliss),2.15,2.92,7.0,2023,96
+1.0,4:10,1.0,10.0,ATL 40,7.0,0.0,Ke'Shawn Vaughn left tackle for no gain (tackle by Jeff Okudah and Grady Jarrett),2.92,2.37,7.0,2023,96
+1.0,3:32,2.0,10.0,ATL 40,7.0,6.0,"Baker Mayfield pass complete deep left to Mike Evans for 40 yards, touchdown",2.37,7.0,7.0,2023,96
+1.0,3:24,,,ATL 15,7.0,7.0,Chase McLaughlin kicks extra point good,0.0,0.0,7.0,2023,96
+1.0,3:24,,,TAM 35,7.0,7.0,"Chase McLaughlin kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,96
+1.0,3:24,1.0,10.0,ATL 25,7.0,7.0,Tyler Allgeier right end for 3 yards (tackle by Vita Vea),0.61,0.47,7.0,2023,96
+1.0,2:53,2.0,7.0,ATL 28,7.0,7.0,Desmond Ridder pass complete short left to Kyle Pitts for 3 yards (tackle by Devin White),0.47,0.17,7.0,2023,96
+1.0,2:18,3.0,4.0,ATL 31,7.0,7.0,Desmond Ridder pass incomplete short left intended for Kyle Pitts (defended by Lavonte David),0.17,-1.31,7.0,2023,96
+1.0,2:15,4.0,4.0,ATL 31,7.0,7.0,"Penalty on Micah Abernathy: False Start, 5 yards (accepted) (no play)",-1.31,-1.63,7.0,2023,96
+1.0,2:15,4.0,9.0,ATL 26,7.0,7.0,"Bradley Pinion punts 43 yards, returned by Deven Thompkins for 3 yards (tackle by DeAngelo Malone)",-1.63,-1.2,7.0,2023,96
+1.0,2:05,1.0,10.0,TAM 34,7.0,7.0,Baker Mayfield pass complete short middle to Rachaad White for 6 yards (tackle by Nathan Landman),1.2,1.47,7.0,2023,96
+1.0,1:34,2.0,4.0,TAM 40,7.0,7.0,"Penalty on Trey Palmer: False Start, 5 yards (accepted) (no play)",1.47,0.79,7.0,2023,96
+1.0,1:20,2.0,9.0,TAM 35,7.0,7.0,"Rachaad White right guard for no gain (tackle by Nathan Landman and Kaden Elliss). Penalty on Robert Hainsey: Offensive Holding, 10 yards (accepted) (no play)",0.79,-0.56,7.0,2023,96
+1.0,1:03,2.0,19.0,TAM 25,7.0,7.0,Baker Mayfield pass complete short right to Trey Palmer for 5 yards (tackle by Kaden Elliss),-0.56,-0.56,7.0,2023,96
+1.0,0:27,3.0,14.0,TAM 30,7.0,7.0,"Penalty on TAM: False Start, 5 yards (accepted) (no play)",-0.56,-1.22,7.0,2023,96
+1.0,0:18,3.0,19.0,TAM 25,7.0,7.0,Baker Mayfield pass complete short left to Mike Evans for 6 yards (tackle by Kaden Elliss),-1.22,-1.31,7.0,2023,96
+2.0,15:00,4.0,13.0,TAM 31,7.0,7.0,"Jake Camarda punts 45 yards, returned by Mike Hughes for 9 yards (tackle by SirVocea Dennis)",-1.31,-1.14,7.0,2023,96
+2.0,14:51,1.0,10.0,ATL 33,7.0,7.0,Desmond Ridder pass complete deep middle to Scott Miller for 46 yards (tackle by Carlton Davis),1.14,4.17,7.0,2023,96
+2.0,14:13,1.0,10.0,TAM 21,7.0,7.0,Tyler Allgeier left tackle for 3 yards (tackle by William Gholston),4.17,4.04,7.0,2023,96
+2.0,13:45,2.0,7.0,TAM 18,7.0,7.0,Desmond Ridder pass complete short right to Drake London for 6 yards (tackle by Lavonte David),4.04,4.49,7.0,2023,96
+2.0,13:14,3.0,1.0,TAM 12,7.0,7.0,Tyler Allgeier right guard for 4 yards (tackle by Antoine Winfield and Carlton Davis),4.49,5.37,7.0,2023,96
+2.0,12:39,1.0,8.0,TAM 8,7.0,7.0,Desmond Ridder pass incomplete short middle,5.37,4.57,7.0,2023,96
+2.0,12:33,2.0,8.0,TAM 8,7.0,7.0,Cordarrelle Patterson up the middle for 3 yards (tackle by Christian Izien),4.57,4.26,7.0,2023,96
+2.0,11:59,3.0,5.0,TAM 5,7.0,7.0,Desmond Ridder pass incomplete short left intended for Drake London (defended by Antoine Winfield),4.26,3.01,7.0,2023,96
+2.0,11:54,4.0,5.0,TAM 5,10.0,7.0,Younghoe Koo 24 yard field goal good,3.01,3.0,7.0,2023,96
+2.0,11:51,,,ATL 35,10.0,7.0,"Bradley Pinion kicks off 65 yards, returned by Deven Thompkins for 18 yards (tackle by KhaDarel Hodge)",0.0,0.04,7.0,2023,96
+2.0,11:47,1.0,10.0,TAM 18,10.0,7.0,"Rachaad White right tackle for no gain (tackle by David Onyemata and Nathan Landman) Penalty on TAM: Illegal Formation, 5 yards (declined)",0.04,-0.49,7.0,2023,96
+2.0,11:21,2.0,10.0,TAM 18,10.0,7.0,Baker Mayfield pass complete short middle to Chris Godwin for 6 yards (tackle by AJ Terrell),-0.49,-0.4,7.0,2023,96
+2.0,10:44,3.0,4.0,TAM 24,10.0,7.0,Baker Mayfield pass complete short left to Chris Godwin for 13 yards (tackle by Richie Grant),-0.4,1.4,7.0,2023,96
+2.0,10:08,1.0,10.0,TAM 37,10.0,7.0,Baker Mayfield pass incomplete deep middle intended for Rakim Jarrett,1.4,0.86,7.0,2023,96
+2.0,10:01,2.0,10.0,TAM 37,10.0,7.0,Baker Mayfield pass incomplete short right intended for Payne Durham,0.86,0.17,7.0,2023,96
+2.0,9:57,3.0,10.0,TAM 37,10.0,7.0,"Baker Mayfield pass incomplete deep right intended for Rakim Jarrett. Penalty on Jeff Okudah: Defensive Holding, 5 yards (accepted) (no play)",0.17,1.73,7.0,2023,96
+2.0,9:52,1.0,10.0,TAM 42,10.0,7.0,Baker Mayfield pass incomplete short left intended for Ke'Shawn Vaughn,1.73,1.19,7.0,2023,96
+2.0,9:47,2.0,10.0,TAM 42,10.0,7.0,Baker Mayfield pass complete short middle to Mike Evans for 16 yards (tackle by AJ Terrell and Richie Grant),1.19,2.79,7.0,2023,96
+2.0,9:03,1.0,10.0,ATL 42,10.0,7.0,Ke'Shawn Vaughn up the middle for 2 yards (tackle by Nathan Landman),2.79,2.51,7.0,2023,96
+2.0,8:25,2.0,8.0,ATL 40,10.0,7.0,Baker Mayfield pass complete short right to Deven Thompkins for 9 yards,2.51,3.51,7.0,2023,96
+2.0,7:51,1.0,10.0,ATL 31,10.0,7.0,Rachaad White up the middle for 3 yards (tackle by Nathan Landman and LaCale London),3.51,3.37,7.0,2023,96
+2.0,7:17,2.0,7.0,ATL 28,10.0,7.0,Baker Mayfield pass complete short right to Rachaad White for 22 yards (tackle by Jessie Bates),3.37,5.83,7.0,2023,96
+2.0,6:33,1.0,6.0,ATL 6,10.0,7.0,"Baker Mayfield sacked by Calais Campbell for -5 yards. Baker Mayfield fumbles (forced by Calais Campbell), recovered by Baker Mayfield at ATL-11",5.83,4.02,7.0,2023,96
+2.0,5:53,2.0,11.0,ATL 11,10.0,7.0,Baker Mayfield pass incomplete short left intended for Mike Evans (defended by DeAundre Alford),4.02,3.12,7.0,2023,96
+2.0,5:47,3.0,11.0,ATL 11,10.0,7.0,Baker Mayfield pass complete short right to Rachaad White for 5 yards (tackle by DeAundre Alford and Richie Grant),3.12,2.99,7.0,2023,96
+2.0,5:19,4.0,6.0,ATL 6,10.0,10.0,Chase McLaughlin 24 yard field goal good,2.99,3.0,7.0,2023,96
+2.0,5:14,,,TAM 35,10.0,10.0,"Chase McLaughlin kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,96
+2.0,5:14,1.0,10.0,ATL 25,10.0,10.0,Desmond Ridder pass complete short left to Kyle Pitts for 5 yards (tackle by Lavonte David),0.61,0.74,7.0,2023,96
+2.0,4:46,2.0,5.0,ATL 30,10.0,10.0,Desmond Ridder scrambles right end for 5 yards (tackle by Ryan Neal),0.74,1.27,7.0,2023,96
+2.0,4:23,1.0,10.0,ATL 35,10.0,10.0,Desmond Ridder pass complete short left to Drake London for 15 yards (tackle by Jamel Dean),1.27,2.26,7.0,2023,96
+2.0,3:58,1.0,10.0,TAM 50,10.0,10.0,Cordarrelle Patterson left end for 2 yards (tackle by Jamel Dean),2.26,1.98,7.0,2023,96
+2.0,3:14,2.0,8.0,TAM 48,10.0,10.0,"Desmond Ridder pass incomplete short middle intended for Kyle Pitts. Penalty on Christian Izien: Defensive Pass Interference, 10 yards (accepted) (no play)",1.98,3.05,7.0,2023,96
+2.0,3:11,1.0,10.0,TAM 38,10.0,10.0,Cordarrelle Patterson left tackle for 3 yards (tackle by Jamel Dean),3.05,2.91,7.0,2023,96
+2.0,2:43,2.0,7.0,TAM 35,10.0,10.0,Tyler Allgeier up the middle for 5 yards (tackle by Vita Vea),2.91,2.87,7.0,2023,96
+2.0,2:00,3.0,2.0,TAM 30,10.0,10.0,"Tyler Allgeier up the middle for 5 yards (tackle by Antoine Winfield and Lavonte David). Penalty on Jonnu Smith: Offensive Holding, 10 yards (accepted)",2.87,2.21,7.0,2023,96
+2.0,1:54,,,,,,Timeout #1 by Atlanta Falcons,,,7.0,2023,96
+2.0,1:54,3.0,7.0,TAM 35,10.0,10.0,Desmond Ridder pass complete short left to Drake London for 12 yards (tackle by Christian Izien and Ryan Neal),2.21,4.04,7.0,2023,96
+2.0,1:15,1.0,10.0,TAM 23,10.0,10.0,Cordarrelle Patterson left tackle for 13 yards (tackle by Antoine Winfield and Shaquil Barrett),4.04,4.91,7.0,2023,96
+2.0,0:37,1.0,10.0,TAM 10,10.0,10.0,Cordarrelle Patterson left tackle for no gain (tackle by Devin White and Calijah Kancey),4.91,4.19,7.0,2023,96
+2.0,0:30,,,,,,Timeout #2 by Atlanta Falcons,,,7.0,2023,96
+2.0,0:30,2.0,10.0,TAM 10,10.0,10.0,Desmond Ridder pass complete short right to Keith Smith for -1 yards (tackle by Joe Tryon-Shoyinka),4.19,3.12,7.0,2023,96
+2.0,0:25,,,,,,Timeout #3 by Atlanta Falcons,,,7.0,2023,96
+2.0,0:25,3.0,11.0,TAM 11,10.0,10.0,"Desmond Ridder sacked by Shaquil Barrett for -5 yards. Desmond Ridder fumbles (forced by Shaquil Barrett), recovered by Jamel Dean at TB-16 and returned for 7 yards (tackle by Jonnu Smith)",3.12,-0.48,7.0,2023,96
+2.0,0:17,1.0,10.0,TAM 23,10.0,10.0,Baker Mayfield kneels for -1 yards,0.48,-0.2,7.0,2023,96
+3.0,15:00,,,TAM 35,10.0,10.0,"Jake Camarda kicks off 60 yards, returned by Cordarrelle Patterson for 25 yards (tackle by Ko Kieft)",0.0,0.94,7.0,2023,96
+3.0,14:55,1.0,10.0,ATL 30,10.0,10.0,Tyler Allgeier left guard for -4 yards (tackle by Lavonte David and Joe Tryon-Shoyinka),0.94,-0.15,7.0,2023,96
+3.0,14:22,2.0,14.0,ATL 26,10.0,10.0,Desmond Ridder pass complete short left to Drake London for 6 yards (tackle by Jamel Dean),-0.15,-0.03,7.0,2023,96
+3.0,13:50,3.0,8.0,ATL 32,10.0,10.0,Desmond Ridder pass incomplete short middle intended for Van Jefferson (defended by Shaquil Barrett),-0.03,-1.24,7.0,2023,96
+3.0,13:45,4.0,8.0,ATL 32,10.0,10.0,"Bradley Pinion punts 48 yards, fair catch by Deven Thompkins at TB-20. Penalty on Dee Delaney: Offensive Holding, 10 yards (accepted)",-1.24,0.38,7.0,2023,96
+3.0,13:38,1.0,10.0,TAM 10,10.0,10.0,Baker Mayfield pass incomplete deep left intended for Mike Evans (defended by AJ Terrell),-0.38,-0.78,7.0,2023,96
+3.0,13:33,2.0,10.0,TAM 10,10.0,10.0,Rachaad White up the middle for 5 yards (tackle by Nathan Landman and Calais Campbell),-0.78,-0.84,7.0,2023,96
+3.0,12:55,3.0,5.0,TAM 15,10.0,10.0,Baker Mayfield pass complete short middle to Chris Godwin for 5 yards (tackle by Richie Grant and AJ Terrell),-0.84,0.28,7.0,2023,96
+3.0,12:21,1.0,10.0,TAM 20,10.0,10.0,"Baker Mayfield pass incomplete short right intended for Mike Evans. Penalty on AJ Terrell: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",0.28,0.61,7.0,2023,96
+3.0,12:18,1.0,10.0,TAM 25,10.0,10.0,"Rachaad White up the middle for 13 yards (tackle by Richie Grant). Penalty on Trey Palmer: Offensive Holding, 10 yards (accepted)",0.61,1.05,7.0,2023,96
+3.0,11:56,1.0,7.0,TAM 28,10.0,10.0,"Baker Mayfield pass complete short middle to Deven Thompkins for no gain. Deven Thompkins fumbles (forced by Nathan Landman), recovered by LaCale London at TB-27 (tackle by Nathan Landman)",1.05,-3.78,7.0,2023,96
+3.0,11:38,1.0,10.0,TAM 27,10.0,10.0,Tyler Allgeier right tackle for 1 yard (tackle by Greg Gaines and Devin White),3.78,3.37,7.0,2023,96
+3.0,11:00,2.0,9.0,TAM 26,10.0,10.0,Desmond Ridder pass complete short middle to Tyler Allgeier for 7 yards (tackle by Jamel Dean and Devin White),3.37,3.64,7.0,2023,96
+3.0,10:41,3.0,2.0,TAM 19,10.0,10.0,Tyler Allgeier right guard for 3 yards (tackle by Ryan Neal and YaYa Diaby),3.64,4.51,7.0,2023,96
+3.0,9:54,1.0,10.0,TAM 16,10.0,10.0,Cordarrelle Patterson left guard for 2 yards (tackle by Jamel Dean and Lavonte David),4.51,4.21,7.0,2023,96
+3.0,9:19,2.0,8.0,TAM 14,10.0,10.0,Desmond Ridder pass complete short right to Tyler Allgeier for no gain (tackle by Christian Izien),4.21,3.37,7.0,2023,96
+3.0,8:43,3.0,8.0,TAM 14,10.0,10.0,"Desmond Ridder pass complete short right to Drake London for 13 yards (tackle by Antoine Winfield) TAM challenged the fumble ruling, and the play was upheld.",3.37,6.97,7.0,2023,96
+3.0,8:05,1.0,1.0,TAM 1,10.0,10.0,"Desmond Ridder aborted snap, recovered by YaYa Diaby at TB-3 and returned for -2 yards",6.97,0.38,7.0,2023,96
+3.0,8:00,1.0,10.0,TAM 3,10.0,10.0,"Penalty on Matt Feiler: False Start, 1 yard (accepted) (no play)",-0.38,-0.42,7.0,2023,96
+3.0,8:00,1.0,11.0,TAM 2,10.0,10.0,Rachaad White up the middle for 2 yards (tackle by Nathan Landman and Ta'Quon Graham),-0.42,-0.71,7.0,2023,96
+3.0,7:16,2.0,9.0,TAM 4,10.0,10.0,Baker Mayfield pass complete short middle to Mike Evans for 8 yards (tackle by Jessie Bates),-0.71,-0.37,7.0,2023,96
+3.0,6:50,3.0,1.0,TAM 12,10.0,10.0,Rachaad White left guard for -1 yards (tackle by Kaden Elliss and Nathan Landman),-0.37,-2.49,7.0,2023,96
+3.0,6:09,4.0,2.0,TAM 11,10.0,10.0,Jake Camarda punts 52 yards out of bounds,-2.49,-1.4,7.0,2023,96
+3.0,5:59,1.0,10.0,ATL 37,10.0,10.0,Desmond Ridder pass incomplete short right,1.4,0.86,7.0,2023,96
+3.0,5:52,2.0,10.0,ATL 37,10.0,10.0,Desmond Ridder scrambles up the middle for 19 yards (tackle by Jamel Dean),0.86,2.65,7.0,2023,96
+3.0,5:18,1.0,10.0,TAM 44,10.0,10.0,Tyler Allgeier right tackle for no gain (tackle by Lavonte David),2.65,2.11,7.0,2023,96
+3.0,4:45,2.0,10.0,TAM 44,10.0,10.0,Tyler Allgeier right tackle for 12 yards (tackle by Antoine Winfield and Ryan Neal),2.11,3.45,7.0,2023,96
+3.0,4:09,1.0,10.0,TAM 32,10.0,10.0,Tyler Allgeier left tackle for 4 yards (tackle by Lavonte David and Shaquil Barrett),3.45,3.44,7.0,2023,96
+3.0,3:29,2.0,6.0,TAM 28,10.0,10.0,Desmond Ridder pass complete short right to Van Jefferson for 5 yards (tackle by Antoine Winfield and Lavonte David),3.44,3.4,7.0,2023,96
+3.0,2:59,3.0,1.0,TAM 23,10.0,10.0,Tyler Allgeier up the middle for no gain (tackle by Ryan Neal and Joe Tryon-Shoyinka),3.4,2.08,7.0,2023,96
+3.0,2:11,4.0,1.0,TAM 23,13.0,10.0,Younghoe Koo 41 yard field goal good,2.08,3.0,7.0,2023,96
+3.0,2:04,,,ATL 35,13.0,10.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,96
+3.0,2:04,1.0,10.0,TAM 25,13.0,10.0,Rachaad White up the middle for 4 yards (tackle by Calais Campbell and LaCale London),0.61,0.6,7.0,2023,96
+3.0,1:24,2.0,6.0,TAM 29,13.0,10.0,Baker Mayfield pass complete short left to Rachaad White for 20 yards (tackle by Kaden Elliss and Jeff Okudah),0.6,2.19,7.0,2023,96
+3.0,0:41,1.0,10.0,TAM 49,13.0,10.0,Ke'Shawn Vaughn right guard for -4 yards (tackle by LaCale London and David Onyemata),2.19,1.11,7.0,2023,96
+4.0,15:00,2.0,14.0,TAM 45,13.0,10.0,"Baker Mayfield pass incomplete deep left. Penalty on Kaden Elliss: Illegal Contact, 5 yards (accepted) (no play)",1.11,2.26,7.0,2023,96
+4.0,14:54,1.0,10.0,TAM 50,13.0,10.0,"Ke'Shawn Vaughn right guard for no gain (tackle by Kaden Elliss). Penalty on Cody Mauch: Offensive Holding, 10 yards (accepted) (no play)",2.26,1.6,7.0,2023,96
+4.0,14:34,1.0,20.0,TAM 40,13.0,10.0,Baker Mayfield pass complete short right to Mike Evans for 3 yards (tackle by AJ Terrell),1.6,0.77,7.0,2023,96
+4.0,14:09,2.0,17.0,TAM 43,13.0,10.0,Baker Mayfield pass complete short right to Chris Godwin for 7 yards (tackle by Nathan Landman),0.77,1.03,7.0,2023,96
+4.0,13:32,3.0,10.0,TAM 50,13.0,10.0,Baker Mayfield sacked by Lorenzo Carter for -4 yards,1.03,-0.32,7.0,2023,96
+4.0,12:49,4.0,14.0,TAM 46,13.0,10.0,Jake Camarda punts 47 yards downed by Zyon McCollum,-0.32,0.38,7.0,2023,96
+4.0,12:37,1.0,10.0,ATL 7,13.0,10.0,Desmond Ridder pass complete short left to Drake London for 2 yards (tackle by Jamel Dean),-0.38,-0.63,7.0,2023,96
+4.0,12:00,2.0,8.0,ATL 9,13.0,10.0,Desmond Ridder pass complete deep right to Tyler Allgeier for 46 yards (tackle by Ryan Neal),-0.63,2.59,7.0,2023,96
+4.0,11:14,1.0,10.0,TAM 45,13.0,10.0,Cordarrelle Patterson left end for 18 yards (tackle by Jamel Dean),2.59,3.78,7.0,2023,96
+4.0,10:43,1.0,10.0,TAM 27,13.0,10.0,Cordarrelle Patterson left tackle for 7 yards (tackle by Shaquil Barrett and Greg Gaines),3.78,4.18,7.0,2023,96
+4.0,10:07,2.0,3.0,TAM 20,13.0,10.0,Tyler Allgeier left tackle for 1 yard (tackle by Lavonte David),4.18,3.64,7.0,2023,96
+4.0,9:25,3.0,2.0,TAM 19,13.0,10.0,Tyler Allgeier right guard for 2 yards (tackle by Ryan Neal),3.64,4.44,7.0,2023,96
+4.0,8:46,1.0,10.0,TAM 17,13.0,10.0,Tyler Allgeier right guard for 9 yards (tackle by Joe Tryon-Shoyinka),4.44,5.48,7.0,2023,96
+4.0,8:04,2.0,1.0,TAM 8,13.0,10.0,Tyler Allgeier up the middle for no gain (tackle by Shaquil Barrett),5.48,4.8,7.0,2023,96
+4.0,7:29,3.0,1.0,TAM 8,13.0,10.0,Desmond Ridder up the middle for 1 yard (tackle by Devin White),4.8,5.6,7.0,2023,96
+4.0,6:43,1.0,7.0,TAM 7,13.0,10.0,"Penalty on ATL: Delay of Game, 5 yards (accepted) (no play)",5.6,4.64,7.0,2023,96
+4.0,6:35,1.0,12.0,TAM 12,13.0,10.0,"Desmond Ridder left end for no gain, touchdown Replay Assistant challenged the fumble ruling, and the original play was overturned. Desmond Ridder left end for 11 yards. Desmond Ridder fumbles (forced by Antoine Winfield)",4.64,-0.28,7.0,2023,96
+4.0,6:30,1.0,10.0,TAM 20,13.0,10.0,Baker Mayfield pass incomplete short middle intended for Chris Godwin (defended by Jeff Okudah),0.28,-0.27,7.0,2023,96
+4.0,6:27,2.0,10.0,TAM 20,13.0,10.0,Baker Mayfield pass complete short middle to Cade Otton for 12 yards (tackle by Jeff Okudah),-0.27,1.07,7.0,2023,96
+4.0,5:51,1.0,10.0,TAM 32,13.0,10.0,Rachaad White right end for no gain (tackle by Jeff Okudah),1.07,0.53,7.0,2023,96
+4.0,5:20,2.0,10.0,TAM 32,13.0,10.0,Baker Mayfield pass complete short left to Cade Otton for 7 yards (tackle by AJ Terrell),0.53,0.76,7.0,2023,96
+4.0,4:34,3.0,3.0,TAM 39,13.0,10.0,Baker Mayfield pass complete short right to Chris Godwin for 33 yards (tackle by Jessie Bates),0.76,3.71,7.0,2023,96
+4.0,4:28,1.0,10.0,ATL 28,13.0,10.0,Rachaad White up the middle for 2 yards (tackle by David Onyemata and Nathan Landman),3.71,3.44,7.0,2023,96
+4.0,3:48,2.0,8.0,ATL 26,13.0,10.0,Baker Mayfield pass short right intended for Cade Otton is intercepted by Richie Grant at ATL-11 and returned for 4 yards,3.44,0.22,7.0,2023,96
+4.0,3:41,1.0,10.0,ATL 15,13.0,10.0,Tyler Allgeier left tackle for 2 yards (tackle by Joe Tryon-Shoyinka and Greg Gaines),-0.22,-0.44,7.0,2023,96
+4.0,3:02,2.0,8.0,ATL 17,13.0,10.0,Tyler Allgeier left tackle for 3 yards (tackle by Lavonte David),-0.44,-0.76,7.0,2023,96
+4.0,2:55,,,,,,Timeout #2 by Tampa Bay Buccaneers,,,7.0,2023,96
+4.0,2:55,3.0,5.0,ATL 20,13.0,10.0,Cordarrelle Patterson left end for 4 yards (tackle by Joe Tryon-Shoyinka and Zyon McCollum),-0.76,-1.77,7.0,2023,96
+4.0,2:42,,,,,,Timeout #3 by Tampa Bay Buccaneers,,,7.0,2023,96
+4.0,2:42,4.0,1.0,ATL 24,13.0,10.0,Bradley Pinion punts 43 yards out of bounds,-1.77,-1.14,7.0,2023,96
+4.0,2:36,1.0,10.0,TAM 33,13.0,10.0,Baker Mayfield pass incomplete short right intended for Chris Godwin,1.14,0.59,7.0,2023,96
+4.0,2:32,2.0,10.0,TAM 33,13.0,10.0,Baker Mayfield pass complete short right to Rachaad White for 1 yard (tackle by DeAundre Alford),0.59,0.04,7.0,2023,96
+4.0,2:07,3.0,9.0,TAM 34,13.0,10.0,Baker Mayfield scrambles up the middle for 31 yards (tackle by Jeff Okudah),0.04,3.25,7.0,2023,96
+4.0,1:57,1.0,10.0,ATL 35,13.0,10.0,Rachaad White right tackle for 3 yards (tackle by Kaden Elliss),3.25,3.11,7.0,2023,96
+4.0,1:33,2.0,7.0,ATL 32,13.0,10.0,Baker Mayfield pass complete short right to Cade Otton for 8 yards (tackle by Richie Grant),3.11,3.97,7.0,2023,96
+4.0,1:28,1.0,10.0,ATL 24,13.0,10.0,Rachaad White up the middle for 1 yard (tackle by Calais Campbell and Lorenzo Carter),3.97,3.57,7.0,2023,96
+4.0,1:11,2.0,9.0,ATL 23,13.0,10.0,"Baker Mayfield pass incomplete short middle intended for Trey Palmer. Penalty on DeAundre Alford: Defensive Pass Interference, 15 yards (accepted) (no play)",3.57,5.37,7.0,2023,96
+4.0,1:05,1.0,8.0,ATL 8,13.0,10.0,Baker Mayfield pass incomplete short middle intended for Chris Godwin (defended by DeAundre Alford),5.37,4.57,7.0,2023,96
+4.0,1:00,2.0,8.0,ATL 8,13.0,10.0,Baker Mayfield pass incomplete short left intended for Chris Godwin,4.57,3.58,7.0,2023,96
+4.0,0:56,3.0,8.0,ATL 8,13.0,10.0,Baker Mayfield sacked by David Onyemata for -10 yards,3.58,2.25,7.0,2023,96
+4.0,0:49,,,,,,Timeout #1 by Atlanta Falcons,,,7.0,2023,96
+4.0,0:49,4.0,18.0,ATL 18,13.0,13.0,Chase McLaughlin 36 yard field goal good,2.25,3.0,7.0,2023,96
+4.0,0:45,,,TAM 35,13.0,13.0,"Jake Camarda kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,96
+4.0,0:45,1.0,10.0,ATL 25,13.0,13.0,"Desmond Ridder pass complete deep right to Kyle Pitts for 17 yards (tackle by Ryan Neal) Replay Assistant challenged the pass completion ruling, and the original play was overturned. Desmond Ridder pass incomplete deep right intended for Kyle Pitts",0.61,0.06,7.0,2023,96
+4.0,0:36,2.0,10.0,ATL 25,13.0,13.0,Desmond Ridder pass complete deep left to Kyle Pitts for 39 yards (tackle by Ryan Neal),0.06,3.18,7.0,2023,96
+4.0,0:36,1.0,10.0,TAM 36,13.0,13.0,Bijan Robinson up the middle for 3 yards (tackle by Shaquil Barrett),3.18,3.04,7.0,2023,96
+4.0,0:25,,,,,,Timeout #2 by Atlanta Falcons,,,7.0,2023,96
+4.0,0:25,2.0,7.0,TAM 33,13.0,13.0,Tyler Allgeier left tackle for no gain (tackle by Greg Gaines and Shaquil Barrett),3.04,2.35,7.0,2023,96
+4.0,0:04,,,,,,Timeout #3 by Atlanta Falcons,,,7.0,2023,96
+4.0,0:04,3.0,7.0,TAM 33,16.0,13.0,Younghoe Koo 51 yard field goal good,2.35,3.0,7.0,2023,96

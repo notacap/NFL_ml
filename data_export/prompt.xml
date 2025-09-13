@@ -1,0 +1,110 @@
+<prompt>
+
+    <context>
+
+        - I created a new file named export_raw_db_data.py
+
+        - I need for you to write a script in this file
+
+        - The purpose of the script is to export all nfl statistical and referential data from the database into parquet files in a specified directory 
+
+        - The parquet files you're creating should be optimized for analytical queries and machine learning workflows
+
+    </context>
+
+    <parquet_files>
+
+        - We need to embed the season/week structure reflected in the database into the parquet files themselves using partition columns
+
+        - Here is an example partitioned strcuture:
+
+            data/raw/
+            ├── player_game_stats/           # Individual game performances
+            │   ├── season=2023/
+            │   │   ├── week=1/
+            │   │   └── week=2/
+            │   └── season=2024/
+            ├── player_season_cumulative/    # Season totals THROUGH each week
+            │   ├── season=2023/
+            │   │   ├── week=1/         # Season totals after week 1
+            │   │   ├── week=2/         # Season totals after week 2
+            │   │   └── week=17/        # Season totals after week 17
+            │   └── season=2024/
+            └── team_season_cumulative/      # Same structure for teams
+                ├── season=2023/
+                │   └── week=1/
+                └── season=2024/
+
+        - The script should use season_id and week_id values to determine the week and season, which is explained more later in the prompt
+
+    </parquet_files>
+
+    <output_directory>
+
+        - Here is the root data export output directory C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw
+
+        - The script should create the following directories in the 'raw' directory if they do not exist: plyr_gm, tm_gm, plyr_szn, tm_szn
+
+        - The partitioned parquet subdirectories will be placed in those directories
+
+    </output_directory>
+
+    <database>
+
+        <credentials>
+
+            - The database credentials needed to connect to the database are stored in the .env file located in this directory path: C:\Users\nocap\Desktop\code\NFL_ml\database
+
+            - These are the variable names used in the .env file: DB_HOST, DB_PORT, DB_NAME, DB_USER, DB_PASSWORD
+
+        </credentials>
+
+        <database_structure>
+
+            - The database contains statistical and referential information for multiple NFL seasons at both the season total and game levels
+
+            - Season level stats are stored for each week in the NFL season instead of overwritten each week
+
+            - Keeping a season totals snapshot for each week in the NFL season will allow me to train a predictive model exclusively on data from the past, preventing data leakage
+
+        </database_structure>
+
+        <id_values>
+
+            <seasons>
+
+                - Every table containing statistical data, and most tables containing referential data have a season_id column
+
+                - season_id is a foreign key that references the nfl_season table
+
+                - The nfl_season table has a column named 'year' that contains the Year the NFL season took place in
+
+            </seasons>
+
+            <weeks>
+
+                - Every table containing statistical data (both season and game level) has a week_id column
+
+                - week_id is a foreign key that references the nfl_week table
+
+                - the nfl_week table has a column named week_num that contains the actual week number in the nfl season (weeks 1-18)
+
+            </weeks>
+
+        <id_values>
+
+        <output_files>
+
+            <referential>
+
+            </referential>
+
+            <statistical>
+
+            <statistical>
+
+        </output_files>
+
+    <database>
+
+</prompt>

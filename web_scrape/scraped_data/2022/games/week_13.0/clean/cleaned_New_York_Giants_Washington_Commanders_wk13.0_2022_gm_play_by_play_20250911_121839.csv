@@ -1,0 +1,199 @@
+Quarter,Time,Down,ToGo,Location,WAS,NYG,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Commanders won the coin toss and deferred, Giants to receive the opening kickoff.",,,13.0,2022,186
+1,15:00,,,WAS 35,0.0,0.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,186
+1,15:00,1.0,10.0,NYG 25,0.0,0.0,Saquon Barkley right guard for 3 yards (tackle by Bobby McCain),0.61,0.47,13.0,2022,186
+1,14:30,2.0,7.0,NYG 28,0.0,0.0,Daniel Jones scrambles up the middle for 9 yards (tackle by Jamin Davis),0.47,1.4,13.0,2022,186
+1,13:55,1.0,10.0,NYG 37,0.0,0.0,Saquon Barkley right end for 5 yards (tackle by Kamren Curl),1.4,1.53,13.0,2022,186
+1,13:20,2.0,5.0,NYG 42,0.0,0.0,"Daniel Jones left guard for 5 yards. Daniel Jones fumbles (forced by Jonathan Allen), recovered by Jamin Davis at NYG-48",1.53,-2.39,13.0,2022,186
+1,13:06,1.0,10.0,NYG 48,0.0,0.0,Brian Robinson right guard for 5 yards (tackle by Kayvon Thibodeaux and Jaylon Smith),2.39,2.52,13.0,2022,186
+1,12:33,2.0,5.0,NYG 43,0.0,0.0,Taylor Heinicke pass complete short left to Brian Robinson for 10 yards (tackle by Jaylon Smith),2.52,3.38,13.0,2022,186
+1,12:03,1.0,10.0,NYG 33,0.0,0.0,Taylor Heinicke pass complete short right to Jahan Dotson for 9 yards (tackle by Nick McCloud),3.38,4.05,13.0,2022,186
+1,11:34,2.0,1.0,NYG 24,0.0,0.0,Antonio Gibson left guard for 2 yards (tackle by Leonard Williams and Micah McFadden),4.05,4.11,13.0,2022,186
+1,10:57,1.0,10.0,NYG 22,0.0,0.0,Taylor Heinicke pass incomplete deep left intended for Logan Thomas,4.11,3.56,13.0,2022,186
+1,10:52,2.0,10.0,NYG 22,0.0,0.0,Brian Robinson left end for 16 yards (tackle by Jason Pinnock),3.56,5.83,13.0,2022,186
+1,10:17,1.0,6.0,NYG 6,0.0,0.0,Brian Robinson left end for 2 yards (tackle by Kayvon Thibodeaux and Jaylon Smith),5.83,5.34,13.0,2022,186
+1,9:33,2.0,4.0,NYG 4,0.0,0.0,Taylor Heinicke pass complete short right to Curtis Samuel for 1 yard (tackle by Zyon Gilbert),5.34,4.72,13.0,2022,186
+1,8:52,3.0,3.0,NYG 3,0.0,0.0,Taylor Heinicke pass incomplete short right,4.72,3.04,13.0,2022,186
+1,8:42,4.0,3.0,NYG 3,3.0,0.0,Joey Slye 21 yard field goal good,3.04,3.0,13.0,2022,186
+1,8:39,,,WAS 35,3.0,0.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,186
+1,8:39,1.0,10.0,NYG 25,3.0,0.0,Saquon Barkley left end for 3 yards (tackle by Efe Obada and Jonathan Bostic),0.61,0.47,13.0,2022,186
+1,8:03,2.0,7.0,NYG 28,3.0,0.0,Daniel Jones sacked by Daron Payne for -9 yards,0.47,-1.51,13.0,2022,186
+1,7:19,3.0,16.0,NYG 19,3.0,0.0,Daniel Jones pass complete short right to Saquon Barkley for 1 yard (tackle by Casey Toohill),-1.51,-2.03,13.0,2022,186
+1,6:41,4.0,15.0,NYG 20,3.0,0.0,"Jamie Gillan punts 48 yards, returned by Alex Erickson for 6 yards (tackle by Jason Pinnock)",-2.03,-1.47,13.0,2022,186
+1,6:31,1.0,10.0,WAS 38,3.0,0.0,Taylor Heinicke pass complete deep left to Jahan Dotson for 16 yards (tackle by Julian Love),1.47,2.52,13.0,2022,186
+1,5:56,1.0,10.0,NYG 46,3.0,0.0,Brian Robinson up the middle for 5 yards (tackle by Henry Mondeaux and Micah McFadden),2.52,2.65,13.0,2022,186
+1,5:17,2.0,5.0,NYG 41,3.0,0.0,Brian Robinson right guard for 5 yards (tackle by Dexter Lawrence and Vernon Butler),2.65,3.18,13.0,2022,186
+1,4:35,1.0,10.0,NYG 36,3.0,0.0,Brian Robinson left tackle for no gain (tackle by Zyon Gilbert),3.18,2.64,13.0,2022,186
+1,3:59,2.0,10.0,NYG 36,3.0,0.0,Taylor Heinicke pass complete short middle to Logan Thomas for 11 yards (tackle by Micah McFadden),2.64,3.91,13.0,2022,186
+1,3:19,1.0,10.0,NYG 25,3.0,0.0,Antonio Gibson right guard for 6 yards (tackle by Leonard Williams),3.91,4.2,13.0,2022,186
+1,2:37,2.0,4.0,NYG 19,3.0,0.0,Taylor Heinicke pass incomplete short right intended for Antonio Gibson,4.2,3.49,13.0,2022,186
+1,2:35,3.0,4.0,NYG 19,9.0,0.0,"Taylor Heinicke pass complete short right to Terry McLaurin for 19 yards, touchdown",3.49,7.0,13.0,2022,186
+1,2:27,,,NYG 15,10.0,0.0,Joey Slye kicks extra point good,0.0,0.0,13.0,2022,186
+1,2:27,,,WAS 35,10.0,0.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,186
+1,2:27,1.0,10.0,NYG 25,10.0,0.0,Daniel Jones pass complete short right to Darius Slayton for 8 yards (tackle by Jamin Davis),0.61,1.14,13.0,2022,186
+1,1:54,2.0,2.0,NYG 33,10.0,0.0,Saquon Barkley right guard for 5 yards (tackle by Darrick Forrest and Jamin Davis),1.14,1.47,13.0,2022,186
+1,1:20,1.0,10.0,NYG 38,10.0,0.0,Saquon Barkley right guard for 2 yards (tackle by Kendall Fuller and Jamin Davis),1.47,1.19,13.0,2022,186
+1,0:47,2.0,8.0,NYG 40,10.0,0.0,"Daniel Jones scrambles up the middle for 21 yards (tackle by Kamren Curl). Penalty on Kamren Curl: Defensive Holding, 5 yards (accepted)",1.19,3.31,13.0,2022,186
+1,0:19,1.0,10.0,WAS 34,10.0,0.0,Daniel Jones pass complete short right to Saquon Barkley for 2 yards (tackle by Christian Holmes),3.31,3.04,13.0,2022,186
+2,15:00,2.0,8.0,WAS 32,10.0,0.0,Daniel Jones right tackle for 3 yards (tackle by Christian Holmes),3.04,2.74,13.0,2022,186
+2,14:23,3.0,5.0,WAS 29,10.0,0.0,Daniel Jones pass complete short left to Richie James for -1 yards (tackle by Bobby McCain and Jonathan Bostic),2.74,1.43,13.0,2022,186
+2,13:43,4.0,6.0,WAS 30,10.0,3.0,Graham Gano 48 yard field goal good,1.43,3.0,13.0,2022,186
+2,13:38,,,NYG 35,10.0,3.0,"Graham Gano kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,186
+2,13:38,1.0,10.0,WAS 25,10.0,3.0,Brian Robinson right guard for 5 yards (tackle by Julian Love),0.61,0.74,13.0,2022,186
+2,13:05,2.0,5.0,WAS 30,10.0,3.0,Taylor Heinicke sacked by Justin Ellis for -8 yards,0.74,-1.29,13.0,2022,186
+2,12:20,3.0,15.0,WAS 20,10.0,3.0,Taylor Heinicke pass complete short right to Terry McLaurin for 12 yards (tackle by Dexter Lawrence and Oshane Ximines),-1.29,-1.11,13.0,2022,186
+2,11:33,4.0,1.0,WAS 34,10.0,3.0,"Tress Way punts 47 yards, fair catch by Richie James at NYG-19",-1.11,-0.15,13.0,2022,186
+2,11:27,1.0,10.0,NYG 19,10.0,3.0,Daniel Jones pass complete deep left to Darius Slayton for 55 yards (tackle by Darrick Forrest),0.15,3.78,13.0,2022,186
+2,10:50,1.0,10.0,WAS 27,10.0,3.0,Saquon Barkley right tackle for -3 yards (tackle by Montez Sweat and Daron Payne),3.78,2.89,13.0,2022,186
+2,10:13,2.0,13.0,WAS 29,10.0,3.0,Daniel Jones pass complete short left to Isaiah Hodgins for 6 yards (tackle by Kendall Fuller),2.89,3.01,13.0,2022,186
+2,9:29,3.0,7.0,WAS 23,10.0,3.0,Daniel Jones scrambles right end for 10 yards (tackle by Bobby McCain),3.01,4.71,13.0,2022,186
+2,8:54,1.0,10.0,WAS 13,10.0,9.0,"Saquon Barkley right tackle for 13 yards, touchdown",4.71,7.0,13.0,2022,186
+2,8:49,,,WAS 15,10.0,10.0,Graham Gano kicks extra point good,0.0,0.0,13.0,2022,186
+2,8:49,,,NYG 35,10.0,10.0,"Graham Gano kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,186
+2,8:49,1.0,10.0,WAS 25,10.0,10.0,Jonathan Williams left tackle for 1 yard (tackle by Micah McFadden and Jihad Ward),0.61,0.2,13.0,2022,186
+2,8:03,2.0,9.0,WAS 26,10.0,10.0,Taylor Heinicke pass complete deep left to Terry McLaurin for 20 yards (tackle by Jason Pinnock and Fabian Moreau),0.2,1.99,13.0,2022,186
+2,7:20,1.0,10.0,WAS 46,10.0,10.0,Taylor Heinicke pass complete short left to Terry McLaurin for 9 yards (tackle by Zyon Gilbert),1.99,2.67,13.0,2022,186
+2,6:43,2.0,1.0,NYG 45,10.0,10.0,Brian Robinson up the middle for 1 yard (tackle by Micah McFadden and Jihad Ward),2.67,2.65,13.0,2022,186
+2,5:58,1.0,10.0,NYG 44,10.0,10.0,Taylor Heinicke pass complete short right to Cam Sims for -2 yards (tackle by Julian Love),2.65,1.84,13.0,2022,186
+2,5:26,2.0,12.0,NYG 46,10.0,10.0,Taylor Heinicke pass complete short left to Brian Robinson for 5 yards (tackle by Fabian Moreau and Zyon Gilbert),1.84,1.82,13.0,2022,186
+2,4:50,3.0,7.0,NYG 41,10.0,10.0,"Taylor Heinicke pass incomplete deep middle intended for Terry McLaurin. Penalty on Fabian Moreau: Defensive Holding, 5 yards (accepted) (no play)",1.82,3.18,13.0,2022,186
+2,4:44,1.0,10.0,NYG 36,10.0,10.0,Antonio Gibson left guard for 6 yards (tackle by Micah McFadden and Nick McCloud),3.18,3.45,13.0,2022,186
+2,4:07,2.0,4.0,NYG 30,10.0,10.0,Antonio Gibson left guard for 6 yards (tackle by Julian Love),3.45,3.97,13.0,2022,186
+2,3:28,1.0,10.0,NYG 24,10.0,10.0,Antonio Gibson right end for no gain (tackle by Jaylon Smith and Nick McCloud),3.97,3.43,13.0,2022,186
+2,2:42,2.0,10.0,NYG 24,10.0,10.0,Taylor Heinicke pass incomplete short left intended for Antonio Gibson,3.43,2.74,13.0,2022,186
+2,2:38,3.0,10.0,NYG 24,10.0,10.0,Taylor Heinicke pass incomplete deep left intended for Terry McLaurin,2.74,1.87,13.0,2022,186
+2,2:33,4.0,10.0,NYG 24,13.0,10.0,Joey Slye 42 yard field goal good,1.87,3.0,13.0,2022,186
+2,2:28,,,WAS 35,13.0,10.0,"Joey Slye kicks off 65 yards, returned by Gary Brightwell for 25 yards (tackle by Jeremy Reaves)",0.0,0.61,13.0,2022,186
+2,2:23,1.0,10.0,NYG 25,13.0,10.0,Saquon Barkley left end for 9 yards (tackle by Jonathan Bostic),0.61,1.28,13.0,2022,186
+2,2:00,2.0,1.0,NYG 34,13.0,10.0,Daniel Jones up the middle for 4 yards (tackle by Jonathan Allen),1.28,1.47,13.0,2022,186
+2,1:39,1.0,10.0,NYG 38,13.0,10.0,Saquon Barkley up the middle for 6 yards (tackle by Christian Holmes),1.47,1.73,13.0,2022,186
+2,1:20,2.0,4.0,NYG 44,13.0,10.0,Daniel Jones pass complete short right to Saquon Barkley for 5 yards (tackle by Bobby McCain),1.73,2.19,13.0,2022,186
+2,1:14,1.0,10.0,NYG 49,13.0,10.0,Saquon Barkley right tackle for 21 yards (tackle by Christian Holmes),2.19,3.58,13.0,2022,186
+2,1:07,1.0,10.0,WAS 30,13.0,10.0,Saquon Barkley right tackle for -4 yards (tackle by Jamin Davis),3.58,2.49,13.0,2022,186
+2,0:40,2.0,14.0,WAS 34,13.0,10.0,Daniel Jones pass complete short right to Matt Breida for 4 yards (tackle by Jamin Davis),2.49,2.34,13.0,2022,186
+2,0:39,3.0,10.0,WAS 30,13.0,10.0,Daniel Jones pass complete short right to Isaiah Hodgins for 10 yards (tackle by Darrick Forrest and Percy Butler),2.34,4.24,13.0,2022,186
+2,0:30,,,,,,Timeout #1 by New York Giants,,,13.0,2022,186
+2,0:30,1.0,10.0,WAS 20,13.0,10.0,Daniel Jones up the middle for 2 yards (tackle by Jonathan Allen),4.24,3.96,13.0,2022,186
+2,0:26,,,,,,Timeout #2 by New York Giants,,,13.0,2022,186
+2,0:26,2.0,8.0,WAS 18,13.0,10.0,Daniel Jones pass complete short middle to Richie James for 7 yards (tackle by Kamren Curl),3.96,4.59,13.0,2022,186
+2,0:19,,,,,,Timeout #3 by New York Giants,,,13.0,2022,186
+2,0:19,3.0,1.0,WAS 11,13.0,10.0,Daniel Jones right end for 2 yards (tackle by Kamren Curl),4.59,5.14,13.0,2022,186
+2,0:06,1.0,9.0,WAS 9,13.0,10.0,Daniel Jones spiked the ball,5.14,4.38,13.0,2022,186
+2,0:05,2.0,9.0,WAS 9,13.0,13.0,Graham Gano 27 yard field goal good,4.38,3.0,13.0,2022,186
+2,0:02,,,NYG 35,13.0,13.0,"Graham Gano kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,186
+2,0:02,1.0,10.0,WAS 25,13.0,13.0,Taylor Heinicke kneels for -1 yards,0.61,-0.07,13.0,2022,186
+3,15:00,,,NYG 35,13.0,13.0,"Graham Gano kicks off 66 yards, returned by Antonio Gibson for 24 yards (tackle by Tae Crowder and Matt Breida)",0.0,0.48,13.0,2022,186
+3,14:55,1.0,10.0,WAS 23,13.0,13.0,Curtis Samuel right tackle for 2 yards (tackle by Dexter Lawrence),0.48,0.2,13.0,2022,186
+3,14:26,2.0,8.0,WAS 25,13.0,13.0,Taylor Heinicke pass incomplete deep right intended for Jahan Dotson,0.2,-0.49,13.0,2022,186
+3,14:20,3.0,8.0,WAS 25,13.0,13.0,"Taylor Heinicke sacked by Azeez Ojulari for -2 yards. Taylor Heinicke fumbles (forced by Azeez Ojulari), recovered by Oshane Ximines at WAS-23 and returned for 1 yard. Oshane Ximines fumbles (forced by Taylor Heinicke), recovered by Azeez Ojulari at WAS-20 and returned for -5 yards",-0.49,-3.91,13.0,2022,186
+3,14:11,1.0,10.0,WAS 25,13.0,13.0,Saquon Barkley right guard for 1 yard (tackle by Jonathan Bostic),3.91,3.96,13.0,2022,186
+3,13:35,2.0,8.0,WAS 18,13.0,13.0,Daniel Jones pass complete to Daniel Bellinger for 5 yards (tackle by Jamin Davis),3.96,3.89,13.0,2022,186
+3,12:59,3.0,4.0,WAS 14,13.0,13.0,Daniel Jones left end for 7 yards (tackle by Jonathan Allen),3.89,5.6,13.0,2022,186
+3,12:16,1.0,7.0,WAS 7,13.0,13.0,Saquon Barkley left tackle for 1 yard (tackle by Jonathan Allen and Darrick Forrest),5.6,4.95,13.0,2022,186
+3,11:40,2.0,6.0,WAS 6,13.0,19.0,"Daniel Jones pass complete short left to Isaiah Hodgins for 6 yards, touchdown",4.95,7.0,13.0,2022,186
+3,11:34,,,WAS 15,13.0,20.0,Graham Gano kicks extra point good,0.0,0.0,13.0,2022,186
+3,11:34,,,NYG 35,13.0,20.0,"Graham Gano kicks off 63 yards, (tackle by Carter Coughlin and Marcus Johnson) returned by Antonio Gibson for 3 yards",0.0,-0.38,13.0,2022,186
+3,11:28,1.0,10.0,WAS 5,13.0,20.0,Brian Robinson up the middle for 5 yards (tackle by Leonard Williams and Micah McFadden),-0.38,-0.42,13.0,2022,186
+3,10:36,2.0,5.0,WAS 10,13.0,20.0,Brian Robinson left guard for 12 yards (tackle by Julian Love),-0.42,0.41,13.0,2022,186
+3,10:10,1.0,10.0,WAS 22,13.0,20.0,Brian Robinson left end for 5 yards (tackle by Zyon Gilbert),0.41,0.54,13.0,2022,186
+3,9:30,2.0,5.0,WAS 27,13.0,20.0,Antonio Gibson right guard for 3 yards (tackle by Kayvon Thibodeaux),0.54,0.23,13.0,2022,186
+3,8:46,3.0,2.0,WAS 30,13.0,20.0,Brian Robinson right guard for 2 yards (tackle by Dexter Lawrence and Vernon Butler),0.23,1.07,13.0,2022,186
+3,8:05,1.0,10.0,WAS 32,13.0,20.0,Brian Robinson right guard for 2 yards (tackle by Dexter Lawrence and Henry Mondeaux),1.07,0.8,13.0,2022,186
+3,7:24,2.0,8.0,WAS 34,13.0,20.0,"Penalty on Logan Thomas: False Start, 5 yards (accepted) (no play)",0.8,0.12,13.0,2022,186
+3,7:01,2.0,13.0,WAS 29,13.0,20.0,Taylor Heinicke pass complete short left to Terry McLaurin for 15 yards (tackle by Tony Jefferson and Fabian Moreau),0.12,1.86,13.0,2022,186
+3,6:20,1.0,10.0,WAS 44,13.0,20.0,Antonio Gibson right guard for 4 yards (tackle by Vernon Butler),1.86,1.99,13.0,2022,186
+3,5:41,2.0,5.0,WAS 49,13.0,20.0,"Curtis Samuel left end for no gain (tackle by Nick McCloud). Penalty on Logan Thomas: Offensive Illegal Block Above the Waist, 10 yards (accepted)",1.99,0.51,13.0,2022,186
+3,5:06,2.0,16.0,WAS 38,13.0,20.0,"Taylor Heinicke sacked by Jihad Ward for -5 yards. Taylor Heinicke fumbles (forced by Jihad Ward), recovered by Tyler Larsen at WAS-33 and returned for 5 yards",0.51,-0.82,13.0,2022,186
+3,4:24,3.0,21.0,WAS 33,13.0,20.0,Taylor Heinicke pass complete short right to Curtis Samuel for 10 yards (tackle by Tony Jefferson),-0.82,-0.52,13.0,2022,186
+3,3:42,4.0,11.0,WAS 43,13.0,20.0,"Tress Way punts 42 yards, fair catch by Richie James at NYG-15",-0.52,0.22,13.0,2022,186
+3,3:34,1.0,10.0,NYG 15,13.0,20.0,Daniel Jones pass complete short left to Daniel Bellinger for 8 yards (tackle by Jonathan Allen and Kendall Fuller),-0.22,0.48,13.0,2022,186
+3,2:55,2.0,2.0,NYG 23,13.0,20.0,Saquon Barkley right tackle for no gain (tackle by Daron Payne),0.48,-0.39,13.0,2022,186
+3,2:11,3.0,2.0,NYG 23,13.0,20.0,Daniel Jones scrambles right tackle for 1 yard (tackle by Kamren Curl),-0.39,-1.77,13.0,2022,186
+3,1:30,4.0,1.0,NYG 24,13.0,20.0,"Jamie Gillan punts 56 yards, returned by Alex Erickson for 6 yards (tackle by Zyon Gilbert and Gary Brightwell)",-1.77,-0.67,13.0,2022,186
+3,1:18,1.0,10.0,WAS 26,13.0,20.0,Taylor Heinicke scrambles right end for 7 yards (tackle by Julian Love),0.67,1.07,13.0,2022,186
+3,0:40,2.0,3.0,WAS 33,13.0,20.0,Brian Robinson right end for 5 yards (tackle by Vernon Butler),1.07,1.47,13.0,2022,186
+3,0:01,1.0,10.0,WAS 38,13.0,20.0,Brian Robinson left end for 4 yards (tackle by Julian Love),1.47,1.46,13.0,2022,186
+4,15:00,2.0,6.0,WAS 42,13.0,20.0,Brian Robinson up the middle for 11 yards (tackle by Julian Love and Jason Pinnock),1.46,2.46,13.0,2022,186
+4,14:20,1.0,10.0,NYG 47,13.0,20.0,Taylor Heinicke pass complete short left to Terry McLaurin for 12 yards (tackle by Fabian Moreau),2.46,3.25,13.0,2022,186
+4,13:36,1.0,10.0,NYG 35,13.0,20.0,Taylor Heinicke pass complete short left to Antonio Gibson for 8 yards (tackle by Micah McFadden),3.25,3.78,13.0,2022,186
+4,13:25,2.0,2.0,NYG 27,13.0,20.0,Taylor Heinicke pass complete short right to Jahan Dotson for 1 yard (tackle by Nick McCloud),3.78,3.2,13.0,2022,186
+4,12:46,3.0,1.0,NYG 26,13.0,20.0,Brian Robinson left guard for 1 yard (tackle by Julian Love and Dexter Lawrence),3.2,3.91,13.0,2022,186
+4,12:01,1.0,10.0,NYG 25,13.0,20.0,"Brian Robinson for no gain. Penalty on Cole Turner: Offensive Holding, 10 yards (accepted) (no play)",3.91,3.25,13.0,2022,186
+4,11:36,1.0,20.0,NYG 35,13.0,20.0,Taylor Heinicke pass complete short left to Logan Thomas for 7 yards (tackle by Julian Love),3.25,2.96,13.0,2022,186
+4,10:57,2.0,13.0,NYG 28,13.0,20.0,Taylor Heinicke pass incomplete short right intended for Jahan Dotson (defended by Nick McCloud),2.96,2.28,13.0,2022,186
+4,10:52,3.0,13.0,NYG 28,13.0,20.0,Taylor Heinicke sacked by Dexter Lawrence for -6 yards,2.28,1.06,13.0,2022,186
+4,10:12,4.0,19.0,NYG 34,13.0,20.0,Joey Slye 52 yard field goal no good,1.06,-1.73,13.0,2022,186
+4,10:06,1.0,10.0,NYG 42,13.0,20.0,Saquon Barkley left guard for -1 yards (tackle by Kamren Curl),1.73,1.19,13.0,2022,186
+4,9:30,2.0,10.0,NYG 42,13.0,20.0,"Daniel Jones pass complete to Nick Vannett for no gain. Penalty on Daniel Bellinger: Offensive Holding, 9 yards (accepted) (no play)",1.19,-0.16,13.0,2022,186
+4,9:01,2.0,20.0,NYG 32,13.0,20.0,Daniel Jones pass complete short middle to Daniel Bellinger for 4 yards (tackle by Kamren Curl),-0.16,-0.29,13.0,2022,186
+4,8:20,3.0,16.0,NYG 36,13.0,20.0,"Daniel Jones pass complete short right to Darius Slayton for 1 yard (tackle by Kendall Fuller). Penalty on Nick Gates: Ineligible Downfield Pass, 5 yards (declined)",-0.29,-0.98,13.0,2022,186
+4,8:00,4.0,16.0,NYG 36,13.0,20.0,"Jamie Gillan punts 59 yards, returned by Alex Erickson for 13 yards (tackle by Chris Myarick). Penalty on Rachad Wildgoose: Defensive Offside, 5 yards (declined) . Penalty on Rachad Wildgoose: Offensive Holding, 8 yards (accepted)",-0.98,0.38,13.0,2022,186
+4,7:48,1.0,10.0,WAS 9,13.0,20.0,"Brian Robinson for no gain. Penalty on Charles Leno: Offensive Holding, 5 yards (accepted) (no play)",-0.38,-0.53,13.0,2022,186
+4,7:20,1.0,14.0,WAS 5,13.0,20.0,Taylor Heinicke pass incomplete deep middle intended for Terry McLaurin,-0.53,-1.07,13.0,2022,186
+4,7:19,2.0,14.0,WAS 5,13.0,20.0,Taylor Heinicke pass complete short right to Logan Thomas for 2 yards (tackle by Nick McCloud),-1.07,-1.77,13.0,2022,186
+4,6:39,3.0,13.0,WAS 6,13.0,20.0,Taylor Heinicke pass incomplete deep middle intended for Curtis Samuel,-1.77,-2.49,13.0,2022,186
+4,6:33,4.0,13.0,WAS 6,13.0,20.0,"Tress Way punts 53 yards, returned by Richie James for 12 yards (tackle by Jonathan Williams)",-2.49,-2.46,13.0,2022,186
+4,6:22,1.0,10.0,WAS 47,13.0,20.0,Daniel Jones pass complete short right to Darius Slayton for 12 yards (tackle by Danny Johnson and Jamin Davis),2.46,3.25,13.0,2022,186
+4,5:57,1.0,10.0,WAS 35,13.0,20.0,"Penalty on Jon Feliciano: Taunting / Offense, 15 yards (accepted) (no play)",3.25,2.26,13.0,2022,186
+4,5:57,1.0,25.0,WAS 50,13.0,20.0,Daniel Jones pass complete short left to Darius Slayton for 3 yards (tackle by Jamin Davis),2.26,1.08,13.0,2022,186
+4,5:12,2.0,22.0,WAS 47,13.0,20.0,Saquon Barkley left end for no gain (tackle by John Ridgeway and Kamren Curl),1.08,0.43,13.0,2022,186
+4,4:31,3.0,22.0,WAS 47,13.0,20.0,Daniel Jones sacked by Danny Johnson for -2 yards,0.43,0.0,13.0,2022,186
+4,3:49,4.0,24.0,WAS 49,13.0,20.0,"Jamie Gillan punts 39 yards, fair catch by Alex Erickson at WAS-10",0.0,0.38,13.0,2022,186
+4,3:43,1.0,10.0,WAS 10,13.0,20.0,Taylor Heinicke pass complete short left to Terry McLaurin for 11 yards (tackle by Fabian Moreau),-0.38,0.34,13.0,2022,186
+4,3:21,1.0,10.0,WAS 21,13.0,20.0,Taylor Heinicke pass complete short middle to Curtis Samuel for 6 yards (tackle by Julian Love),0.34,0.61,13.0,2022,186
+4,2:57,2.0,4.0,WAS 27,13.0,20.0,Taylor Heinicke pass incomplete deep right intended for Jahan Dotson (defended by Nick McCloud),0.61,-0.1,13.0,2022,186
+4,2:50,3.0,4.0,WAS 27,13.0,20.0,Taylor Heinicke pass incomplete short middle intended for Jahan Dotson (defended by Azeez Ojulari),-0.1,-1.57,13.0,2022,186
+4,2:47,4.0,4.0,WAS 27,13.0,20.0,Taylor Heinicke pass complete deep left to Curtis Samuel for 20 yards (tackle by Cordale Flott),-1.57,2.06,13.0,2022,186
+4,2:08,1.0,10.0,WAS 47,13.0,20.0,Taylor Heinicke pass complete short right to Jahan Dotson for no gain (tackle by Zyon Gilbert),2.06,1.52,13.0,2022,186
+4,2:00,2.0,10.0,WAS 47,13.0,20.0,Taylor Heinicke pass complete deep left to Curtis Samuel for 25 yards (tackle by Julian Love),1.52,3.71,13.0,2022,186
+4,1:53,1.0,10.0,NYG 28,19.0,20.0,"Taylor Heinicke pass complete short middle to Jahan Dotson for 28 yards, touchdown",3.71,7.0,13.0,2022,186
+4,1:45,,,NYG 15,20.0,20.0,Joey Slye kicks extra point good,0.0,0.0,13.0,2022,186
+4,1:45,,,WAS 35,20.0,20.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.61,13.0,2022,186
+4,1:45,1.0,10.0,NYG 25,20.0,20.0,Daniel Jones pass incomplete deep middle intended for Darius Slayton,0.61,0.06,13.0,2022,186
+4,1:39,2.0,10.0,NYG 25,20.0,20.0,Daniel Jones pass incomplete deep right intended for Darius Slayton (defended by Danny Johnson),0.06,-0.62,13.0,2022,186
+4,1:33,3.0,10.0,NYG 25,20.0,20.0,Daniel Jones pass incomplete deep middle intended for Isaiah Hodgins (defended by Danny Johnson),-0.62,-1.7,13.0,2022,186
+4,1:28,4.0,10.0,NYG 25,20.0,20.0,"Jamie Gillan punts 51 yards, returned by Alex Erickson for no gain (tackle by Tae Crowder). Penalty on Percy Butler: Unnecessary Roughness / Defense, 12 yards (accepted)",-1.7,0.35,13.0,2022,186
+4,1:17,1.0,10.0,WAS 12,20.0,20.0,Antonio Gibson right end for 7 yards (tackle by Nick McCloud),-0.35,0.1,13.0,2022,186
+4,0:52,2.0,3.0,WAS 19,20.0,20.0,Taylor Heinicke pass complete short left to Terry McLaurin for 7 yards (tackle by Fabian Moreau),0.1,0.67,13.0,2022,186
+4,0:44,1.0,10.0,WAS 26,20.0,20.0,Taylor Heinicke pass complete short middle to Antonio Gibson for 12 yards (tackle by Tony Jefferson and Julian Love),0.67,1.47,13.0,2022,186
+4,0:39,,,,,,Timeout #1 by Washington Commanders,,,13.0,2022,186
+4,0:39,1.0,10.0,WAS 38,20.0,20.0,Taylor Heinicke pass incomplete deep right intended for Terry McLaurin,1.47,0.92,13.0,2022,186
+4,0:35,2.0,10.0,WAS 38,20.0,20.0,Taylor Heinicke pass incomplete deep right intended for Terry McLaurin (defended by Jason Pinnock),0.92,0.23,13.0,2022,186
+4,0:29,3.0,10.0,WAS 38,20.0,20.0,Taylor Heinicke pass incomplete short left intended for Cam Sims (defended by Fabian Moreau),0.23,-0.85,13.0,2022,186
+4,0:23,4.0,10.0,WAS 38,20.0,20.0,Tress Way punts 46 yards out of bounds,-0.85,0.14,13.0,2022,186
+4,0:13,1.0,10.0,NYG 16,20.0,20.0,Daniel Jones kneels for -1 yards,-0.14,0.0,13.0,2022,186
+,,,,,,,"Giants won the coin toss, Giants to receive the overtime kickoff.",,,13.0,2022,186
+OT,10:00,,,WAS 35,20.0,20.0,"Joey Slye kicks off 57 yards, returned by Gary Brightwell for 19 yards (tackle by David Mayo and Jeremy Reaves)",0.0,0.74,13.0,2022,186
+OT,9:56,1.0,10.0,NYG 27,20.0,20.0,Daniel Jones pass complete short right to Darius Slayton for 11 yards (tackle by Danny Johnson),0.74,1.47,13.0,2022,186
+OT,9:33,1.0,10.0,NYG 38,20.0,20.0,Saquon Barkley left end for -3 yards (tackle by Jonathan Allen and Casey Toohill),1.47,0.52,13.0,2022,186
+OT,8:57,2.0,13.0,NYG 35,20.0,20.0,Daniel Jones scrambles up the middle for 8 yards (tackle by Kamren Curl),0.52,0.89,13.0,2022,186
+OT,8:09,3.0,5.0,NYG 43,20.0,20.0,Daniel Jones sacked by Daron Payne for -7 yards,0.89,-0.98,13.0,2022,186
+OT,7:40,4.0,12.0,NYG 36,20.0,20.0,Jamie Gillan punts 31 yards out of bounds,-0.98,-1.14,13.0,2022,186
+OT,7:33,1.0,10.0,WAS 33,20.0,20.0,Brian Robinson right guard for 2 yards (tackle by Dexter Lawrence and Justin Ellis),1.14,0.86,13.0,2022,186
+OT,6:57,2.0,8.0,WAS 35,20.0,20.0,Curtis Samuel right guard for 21 yards (tackle by Nick McCloud),0.86,2.65,13.0,2022,186
+OT,6:16,1.0,10.0,NYG 44,20.0,20.0,Brian Robinson left end for 3 yards (tackle by Jaylon Smith and Kayvon Thibodeaux),2.65,2.52,13.0,2022,186
+OT,5:32,2.0,7.0,NYG 41,20.0,20.0,Brian Robinson left tackle for -3 yards (tackle by Oshane Ximines and Tony Jefferson),2.52,1.49,13.0,2022,186
+OT,4:52,3.0,9.0,NYG 44,20.0,20.0,Taylor Heinicke pass complete short right to Curtis Samuel for 1 yard (tackle by Fabian Moreau and Cordale Flott),1.49,0.4,13.0,2022,186
+OT,4:12,4.0,8.0,NYG 43,20.0,20.0,"Tress Way punts 29 yards, returned by Richie James for no gain (tackle by Percy Butler)",0.4,0.28,13.0,2022,186
+OT,4:04,1.0,10.0,NYG 14,20.0,20.0,Daniel Jones pass complete short right to Saquon Barkley for 7 yards (tackle by Danny Johnson),-0.28,0.28,13.0,2022,186
+OT,3:35,2.0,3.0,NYG 21,20.0,20.0,Saquon Barkley left guard for 5 yards (tackle by Jamin Davis),0.28,0.67,13.0,2022,186
+OT,3:04,1.0,10.0,NYG 26,20.0,20.0,Daniel Jones pass complete short middle to Isaiah Hodgins for 10 yards (tackle by Kamren Curl and Jonathan Bostic),0.67,1.33,13.0,2022,186
+OT,2:27,1.0,10.0,NYG 36,20.0,20.0,Daniel Jones pass complete short middle to Isaiah Hodgins for 12 yards (tackle by Kamren Curl),1.33,2.13,13.0,2022,186
+OT,2:00,1.0,10.0,NYG 48,20.0,20.0,Daniel Jones pass complete short left to Daniel Bellinger for 4 yards (tackle by Darrick Forrest),2.13,2.12,13.0,2022,186
+OT,1:55,2.0,6.0,WAS 48,20.0,20.0,Daniel Jones pass complete short left to Saquon Barkley for 3 yards (tackle by Danny Johnson),2.12,1.95,13.0,2022,186
+OT,1:50,3.0,2.0,WAS 44,20.0,20.0,Daniel Jones sacked by Jonathan Allen for no gain,1.95,0.27,13.0,2022,186
+OT,1:42,,,,,,Timeout #1 by Washington Commanders,,,13.0,2022,186
+OT,1:42,4.0,3.0,WAS 45,20.0,20.0,"Penalty on NYG: Delay of Game, 5 yards (accepted) (no play)",0.27,-0.06,13.0,2022,186
+OT,1:42,4.0,8.0,WAS 50,20.0,20.0,"Jamie Gillan punts 40 yards, fair catch by Alex Erickson at WAS-10",-0.06,0.38,13.0,2022,186
+OT,1:36,1.0,10.0,WAS 10,20.0,20.0,Taylor Heinicke sacked by Kayvon Thibodeaux for -8 yards,-0.38,-1.36,13.0,2022,186
+OT,1:28,,,,,,Timeout #1 by New York Giants,,,13.0,2022,186
+OT,1:28,2.0,18.0,WAS 2,20.0,20.0,Brian Robinson left end for 8 yards. Brian Robinson fumbles (forced by Micah McFadden). Brian Robinson fumbles out of bounds,-1.36,-1.42,13.0,2022,186
+OT,1:23,,,,,,Timeout #2 by New York Giants,,,13.0,2022,186
+OT,1:23,3.0,10.0,WAS 10,20.0,20.0,Antonio Gibson up the middle for 5 yards (tackle by Dexter Lawrence),-1.42,-2.44,13.0,2022,186
+OT,0:37,,,,,,Timeout #2 by Washington Commanders,,,13.0,2022,186
+OT,0:37,4.0,5.0,WAS 15,20.0,20.0,"Tress Way punts 48 yards, returned by Richie James for 6 yards (tackle by Jeremy Reaves and David Mayo)",-2.44,-1.8,13.0,2022,186
+OT,0:28,1.0,10.0,NYG 43,20.0,20.0,Daniel Jones pass complete short middle to Richie James for 14 yards (tackle by Bobby McCain),1.8,2.59,13.0,2022,186
+OT,0:16,1.0,10.0,WAS 45,20.0,20.0,Daniel Jones spiked the ball,2.59,2.18,13.0,2022,186
+OT,0:15,2.0,10.0,WAS 43,20.0,20.0,Daniel Jones pass complete short right to Daniel Bellinger for 3 yards (tackle by Danny Johnson),2.18,1.88,13.0,2022,186
+OT,0:10,3.0,7.0,WAS 40,20.0,20.0,Daniel Jones pass incomplete short right,1.88,0.59,13.0,2022,186
+OT,0:05,4.0,7.0,WAS 40,20.0,20.0,Graham Gano 58 yard field goal no good,0.59,0.0,13.0,2022,186

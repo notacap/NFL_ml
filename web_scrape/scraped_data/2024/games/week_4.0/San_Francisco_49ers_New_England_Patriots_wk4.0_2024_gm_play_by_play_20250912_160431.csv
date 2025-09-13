@@ -1,0 +1,165 @@
+Quarter,Time,Down,ToGo,Location,NWE,SFO,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"49ers won the coin toss and deferred, Patriots to receive the opening kickoff.",,,4.0,2024,59
+1.0,15:00,,,SFO 35,0.0,0.0,"Jake Moody kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,59
+1.0,15:00,1.0,10.0,NWE 30,0.0,0.0,Rhamondre Stevenson right guard for 1 yard (tackle by De'Vondre Campbell and Fred Warner),0.94,0.53,4.0,2024,59
+1.0,14:23,2.0,9.0,NWE 31,0.0,0.0,Rhamondre Stevenson right guard for 3 yards (tackle by Malik Mustapha and Fred Warner),0.53,0.23,4.0,2024,59
+1.0,13:42,3.0,6.0,NWE 34,0.0,0.0,Jacoby Brissett pass complete short right to Rhamondre Stevenson for 7 yards (tackle by Charvarius Ward),0.23,1.66,4.0,2024,59
+1.0,13:06,1.0,10.0,NWE 41,0.0,0.0,Jacoby Brissett pass incomplete short right intended for K.J. Osborn (defended by Charvarius Ward),1.66,1.12,4.0,2024,59
+1.0,13:03,2.0,10.0,NWE 41,0.0,0.0,Antonio Gibson up the middle for 3 yards (tackle by Fred Warner),1.12,0.83,4.0,2024,59
+1.0,12:25,3.0,7.0,NWE 44,0.0,0.0,Jacoby Brissett pass complete short right to Demario Douglas for 8 yards,0.83,2.39,4.0,2024,59
+1.0,11:50,1.0,10.0,SFO 48,0.0,0.0,Antonio Gibson left guard for -1 yards (tackle by Ji'Ayir Brown and Deommodore Lenoir),2.39,1.71,4.0,2024,59
+1.0,11:07,2.0,11.0,SFO 49,0.0,0.0,Rhamondre Stevenson right tackle for 8 yards (tackle by Charvarius Ward),1.71,2.08,4.0,2024,59
+1.0,10:24,3.0,3.0,SFO 41,0.0,0.0,Jacoby Brissett pass incomplete short left intended for K.J. Osborn (defended by Isaac Yiadom),2.08,0.53,4.0,2024,59
+1.0,10:20,4.0,3.0,SFO 41,0.0,0.0,"Penalty on Jacoby Brissett: Delay of Game, 5 yards (accepted) (no play)",0.53,0.2,4.0,2024,59
+1.0,10:20,4.0,8.0,SFO 46,0.0,0.0,Bryce Baringer punts 39 yards downed by Brenden Schooler,0.2,0.38,4.0,2024,59
+1.0,10:11,1.0,10.0,SFO 7,0.0,0.0,Deebo Samuel left tackle for 6 yards (tackle by Kyle Dugger and Jahlani Tavai),-0.38,-0.34,4.0,2024,59
+1.0,9:28,2.0,4.0,SFO 13,0.0,0.0,Jordan Mason right tackle for 1 yard (tackle by Josh Uche),-0.34,-0.6,4.0,2024,59
+1.0,8:54,3.0,3.0,SFO 14,0.0,0.0,Brock Purdy scrambles left end for 7 yards (tackle by Josh Uche),-0.6,0.34,4.0,2024,59
+1.0,8:21,1.0,10.0,SFO 21,0.0,0.0,Deebo Samuel right end for 8 yards (tackle by Jabrill Peppers),0.34,0.88,4.0,2024,59
+1.0,7:40,2.0,2.0,SFO 29,0.0,0.0,Brock Purdy pass complete deep right to Brandon Aiyuk for 38 yards (tackle by Christian Gonzalez),0.88,3.38,4.0,2024,59
+1.0,6:56,1.0,10.0,NWE 33,0.0,0.0,Jordan Mason right end for 6 yards (tackle by Eric Johnson),3.38,3.65,4.0,2024,59
+1.0,6:12,2.0,4.0,NWE 27,0.0,0.0,Brock Purdy pass incomplete short middle intended for Chris Conley (defended by Jabrill Peppers),3.65,2.94,4.0,2024,59
+1.0,6:08,,,,,,Timeout #1 by San Francisco 49ers,,,4.0,2024,59
+1.0,6:08,3.0,4.0,NWE 27,0.0,0.0,Brock Purdy scrambles left end for 5 yards (tackle by Raekwon McMillan),2.94,4.11,4.0,2024,59
+1.0,5:31,1.0,10.0,NWE 22,0.0,0.0,Jordan Mason right end for 1 yard (tackle by Raekwon McMillan),4.11,3.7,4.0,2024,59
+1.0,4:47,2.0,9.0,NWE 21,0.0,0.0,Brock Purdy pass incomplete short left intended for Jauan Jennings,3.7,3.01,4.0,2024,59
+1.0,4:43,3.0,9.0,NWE 21,0.0,0.0,Brock Purdy pass complete short left to George Kittle for 15 yards (tackle by Jaylinn Hawkins),3.01,5.83,4.0,2024,59
+1.0,3:53,1.0,6.0,NWE 6,0.0,0.0,Jordan Mason left guard for 1 yard (tackle by Jeremiah Pharms),5.83,5.15,4.0,2024,59
+1.0,3:13,2.0,5.0,NWE 5,0.0,0.0,Brock Purdy pass complete short left to Deebo Samuel for 2 yards (tackle by Christian Gonzalez),5.15,4.72,4.0,2024,59
+1.0,2:33,3.0,3.0,NWE 3,0.0,0.0,Brock Purdy pass incomplete short right intended for Jauan Jennings,4.72,3.04,4.0,2024,59
+1.0,2:29,4.0,3.0,NWE 3,0.0,3.0,Jake Moody 22 yard field goal good,3.04,3.0,4.0,2024,59
+1.0,2:26,,,SFO 35,0.0,3.0,"Jake Moody kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,59
+1.0,2:26,1.0,10.0,NWE 30,0.0,3.0,"Rhamondre Stevenson up the middle for no gain. Rhamondre Stevenson fumbles (forced by Sam Okuayinonu), recovered by Maliek Collins at NE-30",0.94,-3.58,4.0,2024,59
+1.0,2:15,1.0,10.0,NWE 30,0.0,3.0,Jordan Mason right tackle for 16 yards (tackle by Christian Gonzalez),3.58,4.65,4.0,2024,59
+1.0,1:37,1.0,10.0,NWE 14,0.0,3.0,Jordan Mason left guard for 5 yards (tackle by Daniel Ekuale),4.65,4.9,4.0,2024,59
+1.0,0:57,2.0,5.0,NWE 9,0.0,3.0,Jordan Mason left guard for 1 yard (tackle by Kyle Dugger and Deatrich Wise),4.9,4.28,4.0,2024,59
+1.0,0:19,3.0,4.0,NWE 8,0.0,3.0,Brock Purdy pass incomplete short right intended for Deebo Samuel (defended by Marco Wilson),4.28,2.98,4.0,2024,59
+1.0,0:08,4.0,4.0,NWE 8,0.0,6.0,Jake Moody 26 yard field goal good,2.98,3.0,4.0,2024,59
+1.0,0:06,,,SFO 35,0.0,6.0,"Jake Moody kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,59
+1.0,0:06,1.0,10.0,NWE 30,0.0,6.0,Jacoby Brissett pass complete short right to Ja'Lynn Polk for no gain (tackle by Deommodore Lenoir),0.94,0.39,4.0,2024,59
+2.0,15:00,2.0,10.0,NWE 30,0.0,6.0,Antonio Gibson right end for 5 yards (tackle by Fred Warner),0.39,0.37,4.0,2024,59
+2.0,14:15,3.0,5.0,NWE 35,0.0,12.0,"Jacoby Brissett pass short middle intended for Tyquan Thornton is intercepted by Fred Warner at NE-45 and returned for 45 yards, touchdown",0.37,-7.0,4.0,2024,59
+2.0,14:01,,,NWE 15,0.0,13.0,Jake Moody kicks extra point good,0.0,0.0,4.0,2024,59
+2.0,14:01,,,SFO 35,0.0,13.0,"Jake Moody kicks off 65 yards, returned by Jamycal Hasty for 30 yards (tackle by Jaylen Mahoney)",0.0,0.94,4.0,2024,59
+2.0,13:56,1.0,10.0,NWE 30,0.0,13.0,Rhamondre Stevenson right guard for 4 yards (tackle by Leonard Floyd and De'Vondre Campbell),0.94,0.93,4.0,2024,59
+2.0,13:19,2.0,6.0,NWE 34,0.0,13.0,Jacoby Brissett pass complete short right to Austin Hooper for 8 yards (tackle by De'Vondre Campbell),0.93,1.73,4.0,2024,59
+2.0,12:43,1.0,10.0,NWE 42,0.0,13.0,Jacoby Brissett sacked by Kevin Givens for -4 yards,1.73,0.65,4.0,2024,59
+2.0,12:16,2.0,14.0,NWE 38,0.0,13.0,Jacoby Brissett pass complete short right to Kayshon Boutte for 11 yards (tackle by Fred Warner),0.65,1.42,4.0,2024,59
+2.0,11:39,3.0,3.0,NWE 49,0.0,13.0,Jacoby Brissett pass complete short middle to Hunter Henry for 8 yards (tackle by Ji'Ayir Brown),1.42,2.72,4.0,2024,59
+2.0,11:00,1.0,10.0,SFO 43,0.0,13.0,Jamycal Hasty left guard for 9 yards (tackle by Malik Mustapha),2.72,3.39,4.0,2024,59
+2.0,10:23,2.0,1.0,SFO 34,0.0,13.0,Jamycal Hasty up the middle for no gain (tackle by Leonard Floyd),3.39,2.68,4.0,2024,59
+2.0,10:01,3.0,1.0,SFO 34,0.0,13.0,"Jacoby Brissett up the middle for no gain (tackle by Jordan Elliott). Penalty on Fred Warner: Defensive Too Many Men on Field, 5 yards (accepted) (no play)",2.68,3.64,4.0,2024,59
+2.0,9:47,1.0,10.0,SFO 29,0.0,13.0,Jacoby Brissett pass incomplete short left intended for Ja'Lynn Polk (defended by Deommodore Lenoir),3.64,3.1,4.0,2024,59
+2.0,9:42,2.0,10.0,SFO 29,0.0,13.0,Jacoby Brissett sacked by Kevin Givens for no gain,3.1,2.41,4.0,2024,59
+2.0,8:56,3.0,10.0,SFO 29,0.0,13.0,Jacoby Brissett pass complete short right to Ja'Lynn Polk for 9 yards (tackle by Charvarius Ward),2.41,2.27,4.0,2024,59
+2.0,8:11,,,,,,Timeout #1 by New England Patriots,,,4.0,2024,59
+2.0,8:11,4.0,1.0,SFO 20,0.0,13.0,Rhamondre Stevenson up the middle for no gain (tackle by Ji'Ayir Brown and Fred Warner),2.27,-0.28,4.0,2024,59
+2.0,8:07,1.0,10.0,SFO 20,0.0,13.0,Brock Purdy pass complete short middle to George Kittle for 11 yards (tackle by Raekwon McMillan and Jabrill Peppers),0.28,1.0,4.0,2024,59
+2.0,7:29,1.0,10.0,SFO 31,0.0,13.0,Brock Purdy sacked by Deatrich Wise for -5 yards,1.0,-0.22,4.0,2024,59
+2.0,6:39,2.0,15.0,SFO 26,0.0,13.0,Brock Purdy pass complete deep left to Jauan Jennings for 32 yards (tackle by Christian Gonzalez),-0.22,2.79,4.0,2024,59
+2.0,5:57,1.0,10.0,NWE 42,0.0,13.0,Jordan Mason left guard for 4 yards (tackle by Raekwon McMillan),2.79,2.78,4.0,2024,59
+2.0,5:18,2.0,6.0,NWE 38,0.0,13.0,"Brock Purdy pass complete short middle to Jordan Mason for 24 yards, touchdown. Penalty on George Kittle: Offensive Holding, 10 yards (accepted)",2.78,3.97,4.0,2024,59
+2.0,5:07,1.0,10.0,NWE 24,0.0,13.0,"Isaac Guerendo left guard for no gain (tackle by Deatrich Wise). Penalty on Deebo Samuel: Illegal Motion, 5 yards (declined)",3.97,3.43,4.0,2024,59
+2.0,4:47,2.0,10.0,NWE 24,0.0,13.0,Brock Purdy pass complete short right to Kyle Juszczyk for 12 yards (tackle by Josh Uche),3.43,4.78,4.0,2024,59
+2.0,4:12,1.0,10.0,NWE 12,0.0,13.0,Jordan Mason right end for 5 yards (tackle by Jaylinn Hawkins),4.78,5.02,4.0,2024,59
+2.0,3:37,,,,,,Timeout #2 by New England Patriots,,,4.0,2024,59
+2.0,3:37,2.0,5.0,NWE 7,0.0,13.0,"Brock Purdy pass complete short left to Kyle Juszczyk for no gain, touchdown. Penalty on Kyle Juszczyk: Illegal Shift, 5 yards (accepted) (no play)",5.02,4.1,4.0,2024,59
+2.0,3:27,2.0,10.0,NWE 12,0.0,13.0,"Brock Purdy pass incomplete short left. Penalty on Jake Brendel: Ineligible Downfield Pass, 5 yards (declined) . Penalty on Brock Purdy: Ineligible Downfield Pass, 5 yards (declined) . Penalty on Jake Brendel: Ineligible Downfield Pass, 5 yards (declined) . Penalty on Brock Purdy: Ineligible Downfield Pass, 5 yards (declined)",4.1,3.12,4.0,2024,59
+2.0,3:18,3.0,10.0,NWE 12,0.0,19.0,"Brock Purdy pass complete short left to George Kittle for 12 yards, touchdown",3.12,7.0,4.0,2024,59
+2.0,3:11,,,NWE 15,0.0,20.0,Jake Moody kicks extra point good,0.0,0.0,4.0,2024,59
+2.0,3:11,,,SFO 35,0.0,20.0,"Jake Moody kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,59
+2.0,3:11,1.0,10.0,NWE 30,0.0,20.0,Rhamondre Stevenson right end for 5 yards (tackle by Fred Warner),0.94,1.07,4.0,2024,59
+2.0,2:34,2.0,5.0,NWE 35,0.0,20.0,Jacoby Brissett pass complete short right to K.J. Osborn for 3 yards (tackle by Charvarius Ward),1.07,0.76,4.0,2024,59
+2.0,2:00,3.0,2.0,NWE 38,0.0,20.0,"Jacoby Brissett sacked by and Kevin Givens for -5 yards and Maliek Collins for -5 yards. Jacoby Brissett fumbles (forced by Leonard Floyd), recovered by Nick Leverett at NE-33 Replay Assistant challenged the fumble ruling, and the play was upheld. Penalty on NWE: Illegal Shift, 5 yards (declined)",0.76,-1.18,4.0,2024,59
+2.0,1:53,4.0,7.0,NWE 33,0.0,20.0,"Bryce Baringer punts 61 yards, returned by Jacob Cowing for 7 yards (tackle by Brenden Schooler)",-1.18,0.32,4.0,2024,59
+2.0,1:43,1.0,10.0,SFO 13,0.0,20.0,Brock Purdy pass incomplete short left intended for Deebo Samuel (defended by Deatrich Wise),-0.32,-0.77,4.0,2024,59
+2.0,1:38,2.0,10.0,SFO 13,0.0,20.0,"Brock Purdy aborted snap, recovered by Jordan Mason at SF-8",-0.77,-2.01,4.0,2024,59
+2.0,0:53,,,,,,Timeout #2 by San Francisco 49ers,,,4.0,2024,59
+2.0,0:53,3.0,15.0,SFO 8,0.0,20.0,Brock Purdy pass incomplete short left intended for Jordan Mason,-2.01,-2.49,4.0,2024,59
+2.0,0:49,4.0,15.0,SFO 8,0.0,20.0,"Mitch Wishnowsky punts 42 yards, returned by Marcus Jones for 11 yards (tackle by Isaac Guerendo and Tatum Bethune)",-2.49,-2.98,4.0,2024,59
+2.0,0:38,1.0,10.0,SFO 39,0.0,20.0,Jacoby Brissett pass incomplete short right intended for Jamycal Hasty,2.98,2.44,4.0,2024,59
+2.0,0:34,2.0,10.0,SFO 39,0.0,20.0,"Jacoby Brissett pass incomplete short right Replay Assistant challenged the runner was down by contact ruling, and the original play was overturned. Jacoby Brissett sacked by Maliek Collins for -12 yards",2.44,0.17,4.0,2024,59
+2.0,0:18,3.0,22.0,NWE 49,0.0,20.0,Jamycal Hasty right tackle for 6 yards (tackle by De'Vondre Campbell),0.17,0.27,4.0,2024,59
+2.0,0:03,,,,,,Timeout #3 by New England Patriots,,,4.0,2024,59
+2.0,0:03,,,,,,Timeout #3 by San Francisco 49ers,,,4.0,2024,59
+2.0,0:03,4.0,16.0,SFO 45,3.0,20.0,Joey Slye 63 yard field goal good,0.27,3.0,4.0,2024,59
+3.0,15:00,,,NWE 35,3.0,20.0,"Joey Slye kicks off 62 yards, returned by Isaac Guerendo for 23 yards. Isaac Guerendo fumbles (forced by Christian Elliss), recovered by Christian Elliss at SF-27",0.0,-3.78,4.0,2024,59
+3.0,14:54,1.0,10.0,SFO 27,3.0,20.0,Rhamondre Stevenson left guard for 13 yards (tackle by Malik Mustapha and Ji'Ayir Brown),3.78,4.65,4.0,2024,59
+3.0,14:15,1.0,10.0,SFO 14,3.0,20.0,Rhamondre Stevenson up the middle for 3 yards (tackle by Nick Bosa),4.65,4.52,4.0,2024,59
+3.0,13:35,2.0,7.0,SFO 11,3.0,20.0,Jacoby Brissett pass complete short right to Rhamondre Stevenson for 2 yards (tackle by Leonard Floyd),4.52,4.05,4.0,2024,59
+3.0,12:57,3.0,5.0,SFO 9,3.0,20.0,Jacoby Brissett pass complete short right to Hunter Henry for 4 yards (tackle by Ji'Ayir Brown),4.05,3.03,4.0,2024,59
+3.0,12:11,4.0,1.0,SFO 5,9.0,20.0,"Jacoby Brissett pass complete short left to Austin Hooper for 5 yards, touchdown",3.03,7.0,4.0,2024,59
+3.0,12:05,,,SFO 15,10.0,20.0,Joey Slye kicks extra point good,0.0,0.0,4.0,2024,59
+3.0,12:05,,,NWE 35,10.0,20.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,59
+3.0,12:05,1.0,10.0,SFO 30,10.0,20.0,Brock Purdy pass complete deep middle to Deebo Samuel for 53 yards (tackle by Jonathan Jones),0.94,4.44,4.0,2024,59
+3.0,11:16,1.0,10.0,NWE 17,10.0,20.0,Jordan Mason left tackle for no gain (tackle by Davon Godchaux and Deatrich Wise),4.44,3.85,4.0,2024,59
+3.0,10:39,2.0,10.0,NWE 17,10.0,20.0,"Brock Purdy pass complete short middle to Jordan Mason for 13 yards (tackle by Raekwon McMillan and Jabrill Peppers). Penalty on Josh Uche: Defensive Holding, 5 yards (declined)",3.85,6.28,4.0,2024,59
+3.0,10:12,1.0,4.0,NWE 4,10.0,26.0,"Jordan Mason left tackle for 4 yards, touchdown",6.28,7.0,4.0,2024,59
+3.0,10:08,,,NWE 15,10.0,27.0,Jake Moody kicks extra point good,0.0,0.0,4.0,2024,59
+3.0,10:08,,,SFO 35,10.0,27.0,"Jake Moody kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,59
+3.0,10:08,1.0,10.0,NWE 30,10.0,27.0,Jacoby Brissett pass complete deep left to Ja'Lynn Polk for 21 yards (tackle by Deommodore Lenoir),0.94,2.32,4.0,2024,59
+3.0,9:29,1.0,10.0,SFO 49,10.0,27.0,Antonio Gibson left tackle for no gain (tackle by Dee Winters),2.32,1.78,4.0,2024,59
+3.0,8:52,2.0,10.0,SFO 49,10.0,27.0,Jacoby Brissett pass complete short left to Rhamondre Stevenson for -2 yards (tackle by Ji'Ayir Brown),1.78,0.83,4.0,2024,59
+3.0,8:09,3.0,12.0,NWE 49,10.0,27.0,Jacoby Brissett pass incomplete short right intended for Hunter Henry,0.83,-0.13,4.0,2024,59
+3.0,8:03,4.0,12.0,NWE 49,10.0,27.0,"Bryce Baringer punts 40 yards, returned by Jacob Cowing for 1 yard (tackle by Christian Elliss)",-0.13,0.35,4.0,2024,59
+3.0,7:54,1.0,10.0,SFO 12,10.0,27.0,Brock Purdy pass incomplete deep middle intended for Chris Conley,-0.35,-0.78,4.0,2024,59
+3.0,7:47,2.0,10.0,SFO 12,10.0,27.0,Jordan Mason right end for 1 yard (tackle by Davon Godchaux and Jaylinn Hawkins),-0.78,-1.3,4.0,2024,59
+3.0,7:08,3.0,9.0,SFO 13,10.0,27.0,"Brock Purdy pass complete short left to Brandon Aiyuk for 10 yards (tackle by Christian Gonzalez) NWE challenged the pass completion ruling, and the play was upheld.",-1.3,0.48,4.0,2024,59
+3.0,6:30,1.0,10.0,SFO 23,10.0,27.0,"Penalty on Aaron Banks: False Start, 5 yards (accepted) (no play)",0.48,0.0,4.0,2024,59
+3.0,6:30,1.0,15.0,SFO 18,10.0,27.0,Jordan Mason right tackle for 10 yards (tackle by Jabrill Peppers and Jaylinn Hawkins),0.0,0.61,4.0,2024,59
+3.0,5:51,2.0,5.0,SFO 28,10.0,27.0,Jordan Mason right end for no gain (tackle by Davon Godchaux),0.61,-0.1,4.0,2024,59
+3.0,5:06,3.0,5.0,SFO 28,10.0,27.0,Brock Purdy pass incomplete short right intended for Brandon Aiyuk (defended by Jonathan Jones),-0.1,-1.5,4.0,2024,59
+3.0,5:01,4.0,5.0,SFO 28,10.0,27.0,"Mitch Wishnowsky punts 44 yards, returned by Marcus Jones for 13 yards (tackle by Isaac Yiadom)",-1.5,-1.66,4.0,2024,59
+3.0,4:51,1.0,10.0,NWE 41,10.0,27.0,Rhamondre Stevenson up the middle for 4 yards (tackle by Demetrius Flannigan-Fowles and De'Vondre Campbell),1.66,1.66,4.0,2024,59
+3.0,4:16,2.0,6.0,NWE 45,10.0,27.0,Rhamondre Stevenson left tackle for -7 yards (tackle by Sam Okuayinonu),1.66,0.04,4.0,2024,59
+3.0,3:36,3.0,13.0,NWE 38,10.0,27.0,"Jacoby Brissett pass complete short middle to Demario Douglas for 3 yards, lateral to Rhamondre Stevenson for 4 yards (tackle by Ji'Ayir Brown and Renardo Green). Penalty on Tyquan Thornton: Offensive Illegal Block Above the Waist, 10 yards (accepted)",0.04,-0.36,4.0,2024,59
+3.0,3:10,3.0,16.0,NWE 35,10.0,27.0,Jacoby Brissett pass incomplete short left intended for Rhamondre Stevenson,-0.36,-1.04,4.0,2024,59
+3.0,3:08,4.0,16.0,NWE 35,10.0,27.0,"Bryce Baringer punts 56 yards, returned by Kyle Juszczyk for 8 yards (tackle by Joe Cardona and Christian Elliss)",-1.04,0.06,4.0,2024,59
+3.0,2:56,1.0,10.0,SFO 17,10.0,27.0,Jordan Mason left guard for 24 yards (tackle by Christian Gonzalez),-0.06,1.66,4.0,2024,59
+3.0,2:17,1.0,10.0,SFO 41,10.0,27.0,"Brock Purdy aborted snap, recovered by Jordan Mason at SF-35 and returned for -2 yards (tackle by Jahlani Tavai)",1.66,0.04,4.0,2024,59
+3.0,1:31,2.0,18.0,SFO 33,10.0,27.0,Brock Purdy pass incomplete short left intended for Jauan Jennings,0.04,-0.63,4.0,2024,59
+3.0,1:27,3.0,18.0,SFO 33,10.0,27.0,Brock Purdy pass complete short middle to Deebo Samuel for 3 yards (tackle by Marcus Jones),-0.63,-0.98,4.0,2024,59
+3.0,0:46,4.0,15.0,SFO 36,10.0,27.0,"Mitch Wishnowsky punts 47 yards, returned by Marcus Jones for 15 yards (tackle by Patrick Taylor)",-0.98,-1.07,4.0,2024,59
+3.0,0:33,1.0,10.0,NWE 32,10.0,27.0,Jacoby Brissett pass complete short middle to Antonio Gibson for 6 yards (tackle by De'Vondre Campbell and Demetrius Flannigan-Fowles),1.07,1.34,4.0,2024,59
+3.0,0:07,2.0,4.0,NWE 38,10.0,27.0,"Jacoby Brissett pass incomplete deep left intended for Ja'Lynn Polk (defended by Deommodore Lenoir). Penalty on Deommodore Lenoir: Defensive Pass Interference, 13 yards (accepted) (no play)",1.34,2.32,4.0,2024,59
+3.0,0:02,1.0,10.0,SFO 49,10.0,27.0,Jacoby Brissett pass incomplete short left intended for K.J. Osborn,2.32,1.78,4.0,2024,59
+4.0,15:00,2.0,10.0,SFO 49,10.0,27.0,Jacoby Brissett pass incomplete short left intended for Antonio Gibson,1.78,1.09,4.0,2024,59
+4.0,14:57,3.0,10.0,SFO 49,10.0,27.0,Jacoby Brissett pass complete short right to Antonio Gibson for 11 yards (tackle by Charvarius Ward),1.09,3.05,4.0,2024,59
+4.0,14:19,1.0,10.0,SFO 38,10.0,27.0,Antonio Gibson left guard for 2 yards (tackle by Leonard Floyd and Evan Anderson),3.05,2.78,4.0,2024,59
+4.0,13:40,2.0,8.0,SFO 36,10.0,27.0,Jacoby Brissett pass incomplete deep left intended for Ja'Lynn Polk,2.78,2.08,4.0,2024,59
+4.0,13:36,3.0,8.0,SFO 36,10.0,27.0,Jacoby Brissett pass incomplete short middle intended for Ja'Lynn Polk,2.08,0.88,4.0,2024,59
+4.0,13:29,4.0,8.0,SFO 36,13.0,27.0,Joey Slye 54 yard field goal good,0.88,3.0,4.0,2024,59
+4.0,13:26,,,NWE 35,13.0,27.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,59
+4.0,13:26,1.0,10.0,SFO 30,13.0,27.0,Brock Purdy pass complete deep middle to Jauan Jennings for 45 yards (tackle by Marcus Jones),0.94,3.91,4.0,2024,59
+4.0,12:35,1.0,10.0,NWE 25,13.0,27.0,"Deebo Samuel left tackle for no gain (tackle by Jaylinn Hawkins). Penalty on Kyle Juszczyk: Illegal Shift, 5 yards (accepted) (no play)",3.91,3.58,4.0,2024,59
+4.0,12:07,1.0,15.0,NWE 30,13.0,27.0,Brock Purdy pass complete short right to George Kittle for 7 yards (tackle by Jahlani Tavai),3.58,3.63,4.0,2024,59
+4.0,11:26,2.0,8.0,NWE 23,13.0,27.0,Brock Purdy pass deep left intended for Brandon Aiyuk is intercepted by Jabrill Peppers in end zone and returned for no gain,3.63,-0.28,4.0,2024,59
+4.0,11:19,1.0,10.0,NWE 20,13.0,27.0,Rhamondre Stevenson left guard for 5 yards (tackle by Maliek Collins),0.28,0.41,4.0,2024,59
+4.0,10:42,2.0,5.0,NWE 25,13.0,27.0,Rhamondre Stevenson up the middle for 4 yards (tackle by Yetur Gross-Matos),0.41,0.23,4.0,2024,59
+4.0,10:21,3.0,1.0,NWE 29,13.0,27.0,Jacoby Brissett up the middle for 2 yards (tackle by Demetrius Flannigan-Fowles),0.23,1.0,4.0,2024,59
+4.0,9:46,1.0,10.0,NWE 31,13.0,27.0,Jacoby Brissett pass complete short left to Rhamondre Stevenson for 8 yards (tackle by De'Vondre Campbell and Malik Mustapha),1.0,1.54,4.0,2024,59
+4.0,9:15,2.0,2.0,NWE 39,13.0,27.0,"Jacoby Brissett sacked by Evan Anderson for -2 yards. Jacoby Brissett fumbles (forced by Evan Anderson), recovered by Jacoby Brissett at NE-37",1.54,0.56,4.0,2024,59
+4.0,8:30,3.0,4.0,NWE 37,13.0,27.0,Jacoby Brissett pass incomplete short right intended for K.J. Osborn,0.56,-0.91,4.0,2024,59
+4.0,8:26,4.0,4.0,NWE 37,13.0,27.0,"Jacoby Brissett pass incomplete deep left intended for Ja'Lynn Polk (defended by Ji'Ayir Brown) Replay Assistant challenged the pass completion ruling, and the play was upheld.",-0.91,-3.18,4.0,2024,59
+4.0,8:18,1.0,10.0,NWE 36,13.0,27.0,Jordan Mason left tackle for 3 yards (tackle by Davon Godchaux and Deatrich Wise),3.18,3.04,4.0,2024,59
+4.0,7:35,2.0,7.0,NWE 33,13.0,27.0,Jordan Mason right end for 6 yards (tackle by Jaylinn Hawkins and Marco Wilson),3.04,3.14,4.0,2024,59
+4.0,6:56,3.0,1.0,NWE 27,13.0,27.0,"Brock Purdy up the middle for no gain (tackle by Eric Johnson). Penalty on Raekwon McMillan: Defensive Too Many Men on Field, 5 yards (accepted) (no play)",3.14,4.11,4.0,2024,59
+4.0,6:37,1.0,10.0,NWE 22,13.0,27.0,Jordan Mason left tackle for no gain (tackle by Jabrill Peppers),4.11,3.56,4.0,2024,59
+4.0,5:52,2.0,10.0,NWE 22,13.0,27.0,Jordan Mason left tackle for -1 yards (tackle by Keion White and Deatrich Wise),3.56,2.74,4.0,2024,59
+4.0,5:07,3.0,11.0,NWE 23,13.0,27.0,Brock Purdy pass incomplete deep left intended for Brandon Aiyuk,2.74,1.93,4.0,2024,59
+4.0,5:02,4.0,11.0,NWE 23,13.0,30.0,Jake Moody 41 yard field goal good,1.93,3.0,4.0,2024,59
+4.0,4:58,,,SFO 35,13.0,30.0,"Jake Moody kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,59
+4.0,4:58,1.0,10.0,NWE 30,13.0,30.0,Jacoby Brissett pass complete short left to Demario Douglas for 2 yards (tackle by Nick Bosa),0.94,0.66,4.0,2024,59
+4.0,4:33,2.0,8.0,NWE 32,13.0,30.0,Jacoby Brissett pass complete short left to Antonio Gibson for 50 yards (tackle by Ji'Ayir Brown),0.66,4.37,4.0,2024,59
+4.0,3:59,1.0,10.0,SFO 18,13.0,30.0,Antonio Gibson up the middle for 3 yards (tackle by Nick Bosa and Demetrius Flannigan-Fowles),4.37,4.25,4.0,2024,59
+4.0,3:27,2.0,7.0,SFO 15,13.0,30.0,Jacoby Brissett scrambles right tackle for 1 yard (tackle by Nick Bosa and Malik Mustapha),4.25,3.63,4.0,2024,59
+4.0,2:52,3.0,6.0,SFO 14,13.0,30.0,"Jacoby Brissett sacked by Nick Bosa for -2 yards. Jacoby Brissett fumbles (forced by Nick Bosa), recovered by Nick Bosa at SF-15",3.63,0.22,4.0,2024,59
+4.0,2:44,1.0,10.0,SFO 15,13.0,30.0,Jordan Mason up the middle for 6 yards (tackle by Jaylinn Hawkins and Eric Johnson),-0.22,0.21,4.0,2024,59
+4.0,2:37,,,,,,Timeout #2 by New England Patriots,,,4.0,2024,59
+4.0,2:37,2.0,4.0,SFO 21,13.0,30.0,Jordan Mason left guard for 2 yards (tackle by Raekwon McMillan and Jabrill Peppers),0.21,-0.39,4.0,2024,59
+4.0,2:35,,,,,,Timeout #3 by New England Patriots,,,4.0,2024,59
+4.0,2:35,3.0,2.0,SFO 23,13.0,30.0,Brock Purdy pass complete short right to Jauan Jennings for 11 yards (tackle by Jahlani Tavai),-0.39,1.2,4.0,2024,59
+4.0,2:31,1.0,10.0,SFO 34,13.0,30.0,Jordan Mason right guard for 1 yard (tackle by Jeremiah Pharms and Keion White),1.2,0.79,4.0,2024,59
+4.0,2:00,2.0,9.0,SFO 35,13.0,30.0,Jordan Mason right guard for 2 yards (tackle by Raekwon McMillan and Keion White),0.79,0.37,4.0,2024,59
+4.0,1:17,3.0,7.0,SFO 37,13.0,30.0,Jordan Mason left end for 25 yards (tackle by Jabrill Peppers),0.37,3.05,4.0,2024,59
+4.0,0:28,1.0,10.0,NWE 38,13.0,30.0,Brock Purdy kneels for -1 yards,3.05,2.37,4.0,2024,59

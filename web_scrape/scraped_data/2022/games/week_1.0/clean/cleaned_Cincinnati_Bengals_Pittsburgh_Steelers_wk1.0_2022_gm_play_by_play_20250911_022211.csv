@@ -1,0 +1,210 @@
+Quarter,Time,Down,ToGo,Location,PIT,CIN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Bengals won the coin toss and deferred, Steelers to receive the opening kickoff.",,,1.0,2022,5
+1,15:00,,,CIN 35,0.0,0.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,5
+1,15:00,1.0,10.0,PIT 25,0.0,0.0,Mitchell Trubisky pass complete short middle to Pat Freiermuth for 3 yards (tackle by Logan Wilson),0.61,0.47,1.0,2022,5
+1,14:39,2.0,7.0,PIT 28,0.0,0.0,Mitchell Trubisky pass complete short right to Chase Claypool for 5 yards (tackle by Mike Hilton),0.47,0.43,1.0,2022,5
+1,14:21,3.0,2.0,PIT 33,0.0,0.0,"Mitchell Trubisky pass complete short left to Diontae Johnson for 1 yard (tackle by Eli Apple) PIT challenged the short of the line to gain ruling, and the play was upheld.",0.43,-1.11,1.0,2022,5
+1,13:37,4.0,1.0,PIT 34,0.0,0.0,"Pressley Harvin punts 44 yards, fair catch by Trent Taylor at CIN-22",-1.11,-0.41,1.0,2022,5
+1,13:31,1.0,10.0,CIN 22,0.0,0.0,Joe Burrow sacked by Cameron Heyward for -5 yards,0.41,-0.94,1.0,2022,5
+1,12:52,2.0,15.0,CIN 17,6.0,0.0,"Joe Burrow pass short right intended for Tyler Boyd is intercepted by Minkah Fitzpatrick at CIN-31 and returned for 31 yards, touchdown",-0.94,-7.0,1.0,2022,5
+1,12:43,,,CIN 15,7.0,0.0,Chris Boswell kicks extra point good,0.0,0.0,1.0,2022,5
+1,12:43,,,PIT 35,7.0,0.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,5
+1,12:43,1.0,10.0,CIN 25,7.0,0.0,Joe Mixon left guard for 5 yards (tackle by Alex Highsmith and Minkah Fitzpatrick),0.61,0.74,1.0,2022,5
+1,12:06,2.0,5.0,CIN 30,7.0,0.0,Joe Mixon left tackle for 6 yards (tackle by Minkah Fitzpatrick),0.74,1.33,1.0,2022,5
+1,11:34,1.0,10.0,CIN 36,7.0,0.0,Joe Burrow pass complete short right to Tyler Boyd for 3 yards (tackle by Myles Jack and Ahkello Witherspoon),1.33,1.2,1.0,2022,5
+1,10:57,2.0,7.0,CIN 39,7.0,0.0,Joe Mixon left end for no gain (tackle by Arthur Maulet and Devin Bush),1.2,0.5,1.0,2022,5
+1,10:13,3.0,7.0,CIN 39,7.0,0.0,Joe Burrow pass complete short left to Hayden Hurst for 9 yards (tackle by Robert Spillane and Levi Wallace),0.5,2.13,1.0,2022,5
+1,9:34,1.0,10.0,CIN 48,7.0,0.0,Joe Burrow pass complete short middle to Tee Higgins for 18 yards (tackle by Cameron Sutton),2.13,3.31,1.0,2022,5
+1,8:57,1.0,10.0,PIT 34,7.0,0.0,Joe Burrow pass complete short right to Joe Mixon for no gain (tackle by Ahkello Witherspoon),3.31,2.77,1.0,2022,5
+1,8:14,2.0,10.0,PIT 34,7.0,0.0,Joe Burrow pass incomplete short right intended for Hayden Hurst (defended by T.J. Watt),2.77,2.08,1.0,2022,5
+1,8:12,3.0,10.0,PIT 34,7.0,0.0,Joe Burrow sacked by Alex Highsmith for -7 yards,2.08,0.53,1.0,2022,5
+1,7:21,4.0,17.0,PIT 41,7.0,3.0,Evan McPherson 59 yard field goal good,0.53,3.0,1.0,2022,5
+1,7:17,,,CIN 35,7.0,3.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,5
+1,7:17,1.0,10.0,PIT 25,7.0,3.0,Chase Claypool right end for 2 yards (tackle by Germaine Pratt and Sam Hubbard),0.61,0.33,1.0,2022,5
+1,6:35,2.0,8.0,PIT 27,7.0,3.0,Najee Harris left tackle for 3 yards (tackle by Sam Hubbard),0.33,0.04,1.0,2022,5
+1,6:02,3.0,5.0,PIT 30,7.0,3.0,Mitchell Trubisky pass incomplete deep left intended for Miles Boykin,0.04,-1.37,1.0,2022,5
+1,5:57,4.0,5.0,PIT 30,7.0,3.0,"Pressley Harvin punts 41 yards, returned by Trent Taylor for 6 yards (tackle by Miles Boykin and Connor Heyward)",-1.37,-1.27,1.0,2022,5
+1,5:47,1.0,10.0,CIN 35,7.0,3.0,"Penalty on Hayden Hurst: False Start, 5 yards (accepted) (no play)",1.27,0.94,1.0,2022,5
+1,5:47,1.0,15.0,CIN 30,7.0,3.0,Joe Mixon left guard for 5 yards (tackle by T.J. Watt and Minkah Fitzpatrick),0.94,0.72,1.0,2022,5
+1,5:09,2.0,10.0,CIN 35,7.0,3.0,Joe Mixon left tackle for 5 yards (tackle by Larry Ogunjobi),0.72,0.7,1.0,2022,5
+1,4:30,3.0,5.0,CIN 40,7.0,3.0,"Joe Burrow pass is intercepted by Cameron Sutton at CIN-43 and returned for no gain (tackle by Tee Higgins). Penalty on Cameron Sutton: Defensive Pass Interference, 3 yards (accepted) (no play)",0.7,1.8,1.0,2022,5
+1,4:26,1.0,10.0,CIN 43,7.0,3.0,"Joe Burrow sacked by Alex Highsmith for -9 yards. Joe Burrow fumbles (forced by Alex Highsmith), recovered by Cameron Heyward at CIN-34 (tackle by Ted Karras)",1.8,-3.31,1.0,2022,5
+1,4:22,1.0,10.0,CIN 34,7.0,3.0,Mitchell Trubisky pass complete deep right to Pat Freiermuth for 31 yards (tackle by Logan Wilson),3.31,6.51,1.0,2022,5
+1,3:51,1.0,3.0,CIN 3,7.0,3.0,Najee Harris up the middle for 2 yards (tackle by B.J. Hill and Josh Tupou),6.51,0.0,1.0,2022,5
+1,3:14,2.0,2.0,CIN 1,7.0,3.0,Najee Harris right tackle for -1 yards (tackle by Markus Bailey),0.0,4.95,1.0,2022,5
+1,2:33,3.0,2.0,CIN 2,7.0,3.0,Mitchell Trubisky pass incomplete short right intended for Pat Freiermuth (defended by Vonn Bell),4.95,3.25,1.0,2022,5
+1,2:27,4.0,2.0,CIN 2,10.0,3.0,Chris Boswell 20 yard field goal good,3.25,3.0,1.0,2022,5
+1,2:25,,,PIT 35,10.0,3.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,5
+1,2:25,1.0,10.0,CIN 25,10.0,3.0,Joe Burrow pass complete short right to Ja'Marr Chase for 12 yards (tackle by Ahkello Witherspoon),0.61,1.4,1.0,2022,5
+1,2:03,1.0,10.0,CIN 37,10.0,3.0,Joe Mixon right tackle for 1 yard (tackle by Jamir Jones and Chris Wormley),1.4,0.99,1.0,2022,5
+1,1:28,2.0,9.0,CIN 38,10.0,3.0,Joe Burrow pass complete short middle to Joe Mixon for 7 yards (tackle by Ahkello Witherspoon and Myles Jack),0.99,1.22,1.0,2022,5
+1,0:43,3.0,2.0,CIN 45,10.0,3.0,Joe Burrow pass complete short right to Ja'Marr Chase for 10 yards (tackle by Ahkello Witherspoon),1.22,2.59,1.0,2022,5
+1,0:03,1.0,10.0,PIT 45,10.0,3.0,Joe Mixon right guard for 5 yards (tackle by Cameron Sutton and Minkah Fitzpatrick),2.59,2.72,1.0,2022,5
+2,15:00,2.0,5.0,PIT 40,10.0,3.0,Joe Burrow sacked by Robert Spillane for no gain,2.72,2.01,1.0,2022,5
+2,14:20,3.0,5.0,PIT 40,10.0,3.0,Joe Burrow scrambles left tackle for 5 yards (tackle by Robert Spillane),2.01,3.25,1.0,2022,5
+2,13:45,1.0,10.0,PIT 35,10.0,3.0,Joe Mixon right tackle for -4 yards (tackle by T.J. Watt),3.25,2.16,1.0,2022,5
+2,13:11,2.0,14.0,PIT 39,10.0,3.0,Joe Burrow pass short right intended for Hayden Hurst is intercepted by T.J. Watt at PIT-41 and returned for no gain,2.16,-1.66,1.0,2022,5
+2,13:08,1.0,10.0,PIT 41,10.0,3.0,Jaylen Warren right guard for 3 yards (tackle by Logan Wilson),1.66,1.53,1.0,2022,5
+2,12:28,2.0,7.0,PIT 44,10.0,3.0,Chase Claypool right end for 15 yards (tackle by Jessie Bates and Germaine Pratt),1.53,2.85,1.0,2022,5
+2,11:47,1.0,10.0,CIN 41,10.0,3.0,Mitchell Trubisky pass complete short right to Zach Gentry for 32 yards (tackle by Jessie Bates),2.85,5.14,1.0,2022,5
+2,10:59,1.0,9.0,CIN 9,10.0,3.0,Najee Harris left guard for 2 yards (tackle by D.J. Reader),5.14,4.76,1.0,2022,5
+2,10:18,2.0,7.0,CIN 7,10.0,3.0,Mitchell Trubisky pass complete short right to Chase Claypool for 4 yards (tackle by Mike Hilton),4.76,4.72,1.0,2022,5
+2,9:35,3.0,3.0,CIN 3,10.0,3.0,"Mitchell Trubisky pass incomplete short right intended for George Pickens. Penalty on Chidobe Awuzie: Defensive Pass Interference, 2 yards (accepted) (no play)",4.72,6.97,1.0,2022,5
+2,9:31,1.0,1.0,CIN 1,10.0,3.0,Chase Claypool left tackle for no gain (tackle by Trey Hendrickson),6.97,5.91,1.0,2022,5
+2,8:50,2.0,1.0,CIN 1,16.0,3.0,"Mitchell Trubisky pass complete short left to Najee Harris for 1 yard, touchdown",5.91,7.0,1.0,2022,5
+2,8:46,,,CIN 15,17.0,3.0,Chris Boswell kicks extra point good,0.0,0.0,1.0,2022,5
+2,8:46,,,PIT 35,17.0,3.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,5
+2,8:46,1.0,10.0,CIN 25,17.0,3.0,Joe Mixon left tackle for 2 yards (tackle by Minkah Fitzpatrick),0.61,0.33,1.0,2022,5
+2,8:15,2.0,8.0,CIN 27,17.0,3.0,Joe Burrow pass complete short right to Tee Higgins for 9 yards (tackle by Devin Bush),0.33,1.33,1.0,2022,5
+2,7:29,1.0,10.0,CIN 36,17.0,3.0,Joe Mixon right tackle for 3 yards (tackle by Cameron Sutton and Devin Bush),1.33,1.2,1.0,2022,5
+2,6:58,2.0,7.0,CIN 39,17.0,3.0,Joe Mixon up the middle for 3 yards (tackle by Montravius Adams),1.2,0.89,1.0,2022,5
+2,6:15,3.0,4.0,CIN 42,17.0,3.0,Joe Burrow pass complete short right to Ja'Marr Chase for 15 yards (tackle by Minkah Fitzpatrick),0.89,2.72,1.0,2022,5
+2,5:33,1.0,10.0,PIT 43,17.0,3.0,"Joe Burrow pass deep middle intended for Tyler Boyd is intercepted by Cameron Sutton at PIT-15 and returned for no gain (tackle by Ja'Marr Chase). Penalty on Minkah Fitzpatrick: Personal Foul / Defense, 7 yards (accepted)",2.72,0.38,1.0,2022,5
+2,5:24,1.0,10.0,PIT 8,17.0,3.0,Mitchell Trubisky pass incomplete short left intended for Jaylen Warren,-0.38,-0.78,1.0,2022,5
+2,5:20,2.0,10.0,PIT 8,17.0,3.0,Jaylen Warren right tackle for 2 yards (tackle by Germaine Pratt and Josh Tupou),-0.78,-1.19,1.0,2022,5
+2,4:43,3.0,8.0,PIT 10,17.0,3.0,Mitchell Trubisky scrambles right tackle for 4 yards (tackle by Logan Wilson),-1.19,-2.47,1.0,2022,5
+2,4:12,4.0,3.0,PIT 14,17.0,3.0,"Pressley Harvin punts 57 yards, returned by Trent Taylor for 6 yards (tackle by Benny Snell)",-2.47,-1.27,1.0,2022,5
+2,4:01,1.0,10.0,CIN 35,17.0,3.0,Joe Burrow pass complete short middle to Ja'Marr Chase for 21 yards (tackle by Minkah Fitzpatrick),1.27,2.65,1.0,2022,5
+2,3:18,1.0,10.0,PIT 44,17.0,3.0,Joe Mixon left end for no gain (tackle by Devin Bush and Malik Reed),2.65,2.11,1.0,2022,5
+2,2:39,2.0,10.0,PIT 44,17.0,3.0,Joe Mixon left guard for 4 yards (tackle by Larry Ogunjobi),2.11,1.95,1.0,2022,5
+2,2:00,3.0,6.0,PIT 40,17.0,3.0,Joe Burrow pass complete short right to Mike Thomas for 5 yards (tackle by Levi Wallace),1.95,1.0,1.0,2022,5
+2,1:17,4.0,1.0,PIT 35,17.0,3.0,Joe Mixon right guard for 31 yards (tackle by Minkah Fitzpatrick),1.0,6.28,1.0,2022,5
+2,1:09,1.0,4.0,PIT 4,17.0,3.0,Joe Mixon right guard for 1 yard (tackle by Cameron Heyward),6.28,5.53,1.0,2022,5
+2,0:27,2.0,3.0,PIT 3,17.0,3.0,"Penalty on Cordell Volson: False Start, 5 yards (accepted) (no play)",5.53,4.57,1.0,2022,5
+2,0:27,,,,,,Timeout #1 by Cincinnati Bengals,,,1.0,2022,5
+2,0:27,2.0,8.0,PIT 8,17.0,3.0,Joe Burrow pass incomplete short right intended for Hayden Hurst,4.57,3.58,1.0,2022,5
+2,0:23,3.0,8.0,PIT 8,17.0,3.0,Joe Burrow pass incomplete short left intended for Ja'Marr Chase (defended by Levi Wallace),3.58,2.95,1.0,2022,5
+2,0:18,,,,,,Timeout #2 by Cincinnati Bengals,,,1.0,2022,5
+2,0:18,4.0,8.0,PIT 8,17.0,6.0,Evan McPherson 26 yard field goal good,2.95,3.0,1.0,2022,5
+2,0:14,,,CIN 35,17.0,6.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,5
+2,0:14,1.0,10.0,PIT 25,17.0,6.0,Mitchell Trubisky kneels for -1 yards,0.61,-0.07,1.0,2022,5
+3,15:00,,,PIT 35,17.0,6.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,5
+3,15:00,1.0,10.0,CIN 25,17.0,6.0,Joe Mixon up the middle for 5 yards (tackle by T.J. Watt),0.61,0.74,1.0,2022,5
+3,14:22,2.0,5.0,CIN 30,17.0,6.0,Joe Mixon left tackle for -3 yards (tackle by Myles Jack),0.74,-0.3,1.0,2022,5
+3,13:44,3.0,7.0,CIN 27,17.0,6.0,Joe Burrow scrambles up the middle for 6 yards (tackle by Terrell Edmunds),-0.3,-1.18,1.0,2022,5
+3,13:05,4.0,2.0,CIN 33,17.0,6.0,"Kevin Huber punts 58 yards, fair catch by Gunner Olszewski at PIT-9",-1.18,0.38,1.0,2022,5
+3,12:57,1.0,10.0,PIT 9,17.0,6.0,Mitchell Trubisky pass incomplete short right intended for Pat Freiermuth,-0.38,-0.78,1.0,2022,5
+3,12:52,2.0,10.0,PIT 9,17.0,6.0,Najee Harris right tackle for 8 yards (tackle by Logan Wilson and Vonn Bell),-0.78,-0.48,1.0,2022,5
+3,12:08,3.0,2.0,PIT 17,17.0,6.0,Mitchell Trubisky pass complete short middle to Chase Claypool for 3 yards (tackle by Mike Hilton),-0.48,0.28,1.0,2022,5
+3,11:28,1.0,10.0,PIT 20,17.0,6.0,Najee Harris right end for -4 yards (tackle by D.J. Reader and Logan Wilson),0.28,-0.94,1.0,2022,5
+3,10:43,2.0,14.0,PIT 16,17.0,6.0,Mitchell Trubisky pass incomplete short left intended for George Pickens,-0.94,-1.69,1.0,2022,5
+3,10:38,3.0,14.0,PIT 16,17.0,6.0,Mitchell Trubisky pass incomplete deep right intended for George Pickens,-1.69,-2.39,1.0,2022,5
+3,10:33,4.0,14.0,PIT 16,17.0,6.0,"Pressley Harvin punts 40 yards, returned by Trent Taylor for 10 yards (tackle by Jamir Jones)",-2.39,-2.52,1.0,2022,5
+3,10:25,1.0,10.0,PIT 46,17.0,6.0,Joe Burrow pass complete short left to Joe Mixon for 11 yards (tackle by Terrell Edmunds),2.52,3.25,1.0,2022,5
+3,9:43,1.0,10.0,PIT 35,17.0,6.0,Joe Mixon right tackle for 1 yard (tackle by Alex Highsmith),3.25,2.84,1.0,2022,5
+3,9:00,2.0,9.0,PIT 34,17.0,6.0,Samaje Perine up the middle for 4 yards (tackle by T.J. Watt),2.84,2.68,1.0,2022,5
+3,8:21,3.0,5.0,PIT 30,17.0,6.0,Joe Burrow pass complete short left to Tyler Boyd for 6 yards,2.68,3.97,1.0,2022,5
+3,7:42,1.0,10.0,PIT 24,17.0,6.0,Joe Burrow sacked by T.J. Watt for -4 yards,3.97,2.89,1.0,2022,5
+3,6:53,2.0,14.0,PIT 28,17.0,6.0,Joe Burrow pass complete short middle to Ja'Marr Chase for 24 yards (tackle by Levi Wallace),2.89,6.28,1.0,2022,5
+3,6:14,1.0,4.0,PIT 4,17.0,6.0,Joe Mixon left end for no gain (tackle by Myles Jack and Tyson Alualu),6.28,5.34,1.0,2022,5
+3,5:29,2.0,4.0,PIT 4,17.0,6.0,Joe Burrow scrambles left guard for 2 yards (tackle by Alex Highsmith),5.34,4.95,1.0,2022,5
+3,4:44,3.0,2.0,PIT 2,17.0,12.0,"Joe Burrow pass complete short right to Tyler Boyd for 2 yards, touchdown",4.95,7.0,1.0,2022,5
+3,4:41,,,PIT 2,17.0,14.0,Two Point Attempt: Joe Burrow pass complete to to Mike Thomas for no gain,1.0,1.0,1.0,2022,5
+3,4:41,,,CIN 35,17.0,14.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,5
+3,4:41,1.0,10.0,PIT 25,17.0,14.0,Mitchell Trubisky sacked by B.J. Hill for -2 yards,0.61,-0.21,1.0,2022,5
+3,3:55,2.0,12.0,PIT 23,17.0,14.0,Mitchell Trubisky pass complete short left to Diontae Johnson for 7 yards (tackle by Eli Apple),-0.21,0.17,1.0,2022,5
+3,3:12,3.0,3.0,PIT 30,17.0,14.0,Mitchell Trubisky right end for 6 yards (tackle by Trey Hendrickson),0.17,1.33,1.0,2022,5
+3,2:27,1.0,10.0,PIT 36,17.0,14.0,Mitchell Trubisky pass complete short middle to Najee Harris for 2 yards (tackle by Trey Hendrickson and Germaine Pratt),1.33,1.06,1.0,2022,5
+3,2:00,2.0,8.0,PIT 38,17.0,14.0,Najee Harris left guard for 2 yards (tackle by Germaine Pratt and B.J. Hill),1.06,0.63,1.0,2022,5
+3,1:20,3.0,6.0,PIT 40,17.0,14.0,"Mitchell Trubisky scrambles left end for no gain. Penalty on Dan Moore: Offensive Holding, 10 yards (accepted) (no play)",0.63,-0.69,1.0,2022,5
+3,1:00,3.0,16.0,PIT 30,17.0,14.0,Mitchell Trubisky pass complete short middle to Zach Gentry for 8 yards (tackle by Logan Wilson),-0.69,-0.85,1.0,2022,5
+3,0:30,4.0,8.0,PIT 38,17.0,14.0,Pressley Harvin punts 53 yards out of bounds,-0.85,0.38,1.0,2022,5
+3,0:21,1.0,10.0,CIN 9,17.0,14.0,Joe Mixon left tackle for 3 yards (tackle by Alex Highsmith),-0.38,-0.56,1.0,2022,5
+4,15:00,2.0,7.0,CIN 12,17.0,14.0,Joe Burrow sacked by Alex Highsmith for -7 yards,-0.56,-1.89,1.0,2022,5
+4,14:15,3.0,14.0,CIN 5,17.0,14.0,Joe Burrow pass complete short right to Samaje Perine for 10 yards (tackle by Arthur Maulet),-1.89,-2.44,1.0,2022,5
+4,13:36,4.0,4.0,CIN 15,17.0,14.0,"Kevin Huber punts 50 yards, returned by Gunner Olszewski for 20 yards (tackle by Stanley Morgan)",-2.44,-2.59,1.0,2022,5
+4,13:21,1.0,10.0,CIN 45,17.0,14.0,Najee Harris right tackle for 2 yards (tackle by Logan Wilson and Sam Hubbard),2.59,2.31,1.0,2022,5
+4,12:37,2.0,8.0,CIN 43,17.0,14.0,Mitchell Trubisky pass complete short right to Diontae Johnson for 6 yards. Diontae Johnson fumbles (forced by Chidobe Awuzie),2.31,2.41,1.0,2022,5
+4,12:14,3.0,2.0,CIN 37,17.0,14.0,Mitchell Trubisky pass complete short right to Diontae Johnson for 7 yards (tackle by Chidobe Awuzie),2.41,3.58,1.0,2022,5
+4,11:34,1.0,10.0,CIN 30,17.0,14.0,Mitchell Trubisky pass incomplete short left intended for Pat Freiermuth (defended by Logan Wilson),3.58,3.03,1.0,2022,5
+4,11:30,2.0,10.0,CIN 30,17.0,14.0,Mitchell Trubisky pass incomplete short right intended for Diontae Johnson,3.03,2.34,1.0,2022,5
+4,11:24,3.0,10.0,CIN 30,17.0,14.0,Mitchell Trubisky pass incomplete deep middle intended for Diontae Johnson,2.34,1.41,1.0,2022,5
+4,11:18,4.0,10.0,CIN 30,20.0,14.0,Chris Boswell 48 yard field goal good,1.41,3.0,1.0,2022,5
+4,11:13,,,PIT 35,20.0,14.0,"Chris Boswell kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,5
+4,11:13,1.0,10.0,CIN 25,20.0,14.0,Joe Burrow pass complete short right to Joe Mixon for 7 yards (tackle by Minkah Fitzpatrick and Robert Spillane),0.61,1.01,1.0,2022,5
+4,10:41,2.0,3.0,CIN 32,20.0,14.0,Joe Burrow pass complete short right to Ja'Marr Chase for 4 yards (tackle by Ahkello Witherspoon),1.01,1.33,1.0,2022,5
+4,10:31,1.0,10.0,CIN 36,20.0,14.0,Joe Mixon right guard for 2 yards (tackle by Chris Wormley and Larry Ogunjobi),1.33,1.06,1.0,2022,5
+4,9:38,2.0,8.0,CIN 38,20.0,14.0,"Joe Burrow pass complete deep middle to Tyler Boyd for 22 yards (tackle by Terrell Edmunds). Penalty on Alex Highsmith: Defensive Offside, 5 yards (declined)",1.06,2.92,1.0,2022,5
+4,9:07,1.0,10.0,PIT 40,20.0,14.0,Joe Mixon up the middle for 4 yards (tackle by Robert Spillane and DeMarvin Leal),2.92,2.91,1.0,2022,5
+4,8:31,2.0,6.0,PIT 36,20.0,14.0,Joe Burrow pass incomplete short left intended for Joe Mixon (defended by Jamir Jones),2.91,2.21,1.0,2022,5
+4,8:27,3.0,6.0,PIT 36,20.0,14.0,Joe Burrow pass incomplete short left intended for Ja'Marr Chase,2.21,0.88,1.0,2022,5
+4,8:23,4.0,6.0,PIT 36,20.0,14.0,Joe Burrow pass short middle intended for Tyler Boyd is intercepted by Ahkello Witherspoon at PIT-23 and returned for no gain (tackle by Samaje Perine),0.88,-0.48,1.0,2022,5
+4,8:16,1.0,10.0,PIT 23,20.0,14.0,Najee Harris right tackle for 11 yards (tackle by Mike Hilton),0.48,1.2,1.0,2022,5
+4,7:37,1.0,10.0,PIT 34,20.0,14.0,Chase Claypool right end for 3 yards (tackle by Chidobe Awuzie),1.2,1.06,1.0,2022,5
+4,7:03,2.0,7.0,PIT 37,20.0,14.0,Mitchell Trubisky pass complete short right to George Pickens for 3 yards (tackle by Chidobe Awuzie),1.06,0.76,1.0,2022,5
+4,6:17,3.0,4.0,PIT 40,20.0,14.0,Mitchell Trubisky pass incomplete short right intended for Pat Freiermuth,0.76,-0.72,1.0,2022,5
+4,6:13,4.0,4.0,PIT 40,20.0,14.0,"Pressley Harvin punts 60 yards, touchback.. Penalty on Christian Kuntz: Offensive Holding, 10 yards (accepted)",-0.72,-0.94,1.0,2022,5
+4,6:05,1.0,10.0,CIN 30,20.0,14.0,Joe Burrow pass complete short middle to Joe Mixon for 18 yards (tackle by Minkah Fitzpatrick),0.94,2.13,1.0,2022,5
+4,5:21,1.0,10.0,CIN 48,20.0,14.0,Joe Burrow scrambles up the middle for 23 yards (tackle by Myles Jack),2.13,3.64,1.0,2022,5
+4,4:33,1.0,10.0,PIT 29,20.0,14.0,Joe Burrow pass incomplete short middle intended for Ja'Marr Chase,3.64,3.1,1.0,2022,5
+4,4:29,2.0,10.0,PIT 29,20.0,14.0,Joe Mixon for -1 yards (tackle by Chris Wormley),3.1,2.28,1.0,2022,5
+4,3:48,3.0,11.0,PIT 30,20.0,14.0,"Joe Burrow sacked by T.J. Watt for no gain. Penalty on Cameron Sutton: Defensive Holding, 6 yards (accepted) (no play)",2.28,3.97,1.0,2022,5
+4,3:39,1.0,10.0,PIT 24,20.0,14.0,Joe Burrow pass incomplete short middle intended for Joe Mixon (defended by Myles Jack),3.97,3.43,1.0,2022,5
+4,3:35,2.0,10.0,PIT 24,20.0,14.0,Joe Burrow pass complete short middle to Ja'Marr Chase for 11 yards (tackle by Devin Bush),3.43,4.71,1.0,2022,5
+4,2:58,1.0,10.0,PIT 13,20.0,14.0,Joe Burrow pass incomplete short left intended for Mike Thomas,4.71,4.05,1.0,2022,5
+4,2:54,2.0,10.0,PIT 13,20.0,14.0,Joe Burrow pass complete short left to Ja'Marr Chase for 12 yards,4.05,6.97,1.0,2022,5
+4,2:48,1.0,1.0,PIT 1,20.0,14.0,Joe Mixon up the middle for -2 yards (tackle by T.J. Watt and Alex Highsmith),6.97,5.53,1.0,2022,5
+4,2:06,,,,,,Timeout #1 by Cincinnati Bengals,,,1.0,2022,5
+4,2:06,2.0,3.0,PIT 3,20.0,14.0,Joe Burrow pass incomplete short left intended for Ja'Marr Chase,5.53,4.72,1.0,2022,5
+4,2:02,3.0,3.0,PIT 3,20.0,14.0,Joe Burrow pass complete short middle to Hayden Hurst for 1 yard (tackle by Minkah Fitzpatrick and Terrell Edmunds),4.72,3.25,1.0,2022,5
+4,1:56,4.0,2.0,PIT 2,20.0,14.0,Joe Burrow pass incomplete short left intended for Ja'Marr Chase (defended by Cameron Sutton),3.25,0.38,1.0,2022,5
+4,1:51,1.0,10.0,PIT 2,20.0,14.0,"Penalty on Ja'Marr Chase: Taunting / Defense, 15 yards (accepted) (no play)",-0.38,-0.06,1.0,2022,5
+4,1:51,1.0,10.0,PIT 17,20.0,14.0,Najee Harris right tackle for -2 yards (tackle by Germaine Pratt and D.J. Reader),-0.06,-0.85,1.0,2022,5
+4,1:44,,,,,,Timeout #1 by Pittsburgh Steelers,,,1.0,2022,5
+4,1:44,2.0,12.0,PIT 15,20.0,14.0,Mitchell Trubisky pass incomplete short right intended for Diontae Johnson (defended by Germaine Pratt),-0.85,-1.57,1.0,2022,5
+4,1:42,3.0,12.0,PIT 15,20.0,14.0,Chase Claypool left end for 4 yards (tackle by Trey Hendrickson and Logan Wilson),-1.57,-2.14,1.0,2022,5
+4,1:36,,,,,,Timeout #2 by Cincinnati Bengals,,,1.0,2022,5
+4,1:36,4.0,8.0,PIT 19,20.0,14.0,"Pressley Harvin punts 45 yards, returned by Trent Taylor for 4 yards (tackle by Miles Boykin)",-2.14,-1.6,1.0,2022,5
+4,1:27,1.0,10.0,CIN 40,20.0,14.0,Joe Burrow pass complete short right to Joe Mixon for 9 yards (tackle by Myles Jack and Tre Norwood),1.6,2.27,1.0,2022,5
+4,1:04,2.0,1.0,CIN 49,20.0,14.0,Joe Burrow pass complete short middle to Joe Mixon for 11 yards (tackle by Minkah Fitzpatrick),2.27,2.92,1.0,2022,5
+4,0:46,1.0,10.0,PIT 40,20.0,14.0,Joe Burrow pass incomplete deep left intended for Mike Thomas,2.92,2.37,1.0,2022,5
+4,0:42,2.0,10.0,PIT 40,20.0,14.0,Joe Burrow pass complete short right to Samaje Perine for 9 yards (tackle by Myles Jack),2.37,2.87,1.0,2022,5
+4,0:34,3.0,1.0,PIT 31,20.0,14.0,Joe Burrow pass complete short middle to Ja'Marr Chase for 14 yards (tackle by Ahkello Witherspoon),2.87,4.44,1.0,2022,5
+4,0:27,,,,,,Timeout #3 by Cincinnati Bengals,,,1.0,2022,5
+4,0:27,1.0,10.0,PIT 17,20.0,14.0,"Joe Burrow pass incomplete deep right intended for Ja'Marr Chase Replay Assistant challenged the pass completion ruling, and the play was upheld.",4.44,3.85,1.0,2022,5
+4,0:22,2.0,10.0,PIT 17,20.0,14.0,"Joe Burrow pass incomplete intended for Joe Mixon. Penalty on T.J. Watt: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",3.85,4.78,1.0,2022,5
+4,0:16,1.0,10.0,PIT 12,20.0,14.0,Joe Burrow pass incomplete short left intended for Mike Thomas,4.78,4.1,1.0,2022,5
+4,0:13,2.0,10.0,PIT 12,20.0,14.0,"Joe Burrow pass incomplete short middle intended for Tyler Boyd. Penalty on Minkah Fitzpatrick: Personal Foul / Defense, 6 yards (accepted) (no play)",4.1,5.83,1.0,2022,5
+4,0:09,1.0,6.0,PIT 6,20.0,14.0,Joe Burrow pass incomplete short middle intended for Mike Thomas,5.83,4.95,1.0,2022,5
+4,0:04,,,,,,Timeout #2 by Pittsburgh Steelers,,,1.0,2022,5
+4,0:04,2.0,6.0,PIT 6,20.0,20.0,"Joe Burrow pass complete short right to Ja'Marr Chase for 6 yards, touchdown",4.95,7.0,1.0,2022,5
+4,0:02,,,PIT 15,20.0,20.0,Evan McPherson kicks extra point blocked blocked by Minkah Fitzpatrick,0.0,-1.0,1.0,2022,5
+4,0:02,,,CIN 35,20.0,20.0,"Evan McPherson kicks off 47 yards, returned by Gunner Olszewski for 1 yard (tackle by Stanley Morgan)",0.0,0.0,1.0,2022,5
+,,,,,,,"Steelers won the coin toss, Steelers to receive the overtime kickoff.",,,1.0,2022,5
+OT,10:00,,,CIN 35,20.0,20.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,1.0,2022,5
+OT,10:00,1.0,10.0,PIT 25,20.0,20.0,Jaylen Warren up the middle for 2 yards (tackle by Germaine Pratt),0.61,0.33,1.0,2022,5
+OT,9:21,2.0,8.0,PIT 27,20.0,20.0,Mitchell Trubisky pass complete short right to Pat Freiermuth for 5 yards (tackle by Mike Hilton),0.33,0.3,1.0,2022,5
+OT,8:37,3.0,3.0,PIT 32,20.0,20.0,Mitchell Trubisky pass incomplete deep left intended for Chase Claypool,0.3,-1.24,1.0,2022,5
+OT,8:31,4.0,3.0,PIT 32,20.0,20.0,"Pressley Harvin punts 48 yards, returned by Trent Taylor for 5 yards (tackle by Benny Snell)",-1.24,-0.61,1.0,2022,5
+OT,8:21,1.0,10.0,CIN 25,20.0,20.0,"Joe Burrow pass incomplete intended for Mike Thomas. Penalty on Ahkello Witherspoon: Defensive Pass Interference, 12 yards (accepted) (no play)",0.61,1.4,1.0,2022,5
+OT,8:16,1.0,10.0,CIN 37,20.0,20.0,Joe Mixon left tackle for -1 yards (tackle by Larry Ogunjobi and Alex Highsmith),1.4,0.72,1.0,2022,5
+OT,7:40,2.0,11.0,CIN 36,20.0,20.0,Joe Burrow pass complete short middle to Samaje Perine for 14 yards (tackle by Myles Jack),0.72,2.26,1.0,2022,5
+OT,6:52,1.0,10.0,PIT 50,20.0,20.0,Joe Burrow pass complete short left to Hayden Hurst for 10 yards (tackle by Myles Jack),2.26,2.92,1.0,2022,5
+OT,6:07,1.0,10.0,PIT 40,20.0,20.0,Joe Mixon left guard for 7 yards (tackle by Minkah Fitzpatrick),2.92,3.32,1.0,2022,5
+OT,5:26,2.0,3.0,PIT 33,20.0,20.0,Joe Burrow pass incomplete deep right intended for Samaje Perine,3.32,2.61,1.0,2022,5
+OT,5:21,3.0,3.0,PIT 33,20.0,20.0,Joe Burrow pass complete deep right to Hayden Hurst for 20 yards,2.61,4.71,1.0,2022,5
+OT,4:54,1.0,10.0,PIT 13,20.0,20.0,Joe Mixon for no gain (tackle by Terrell Edmunds),4.71,4.05,1.0,2022,5
+OT,4:07,2.0,10.0,PIT 13,20.0,20.0,Joe Burrow pass complete short right to Drew Sample for 2 yards (tackle by Minkah Fitzpatrick),4.05,3.62,1.0,2022,5
+OT,3:37,3.0,7.0,PIT 11,20.0,20.0,Evan McPherson 29 yard field goal no good,3.62,-0.28,1.0,2022,5
+OT,3:33,1.0,10.0,PIT 20,20.0,20.0,"Mitchell Trubisky pass incomplete intended for Diontae Johnson Replay Assistant challenged the pass completion ruling, and the original play was overturned. Mitchell Trubisky pass complete deep left to Diontae Johnson for 25 yards (tackle by Chidobe Awuzie)",0.28,1.93,1.0,2022,5
+OT,3:28,1.0,10.0,PIT 45,20.0,20.0,Chase Claypool for 12 yards (tackle by Germaine Pratt),1.93,2.72,1.0,2022,5
+OT,3:22,1.0,10.0,CIN 43,20.0,20.0,Mitchell Trubisky pass incomplete deep right intended for Diontae Johnson,2.72,2.18,1.0,2022,5
+OT,3:18,2.0,10.0,CIN 43,20.0,20.0,Mitchell Trubisky pass complete short left to Chase Claypool for 6 yards (tackle by Mike Hilton),2.18,2.28,1.0,2022,5
+OT,2:35,3.0,4.0,CIN 37,20.0,20.0,Mitchell Trubisky pass complete short left to Diontae Johnson for no gain (tackle by Akeem Davis-Gaither),2.28,0.79,1.0,2022,5
+OT,2:27,,,,,,Timeout #1 by Cincinnati Bengals,,,1.0,2022,5
+OT,2:27,4.0,4.0,CIN 37,20.0,20.0,Chris Boswell 55 yard field goal no good,0.79,-1.93,1.0,2022,5
+OT,2:22,1.0,10.0,CIN 45,20.0,20.0,Joe Burrow scrambles up the middle for 9 yards (tackle by Ahkello Witherspoon),1.93,2.6,1.0,2022,5
+OT,2:00,2.0,1.0,PIT 46,20.0,20.0,Joe Burrow up the middle for 2 yards (tackle by Myles Jack),2.6,2.65,1.0,2022,5
+OT,1:45,,,,,,Timeout #1 by Pittsburgh Steelers,,,1.0,2022,5
+OT,1:45,1.0,10.0,PIT 44,20.0,20.0,Joe Burrow pass complete short right to Hayden Hurst for 6 yards (tackle by Terrell Edmunds),2.65,2.92,1.0,2022,5
+OT,1:38,2.0,4.0,PIT 38,20.0,20.0,Joe Burrow pass incomplete deep right intended for Samaje Perine,2.92,2.21,1.0,2022,5
+OT,1:34,3.0,4.0,PIT 38,20.0,20.0,"Joe Burrow sacked by Arthur Maulet for -7 yards. Joe Burrow fumbles (forced by Arthur Maulet), recovered by Samaje Perine at PIT-45 and returned for -5 yards (tackle by Arthur Maulet)",2.21,-0.06,1.0,2022,5
+OT,1:05,4.0,16.0,PIT 50,20.0,20.0,"Kevin Huber punts 50 yards, touchback.",-0.06,-0.28,1.0,2022,5
+OT,0:56,1.0,10.0,PIT 20,20.0,20.0,Mitchell Trubisky pass incomplete deep middle intended for Pat Freiermuth (defended by Tre Flowers),0.28,-0.27,1.0,2022,5
+OT,0:51,2.0,10.0,PIT 20,20.0,20.0,Mitchell Trubisky pass complete short left to Diontae Johnson for 9 yards (tackle by Chidobe Awuzie),-0.27,0.23,1.0,2022,5
+OT,0:34,3.0,1.0,PIT 29,20.0,20.0,"Mitchell Trubisky pass complete deep middle to Pat Freiermuth for 26 yards (tackle by Mike Hilton). Penalty on Sam Hubbard: Defensive Offside, 5 yards (declined)",0.23,2.59,1.0,2022,5
+OT,0:25,1.0,10.0,CIN 45,20.0,20.0,Mitchell Trubisky pass incomplete short left intended for Diontae Johnson,2.59,2.04,1.0,2022,5
+OT,0:21,2.0,10.0,CIN 45,20.0,20.0,Mitchell Trubisky pass complete short middle to Pat Freiermuth for 10 yards (tackle by Vonn Bell),2.04,3.25,1.0,2022,5
+OT,0:09,1.0,10.0,CIN 35,20.0,20.0,Mitchell Trubisky spiked the ball,3.25,2.7,1.0,2022,5
+OT,0:08,2.0,10.0,CIN 35,20.0,20.0,Mitchell Trubisky pass incomplete short right intended for Chase Claypool,2.7,2.01,1.0,2022,5
+OT,0:05,3.0,10.0,CIN 35,23.0,20.0,Chris Boswell 53 yard field goal good,2.01,3.0,1.0,2022,5

@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+2,1,14:49,NYG 27,3,2:10,3,Punt,0,Giants,3.0,2024,35
+3,1,9:51,NYG 19,13,7:44,81,Touchdown,0,Giants,3.0,2024,35
+4,2,15:00,NYG 37,3,1:56,6,Punt,0,Giants,3.0,2024,35
+5,2,8:35,NYG 7,14,6:51,93,Touchdown,0,Giants,3.0,2024,35
+6,2,0:32,CLE 30,4,0:21,30,Touchdown,0,Giants,3.0,2024,35
+7,3,14:01,NYG 18,3,1:07,23,Fumble,0,Giants,3.0,2024,35
+8,3,10:45,NYG 43,4,1:05,3,Punt,0,Giants,3.0,2024,35
+9,3,5:57,NYG 5,6,4:15,20,Punt,0,Giants,3.0,2024,35
+10,4,14:42,NYG 9,3,1:02,1,Punt,0,Giants,3.0,2024,35
+11,4,11:33,NYG 30,4,1:40,3,Punt,0,Giants,3.0,2024,35
+12,4,7:40,NYG 46,5,2:21,14,Punt,0,Giants,3.0,2024,35
+13,4,3:56,CLE 29,4,0:56,-1,Missed FG,0,Giants,3.0,2024,35
+14,4,2:23,CLE 44,4,2:23,39,End of Game,0,Giants,3.0,2024,35

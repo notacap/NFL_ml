@@ -1,0 +1,37 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Unnamed: 7_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Fumbles,Fumbles,Fumbles,Fumbles,week,year,game_id
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF,,,
+Jalen Thompson,ARI,1,0,0,0,1,1.0,8,8,0,1,1,0,0,0,0,11.0,2023,158
+Antonio Hamilton,ARI,1,0,0,0,3,0.0,5,4,1,0,0,0,0,0,0,11.0,2023,158
+Krys Barnes,ARI,1,46,0,46,2,0.0,3,2,1,0,0,0,0,0,0,11.0,2023,158
+Leki Fotu,ARI,0,0,0,0,0,1.0,4,4,0,2,1,0,0,0,0,11.0,2023,158
+Dante Stills,ARI,0,0,0,0,0,1.0,4,2,2,1,1,0,0,0,0,11.0,2023,158
+BJ Ojulari,ARI,0,0,0,0,0,1.0,1,1,0,1,1,0,0,0,0,11.0,2023,158
+Josh Woods,ARI,0,0,0,0,0,0.0,7,6,1,0,0,0,0,0,0,11.0,2023,158
+Marco Wilson,ARI,0,0,0,0,0,0.0,6,3,3,0,0,0,0,0,0,11.0,2023,158
+Roy Lopez,ARI,0,0,0,0,0,0.0,5,3,2,0,1,0,0,0,0,11.0,2023,158
+Budda Baker,ARI,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0,11.0,2023,158
+Victor Dimukeje,ARI,0,0,0,0,0,0.0,4,4,0,1,0,0,0,0,0,11.0,2023,158
+Dennis Gardeck,ARI,0,0,0,0,0,0.0,4,4,0,0,0,0,0,0,0,11.0,2023,158
+Phil Hoskins,ARI,0,0,0,0,0,0.0,4,2,2,0,0,0,0,0,0,11.0,2023,158
+Kyzir White,ARI,0,0,0,0,1,0.0,3,2,1,0,0,0,0,0,0,11.0,2023,158
+Zaven Collins,ARI,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,11.0,2023,158
+Kevin Strong,ARI,0,0,0,0,0,0.0,2,0,2,0,0,0,0,0,0,11.0,2023,158
+Starling Thomas,ARI,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,11.0,2023,158
+Cameron Thomas,ARI,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,11.0,2023,158
+Garrett Williams,ARI,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,11.0,2023,158
+James Conner,ARI,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,0,11.0,2023,158
+Derek Stingley Jr.,HOU,1,0,0,0,2,0.0,6,3,3,0,0,0,0,0,0,11.0,2023,158
+Blake Cashman,HOU,0,0,0,0,1,1.0,19,13,6,1,2,0,0,0,0,11.0,2023,158
+Will Anderson,HOU,0,0,0,0,0,1.0,2,2,0,2,2,0,0,0,0,11.0,2023,158
+Jalen Pitre,HOU,0,0,0,0,0,0.0,6,4,2,1,1,0,0,0,0,11.0,2023,158
+Christian Harris,HOU,0,0,0,0,2,0.0,5,5,0,1,0,0,0,0,0,11.0,2023,158
+DeAndre Houston-Carson,HOU,0,0,0,0,1,0.0,5,3,2,0,0,0,0,0,0,11.0,2023,158
+Tavierre Thomas,HOU,0,0,0,0,0,0.0,4,2,2,0,0,0,0,0,0,11.0,2023,158
+Dylan Horton,HOU,0,0,0,0,0,0.0,3,1,2,0,0,0,0,0,0,11.0,2023,158
+Steven Nelson,HOU,0,0,0,0,1,0.0,3,1,2,0,0,0,0,0,0,11.0,2023,158
+Neville Hewitt,HOU,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,11.0,2023,158
+Jerry Hughes,HOU,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,11.0,2023,158
+Maliek Collins,HOU,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,11.0,2023,158
+Khalil Davis,HOU,0,0,0,0,0,0.0,1,1,0,1,0,0,0,0,0,11.0,2023,158
+Jonathan Greenard,HOU,0,0,0,0,0,0.0,1,1,0,1,0,0,0,0,0,11.0,2023,158
+Ka'dar Hollman,HOU,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,0,11.0,2023,158

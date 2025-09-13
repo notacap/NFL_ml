@@ -1,0 +1,10 @@
+Quarter,Time,Tm,Detail,HOU,MIA,week,year,game_id
+1.0,10:21,Dolphins,Jason Sanders 45 yard field goal,0,3,12.0,2022,170
+,2:57,Dolphins,Durham Smythe 4 yard pass from Tua Tagovailoa (Jason Sanders kick),0,10,12.0,2022,170
+2.0,12:22,Dolphins,Jeff Wilson 3 yard rush (Jason Sanders kick),0,17,12.0,2022,170
+,6:22,Dolphins,Jason Sanders 23 yard field goal,0,20,12.0,2022,170
+,4:59,Dolphins,Xavien Howard 16 yard fumble return (Jason Sanders kick),0,27,12.0,2022,170
+,0:00,Dolphins,Jason Sanders 35 yard field goal,0,30,12.0,2022,170
+3.0,3:18,Texans,Dare Ogunbowale 3 yard rush (run failed),6,30,12.0,2022,170
+4.0,12:46,Texans,Jordan Akins 25 yard pass from Kyle Allen (pass failed),12,30,12.0,2022,170
+,9:00,Texans,Ka'imi Fairbairn 28 yard field goal,15,30,12.0,2022,170

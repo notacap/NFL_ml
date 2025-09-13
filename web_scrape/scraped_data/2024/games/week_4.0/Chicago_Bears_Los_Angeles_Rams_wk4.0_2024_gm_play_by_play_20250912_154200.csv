@@ -1,0 +1,161 @@
+Quarter,Time,Down,ToGo,Location,LAR,CHI,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Rams won the coin toss and deferred, Bears to receive the opening kickoff.",,,4.0,2024,52
+1.0,15:00,,,LAR 35,0.0,0.0,"Ethan Evans kicks off 65 yards, touchback.. Penalty on Tarvarius Moore: Illegal Formation, 5 yards (accepted)",0.0,0.61,4.0,2024,52
+1.0,15:00,1.0,10.0,CHI 25,0.0,0.0,D'Andre Swift right end for 6 yards (tackle by Cobie Durant and Kamren Curl),0.61,0.87,4.0,2024,52
+1.0,14:23,2.0,4.0,CHI 31,0.0,0.0,Caleb Williams pass complete short right to Keenan Allen for 5 yards (tackle by Cobie Durant),0.87,1.33,4.0,2024,52
+1.0,13:41,1.0,10.0,CHI 36,0.0,0.0,D'Andre Swift right end for 2 yards (tackle by Christian Rozeboom),1.33,1.06,4.0,2024,52
+1.0,13:03,2.0,8.0,CHI 38,0.0,0.0,D'Andre Swift right end for 4 yards (tackle by Kamren Curl and Kobie Turner),1.06,0.89,4.0,2024,52
+1.0,12:18,3.0,4.0,CHI 42,0.0,0.0,Caleb Williams pass complete short left to Cole Kmet for 2 yards (tackle by Quentin Lake),0.89,-0.46,4.0,2024,52
+1.0,11:35,4.0,2.0,CHI 44,0.0,0.0,Tory Taylor punts 51 yards downed by Jaylon Jones,-0.46,0.38,4.0,2024,52
+1.0,11:24,1.0,10.0,LAR 5,0.0,0.0,Matthew Stafford pass incomplete short middle intended for Colby Parkinson,-0.38,-0.78,4.0,2024,52
+1.0,11:19,2.0,10.0,LAR 5,0.0,0.0,Kyren Williams left guard for 5 yards (tackle by DeMarcus Walker),-0.78,-0.84,4.0,2024,52
+1.0,10:39,3.0,5.0,LAR 10,0.0,0.0,Matthew Stafford pass complete short middle to Colby Parkinson for 6 yards (tackle by Jaquan Brisker),-0.84,-0.14,4.0,2024,52
+1.0,10:02,1.0,10.0,LAR 16,0.0,0.0,Kyren Williams left guard for 5 yards (tackle by T.J. Edwards),-0.14,0.15,4.0,2024,52
+1.0,9:23,2.0,5.0,LAR 21,0.0,0.0,Matthew Stafford pass complete deep left to Demarcus Robinson for 19 yards (tackle by Jaylon Johnson),0.15,1.6,4.0,2024,52
+1.0,8:45,1.0,10.0,LAR 40,0.0,0.0,Matthew Stafford pass complete short left to Kyren Williams for 2 yards (tackle by Austin Booker),1.6,1.32,4.0,2024,52
+1.0,8:03,2.0,8.0,LAR 42,0.0,0.0,Matthew Stafford pass complete short middle to Jordan Whittington for 14 yards (tackle by Tyrique Stevenson and T.J. Edwards),1.32,2.65,4.0,2024,52
+1.0,7:28,1.0,10.0,CHI 44,0.0,0.0,Kyren Williams right tackle for 5 yards (tackle by Darrell Taylor and Kevin Byard),2.65,2.78,4.0,2024,52
+1.0,6:53,2.0,5.0,CHI 39,0.0,0.0,Matthew Stafford pass complete short right to Colby Parkinson for 9 yards (tackle by Austin Booker),2.78,3.58,4.0,2024,52
+1.0,6:12,1.0,10.0,CHI 30,0.0,0.0,Matthew Stafford sacked by Gervon Dexter for -8 yards,3.58,1.95,4.0,2024,52
+1.0,5:30,2.0,18.0,CHI 38,0.0,0.0,Kyren Williams right guard for 5 yards (tackle by T.J. Edwards and Tyrique Stevenson),1.95,1.95,4.0,2024,52
+1.0,4:49,3.0,13.0,CHI 33,0.0,0.0,Kyren Williams right guard for 6 yards (tackle by DeMarcus Walker and T.J. Edwards),1.95,1.67,4.0,2024,52
+1.0,4:06,4.0,7.0,CHI 27,3.0,0.0,Joshua Karty 46 yard field goal good,1.67,3.0,4.0,2024,52
+1.0,4:01,,,LAR 35,3.0,0.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,52
+1.0,3:44,1.0,10.0,CHI 30,3.0,0.0,"Caleb Williams pass complete short left to D.J. Moore for -5 yards (tackle by Tre'Davious White). Penalty on Braxton Jones: Illegal Blindside Block, 15 yards (accepted) (no play)",0.94,-0.5,4.0,2024,52
+1.0,3:35,1.0,25.0,CHI 15,3.0,0.0,D'Andre Swift right guard for 6 yards (tackle by Troy Reeder),-0.5,-0.82,4.0,2024,52
+1.0,2:56,2.0,19.0,CHI 21,3.0,0.0,Caleb Williams pass complete short right to D.J. Moore for 6 yards (tackle by Troy Reeder),-0.82,-0.69,4.0,2024,52
+1.0,2:14,3.0,13.0,CHI 27,3.0,0.0,Caleb Williams pass incomplete short right,-0.69,-1.57,4.0,2024,52
+1.0,2:07,4.0,13.0,CHI 27,3.0,0.0,"Tory Taylor punts 64 yards, returned by Xavier Smith for 17 yards (tackle by Jack Sanborn)",-1.57,-0.67,4.0,2024,52
+1.0,1:56,1.0,10.0,LAR 26,3.0,0.0,Kyren Williams left guard for -1 yards (tackle by T.J. Edwards),0.67,-0.01,4.0,2024,52
+1.0,1:19,2.0,11.0,LAR 25,3.0,0.0,Matthew Stafford pass complete short middle to Jordan Whittington for 9 yards (tackle by T.J. Edwards and Kyler Gordon),-0.01,0.5,4.0,2024,52
+1.0,0:37,3.0,2.0,LAR 34,3.0,0.0,Kyren Williams left tackle for 8 yards (tackle by Kevin Byard and Jaquan Brisker),0.5,1.73,4.0,2024,52
+1.0,0:02,1.0,10.0,LAR 42,3.0,0.0,"Penalty on Chris Williams: Encroachment, 5 yards (accepted) (no play)",1.73,2.46,4.0,2024,52
+2.0,15:00,1.0,5.0,LAR 47,3.0,0.0,"Penalty on Alaric Jackson: False Start, 5 yards (accepted) (no play)",2.46,1.73,4.0,2024,52
+2.0,15:00,1.0,10.0,LAR 42,3.0,0.0,"Matthew Stafford pass complete deep right to Tutu Atwell for 18 yards (tackle by Tyrique Stevenson). Penalty on Jaquan Brisker: Personal Foul / Defense, 15 yards (accepted)",1.73,3.91,4.0,2024,52
+2.0,14:40,1.0,10.0,CHI 25,3.0,0.0,Kyren Williams right tackle for 1 yard (tackle by Montez Sweat),3.91,3.5,4.0,2024,52
+2.0,13:57,2.0,9.0,CHI 24,3.0,0.0,Matthew Stafford pass complete short left to Jordan Whittington for 6 yards (tackle by Kyler Gordon),3.5,3.66,4.0,2024,52
+2.0,13:14,,,,,,Timeout #1 by Los Angeles Rams,,,4.0,2024,52
+2.0,13:14,3.0,3.0,CHI 18,3.0,0.0,"Matthew Stafford pass intended for Colby Parkinson is intercepted by Jaquan Brisker in end zone and returned for no gain Replay Assistant challenged the runner was in bounds ruling, and the original play was overturned. Matthew Stafford pass incomplete deep left intended for Colby Parkinson",3.66,2.35,4.0,2024,52
+2.0,13:09,4.0,3.0,CHI 18,6.0,0.0,Joshua Karty 37 yard field goal good,2.35,3.0,4.0,2024,52
+2.0,13:05,,,LAR 35,6.0,0.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,52
+2.0,13:05,1.0,10.0,CHI 30,6.0,0.0,Roschon Johnson right guard for 4 yards (tackle by Bobby Brown and Tyler Davis),0.94,0.93,4.0,2024,52
+2.0,12:37,2.0,6.0,CHI 34,6.0,0.0,Caleb Williams left end for 7 yards (tackle by Jared Verse),0.93,1.66,4.0,2024,52
+2.0,12:13,1.0,10.0,CHI 41,6.0,0.0,"Penalty on Darnell Wright: False Start, 5 yards (accepted) (no play)",1.66,1.33,4.0,2024,52
+2.0,11:56,1.0,15.0,CHI 36,6.0,0.0,Caleb Williams pass complete short left to D'Andre Swift for 5 yards (tackle by Christian Rozeboom),1.33,1.12,4.0,2024,52
+2.0,11:17,2.0,10.0,CHI 41,6.0,0.0,"Caleb Williams pass complete to D.J. Moore for no gain. Penalty on Coleman Shelton: Offensive Holding, 10 yards (accepted) (no play)",1.12,-0.23,4.0,2024,52
+2.0,10:57,2.0,20.0,CHI 31,6.0,0.0,Caleb Williams pass complete short middle to Rome Odunze for 10 yards (tackle by Troy Reeder and Christian Rozeboom),-0.23,0.43,4.0,2024,52
+2.0,10:14,3.0,10.0,CHI 41,6.0,0.0,"Caleb Williams sacked by Jared Verse for no gain. Penalty on Tre'Davious White: Defensive Holding, 5 yards (accepted) (no play)",0.43,1.99,4.0,2024,52
+2.0,9:53,1.0,10.0,CHI 46,6.0,0.0,Roschon Johnson left tackle for 4 yards (tackle by Troy Reeder),1.99,1.99,4.0,2024,52
+2.0,9:29,2.0,6.0,CHI 50,6.0,0.0,"Caleb Williams sacked by Jared Verse for no gain. Penalty on Kamren Curl: Defensive Holding, 5 yards (accepted) (no play)",1.99,2.59,4.0,2024,52
+2.0,8:59,1.0,10.0,LAR 45,6.0,0.0,Caleb Williams pass incomplete deep right intended for Rome Odunze,2.59,2.04,4.0,2024,52
+2.0,8:53,2.0,10.0,LAR 45,6.0,0.0,Roschon Johnson left guard for 1 yard (tackle by Braden Fiske and Kobie Turner),2.04,1.49,4.0,2024,52
+2.0,8:13,3.0,9.0,LAR 44,6.0,0.0,"Caleb Williams pass complete to Roschon Johnson for no gain. Penalty on Darnell Wright: Illegal Formation, 5 yards (accepted) (no play)",1.49,0.83,4.0,2024,52
+2.0,7:40,3.0,14.0,LAR 49,6.0,0.0,"Caleb Williams sacked by Braden Fiske for -12 yards. Caleb Williams fumbles (forced by Braden Fiske), recovered by Matt Pryor at CHI-39 (tackle by Braden Fiske)",0.83,-0.78,4.0,2024,52
+2.0,6:52,4.0,26.0,CHI 39,6.0,0.0,"Tory Taylor punts 61 yards, touchback.",-0.78,-0.28,4.0,2024,52
+2.0,6:51,1.0,10.0,LAR 20,6.0,0.0,"Matthew Stafford sacked by Montez Sweat for -4 yards. Matthew Stafford fumbles (forced by Montez Sweat), recovered by Kyler Gordon at LA-16 (tackle by Montez Sweat)",0.28,-4.51,4.0,2024,52
+2.0,6:42,1.0,10.0,LAR 16,6.0,0.0,Caleb Williams pass incomplete short right intended for D.J. Moore,4.51,3.9,4.0,2024,52
+2.0,6:36,2.0,10.0,LAR 16,6.0,0.0,D'Andre Swift right guard for 1 yard (tackle by Kamren Curl),3.9,3.22,4.0,2024,52
+2.0,5:53,3.0,9.0,LAR 15,6.0,0.0,"Caleb Williams pass incomplete intended for Keenan Allen. Penalty on Tre'Davious White: Defensive Pass Interference, 14 yards (accepted) (no play)",3.22,6.97,4.0,2024,52
+2.0,5:46,1.0,1.0,LAR 1,6.0,6.0,"Roschon Johnson right guard for 1 yard, touchdown",6.97,7.0,4.0,2024,52
+2.0,5:42,,,LAR 15,6.0,7.0,Cairo Santos kicks extra point good,0.0,0.0,4.0,2024,52
+2.0,5:42,,,CHI 35,6.0,7.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,52
+2.0,5:42,1.0,10.0,LAR 30,6.0,7.0,Ronnie Rivers left end for 8 yards (tackle by Jaquan Brisker),0.94,1.47,4.0,2024,52
+2.0,5:03,2.0,2.0,LAR 38,6.0,7.0,Ronnie Rivers left end for -1 yards (tackle by Jaquan Brisker),1.47,0.63,4.0,2024,52
+2.0,4:20,3.0,3.0,LAR 37,6.0,7.0,Matthew Stafford pass complete short middle to Jordan Whittington for 10 yards (tackle by Tyrique Stevenson),0.63,2.06,4.0,2024,52
+2.0,3:41,1.0,10.0,LAR 47,6.0,7.0,Matthew Stafford pass complete deep middle to Tutu Atwell for 22 yards (tackle by Tremaine Edmunds),2.06,3.51,4.0,2024,52
+2.0,2:58,1.0,10.0,CHI 31,6.0,7.0,Matthew Stafford pass incomplete short right intended for Colby Parkinson (defended by Montez Sweat),3.51,2.97,4.0,2024,52
+2.0,2:53,2.0,10.0,CHI 31,6.0,7.0,Matthew Stafford pass complete short middle to Jordan Whittington for 7 yards (tackle by Kyler Gordon),2.97,3.2,4.0,2024,52
+2.0,2:16,3.0,3.0,CHI 24,6.0,7.0,Ronnie Rivers right guard for 4 yards (tackle by Kevin Byard),3.2,4.24,4.0,2024,52
+2.0,2:00,1.0,10.0,CHI 20,6.0,7.0,Ronnie Rivers left tackle for 5 yards (tackle by Jaquan Brisker),4.24,4.45,4.0,2024,52
+2.0,1:19,2.0,5.0,CHI 15,6.0,7.0,"Matthew Stafford pass complete short left to Colby Parkinson for 1 yard. Penalty on Tutu Atwell: Offensive Pass Interference, 10 yards (accepted) (no play)",4.45,3.02,4.0,2024,52
+2.0,1:13,2.0,15.0,CHI 25,6.0,7.0,Matthew Stafford pass incomplete short middle intended for Jordan Whittington,3.02,2.34,4.0,2024,52
+2.0,1:09,3.0,15.0,CHI 25,6.0,7.0,Matthew Stafford pass incomplete short left intended for Tutu Atwell (defended by Darrell Taylor),2.34,1.8,4.0,2024,52
+2.0,1:05,4.0,15.0,CHI 25,6.0,7.0,Joshua Karty 43 yard field goal no good,1.8,-1.14,4.0,2024,52
+2.0,1:01,1.0,10.0,CHI 33,6.0,7.0,Caleb Williams pass complete short right to Keenan Allen for 8 yards (tackle by Ahkello Witherspoon),1.14,1.67,4.0,2024,52
+2.0,0:54,,,,,,Timeout #1 by Chicago Bears,,,4.0,2024,52
+2.0,0:54,2.0,2.0,CHI 41,6.0,7.0,Caleb Williams pass complete short middle to D'Andre Swift for 27 yards (tackle by Kamren Curl),1.67,3.45,4.0,2024,52
+2.0,0:40,1.0,10.0,LAR 32,6.0,7.0,"Caleb Williams pass complete to D'Andre Swift for 11 yards Replay Assistant challenged the short of the line to gain ruling, and the original play was overturned. Caleb Williams pass complete short right to D'Andre Swift for 8 yards (tackle by Troy Reeder)",3.45,3.98,4.0,2024,52
+2.0,0:35,2.0,2.0,LAR 24,6.0,7.0,D'Andre Swift right end for 7 yards (tackle by Byron Young),3.98,4.44,4.0,2024,52
+2.0,0:30,1.0,10.0,LAR 17,6.0,7.0,Caleb Williams pass incomplete deep right intended for Rome Odunze,4.44,3.85,4.0,2024,52
+2.0,0:24,2.0,10.0,LAR 17,6.0,7.0,Caleb Williams sacked by Michael Hoecht for -5 yards,3.85,2.54,4.0,2024,52
+2.0,0:18,,,,,,Timeout #2 by Chicago Bears,,,4.0,2024,52
+2.0,0:18,3.0,15.0,LAR 22,6.0,7.0,Caleb Williams pass incomplete deep right intended for D.J. Moore,2.54,1.99,4.0,2024,52
+2.0,0:13,4.0,15.0,LAR 22,6.0,10.0,Cairo Santos 40 yard field goal good,1.99,3.0,4.0,2024,52
+2.0,0:09,,,CHI 35,6.0,10.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,52
+2.0,0:09,1.0,10.0,LAR 30,6.0,10.0,Matthew Stafford kneels for -1 yards,0.94,0.26,4.0,2024,52
+3.0,15:00,,,CHI 35,6.0,10.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,52
+3.0,15:00,1.0,10.0,LAR 30,6.0,10.0,Kyren Williams left end for 9 yards (tackle by Jaylon Johnson),0.94,1.61,4.0,2024,52
+3.0,14:24,2.0,1.0,LAR 39,6.0,10.0,Kyren Williams left guard for 3 yards (tackle by Jaquan Brisker and T.J. Edwards),1.61,1.73,4.0,2024,52
+3.0,13:42,1.0,10.0,LAR 42,6.0,10.0,Kyren Williams right guard for 12 yards (tackle by Kevin Byard),1.73,2.52,4.0,2024,52
+3.0,13:07,1.0,10.0,CHI 46,6.0,10.0,Matthew Stafford pass complete short middle to Kyren Williams for 1 yard (tackle by Andrew Billings and Gervon Dexter),2.52,2.11,4.0,2024,52
+3.0,12:27,2.0,9.0,CHI 45,6.0,10.0,"Matthew Stafford pass incomplete intended for Tutu Atwell. Penalty on Tyrique Stevenson: Defensive Pass Interference, 14 yards (accepted) (no play)",2.11,3.51,4.0,2024,52
+3.0,12:19,1.0,10.0,CHI 31,6.0,10.0,Ronnie Rivers right end for 11 yards (tackle by Chris Williams),3.51,4.24,4.0,2024,52
+3.0,11:41,1.0,10.0,CHI 20,6.0,10.0,Kyren Williams right guard for 2 yards (tackle by T.J. Edwards),4.24,3.96,4.0,2024,52
+3.0,11:02,2.0,8.0,CHI 18,6.0,10.0,Matthew Stafford pass complete short left to Colby Parkinson for 7 yards (tackle by Jaylon Johnson),3.96,4.59,4.0,2024,52
+3.0,10:22,3.0,1.0,CHI 11,6.0,10.0,Kyren Williams right guard for 2 yards (tackle by Andrew Billings and Kyler Gordon),4.59,5.14,4.0,2024,52
+3.0,9:45,1.0,9.0,CHI 9,6.0,10.0,Matthew Stafford pass incomplete short left intended for Jordan Whittington,5.14,4.38,4.0,2024,52
+3.0,9:34,2.0,9.0,CHI 9,6.0,10.0,Matthew Stafford pass complete short left to Kyren Williams for 2 yards (tackle by Tyrique Stevenson),4.38,3.81,4.0,2024,52
+3.0,8:59,3.0,7.0,CHI 7,6.0,10.0,Matthew Stafford pass incomplete short right intended for Tutu Atwell,3.81,2.97,4.0,2024,52
+3.0,8:54,4.0,7.0,CHI 7,9.0,10.0,Joshua Karty 25 yard field goal good,2.97,3.0,4.0,2024,52
+3.0,8:50,,,LAR 35,9.0,10.0,"Ethan Evans kicks off 66 yards, returned by DeAndre Carter for 27 yards (tackle by Jaylen McCollough and Omar Speights)",0.0,0.67,4.0,2024,52
+3.0,8:43,1.0,10.0,CHI 26,9.0,10.0,D'Andre Swift right guard for 4 yards (tackle by Troy Reeder and Christian Rozeboom),0.67,0.67,4.0,2024,52
+3.0,8:04,2.0,6.0,CHI 30,9.0,10.0,Caleb Williams pass complete short right to Cole Kmet for 10 yards (tackle by Christian Rozeboom),0.67,1.6,4.0,2024,52
+3.0,7:26,1.0,10.0,CHI 40,9.0,10.0,D'Andre Swift left end for 9 yards (tackle by Quentin Lake),1.6,2.27,4.0,2024,52
+3.0,6:50,2.0,1.0,CHI 49,9.0,10.0,Caleb Williams pass complete short left to D'Andre Swift for 11 yards (tackle by Christian Rozeboom),2.27,2.92,4.0,2024,52
+3.0,6:10,1.0,10.0,LAR 40,9.0,10.0,D'Andre Swift right tackle for no gain (tackle by Kobie Turner and Byron Young),2.92,2.37,4.0,2024,52
+3.0,5:30,2.0,10.0,LAR 40,9.0,10.0,Caleb Williams pass complete short left to D'Andre Swift for 7 yards (tackle by Troy Reeder and Kamren Kinchens),2.37,2.61,4.0,2024,52
+3.0,4:48,3.0,3.0,LAR 33,9.0,10.0,Roschon Johnson left guard for 8 yards (tackle by Kamren Kinchens and Byron Young),2.61,3.91,4.0,2024,52
+3.0,4:16,1.0,10.0,LAR 25,9.0,10.0,Caleb Williams pass complete short left to Keenan Allen for 6 yards (tackle by Kamren Kinchens),3.91,4.2,4.0,2024,52
+3.0,3:44,2.0,4.0,LAR 19,9.0,10.0,Roschon Johnson left guard for 5 yards (tackle by Jared Verse),4.2,4.65,4.0,2024,52
+3.0,3:18,1.0,10.0,LAR 14,9.0,10.0,Caleb Williams pass incomplete short left intended for D.J. Moore,4.65,4.0,4.0,2024,52
+3.0,3:11,2.0,10.0,LAR 14,9.0,10.0,Caleb Williams left end for 5 yards (tackle by Quentin Lake),4.0,4.05,4.0,2024,52
+3.0,2:43,3.0,5.0,LAR 9,9.0,16.0,"Caleb Williams pass complete short middle to D.J. Moore for 9 yards, touchdown",4.05,7.0,4.0,2024,52
+3.0,2:37,,,LAR 15,9.0,17.0,Cairo Santos kicks extra point good,0.0,0.0,4.0,2024,52
+3.0,2:37,,,CHI 35,9.0,17.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,52
+3.0,2:37,1.0,10.0,LAR 30,9.0,17.0,Matthew Stafford pass complete short left to Jordan Whittington for 16 yards (tackle by Kevin Byard),0.94,1.99,4.0,2024,52
+3.0,1:58,1.0,10.0,LAR 46,9.0,17.0,Matthew Stafford pass complete deep left to Tutu Atwell for 25 yards (tackle by Jaquan Brisker),1.99,3.64,4.0,2024,52
+3.0,1:29,1.0,10.0,CHI 29,9.0,17.0,Kyren Williams up the middle for 7 yards (tackle by DeMarcus Walker and Kyler Gordon),3.64,4.05,4.0,2024,52
+3.0,0:53,2.0,3.0,CHI 22,9.0,17.0,Kyren Williams right end for 14 yards (tackle by Kevin Byard),4.05,5.37,4.0,2024,52
+3.0,0:20,1.0,8.0,CHI 8,9.0,17.0,Kyren Williams right guard for 5 yards (tackle by Kevin Byard and T.J. Edwards),5.37,5.53,4.0,2024,52
+4.0,15:00,2.0,3.0,CHI 3,15.0,17.0,"Kyren Williams left guard for 3 yards, touchdown",5.53,7.0,4.0,2024,52
+4.0,14:55,,,CHI 2,15.0,17.0,Two Point Attempt: Matthew Stafford pass incomplete,1.0,-1.0,4.0,2024,52
+4.0,14:55,,,LAR 35,15.0,17.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,52
+4.0,14:55,1.0,10.0,CHI 30,15.0,17.0,Caleb Williams pass complete short left to D.J. Moore for 7 yards (tackle by Tre'Davious White),0.94,1.34,4.0,2024,52
+4.0,14:13,2.0,3.0,CHI 37,15.0,17.0,Caleb Williams pass complete short right to D'Andre Swift for 5 yards (tackle by Christian Rozeboom),1.34,1.73,4.0,2024,52
+4.0,13:25,1.0,10.0,CHI 42,15.0,17.0,"Penalty on Cole Kmet: False Start, 5 yards (accepted) (no play)",1.73,1.4,4.0,2024,52
+4.0,13:09,1.0,15.0,CHI 37,15.0,17.0,D'Andre Swift left tackle for 5 yards (tackle by Michael Hoecht and Kamren Kinchens),1.4,1.19,4.0,2024,52
+4.0,12:56,2.0,10.0,CHI 42,15.0,17.0,Caleb Williams pass complete deep middle to Cole Kmet for 22 yards (tackle by Christian Rozeboom),1.19,3.18,4.0,2024,52
+4.0,12:33,1.0,10.0,LAR 36,15.0,23.0,"D'Andre Swift left guard for 36 yards, touchdown",3.18,7.0,4.0,2024,52
+4.0,12:26,,,LAR 15,15.0,24.0,Cairo Santos kicks extra point good,0.0,0.0,4.0,2024,52
+4.0,12:26,,,CHI 35,15.0,24.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,52
+4.0,12:26,1.0,10.0,LAR 30,15.0,24.0,Matthew Stafford pass complete deep middle to Demarcus Robinson for 18 yards (tackle by Jaquan Brisker),0.94,2.13,4.0,2024,52
+4.0,11:50,1.0,10.0,LAR 48,15.0,24.0,Ronnie Rivers left end for -1 yards (tackle by Jaylon Johnson and Jaquan Brisker),2.13,1.45,4.0,2024,52
+4.0,11:07,2.0,11.0,LAR 47,15.0,24.0,Matthew Stafford pass complete deep middle to Tutu Atwell for 17 yards (tackle by Jaquan Brisker),1.45,3.18,4.0,2024,52
+4.0,10:24,1.0,10.0,CHI 36,15.0,24.0,Matthew Stafford pass incomplete short left intended for Tyler Johnson,3.18,2.64,4.0,2024,52
+4.0,10:15,,,,,,Timeout #1 by Los Angeles Rams,,,4.0,2024,52
+4.0,10:15,2.0,10.0,CHI 36,15.0,24.0,Matthew Stafford sacked by Jaquan Brisker for -9 yards,2.64,0.76,4.0,2024,52
+4.0,9:34,3.0,19.0,CHI 45,15.0,24.0,Matthew Stafford pass complete short middle to Colby Parkinson for 11 yards (tackle by Kyler Gordon),0.76,1.06,4.0,2024,52
+4.0,8:52,4.0,8.0,CHI 34,18.0,24.0,Joshua Karty 52 yard field goal good,1.06,3.0,4.0,2024,52
+4.0,8:47,,,LAR 35,18.0,24.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,52
+4.0,8:47,1.0,10.0,CHI 30,18.0,24.0,D'Andre Swift right guard for -1 yards (tackle by Jared Verse),0.94,0.26,4.0,2024,52
+4.0,8:09,2.0,11.0,CHI 29,18.0,24.0,Caleb Williams pass complete short right to D'Andre Swift for 9 yards (tackle by Bobby Brown and Christian Rozeboom),0.26,0.76,4.0,2024,52
+4.0,7:25,3.0,2.0,CHI 38,18.0,24.0,"Penalty on Cole Kmet: False Start, 5 yards (accepted) (no play)",0.76,0.1,4.0,2024,52
+4.0,7:25,3.0,7.0,CHI 33,18.0,24.0,Caleb Williams sacked by Quentin Lake for -7 yards,0.1,-1.63,4.0,2024,52
+4.0,6:35,4.0,14.0,CHI 26,18.0,24.0,Tory Taylor punts 66 yards out of bounds,-1.63,0.38,4.0,2024,52
+4.0,6:25,1.0,10.0,LAR 8,18.0,24.0,Kyren Williams right end for -1 yards (tackle by Tremaine Edmunds),-0.38,-0.85,4.0,2024,52
+4.0,5:44,2.0,11.0,LAR 7,18.0,24.0,Kyren Williams right guard for 4 yards (tackle by Kyler Gordon),-0.85,-1.07,4.0,2024,52
+4.0,5:08,3.0,7.0,LAR 11,18.0,24.0,Matthew Stafford pass complete short left to Kyren Williams for 5 yards (tackle by Jaylon Johnson and Jaquan Brisker),-1.07,-2.39,4.0,2024,52
+4.0,4:28,4.0,2.0,LAR 16,18.0,24.0,"Ethan Evans punts 67 yards, returned by DeAndre Carter for 16 yards (tackle by Jake Hummel and Ronnie Rivers). Penalty on Cam Lampkin: Player Out of Bounds on a Punt, 5 yards (accepted)",-2.39,-1.47,4.0,2024,52
+4.0,4:14,1.0,10.0,CHI 38,18.0,24.0,D'Andre Swift right guard for 7 yards (tackle by Neville Gallimore and Christian Rozeboom),1.47,1.87,4.0,2024,52
+4.0,3:28,2.0,3.0,CHI 45,18.0,24.0,D'Andre Swift right guard for 2 yards (tackle by Neville Gallimore),1.87,1.42,4.0,2024,52
+4.0,2:49,3.0,1.0,CHI 47,18.0,24.0,Roschon Johnson right tackle for 3 yards (tackle by Bobby Brown and Quentin Lake),1.42,2.26,4.0,2024,52
+4.0,2:35,,,,,,Timeout #2 by Los Angeles Rams,,,4.0,2024,52
+4.0,2:35,1.0,10.0,LAR 50,18.0,24.0,D'Andre Swift left end for 3 yards (tackle by Christian Rozeboom and Jared Verse),2.26,2.12,4.0,2024,52
+4.0,2:29,,,,,,Timeout #3 by Los Angeles Rams,,,4.0,2024,52
+4.0,2:29,2.0,7.0,LAR 47,18.0,24.0,D'Andre Swift left tackle for 2 yards (tackle by Quentin Lake and Braden Fiske),2.12,1.69,4.0,2024,52
+4.0,2:00,3.0,5.0,LAR 45,18.0,24.0,Caleb Williams left end for 2 yards (tackle by Braden Fiske),1.69,0.4,4.0,2024,52
+4.0,1:13,,,,,,Timeout #1 by Chicago Bears,,,4.0,2024,52
+4.0,1:13,4.0,3.0,LAR 43,18.0,24.0,Tory Taylor punts 35 yards,0.4,0.38,4.0,2024,52
+4.0,1:03,1.0,10.0,LAR 8,18.0,24.0,Matthew Stafford pass short left intended for Demarcus Robinson is intercepted by Jaquan Brisker at LA-18 and returned for no gain (tackle by Tutu Atwell),-0.38,-4.37,4.0,2024,52
+4.0,0:56,1.0,10.0,LAR 18,18.0,24.0,Caleb Williams kneels for -1 yards,4.37,3.67,4.0,2024,52
+4.0,0:33,2.0,11.0,LAR 19,18.0,24.0,Caleb Williams kneels for -1 yards,3.67,2.87,4.0,2024,52

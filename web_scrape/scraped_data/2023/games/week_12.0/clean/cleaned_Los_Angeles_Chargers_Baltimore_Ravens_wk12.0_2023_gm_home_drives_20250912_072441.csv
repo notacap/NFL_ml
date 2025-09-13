@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,LAC 25,12,5:57,54,Field Goal,1,Chargers,12.0,2023,179
+2,1,5:13,LAC 11,6,3:11,10,Punt,1,Chargers,12.0,2023,179
+3,2,10:41,LAC 20,3,1:43,-1,Punt,1,Chargers,12.0,2023,179
+4,2,4:13,LAC 27,2,0:40,7,Fumble,1,Chargers,12.0,2023,179
+5,2,1:12,LAC 25,3,0:46,22,Fumble,1,Chargers,12.0,2023,179
+6,2,0:03,BAL 49,1,0:03,0,Interception,1,Chargers,12.0,2023,179
+7,3,10:53,LAC 25,3,0:56,9,Punt,1,Chargers,12.0,2023,179
+8,3,6:15,LAC 15,19,8:44,61,Fumble,1,Chargers,12.0,2023,179
+9,4,11:23,LAC 40,7,2:51,60,Touchdown,1,Chargers,12.0,2023,179
+10,4,2:57,LAC 34,6,1:03,10,Downs,1,Chargers,12.0,2023,179
+11,4,1:36,LAC 25,5,0:43,12,Downs,1,Chargers,12.0,2023,179

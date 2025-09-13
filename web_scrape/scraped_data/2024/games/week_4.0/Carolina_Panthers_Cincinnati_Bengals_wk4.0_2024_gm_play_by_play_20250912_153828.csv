@@ -1,0 +1,182 @@
+Quarter,Time,Down,ToGo,Location,CIN,CAR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Bengals won the coin toss and deferred, Panthers to receive the opening kickoff.",,,4.0,2024,51
+1.0,15:00,,,CIN 35,0.0,0.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,51
+1.0,15:00,1.0,10.0,CAR 30,0.0,0.0,Chuba Hubbard left guard for 6 yards (tackle by Daxton Hill and Vonn Bell),0.94,1.2,4.0,2024,51
+1.0,14:27,2.0,4.0,CAR 36,0.0,0.0,Chuba Hubbard right guard for no gain (tackle by Logan Wilson),1.2,0.5,4.0,2024,51
+1.0,13:40,3.0,4.0,CAR 36,0.0,0.0,Andy Dalton pass complete deep left to Diontae Johnson for 39 yards (tackle by Geno Stone),0.5,3.91,4.0,2024,51
+1.0,13:06,1.0,10.0,CIN 25,0.0,0.0,Chuba Hubbard up the middle for no gain (tackle by Sam Hubbard and Joseph Ossai),3.91,3.36,4.0,2024,51
+1.0,12:31,2.0,10.0,CIN 25,0.0,0.0,Andy Dalton pass complete short left to Xavier Legette for 12 yards,3.36,4.71,4.0,2024,51
+1.0,12:21,1.0,10.0,CIN 13,0.0,0.0,Andy Dalton pass complete short right to Diontae Johnson for 3 yards (tackle by Logan Wilson),4.71,4.58,4.0,2024,51
+1.0,11:36,2.0,7.0,CIN 10,0.0,0.0,Andy Dalton pass complete short right to Ja'Tavion Sanders for 5 yards (tackle by Mike Hilton and Joseph Ossai),4.58,4.78,4.0,2024,51
+1.0,10:53,3.0,2.0,CIN 5,0.0,0.0,Chuba Hubbard up the middle for 3 yards (tackle by Mike Hilton and Zachary Carter),4.78,6.74,4.0,2024,51
+1.0,10:25,1.0,2.0,CIN 2,0.0,0.0,Chuba Hubbard right tackle for 1 yard (tackle by Geno Stone and Logan Wilson),6.74,5.91,4.0,2024,51
+1.0,9:48,2.0,1.0,CIN 1,0.0,0.0,Andy Dalton pass incomplete short right intended for Diontae Johnson (defended by Daxton Hill),5.91,5.17,4.0,2024,51
+1.0,9:41,3.0,1.0,CIN 1,0.0,0.0,Chuba Hubbard right tackle for no gain (tackle by Zachary Carter and Logan Wilson),5.17,3.55,4.0,2024,51
+1.0,9:12,4.0,1.0,CIN 1,0.0,0.0,Chuba Hubbard left guard for no gain (tackle by Kris Jenkins),3.55,0.38,4.0,2024,51
+1.0,9:08,1.0,10.0,CIN 1,0.0,0.0,Zack Moss up the middle for 3 yards (tackle by Nick Thurman),-0.38,-0.56,4.0,2024,51
+1.0,8:25,2.0,7.0,CIN 4,0.0,0.0,Joe Burrow pass complete short middle to Erick All for 3 yards (tackle by Shaq Thompson),-0.56,-0.72,4.0,2024,51
+1.0,7:42,3.0,4.0,CIN 7,0.0,0.0,Joe Burrow pass complete short left to Tee Higgins for 8 yards (tackle by Xavier Woods and Josey Jewell),-0.72,-0.22,4.0,2024,51
+1.0,7:00,1.0,10.0,CIN 15,0.0,0.0,Zack Moss left end for 3 yards (tackle by Josey Jewell),-0.22,-0.28,4.0,2024,51
+1.0,6:18,2.0,7.0,CIN 18,0.0,0.0,Joe Burrow pass complete short left to Tee Higgins for 11 yards (tackle by Xavier Woods),-0.28,0.87,4.0,2024,51
+1.0,5:36,1.0,10.0,CIN 29,0.0,0.0,Joe Burrow pass incomplete short right intended for Ja'Marr Chase,0.87,0.33,4.0,2024,51
+1.0,5:30,2.0,10.0,CIN 29,0.0,0.0,Joe Burrow pass complete short middle to Tee Higgins for 7 yards (tackle by Troy Hill),0.33,0.56,4.0,2024,51
+1.0,4:49,3.0,3.0,CIN 36,0.0,0.0,Joe Burrow pass incomplete short left intended for Tee Higgins (defended by A'Shawn Robinson),0.56,-0.98,4.0,2024,51
+1.0,4:45,4.0,3.0,CIN 36,0.0,0.0,"Ryan Rehkow punts 57 yards, returned by Raheem Blackshear for 13 yards (tackle by DJ Turner and Tycen Anderson)",-0.98,-0.28,4.0,2024,51
+1.0,4:33,1.0,10.0,CAR 20,0.0,0.0,Andy Dalton pass complete short left to Xavier Legette for 1 yard (tackle by Cam Taylor-Britt),0.28,-0.13,4.0,2024,51
+1.0,4:01,2.0,9.0,CAR 21,0.0,0.0,Andy Dalton pass incomplete short right intended for Diontae Johnson,-0.13,-0.82,4.0,2024,51
+1.0,3:56,3.0,9.0,CAR 21,0.0,0.0,Andy Dalton pass complete short right to Xavier Legette for 11 yards (tackle by Cam Taylor-Britt),-0.82,1.07,4.0,2024,51
+1.0,3:11,1.0,10.0,CAR 32,0.0,0.0,Andy Dalton pass incomplete deep left intended for Diontae Johnson (defended by Cam Taylor-Britt),1.07,0.53,4.0,2024,51
+1.0,3:04,2.0,10.0,CAR 32,0.0,0.0,Chuba Hubbard up the middle for 2 yards (tackle by Logan Wilson),0.53,0.1,4.0,2024,51
+1.0,2:22,3.0,8.0,CAR 34,0.0,0.0,Andy Dalton pass short middle (defended by Trey Hendrickson) intended for Diontae Johnson is intercepted by Vonn Bell at CAR-48 and returned for 32 yards (tackle by Miles Sanders),0.1,-4.51,4.0,2024,51
+1.0,2:09,1.0,10.0,CAR 16,0.0,0.0,Chase Brown left end for no gain (tackle by Shaq Thompson),4.51,3.9,4.0,2024,51
+1.0,1:36,2.0,10.0,CAR 16,0.0,0.0,Joe Burrow pass complete short middle to Tee Higgins for 12 yards (tackle by Josey Jewell and Nick Scott),3.9,6.28,4.0,2024,51
+1.0,1:00,1.0,4.0,CAR 4,0.0,0.0,"Joe Burrow pass incomplete short middle. Penalty on Michael Jackson: Illegal Contact, 2 yards (accepted) (no play)",6.28,6.74,4.0,2024,51
+1.0,0:54,1.0,2.0,CAR 2,0.0,0.0,Zack Moss right end for -1 yards (tackle by DJ Johnson and Shaq Thompson),6.74,5.53,4.0,2024,51
+1.0,0:11,2.0,3.0,CAR 3,0.0,0.0,Joe Burrow pass incomplete short right intended for Chase Brown (defended by Jaycee Horn),5.53,4.72,4.0,2024,51
+1.0,0:08,3.0,3.0,CAR 3,6.0,0.0,"Chase Brown up the middle for 3 yards, touchdown",4.72,7.0,4.0,2024,51
+1.0,0:05,,,CAR 15,7.0,0.0,Evan McPherson kicks extra point good,0.0,0.0,4.0,2024,51
+1.0,0:05,,,CIN 35,7.0,0.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,51
+1.0,0:05,1.0,10.0,CAR 30,7.0,0.0,"Chuba Hubbard up the middle for 3 yards (tackle by Germaine Pratt and Lawrence Guy). Penalty on Daxton Hill: Illegal Use of Hands / Defense, 5 yards (accepted)",0.94,1.47,4.0,2024,51
+2.0,15:00,1.0,10.0,CAR 38,7.0,0.0,Xavier Legette left end for 8 yards (tackle by Daxton Hill),1.47,2.0,4.0,2024,51
+2.0,14:24,2.0,2.0,CAR 46,7.0,0.0,Chuba Hubbard up the middle for 7 yards (tackle by Germaine Pratt),2.0,2.46,4.0,2024,51
+2.0,13:45,1.0,10.0,CIN 47,7.0,0.0,Andy Dalton pass complete short left to Jonathan Mingo for 6 yards (tackle by DJ Turner),2.46,2.72,4.0,2024,51
+2.0,13:07,2.0,4.0,CIN 41,7.0,0.0,Andy Dalton pass incomplete deep left intended for Diontae Johnson (defended by DJ Turner),2.72,2.01,4.0,2024,51
+2.0,12:59,3.0,4.0,CIN 41,7.0,0.0,Miles Sanders left end for 1 yard (tackle by Vonn Bell),2.01,0.59,4.0,2024,51
+2.0,12:15,4.0,3.0,CIN 40,7.0,0.0,Andy Dalton pass complete short right to Diontae Johnson for 4 yards (tackle by DJ Turner),0.59,3.18,4.0,2024,51
+2.0,11:33,1.0,10.0,CIN 36,7.0,0.0,Chuba Hubbard right tackle for 5 yards (tackle by Daxton Hill),3.18,3.31,4.0,2024,51
+2.0,10:58,2.0,5.0,CIN 31,7.0,0.0,Andy Dalton pass complete short right to Ja'Tavion Sanders for 11 yards (tackle by Germaine Pratt),3.31,4.24,4.0,2024,51
+2.0,10:16,1.0,10.0,CIN 20,7.0,0.0,Chuba Hubbard left end for 17 yards (tackle by DJ Turner),4.24,6.51,4.0,2024,51
+2.0,9:38,1.0,3.0,CIN 3,7.0,6.0,"Chuba Hubbard up the middle for 3 yards, touchdown",6.51,7.0,4.0,2024,51
+2.0,9:31,,,CIN 15,7.0,7.0,Eddy Piñeiro kicks extra point good,0.0,0.0,4.0,2024,51
+2.0,9:31,,,CAR 35,7.0,7.0,"Eddy Piñeiro kicks off 64 yards, returned by Trayveon Williams for 18 yards (tackle by Thomas Incoom)",0.0,0.15,4.0,2024,51
+2.0,9:27,1.0,10.0,CIN 19,7.0,7.0,Joe Burrow pass complete short left to Tee Higgins for 11 yards (tackle by Shaq Thompson),0.15,0.94,4.0,2024,51
+2.0,8:48,1.0,10.0,CIN 30,7.0,7.0,Joe Burrow pass complete short right to Erick All for 4 yards (tackle by Nick Scott),0.94,0.93,4.0,2024,51
+2.0,8:09,2.0,6.0,CIN 34,7.0,7.0,Zack Moss right guard for 3 yards (tackle by LaBryan Ray and DJ Johnson),0.93,0.63,4.0,2024,51
+2.0,7:28,3.0,3.0,CIN 37,13.0,7.0,"Joe Burrow pass complete short middle to Ja'Marr Chase for 63 yards, touchdown",0.63,7.0,4.0,2024,51
+2.0,7:14,,,CAR 15,14.0,7.0,Evan McPherson kicks extra point good,0.0,0.0,4.0,2024,51
+2.0,7:14,,,CIN 35,14.0,7.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,51
+2.0,7:14,1.0,10.0,CAR 30,14.0,7.0,Andy Dalton pass complete short right to Miles Sanders for 2 yards (tackle by Daxton Hill),0.94,0.66,4.0,2024,51
+2.0,6:43,2.0,8.0,CAR 32,14.0,7.0,Andy Dalton pass complete short right to Diontae Johnson for 3 yards (tackle by Daxton Hill),0.66,0.37,4.0,2024,51
+2.0,5:58,3.0,5.0,CAR 35,14.0,7.0,"Penalty on Ikem Ekwonu: False Start, 5 yards (accepted) (no play)",0.37,-0.3,4.0,2024,51
+2.0,5:38,3.0,10.0,CAR 30,14.0,7.0,"Andy Dalton pass deep left is intercepted by Josh Newton at CAR-32 and returned for no gain. Penalty on Cam Taylor-Britt: Defensive Holding, 5 yards (accepted) (no play)",-0.3,1.27,4.0,2024,51
+2.0,5:26,1.0,10.0,CAR 35,14.0,7.0,Andy Dalton pass complete short right to Jonathan Mingo for 7 yards (tackle by Geno Stone and Daxton Hill),1.27,1.67,4.0,2024,51
+2.0,4:49,2.0,3.0,CAR 42,14.0,7.0,Miles Sanders left guard for 4 yards (tackle by Jay Tufele),1.67,1.99,4.0,2024,51
+2.0,4:13,1.0,10.0,CAR 46,14.0,7.0,Miles Sanders up the middle for 7 yards (tackle by Vonn Bell and Logan Wilson),1.99,2.4,4.0,2024,51
+2.0,3:24,,,,,,Timeout #1 by Carolina Panthers,,,4.0,2024,51
+2.0,3:24,2.0,3.0,CIN 47,14.0,7.0,Andy Dalton pass complete short left to Miles Sanders for no gain (tackle by Germaine Pratt and Logan Wilson),2.4,1.69,4.0,2024,51
+2.0,2:38,3.0,3.0,CIN 47,14.0,7.0,Andy Dalton pass complete short left to Diontae Johnson for 5 yards (tackle by DJ Turner),1.69,2.79,4.0,2024,51
+2.0,2:00,1.0,10.0,CIN 42,14.0,7.0,Miles Sanders left tackle for 3 yards (tackle by Zachary Carter and Trey Hendrickson),2.79,2.65,4.0,2024,51
+2.0,1:27,2.0,7.0,CIN 39,14.0,7.0,Andy Dalton pass complete short left to Xavier Legette for 17 yards (tackle by DJ Turner),2.65,4.11,4.0,2024,51
+2.0,1:19,,,,,,Timeout #1 by Cincinnati Bengals,,,4.0,2024,51
+2.0,1:19,1.0,10.0,CIN 22,14.0,7.0,Miles Sanders left end for 14 yards (tackle by Germaine Pratt),4.11,5.37,4.0,2024,51
+2.0,1:13,,,,,,Timeout #2 by Cincinnati Bengals,,,4.0,2024,51
+2.0,1:13,1.0,8.0,CIN 8,14.0,13.0,"Andy Dalton pass complete short left to Xavier Legette for 8 yards, touchdown",5.37,7.0,4.0,2024,51
+2.0,1:09,,,CIN 15,14.0,14.0,Eddy Piñeiro kicks extra point good,0.0,0.0,4.0,2024,51
+2.0,1:09,,,CAR 35,14.0,14.0,"Eddy Piñeiro kicks off 55 yards, returned by Chase Brown for 24 yards (tackle by Feleipe Franks and Jammie Robinson)",0.0,1.2,4.0,2024,51
+2.0,1:02,1.0,10.0,CIN 34,14.0,14.0,Joe Burrow pass complete short right to Zack Moss for 4 yards (tackle by Josey Jewell),1.2,1.2,4.0,2024,51
+2.0,0:55,2.0,6.0,CIN 38,14.0,14.0,Joe Burrow pass complete short left to Zack Moss for 1 yard (tackle by Josey Jewell),1.2,0.63,4.0,2024,51
+2.0,0:48,,,,,,Timeout #3 by Cincinnati Bengals,,,4.0,2024,51
+2.0,0:48,3.0,5.0,CIN 39,14.0,14.0,Joe Burrow pass complete short left to Tee Higgins for 11 yards (tackle by Jaycee Horn),0.63,2.26,4.0,2024,51
+2.0,0:43,1.0,10.0,CIN 50,14.0,14.0,Joe Burrow pass complete deep middle to Andrei Iosivas for 29 yards (tackle by Nick Scott and Troy Hill),2.26,4.17,4.0,2024,51
+2.0,0:26,,,,,,Timeout #2 by Carolina Panthers,,,4.0,2024,51
+2.0,0:26,1.0,10.0,CAR 21,14.0,14.0,Joe Burrow pass incomplete deep right intended for Tee Higgins,4.17,3.63,4.0,2024,51
+2.0,0:22,2.0,10.0,CAR 21,14.0,14.0,"Joe Burrow pass incomplete deep right intended for Tee Higgins. Penalty on Michael Jackson: Defensive Pass Interference, 17 yards (accepted) (no play)",3.63,6.28,4.0,2024,51
+2.0,0:17,,,,,,Timeout #3 by Carolina Panthers,,,4.0,2024,51
+2.0,0:17,1.0,4.0,CAR 4,14.0,14.0,"Joe Burrow pass incomplete short right intended for Tee Higgins. Penalty on Jaycee Horn: Defensive Pass Interference, 3 yards (accepted) (no play)",6.28,6.97,4.0,2024,51
+2.0,0:14,1.0,1.0,CAR 1,14.0,14.0,Joe Burrow pass incomplete short right intended for Ja'Marr Chase,6.97,5.91,4.0,2024,51
+2.0,0:11,2.0,1.0,CAR 1,14.0,14.0,Joe Burrow pass incomplete short middle,5.91,5.17,4.0,2024,51
+2.0,0:06,3.0,1.0,CAR 1,20.0,14.0,"Joe Burrow pass complete short right to Zack Moss for 1 yard, touchdown",5.17,7.0,4.0,2024,51
+2.0,0:01,,,CAR 15,21.0,14.0,Evan McPherson kicks extra point good,0.0,0.0,4.0,2024,51
+2.0,0:01,,,CIN 35,21.0,14.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,51
+2.0,0:01,1.0,10.0,CAR 30,21.0,14.0,Andy Dalton kneels for -1 yards,0.94,0.26,4.0,2024,51
+3.0,15:00,,,CAR 35,21.0,14.0,"Eddy Piñeiro kicks off 64 yards, returned by Chase Brown for 28 yards (tackle by Demani Richardson)",0.0,0.87,4.0,2024,51
+3.0,14:55,1.0,10.0,CIN 29,21.0,14.0,Joe Burrow pass complete short left to Erick All for 10 yards (tackle by Josey Jewell and Michael Jackson),0.87,1.53,4.0,2024,51
+3.0,14:16,1.0,10.0,CIN 39,21.0,14.0,Chase Brown left end for 8 yards (tackle by Michael Jackson),1.53,2.07,4.0,2024,51
+3.0,13:53,2.0,2.0,CIN 47,21.0,14.0,Chase Brown left tackle for 20 yards (tackle by Jaycee Horn and Xavier Woods),2.07,3.38,4.0,2024,51
+3.0,13:13,1.0,10.0,CAR 33,21.0,14.0,Joe Burrow scrambles left end for 10 yards (tackle by DJ Johnson),3.38,4.04,4.0,2024,51
+3.0,12:26,1.0,10.0,CAR 23,21.0,14.0,Zack Moss up the middle for 3 yards (tackle by Shaq Thompson and DeShawn Williams),4.04,3.9,4.0,2024,51
+3.0,11:44,2.0,7.0,CAR 20,21.0,14.0,Joe Burrow pass complete short left to Chase Brown for 8 yards (tackle by Troy Hill),3.9,4.78,4.0,2024,51
+3.0,11:03,1.0,10.0,CAR 12,21.0,14.0,Joe Burrow pass complete short right to Ja'Marr Chase for 11 yards (tackle by Troy Hill),4.78,6.97,4.0,2024,51
+3.0,10:41,1.0,1.0,CAR 1,27.0,14.0,"Chase Brown right tackle for 1 yard, touchdown",6.97,7.0,4.0,2024,51
+3.0,10:38,,,CAR 15,28.0,14.0,Evan McPherson kicks extra point good,0.0,0.0,4.0,2024,51
+3.0,10:38,,,CIN 35,28.0,14.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,51
+3.0,10:38,1.0,10.0,CAR 30,28.0,14.0,Andy Dalton scrambles left tackle for 6 yards (tackle by Germaine Pratt),0.94,1.2,4.0,2024,51
+3.0,9:59,2.0,4.0,CAR 36,28.0,14.0,Xavier Legette left end for 2 yards (tackle by Trey Hendrickson),1.2,0.76,4.0,2024,51
+3.0,9:15,3.0,2.0,CAR 38,28.0,14.0,Andy Dalton pass incomplete short right intended for Miles Sanders,0.76,-0.85,4.0,2024,51
+3.0,9:10,4.0,2.0,CAR 38,28.0,14.0,"Johnny Hekker punts 47 yards, returned by Charlie Jones for 3 yards (tackle by Nick Scott)",-0.85,-0.04,4.0,2024,51
+3.0,8:58,1.0,10.0,CIN 18,28.0,14.0,Chase Brown up the middle for 4 yards (tackle by Nick Thurman),0.04,0.14,4.0,2024,51
+3.0,8:24,2.0,6.0,CIN 22,28.0,14.0,Joe Burrow pass complete deep left to Drew Sample for no gain (tackle by Jaycee Horn),0.14,-0.66,4.0,2024,51
+3.0,7:42,3.0,6.0,CIN 22,28.0,14.0,Joe Burrow pass incomplete deep left intended for Tee Higgins,-0.66,-1.9,4.0,2024,51
+3.0,7:35,4.0,6.0,CIN 22,28.0,14.0,"Ryan Rehkow punts 63 yards, returned by Raheem Blackshear for 2 yards (tackle by Tycen Anderson)",-1.9,0.06,4.0,2024,51
+3.0,7:26,1.0,10.0,CAR 17,28.0,14.0,Chuba Hubbard up the middle for 5 yards (tackle by Joseph Ossai),-0.06,0.21,4.0,2024,51
+3.0,6:52,2.0,5.0,CAR 22,28.0,14.0,Chuba Hubbard up the middle for 6 yards (tackle by Mike Hilton),0.21,0.81,4.0,2024,51
+3.0,6:15,1.0,10.0,CAR 28,28.0,14.0,Andy Dalton pass incomplete short right intended for Xavier Legette,0.81,0.26,4.0,2024,51
+3.0,6:09,2.0,10.0,CAR 28,28.0,14.0,Andy Dalton pass incomplete short right intended for Jonathan Mingo (defended by DJ Turner),0.26,-0.43,4.0,2024,51
+3.0,6:06,3.0,10.0,CAR 28,28.0,14.0,"Penalty on Robert Hunt: False Start, 5 yards (accepted) (no play)",-0.43,-1.09,4.0,2024,51
+3.0,6:06,3.0,15.0,CAR 23,28.0,14.0,Andy Dalton pass complete short right to Miles Sanders for 12 yards (tackle by Sam Hubbard and Geno Stone),-1.09,-1.04,4.0,2024,51
+3.0,5:27,4.0,3.0,CAR 35,28.0,14.0,Johnny Hekker pass incomplete deep middle intended for Feleipe Franks (defended by Daijahn Anthony),-1.04,-3.25,4.0,2024,51
+3.0,5:18,1.0,10.0,CAR 35,28.0,14.0,Zack Moss left end for 2 yards (tackle by Jaycee Horn),3.25,2.97,4.0,2024,51
+3.0,4:42,2.0,8.0,CAR 33,28.0,14.0,Joe Burrow pass complete short left to Mike Gesicki for -9 yards (tackle by Xavier Woods),2.97,1.09,4.0,2024,51
+3.0,4:09,3.0,17.0,CAR 42,28.0,14.0,"Zack Moss left end for 4 yards (tackle by Trevin Wallace). Penalty on Cordell Volson: Offensive Holding, 10 yards (accepted)",1.09,0.3,4.0,2024,51
+3.0,3:38,3.0,23.0,CAR 48,28.0,14.0,Zack Moss left end for 10 yards (tackle by Josey Jewell and Troy Hill),0.3,0.72,4.0,2024,51
+3.0,2:57,4.0,13.0,CAR 38,31.0,14.0,Evan McPherson 56 yard field goal good,0.72,3.0,4.0,2024,51
+3.0,2:52,,,CIN 35,31.0,14.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,51
+3.0,2:52,1.0,10.0,CAR 30,31.0,14.0,Chuba Hubbard left guard for 38 yards (tackle by Geno Stone),0.94,3.45,4.0,2024,51
+3.0,2:20,1.0,10.0,CIN 32,31.0,14.0,Andy Dalton pass incomplete short left,3.45,2.9,4.0,2024,51
+3.0,2:12,2.0,10.0,CIN 32,31.0,14.0,Andy Dalton pass complete short left to Diontae Johnson for 8 yards (tackle by Vonn Bell),2.9,3.27,4.0,2024,51
+3.0,1:35,3.0,2.0,CIN 24,31.0,14.0,Miles Sanders left guard for 3 yards (tackle by Vonn Bell and Jay Tufele),3.27,4.17,4.0,2024,51
+3.0,0:58,1.0,10.0,CIN 21,31.0,20.0,"Andy Dalton pass complete deep middle to Diontae Johnson for 21 yards, touchdown",4.17,7.0,4.0,2024,51
+3.0,0:53,,,CIN 15,31.0,21.0,Eddy Piñeiro kicks extra point good,0.0,0.0,4.0,2024,51
+3.0,0:53,,,CAR 35,31.0,21.0,"Eddy Piñeiro kicks off 63 yards, returned by Trayveon Williams for 22 yards (tackle by Jammie Robinson)",0.0,0.54,4.0,2024,51
+3.0,0:48,1.0,10.0,CIN 24,31.0,21.0,Chase Brown up the middle for 5 yards (tackle by Xavier Woods and A'Shawn Robinson),0.54,0.67,4.0,2024,51
+3.0,0:10,2.0,5.0,CIN 29,31.0,21.0,Joe Burrow pass incomplete short left intended for Tee Higgins (defended by Michael Jackson),0.67,-0.03,4.0,2024,51
+3.0,0:04,,,,,,Timeout #1 by Cincinnati Bengals,,,4.0,2024,51
+3.0,0:04,3.0,5.0,CIN 29,31.0,21.0,Joe Burrow pass complete short right to Zack Moss for 21 yards (tackle by Jaycee Horn),-0.03,2.26,4.0,2024,51
+4.0,15:00,1.0,10.0,CIN 50,31.0,21.0,Chase Brown right end for 9 yards (tackle by Charles Harris),2.26,2.93,4.0,2024,51
+4.0,14:15,2.0,1.0,CAR 41,31.0,21.0,"Joe Burrow pass incomplete deep left intended for Tee Higgins. Penalty on Tee Higgins: Offensive Pass Interference, 9 yards (accepted) (no play)",2.93,1.71,4.0,2024,51
+4.0,14:08,2.0,10.0,CIN 50,31.0,21.0,Joe Burrow pass complete short middle to Chase Brown for 4 yards (tackle by Thomas Incoom),1.71,1.55,4.0,2024,51
+4.0,13:27,3.0,6.0,CAR 46,31.0,21.0,Joe Burrow pass complete short left to Ja'Marr Chase for 11 yards (tackle by Jaycee Horn),1.55,3.25,4.0,2024,51
+4.0,12:50,1.0,10.0,CAR 35,31.0,21.0,Zack Moss up the middle for 2 yards (tackle by Xavier Woods and DJ Johnson),3.25,2.97,4.0,2024,51
+4.0,12:21,2.0,8.0,CAR 33,31.0,21.0,Chase Brown right tackle for 3 yards (tackle by Troy Hill and Claudin Cherelus),2.97,2.68,4.0,2024,51
+4.0,11:44,3.0,5.0,CAR 30,31.0,21.0,Joe Burrow pass deep middle intended for Ja'Marr Chase is intercepted by Xavier Woods at CAR-8 and returned for 33 yards (tackle by Ja'Marr Chase),2.68,-1.66,4.0,2024,51
+4.0,11:28,1.0,10.0,CAR 41,31.0,21.0,Andy Dalton pass complete short left to Jonathan Mingo for 11 yards (tackle by DJ Turner),1.66,2.39,4.0,2024,51
+4.0,10:50,1.0,10.0,CIN 48,31.0,21.0,Chuba Hubbard right tackle for 1 yard (tackle by Germaine Pratt and Akeem Davis-Gaither),2.39,1.98,4.0,2024,51
+4.0,10:09,2.0,9.0,CIN 47,31.0,21.0,Andy Dalton pass complete short middle to Chuba Hubbard for 5 yards (tackle by Logan Wilson and Germaine Pratt),1.98,1.95,4.0,2024,51
+4.0,9:22,3.0,4.0,CIN 42,31.0,21.0,Andy Dalton pass complete short right to Chuba Hubbard for 5 yards (tackle by Logan Wilson),1.95,3.12,4.0,2024,51
+4.0,8:41,1.0,10.0,CIN 37,31.0,21.0,Andy Dalton pass incomplete deep right intended for Jalen Coker,3.12,2.57,4.0,2024,51
+4.0,8:34,2.0,10.0,CIN 37,31.0,21.0,Chuba Hubbard up the middle for 7 yards (tackle by Joseph Ossai and Vonn Bell),2.57,2.81,4.0,2024,51
+4.0,7:51,3.0,3.0,CIN 30,31.0,21.0,Andy Dalton pass incomplete short right intended for Xavier Legette,2.81,1.48,4.0,2024,51
+4.0,7:46,4.0,3.0,CIN 30,31.0,24.0,Eddy Piñeiro 48 yard field goal good,1.48,3.0,4.0,2024,51
+4.0,7:42,,,CAR 35,31.0,24.0,"Eddy Piñeiro kicks off 56 yards, returned by Trayveon Williams for 14 yards (tackle by Feleipe Franks)",0.0,0.48,4.0,2024,51
+4.0,7:37,1.0,10.0,CIN 23,31.0,24.0,Chase Brown up the middle for 3 yards (tackle by LaBryan Ray),0.48,0.34,4.0,2024,51
+4.0,7:03,2.0,7.0,CIN 26,31.0,24.0,Joe Burrow pass complete short right to Erick All for 11 yards (tackle by Nick Scott),0.34,1.4,4.0,2024,51
+4.0,6:23,1.0,10.0,CIN 37,31.0,24.0,Chase Brown right end for 4 yards (tackle by Charles Harris),1.4,1.4,4.0,2024,51
+4.0,5:42,2.0,6.0,CIN 41,31.0,24.0,Zack Moss left tackle for 4 yards (tackle by DJ Johnson and Claudin Cherelus),1.4,1.22,4.0,2024,51
+4.0,5:00,3.0,2.0,CIN 45,31.0,24.0,"Zack Moss left end for -2 yards (tackle by Jaycee Horn). Penalty on Cordell Volson: Offensive Holding, 10 yards (declined)",1.22,-0.52,4.0,2024,51
+4.0,4:52,4.0,4.0,CIN 43,31.0,24.0,"Ryan Rehkow punts 50 yards, returned by Raheem Blackshear for 1 yard (tackle by Daijahn Anthony)",-0.52,0.38,4.0,2024,51
+4.0,4:42,1.0,10.0,CAR 8,31.0,24.0,Andy Dalton pass incomplete short middle intended for Jonathan Mingo,-0.38,-0.78,4.0,2024,51
+4.0,4:39,2.0,10.0,CAR 8,31.0,24.0,Andy Dalton pass incomplete short middle intended for Diontae Johnson (defended by Germaine Pratt),-0.78,-1.42,4.0,2024,51
+4.0,4:37,3.0,10.0,CAR 8,31.0,24.0,Andy Dalton pass incomplete deep left intended for Xavier Legette,-1.42,-2.49,4.0,2024,51
+4.0,4:31,4.0,10.0,CAR 8,31.0,24.0,"Johnny Hekker punts 55 yards, fair catch by Charlie Jones at CIN-37",-2.49,-1.4,4.0,2024,51
+4.0,4:23,1.0,10.0,CIN 37,31.0,24.0,Zack Moss right end for 13 yards (tackle by Xavier Woods),1.4,2.26,4.0,2024,51
+4.0,3:41,1.0,10.0,CAR 50,31.0,24.0,Zack Moss left tackle for 3 yards (tackle by Jaycee Horn),2.26,2.12,4.0,2024,51
+4.0,3:34,,,,,,Timeout #1 by Carolina Panthers,,,4.0,2024,51
+4.0,3:34,2.0,7.0,CAR 47,31.0,24.0,Chase Brown left end for 10 yards (tackle by Xavier Woods),2.12,3.12,4.0,2024,51
+4.0,3:28,,,,,,Timeout #2 by Cincinnati Bengals,,,4.0,2024,51
+4.0,3:28,1.0,10.0,CAR 37,31.0,24.0,Chase Brown up the middle for 3 yards (tackle by Xavier Woods),3.12,2.98,4.0,2024,51
+4.0,3:24,,,,,,Timeout #2 by Carolina Panthers,,,4.0,2024,51
+4.0,3:24,2.0,7.0,CAR 34,31.0,24.0,Chase Brown left guard for 3 yards (tackle by DJ Johnson and Jayden Peevy),2.98,2.68,4.0,2024,51
+4.0,3:17,,,,,,Timeout #3 by Carolina Panthers,,,4.0,2024,51
+4.0,3:17,3.0,4.0,CAR 31,31.0,24.0,"Penalty on Nick Thurman: Neutral Zone Infraction, 5 yards (accepted) (no play)",2.68,3.84,4.0,2024,51
+4.0,3:17,1.0,10.0,CAR 26,31.0,24.0,Zack Moss left end for 1 yard (tackle by LaBryan Ray),3.84,3.43,4.0,2024,51
+4.0,2:38,2.0,9.0,CAR 25,31.0,24.0,"Zack Moss right end for no gain (tackle by Trevin Wallace). Penalty on Orlando Brown: Offensive Holding, 10 yards (accepted) (no play)",3.43,2.08,4.0,2024,51
+4.0,2:30,2.0,19.0,CAR 35,31.0,24.0,Zack Moss left guard for 3 yards (tackle by LaBryan Ray),2.08,1.82,4.0,2024,51
+4.0,2:00,3.0,16.0,CAR 32,31.0,24.0,Chase Brown left end for 4 yards (tackle by Xavier Woods and Nick Scott),1.82,1.59,4.0,2024,51
+4.0,1:17,,,,,,Timeout #3 by Cincinnati Bengals,,,4.0,2024,51
+4.0,1:17,4.0,12.0,CAR 28,34.0,24.0,Evan McPherson 46 yard field goal good,1.59,3.0,4.0,2024,51
+4.0,1:14,,,CIN 35,34.0,24.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.94,4.0,2024,51
+4.0,1:14,1.0,10.0,CAR 30,34.0,24.0,Andy Dalton pass complete short right to Chuba Hubbard for 1 yard (tackle by Germaine Pratt),0.94,0.53,4.0,2024,51
+4.0,0:49,2.0,9.0,CAR 31,34.0,24.0,Andy Dalton pass complete short middle to Xavier Legette for 17 yards (tackle by Mike Hilton),0.53,2.13,4.0,2024,51
+4.0,0:27,1.0,10.0,CAR 48,34.0,24.0,Andy Dalton pass incomplete short left intended for Xavier Legette,2.13,1.58,4.0,2024,51
+4.0,0:24,2.0,10.0,CAR 48,34.0,24.0,Andy Dalton pass complete short left to Chuba Hubbard for 6 yards (tackle by Logan Wilson),1.58,1.68,4.0,2024,51
+4.0,0:06,3.0,4.0,CIN 46,34.0,24.0,Andy Dalton scrambles right end for 4 yards (tackle by Akeem Davis-Gaither),1.68,2.26,4.0,2024,51

@@ -1,0 +1,73 @@
+Player,Age,Pos,G,GS,Wt,Ht,College/Univ,BirthDate,Yrs,AV,Team,Draft Team,Draft Round,Draft Pick,Draft Year
+Deonte Banks,22.0,CB,15,15.0,200.0,74,Maryland,3/3/2001,0,5.0,New York Giants,New York Giants,1.0,24.0,2023.0
+Saquon Barkley,26.0,RB,14,14.0,233.0,72,Penn St.,2/9/1997,5,6.0,New York Giants,New York Giants,1.0,2.0,2018.0
+Boogie Basham,26.0,OLB,13,0.0,274.0,75,Wake Forest,12/16/1997,2,1.0,New York Giants,Buffalo Bills,2.0,61.0,2021.0
+Darrian Beavers,24.0,LB,2,0.0,255.0,76,"Connecticut,Cincinnati",7/5/1999,1,0.0,New York Giants,New York Giants,6.0,182.0,2022.0
+Daniel Bellinger,23.0,TE,17,13.0,255.0,78,San Diego St.,9/22/2000,1,2.0,New York Giants,New York Giants,4.0,112.0,2022.0
+Dane Belton,23.0,S,17,2.0,190.0,73,Iowa,12/7/2000,1,2.0,New York Giants,New York Giants,4.0,114.0,2022.0
+Ben Bredeson,25.0,G,16,16.0,315.0,77,Michigan,2/20/1998,3,5.0,New York Giants,Baltimore Ravens,4.0,143.0,2020.0
+Matt Breida,28.0,RB,17,4.0,195.0,70,Georgia Southern,2/28/1995,6,1.0,New York Giants,,,,
+Gary Brightwell,24.0,RB,7,0.0,218.0,73,Arizona,2/28/1999,2,0.0,New York Giants,New York Giants,6.0,196.0,2021.0
+Cam Brown,25.0,LB,16,0.0,230.0,77,Penn St.,4/1/1998,3,1.0,New York Giants,New York Giants,6.0,183.0,2020.0
+Randy Bullock,34.0,K,6,0.0,210.0,69,Texas A&M,12/16/1989,10,1.0,New York Giants,Houston Texans,5.0,161.0,2012.0
+Lawrence Cager,26.0,TE,11,0.0,220.0,77,Georgia,8/20/1997,3,0.0,New York Giants,,,,
+Parris Campbell,26.0,WR,12,3.0,208.0,72,Ohio St.,7/16/1997,4,1.0,New York Giants,Indianapolis Colts,2.0,59.0,2019.0
+Jashaun Corbin,23.0,RB,6,0.0,200.0,71,"Texas A&M,Florida St.",8/20/2000,1,0.0,New York Giants,,,,
+Carter Coughlin,26.0,LB,17,0.0,240.0,75,Minnesota,7/20/1997,3,1.0,New York Giants,New York Giants,7.0,218.0,2020.0
+Mason Crosby,39.0,K,3,0.0,207.0,73,Colorado,9/3/1984,16,0.0,New York Giants,Green Bay Packers,6.0,193.0,2007.0
+D.J. Davidson,24.0,DL,15,2.0,320.0,77,Arizona St.,12/16/1999,1,2.0,New York Giants,New York Giants,5.0,147.0,2022.0
+Tommy DeVito,25.0,QB,9,6.0,210.0,74,"Syracuse,Illinois",8/7/1998,0,4.0,New York Giants,,,,
+Joshua Ezeudu,24.0,OL,6,5.0,310.0,76,North Carolina,9/19/1999,1,2.0,New York Giants,New York Giants,3.0,67.0,2022.0
+Cordale Flott,22.0,CB,14,7.0,175.0,74,LSU,8/24/2001,1,3.0,New York Giants,New York Giants,3.0,81.0,2022.0
+Tomon Fox,25.0,OLB,1,0.0,245.0,74,North Carolina,3/16/1998,1,0.0,New York Giants,,,,
+Graham Gano,36.0,K,8,0.0,202.0,74,Florida St.,4/9/1987,14,0.0,New York Giants,,,,
+Jamie Gillan,26.0,P,17,0.0,207.0,73,Ark-Pine Bluff,7/4/1997,4,2.0,New York Giants,,,,
+Mark Glowinski,31.0,RG,13,6.0,310.0,76,"Lackawanna,West Virginia",5/3/1992,8,2.0,New York Giants,Seattle Seahawks,4.0,134.0,2015.0
+Eric Gray,24.0,RB,13,0.0,211.0,70,"Tennessee,Oklahoma",11/4/1999,0,0.0,New York Giants,New York Giants,5.0,172.0,2023.0
+Sean Harlow,28.0,OL,7,0.0,284.0,76,Oregon St.,3/28/1995,4,0.0,New York Giants,Atlanta Falcons,4.0,136.0,2017.0
+Tre Hawkins,23.0,CB,17,3.0,195.0,75,"Trinity Valley CC (TX),Old Dominion",8/1/2000,0,2.0,New York Giants,New York Giants,6.0,209.0,2023.0
+Isaiah Hodgins,25.0,WR,17,9.0,200.0,75,Oregon St.,10/21/1998,2,2.0,New York Giants,Buffalo Bills,6.0,207.0,2020.0
+Justin Hollins,27.0,LB,1,0.0,248.0,77,Oregon,1/15/1996,4,0.0,New York Giants,Denver Broncos,5.0,156.0,2019.0
+Darnay Holmes,25.0,CB,16,0.0,198.0,70,UCLA,6/23/1998,3,1.0,New York Giants,New York Giants,4.0,110.0,2020.0
+Timmy Horne,26.0,DL,1,0.0,323.0,76,"Charlotte,Kansas St.",10/25/1997,1,0.0,New York Giants,,,,
+Jalin Hyatt,22.0,WR,17,7.0,185.0,72,Tennessee,9/25/2001,0,3.0,New York Giants,New York Giants,3.0,73.0,2023.0
+Adoree' Jackson,28.0,CB,14,14.0,185.0,71,USC,9/18/1995,6,5.0,New York Giants,Tennessee Titans,1.0,18.0,2017.0
+Deon Jackson,24.0,RB,1,0.0,218.0,72,Duke,2/18/1999,2,0.0,New York Giants,,,,
+Tyree Jackson,26.0,TE,2,1.0,249.0,79,Buffalo,11/7/1997,2,0.0,New York Giants,,,,
+Daniel Jones,26.0,QB,6,6.0,230.0,77,Duke,5/27/1997,4,0.0,New York Giants,New York Giants,1.0,6.0,2019.0
+Taiwan Jones,35.0,RB,2,0.0,195.0,72,Eastern Washington,7/26/1988,12,0.0,New York Giants,Oakland Raiders,4.0,125.0,2011.0
+Casey Kreiter,33.0,LS,17,0.0,250.0,73,Iowa,8/13/1990,7,1.0,New York Giants,,,,
+Dexter Lawrence,26.0,DL,16,16.0,340.0,76,Clemson,11/12/1997,4,13.0,New York Giants,New York Giants,1.0,17.0,2019.0
+Shane Lemieux,26.0,G,4,1.0,310.0,76,Oregon,5/12/1997,3,0.0,New York Giants,New York Giants,5.0,150.0,2020.0
+Jalen Mayfield,23.0,G,3,0.0,319.0,77,Michigan,5/23/2000,2,0.0,New York Giants,Atlanta Falcons,3.0,68.0,2021.0
+Bobby McCain,30.0,S,10,0.0,196.0,69,Memphis,8/18/1993,8,0.0,New York Giants,Miami Dolphins,5.0,145.0,2015.0
+Nick McCloud,25.0,CB,17,3.0,191.0,73,"North Carolina St.,Notre Dame",7/9/1998,2,2.0,New York Giants,,,,
+Micah McFadden,23.0,LB,16,14.0,232.0,74,Indiana,1/3/2000,1,8.0,New York Giants,New York Giants,5.0,146.0,2022.0
+Marcus McKethan,24.0,OL,16,5.0,335.0,79,North Carolina,5/19/1999,1,2.0,New York Giants,New York Giants,5.0,173.0,2022.0
+Xavier McKinney,25.0,FS,17,17.0,201.0,72,Alabama,8/8/1998,3,6.0,New York Giants,New York Giants,2.0,36.0,2020.0
+Evan Neal,23.0,T,7,7.0,340.0,79,Alabama,9/19/2000,1,2.0,New York Giants,New York Giants,1.0,7.0,2022.0
+Rakeem Nunez-Roches,30.0,DL,16,4.0,305.0,74,Southern Miss,7/3/1993,8,3.0,New York Giants,Kansas City Chiefs,6.0,217.0,2015.0
+Azeez Ojulari,23.0,OLB,11,7.0,240.0,75,Georgia,6/16/2000,2,4.0,New York Giants,New York Giants,2.0,50.0,2021.0
+Bobby Okereke,27.0,LB,17,17.0,235.0,74,Stanford,7/29/1996,4,8.0,New York Giants,Indianapolis Colts,3.0,89.0,2019.0
+Gunner Olszewski,27.0,WR,10,0.0,190.0,72,Bemidji St.,11/26/1996,4,1.0,New York Giants,,,,
+Gervarrius Owens,24.0,S,3,0.0,200.0,72,"NE Oklahoma A&M,Houston",10/14/1999,0,0.0,New York Giants,New York Giants,7.0,254.0,2023.0
+Matt Peart,26.0,T,8,1.0,318.0,79,Connecticut,6/11/1997,3,1.0,New York Giants,New York Giants,3.0,99.0,2020.0
+Tyre Phillips,26.0,T,10,9.0,330.0,77,"East Mississippi CC,Mississippi St.",1/29/1997,3,3.0,New York Giants,Baltimore Ravens,3.0,106.0,2020.0
+Jason Pinnock,24.0,S,16,16.0,200.0,72,Pittsburgh,6/30/1999,2,5.0,New York Giants,New York Jets,5.0,175.0,2021.0
+Justin Pugh,33.0,OL,12,12.0,311.0,77,Syracuse,8/15/1990,10,4.0,New York Giants,New York Giants,1.0,19.0,2013.0
+Jordon Riley,25.0,DL,8,0.0,315.0,77,"North Carolina,Garden City (KS),Nebraska,Oregon",5/19/1998,0,1.0,New York Giants,New York Giants,7.0,243.0,2023.0
+A'Shawn Robinson,28.0,DL,17,13.0,320.0,75,Alabama,3/21/1995,7,6.0,New York Giants,Detroit Lions,2.0,46.0,2016.0
+Wan'Dale Robinson,22.0,WR,15,8.0,185.0,68,"Nebraska,Kentucky",1/5/2001,1,4.0,New York Giants,New York Giants,2.0,43.0,2022.0
+John Michael Schmitz,24.0,C,13,13.0,320.0,76,Minnesota,3/19/1999,0,4.0,New York Giants,New York Giants,2.0,57.0,2023.0
+Sterling Shepard,30.0,WR,15,2.0,194.0,70,Oklahoma,2/10/1993,7,0.0,New York Giants,New York Giants,2.0,40.0,2016.0
+Isaiah Simmons,25.0,S,17,4.0,238.0,76,Clemson,7/26/1998,3,2.0,New York Giants,Arizona Cardinals,1.0,8.0,2020.0
+Darius Slayton,26.0,WR,17,13.0,198.0,73,Auburn,1/12/1997,4,6.0,New York Giants,New York Giants,5.0,171.0,2019.0
+Tyrod Taylor,34.0,QB,11,5.0,217.0,73,Virginia Tech,8/3/1989,12,5.0,New York Giants,Baltimore Ravens,6.0,180.0,2011.0
+Kayvon Thibodeaux,23.0,OLB,17,17.0,258.0,77,Oregon,12/15/2000,1,9.0,New York Giants,New York Giants,1.0,5.0,2022.0
+Andrew Thomas,24.0,T,10,10.0,315.0,77,Georgia,1/22/1999,3,4.0,New York Giants,New York Giants,1.0,4.0,2020.0
+Jaylon Thomas,23.0,T,1,0.0,311.0,77,SMU,3/31/2000,0,0.0,New York Giants,,,,
+Darren Waller,31.0,TE,12,11.0,238.0,78,Georgia Tech,9/13/1992,8,4.0,New York Giants,Baltimore Ravens,6.0,204.0,2015.0
+Jihad Ward,29.0,OLB,17,9.0,285.0,77,Illinois,5/11/1994,7,5.0,New York Giants,Oakland Raiders,2.0,44.0,2016.0
+Benton Whitley,24.0,OLB,3,0.0,255.0,76,Holy Cross,2/12/1999,1,1.0,New York Giants,,,,
+Leonard Williams,29.0,NT,8,7.0,310.0,77,USC,6/20/1994,8,3.0,New York Giants,New York Jets,1.0,6.0,2015.0
+Oshane Ximines,27.0,LB,3,0.0,254.0,76,Old Dominion,12/7/1996,4,0.0,New York Giants,New York Giants,3.0,95.0,2019.0

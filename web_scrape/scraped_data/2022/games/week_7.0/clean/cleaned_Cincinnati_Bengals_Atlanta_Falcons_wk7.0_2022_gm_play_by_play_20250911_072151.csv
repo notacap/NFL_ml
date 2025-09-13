@@ -1,0 +1,151 @@
+Quarter,Time,Down,ToGo,Location,ATL,CIN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Bengals won the coin toss, Bengals to receive the opening kickoff.",,,7.0,2022,96
+1.0,15:00,,,ATL 35,0.0,0.0,"Bradley Pinion kicks off 63 yards, returned by Chris Evans for 14 yards (tackle by KhaDarel Hodge and DeAngelo Malone)",0.0,-0.14,7.0,2022,96
+1.0,14:56,1.0,10.0,CIN 16,0.0,0.0,Joe Burrow pass complete short left to Tyler Boyd for 11 yards (tackle by Darren Hall),-0.14,0.74,7.0,2022,96
+1.0,14:22,1.0,10.0,CIN 27,0.0,0.0,Joe Mixon left guard for 6 yards (tackle by Mykal Walker and Rashaan Evans),0.74,1.01,7.0,2022,96
+1.0,13:44,2.0,4.0,CIN 33,0.0,0.0,Joe Burrow pass complete short left to Hayden Hurst for 7 yards (tackle by AJ Terrell),1.01,1.6,7.0,2022,96
+1.0,13:07,1.0,10.0,CIN 40,0.0,6.0,"Joe Burrow pass complete deep middle to Tyler Boyd for 60 yards, touchdown",1.6,7.0,7.0,2022,96
+1.0,13:00,,,ATL 15,0.0,7.0,Evan McPherson kicks extra point good,0.0,0.0,7.0,2022,96
+1.0,13:00,,,CIN 35,0.0,7.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,96
+1.0,13:00,1.0,10.0,ATL 25,0.0,7.0,Marcus Mariota scrambles up the middle for 4 yards (tackle by Akeem Davis-Gaither),0.61,0.6,7.0,2022,96
+1.0,12:23,2.0,6.0,ATL 29,0.0,7.0,Tyler Allgeier left end for 9 yards (tackle by Chidobe Awuzie and Trey Hendrickson),0.6,1.47,7.0,2022,96
+1.0,11:41,1.0,10.0,ATL 38,0.0,7.0,Tyler Allgeier left tackle for 3 yards (tackle by Jay Tufele and Germaine Pratt),1.47,1.33,7.0,2022,96
+1.0,11:01,2.0,7.0,ATL 41,0.0,7.0,Marcus Mariota pass complete short left to Kyle Pitts for 2 yards (tackle by Jessie Bates),1.33,0.89,7.0,2022,96
+1.0,10:18,3.0,5.0,ATL 43,0.0,7.0,Marcus Mariota pass incomplete short left intended for Avery Williams,0.89,-0.52,7.0,2022,96
+1.0,10:15,4.0,5.0,ATL 43,0.0,7.0,"Bradley Pinion punts 49 yards, returned by Trent Taylor for 21 yards (tackle by Nick Kwiatkoski)",-0.52,-0.87,7.0,2022,96
+1.0,10:04,1.0,10.0,CIN 29,0.0,7.0,Joe Burrow pass incomplete short middle intended for Ja'Marr Chase (defended by Jaylinn Hawkins),0.87,0.33,7.0,2022,96
+1.0,9:59,2.0,10.0,CIN 29,0.0,7.0,Joe Burrow pass complete short middle to Hayden Hurst for 11 yards (tackle by Jaylinn Hawkins),0.33,1.6,7.0,2022,96
+1.0,9:31,1.0,10.0,CIN 40,0.0,7.0,Joe Mixon left guard for 5 yards (tackle by Jaylinn Hawkins),1.6,1.73,7.0,2022,96
+1.0,8:52,2.0,5.0,CIN 45,0.0,7.0,Joe Burrow pass complete short right to Joe Mixon for 22 yards (tackle by Jaylinn Hawkins),1.73,3.38,7.0,2022,96
+1.0,8:26,1.0,10.0,ATL 33,0.0,7.0,Joe Burrow pass incomplete deep right intended for Hayden Hurst,3.38,2.84,7.0,2022,96
+1.0,8:23,2.0,10.0,ATL 33,0.0,7.0,Joe Burrow pass complete short right to Ja'Marr Chase for 15 yards (tackle by Cornell Armstrong),2.84,4.37,7.0,2022,96
+1.0,7:56,1.0,10.0,ATL 18,0.0,7.0,Joe Mixon right tackle for 3 yards (tackle by Rashaan Evans and Isaiah Oliver),4.37,4.25,7.0,2022,96
+1.0,7:21,2.0,7.0,ATL 15,0.0,7.0,Joe Burrow pass complete short left to Tyler Boyd for 14 yards (tackle by Darren Hall),4.25,6.97,7.0,2022,96
+1.0,6:44,1.0,1.0,ATL 1,0.0,7.0,"Penalty on Cordell Volson: False Start, 4 yards (accepted) (no play)",6.97,6.06,7.0,2022,96
+1.0,6:20,1.0,5.0,ATL 5,0.0,7.0,Joe Burrow pass complete short left to Joe Mixon for 3 yards (tackle by Cornell Armstrong),6.06,5.72,7.0,2022,96
+1.0,5:35,2.0,2.0,ATL 2,0.0,7.0,Joe Mixon right guard for 1 yard (tackle by Jaylinn Hawkins),5.72,5.17,7.0,2022,96
+1.0,4:55,3.0,1.0,ATL 1,0.0,13.0,"Joe Mixon left tackle for 1 yard, touchdown",5.17,7.0,7.0,2022,96
+1.0,4:51,,,ATL 15,0.0,14.0,Evan McPherson kicks extra point good,0.0,0.0,7.0,2022,96
+1.0,4:51,,,CIN 35,0.0,14.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,96
+1.0,4:51,1.0,10.0,ATL 25,0.0,14.0,Caleb Huntley right tackle for 2 yards (tackle by Germaine Pratt and Jay Tufele),0.61,0.33,7.0,2022,96
+1.0,4:11,2.0,8.0,ATL 27,0.0,14.0,Caleb Huntley left tackle for 5 yards (tackle by B.J. Hill and Mike Hilton),0.33,0.3,7.0,2022,96
+1.0,3:25,3.0,3.0,ATL 32,0.0,14.0,"Marcus Mariota pass incomplete short right intended for Kyle Pitts (defended by Sam Hubbard). Penalty on Olamide Zaccheaus: Offensive Pass Interference, 10 yards (declined)",0.3,-1.24,7.0,2022,96
+1.0,3:22,4.0,3.0,ATL 32,0.0,14.0,"Bradley Pinion punts 43 yards, fair catch by Trent Taylor at CIN-25",-1.24,-0.61,7.0,2022,96
+1.0,3:15,1.0,10.0,CIN 25,0.0,14.0,Joe Burrow pass complete short left to Joe Mixon for 8 yards (tackle by Jaylinn Hawkins and Cornell Armstrong),0.61,1.14,7.0,2022,96
+1.0,2:52,2.0,2.0,CIN 33,0.0,14.0,Joe Burrow pass complete short left to Joe Mixon for no gain (tackle by Cornell Armstrong) (no play),1.14,0.47,7.0,2022,96
+1.0,2:24,2.0,7.0,CIN 28,0.0,14.0,"Penalty on Hayden Hurst: False Start, 5 yards (accepted) (no play)",0.47,-0.21,7.0,2022,96
+1.0,2:02,2.0,12.0,CIN 23,0.0,14.0,Joe Burrow pass complete short left to Samaje Perine for 2 yards (tackle by Troy Andersen and Rashaan Evans),-0.21,-0.62,7.0,2022,96
+1.0,1:18,3.0,10.0,CIN 25,0.0,14.0,Joe Burrow pass complete short middle to Ja'Marr Chase for 11 yards (tackle by Cornell Armstrong),-0.62,1.33,7.0,2022,96
+1.0,0:50,1.0,10.0,CIN 36,0.0,14.0,Joe Burrow pass complete deep left to Tyler Boyd for 20 yards (tackle by Cornell Armstrong),1.33,2.65,7.0,2022,96
+1.0,0:06,1.0,10.0,ATL 44,0.0,14.0,Joe Burrow pass complete short right to Tee Higgins for 12 yards (tackle by Darren Hall),2.65,3.45,7.0,2022,96
+2.0,15:00,1.0,10.0,ATL 32,0.0,20.0,"Joe Burrow pass complete deep right to Ja'Marr Chase for 32 yards, touchdown",3.45,7.0,7.0,2022,96
+2.0,14:55,,,ATL 15,0.0,21.0,Evan McPherson kicks extra point good,0.0,0.0,7.0,2022,96
+2.0,14:55,,,CIN 35,0.0,21.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,96
+2.0,14:55,1.0,10.0,ATL 25,0.0,21.0,Marcus Mariota pass complete short right to Drake London for 9 yards (tackle by Cam Taylor-Britt),0.61,1.28,7.0,2022,96
+2.0,14:15,2.0,1.0,ATL 34,0.0,21.0,Tyler Allgeier right end for no gain (tackle by B.J. Hill and Zachary Carter),1.28,0.56,7.0,2022,96
+2.0,13:36,3.0,1.0,ATL 34,0.0,21.0,"Marcus Mariota aborted snap, recovered by Marcus Mariota at ATL-33 Marcus Mariota for 2 yards (tackle by Akeem Davis-Gaither)",0.56,1.33,7.0,2022,96
+2.0,13:01,1.0,10.0,ATL 36,0.0,21.0,Tyler Allgeier right tackle for 1 yard (tackle by Jay Tufele and Germaine Pratt),1.33,0.93,7.0,2022,96
+2.0,12:25,2.0,9.0,ATL 37,0.0,21.0,Marcus Mariota pass complete short left to Olamide Zaccheaus for 10 yards (tackle by Chidobe Awuzie),0.93,2.06,7.0,2022,96
+2.0,11:46,1.0,10.0,ATL 47,0.0,21.0,Tyler Allgeier left tackle for 5 yards (tackle by Markus Bailey),2.06,2.19,7.0,2022,96
+2.0,11:05,2.0,5.0,CIN 48,0.0,21.0,Marcus Mariota right end for 11 yards (tackle by Markus Bailey),2.19,3.12,7.0,2022,96
+2.0,10:22,1.0,10.0,CIN 37,0.0,21.0,Caleb Huntley left guard for 10 yards (tackle by Akeem Davis-Gaither),3.12,3.78,7.0,2022,96
+2.0,9:39,1.0,10.0,CIN 27,0.0,21.0,Caleb Huntley right tackle for 2 yards (tackle by Vonn Bell and Germaine Pratt),3.78,3.5,7.0,2022,96
+2.0,8:53,2.0,8.0,CIN 25,0.0,21.0,"Marcus Mariota pass incomplete deep right intended for Kyle Pitts. Penalty on Cam Taylor-Britt: Illegal Contact, 5 yards (offset) . Penalty on Kaleb McGary: Ineligible Downfield Pass, 5 yards (offset) (no play)",3.5,3.5,7.0,2022,96
+2.0,8:47,2.0,8.0,CIN 25,0.0,21.0,Tyler Allgeier right end for 8 yards (tackle by Cam Taylor-Britt and Akeem Davis-Gaither),3.5,4.44,7.0,2022,96
+2.0,8:11,1.0,10.0,CIN 17,0.0,21.0,Tyler Allgeier left tackle for 4 yards (tackle by B.J. Hill),4.44,4.5,7.0,2022,96
+2.0,7:29,2.0,6.0,CIN 13,0.0,21.0,Tyler Allgeier left tackle for 9 yards (tackle by Sam Hubbard),4.5,6.28,7.0,2022,96
+2.0,6:45,1.0,4.0,CIN 4,0.0,21.0,Tyler Allgeier left tackle for 2 yards (tackle by Jay Tufele and Markus Bailey),6.28,5.72,7.0,2022,96
+2.0,6:02,2.0,2.0,CIN 2,0.0,21.0,"Marcus Mariota pass incomplete short middle intended for Kyle Pitts. Penalty on Cameron Sample: Defensive Pass Interference, 1 yard (accepted) (no play)",5.72,6.97,7.0,2022,96
+2.0,5:57,1.0,1.0,CIN 1,0.0,21.0,Tyler Allgeier left tackle for no gain (tackle by Germaine Pratt),6.97,5.91,7.0,2022,96
+2.0,5:14,2.0,1.0,CIN 1,0.0,21.0,"Marcus Mariota pass complete short left to Kyle Pitts for no gain (tackle by Chidobe Awuzie) ATL challenged the runner broke the plane ruling, and the play was upheld.",5.91,5.17,7.0,2022,96
+2.0,4:49,3.0,1.0,CIN 1,6.0,21.0,"Tyler Allgeier left guard for 1 yard, touchdown",5.17,7.0,7.0,2022,96
+2.0,4:46,,,CIN 15,7.0,21.0,Younghoe Koo kicks extra point good,0.0,0.0,7.0,2022,96
+2.0,4:46,,,ATL 35,7.0,21.0,"Bradley Pinion kicks off 66 yards, returned by Chris Evans for 17 yards (tackle by Feleipe Franks)",0.0,-0.14,7.0,2022,96
+2.0,4:42,1.0,10.0,CIN 16,7.0,21.0,Joe Burrow pass complete short middle to Tyler Boyd for 13 yards (tackle by Troy Andersen),-0.14,0.87,7.0,2022,96
+2.0,4:02,1.0,10.0,CIN 29,7.0,21.0,Joe Burrow sacked by Grady Jarrett for -6 yards,0.87,-0.48,7.0,2022,96
+2.0,3:16,2.0,16.0,CIN 23,7.0,21.0,Joe Burrow pass complete short middle to Hayden Hurst for 14 yards (tackle by Jaylinn Hawkins),-0.48,0.7,7.0,2022,96
+2.0,2:35,3.0,2.0,CIN 37,7.0,21.0,Joe Burrow pass complete short right to Hayden Hurst for 4 yards (tackle by Richie Grant),0.7,1.66,7.0,2022,96
+2.0,2:00,1.0,10.0,CIN 41,7.0,21.0,Joe Burrow sacked by Lorenzo Carter for -7 yards,1.66,0.18,7.0,2022,96
+2.0,1:24,2.0,17.0,CIN 34,7.0,21.0,Joe Burrow pass complete short middle to Tee Higgins for 25 yards (tackle by Jaylinn Hawkins and Isaiah Oliver),0.18,2.85,7.0,2022,96
+2.0,0:57,1.0,10.0,ATL 41,7.0,27.0,"Joe Burrow pass complete short left to Ja'Marr Chase for 41 yards, touchdown",2.85,7.0,7.0,2022,96
+2.0,0:49,,,ATL 15,7.0,28.0,Evan McPherson kicks extra point good,0.0,0.0,7.0,2022,96
+2.0,0:49,,,CIN 35,7.0,28.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,96
+2.0,0:49,1.0,10.0,ATL 25,13.0,28.0,"Marcus Mariota pass complete deep middle to Damiere Byrd for 75 yards, touchdown",0.61,7.0,7.0,2022,96
+2.0,0:39,,,CIN 15,14.0,28.0,Younghoe Koo kicks extra point good,0.0,0.0,7.0,2022,96
+2.0,0:39,,,ATL 35,14.0,28.0,"Bradley Pinion kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,96
+2.0,0:39,1.0,10.0,CIN 25,14.0,28.0,Joe Burrow pass complete short right to Ja'Marr Chase for 13 yards,0.61,1.47,7.0,2022,96
+2.0,0:35,1.0,10.0,CIN 38,14.0,28.0,Joe Burrow pass complete short right to Samaje Perine for 6 yards (tackle by Mykal Walker and Lorenzo Carter),1.47,1.73,7.0,2022,96
+2.0,0:27,,,,,,Timeout #1 by Cincinnati Bengals,,,7.0,2022,96
+2.0,0:27,2.0,4.0,CIN 44,14.0,28.0,Joe Burrow pass incomplete short middle intended for Ja'Marr Chase,1.73,1.02,7.0,2022,96
+2.0,0:24,3.0,4.0,CIN 44,14.0,28.0,Joe Burrow pass incomplete short left intended for Tyler Boyd,1.02,-0.46,7.0,2022,96
+2.0,0:20,4.0,4.0,CIN 44,14.0,28.0,"Kevin Huber punts 37 yards, returned by Avery Williams for 56 yards (tackle by Markus Bailey)",-0.46,-3.91,7.0,2022,96
+2.0,0:03,1.0,10.0,CIN 25,17.0,28.0,Younghoe Koo 43 yard field goal good,3.91,3.0,7.0,2022,96
+3.0,15:00,,,CIN 35,17.0,28.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,96
+3.0,15:00,1.0,10.0,ATL 25,17.0,28.0,Tyler Allgeier left tackle for 1 yard (tackle by Zachary Carter),0.61,0.2,7.0,2022,96
+3.0,14:23,2.0,9.0,ATL 26,17.0,28.0,Marcus Mariota pass incomplete short left,0.2,-0.49,7.0,2022,96
+3.0,14:16,3.0,9.0,ATL 26,17.0,28.0,Marcus Mariota pass incomplete short left intended for Kyle Pitts (defended by Mike Hilton),-0.49,-1.63,7.0,2022,96
+3.0,14:10,4.0,9.0,ATL 26,17.0,28.0,"Bradley Pinion punts 46 yards, returned by Trent Taylor for 15 yards (tackle by Jaylinn Hawkins)",-1.63,-1.8,7.0,2022,96
+3.0,13:58,1.0,10.0,CIN 43,17.0,28.0,Joe Burrow pass complete short right to Tee Higgins for 21 yards (tackle by Cornell Armstrong),1.8,3.18,7.0,2022,96
+3.0,13:28,1.0,10.0,ATL 36,17.0,28.0,Joe Mixon up the middle for 5 yards (tackle by Troy Andersen and Rashaan Evans),3.18,3.31,7.0,2022,96
+3.0,12:47,2.0,5.0,ATL 31,17.0,28.0,Joe Burrow pass complete short left to Tyler Boyd for 4 yards (tackle by Cornell Armstrong),3.31,3.14,7.0,2022,96
+3.0,12:09,3.0,1.0,ATL 27,17.0,28.0,Samaje Perine left guard for no gain (tackle by Rashaan Evans),3.14,1.82,7.0,2022,96
+3.0,11:26,4.0,1.0,ATL 27,17.0,28.0,Joe Burrow pass incomplete short left intended for Tee Higgins (defended by Cornell Armstrong),1.82,-0.74,7.0,2022,96
+3.0,11:20,1.0,10.0,ATL 27,17.0,28.0,Tyler Allgeier left end for -3 yards (tackle by Vonn Bell),0.74,-0.21,7.0,2022,96
+3.0,10:36,2.0,13.0,ATL 24,17.0,28.0,Marcus Mariota sacked by Trey Hendrickson for -1 yards,-0.21,-1.02,7.0,2022,96
+3.0,9:57,3.0,14.0,ATL 23,17.0,28.0,Marcus Mariota scrambles right end for 11 yards (tackle by Jessie Bates and Akeem Davis-Gaither),-1.02,-1.11,7.0,2022,96
+3.0,9:13,4.0,3.0,ATL 34,17.0,28.0,"Bradley Pinion punts 43 yards, fair catch by Trent Taylor at CIN-23. Penalty on Mike Ford: Kick Catch Interference, 15 yards (accepted)",-1.11,-1.47,7.0,2022,96
+3.0,9:04,1.0,10.0,CIN 38,17.0,28.0,Joe Burrow pass complete short left to Hayden Hurst for 5 yards (tackle by Troy Andersen),1.47,1.6,7.0,2022,96
+3.0,8:21,2.0,5.0,CIN 43,17.0,28.0,Joe Burrow pass complete short right to Ja'Marr Chase for 4 yards (tackle by Rashaan Evans),1.6,1.42,7.0,2022,96
+3.0,7:35,,,,,,Timeout #1 by Cincinnati Bengals,,,7.0,2022,96
+3.0,7:35,3.0,1.0,CIN 47,17.0,28.0,"Joe Burrow pass deep left is intercepted by Richie Grant at ATL-27 and returned for no gain. Penalty on Abdullah Anderson: Defensive Offside, 5 yards (accepted) (no play)",1.42,2.39,7.0,2022,96
+3.0,7:25,1.0,10.0,ATL 48,17.0,28.0,Joe Mixon right end for 1 yard (tackle by Troy Andersen),2.39,1.98,7.0,2022,96
+3.0,6:45,2.0,9.0,ATL 47,17.0,28.0,Joe Burrow pass complete deep right to Tyler Boyd for 24 yards,1.98,4.04,7.0,2022,96
+3.0,6:01,1.0,10.0,ATL 23,17.0,28.0,Joe Burrow pass complete short middle to Tee Higgins for 22 yards (tackle by Richie Grant),4.04,6.97,7.0,2022,96
+3.0,5:30,1.0,1.0,ATL 1,17.0,28.0,Joe Burrow pass incomplete short left intended for Ja'Marr Chase (defended by Isaiah Oliver),6.97,5.91,7.0,2022,96
+3.0,5:28,2.0,1.0,ATL 1,17.0,34.0,"Joe Burrow up the middle for 1 yard, touchdown",5.91,7.0,7.0,2022,96
+3.0,5:20,,,ATL 15,17.0,35.0,Evan McPherson kicks extra point good,0.0,0.0,7.0,2022,96
+3.0,5:20,,,CIN 35,17.0,35.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,7.0,2022,96
+3.0,5:20,1.0,10.0,ATL 25,17.0,35.0,Caleb Huntley left guard for 2 yards (tackle by Vonn Bell),0.61,0.33,7.0,2022,96
+3.0,4:42,2.0,8.0,ATL 27,17.0,35.0,Marcus Mariota pass complete short right to Olamide Zaccheaus for 12 yards (tackle by Cam Taylor-Britt),0.33,1.53,7.0,2022,96
+3.0,4:01,1.0,10.0,ATL 39,17.0,35.0,Caleb Huntley left tackle for 1 yard (tackle by Zachary Carter),1.53,1.12,7.0,2022,96
+3.0,3:19,2.0,9.0,ATL 40,17.0,35.0,Marcus Mariota scrambles right end for 2 yards (tackle by Akeem Davis-Gaither),1.12,0.7,7.0,2022,96
+3.0,2:36,3.0,7.0,ATL 42,17.0,35.0,Marcus Mariota sacked by Sam Hubbard for -8 yards,0.7,-1.11,7.0,2022,96
+3.0,2:01,4.0,15.0,ATL 34,17.0,35.0,"Bradley Pinion punts 49 yards, returned by Trent Taylor for 4 yards (tackle by KhaDarel Hodge)",-1.11,-0.34,7.0,2022,96
+3.0,1:54,1.0,10.0,CIN 21,17.0,35.0,Joe Burrow pass complete short middle to Tyler Boyd for 9 yards (tackle by Jaylinn Hawkins),0.34,1.02,7.0,2022,96
+3.0,1:15,2.0,1.0,CIN 30,17.0,35.0,Joe Mixon right guard for 3 yards (tackle by Rashaan Evans and Jaylinn Hawkins),1.02,1.14,7.0,2022,96
+3.0,0:38,1.0,10.0,CIN 33,17.0,35.0,Joe Burrow sacked by DeAngelo Malone for -9 yards,1.14,-0.62,7.0,2022,96
+4.0,15:00,2.0,19.0,CIN 24,17.0,35.0,Joe Burrow pass complete short middle to Mitchell Wilcox for 8 yards (tackle by Rashaan Evans and Mykal Walker),-0.62,-0.23,7.0,2022,96
+4.0,14:20,3.0,11.0,CIN 32,17.0,35.0,Joe Burrow pass incomplete short right intended for Hayden Hurst (defended by Grady Jarrett),-0.23,-1.24,7.0,2022,96
+4.0,14:12,4.0,11.0,CIN 32,17.0,35.0,"Kevin Huber punts 56 yards, returned by Avery Williams for 8 yards (tackle by Akeem Davis-Gaither)",-1.24,-0.28,7.0,2022,96
+4.0,14:01,1.0,10.0,ATL 20,17.0,35.0,Tyler Allgeier left end for 8 yards (tackle by Jay Tufele),0.28,0.81,7.0,2022,96
+4.0,13:21,2.0,2.0,ATL 28,17.0,35.0,Tyler Allgeier left guard for -1 yards (tackle by Jay Tufele and Akeem Davis-Gaither),0.81,-0.03,7.0,2022,96
+4.0,12:41,3.0,3.0,ATL 27,17.0,35.0,Marcus Mariota pass complete short middle to Kyle Pitts for 7 yards (tackle by Akeem Davis-Gaither),-0.03,1.2,7.0,2022,96
+4.0,12:04,1.0,10.0,ATL 34,17.0,35.0,Tyler Allgeier left guard for 3 yards (tackle by Akeem Davis-Gaither),1.2,1.06,7.0,2022,96
+4.0,11:24,2.0,7.0,ATL 37,17.0,35.0,Marcus Mariota pass incomplete short left intended for Olamide Zaccheaus,1.06,0.37,7.0,2022,96
+4.0,11:17,3.0,7.0,ATL 37,17.0,35.0,Marcus Mariota pass complete short middle to Olamide Zaccheaus for 9 yards (tackle by Germaine Pratt),0.37,1.99,7.0,2022,96
+4.0,10:41,1.0,10.0,ATL 46,17.0,35.0,Avery Williams right end for 4 yards (tackle by Zachary Carter),1.99,1.99,7.0,2022,96
+4.0,10:13,2.0,6.0,ATL 50,17.0,35.0,Marcus Mariota left tackle for 1 yard (tackle by Zachary Carter),1.99,1.42,7.0,2022,96
+4.0,9:34,3.0,5.0,CIN 49,17.0,35.0,Marcus Mariota sacked by Joseph Ossai for -8 yards,1.42,-0.52,7.0,2022,96
+4.0,8:44,4.0,13.0,ATL 43,17.0,35.0,"Bradley Pinion punts 52 yards downed by KhaDarel Hodge. Penalty on Clay Johnston: Unnecessary Roughness / Defense, 2 yards (accepted)",-0.52,0.38,7.0,2022,96
+4.0,8:44,1.0,10.0,CIN 3,17.0,35.0,Joe Mixon right tackle for no gain (tackle by Richie Grant),-0.38,-0.78,7.0,2022,96
+4.0,8:04,2.0,10.0,CIN 3,17.0,35.0,Joe Mixon left guard for 6 yards (tackle by Rashaan Evans and Jaylinn Hawkins),-0.78,-0.72,7.0,2022,96
+4.0,7:22,3.0,4.0,CIN 9,17.0,35.0,Joe Burrow pass complete short right to Tee Higgins for 13 yards (tackle by Isaiah Oliver),-0.72,0.41,7.0,2022,96
+4.0,6:35,1.0,10.0,CIN 22,17.0,35.0,Joe Mixon right guard for 5 yards (tackle by Rashaan Evans and Ta'Quon Graham),0.41,0.54,7.0,2022,96
+4.0,5:50,2.0,5.0,CIN 27,17.0,35.0,Joe Mixon right guard for 1 yard (tackle by Ta'Quon Graham),0.54,-0.03,7.0,2022,96
+4.0,5:43,,,,,,Timeout #1 by Atlanta Falcons,,,7.0,2022,96
+4.0,5:43,3.0,4.0,CIN 28,17.0,35.0,Joe Burrow up the middle for 20 yards (tackle by Ta'Quon Graham),-0.03,2.13,7.0,2022,96
+4.0,4:54,1.0,10.0,CIN 48,17.0,35.0,Joe Mixon right tackle for 11 yards (tackle by Cornell Armstrong and Darren Hall),2.13,2.85,7.0,2022,96
+4.0,4:12,1.0,10.0,ATL 41,17.0,35.0,Joe Burrow pass complete short left to Ja'Marr Chase for 6 yards (tackle by Darren Hall),2.85,3.12,7.0,2022,96
+4.0,4:08,2.0,4.0,ATL 35,17.0,35.0,Joe Mixon right tackle for 2 yards (tackle by Abdullah Anderson and Grady Jarrett),3.12,2.68,7.0,2022,96
+4.0,3:59,,,,,,Timeout #2 by Atlanta Falcons,,,7.0,2022,96
+4.0,3:59,3.0,2.0,ATL 33,17.0,35.0,Joe Burrow pass complete short right to Ja'Marr Chase for 8 yards (tackle by Darren Hall),2.68,3.91,7.0,2022,96
+4.0,3:19,1.0,10.0,ATL 25,17.0,35.0,Joe Burrow pass complete short middle to Mitchell Wilcox for 6 yards (tackle by Mykal Walker and Troy Andersen),3.91,4.2,7.0,2022,96
+4.0,3:11,,,,,,Timeout #3 by Atlanta Falcons,,,7.0,2022,96
+4.0,3:11,2.0,4.0,ATL 19,17.0,35.0,"Joe Burrow pass complete to Tee Higgins for 6 yards Replay Assistant challenged the pass completion ruling, and the original play was overturned. Joe Burrow pass incomplete short left intended for Tee Higgins",4.2,3.49,7.0,2022,96
+4.0,3:08,3.0,4.0,ATL 19,17.0,35.0,Joe Burrow pass complete short middle to Hayden Hurst for 7 yards (tackle by Adetokunbo Ogundeji and Rashaan Evans),3.49,4.78,7.0,2022,96
+4.0,2:21,1.0,10.0,ATL 12,17.0,35.0,Joe Mixon right tackle for 6 yards (tackle by Rashaan Evans),4.78,5.21,7.0,2022,96
+4.0,2:00,2.0,4.0,ATL 6,17.0,35.0,Joe Mixon up the middle for -2 yards (tackle by Richie Grant and Timmy Horne),5.21,3.93,7.0,2022,96
+4.0,1:16,,,,,,Timeout #2 by Cincinnati Bengals,,,7.0,2022,96
+4.0,1:16,3.0,6.0,ATL 8,17.0,35.0,Joe Mixon right guard for 4 yards (tackle by Rashaan Evans),3.93,3.04,7.0,2022,96
+4.0,0:31,4.0,2.0,ATL 4,17.0,35.0,"Penalty on Timmy Horne: Encroachment, 2 yards (accepted) (no play)",3.04,6.74,7.0,2022,96
+4.0,0:31,1.0,2.0,ATL 2,17.0,35.0,Joe Burrow kneels for -1 yards,6.74,5.53,7.0,2022,96

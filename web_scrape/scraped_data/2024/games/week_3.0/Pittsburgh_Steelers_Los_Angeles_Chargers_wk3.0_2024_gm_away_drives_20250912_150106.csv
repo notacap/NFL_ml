@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,LAC 30,3,2:30,2,Punt,0,Chargers,3.0,2024,40
+2,1,10:39,LAC 24,3,2:51,2,Punt,0,Chargers,3.0,2024,40
+3,1,5:34,LAC 41,5,2:48,59,Touchdown,0,Chargers,3.0,2024,40
+4,2,10:17,LAC 30,12,7:04,60,Field Goal,0,Chargers,3.0,2024,40
+5,2,1:50,LAC 8,7,1:06,32,Punt,0,Chargers,3.0,2024,40
+6,2,0:01,PIT 48,1,0:01,0,End of Half,0,Chargers,3.0,2024,40
+7,3,9:05,LAC 12,3,1:04,-5,Punt,0,Chargers,3.0,2024,40
+8,3,7:53,LAC 34,3,2:13,-4,Punt,0,Chargers,3.0,2024,40
+9,4,14:14,LAC 20,6,4:29,23,Punt,0,Chargers,3.0,2024,40
+10,4,7:02,LAC 30,3,2:03,-14,Punt,0,Chargers,3.0,2024,40

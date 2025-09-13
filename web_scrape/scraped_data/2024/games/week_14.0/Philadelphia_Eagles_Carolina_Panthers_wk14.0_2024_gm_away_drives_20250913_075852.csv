@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,CAR 26,5,1:47,6,Punt,0,Panthers,14.0,2024,198
+2,1,10:27,CAR 24,7,5:15,21,Punt,0,Panthers,14.0,2024,198
+3,1,3:01,PHI 47,5,1:52,27,Field Goal,0,Panthers,14.0,2024,198
+4,2,11:48,CAR 31,14,7:48,69,Touchdown,0,Panthers,14.0,2024,198
+5,2,2:55,CAR 29,3,1:05,7,Interception,0,Panthers,14.0,2024,198
+6,2,0:14,CAR 21,1,0:14,-1,End of Half,0,Panthers,14.0,2024,198
+7,3,10:42,CAR 42,12,7:53,58,Touchdown,0,Panthers,14.0,2024,198
+8,4,13:45,CAR 30,10,5:10,43,Downs,0,Panthers,14.0,2024,198
+9,4,2:58,CAR 3,13,2:29,45,Downs,0,Panthers,14.0,2024,198

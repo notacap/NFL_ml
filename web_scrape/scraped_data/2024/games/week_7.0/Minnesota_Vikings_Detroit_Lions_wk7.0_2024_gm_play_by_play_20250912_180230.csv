@@ -1,0 +1,163 @@
+Quarter,Time,Down,ToGo,Location,DET,MIN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Vikings won the coin toss and deferred, Lions to receive the opening kickoff.",,,7.0,2024,95
+1.0,15:00,,,MIN 35,0.0,0.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,95
+1.0,15:00,1.0,10.0,DET 30,0.0,0.0,David Montgomery right tackle for 3 yards (tackle by Jonathan Greenard),0.94,0.8,7.0,2024,95
+1.0,14:23,2.0,7.0,DET 33,0.0,0.0,"David Montgomery up the middle for 5 yards (tackle by Harrison Phillips). Penalty on Kayode Awosika: Offensive Holding, 10 yards (accepted) (no play)",0.8,-0.55,7.0,2024,95
+1.0,14:00,2.0,17.0,DET 23,0.0,0.0,"Jared Goff sacked by Andrew Van Ginkel for -9 yards. Penalty on Kayode Awosika: Offensive Holding, 10 yards (declined)",-0.55,-3.07,7.0,2024,95
+1.0,13:31,3.0,26.0,DET 14,0.0,0.0,Jared Goff pass complete short middle to David Montgomery for 19 yards (tackle by Camryn Bynum and Harrison Smith),-3.07,-1.18,7.0,2024,95
+1.0,12:36,4.0,7.0,DET 33,0.0,0.0,Jalen Reeves-Maybin right end for 1 yard (tackle by Josh Metellus and C.J. Ham),-1.18,-3.31,7.0,2024,95
+1.0,12:31,1.0,10.0,DET 34,0.0,0.0,Sam Darnold pass complete short right to Justin Jefferson for no gain (tackle by Malcolm Rodriguez and Isaac Ukwu),3.31,2.77,7.0,2024,95
+1.0,11:50,2.0,10.0,DET 34,0.0,6.0,"Aaron Jones left tackle for 34 yards, touchdown",2.77,7.0,7.0,2024,95
+1.0,11:43,,,DET 15,0.0,7.0,Will Reichard kicks extra point good,0.0,0.0,7.0,2024,95
+1.0,11:43,,,MIN 35,0.0,7.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,95
+1.0,11:43,,,,,,Timeout #1 by Detroit Lions,,,7.0,2024,95
+1.0,11:43,1.0,10.0,DET 30,0.0,7.0,Jared Goff pass complete short right to Jahmyr Gibbs for 2 yards (tackle by Andrew Van Ginkel),0.94,0.66,7.0,2024,95
+1.0,11:11,2.0,8.0,DET 32,0.0,7.0,Jahmyr Gibbs left tackle for 5 yards (tackle by Jerry Tillery and Andrew Van Ginkel),0.66,0.63,7.0,2024,95
+1.0,10:47,,,,,,Timeout #1 by Minnesota Vikings,,,7.0,2024,95
+1.0,10:47,3.0,3.0,DET 37,0.0,7.0,"Jared Goff sacked by Ivan Pace for no gain. Penalty on Taylor Decker: Offensive Holding, 10 yards (declined)",0.63,-0.91,7.0,2024,95
+1.0,10:18,4.0,3.0,DET 37,0.0,7.0,"Jack Fox punts 63 yards, touchback.",-0.91,-0.28,7.0,2024,95
+1.0,10:10,1.0,10.0,MIN 20,0.0,7.0,Aaron Jones right end for 8 yards (tackle by Jack Campbell),0.28,0.81,7.0,2024,95
+1.0,9:47,2.0,2.0,MIN 28,0.0,7.0,Aaron Jones left end for 1 yard (tackle by Malcolm Rodriguez),0.81,0.23,7.0,2024,95
+1.0,9:10,3.0,1.0,MIN 29,0.0,7.0,Sam Darnold pass complete deep right to Justin Jefferson for 18 yards (tackle by Kerby Joseph),0.23,2.06,7.0,2024,95
+1.0,8:26,,,,,,Timeout #2 by Minnesota Vikings,,,7.0,2024,95
+1.0,8:26,1.0,10.0,MIN 47,0.0,7.0,Aaron Jones right end for no gain (tackle by Jack Campbell),2.06,1.52,7.0,2024,95
+1.0,8:04,2.0,10.0,MIN 47,0.0,7.0,"Sam Darnold scrambles up the middle for 6 yards (tackle by Josh Paschal). Penalty on Carlton Davis: Defensive Holding, 5 yards (accepted)",1.52,2.79,7.0,2024,95
+1.0,7:40,1.0,10.0,DET 42,0.0,7.0,Aaron Jones right end for no gain (tackle by Jack Campbell),2.79,2.24,7.0,2024,95
+1.0,6:59,2.0,10.0,DET 42,0.0,7.0,Sam Darnold pass complete short right to Johnny Mundt for 2 yards (tackle by Alex Anzalone),2.24,1.82,7.0,2024,95
+1.0,6:18,3.0,8.0,DET 40,0.0,7.0,Sam Darnold pass complete short right to Johnny Mundt for 1 yard (tackle by Trevor Nowaske),1.82,0.66,7.0,2024,95
+1.0,5:39,4.0,7.0,DET 39,0.0,10.0,Will Reichard 57 yard field goal good,0.66,3.0,7.0,2024,95
+1.0,5:34,,,MIN 35,0.0,10.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,95
+1.0,5:34,1.0,10.0,DET 30,0.0,10.0,"Jared Goff pass complete short middle to Tim Patrick for 3 yards (tackle by Harrison Phillips and Jerry Tillery) MIN challenged the runner was down by contact ruling, and the play was upheld.",0.94,0.8,7.0,2024,95
+1.0,5:10,2.0,7.0,DET 33,0.0,10.0,Jared Goff pass complete short middle to David Montgomery for 6 yards (tackle by Harrison Smith and Josh Metellus),0.8,0.89,7.0,2024,95
+1.0,4:34,3.0,1.0,DET 39,0.0,10.0,David Montgomery right tackle for no gain (tackle by Harrison Phillips and Jonathan Bullard),0.89,-0.78,7.0,2024,95
+1.0,4:12,4.0,1.0,DET 39,0.0,10.0,"Penalty on Kayode Awosika: False Start, 4 yards (accepted) (no play)",-0.78,-1.04,7.0,2024,95
+1.0,4:11,4.0,5.0,DET 35,0.0,10.0,"Jack Fox punts 55 yards, returned by Brandon Powell for 10 yards (tackle by Trevor Nowaske)",-1.04,-0.28,7.0,2024,95
+1.0,3:58,1.0,10.0,MIN 20,0.0,10.0,"Ty Chandler right guard for no gain (tackle by Carlton Davis). Penalty on Johnny Mundt: Offensive Holding, 10 yards (accepted) (no play)",0.28,-0.76,7.0,2024,95
+1.0,3:40,1.0,20.0,MIN 10,0.0,10.0,Ty Chandler right guard for 1 yard (tackle by Alex Anzalone and Pat O'Connor),-0.76,-1.44,7.0,2024,95
+1.0,3:11,2.0,19.0,MIN 11,0.0,10.0,"Sam Darnold pass complete short left to Justin Jefferson for no gain (tackle by Terrion Arnold). Penalty on Ed Ingram: Offensive Holding, 5 yards (accepted) (no play)",-1.44,-1.8,7.0,2024,95
+1.0,2:52,2.0,24.0,MIN 6,0.0,10.0,Sam Darnold pass complete short left to Jalen Nailor for 12 yards (tackle by Amik Robertson),-1.8,-1.33,7.0,2024,95
+1.0,2:11,3.0,12.0,MIN 18,0.0,10.0,"Penalty on Garrett Bradbury: False Start, 5 yards (accepted) (no play)",-1.33,-2.19,7.0,2024,95
+1.0,1:50,3.0,17.0,MIN 13,0.0,10.0,Sam Darnold pass complete short right to Jordan Addison for 10 yards (tackle by Carlton Davis),-2.19,-1.83,7.0,2024,95
+1.0,1:02,4.0,7.0,MIN 23,0.0,10.0,"Ryan Wright punts 60 yards, returned by Kalif Raymond for 14 yards (tackle by Theo Jackson and Trent Sherfield)",-1.83,-1.0,7.0,2024,95
+1.0,0:51,1.0,10.0,DET 31,0.0,10.0,Jahmyr Gibbs left guard for 4 yards (tackle by Patrick Jones),1.0,1.0,7.0,2024,95
+1.0,0:15,2.0,6.0,DET 35,0.0,10.0,Jared Goff pass complete short left to Amon-Ra St. Brown for 8 yards (tackle by Camryn Bynum),1.0,1.8,7.0,2024,95
+2.0,15:00,1.0,10.0,DET 43,0.0,10.0,Jahmyr Gibbs right guard for 4 yards (tackle by Ivan Pace),1.8,1.79,7.0,2024,95
+2.0,14:30,2.0,6.0,DET 47,0.0,10.0,Jared Goff pass complete short left to Jahmyr Gibbs for 8 yards (tackle by Camryn Bynum),1.79,2.59,7.0,2024,95
+2.0,13:51,1.0,10.0,MIN 45,6.0,10.0,"Jahmyr Gibbs right end for 45 yards, touchdown",2.59,7.0,7.0,2024,95
+2.0,13:42,,,MIN 15,7.0,10.0,Jake Bates kicks extra point good,0.0,0.0,7.0,2024,95
+2.0,13:42,,,DET 35,7.0,10.0,"Jake Bates kicks off 68 yards, returned by Cam Akers for 27 yards (tackle by Ben Niemann). Penalty on Ennis Rakestraw: Illegal Formation, 5 yards (accepted)",0.0,0.87,7.0,2024,95
+2.0,13:37,1.0,10.0,MIN 29,7.0,10.0,Sam Darnold scrambles left guard for 19 yards (tackle by Kerby Joseph),0.87,2.13,7.0,2024,95
+2.0,12:51,1.0,10.0,MIN 48,7.0,10.0,Aaron Jones right end for no gain (tackle by Josh Paschal and Carlton Davis),2.13,1.58,7.0,2024,95
+2.0,12:24,2.0,10.0,MIN 48,7.0,10.0,"Sam Darnold pass incomplete deep left intended for Justin Jefferson. Penalty on Jordan Addison: Illegal Formation, 4 yards (accepted) (no play)",1.58,1.04,7.0,2024,95
+2.0,12:16,2.0,14.0,MIN 44,7.0,10.0,Sam Darnold pass complete short middle to Jordan Addison for 5 yards (tackle by Brian Branch),1.04,1.02,7.0,2024,95
+2.0,11:36,3.0,9.0,MIN 49,7.0,10.0,Sam Darnold pass incomplete short left intended for Jalen Nailor (defended by Brian Branch),1.02,-0.13,7.0,2024,95
+2.0,11:31,4.0,9.0,MIN 49,7.0,10.0,"Ryan Wright punts 34 yards, fair catch by Kalif Raymond at DET-17",-0.13,0.06,7.0,2024,95
+2.0,11:24,1.0,10.0,DET 17,7.0,10.0,"Jared Goff pass complete deep right to Amon-Ra St. Brown for 17 yards (tackle by Harrison Smith). Penalty on Ivan Pace: Roughing the Passer, 15 yards (accepted)",-0.06,2.19,7.0,2024,95
+2.0,11:03,1.0,10.0,DET 49,7.0,10.0,David Montgomery left tackle for 5 yards (tackle by Jerry Tillery and Ivan Pace),2.19,2.32,7.0,2024,95
+2.0,10:29,2.0,5.0,MIN 46,7.0,10.0,Jared Goff pass complete short right to Amon-Ra St. Brown for 12 yards (tackle by Andrew Van Ginkel),2.32,3.31,7.0,2024,95
+2.0,9:47,1.0,10.0,MIN 34,7.0,10.0,"Penalty on David Montgomery: False Start, 5 yards (accepted) (no play)",3.31,2.98,7.0,2024,95
+2.0,9:25,1.0,15.0,MIN 39,7.0,10.0,David Montgomery left guard for 4 yards (tackle by Josh Metellus),2.98,2.64,7.0,2024,95
+2.0,8:44,2.0,11.0,MIN 35,13.0,10.0,"Jared Goff pass complete deep middle to Amon-Ra St. Brown for 35 yards, touchdown",2.64,7.0,7.0,2024,95
+2.0,8:39,,,MIN 15,14.0,10.0,Jake Bates kicks extra point good,0.0,0.0,7.0,2024,95
+2.0,8:39,,,DET 35,14.0,10.0,"Jake Bates kicks off 65 yards, returned by Cam Akers for 25 yards (tackle by Sione Vaki and Trevor Nowaske)",0.0,0.61,7.0,2024,95
+2.0,8:32,1.0,10.0,MIN 25,14.0,10.0,Sam Darnold pass complete short left to Justin Jefferson for 15 yards (tackle by Kerby Joseph and Terrion Arnold),0.61,1.6,7.0,2024,95
+2.0,7:53,1.0,10.0,MIN 40,14.0,10.0,Aaron Jones left guard for 3 yards (tackle by D.J. Reader),1.6,1.46,7.0,2024,95
+2.0,7:11,2.0,7.0,MIN 43,14.0,10.0,Sam Darnold pass complete short right to Aaron Jones for 12 yards (tackle by Kerby Joseph),1.46,2.59,7.0,2024,95
+2.0,6:28,1.0,10.0,DET 45,14.0,10.0,Aaron Jones left guard for 2 yards (tackle by D.J. Reader),2.59,2.31,7.0,2024,95
+2.0,5:46,2.0,8.0,DET 43,14.0,10.0,Sam Darnold pass short right intended for Jordan Addison is intercepted by Brian Branch at DET-28 and returned for no gain (tackle by Jordan Addison),2.31,-0.81,7.0,2024,95
+2.0,5:39,1.0,10.0,DET 28,14.0,10.0,Jahmyr Gibbs left tackle for 8 yards (tackle by Stephon Gilmore),0.81,1.34,7.0,2024,95
+2.0,5:02,2.0,2.0,DET 36,14.0,10.0,Jared Goff pass complete short middle to Jahmyr Gibbs for 18 yards (tackle by Ivan Pace and Harrison Smith),1.34,2.52,7.0,2024,95
+2.0,4:23,1.0,10.0,MIN 46,14.0,10.0,Jahmyr Gibbs left guard for 8 yards (tackle by Harrison Smith and Camryn Bynum),2.52,3.06,7.0,2024,95
+2.0,3:38,2.0,2.0,MIN 38,14.0,10.0,Jared Goff pass complete short right to Amon-Ra St. Brown for 3 yards (tackle by Stephon Gilmore),3.06,3.25,7.0,2024,95
+2.0,2:57,1.0,10.0,MIN 35,14.0,10.0,David Montgomery right end for -1 yards (tackle by Jonathan Bullard),3.25,2.57,7.0,2024,95
+2.0,2:15,2.0,11.0,MIN 36,14.0,10.0,Jared Goff pass complete deep middle to Sam LaPorta for 25 yards (tackle by Ivan Pace),2.57,4.84,7.0,2024,95
+2.0,2:00,1.0,10.0,MIN 11,14.0,10.0,Jahmyr Gibbs right end for 2 yards (tackle by Byron Murphy),4.84,4.51,7.0,2024,95
+2.0,1:16,2.0,8.0,MIN 9,14.0,10.0,David Montgomery up the middle for 1 yard (tackle by Jerry Tillery and Jonathan Greenard),4.51,3.76,7.0,2024,95
+2.0,0:29,,,,,,Timeout #2 by Detroit Lions,,,7.0,2024,95
+2.0,0:29,3.0,7.0,MIN 8,20.0,10.0,"Jahmyr Gibbs up the middle for 8 yards, touchdown",3.76,7.0,7.0,2024,95
+2.0,0:26,,,MIN 15,21.0,10.0,Jake Bates kicks extra point good,0.0,0.0,7.0,2024,95
+2.0,0:26,,,DET 35,21.0,10.0,"Jake Bates kicks off 65 yards, touchback.",0.0,0.28,7.0,2024,95
+2.0,0:23,1.0,10.0,MIN 20,21.0,10.0,Sam Darnold pass incomplete short left intended for Johnny Mundt,0.28,-0.27,7.0,2024,95
+2.0,0:17,2.0,10.0,MIN 20,21.0,10.0,Aaron Jones left guard for 17 yards (tackle by Alex Anzalone),-0.27,1.4,7.0,2024,95
+3.0,15:00,,,DET 35,21.0,10.0,"Jake Bates kicks off 65 yards, touchback.",0.0,0.28,7.0,2024,95
+3.0,15:00,1.0,10.0,MIN 20,21.0,10.0,Sam Darnold pass complete short left to Justin Jefferson for 15 yards (tackle by Terrion Arnold),0.28,1.27,7.0,2024,95
+3.0,14:24,1.0,10.0,MIN 35,21.0,10.0,Sam Darnold pass complete short right to Justin Jefferson for no gain (tackle by Malcolm Rodriguez),1.27,0.72,7.0,2024,95
+3.0,13:42,2.0,10.0,MIN 35,21.0,10.0,"Sam Darnold pass incomplete short right. Penalty on Johnny Mundt: Offensive Holding, 10 yards (offset) . Penalty on Amik Robertson: Defensive Holding, 5 yards (offset) (no play)",0.72,0.72,7.0,2024,95
+3.0,13:34,2.0,10.0,MIN 35,21.0,10.0,Sam Darnold pass complete short right to Justin Jefferson for 8 yards (tackle by Carlton Davis),0.72,1.09,7.0,2024,95
+3.0,12:53,3.0,2.0,MIN 43,21.0,10.0,"Sam Darnold pass complete short left to Jalen Nailor for no gain. Jalen Nailor fumbles (forced by Carlton Davis), recovered by Brian Branch at DET-43, touchdown Replay Assistant challenged the runner was in bounds ruling, and the original play was overturned. Sam Darnold pass complete short left to Jalen Nailor for 11 yards (tackle by Carlton Davis)",1.09,2.52,7.0,2024,95
+3.0,12:34,1.0,10.0,DET 46,21.0,10.0,Aaron Jones left tackle for 9 yards (tackle by Kerby Joseph and Malcolm Rodriguez),2.52,3.19,7.0,2024,95
+3.0,12:13,2.0,1.0,DET 37,21.0,10.0,Aaron Jones up the middle for 10 yards (tackle by Kerby Joseph),3.19,3.78,7.0,2024,95
+3.0,11:38,1.0,10.0,DET 27,21.0,10.0,Sam Darnold pass complete short right to Johnny Mundt for 2 yards (tackle by Brian Branch),3.78,3.5,7.0,2024,95
+3.0,10:50,2.0,8.0,DET 25,21.0,10.0,Sam Darnold pass incomplete short middle,3.5,2.81,7.0,2024,95
+3.0,10:47,3.0,8.0,DET 25,21.0,16.0,"Sam Darnold pass complete deep left to Justin Jefferson for 25 yards, touchdown",2.81,7.0,7.0,2024,95
+3.0,10:42,,,DET 15,21.0,17.0,Will Reichard kicks extra point good,0.0,0.0,7.0,2024,95
+3.0,10:42,,,MIN 35,21.0,17.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,95
+3.0,10:42,1.0,10.0,DET 30,21.0,17.0,Jared Goff pass complete short left to David Montgomery for 14 yards (tackle by Josh Metellus),0.94,1.86,7.0,2024,95
+3.0,10:14,1.0,10.0,DET 44,21.0,17.0,David Montgomery left guard for 6 yards (tackle by Ivan Pace and Jonathan Bullard),1.86,2.13,7.0,2024,95
+3.0,9:30,2.0,4.0,DET 50,21.0,17.0,"David Montgomery left end for no gain (tackle by Jonathan Greenard and Josh Metellus). Penalty on Graham Glasgow: Offensive Holding, 10 yards (accepted) (no play)",2.13,0.78,7.0,2024,95
+3.0,9:12,2.0,14.0,DET 40,21.0,17.0,Jared Goff pass complete short right to Kalif Raymond for 5 yards,0.78,0.76,7.0,2024,95
+3.0,8:32,3.0,9.0,DET 45,21.0,17.0,Jared Goff pass complete short left to Kalif Raymond for 13 yards (tackle by Stephon Gilmore),0.76,2.79,7.0,2024,95
+3.0,7:52,1.0,10.0,MIN 42,21.0,17.0,Jared Goff pass incomplete short left intended for Sam LaPorta (defended by Jonathan Bullard),2.79,2.24,7.0,2024,95
+3.0,7:48,,,,,,Timeout #1 by Detroit Lions,,,7.0,2024,95
+3.0,7:48,2.0,10.0,MIN 42,21.0,17.0,"Penalty on Penei Sewell: False Start, 5 yards (accepted) (no play)",2.24,1.57,7.0,2024,95
+3.0,7:48,2.0,15.0,MIN 47,21.0,17.0,Jared Goff pass complete deep middle to Tim Patrick for 22 yards (tackle by Kamu Grugier-Hill),1.57,3.91,7.0,2024,95
+3.0,7:10,1.0,10.0,MIN 25,21.0,17.0,Jared Goff pass complete short left to Jameson Williams for -4 yards (tackle by Andrew Van Ginkel),3.91,2.82,7.0,2024,95
+3.0,6:36,2.0,14.0,MIN 29,21.0,17.0,David Montgomery up the middle for 8 yards (tackle by Patrick Jones),2.82,3.2,7.0,2024,95
+3.0,5:50,3.0,6.0,MIN 21,27.0,17.0,"Jared Goff pass complete short left to Kalif Raymond for 21 yards, touchdown",3.2,7.0,7.0,2024,95
+3.0,5:43,,,MIN 15,28.0,17.0,Jake Bates kicks extra point good,0.0,0.0,7.0,2024,95
+3.0,5:43,,,DET 35,28.0,17.0,"Jake Bates kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,95
+3.0,5:43,1.0,10.0,MIN 30,28.0,17.0,"Sam Darnold pass complete deep left to Johnny Mundt for no gain (tackle by Malcolm Rodriguez). Penalty on Ty Chandler: Offensive Holding, 10 yards (accepted) (no play)",0.94,0.28,7.0,2024,95
+3.0,5:14,1.0,20.0,MIN 20,28.0,17.0,Sam Darnold pass complete short left to Josh Oliver for 5 yards (tackle by Alex Anzalone),0.28,-0.28,7.0,2024,95
+3.0,4:40,2.0,15.0,MIN 25,28.0,17.0,Sam Darnold pass complete deep right to Jalen Nailor for 33 yards (tackle by Kerby Joseph),-0.28,2.79,7.0,2024,95
+3.0,3:52,1.0,10.0,DET 42,28.0,17.0,"Sam Darnold scrambles left end for no gain (tackle by Terrion Arnold). Penalty on Jordan Addison: Offensive Offside, 5 yards (accepted) (no play)",2.79,2.46,7.0,2024,95
+3.0,3:23,1.0,15.0,DET 47,28.0,17.0,Ty Chandler left guard for 3 yards (tackle by Jack Campbell),2.46,1.97,7.0,2024,95
+3.0,2:40,2.0,12.0,DET 44,28.0,17.0,Sam Darnold pass complete short left to Johnny Mundt for 3 yards (tackle by Alex Anzalone),1.97,1.68,7.0,2024,95
+3.0,1:56,3.0,9.0,DET 41,28.0,17.0,Sam Darnold pass complete short left to Aaron Jones for 17 yards (tackle by Malcolm Rodriguez),1.68,3.97,7.0,2024,95
+3.0,1:09,1.0,10.0,DET 24,28.0,17.0,Aaron Jones left tackle for 3 yards (tackle by Jack Campbell and Malcolm Rodriguez),3.97,3.84,7.0,2024,95
+3.0,0:31,2.0,7.0,DET 21,28.0,17.0,Sam Darnold sacked by Josh Paschal for -8 yards,3.84,2.08,7.0,2024,95
+4.0,15:00,3.0,15.0,DET 29,28.0,17.0,Sam Darnold scrambles right end for 5 yards (tackle by Amik Robertson),2.08,1.87,7.0,2024,95
+4.0,14:28,4.0,10.0,DET 24,28.0,20.0,Will Reichard 42 yard field goal good,1.87,3.0,7.0,2024,95
+4.0,14:24,,,MIN 35,28.0,20.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,95
+4.0,14:24,1.0,10.0,DET 30,28.0,20.0,Jahmyr Gibbs left tackle for 5 yards (tackle by Andrew Van Ginkel),0.94,1.07,7.0,2024,95
+4.0,13:47,2.0,5.0,DET 35,28.0,20.0,Jahmyr Gibbs right tackle for 3 yards (tackle by Harrison Phillips),1.07,0.76,7.0,2024,95
+4.0,13:10,3.0,2.0,DET 38,28.0,20.0,Jared Goff pass complete deep middle to Amon-Ra St. Brown for 16 yards (tackle by Harrison Smith),0.76,2.52,7.0,2024,95
+4.0,12:30,1.0,10.0,MIN 46,28.0,20.0,Jahmyr Gibbs left tackle for 2 yards (tackle by Shaquill Griffin and Ivan Pace),2.52,2.25,7.0,2024,95
+4.0,11:52,2.0,8.0,MIN 44,28.0,20.0,"Jared Goff sacked by Jonathan Greenard for -10 yards. Jared Goff fumbles (forced by Jonathan Greenard), recovered by Jared Goff at DET-46 (tackle by Jonathan Greenard)",2.25,0.23,7.0,2024,95
+4.0,11:04,3.0,18.0,DET 46,28.0,20.0,Jared Goff pass complete short middle to Amon-Ra St. Brown for 7 yards (tackle by Josh Metellus and Ivan Pace),0.23,0.13,7.0,2024,95
+4.0,10:20,4.0,11.0,MIN 47,28.0,20.0,Jack Fox punts 38 yards downed by Kindle Vildor,0.13,0.38,7.0,2024,95
+4.0,10:10,1.0,10.0,MIN 9,28.0,20.0,Sam Darnold pass complete deep right to Jordan Addison for 51 yards (tackle by Brian Branch),-0.38,2.92,7.0,2024,95
+4.0,9:22,1.0,10.0,DET 40,28.0,20.0,Sam Darnold pass complete short right to Aaron Jones for -6 yards (tackle by Alex Anzalone),2.92,1.56,7.0,2024,95
+4.0,8:46,2.0,16.0,DET 46,28.0,20.0,"Sam Darnold scrambles right end for 9 yards (tackle by Brian Branch). Penalty on Carlton Davis: Illegal Contact, 5 yards (accepted)",1.56,3.45,7.0,2024,95
+4.0,8:19,1.0,10.0,DET 32,28.0,20.0,Justin Jefferson left end for 3 yards (tackle by Alex Anzalone and Pat O'Connor),3.45,3.31,7.0,2024,95
+4.0,7:33,2.0,7.0,DET 29,28.0,20.0,Sam Darnold sacked by Jack Campbell for no gain,3.31,2.61,7.0,2024,95
+4.0,6:48,3.0,7.0,DET 29,28.0,20.0,Sam Darnold sacked by Malcolm Rodriguez for -1 yards,2.61,1.41,7.0,2024,95
+4.0,6:09,4.0,8.0,DET 30,28.0,23.0,Will Reichard 48 yard field goal good,1.41,3.0,7.0,2024,95
+4.0,6:04,,,MIN 35,28.0,23.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,95
+4.0,6:04,1.0,10.0,DET 30,28.0,23.0,Jared Goff pass incomplete short middle intended for David Montgomery (defended by Jonathan Bullard),0.94,0.39,7.0,2024,95
+4.0,6:00,2.0,10.0,DET 30,28.0,29.0,"David Montgomery left tackle for 5 yards. David Montgomery fumbles (tackle by Camryn Bynum, recovered by Ivan Pace at DET-36 and returned for 36 yards, touchdown. Penalty on Frank Ragnow: Offensive Holding, 10 yards (declined)",0.39,-7.0,7.0,2024,95
+4.0,5:50,,,DET 2,28.0,29.0,Two Point Attempt: Sam Darnold pass incomplete,1.0,-1.0,7.0,2024,95
+4.0,5:50,,,MIN 35,28.0,29.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,95
+4.0,5:50,1.0,10.0,DET 30,28.0,29.0,Jahmyr Gibbs left guard for 4 yards (tackle by Ivan Pace and Harrison Phillips),0.94,0.93,7.0,2024,95
+4.0,5:14,2.0,6.0,DET 34,28.0,29.0,Jared Goff pass incomplete deep left intended for Kalif Raymond,0.93,0.23,7.0,2024,95
+4.0,5:07,3.0,6.0,DET 34,28.0,29.0,"Jared Goff sacked by Andrew Van Ginkel for -14 yards. Jared Goff fumbles (forced by Andrew Van Ginkel), recovered by Frank Ragnow at DET-20 (tackle by Andrew Van Ginkel)",0.23,-2.03,7.0,2024,95
+4.0,4:22,4.0,20.0,DET 20,28.0,29.0,"Jack Fox punts 63 yards, returned by Brandon Powell for 5 yards (tackle by Khalil Dorsey)",-2.03,-0.41,7.0,2024,95
+4.0,4:16,1.0,10.0,MIN 22,28.0,29.0,Aaron Jones left tackle for 5 yards (tackle by Josh Paschal),0.41,0.54,7.0,2024,95
+4.0,3:33,2.0,5.0,MIN 27,28.0,29.0,Aaron Jones left end for 1 yard (tackle by Trevor Nowaske and Jack Campbell),0.54,-0.03,7.0,2024,95
+4.0,2:47,3.0,4.0,MIN 28,28.0,29.0,Sam Darnold pass incomplete deep right intended for Justin Jefferson,-0.03,-1.5,7.0,2024,95
+4.0,2:41,4.0,4.0,MIN 28,28.0,29.0,"Ryan Wright punts 51 yards, returned by Kalif Raymond for 9 yards (tackle by Trent Sherfield)",-1.5,-0.94,7.0,2024,95
+4.0,2:32,1.0,10.0,DET 30,28.0,29.0,Jahmyr Gibbs right guard for 4 yards (tackle by Ivan Pace and Josh Metellus),0.94,0.93,7.0,2024,95
+4.0,2:00,2.0,6.0,DET 34,28.0,29.0,Jahmyr Gibbs right tackle for 14 yards (tackle by Byron Murphy),0.93,2.13,7.0,2024,95
+4.0,1:25,1.0,10.0,DET 48,28.0,29.0,Jared Goff pass complete short right to Jahmyr Gibbs for 16 yards (tackle by Josh Metellus),2.13,3.18,7.0,2024,95
+4.0,1:18,1.0,10.0,MIN 36,28.0,29.0,Jared Goff pass complete short right to Amon-Ra St. Brown for 14 yards (tackle by Harrison Smith and Stephon Gilmore),3.18,4.11,7.0,2024,95
+4.0,1:07,,,,,,Timeout #1 by Minnesota Vikings,,,7.0,2024,95
+4.0,1:07,1.0,10.0,MIN 22,28.0,29.0,Jahmyr Gibbs right end for no gain (tackle by Jonathan Bullard and Jonathan Greenard),4.11,3.56,7.0,2024,95
+4.0,1:02,,,,,,Timeout #2 by Minnesota Vikings,,,7.0,2024,95
+4.0,1:02,2.0,10.0,MIN 22,28.0,29.0,Jared Goff kneels for -3 yards,3.56,2.48,7.0,2024,95
+4.0,1:01,,,,,,Timeout #3 by Minnesota Vikings,,,7.0,2024,95
+4.0,1:01,3.0,13.0,MIN 25,28.0,29.0,Jared Goff kneels for -1 yards,2.48,1.74,7.0,2024,95
+4.0,0:19,,,,,,Timeout #2 by Detroit Lions,,,7.0,2024,95
+4.0,0:19,4.0,14.0,MIN 26,31.0,29.0,Jake Bates 44 yard field goal good,1.74,3.0,7.0,2024,95
+4.0,0:15,,,DET 35,31.0,29.0,"Jake Bates kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,95
+4.0,0:15,1.0,10.0,MIN 30,31.0,29.0,Sam Darnold pass complete deep right to Jalen Nailor for 20 yards (tackle by Alex Anzalone),0.94,2.26,7.0,2024,95
+4.0,0:02,1.0,10.0,MIN 50,31.0,29.0,"Sam Darnold spiked the ball. Penalty on Christian Darrisaw: Illegal Formation, 5 yards (accepted) (no play)",2.26,1.93,7.0,2024,95
+4.0,0:01,1.0,15.0,MIN 45,31.0,29.0,Sam Darnold sacked by Trevor Nowaske for -6 yards,1.93,0.23,7.0,2024,95

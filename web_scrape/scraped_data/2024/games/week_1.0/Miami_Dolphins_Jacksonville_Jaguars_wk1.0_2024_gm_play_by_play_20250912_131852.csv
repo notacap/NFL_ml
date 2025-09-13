@@ -1,0 +1,169 @@
+Quarter,Time,Down,ToGo,Location,JAX,MIA,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Jaguars won the coin toss and deferred, Dolphins to receive the opening kickoff.",,,1.0,2024,9
+1.0,15:00,,,JAX 35,0.0,0.0,"Cam Little kicks off 65 yards, touchback.",0.0,0.28,1.0,2024,9
+1.0,15:00,1.0,10.0,MIA 20,0.0,0.0,Raheem Mostert right end for no gain (tackle by Foyesade Oluokun and Antonio Johnson),0.28,-0.27,1.0,2024,9
+1.0,14:19,2.0,10.0,MIA 20,0.0,0.0,De'Von Achane left end for -3 yards (tackle by Devin Lloyd),-0.27,-1.51,1.0,2024,9
+1.0,13:40,3.0,13.0,MIA 17,0.0,0.0,Tua Tagovailoa pass complete short right to De'Von Achane for 39 yards (tackle by Ronald Darby),-1.51,2.65,1.0,2024,9
+1.0,13:03,1.0,10.0,JAX 44,0.0,0.0,Tua Tagovailoa sacked by Travon Walker for no gain,2.65,2.11,1.0,2024,9
+1.0,12:29,2.0,10.0,JAX 44,0.0,0.0,Tua Tagovailoa pass complete short left to Tyreek Hill for 2 yards (tackle by Ronald Darby),2.11,1.69,1.0,2024,9
+1.0,11:47,3.0,8.0,JAX 42,0.0,0.0,Tua Tagovailoa pass incomplete deep right intended for Tyreek Hill,1.69,0.46,1.0,2024,9
+1.0,11:41,4.0,8.0,JAX 42,0.0,0.0,Tua Tagovailoa pass incomplete short middle intended for Braxton Berrios (defended by Darnell Savage),0.46,-1.73,1.0,2024,9
+1.0,11:37,1.0,10.0,JAX 42,0.0,0.0,Trevor Lawrence sacked by Calais Campbell for -13 yards,1.73,-0.57,1.0,2024,9
+1.0,10:55,2.0,23.0,JAX 29,0.0,0.0,Travis Etienne right guard for -1 yards (tackle by Calais Campbell),-0.57,-1.35,1.0,2024,9
+1.0,10:19,3.0,24.0,JAX 28,0.0,0.0,Trevor Lawrence pass incomplete deep middle intended for Evan Engram,-1.35,-1.5,1.0,2024,9
+1.0,10:13,4.0,24.0,JAX 28,0.0,0.0,"Logan Cooke punts 48 yards, returned by Braxton Berrios for 7 yards (tackle by Andre Cisco)",-1.5,-1.0,1.0,2024,9
+1.0,10:02,1.0,10.0,MIA 31,0.0,0.0,Raheem Mostert left end for 5 yards (tackle by Josh Hines-Allen and Devin Lloyd),1.0,1.14,1.0,2024,9
+1.0,9:23,2.0,5.0,MIA 36,0.0,0.0,Tua Tagovailoa pass complete short right to De'Von Achane for 3 yards (tackle by Foyesade Oluokun),1.14,0.83,1.0,2024,9
+1.0,8:44,3.0,2.0,MIA 39,0.0,0.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 10 yards (tackle by Antonio Johnson),0.83,2.19,1.0,2024,9
+1.0,8:10,1.0,10.0,MIA 49,0.0,0.0,Tua Tagovailoa pass incomplete deep left intended for Tyreek Hill,2.19,1.65,1.0,2024,9
+1.0,8:03,2.0,10.0,MIA 49,0.0,0.0,Tua Tagovailoa pass incomplete short right intended for Jonnu Smith,1.65,0.96,1.0,2024,9
+1.0,8:01,,,,,,Timeout #1 by Miami Dolphins,,,1.0,2024,9
+1.0,8:01,3.0,10.0,MIA 49,0.0,0.0,"Tua Tagovailoa pass incomplete deep right intended for Tyreek Hill (defended by Ronald Darby). Penalty on Jonnu Smith: Offensive Offside, 5 yards (declined)",0.96,-0.13,1.0,2024,9
+1.0,7:57,4.0,10.0,MIA 49,0.0,0.0,Jake Bailey punts 47 yards out of bounds,-0.13,0.38,1.0,2024,9
+1.0,7:49,1.0,10.0,JAX 4,0.0,0.0,Tank Bigsby right tackle for 17 yards (tackle by Jordan Poyer),-0.38,0.34,1.0,2024,9
+1.0,7:18,1.0,10.0,JAX 21,0.0,0.0,Tank Bigsby left guard for 7 yards (tackle by Jordan Poyer and Jevon Holland),0.34,0.75,1.0,2024,9
+1.0,6:45,2.0,3.0,JAX 28,0.0,0.0,Trevor Lawrence pass complete deep left to Gabriel Davis for 20 yards (tackle by Jordan Poyer and David Long),0.75,2.13,1.0,2024,9
+1.0,6:08,1.0,10.0,JAX 48,0.0,0.0,Travis Etienne right tackle for 3 yards (tackle by David Long),2.13,1.99,1.0,2024,9
+1.0,5:30,2.0,7.0,MIA 49,0.0,0.0,Trevor Lawrence scrambles left tackle for 8 yards (tackle by Kader Kohou),1.99,2.85,1.0,2024,9
+1.0,4:34,1.0,10.0,MIA 41,0.0,0.0,"Trevor Lawrence pass incomplete deep middle intended for Brian Thomas. Penalty on Jalen Ramsey: Defensive Pass Interference, 40 yards (accepted) (no play)",2.85,6.97,1.0,2024,9
+1.0,4:34,1.0,1.0,MIA 1,6.0,0.0,"Travis Etienne right guard for 1 yard, touchdown",6.97,7.0,1.0,2024,9
+1.0,4:31,,,MIA 15,7.0,0.0,Cam Little kicks extra point good,0.0,0.0,1.0,2024,9
+1.0,4:31,,,JAX 35,7.0,0.0,"Cam Little kicks off 65 yards, touchback.. Penalty on Anthony Walker: Illegal Formation, 5 yards (accepted)",0.0,0.61,1.0,2024,9
+1.0,4:31,1.0,10.0,MIA 25,7.0,0.0,De'Von Achane up the middle for -1 yards (tackle by DaVon Hamilton),0.61,-0.07,1.0,2024,9
+1.0,3:50,2.0,11.0,MIA 24,7.0,0.0,"Tua Tagovailoa scrambles left end for no gain (tackle by Chad Muma). Penalty on Robert Jones: Offensive Holding, 10 yards (accepted) (no play)",-0.07,-1.54,1.0,2024,9
+1.0,3:19,2.0,21.0,MIA 14,7.0,0.0,Tua Tagovailoa pass complete short left to Jonnu Smith for 7 yards (tackle by Tyson Campbell),-1.54,-1.15,1.0,2024,9
+1.0,2:47,3.0,14.0,MIA 21,7.0,0.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 10 yards (tackle by Ronald Darby),-1.15,-1.31,1.0,2024,9
+1.0,2:12,4.0,4.0,MIA 31,7.0,0.0,"Jake Bailey punts 57 yards, fair catch by Devin Duvernay at JAC-12",-1.31,0.35,1.0,2024,9
+1.0,2:03,1.0,10.0,JAX 12,7.0,0.0,Travis Etienne left tackle for 4 yards (tackle by Calais Campbell),-0.35,-0.37,1.0,2024,9
+1.0,1:22,2.0,6.0,JAX 16,7.0,0.0,Trevor Lawrence pass complete short middle to Brian Thomas for 6 yards (tackle by David Long and Kendall Fuller),-0.37,0.41,1.0,2024,9
+1.0,0:38,1.0,10.0,JAX 22,7.0,0.0,Travis Etienne right tackle for 1 yard (tackle by Zach Sieler and Jordyn Brooks),0.41,0.0,1.0,2024,9
+2.0,15:00,2.0,9.0,JAX 23,7.0,0.0,Trevor Lawrence pass incomplete short left intended for Travis Etienne,0.0,-0.69,1.0,2024,9
+2.0,14:57,3.0,9.0,JAX 23,7.0,0.0,Trevor Lawrence pass incomplete deep left intended for Christian Kirk,-0.69,-1.83,1.0,2024,9
+2.0,14:52,4.0,9.0,JAX 23,7.0,0.0,"Logan Cooke punts 67 yards, returned by Tyreek Hill for 11 yards (tackle by Luke Farrell)",-1.83,-0.34,1.0,2024,9
+2.0,14:39,1.0,10.0,MIA 21,7.0,0.0,Tua Tagovailoa pass complete short right to Jaylen Waddle for 12 yards (tackle by Antonio Johnson and Andre Cisco),0.34,1.14,1.0,2024,9
+2.0,13:56,1.0,10.0,MIA 33,7.0,0.0,"Tua Tagovailoa pass incomplete deep left intended for Braxton Berrios. Penalty on Josh Hines-Allen: Roughing the Passer, 15 yards (accepted) (no play)",1.14,2.13,1.0,2024,9
+2.0,13:51,1.0,10.0,MIA 48,7.0,0.0,Tua Tagovailoa pass incomplete short left intended for Durham Smythe,2.13,1.58,1.0,2024,9
+2.0,13:47,2.0,10.0,MIA 48,7.0,0.0,"Tua Tagovailoa pass complete short left to Braxton Berrios for no gain (tackle by Darnell Savage). Penalty on Travon Walker: Defensive Offside, 5 yards (accepted) (no play)",1.58,2.26,1.0,2024,9
+2.0,13:20,2.0,5.0,JAX 47,7.0,0.0,De'Von Achane right end for 2 yards (tackle by Jarrian Jones and Travon Walker),2.26,1.82,1.0,2024,9
+2.0,12:37,,,,,,Timeout #2 by Miami Dolphins,,,1.0,2024,9
+2.0,12:37,3.0,3.0,JAX 45,7.0,0.0,De'Von Achane right tackle for no gain (tackle by Travon Walker and Foyesade Oluokun),1.82,0.27,1.0,2024,9
+2.0,11:57,4.0,3.0,JAX 45,7.0,0.0,Tua Tagovailoa pass incomplete short left intended for Braxton Berrios (defended by Foyesade Oluokun),0.27,-1.93,1.0,2024,9
+2.0,11:52,1.0,10.0,JAX 45,7.0,0.0,Tank Bigsby left end for 8 yards (tackle by Jevon Holland),1.93,2.46,1.0,2024,9
+2.0,11:15,2.0,2.0,MIA 47,7.0,0.0,Tank Bigsby up the middle for -1 yards (tackle by Quinton Bell),2.46,1.62,1.0,2024,9
+2.0,10:29,3.0,3.0,MIA 48,7.0,0.0,"Penalty on Cam Robinson: False Start, 5 yards (accepted) (no play)",1.62,0.96,1.0,2024,9
+2.0,10:09,,,,,,Timeout #1 by Jacksonville Jaguars,,,1.0,2024,9
+2.0,10:09,3.0,8.0,JAX 47,7.0,0.0,Trevor Lawrence pass complete deep middle to Christian Kirk for 30 yards (tackle by Jordan Poyer),0.96,4.04,1.0,2024,9
+2.0,9:26,1.0,10.0,MIA 23,7.0,0.0,Trevor Lawrence pass complete short left to Brian Thomas for 9 yards (tackle by Kendall Fuller),4.04,4.95,1.0,2024,9
+2.0,8:47,2.0,1.0,MIA 14,7.0,0.0,Travis Etienne left end for 1 yard (tackle by Storm Duck),4.95,4.71,1.0,2024,9
+2.0,8:15,1.0,10.0,MIA 13,7.0,0.0,Travis Etienne up the middle for 2 yards (tackle by Emmanuel Ogbah),4.71,4.39,1.0,2024,9
+2.0,7:37,2.0,8.0,MIA 11,7.0,0.0,Trevor Lawrence pass complete short middle to Travis Etienne for 3 yards (tackle by Jordyn Brooks),4.39,4.1,1.0,2024,9
+2.0,6:46,3.0,5.0,MIA 8,7.0,0.0,"Penalty on Trevor Lawrence: Delay of Game, 6 yards (accepted) (no play)",4.1,3.08,1.0,2024,9
+2.0,6:28,3.0,11.0,MIA 14,13.0,0.0,"Trevor Lawrence pass complete short left to Brian Thomas for 14 yards, touchdown",3.08,7.0,1.0,2024,9
+2.0,6:21,,,MIA 15,14.0,0.0,Cam Little kicks extra point good,0.0,0.0,1.0,2024,9
+2.0,6:21,,,JAX 35,14.0,0.0,"Cam Little kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,9
+2.0,6:21,1.0,10.0,MIA 30,14.0,0.0,Tua Tagovailoa pass complete short right to De'Von Achane for 16 yards (tackle by Ronald Darby),0.94,1.99,1.0,2024,9
+2.0,5:41,1.0,10.0,MIA 46,14.0,0.0,Tua Tagovailoa pass incomplete short right,1.99,1.45,1.0,2024,9
+2.0,5:34,,,,,,Timeout #3 by Miami Dolphins,,,1.0,2024,9
+2.0,5:34,2.0,10.0,MIA 46,14.0,0.0,Tua Tagovailoa scrambles up the middle for 11 yards (tackle by Antonio Johnson),1.45,2.72,1.0,2024,9
+2.0,4:51,1.0,10.0,JAX 43,14.0,0.0,Raheem Mostert right guard for 2 yards (tackle by Devin Lloyd),2.72,2.45,1.0,2024,9
+2.0,4:09,2.0,8.0,JAX 41,14.0,0.0,Tua Tagovailoa pass incomplete short left intended for Durham Smythe (defended by Darnell Savage),2.45,1.75,1.0,2024,9
+2.0,4:03,3.0,8.0,JAX 41,14.0,0.0,Tua Tagovailoa pass complete deep right to Jaylen Waddle for 20 yards,1.75,4.17,1.0,2024,9
+2.0,3:30,1.0,10.0,JAX 21,14.0,0.0,Tua Tagovailoa pass incomplete short left intended for Durham Smythe,4.17,3.63,1.0,2024,9
+2.0,3:23,2.0,10.0,JAX 21,14.0,0.0,De'Von Achane right end for 9 yards (tackle by Ronald Darby and Antonio Johnson),3.63,4.49,1.0,2024,9
+2.0,2:47,3.0,1.0,JAX 12,14.0,0.0,"Penalty on Durham Smythe: False Start, 4 yards (accepted) (no play)",4.49,3.63,1.0,2024,9
+2.0,2:22,3.0,5.0,JAX 16,14.0,0.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 10 yards (tackle by Tyson Campbell),3.63,5.83,1.0,2024,9
+2.0,2:00,1.0,6.0,JAX 6,14.0,0.0,Jaylen Waddle left end for 3 yards (tackle by Yasir Abdullah),5.83,5.53,1.0,2024,9
+2.0,1:19,2.0,3.0,JAX 3,14.0,0.0,Tua Tagovailoa pass complete short left to De'Von Achane for 2 yards (tackle by Devin Lloyd),5.53,5.17,1.0,2024,9
+2.0,1:09,,,,,,Timeout #2 by Jacksonville Jaguars,,,1.0,2024,9
+2.0,1:09,3.0,1.0,JAX 1,14.0,6.0,"De'Von Achane up the middle for 1 yard, touchdown",5.17,7.0,1.0,2024,9
+2.0,1:04,,,JAX 15,14.0,7.0,Jason Sanders kicks extra point good,0.0,0.0,1.0,2024,9
+2.0,1:04,,,MIA 35,14.0,7.0,"Jason Sanders kicks off 62 yards, returned by Parker Washington for 20 yards (tackle by Storm Duck)",0.0,0.48,1.0,2024,9
+2.0,0:57,1.0,10.0,JAX 23,14.0,7.0,Trevor Lawrence pass complete deep right to Brian Thomas for 18 yards (tackle by Kendall Fuller),0.48,1.66,1.0,2024,9
+2.0,0:33,1.0,10.0,JAX 41,14.0,7.0,Trevor Lawrence pass complete short middle to Gabriel Davis for 20 yards (tackle by Kendall Fuller),1.66,2.98,1.0,2024,9
+2.0,0:28,,,,,,Timeout #3 by Jacksonville Jaguars,,,1.0,2024,9
+2.0,0:28,1.0,10.0,MIA 39,14.0,7.0,Trevor Lawrence pass complete short right to Evan Engram for 5 yards (tackle by David Long),2.98,3.12,1.0,2024,9
+2.0,0:13,2.0,5.0,MIA 34,14.0,7.0,Trevor Lawrence pass incomplete short right intended for Evan Engram,3.12,2.41,1.0,2024,9
+2.0,0:09,3.0,5.0,MIA 34,14.0,7.0,Trevor Lawrence pass incomplete short right,2.41,1.07,1.0,2024,9
+2.0,0:03,4.0,5.0,MIA 34,17.0,7.0,Cam Little 53 yard field goal good,1.07,3.0,1.0,2024,9
+3.0,15:00,,,MIA 35,17.0,7.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,9
+3.0,15:00,1.0,10.0,JAX 30,17.0,7.0,Tank Bigsby right tackle for 2 yards (tackle by Jaelan Phillips and Emmanuel Ogbah),0.94,0.66,1.0,2024,9
+3.0,14:25,2.0,8.0,JAX 32,17.0,7.0,Trevor Lawrence pass complete short left to Parker Washington for 3 yards (tackle by Kendall Fuller),0.66,0.37,1.0,2024,9
+3.0,13:46,3.0,5.0,JAX 35,17.0,7.0,Trevor Lawrence pass incomplete short right intended for Evan Engram (defended by Jevon Holland),0.37,-1.04,1.0,2024,9
+3.0,13:40,4.0,5.0,JAX 35,17.0,7.0,Logan Cooke punts 52 yards out of bounds,-1.04,0.32,1.0,2024,9
+3.0,13:30,1.0,10.0,MIA 13,17.0,7.0,Tua Tagovailoa pass complete short left to Julian Hill for 6 yards (tackle by Foyesade Oluokun),-0.32,0.03,1.0,2024,9
+3.0,12:57,2.0,4.0,MIA 19,17.0,7.0,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 1 yard (tackle by Devin Lloyd),0.03,-0.59,1.0,2024,9
+3.0,12:18,3.0,3.0,MIA 20,17.0,7.0,Tua Tagovailoa pass complete short right to Raheem Mostert for 3 yards (tackle by Foyesade Oluokun and Ronald Darby),-0.59,0.48,1.0,2024,9
+3.0,11:30,1.0,10.0,MIA 23,17.0,7.0,"Raheem Mostert left end for no gain (tackle by Andre Cisco). Penalty on Robert Jones: Offensive Holding, 10 yards (accepted) (no play)",0.48,-0.59,1.0,2024,9
+3.0,11:04,1.0,20.0,MIA 13,17.0,7.0,Tua Tagovailoa pass incomplete short left intended for Tyreek Hill,-0.59,-1.5,1.0,2024,9
+3.0,11:01,2.0,20.0,MIA 13,17.0,7.0,Tua Tagovailoa pass complete short left to De'Von Achane for 7 yards (tackle by Foyesade Oluokun),-1.5,-1.15,1.0,2024,9
+3.0,10:21,3.0,13.0,MIA 20,17.0,7.0,Tua Tagovailoa sacked by Arik Armstead for -5 yards,-1.15,-2.44,1.0,2024,9
+3.0,9:50,4.0,18.0,MIA 15,17.0,7.0,"Jake Bailey punts 51 yards, returned by Devin Duvernay for 3 yards (tackle by Tanner Conner)",-2.44,-1.4,1.0,2024,9
+3.0,9:39,1.0,10.0,JAX 37,17.0,7.0,Trevor Lawrence pass incomplete short left intended for Christian Kirk,1.4,0.86,1.0,2024,9
+3.0,9:35,2.0,10.0,JAX 37,17.0,7.0,"Travis Etienne up the middle for no gain (tackle by Jaelan Phillips and Zach Sieler). Penalty on Anton Harrison: Offensive Holding, 10 yards (accepted) (no play)",0.86,-0.49,1.0,2024,9
+3.0,9:16,2.0,20.0,JAX 27,17.0,7.0,Travis Etienne up the middle for 7 yards (tackle by Zach Sieler and Da'Shawn Hand),-0.49,-0.23,1.0,2024,9
+3.0,8:33,3.0,13.0,JAX 34,17.0,7.0,Trevor Lawrence pass incomplete short right,-0.23,-1.11,1.0,2024,9
+3.0,8:26,4.0,13.0,JAX 34,17.0,7.0,"Logan Cooke punts 55 yards, fair catch by Braxton Berrios at MIA-11",-1.11,0.37,1.0,2024,9
+3.0,8:19,1.0,10.0,MIA 11,17.0,7.0,Tua Tagovailoa pass complete deep right to Jaylen Waddle for 63 yards (tackle by Andre Cisco),-0.37,3.84,1.0,2024,9
+3.0,7:33,1.0,10.0,JAX 26,17.0,7.0,Raheem Mostert left end for -3 yards (tackle by Tyson Campbell),3.84,2.89,1.0,2024,9
+3.0,6:55,2.0,13.0,JAX 29,17.0,7.0,Tua Tagovailoa pass complete short right to Tyreek Hill for -3 yards (tackle by Ronald Darby),2.89,1.82,1.0,2024,9
+3.0,6:14,3.0,16.0,JAX 32,17.0,7.0,Tua Tagovailoa sacked by Travon Walker for -14 yards,1.82,0.2,1.0,2024,9
+3.0,5:35,4.0,30.0,JAX 46,17.0,7.0,Jake Bailey punts 43 yards out of bounds,0.2,0.38,1.0,2024,9
+3.0,5:26,1.0,10.0,JAX 3,17.0,7.0,Tank Bigsby right guard for 26 yards (tackle by Kader Kohou),-0.38,0.87,1.0,2024,9
+3.0,4:46,1.0,10.0,JAX 29,17.0,7.0,Trevor Lawrence pass complete deep right to Gabriel Davis for 22 yards (tackle by Kader Kohou),0.87,2.32,1.0,2024,9
+3.0,4:05,1.0,10.0,MIA 49,17.0,7.0,Trevor Lawrence pass complete short left to Travis Etienne for 12 yards (tackle by Kader Kohou),2.32,3.12,1.0,2024,9
+3.0,3:32,1.0,10.0,MIA 37,17.0,7.0,Tank Bigsby right tackle for 7 yards (tackle by David Long and Jordan Poyer),3.12,3.52,1.0,2024,9
+3.0,2:51,2.0,3.0,MIA 30,17.0,7.0,"Devin Duvernay left end for 3 yards (tackle by Jordan Poyer). Penalty on Jordan Poyer: Face Mask (15 Yards), 14 yards (accepted)",3.52,4.71,1.0,2024,9
+3.0,2:27,1.0,10.0,MIA 13,17.0,7.0,"Travis Etienne right guard for 10 yards. Travis Etienne fumbles (forced by Jevon Holland), recovered by Kader Kohou in end zone",4.71,-0.28,1.0,2024,9
+3.0,2:19,1.0,10.0,MIA 20,17.0,13.0,"Tua Tagovailoa pass complete deep left to Tyreek Hill for 80 yards, touchdown",0.28,7.0,1.0,2024,9
+3.0,2:08,,,JAX 15,17.0,14.0,Jason Sanders kicks extra point good,0.0,0.0,1.0,2024,9
+3.0,2:08,,,MIA 35,17.0,14.0,"Jason Sanders kicks off 66 yards, returned by Parker Washington for 24 yards. Parker Washington fumbles (forced by Elijah Campbell), recovered by Parker Washington at JAC-23",0.0,0.48,1.0,2024,9
+3.0,1:59,1.0,10.0,JAX 23,17.0,14.0,Tank Bigsby up the middle for 2 yards (tackle by Da'Shawn Hand),0.48,0.2,1.0,2024,9
+3.0,1:16,2.0,8.0,JAX 25,17.0,14.0,Travis Etienne left end for 7 yards (tackle by David Long),0.2,0.43,1.0,2024,9
+3.0,0:34,3.0,1.0,JAX 32,17.0,14.0,Tank Bigsby up the middle for no gain (tackle by David Long and Emmanuel Ogbah),0.43,-1.24,1.0,2024,9
+4.0,15:00,4.0,1.0,JAX 32,17.0,14.0,Travis Etienne right end for -2 yards (tackle by Jalen Ramsey and Kendall Fuller),-1.24,-3.58,1.0,2024,9
+4.0,14:47,1.0,10.0,JAX 30,17.0,14.0,De'Von Achane left tackle for 7 yards (tackle by Foyesade Oluokun and Andre Cisco),3.58,3.98,1.0,2024,9
+4.0,14:14,2.0,3.0,JAX 23,17.0,14.0,Tua Tagovailoa pass incomplete short right intended for Alec Ingold (defended by Josh Hines-Allen),3.98,3.27,1.0,2024,9
+4.0,14:10,3.0,3.0,JAX 23,17.0,14.0,Raheem Mostert right end for -1 yards (tackle by Foyesade Oluokun and Antonio Johnson),3.27,1.94,1.0,2024,9
+4.0,13:38,4.0,4.0,JAX 24,17.0,14.0,Jason Sanders 42 yard field goal no good,1.94,-1.07,1.0,2024,9
+4.0,13:33,1.0,10.0,JAX 32,17.0,14.0,"Trevor Lawrence pass complete short middle to Evan Engram for no gain (tackle by Jevon Holland). Penalty on Chop Robinson: Defensive Offside, 5 yards (accepted) (no play)",1.07,1.8,1.0,2024,9
+4.0,13:14,1.0,5.0,JAX 37,17.0,14.0,Travis Etienne left end for 11 yards (tackle by Jalen Ramsey and Zach Sieler),1.8,2.13,1.0,2024,9
+4.0,12:38,1.0,10.0,JAX 48,17.0,14.0,Tank Bigsby left guard for 4 yards (tackle by Jordyn Brooks and Jalen Ramsey),2.13,2.12,1.0,2024,9
+4.0,12:00,2.0,6.0,MIA 48,17.0,14.0,Tank Bigsby right end for 1 yard (tackle by Jevon Holland and Jordyn Brooks),2.12,1.55,1.0,2024,9
+4.0,11:18,3.0,5.0,MIA 47,17.0,14.0,Trevor Lawrence pass incomplete short left intended for Christian Kirk,1.55,0.13,1.0,2024,9
+4.0,11:13,4.0,5.0,MIA 47,17.0,14.0,"Penalty on Tim Jones: False Start, 5 yards (accepted) (no play)",0.13,-0.19,1.0,2024,9
+4.0,11:13,4.0,10.0,JAX 48,17.0,14.0,"Logan Cooke punts 44 yards, fair catch by Braxton Berrios at MIA-8",-0.19,0.38,1.0,2024,9
+4.0,11:06,1.0,10.0,MIA 8,17.0,14.0,De'Von Achane left end for 6 yards (tackle by Josh Hines-Allen and Travon Walker),-0.38,-0.32,1.0,2024,9
+4.0,10:26,2.0,4.0,MIA 14,17.0,14.0,"Tua Tagovailoa pass incomplete deep left intended for Jaylen Waddle. Penalty on Tyson Campbell: Defensive Pass Interference, 20 yards (accepted) (no play)",-0.32,1.2,1.0,2024,9
+4.0,10:21,1.0,10.0,MIA 34,17.0,14.0,Tua Tagovailoa pass incomplete short left intended for Raheem Mostert,1.2,0.66,1.0,2024,9
+4.0,10:18,2.0,10.0,MIA 34,17.0,14.0,Tua Tagovailoa pass complete deep right to Tyreek Hill for 21 yards (tackle by Antonio Johnson),0.66,2.59,1.0,2024,9
+4.0,9:33,1.0,10.0,JAX 45,17.0,14.0,Raheem Mostert left end for 6 yards (tackle by Yasir Abdullah),2.59,2.85,1.0,2024,9
+4.0,8:55,2.0,4.0,JAX 39,17.0,14.0,"Penalty on Julian Hill: False Start, 5 yards (accepted) (no play)",2.85,2.18,1.0,2024,9
+4.0,8:55,2.0,9.0,JAX 44,17.0,14.0,Jeff Wilson right tackle for 14 yards (tackle by Montaric Brown),2.18,3.58,1.0,2024,9
+4.0,8:19,1.0,10.0,JAX 30,17.0,14.0,Jeff Wilson right guard for 6 yards (tackle by Devin Lloyd),3.58,3.84,1.0,2024,9
+4.0,7:36,,,,,,Timeout #1 by Miami Dolphins,,,1.0,2024,9
+4.0,7:36,2.0,4.0,JAX 24,17.0,14.0,Jeff Wilson up the middle for 3 yards (tackle by Devin Lloyd),3.84,3.53,1.0,2024,9
+4.0,6:55,3.0,1.0,JAX 21,17.0,14.0,Alec Ingold up the middle for 6 yards (tackle by Chad Muma and Devin Lloyd),3.53,4.58,1.0,2024,9
+4.0,6:20,1.0,10.0,JAX 15,17.0,14.0,"Jeff Wilson right end for no gain (tackle by Antonio Johnson). Penalty on Tyreek Hill: Offensive Holding, 10 yards (accepted) (no play)",4.58,3.91,1.0,2024,9
+4.0,5:55,1.0,20.0,JAX 25,17.0,14.0,Tua Tagovailoa pass complete short left to Raheem Mostert for 7 yards (tackle by Chad Muma and Montaric Brown),3.91,3.56,1.0,2024,9
+4.0,5:17,2.0,13.0,JAX 18,17.0,14.0,Tua Tagovailoa pass complete short left to De'Von Achane for -1 yards (tackle by Foyesade Oluokun),3.56,2.79,1.0,2024,9
+4.0,4:34,3.0,14.0,JAX 19,17.0,14.0,Tua Tagovailoa pass incomplete short left intended for Tyreek Hill,2.79,2.18,1.0,2024,9
+4.0,4:26,4.0,14.0,JAX 19,17.0,17.0,Jason Sanders 37 yard field goal good,2.18,3.0,1.0,2024,9
+4.0,4:22,,,MIA 35,17.0,17.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,9
+4.0,4:22,1.0,10.0,JAX 30,17.0,17.0,Tank Bigsby up the middle for no gain (tackle by David Long),0.94,0.39,1.0,2024,9
+4.0,3:46,2.0,10.0,JAX 30,17.0,17.0,Trevor Lawrence sacked by Emmanuel Ogbah for -4 yards,0.39,-0.82,1.0,2024,9
+4.0,3:08,3.0,14.0,JAX 26,17.0,17.0,Trevor Lawrence sacked by Jaelan Phillips for -6 yards,-0.82,-2.03,1.0,2024,9
+4.0,2:19,4.0,20.0,JAX 20,17.0,17.0,"Penalty on Logan Cooke: Delay of Game, 5 yards (accepted) (no play)",-2.03,-2.44,1.0,2024,9
+4.0,2:19,4.0,25.0,JAX 15,17.0,17.0,"Logan Cooke punts 45 yards, returned by Braxton Berrios for -5 yards (tackle by Ventrell Miller)",-2.44,-1.27,1.0,2024,9
+4.0,2:09,1.0,10.0,MIA 35,17.0,17.0,De'Von Achane up the middle for 4 yards (tackle by Antonio Johnson),1.27,1.26,1.0,2024,9
+4.0,2:00,2.0,6.0,MIA 39,17.0,17.0,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 13 yards (tackle by Montaric Brown),1.26,2.39,1.0,2024,9
+4.0,1:24,1.0,10.0,JAX 48,17.0,17.0,De'Von Achane right tackle for -1 yards (tackle by Antonio Johnson),2.39,1.71,1.0,2024,9
+4.0,1:18,,,,,,Timeout #1 by Jacksonville Jaguars,,,1.0,2024,9
+4.0,1:18,2.0,11.0,JAX 49,17.0,17.0,Tua Tagovailoa pass complete short left to De'Von Achane for 10 yards (tackle by Devin Lloyd),1.71,2.34,1.0,2024,9
+4.0,1:13,,,,,,Timeout #2 by Jacksonville Jaguars,,,1.0,2024,9
+4.0,1:13,3.0,1.0,JAX 39,17.0,17.0,Alec Ingold up the middle for 2 yards (tackle by Yasir Abdullah),2.34,3.12,1.0,2024,9
+4.0,0:34,1.0,10.0,JAX 37,17.0,17.0,Jeff Wilson up the middle for 1 yard (tackle by Foyesade Oluokun),3.12,2.71,1.0,2024,9
+4.0,0:20,,,,,,Timeout #2 by Miami Dolphins,,,1.0,2024,9
+4.0,0:20,2.0,9.0,JAX 36,17.0,17.0,Jeff Wilson left tackle for 2 yards (tackle by Foyesade Oluokun and Travon Walker),2.71,2.28,1.0,2024,9
+4.0,0:04,,,,,,Timeout #3 by Miami Dolphins,,,1.0,2024,9
+4.0,0:04,,,,,,Timeout #3 by Jacksonville Jaguars,,,1.0,2024,9
+4.0,0:04,3.0,7.0,JAX 34,17.0,20.0,Jason Sanders 52 yard field goal good,2.28,3.0,1.0,2024,9

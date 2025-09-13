@@ -1,0 +1,167 @@
+Quarter,Time,Down,ToGo,Location,NYG,MIA,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Dolphins won the coin toss and deferred, Giants to receive the opening kickoff.",,,5.0,2023,70
+1.0,15:00,,,MIA 35,0.0,0.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,5.0,2023,70
+1.0,15:00,1.0,10.0,NYG 25,0.0,0.0,Matt Breida right guard for 6 yards (tackle by Bradley Chubb),0.61,0.87,5.0,2023,70
+1.0,14:29,2.0,4.0,NYG 31,0.0,0.0,Daniel Jones pass complete short middle to Isaiah Hodgins for 15 yards (tackle by Jevon Holland),0.87,1.99,5.0,2023,70
+1.0,13:53,1.0,10.0,NYG 46,0.0,0.0,Matt Breida left end for no gain (tackle by DeShon Elliott),1.99,1.45,5.0,2023,70
+1.0,13:14,2.0,10.0,NYG 46,0.0,0.0,Matt Breida up the middle for 3 yards (tackle by Zach Sieler and Christian Wilkins),1.45,1.16,5.0,2023,70
+1.0,12:28,3.0,7.0,NYG 49,0.0,0.0,Daniel Jones pass complete short right to Wan'Dale Robinson for 2 yards (tackle by Eli Apple),1.16,0.0,5.0,2023,70
+1.0,11:37,4.0,5.0,MIA 49,0.0,0.0,"Jamie Gillan punts 38 yards, fair catch by Braxton Berrios at MIA-11",0.0,0.37,5.0,2023,70
+1.0,11:27,1.0,10.0,MIA 11,0.0,0.0,De'Von Achane right end for 24 yards (tackle by Dane Belton and Xavier McKinney),-0.37,1.27,5.0,2023,70
+1.0,10:32,1.0,10.0,MIA 35,0.0,0.0,Tua Tagovailoa pass complete short middle to Tyreek Hill for 6 yards (tackle by Dane Belton),1.27,1.53,5.0,2023,70
+1.0,10:10,2.0,4.0,MIA 41,0.0,0.0,Tua Tagovailoa pass complete short right to Jaylen Waddle for 20 yards (tackle by Xavier McKinney),1.53,2.98,5.0,2023,70
+1.0,9:32,1.0,10.0,NYG 39,0.0,0.0,Tua Tagovailoa pass complete short right to Cedrick Wilson for 23 yards (tackle by Xavier McKinney),2.98,4.51,5.0,2023,70
+1.0,8:49,1.0,10.0,NYG 16,0.0,0.0,"Tua Tagovailoa pass complete short left to Raheem Mostert for 5 yards. Raheem Mostert fumbles, ball out of bounds at NYG-11 (forced by Jason Pinnock)",4.51,4.76,5.0,2023,70
+1.0,7:51,2.0,5.0,NYG 11,0.0,0.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 9 yards (tackle by Deonte Banks and Isaiah Simmons),4.76,6.74,5.0,2023,70
+1.0,7:21,1.0,2.0,NYG 2,0.0,0.0,Tua Tagovailoa pass incomplete short right intended for Jaylen Waddle (defended by Xavier McKinney),6.74,5.72,5.0,2023,70
+1.0,7:16,2.0,2.0,NYG 2,0.0,6.0,"Tua Tagovailoa pass complete short left to Jaylen Waddle for 2 yards, touchdown",5.72,7.0,5.0,2023,70
+1.0,7:09,,,NYG 15,0.0,7.0,Jason Sanders kicks extra point good,0.0,0.0,5.0,2023,70
+1.0,7:09,,,MIA 35,0.0,7.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,5.0,2023,70
+1.0,7:09,1.0,10.0,NYG 25,0.0,7.0,Eric Gray right guard for 5 yards (tackle by Xavien Howard and David Long),0.61,0.74,5.0,2023,70
+1.0,6:35,2.0,5.0,NYG 30,0.0,7.0,"Eric Gray left end for 3 yards (tackle by DeShon Elliott). Penalty on Ben Bredeson: Offensive Holding, 10 yards (accepted)",0.74,-0.21,5.0,2023,70
+1.0,6:08,2.0,12.0,NYG 23,0.0,7.0,Daniel Jones pass complete short right to Sterling Shepard for 13 yards (tackle by David Long),-0.21,1.33,5.0,2023,70
+1.0,5:41,1.0,10.0,NYG 36,0.0,7.0,Wan'Dale Robinson right end for 1 yard (tackle by David Long and DeShon Elliott),1.33,0.93,5.0,2023,70
+1.0,5:08,2.0,9.0,NYG 37,0.0,7.0,Eric Gray left guard for 8 yards (tackle by DeShon Elliott and Bradley Chubb),0.93,1.29,5.0,2023,70
+1.0,4:35,3.0,1.0,NYG 45,0.0,7.0,Daniel Jones up the middle for 2 yards (tackle by Bradley Chubb),1.29,2.06,5.0,2023,70
+1.0,3:57,1.0,10.0,NYG 47,0.0,7.0,Daniel Jones sacked by Emmanuel Ogbah for no gain,2.06,1.52,5.0,2023,70
+1.0,3:18,2.0,10.0,NYG 47,0.0,7.0,Eric Gray up the middle for 4 yards (tackle by David Long and Christian Wilkins),1.52,1.36,5.0,2023,70
+1.0,2:39,3.0,6.0,MIA 49,0.0,7.0,Daniel Jones pass complete short right to Darius Slayton for 15 yards (tackle by Xavien Howard),1.36,3.31,5.0,2023,70
+1.0,2:10,1.0,10.0,MIA 34,0.0,7.0,Daniel Jones pass complete short right to Darren Waller for 4 yards (tackle by Xavien Howard),3.31,3.31,5.0,2023,70
+1.0,1:32,2.0,6.0,MIA 30,0.0,7.0,Eric Gray up the middle for -1 yards (tackle by Zach Sieler and Kader Kohou),3.31,2.48,5.0,2023,70
+1.0,0:49,3.0,7.0,MIA 31,0.0,7.0,Daniel Jones sacked by and Christian Wilkins for -6 yards and Emmanuel Ogbah for -6 yards,2.48,0.79,5.0,2023,70
+2.0,15:00,4.0,13.0,MIA 37,0.0,7.0,Graham Gano 55 yard field goal no good,0.79,-1.93,5.0,2023,70
+2.0,14:55,1.0,10.0,MIA 45,0.0,7.0,Raheem Mostert left end for 5 yards (tackle by Xavier McKinney),1.93,2.06,5.0,2023,70
+2.0,14:21,2.0,5.0,MIA 50,0.0,7.0,Raheem Mostert right end for 2 yards (tackle by Leonard Williams and Bobby Okereke),2.06,1.62,5.0,2023,70
+2.0,13:42,3.0,3.0,NYG 48,0.0,7.0,Tua Tagovailoa pass complete short middle to Tyreek Hill for 5 yards (tackle by Bobby Okereke and Isaiah Simmons),1.62,2.72,5.0,2023,70
+2.0,13:00,1.0,10.0,NYG 43,0.0,7.0,"De'Von Achane left tackle for 5 yards. De'Von Achane fumbles (forced by Xavier McKinney), recovered by Kayvon Thibodeaux at NYG-38 (tackle by Xavier McKinney)",2.72,-1.47,5.0,2023,70
+2.0,12:53,1.0,10.0,NYG 38,0.0,7.0,Daniel Jones pass complete short left to Wan'Dale Robinson for -4 yards (tackle by Kader Kohou),1.47,0.38,5.0,2023,70
+2.0,12:17,2.0,14.0,NYG 34,0.0,7.0,Daniel Jones pass complete short left to Darren Waller for 11 yards (tackle by Eli Apple),0.38,1.16,5.0,2023,70
+2.0,11:39,,,,,,Timeout #1 by New York Giants,,,5.0,2023,70
+2.0,11:39,3.0,3.0,NYG 45,0.0,7.0,Daniel Jones sacked by and Jerome Baker for no gain and Eli Apple for no gain,1.16,-0.39,5.0,2023,70
+2.0,11:19,4.0,3.0,NYG 45,0.0,7.0,Jamie Gillan punts 49 yards downed by Nick McCloud,-0.39,0.38,5.0,2023,70
+2.0,11:00,1.0,10.0,MIA 6,0.0,7.0,Tua Tagovailoa pass incomplete short left,-0.38,-0.78,5.0,2023,70
+2.0,10:56,2.0,10.0,MIA 6,0.0,7.0,Tua Tagovailoa pass complete short middle to Tyreek Hill for 18 yards (tackle by Adoree' Jackson),-0.78,0.54,5.0,2023,70
+2.0,10:12,1.0,10.0,MIA 24,0.0,13.0,"De'Von Achane left tackle for 76 yards, touchdown",0.54,7.0,5.0,2023,70
+2.0,10:02,,,NYG 15,0.0,14.0,Jason Sanders kicks extra point good,0.0,0.0,5.0,2023,70
+2.0,10:02,,,MIA 35,0.0,14.0,"Jake Bailey kicks off 65 yards, touchback.",0.0,0.61,5.0,2023,70
+2.0,10:02,1.0,10.0,NYG 25,0.0,14.0,Daniel Jones pass incomplete short left intended for Darius Slayton (defended by Andrew Van Ginkel),0.61,0.06,5.0,2023,70
+2.0,9:57,2.0,10.0,NYG 25,0.0,14.0,Daniel Jones pass incomplete deep left intended for Darren Waller (defended by Eli Apple),0.06,-0.62,5.0,2023,70
+2.0,9:51,3.0,10.0,NYG 25,0.0,14.0,Daniel Jones pass complete short left to Darren Waller for 21 yards (tackle by DeShon Elliott),-0.62,1.99,5.0,2023,70
+2.0,9:17,1.0,10.0,NYG 46,0.0,14.0,Eric Gray left tackle for no gain (tackle by Eli Apple),1.99,1.45,5.0,2023,70
+2.0,8:40,2.0,10.0,NYG 46,0.0,14.0,Eric Gray up the middle for 3 yards (tackle by Bradley Chubb),1.45,1.16,5.0,2023,70
+2.0,7:57,3.0,7.0,NYG 49,0.0,14.0,"Daniel Jones pass incomplete short right intended for Wan'Dale Robinson. Penalty on Christian Wilkins: Defensive Offside, 5 yards (accepted) (no play)",1.16,1.82,5.0,2023,70
+2.0,7:52,3.0,2.0,MIA 46,0.0,14.0,Matt Breida up the middle for 1 yard (tackle by Bradley Chubb),1.82,0.27,5.0,2023,70
+2.0,7:08,4.0,1.0,MIA 45,0.0,14.0,"Daniel Jones for 1 yard (tackle by Christian Wilkins and Raekwon Davis). Penalty on Xavien Howard: Illegal Substitution, 5 yards (accepted) (no play)",0.27,2.92,5.0,2023,70
+2.0,7:08,1.0,10.0,MIA 40,0.0,14.0,Daniel Jones pass complete short right to Wan'Dale Robinson for 6 yards (tackle by Kader Kohou),2.92,3.18,5.0,2023,70
+2.0,6:32,2.0,4.0,MIA 34,0.0,14.0,"Penalty on Joshua Ezeudu: False Start, 5 yards (accepted) (no play)",3.18,2.51,5.0,2023,70
+2.0,6:23,2.0,9.0,MIA 39,0.0,14.0,"Penalty on Joshua Ezeudu: False Start, 5 yards (accepted) (no play)",2.51,1.83,5.0,2023,70
+2.0,6:07,2.0,14.0,MIA 44,0.0,14.0,Daniel Jones up the middle for 5 yards (tackle by Raekwon Davis and Jerome Baker),1.83,1.82,5.0,2023,70
+2.0,5:24,3.0,9.0,MIA 39,0.0,14.0,Daniel Jones pass complete short left to Darren Waller for 13 yards (tackle by Eli Apple and Justin Bethel),1.82,3.84,5.0,2023,70
+2.0,4:41,1.0,10.0,MIA 26,0.0,14.0,Daniel Jones pass incomplete deep right intended for Darren Waller (defended by Xavien Howard),3.84,3.3,5.0,2023,70
+2.0,4:34,2.0,10.0,MIA 26,0.0,14.0,Eric Gray up the middle for 1 yard (tackle by Zach Sieler),3.3,2.74,5.0,2023,70
+2.0,3:59,3.0,9.0,MIA 25,0.0,14.0,"Daniel Jones sacked by Zach Sieler for -6 yards. Penalty on Joshua Ezeudu: Offensive Holding, 10 yards (declined)",2.74,1.32,5.0,2023,70
+2.0,3:46,4.0,15.0,MIA 31,3.0,14.0,Graham Gano 49 yard field goal good,1.32,3.0,5.0,2023,70
+2.0,3:41,,,NYG 35,3.0,14.0,"Graham Gano kicks off 65 yards, touchback.",0.0,0.61,5.0,2023,70
+2.0,3:41,1.0,10.0,MIA 25,3.0,14.0,"Penalty on Isaiah Wynn: False Start, 5 yards (accepted) (no play)",0.61,0.28,5.0,2023,70
+2.0,3:41,1.0,15.0,MIA 20,3.0,14.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 64 yards (tackle by Xavier McKinney),0.28,4.51,5.0,2023,70
+2.0,3:03,1.0,10.0,NYG 16,3.0,14.0,De'Von Achane right end for 12 yards (tackle by Jason Pinnock),4.51,6.28,5.0,2023,70
+2.0,2:19,1.0,4.0,NYG 4,3.0,14.0,De'Von Achane up the middle for no gain (tackle by Bobby Okereke),6.28,5.34,5.0,2023,70
+2.0,2:00,2.0,4.0,NYG 4,3.0,14.0,Tua Tagovailoa pass incomplete short left intended for Jaylen Waddle (defended by Deonte Banks),5.34,4.49,5.0,2023,70
+2.0,1:55,3.0,4.0,NYG 4,9.0,14.0,"Tua Tagovailoa pass short left (defended by Bobby Okereke) intended for Jaylen Waddle is intercepted by Jason Pinnock in end zone and returned for 102 yards, touchdown",4.49,-7.0,5.0,2023,70
+2.0,1:40,,,MIA 15,10.0,14.0,Graham Gano kicks extra point good,0.0,0.0,5.0,2023,70
+2.0,1:40,,,NYG 35,10.0,14.0,"Graham Gano kicks off 62 yards, returned by Braxton Berrios for 25 yards (tackle by Carter Coughlin)",0.0,0.81,5.0,2023,70
+2.0,1:35,1.0,10.0,MIA 28,10.0,14.0,Tua Tagovailoa pass complete short right to Braxton Berrios for 13 yards (tackle by Cordale Flott),0.81,1.66,5.0,2023,70
+2.0,1:15,1.0,10.0,MIA 41,10.0,14.0,Tua Tagovailoa pass complete short right to Cedrick Wilson for 13 yards (tackle by Xavier McKinney),1.66,2.52,5.0,2023,70
+2.0,1:01,,,,,,Timeout #1 by Miami Dolphins,,,5.0,2023,70
+2.0,1:01,1.0,10.0,NYG 46,10.0,14.0,Tua Tagovailoa pass complete short left to Jaylen Waddle for 1 yard (tackle by Cordale Flott),2.52,2.11,5.0,2023,70
+2.0,0:50,2.0,9.0,NYG 45,10.0,14.0,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 12 yards (tackle by Tre Hawkins),2.11,3.38,5.0,2023,70
+2.0,0:35,1.0,10.0,NYG 33,10.0,14.0,Tua Tagovailoa pass complete short right to Cedrick Wilson for 10 yards (tackle by Jason Pinnock),3.38,4.04,5.0,2023,70
+2.0,0:29,,,,,,Timeout #2 by Miami Dolphins,,,5.0,2023,70
+2.0,0:29,1.0,10.0,NYG 23,10.0,14.0,Tua Tagovailoa sacked by Kayvon Thibodeaux for -6 yards,4.04,2.69,5.0,2023,70
+2.0,0:24,,,,,,Timeout #3 by Miami Dolphins,,,5.0,2023,70
+2.0,0:24,,,,,,Timeout #2 by New York Giants,,,5.0,2023,70
+2.0,0:24,2.0,16.0,NYG 29,10.0,14.0,Tua Tagovailoa scrambles up the middle for 7 yards (tackle by Bobby Okereke),2.69,2.94,5.0,2023,70
+2.0,0:04,3.0,9.0,NYG 22,10.0,14.0,Tua Tagovailoa spiked the ball,2.94,1.99,5.0,2023,70
+2.0,0:04,4.0,9.0,NYG 22,10.0,17.0,Jason Sanders 40 yard field goal good,1.99,3.0,5.0,2023,70
+3.0,15:00,,,NYG 35,10.0,17.0,"Graham Gano kicks off 65 yards, touchback.",0.0,0.61,5.0,2023,70
+3.0,15:00,1.0,10.0,MIA 25,10.0,17.0,Tua Tagovailoa pass incomplete deep right intended for Tyreek Hill (defended by Cordale Flott),0.61,0.06,5.0,2023,70
+3.0,14:54,2.0,10.0,MIA 25,10.0,17.0,Tua Tagovailoa pass complete short right to Cedrick Wilson for 6 yards (tackle by Deonte Banks),0.06,0.17,5.0,2023,70
+3.0,14:15,3.0,4.0,MIA 31,10.0,23.0,"Tua Tagovailoa pass complete deep right to Tyreek Hill for 69 yards, touchdown",0.17,7.0,5.0,2023,70
+3.0,14:06,,,NYG 15,10.0,24.0,Jason Sanders kicks extra point good,0.0,0.0,5.0,2023,70
+3.0,14:06,,,MIA 35,10.0,24.0,"Penalty on Tyreek Hill: Taunting / Offense, 15 yards (accepted) (no play)",0.0,0.0,5.0,2023,70
+3.0,14:06,,,MIA 20,10.0,24.0,"Jason Sanders kicks off 75 yards, returned by Eric Gray for 20 yards (tackle by Elijah Campbell)",0.0,0.61,5.0,2023,70
+3.0,13:59,1.0,10.0,NYG 25,10.0,24.0,Daniel Jones right tackle for 6 yards (tackle by Jevon Holland),0.61,0.87,5.0,2023,70
+3.0,13:25,2.0,4.0,NYG 31,10.0,24.0,Daniel Jones pass complete short right to Darren Waller for 6 yards (tackle by Jevon Holland),0.87,1.4,5.0,2023,70
+3.0,12:27,1.0,10.0,NYG 37,10.0,24.0,Daniel Jones pass complete short middle to Matt Breida for 3 yards (tackle by David Long),1.4,1.26,5.0,2023,70
+3.0,12:09,2.0,7.0,NYG 40,10.0,24.0,Matt Breida left guard for 1 yard (tackle by Zach Sieler),1.26,0.7,5.0,2023,70
+3.0,11:35,3.0,6.0,NYG 41,10.0,24.0,Daniel Jones scrambles right end for 11 yards (tackle by Jerome Baker),0.7,2.39,5.0,2023,70
+3.0,10:58,1.0,10.0,MIA 48,10.0,24.0,Daniel Jones sacked by Jerome Baker for no gain,2.39,1.85,5.0,2023,70
+3.0,10:17,2.0,10.0,MIA 48,10.0,24.0,"Eric Gray up the middle for 3 yards. Eric Gray fumbles (forced by David Long), recovered by Joshua Ezeudu at MIA-44 (tackle by Raekwon Davis) (tackle by David Long) (tackle by David Long)",1.85,1.69,5.0,2023,70
+3.0,9:30,3.0,6.0,MIA 44,10.0,24.0,Daniel Jones pass incomplete short right intended for Wan'Dale Robinson,1.69,0.33,5.0,2023,70
+3.0,9:25,4.0,6.0,MIA 44,10.0,24.0,"Jamie Gillan punts 34 yards, fair catch by Braxton Berrios at MIA-10",0.33,0.38,5.0,2023,70
+3.0,9:17,1.0,10.0,MIA 10,10.0,24.0,"Raheem Mostert left end for 7 yards (tackle by Xavier McKinney). Penalty on Connor Williams: Offensive Holding, 8 yards (accepted)",-0.38,-0.42,5.0,2023,70
+3.0,8:59,1.0,11.0,MIA 9,10.0,24.0,De'Von Achane right end for 12 yards (tackle by Bobby Okereke and Kayvon Thibodeaux),-0.42,0.34,5.0,2023,70
+3.0,8:22,1.0,10.0,MIA 21,10.0,24.0,Tua Tagovailoa pass complete short left to Tyreek Hill for 6 yards (tackle by Isaiah Simmons),0.34,0.61,5.0,2023,70
+3.0,7:39,2.0,4.0,MIA 27,10.0,24.0,Tua Tagovailoa pass complete short left to Braxton Berrios for no gain (tackle by Bobby Okereke),0.61,-0.1,5.0,2023,70
+3.0,6:54,3.0,4.0,MIA 27,10.0,24.0,Tua Tagovailoa pass short left intended for Jaylen Waddle is intercepted by Bobby Okereke at MIA-30 and returned for 7 yards (tackle by Jaylen Waddle),-0.1,-4.04,5.0,2023,70
+3.0,6:44,1.0,10.0,MIA 23,10.0,24.0,Eric Gray right tackle for -1 yards (tackle by Bradley Chubb),4.04,3.36,5.0,2023,70
+3.0,6:10,2.0,11.0,MIA 24,10.0,24.0,Matt Breida up the middle for 8 yards (tackle by Jevon Holland),3.36,3.85,5.0,2023,70
+3.0,5:41,3.0,3.0,MIA 16,10.0,24.0,"Matt Breida up the middle for no gain (tackle by Andrew Van Ginkel and Jerome Baker). Penalty on Jalen Mayfield: Offensive Holding, 10 yards (accepted) (no play)",3.85,2.41,5.0,2023,70
+3.0,5:16,3.0,13.0,MIA 26,10.0,24.0,Daniel Jones pass complete short middle to Wan'Dale Robinson for 7 yards (tackle by Kader Kohou),2.41,2.21,5.0,2023,70
+3.0,4:31,4.0,6.0,MIA 19,13.0,24.0,Graham Gano 37 yard field goal good,2.21,3.0,5.0,2023,70
+3.0,4:26,,,NYG 35,13.0,24.0,"Graham Gano kicks off 65 yards, touchback.",0.0,0.61,5.0,2023,70
+3.0,4:26,1.0,10.0,MIA 25,13.0,24.0,De'Von Achane right end for 8 yards (tackle by Isaiah Simmons),0.61,1.14,5.0,2023,70
+3.0,3:46,2.0,2.0,MIA 33,13.0,24.0,Tua Tagovailoa pass complete short middle to De'Von Achane for 14 yards (tackle by Dane Belton),1.14,2.06,5.0,2023,70
+3.0,3:04,1.0,10.0,MIA 47,13.0,24.0,Raheem Mostert left end for 11 yards (tackle by Isaiah Simmons and Bobby Okereke),2.06,2.79,5.0,2023,70
+3.0,2:25,1.0,10.0,NYG 42,13.0,24.0,Raheem Mostert right tackle for 23 yards (tackle by Jason Pinnock),2.79,4.31,5.0,2023,70
+3.0,1:42,1.0,10.0,NYG 19,13.0,24.0,De'Von Achane right tackle for 6 yards (tackle by Isaiah Simmons),4.31,4.72,5.0,2023,70
+3.0,1:08,2.0,4.0,NYG 13,13.0,24.0,De'Von Achane left end for 5 yards (tackle by Bobby Okereke),4.72,5.37,5.0,2023,70
+3.0,0:26,1.0,8.0,NYG 8,13.0,24.0,Raheem Mostert up the middle for 6 yards (tackle by Isaiah Simmons),5.37,5.72,5.0,2023,70
+3.0,0:01,2.0,2.0,NYG 2,13.0,30.0,"Raheem Mostert up the middle for 2 yards, touchdown",5.72,7.0,5.0,2023,70
+3.0,0:00,,,NYG 15,13.0,31.0,Jason Sanders kicks extra point good,0.0,0.0,5.0,2023,70
+4.0,15:00,,,MIA 35,13.0,31.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,5.0,2023,70
+4.0,15:00,1.0,10.0,NYG 25,13.0,31.0,Daniel Jones pass complete short right to Daniel Bellinger for 7 yards (tackle by Xavien Howard),0.61,1.01,5.0,2023,70
+4.0,14:29,2.0,3.0,NYG 32,13.0,31.0,Daniel Jones pass incomplete deep right intended for Darius Slayton,1.01,0.3,5.0,2023,70
+4.0,14:19,3.0,3.0,NYG 32,13.0,31.0,Daniel Jones pass incomplete short middle,0.3,-1.24,5.0,2023,70
+4.0,14:13,4.0,3.0,NYG 32,13.0,31.0,"Jamie Gillan punts 40 yards, fair catch by Braxton Berrios at MIA-28",-1.24,-0.81,5.0,2023,70
+4.0,14:07,1.0,10.0,MIA 28,13.0,31.0,De'Von Achane up the middle for 2 yards (tackle by Dexter Lawrence),0.81,0.53,5.0,2023,70
+4.0,13:29,2.0,8.0,MIA 30,13.0,31.0,De'Von Achane left end for 1 yard (tackle by Leonard Williams and Jihad Ward),0.53,-0.03,5.0,2023,70
+4.0,12:55,3.0,7.0,MIA 31,13.0,31.0,Tua Tagovailoa pass incomplete short middle intended for Jaylen Waddle,-0.03,-1.31,5.0,2023,70
+4.0,12:50,4.0,7.0,MIA 31,13.0,31.0,Jake Bailey punts 20 yards out of bounds,-1.31,-2.19,5.0,2023,70
+4.0,12:45,1.0,10.0,NYG 49,13.0,31.0,Daniel Jones sacked by Andrew Van Ginkel for -7 yards,2.19,0.7,5.0,2023,70
+4.0,12:11,2.0,17.0,NYG 42,13.0,31.0,Tyrod Taylor pass complete short left to Darren Waller for 9 yards (tackle by Jerome Baker),0.7,1.22,5.0,2023,70
+4.0,11:45,3.0,8.0,MIA 49,13.0,31.0,Tyrod Taylor pass incomplete short right,1.22,0.0,5.0,2023,70
+4.0,11:29,4.0,8.0,MIA 49,13.0,31.0,Tyrod Taylor scrambles right end for 9 yards (tackle by Kader Kohou),0.0,2.92,5.0,2023,70
+4.0,11:09,1.0,10.0,MIA 40,13.0,31.0,Matt Breida left end for 4 yards (tackle by Eli Apple),2.92,2.91,5.0,2023,70
+4.0,10:33,2.0,6.0,MIA 36,13.0,31.0,Tyrod Taylor pass complete short middle to Wan'Dale Robinson for 7 yards (tackle by Kader Kohou and David Long),2.91,3.64,5.0,2023,70
+4.0,10:16,1.0,10.0,MIA 29,13.0,31.0,Tyrod Taylor pass incomplete deep middle intended for Darren Waller (defended by Jevon Holland),3.64,3.1,5.0,2023,70
+4.0,10:09,2.0,10.0,MIA 29,13.0,31.0,Eric Gray up the middle for -1 yards (tackle by David Long),3.1,2.28,5.0,2023,70
+4.0,9:41,3.0,11.0,MIA 30,13.0,31.0,Tyrod Taylor sacked by Zach Sieler for -3 yards,2.28,1.15,5.0,2023,70
+4.0,8:56,4.0,14.0,MIA 33,16.0,31.0,Graham Gano 51 yard field goal good,1.15,3.0,5.0,2023,70
+4.0,8:51,,,NYG 35,16.0,31.0,"Graham Gano kicks off 65 yards, touchback.",0.0,0.61,5.0,2023,70
+4.0,8:51,1.0,10.0,MIA 25,16.0,31.0,Raheem Mostert right end for 5 yards (tackle by Dane Belton and Bobby Okereke),0.61,0.74,5.0,2023,70
+4.0,8:07,2.0,5.0,MIA 30,16.0,31.0,Tua Tagovailoa pass complete short left to Tyreek Hill for 4 yards (tackle by Tre Hawkins),0.74,0.56,5.0,2023,70
+4.0,7:21,3.0,1.0,MIA 34,16.0,31.0,Tua Tagovailoa pass complete short right to Jaylen Waddle for no gain (tackle by Deonte Banks),0.56,-1.11,5.0,2023,70
+4.0,6:35,4.0,1.0,MIA 34,16.0,31.0,"Jake Bailey punts 49 yards, fair catch by Eric Gray at NYG-17",-1.11,0.06,5.0,2023,70
+4.0,6:25,1.0,10.0,NYG 17,16.0,31.0,"Tyrod Taylor pass incomplete short right. Penalty on Jalen Mayfield: Offensive Holding, 8 yards (accepted) (no play)",-0.06,-0.68,5.0,2023,70
+4.0,6:19,1.0,18.0,NYG 9,16.0,31.0,Tyrod Taylor pass complete short left to Parris Campbell for 17 yards (tackle by Eli Apple),-0.68,0.75,5.0,2023,70
+4.0,5:49,2.0,1.0,NYG 26,16.0,31.0,Tyrod Taylor pass complete short left to Parris Campbell for 6 yards (tackle by Kader Kohou and Jerome Baker),0.75,1.07,5.0,2023,70
+4.0,5:24,1.0,10.0,NYG 32,16.0,31.0,"Penalty on Matt Peart: False Start, 5 yards (accepted) (no play)",1.07,0.74,5.0,2023,70
+4.0,5:18,1.0,15.0,NYG 27,16.0,31.0,Tyrod Taylor pass complete short left to Eric Gray for 1 yard (tackle by Andrew Van Ginkel),0.74,-0.01,5.0,2023,70
+4.0,4:44,2.0,14.0,NYG 28,16.0,31.0,Tyrod Taylor pass complete short middle to Darren Waller for 15 yards (tackle by DeShon Elliott),-0.01,1.8,5.0,2023,70
+4.0,4:24,1.0,10.0,NYG 43,16.0,31.0,Tyrod Taylor pass complete short right to Darren Waller for 7 yards (tackle by David Long and Jerome Baker),1.8,2.2,5.0,2023,70
+4.0,3:58,2.0,3.0,MIA 50,16.0,31.0,Tyrod Taylor pass incomplete short left intended for Sterling Shepard,2.2,1.49,5.0,2023,70
+4.0,3:53,3.0,3.0,MIA 50,16.0,31.0,Eric Gray up the middle for 1 yard (tackle by Zach Sieler),1.49,0.0,5.0,2023,70
+4.0,3:19,4.0,2.0,MIA 49,16.0,31.0,"Tyrod Taylor sacked by Andrew Van Ginkel for no gain. Penalty on Xavien Howard: Illegal Contact, 5 yards (accepted) (no play)",0.0,2.65,5.0,2023,70
+4.0,3:09,1.0,10.0,MIA 44,16.0,31.0,Matt Breida up the middle for -2 yards (tackle by Raekwon Davis and Bradley Chubb),2.65,1.84,5.0,2023,70
+4.0,2:43,2.0,12.0,MIA 46,16.0,31.0,Tyrod Taylor pass complete short right to Darius Slayton for 20 yards (tackle by Eli Apple),1.84,3.84,5.0,2023,70
+4.0,2:27,1.0,10.0,MIA 26,16.0,31.0,Tyrod Taylor pass complete short left to Isaiah Hodgins for 4 yards (tackle by Eli Apple),3.84,3.84,5.0,2023,70
+4.0,2:06,2.0,6.0,MIA 22,16.0,31.0,Tyrod Taylor scrambles right tackle for 3 yards (tackle by Jerome Baker),3.84,3.57,5.0,2023,70
+4.0,1:55,3.0,3.0,MIA 19,16.0,31.0,Matt Breida right guard for no gain (tackle by Christian Wilkins and David Long),3.57,2.28,5.0,2023,70
+4.0,1:33,4.0,3.0,MIA 19,16.0,31.0,Tyrod Taylor scrambles up the middle for 2 yards (tackle by Andrew Van Ginkel),2.28,0.06,5.0,2023,70
+4.0,1:21,1.0,10.0,MIA 17,16.0,31.0,Raheem Mostert left end for 1 yard (tackle by Bobby Okereke and Dane Belton),-0.06,-0.42,5.0,2023,70
+4.0,1:15,,,,,,Timeout #1 by New York Giants,,,5.0,2023,70
+4.0,1:15,2.0,9.0,MIA 18,16.0,31.0,Raheem Mostert right end for 3 yards (tackle by Isaiah Simmons),-0.42,-0.75,5.0,2023,70
+4.0,1:11,,,,,,Timeout #2 by New York Giants,,,5.0,2023,70
+4.0,1:11,3.0,6.0,MIA 21,16.0,31.0,Tua Tagovailoa pass complete short right to Raheem Mostert for 8 yards (tackle by Isaiah Simmons),-0.75,0.87,5.0,2023,70
+4.0,0:22,1.0,10.0,MIA 29,16.0,31.0,Tua Tagovailoa kneels for -1 yards,0.87,0.19,5.0,2023,70

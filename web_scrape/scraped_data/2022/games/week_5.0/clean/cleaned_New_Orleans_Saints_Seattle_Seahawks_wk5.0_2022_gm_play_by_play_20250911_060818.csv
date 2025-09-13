@@ -1,0 +1,185 @@
+Quarter,Time,Down,ToGo,Location,SEA,NOR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Seahawks won the coin toss and deferred, Saints to receive the opening kickoff.",,,5.0,2022,74
+1.0,15:00,,,SEA 35,0.0,0.0,"Jason Myers kicks off 65 yards, returned by Deonte Harty for 22 yards (tackle by Joey Blount)",0.0,0.41,5.0,2022,74
+1.0,14:56,1.0,10.0,NOR 22,0.0,0.0,Alvin Kamara left guard for 6 yards (tackle by Al Woods and Poona Ford),0.41,0.68,5.0,2022,74
+1.0,14:21,2.0,4.0,NOR 28,0.0,0.0,Alvin Kamara right tackle for 6 yards (tackle by Cody Barton and Ryan Neal),0.68,1.2,5.0,2022,74
+1.0,13:46,1.0,10.0,NOR 34,0.0,0.0,Andy Dalton pass complete short right to Chris Olave for 11 yards (tackle by Michael Jackson),1.2,1.93,5.0,2022,74
+1.0,13:11,1.0,10.0,NOR 45,0.0,0.0,Alvin Kamara left tackle for 4 yards (tackle by Bryan Mone and Uchenna Nwosu),1.93,1.92,5.0,2022,74
+1.0,12:26,2.0,6.0,NOR 49,0.0,0.0,Andy Dalton scrambles right end for 5 yards (tackle by Boye Mafe),1.92,1.88,5.0,2022,74
+1.0,11:36,,,,,,Timeout #1 by New Orleans Saints,,,5.0,2022,74
+1.0,11:36,3.0,1.0,SEA 46,0.0,0.0,Taysom Hill left end for 4 yards (tackle by Tariq Woolen and Quandre Diggs),1.88,2.79,5.0,2022,74
+1.0,11:01,1.0,10.0,SEA 42,0.0,0.0,Alvin Kamara right tackle for 2 yards (tackle by Shelby Harris),2.79,2.51,5.0,2022,74
+1.0,10:27,2.0,8.0,SEA 40,0.0,0.0,Taysom Hill right tackle for 3 yards (tackle by Al Woods),2.51,2.21,5.0,2022,74
+1.0,9:45,3.0,5.0,SEA 37,0.0,0.0,Andy Dalton pass incomplete short left intended for Chris Olave,2.21,0.79,5.0,2022,74
+1.0,9:39,4.0,5.0,SEA 37,0.0,3.0,Wil Lutz 56 yard field goal good,0.79,3.0,5.0,2022,74
+1.0,9:34,,,NOR 35,0.0,3.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,5.0,2022,74
+1.0,9:34,1.0,10.0,SEA 25,0.0,3.0,Rashaad Penny right tackle for 5 yards (tackle by Marcus Davenport and Kaden Elliss),0.61,0.74,5.0,2022,74
+1.0,8:53,2.0,5.0,SEA 30,0.0,3.0,Geno Smith pass complete short right to Noah Fant for 15 yards (tackle by Pete Werner),0.74,1.93,5.0,2022,74
+1.0,8:19,1.0,10.0,SEA 45,0.0,3.0,Rashaad Penny left end for 1 yard (tackle by Marcus Davenport),1.93,1.52,5.0,2022,74
+1.0,7:37,2.0,9.0,SEA 46,0.0,3.0,Rashaad Penny up the middle for 4 yards (tackle by Tyrann Mathieu),1.52,1.36,5.0,2022,74
+1.0,6:53,3.0,5.0,SEA 50,6.0,3.0,"Geno Smith pass complete deep left to D.K. Metcalf for 50 yards, touchdown",1.36,7.0,5.0,2022,74
+1.0,6:41,,,NOR 15,7.0,3.0,Jason Myers kicks extra point good,0.0,0.0,5.0,2022,74
+1.0,6:41,,,SEA 35,7.0,3.0,"Jason Myers kicks off 65 yards, recovered by Deonte Harty and returned for no gain, recovered by Deonte Harty at NO-2 returned by Deonte Harty for 9 yards (tackle by Joey Blount)",0.0,-0.37,5.0,2022,74
+1.0,6:36,1.0,10.0,NOR 11,7.0,3.0,Andy Dalton pass complete deep right to Chris Olave for 18 yards (tackle by Cody Barton),-0.37,0.87,5.0,2022,74
+1.0,6:01,1.0,10.0,NOR 29,7.0,3.0,Alvin Kamara right tackle for no gain (tackle by Al Woods),0.87,0.33,5.0,2022,74
+1.0,5:18,2.0,10.0,NOR 29,7.0,3.0,Andy Dalton pass incomplete short right intended for Juwan Johnson (defended by Jordyn Brooks),0.33,-0.36,5.0,2022,74
+1.0,5:14,3.0,10.0,NOR 29,7.0,3.0,"Penalty on Darrell Taylor: Neutral Zone Infraction, 5 yards (accepted) (no play)",-0.36,0.3,5.0,2022,74
+1.0,5:14,3.0,5.0,NOR 34,7.0,3.0,Andy Dalton pass complete short right to Marquez Callaway for 1 yard (tackle by Ryan Neal),0.3,-1.04,5.0,2022,74
+1.0,4:33,4.0,4.0,NOR 35,7.0,3.0,"Penalty on J.T. Gray: False Start, 5 yards (accepted) (no play)",-1.04,-1.37,5.0,2022,74
+1.0,4:17,4.0,9.0,NOR 30,7.0,3.0,"Blake Gillikin punts 44 yards, fair catch by Tyler Lockett at SEA-26",-1.37,-0.67,5.0,2022,74
+1.0,4:10,1.0,10.0,SEA 26,7.0,3.0,Geno Smith pass incomplete short left intended for Noah Fant (defended by Paulson Adebo),0.67,0.13,5.0,2022,74
+1.0,4:05,2.0,10.0,SEA 26,7.0,3.0,Rashaad Penny right end for 32 yards (tackle by Demario Davis),0.13,2.79,5.0,2022,74
+1.0,3:26,1.0,10.0,NOR 42,7.0,3.0,Kenneth Walker right end for 3 yards (tackle by Demario Davis),2.79,2.65,5.0,2022,74
+1.0,2:40,2.0,7.0,NOR 39,7.0,3.0,"Geno Smith pass incomplete deep left intended for D.K. Metcalf. Penalty on D.K. Metcalf: Offensive Pass Interference, 10 yards (offset) . Penalty on Paulson Adebo: Defensive Holding, 5 yards (offset) (no play)",2.65,2.65,5.0,2022,74
+1.0,2:34,2.0,7.0,NOR 39,7.0,3.0,Kenneth Walker right guard for 2 yards (tackle by Paulson Adebo),2.65,2.21,5.0,2022,74
+1.0,1:55,3.0,5.0,NOR 37,7.0,3.0,Geno Smith right guard for -1 yards (tackle by Cameron Jordan),2.21,0.72,5.0,2022,74
+1.0,1:18,4.0,6.0,NOR 38,10.0,3.0,Jason Myers 56 yard field goal good,0.72,3.0,5.0,2022,74
+1.0,1:13,,,SEA 35,10.0,3.0,"Jason Myers kicks off 59 yards, returned by Taysom Hill for 25 yards. Taysom Hill fumbles (forced by DeeJay Dallas) (tackle by Cullen Gillaspia), recovered by Taysom Hill at NO-31 (tackle by Cullen Gillaspia) (tackle by DeeJay Dallas) (tackle by DeeJay Dallas) (tackle by Cullen Gillaspia)",0.0,1.0,5.0,2022,74
+1.0,1:06,1.0,10.0,NOR 31,10.0,3.0,Mark Ingram left guard for 4 yards (tackle by Darrell Taylor and Cody Barton),1.0,1.0,5.0,2022,74
+1.0,0:34,2.0,6.0,NOR 35,10.0,3.0,Mark Ingram right guard for 1 yard (tackle by Uchenna Nwosu),1.0,0.43,5.0,2022,74
+2.0,15:00,3.0,5.0,NOR 36,10.0,3.0,"Penalty on Uchenna Nwosu: Neutral Zone Infraction, 5 yards (accepted) (no play)",0.43,1.66,5.0,2022,74
+2.0,15:00,1.0,10.0,NOR 41,10.0,3.0,Andy Dalton pass complete short right to Alvin Kamara for 8 yards (tackle by Cody Barton),1.66,2.2,5.0,2022,74
+2.0,14:15,2.0,2.0,NOR 49,10.0,3.0,Andy Dalton pass incomplete deep right intended for Marquez Callaway,2.2,1.49,5.0,2022,74
+2.0,14:11,3.0,2.0,NOR 49,10.0,3.0,Alvin Kamara left end for 3 yards (tackle by Jordyn Brooks),1.49,2.39,5.0,2022,74
+2.0,13:36,1.0,10.0,SEA 48,10.0,3.0,Andy Dalton pass complete short middle to Juwan Johnson for 13 yards (tackle by Jordyn Brooks),2.39,3.25,5.0,2022,74
+2.0,12:53,1.0,10.0,SEA 35,10.0,3.0,Taysom Hill up the middle for 15 yards (tackle by Ryan Neal),3.25,4.24,5.0,2022,74
+2.0,12:15,1.0,10.0,SEA 20,10.0,3.0,Alvin Kamara left guard for 8 yards (tackle by Uchenna Nwosu and Cody Barton),4.24,5.04,5.0,2022,74
+2.0,11:36,2.0,2.0,SEA 12,10.0,3.0,Alvin Kamara left guard for 4 yards (tackle by Jordyn Brooks and Ryan Neal),5.04,5.37,5.0,2022,74
+2.0,10:59,1.0,8.0,SEA 8,10.0,9.0,"Taysom Hill right guard for 8 yards, touchdown",5.37,7.0,5.0,2022,74
+2.0,10:54,,,SEA 15,10.0,10.0,Wil Lutz kicks extra point good,0.0,0.0,5.0,2022,74
+2.0,10:54,,,NOR 35,10.0,10.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,5.0,2022,74
+2.0,10:54,1.0,10.0,SEA 25,10.0,10.0,Geno Smith pass complete short left to Will Dissly for 6 yards (tackle by Pete Werner),0.61,0.87,5.0,2022,74
+2.0,10:19,2.0,4.0,SEA 31,10.0,10.0,Rashaad Penny right guard for 2 yards (tackle by Tyrann Mathieu and Pete Werner),0.87,0.43,5.0,2022,74
+2.0,9:34,3.0,2.0,SEA 33,10.0,10.0,Geno Smith sacked by Cameron Jordan for -9 yards,0.43,-1.77,5.0,2022,74
+2.0,8:54,4.0,11.0,SEA 24,10.0,10.0,"Michael Dickson punts 44 yards, returned by Marquez Callaway for 4 yards (tackle by Nick Bellore)",-1.77,-1.33,5.0,2022,74
+2.0,8:43,1.0,10.0,NOR 36,10.0,10.0,"Andy Dalton sacked by Al Woods for -6 yards Penalty on NOR: Illegal Motion, 5 yards (declined)",1.33,-0.02,5.0,2022,74
+2.0,8:16,2.0,16.0,NOR 30,10.0,10.0,Mark Ingram left tackle for 2 yards (tackle by Cody Barton),-0.02,-0.43,5.0,2022,74
+2.0,7:38,3.0,14.0,NOR 32,10.0,10.0,Andy Dalton pass complete short right to Adam Trautman for 10 yards (tackle by Quandre Diggs),-0.43,-0.59,5.0,2022,74
+2.0,6:52,4.0,4.0,NOR 42,10.0,10.0,"Blake Gillikin punts 58 yards, touchback.",-0.59,-0.28,5.0,2022,74
+2.0,6:43,1.0,10.0,SEA 20,10.0,10.0,Rashaad Penny left guard for 1 yard (tackle by Carl Granderson and Malcolm Roach),0.28,-0.13,5.0,2022,74
+2.0,6:06,2.0,9.0,SEA 21,10.0,10.0,Rashaad Penny right guard for 3 yards (tackle by Carl Granderson and Tyrann Mathieu),-0.13,-0.43,5.0,2022,74
+2.0,5:20,3.0,6.0,SEA 24,10.0,10.0,Geno Smith pass complete short middle to Noah Fant for 2 yards (tackle by Paulson Adebo),-0.43,-1.63,5.0,2022,74
+2.0,4:38,4.0,4.0,SEA 26,10.0,10.0,"Penalty on Carson Tinker: False Start, 5 yards (accepted) (no play)",-1.63,-1.96,5.0,2022,74
+2.0,4:28,4.0,9.0,SEA 21,10.0,10.0,Michael Dickson right end for -8 yards (tackle by Carl Granderson and Dwayne Washington),-1.96,-4.71,5.0,2022,74
+2.0,4:19,1.0,10.0,SEA 13,10.0,10.0,Alvin Kamara left guard for 4 yards (tackle by Jordyn Brooks),4.71,4.77,5.0,2022,74
+2.0,3:39,2.0,6.0,SEA 9,10.0,16.0,"Taysom Hill left end for 9 yards, touchdown",4.77,7.0,5.0,2022,74
+2.0,3:34,,,SEA 15,10.0,17.0,Wil Lutz kicks extra point good,0.0,0.0,5.0,2022,74
+2.0,3:34,,,NOR 35,10.0,17.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,5.0,2022,74
+2.0,3:34,1.0,10.0,SEA 25,10.0,17.0,Geno Smith pass incomplete short left intended for Noah Fant,0.61,0.06,5.0,2022,74
+2.0,3:31,2.0,10.0,SEA 25,10.0,17.0,Geno Smith pass complete short middle to Will Dissly for 15 yards (tackle by Paulson Adebo and Justin Evans),0.06,1.6,5.0,2022,74
+2.0,2:59,1.0,10.0,SEA 40,10.0,17.0,Geno Smith pass complete deep left to Noah Fant for 32 yards (tackle by Justin Evans),1.6,3.71,5.0,2022,74
+2.0,2:22,1.0,10.0,NOR 28,10.0,17.0,Geno Smith pass incomplete short left intended for D.K. Metcalf,3.71,3.17,5.0,2022,74
+2.0,2:16,2.0,10.0,NOR 28,10.0,17.0,Geno Smith scrambles left end for 13 yards (tackle by Pete Werner),3.17,4.58,5.0,2022,74
+2.0,2:00,1.0,10.0,NOR 15,10.0,17.0,Geno Smith pass incomplete short right,4.58,3.95,5.0,2022,74
+2.0,1:55,2.0,10.0,NOR 15,10.0,17.0,Kenneth Walker right end for 2 yards (tackle by Justin Evans),3.95,3.4,5.0,2022,74
+2.0,1:50,,,,,,Timeout #2 by New Orleans Saints,,,5.0,2022,74
+2.0,1:50,3.0,8.0,NOR 13,10.0,17.0,Geno Smith pass incomplete short left intended for D.K. Metcalf,3.4,2.57,5.0,2022,74
+2.0,1:46,4.0,8.0,NOR 13,13.0,17.0,Jason Myers 31 yard field goal good,2.57,3.0,5.0,2022,74
+2.0,1:42,,,SEA 35,13.0,17.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,5.0,2022,74
+2.0,1:42,1.0,10.0,NOR 25,13.0,17.0,Andy Dalton pass complete short left to Alvin Kamara for 11 yards (tackle by Tariq Woolen),0.61,1.33,5.0,2022,74
+2.0,1:37,1.0,10.0,NOR 36,13.0,17.0,Alvin Kamara up the middle for 13 yards (tackle by Josh Jones),1.33,2.19,5.0,2022,74
+2.0,1:19,1.0,10.0,NOR 49,13.0,17.0,Andy Dalton pass complete short right to Chris Olave for 9 yards (tackle by Michael Jackson),2.19,2.86,5.0,2022,74
+2.0,0:59,2.0,1.0,SEA 42,13.0,17.0,Andy Dalton pass incomplete short right intended for Chris Olave (defended by Michael Jackson),2.86,2.15,5.0,2022,74
+2.0,0:47,3.0,1.0,SEA 42,13.0,17.0,Andy Dalton up the middle for 3 yards (tackle by Poona Ford),2.15,2.98,5.0,2022,74
+2.0,0:35,,,,,,Timeout #1 by Seattle Seahawks,,,5.0,2022,74
+2.0,0:35,1.0,10.0,SEA 39,13.0,17.0,"Andy Dalton pass complete short left to Tre'Quan Smith for no gain (tackle by Coby Bryant). Penalty on James Hurst: Illegal Use of Hands / Offense, 10 yards (accepted) (no play)",2.98,2.32,5.0,2022,74
+2.0,0:30,1.0,20.0,SEA 49,13.0,17.0,"Andy Dalton pass complete to Alvin Kamara for 6 yards. Alvin Kamara fumbles (forced by Coby Bryant), recovered by Tariq Woolen at SEA-43 and returned for 7 yards. Tariq Woolen fumbles (forced by Chris Olave). Tariq Woolen fumbles out of bounds (tackle by Ryan Neal and Coby Bryant)",2.32,-2.26,5.0,2022,74
+2.0,0:20,1.0,10.0,NOR 50,13.0,17.0,Geno Smith pass complete short right to Tyler Lockett for 11 yards (tackle by Paulson Adebo),2.26,2.98,5.0,2022,74
+2.0,0:16,,,,,,Timeout #2 by Seattle Seahawks,,,5.0,2022,74
+2.0,0:16,1.0,10.0,NOR 39,13.0,17.0,DeeJay Dallas right guard for 4 yards (tackle by David Onyemata and Kaden Elliss),2.98,2.98,5.0,2022,74
+2.0,0:14,,,,,,Timeout #3 by Seattle Seahawks,,,5.0,2022,74
+2.0,0:14,2.0,6.0,NOR 35,19.0,17.0,"Geno Smith pass complete deep middle to Tyler Lockett for 35 yards, touchdown",2.98,7.0,5.0,2022,74
+2.0,0:07,,,NOR 15,19.0,17.0,Jason Myers kicks extra point no good,0.0,-1.0,5.0,2022,74
+2.0,0:07,,,SEA 35,19.0,17.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,5.0,2022,74
+2.0,0:07,1.0,10.0,NOR 25,19.0,17.0,Andy Dalton kneels for -1 yards,0.61,-0.07,5.0,2022,74
+3.0,15:00,,,NOR 35,19.0,17.0,"Wil Lutz kicks off 63 yards, returned by DeeJay Dallas for 21 yards (tackle by Andrew Dowell)",0.0,0.48,5.0,2022,74
+3.0,14:55,1.0,10.0,SEA 23,19.0,17.0,"Geno Smith pass complete short left to D.K. Metcalf for 8 yards. D.K. Metcalf fumbles (forced by Pete Werner) (tackle by Justin Evans), recovered by David Onyemata at SEA-31 Replay Assistant challenged the fumble ruling, and the play was upheld.",0.48,-3.51,5.0,2022,74
+3.0,14:50,1.0,10.0,SEA 31,19.0,17.0,Alvin Kamara right end for 2 yards (tackle by Cody Barton and Poona Ford),3.51,3.24,5.0,2022,74
+3.0,14:13,2.0,8.0,SEA 29,19.0,17.0,Alvin Kamara right tackle for 7 yards (tackle by Cody Barton and Al Woods),3.24,3.47,5.0,2022,74
+3.0,13:33,3.0,1.0,SEA 22,19.0,17.0,Taysom Hill right tackle for 5 yards (tackle by Cody Barton),3.47,4.44,5.0,2022,74
+3.0,12:54,1.0,10.0,SEA 17,19.0,17.0,Andy Dalton pass incomplete intended for Adam Trautman (defended by Ryan Neal),4.44,3.85,5.0,2022,74
+3.0,12:48,2.0,10.0,SEA 17,19.0,17.0,Alvin Kamara left end for 1 yard (tackle by Quandre Diggs),3.85,3.19,5.0,2022,74
+3.0,12:07,3.0,9.0,SEA 16,19.0,23.0,"Andy Dalton pass incomplete deep right intended for Chris Olave (defended by Coby Bryant) NOR challenged the pass completion ruling, and the original play was overturned. Andy Dalton pass complete deep right to Chris Olave for 16 yards, touchdown",3.19,7.0,5.0,2022,74
+3.0,12:03,,,SEA 15,19.0,24.0,Wil Lutz kicks extra point good,0.0,0.0,5.0,2022,74
+3.0,12:03,,,NOR 35,19.0,24.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,5.0,2022,74
+3.0,12:03,1.0,10.0,SEA 25,19.0,24.0,Geno Smith pass complete short right to Tyler Lockett for 8 yards (tackle by Paulson Adebo),0.61,1.14,5.0,2022,74
+3.0,11:31,2.0,2.0,SEA 33,19.0,24.0,"Rashaad Penny for 6 yards (tackle by Marcus Davenport and Kaden Elliss). Penalty on Shy Tuttle: Defensive Holding, 5 yards (accepted)",1.14,1.86,5.0,2022,74
+3.0,11:10,1.0,10.0,SEA 44,19.0,24.0,Geno Smith pass incomplete intended for D.K. Metcalf (defended by Marshon Lattimore),1.86,1.32,5.0,2022,74
+3.0,11:05,2.0,10.0,SEA 44,19.0,24.0,Geno Smith pass incomplete deep right intended for Tyler Lockett,1.32,0.63,5.0,2022,74
+3.0,11:00,3.0,10.0,SEA 44,19.0,24.0,"Penalty on Abraham Lucas: False Start, 5 yards (accepted) (no play)",0.63,-0.03,5.0,2022,74
+3.0,11:00,3.0,15.0,SEA 39,19.0,24.0,Geno Smith scrambles left guard for 1 yard (tackle by Pete Werner),-0.03,-0.72,5.0,2022,74
+3.0,10:17,4.0,14.0,SEA 40,19.0,24.0,"Michael Dickson punts 49 yards, fair catch by Marquez Callaway at NO-11. Penalty on Carson Tinker: Offensive Holding, 10 yards (accepted)",-0.72,-0.34,5.0,2022,74
+3.0,10:10,1.0,10.0,NOR 21,19.0,24.0,Mark Ingram right tackle for 4 yards (tackle by Ryan Neal and Jordyn Brooks),0.34,0.34,5.0,2022,74
+3.0,9:37,2.0,6.0,NOR 25,19.0,24.0,Taysom Hill right end for 7 yards (tackle by Jordyn Brooks),0.34,1.07,5.0,2022,74
+3.0,9:00,1.0,10.0,NOR 32,19.0,24.0,Mark Ingram left end for 1 yard (tackle by Quandre Diggs),1.07,0.66,5.0,2022,74
+3.0,8:22,2.0,9.0,NOR 33,19.0,24.0,Andy Dalton pass complete short left to Alvin Kamara for 5 yards (tackle by Jordyn Brooks),0.66,0.63,5.0,2022,74
+3.0,7:35,3.0,4.0,NOR 38,19.0,24.0,Andy Dalton pass incomplete short right intended for Tre'Quan Smith,0.63,-0.85,5.0,2022,74
+3.0,7:29,4.0,4.0,NOR 38,19.0,24.0,"Blake Gillikin punts 62 yards, touchback.",-0.85,-0.28,5.0,2022,74
+3.0,7:19,1.0,10.0,SEA 20,19.0,24.0,Kenneth Walker left guard for 1 yard (tackle by Demario Davis and Malcolm Roach),0.28,-0.13,5.0,2022,74
+3.0,6:57,2.0,9.0,SEA 21,19.0,24.0,Geno Smith pass incomplete short right intended for Will Dissly,-0.13,-0.82,5.0,2022,74
+3.0,6:53,3.0,9.0,SEA 21,19.0,24.0,Geno Smith pass complete short left to DeeJay Dallas for 6 yards (tackle by Tyrann Mathieu),-0.82,-1.57,5.0,2022,74
+3.0,6:07,4.0,3.0,SEA 27,19.0,24.0,"Michael Dickson punts 55 yards, returned by Marquez Callaway for 21 yards (tackle by Joey Blount)",-1.57,-1.53,5.0,2022,74
+3.0,5:54,1.0,10.0,NOR 39,19.0,24.0,Alvin Kamara for 1 yard (tackle by Boye Mafe),1.53,1.12,5.0,2022,74
+3.0,5:17,2.0,9.0,NOR 40,19.0,24.0,"Penalty on Andrus Peat: False Start, 5 yards (accepted) (no play)",1.12,0.45,5.0,2022,74
+3.0,5:04,2.0,14.0,NOR 35,19.0,24.0,Andy Dalton pass short left intended for Tre'Quan Smith is intercepted by Tariq Woolen at NO-48 and returned for no gain (tackle by Tre'Quan Smith),0.45,-2.39,5.0,2022,74
+3.0,4:58,1.0,10.0,NOR 48,19.0,24.0,Geno Smith pass complete short right to D.K. Metcalf for 14 yards (tackle by Tyrann Mathieu and Pete Werner),2.39,3.31,5.0,2022,74
+3.0,4:29,1.0,10.0,NOR 34,19.0,24.0,Geno Smith pass incomplete short right intended for D'Wayne Eskridge,3.31,2.77,5.0,2022,74
+3.0,4:24,2.0,10.0,NOR 34,19.0,24.0,"Penalty on Tyler Lockett: False Start, 5 yards (accepted) (no play)",2.77,2.09,5.0,2022,74
+3.0,4:24,2.0,15.0,NOR 39,19.0,24.0,Geno Smith pass complete short right to D.K. Metcalf for 7 yards (tackle by Paulson Adebo),2.09,2.35,5.0,2022,74
+3.0,3:46,3.0,8.0,NOR 32,19.0,24.0,"Geno Smith pass complete deep left to D.K. Metcalf for no gain, touchdown. Penalty on Charles Cross: Offensive Holding, 10 yards (accepted) (no play)",2.35,1.03,5.0,2022,74
+3.0,3:38,3.0,18.0,NOR 42,19.0,24.0,Geno Smith sacked by J.T. Gray for no gain,1.03,0.46,5.0,2022,74
+3.0,2:52,4.0,18.0,NOR 42,19.0,24.0,"Penalty on SEA: Delay of Game, 5 yards (accepted) (no play)",0.46,0.13,5.0,2022,74
+3.0,2:52,4.0,23.0,NOR 47,19.0,24.0,"Michael Dickson punts 36 yards, fair catch by Marquez Callaway at NO-11. Penalty on Isaiah Dunn: Offensive Illegal Block Above the Waist, 10 yards (accepted)",0.13,-0.34,5.0,2022,74
+3.0,2:46,1.0,10.0,NOR 21,19.0,24.0,Mark Ingram left guard for 1 yard (tackle by Darrell Taylor),0.34,-0.07,5.0,2022,74
+3.0,2:12,2.0,9.0,NOR 22,19.0,24.0,Andy Dalton pass complete short left to Alvin Kamara for 54 yards (tackle by Coby Bryant),-0.07,3.97,5.0,2022,74
+3.0,1:22,1.0,10.0,SEA 24,19.0,24.0,Mark Ingram up the middle for 2 yards (tackle by Quinton Jefferson),3.97,3.7,5.0,2022,74
+3.0,0:41,2.0,8.0,SEA 22,19.0,30.0,"Taysom Hill pass complete deep middle to Adam Trautman for 22 yards, touchdown",3.7,7.0,5.0,2022,74
+3.0,0:36,,,SEA 15,19.0,31.0,Wil Lutz kicks extra point good,0.0,0.0,5.0,2022,74
+3.0,0:36,,,NOR 35,19.0,31.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,5.0,2022,74
+3.0,0:36,1.0,10.0,SEA 25,19.0,31.0,Kenneth Walker right tackle for 3 yards (tackle by Kentavius Street and Kaden Elliss),0.61,0.47,5.0,2022,74
+4.0,15:00,2.0,7.0,SEA 28,19.0,31.0,"Penalty on Austin Blythe: False Start, 5 yards (accepted) (no play)",0.47,-0.21,5.0,2022,74
+4.0,15:00,2.0,12.0,SEA 23,19.0,31.0,"Geno Smith pass incomplete short left intended for D'Wayne Eskridge. Penalty on Marshon Lattimore: Defensive Pass Interference, 27 yards (accepted) (no play)",-0.21,2.26,5.0,2022,74
+4.0,14:55,1.0,10.0,SEA 50,19.0,31.0,Geno Smith pass complete short right to Tyler Lockett for 10 yards (tackle by Paulson Adebo),2.26,2.92,5.0,2022,74
+4.0,14:16,1.0,10.0,NOR 40,25.0,31.0,"Geno Smith pass complete deep middle to Tyler Lockett for 40 yards, touchdown",2.92,7.0,5.0,2022,74
+4.0,14:08,,,NOR 2,25.0,31.0,Two Point Attempt: Geno Smith pass incomplete intended for D.K. Metcalf,1.0,-1.0,5.0,2022,74
+4.0,14:08,,,SEA 35,25.0,31.0,"Jason Myers kicks off 60 yards, returned by Taysom Hill for 18 yards (tackle by Xavier Crawford)",0.0,0.48,5.0,2022,74
+4.0,14:03,1.0,10.0,NOR 23,25.0,31.0,Alvin Kamara left tackle for 7 yards (tackle by Cody Barton),0.48,0.88,5.0,2022,74
+4.0,13:29,2.0,3.0,NOR 30,25.0,31.0,Alvin Kamara left tackle for 3 yards (tackle by Bryan Mone),0.88,1.14,5.0,2022,74
+4.0,12:53,1.0,10.0,NOR 33,25.0,31.0,Andy Dalton pass complete short right to Alvin Kamara for 7 yards (tackle by Shelby Harris and Quandre Diggs),1.14,1.54,5.0,2022,74
+4.0,12:15,2.0,3.0,NOR 40,25.0,31.0,Mark Ingram right guard for no gain (tackle by Jordyn Brooks and Bryan Mone),1.54,0.83,5.0,2022,74
+4.0,11:38,3.0,3.0,NOR 40,25.0,31.0,Andy Dalton pass complete short left to Marquez Callaway for 4 yards (tackle by Tariq Woolen),0.83,1.86,5.0,2022,74
+4.0,10:55,1.0,10.0,NOR 44,25.0,31.0,Taysom Hill left tackle for 1 yard (tackle by Jordyn Brooks and Bryan Mone),1.86,1.45,5.0,2022,74
+4.0,10:14,2.0,9.0,NOR 45,25.0,31.0,Andy Dalton pass incomplete deep right intended for Tre'Quan Smith,1.45,0.76,5.0,2022,74
+4.0,10:08,3.0,9.0,NOR 45,25.0,31.0,"Andy Dalton pass complete short right to Adam Trautman for no gain (tackle by Ryan Neal). Penalty on Tariq Woolen: Defensive Holding, 5 yards (accepted) (no play)",0.76,2.26,5.0,2022,74
+4.0,9:41,1.0,10.0,NOR 50,25.0,31.0,Alvin Kamara left end for 3 yards (tackle by Tariq Woolen and Quandre Diggs),2.26,2.12,5.0,2022,74
+4.0,9:15,2.0,7.0,SEA 47,25.0,31.0,Andy Dalton pass complete to Keith Kirkwood for 4 yards (tackle by Jordyn Brooks),2.12,1.95,5.0,2022,74
+4.0,8:35,3.0,3.0,SEA 43,25.0,31.0,Mark Ingram right guard for 1 yard (tackle by Uchenna Nwosu),1.95,0.46,5.0,2022,74
+4.0,7:48,4.0,2.0,SEA 42,25.0,31.0,"Penalty on Juwan Johnson: False Start, 5 yards (accepted) (no play)",0.46,0.13,5.0,2022,74
+4.0,7:48,4.0,7.0,SEA 47,25.0,31.0,Blake Gillikin punts 25 yards out of bounds,0.13,-0.41,5.0,2022,74
+4.0,7:40,1.0,10.0,SEA 22,25.0,31.0,Geno Smith pass complete short left to D.K. Metcalf for 9 yards (tackle by Bradley Roby),0.41,1.08,5.0,2022,74
+4.0,7:04,2.0,1.0,SEA 31,31.0,31.0,"Kenneth Walker left guard for 69 yards, touchdown",1.08,7.0,5.0,2022,74
+4.0,6:54,,,NOR 15,32.0,31.0,Jason Myers kicks extra point good,0.0,0.0,5.0,2022,74
+4.0,6:54,,,SEA 35,32.0,31.0,"Jason Myers kicks off 60 yards, returned by Taysom Hill for 26 yards (tackle by DeeJay Dallas)",0.0,1.0,5.0,2022,74
+4.0,6:48,1.0,10.0,NOR 31,32.0,31.0,Alvin Kamara right tackle for 6 yards (tackle by Cody Barton and Ryan Neal),1.0,1.27,5.0,2022,74
+4.0,6:13,2.0,4.0,NOR 37,32.0,31.0,Alvin Kamara right tackle for 3 yards (tackle by Cody Barton),1.27,0.96,5.0,2022,74
+4.0,5:33,3.0,1.0,NOR 40,32.0,37.0,"Taysom Hill left tackle for 60 yards, touchdown",0.96,7.0,5.0,2022,74
+4.0,5:22,,,SEA 2,32.0,39.0,"Two Point Attempt: Mark Ingram rushes, conversion succeeds.",1.0,1.0,5.0,2022,74
+4.0,5:22,,,NOR 35,32.0,39.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,5.0,2022,74
+4.0,5:22,1.0,10.0,SEA 25,32.0,39.0,Kenneth Walker right tackle for 6 yards (tackle by Shy Tuttle and Paulson Adebo),0.61,0.87,5.0,2022,74
+4.0,4:57,2.0,4.0,SEA 31,32.0,39.0,Kenneth Walker left tackle for 2 yards (tackle by Marcus Davenport),0.87,0.43,5.0,2022,74
+4.0,4:15,3.0,2.0,SEA 33,32.0,39.0,Geno Smith sacked by Cameron Jordan for -14 yards,0.43,-2.14,5.0,2022,74
+4.0,3:28,4.0,16.0,SEA 19,32.0,39.0,"Michael Dickson punts 49 yards, fair catch by Marquez Callaway at NO-32",-2.14,-1.07,5.0,2022,74
+4.0,3:21,1.0,10.0,NOR 32,32.0,39.0,Alvin Kamara right guard for 4 yards (tackle by Michael Jackson),1.07,1.07,5.0,2022,74
+4.0,3:16,,,,,,Timeout #1 by Seattle Seahawks,,,5.0,2022,74
+4.0,3:16,2.0,6.0,NOR 36,32.0,39.0,Alvin Kamara right tackle for 2 yards (tackle by Uchenna Nwosu),1.07,0.63,5.0,2022,74
+4.0,3:10,,,,,,Timeout #2 by Seattle Seahawks,,,5.0,2022,74
+4.0,3:10,3.0,4.0,NOR 38,32.0,39.0,Andy Dalton pass complete short right to Tre'Quan Smith for 10 yards (tackle by Quandre Diggs),0.63,2.13,5.0,2022,74
+4.0,2:24,1.0,10.0,NOR 48,32.0,39.0,Alvin Kamara up the middle for 4 yards (tackle by Myles Adams and Bryan Mone),2.13,2.12,5.0,2022,74
+4.0,2:00,2.0,6.0,SEA 48,32.0,39.0,Alvin Kamara right guard for 10 yards (tackle by Quandre Diggs and Jordyn Brooks),2.12,3.05,5.0,2022,74
+4.0,1:53,,,,,,Timeout #3 by Seattle Seahawks,,,5.0,2022,74
+4.0,1:53,,,,,,Timeout #1 by New Orleans Saints,,,5.0,2022,74
+4.0,1:53,1.0,10.0,SEA 38,32.0,39.0,Andy Dalton kneels for -1 yards,3.05,2.37,5.0,2022,74
+4.0,1:13,2.0,11.0,SEA 39,32.0,39.0,Andy Dalton kneels for no gain,2.37,1.68,5.0,2022,74
+4.0,0:36,3.0,11.0,SEA 39,32.0,39.0,Andy Dalton kneels for -1 yards,1.68,0.59,5.0,2022,74
+4.0,0:31,4.0,12.0,SEA 40,32.0,39.0,"Penalty on Uchenna Nwosu: Personal Foul / Defense, 15 yards (accepted) (no play)",0.59,3.91,5.0,2022,74
+4.0,0:31,1.0,10.0,SEA 25,32.0,39.0,Andy Dalton kneels for -1 yards,3.91,3.23,5.0,2022,74

@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,DEN 30,9,4:29,70,Touchdown,1,Broncos,11.0,2024,163
+2,1,1:33,DEN 30,3,1:33,0,Punt,1,Broncos,11.0,2024,163
+3,2,12:23,DEN 23,9,6:07,77,Touchdown,1,Broncos,11.0,2024,163
+4,2,2:48,DEN 30,10,2:23,70,Touchdown,1,Broncos,11.0,2024,163
+5,3,13:38,ATL 45,10,4:33,45,Touchdown,1,Broncos,11.0,2024,163
+6,3,7:56,DEN 46,5,2:21,11,Punt,1,Broncos,11.0,2024,163
+7,3,2:45,DEN 32,8,4:37,41,Field Goal,1,Broncos,11.0,2024,163
+8,4,11:15,DEN 41,4,2:12,59,Touchdown,1,Broncos,11.0,2024,163
+9,4,4:53,DEN 4,3,1:50,9,Punt,1,Broncos,11.0,2024,163

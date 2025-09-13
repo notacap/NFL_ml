@@ -1,0 +1,173 @@
+Quarter,Time,Down,ToGo,Location,BAL,LAC,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Ravens won the coin toss and deferred, Chargers to receive the opening kickoff.",,,12.0,2024,179
+1.0,15:00,,,BAL 35,0.0,0.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,179
+1.0,15:00,1.0,10.0,LAC 30,0.0,0.0,J.K. Dobbins up the middle for no gain (tackle by Malik Harrison and Travis Jones),0.94,0.39,12.0,2024,179
+1.0,14:18,2.0,10.0,LAC 30,0.0,0.0,Justin Herbert pass complete short left to Ladd McConkey for 17 yards (tackle by Marlon Humphrey),0.39,2.06,12.0,2024,179
+1.0,13:41,1.0,10.0,LAC 47,0.0,0.0,Gus Edwards up the middle for 8 yards (tackle by Trenton Simpson),2.06,2.6,12.0,2024,179
+1.0,13:05,2.0,2.0,BAL 45,0.0,0.0,Gus Edwards up the middle for 4 yards (tackle by Ar'Darius Washington),2.6,2.85,12.0,2024,179
+1.0,12:29,1.0,10.0,BAL 41,0.0,0.0,Justin Herbert scrambles left end for 4 yards (tackle by Trenton Simpson),2.85,2.85,12.0,2024,179
+1.0,11:50,2.0,6.0,BAL 37,0.0,0.0,J.K. Dobbins right tackle for 12 yards (tackle by Marlon Humphrey),2.85,3.91,12.0,2024,179
+1.0,11:09,1.0,10.0,BAL 25,0.0,0.0,Justin Herbert pass complete short middle to Will Dissly for 18 yards (tackle by Ar'Darius Washington),3.91,5.6,12.0,2024,179
+1.0,10:36,1.0,7.0,BAL 7,0.0,0.0,J.K. Dobbins up the middle for 2 yards (tackle by Malik Harrison and Kyle Van Noy),5.6,5.15,12.0,2024,179
+1.0,9:52,2.0,5.0,BAL 5,0.0,6.0,"Justin Herbert scrambles up the middle for 5 yards, touchdown",5.15,7.0,12.0,2024,179
+1.0,9:45,,,BAL 15,0.0,7.0,Cameron Dicker kicks extra point good,0.0,0.0,12.0,2024,179
+1.0,9:45,,,LAC 35,0.0,7.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,179
+1.0,9:45,1.0,10.0,BAL 30,0.0,7.0,Lamar Jackson left end for 5 yards (tackle by Khalil Mack),0.94,1.07,12.0,2024,179
+1.0,9:13,2.0,5.0,BAL 35,0.0,7.0,Derrick Henry up the middle for 5 yards (tackle by Otito Ogbonnia),1.07,1.6,12.0,2024,179
+1.0,8:37,1.0,10.0,BAL 40,0.0,7.0,"Lamar Jackson pass complete deep right to Rashod Bateman for no gain (tackle by Alohi Gilman). Penalty on Patrick Ricard: Personal Foul / Offense, 15 yards (accepted) (no play)",1.6,0.61,12.0,2024,179
+1.0,8:04,1.0,25.0,BAL 25,0.0,7.0,Derrick Henry left end for 3 yards (tackle by Khalil Mack),0.61,-0.57,12.0,2024,179
+1.0,7:27,2.0,22.0,BAL 28,0.0,7.0,Lamar Jackson pass complete short left to Mark Andrews for 2 yards (tackle by Poona Ford),-0.57,-0.96,12.0,2024,179
+1.0,6:46,3.0,20.0,BAL 30,0.0,7.0,Lamar Jackson pass incomplete deep right,-0.96,-1.37,12.0,2024,179
+1.0,6:37,4.0,20.0,BAL 30,0.0,7.0,Jordan Stout punts 57 yards,-1.37,0.32,12.0,2024,179
+1.0,6:31,1.0,10.0,LAC 13,0.0,7.0,Justin Herbert sacked by Odafe Oweh for -3 yards,-0.32,-1.0,12.0,2024,179
+1.0,5:46,2.0,13.0,LAC 10,0.0,7.0,Justin Herbert pass incomplete short left intended for J.K. Dobbins,-1.0,-1.77,12.0,2024,179
+1.0,5:42,3.0,13.0,LAC 10,0.0,7.0,Justin Herbert pass complete deep middle to Ladd McConkey for 16 yards (tackle by Nate Wiggins),-1.77,0.67,12.0,2024,179
+1.0,5:03,1.0,10.0,LAC 26,0.0,7.0,"J.K. Dobbins right end for no gain (tackle by Marlon Humphrey and Chris Board). Penalty on Zion Johnson: Offensive Holding, 10 yards (accepted) (no play)",0.67,-0.3,12.0,2024,179
+1.0,4:40,1.0,20.0,LAC 16,0.0,7.0,Justin Herbert pass complete short right to J.K. Dobbins for 11 yards (tackle by Ar'Darius Washington),-0.3,0.27,12.0,2024,179
+1.0,3:55,2.0,9.0,LAC 27,0.0,7.0,J.K. Dobbins left end for 4 yards (tackle by Chris Board and Malik Harrison),0.27,0.1,12.0,2024,179
+1.0,3:10,3.0,5.0,LAC 31,0.0,7.0,Justin Herbert pass incomplete short right intended for Jalen Reagor (defended by Nate Wiggins),0.1,-1.24,12.0,2024,179
+1.0,3:03,4.0,4.0,LAC 32,0.0,7.0,"Penalty on Tuli Tuipulotu: False Start, 5 yards (accepted) (no play)",-1.24,-1.63,12.0,2024,179
+1.0,3:03,4.0,10.0,LAC 26,0.0,7.0,"JK Scott punts 43 yards, fair catch by Tylan Wallace at BAL-31. Penalty on Nate Wiggins: Unnecessary Roughness / Defense, 15 yards (accepted)",-1.63,0.14,12.0,2024,179
+1.0,2:57,1.0,10.0,BAL 16,0.0,7.0,Derrick Henry right guard for 5 yards (tackle by Morgan Fox),-0.14,0.15,12.0,2024,179
+1.0,2:23,2.0,5.0,BAL 21,0.0,7.0,Lamar Jackson pass incomplete short left intended for Zay Flowers,0.15,-0.7,12.0,2024,179
+1.0,2:17,3.0,5.0,BAL 21,0.0,7.0,Lamar Jackson pass incomplete deep right intended for Diontae Johnson,-0.7,-1.96,12.0,2024,179
+1.0,2:11,4.0,5.0,BAL 21,0.0,7.0,"Jordan Stout punts 62 yards, returned by Derius Davis for 19 yards (tackle by Malik Harrison)",-1.96,-1.33,12.0,2024,179
+1.0,1:59,1.0,10.0,LAC 36,0.0,7.0,Justin Herbert pass complete short middle to Derius Davis for 3 yards (tackle by Malik Harrison and Brandon Stephens),1.33,1.2,12.0,2024,179
+1.0,1:21,2.0,7.0,LAC 39,0.0,7.0,J.K. Dobbins left guard for 5 yards (tackle by Brent Urban and Malik Harrison),1.2,1.16,12.0,2024,179
+1.0,0:39,3.0,2.0,LAC 44,0.0,7.0,J.K. Dobbins right tackle for 17 yards (tackle by Nate Wiggins),1.16,2.98,12.0,2024,179
+2.0,15:00,1.0,10.0,BAL 39,0.0,7.0,Justin Herbert pass complete short left to J.K. Dobbins for 5 yards (tackle by Malik Harrison),2.98,3.12,12.0,2024,179
+2.0,14:22,2.0,5.0,BAL 34,0.0,7.0,Gus Edwards up the middle for 4 yards (tackle by Trenton Simpson),3.12,2.94,12.0,2024,179
+2.0,13:43,3.0,1.0,BAL 30,0.0,7.0,Gus Edwards up the middle for no gain (tackle by Malik Harrison and Travis Jones),2.94,1.52,12.0,2024,179
+2.0,13:06,4.0,1.0,BAL 30,0.0,7.0,Gus Edwards right tackle for 3 yards (tackle by Kristian Welch),1.52,3.78,12.0,2024,179
+2.0,12:23,1.0,10.0,BAL 27,0.0,7.0,Justin Herbert pass complete short middle to J.K. Dobbins for 3 yards (tackle by Malik Harrison),3.78,3.64,12.0,2024,179
+2.0,11:41,2.0,7.0,BAL 24,0.0,7.0,Justin Herbert pass incomplete deep right intended for Quentin Johnston (defended by Nate Wiggins),3.64,2.94,12.0,2024,179
+2.0,11:34,3.0,7.0,BAL 24,0.0,7.0,Justin Herbert pass incomplete short left intended for J.K. Dobbins,2.94,1.87,12.0,2024,179
+2.0,11:30,4.0,7.0,BAL 24,0.0,10.0,Cameron Dicker 42 yard field goal good,1.87,3.0,12.0,2024,179
+2.0,11:26,,,LAC 35,0.0,10.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,179
+2.0,11:26,1.0,10.0,BAL 30,0.0,10.0,Derrick Henry right tackle for 19 yards (tackle by Nick Niemann and Tuli Tuipulotu),0.94,2.19,12.0,2024,179
+2.0,10:46,1.0,10.0,BAL 49,0.0,10.0,Derrick Henry left tackle for 14 yards (tackle by Derwin James and Tarheeb Still),2.19,3.12,12.0,2024,179
+2.0,10:10,1.0,10.0,LAC 37,0.0,10.0,Justice Hill left end for 5 yards (tackle by Daiyan Henley),3.12,3.25,12.0,2024,179
+2.0,9:25,2.0,5.0,LAC 32,0.0,10.0,Lamar Jackson pass incomplete deep left intended for Rashod Bateman (defended by Alohi Gilman),3.25,2.54,12.0,2024,179
+2.0,9:16,3.0,5.0,LAC 32,0.0,10.0,Lamar Jackson pass complete short right to Mark Andrews for 16 yards (tackle by Elijah Molden),2.54,4.51,12.0,2024,179
+2.0,8:40,1.0,10.0,LAC 16,0.0,10.0,Derrick Henry left tackle for 11 yards (tackle by Derwin James and Daiyan Henley),4.51,6.06,12.0,2024,179
+2.0,8:00,1.0,5.0,LAC 5,0.0,10.0,"Derrick Henry right tackle for no gain, touchdown. Penalty on Roger Rosengarten: Illegal Formation, 5 yards (accepted) (no play)",6.06,4.91,12.0,2024,179
+2.0,7:55,1.0,10.0,LAC 10,6.0,10.0,"Lamar Jackson right end for 10 yards, touchdown",4.91,7.0,12.0,2024,179
+2.0,7:48,,,LAC 15,7.0,10.0,Justin Tucker kicks extra point good,0.0,0.0,12.0,2024,179
+2.0,7:48,,,BAL 35,7.0,10.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,179
+2.0,7:48,1.0,10.0,LAC 30,7.0,10.0,Justin Herbert pass complete short left to Derius Davis for 1 yard (tackle by Nnamdi Madubuike and Marlon Humphrey),0.94,0.53,12.0,2024,179
+2.0,7:04,2.0,9.0,LAC 31,7.0,10.0,Justin Herbert pass complete short left to Josh Palmer for 10 yards,0.53,1.66,12.0,2024,179
+2.0,6:32,1.0,10.0,LAC 41,7.0,10.0,Gus Edwards right tackle for no gain (tackle by Travis Jones and Kyle Hamilton),1.66,1.12,12.0,2024,179
+2.0,5:50,2.0,10.0,LAC 41,7.0,10.0,Justin Herbert pass complete short middle to Will Dissly for 9 yards (tackle by Chris Board),1.12,1.62,12.0,2024,179
+2.0,5:10,3.0,1.0,LAC 50,7.0,10.0,"J.K. Dobbins up the middle for no gain (tackle by Malik Harrison). Penalty on Tucker Fisk: Offensive Holding, 10 yards (accepted) (no play)",1.62,0.3,12.0,2024,179
+2.0,4:42,3.0,11.0,LAC 40,7.0,10.0,Justin Herbert pass complete short right to Ladd McConkey for 8 yards (tackle by Chris Board),0.3,-0.19,12.0,2024,179
+2.0,4:05,4.0,3.0,LAC 48,7.0,10.0,JK Scott punts 45 yards,-0.19,0.38,12.0,2024,179
+2.0,3:54,1.0,10.0,BAL 7,7.0,10.0,Derrick Henry right tackle for 5 yards (tackle by Poona Ford),-0.38,-0.42,12.0,2024,179
+2.0,3:15,2.0,5.0,BAL 12,7.0,10.0,Derrick Henry right guard for 4 yards (tackle by Nick Niemann and Justin Eboigbe),-0.42,-0.37,12.0,2024,179
+2.0,2:44,3.0,1.0,BAL 16,7.0,10.0,Derrick Henry up the middle for no gain (tackle by Bud Dupree and Poona Ford),-0.37,-2.39,12.0,2024,179
+2.0,2:00,4.0,1.0,BAL 16,7.0,10.0,Mark Andrews up the middle for 2 yards (tackle by Nick Niemann and Daiyan Henley),-2.39,0.04,12.0,2024,179
+2.0,1:31,1.0,10.0,BAL 18,7.0,10.0,Lamar Jackson right end for -1 yards (tackle by Tuli Tuipulotu),0.04,-0.65,12.0,2024,179
+2.0,1:08,2.0,11.0,BAL 17,7.0,10.0,Lamar Jackson pass complete short right to Justice Hill for 9 yards (tackle by Daiyan Henley),-0.65,-0.14,12.0,2024,179
+2.0,0:49,3.0,2.0,BAL 26,7.0,10.0,Lamar Jackson pass complete short right to Zay Flowers for 22 yards (tackle by Elijah Molden),-0.14,2.13,12.0,2024,179
+2.0,0:37,1.0,10.0,BAL 48,7.0,10.0,"Lamar Jackson pass incomplete deep left intended for Rashod Bateman. Penalty on Kristian Fulton: Defensive Pass Interference, 12 yards (accepted) (no play)",2.13,2.92,12.0,2024,179
+2.0,0:32,1.0,10.0,LAC 40,13.0,10.0,"Lamar Jackson pass complete deep left to Rashod Bateman for 40 yards, touchdown. Penalty on Kristian Fulton: Defensive Pass Interference, 15 yards (declined)",2.92,7.0,12.0,2024,179
+2.0,0:24,,,LAC 15,14.0,10.0,Justin Tucker kicks extra point good,0.0,0.0,12.0,2024,179
+2.0,0:24,,,BAL 35,14.0,10.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,179
+2.0,0:24,,,,,,Timeout #1 by Baltimore Ravens,,,12.0,2024,179
+2.0,0:24,1.0,10.0,LAC 30,14.0,10.0,Justin Herbert scrambles right end for 8 yards (tackle by Malik Harrison),0.94,1.47,12.0,2024,179
+2.0,0:17,2.0,2.0,LAC 38,14.0,10.0,Justin Herbert pass incomplete deep middle intended for Josh Palmer,1.47,0.76,12.0,2024,179
+2.0,0:11,3.0,2.0,LAC 38,14.0,10.0,Justin Herbert pass complete short right to Jalen Reagor for 11 yards (tackle by Nate Wiggins),0.76,2.19,12.0,2024,179
+2.0,0:07,,,,,,Timeout #2 by Baltimore Ravens,,,12.0,2024,179
+2.0,0:07,1.0,10.0,LAC 49,14.0,10.0,Justin Herbert pass complete deep middle to Josh Palmer for 17 yards (tackle by Nate Wiggins),2.19,3.31,12.0,2024,179
+2.0,0:02,,,,,,Timeout #1 by Los Angeles Chargers,,,12.0,2024,179
+2.0,0:02,,,,,,Timeout #3 by Baltimore Ravens,,,12.0,2024,179
+2.0,0:02,1.0,10.0,BAL 34,14.0,13.0,Cameron Dicker 52 yard field goal good,3.31,3.0,12.0,2024,179
+3.0,15:00,,,LAC 35,14.0,13.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,179
+3.0,15:00,1.0,10.0,BAL 30,14.0,13.0,Derrick Henry right tackle for 3 yards (tackle by Joey Bosa),0.94,0.8,12.0,2024,179
+3.0,14:24,2.0,7.0,BAL 33,14.0,13.0,Lamar Jackson pass complete short left to Justice Hill for -2 yards (tackle by Daiyan Henley and Ja'Sir Taylor),0.8,-0.16,12.0,2024,179
+3.0,13:44,3.0,9.0,BAL 31,14.0,13.0,Lamar Jackson pass complete short right to Mark Andrews for 11 yards (tackle by Ja'Sir Taylor and Derwin James),-0.16,1.73,12.0,2024,179
+3.0,13:06,1.0,10.0,BAL 42,14.0,13.0,Derrick Henry left guard for 3 yards (tackle by Nick Niemann and Daiyan Henley),1.73,1.59,12.0,2024,179
+3.0,12:28,2.0,7.0,BAL 45,14.0,13.0,Derrick Henry left end for -3 yards (tackle by Teair Tart),1.59,0.5,12.0,2024,179
+3.0,11:47,3.0,10.0,BAL 42,14.0,13.0,Lamar Jackson pass complete deep right to Zay Flowers for 25 yards,0.5,3.38,12.0,2024,179
+3.0,11:08,1.0,10.0,LAC 33,14.0,13.0,Lamar Jackson pass incomplete deep left intended for Zay Flowers,3.38,2.84,12.0,2024,179
+3.0,10:57,2.0,10.0,LAC 33,14.0,13.0,Lamar Jackson sacked by Derwin James for no gain,2.84,2.15,12.0,2024,179
+3.0,10:15,3.0,10.0,LAC 33,14.0,13.0,Lamar Jackson pass complete short middle to Zay Flowers for 6 yards (tackle by Elijah Molden and Kristian Fulton),2.15,1.75,12.0,2024,179
+3.0,9:33,4.0,4.0,LAC 27,17.0,13.0,Justin Tucker 45 yard field goal good,1.75,3.0,12.0,2024,179
+3.0,9:29,,,BAL 35,17.0,13.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,179
+3.0,9:29,1.0,10.0,LAC 30,17.0,13.0,Justin Herbert pass complete short right to Tucker Fisk for 7 yards (tackle by Malik Harrison),0.94,1.34,12.0,2024,179
+3.0,8:53,2.0,3.0,LAC 37,17.0,13.0,Gus Edwards left tackle for -2 yards (tackle by Malik Harrison),1.34,0.37,12.0,2024,179
+3.0,8:12,3.0,5.0,LAC 35,17.0,13.0,Justin Herbert pass complete short right to Josh Palmer for 11 yards (tackle by Nate Wiggins),0.37,1.99,12.0,2024,179
+3.0,7:37,1.0,10.0,LAC 46,17.0,13.0,Hassan Haskins left tackle for 3 yards (tackle by Malik Harrison),1.99,1.86,12.0,2024,179
+3.0,6:58,2.0,7.0,LAC 49,17.0,13.0,"Justin Herbert scrambles up the middle for no gain (tackle by Odafe Oweh and Malik Harrison). Penalty on Bradley Bozeman: Offensive Holding, 10 yards (accepted) (no play)",1.86,0.51,12.0,2024,179
+3.0,6:26,2.0,17.0,LAC 39,17.0,13.0,Justin Herbert pass complete short right to Jalen Reagor for 9 yards (tackle by Nate Wiggins),0.51,1.03,12.0,2024,179
+3.0,5:43,3.0,8.0,LAC 48,17.0,13.0,Justin Herbert pass complete short left to Ladd McConkey for 19 yards (tackle by Kyle Hamilton),1.03,3.38,12.0,2024,179
+3.0,5:00,1.0,10.0,BAL 33,17.0,13.0,Justin Herbert sacked by Josh Tupou for -1 yards,3.38,2.7,12.0,2024,179
+3.0,4:20,2.0,11.0,BAL 34,17.0,13.0,Justin Herbert pass incomplete short left intended for Gus Edwards,2.7,2.01,12.0,2024,179
+3.0,4:16,3.0,11.0,BAL 34,17.0,13.0,Justin Herbert pass incomplete short right intended for Jalen Reagor,2.01,1.06,12.0,2024,179
+3.0,4:12,4.0,11.0,BAL 34,17.0,16.0,Cameron Dicker 52 yard field goal good,1.06,3.0,12.0,2024,179
+3.0,4:08,,,LAC 35,17.0,16.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,179
+3.0,4:08,1.0,10.0,BAL 30,17.0,16.0,Lamar Jackson pass complete short middle to Charlie Kolar for 6 yards (tackle by Daiyan Henley),0.94,1.2,12.0,2024,179
+3.0,3:36,2.0,4.0,BAL 36,17.0,16.0,Derrick Henry left tackle for 3 yards (tackle by Troy Dye),1.2,0.89,12.0,2024,179
+3.0,3:15,3.0,1.0,BAL 39,17.0,16.0,Lamar Jackson left end for no gain (tackle by Khalil Mack),0.89,-0.78,12.0,2024,179
+3.0,2:39,4.0,1.0,BAL 39,17.0,16.0,Derrick Henry left guard for 27 yards (tackle by Daiyan Henley and Tarheeb Still),-0.78,3.31,12.0,2024,179
+3.0,1:55,1.0,10.0,LAC 34,17.0,16.0,"Justice Hill right guard for 1 yard (tackle by Nick Niemann). Penalty on Patrick Mekari: Offensive Holding, 10 yards (accepted)",3.31,2.72,12.0,2024,179
+3.0,1:35,1.0,19.0,LAC 43,17.0,16.0,Lamar Jackson pass complete short left to Tylan Wallace for 15 yards (tackle by Derwin James and Tarheeb Still),2.72,3.58,12.0,2024,179
+3.0,0:53,2.0,4.0,LAC 28,17.0,16.0,Derrick Henry left tackle for no gain (tackle by Poona Ford),3.58,2.87,12.0,2024,179
+3.0,0:16,3.0,4.0,LAC 28,17.0,16.0,Lamar Jackson pass complete short left to Rashod Bateman for 3 yards (tackle by Tarheeb Still),2.87,1.95,12.0,2024,179
+4.0,15:00,4.0,1.0,LAC 25,17.0,16.0,Derrick Henry up the middle for 2 yards (tackle by Nick Niemann),1.95,4.04,12.0,2024,179
+4.0,14:21,1.0,10.0,LAC 23,17.0,16.0,Lamar Jackson pass complete short right to Zay Flowers for 4 yards (tackle by Tarheeb Still),4.04,4.05,12.0,2024,179
+4.0,13:50,2.0,6.0,LAC 19,17.0,16.0,Derrick Henry left tackle for 9 yards (tackle by Tarheeb Still and Elijah Molden),4.05,4.91,12.0,2024,179
+4.0,13:21,1.0,10.0,LAC 10,17.0,16.0,Derrick Henry right tackle for 4 yards (tackle by Teair Tart),4.91,4.95,12.0,2024,179
+4.0,12:47,2.0,6.0,LAC 6,17.0,16.0,Lamar Jackson pass incomplete short left intended for Zay Flowers (defended by Elijah Molden),4.95,4.04,12.0,2024,179
+4.0,12:36,3.0,6.0,LAC 6,23.0,16.0,"Lamar Jackson pass complete short middle to Mark Andrews for 6 yards, touchdown",4.04,7.0,12.0,2024,179
+4.0,12:32,,,LAC 2,23.0,16.0,Two Point Attempt: Lamar Jackson pass incomplete intended for intended for Zay Flowers,1.0,-1.0,12.0,2024,179
+4.0,12:32,,,BAL 35,23.0,16.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,179
+4.0,12:32,1.0,10.0,LAC 30,23.0,16.0,Gus Edwards left end for -7 yards (tackle by Kyle Hamilton),0.94,-0.55,12.0,2024,179
+4.0,11:49,2.0,17.0,LAC 23,23.0,16.0,Justin Herbert pass complete short middle to Will Dissly for 11 yards (tackle by Tre'Davious White),-0.55,0.23,12.0,2024,179
+4.0,11:06,3.0,6.0,LAC 34,23.0,16.0,"Justin Herbert pass incomplete deep right intended for Josh Palmer. Penalty on Tre'Davious White: Defensive Pass Interference, 15 yards (offset) . Penalty on Trey Pipkins: Offensive Holding, 10 yards (offset) (no play)",0.23,0.23,12.0,2024,179
+4.0,10:56,3.0,6.0,LAC 34,23.0,16.0,Justin Herbert pass incomplete short right intended for Quentin Johnston,0.23,-1.11,12.0,2024,179
+4.0,10:52,4.0,6.0,LAC 34,23.0,16.0,JK Scott punts 38 yards out of bounds,-1.11,-0.81,12.0,2024,179
+4.0,10:45,1.0,10.0,BAL 28,23.0,16.0,Lamar Jackson pass complete short right to Mark Andrews for 9 yards (tackle by Derwin James),0.81,1.48,12.0,2024,179
+4.0,10:05,2.0,1.0,BAL 37,23.0,16.0,Derrick Henry right tackle for no gain (tackle by Joey Bosa and Poona Ford),1.48,0.76,12.0,2024,179
+4.0,9:26,3.0,1.0,BAL 37,23.0,16.0,Derrick Henry left end for 5 yards (tackle by Tarheeb Still),0.76,1.73,12.0,2024,179
+4.0,8:51,1.0,10.0,BAL 42,23.0,16.0,Lamar Jackson left tackle for 2 yards (tackle by Troy Dye and Khalil Mack),1.73,1.46,12.0,2024,179
+4.0,8:13,2.0,8.0,BAL 44,23.0,16.0,Lamar Jackson pass complete short right to Zay Flowers for 5 yards (tackle by Troy Dye),1.46,1.42,12.0,2024,179
+4.0,7:34,3.0,3.0,BAL 49,29.0,16.0,"Justice Hill left end for 51 yards, touchdown",1.42,7.0,12.0,2024,179
+4.0,7:24,,,LAC 15,30.0,16.0,Justin Tucker kicks extra point good,0.0,0.0,12.0,2024,179
+4.0,7:24,,,BAL 35,30.0,16.0,"Justin Tucker kicks off 66 yards, returned by Derius Davis for 46 yards (tackle by Justin Tucker)",0.0,1.93,12.0,2024,179
+4.0,7:16,1.0,10.0,LAC 45,30.0,16.0,"Justin Herbert pass incomplete short right intended for Ladd McConkey. Penalty on Marlon Humphrey: Defensive Pass Interference, 15 yards (accepted) (no play)",1.93,2.92,12.0,2024,179
+4.0,7:10,1.0,10.0,BAL 40,30.0,16.0,Justin Herbert pass incomplete deep right intended for Josh Palmer,2.92,2.37,12.0,2024,179
+4.0,7:05,2.0,10.0,BAL 40,30.0,16.0,"Justin Herbert sacked by Kyle Van Noy for -8 yards. Justin Herbert fumbles (forced by Kyle Van Noy), recovered by Justin Herbert at BAL-48. Penalty on Rashawn Slater: Offensive Holding, 10 yards (declined)",2.37,0.63,12.0,2024,179
+4.0,6:49,3.0,18.0,BAL 48,30.0,16.0,Justin Herbert pass incomplete deep left intended for Josh Palmer,0.63,0.07,12.0,2024,179
+4.0,6:39,4.0,18.0,BAL 48,30.0,16.0,JK Scott punts 39 yards downed by Ja'Sir Taylor,0.07,0.38,12.0,2024,179
+4.0,6:31,1.0,10.0,BAL 9,30.0,16.0,Derrick Henry left end for 5 yards (tackle by Daiyan Henley and Bud Dupree),-0.38,-0.39,12.0,2024,179
+4.0,5:45,2.0,5.0,BAL 14,30.0,16.0,Derrick Henry left tackle for 4 yards (tackle by Kristian Fulton and Daiyan Henley),-0.39,-0.37,12.0,2024,179
+4.0,5:00,3.0,1.0,BAL 18,30.0,16.0,Derrick Henry right guard for 6 yards (tackle by Nick Niemann),-0.37,0.54,12.0,2024,179
+4.0,4:14,1.0,10.0,BAL 24,30.0,16.0,Derrick Henry right guard for 6 yards (tackle by Scott Matlock and Joey Bosa),0.54,0.81,12.0,2024,179
+4.0,3:30,2.0,4.0,BAL 30,30.0,16.0,"Justice Hill left guard for no gain (tackle by Daiyan Henley). Penalty on Tyler Linderbaum: Offensive Holding, 10 yards (accepted) (no play)",0.81,-0.54,12.0,2024,179
+4.0,3:23,2.0,14.0,BAL 20,30.0,16.0,Lamar Jackson up the middle for 1 yard (tackle by Nick Niemann),-0.54,-1.09,12.0,2024,179
+4.0,3:18,,,,,,Timeout #1 by Los Angeles Chargers,,,12.0,2024,179
+4.0,3:18,3.0,13.0,BAL 21,30.0,16.0,Justice Hill right guard for -2 yards (tackle by Joey Bosa),-1.09,-2.14,12.0,2024,179
+4.0,3:14,,,,,,Timeout #2 by Los Angeles Chargers,,,12.0,2024,179
+4.0,3:14,4.0,15.0,BAL 19,30.0,16.0,"Jordan Stout punts 44 yards, fair catch by Derius Davis at LAC-37",-2.14,-1.4,12.0,2024,179
+4.0,3:08,1.0,10.0,LAC 37,30.0,16.0,"Justin Herbert sacked by Odafe Oweh for no gain. Penalty on Odafe Oweh: Defensive Offside, 5 yards (accepted) (no play)",1.4,2.13,12.0,2024,179
+4.0,3:03,1.0,5.0,LAC 42,30.0,16.0,Justin Herbert pass incomplete short right intended for Quentin Johnston,2.13,1.53,12.0,2024,179
+4.0,2:58,2.0,5.0,LAC 42,30.0,16.0,Justin Herbert pass incomplete short left intended for Quentin Johnston (defended by Tre'Davious White),1.53,0.83,12.0,2024,179
+4.0,2:53,3.0,5.0,LAC 42,30.0,16.0,Justin Herbert sacked by Brandon Stephens for -4 yards,0.83,-0.85,12.0,2024,179
+4.0,2:13,4.0,9.0,LAC 38,30.0,16.0,Justin Herbert pass complete deep right to Ladd McConkey for 18 yards (tackle by Ar'Darius Washington),-0.85,2.65,12.0,2024,179
+4.0,2:00,1.0,10.0,BAL 44,30.0,16.0,Justin Herbert pass incomplete deep left intended for Josh Palmer (defended by Marlon Humphrey),2.65,2.11,12.0,2024,179
+4.0,1:55,2.0,10.0,BAL 44,30.0,16.0,"Justin Herbert scrambles left end for no gain (tackle by Marlon Humphrey). Penalty on Joe Alt: Offensive Holding, 10 yards (accepted) (no play)",2.11,0.76,12.0,2024,179
+4.0,1:44,2.0,20.0,LAC 46,30.0,16.0,Justin Herbert pass complete short left to Will Dissly for 9 yards (tackle by Tre'Davious White),0.76,1.29,12.0,2024,179
+4.0,1:38,,,,,,Timeout #1 by Baltimore Ravens,,,12.0,2024,179
+4.0,1:38,3.0,11.0,BAL 45,30.0,16.0,Justin Herbert pass complete short right to Ladd McConkey for 5 yards (tackle by Jalyn Armour-Davis),1.29,0.59,12.0,2024,179
+4.0,1:29,,,,,,Timeout #3 by Los Angeles Chargers,,,12.0,2024,179
+4.0,1:29,4.0,6.0,BAL 40,30.0,16.0,"Justin Herbert pass incomplete short right intended for Josh Palmer. Penalty on Marlon Humphrey: Defensive Pass Interference, 12 yards (accepted) (no play)",0.59,3.71,12.0,2024,179
+4.0,1:25,1.0,10.0,BAL 28,30.0,16.0,Justin Herbert scrambles left end for 12 yards (tackle by Tre'Davious White and Chris Board),3.71,4.51,12.0,2024,179
+4.0,1:04,1.0,10.0,BAL 16,30.0,16.0,Justin Herbert pass incomplete deep right intended for Josh Palmer (defended by Jalyn Armour-Davis),4.51,3.9,12.0,2024,179
+4.0,0:58,2.0,10.0,BAL 16,30.0,16.0,Justin Herbert pass incomplete short left intended for Quentin Johnston,3.9,3.08,12.0,2024,179
+4.0,0:54,3.0,10.0,BAL 16,30.0,16.0,"Justin Herbert pass incomplete deep right intended for Josh Palmer. Penalty on Jalyn Armour-Davis: Defensive Pass Interference, 15 yards (accepted) (no play)",3.08,6.97,12.0,2024,179
+4.0,0:50,1.0,1.0,BAL 1,30.0,22.0,"Gus Edwards left guard for 1 yard, touchdown",6.97,7.0,12.0,2024,179
+4.0,0:46,,,BAL 15,30.0,22.0,"Penalty on Cameron Dicker: Delay of Game, 5 yards (accepted) (no play)",0.0,0.0,12.0,2024,179
+4.0,0:46,,,BAL 20,30.0,23.0,Cameron Dicker kicks extra point good,0.0,0.0,12.0,2024,179
+4.0,0:46,,,LAC 35,30.0,23.0,"Cameron Dicker kicks onside 9 yards, returned by Isaiah Likely for no gain",0.0,2.65,12.0,2024,179
+4.0,0:45,1.0,10.0,LAC 44,30.0,23.0,Lamar Jackson kneels for -1 yards,2.65,1.98,12.0,2024,179
+4.0,0:19,2.0,11.0,LAC 45,30.0,23.0,Lamar Jackson kneels for -1 yards,1.98,1.16,12.0,2024,179

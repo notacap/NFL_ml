@@ -1,0 +1,154 @@
+Quarter,Time,Down,ToGo,Location,SFO,JAX,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"49ers won the coin toss and deferred, Jaguars to receive the opening kickoff.",,,10.0,2023,142
+1.0,15:00,,,SFO 35,0.0,0.0,"Jake Moody kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,142
+1.0,15:00,1.0,10.0,JAX 25,0.0,0.0,Trevor Lawrence pass incomplete short right,0.61,0.06,10.0,2023,142
+1.0,14:55,2.0,10.0,JAX 25,0.0,0.0,Trevor Lawrence pass complete short left to Tim Jones for 5 yards (tackle by Fred Warner),0.06,0.04,10.0,2023,142
+1.0,14:15,3.0,5.0,JAX 30,0.0,0.0,Trevor Lawrence sacked by and Arik Armstead for -6 yards and Javon Hargrave for -6 yards,0.04,-1.77,10.0,2023,142
+1.0,13:44,4.0,11.0,JAX 24,0.0,0.0,"Logan Cooke punts 41 yards, returned by Ray-Ray McCloud for 8 yards (tackle by Ross Matiscik)",-1.77,-1.8,10.0,2023,142
+1.0,13:39,1.0,10.0,SFO 43,0.0,0.0,Christian McCaffrey up the middle for 6 yards (tackle by Foyesade Oluokun and Rayshawn Jenkins),1.8,2.06,10.0,2023,142
+1.0,13:04,2.0,4.0,SFO 49,0.0,0.0,Brock Purdy pass complete short right to Christian McCaffrey for 9 yards (tackle by Rayshawn Jenkins),2.06,2.79,10.0,2023,142
+1.0,12:26,1.0,10.0,JAX 42,0.0,0.0,Brock Purdy pass complete short right to George Kittle for 29 yards (tackle by Rayshawn Jenkins),2.79,4.71,10.0,2023,142
+1.0,11:42,1.0,10.0,JAX 13,6.0,0.0,"Brock Purdy pass complete short middle to Brandon Aiyuk for 13 yards, touchdown",4.71,7.0,10.0,2023,142
+1.0,11:34,,,JAX 15,7.0,0.0,Jake Moody kicks extra point good,0.0,0.0,10.0,2023,142
+1.0,11:34,,,SFO 35,7.0,0.0,"Jake Moody kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,142
+1.0,11:34,1.0,10.0,JAX 25,7.0,0.0,Travis Etienne right end for no gain (tackle by Dre Greenlaw),0.61,0.06,10.0,2023,142
+1.0,10:50,2.0,10.0,JAX 25,7.0,0.0,"Penalty on Jamal Agnew: False Start, 5 yards (accepted) (no play)",0.06,-0.61,10.0,2023,142
+1.0,10:29,2.0,15.0,JAX 20,7.0,0.0,Trevor Lawrence pass complete short middle to Evan Engram for 5 yards (tackle by Talanoa Hufanga),-0.61,-0.62,10.0,2023,142
+1.0,9:44,3.0,10.0,JAX 25,7.0,0.0,Trevor Lawrence sacked by Javon Hargrave for -5 yards,-0.62,-2.03,10.0,2023,142
+1.0,9:15,4.0,15.0,JAX 20,7.0,0.0,"Logan Cooke punts 51 yards, returned by Ray-Ray McCloud for 9 yards (tackle by Chad Muma)",-2.03,-1.47,10.0,2023,142
+1.0,8:59,1.0,10.0,SFO 38,7.0,0.0,Brock Purdy pass complete deep middle to Brandon Aiyuk for 21 yards (tackle by Tyson Campbell),1.47,2.85,10.0,2023,142
+1.0,8:23,1.0,10.0,JAX 41,7.0,0.0,Christian McCaffrey right end for 9 yards (tackle by Roy Robertson-Harris and Rayshawn Jenkins),2.85,3.52,10.0,2023,142
+1.0,7:42,2.0,1.0,JAX 32,7.0,0.0,Christian McCaffrey up the middle for 3 yards (tackle by Josh Allen),3.52,3.64,10.0,2023,142
+1.0,7:00,1.0,10.0,JAX 29,7.0,0.0,Deebo Samuel left end for 2 yards (tackle by Foyesade Oluokun),3.64,3.37,10.0,2023,142
+1.0,6:27,2.0,8.0,JAX 27,7.0,0.0,Brock Purdy pass incomplete short left intended for George Kittle,3.37,2.68,10.0,2023,142
+1.0,6:22,3.0,8.0,JAX 27,7.0,0.0,Brock Purdy pass complete short right to Jauan Jennings for 8 yards (tackle by Tre Herndon),2.68,4.31,10.0,2023,142
+1.0,5:51,1.0,10.0,JAX 19,7.0,0.0,Brock Purdy pass complete short left to Deebo Samuel for 6 yards (tackle by Josh Allen),4.31,4.72,10.0,2023,142
+1.0,5:12,2.0,4.0,JAX 13,7.0,0.0,Brock Purdy pass incomplete short right intended for Christian McCaffrey,4.72,3.96,10.0,2023,142
+1.0,4:59,3.0,4.0,JAX 13,7.0,0.0,Brock Purdy sacked by Foyesade Oluokun for -8 yards,3.96,2.06,10.0,2023,142
+1.0,4:25,4.0,12.0,JAX 21,10.0,0.0,Jake Moody 39 yard field goal good,2.06,3.0,10.0,2023,142
+1.0,4:21,,,SFO 35,10.0,0.0,"Jake Moody kicks off 64 yards, returned by Jamal Agnew for 22 yards (tackle by Dee Winters and Jordan Mason)",0.0,0.48,10.0,2023,142
+1.0,4:16,1.0,10.0,JAX 23,10.0,0.0,Trevor Lawrence scrambles left guard for 3 yards (tackle by Javon Kinlaw),0.48,0.34,10.0,2023,142
+1.0,3:47,2.0,7.0,JAX 26,10.0,0.0,Travis Etienne up the middle for 3 yards (tackle by Dre Greenlaw and Talanoa Hufanga),0.34,0.04,10.0,2023,142
+1.0,3:04,3.0,4.0,JAX 29,10.0,0.0,Trevor Lawrence pass complete short middle to Tim Jones for 12 yards (tackle by Dre Greenlaw),0.04,1.66,10.0,2023,142
+1.0,2:28,1.0,10.0,JAX 41,10.0,0.0,Travis Etienne up the middle for 3 yards (tackle by Javon Hargrave and Fred Warner),1.66,1.53,10.0,2023,142
+1.0,1:52,2.0,7.0,JAX 44,10.0,0.0,Trevor Lawrence pass incomplete short right intended for Evan Engram (defended by Nick Bosa),1.53,0.83,10.0,2023,142
+1.0,1:45,3.0,7.0,JAX 44,10.0,0.0,Trevor Lawrence pass incomplete deep middle intended for Brenton Strange,0.83,-0.46,10.0,2023,142
+1.0,1:40,4.0,7.0,JAX 44,10.0,0.0,"Logan Cooke punts 56 yards, touchback.",-0.46,-0.28,10.0,2023,142
+1.0,1:31,1.0,10.0,SFO 20,10.0,0.0,"Brock Purdy pass complete short middle to Brandon Aiyuk for no gain (tackle by Tyson Campbell and Andrew Wingard). Penalty on Brandon Aiyuk: Offensive Pass Interference, 10 yards (accepted) (no play)",0.28,-0.76,10.0,2023,142
+1.0,1:02,1.0,20.0,SFO 10,10.0,0.0,Brock Purdy pass incomplete short right intended for Jauan Jennings (defended by Folorunso Fatukasi),-0.76,-1.51,10.0,2023,142
+1.0,0:59,2.0,20.0,SFO 10,10.0,0.0,Christian McCaffrey up the middle for 4 yards (tackle by Foyesade Oluokun),-1.51,-2.03,10.0,2023,142
+1.0,0:18,3.0,16.0,SFO 14,10.0,0.0,Brock Purdy pass complete short left to Deebo Samuel for 9 yards (tackle by Dawuane Smoot),-2.03,-1.83,10.0,2023,142
+2.0,15:00,4.0,7.0,SFO 23,10.0,0.0,"Mitch Wishnowsky punts 49 yards, returned by Christian Kirk for 15 yards (tackle by Jordan Mason)",-1.83,-1.8,10.0,2023,142
+2.0,14:50,1.0,10.0,JAX 43,10.0,0.0,Travis Etienne left guard for no gain (tackle by Fred Warner and Deommodore Lenoir),1.8,1.25,10.0,2023,142
+2.0,14:14,2.0,10.0,JAX 43,10.0,0.0,Travis Etienne right end for 16 yards (tackle by Talanoa Hufanga),1.25,2.85,10.0,2023,142
+2.0,13:34,1.0,10.0,SFO 41,10.0,0.0,Christian Kirk pass incomplete deep right intended for Travis Etienne,2.85,2.31,10.0,2023,142
+2.0,13:24,2.0,10.0,SFO 41,10.0,0.0,"Penalty on JAX: Delay of Game, 5 yards (accepted) (no play)",2.31,1.63,10.0,2023,142
+2.0,13:24,2.0,15.0,SFO 46,10.0,0.0,"Trevor Lawrence sacked by and Nick Bosa for -3 yards and Chase Young for -3 yards. Trevor Lawrence fumbles (forced by Nick Bosa), recovered by Nick Bosa at SF-49 and returned for -3 yards",1.63,-2.19,10.0,2023,142
+2.0,13:22,1.0,10.0,SFO 49,10.0,0.0,Deebo Samuel right end for 4 yards (tackle by K'Lavon Chaisson),2.19,2.19,10.0,2023,142
+2.0,12:43,2.0,6.0,JAX 47,10.0,0.0,Brock Purdy pass incomplete short right intended for Kyle Juszczyk (defended by Rayshawn Jenkins),2.19,1.49,10.0,2023,142
+2.0,12:37,3.0,6.0,JAX 47,10.0,0.0,"Brock Purdy pass complete short left to Deebo Samuel for no gain (tackle by Andre Cisco). Penalty on Trent Williams: Offensive Holding, 10 yards (accepted) (no play)",1.49,0.17,10.0,2023,142
+2.0,12:14,3.0,16.0,SFO 43,10.0,0.0,Brock Purdy pass incomplete short right intended for Christian McCaffrey (defended by Travon Walker),0.17,-0.52,10.0,2023,142
+2.0,12:08,4.0,16.0,SFO 43,10.0,0.0,Mitch Wishnowsky punts 56 yards downed by Shemar Jean-Charles,-0.52,0.38,10.0,2023,142
+2.0,11:56,1.0,10.0,JAX 1,10.0,0.0,Travis Etienne up the middle for 3 yards (tackle by Talanoa Hufanga),-0.38,-0.56,10.0,2023,142
+2.0,11:21,2.0,7.0,JAX 4,10.0,0.0,Trevor Lawrence pass complete short left to Christian Kirk for 15 yards (tackle by Dre Greenlaw),-0.56,0.15,10.0,2023,142
+2.0,10:37,1.0,10.0,JAX 19,10.0,0.0,"D'Ernest Johnson left end for 5 yards (tackle by Tashaun Gipson and Dre Greenlaw). Penalty on Walker Little: Offensive Holding, 10 yards (accepted)",0.15,-0.39,10.0,2023,142
+2.0,10:27,1.0,15.0,JAX 14,10.0,0.0,Trevor Lawrence pass complete short right to D'Ernest Johnson for 15 yards (tackle by Dre Greenlaw and Deommodore Lenoir),-0.39,0.87,10.0,2023,142
+2.0,9:58,1.0,10.0,JAX 29,10.0,0.0,D'Ernest Johnson up the middle for 2 yards (tackle by Arik Armstead),0.87,0.6,10.0,2023,142
+2.0,9:18,2.0,8.0,JAX 31,10.0,0.0,Trevor Lawrence pass complete short left to D'Ernest Johnson for 13 yards (tackle by Ambry Thomas),0.6,1.86,10.0,2023,142
+2.0,8:20,1.0,10.0,JAX 44,10.0,0.0,Trevor Lawrence pass complete short right to Christian Kirk for 5 yards (tackle by Fred Warner),1.86,1.99,10.0,2023,142
+2.0,8:11,2.0,5.0,JAX 49,10.0,0.0,Tank Bigsby up the middle for 3 yards (tackle by Fred Warner),1.99,1.69,10.0,2023,142
+2.0,7:23,3.0,2.0,SFO 48,10.0,0.0,Trevor Lawrence pass complete short left to Christian Kirk for 17 yards (tackle by Deommodore Lenoir),1.69,3.51,10.0,2023,142
+2.0,6:47,1.0,10.0,SFO 31,10.0,0.0,Tank Bigsby up the middle for 1 yard (tackle by Arik Armstead),3.51,3.1,10.0,2023,142
+2.0,6:04,2.0,9.0,SFO 30,10.0,0.0,"Trevor Lawrence pass complete short left to Tank Bigsby for no gain (tackle by Dre Greenlaw). Penalty on Charvarius Ward: Illegal Contact, 5 yards (accepted) (no play)",3.1,3.91,10.0,2023,142
+2.0,5:42,1.0,10.0,SFO 25,10.0,0.0,Trevor Lawrence pass complete short right to Evan Engram for 6 yards (tackle by Charvarius Ward),3.91,4.2,10.0,2023,142
+2.0,5:09,2.0,4.0,SFO 19,10.0,0.0,Travis Etienne up the middle for no gain (tackle by Deommodore Lenoir),4.2,3.49,10.0,2023,142
+2.0,4:31,3.0,4.0,SFO 19,10.0,0.0,Trevor Lawrence pass incomplete deep right intended for Christian Kirk (defended by Charvarius Ward),3.49,2.26,10.0,2023,142
+2.0,4:24,4.0,4.0,SFO 19,10.0,3.0,Brandon McManus 37 yard field goal good,2.26,3.0,10.0,2023,142
+2.0,4:20,,,JAX 35,10.0,3.0,"Brandon McManus kicks off 63 yards, returned by Ray-Ray McCloud for 20 yards (tackle by Andrew Wingard and Antonio Johnson)",0.0,0.41,10.0,2023,142
+2.0,4:11,1.0,10.0,SFO 22,10.0,3.0,Brock Purdy pass complete short right to Kyle Juszczyk for 4 yards (tackle by Andrew Wingard),0.41,0.41,10.0,2023,142
+2.0,3:36,2.0,6.0,SFO 26,10.0,3.0,Christian McCaffrey left end for 12 yards (tackle by Foyesade Oluokun),0.41,1.47,10.0,2023,142
+2.0,3:02,1.0,10.0,SFO 38,10.0,3.0,Brock Purdy pass complete short left to Christian McCaffrey for 17 yards (tackle by Andre Cisco and Andrew Wingard),1.47,2.59,10.0,2023,142
+2.0,2:18,1.0,10.0,JAX 45,10.0,3.0,Christian McCaffrey right guard for 5 yards (tackle by Dawuane Smoot),2.59,2.72,10.0,2023,142
+2.0,2:00,2.0,5.0,JAX 40,10.0,3.0,Elijah Mitchell right end for 3 yards (tackle by Adam Gotsis),2.72,2.41,10.0,2023,142
+2.0,1:15,,,,,,Timeout #1 by San Francisco 49ers,,,10.0,2023,142
+2.0,1:15,3.0,2.0,JAX 37,10.0,3.0,Christian McCaffrey left guard for 2 yards (tackle by Devin Lloyd and Tyson Campbell),2.41,3.25,10.0,2023,142
+2.0,0:54,,,,,,Timeout #1 by Jacksonville Jaguars,,,10.0,2023,142
+2.0,0:54,1.0,10.0,JAX 35,10.0,3.0,"Brock Purdy pass complete short left to Christian McCaffrey for 8 yards (tackle by Devin Lloyd). Penalty on Devin Lloyd: Face Mask (15 Yards), 14 yards (accepted)",3.25,4.71,10.0,2023,142
+2.0,0:41,1.0,10.0,JAX 13,10.0,3.0,Christian McCaffrey right end for 2 yards (tackle by Tre Herndon),4.71,4.39,10.0,2023,142
+2.0,0:30,,,,,,Timeout #2 by San Francisco 49ers,,,10.0,2023,142
+2.0,0:30,2.0,8.0,JAX 11,10.0,3.0,"Brock Purdy pass incomplete short right. Penalty on Brock Purdy: Intentional Grounding, 12 yards (accepted) Replay Assistant challenged the runner was down by contact ruling, and the play was upheld.",4.39,2.15,10.0,2023,142
+2.0,0:16,3.0,20.0,JAX 23,10.0,3.0,Brock Purdy pass complete short right to Christian McCaffrey for 6 yards (tackle by Tyson Campbell and Andre Cisco),2.15,2.31,10.0,2023,142
+2.0,0:03,,,,,,Timeout #3 by San Francisco 49ers,,,10.0,2023,142
+2.0,0:03,,,,,,Timeout #2 by Jacksonville Jaguars,,,10.0,2023,142
+2.0,0:03,4.0,14.0,JAX 17,13.0,3.0,Jake Moody 35 yard field goal good,2.31,3.0,10.0,2023,142
+3.0,15:00,,,JAX 35,13.0,3.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,142
+3.0,15:00,1.0,10.0,SFO 25,13.0,3.0,Brock Purdy pass complete short right to Deebo Samuel for 9 yards,0.61,1.28,10.0,2023,142
+3.0,14:21,2.0,1.0,SFO 34,19.0,3.0,"Brock Purdy pass complete deep right to George Kittle for 66 yards, touchdown",1.28,7.0,10.0,2023,142
+3.0,14:10,,,JAX 15,20.0,3.0,Jake Moody kicks extra point good,0.0,0.0,10.0,2023,142
+3.0,14:10,,,SFO 35,20.0,3.0,"Jake Moody kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,142
+3.0,14:10,1.0,10.0,JAX 25,20.0,3.0,Trevor Lawrence sacked by Clelin Ferrell for -5 yards,0.61,-0.61,10.0,2023,142
+3.0,13:28,2.0,15.0,JAX 20,20.0,3.0,Trevor Lawrence pass complete short left to Calvin Ridley for 11 yards (tackle by Ambry Thomas),-0.61,0.17,10.0,2023,142
+3.0,12:47,3.0,4.0,JAX 31,20.0,3.0,Trevor Lawrence pass complete deep right to Christian Kirk for 26 yards (tackle by Talanoa Hufanga),0.17,2.72,10.0,2023,142
+3.0,12:19,1.0,10.0,SFO 43,20.0,3.0,Trevor Lawrence scrambles left end for 4 yards (tackle by Talanoa Hufanga),2.72,2.72,10.0,2023,142
+3.0,11:36,2.0,6.0,SFO 39,20.0,3.0,D'Ernest Johnson left guard for 5 yards (tackle by Nick Bosa and Ji'Ayir Brown),2.72,2.68,10.0,2023,142
+3.0,10:51,3.0,1.0,SFO 34,20.0,3.0,Trevor Lawrence pass short left intended for Tank Bigsby is intercepted by Talanoa Hufanga at SF-31 and returned for 12 yards (tackle by Trevor Lawrence),2.68,-1.8,10.0,2023,142
+3.0,10:37,1.0,10.0,SFO 43,20.0,3.0,Christian McCaffrey up the middle for 1 yard (tackle by Devin Lloyd and Adam Gotsis),1.8,1.39,10.0,2023,142
+3.0,10:00,2.0,9.0,SFO 44,20.0,3.0,Brock Purdy pass complete short right to Deebo Samuel for 6 yards (tackle by Gregory Junior),1.39,1.49,10.0,2023,142
+3.0,9:23,3.0,3.0,JAX 50,20.0,3.0,Brock Purdy sacked by Foyesade Oluokun for -1 yards,1.49,-0.13,10.0,2023,142
+3.0,8:36,4.0,4.0,SFO 49,20.0,3.0,"Mitch Wishnowsky punts 36 yards, fair catch by Christian Kirk at JAC-15",-0.13,0.22,10.0,2023,142
+3.0,8:29,1.0,10.0,JAX 15,20.0,3.0,Trevor Lawrence pass complete short left to Calvin Ridley for 9 yards (tackle by Deommodore Lenoir),-0.22,0.62,10.0,2023,142
+3.0,7:50,2.0,1.0,JAX 24,20.0,3.0,Trevor Lawrence pass incomplete deep left intended for Christian Kirk,0.62,-0.27,10.0,2023,142
+3.0,7:42,3.0,1.0,JAX 24,20.0,3.0,Travis Etienne up the middle for 8 yards (tackle by Talanoa Hufanga and Deommodore Lenoir),-0.27,1.07,10.0,2023,142
+3.0,7:08,1.0,10.0,JAX 32,20.0,3.0,Trevor Lawrence pass incomplete short left intended for Travis Etienne,1.07,0.53,10.0,2023,142
+3.0,7:01,2.0,10.0,JAX 32,20.0,3.0,Trevor Lawrence pass complete short right to Travis Etienne for 5 yards (tackle by Charvarius Ward and Fred Warner),0.53,0.5,10.0,2023,142
+3.0,6:19,3.0,5.0,JAX 37,20.0,3.0,"Trevor Lawrence pass incomplete short right intended for Calvin Ridley. Penalty on Nick Bosa: Roughing the Passer, 15 yards (accepted) (no play)",0.5,2.39,10.0,2023,142
+3.0,6:13,1.0,10.0,SFO 48,20.0,3.0,"Trevor Lawrence pass complete deep left to Christian Kirk for 39 yards (tackle by Deommodore Lenoir) SFO challenged the pass completion ruling, and the play was upheld.",2.39,5.14,10.0,2023,142
+3.0,5:47,1.0,9.0,SFO 9,20.0,3.0,Trevor Lawrence pass incomplete short left intended for Calvin Ridley,5.14,4.38,10.0,2023,142
+3.0,5:30,2.0,9.0,SFO 9,20.0,3.0,"Trevor Lawrence pass complete short left to Christian Kirk for 2 yards. Christian Kirk fumbles (forced by Ambry Thomas), recovered by Ambry Thomas at SF-8 and returned for 26 yards",4.38,-0.15,10.0,2023,142
+3.0,5:17,1.0,10.0,SFO 19,20.0,3.0,Brock Purdy pass complete short left to Christian McCaffrey for 1 yard (tackle by Devin Lloyd),0.15,-0.2,10.0,2023,142
+3.0,4:31,2.0,9.0,SFO 20,20.0,3.0,Brock Purdy pass incomplete short left intended for Christian McCaffrey,-0.2,-0.94,10.0,2023,142
+3.0,4:20,3.0,9.0,SFO 20,20.0,3.0,Brock Purdy pass complete deep right to Brandon Aiyuk for 21 yards (tackle by Tre Herndon),-0.94,1.66,10.0,2023,142
+3.0,3:43,1.0,10.0,SFO 41,20.0,3.0,Christian McCaffrey up the middle for 1 yard (tackle by DaVon Hamilton and Devin Lloyd),1.66,1.26,10.0,2023,142
+3.0,2:59,2.0,9.0,SFO 42,20.0,3.0,Brock Purdy pass complete deep left to George Kittle for 21 yards (tackle by Andre Cisco),1.26,3.12,10.0,2023,142
+3.0,2:17,1.0,10.0,JAX 37,20.0,3.0,Christian McCaffrey right guard for 14 yards (tackle by Gregory Junior and Tre Herndon),3.12,4.04,10.0,2023,142
+3.0,1:29,1.0,10.0,JAX 23,26.0,3.0,"Deebo Samuel for 23 yards, touchdown",4.04,7.0,10.0,2023,142
+3.0,1:20,,,JAX 15,27.0,3.0,Jake Moody kicks extra point good,0.0,0.0,10.0,2023,142
+3.0,1:20,,,SFO 35,27.0,3.0,"Jake Moody kicks off 64 yards, returned by D'Ernest Johnson for 22 yards (tackle by Talanoa Hufanga and Shemar Jean-Charles)",0.0,0.48,10.0,2023,142
+3.0,1:14,1.0,10.0,JAX 23,27.0,3.0,Travis Etienne up the middle for 2 yards (tackle by Javon Hargrave and Fred Warner),0.48,0.2,10.0,2023,142
+3.0,0:39,2.0,8.0,JAX 25,27.0,3.0,"Trevor Lawrence pass incomplete deep left intended for Calvin Ridley. Penalty on Ambry Thomas: Defensive Pass Interference, 23 yards (accepted) (no play)",0.2,2.13,10.0,2023,142
+3.0,0:34,1.0,10.0,JAX 48,27.0,3.0,Trevor Lawrence pass incomplete short left intended for Evan Engram,2.13,1.58,10.0,2023,142
+3.0,0:28,2.0,10.0,JAX 48,27.0,3.0,Trevor Lawrence sacked by Nick Bosa for -9 yards,1.58,-0.29,10.0,2023,142
+4.0,15:00,3.0,19.0,JAX 39,27.0,3.0,Trevor Lawrence pass complete short right to Travis Etienne for 4 yards (tackle by Dre Greenlaw),-0.29,-0.52,10.0,2023,142
+4.0,14:17,4.0,15.0,JAX 43,27.0,3.0,Trevor Lawrence pass deep left intended for Christian Kirk is intercepted by Fred Warner at SF-38 and returned for 22 yards (tackle by Travis Etienne),-0.52,-2.92,10.0,2023,142
+4.0,14:12,1.0,10.0,JAX 40,27.0,3.0,Christian McCaffrey left end for 15 yards (tackle by Andre Cisco and Andrew Wingard),2.92,3.91,10.0,2023,142
+4.0,13:29,1.0,10.0,JAX 25,27.0,3.0,Christian McCaffrey right guard for 3 yards (tackle by Devin Lloyd),3.91,3.77,10.0,2023,142
+4.0,12:48,2.0,7.0,JAX 22,33.0,3.0,"Brock Purdy pass complete deep middle to Kyle Juszczyk for 22 yards, touchdown",3.77,7.0,10.0,2023,142
+4.0,12:40,,,JAX 15,34.0,3.0,Jake Moody kicks extra point good,0.0,0.0,10.0,2023,142
+4.0,12:40,,,SFO 35,34.0,3.0,"Jake Moody kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,142
+4.0,12:40,1.0,10.0,JAX 25,34.0,3.0,Trevor Lawrence pass incomplete deep left intended for Christian Kirk (defended by Tashaun Gipson),0.61,0.06,10.0,2023,142
+4.0,12:34,2.0,10.0,JAX 25,34.0,3.0,Trevor Lawrence pass incomplete short middle intended for Christian Kirk (defended by Javon Kinlaw),0.06,-0.62,10.0,2023,142
+4.0,12:30,3.0,10.0,JAX 25,34.0,3.0,"Penalty on Walker Little: False Start, 5 yards (accepted) (no play)",-0.62,-1.29,10.0,2023,142
+4.0,12:30,3.0,15.0,JAX 20,34.0,3.0,Trevor Lawrence pass complete short right to Evan Engram for -4 yards (tackle by Dre Greenlaw),-1.29,-2.39,10.0,2023,142
+4.0,11:52,4.0,19.0,JAX 16,34.0,3.0,"Logan Cooke punts 58 yards, returned by Ray-Ray McCloud for 5 yards (tackle by Chad Muma)",-2.39,-1.0,10.0,2023,142
+4.0,11:47,1.0,10.0,SFO 31,34.0,3.0,Elijah Mitchell left end for 4 yards (tackle by Rayshawn Jenkins),1.0,1.0,10.0,2023,142
+4.0,11:08,2.0,6.0,SFO 35,34.0,3.0,Elijah Mitchell up the middle for no gain (tackle by Devin Lloyd and Andrew Wingard),1.0,0.3,10.0,2023,142
+4.0,10:25,3.0,6.0,SFO 35,34.0,3.0,Brock Purdy pass complete deep middle to Ronnie Bell for 20 yards (tackle by Andrew Wingard),0.3,2.59,10.0,2023,142
+4.0,9:43,1.0,10.0,JAX 45,34.0,3.0,Elijah Mitchell up the middle for 3 yards (tackle by Tyler Lacy and Foyesade Oluokun),2.59,2.45,10.0,2023,142
+4.0,9:00,2.0,7.0,JAX 42,34.0,3.0,Elijah Mitchell left end for 8 yards (tackle by Foyesade Oluokun and Andrew Wingard),2.45,3.31,10.0,2023,142
+4.0,8:16,1.0,10.0,JAX 34,34.0,3.0,Elijah Mitchell right guard for 4 yards (tackle by Jeremiah Ledbetter and Tyler Lacy),3.31,3.31,10.0,2023,142
+4.0,7:30,2.0,6.0,JAX 30,34.0,3.0,Elijah Mitchell right end for no gain (tackle by Jeremiah Ledbetter and Tyler Lacy),3.31,2.61,10.0,2023,142
+4.0,6:51,3.0,6.0,JAX 30,34.0,3.0,Elijah Mitchell left end for 1 yard (tackle by Devin Lloyd),2.61,1.54,10.0,2023,142
+4.0,5:59,,,,,,Timeout #2 by San Francisco 49ers,,,10.0,2023,142
+4.0,5:59,4.0,5.0,JAX 29,34.0,3.0,Christian McCaffrey right end for 19 yards (tackle by Devin Lloyd),1.54,4.91,10.0,2023,142
+4.0,5:17,,,,,,Timeout #3 by San Francisco 49ers,,,10.0,2023,142
+4.0,5:17,1.0,10.0,JAX 10,34.0,3.0,Christian McCaffrey left end for 1 yard (tackle by Folorunso Fatukasi and Adam Gotsis),4.91,4.38,10.0,2023,142
+4.0,4:32,2.0,9.0,JAX 9,34.0,3.0,Sam Darnold pass complete short right to Christian McCaffrey for 6 yards (tackle by Devin Lloyd and Josh Allen),4.38,4.72,10.0,2023,142
+4.0,3:47,3.0,3.0,JAX 3,34.0,3.0,Christian McCaffrey left guard for -2 yards (tackle by Foyesade Oluokun),4.72,3.01,10.0,2023,142
+4.0,3:01,4.0,5.0,JAX 5,34.0,3.0,Sam Darnold pass incomplete short right intended for Christian McCaffrey (defended by Darious Williams),3.01,0.38,10.0,2023,142
+4.0,2:56,1.0,10.0,JAX 5,34.0,3.0,Tank Bigsby right guard for 1 yard (tackle by Shemar Jean-Charles),-0.38,-0.71,10.0,2023,142
+4.0,2:22,2.0,9.0,JAX 6,34.0,3.0,C.J. Beathard pass complete short middle to Evan Engram for 5 yards (tackle by Curtis Robinson),-0.71,-0.72,10.0,2023,142
+4.0,2:00,3.0,4.0,JAX 11,34.0,3.0,C.J. Beathard pass incomplete short middle intended for Evan Engram,-0.72,-2.49,10.0,2023,142
+4.0,1:54,4.0,4.0,JAX 11,34.0,3.0,"Logan Cooke punts 62 yards, returned by Ronnie Bell for 8 yards (tackle by Antonio Johnson)",-2.49,-1.27,10.0,2023,142
+4.0,1:43,1.0,10.0,SFO 35,34.0,3.0,Sam Darnold kneels for -1 yards,1.27,0.59,10.0,2023,142
+4.0,1:08,2.0,11.0,SFO 34,34.0,3.0,Sam Darnold kneels for -1 yards,0.59,-0.23,10.0,2023,142
+4.0,0:39,3.0,12.0,SFO 33,34.0,3.0,Sam Darnold kneels for -1 yards,-0.23,-1.24,10.0,2023,142

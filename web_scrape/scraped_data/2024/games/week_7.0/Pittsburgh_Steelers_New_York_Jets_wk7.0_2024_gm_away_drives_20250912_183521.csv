@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,11:33,NYJ 22,3,1:50,-5,Punt,0,Jets,7.0,2024,105
+2,1,8:08,NYJ 18,9,5:41,82,Touchdown,0,Jets,7.0,2024,105
+3,1,1:38,NYJ 21,3,1:01,-1,Punt,0,Jets,7.0,2024,105
+4,2,14:45,NYJ 13,3,2:00,9,Punt,0,Jets,7.0,2024,105
+5,2,8:20,NYJ 28,6,2:51,72,Touchdown,0,Jets,7.0,2024,105
+6,2,3:10,NYJ 7,4,1:55,29,Interception,0,Jets,7.0,2024,105
+7,2,0:27,NYJ 22,1,0:27,-4,End of Half,0,Jets,7.0,2024,105
+8,3,15:00,NYJ 30,4,2:19,21,Punt,0,Jets,7.0,2024,105
+9,3,7:49,NYJ 23,2,0:27,0,Interception,0,Jets,7.0,2024,105
+10,3,7:15,NYJ 26,11,4:38,57,Missed FG,0,Jets,7.0,2024,105
+11,4,12:09,NYJ 30,9,4:16,45,Downs,0,Jets,7.0,2024,105
+12,4,0:26,NYJ 30,1,0:26,12,End of Game,0,Jets,7.0,2024,105

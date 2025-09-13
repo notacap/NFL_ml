@@ -1,0 +1,16 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,13:41,CLE 10,7,3:25,61,Missed FG,0,Browns,13.0,2024,195
+2,1,4:13,CLE 30,5,3:04,70,Touchdown,0,Browns,13.0,2024,195
+3,1,0:48,CLE 12,5,1:46,11,Punt,0,Browns,13.0,2024,195
+4,2,12:32,CLE 31,9,3:43,42,Field Goal,0,Browns,13.0,2024,195
+5,2,8:09,CLE 11,3,1:02,3,Punt,0,Browns,13.0,2024,195
+6,2,4:03,CLE 30,7,2:25,41,Interception,0,Browns,13.0,2024,195
+7,2,1:38,CLE 30,11,1:25,70,Touchdown,0,Browns,13.0,2024,195
+8,3,15:00,CLE 30,4,1:23,19,Punt,0,Browns,13.0,2024,195
+9,3,11:59,CLE 24,3,1:25,5,Punt,0,Browns,13.0,2024,195
+10,3,10:01,CLE 30,1,0:11,70,Touchdown,0,Browns,13.0,2024,195
+11,3,8:13,CLE 29,4,2:15,19,Punt,0,Browns,13.0,2024,195
+12,3,1:52,CLE 30,7,4:12,10,Punt,0,Browns,13.0,2024,195
+13,4,12:31,CLE 28,9,3:34,72,Touchdown,0,Browns,13.0,2024,195
+14,4,2:54,CLE 30,4,1:06,12,Interception,0,Browns,13.0,2024,195
+15,4,1:48,CLE 25,7,1:14,73,Interception,0,Browns,13.0,2024,195

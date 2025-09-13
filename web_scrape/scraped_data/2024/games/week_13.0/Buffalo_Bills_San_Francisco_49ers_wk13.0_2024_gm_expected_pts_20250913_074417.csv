@@ -1,0 +1,4 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Offense,Offense,Offense,Offense,Defense,Defense,Defense,Defense,Special Teams,Special Teams,Special Teams,Special Teams,Special Teams,Special Teams,week,year,game_id
+Tm,Total,Tot,Pass,Rush,TOvr,Tot,Pass,Rush,TOvr,Tot,KO,KR,P,PR,FG/XP,,,
+Bills,25.0,19.2,10.75,9.18,0.0,5.31,3.1,2.68,11.07,-0.58,-3.96,2.09,0.71,-0.12,0.7,13.0,2024,194
+49ers,-25.0,-5.31,-3.1,-2.68,-11.07,-19.2,-10.75,-9.18,0.0,0.58,-2.09,3.96,0.12,-0.71,-0.7,13.0,2024,194

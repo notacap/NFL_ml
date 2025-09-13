@@ -1,0 +1,162 @@
+Quarter,Time,Down,ToGo,Location,NWE,BUF,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Bills won the coin toss and deferred, Patriots to receive the opening kickoff.",,,17.0,2023,244
+1.0,15:00,,,BUF 35,6.0,0.0,"Tyler Bass kicks off 63 yards, returned by Jalen Reagor for 98 yards, touchdown",0.0,7.0,17.0,2023,244
+1.0,14:48,,,BUF 15,7.0,0.0,Chad Ryland kicks extra point good,0.0,0.0,17.0,2023,244
+1.0,14:48,,,NWE 35,7.0,0.0,"Chad Ryland kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,244
+1.0,14:48,1.0,10.0,BUF 25,7.0,0.0,"Josh Allen sacked by Deatrich Wise for -15 yards. Josh Allen fumbles (forced by Deatrich Wise), recovered by Connor McGovern at BUF-10 (tackle by Deatrich Wise)",0.61,-1.88,17.0,2023,244
+1.0,14:02,2.0,25.0,BUF 10,7.0,0.0,Josh Allen scrambles right tackle for 19 yards (tackle by Myles Bryant),-1.88,-0.1,17.0,2023,244
+1.0,13:23,3.0,6.0,BUF 29,7.0,0.0,Josh Allen pass incomplete deep right intended for Dalton Kincaid,-0.1,-1.44,17.0,2023,244
+1.0,13:14,4.0,6.0,BUF 29,7.0,0.0,"Sam Martin punts 53 yards, fair catch by Myles Bryant at NE-18",-1.44,-0.04,17.0,2023,244
+1.0,13:06,1.0,10.0,NWE 18,7.0,0.0,"Bailey Zappe pass short left (defended by Rasul Douglas) intended for Mike Gesicki is intercepted by Ed Oliver at NE-21 and returned for no gain Replay Assistant challenged the pass interception ruling, and the play was upheld.",0.04,-4.17,17.0,2023,244
+1.0,13:00,1.0,10.0,NWE 21,7.0,0.0,James Cook left guard for 4 yards (tackle by Christian Barmore),4.17,4.2,17.0,2023,244
+1.0,12:20,2.0,6.0,NWE 17,7.0,0.0,Josh Allen pass incomplete deep left intended for Stefon Diggs,4.2,3.46,17.0,2023,244
+1.0,12:14,3.0,6.0,NWE 17,7.0,0.0,Josh Allen pass incomplete short right intended for James Cook,3.46,2.34,17.0,2023,244
+1.0,12:10,4.0,6.0,NWE 17,7.0,3.0,Tyler Bass 35 yard field goal good,2.34,3.0,17.0,2023,244
+1.0,12:07,,,BUF 35,7.0,3.0,"Tyler Bass kicks off 65 yards, returned by Jalen Reagor for 22 yards (tackle by Tyler Matakevich)",0.0,0.41,17.0,2023,244
+1.0,12:02,1.0,10.0,NWE 22,7.0,3.0,Ezekiel Elliott left guard for 1 yard (tackle by Gregory Rousseau and DaQuan Jones),0.41,0.0,17.0,2023,244
+1.0,11:18,2.0,9.0,NWE 23,7.0,3.0,Ezekiel Elliott up the middle for 4 yards (tackle by Terrel Bernard),0.0,-0.16,17.0,2023,244
+1.0,10:37,3.0,5.0,NWE 27,7.0,3.0,Bailey Zappe pass incomplete short left intended for Mike Gesicki,-0.16,-1.57,17.0,2023,244
+1.0,10:32,4.0,5.0,NWE 27,7.0,3.0,"Bryce Baringer punts 57 yards, returned by Deonte Harty for 11 yards (tackle by Matthew Slater and Cody Davis)",-1.57,-0.74,17.0,2023,244
+1.0,10:20,1.0,10.0,BUF 27,7.0,3.0,James Cook right tackle for 6 yards (tackle by Myles Bryant and Jahlani Tavai),0.74,1.01,17.0,2023,244
+1.0,9:44,2.0,4.0,BUF 33,7.0,3.0,James Cook right guard for 5 yards (tackle by Josh Uche and Jahlani Tavai),1.01,1.47,17.0,2023,244
+1.0,9:08,1.0,10.0,BUF 38,7.0,3.0,Josh Allen pass incomplete short left,1.47,0.92,17.0,2023,244
+1.0,9:01,2.0,10.0,BUF 38,7.0,3.0,Josh Allen pass incomplete deep middle intended for Stefon Diggs (defended by Kyle Dugger),0.92,0.23,17.0,2023,244
+1.0,8:55,3.0,10.0,BUF 38,7.0,3.0,Josh Allen pass incomplete short left intended for Trent Sherfield,0.23,-0.85,17.0,2023,244
+1.0,8:51,4.0,10.0,BUF 38,7.0,3.0,"Sam Martin punts 48 yards, returned by Myles Bryant for 2 yards",-0.85,0.14,17.0,2023,244
+1.0,8:41,1.0,10.0,NWE 16,7.0,3.0,Bailey Zappe pass short left intended for DeVante Parker is intercepted by Rasul Douglas at NE-24 and returned for 10 yards (tackle by Pharaoh Brown),-0.14,-4.65,17.0,2023,244
+1.0,8:34,1.0,10.0,NWE 14,7.0,3.0,James Cook left end for 6 yards (tackle by Alex Austin),4.65,5.09,17.0,2023,244
+1.0,7:54,2.0,4.0,NWE 8,7.0,3.0,Stefon Diggs right tackle for 5 yards (tackle by Ja'Whaun Bentley and Deatrich Wise),5.09,6.51,17.0,2023,244
+1.0,7:14,1.0,3.0,NWE 3,7.0,3.0,Josh Allen up the middle for 2 yards (tackle by Jalen Mills and Christian Barmore),6.51,5.91,17.0,2023,244
+1.0,6:40,2.0,1.0,NWE 1,7.0,9.0,"Josh Allen left guard for 1 yard, touchdown",5.91,7.0,17.0,2023,244
+1.0,6:37,,,NWE 15,7.0,10.0,Tyler Bass kicks extra point good,0.0,0.0,17.0,2023,244
+1.0,6:37,,,BUF 35,7.0,10.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,244
+1.0,6:37,1.0,10.0,NWE 25,7.0,10.0,Ezekiel Elliott right guard for no gain (tackle by Kingsley Jonathan),0.61,0.06,17.0,2023,244
+1.0,5:57,2.0,10.0,NWE 25,7.0,10.0,"Bailey Zappe pass complete short left to Pharaoh Brown for 5 yards. Pharaoh Brown fumbles (forced by Christian Benford), recovered by Christian Benford at NE-30 (tackle by Pharaoh Brown)",0.06,-3.58,17.0,2023,244
+1.0,5:51,1.0,10.0,NWE 30,7.0,10.0,James Cook right tackle for 5 yards (tackle by Ja'Whaun Bentley),3.58,3.71,17.0,2023,244
+1.0,5:12,2.0,5.0,NWE 25,7.0,10.0,Josh Allen scrambles left tackle for 7 yards (tackle by Ja'Whaun Bentley),3.71,4.37,17.0,2023,244
+1.0,4:29,1.0,10.0,NWE 18,7.0,10.0,"Josh Allen right guard for -1 yards, lateral to Khalil Shakir for 11 yards (tackle by Myles Bryant)",4.37,5.37,17.0,2023,244
+1.0,3:43,1.0,8.0,NWE 8,7.0,10.0,Josh Allen right tackle for 1 yard (tackle by Anfernee Jennings),5.37,4.76,17.0,2023,244
+1.0,3:09,2.0,7.0,NWE 7,7.0,10.0,Josh Allen pass complete short left to Khalil Shakir for 1 yard (tackle by Alex Austin and Jalen Mills),4.76,4.04,17.0,2023,244
+1.0,2:22,3.0,6.0,NWE 6,7.0,10.0,Josh Allen pass incomplete short left intended for Dalton Kincaid,4.04,2.99,17.0,2023,244
+1.0,2:19,4.0,6.0,NWE 6,7.0,13.0,Tyler Bass 24 yard field goal good,2.99,3.0,17.0,2023,244
+1.0,2:16,,,BUF 35,7.0,13.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,244
+1.0,2:16,1.0,10.0,NWE 25,7.0,13.0,Bailey Zappe pass incomplete short right intended for Ezekiel Elliott,0.61,0.06,17.0,2023,244
+1.0,2:12,2.0,10.0,NWE 25,7.0,13.0,Demario Douglas right tackle for 1 yard (tackle by Taron Johnson),0.06,-0.49,17.0,2023,244
+1.0,1:31,3.0,9.0,NWE 26,7.0,13.0,Bailey Zappe sacked by Ed Oliver for -8 yards,-0.49,-2.24,17.0,2023,244
+1.0,1:00,4.0,17.0,NWE 18,7.0,13.0,"Bryce Baringer punts 47 yards, fair catch by Deonte Harty at BUF-35",-2.24,-1.27,17.0,2023,244
+1.0,0:54,1.0,10.0,BUF 35,7.0,13.0,"Josh Allen pass incomplete short middle intended for Dawson Knox. Penalty on Jalen Mills: Personal Foul / Defense, 15 yards (accepted) (no play)",1.27,2.26,17.0,2023,244
+1.0,0:49,1.0,10.0,BUF 50,7.0,13.0,Josh Allen pass complete short left to Dalton Kincaid for 4 yards (tackle by Keion White),2.26,2.25,17.0,2023,244
+1.0,0:21,2.0,6.0,NWE 46,7.0,13.0,Josh Allen pass incomplete deep left intended for James Cook,2.25,1.55,17.0,2023,244
+1.0,0:17,3.0,6.0,NWE 46,7.0,13.0,Josh Allen pass incomplete short left intended for Gabriel Davis,1.55,0.2,17.0,2023,244
+1.0,0:13,4.0,6.0,NWE 46,7.0,13.0,Sam Martin punts 41 yards downed by Siran Neal,0.2,0.38,17.0,2023,244
+1.0,0:04,1.0,10.0,NWE 5,7.0,13.0,Kevin Harris up the middle for 15 yards (tackle by Micah Hyde and Christian Benford),-0.38,0.28,17.0,2023,244
+2.0,15:00,1.0,10.0,NWE 20,7.0,13.0,Kevin Harris right guard for no gain (tackle by Jordan Poyer and Tyrel Dodson),0.28,-0.27,17.0,2023,244
+2.0,14:20,2.0,10.0,NWE 20,7.0,13.0,Bailey Zappe pass complete short right to DeVante Parker for 15 yards (tackle by Jordan Poyer),-0.27,1.27,17.0,2023,244
+2.0,13:38,1.0,10.0,NWE 35,7.0,13.0,Bailey Zappe pass incomplete short right,1.27,0.72,17.0,2023,244
+2.0,13:29,2.0,10.0,NWE 35,7.0,13.0,Bailey Zappe pass complete short left to Demario Douglas for -1 yards (tackle by A.J. Epenesa),0.72,-0.1,17.0,2023,244
+2.0,12:47,3.0,11.0,NWE 34,7.0,19.0,"Bailey Zappe pass short left intended for Jalen Reagor is intercepted by Rasul Douglas at NE-40 and returned for 40 yards, touchdown",-0.1,-7.0,17.0,2023,244
+2.0,12:36,,,NWE 15,7.0,20.0,Tyler Bass kicks extra point good,0.0,0.0,17.0,2023,244
+2.0,12:36,,,BUF 35,7.0,20.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,244
+2.0,12:36,1.0,10.0,NWE 25,7.0,20.0,Ezekiel Elliott right tackle for 6 yards (tackle by Terrel Bernard and Jordan Poyer),0.61,0.87,17.0,2023,244
+2.0,11:50,2.0,4.0,NWE 31,7.0,20.0,Ezekiel Elliott for -2 yards (tackle by Leonard Floyd),0.87,-0.1,17.0,2023,244
+2.0,11:09,3.0,6.0,NWE 29,7.0,20.0,"Bailey Zappe pass complete to Kevin Harris for 7 yards. Kevin Harris fumbles (forced by Leonard Floyd), recovered by Rasul Douglas at NE-36 (tackle by Leonard Floyd) Replay Assistant challenged the fumble ruling, and the original play was overturned. Bailey Zappe pass complete short right to Kevin Harris for 6 yards (tackle by Leonard Floyd and Terrel Bernard)",-0.1,1.27,17.0,2023,244
+2.0,10:50,1.0,10.0,NWE 35,7.0,20.0,Bailey Zappe pass incomplete deep middle intended for Demario Douglas (defended by Micah Hyde),1.27,0.72,17.0,2023,244
+2.0,10:43,2.0,10.0,NWE 35,7.0,20.0,Bailey Zappe pass complete short right to Kevin Harris for 48 yards (tackle by Christian Benford),0.72,4.44,17.0,2023,244
+2.0,9:51,1.0,10.0,BUF 17,13.0,20.0,"Bailey Zappe scrambles left tackle for 17 yards, touchdown",4.44,7.0,17.0,2023,244
+2.0,9:44,,,BUF 15,14.0,20.0,Chad Ryland kicks extra point good,0.0,0.0,17.0,2023,244
+2.0,9:44,,,NWE 35,14.0,20.0,"Chad Ryland kicks off 67 yards, returned by Ty Johnson for 20 yards (tackle by Mack Wilson)",0.0,0.04,17.0,2023,244
+2.0,9:39,1.0,10.0,BUF 18,14.0,20.0,Josh Allen pass complete short middle to Dalton Kincaid for 14 yards (tackle by Kyle Dugger),0.04,1.07,17.0,2023,244
+2.0,9:02,1.0,10.0,BUF 32,14.0,20.0,James Cook right guard for 2 yards (tackle by Kyle Dugger),1.07,0.8,17.0,2023,244
+2.0,8:39,2.0,8.0,BUF 34,14.0,20.0,Josh Allen pass incomplete short left intended for Trent Sherfield,0.8,0.1,17.0,2023,244
+2.0,8:32,3.0,8.0,BUF 34,14.0,20.0,Josh Allen pass complete short left to Khalil Shakir for 9 yards (tackle by Kyle Dugger),0.1,1.8,17.0,2023,244
+2.0,7:58,1.0,10.0,BUF 43,14.0,20.0,James Cook right guard for 2 yards (tackle by Anfernee Jennings and Lawrence Guy),1.8,1.52,17.0,2023,244
+2.0,7:23,2.0,8.0,BUF 45,14.0,20.0,Josh Allen pass complete short middle to Gabriel Davis for 6 yards (tackle by Jahlani Tavai),1.52,1.62,17.0,2023,244
+2.0,6:47,3.0,2.0,NWE 49,14.0,20.0,Josh Allen right tackle for 5 yards (tackle by Kyle Dugger and Deatrich Wise),1.62,2.65,17.0,2023,244
+2.0,6:09,1.0,10.0,NWE 44,14.0,20.0,"Josh Allen pass complete short left to Stefon Diggs for 4 yards (tackle by Lawrence Guy). Penalty on Khalil Shakir: Offensive Holding, 10 yards (accepted)",2.65,2.26,17.0,2023,244
+2.0,5:59,1.0,16.0,NWE 50,14.0,20.0,Josh Allen pass deep left intended for Dalton Kincaid is intercepted by Alex Austin at NE-11 and returned for no gain,2.26,0.37,17.0,2023,244
+2.0,5:43,1.0,10.0,NWE 11,14.0,20.0,Ezekiel Elliott right tackle for 2 yards (tackle by Tyrel Dodson),-0.37,-0.63,17.0,2023,244
+2.0,5:08,2.0,8.0,NWE 13,14.0,20.0,Bailey Zappe pass complete short right to Tyquan Thornton for 14 yards,-0.63,0.74,17.0,2023,244
+2.0,4:32,1.0,10.0,NWE 27,14.0,20.0,Bailey Zappe scrambles right end for 18 yards (tackle by Jordan Poyer),0.74,1.93,17.0,2023,244
+2.0,3:54,1.0,10.0,NWE 45,14.0,20.0,Bailey Zappe pass complete short right to Mike Gesicki for 8 yards (tackle by Tyrel Dodson),1.93,2.46,17.0,2023,244
+2.0,3:20,2.0,2.0,BUF 47,14.0,20.0,Bailey Zappe pass complete short right to Demario Douglas for 15 yards (tackle by Micah Hyde),2.46,3.45,17.0,2023,244
+2.0,2:44,1.0,10.0,BUF 32,14.0,20.0,Ezekiel Elliott up the middle for no gain (tackle by Jordan Poyer),3.45,2.9,17.0,2023,244
+2.0,2:05,2.0,10.0,BUF 32,14.0,20.0,Bailey Zappe pass incomplete deep left intended for Demario Douglas (defended by Taron Johnson),2.9,2.21,17.0,2023,244
+2.0,2:00,3.0,10.0,BUF 32,14.0,20.0,Bailey Zappe pass complete short right to Mike Gesicki for 3 yards (tackle by Jordan Poyer),2.21,1.5,17.0,2023,244
+2.0,1:54,,,,,,Timeout #1 by Buffalo Bills,,,17.0,2023,244
+2.0,1:54,4.0,7.0,BUF 29,14.0,20.0,Chad Ryland 47 yard field goal no good,1.5,-1.4,17.0,2023,244
+2.0,1:49,1.0,10.0,BUF 37,14.0,20.0,Josh Allen pass complete short left to Stefon Diggs for 8 yards (tackle by Kyle Dugger and Alex Austin),1.4,1.94,17.0,2023,244
+2.0,1:25,2.0,2.0,BUF 45,14.0,20.0,Josh Allen pass incomplete short right,1.94,1.22,17.0,2023,244
+2.0,1:20,3.0,2.0,BUF 45,14.0,20.0,Josh Allen pass incomplete short left intended for Latavius Murray,1.22,-0.39,17.0,2023,244
+2.0,1:16,,,,,,Timeout #2 by Buffalo Bills,,,17.0,2023,244
+2.0,1:16,4.0,2.0,BUF 45,14.0,20.0,Sam Martin punts 47 yards downed by Siran Neal,-0.39,0.38,17.0,2023,244
+2.0,1:05,1.0,10.0,NWE 8,14.0,20.0,Bailey Zappe up the middle for 2 yards (tackle by Tyrel Dodson),-0.38,-0.63,17.0,2023,244
+2.0,0:24,2.0,8.0,NWE 10,14.0,20.0,Bailey Zappe kneels for -1 yards,-0.63,-1.3,17.0,2023,244
+3.0,15:00,,,NWE 35,14.0,20.0,"Chad Ryland kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,244
+3.0,15:00,1.0,10.0,BUF 25,14.0,20.0,James Cook left end for -4 yards (tackle by Anfernee Jennings and Jalen Mills),0.61,-0.48,17.0,2023,244
+3.0,14:14,2.0,14.0,BUF 21,14.0,20.0,Josh Allen pass complete short right to Gabriel Davis for 15 yards (tackle by Shaun Wade),-0.48,1.33,17.0,2023,244
+3.0,13:44,1.0,10.0,BUF 36,14.0,20.0,Josh Allen pass complete deep right to Dalton Kincaid for 51 yards (tackle by Kyle Dugger),1.33,4.71,17.0,2023,244
+3.0,13:00,1.0,10.0,NWE 13,14.0,20.0,James Cook right guard for 5 yards (tackle by Jahlani Tavai and Kyle Dugger),4.71,4.96,17.0,2023,244
+3.0,12:25,2.0,5.0,NWE 8,14.0,20.0,James Cook right guard for 4 yards (tackle by Christian Barmore),4.96,5.01,17.0,2023,244
+3.0,11:59,3.0,1.0,NWE 4,14.0,20.0,Josh Allen up the middle for 2 yards (tackle by Jahlani Tavai),5.01,6.74,17.0,2023,244
+3.0,11:18,1.0,2.0,NWE 2,14.0,20.0,James Cook right guard for 1 yard (tackle by Davon Godchaux and Ja'Whaun Bentley),6.74,5.91,17.0,2023,244
+3.0,10:45,2.0,1.0,NWE 1,14.0,26.0,"Josh Allen left guard for 1 yard, touchdown",5.91,7.0,17.0,2023,244
+3.0,10:42,,,NWE 15,14.0,27.0,Tyler Bass kicks extra point good,0.0,0.0,17.0,2023,244
+3.0,10:42,,,BUF 35,14.0,27.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,244
+3.0,10:42,1.0,10.0,NWE 25,14.0,27.0,Ezekiel Elliott for -1 yards (tackle by Terrel Bernard),0.61,-0.07,17.0,2023,244
+3.0,10:09,2.0,11.0,NWE 24,14.0,27.0,Bailey Zappe pass complete short left to Mike Gesicki for 10 yards (tackle by Rasul Douglas),-0.07,0.56,17.0,2023,244
+3.0,9:30,3.0,1.0,NWE 34,14.0,27.0,Demario Douglas left end for 6 yards (tackle by Terrel Bernard and Rasul Douglas),0.56,1.6,17.0,2023,244
+3.0,8:52,1.0,10.0,NWE 40,14.0,27.0,Bailey Zappe pass complete short left to Ezekiel Elliott for 6 yards (tackle by Terrel Bernard),1.6,1.86,17.0,2023,244
+3.0,8:06,2.0,4.0,NWE 46,14.0,27.0,Bailey Zappe sacked by Terrel Bernard for -5 yards,1.86,0.5,17.0,2023,244
+3.0,7:26,3.0,9.0,NWE 41,14.0,27.0,Bailey Zappe pass complete short left to Mike Gesicki for 14 yards (tackle by Jordan Poyer),0.5,2.59,17.0,2023,244
+3.0,6:46,1.0,10.0,BUF 45,14.0,27.0,Ezekiel Elliott up the middle for 9 yards (tackle by Jordan Poyer and Terrel Bernard),2.59,3.26,17.0,2023,244
+3.0,6:04,2.0,1.0,BUF 36,14.0,27.0,Bailey Zappe for 1 yard (tackle by Ed Oliver),3.26,3.25,17.0,2023,244
+3.0,5:25,1.0,10.0,BUF 35,14.0,27.0,Bailey Zappe sacked by Terrel Bernard for -5 yards,3.25,2.03,17.0,2023,244
+3.0,4:38,2.0,15.0,BUF 40,14.0,27.0,Ezekiel Elliott left guard for no gain (tackle by Tim Settle),2.03,1.35,17.0,2023,244
+3.0,3:57,3.0,15.0,BUF 40,14.0,27.0,Bailey Zappe pass complete short right to Tyquan Thornton for 6 yards (tackle by Taron Johnson),1.35,1.06,17.0,2023,244
+3.0,3:09,4.0,9.0,BUF 34,14.0,27.0,"Penalty on NWE: Delay of Game, 5 yards (accepted) (no play)",1.06,0.66,17.0,2023,244
+3.0,3:09,4.0,14.0,BUF 39,14.0,27.0,"Bryce Baringer punts 27 yards, fair catch by Deonte Harty at BUF-12",0.66,0.35,17.0,2023,244
+3.0,3:01,1.0,10.0,BUF 12,14.0,27.0,Josh Allen pass incomplete deep middle intended for Stefon Diggs,-0.35,-0.78,17.0,2023,244
+3.0,2:55,2.0,10.0,BUF 12,14.0,27.0,Ty Johnson right guard for 3 yards (tackle by Josh Uche and Christian Barmore),-0.78,-1.07,17.0,2023,244
+3.0,2:09,3.0,7.0,BUF 15,14.0,27.0,"Penalty on Dalton Kincaid: False Start, 5 yards (accepted) (no play)",-1.07,-1.65,17.0,2023,244
+3.0,1:53,3.0,12.0,BUF 10,14.0,27.0,Josh Allen pass complete short right to Dalton Kincaid for 18 yards (tackle by Mack Wilson),-1.65,0.81,17.0,2023,244
+3.0,1:14,1.0,10.0,BUF 28,14.0,27.0,James Cook right guard for 8 yards (tackle by Deatrich Wise and Jahlani Tavai),0.81,1.34,17.0,2023,244
+3.0,0:47,2.0,2.0,BUF 36,14.0,27.0,James Cook up the middle for 1 yard (tackle by Anfernee Jennings and Lawrence Guy),1.34,0.76,17.0,2023,244
+4.0,15:00,3.0,1.0,BUF 37,14.0,27.0,Latavius Murray up the middle for no gain (tackle by Ja'Whaun Bentley),0.76,-0.91,17.0,2023,244
+4.0,14:19,4.0,1.0,BUF 37,14.0,27.0,"Sam Martin punts 47 yards, fair catch by Myles Bryant at NE-16",-0.91,0.14,17.0,2023,244
+4.0,14:10,1.0,10.0,NWE 16,14.0,27.0,Ezekiel Elliott left guard for 4 yards (tackle by Terrel Bernard),-0.14,0.01,17.0,2023,244
+4.0,13:35,2.0,6.0,NWE 20,14.0,27.0,Demario Douglas right end for 5 yards (tackle by Taron Johnson),0.01,-0.2,17.0,2023,244
+4.0,12:58,3.0,1.0,NWE 25,14.0,27.0,Ezekiel Elliott right guard for 6 yards (tackle by Jordan Poyer and Micah Hyde),-0.2,1.0,17.0,2023,244
+4.0,12:21,1.0,10.0,NWE 31,14.0,27.0,Bailey Zappe pass complete deep left to Jalen Reagor for 39 yards (tackle by Christian Benford),1.0,3.58,17.0,2023,244
+4.0,11:38,1.0,10.0,BUF 30,14.0,27.0,Bailey Zappe pass incomplete short left intended for Jalen Reagor,3.58,3.03,17.0,2023,244
+4.0,11:35,2.0,10.0,BUF 30,14.0,27.0,"Bailey Zappe pass complete short left to Demario Douglas for 17 yards (tackle by Jordan Poyer). Penalty on Jordan Poyer: Unnecessary Roughness / Defense, 7 yards (accepted)",3.03,5.83,17.0,2023,244
+4.0,11:05,1.0,6.0,BUF 6,20.0,27.0,"Ezekiel Elliott right guard for 6 yards, touchdown",5.83,7.0,17.0,2023,244
+4.0,11:01,,,BUF 15,21.0,27.0,Chad Ryland kicks extra point good,0.0,0.0,17.0,2023,244
+4.0,11:01,,,NWE 35,21.0,27.0,"Chad Ryland kicks off 63 yards, returned by Ty Johnson for 22 yards (tackle by Marte Mapu). Penalty on Reggie Gilliam: Offensive Holding, 10 yards (accepted)",0.0,-0.28,17.0,2023,244
+4.0,10:54,1.0,10.0,BUF 14,21.0,27.0,Josh Allen pass complete short left to James Cook for -4 yards (tackle by Jahlani Tavai),-0.28,-1.07,17.0,2023,244
+4.0,10:10,2.0,14.0,BUF 10,21.0,27.0,Josh Allen pass complete short middle to Khalil Shakir for 18 yards (tackle by Kyle Dugger),-1.07,0.81,17.0,2023,244
+4.0,9:34,1.0,10.0,BUF 28,21.0,27.0,Ty Johnson left tackle for 7 yards (tackle by Josh Uche and Jahlani Tavai),0.81,1.21,17.0,2023,244
+4.0,8:59,2.0,3.0,BUF 35,21.0,27.0,Josh Allen pass complete short left to Stefon Diggs for 5 yards (tackle by Christian Barmore),1.21,1.6,17.0,2023,244
+4.0,8:18,1.0,10.0,BUF 40,21.0,27.0,Ty Johnson right guard for 5 yards (tackle by Jahlani Tavai and Ja'Whaun Bentley),1.6,1.73,17.0,2023,244
+4.0,7:42,2.0,5.0,BUF 45,21.0,27.0,Josh Allen pass incomplete short right intended for Trent Sherfield (defended by Jonathan Jones),1.73,1.03,17.0,2023,244
+4.0,7:38,3.0,5.0,BUF 45,21.0,27.0,"Josh Allen scrambles right tackle for -1 yards. Josh Allen fumbles (forced by Kyle Dugger), recovered by O'Cyrus Torrence at BUF-44 (tackle by Kyle Dugger) (tackle by Kyle Dugger) (tackle by Josh Uche)",1.03,-0.46,17.0,2023,244
+4.0,6:46,4.0,6.0,BUF 44,21.0,27.0,Sam Martin punts 53 yards downed by Siran Neal,-0.46,0.38,17.0,2023,244
+4.0,6:41,1.0,10.0,NWE 3,21.0,27.0,Bailey Zappe pass incomplete short right,-0.38,-0.78,17.0,2023,244
+4.0,6:34,2.0,10.0,NWE 3,21.0,27.0,Ezekiel Elliott up the middle for 4 yards (tackle by Tyrel Dodson and DaQuan Jones),-0.78,-0.95,17.0,2023,244
+4.0,5:50,3.0,6.0,NWE 7,21.0,27.0,Bailey Zappe pass complete short middle to Tyquan Thornton for 4 yards (tackle by Taron Johnson and Taylor Rapp),-0.95,-2.49,17.0,2023,244
+4.0,5:11,4.0,2.0,NWE 11,21.0,27.0,"Bryce Baringer punts 45 yards, returned by Deonte Harty for 7 yards (tackle by Matthew Slater)",-2.49,-2.32,17.0,2023,244
+4.0,5:02,1.0,10.0,NWE 49,21.0,27.0,James Cook right guard for 2 yards (tackle by Lawrence Guy),2.32,2.05,17.0,2023,244
+4.0,4:19,2.0,8.0,NWE 47,21.0,27.0,James Cook right guard for 1 yard (tackle by Anfernee Jennings and Christian Barmore),2.05,1.49,17.0,2023,244
+4.0,3:35,3.0,7.0,NWE 46,21.0,27.0,Josh Allen pass complete short middle to Khalil Shakir for 11 yards (tackle by Ja'Whaun Bentley and Jalen Mills),1.49,3.25,17.0,2023,244
+4.0,2:51,1.0,10.0,NWE 35,21.0,27.0,James Cook right tackle for no gain (tackle by Lawrence Guy and Keion White),3.25,2.7,17.0,2023,244
+4.0,2:47,,,,,,Timeout #1 by New England Patriots,,,17.0,2023,244
+4.0,2:47,2.0,10.0,NWE 35,21.0,27.0,Josh Allen pass complete short right to Stefon Diggs for 9 yards (tackle by Jonathan Jones),2.7,3.2,17.0,2023,244
+4.0,2:41,,,,,,Timeout #1 by Buffalo Bills,,,17.0,2023,244
+4.0,2:41,3.0,1.0,NWE 26,21.0,27.0,Josh Allen left guard for 3 yards (tackle by Jahlani Tavai and Keion White),3.2,4.04,17.0,2023,244
+4.0,2:34,,,,,,Timeout #2 by New England Patriots,,,17.0,2023,244
+4.0,2:34,1.0,10.0,NWE 23,21.0,27.0,Ty Johnson right end for 6 yards (tackle by Jonathan Jones),4.04,4.38,17.0,2023,244
+4.0,2:27,,,,,,Timeout #3 by New England Patriots,,,17.0,2023,244
+4.0,2:27,2.0,4.0,NWE 17,21.0,27.0,Ty Johnson right tackle for 1 yard (tackle by Jonathan Jones),4.38,3.85,17.0,2023,244
+4.0,2:00,3.0,3.0,NWE 16,21.0,27.0,Josh Allen right tackle for 4 yards (tackle by Jalen Mills and Kyle Dugger),3.85,4.78,17.0,2023,244
+4.0,1:17,,,,,,Timeout #2 by Buffalo Bills,,,17.0,2023,244
+4.0,1:17,1.0,10.0,NWE 12,21.0,27.0,Kyle Allen kneels for no gain,4.78,4.1,17.0,2023,244
+4.0,0:39,2.0,10.0,NWE 12,21.0,27.0,Kyle Allen kneels for -2 yards,4.1,3.06,17.0,2023,244

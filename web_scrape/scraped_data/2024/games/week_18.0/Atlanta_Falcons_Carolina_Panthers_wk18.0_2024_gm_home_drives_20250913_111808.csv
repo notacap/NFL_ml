@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,ATL 29,12,3:52,58,Field Goal,1,Falcons,18.0,2024,259
+2,1,7:03,ATL 31,11,6:00,27,Downs,1,Falcons,18.0,2024,259
+3,2,10:47,ATL 30,10,5:20,70,Touchdown,1,Falcons,18.0,2024,259
+4,2,2:48,ATL 30,6,1:14,70,Touchdown,1,Falcons,18.0,2024,259
+5,2,0:40,ATL 19,6,0:37,81,Touchdown,1,Falcons,18.0,2024,259
+6,3,13:28,ATL 12,3,1:24,15,Interception,1,Falcons,18.0,2024,259
+7,3,10:43,ATL 32,8,4:30,34,Missed FG,1,Falcons,18.0,2024,259
+8,3,1:02,ATL 26,11,6:12,74,Touchdown,1,Falcons,18.0,2024,259
+9,4,4:01,ATL 30,11,3:15,70,Touchdown,1,Falcons,18.0,2024,259
+10,4,0:17,ATL 12,1,0:17,13,End of Half,1,Falcons,18.0,2024,259

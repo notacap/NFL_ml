@@ -1,0 +1,186 @@
+Quarter,Time,Down,ToGo,Location,NOR,IND,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Colts won the coin toss, Colts to receive the opening kickoff.",,,8.0,2023,112
+1.0,15:00,,,NOR 35,0.0,0.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,112
+1.0,15:00,1.0,10.0,IND 25,0.0,0.0,Jonathan Taylor right end for 4 yards (tackle by Demario Davis),0.61,0.6,8.0,2023,112
+1.0,14:26,2.0,6.0,IND 29,0.0,0.0,Gardner Minshew pass incomplete short right intended for Michael Pittman (defended by Paulson Adebo),0.6,-0.1,8.0,2023,112
+1.0,14:21,3.0,6.0,IND 29,0.0,0.0,Gardner Minshew pass complete short left to Michael Pittman for 2 yards (tackle by Paulson Adebo),-0.1,-1.31,8.0,2023,112
+1.0,13:31,4.0,4.0,IND 31,0.0,0.0,"Rigoberto Sanchez punts 52 yards, returned by Rashid Shaheed for 8 yards (tackle by Trevor Denbow and Andrew Ogletree)",-1.31,-0.61,8.0,2023,112
+1.0,13:19,1.0,10.0,NOR 25,0.0,0.0,Alvin Kamara left tackle for no gain (tackle by Samson Ebukam and DeForest Buckner),0.61,0.06,8.0,2023,112
+1.0,12:54,2.0,10.0,NOR 25,0.0,0.0,Derek Carr pass complete short left to Michael Thomas for 17 yards (tackle by Tony Brown),0.06,1.73,8.0,2023,112
+1.0,12:28,1.0,10.0,NOR 42,0.0,0.0,Derek Carr pass complete short middle to Alvin Kamara for 3 yards (tackle by Zaire Franklin),1.73,1.59,8.0,2023,112
+1.0,11:55,2.0,7.0,NOR 45,0.0,0.0,Alvin Kamara left guard for 3 yards (tackle by Shaquille Leonard and Kenny Moore),1.59,1.29,8.0,2023,112
+1.0,11:25,3.0,4.0,NOR 48,0.0,0.0,Derek Carr pass incomplete short left intended for Michael Thomas,1.29,-0.19,8.0,2023,112
+1.0,11:22,4.0,4.0,NOR 48,0.0,0.0,"Lou Hedley punts 33 yards, fair catch by Isaiah McKenzie at IND-19",-0.19,-0.15,8.0,2023,112
+1.0,11:15,1.0,10.0,IND 19,0.0,0.0,Jonathan Taylor up the middle for 6 yards (tackle by Jordan Howden),0.15,0.48,8.0,2023,112
+1.0,10:40,2.0,4.0,IND 25,0.0,0.0,Jonathan Taylor up the middle for 14 yards (tackle by Demario Davis and Tyrann Mathieu),0.48,1.53,8.0,2023,112
+1.0,10:08,1.0,10.0,IND 39,0.0,0.0,Jonathan Taylor left tackle for 42 yards (tackle by Jordan Howden and Demario Davis),1.53,4.31,8.0,2023,112
+1.0,9:31,1.0,10.0,NOR 19,0.0,0.0,Zack Moss left tackle for 1 yard (tackle by Jordan Howden and Tanoh Kpassagnon),4.31,3.88,8.0,2023,112
+1.0,8:52,2.0,9.0,NOR 18,0.0,0.0,Gardner Minshew pass complete short left to Michael Pittman for 1 yard (tackle by Marshon Lattimore and Malcolm Roach),3.88,3.26,8.0,2023,112
+1.0,8:11,3.0,8.0,NOR 17,0.0,0.0,Gardner Minshew pass complete short left to Michael Pittman for 7 yards (tackle by Carl Granderson),3.26,2.91,8.0,2023,112
+1.0,7:21,4.0,1.0,NOR 10,0.0,0.0,"Penalty on IND: Delay of Game, 5 yards (accepted) (no play)",2.91,2.47,8.0,2023,112
+1.0,7:02,4.0,6.0,NOR 15,0.0,0.0,"Penalty on Bryan Bresee: Illegal Formation, 5 yards (accepted) (no play)",2.47,2.91,8.0,2023,112
+1.0,7:02,4.0,1.0,NOR 10,0.0,6.0,"Gardner Minshew pass complete short right to Michael Pittman for 10 yards, touchdown",2.91,7.0,8.0,2023,112
+1.0,6:56,,,NOR 15,0.0,7.0,Matt Gay kicks extra point good,0.0,0.0,8.0,2023,112
+1.0,6:56,,,IND 35,0.0,7.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,112
+1.0,6:56,1.0,10.0,NOR 25,0.0,7.0,Alvin Kamara right guard for 4 yards (tackle by Tony Brown),0.61,0.6,8.0,2023,112
+1.0,6:25,2.0,6.0,NOR 29,0.0,7.0,Derek Carr pass incomplete deep middle intended for Chris Olave,0.6,-0.1,8.0,2023,112
+1.0,6:17,3.0,6.0,NOR 29,0.0,7.0,Derek Carr pass complete deep middle to Michael Thomas for 31 yards (tackle by E.J. Speed and Tony Brown),-0.1,2.92,8.0,2023,112
+1.0,5:37,1.0,10.0,IND 40,0.0,7.0,Jamaal Williams up the middle for no gain (tackle by Zaire Franklin and Taven Bryan),2.92,2.37,8.0,2023,112
+1.0,5:04,2.0,10.0,IND 40,0.0,7.0,Derek Carr pass complete short left to Kendre Miller for 9 yards (tackle by Shaquille Leonard),2.37,2.87,8.0,2023,112
+1.0,4:12,3.0,1.0,IND 31,0.0,7.0,Taysom Hill left tackle for 13 yards (tackle by Rodney Thomas),2.87,4.37,8.0,2023,112
+1.0,3:50,1.0,10.0,IND 18,6.0,7.0,"Derek Carr pass complete short middle to Alvin Kamara for 18 yards, touchdown",4.37,7.0,8.0,2023,112
+1.0,3:44,,,IND 15,7.0,7.0,Blake Grupe kicks extra point good,0.0,0.0,8.0,2023,112
+1.0,3:44,,,NOR 35,7.0,7.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,112
+1.0,3:44,1.0,10.0,IND 25,7.0,7.0,Gardner Minshew pass complete short middle to Michael Pittman for 3 yards (tackle by Paulson Adebo),0.61,0.47,8.0,2023,112
+1.0,3:03,2.0,7.0,IND 28,7.0,7.0,Gardner Minshew pass complete short middle to Josh Downs for 12 yards (tackle by Pete Werner),0.47,1.6,8.0,2023,112
+1.0,2:25,1.0,10.0,IND 40,7.0,7.0,"Gardner Minshew pass incomplete intended for Alec Pierce. Penalty on Marshon Lattimore: Defensive Pass Interference, 28 yards (accepted) . Penalty on Marshon Lattimore: Defensive Holding, 5 yards (declined) (no play)",1.6,3.45,8.0,2023,112
+1.0,2:18,1.0,10.0,NOR 32,7.0,7.0,Jonathan Taylor left end for 3 yards (tackle by Bryan Bresee and Demario Davis),3.45,3.31,8.0,2023,112
+1.0,1:35,2.0,7.0,NOR 29,7.0,7.0,Gardner Minshew pass complete short right to Josh Downs for 5 yards (tackle by Demario Davis),3.31,3.27,8.0,2023,112
+1.0,0:54,3.0,2.0,NOR 24,7.0,7.0,Jonathan Taylor left end for 13 yards (tackle by Jordan Howden),3.27,4.84,8.0,2023,112
+1.0,0:28,1.0,10.0,NOR 11,7.0,7.0,Gardner Minshew pass complete short left to Michael Pittman for 9 yards (tackle by Marshon Lattimore),4.84,5.85,8.0,2023,112
+1.0,0:04,2.0,1.0,NOR 2,7.0,7.0,Jonathan Taylor up the middle for no gain (tackle by Malcolm Roach and Jordan Howden),5.85,5.12,8.0,2023,112
+2.0,15:00,3.0,1.0,NOR 2,7.0,7.0,Gardner Minshew pass incomplete short right,5.12,3.25,8.0,2023,112
+2.0,14:52,4.0,1.0,NOR 2,7.0,10.0,Matt Gay 20 yard field goal good,3.25,3.0,8.0,2023,112
+2.0,14:49,,,IND 35,7.0,10.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,112
+2.0,14:49,1.0,10.0,NOR 25,7.0,10.0,Derek Carr pass incomplete short left intended for Alvin Kamara,0.61,0.06,8.0,2023,112
+2.0,14:46,2.0,10.0,NOR 25,7.0,10.0,Alvin Kamara right tackle for 4 yards (tackle by Shaquille Leonard),0.06,-0.1,8.0,2023,112
+2.0,14:24,3.0,6.0,NOR 29,7.0,10.0,"Derek Carr sacked by DeForest Buckner for -4 yards. Derek Carr fumbles (forced by DeForest Buckner), recovered by Dayo Odeyingbo at NO-30",-0.1,-3.58,8.0,2023,112
+2.0,14:15,1.0,10.0,NOR 30,7.0,10.0,Zack Moss up the middle for 1 yard (tackle by Jordan Howden and Isaac Yiadom),3.58,3.17,8.0,2023,112
+2.0,13:32,2.0,9.0,NOR 29,7.0,10.0,Gardner Minshew pass incomplete deep right intended for Andrew Ogletree (defended by Demario Davis),3.17,2.48,8.0,2023,112
+2.0,13:25,3.0,9.0,NOR 29,7.0,10.0,"Gardner Minshew pass complete short left to Josh Downs for 12 yards (tackle by Jordan Howden) NOR challenged the pass completion ruling, and the play was upheld.",2.48,4.44,8.0,2023,112
+2.0,12:58,1.0,10.0,NOR 17,7.0,10.0,Zack Moss up the middle for 5 yards (tackle by Nathan Shepherd and Cameron Jordan),4.44,4.69,8.0,2023,112
+2.0,12:25,2.0,5.0,NOR 12,7.0,10.0,"Zack Moss for no gain. Penalty on Carl Granderson: Face Mask (15 Yards), 6 yards (accepted) (no play)",4.69,5.83,8.0,2023,112
+2.0,12:11,1.0,6.0,NOR 6,7.0,10.0,Zack Moss left tackle for 5 yards (tackle by Marshon Lattimore and Demario Davis),5.83,5.91,8.0,2023,112
+2.0,11:42,2.0,1.0,NOR 1,7.0,16.0,"Zack Moss up the middle for 1 yard, touchdown",5.91,7.0,8.0,2023,112
+2.0,11:39,,,NOR 15,7.0,17.0,Matt Gay kicks extra point good,0.0,0.0,8.0,2023,112
+2.0,11:39,,,IND 35,7.0,17.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,112
+2.0,11:39,1.0,10.0,NOR 25,7.0,17.0,Derek Carr pass complete short right to Chris Olave for 8 yards (tackle by Tony Brown),0.61,1.14,8.0,2023,112
+2.0,11:02,2.0,2.0,NOR 33,7.0,17.0,"Penalty on Andrus Peat: False Start, 5 yards (accepted) (no play)",1.14,0.47,8.0,2023,112
+2.0,10:49,2.0,7.0,NOR 28,7.0,17.0,Derek Carr pass complete short left to Michael Thomas for 15 yards (tackle by Kenny Moore),0.47,1.8,8.0,2023,112
+2.0,10:15,1.0,10.0,NOR 43,7.0,17.0,Taysom Hill left guard for 8 yards (tackle by Julian Blackmon and Zaire Franklin),1.8,2.33,8.0,2023,112
+2.0,9:41,2.0,2.0,IND 49,7.0,17.0,Alvin Kamara up the middle for 1 yard (tackle by E.J. Speed),2.33,1.75,8.0,2023,112
+2.0,9:04,3.0,1.0,IND 48,7.0,17.0,Jamaal Williams up the middle for 5 yards (tackle by Kwity Paye),1.75,2.72,8.0,2023,112
+2.0,8:28,1.0,10.0,IND 43,7.0,17.0,Derek Carr pass complete short left to Chris Olave for 15 yards,2.72,3.71,8.0,2023,112
+2.0,7:44,1.0,10.0,IND 28,7.0,17.0,"Kendre Miller left guard for 3 yards (tackle by Zaire Franklin and McTelvin Agim). Penalty on Dayo Odeyingbo: Defensive Holding, 5 yards (accepted)",3.71,4.24,8.0,2023,112
+2.0,7:35,1.0,10.0,IND 20,13.0,17.0,"Taysom Hill up the middle for 20 yards, touchdown",4.24,7.0,8.0,2023,112
+2.0,7:28,,,IND 15,14.0,17.0,Blake Grupe kicks extra point good,0.0,0.0,8.0,2023,112
+2.0,7:28,,,NOR 35,14.0,17.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,112
+2.0,7:28,1.0,10.0,IND 25,14.0,17.0,Gardner Minshew pass incomplete deep right,0.61,0.06,8.0,2023,112
+2.0,7:21,2.0,10.0,IND 25,14.0,17.0,"Gardner Minshew pass incomplete intended for Michael Pittman. Penalty on Quenton Nelson: Offensive Holding, 10 yards (accepted) (no play)",0.06,-1.43,8.0,2023,112
+2.0,7:17,2.0,20.0,IND 15,14.0,17.0,Gardner Minshew pass incomplete short right intended for Jonathan Taylor (defended by Paulson Adebo),-1.43,-2.35,8.0,2023,112
+2.0,7:12,3.0,20.0,IND 15,14.0,17.0,Jonathan Taylor up the middle for 5 yards (tackle by Cameron Jordan),-2.35,-2.03,8.0,2023,112
+2.0,6:37,4.0,15.0,IND 20,14.0,17.0,"Rigoberto Sanchez punts 57 yards, returned by Rashid Shaheed for 14 yards (tackle by Segun Olubi and Andrew Ogletree)",-2.03,-1.4,8.0,2023,112
+2.0,6:24,1.0,10.0,NOR 37,14.0,17.0,Alvin Kamara right tackle for 5 yards (tackle by Segun Olubi and Kwity Paye),1.4,1.53,8.0,2023,112
+2.0,5:50,2.0,5.0,NOR 42,20.0,17.0,"Derek Carr pass complete deep middle to Rashid Shaheed for 58 yards, touchdown",1.53,7.0,8.0,2023,112
+2.0,5:42,,,IND 15,21.0,17.0,Blake Grupe kicks extra point good,0.0,0.0,8.0,2023,112
+2.0,5:42,,,NOR 35,21.0,17.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,112
+2.0,5:42,1.0,10.0,IND 25,21.0,17.0,Jonathan Taylor left tackle for 3 yards (tackle by Demario Davis),0.61,0.47,8.0,2023,112
+2.0,5:07,2.0,7.0,IND 28,21.0,17.0,"Gardner Minshew pass incomplete short right intended for Alec Pierce IND challenged the pass completion ruling, and the play was upheld.",0.47,-0.23,8.0,2023,112
+2.0,5:03,3.0,7.0,IND 28,21.0,17.0,Gardner Minshew pass complete short middle to Josh Downs for 17 yards (tackle by Demario Davis),-0.23,1.93,8.0,2023,112
+2.0,4:35,1.0,10.0,IND 45,21.0,17.0,Gardner Minshew pass incomplete deep middle intended for Michael Pittman,1.93,1.38,8.0,2023,112
+2.0,4:31,2.0,10.0,IND 45,21.0,17.0,Gardner Minshew pass complete short middle to Alec Pierce for 7 yards (tackle by Demario Davis),1.38,1.62,8.0,2023,112
+2.0,3:53,3.0,3.0,NOR 48,21.0,17.0,Gardner Minshew scrambles right end for 3 yards (tackle by Cameron Jordan),1.62,2.59,8.0,2023,112
+2.0,3:08,1.0,10.0,NOR 45,21.0,17.0,Jonathan Taylor left guard for 2 yards (tackle by Bryan Bresee and Carl Granderson),2.59,2.31,8.0,2023,112
+2.0,2:24,2.0,8.0,NOR 43,21.0,17.0,Jonathan Taylor up the middle for 2 yards (tackle by Cameron Jordan and Demario Davis),2.31,1.88,8.0,2023,112
+2.0,2:00,3.0,6.0,NOR 41,21.0,17.0,Gardner Minshew pass complete short left to Zack Moss for 8 yards (tackle by Marshon Lattimore),1.88,3.38,8.0,2023,112
+2.0,1:15,1.0,10.0,NOR 33,21.0,17.0,Zack Moss left tackle for no gain (tackle by Cameron Jordan),3.38,2.84,8.0,2023,112
+2.0,0:47,2.0,10.0,NOR 33,21.0,17.0,Gardner Minshew pass complete short middle to Josh Downs for 9 yards (tackle by Alontae Taylor),2.84,3.34,8.0,2023,112
+2.0,0:29,,,,,,Timeout #2 by Indianapolis Colts,,,8.0,2023,112
+2.0,0:29,3.0,1.0,NOR 24,21.0,17.0,Gardner Minshew pass incomplete short right intended for Alec Pierce,3.34,2.02,8.0,2023,112
+2.0,0:26,4.0,1.0,NOR 24,21.0,20.0,Matt Gay 42 yard field goal good,2.02,3.0,8.0,2023,112
+2.0,0:21,,,IND 35,21.0,20.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,112
+2.0,0:21,1.0,10.0,NOR 25,21.0,20.0,Derek Carr kneels for -1 yards,0.61,-0.07,8.0,2023,112
+3.0,15:00,,,IND 35,21.0,20.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,112
+3.0,15:00,1.0,10.0,NOR 25,21.0,20.0,Alvin Kamara right tackle for -1 yards (tackle by Kwity Paye and Kenny Moore),0.61,-0.07,8.0,2023,112
+3.0,14:26,2.0,11.0,NOR 24,21.0,20.0,Derek Carr pass complete short right to Jamaal Williams for 8 yards (tackle by Shaquille Leonard),-0.07,0.3,8.0,2023,112
+3.0,13:45,3.0,3.0,NOR 32,21.0,20.0,Derek Carr pass complete short right to Juwan Johnson for 5 yards (tackle by Zaire Franklin),0.3,1.4,8.0,2023,112
+3.0,13:05,1.0,10.0,NOR 37,21.0,20.0,Taysom Hill pass incomplete short right intended for Michael Thomas,1.4,0.86,8.0,2023,112
+3.0,13:02,2.0,10.0,NOR 37,21.0,20.0,Alvin Kamara up the middle for 2 yards (tackle by Kenny Moore),0.86,0.43,8.0,2023,112
+3.0,12:26,3.0,8.0,NOR 39,21.0,20.0,Derek Carr pass complete short left to Alvin Kamara for 5 yards (tackle by Kenny Moore),0.43,-0.46,8.0,2023,112
+3.0,11:55,4.0,3.0,NOR 44,21.0,20.0,"Lou Hedley punts 42 yards, fair catch by Isaiah McKenzie at IND-14",-0.46,0.28,8.0,2023,112
+3.0,11:47,1.0,10.0,IND 14,21.0,20.0,Jonathan Taylor up the middle for 1 yard (tackle by Nathan Shepherd and Carl Granderson),-0.28,-0.64,8.0,2023,112
+3.0,11:07,2.0,9.0,IND 15,21.0,20.0,"Penalty on Josh Downs: False Start, 5 yards (accepted) (no play)",-0.64,-1.07,8.0,2023,112
+3.0,10:54,2.0,14.0,IND 10,21.0,20.0,Gardner Minshew pass complete short left to Josh Downs for 4 yards (tackle by Marshon Lattimore),-1.07,-1.4,8.0,2023,112
+3.0,10:14,3.0,10.0,IND 14,21.0,20.0,Gardner Minshew pass complete short middle to Will Mallory for 6 yards (tackle by Alontae Taylor),-1.4,-2.03,8.0,2023,112
+3.0,9:36,4.0,4.0,IND 20,21.0,20.0,"Rigoberto Sanchez punts 53 yards, returned by Rashid Shaheed for 15 yards (tackle by Chris Lammons)",-2.03,-1.73,8.0,2023,112
+3.0,9:25,1.0,10.0,NOR 42,21.0,20.0,Derek Carr pass complete short right to Michael Thomas for 5 yards (tackle by Kenny Moore and Tony Brown),1.73,1.86,8.0,2023,112
+3.0,8:51,2.0,5.0,NOR 47,21.0,20.0,Jamaal Williams up the middle for 10 yards (tackle by Julian Blackmon),1.86,2.72,8.0,2023,112
+3.0,8:18,1.0,10.0,IND 43,21.0,20.0,Jamaal Williams right tackle for 4 yards (tackle by Taven Bryan),2.72,2.72,8.0,2023,112
+3.0,7:44,2.0,6.0,IND 39,21.0,20.0,Derek Carr pass incomplete deep right intended for Chris Olave,2.72,2.01,8.0,2023,112
+3.0,7:35,3.0,6.0,IND 39,21.0,20.0,Derek Carr pass incomplete deep right intended for Chris Olave,2.01,0.66,8.0,2023,112
+3.0,7:31,4.0,6.0,IND 39,21.0,20.0,Lou Hedley punts 36 yards downed by Isaac Yiadom,0.66,0.38,8.0,2023,112
+3.0,7:24,1.0,10.0,IND 3,21.0,20.0,Zack Moss left tackle for -1 yards (tackle by Marshon Lattimore and Alontae Taylor),-0.38,-0.85,8.0,2023,112
+3.0,6:51,2.0,11.0,IND 2,21.0,20.0,Gardner Minshew pass complete short middle to Mo Alie-Cox for 11 yards (tackle by Pete Werner),-0.85,-0.32,8.0,2023,112
+3.0,6:13,1.0,10.0,IND 13,21.0,20.0,Zack Moss up the middle for 7 yards (tackle by Demario Davis and Jordan Howden),-0.32,0.22,8.0,2023,112
+3.0,5:44,2.0,3.0,IND 20,21.0,20.0,Zack Moss left guard for 2 yards (tackle by Pete Werner and Malcolm Roach),0.22,-0.35,8.0,2023,112
+3.0,5:19,3.0,1.0,IND 22,21.0,20.0,Zack Moss right tackle for 41 yards (tackle by Marshon Lattimore),-0.35,3.12,8.0,2023,112
+3.0,4:41,1.0,10.0,NOR 37,21.0,20.0,Zack Moss right tackle for 4 yards (tackle by Carl Granderson),3.12,3.11,8.0,2023,112
+3.0,4:04,2.0,6.0,NOR 33,21.0,20.0,Gardner Minshew pass deep right intended for Michael Pittman is intercepted by Paulson Adebo at NO-2 and returned for 27 yards (tackle by Josh Downs),3.11,-0.87,8.0,2023,112
+3.0,3:44,1.0,10.0,NOR 29,21.0,20.0,Derek Carr pass complete short left to Chris Olave for 9 yards (tackle by Jaylon Jones),0.87,1.54,8.0,2023,112
+3.0,3:03,2.0,1.0,NOR 38,21.0,20.0,Kendre Miller left tackle for 7 yards (tackle by Julian Blackmon and McTelvin Agim),1.54,1.93,8.0,2023,112
+3.0,2:28,1.0,10.0,NOR 45,21.0,20.0,Derek Carr pass complete short right to Taysom Hill for 14 yards (tackle by Shaquille Leonard),1.93,2.85,8.0,2023,112
+3.0,1:47,1.0,10.0,IND 41,21.0,20.0,Alvin Kamara right tackle for no gain (tackle by Zaire Franklin and Kwity Paye),2.85,2.31,8.0,2023,112
+3.0,1:06,2.0,10.0,IND 41,21.0,20.0,Derek Carr pass complete short right to Alvin Kamara for 25 yards (tackle by Jaylon Jones and Zaire Franklin),2.31,4.51,8.0,2023,112
+3.0,0:17,,,,,,Timeout #1 by New Orleans Saints,,,8.0,2023,112
+3.0,0:17,1.0,10.0,IND 16,21.0,20.0,Derek Carr pass incomplete deep middle intended for Juwan Johnson (defended by Zaire Franklin),4.51,3.9,8.0,2023,112
+3.0,0:12,2.0,10.0,IND 16,27.0,20.0,"Alvin Kamara up the middle for 16 yards, touchdown",3.9,7.0,8.0,2023,112
+3.0,0:07,,,IND 15,28.0,20.0,Blake Grupe kicks extra point good,0.0,0.0,8.0,2023,112
+3.0,0:07,,,NOR 35,28.0,20.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,112
+3.0,0:07,1.0,10.0,IND 25,28.0,20.0,"Gardner Minshew sacked by Isaiah Foskey for no gain. Gardner Minshew fumbles, recovered by Tanoh Kpassagnon at IND-20, touchdown Replay Assistant challenged the fumble ruling, and the original play was overturned. Gardner Minshew pass incomplete short left intended for Michael Pittman (defended by Isaiah Foskey)",0.61,0.06,8.0,2023,112
+3.0,0:03,2.0,10.0,IND 25,28.0,20.0,Gardner Minshew pass complete short left to Michael Pittman for 4 yards (tackle by Marshon Lattimore),0.06,-0.1,8.0,2023,112
+4.0,15:00,3.0,6.0,IND 29,28.0,20.0,Gardner Minshew pass incomplete short middle intended for Josh Downs (defended by Jordan Howden),-0.1,-1.44,8.0,2023,112
+4.0,14:55,4.0,6.0,IND 29,28.0,20.0,"Rigoberto Sanchez punts 56 yards, returned by Rashid Shaheed for 9 yards (tackle by Grant Stuard)",-1.44,-0.54,8.0,2023,112
+4.0,14:42,1.0,10.0,NOR 24,28.0,20.0,Alvin Kamara right guard for 6 yards (tackle by Kwity Paye and Shaquille Leonard),0.54,0.81,8.0,2023,112
+4.0,14:12,2.0,4.0,NOR 30,28.0,20.0,Alvin Kamara right guard for 11 yards (tackle by Julian Blackmon),0.81,1.66,8.0,2023,112
+4.0,13:29,1.0,10.0,NOR 41,28.0,20.0,"Taysom Hill pass intended for Rashid Shaheed is intercepted by Rodney Thomas at IND-15 and returned for no gain (tackle by Rodney Thomas) Replay Assistant challenged the pass interception ruling, and the original play was overturned. Taysom Hill pass complete deep middle to Rashid Shaheed for 44 yards (tackle by Rodney Thomas)",1.66,4.58,8.0,2023,112
+4.0,13:06,1.0,10.0,IND 15,28.0,20.0,Alvin Kamara up the middle for 1 yard (tackle by Samson Ebukam),4.58,4.11,8.0,2023,112
+4.0,12:31,2.0,9.0,IND 14,28.0,20.0,Taysom Hill scrambles right end for 12 yards (tackle by DeForest Buckner and Zaire Franklin),4.11,6.74,8.0,2023,112
+4.0,11:49,1.0,2.0,IND 2,28.0,20.0,Taysom Hill left tackle for 1 yard (tackle by Zaire Franklin and Shaquille Leonard),6.74,5.91,8.0,2023,112
+4.0,11:11,2.0,1.0,IND 1,28.0,20.0,"Penalty on Erik McCoy: False Start, 4 yards (accepted) (no play)",5.91,5.15,8.0,2023,112
+4.0,11:11,2.0,5.0,IND 5,28.0,20.0,Alvin Kamara right tackle for 4 yards (tackle by Shaquille Leonard and Zaire Franklin). Penalty on Tony Brown: Face Mask (15 Yards) (accepted),5.15,6.97,8.0,2023,112
+4.0,10:53,1.0,1.0,IND 1,34.0,20.0,"Taysom Hill left tackle for 1 yard, touchdown",6.97,7.0,8.0,2023,112
+4.0,10:49,,,IND 15,35.0,20.0,Blake Grupe kicks extra point good,0.0,0.0,8.0,2023,112
+4.0,10:49,,,NOR 35,35.0,20.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,112
+4.0,10:49,1.0,10.0,IND 25,35.0,20.0,Gardner Minshew sacked by Nathan Shepherd for -3 yards,0.61,-0.34,8.0,2023,112
+4.0,10:10,2.0,13.0,IND 22,35.0,20.0,Gardner Minshew pass complete short right to Alec Pierce for 15 yards (tackle by Tyrann Mathieu),-0.34,1.4,8.0,2023,112
+4.0,9:43,1.0,10.0,IND 37,35.0,20.0,"Gardner Minshew pass incomplete intended for Alec Pierce. Penalty on Tyrann Mathieu: Defensive Pass Interference, 15 yards (accepted) (no play)",1.4,2.39,8.0,2023,112
+4.0,9:36,1.0,10.0,NOR 48,35.0,20.0,Gardner Minshew pass incomplete short left,2.39,1.85,8.0,2023,112
+4.0,9:30,2.0,10.0,NOR 48,35.0,20.0,Gardner Minshew pass complete short middle to Josh Downs for 13 yards (tackle by Demario Davis and Tyrann Mathieu),1.85,3.25,8.0,2023,112
+4.0,8:54,1.0,10.0,NOR 35,35.0,20.0,Gardner Minshew pass complete short middle to Jonathan Taylor for 2 yards (tackle by Demario Davis and Tyrann Mathieu),3.25,2.97,8.0,2023,112
+4.0,8:29,2.0,8.0,NOR 33,35.0,26.0,"Gardner Minshew pass complete deep right to Andrew Ogletree for 33 yards, touchdown",2.97,7.0,8.0,2023,112
+4.0,8:19,,,NOR 15,35.0,27.0,Matt Gay kicks extra point good,0.0,0.0,8.0,2023,112
+4.0,8:19,,,IND 35,35.0,27.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,112
+4.0,8:19,1.0,10.0,NOR 25,35.0,27.0,Derek Carr pass complete short right to Chris Olave for 7 yards (tackle by Kenny Moore),0.61,1.01,8.0,2023,112
+4.0,7:39,2.0,3.0,NOR 32,35.0,27.0,Kendre Miller up the middle for no gain (tackle by Jacob Martin and Shaquille Leonard),1.01,0.3,8.0,2023,112
+4.0,7:06,3.0,3.0,NOR 32,35.0,27.0,Derek Carr pass complete short left to Chris Olave for 7 yards (tackle by Zaire Franklin),0.3,1.53,8.0,2023,112
+4.0,6:23,1.0,10.0,NOR 39,35.0,27.0,Jamaal Williams left tackle for 5 yards (tackle by Tyquan Lewis and Zaire Franklin),1.53,1.66,8.0,2023,112
+4.0,5:46,2.0,5.0,NOR 44,35.0,27.0,Derek Carr pass incomplete deep left intended for Chris Olave,1.66,0.96,8.0,2023,112
+4.0,5:36,3.0,5.0,NOR 44,35.0,27.0,Derek Carr pass incomplete short left intended for Michael Thomas (defended by Jaylon Jones),0.96,-0.46,8.0,2023,112
+4.0,5:31,4.0,5.0,NOR 44,35.0,27.0,"Lou Hedley punts 47 yards, returned by Isaiah McKenzie for 7 yards (tackle by J.T. Gray)",-0.46,0.14,8.0,2023,112
+4.0,5:22,1.0,10.0,IND 16,35.0,27.0,"Penalty on Will Fries: False Start, 5 yards (accepted) (no play)",-0.14,-0.54,8.0,2023,112
+4.0,5:22,1.0,15.0,IND 11,35.0,27.0,Gardner Minshew sacked by Carl Granderson for -3 yards,-0.54,-1.36,8.0,2023,112
+4.0,4:38,2.0,18.0,IND 8,35.0,27.0,Gardner Minshew pass incomplete short middle intended for Mo Alie-Cox (defended by Marshon Lattimore),-1.36,-2.36,8.0,2023,112
+4.0,4:36,3.0,18.0,IND 8,35.0,27.0,Gardner Minshew pass complete deep middle to Alec Pierce for 19 yards (tackle by Marshon Lattimore),-2.36,0.74,8.0,2023,112
+4.0,4:10,1.0,10.0,IND 27,35.0,27.0,Gardner Minshew pass incomplete deep right intended for Josh Downs,0.74,0.2,8.0,2023,112
+4.0,4:06,2.0,10.0,IND 27,35.0,27.0,Gardner Minshew pass incomplete short left intended for Andrew Ogletree (defended by Bryan Bresee),0.2,-0.49,8.0,2023,112
+4.0,4:02,3.0,10.0,IND 27,35.0,27.0,Gardner Minshew pass incomplete deep right intended for Juwann Winfree,-0.49,-1.57,8.0,2023,112
+4.0,3:55,4.0,10.0,IND 27,35.0,27.0,"Rigoberto Sanchez punts 40 yards, fair catch by Rashid Shaheed at NO-33",-1.57,-1.14,8.0,2023,112
+4.0,3:48,1.0,10.0,NOR 33,35.0,27.0,Jamaal Williams up the middle for 6 yards (tackle by Kwity Paye),1.14,1.4,8.0,2023,112
+4.0,3:09,2.0,4.0,NOR 39,35.0,27.0,"Penalty on Max Garcia: False Start, 5 yards (accepted) (no play)",1.4,0.73,8.0,2023,112
+4.0,3:05,2.0,9.0,NOR 34,35.0,27.0,"Penalty on Juwan Johnson: False Start, 5 yards (accepted) (no play)",0.73,0.05,8.0,2023,112
+4.0,3:05,2.0,14.0,NOR 29,35.0,27.0,Alvin Kamara up the middle for 1 yard (tackle by Samson Ebukam and Zaire Franklin),0.05,-0.49,8.0,2023,112
+4.0,3:00,,,,,,Timeout #1 by Indianapolis Colts,,,8.0,2023,112
+4.0,3:00,3.0,13.0,NOR 30,35.0,27.0,Derek Carr pass complete deep left to Rashid Shaheed for 51 yards (tackle by Tony Brown),-0.49,4.31,8.0,2023,112
+4.0,2:50,,,,,,Timeout #2 by Indianapolis Colts,,,8.0,2023,112
+4.0,2:50,1.0,10.0,IND 19,35.0,27.0,Taysom Hill left tackle for 5 yards (tackle by Rodney Thomas),4.31,4.53,8.0,2023,112
+4.0,2:09,2.0,5.0,IND 14,35.0,27.0,Taysom Hill left tackle for 5 yards (tackle by Shaquille Leonard and Samson Ebukam),4.53,5.14,8.0,2023,112
+4.0,2:00,1.0,9.0,IND 9,35.0,27.0,Alvin Kamara left guard for 4 yards (tackle by Shaquille Leonard and Julian Blackmon),5.14,5.15,8.0,2023,112
+4.0,1:55,,,,,,Timeout #3 by Indianapolis Colts,,,8.0,2023,112
+4.0,1:55,2.0,5.0,IND 5,35.0,27.0,Alvin Kamara left guard for -2 yards (tackle by Dayo Odeyingbo),5.15,3.81,8.0,2023,112
+4.0,1:04,3.0,7.0,IND 7,35.0,27.0,Taysom Hill left tackle for -2 yards (tackle by Julian Blackmon and Zaire Franklin),3.81,2.83,8.0,2023,112
+4.0,0:27,,,,,,Timeout #2 by New Orleans Saints,,,8.0,2023,112
+4.0,0:27,4.0,9.0,IND 9,38.0,27.0,Blake Grupe 27 yard field goal good,2.83,3.0,8.0,2023,112
+4.0,0:24,,,NOR 35,38.0,27.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,112
+4.0,0:24,1.0,10.0,IND 25,38.0,27.0,Gardner Minshew pass incomplete short right intended for Michael Pittman,0.61,0.06,8.0,2023,112
+4.0,0:19,2.0,10.0,IND 25,38.0,27.0,Gardner Minshew pass complete short right to Michael Pittman for 4 yards (tackle by Paulson Adebo),0.06,-0.1,8.0,2023,112
+4.0,0:03,3.0,6.0,IND 29,38.0,27.0,Gardner Minshew pass incomplete short middle intended for Will Mallory (defended by Ugo Amadi) (defended by Bryan Bresee),-0.1,-1.44,8.0,2023,112

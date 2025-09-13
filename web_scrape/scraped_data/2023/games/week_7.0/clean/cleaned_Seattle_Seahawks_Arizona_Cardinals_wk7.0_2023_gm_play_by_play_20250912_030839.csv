@@ -1,0 +1,162 @@
+Quarter,Time,Down,ToGo,Location,ARI,SEA,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Seahawks won the coin toss and deferred, Cardinals to receive the opening kickoff.",,,7.0,2023,102
+1.0,15:00,,,SEA 35,0.0,0.0,"Jason Myers kicks off 57 yards, out of bounds",0.0,1.6,7.0,2023,102
+1.0,15:00,1.0,10.0,ARI 40,0.0,0.0,Joshua Dobbs pass complete short middle to Geoff Swaim for 8 yards (tackle by Bobby Wagner),1.6,2.13,7.0,2023,102
+1.0,14:30,2.0,2.0,ARI 48,0.0,0.0,Joshua Dobbs pass incomplete short left intended for Trey McBride,2.13,1.42,7.0,2023,102
+1.0,14:24,3.0,2.0,ARI 48,0.0,0.0,Joshua Dobbs left end for 2 yards (tackle by Dre'Mont Jones),1.42,2.26,7.0,2023,102
+1.0,13:51,1.0,10.0,ARI 50,0.0,0.0,Emari Demercado up the middle for no gain (tackle by Jamal Adams),2.26,1.71,7.0,2023,102
+1.0,13:15,2.0,10.0,ARI 50,0.0,0.0,Rondale Moore left end for 5 yards (tackle by Jamal Adams),1.71,1.69,7.0,2023,102
+1.0,12:30,3.0,5.0,SEA 45,0.0,0.0,"Joshua Dobbs pass incomplete short right intended for Rondale Moore (defended by Quandre Diggs) Penalty on ARI: Illegal Formation, 5 yards (declined)",1.69,0.27,7.0,2023,102
+1.0,12:25,4.0,5.0,SEA 45,0.0,0.0,"Blake Gillikin punts 29 yards downed by Geoff Swaim. Penalty on Derick Hall: Offensive Holding, 8 yards (accepted)",0.27,0.38,7.0,2023,102
+1.0,12:17,1.0,10.0,SEA 8,0.0,0.0,Kenneth Walker right guard for 3 yards (tackle by Leki Fotu),-0.38,-0.56,7.0,2023,102
+1.0,11:48,2.0,7.0,SEA 11,0.0,0.0,Geno Smith pass complete short right to Kenneth Walker for no gain (tackle by Starling Thomas),-0.56,-1.07,7.0,2023,102
+1.0,11:09,3.0,7.0,SEA 11,0.0,0.0,Geno Smith pass complete deep left to Jake Bobo for 31 yards (tackle by Marco Wilson),-1.07,1.73,7.0,2023,102
+1.0,10:19,1.0,10.0,SEA 42,0.0,0.0,Kenneth Walker left guard for 9 yards (tackle by Andre Chachere),1.73,2.4,7.0,2023,102
+1.0,9:43,2.0,1.0,ARI 49,0.0,0.0,Kenneth Walker right end for 3 yards (tackle by Budda Baker),2.4,2.52,7.0,2023,102
+1.0,8:57,,,,,,Timeout #1 by Seattle Seahawks,,,7.0,2023,102
+1.0,8:57,1.0,10.0,ARI 46,0.0,0.0,Kenneth Walker left guard for 5 yards (tackle by Leki Fotu),2.52,2.65,7.0,2023,102
+1.0,8:23,2.0,5.0,ARI 41,0.0,0.0,Geno Smith sacked by Zaven Collins for -10 yards,2.65,0.63,7.0,2023,102
+1.0,7:38,3.0,15.0,SEA 49,0.0,0.0,Geno Smith pass complete short right to DeeJay Dallas for no gain (tackle by Josh Woods and Kyzir White),0.63,-0.13,7.0,2023,102
+1.0,6:57,4.0,15.0,SEA 49,0.0,0.0,"Michael Dickson punts 46 yards, returned by Greg Dortch for 8 yards (tackle by Nick Bellore and Derick Hall)",-0.13,0.32,7.0,2023,102
+1.0,6:48,1.0,10.0,ARI 13,0.0,0.0,Joshua Dobbs pass incomplete short left intended for Trey McBride,-0.32,-0.77,7.0,2023,102
+1.0,6:44,2.0,10.0,ARI 13,0.0,0.0,Emari Demercado left tackle for 5 yards (tackle by Mario Edwards and Jordyn Brooks),-0.77,-0.83,7.0,2023,102
+1.0,6:03,3.0,5.0,ARI 18,0.0,0.0,Joshua Dobbs pass incomplete short right intended for Rondale Moore,-0.83,-2.24,7.0,2023,102
+1.0,5:58,4.0,5.0,ARI 18,0.0,0.0,"Blake Gillikin punts 48 yards, returned by DeeJay Dallas for 5 yards (tackle by Krys Barnes and Dennis Gardeck)",-2.24,-1.53,7.0,2023,102
+1.0,5:48,1.0,10.0,SEA 39,0.0,0.0,Geno Smith pass complete short right to Tyler Lockett for 8 yards (tackle by Starling Thomas),1.53,2.07,7.0,2023,102
+1.0,5:28,2.0,2.0,SEA 47,0.0,0.0,Kenneth Walker right end for 25 yards (tackle by Budda Baker),2.07,3.71,7.0,2023,102
+1.0,4:53,1.0,10.0,ARI 28,0.0,6.0,"Geno Smith pass complete deep middle to Jaxon Smith-Njigba for 28 yards, touchdown",3.71,7.0,7.0,2023,102
+1.0,4:47,,,ARI 15,0.0,7.0,Jason Myers kicks extra point good,0.0,0.0,7.0,2023,102
+1.0,4:47,,,SEA 35,0.0,7.0,"Jason Myers kicks off 61 yards, returned by Greg Dortch for 15 yards (tackle by Jon Rhattigan)",0.0,0.15,7.0,2023,102
+1.0,4:42,1.0,10.0,ARI 19,0.0,7.0,Joshua Dobbs right end for 1 yard (tackle by Bobby Wagner),0.15,-0.2,7.0,2023,102
+1.0,3:59,2.0,9.0,ARI 20,0.0,7.0,Joshua Dobbs scrambles up the middle for no gain (tackle by Bobby Wagner) (no play),-0.2,-1.0,7.0,2023,102
+1.0,3:39,2.0,14.0,ARI 15,0.0,7.0,Joshua Dobbs pass incomplete short left intended for Marquise Brown (defended by Darrell Taylor),-1.0,-1.76,7.0,2023,102
+1.0,3:36,3.0,14.0,ARI 15,0.0,7.0,Joshua Dobbs pass incomplete deep left intended for Marquise Brown (defended by Devon Witherspoon),-1.76,-2.44,7.0,2023,102
+1.0,3:30,4.0,14.0,ARI 15,0.0,7.0,"Blake Gillikin punts 57 yards, returned by DeeJay Dallas for 4 yards. DeeJay Dallas fumbles (forced by Joey Blount), recovered by Dennis Gardeck at SEA-32 and returned for 2 yards (tackle by Cody Thompson)",-2.44,3.58,7.0,2023,102
+1.0,3:19,1.0,10.0,SEA 30,0.0,7.0,Emari Demercado left tackle for 1 yard (tackle by Jarran Reed and Dre'Mont Jones),3.58,3.17,7.0,2023,102
+1.0,2:40,2.0,9.0,SEA 29,0.0,7.0,Joshua Dobbs pass complete short left to Emari Demercado for 3 yards (tackle by Riq Woolen),3.17,2.87,7.0,2023,102
+1.0,2:04,3.0,6.0,SEA 26,0.0,7.0,"Joshua Dobbs pass complete short left to Emari Demercado for no gain. Emari Demercado fumbles (forced by Julian Love), recovered by Marquise Brown at SEA-21 SEA challenged the fumble ruling, and the original play was overturned. Joshua Dobbs pass incomplete short left intended for Emari Demercado (defended by Julian Love)",2.87,1.76,7.0,2023,102
+1.0,2:01,4.0,6.0,SEA 26,3.0,7.0,Matt Prater 44 yard field goal good,1.76,3.0,7.0,2023,102
+1.0,1:57,,,ARI 35,3.0,7.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,102
+1.0,1:57,1.0,10.0,SEA 25,3.0,7.0,Kenneth Walker up the middle for 3 yards (tackle by Leki Fotu and Jonathan Ledbetter),0.61,0.47,7.0,2023,102
+1.0,1:20,2.0,7.0,SEA 28,3.0,7.0,Geno Smith pass complete short left to Kenneth Walker for 6 yards (tackle by Marco Wilson),0.47,0.56,7.0,2023,102
+1.0,0:47,3.0,1.0,SEA 34,3.0,7.0,"Penalty on Damien Lewis: Offensive Offside, 4 yards (accepted) (no play)",0.56,0.04,7.0,2023,102
+1.0,0:32,3.0,5.0,SEA 30,3.0,7.0,Geno Smith pass complete short right to Jaxon Smith-Njigba for 10 yards (tackle by Andre Chachere),0.04,1.6,7.0,2023,102
+2.0,15:00,1.0,10.0,SEA 40,3.0,7.0,Kenneth Walker left guard for 6 yards (tackle by Kevin Strong and Cameron Thomas),1.6,1.86,7.0,2023,102
+2.0,14:19,2.0,4.0,SEA 46,3.0,7.0,Kenneth Walker left tackle for 2 yards (tackle by Andre Chachere and Dennis Gardeck),1.86,1.42,7.0,2023,102
+2.0,13:48,3.0,2.0,SEA 48,3.0,7.0,Geno Smith pass incomplete short middle intended for Jaxon Smith-Njigba (defended by Kyzir White),1.42,-0.19,7.0,2023,102
+2.0,13:45,4.0,2.0,SEA 48,3.0,7.0,"Michael Dickson punts 52 yards, touchback.",-0.19,-0.28,7.0,2023,102
+2.0,13:38,1.0,10.0,ARI 20,3.0,7.0,Emari Demercado left guard for 4 yards (tackle by Jamal Adams),0.28,0.27,7.0,2023,102
+2.0,13:05,2.0,6.0,ARI 24,3.0,7.0,Joshua Dobbs pass complete short middle to Zach Ertz for 9 yards (tackle by Jordyn Brooks),0.27,1.14,7.0,2023,102
+2.0,12:28,1.0,10.0,ARI 33,3.0,7.0,Emari Demercado left end for 18 yards (tackle by Devon Witherspoon),1.14,2.32,7.0,2023,102
+2.0,12:01,1.0,10.0,SEA 49,3.0,7.0,Emari Demercado right guard for 1 yard (tackle by Bobby Wagner and Uchenna Nwosu),2.32,1.92,7.0,2023,102
+2.0,11:23,2.0,9.0,SEA 48,3.0,7.0,Damien Williams left guard for 2 yards (tackle by Boye Mafe),1.92,1.49,7.0,2023,102
+2.0,10:43,3.0,7.0,SEA 46,3.0,7.0,Joshua Dobbs pass complete short left to Michael Wilson for 11 yards (tackle by Julian Love),1.49,3.25,7.0,2023,102
+2.0,10:08,1.0,10.0,SEA 35,3.0,7.0,Rondale Moore left end for 15 yards (tackle by Quandre Diggs),3.25,4.24,7.0,2023,102
+2.0,9:32,1.0,10.0,SEA 20,3.0,7.0,"Joshua Dobbs pass deep right is intercepted by Devon Witherspoon at SEA-2 and returned for 12 yards (tackle by Paris Johnson and Trey McBride). Penalty on Jordyn Brooks: Unnecessary Roughness / Defense, 15 yards (declined) . Penalty on Boye Mafe: Roughing the Passer, 10 yards (accepted) . Penalty on D.J. Humphries: Disqualification / Offense, 15 yards (accepted) (no play)",4.24,3.91,7.0,2023,102
+2.0,9:18,1.0,25.0,SEA 25,9.0,7.0,"Joshua Dobbs left end for 25 yards, touchdown",3.91,7.0,7.0,2023,102
+2.0,9:11,,,SEA 15,10.0,7.0,Matt Prater kicks extra point good,0.0,0.0,7.0,2023,102
+2.0,9:11,,,ARI 35,10.0,7.0,"Matt Prater kicks off 65 yards, returned by DeeJay Dallas for 24 yards (tackle by Owen Pappoe and Zeke Turner)",0.0,0.54,7.0,2023,102
+2.0,9:06,1.0,10.0,SEA 24,10.0,7.0,Geno Smith pass complete short left to Jaxon Smith-Njigba for 12 yards (tackle by Andre Chachere),0.54,1.33,7.0,2023,102
+2.0,8:27,1.0,10.0,SEA 36,10.0,7.0,Geno Smith pass complete short left to Jaxon Smith-Njigba for 13 yards (tackle by Budda Baker),1.33,2.19,7.0,2023,102
+2.0,7:50,1.0,10.0,SEA 49,10.0,7.0,"Geno Smith pass incomplete deep right intended for Tyler Lockett. Penalty on Starling Thomas: Defensive Holding, 5 yards (accepted) (no play)",2.19,2.52,7.0,2023,102
+2.0,7:43,1.0,10.0,ARI 46,10.0,7.0,Kenneth Walker right end for no gain (tackle by Dennis Gardeck and Dante Stills),2.52,1.98,7.0,2023,102
+2.0,7:07,2.0,10.0,ARI 46,10.0,7.0,Geno Smith pass incomplete short right intended for Jaxon Smith-Njigba,1.98,1.29,7.0,2023,102
+2.0,7:01,3.0,10.0,ARI 46,10.0,7.0,Geno Smith pass complete short left to Tyler Lockett for 15 yards (tackle by Marco Wilson),1.29,3.51,7.0,2023,102
+2.0,6:19,1.0,10.0,ARI 31,10.0,7.0,Geno Smith pass incomplete short left intended for Kenneth Walker,3.51,2.97,7.0,2023,102
+2.0,6:13,2.0,10.0,ARI 31,10.0,7.0,Kenneth Walker right guard for 5 yards (tackle by Garrett Williams and BJ Ojulari),2.97,2.94,7.0,2023,102
+2.0,5:30,3.0,5.0,ARI 26,10.0,7.0,Geno Smith pass complete short middle to Tyler Lockett for 8 yards (tackle by Josh Woods),2.94,4.37,7.0,2023,102
+2.0,4:47,1.0,10.0,ARI 18,10.0,13.0,"Geno Smith pass incomplete intended for Jake Bobo SEA challenged the pass completion ruling, and the original play was overturned. Geno Smith pass complete deep right to Jake Bobo for 18 yards, touchdown",4.37,7.0,7.0,2023,102
+2.0,4:41,,,ARI 15,10.0,14.0,Jason Myers kicks extra point good,0.0,0.0,7.0,2023,102
+2.0,4:41,,,SEA 35,10.0,14.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,102
+2.0,4:41,1.0,10.0,ARI 25,10.0,14.0,Joshua Dobbs pass incomplete short middle intended for Trey McBride,0.61,0.06,7.0,2023,102
+2.0,4:36,2.0,10.0,ARI 25,10.0,14.0,Emari Demercado left guard for 5 yards (tackle by Quandre Diggs),0.06,0.04,7.0,2023,102
+2.0,3:57,3.0,5.0,ARI 30,10.0,14.0,"Joshua Dobbs pass complete short middle to Marquise Brown for 12 yards (tackle by Tre Brown). Penalty on Riq Woolen: Defensive Holding, 5 yards (declined)",0.04,1.73,7.0,2023,102
+2.0,3:34,1.0,10.0,ARI 42,10.0,14.0,Emari Demercado up the middle for 2 yards (tackle by Uchenna Nwosu),1.73,1.46,7.0,2023,102
+2.0,2:59,2.0,8.0,ARI 44,10.0,14.0,Joshua Dobbs pass complete short middle to Trey McBride for 4 yards (tackle by Bobby Wagner),1.46,1.29,7.0,2023,102
+2.0,2:16,3.0,4.0,ARI 48,10.0,14.0,Joshua Dobbs scrambles right end for 5 yards (tackle by Bobby Wagner),1.29,2.46,7.0,2023,102
+2.0,2:00,1.0,10.0,SEA 47,10.0,14.0,"Rondale Moore right end for 5 yards (tackle by Devon Witherspoon). Penalty on Trey McBride: Offensive Holding, 10 yards (accepted)",2.46,2.13,7.0,2023,102
+2.0,1:55,1.0,15.0,ARI 48,10.0,14.0,Joshua Dobbs pass complete short right to Emari Demercado for 1 yard (tackle by Julian Love),2.13,1.37,7.0,2023,102
+2.0,1:16,2.0,14.0,ARI 49,10.0,14.0,Joshua Dobbs pass complete short middle to Marquise Brown for 16 yards (tackle by Riq Woolen),1.37,3.25,7.0,2023,102
+2.0,0:45,1.0,10.0,SEA 35,10.0,14.0,Emari Demercado right end for 8 yards (tackle by Julian Love and Derick Hall),3.25,3.78,7.0,2023,102
+2.0,0:37,,,,,,Timeout #1 by Arizona Cardinals,,,7.0,2023,102
+2.0,0:37,2.0,2.0,SEA 27,10.0,14.0,"Joshua Dobbs pass incomplete deep left intended for Marquise Brown. Penalty on Kelvin Beachum: Offensive Holding, 10 yards (accepted) (no play)",3.78,2.43,7.0,2023,102
+2.0,0:32,2.0,12.0,SEA 37,10.0,14.0,Joshua Dobbs pass incomplete short right intended for Marquise Brown (defended by Boye Mafe),2.43,1.75,7.0,2023,102
+2.0,0:27,3.0,12.0,SEA 37,10.0,14.0,Joshua Dobbs sacked by Boye Mafe for -7 yards,1.75,0.33,7.0,2023,102
+2.0,0:02,,,,,,Timeout #2 by Arizona Cardinals,,,7.0,2023,102
+2.0,0:02,4.0,19.0,SEA 44,10.0,14.0,"Penalty on Hjalte Froholdt: False Start, 5 yards (accepted) (no play)",0.33,0.0,7.0,2023,102
+2.0,0:02,4.0,24.0,SEA 49,10.0,14.0,Joshua Dobbs pass incomplete deep left (defended by Jamal Adams) (defended by Tre Brown),0.0,2.19,7.0,2023,102
+3.0,15:00,,,ARI 35,10.0,14.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,102
+3.0,15:00,1.0,10.0,SEA 25,10.0,14.0,Kenneth Walker left tackle for 1 yard (tackle by Kevin Strong),0.61,0.2,7.0,2023,102
+3.0,14:19,2.0,9.0,SEA 26,10.0,14.0,Geno Smith pass complete short right to Tyler Lockett for 7 yards (tackle by Starling Thomas),0.2,0.43,7.0,2023,102
+3.0,13:43,3.0,2.0,SEA 33,10.0,14.0,Geno Smith scrambles up the middle for 5 yards (tackle by Dennis Gardeck),0.43,1.47,7.0,2023,102
+3.0,13:06,1.0,10.0,SEA 38,10.0,14.0,Kenneth Walker left end for -1 yards (tackle by Kyzir White),1.47,0.79,7.0,2023,102
+3.0,12:20,2.0,11.0,SEA 37,10.0,14.0,Geno Smith pass complete deep right to Colby Parkinson for 27 yards (tackle by Andre Chachere),0.79,3.18,7.0,2023,102
+3.0,11:42,1.0,10.0,ARI 36,10.0,14.0,Geno Smith pass complete deep left to Noah Fant for 25 yards (tackle by Budda Baker),3.18,4.84,7.0,2023,102
+3.0,10:57,1.0,10.0,ARI 11,10.0,14.0,Kenneth Walker left guard for 3 yards (tackle by Cameron Thomas and Marco Wilson),4.84,4.7,7.0,2023,102
+3.0,10:29,2.0,7.0,ARI 8,10.0,14.0,Geno Smith for 2 yards (tackle by Kyzir White),4.7,4.21,7.0,2023,102
+3.0,9:47,3.0,5.0,ARI 6,10.0,14.0,Geno Smith scrambles right end for 5 yards (tackle by Josh Woods),4.21,6.97,7.0,2023,102
+3.0,9:02,,,,,,Timeout #1 by Seattle Seahawks,,,7.0,2023,102
+3.0,9:02,1.0,1.0,ARI 1,10.0,14.0,Kenneth Walker right guard for no gain (tackle by Kevin Strong and Roy Lopez),6.97,5.91,7.0,2023,102
+3.0,8:30,2.0,1.0,ARI 1,10.0,14.0,Kenneth Walker right guard for -1 yards (tackle by Budda Baker),5.91,4.95,7.0,2023,102
+3.0,7:43,3.0,2.0,ARI 2,10.0,14.0,"Geno Smith pass complete short right to Colby Parkinson for -1 yards (tackle by Starling Thomas). Penalty on Charles Cross: Offensive Holding, 10 yards (declined)",4.95,3.04,7.0,2023,102
+3.0,7:40,4.0,3.0,ARI 3,10.0,17.0,Jason Myers 21 yard field goal good,3.04,3.0,7.0,2023,102
+3.0,7:37,,,SEA 35,10.0,17.0,"Jason Myers kicks off 59 yards, returned by Greg Dortch for 13 yards (tackle by Cody Thompson). Penalty on Elijah Higgins: Offensive Facemask, 9 yards (accepted)",0.0,-0.38,7.0,2023,102
+3.0,7:31,1.0,10.0,ARI 10,10.0,17.0,Joshua Dobbs right end for 3 yards (tackle by Jamal Adams),-0.38,-0.56,7.0,2023,102
+3.0,6:53,2.0,7.0,ARI 13,10.0,17.0,Joshua Dobbs pass complete short middle to Zach Ertz for 5 yards (tackle by Bobby Wagner),-0.56,-0.48,7.0,2023,102
+3.0,6:19,3.0,2.0,ARI 18,10.0,17.0,Joshua Dobbs sacked by and Jordyn Brooks for no gain and Darrell Taylor for no gain,-0.48,-2.24,7.0,2023,102
+3.0,5:38,4.0,2.0,ARI 18,10.0,17.0,"Blake Gillikin punts 48 yards, returned by DeeJay Dallas for 32 yards (tackle by Bobby Price)",-2.24,-3.31,7.0,2023,102
+3.0,5:24,1.0,10.0,ARI 34,10.0,17.0,Kenneth Walker right guard for 9 yards (tackle by Budda Baker),3.31,3.99,7.0,2023,102
+3.0,4:47,2.0,1.0,ARI 25,10.0,17.0,Kenneth Walker up the middle for 3 yards (tackle by Dante Stills),3.99,4.11,7.0,2023,102
+3.0,4:09,1.0,10.0,ARI 22,10.0,17.0,Kenneth Walker right guard for 4 yards (tackle by Josh Woods),4.11,4.13,7.0,2023,102
+3.0,3:20,2.0,6.0,ARI 18,10.0,17.0,Kenneth Walker up the middle for 2 yards (tackle by Roy Lopez and Kyzir White),4.13,3.74,7.0,2023,102
+3.0,2:38,3.0,4.0,ARI 16,10.0,17.0,Geno Smith pass short left intended for Jake Bobo is intercepted by Garrett Williams at ARI-1 and returned for no gain (tackle by Jake Bobo),3.74,0.38,7.0,2023,102
+3.0,2:31,1.0,10.0,ARI 1,10.0,17.0,"Penalty on Dre'Mont Jones: Encroachment, 5 yards (accepted) (no play)",-0.38,-0.19,7.0,2023,102
+3.0,2:31,1.0,5.0,ARI 6,10.0,17.0,Emari Demercado up the middle for 4 yards (tackle by Jordyn Brooks),-0.19,-0.12,7.0,2023,102
+3.0,1:56,2.0,1.0,ARI 10,10.0,17.0,Joshua Dobbs pass complete short right to Rondale Moore for 4 yards (tackle by Devon Witherspoon),-0.12,-0.28,7.0,2023,102
+3.0,1:13,1.0,10.0,ARI 14,10.0,17.0,Rondale Moore right end for -1 yards (tackle by Jordyn Brooks),-0.28,-0.85,7.0,2023,102
+3.0,0:34,2.0,11.0,ARI 13,10.0,17.0,Joshua Dobbs pass complete short middle to Zach Ertz for 5 yards (tackle by Derick Hall and Bobby Wagner),-0.85,-0.92,7.0,2023,102
+4.0,15:00,3.0,6.0,ARI 18,10.0,17.0,"Joshua Dobbs pass incomplete deep right intended for Michael Wilson. Penalty on Paris Johnson: Offensive Holding, 5 yards (declined)",-0.92,-2.24,7.0,2023,102
+4.0,14:51,4.0,6.0,ARI 18,10.0,17.0,"Blake Gillikin punts 58 yards, returned by DeeJay Dallas for 6 yards (tackle by Cameron Thomas)",-2.24,-0.94,7.0,2023,102
+4.0,14:39,1.0,10.0,SEA 30,10.0,17.0,Geno Smith pass complete short left to Jake Bobo for 7 yards (tackle by Marco Wilson),0.94,1.34,7.0,2023,102
+4.0,14:08,2.0,3.0,SEA 37,10.0,17.0,"Geno Smith aborted snap, recovered by Kevin Strong at SEA-34",1.34,-3.31,7.0,2023,102
+4.0,14:04,1.0,10.0,SEA 34,10.0,17.0,Joshua Dobbs pass complete short middle to Trey McBride for 19 yards (tackle by Julian Love and Jamal Adams),3.31,4.58,7.0,2023,102
+4.0,13:22,1.0,10.0,SEA 15,10.0,17.0,"Hjalte Froholdt aborted snap, recovered by Joshua Dobbs at SEA-26 and returned for -3 yards (tackle by Jordyn Brooks and Boye Mafe)",4.58,2.13,7.0,2023,102
+4.0,12:35,2.0,24.0,SEA 29,10.0,17.0,Joshua Dobbs right end for 7 yards (tackle by Jordyn Brooks),2.13,2.41,7.0,2023,102
+4.0,11:54,3.0,17.0,SEA 22,10.0,17.0,Joshua Dobbs pass complete short right to Trey McBride for 6 yards (tackle by Quandre Diggs),2.41,2.38,7.0,2023,102
+4.0,11:11,4.0,11.0,SEA 16,10.0,17.0,Matt Prater 34 yard field goal no good,2.38,-0.54,7.0,2023,102
+4.0,11:06,1.0,10.0,SEA 24,10.0,17.0,Kenneth Walker right guard for 4 yards (tackle by Jonathan Ledbetter and Zaven Collins),0.54,0.54,7.0,2023,102
+4.0,10:25,2.0,6.0,SEA 28,10.0,17.0,Geno Smith sacked by and Kevin Strong for -6 yards and Jonathan Ledbetter for -6 yards,0.54,-0.96,7.0,2023,102
+4.0,9:46,3.0,12.0,SEA 22,10.0,17.0,"Geno Smith pass incomplete deep right intended for Tyler Lockett (defended by Starling Thomas). Penalty on Stone Forsythe: Offensive Holding, 10 yards (declined)",-0.96,-1.9,7.0,2023,102
+4.0,9:40,4.0,12.0,SEA 22,10.0,17.0,"Michael Dickson punts 45 yards, returned by Greg Dortch for no gain (tackle by Jerrick Reed)",-1.9,-1.14,7.0,2023,102
+4.0,9:31,1.0,10.0,ARI 33,10.0,17.0,Joshua Dobbs pass complete short right to Elijah Higgins for no gain (tackle by Bobby Wagner),1.14,0.59,7.0,2023,102
+4.0,8:58,2.0,10.0,ARI 33,10.0,17.0,Emari Demercado left guard for -3 yards (tackle by Mario Edwards),0.59,-0.49,7.0,2023,102
+4.0,8:17,3.0,13.0,ARI 30,10.0,17.0,"Joshua Dobbs sacked by Devon Witherspoon for no gain. Penalty on Riq Woolen: Illegal Contact, 5 yards (accepted) (no play)",-0.49,1.27,7.0,2023,102
+4.0,7:55,1.0,10.0,ARI 35,10.0,17.0,Joshua Dobbs pass complete short middle to Emari Demercado for 5 yards (tackle by Jordyn Brooks),1.27,1.4,7.0,2023,102
+4.0,7:13,2.0,5.0,ARI 40,10.0,17.0,Joshua Dobbs pass complete short left to Rondale Moore for -2 yards (tackle by Jordyn Brooks and Dre'Mont Jones),1.4,0.43,7.0,2023,102
+4.0,6:36,3.0,7.0,ARI 38,10.0,17.0,Emari Demercado left end for 12 yards (tackle by Julian Love),0.43,2.26,7.0,2023,102
+4.0,5:58,1.0,10.0,ARI 50,10.0,17.0,Emari Demercado up the middle for 1 yard (tackle by Bobby Wagner and Darrell Taylor),2.26,1.85,7.0,2023,102
+4.0,5:12,2.0,9.0,SEA 49,10.0,17.0,Joshua Dobbs pass incomplete short middle intended for Michael Wilson (defended by Jordyn Brooks),1.85,1.16,7.0,2023,102
+4.0,5:09,3.0,9.0,SEA 49,10.0,17.0,Joshua Dobbs pass incomplete short left intended for Zach Ertz,1.16,0.0,7.0,2023,102
+4.0,5:04,4.0,9.0,SEA 49,10.0,17.0,Clayton Tune pass complete short right to Michael Wilson for 4 yards (tackle by Michael Jackson and Jon Rhattigan),0.0,-1.93,7.0,2023,102
+4.0,4:58,1.0,10.0,SEA 45,10.0,17.0,Kenneth Walker left guard for 2 yards (tackle by Kevin Strong and Roy Lopez),1.93,1.65,7.0,2023,102
+4.0,4:17,2.0,8.0,SEA 47,10.0,17.0,Kenneth Walker right end for 3 yards (tackle by Roy Lopez and Josh Woods),1.65,1.36,7.0,2023,102
+4.0,3:30,3.0,5.0,SEA 50,10.0,17.0,Geno Smith pass complete short left to Jake Bobo for 5 yards (tackle by Garrett Williams and Dennis Gardeck),1.36,2.59,7.0,2023,102
+4.0,2:48,1.0,10.0,ARI 45,10.0,17.0,Kenneth Walker left tackle for 7 yards (tackle by Andre Chachere),2.59,2.99,7.0,2023,102
+4.0,2:41,,,,,,Timeout #1 by Arizona Cardinals,,,7.0,2023,102
+4.0,2:41,2.0,3.0,ARI 38,10.0,17.0,Kenneth Walker up the middle for 4 yards (tackle by Jonathan Ledbetter),2.99,3.31,7.0,2023,102
+4.0,2:34,,,,,,Timeout #2 by Arizona Cardinals,,,7.0,2023,102
+4.0,2:34,1.0,10.0,ARI 34,10.0,17.0,Kenneth Walker left guard for -2 yards (tackle by Kyzir White),3.31,2.5,7.0,2023,102
+4.0,2:31,,,,,,Timeout #3 by Arizona Cardinals,,,7.0,2023,102
+4.0,2:31,2.0,12.0,ARI 36,10.0,17.0,Kenneth Walker left end for 6 yards (tackle by Josh Woods),2.5,2.61,7.0,2023,102
+4.0,2:25,,,,,,Timeout #2 by Seattle Seahawks,,,7.0,2023,102
+4.0,2:25,3.0,6.0,ARI 30,10.0,17.0,Geno Smith pass incomplete short left intended for Jaxon Smith-Njigba,2.61,1.43,7.0,2023,102
+4.0,2:22,4.0,6.0,ARI 30,10.0,20.0,Jason Myers 48 yard field goal good,1.43,3.0,7.0,2023,102
+4.0,2:17,,,SEA 35,10.0,20.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,7.0,2023,102
+4.0,2:17,1.0,10.0,ARI 25,10.0,20.0,Joshua Dobbs pass complete short middle to Emari Demercado for 8 yards (tackle by Devon Witherspoon),0.61,1.14,7.0,2023,102
+4.0,2:00,2.0,2.0,ARI 33,10.0,20.0,"Joshua Dobbs pass complete short right to Marquise Brown for 21 yards (tackle by Julian Love). Penalty on Tre Brown: Defensive Pass Interference, 15 yards (declined)",1.14,2.52,7.0,2023,102
+4.0,1:53,1.0,10.0,SEA 46,10.0,20.0,Joshua Dobbs pass incomplete short right intended for Marquise Brown,2.52,1.98,7.0,2023,102
+4.0,1:50,2.0,10.0,SEA 46,10.0,20.0,"Joshua Dobbs sacked by Darrell Taylor for -12 yards. Joshua Dobbs fumbles (forced by Darrell Taylor), recovered by Joshua Dobbs at ARI-42",1.98,-0.29,7.0,2023,102
+4.0,1:20,3.0,22.0,ARI 42,10.0,20.0,Joshua Dobbs pass complete short left to Michael Wilson for 11 yards (tackle by Jamal Adams and Riq Woolen),-0.29,0.13,7.0,2023,102
+4.0,1:12,4.0,11.0,SEA 47,10.0,20.0,Joshua Dobbs sacked by Jarran Reed for -9 yards,0.13,-2.65,7.0,2023,102
+4.0,1:06,1.0,10.0,ARI 44,10.0,20.0,Geno Smith kneels for -1 yards,2.65,1.98,7.0,2023,102
+4.0,0:38,2.0,11.0,ARI 45,10.0,20.0,Geno Smith kneels for -1 yards,1.98,1.16,7.0,2023,102

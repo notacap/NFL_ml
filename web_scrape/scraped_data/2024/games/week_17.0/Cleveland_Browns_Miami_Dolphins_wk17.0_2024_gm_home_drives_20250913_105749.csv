@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,10:49,CLE 19,3,1:24,4,Punt,1,Browns,17.0,2024,253
+2,1,5:46,CLE 27,14,7:20,66,Field Goal,1,Browns,17.0,2024,253
+3,2,11:20,CLE 20,3,0:24,0,Punt,1,Browns,17.0,2024,253
+4,2,8:00,CLE 5,6,3:27,28,Interception,1,Browns,17.0,2024,253
+5,2,1:48,CLE 42,6,1:08,20,Downs,1,Browns,17.0,2024,253
+6,3,15:00,CLE 30,3,0:51,4,Punt,1,Browns,17.0,2024,253
+7,3,11:04,CLE 30,3,1:03,-14,Punt,1,Browns,17.0,2024,253
+8,3,8:12,CLE 30,6,2:49,14,Fumble,1,Browns,17.0,2024,253
+9,3,3:18,CLE 38,11,4:07,59,Downs,1,Browns,17.0,2024,253
+10,4,12:52,MIA 45,3,1:47,-9,Punt,1,Browns,17.0,2024,253
+11,4,5:35,CLE 2,7,1:39,19,Downs,1,Browns,17.0,2024,253
+12,4,3:38,CLE 30,12,3:20,53,Downs,1,Browns,17.0,2024,253

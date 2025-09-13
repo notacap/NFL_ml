@@ -1,0 +1,167 @@
+Quarter,Time,Down,ToGo,Location,CAR,NOR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Panthers won the coin toss and deferred, Saints to receive the opening kickoff.",,,1.0,2024,5
+1.0,15:00,,,CAR 35,0.0,0.0,"Eddy Piñeiro kicks off 64 yards, returned by Rashid Shaheed for 33 yards (tackle by Jon Rhattigan). Penalty on Bub Means: Offensive Holding, 10 yards (accepted)",0.0,0.54,1.0,2024,5
+1.0,14:54,1.0,10.0,NOR 24,0.0,0.0,Alvin Kamara right end for 9 yards (tackle by Troy Hill and A'Shawn Robinson),0.54,1.21,1.0,2024,5
+1.0,14:16,2.0,1.0,NOR 33,0.0,0.0,Taysom Hill left tackle for 2 yards (tackle by A'Shawn Robinson),1.21,1.27,1.0,2024,5
+1.0,13:35,1.0,10.0,NOR 35,0.0,0.0,Derek Carr pass complete short right to Foster Moreau for 1 yard (tackle by Michael Jackson),1.27,0.86,1.0,2024,5
+1.0,12:57,2.0,9.0,NOR 36,0.0,0.0,Derek Carr pass complete short right to Alvin Kamara for 5 yards (tackle by Eku Leota),0.86,0.83,1.0,2024,5
+1.0,12:16,3.0,4.0,NOR 41,0.0,6.0,"Derek Carr pass complete deep middle to Rashid Shaheed for 59 yards, touchdown",0.83,7.0,1.0,2024,5
+1.0,12:08,,,CAR 15,0.0,7.0,Blake Grupe kicks extra point good,0.0,0.0,1.0,2024,5
+1.0,12:08,,,NOR 35,0.0,7.0,"Blake Grupe kicks off 63 yards, returned by Raheem Blackshear for 25 yards (tackle by Anfernee Orji)",0.0,0.74,1.0,2024,5
+1.0,12:02,1.0,10.0,CAR 27,0.0,7.0,Bryce Young pass deep middle intended for Diontae Johnson is intercepted by Will Harris at CAR-47 and returned for 7 yards (tackle by Robert Hunt),0.74,-2.92,1.0,2024,5
+1.0,11:54,1.0,10.0,CAR 40,0.0,7.0,"Derek Carr pass complete short left to Chris Olave for no gain (tackle by Jaycee Horn). Penalty on Foster Moreau: Illegal Shift, 5 yards (accepted) (no play)",2.92,2.59,1.0,2024,5
+1.0,11:34,1.0,15.0,CAR 45,0.0,7.0,Alvin Kamara right tackle for 11 yards (tackle by Jordan Fuller),2.59,3.18,1.0,2024,5
+1.0,10:59,2.0,4.0,CAR 34,0.0,7.0,Alvin Kamara left end for -5 yards (tackle by Shaq Thompson),3.18,1.82,1.0,2024,5
+1.0,10:17,3.0,9.0,CAR 39,0.0,7.0,Derek Carr pass incomplete deep right intended for Rashid Shaheed (defended by Michael Jackson),1.82,0.66,1.0,2024,5
+1.0,10:09,4.0,9.0,CAR 39,0.0,10.0,Blake Grupe 57 yard field goal good,0.66,3.0,1.0,2024,5
+1.0,10:04,,,NOR 35,0.0,10.0,"Blake Grupe kicks off 65 yards, returned by Raheem Blackshear for 26 yards (tackle by Anfernee Orji and J.T. Gray)",0.0,0.67,1.0,2024,5
+1.0,9:59,1.0,10.0,CAR 26,0.0,10.0,Chuba Hubbard right guard for 4 yards (tackle by Carl Granderson),0.67,0.67,1.0,2024,5
+1.0,9:25,2.0,6.0,CAR 30,0.0,10.0,Chuba Hubbard left end for 7 yards (tackle by Alontae Taylor),0.67,1.4,1.0,2024,5
+1.0,8:41,1.0,10.0,CAR 37,0.0,10.0,Bryce Young scrambles up the middle for 1 yard (tackle by Nathan Shepherd),1.4,0.99,1.0,2024,5
+1.0,7:57,2.0,9.0,CAR 38,0.0,10.0,Chuba Hubbard left guard for 3 yards (tackle by Nathan Shepherd and Cameron Jordan),0.99,0.7,1.0,2024,5
+1.0,7:15,3.0,6.0,CAR 41,0.0,10.0,Bryce Young pass incomplete deep left intended for Diontae Johnson,0.7,-0.65,1.0,2024,5
+1.0,7:10,4.0,6.0,CAR 41,0.0,10.0,"Johnny Hekker punts 46 yards, returned by Rashid Shaheed for 8 yards (tackle by Claudin Cherelus)",-0.65,-0.34,1.0,2024,5
+1.0,7:01,1.0,10.0,NOR 21,0.0,10.0,Alvin Kamara right guard for 9 yards (tackle by Michael Jackson and Josey Jewell),0.34,1.02,1.0,2024,5
+1.0,6:28,2.0,1.0,NOR 30,0.0,10.0,Alvin Kamara left guard for 5 yards (tackle by Josey Jewell),1.02,1.27,1.0,2024,5
+1.0,5:54,1.0,10.0,NOR 35,0.0,10.0,Taysom Hill right end for 12 yards (tackle by Shy Tuttle and A'Shawn Robinson),1.27,2.06,1.0,2024,5
+1.0,5:14,1.0,10.0,NOR 47,0.0,10.0,Derek Carr pass complete deep middle to Chris Olave for 17 yards (tackle by Michael Jackson),2.06,3.18,1.0,2024,5
+1.0,4:28,1.0,10.0,CAR 36,0.0,10.0,Derek Carr pass incomplete deep right intended for Juwan Johnson,3.18,2.64,1.0,2024,5
+1.0,4:22,2.0,10.0,CAR 36,0.0,10.0,Taysom Hill right tackle for 9 yards (tackle by Jordan Fuller and Shaq Thompson),2.64,3.14,1.0,2024,5
+1.0,3:43,3.0,1.0,CAR 27,0.0,10.0,Taysom Hill left guard for 5 yards (tackle by Shaq Thompson and Xavier Woods),3.14,4.11,1.0,2024,5
+1.0,3:02,1.0,10.0,CAR 22,0.0,10.0,Derek Carr pass incomplete deep left intended for Taysom Hill (defended by Nick Scott),4.11,3.56,1.0,2024,5
+1.0,2:55,2.0,10.0,CAR 22,0.0,10.0,Alvin Kamara left end for 17 yards (tackle by Troy Hill),3.56,6.06,1.0,2024,5
+1.0,2:11,1.0,5.0,CAR 5,0.0,10.0,Alvin Kamara right guard for 2 yards (tackle by Josey Jewell and A'Shawn Robinson),6.06,5.53,1.0,2024,5
+1.0,1:32,2.0,3.0,CAR 3,0.0,16.0,"Derek Carr pass complete short middle to Foster Moreau for 3 yards, touchdown",5.53,7.0,1.0,2024,5
+1.0,1:23,,,CAR 15,0.0,17.0,Blake Grupe kicks extra point good,0.0,0.0,1.0,2024,5
+1.0,1:23,,,NOR 35,0.0,17.0,"Blake Grupe kicks off 62 yards, returned by Raheem Blackshear for 22 yards (tackle by Anfernee Orji)",0.0,0.61,1.0,2024,5
+1.0,1:18,1.0,10.0,CAR 25,0.0,17.0,Miles Sanders right guard for 2 yards (tackle by Demario Davis),0.61,0.33,1.0,2024,5
+1.0,0:41,2.0,8.0,CAR 27,0.0,17.0,Bryce Young pass incomplete short right intended for Jonathan Mingo,0.33,-0.36,1.0,2024,5
+1.0,0:37,3.0,8.0,CAR 27,0.0,17.0,Bryce Young pass complete short right to Adam Thielen for 14 yards (tackle by Marshon Lattimore),-0.36,1.66,1.0,2024,5
+2.0,15:00,1.0,10.0,CAR 41,0.0,17.0,Miles Sanders right guard for 5 yards (tackle by Tyrann Mathieu),1.66,1.8,1.0,2024,5
+2.0,14:19,2.0,5.0,CAR 46,0.0,17.0,Bryce Young pass complete short right to Ja'Tavion Sanders for 4 yards (tackle by Demario Davis and Paulson Adebo),1.8,1.62,1.0,2024,5
+2.0,13:40,3.0,1.0,CAR 50,0.0,17.0,"Miles Sanders right end for no gain (tackle by Demario Davis). Penalty on Ja'Tavion Sanders: Offensive Holding, 9 yards (accepted) (no play)",1.62,0.43,1.0,2024,5
+2.0,13:08,3.0,10.0,CAR 41,0.0,17.0,Bryce Young sacked by Alontae Taylor for -8 yards,0.43,-1.18,1.0,2024,5
+2.0,12:18,4.0,18.0,CAR 33,0.0,17.0,"Johnny Hekker punts 46 yards, returned by Rashid Shaheed for 5 yards (tackle by David Moore)",-1.18,-0.67,1.0,2024,5
+2.0,12:10,1.0,10.0,NOR 26,0.0,17.0,Alvin Kamara left end for 5 yards (tackle by Shaq Thompson and Josey Jewell),0.67,0.81,1.0,2024,5
+2.0,11:28,2.0,5.0,NOR 31,0.0,17.0,"Derek Carr pass complete short right to Taysom Hill for 1 yard. Penalty on Shaq Thompson: Personal Foul / Defense, 15 yards (accepted)",0.81,2.06,1.0,2024,5
+2.0,11:00,1.0,10.0,NOR 47,0.0,17.0,Jamaal Williams left guard for 4 yards (tackle by DJ Johnson),2.06,2.06,1.0,2024,5
+2.0,10:20,2.0,6.0,CAR 49,0.0,17.0,Derek Carr sacked by Eku Leota for -1 yards,2.06,1.22,1.0,2024,5
+2.0,9:41,3.0,7.0,CAR 50,0.0,17.0,Alvin Kamara right end for 17 yards (tackle by Jordan Fuller),1.22,3.38,1.0,2024,5
+2.0,9:05,1.0,10.0,CAR 33,0.0,17.0,Alvin Kamara left end for no gain (tackle by A'Shawn Robinson),3.38,2.84,1.0,2024,5
+2.0,8:29,2.0,10.0,CAR 33,0.0,17.0,Derek Carr pass complete short right to Rashid Shaheed for 1 yard (tackle by Michael Jackson),2.84,2.28,1.0,2024,5
+2.0,7:47,3.0,9.0,CAR 32,0.0,17.0,Derek Carr pass complete short left to Mason Tipton for 6 yards (tackle by Michael Jackson),2.28,1.84,1.0,2024,5
+2.0,7:08,4.0,3.0,CAR 26,0.0,20.0,Blake Grupe 44 yard field goal good,1.84,3.0,1.0,2024,5
+2.0,7:03,,,NOR 35,0.0,20.0,"Blake Grupe kicks off 60 yards, returned by Xavier Legette for 28 yards (tackle by Willie Gay)",0.0,1.14,1.0,2024,5
+2.0,6:58,1.0,10.0,CAR 33,0.0,20.0,Bryce Young scrambles up the middle for 4 yards (tackle by Carl Granderson),1.14,1.13,1.0,2024,5
+2.0,6:16,2.0,6.0,CAR 37,0.0,20.0,"Jonathan Mingo left end for 3 yards. Jonathan Mingo fumbles (forced by Tyrann Mathieu), recovered by Tyrann Mathieu at CAR-43",1.13,-2.72,1.0,2024,5
+2.0,6:05,1.0,10.0,CAR 43,0.0,20.0,"Rashid Shaheed right end for no gain (tackle by Jordan Fuller). Penalty on Trevor Penning: Offensive Holding, 10 yards (accepted) (no play)",2.72,2.06,1.0,2024,5
+2.0,5:37,1.0,20.0,NOR 47,0.0,20.0,Derek Carr pass complete deep right to Foster Moreau for 17 yards (tackle by Xavier Woods),2.06,3.12,1.0,2024,5
+2.0,4:59,2.0,3.0,CAR 36,0.0,20.0,Jamaal Williams right guard for 2 yards (tackle by A'Shawn Robinson),3.12,2.68,1.0,2024,5
+2.0,4:24,3.0,1.0,CAR 34,0.0,20.0,Jamaal Williams right guard for 5 yards (tackle by Shaq Thompson),2.68,3.64,1.0,2024,5
+2.0,3:41,1.0,10.0,CAR 29,0.0,20.0,Derek Carr pass complete short middle to Alvin Kamara for 1 yard (tackle by Xavier Woods),3.64,3.24,1.0,2024,5
+2.0,3:03,2.0,9.0,CAR 28,0.0,20.0,Derek Carr pass complete short middle to Chris Olave for -6 yards (tackle by Jaycee Horn),3.24,1.75,1.0,2024,5
+2.0,2:20,3.0,15.0,CAR 34,0.0,20.0,Derek Carr pass incomplete deep left intended for Rashid Shaheed,1.75,1.06,1.0,2024,5
+2.0,2:12,4.0,15.0,CAR 34,0.0,23.0,Blake Grupe 52 yard field goal good,1.06,3.0,1.0,2024,5
+2.0,2:08,,,NOR 35,0.0,23.0,"Blake Grupe kicks off 64 yards, returned by Raheem Blackshear for 24 yards (tackle by Isaiah Foskey). Penalty on Trevin Wallace: Offensive Holding, 10 yards (accepted)",0.0,-0.22,1.0,2024,5
+2.0,2:00,1.0,10.0,CAR 15,0.0,23.0,Bryce Young pass incomplete short left,-0.22,-0.71,1.0,2024,5
+2.0,1:52,2.0,10.0,CAR 15,0.0,23.0,Bryce Young scrambles left end for 4 yards (tackle by Tyrann Mathieu),-0.71,-0.88,1.0,2024,5
+2.0,1:45,,,,,,Timeout #1 by Carolina Panthers,,,1.0,2024,5
+2.0,1:45,3.0,6.0,CAR 19,0.0,23.0,Bryce Young sacked by Alontae Taylor for -9 yards,-0.88,-2.49,1.0,2024,5
+2.0,1:41,,,,,,Timeout #1 by New Orleans Saints,,,1.0,2024,5
+2.0,1:41,4.0,15.0,CAR 10,0.0,23.0,"Johnny Hekker punts 53 yards, returned by Rashid Shaheed for 47 yards (tackle by Feleipe Franks)",-2.49,-4.51,1.0,2024,5
+2.0,1:24,1.0,10.0,CAR 16,0.0,29.0,"Derek Carr pass complete deep right to Juwan Johnson for 16 yards, touchdown",4.51,7.0,1.0,2024,5
+2.0,1:18,,,CAR 15,0.0,30.0,Blake Grupe kicks extra point good,0.0,0.0,1.0,2024,5
+2.0,1:18,,,NOR 35,0.0,30.0,"Blake Grupe kicks off 62 yards, returned by Raheem Blackshear for 27 yards (tackle by Willie Gay and J.T. Gray)",0.0,0.94,1.0,2024,5
+2.0,1:12,1.0,10.0,CAR 30,0.0,30.0,"Bryce Young pass complete short right to Ja'Tavion Sanders for no gain (tackle by Tyrann Mathieu). Penalty on Chase Young: Defensive Offside, 5 yards (accepted) (no play)",0.94,1.67,1.0,2024,5
+2.0,1:07,1.0,5.0,CAR 35,0.0,30.0,Bryce Young pass incomplete deep left intended for Miles Sanders,1.67,1.07,1.0,2024,5
+2.0,1:01,2.0,5.0,CAR 35,0.0,30.0,Bryce Young pass complete short right to Diontae Johnson for 8 yards,1.07,1.8,1.0,2024,5
+2.0,0:56,1.0,10.0,CAR 43,0.0,30.0,Miles Sanders left guard for 8 yards (tackle by Alontae Taylor and Jordan Howden),1.8,2.33,1.0,2024,5
+2.0,0:26,2.0,2.0,NOR 49,0.0,30.0,Bryce Young pass complete short middle to Xavier Legette for 6 yards (tackle by Paulson Adebo),2.33,2.72,1.0,2024,5
+2.0,0:18,,,,,,Timeout #2 by Carolina Panthers,,,1.0,2024,5
+2.0,0:18,1.0,10.0,NOR 43,0.0,30.0,Bryce Young pass incomplete short left intended for Miles Sanders,2.72,2.18,1.0,2024,5
+2.0,0:12,2.0,10.0,NOR 43,0.0,30.0,Bryce Young pass complete short right to Diontae Johnson for 11 yards (tackle by Tyrann Mathieu),2.18,3.45,1.0,2024,5
+2.0,0:07,,,,,,Timeout #3 by Carolina Panthers,,,1.0,2024,5
+2.0,0:07,1.0,10.0,NOR 32,0.0,30.0,Bryce Young pass complete short right to Xavier Legette for 7 yards (tackle by Paulson Adebo),3.45,3.85,1.0,2024,5
+2.0,0:03,2.0,3.0,NOR 25,3.0,30.0,Eddy Piñeiro 43 yard field goal good,3.85,3.0,1.0,2024,5
+3.0,15:00,,,NOR 35,3.0,30.0,"Blake Grupe kicks off 66 yards, returned by Raheem Blackshear for 27 yards (tackle by Cedrick Wilson and Anfernee Orji)",0.0,0.67,1.0,2024,5
+3.0,14:52,1.0,10.0,CAR 26,3.0,30.0,Chuba Hubbard right guard for -2 yards (tackle by Nathan Shepherd),0.67,-0.14,1.0,2024,5
+3.0,14:12,2.0,12.0,CAR 24,3.0,30.0,Bryce Young pass incomplete deep left,-0.14,-0.82,1.0,2024,5
+3.0,14:03,3.0,12.0,CAR 24,3.0,30.0,"Penalty on Bryce Young: Delay of Game, 5 yards (accepted) (no play)",-0.82,-1.58,1.0,2024,5
+3.0,14:03,3.0,17.0,CAR 19,3.0,30.0,Bryce Young pass deep left intended for Adam Thielen is intercepted by Jordan Howden at NO-48 and returned for -5 yards (tackle by Adam Thielen),-1.58,-1.8,1.0,2024,5
+3.0,13:53,1.0,10.0,NOR 43,3.0,30.0,Derek Carr scrambles left end for 8 yards (tackle by Xavier Woods),1.8,2.33,1.0,2024,5
+3.0,13:35,2.0,2.0,CAR 49,3.0,30.0,"Penalty on Erik McCoy: Personal Foul / Offense, 15 yards (accepted) (no play)",2.33,0.31,1.0,2024,5
+3.0,13:20,2.0,17.0,NOR 36,3.0,30.0,Derek Carr pass complete short left to Alvin Kamara for -2 yards (tackle by Eku Leota and Derrick Brown),0.31,-0.62,1.0,2024,5
+3.0,12:47,3.0,19.0,NOR 34,3.0,30.0,"Derek Carr pass incomplete deep right intended for Rashid Shaheed. Penalty on Michael Jackson: Defensive Pass Interference, 31 yards (accepted) (no play)",-0.62,3.25,1.0,2024,5
+3.0,12:34,1.0,10.0,CAR 35,3.0,30.0,Alvin Kamara right tackle for 4 yards (tackle by A'Shawn Robinson),3.25,3.24,1.0,2024,5
+3.0,12:03,2.0,6.0,CAR 31,3.0,30.0,Taysom Hill left end for 7 yards (tackle by Michael Jackson),3.24,3.97,1.0,2024,5
+3.0,11:23,1.0,10.0,CAR 24,3.0,30.0,Derek Carr pass complete short right to Rashid Shaheed for 13 yards (tackle by Michael Jackson),3.97,4.84,1.0,2024,5
+3.0,10:42,1.0,10.0,CAR 11,3.0,30.0,"Alvin Kamara left tackle for no gain, touchdown. Penalty on Taliese Fuaga: Offensive Holding, 10 yards (accepted) (no play)",4.84,4.17,1.0,2024,5
+3.0,10:36,1.0,20.0,CAR 21,3.0,30.0,Derek Carr pass complete short right to Alvin Kamara for 18 yards (tackle by Xavier Woods),4.17,5.66,1.0,2024,5
+3.0,9:48,2.0,2.0,CAR 3,3.0,30.0,"Penalty on Derek Carr: Delay of Game, 5 yards (accepted) (no play)",5.66,4.7,1.0,2024,5
+3.0,9:29,2.0,7.0,CAR 8,3.0,30.0,Alvin Kamara up the middle for 5 yards (tackle by Josey Jewell and Shaq Thompson),4.7,4.89,1.0,2024,5
+3.0,9:06,3.0,2.0,CAR 3,3.0,30.0,Alvin Kamara left guard for 2 yards (tackle by Troy Hill and Jordan Fuller),4.89,6.97,1.0,2024,5
+3.0,8:30,1.0,1.0,CAR 1,3.0,36.0,"Alvin Kamara left guard for 1 yard, touchdown",6.97,7.0,1.0,2024,5
+3.0,8:27,,,CAR 15,3.0,37.0,Blake Grupe kicks extra point good,0.0,0.0,1.0,2024,5
+3.0,8:27,,,NOR 35,3.0,37.0,"Blake Grupe kicks off 62 yards, returned by Raheem Blackshear for 22 yards (tackle by J.T. Gray and Isaiah Foskey)",0.0,0.61,1.0,2024,5
+3.0,8:21,1.0,10.0,CAR 25,3.0,37.0,Chuba Hubbard left guard for 1 yard (tackle by Nathan Shepherd and Demario Davis),0.61,0.2,1.0,2024,5
+3.0,7:41,2.0,9.0,CAR 26,3.0,37.0,Bryce Young pass complete short left to Adam Thielen for 3 yards (tackle by Marshon Lattimore),0.2,-0.1,1.0,2024,5
+3.0,7:34,3.0,6.0,CAR 29,3.0,37.0,"Penalty on Payton Turner: Personal Foul / Defense, 15 yards (accepted) (no play)",-0.1,1.86,1.0,2024,5
+3.0,7:10,1.0,10.0,CAR 44,3.0,37.0,Bryce Young pass complete deep right to Xavier Legette for 18 yards,1.86,3.05,1.0,2024,5
+3.0,6:33,1.0,10.0,NOR 38,3.0,37.0,"Bryce Young pass complete deep left to Jonathan Mingo for 35 yards (tackle by Jordan Howden) NOR challenged the runner was down by contact ruling, and the play was upheld.",3.05,6.51,1.0,2024,5
+3.0,5:52,1.0,3.0,NOR 3,3.0,37.0,Bryce Young pass incomplete short right intended for Diontae Johnson,6.51,5.53,1.0,2024,5
+3.0,5:49,2.0,3.0,NOR 3,3.0,37.0,Bryce Young sacked by Demario Davis for no gain,5.53,4.72,1.0,2024,5
+3.0,5:04,,,,,,Timeout #1 by Carolina Panthers,,,1.0,2024,5
+3.0,5:04,3.0,3.0,NOR 3,3.0,37.0,Bryce Young pass incomplete short right intended for Diontae Johnson (defended by Paulson Adebo),4.72,3.04,1.0,2024,5
+3.0,5:00,4.0,3.0,NOR 3,9.0,37.0,"Bryce Young scrambles up the middle for no gain. Bryce Young fumbles (forced by Paulson Adebo), recovered by Jonathan Mingo at NO-1 Replay Assistant challenged the runner broke the plane ruling, and the original play was overturned. Bryce Young scrambles up the middle for 3 yards, touchdown",3.04,7.0,1.0,2024,5
+3.0,4:55,,,NOR 15,10.0,37.0,Eddy Piñeiro kicks extra point good,0.0,0.0,1.0,2024,5
+3.0,4:55,,,CAR 35,10.0,37.0,"Eddy Piñeiro kicks off 61 yards, returned by Jamaal Williams for 32 yards (tackle by Jon Rhattigan and Chau Smith-Wade)",0.0,1.33,1.0,2024,5
+3.0,4:49,1.0,10.0,NOR 36,10.0,37.0,Jamaal Williams left guard for 2 yards (tackle by Derrick Brown and Jordan Fuller),1.33,1.06,1.0,2024,5
+3.0,4:15,2.0,8.0,NOR 38,10.0,37.0,Derek Carr pass complete short middle to Jamaal Williams for 13 yards (tackle by Josey Jewell and Xavier Woods),1.06,2.32,1.0,2024,5
+3.0,3:35,1.0,10.0,CAR 49,10.0,37.0,Jamaal Williams right tackle for 6 yards (tackle by Josey Jewell),2.32,2.59,1.0,2024,5
+3.0,2:58,2.0,4.0,CAR 43,10.0,37.0,Alvin Kamara left tackle for 1 yard (tackle by Shaq Thompson),2.59,2.02,1.0,2024,5
+3.0,2:20,,,,,,Timeout #2 by New Orleans Saints,,,1.0,2024,5
+3.0,2:20,3.0,3.0,CAR 42,10.0,37.0,Jamaal Williams left guard for 4 yards (tackle by Troy Hill),2.02,3.05,1.0,2024,5
+3.0,1:42,1.0,10.0,CAR 38,10.0,37.0,Jamaal Williams left guard for -3 yards (tackle by Eku Leota),3.05,2.1,1.0,2024,5
+3.0,1:02,2.0,13.0,CAR 41,10.0,37.0,Derek Carr pass complete short middle to Juwan Johnson for 10 yards (tackle by Jordan Fuller),2.1,2.74,1.0,2024,5
+3.0,0:24,3.0,3.0,CAR 31,10.0,37.0,Derek Carr up the middle for 5 yards (tackle by Jayden Peevy and Derrick Brown),2.74,3.84,1.0,2024,5
+4.0,15:00,1.0,10.0,CAR 26,10.0,37.0,Derek Carr pass complete short right to Alvin Kamara for 5 yards (tackle by Jordan Fuller),3.84,3.97,1.0,2024,5
+4.0,14:26,2.0,5.0,CAR 21,10.0,37.0,Jamaal Williams left tackle for 1 yard (tackle by DJ Johnson),3.97,3.4,1.0,2024,5
+4.0,13:50,3.0,4.0,CAR 20,10.0,37.0,Jamaal Williams right end for -1 yards (tackle by Shaq Thompson),3.4,2.11,1.0,2024,5
+4.0,13:12,4.0,5.0,CAR 21,10.0,40.0,Blake Grupe 39 yard field goal good,2.11,3.0,1.0,2024,5
+4.0,13:08,,,NOR 35,10.0,40.0,"Blake Grupe kicks off 64 yards, returned by Raheem Blackshear for 31 yards (tackle by Isaiah Foskey and Will Harris)",0.0,1.07,1.0,2024,5
+4.0,13:01,1.0,10.0,CAR 32,10.0,40.0,Bryce Young pass incomplete deep middle intended for Jordan Matthews,1.07,0.53,1.0,2024,5
+4.0,12:57,2.0,10.0,CAR 32,10.0,40.0,Miles Sanders left guard for 2 yards (tackle by Paulson Adebo),0.53,0.1,1.0,2024,5
+4.0,12:15,3.0,8.0,CAR 34,10.0,40.0,Bryce Young sacked by Alontae Taylor for -9 yards,0.1,-1.7,1.0,2024,5
+4.0,11:32,4.0,17.0,CAR 25,10.0,40.0,Johnny Hekker punts 11 yards downed by J.J. Jansen,-1.7,-3.18,1.0,2024,5
+4.0,11:21,1.0,10.0,CAR 36,10.0,40.0,Derek Carr pass complete deep right to Foster Moreau for 22 yards (tackle by Xavier Woods),3.18,4.65,1.0,2024,5
+4.0,10:43,1.0,10.0,CAR 14,10.0,46.0,"Jamaal Williams left end for 14 yards, touchdown",4.65,7.0,1.0,2024,5
+4.0,10:38,,,CAR 15,10.0,47.0,Blake Grupe kicks extra point good,0.0,0.0,1.0,2024,5
+4.0,10:38,,,NOR 35,10.0,47.0,"Blake Grupe kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,5
+4.0,10:38,1.0,10.0,CAR 30,10.0,47.0,"Bryce Young pass incomplete deep left intended for Miles Sanders. Penalty on Ikem Ekwonu: Offensive Holding, 10 yards (accepted) (no play)",0.94,0.28,1.0,2024,5
+4.0,10:31,1.0,20.0,CAR 20,10.0,47.0,Bryce Young pass complete short middle to David Moore for 14 yards (tackle by Pete Werner),0.28,0.93,1.0,2024,5
+4.0,9:50,2.0,6.0,CAR 34,10.0,47.0,Chuba Hubbard right guard for 1 yard (tackle by Carl Granderson),0.93,0.37,1.0,2024,5
+4.0,9:10,3.0,5.0,CAR 35,10.0,47.0,"Bryce Young pass incomplete short right intended for Jonathan Mingo. Penalty on Paulson Adebo: Defensive Pass Interference, 5 yards (accepted) (no play)",0.37,1.6,1.0,2024,5
+4.0,9:06,1.0,10.0,CAR 40,10.0,47.0,Bryce Young pass complete short left to Jonathan Mingo for 5 yards (tackle by Kool-Aid McKinstry),1.6,1.73,1.0,2024,5
+4.0,8:31,2.0,5.0,CAR 45,10.0,47.0,Bryce Young pass complete deep right to Adam Thielen for 32 yards (tackle by Alontae Taylor),1.73,4.04,1.0,2024,5
+4.0,7:49,1.0,10.0,NOR 23,10.0,47.0,Bryce Young pass incomplete deep middle intended for Xavier Legette (defended by Alontae Taylor),4.04,3.5,1.0,2024,5
+4.0,7:44,2.0,10.0,NOR 23,10.0,47.0,Bryce Young pass complete short right to Xavier Legette for 4 yards (tackle by Paulson Adebo),3.5,3.34,1.0,2024,5
+4.0,6:59,3.0,6.0,NOR 19,10.0,47.0,Bryce Young pass incomplete deep left intended for Xavier Legette,3.34,2.21,1.0,2024,5
+4.0,6:55,4.0,6.0,NOR 19,10.0,47.0,Bryce Young pass incomplete deep right intended for David Moore,2.21,-0.15,1.0,2024,5
+4.0,6:51,1.0,10.0,NOR 19,10.0,47.0,Jamaal Williams right guard for 4 yards (tackle by Shaq Thompson and Jadeveon Clowney),0.15,0.21,1.0,2024,5
+4.0,6:07,2.0,6.0,NOR 23,10.0,47.0,Jordan Mims right guard for 4 yards (tackle by A'Shawn Robinson),0.21,-0.03,1.0,2024,5
+4.0,5:22,3.0,2.0,NOR 27,10.0,47.0,Jordan Mims right guard for no gain (tackle by Shaq Thompson and A'Shawn Robinson),-0.03,-1.57,1.0,2024,5
+4.0,4:37,4.0,2.0,NOR 27,10.0,47.0,"Matthew Hayball punts 38 yards out of bounds. Penalty on J.T. Gray: Kick Catch Interference, 15 yards (accepted)",-1.57,-2.26,1.0,2024,5
+4.0,4:29,1.0,10.0,CAR 50,10.0,47.0,Miles Sanders right end for 5 yards (tackle by Jordan Howden and Kool-Aid McKinstry),2.26,2.39,1.0,2024,5
+4.0,4:23,2.0,5.0,NOR 45,10.0,47.0,Bryce Young pass incomplete deep left intended for Xavier Legette,2.39,1.69,1.0,2024,5
+4.0,4:17,3.0,5.0,NOR 45,10.0,47.0,Bryce Young pass incomplete short right intended for Jonathan Mingo,1.69,0.27,1.0,2024,5
+4.0,4:11,4.0,5.0,NOR 45,10.0,47.0,Bryce Young pass incomplete short right intended for David Moore (defended by Payton Turner),0.27,-1.93,1.0,2024,5
+4.0,4:07,1.0,10.0,NOR 45,10.0,47.0,Jordan Mims right guard for 2 yards (tackle by Xavier Woods and Nick Thurman),1.93,1.65,1.0,2024,5
+4.0,3:26,2.0,8.0,NOR 47,10.0,47.0,Jake Haener pass incomplete short right intended for Bub Means (defended by Josey Jewell),1.65,0.96,1.0,2024,5
+4.0,3:20,3.0,8.0,NOR 47,10.0,47.0,Jordan Mims right tackle for 5 yards (tackle by Nick Thurman and Shy Tuttle),0.96,0.07,1.0,2024,5
+4.0,2:22,4.0,3.0,CAR 48,10.0,47.0,Matthew Hayball punts 35 yards out of bounds,0.07,0.32,1.0,2024,5
+4.0,2:16,1.0,10.0,CAR 13,10.0,47.0,Mike Boone left guard for 5 yards (tackle by Kendal Vickers and Khristian Boyd),-0.32,-0.14,1.0,2024,5
+4.0,2:00,2.0,5.0,CAR 18,10.0,47.0,Mike Boone left tackle for 1 yard (tackle by Kendal Vickers),-0.14,-0.71,1.0,2024,5
+4.0,1:21,3.0,4.0,CAR 19,10.0,47.0,Andy Dalton pass incomplete short left intended for Jonathan Mingo (defended by Rico Payton),-0.71,-2.14,1.0,2024,5
+4.0,1:17,4.0,4.0,CAR 19,10.0,47.0,"Johnny Hekker punts 36 yards, recovered by Feleipe Franks at NO-45",-2.14,2.59,1.0,2024,5
+4.0,1:06,1.0,10.0,NOR 45,10.0,47.0,Mike Boone right tackle for 1 yard (tackle by Will Harris and Pete Werner),2.59,2.18,1.0,2024,5
+4.0,0:28,2.0,9.0,NOR 44,10.0,47.0,Mike Boone left tackle for no gain (tackle by Anfernee Orji and Isaiah Foskey),2.18,1.49,1.0,2024,5

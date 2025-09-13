@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,10:22,JAX 30,6,3:46,13,Punt,0,Jaguars,9.0,2024,134
+2,1,4:06,JAX 41,3,0:53,5,Punt,0,Jaguars,9.0,2024,134
+3,2,9:20,JAX 30,4,1:54,9,Downs,0,Jaguars,9.0,2024,134
+4,2,4:49,JAX 22,3,1:35,5,Punt,0,Jaguars,9.0,2024,134
+5,2,1:42,JAX 33,1,0:04,0,Interception,0,Jaguars,9.0,2024,134
+6,2,0:22,JAX 30,1,0:22,-1,End of Half,0,Jaguars,9.0,2024,134
+7,3,15:00,JAX 17,3,1:39,5,Punt,0,Jaguars,9.0,2024,134
+8,3,9:25,JAX 39,10,3:59,61,Touchdown,0,Jaguars,9.0,2024,134
+9,3,1:15,JAX 25,6,3:24,26,Punt,0,Jaguars,9.0,2024,134
+10,4,7:43,JAX 30,9,3:39,70,Touchdown,0,Jaguars,9.0,2024,134
+11,4,2:11,JAX 47,5,0:33,40,Interception,0,Jaguars,9.0,2024,134

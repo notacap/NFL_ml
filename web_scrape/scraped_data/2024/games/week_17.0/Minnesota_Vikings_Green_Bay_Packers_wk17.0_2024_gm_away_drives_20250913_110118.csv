@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,GNB 30,5,2:50,29,Fumble,0,Packers,17.0,2024,254
+2,1,9:23,GNB 15,3,0:23,0,Punt,0,Packers,17.0,2024,254
+3,1,6:02,GNB 47,8,4:15,49,Field Goal,0,Packers,17.0,2024,254
+4,2,11:52,GNB 30,8,4:23,47,Downs,0,Packers,17.0,2024,254
+5,2,2:16,GNB 30,3,1:00,5,Punt,0,Packers,17.0,2024,254
+6,3,9:44,GNB 40,3,1:49,1,Punt,0,Packers,17.0,2024,254
+7,3,7:03,MIN 16,4,1:56,16,Touchdown,0,Packers,17.0,2024,254
+8,3,0:51,GNB 30,6,2:29,-2,Punt,0,Packers,17.0,2024,254
+9,4,9:18,GNB 33,9,3:06,67,Touchdown,0,Packers,17.0,2024,254
+10,4,4:37,GNB 38,9,2:19,62,Touchdown,0,Packers,17.0,2024,254

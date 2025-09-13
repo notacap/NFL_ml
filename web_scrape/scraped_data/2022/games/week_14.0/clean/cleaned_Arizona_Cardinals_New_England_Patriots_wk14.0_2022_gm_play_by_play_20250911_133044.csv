@@ -1,0 +1,174 @@
+Quarter,Time,Down,ToGo,Location,NWE,ARI,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Patriots won the coin toss and deferred, Cardinals to receive the opening kickoff.",,,14.0,2022,208
+1.0,15:00,,,NWE 35,0.0,0.0,"Nick Folk kicks off 68 yards, returned by Pharoh Cooper for 29 yards (tackle by Jahlani Tavai and Matthew Slater)",0.0,0.67,14.0,2022,208
+1.0,14:54,1.0,10.0,ARI 26,0.0,0.0,Kyler Murray pass complete short middle to James Conner for 9 yards (tackle by Ja'Whaun Bentley and Myles Bryant),0.67,1.35,14.0,2022,208
+1.0,14:12,2.0,1.0,ARI 35,0.0,0.0,James Conner up the middle for 6 yards (tackle by Davon Godchaux and Ja'Whaun Bentley),1.35,1.66,14.0,2022,208
+1.0,13:50,1.0,10.0,ARI 41,0.0,0.0,Kyler Murray scrambles right end for 3 yards (tackle by Matt Judon),1.66,1.53,14.0,2022,208
+1.0,13:35,2.0,7.0,ARI 44,0.0,0.0,Colt McCoy pass complete short right to James Conner for 1 yard (tackle by Jahlani Tavai and Lawrence Guy),1.53,0.96,14.0,2022,208
+1.0,12:48,3.0,6.0,ARI 45,0.0,0.0,Colt McCoy pass complete short left to Corey Clement for 21 yards (tackle by Devin McCourty),0.96,3.31,14.0,2022,208
+1.0,12:03,1.0,10.0,NWE 34,0.0,0.0,"Colt McCoy aborted snap, recovered by James Conner at NE-36 (tackle by Lawrence Guy)",3.31,2.5,14.0,2022,208
+1.0,11:22,2.0,12.0,NWE 36,0.0,0.0,Colt McCoy pass incomplete short left intended for DeAndre Hopkins (defended by Jack Jones),2.5,1.82,14.0,2022,208
+1.0,11:15,3.0,12.0,NWE 36,0.0,0.0,Colt McCoy pass complete short middle to James Conner for 5 yards (tackle by Adrian Phillips and Myles Bryant),1.82,1.32,14.0,2022,208
+1.0,10:39,4.0,7.0,NWE 31,0.0,0.0,Matt Prater 50 yard field goal no good,1.32,-1.6,14.0,2022,208
+1.0,10:34,1.0,10.0,NWE 40,0.0,0.0,Mac Jones pass complete short middle to DeVante Parker for 14 yards (tackle by Marco Wilson),1.6,2.52,14.0,2022,208
+1.0,10:04,1.0,10.0,ARI 46,0.0,0.0,Rhamondre Stevenson up the middle for 1 yard (tackle by Myjai Sanders),2.52,2.11,14.0,2022,208
+1.0,9:27,2.0,9.0,ARI 45,0.0,0.0,Mac Jones pass incomplete short right intended for Jonnu Smith,2.11,1.42,14.0,2022,208
+1.0,9:22,3.0,9.0,ARI 45,0.0,0.0,"Penalty on Trent Brown: False Start, 5 yards (accepted) (no play)",1.42,0.76,14.0,2022,208
+1.0,9:22,3.0,14.0,ARI 50,0.0,0.0,Mac Jones pass incomplete short middle intended for Jonnu Smith (defended by Zach Allen),0.76,-0.06,14.0,2022,208
+1.0,9:18,4.0,14.0,ARI 50,0.0,0.0,"Michael Palardy punts 42 yards, fair catch by Greg Dortch at ARI-8. Penalty on Christian Matthew: Offensive Holding, 4 yards (accepted)",-0.06,0.38,14.0,2022,208
+1.0,9:12,1.0,10.0,ARI 4,0.0,0.0,James Conner up the middle for 23 yards (tackle by Marcus Jones),-0.38,0.74,14.0,2022,208
+1.0,8:40,1.0,10.0,ARI 27,0.0,0.0,Colt McCoy pass complete short left to Robbie Anderson for 14 yards (tackle by Marcus Jones and Adrian Phillips),0.74,1.66,14.0,2022,208
+1.0,7:55,1.0,10.0,ARI 41,0.0,0.0,James Conner left tackle for 2 yards (tackle by Adrian Phillips and Ja'Whaun Bentley),1.66,1.39,14.0,2022,208
+1.0,7:25,2.0,8.0,ARI 43,0.0,0.0,Colt McCoy sacked by and Matt Judon for -5 yards and Lawrence Guy for -5 yards,1.39,0.04,14.0,2022,208
+1.0,6:40,3.0,13.0,ARI 38,0.0,0.0,"Colt McCoy pass complete short middle to DeAndre Hopkins for no gain (tackle by Adrian Phillips and Kyle Dugger). Penalty on Marquise Brown: Illegal Shift, 5 yards (accepted) (no play)",0.04,-0.63,14.0,2022,208
+1.0,6:05,3.0,18.0,ARI 33,0.0,0.0,Colt McCoy pass complete short right to Trey McBride for 8 yards (tackle by Myles Bryant and Jonathan Jones),-0.63,-0.65,14.0,2022,208
+1.0,5:08,4.0,10.0,ARI 41,0.0,0.0,"Andy Lee punts 53 yards downed by Tanner Vallejo. Penalty on Raleigh Webb: Offensive Holding, 3 yards (accepted)",-0.65,0.38,14.0,2022,208
+1.0,4:56,1.0,10.0,NWE 3,0.0,0.0,Rhamondre Stevenson up the middle for 4 yards (tackle by Isaiah Simmons),-0.38,-0.49,14.0,2022,208
+1.0,4:19,2.0,6.0,NWE 7,0.0,0.0,"Mac Jones pass complete short right to DeVante Parker for 10 yards (tackle by Antonio Hamilton) ARI challenged the pass completion ruling, and the play was upheld.",-0.49,-0.06,14.0,2022,208
+1.0,3:50,1.0,10.0,NWE 17,0.0,0.0,Mac Jones scrambles right end for 2 yards (tackle by Zach Allen),-0.06,-0.25,14.0,2022,208
+1.0,3:19,2.0,8.0,NWE 19,0.0,0.0,Mac Jones pass complete short left to Marcus Jones for 12 yards (tackle by Ben Niemann),-0.25,1.0,14.0,2022,208
+1.0,2:44,1.0,10.0,NWE 31,0.0,0.0,Rhamondre Stevenson up the middle for 3 yards (tackle by Myjai Sanders),1.0,0.87,14.0,2022,208
+1.0,2:25,2.0,7.0,NWE 34,0.0,0.0,Mac Jones pass short middle (defended by Cameron Thomas) intended for Tyquan Thornton is intercepted by Isaiah Simmons at NE-41 and returned for 5 yards (tackle by Marcus Jones),0.87,-3.18,14.0,2022,208
+1.0,2:08,1.0,10.0,NWE 36,0.0,0.0,James Conner up the middle for 6 yards (tackle by Jabrill Peppers),3.18,3.45,14.0,2022,208
+1.0,1:36,2.0,4.0,NWE 30,0.0,0.0,Colt McCoy pass incomplete deep left intended for DeAndre Hopkins,3.45,2.74,14.0,2022,208
+1.0,1:30,3.0,4.0,NWE 30,0.0,0.0,Colt McCoy pass complete short left to Marquise Brown for 10 yards (tackle by Myles Bryant),2.74,4.24,14.0,2022,208
+1.0,1:06,1.0,10.0,NWE 20,0.0,0.0,James Conner up the middle for 3 yards (tackle by Ja'Whaun Bentley),4.24,4.12,14.0,2022,208
+1.0,0:30,2.0,7.0,NWE 17,0.0,0.0,Colt McCoy pass complete short right to Marquise Brown for 2 yards (tackle by Jonathan Jones and Ja'Whaun Bentley),4.12,3.7,14.0,2022,208
+2.0,15:00,3.0,5.0,NWE 15,0.0,0.0,Colt McCoy pass incomplete deep right intended for Marquise Brown,3.7,2.49,14.0,2022,208
+2.0,14:56,4.0,5.0,NWE 15,0.0,3.0,Matt Prater 33 yard field goal good,2.49,3.0,14.0,2022,208
+2.0,14:52,,,ARI 35,0.0,3.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,208
+2.0,14:52,1.0,10.0,NWE 25,0.0,3.0,Mac Jones pass incomplete short right,0.61,0.06,14.0,2022,208
+2.0,14:47,2.0,10.0,NWE 25,0.0,3.0,Mac Jones pass complete short right to Kendrick Bourne for 8 yards (tackle by Ben Niemann and Jalen Thompson),0.06,0.43,14.0,2022,208
+2.0,14:09,3.0,2.0,NWE 33,0.0,3.0,Mac Jones pass complete short left to Tyquan Thornton for 3 yards (tackle by Zaven Collins and Isaiah Simmons),0.43,1.33,14.0,2022,208
+2.0,13:28,1.0,10.0,NWE 36,0.0,3.0,Kevin Harris left tackle for 9 yards (tackle by Budda Baker),1.33,2.01,14.0,2022,208
+2.0,12:56,2.0,1.0,NWE 45,0.0,3.0,Mac Jones pass complete short left to Nelson Agholor for 6 yards (tackle by Marco Wilson and Budda Baker),2.01,2.32,14.0,2022,208
+2.0,12:40,1.0,10.0,ARI 49,0.0,3.0,Mac Jones pass complete short right to Tyquan Thornton for 12 yards (tackle by Ben Niemann and Isaiah Simmons),2.32,3.12,14.0,2022,208
+2.0,12:00,1.0,10.0,ARI 37,0.0,3.0,"Kevin Harris right tackle for 9 yards (tackle by Trayvon Mullen). Penalty on Trayvon Mullen: Face Mask (15 Yards), 14 yards (accepted)",3.12,4.65,14.0,2022,208
+2.0,11:32,1.0,10.0,ARI 14,6.0,3.0,"Kevin Harris up the middle for 14 yards, touchdown",4.65,7.0,14.0,2022,208
+2.0,11:25,,,ARI 15,7.0,3.0,Nick Folk kicks extra point good,0.0,0.0,14.0,2022,208
+2.0,11:25,,,NWE 35,7.0,3.0,"Nick Folk kicks off 65 yards, returned by Pharoh Cooper for 30 yards (tackle by Pierre Strong and DaMarcus Mitchell)",0.0,0.94,14.0,2022,208
+2.0,11:19,1.0,10.0,ARI 30,7.0,3.0,James Conner right tackle for 4 yards (tackle by Jonathan Jones and Jabrill Peppers),0.94,0.93,14.0,2022,208
+2.0,11:04,2.0,6.0,ARI 34,7.0,3.0,"Colt McCoy pass incomplete deep right intended for Marquise Brown. Penalty on Jonathan Jones: Defensive Pass Interference, 39 yards (accepted) (no play)",0.93,3.78,14.0,2022,208
+2.0,10:55,1.0,10.0,NWE 27,7.0,3.0,Colt McCoy pass complete short left to DeAndre Hopkins for 12 yards (tackle by Marcus Jones),3.78,4.58,14.0,2022,208
+2.0,10:29,1.0,10.0,NWE 15,7.0,3.0,Keaontay Ingram up the middle for 1 yard (tackle by Ja'Whaun Bentley and Carl Davis),4.58,4.11,14.0,2022,208
+2.0,9:54,2.0,9.0,NWE 14,7.0,3.0,Colt McCoy pass incomplete short left intended for Marquise Brown,4.11,3.24,14.0,2022,208
+2.0,9:44,3.0,9.0,NWE 14,7.0,3.0,Colt McCoy pass incomplete short middle intended for DeAndre Hopkins,3.24,2.51,14.0,2022,208
+2.0,9:38,4.0,9.0,NWE 14,7.0,6.0,Matt Prater 32 yard field goal good,2.51,3.0,14.0,2022,208
+2.0,9:35,,,ARI 35,7.0,6.0,"Matt Prater kicks off 66 yards, returned by Marcus Jones for 22 yards (tackle by Tanner Vallejo and Dennis Gardeck)",0.0,0.34,14.0,2022,208
+2.0,9:29,1.0,10.0,NWE 21,7.0,6.0,Mac Jones pass incomplete short left intended for Rhamondre Stevenson,0.34,-0.2,14.0,2022,208
+2.0,9:26,2.0,10.0,NWE 21,7.0,6.0,Mac Jones pass complete short left to Rhamondre Stevenson for -2 yards (tackle by Zaven Collins),-0.2,-1.22,14.0,2022,208
+2.0,8:42,3.0,12.0,NWE 19,7.0,6.0,Mac Jones pass complete short left to Nelson Agholor for 13 yards (tackle by Christian Matthew),-1.22,1.07,14.0,2022,208
+2.0,8:12,1.0,10.0,NWE 32,7.0,6.0,Kevin Harris left tackle for no gain (tackle by Zaven Collins),1.07,0.53,14.0,2022,208
+2.0,7:34,2.0,10.0,NWE 32,7.0,6.0,Mac Jones pass incomplete short left intended for Nelson Agholor,0.53,-0.16,14.0,2022,208
+2.0,7:27,3.0,10.0,NWE 32,7.0,6.0,"Penalty on NWE: Delay of Game, 5 yards (accepted) (no play)",-0.16,-0.82,14.0,2022,208
+2.0,7:27,3.0,15.0,NWE 27,7.0,6.0,"Mac Jones pass complete short left to Rhamondre Stevenson for 4 yards (tackle by Budda Baker) Penalty on NWE: Illegal Shift, 5 yards (declined)",-0.82,-1.31,14.0,2022,208
+2.0,7:05,4.0,11.0,NWE 31,7.0,6.0,Michael Palardy punts 32 yards out of bounds,-1.31,-1.4,14.0,2022,208
+2.0,6:53,1.0,10.0,ARI 37,7.0,6.0,Colt McCoy pass complete short left to DeAndre Hopkins for 14 yards (tackle by Marcus Jones),1.4,2.32,14.0,2022,208
+2.0,6:16,1.0,10.0,NWE 49,7.0,6.0,Colt McCoy pass complete short left to James Conner for 6 yards (tackle by Marcus Jones and Josh Uche),2.32,2.59,14.0,2022,208
+2.0,5:55,2.0,4.0,NWE 43,7.0,6.0,Colt McCoy pass complete short middle to Robbie Anderson for 21 yards (tackle by Kyle Dugger),2.59,4.11,14.0,2022,208
+2.0,5:14,1.0,10.0,NWE 22,7.0,6.0,Colt McCoy pass complete short left to Stephen Anderson for 1 yard (tackle by Ja'Whaun Bentley),4.11,3.7,14.0,2022,208
+2.0,4:34,2.0,9.0,NWE 21,7.0,6.0,Colt McCoy scrambles up the middle for 2 yards (tackle by Lawrence Guy),3.7,3.26,14.0,2022,208
+2.0,3:53,3.0,7.0,NWE 19,7.0,6.0,Colt McCoy pass complete short right to Robbie Anderson for 9 yards (tackle by Myles Bryant),3.26,4.91,14.0,2022,208
+2.0,3:07,1.0,10.0,NWE 10,7.0,12.0,"James Conner up the middle for 10 yards, touchdown",4.91,7.0,14.0,2022,208
+2.0,2:59,,,NWE 15,7.0,13.0,Matt Prater kicks extra point good,0.0,0.0,14.0,2022,208
+2.0,2:59,,,ARI 35,7.0,13.0,"Matt Prater kicks off 67 yards, returned by Marcus Jones for 25 yards (tackle by Tanner Vallejo and Chris Banjo)",0.0,0.48,14.0,2022,208
+2.0,2:53,1.0,10.0,NWE 23,7.0,13.0,Mac Jones pass complete short right to Nelson Agholor for 3 yards (tackle by Trayvon Mullen and Markus Golden),0.48,0.34,14.0,2022,208
+2.0,2:18,2.0,7.0,NWE 26,7.0,13.0,Kevin Harris left end for -4 yards (tackle by Markus Golden),0.34,-0.89,14.0,2022,208
+2.0,2:00,3.0,11.0,NWE 22,7.0,13.0,Mac Jones sacked by Zach Allen for -10 yards,-0.89,-2.49,14.0,2022,208
+2.0,1:54,,,,,,Timeout #2 by Arizona Cardinals,,,14.0,2022,208
+2.0,1:54,4.0,21.0,NWE 12,7.0,13.0,"Michael Palardy punts 46 yards, returned by Greg Dortch for 17 yards (tackle by Jamie Collins)",-2.49,-2.85,14.0,2022,208
+2.0,1:42,1.0,10.0,NWE 41,7.0,13.0,Colt McCoy pass complete short right to Trey McBride for 5 yards (tackle by Kyle Dugger and Ja'Whaun Bentley),2.85,2.98,14.0,2022,208
+2.0,1:18,2.0,5.0,NWE 36,7.0,13.0,James Conner up the middle for 4 yards (tackle by Jahlani Tavai and Deatrich Wise),2.98,2.81,14.0,2022,208
+2.0,0:56,3.0,1.0,NWE 32,7.0,13.0,James Conner up the middle for no gain (tackle by Matt Judon),2.81,1.31,14.0,2022,208
+2.0,0:36,,,,,,Timeout #3 by Arizona Cardinals,,,14.0,2022,208
+2.0,0:36,4.0,1.0,NWE 32,7.0,13.0,Colt McCoy pass incomplete short right intended for Trey McBride (defended by Jahlani Tavai),1.31,-1.07,14.0,2022,208
+2.0,0:32,1.0,10.0,NWE 32,7.0,13.0,Mac Jones pass complete short left to Nelson Agholor for 9 yards,1.07,1.74,14.0,2022,208
+2.0,0:27,2.0,1.0,NWE 41,7.0,13.0,Mac Jones pass complete short left to Hunter Henry for 1 yard (tackle by Antonio Hamilton),1.74,1.73,14.0,2022,208
+2.0,0:23,1.0,10.0,NWE 42,7.0,13.0,Mac Jones pass incomplete short left intended for Nelson Agholor,1.73,1.19,14.0,2022,208
+2.0,0:18,2.0,10.0,NWE 42,7.0,13.0,Mac Jones pass complete deep left to Hunter Henry for 30 yards (tackle by Jalen Thompson and Myjai Sanders),1.19,3.71,14.0,2022,208
+2.0,0:10,,,,,,Timeout #1 by New England Patriots,,,14.0,2022,208
+2.0,0:10,1.0,10.0,ARI 28,7.0,13.0,"Mac Jones aborted snap, recovered by Mac Jones at ARI-33 and returned for -5 yards",3.71,2.49,14.0,2022,208
+2.0,0:04,,,,,,Timeout #2 by New England Patriots,,,14.0,2022,208
+2.0,0:04,2.0,15.0,ARI 33,10.0,13.0,Nick Folk 51 yard field goal good,2.49,3.0,14.0,2022,208
+3.0,15:00,,,ARI 35,10.0,13.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,14.0,2022,208
+3.0,15:00,1.0,10.0,NWE 25,10.0,13.0,Mac Jones pass complete short right to Kendrick Bourne for 15 yards (tackle by Jalen Thompson and Ben Niemann),0.61,1.6,14.0,2022,208
+3.0,14:23,1.0,10.0,NWE 40,10.0,13.0,Kevin Harris right tackle for -2 yards (tackle by J.J. Watt),1.6,0.78,14.0,2022,208
+3.0,13:44,,,,,,Timeout #1 by New England Patriots,,,14.0,2022,208
+3.0,13:44,2.0,12.0,NWE 38,10.0,13.0,Mac Jones pass complete short left to Pierre Strong for 16 yards (tackle by Antonio Hamilton),0.78,2.52,14.0,2022,208
+3.0,12:58,1.0,10.0,ARI 46,10.0,13.0,"Mac Jones pass complete short left to Marcus Jones for no gain (tackle by Isaiah Simmons and Zach Allen). Penalty on Michael Onwenu: Offensive Illegal Block Above the Waist, 10 yards (accepted) (no play)",2.52,1.86,14.0,2022,208
+3.0,12:45,1.0,20.0,NWE 44,10.0,13.0,Pierre Strong left end for 44 yards (tackle by Antonio Hamilton and Trayvon Mullen),1.86,4.78,14.0,2022,208
+3.0,12:02,1.0,10.0,ARI 12,10.0,13.0,Pierre Strong up the middle for no gain (tackle by Jonathan Ledbetter and Budda Baker),4.78,4.1,14.0,2022,208
+3.0,10:59,2.0,10.0,ARI 12,10.0,13.0,Mac Jones pass incomplete short right,4.1,3.12,14.0,2022,208
+3.0,10:54,3.0,10.0,ARI 12,10.0,13.0,Mac Jones pass complete short left to Tyquan Thornton for 8 yards,3.12,3.04,14.0,2022,208
+3.0,10:18,4.0,2.0,ARI 4,13.0,13.0,Nick Folk 23 yard field goal good,3.04,3.0,14.0,2022,208
+3.0,10:15,,,NWE 35,13.0,13.0,"Nick Folk kicks off 65 yards, returned by Pharoh Cooper for 25 yards (tackle by Mack Wilson and Kyle Dugger)",0.0,0.61,14.0,2022,208
+3.0,10:10,1.0,10.0,ARI 25,13.0,13.0,James Conner up the middle for 7 yards (tackle by Jahlani Tavai and Ja'Whaun Bentley),0.61,1.01,14.0,2022,208
+3.0,9:47,2.0,3.0,ARI 32,13.0,13.0,Colt McCoy pass complete deep left to DeAndre Hopkins for 23 yards (tackle by Devin McCourty),1.01,2.59,14.0,2022,208
+3.0,9:20,1.0,10.0,NWE 45,13.0,13.0,James Conner up the middle for 6 yards (tackle by Kyle Dugger),2.59,2.85,14.0,2022,208
+3.0,8:53,2.0,4.0,NWE 39,13.0,13.0,Colt McCoy pass incomplete deep left intended for Trey McBride (defended by Marcus Jones),2.85,2.15,14.0,2022,208
+3.0,8:44,3.0,4.0,NWE 39,13.0,13.0,"Penalty on Kelvin Beachum: False Start, 5 yards (accepted) (no play)",2.15,1.49,14.0,2022,208
+3.0,8:44,3.0,9.0,NWE 44,13.0,13.0,Colt McCoy pass complete short right to James Conner for 3 yards (tackle by Myles Bryant),1.49,0.53,14.0,2022,208
+3.0,7:59,4.0,6.0,NWE 41,13.0,13.0,Colt McCoy pass incomplete deep left intended for Marquise Brown,0.53,-1.66,14.0,2022,208
+3.0,7:54,1.0,10.0,NWE 41,13.0,13.0,Kevin Harris up the middle for no gain (tackle by Leki Fotu and Zaven Collins),1.66,1.12,14.0,2022,208
+3.0,7:21,2.0,10.0,NWE 41,13.0,13.0,Mac Jones pass complete short left to Pierre Strong for 4 yards (tackle by Budda Baker),1.12,0.96,14.0,2022,208
+3.0,6:38,3.0,6.0,NWE 45,13.0,13.0,Mac Jones pass incomplete deep left intended for Nelson Agholor (defended by Christian Matthew),0.96,-0.39,14.0,2022,208
+3.0,6:30,4.0,6.0,NWE 45,13.0,13.0,"Michael Palardy punts 49 yards, returned by Greg Dortch for no gain (tackle by Brenden Schooler and Matthew Slater)",-0.39,0.38,14.0,2022,208
+3.0,6:19,1.0,10.0,ARI 6,13.0,13.0,James Conner up the middle for 7 yards (tackle by Raekwon McMillan and Jahlani Tavai),-0.38,-0.27,14.0,2022,208
+3.0,5:50,2.0,3.0,ARI 13,13.0,13.0,"Colt McCoy pass incomplete short middle intended for James Conner (defended by Raekwon McMillan). Penalty on Jonathan Jones: Illegal Contact, 5 yards (accepted) (no play)",-0.27,0.04,14.0,2022,208
+3.0,5:42,1.0,10.0,ARI 18,19.0,13.0,"Colt McCoy pass complete short middle to DeAndre Hopkins for 4 yards. DeAndre Hopkins fumbles (forced by Kyle Dugger), recovered by Raekwon McMillan at ARI-23 and returned for 23 yards, touchdown",0.04,-7.0,14.0,2022,208
+3.0,5:32,,,ARI 15,20.0,13.0,Nick Folk kicks extra point good,0.0,0.0,14.0,2022,208
+3.0,5:32,,,NWE 35,20.0,13.0,"Nick Folk kicks off 64 yards, returned by Pharoh Cooper for 23 yards (tackle by Matthew Slater)",0.0,0.54,14.0,2022,208
+3.0,5:27,1.0,10.0,ARI 24,20.0,13.0,Colt McCoy pass complete short middle to Marquise Brown for 16 yards (tackle by Myles Bryant),0.54,1.6,14.0,2022,208
+3.0,4:47,1.0,10.0,ARI 40,20.0,13.0,"Penalty on Max Garcia: False Start, 5 yards (accepted) (no play)",1.6,1.27,14.0,2022,208
+3.0,4:24,1.0,15.0,ARI 35,20.0,13.0,Colt McCoy pass complete short left to Trey McBride for 15 yards (tackle by Marcus Jones),1.27,2.26,14.0,2022,208
+3.0,3:51,1.0,10.0,ARI 50,20.0,13.0,James Conner up the middle for 3 yards (tackle by Kyle Dugger),2.26,2.12,14.0,2022,208
+3.0,3:10,2.0,7.0,NWE 47,20.0,13.0,Colt McCoy pass complete short left to Stephen Anderson for 6 yards (tackle by Kyle Dugger),2.12,2.21,14.0,2022,208
+3.0,2:24,3.0,1.0,NWE 41,20.0,13.0,James Conner up the middle for 4 yards (tackle by Raekwon McMillan),2.21,3.12,14.0,2022,208
+3.0,1:41,1.0,10.0,NWE 37,20.0,13.0,"Colt McCoy sacked by Josh Uche for -3 yards. Penalty on Josh Jones: Offensive Holding, 10 yards (declined)",3.12,2.17,14.0,2022,208
+3.0,1:14,,,,,,Timeout #1 by Arizona Cardinals,,,14.0,2022,208
+3.0,1:14,2.0,13.0,NWE 40,20.0,13.0,Colt McCoy pass deep left intended for DeAndre Hopkins is intercepted by Marcus Jones at NE-19 and returned for 18 yards (tackle by Trey McBride),2.17,-1.4,14.0,2022,208
+3.0,1:07,1.0,10.0,NWE 37,20.0,13.0,"Mac Jones pass short right intended for Nelson Agholor is intercepted by Zaven Collins at NE-43 and returned for no gain Replay Assistant challenged the pass interception ruling, and the original play was overturned. Mac Jones pass incomplete short right intended for Nelson Agholor (defended by Trayvon Mullen)",1.4,0.86,14.0,2022,208
+3.0,1:04,2.0,10.0,NWE 37,20.0,13.0,Mac Jones pass complete short left to Tyquan Thornton for 5 yards (tackle by Antonio Hamilton),0.86,0.83,14.0,2022,208
+3.0,0:28,3.0,5.0,NWE 42,20.0,13.0,Mac Jones pass complete deep right to Kendrick Bourne for 16 yards (tackle by Trayvon Mullen),0.83,2.79,14.0,2022,208
+4.0,15:00,1.0,10.0,ARI 42,20.0,13.0,Mac Jones pass complete deep right to Hunter Henry for 39 yards (tackle by Jalen Thompson and Trayvon Mullen),2.79,6.51,14.0,2022,208
+4.0,14:13,1.0,3.0,ARI 3,26.0,13.0,"Pierre Strong up the middle for 3 yards, touchdown. Penalty on Zaven Collins: Defensive Offside, 5 yards (declined)",6.51,7.0,14.0,2022,208
+4.0,14:09,,,ARI 15,27.0,13.0,Nick Folk kicks extra point good,0.0,0.0,14.0,2022,208
+4.0,14:09,,,NWE 35,27.0,13.0,"Nick Folk kicks off 68 yards, returned by Pharoh Cooper for 27 yards (tackle by DaMarcus Mitchell)",0.0,0.54,14.0,2022,208
+4.0,14:04,1.0,10.0,ARI 24,27.0,13.0,Colt McCoy pass incomplete short left intended for James Conner,0.54,0.0,14.0,2022,208
+4.0,14:00,2.0,10.0,ARI 24,27.0,13.0,James Conner left tackle for no gain (tackle by Daniel Ekuale),0.0,-0.69,14.0,2022,208
+4.0,13:23,3.0,10.0,ARI 24,27.0,13.0,Colt McCoy sacked by Daniel Ekuale for -10 yards,-0.69,-2.47,14.0,2022,208
+4.0,12:44,4.0,20.0,ARI 14,27.0,13.0,"Andy Lee punts 44 yards, returned by Marcus Jones for 7 yards (tackle by Ben Niemann)",-2.47,-2.19,14.0,2022,208
+4.0,12:33,1.0,10.0,NWE 49,27.0,13.0,Mac Jones pass complete short left to Kendrick Bourne for 3 yards (tackle by Isaiah Simmons),2.19,2.05,14.0,2022,208
+4.0,12:00,2.0,7.0,ARI 48,27.0,13.0,"Mac Jones pass complete to Kendrick Bourne for no gain (tackle by Isaiah Simmons). Penalty on Trent Brown: Ineligible Downfield Pass, 5 yards (accepted) (no play)",2.05,1.38,14.0,2022,208
+4.0,11:32,2.0,12.0,NWE 47,27.0,13.0,Mac Jones pass complete short right to Kendrick Bourne for 5 yards (tackle by Zaven Collins and Isaiah Simmons),1.38,1.36,14.0,2022,208
+4.0,10:56,3.0,7.0,ARI 48,27.0,13.0,Pierre Strong up the middle for 4 yards (tackle by Jalen Thompson),1.36,0.33,14.0,2022,208
+4.0,9:55,4.0,3.0,ARI 44,27.0,13.0,"Michael Palardy punts 44 yards, touchback.",0.33,-0.28,14.0,2022,208
+4.0,9:49,1.0,10.0,ARI 20,27.0,13.0,Colt McCoy pass complete short right to Marquise Brown for no gain (tackle by Devin McCourty) (no play),0.28,-0.31,14.0,2022,208
+4.0,9:31,1.0,15.0,ARI 15,27.0,13.0,Colt McCoy pass complete short right to James Conner for 5 yards (tackle by Daniel Ekuale),-0.31,-0.27,14.0,2022,208
+4.0,8:55,2.0,10.0,ARI 20,27.0,13.0,Colt McCoy scrambles right end for 8 yards (tackle by Raekwon McMillan),-0.27,0.1,14.0,2022,208
+4.0,8:10,3.0,2.0,ARI 28,27.0,13.0,"Colt McCoy pass incomplete intended for Marquise Brown. Penalty on Myles Bryant: Defensive Pass Interference, 8 yards (accepted) (no play)",0.1,1.33,14.0,2022,208
+4.0,8:03,1.0,10.0,ARI 36,27.0,13.0,Colt McCoy pass incomplete short right intended for Trey McBride,1.33,0.79,14.0,2022,208
+4.0,8:00,2.0,10.0,ARI 36,27.0,13.0,Colt McCoy pass complete short right to DeAndre Hopkins for 7 yards (tackle by Jahlani Tavai),0.79,1.03,14.0,2022,208
+4.0,7:27,3.0,3.0,ARI 43,27.0,13.0,Colt McCoy pass incomplete short right intended for Marquise Brown,1.03,-0.52,14.0,2022,208
+4.0,7:22,4.0,3.0,ARI 43,27.0,13.0,"Colt McCoy scrambles left end for 9 yards (tackle by Ja'Whaun Bentley). Penalty on Matt Judon: Defensive Offside, 5 yards (declined)",-0.52,2.39,14.0,2022,208
+4.0,6:47,1.0,10.0,NWE 48,27.0,13.0,Colt McCoy sacked by Matt Judon for -13 yards,2.39,0.09,14.0,2022,208
+4.0,6:09,2.0,23.0,ARI 39,27.0,13.0,Colt McCoy pass complete short middle to DeAndre Hopkins for 10 yards (tackle by Jabrill Peppers and Kyle Dugger),0.09,0.76,14.0,2022,208
+4.0,5:34,3.0,13.0,ARI 49,27.0,13.0,Colt McCoy pass incomplete short right intended for A.J. Green. Penalty on A.J. Green: Illegal Touch Pass (accepted),0.76,-0.13,14.0,2022,208
+4.0,5:03,4.0,14.0,ARI 49,27.0,13.0,Colt McCoy sacked by Josh Uche for -8 yards,-0.13,-2.85,14.0,2022,208
+4.0,4:56,1.0,10.0,ARI 41,27.0,13.0,Mac Jones pass incomplete deep right intended for Nelson Agholor,2.85,2.31,14.0,2022,208
+4.0,4:50,2.0,10.0,ARI 41,27.0,13.0,Kevin Harris up the middle for no gain (tackle by Jonathan Ledbetter),2.31,1.62,14.0,2022,208
+4.0,4:07,3.0,10.0,ARI 41,27.0,13.0,Mac Jones pass complete short right to Nelson Agholor for 1 yard (tackle by Trayvon Mullen),1.62,0.59,14.0,2022,208
+4.0,4:02,,,,,,Timeout #2 by Arizona Cardinals,,,14.0,2022,208
+4.0,4:02,4.0,9.0,ARI 40,27.0,13.0,"Michael Palardy punts 40 yards, touchback.",0.59,-0.28,14.0,2022,208
+4.0,3:55,1.0,10.0,ARI 20,27.0,13.0,Colt McCoy pass complete short left to Robbie Anderson for 6 yards (tackle by Shaun Wade),0.28,0.54,14.0,2022,208
+4.0,3:36,2.0,4.0,ARI 26,27.0,13.0,Colt McCoy pass complete short middle to DeAndre Hopkins for 9 yards (tackle by Marcus Jones),0.54,1.27,14.0,2022,208
+4.0,3:33,1.0,10.0,ARI 35,27.0,13.0,"Colt McCoy pass complete short right to A.J. Green for no gain (tackle by Kyle Dugger). Penalty on A.J. Green: Offensive Pass Interference, 10 yards (accepted) (no play)",1.27,0.61,14.0,2022,208
+4.0,3:28,1.0,20.0,ARI 25,27.0,13.0,Colt McCoy pass complete short right to A.J. Green for 7 yards (tackle by Jonathan Jones),0.61,0.32,14.0,2022,208
+4.0,3:24,2.0,13.0,ARI 32,27.0,13.0,Colt McCoy pass complete short middle to Marquise Brown for 6 yards (tackle by Kyle Dugger),0.32,0.43,14.0,2022,208
+4.0,3:09,3.0,7.0,ARI 38,27.0,13.0,Colt McCoy sacked by Josh Uche for -6 yards,0.43,-1.24,14.0,2022,208
+4.0,2:28,,,,,,Timeout #2 by New England Patriots,,,14.0,2022,208
+4.0,2:28,4.0,13.0,ARI 32,27.0,13.0,Colt McCoy scrambles up the middle for 5 yards (tackle by Josh Uche and Deatrich Wise),-1.24,-3.12,14.0,2022,208
+4.0,2:18,1.0,10.0,ARI 37,27.0,13.0,Pierre Strong up the middle for 19 yards (tackle by Isaiah Simmons and Jalen Thompson),3.12,4.37,14.0,2022,208
+4.0,2:00,1.0,10.0,ARI 18,27.0,13.0,Mac Jones kneels for -1 yards,4.37,3.67,14.0,2022,208
+4.0,1:20,2.0,11.0,ARI 19,27.0,13.0,Mac Jones kneels for -1 yards,3.67,2.87,14.0,2022,208
+4.0,0:41,3.0,12.0,ARI 20,27.0,13.0,Mac Jones kneels for -1 yards,2.87,2.06,14.0,2022,208

@@ -1,0 +1,173 @@
+Quarter,Time,Down,ToGo,Location,MIA,IND,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Dolphins won the coin toss and deferred, Colts to receive the opening kickoff.",,,7.0,2024,99
+1.0,15:00,,,MIA 35,0.0,0.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,99
+1.0,15:00,1.0,10.0,IND 30,0.0,0.0,Trey Sermon up the middle for -2 yards (tackle by Calais Campbell),0.94,0.12,7.0,2024,99
+1.0,14:24,2.0,12.0,IND 28,0.0,0.0,Anthony Richardson scrambles left guard for 6 yards (tackle by Jordyn Brooks and Chop Robinson),0.12,0.23,7.0,2024,99
+1.0,13:49,3.0,6.0,IND 34,0.0,0.0,Anthony Richardson pass incomplete short right intended for Adonai Mitchell,0.23,-1.11,7.0,2024,99
+1.0,13:43,4.0,6.0,IND 34,0.0,0.0,"Rigoberto Sanchez punts 48 yards, returned by Braxton Berrios for 9 yards (tackle by Kelvin Joseph)",-1.11,-0.74,7.0,2024,99
+1.0,13:32,1.0,10.0,MIA 27,0.0,0.0,De'Von Achane up the middle for 2 yards (tackle by Grant Stuard and Zaire Franklin),0.74,0.47,7.0,2024,99
+1.0,13:03,2.0,8.0,MIA 29,0.0,0.0,Tyler Huntley pass incomplete short right,0.47,-0.23,7.0,2024,99
+1.0,12:54,3.0,8.0,MIA 29,0.0,0.0,Tyler Huntley pass complete short middle to Malik Washington for 2 yards (tackle by Kenny Moore),-0.23,-1.31,7.0,2024,99
+1.0,12:17,4.0,6.0,MIA 31,0.0,0.0,Jake Bailey punts 59 yards downed by Elijah Campbell,-1.31,0.38,7.0,2024,99
+1.0,12:08,1.0,10.0,IND 10,0.0,0.0,Anthony Richardson pass incomplete short left intended for Andrew Ogletree,-0.38,-0.78,7.0,2024,99
+1.0,12:04,2.0,10.0,IND 10,0.0,0.0,Anthony Richardson pass incomplete short left intended for Kylen Granson (defended by Kader Kohou),-0.78,-1.42,7.0,2024,99
+1.0,12:01,3.0,10.0,IND 10,0.0,0.0,Anthony Richardson pass incomplete deep left intended for Alec Pierce,-1.42,-2.49,7.0,2024,99
+1.0,11:54,4.0,10.0,IND 10,0.0,0.0,"Rigoberto Sanchez punts 48 yards, fair catch by Braxton Berrios at MIA-42",-2.49,-1.73,7.0,2024,99
+1.0,11:47,1.0,10.0,MIA 42,0.0,0.0,De'Von Achane up the middle for 5 yards (tackle by Grant Stuard and Zaire Franklin),1.73,1.86,7.0,2024,99
+1.0,11:18,2.0,5.0,MIA 47,0.0,0.0,De'Von Achane right guard for 2 yards (tackle by Zaire Franklin and Grover Stewart),1.86,1.42,7.0,2024,99
+1.0,10:38,3.0,3.0,MIA 49,0.0,0.0,"Tyler Huntley pass incomplete short right intended for De'Von Achane. Penalty on Raekwon Davis: Defensive Offside, 5 yards (accepted) (no play)",1.42,2.52,7.0,2024,99
+1.0,10:35,1.0,10.0,IND 46,0.0,0.0,De'Von Achane left tackle for 3 yards (tackle by Jaylon Jones and Zaire Franklin),2.52,2.38,7.0,2024,99
+1.0,9:59,2.0,7.0,IND 43,0.0,0.0,De'Von Achane up the middle for 6 yards (tackle by Jaylon Carlies and Laiatu Latu),2.38,2.48,7.0,2024,99
+1.0,9:31,3.0,1.0,IND 37,0.0,0.0,Tyler Huntley up the middle for 2 yards (tackle by Jaylon Carlies),2.48,3.25,7.0,2024,99
+1.0,9:00,1.0,10.0,IND 35,0.0,0.0,Raheem Mostert right tackle for 4 yards (tackle by Grant Stuard and Zaire Franklin),3.25,3.24,7.0,2024,99
+1.0,8:31,2.0,6.0,IND 31,0.0,0.0,Tyler Huntley pass complete short middle to Jonnu Smith for 18 yards (tackle by Nick Cross),3.24,4.71,7.0,2024,99
+1.0,7:58,1.0,10.0,IND 13,0.0,0.0,Raheem Mostert up the middle for 11 yards (tackle by Julian Blackmon),4.71,6.74,7.0,2024,99
+1.0,7:12,,,,,,Timeout #1 by Miami Dolphins,,,7.0,2024,99
+1.0,7:12,1.0,2.0,IND 2,0.0,0.0,Raheem Mostert left tackle for no gain (tackle by Julian Blackmon),6.74,5.72,7.0,2024,99
+1.0,6:44,2.0,2.0,IND 2,0.0,0.0,Tyler Huntley sacked by Jaylon Carlies for -8 yards,5.72,3.13,7.0,2024,99
+1.0,6:02,3.0,10.0,IND 10,6.0,0.0,"Tyler Huntley pass complete short left to Jonnu Smith for 10 yards, touchdown",3.13,7.0,7.0,2024,99
+1.0,5:56,,,IND 15,7.0,0.0,Jason Sanders kicks extra point good,0.0,0.0,7.0,2024,99
+1.0,5:56,,,MIA 35,7.0,0.0,"Jason Sanders kicks off 58 yards, returned by Ashton Dulin for 20 yards (tackle by Storm Duck). Penalty on Will Mallory: Offensive Holding, 10 yards (accepted)",0.0,-0.06,7.0,2024,99
+1.0,5:51,1.0,10.0,IND 17,7.0,0.0,Tyler Goodson right end for 19 yards (tackle by Jordyn Brooks),-0.06,1.33,7.0,2024,99
+1.0,5:26,1.0,10.0,IND 36,7.0,0.0,Tyler Goodson right tackle for 9 yards (tackle by Jalen Ramsey),1.33,2.01,7.0,2024,99
+1.0,4:45,2.0,1.0,IND 45,7.0,0.0,Tyler Goodson left guard for no gain (tackle by Zach Sieler),2.01,1.29,7.0,2024,99
+1.0,4:07,3.0,1.0,IND 45,7.0,0.0,Trey Sermon left guard for 4 yards (tackle by Quinton Bell and Jordan Poyer),1.29,2.19,7.0,2024,99
+1.0,3:28,1.0,10.0,IND 49,7.0,0.0,"Penalty on Tyus Bowser: Neutral Zone Infraction, 5 yards (accepted) (no play)",2.19,2.92,7.0,2024,99
+1.0,3:17,1.0,5.0,MIA 46,7.0,0.0,Anthony Richardson scrambles right end for 3 yards (tackle by Tyus Bowser),2.92,2.73,7.0,2024,99
+1.0,2:42,2.0,2.0,MIA 43,7.0,0.0,Anthony Richardson pass complete short left to Adonai Mitchell for 14 yards (tackle by Kendall Fuller),2.73,3.64,7.0,2024,99
+1.0,2:09,1.0,10.0,MIA 29,7.0,0.0,Anthony Richardson pass incomplete short left,3.64,3.1,7.0,2024,99
+1.0,2:08,2.0,10.0,MIA 29,7.0,0.0,"Anthony Richardson pass complete deep right to Alec Pierce for no gain. Penalty on Braden Smith: Illegal Formation, 5 yards (offset) . Penalty on Kendall Fuller: Defensive Pass Interference, 15 yards (offset) (no play)",3.1,3.1,7.0,2024,99
+1.0,2:02,2.0,10.0,MIA 29,7.0,0.0,Anthony Richardson pass incomplete deep middle intended for Kylen Granson (defended by Jordyn Brooks),3.1,2.41,7.0,2024,99
+1.0,1:41,3.0,10.0,MIA 29,7.0,0.0,Anthony Richardson scrambles left end for 22 yards (tackle by Jordan Poyer),2.41,5.6,7.0,2024,99
+1.0,1:00,1.0,7.0,MIA 7,7.0,0.0,Tyler Goodson up the middle for -1 yards (tackle by Calais Campbell),5.6,4.57,7.0,2024,99
+1.0,0:25,2.0,8.0,MIA 8,7.0,0.0,"Anthony Richardson aborted snap, recovered by Zach Sieler at MIA-11",4.57,0.14,7.0,2024,99
+1.0,0:18,1.0,10.0,MIA 16,7.0,0.0,"De'Von Achane left tackle for 4 yards (tackle by Jaylon Carlies and Jaylon Jones). Penalty on Alec Ingold: Offensive Low Block, 10 yards (accepted)",-0.14,-0.61,7.0,2024,99
+2.0,15:00,1.0,16.0,MIA 10,7.0,0.0,Tyreek Hill right end for 5 yards (tackle by Kenny Moore),-0.61,-0.78,7.0,2024,99
+2.0,14:18,2.0,11.0,MIA 15,7.0,0.0,Tyler Huntley pass complete short middle to Jonnu Smith for 15 yards (tackle by Jaylon Carlies),-0.78,0.94,7.0,2024,99
+2.0,13:45,1.0,10.0,MIA 30,7.0,0.0,De'Von Achane left end for 15 yards (tackle by Grant Stuard and Julian Blackmon),0.94,1.93,7.0,2024,99
+2.0,13:10,1.0,10.0,MIA 45,7.0,0.0,De'Von Achane right guard for 1 yard (tackle by Zaire Franklin and Grant Stuard),1.93,1.52,7.0,2024,99
+2.0,12:36,2.0,9.0,MIA 46,7.0,0.0,"Tyler Huntley pass incomplete short right intended for Julian Hill. Penalty on Austin Jackson: Illegal Formation, 5 yards (declined)",1.52,0.83,7.0,2024,99
+2.0,12:30,3.0,9.0,MIA 46,7.0,0.0,Tyler Huntley scrambles left end for 4 yards (tackle by Grant Stuard),0.83,-0.06,7.0,2024,99
+2.0,11:57,4.0,5.0,MIA 50,7.0,0.0,"Penalty on Julian Hill: False Start, 5 yards (accepted) (no play)",-0.06,-0.39,7.0,2024,99
+2.0,11:43,4.0,10.0,MIA 45,7.0,0.0,Jake Bailey punts 33 yards out of bounds,-0.39,-0.41,7.0,2024,99
+2.0,11:34,1.0,10.0,IND 22,7.0,0.0,Tyler Goodson up the middle for 1 yard (tackle by Da'Shawn Hand),0.41,0.0,7.0,2024,99
+2.0,10:56,2.0,9.0,IND 23,7.0,0.0,Anthony Richardson pass complete short middle to Will Mallory for 5 yards (tackle by Chop Robinson),0.0,-0.03,7.0,2024,99
+2.0,10:11,3.0,4.0,IND 28,7.0,0.0,Anthony Richardson pass incomplete short middle intended for Michael Pittman (defended by Kendall Fuller),-0.03,-1.5,7.0,2024,99
+2.0,10:06,4.0,4.0,IND 28,7.0,0.0,"Rigoberto Sanchez punts 45 yards, fair catch by Braxton Berrios at MIA-27",-1.5,-0.74,7.0,2024,99
+2.0,10:00,1.0,10.0,MIA 27,7.0,0.0,Raheem Mostert left tackle for 9 yards (tackle by Jaylon Jones and Zaire Franklin),0.74,1.41,7.0,2024,99
+2.0,9:14,2.0,1.0,MIA 36,7.0,0.0,"Raheem Mostert right end for 3 yards (tackle by Nick Cross). Penalty on Durham Smythe: Offensive Holding, 10 yards (accepted)",1.41,0.47,7.0,2024,99
+2.0,8:48,2.0,8.0,MIA 29,7.0,0.0,Tyler Huntley right end for 6 yards (tackle by Kwity Paye),0.47,0.56,7.0,2024,99
+2.0,8:08,3.0,2.0,MIA 35,7.0,0.0,Tyler Huntley scrambles right tackle for 3 yards (tackle by Zaire Franklin and Grant Stuard),0.56,1.47,7.0,2024,99
+2.0,7:29,1.0,10.0,MIA 38,7.0,0.0,"Raheem Mostert right tackle for 1 yard (tackle by Adam Gotsis and Nick Cross). Penalty on Liam Eichenberg: Face Mask (15 Yards), 15 yards (accepted)",1.47,0.54,7.0,2024,99
+2.0,7:25,1.0,24.0,MIA 24,7.0,0.0,Raheem Mostert left tackle for 1 yard (tackle by Taven Bryan and Grover Stewart),0.54,-0.83,7.0,2024,99
+2.0,6:28,2.0,23.0,MIA 25,7.0,0.0,"Tyler Huntley up the middle for 5 yards (tackle by Grover Stewart and Grant Stuard). Penalty on Jonnu Smith: Offensive Offside, 5 yards (declined)",-0.83,-0.82,7.0,2024,99
+2.0,6:04,,,,,,Timeout #2 by Miami Dolphins,,,7.0,2024,99
+2.0,6:04,3.0,18.0,MIA 30,7.0,0.0,Tyler Huntley pass incomplete short right intended for Odell Beckham,-0.82,-1.37,7.0,2024,99
+2.0,6:01,4.0,18.0,MIA 30,7.0,0.0,Jake Bailey punts 39 yards out of bounds,-1.37,-1.0,7.0,2024,99
+2.0,5:54,1.0,10.0,IND 31,7.0,0.0,Anthony Richardson pass complete short left to Michael Pittman for 9 yards (tackle by Kendall Fuller),1.0,1.68,7.0,2024,99
+2.0,5:24,2.0,1.0,IND 40,7.0,0.0,Trey Sermon right guard for 3 yards (tackle by Mohamed Kamara and Marcus Maye),1.68,1.8,7.0,2024,99
+2.0,4:52,1.0,10.0,IND 43,7.0,0.0,"Anthony Richardson pass incomplete short left intended for Mo Alie-Cox. Penalty on Braden Smith: Illegal Formation, 5 yards (declined)",1.8,1.25,7.0,2024,99
+2.0,4:44,2.0,10.0,IND 43,7.0,0.0,Tyler Goodson left end for 6 yards (tackle by Zach Sieler),1.25,1.35,7.0,2024,99
+2.0,4:07,3.0,4.0,IND 49,7.0,0.0,Anthony Richardson left end for 1 yard (tackle by Jordan Poyer),1.35,-0.06,7.0,2024,99
+2.0,3:20,4.0,3.0,IND 50,7.0,0.0,"Penalty on Anthony Richardson: Delay of Game, 5 yards (accepted) (no play)",-0.06,-0.39,7.0,2024,99
+2.0,2:59,4.0,8.0,IND 45,7.0,0.0,"Rigoberto Sanchez punts 55 yards, touchback.",-0.39,-0.28,7.0,2024,99
+2.0,2:52,1.0,10.0,MIA 20,7.0,0.0,Tyler Huntley pass complete short left to Alec Ingold for 25 yards (tackle by Segun Olubi and Julian Blackmon),0.28,1.93,7.0,2024,99
+2.0,2:11,1.0,10.0,MIA 45,7.0,0.0,De'Von Achane up the middle for 14 yards (tackle by Nick Cross and Adetomiwa Adebawore),1.93,2.85,7.0,2024,99
+2.0,2:00,1.0,10.0,IND 41,7.0,0.0,De'Von Achane left tackle for 6 yards (tackle by Laiatu Latu),2.85,3.12,7.0,2024,99
+2.0,1:25,2.0,4.0,IND 35,7.0,0.0,De'Von Achane left end for 1 yard (tackle by Nick Cross and Grant Stuard),3.12,2.54,7.0,2024,99
+2.0,1:21,,,,,,Timeout #1 by Indianapolis Colts,,,7.0,2024,99
+2.0,1:21,3.0,3.0,IND 34,7.0,0.0,Tyler Huntley pass complete short left to Jonnu Smith for 13 yards (tackle by Nick Cross),2.54,4.17,7.0,2024,99
+2.0,1:15,1.0,10.0,IND 21,7.0,0.0,Tyler Huntley pass complete short right to Julian Hill for 4 yards (tackle by Grant Stuard),4.17,4.2,7.0,2024,99
+2.0,0:35,2.0,6.0,IND 17,7.0,0.0,Raheem Mostert right end for 2 yards (tackle by Zaire Franklin and Adam Gotsis),4.2,3.81,7.0,2024,99
+2.0,0:29,,,,,,Timeout #3 by Miami Dolphins,,,7.0,2024,99
+2.0,0:29,3.0,4.0,IND 15,7.0,0.0,Tyler Huntley pass incomplete short middle intended for Odell Beckham (defended by Kenny Moore),3.81,2.52,7.0,2024,99
+2.0,0:25,4.0,4.0,IND 15,10.0,0.0,Jason Sanders 33 yard field goal good,2.52,3.0,7.0,2024,99
+2.0,0:22,,,MIA 35,10.0,0.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,99
+2.0,0:22,1.0,10.0,IND 30,10.0,0.0,Anthony Richardson pass incomplete deep left intended for Alec Pierce,0.94,0.39,7.0,2024,99
+2.0,0:16,2.0,10.0,IND 30,10.0,0.0,Anthony Richardson pass complete deep middle to Michael Pittman for 33 yards (tackle by Jordan Poyer),0.39,3.12,7.0,2024,99
+2.0,0:09,1.0,10.0,MIA 37,10.0,0.0,Tyler Goodson up the middle for 3 yards (tackle by Jordan Poyer),3.12,2.98,7.0,2024,99
+2.0,0:05,,,,,,Timeout #2 by Indianapolis Colts,,,7.0,2024,99
+2.0,0:05,2.0,7.0,MIA 34,10.0,3.0,Matt Gay 52 yard field goal good,2.98,3.0,7.0,2024,99
+3.0,15:00,,,IND 35,10.0,3.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,99
+3.0,15:00,1.0,10.0,MIA 30,10.0,3.0,De'Von Achane left tackle for 12 yards (tackle by Grant Stuard and Zaire Franklin),0.94,1.73,7.0,2024,99
+3.0,14:29,1.0,10.0,MIA 42,10.0,3.0,De'Von Achane up the middle for 3 yards (tackle by Grant Stuard),1.73,1.59,7.0,2024,99
+3.0,14:04,2.0,7.0,MIA 45,10.0,3.0,De'Von Achane right tackle for 5 yards (tackle by Segun Olubi and Taven Bryan),1.59,1.55,7.0,2024,99
+3.0,13:23,3.0,2.0,MIA 50,10.0,3.0,Tyler Huntley pass incomplete deep left intended for Tyreek Hill,1.55,-0.06,7.0,2024,99
+3.0,13:15,4.0,2.0,MIA 50,10.0,3.0,"Penalty on Tyler Huntley: Delay of Game, 5 yards (accepted) (no play)",-0.06,-0.39,7.0,2024,99
+3.0,13:15,4.0,7.0,MIA 45,10.0,3.0,Jake Bailey punts 40 yards out of bounds,-0.39,0.22,7.0,2024,99
+3.0,13:07,1.0,10.0,IND 15,10.0,3.0,Anthony Richardson pass complete short right to Josh Downs for 3 yards (tackle by Jalen Ramsey),-0.22,-0.28,7.0,2024,99
+3.0,12:40,2.0,7.0,IND 18,10.0,3.0,Anthony Richardson pass incomplete deep middle intended for Michael Pittman,-0.28,-1.0,7.0,2024,99
+3.0,12:32,3.0,7.0,IND 18,10.0,3.0,Anthony Richardson scrambles up the middle for 2 yards (tackle by David Long and Zach Sieler),-1.0,-2.03,7.0,2024,99
+3.0,11:54,4.0,5.0,IND 20,10.0,3.0,"Rigoberto Sanchez punts 42 yards, fair catch by Braxton Berrios at MIA-38",-2.03,-1.47,7.0,2024,99
+3.0,11:48,1.0,10.0,MIA 38,10.0,3.0,"Raheem Mostert left tackle for 7 yards. Raheem Mostert fumbles (tackle by Julian Blackmon, recovered by Segun Olubi at MIA-46 and returned for 18 yards and Julian Hill and Jaylen Waddle)",1.47,-3.71,7.0,2024,99
+3.0,11:33,1.0,10.0,MIA 28,10.0,3.0,Anthony Richardson left tackle for 12 yards (tackle by Jordan Poyer and David Long),3.71,4.51,7.0,2024,99
+3.0,10:54,1.0,10.0,MIA 16,10.0,3.0,Ashton Dulin right end for 12 yards (tackle by Marcus Maye and Kader Kohou),4.51,6.28,7.0,2024,99
+3.0,10:07,1.0,4.0,MIA 4,10.0,3.0,"Penalty on Braden Smith: False Start, 5 yards (accepted) (no play)",6.28,5.14,7.0,2024,99
+3.0,9:54,1.0,9.0,MIA 9,10.0,3.0,Tyler Goodson up the middle for 2 yards (tackle by David Long),5.14,4.76,7.0,2024,99
+3.0,9:11,2.0,7.0,MIA 7,10.0,9.0,"Tyler Goodson left guard for 7 yards, touchdown",4.76,7.0,7.0,2024,99
+3.0,9:08,,,MIA 15,10.0,10.0,Matt Gay kicks extra point good,0.0,0.0,7.0,2024,99
+3.0,9:08,,,IND 35,10.0,10.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,99
+3.0,9:08,1.0,10.0,MIA 30,10.0,10.0,Jaylen Wright left tackle for 3 yards (tackle by Nick Cross and Grant Stuard),0.94,0.8,7.0,2024,99
+3.0,8:30,2.0,7.0,MIA 33,10.0,10.0,Tyler Huntley sacked by Laiatu Latu for -4 yards,0.8,-0.43,7.0,2024,99
+3.0,7:47,3.0,11.0,MIA 29,10.0,10.0,Tyler Huntley pass incomplete deep right,-0.43,-1.44,7.0,2024,99
+3.0,7:36,4.0,11.0,MIA 29,10.0,10.0,"Jake Bailey punts 56 yards, returned by Josh Downs for no gain (tackle by Siran Neal)",-1.44,0.22,7.0,2024,99
+3.0,7:29,1.0,10.0,IND 15,10.0,10.0,Anthony Richardson scrambles up the middle for 1 yard (tackle by Benito Jones and Jalen Ramsey),-0.22,-0.58,7.0,2024,99
+3.0,6:54,2.0,9.0,IND 16,10.0,10.0,Anthony Richardson pass incomplete short right,-0.58,-1.25,7.0,2024,99
+3.0,6:41,3.0,9.0,IND 16,10.0,10.0,"Anthony Richardson sacked by Jalen Ramsey for no gain. Anthony Richardson fumbles (forced by Jalen Ramsey), recovered by Chop Robinson at IND-20 (tackle by Dalton Tucker) Replay Assistant challenged the fumble ruling, and the original play was overturned. Anthony Richardson pass incomplete short middle intended for Alec Pierce",-1.25,-2.39,7.0,2024,99
+3.0,6:33,4.0,9.0,IND 16,10.0,10.0,"Rigoberto Sanchez punts 48 yards, returned by Braxton Berrios for 9 yards (tackle by Segun Olubi and Grant Stuard)",-2.39,-1.93,7.0,2024,99
+3.0,6:27,1.0,10.0,MIA 45,10.0,10.0,Jaylen Wright right tackle for 9 yards (tackle by Nick Cross),1.93,2.6,7.0,2024,99
+3.0,5:50,2.0,1.0,IND 46,10.0,10.0,Jaylen Wright up the middle for 19 yards (tackle by Julian Blackmon and Kenny Moore),2.6,3.78,7.0,2024,99
+3.0,5:09,1.0,10.0,IND 27,10.0,10.0,Jaylen Wright right guard for 2 yards (tackle by Julian Blackmon),3.78,3.5,7.0,2024,99
+3.0,4:33,2.0,8.0,IND 25,10.0,10.0,Jaylen Wright left end for no gain (tackle by Jaylon Jones),3.5,2.81,7.0,2024,99
+3.0,3:46,3.0,8.0,IND 25,10.0,10.0,Tim Boyle pass complete short middle to Jonnu Smith for 12 yards (tackle by Julian Blackmon and Zaire Franklin),2.81,4.71,7.0,2024,99
+3.0,3:07,1.0,10.0,IND 13,10.0,10.0,"Alec Ingold left guard for -1 yards. Alec Ingold fumbles (tackle by Grant Stuard), recovered by Taven Bryan at IND-14 (tackle by Grant Stuard)",4.71,0.28,7.0,2024,99
+3.0,2:56,1.0,10.0,IND 14,10.0,10.0,Tyler Goodson left guard for 4 yards (tackle by Jordyn Brooks),-0.28,-0.21,7.0,2024,99
+3.0,2:18,2.0,6.0,IND 18,10.0,10.0,Tyler Goodson right tackle for 2 yards (tackle by Da'Shawn Hand),-0.21,-0.68,7.0,2024,99
+3.0,1:37,3.0,4.0,IND 20,10.0,10.0,Anthony Richardson pass incomplete short left intended for Josh Downs (defended by Kader Kohou),-0.68,-2.03,7.0,2024,99
+3.0,1:32,4.0,4.0,IND 20,10.0,10.0,"Rigoberto Sanchez punts 51 yards, fair catch by Braxton Berrios at MIA-29",-2.03,-0.87,7.0,2024,99
+3.0,1:25,1.0,10.0,MIA 29,10.0,10.0,De'Von Achane left tackle for -2 yards (tackle by Grover Stewart),0.87,0.06,7.0,2024,99
+3.0,0:37,2.0,12.0,MIA 27,10.0,10.0,Tim Boyle pass incomplete short left,0.06,-0.63,7.0,2024,99
+3.0,0:35,3.0,12.0,MIA 27,10.0,10.0,Tim Boyle pass incomplete short right intended for De'Von Achane,-0.63,-1.57,7.0,2024,99
+3.0,0:30,4.0,12.0,MIA 27,10.0,10.0,"Jake Bailey punts 59 yards, returned by Josh Downs for 13 yards (tackle by Alec Ingold and Quinton Bell)",-1.57,-0.74,7.0,2024,99
+3.0,0:18,1.0,10.0,IND 27,10.0,10.0,Anthony Richardson pass complete short left to Adonai Mitchell for 16 yards (tackle by Kendall Fuller),0.74,1.8,7.0,2024,99
+4.0,15:00,1.0,10.0,IND 43,10.0,10.0,Anthony Richardson pass complete short right to Trey Sermon for 13 yards (tackle by David Long and Benito Jones),1.8,2.65,7.0,2024,99
+4.0,14:18,1.0,10.0,MIA 44,10.0,10.0,Trey Sermon left tackle for 3 yards (tackle by Calais Campbell),2.65,2.52,7.0,2024,99
+4.0,13:38,2.0,7.0,MIA 41,10.0,10.0,Tyler Goodson right end for -1 yards (tackle by Da'Shawn Hand),2.52,1.69,7.0,2024,99
+4.0,13:00,3.0,8.0,MIA 42,10.0,10.0,Anthony Richardson pass complete short right to Alec Pierce for 10 yards (tackle by Jordyn Brooks and Kendall Fuller),1.69,3.45,7.0,2024,99
+4.0,12:23,1.0,10.0,MIA 32,10.0,10.0,Trey Sermon right end for 11 yards (tackle by Jordan Poyer),3.45,4.17,7.0,2024,99
+4.0,11:39,1.0,10.0,MIA 21,10.0,10.0,Trey Sermon left tackle for 6 yards (tackle by Jordan Poyer),4.17,4.55,7.0,2024,99
+4.0,11:02,2.0,4.0,MIA 15,10.0,10.0,Trey Sermon right tackle for 7 yards (tackle by Kendall Fuller),4.55,5.37,7.0,2024,99
+4.0,10:15,1.0,8.0,MIA 8,10.0,10.0,Anthony Richardson up the middle for 4 yards (tackle by Zach Sieler),5.37,5.34,7.0,2024,99
+4.0,9:39,2.0,4.0,MIA 4,10.0,10.0,Anthony Richardson left guard for no gain (tackle by Calais Campbell and Marcus Maye),5.34,4.49,7.0,2024,99
+4.0,8:56,3.0,4.0,MIA 4,10.0,10.0,Anthony Richardson pass incomplete short right intended for Josh Downs,4.49,3.03,7.0,2024,99
+4.0,8:44,,,,,,Timeout #1 by Miami Dolphins,,,7.0,2024,99
+4.0,8:44,4.0,4.0,MIA 4,10.0,13.0,Matt Gay 22 yard field goal good,3.03,3.0,7.0,2024,99
+4.0,8:41,,,IND 35,10.0,13.0,"Matt Gay kicks off 68 yards, returned by Braxton Berrios for 26 yards (tackle by Segun Olubi)",0.0,0.48,7.0,2024,99
+4.0,8:37,1.0,10.0,MIA 23,10.0,13.0,Tim Boyle pass complete short left to Jonnu Smith for 18 yards (tackle by Zaire Franklin),0.48,1.66,7.0,2024,99
+4.0,8:01,1.0,10.0,MIA 41,10.0,13.0,Raheem Mostert up the middle for 14 yards (tackle by Zaire Franklin and Julian Blackmon),1.66,2.59,7.0,2024,99
+4.0,7:25,1.0,10.0,IND 45,10.0,13.0,Raheem Mostert left end for -2 yards (tackle by Grant Stuard and Nick Cross),2.59,1.77,7.0,2024,99
+4.0,6:41,2.0,12.0,IND 47,10.0,13.0,Tim Boyle pass complete short middle to Jaylen Waddle for 11 yards (tackle by Zaire Franklin),1.77,2.54,7.0,2024,99
+4.0,6:03,3.0,1.0,IND 36,10.0,13.0,Alec Ingold up the middle for no gain (tackle by Taven Bryan),2.54,0.89,7.0,2024,99
+4.0,5:19,4.0,1.0,IND 36,10.0,13.0,Jason Sanders 54 yard field goal no good,0.89,-1.86,7.0,2024,99
+4.0,5:14,1.0,10.0,IND 44,10.0,13.0,Tyler Goodson left guard for -1 yards (tackle by Calais Campbell),1.86,1.18,7.0,2024,99
+4.0,4:34,2.0,11.0,IND 43,10.0,13.0,Anthony Richardson pass complete deep left to Michael Pittman for 21 yards (tackle by Kendall Fuller),1.18,3.18,7.0,2024,99
+4.0,4:27,1.0,10.0,MIA 36,10.0,13.0,Anthony Richardson pass complete short right to Alec Pierce for 5 yards (tackle by Kendall Fuller and Jalen Ramsey),3.18,3.31,7.0,2024,99
+4.0,3:42,2.0,5.0,MIA 31,10.0,13.0,Anthony Richardson left end for 1 yard (tackle by Marcus Maye),3.31,2.74,7.0,2024,99
+4.0,3:36,,,,,,Timeout #2 by Miami Dolphins,,,7.0,2024,99
+4.0,3:36,3.0,4.0,MIA 30,10.0,13.0,Anthony Richardson right end for 8 yards (tackle by Jordyn Brooks),2.74,4.11,7.0,2024,99
+4.0,2:52,1.0,10.0,MIA 22,10.0,13.0,Tyler Goodson left tackle for 1 yard (tackle by Tyus Bowser and Marcus Maye),4.11,3.7,7.0,2024,99
+4.0,2:08,2.0,9.0,MIA 21,10.0,13.0,Anthony Richardson right end for -3 yards (tackle by Jordyn Brooks),3.7,2.61,7.0,2024,99
+4.0,2:00,3.0,12.0,MIA 24,10.0,13.0,Trey Sermon up the middle for 4 yards (tackle by Anthony Walker and Jordyn Brooks),2.61,2.12,7.0,2024,99
+4.0,1:55,,,,,,Timeout #3 by Miami Dolphins,,,7.0,2024,99
+4.0,1:55,4.0,8.0,MIA 20,10.0,16.0,Matt Gay 38 yard field goal good,2.12,3.0,7.0,2024,99
+4.0,1:51,,,IND 35,10.0,16.0,"Matt Gay kicks off 65 yards, touchback.",0.0,0.94,7.0,2024,99
+4.0,1:51,1.0,10.0,MIA 30,10.0,16.0,Tim Boyle pass complete short middle to Tyreek Hill for 8 yards (tackle by Kenny Moore and Zaire Franklin),0.94,1.47,7.0,2024,99
+4.0,1:32,2.0,2.0,MIA 38,10.0,16.0,Tim Boyle pass complete short middle to Jonnu Smith for 10 yards (tackle by Grant Stuard),1.47,2.13,7.0,2024,99
+4.0,1:13,1.0,10.0,MIA 48,10.0,16.0,Tim Boyle pass incomplete short left intended for Jaylen Waddle (defended by Jaylon Jones),2.13,1.58,7.0,2024,99
+4.0,1:10,2.0,10.0,MIA 48,10.0,16.0,Tim Boyle pass complete short left to Malik Washington for 7 yards (tackle by Jaylon Jones),1.58,1.82,7.0,2024,99
+4.0,1:06,3.0,3.0,IND 45,10.0,16.0,Tim Boyle scrambles left end for 4 yards (tackle by Grant Stuard),1.82,2.85,7.0,2024,99
+4.0,0:43,1.0,10.0,IND 41,10.0,16.0,Tim Boyle pass complete short left to De'Von Achane for 9 yards (tackle by Grant Stuard and Jaylon Jones),2.85,3.52,7.0,2024,99
+4.0,0:20,2.0,1.0,IND 32,10.0,16.0,Tim Boyle pass complete short left to De'Von Achane for -1 yards (tackle by Jaylon Jones and Kenny Moore),3.52,2.68,7.0,2024,99
+4.0,0:15,3.0,2.0,IND 33,10.0,16.0,Tim Boyle spiked the ball,2.68,1.2,7.0,2024,99
+4.0,0:11,4.0,2.0,IND 33,10.0,16.0,Tim Boyle pass incomplete deep right intended for Malik Washington,1.2,-1.14,7.0,2024,99
+4.0,0:07,1.0,10.0,IND 33,10.0,16.0,Anthony Richardson kneels for -1 yards,1.14,0.46,7.0,2024,99

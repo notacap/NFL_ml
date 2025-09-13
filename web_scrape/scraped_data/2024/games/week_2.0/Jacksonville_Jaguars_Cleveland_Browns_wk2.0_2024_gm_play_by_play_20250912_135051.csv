@@ -1,0 +1,173 @@
+Quarter,Time,Down,ToGo,Location,CLE,JAX,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Browns won the coin toss and deferred, Jaguars to receive the opening kickoff.",,,2.0,2024,19
+1.0,15:00,,,CLE 35,0.0,0.0,"Dustin Hopkins kicks off 57 yards, returned by Devin Duvernay for 12 yards (tackle by Khaleke Hudson)",0.0,0.28,2.0,2024,19
+1.0,14:55,1.0,10.0,JAX 20,0.0,0.0,Trevor Lawrence pass complete short middle to Brenton Strange for 9 yards (tackle by Jordan Hicks and Grant Delpit),0.28,0.95,2.0,2024,19
+1.0,14:24,2.0,1.0,JAX 29,0.0,0.0,Travis Etienne up the middle for -2 yards (tackle by Grant Delpit),0.95,-0.03,2.0,2024,19
+1.0,13:45,3.0,3.0,JAX 27,0.0,0.0,"Penalty on Myles Garrett: Neutral Zone Infraction, 5 yards (accepted) (no play)",-0.03,1.07,2.0,2024,19
+1.0,13:27,1.0,10.0,JAX 32,0.0,0.0,Travis Etienne up the middle for 5 yards (tackle by Grant Delpit),1.07,1.2,2.0,2024,19
+1.0,12:48,2.0,5.0,JAX 37,0.0,0.0,Trevor Lawrence pass complete short left to Travis Etienne for -2 yards (tackle by Cameron Mitchell and Martin Emerson),1.2,0.23,2.0,2024,19
+1.0,12:02,3.0,7.0,JAX 35,0.0,0.0,Trevor Lawrence pass incomplete deep right intended for Gabriel Davis,0.23,-1.04,2.0,2024,19
+1.0,11:57,4.0,7.0,JAX 35,0.0,0.0,"Logan Cooke punts 55 yards, returned by James Proche for 1 yard (tackle by Yasir Abdullah)",-1.04,0.37,2.0,2024,19
+1.0,11:43,1.0,10.0,CLE 11,0.0,0.0,D'Onta Foreman left end for 8 yards (tackle by Montaric Brown and Andre Cisco),-0.37,0.17,2.0,2024,19
+1.0,11:06,2.0,2.0,CLE 19,0.0,0.0,Deshaun Watson pass complete short middle to Elijah Moore for 9 yards (tackle by Andre Cisco),0.17,0.81,2.0,2024,19
+1.0,10:33,1.0,10.0,CLE 28,0.0,0.0,D'Onta Foreman up the middle for 5 yards (tackle by Montaric Brown),0.81,0.94,2.0,2024,19
+1.0,9:59,2.0,5.0,CLE 33,0.0,0.0,Deshaun Watson pass complete short right to Jerome Ford for no gain (tackle by DaVon Hamilton),0.94,0.23,2.0,2024,19
+1.0,9:06,3.0,5.0,CLE 33,0.0,0.0,Deshaun Watson pass complete short left to Elijah Moore for 22 yards (tackle by Jarrian Jones),0.23,2.59,2.0,2024,19
+1.0,8:30,1.0,10.0,JAX 45,0.0,0.0,"Jerry Jeudy left end for no gain (tackle by Montaric Brown). Penalty on James Hudson: Offensive Holding, 10 yards (accepted) (no play)",2.59,1.93,2.0,2024,19
+1.0,8:17,1.0,20.0,CLE 45,0.0,0.0,Deshaun Watson pass incomplete short right intended for Amari Cooper (defended by Ronald Darby),1.93,0.69,2.0,2024,19
+1.0,8:12,2.0,20.0,CLE 45,0.0,0.0,Deshaun Watson pass complete deep right to Jerry Jeudy for 21 yards (tackle by Antonio Johnson),0.69,3.31,2.0,2024,19
+1.0,7:38,1.0,10.0,JAX 34,0.0,0.0,Deshaun Watson pass complete short left to Jerry Jeudy for 9 yards (tackle by Montaric Brown),3.31,3.99,2.0,2024,19
+1.0,7:04,2.0,1.0,JAX 25,0.0,0.0,Jerome Ford up the middle for 1 yard (tackle by Jeremiah Ledbetter and Foyesade Oluokun),3.99,3.97,2.0,2024,19
+1.0,6:17,1.0,10.0,JAX 24,0.0,0.0,D'Onta Foreman up the middle for 2 yards (tackle by Roy Robertson-Harris),3.97,3.7,2.0,2024,19
+1.0,5:36,2.0,8.0,JAX 22,0.0,0.0,Deshaun Watson pass complete short left to Jordan Akins for 10 yards (tackle by Devin Lloyd and Andre Cisco),3.7,4.78,2.0,2024,19
+1.0,4:54,1.0,10.0,JAX 12,0.0,0.0,D'Onta Foreman right end for 1 yard (tackle by Foyesade Oluokun and Esezi Otomewo),4.78,4.27,2.0,2024,19
+1.0,4:15,2.0,9.0,JAX 11,0.0,0.0,Deshaun Watson sacked by Josh Hines-Allen for -5 yards,4.27,2.93,2.0,2024,19
+1.0,3:31,3.0,14.0,JAX 16,0.0,0.0,"Deshaun Watson pass complete short left to David Bell for 12 yards (tackle by Foyesade Oluokun). Penalty on Devin Lloyd: Roughing the Passer, 2 yards (accepted)",2.93,6.74,2.0,2024,19
+1.0,3:16,1.0,2.0,JAX 2,0.0,0.0,"D'Onta Foreman up the middle for 1 yard. D'Onta Foreman fumbles (forced by Devin Lloyd), recovered by D'Onta Foreman at JAC-1 (tackle by Devin Lloyd)",6.74,5.91,2.0,2024,19
+1.0,2:32,2.0,1.0,JAX 1,6.0,0.0,"Deshaun Watson up the middle for 1 yard, touchdown",5.91,7.0,2.0,2024,19
+1.0,2:29,,,JAX 15,7.0,0.0,Dustin Hopkins kicks extra point good,0.0,0.0,2.0,2024,19
+1.0,2:29,,,CLE 35,7.0,0.0,"Dustin Hopkins kicks off 65 yards, touchback.",0.0,0.94,2.0,2024,19
+1.0,2:29,1.0,10.0,JAX 30,7.0,0.0,Travis Etienne left end for 5 yards (tackle by Sam Kamara and Jeremiah Owusu-Koramoah),0.94,1.07,2.0,2024,19
+1.0,1:52,2.0,5.0,JAX 35,7.0,0.0,Trevor Lawrence pass incomplete deep right intended for Gabriel Davis (defended by Denzel Ward),1.07,0.37,2.0,2024,19
+1.0,1:44,3.0,5.0,JAX 35,7.0,0.0,Trevor Lawrence pass incomplete short left intended for Gabriel Davis,0.37,-1.04,2.0,2024,19
+1.0,1:39,4.0,5.0,JAX 35,7.0,0.0,"Logan Cooke punts 55 yards, returned by James Proche for 14 yards (tackle by Ventrell Miller and D'Ernest Johnson)",-1.04,-0.54,2.0,2024,19
+1.0,1:27,1.0,10.0,CLE 24,7.0,0.0,Deshaun Watson pass incomplete deep left intended for Amari Cooper,0.54,0.0,2.0,2024,19
+1.0,1:21,2.0,10.0,CLE 24,7.0,0.0,Jerome Ford right end for 12 yards (tackle by Antonio Johnson and Foyesade Oluokun),0.0,1.33,2.0,2024,19
+1.0,0:40,1.0,10.0,CLE 36,7.0,0.0,D'Onta Foreman up the middle for 5 yards (tackle by Foyesade Oluokun and Devin Lloyd),1.33,1.47,2.0,2024,19
+2.0,15:00,2.0,5.0,CLE 41,7.0,0.0,Deshaun Watson pass complete short right to David Bell for 9 yards (tackle by Montaric Brown),1.47,2.26,2.0,2024,19
+2.0,14:16,1.0,10.0,JAX 50,7.0,0.0,"Deshaun Watson pass complete short middle to D'Onta Foreman for no gain (tackle by Chad Muma and DaVon Hamilton). Penalty on Jerry Jeudy: Illegal Shift, 5 yards (accepted) (no play)",2.26,1.93,2.0,2024,19
+2.0,13:45,1.0,15.0,CLE 45,7.0,0.0,Deshaun Watson pass complete short left to Elijah Moore for 8 yards (tackle by Myles Cole),1.93,2.12,2.0,2024,19
+2.0,13:02,2.0,7.0,JAX 47,7.0,0.0,Jerome Ford up the middle for 4 yards (tackle by Arik Armstead and Jeremiah Ledbetter),2.12,1.95,2.0,2024,19
+2.0,12:23,3.0,3.0,JAX 43,7.0,0.0,Jerome Ford left end for 2 yards (tackle by Montaric Brown and Ventrell Miller),1.95,0.53,2.0,2024,19
+2.0,11:42,4.0,1.0,JAX 41,7.0,0.0,Jameis Winston up the middle for 2 yards (tackle by Andre Cisco),0.53,2.98,2.0,2024,19
+2.0,11:00,1.0,10.0,JAX 39,7.0,0.0,Deshaun Watson pass complete short right to Elijah Moore for -2 yards (tackle by Montaric Brown),2.98,2.17,2.0,2024,19
+2.0,10:26,,,,,,Timeout #1 by Cleveland Browns,,,2.0,2024,19
+2.0,10:26,2.0,12.0,JAX 41,7.0,0.0,Deshaun Watson scrambles up the middle for 6 yards (tackle by Devin Lloyd),2.17,2.28,2.0,2024,19
+2.0,10:02,,,,,,Timeout #1 by Jacksonville Jaguars,,,2.0,2024,19
+2.0,10:02,3.0,6.0,JAX 35,7.0,0.0,Deshaun Watson pass incomplete deep left intended for Amari Cooper,2.28,0.97,2.0,2024,19
+2.0,9:57,4.0,6.0,JAX 35,10.0,0.0,Dustin Hopkins 53 yard field goal good,0.97,3.0,2.0,2024,19
+2.0,9:52,,,CLE 35,10.0,0.0,"Dustin Hopkins kicks off no gain, returned by Tank Bigsby for no gain. Tank Bigsby fumbles (forced by Ogbonnia Okoronkwo), recovered by Ogbonnia Okoronkwo at JAC-27 (tackle by Ogbonnia Okoronkwo). Penalty on Dustin Hopkins: Illegal Formation, 5 yards (accepted) (no play)",0.0,0.0,2.0,2024,19
+2.0,9:45,,,CLE 30,10.0,0.0,"Dustin Hopkins kicks off 70 yards, touchback.",0.0,0.94,2.0,2024,19
+2.0,9:45,1.0,10.0,JAX 30,10.0,0.0,Trevor Lawrence pass complete short left to Christian Kirk for -1 yards,0.94,0.26,2.0,2024,19
+2.0,9:07,2.0,11.0,JAX 29,10.0,0.0,Trevor Lawrence pass complete short right to Gabriel Davis for 10 yards (tackle by Greg Newsome),0.26,0.89,2.0,2024,19
+2.0,8:32,3.0,1.0,JAX 39,10.0,0.0,Travis Etienne up the middle for 3 yards (tackle by Denzel Ward),0.89,1.73,2.0,2024,19
+2.0,7:58,1.0,10.0,JAX 42,10.0,0.0,Travis Etienne right end for 20 yards (tackle by Ronnie Hickman),1.73,3.05,2.0,2024,19
+2.0,7:15,1.0,10.0,CLE 38,10.0,0.0,D'Ernest Johnson left end for 3 yards (tackle by Sam Kamara),3.05,2.91,2.0,2024,19
+2.0,6:33,2.0,7.0,CLE 35,10.0,0.0,Trevor Lawrence pass incomplete short left intended for Brian Thomas (defended by Jordan Hicks) (defended by Martin Emerson),2.91,2.21,2.0,2024,19
+2.0,6:28,3.0,7.0,CLE 35,10.0,0.0,Trevor Lawrence scrambles left end for 33 yards (tackle by Rodney McLeod),2.21,6.74,2.0,2024,19
+2.0,5:37,,,,,,Timeout #2 by Jacksonville Jaguars,,,2.0,2024,19
+2.0,5:37,1.0,2.0,CLE 2,10.0,0.0,Travis Etienne up the middle for -2 yards (tackle by Jeremiah Owusu-Koramoah),6.74,5.34,2.0,2024,19
+2.0,4:58,2.0,4.0,CLE 4,10.0,0.0,Trevor Lawrence pass incomplete short left,5.34,4.49,2.0,2024,19
+2.0,4:51,,,,,,Timeout #3 by Jacksonville Jaguars,,,2.0,2024,19
+2.0,4:51,3.0,4.0,CLE 4,10.0,0.0,Trevor Lawrence pass incomplete short middle intended for Gabriel Davis,4.49,3.03,2.0,2024,19
+2.0,4:47,4.0,4.0,CLE 4,10.0,3.0,Cam Little 22 yard field goal good,3.03,3.0,2.0,2024,19
+2.0,4:44,,,JAX 35,10.0,3.0,"Cam Little kicks off 62 yards, returned by Pierre Strong for 25 yards (tackle by Caleb Johnson)",0.0,0.81,2.0,2024,19
+2.0,4:38,1.0,10.0,CLE 28,10.0,3.0,Deshaun Watson pass incomplete short right intended for Amari Cooper,0.81,0.26,2.0,2024,19
+2.0,4:32,2.0,10.0,CLE 28,10.0,3.0,Jerome Ford right guard for 7 yards (tackle by Devin Lloyd),0.26,0.5,2.0,2024,19
+2.0,3:48,3.0,3.0,CLE 35,10.0,3.0,Deshaun Watson left end for 2 yards (tackle by Josh Hines-Allen),0.5,-0.91,2.0,2024,19
+2.0,3:04,4.0,1.0,CLE 37,10.0,3.0,Jerome Ford left end for 36 yards (tackle by Andre Cisco),-0.91,3.78,2.0,2024,19
+2.0,2:26,1.0,10.0,JAX 27,10.0,3.0,Deshaun Watson scrambles up the middle for 2 yards (tackle by DaVon Hamilton and Esezi Otomewo),3.78,3.5,2.0,2024,19
+2.0,2:00,2.0,8.0,JAX 25,10.0,3.0,Pierre Strong right end for -5 yards (tackle by Roy Robertson-Harris),3.5,2.15,2.0,2024,19
+2.0,1:19,3.0,13.0,JAX 30,10.0,3.0,Deshaun Watson pass complete short right to Pierre Strong for 10 yards (tackle by Tre Flowers and Deantre Prince),2.15,2.22,2.0,2024,19
+2.0,0:31,,,,,,Timeout #2 by Cleveland Browns,,,2.0,2024,19
+2.0,0:31,4.0,3.0,JAX 20,13.0,3.0,Dustin Hopkins 38 yard field goal good,2.22,3.0,2.0,2024,19
+2.0,0:27,,,CLE 35,13.0,3.0,"Dustin Hopkins kicks off 65 yards, touchback.",0.0,0.94,2.0,2024,19
+2.0,0:27,1.0,10.0,JAX 30,13.0,3.0,Trevor Lawrence pass complete short left to Travis Etienne for no gain (tackle by Myles Garrett and Alex Wright),0.94,0.39,2.0,2024,19
+3.0,15:00,,,JAX 35,13.0,3.0,"Cam Little kicks off 65 yards, touchback.",0.0,0.94,2.0,2024,19
+3.0,15:00,1.0,10.0,CLE 30,13.0,3.0,Deshaun Watson pass incomplete short left intended for Pierre Strong,0.94,0.39,2.0,2024,19
+3.0,14:53,2.0,10.0,CLE 30,13.0,3.0,Deshaun Watson pass incomplete short right,0.39,-0.3,2.0,2024,19
+3.0,14:46,3.0,10.0,CLE 30,13.0,3.0,Deshaun Watson pass complete short left to David Bell for 6 yards (tackle by Arik Armstead),-0.3,-0.98,2.0,2024,19
+3.0,14:26,4.0,4.0,CLE 36,13.0,3.0,"Corey Bojorquez punts 64 yards, touchback.",-0.98,-0.28,2.0,2024,19
+3.0,14:16,1.0,10.0,JAX 20,13.0,3.0,Travis Etienne up the middle for -2 yards (tackle by Jeremiah Owusu-Koramoah),0.28,-0.63,2.0,2024,19
+3.0,13:35,2.0,12.0,JAX 18,13.0,3.0,Trevor Lawrence sacked by Jordan Hicks for -5 yards,-0.63,-2.19,2.0,2024,19
+3.0,12:53,3.0,17.0,JAX 13,13.0,3.0,Trevor Lawrence pass incomplete short right intended for Parker Washington,-2.19,-2.49,2.0,2024,19
+3.0,12:48,4.0,17.0,JAX 13,13.0,3.0,"Logan Cooke punts 46 yards, returned by James Proche for 10 yards (tackle by Daniel Thomas and Chad Muma)",-2.49,-2.32,2.0,2024,19
+3.0,12:36,1.0,10.0,JAX 49,13.0,3.0,"D'Onta Foreman up the middle for 2 yards (tackle by Antonio Johnson). Penalty on Joel Bitonio: Offensive Holding, 10 yards (accepted)",2.32,1.8,2.0,2024,19
+3.0,12:11,1.0,18.0,CLE 43,13.0,3.0,"Deshaun Watson pass incomplete deep left intended for Amari Cooper. Penalty on Montaric Brown: Defensive Pass Interference, 17 yards (accepted) (no play)",1.8,2.92,2.0,2024,19
+3.0,12:06,1.0,10.0,JAX 40,13.0,3.0,"Deshaun Watson pass complete short middle to Cedric Tillman for 2 yards (tackle by Jarrian Jones). Penalty on Antonio Johnson: Roughing the Passer, 14 yards (accepted)",2.92,3.97,2.0,2024,19
+3.0,11:36,1.0,10.0,JAX 24,13.0,3.0,"Jerome Ford left end for no gain (tackle by Jeremiah Ledbetter). Penalty on Ethan Pocic: Offensive Holding, 10 yards (accepted) (no play)",3.97,3.31,2.0,2024,19
+3.0,11:16,1.0,20.0,JAX 34,13.0,3.0,Deshaun Watson pass incomplete short left intended for Jerry Jeudy,3.31,2.08,2.0,2024,19
+3.0,11:12,2.0,20.0,JAX 34,13.0,3.0,Deshaun Watson pass incomplete short middle intended for Elijah Moore (defended by Devin Lloyd),2.08,1.42,2.0,2024,19
+3.0,11:07,3.0,20.0,JAX 34,13.0,3.0,Deshaun Watson pass complete short left to Elijah Moore for 8 yards (tackle by Montaric Brown),1.42,1.74,2.0,2024,19
+3.0,10:25,4.0,12.0,JAX 26,16.0,3.0,Dustin Hopkins 44 yard field goal good,1.74,3.0,2.0,2024,19
+3.0,10:20,,,CLE 35,16.0,3.0,"Dustin Hopkins kicks off 65 yards, touchback.",0.0,0.94,2.0,2024,19
+3.0,10:20,1.0,10.0,JAX 30,16.0,3.0,Trevor Lawrence pass incomplete deep left intended for Brenton Strange,0.94,0.39,2.0,2024,19
+3.0,10:14,2.0,10.0,JAX 30,16.0,3.0,Trevor Lawrence pass incomplete short middle intended for Brenton Strange,0.39,-0.3,2.0,2024,19
+3.0,10:10,3.0,10.0,JAX 30,16.0,3.0,Trevor Lawrence pass complete deep right to Brenton Strange for 26 yards (tackle by Rodney McLeod),-0.3,2.65,2.0,2024,19
+3.0,9:39,1.0,10.0,CLE 44,16.0,3.0,D'Ernest Johnson right end for 9 yards (tackle by Myles Garrett),2.65,3.33,2.0,2024,19
+3.0,9:13,2.0,1.0,CLE 35,16.0,3.0,D'Ernest Johnson up the middle for 4 yards (tackle by Dalvin Tomlinson),3.33,3.51,2.0,2024,19
+3.0,8:50,1.0,10.0,CLE 31,16.0,3.0,D'Ernest Johnson up the middle for 4 yards (tackle by Grant Delpit),3.51,3.51,2.0,2024,19
+3.0,8:07,2.0,6.0,CLE 27,16.0,3.0,Trevor Lawrence pass complete short left to Travis Etienne for 8 yards (tackle by Alex Wright and Martin Emerson),3.51,4.31,2.0,2024,19
+3.0,7:40,1.0,10.0,CLE 19,16.0,3.0,Travis Etienne up the middle for 5 yards (tackle by Jeremiah Owusu-Koramoah),4.31,4.53,2.0,2024,19
+3.0,7:17,2.0,5.0,CLE 14,16.0,3.0,Travis Etienne left end for -3 yards (tackle by Grant Delpit),4.53,3.26,2.0,2024,19
+3.0,6:35,3.0,8.0,CLE 17,16.0,3.0,"Trevor Lawrence sacked by Myles Garrett for -9 yards. Trevor Lawrence fumbles (forced by Myles Garrett), recovered by D'Ernest Johnson at CLE-25 (tackle by Myles Garrett)",3.26,1.8,2.0,2024,19
+3.0,5:52,4.0,16.0,CLE 25,16.0,3.0,Cam Little 43 yard field goal no good,1.8,-1.14,2.0,2024,19
+3.0,5:48,1.0,10.0,CLE 33,16.0,3.0,Deshaun Watson pass complete short right to Amari Cooper for 7 yards (tackle by Montaric Brown),1.14,1.54,2.0,2024,19
+3.0,5:05,2.0,3.0,CLE 40,16.0,3.0,D'Onta Foreman up the middle for 3 yards (tackle by Roy Robertson-Harris and Foyesade Oluokun),1.54,1.8,2.0,2024,19
+3.0,4:12,1.0,10.0,CLE 43,16.0,3.0,D'Onta Foreman left end for -1 yards (tackle by Montaric Brown),1.8,1.12,2.0,2024,19
+3.0,3:28,,,,,,Timeout #1 by Cleveland Browns,,,2.0,2024,19
+3.0,3:28,2.0,11.0,CLE 42,16.0,3.0,Deshaun Watson pass complete short left to Elijah Moore for -1 yards (tackle by Ronald Darby),1.12,0.3,2.0,2024,19
+3.0,2:43,3.0,12.0,CLE 41,16.0,3.0,Deshaun Watson pass incomplete short right intended for Jerome Ford,0.3,-0.65,2.0,2024,19
+3.0,2:37,4.0,12.0,CLE 41,16.0,3.0,"Corey Bojorquez punts 31 yards, fair catch by Devin Duvernay at JAC-28",-0.65,-0.81,2.0,2024,19
+3.0,2:29,1.0,10.0,JAX 28,16.0,3.0,Trevor Lawrence pass complete deep middle to Brian Thomas for 66 yards (tackle by Greg Newsome),0.81,5.83,2.0,2024,19
+3.0,1:51,1.0,6.0,CLE 6,16.0,3.0,Travis Etienne up the middle for 2 yards (tackle by Dalvin Tomlinson),5.83,5.34,2.0,2024,19
+3.0,1:14,2.0,4.0,CLE 4,16.0,9.0,"Travis Etienne up the middle for 4 yards, touchdown",5.34,7.0,2.0,2024,19
+3.0,1:11,,,CLE 15,16.0,10.0,Cam Little kicks extra point good,0.0,0.0,2.0,2024,19
+3.0,1:11,,,JAX 35,16.0,10.0,"Cam Little kicks off 65 yards, touchback.",0.0,0.94,2.0,2024,19
+3.0,1:11,1.0,10.0,CLE 30,16.0,10.0,D'Onta Foreman up the middle for 3 yards (tackle by Josh Hines-Allen and Devin Lloyd),0.94,0.8,2.0,2024,19
+3.0,0:28,2.0,7.0,CLE 33,16.0,10.0,Deshaun Watson sacked by Foyesade Oluokun for -9 yards,0.8,-1.09,2.0,2024,19
+4.0,15:00,3.0,16.0,CLE 24,16.0,10.0,Deshaun Watson pass complete short left to D'Onta Foreman for 9 yards (tackle by Tre Flowers),-1.09,-1.18,2.0,2024,19
+4.0,14:23,4.0,7.0,CLE 33,16.0,10.0,"Corey Bojorquez punts 56 yards, returned by Devin Duvernay for 8 yards (tackle by Mike Ford). Penalty on Tank Bigsby: Illegal Block Above the Waist, 9 yards (accepted)",-1.18,0.38,2.0,2024,19
+4.0,14:14,1.0,10.0,JAX 10,16.0,10.0,Trevor Lawrence pass incomplete short middle intended for Brian Thomas,-0.38,-0.78,2.0,2024,19
+4.0,14:10,2.0,10.0,JAX 10,16.0,10.0,"Trevor Lawrence pass complete short right to Travis Etienne for no gain (tackle by Jeremiah Owusu-Koramoah). Penalty on Myles Garrett: Defensive Offside, 5 yards (accepted) (no play)",-0.78,-0.35,2.0,2024,19
+4.0,13:46,2.0,5.0,JAX 15,16.0,10.0,Trevor Lawrence pass complete short right to Luke Farrell for 7 yards (tackle by Grant Delpit),-0.35,0.41,2.0,2024,19
+4.0,13:15,1.0,10.0,JAX 22,16.0,10.0,Travis Etienne up the middle for 5 yards (tackle by Cameron Mitchell),0.41,0.54,2.0,2024,19
+4.0,12:32,2.0,5.0,JAX 27,16.0,10.0,"Trevor Lawrence sacked by Sam Kamara for no gain. Penalty on Cameron Mitchell: Defensive Holding, 5 yards (accepted) (no play)",0.54,1.07,2.0,2024,19
+4.0,12:06,1.0,10.0,JAX 32,16.0,10.0,Devin Duvernay left end for 4 yards (tackle by Cameron Mitchell),1.07,1.07,2.0,2024,19
+4.0,11:27,2.0,6.0,JAX 36,16.0,10.0,Trevor Lawrence pass complete short left to Luke Farrell for 6 yards (tackle by Martin Emerson),1.07,1.73,2.0,2024,19
+4.0,10:54,1.0,10.0,JAX 42,16.0,10.0,Trevor Lawrence sacked by Quinton Jefferson for -8 yards,1.73,0.11,2.0,2024,19
+4.0,10:08,2.0,18.0,JAX 34,16.0,10.0,"Trevor Lawrence pass incomplete deep middle intended for Christian Kirk. Penalty on Alex Wright: Defensive Offside, 5 yards (accepted) (no play)",0.11,0.78,2.0,2024,19
+4.0,10:00,2.0,13.0,JAX 39,16.0,10.0,Trevor Lawrence pass complete deep left to Brenton Strange for 30 yards (tackle by Ronnie Hickman),0.78,3.51,2.0,2024,19
+4.0,9:29,1.0,10.0,CLE 31,16.0,10.0,Travis Etienne left end for 12 yards (tackle by Jordan Hicks),3.51,4.31,2.0,2024,19
+4.0,9:02,1.0,10.0,CLE 19,16.0,10.0,Trevor Lawrence pass complete short left to Gabriel Davis for 11 yards (tackle by Ronnie Hickman),4.31,5.37,2.0,2024,19
+4.0,8:29,1.0,8.0,CLE 8,16.0,10.0,D'Ernest Johnson right end for 6 yards (tackle by Greg Newsome and Rodney McLeod),5.37,5.72,2.0,2024,19
+4.0,7:52,2.0,2.0,CLE 2,16.0,10.0,"Trevor Lawrence pass complete short left to Christian Kirk for no gain, touchdown. Penalty on D'Ernest Johnson: Illegal Shift, 5 yards (accepted) (no play)",5.72,4.76,2.0,2024,19
+4.0,7:46,2.0,7.0,CLE 7,16.0,10.0,Trevor Lawrence pass incomplete short right intended for Travis Etienne,4.76,3.81,2.0,2024,19
+4.0,7:39,3.0,7.0,CLE 7,16.0,10.0,Trevor Lawrence pass incomplete short right intended for Brenton Strange,3.81,2.97,2.0,2024,19
+4.0,7:34,4.0,7.0,CLE 7,16.0,13.0,Cam Little 25 yard field goal good,2.97,3.0,2.0,2024,19
+4.0,7:32,,,JAX 35,16.0,13.0,"Cam Little kicks off 65 yards, touchback.",0.0,0.94,2.0,2024,19
+4.0,7:32,1.0,10.0,CLE 30,16.0,13.0,Deshaun Watson pass complete short left to Amari Cooper for 2 yards (tackle by Josh Hines-Allen),0.94,0.66,2.0,2024,19
+4.0,6:55,2.0,8.0,CLE 32,16.0,13.0,Deshaun Watson pass incomplete short left intended for Amari Cooper,0.66,-0.03,2.0,2024,19
+4.0,6:51,3.0,8.0,CLE 32,16.0,13.0,Deshaun Watson pass complete short right to Jerry Jeudy for 8 yards (tackle by Montaric Brown),-0.03,1.6,2.0,2024,19
+4.0,6:09,1.0,10.0,CLE 40,16.0,13.0,"D'Onta Foreman up the middle for no gain (tackle by Antonio Johnson). Penalty on Elijah Moore: Illegal Shift, 5 yards (accepted) (no play)",1.6,1.27,2.0,2024,19
+4.0,5:39,1.0,15.0,CLE 35,16.0,13.0,Deshaun Watson pass complete deep left to Jerry Jeudy for 30 yards (tackle by Antonio Johnson),1.27,3.25,2.0,2024,19
+4.0,5:03,1.0,10.0,JAX 35,16.0,13.0,Deshaun Watson pass complete short right to Jerry Jeudy for 5 yards,3.25,3.38,2.0,2024,19
+4.0,4:52,2.0,5.0,JAX 30,16.0,13.0,Jerome Ford up the middle for 2 yards (tackle by Jeremiah Ledbetter),3.38,2.94,2.0,2024,19
+4.0,4:09,3.0,3.0,JAX 28,16.0,13.0,Deshaun Watson pass complete short left to Amari Cooper for 2 yards (tackle by Jarrian Jones),2.94,1.89,2.0,2024,19
+4.0,3:23,4.0,1.0,JAX 26,16.0,13.0,Jameis Winston up the middle for 2 yards (tackle by Devin Lloyd),1.89,3.97,2.0,2024,19
+4.0,2:44,1.0,10.0,JAX 24,16.0,13.0,D'Onta Foreman left guard for no gain (tackle by Devin Lloyd),3.97,3.43,2.0,2024,19
+4.0,2:36,,,,,,Timeout #1 by Jacksonville Jaguars,,,2.0,2024,19
+4.0,2:36,2.0,10.0,JAX 24,16.0,13.0,"D'Onta Foreman up the middle for 9 yards (tackle by Antonio Johnson). Penalty on D'Onta Foreman: Offensive Facemask, 15 yards (accepted)",3.43,2.62,2.0,2024,19
+4.0,2:27,2.0,16.0,JAX 30,16.0,13.0,Deshaun Watson pass incomplete short right intended for Elijah Moore (defended by Devin Lloyd),2.62,1.95,2.0,2024,19
+4.0,2:23,3.0,16.0,JAX 30,16.0,13.0,"Deshaun Watson scrambles left end for no gain (tackle by Josh Hines-Allen). Penalty on Ethan Pocic: Offensive Holding, 10 yards (accepted) (no play)",1.95,0.63,2.0,2024,19
+4.0,2:12,3.0,26.0,JAX 40,16.0,13.0,"Deshaun Watson pass complete short middle to Jordan Akins for no gain (tackle by Andre Cisco and Montaric Brown). Penalty on Wyatt Teller: Offensive Holding, 10 yards (accepted) (no play)",0.63,-0.69,2.0,2024,19
+4.0,2:03,,,,,,Timeout #2 by Cleveland Browns,,,2.0,2024,19
+4.0,2:03,3.0,36.0,JAX 50,16.0,13.0,Deshaun Watson left end for 9 yards (tackle by Montaric Brown),-0.69,0.53,2.0,2024,19
+4.0,1:56,4.0,27.0,JAX 41,16.0,13.0,Corey Bojorquez punts 39 yards out of bounds,0.53,0.38,2.0,2024,19
+4.0,1:48,1.0,10.0,JAX 2,18.0,13.0,"Trevor Lawrence sacked by Alex Wright for -2 yards, safety.",-0.38,-2.0,2.0,2024,19
+4.0,1:44,,,,,,Timeout #3 by Cleveland Browns,,,2.0,2024,19
+4.0,1:44,,,JAX 20,18.0,13.0,"Logan Cooke kicks off 22 yards,",0.0,2.79,2.0,2024,19
+4.0,1:44,1.0,10.0,JAX 42,18.0,13.0,D'Onta Foreman up the middle for 3 yards (tackle by Travon Walker and Foyesade Oluokun),2.79,2.65,2.0,2024,19
+4.0,1:40,,,,,,Timeout #2 by Jacksonville Jaguars,,,2.0,2024,19
+4.0,1:40,2.0,7.0,JAX 39,18.0,13.0,D'Onta Foreman up the middle for 1 yard (tackle by Travon Walker),2.65,2.08,2.0,2024,19
+4.0,1:36,,,,,,Timeout #3 by Jacksonville Jaguars,,,2.0,2024,19
+4.0,1:36,3.0,6.0,JAX 38,18.0,13.0,Deshaun Watson pass incomplete short left intended for Cedric Tillman (defended by Josh Hines-Allen),2.08,0.72,2.0,2024,19
+4.0,1:33,4.0,6.0,JAX 38,18.0,13.0,"Corey Bojorquez punts 28 yards, fair catch by Devin Duvernay at JAC-10",0.72,0.38,2.0,2024,19
+4.0,1:27,1.0,10.0,JAX 10,18.0,13.0,Trevor Lawrence pass incomplete short middle intended for Christian Kirk (defended by Jordan Hicks),-0.38,-0.78,2.0,2024,19
+4.0,1:22,2.0,10.0,JAX 10,18.0,13.0,Trevor Lawrence pass complete deep middle to Gabriel Davis for 22 yards (tackle by Jeremiah Owusu-Koramoah),-0.78,1.07,2.0,2024,19
+4.0,1:10,1.0,10.0,JAX 32,18.0,13.0,Trevor Lawrence scrambles right end for 12 yards (tackle by Jeremiah Owusu-Koramoah),1.07,1.86,2.0,2024,19
+4.0,0:48,1.0,10.0,JAX 44,18.0,13.0,"Trevor Lawrence pass incomplete short right intended for Gabriel Davis. Penalty on Gabriel Davis: Illegal Shift, 5 yards (accepted) (no play)",1.86,1.53,2.0,2024,19
+4.0,0:38,1.0,15.0,JAX 39,18.0,13.0,Trevor Lawrence pass incomplete deep left intended for Christian Kirk (defended by Ronnie Hickman),1.53,0.64,2.0,2024,19
+4.0,0:26,2.0,15.0,JAX 39,18.0,13.0,Trevor Lawrence pass complete deep left to Brian Thomas for 28 yards (tackle by Jeremiah Owusu-Koramoah),0.64,3.38,2.0,2024,19
+4.0,0:10,1.0,10.0,CLE 33,18.0,13.0,Trevor Lawrence spiked the ball,3.38,2.84,2.0,2024,19
+4.0,0:08,2.0,10.0,CLE 33,18.0,13.0,Trevor Lawrence pass incomplete deep middle,2.84,2.15,2.0,2024,19

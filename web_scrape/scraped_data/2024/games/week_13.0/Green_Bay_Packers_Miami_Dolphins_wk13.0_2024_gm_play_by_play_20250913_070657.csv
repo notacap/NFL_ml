@@ -1,0 +1,171 @@
+Quarter,Time,Down,ToGo,Location,MIA,GNB,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Dolphins won the coin toss and deferred, Packers to receive the opening kickoff.",,,13.0,2024,182
+1.0,15:00,,,MIA 35,0.0,0.0,"Jason Sanders kicks off 62 yards, returned by Keisean Nixon for 43 yards (tackle by Jason Sanders)",0.0,1.99,13.0,2024,182
+1.0,14:53,1.0,10.0,GNB 46,0.0,0.0,Josh Jacobs up the middle for 1 yard (tackle by Jordyn Brooks),1.99,1.59,13.0,2024,182
+1.0,14:13,2.0,9.0,GNB 47,0.0,0.0,"Penalty on Tucker Kraft: False Start, 5 yards (accepted) (no play)",1.59,0.91,13.0,2024,182
+1.0,13:50,2.0,14.0,GNB 42,0.0,0.0,Jordan Love pass incomplete deep middle intended for Jayden Reed,0.91,0.23,13.0,2024,182
+1.0,13:45,3.0,14.0,GNB 42,0.0,0.0,Jordan Love pass incomplete short left intended for Tucker Kraft,0.23,-0.59,13.0,2024,182
+1.0,13:40,4.0,14.0,GNB 42,0.0,0.0,"Daniel Whelan punts 49 yards, recovered by Robert Rochell at MIA-9",-0.59,5.14,13.0,2024,182
+1.0,13:30,1.0,9.0,MIA 9,0.0,0.0,Josh Jacobs left guard for 6 yards (tackle by Jordan Poyer and Tyrel Dodson),5.14,5.53,13.0,2024,182
+1.0,12:51,2.0,3.0,MIA 3,0.0,0.0,Josh Jacobs left guard for no gain (tackle by Tyrel Dodson),5.53,4.72,13.0,2024,182
+1.0,12:05,3.0,3.0,MIA 3,0.0,6.0,"Jordan Love pass complete short right to Jayden Reed for 3 yards, touchdown",4.72,7.0,13.0,2024,182
+1.0,12:00,,,MIA 15,0.0,7.0,Brandon McManus kicks extra point good,0.0,0.0,13.0,2024,182
+1.0,12:00,,,GNB 35,0.0,7.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.94,13.0,2024,182
+1.0,12:00,1.0,10.0,MIA 30,0.0,7.0,"Penalty on Jonnu Smith: False Start, 5 yards (accepted) (no play)",0.94,0.61,13.0,2024,182
+1.0,12:00,1.0,15.0,MIA 25,0.0,7.0,Tua Tagovailoa pass complete short right to De'Von Achane for 11 yards (tackle by Isaiah McDuffie),0.61,1.2,13.0,2024,182
+1.0,11:19,2.0,4.0,MIA 36,0.0,7.0,Tua Tagovailoa pass complete short right to De'Von Achane for 7 yards (tackle by Keisean Nixon),1.2,1.8,13.0,2024,182
+1.0,10:53,1.0,10.0,MIA 43,0.0,7.0,"Tua Tagovailoa sacked by Kingsley Enagbare for no gain. Penalty on Rashan Gary: Defensive Offside, 5 yards (accepted) (no play)",1.8,2.53,13.0,2024,182
+1.0,10:53,1.0,5.0,MIA 48,0.0,7.0,"Penalty on Julian Hill: False Start, 5 yards (accepted)",2.53,1.8,13.0,2024,182
+1.0,10:06,1.0,10.0,MIA 43,0.0,7.0,De'Von Achane up the middle for -1 yards (tackle by Isaiah McDuffie),1.8,1.12,13.0,2024,182
+1.0,9:23,2.0,11.0,MIA 42,0.0,7.0,"Tua Tagovailoa up the middle for -3 yards (tackle by Lukas Van Ness). Penalty on Jonnu Smith: Unnecessary Roughness / Offense, 15 yards (accepted)",1.12,-1.95,13.0,2024,182
+1.0,9:04,3.0,29.0,MIA 24,0.0,7.0,Raheem Mostert right end for 3 yards (tackle by Rashan Gary),-1.95,-1.57,13.0,2024,182
+1.0,8:23,4.0,26.0,MIA 27,0.0,7.0,Jake Bailey punts 49 yards out of bounds,-1.57,-0.54,13.0,2024,182
+1.0,7:53,1.0,10.0,GNB 24,0.0,7.0,Jordan Love pass complete short right to Tucker Kraft for 9 yards (tackle by Jordyn Brooks),0.54,1.21,13.0,2024,182
+1.0,7:15,2.0,1.0,GNB 33,0.0,7.0,Josh Jacobs left guard for 2 yards (tackle by Tyrel Dodson and Jordan Poyer),1.21,1.27,13.0,2024,182
+1.0,6:40,1.0,10.0,GNB 35,0.0,7.0,Jordan Love pass incomplete deep middle intended for Dontayvion Wicks (defended by Kader Kohou),1.27,0.72,13.0,2024,182
+1.0,6:23,2.0,10.0,GNB 35,0.0,7.0,Jordan Love pass complete short middle to Josh Jacobs for 7 yards (tackle by Tyrel Dodson),0.72,0.96,13.0,2024,182
+1.0,5:57,3.0,3.0,GNB 42,0.0,7.0,Jordan Love pass complete short left to Tucker Kraft for 17 yards (tackle by Cam Smith),0.96,2.85,13.0,2024,182
+1.0,5:16,1.0,10.0,MIA 41,0.0,7.0,Josh Jacobs right end for 2 yards (tackle by Jevon Holland),2.85,2.58,13.0,2024,182
+1.0,4:35,2.0,8.0,MIA 39,0.0,7.0,Josh Jacobs up the middle for 11 yards (tackle by Storm Duck and Jordan Poyer),2.58,3.71,13.0,2024,182
+1.0,3:53,1.0,10.0,MIA 28,0.0,7.0,Josh Jacobs right end for 1 yard (tackle by Quinton Bell),3.71,3.3,13.0,2024,182
+1.0,3:11,2.0,9.0,MIA 27,0.0,7.0,Emanuel Wilson right guard for 5 yards (tackle by Jordan Poyer),3.3,3.27,13.0,2024,182
+1.0,2:28,3.0,4.0,MIA 22,0.0,7.0,Emanuel Wilson right tackle for 15 yards (tackle by Jordan Poyer),3.27,5.6,13.0,2024,182
+1.0,1:44,1.0,7.0,MIA 7,0.0,7.0,Josh Jacobs right guard for 6 yards (tackle by Jordyn Brooks and Emmanuel Ogbah),5.6,5.91,13.0,2024,182
+1.0,0:59,2.0,1.0,MIA 1,0.0,13.0,"Josh Jacobs left guard for 1 yard, touchdown",5.91,7.0,13.0,2024,182
+1.0,0:55,,,MIA 15,0.0,14.0,Brandon McManus kicks extra point good,0.0,0.0,13.0,2024,182
+1.0,0:55,,,GNB 35,0.0,14.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.94,13.0,2024,182
+1.0,0:55,1.0,10.0,MIA 30,0.0,14.0,Tua Tagovailoa pass complete short right to Jonnu Smith for 11 yards (tackle by Keisean Nixon and Xavier McKinney),0.94,1.66,13.0,2024,182
+1.0,0:21,1.0,10.0,MIA 41,0.0,14.0,Tua Tagovailoa pass complete short left to Alec Ingold for 2 yards (tackle by Eric Stokes),1.66,1.39,13.0,2024,182
+2.0,15:00,2.0,8.0,MIA 43,0.0,14.0,Tua Tagovailoa pass complete short right to Alec Ingold for 13 yards (tackle by Quay Walker),1.39,2.65,13.0,2024,182
+2.0,14:31,1.0,10.0,GNB 44,0.0,14.0,De'Von Achane left end for 13 yards (tackle by Javon Bullard),2.65,3.51,13.0,2024,182
+2.0,13:50,1.0,10.0,GNB 31,0.0,14.0,De'Von Achane right end for -1 yards (tackle by Quay Walker and Eric Wilson),3.51,2.83,13.0,2024,182
+2.0,13:06,2.0,11.0,GNB 32,0.0,14.0,Tua Tagovailoa pass complete short left to De'Von Achane for 5 yards (tackle by Isaiah McDuffie),2.83,2.81,13.0,2024,182
+2.0,12:09,3.0,6.0,GNB 27,0.0,14.0,Tua Tagovailoa pass complete short left to Tyreek Hill for 2 yards (tackle by Isaiah McDuffie),2.81,1.88,13.0,2024,182
+2.0,11:18,4.0,4.0,GNB 25,0.0,14.0,"Penalty on MIA: Delay of Game, 5 yards (accepted) (no play)",1.88,1.41,13.0,2024,182
+2.0,11:18,4.0,9.0,GNB 30,0.0,14.0,"Penalty on Tedarrell Slaton: Neutral Zone Infraction, 5 yards (accepted) (no play)",1.41,1.88,13.0,2024,182
+2.0,11:06,4.0,4.0,GNB 25,0.0,14.0,Tua Tagovailoa pass complete deep middle to Jaylen Waddle for 16 yards (tackle by Eric Stokes),1.88,5.14,13.0,2024,182
+2.0,10:32,1.0,9.0,GNB 9,0.0,14.0,De'Von Achane right end for -6 yards (tackle by Arron Mosby),5.14,3.46,13.0,2024,182
+2.0,9:50,2.0,15.0,GNB 15,0.0,14.0,Tua Tagovailoa pass complete short left to Malik Washington for no gain (tackle by Kingsley Enagbare and Devonte Wyatt),3.46,2.93,13.0,2024,182
+2.0,8:52,3.0,15.0,GNB 15,0.0,14.0,Tua Tagovailoa pass incomplete short middle intended for Raheem Mostert,2.93,2.44,13.0,2024,182
+2.0,8:47,4.0,15.0,GNB 15,3.0,14.0,Jason Sanders 33 yard field goal good,2.44,3.0,13.0,2024,182
+2.0,8:44,,,MIA 35,3.0,14.0,"Jason Sanders kicks off 65 yards, returned by Keisean Nixon for 30 yards (tackle by Duke Riley)",0.0,0.94,13.0,2024,182
+2.0,8:38,1.0,10.0,GNB 30,3.0,14.0,Jayden Reed right end for 23 yards (tackle by Storm Duck),0.94,2.46,13.0,2024,182
+2.0,8:11,1.0,10.0,MIA 47,3.0,14.0,Jordan Love pass complete short right to Josh Jacobs for 3 yards (tackle by Quinton Bell),2.46,2.32,13.0,2024,182
+2.0,7:33,2.0,7.0,MIA 44,3.0,14.0,Josh Jacobs up the middle for no gain (tackle by Jordyn Brooks and Zach Sieler),2.32,1.62,13.0,2024,182
+2.0,6:50,3.0,7.0,MIA 44,3.0,14.0,Jordan Love pass incomplete short middle intended for Jayden Reed (defended by Siran Neal),1.62,0.33,13.0,2024,182
+2.0,6:43,4.0,7.0,MIA 44,3.0,14.0,"Penalty on GNB: Delay of Game, 5 yards (declined) (no play)",0.33,0.33,13.0,2024,182
+2.0,6:43,4.0,7.0,MIA 44,3.0,14.0,"Daniel Whelan punts 38 yards, returned by Malik Washington for 5 yards (tackle by Eric Wilson). Penalty on Siran Neal: Offensive Holding, 5 yards (accepted)",0.33,0.38,13.0,2024,182
+2.0,6:33,1.0,10.0,MIA 6,3.0,14.0,"De'Von Achane left guard for no gain (tackle by Arron Mosby). Penalty on Kingsley Enagbare: Defensive Offside, 5 yards (accepted) (no play)",-0.38,-0.16,13.0,2024,182
+2.0,6:13,1.0,5.0,MIA 11,3.0,14.0,Tua Tagovailoa pass complete short right to Raheem Mostert for 14 yards (tackle by Xavier McKinney),-0.16,0.61,13.0,2024,182
+2.0,5:41,1.0,10.0,MIA 25,3.0,14.0,"De'Von Achane up the middle for no gain (tackle by Quay Walker). Penalty on Robert Jones: Offensive Holding, 10 yards (accepted) (no play)",0.61,-0.41,13.0,2024,182
+2.0,5:08,1.0,20.0,MIA 15,3.0,14.0,Tua Tagovailoa pass complete short middle to Jonnu Smith for 14 yards (tackle by Xavier McKinney),-0.41,0.6,13.0,2024,182
+2.0,4:25,2.0,6.0,MIA 29,3.0,14.0,Tua Tagovailoa sacked by Lukas Van Ness for -2 yards,0.6,-0.36,13.0,2024,182
+2.0,3:41,3.0,8.0,MIA 27,3.0,14.0,Tua Tagovailoa sacked by Kingsley Enagbare for -9 yards,-0.36,-2.24,13.0,2024,182
+2.0,3:11,4.0,17.0,MIA 18,3.0,14.0,"Jake Bailey punts 44 yards, fair catch by Jayden Reed at GB-38",-2.24,-1.47,13.0,2024,182
+2.0,3:03,1.0,10.0,GNB 38,3.0,14.0,Jordan Love pass complete short middle to Dontayvion Wicks for 8 yards (tackle by Jordyn Brooks and Cam Smith),1.47,2.0,13.0,2024,182
+2.0,2:25,2.0,2.0,GNB 46,3.0,14.0,Chris Brooks right tackle for 18 yards (tackle by Jevon Holland),2.0,3.18,13.0,2024,182
+2.0,2:00,1.0,10.0,MIA 36,3.0,14.0,"Penalty on Rasheed Walker: False Start, 5 yards (accepted) (no play)",3.18,2.85,13.0,2024,182
+2.0,2:00,1.0,15.0,MIA 41,3.0,14.0,"Jordan Love pass complete deep left to Christian Watson for 21 yards (tackle by Cam Smith). Penalty on Cam Smith: Defensive Pass Interference, 15 yards (declined)",2.85,4.24,13.0,2024,182
+2.0,1:53,1.0,10.0,MIA 20,3.0,14.0,Josh Jacobs right tackle for 3 yards (tackle by Tyrel Dodson),4.24,4.12,13.0,2024,182
+2.0,1:48,,,,,,Timeout #1 by Miami Dolphins,,,13.0,2024,182
+2.0,1:48,2.0,7.0,MIA 17,3.0,14.0,Jordan Love pass complete short right to Chris Brooks for 5 yards (tackle by Tyrel Dodson and Jalen Ramsey),4.12,4.34,13.0,2024,182
+2.0,1:42,,,,,,Timeout #2 by Miami Dolphins,,,13.0,2024,182
+2.0,1:42,3.0,2.0,MIA 12,3.0,20.0,"Jordan Love pass complete short left to Jayden Reed for 12 yards, touchdown",4.34,7.0,13.0,2024,182
+2.0,1:36,,,MIA 15,3.0,21.0,Brandon McManus kicks extra point good,0.0,0.0,13.0,2024,182
+2.0,1:36,,,GNB 35,3.0,21.0,"Brandon McManus kicks off 65 yards, returned by Malik Washington for 30 yards (tackle by Zayne Anderson)",0.0,0.94,13.0,2024,182
+2.0,1:32,1.0,10.0,MIA 30,3.0,21.0,Tua Tagovailoa pass incomplete deep middle intended for Tyreek Hill,0.94,0.39,13.0,2024,182
+2.0,1:27,2.0,10.0,MIA 30,3.0,21.0,Tua Tagovailoa scrambles right end for 9 yards (tackle by Keisean Nixon),0.39,0.89,13.0,2024,182
+2.0,1:20,3.0,1.0,MIA 39,3.0,21.0,Tua Tagovailoa pass complete short middle to Jonnu Smith for 7 yards (tackle by Quay Walker),0.89,1.99,13.0,2024,182
+2.0,1:03,1.0,10.0,MIA 46,3.0,21.0,Tua Tagovailoa pass complete short middle to Jonnu Smith for 11 yards (tackle by Quay Walker and Xavier McKinney),1.99,2.72,13.0,2024,182
+2.0,0:45,1.0,10.0,GNB 43,3.0,21.0,Tua Tagovailoa pass incomplete deep middle intended for Tyreek Hill,2.72,2.18,13.0,2024,182
+2.0,0:39,2.0,10.0,GNB 43,3.0,21.0,Tua Tagovailoa pass complete short middle to De'Von Achane for 5 yards (tackle by Kingsley Enagbare),2.18,2.15,13.0,2024,182
+2.0,0:31,,,,,,Timeout #3 by Miami Dolphins,,,13.0,2024,182
+2.0,0:31,3.0,5.0,GNB 38,3.0,21.0,Tua Tagovailoa pass incomplete short middle intended for Malik Washington (defended by Isaiah McDuffie),2.15,0.72,13.0,2024,182
+2.0,0:27,4.0,5.0,GNB 38,3.0,21.0,Tua Tagovailoa pass incomplete short left intended for De'Von Achane,0.72,-1.53,13.0,2024,182
+2.0,0:22,1.0,10.0,GNB 39,3.0,21.0,Jordan Love pass complete short right to Tucker Kraft for 17 yards (tackle by Jordyn Brooks),1.53,2.65,13.0,2024,182
+2.0,0:15,,,,,,Timeout #1 by Green Bay Packers,,,13.0,2024,182
+2.0,0:15,1.0,10.0,MIA 44,3.0,21.0,Jordan Love pass complete short middle to Tucker Kraft for 9 yards (tackle by Tyrel Dodson),2.65,3.33,13.0,2024,182
+2.0,0:08,,,,,,Timeout #2 by Green Bay Packers,,,13.0,2024,182
+2.0,0:08,2.0,1.0,MIA 35,3.0,21.0,Chris Brooks up the middle for 8 yards (tackle by Tyrel Dodson and Jordan Poyer),3.33,3.78,13.0,2024,182
+2.0,0:03,,,,,,Timeout #3 by Green Bay Packers,,,13.0,2024,182
+2.0,0:03,1.0,10.0,MIA 27,3.0,24.0,Brandon McManus 46 yard field goal good,3.78,3.0,13.0,2024,182
+3.0,15:00,,,GNB 35,3.0,24.0,"Brandon McManus kicks off 61 yards, returned by Malik Washington for 19 yards (tackle by Arron Mosby)",0.0,0.48,13.0,2024,182
+3.0,14:56,1.0,10.0,MIA 23,3.0,24.0,Tua Tagovailoa pass complete short middle to Tyreek Hill for 2 yards (tackle by Isaiah McDuffie),0.48,0.2,13.0,2024,182
+3.0,14:16,2.0,8.0,MIA 25,3.0,24.0,Tua Tagovailoa pass complete short middle to Julian Hill for 5 yards (tackle by Quay Walker and Isaiah McDuffie),0.2,0.17,13.0,2024,182
+3.0,13:25,3.0,3.0,MIA 30,3.0,24.0,"Penalty on MIA: Delay of Game, 5 yards (accepted) (no play)",0.17,-0.49,13.0,2024,182
+3.0,13:03,3.0,8.0,MIA 25,3.0,24.0,Tua Tagovailoa pass incomplete deep middle intended for Odell Beckham,-0.49,-1.7,13.0,2024,182
+3.0,13:00,4.0,8.0,MIA 25,3.0,24.0,"Jake Bailey punts 53 yards, fair catch by Jayden Reed at GB-22",-1.7,-0.41,13.0,2024,182
+3.0,12:52,1.0,10.0,GNB 22,3.0,24.0,Josh Jacobs up the middle for 3 yards (tackle by Emmanuel Ogbah and Da'Shawn Hand),0.41,0.27,13.0,2024,182
+3.0,12:17,2.0,7.0,GNB 25,3.0,24.0,Josh Jacobs up the middle for 1 yard (tackle by Calais Campbell and Jevon Holland),0.27,-0.29,13.0,2024,182
+3.0,11:37,3.0,6.0,GNB 26,3.0,24.0,Jordan Love pass complete deep right to Christian Watson for 46 yards (tackle by Storm Duck),-0.29,3.71,13.0,2024,182
+3.0,10:49,1.0,10.0,MIA 28,3.0,24.0,Jordan Love pass complete short left to Josh Jacobs for 15 yards (tackle by Emmanuel Ogbah and Jordan Poyer),3.71,4.71,13.0,2024,182
+3.0,10:04,1.0,10.0,MIA 13,3.0,24.0,Chris Brooks left tackle for 2 yards (tackle by Jordyn Brooks and Jordan Poyer),4.71,4.39,13.0,2024,182
+3.0,9:24,2.0,8.0,MIA 11,3.0,24.0,Jordan Love pass complete short left to Chris Brooks for -4 yards (tackle by Jordyn Brooks),4.39,3.03,13.0,2024,182
+3.0,8:39,3.0,12.0,MIA 15,3.0,24.0,Jordan Love pass complete short right to Jayden Reed for 9 yards (tackle by Jevon Holland),3.03,3.01,13.0,2024,182
+3.0,7:46,4.0,3.0,MIA 6,3.0,27.0,Brandon McManus 24 yard field goal good,3.01,3.0,13.0,2024,182
+3.0,7:42,,,GNB 35,3.0,27.0,"Brandon McManus kicks off 63 yards, returned by Malik Washington for 28 yards (tackle by Javon Bullard)",0.0,0.94,13.0,2024,182
+3.0,7:35,1.0,10.0,MIA 30,3.0,27.0,"Raheem Mostert left end for 12 yards (tackle by Xavier McKinney). Penalty on Tyreek Hill: Offensive Holding, 10 yards (accepted)",0.94,1.23,13.0,2024,182
+3.0,7:27,1.0,8.0,MIA 32,3.0,27.0,"Tua Tagovailoa pass complete short left to Jonnu Smith for 13 yards. Jonnu Smith fumbles, ball out of bounds at MIA-45 (forced by Isaiah McDuffie). Jonnu Smith fumbles out of bounds",1.23,1.93,13.0,2024,182
+3.0,6:32,1.0,10.0,MIA 45,3.0,27.0,Raheem Mostert left guard for 1 yard (tackle by Evan Williams),1.93,1.52,13.0,2024,182
+3.0,5:46,2.0,9.0,MIA 46,3.0,27.0,Tua Tagovailoa pass complete short middle to Malik Washington for 8 yards (tackle by Xavier McKinney),1.52,1.88,13.0,2024,182
+3.0,5:00,3.0,1.0,GNB 46,3.0,27.0,Raheem Mostert left guard for no gain (tackle by Kingsley Enagbare),1.88,0.2,13.0,2024,182
+3.0,4:16,4.0,1.0,GNB 46,3.0,27.0,Tua Tagovailoa pass complete short middle to Jonnu Smith for 16 yards (tackle by Xavier McKinney),0.2,3.58,13.0,2024,182
+3.0,3:32,1.0,10.0,GNB 30,3.0,27.0,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 16 yards (tackle by Evan Williams),3.58,4.65,13.0,2024,182
+3.0,2:48,1.0,10.0,GNB 14,9.0,27.0,"Tua Tagovailoa pass complete short left to De'Von Achane for 14 yards, touchdown",4.65,7.0,13.0,2024,182
+3.0,2:43,,,GNB 2,11.0,27.0,Two Point Attempt: Tua Tagovailoa pass complete to to Jaylen Waddle for no gain,1.0,1.0,13.0,2024,182
+3.0,2:43,,,MIA 35,11.0,27.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,13.0,2024,182
+3.0,2:43,1.0,10.0,GNB 30,11.0,27.0,Jordan Love pass complete short right to Dontayvion Wicks for 10 yards (tackle by Jevon Holland),0.94,1.6,13.0,2024,182
+3.0,2:15,1.0,10.0,GNB 40,11.0,27.0,Jordan Love pass incomplete short right intended for Christian Watson (defended by Jalen Ramsey),1.6,1.05,13.0,2024,182
+3.0,2:11,2.0,10.0,GNB 40,11.0,27.0,Jordan Love pass complete short middle to Dontayvion Wicks for 9 yards (tackle by Jevon Holland and Tyrel Dodson),1.05,1.55,13.0,2024,182
+3.0,1:23,3.0,1.0,GNB 49,11.0,27.0,Josh Jacobs right guard for -2 yards (tackle by Benito Jones and Zach Sieler),1.55,-0.26,13.0,2024,182
+3.0,0:46,4.0,3.0,GNB 47,11.0,27.0,Daniel Whelan punts 35 yards downed by Zayne Anderson,-0.26,-0.04,13.0,2024,182
+3.0,0:34,1.0,10.0,MIA 18,11.0,27.0,Tua Tagovailoa pass complete short left to Tyreek Hill for 13 yards (tackle by Evan Williams),0.04,1.0,13.0,2024,182
+3.0,0:09,1.0,10.0,MIA 31,11.0,27.0,Raheem Mostert left end for 3 yards (tackle by Carrington Valentine),1.0,0.87,13.0,2024,182
+4.0,15:00,2.0,7.0,MIA 34,11.0,27.0,"Penalty on Devonte Wyatt: Encroachment, 5 yards (accepted) (no play)",0.87,1.54,13.0,2024,182
+4.0,15:00,2.0,2.0,MIA 39,11.0,27.0,Tua Tagovailoa pass complete short right to De'Von Achane for 3 yards (tackle by Javon Bullard),1.54,1.73,13.0,2024,182
+4.0,14:16,1.0,10.0,MIA 42,11.0,27.0,Tua Tagovailoa pass complete deep middle to Tyreek Hill for 24 yards (tackle by Evan Williams and Carrington Valentine),1.73,3.31,13.0,2024,182
+4.0,13:31,1.0,10.0,GNB 34,11.0,27.0,De'Von Achane left guard for 1 yard (tackle by Quay Walker and Isaiah McDuffie),3.31,2.91,13.0,2024,182
+4.0,12:52,2.0,9.0,GNB 33,11.0,27.0,Tua Tagovailoa pass complete short left to De'Von Achane for 3 yards (tackle by Isaiah McDuffie),2.91,2.61,13.0,2024,182
+4.0,12:12,3.0,6.0,GNB 30,11.0,27.0,Tua Tagovailoa pass complete short right to Odell Beckham for 9 yards (tackle by Keisean Nixon),2.61,4.17,13.0,2024,182
+4.0,11:45,1.0,10.0,GNB 21,11.0,27.0,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 12 yards (tackle by Isaiah McDuffie and Quay Walker),4.17,5.14,13.0,2024,182
+4.0,11:03,1.0,9.0,GNB 9,11.0,27.0,De'Von Achane left tackle for 8 yards (tackle by Brenton Cox and Javon Bullard),5.14,5.91,13.0,2024,182
+4.0,10:23,2.0,1.0,GNB 1,11.0,27.0,De'Von Achane right tackle for no gain (tackle by Rashan Gary),5.91,5.17,13.0,2024,182
+4.0,9:45,3.0,1.0,GNB 1,11.0,27.0,Tua Tagovailoa pass incomplete short left intended for Jonnu Smith (defended by Keisean Nixon),5.17,3.55,13.0,2024,182
+4.0,9:33,4.0,1.0,GNB 1,11.0,27.0,"Tua Tagovailoa sacked by Quay Walker for -6 yards. Penalty on Liam Eichenberg: Offensive Holding, 10 yards (declined)",3.55,0.38,13.0,2024,182
+4.0,9:33,1.0,10.0,GNB 7,11.0,27.0,Josh Jacobs right tackle for 4 yards (tackle by Emmanuel Ogbah),-0.38,-0.49,13.0,2024,182
+4.0,8:54,2.0,6.0,GNB 11,11.0,27.0,"Jordan Love pass incomplete short middle intended for Jayden Reed. Penalty on Jalen Ramsey: Defensive Holding, 5 yards (accepted) (no play)",-0.49,-0.14,13.0,2024,182
+4.0,8:49,1.0,10.0,GNB 16,11.0,27.0,Jordan Love pass complete short left to Tucker Kraft for 16 yards (tackle by Quinton Bell),-0.14,1.07,13.0,2024,182
+4.0,8:04,1.0,10.0,GNB 32,11.0,27.0,Jordan Love pass complete short left to Josh Jacobs for 49 yards (tackle by Tyrel Dodson),1.07,4.31,13.0,2024,182
+4.0,7:10,1.0,10.0,MIA 19,11.0,27.0,Jordan Love pass incomplete short right intended for Jayden Reed,4.31,3.75,13.0,2024,182
+4.0,7:04,2.0,10.0,MIA 19,11.0,27.0,Jordan Love pass complete short left to Tucker Kraft for 10 yards (tackle by Quinton Bell),3.75,5.14,13.0,2024,182
+4.0,6:16,1.0,9.0,MIA 9,11.0,27.0,Josh Jacobs left tackle for 2 yards (tackle by Emmanuel Ogbah and Jordan Poyer),5.14,4.76,13.0,2024,182
+4.0,5:34,2.0,7.0,MIA 7,11.0,27.0,Josh Jacobs left end for 3 yards (tackle by Jordyn Brooks and Zach Sieler),4.76,4.49,13.0,2024,182
+4.0,5:25,,,,,,Timeout #1 by Miami Dolphins,,,13.0,2024,182
+4.0,5:25,3.0,4.0,MIA 4,11.0,27.0,"Jordan Love pass complete short right to Dontayvion Wicks for 3 yards (tackle by Storm Duck). Penalty on Elgton Jenkins: Unnecessary Roughness / Offense, 14 yards (accepted)",4.49,2.44,13.0,2024,182
+4.0,5:06,4.0,15.0,MIA 15,11.0,30.0,Brandon McManus 33 yard field goal good,2.44,3.0,13.0,2024,182
+4.0,5:02,,,GNB 35,11.0,30.0,"Brandon McManus kicks off 63 yards, returned by Malik Washington for 31 yards (tackle by Zayne Anderson)",0.0,1.14,13.0,2024,182
+4.0,4:55,1.0,10.0,MIA 33,11.0,30.0,Tua Tagovailoa sacked by Kenny Clark for -7 yards,1.14,-0.35,13.0,2024,182
+4.0,4:32,2.0,17.0,MIA 26,11.0,30.0,Tua Tagovailoa pass complete short middle to De'Von Achane for 8 yards (tackle by Kingsley Enagbare and Evan Williams),-0.35,0.04,13.0,2024,182
+4.0,4:06,3.0,9.0,MIA 34,11.0,30.0,Tua Tagovailoa pass complete short middle to Tyreek Hill for 30 yards (tackle by Xavier McKinney),0.04,3.18,13.0,2024,182
+4.0,3:42,1.0,10.0,GNB 36,11.0,30.0,Tua Tagovailoa pass incomplete short middle intended for Malik Washington,3.18,2.64,13.0,2024,182
+4.0,3:39,2.0,10.0,GNB 36,11.0,30.0,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 9 yards (tackle by Keisean Nixon),2.64,3.14,13.0,2024,182
+4.0,3:14,3.0,1.0,GNB 27,11.0,30.0,Tua Tagovailoa pass complete short right to Jonnu Smith for 15 yards (tackle by Xavier McKinney),3.14,4.78,13.0,2024,182
+4.0,3:08,1.0,10.0,GNB 12,17.0,30.0,"Tua Tagovailoa pass complete short middle to Tyreek Hill for 12 yards, touchdown",4.78,7.0,13.0,2024,182
+4.0,3:04,,,GNB 2,17.0,30.0,Two Point Attempt: Tua Tagovailoa pass incomplete intended for intended for Raheem Mostert,1.0,-1.0,13.0,2024,182
+4.0,3:04,,,MIA 35,17.0,30.0,"Jason Sanders kicks onside 14 yards, returned by Jayden Reed for no gain",0.0,2.32,13.0,2024,182
+4.0,3:03,1.0,10.0,MIA 49,17.0,30.0,Josh Jacobs left guard for 2 yards (tackle by Calais Campbell),2.32,2.05,13.0,2024,182
+4.0,2:57,,,,,,Timeout #2 by Miami Dolphins,,,13.0,2024,182
+4.0,2:57,2.0,8.0,MIA 47,17.0,30.0,Josh Jacobs up the middle for -3 yards (tackle by Zach Sieler),2.05,0.96,13.0,2024,182
+4.0,2:12,,,,,,Timeout #1 by Green Bay Packers,,,13.0,2024,182
+4.0,2:12,3.0,11.0,MIA 50,17.0,30.0,Jordan Love pass incomplete deep middle intended for Christian Watson (defended by Siran Neal),0.96,-0.06,13.0,2024,182
+4.0,2:05,4.0,11.0,MIA 50,17.0,30.0,"Penalty on GNB: Delay of Game, 5 yards (declined) (no play)",-0.06,-0.06,13.0,2024,182
+4.0,2:05,4.0,11.0,MIA 50,17.0,30.0,"Daniel Whelan punts 50 yards, touchback.",-0.06,-0.28,13.0,2024,182
+4.0,1:56,1.0,10.0,MIA 20,17.0,30.0,"Tua Tagovailoa pass complete short right to De'Von Achane for no gain (tackle by Kenny Clark and Evan Williams). Penalty on Aaron Brewer: Offensive Holding, 10 yards (accepted) . Penalty on Jonnu Smith: Offensive Pass Interference, 10 yards (declined) (no play)",0.28,-0.76,13.0,2024,182
+4.0,1:51,1.0,20.0,MIA 10,17.0,30.0,Tua Tagovailoa pass complete short middle to Jonnu Smith for 5 yards (tackle by Eric Wilson and Evan Williams),-0.76,-1.07,13.0,2024,182
+4.0,1:26,2.0,15.0,MIA 15,17.0,30.0,Tua Tagovailoa pass incomplete short middle intended for Tyreek Hill (defended by Karl Brooks),-1.07,-1.86,13.0,2024,182
+4.0,1:23,3.0,15.0,MIA 15,17.0,30.0,Tua Tagovailoa pass complete short right to Jonnu Smith for 10 yards (tackle by Quay Walker),-1.86,-1.7,13.0,2024,182
+4.0,0:54,4.0,5.0,MIA 25,17.0,30.0,Tua Tagovailoa pass complete short middle to Jonnu Smith for 11 yards (tackle by Evan Williams and Quay Walker),-1.7,1.33,13.0,2024,182
+4.0,0:35,1.0,10.0,MIA 36,17.0,30.0,Tua Tagovailoa pass complete short right to Raheem Mostert for 1 yard (tackle by Keisean Nixon),1.33,0.93,13.0,2024,182
+4.0,0:30,,,,,,Timeout #3 by Miami Dolphins,,,13.0,2024,182
+4.0,0:30,2.0,9.0,MIA 37,17.0,30.0,Tua Tagovailoa sacked by Brenton Cox for -5 yards,0.93,-0.43,13.0,2024,182
+4.0,0:01,3.0,14.0,MIA 32,17.0,30.0,Tua Tagovailoa pass complete short right to Durham Smythe for 8 yards (tackle by Eric Wilson),-0.43,-0.72,13.0,2024,182

@@ -1,0 +1,164 @@
+Quarter,Time,Down,ToGo,Location,MIA,BUF,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Dolphins won the coin toss and deferred, Bills to receive the opening kickoff.",,,9.0,2024,126
+1.0,15:00,,,MIA 35,0.0,0.0,"Jason Sanders kicks off 65 yards, touchback., touchback.",0.0,0.94,9.0,2024,126
+1.0,15:00,1.0,10.0,BUF 30,0.0,0.0,James Cook left tackle for 4 yards (tackle by Calais Campbell and Anthony Walker),0.94,0.93,9.0,2024,126
+1.0,14:21,2.0,6.0,BUF 34,0.0,0.0,James Cook left end for -1 yards (tackle by Da'Shawn Hand and Emmanuel Ogbah),0.93,0.1,9.0,2024,126
+1.0,13:39,3.0,7.0,BUF 33,0.0,0.0,Josh Allen pass incomplete deep left intended for Dalton Kincaid,0.1,-1.18,9.0,2024,126
+1.0,13:34,4.0,7.0,BUF 33,0.0,0.0,"Sam Martin punts 49 yards, returned by Malik Washington for -1 yards (tackle by Cameron Lewis)",-1.18,0.06,9.0,2024,126
+1.0,13:25,1.0,10.0,MIA 17,0.0,0.0,De'Von Achane right guard for 7 yards (tackle by Dorian Williams),-0.06,0.48,9.0,2024,126
+1.0,12:46,2.0,3.0,MIA 24,0.0,0.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 6 yards (tackle by Dorian Williams),0.48,0.94,9.0,2024,126
+1.0,12:07,1.0,10.0,MIA 30,0.0,0.0,Tua Tagovailoa sacked by Gregory Rousseau for -7 yards,0.94,-0.55,9.0,2024,126
+1.0,11:23,2.0,17.0,MIA 23,0.0,0.0,Tua Tagovailoa pass complete short right to Odell Beckham for 6 yards (tackle by Dorian Williams and Taylor Rapp),-0.55,-0.43,9.0,2024,126
+1.0,10:44,3.0,11.0,MIA 29,0.0,0.0,Tua Tagovailoa pass incomplete short right intended for Tyreek Hill (defended by Rasul Douglas),-0.43,-1.44,9.0,2024,126
+1.0,10:39,4.0,11.0,MIA 29,0.0,0.0,"Jake Bailey punts 37 yards, returned by Brandon Codrington for 29 yards (tackle by Jake Bailey)",-1.44,-3.12,9.0,2024,126
+1.0,10:27,1.0,10.0,MIA 37,0.0,0.0,Josh Allen pass complete short left to James Cook for 1 yard (tackle by Siran Neal),3.12,2.71,9.0,2024,126
+1.0,9:48,2.0,9.0,MIA 36,0.0,0.0,Josh Allen pass complete short left to James Cook for 3 yards (tackle by Jordan Poyer),2.71,2.41,9.0,2024,126
+1.0,9:13,3.0,6.0,MIA 33,0.0,0.0,Josh Allen pass complete short right to Khalil Shakir for 11 yards (tackle by Anthony Walker),2.41,4.11,9.0,2024,126
+1.0,8:35,1.0,10.0,MIA 22,0.0,0.0,Ty Johnson right end for 2 yards (tackle by Calais Campbell),4.11,3.83,9.0,2024,126
+1.0,7:57,2.0,8.0,MIA 20,0.0,0.0,Josh Allen pass complete short middle to Khalil Shakir for 5 yards (tackle by Anthony Walker),3.83,3.93,9.0,2024,126
+1.0,7:14,3.0,3.0,MIA 15,0.0,0.0,Josh Allen right end for -7 yards (tackle by Emmanuel Ogbah),3.93,1.99,9.0,2024,126
+1.0,6:34,4.0,10.0,MIA 22,0.0,3.0,Tyler Bass 40 yard field goal good,1.99,3.0,9.0,2024,126
+1.0,6:30,,,BUF 35,0.0,3.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,126
+1.0,6:30,1.0,10.0,MIA 30,0.0,3.0,Raheem Mostert up the middle for 4 yards (tackle by Terrel Bernard),0.94,0.93,9.0,2024,126
+1.0,5:54,2.0,6.0,MIA 34,0.0,3.0,"Penalty on Durham Smythe: False Start, 5 yards (accepted) (no play)",0.93,0.26,9.0,2024,126
+1.0,5:49,2.0,11.0,MIA 29,0.0,3.0,Jaylen Wright right guard for no gain (tackle by Ed Oliver and Gregory Rousseau),0.26,-0.43,9.0,2024,126
+1.0,4:57,3.0,11.0,MIA 29,0.0,3.0,"Tua Tagovailoa pass complete short middle to Raheem Mostert for 17 yards (tackle by Taylor Rapp). Penalty on Taylor Rapp: Unnecessary Roughness / Defense, 15 yards (accepted)",-0.43,2.98,9.0,2024,126
+1.0,4:36,1.0,10.0,BUF 39,0.0,3.0,Tua Tagovailoa pass complete short left to De'Von Achane for 6 yards (tackle by Dorian Williams),2.98,3.25,9.0,2024,126
+1.0,3:56,2.0,4.0,BUF 33,0.0,3.0,De'Von Achane right end for 4 yards (tackle by Austin Johnson and Taron Johnson),3.25,3.64,9.0,2024,126
+1.0,3:26,1.0,10.0,BUF 29,0.0,3.0,Tua Tagovailoa pass complete short right to Durham Smythe for 4 yards (tackle by Dorian Williams),3.64,3.64,9.0,2024,126
+1.0,2:45,2.0,6.0,BUF 25,0.0,3.0,Tua Tagovailoa pass complete short left to Jonnu Smith for 5 yards (tackle by Dorian Williams),3.64,3.6,9.0,2024,126
+1.0,2:06,3.0,1.0,BUF 20,0.0,3.0,Raheem Mostert up the middle for -1 yards (tackle by Taylor Rapp),3.6,2.18,9.0,2024,126
+1.0,1:23,4.0,2.0,BUF 21,3.0,3.0,Jason Sanders 39 yard field goal good,2.18,3.0,9.0,2024,126
+1.0,1:19,,,MIA 35,3.0,3.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,126
+1.0,1:19,1.0,10.0,BUF 30,3.0,3.0,Ray Davis left guard for 8 yards (tackle by Anthony Walker and Marcus Maye),0.94,1.47,9.0,2024,126
+1.0,0:37,2.0,2.0,BUF 38,3.0,3.0,Josh Allen pass complete short left to Ray Davis for 7 yards (tackle by Anthony Walker and Jordyn Brooks),1.47,1.93,9.0,2024,126
+2.0,15:00,1.0,10.0,BUF 45,3.0,3.0,Ray Davis right guard for 4 yards (tackle by Kendall Fuller),1.93,1.92,9.0,2024,126
+2.0,14:24,2.0,6.0,BUF 49,3.0,3.0,Josh Allen pass complete short right to Dalton Kincaid for 15 yards (tackle by Marcus Maye),1.92,3.18,9.0,2024,126
+2.0,13:46,1.0,10.0,MIA 36,3.0,3.0,James Cook right guard for 2 yards (tackle by Calais Campbell),3.18,2.91,9.0,2024,126
+2.0,13:12,2.0,8.0,MIA 34,3.0,3.0,Josh Allen pass complete short right to Khalil Shakir for 10 yards (tackle by Jordyn Brooks and Anthony Walker),2.91,3.97,9.0,2024,126
+2.0,12:28,1.0,10.0,MIA 24,3.0,3.0,James Cook up the middle for 13 yards (tackle by Kendall Fuller),3.97,4.84,9.0,2024,126
+2.0,11:46,1.0,10.0,MIA 11,3.0,3.0,Josh Allen pass short right intended for Keon Coleman is intercepted by Jalen Ramsey at MIA-3 and returned for no gain (tackle by Keon Coleman),4.84,0.38,9.0,2024,126
+2.0,11:41,1.0,10.0,MIA 3,3.0,3.0,Raheem Mostert up the middle for no gain (tackle by Dorian Williams),-0.38,-0.78,9.0,2024,126
+2.0,11:01,2.0,10.0,MIA 3,3.0,3.0,Raheem Mostert up the middle for 16 yards (tackle by Taylor Rapp and Damar Hamlin),-0.78,0.15,9.0,2024,126
+2.0,10:22,1.0,10.0,MIA 19,3.0,3.0,Raheem Mostert left end for 12 yards (tackle by Damar Hamlin),0.15,1.0,9.0,2024,126
+2.0,9:43,1.0,10.0,MIA 31,3.0,3.0,Raheem Mostert right end for -1 yards (tackle by Kaiir Elam),1.0,0.32,9.0,2024,126
+2.0,9:01,2.0,11.0,MIA 30,3.0,3.0,Tua Tagovailoa pass complete short right to Jonnu Smith for 10 yards (tackle by Terrel Bernard and Dorian Williams),0.32,0.96,9.0,2024,126
+2.0,8:19,3.0,1.0,MIA 40,3.0,3.0,De'Von Achane left guard for 10 yards (tackle by Damar Hamlin),0.96,2.26,9.0,2024,126
+2.0,7:39,1.0,10.0,MIA 50,3.0,3.0,Tua Tagovailoa pass complete short left to Odell Beckham for 6 yards (tackle by Rasul Douglas and Dorian Williams),2.26,2.52,9.0,2024,126
+2.0,6:59,2.0,4.0,BUF 44,3.0,3.0,Tua Tagovailoa pass complete short right to De'Von Achane for 8 yards (tackle by Taron Johnson),2.52,3.18,9.0,2024,126
+2.0,6:22,1.0,10.0,BUF 36,3.0,3.0,Malik Washington left end for 9 yards (tackle by Damar Hamlin),3.18,3.85,9.0,2024,126
+2.0,6:01,2.0,1.0,BUF 27,3.0,3.0,Raheem Mostert up the middle for 5 yards (tackle by Terrel Bernard and Eli Ankou),3.85,4.11,9.0,2024,126
+2.0,5:26,1.0,10.0,BUF 22,3.0,3.0,De'Von Achane right tackle for 9 yards (tackle by Taylor Rapp),4.11,5.06,9.0,2024,126
+2.0,4:48,2.0,1.0,BUF 13,3.0,3.0,De'Von Achane left tackle for -1 yards (tackle by A.J. Epenesa and Austin Johnson),5.06,4.15,9.0,2024,126
+2.0,4:23,,,,,,Timeout #1 by Buffalo Bills,,,9.0,2024,126
+2.0,4:23,3.0,2.0,BUF 14,3.0,3.0,De'Von Achane up the middle for 5 yards (tackle by Gregory Rousseau and Taylor Rapp),4.15,5.14,9.0,2024,126
+2.0,3:41,1.0,9.0,BUF 9,3.0,3.0,"Penalty on Austin Jackson: False Start, 5 yards (accepted) (no play)",5.14,4.44,9.0,2024,126
+2.0,3:26,1.0,14.0,BUF 14,9.0,3.0,"Tua Tagovailoa pass complete short left to De'Von Achane for 14 yards, touchdown",4.44,7.0,9.0,2024,126
+2.0,3:20,,,BUF 15,10.0,3.0,Jason Sanders kicks extra point good,0.0,0.0,9.0,2024,126
+2.0,3:20,,,MIA 35,10.0,3.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,126
+2.0,3:20,1.0,10.0,BUF 30,10.0,3.0,Josh Allen pass incomplete short right intended for Dalton Kincaid,0.94,0.39,9.0,2024,126
+2.0,3:15,2.0,10.0,BUF 30,10.0,3.0,Josh Allen pass complete short middle to Dalton Kincaid for 7 yards (tackle by Jordyn Brooks and Anthony Walker),0.39,0.63,9.0,2024,126
+2.0,2:34,3.0,3.0,BUF 37,10.0,3.0,Josh Allen pass complete short right to Mack Hollins for 5 yards (tackle by Cam Smith),0.63,1.73,9.0,2024,126
+2.0,2:00,1.0,10.0,BUF 42,10.0,3.0,"Josh Allen pass incomplete short right intended for Mack Hollins. Penalty on Cam Smith: Defensive Pass Interference, 13 yards (accepted) (no play)",1.73,2.59,9.0,2024,126
+2.0,1:55,1.0,10.0,MIA 45,10.0,3.0,Josh Allen pass complete short left to James Cook for 5 yards (tackle by Jalen Ramsey),2.59,2.72,9.0,2024,126
+2.0,1:25,2.0,5.0,MIA 40,10.0,3.0,"Josh Allen pass incomplete short left intended for James Cook. Penalty on Cam Smith: Defensive Holding, 5 yards (accepted) (no play)",2.72,3.25,9.0,2024,126
+2.0,1:18,1.0,10.0,MIA 35,10.0,3.0,Josh Allen pass complete short left to Mack Hollins for 13 yards (tackle by Jordan Poyer),3.25,4.11,9.0,2024,126
+2.0,1:01,1.0,10.0,MIA 22,10.0,3.0,Josh Allen pass incomplete short right intended for James Cook,4.11,3.5,9.0,2024,126
+2.0,0:56,2.0,10.0,MIA 23,10.0,3.0,Josh Allen pass complete short right to Khalil Shakir for -3 yards (tackle by Marcus Maye),3.5,2.54,9.0,2024,126
+2.0,0:50,,,,,,Timeout #2 by Buffalo Bills,,,9.0,2024,126
+2.0,0:50,3.0,12.0,MIA 25,10.0,3.0,Josh Allen scrambles right tackle for 14 yards (tackle by Calais Campbell),2.54,4.84,9.0,2024,126
+2.0,0:41,,,,,,Timeout #3 by Buffalo Bills,,,9.0,2024,126
+2.0,0:41,1.0,10.0,MIA 11,10.0,3.0,"Josh Allen pass incomplete short right intended for Khalil Shakir. Penalty on Dion Dawkins: Offensive Holding, 10 yards (accepted) (no play)",4.84,4.17,9.0,2024,126
+2.0,0:35,1.0,20.0,MIA 21,10.0,3.0,"Josh Allen scrambles right guard for no gain, touchdown. Penalty on O'Cyrus Torrence: Offensive Holding, 10 yards (accepted) (no play)",4.17,3.51,9.0,2024,126
+2.0,0:27,1.0,30.0,MIA 31,10.0,3.0,Josh Allen pass incomplete short right intended for Khalil Shakir,3.51,1.59,9.0,2024,126
+2.0,0:22,2.0,30.0,MIA 31,10.0,3.0,Josh Allen pass incomplete short right intended for Dalton Kincaid,1.59,0.96,9.0,2024,126
+2.0,0:18,3.0,30.0,MIA 31,10.0,3.0,Josh Allen pass incomplete short right,0.96,1.32,9.0,2024,126
+2.0,0:12,4.0,30.0,MIA 31,10.0,6.0,Tyler Bass 49 yard field goal good,1.32,3.0,9.0,2024,126
+2.0,0:07,,,BUF 35,10.0,6.0,"Tyler Bass kicks off 66 yards, returned by D'Wayne Eskridge for 33 yards (tackle by Ja'Marcus Ingram)",0.0,1.07,9.0,2024,126
+2.0,0:02,1.0,10.0,MIA 32,10.0,6.0,Tua Tagovailoa kneels for -1 yards,1.07,0.39,9.0,2024,126
+3.0,15:00,,,BUF 35,10.0,6.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,126
+3.0,15:00,1.0,10.0,MIA 30,10.0,6.0,Raheem Mostert left end for 7 yards (tackle by Taylor Rapp),0.94,1.34,9.0,2024,126
+3.0,14:19,2.0,3.0,MIA 37,10.0,6.0,Tua Tagovailoa pass complete short left to Raheem Mostert for 15 yards (tackle by Taylor Rapp and Dorian Williams),1.34,2.39,9.0,2024,126
+3.0,13:51,1.0,10.0,BUF 48,10.0,6.0,"Raheem Mostert right tackle for 7 yards. Raheem Mostert fumbles (forced by Taron Johnson), recovered by Kaiir Elam at BUF-36 (tackle by Taron Johnson)",2.39,-1.33,9.0,2024,126
+3.0,13:43,1.0,10.0,BUF 36,10.0,6.0,Josh Allen pass complete short right to Dalton Kincaid for 6 yards (tackle by Jordyn Brooks),1.33,1.6,9.0,2024,126
+3.0,13:03,2.0,4.0,BUF 42,10.0,6.0,Josh Allen pass complete short right to Dawson Knox for 5 yards (tackle by Siran Neal),1.6,2.06,9.0,2024,126
+3.0,12:18,1.0,10.0,BUF 47,10.0,6.0,James Cook right guard for 8 yards (tackle by Calais Campbell and Jordan Poyer),2.06,2.6,9.0,2024,126
+3.0,11:34,2.0,2.0,MIA 45,10.0,6.0,James Cook up the middle for 2 yards (tackle by Calais Campbell),2.6,2.72,9.0,2024,126
+3.0,10:54,1.0,10.0,MIA 43,10.0,6.0,Ty Johnson up the middle for 17 yards (tackle by Jordan Poyer),2.72,3.84,9.0,2024,126
+3.0,10:09,1.0,10.0,MIA 26,10.0,6.0,James Cook up the middle for 7 yards (tackle by Neil Farrell),3.84,4.27,9.0,2024,126
+3.0,9:37,2.0,3.0,MIA 19,10.0,6.0,Josh Allen pass complete short left to Khalil Shakir for 13 yards (tackle by Kendall Fuller),4.27,5.83,9.0,2024,126
+3.0,8:58,1.0,6.0,MIA 6,10.0,6.0,James Cook right guard for 4 yards (tackle by Siran Neal and Marcus Maye),5.83,5.72,9.0,2024,126
+3.0,8:11,2.0,2.0,MIA 2,10.0,6.0,James Cook up the middle for 1 yard (tackle by Jordan Poyer and Da'Shawn Hand),5.72,5.17,9.0,2024,126
+3.0,7:30,3.0,1.0,MIA 1,10.0,6.0,Josh Allen pass incomplete short right,5.17,3.55,9.0,2024,126
+3.0,7:24,4.0,1.0,MIA 1,10.0,12.0,"Josh Allen pass complete short left to Mack Hollins for 1 yard, touchdown",3.55,7.0,9.0,2024,126
+3.0,7:20,,,MIA 15,10.0,12.0,Tyler Bass kicks extra point no good,0.0,-1.0,9.0,2024,126
+3.0,7:20,,,BUF 35,10.0,12.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,126
+3.0,7:20,1.0,10.0,MIA 30,10.0,12.0,Tua Tagovailoa pass complete short middle to Jonnu Smith for 15 yards (tackle by Kaiir Elam),0.94,1.93,9.0,2024,126
+3.0,6:44,1.0,10.0,MIA 45,10.0,12.0,Raheem Mostert right tackle for 7 yards (tackle by Taron Johnson),1.93,2.33,9.0,2024,126
+3.0,6:09,2.0,3.0,BUF 48,10.0,12.0,Tua Tagovailoa pass incomplete short right,2.33,1.62,9.0,2024,126
+3.0,6:03,3.0,3.0,BUF 48,10.0,12.0,"Tua Tagovailoa pass incomplete short right intended for Jaylen Waddle (defended by Rasul Douglas). Penalty on Von Miller: Defensive Offside, 5 yards (accepted) (no play)",1.62,2.72,9.0,2024,126
+3.0,5:59,1.0,10.0,BUF 43,10.0,12.0,De'Von Achane right end for 4 yards (tackle by Dorian Williams),2.72,2.72,9.0,2024,126
+3.0,5:19,2.0,6.0,BUF 39,10.0,12.0,Tua Tagovailoa pass complete deep left to Tyreek Hill for 28 yards (tackle by Kaiir Elam),2.72,4.84,9.0,2024,126
+3.0,4:51,1.0,10.0,BUF 11,10.0,12.0,Jaylen Wright up the middle for no gain (tackle by Eli Ankou and Dorian Williams),4.84,4.14,9.0,2024,126
+3.0,4:08,2.0,10.0,BUF 11,10.0,12.0,Tua Tagovailoa pass complete short right to De'Von Achane for 3 yards (tackle by Taylor Rapp),4.14,3.76,9.0,2024,126
+3.0,3:21,3.0,7.0,BUF 8,10.0,12.0,"Tua Tagovailoa pass complete short left to Jonnu Smith for 3 yards (tackle by Terrel Bernard). Penalty on Tanner Conner: Offensive Pass Interference, 10 yards (declined)",3.76,3.01,9.0,2024,126
+3.0,3:02,4.0,4.0,BUF 5,13.0,12.0,Jason Sanders 23 yard field goal good,3.01,3.0,9.0,2024,126
+3.0,2:59,,,MIA 35,13.0,12.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,126
+3.0,2:59,1.0,10.0,BUF 30,13.0,12.0,Ray Davis up the middle for 7 yards (tackle by Anthony Walker and Kendall Fuller),0.94,1.34,9.0,2024,126
+3.0,2:17,2.0,3.0,BUF 37,13.0,18.0,"Josh Allen pass complete short right to Ray Davis for 63 yards, touchdown",1.34,7.0,9.0,2024,126
+3.0,2:07,,,MIA 2,13.0,20.0,Two Point Attempt: Josh Allen pass complete to to Keon Coleman for no gain,1.0,1.0,9.0,2024,126
+3.0,2:07,,,BUF 35,13.0,20.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,126
+3.0,2:07,1.0,10.0,MIA 30,13.0,20.0,Jaylen Wright up the middle for 5 yards (tackle by Terrel Bernard),0.94,1.07,9.0,2024,126
+3.0,1:33,2.0,5.0,MIA 35,13.0,20.0,Jaylen Wright left end for 7 yards (tackle by Damar Hamlin and Gregory Rousseau),1.07,1.73,9.0,2024,126
+3.0,0:50,1.0,10.0,MIA 42,13.0,20.0,Tua Tagovailoa pass complete deep middle to Tyreek Hill for 27 yards (tackle by Damar Hamlin),1.73,3.51,9.0,2024,126
+3.0,0:01,1.0,10.0,BUF 31,13.0,20.0,"Penalty on Liam Eichenberg: False Start, 5 yards (accepted) (no play)",3.51,3.18,9.0,2024,126
+4.0,15:00,1.0,15.0,BUF 36,13.0,20.0,De'Von Achane up the middle for 7 yards (tackle by Rasul Douglas and Damar Hamlin),3.18,3.24,9.0,2024,126
+4.0,14:33,2.0,8.0,BUF 29,13.0,20.0,Tua Tagovailoa pass complete short right to Odell Beckham for 3 yards (tackle by Kaiir Elam),3.24,2.94,9.0,2024,126
+4.0,14:07,3.0,5.0,BUF 26,13.0,20.0,Tua Tagovailoa pass complete short left to De'Von Achane for 1 yard (tackle by Terrel Bernard),2.94,1.88,9.0,2024,126
+4.0,13:28,4.0,4.0,BUF 25,13.0,20.0,"Tua Tagovailoa scrambles up the middle for 4 yards (tackle by Rasul Douglas) BUF challenged the first down ruling, and the play was upheld.",1.88,4.17,9.0,2024,126
+4.0,12:53,1.0,10.0,BUF 21,13.0,20.0,Tua Tagovailoa pass complete short left to Jonnu Smith for 13 yards (tackle by Damar Hamlin and Kaiir Elam),4.17,5.37,9.0,2024,126
+4.0,12:19,1.0,8.0,BUF 8,19.0,20.0,"De'Von Achane right end for 8 yards, touchdown",5.37,7.0,9.0,2024,126
+4.0,12:14,,,BUF 15,20.0,20.0,Jason Sanders kicks extra point good,0.0,0.0,9.0,2024,126
+4.0,12:14,,,MIA 35,20.0,20.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,126
+4.0,12:14,1.0,10.0,BUF 30,20.0,20.0,Josh Allen pass complete short left to James Cook for 11 yards (tackle by Cam Smith),0.94,1.66,9.0,2024,126
+4.0,11:39,1.0,10.0,BUF 41,20.0,20.0,Josh Allen pass complete short right to Keon Coleman for 21 yards (tackle by Marcus Maye and Tyus Bowser),1.66,3.05,9.0,2024,126
+4.0,10:52,1.0,10.0,MIA 38,20.0,20.0,Josh Allen pass complete short left to Khalil Shakir for 14 yards (tackle by Da'Shawn Hand),3.05,3.97,9.0,2024,126
+4.0,10:07,1.0,10.0,MIA 24,20.0,20.0,James Cook up the middle for 4 yards (tackle by Jordyn Brooks and Anthony Walker),3.97,3.97,9.0,2024,126
+4.0,9:25,2.0,6.0,MIA 20,20.0,20.0,Josh Allen pass complete short middle to James Cook for 5 yards (tackle by Anthony Walker),3.97,4.17,9.0,2024,126
+4.0,8:43,3.0,1.0,MIA 15,20.0,20.0,Ty Johnson right guard for 4 yards (tackle by Jordyn Brooks),4.17,4.84,9.0,2024,126
+4.0,8:06,1.0,10.0,MIA 11,20.0,20.0,Josh Allen pass complete short left to Dalton Kincaid for 4 yards (tackle by Jordyn Brooks),4.84,4.89,9.0,2024,126
+4.0,7:19,2.0,6.0,MIA 7,20.0,20.0,Josh Allen pass incomplete short right intended for Dalton Kincaid,4.89,3.98,9.0,2024,126
+4.0,7:13,3.0,6.0,MIA 7,20.0,20.0,"Josh Allen pass incomplete short right intended for Keon Coleman. Penalty on Siran Neal: Defensive Holding, 4 yards (accepted) (no play)",3.98,6.51,9.0,2024,126
+4.0,7:06,1.0,3.0,MIA 3,20.0,20.0,Ray Davis right guard for 1 yard (tackle by Marcus Maye and Kendall Fuller),6.51,5.72,9.0,2024,126
+4.0,6:24,2.0,2.0,MIA 2,20.0,26.0,"Josh Allen pass complete short right to Quintin Morris for 2 yards, touchdown",5.72,7.0,9.0,2024,126
+4.0,6:18,,,MIA 15,20.0,27.0,Tyler Bass kicks extra point good,0.0,0.0,9.0,2024,126
+4.0,6:18,,,BUF 35,20.0,27.0,"Tyler Bass kicks off 68 yards, returned by D'Wayne Eskridge for 22 yards (tackle by Cole Bishop)",0.0,0.15,9.0,2024,126
+4.0,6:14,1.0,10.0,MIA 19,20.0,27.0,De'Von Achane up the middle for 12 yards (tackle by Damar Hamlin),0.15,1.0,9.0,2024,126
+4.0,5:31,1.0,10.0,MIA 31,20.0,27.0,Tua Tagovailoa pass complete deep left to Tyreek Hill for 19 yards (tackle by Taylor Rapp),1.0,2.26,9.0,2024,126
+4.0,4:47,1.0,10.0,MIA 50,20.0,27.0,Jaylen Wright left guard for 3 yards (tackle by Terrel Bernard and Gregory Rousseau),2.26,2.12,9.0,2024,126
+4.0,4:05,2.0,7.0,BUF 47,20.0,27.0,Tua Tagovailoa pass complete short left to De'Von Achane for 9 yards (tackle by A.J. Epenesa),2.12,3.05,9.0,2024,126
+4.0,3:25,1.0,10.0,BUF 38,20.0,27.0,Jaylen Wright right tackle for 3 yards (tackle by Casey Toohill and Von Miller),3.05,2.91,9.0,2024,126
+4.0,2:39,,,,,,Timeout #1 by Miami Dolphins,,,9.0,2024,126
+4.0,2:39,2.0,7.0,BUF 35,20.0,27.0,Tua Tagovailoa pass incomplete deep right intended for Jonnu Smith,2.91,2.21,9.0,2024,126
+4.0,2:34,3.0,7.0,BUF 35,20.0,27.0,Tua Tagovailoa pass complete short right to Jaylen Waddle for 12 yards,2.21,4.04,9.0,2024,126
+4.0,2:29,1.0,10.0,BUF 23,20.0,27.0,De'Von Achane right end for no gain (tackle by Terrel Bernard),4.04,3.5,9.0,2024,126
+4.0,2:00,2.0,10.0,BUF 23,20.0,27.0,Tua Tagovailoa pass complete short left to De'Von Achane for 18 yards (tackle by Damar Hamlin),3.5,6.06,9.0,2024,126
+4.0,1:52,1.0,5.0,BUF 5,20.0,27.0,De'Von Achane right end for -2 yards (tackle by Gregory Rousseau),6.06,4.76,9.0,2024,126
+4.0,1:45,,,,,,Timeout #2 by Buffalo Bills,,,9.0,2024,126
+4.0,1:45,2.0,7.0,BUF 7,26.0,27.0,"Tua Tagovailoa pass complete short right to Jaylen Waddle for 7 yards, touchdown",4.76,7.0,9.0,2024,126
+4.0,1:38,,,BUF 15,27.0,27.0,Jason Sanders kicks extra point good,0.0,0.0,9.0,2024,126
+4.0,1:38,,,MIA 35,27.0,27.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,126
+4.0,1:38,1.0,10.0,BUF 30,27.0,27.0,Josh Allen sacked by Chop Robinson for -4 yards,0.94,-0.15,9.0,2024,126
+4.0,0:58,2.0,14.0,BUF 26,27.0,27.0,Josh Allen pass incomplete short left intended for Dalton Kincaid (defended by Da'Shawn Hand),-0.15,-0.82,9.0,2024,126
+4.0,0:54,3.0,14.0,BUF 26,27.0,27.0,"Penalty on Chop Robinson: Neutral Zone Infraction, 5 yards (accepted) (no play)",-0.82,-0.16,9.0,2024,126
+4.0,0:54,3.0,9.0,BUF 31,27.0,27.0,"Josh Allen pass incomplete deep left intended for Keon Coleman. Penalty on Jordan Poyer: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",-0.16,1.99,9.0,2024,126
+4.0,0:46,1.0,10.0,BUF 46,27.0,27.0,Josh Allen pass incomplete short left intended for Dawson Knox,1.99,1.45,9.0,2024,126
+4.0,0:43,2.0,10.0,BUF 46,27.0,27.0,Josh Allen pass complete short left to Mack Hollins for 7 yards (tackle by Cam Smith),1.45,1.69,9.0,2024,126
+4.0,0:37,,,,,,Timeout #3 by Buffalo Bills,,,9.0,2024,126
+4.0,0:37,3.0,3.0,MIA 47,27.0,27.0,Josh Allen pass complete short left to Mack Hollins for 4 yards (tackle by Cam Smith),1.69,2.72,9.0,2024,126
+4.0,0:22,1.0,10.0,MIA 43,27.0,27.0,Josh Allen spiked the ball,2.72,2.18,9.0,2024,126
+4.0,0:21,2.0,10.0,MIA 43,27.0,27.0,Josh Allen pass incomplete short left intended for Curtis Samuel,2.18,1.49,9.0,2024,126
+4.0,0:17,3.0,10.0,MIA 43,27.0,27.0,Josh Allen pass incomplete deep left intended for Dalton Kincaid,1.49,0.4,9.0,2024,126
+4.0,0:10,4.0,10.0,MIA 43,27.0,30.0,Tyler Bass 61 yard field goal good,0.4,3.0,9.0,2024,126
+4.0,0:05,,,BUF 35,27.0,30.0,"Tyler Bass kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,126
+4.0,0:05,1.0,10.0,MIA 30,27.0,30.0,"Tua Tagovailoa pass complete short right to De'Von Achane for -1 yards, lateral to Jaylen Waddle for -23 yards (tackle by Gregory Rousseau)",0.94,-2.53,9.0,2024,126

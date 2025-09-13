@@ -1,0 +1,168 @@
+Quarter,Time,Down,ToGo,Location,DEN,DET,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Lions won the coin toss, Lions to receive the opening kickoff.",,,15.0,2023,212
+1.0,15:00,,,DEN 35,0.0,0.0,"Wil Lutz kicks off 66 yards, returned by Craig Reynolds for 26 yards (tackle by Michael Burton)",0.0,0.61,15.0,2023,212
+1.0,14:56,1.0,10.0,DET 25,0.0,0.0,Jared Goff pass incomplete short right,0.61,0.06,15.0,2023,212
+1.0,14:46,2.0,10.0,DET 25,0.0,0.0,Jared Goff pass complete short left to Amon-Ra St. Brown for 21 yards (tackle by Alex Singleton),0.06,1.99,15.0,2023,212
+1.0,14:01,1.0,10.0,DET 46,0.0,0.0,Jared Goff pass incomplete deep left intended for Jameson Williams (defended by Justin Simmons),1.99,1.45,15.0,2023,212
+1.0,13:52,2.0,10.0,DET 46,0.0,0.0,Jared Goff pass complete short left to David Montgomery for 4 yards (tackle by Jonathon Cooper),1.45,1.29,15.0,2023,212
+1.0,13:10,3.0,6.0,DET 50,0.0,0.0,Jared Goff pass incomplete short right intended for David Montgomery,1.29,-0.06,15.0,2023,212
+1.0,13:06,4.0,6.0,DET 50,0.0,0.0,Jack Fox punts 21 yards out of bounds,-0.06,-0.87,15.0,2023,212
+1.0,12:58,1.0,10.0,DEN 29,0.0,0.0,Russell Wilson pass complete short middle to Jerry Jeudy for 40 yards (tackle by Brian Branch),0.87,3.51,15.0,2023,212
+1.0,12:27,1.0,10.0,DET 31,0.0,0.0,Marvin Mims right end for 11 yards (tackle by Alex Anzalone),3.51,4.24,15.0,2023,212
+1.0,11:53,1.0,10.0,DET 20,0.0,0.0,Russell Wilson pass incomplete short left intended for Jaleel McLaughlin (defended by Khalil Dorsey),4.24,3.69,15.0,2023,212
+1.0,11:52,2.0,10.0,DET 20,0.0,0.0,"Russell Wilson sacked by Ifeatu Melifonwu for -10 yards. Russell Wilson fumbles (forced by Ifeatu Melifonwu), recovered by Isaiah Buggs at DET-30 and returned for 33 yards (tackle by Quinn Meinerz)",3.69,-3.12,15.0,2023,212
+1.0,11:38,1.0,10.0,DEN 37,0.0,0.0,Jared Goff pass complete short left to Jameson Williams for 1 yard (tackle by Josey Jewell),3.12,2.71,15.0,2023,212
+1.0,11:03,2.0,9.0,DEN 36,0.0,0.0,David Montgomery left tackle for 4 yards (tackle by Jonathan Harris),2.71,2.54,15.0,2023,212
+1.0,10:30,3.0,5.0,DEN 32,0.0,0.0,Jared Goff sacked by D.J. Jones for -7 yards,2.54,0.66,15.0,2023,212
+1.0,9:43,4.0,12.0,DEN 39,0.0,0.0,"Jack Fox punts 39 yards, touchback.",0.66,-0.28,15.0,2023,212
+1.0,9:33,1.0,10.0,DEN 20,0.0,0.0,Javonte Williams up the middle for 1 yard (tackle by Alex Anzalone),0.28,-0.13,15.0,2023,212
+1.0,8:55,2.0,9.0,DEN 21,0.0,0.0,Russell Wilson pass incomplete deep right intended for Marvin Mims (defended by Aidan Hutchinson),-0.13,-0.82,15.0,2023,212
+1.0,8:50,3.0,9.0,DEN 21,0.0,0.0,Russell Wilson pass incomplete short left intended for Jerry Jeudy,-0.82,-1.96,15.0,2023,212
+1.0,8:40,4.0,9.0,DEN 21,0.0,0.0,"Riley Dixon punts 52 yards, returned by Kalif Raymond for no gain (tackle by Riley Moss)",-1.96,-0.74,15.0,2023,212
+1.0,8:31,1.0,10.0,DET 27,0.0,0.0,Jahmyr Gibbs up the middle for 8 yards (tackle by Fabian Moreau),0.74,1.28,15.0,2023,212
+1.0,7:51,2.0,2.0,DET 35,0.0,0.0,"Jahmyr Gibbs right end for 10 yards (tackle by Ja'Quan McMillian). Penalty on Graham Glasgow: Offensive Holding, 10 yards (accepted) (no play)",1.28,-0.07,15.0,2023,212
+1.0,7:42,2.0,12.0,DET 25,0.0,0.0,Jared Goff pass complete short middle to Jameson Williams for 14 yards (tackle by Justin Simmons),-0.07,1.53,15.0,2023,212
+1.0,7:02,1.0,10.0,DET 39,0.0,0.0,Jared Goff pass complete short left to Kalif Raymond for 12 yards,1.53,2.32,15.0,2023,212
+1.0,6:36,1.0,10.0,DEN 49,0.0,0.0,Jahmyr Gibbs up the middle for 1 yard (tackle by Jonathon Cooper and Thomas Incoom),2.32,1.92,15.0,2023,212
+1.0,6:00,2.0,9.0,DEN 48,0.0,0.0,Jared Goff pass complete short left to Jahmyr Gibbs for -1 yards (tackle by Fabian Moreau),1.92,1.09,15.0,2023,212
+1.0,5:16,3.0,10.0,DEN 49,0.0,0.0,Jared Goff pass incomplete deep left intended for Jameson Williams,1.09,0.0,15.0,2023,212
+1.0,5:11,4.0,10.0,DEN 49,0.0,0.0,"Jack Fox punts 33 yards, fair catch by Marvin Mims at DEN-16",0.0,0.14,15.0,2023,212
+1.0,5:04,1.0,10.0,DEN 16,0.0,0.0,Javonte Williams up the middle for 2 yards (tackle by Aidan Hutchinson),-0.14,-0.35,15.0,2023,212
+1.0,4:23,2.0,8.0,DEN 18,0.0,0.0,Javonte Williams up the middle for 4 yards (tackle by John Cominsky and Ifeatu Melifonwu),-0.35,-0.62,15.0,2023,212
+1.0,3:40,3.0,5.0,DEN 22,0.0,0.0,"Penalty on Mike McGlinchey: False Start, 5 yards (accepted) (no play)",-0.62,-1.25,15.0,2023,212
+1.0,3:22,3.0,10.0,DEN 17,0.0,0.0,Russell Wilson pass complete deep left to Courtland Sutton for 23 yards (tackle by Khalil Dorsey and Ifeatu Melifonwu),-1.25,1.6,15.0,2023,212
+1.0,2:53,1.0,10.0,DEN 40,0.0,0.0,Samaje Perine left tackle for 6 yards (tackle by Alex Anzalone and Jack Campbell),1.6,1.86,15.0,2023,212
+1.0,2:17,2.0,4.0,DEN 46,0.0,0.0,Javonte Williams left tackle for no gain (tackle by Ifeatu Melifonwu and Brian Branch),1.86,1.16,15.0,2023,212
+1.0,1:52,3.0,4.0,DEN 46,0.0,0.0,Russell Wilson pass incomplete short right intended for Adam Trautman (defended by Brian Branch),1.16,-0.32,15.0,2023,212
+1.0,1:47,4.0,4.0,DEN 46,0.0,0.0,"Riley Dixon punts 54 yards, touchback.",-0.32,-0.28,15.0,2023,212
+1.0,1:38,1.0,10.0,DET 20,0.0,0.0,David Montgomery left tackle for 6 yards (tackle by Alex Singleton and P.J. Locke),0.28,0.54,15.0,2023,212
+1.0,1:05,2.0,4.0,DET 26,0.0,0.0,David Montgomery left end for 5 yards (tackle by Matt Henningsen),0.54,1.0,15.0,2023,212
+1.0,0:29,1.0,10.0,DET 31,0.0,0.0,Jared Goff pass complete short middle to Sam LaPorta for 17 yards (tackle by Fabian Moreau),1.0,2.13,15.0,2023,212
+2.0,15:00,1.0,10.0,DET 48,0.0,0.0,David Montgomery up the middle for no gain (tackle by Ja'Quan McMillian),2.13,1.58,15.0,2023,212
+2.0,14:28,2.0,10.0,DET 48,0.0,0.0,Jared Goff pass complete short right to Donovan Peoples-Jones for 5 yards (tackle by Fabian Moreau),1.58,1.55,15.0,2023,212
+2.0,13:52,3.0,5.0,DEN 47,0.0,0.0,Jared Goff pass complete short left to Sam LaPorta for 7 yards (tackle by Josey Jewell),1.55,2.92,15.0,2023,212
+2.0,13:18,1.0,10.0,DEN 40,0.0,0.0,Jared Goff pass complete deep right to Josh Reynolds for 21 yards (tackle by Fabian Moreau),2.92,4.31,15.0,2023,212
+2.0,12:41,1.0,10.0,DEN 19,0.0,6.0,"Jared Goff pass complete short left to Sam LaPorta for 19 yards, touchdown",4.31,7.0,15.0,2023,212
+2.0,12:31,,,DEN 15,0.0,7.0,Michael Badgley kicks extra point good,0.0,0.0,15.0,2023,212
+2.0,12:31,,,DET 35,0.0,7.0,"Jack Fox kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,212
+2.0,12:31,1.0,10.0,DEN 25,0.0,7.0,Russell Wilson pass incomplete short middle intended for Jerry Jeudy,0.61,0.06,15.0,2023,212
+2.0,12:26,2.0,10.0,DEN 25,0.0,7.0,Javonte Williams up the middle for -3 yards (tackle by Ifeatu Melifonwu and Alex Anzalone),0.06,-1.02,15.0,2023,212
+2.0,11:42,3.0,13.0,DEN 22,0.0,7.0,Russell Wilson sacked by Josh Paschal for -9 yards,-1.02,-2.49,15.0,2023,212
+2.0,11:10,4.0,22.0,DEN 13,0.0,7.0,"Riley Dixon punts 56 yards, returned by Kalif Raymond for 8 yards (tackle by Tremon Smith)",-2.49,-1.53,15.0,2023,212
+2.0,10:58,1.0,10.0,DET 39,0.0,7.0,Jared Goff pass complete deep right to Josh Reynolds for 20 yards (tackle by Patrick Surtain),1.53,2.85,15.0,2023,212
+2.0,10:19,1.0,10.0,DEN 41,0.0,7.0,Jahmyr Gibbs left end for 21 yards (tackle by Josey Jewell),2.85,4.24,15.0,2023,212
+2.0,9:38,1.0,10.0,DEN 20,0.0,7.0,Jared Goff pass complete short right to David Montgomery for -7 yards (tackle by D.J. Jones),4.24,2.75,15.0,2023,212
+2.0,9:02,2.0,17.0,DEN 27,0.0,7.0,Jared Goff pass complete short left to Jameson Williams for 18 yards (tackle by P.J. Locke),2.75,5.14,15.0,2023,212
+2.0,8:25,1.0,9.0,DEN 9,0.0,7.0,Jared Goff pass incomplete short middle intended for Amon-Ra St. Brown (defended by P.J. Locke),5.14,4.38,15.0,2023,212
+2.0,8:20,2.0,9.0,DEN 9,0.0,13.0,"Jared Goff pass complete short middle to Jahmyr Gibbs for 9 yards, touchdown",4.38,7.0,15.0,2023,212
+2.0,8:15,,,DEN 15,0.0,14.0,Michael Badgley kicks extra point good,0.0,0.0,15.0,2023,212
+2.0,8:15,,,DET 35,0.0,14.0,"Jack Fox kicks off 64 yards, returned by Marvin Mims for 20 yards (tackle by Jalen Reeves-Maybin)",0.0,0.34,15.0,2023,212
+2.0,8:10,1.0,10.0,DEN 21,0.0,14.0,Russell Wilson pass complete short right to Jaleel McLaughlin for 8 yards (tackle by Cameron Sutton and Jack Campbell),0.34,0.88,15.0,2023,212
+2.0,7:44,2.0,2.0,DEN 29,0.0,14.0,Jaleel McLaughlin left tackle for 1 yard (tackle by Ifeatu Melifonwu),0.88,0.3,15.0,2023,212
+2.0,7:10,3.0,1.0,DEN 30,0.0,14.0,Russell Wilson up the middle for no gain (tackle by Jack Campbell),0.3,-1.37,15.0,2023,212
+2.0,6:28,4.0,1.0,DEN 30,0.0,14.0,Russell Wilson up the middle for 2 yards (tackle by John Cominsky),-1.37,1.07,15.0,2023,212
+2.0,5:57,1.0,10.0,DEN 32,0.0,14.0,Javonte Williams up the middle for 2 yards (tackle by John Cominsky and Kerby Joseph),1.07,0.8,15.0,2023,212
+2.0,5:20,2.0,8.0,DEN 34,0.0,14.0,Russell Wilson pass complete short left to Javonte Williams for -2 yards (tackle by Alex Anzalone),0.8,-0.16,15.0,2023,212
+2.0,4:35,3.0,10.0,DEN 32,0.0,14.0,Russell Wilson pass incomplete deep left intended for Jerry Jeudy,-0.16,-1.24,15.0,2023,212
+2.0,4:28,4.0,10.0,DEN 32,0.0,14.0,"Riley Dixon punts 49 yards, fair catch by Kalif Raymond at DET-19",-1.24,-0.15,15.0,2023,212
+2.0,4:21,1.0,10.0,DET 19,0.0,14.0,David Montgomery up the middle for 2 yards (tackle by Baron Browning and Josey Jewell),0.15,-0.06,15.0,2023,212
+2.0,3:42,2.0,8.0,DET 21,0.0,14.0,Jared Goff pass complete short middle to Amon-Ra St. Brown for 8 yards (tackle by Josey Jewell and Justin Simmons),-0.06,0.87,15.0,2023,212
+2.0,3:05,1.0,10.0,DET 29,0.0,14.0,Jared Goff pass incomplete short left intended for Josh Reynolds (defended by Fabian Moreau),0.87,0.33,15.0,2023,212
+2.0,3:01,2.0,10.0,DET 29,0.0,14.0,Jared Goff pass complete short middle to Amon-Ra St. Brown for 29 yards (tackle by Justin Simmons),0.33,2.79,15.0,2023,212
+2.0,2:34,1.0,10.0,DEN 42,0.0,14.0,David Montgomery up the middle for 8 yards (tackle by Baron Browning),2.79,3.32,15.0,2023,212
+2.0,2:17,,,,,,Timeout #1 by Denver Broncos,,,15.0,2023,212
+2.0,2:17,2.0,2.0,DEN 34,0.0,14.0,David Montgomery up the middle for 1 yard (tackle by Jonathan Harris and Mike Purcell),3.32,2.74,15.0,2023,212
+2.0,2:00,3.0,1.0,DEN 33,0.0,14.0,David Montgomery up the middle for 4 yards (tackle by Justin Simmons),2.74,3.64,15.0,2023,212
+2.0,1:30,1.0,10.0,DEN 29,0.0,14.0,David Montgomery right tackle for 11 yards (tackle by Patrick Surtain),3.64,4.37,15.0,2023,212
+2.0,0:55,1.0,10.0,DEN 18,0.0,14.0,Jared Goff pass complete short left to Amon-Ra St. Brown for 3 yards (tackle by Ja'Quan McMillian),4.37,4.25,15.0,2023,212
+2.0,0:28,,,,,,Timeout #1 by Detroit Lions,,,15.0,2023,212
+2.0,0:28,2.0,7.0,DEN 15,0.0,14.0,Jared Goff pass incomplete short left intended for Amon-Ra St. Brown,4.25,3.46,15.0,2023,212
+2.0,0:24,3.0,7.0,DEN 15,0.0,20.0,"Jared Goff pass complete short right to Amon-Ra St. Brown for 15 yards, touchdown",3.46,7.0,15.0,2023,212
+2.0,0:19,,,DEN 15,0.0,21.0,Michael Badgley kicks extra point good,0.0,0.0,15.0,2023,212
+2.0,0:19,,,DET 35,0.0,21.0,"Jack Fox kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,212
+2.0,0:19,1.0,10.0,DEN 25,0.0,21.0,Russell Wilson kneels for -1 yards,0.61,-0.07,15.0,2023,212
+3.0,15:00,,,DET 35,0.0,21.0,"Jack Fox kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,212
+3.0,15:00,1.0,10.0,DEN 25,0.0,21.0,Javonte Williams up the middle for 3 yards (tackle by Jack Campbell and John Cominsky),0.61,0.47,15.0,2023,212
+3.0,14:25,2.0,7.0,DEN 28,0.0,21.0,Russell Wilson pass complete short left to Javonte Williams for -5 yards (tackle by Josh Paschal),0.47,-0.89,15.0,2023,212
+3.0,13:39,3.0,12.0,DEN 23,0.0,21.0,"Russell Wilson pass incomplete deep middle intended for Marvin Mims. Penalty on Khalil Dorsey: Illegal Contact, 5 yards (declined) . Penalty on Alex Anzalone: Defensive Pass Interference, 44 yards (accepted) (no play)",-0.89,3.38,15.0,2023,212
+3.0,13:32,1.0,10.0,DET 33,0.0,21.0,Samaje Perine up the middle for 2 yards (tackle by Aidan Hutchinson),3.38,3.11,15.0,2023,212
+3.0,12:53,2.0,8.0,DET 31,0.0,21.0,Russell Wilson pass complete short middle to Courtland Sutton for 14 yards (tackle by Alex Anzalone),3.11,4.44,15.0,2023,212
+3.0,12:20,1.0,10.0,DET 17,0.0,21.0,Javonte Williams right tackle for 6 yards (tackle by Jack Campbell and Benito Jones),4.44,4.89,15.0,2023,212
+3.0,11:42,2.0,4.0,DET 11,0.0,21.0,Russell Wilson pass incomplete short right intended for Adam Trautman,4.89,4.1,15.0,2023,212
+3.0,11:40,3.0,4.0,DET 11,0.0,21.0,Russell Wilson pass complete short right to Lil'Jordan Humphrey for 5 yards (tackle by Khalil Dorsey),4.1,5.83,15.0,2023,212
+3.0,11:20,1.0,6.0,DET 6,0.0,21.0,Samaje Perine right tackle for 3 yards (tackle by Brodric Martin and Josh Paschal),5.83,5.53,15.0,2023,212
+3.0,10:46,2.0,3.0,DET 3,0.0,21.0,Russell Wilson pass incomplete short right intended for Brandon Johnson (defended by Ifeatu Melifonwu),5.53,4.72,15.0,2023,212
+3.0,10:41,3.0,3.0,DET 3,6.0,21.0,"Russell Wilson pass complete short left to Lil'Jordan Humphrey for 3 yards, touchdown Replay Assistant challenged the pass completion ruling, and the original play was overturned.",4.72,7.0,15.0,2023,212
+3.0,10:34,,,DET 15,7.0,21.0,Wil Lutz kicks extra point good,0.0,0.0,15.0,2023,212
+3.0,10:34,,,DEN 35,7.0,21.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,212
+3.0,10:34,1.0,10.0,DET 25,7.0,21.0,Jared Goff pass complete short middle to Amon-Ra St. Brown for 26 yards (tackle by P.J. Locke and Fabian Moreau),0.61,2.32,15.0,2023,212
+3.0,9:55,1.0,10.0,DEN 49,7.0,21.0,Jared Goff pass incomplete deep left intended for Jameson Williams,2.32,1.78,15.0,2023,212
+3.0,9:51,2.0,10.0,DEN 49,7.0,21.0,Jahmyr Gibbs right tackle for 1 yard (tackle by D.J. Jones),1.78,1.22,15.0,2023,212
+3.0,9:13,3.0,9.0,DEN 48,7.0,21.0,Jahmyr Gibbs right end for 10 yards (tackle by P.J. Locke),1.22,3.05,15.0,2023,212
+3.0,8:39,1.0,10.0,DEN 38,7.0,21.0,Jahmyr Gibbs up the middle for 34 yards (tackle by Jonathan Harris),3.05,6.28,15.0,2023,212
+3.0,7:50,1.0,4.0,DEN 4,7.0,21.0,Jahmyr Gibbs right tackle for 1 yard (tackle by Jonathon Cooper and Matt Henningsen),6.28,5.53,15.0,2023,212
+3.0,7:07,2.0,3.0,DEN 3,7.0,21.0,Jared Goff pass incomplete short left,5.53,4.72,15.0,2023,212
+3.0,7:03,3.0,3.0,DEN 3,7.0,27.0,"Jared Goff pass complete short right to Sam LaPorta for 3 yards, touchdown",4.72,7.0,15.0,2023,212
+3.0,7:01,,,DEN 15,7.0,28.0,Michael Badgley kicks extra point good,0.0,0.0,15.0,2023,212
+3.0,7:01,,,DET 35,7.0,28.0,"Jack Fox kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,212
+3.0,7:01,1.0,10.0,DEN 25,7.0,28.0,Russell Wilson pass complete short left to Courtland Sutton for 8 yards (tackle by Cameron Sutton),0.61,1.14,15.0,2023,212
+3.0,6:15,2.0,2.0,DEN 33,7.0,28.0,Jaleel McLaughlin left end for 1 yard (tackle by Levi Onwuzurike),1.14,0.56,15.0,2023,212
+3.0,5:49,3.0,1.0,DEN 34,7.0,28.0,Russell Wilson up the middle for 2 yards (tackle by Derrick Barnes),0.56,1.33,15.0,2023,212
+3.0,5:05,1.0,10.0,DEN 36,7.0,28.0,Russell Wilson pass complete short right to Adam Trautman for 24 yards (tackle by Kerby Joseph),1.33,2.92,15.0,2023,212
+3.0,4:19,1.0,10.0,DET 40,7.0,28.0,Russell Wilson pass incomplete deep middle intended for Lucas Krull (defended by Ifeatu Melifonwu),2.92,2.37,15.0,2023,212
+3.0,4:12,,,,,,Timeout #1 by Denver Broncos,,,15.0,2023,212
+3.0,4:12,2.0,10.0,DET 40,7.0,28.0,Javonte Williams up the middle for no gain (tackle by Isaiah Buggs and John Cominsky),2.37,1.68,15.0,2023,212
+3.0,3:32,3.0,10.0,DET 40,7.0,28.0,Russell Wilson pass complete short left to Jerry Jeudy for 19 yards (tackle by Cameron Sutton),1.68,4.17,15.0,2023,212
+3.0,2:47,1.0,10.0,DET 21,7.0,28.0,Russell Wilson pass complete short middle to Courtland Sutton for 12 yards (tackle by Malcolm Rodriguez),4.17,5.14,15.0,2023,212
+3.0,2:18,1.0,9.0,DET 9,7.0,28.0,Russell Wilson pass incomplete short left intended for Courtland Sutton (defended by Cameron Sutton),5.14,4.38,15.0,2023,212
+3.0,2:15,2.0,9.0,DET 9,7.0,28.0,Russell Wilson pass complete short right to Jaleel McLaughlin for 8 yards (tackle by Jalen Reeves-Maybin and Alex Anzalone),4.38,5.17,15.0,2023,212
+3.0,1:31,3.0,1.0,DET 1,7.0,28.0,Javonte Williams left end for no gain (tackle by Derrick Barnes and Alex Anzalone),5.17,3.55,15.0,2023,212
+3.0,0:51,4.0,1.0,DET 1,7.0,28.0,"Michael Burton up the middle for no gain, touchdown. Penalty on Quinn Meinerz: Offensive Offside, 4 yards (accepted) (no play)",3.55,3.01,15.0,2023,212
+3.0,0:46,4.0,5.0,DET 5,10.0,28.0,Wil Lutz 23 yard field goal good,3.01,3.0,15.0,2023,212
+3.0,0:43,,,DEN 35,10.0,28.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,212
+3.0,0:43,1.0,10.0,DET 25,10.0,28.0,David Montgomery right end for 7 yards (tackle by Jonathan Harris),0.61,1.01,15.0,2023,212
+4.0,15:00,2.0,3.0,DET 32,10.0,28.0,Jared Goff pass complete short right to Jameson Williams for 14 yards (tackle by Fabian Moreau),1.01,1.99,15.0,2023,212
+4.0,14:18,1.0,10.0,DET 46,10.0,28.0,David Montgomery left tackle for 4 yards (tackle by Alex Singleton),1.99,1.99,15.0,2023,212
+4.0,13:39,2.0,6.0,DEN 50,10.0,28.0,David Montgomery up the middle for 9 yards (tackle by Josey Jewell and Alex Singleton),1.99,2.85,15.0,2023,212
+4.0,13:04,1.0,10.0,DEN 41,10.0,28.0,"Jared Goff pass incomplete deep left intended for Josh Reynolds. Penalty on Fabian Moreau: Defensive Pass Interference, 16 yards (accepted) (no play)",2.85,3.91,15.0,2023,212
+4.0,12:58,1.0,10.0,DEN 25,10.0,28.0,David Montgomery left tackle for 13 yards (tackle by Josey Jewell and Alex Singleton),3.91,4.78,15.0,2023,212
+4.0,12:17,1.0,10.0,DEN 12,10.0,34.0,"Jahmyr Gibbs left end for 12 yards, touchdown",4.78,7.0,15.0,2023,212
+4.0,12:12,,,DEN 15,10.0,35.0,Michael Badgley kicks extra point good,0.0,0.0,15.0,2023,212
+4.0,12:12,,,DET 35,10.0,35.0,"Jack Fox kicks off 65 yards, touchback.",0.0,0.61,15.0,2023,212
+4.0,12:12,1.0,10.0,DEN 25,10.0,35.0,Russell Wilson scrambles right end for 1 yard (tackle by Alex Anzalone),0.61,0.2,15.0,2023,212
+4.0,11:42,2.0,9.0,DEN 26,10.0,35.0,Russell Wilson pass complete deep middle to Lucas Krull for 18 yards (tackle by Kerby Joseph),0.2,1.86,15.0,2023,212
+4.0,11:18,1.0,10.0,DEN 44,10.0,35.0,Russell Wilson pass incomplete short right intended for Lucas Krull (defended by Alex Anzalone),1.86,1.32,15.0,2023,212
+4.0,11:15,2.0,10.0,DEN 44,10.0,35.0,Russell Wilson pass incomplete deep right intended for Jerry Jeudy,1.32,0.63,15.0,2023,212
+4.0,11:10,3.0,10.0,DEN 44,10.0,35.0,Russell Wilson pass incomplete deep left intended for Marvin Mims (defended by Kindle Vildor),0.63,-0.46,15.0,2023,212
+4.0,11:05,4.0,10.0,DEN 44,10.0,35.0,"Riley Dixon punts 48 yards, fair catch by Kalif Raymond at DET-8. Penalty on Tremon Smith: Unnecessary Roughness / Offense, 15 yards (accepted)",-0.46,-0.48,15.0,2023,212
+4.0,10:59,1.0,10.0,DET 23,10.0,35.0,Jared Goff pass incomplete short right intended for Sam LaPorta,0.48,-0.07,15.0,2023,212
+4.0,10:54,2.0,10.0,DET 23,10.0,35.0,Jahmyr Gibbs right end for -1 yards (tackle by Justin Simmons),-0.07,-0.89,15.0,2023,212
+4.0,10:08,3.0,11.0,DET 22,10.0,35.0,Jared Goff sacked by Jonathon Cooper for -8 yards,-0.89,-2.47,15.0,2023,212
+4.0,9:29,4.0,19.0,DET 14,10.0,35.0,Jack Fox punts 48 yards downed by Malcolm Rodriguez,-2.47,-1.47,15.0,2023,212
+4.0,9:18,1.0,10.0,DEN 38,10.0,35.0,Russell Wilson pass complete short middle to Samaje Perine for 11 yards (tackle by Alex Anzalone),1.47,2.19,15.0,2023,212
+4.0,8:46,1.0,10.0,DEN 49,10.0,35.0,Russell Wilson pass complete short middle to Jerry Jeudy for 15 yards (tackle by Ifeatu Melifonwu),2.19,3.18,15.0,2023,212
+4.0,8:12,1.0,10.0,DET 36,10.0,35.0,Russell Wilson pass complete short middle to Courtland Sutton for 14 yards (tackle by Derrick Barnes),3.18,4.11,15.0,2023,212
+4.0,7:48,1.0,10.0,DET 22,10.0,35.0,Russell Wilson pass incomplete short left intended for Lil'Jordan Humphrey,4.11,3.56,15.0,2023,212
+4.0,7:45,2.0,10.0,DET 22,10.0,35.0,Russell Wilson pass complete short right to Lil'Jordan Humphrey for 8 yards (tackle by Khalil Dorsey),3.56,4.15,15.0,2023,212
+4.0,7:21,3.0,2.0,DET 14,10.0,35.0,Russell Wilson right tackle for 1 yard (tackle by Aidan Hutchinson),4.15,2.72,15.0,2023,212
+4.0,6:51,4.0,1.0,DET 13,10.0,35.0,Samaje Perine up the middle for 12 yards (tackle by Kerby Joseph),2.72,6.97,15.0,2023,212
+4.0,6:31,1.0,1.0,DET 1,16.0,35.0,"Russell Wilson up the middle for 1 yard, touchdown",6.97,7.0,15.0,2023,212
+4.0,6:28,,,DET 15,17.0,35.0,Wil Lutz kicks extra point good,0.0,0.0,15.0,2023,212
+4.0,6:28,,,DEN 35,17.0,35.0,"Wil Lutz kicks onside 9 yards, returned by Malcolm Rodriguez for no gain",0.0,2.65,15.0,2023,212
+4.0,6:27,1.0,10.0,DEN 44,17.0,35.0,David Montgomery left tackle for 2 yards (tackle by Josey Jewell and D.J. Jones),2.65,2.38,15.0,2023,212
+4.0,5:42,2.0,8.0,DEN 42,17.0,35.0,Jared Goff pass complete short left to Amon-Ra St. Brown for 10 yards (tackle by Josey Jewell),2.38,3.45,15.0,2023,212
+4.0,5:00,1.0,10.0,DEN 32,17.0,35.0,David Montgomery right tackle for 5 yards (tackle by Jonathon Cooper),3.45,3.58,15.0,2023,212
+4.0,4:55,,,,,,Timeout #2 by Denver Broncos,,,15.0,2023,212
+4.0,4:55,2.0,5.0,DEN 27,17.0,35.0,Jahmyr Gibbs left end for 9 yards (tackle by Fabian Moreau),3.58,4.37,15.0,2023,212
+4.0,4:42,,,,,,Timeout #3 by Denver Broncos,,,15.0,2023,212
+4.0,4:42,1.0,10.0,DEN 18,17.0,35.0,David Montgomery up the middle for 2 yards (tackle by Mike Purcell and Jonathan Harris),4.37,4.09,15.0,2023,212
+4.0,3:58,2.0,8.0,DEN 16,17.0,35.0,David Montgomery left tackle for 2 yards (tackle by Mike Purcell and Ja'Quan McMillian),4.09,3.63,15.0,2023,212
+4.0,3:13,3.0,6.0,DEN 14,17.0,35.0,Jahmyr Gibbs left tackle for 4 yards (tackle by Patrick Surtain and Drew Sanders),3.63,2.89,15.0,2023,212
+4.0,2:26,,,,,,Timeout #1 by Detroit Lions,,,15.0,2023,212
+4.0,2:26,4.0,2.0,DEN 10,17.0,41.0,"Jared Goff pass complete short middle to Sam LaPorta for 10 yards, touchdown",2.89,7.0,15.0,2023,212
+4.0,2:21,,,DEN 15,17.0,42.0,Michael Badgley kicks extra point good,0.0,0.0,15.0,2023,212
+4.0,2:21,,,DET 35,17.0,42.0,"Jack Fox kicks off 59 yards, returned by Marvin Mims for 15 yards (tackle by Ifeatu Melifonwu)",0.0,0.34,15.0,2023,212
+4.0,2:15,1.0,10.0,DEN 21,17.0,42.0,Javonte Williams right tackle for 4 yards (tackle by Isaiah Buggs and Aidan Hutchinson),0.34,0.34,15.0,2023,212
+4.0,2:00,2.0,6.0,DEN 25,17.0,42.0,Javonte Williams left tackle for 8 yards (tackle by Alex Anzalone),0.34,1.14,15.0,2023,212
+4.0,1:25,1.0,10.0,DEN 33,17.0,42.0,Samaje Perine up the middle for 5 yards (tackle by Ifeatu Melifonwu),1.14,1.27,15.0,2023,212
+4.0,0:46,2.0,5.0,DEN 38,17.0,42.0,Samaje Perine right end for 9 yards (tackle by Alex Anzalone and Brodric Martin),1.27,2.06,15.0,2023,212

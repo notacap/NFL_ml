@@ -1,0 +1,173 @@
+Quarter,Time,Down,ToGo,Location,SEA,LAR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Seahawks won the coin toss and deferred, Rams to receive the opening kickoff.",,,11.0,2023,161
+1.0,15:00,,,SEA 35,0.0,0.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,161
+1.0,15:00,1.0,10.0,LAR 25,0.0,0.0,Darrell Henderson right tackle for 2 yards (tackle by Tre Brown),0.61,0.33,11.0,2023,161
+1.0,14:22,2.0,8.0,LAR 27,0.0,0.0,Matthew Stafford sacked by Devon Witherspoon for -5 yards,0.33,-1.02,11.0,2023,161
+1.0,13:56,3.0,13.0,LAR 22,0.0,0.0,Matthew Stafford pass complete short left to Darrell Henderson for 8 yards (tackle by Riq Woolen and Devon Witherspoon),-1.02,-1.37,11.0,2023,161
+1.0,13:14,4.0,5.0,LAR 30,0.0,0.0,"Ethan Evans punts 58 yards, fair catch by DeeJay Dallas at SEA-12",-1.37,0.35,11.0,2023,161
+1.0,13:06,1.0,10.0,SEA 12,0.0,0.0,Kenneth Walker up the middle for 6 yards (tackle by Ahkello Witherspoon),-0.35,-0.07,11.0,2023,161
+1.0,12:33,2.0,4.0,SEA 18,0.0,0.0,Geno Smith pass complete short right to Kenneth Walker for -2 yards (tackle by Michael Hoecht),-0.07,-0.95,11.0,2023,161
+1.0,11:51,3.0,6.0,SEA 16,0.0,0.0,"Geno Smith pass complete short left to Tyler Lockett for 9 yards (tackle by Derion Kendrick). Penalty on Derion Kendrick: Unnecessary Roughness / Defense, 15 yards (accepted)",-0.95,1.6,11.0,2023,161
+1.0,11:19,1.0,10.0,SEA 40,0.0,0.0,Kenneth Walker right tackle for 1 yard (tackle by Derion Kendrick),1.6,1.19,11.0,2023,161
+1.0,10:41,2.0,9.0,SEA 41,0.0,0.0,Geno Smith pass complete short right to Jake Bobo for 8 yards (tackle by Quentin Lake and Ernest Jones),1.19,1.55,11.0,2023,161
+1.0,10:02,3.0,1.0,SEA 49,0.0,0.0,Zach Charbonnet up the middle for 3 yards (tackle by Ernest Jones and Jordan Fuller),1.55,2.39,11.0,2023,161
+1.0,9:18,1.0,10.0,LAR 48,0.0,0.0,Kenneth Walker left tackle for 5 yards (tackle by Quentin Lake),2.39,2.52,11.0,2023,161
+1.0,8:44,2.0,5.0,LAR 43,0.0,0.0,"Geno Smith pass complete to Jaxon Smith-Njigba for 23 yards LAR challenged the runner was in bounds ruling, and the original play was overturned. Geno Smith pass incomplete deep left intended for Jaxon Smith-Njigba",2.52,1.82,11.0,2023,161
+1.0,8:33,3.0,5.0,LAR 43,0.0,0.0,Geno Smith pass complete short middle to Jaxon Smith-Njigba for 9 yards (tackle by Quentin Lake),1.82,3.31,11.0,2023,161
+1.0,7:57,1.0,10.0,LAR 34,0.0,0.0,Kenneth Walker up the middle for 6 yards (tackle by Byron Young),3.31,3.58,11.0,2023,161
+1.0,7:08,2.0,4.0,LAR 28,0.0,0.0,Geno Smith pass complete short right to D.K. Metcalf for 7 yards (tackle by Derion Kendrick),3.58,4.17,11.0,2023,161
+1.0,6:33,1.0,10.0,LAR 21,0.0,0.0,Geno Smith pass complete short right to Tyler Lockett for 11 yards (tackle by Quentin Lake),4.17,4.91,11.0,2023,161
+1.0,5:59,1.0,10.0,LAR 10,0.0,0.0,Zach Charbonnet up the middle for 2 yards (tackle by Jonah Williams and Michael Hoecht),4.91,4.57,11.0,2023,161
+1.0,5:23,2.0,8.0,LAR 8,6.0,0.0,"Geno Smith pass complete short right to D.K. Metcalf for 8 yards, touchdown",4.57,7.0,11.0,2023,161
+1.0,5:20,,,LAR 15,7.0,0.0,Jason Myers kicks extra point good,0.0,0.0,11.0,2023,161
+1.0,5:20,,,SEA 35,7.0,0.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,161
+1.0,5:20,1.0,10.0,LAR 25,7.0,0.0,"Penalty on Jarran Reed: Encroachment, 5 yards (accepted) (no play)",0.61,1.34,11.0,2023,161
+1.0,5:20,1.0,5.0,LAR 30,7.0,0.0,"Matthew Stafford pass incomplete deep middle intended for Tutu Atwell. Penalty on Julian Love: Defensive Pass Interference, 45 yards (accepted) (no play)",1.34,3.91,11.0,2023,161
+1.0,5:11,1.0,10.0,SEA 25,7.0,0.0,Matthew Stafford pass incomplete short middle intended for Tyler Higbee (defended by Jarran Reed),3.91,3.36,11.0,2023,161
+1.0,5:08,2.0,10.0,SEA 25,7.0,0.0,"Matthew Stafford pass complete short right to Cooper Kupp for no gain. Penalty on Cooper Kupp: Offensive Pass Interference, 10 yards (accepted) (no play)",3.36,2.01,11.0,2023,161
+1.0,4:38,2.0,20.0,SEA 35,7.0,0.0,"Matthew Stafford pass incomplete deep right intended for Cooper Kupp. Penalty on Leonard Williams: Defensive Offside, 5 yards (accepted) (no play)",2.01,2.69,11.0,2023,161
+1.0,4:28,2.0,15.0,SEA 30,7.0,0.0,Matthew Stafford pass complete short middle to Cooper Kupp for 11 yards (tackle by Devon Witherspoon and Darrell Taylor),2.69,3.49,11.0,2023,161
+1.0,3:43,3.0,4.0,SEA 19,7.0,0.0,"Matthew Stafford pass incomplete deep left intended for Tutu Atwell. Penalty on Riq Woolen: Defensive Pass Interference, 14 yards (accepted) (no play)",3.49,6.06,11.0,2023,161
+1.0,3:37,1.0,5.0,SEA 5,7.0,0.0,Royce Freeman up the middle for 3 yards (tackle by Cameron Young and Quandre Diggs),6.06,5.72,11.0,2023,161
+1.0,3:20,2.0,2.0,SEA 2,7.0,0.0,Royce Freeman up the middle for no gain (tackle by Darrell Taylor),5.72,4.95,11.0,2023,161
+1.0,2:44,3.0,2.0,SEA 2,7.0,0.0,Royce Freeman left end for no gain (tackle by Bobby Wagner),4.95,3.25,11.0,2023,161
+1.0,2:06,4.0,2.0,SEA 2,7.0,0.0,Matthew Stafford pass incomplete short middle intended for Tutu Atwell,3.25,0.38,11.0,2023,161
+1.0,2:00,1.0,10.0,SEA 2,7.0,0.0,Zach Charbonnet up the middle for 5 yards (tackle by Michael Hoecht),-0.38,-0.42,11.0,2023,161
+1.0,1:34,2.0,5.0,SEA 7,7.0,0.0,"Penalty on Noah Fant: False Start, 3 yards (accepted) (no play)",-0.42,-0.63,11.0,2023,161
+1.0,1:34,2.0,8.0,SEA 4,7.0,0.0,Geno Smith pass complete short middle to Will Dissly for 9 yards (tackle by Ernest Jones),-0.63,-0.32,11.0,2023,161
+1.0,0:40,1.0,10.0,SEA 13,7.0,0.0,Zach Charbonnet up the middle for 1 yard (tackle by Byron Young and Kobie Turner),-0.32,-0.68,11.0,2023,161
+2.0,15:00,2.0,9.0,SEA 14,7.0,0.0,Zach Charbonnet up the middle for 11 yards (tackle by Michael Hoecht),-0.68,0.61,11.0,2023,161
+2.0,14:24,1.0,10.0,SEA 25,7.0,0.0,Geno Smith pass incomplete deep left intended for D.K. Metcalf (defended by Derion Kendrick),0.61,0.06,11.0,2023,161
+2.0,14:17,2.0,10.0,SEA 25,7.0,0.0,Geno Smith pass complete short right to Zach Charbonnet for no gain (tackle by Michael Hoecht),0.06,-0.62,11.0,2023,161
+2.0,13:33,,,,,,Timeout #1 by Seattle Seahawks,,,11.0,2023,161
+2.0,13:33,3.0,10.0,SEA 25,7.0,0.0,Geno Smith pass complete deep middle to Jaxon Smith-Njigba for 32 yards (tackle by Jordan Fuller),-0.62,2.72,11.0,2023,161
+2.0,12:52,1.0,10.0,LAR 43,7.0,0.0,DeeJay Dallas up the middle for 4 yards (tackle by Jordan Fuller and Ernest Jones),2.72,2.72,11.0,2023,161
+2.0,12:21,2.0,6.0,LAR 39,7.0,0.0,Zach Charbonnet left end for 5 yards (tackle by Quentin Lake and Keir Thomas),2.72,2.68,11.0,2023,161
+2.0,11:38,3.0,1.0,LAR 34,7.0,0.0,Geno Smith pass incomplete deep right intended for D'Wayne Eskridge,2.68,1.1,11.0,2023,161
+2.0,11:30,4.0,1.0,LAR 34,7.0,0.0,Zach Charbonnet up the middle for 8 yards (tackle by Quentin Lake),1.1,3.84,11.0,2023,161
+2.0,10:48,1.0,10.0,LAR 26,7.0,0.0,"Geno Smith pass complete short middle to Jake Bobo for no gain. Penalty on Jake Bobo: Illegal Shift, 5 yards (accepted) (no play)",3.84,3.51,11.0,2023,161
+2.0,10:13,1.0,15.0,LAR 31,7.0,0.0,"Penalty on SEA: Delay of Game, 5 yards (accepted) (no play)",3.51,3.18,11.0,2023,161
+2.0,9:54,1.0,20.0,LAR 36,7.0,0.0,Geno Smith pass complete short left to Zach Charbonnet for -2 yards (tackle by Ahkello Witherspoon),3.18,1.68,11.0,2023,161
+2.0,9:17,2.0,22.0,LAR 38,7.0,0.0,Geno Smith pass incomplete short left intended for Jake Bobo (defended by John Johnson),1.68,1.03,11.0,2023,161
+2.0,9:09,3.0,22.0,LAR 38,7.0,0.0,Zach Charbonnet up the middle for 2 yards (tackle by Kobie Turner),1.03,0.88,11.0,2023,161
+2.0,8:31,4.0,20.0,LAR 36,10.0,0.0,Jason Myers 54 yard field goal good,0.88,3.0,11.0,2023,161
+2.0,8:26,,,SEA 35,10.0,0.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,161
+2.0,8:26,1.0,10.0,LAR 25,10.0,0.0,Matthew Stafford pass incomplete short right intended for Darrell Henderson (defended by Julian Love),0.61,0.06,11.0,2023,161
+2.0,8:18,2.0,10.0,LAR 25,10.0,0.0,Matthew Stafford pass incomplete short left intended for Tyler Higbee,0.06,-0.62,11.0,2023,161
+2.0,8:13,3.0,10.0,LAR 25,10.0,0.0,Matthew Stafford pass incomplete short right,-0.62,-1.7,11.0,2023,161
+2.0,8:07,4.0,10.0,LAR 25,10.0,0.0,"Ethan Evans punts 56 yards, returned by DeeJay Dallas for 13 yards (tackle by Ben Skowronek and Troy Reeder)",-1.7,-1.07,11.0,2023,161
+2.0,7:54,1.0,10.0,SEA 32,10.0,0.0,Geno Smith pass complete short left to Zach Charbonnet for 8 yards (tackle by Kobie Turner),1.07,1.61,11.0,2023,161
+2.0,7:14,2.0,2.0,SEA 40,10.0,0.0,Geno Smith pass complete deep left to D.K. Metcalf for 53 yards (tackle by Jordan Fuller),1.61,5.6,11.0,2023,161
+2.0,6:25,1.0,7.0,LAR 7,10.0,0.0,Zach Charbonnet right tackle for 2 yards (tackle by Ernest Jones and Jonah Williams),5.6,5.15,11.0,2023,161
+2.0,5:45,2.0,5.0,LAR 5,10.0,0.0,Zach Charbonnet left end for -6 yards (tackle by Aaron Donald),5.15,3.12,11.0,2023,161
+2.0,4:52,3.0,11.0,LAR 11,10.0,0.0,"Geno Smith pass incomplete short left. Penalty on Geno Smith: Intentional Grounding, 14 yards (accepted)",3.12,1.8,11.0,2023,161
+2.0,4:52,4.0,25.0,LAR 25,13.0,0.0,Jason Myers 43 yard field goal good,1.8,3.0,11.0,2023,161
+2.0,4:48,,,SEA 35,13.0,0.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,161
+2.0,4:48,1.0,10.0,LAR 25,13.0,0.0,Royce Freeman right end for 6 yards (tackle by Quandre Diggs),0.61,0.87,11.0,2023,161
+2.0,4:06,2.0,4.0,LAR 31,13.0,0.0,Royce Freeman left end for 15 yards (tackle by Quandre Diggs),0.87,1.99,11.0,2023,161
+2.0,3:25,1.0,10.0,LAR 46,13.0,0.0,Matthew Stafford pass complete short left to Austin Trammell for 14 yards (tackle by Riq Woolen),1.99,2.92,11.0,2023,161
+2.0,2:47,1.0,10.0,SEA 40,13.0,0.0,Royce Freeman up the middle for 3 yards (tackle by Mario Edwards),2.92,2.78,11.0,2023,161
+2.0,2:00,2.0,7.0,SEA 37,13.0,0.0,Matthew Stafford pass complete short left to Austin Trammell for 12 yards (tackle by Julian Love and Riq Woolen),2.78,3.91,11.0,2023,161
+2.0,1:23,1.0,10.0,SEA 25,13.0,0.0,Matthew Stafford pass complete short right to Tutu Atwell for 17 yards (tackle by Quandre Diggs),3.91,5.37,11.0,2023,161
+2.0,1:09,1.0,8.0,SEA 8,13.0,0.0,Royce Freeman left guard for 3 yards (tackle by Jarran Reed and Bobby Wagner),5.37,5.15,11.0,2023,161
+2.0,0:49,,,,,,Timeout #2 by Seattle Seahawks,,,11.0,2023,161
+2.0,0:49,2.0,5.0,SEA 5,13.0,0.0,Matthew Stafford pass complete short right to Demarcus Robinson for 1 yard (tackle by Devon Witherspoon),5.15,4.49,11.0,2023,161
+2.0,0:12,,,,,,Timeout #1 by Los Angeles Rams,,,11.0,2023,161
+2.0,0:12,3.0,4.0,SEA 4,13.0,6.0,"Matthew Stafford pass complete short right to Puka Nacua for 4 yards, touchdown",4.49,7.0,11.0,2023,161
+2.0,0:09,,,SEA 15,13.0,7.0,Lucas Havrisik kicks extra point good,0.0,0.0,11.0,2023,161
+2.0,0:09,,,LAR 35,13.0,7.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,161
+2.0,0:09,1.0,10.0,SEA 25,13.0,7.0,Geno Smith kneels for -1 yards,0.61,-0.07,11.0,2023,161
+3.0,15:00,,,LAR 35,13.0,7.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,161
+3.0,15:00,1.0,10.0,SEA 25,13.0,7.0,Geno Smith pass incomplete short middle intended for Will Dissly,0.61,0.06,11.0,2023,161
+3.0,14:54,2.0,10.0,SEA 25,13.0,7.0,Geno Smith pass complete short right to Tyler Lockett for 8 yards (tackle by John Johnson),0.06,0.43,11.0,2023,161
+3.0,14:15,3.0,2.0,SEA 33,13.0,7.0,Geno Smith pass incomplete short middle intended for Noah Fant (defended by Russ Yeast),0.43,-1.18,11.0,2023,161
+3.0,14:10,4.0,2.0,SEA 33,13.0,7.0,"Michael Dickson punts 62 yards, returned by Austin Trammell for 12 yards (tackle by Julian Love and Devin Bush)",-1.18,0.06,11.0,2023,161
+3.0,13:57,1.0,10.0,LAR 17,13.0,7.0,Zach Evans right end for no gain (tackle by Bobby Wagner and Jarran Reed),-0.06,-0.58,11.0,2023,161
+3.0,13:30,2.0,10.0,LAR 17,13.0,7.0,Matthew Stafford scrambles right end for 3 yards (tackle by Julian Love),-0.58,-0.87,11.0,2023,161
+3.0,12:46,3.0,7.0,LAR 20,13.0,7.0,"Matthew Stafford pass complete short middle to Puka Nacua for no gain. Penalty on Rob Havenstein: Offensive Holding, 10 yards (accepted) (no play)",-0.87,-2.24,11.0,2023,161
+3.0,12:19,3.0,17.0,LAR 10,13.0,7.0,Matthew Stafford pass incomplete short left intended for Austin Trammell (defended by Boye Mafe),-2.24,-2.49,11.0,2023,161
+3.0,12:11,4.0,17.0,LAR 10,13.0,7.0,"Ethan Evans punts 51 yards downed by Duke Shelley. Penalty on Duke Shelley: Kick Catch Interference, 15 yards (accepted)",-2.49,-2.52,11.0,2023,161
+3.0,11:59,1.0,10.0,LAR 46,13.0,7.0,Zach Charbonnet left guard for 4 yards (tackle by Ernest Jones),2.52,2.52,11.0,2023,161
+3.0,11:23,2.0,6.0,LAR 42,13.0,7.0,Geno Smith sacked by and Ernest Jones for -5 yards and Bobby Brown for -5 yards,2.52,1.16,11.0,2023,161
+3.0,10:42,3.0,11.0,LAR 47,13.0,7.0,Geno Smith pass complete short left to DeeJay Dallas for 10 yards (tackle by Michael Hoecht),1.16,0.79,11.0,2023,161
+3.0,9:57,4.0,1.0,LAR 37,13.0,7.0,Geno Smith pass complete short right to Zach Charbonnet for 9 yards (tackle by Ernest Jones),0.79,3.71,11.0,2023,161
+3.0,9:28,1.0,10.0,LAR 28,13.0,7.0,Geno Smith pass incomplete deep left intended for D.K. Metcalf,3.71,3.17,11.0,2023,161
+3.0,9:23,2.0,10.0,LAR 28,13.0,7.0,"Zach Charbonnet right end for no gain. Penalty on Colby Parkinson: Offensive Holding, 10 yards (accepted) (no play)",3.17,1.82,11.0,2023,161
+3.0,8:49,2.0,20.0,LAR 38,13.0,7.0,Geno Smith pass complete short left to D.K. Metcalf for 5 yards (tackle by John Johnson),1.82,1.82,11.0,2023,161
+3.0,8:11,3.0,15.0,LAR 33,13.0,7.0,Geno Smith pass incomplete short left intended for Tyler Lockett (defended by Christian Rozeboom),1.82,1.15,11.0,2023,161
+3.0,8:08,4.0,15.0,LAR 33,16.0,7.0,Jason Myers 52 yard field goal good,1.15,3.0,11.0,2023,161
+3.0,8:03,,,SEA 35,16.0,7.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,161
+3.0,8:03,1.0,10.0,LAR 25,16.0,7.0,Matthew Stafford pass complete short left to Puka Nacua for 12 yards (tackle by Julian Love),0.61,1.4,11.0,2023,161
+3.0,7:24,1.0,10.0,LAR 37,16.0,7.0,Darrell Henderson right end for -3 yards (tackle by Tre Brown),1.4,0.45,11.0,2023,161
+3.0,7:00,2.0,13.0,LAR 34,16.0,7.0,Matthew Stafford pass incomplete short left,0.45,-0.23,11.0,2023,161
+3.0,6:49,3.0,13.0,LAR 34,16.0,7.0,Matthew Stafford pass complete short left to Darrell Henderson for 3 yards (tackle by Devon Witherspoon),-0.23,-0.91,11.0,2023,161
+3.0,6:09,4.0,10.0,LAR 37,16.0,7.0,Ethan Evans punts 33 yards downed by Ben Skowronek,-0.91,-0.94,11.0,2023,161
+3.0,5:59,1.0,10.0,SEA 30,16.0,7.0,Geno Smith pass complete short left to Tyler Lockett for 10 yards (tackle by Quentin Lake),0.94,1.6,11.0,2023,161
+3.0,5:20,1.0,10.0,SEA 40,16.0,7.0,Zach Charbonnet up the middle for 4 yards (tackle by Troy Reeder and Ernest Jones),1.6,1.59,11.0,2023,161
+3.0,4:35,2.0,6.0,SEA 44,16.0,7.0,Geno Smith sacked by Jonah Williams for -8 yards,1.59,-0.16,11.0,2023,161
+3.0,3:59,3.0,14.0,SEA 36,16.0,7.0,Geno Smith pass complete short left to Zach Charbonnet for 5 yards (tackle by Kobie Turner and Ernest Jones),-0.16,-0.65,11.0,2023,161
+3.0,3:17,4.0,9.0,SEA 41,16.0,7.0,"Michael Dickson punts 50 yards, returned by Austin Trammell for no gain (tackle by Nick Bellore and Derick Hall). Penalty on Ben Skowronek: Offensive Holding, 4 yards (accepted)",-0.65,0.38,11.0,2023,161
+3.0,3:05,1.0,10.0,LAR 5,16.0,7.0,Royce Freeman right guard for 7 yards (tackle by Quandre Diggs and Frank Clark),-0.38,-0.27,11.0,2023,161
+3.0,2:27,2.0,3.0,LAR 12,16.0,7.0,Royce Freeman up the middle for 3 yards (tackle by Bobby Wagner),-0.27,-0.22,11.0,2023,161
+3.0,1:51,1.0,10.0,LAR 15,16.0,7.0,"Royce Freeman right end for 2 yards (tackle by Quandre Diggs). Penalty on Puka Nacua: Offensive Holding, 8 yards (accepted)",-0.22,-0.61,11.0,2023,161
+3.0,1:21,1.0,16.0,LAR 9,16.0,7.0,Matthew Stafford pass incomplete deep right intended for Darrell Henderson,-0.61,-1.22,11.0,2023,161
+3.0,1:16,2.0,16.0,LAR 9,16.0,7.0,Matthew Stafford pass incomplete short middle intended for Puka Nacua (defended by Devon Witherspoon),-1.22,-2.12,11.0,2023,161
+3.0,1:13,3.0,16.0,LAR 9,16.0,7.0,Royce Freeman up the middle for 2 yards (tackle by Frank Clark and Bobby Wagner),-2.12,-2.49,11.0,2023,161
+3.0,0:37,4.0,14.0,LAR 11,16.0,7.0,"Ethan Evans punts 65 yards, returned by DeeJay Dallas for 12 yards (tackle by Ben Skowronek)",-2.49,-1.33,11.0,2023,161
+3.0,0:25,1.0,10.0,SEA 36,16.0,7.0,Geno Smith pass incomplete short left intended for D.K. Metcalf (defended by Aaron Donald),1.33,0.79,11.0,2023,161
+3.0,0:18,2.0,10.0,SEA 36,16.0,7.0,Zach Charbonnet right tackle for 1 yard (tackle by Jonah Williams and Ernest Jones),0.79,0.23,11.0,2023,161
+4.0,15:00,3.0,9.0,SEA 37,16.0,7.0,Drew Lock pass incomplete deep middle intended for Jaxon Smith-Njigba,0.23,-0.91,11.0,2023,161
+4.0,14:55,4.0,9.0,SEA 37,16.0,7.0,"Michael Dickson punts 46 yards, returned by Austin Trammell for 15 yards (tackle by Julian Love)",-0.91,-1.07,11.0,2023,161
+4.0,14:44,1.0,10.0,LAR 32,16.0,7.0,"Matthew Stafford pass complete short right to Austin Trammell for -3 yards (tackle by Devon Witherspoon). Penalty on Devon Witherspoon: Unnecessary Roughness / Defense, 15 yards (accepted)",1.07,1.86,11.0,2023,161
+4.0,14:11,1.0,10.0,LAR 44,16.0,7.0,Matthew Stafford pass deep left intended for Austin Trammell is intercepted by Riq Woolen at SEA-20 and returned for no gain (tackle by Austin Trammell),1.86,-0.28,11.0,2023,161
+4.0,13:57,1.0,10.0,SEA 20,16.0,7.0,Drew Lock pass complete short right to Noah Fant for 4 yards (tackle by Jordan Fuller),0.28,0.27,11.0,2023,161
+4.0,13:28,2.0,6.0,SEA 24,16.0,7.0,Zach Charbonnet up the middle for 3 yards (tackle by Bobby Brown),0.27,-0.03,11.0,2023,161
+4.0,12:41,3.0,3.0,SEA 27,16.0,7.0,Drew Lock pass incomplete deep left intended for Jaxon Smith-Njigba,-0.03,-1.57,11.0,2023,161
+4.0,12:34,4.0,3.0,SEA 27,16.0,7.0,"Michael Dickson punts 44 yards, returned by Austin Trammell for 3 yards (tackle by Julian Love and DeeJay Dallas)",-1.57,-1.07,11.0,2023,161
+4.0,12:23,1.0,10.0,LAR 32,16.0,7.0,Matthew Stafford pass complete deep middle to Demarcus Robinson for 23 yards (tackle by Quandre Diggs),1.07,2.59,11.0,2023,161
+4.0,11:47,1.0,10.0,SEA 45,16.0,7.0,Royce Freeman up the middle for 4 yards (tackle by Bobby Wagner),2.59,2.58,11.0,2023,161
+4.0,11:12,2.0,6.0,SEA 41,16.0,7.0,Matthew Stafford pass complete short left to Darrell Henderson for 14 yards (tackle by Devon Witherspoon and Quandre Diggs),2.58,3.78,11.0,2023,161
+4.0,10:40,1.0,10.0,SEA 27,16.0,7.0,Darrell Henderson right tackle for 4 yards (tackle by Tre Brown and Devon Witherspoon),3.78,3.77,11.0,2023,161
+4.0,10:00,2.0,6.0,SEA 23,16.0,7.0,Matthew Stafford pass complete short right to Tyler Higbee for 17 yards (tackle by Leonard Williams),3.77,5.83,11.0,2023,161
+4.0,9:11,1.0,6.0,SEA 6,16.0,7.0,"Matthew Stafford pass complete short right to Darrell Henderson for no gain, touchdown. Penalty on Tyler Higbee: Offensive Pass Interference, 10 yards (accepted) (no play)",5.83,4.31,11.0,2023,161
+4.0,8:54,1.0,16.0,SEA 16,16.0,7.0,Matthew Stafford pass complete short right to Puka Nacua for 11 yards (tackle by Quandre Diggs),4.31,5.15,11.0,2023,161
+4.0,8:14,2.0,5.0,SEA 5,16.0,7.0,Matthew Stafford pass incomplete short middle intended for Darrell Henderson,5.15,4.26,11.0,2023,161
+4.0,8:09,3.0,5.0,SEA 5,16.0,7.0,"Matthew Stafford pass incomplete intended for Puka Nacua. Penalty on Devon Witherspoon: Defensive Pass Interference, 4 yards (accepted) (no play)",4.26,6.97,11.0,2023,161
+4.0,8:04,1.0,1.0,SEA 1,16.0,7.0,Darrell Henderson up the middle for no gain (tackle by Quandre Diggs and Jordyn Brooks),6.97,5.91,11.0,2023,161
+4.0,7:41,2.0,1.0,SEA 1,16.0,13.0,"Darrell Henderson up the middle for 1 yard, touchdown",5.91,7.0,11.0,2023,161
+4.0,7:38,,,SEA 15,16.0,14.0,Lucas Havrisik kicks extra point good,0.0,0.0,11.0,2023,161
+4.0,7:38,,,LAR 35,16.0,14.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,161
+4.0,7:38,1.0,10.0,SEA 25,16.0,14.0,Drew Lock pass incomplete short left intended for Will Dissly (defended by Derion Kendrick),0.61,0.06,11.0,2023,161
+4.0,7:34,2.0,10.0,SEA 25,16.0,14.0,Drew Lock pass complete short right to Jaxon Smith-Njigba for -1 yards (tackle by Christian Rozeboom and Byron Young),0.06,-0.76,11.0,2023,161
+4.0,6:43,3.0,11.0,SEA 24,16.0,14.0,Drew Lock pass deep left intended for Tyler Lockett is intercepted by Derion Kendrick at LA-36 and returned for no gain (tackle by Tyler Lockett),-0.76,-0.34,11.0,2023,161
+4.0,6:43,1.0,10.0,LAR 21,16.0,14.0,Matthew Stafford pass complete deep right to Puka Nacua for 32 yards (tackle by Bobby Wagner),0.34,2.46,11.0,2023,161
+4.0,5:57,1.0,10.0,SEA 47,16.0,14.0,Matthew Stafford pass incomplete short right intended for Austin Trammell,2.46,1.91,11.0,2023,161
+4.0,5:52,2.0,10.0,SEA 47,16.0,14.0,"Penalty on Coleman Shelton: False Start, 5 yards (accepted) (no play)",1.91,1.24,11.0,2023,161
+4.0,5:52,2.0,15.0,LAR 48,16.0,14.0,Matthew Stafford pass incomplete short left intended for Tutu Atwell,1.24,0.56,11.0,2023,161
+4.0,5:46,3.0,15.0,LAR 48,16.0,14.0,"Matthew Stafford pass incomplete intended for Puka Nacua. Penalty on Riq Woolen: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",0.56,2.46,11.0,2023,161
+4.0,5:41,1.0,10.0,SEA 47,16.0,14.0,Royce Freeman up the middle for 9 yards (tackle by Jordyn Brooks and Quandre Diggs),2.46,3.13,11.0,2023,161
+4.0,5:07,2.0,1.0,SEA 38,16.0,14.0,Royce Freeman up the middle for 9 yards (tackle by Julian Love),3.13,3.64,11.0,2023,161
+4.0,4:25,1.0,10.0,SEA 29,16.0,14.0,Darrell Henderson right end for -3 yards (tackle by Bobby Wagner and Dre'Mont Jones),3.64,2.7,11.0,2023,161
+4.0,3:36,,,,,,Timeout #1 by Los Angeles Rams,,,11.0,2023,161
+4.0,3:36,2.0,13.0,SEA 32,16.0,14.0,Matthew Stafford pass complete short middle to Puka Nacua for 11 yards (tackle by Bobby Wagner and Quandre Diggs),2.7,3.47,11.0,2023,161
+4.0,2:57,3.0,2.0,SEA 21,16.0,14.0,Royce Freeman up the middle for 3 yards (tackle by Bobby Wagner),3.47,4.37,11.0,2023,161
+4.0,2:13,1.0,10.0,SEA 18,16.0,14.0,Royce Freeman up the middle for 4 yards (tackle by Jordyn Brooks),4.37,4.43,11.0,2023,161
+4.0,2:00,2.0,6.0,SEA 14,16.0,14.0,Puka Nacua right end for 7 yards (tackle by Quandre Diggs),4.43,5.6,11.0,2023,161
+4.0,1:52,,,,,,Timeout #1 by Seattle Seahawks,,,11.0,2023,161
+4.0,1:52,1.0,7.0,SEA 7,16.0,14.0,Royce Freeman left tackle for no gain (tackle by Leonard Williams),5.6,4.76,11.0,2023,161
+4.0,1:47,,,,,,Timeout #2 by Seattle Seahawks,,,11.0,2023,161
+4.0,1:47,2.0,7.0,SEA 7,16.0,14.0,Matthew Stafford pass incomplete short left intended for Puka Nacua (defended by Riq Woolen),4.76,3.81,11.0,2023,161
+4.0,1:42,,,,,,Timeout #2 by Los Angeles Rams,,,11.0,2023,161
+4.0,1:42,3.0,7.0,SEA 7,16.0,14.0,Matthew Stafford pass complete short left to Darrell Henderson for 3 yards (tackle by Jarran Reed and Leonard Williams),3.81,3.03,11.0,2023,161
+4.0,1:34,,,,,,Timeout #3 by Seattle Seahawks,,,11.0,2023,161
+4.0,1:34,4.0,4.0,SEA 4,16.0,17.0,Lucas Havrisik 22 yard field goal good,3.03,3.0,11.0,2023,161
+4.0,1:31,,,LAR 35,16.0,17.0,"Ethan Evans kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,161
+4.0,1:31,1.0,10.0,SEA 25,16.0,17.0,Geno Smith pass complete short right to Tyler Lockett for 13 yards (tackle by Quentin Lake),0.61,1.47,11.0,2023,161
+4.0,1:14,1.0,10.0,SEA 38,16.0,17.0,Geno Smith pass incomplete short left intended for D.K. Metcalf,1.47,0.92,11.0,2023,161
+4.0,1:09,2.0,10.0,SEA 38,16.0,17.0,"Geno Smith pass complete short middle to Zach Charbonnet for 2 yards (tackle by Jordan Fuller) Replay Assistant challenged the pass completion ruling, and the play was upheld.",0.92,0.5,11.0,2023,161
+4.0,0:42,3.0,8.0,SEA 40,16.0,17.0,Geno Smith pass complete deep middle to D.K. Metcalf for 21 yards (tackle by John Johnson),0.5,2.98,11.0,2023,161
+4.0,0:24,1.0,10.0,LAR 39,16.0,17.0,Zach Charbonnet up the middle for 2 yards (tackle by Ernest Jones and Byron Young),2.98,2.71,11.0,2023,161
+4.0,0:09,2.0,8.0,LAR 37,16.0,17.0,Geno Smith spiked the ball,2.71,2.02,11.0,2023,161
+4.0,0:08,,,,,,Timeout #3 by Los Angeles Rams,,,11.0,2023,161
+4.0,0:08,3.0,8.0,LAR 37,16.0,17.0,Jason Myers 55 yard field goal no good,2.02,-1.93,11.0,2023,161
+4.0,0:03,1.0,10.0,LAR 45,16.0,17.0,Matthew Stafford kneels for -2 yards,1.93,1.11,11.0,2023,161

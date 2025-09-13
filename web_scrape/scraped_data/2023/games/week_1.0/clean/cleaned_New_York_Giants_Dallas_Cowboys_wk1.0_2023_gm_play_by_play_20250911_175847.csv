@@ -1,0 +1,163 @@
+Quarter,Time,Down,ToGo,Location,DAL,NYG,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Cowboys won the coin toss and deferred, Giants to receive the opening kickoff.",,,1.0,2023,15
+1.0,15:00,,,DAL 35,0.0,0.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,15
+1.0,15:00,1.0,10.0,NYG 25,0.0,0.0,Saquon Barkley left guard for 5 yards (tackle by Leighton Vander Esch and Malik Hooker),0.61,0.74,1.0,2023,15
+1.0,14:28,2.0,5.0,NYG 30,0.0,0.0,"Daniel Jones scrambles left end for 8 yards (tackle by Jayron Kearse). Penalty on Jayron Kearse: Unnecessary Roughness / Defense, 15 yards (accepted)",0.74,2.46,1.0,2023,15
+1.0,14:00,1.0,10.0,DAL 47,0.0,0.0,Daniel Jones pass complete short right to Saquon Barkley for no gain (tackle by Johnathan Hankins),2.46,1.91,1.0,2023,15
+1.0,13:28,2.0,10.0,DAL 47,0.0,0.0,Saquon Barkley right tackle for 9 yards (tackle by Micah Parsons and Malik Hooker),1.91,2.41,1.0,2023,15
+1.0,12:46,3.0,1.0,DAL 38,0.0,0.0,Saquon Barkley right end for 5 yards (tackle by Malik Hooker),2.41,3.38,1.0,2023,15
+1.0,12:04,1.0,10.0,DAL 33,0.0,0.0,Matt Breida right guard for 6 yards (tackle by Leighton Vander Esch),3.38,3.65,1.0,2023,15
+1.0,11:25,2.0,4.0,DAL 27,0.0,0.0,Daniel Jones scrambles right end for 11 yards (tackle by Malik Hooker),3.65,4.51,1.0,2023,15
+1.0,10:45,,,,,,Timeout #1 by New York Giants,,,1.0,2023,15
+1.0,10:45,1.0,10.0,DAL 16,0.0,0.0,Saquon Barkley up the middle for no gain (tackle by Juanyeh Thomas),4.51,3.9,1.0,2023,15
+1.0,10:06,2.0,10.0,DAL 16,0.0,0.0,Daniel Jones scrambles left tackle for 8 yards (tackle by Stephon Gilmore),3.9,4.62,1.0,2023,15
+1.0,9:17,3.0,2.0,DAL 8,0.0,0.0,"Penalty on Andrew Thomas: False Start, 5 yards (accepted) (no play)",4.62,3.54,1.0,2023,15
+1.0,8:52,3.0,7.0,DAL 13,0.0,0.0,"John Michael Schmitz aborted snap, recovered by Daniel Jones at DAL-13",3.54,1.67,1.0,2023,15
+1.0,8:14,4.0,21.0,DAL 27,6.0,0.0,"Graham Gano 45 yard field goal no good blocked by Juanyeh Thomas, touchdown",1.67,-7.0,1.0,2023,15
+1.0,8:03,,,NYG 15,6.0,0.0,Brandon Aubrey kicks extra point no good,0.0,-1.0,1.0,2023,15
+1.0,8:03,,,DAL 35,6.0,0.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,15
+1.0,8:03,1.0,10.0,NYG 25,6.0,0.0,Daniel Jones pass incomplete short right intended for Darius Slayton (defended by Dante Fowler),0.61,0.06,1.0,2023,15
+1.0,7:59,2.0,10.0,NYG 25,6.0,0.0,Daniel Jones pass incomplete short right intended for Darren Waller (defended by Juanyeh Thomas),0.06,-0.62,1.0,2023,15
+1.0,7:54,3.0,10.0,NYG 25,6.0,0.0,Daniel Jones sacked by Micah Parsons for -10 yards,-0.62,-2.44,1.0,2023,15
+1.0,7:18,4.0,20.0,NYG 15,6.0,0.0,Jamie Gillan punts 59 yards downed by Nick McCloud,-2.44,-0.67,1.0,2023,15
+1.0,7:06,1.0,10.0,DAL 26,6.0,0.0,Dak Prescott pass complete short right to Jake Ferguson for 2 yards (tackle by Xavier McKinney),0.67,0.4,1.0,2023,15
+1.0,6:36,2.0,8.0,DAL 28,6.0,0.0,Tony Pollard right guard for 4 yards (tackle by Micah McFadden and Adoree' Jackson),0.4,0.23,1.0,2023,15
+1.0,5:55,3.0,4.0,DAL 32,6.0,0.0,Dak Prescott pass complete deep left to CeeDee Lamb for 49 yards (tackle by Adoree' Jackson),0.23,4.31,1.0,2023,15
+1.0,5:25,1.0,10.0,NYG 19,6.0,0.0,Dak Prescott pass complete short right to Jake Ferguson for 9 yards (tackle by Tre Hawkins and Xavier McKinney),4.31,5.36,1.0,2023,15
+1.0,4:47,2.0,1.0,NYG 10,6.0,0.0,Tony Pollard right guard for 4 yards (tackle by Micah McFadden and Bobby Okereke),5.36,5.83,1.0,2023,15
+1.0,4:10,1.0,6.0,NYG 6,6.0,0.0,Dak Prescott pass incomplete short left intended for Jake Ferguson (defended by Xavier McKinney) (defended by Deonte Banks),5.83,4.95,1.0,2023,15
+1.0,4:05,2.0,6.0,NYG 6,6.0,0.0,Dak Prescott pass complete short right to KaVontae Turpin for 4 yards (tackle by Adoree' Jackson and Jason Pinnock),4.95,4.95,1.0,2023,15
+1.0,3:30,,,,,,Timeout #2 by New York Giants,,,1.0,2023,15
+1.0,3:30,3.0,2.0,NYG 2,6.0,0.0,Dak Prescott pass incomplete short left intended for Jake Ferguson,4.95,3.25,1.0,2023,15
+1.0,3:24,4.0,2.0,NYG 2,9.0,0.0,Brandon Aubrey 21 yard field goal good,3.25,3.0,1.0,2023,15
+1.0,3:21,,,DAL 35,9.0,0.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,15
+1.0,3:21,1.0,10.0,NYG 25,9.0,0.0,Daniel Jones sacked by DeMarcus Lawrence for -9 yards,0.61,-1.29,1.0,2023,15
+1.0,2:39,2.0,19.0,NYG 16,9.0,0.0,Daniel Jones pass incomplete deep left,-1.29,-2.14,1.0,2023,15
+1.0,2:30,3.0,19.0,NYG 16,15.0,0.0,"Daniel Jones pass short left (defended by Trevon Diggs) intended for Saquon Barkley is intercepted by DaRon Bland at NYG-22 and returned for 22 yards, touchdown",-2.14,-7.0,1.0,2023,15
+1.0,2:22,,,NYG 15,16.0,0.0,Brandon Aubrey kicks extra point good,0.0,0.0,1.0,2023,15
+1.0,2:22,,,DAL 35,16.0,0.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,15
+1.0,2:22,1.0,10.0,NYG 25,16.0,0.0,Saquon Barkley left tackle for 5 yards (tackle by Jayron Kearse and Damone Clark),0.61,0.74,1.0,2023,15
+1.0,1:45,2.0,5.0,NYG 30,16.0,0.0,Saquon Barkley left guard for 3 yards (tackle by Markquese Bell),0.74,0.43,1.0,2023,15
+1.0,1:11,3.0,2.0,NYG 33,16.0,0.0,Daniel Jones right end for -5 yards (tackle by Markquese Bell),0.43,-1.5,1.0,2023,15
+1.0,0:32,4.0,7.0,NYG 28,16.0,0.0,"Jamie Gillan punts 62 yards, returned by KaVontae Turpin for 10 yards (tackle by Micah McFadden)",-1.5,-0.28,1.0,2023,15
+1.0,0:21,1.0,10.0,DAL 20,16.0,0.0,Tony Pollard left tackle for -2 yards (tackle by Jordon Riley and Kayvon Thibodeaux),0.28,-0.63,1.0,2023,15
+2.0,15:00,2.0,12.0,DAL 18,16.0,0.0,Dak Prescott pass incomplete short left intended for Brandin Cooks,-0.63,-1.33,1.0,2023,15
+2.0,14:50,3.0,12.0,DAL 18,16.0,0.0,"Dak Prescott pass incomplete deep right intended for Brandin Cooks. Penalty on Tre Hawkins: Defensive Pass Interference, 37 yards (accepted) (no play)",-1.33,2.59,1.0,2023,15
+2.0,14:46,1.0,10.0,NYG 45,16.0,0.0,Dak Prescott pass incomplete short right intended for Jake Ferguson (defended by Xavier McKinney),2.59,2.04,1.0,2023,15
+2.0,14:44,2.0,10.0,NYG 45,16.0,0.0,Tony Pollard right tackle for 2 yards (tackle by Rakeem Nunez-Roches),2.04,1.62,1.0,2023,15
+2.0,14:19,3.0,8.0,NYG 43,16.0,0.0,Dak Prescott pass complete short right to Tony Pollard for 5 yards (tackle by Isaiah Simmons and Tre Hawkins),1.62,0.72,1.0,2023,15
+2.0,13:44,4.0,3.0,NYG 38,16.0,0.0,Dak Prescott pass complete short middle to Brandin Cooks for 6 yards (tackle by Tre Hawkins),0.72,3.45,1.0,2023,15
+2.0,13:08,1.0,10.0,NYG 32,16.0,0.0,Rico Dowdle right guard for 10 yards (tackle by Dane Belton and Kayvon Thibodeaux),3.45,4.11,1.0,2023,15
+2.0,12:24,1.0,10.0,NYG 22,16.0,0.0,Rico Dowdle left guard for 2 yards (tackle by Dexter Lawrence and Azeez Ojulari),4.11,3.83,1.0,2023,15
+2.0,11:45,2.0,8.0,NYG 20,16.0,0.0,Rico Dowdle right guard for no gain (tackle by Kayvon Thibodeaux),3.83,3.14,1.0,2023,15
+2.0,11:05,3.0,8.0,NYG 20,16.0,0.0,Dak Prescott pass incomplete short right intended for Jake Ferguson,3.14,2.12,1.0,2023,15
+2.0,11:00,4.0,8.0,NYG 20,19.0,0.0,Brandon Aubrey 38 yard field goal good,2.12,3.0,1.0,2023,15
+2.0,10:55,,,DAL 35,19.0,0.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,15
+2.0,10:55,1.0,10.0,NYG 25,19.0,0.0,"Daniel Jones pass short right intended for Darren Waller is intercepted by Stephon Gilmore at NYG-38 and returned for no gain (tackle by Darren Waller). Penalty on Evan Neal: Offensive Holding, 10 yards (declined)",0.61,-3.05,1.0,2023,15
+2.0,10:48,1.0,10.0,NYG 38,19.0,0.0,Dak Prescott pass complete deep middle to Brandin Cooks for 16 yards (tackle by Adoree' Jackson),3.05,4.11,1.0,2023,15
+2.0,10:04,1.0,10.0,NYG 22,19.0,0.0,KaVontae Turpin left end for 6 yards (tackle by Jason Pinnock),4.11,4.46,1.0,2023,15
+2.0,9:21,2.0,4.0,NYG 16,19.0,0.0,"Dak Prescott pass incomplete intended for CeeDee Lamb. Penalty on Deonte Banks: Illegal Contact, 5 yards (accepted) (no play)",4.46,4.84,1.0,2023,15
+2.0,9:21,1.0,10.0,NYG 11,19.0,0.0,Dak Prescott left end for 6 yards (tackle by Xavier McKinney and Deonte Banks),4.84,5.28,1.0,2023,15
+2.0,8:46,2.0,4.0,NYG 5,19.0,0.0,Tony Pollard left guard for 3 yards (tackle by Leonard Williams and Micah McFadden),5.28,5.12,1.0,2023,15
+2.0,8:07,3.0,1.0,NYG 2,25.0,0.0,"Tony Pollard right end for 2 yards, touchdown",5.12,7.0,1.0,2023,15
+2.0,8:03,,,NYG 15,26.0,0.0,Brandon Aubrey kicks extra point good,0.0,0.0,1.0,2023,15
+2.0,8:03,,,DAL 35,26.0,0.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,15
+2.0,8:03,1.0,10.0,NYG 25,26.0,0.0,Saquon Barkley left guard for no gain (tackle by Leighton Vander Esch),0.61,0.06,1.0,2023,15
+2.0,7:23,2.0,10.0,NYG 25,26.0,0.0,"Daniel Jones pass complete to Parris Campbell for no gain (tackle by Markquese Bell). Penalty on Trevon Diggs: Defensive Holding, 5 yards (accepted) (no play)",0.06,0.94,1.0,2023,15
+2.0,7:00,1.0,10.0,NYG 30,26.0,0.0,Daniel Jones pass complete short right to Darren Waller for 6 yards (tackle by Stephon Gilmore),0.94,1.2,1.0,2023,15
+2.0,6:28,2.0,4.0,NYG 36,26.0,0.0,Saquon Barkley right tackle for 3 yards (tackle by Osa Odighizuwa and Jayron Kearse),1.2,0.89,1.0,2023,15
+2.0,5:52,3.0,1.0,NYG 39,26.0,0.0,Daniel Jones pass complete short left to Darren Waller for 8 yards (tackle by Malik Hooker),0.89,2.06,1.0,2023,15
+2.0,5:25,1.0,10.0,NYG 47,26.0,0.0,Saquon Barkley left end for -2 yards (tackle by Dorance Armstrong and Johnathan Hankins),2.06,1.25,1.0,2023,15
+2.0,4:49,2.0,12.0,NYG 45,26.0,0.0,Daniel Jones pass incomplete short middle intended for Isaiah Hodgins,1.25,0.56,1.0,2023,15
+2.0,4:44,3.0,12.0,NYG 45,26.0,0.0,Daniel Jones scrambles left end for 7 yards (tackle by Leighton Vander Esch),0.56,0.07,1.0,2023,15
+2.0,4:31,,,,,,Timeout #1 by Dallas Cowboys,,,1.0,2023,15
+2.0,4:31,4.0,5.0,DAL 48,26.0,0.0,Daniel Jones pass complete short left to Darren Waller for 22 yards (tackle by Stephon Gilmore),0.07,3.84,1.0,2023,15
+2.0,3:46,1.0,10.0,DAL 26,26.0,0.0,Saquon Barkley up the middle for 2 yards (tackle by Markquese Bell),3.84,3.57,1.0,2023,15
+2.0,3:13,2.0,8.0,DAL 24,26.0,0.0,Saquon Barkley left guard for 3 yards (tackle by Osa Odighizuwa and Markquese Bell),3.57,3.27,1.0,2023,15
+2.0,2:32,3.0,5.0,DAL 21,26.0,0.0,Daniel Jones pass complete short right to Saquon Barkley for 7 yards (tackle by Leighton Vander Esch),3.27,4.65,1.0,2023,15
+2.0,2:00,1.0,10.0,DAL 14,26.0,0.0,Daniel Jones sacked by Dorance Armstrong for -5 yards,4.65,3.37,1.0,2023,15
+2.0,1:21,2.0,15.0,DAL 19,26.0,0.0,Daniel Jones pass incomplete short right intended for Parris Campbell,3.37,2.73,1.0,2023,15
+2.0,1:16,3.0,15.0,DAL 19,26.0,0.0,Daniel Jones scrambles up the middle for 1 yard (tackle by Sam Williams and Juanyeh Thomas),2.73,2.25,1.0,2023,15
+2.0,1:10,,,,,,Timeout #2 by Dallas Cowboys,,,1.0,2023,15
+2.0,1:10,4.0,14.0,DAL 18,26.0,0.0,Graham Gano 36 yard field goal no good,2.25,-0.67,1.0,2023,15
+2.0,1:05,1.0,10.0,DAL 26,26.0,0.0,Dak Prescott pass incomplete deep left intended for Michael Gallup (defended by Deonte Banks),0.67,0.13,1.0,2023,15
+2.0,1:00,2.0,10.0,DAL 26,26.0,0.0,Dak Prescott pass incomplete short right intended for Tony Pollard,0.13,-0.56,1.0,2023,15
+2.0,0:56,,,,,,Timeout #3 by Dallas Cowboys,,,1.0,2023,15
+2.0,0:56,3.0,10.0,DAL 26,26.0,0.0,Tony Pollard right guard for 4 yards (tackle by Dexter Lawrence),-0.56,-1.37,1.0,2023,15
+2.0,0:52,,,,,,Timeout #3 by New York Giants,,,1.0,2023,15
+2.0,0:52,4.0,6.0,DAL 30,26.0,0.0,"Bryan Anger punts 48 yards, returned by Eric Gray for 7 yards (tackle by Jalen Tolbert)",-1.37,-0.87,1.0,2023,15
+2.0,0:42,1.0,10.0,NYG 29,26.0,0.0,Daniel Jones pass incomplete short middle intended for Jalin Hyatt,0.87,0.33,1.0,2023,15
+2.0,0:37,2.0,10.0,NYG 29,26.0,0.0,Daniel Jones sacked by Osa Odighizuwa for -7 yards,0.33,-1.29,1.0,2023,15
+3.0,15:00,,,NYG 35,26.0,0.0,"Graham Gano kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,15
+3.0,15:00,1.0,10.0,DAL 25,26.0,0.0,Dak Prescott pass complete short left to Michael Gallup for 10 yards (tackle by Nick McCloud),0.61,1.27,1.0,2023,15
+3.0,14:30,1.0,10.0,DAL 35,26.0,0.0,Tony Pollard up the middle for 7 yards (tackle by Micah McFadden),1.27,1.67,1.0,2023,15
+3.0,14:01,2.0,3.0,DAL 42,26.0,0.0,KaVontae Turpin left tackle for 1 yard (tackle by Dexter Lawrence and Kayvon Thibodeaux),1.67,1.09,1.0,2023,15
+3.0,13:22,3.0,2.0,DAL 43,26.0,0.0,Dak Prescott pass complete short right to CeeDee Lamb for 9 yards (tackle by Jason Pinnock),1.09,2.39,1.0,2023,15
+3.0,12:50,1.0,10.0,NYG 48,26.0,0.0,Tony Pollard right tackle for 25 yards (tackle by Tre Hawkins),2.39,4.04,1.0,2023,15
+3.0,12:10,1.0,10.0,NYG 23,26.0,0.0,Rico Dowdle right tackle for 4 yards (tackle by A'Shawn Robinson and Xavier McKinney),4.04,4.05,1.0,2023,15
+3.0,11:30,2.0,6.0,NYG 19,26.0,0.0,Dak Prescott pass incomplete deep left intended for Peyton Hendershot,4.05,3.34,1.0,2023,15
+3.0,11:26,3.0,6.0,NYG 19,26.0,0.0,"Dak Prescott pass complete short right to Tony Pollard for 7 yards. Tony Pollard fumbles (forced by Bobby Okereke), recovered by Tyler Biadasz at NYG-4 (tackle by Bobby Okereke)",3.34,6.28,1.0,2023,15
+3.0,10:38,1.0,4.0,NYG 4,26.0,0.0,Tony Pollard right tackle for 3 yards (tackle by Tre Hawkins and Micah McFadden),6.28,5.91,1.0,2023,15
+3.0,10:05,2.0,1.0,NYG 1,32.0,0.0,"Tony Pollard right end for 1 yard, touchdown",5.91,7.0,1.0,2023,15
+3.0,10:01,,,NYG 15,33.0,0.0,Brandon Aubrey kicks extra point good,0.0,0.0,1.0,2023,15
+3.0,10:01,,,DAL 35,33.0,0.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,15
+3.0,10:01,1.0,10.0,NYG 25,33.0,0.0,Daniel Jones scrambles right end for 9 yards (tackle by Jayron Kearse),0.61,1.28,1.0,2023,15
+3.0,9:27,2.0,1.0,NYG 34,33.0,0.0,"Daniel Jones aborted snap, recovered by Daniel Jones at NYG-30 and returned for -2 yards (tackle by Mazi Smith)",1.28,0.3,1.0,2023,15
+3.0,8:49,3.0,3.0,NYG 32,33.0,0.0,Daniel Jones up the middle for no gain (tackle by Micah Parsons),0.3,-1.24,1.0,2023,15
+3.0,8:03,4.0,3.0,NYG 32,33.0,0.0,Daniel Jones pass complete short left to Saquon Barkley for 5 yards (tackle by Trevon Diggs),-1.24,1.4,1.0,2023,15
+3.0,7:32,1.0,10.0,NYG 37,33.0,0.0,Daniel Jones sacked by Osa Odighizuwa for -4 yards,1.4,0.32,1.0,2023,15
+3.0,6:52,2.0,14.0,NYG 33,33.0,0.0,Daniel Jones pass complete short left to Darius Slayton for 2 yards (tackle by Trevon Diggs),0.32,-0.1,1.0,2023,15
+3.0,6:10,3.0,12.0,NYG 35,33.0,0.0,Daniel Jones sacked by Dorance Armstrong for -3 yards,-0.1,-1.24,1.0,2023,15
+3.0,5:28,4.0,15.0,NYG 32,33.0,0.0,"Jamie Gillan punts 39 yards, returned by KaVontae Turpin for 7 yards (tackle by Casey Kreiter)",-1.24,-1.33,1.0,2023,15
+3.0,5:18,1.0,10.0,DAL 36,33.0,0.0,Rico Dowdle up the middle for 3 yards (tackle by Rakeem Nunez-Roches and Micah McFadden),1.33,1.13,1.0,2023,15
+3.0,4:42,2.0,8.0,DAL 39,33.0,0.0,"Dak Prescott pass incomplete intended for CeeDee Lamb. Penalty on Tre Hawkins: Defensive Holding, 5 yards (accepted) (no play)",1.13,1.86,1.0,2023,15
+3.0,4:36,1.0,10.0,DAL 44,33.0,0.0,Rico Dowdle right tackle for 5 yards (tackle by Rakeem Nunez-Roches and Dexter Lawrence),1.86,1.99,1.0,2023,15
+3.0,4:08,2.0,5.0,DAL 49,33.0,0.0,Dak Prescott pass complete short right to CeeDee Lamb for no gain (tackle by Micah McFadden),1.99,1.29,1.0,2023,15
+3.0,3:20,3.0,5.0,DAL 49,33.0,0.0,"Penalty on Terence Steele: False Start, 5 yards (accepted) (no play)",1.29,0.63,1.0,2023,15
+3.0,3:02,3.0,10.0,DAL 44,33.0,0.0,Dak Prescott pass incomplete short middle intended for Brandin Cooks,0.63,-0.46,1.0,2023,15
+3.0,2:57,4.0,10.0,DAL 44,33.0,0.0,"Bryan Anger punts 56 yards, touchback.",-0.46,-0.28,1.0,2023,15
+3.0,2:48,1.0,10.0,NYG 20,33.0,0.0,Saquon Barkley left tackle for 18 yards (tackle by Leighton Vander Esch and Jayron Kearse),0.28,1.47,1.0,2023,15
+3.0,2:16,1.0,10.0,NYG 38,33.0,0.0,Daniel Jones pass complete short right to Daniel Bellinger for 1 yard (tackle by Damone Clark),1.47,1.06,1.0,2023,15
+3.0,1:49,2.0,9.0,NYG 39,33.0,0.0,Daniel Jones pass incomplete short right intended for Parris Campbell,1.06,0.37,1.0,2023,15
+3.0,1:45,3.0,9.0,NYG 39,33.0,0.0,Daniel Jones pass complete short middle to Darius Slayton for 8 yards (tackle by Stephon Gilmore),0.37,-0.26,1.0,2023,15
+3.0,1:14,4.0,1.0,NYG 47,33.0,0.0,Daniel Jones up the middle for 1 yard (tackle by Jayron Kearse and Mazi Smith),-0.26,2.13,1.0,2023,15
+3.0,0:43,1.0,10.0,NYG 48,33.0,0.0,Daniel Jones right end for 2 yards (tackle by Jayron Kearse and Damone Clark),2.13,1.85,1.0,2023,15
+3.0,0:12,2.0,8.0,NYG 50,33.0,0.0,Daniel Jones pass incomplete short left intended for Sterling Shepard (defended by Stephon Gilmore),1.85,1.16,1.0,2023,15
+3.0,0:07,3.0,8.0,NYG 50,33.0,0.0,Daniel Jones pass incomplete short middle intended for Parris Campbell (defended by Dante Fowler),1.16,-0.06,1.0,2023,15
+3.0,0:02,4.0,8.0,NYG 50,33.0,0.0,"Daniel Jones pass incomplete short right intended for Isaiah Hodgins (defended by Stephon Gilmore). Penalty on Andrew Thomas: Offensive Holding, 10 yards (declined)",-0.06,-2.26,1.0,2023,15
+4.0,15:00,1.0,10.0,NYG 50,33.0,0.0,Dak Prescott pass complete short right to CeeDee Lamb for 19 yards (tackle by Tre Hawkins),2.26,3.51,1.0,2023,15
+4.0,14:27,1.0,10.0,NYG 31,33.0,0.0,Tony Pollard up the middle for 12 yards (tackle by Bobby Okereke),3.51,4.31,1.0,2023,15
+4.0,13:49,1.0,10.0,NYG 19,33.0,0.0,Tony Pollard right guard for 3 yards (tackle by Bobby Okereke),4.31,4.18,1.0,2023,15
+4.0,13:10,2.0,7.0,NYG 16,33.0,0.0,Dak Prescott pass incomplete short left intended for KaVontae Turpin,4.18,3.41,1.0,2023,15
+4.0,13:04,3.0,7.0,NYG 16,33.0,0.0,Dak Prescott pass complete short middle to KaVontae Turpin for 7 yards (tackle by Jason Pinnock),3.41,5.14,1.0,2023,15
+4.0,12:22,1.0,9.0,NYG 9,33.0,0.0,Tony Pollard left tackle for 2 yards (tackle by Leonard Williams and Micah McFadden),5.14,4.76,1.0,2023,15
+4.0,11:41,2.0,7.0,NYG 7,33.0,0.0,Dak Prescott pass incomplete short left intended for Jake Ferguson,4.76,3.81,1.0,2023,15
+4.0,11:37,3.0,7.0,NYG 7,39.0,0.0,"KaVontae Turpin left end for 7 yards, touchdown",3.81,7.0,1.0,2023,15
+4.0,11:31,,,NYG 15,40.0,0.0,Brandon Aubrey kicks extra point good,0.0,0.0,1.0,2023,15
+4.0,11:31,,,DAL 35,40.0,0.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,1.0,2023,15
+4.0,11:31,1.0,10.0,NYG 25,40.0,0.0,"Daniel Jones pass complete short middle to Isaiah Hodgins for 24 yards. Isaiah Hodgins fumbles (forced by Trevon Diggs), recovered by Israel Mukuamu at DAL-40 and returned for -3 yards (tackle by Sterling Shepard)",0.61,-1.4,1.0,2023,15
+4.0,11:19,1.0,10.0,DAL 37,40.0,0.0,Deuce Vaughn right end for 5 yards (tackle by Tre Hawkins),1.4,1.53,1.0,2023,15
+4.0,10:40,2.0,5.0,DAL 42,40.0,0.0,Deuce Vaughn left guard for 2 yards (tackle by Boogie Basham),1.53,1.09,1.0,2023,15
+4.0,10:00,3.0,3.0,DAL 44,40.0,0.0,Deuce Vaughn left end for -5 yards (tackle by Micah McFadden),1.09,-0.78,1.0,2023,15
+4.0,9:15,4.0,8.0,DAL 39,40.0,0.0,Bryan Anger punts 42 yards downed by Peyton Hendershot,-0.78,-0.15,1.0,2023,15
+4.0,9:04,1.0,10.0,NYG 19,40.0,0.0,Daniel Jones scrambles left end for 1 yard (tackle by Damone Clark),0.15,-0.2,1.0,2023,15
+4.0,8:27,2.0,9.0,NYG 20,40.0,0.0,Daniel Jones pass complete short right to Lawrence Cager for 8 yards (tackle by DaRon Bland),-0.2,0.1,1.0,2023,15
+4.0,8:04,3.0,1.0,NYG 28,40.0,0.0,Matt Breida up the middle for 3 yards (tackle by Chauncey Golston and Sam Williams),0.1,1.0,1.0,2023,15
+4.0,7:33,1.0,10.0,NYG 31,40.0,0.0,"Daniel Jones scrambles for no gain (tackle by Juanyeh Thomas). Penalty on Ben Bredeson: Offensive Holding, 10 yards (accepted) (no play)",1.0,0.34,1.0,2023,15
+4.0,7:11,1.0,20.0,NYG 21,40.0,0.0,"Daniel Jones sacked by Chauncey Golston for no gain. Penalty on Markquese Bell: Defensive Holding, 5 yards (accepted) (no play)",0.34,0.67,1.0,2023,15
+4.0,6:53,1.0,10.0,NYG 26,40.0,0.0,Gary Brightwell right end for 5 yards (tackle by Markquese Bell),0.67,0.81,1.0,2023,15
+4.0,6:26,2.0,5.0,NYG 31,40.0,0.0,Daniel Jones pass complete short left to Parris Campbell for 2 yards (tackle by DaRon Bland),0.81,0.37,1.0,2023,15
+4.0,6:00,3.0,3.0,NYG 33,40.0,0.0,Daniel Jones pass complete short middle to Lawrence Cager for 9 yards (tackle by C.J. Goodwin and Damone Clark),0.37,1.73,1.0,2023,15
+4.0,5:28,1.0,10.0,NYG 42,40.0,0.0,"Daniel Jones sacked by Chauncey Golston for -9 yards. Daniel Jones fumbles (forced by Chauncey Golston), recovered by Mark Glowinski at NYG-33 (tackle by Chauncey Golston)",1.73,-0.03,1.0,2023,15
+4.0,4:45,2.0,19.0,NYG 33,40.0,0.0,"Penalty on Sam Williams: Defensive Offside, 5 yards (accepted) (no play)",-0.03,0.65,1.0,2023,15
+4.0,4:45,2.0,14.0,NYG 38,40.0,0.0,"Daniel Jones pass complete short left to Matt Breida for -5 yards. Matt Breida fumbles (forced by Markquese Bell), recovered by Parris Campbell at NYG-35 and returned for -2 yards",0.65,-0.69,1.0,2023,15
+4.0,4:01,3.0,19.0,NYG 33,40.0,0.0,Daniel Jones pass complete short left to Darius Slayton for 5 yards (tackle by Markquese Bell),-0.69,-0.85,1.0,2023,15
+4.0,3:16,4.0,14.0,NYG 38,40.0,0.0,Daniel Jones pass incomplete deep right intended for Darius Slayton,-0.85,-3.05,1.0,2023,15
+4.0,3:10,1.0,10.0,NYG 38,40.0,0.0,Deuce Vaughn right tackle for no gain (tackle by Bobby Okereke),3.05,2.51,1.0,2023,15
+4.0,2:26,2.0,10.0,NYG 38,40.0,0.0,Deuce Vaughn right end for 4 yards (tackle by Micah McFadden and A'Shawn Robinson),2.51,2.34,1.0,2023,15
+4.0,2:00,3.0,6.0,NYG 34,40.0,0.0,Deuce Vaughn right end for 2 yards (tackle by A'Shawn Robinson and Jason Pinnock),2.34,1.27,1.0,2023,15
+4.0,1:14,,,,,,Timeout #1 by Dallas Cowboys,,,1.0,2023,15
+4.0,1:14,4.0,4.0,NYG 32,40.0,0.0,Cooper Rush pass incomplete deep left intended for Jalen Tolbert,1.27,-1.07,1.0,2023,15
+4.0,1:10,1.0,10.0,NYG 32,40.0,0.0,"Tyrod Taylor scrambles for no gain (tackle by DaRon Bland). Penalty on Joshua Ezeudu: Offensive Holding, 10 yards (accepted) (no play)",1.07,0.41,1.0,2023,15
+4.0,1:01,1.0,20.0,NYG 22,40.0,0.0,Tyrod Taylor pass complete short right to Gary Brightwell for 9 yards (tackle by Devin Harper and Markquese Bell),0.41,0.39,1.0,2023,15
+4.0,0:30,2.0,11.0,NYG 31,40.0,0.0,Tyrod Taylor pass complete short left to Gary Brightwell for -3 yards (tackle by DaRon Bland),0.39,-0.69,1.0,2023,15

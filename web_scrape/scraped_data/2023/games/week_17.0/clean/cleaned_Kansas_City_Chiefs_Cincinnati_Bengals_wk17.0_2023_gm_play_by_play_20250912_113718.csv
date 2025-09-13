@@ -1,0 +1,167 @@
+Quarter,Time,Down,ToGo,Location,CIN,KAN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Chiefs won the coin toss and deferred, Bengals to receive the opening kickoff.",,,17.0,2023,254
+1.0,15:00,,,KAN 35,0.0,0.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,254
+1.0,15:00,1.0,10.0,CIN 25,0.0,0.0,Jake Browning pass incomplete deep right intended for Drew Sample,0.61,0.06,17.0,2023,254
+1.0,14:55,2.0,10.0,CIN 25,0.0,0.0,Joe Mixon left end for 2 yards (tackle by Nick Bolton),0.06,-0.36,17.0,2023,254
+1.0,14:12,3.0,8.0,CIN 27,0.0,0.0,Jake Browning scrambles right guard for 8 yards (tackle by Mike Edwards),-0.36,1.27,17.0,2023,254
+1.0,13:32,1.0,10.0,CIN 35,0.0,0.0,Joe Mixon right guard for 5 yards (tackle by Derrick Nnadi and Chamarri Conner),1.27,1.4,17.0,2023,254
+1.0,12:52,2.0,5.0,CIN 40,0.0,0.0,Joe Mixon right end for 4 yards (tackle by Derrick Nnadi),1.4,1.22,17.0,2023,254
+1.0,12:15,3.0,1.0,CIN 44,0.0,0.0,Jake Browning up the middle for 2 yards (tackle by Trent McDuffie),1.22,1.99,17.0,2023,254
+1.0,11:38,1.0,10.0,CIN 46,0.0,0.0,Jake Browning pass complete short left to Chase Brown for 4 yards (tackle by Willie Gay),1.99,1.99,17.0,2023,254
+1.0,11:03,2.0,6.0,CIN 50,0.0,0.0,Jake Browning scrambles right end for 8 yards (tackle by Trent McDuffie),1.99,2.79,17.0,2023,254
+1.0,10:19,1.0,10.0,KAN 42,0.0,0.0,Jake Browning pass complete short right to Drew Sample for 5 yards (tackle by Jaylen Watson and Willie Gay),2.79,2.92,17.0,2023,254
+1.0,9:52,2.0,5.0,KAN 37,0.0,0.0,"Jake Browning pass complete short right to Joe Mixon for no gain (tackle by L'Jarius Sneed). Penalty on Cordell Volson: Ineligible Downfield Pass, 5 yards (accepted) (no play)",2.92,2.24,17.0,2023,254
+1.0,9:27,2.0,10.0,KAN 42,0.0,0.0,Joe Mixon left end for 3 yards (tackle by Michael Danna),2.24,1.95,17.0,2023,254
+1.0,8:44,3.0,7.0,KAN 39,0.0,0.0,Jake Browning pass complete short right to Tee Higgins for 19 yards (tackle by Jaylen Watson),1.95,4.24,17.0,2023,254
+1.0,7:57,1.0,10.0,KAN 20,0.0,0.0,Chase Brown right guard for no gain (tackle by Charles Omenihu),4.24,3.69,17.0,2023,254
+1.0,7:15,2.0,10.0,KAN 20,0.0,0.0,Jake Browning pass incomplete short right intended for Ja'Marr Chase (defended by Charles Omenihu),3.69,3.01,17.0,2023,254
+1.0,7:10,3.0,10.0,KAN 20,0.0,0.0,Jake Browning pass complete short right to Trenton Irwin for 4 yards (tackle by Trent McDuffie),3.01,2.4,17.0,2023,254
+1.0,6:26,4.0,6.0,KAN 16,3.0,0.0,Evan McPherson 34 yard field goal good,2.4,3.0,17.0,2023,254
+1.0,6:21,,,CIN 35,3.0,0.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,254
+1.0,6:21,1.0,10.0,KAN 25,3.0,0.0,Isiah Pacheco up the middle for 9 yards (tackle by Daxton Hill and Sam Hubbard),0.61,1.28,17.0,2023,254
+1.0,5:49,2.0,1.0,KAN 34,3.0,0.0,Patrick Mahomes pass complete short right to Noah Gray for 3 yards (tackle by Akeem Davis-Gaither),1.28,1.4,17.0,2023,254
+1.0,5:17,1.0,10.0,KAN 37,3.0,0.0,Patrick Mahomes pass complete short left to Rashee Rice for 18 yards (tackle by Chidobe Awuzie),1.4,2.59,17.0,2023,254
+1.0,4:47,1.0,10.0,CIN 45,3.0,0.0,Isiah Pacheco left end for 35 yards (tackle by Jordan Battle),2.59,4.91,17.0,2023,254
+1.0,4:12,1.0,10.0,CIN 10,3.0,0.0,Patrick Mahomes sacked by Mike Hilton for no gain,4.91,4.19,17.0,2023,254
+1.0,3:39,2.0,10.0,CIN 10,3.0,0.0,Isiah Pacheco left end for 2 yards (tackle by Jordan Battle and Chidobe Awuzie),4.19,3.58,17.0,2023,254
+1.0,3:02,3.0,8.0,CIN 8,3.0,6.0,"Patrick Mahomes pass complete short middle to Isiah Pacheco for 8 yards, touchdown",3.58,7.0,17.0,2023,254
+1.0,2:58,,,CIN 15,3.0,7.0,Harrison Butker kicks extra point good,0.0,0.0,17.0,2023,254
+1.0,2:58,,,KAN 35,3.0,7.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,254
+1.0,2:58,1.0,10.0,CIN 25,3.0,7.0,Chase Brown left end for 3 yards (tackle by Leo Chenal and Tershawn Wharton),0.61,0.47,17.0,2023,254
+1.0,2:20,2.0,7.0,CIN 28,3.0,7.0,Jake Browning pass complete short right to Drew Sample for 5 yards (tackle by Leo Chenal),0.47,0.43,17.0,2023,254
+1.0,1:41,3.0,2.0,CIN 33,3.0,7.0,Jake Browning pass complete deep right to Ja'Marr Chase for 24 yards (tackle by Justin Reid),0.43,2.72,17.0,2023,254
+1.0,1:03,1.0,10.0,KAN 43,3.0,7.0,Joe Mixon left end for 4 yards (tackle by Nick Bolton and Mike Pennel),2.72,2.72,17.0,2023,254
+1.0,0:24,2.0,6.0,KAN 39,3.0,7.0,Joe Mixon right end for 9 yards (tackle by Nick Bolton),2.72,3.58,17.0,2023,254
+2.0,15:00,1.0,10.0,KAN 30,3.0,7.0,Joe Mixon left end for 1 yard (tackle by Nick Bolton and Leo Chenal),3.58,3.17,17.0,2023,254
+2.0,14:22,2.0,9.0,KAN 29,3.0,7.0,Jake Browning pass complete short right to Drew Sample for 11 yards (tackle by Nick Bolton),3.17,4.37,17.0,2023,254
+2.0,13:31,,,,,,Timeout #1 by Cincinnati Bengals,,,17.0,2023,254
+2.0,13:31,1.0,10.0,KAN 18,3.0,7.0,Chase Brown right end for 2 yards (tackle by George Karlaftis),4.37,4.09,17.0,2023,254
+2.0,12:51,2.0,8.0,KAN 16,3.0,7.0,Jake Browning pass complete short left to Joe Mixon for 10 yards (tackle by Trent McDuffie),4.09,5.83,17.0,2023,254
+2.0,12:09,1.0,6.0,KAN 6,3.0,7.0,Joe Mixon right guard for -1 yards (tackle by Charles Omenihu),5.83,4.76,17.0,2023,254
+2.0,11:32,2.0,7.0,KAN 7,9.0,7.0,"Jake Browning pass complete short right to Joe Mixon for 7 yards, touchdown",4.76,7.0,17.0,2023,254
+2.0,11:29,,,KAN 15,10.0,7.0,Evan McPherson kicks extra point good,0.0,0.0,17.0,2023,254
+2.0,11:29,,,CIN 35,10.0,7.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,254
+2.0,11:29,1.0,10.0,KAN 25,10.0,7.0,Patrick Mahomes pass complete short right to Marquez Valdes-Scantling for 3 yards (tackle by Cam Taylor-Britt),0.61,0.47,17.0,2023,254
+2.0,10:59,2.0,7.0,KAN 28,10.0,7.0,Patrick Mahomes pass incomplete short left intended for Justin Watson,0.47,-0.23,17.0,2023,254
+2.0,10:53,3.0,7.0,KAN 28,10.0,7.0,"Patrick Mahomes sacked by Trey Hendrickson for -4 yards. Patrick Mahomes fumbles (forced by Trey Hendrickson), recovered by Sam Hubbard at KC-24 (tackle by Trey Hendrickson)",-0.23,-3.97,17.0,2023,254
+2.0,10:46,1.0,10.0,KAN 24,10.0,7.0,Jake Browning scrambles right end for 8 yards (tackle by Chamarri Conner),3.97,4.65,17.0,2023,254
+2.0,10:08,2.0,2.0,KAN 16,10.0,7.0,Joe Mixon up the middle for no gain (tackle by Justin Reid),4.65,3.95,17.0,2023,254
+2.0,9:43,3.0,2.0,KAN 16,10.0,7.0,"Penalty on Ja'Marr Chase: Personal Foul / Offense, 15 yards (offset) Penalty on Mike Edwards: Personal Foul / Defense, 15 yards (offset) (no play)",3.95,3.95,17.0,2023,254
+2.0,9:38,3.0,2.0,KAN 16,10.0,7.0,Jake Browning pass complete short right to Tanner Hudson for 9 yards (tackle by L'Jarius Sneed),3.95,5.6,17.0,2023,254
+2.0,8:50,1.0,7.0,KAN 7,10.0,7.0,Joe Mixon left end for -1 yards (tackle by Leo Chenal),5.6,4.57,17.0,2023,254
+2.0,8:00,,,,,,Timeout #2 by Cincinnati Bengals,,,17.0,2023,254
+2.0,8:00,2.0,8.0,KAN 8,10.0,7.0,Jake Browning scrambles right end for 3 yards (tackle by George Karlaftis),4.57,4.26,17.0,2023,254
+2.0,7:22,3.0,5.0,KAN 5,10.0,7.0,"Jake Browning pass incomplete intended for Ja'Marr Chase. Penalty on L'Jarius Sneed: Defensive Pass Interference, 4 yards (accepted) (no play)",4.26,6.97,17.0,2023,254
+2.0,7:17,1.0,1.0,KAN 1,10.0,7.0,Joe Mixon right guard for no gain (tackle by Drue Tranquill and Charles Omenihu),6.97,5.91,17.0,2023,254
+2.0,6:34,2.0,1.0,KAN 1,10.0,7.0,Jake Browning pass incomplete short left intended for Mitchell Wilcox,5.91,5.17,17.0,2023,254
+2.0,6:28,3.0,1.0,KAN 1,16.0,7.0,"Jake Browning scrambles right end for 1 yard, touchdown",5.17,7.0,17.0,2023,254
+2.0,6:23,,,KAN 15,17.0,7.0,Evan McPherson kicks extra point good,0.0,0.0,17.0,2023,254
+2.0,6:23,,,CIN 35,17.0,7.0,"Evan McPherson kicks off 41 yards, returned by Richie James for no gain",0.0,0.54,17.0,2023,254
+2.0,6:22,1.0,10.0,KAN 24,17.0,7.0,Patrick Mahomes pass complete short middle to Noah Gray for 16 yards (tackle by Jordan Battle),0.54,1.6,17.0,2023,254
+2.0,5:49,1.0,10.0,KAN 40,17.0,7.0,Patrick Mahomes pass complete short left to Isiah Pacheco for 21 yards (tackle by Chidobe Awuzie),1.6,2.98,17.0,2023,254
+2.0,5:12,1.0,10.0,CIN 39,17.0,7.0,Patrick Mahomes pass complete short left to Noah Gray for -2 yards (tackle by Mike Hilton),2.98,2.17,17.0,2023,254
+2.0,4:33,2.0,12.0,CIN 41,17.0,7.0,Isiah Pacheco right guard for 5 yards (tackle by Sam Hubbard and Germaine Pratt),2.17,2.15,17.0,2023,254
+2.0,3:56,3.0,7.0,CIN 36,17.0,7.0,Patrick Mahomes pass incomplete short left intended for Travis Kelce,2.15,0.88,17.0,2023,254
+2.0,3:49,4.0,7.0,CIN 36,17.0,10.0,Harrison Butker 54 yard field goal good,0.88,3.0,17.0,2023,254
+2.0,3:44,,,KAN 35,17.0,10.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,254
+2.0,3:44,1.0,10.0,CIN 25,17.0,10.0,Jake Browning sacked by Tershawn Wharton for -1 yards,0.61,-0.07,17.0,2023,254
+2.0,3:02,2.0,11.0,CIN 24,17.0,10.0,Jake Browning pass complete short left to Joe Mixon for no gain (tackle by Nick Bolton and Derrick Nnadi),-0.07,-0.76,17.0,2023,254
+2.0,2:17,3.0,11.0,CIN 24,17.0,10.0,Jake Browning pass incomplete short right intended for Tanner Hudson,-0.76,-1.77,17.0,2023,254
+2.0,2:11,4.0,11.0,CIN 24,17.0,10.0,Brad Robbins punts 44 yards downed by Trayveon Williams,-1.77,-1.07,17.0,2023,254
+2.0,2:00,1.0,10.0,KAN 32,17.0,10.0,Isiah Pacheco right guard for 37 yards (tackle by Daxton Hill),1.07,3.51,17.0,2023,254
+2.0,1:51,1.0,10.0,CIN 31,17.0,10.0,"Penalty on Creed Humphrey: False Start, 5 yards (accepted) (no play)",3.51,3.18,17.0,2023,254
+2.0,1:51,1.0,15.0,CIN 36,17.0,10.0,Patrick Mahomes pass complete short left to Richie James for 6 yards (tackle by Mike Hilton and Logan Wilson),3.18,3.1,17.0,2023,254
+2.0,1:20,2.0,9.0,CIN 30,17.0,10.0,Patrick Mahomes pass complete short right to Isiah Pacheco for 6 yards (tackle by Logan Wilson),3.1,3.2,17.0,2023,254
+2.0,0:43,3.0,3.0,CIN 24,17.0,10.0,Patrick Mahomes pass incomplete short right intended for Marquez Valdes-Scantling,3.2,1.97,17.0,2023,254
+2.0,0:39,4.0,3.0,CIN 24,17.0,13.0,Harrison Butker 43 yard field goal good,1.97,3.0,17.0,2023,254
+2.0,0:35,,,KAN 35,17.0,13.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,254
+2.0,0:35,1.0,10.0,CIN 25,17.0,13.0,Joe Mixon right end for 2 yards (tackle by Justin Reid),0.61,0.33,17.0,2023,254
+2.0,0:29,,,,,,Timeout #1 by Kansas City Chiefs,,,17.0,2023,254
+2.0,0:29,2.0,8.0,CIN 27,17.0,13.0,Joe Mixon right end for 7 yards (tackle by Justin Reid),0.33,0.56,17.0,2023,254
+2.0,0:25,,,,,,Timeout #2 by Kansas City Chiefs,,,17.0,2023,254
+2.0,0:25,3.0,1.0,CIN 34,17.0,13.0,Jake Browning up the middle for 2 yards (tackle by Nick Bolton),0.56,1.33,17.0,2023,254
+2.0,0:20,,,,,,Timeout #3 by Cincinnati Bengals,,,17.0,2023,254
+2.0,0:20,1.0,10.0,CIN 36,17.0,13.0,Jake Browning pass incomplete short right intended for Ja'Marr Chase (defended by L'Jarius Sneed),1.33,0.79,17.0,2023,254
+2.0,0:14,2.0,10.0,CIN 36,17.0,13.0,Joe Mixon left end for 14 yards (tackle by L'Jarius Sneed and Nick Bolton),0.79,2.26,17.0,2023,254
+3.0,15:00,,,CIN 35,17.0,13.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,254
+3.0,15:00,1.0,10.0,KAN 25,17.0,13.0,Isiah Pacheco right end for 2 yards (tackle by B.J. Hill),0.61,0.33,17.0,2023,254
+3.0,14:23,2.0,8.0,KAN 27,17.0,13.0,Patrick Mahomes pass complete short right to Travis Kelce for no gain (tackle by Cam Taylor-Britt),0.33,-0.36,17.0,2023,254
+3.0,13:54,3.0,8.0,KAN 27,17.0,13.0,Patrick Mahomes pass incomplete deep right intended for Justin Watson (defended by Cam Taylor-Britt),-0.36,-1.57,17.0,2023,254
+3.0,13:47,4.0,8.0,KAN 27,17.0,13.0,"Tommy Townsend punts 57 yards, returned by Charlie Jones for 1 yard (tackle by Joshua Williams)",-1.57,0.06,17.0,2023,254
+3.0,13:39,1.0,10.0,CIN 17,17.0,13.0,Joe Mixon left end for 5 yards (tackle by Nick Bolton and Joshua Williams),-0.06,0.21,17.0,2023,254
+3.0,13:08,2.0,5.0,CIN 22,17.0,13.0,Jake Browning pass incomplete deep left intended for Ja'Marr Chase,0.21,-0.62,17.0,2023,254
+3.0,13:02,3.0,5.0,CIN 22,17.0,13.0,Jake Browning pass complete short left to Tanner Hudson for 14 yards (tackle by Nick Bolton),-0.62,1.33,17.0,2023,254
+3.0,12:22,1.0,10.0,CIN 36,17.0,13.0,Joe Mixon left guard for 4 yards (tackle by Michael Danna),1.33,1.33,17.0,2023,254
+3.0,11:37,2.0,6.0,CIN 40,17.0,13.0,Jake Browning pass complete short right to Ja'Marr Chase for 14 yards (tackle by Mike Edwards),1.33,2.52,17.0,2023,254
+3.0,10:52,1.0,10.0,KAN 46,17.0,13.0,Joe Mixon right end for 1 yard (tackle by Willie Gay),2.52,2.11,17.0,2023,254
+3.0,10:09,2.0,9.0,KAN 45,17.0,13.0,Jake Browning pass incomplete short middle intended for Tanner Hudson (defended by Nick Bolton),2.11,1.42,17.0,2023,254
+3.0,10:02,3.0,9.0,KAN 45,17.0,13.0,"Jake Browning pass incomplete deep left intended for Tee Higgins. Penalty on Joshua Williams: Defensive Pass Interference, 30 yards (accepted) (no play)",1.42,4.58,17.0,2023,254
+3.0,9:56,1.0,10.0,KAN 15,17.0,13.0,Joe Mixon left end for 5 yards (tackle by Nick Bolton),4.58,4.84,17.0,2023,254
+3.0,9:19,2.0,5.0,KAN 10,17.0,13.0,Joe Mixon right end for 2 yards (tackle by Jaylen Watson and Trent McDuffie),4.84,4.45,17.0,2023,254
+3.0,8:37,3.0,3.0,KAN 8,17.0,13.0,Trayveon Williams up the middle for 2 yards (tackle by Justin Reid and Nick Bolton),4.45,3.02,17.0,2023,254
+3.0,7:48,4.0,1.0,KAN 6,17.0,13.0,Joe Mixon up the middle for -3 yards (tackle by Willie Gay),3.02,0.38,17.0,2023,254
+3.0,7:43,1.0,10.0,KAN 9,17.0,13.0,Patrick Mahomes pass incomplete deep left intended for Marquez Valdes-Scantling,-0.38,-0.78,17.0,2023,254
+3.0,7:36,2.0,10.0,KAN 9,17.0,13.0,Patrick Mahomes pass complete short middle to Travis Kelce for 6 yards (tackle by Daxton Hill),-0.78,-0.72,17.0,2023,254
+3.0,6:59,3.0,4.0,KAN 15,17.0,13.0,"Patrick Mahomes pass complete deep left to Justin Watson for 41 yards (tackle by Jordan Battle and DJ Turner). Penalty on Daxton Hill: Illegal Use of Hands / Defense, 5 yards (declined)",-0.72,2.65,17.0,2023,254
+3.0,6:46,1.0,10.0,CIN 44,17.0,13.0,"Patrick Mahomes pass incomplete. Penalty on Sam Hubbard: Defensive Holding, 5 yards (accepted) (no play)",2.65,2.98,17.0,2023,254
+3.0,6:39,1.0,10.0,CIN 39,17.0,13.0,Patrick Mahomes pass incomplete short right intended for Rashee Rice,2.98,2.44,17.0,2023,254
+3.0,6:35,2.0,10.0,CIN 39,17.0,13.0,Patrick Mahomes pass complete short right to Rashee Rice for 24 yards (tackle by Jordan Battle),2.44,4.58,17.0,2023,254
+3.0,5:57,1.0,10.0,CIN 15,17.0,13.0,Isiah Pacheco up the middle for 3 yards (tackle by Sam Hubbard),4.58,4.45,17.0,2023,254
+3.0,5:24,2.0,7.0,CIN 12,17.0,13.0,Patrick Mahomes pass incomplete short right intended for Noah Gray,4.45,3.58,17.0,2023,254
+3.0,5:19,3.0,7.0,CIN 12,17.0,13.0,Patrick Mahomes pass complete short right to Isiah Pacheco for 3 yards (tackle by Mike Hilton),3.58,2.9,17.0,2023,254
+3.0,4:34,4.0,4.0,CIN 9,17.0,16.0,Harrison Butker 27 yard field goal good,2.9,3.0,17.0,2023,254
+3.0,4:31,,,KAN 35,17.0,16.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,254
+3.0,4:31,1.0,10.0,CIN 25,17.0,16.0,Jake Browning pass complete short left to Chase Brown for 19 yards (tackle by Nick Bolton),0.61,1.86,17.0,2023,254
+3.0,3:47,1.0,10.0,CIN 44,17.0,16.0,Jake Browning pass incomplete short right,1.86,1.32,17.0,2023,254
+3.0,3:38,2.0,10.0,CIN 44,17.0,16.0,Jake Browning pass complete short right to Tyler Boyd for 6 yards (tackle by George Karlaftis),1.32,1.42,17.0,2023,254
+3.0,2:55,3.0,4.0,CIN 50,17.0,16.0,Jake Browning pass incomplete deep left intended for Ja'Marr Chase,1.42,-0.06,17.0,2023,254
+3.0,2:49,4.0,4.0,CIN 50,17.0,16.0,"Brad Robbins punts 51 yards, returned by Richie James for 10 yards (tackle by Markus Bailey)",-0.06,0.38,17.0,2023,254
+3.0,2:39,1.0,10.0,KAN 9,17.0,16.0,Isiah Pacheco right end for 2 yards (tackle by Cameron Sample and Jay Tufele),-0.38,-0.63,17.0,2023,254
+3.0,2:04,2.0,8.0,KAN 11,17.0,16.0,"Patrick Mahomes pass complete short right to Rashee Rice for 11 yards (tackle by Jordan Battle). Penalty on Mike Hilton: Illegal Contact, 5 yards (declined)",-0.63,0.41,17.0,2023,254
+3.0,1:33,1.0,10.0,KAN 22,17.0,16.0,Patrick Mahomes pass complete deep right to Rashee Rice for 67 yards (tackle by Daxton Hill),0.41,4.84,17.0,2023,254
+3.0,0:52,1.0,10.0,CIN 11,17.0,16.0,Isiah Pacheco up the middle for 5 yards (tackle by B.J. Hill and Josh Tupou),4.84,5.08,17.0,2023,254
+3.0,0:12,2.0,5.0,CIN 6,17.0,16.0,Isiah Pacheco right guard for 2 yards (tackle by Jordan Battle and Josh Tupou),5.08,4.67,17.0,2023,254
+4.0,15:00,3.0,3.0,CIN 4,17.0,16.0,Patrick Mahomes pass complete short right to Isiah Pacheco for -2 yards (tackle by Mike Hilton and Logan Wilson),4.67,2.99,17.0,2023,254
+4.0,14:12,4.0,5.0,CIN 6,17.0,19.0,Harrison Butker 24 yard field goal good,2.99,3.0,17.0,2023,254
+4.0,14:09,,,KAN 35,17.0,19.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,254
+4.0,14:09,1.0,10.0,CIN 25,17.0,19.0,Joe Mixon right end for 2 yards (tackle by Justin Reid),0.61,0.33,17.0,2023,254
+4.0,13:32,2.0,8.0,CIN 27,17.0,19.0,Jake Browning pass incomplete deep left intended for Tanner Hudson,0.33,-0.36,17.0,2023,254
+4.0,13:27,3.0,8.0,CIN 27,17.0,19.0,Jake Browning pass incomplete short left intended for Tanner Hudson,-0.36,-1.57,17.0,2023,254
+4.0,13:19,4.0,8.0,CIN 27,17.0,19.0,Brad Robbins punts 42 yards downed by Mitchell Wilcox,-1.57,-1.0,17.0,2023,254
+4.0,13:07,1.0,10.0,KAN 31,17.0,19.0,Isiah Pacheco up the middle for 6 yards (tackle by Jay Tufele),1.0,1.27,17.0,2023,254
+4.0,12:31,2.0,4.0,KAN 37,17.0,19.0,Isiah Pacheco up the middle for 3 yards (tackle by Jay Tufele and Logan Wilson),1.27,0.96,17.0,2023,254
+4.0,11:54,3.0,1.0,KAN 40,17.0,19.0,Isiah Pacheco left guard for 5 yards (tackle by Jordan Battle),0.96,1.93,17.0,2023,254
+4.0,11:15,1.0,10.0,KAN 45,17.0,19.0,Patrick Mahomes pass incomplete short left,1.93,1.38,17.0,2023,254
+4.0,11:07,2.0,10.0,KAN 45,17.0,19.0,Patrick Mahomes pass complete short left to Travis Kelce for 10 yards (tackle by Chidobe Awuzie),1.38,2.59,17.0,2023,254
+4.0,10:33,1.0,10.0,CIN 45,17.0,19.0,Isiah Pacheco up the middle for 5 yards (tackle by Logan Wilson),2.59,2.72,17.0,2023,254
+4.0,9:54,2.0,5.0,CIN 40,17.0,19.0,Isiah Pacheco right guard for 2 yards (tackle by Josh Tupou and Myles Murphy),2.72,2.28,17.0,2023,254
+4.0,9:17,3.0,3.0,CIN 38,17.0,19.0,"Patrick Mahomes scrambles right end for 3 yards (tackle by Sam Hubbard) CIN challenged the first down ruling, and the original play was overturned. Patrick Mahomes scrambles right end for 2 yards (tackle by Sam Hubbard)",2.28,0.89,17.0,2023,254
+4.0,9:10,4.0,1.0,CIN 36,17.0,19.0,Patrick Mahomes scrambles right end for 2 yards (tackle by Sam Hubbard),0.89,3.31,17.0,2023,254
+4.0,8:46,1.0,10.0,CIN 34,17.0,19.0,Isiah Pacheco up the middle for 5 yards (tackle by Zachary Carter),3.31,3.45,17.0,2023,254
+4.0,8:01,2.0,5.0,CIN 29,17.0,19.0,Patrick Mahomes pass complete short right to Isiah Pacheco for no gain (tackle by Zachary Carter),3.45,2.74,17.0,2023,254
+4.0,7:14,3.0,5.0,CIN 29,17.0,19.0,Patrick Mahomes pass complete short right to Isiah Pacheco for -1 yards (tackle by Daxton Hill),2.74,1.43,17.0,2023,254
+4.0,6:22,4.0,6.0,CIN 30,17.0,22.0,Harrison Butker 48 yard field goal good,1.43,3.0,17.0,2023,254
+4.0,6:18,,,KAN 35,17.0,22.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,254
+4.0,6:18,1.0,10.0,CIN 25,17.0,22.0,"Jake Browning pass incomplete short left. Penalty on Jake Browning: Intentional Grounding, 10 yards (accepted)",0.61,-1.43,17.0,2023,254
+4.0,6:11,2.0,20.0,CIN 15,17.0,22.0,Jake Browning pass complete short right to Ja'Marr Chase for 3 yards (tackle by Trent McDuffie and L'Jarius Sneed),-1.43,-1.72,17.0,2023,254
+4.0,5:27,3.0,17.0,CIN 18,17.0,22.0,Jake Browning sacked by and George Karlaftis for -7 yards and Charles Omenihu for -7 yards,-1.72,-2.49,17.0,2023,254
+4.0,4:49,4.0,24.0,CIN 11,17.0,22.0,"Brad Robbins punts 53 yards, returned by Richie James for 27 yards (tackle by Brad Robbins)",-2.49,-3.12,17.0,2023,254
+4.0,4:33,1.0,10.0,CIN 37,17.0,22.0,Isiah Pacheco up the middle for 1 yard (tackle by B.J. Hill),3.12,2.71,17.0,2023,254
+4.0,3:51,2.0,9.0,CIN 36,17.0,22.0,Isiah Pacheco right guard for 1 yard (tackle by Daxton Hill),2.71,2.15,17.0,2023,254
+4.0,3:13,3.0,8.0,CIN 35,17.0,22.0,Patrick Mahomes pass complete short left to Rashee Rice for 7 yards (tackle by Chidobe Awuzie),2.15,1.72,17.0,2023,254
+4.0,3:03,4.0,1.0,CIN 28,17.0,25.0,Harrison Butker 46 yard field goal good,1.72,3.0,17.0,2023,254
+4.0,2:59,,,KAN 35,17.0,25.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,17.0,2023,254
+4.0,2:59,1.0,10.0,CIN 25,17.0,25.0,Jake Browning pass complete short right to Tanner Hudson for 15 yards (tackle by Willie Gay),0.61,1.6,17.0,2023,254
+4.0,2:47,1.0,10.0,CIN 40,17.0,25.0,Jake Browning pass complete short right to Joe Mixon for 5 yards (tackle by Charles Omenihu),1.6,1.73,17.0,2023,254
+4.0,2:18,2.0,5.0,CIN 45,17.0,25.0,Jake Browning sacked by Justin Reid for -7 yards,1.73,0.1,17.0,2023,254
+4.0,2:00,3.0,12.0,CIN 38,17.0,25.0,Jake Browning sacked by Justin Reid for -6 yards,0.1,-1.24,17.0,2023,254
+4.0,1:51,,,,,,Timeout #1 by Cincinnati Bengals,,,17.0,2023,254
+4.0,1:51,4.0,18.0,CIN 32,17.0,25.0,Jake Browning pass complete deep middle to Tyler Boyd for 23 yards (tackle by Chamarri Conner),-1.24,2.59,17.0,2023,254
+4.0,1:30,1.0,10.0,KAN 45,17.0,25.0,Jake Browning sacked by George Karlaftis for -6 yards,2.59,1.23,17.0,2023,254
+4.0,1:24,,,,,,Timeout #2 by Cincinnati Bengals,,,17.0,2023,254
+4.0,1:23,2.0,16.0,CIN 49,17.0,25.0,Jake Browning sacked by Chris Jones for -11 yards,1.23,-0.89,17.0,2023,254
+4.0,1:19,,,,,,Timeout #3 by Cincinnati Bengals,,,17.0,2023,254
+4.0,1:19,3.0,27.0,CIN 38,17.0,25.0,Jake Browning pass incomplete deep middle intended for Trenton Irwin,-0.89,-0.85,17.0,2023,254
+4.0,1:14,4.0,27.0,CIN 38,17.0,25.0,Jake Browning pass incomplete deep right intended for Tee Higgins (defended by Joshua Williams),-0.85,-3.05,17.0,2023,254
+4.0,1:07,1.0,10.0,CIN 38,17.0,25.0,Patrick Mahomes kneels for -1 yards,3.05,2.37,17.0,2023,254
+4.0,0:34,2.0,11.0,CIN 39,17.0,25.0,Patrick Mahomes kneels for -1 yards,2.37,1.55,17.0,2023,254

@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,10:08,HOU 30,6,3:56,11,Punt,1,Texans,17.0,2024,242
+2,1,2:47,HOU 30,4,0:57,16,Punt,1,Texans,17.0,2024,242
+3,2,13:23,HOU 18,5,3:08,9,Punt,1,Texans,17.0,2024,242
+4,2,10:09,HOU 43,9,4:38,56,Downs,1,Texans,17.0,2024,242
+5,2,1:51,HOU 30,4,0:40,27,Punt,1,Texans,17.0,2024,242
+6,2,0:21,HOU 15,3,0:21,12,End of Half,1,Texans,17.0,2024,242
+7,3,15:00,HOU 30,3,0:54,7,Interception,1,Texans,17.0,2024,242
+8,3,13:22,HOU 30,3,2:01,-4,Punt,1,Texans,17.0,2024,242
+9,3,5:50,HOU 30,8,3:40,57,Downs,1,Texans,17.0,2024,242
+10,4,11:25,HOU 22,3,1:01,8,Punt,1,Texans,17.0,2024,242
+11,4,3:23,HOU 20,6,3:23,18,End of Game,1,Texans,17.0,2024,242

@@ -1,0 +1,184 @@
+Quarter,Time,Down,ToGo,Location,HOU,CIN,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Texans won the coin toss and deferred, Bengals to receive the opening kickoff.",,,10.0,2023,139
+1.0,15:00,,,HOU 35,0.0,0.0,"Matt Ammendola kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,139
+1.0,15:00,1.0,10.0,CIN 25,0.0,0.0,"Joe Burrow pass incomplete deep right intended for Tyler Boyd. Penalty on Will Anderson: Roughing the Passer, 15 yards (accepted) (no play)",0.61,1.6,10.0,2023,139
+1.0,14:56,1.0,10.0,CIN 40,0.0,0.0,Joe Mixon right guard for 2 yards (tackle by Jonathan Greenard),1.6,1.32,10.0,2023,139
+1.0,14:24,2.0,8.0,CIN 42,0.0,0.0,Joe Burrow pass incomplete short left intended for Mitchell Wilcox,1.32,0.63,10.0,2023,139
+1.0,14:17,3.0,8.0,CIN 42,0.0,0.0,Joe Burrow pass complete short left to Tanner Hudson for 13 yards (tackle by Denzel Perryman),0.63,2.59,10.0,2023,139
+1.0,13:35,1.0,10.0,HOU 45,0.0,0.0,Joe Burrow pass complete short middle to Tanner Hudson for 8 yards (tackle by DeAndre Houston-Carson),2.59,3.12,10.0,2023,139
+1.0,13:02,2.0,2.0,HOU 37,0.0,0.0,Joe Burrow pass complete short left to Tanner Hudson for 1 yard (tackle by DeAndre Houston-Carson),3.12,2.54,10.0,2023,139
+1.0,12:24,3.0,1.0,HOU 36,0.0,0.0,Joe Mixon right end for -2 yards (tackle by Denzel Perryman),2.54,0.72,10.0,2023,139
+1.0,11:39,4.0,3.0,HOU 38,0.0,0.0,Joe Burrow pass complete short left to Tanner Hudson for 3 yards (tackle by Shaquill Griffin and Tavierre Thomas),0.72,3.25,10.0,2023,139
+1.0,11:14,1.0,10.0,HOU 35,0.0,0.0,Joe Burrow pass complete short right to Tanner Hudson for 3 yards (tackle by Christian Harris),3.25,3.11,10.0,2023,139
+1.0,10:33,2.0,7.0,HOU 32,0.0,0.0,Joe Burrow pass complete short middle to Joe Mixon for no gain (tackle by Christian Harris and Maliek Collins),3.11,2.41,10.0,2023,139
+1.0,9:48,3.0,7.0,HOU 32,0.0,6.0,"Joe Burrow pass complete deep right to Trenton Irwin for 32 yards, touchdown",2.41,7.0,10.0,2023,139
+1.0,9:43,,,HOU 15,0.0,7.0,Evan McPherson kicks extra point good,0.0,0.0,10.0,2023,139
+1.0,9:43,,,CIN 35,0.0,7.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,139
+1.0,9:43,1.0,10.0,HOU 25,0.0,7.0,C.J. Stroud pass complete short right to Tank Dell for 7 yards,0.61,1.01,10.0,2023,139
+1.0,9:19,2.0,3.0,HOU 32,0.0,7.0,Devin Singletary right end for 12 yards (tackle by Nick Scott),1.01,1.86,10.0,2023,139
+1.0,8:45,1.0,10.0,HOU 44,0.0,7.0,Devin Singletary left tackle for 1 yard (tackle by D.J. Reader),1.86,1.45,10.0,2023,139
+1.0,8:08,2.0,9.0,HOU 45,0.0,7.0,C.J. Stroud pass incomplete short left intended for Xavier Hutchinson (defended by Cam Taylor-Britt),1.45,0.76,10.0,2023,139
+1.0,8:06,3.0,9.0,HOU 45,0.0,7.0,C.J. Stroud pass incomplete short middle intended for Dalton Schultz (defended by Logan Wilson),0.76,-0.39,10.0,2023,139
+1.0,8:03,4.0,9.0,HOU 45,0.0,7.0,"Cameron Johnston punts 43 yards, fair catch by Trenton Irwin at CIN-12",-0.39,0.35,10.0,2023,139
+1.0,7:56,1.0,10.0,CIN 12,0.0,7.0,Joe Mixon up the middle for 3 yards (tackle by Sheldon Rankins),-0.35,-0.5,10.0,2023,139
+1.0,7:16,2.0,7.0,CIN 15,0.0,7.0,Joe Burrow pass complete short left to Irv Smith for 6 yards (tackle by Shaquill Griffin),-0.5,-0.37,10.0,2023,139
+1.0,6:34,3.0,1.0,CIN 21,0.0,7.0,Joe Burrow pass complete short right to Tyler Boyd for 4 yards (tackle by Tavierre Thomas),-0.37,0.61,10.0,2023,139
+1.0,5:57,1.0,10.0,CIN 25,0.0,7.0,Joe Mixon left guard for 10 yards (tackle by DeAndre Houston-Carson),0.61,1.27,10.0,2023,139
+1.0,5:18,1.0,10.0,CIN 35,0.0,7.0,Joe Burrow pass incomplete short middle intended for Tyler Boyd,1.27,0.72,10.0,2023,139
+1.0,5:12,2.0,10.0,CIN 35,0.0,7.0,Joe Burrow pass complete short left to Trayveon Williams for 2 yards (tackle by Christian Harris and Shaquill Griffin),0.72,0.3,10.0,2023,139
+1.0,4:30,3.0,8.0,CIN 37,0.0,7.0,Joe Burrow scrambles up the middle for 1 yard (tackle by Blake Cashman),0.3,-0.85,10.0,2023,139
+1.0,3:54,4.0,7.0,CIN 38,0.0,7.0,"Brad Robbins punts 55 yards, returned by Tank Dell for 11 yards (tackle by Chris Evans)",-0.85,-0.04,10.0,2023,139
+1.0,3:42,1.0,10.0,HOU 18,0.0,7.0,C.J. Stroud pass complete deep middle to Dalton Schultz for 23 yards (tackle by Cam Taylor-Britt),0.04,1.66,10.0,2023,139
+1.0,3:04,1.0,10.0,HOU 41,0.0,7.0,Devin Singletary left guard for 6 yards (tackle by DJ Turner),1.66,1.93,10.0,2023,139
+1.0,2:41,2.0,4.0,HOU 47,0.0,7.0,Devin Singletary up the middle for 3 yards (tackle by Mike Hilton),1.93,1.62,10.0,2023,139
+1.0,2:12,3.0,1.0,HOU 50,0.0,7.0,"Penalty on Dalton Schultz: False Start, 5 yards (accepted) (no play)",1.62,0.96,10.0,2023,139
+1.0,1:50,3.0,6.0,HOU 45,0.0,7.0,C.J. Stroud pass complete short middle to Robert Woods for 15 yards (tackle by Chidobe Awuzie),0.96,2.92,10.0,2023,139
+1.0,1:12,1.0,10.0,CIN 40,0.0,7.0,Devin Singletary left tackle for 22 yards (tackle by Mike Hilton and Daxton Hill),2.92,4.37,10.0,2023,139
+1.0,0:36,1.0,10.0,CIN 18,0.0,7.0,C.J. Stroud pass incomplete short middle intended for Robert Woods,4.37,3.8,10.0,2023,139
+1.0,0:32,2.0,10.0,CIN 18,0.0,7.0,C.J. Stroud pass incomplete short middle intended for Tank Dell (defended by Daxton Hill),3.8,3.05,10.0,2023,139
+1.0,0:26,3.0,10.0,CIN 18,0.0,7.0,"C.J. Stroud pass complete short right to Tank Dell for 9 yards CIN challenged the runner was in bounds ruling, and the play was upheld.",3.05,2.98,10.0,2023,139
+1.0,0:03,4.0,1.0,CIN 9,0.0,7.0,"C.J. Stroud aborted snap, recovered by D.J. Reader at CIN-11",2.98,0.37,10.0,2023,139
+2.0,15:00,1.0,10.0,CIN 11,0.0,7.0,Joe Burrow pass incomplete short left intended for Joe Mixon,-0.37,-0.78,10.0,2023,139
+2.0,14:57,2.0,10.0,CIN 11,0.0,7.0,Joe Burrow pass complete short right to Joe Mixon for -1 yards (tackle by Denzel Perryman and Tavierre Thomas),-0.78,-1.54,10.0,2023,139
+2.0,14:20,3.0,11.0,CIN 10,0.0,7.0,Joe Burrow pass complete short middle to Ja'Marr Chase for 8 yards (tackle by Tavierre Thomas and Blake Cashman),-1.54,-2.24,10.0,2023,139
+2.0,13:44,4.0,3.0,CIN 18,0.0,7.0,"Brad Robbins punts 48 yards, fair catch by Tank Dell at HOU-34",-2.24,-1.2,10.0,2023,139
+2.0,13:36,1.0,10.0,HOU 34,0.0,7.0,Devin Singletary left tackle for 7 yards (tackle by Cameron Sample),1.2,1.6,10.0,2023,139
+2.0,13:21,2.0,3.0,HOU 41,0.0,7.0,Tank Dell left end for 13 yards (tackle by Cam Taylor-Britt),1.6,2.52,10.0,2023,139
+2.0,12:32,1.0,10.0,CIN 46,0.0,7.0,Devin Singletary right tackle for 4 yards (tackle by Mike Hilton and Chidobe Awuzie),2.52,2.52,10.0,2023,139
+2.0,12:09,2.0,6.0,CIN 42,0.0,7.0,C.J. Stroud pass complete short middle to Tank Dell for 17 yards (tackle by Chidobe Awuzie),2.52,3.91,10.0,2023,139
+2.0,11:37,1.0,10.0,CIN 25,0.0,7.0,Devin Singletary right end for 4 yards (tackle by Chidobe Awuzie),3.91,3.9,10.0,2023,139
+2.0,10:55,2.0,6.0,CIN 21,0.0,7.0,"C.J. Stroud pass complete short middle to Noah Brown for 9 yards (tackle by Chidobe Awuzie and Germaine Pratt). Penalty on Germaine Pratt: Face Mask (15 Yards), 6 yards (accepted)",3.9,5.83,10.0,2023,139
+2.0,10:38,1.0,6.0,CIN 6,6.0,7.0,"C.J. Stroud pass complete short right to Tank Dell for 6 yards, touchdown",5.83,7.0,10.0,2023,139
+2.0,10:33,,,CIN 15,7.0,7.0,Matt Ammendola kicks extra point good,0.0,0.0,10.0,2023,139
+2.0,10:33,,,HOU 35,7.0,7.0,"Matt Ammendola kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,139
+2.0,10:33,1.0,10.0,CIN 25,7.0,7.0,Joe Mixon right guard for 3 yards (tackle by Tavierre Thomas),0.61,0.47,10.0,2023,139
+2.0,9:59,2.0,7.0,CIN 28,7.0,7.0,Joe Mixon left guard for 5 yards (tackle by Kurt Hinish and Denzel Perryman),0.47,0.43,10.0,2023,139
+2.0,9:15,3.0,2.0,CIN 33,7.0,7.0,Joe Burrow pass incomplete short left intended for Tanner Hudson,0.43,-1.18,10.0,2023,139
+2.0,9:08,4.0,2.0,CIN 33,7.0,7.0,"Brad Robbins punts 54 yards, returned by Tank Dell for 7 yards (tackle by Shedrick Jackson)",-1.18,-0.28,10.0,2023,139
+2.0,8:59,1.0,10.0,HOU 20,7.0,7.0,C.J. Stroud pass complete deep left to Noah Brown for 30 yards (tackle by Daxton Hill),0.28,2.26,10.0,2023,139
+2.0,8:16,1.0,10.0,HOU 50,7.0,7.0,Devin Singletary left guard for 1 yard (tackle by B.J. Hill and Cameron Sample),2.26,1.85,10.0,2023,139
+2.0,7:35,2.0,9.0,CIN 49,7.0,7.0,C.J. Stroud pass incomplete deep right intended for Tank Dell,1.85,1.16,10.0,2023,139
+2.0,7:30,3.0,9.0,CIN 49,7.0,7.0,"Penalty on Laremy Tunsil: False Start, 5 yards (accepted) (no play)",1.16,0.5,10.0,2023,139
+2.0,7:30,3.0,14.0,HOU 46,7.0,7.0,C.J. Stroud pass complete short right to Dalton Schultz for 19 yards (tackle by Daxton Hill),0.5,3.25,10.0,2023,139
+2.0,6:55,1.0,10.0,CIN 35,7.0,7.0,Devin Singletary right end for no gain (tackle by DJ Turner and Jordan Battle),3.25,2.7,10.0,2023,139
+2.0,6:19,2.0,10.0,CIN 35,7.0,7.0,C.J. Stroud pass complete short middle to Dalton Schultz for 4 yards (tackle by Jordan Battle and Jay Tufele),2.7,2.54,10.0,2023,139
+2.0,5:37,3.0,6.0,CIN 31,7.0,7.0,"C.J. Stroud sacked by and Logan Wilson for no gain and Trey Hendrickson for no gain. C.J. Stroud fumbles (forced by Logan Wilson), recovered by Mike Hilton at CIN-28 (tackle by Robert Woods) Replay Assistant challenged the fumble ruling, and the play was upheld.",2.54,-0.81,10.0,2023,139
+2.0,5:31,1.0,10.0,CIN 28,7.0,7.0,Joe Burrow pass complete short left to Tyler Boyd for 2 yards (tackle by Blake Cashman),0.81,0.53,10.0,2023,139
+2.0,4:53,2.0,8.0,CIN 30,7.0,7.0,Joe Burrow sacked by Sheldon Rankins for -6 yards,0.53,-0.96,10.0,2023,139
+2.0,3:59,3.0,14.0,CIN 24,7.0,7.0,Joe Burrow pass complete short left to Ja'Marr Chase for 13 yards (tackle by Shaquill Griffin),-0.96,-0.91,10.0,2023,139
+2.0,3:11,4.0,1.0,CIN 37,7.0,7.0,"Penalty on CIN: Delay of Game, 5 yards (accepted) (no play)",-0.91,-1.24,10.0,2023,139
+2.0,2:51,4.0,6.0,CIN 32,7.0,7.0,"Brad Robbins punts 56 yards, returned by Robert Woods for no gain (tackle by Markus Bailey). Penalty on Dylan Horton: Illegal Block Above the Waist, 10 yards (offset) . Penalty on Stanley Morgan: Unnecessary Roughness / Defense, 15 yards (offset)",-1.24,0.35,10.0,2023,139
+2.0,2:40,1.0,10.0,HOU 12,7.0,7.0,Devin Singletary right guard for 5 yards (tackle by Germaine Pratt and Logan Wilson),-0.35,-0.23,10.0,2023,139
+2.0,2:01,2.0,5.0,HOU 17,7.0,7.0,C.J. Stroud pass complete deep right to Noah Brown for 28 yards (tackle by Daxton Hill),-0.23,1.93,10.0,2023,139
+2.0,1:50,1.0,10.0,HOU 45,7.0,7.0,Devin Singletary right guard for -3 yards (tackle by Germaine Pratt and Mike Hilton),1.93,0.98,10.0,2023,139
+2.0,1:08,2.0,13.0,HOU 42,7.0,7.0,C.J. Stroud pass incomplete short right intended for Devin Singletary,0.98,0.3,10.0,2023,139
+2.0,1:00,3.0,13.0,HOU 42,7.0,7.0,C.J. Stroud pass complete deep right to Noah Brown for 29 yards (tackle by Jordan Battle),0.3,3.64,10.0,2023,139
+2.0,0:53,,,,,,Timeout #1 by Houston Texans,,,10.0,2023,139
+2.0,0:53,1.0,10.0,CIN 29,7.0,7.0,C.J. Stroud pass incomplete short right intended for Mike Boone,3.64,3.1,10.0,2023,139
+2.0,0:49,2.0,10.0,CIN 29,7.0,7.0,C.J. Stroud pass complete short left to Mike Boone for 2 yards (tackle by Logan Wilson),3.1,2.68,10.0,2023,139
+2.0,0:19,,,,,,Timeout #2 by Houston Texans,,,10.0,2023,139
+2.0,0:19,3.0,8.0,CIN 27,7.0,7.0,C.J. Stroud pass incomplete deep left intended for Dalton Schultz (defended by Daxton Hill),2.68,1.67,10.0,2023,139
+2.0,0:15,4.0,8.0,CIN 27,10.0,7.0,Matt Ammendola 45 yard field goal good,1.67,3.0,10.0,2023,139
+2.0,0:10,,,HOU 35,10.0,7.0,"Matt Ammendola kicks off 64 yards, returned by Trenton Irwin for 8 yards (tackle by Dare Ogunbowale)",0.0,-0.38,10.0,2023,139
+2.0,0:08,1.0,10.0,CIN 9,10.0,7.0,Joe Burrow kneels for -1 yards,-0.38,-0.85,10.0,2023,139
+3.0,15:00,,,CIN 35,10.0,7.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,139
+3.0,15:00,1.0,10.0,HOU 25,10.0,7.0,Devin Singletary left end for 12 yards (tackle by Cam Taylor-Britt and Germaine Pratt),0.61,1.4,10.0,2023,139
+3.0,14:24,1.0,10.0,HOU 37,10.0,7.0,Devin Singletary left guard for 3 yards (tackle by Trey Hendrickson),1.4,1.26,10.0,2023,139
+3.0,13:47,2.0,7.0,HOU 40,10.0,7.0,C.J. Stroud pass complete deep right to Noah Brown for 20 yards (tackle by Mike Hilton),1.26,2.92,10.0,2023,139
+3.0,13:06,1.0,10.0,CIN 40,10.0,7.0,Devin Singletary left tackle for 3 yards (tackle by B.J. Hill and Nick Scott),2.92,2.78,10.0,2023,139
+3.0,12:22,2.0,7.0,CIN 37,10.0,7.0,Devin Singletary right end for 7 yards (tackle by Mike Hilton),2.78,3.58,10.0,2023,139
+3.0,11:42,1.0,10.0,CIN 30,10.0,7.0,C.J. Stroud pass complete short right to Tank Dell for 6 yards (tackle by Germaine Pratt and Myles Murphy),3.58,3.84,10.0,2023,139
+3.0,11:03,2.0,4.0,CIN 24,10.0,7.0,C.J. Stroud pass complete deep left to John Metchie for 19 yards,3.84,6.06,10.0,2023,139
+3.0,10:25,1.0,5.0,CIN 5,10.0,7.0,Devin Singletary left guard for 2 yards (tackle by Mike Hilton and Logan Wilson),6.06,5.53,10.0,2023,139
+3.0,9:45,2.0,3.0,CIN 3,10.0,7.0,C.J. Stroud pass incomplete short right intended for Tank Dell (defended by Chidobe Awuzie),5.53,4.72,10.0,2023,139
+3.0,9:39,3.0,3.0,CIN 3,10.0,7.0,"C.J. Stroud pass incomplete short right intended for Robert Woods. Penalty on Robert Woods: Illegal Touch Pass (accepted) Replay Assistant challenged the tipped pass ruling, and the play was upheld.",4.72,3.04,10.0,2023,139
+3.0,9:30,4.0,3.0,CIN 3,13.0,7.0,Matt Ammendola 22 yard field goal good,3.04,3.0,10.0,2023,139
+3.0,9:27,,,HOU 35,13.0,7.0,"Matt Ammendola kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,139
+3.0,9:27,1.0,10.0,CIN 25,13.0,7.0,Joe Burrow pass complete short left to Tyler Boyd for 1 yard (tackle by Steven Nelson),0.61,0.2,10.0,2023,139
+3.0,8:55,2.0,9.0,CIN 26,13.0,7.0,Joe Burrow pass incomplete short middle intended for Tyler Boyd,0.2,-0.49,10.0,2023,139
+3.0,8:50,3.0,9.0,CIN 26,13.0,7.0,"Joe Burrow sacked by Sheldon Rankins for -12 yards. Joe Burrow fumbles (forced by Sheldon Rankins), recovered by Orlando Brown at CIN-13 (tackle by Sheldon Rankins)",-0.49,-2.49,10.0,2023,139
+3.0,8:04,4.0,22.0,CIN 13,13.0,7.0,"Brad Robbins punts 46 yards, fair catch by Tank Dell at HOU-41",-2.49,-1.66,10.0,2023,139
+3.0,7:59,1.0,10.0,HOU 41,13.0,7.0,"C.J. Stroud pass incomplete deep left intended for Tank Dell. Penalty on DJ Turner: Defensive Pass Interference, 42 yards (accepted) (no play)",1.66,4.44,10.0,2023,139
+3.0,7:52,1.0,10.0,CIN 17,13.0,7.0,C.J. Stroud pass complete short left to Devin Singletary for 11 yards (tackle by Cam Taylor-Britt),4.44,5.83,10.0,2023,139
+3.0,7:12,1.0,6.0,CIN 6,19.0,7.0,"Devin Singletary right end for 6 yards, touchdown",5.83,7.0,10.0,2023,139
+3.0,7:08,,,CIN 15,20.0,7.0,Matt Ammendola kicks extra point good,0.0,0.0,10.0,2023,139
+3.0,7:08,,,HOU 35,20.0,7.0,"Matt Ammendola kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,139
+3.0,7:08,1.0,10.0,CIN 25,20.0,7.0,Joe Burrow scrambles left tackle for 17 yards (tackle by Dylan Horton),0.61,1.73,10.0,2023,139
+3.0,6:28,1.0,10.0,CIN 42,20.0,7.0,Joe Burrow pass complete short middle to Tyler Boyd for 14 yards (tackle by DeAndre Houston-Carson),1.73,2.65,10.0,2023,139
+3.0,5:51,1.0,10.0,HOU 44,20.0,7.0,Joe Mixon left tackle for 15 yards (tackle by Khalil Davis and Christian Harris),2.65,3.64,10.0,2023,139
+3.0,5:06,1.0,10.0,HOU 29,20.0,7.0,"Joe Burrow pass incomplete short right. Penalty on Jonah Williams: Offensive Holding, 10 yards (accepted) (no play)",3.64,2.98,10.0,2023,139
+3.0,4:58,1.0,20.0,HOU 39,20.0,7.0,Joe Burrow pass complete short right to Tanner Hudson for 5 yards (tackle by Tavierre Thomas and Christian Harris),2.98,2.42,10.0,2023,139
+3.0,4:25,2.0,15.0,HOU 34,20.0,7.0,Joe Burrow pass complete short left to Tyler Boyd for 10 yards (tackle by Tavierre Thomas and Steven Nelson),2.42,3.07,10.0,2023,139
+3.0,3:49,3.0,5.0,HOU 24,20.0,7.0,Joe Burrow sacked by Jonathan Greenard for -8 yards,3.07,1.24,10.0,2023,139
+3.0,3:05,4.0,13.0,HOU 32,20.0,10.0,Evan McPherson 50 yard field goal good,1.24,3.0,10.0,2023,139
+3.0,3:00,,,CIN 35,20.0,10.0,"Evan McPherson kicks off 63 yards,",0.0,0.61,10.0,2023,139
+3.0,3:00,1.0,10.0,HOU 25,20.0,10.0,Devin Singletary right guard for 1 yard (tackle by Zachary Carter and Nick Scott),0.61,0.2,10.0,2023,139
+3.0,2:26,2.0,9.0,HOU 26,20.0,10.0,C.J. Stroud pass complete short right to John Metchie for 6 yards (tackle by Cam Taylor-Britt),0.2,0.3,10.0,2023,139
+3.0,1:52,3.0,3.0,HOU 32,20.0,10.0,C.J. Stroud pass incomplete deep left intended for Tank Dell,0.3,-1.24,10.0,2023,139
+3.0,1:43,4.0,3.0,HOU 32,20.0,10.0,Cameron Johnston punts 41 yards downed by Neville Hewitt,-1.24,-0.74,10.0,2023,139
+3.0,1:33,1.0,10.0,CIN 27,20.0,10.0,Joe Burrow pass complete short left to Tyler Boyd for 3 yards (tackle by Maliek Collins),0.74,0.6,10.0,2023,139
+3.0,1:03,2.0,7.0,CIN 30,20.0,10.0,"Joe Burrow pass incomplete deep middle intended for Tyler Boyd. Penalty on Tavierre Thomas: Defensive Pass Interference, 8 yards (accepted) (no play)",0.6,1.47,10.0,2023,139
+3.0,0:58,1.0,10.0,CIN 38,20.0,10.0,Joe Mixon up the middle for -2 yards (tackle by Jonathan Greenard and Kurt Hinish),1.47,0.65,10.0,2023,139
+3.0,0:21,2.0,12.0,CIN 36,20.0,16.0,"Joe Burrow pass complete deep left to Ja'Marr Chase for 64 yards, touchdown",0.65,7.0,10.0,2023,139
+3.0,0:10,,,HOU 15,20.0,17.0,Evan McPherson kicks extra point good,0.0,0.0,10.0,2023,139
+3.0,0:10,,,CIN 35,20.0,17.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,139
+3.0,0:10,1.0,10.0,HOU 25,20.0,17.0,Devin Singletary right tackle for 5 yards (tackle by Mike Hilton and Daxton Hill),0.61,0.74,10.0,2023,139
+4.0,15:00,2.0,5.0,HOU 30,20.0,17.0,C.J. Stroud pass complete deep right to Noah Brown for 34 yards (tackle by Chidobe Awuzie),0.74,3.18,10.0,2023,139
+4.0,14:19,1.0,10.0,CIN 36,20.0,17.0,Xavier Hutchinson left end for 17 yards (tackle by Daxton Hill),3.18,4.31,10.0,2023,139
+4.0,13:38,1.0,10.0,CIN 19,20.0,17.0,C.J. Stroud pass incomplete short right intended for Tank Dell,4.31,3.75,10.0,2023,139
+4.0,13:33,2.0,10.0,CIN 19,20.0,17.0,Devin Singletary left tackle for 11 yards (tackle by Cameron Sample),3.75,5.37,10.0,2023,139
+4.0,12:52,1.0,8.0,CIN 8,26.0,17.0,"C.J. Stroud scrambles right tackle for 8 yards, touchdown",5.37,7.0,10.0,2023,139
+4.0,12:47,,,CIN 15,27.0,17.0,Matt Ammendola kicks extra point good,0.0,0.0,10.0,2023,139
+4.0,12:47,,,HOU 35,27.0,17.0,"Matt Ammendola kicks off 58 yards, returned by Trayveon Williams for 17 yards (tackle by Dare Ogunbowale)",0.0,0.54,10.0,2023,139
+4.0,12:44,1.0,10.0,CIN 24,27.0,17.0,Joe Burrow scrambles up the middle for 2 yards (tackle by Sheldon Rankins),0.54,0.27,10.0,2023,139
+4.0,12:10,2.0,8.0,CIN 26,27.0,17.0,Joe Mixon left tackle for 2 yards (tackle by Maliek Collins and Will Anderson),0.27,-0.16,10.0,2023,139
+4.0,11:28,3.0,6.0,CIN 28,27.0,17.0,Joe Burrow pass complete short right to Tyler Boyd for 19 yards (tackle by Steven Nelson),-0.16,2.06,10.0,2023,139
+4.0,10:56,1.0,10.0,CIN 47,27.0,17.0,Joe Burrow pass complete short right to Drew Sample for 9 yards (tackle by Shaquill Griffin and Blake Cashman),2.06,2.73,10.0,2023,139
+4.0,10:15,2.0,1.0,HOU 44,27.0,17.0,Joe Burrow pass incomplete deep right intended for Andrei Iosivas,2.73,2.02,10.0,2023,139
+4.0,10:10,3.0,1.0,HOU 44,27.0,17.0,Joe Mixon left tackle for 9 yards (tackle by Blake Cashman and Steven Nelson),2.02,3.25,10.0,2023,139
+4.0,9:45,1.0,10.0,HOU 35,27.0,17.0,Joe Burrow pass deep middle intended for Drew Sample is intercepted by DeAndre Houston-Carson at HOU-11 and returned for 13 yards (tackle by Cordell Volson),3.25,-0.54,10.0,2023,139
+4.0,9:35,1.0,10.0,HOU 24,27.0,17.0,Devin Singletary left end for 14 yards (tackle by Germaine Pratt),0.54,1.47,10.0,2023,139
+4.0,8:52,1.0,10.0,HOU 38,27.0,17.0,Devin Singletary left tackle for 2 yards (tackle by B.J. Hill and Cameron Sample),1.47,1.19,10.0,2023,139
+4.0,8:11,2.0,8.0,HOU 40,27.0,17.0,C.J. Stroud pass complete short right to Tank Dell for 11 yards (tackle by Cam Taylor-Britt),1.19,2.32,10.0,2023,139
+4.0,7:27,1.0,10.0,CIN 49,27.0,17.0,Devin Singletary left guard for 2 yards (tackle by D.J. Reader),2.32,2.05,10.0,2023,139
+4.0,6:45,2.0,8.0,CIN 47,27.0,17.0,Devin Singletary left end for 1 yard (tackle by Trey Hendrickson),2.05,1.49,10.0,2023,139
+4.0,6:02,3.0,7.0,CIN 46,27.0,17.0,C.J. Stroud pass incomplete short middle intended for Noah Brown,1.49,0.2,10.0,2023,139
+4.0,5:56,4.0,7.0,CIN 46,27.0,17.0,"Cameron Johnston punts 38 yards, fair catch by Trenton Irwin at CIN-8",0.2,0.38,10.0,2023,139
+4.0,5:50,1.0,10.0,CIN 8,27.0,17.0,Joe Burrow pass complete deep right to Ja'Marr Chase for 23 yards (tackle by DeAndre Houston-Carson),-0.38,1.0,10.0,2023,139
+4.0,5:20,1.0,10.0,CIN 31,27.0,17.0,Joe Burrow pass incomplete deep middle intended for Trenton Irwin,1.0,0.46,10.0,2023,139
+4.0,5:15,2.0,10.0,CIN 31,27.0,17.0,Joe Burrow pass incomplete short left intended for Ja'Marr Chase,0.46,-0.23,10.0,2023,139
+4.0,5:11,3.0,10.0,CIN 31,27.0,17.0,Joe Burrow pass complete deep middle to Trenton Irwin for 22 yards (tackle by DeAndre Houston-Carson),-0.23,2.46,10.0,2023,139
+4.0,4:37,1.0,10.0,HOU 47,27.0,17.0,Joe Burrow pass complete short left to Drew Sample for 3 yards (tackle by Tavierre Thomas),2.46,2.32,10.0,2023,139
+4.0,4:04,2.0,7.0,HOU 44,27.0,17.0,"Joe Burrow pass complete short right to Ja'Marr Chase for 16 yards (tackle by Denzel Perryman). Penalty on Denzel Perryman: Unnecessary Roughness / Defense, 14 yards (accepted)",2.32,4.65,10.0,2023,139
+4.0,4:00,1.0,10.0,HOU 14,27.0,17.0,Joe Burrow pass deep right intended for Tyler Boyd is intercepted by Shaquill Griffin in end zone and returned for no gain,4.65,-0.28,10.0,2023,139
+4.0,3:53,1.0,10.0,HOU 20,27.0,17.0,Devin Singletary up the middle for 7 yards (tackle by Chidobe Awuzie and Germaine Pratt),0.28,0.68,10.0,2023,139
+4.0,3:47,,,,,,Timeout #1 by Cincinnati Bengals,,,10.0,2023,139
+4.0,3:47,2.0,3.0,HOU 27,27.0,17.0,Devin Singletary left guard for 1 yard (tackle by Chidobe Awuzie),0.68,0.1,10.0,2023,139
+4.0,3:41,,,,,,Timeout #2 by Cincinnati Bengals,,,10.0,2023,139
+4.0,3:41,3.0,2.0,HOU 28,27.0,17.0,C.J. Stroud pass short right intended for Tank Dell is intercepted by Cam Taylor-Britt at HOU-34 and returned for 30 yards (tackle by Tank Dell),0.1,-6.28,10.0,2023,139
+4.0,3:33,1.0,4.0,HOU 4,27.0,17.0,Joe Burrow pass incomplete short right intended for Trenton Irwin,6.28,5.34,10.0,2023,139
+4.0,3:28,2.0,4.0,HOU 4,27.0,17.0,"Joe Burrow pass incomplete short middle intended for Tanner Hudson. Penalty on Denzel Perryman: Illegal Contact, 5 yards (declined) . Penalty on Denzel Perryman: Defensive Pass Interference, 3 yards (accepted) (no play)",5.34,6.97,10.0,2023,139
+4.0,3:22,1.0,1.0,HOU 1,27.0,23.0,"Joe Mixon up the middle for 1 yard, touchdown",6.97,7.0,10.0,2023,139
+4.0,3:18,,,HOU 15,27.0,24.0,Evan McPherson kicks extra point good,0.0,0.0,10.0,2023,139
+4.0,3:18,,,CIN 35,27.0,24.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,139
+4.0,3:18,1.0,10.0,HOU 25,27.0,24.0,Devin Singletary left tackle for 4 yards (tackle by Cameron Sample),0.61,0.6,10.0,2023,139
+4.0,2:34,2.0,6.0,HOU 29,27.0,24.0,Devin Singletary right guard for 3 yards (tackle by Trey Hendrickson and Cam Taylor-Britt),0.6,0.3,10.0,2023,139
+4.0,2:26,,,,,,Timeout #3 by Cincinnati Bengals,,,10.0,2023,139
+4.0,2:26,3.0,3.0,HOU 32,27.0,24.0,C.J. Stroud pass incomplete deep right intended for Tank Dell (defended by DJ Turner),0.3,-1.24,10.0,2023,139
+4.0,2:20,4.0,3.0,HOU 32,27.0,24.0,"Cameron Johnston punts 47 yards, returned by Trenton Irwin for 8 yards (tackle by Blake Cashman)",-1.24,-0.87,10.0,2023,139
+4.0,2:10,1.0,10.0,CIN 29,27.0,24.0,Joe Burrow pass incomplete short right,0.87,0.33,10.0,2023,139
+4.0,2:04,2.0,10.0,CIN 29,27.0,24.0,Joe Burrow pass complete short middle to Tyler Boyd for 64 yards (tackle by DeAndre Houston-Carson),0.33,5.6,10.0,2023,139
+4.0,1:53,1.0,7.0,HOU 7,27.0,24.0,Joe Burrow sacked by Sheldon Rankins for -7 yards,5.6,3.58,10.0,2023,139
+4.0,1:46,,,,,,Timeout #1 by Houston Texans,,,10.0,2023,139
+4.0,1:46,2.0,14.0,HOU 14,27.0,24.0,Joe Burrow up the middle for 1 yard (tackle by Maliek Collins),3.58,3.06,10.0,2023,139
+4.0,1:42,,,,,,Timeout #2 by Houston Texans,,,10.0,2023,139
+4.0,1:42,3.0,13.0,HOU 13,27.0,24.0,Joe Burrow pass incomplete short middle intended for Tyler Boyd,3.06,2.57,10.0,2023,139
+4.0,1:37,4.0,13.0,HOU 13,27.0,27.0,Evan McPherson 31 yard field goal good,2.57,3.0,10.0,2023,139
+4.0,1:33,,,CIN 35,27.0,27.0,"Evan McPherson kicks off 65 yards, touchback.",0.0,0.61,10.0,2023,139
+4.0,1:33,1.0,10.0,HOU 25,27.0,27.0,C.J. Stroud pass incomplete deep left intended for Tank Dell,0.61,0.06,10.0,2023,139
+4.0,1:26,2.0,10.0,HOU 25,27.0,27.0,Devin Singletary left tackle for 4 yards (tackle by Logan Wilson and Germaine Pratt),0.06,-0.1,10.0,2023,139
+4.0,0:44,3.0,6.0,HOU 29,27.0,27.0,C.J. Stroud pass complete deep middle to Dalton Schultz for 25 yards (tackle by Cam Taylor-Britt),-0.1,2.52,10.0,2023,139
+4.0,0:23,1.0,10.0,CIN 46,27.0,27.0,C.J. Stroud pass complete short left to Mike Boone for 4 yards (tackle by Cam Taylor-Britt),2.52,2.52,10.0,2023,139
+4.0,0:15,2.0,6.0,CIN 42,27.0,27.0,C.J. Stroud pass complete short left to Noah Brown for 22 yards (tackle by Daxton Hill and DJ Turner),2.52,4.24,10.0,2023,139
+4.0,0:05,,,,,,Timeout #3 by Houston Texans,,,10.0,2023,139
+4.0,0:05,1.0,10.0,CIN 20,30.0,27.0,Matt Ammendola 38 yard field goal good,4.24,3.0,10.0,2023,139

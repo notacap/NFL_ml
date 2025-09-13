@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,10:19,NYG 30,8,5:00,59,Field Goal,0,Giants,8.0,2024,123
+2,1,3:05,NYG 34,12,5:26,45,Field Goal,0,Giants,8.0,2024,123
+3,2,8:12,NYG 30,3,1:27,7,Punt,0,Giants,8.0,2024,123
+4,2,1:53,NYG 17,8,1:32,57,Field Goal,0,Giants,8.0,2024,123
+5,3,15:00,NYG 30,8,4:58,27,Punt,0,Giants,8.0,2024,123
+6,3,7:35,NYG 26,3,2:57,-7,Punt,0,Giants,8.0,2024,123
+7,3,4:38,NYG 30,3,2:10,4,Punt,0,Giants,8.0,2024,123
+8,4,13:16,NYG 45,5,2:09,55,Touchdown,0,Giants,8.0,2024,123
+9,4,7:15,NYG 30,8,2:09,40,Field Goal,0,Giants,8.0,2024,123
+10,4,4:34,PIT 37,5,1:35,9,Fumble,0,Giants,8.0,2024,123
+11,4,1:53,NYG 7,8,1:19,58,Interception,0,Giants,8.0,2024,123

@@ -1,0 +1,39 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Unnamed: 7_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Fumbles,Fumbles,Fumbles,Fumbles,week,year,game_id
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF,,,
+Khalil Mack,LAC,0,0,0,0,0,2.0,5,5,0,2,2,0,0,0,1,13.0,2023,187
+Eric Kendricks,LAC,0,0,0,0,0,1.0,10,6,4,2,1,0,0,0,0,13.0,2023,187
+Derwin James,LAC,0,0,0,0,0,1.0,9,7,2,1,1,0,0,0,0,13.0,2023,187
+Justin Hollins,LAC,0,0,0,0,0,1.0,1,1,0,1,1,0,0,0,0,13.0,2023,187
+Deane Leonard,LAC,0,0,0,0,1,0.0,8,6,2,0,0,0,0,0,0,13.0,2023,187
+Kenneth Murray,LAC,0,0,0,0,0,0.0,7,5,2,0,0,0,0,0,0,13.0,2023,187
+Asante Samuel Jr.,LAC,0,0,0,0,1,0.0,5,4,1,0,0,0,0,0,0,13.0,2023,187
+Austin Johnson,LAC,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0,13.0,2023,187
+Essang Bassey,LAC,0,0,0,0,1,0.0,3,1,2,0,0,0,0,0,0,13.0,2023,187
+Alohi Gilman,LAC,0,0,0,0,0,0.0,3,0,3,0,0,0,0,0,0,13.0,2023,187
+Nick Williams,LAC,0,0,0,0,0,0.0,3,1,2,1,0,0,0,0,0,13.0,2023,187
+Sebastian Joseph-Day,LAC,0,0,0,0,0,0.0,2,0,2,0,0,0,0,0,0,13.0,2023,187
+Otito Ogbonnia,LAC,0,0,0,0,0,0.0,2,0,2,0,0,0,0,0,0,13.0,2023,187
+AJ Finley,LAC,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,13.0,2023,187
+Morgan Fox,LAC,0,0,0,0,0,0.0,1,1,0,1,0,0,0,0,0,13.0,2023,187
+Blake Lynch,LAC,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,13.0,2023,187
+Tuli Tuipulotu,LAC,0,0,0,0,0,0.0,1,1,0,0,1,1,0,0,1,13.0,2023,187
+Ja'Whaun Bentley,NWE,0,0,0,0,0,0.0,8,1,7,0,0,0,0,0,0,13.0,2023,187
+Jahlani Tavai,NWE,0,0,0,0,0,0.0,8,4,4,1,0,0,0,0,0,13.0,2023,187
+Jonathan Jones,NWE,0,0,0,0,1,0.0,6,4,2,0,0,0,0,0,0,13.0,2023,187
+Kyle Dugger,NWE,0,0,0,0,0,0.0,5,2,3,0,0,0,0,0,0,13.0,2023,187
+J.C. Jackson,NWE,0,0,0,0,2,0.0,4,3,1,0,0,0,0,0,0,13.0,2023,187
+Jabrill Peppers,NWE,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0,13.0,2023,187
+Keion White,NWE,0,0,0,0,0,0.0,4,2,2,1,1,0,0,0,0,13.0,2023,187
+Mack Wilson,NWE,0,0,0,0,1,0.0,4,3,1,1,0,0,0,0,0,13.0,2023,187
+Myles Bryant,NWE,0,0,0,0,1,0.0,3,3,0,0,0,0,0,0,0,13.0,2023,187
+Davon Godchaux,NWE,0,0,0,0,0,0.0,3,1,2,0,0,0,0,0,0,13.0,2023,187
+Anfernee Jennings,NWE,0,0,0,0,0,0.0,3,2,1,0,0,0,0,0,0,13.0,2023,187
+Jalen Mills,NWE,0,0,0,0,1,0.0,3,0,3,0,0,0,0,0,0,13.0,2023,187
+Lawrence Guy,NWE,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0,13.0,2023,187
+Ty Montgomery,NWE,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0,13.0,2023,187
+Joshua Uche,NWE,0,0,0,0,0,0.0,2,0,2,0,0,0,0,0,0,13.0,2023,187
+Christian Barmore,NWE,0,0,0,0,0,0.0,1,1,0,1,1,0,0,0,0,13.0,2023,187
+Marte Mapu,NWE,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0,13.0,2023,187
+Jeremiah Pharms,NWE,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,13.0,2023,187
+Sam Roberts,NWE,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,13.0,2023,187
+JuJu Smith-Schuster,NWE,0,0,0,0,0,0.0,0,0,0,0,0,1,1,0,0,13.0,2023,187

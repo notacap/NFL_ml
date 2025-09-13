@@ -1,0 +1,179 @@
+Quarter,Time,Down,ToGo,Location,NWE,MIA,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Dolphins won the coin toss and deferred, Patriots to receive the opening kickoff.",,,12.0,2024,171
+1.0,15:00,,,MIA 35,0.0,0.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,171
+1.0,15:00,1.0,10.0,NWE 30,0.0,0.0,Rhamondre Stevenson left guard for 1 yard (tackle by Benito Jones),0.94,0.53,12.0,2024,171
+1.0,14:25,2.0,9.0,NWE 31,0.0,0.0,Drake Maye pass complete short left to Hunter Henry for 6 yards (tackle by Kader Kohou),0.53,0.63,12.0,2024,171
+1.0,13:41,3.0,3.0,NWE 37,0.0,0.0,"Penalty on Vederian Lowe: False Start, 5 yards (accepted) (no play)",0.63,-0.03,12.0,2024,171
+1.0,13:23,3.0,8.0,NWE 32,0.0,0.0,Drake Maye pass complete short right to Ja'Lynn Polk for 7 yards (tackle by Anthony Walker),-0.03,-0.78,12.0,2024,171
+1.0,12:44,4.0,1.0,NWE 39,0.0,0.0,"Bryce Baringer punts 57 yards, returned by Malik Washington for 13 yards (tackle by Jaylinn Hawkins)",-0.78,0.06,12.0,2024,171
+1.0,12:22,1.0,10.0,MIA 17,0.0,0.0,Tua Tagovailoa pass complete short left to Jonnu Smith for 11 yards (tackle by Marcus Jones),-0.06,0.81,12.0,2024,171
+1.0,11:49,1.0,10.0,MIA 28,0.0,0.0,De'Von Achane right tackle for 7 yards (tackle by Marcus Jones and Marte Mapu),0.81,1.21,12.0,2024,171
+1.0,11:24,2.0,3.0,MIA 35,0.0,0.0,De'Von Achane left tackle for 1 yard (tackle by Anfernee Jennings),1.21,0.63,12.0,2024,171
+1.0,10:50,3.0,2.0,MIA 36,0.0,0.0,Tua Tagovailoa pass incomplete short left intended for Jonnu Smith (defended by Marte Mapu),0.63,-0.98,12.0,2024,171
+1.0,10:40,4.0,2.0,MIA 36,0.0,0.0,"Jake Bailey punts 51 yards, fair catch by Marcus Jones at NE-13",-0.98,0.32,12.0,2024,171
+1.0,10:33,1.0,10.0,NWE 13,0.0,0.0,Drake Maye scrambles right end for 6 yards (tackle by Jordyn Brooks),-0.32,0.03,12.0,2024,171
+1.0,9:54,2.0,4.0,NWE 19,0.0,0.0,Rhamondre Stevenson right guard for 9 yards (tackle by Jordan Poyer),0.03,0.81,12.0,2024,171
+1.0,9:13,1.0,10.0,NWE 28,0.0,0.0,"Penalty on Demontrey Jacobs: False Start, 5 yards (accepted) (no play)",0.81,0.48,12.0,2024,171
+1.0,9:11,1.0,15.0,NWE 23,0.0,0.0,Rhamondre Stevenson right tackle for 4 yards (tackle by Zach Sieler),0.48,0.13,12.0,2024,171
+1.0,8:26,2.0,11.0,NWE 27,0.0,0.0,"Penalty on Vederian Lowe: False Start, 5 yards (accepted) (no play)",0.13,-0.55,12.0,2024,171
+1.0,8:10,2.0,16.0,NWE 22,0.0,0.0,Antonio Gibson right guard for 14 yards (tackle by Jordan Poyer),-0.55,0.63,12.0,2024,171
+1.0,7:29,3.0,2.0,NWE 36,0.0,0.0,Drake Maye pass complete short right to Antonio Gibson for 14 yards (tackle by Jordan Poyer),0.63,2.26,12.0,2024,171
+1.0,6:48,1.0,10.0,MIA 50,0.0,0.0,Drake Maye pass complete short middle to Austin Hooper for 11 yards (tackle by Jordyn Brooks and Anthony Walker),2.26,2.98,12.0,2024,171
+1.0,6:13,1.0,10.0,MIA 39,0.0,0.0,Drake Maye scrambles right end for 9 yards (tackle by Jordan Poyer),2.98,3.66,12.0,2024,171
+1.0,5:28,2.0,1.0,MIA 30,0.0,0.0,Antonio Gibson right tackle for 6 yards (tackle by Chop Robinson and Kader Kohou),3.66,3.97,12.0,2024,171
+1.0,4:53,1.0,10.0,MIA 24,0.0,0.0,Antonio Gibson right tackle for 4 yards (tackle by Benito Jones),3.97,3.97,12.0,2024,171
+1.0,4:13,2.0,6.0,MIA 20,0.0,0.0,"Drake Maye pass incomplete deep right intended for Austin Hooper (defended by Anthony Walker). Penalty on Demontrey Jacobs: Offensive Holding, 10 yards (accepted) (no play)",3.97,2.62,12.0,2024,171
+1.0,4:03,2.0,16.0,MIA 30,0.0,0.0,Drake Maye pass incomplete short right intended for Rhamondre Stevenson,2.62,1.95,12.0,2024,171
+1.0,3:54,3.0,16.0,MIA 30,0.0,0.0,Rhamondre Stevenson right guard for 3 yards (tackle by Chop Robinson and Calais Campbell),1.95,1.67,12.0,2024,171
+1.0,3:13,4.0,13.0,MIA 27,0.0,0.0,Joey Slye 45 yard field goal no good,1.67,-1.27,12.0,2024,171
+1.0,3:07,1.0,10.0,MIA 35,0.0,0.0,Tua Tagovailoa pass complete short left to Jonnu Smith for 12 yards (tackle by Jaylinn Hawkins and Jahlani Tavai),1.27,2.06,12.0,2024,171
+1.0,2:30,1.0,10.0,MIA 47,0.0,0.0,Tua Tagovailoa pass complete short right to Jaylen Waddle for 24 yards (tackle by Jonathan Jones),2.06,3.64,12.0,2024,171
+1.0,1:48,1.0,10.0,NWE 29,0.0,0.0,Tua Tagovailoa pass complete short middle to Tyreek Hill for 10 yards (tackle by Jonathan Jones),3.64,4.31,12.0,2024,171
+1.0,1:21,1.0,10.0,NWE 19,0.0,0.0,De'Von Achane right tackle for no gain (tackle by Daniel Ekuale),4.31,3.75,12.0,2024,171
+1.0,0:39,2.0,10.0,NWE 19,0.0,0.0,Tua Tagovailoa pass complete short right to Jonnu Smith for 7 yards (tackle by Kyle Dugger),3.75,4.19,12.0,2024,171
+1.0,0:08,3.0,3.0,NWE 12,0.0,0.0,"Penalty on Anfernee Jennings: Neutral Zone Infraction, 5 yards (accepted) (no play)",4.19,5.6,12.0,2024,171
+2.0,15:00,1.0,7.0,NWE 7,0.0,0.0,Jonnu Smith left end for no gain (tackle by Christian Elliss),5.6,4.76,12.0,2024,171
+2.0,14:25,2.0,7.0,NWE 7,0.0,0.0,Tua Tagovailoa pass incomplete short middle intended for Odell Beckham (defended by Christian Gonzalez),4.76,3.81,12.0,2024,171
+2.0,14:16,3.0,7.0,NWE 7,0.0,6.0,"Tua Tagovailoa pass complete short middle to Jonnu Smith for 7 yards, touchdown",3.81,7.0,12.0,2024,171
+2.0,14:10,,,NWE 15,0.0,7.0,Jason Sanders kicks extra point good,0.0,0.0,12.0,2024,171
+2.0,14:10,,,MIA 35,0.0,7.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,171
+2.0,14:10,1.0,10.0,NWE 30,0.0,7.0,Rhamondre Stevenson right end for -6 yards (tackle by Jordyn Brooks),0.94,-0.42,12.0,2024,171
+2.0,13:32,2.0,16.0,NWE 24,0.0,7.0,Drake Maye pass incomplete deep right intended for Kayshon Boutte,-0.42,-1.09,12.0,2024,171
+2.0,13:25,3.0,16.0,NWE 24,0.0,7.0,Drake Maye sacked by Chop Robinson for -9 yards,-1.09,-2.44,12.0,2024,171
+2.0,12:47,4.0,25.0,NWE 15,0.0,7.0,"Bryce Baringer punts 53 yards, returned by Malik Washington for 2 yards (tackle by Marcellas Dial and Dell Pettus)",-2.44,-1.2,12.0,2024,171
+2.0,12:37,1.0,10.0,MIA 34,0.0,7.0,De'Von Achane left end for 7 yards (tackle by Anfernee Jennings and Jahlani Tavai),1.2,1.6,12.0,2024,171
+2.0,12:08,2.0,3.0,MIA 41,0.0,7.0,Tua Tagovailoa pass complete short left to Jonnu Smith for 13 yards (tackle by Marcus Jones),1.6,2.52,12.0,2024,171
+2.0,11:26,1.0,10.0,NWE 46,0.0,7.0,De'Von Achane right end for 5 yards (tackle by Jahlani Tavai and Eric Johnson),2.52,2.65,12.0,2024,171
+2.0,10:48,2.0,5.0,NWE 41,0.0,7.0,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 17 yards (tackle by Marcus Jones and Kyle Dugger),2.65,3.97,12.0,2024,171
+2.0,10:10,1.0,10.0,NWE 24,0.0,7.0,Tua Tagovailoa pass incomplete deep right intended for De'Von Achane (defended by Christian Elliss),3.97,3.43,12.0,2024,171
+2.0,9:56,2.0,10.0,NWE 24,0.0,7.0,Tua Tagovailoa pass complete short left to Malik Washington for 1 yard (tackle by Jonathan Jones),3.43,2.87,12.0,2024,171
+2.0,9:17,3.0,9.0,NWE 23,0.0,7.0,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 14 yards (tackle by Christian Gonzalez),2.87,5.14,12.0,2024,171
+2.0,8:37,1.0,9.0,NWE 9,0.0,7.0,Raheem Mostert left guard for no gain (tackle by Jaylinn Hawkins and Sione Takitaki),5.14,4.38,12.0,2024,171
+2.0,7:55,2.0,9.0,NWE 9,0.0,13.0,"Tua Tagovailoa pass complete short left to De'Von Achane for 9 yards, touchdown",4.38,7.0,12.0,2024,171
+2.0,7:50,,,NWE 15,0.0,14.0,Jason Sanders kicks extra point good,0.0,0.0,12.0,2024,171
+2.0,7:50,,,MIA 35,0.0,14.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,171
+2.0,7:50,1.0,10.0,NWE 30,0.0,14.0,"Drake Maye pass complete short left to Rhamondre Stevenson for no gain (tackle by Calais Campbell). Penalty on Vederian Lowe: Offensive Holding, 10 yards (accepted) (no play)",0.94,0.28,12.0,2024,171
+2.0,7:33,1.0,20.0,NWE 20,0.0,14.0,Drake Maye pass complete short right to Kayshon Boutte for 6 yards (tackle by Cam Smith),0.28,-0.15,12.0,2024,171
+2.0,6:58,2.0,14.0,NWE 26,0.0,14.0,Drake Maye pass complete short right to Demario Douglas for 5 yards (tackle by Kader Kohou),-0.15,-0.16,12.0,2024,171
+2.0,6:19,3.0,9.0,NWE 31,0.0,14.0,Drake Maye pass incomplete short middle intended for Demario Douglas,-0.16,-1.31,12.0,2024,171
+2.0,6:12,4.0,9.0,NWE 31,0.0,14.0,"Bryce Baringer punts 69 yards, touchback.",-1.31,-0.28,12.0,2024,171
+2.0,6:03,1.0,10.0,MIA 20,0.0,14.0,De'Von Achane left tackle for 2 yards (tackle by Dell Pettus and Yannick Ngakoue),0.28,0.0,12.0,2024,171
+2.0,5:25,2.0,8.0,MIA 22,0.0,14.0,Tua Tagovailoa pass incomplete short middle intended for Julian Hill,0.0,-0.69,12.0,2024,171
+2.0,5:19,3.0,8.0,MIA 22,0.0,14.0,Tua Tagovailoa pass complete short left to Jaylen Waddle for 15 yards (tackle by Marcus Jones),-0.69,1.4,12.0,2024,171
+2.0,4:41,1.0,10.0,MIA 37,0.0,14.0,Malik Washington right end for 2 yards (tackle by Anfernee Jennings),1.4,1.13,12.0,2024,171
+2.0,3:54,,,,,,Timeout #1 by Miami Dolphins,,,12.0,2024,171
+2.0,3:54,2.0,8.0,MIA 39,0.0,14.0,Jaylen Wright left end for 10 yards (tackle by Christian Elliss),1.13,2.19,12.0,2024,171
+2.0,3:12,1.0,10.0,MIA 49,0.0,14.0,"Tua Tagovailoa pass complete deep left to Jaylen Waddle for 19 yards (tackle by Marcus Jones). Penalty on Marcus Jones: Defensive Holding, 5 yards (declined) NWE challenged the pass completion ruling, and the play was upheld.",2.19,3.45,12.0,2024,171
+2.0,2:56,1.0,10.0,NWE 32,0.0,14.0,Tua Tagovailoa pass complete short right to Jonnu Smith for 14 yards (tackle by Anfernee Jennings and Jonathan Jones),3.45,4.37,12.0,2024,171
+2.0,2:17,1.0,10.0,NWE 18,0.0,14.0,Tua Tagovailoa pass complete short left to Tyreek Hill for no gain (tackle by Jahlani Tavai),4.37,3.8,12.0,2024,171
+2.0,2:00,2.0,10.0,NWE 18,0.0,14.0,Tua Tagovailoa pass complete short left to Jonnu Smith for 7 yards (tackle by Christian Elliss),3.8,4.26,12.0,2024,171
+2.0,1:55,,,,,,Timeout #2 by New England Patriots,,,12.0,2024,171
+2.0,1:55,3.0,3.0,NWE 11,0.0,20.0,"Tua Tagovailoa pass complete short right to De'Von Achane for 11 yards, touchdown",4.26,7.0,12.0,2024,171
+2.0,1:50,,,NWE 15,0.0,21.0,Jason Sanders kicks extra point good,0.0,0.0,12.0,2024,171
+2.0,1:50,,,MIA 35,0.0,21.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,171
+2.0,1:50,1.0,10.0,NWE 30,0.0,21.0,Drake Maye pass incomplete short left,0.94,0.39,12.0,2024,171
+2.0,1:46,2.0,10.0,NWE 30,0.0,21.0,"Drake Maye sacked by Chop Robinson for no gain. Drake Maye fumbles (forced by Chop Robinson), recovered by Chop Robinson at NE-24 Replay Assistant challenged the fumble ruling, and the original play was overturned. Drake Maye pass incomplete short middle intended for Demario Douglas (defended by Chop Robinson)",0.39,-0.3,12.0,2024,171
+2.0,1:42,3.0,10.0,NWE 30,0.0,21.0,"Penalty on Vederian Lowe: False Start, 5 yards (accepted) (no play)",-0.3,-0.96,12.0,2024,171
+2.0,1:42,3.0,15.0,NWE 25,0.0,21.0,Drake Maye sacked by and Chop Robinson for -5 yards and Emmanuel Ogbah for -5 yards,-0.96,-2.03,12.0,2024,171
+2.0,1:36,,,,,,Timeout #2 by Miami Dolphins,,,12.0,2024,171
+2.0,1:36,4.0,20.0,NWE 20,0.0,21.0,Bryce Baringer punts 39 yards out of bounds,-2.03,-1.66,12.0,2024,171
+2.0,1:28,1.0,10.0,MIA 41,0.0,21.0,Tua Tagovailoa pass complete deep left to Jaylen Waddle for 29 yards (tackle by Marcus Jones),1.66,3.58,12.0,2024,171
+2.0,0:52,1.0,10.0,NWE 30,0.0,21.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 7 yards (tackle by Keion White),3.58,3.98,12.0,2024,171
+2.0,0:30,2.0,3.0,NWE 23,0.0,21.0,Tua Tagovailoa pass complete deep right to Tyreek Hill for 20 yards,3.98,6.51,12.0,2024,171
+2.0,0:19,,,,,,Timeout #3 by Miami Dolphins,,,12.0,2024,171
+2.0,0:19,1.0,3.0,NWE 3,0.0,21.0,Tua Tagovailoa pass incomplete short right intended for Tyreek Hill (defended by Marcus Jones),6.51,5.53,12.0,2024,171
+2.0,0:14,,,,,,Timeout #3 by New England Patriots,,,12.0,2024,171
+2.0,0:14,2.0,3.0,NWE 3,0.0,21.0,Tua Tagovailoa pass incomplete short middle intended for Jonnu Smith (defended by Marte Mapu),5.53,4.72,12.0,2024,171
+2.0,0:08,3.0,3.0,NWE 3,0.0,21.0,Tua Tagovailoa pass incomplete short middle intended for Jaylen Waddle,4.72,3.04,12.0,2024,171
+2.0,0:05,4.0,3.0,NWE 3,0.0,24.0,Jason Sanders 21 yard field goal good,3.04,3.0,12.0,2024,171
+2.0,0:02,,,MIA 35,0.0,24.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,171
+2.0,0:02,1.0,10.0,NWE 30,0.0,24.0,Drake Maye kneels for -1 yards,0.94,0.26,12.0,2024,171
+3.0,15:00,,,NWE 35,0.0,24.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,171
+3.0,15:00,1.0,10.0,MIA 30,0.0,24.0,De'Von Achane right end for 2 yards (tackle by Jaylinn Hawkins and Anfernee Jennings),0.94,0.66,12.0,2024,171
+3.0,14:25,2.0,8.0,MIA 32,0.0,24.0,Tua Tagovailoa pass complete short left to De'Von Achane for 4 yards (tackle by Kyle Dugger and Jahlani Tavai),0.66,0.5,12.0,2024,171
+3.0,13:44,3.0,4.0,MIA 36,0.0,24.0,Tua Tagovailoa sacked by Christian Barmore for -2 yards,0.5,-1.11,12.0,2024,171
+3.0,13:09,4.0,6.0,MIA 34,0.0,24.0,"Jake Bailey punts 52 yards, returned by Marcus Jones for 11 yards (tackle by Durham Smythe)",-1.11,-0.61,12.0,2024,171
+3.0,12:56,1.0,10.0,NWE 25,0.0,24.0,Drake Maye scrambles right end for 4 yards (tackle by Jordyn Brooks),0.61,0.6,12.0,2024,171
+3.0,12:28,2.0,6.0,NWE 29,0.0,24.0,"Rhamondre Stevenson right guard for 2 yards (tackle by Jordyn Brooks and Emmanuel Ogbah). Penalty on Kader Kohou: Illegal Use of Hands / Defense, 5 yards (accepted)",0.6,1.33,12.0,2024,171
+3.0,12:09,1.0,10.0,NWE 36,0.0,24.0,"Drake Maye pass complete short middle to Rhamondre Stevenson for no gain. Penalty on Michael Onwenu: Offensive Holding, 10 yards (accepted) (no play)",1.33,0.67,12.0,2024,171
+3.0,11:36,1.0,20.0,NWE 26,0.0,24.0,Rhamondre Stevenson left guard for 1 yard (tackle by Tyrel Dodson and Zach Sieler),0.67,-0.43,12.0,2024,171
+3.0,11:05,2.0,19.0,NWE 27,0.0,24.0,Drake Maye pass complete short right to Kendrick Bourne for 10 yards (tackle by Storm Duck),-0.43,0.23,12.0,2024,171
+3.0,10:33,3.0,9.0,NWE 37,0.0,24.0,Drake Maye pass complete short right to Kendrick Bourne for 10 yards (tackle by Jevon Holland),0.23,2.06,12.0,2024,171
+3.0,10:06,1.0,10.0,NWE 47,0.0,24.0,Drake Maye pass complete short right to Hunter Henry for 9 yards (tackle by Jordyn Brooks),2.06,2.73,12.0,2024,171
+3.0,9:43,2.0,1.0,MIA 44,0.0,24.0,Antonio Gibson right end for 3 yards (tackle by Jordan Poyer),2.73,2.85,12.0,2024,171
+3.0,9:15,1.0,10.0,MIA 41,0.0,24.0,"Drake Maye pass complete short left to Demario Douglas for no gain (tackle by Jevon Holland). Penalty on Kayshon Boutte: Offensive Pass Interference, 10 yards (accepted) (no play)",2.85,2.19,12.0,2024,171
+3.0,8:48,1.0,20.0,NWE 49,0.0,24.0,Drake Maye pass complete short right to Austin Hooper for 3 yards (tackle by Tyrel Dodson and Tyus Bowser),2.19,1.36,12.0,2024,171
+3.0,8:23,2.0,17.0,MIA 48,0.0,24.0,Drake Maye pass incomplete short left intended for Javon Baker,1.36,0.7,12.0,2024,171
+3.0,8:17,3.0,17.0,MIA 48,0.0,24.0,Kendrick Bourne pass incomplete short right intended for Rhamondre Stevenson,0.7,0.07,12.0,2024,171
+3.0,8:11,4.0,17.0,MIA 48,0.0,24.0,"Bryce Baringer punts 41 yards, fair catch by Malik Washington at MIA-7",0.07,0.38,12.0,2024,171
+3.0,8:04,1.0,10.0,MIA 7,0.0,24.0,Jaylen Wright left guard for no gain (tackle by Davon Godchaux and Yannick Ngakoue),-0.38,-0.78,12.0,2024,171
+3.0,7:23,2.0,10.0,MIA 7,0.0,24.0,Jaylen Wright left end for 12 yards (tackle by Kyle Dugger),-0.78,0.15,12.0,2024,171
+3.0,6:40,1.0,10.0,MIA 19,0.0,24.0,Tua Tagovailoa pass complete short middle to Tyreek Hill for 11 yards (tackle by Kyle Dugger),0.15,0.94,12.0,2024,171
+3.0,6:02,1.0,10.0,MIA 30,0.0,24.0,"Tua Tagovailoa pass incomplete short middle intended for Jonnu Smith. Penalty on Kyle Dugger: Defensive Pass Interference, 10 yards (accepted) (no play)",0.94,1.6,12.0,2024,171
+3.0,5:58,1.0,10.0,MIA 40,0.0,24.0,Tua Tagovailoa pass complete short left to Raheem Mostert for -3 yards (tackle by Jahlani Tavai),1.6,0.65,12.0,2024,171
+3.0,5:14,2.0,13.0,MIA 37,0.0,24.0,Tua Tagovailoa pass complete short right to Julian Hill for 8 yards (tackle by Jaylinn Hawkins and Jonathan Jones),0.65,1.03,12.0,2024,171
+3.0,4:34,3.0,5.0,MIA 45,0.0,24.0,Tua Tagovailoa pass incomplete deep left intended for Odell Beckham (defended by Marcus Jones),1.03,-0.39,12.0,2024,171
+3.0,4:26,4.0,5.0,MIA 45,0.0,24.0,Jake Bailey punts 39 yards out of bounds,-0.39,0.14,12.0,2024,171
+3.0,4:18,1.0,10.0,NWE 16,0.0,24.0,Drake Maye pass complete short middle to Demario Douglas for 27 yards (tackle by Jevon Holland),-0.14,1.8,12.0,2024,171
+3.0,3:51,1.0,10.0,NWE 43,0.0,24.0,Drake Maye scrambles right end for 8 yards (tackle by Jalen Ramsey),1.8,2.33,12.0,2024,171
+3.0,3:10,2.0,2.0,MIA 49,0.0,24.0,Rhamondre Stevenson up the middle for -1 yards (tackle by Zach Sieler and Jalen Ramsey),2.33,1.49,12.0,2024,171
+3.0,2:25,3.0,3.0,MIA 50,0.0,24.0,"Drake Maye sacked by Zach Sieler for -13 yards. Drake Maye fumbles (forced by Zach Sieler), recovered by Jordyn Brooks at NE-37 and returned for 12 yards (tackle by Michael Jordan)",1.49,-3.91,12.0,2024,171
+3.0,2:19,1.0,10.0,NWE 25,0.0,24.0,Jaylen Wright up the middle for 2 yards (tackle by Jeremiah Pharms and Jahlani Tavai),3.91,3.63,12.0,2024,171
+3.0,1:44,2.0,8.0,NWE 23,0.0,30.0,"Tua Tagovailoa pass complete short middle to Jaylen Waddle for 23 yards, touchdown",3.63,7.0,12.0,2024,171
+3.0,1:37,,,NWE 15,0.0,31.0,Jason Sanders kicks extra point good,0.0,0.0,12.0,2024,171
+3.0,1:37,,,MIA 35,0.0,31.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,171
+3.0,1:37,1.0,10.0,NWE 30,0.0,31.0,Drake Maye pass complete short middle to Demario Douglas for 20 yards (tackle by Jevon Holland),0.94,2.26,12.0,2024,171
+3.0,1:14,1.0,10.0,MIA 50,0.0,31.0,Drake Maye pass incomplete deep right intended for Hunter Henry (defended by Jordan Poyer),2.26,1.71,12.0,2024,171
+3.0,1:06,2.0,10.0,MIA 50,0.0,31.0,Antonio Gibson up the middle for 1 yard (tackle by Jordyn Brooks),1.71,1.16,12.0,2024,171
+3.0,0:32,3.0,9.0,MIA 49,0.0,31.0,Drake Maye pass complete short middle to Hunter Henry for 16 yards (tackle by Jordan Poyer),1.16,3.38,12.0,2024,171
+4.0,15:00,1.0,10.0,MIA 33,0.0,31.0,Drake Maye pass complete short middle to Austin Hooper for 7 yards (tackle by Jordan Poyer),3.38,3.78,12.0,2024,171
+4.0,14:38,2.0,3.0,MIA 26,0.0,31.0,Drake Maye sacked by Jalen Ramsey for -12 yards,3.78,1.49,12.0,2024,171
+4.0,14:00,3.0,15.0,MIA 38,0.0,31.0,"Drake Maye pass incomplete short right intended for Kayshon Boutte. Penalty on Kayshon Boutte: Offensive Pass Interference, 10 yards (declined)",1.49,0.72,12.0,2024,171
+4.0,13:54,4.0,15.0,MIA 38,6.0,31.0,"Drake Maye pass complete deep right to Austin Hooper for 38 yards, touchdown",0.72,7.0,12.0,2024,171
+4.0,13:43,,,MIA 15,7.0,31.0,Joey Slye kicks extra point good,0.0,0.0,12.0,2024,171
+4.0,13:43,,,NWE 35,7.0,31.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,171
+4.0,13:43,1.0,10.0,MIA 30,7.0,31.0,Jaylen Wright left end for 4 yards (tackle by Christian Gonzalez and Marte Mapu),0.94,0.93,12.0,2024,171
+4.0,13:01,2.0,6.0,MIA 34,7.0,31.0,Tua Tagovailoa pass incomplete short left intended for Jaylen Wright,0.93,0.23,12.0,2024,171
+4.0,12:55,3.0,6.0,MIA 34,7.0,31.0,Tua Tagovailoa pass incomplete short middle intended for Odell Beckham (defended by Marcus Jones),0.23,-1.11,12.0,2024,171
+4.0,12:52,4.0,6.0,MIA 34,7.0,31.0,"Jake Bailey punts 53 yards, returned by Marcus Jones for 7 yards (tackle by Duke Riley)",-1.11,-0.28,12.0,2024,171
+4.0,12:40,1.0,10.0,NWE 20,7.0,31.0,Demario Douglas left end for 1 yard (tackle by Storm Duck),0.28,-0.13,12.0,2024,171
+4.0,12:20,2.0,9.0,NWE 21,7.0,31.0,Antonio Gibson left tackle for 3 yards (tackle by Jordyn Brooks),-0.13,-0.43,12.0,2024,171
+4.0,11:54,3.0,6.0,NWE 24,7.0,31.0,Drake Maye pass incomplete short right intended for Hunter Henry (defended by Chop Robinson),-0.43,-1.77,12.0,2024,171
+4.0,11:46,4.0,6.0,NWE 24,7.0,31.0,"Drake Maye pass incomplete short right intended for Kendrick Bourne. Penalty on Cam Smith: Defensive Pass Interference, 8 yards (accepted) (no play)",-1.77,1.07,12.0,2024,171
+4.0,11:41,1.0,10.0,NWE 32,7.0,31.0,Drake Maye pass incomplete short left intended for Kendrick Bourne,1.07,0.53,12.0,2024,171
+4.0,11:38,2.0,10.0,NWE 32,7.0,31.0,Drake Maye pass complete short right to Hunter Henry for 6 yards (tackle by Jalen Ramsey),0.53,0.63,12.0,2024,171
+4.0,11:12,3.0,4.0,NWE 38,7.0,31.0,Drake Maye pass incomplete deep right intended for Hunter Henry,0.63,-0.85,12.0,2024,171
+4.0,11:06,4.0,4.0,NWE 38,7.0,31.0,Drake Maye pass incomplete deep left intended for Kendrick Bourne,-0.85,-3.12,12.0,2024,171
+4.0,11:01,1.0,10.0,NWE 37,7.0,31.0,Jaylen Wright up the middle for 3 yards (tackle by Davon Godchaux and Christian Elliss),3.12,2.98,12.0,2024,171
+4.0,10:22,2.0,7.0,NWE 34,13.0,31.0,"Jaylen Wright up the middle for -3 yards. Jaylen Wright fumbles (forced by Marte Mapu), recovered by Christian Gonzalez at NE-37 and returned for 63 yards, touchdown",2.98,-7.0,12.0,2024,171
+4.0,10:10,,,MIA 2,15.0,31.0,Two Point Attempt: Drake Maye pass complete to to Rhamondre Stevenson for no gain,1.0,1.0,12.0,2024,171
+4.0,10:10,,,NWE 35,15.0,31.0,"Joey Slye kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,171
+4.0,10:10,1.0,10.0,MIA 30,15.0,31.0,Tua Tagovailoa pass complete short right to Jonnu Smith for 9 yards (tackle by Christian Gonzalez and Keion White),0.94,1.61,12.0,2024,171
+4.0,9:31,2.0,1.0,MIA 39,15.0,31.0,"De'Von Achane up the middle for no gain. Penalty on Malik Washington: Illegal Motion, 4 yards (accepted) (no play)",1.61,1.07,12.0,2024,171
+4.0,9:08,2.0,5.0,MIA 35,15.0,31.0,Tua Tagovailoa pass complete short middle to Jonnu Smith for 7 yards (tackle by Christian Barmore and Keion White),1.07,1.73,12.0,2024,171
+4.0,8:36,1.0,10.0,MIA 42,15.0,31.0,De'Von Achane left guard for no gain (tackle by Keion White),1.73,1.19,12.0,2024,171
+4.0,7:53,2.0,10.0,MIA 42,15.0,31.0,Tua Tagovailoa pass complete short right to Jaylen Waddle for 3 yards (tackle by Marcus Jones),1.19,0.89,12.0,2024,171
+4.0,7:02,3.0,7.0,MIA 45,15.0,31.0,"Tua Tagovailoa sacked by Brenden Schooler for -7 yards. Penalty on Patrick Paul: Offensive Holding, 10 yards (declined)",0.89,-0.85,12.0,2024,171
+4.0,6:36,4.0,14.0,MIA 38,15.0,31.0,"Jake Bailey punts 45 yards, returned by Marcus Jones for 20 yards (tackle by River Cracraft)",-0.85,-1.4,12.0,2024,171
+4.0,6:19,1.0,10.0,NWE 37,15.0,31.0,Drake Maye pass complete short middle to Hunter Henry for 7 yards (tackle by Jevon Holland and Tyrel Dodson),1.4,1.8,12.0,2024,171
+4.0,5:53,2.0,3.0,NWE 44,15.0,31.0,Drake Maye pass complete short middle to Kendrick Bourne for 10 yards (tackle by Jordyn Brooks),1.8,2.52,12.0,2024,171
+4.0,5:27,1.0,10.0,MIA 46,15.0,31.0,Drake Maye pass incomplete deep right intended for Kayshon Boutte (defended by Storm Duck),2.52,1.98,12.0,2024,171
+4.0,5:24,2.0,10.0,MIA 46,15.0,31.0,Drake Maye pass short right intended for Antonio Gibson is intercepted by Tyrel Dodson at MIA-46 and returned for no gain (tackle by Antonio Gibson),1.98,-1.99,12.0,2024,171
+4.0,5:13,1.0,10.0,MIA 46,15.0,31.0,De'Von Achane right end for 9 yards (tackle by Jahlani Tavai),1.99,2.67,12.0,2024,171
+4.0,4:33,2.0,1.0,NWE 45,15.0,31.0,Tua Tagovailoa pass complete short right to Durham Smythe for 8 yards (tackle by Jonathan Jones),2.67,3.12,12.0,2024,171
+4.0,3:54,1.0,10.0,NWE 37,15.0,31.0,De'Von Achane left tackle for -1 yards (tackle by Kyle Dugger),3.12,2.44,12.0,2024,171
+4.0,3:45,,,,,,Timeout #1 by New England Patriots,,,12.0,2024,171
+4.0,3:45,2.0,11.0,NWE 38,15.0,31.0,Tua Tagovailoa pass incomplete short right intended for Malik Washington (defended by Jahlani Tavai) (defended by Kyle Dugger),2.44,1.75,12.0,2024,171
+4.0,3:42,3.0,11.0,NWE 38,15.0,31.0,Raheem Mostert up the middle for 5 yards (tackle by Dell Pettus and Anfernee Jennings),1.75,1.16,12.0,2024,171
+4.0,3:38,,,,,,Timeout #2 by New England Patriots,,,12.0,2024,171
+4.0,3:38,4.0,6.0,NWE 33,15.0,34.0,Jason Sanders 51 yard field goal good,1.16,3.0,12.0,2024,171
+4.0,3:33,,,MIA 35,15.0,34.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.94,12.0,2024,171
+4.0,3:33,1.0,10.0,NWE 30,15.0,34.0,Drake Maye pass complete short middle to Jamycal Hasty for 1 yard (tackle by Tyrel Dodson and Storm Duck),0.94,0.53,12.0,2024,171
+4.0,3:03,2.0,9.0,NWE 31,15.0,34.0,Jamycal Hasty right tackle for 15 yards (tackle by Jevon Holland),0.53,1.99,12.0,2024,171
+4.0,2:41,1.0,10.0,NWE 46,15.0,34.0,Drake Maye pass incomplete short right intended for Ja'Lynn Polk (defended by Jalen Ramsey),1.99,1.45,12.0,2024,171
+4.0,2:34,2.0,10.0,NWE 46,15.0,34.0,Drake Maye pass complete short left to Demario Douglas for 8 yards (tackle by Tyrel Dodson),1.45,1.82,12.0,2024,171
+4.0,2:10,3.0,2.0,MIA 46,15.0,34.0,Drake Maye pass complete short left to Jamycal Hasty for -1 yards (tackle by Jevon Holland),1.82,0.13,12.0,2024,171
+4.0,2:00,4.0,3.0,MIA 47,15.0,34.0,Drake Maye pass complete short right to Demario Douglas for 2 yards (tackle by Tyus Bowser and Kader Kohou),0.13,-1.93,12.0,2024,171
+4.0,1:55,1.0,10.0,MIA 45,15.0,34.0,Tua Tagovailoa kneels for no gain,1.93,1.38,12.0,2024,171
+4.0,1:15,2.0,10.0,MIA 45,15.0,34.0,Tua Tagovailoa kneels for -1 yards,1.38,0.56,12.0,2024,171
+4.0,0:33,3.0,11.0,MIA 44,15.0,34.0,Tua Tagovailoa kneels for -1 yards,0.56,-0.52,12.0,2024,171

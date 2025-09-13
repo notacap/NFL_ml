@@ -1,0 +1,173 @@
+Quarter,Time,Down,ToGo,Location,HOU,NYJ,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Jets won the coin toss and deferred, Texans to receive the opening kickoff.",,,9.0,2024,124
+1.0,15:00,,,NYJ 35,0.0,0.0,"Riley Patterson kicks off 60 yards, returned by Steven Sims for 21 yards (tackle by Brandin Echols and Chazz Surratt). Penalty on Jamal Hill: Offensive Holding, 10 yards (accepted)",0.0,-0.14,9.0,2024,124
+1.0,14:55,1.0,10.0,HOU 16,0.0,0.0,C.J. Stroud pass incomplete short left intended for Cade Stover (defended by D.J. Reed),-0.14,-0.66,9.0,2024,124
+1.0,14:51,2.0,10.0,HOU 16,0.0,0.0,"Joe Mixon left end for no gain (tackle by Jamien Sherwood). Penalty on Quinnen Williams: Defensive Offside, 5 yards (accepted) (no play)",-0.66,0.15,9.0,2024,124
+1.0,14:41,2.0,5.0,HOU 21,0.0,0.0,C.J. Stroud pass incomplete short right intended for Robert Woods,0.15,-0.7,9.0,2024,124
+1.0,14:34,3.0,5.0,HOU 21,0.0,0.0,C.J. Stroud pass complete short middle to Tank Dell for 16 yards (tackle by Jalen Mills),-0.7,1.4,9.0,2024,124
+1.0,13:49,1.0,10.0,HOU 37,0.0,0.0,C.J. Stroud pass incomplete deep right,1.4,0.86,9.0,2024,124
+1.0,13:40,2.0,10.0,HOU 37,0.0,0.0,C.J. Stroud pass complete short left to Dalton Schultz for 6 yards (tackle by Quincy Williams),0.86,0.96,9.0,2024,124
+1.0,12:59,3.0,4.0,HOU 43,0.0,0.0,C.J. Stroud pass incomplete short middle intended for Dalton Schultz,0.96,-0.52,9.0,2024,124
+1.0,12:52,4.0,4.0,HOU 43,0.0,0.0,"Tommy Townsend punts 46 yards, fair catch by Xavier Gipson at NYJ-11",-0.52,0.37,9.0,2024,124
+1.0,12:44,1.0,10.0,NYJ 11,0.0,0.0,Aaron Rodgers pass incomplete deep right intended for Davante Adams,-0.37,-0.78,9.0,2024,124
+1.0,12:40,2.0,10.0,NYJ 11,0.0,0.0,Aaron Rodgers pass incomplete short middle intended for Breece Hall,-0.78,-1.42,9.0,2024,124
+1.0,12:37,3.0,10.0,NYJ 11,0.0,0.0,Aaron Rodgers sacked by Denico Autry for -9 yards,-1.42,-2.49,9.0,2024,124
+1.0,11:51,4.0,19.0,NYJ 2,0.0,0.0,Thomas Morstead punts 51 yards out of bounds,-2.49,-2.06,9.0,2024,124
+1.0,11:44,1.0,10.0,HOU 47,0.0,0.0,"Penalty on Laremy Tunsil: False Start, 5 yards (accepted) (no play)",2.06,1.73,9.0,2024,124
+1.0,11:44,1.0,15.0,HOU 42,0.0,0.0,Joe Mixon right guard for 2 yards (tackle by Will McDonald and Javon Kinlaw),1.73,1.11,9.0,2024,124
+1.0,11:06,2.0,13.0,HOU 44,0.0,0.0,C.J. Stroud sacked by D.J. Reed for -8 yards,1.11,-0.62,9.0,2024,124
+1.0,10:21,3.0,21.0,HOU 36,0.0,0.0,C.J. Stroud pass incomplete deep middle intended for Tank Dell (defended by Jalen Mills),-0.62,-0.98,9.0,2024,124
+1.0,10:15,4.0,21.0,HOU 36,0.0,0.0,"Tommy Townsend punts, fair catch by Xavier Gipson at NYJ-13. Penalty on Irvin Charles: Roughing the Kicker, 15 yards (accepted) (no play)",-0.98,2.32,9.0,2024,124
+1.0,10:07,1.0,10.0,NYJ 49,0.0,0.0,Joe Mixon up the middle for 3 yards (tackle by Leonard Taylor),2.32,2.19,9.0,2024,124
+1.0,9:31,2.0,7.0,NYJ 46,0.0,0.0,Joe Mixon right guard for 6 yards (tackle by Isaiah Oliver),2.19,2.28,9.0,2024,124
+1.0,9:07,3.0,1.0,NYJ 40,0.0,0.0,Joe Mixon left end for 29 yards (tackle by Sauce Gardner and Jalen Mills),2.28,4.84,9.0,2024,124
+1.0,8:18,1.0,10.0,NYJ 11,0.0,0.0,Dare Ogunbowale right end for -1 yards (tackle by Quinnen Williams),4.84,3.98,9.0,2024,124
+1.0,7:38,2.0,11.0,NYJ 12,0.0,0.0,"C.J. Stroud sacked by Micheal Clemons for -6 yards. C.J. Stroud fumbles (forced by Micheal Clemons), recovered by Will McDonald at NYJ-18",3.98,-0.04,9.0,2024,124
+1.0,7:33,1.0,10.0,NYJ 18,0.0,0.0,"Breece Hall up the middle for 12 yards. Breece Hall fumbles, recovered by Breece Hall at NYJ-30 (tackle by Derek Stingley)",0.04,0.94,9.0,2024,124
+1.0,7:11,1.0,10.0,NYJ 30,0.0,0.0,Breece Hall right guard for 1 yard (tackle by Danielle Hunter),0.94,0.53,9.0,2024,124
+1.0,6:37,2.0,9.0,NYJ 31,0.0,0.0,Aaron Rodgers pass incomplete short right intended for Davante Adams,0.53,-0.16,9.0,2024,124
+1.0,6:33,3.0,9.0,NYJ 31,0.0,0.0,Aaron Rodgers pass incomplete deep right intended for Mike Williams,-0.16,-1.31,9.0,2024,124
+1.0,6:29,4.0,9.0,NYJ 31,0.0,0.0,Thomas Morstead punts 56 yards,-1.31,0.32,9.0,2024,124
+1.0,6:23,1.0,10.0,HOU 13,0.0,0.0,Joe Mixon left guard for 7 yards (tackle by Samuel Eguavoen),-0.32,0.22,9.0,2024,124
+1.0,5:45,2.0,3.0,HOU 20,0.0,0.0,"Joe Mixon left end for 2 yards (tackle by D.J. Reed and Jalen Mills). Penalty on Cade Stover: Offensive Holding, 10 yards (accepted)",0.22,-0.85,9.0,2024,124
+1.0,5:24,2.0,11.0,HOU 12,0.0,0.0,C.J. Stroud sacked by Quinnen Williams for -4 yards,-0.85,-2.01,9.0,2024,124
+1.0,4:41,3.0,15.0,HOU 8,0.0,0.0,C.J. Stroud pass complete short left to Tank Dell for 9 yards (tackle by Isaiah Oliver),-2.01,-2.32,9.0,2024,124
+1.0,3:59,4.0,6.0,HOU 17,0.0,0.0,"Tommy Townsend punts 52 yards, fair catch by Xavier Gipson at NYJ-31",-2.32,-1.0,9.0,2024,124
+1.0,3:50,1.0,10.0,NYJ 31,0.0,0.0,Breece Hall right tackle for 8 yards (tackle by Jalen Pitre),1.0,1.54,9.0,2024,124
+1.0,3:17,2.0,2.0,NYJ 39,0.0,0.0,Breece Hall left end for 16 yards (tackle by Denico Autry and Calen Bullock),1.54,2.59,9.0,2024,124
+1.0,2:35,1.0,10.0,HOU 45,0.0,0.0,Aaron Rodgers pass complete short left to Breece Hall for -2 yards (tackle by Henry To'oTo'o),2.59,1.77,9.0,2024,124
+1.0,1:51,2.0,12.0,HOU 47,0.0,0.0,Aaron Rodgers pass complete short left to Davante Adams for 5 yards (tackle by Kamari Lassiter),1.77,1.75,9.0,2024,124
+1.0,1:09,3.0,7.0,HOU 42,0.0,0.0,Aaron Rodgers pass complete short right to Garrett Wilson for 8 yards (tackle by Eric Murray),1.75,3.31,9.0,2024,124
+1.0,0:31,1.0,10.0,HOU 34,0.0,0.0,"Breece Hall left tackle for no gain (tackle by Folorunso Fatukasi). Penalty on Folorunso Fatukasi: Face Mask (15 Yards), 15 yards (accepted) (no play)",3.31,4.31,9.0,2024,124
+2.0,15:00,1.0,10.0,HOU 19,0.0,0.0,"Malachi Corley right end for no gain, touchdown Replay Assistant challenged the runner broke the plane ruling, and the original play was overturned. Malachi Corley right end for 18 yards. Malachi Corley fumbles, ball out of bounds in end zone",4.31,-0.28,9.0,2024,124
+2.0,14:54,1.0,10.0,HOU 20,0.0,0.0,Joe Mixon left tackle for 2 yards (tackle by Brandin Echols and Samuel Eguavoen),0.28,0.0,9.0,2024,124
+2.0,14:16,2.0,8.0,HOU 22,0.0,0.0,C.J. Stroud scrambles right end for 3 yards (tackle by Quincy Williams),0.0,-0.3,9.0,2024,124
+2.0,13:29,3.0,5.0,HOU 25,0.0,0.0,C.J. Stroud pass incomplete deep right intended for John Metchie,-0.3,-1.7,9.0,2024,124
+2.0,13:23,4.0,5.0,HOU 25,0.0,0.0,"Tommy Townsend punts 56 yards, fair catch by Xavier Gipson at NYJ-19",-1.7,-0.15,9.0,2024,124
+2.0,13:15,1.0,10.0,NYJ 19,0.0,0.0,Aaron Rodgers pass complete short right to Davante Adams for 3 yards (tackle by Eric Murray),0.15,0.07,9.0,2024,124
+2.0,12:32,2.0,7.0,NYJ 22,0.0,0.0,Breece Hall left tackle for 1 yard (tackle by Tim Settle),0.07,-0.55,9.0,2024,124
+2.0,12:01,3.0,6.0,NYJ 23,0.0,0.0,"Aaron Rodgers pass complete short right to Tyler Conklin for no gain. Tyler Conklin fumbles (forced by Jalen Pitre), recovered by Neville Hewitt at NYJ-25, touchdown Replay Assistant challenged the pass completion ruling, and the original play was overturned. Aaron Rodgers pass incomplete short right intended for Tyler Conklin (defended by Jalen Pitre)",-0.55,-1.83,9.0,2024,124
+2.0,11:55,4.0,6.0,NYJ 23,0.0,0.0,Thomas Morstead punts 75 yards downed by Jarrick Bernard-Converse,-1.83,0.38,9.0,2024,124
+2.0,11:44,1.0,10.0,HOU 2,0.0,0.0,Joe Mixon left tackle for 5 yards (tackle by Javon Kinlaw),-0.38,-0.42,9.0,2024,124
+2.0,11:05,2.0,5.0,HOU 7,0.0,0.0,Joe Mixon up the middle for 6 yards (tackle by Braiden McGregor),-0.42,-0.32,9.0,2024,124
+2.0,10:26,1.0,10.0,HOU 13,0.0,0.0,Joe Mixon left guard for 3 yards (tackle by Jamien Sherwood),-0.32,-0.44,9.0,2024,124
+2.0,9:45,2.0,7.0,HOU 16,0.0,0.0,Joe Mixon up the middle for 10 yards (tackle by Sauce Gardner and Jalen Mills),-0.44,0.67,9.0,2024,124
+2.0,9:09,1.0,10.0,HOU 26,0.0,0.0,C.J. Stroud pass complete short right to Dalton Schultz for 7 yards (tackle by Jalen Mills),0.67,1.07,9.0,2024,124
+2.0,8:23,2.0,3.0,HOU 33,0.0,0.0,"Joe Mixon left guard for no gain (tackle by Brandin Echols and Isaiah Oliver). Penalty on Robert Woods: Offensive Holding, 10 yards (accepted) (no play)",1.07,-0.28,9.0,2024,124
+2.0,8:01,2.0,13.0,HOU 23,0.0,0.0,C.J. Stroud pass complete deep right to Robert Woods for 32 yards (tackle by Sauce Gardner),-0.28,2.59,9.0,2024,124
+2.0,7:31,1.0,10.0,NYJ 45,0.0,0.0,C.J. Stroud scrambles right end for 4 yards (tackle by Quincy Williams),2.59,2.58,9.0,2024,124
+2.0,6:53,2.0,6.0,NYJ 41,0.0,0.0,"C.J. Stroud pass incomplete deep right intended for Dalton Schultz. Penalty on Sauce Gardner: Defensive Holding, 5 yards (accepted) (no play)",2.58,3.18,9.0,2024,124
+2.0,6:49,1.0,10.0,NYJ 36,0.0,0.0,Joe Mixon right guard for 11 yards (tackle by Brandin Echols and Jalen Mills),3.18,3.91,9.0,2024,124
+2.0,6:32,1.0,10.0,NYJ 25,0.0,0.0,Joe Mixon left end for -2 yards (tackle by Brandin Echols),3.91,3.09,9.0,2024,124
+2.0,5:44,2.0,12.0,NYJ 27,0.0,0.0,C.J. Stroud scrambles right end for 12 yards (tackle by Samuel Eguavoen),3.09,4.58,9.0,2024,124
+2.0,4:54,1.0,10.0,NYJ 15,0.0,0.0,Joe Mixon left guard for -2 yards (tackle by Leonard Taylor),4.58,3.68,9.0,2024,124
+2.0,4:11,2.0,12.0,NYJ 17,0.0,0.0,C.J. Stroud pass incomplete short left,3.68,2.98,9.0,2024,124
+2.0,4:05,3.0,12.0,NYJ 17,0.0,0.0,C.J. Stroud pass complete short left to Tank Dell for 14 yards (tackle by Jarius Monroe and Sauce Gardner),2.98,6.51,9.0,2024,124
+2.0,3:25,1.0,3.0,NYJ 3,6.0,0.0,"Joe Mixon left end for 3 yards, touchdown",6.51,7.0,9.0,2024,124
+2.0,3:21,,,NYJ 15,7.0,0.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,9.0,2024,124
+2.0,3:21,,,HOU 35,7.0,0.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,124
+2.0,3:21,1.0,10.0,NYJ 30,7.0,0.0,Aaron Rodgers pass complete short right to Davante Adams for 12 yards (tackle by Jalen Pitre),0.94,1.73,9.0,2024,124
+2.0,2:51,1.0,10.0,NYJ 42,7.0,0.0,Breece Hall left guard for -1 yards (tackle by Henry To'oTo'o),1.73,1.05,9.0,2024,124
+2.0,2:14,2.0,11.0,NYJ 41,7.0,0.0,Aaron Rodgers pass complete short left to Garrett Wilson for 1 yard (tackle by Kamari Lassiter and Jalen Pitre),1.05,0.5,9.0,2024,124
+2.0,2:00,3.0,10.0,NYJ 42,7.0,0.0,Aaron Rodgers sacked by Denico Autry for -9 yards,0.5,-1.18,9.0,2024,124
+2.0,1:55,,,,,,Timeout #1 by Houston Texans,,,9.0,2024,124
+2.0,1:55,4.0,19.0,NYJ 33,7.0,0.0,"Thomas Morstead punts 38 yards, fair catch by Steven Sims at HOU-29",-1.18,-0.87,9.0,2024,124
+2.0,1:49,1.0,10.0,HOU 29,7.0,0.0,Joe Mixon left tackle for 3 yards (tackle by Isaiah Oliver),0.87,0.73,9.0,2024,124
+2.0,1:15,2.0,7.0,HOU 32,7.0,0.0,Joe Mixon right guard for 3 yards (tackle by Micheal Clemons and Kendall Sheffield),0.73,0.43,9.0,2024,124
+2.0,0:52,3.0,4.0,HOU 35,7.0,0.0,C.J. Stroud pass complete short left to Tank Dell for 31 yards (tackle by D.J. Reed),0.43,3.31,9.0,2024,124
+2.0,0:43,1.0,10.0,NYJ 34,7.0,0.0,C.J. Stroud pass incomplete deep right intended for Xavier Hutchinson,3.31,2.77,9.0,2024,124
+2.0,0:38,2.0,10.0,NYJ 34,7.0,0.0,C.J. Stroud pass incomplete short right intended for Dare Ogunbowale,2.77,2.08,9.0,2024,124
+2.0,0:33,3.0,10.0,NYJ 34,7.0,0.0,C.J. Stroud sacked by Solomon Thomas for -4 yards,2.08,0.72,9.0,2024,124
+2.0,0:27,,,,,,Timeout #2 by Houston Texans,,,9.0,2024,124
+2.0,0:27,4.0,14.0,NYJ 38,7.0,0.0,Ka'imi Fairbairn 56 yard field goal no good,0.72,-1.99,9.0,2024,124
+2.0,0:22,1.0,10.0,NYJ 46,7.0,0.0,Aaron Rodgers pass complete short right to Davante Adams for 5 yards (tackle by Derek Stingley),1.99,2.13,9.0,2024,124
+2.0,0:19,2.0,5.0,HOU 49,7.0,0.0,Aaron Rodgers pass incomplete deep right intended for Davante Adams (defended by Derek Stingley),2.13,1.42,9.0,2024,124
+2.0,0:15,3.0,5.0,HOU 49,7.0,0.0,Aaron Rodgers pass incomplete short right intended for Davante Adams (defended by Derek Stingley),1.42,0.0,9.0,2024,124
+2.0,0:12,4.0,5.0,HOU 49,7.0,0.0,"Penalty on Thomas Morstead: Delay of Game, 5 yards (accepted) (no play)",0.0,-0.32,9.0,2024,124
+2.0,0:12,4.0,10.0,NYJ 46,7.0,0.0,"Thomas Morstead punts 54 yards, touchback.",-0.32,-0.28,9.0,2024,124
+2.0,0:04,1.0,10.0,HOU 20,7.0,0.0,C.J. Stroud kneels for -1 yards,0.28,-0.46,9.0,2024,124
+3.0,15:00,,,HOU 35,7.0,0.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,124
+3.0,15:00,1.0,10.0,NYJ 30,7.0,0.0,Breece Hall left end for 5 yards (tackle by Kamari Lassiter),0.94,1.07,9.0,2024,124
+3.0,14:23,2.0,5.0,NYJ 35,7.0,0.0,Breece Hall left end for 4 yards (tackle by Folorunso Fatukasi),1.07,0.89,9.0,2024,124
+3.0,13:43,3.0,1.0,NYJ 39,7.0,0.0,Braelon Allen left end for 4 yards (tackle by Neville Hewitt and Folorunso Fatukasi),0.89,1.8,9.0,2024,124
+3.0,13:06,1.0,10.0,NYJ 43,7.0,0.0,Braelon Allen left tackle for 5 yards (tackle by Kurt Hinish and Eric Murray),1.8,1.93,9.0,2024,124
+3.0,12:27,2.0,5.0,NYJ 48,7.0,0.0,Aaron Rodgers pass complete short right to Garrett Wilson for 8 yards (tackle by Jalen Pitre),1.93,2.65,9.0,2024,124
+3.0,11:47,1.0,10.0,HOU 44,7.0,0.0,Aaron Rodgers pass incomplete short left intended for Braelon Allen,2.65,2.11,9.0,2024,124
+3.0,11:45,2.0,10.0,HOU 44,7.0,0.0,Aaron Rodgers pass complete short left to Davante Adams for 12 yards (tackle by Calen Bullock),2.11,3.45,9.0,2024,124
+3.0,11:05,1.0,10.0,HOU 32,7.0,0.0,Breece Hall up the middle for 7 yards (tackle by Neville Hewitt and Jalen Pitre),3.45,3.85,9.0,2024,124
+3.0,10:31,2.0,3.0,HOU 25,7.0,0.0,Aaron Rodgers pass complete short middle to Mike Williams for 6 yards (tackle by Neville Hewitt and Jalen Pitre),3.85,4.31,9.0,2024,124
+3.0,9:48,1.0,10.0,HOU 19,7.0,0.0,Breece Hall left tackle for -2 yards (tackle by Tim Settle),4.31,3.49,9.0,2024,124
+3.0,9:09,2.0,12.0,HOU 21,7.0,6.0,"Aaron Rodgers pass complete short left to Garrett Wilson for 21 yards, touchdown",3.49,7.0,9.0,2024,124
+3.0,9:03,,,HOU 15,7.0,7.0,Riley Patterson kicks extra point good,0.0,0.0,9.0,2024,124
+3.0,9:03,,,NYJ 35,7.0,7.0,"Riley Patterson kicks off 64 yards, returned by Steven Sims for 28 yards (tackle by Kenny Yeboah). Penalty on Kenny Yeboah: Face Mask (15 Yards), 15 yards (accepted)",0.0,1.86,9.0,2024,124
+3.0,8:56,1.0,10.0,HOU 44,7.0,7.0,C.J. Stroud scrambles left end for 3 yards (tackle by Quincy Williams),1.86,1.72,9.0,2024,124
+3.0,8:15,2.0,7.0,HOU 47,7.0,7.0,Joe Mixon up the middle for 6 yards (tackle by D.J. Reed),1.72,1.82,9.0,2024,124
+3.0,7:55,3.0,1.0,NYJ 47,7.0,7.0,C.J. Stroud scrambles right end for 7 yards (tackle by Michael Carter),1.82,2.92,9.0,2024,124
+3.0,7:17,1.0,10.0,NYJ 40,7.0,7.0,J.J. Taylor left guard for 9 yards (tackle by Quinnen Williams),2.92,3.59,9.0,2024,124
+3.0,6:32,2.0,1.0,NYJ 31,7.0,7.0,J.J. Taylor left guard for 7 yards (tackle by Jalen Mills and Isaiah Oliver),3.59,3.97,9.0,2024,124
+3.0,5:48,1.0,10.0,NYJ 24,7.0,7.0,C.J. Stroud pass incomplete short right intended for Tank Dell,3.97,3.43,9.0,2024,124
+3.0,5:43,2.0,10.0,NYJ 24,7.0,7.0,Joe Mixon left guard for -1 yards (tackle by Jamien Sherwood),3.43,2.61,9.0,2024,124
+3.0,4:59,3.0,11.0,NYJ 25,7.0,7.0,C.J. Stroud sacked by Jamien Sherwood for -11 yards,2.61,0.88,9.0,2024,124
+3.0,4:16,4.0,22.0,NYJ 36,10.0,7.0,Ka'imi Fairbairn 54 yard field goal good,0.88,3.0,9.0,2024,124
+3.0,4:11,,,HOU 35,10.0,7.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.94,9.0,2024,124
+3.0,4:11,1.0,10.0,NYJ 30,10.0,7.0,Aaron Rodgers pass incomplete short right intended for Garrett Wilson,0.94,0.39,9.0,2024,124
+3.0,4:06,2.0,10.0,NYJ 30,10.0,7.0,Aaron Rodgers pass complete short left to Breece Hall for 13 yards (tackle by Calen Bullock and Eric Murray),0.39,1.8,9.0,2024,124
+3.0,3:12,1.0,10.0,NYJ 43,10.0,7.0,Breece Hall right end for 4 yards (tackle by Neville Hewitt),1.8,1.79,9.0,2024,124
+3.0,2:42,2.0,6.0,NYJ 47,10.0,7.0,Braelon Allen up the middle for 2 yards (tackle by Neville Hewitt and Eric Murray),1.79,1.35,9.0,2024,124
+3.0,1:59,3.0,4.0,NYJ 49,10.0,7.0,Aaron Rodgers pass complete short left to Garrett Wilson for 3 yards (tackle by Jalen Pitre),1.35,0.07,9.0,2024,124
+3.0,1:17,4.0,1.0,HOU 48,10.0,7.0,Aaron Rodgers pass complete short left to Davante Adams for 17 yards (tackle by Eric Murray),0.07,3.51,9.0,2024,124
+3.0,0:47,1.0,10.0,HOU 31,10.0,7.0,Aaron Rodgers pass incomplete short middle intended for Breece Hall (defended by Danielle Hunter),3.51,2.97,9.0,2024,124
+3.0,0:44,2.0,10.0,HOU 31,10.0,7.0,Aaron Rodgers pass complete short right to Garrett Wilson for 9 yards (tackle by Derek Stingley),2.97,3.47,9.0,2024,124
+3.0,0:12,3.0,1.0,HOU 22,10.0,7.0,Breece Hall right end for no gain (tackle by Neville Hewitt and Derek Stingley),3.47,2.14,9.0,2024,124
+4.0,15:00,4.0,1.0,HOU 22,10.0,7.0,"Aaron Rodgers pass incomplete deep right intended for Tyler Conklin. Penalty on Derek Stingley: Illegal Contact, 5 yards (accepted) (no play)",2.14,4.44,9.0,2024,124
+4.0,14:53,1.0,10.0,HOU 17,10.0,7.0,Aaron Rodgers pass complete short right to Jeremy Ruckert for 4 yards (tackle by Henry To'oTo'o),4.44,4.5,9.0,2024,124
+4.0,14:10,2.0,6.0,HOU 13,10.0,7.0,Aaron Rodgers pass complete short left to Tyler Conklin for -3 yards (tackle by Jalen Pitre),4.5,3.19,9.0,2024,124
+4.0,13:35,3.0,9.0,HOU 16,10.0,7.0,"Aaron Rodgers scrambles left guard for no gain (tackle by Henry To'oTo'o and Danielle Hunter). Penalty on Olumuyiwa Fashanu: Offensive Holding, 10 yards (accepted) (no play)",3.19,2.02,9.0,2024,124
+4.0,13:01,3.0,19.0,HOU 26,10.0,13.0,"Aaron Rodgers pass incomplete deep left intended for Garrett Wilson NYJ challenged the runner was in bounds ruling, and the original play was overturned. Aaron Rodgers pass complete deep left to Garrett Wilson for 26 yards, touchdown",2.02,7.0,9.0,2024,124
+4.0,12:54,,,HOU 15,10.0,14.0,Riley Patterson kicks extra point good,0.0,0.0,9.0,2024,124
+4.0,12:54,,,NYJ 35,10.0,14.0,"Riley Patterson kicks off 65 yards, returned by Steven Sims for 26 yards (tackle by Irvin Charles)",0.0,0.67,9.0,2024,124
+4.0,12:49,1.0,10.0,HOU 26,10.0,14.0,C.J. Stroud pass complete deep left to Tank Dell for 50 yards (tackle by D.J. Reed),0.67,3.97,9.0,2024,124
+4.0,12:05,1.0,10.0,NYJ 24,10.0,14.0,Joe Mixon right end for 2 yards (tackle by Quincy Williams),3.97,3.7,9.0,2024,124
+4.0,11:31,2.0,8.0,NYJ 22,10.0,14.0,J.J. Taylor up the middle for 7 yards (tackle by Isaiah Oliver),3.7,4.17,9.0,2024,124
+4.0,10:57,3.0,1.0,NYJ 15,10.0,14.0,C.J. Stroud sacked by Jamien Sherwood for no gain,4.17,2.59,9.0,2024,124
+4.0,10:30,4.0,1.0,NYJ 15,10.0,14.0,Joe Mixon right tackle for 2 yards (tackle by Quincy Williams),2.59,4.71,9.0,2024,124
+4.0,9:53,1.0,10.0,NYJ 13,10.0,14.0,Joe Mixon right guard for 3 yards (tackle by Jamien Sherwood),4.71,4.58,9.0,2024,124
+4.0,9:10,2.0,7.0,NYJ 10,10.0,14.0,Joe Mixon pass incomplete short right intended for C.J. Stroud,4.58,3.65,9.0,2024,124
+4.0,9:03,3.0,7.0,NYJ 10,10.0,14.0,C.J. Stroud sacked by Micheal Clemons for -15 yards,3.65,1.8,9.0,2024,124
+4.0,8:23,4.0,22.0,NYJ 25,10.0,14.0,"Ka'imi Fairbairn yard field goal good. Penalty on Eric Watts: Unnecessary Roughness / Defense, 13 yards (accepted) (no play)",1.8,4.78,9.0,2024,124
+4.0,8:19,1.0,10.0,NYJ 12,10.0,14.0,Joe Mixon left tackle for 3 yards (tackle by Jarius Monroe and Jalen Mills),4.78,4.64,9.0,2024,124
+4.0,7:47,2.0,7.0,NYJ 9,10.0,14.0,Joe Mixon left guard for no gain (tackle by Jalen Mills),4.64,3.7,9.0,2024,124
+4.0,7:02,3.0,7.0,NYJ 9,10.0,14.0,C.J. Stroud pass incomplete short right intended for John Metchie,3.7,2.83,9.0,2024,124
+4.0,6:57,4.0,7.0,NYJ 9,10.0,14.0,Ka'imi Fairbairn 27 yard field goal no good,2.83,-0.28,9.0,2024,124
+4.0,6:54,1.0,10.0,NYJ 20,10.0,14.0,Breece Hall left end for 2 yards (tackle by Kamari Lassiter and Neville Hewitt),0.28,0.0,9.0,2024,124
+4.0,6:13,2.0,8.0,NYJ 22,10.0,14.0,Breece Hall left end for 13 yards (tackle by Kamari Lassiter),0.0,1.27,9.0,2024,124
+4.0,5:29,1.0,10.0,NYJ 35,10.0,14.0,Aaron Rodgers pass complete short left to Garrett Wilson for 5 yards (tackle by Kamari Lassiter),1.27,1.4,9.0,2024,124
+4.0,4:48,2.0,5.0,NYJ 40,10.0,14.0,Breece Hall right tackle for 4 yards (tackle by Khalil Davis and Henry To'oTo'o),1.4,1.22,9.0,2024,124
+4.0,4:00,,,,,,Timeout #1 by New York Jets,,,9.0,2024,124
+4.0,4:00,3.0,1.0,NYJ 44,10.0,14.0,Aaron Rodgers pass complete short right to Kenny Yeboah for 12 yards (tackle by Calen Bullock),1.22,2.65,9.0,2024,124
+4.0,3:55,1.0,10.0,HOU 44,10.0,14.0,Braelon Allen up the middle for -2 yards (tackle by Jalen Pitre),2.65,1.84,9.0,2024,124
+4.0,3:12,2.0,12.0,HOU 46,10.0,14.0,Aaron Rodgers pass complete short left to Garrett Wilson for 9 yards (tackle by Jalen Pitre),1.84,2.35,9.0,2024,124
+4.0,3:02,,,,,,Timeout #1 by Houston Texans,,,9.0,2024,124
+4.0,3:02,3.0,3.0,HOU 37,10.0,20.0,"Aaron Rodgers pass complete deep right to Davante Adams for 37 yards, touchdown",2.35,7.0,9.0,2024,124
+4.0,2:56,,,HOU 15,10.0,21.0,Riley Patterson kicks extra point good,0.0,0.0,9.0,2024,124
+4.0,2:56,,,NYJ 35,10.0,21.0,"Riley Patterson kicks off 66 yards, returned by Steven Sims for 31 yards (tackle by Jarrick Bernard-Converse)",0.0,0.94,9.0,2024,124
+4.0,2:48,1.0,10.0,HOU 30,10.0,21.0,C.J. Stroud pass incomplete deep right intended for Xavier Hutchinson,0.94,0.39,9.0,2024,124
+4.0,2:42,2.0,10.0,HOU 30,10.0,21.0,C.J. Stroud pass incomplete deep left intended for Dalton Schultz,0.39,-0.3,9.0,2024,124
+4.0,2:33,3.0,10.0,HOU 30,10.0,21.0,"Penalty on C.J. Stroud: Delay of Game, 5 yards (accepted) (no play)",-0.3,-0.96,9.0,2024,124
+4.0,2:33,3.0,15.0,HOU 25,10.0,21.0,C.J. Stroud pass complete short left to Tank Dell for 6 yards (tackle by Quincy Williams),-0.96,-1.31,9.0,2024,124
+4.0,2:06,4.0,9.0,HOU 31,10.0,21.0,"C.J. Stroud pass incomplete short middle intended for Tank Dell. Penalty on Isaiah Oliver: Defensive Pass Interference, 12 yards (accepted) (no play)",-1.31,1.8,9.0,2024,124
+4.0,2:01,1.0,10.0,HOU 43,10.0,21.0,C.J. Stroud pass incomplete deep right intended for Dalton Schultz,1.8,1.25,9.0,2024,124
+4.0,1:55,2.0,10.0,HOU 43,10.0,21.0,C.J. Stroud pass incomplete deep right intended for Tank Dell,1.25,0.56,9.0,2024,124
+4.0,1:49,3.0,10.0,HOU 43,10.0,21.0,C.J. Stroud pass complete short right to Dalton Schultz for 8 yards (tackle by Jamien Sherwood),0.56,0.0,9.0,2024,124
+4.0,1:26,4.0,2.0,NYJ 49,10.0,21.0,C.J. Stroud scrambles right end for 25 yards (tackle by Jalen Mills),0.0,3.97,9.0,2024,124
+4.0,1:20,1.0,10.0,NYJ 24,10.0,21.0,C.J. Stroud pass incomplete short middle intended for Cade Stover (defended by Sauce Gardner),3.97,3.43,9.0,2024,124
+4.0,1:17,2.0,10.0,NYJ 24,10.0,21.0,C.J. Stroud pass incomplete deep right intended for Dare Ogunbowale,3.43,2.74,9.0,2024,124
+4.0,1:11,3.0,10.0,NYJ 24,10.0,21.0,C.J. Stroud pass complete short right to Robert Woods for 12 yards (tackle by Sauce Gardner),2.74,4.78,9.0,2024,124
+4.0,1:05,1.0,10.0,NYJ 12,10.0,21.0,C.J. Stroud pass incomplete short right intended for Xavier Hutchinson (defended by Jalen Mills),4.78,4.1,9.0,2024,124
+4.0,1:00,2.0,10.0,NYJ 12,10.0,21.0,"C.J. Stroud scrambles right end for 6 yards (tackle by Jamien Sherwood). Penalty on Sauce Gardner: Defensive Holding, 3 yards (accepted)",4.1,6.51,9.0,2024,124
+4.0,0:52,1.0,3.0,NYJ 3,10.0,21.0,C.J. Stroud pass incomplete short right intended for Dare Ogunbowale,6.51,5.53,9.0,2024,124
+4.0,0:47,2.0,3.0,NYJ 3,10.0,21.0,C.J. Stroud sacked by and Haason Reddick for -8 yards and Quinnen Williams for -8 yards,5.53,3.12,9.0,2024,124
+4.0,0:42,,,,,,Timeout #2 by Houston Texans,,,9.0,2024,124
+4.0,0:42,3.0,11.0,NYJ 11,13.0,21.0,Ka'imi Fairbairn 29 yard field goal good,3.12,3.0,9.0,2024,124
+4.0,0:39,,,HOU 35,13.0,21.0,"Ka'imi Fairbairn kicks onside 8 yards, returned by Davante Adams for no gain",0.0,2.72,9.0,2024,124
+4.0,0:38,1.0,10.0,HOU 43,13.0,21.0,Aaron Rodgers kneels for -1 yards,2.72,2.04,9.0,2024,124

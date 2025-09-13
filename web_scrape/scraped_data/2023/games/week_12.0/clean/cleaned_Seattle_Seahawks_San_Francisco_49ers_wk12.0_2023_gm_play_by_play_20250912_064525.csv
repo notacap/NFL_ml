@@ -1,0 +1,164 @@
+Quarter,Time,Down,ToGo,Location,SFO,SEA,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Seahawks won the coin toss and deferred, 49ers to receive the opening kickoff.",,,12.0,2023,167
+1.0,15:00,,,SEA 35,0.0,0.0,"Jason Myers kicks off 65 yards, returned by Ray-Ray McCloud for 29 yards (tackle by Nick Bellore)",0.0,0.87,12.0,2023,167
+1.0,14:55,1.0,10.0,SFO 29,0.0,0.0,Brock Purdy pass complete short middle to Christian McCaffrey for 14 yards (tackle by Julian Love),0.87,1.8,12.0,2023,167
+1.0,14:10,1.0,10.0,SFO 43,0.0,0.0,Brock Purdy pass incomplete deep right intended for George Kittle (defended by Quandre Diggs),1.8,1.25,12.0,2023,167
+1.0,14:01,2.0,10.0,SFO 43,0.0,0.0,Brock Purdy pass complete short middle to Charlie Woerner for 9 yards (tackle by Bobby Wagner),1.25,1.75,12.0,2023,167
+1.0,13:23,3.0,1.0,SEA 48,0.0,0.0,Christian McCaffrey left guard for 5 yards (tackle by Dre'Mont Jones),1.75,2.72,12.0,2023,167
+1.0,12:42,1.0,10.0,SEA 43,0.0,0.0,Christian McCaffrey up the middle for 27 yards (tackle by Devon Witherspoon and Julian Love),2.72,4.51,12.0,2023,167
+1.0,12:09,1.0,10.0,SEA 16,0.0,0.0,Brock Purdy scrambles right end for 3 yards (tackle by Jordyn Brooks),4.51,4.39,12.0,2023,167
+1.0,11:24,2.0,7.0,SEA 13,0.0,0.0,Brock Purdy pass complete short middle to Deebo Samuel for 10 yards (tackle by Bobby Wagner),4.39,6.51,12.0,2023,167
+1.0,10:47,1.0,3.0,SEA 3,0.0,0.0,Christian McCaffrey right guard for 1 yard (tackle by Bobby Wagner and Jordyn Brooks),6.51,5.72,12.0,2023,167
+1.0,10:04,2.0,2.0,SEA 2,6.0,0.0,"Deebo Samuel left guard for 2 yards, touchdown",5.72,7.0,12.0,2023,167
+1.0,10:01,,,SEA 15,7.0,0.0,Jake Moody kicks extra point good,0.0,0.0,12.0,2023,167
+1.0,10:01,,,SFO 35,7.0,0.0,"Jake Moody kicks off 64 yards, returned by D'Wayne Eskridge for 66 yards (tackle by Darrell Luter)",0.0,3.38,12.0,2023,167
+1.0,9:53,1.0,10.0,SFO 33,7.0,0.0,Geno Smith left end for 1 yard (tackle by Dre Greenlaw),3.38,2.97,12.0,2023,167
+1.0,9:20,2.0,9.0,SFO 32,7.0,0.0,Geno Smith pass incomplete short right intended for D.K. Metcalf,2.97,2.28,12.0,2023,167
+1.0,9:16,3.0,9.0,SFO 32,7.0,0.0,Geno Smith pass incomplete short left intended for D.K. Metcalf (defended by Charvarius Ward),2.28,1.24,12.0,2023,167
+1.0,9:11,4.0,9.0,SFO 32,7.0,3.0,Jason Myers 51 yard field goal good,1.24,3.0,12.0,2023,167
+1.0,9:07,,,SEA 35,7.0,3.0,"Jason Myers kicks off 66 yards, returned by Ray-Ray McCloud for 23 yards (tackle by Nick Bellore)",0.0,0.41,12.0,2023,167
+1.0,9:02,1.0,10.0,SFO 22,7.0,3.0,Christian McCaffrey left guard for 2 yards (tackle by Boye Mafe and Jordyn Brooks),0.41,0.14,12.0,2023,167
+1.0,8:24,2.0,8.0,SFO 24,7.0,3.0,Brock Purdy pass complete short left to Deebo Samuel for 22 yards (tackle by Jordyn Brooks),0.14,1.99,12.0,2023,167
+1.0,7:49,1.0,10.0,SFO 46,7.0,3.0,Brock Purdy pass complete deep left to Deebo Samuel for 24 yards (tackle by Julian Love),1.99,3.58,12.0,2023,167
+1.0,7:01,1.0,10.0,SEA 30,7.0,3.0,"Christian McCaffrey up the middle for 2 yards (tackle by Tre Brown and Jordyn Brooks). Penalty on Jauan Jennings: Offensive Holding, 10 yards (accepted)",3.58,3.05,12.0,2023,167
+1.0,6:30,,,,,,Timeout #1 by San Francisco 49ers,,,12.0,2023,167
+1.0,6:30,1.0,18.0,SEA 38,7.0,3.0,Brock Purdy pass complete short middle to Christian McCaffrey for 4 yards (tackle by Jordyn Brooks),3.05,2.49,12.0,2023,167
+1.0,5:55,2.0,14.0,SEA 34,7.0,3.0,Brock Purdy pass incomplete deep right intended for Jauan Jennings,2.49,1.82,12.0,2023,167
+1.0,5:46,3.0,14.0,SEA 34,7.0,3.0,Brock Purdy pass complete short left to Christian McCaffrey for -6 yards (tackle by Leonard Williams),1.82,0.59,12.0,2023,167
+1.0,5:07,4.0,20.0,SEA 40,7.0,3.0,"Mitch Wishnowsky punts 33 yards, fair catch by DeeJay Dallas at SEA-7",0.59,0.38,12.0,2023,167
+1.0,5:01,1.0,10.0,SEA 7,7.0,3.0,Zach Charbonnet right guard for 3 yards (tackle by Nick Bosa and Clelin Ferrell),-0.38,-0.56,12.0,2023,167
+1.0,4:26,2.0,7.0,SEA 10,7.0,3.0,Geno Smith sacked by Tashaun Gipson for -9 yards,-0.56,-2.12,12.0,2023,167
+1.0,3:47,3.0,16.0,SEA 1,7.0,3.0,Geno Smith pass complete short middle to DeeJay Dallas for 5 yards (tackle by Dre Greenlaw),-2.12,-2.49,12.0,2023,167
+1.0,3:08,4.0,11.0,SEA 6,7.0,3.0,"Michael Dickson punts 39 yards, fair catch by Ray-Ray McCloud at SEA-45",-2.49,-2.59,12.0,2023,167
+1.0,3:02,1.0,10.0,SEA 45,7.0,3.0,Christian McCaffrey left guard for 16 yards (tackle by Quandre Diggs),2.59,3.64,12.0,2023,167
+1.0,2:26,1.0,10.0,SEA 29,7.0,3.0,Deebo Samuel pass incomplete short right,3.64,3.1,12.0,2023,167
+1.0,2:18,2.0,10.0,SEA 29,7.0,3.0,Deebo Samuel up the middle for 3 yards (tackle by Boye Mafe and Jamal Adams),3.1,2.81,12.0,2023,167
+1.0,1:37,3.0,7.0,SEA 26,7.0,3.0,Brock Purdy pass complete short left to Jauan Jennings for 7 yards (tackle by Devon Witherspoon),2.81,4.31,12.0,2023,167
+1.0,0:51,1.0,10.0,SEA 19,7.0,3.0,Christian McCaffrey left guard for 2 yards (tackle by Jarran Reed and Mario Edwards),4.31,4.03,12.0,2023,167
+1.0,0:12,2.0,8.0,SEA 17,7.0,3.0,Brock Purdy pass complete short middle to George Kittle for 1 yard (tackle by Jordyn Brooks and Mario Edwards),4.03,3.41,12.0,2023,167
+2.0,15:00,3.0,7.0,SEA 16,7.0,3.0,"Brock Purdy sacked by Bobby Wagner for no gain. Penalty on Tre Brown: Illegal Contact, 5 yards (accepted) (no play)",3.41,4.84,12.0,2023,167
+2.0,14:40,1.0,10.0,SEA 11,7.0,3.0,Brock Purdy pass complete short middle to Christian McCaffrey for 5 yards (tackle by Jordyn Brooks),4.84,5.08,12.0,2023,167
+2.0,14:02,2.0,5.0,SEA 6,7.0,3.0,Christian McCaffrey left guard for 5 yards (tackle by Julian Love and Jordyn Brooks),5.08,6.97,12.0,2023,167
+2.0,13:15,1.0,1.0,SEA 1,13.0,3.0,"Christian McCaffrey left guard for 1 yard, touchdown",6.97,7.0,12.0,2023,167
+2.0,13:11,,,SEA 15,14.0,3.0,Jake Moody kicks extra point good,0.0,0.0,12.0,2023,167
+2.0,13:11,,,SFO 35,14.0,3.0,"Jake Moody kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,167
+2.0,13:11,1.0,10.0,SEA 25,14.0,3.0,D'Wayne Eskridge right end for 10 yards (tackle by Deommodore Lenoir),0.61,1.27,12.0,2023,167
+2.0,12:40,1.0,10.0,SEA 35,14.0,3.0,Geno Smith pass short right intended for Tyler Lockett is intercepted by Ambry Thomas at SEA-44 and returned for 2 yards (tackle by Tyler Lockett),1.27,-2.79,12.0,2023,167
+2.0,12:35,1.0,10.0,SEA 42,14.0,3.0,Elijah Mitchell up the middle for 2 yards (tackle by Jarran Reed),2.79,2.51,12.0,2023,167
+2.0,11:55,2.0,8.0,SEA 40,14.0,3.0,Brock Purdy pass complete short right to Elijah Mitchell for -3 yards (tackle by Jamal Adams),2.51,1.42,12.0,2023,167
+2.0,11:11,3.0,11.0,SEA 43,14.0,3.0,Brock Purdy sacked by Darrell Taylor for -1 yards,1.42,0.33,12.0,2023,167
+2.0,10:37,4.0,12.0,SEA 44,14.0,3.0,Mitch Wishnowsky punts 43 yards downed by Ronnie Bell,0.33,0.38,12.0,2023,167
+2.0,10:29,1.0,10.0,SEA 2,14.0,3.0,Zach Charbonnet left guard for no gain (tackle by Fred Warner),-0.38,-0.78,12.0,2023,167
+2.0,10:06,2.0,10.0,SEA 2,14.0,3.0,Geno Smith pass incomplete deep left intended for D.K. Metcalf,-0.78,-1.42,12.0,2023,167
+2.0,9:59,3.0,10.0,SEA 2,14.0,3.0,Geno Smith pass complete short right to D.K. Metcalf for 9 yards (tackle by Deommodore Lenoir and Fred Warner),-1.42,-2.49,12.0,2023,167
+2.0,9:22,4.0,1.0,SEA 11,14.0,3.0,"Michael Dickson punts 51 yards, returned by Ray-Ray McCloud for 4 yards (tackle by Jon Rhattigan)",-2.49,-1.73,12.0,2023,167
+2.0,9:10,1.0,10.0,SFO 42,14.0,3.0,Brock Purdy pass complete short middle to Brandon Aiyuk for 22 yards (tackle by Julian Love and Bobby Wagner),1.73,3.18,12.0,2023,167
+2.0,8:26,1.0,10.0,SEA 36,14.0,3.0,Brock Purdy pass incomplete short left intended for Brandon Aiyuk,3.18,2.64,12.0,2023,167
+2.0,8:20,2.0,10.0,SEA 36,14.0,3.0,Christian McCaffrey up the middle for 1 yard (tackle by Leonard Williams),2.64,2.08,12.0,2023,167
+2.0,7:36,3.0,9.0,SEA 35,14.0,3.0,Brock Purdy pass complete short right to George Kittle for 11 yards (tackle by Jamal Adams),2.08,3.97,12.0,2023,167
+2.0,6:50,1.0,10.0,SEA 24,14.0,3.0,Brock Purdy pass incomplete deep middle intended for Brandon Aiyuk (defended by Devon Witherspoon),3.97,3.43,12.0,2023,167
+2.0,6:45,2.0,10.0,SEA 24,14.0,3.0,Christian McCaffrey up the middle for 4 yards (tackle by Bobby Wagner),3.43,3.27,12.0,2023,167
+2.0,6:00,3.0,6.0,SEA 20,14.0,3.0,Brock Purdy pass complete short middle to Deebo Samuel for 12 yards (tackle by Bobby Wagner and Jordyn Brooks),3.27,5.37,12.0,2023,167
+2.0,5:19,1.0,8.0,SEA 8,20.0,3.0,"Christian McCaffrey left guard for 8 yards, touchdown",5.37,7.0,12.0,2023,167
+2.0,5:11,,,SEA 15,21.0,3.0,Jake Moody kicks extra point good,0.0,0.0,12.0,2023,167
+2.0,5:11,,,SFO 35,21.0,3.0,"Jake Moody kicks off 58 yards, returned by D'Wayne Eskridge for 21 yards (tackle by Samuel Womack and Darrell Luter)",0.0,0.81,12.0,2023,167
+2.0,5:07,1.0,10.0,SEA 28,21.0,3.0,Geno Smith pass incomplete deep left intended for D.K. Metcalf,0.81,0.26,12.0,2023,167
+2.0,5:01,2.0,10.0,SEA 28,21.0,3.0,Zach Charbonnet up the middle for 4 yards (tackle by Javon Hargrave),0.26,0.1,12.0,2023,167
+2.0,4:19,3.0,6.0,SEA 32,21.0,3.0,"Penalty on Jason Peters: False Start, 4 yards (accepted) (no play)",0.1,-0.43,12.0,2023,167
+2.0,3:57,3.0,10.0,SEA 28,21.0,3.0,Geno Smith sacked by Javon Hargrave for -8 yards,-0.43,-2.03,12.0,2023,167
+2.0,3:22,4.0,17.0,SEA 20,21.0,3.0,"Michael Dickson punts 59 yards, returned by Ray-Ray McCloud for 4 yards (tackle by Julian Love)",-2.03,-0.61,12.0,2023,167
+2.0,3:09,1.0,10.0,SFO 25,21.0,3.0,Deebo Samuel right end for -5 yards (tackle by Devon Witherspoon),0.61,-0.61,12.0,2023,167
+2.0,2:26,2.0,15.0,SFO 20,21.0,3.0,Brock Purdy pass incomplete deep right intended for Deebo Samuel,-0.61,-1.29,12.0,2023,167
+2.0,2:16,3.0,15.0,SFO 20,21.0,3.0,Christian McCaffrey up the middle for 7 yards (tackle by Quandre Diggs),-1.29,-1.57,12.0,2023,167
+2.0,2:00,4.0,8.0,SFO 27,21.0,3.0,"Mitch Wishnowsky punts 43 yards, recovered by Ronnie Bell at SEA-30 and returned for 8 yards",-1.57,4.11,12.0,2023,167
+2.0,1:47,1.0,10.0,SEA 22,21.0,3.0,Christian McCaffrey up the middle for 5 yards (tackle by Jamal Adams and Leonard Williams),4.11,4.29,12.0,2023,167
+2.0,1:05,2.0,5.0,SEA 17,21.0,3.0,Christian McCaffrey up the middle for 1 yard (tackle by Jarran Reed and Leonard Williams),4.29,3.74,12.0,2023,167
+2.0,0:51,,,,,,Timeout #1 by Seattle Seahawks,,,12.0,2023,167
+2.0,0:51,3.0,4.0,SEA 16,21.0,3.0,Brock Purdy pass complete short right to Deebo Samuel for 2 yards (tackle by Quandre Diggs and Devon Witherspoon),3.74,2.63,12.0,2023,167
+2.0,0:43,,,,,,Timeout #2 by Seattle Seahawks,,,12.0,2023,167
+2.0,0:43,,,,,,Timeout #2 by San Francisco 49ers,,,12.0,2023,167
+2.0,0:43,4.0,2.0,SEA 14,24.0,3.0,Jake Moody 32 yard field goal good,2.63,3.0,12.0,2023,167
+2.0,0:39,,,SFO 35,24.0,3.0,"Jake Moody kicks off 64 yards, returned by D'Wayne Eskridge for 23 yards (tackle by Demetrius Flannigan-Fowles)",0.0,0.54,12.0,2023,167
+2.0,0:34,1.0,10.0,SEA 24,24.0,3.0,Geno Smith pass complete short middle to D.K. Metcalf for 9 yards (tackle by Deommodore Lenoir),0.54,1.21,12.0,2023,167
+2.0,0:16,2.0,1.0,SEA 33,24.0,3.0,Geno Smith pass complete short left to Noah Fant for 9 yards (tackle by Dre Greenlaw),1.21,1.73,12.0,2023,167
+2.0,0:14,1.0,10.0,SEA 42,24.0,3.0,Geno Smith pass complete short right to Tyler Lockett for 9 yards (tackle by Ambry Thomas),1.73,2.4,12.0,2023,167
+2.0,0:09,2.0,1.0,SFO 49,24.0,3.0,Geno Smith pass complete short middle to D.K. Metcalf for 14 yards (tackle by Charvarius Ward and Ji'Ayir Brown),2.4,3.25,12.0,2023,167
+2.0,0:05,,,,,,Timeout #3 by Seattle Seahawks,,,12.0,2023,167
+2.0,0:05,,,,,,Timeout #3 by San Francisco 49ers,,,12.0,2023,167
+2.0,0:05,1.0,10.0,SFO 35,24.0,3.0,Jason Myers 53 yard field goal no good,3.25,1.73,12.0,2023,167
+3.0,15:00,,,SFO 35,24.0,3.0,"Penalty on Stone Forsythe: Unnecessary Roughness / Offense, 15 yards (accepted) (no play)",0.0,0.0,12.0,2023,167
+3.0,15:00,,,SFO 50,24.0,3.0,"Jake Moody kicks off 50 yards, touchback.",0.0,0.61,12.0,2023,167
+3.0,15:00,1.0,10.0,SEA 25,24.0,3.0,Zach Charbonnet left guard for 2 yards (tackle by Arik Armstead),0.61,0.33,12.0,2023,167
+3.0,14:38,2.0,8.0,SEA 27,24.0,3.0,Geno Smith pass complete short middle to Will Dissly for 21 yards (tackle by Tashaun Gipson),0.33,2.13,12.0,2023,167
+3.0,14:16,1.0,10.0,SEA 48,24.0,3.0,Zach Charbonnet up the middle for 8 yards (tackle by Dre Greenlaw and Ji'Ayir Brown),2.13,2.66,12.0,2023,167
+3.0,13:50,2.0,2.0,SFO 44,24.0,3.0,Zach Charbonnet left guard for 3 yards (tackle by Dre Greenlaw and Javon Hargrave),2.66,2.85,12.0,2023,167
+3.0,13:28,1.0,10.0,SFO 41,24.0,3.0,Geno Smith pass incomplete deep left intended for D.K. Metcalf (defended by Charvarius Ward),2.85,2.31,12.0,2023,167
+3.0,13:21,2.0,10.0,SFO 41,24.0,3.0,Geno Smith pass complete short middle to Jake Bobo for 6 yards (tackle by Tashaun Gipson and Javon Hargrave),2.31,2.41,12.0,2023,167
+3.0,12:41,3.0,4.0,SFO 35,24.0,3.0,Geno Smith sacked by Nick Bosa for -7 yards,2.41,0.46,12.0,2023,167
+3.0,11:54,4.0,11.0,SFO 42,24.0,3.0,"Penalty on SEA: Delay of Game, 5 yards (declined) (no play)",0.46,0.46,12.0,2023,167
+3.0,11:42,4.0,11.0,SFO 42,24.0,3.0,Michael Dickson punts 38 yards downed by Artie Burns,0.46,0.38,12.0,2023,167
+3.0,11:34,1.0,10.0,SFO 4,24.0,3.0,Brock Purdy pass incomplete short middle intended for Deebo Samuel,-0.38,-0.78,12.0,2023,167
+3.0,11:30,2.0,10.0,SFO 4,24.0,9.0,"Brock Purdy pass short middle intended for Christian McCaffrey is intercepted by Jordyn Brooks at SF-12 and returned for 12 yards, touchdown",-0.78,-7.0,12.0,2023,167
+3.0,11:23,,,SFO 15,24.0,10.0,Jason Myers kicks extra point good,0.0,0.0,12.0,2023,167
+3.0,11:23,,,SEA 35,24.0,10.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,167
+3.0,11:23,1.0,10.0,SFO 25,24.0,10.0,"Penalty on Aaron Banks: False Start, 5 yards (accepted) (no play)",0.61,0.28,12.0,2023,167
+3.0,11:23,1.0,15.0,SFO 20,24.0,10.0,Brock Purdy pass complete short left to Deebo Samuel for 2 yards (tackle by Michael Jackson and Jamal Adams),0.28,-0.34,12.0,2023,167
+3.0,10:40,2.0,13.0,SFO 22,24.0,10.0,Brock Purdy pass complete short middle to George Kittle for 7 yards (tackle by Quandre Diggs),-0.34,-0.1,12.0,2023,167
+3.0,9:56,3.0,6.0,SFO 29,24.0,10.0,Brock Purdy pass incomplete deep left intended for George Kittle,-0.1,-1.44,12.0,2023,167
+3.0,9:49,4.0,6.0,SFO 29,24.0,10.0,"Mitch Wishnowsky punts 51 yards out of bounds. Penalty on Jon Rhattigan: Offensive Holding, 10 yards (accepted)",-1.44,0.38,12.0,2023,167
+3.0,9:41,1.0,10.0,SEA 10,24.0,10.0,Zach Charbonnet up the middle for 1 yard (tackle by Javon Kinlaw),-0.38,-0.71,12.0,2023,167
+3.0,9:33,2.0,9.0,SEA 11,24.0,10.0,Geno Smith pass incomplete short right intended for D.K. Metcalf,-0.71,-1.3,12.0,2023,167
+3.0,9:15,3.0,9.0,SEA 11,24.0,10.0,Geno Smith pass complete deep right to Jaxon Smith-Njigba for 34 yards (tackle by Deommodore Lenoir),-1.3,1.93,12.0,2023,167
+3.0,8:43,1.0,10.0,SEA 45,24.0,10.0,DeeJay Dallas up the middle for 7 yards (tackle by Ji'Ayir Brown and Fred Warner),1.93,2.33,12.0,2023,167
+3.0,8:21,2.0,3.0,SFO 48,24.0,10.0,DeeJay Dallas up the middle for 3 yards (tackle by Fred Warner and Javon Hargrave),2.33,2.59,12.0,2023,167
+3.0,7:38,1.0,10.0,SFO 45,24.0,10.0,Geno Smith pass complete short left to Jaxon Smith-Njigba for 7 yards (tackle by Arik Armstead),2.59,2.99,12.0,2023,167
+3.0,7:10,2.0,3.0,SFO 38,24.0,10.0,"Geno Smith sacked by Javon Hargrave for no gain. Penalty on Tashaun Gipson: Defensive Holding, 5 yards (offset) . Penalty on Evan Brown: Illegal Use of Hands / Offense, 5 yards (offset) (no play)",2.99,2.99,12.0,2023,167
+3.0,7:04,2.0,3.0,SFO 38,24.0,10.0,Zach Charbonnet up the middle for 5 yards (tackle by Oren Burks and Charvarius Ward),2.99,3.38,12.0,2023,167
+3.0,6:10,1.0,10.0,SFO 33,24.0,10.0,Geno Smith scrambles right end for 9 yards (tackle by Oren Burks),3.38,4.05,12.0,2023,167
+3.0,5:42,2.0,1.0,SFO 24,24.0,10.0,Zach Charbonnet up the middle for 5 yards (tackle by Oren Burks),4.05,4.31,12.0,2023,167
+3.0,5:12,1.0,10.0,SFO 19,24.0,10.0,Geno Smith scrambles right end for 11 yards (tackle by Tashaun Gipson),4.31,5.37,12.0,2023,167
+3.0,4:38,1.0,8.0,SFO 8,24.0,10.0,Zach Charbonnet right end for 1 yard (tackle by Dre Greenlaw),5.37,4.76,12.0,2023,167
+3.0,4:05,2.0,7.0,SFO 7,24.0,10.0,Geno Smith pass incomplete short right intended for Jaxon Smith-Njigba (defended by Ambry Thomas),4.76,3.81,12.0,2023,167
+3.0,4:01,3.0,7.0,SFO 7,24.0,10.0,Geno Smith sacked by and Arik Armstead for -5 yards and Javon Hargrave for -5 yards,3.81,2.63,12.0,2023,167
+3.0,3:16,4.0,12.0,SFO 12,24.0,13.0,Jason Myers 30 yard field goal good,2.63,3.0,12.0,2023,167
+3.0,3:13,,,SEA 35,24.0,13.0,"Jason Myers kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,167
+3.0,3:13,1.0,10.0,SFO 25,24.0,13.0,Deebo Samuel left end for 15 yards (tackle by Julian Love),0.61,1.6,12.0,2023,167
+3.0,2:39,1.0,10.0,SFO 40,24.0,13.0,Christian McCaffrey up the middle for 7 yards (tackle by Jordyn Brooks),1.6,2.0,12.0,2023,167
+3.0,1:58,2.0,3.0,SFO 47,24.0,13.0,Christian McCaffrey right tackle for 9 yards (tackle by Julian Love and Derick Hall),2.0,2.65,12.0,2023,167
+3.0,1:19,1.0,10.0,SEA 44,24.0,13.0,Christian McCaffrey left guard for -1 yards (tackle by Jamal Adams),2.65,1.98,12.0,2023,167
+3.0,0:40,2.0,11.0,SEA 45,24.0,13.0,Brock Purdy pass incomplete short right intended for Kyle Juszczyk,1.98,1.29,12.0,2023,167
+3.0,0:34,3.0,11.0,SEA 45,24.0,13.0,Brock Purdy pass complete short right to Christian McCaffrey for 8 yards (tackle by Quandre Diggs),1.29,0.79,12.0,2023,167
+4.0,15:00,4.0,3.0,SEA 37,24.0,13.0,"Penalty on Jon Feliciano: False Start, 5 yards (accepted) (no play)",0.79,0.46,12.0,2023,167
+4.0,15:00,4.0,8.0,SEA 42,24.0,13.0,Mitch Wishnowsky punts 29 yards downed by Oren Burks,0.46,0.32,12.0,2023,167
+4.0,14:52,1.0,10.0,SEA 13,24.0,13.0,Geno Smith pass complete short right to Zach Charbonnet for 6 yards (tackle by Oren Burks),-0.32,0.03,12.0,2023,167
+4.0,14:18,2.0,4.0,SEA 19,24.0,13.0,Zach Charbonnet left end for 10 yards (tackle by Deommodore Lenoir and Dre Greenlaw),0.03,0.87,12.0,2023,167
+4.0,13:53,1.0,10.0,SEA 29,24.0,13.0,"Geno Smith pass complete short left to Tyler Lockett for no gain (tackle by Oren Burks). Penalty on Zach Charbonnet: Illegal Shift, 5 yards (accepted) (no play)",0.87,0.54,12.0,2023,167
+4.0,13:29,1.0,15.0,SEA 24,24.0,13.0,Geno Smith pass complete short left to Zach Charbonnet for -4 yards (tackle by Randy Gregory),0.54,-0.89,12.0,2023,167
+4.0,12:51,2.0,19.0,SEA 20,24.0,13.0,Geno Smith pass complete short right to Tyler Lockett for 11 yards (tackle by Charvarius Ward),-0.89,-0.1,12.0,2023,167
+4.0,12:10,3.0,8.0,SEA 31,24.0,13.0,Geno Smith sacked by and Arik Armstead for -11 yards and Nick Bosa for -11 yards,-0.1,-2.03,12.0,2023,167
+4.0,11:30,4.0,19.0,SEA 20,24.0,13.0,"Michael Dickson punts 44 yards, returned by Ray-Ray McCloud for 2 yards. Ray-Ray McCloud fumbles (forced by Coby Bryant), recovered by Oren Burks at SF-36",-2.03,-1.33,12.0,2023,167
+4.0,11:22,1.0,10.0,SFO 36,24.0,13.0,Brock Purdy pass complete short left to Deebo Samuel for 7 yards (tackle by Michael Jackson),1.33,1.74,12.0,2023,167
+4.0,10:35,2.0,3.0,SFO 43,24.0,13.0,Christian McCaffrey left end for 12 yards (tackle by Jordyn Brooks),1.74,2.59,12.0,2023,167
+4.0,9:57,1.0,10.0,SEA 45,24.0,13.0,Elijah Mitchell up the middle for 9 yards (tackle by Devon Witherspoon and Derick Hall),2.59,3.26,12.0,2023,167
+4.0,9:21,2.0,1.0,SEA 36,24.0,13.0,Elijah Mitchell left guard for 5 yards (tackle by Julian Love),3.26,3.51,12.0,2023,167
+4.0,8:38,1.0,10.0,SEA 31,24.0,13.0,Elijah Mitchell up the middle for 3 yards (tackle by Bobby Wagner and Quandre Diggs),3.51,3.37,12.0,2023,167
+4.0,7:59,2.0,7.0,SEA 28,30.0,13.0,"Brock Purdy pass complete deep right to Brandon Aiyuk for 28 yards, touchdown",3.37,7.0,12.0,2023,167
+4.0,7:51,,,SEA 15,31.0,13.0,Jake Moody kicks extra point good,0.0,0.0,12.0,2023,167
+4.0,7:51,,,SFO 35,31.0,13.0,"Jake Moody kicks off 58 yards, returned by D'Wayne Eskridge for 30 yards (tackle by Jordan Mason and Isaiah Oliver)",0.0,1.4,12.0,2023,167
+4.0,7:46,1.0,10.0,SEA 37,31.0,13.0,Geno Smith pass complete short left to Zach Charbonnet for 2 yards (tackle by Ji'Ayir Brown),1.4,1.13,12.0,2023,167
+4.0,7:23,2.0,8.0,SEA 39,31.0,13.0,Geno Smith sacked by and Kevin Givens for -8 yards and Nick Bosa for -8 yards,1.13,-0.62,12.0,2023,167
+4.0,6:40,3.0,16.0,SEA 31,31.0,13.0,Geno Smith pass complete short middle to Noah Fant for 16 yards (tackle by Tashaun Gipson),-0.62,2.06,12.0,2023,167
+4.0,6:18,1.0,10.0,SEA 47,31.0,13.0,Geno Smith pass complete short right to Tyler Lockett for 10 yards (tackle by Charvarius Ward),2.06,2.72,12.0,2023,167
+4.0,5:53,1.0,10.0,SFO 43,31.0,13.0,Zach Charbonnet up the middle for 2 yards (tackle by Dre Greenlaw and Arik Armstead),2.72,2.45,12.0,2023,167
+4.0,5:41,2.0,8.0,SFO 41,31.0,13.0,Geno Smith pass complete short middle to Zach Charbonnet for 7 yards (tackle by Fred Warner),2.45,2.68,12.0,2023,167
+4.0,5:16,3.0,1.0,SFO 34,31.0,13.0,Zach Charbonnet up the middle for 4 yards (tackle by Deommodore Lenoir and Javon Hargrave),2.68,3.58,12.0,2023,167
+4.0,4:57,1.0,10.0,SFO 30,31.0,13.0,Geno Smith pass complete short right to Colby Parkinson for 9 yards (tackle by Charvarius Ward),3.58,4.25,12.0,2023,167
+4.0,4:51,2.0,1.0,SFO 21,31.0,13.0,Geno Smith pass incomplete deep right intended for Tyler Lockett (defended by Charvarius Ward),4.25,3.53,12.0,2023,167
+4.0,4:45,3.0,1.0,SFO 21,31.0,13.0,Geno Smith up the middle for no gain (tackle by Fred Warner),3.53,2.21,12.0,2023,167
+4.0,4:19,4.0,1.0,SFO 21,31.0,13.0,Zach Charbonnet right end for -1 yards (tackle by Nick Bosa and Deommodore Lenoir),2.21,-0.48,12.0,2023,167
+4.0,4:14,1.0,10.0,SFO 23,31.0,13.0,Elijah Mitchell left end for 13 yards (tackle by Bobby Wagner),0.48,1.33,12.0,2023,167
+4.0,3:28,1.0,10.0,SFO 36,31.0,13.0,Elijah Mitchell left end for 6 yards (tackle by Derick Hall),1.33,1.6,12.0,2023,167
+4.0,2:44,2.0,4.0,SFO 42,31.0,13.0,Elijah Mitchell right tackle for 1 yard (tackle by Dre'Mont Jones and Jarran Reed),1.6,1.03,12.0,2023,167
+4.0,2:00,3.0,3.0,SFO 43,31.0,13.0,Brock Purdy pass complete short left to Ray-Ray McCloud for 23 yards (tackle by Julian Love),1.03,3.31,12.0,2023,167
+4.0,1:15,1.0,10.0,SEA 34,31.0,13.0,Brock Purdy kneels for -1 yards,3.31,2.64,12.0,2023,167
+4.0,0:38,2.0,11.0,SEA 35,31.0,13.0,Brock Purdy kneels for -1 yards,2.64,1.82,12.0,2023,167

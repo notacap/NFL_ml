@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,12:48,GNB 11,4,1:00,6,Field Goal,0,Texans,7.0,2024,100
+2,1,9:39,HOU 20,7,4:33,36,Punt,0,Texans,7.0,2024,100
+3,2,13:16,HOU 30,3,0:47,1,Punt,0,Texans,7.0,2024,100
+4,2,12:29,GNB 11,2,0:37,11,Touchdown,0,Texans,7.0,2024,100
+5,2,8:51,HOU 43,9,4:21,23,Field Goal,0,Texans,7.0,2024,100
+6,2,4:18,HOU 45,5,3:05,55,Touchdown,0,Texans,7.0,2024,100
+7,2,0:07,HOU 20,1,0:07,-1,End of Half,0,Texans,7.0,2024,100
+8,3,15:00,HOU 30,3,2:13,-3,Punt,0,Texans,7.0,2024,100
+9,3,7:25,HOU 30,3,0:41,5,Punt,0,Texans,7.0,2024,100
+10,3,4:35,HOU 25,6,3:29,22,Punt,0,Texans,7.0,2024,100
+11,4,14:07,HOU 32,5,3:57,11,Punt,0,Texans,7.0,2024,100
+12,4,8:11,HOU 38,13,6:27,45,Field Goal,0,Texans,7.0,2024,100

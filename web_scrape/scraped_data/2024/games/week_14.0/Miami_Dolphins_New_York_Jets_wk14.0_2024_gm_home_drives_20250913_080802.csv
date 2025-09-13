@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,MIA 30,8,4:36,70,Touchdown,1,Dolphins,14.0,2024,201
+2,1,5:19,MIA 30,10,5:26,49,Field Goal,1,Dolphins,14.0,2024,201
+3,2,11:56,MIA 29,12,7:00,65,Field Goal,1,Dolphins,14.0,2024,201
+4,2,0:49,MIA 30,5,0:47,31,Field Goal,1,Dolphins,14.0,2024,201
+5,3,11:20,MIA 30,4,2:29,22,Punt,1,Dolphins,14.0,2024,201
+6,3,1:02,MIA 27,3,0:28,0,Punt,1,Dolphins,14.0,2024,201
+7,4,13:23,MIA 40,9,4:19,60,Touchdown,1,Dolphins,14.0,2024,201
+8,4,7:33,MIA 22,5,3:08,21,Punt,1,Dolphins,14.0,2024,201
+9,4,0:52,MIA 46,6,0:45,20,Field Goal,1,Dolphins,14.0,2024,201
+10,5,10:00,MIA 30,8,3:55,70,Touchdown,1,Dolphins,14.0,2024,201

@@ -1,0 +1,172 @@
+Quarter,Time,Down,ToGo,Location,LAC,HOU,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Chargers won the coin toss and deferred, Texans to receive the opening kickoff.",,,4.0,2022,57
+1.0,15:00,,,LAC 35,0.0,0.0,"Dustin Hopkins kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,57
+1.0,15:00,1.0,10.0,HOU 25,0.0,0.0,Dameon Pierce right tackle for 4 yards (tackle by Austin Johnson and Kenneth Murray),0.61,0.6,4.0,2022,57
+1.0,14:21,2.0,6.0,HOU 29,0.0,0.0,Davis Mills pass complete short left to Dameon Pierce for 1 yard (tackle by Asante Samuel),0.6,0.04,4.0,2022,57
+1.0,13:40,,,,,,Timeout #1 by Houston Texans,,,4.0,2022,57
+1.0,13:40,3.0,5.0,HOU 30,0.0,0.0,Davis Mills pass intended for Nico Collins is intercepted by Nasir Adderley at LAC-45 and returned for 30 yards (tackle by Nico Collins),0.04,-3.91,4.0,2022,57
+1.0,13:28,1.0,10.0,HOU 25,0.0,0.0,Austin Ekeler left tackle for -1 yards (tackle by Roy Lopez),3.91,3.23,4.0,2022,57
+1.0,12:54,2.0,11.0,HOU 26,0.0,0.0,Justin Herbert pass complete short left to Mike Williams for 3 yards (tackle by Derek Stingley),3.23,2.94,4.0,2022,57
+1.0,12:21,3.0,8.0,HOU 23,0.0,0.0,"Penalty on Jonathan Greenard: Neutral Zone Infraction, 5 yards (accepted) (no play)",2.94,3.66,4.0,2022,57
+1.0,12:04,3.0,3.0,HOU 18,6.0,0.0,"Justin Herbert pass complete deep middle to Gerald Everett for 18 yards, touchdown",3.66,7.0,4.0,2022,57
+1.0,12:00,,,HOU 15,7.0,0.0,Dustin Hopkins kicks extra point good,0.0,0.0,4.0,2022,57
+1.0,12:00,,,LAC 35,7.0,0.0,"Dustin Hopkins kicks off 61 yards, returned by Tremon Smith for 24 yards (tackle by Nick Niemann and Dustin Hopkins)",0.0,0.81,4.0,2022,57
+1.0,11:53,1.0,10.0,HOU 28,7.0,0.0,Dameon Pierce right tackle for 9 yards (tackle by Derwin James and Drue Tranquill),0.81,1.48,4.0,2022,57
+1.0,11:20,2.0,1.0,HOU 37,7.0,0.0,Davis Mills pass complete short left to Brandin Cooks for 4 yards (tackle by Asante Samuel),1.48,1.66,4.0,2022,57
+1.0,10:42,1.0,10.0,HOU 41,7.0,0.0,"Davis Mills pass incomplete deep right intended for Brandin Cooks. Penalty on Asante Samuel: Defensive Pass Interference, 16 yards (accepted) (no play)",1.66,2.72,4.0,2022,57
+1.0,10:35,1.0,10.0,LAC 43,7.0,0.0,Dameon Pierce right tackle for -1 yards (tackle by Sebastian Joseph-Day),2.72,2.04,4.0,2022,57
+1.0,9:57,2.0,11.0,LAC 44,7.0,0.0,Davis Mills pass complete short right to Mason Schreck for no gain (tackle by Derwin James),2.04,1.36,4.0,2022,57
+1.0,9:14,3.0,11.0,LAC 44,7.0,0.0,"Davis Mills pass complete to Brandin Cooks for no gain. Penalty on Kenyon Green: Offensive Holding, 10 yards (accepted) (no play)",1.36,0.04,4.0,2022,57
+1.0,8:52,3.0,21.0,HOU 46,7.0,0.0,Davis Mills sacked by Morgan Fox for -10 yards,0.04,-0.98,4.0,2022,57
+1.0,8:14,4.0,28.0,HOU 36,7.0,0.0,"Cameron Johnston punts 49 yards, returned by DeAndre Carter for 12 yards (tackle by Blake Cashman)",-0.98,-0.74,4.0,2022,57
+1.0,8:03,1.0,10.0,LAC 27,7.0,0.0,Justin Herbert pass incomplete short left intended for Mike Williams (defended by Blake Cashman),0.74,0.2,4.0,2022,57
+1.0,7:56,2.0,10.0,LAC 27,7.0,0.0,Austin Ekeler left tackle for -2 yards (tackle by Blake Cashman and Maliek Collins),0.2,-0.76,4.0,2022,57
+1.0,7:20,3.0,12.0,LAC 25,7.0,0.0,Justin Herbert pass complete short middle to Gerald Everett for 7 yards (tackle by Steven Nelson),-0.76,-1.24,4.0,2022,57
+1.0,6:39,4.0,5.0,LAC 32,7.0,0.0,"JK Scott punts 53 yards, fair catch by Desmond King at HOU-15. Penalty on Michael Davis: Fair Catch Interference, 15 yards (accepted)",-1.24,-0.94,4.0,2022,57
+1.0,6:26,1.0,10.0,HOU 30,7.0,0.0,Dameon Pierce left tackle for no gain (tackle by Kenneth Murray and Khalil Mack),0.94,0.39,4.0,2022,57
+1.0,5:49,2.0,10.0,HOU 30,7.0,0.0,Dameon Pierce right tackle for 7 yards (tackle by Derwin James),0.39,0.63,4.0,2022,57
+1.0,5:13,3.0,3.0,HOU 37,7.0,0.0,Davis Mills pass complete short left to Brandin Cooks for 7 yards (tackle by Bryce Callahan),0.63,1.86,4.0,2022,57
+1.0,4:29,1.0,10.0,HOU 44,7.0,0.0,"Davis Mills pass complete short left to Brandin Cooks for 7 yards (tackle by Kenneth Murray). Penalty on Kenneth Murray: Face Mask (15 Yards), 15 yards (accepted)",1.86,3.31,4.0,2022,57
+1.0,4:10,1.0,10.0,LAC 34,7.0,0.0,Davis Mills pass incomplete short right intended for O.J. Howard (defended by Derwin James),3.31,2.77,4.0,2022,57
+1.0,4:05,2.0,10.0,LAC 34,7.0,0.0,Davis Mills pass complete short right to O.J. Howard for 5 yards (tackle by Drue Tranquill),2.77,2.74,4.0,2022,57
+1.0,3:25,3.0,5.0,LAC 29,7.0,0.0,"Penalty on Laremy Tunsil: False Start, 5 yards (accepted) (no play)",2.74,2.08,4.0,2022,57
+1.0,3:01,3.0,10.0,LAC 34,7.0,0.0,Davis Mills pass complete short middle to Rex Burkhead for 6 yards (tackle by Drue Tranquill and Alohi Gilman),2.08,1.65,4.0,2022,57
+1.0,2:23,4.0,4.0,LAC 28,7.0,0.0,Ka'imi Fairbairn 46 yard field goal no good,1.65,-1.33,4.0,2022,57
+1.0,2:19,1.0,10.0,LAC 36,7.0,0.0,Justin Herbert pass incomplete short right intended for Zander Horvath,1.33,0.79,4.0,2022,57
+1.0,2:16,2.0,10.0,LAC 36,7.0,0.0,Justin Herbert pass complete short middle to Tre' McKitty for 4 yards (tackle by Kamu Grugier-Hill),0.79,0.63,4.0,2022,57
+1.0,1:39,3.0,6.0,LAC 40,7.0,0.0,Justin Herbert pass complete short right to DeAndre Carter for 14 yards (tackle by Steven Nelson and Jalen Pitre),0.63,2.52,4.0,2022,57
+1.0,1:01,1.0,10.0,HOU 46,7.0,0.0,Joshua Kelley right tackle for 6 yards (tackle by Desmond King and Jalen Pitre),2.52,2.86,4.0,2022,57
+1.0,0:29,2.0,3.0,HOU 40,7.0,0.0,Joshua Kelley right guard for 5 yards (tackle by Derek Stingley),2.86,3.25,4.0,2022,57
+2.0,15:00,1.0,10.0,HOU 35,7.0,0.0,Joshua Kelley right end for 5 yards (tackle by Jalen Pitre),3.25,3.38,4.0,2022,57
+2.0,14:18,2.0,5.0,HOU 30,7.0,0.0,Justin Herbert pass complete short right to Mike Williams for 15 yards (tackle by Christian Kirksey and Derek Stingley),3.38,4.58,4.0,2022,57
+2.0,13:38,1.0,10.0,HOU 15,7.0,0.0,Austin Ekeler up the middle for 5 yards (tackle by Christian Kirksey),4.58,4.84,4.0,2022,57
+2.0,13:02,2.0,5.0,HOU 10,13.0,0.0,"Austin Ekeler up the middle for 10 yards, touchdown",4.84,7.0,4.0,2022,57
+2.0,12:57,,,HOU 15,14.0,0.0,Dustin Hopkins kicks extra point good,0.0,0.0,4.0,2022,57
+2.0,12:57,,,LAC 35,14.0,0.0,"Dustin Hopkins kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,57
+2.0,12:57,1.0,10.0,HOU 25,14.0,0.0,Davis Mills pass complete short middle to Dameon Pierce for 1 yard (tackle by Kyle Van Noy),0.61,0.2,4.0,2022,57
+2.0,12:20,2.0,9.0,HOU 26,14.0,0.0,Davis Mills pass complete short left to Brandin Cooks for 4 yards (tackle by Bryce Callahan),0.2,0.04,4.0,2022,57
+2.0,11:34,3.0,5.0,HOU 30,14.0,0.0,Davis Mills pass incomplete deep right intended for Nico Collins,0.04,-1.37,4.0,2022,57
+2.0,11:31,4.0,5.0,HOU 30,14.0,0.0,"Cameron Johnston punts 55 yards, returned by DeAndre Carter for 12 yards (tackle by Blake Cashman)",-1.37,-0.74,4.0,2022,57
+2.0,11:18,1.0,10.0,LAC 27,14.0,0.0,Austin Ekeler left tackle for 3 yards (tackle by Jonathan Owens and Jerry Hughes),0.74,0.6,4.0,2022,57
+2.0,10:46,2.0,7.0,LAC 30,14.0,0.0,Justin Herbert pass complete short left to Mike Williams for 50 yards (tackle by Jonathan Owens),0.6,4.24,4.0,2022,57
+2.0,10:07,1.0,10.0,HOU 20,20.0,0.0,"Austin Ekeler up the middle for 20 yards, touchdown",4.24,7.0,4.0,2022,57
+2.0,10:00,,,HOU 15,21.0,0.0,Dustin Hopkins kicks extra point good,0.0,0.0,4.0,2022,57
+2.0,10:00,,,LAC 35,21.0,0.0,"Dustin Hopkins kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,57
+2.0,10:00,,,,,,Timeout #1 by Los Angeles Chargers,,,4.0,2022,57
+2.0,10:00,1.0,10.0,HOU 25,21.0,6.0,"Dameon Pierce right end for 75 yards, touchdown",0.61,7.0,4.0,2022,57
+2.0,9:48,,,LAC 15,21.0,7.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,4.0,2022,57
+2.0,9:48,,,HOU 35,21.0,7.0,"Ka'imi Fairbairn kicks off 62 yards, returned by DeAndre Carter for 15 yards (tackle by Tremon Smith)",0.0,0.04,4.0,2022,57
+2.0,9:44,1.0,10.0,LAC 18,21.0,7.0,Austin Ekeler right guard for 14 yards (tackle by Ogbonnia Okoronkwo and Jalen Pitre),0.04,1.07,4.0,2022,57
+2.0,9:21,1.0,10.0,LAC 32,21.0,7.0,Justin Herbert pass complete deep right to Josh Palmer for 25 yards (tackle by Steven Nelson),1.07,2.72,4.0,2022,57
+2.0,8:45,1.0,10.0,HOU 43,21.0,7.0,Joshua Kelley right guard for -1 yards (tackle by Jonathan Greenard and Thomas Booker),2.72,2.04,4.0,2022,57
+2.0,8:08,2.0,11.0,HOU 44,21.0,7.0,Justin Herbert pass complete short right to Mike Williams for 8 yards (tackle by Derek Stingley),2.04,2.41,4.0,2022,57
+2.0,7:28,3.0,3.0,HOU 36,21.0,7.0,Justin Herbert pass complete short middle to Gerald Everett for 14 yards (tackle by Jalen Pitre),2.41,4.11,4.0,2022,57
+2.0,6:52,1.0,10.0,HOU 22,21.0,7.0,Justin Herbert pass complete short left to Gerald Everett for 16 yards (tackle by Kamu Grugier-Hill and Garret Wallow),4.11,5.83,4.0,2022,57
+2.0,6:11,1.0,6.0,HOU 6,21.0,7.0,"Austin Ekeler for -5 yards. Austin Ekeler fumbles, recovered by Austin Ekeler at HOU-11 (tackle by Rasheem Green)",5.83,4.02,4.0,2022,57
+2.0,5:31,2.0,11.0,HOU 11,21.0,7.0,Justin Herbert pass incomplete short right intended for Mike Williams,4.02,3.12,4.0,2022,57
+2.0,5:21,3.0,11.0,HOU 11,21.0,7.0,Justin Herbert pass complete short left to Austin Ekeler for 6 yards (tackle by Christian Kirksey and Jalen Reeves-Maybin),3.12,3.01,4.0,2022,57
+2.0,4:38,4.0,5.0,HOU 5,24.0,7.0,Dustin Hopkins 23 yard field goal good,3.01,3.0,4.0,2022,57
+2.0,4:35,,,LAC 35,24.0,7.0,"Dustin Hopkins kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,57
+2.0,4:35,1.0,10.0,HOU 25,24.0,7.0,Davis Mills pass complete deep right to Nico Collins for 20 yards (tackle by J.C. Jackson),0.61,1.93,4.0,2022,57
+2.0,3:52,1.0,10.0,HOU 45,24.0,7.0,Davis Mills pass complete short right to Dameon Pierce for -5 yards (tackle by Kenneth Murray),1.93,0.71,4.0,2022,57
+2.0,3:08,2.0,15.0,HOU 40,24.0,7.0,Davis Mills pass complete deep middle to O.J. Howard for 22 yards (tackle by Drue Tranquill),0.71,3.05,4.0,2022,57
+2.0,2:31,1.0,10.0,LAC 38,24.0,7.0,"Davis Mills pass incomplete deep right intended for Chris Moore. Penalty on J.C. Jackson: Defensive Holding, 5 yards (accepted) (no play)",3.05,3.38,4.0,2022,57
+2.0,2:23,1.0,10.0,LAC 33,24.0,7.0,Dameon Pierce right tackle for 4 yards (tackle by Nasir Adderley and Sebastian Joseph-Day),3.38,3.38,4.0,2022,57
+2.0,2:00,2.0,6.0,LAC 29,24.0,7.0,Dameon Pierce left tackle for 1 yard (tackle by Kyle Van Noy and Drue Tranquill),3.38,2.81,4.0,2022,57
+2.0,1:39,,,,,,Timeout #2 by Los Angeles Chargers,,,4.0,2022,57
+2.0,1:39,3.0,5.0,LAC 28,24.0,7.0,Davis Mills pass complete short middle to Nico Collins for 4 yards (tackle by Bryce Callahan),2.81,2.02,4.0,2022,57
+2.0,1:03,4.0,1.0,LAC 24,24.0,7.0,Davis Mills sacked by Khalil Mack for -8 yards,2.02,-1.07,4.0,2022,57
+2.0,0:57,1.0,10.0,LAC 32,24.0,7.0,Justin Herbert pass incomplete short left intended for Joshua Kelley,1.07,0.53,4.0,2022,57
+2.0,0:54,2.0,10.0,LAC 32,24.0,7.0,Justin Herbert pass complete deep left to Michael Bandy for 24 yards,0.53,2.65,4.0,2022,57
+2.0,0:48,1.0,10.0,HOU 44,24.0,7.0,Justin Herbert pass complete short right to Gerald Everett for 6 yards (tackle by Steven Nelson),2.65,2.92,4.0,2022,57
+2.0,0:41,2.0,4.0,HOU 38,24.0,7.0,"Justin Herbert pass incomplete deep left. Penalty on Justin Herbert: Intentional Grounding, 10 yards (offset) . Penalty on Maliek Collins: Defensive Offside, 5 yards (offset) (no play)",2.92,2.92,4.0,2022,57
+2.0,0:36,2.0,4.0,HOU 38,24.0,7.0,Justin Herbert pass complete short right to Austin Ekeler for -1 yards (tackle by Desmond King),2.92,2.08,4.0,2022,57
+2.0,0:29,3.0,5.0,HOU 39,24.0,7.0,Justin Herbert pass complete deep left to Michael Bandy for 25 yards (tackle by Jonathan Owens),2.08,4.65,4.0,2022,57
+2.0,0:20,,,,,,Timeout #3 by Los Angeles Chargers,,,4.0,2022,57
+2.0,0:20,1.0,10.0,HOU 14,24.0,7.0,Justin Herbert pass incomplete short middle intended for DeAndre Carter (defended by Jonathan Owens),4.65,4.0,4.0,2022,57
+2.0,0:15,2.0,10.0,HOU 14,24.0,7.0,"Penalty on Trey Pipkins: False Start, 5 yards (accepted) (no play)",4.0,3.37,4.0,2022,57
+2.0,0:15,2.0,15.0,HOU 19,24.0,7.0,Justin Herbert pass incomplete deep left,3.37,2.73,4.0,2022,57
+2.0,0:08,,,,,,Timeout #2 by Houston Texans,,,4.0,2022,57
+2.0,0:08,3.0,15.0,HOU 19,24.0,7.0,Justin Herbert pass incomplete deep left intended for Mike Williams,2.73,2.18,4.0,2022,57
+2.0,0:04,4.0,15.0,HOU 19,27.0,7.0,Dustin Hopkins 37 yard field goal good,2.18,3.0,4.0,2022,57
+3.0,15:00,,,HOU 35,27.0,7.0,"Ka'imi Fairbairn kicks off 65 yards, returned by DeAndre Carter for 21 yards (tackle by Dare Ogunbowale and M.J. Stewart)",0.0,0.34,4.0,2022,57
+3.0,14:56,1.0,10.0,LAC 21,27.0,7.0,Austin Ekeler left guard for 4 yards (tackle by Jerry Hughes),0.34,0.34,4.0,2022,57
+3.0,14:23,2.0,6.0,LAC 25,27.0,7.0,Justin Herbert pass complete short left to Austin Ekeler for 2 yards (tackle by Steven Nelson),0.34,-0.1,4.0,2022,57
+3.0,13:39,3.0,4.0,LAC 27,27.0,7.0,Justin Herbert pass incomplete short left intended for Gerald Everett,-0.1,-1.57,4.0,2022,57
+3.0,13:35,4.0,4.0,LAC 27,27.0,7.0,"JK Scott punts 46 yards, fair catch by Desmond King at HOU-27",-1.57,-0.74,4.0,2022,57
+3.0,13:27,1.0,10.0,HOU 27,27.0,7.0,Dameon Pierce left end for 8 yards (tackle by Derwin James and Drue Tranquill),0.74,1.28,4.0,2022,57
+3.0,12:54,2.0,2.0,HOU 35,27.0,7.0,Davis Mills pass complete short right to Brandin Cooks for -3 yards (tackle by Asante Samuel),1.28,0.17,4.0,2022,57
+3.0,12:07,3.0,5.0,HOU 32,27.0,7.0,Davis Mills pass complete short right to Rex Burkhead for 9 yards (tackle by Drue Tranquill),0.17,1.66,4.0,2022,57
+3.0,11:29,1.0,10.0,HOU 41,27.0,7.0,"Davis Mills pass incomplete short middle intended for Dameon Pierce. Penalty on Laremy Tunsil: Offensive Holding, 10 yards (accepted) (no play)",1.66,1.0,4.0,2022,57
+3.0,11:23,1.0,20.0,HOU 31,27.0,7.0,Davis Mills pass incomplete short left intended for Phillip Dorsett,1.0,-0.23,4.0,2022,57
+3.0,11:18,2.0,20.0,HOU 31,27.0,7.0,"Penalty on HOU: Delay of Game, 5 yards (accepted) (no play)",-0.23,-0.91,4.0,2022,57
+3.0,11:18,2.0,25.0,HOU 26,27.0,7.0,Davis Mills pass complete short right to Dameon Pierce for no gain (tackle by Drue Tranquill and Derwin James),-0.91,-1.55,4.0,2022,57
+3.0,10:34,3.0,25.0,HOU 26,27.0,7.0,Davis Mills pass complete short right to Rex Burkhead for 3 yards (tackle by Derwin James),-1.55,-1.44,4.0,2022,57
+3.0,10:03,4.0,22.0,HOU 29,27.0,7.0,"Cameron Johnston punts 52 yards, fair catch by DeAndre Carter at LAC-19",-1.44,-0.15,4.0,2022,57
+3.0,9:55,1.0,10.0,LAC 19,27.0,7.0,Sony Michel right guard for no gain (tackle by Kamu Grugier-Hill and Christian Kirksey),0.15,-0.39,4.0,2022,57
+3.0,9:18,2.0,10.0,LAC 19,27.0,7.0,Justin Herbert pass complete short middle to Sony Michel for 9 yards (tackle by Kamu Grugier-Hill),-0.39,0.1,4.0,2022,57
+3.0,8:39,3.0,1.0,LAC 28,27.0,7.0,Sony Michel right tackle for 2 yards (tackle by Maliek Collins and Kurt Hinish),0.1,0.94,4.0,2022,57
+3.0,8:03,1.0,10.0,LAC 30,27.0,7.0,Justin Herbert pass complete short middle to Mike Williams for 20 yards (tackle by Jonathan Owens and Steven Nelson),0.94,2.26,4.0,2022,57
+3.0,7:24,1.0,10.0,HOU 50,27.0,7.0,Austin Ekeler right end for 4 yards (tackle by Desmond King),2.26,2.25,4.0,2022,57
+3.0,6:44,2.0,6.0,HOU 46,27.0,7.0,Sony Michel left tackle for 1 yard (tackle by Jalen Pitre and Roy Lopez),2.25,1.69,4.0,2022,57
+3.0,5:59,3.0,5.0,HOU 45,27.0,7.0,Justin Herbert pass incomplete deep right intended for Mike Williams,1.69,0.27,4.0,2022,57
+3.0,5:52,4.0,5.0,HOU 45,27.0,7.0,"JK Scott punts 36 yards, returned by Desmond King for 4 yards (tackle by Michael Bandy)",0.27,0.32,4.0,2022,57
+3.0,5:42,1.0,10.0,HOU 13,27.0,7.0,Davis Mills pass complete short right to Dameon Pierce for 8 yards (tackle by Kyle Van Noy and Drue Tranquill),-0.32,0.35,4.0,2022,57
+3.0,5:07,2.0,2.0,HOU 21,27.0,7.0,Dameon Pierce up the middle for 10 yards (tackle by Nasir Adderley and Derwin James),0.35,1.0,4.0,2022,57
+3.0,4:21,1.0,10.0,HOU 31,27.0,7.0,Davis Mills pass complete short middle to Dameon Pierce for 3 yards (tackle by Kenneth Murray and Drue Tranquill),1.0,0.87,4.0,2022,57
+3.0,3:36,2.0,7.0,HOU 34,27.0,7.0,Davis Mills pass incomplete short middle intended for Chris Moore,0.87,0.17,4.0,2022,57
+3.0,3:31,3.0,7.0,HOU 34,27.0,7.0,Davis Mills pass complete deep right to Brandin Cooks for 20 yards (tackle by Nasir Adderley),0.17,2.52,4.0,2022,57
+3.0,2:49,1.0,10.0,LAC 46,27.0,7.0,Dameon Pierce right end for 8 yards (tackle by Drue Tranquill and Christian Covington),2.52,3.06,4.0,2022,57
+3.0,2:09,2.0,2.0,LAC 38,27.0,7.0,Davis Mills pass complete short middle to Jordan Akins for 30 yards (tackle by Asante Samuel),3.06,5.37,4.0,2022,57
+3.0,1:17,1.0,8.0,LAC 8,27.0,13.0,"Davis Mills pass complete short left to Rex Burkhead for 8 yards, touchdown",5.37,7.0,4.0,2022,57
+3.0,1:12,,,LAC 15,27.0,14.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,4.0,2022,57
+3.0,1:12,,,HOU 35,27.0,14.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,57
+3.0,1:12,1.0,10.0,LAC 25,27.0,14.0,Justin Herbert pass complete short right to DeAndre Carter for 2 yards,0.61,0.33,4.0,2022,57
+3.0,0:35,2.0,8.0,LAC 27,27.0,14.0,Sony Michel left guard for 4 yards (tackle by Jonathan Greenard),0.33,0.17,4.0,2022,57
+4.0,15:00,3.0,4.0,LAC 31,27.0,14.0,Justin Herbert pass complete short right to Sony Michel for 6 yards (tackle by Kamu Grugier-Hill),0.17,1.4,4.0,2022,57
+4.0,14:21,1.0,10.0,LAC 37,27.0,14.0,"Austin Ekeler left end for no gain (tackle by Christian Kirksey). Penalty on Kurt Hinish: Defensive Holding, 5 yards (accepted) (no play)",1.4,1.73,4.0,2022,57
+4.0,13:58,1.0,10.0,LAC 42,27.0,14.0,Justin Herbert sacked by and Thomas Booker for -2 yards and Rasheem Green for -2 yards,1.73,0.92,4.0,2022,57
+4.0,13:17,2.0,12.0,LAC 40,27.0,14.0,Justin Herbert pass incomplete short right intended for Austin Ekeler,0.92,0.23,4.0,2022,57
+4.0,13:12,3.0,12.0,LAC 40,27.0,14.0,Justin Herbert pass incomplete short right intended for Joshua Kelley,0.23,-0.72,4.0,2022,57
+4.0,13:07,4.0,12.0,LAC 40,27.0,14.0,"JK Scott punts 50 yards, returned by Desmond King for 4 yards (tackle by Nick Niemann and Chris Rumph). Penalty on Grayland Arnold: Illegal Block Above the Waist, 7 yards (accepted)",-0.72,0.38,4.0,2022,57
+4.0,12:55,1.0,10.0,HOU 7,27.0,14.0,Dameon Pierce left guard for 1 yard (tackle by Christian Covington and Sebastian Joseph-Day),-0.38,-0.71,4.0,2022,57
+4.0,12:22,2.0,9.0,HOU 8,27.0,14.0,Davis Mills pass complete short right to Jordan Akins for 3 yards (tackle by Asante Samuel),-0.71,-0.95,4.0,2022,57
+4.0,11:38,3.0,6.0,HOU 11,27.0,14.0,Davis Mills pass complete short middle to Rex Burkhead for 13 yards (tackle by Kyle Van Noy),-0.95,0.54,4.0,2022,57
+4.0,11:01,1.0,10.0,HOU 24,27.0,14.0,Davis Mills pass complete deep middle to Nico Collins for 58 yards (tackle by Nasir Adderley),0.54,4.37,4.0,2022,57
+4.0,10:08,1.0,10.0,LAC 18,27.0,20.0,"Davis Mills pass complete deep right to Brandin Cooks for 18 yards, touchdown",4.37,7.0,4.0,2022,57
+4.0,10:02,,,LAC 15,27.0,21.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,4.0,2022,57
+4.0,10:02,,,HOU 35,27.0,21.0,"Ka'imi Fairbairn kicks off 64 yards, returned by DeAndre Carter for 15 yards. DeAndre Carter fumbles (forced by M.J. Stewart), recovered by Jalen Reeves-Maybin at LAC-16 (tackle by M.J. Stewart)",0.0,-4.51,4.0,2022,57
+4.0,9:58,1.0,10.0,LAC 16,27.0,21.0,Dameon Pierce up the middle for 3 yards (tackle by Austin Johnson),4.51,4.39,4.0,2022,57
+4.0,9:23,2.0,7.0,LAC 13,27.0,21.0,"Davis Mills sacked by Jerry Tillery for -7 yards. Davis Mills fumbles (forced by Jerry Tillery), recovered by Jordan Akins at LAC-20 and returned for -2 yards",4.39,2.48,4.0,2022,57
+4.0,8:41,3.0,16.0,LAC 22,27.0,21.0,Davis Mills pass incomplete short middle intended for O.J. Howard (defended by Derwin James),2.48,1.99,4.0,2022,57
+4.0,8:34,4.0,16.0,LAC 22,27.0,24.0,Ka'imi Fairbairn 40 yard field goal good,1.99,3.0,4.0,2022,57
+4.0,8:30,,,HOU 35,27.0,24.0,"Ka'imi Fairbairn kicks off 66 yards, returned by DeAndre Carter for 17 yards (tackle by Jalen Reeves-Maybin)",0.0,-0.14,4.0,2022,57
+4.0,8:19,1.0,10.0,LAC 16,27.0,24.0,"Austin Ekeler left end for -2 yards (tackle by Jalen Pitre and Kamu Grugier-Hill). Penalty on Richard Rodgers: Offensive Holding, 10 yards (declined)",-0.14,-0.89,4.0,2022,57
+4.0,8:01,2.0,12.0,LAC 14,27.0,24.0,Austin Ekeler right guard for 10 yards (tackle by Rasheem Green),-0.89,-0.32,4.0,2022,57
+4.0,7:22,3.0,2.0,LAC 24,27.0,24.0,Justin Herbert pass complete short middle to Mike Williams for 13 yards (tackle by Derek Stingley and Jonathan Owens),-0.32,1.4,4.0,2022,57
+4.0,6:52,1.0,10.0,LAC 37,27.0,24.0,Justin Herbert pass complete short left to Sony Michel for 1 yard (tackle by Christian Kirksey and Garret Wallow),1.4,0.99,4.0,2022,57
+4.0,6:08,2.0,9.0,LAC 38,27.0,24.0,Justin Herbert pass incomplete short right,0.99,0.3,4.0,2022,57
+4.0,6:03,3.0,9.0,LAC 38,27.0,24.0,Justin Herbert pass complete short right to Austin Ekeler for 7 yards (tackle by Steven Nelson),0.3,-0.39,4.0,2022,57
+4.0,5:23,,,,,,Timeout #1 by Los Angeles Chargers,,,4.0,2022,57
+4.0,5:23,,,,,,Timeout #1 by Houston Texans,,,4.0,2022,57
+4.0,5:23,4.0,1.0,LAC 45,27.0,24.0,Justin Herbert pass complete short right to Austin Ekeler for 21 yards (tackle by Jonathan Owens),-0.39,3.31,4.0,2022,57
+4.0,4:40,1.0,10.0,HOU 34,27.0,24.0,Sony Michel left guard for 3 yards (tackle by Kamu Grugier-Hill),3.31,3.18,4.0,2022,57
+4.0,3:59,2.0,7.0,HOU 31,27.0,24.0,Sony Michel left tackle for 1 yard (tackle by Kurt Hinish and Jerry Hughes),3.18,2.61,4.0,2022,57
+4.0,3:18,3.0,6.0,HOU 30,27.0,24.0,Justin Herbert pass complete short middle to Mike Williams for 11 yards (tackle by Christian Kirksey),2.61,4.31,4.0,2022,57
+4.0,2:44,1.0,10.0,HOU 19,27.0,24.0,"Austin Ekeler left guard for no gain (tackle by Jalen Pitre and Ogbonnia Okoronkwo). Penalty on Maliek Collins: Defensive Holding, 5 yards (accepted) (no play)",4.31,4.65,4.0,2022,57
+4.0,2:38,1.0,10.0,HOU 14,27.0,24.0,Austin Ekeler left tackle for no gain (tackle by Roy Lopez and Garret Wallow),4.65,4.0,4.0,2022,57
+4.0,2:34,,,,,,Timeout #2 by Houston Texans,,,4.0,2022,57
+4.0,2:34,2.0,10.0,HOU 14,33.0,24.0,"Justin Herbert pass complete short right to Austin Ekeler for 14 yards, touchdown",4.0,7.0,4.0,2022,57
+4.0,2:28,,,HOU 15,34.0,24.0,Dustin Hopkins kicks extra point good,0.0,0.0,4.0,2022,57
+4.0,2:28,,,LAC 35,34.0,24.0,"Dustin Hopkins kicks off 65 yards, touchback.",0.0,0.61,4.0,2022,57
+4.0,2:28,1.0,10.0,HOU 25,34.0,24.0,Davis Mills pass incomplete short right intended for Chris Moore (defended by Bryce Callahan),0.61,0.06,4.0,2022,57
+4.0,2:22,2.0,10.0,HOU 25,34.0,24.0,Davis Mills pass incomplete short left intended for Phillip Dorsett,0.06,-0.62,4.0,2022,57
+4.0,2:17,3.0,10.0,HOU 25,34.0,24.0,Davis Mills sacked by Sebastian Joseph-Day for -6 yards,-0.62,-2.14,4.0,2022,57
+4.0,2:00,4.0,16.0,HOU 19,34.0,24.0,"Davis Mills pass deep middle intended for O.J. Howard is intercepted by Bryce Callahan at HOU-46 and returned for 9 yards. Penalty on Kenyon Green: Offensive Holding, 10 yards (declined) . Penalty on Kenyon Green: Unnecessary Roughness / Offense, 15 yards (accepted)",-2.14,-4.11,4.0,2022,57
+4.0,1:51,1.0,10.0,HOU 22,34.0,24.0,Justin Herbert kneels for -1 yards,4.11,3.43,4.0,2022,57
+4.0,1:10,2.0,11.0,HOU 23,34.0,24.0,Justin Herbert kneels for -2 yards,3.43,2.48,4.0,2022,57
+4.0,1:01,,,,,,Timeout #3 by Houston Texans,,,4.0,2022,57
+4.0,1:01,3.0,13.0,HOU 25,34.0,24.0,Justin Herbert kneels for -1 yards,2.48,1.74,4.0,2022,57
+4.0,0:18,4.0,14.0,HOU 26,34.0,24.0,"Penalty on LAC: Delay of Game, 5 yards (accepted) (no play)",1.74,1.32,4.0,2022,57
+4.0,0:18,4.0,19.0,HOU 31,34.0,24.0,Justin Herbert kneels for -1 yards,1.32,-1.07,4.0,2022,57
+4.0,0:16,1.0,10.0,HOU 32,34.0,24.0,Dameon Pierce right guard for 2 yards (tackle by Austin Johnson),1.07,0.8,4.0,2022,57

@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,TEN 25,3,1:36,4,Punt,0,Titans,5.0,2022,75
+2,1,11:53,TEN 20,5,3:24,16,Punt,0,Titans,5.0,2022,75
+3,1,6:30,TEN 48,6,2:32,52,Touchdown,0,Titans,5.0,2022,75
+4,1,0:26,TEN 25,3,1:20,-2,Punt,0,Titans,5.0,2022,75
+5,2,13:56,TEN 25,6,3:56,-6,Punt,0,Titans,5.0,2022,75
+6,2,7:14,TEN 19,15,6:57,81,Touchdown,0,Titans,5.0,2022,75
+7,3,12:34,TEN 4,3,1:34,0,Punt,0,Titans,5.0,2022,75
+8,3,9:28,TEN 41,3,1:38,-6,Punt,0,Titans,5.0,2022,75
+9,3,4:36,TEN 25,7,3:33,75,Touchdown,0,Titans,5.0,2022,75
+10,4,13:35,,7,3:42,0,Punt,0,Titans,5.0,2022,75
+11,4,7:08,TEN 25,3,2:22,5,Punt,0,Titans,5.0,2022,75
+12,4,0:06,TEN 1,1,0:06,2,End of Game,0,Titans,5.0,2022,75

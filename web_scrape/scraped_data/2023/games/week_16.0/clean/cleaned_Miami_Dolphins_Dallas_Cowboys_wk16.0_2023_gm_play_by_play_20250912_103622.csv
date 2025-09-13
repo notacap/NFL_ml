@@ -1,0 +1,172 @@
+Quarter,Time,Down,ToGo,Location,DAL,MIA,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Cowboys won the coin toss, Cowboys to receive the opening kickoff.",,,16.0,2023,236
+1.0,15:00,,,MIA 35,0.0,0.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,16.0,2023,236
+1.0,15:00,1.0,10.0,DAL 25,0.0,0.0,Dak Prescott pass complete short right to CeeDee Lamb for 9 yards (tackle by Brandon Jones),0.61,1.28,16.0,2023,236
+1.0,14:29,2.0,1.0,DAL 34,0.0,0.0,Tony Pollard left tackle for 6 yards (tackle by Duke Riley and Andrew Van Ginkel),1.28,1.6,16.0,2023,236
+1.0,13:57,1.0,10.0,DAL 40,0.0,0.0,Dak Prescott pass incomplete short right intended for CeeDee Lamb,1.6,1.05,16.0,2023,236
+1.0,13:52,2.0,10.0,DAL 40,0.0,0.0,CeeDee Lamb left guard for 9 yards (tackle by Bradley Chubb and Christian Wilkins),1.05,1.55,16.0,2023,236
+1.0,13:19,3.0,1.0,DAL 49,0.0,0.0,Hunter Luepke up the middle for 1 yard (tackle by Christian Wilkins),1.55,2.26,16.0,2023,236
+1.0,12:47,1.0,10.0,MIA 50,0.0,0.0,"Penalty on Peyton Hendershot: False Start, 5 yards (accepted) (no play)",2.26,1.93,16.0,2023,236
+1.0,12:35,1.0,15.0,DAL 45,0.0,0.0,Dak Prescott pass complete short middle to CeeDee Lamb for 13 yards (tackle by Duke Riley and Xavien Howard),1.93,2.79,16.0,2023,236
+1.0,12:03,2.0,2.0,MIA 42,0.0,0.0,Tony Pollard right tackle for 1 yard (tackle by Andrew Van Ginkel and Zach Sieler),2.79,2.21,16.0,2023,236
+1.0,11:24,3.0,1.0,MIA 41,0.0,0.0,Hunter Luepke right guard for 2 yards (tackle by Andrew Van Ginkel),2.21,2.98,16.0,2023,236
+1.0,10:55,1.0,10.0,MIA 39,0.0,0.0,Dak Prescott pass incomplete short left intended for Rico Dowdle,2.98,2.44,16.0,2023,236
+1.0,10:44,2.0,10.0,MIA 39,0.0,0.0,Dak Prescott pass complete short right to Hunter Luepke for 8 yards (tackle by Brandon Jones),2.44,2.81,16.0,2023,236
+1.0,10:10,3.0,2.0,MIA 31,0.0,0.0,Dak Prescott sacked by Bradley Chubb for no gain,2.81,1.4,16.0,2023,236
+1.0,9:22,,,,,,Timeout #1 by Dallas Cowboys,,,16.0,2023,236
+1.0,9:22,4.0,2.0,MIA 31,0.0,0.0,Dak Prescott pass complete short right to Jake Ferguson for 20 yards (tackle by Brandon Jones),1.4,4.84,16.0,2023,236
+1.0,8:44,1.0,10.0,MIA 11,0.0,0.0,Brandin Cooks left end for 9 yards (tackle by Jalen Ramsey),4.84,5.85,16.0,2023,236
+1.0,8:06,2.0,1.0,MIA 2,0.0,0.0,Tony Pollard left end for 1 yard (tackle by DeShon Elliott),5.85,6.97,16.0,2023,236
+1.0,7:21,1.0,1.0,MIA 1,0.0,0.0,"Dak Prescott aborted snap, recovered by Brandon Jones at MIA-2",6.97,0.38,16.0,2023,236
+1.0,7:17,1.0,10.0,MIA 2,0.0,0.0,Raheem Mostert up the middle for 6 yards (tackle by Mazi Smith),-0.38,-0.34,16.0,2023,236
+1.0,6:38,2.0,4.0,MIA 8,0.0,0.0,Tua Tagovailoa pass incomplete deep left intended for Tyreek Hill,-0.34,-0.72,16.0,2023,236
+1.0,6:32,3.0,4.0,MIA 8,0.0,0.0,"Penalty on MIA: Delay of Game, 5 yards (accepted) (no play)",-0.72,-1.3,16.0,2023,236
+1.0,6:32,3.0,9.0,MIA 3,0.0,0.0,Tua Tagovailoa pass complete deep right to Jaylen Waddle for 50 yards,-1.3,2.46,16.0,2023,236
+1.0,5:47,1.0,10.0,DAL 47,0.0,0.0,Raheem Mostert left end for 2 yards (tackle by Micah Parsons and Damone Clark),2.46,2.18,16.0,2023,236
+1.0,5:07,2.0,8.0,DAL 45,0.0,0.0,Raheem Mostert left end for 5 yards (tackle by Donovan Wilson and Malik Hooker),2.18,2.15,16.0,2023,236
+1.0,4:24,3.0,3.0,DAL 40,0.0,0.0,Tua Tagovailoa pass complete short left to Jeff Wilson for 4 yards (tackle by Markquese Bell),2.15,3.18,16.0,2023,236
+1.0,3:46,1.0,10.0,DAL 36,0.0,0.0,Tua Tagovailoa pass incomplete short right intended for Jaylen Waddle,3.18,2.64,16.0,2023,236
+1.0,3:42,2.0,10.0,DAL 36,0.0,0.0,Raheem Mostert right end for -3 yards (tackle by Jourdan Lewis),2.64,1.55,16.0,2023,236
+1.0,3:01,3.0,13.0,DAL 39,0.0,0.0,Tua Tagovailoa pass incomplete short right intended for Jaylen Waddle,1.55,0.66,16.0,2023,236
+1.0,2:55,4.0,13.0,DAL 39,0.0,3.0,Jason Sanders 57 yard field goal good,0.66,3.0,16.0,2023,236
+1.0,2:50,,,MIA 35,0.0,3.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,16.0,2023,236
+1.0,2:50,1.0,10.0,DAL 25,0.0,3.0,Dak Prescott pass complete deep right to CeeDee Lamb for 22 yards (tackle by Kader Kohou),0.61,2.06,16.0,2023,236
+1.0,2:14,1.0,10.0,DAL 47,0.0,3.0,Tony Pollard up the middle for 4 yards (tackle by Brandon Jones),2.06,2.06,16.0,2023,236
+1.0,1:41,2.0,6.0,MIA 49,6.0,3.0,"Dak Prescott pass complete short middle to CeeDee Lamb for 49 yards, touchdown",2.06,7.0,16.0,2023,236
+1.0,1:30,,,MIA 15,7.0,3.0,Brandon Aubrey kicks extra point good,0.0,0.0,16.0,2023,236
+1.0,1:30,,,DAL 35,7.0,3.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,16.0,2023,236
+1.0,1:30,1.0,10.0,MIA 25,7.0,3.0,Tua Tagovailoa pass incomplete short left intended for Jaylen Waddle,0.61,0.06,16.0,2023,236
+1.0,1:27,2.0,10.0,MIA 25,7.0,3.0,Tua Tagovailoa pass complete short left to Cedrick Wilson for 18 yards (tackle by Donovan Wilson),0.06,1.8,16.0,2023,236
+1.0,0:43,1.0,10.0,MIA 43,7.0,3.0,Tua Tagovailoa pass complete deep right to Robbie Chosen for 19 yards (tackle by Damone Clark),1.8,3.05,16.0,2023,236
+1.0,0:17,1.0,10.0,DAL 38,7.0,3.0,Raheem Mostert right guard for 2 yards (tackle by Chauncey Golston),3.05,2.78,16.0,2023,236
+2.0,15:00,2.0,8.0,DAL 36,7.0,3.0,Tua Tagovailoa pass complete short left to De'Von Achane for 7 yards (tackle by Micah Parsons and Neville Gallimore),2.78,3.01,16.0,2023,236
+2.0,14:22,3.0,1.0,DAL 29,7.0,3.0,Raheem Mostert up the middle for 15 yards (tackle by DaRon Bland),3.01,4.65,16.0,2023,236
+2.0,13:39,1.0,10.0,DAL 14,7.0,3.0,Tua Tagovailoa pass complete short right to Alec Ingold for 5 yards (tackle by Donovan Wilson),4.65,4.9,16.0,2023,236
+2.0,12:59,2.0,5.0,DAL 9,7.0,3.0,Raheem Mostert left guard for 6 yards (tackle by Stephon Gilmore),4.9,6.51,16.0,2023,236
+2.0,12:18,1.0,3.0,DAL 3,7.0,3.0,Raheem Mostert left guard for no gain (tackle by Jourdan Lewis),6.51,5.53,16.0,2023,236
+2.0,11:34,2.0,3.0,DAL 3,7.0,3.0,Raheem Mostert left end for -2 yards (tackle by Malik Hooker),5.53,4.26,16.0,2023,236
+2.0,11:12,3.0,5.0,DAL 5,7.0,3.0,Tua Tagovailoa pass incomplete short left,4.26,3.01,16.0,2023,236
+2.0,11:06,4.0,5.0,DAL 5,7.0,3.0,Tua Tagovailoa pass incomplete short left intended for Cedrick Wilson,3.01,0.38,16.0,2023,236
+2.0,11:02,1.0,10.0,DAL 6,7.0,3.0,Rico Dowdle right tackle for no gain (tackle by Andrew Van Ginkel and David Long),-0.38,-0.78,16.0,2023,236
+2.0,10:23,2.0,10.0,DAL 6,7.0,3.0,"Dak Prescott scrambles left end for no gain (tackle by Kader Kohou). Penalty on Tyler Smith: Offensive Holding, 3 yards (accepted) (no play)",-0.78,-1.0,16.0,2023,236
+2.0,9:58,2.0,13.0,DAL 3,7.0,3.0,Dak Prescott right guard for 2 yards (tackle by Melvin Ingram),-1.0,-1.54,16.0,2023,236
+2.0,9:20,3.0,11.0,DAL 5,7.0,3.0,"Dak Prescott pass incomplete short right intended for Brandin Cooks. Penalty on Christian Wilkins: Roughing the Passer, 15 yards (accepted) (no play)",-1.54,0.28,16.0,2023,236
+2.0,9:14,1.0,10.0,DAL 20,7.0,3.0,Dak Prescott sacked by Andrew Van Ginkel for -2 yards,0.28,-0.63,16.0,2023,236
+2.0,8:29,2.0,12.0,DAL 18,7.0,3.0,Dak Prescott pass incomplete short middle intended for Peyton Hendershot (defended by Zach Sieler),-0.63,-1.33,16.0,2023,236
+2.0,8:26,3.0,12.0,DAL 18,7.0,3.0,Dak Prescott scrambles up the middle for 2 yards (tackle by Zach Sieler),-1.33,-2.03,16.0,2023,236
+2.0,7:34,4.0,10.0,DAL 20,7.0,3.0,"Bryan Anger punts 61 yards, returned by Braxton Berrios for 16 yards (tackle by Peyton Hendershot)",-2.03,-1.27,16.0,2023,236
+2.0,7:21,1.0,10.0,MIA 35,7.0,3.0,Jeff Wilson right guard for 6 yards (tackle by Donovan Wilson),1.27,1.53,16.0,2023,236
+2.0,6:37,2.0,4.0,MIA 41,7.0,3.0,Tua Tagovailoa pass complete deep right to Tyreek Hill for 20 yards (tackle by Damone Clark),1.53,2.98,16.0,2023,236
+2.0,5:57,1.0,10.0,DAL 39,7.0,3.0,Tua Tagovailoa pass complete short left to Durham Smythe for 6 yards (tackle by Markquese Bell),2.98,3.25,16.0,2023,236
+2.0,5:16,2.0,4.0,DAL 33,7.0,3.0,De'Von Achane right guard for -1 yards (tackle by Micah Parsons and Markquese Bell),3.25,2.41,16.0,2023,236
+2.0,4:39,3.0,5.0,DAL 34,7.0,3.0,Tua Tagovailoa pass incomplete short right intended for De'Von Achane,2.41,1.07,16.0,2023,236
+2.0,4:36,4.0,5.0,DAL 34,7.0,6.0,Jason Sanders 52 yard field goal good,1.07,3.0,16.0,2023,236
+2.0,4:31,,,MIA 35,7.0,6.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,16.0,2023,236
+2.0,4:31,1.0,10.0,DAL 25,7.0,6.0,"Penalty on Jake Ferguson: False Start, 5 yards (accepted) (no play)",0.61,0.28,16.0,2023,236
+2.0,4:31,1.0,15.0,DAL 20,7.0,6.0,Tony Pollard up the middle for 2 yards (tackle by Christian Wilkins),0.28,-0.34,16.0,2023,236
+2.0,3:55,2.0,13.0,DAL 22,7.0,6.0,Tony Pollard left end for 7 yards (tackle by Christian Wilkins and Zach Sieler),-0.34,-0.1,16.0,2023,236
+2.0,3:12,3.0,6.0,DAL 29,7.0,6.0,Dak Prescott sacked by Zach Sieler for -2 yards,-0.1,-1.57,16.0,2023,236
+2.0,2:33,4.0,8.0,DAL 27,7.0,6.0,"Bryan Anger punts 60 yards, returned by Braxton Berrios for 16 yards (tackle by Luke Schoonmaker)",-1.57,-0.87,16.0,2023,236
+2.0,2:23,1.0,10.0,MIA 29,7.0,6.0,Tua Tagovailoa pass complete short left to Durham Smythe for 11 yards (tackle by Damone Clark),0.87,1.6,16.0,2023,236
+2.0,2:01,1.0,10.0,MIA 40,7.0,6.0,Tua Tagovailoa pass incomplete deep left intended for De'Von Achane,1.6,1.05,16.0,2023,236
+2.0,1:56,2.0,10.0,MIA 40,7.0,6.0,Tua Tagovailoa pass complete short middle to Cedrick Wilson for 15 yards (tackle by Markquese Bell),1.05,2.59,16.0,2023,236
+2.0,1:19,1.0,10.0,DAL 45,7.0,6.0,De'Von Achane up the middle for 9 yards (tackle by Jourdan Lewis and Markquese Bell),2.59,3.26,16.0,2023,236
+2.0,0:57,2.0,1.0,DAL 36,7.0,6.0,Tua Tagovailoa pass complete short right to Durham Smythe for 8 yards (tackle by Donovan Wilson),3.26,3.71,16.0,2023,236
+2.0,0:34,1.0,10.0,DAL 28,7.0,6.0,Tua Tagovailoa pass complete short middle to Durham Smythe for 10 yards (tackle by Donovan Wilson),3.71,4.37,16.0,2023,236
+2.0,0:28,,,,,,Timeout #2 by Miami Dolphins,,,16.0,2023,236
+2.0,0:28,1.0,10.0,DAL 18,7.0,6.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 9 yards (tackle by Stephon Gilmore),4.37,5.42,16.0,2023,236
+2.0,0:26,,,,,,Timeout #3 by Miami Dolphins,,,16.0,2023,236
+2.0,0:26,2.0,1.0,DAL 9,7.0,6.0,"Tua Tagovailoa pass incomplete short right intended for Cedrick Wilson (defended by Stephon Gilmore). Penalty on Micah Parsons: Roughing the Passer, 5 yards (accepted) (no play)",5.42,6.28,16.0,2023,236
+2.0,0:21,,,,,,Timeout #2 by Dallas Cowboys,,,16.0,2023,236
+2.0,0:21,1.0,4.0,DAL 4,7.0,12.0,"Tua Tagovailoa pass complete short left to Raheem Mostert for 4 yards, touchdown",6.28,7.0,16.0,2023,236
+2.0,0:17,,,DAL 15,7.0,13.0,Jason Sanders kicks extra point good,0.0,0.0,16.0,2023,236
+2.0,0:17,,,MIA 35,7.0,13.0,"Jason Sanders kicks off 41 yards, recovered by Rico Dowdle at DAL-23 (tackle by Chase Claypool and Channing Tindall)",0.0,0.54,16.0,2023,236
+2.0,0:12,1.0,10.0,DAL 24,7.0,13.0,Dak Prescott kneels for -1 yards,0.54,-0.14,16.0,2023,236
+3.0,15:00,,,DAL 35,7.0,13.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,16.0,2023,236
+3.0,15:00,1.0,10.0,MIA 25,7.0,13.0,Raheem Mostert up the middle for 14 yards (tackle by Donovan Wilson and DaRon Bland),0.61,1.53,16.0,2023,236
+3.0,14:17,1.0,10.0,MIA 39,7.0,13.0,Raheem Mostert left end for 1 yard (tackle by Micah Parsons and Donovan Wilson),1.53,1.12,16.0,2023,236
+3.0,13:36,2.0,9.0,MIA 40,7.0,13.0,De'Von Achane up the middle for no gain (tackle by Osa Odighizuwa and Jourdan Lewis),1.12,0.43,16.0,2023,236
+3.0,12:55,3.0,9.0,MIA 40,7.0,13.0,Tua Tagovailoa pass incomplete short left intended for Tyreek Hill,0.43,-0.72,16.0,2023,236
+3.0,12:53,4.0,9.0,MIA 40,7.0,13.0,Jake Bailey punts 58 yards downed by Elijah Campbell,-0.72,0.38,16.0,2023,236
+3.0,12:43,1.0,10.0,DAL 2,7.0,13.0,Tony Pollard right tackle for 1 yard (tackle by Xavien Howard),-0.38,-0.71,16.0,2023,236
+3.0,12:08,2.0,9.0,DAL 3,7.0,13.0,Dak Prescott pass incomplete short left intended for Jake Ferguson,-0.71,-1.3,16.0,2023,236
+3.0,12:06,3.0,9.0,DAL 3,7.0,13.0,Dak Prescott pass incomplete short right intended for Jake Ferguson,-1.3,-2.49,16.0,2023,236
+3.0,12:00,4.0,9.0,DAL 3,7.0,13.0,Bryan Anger punts 57 yards out of bounds,-2.49,-1.6,16.0,2023,236
+3.0,11:53,1.0,10.0,MIA 40,7.0,13.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 17 yards (tackle by Stephon Gilmore),1.6,2.72,16.0,2023,236
+3.0,11:14,1.0,10.0,DAL 43,7.0,13.0,Jeff Wilson up the middle for 1 yard (tackle by Sam Williams),2.72,2.31,16.0,2023,236
+3.0,10:34,2.0,9.0,DAL 42,7.0,13.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 8 yards (tackle by Micah Parsons),2.31,2.68,16.0,2023,236
+3.0,9:48,3.0,1.0,DAL 34,7.0,13.0,De'Von Achane left end for -2 yards (tackle by Sam Williams and Damone Clark),2.68,0.89,16.0,2023,236
+3.0,9:04,4.0,3.0,DAL 36,7.0,16.0,Jason Sanders 54 yard field goal good,0.89,3.0,16.0,2023,236
+3.0,8:59,,,MIA 35,7.0,16.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,16.0,2023,236
+3.0,8:59,1.0,10.0,DAL 25,7.0,16.0,Dak Prescott pass complete short right to Brandin Cooks for 6 yards (tackle by Andrew Van Ginkel),0.61,0.87,16.0,2023,236
+3.0,8:29,2.0,4.0,DAL 31,7.0,16.0,Dak Prescott pass complete deep right to Jalen Tolbert for 45 yards (tackle by Xavien Howard),0.87,3.97,16.0,2023,236
+3.0,7:48,1.0,10.0,MIA 24,7.0,16.0,Tony Pollard left tackle for 3 yards (tackle by Andrew Van Ginkel),3.97,3.84,16.0,2023,236
+3.0,7:12,2.0,7.0,MIA 21,7.0,16.0,Dak Prescott pass complete short left to Michael Gallup for -4 yards (tackle by Bradley Chubb),3.84,2.61,16.0,2023,236
+3.0,6:34,3.0,11.0,MIA 25,7.0,16.0,Dak Prescott scrambles right tackle for no gain (tackle by DeShon Elliott) (no play),2.61,1.95,16.0,2023,236
+3.0,6:14,3.0,16.0,MIA 30,7.0,16.0,Dak Prescott pass complete short middle to Tony Pollard for 5 yards (tackle by Duke Riley),1.95,1.8,16.0,2023,236
+3.0,5:32,4.0,11.0,MIA 25,10.0,16.0,Brandon Aubrey 43 yard field goal good,1.8,3.0,16.0,2023,236
+3.0,5:28,,,DAL 35,10.0,16.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,16.0,2023,236
+3.0,5:28,1.0,10.0,MIA 25,10.0,16.0,Tua Tagovailoa pass complete deep middle to Tyreek Hill for 18 yards (tackle by Donovan Wilson),0.61,1.8,16.0,2023,236
+3.0,4:49,1.0,10.0,MIA 43,10.0,16.0,"Tua Tagovailoa aborted snap, recovered by Tua Tagovailoa at MIA-38 and returned for 5 yards Tua Tagovailoa pass complete short middle to Durham Smythe for 21 yards (tackle by Malik Hooker)",1.8,3.18,16.0,2023,236
+3.0,4:06,1.0,10.0,DAL 36,10.0,16.0,Tua Tagovailoa pass incomplete deep left intended for Tyreek Hill,3.18,2.64,16.0,2023,236
+3.0,4:01,2.0,10.0,DAL 36,10.0,16.0,Jaylen Waddle right end for 2 yards (tackle by Jourdan Lewis),2.64,2.21,16.0,2023,236
+3.0,3:32,,,,,,Timeout #1 by Miami Dolphins,,,16.0,2023,236
+3.0,3:32,3.0,8.0,DAL 34,10.0,16.0,Tua Tagovailoa pass complete short left to Tyreek Hill for 14 yards (tackle by Donovan Wilson),2.21,4.24,16.0,2023,236
+3.0,2:52,1.0,10.0,DAL 20,10.0,16.0,De'Von Achane up the middle for 5 yards (tackle by Micah Parsons and Chauncey Golston),4.24,4.45,16.0,2023,236
+3.0,2:15,2.0,5.0,DAL 15,10.0,16.0,Tua Tagovailoa pass complete short middle to Tyreek Hill for -2 yards (tackle by Markquese Bell),4.45,3.36,16.0,2023,236
+3.0,1:32,3.0,7.0,DAL 17,10.0,16.0,Tua Tagovailoa pass incomplete short right intended for Cedrick Wilson,3.36,2.31,16.0,2023,236
+3.0,1:28,4.0,7.0,DAL 17,10.0,19.0,Jason Sanders 35 yard field goal good,2.31,3.0,16.0,2023,236
+3.0,1:24,,,MIA 35,10.0,19.0,"Jason Sanders kicks off 65 yards, touchback.",0.0,0.61,16.0,2023,236
+3.0,1:24,1.0,10.0,DAL 25,10.0,19.0,Tony Pollard up the middle for 3 yards (tackle by Zach Sieler and Andrew Van Ginkel),0.61,0.47,16.0,2023,236
+3.0,0:42,2.0,7.0,DAL 28,10.0,19.0,Dak Prescott pass complete short left to Jake Ferguson for 7 yards (tackle by David Long),0.47,1.27,16.0,2023,236
+3.0,0:21,1.0,10.0,DAL 35,10.0,19.0,Dak Prescott pass complete short right to Jake Ferguson for 11 yards (tackle by Andrew Van Ginkel and Duke Riley),1.27,1.99,16.0,2023,236
+4.0,15:00,1.0,10.0,DAL 46,10.0,19.0,Dak Prescott scrambles up the middle for 22 yards (tackle by Brandon Jones),1.99,3.45,16.0,2023,236
+4.0,14:25,1.0,10.0,MIA 32,10.0,19.0,CeeDee Lamb right end for 5 yards (tackle by Kader Kohou),3.45,3.58,16.0,2023,236
+4.0,13:57,2.0,5.0,MIA 27,10.0,19.0,Dak Prescott pass incomplete short right intended for Jake Ferguson (defended by Andrew Van Ginkel),3.58,2.87,16.0,2023,236
+4.0,13:52,3.0,5.0,MIA 27,10.0,19.0,"Dak Prescott pass incomplete short right intended for Brandin Cooks. Penalty on Nik Needham: Illegal Contact, 5 yards (accepted) (no play)",2.87,4.11,16.0,2023,236
+4.0,13:48,1.0,10.0,MIA 22,10.0,19.0,Dak Prescott pass complete short left to Jalen Tolbert for 6 yards (tackle by Jalen Ramsey),4.11,4.46,16.0,2023,236
+4.0,13:17,2.0,4.0,MIA 16,10.0,19.0,Tony Pollard right tackle for 1 yard (tackle by Brandon Jones and David Long),4.46,3.93,16.0,2023,236
+4.0,12:40,3.0,3.0,MIA 15,10.0,19.0,Dak Prescott pass incomplete short right intended for Rico Dowdle,3.93,2.54,16.0,2023,236
+4.0,12:35,4.0,3.0,MIA 15,13.0,19.0,Brandon Aubrey 33 yard field goal good,2.54,3.0,16.0,2023,236
+4.0,12:31,,,DAL 35,13.0,19.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,16.0,2023,236
+4.0,12:31,1.0,10.0,MIA 25,13.0,19.0,De'Von Achane left end for 7 yards (tackle by Markquese Bell and Donovan Wilson),0.61,1.01,16.0,2023,236
+4.0,11:53,2.0,3.0,MIA 32,13.0,19.0,Tua Tagovailoa pass incomplete short right intended for Tyreek Hill,1.01,0.3,16.0,2023,236
+4.0,11:48,3.0,3.0,MIA 32,13.0,19.0,"Penalty on Lester Cotton: False Start, 5 yards (accepted) (no play)",0.3,-0.36,16.0,2023,236
+4.0,11:48,3.0,8.0,MIA 27,13.0,19.0,Tua Tagovailoa sacked by and Dorance Armstrong for -9 yards and Micah Parsons for -9 yards,-0.36,-2.24,16.0,2023,236
+4.0,11:17,4.0,17.0,MIA 18,13.0,19.0,"Jake Bailey punts 53 yards, returned by KaVontae Turpin for 2 yards (tackle by Channing Tindall and Elijah Campbell)",-2.24,-1.0,16.0,2023,236
+4.0,11:06,1.0,10.0,DAL 31,13.0,19.0,Dak Prescott pass complete short left to KaVontae Turpin for 4 yards (tackle by Duke Riley),1.0,1.0,16.0,2023,236
+4.0,10:30,2.0,6.0,DAL 35,13.0,19.0,Dak Prescott pass incomplete short left intended for Jake Ferguson,1.0,0.3,16.0,2023,236
+4.0,10:25,3.0,6.0,DAL 35,13.0,19.0,Dak Prescott pass complete short right to CeeDee Lamb for 14 yards,0.3,2.19,16.0,2023,236
+4.0,9:49,1.0,10.0,DAL 49,13.0,19.0,Dak Prescott pass complete short left to Luke Schoonmaker for 4 yards (tackle by Kader Kohou),2.19,2.19,16.0,2023,236
+4.0,9:06,2.0,6.0,MIA 47,13.0,19.0,KaVontae Turpin right end for 4 yards (tackle by DeShon Elliott),2.19,2.01,16.0,2023,236
+4.0,8:31,3.0,2.0,MIA 43,13.0,19.0,Dak Prescott pass incomplete short right intended for CeeDee Lamb,2.01,0.4,16.0,2023,236
+4.0,8:25,4.0,2.0,MIA 43,13.0,19.0,Dak Prescott pass complete short right to CeeDee Lamb for 11 yards (tackle by Xavien Howard),0.4,3.45,16.0,2023,236
+4.0,7:45,1.0,10.0,MIA 32,13.0,19.0,Dak Prescott pass complete short left to Jake Ferguson for 7 yards (tackle by Brandon Jones),3.45,3.85,16.0,2023,236
+4.0,7:08,2.0,3.0,MIA 25,13.0,19.0,Rico Dowdle left tackle for 4 yards (tackle by Jalen Ramsey),3.85,4.17,16.0,2023,236
+4.0,6:28,1.0,10.0,MIA 21,13.0,19.0,Dak Prescott pass complete short left to Michael Gallup for 8 yards (tackle by Jalen Ramsey),4.17,4.95,16.0,2023,236
+4.0,5:47,2.0,2.0,MIA 13,13.0,19.0,Tony Pollard right guard for 6 yards (tackle by Melvin Ingram and Brandon Jones),4.95,5.6,16.0,2023,236
+4.0,5:11,1.0,7.0,MIA 7,13.0,19.0,Tony Pollard up the middle for 3 yards (tackle by Brandon Jones),5.6,5.34,16.0,2023,236
+4.0,4:33,2.0,4.0,MIA 4,13.0,19.0,Dak Prescott pass incomplete short right intended for CeeDee Lamb,5.34,4.49,16.0,2023,236
+4.0,4:30,3.0,4.0,MIA 4,13.0,19.0,Dak Prescott pass incomplete short right intended for Peyton Hendershot,4.49,3.03,16.0,2023,236
+4.0,4:23,4.0,4.0,MIA 4,13.0,19.0,"Dak Prescott pass incomplete short right intended for KaVontae Turpin. Penalty on DeShon Elliott: Defensive Pass Interference, 3 yards (accepted) . Penalty on Xavien Howard: Defensive Pass Interference, 15 yards (declined) (no play)",3.03,6.97,16.0,2023,236
+4.0,4:19,1.0,1.0,MIA 1,13.0,19.0,Dak Prescott sacked by and Bradley Chubb for -7 yards and Andrew Van Ginkel for -7 yards,6.97,4.57,16.0,2023,236
+4.0,3:38,2.0,8.0,MIA 8,13.0,19.0,Dak Prescott pass incomplete short right intended for CeeDee Lamb (defended by Xavien Howard),4.57,3.58,16.0,2023,236
+4.0,3:32,3.0,8.0,MIA 8,19.0,19.0,"Dak Prescott pass complete short left to Brandin Cooks for 8 yards, touchdown",3.58,7.0,16.0,2023,236
+4.0,3:27,,,MIA 15,20.0,19.0,Brandon Aubrey kicks extra point good,0.0,0.0,16.0,2023,236
+4.0,3:27,,,DAL 35,20.0,19.0,"Brandon Aubrey kicks off 65 yards, touchback.",0.0,0.61,16.0,2023,236
+4.0,3:27,1.0,10.0,MIA 25,20.0,19.0,"De'Von Achane right end for 6 yards (tackle by Damone Clark). Penalty on Damone Clark: Face Mask (15 Yards), 15 yards (accepted)",0.61,1.99,16.0,2023,236
+4.0,3:19,1.0,10.0,MIA 46,20.0,19.0,Tua Tagovailoa pass complete short right to Cedrick Wilson for 9 yards (tackle by Stephon Gilmore),1.99,2.67,16.0,2023,236
+4.0,2:56,2.0,1.0,DAL 45,20.0,19.0,Tua Tagovailoa pass complete short right to Tyreek Hill for 5 yards (tackle by Jayron Kearse),2.67,2.92,16.0,2023,236
+4.0,2:13,1.0,10.0,DAL 40,20.0,19.0,Tua Tagovailoa pass incomplete short left intended for Tyreek Hill,2.92,2.37,16.0,2023,236
+4.0,2:10,2.0,10.0,DAL 40,20.0,19.0,Tua Tagovailoa pass complete short right to Alec Ingold for 7 yards (tackle by Markquese Bell),2.37,2.61,16.0,2023,236
+4.0,2:00,3.0,3.0,DAL 33,20.0,19.0,Tua Tagovailoa pass complete short left to Tyreek Hill for 10 yards (tackle by Jayron Kearse),2.61,4.04,16.0,2023,236
+4.0,1:53,,,,,,Timeout #1 by Dallas Cowboys,,,16.0,2023,236
+4.0,1:53,1.0,10.0,DAL 23,20.0,19.0,Jeff Wilson right end for 8 yards (tackle by Malik Hooker and Stephon Gilmore),4.04,4.75,16.0,2023,236
+4.0,1:47,,,,,,Timeout #2 by Dallas Cowboys,,,16.0,2023,236
+4.0,1:47,2.0,2.0,DAL 15,20.0,19.0,Jeff Wilson right guard for no gain (tackle by Damone Clark and DeMarcus Lawrence),4.75,4.05,16.0,2023,236
+4.0,1:42,,,,,,Timeout #3 by Dallas Cowboys,,,16.0,2023,236
+4.0,1:42,3.0,2.0,DAL 15,20.0,19.0,Jeff Wilson up the middle for 6 yards (tackle by Donovan Wilson and DeMarcus Lawrence),4.05,5.14,16.0,2023,236
+4.0,0:58,1.0,9.0,DAL 9,20.0,19.0,Tua Tagovailoa kneels for -1 yards,5.14,4.19,16.0,2023,236
+4.0,0:16,2.0,10.0,DAL 10,20.0,19.0,Tua Tagovailoa kneels for -1 yards,4.19,3.12,16.0,2023,236
+4.0,0:02,,,,,,Timeout #2 by Miami Dolphins,,,16.0,2023,236
+4.0,0:02,3.0,11.0,DAL 11,20.0,22.0,Jason Sanders 29 yard field goal good,3.12,3.0,16.0,2023,236

@@ -1,0 +1,171 @@
+Quarter,Time,Down,ToGo,Location,PIT,PHI,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Eagles won the coin toss and deferred, Steelers to receive the opening kickoff.",,,8.0,2022,112
+1.0,15:00,,,PHI 35,0.0,0.0,"Jake Elliott kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,112
+1.0,15:00,1.0,10.0,PIT 25,0.0,0.0,Najee Harris right tackle for no gain (tackle by Jordan Davis and Marcus Epps),0.61,0.06,8.0,2022,112
+1.0,14:33,2.0,10.0,PIT 25,0.0,0.0,Kenny Pickett scrambles up the middle for 1 yard (tackle by Javon Hargrave),0.06,-0.49,8.0,2022,112
+1.0,13:51,3.0,9.0,PIT 26,0.0,0.0,Kenny Pickett sacked by Haason Reddick for -8 yards,-0.49,-2.24,8.0,2022,112
+1.0,13:19,4.0,17.0,PIT 18,0.0,0.0,"Pressley Harvin punts 55 yards, returned by Britain Covey for 5 yards (tackle by Miles Boykin)",-2.24,-1.07,8.0,2022,112
+1.0,13:09,1.0,10.0,PHI 32,0.0,0.0,Jalen Hurts pass incomplete short right intended for DeVonta Smith,1.07,0.53,8.0,2022,112
+1.0,13:04,2.0,10.0,PHI 32,0.0,0.0,Jalen Hurts pass complete short right to A.J. Brown for 9 yards (tackle by Ahkello Witherspoon),0.53,1.03,8.0,2022,112
+1.0,12:37,3.0,1.0,PHI 41,0.0,0.0,Miles Sanders right end for 7 yards (tackle by Ahkello Witherspoon),1.03,2.13,8.0,2022,112
+1.0,11:58,1.0,10.0,PHI 48,0.0,0.0,Miles Sanders left guard for 1 yard (tackle by Isaiahh Loudermilk),2.13,1.72,8.0,2022,112
+1.0,11:37,2.0,9.0,PHI 49,0.0,0.0,Jalen Hurts pass incomplete short left intended for A.J. Brown (defended by Cameron Sutton),1.72,1.02,8.0,2022,112
+1.0,11:33,3.0,9.0,PHI 49,0.0,0.0,Jalen Hurts pass complete short right to Dallas Goedert for 7 yards (tackle by Malik Reed and Minkah Fitzpatrick),1.02,0.33,8.0,2022,112
+1.0,10:52,4.0,2.0,PIT 44,0.0,0.0,Jalen Hurts pass complete short left to Dallas Goedert for 5 yards (tackle by Terrell Edmunds),0.33,2.98,8.0,2022,112
+1.0,10:12,1.0,10.0,PIT 39,0.0,0.0,Jalen Hurts pass complete short right to DeVonta Smith for no gain (tackle by Ahkello Witherspoon and Arthur Maulet),2.98,2.44,8.0,2022,112
+1.0,9:31,2.0,10.0,PIT 39,0.0,6.0,"Jalen Hurts pass complete deep middle to A.J. Brown for 39 yards, touchdown",2.44,7.0,8.0,2022,112
+1.0,9:23,,,PIT 15,0.0,7.0,Jake Elliott kicks extra point good,0.0,0.0,8.0,2022,112
+1.0,9:23,,,PHI 35,0.0,7.0,"Jake Elliott kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,112
+1.0,9:23,1.0,10.0,PIT 25,0.0,7.0,Kenny Pickett pass complete short right to Derek Watt for 5 yards (tackle by Kyzir White),0.61,0.74,8.0,2022,112
+1.0,8:49,2.0,5.0,PIT 30,0.0,7.0,"Kenny Pickett pass complete short left to Diontae Johnson for no gain. Penalty on Kevin Dotson: Ineligible Downfield Pass, 5 yards (accepted) (no play)",0.74,0.06,8.0,2022,112
+1.0,8:16,2.0,10.0,PIT 25,0.0,7.0,Kenny Pickett pass complete short left to Diontae Johnson for 14 yards (tackle by James Bradberry),0.06,1.53,8.0,2022,112
+1.0,7:41,1.0,10.0,PIT 39,0.0,7.0,Kenny Pickett pass complete short left to Chase Claypool for 8 yards (tackle by James Bradberry),1.53,2.07,8.0,2022,112
+1.0,7:15,2.0,2.0,PIT 47,0.0,7.0,"Kenny Pickett pass incomplete short right. Penalty on Chukwuma Okorafor: Illegal Formation, 5 yards (accepted) (no play)",2.07,1.39,8.0,2022,112
+1.0,7:07,2.0,7.0,PIT 42,0.0,7.0,"Kenny Pickett sacked by. Penalty on James Bradberry: Defensive Holding, 5 yards (accepted) (no play)",1.39,2.06,8.0,2022,112
+1.0,6:58,1.0,10.0,PIT 47,0.0,7.0,"Penalty on PIT: Delay of Game, 5 yards (accepted) (no play)",2.06,1.73,8.0,2022,112
+1.0,6:58,1.0,15.0,PIT 42,0.0,7.0,Kenny Pickett pass complete short right to Steven Sims for 2 yards (tackle by Avonte Maddox),1.73,1.11,8.0,2022,112
+1.0,6:17,2.0,13.0,PIT 44,0.0,7.0,Jaylen Warren up the middle for 12 yards (tackle by T.J. Edwards and Kyzir White),1.11,2.02,8.0,2022,112
+1.0,5:51,3.0,1.0,PHI 44,0.0,7.0,Kenny Pickett up the middle for 2 yards (tackle by Fletcher Cox),2.02,2.79,8.0,2022,112
+1.0,5:14,1.0,10.0,PHI 42,0.0,7.0,Kenny Pickett pass complete short right to Zach Gentry for 3 yards (tackle by Kyzir White),2.79,2.65,8.0,2022,112
+1.0,4:40,2.0,7.0,PHI 39,0.0,7.0,Kenny Pickett pass complete deep middle to Pat Freiermuth for 21 yards (tackle by C.J. Gardner-Johnson),2.65,4.37,8.0,2022,112
+1.0,3:58,1.0,10.0,PHI 18,0.0,7.0,Kenny Pickett scrambles left end for 11 yards (tackle by C.J. Gardner-Johnson),4.37,5.6,8.0,2022,112
+1.0,3:21,1.0,7.0,PHI 7,0.0,7.0,Najee Harris up the middle for 1 yard (tackle by Marcus Epps and Javon Hargrave),5.6,4.95,8.0,2022,112
+1.0,2:42,2.0,6.0,PHI 6,0.0,7.0,Najee Harris pass complete short right to Diontae Johnson for 4 yards (tackle by Marcus Epps),4.95,4.95,8.0,2022,112
+1.0,2:05,3.0,2.0,PHI 2,0.0,7.0,Kenny Pickett pass incomplete short left intended for Diontae Johnson,4.95,3.25,8.0,2022,112
+1.0,2:01,4.0,2.0,PHI 2,0.0,7.0,"Penalty on Brandon Graham: Defensive Delay of Game, 1 yard (accepted) (no play)",3.25,3.55,8.0,2022,112
+1.0,2:01,4.0,1.0,PHI 1,6.0,7.0,"Chase Claypool pass complete short left to Derek Watt for 1 yard, touchdown",3.55,7.0,8.0,2022,112
+1.0,1:57,,,PHI 15,7.0,7.0,Nick Sciba kicks extra point good,0.0,0.0,8.0,2022,112
+1.0,1:57,,,PIT 35,7.0,7.0,"Nick Sciba kicks off 64 yards, returned by Britain Covey for 20 yards (tackle by Marcus Allen)",0.0,0.34,8.0,2022,112
+1.0,1:52,1.0,10.0,PHI 21,7.0,7.0,Jalen Hurts left guard for 8 yards (tackle by Terrell Edmunds),0.34,0.88,8.0,2022,112
+1.0,1:30,2.0,2.0,PHI 29,7.0,7.0,Jalen Hurts pass incomplete short middle intended for A.J. Brown (defended by Minkah Fitzpatrick),0.88,0.17,8.0,2022,112
+1.0,1:23,3.0,2.0,PHI 29,7.0,7.0,Kenneth Gainwell up the middle for 3 yards (tackle by Robert Spillane),0.17,1.07,8.0,2022,112
+1.0,0:46,1.0,10.0,PHI 32,7.0,7.0,Jalen Hurts pass incomplete deep left intended for Quez Watkins (defended by Cameron Sutton),1.07,0.53,8.0,2022,112
+1.0,0:40,2.0,10.0,PHI 32,7.0,7.0,Jalen Hurts pass complete short right to A.J. Brown for 9 yards (tackle by Ahkello Witherspoon),0.53,1.03,8.0,2022,112
+1.0,0:14,3.0,1.0,PHI 41,7.0,7.0,"Jalen Hurts for no gain. Penalty on Montravius Adams: Defensive Offside, 5 yards (accepted) (no play)",1.03,1.99,8.0,2022,112
+2.0,15:00,1.0,10.0,PHI 46,7.0,7.0,Jalen Hurts pass incomplete short right intended for DeVonta Smith,1.99,1.45,8.0,2022,112
+2.0,14:52,2.0,10.0,PHI 46,7.0,7.0,Jalen Hurts pass complete short middle to DeVonta Smith for 9 yards (tackle by Ahkello Witherspoon and Terrell Edmunds),1.45,1.95,8.0,2022,112
+2.0,14:09,3.0,1.0,PIT 45,7.0,7.0,Jalen Hurts pass complete short left to Dallas Goedert for 16 yards (tackle by Minkah Fitzpatrick),1.95,3.64,8.0,2022,112
+2.0,13:32,1.0,10.0,PIT 29,7.0,7.0,Miles Sanders up the middle for 2 yards (tackle by Devin Bush and Malik Reed),3.64,3.37,8.0,2022,112
+2.0,12:57,2.0,8.0,PIT 27,7.0,7.0,Jalen Hurts pass incomplete short middle intended for Quez Watkins (defended by Malik Reed),3.37,2.68,8.0,2022,112
+2.0,12:53,3.0,8.0,PIT 27,7.0,13.0,"Jalen Hurts pass complete deep right to A.J. Brown for 27 yards, touchdown",2.68,7.0,8.0,2022,112
+2.0,12:48,,,PIT 15,7.0,14.0,Jake Elliott kicks extra point good,0.0,0.0,8.0,2022,112
+2.0,12:48,,,PHI 35,7.0,14.0,"Jake Elliott kicks off 65 yards, returned by Steven Sims for 27 yards (tackle by Zech McPhearson). Penalty on Tre Norwood: Offensive Holding, 10 yards (accepted)",0.0,-0.06,8.0,2022,112
+2.0,12:38,1.0,10.0,PIT 17,7.0,14.0,"Najee Harris right tackle for no gain (tackle by Jordan Davis). Penalty on Dan Moore: Illegal Formation, 5 yards (accepted) (no play)",-0.06,-0.51,8.0,2022,112
+2.0,12:10,1.0,15.0,PIT 12,7.0,14.0,Kenny Pickett pass complete short right to Steven Sims for -3 yards (tackle by Avonte Maddox),-0.51,-1.44,8.0,2022,112
+2.0,11:28,2.0,19.0,PIT 8,7.0,14.0,Najee Harris right tackle for -1 yards (tackle by Fletcher Cox),-1.44,-2.47,8.0,2022,112
+2.0,10:50,3.0,19.0,PIT 8,7.0,14.0,Kenny Pickett pass complete short left to Jaylen Warren for 10 yards (tackle by Avonte Maddox and Haason Reddick),-2.47,-2.24,8.0,2022,112
+2.0,10:10,4.0,9.0,PIT 18,7.0,14.0,"Pressley Harvin punts 46 yards, returned by DeVonta Smith for 3 yards (tackle by Marcus Allen)",-2.24,-1.53,8.0,2022,112
+2.0,10:02,1.0,10.0,PHI 39,7.0,14.0,Jalen Hurts pass complete short right to DeVonta Smith for -10 yards (tackle by Alex Highsmith),1.53,-0.36,8.0,2022,112
+2.0,9:19,2.0,20.0,PHI 29,7.0,14.0,Jalen Hurts scrambles left end for 2 yards (tackle by Cameron Sutton),-0.36,-0.76,8.0,2022,112
+2.0,8:38,3.0,18.0,PHI 31,7.0,14.0,Jalen Hurts pass complete short left to Kenneth Gainwell for 8 yards (tackle by Minkah Fitzpatrick),-0.76,-0.78,8.0,2022,112
+2.0,8:00,4.0,10.0,PHI 39,7.0,14.0,"Arryn Siposs punts 49 yards, returned by Steven Sims for 10 yards (tackle by Zech McPhearson)",-0.78,-0.41,8.0,2022,112
+2.0,7:47,1.0,10.0,PIT 22,7.0,14.0,Kenny Pickett pass incomplete short right intended for Diontae Johnson (defended by Darius Slay),0.41,-0.13,8.0,2022,112
+2.0,7:41,2.0,10.0,PIT 22,7.0,14.0,Kenny Pickett pass incomplete deep right intended for George Pickens (defended by Avonte Maddox),-0.13,-0.82,8.0,2022,112
+2.0,7:34,3.0,10.0,PIT 22,7.0,14.0,Kenny Pickett pass incomplete short middle intended for Pat Freiermuth,-0.82,-1.9,8.0,2022,112
+2.0,7:29,4.0,10.0,PIT 22,7.0,14.0,Pressley Harvin punts 38 yards out of bounds,-1.9,-1.6,8.0,2022,112
+2.0,7:22,1.0,10.0,PHI 40,7.0,14.0,Jalen Hurts pass complete short left to Dallas Goedert for 17 yards (tackle by Cameron Sutton and Myles Jack),1.6,2.72,8.0,2022,112
+2.0,6:49,1.0,10.0,PIT 43,7.0,14.0,Jalen Hurts pass complete short left to DeVonta Smith for 14 yards (tackle by Cameron Sutton),2.72,3.64,8.0,2022,112
+2.0,6:20,1.0,10.0,PIT 29,7.0,20.0,"Jalen Hurts pass complete deep right to A.J. Brown for 29 yards, touchdown",3.64,7.0,8.0,2022,112
+2.0,6:13,,,PIT 15,7.0,21.0,Jake Elliott kicks extra point good,0.0,0.0,8.0,2022,112
+2.0,6:13,,,PHI 35,7.0,21.0,"Penalty on A.J. Brown: Unsportsmanlike Conduct / Offense, 15 yards (accepted) (no play)",0.0,0.0,8.0,2022,112
+2.0,6:13,,,PHI 20,7.0,21.0,"Jake Elliott kicks off 65 yards, returned by Steven Sims for 20 yards (tackle by Zach Pascal and Nakobe Dean)",0.0,1.27,8.0,2022,112
+2.0,6:06,1.0,10.0,PIT 35,7.0,21.0,"Kenny Pickett pass complete to George Pickens for no gain. Penalty on George Pickens: Offensive Pass Interference, 10 yards (accepted) (no play)",1.27,0.61,8.0,2022,112
+2.0,5:36,1.0,20.0,PIT 25,7.0,21.0,Steven Sims left end for 10 yards (tackle by Avonte Maddox),0.61,0.72,8.0,2022,112
+2.0,4:55,2.0,10.0,PIT 35,7.0,21.0,Kenny Pickett pass incomplete deep left intended for George Pickens (defended by James Bradberry),0.72,0.04,8.0,2022,112
+2.0,4:49,3.0,10.0,PIT 35,7.0,21.0,Kenny Pickett scrambles left end for 9 yards. Kenny Pickett fumbles. Kenny Pickett fumbles out of bounds (forced by Avonte Maddox),0.04,-0.46,8.0,2022,112
+2.0,4:19,,,,,,Timeout #1 by Pittsburgh Steelers,,,8.0,2022,112
+2.0,4:19,4.0,1.0,PIT 44,7.0,21.0,Kenny Pickett up the middle for 3 yards (tackle by Jordan Davis),-0.46,2.06,8.0,2022,112
+2.0,3:34,1.0,10.0,PIT 47,7.0,21.0,Kenny Pickett pass complete short right to Najee Harris for 7 yards (tackle by T.J. Edwards),2.06,2.46,8.0,2022,112
+2.0,3:03,2.0,3.0,PHI 46,7.0,21.0,Kenny Pickett pass complete short right to Chase Claypool for 7 yards,2.46,2.98,8.0,2022,112
+2.0,2:31,1.0,10.0,PHI 39,7.0,21.0,Najee Harris up the middle for no gain (tackle by Javon Hargrave and T.J. Edwards),2.98,2.44,8.0,2022,112
+2.0,2:00,2.0,10.0,PHI 39,7.0,21.0,Kenny Pickett pass complete short left to Pat Freiermuth for 18 yards (tackle by T.J. Edwards and James Bradberry),2.44,4.17,8.0,2022,112
+2.0,1:23,1.0,10.0,PHI 21,7.0,21.0,Kenny Pickett scrambles left end for 3 yards (tackle by Kyzir White),4.17,4.04,8.0,2022,112
+2.0,1:17,2.0,7.0,PHI 18,7.0,21.0,Kenny Pickett pass incomplete deep left intended for George Pickens,4.04,3.31,8.0,2022,112
+2.0,1:13,3.0,7.0,PHI 18,7.0,21.0,Kenny Pickett sacked by Milton Williams for -2 yards,3.31,2.12,8.0,2022,112
+2.0,1:06,,,,,,Timeout #1 by Philadelphia Eagles,,,8.0,2022,112
+2.0,1:06,4.0,9.0,PHI 20,10.0,21.0,Nick Sciba 38 yard field goal good,2.12,3.0,8.0,2022,112
+2.0,1:02,,,PIT 35,10.0,21.0,"Nick Sciba kicks off 61 yards, returned by Britain Covey for 26 yards (tackle by Connor Heyward and Gunner Olszewski)",0.0,1.27,8.0,2022,112
+2.0,0:55,1.0,10.0,PHI 35,10.0,21.0,Jalen Hurts pass complete short left to Dallas Goedert for 12 yards (tackle by Myles Jack),1.27,2.06,8.0,2022,112
+2.0,0:51,1.0,10.0,PHI 47,10.0,21.0,Jalen Hurts sacked by Malik Reed for -5 yards,2.06,0.84,8.0,2022,112
+2.0,0:45,,,,,,Timeout #2 by Philadelphia Eagles,,,8.0,2022,112
+2.0,0:45,2.0,15.0,PHI 42,10.0,21.0,Jalen Hurts pass incomplete short middle intended for DeVonta Smith,0.84,0.17,8.0,2022,112
+2.0,0:40,3.0,15.0,PHI 42,10.0,21.0,Jalen Hurts sacked by Carlos Davis for -8 yards,0.17,-1.11,8.0,2022,112
+2.0,0:31,,,,,,Timeout #2 by Pittsburgh Steelers,,,8.0,2022,112
+2.0,0:31,4.0,23.0,PHI 34,10.0,21.0,"Arryn Siposs punts 44 yards, fair catch by Steven Sims at PIT-22",-1.11,-0.41,8.0,2022,112
+2.0,0:25,1.0,10.0,PIT 22,10.0,21.0,Kenny Pickett pass complete short right to Najee Harris for 2 yards (tackle by Kyzir White),0.41,0.14,8.0,2022,112
+2.0,0:18,2.0,8.0,PIT 24,10.0,21.0,Kenny Pickett sacked by Javon Hargrave for -11 yards,0.14,-2.42,8.0,2022,112
+3.0,15:00,,,PIT 35,10.0,21.0,"Nick Sciba kicks off 61 yards, returned by Britain Covey for 21 yards (tackle by Connor Heyward)",0.0,0.61,8.0,2022,112
+3.0,14:54,1.0,10.0,PHI 25,10.0,21.0,Jalen Hurts pass incomplete deep right intended for A.J. Brown (defended by James Pierre),0.61,0.06,8.0,2022,112
+3.0,14:50,2.0,10.0,PHI 25,10.0,21.0,Miles Sanders right tackle for 21 yards (tackle by Minkah Fitzpatrick),0.06,1.99,8.0,2022,112
+3.0,14:17,1.0,10.0,PHI 46,10.0,21.0,Jalen Hurts pass complete short right to DeVonta Smith for 10 yards (tackle by James Pierre),1.99,2.65,8.0,2022,112
+3.0,13:39,1.0,10.0,PIT 44,10.0,21.0,Miles Sanders left guard for 10 yards (tackle by Minkah Fitzpatrick),2.65,3.31,8.0,2022,112
+3.0,13:01,1.0,10.0,PIT 34,10.0,27.0,"Jalen Hurts pass complete deep left to Zach Pascal for 34 yards, touchdown",3.31,7.0,8.0,2022,112
+3.0,12:53,,,PIT 15,10.0,28.0,Jake Elliott kicks extra point good,0.0,0.0,8.0,2022,112
+3.0,12:53,,,PHI 35,10.0,28.0,"Jake Elliott kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,112
+3.0,12:53,1.0,10.0,PIT 25,10.0,28.0,Kenny Pickett pass complete short right to Pat Freiermuth for 8 yards (tackle by T.J. Edwards),0.61,1.14,8.0,2022,112
+3.0,12:28,2.0,2.0,PIT 33,10.0,28.0,Kenny Pickett pass incomplete short left intended for Pat Freiermuth (defended by T.J. Edwards),1.14,0.43,8.0,2022,112
+3.0,12:25,3.0,2.0,PIT 33,10.0,28.0,Kenny Pickett pass incomplete deep left intended for Diontae Johnson,0.43,-1.18,8.0,2022,112
+3.0,12:19,4.0,2.0,PIT 33,10.0,28.0,Marcus Allen up the middle for 4 yards (tackle by Shaun Bradley),-1.18,1.4,8.0,2022,112
+3.0,11:30,1.0,10.0,PIT 37,10.0,28.0,"Kenny Pickett pass complete to Pat Freiermuth for no gain. Penalty on Chukwuma Okorafor: Offensive Holding, 10 yards (accepted) (no play)",1.4,0.74,8.0,2022,112
+3.0,11:03,1.0,20.0,PIT 27,10.0,28.0,Kenny Pickett pass complete short middle to Chase Claypool for 25 yards (tackle by T.J. Edwards and Marcus Epps),0.74,2.39,8.0,2022,112
+3.0,10:30,1.0,10.0,PHI 48,10.0,28.0,Kenny Pickett pass complete short left to Diontae Johnson for 5 yards (tackle by Kyzir White and C.J. Gardner-Johnson),2.39,2.52,8.0,2022,112
+3.0,9:55,2.0,5.0,PHI 43,10.0,28.0,Najee Harris for 2 yards (tackle by Josh Sweat),2.52,2.08,8.0,2022,112
+3.0,9:16,3.0,3.0,PHI 41,10.0,28.0,Kenny Pickett pass complete short left to Najee Harris for no gain (tackle by Javon Hargrave),2.08,0.53,8.0,2022,112
+3.0,8:29,4.0,3.0,PHI 41,10.0,28.0,Kenny Pickett pass complete short left to Najee Harris for 9 yards (tackle by C.J. Gardner-Johnson),0.53,3.45,8.0,2022,112
+3.0,8:04,1.0,10.0,PHI 32,10.0,28.0,Kenny Pickett pass complete short left to Chase Claypool for 5 yards (tackle by T.J. Edwards and Kyzir White),3.45,3.58,8.0,2022,112
+3.0,7:25,2.0,5.0,PHI 27,10.0,28.0,Jaylen Warren left tackle for 10 yards (tackle by T.J. Edwards),3.58,4.44,8.0,2022,112
+3.0,6:48,1.0,10.0,PHI 17,10.0,28.0,Kenny Pickett pass incomplete deep left intended for Diontae Johnson,4.44,3.85,8.0,2022,112
+3.0,6:43,2.0,10.0,PHI 17,10.0,28.0,Kenny Pickett pass complete short right to Diontae Johnson for 6 yards (tackle by Darius Slay),3.85,4.1,8.0,2022,112
+3.0,6:03,3.0,4.0,PHI 11,10.0,28.0,Kenny Pickett pass incomplete short left intended for Chase Claypool,4.1,2.77,8.0,2022,112
+3.0,5:59,4.0,4.0,PHI 11,13.0,28.0,Nick Sciba 29 yard field goal good,2.77,3.0,8.0,2022,112
+3.0,5:55,,,PIT 35,13.0,28.0,"Nick Sciba kicks off 46 yards, out of bounds",0.0,1.6,8.0,2022,112
+3.0,5:55,1.0,10.0,PHI 40,13.0,28.0,Miles Sanders left tackle for 6 yards (tackle by Alex Highsmith),1.6,1.86,8.0,2022,112
+3.0,5:18,2.0,4.0,PHI 46,13.0,28.0,Jalen Hurts pass incomplete short middle intended for A.J. Brown,1.86,1.16,8.0,2022,112
+3.0,5:14,3.0,4.0,PHI 46,13.0,28.0,Jalen Hurts pass complete short right to Dallas Goedert for 7 yards (tackle by Robert Spillane and Myles Jack),1.16,2.46,8.0,2022,112
+3.0,4:42,1.0,10.0,PIT 47,13.0,28.0,Jalen Hurts pass complete to A.J. Brown for no gain (no play),2.46,2.13,8.0,2022,112
+3.0,4:12,1.0,15.0,PHI 48,13.0,28.0,Miles Sanders right tackle for 6 yards (tackle by Terrell Edmunds and Alex Highsmith),2.13,2.05,8.0,2022,112
+3.0,3:25,2.0,9.0,PIT 46,13.0,28.0,"Jalen Hurts pass incomplete intended for A.J. Brown. Penalty on Jason Kelce: Offensive Holding, 10 yards (accepted) (no play)",2.05,0.7,8.0,2022,112
+3.0,3:25,2.0,19.0,PHI 44,13.0,28.0,Jalen Hurts sacked by Cameron Heyward for -5 yards,0.7,-0.62,8.0,2022,112
+3.0,2:43,3.0,24.0,PHI 39,13.0,28.0,Miles Sanders right end for 14 yards (tackle by Arthur Maulet),-0.62,0.13,8.0,2022,112
+3.0,2:00,4.0,10.0,PIT 47,13.0,28.0,Arryn Siposs punts 46 yards downed by Zech McPhearson,0.13,0.38,8.0,2022,112
+3.0,1:47,1.0,10.0,PIT 1,13.0,28.0,Najee Harris up the middle for 3 yards (tackle by Javon Hargrave and Fletcher Cox),-0.38,-0.56,8.0,2022,112
+3.0,1:17,2.0,7.0,PIT 4,13.0,28.0,Kenny Pickett pass complete short left to Diontae Johnson for 6 yards (tackle by C.J. Gardner-Johnson),-0.56,-0.37,8.0,2022,112
+3.0,0:51,3.0,1.0,PIT 10,13.0,28.0,"Kenny Pickett pass incomplete intended for Diontae Johnson. Penalty on James Bradberry: Defensive Pass Interference, 14 yards (accepted) (no play)",-0.37,0.54,8.0,2022,112
+3.0,0:48,1.0,10.0,PIT 24,13.0,28.0,Najee Harris up the middle for 18 yards (tackle by Marcus Epps and Kyzir White),0.54,1.73,8.0,2022,112
+3.0,0:09,1.0,10.0,PIT 42,13.0,28.0,Kenny Pickett pass incomplete short right intended for Chase Claypool (defended by Milton Williams),1.73,1.19,8.0,2022,112
+3.0,0:04,2.0,10.0,PIT 42,13.0,28.0,Kenny Pickett pass complete short left to Pat Freiermuth for 10 yards (tackle by C.J. Gardner-Johnson),1.19,2.39,8.0,2022,112
+4.0,15:00,1.0,10.0,PHI 48,13.0,28.0,Jaylen Warren right guard for 1 yard (tackle by Javon Hargrave),2.39,1.98,8.0,2022,112
+4.0,14:26,2.0,9.0,PHI 47,13.0,28.0,Steven Sims left end for 11 yards (tackle by C.J. Gardner-Johnson and Kyzir White),1.98,3.18,8.0,2022,112
+4.0,13:41,1.0,10.0,PHI 36,13.0,28.0,"Kenny Pickett sacked by Javon Hargrave for no gain. Kenny Pickett fumbles (forced by Javon Hargrave), recovered by Avonte Maddox at PHI-36 and returned for 10 yards (tackle by Kenny Pickett)",3.18,-1.99,8.0,2022,112
+4.0,13:30,1.0,10.0,PHI 46,13.0,28.0,Jalen Hurts pass complete short middle to A.J. Brown for 43 yards (tackle by Minkah Fitzpatrick),1.99,4.84,8.0,2022,112
+4.0,12:41,1.0,10.0,PIT 11,13.0,34.0,"Miles Sanders left end for 11 yards, touchdown",4.84,7.0,8.0,2022,112
+4.0,12:35,,,PIT 15,13.0,35.0,Jake Elliott kicks extra point good,0.0,0.0,8.0,2022,112
+4.0,12:35,,,PHI 35,13.0,35.0,"Jake Elliott kicks off 65 yards, touchback.",0.0,0.61,8.0,2022,112
+4.0,12:35,1.0,10.0,PIT 25,13.0,35.0,"Penalty on Robert Quinn: Neutral Zone Infraction, 5 yards (accepted) (no play)",0.61,1.34,8.0,2022,112
+4.0,12:35,1.0,5.0,PIT 30,13.0,35.0,Kenny Pickett pass complete short left to Najee Harris for 2 yards (tackle by T.J. Edwards),1.34,1.01,8.0,2022,112
+4.0,12:08,2.0,3.0,PIT 32,13.0,35.0,Najee Harris right tackle for 9 yards (tackle by Darius Slay and T.J. Edwards),1.01,1.66,8.0,2022,112
+4.0,11:40,1.0,10.0,PIT 41,13.0,35.0,Kenny Pickett pass complete short right to Najee Harris for 6 yards (tackle by T.J. Edwards and Kyzir White),1.66,1.93,8.0,2022,112
+4.0,11:10,2.0,4.0,PIT 47,13.0,35.0,Kenny Pickett scrambles up the middle for 8 yards (tackle by T.J. Edwards),1.93,2.59,8.0,2022,112
+4.0,10:39,1.0,10.0,PHI 45,13.0,35.0,Kenny Pickett pass incomplete short middle intended for Steven Sims,2.59,2.04,8.0,2022,112
+4.0,10:35,2.0,10.0,PHI 45,13.0,35.0,Jaylen Warren up the middle for 5 yards (tackle by Avonte Maddox),2.04,2.01,8.0,2022,112
+4.0,10:08,3.0,5.0,PHI 40,13.0,35.0,Kenny Pickett sacked by C.J. Gardner-Johnson for -11 yards,2.01,-0.13,8.0,2022,112
+4.0,9:31,4.0,16.0,PIT 49,13.0,35.0,"Pressley Harvin punts 41 yards, fair catch by Britain Covey at PHI-10",-0.13,0.38,8.0,2022,112
+4.0,9:24,1.0,10.0,PHI 10,13.0,35.0,Boston Scott up the middle for 1 yard (tackle by Alex Highsmith and Isaiahh Loudermilk),-0.38,-0.71,8.0,2022,112
+4.0,8:34,2.0,9.0,PHI 11,13.0,35.0,"Boston Scott for 4 yards. Penalty on Landon Dickerson: Offensive Holding, 5 yards (accepted) (no play)",-0.71,-1.07,8.0,2022,112
+4.0,8:11,2.0,14.0,PHI 6,13.0,35.0,Gardner Minshew pass incomplete short right intended for Jack Stoll,-1.07,-1.89,8.0,2022,112
+4.0,8:07,3.0,14.0,PHI 6,13.0,35.0,Boston Scott left tackle for 1 yard (tackle by Cameron Heyward and Malik Reed),-1.89,-2.49,8.0,2022,112
+4.0,7:21,4.0,13.0,PHI 7,13.0,35.0,Arryn Siposs punts 44 yards,-2.49,-2.19,8.0,2022,112
+4.0,7:06,1.0,10.0,PIT 49,13.0,35.0,Kenny Pickett pass complete short right to Jaylen Warren for 15 yards (tackle by Marcus Epps),2.19,3.18,8.0,2022,112
+4.0,6:40,1.0,10.0,PHI 36,13.0,35.0,Kenny Pickett sacked by Marlon Tuipulotu for -6 yards,3.18,1.83,8.0,2022,112
+4.0,6:01,2.0,16.0,PHI 42,13.0,35.0,Jaylen Warren right end for 19 yards (tackle by Marcus Epps and Kyron Johnson),1.83,4.04,8.0,2022,112
+4.0,5:24,1.0,10.0,PHI 23,13.0,35.0,Jaylen Warren up the middle for 3 yards (tackle by Marlon Tuipulotu),4.04,3.9,8.0,2022,112
+4.0,4:57,2.0,7.0,PHI 20,13.0,35.0,Kenny Pickett pass complete short middle to Jaylen Warren for no gain (tackle by Kyzir White),3.9,3.2,8.0,2022,112
+4.0,4:27,3.0,7.0,PHI 20,13.0,35.0,Kenny Pickett pass deep middle (defended by T.J. Edwards) intended for Pat Freiermuth is intercepted by C.J. Gardner-Johnson in end zone and returned for 14 yards (tackle by Jaylen Warren),3.2,0.35,8.0,2022,112
+4.0,4:18,1.0,10.0,PHI 12,13.0,35.0,Boston Scott left end for 7 yards (tackle by Myles Jack),-0.35,0.1,8.0,2022,112
+4.0,3:36,2.0,3.0,PHI 19,13.0,35.0,Boston Scott left end for no gain (tackle by Cameron Sutton),0.1,-0.6,8.0,2022,112
+4.0,3:29,,,,,,Timeout #1 by Pittsburgh Steelers,,,8.0,2022,112
+4.0,3:29,3.0,3.0,PHI 19,13.0,35.0,Gardner Minshew pass complete short right to Zach Pascal for 23 yards (tackle by Robert Spillane),-0.6,1.73,8.0,2022,112
+4.0,2:43,1.0,10.0,PHI 42,13.0,35.0,Boston Scott right tackle for 2 yards (tackle by James Pierre),1.73,1.46,8.0,2022,112
+4.0,2:00,2.0,8.0,PHI 44,13.0,35.0,Boston Scott up the middle for 2 yards (tackle by Isaiahh Loudermilk and Devin Bush),1.46,0.96,8.0,2022,112
+4.0,1:16,3.0,7.0,PHI 46,13.0,35.0,Boston Scott left end for 8 yards (tackle by Robert Spillane),0.96,2.52,8.0,2022,112
+4.0,0:34,1.0,10.0,PIT 46,13.0,35.0,Gardner Minshew kneels for -1 yards,2.52,1.84,8.0,2022,112

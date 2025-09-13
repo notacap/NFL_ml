@@ -1,0 +1,96 @@
+[
+  {
+    "session_id": "schedule_20250812_193956",
+    "start_time": "2025-08-12T19:39:56.087525",
+    "scraper_name": "schedule",
+    "failed_tables": [],
+    "successful_tables": [
+      {
+        "table_name": "schedule.csv",
+        "csv_path": "C:\\Users\\nocap\\Desktop\\code\\NFL_ml\\web_scrape\\scraped_data\\2022\\schedule\\schedule_20250812_194027.csv",
+        "timestamp": "2025-08-12T19:40:27.377530",
+        "url": null
+      }
+    ],
+    "end_time": "2025-08-12T19:40:27.377536"
+  },
+  {
+    "session_id": "schedule_20250812_194043",
+    "start_time": "2025-08-12T19:40:43.869694",
+    "scraper_name": "schedule",
+    "failed_tables": [],
+    "successful_tables": [
+      {
+        "table_name": "schedule.csv",
+        "csv_path": "C:\\Users\\nocap\\Desktop\\code\\NFL_ml\\web_scrape\\scraped_data\\1950\\schedule\\schedule_20250812_194104.csv",
+        "timestamp": "2025-08-12T19:41:04.359692",
+        "url": null
+      }
+    ],
+    "end_time": "2025-08-12T19:41:04.359697"
+  },
+  {
+    "session_id": "test_logging_20250812_194123",
+    "start_time": "2025-08-12T19:41:23.772980",
+    "scraper_name": "test_logging",
+    "failed_tables": [
+      {
+        "table_name": "nonexistent_table",
+        "error_reason": "Timeout waiting for table to load",
+        "timestamp": "2025-08-12T19:41:30.835881",
+        "url": "https://www.pro-football-reference.com/invalid/page.htm"
+      },
+      {
+        "table_name": "empty_test.csv",
+        "error_reason": "No data scraped",
+        "timestamp": "2025-08-12T19:41:33.012327",
+        "url": null
+      },
+      {
+        "table_name": "manual_test_table",
+        "error_reason": "Manually logged test failure",
+        "timestamp": "2025-08-12T19:41:33.014631",
+        "url": "http://test.url"
+      }
+    ],
+    "successful_tables": [
+      {
+        "table_name": "success_test.csv",
+        "csv_path": "C:\\Users\\nocap\\Desktop\\code\\NFL_ml\\web_scrape\\scraped_data\\2024\\test\\success_test_20250812_194133.csv",
+        "timestamp": "2025-08-12T19:41:33.014624",
+        "url": null
+      }
+    ],
+    "end_time": "2025-08-12T19:41:33.014633"
+  },
+  {
+    "session_id": "plyr_receiving_20250812_195613",
+    "start_time": "2025-08-12T19:56:13.510935",
+    "scraper_name": "plyr_receiving",
+    "failed_tables": [],
+    "successful_tables": [
+      {
+        "table_name": "plyr_receiving.csv",
+        "csv_path": "C:\\Users\\nocap\\Desktop\\code\\NFL_ml\\web_scrape\\scraped_data\\2024\\plyr_receiving\\plyr_receiving_20250812_195657.csv",
+        "timestamp": "2025-08-12T19:56:57.696252",
+        "url": null
+      }
+    ],
+    "end_time": "2025-08-12T19:56:57.696259"
+  },
+  {
+    "session_id": "plyr_def_20250812_195702",
+    "start_time": "2025-08-12T19:57:02.024889",
+    "scraper_name": "plyr_def",
+    "failed_tables": [],
+    "successful_tables": [
+      {
+        "table_name": "plyr_def.csv",
+        "csv_path": "C:\\Users\\nocap\\Desktop\\code\\NFL_ml\\web_scrape\\scraped_data\\2024\\plyr_def\\plyr_def_20250812_195852.csv",
+        "timestamp": "2025-08-12T19:58:52.151036",
+        "url": null
+      }
+    ],
+    "end_time": "2025-08-12T19:58:52.151042"
+  }
+]

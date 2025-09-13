@@ -1,0 +1,164 @@
+Quarter,Time,Down,ToGo,Location,CHI,DET,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Lions won the coin toss and deferred, Bears to receive the opening kickoff.",,,17.0,2022,244
+1.0,15:00,,,DET 35,0.0,0.0,"Jack Fox kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,244
+1.0,15:00,1.0,10.0,CHI 25,0.0,0.0,David Montgomery up the middle for 1 yard (tackle by Alex Anzalone),0.61,0.2,17.0,2022,244
+1.0,14:19,2.0,9.0,CHI 26,0.0,0.0,Justin Fields pass incomplete deep left intended for Velus Jones,0.2,-0.49,17.0,2022,244
+1.0,13:35,3.0,9.0,CHI 26,0.0,0.0,Justin Fields scrambles left end for 8 yards (tackle by Josh Paschal),-0.49,-1.11,17.0,2022,244
+1.0,15:00,4.0,1.0,CHI 34,0.0,0.0,"Penalty on Jerry Jacobs: Defensive Holding, 5 yards (accepted) (no play)",-1.11,1.53,17.0,2022,244
+1.0,13:17,1.0,10.0,CHI 39,0.0,0.0,Justin Fields right end for 5 yards (tackle by Aidan Hutchinson),1.53,1.66,17.0,2022,244
+1.0,13:08,2.0,5.0,CHI 44,0.0,0.0,Justin Fields pass complete short left to David Montgomery for 4 yards (tackle by Jerry Jacobs and Alex Anzalone),1.66,1.49,17.0,2022,244
+1.0,12:30,3.0,1.0,CHI 48,0.0,0.0,Justin Fields left end for 31 yards (tackle by Kerby Joseph),1.49,4.17,17.0,2022,244
+1.0,11:43,1.0,10.0,DET 21,0.0,0.0,Justin Fields pass incomplete deep right intended for Byron Pringle,4.17,3.63,17.0,2022,244
+1.0,11:36,2.0,10.0,DET 21,0.0,0.0,Khalil Herbert right end for 8 yards (tackle by Malcolm Rodriguez and Romeo Okwara),3.63,4.24,17.0,2022,244
+1.0,11:00,3.0,2.0,DET 13,6.0,0.0,"Justin Fields pass complete short right to Cole Kmet for 13 yards, touchdown",4.24,7.0,17.0,2022,244
+1.0,10:54,,,DET 15,7.0,0.0,Cairo Santos kicks extra point good,0.0,0.0,17.0,2022,244
+1.0,10:54,,,CHI 35,7.0,0.0,"Trenton Gill kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,244
+1.0,10:54,1.0,10.0,DET 25,7.0,0.0,Jared Goff pass complete short middle to Brock Wright for 2 yards (tackle by Joe Thomas),0.61,0.33,17.0,2022,244
+1.0,10:19,2.0,8.0,DET 27,7.0,0.0,Jamaal Williams up the middle for 4 yards (tackle by Joe Thomas and Angelo Blackson),0.33,0.17,17.0,2022,244
+1.0,9:36,3.0,4.0,DET 31,7.0,0.0,Jared Goff pass complete short left to Amon-Ra St. Brown for 28 yards (tackle by Josh Blackwell),0.17,2.85,17.0,2022,244
+1.0,8:53,1.0,10.0,CHI 41,7.0,0.0,Jared Goff pass incomplete short right intended for Jameson Williams,2.85,2.31,17.0,2022,244
+1.0,8:46,2.0,10.0,CHI 41,7.0,0.0,"Jamaal Williams left end for 1 yard (tackle by DeAndre Houston-Carson). Penalty on Frank Ragnow: Offensive Holding, 10 yards (accepted)",2.31,1.09,17.0,2022,244
+1.0,8:21,2.0,19.0,DET 50,7.0,0.0,Jared Goff pass complete short left to Kalif Raymond for 15 yards (tackle by Jaylon Jones),1.09,2.41,17.0,2022,244
+1.0,7:45,3.0,4.0,CHI 35,7.0,0.0,Jared Goff pass incomplete short middle intended for DJ Chark,2.41,0.98,17.0,2022,244
+1.0,7:38,4.0,4.0,CHI 35,7.0,0.0,"Jared Goff pass incomplete deep middle intended for DJ Chark. Penalty on Kyler Gordon: Defensive Pass Interference, 34 yards (accepted) (no play)",0.98,6.97,17.0,2022,244
+1.0,7:29,1.0,1.0,CHI 1,7.0,0.0,Jamaal Williams left tackle for -1 yards (tackle by Matthew Adams and DeMarquis Gates),6.97,5.72,17.0,2022,244
+1.0,6:48,2.0,2.0,CHI 2,7.0,6.0,"Jared Goff pass complete short right to Brock Wright for 2 yards, touchdown",5.72,7.0,17.0,2022,244
+1.0,6:45,,,CHI 15,7.0,7.0,Michael Badgley kicks extra point good,0.0,0.0,17.0,2022,244
+1.0,6:45,,,DET 35,7.0,7.0,"Jack Fox kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,244
+1.0,6:45,1.0,10.0,CHI 25,7.0,7.0,Justin Fields sacked by John Cominsky for -3 yards,0.61,-0.34,17.0,2022,244
+1.0,6:01,2.0,13.0,CHI 22,7.0,7.0,David Montgomery up the middle for 9 yards (tackle by Alex Anzalone and Derrick Barnes),-0.34,0.17,17.0,2022,244
+1.0,5:21,3.0,4.0,CHI 31,7.0,7.0,Justin Fields scrambles for 60 yards (tackle by Kerby Joseph),0.17,5.14,17.0,2022,244
+1.0,4:28,1.0,9.0,DET 9,7.0,7.0,David Montgomery right tackle for 6 yards (tackle by Derrick Barnes and Alex Anzalone),5.14,5.53,17.0,2022,244
+1.0,3:44,2.0,3.0,DET 3,7.0,7.0,Justin Fields right end for 1 yard (tackle by Aidan Hutchinson and Alim McNeill),5.53,4.95,17.0,2022,244
+1.0,3:06,3.0,2.0,DET 2,7.0,7.0,Justin Fields sacked by and Ifeatu Melifonwu for -3 yards and Aidan Hutchinson for -3 yards,4.95,3.01,17.0,2022,244
+1.0,2:28,4.0,5.0,DET 5,10.0,7.0,Cairo Santos 23 yard field goal good,3.01,3.0,17.0,2022,244
+1.0,2:26,,,CHI 35,10.0,7.0,"Trenton Gill kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,244
+1.0,2:26,1.0,10.0,DET 25,10.0,7.0,Jamaal Williams up the middle for 14 yards (tackle by Josh Blackwell),0.61,1.53,17.0,2022,244
+1.0,1:54,1.0,10.0,DET 39,10.0,7.0,Jared Goff pass complete short right to D'Andre Swift for 4 yards (tackle by Jaquan Brisker),1.53,1.53,17.0,2022,244
+1.0,1:23,2.0,6.0,DET 43,10.0,7.0,Jared Goff pass complete deep left to DJ Chark for 28 yards (tackle by DeAndre Houston-Carson and Matthew Adams),1.53,3.64,17.0,2022,244
+1.0,0:39,1.0,10.0,CHI 29,10.0,7.0,Jamaal Williams right end for 7 yards (tackle by Matthew Adams and Joe Thomas),3.64,4.05,17.0,2022,244
+2.0,15:00,2.0,3.0,CHI 22,10.0,7.0,Jared Goff pass complete to Jason Cabinda for 5 yards (tackle by Matthew Adams and Kyler Gordon),4.05,4.44,17.0,2022,244
+2.0,14:32,1.0,10.0,CHI 17,10.0,13.0,"D'Andre Swift left end for 17 yards, touchdown",4.44,7.0,17.0,2022,244
+2.0,14:24,,,CHI 15,10.0,14.0,Michael Badgley kicks extra point good,0.0,0.0,17.0,2022,244
+2.0,14:24,,,DET 35,10.0,14.0,"Jack Fox kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,244
+2.0,14:24,1.0,10.0,CHI 25,10.0,14.0,Khalil Herbert up the middle for 8 yards (tackle by Alex Anzalone),0.61,1.14,17.0,2022,244
+2.0,13:50,2.0,2.0,CHI 33,10.0,14.0,Velus Jones right end for 13 yards (tackle by Malcolm Rodriguez),1.14,1.99,17.0,2022,244
+2.0,13:15,1.0,10.0,CHI 46,10.0,14.0,Khalil Herbert left end for no gain (tackle by Alex Anzalone),1.99,1.45,17.0,2022,244
+2.0,12:34,2.0,10.0,CHI 46,10.0,14.0,Justin Fields pass incomplete short left intended for Cole Kmet (defended by Ifeatu Melifonwu),1.45,0.76,17.0,2022,244
+2.0,12:30,3.0,10.0,CHI 46,10.0,14.0,Justin Fields pass incomplete deep right intended for Byron Pringle,0.76,-0.32,17.0,2022,244
+2.0,12:25,4.0,10.0,CHI 46,10.0,14.0,"Trenton Gill punts 41 yards, fair catch by Kalif Raymond at DET-13",-0.32,0.32,17.0,2022,244
+2.0,12:18,1.0,10.0,DET 13,10.0,14.0,Jared Goff pass incomplete short left intended for Jameson Williams,-0.32,-0.77,17.0,2022,244
+2.0,12:14,2.0,10.0,DET 13,10.0,14.0,Jared Goff pass incomplete short middle intended for Amon-Ra St. Brown,-0.77,-1.42,17.0,2022,244
+2.0,12:11,3.0,10.0,DET 13,10.0,14.0,Jared Goff pass complete short right to Shane Zylstra for 7 yards (tackle by Kyler Gordon),-1.42,-2.03,17.0,2022,244
+2.0,11:26,4.0,3.0,DET 20,10.0,14.0,"Jack Fox punts 60 yards, returned by Dante Pettis for 10 yards (tackle by Josh Woods)",-2.03,-0.94,17.0,2022,244
+2.0,11:14,1.0,10.0,CHI 30,10.0,14.0,Justin Fields sacked by Josh Paschal for -12 yards,0.94,-1.33,17.0,2022,244
+2.0,10:30,2.0,22.0,CHI 18,10.0,14.0,Justin Fields pass complete short right to N'Keal Harry for 16 yards (tackle by Ifeatu Melifonwu),-1.33,0.23,17.0,2022,244
+2.0,9:48,3.0,6.0,CHI 34,10.0,14.0,Justin Fields sacked by James Houston for -8 yards,0.23,-1.63,17.0,2022,244
+2.0,9:04,4.0,14.0,CHI 26,10.0,14.0,"Trenton Gill punts 43 yards, returned by Kalif Raymond for 6 yards (tackle by Josh Blackwell)",-1.63,-1.4,17.0,2022,244
+2.0,9:20,1.0,10.0,DET 37,10.0,14.0,Jamaal Williams right tackle for 7 yards (tackle by Josh Blackwell and Joe Thomas),1.4,1.8,17.0,2022,244
+2.0,8:51,2.0,3.0,DET 44,10.0,14.0,Jamaal Williams for 7 yards (tackle by Justin Jones and Joe Thomas),1.8,2.32,17.0,2022,244
+2.0,8:19,1.0,10.0,CHI 49,10.0,14.0,Jared Goff pass complete short left to Jamaal Williams for 13 yards (tackle by Jaylon Jones),2.32,3.18,17.0,2022,244
+2.0,7:36,1.0,10.0,CHI 36,10.0,14.0,D'Andre Swift left tackle for 1 yard (tackle by Matthew Adams),3.18,2.77,17.0,2022,244
+2.0,6:58,2.0,9.0,CHI 35,10.0,14.0,Jared Goff pass complete short left to D'Andre Swift for 8 yards (tackle by Jaquan Brisker and Nicholas Morrow),2.77,3.14,17.0,2022,244
+2.0,6:21,3.0,1.0,CHI 27,10.0,14.0,Jared Goff up the middle for 2 yards (tackle by Angelo Blackson),3.14,3.91,17.0,2022,244
+2.0,5:43,1.0,10.0,CHI 25,10.0,14.0,Jamaal Williams left tackle for 7 yards (tackle by Nicholas Morrow and Joe Thomas),3.91,4.37,17.0,2022,244
+2.0,5:06,2.0,3.0,CHI 18,10.0,14.0,Jared Goff pass complete short right to Kalif Raymond for 9 yards (tackle by Joe Thomas and Mike Pennel),4.37,5.14,17.0,2022,244
+2.0,4:23,1.0,9.0,CHI 9,10.0,20.0,"Jared Goff pass complete short left to Brock Wright for 9 yards, touchdown",5.14,7.0,17.0,2022,244
+2.0,4:16,,,CHI 15,10.0,21.0,Michael Badgley kicks extra point good,0.0,0.0,17.0,2022,244
+2.0,4:16,,,DET 35,10.0,21.0,"Jack Fox kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,244
+2.0,4:16,1.0,10.0,CHI 25,10.0,21.0,Justin Fields left end for 8 yards (tackle by Jeff Okudah and Aidan Hutchinson),0.61,1.14,17.0,2022,244
+2.0,3:43,2.0,2.0,CHI 33,10.0,21.0,Khalil Herbert right end for 15 yards (tackle by Kerby Joseph),1.14,2.13,17.0,2022,244
+2.0,3:06,1.0,10.0,CHI 48,10.0,21.0,"Justin Fields sacked by James Houston for no gain. Justin Fields fumbles (forced by James Houston), recovered by Aidan Hutchinson at 50",2.13,-2.26,17.0,2022,244
+2.0,2:50,1.0,10.0,DET 50,10.0,21.0,D'Andre Swift right end for -1 yards (tackle by Nicholas Morrow and Joe Thomas),2.26,1.58,17.0,2022,244
+2.0,2:18,2.0,11.0,DET 49,10.0,21.0,Jared Goff pass complete short left to Amon-Ra St. Brown for 12 yards (tackle by Jaylon Jones),1.58,2.98,17.0,2022,244
+2.0,2:00,1.0,10.0,CHI 39,10.0,21.0,Jared Goff pass complete short middle to Amon-Ra St. Brown for 11 yards (tackle by Joe Thomas),2.98,3.71,17.0,2022,244
+2.0,1:22,1.0,10.0,CHI 28,10.0,21.0,Jared Goff pass complete short left to James Mitchell for 15 yards (tackle by Elijah Hicks),3.71,4.71,17.0,2022,244
+2.0,1:13,,,,,,Timeout #1 by Chicago Bears,,,17.0,2022,244
+2.0,1:13,1.0,10.0,CHI 13,10.0,21.0,D'Andre Swift right tackle for 4 yards (tackle by DeAndre Houston-Carson),4.71,4.77,17.0,2022,244
+2.0,1:09,,,,,,Timeout #2 by Chicago Bears,,,17.0,2022,244
+2.0,1:09,2.0,6.0,CHI 9,10.0,21.0,Jamaal Williams up the middle for no gain (tackle by Jaquan Brisker and Josh Blackwell),4.77,3.88,17.0,2022,244
+2.0,1:05,,,,,,Timeout #3 by Chicago Bears,,,17.0,2022,244
+2.0,1:05,3.0,6.0,CHI 9,10.0,21.0,Jared Goff pass complete short right to Josh Reynolds for 5 yards (tackle by Kyler Gordon),3.88,3.04,17.0,2022,244
+2.0,0:20,,,,,,Timeout #1 by Detroit Lions,,,17.0,2022,244
+2.0,0:20,4.0,1.0,CHI 4,10.0,24.0,Michael Badgley 23 yard field goal good,3.04,3.0,17.0,2022,244
+2.0,0:17,,,DET 35,10.0,24.0,"Jack Fox kicks off 73 yards, returned by Velus Jones for 63 yards (tackle by Kerby Joseph)",0.0,2.59,17.0,2022,244
+2.0,0:07,1.0,10.0,DET 45,10.0,24.0,Justin Fields pass short right intended for Byron Pringle is intercepted by Aidan Hutchinson at DET-35 and returned for 5 yards (tackle by Braxton Jones),2.59,2.92,17.0,2022,244
+3.0,15:00,,,CHI 35,10.0,24.0,"Trenton Gill kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,244
+3.0,15:00,1.0,10.0,DET 25,10.0,24.0,Jamaal Williams left tackle for 1 yard (tackle by Mike Pennel and Justin Jones),0.61,0.2,17.0,2022,244
+3.0,14:25,2.0,9.0,DET 26,10.0,24.0,Jared Goff sacked by Trevis Gipson for -9 yards,0.2,-1.93,17.0,2022,244
+3.0,13:51,3.0,18.0,DET 17,10.0,24.0,D'Andre Swift up the middle for 35 yards (tackle by Jaquan Brisker),-1.93,2.39,17.0,2022,244
+3.0,12:59,1.0,10.0,CHI 48,10.0,24.0,Jameson Williams right end for 40 yards (tackle by DeAndre Houston-Carson and Jaquan Brisker),2.39,5.37,17.0,2022,244
+3.0,12:24,1.0,8.0,CHI 8,10.0,24.0,D'Andre Swift right tackle for 6 yards (tackle by Jaquan Brisker),5.37,5.72,17.0,2022,244
+3.0,11:42,2.0,2.0,CHI 2,10.0,30.0,"Jamaal Williams left tackle for 2 yards, touchdown",5.72,7.0,17.0,2022,244
+3.0,11:38,,,CHI 15,10.0,31.0,Michael Badgley kicks extra point good,0.0,0.0,17.0,2022,244
+3.0,11:38,,,DET 35,10.0,31.0,"Jack Fox kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,244
+3.0,11:38,1.0,10.0,CHI 25,10.0,31.0,David Montgomery up the middle for 4 yards (tackle by Alim McNeill and Isaiah Buggs),0.61,0.6,17.0,2022,244
+3.0,10:57,2.0,6.0,CHI 29,10.0,31.0,Justin Fields pass incomplete short right,0.6,-0.1,17.0,2022,244
+3.0,10:51,3.0,6.0,CHI 29,10.0,31.0,Justin Fields pass incomplete short left intended for Dante Pettis (defended by Kerby Joseph),-0.1,-1.44,17.0,2022,244
+3.0,10:44,4.0,6.0,CHI 29,10.0,31.0,"Trenton Gill punts 56 yards, returned by Kalif Raymond for no gain (tackle by Joe Thomas and Patrick Scales). Penalty on Amani Oruwariye: Defensive Holding, 7 yards (accepted)",-1.44,0.38,17.0,2022,244
+3.0,10:32,1.0,10.0,DET 8,10.0,31.0,Jared Goff pass complete deep right to DJ Chark for 28 yards (tackle by Kyler Gordon),-0.38,1.33,17.0,2022,244
+3.0,9:53,1.0,10.0,DET 36,10.0,31.0,Jared Goff pass complete short middle to Amon-Ra St. Brown for 11 yards (tackle by Kyler Gordon),1.33,2.06,17.0,2022,244
+3.0,9:15,1.0,10.0,DET 47,10.0,31.0,Jamaal Williams up the middle for 6 yards (tackle by Justin Jones and Harrison Hand),2.06,2.33,17.0,2022,244
+3.0,8:40,2.0,4.0,CHI 47,10.0,31.0,D'Andre Swift right end for 9 yards (tackle by Joe Thomas),2.33,3.05,17.0,2022,244
+3.0,8:04,1.0,10.0,CHI 38,10.0,31.0,Jared Goff pass complete deep left to Kalif Raymond for 16 yards (tackle by Kyler Gordon),3.05,4.11,17.0,2022,244
+3.0,7:25,1.0,10.0,CHI 22,10.0,31.0,Jamaal Williams right end for 1 yard (tackle by Angelo Blackson),4.11,3.7,17.0,2022,244
+3.0,6:44,2.0,9.0,CHI 21,10.0,37.0,"Jared Goff pass complete short right to D'Andre Swift for 21 yards, touchdown",3.7,7.0,17.0,2022,244
+3.0,6:36,,,CHI 15,10.0,38.0,Michael Badgley kicks extra point good,0.0,0.0,17.0,2022,244
+3.0,6:36,,,DET 35,10.0,38.0,"Jack Fox kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,244
+3.0,6:36,1.0,10.0,CHI 25,10.0,38.0,Justin Fields left tackle for 4 yards (tackle by Benito Jones and Will Harris),0.61,0.6,17.0,2022,244
+3.0,5:56,2.0,6.0,CHI 29,10.0,38.0,"Justin Fields pass incomplete short right intended for David Montgomery (defended by Benito Jones) DET challenged the fumble ruling, and the play was upheld.",0.6,-0.1,17.0,2022,244
+3.0,5:56,3.0,6.0,CHI 29,10.0,38.0,Justin Fields scrambles right end for 1 yard (tackle by Jerry Jacobs),-0.1,-1.37,17.0,2022,244
+3.0,5:09,4.0,5.0,CHI 30,10.0,38.0,"Trenton Gill punts 51 yards, fair catch by Kalif Raymond at DET-19",-1.37,-0.15,17.0,2022,244
+3.0,5:01,1.0,10.0,DET 19,10.0,38.0,Jamaal Williams left tackle for 4 yards (tackle by Justin Jones),0.15,0.21,17.0,2022,244
+3.0,4:24,2.0,6.0,DET 23,10.0,38.0,Jamaal Williams up the middle for 4 yards (tackle by Kyler Gordon),0.21,-0.03,17.0,2022,244
+3.0,3:45,3.0,2.0,DET 27,10.0,38.0,Jared Goff pass incomplete short left intended for Shane Zylstra,-0.03,-1.57,17.0,2022,244
+3.0,3:38,4.0,2.0,DET 27,10.0,38.0,Jack Fox punts 46 yards downed by Brady Breeze,-1.57,-0.74,17.0,2022,244
+3.0,3:28,1.0,10.0,CHI 27,10.0,38.0,Justin Fields sacked by James Houston for -9 yards,0.74,-1.12,17.0,2022,244
+3.0,2:41,2.0,19.0,CHI 18,10.0,38.0,Khalil Herbert left tackle for no gain (tackle by Alim McNeill),-1.12,-1.88,17.0,2022,244
+3.0,2:11,3.0,19.0,CHI 18,10.0,38.0,Justin Fields pass complete short right to Cole Kmet for 14 yards (tackle by Alex Anzalone and Ifeatu Melifonwu),-1.88,-1.24,17.0,2022,244
+3.0,1:33,4.0,5.0,CHI 32,10.0,38.0,"Trenton Gill punts 37 yards, fair catch by Kalif Raymond at DET-31",-1.24,-1.0,17.0,2022,244
+3.0,1:27,1.0,10.0,DET 31,10.0,38.0,Jamaal Williams right end for 8 yards (tackle by Jaquan Brisker),1.0,1.54,17.0,2022,244
+3.0,0:41,2.0,2.0,DET 39,10.0,38.0,Jamaal Williams left end for 4 yards (tackle by Harrison Hand and Matthew Adams),1.54,1.8,17.0,2022,244
+4.0,15:00,1.0,10.0,DET 43,10.0,38.0,D'Andre Swift right end for no gain (tackle by Nicholas Morrow and Matthew Adams),1.8,1.25,17.0,2022,244
+4.0,14:26,2.0,10.0,DET 43,10.0,38.0,Jamaal Williams up the middle for 9 yards (tackle by Jaquan Brisker),1.25,1.75,17.0,2022,244
+4.0,13:52,3.0,1.0,CHI 48,10.0,38.0,Kalif Raymond right end for 4 yards (tackle by Al-Quadin Muhammad),1.75,2.65,17.0,2022,244
+4.0,13:09,1.0,10.0,CHI 44,10.0,38.0,Jared Goff pass incomplete short middle intended for Jameson Williams,2.65,2.11,17.0,2022,244
+4.0,13:03,2.0,10.0,CHI 44,10.0,38.0,Jamaal Williams up the middle for -1 yards (tackle by Al-Quadin Muhammad and Justin Jones),2.11,1.29,17.0,2022,244
+4.0,12:26,3.0,11.0,CHI 45,10.0,38.0,"Jared Goff pass complete short left to D'Andre Swift for 6 yards (tackle by Joe Thomas). Penalty on Shane Zylstra: Offensive Holding, 10 yards (accepted)",1.29,0.76,17.0,2022,244
+4.0,12:18,3.0,15.0,CHI 49,10.0,38.0,Jared Goff pass incomplete short left intended for DJ Chark (defended by Harrison Hand),0.76,0.0,17.0,2022,244
+4.0,11:54,4.0,15.0,CHI 49,10.0,38.0,"Jack Fox punts 44 yards, fair catch by Trestan Ebner at CHI-5",0.0,0.38,17.0,2022,244
+4.0,11:47,1.0,10.0,CHI 5,10.0,38.0,David Montgomery up the middle for 3 yards (tackle by Josh Paschal),-0.38,-0.56,17.0,2022,244
+4.0,11:09,2.0,7.0,CHI 8,10.0,38.0,David Montgomery left tackle for 1 yard (tackle by Romeo Okwara and Jerry Jacobs),-0.56,-0.95,17.0,2022,244
+4.0,10:27,3.0,6.0,CHI 9,10.0,38.0,Justin Fields pass incomplete short left,-0.95,-2.49,17.0,2022,244
+4.0,10:21,4.0,6.0,CHI 9,10.0,38.0,"Trenton Gill punts 38 yards, fair catch by Kalif Raymond at CHI-47",-2.49,-2.46,17.0,2022,244
+4.0,10:13,1.0,10.0,CHI 47,10.0,38.0,D'Andre Swift right end for -1 yards (tackle by Joe Thomas),2.46,1.78,17.0,2022,244
+4.0,9:39,2.0,11.0,CHI 48,10.0,38.0,Jamaal Williams right tackle for 4 yards (tackle by Nicholas Morrow),1.78,1.62,17.0,2022,244
+4.0,8:57,3.0,7.0,CHI 44,10.0,38.0,D'Andre Swift left tackle for 5 yards (tackle by Nicholas Morrow),1.62,0.66,17.0,2022,244
+4.0,8:04,4.0,2.0,CHI 39,10.0,38.0,Jared Goff pass incomplete short left intended for Brock Wright,0.66,-1.6,17.0,2022,244
+4.0,8:00,1.0,10.0,CHI 40,10.0,38.0,Justin Fields left end for 8 yards (tackle by Malcolm Rodriguez),1.6,2.13,17.0,2022,244
+4.0,7:36,2.0,2.0,CHI 48,10.0,38.0,Justin Fields scrambles left end for 6 yards (tackle by Malcolm Rodriguez),2.13,2.52,17.0,2022,244
+4.0,6:57,1.0,10.0,DET 46,10.0,38.0,"Justin Fields sacked by Josh Paschal for -10 yards. Penalty on Braxton Jones: Offensive Holding, 10 yards (declined) . Penalty on Riley Reiff: Offensive Holding, 10 yards (declined)",2.52,0.63,17.0,2022,244
+4.0,6:45,2.0,20.0,CHI 44,10.0,38.0,"Justin Fields pass complete short right to Cole Kmet for no gain (tackle by Mike Hughes). Penalty on Kerby Joseph: Defensive Holding, 5 yards (accepted) (no play)",0.63,2.19,17.0,2022,244
+4.0,6:33,1.0,10.0,CHI 49,10.0,38.0,Justin Fields pass complete short right to Equanimeous St. Brown for 14 yards (tackle by Ifeatu Melifonwu),2.19,3.12,17.0,2022,244
+4.0,6:06,1.0,10.0,DET 37,10.0,38.0,Justin Fields pass incomplete deep left intended for Byron Pringle,3.12,2.57,17.0,2022,244
+4.0,6:00,2.0,10.0,DET 37,10.0,38.0,Justin Fields pass incomplete short left intended for Equanimeous St. Brown (defended by Will Harris),2.57,1.88,17.0,2022,244
+4.0,5:54,3.0,10.0,DET 37,10.0,38.0,Justin Fields pass complete short left to David Montgomery for 8 yards (tackle by John Cominsky),1.88,1.6,17.0,2022,244
+4.0,5:16,4.0,2.0,DET 29,10.0,38.0,Justin Fields pass incomplete short left intended for Ryan Griffin (defended by Ifeatu Melifonwu),1.6,-0.94,17.0,2022,244
+4.0,5:11,,,,,,Timeout #2 by Detroit Lions,,,17.0,2022,244
+4.0,5:11,1.0,10.0,DET 30,10.0,38.0,Jamaal Williams up the middle for 58 yards (tackle by DeAndre Houston-Carson and Harrison Hand),0.94,4.78,17.0,2022,244
+4.0,4:21,1.0,10.0,CHI 12,10.0,38.0,D'Andre Swift left end for 3 yards (tackle by DeAndre Houston-Carson),4.78,4.64,17.0,2022,244
+4.0,3:37,2.0,7.0,CHI 9,10.0,38.0,Jamaal Williams right tackle for -2 yards (tackle by Mike Pennel),4.64,3.29,17.0,2022,244
+4.0,2:50,3.0,9.0,CHI 11,10.0,38.0,"Penalty on Jason Cabinda: False Start, 5 yards (accepted) (no play)",3.29,2.93,17.0,2022,244
+4.0,2:50,3.0,14.0,CHI 16,10.0,38.0,Nate Sudfeld sacked by Justin Jones for -7 yards,2.93,1.93,17.0,2022,244
+4.0,2:45,,,,,,Timeout #1 by Chicago Bears,,,17.0,2022,244
+4.0,2:45,4.0,21.0,CHI 23,10.0,41.0,Michael Badgley 41 yard field goal good,1.93,3.0,17.0,2022,244
+4.0,2:40,,,DET 35,10.0,41.0,"Jack Fox kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,244
+4.0,2:40,1.0,10.0,CHI 25,10.0,41.0,"Justin Fields pass complete to Trestan Ebner for no gain (tackle by Will Harris and Derrick Barnes). Penalty on Riley Reiff: Offensive Holding, 10 yards (accepted) (no play)",0.61,-0.41,17.0,2022,244
+4.0,2:32,1.0,20.0,CHI 15,10.0,41.0,Justin Fields pass complete short left to Equanimeous St. Brown for 6 yards (tackle by Will Harris),-0.41,-0.48,17.0,2022,244
+4.0,2:04,2.0,14.0,CHI 21,10.0,41.0,"Penalty on Braxton Jones: False Start, 5 yards (accepted) (no play)",-0.48,-1.29,17.0,2022,244
+4.0,2:04,2.0,19.0,CHI 16,10.0,41.0,Justin Fields pass incomplete short middle intended for Chase Claypool (defended by Amani Oruwariye),-1.29,-2.14,17.0,2022,244
+4.0,1:58,3.0,19.0,CHI 16,10.0,41.0,Justin Fields pass incomplete short right,-2.14,-2.39,17.0,2022,244
+4.0,1:49,4.0,19.0,CHI 16,10.0,41.0,"Trenton Gill punts 55 yards, returned by Kalif Raymond for 10 yards (tackle by Trevon Wesco)",-2.39,-1.53,17.0,2022,244
+4.0,1:36,1.0,10.0,DET 39,10.0,41.0,Nate Sudfeld kneels for -1 yards,1.53,0.85,17.0,2022,244
+4.0,0:54,2.0,11.0,DET 38,10.0,41.0,Nate Sudfeld kneels for -1 yards,0.85,0.04,17.0,2022,244
+4.0,0:34,3.0,12.0,DET 37,10.0,41.0,Nate Sudfeld kneels for -1 yards,0.04,-0.98,17.0,2022,244

@@ -1,0 +1,159 @@
+Quarter,Time,Down,ToGo,Location,ARI,HOU,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Texans won the coin toss and deferred, Cardinals to receive the opening kickoff.",,,11.0,2023,158
+1.0,15:00,,,HOU 35,0.0,0.0,"Matt Ammendola kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,158
+1.0,15:00,1.0,10.0,ARI 25,0.0,0.0,Kyler Murray pass complete short left to Trey McBride for 13 yards (tackle by Blake Cashman),0.61,1.47,11.0,2023,158
+1.0,14:18,1.0,10.0,ARI 38,0.0,0.0,"Kyler Murray pass incomplete deep left. Penalty on Steven Nelson: Illegal Contact, 5 yards (accepted) (no play)",1.47,1.8,11.0,2023,158
+1.0,14:13,1.0,10.0,ARI 43,0.0,0.0,James Conner left tackle for 9 yards (tackle by Blake Cashman and Steven Nelson),1.8,2.47,11.0,2023,158
+1.0,13:36,2.0,1.0,HOU 48,6.0,0.0,"Kyler Murray pass complete deep right to Rondale Moore for 48 yards, touchdown",2.47,7.0,11.0,2023,158
+1.0,13:28,,,HOU 15,7.0,0.0,Matt Prater kicks extra point good,0.0,0.0,11.0,2023,158
+1.0,13:28,,,ARI 35,7.0,0.0,"Penalty on HOU: Illegal Formation, 5 yards (accepted) (no play)",0.0,0.0,11.0,2023,158
+1.0,13:28,,,ARI 40,7.0,0.0,"Matt Prater kicks off 60 yards, touchback.",0.0,0.61,11.0,2023,158
+1.0,13:28,1.0,10.0,HOU 25,7.0,0.0,Devin Singletary left guard for 1 yard (tackle by Josh Woods),0.61,0.2,11.0,2023,158
+1.0,13:00,2.0,9.0,HOU 26,7.0,0.0,Devin Singletary left tackle for 4 yards (tackle by Kyzir White),0.2,0.04,11.0,2023,158
+1.0,12:39,3.0,5.0,HOU 30,7.0,0.0,C.J. Stroud pass complete short left to Robert Woods for 6 yards (tackle by Victor Dimukeje),0.04,1.33,11.0,2023,158
+1.0,12:06,1.0,10.0,HOU 36,7.0,0.0,C.J. Stroud pass incomplete short right intended for Nico Collins (defended by Kyzir White) (defended by Antonio Hamilton),1.33,0.79,11.0,2023,158
+1.0,12:00,2.0,10.0,HOU 36,7.0,0.0,C.J. Stroud pass incomplete deep left intended for Tank Dell,0.79,0.1,11.0,2023,158
+1.0,11:54,3.0,10.0,HOU 36,7.0,0.0,C.J. Stroud pass complete short right to Tank Dell for 22 yards (tackle by Dennis Gardeck),0.1,2.79,11.0,2023,158
+1.0,11:14,1.0,10.0,ARI 42,7.0,0.0,Devin Singletary right guard for 19 yards (tackle by Dennis Gardeck),2.79,4.04,11.0,2023,158
+1.0,10:33,1.0,10.0,ARI 23,7.0,0.0,Devin Singletary up the middle for 4 yards (tackle by Leki Fotu and Kyzir White),4.04,4.05,11.0,2023,158
+1.0,9:58,2.0,6.0,ARI 19,7.0,0.0,C.J. Stroud pass incomplete short right intended for Dalton Schultz,4.05,3.34,11.0,2023,158
+1.0,9:53,3.0,6.0,ARI 19,7.0,0.0,C.J. Stroud pass complete short right to Nico Collins for 4 yards (tackle by Jalen Thompson),3.34,2.57,11.0,2023,158
+1.0,9:32,4.0,2.0,ARI 15,7.0,0.0,Mike Boone for no gain (tackle by Kyzir White and Budda Baker),2.57,0.22,11.0,2023,158
+1.0,9:27,1.0,10.0,ARI 15,7.0,0.0,Kyler Murray pass complete short left to Elijah Higgins for 2 yards (tackle by DeAndre Houston-Carson),-0.22,-0.44,11.0,2023,158
+1.0,8:50,2.0,8.0,ARI 17,7.0,0.0,James Conner right end for 4 yards (tackle by Jalen Pitre and Blake Cashman),-0.44,-0.63,11.0,2023,158
+1.0,8:07,3.0,4.0,ARI 21,7.0,0.0,Kyler Murray pass incomplete deep left intended for Trey McBride (defended by DeAndre Houston-Carson),-0.63,-1.96,11.0,2023,158
+1.0,7:55,4.0,4.0,ARI 21,7.0,0.0,"Blake Gillikin punts 48 yards, returned by Steven Sims for 8 yards (tackle by Antonio Hamilton)",-1.96,-1.53,11.0,2023,158
+1.0,7:45,1.0,10.0,HOU 39,7.0,0.0,C.J. Stroud pass complete deep middle to Tank Dell for 20 yards (tackle by Budda Baker),1.53,2.85,11.0,2023,158
+1.0,7:09,1.0,10.0,ARI 41,7.0,0.0,C.J. Stroud pass complete short middle to Robert Woods for 17 yards (tackle by Jalen Thompson and Marco Wilson),2.85,3.97,11.0,2023,158
+1.0,6:33,1.0,10.0,ARI 24,7.0,0.0,Devin Singletary right guard for 4 yards (tackle by Roy Lopez and Kevin Strong),3.97,3.97,11.0,2023,158
+1.0,6:01,2.0,6.0,ARI 20,7.0,0.0,C.J. Stroud pass incomplete short right intended for Nico Collins,3.97,3.27,11.0,2023,158
+1.0,5:54,,,,,,Timeout #1 by Arizona Cardinals,,,11.0,2023,158
+1.0,5:54,3.0,6.0,ARI 20,7.0,6.0,"C.J. Stroud pass complete deep middle to Dalton Schultz for 20 yards, touchdown",3.27,7.0,11.0,2023,158
+1.0,5:48,,,ARI 15,7.0,7.0,Matt Ammendola kicks extra point good,0.0,0.0,11.0,2023,158
+1.0,5:48,,,HOU 35,7.0,7.0,"Matt Ammendola kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,158
+1.0,5:48,1.0,10.0,ARI 25,7.0,7.0,Kyler Murray pass incomplete short middle intended for James Conner,0.61,0.06,11.0,2023,158
+1.0,5:43,2.0,10.0,ARI 25,7.0,7.0,James Conner left tackle for 11 yards (tackle by Christian Harris),0.06,1.33,11.0,2023,158
+1.0,5:01,1.0,10.0,ARI 36,7.0,7.0,James Conner right guard for 14 yards (tackle by Derek Stingley),1.33,2.26,11.0,2023,158
+1.0,4:34,1.0,10.0,HOU 50,7.0,7.0,Kyler Murray pass complete short middle to Marquise Brown for 5 yards (tackle by Blake Cashman),2.26,2.39,11.0,2023,158
+1.0,4:09,2.0,5.0,HOU 45,7.0,7.0,"Kyler Murray scrambles up the middle for 22 yards (tackle by DeAndre Houston-Carson). Penalty on Elijah Higgins: Offensive Holding, 10 yards (accepted)",2.39,3.38,11.0,2023,158
+1.0,3:35,1.0,10.0,HOU 33,7.0,7.0,Rondale Moore right end for 4 yards (tackle by Maliek Collins and Jalen Pitre),3.38,3.38,11.0,2023,158
+1.0,2:54,2.0,6.0,HOU 29,7.0,7.0,"Kyler Murray sacked by. Kyler Murray fumbles, recovered by James Conner at HOU-34",3.38,2.01,11.0,2023,158
+1.0,2:10,3.0,11.0,HOU 34,7.0,7.0,Kyler Murray sacked by Will Anderson for -5 yards,2.01,0.66,11.0,2023,158
+1.0,1:26,4.0,16.0,HOU 39,10.0,7.0,Matt Prater 57 yard field goal good,0.66,3.0,11.0,2023,158
+1.0,1:21,,,ARI 35,10.0,7.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,158
+1.0,1:21,1.0,10.0,HOU 25,10.0,7.0,Devin Singletary right tackle for 2 yards (tackle by Leki Fotu),0.61,0.33,11.0,2023,158
+1.0,0:39,2.0,8.0,HOU 27,10.0,7.0,C.J. Stroud pass complete short right to Nico Collins for 6 yards (tackle by Antonio Hamilton),0.33,0.43,11.0,2023,158
+1.0,0:13,3.0,2.0,HOU 33,10.0,7.0,C.J. Stroud pass complete short middle to Robert Woods for 14 yards (tackle by Josh Woods),0.43,2.06,11.0,2023,158
+2.0,15:00,1.0,10.0,HOU 47,10.0,7.0,Devin Singletary up the middle for 8 yards (tackle by Phil Hoskins),2.06,2.6,11.0,2023,158
+2.0,14:26,2.0,2.0,ARI 45,10.0,7.0,Devin Singletary left end for 11 yards (tackle by Jalen Thompson),2.6,3.31,11.0,2023,158
+2.0,13:55,1.0,10.0,ARI 34,10.0,7.0,C.J. Stroud sacked by Leki Fotu for -10 yards,3.31,1.42,11.0,2023,158
+2.0,13:17,2.0,20.0,ARI 44,10.0,7.0,C.J. Stroud pass complete short right to Steven Sims for 23 yards (tackle by Jalen Thompson),1.42,4.17,11.0,2023,158
+2.0,12:37,1.0,10.0,ARI 21,10.0,7.0,C.J. Stroud pass complete short right to Nico Collins for 10 yards (tackle by Starling Thomas),4.17,4.84,11.0,2023,158
+2.0,12:10,1.0,10.0,ARI 11,10.0,7.0,Devin Singletary up the middle for no gain (tackle by Roy Lopez and Zaven Collins),4.84,4.14,11.0,2023,158
+2.0,11:27,2.0,10.0,ARI 11,10.0,13.0,"Devin Singletary right guard for 11 yards, touchdown",4.14,7.0,11.0,2023,158
+2.0,11:20,,,ARI 15,10.0,14.0,Matt Ammendola kicks extra point good,0.0,0.0,11.0,2023,158
+2.0,11:20,,,HOU 35,10.0,14.0,"Matt Ammendola kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,158
+2.0,11:20,1.0,10.0,ARI 25,10.0,14.0,Kyler Murray pass deep left intended for Marquise Brown is intercepted by Derek Stingley at HOU-25 and returned for no gain (tackle by Marquise Brown),0.61,-0.61,11.0,2023,158
+2.0,11:12,1.0,10.0,HOU 25,10.0,14.0,C.J. Stroud pass complete deep middle to Tank Dell for 16 yards (tackle by Antonio Hamilton),0.61,1.66,11.0,2023,158
+2.0,10:36,1.0,10.0,HOU 41,10.0,14.0,Devin Singletary left tackle for 1 yard (tackle by Roy Lopez and Phil Hoskins),1.66,1.26,11.0,2023,158
+2.0,10:06,2.0,9.0,HOU 42,10.0,14.0,C.J. Stroud pass complete short middle to John Metchie for 12 yards (tackle by Jalen Thompson),1.26,2.52,11.0,2023,158
+2.0,9:29,1.0,10.0,ARI 46,10.0,14.0,Devin Singletary right tackle for 2 yards (tackle by Dennis Gardeck and Dante Stills),2.52,2.25,11.0,2023,158
+2.0,8:49,2.0,8.0,ARI 44,10.0,14.0,C.J. Stroud pass complete short right to Tank Dell for 16 yards (tackle by Josh Woods),2.25,3.71,11.0,2023,158
+2.0,8:18,1.0,10.0,ARI 28,10.0,14.0,C.J. Stroud pass incomplete deep right intended for Robert Woods,3.71,3.17,11.0,2023,158
+2.0,8:10,2.0,10.0,ARI 28,10.0,14.0,Devin Singletary up the middle for 9 yards (tackle by Josh Woods and Kevin Strong),3.17,3.72,11.0,2023,158
+2.0,7:41,3.0,1.0,ARI 19,10.0,14.0,C.J. Stroud pass complete short middle to Nico Collins for 8 yards (tackle by Budda Baker),3.72,4.84,11.0,2023,158
+2.0,7:00,1.0,10.0,ARI 11,10.0,14.0,Devin Singletary left tackle for -1 yards (tackle by Leki Fotu and Roy Lopez),4.84,3.98,11.0,2023,158
+2.0,6:15,,,,,,Timeout #1 by Houston Texans,,,11.0,2023,158
+2.0,6:15,2.0,11.0,ARI 12,10.0,14.0,C.J. Stroud pass short middle intended for Nico Collins is intercepted by Jalen Thompson in end zone and returned for no gain,3.98,-0.28,11.0,2023,158
+2.0,6:10,1.0,10.0,ARI 20,10.0,14.0,James Conner right guard for 2 yards (tackle by Jerry Hughes and Blake Cashman),0.28,0.0,11.0,2023,158
+2.0,5:31,2.0,8.0,ARI 22,10.0,14.0,James Conner right tackle for 3 yards (tackle by Tavierre Thomas),0.0,-0.3,11.0,2023,158
+2.0,4:53,3.0,5.0,ARI 25,10.0,14.0,Kyler Murray pass complete short left to Trey McBride for 6 yards (tackle by Blake Cashman),-0.3,1.0,11.0,2023,158
+2.0,4:19,1.0,10.0,ARI 31,10.0,14.0,Marquise Brown right end for -6 yards (tackle by Jalen Pitre),1.0,-0.35,11.0,2023,158
+2.0,3:45,2.0,16.0,ARI 25,10.0,14.0,Kyler Murray pass complete short left to Trey McBride for 6 yards (tackle by Blake Cashman),-0.35,-0.23,11.0,2023,158
+2.0,3:02,3.0,10.0,ARI 31,10.0,14.0,Kyler Murray sacked by Blake Cashman for -8 yards,-0.23,-1.83,11.0,2023,158
+2.0,2:23,4.0,18.0,ARI 23,10.0,14.0,"Blake Gillikin punts 59 yards, returned by Steven Sims for 8 yards (tackle by Dennis Gardeck)",-1.83,-0.67,11.0,2023,158
+2.0,2:15,1.0,10.0,HOU 26,10.0,14.0,Devin Singletary up the middle for 3 yards (tackle by Phil Hoskins),0.67,0.54,11.0,2023,158
+2.0,2:00,2.0,7.0,HOU 29,10.0,14.0,Devin Singletary up the middle for 6 yards (tackle by Zaven Collins and Marco Wilson),0.54,0.63,11.0,2023,158
+2.0,1:24,3.0,1.0,HOU 35,10.0,14.0,C.J. Stroud pass complete short right to Tank Dell for 6 yards (tackle by Marco Wilson),0.63,1.66,11.0,2023,158
+2.0,0:55,1.0,10.0,HOU 41,10.0,14.0,C.J. Stroud pass complete short left to Nico Collins for 7 yards (tackle by Starling Thomas),1.66,2.07,11.0,2023,158
+2.0,0:39,2.0,3.0,HOU 48,10.0,14.0,C.J. Stroud pass complete short middle to Dalton Schultz for 12 yards (tackle by Krys Barnes),2.07,2.92,11.0,2023,158
+2.0,0:34,,,,,,Timeout #2 by Houston Texans,,,11.0,2023,158
+2.0,0:34,1.0,10.0,ARI 40,10.0,20.0,"C.J. Stroud pass complete deep right to Tank Dell for 40 yards, touchdown",2.92,7.0,11.0,2023,158
+2.0,0:26,,,ARI 15,10.0,21.0,Matt Ammendola kicks extra point good,0.0,0.0,11.0,2023,158
+2.0,0:26,,,HOU 35,10.0,21.0,"Penalty on Antonio Hamilton: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",0.0,0.0,11.0,2023,158
+2.0,0:26,,,HOU 50,10.0,21.0,"Matt Ammendola kicks off 46 yards, returned by Greg Dortch for 23 yards (tackle by Neville Hewitt)",0.0,0.74,11.0,2023,158
+2.0,0:17,1.0,10.0,ARI 27,10.0,21.0,Kyler Murray pass complete short right to Greg Dortch for 12 yards (tackle by Blake Cashman),0.74,1.53,11.0,2023,158
+2.0,0:11,,,,,,Timeout #2 by Arizona Cardinals,,,11.0,2023,158
+2.0,0:11,1.0,10.0,ARI 39,10.0,21.0,Kyler Murray pass complete short middle to Trey McBride for 7 yards (tackle by Tavierre Thomas),1.53,1.93,11.0,2023,158
+2.0,0:06,,,,,,Timeout #3 by Arizona Cardinals,,,11.0,2023,158
+2.0,0:06,,,,,,Timeout #3 by Houston Texans,,,11.0,2023,158
+2.0,0:06,2.0,3.0,ARI 46,10.0,21.0,Kyler Murray pass incomplete deep left (defended by Blake Cashman),1.93,1.22,11.0,2023,158
+3.0,15:00,,,ARI 35,10.0,21.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,158
+3.0,15:00,1.0,10.0,HOU 25,10.0,21.0,Devin Singletary left tackle for 5 yards (tackle by Josh Woods and Krys Barnes),0.61,0.74,11.0,2023,158
+3.0,14:19,2.0,5.0,HOU 30,10.0,21.0,C.J. Stroud pass complete short left to Devin Singletary for 4 yards (tackle by Victor Dimukeje),0.74,0.56,11.0,2023,158
+3.0,13:48,3.0,1.0,HOU 34,10.0,21.0,Devin Singletary right end for 21 yards (tackle by Jalen Thompson),0.56,2.59,11.0,2023,158
+3.0,13:06,1.0,10.0,ARI 45,10.0,21.0,C.J. Stroud sacked by Jalen Thompson for -9 yards,2.59,0.83,11.0,2023,158
+3.0,12:37,2.0,19.0,HOU 46,10.0,21.0,Davis Mills pass complete short right to Devin Singletary for 2 yards (tackle by Budda Baker),0.83,0.43,11.0,2023,158
+3.0,11:56,3.0,17.0,HOU 48,10.0,21.0,C.J. Stroud pass complete deep right to Tank Dell for 18 yards (tackle by Marco Wilson),0.43,3.31,11.0,2023,158
+3.0,11:07,1.0,10.0,ARI 34,10.0,21.0,C.J. Stroud pass complete short left to Robert Woods for 2 yards (tackle by Dante Stills),3.31,3.04,11.0,2023,158
+3.0,10:38,2.0,8.0,ARI 32,10.0,21.0,Devin Singletary left guard for -3 yards (tackle by Victor Dimukeje),3.04,1.95,11.0,2023,158
+3.0,10:00,3.0,11.0,ARI 35,10.0,21.0,C.J. Stroud pass complete short left to Mike Boone for 5 yards (tackle by Marco Wilson),1.95,1.43,11.0,2023,158
+3.0,9:19,4.0,6.0,ARI 30,10.0,21.0,Matt Ammendola 48 yard field goal no good,1.43,-1.47,11.0,2023,158
+3.0,9:15,1.0,10.0,ARI 38,10.0,21.0,James Conner up the middle for 11 yards (tackle by Derek Stingley and Jalen Pitre),1.47,2.19,11.0,2023,158
+3.0,8:39,1.0,10.0,ARI 49,10.0,21.0,Kyler Murray right end for 4 yards (tackle by Derek Stingley),2.19,2.19,11.0,2023,158
+3.0,8:05,2.0,6.0,HOU 47,10.0,21.0,Kyler Murray pass complete short middle to Geoff Swaim for 8 yards (tackle by Blake Cashman and Derek Stingley),2.19,2.98,11.0,2023,158
+3.0,7:25,1.0,10.0,HOU 39,10.0,21.0,James Conner left end for no gain (tackle by Blake Cashman and Steven Nelson),2.98,2.44,11.0,2023,158
+3.0,6:51,2.0,10.0,HOU 39,10.0,21.0,Kyler Murray pass complete short left to Trey McBride for 11 yards (tackle by Jalen Pitre),2.44,3.71,11.0,2023,158
+3.0,6:12,1.0,10.0,HOU 28,10.0,21.0,James Conner up the middle for 2 yards (tackle by Tavierre Thomas and Dylan Horton),3.71,3.44,11.0,2023,158
+3.0,5:30,2.0,8.0,HOU 26,10.0,21.0,James Conner left guard for 2 yards (tackle by Dylan Horton and Blake Cashman),3.44,3.01,11.0,2023,158
+3.0,4:55,3.0,6.0,HOU 24,10.0,21.0,"Kyler Murray scrambles right end for 6 yards (tackle by Christian Harris). Penalty on Will Anderson: Face Mask (15 Yards), 9 yards (accepted)",3.01,5.14,11.0,2023,158
+3.0,4:26,1.0,9.0,HOU 9,10.0,21.0,James Conner right tackle for -1 yards (tackle by Jonathan Greenard),5.14,4.19,11.0,2023,158
+3.0,3:46,2.0,10.0,HOU 10,10.0,21.0,Kyler Murray pass incomplete short right intended for Greg Dortch (defended by Christian Harris),4.19,3.13,11.0,2023,158
+3.0,3:41,3.0,10.0,HOU 10,10.0,21.0,Kyler Murray scrambles right end for 9 yards (tackle by Christian Harris),3.13,3.55,11.0,2023,158
+3.0,2:57,,,,,,Timeout #1 by Arizona Cardinals,,,11.0,2023,158
+3.0,2:57,4.0,1.0,HOU 1,16.0,21.0,"Kyler Murray right end for 1 yard, touchdown",3.55,7.0,11.0,2023,158
+3.0,2:52,,,HOU 2,16.0,21.0,"Two Point Attempt: Kyler Murray rushes, conversion fails.",1.0,-1.0,11.0,2023,158
+3.0,2:52,,,ARI 35,16.0,21.0,"Matt Prater kicks off 65 yards, touchback.",0.0,0.61,11.0,2023,158
+3.0,2:52,1.0,10.0,HOU 25,16.0,21.0,C.J. Stroud sacked by Dante Stills for -10 yards,0.61,-1.43,11.0,2023,158
+3.0,2:20,2.0,20.0,HOU 15,16.0,21.0,C.J. Stroud pass complete short right to Steven Sims for 2 yards (tackle by Krys Barnes),-1.43,-2.02,11.0,2023,158
+3.0,1:39,3.0,19.0,HOU 17,16.0,21.0,C.J. Stroud pass incomplete short left intended for Robert Woods (defended by Krys Barnes),-2.02,-2.32,11.0,2023,158
+3.0,1:30,4.0,19.0,HOU 17,16.0,21.0,"Cameron Johnston punts 44 yards, returned by Greg Dortch for 3 yards (tackle by Neville Hewitt). Penalty on Marco Wilson: Illegal Block Above the Waist, 10 yards (accepted)",-2.32,-1.07,11.0,2023,158
+3.0,1:20,1.0,10.0,ARI 32,16.0,21.0,Rondale Moore left end for 2 yards (tackle by Blake Cashman and Dylan Horton),1.07,0.8,11.0,2023,158
+3.0,0:45,2.0,8.0,ARI 34,16.0,21.0,James Conner up the middle for 9 yards (tackle by DeAndre Houston-Carson),0.8,1.8,11.0,2023,158
+3.0,0:18,1.0,10.0,ARI 43,16.0,21.0,Kyler Murray pass complete short left to Greg Dortch for 10 yards (tackle by Blake Cashman),1.8,2.46,11.0,2023,158
+4.0,15:00,1.0,10.0,HOU 47,16.0,21.0,Kyler Murray pass complete short right to Greg Dortch for 17 yards (tackle by Derek Stingley),2.46,3.58,11.0,2023,158
+4.0,14:13,1.0,10.0,HOU 30,16.0,21.0,James Conner up the middle for -3 yards (tackle by Will Anderson),3.58,2.63,11.0,2023,158
+4.0,13:35,2.0,13.0,HOU 33,16.0,21.0,"Kyler Murray pass complete to Elijah Higgins for 20 yards (tackle by Steven Nelson) HOU challenged the pass completion ruling, and the original play was overturned. Kyler Murray pass incomplete short middle intended for Elijah Higgins",2.63,1.95,11.0,2023,158
+4.0,13:35,3.0,13.0,HOU 33,16.0,21.0,Tony Jones left guard for 10 yards (tackle by Jalen Pitre),1.95,2.03,11.0,2023,158
+4.0,12:55,4.0,3.0,HOU 23,16.0,21.0,Kyler Murray pass complete short right to Greg Dortch for 2 yards (tackle by Tavierre Thomas and Derek Stingley),2.03,-0.41,11.0,2023,158
+4.0,12:48,1.0,10.0,HOU 22,16.0,21.0,Devin Singletary up the middle for 2 yards (tackle by Phil Hoskins and Roy Lopez),0.41,0.14,11.0,2023,158
+4.0,12:14,2.0,8.0,HOU 24,16.0,21.0,C.J. Stroud pass complete short right to Nico Collins for 7 yards (tackle by Josh Woods and Antonio Hamilton),0.14,0.37,11.0,2023,158
+4.0,11:38,3.0,1.0,HOU 31,16.0,21.0,Andrew Beck right guard for no gain (tackle by Victor Dimukeje),0.37,-1.31,11.0,2023,158
+4.0,10:48,4.0,1.0,HOU 31,16.0,21.0,"Cameron Johnston punts 50 yards, recovered by Ka'dar Hollman at ARI-25 Replay Assistant challenged the fumble ruling, and the play was upheld.",-1.31,3.91,11.0,2023,158
+4.0,10:37,1.0,10.0,ARI 25,16.0,21.0,Devin Singletary up the middle for 1 yard (tackle by Josh Woods),3.91,3.5,11.0,2023,158
+4.0,10:12,2.0,9.0,ARI 24,16.0,21.0,C.J. Stroud pass complete short right to Tank Dell for 11 yards (tackle by Antonio Hamilton),3.5,4.71,11.0,2023,158
+4.0,9:44,1.0,10.0,ARI 13,16.0,21.0,C.J. Stroud pass incomplete short left intended for Nico Collins,4.71,4.05,11.0,2023,158
+4.0,9:42,2.0,10.0,ARI 13,16.0,21.0,C.J. Stroud pass short middle (defended by Antonio Hamilton) intended for Robert Woods is intercepted by Krys Barnes at ARI-3 and returned for 46 yards (tackle by George Fant),4.05,-2.19,11.0,2023,158
+4.0,9:30,1.0,10.0,ARI 49,16.0,21.0,Kyler Murray scrambles right end for 6 yards (tackle by Blake Cashman),2.19,2.46,11.0,2023,158
+4.0,8:49,2.0,4.0,HOU 45,16.0,21.0,James Conner left guard for -1 yards (tackle by Khalil Davis),2.46,1.62,11.0,2023,158
+4.0,8:12,3.0,5.0,HOU 46,16.0,21.0,"Kyler Murray pass incomplete intended for Marquise Brown. Penalty on Marquise Brown: Offensive Pass Interference, 10 yards (accepted) (no play)",1.62,0.3,11.0,2023,158
+4.0,8:05,3.0,15.0,ARI 44,16.0,21.0,Kyler Murray pass complete short left to Tony Jones for 11 yards (tackle by Blake Cashman),0.3,0.27,11.0,2023,158
+4.0,7:22,4.0,4.0,HOU 45,16.0,21.0,Kyler Murray pass incomplete short middle intended for Trey McBride,0.27,-1.93,11.0,2023,158
+4.0,7:18,1.0,10.0,HOU 45,16.0,21.0,Devin Singletary right tackle for 2 yards (tackle by Dante Stills and Cameron Thomas),1.93,1.65,11.0,2023,158
+4.0,6:45,2.0,8.0,HOU 47,16.0,21.0,C.J. Stroud pass complete short left to Robert Woods for 5 yards (tackle by Garrett Williams),1.65,1.62,11.0,2023,158
+4.0,6:16,3.0,3.0,ARI 48,16.0,21.0,C.J. Stroud pass complete deep left to Nico Collins for 23 yards (tackle by Jalen Thompson and Marco Wilson),1.62,3.91,11.0,2023,158
+4.0,5:39,1.0,10.0,ARI 25,16.0,21.0,Tank Dell sacked by BJ Ojulari for -1 yards,3.91,3.3,11.0,2023,158
+4.0,5:04,2.0,10.0,ARI 26,16.0,21.0,C.J. Stroud pass short left intended for Tank Dell is intercepted by Antonio Hamilton at ARI-19 and returned for no gain,3.3,-0.15,11.0,2023,158
+4.0,4:58,1.0,10.0,ARI 19,16.0,21.0,Kyler Murray left end for 3 yards (tackle by Jerry Hughes),0.15,0.07,11.0,2023,158
+4.0,4:23,2.0,7.0,ARI 22,16.0,21.0,Kyler Murray pass incomplete deep middle intended for Greg Dortch (defended by Derek Stingley),0.07,-0.68,11.0,2023,158
+4.0,4:18,3.0,7.0,ARI 22,16.0,21.0,"Penalty on ARI: Delay of Game, 5 yards (accepted) (no play)",-0.68,-1.42,11.0,2023,158
+4.0,4:18,3.0,12.0,ARI 17,16.0,21.0,Kyler Murray pass complete short left to Marquise Brown for 13 yards (tackle by Steven Nelson),-1.42,0.94,11.0,2023,158
+4.0,3:34,1.0,10.0,ARI 30,16.0,21.0,Kyler Murray pass complete short right to Greg Dortch for 31 yards (tackle by Blake Cashman and DeAndre Houston-Carson),0.94,2.98,11.0,2023,158
+4.0,2:47,1.0,10.0,HOU 39,16.0,21.0,Kyler Murray pass complete short middle to Greg Dortch for 4 yards (tackle by Blake Cashman),2.98,2.98,11.0,2023,158
+4.0,2:09,2.0,6.0,HOU 35,16.0,21.0,Kyler Murray pass complete short right to James Conner for 6 yards (tackle by Christian Harris),2.98,3.64,11.0,2023,158
+4.0,2:00,1.0,10.0,HOU 29,16.0,21.0,Kyler Murray pass complete short right to James Conner for -5 yards (tackle by Christian Harris),3.64,2.36,11.0,2023,158
+4.0,1:25,2.0,16.0,HOU 34,16.0,21.0,Kyler Murray pass complete short middle to Geoff Swaim for 7 yards (tackle by Blake Cashman and DeAndre Houston-Carson),2.36,2.68,11.0,2023,158
+4.0,0:41,3.0,8.0,HOU 27,16.0,21.0,Kyler Murray pass incomplete short right intended for Marquise Brown (defended by Christian Harris),2.68,1.67,11.0,2023,158
+4.0,0:35,,,,,,Timeout #2 by Arizona Cardinals,,,11.0,2023,158
+4.0,0:35,4.0,8.0,HOU 27,16.0,21.0,Kyler Murray pass incomplete deep left intended for Marquise Brown (defended by Steven Nelson),1.67,-0.74,11.0,2023,158
+4.0,0:30,1.0,10.0,HOU 27,16.0,21.0,C.J. Stroud kneels for -1 yards,0.74,0.06,11.0,2023,158

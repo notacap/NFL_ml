@@ -1,0 +1,152 @@
+Quarter,Time,Down,ToGo,Location,KAN,LVR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Chiefs won the coin toss and deferred, Raiders to receive the opening kickoff.",,,12.0,2023,177
+1.0,15:00,,,KAN 35,0.0,0.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,177
+1.0,15:00,1.0,10.0,LVR 25,0.0,0.0,Josh Jacobs right tackle for 7 yards (tackle by Drue Tranquill),0.61,1.01,12.0,2023,177
+1.0,14:20,2.0,3.0,LVR 32,0.0,0.0,Josh Jacobs left tackle for 1 yard (tackle by Willie Gay),1.01,0.43,12.0,2023,177
+1.0,13:37,3.0,2.0,LVR 33,0.0,0.0,Aidan O'Connell pass complete deep left to Davante Adams for 33 yards (tackle by L'Jarius Sneed),0.43,3.31,12.0,2023,177
+1.0,12:54,1.0,10.0,KAN 34,0.0,0.0,Josh Jacobs left end for 4 yards (tackle by Justin Reid),3.31,3.31,12.0,2023,177
+1.0,12:18,2.0,6.0,KAN 30,0.0,0.0,Josh Jacobs left guard for 3 yards (tackle by Drue Tranquill),3.31,3.01,12.0,2023,177
+1.0,11:36,3.0,3.0,KAN 27,0.0,0.0,Aidan O'Connell pass complete short right to Jakobi Meyers for 4 yards (tackle by George Karlaftis),3.01,4.04,12.0,2023,177
+1.0,10:59,1.0,10.0,KAN 23,0.0,0.0,Aidan O'Connell pass complete short middle to Jakobi Meyers for 2 yards (tackle by Jaylen Watson),4.04,3.77,12.0,2023,177
+1.0,10:19,2.0,8.0,KAN 21,0.0,0.0,Josh Jacobs right tackle for 3 yards (tackle by Mike Edwards and Michael Danna),3.77,3.49,12.0,2023,177
+1.0,9:38,3.0,5.0,KAN 18,0.0,6.0,"Aidan O'Connell pass complete short middle to Jakobi Meyers for 18 yards, touchdown",3.49,7.0,12.0,2023,177
+1.0,9:32,,,KAN 15,0.0,7.0,Daniel Carlson kicks extra point good,0.0,0.0,12.0,2023,177
+1.0,9:32,,,LVR 35,0.0,7.0,"Daniel Carlson kicks off 65 yards,",0.0,0.61,12.0,2023,177
+1.0,9:32,1.0,10.0,KAN 25,0.0,7.0,Patrick Mahomes pass complete short left to Isiah Pacheco for -11 yards (tackle by Bilal Nichols),0.61,-1.54,12.0,2023,177
+1.0,8:51,2.0,21.0,KAN 14,0.0,7.0,Patrick Mahomes pass incomplete deep middle intended for Travis Kelce,-1.54,-2.55,12.0,2023,177
+1.0,8:45,3.0,21.0,KAN 14,0.0,7.0,Patrick Mahomes pass complete short middle to Skyy Moore for 11 yards (tackle by Nate Hobbs),-2.55,-1.7,12.0,2023,177
+1.0,8:15,4.0,10.0,KAN 25,0.0,7.0,"Tommy Townsend punts 56 yards, fair catch by DeAndre Carter at LV-19. Penalty on Brandon Bolden: Running Into the Kicker, 5 yards (declined)",-1.7,-0.15,12.0,2023,177
+1.0,8:09,1.0,10.0,LVR 19,0.0,7.0,Josh Jacobs left guard for 4 yards (tackle by Tershawn Wharton and Justin Reid),0.15,0.21,12.0,2023,177
+1.0,7:29,2.0,6.0,LVR 23,0.0,7.0,Aidan O'Connell pass incomplete short right,0.21,-0.55,12.0,2023,177
+1.0,7:23,3.0,6.0,LVR 23,0.0,7.0,Aidan O'Connell pass complete short left to Jakobi Meyers for 18 yards (tackle by Bryan Cook),-0.55,1.66,12.0,2023,177
+1.0,6:51,1.0,10.0,LVR 41,0.0,7.0,Josh Jacobs right tackle for 2 yards (tackle by Chris Jones),1.66,1.39,12.0,2023,177
+1.0,6:08,2.0,8.0,LVR 43,0.0,7.0,"Aidan O'Connell pass complete short right to Davante Adams for 7 yards (tackle by Derrick Nnadi and L'Jarius Sneed) LVR challenged the first down ruling, and the play was upheld.",1.39,1.62,12.0,2023,177
+1.0,5:28,3.0,1.0,KAN 50,0.0,7.0,Jakobi Meyers right end for 2 yards (tackle by George Karlaftis),1.62,2.39,12.0,2023,177
+1.0,4:51,1.0,10.0,KAN 48,0.0,7.0,Josh Jacobs right guard for 5 yards (tackle by Drue Tranquill and Justin Reid),2.39,2.52,12.0,2023,177
+1.0,4:10,2.0,5.0,KAN 43,0.0,7.0,Aidan O'Connell pass complete short middle to Davante Adams for 9 yards (tackle by L'Jarius Sneed),2.52,3.31,12.0,2023,177
+1.0,3:25,1.0,10.0,KAN 34,0.0,7.0,Aidan O'Connell pass complete short left to Hunter Renfrow for 6 yards (tackle by L'Jarius Sneed),3.31,3.58,12.0,2023,177
+1.0,3:06,2.0,4.0,KAN 28,0.0,7.0,Aidan O'Connell pass complete short right to Hunter Renfrow for 7 yards (tackle by Chamarri Conner),3.58,4.17,12.0,2023,177
+1.0,2:42,1.0,10.0,KAN 21,0.0,7.0,Josh Jacobs up the middle for 1 yard (tackle by Chamarri Conner and Charles Omenihu),4.17,3.63,12.0,2023,177
+1.0,2:04,2.0,10.0,KAN 21,0.0,7.0,Josh Jacobs right tackle for -2 yards (tackle by Drue Tranquill),3.63,2.81,12.0,2023,177
+1.0,1:24,3.0,11.0,KAN 22,0.0,7.0,Aidan O'Connell pass complete short right to Davante Adams for 10 yards (tackle by L'Jarius Sneed),2.81,2.78,12.0,2023,177
+1.0,0:35,4.0,1.0,KAN 12,0.0,7.0,Daniel Carlson 30 yard field goal no good,2.78,-0.28,12.0,2023,177
+1.0,0:32,1.0,10.0,KAN 20,0.0,7.0,Patrick Mahomes pass complete short left to Isiah Pacheco for 11 yards (tackle by Nate Hobbs),0.28,1.0,12.0,2023,177
+2.0,15:00,1.0,10.0,KAN 31,0.0,7.0,Isiah Pacheco left end for 1 yard (tackle by Nate Hobbs and Robert Spillane),1.0,0.6,12.0,2023,177
+2.0,14:23,2.0,9.0,KAN 32,0.0,7.0,Patrick Mahomes pass complete short right to Rashee Rice for 1 yard (tackle by Nate Hobbs),0.6,0.04,12.0,2023,177
+2.0,13:41,3.0,8.0,KAN 33,0.0,7.0,Patrick Mahomes pass incomplete deep left intended for Justin Watson,0.04,-1.18,12.0,2023,177
+2.0,13:35,4.0,8.0,KAN 33,0.0,7.0,"Tommy Townsend punts 57 yards, returned by DeAndre Carter for 13 yards (tackle by Chamarri Conner)",-1.18,-0.48,12.0,2023,177
+2.0,13:23,1.0,10.0,LVR 23,0.0,7.0,"Aidan O'Connell pass complete short middle to Davante Adams for 14 yards (tackle by L'Jarius Sneed). Penalty on L'Jarius Sneed: Defensive Pass Interference, 15 yards (declined)",0.48,1.4,12.0,2023,177
+2.0,12:51,1.0,10.0,LVR 37,0.0,13.0,"Josh Jacobs left end for 63 yards, touchdown",1.4,7.0,12.0,2023,177
+2.0,12:41,,,KAN 15,0.0,14.0,Daniel Carlson kicks extra point good,0.0,0.0,12.0,2023,177
+2.0,12:41,,,LVR 35,0.0,14.0,"Daniel Carlson kicks off 65 yards, returned by Richie James for 29 yards (tackle by Curtis Bolton)",0.0,0.87,12.0,2023,177
+2.0,12:35,1.0,10.0,KAN 29,0.0,14.0,Patrick Mahomes pass incomplete short right intended for Rashee Rice,0.87,0.33,12.0,2023,177
+2.0,12:33,2.0,10.0,KAN 29,0.0,14.0,Patrick Mahomes pass complete short left to Travis Kelce for 12 yards (tackle by Nate Hobbs),0.33,1.66,12.0,2023,177
+2.0,11:55,1.0,10.0,KAN 41,0.0,14.0,Isiah Pacheco left tackle for 4 yards (tackle by Janarius Robinson and John Jenkins),1.66,1.66,12.0,2023,177
+2.0,11:17,2.0,6.0,KAN 45,0.0,14.0,Patrick Mahomes scrambles left tackle for 7 yards (tackle by Jack Jones),1.66,2.39,12.0,2023,177
+2.0,10:38,1.0,10.0,LVR 48,0.0,14.0,Patrick Mahomes pass complete short middle to Noah Gray for 12 yards (tackle by Nate Hobbs and Robert Spillane),2.39,3.18,12.0,2023,177
+2.0,9:58,1.0,10.0,LVR 36,0.0,14.0,Patrick Mahomes pass complete short right to Skyy Moore for 18 yards (tackle by Tre'von Moehrig),3.18,4.37,12.0,2023,177
+2.0,9:24,1.0,10.0,LVR 18,0.0,14.0,Patrick Mahomes pass incomplete short right,4.37,3.8,12.0,2023,177
+2.0,9:18,2.0,10.0,LVR 18,0.0,14.0,Patrick Mahomes scrambles left end for 2 yards (tackle by Malcolm Koonce),3.8,3.3,12.0,2023,177
+2.0,8:44,,,,,,Timeout #1 by Kansas City Chiefs,,,12.0,2023,177
+2.0,8:44,3.0,8.0,LVR 16,0.0,14.0,Patrick Mahomes pass complete short middle to Rashee Rice for 10 yards (tackle by Jack Jones),3.3,5.83,12.0,2023,177
+2.0,8:03,1.0,6.0,LVR 6,0.0,14.0,Clyde Edwards-Helaire left tackle for 5 yards (tackle by John Jenkins and Marcus Epps),5.83,5.91,12.0,2023,177
+2.0,7:21,2.0,1.0,LVR 1,0.0,14.0,Clyde Edwards-Helaire up the middle for no gain (tackle by Malik Reed and Robert Spillane),5.91,5.17,12.0,2023,177
+2.0,6:44,,,,,,Timeout #2 by Las Vegas Raiders,,,12.0,2023,177
+2.0,6:44,3.0,1.0,LVR 1,6.0,14.0,"Isiah Pacheco up the middle for 1 yard, touchdown",5.17,7.0,12.0,2023,177
+2.0,6:38,,,LVR 15,7.0,14.0,Harrison Butker kicks extra point good,0.0,0.0,12.0,2023,177
+2.0,6:38,,,KAN 35,7.0,14.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,177
+2.0,6:38,1.0,10.0,LVR 25,7.0,14.0,Aidan O'Connell pass complete short left to Josh Jacobs for 8 yards (tackle by L'Jarius Sneed),0.61,1.14,12.0,2023,177
+2.0,5:56,2.0,2.0,LVR 33,7.0,14.0,Josh Jacobs up the middle for 3 yards (tackle by Bryan Cook and L'Jarius Sneed),1.14,1.33,12.0,2023,177
+2.0,5:12,1.0,10.0,LVR 36,7.0,14.0,Aidan O'Connell pass incomplete short right intended for Jakobi Meyers,1.33,0.79,12.0,2023,177
+2.0,5:07,2.0,10.0,LVR 36,7.0,14.0,Zamir White left guard for no gain (tackle by Derrick Nnadi),0.79,0.1,12.0,2023,177
+2.0,4:25,3.0,10.0,LVR 36,7.0,14.0,Aidan O'Connell pass complete short left to Ameer Abdullah for 2 yards (tackle by Michael Danna),0.1,-0.85,12.0,2023,177
+2.0,3:49,4.0,8.0,LVR 38,7.0,14.0,"AJ Cole punts 51 yards, returned by Richie James for 10 yards (tackle by Malcolm Koonce)",-0.85,-0.34,12.0,2023,177
+2.0,3:37,1.0,10.0,KAN 21,7.0,14.0,Patrick Mahomes pass complete short right to Isiah Pacheco for 10 yards (tackle by Divine Deablo),0.34,1.0,12.0,2023,177
+2.0,3:06,1.0,10.0,KAN 31,7.0,14.0,Patrick Mahomes pass complete short left to Rashee Rice for 9 yards (tackle by Robert Spillane and Tre'von Moehrig),1.0,1.68,12.0,2023,177
+2.0,2:37,2.0,1.0,KAN 40,7.0,14.0,Isiah Pacheco left guard for 3 yards (tackle by John Jenkins and Jerry Tillery),1.68,1.8,12.0,2023,177
+2.0,2:15,,,,,,Timeout #2 by Kansas City Chiefs,,,12.0,2023,177
+2.0,2:15,1.0,10.0,KAN 43,7.0,14.0,Patrick Mahomes pass complete deep left to Travis Kelce for 27 yards (tackle by Divine Deablo),1.8,3.58,12.0,2023,177
+2.0,2:00,1.0,10.0,LVR 30,7.0,14.0,Patrick Mahomes pass complete deep right to Travis Kelce for 23 yards (tackle by Jack Jones),3.58,5.6,12.0,2023,177
+2.0,1:14,1.0,7.0,LVR 7,7.0,14.0,Patrick Mahomes pass incomplete short left,5.6,4.76,12.0,2023,177
+2.0,1:08,2.0,7.0,LVR 7,7.0,14.0,Isiah Pacheco up the middle for 4 yards (tackle by Adam Butler),4.76,4.72,12.0,2023,177
+2.0,0:30,3.0,3.0,LVR 3,13.0,14.0,"Patrick Mahomes pass complete short left to Justin Watson for 3 yards, touchdown",4.72,7.0,12.0,2023,177
+2.0,0:25,,,LVR 15,14.0,14.0,Harrison Butker kicks extra point good,0.0,0.0,12.0,2023,177
+2.0,0:25,,,KAN 35,14.0,14.0,"Penalty on Justin Watson: Taunting / Offense, 15 yards (accepted) (no play)",0.0,0.0,12.0,2023,177
+2.0,0:25,,,KAN 20,14.0,14.0,"Harrison Butker kicks off 78 yards, returned by DeAndre Carter for 25 yards (tackle by Jack Cochrane)",0.0,0.74,12.0,2023,177
+2.0,0:19,1.0,10.0,LVR 27,14.0,14.0,Aidan O'Connell pass incomplete short right intended for Michael Mayer,0.74,0.2,12.0,2023,177
+2.0,0:14,2.0,10.0,LVR 27,14.0,14.0,Ameer Abdullah left guard for 11 yards (tackle by Mike Edwards and Justin Reid),0.2,1.47,12.0,2023,177
+3.0,15:00,,,LVR 35,14.0,14.0,"Daniel Carlson kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,177
+3.0,15:00,1.0,10.0,KAN 25,14.0,14.0,Isiah Pacheco right guard for 4 yards (tackle by Malcolm Koonce and Robert Spillane),0.61,0.6,12.0,2023,177
+3.0,14:26,2.0,6.0,KAN 29,14.0,14.0,Patrick Mahomes pass complete short middle to Travis Kelce for 8 yards (tackle by Divine Deablo),0.6,1.4,12.0,2023,177
+3.0,13:53,1.0,10.0,KAN 37,14.0,14.0,Patrick Mahomes pass complete short middle to Noah Gray for 13 yards (tackle by Robert Spillane and Divine Deablo),1.4,2.26,12.0,2023,177
+3.0,13:15,1.0,10.0,KAN 50,14.0,14.0,Isiah Pacheco up the middle for 3 yards (tackle by Robert Spillane and Bilal Nichols),2.26,2.12,12.0,2023,177
+3.0,12:35,2.0,7.0,LVR 47,14.0,14.0,Isiah Pacheco up the middle for 6 yards (tackle by Luke Masterson),2.12,2.21,12.0,2023,177
+3.0,12:16,3.0,1.0,LVR 41,14.0,14.0,Isiah Pacheco left guard for 6 yards (tackle by John Jenkins and Luke Masterson),2.21,3.25,12.0,2023,177
+3.0,11:38,1.0,10.0,LVR 35,14.0,14.0,Patrick Mahomes pass complete short right to Rashee Rice for 1 yard (tackle by Luke Masterson),3.25,2.84,12.0,2023,177
+3.0,10:54,2.0,9.0,LVR 34,14.0,14.0,Patrick Mahomes pass complete short middle to Rashee Rice for 19 yards (tackle by Amik Robertson),2.84,4.58,12.0,2023,177
+3.0,10:03,1.0,10.0,LVR 15,14.0,14.0,Patrick Mahomes pass complete short left to Isiah Pacheco for 14 yards (tackle by Nate Hobbs),4.58,6.97,12.0,2023,177
+3.0,9:18,1.0,1.0,LVR 1,20.0,14.0,"Isiah Pacheco up the middle for 1 yard, touchdown",6.97,7.0,12.0,2023,177
+3.0,9:15,,,LVR 15,21.0,14.0,Harrison Butker kicks extra point good,0.0,0.0,12.0,2023,177
+3.0,9:15,,,KAN 35,21.0,14.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,177
+3.0,9:15,1.0,10.0,LVR 25,21.0,14.0,Josh Jacobs right guard for 3 yards (tackle by Justin Reid),0.61,0.47,12.0,2023,177
+3.0,8:40,2.0,7.0,LVR 28,21.0,14.0,Josh Jacobs right guard for 3 yards (tackle by Drue Tranquill),0.47,0.17,12.0,2023,177
+3.0,7:57,3.0,4.0,LVR 31,21.0,14.0,Aidan O'Connell pass incomplete deep left intended for Davante Adams,0.17,-1.31,12.0,2023,177
+3.0,7:51,4.0,4.0,LVR 31,21.0,14.0,AJ Cole punts 29 yards out of bounds,-1.31,-1.6,12.0,2023,177
+3.0,7:44,1.0,10.0,KAN 40,21.0,14.0,Isiah Pacheco left end for 2 yards (tackle by Robert Spillane),1.6,1.32,12.0,2023,177
+3.0,7:07,2.0,8.0,KAN 42,21.0,14.0,Patrick Mahomes pass incomplete short left intended for Rashee Rice,1.32,0.63,12.0,2023,177
+3.0,7:03,3.0,8.0,KAN 42,21.0,14.0,Patrick Mahomes sacked by Maxx Crosby for -7 yards,0.63,-1.04,12.0,2023,177
+3.0,6:23,4.0,15.0,KAN 35,21.0,14.0,"Tommy Townsend punts 41 yards, fair catch by DeAndre Carter at LV-24",-1.04,-0.54,12.0,2023,177
+3.0,6:14,1.0,10.0,LVR 24,21.0,14.0,Aidan O'Connell pass complete short right to Michael Mayer for 17 yards (tackle by Trent McDuffie),0.54,1.66,12.0,2023,177
+3.0,5:30,1.0,10.0,LVR 41,21.0,14.0,Josh Jacobs left guard for 4 yards (tackle by Justin Reid and Willie Gay),1.66,1.66,12.0,2023,177
+3.0,4:48,2.0,6.0,LVR 45,21.0,14.0,Josh Jacobs up the middle for 2 yards (tackle by Jaylen Watson),1.66,1.22,12.0,2023,177
+3.0,4:08,3.0,4.0,LVR 47,21.0,14.0,Aidan O'Connell pass complete deep right to Jakobi Meyers for 33 yards (tackle by Trent McDuffie),1.22,4.24,12.0,2023,177
+3.0,3:40,1.0,10.0,KAN 20,21.0,14.0,Aidan O'Connell pass complete short right to Josh Jacobs for 4 yards (tackle by Joshua Williams),4.24,4.28,12.0,2023,177
+3.0,3:01,2.0,6.0,KAN 16,21.0,14.0,Josh Jacobs right end for no gain (tackle by Justin Reid),4.28,3.52,12.0,2023,177
+3.0,2:16,3.0,6.0,KAN 16,21.0,14.0,Aidan O'Connell pass incomplete short middle intended for Davante Adams,3.52,2.4,12.0,2023,177
+3.0,2:13,4.0,6.0,KAN 16,21.0,17.0,Daniel Carlson 34 yard field goal good,2.4,3.0,12.0,2023,177
+3.0,2:09,,,LVR 35,21.0,17.0,"Daniel Carlson kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,177
+3.0,2:09,1.0,10.0,KAN 25,21.0,17.0,Patrick Mahomes pass complete short middle to Travis Kelce for 16 yards (tackle by Marcus Epps),0.61,1.66,12.0,2023,177
+3.0,1:32,1.0,10.0,KAN 41,21.0,17.0,Isiah Pacheco right guard for 6 yards (tackle by Robert Spillane),1.66,1.93,12.0,2023,177
+3.0,0:53,2.0,4.0,KAN 47,21.0,17.0,Patrick Mahomes pass complete short right to Isiah Pacheco for 10 yards (tackle by Robert Spillane),1.93,2.72,12.0,2023,177
+3.0,0:12,1.0,10.0,LVR 43,21.0,17.0,"Clyde Edwards-Helaire right guard for no gain (tackle by Divine Deablo). Penalty on Jawaan Taylor: Offensive Holding, 10 yards (accepted) (no play)",2.72,2.06,12.0,2023,177
+4.0,15:00,1.0,20.0,KAN 47,21.0,17.0,Patrick Mahomes pass complete short right to Rashee Rice for 9 yards (tackle by Jack Jones),2.06,2.04,12.0,2023,177
+4.0,14:25,2.0,11.0,LVR 44,21.0,17.0,Patrick Mahomes pass complete short middle to Travis Kelce for 5 yards (tackle by Tre'von Moehrig),2.04,2.01,12.0,2023,177
+4.0,13:48,3.0,6.0,LVR 39,27.0,17.0,"Patrick Mahomes pass complete short left to Rashee Rice for 39 yards, touchdown",2.01,7.0,12.0,2023,177
+4.0,13:40,,,LVR 15,28.0,17.0,Harrison Butker kicks extra point good,0.0,0.0,12.0,2023,177
+4.0,13:40,,,KAN 35,28.0,17.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,177
+4.0,13:40,1.0,10.0,LVR 25,28.0,17.0,Josh Jacobs right guard for 5 yards (tackle by Matt Dickerson and Drue Tranquill),0.61,0.74,12.0,2023,177
+4.0,12:56,2.0,5.0,LVR 30,28.0,17.0,Aidan O'Connell pass complete short left to Austin Hooper for 14 yards (tackle by Justin Reid),0.74,1.86,12.0,2023,177
+4.0,12:11,1.0,10.0,LVR 44,28.0,17.0,Aidan O'Connell pass complete short left to Josh Jacobs for 1 yard (tackle by Matt Dickerson),1.86,1.45,12.0,2023,177
+4.0,11:26,2.0,9.0,LVR 45,28.0,17.0,Josh Jacobs left tackle for 1 yard (tackle by Charles Omenihu),1.45,0.89,12.0,2023,177
+4.0,10:40,3.0,8.0,LVR 46,28.0,17.0,Aidan O'Connell pass complete short right to Michael Mayer for 10 yards (tackle by Justin Reid),0.89,2.65,12.0,2023,177
+4.0,9:56,1.0,10.0,KAN 44,28.0,17.0,Aidan O'Connell pass incomplete short middle intended for Josh Jacobs,2.65,2.11,12.0,2023,177
+4.0,9:51,2.0,10.0,KAN 44,28.0,17.0,Jakobi Meyers pass incomplete short right,2.11,1.42,12.0,2023,177
+4.0,9:45,3.0,10.0,KAN 44,28.0,17.0,Aidan O'Connell pass incomplete short left intended for Michael Mayer (defended by Trent McDuffie),1.42,0.33,12.0,2023,177
+4.0,9:42,4.0,10.0,KAN 44,28.0,17.0,AJ Cole punts 37 yards out of bounds,0.33,0.38,12.0,2023,177
+4.0,9:33,1.0,10.0,KAN 7,28.0,17.0,Patrick Mahomes pass complete deep left to Rashee Rice for 19 yards (tackle by Amik Robertson),-0.38,0.67,12.0,2023,177
+4.0,9:01,1.0,10.0,KAN 26,28.0,17.0,Isiah Pacheco up the middle for 2 yards (tackle by Malcolm Koonce),0.67,0.4,12.0,2023,177
+4.0,8:25,2.0,8.0,KAN 28,28.0,17.0,Patrick Mahomes pass complete short middle to Noah Gray for 5 yards (tackle by Robert Spillane),0.4,0.37,12.0,2023,177
+4.0,7:42,3.0,3.0,KAN 33,28.0,17.0,Patrick Mahomes pass incomplete short right intended for Justin Watson,0.37,-1.18,12.0,2023,177
+4.0,7:36,4.0,3.0,KAN 33,28.0,17.0,"Tommy Townsend punts 57 yards, fair catch by DeAndre Carter at LV-10",-1.18,0.38,12.0,2023,177
+4.0,7:28,1.0,10.0,LVR 10,28.0,17.0,Aidan O'Connell pass incomplete short left intended for Josh Jacobs,-0.38,-0.78,12.0,2023,177
+4.0,7:24,2.0,10.0,LVR 10,28.0,17.0,Aidan O'Connell pass incomplete short right intended for Tre Tucker,-0.78,-1.42,12.0,2023,177
+4.0,7:20,3.0,10.0,LVR 10,28.0,17.0,Aidan O'Connell pass complete short left to Hunter Renfrow for 9 yards (tackle by Drue Tranquill),-1.42,-2.14,12.0,2023,177
+4.0,6:32,4.0,1.0,LVR 19,28.0,17.0,Josh Jacobs up the middle for -2 yards (tackle by Drue Tranquill and Chris Jones),-2.14,-4.44,12.0,2023,177
+4.0,6:29,1.0,10.0,LVR 17,28.0,17.0,Isiah Pacheco right tackle for 8 yards (tackle by Jack Jones),4.44,5.29,12.0,2023,177
+4.0,5:48,2.0,2.0,LVR 9,28.0,17.0,Isiah Pacheco right end for 4 yards (tackle by Tre'von Moehrig),5.29,6.06,12.0,2023,177
+4.0,5:13,,,,,,Timeout #1 by Las Vegas Raiders,,,12.0,2023,177
+4.0,5:13,1.0,5.0,LVR 5,28.0,17.0,"Isiah Pacheco right guard for no gain (tackle by Divine Deablo). Penalty on Creed Humphrey: Offensive Holding, 10 yards (accepted) (no play)",6.06,4.37,12.0,2023,177
+4.0,4:44,1.0,15.0,LVR 15,28.0,17.0,Patrick Mahomes scrambles up the middle for 2 yards (tackle by Jerry Tillery),4.37,3.72,12.0,2023,177
+4.0,4:02,2.0,13.0,LVR 13,28.0,17.0,Patrick Mahomes pass complete short left to Skyy Moore for 5 yards (tackle by Amik Robertson),3.72,3.58,12.0,2023,177
+4.0,3:20,3.0,8.0,LVR 8,28.0,17.0,"Penalty on Jawaan Taylor: False Start, 5 yards (accepted) (no play)",3.58,3.06,12.0,2023,177
+4.0,3:20,3.0,13.0,LVR 13,28.0,17.0,"Patrick Mahomes pass complete short right to Marquez Valdes-Scantling for -1 yards (tackle by Nate Hobbs). Penalty on Trey Smith: Ineligible Downfield Pass, 5 yards (declined)",3.06,2.51,12.0,2023,177
+4.0,3:14,4.0,14.0,LVR 14,31.0,17.0,Harrison Butker 32 yard field goal good,2.51,3.0,12.0,2023,177
+4.0,3:11,,,KAN 35,31.0,17.0,"Harrison Butker kicks off 65 yards, touchback.",0.0,0.61,12.0,2023,177
+4.0,3:11,1.0,10.0,LVR 25,31.0,17.0,Aidan O'Connell pass complete short right to Hunter Renfrow for 16 yards (tackle by Bryan Cook),0.61,1.66,12.0,2023,177
+4.0,2:43,1.0,10.0,LVR 41,31.0,17.0,Aidan O'Connell pass complete short right to Josh Jacobs for 2 yards (tackle by L'Jarius Sneed),1.66,1.39,12.0,2023,177
+4.0,2:39,2.0,8.0,LVR 43,31.0,17.0,Aidan O'Connell pass incomplete short right intended for Austin Hooper (defended by Jaylen Watson),1.39,0.7,12.0,2023,177
+4.0,2:35,3.0,8.0,LVR 43,31.0,17.0,Aidan O'Connell sacked by George Karlaftis for -13 yards,0.7,-1.37,12.0,2023,177
+4.0,2:00,4.0,21.0,LVR 30,31.0,17.0,Aidan O'Connell pass complete short right to Jakobi Meyers for 4 yards (tackle by Michael Danna),-1.37,-3.31,12.0,2023,177
+4.0,1:51,1.0,10.0,LVR 34,31.0,17.0,Clyde Edwards-Helaire left guard for no gain (tackle by Tyree Wilson),3.31,2.77,12.0,2023,177
+4.0,1:09,2.0,10.0,LVR 34,31.0,17.0,Patrick Mahomes kneels for -1 yards,2.77,1.95,12.0,2023,177
+4.0,0:36,3.0,11.0,LVR 35,31.0,17.0,Patrick Mahomes kneels for -1 yards,1.95,0.88,12.0,2023,177

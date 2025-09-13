@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result,home_team,team,week,year,game_id
+1,1,15:00,DET 30,3,0:58,0,Punt,1,Lions,15.0,2024,217
+2,1,10:56,DET 30,5,3:12,3,Punt,1,Lions,15.0,2024,217
+3,1,2:01,DET 30,9,3:25,70,Touchdown,1,Lions,15.0,2024,217
+4,2,8:15,DET 30,10,5:14,70,Touchdown,1,Lions,15.0,2024,217
+5,2,1:43,DET 20,7,1:07,46,Missed FG,1,Lions,15.0,2024,217
+6,3,13:11,DET 30,3,1:55,-5,Punt,1,Lions,15.0,2024,217
+7,3,7:03,DET 4,4,1:55,37,Fumble,1,Lions,15.0,2024,217
+8,3,3:31,DET 30,5,1:50,70,Touchdown,1,Lions,15.0,2024,217
+9,4,14:02,DET 30,5,2:02,70,Touchdown,1,Lions,15.0,2024,217
+10,4,11:51,DET 30,11,3:49,70,Touchdown,1,Lions,15.0,2024,217
+11,4,2:03,DET 30,16,1:51,70,Touchdown,1,Lions,15.0,2024,217

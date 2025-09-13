@@ -1,0 +1,164 @@
+Quarter,Time,Down,ToGo,Location,CHI,LAC,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Chargers won the coin toss and deferred, Bears to receive the opening kickoff.",,,8.0,2023,121
+1.0,15:00,,,LAC 35,0.0,0.0,"Cameron Dicker kicks off 68 yards, returned by Velus Jones for 24 yards (tackle by Daiyan Henley and Dean Marlowe)",0.0,0.34,8.0,2023,121
+1.0,14:39,1.0,10.0,CHI 21,0.0,0.0,"Tyson Bagent pass complete deep right to Darnell Mooney for 41 yards (tackle by Asante Samuel). Penalty on Asante Samuel: Defensive Pass Interference, 15 yards (declined)",0.34,3.05,8.0,2023,121
+1.0,14:39,1.0,10.0,LAC 38,0.0,0.0,D'Onta Foreman up the middle for 1 yard (tackle by Kenneth Murray),3.05,2.64,8.0,2023,121
+1.0,14:12,2.0,9.0,LAC 37,0.0,0.0,Trent Taylor left end for -2 yards (tackle by Khalil Mack),2.64,1.68,8.0,2023,121
+1.0,13:28,3.0,11.0,LAC 39,0.0,0.0,Tyson Bagent sacked by Joey Bosa for -10 yards,1.68,0.0,8.0,2023,121
+1.0,12:51,4.0,21.0,LAC 49,0.0,0.0,"Trenton Gill punts 41 yards, fair catch by Derius Davis at LAC-8. Penalty on Daiyan Henley: Running Into the Kicker, 5 yards (declined)",0.0,0.38,8.0,2023,121
+1.0,12:44,1.0,10.0,LAC 8,0.0,0.0,Justin Herbert scrambles up the middle for 1 yard (tackle by Jaylon Johnson),-0.38,-0.71,8.0,2023,121
+1.0,12:11,2.0,9.0,LAC 9,0.0,0.0,Justin Herbert pass complete short left to Keenan Allen for 4 yards (tackle by Tyrique Stevenson),-0.71,-0.84,8.0,2023,121
+1.0,11:32,3.0,5.0,LAC 13,0.0,0.0,Justin Herbert pass complete short middle to Keenan Allen for 6 yards (tackle by Elijah Hicks),-0.84,0.15,8.0,2023,121
+1.0,10:57,1.0,10.0,LAC 19,0.0,0.0,Joshua Kelley right tackle for 5 yards (tackle by T.J. Edwards),0.15,0.34,8.0,2023,121
+1.0,10:23,2.0,5.0,LAC 24,0.0,0.0,Justin Herbert pass complete short right to Keenan Allen for 8 yards (tackle by Tyrique Stevenson),0.34,1.07,8.0,2023,121
+1.0,9:50,1.0,10.0,LAC 32,0.0,0.0,Justin Herbert pass complete short middle to Austin Ekeler for 13 yards (tackle by Khalid Kareem),1.07,1.93,8.0,2023,121
+1.0,9:07,1.0,10.0,LAC 45,0.0,0.0,Austin Ekeler right guard for 5 yards (tackle by Kyler Gordon),1.93,2.06,8.0,2023,121
+1.0,8:33,2.0,5.0,CHI 50,0.0,0.0,Justin Herbert pass complete short left to Donald Parham for 7 yards (tackle by Elijah Hicks),2.06,2.72,8.0,2023,121
+1.0,7:54,1.0,10.0,CHI 43,0.0,0.0,Joshua Kelley left tackle for 4 yards (tackle by Zacch Pickens),2.72,2.72,8.0,2023,121
+1.0,7:19,2.0,6.0,CHI 39,0.0,6.0,"Justin Herbert pass complete short left to Austin Ekeler for 39 yards, touchdown",2.72,7.0,8.0,2023,121
+1.0,7:08,,,CHI 15,0.0,7.0,Cameron Dicker kicks extra point good,0.0,0.0,8.0,2023,121
+1.0,7:08,,,LAC 35,0.0,7.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,121
+1.0,7:08,1.0,10.0,CHI 25,0.0,7.0,Tyson Bagent pass complete short right to Velus Jones for 4 yards (tackle by Michael Davis),0.61,0.6,8.0,2023,121
+1.0,6:24,2.0,6.0,CHI 29,0.0,7.0,"D'Onta Foreman right end for 18 yards (tackle by Derwin James). Penalty on Lucas Patrick: Illegal Use of Hands / Offense, 10 yards (accepted) (no play)",0.6,-0.81,8.0,2023,121
+1.0,6:08,2.0,16.0,CHI 19,0.0,7.0,"Tyson Bagent pass incomplete short right intended for Khari Blasingame. Penalty on Lucas Patrick: Offensive Holding, 10 yards (declined)",-0.81,-1.51,8.0,2023,121
+1.0,6:01,3.0,16.0,CHI 19,0.0,7.0,Tyson Bagent pass complete short left to Cole Kmet for 13 yards,-1.51,-1.24,8.0,2023,121
+1.0,5:16,4.0,3.0,CHI 32,0.0,7.0,"Trenton Gill punts 38 yards, fair catch by Derius Davis at LAC-30. Penalty on Velus Jones: Fair Catch Interference, 15 yards (accepted)",-1.24,-1.93,8.0,2023,121
+1.0,5:01,1.0,10.0,LAC 45,0.0,7.0,Justin Herbert pass complete short right to Josh Palmer for 9 yards (tackle by Tyrique Stevenson),1.93,2.6,8.0,2023,121
+1.0,4:31,2.0,1.0,CHI 46,0.0,7.0,Austin Ekeler right guard for 2 yards (tackle by Tyrique Stevenson),2.6,2.65,8.0,2023,121
+1.0,3:56,1.0,10.0,CHI 44,0.0,7.0,Joshua Kelley right tackle for 3 yards (tackle by DeMarcus Walker),2.65,2.52,8.0,2023,121
+1.0,3:18,2.0,7.0,CHI 41,0.0,7.0,Justin Herbert pass complete short right to Josh Palmer for 9 yards (tackle by Tyrique Stevenson),2.52,3.45,8.0,2023,121
+1.0,2:57,1.0,10.0,CHI 32,0.0,7.0,Joshua Kelley up the middle for 3 yards (tackle by T.J. Edwards),3.45,3.31,8.0,2023,121
+1.0,2:28,2.0,7.0,CHI 29,0.0,7.0,Justin Herbert pass complete short middle to Austin Ekeler for 13 yards (tackle by T.J. Edwards),3.31,4.51,8.0,2023,121
+1.0,1:50,1.0,10.0,CHI 16,0.0,7.0,Austin Ekeler up the middle for 4 yards (tackle by Jack Sanborn),4.51,4.57,8.0,2023,121
+1.0,1:09,2.0,6.0,CHI 12,0.0,7.0,Justin Herbert pass complete short left to Austin Ekeler for 3 yards (tackle by Tyrique Stevenson and Justin Jones),4.57,4.39,8.0,2023,121
+1.0,0:49,3.0,3.0,CHI 9,0.0,13.0,"Justin Herbert pass complete short left to Simi Fehoko for 9 yards, touchdown",4.39,7.0,8.0,2023,121
+1.0,0:43,,,CHI 15,0.0,14.0,Cameron Dicker kicks extra point good,0.0,0.0,8.0,2023,121
+1.0,0:43,,,LAC 35,0.0,14.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,121
+1.0,0:43,1.0,10.0,CHI 25,0.0,14.0,Tyson Bagent pass complete short right to D.J. Moore for 8 yards (tackle by Asante Samuel),0.61,1.14,8.0,2023,121
+1.0,0:15,2.0,2.0,CHI 33,0.0,14.0,Tyson Bagent pass complete short left to Roschon Johnson for 7 yards (tackle by Eric Kendricks),1.14,1.6,8.0,2023,121
+2.0,15:00,1.0,10.0,CHI 40,0.0,14.0,Roschon Johnson right guard for 2 yards (tackle by Eric Kendricks),1.6,1.32,8.0,2023,121
+2.0,14:21,2.0,8.0,CHI 42,0.0,14.0,Roschon Johnson right guard for 11 yards (tackle by Dean Marlowe and Michael Davis),1.32,2.46,8.0,2023,121
+2.0,13:44,1.0,10.0,LAC 47,0.0,14.0,"Tyson Bagent aborted snap, recovered by Roschon Johnson at LAC-47",2.46,2.18,8.0,2023,121
+2.0,12:56,2.0,8.0,LAC 45,0.0,14.0,Tyson Bagent pass incomplete short left intended for Darnell Mooney,2.18,1.49,8.0,2023,121
+2.0,12:50,3.0,8.0,LAC 45,0.0,14.0,Tyson Bagent pass short left intended for D.J. Moore is intercepted by Ja'Sir Taylor at LAC-35 and returned for 8 yards (tackle by Darnell Mooney),1.49,-1.8,8.0,2023,121
+2.0,12:45,1.0,10.0,LAC 43,0.0,14.0,Justin Herbert pass complete short right to Isaiah Spiller for 5 yards (tackle by T.J. Edwards and Tyrique Stevenson),1.8,1.93,8.0,2023,121
+2.0,12:15,2.0,5.0,LAC 48,0.0,14.0,Justin Herbert pass complete short right to Donald Parham for 8 yards (tackle by T.J. Edwards),1.93,2.65,8.0,2023,121
+2.0,11:39,1.0,10.0,CHI 44,0.0,14.0,Austin Ekeler left end for -2 yards (tackle by T.J. Edwards),2.65,1.84,8.0,2023,121
+2.0,10:58,2.0,12.0,CHI 46,0.0,14.0,Justin Herbert pass complete short right to Josh Palmer for 6 yards (tackle by Tremaine Edmunds),1.84,1.95,8.0,2023,121
+2.0,10:15,3.0,6.0,CHI 40,0.0,14.0,"Justin Herbert pass incomplete short right intended for Quentin Johnston. Penalty on Tyrique Stevenson: Defensive Pass Interference, 8 yards (accepted) (no play)",1.95,3.45,8.0,2023,121
+2.0,10:15,1.0,10.0,CHI 32,0.0,14.0,Justin Herbert pass complete short left to Quentin Johnston for 3 yards (tackle by Jack Sanborn),3.45,3.31,8.0,2023,121
+2.0,9:40,2.0,7.0,CHI 29,0.0,14.0,Austin Ekeler left tackle for 4 yards (tackle by Kyler Gordon and Duron Harmon),3.31,3.14,8.0,2023,121
+2.0,9:02,3.0,3.0,CHI 25,0.0,14.0,Justin Herbert pass incomplete short middle intended for Donald Parham (defended by Khalid Kareem),3.14,1.9,8.0,2023,121
+2.0,8:55,4.0,3.0,CHI 25,0.0,17.0,Cameron Dicker 43 yard field goal good,1.9,3.0,8.0,2023,121
+2.0,8:50,,,LAC 35,0.0,17.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,121
+2.0,8:50,1.0,10.0,CHI 25,0.0,17.0,Tyson Bagent pass incomplete short middle intended for D'Onta Foreman (defended by Kenneth Murray),0.61,0.06,8.0,2023,121
+2.0,8:46,2.0,10.0,CHI 25,0.0,17.0,D'Onta Foreman left tackle for 4 yards (tackle by Kenneth Murray and Austin Johnson),0.06,-0.1,8.0,2023,121
+2.0,8:05,3.0,6.0,CHI 29,0.0,17.0,Tyson Bagent pass complete short left to D.J. Moore for 18 yards (tackle by Derwin James),-0.1,2.06,8.0,2023,121
+2.0,7:16,1.0,10.0,CHI 47,0.0,17.0,D'Onta Foreman left tackle for 5 yards (tackle by Scott Matlock),2.06,2.19,8.0,2023,121
+2.0,6:37,2.0,5.0,LAC 48,0.0,17.0,D'Onta Foreman up the middle for 6 yards (tackle by Morgan Fox and Kenneth Murray),2.19,2.79,8.0,2023,121
+2.0,5:55,1.0,10.0,LAC 42,0.0,17.0,D'Onta Foreman left tackle for 2 yards (tackle by Eric Kendricks and Austin Johnson),2.79,2.51,8.0,2023,121
+2.0,5:20,2.0,8.0,LAC 40,0.0,17.0,Tyson Bagent pass incomplete deep left intended for Velus Jones,2.51,1.82,8.0,2023,121
+2.0,5:14,3.0,8.0,LAC 40,0.0,17.0,Tyson Bagent pass complete short right to Cole Kmet for 10 yards (tackle by Eric Kendricks),1.82,3.58,8.0,2023,121
+2.0,4:30,1.0,10.0,LAC 30,0.0,17.0,Tyson Bagent pass complete short left to D'Onta Foreman for no gain (tackle by Asante Samuel and Derwin James) (no play),3.58,3.25,8.0,2023,121
+2.0,4:09,1.0,15.0,LAC 35,0.0,17.0,Tyson Bagent pass complete short right to Cole Kmet for 6 yards (tackle by Derwin James and Kenneth Murray),3.25,3.17,8.0,2023,121
+2.0,3:31,2.0,9.0,LAC 29,0.0,17.0,Roschon Johnson right tackle for 1 yard (tackle by Eric Kendricks and Joey Bosa),3.17,2.61,8.0,2023,121
+2.0,2:52,3.0,8.0,LAC 28,0.0,17.0,Tyson Bagent pass complete short right to D.J. Moore for 11 yards (tackle by Derwin James and Michael Davis),2.61,4.44,8.0,2023,121
+2.0,2:09,1.0,10.0,LAC 17,0.0,17.0,Tyson Bagent pass complete short left to Cole Kmet for 3 yards (tackle by Michael Davis),4.44,4.32,8.0,2023,121
+2.0,2:00,2.0,7.0,LAC 14,0.0,17.0,Darnell Mooney scrambles left end for 3 yards (tackle by Kenneth Murray),4.32,4.1,8.0,2023,121
+2.0,1:52,3.0,4.0,LAC 11,6.0,17.0,"Darrynton Evans right end for 11 yards, touchdown",4.1,7.0,8.0,2023,121
+2.0,1:47,,,LAC 15,7.0,17.0,Cairo Santos kicks extra point good,0.0,0.0,8.0,2023,121
+2.0,1:47,,,CHI 35,7.0,17.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,121
+2.0,1:47,1.0,10.0,LAC 25,7.0,17.0,Justin Herbert pass incomplete short middle,0.61,0.06,8.0,2023,121
+2.0,1:43,2.0,10.0,LAC 25,7.0,17.0,Justin Herbert pass complete short right to Quentin Johnston for 11 yards (tackle by Tyrique Stevenson),0.06,1.33,8.0,2023,121
+2.0,1:23,1.0,10.0,LAC 36,7.0,17.0,Justin Herbert pass complete short left to Quentin Johnston for 12 yards (tackle by Duron Harmon),1.33,2.13,8.0,2023,121
+2.0,1:01,1.0,10.0,LAC 48,7.0,17.0,"Justin Herbert scrambles left end for no gain (tackle by T.J. Edwards). Penalty on DeMarcus Walker: Defensive Offside, 5 yards (accepted) (no play)",2.13,2.86,8.0,2023,121
+2.0,0:50,1.0,5.0,CHI 47,7.0,17.0,Justin Herbert pass complete short left to Austin Ekeler for 23 yards (tackle by Duron Harmon),2.86,3.97,8.0,2023,121
+2.0,0:42,,,,,,Timeout #1 by Los Angeles Chargers,,,8.0,2023,121
+2.0,0:42,1.0,10.0,CHI 24,7.0,17.0,Justin Herbert pass complete short right to Keenan Allen for 7 yards (tackle by Kyler Gordon),3.97,4.46,8.0,2023,121
+2.0,0:37,,,,,,Timeout #2 by Los Angeles Chargers,,,8.0,2023,121
+2.0,0:37,2.0,3.0,CHI 17,7.0,17.0,Justin Herbert pass incomplete deep left intended for Quentin Johnston (defended by Jaylon Johnson),4.46,3.75,8.0,2023,121
+2.0,0:32,3.0,3.0,CHI 17,7.0,17.0,Justin Herbert pass complete short middle to Quentin Johnston for 6 yards (tackle by Duron Harmon),3.75,4.84,8.0,2023,121
+2.0,0:15,1.0,10.0,CHI 11,7.0,17.0,Justin Herbert pass incomplete short middle intended for Josh Palmer (defended by Justin Jones),4.84,4.14,8.0,2023,121
+2.0,0:11,2.0,10.0,CHI 11,7.0,23.0,"Justin Herbert pass complete short right to Donald Parham for 11 yards, touchdown",4.14,7.0,8.0,2023,121
+2.0,0:04,,,CHI 15,7.0,24.0,Cameron Dicker kicks extra point good,0.0,0.0,8.0,2023,121
+2.0,0:04,,,LAC 35,7.0,24.0,"Cameron Dicker kicks off 44 yards, returned by Roschon Johnson for no gain",0.0,0.34,8.0,2023,121
+2.0,0:03,1.0,10.0,CHI 21,7.0,24.0,Tyson Bagent kneels for -1 yards,0.34,-0.34,8.0,2023,121
+3.0,15:00,,,CHI 35,7.0,24.0,"Cairo Santos kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,121
+3.0,15:00,1.0,10.0,LAC 25,7.0,24.0,Austin Ekeler right tackle for -3 yards (tackle by Justin Jones and Andrew Billings),0.61,-0.34,8.0,2023,121
+3.0,14:19,2.0,13.0,LAC 22,7.0,24.0,Justin Herbert pass complete short middle to Keenan Allen for 7 yards (tackle by Tyrique Stevenson),-0.34,-0.1,8.0,2023,121
+3.0,13:44,3.0,6.0,LAC 29,7.0,24.0,Justin Herbert pass complete short left to Austin Ekeler for 9 yards (tackle by Jaylon Johnson),-0.1,1.47,8.0,2023,121
+3.0,13:04,1.0,10.0,LAC 38,7.0,24.0,Justin Herbert pass complete short left to Derius Davis for -1 yards (tackle by Duron Harmon),1.47,0.79,8.0,2023,121
+3.0,12:36,2.0,11.0,LAC 37,7.0,24.0,", recovered by Justin Herbert at LAC-37 Justin Herbert pass incomplete. Penalty on Andrew Billings: Defensive Offside, 5 yards (accepted) (no play)",0.79,1.46,8.0,2023,121
+3.0,12:22,2.0,6.0,LAC 42,7.0,24.0,Austin Ekeler left guard for 5 yards (tackle by Jack Sanborn),1.46,1.42,8.0,2023,121
+3.0,11:53,3.0,1.0,LAC 47,7.0,24.0,"Penalty on Donald Parham: False Start, 5 yards (accepted) (no play)",1.42,0.76,8.0,2023,121
+3.0,11:34,3.0,6.0,LAC 42,7.0,24.0,Justin Herbert pass complete short right to Donald Parham for 17 yards (tackle by Jaylon Jones),0.76,2.85,8.0,2023,121
+3.0,10:56,1.0,10.0,CHI 41,7.0,24.0,"Justin Herbert pass incomplete deep right intended for Keenan Allen. Penalty on Rashawn Slater: Offensive Holding, 10 yards (accepted) (no play)",2.85,2.19,8.0,2023,121
+3.0,10:55,1.0,20.0,LAC 49,7.0,24.0,Austin Ekeler right end for 6 yards (tackle by T.J. Edwards and Tyrique Stevenson),2.19,1.77,8.0,2023,121
+3.0,10:18,2.0,14.0,CHI 45,7.0,24.0,Justin Herbert pass complete short middle to Derius Davis for 5 yards (tackle by Kyler Gordon and T.J. Edwards),1.77,1.75,8.0,2023,121
+3.0,9:36,3.0,9.0,CHI 40,7.0,24.0,Justin Herbert pass complete short middle to Keenan Allen for 5 yards (tackle by Jack Sanborn),1.75,0.98,8.0,2023,121
+3.0,8:56,4.0,4.0,CHI 35,7.0,27.0,Cameron Dicker 53 yard field goal good,0.98,3.0,8.0,2023,121
+3.0,8:51,,,LAC 35,7.0,27.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,121
+3.0,8:51,1.0,10.0,CHI 25,7.0,27.0,D'Onta Foreman right guard for no gain (tackle by Sebastian Joseph-Day),0.61,0.06,8.0,2023,121
+3.0,8:12,2.0,10.0,CHI 25,7.0,27.0,Tyson Bagent pass complete short middle to D'Onta Foreman for 2 yards (tackle by Eric Kendricks),0.06,-0.36,8.0,2023,121
+3.0,7:33,3.0,8.0,CHI 27,7.0,27.0,Tyson Bagent pass incomplete short middle intended for D.J. Moore (defended by Eric Kendricks),-0.36,-1.57,8.0,2023,121
+3.0,7:24,4.0,8.0,CHI 27,7.0,27.0,"Trenton Gill punts 47 yards, returned by Derius Davis for 6 yards (tackle by Noah Sewell)",-1.57,-1.07,8.0,2023,121
+3.0,7:14,1.0,10.0,LAC 32,7.0,27.0,Austin Ekeler up the middle for -1 yards (tackle by T.J. Edwards),1.07,0.39,8.0,2023,121
+3.0,6:34,2.0,11.0,LAC 31,7.0,27.0,Justin Herbert pass incomplete deep left intended for Keenan Allen,0.39,-0.29,8.0,2023,121
+3.0,6:24,3.0,11.0,LAC 31,7.0,27.0,Justin Herbert pass incomplete deep right intended for Simi Fehoko,-0.29,-1.31,8.0,2023,121
+3.0,6:19,4.0,11.0,LAC 31,7.0,27.0,"JK Scott punts 63 yards, returned by Trent Taylor for 14 yards (tackle by Tanner Muse)",-1.31,-0.28,8.0,2023,121
+3.0,6:08,1.0,10.0,CHI 20,7.0,27.0,Roschon Johnson right end for 5 yards (tackle by Eric Kendricks and Nick Williams),0.28,0.41,8.0,2023,121
+3.0,5:24,2.0,5.0,CHI 25,7.0,27.0,"Penalty on Marcedes Lewis: False Start, 5 yards (accepted) (no play)",0.41,-0.27,8.0,2023,121
+3.0,5:14,2.0,10.0,CHI 20,7.0,27.0,Tyson Bagent pass complete short right to Cole Kmet for 7 yards (tackle by Kenneth Murray),-0.27,-0.03,8.0,2023,121
+3.0,4:38,3.0,3.0,CHI 27,7.0,27.0,Tyson Bagent pass complete short right to Cole Kmet for 2 yards (tackle by Derwin James and Kenneth Murray),-0.03,-1.44,8.0,2023,121
+3.0,3:58,4.0,1.0,CHI 29,7.0,27.0,Roschon Johnson right guard for no gain (tackle by Joey Bosa and Sebastian Joseph-Day),-1.44,-3.64,8.0,2023,121
+3.0,3:52,1.0,10.0,CHI 29,7.0,27.0,Austin Ekeler right end for 1 yard (tackle by Jaylon Johnson and T.J. Edwards),3.64,3.24,8.0,2023,121
+3.0,3:16,2.0,9.0,CHI 28,7.0,27.0,Justin Herbert pass incomplete short right intended for Austin Ekeler,3.24,2.54,8.0,2023,121
+3.0,3:10,3.0,9.0,CHI 28,7.0,27.0,Justin Herbert pass incomplete short left intended for Keenan Allen,2.54,1.59,8.0,2023,121
+3.0,3:05,4.0,9.0,CHI 28,7.0,30.0,Cameron Dicker 46 yard field goal good,1.59,3.0,8.0,2023,121
+3.0,3:00,,,LAC 35,7.0,30.0,"Cameron Dicker kicks off 65 yards, touchback.",0.0,0.61,8.0,2023,121
+3.0,3:00,1.0,10.0,CHI 25,7.0,30.0,Tyson Bagent pass complete short left to D.J. Moore for 18 yards (tackle by Eric Kendricks),0.61,1.8,8.0,2023,121
+3.0,2:33,1.0,10.0,CHI 43,7.0,30.0,D'Onta Foreman up the middle for 12 yards (tackle by Derwin James),1.8,2.59,8.0,2023,121
+3.0,2:13,1.0,10.0,LAC 45,7.0,30.0,Tyson Bagent pass complete short right to Tyler Scott for 11 yards (tackle by Asante Samuel),2.59,3.31,8.0,2023,121
+3.0,1:50,1.0,10.0,LAC 34,7.0,30.0,D'Onta Foreman up the middle for 4 yards (tackle by Joey Bosa and Austin Johnson),3.31,3.31,8.0,2023,121
+3.0,1:09,2.0,6.0,LAC 30,7.0,30.0,Tyson Bagent pass complete short right to Cole Kmet for 4 yards (tackle by Eric Kendricks and Scott Matlock),3.31,3.14,8.0,2023,121
+3.0,0:37,3.0,2.0,LAC 26,7.0,30.0,D'Onta Foreman left guard for no gain (tackle by Chris Rumph),3.14,1.86,8.0,2023,121
+4.0,15:00,4.0,2.0,LAC 26,7.0,30.0,Tyson Bagent pass incomplete short right intended for Darrynton Evans (defended by Asante Samuel),1.86,-0.74,8.0,2023,121
+4.0,14:57,1.0,10.0,LAC 27,7.0,30.0,Austin Ekeler up the middle for 3 yards (tackle by Jack Sanborn and T.J. Edwards),0.74,0.6,8.0,2023,121
+4.0,14:22,2.0,7.0,LAC 30,7.0,30.0,Justin Herbert pass incomplete short right,0.6,-0.1,8.0,2023,121
+4.0,14:18,3.0,7.0,LAC 30,7.0,30.0,Justin Herbert pass complete deep right to Keenan Allen for 26 yards,-0.1,2.65,8.0,2023,121
+4.0,13:36,1.0,10.0,CHI 44,7.0,30.0,Justin Herbert pass complete short right to Keenan Allen for 6 yards (tackle by Tyrique Stevenson),2.65,2.92,8.0,2023,121
+4.0,12:59,2.0,4.0,CHI 38,7.0,30.0,Joshua Kelley right guard for 3 yards (tackle by Jack Sanborn),2.92,2.61,8.0,2023,121
+4.0,12:28,3.0,1.0,CHI 35,7.0,30.0,Austin Ekeler up the middle for no gain (tackle by Justin Jones and Andrew Billings),2.61,1.0,8.0,2023,121
+4.0,11:38,4.0,1.0,CHI 35,7.0,30.0,"Austin Ekeler left tackle for no gain (tackle by Elijah Hicks). Penalty on Tre' McKitty: Offensive Holding, 10 yards (declined)",1.0,-1.27,8.0,2023,121
+4.0,11:38,1.0,10.0,CHI 35,7.0,30.0,Tyson Bagent pass incomplete deep right intended for Tyler Scott,1.27,0.72,8.0,2023,121
+4.0,11:32,2.0,10.0,CHI 35,7.0,30.0,Tyson Bagent pass complete short left to Robert Tonyan for 8 yards (tackle by Asante Samuel),0.72,1.16,8.0,2023,121
+4.0,11:09,3.0,1.0,CHI 43,7.0,30.0,Darrynton Evans up the middle for 2 yards (tackle by Chris Rumph and Nick Williams),1.16,1.93,8.0,2023,121
+4.0,10:47,1.0,10.0,CHI 45,7.0,30.0,Tyson Bagent pass complete short right to Darrynton Evans for 8 yards (tackle by Asante Samuel),1.93,2.46,8.0,2023,121
+4.0,10:22,2.0,2.0,LAC 47,7.0,30.0,Tyson Bagent pass complete short right to Cole Kmet for 9 yards (tackle by Kenneth Murray),2.46,3.05,8.0,2023,121
+4.0,9:58,1.0,10.0,LAC 38,7.0,30.0,Tyson Bagent pass complete short left to Darrynton Evans for 6 yards (tackle by Eric Kendricks),3.05,3.32,8.0,2023,121
+4.0,9:33,2.0,4.0,LAC 32,7.0,30.0,Darrynton Evans up the middle for 1 yard (tackle by Kenneth Murray),3.32,2.74,8.0,2023,121
+4.0,9:12,3.0,3.0,LAC 31,7.0,30.0,Tyson Bagent pass incomplete short left intended for Tyler Scott (defended by Asante Samuel),2.74,1.38,8.0,2023,121
+4.0,9:04,4.0,3.0,LAC 31,7.0,30.0,Tyson Bagent pass short middle (defended by Alohi Gilman) intended for Darnell Mooney is intercepted by Derwin James at LAC-19 and returned for 6 yards (tackle by Tyler Scott),1.38,-0.61,8.0,2023,121
+4.0,8:54,1.0,10.0,LAC 25,7.0,30.0,"Austin Ekeler right tackle for -2 yards (tackle by Andrew Billings). Penalty on Rashawn Slater: Offensive Holding, 10 yards (declined)",0.61,-0.21,8.0,2023,121
+4.0,8:33,2.0,12.0,LAC 23,7.0,30.0,Austin Ekeler up the middle for 7 yards (tackle by Jack Sanborn),-0.21,0.04,8.0,2023,121
+4.0,7:55,3.0,5.0,LAC 30,7.0,30.0,Justin Herbert pass complete deep right to Quentin Johnston for 18 yards (tackle by Tyrique Stevenson),0.04,2.13,8.0,2023,121
+4.0,7:07,1.0,10.0,LAC 48,7.0,30.0,Joshua Kelley right tackle for 3 yards (tackle by Rasheem Green and Jack Sanborn),2.13,1.99,8.0,2023,121
+4.0,6:26,2.0,7.0,CHI 49,7.0,30.0,"Justin Herbert pass complete short right to Austin Ekeler for -6 yards. Austin Ekeler fumbles (forced by Zacch Pickens) (tackle by Justin Jones), recovered by T.J. Edwards at LAC-41 (tackle by Zacch Pickens) (tackle by Justin Jones) (tackle by Zacch Pickens)",1.99,-2.85,8.0,2023,121
+4.0,6:14,1.0,10.0,LAC 41,7.0,30.0,Tyson Bagent pass complete short left to Roschon Johnson for 3 yards (tackle by Daiyan Henley),2.85,2.71,8.0,2023,121
+4.0,5:49,2.0,7.0,LAC 38,7.0,30.0,Tyson Bagent pass complete short left to Roschon Johnson for no gain (tackle by Daiyan Henley),2.71,2.02,8.0,2023,121
+4.0,5:10,3.0,7.0,LAC 38,7.0,30.0,Tyson Bagent pass complete short right to Cole Kmet for 8 yards (tackle by Essang Bassey),2.02,3.58,8.0,2023,121
+4.0,4:39,1.0,10.0,LAC 30,7.0,30.0,Tyson Bagent pass complete deep middle to Cole Kmet for 17 yards (tackle by Dean Marlowe),3.58,4.71,8.0,2023,121
+4.0,4:11,1.0,10.0,LAC 13,7.0,30.0,Tyson Bagent pass incomplete short right intended for Roschon Johnson,4.71,4.05,8.0,2023,121
+4.0,4:06,2.0,10.0,LAC 13,7.0,30.0,Tyson Bagent pass incomplete short right intended for Darnell Mooney,4.05,3.12,8.0,2023,121
+4.0,4:00,3.0,10.0,LAC 13,7.0,30.0,Tyson Bagent pass complete short right to Darrynton Evans for 8 yards (tackle by Dean Marlowe),3.12,3.03,8.0,2023,121
+4.0,3:20,4.0,2.0,LAC 5,7.0,30.0,Darrynton Evans up the middle for 4 yards (tackle by Tuli Tuipulotu and Nick Niemann),3.03,6.97,8.0,2023,121
+4.0,2:54,1.0,1.0,LAC 1,7.0,30.0,Tyson Bagent right guard for no gain (tackle by Dean Marlowe),6.97,5.91,8.0,2023,121
+4.0,2:22,2.0,1.0,LAC 1,13.0,30.0,"Tyson Bagent up the middle for 1 yard, touchdown",5.91,7.0,8.0,2023,121
+4.0,2:12,,,LAC 2,13.0,30.0,Two Point Attempt: Tyson Bagent pass incomplete intended for Khari Blasingame,1.0,-1.0,8.0,2023,121
+4.0,2:12,,,CHI 35,13.0,30.0,"Cairo Santos kicks onside 9 yards, returned by Keenan Allen for no gain",0.0,2.65,8.0,2023,121
+4.0,2:08,1.0,10.0,CHI 44,13.0,30.0,Isaiah Spiller left guard for 1 yard (tackle by Elijah Hicks),2.65,2.25,8.0,2023,121
+4.0,2:00,2.0,9.0,CHI 43,13.0,30.0,Isaiah Spiller left guard for no gain (tackle by T.J. Edwards),2.25,1.55,8.0,2023,121
+4.0,1:17,3.0,9.0,CHI 43,13.0,30.0,Isaiah Spiller left tackle for 2 yards (tackle by T.J. Edwards),1.55,0.53,8.0,2023,121
+4.0,0:30,,,,,,Timeout #1 by Los Angeles Chargers,,,8.0,2023,121
+4.0,0:30,4.0,7.0,CHI 41,13.0,30.0,"JK Scott punts 25 yards, fair catch by Trent Taylor at CHI-16",0.53,0.14,8.0,2023,121
+4.0,0:22,1.0,10.0,CHI 16,13.0,30.0,Tyson Bagent kneels for -1 yards,-0.14,-0.78,8.0,2023,121

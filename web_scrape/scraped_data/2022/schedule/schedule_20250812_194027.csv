@@ -1,0 +1,286 @@
+Week,Day,Date,Time,Winner/tie,Loser/tie,Boxscore,Pts,Pts.1,YdsW,TOW,YdsL,TOL,Home,Away
+1,Thu,2022-09-08,8:20PM,Buffalo Bills,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202209080ram.htm,31.0,10.0,413.0,4.0,243.0,3.0,Los Angeles Rams,Buffalo Bills
+1,Sun,2022-09-11,1:00PM,New Orleans Saints,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202209110atl.htm,27.0,26.0,385.0,1.0,416.0,2.0,Atlanta Falcons,New Orleans Saints
+1,Sun,2022-09-11,1:00PM,Cleveland Browns,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202209110car.htm,26.0,24.0,355.0,0.0,261.0,1.0,Carolina Panthers,Cleveland Browns
+1,Sun,2022-09-11,1:00PM,Chicago Bears,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202209110chi.htm,19.0,10.0,204.0,1.0,331.0,2.0,Chicago Bears,San Francisco 49ers
+1,Sun,2022-09-11,1:00PM,Pittsburgh Steelers,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202209110cin.htm,23.0,20.0,267.0,0.0,432.0,5.0,Cincinnati Bengals,Pittsburgh Steelers
+1,Sun,2022-09-11,1:00PM,Houston Texans,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202209110htx.htm,20.0,20.0,299.0,1.0,517.0,2.0,Houston Texans,Indianapolis Colts
+1,Sun,2022-09-11,1:00PM,Philadelphia Eagles,Detroit Lions,https://www.pro-football-reference.com/boxscores/202209110det.htm,38.0,35.0,455.0,0.0,386.0,1.0,Detroit Lions,Philadelphia Eagles
+1,Sun,2022-09-11,1:00PM,Washington Commanders,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202209110was.htm,28.0,22.0,390.0,3.0,383.0,1.0,Washington Commanders,Jacksonville Jaguars
+1,Sun,2022-09-11,1:00PM,Miami Dolphins,New England Patriots,https://www.pro-football-reference.com/boxscores/202209110mia.htm,20.0,7.0,307.0,0.0,271.0,3.0,Miami Dolphins,New England Patriots
+1,Sun,2022-09-11,1:00PM,Baltimore Ravens,New York Jets,https://www.pro-football-reference.com/boxscores/202209110nyj.htm,24.0,9.0,274.0,1.0,380.0,2.0,New York Jets,Baltimore Ravens
+1,Sun,2022-09-11,4:25PM,Kansas City Chiefs,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202209110crd.htm,44.0,21.0,488.0,1.0,282.0,0.0,Arizona Cardinals,Kansas City Chiefs
+1,Sun,2022-09-11,4:25PM,Minnesota Vikings,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202209110min.htm,23.0,7.0,395.0,0.0,338.0,2.0,Minnesota Vikings,Green Bay Packers
+1,Sun,2022-09-11,4:25PM,New York Giants,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202209110oti.htm,21.0,20.0,394.0,2.0,359.0,1.0,Tennessee Titans,New York Giants
+1,Sun,2022-09-11,4:25PM,Los Angeles Chargers,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202209110sdg.htm,24.0,19.0,355.0,0.0,320.0,3.0,Los Angeles Chargers,Las Vegas Raiders
+1,Sun,2022-09-11,8:20PM,Tampa Bay Buccaneers,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202209110dal.htm,19.0,3.0,347.0,1.0,244.0,1.0,Dallas Cowboys,Tampa Bay Buccaneers
+1,Mon,2022-09-12,8:20PM,Seattle Seahawks,Denver Broncos,https://www.pro-football-reference.com/boxscores/202209120sea.htm,17.0,16.0,253.0,1.0,433.0,2.0,Seattle Seahawks,Denver Broncos
+2,Thu,2022-09-15,8:15PM,Kansas City Chiefs,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202209150kan.htm,27.0,24.0,319.0,0.0,401.0,1.0,Kansas City Chiefs,Los Angeles Chargers
+2,Sun,2022-09-18,1:00PM,New York Giants,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202209180nyg.htm,19.0,16.0,265.0,0.0,275.0,2.0,New York Giants,Carolina Panthers
+2,Sun,2022-09-18,1:00PM,New York Jets,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202209180cle.htm,31.0,30.0,402.0,1.0,405.0,1.0,Cleveland Browns,New York Jets
+2,Sun,2022-09-18,1:00PM,Jacksonville Jaguars,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202209180jax.htm,24.0,0.0,331.0,0.0,218.0,3.0,Jacksonville Jaguars,Indianapolis Colts
+2,Sun,2022-09-18,1:00PM,Detroit Lions,Washington Commanders,https://www.pro-football-reference.com/boxscores/202209180det.htm,36.0,27.0,425.0,0.0,396.0,1.0,Detroit Lions,Washington Commanders
+2,Sun,2022-09-18,1:00PM,Miami Dolphins,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202209180rav.htm,42.0,38.0,547.0,2.0,473.0,0.0,Baltimore Ravens,Miami Dolphins
+2,Sun,2022-09-18,1:00PM,Tampa Bay Buccaneers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202209180nor.htm,20.0,10.0,260.0,1.0,308.0,5.0,New Orleans Saints,Tampa Bay Buccaneers
+2,Sun,2022-09-18,1:00PM,New England Patriots,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202209180pit.htm,17.0,14.0,376.0,1.0,243.0,2.0,Pittsburgh Steelers,New England Patriots
+2,Sun,2022-09-18,4:05PM,Los Angeles Rams,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202209180ram.htm,31.0,27.0,337.0,3.0,261.0,3.0,Los Angeles Rams,Atlanta Falcons
+2,Sun,2022-09-18,4:05PM,San Francisco 49ers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202209180sfo.htm,27.0,7.0,373.0,0.0,216.0,3.0,San Francisco 49ers,Seattle Seahawks
+2,Sun,2022-09-18,4:25PM,Dallas Cowboys,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202209180dal.htm,20.0,17.0,337.0,1.0,254.0,0.0,Dallas Cowboys,Cincinnati Bengals
+2,Sun,2022-09-18,4:25PM,Arizona Cardinals,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202209180rai.htm,29.0,23.0,413.0,1.0,324.0,1.0,Las Vegas Raiders,Arizona Cardinals
+2,Sun,2022-09-18,4:25PM,Denver Broncos,Houston Texans,https://www.pro-football-reference.com/boxscores/202209180den.htm,16.0,9.0,350.0,1.0,234.0,0.0,Denver Broncos,Houston Texans
+2,Sun,2022-09-18,8:20PM,Green Bay Packers,Chicago Bears,https://www.pro-football-reference.com/boxscores/202209180gnb.htm,27.0,10.0,414.0,1.0,228.0,1.0,Green Bay Packers,Chicago Bears
+2,Mon,2022-09-19,7:15PM,Buffalo Bills,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202209190buf.htm,41.0,7.0,414.0,0.0,187.0,4.0,Buffalo Bills,Tennessee Titans
+2,Mon,2022-09-19,8:30PM,Philadelphia Eagles,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202209190phi.htm,24.0,7.0,486.0,1.0,264.0,3.0,Philadelphia Eagles,Minnesota Vikings
+3,Thu,2022-09-22,8:15PM,Cleveland Browns,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202209220cle.htm,29.0,17.0,376.0,0.0,308.0,1.0,Cleveland Browns,Pittsburgh Steelers
+3,Sun,2022-09-25,1:00PM,Miami Dolphins,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202209250mia.htm,21.0,19.0,212.0,0.0,497.0,1.0,Miami Dolphins,Buffalo Bills
+3,Sun,2022-09-25,1:00PM,Carolina Panthers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202209250car.htm,22.0,14.0,293.0,0.0,426.0,3.0,Carolina Panthers,New Orleans Saints
+3,Sun,2022-09-25,1:00PM,Chicago Bears,Houston Texans,https://www.pro-football-reference.com/boxscores/202209250chi.htm,23.0,20.0,363.0,2.0,329.0,2.0,Chicago Bears,Houston Texans
+3,Sun,2022-09-25,1:00PM,Cincinnati Bengals,New York Jets,https://www.pro-football-reference.com/boxscores/202209250nyj.htm,27.0,12.0,330.0,1.0,328.0,4.0,New York Jets,Cincinnati Bengals
+3,Sun,2022-09-25,1:00PM,Indianapolis Colts,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202209250clt.htm,20.0,17.0,259.0,1.0,315.0,2.0,Indianapolis Colts,Kansas City Chiefs
+3,Sun,2022-09-25,1:00PM,Minnesota Vikings,Detroit Lions,https://www.pro-football-reference.com/boxscores/202209250min.htm,28.0,24.0,373.0,1.0,416.0,1.0,Minnesota Vikings,Detroit Lions
+3,Sun,2022-09-25,1:00PM,Baltimore Ravens,New England Patriots,https://www.pro-football-reference.com/boxscores/202209250nwe.htm,37.0,26.0,394.0,2.0,447.0,4.0,New England Patriots,Baltimore Ravens
+3,Sun,2022-09-25,1:00PM,Tennessee Titans,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202209250oti.htm,24.0,22.0,361.0,1.0,396.0,1.0,Tennessee Titans,Las Vegas Raiders
+3,Sun,2022-09-25,1:00PM,Philadelphia Eagles,Washington Commanders,https://www.pro-football-reference.com/boxscores/202209250was.htm,24.0,8.0,400.0,0.0,240.0,1.0,Washington Commanders,Philadelphia Eagles
+3,Sun,2022-09-25,4:05PM,Jacksonville Jaguars,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202209250sdg.htm,38.0,10.0,413.0,0.0,312.0,2.0,Los Angeles Chargers,Jacksonville Jaguars
+3,Sun,2022-09-25,4:25PM,Atlanta Falcons,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202209250sea.htm,27.0,23.0,386.0,2.0,420.0,1.0,Seattle Seahawks,Atlanta Falcons
+3,Sun,2022-09-25,4:25PM,Los Angeles Rams,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202209250crd.htm,20.0,12.0,339.0,1.0,365.0,0.0,Arizona Cardinals,Los Angeles Rams
+3,Sun,2022-09-25,4:25PM,Green Bay Packers,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202209250tam.htm,14.0,12.0,315.0,2.0,285.0,2.0,Tampa Bay Buccaneers,Green Bay Packers
+3,Sun,2022-09-25,8:20PM,Denver Broncos,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202209250den.htm,11.0,10.0,261.0,0.0,267.0,3.0,Denver Broncos,San Francisco 49ers
+3,Mon,2022-09-26,8:15PM,Dallas Cowboys,New York Giants,https://www.pro-football-reference.com/boxscores/202209260nyg.htm,23.0,16.0,391.0,0.0,336.0,1.0,New York Giants,Dallas Cowboys
+4,Thu,2022-09-29,8:15PM,Cincinnati Bengals,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202209290cin.htm,27.0,15.0,371.0,0.0,378.0,2.0,Cincinnati Bengals,Miami Dolphins
+4,Sun,2022-10-02,9:30AM,Minnesota Vikings,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202210020nor.htm,28.0,25.0,344.0,1.0,338.0,2.0,New Orleans Saints,Minnesota Vikings
+4,Sun,2022-10-02,1:00PM,Atlanta Falcons,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202210020atl.htm,23.0,20.0,333.0,1.0,403.0,2.0,Atlanta Falcons,Cleveland Browns
+4,Sun,2022-10-02,1:00PM,Buffalo Bills,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202210020rav.htm,23.0,20.0,326.0,2.0,296.0,2.0,Baltimore Ravens,Buffalo Bills
+4,Sun,2022-10-02,1:00PM,New York Giants,Chicago Bears,https://www.pro-football-reference.com/boxscores/202210020nyg.htm,20.0,12.0,333.0,2.0,304.0,3.0,New York Giants,Chicago Bears
+4,Sun,2022-10-02,1:00PM,Tennessee Titans,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202210020clt.htm,24.0,17.0,243.0,0.0,365.0,3.0,Indianapolis Colts,Tennessee Titans
+4,Sun,2022-10-02,1:00PM,Dallas Cowboys,Washington Commanders,https://www.pro-football-reference.com/boxscores/202210020dal.htm,25.0,10.0,279.0,0.0,297.0,2.0,Dallas Cowboys,Washington Commanders
+4,Sun,2022-10-02,1:00PM,Seattle Seahawks,Detroit Lions,https://www.pro-football-reference.com/boxscores/202210020det.htm,48.0,45.0,555.0,1.0,520.0,2.0,Detroit Lions,Seattle Seahawks
+4,Sun,2022-10-02,1:00PM,Los Angeles Chargers,Houston Texans,https://www.pro-football-reference.com/boxscores/202210020htx.htm,34.0,24.0,419.0,1.0,346.0,2.0,Houston Texans,Los Angeles Chargers
+4,Sun,2022-10-02,1:00PM,Philadelphia Eagles,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202210020phi.htm,29.0,21.0,401.0,1.0,219.0,5.0,Philadelphia Eagles,Jacksonville Jaguars
+4,Sun,2022-10-02,1:00PM,New York Jets,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202210020pit.htm,24.0,20.0,348.0,2.0,297.0,4.0,Pittsburgh Steelers,New York Jets
+4,Sun,2022-10-02,4:05PM,Arizona Cardinals,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202210020car.htm,26.0,16.0,338.0,1.0,220.0,3.0,Carolina Panthers,Arizona Cardinals
+4,Sun,2022-10-02,4:25PM,Las Vegas Raiders,Denver Broncos,https://www.pro-football-reference.com/boxscores/202210020rai.htm,32.0,23.0,385.0,0.0,299.0,1.0,Las Vegas Raiders,Denver Broncos
+4,Sun,2022-10-02,4:25PM,Green Bay Packers,New England Patriots,https://www.pro-football-reference.com/boxscores/202210020gnb.htm,27.0,24.0,443.0,2.0,271.0,1.0,Green Bay Packers,New England Patriots
+4,Sun,2022-10-02,8:20PM,Kansas City Chiefs,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202210020tam.htm,41.0,31.0,417.0,1.0,376.0,2.0,Tampa Bay Buccaneers,Kansas City Chiefs
+4,Mon,2022-10-03,8:15PM,San Francisco 49ers,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202210030sfo.htm,24.0,9.0,327.0,0.0,257.0,2.0,San Francisco 49ers,Los Angeles Rams
+5,Thu,2022-10-06,8:15PM,Indianapolis Colts,Denver Broncos,https://www.pro-football-reference.com/boxscores/202210060den.htm,12.0,9.0,306.0,2.0,375.0,2.0,Denver Broncos,Indianapolis Colts
+5,Sun,2022-10-09,9:30AM,New York Giants,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202210090gnb.htm,27.0,22.0,338.0,0.0,301.0,0.0,Green Bay Packers,New York Giants
+5,Sun,2022-10-09,1:00PM,Tampa Bay Buccaneers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202210090tam.htm,21.0,15.0,420.0,0.0,261.0,0.0,Tampa Bay Buccaneers,Atlanta Falcons
+5,Sun,2022-10-09,1:00PM,Buffalo Bills,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202210090buf.htm,38.0,3.0,552.0,2.0,364.0,2.0,Buffalo Bills,Pittsburgh Steelers
+5,Sun,2022-10-09,1:00PM,Minnesota Vikings,Chicago Bears,https://www.pro-football-reference.com/boxscores/202210090min.htm,29.0,22.0,429.0,1.0,271.0,1.0,Minnesota Vikings,Chicago Bears
+5,Sun,2022-10-09,1:00PM,Los Angeles Chargers,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202210090cle.htm,30.0,28.0,465.0,0.0,443.0,1.0,Cleveland Browns,Los Angeles Chargers
+5,Sun,2022-10-09,1:00PM,New England Patriots,Detroit Lions,https://www.pro-football-reference.com/boxscores/202210090nwe.htm,29.0,0.0,364.0,1.0,312.0,2.0,New England Patriots,Detroit Lions
+5,Sun,2022-10-09,1:00PM,Houston Texans,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202210090jax.htm,13.0,6.0,248.0,0.0,422.0,2.0,Jacksonville Jaguars,Houston Texans
+5,Sun,2022-10-09,1:00PM,New York Jets,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202210090nyj.htm,40.0,17.0,322.0,0.0,295.0,2.0,New York Jets,Miami Dolphins
+5,Sun,2022-10-09,1:00PM,New Orleans Saints,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202210090nor.htm,39.0,32.0,438.0,2.0,396.0,1.0,New Orleans Saints,Seattle Seahawks
+5,Sun,2022-10-09,1:00PM,Tennessee Titans,Washington Commanders,https://www.pro-football-reference.com/boxscores/202210090was.htm,21.0,17.0,241.0,0.0,385.0,1.0,Washington Commanders,Tennessee Titans
+5,Sun,2022-10-09,4:05PM,San Francisco 49ers,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202210090car.htm,37.0,15.0,397.0,1.0,308.0,1.0,Carolina Panthers,San Francisco 49ers
+5,Sun,2022-10-09,4:25PM,Philadelphia Eagles,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202210090crd.htm,20.0,17.0,357.0,0.0,363.0,1.0,Arizona Cardinals,Philadelphia Eagles
+5,Sun,2022-10-09,4:25PM,Dallas Cowboys,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202210090ram.htm,22.0,10.0,239.0,0.0,323.0,3.0,Los Angeles Rams,Dallas Cowboys
+5,Sun,2022-10-09,8:20PM,Baltimore Ravens,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202210090rav.htm,19.0,17.0,325.0,1.0,291.0,1.0,Baltimore Ravens,Cincinnati Bengals
+5,Mon,2022-10-10,8:15PM,Kansas City Chiefs,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202210100kan.htm,30.0,29.0,368.0,0.0,378.0,0.0,Kansas City Chiefs,Las Vegas Raiders
+6,Thu,2022-10-13,8:15PM,Washington Commanders,Chicago Bears,https://www.pro-football-reference.com/boxscores/202210130chi.htm,12.0,7.0,214.0,0.0,391.0,2.0,Chicago Bears,Washington Commanders
+6,Sun,2022-10-16,1:00PM,Atlanta Falcons,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202210160atl.htm,28.0,14.0,289.0,0.0,346.0,3.0,Atlanta Falcons,San Francisco 49ers
+6,Sun,2022-10-16,1:00PM,Cincinnati Bengals,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202210160nor.htm,30.0,26.0,348.0,1.0,399.0,0.0,New Orleans Saints,Cincinnati Bengals
+6,Sun,2022-10-16,1:00PM,New England Patriots,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202210160cle.htm,38.0,15.0,399.0,1.0,328.0,4.0,Cleveland Browns,New England Patriots
+6,Sun,2022-10-16,1:00PM,Indianapolis Colts,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202210160clt.htm,34.0,27.0,434.0,0.0,379.0,1.0,Indianapolis Colts,Jacksonville Jaguars
+6,Sun,2022-10-16,1:00PM,New York Jets,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202210160gnb.htm,27.0,10.0,278.0,0.0,278.0,1.0,Green Bay Packers,New York Jets
+6,Sun,2022-10-16,1:00PM,Minnesota Vikings,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202210160mia.htm,24.0,16.0,234.0,0.0,458.0,3.0,Miami Dolphins,Minnesota Vikings
+6,Sun,2022-10-16,1:00PM,New York Giants,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202210160nyg.htm,24.0,20.0,238.0,1.0,406.0,2.0,New York Giants,Baltimore Ravens
+6,Sun,2022-10-16,1:00PM,Pittsburgh Steelers,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202210160pit.htm,20.0,18.0,270.0,0.0,304.0,0.0,Pittsburgh Steelers,Tampa Bay Buccaneers
+6,Sun,2022-10-16,4:05PM,Los Angeles Rams,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202210160ram.htm,24.0,10.0,360.0,1.0,203.0,1.0,Los Angeles Rams,Carolina Panthers
+6,Sun,2022-10-16,4:05PM,Seattle Seahawks,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202210160sea.htm,19.0,9.0,296.0,1.0,315.0,2.0,Seattle Seahawks,Arizona Cardinals
+6,Sun,2022-10-16,4:25PM,Buffalo Bills,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202210160kan.htm,24.0,20.0,443.0,1.0,387.0,2.0,Kansas City Chiefs,Buffalo Bills
+6,Sun,2022-10-16,8:20PM,Philadelphia Eagles,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202210160phi.htm,26.0,17.0,268.0,0.0,315.0,3.0,Philadelphia Eagles,Dallas Cowboys
+6,Mon,2022-10-17,8:15PM,Los Angeles Chargers,Denver Broncos,https://www.pro-football-reference.com/boxscores/202210170sdg.htm,19.0,16.0,297.0,1.0,258.0,1.0,Los Angeles Chargers,Denver Broncos
+7,Thu,2022-10-20,8:15PM,Arizona Cardinals,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202210200crd.htm,42.0,34.0,326.0,0.0,494.0,3.0,Arizona Cardinals,New Orleans Saints
+7,Sun,2022-10-23,1:00PM,Cincinnati Bengals,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202210230cin.htm,35.0,17.0,537.0,0.0,214.0,0.0,Cincinnati Bengals,Atlanta Falcons
+7,Sun,2022-10-23,1:00PM,Carolina Panthers,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202210230car.htm,21.0,3.0,343.0,0.0,322.0,0.0,Carolina Panthers,Tampa Bay Buccaneers
+7,Sun,2022-10-23,1:00PM,Baltimore Ravens,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202210230rav.htm,23.0,20.0,254.0,1.0,336.0,2.0,Baltimore Ravens,Cleveland Browns
+7,Sun,2022-10-23,1:00PM,Tennessee Titans,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202210230oti.htm,19.0,10.0,254.0,1.0,292.0,3.0,Tennessee Titans,Indianapolis Colts
+7,Sun,2022-10-23,1:00PM,Dallas Cowboys,Detroit Lions,https://www.pro-football-reference.com/boxscores/202210230dal.htm,24.0,6.0,330.0,1.0,312.0,5.0,Dallas Cowboys,Detroit Lions
+7,Sun,2022-10-23,1:00PM,Washington Commanders,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202210230was.htm,23.0,21.0,364.0,1.0,232.0,1.0,Washington Commanders,Green Bay Packers
+7,Sun,2022-10-23,1:00PM,New York Giants,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202210230jax.htm,23.0,17.0,436.0,0.0,452.0,1.0,Jacksonville Jaguars,New York Giants
+7,Sun,2022-10-23,4:05PM,Las Vegas Raiders,Houston Texans,https://www.pro-football-reference.com/boxscores/202210230rai.htm,38.0,20.0,400.0,0.0,404.0,1.0,Las Vegas Raiders,Houston Texans
+7,Sun,2022-10-23,4:05PM,New York Jets,Denver Broncos,https://www.pro-football-reference.com/boxscores/202210230den.htm,16.0,9.0,260.0,0.0,324.0,1.0,Denver Broncos,New York Jets
+7,Sun,2022-10-23,4:25PM,Kansas City Chiefs,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202210230sfo.htm,44.0,23.0,529.0,2.0,444.0,3.0,San Francisco 49ers,Kansas City Chiefs
+7,Sun,2022-10-23,4:25PM,Seattle Seahawks,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202210230sdg.htm,37.0,23.0,404.0,2.0,329.0,2.0,Los Angeles Chargers,Seattle Seahawks
+7,Sun,2022-10-23,8:20PM,Miami Dolphins,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202210230mia.htm,16.0,10.0,372.0,0.0,341.0,3.0,Miami Dolphins,Pittsburgh Steelers
+7,Mon,2022-10-24,8:15PM,Chicago Bears,New England Patriots,https://www.pro-football-reference.com/boxscores/202210240nwe.htm,33.0,14.0,390.0,1.0,260.0,4.0,New England Patriots,Chicago Bears
+8,Thu,2022-10-27,8:15PM,Baltimore Ravens,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202210270tam.htm,27.0,22.0,453.0,0.0,349.0,1.0,Tampa Bay Buccaneers,Baltimore Ravens
+8,Sun,2022-10-30,9:30AM,Denver Broncos,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202210300jax.htm,21.0,17.0,331.0,1.0,305.0,2.0,Jacksonville Jaguars,Denver Broncos
+8,Sun,2022-10-30,1:00PM,Miami Dolphins,Detroit Lions,https://www.pro-football-reference.com/boxscores/202210300det.htm,31.0,27.0,476.0,1.0,393.0,0.0,Detroit Lions,Miami Dolphins
+8,Sun,2022-10-30,1:00PM,Philadelphia Eagles,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202210300phi.htm,35.0,13.0,401.0,0.0,302.0,2.0,Philadelphia Eagles,Pittsburgh Steelers
+8,Sun,2022-10-30,1:00PM,Atlanta Falcons,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202210300atl.htm,37.0,34.0,406.0,2.0,478.0,1.0,Atlanta Falcons,Carolina Panthers
+8,Sun,2022-10-30,1:00PM,Dallas Cowboys,Chicago Bears,https://www.pro-football-reference.com/boxscores/202210300dal.htm,49.0,29.0,442.0,1.0,371.0,1.0,Dallas Cowboys,Chicago Bears
+8,Sun,2022-10-30,1:00PM,Minnesota Vikings,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202210300min.htm,34.0,26.0,381.0,1.0,375.0,3.0,Minnesota Vikings,Arizona Cardinals
+8,Sun,2022-10-30,1:00PM,New Orleans Saints,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202210300nor.htm,24.0,0.0,367.0,0.0,183.0,1.0,New Orleans Saints,Las Vegas Raiders
+8,Sun,2022-10-30,1:00PM,New England Patriots,New York Jets,https://www.pro-football-reference.com/boxscores/202210300nyj.htm,22.0,17.0,288.0,1.0,387.0,3.0,New York Jets,New England Patriots
+8,Sun,2022-10-30,4:05PM,Tennessee Titans,Houston Texans,https://www.pro-football-reference.com/boxscores/202210300htx.htm,17.0,10.0,354.0,2.0,161.0,1.0,Houston Texans,Tennessee Titans
+8,Sun,2022-10-30,4:25PM,San Francisco 49ers,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202210300ram.htm,31.0,14.0,368.0,0.0,223.0,0.0,Los Angeles Rams,San Francisco 49ers
+8,Sun,2022-10-30,4:25PM,Washington Commanders,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202210300clt.htm,17.0,16.0,362.0,1.0,324.0,2.0,Indianapolis Colts,Washington Commanders
+8,Sun,2022-10-30,4:25PM,Seattle Seahawks,New York Giants,https://www.pro-football-reference.com/boxscores/202210300sea.htm,27.0,13.0,277.0,1.0,225.0,2.0,Seattle Seahawks,New York Giants
+8,Sun,2022-10-30,8:20PM,Buffalo Bills,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202210300buf.htm,27.0,17.0,369.0,2.0,398.0,1.0,Buffalo Bills,Green Bay Packers
+8,Mon,2022-10-31,8:15PM,Cleveland Browns,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202210310cle.htm,32.0,13.0,440.0,2.0,229.0,2.0,Cleveland Browns,Cincinnati Bengals
+9,Thu,2022-11-03,8:15PM,Philadelphia Eagles,Houston Texans,https://www.pro-football-reference.com/boxscores/202211030htx.htm,29.0,17.0,360.0,1.0,303.0,2.0,Houston Texans,Philadelphia Eagles
+9,Sun,2022-11-06,1:00PM,New York Jets,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202211060nyj.htm,20.0,17.0,310.0,1.0,317.0,2.0,New York Jets,Buffalo Bills
+9,Sun,2022-11-06,1:00PM,Detroit Lions,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202211060det.htm,15.0,9.0,254.0,1.0,389.0,3.0,Detroit Lions,Green Bay Packers
+9,Sun,2022-11-06,1:00PM,Minnesota Vikings,Washington Commanders,https://www.pro-football-reference.com/boxscores/202211060was.htm,20.0,17.0,301.0,1.0,263.0,1.0,Washington Commanders,Minnesota Vikings
+9,Sun,2022-11-06,1:00PM,Los Angeles Chargers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202211060atl.htm,20.0,17.0,336.0,2.0,315.0,2.0,Atlanta Falcons,Los Angeles Chargers
+9,Sun,2022-11-06,1:00PM,Cincinnati Bengals,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202211060cin.htm,42.0,21.0,464.0,0.0,228.0,3.0,Cincinnati Bengals,Carolina Panthers
+9,Sun,2022-11-06,1:00PM,Miami Dolphins,Chicago Bears,https://www.pro-football-reference.com/boxscores/202211060chi.htm,35.0,32.0,379.0,0.0,368.0,0.0,Chicago Bears,Miami Dolphins
+9,Sun,2022-11-06,1:00PM,New England Patriots,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202211060nwe.htm,26.0,3.0,203.0,1.0,121.0,1.0,New England Patriots,Indianapolis Colts
+9,Sun,2022-11-06,1:00PM,Jacksonville Jaguars,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202211060jax.htm,27.0,20.0,403.0,1.0,321.0,1.0,Jacksonville Jaguars,Las Vegas Raiders
+9,Sun,2022-11-06,4:05PM,Seattle Seahawks,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202211060crd.htm,31.0,21.0,421.0,1.0,262.0,1.0,Arizona Cardinals,Seattle Seahawks
+9,Sun,2022-11-06,4:25PM,Tampa Bay Buccaneers,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202211060tam.htm,16.0,13.0,323.0,0.0,206.0,0.0,Tampa Bay Buccaneers,Los Angeles Rams
+9,Sun,2022-11-06,8:20PM,Kansas City Chiefs,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202211060kan.htm,20.0,17.0,499.0,1.0,229.0,0.0,Kansas City Chiefs,Tennessee Titans
+9,Mon,2022-11-07,8:15PM,Baltimore Ravens,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202211070nor.htm,27.0,13.0,319.0,0.0,243.0,1.0,New Orleans Saints,Baltimore Ravens
+10,Thu,2022-11-10,8:15PM,Carolina Panthers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202211100car.htm,25.0,15.0,333.0,0.0,291.0,1.0,Carolina Panthers,Atlanta Falcons
+10,Sun,2022-11-13,9:30AM,Tampa Bay Buccaneers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202211130tam.htm,21.0,16.0,419.0,2.0,283.0,1.0,Tampa Bay Buccaneers,Seattle Seahawks
+10,Sun,2022-11-13,1:00PM,Minnesota Vikings,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202211130buf.htm,33.0,30.0,481.0,2.0,486.0,4.0,Buffalo Bills,Minnesota Vikings
+10,Sun,2022-11-13,1:00PM,Miami Dolphins,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202211130mia.htm,39.0,17.0,491.0,0.0,297.0,1.0,Miami Dolphins,Cleveland Browns
+10,Sun,2022-11-13,1:00PM,Tennessee Titans,Denver Broncos,https://www.pro-football-reference.com/boxscores/202211130oti.htm,17.0,10.0,307.0,1.0,313.0,1.0,Tennessee Titans,Denver Broncos
+10,Sun,2022-11-13,1:00PM,New York Giants,Houston Texans,https://www.pro-football-reference.com/boxscores/202211130nyg.htm,24.0,16.0,367.0,0.0,387.0,2.0,New York Giants,Houston Texans
+10,Sun,2022-11-13,1:00PM,Detroit Lions,Chicago Bears,https://www.pro-football-reference.com/boxscores/202211130chi.htm,31.0,30.0,323.0,0.0,408.0,1.0,Chicago Bears,Detroit Lions
+10,Sun,2022-11-13,1:00PM,Kansas City Chiefs,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202211130kan.htm,27.0,17.0,486.0,3.0,315.0,0.0,Kansas City Chiefs,Jacksonville Jaguars
+10,Sun,2022-11-13,1:00PM,Pittsburgh Steelers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202211130pit.htm,20.0,10.0,379.0,0.0,186.0,2.0,Pittsburgh Steelers,New Orleans Saints
+10,Sun,2022-11-13,4:05PM,Indianapolis Colts,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202211130rai.htm,25.0,20.0,415.0,1.0,309.0,0.0,Las Vegas Raiders,Indianapolis Colts
+10,Sun,2022-11-13,4:25PM,Green Bay Packers,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202211130gnb.htm,31.0,28.0,415.0,2.0,421.0,2.0,Green Bay Packers,Dallas Cowboys
+10,Sun,2022-11-13,4:25PM,Arizona Cardinals,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202211130ram.htm,27.0,17.0,298.0,0.0,256.0,2.0,Los Angeles Rams,Arizona Cardinals
+10,Sun,2022-11-13,8:20PM,San Francisco 49ers,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202211130sfo.htm,22.0,16.0,387.0,1.0,238.0,1.0,San Francisco 49ers,Los Angeles Chargers
+10,Mon,2022-11-14,8:15PM,Washington Commanders,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202211140phi.htm,32.0,21.0,330.0,2.0,264.0,4.0,Philadelphia Eagles,Washington Commanders
+11,Thu,2022-11-17,8:15PM,Tennessee Titans,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202211170gnb.htm,27.0,17.0,408.0,1.0,271.0,0.0,Green Bay Packers,Tennessee Titans
+11,Sun,2022-11-20,1:00PM,Buffalo Bills,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202211200buf.htm,31.0,23.0,357.0,0.0,396.0,1.0,Buffalo Bills,Cleveland Browns
+11,Sun,2022-11-20,1:00PM,Detroit Lions,New York Giants,https://www.pro-football-reference.com/boxscores/202211200nyg.htm,31.0,18.0,325.0,0.0,413.0,3.0,New York Giants,Detroit Lions
+11,Sun,2022-11-20,1:00PM,Washington Commanders,Houston Texans,https://www.pro-football-reference.com/boxscores/202211200htx.htm,23.0,10.0,344.0,0.0,148.0,2.0,Houston Texans,Washington Commanders
+11,Sun,2022-11-20,1:00PM,New England Patriots,New York Jets,https://www.pro-football-reference.com/boxscores/202211200nwe.htm,10.0,3.0,297.0,0.0,103.0,0.0,New England Patriots,New York Jets
+11,Sun,2022-11-20,1:00PM,Atlanta Falcons,Chicago Bears,https://www.pro-football-reference.com/boxscores/202211200atl.htm,27.0,24.0,280.0,2.0,288.0,1.0,Atlanta Falcons,Chicago Bears
+11,Sun,2022-11-20,1:00PM,Baltimore Ravens,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202211200rav.htm,13.0,3.0,308.0,1.0,205.0,3.0,Baltimore Ravens,Carolina Panthers
+11,Sun,2022-11-20,1:00PM,Philadelphia Eagles,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202211200clt.htm,17.0,16.0,314.0,2.0,284.0,1.0,Indianapolis Colts,Philadelphia Eagles
+11,Sun,2022-11-20,1:00PM,New Orleans Saints,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202211200nor.htm,27.0,20.0,323.0,0.0,336.0,0.0,New Orleans Saints,Los Angeles Rams
+11,Sun,2022-11-20,4:05PM,Las Vegas Raiders,Denver Broncos,https://www.pro-football-reference.com/boxscores/202211200den.htm,22.0,16.0,407.0,0.0,320.0,0.0,Denver Broncos,Las Vegas Raiders
+11,Sun,2022-11-20,4:25PM,Cincinnati Bengals,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202211200pit.htm,37.0,30.0,408.0,2.0,351.0,0.0,Pittsburgh Steelers,Cincinnati Bengals
+11,Sun,2022-11-20,4:25PM,Dallas Cowboys,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202211200min.htm,40.0,3.0,458.0,0.0,183.0,1.0,Minnesota Vikings,Dallas Cowboys
+11,Sun,2022-11-20,8:20PM,Kansas City Chiefs,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202211200sdg.htm,30.0,27.0,485.0,1.0,365.0,2.0,Los Angeles Chargers,Kansas City Chiefs
+11,Mon,2022-11-21,8:15PM,San Francisco 49ers,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202211210crd.htm,38.0,10.0,387.0,0.0,314.0,2.0,Arizona Cardinals,San Francisco 49ers
+12,Thu,2022-11-24,12:30PM,Buffalo Bills,Detroit Lions,https://www.pro-football-reference.com/boxscores/202211240det.htm,28.0,25.0,401.0,1.0,326.0,2.0,Detroit Lions,Buffalo Bills
+12,Thu,2022-11-24,4:30PM,Dallas Cowboys,New York Giants,https://www.pro-football-reference.com/boxscores/202211240dal.htm,28.0,20.0,430.0,2.0,300.0,0.0,Dallas Cowboys,New York Giants
+12,Thu,2022-11-24,8:20PM,Minnesota Vikings,New England Patriots,https://www.pro-football-reference.com/boxscores/202211240min.htm,33.0,26.0,358.0,1.0,409.0,0.0,Minnesota Vikings,New England Patriots
+12,Sun,2022-11-27,1:00PM,Cincinnati Bengals,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202211270oti.htm,20.0,16.0,374.0,0.0,344.0,0.0,Tennessee Titans,Cincinnati Bengals
+12,Sun,2022-11-27,1:00PM,Cleveland Browns,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202211270cle.htm,23.0,17.0,367.0,1.0,325.0,0.0,Cleveland Browns,Tampa Bay Buccaneers
+12,Sun,2022-11-27,1:00PM,Miami Dolphins,Houston Texans,https://www.pro-football-reference.com/boxscores/202211270mia.htm,30.0,15.0,339.0,1.0,210.0,3.0,Miami Dolphins,Houston Texans
+12,Sun,2022-11-27,1:00PM,Jacksonville Jaguars,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202211270jax.htm,28.0,27.0,332.0,1.0,415.0,2.0,Jacksonville Jaguars,Baltimore Ravens
+12,Sun,2022-11-27,1:00PM,Washington Commanders,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202211270was.htm,19.0,13.0,314.0,1.0,332.0,1.0,Washington Commanders,Atlanta Falcons
+12,Sun,2022-11-27,1:00PM,Carolina Panthers,Denver Broncos,https://www.pro-football-reference.com/boxscores/202211270car.htm,23.0,10.0,349.0,1.0,246.0,2.0,Carolina Panthers,Denver Broncos
+12,Sun,2022-11-27,1:00PM,New York Jets,Chicago Bears,https://www.pro-football-reference.com/boxscores/202211270nyj.htm,31.0,10.0,466.0,0.0,292.0,1.0,New York Jets,Chicago Bears
+12,Sun,2022-11-27,4:05PM,Las Vegas Raiders,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202211270sea.htm,40.0,34.0,576.0,2.0,372.0,2.0,Seattle Seahawks,Las Vegas Raiders
+12,Sun,2022-11-27,4:05PM,Los Angeles Chargers,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202211270crd.htm,25.0,24.0,311.0,0.0,366.0,2.0,Arizona Cardinals,Los Angeles Chargers
+12,Sun,2022-11-27,4:25PM,Kansas City Chiefs,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202211270kan.htm,26.0,10.0,437.0,2.0,198.0,2.0,Kansas City Chiefs,Los Angeles Rams
+12,Sun,2022-11-27,4:25PM,San Francisco 49ers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202211270sfo.htm,13.0,0.0,317.0,0.0,260.0,2.0,San Francisco 49ers,New Orleans Saints
+12,Sun,2022-11-27,8:20PM,Philadelphia Eagles,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202211270phi.htm,40.0,33.0,500.0,1.0,342.0,2.0,Philadelphia Eagles,Green Bay Packers
+12,Mon,2022-11-28,8:15PM,Pittsburgh Steelers,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202211280clt.htm,24.0,17.0,323.0,0.0,290.0,2.0,Indianapolis Colts,Pittsburgh Steelers
+13,Thu,2022-12-01,8:15PM,Buffalo Bills,New England Patriots,https://www.pro-football-reference.com/boxscores/202212010nwe.htm,24.0,10.0,355.0,1.0,242.0,0.0,New England Patriots,Buffalo Bills
+13,Sun,2022-12-04,1:00PM,Cleveland Browns,Houston Texans,https://www.pro-football-reference.com/boxscores/202212040htx.htm,27.0,14.0,304.0,2.0,283.0,4.0,Houston Texans,Cleveland Browns
+13,Sun,2022-12-04,1:00PM,Baltimore Ravens,Denver Broncos,https://www.pro-football-reference.com/boxscores/202212040rav.htm,10.0,9.0,285.0,2.0,272.0,0.0,Baltimore Ravens,Denver Broncos
+13,Sun,2022-12-04,1:00PM,Detroit Lions,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202212040det.htm,40.0,14.0,437.0,0.0,266.0,1.0,Detroit Lions,Jacksonville Jaguars
+13,Sun,2022-12-04,1:00PM,Minnesota Vikings,New York Jets,https://www.pro-football-reference.com/boxscores/202212040min.htm,27.0,22.0,287.0,0.0,486.0,2.0,Minnesota Vikings,New York Jets
+13,Sun,2022-12-04,1:00PM,Washington Commanders,New York Giants,https://www.pro-football-reference.com/boxscores/202212040nyg.htm,20.0,20.0,411.0,1.0,316.0,1.0,New York Giants,Washington Commanders
+13,Sun,2022-12-04,1:00PM,Philadelphia Eagles,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202212040phi.htm,35.0,10.0,453.0,0.0,209.0,0.0,Philadelphia Eagles,Tennessee Titans
+13,Sun,2022-12-04,1:00PM,Pittsburgh Steelers,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202212040atl.htm,19.0,16.0,351.0,0.0,306.0,1.0,Atlanta Falcons,Pittsburgh Steelers
+13,Sun,2022-12-04,1:00PM,Green Bay Packers,Chicago Bears,https://www.pro-football-reference.com/boxscores/202212040chi.htm,28.0,19.0,357.0,0.0,409.0,3.0,Chicago Bears,Green Bay Packers
+13,Sun,2022-12-04,4:05PM,San Francisco 49ers,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202212040sfo.htm,33.0,17.0,351.0,1.0,308.0,4.0,San Francisco 49ers,Miami Dolphins
+13,Sun,2022-12-04,4:05PM,Seattle Seahawks,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202212040ram.htm,27.0,23.0,438.0,2.0,319.0,2.0,Los Angeles Rams,Seattle Seahawks
+13,Sun,2022-12-04,4:25PM,Cincinnati Bengals,Kansas City Chiefs,https://www.pro-football-reference.com/boxscores/202212040cin.htm,27.0,24.0,431.0,0.0,349.0,1.0,Cincinnati Bengals,Kansas City Chiefs
+13,Sun,2022-12-04,4:25PM,Las Vegas Raiders,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202212040rai.htm,27.0,20.0,404.0,2.0,386.0,1.0,Las Vegas Raiders,Los Angeles Chargers
+13,Sun,2022-12-04,8:20PM,Dallas Cowboys,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202212040dal.htm,54.0,19.0,385.0,1.0,309.0,5.0,Dallas Cowboys,Indianapolis Colts
+13,Mon,2022-12-05,8:15PM,Tampa Bay Buccaneers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202212050tam.htm,17.0,16.0,350.0,2.0,298.0,0.0,Tampa Bay Buccaneers,New Orleans Saints
+14,Thu,2022-12-08,8:15PM,Los Angeles Rams,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202212080ram.htm,17.0,16.0,282.0,1.0,302.0,2.0,Los Angeles Rams,Las Vegas Raiders
+14,Sun,2022-12-11,1:00PM,Buffalo Bills,New York Jets,https://www.pro-football-reference.com/boxscores/202212110buf.htm,20.0,12.0,232.0,0.0,309.0,2.0,Buffalo Bills,New York Jets
+14,Sun,2022-12-11,1:00PM,Cincinnati Bengals,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202212110cin.htm,23.0,10.0,363.0,1.0,344.0,1.0,Cincinnati Bengals,Cleveland Browns
+14,Sun,2022-12-11,1:00PM,Dallas Cowboys,Houston Texans,https://www.pro-football-reference.com/boxscores/202212110dal.htm,27.0,23.0,404.0,3.0,327.0,2.0,Dallas Cowboys,Houston Texans
+14,Sun,2022-12-11,1:00PM,Detroit Lions,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202212110det.htm,34.0,23.0,464.0,0.0,416.0,2.0,Detroit Lions,Minnesota Vikings
+14,Sun,2022-12-11,1:00PM,Jacksonville Jaguars,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202212110oti.htm,36.0,22.0,428.0,0.0,364.0,4.0,Tennessee Titans,Jacksonville Jaguars
+14,Sun,2022-12-11,1:00PM,Philadelphia Eagles,New York Giants,https://www.pro-football-reference.com/boxscores/202212110nyg.htm,48.0,22.0,437.0,0.0,304.0,1.0,New York Giants,Philadelphia Eagles
+14,Sun,2022-12-11,1:00PM,Baltimore Ravens,Pittsburgh Steelers,https://www.pro-football-reference.com/boxscores/202212110pit.htm,16.0,14.0,309.0,0.0,329.0,3.0,Pittsburgh Steelers,Baltimore Ravens
+14,Sun,2022-12-11,4:20PM,Kansas City Chiefs,Denver Broncos,https://www.pro-football-reference.com/boxscores/202212110den.htm,34.0,28.0,431.0,3.0,320.0,2.0,Denver Broncos,Kansas City Chiefs
+14,Sun,2022-12-11,4:25PM,Carolina Panthers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202212110sea.htm,30.0,24.0,328.0,0.0,287.0,2.0,Seattle Seahawks,Carolina Panthers
+14,Sun,2022-12-11,4:25PM,San Francisco 49ers,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202212110sfo.htm,35.0,7.0,404.0,1.0,322.0,3.0,San Francisco 49ers,Tampa Bay Buccaneers
+14,Sun,2022-12-11,8:20PM,Los Angeles Chargers,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202212110sdg.htm,23.0,17.0,432.0,0.0,219.0,0.0,Los Angeles Chargers,Miami Dolphins
+14,Mon,2022-12-12,8:15PM,New England Patriots,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202212120crd.htm,27.0,13.0,328.0,1.0,323.0,2.0,Arizona Cardinals,New England Patriots
+15,Thu,2022-12-15,8:15PM,San Francisco 49ers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202212150sea.htm,21.0,13.0,381.0,0.0,277.0,1.0,Seattle Seahawks,San Francisco 49ers
+15,Sat,2022-12-17,1:00PM,Minnesota Vikings,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202212170min.htm,39.0,36.0,518.0,3.0,341.0,1.0,Minnesota Vikings,Indianapolis Colts
+15,Sat,2022-12-17,4:30PM,Cleveland Browns,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202212170cle.htm,13.0,3.0,283.0,0.0,324.0,2.0,Cleveland Browns,Baltimore Ravens
+15,Sat,2022-12-17,8:15PM,Buffalo Bills,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202212170buf.htm,32.0,29.0,446.0,1.0,405.0,0.0,Buffalo Bills,Miami Dolphins
+15,Sun,2022-12-18,1:00PM,New Orleans Saints,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202212180nor.htm,21.0,18.0,348.0,1.0,320.0,1.0,New Orleans Saints,Atlanta Falcons
+15,Sun,2022-12-18,1:00PM,Pittsburgh Steelers,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202212180car.htm,24.0,16.0,325.0,0.0,209.0,0.0,Carolina Panthers,Pittsburgh Steelers
+15,Sun,2022-12-18,1:00PM,Philadelphia Eagles,Chicago Bears,https://www.pro-football-reference.com/boxscores/202212180chi.htm,25.0,20.0,421.0,3.0,248.0,1.0,Chicago Bears,Philadelphia Eagles
+15,Sun,2022-12-18,1:00PM,Jacksonville Jaguars,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202212180jax.htm,40.0,34.0,503.0,3.0,397.0,2.0,Jacksonville Jaguars,Dallas Cowboys
+15,Sun,2022-12-18,1:00PM,Detroit Lions,New York Jets,https://www.pro-football-reference.com/boxscores/202212180nyj.htm,20.0,17.0,359.0,0.0,337.0,1.0,New York Jets,Detroit Lions
+15,Sun,2022-12-18,1:00PM,Kansas City Chiefs,Houston Texans,https://www.pro-football-reference.com/boxscores/202212180htx.htm,30.0,24.0,502.0,2.0,219.0,1.0,Houston Texans,Kansas City Chiefs
+15,Sun,2022-12-18,4:05PM,Denver Broncos,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202212180den.htm,24.0,15.0,324.0,2.0,240.0,3.0,Denver Broncos,Arizona Cardinals
+15,Sun,2022-12-18,4:05PM,Las Vegas Raiders,New England Patriots,https://www.pro-football-reference.com/boxscores/202212180rai.htm,30.0,24.0,308.0,1.0,318.0,1.0,Las Vegas Raiders,New England Patriots
+15,Sun,2022-12-18,4:25PM,Cincinnati Bengals,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202212180tam.htm,34.0,23.0,237.0,1.0,396.0,4.0,Tampa Bay Buccaneers,Cincinnati Bengals
+15,Sun,2022-12-18,4:25PM,Los Angeles Chargers,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202212180sdg.htm,17.0,14.0,365.0,2.0,284.0,1.0,Los Angeles Chargers,Tennessee Titans
+15,Sun,2022-12-18,8:15PM,New York Giants,Washington Commanders,https://www.pro-football-reference.com/boxscores/202212180was.htm,20.0,12.0,288.0,0.0,387.0,2.0,Washington Commanders,New York Giants
+15,Mon,2022-12-19,8:15PM,Green Bay Packers,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202212190gnb.htm,24.0,12.0,345.0,2.0,156.0,1.0,Green Bay Packers,Los Angeles Rams
+16,Thu,2022-12-22,8:15PM,Jacksonville Jaguars,New York Jets,https://www.pro-football-reference.com/boxscores/202212220nyj.htm,19.0,3.0,365.0,1.0,227.0,2.0,New York Jets,Jacksonville Jaguars
+16,Sat,2022-12-24,1:00PM,Baltimore Ravens,Atlanta Falcons,https://www.pro-football-reference.com/boxscores/202212240rav.htm,17.0,9.0,299.0,0.0,327.0,1.0,Baltimore Ravens,Atlanta Falcons
+16,Sat,2022-12-24,1:00PM,Buffalo Bills,Chicago Bears,https://www.pro-football-reference.com/boxscores/202212240chi.htm,35.0,13.0,426.0,3.0,209.0,2.0,Chicago Bears,Buffalo Bills
+16,Sat,2022-12-24,1:00PM,Carolina Panthers,Detroit Lions,https://www.pro-football-reference.com/boxscores/202212240car.htm,37.0,23.0,570.0,0.0,381.0,1.0,Carolina Panthers,Detroit Lions
+16,Sat,2022-12-24,1:00PM,Cincinnati Bengals,New England Patriots,https://www.pro-football-reference.com/boxscores/202212240nwe.htm,22.0,18.0,442.0,3.0,285.0,1.0,New England Patriots,Cincinnati Bengals
+16,Sat,2022-12-24,1:00PM,New Orleans Saints,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202212240cle.htm,17.0,10.0,244.0,1.0,249.0,1.0,Cleveland Browns,New Orleans Saints
+16,Sat,2022-12-24,1:00PM,Houston Texans,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202212240oti.htm,19.0,14.0,285.0,1.0,272.0,3.0,Tennessee Titans,Houston Texans
+16,Sat,2022-12-24,1:00PM,Kansas City Chiefs,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202212240kan.htm,24.0,10.0,297.0,0.0,333.0,1.0,Kansas City Chiefs,Seattle Seahawks
+16,Sat,2022-12-24,1:00PM,Minnesota Vikings,New York Giants,https://www.pro-football-reference.com/boxscores/202212240min.htm,27.0,24.0,353.0,0.0,445.0,2.0,Minnesota Vikings,New York Giants
+16,Sat,2022-12-24,4:05PM,San Francisco 49ers,Washington Commanders,https://www.pro-football-reference.com/boxscores/202212240sfo.htm,37.0,20.0,371.0,1.0,349.0,2.0,San Francisco 49ers,Washington Commanders
+16,Sat,2022-12-24,4:25PM,Dallas Cowboys,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202212240dal.htm,40.0,34.0,419.0,1.0,442.0,4.0,Dallas Cowboys,Philadelphia Eagles
+16,Sat,2022-12-24,8:15PM,Pittsburgh Steelers,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202212240pit.htm,13.0,10.0,350.0,1.0,201.0,3.0,Pittsburgh Steelers,Las Vegas Raiders
+16,Sun,2022-12-25,1:00PM,Green Bay Packers,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202212250mia.htm,26.0,20.0,301.0,1.0,376.0,4.0,Miami Dolphins,Green Bay Packers
+16,Sun,2022-12-25,4:30PM,Los Angeles Rams,Denver Broncos,https://www.pro-football-reference.com/boxscores/202212250ram.htm,51.0,14.0,388.0,0.0,323.0,4.0,Los Angeles Rams,Denver Broncos
+16,Sun,2022-12-25,8:20PM,Tampa Bay Buccaneers,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202212250crd.htm,19.0,16.0,396.0,2.0,325.0,3.0,Arizona Cardinals,Tampa Bay Buccaneers
+16,Mon,2022-12-26,8:15PM,Los Angeles Chargers,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202212260clt.htm,20.0,3.0,314.0,2.0,173.0,3.0,Indianapolis Colts,Los Angeles Chargers
+17,Thu,2022-12-29,8:15PM,Dallas Cowboys,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202212290oti.htm,27.0,13.0,361.0,3.0,317.0,2.0,Tennessee Titans,Dallas Cowboys
+17,Sun,2023-01-01,1:00PM,Atlanta Falcons,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202301010atl.htm,20.0,19.0,298.0,1.0,339.0,0.0,Atlanta Falcons,Arizona Cardinals
+17,Sun,2023-01-01,1:00PM,Tampa Bay Buccaneers,Carolina Panthers,https://www.pro-football-reference.com/boxscores/202301010tam.htm,30.0,24.0,478.0,1.0,400.0,3.0,Tampa Bay Buccaneers,Carolina Panthers
+17,Sun,2023-01-01,1:00PM,Detroit Lions,Chicago Bears,https://www.pro-football-reference.com/boxscores/202301010det.htm,41.0,10.0,504.0,0.0,230.0,2.0,Detroit Lions,Chicago Bears
+17,Sun,2023-01-01,1:00PM,Cleveland Browns,Washington Commanders,https://www.pro-football-reference.com/boxscores/202301010was.htm,24.0,10.0,301.0,0.0,260.0,3.0,Washington Commanders,Cleveland Browns
+17,Sun,2023-01-01,1:00PM,New York Giants,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202301010nyg.htm,38.0,10.0,394.0,1.0,252.0,1.0,New York Giants,Indianapolis Colts
+17,Sun,2023-01-01,1:00PM,Kansas City Chiefs,Denver Broncos,https://www.pro-football-reference.com/boxscores/202301010kan.htm,27.0,24.0,374.0,2.0,307.0,2.0,Kansas City Chiefs,Denver Broncos
+17,Sun,2023-01-01,1:00PM,Jacksonville Jaguars,Houston Texans,https://www.pro-football-reference.com/boxscores/202301010htx.htm,31.0,3.0,337.0,2.0,277.0,1.0,Houston Texans,Jacksonville Jaguars
+17,Sun,2023-01-01,1:00PM,New England Patriots,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202301010nwe.htm,23.0,21.0,249.0,0.0,333.0,2.0,New England Patriots,Miami Dolphins
+17,Sun,2023-01-01,1:00PM,New Orleans Saints,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202301010phi.htm,20.0,10.0,313.0,1.0,313.0,1.0,Philadelphia Eagles,New Orleans Saints
+17,Sun,2023-01-01,4:05PM,Seattle Seahawks,New York Jets,https://www.pro-football-reference.com/boxscores/202301010sea.htm,23.0,6.0,346.0,0.0,279.0,3.0,Seattle Seahawks,New York Jets
+17,Sun,2023-01-01,4:05PM,San Francisco 49ers,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202301010rai.htm,37.0,34.0,454.0,1.0,500.0,2.0,Las Vegas Raiders,San Francisco 49ers
+17,Sun,2023-01-01,4:25PM,Green Bay Packers,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202301010gnb.htm,41.0,17.0,315.0,0.0,346.0,4.0,Green Bay Packers,Minnesota Vikings
+17,Sun,2023-01-01,4:25PM,Los Angeles Chargers,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202301010sdg.htm,31.0,10.0,431.0,0.0,277.0,1.0,Los Angeles Chargers,Los Angeles Rams
+17,Sun,2023-01-01,8:20PM,Pittsburgh Steelers,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202301010rav.htm,16.0,13.0,351.0,0.0,240.0,1.0,Baltimore Ravens,Pittsburgh Steelers
+18,Sat,2023-01-07,4:30PM,Kansas City Chiefs,Las Vegas Raiders,https://www.pro-football-reference.com/boxscores/202301070rai.htm,31.0,13.0,349.0,0.0,279.0,2.0,Las Vegas Raiders,Kansas City Chiefs
+18,Sat,2023-01-07,8:15PM,Jacksonville Jaguars,Tennessee Titans,https://www.pro-football-reference.com/boxscores/202301070jax.htm,20.0,16.0,222.0,1.0,312.0,2.0,Jacksonville Jaguars,Tennessee Titans
+18,Sun,2023-01-08,1:00PM,Buffalo Bills,New England Patriots,https://www.pro-football-reference.com/boxscores/202301080buf.htm,35.0,23.0,327.0,3.0,341.0,3.0,Buffalo Bills,New England Patriots
+18,Sun,2023-01-08,1:00PM,Cincinnati Bengals,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202301080cin.htm,27.0,16.0,257.0,1.0,386.0,4.0,Cincinnati Bengals,Baltimore Ravens
+18,Sun,2023-01-08,1:00PM,Atlanta Falcons,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202301080atl.htm,30.0,17.0,382.0,1.0,222.0,1.0,Atlanta Falcons,Tampa Bay Buccaneers
+18,Sun,2023-01-08,1:00PM,Carolina Panthers,New Orleans Saints,https://www.pro-football-reference.com/boxscores/202301080nor.htm,10.0,7.0,203.0,2.0,304.0,1.0,New Orleans Saints,Carolina Panthers
+18,Sun,2023-01-08,1:00PM,Minnesota Vikings,Chicago Bears,https://www.pro-football-reference.com/boxscores/202301080chi.htm,29.0,13.0,482.0,2.0,259.0,2.0,Chicago Bears,Minnesota Vikings
+18,Sun,2023-01-08,1:00PM,Pittsburgh Steelers,Cleveland Browns,https://www.pro-football-reference.com/boxscores/202301080pit.htm,28.0,14.0,333.0,1.0,307.0,2.0,Pittsburgh Steelers,Cleveland Browns
+18,Sun,2023-01-08,1:00PM,Houston Texans,Indianapolis Colts,https://www.pro-football-reference.com/boxscores/202301080clt.htm,32.0,31.0,360.0,3.0,398.0,3.0,Indianapolis Colts,Houston Texans
+18,Sun,2023-01-08,1:00PM,Miami Dolphins,New York Jets,https://www.pro-football-reference.com/boxscores/202301080mia.htm,11.0,6.0,302.0,0.0,187.0,0.0,Miami Dolphins,New York Jets
+18,Sun,2023-01-08,4:25PM,San Francisco 49ers,Arizona Cardinals,https://www.pro-football-reference.com/boxscores/202301080sfo.htm,38.0,13.0,311.0,0.0,255.0,4.0,San Francisco 49ers,Arizona Cardinals
+18,Sun,2023-01-08,4:25PM,Washington Commanders,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202301080was.htm,26.0,6.0,309.0,1.0,182.0,2.0,Washington Commanders,Dallas Cowboys
+18,Sun,2023-01-08,4:25PM,Denver Broncos,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202301080den.htm,31.0,28.0,471.0,2.0,352.0,2.0,Denver Broncos,Los Angeles Chargers
+18,Sun,2023-01-08,4:25PM,Philadelphia Eagles,New York Giants,https://www.pro-football-reference.com/boxscores/202301080phi.htm,22.0,16.0,342.0,1.0,284.0,0.0,Philadelphia Eagles,New York Giants
+18,Sun,2023-01-08,4:25PM,Seattle Seahawks,Los Angeles Rams,https://www.pro-football-reference.com/boxscores/202301080sea.htm,19.0,16.0,402.0,2.0,269.0,1.0,Seattle Seahawks,Los Angeles Rams
+18,Sun,2023-01-08,8:20PM,Detroit Lions,Green Bay Packers,https://www.pro-football-reference.com/boxscores/202301080gnb.htm,20.0,16.0,323.0,0.0,291.0,2.0,Green Bay Packers,Detroit Lions
+,,Playoffs,,,,,,,,,,,,
+WildCard,Sat,2023-01-14,4:30PM,San Francisco 49ers,Seattle Seahawks,https://www.pro-football-reference.com/boxscores/202301140sfo.htm,41.0,23.0,505.0,0.0,332.0,2.0,San Francisco 49ers,Seattle Seahawks
+WildCard,Sat,2023-01-14,8:15PM,Jacksonville Jaguars,Los Angeles Chargers,https://www.pro-football-reference.com/boxscores/202301140jax.htm,31.0,30.0,390.0,5.0,320.0,0.0,Jacksonville Jaguars,Los Angeles Chargers
+WildCard,Sun,2023-01-15,1:00PM,Buffalo Bills,Miami Dolphins,https://www.pro-football-reference.com/boxscores/202301150buf.htm,34.0,31.0,423.0,3.0,231.0,2.0,Buffalo Bills,Miami Dolphins
+WildCard,Sun,2023-01-15,4:30PM,New York Giants,Minnesota Vikings,https://www.pro-football-reference.com/boxscores/202301150min.htm,31.0,24.0,431.0,0.0,332.0,0.0,Minnesota Vikings,New York Giants
+WildCard,Sun,2023-01-15,8:15PM,Cincinnati Bengals,Baltimore Ravens,https://www.pro-football-reference.com/boxscores/202301150cin.htm,24.0,17.0,234.0,1.0,364.0,2.0,Cincinnati Bengals,Baltimore Ravens
+WildCard,Mon,2023-01-16,8:15PM,Dallas Cowboys,Tampa Bay Buccaneers,https://www.pro-football-reference.com/boxscores/202301160tam.htm,31.0,14.0,425.0,0.0,386.0,1.0,Tampa Bay Buccaneers,Dallas Cowboys
+Division,Sat,2023-01-21,4:30PM,Kansas City Chiefs,Jacksonville Jaguars,https://www.pro-football-reference.com/boxscores/202301210kan.htm,27.0,20.0,362.0,0.0,349.0,2.0,Kansas City Chiefs,Jacksonville Jaguars
+Division,Sat,2023-01-21,8:15PM,Philadelphia Eagles,New York Giants,https://www.pro-football-reference.com/boxscores/202301210phi.htm,38.0,7.0,416.0,0.0,227.0,1.0,Philadelphia Eagles,New York Giants
+Division,Sun,2023-01-22,3:00PM,Cincinnati Bengals,Buffalo Bills,https://www.pro-football-reference.com/boxscores/202301220buf.htm,27.0,10.0,412.0,0.0,325.0,1.0,Buffalo Bills,Cincinnati Bengals
+Division,Sun,2023-01-22,6:30PM,San Francisco 49ers,Dallas Cowboys,https://www.pro-football-reference.com/boxscores/202301220sfo.htm,19.0,12.0,312.0,1.0,282.0,2.0,San Francisco 49ers,Dallas Cowboys
+ConfChamp,Sun,2023-01-29,3:00PM,Philadelphia Eagles,San Francisco 49ers,https://www.pro-football-reference.com/boxscores/202301290phi.htm,31.0,7.0,269.0,0.0,164.0,3.0,Philadelphia Eagles,San Francisco 49ers
+ConfChamp,Sun,2023-01-29,6:30PM,Kansas City Chiefs,Cincinnati Bengals,https://www.pro-football-reference.com/boxscores/202301290kan.htm,23.0,20.0,357.0,1.0,309.0,2.0,Kansas City Chiefs,Cincinnati Bengals
+SuperBowl,Sun,2023-02-12,6:30PM,Kansas City Chiefs,Philadelphia Eagles,https://www.pro-football-reference.com/boxscores/202302120phi.htm,38.0,35.0,340.0,0.0,417.0,1.0,Kansas City Chiefs,Philadelphia Eagles

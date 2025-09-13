@@ -1,0 +1,159 @@
+Quarter,Time,Down,ToGo,Location,BAL,NOR,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Ravens won the coin toss and deferred, Saints to receive the opening kickoff.",,,9.0,2022,136
+1.0,15:00,,,BAL 35,0.0,0.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,136
+1.0,15:00,1.0,10.0,NOR 25,0.0,0.0,Andy Dalton pass complete short right to Chris Olave for 15 yards (tackle by Malik Harrison),0.61,1.6,9.0,2022,136
+1.0,14:24,1.0,10.0,NOR 40,0.0,0.0,Alvin Kamara right tackle for no gain (tackle by Marcus Peters),1.6,1.05,9.0,2022,136
+1.0,13:45,2.0,10.0,NOR 40,0.0,0.0,Alvin Kamara right tackle for 4 yards (tackle by Justin Madubuike and Marlon Humphrey),1.05,0.89,9.0,2022,136
+1.0,13:14,3.0,6.0,NOR 44,0.0,0.0,Andy Dalton pass incomplete short right,0.89,-0.46,9.0,2022,136
+1.0,13:07,4.0,6.0,NOR 44,0.0,0.0,"Blake Gillikin punts 45 yards, fair catch by Devin Duvernay at BAL-11",-0.46,0.37,9.0,2022,136
+1.0,13:01,1.0,10.0,BAL 11,0.0,0.0,Kenyan Drake left end for 2 yards (tackle by Tyrann Mathieu),-0.37,-0.63,9.0,2022,136
+1.0,12:07,2.0,8.0,BAL 13,0.0,0.0,"Lamar Jackson scrambles up the middle for no gain (tackle by Tyrann Mathieu). Penalty on Marcus Davenport: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",-0.63,0.04,9.0,2022,136
+1.0,11:42,1.0,10.0,BAL 18,0.0,0.0,Lamar Jackson pass incomplete short left intended for Josh Oliver,0.04,-0.49,9.0,2022,136
+1.0,11:37,2.0,10.0,BAL 18,0.0,0.0,Kenyan Drake right guard for -1 yards (tackle by Demario Davis),-0.49,-1.34,9.0,2022,136
+1.0,10:55,3.0,11.0,BAL 17,0.0,0.0,Lamar Jackson pass incomplete short left intended for Isaiah Likely,-1.34,-2.32,9.0,2022,136
+1.0,10:49,4.0,11.0,BAL 17,0.0,0.0,Jordan Stout punts 67 yards downed by Justice Hill,-2.32,0.14,9.0,2022,136
+1.0,10:36,1.0,10.0,NOR 16,0.0,0.0,"Andy Dalton pass deep middle is intercepted by Kyle Hamilton at NO-36 and returned for no gain (tackle by Ryan Ramczyk). Penalty on Chuck Clark: Defensive Pass Interference, 6 yards (accepted) (no play)",-0.14,0.41,9.0,2022,136
+1.0,10:23,1.0,10.0,NOR 22,0.0,0.0,Andy Dalton pass complete short left to Dwayne Washington for 7 yards (tackle by Kyle Hamilton),0.41,0.81,9.0,2022,136
+1.0,9:48,2.0,3.0,NOR 29,0.0,0.0,Alvin Kamara left guard for 2 yards (tackle by Broderick Washington and Roquan Smith),0.81,0.37,9.0,2022,136
+1.0,9:12,3.0,1.0,NOR 31,0.0,0.0,Alvin Kamara left tackle for no gain (tackle by Roquan Smith and Marlon Humphrey),0.37,-1.31,9.0,2022,136
+1.0,8:31,4.0,1.0,NOR 31,0.0,0.0,"Blake Gillikin punts 45 yards, fair catch by Devin Duvernay at BAL-24",-1.31,-0.54,9.0,2022,136
+1.0,8:25,1.0,10.0,BAL 24,0.0,0.0,Justice Hill left tackle for 4 yards (tackle by Kaden Elliss and Demario Davis),0.54,0.54,9.0,2022,136
+1.0,7:47,2.0,6.0,BAL 28,0.0,0.0,Lamar Jackson pass complete short right to Devin Duvernay for 5 yards (tackle by Paulson Adebo),0.54,0.5,9.0,2022,136
+1.0,7:16,3.0,1.0,BAL 33,0.0,0.0,Patrick Ricard right guard for 2 yards (tackle by Payton Turner),0.5,1.27,9.0,2022,136
+1.0,6:37,1.0,10.0,BAL 35,0.0,0.0,Lamar Jackson pass complete deep left to DeSean Jackson for 16 yards (tackle by Alontae Taylor),1.27,2.32,9.0,2022,136
+1.0,5:51,1.0,10.0,NOR 49,0.0,0.0,Kenyan Drake left tackle for 4 yards (tackle by Tyrann Mathieu and Pete Werner),2.32,2.32,9.0,2022,136
+1.0,5:12,2.0,6.0,NOR 45,0.0,0.0,Lamar Jackson sacked by David Onyemata for -2 yards,2.32,1.36,9.0,2022,136
+1.0,4:25,3.0,8.0,NOR 47,0.0,0.0,Lamar Jackson pass complete short left to James Proche for 10 yards (tackle by Alontae Taylor and Marcus Maye),1.36,3.12,9.0,2022,136
+1.0,3:43,1.0,10.0,NOR 37,0.0,0.0,Justice Hill left end for -3 yards (tackle by Demario Davis),3.12,2.17,9.0,2022,136
+1.0,2:59,2.0,13.0,NOR 40,0.0,0.0,Lamar Jackson pass complete short middle to Demarcus Robinson for 12 yards (tackle by Cameron Jordan and Marcus Maye),2.17,3.07,9.0,2022,136
+1.0,2:09,3.0,1.0,NOR 28,0.0,0.0,Lamar Jackson left end for 4 yards (tackle by Alontae Taylor),3.07,3.97,9.0,2022,136
+1.0,1:30,1.0,10.0,NOR 24,6.0,0.0,"Lamar Jackson pass complete deep right to Isaiah Likely for 24 yards, touchdown",3.97,7.0,9.0,2022,136
+1.0,1:23,,,NOR 15,7.0,0.0,Justin Tucker kicks extra point good,0.0,0.0,9.0,2022,136
+1.0,1:23,,,BAL 35,7.0,0.0,"Justin Tucker kicks off 58 yards, returned by Rashid Shaheed for 13 yards (tackle by Justice Hill)",0.0,0.28,9.0,2022,136
+1.0,1:20,1.0,10.0,NOR 20,7.0,0.0,"Taysom Hill left end for no gain (tackle by Roquan Smith and Patrick Queen). Penalty on Cesar Ruiz: Offensive Holding, 10 yards (accepted) (no play)",0.28,-0.76,9.0,2022,136
+1.0,1:01,1.0,20.0,NOR 10,7.0,0.0,Andy Dalton pass incomplete short right intended for Taysom Hill (defended by Calais Campbell),-0.76,-1.51,9.0,2022,136
+1.0,0:55,2.0,20.0,NOR 10,7.0,0.0,Andy Dalton pass complete short middle to Alvin Kamara for 12 yards (tackle by Marlon Humphrey),-1.51,-0.69,9.0,2022,136
+1.0,0:08,3.0,8.0,NOR 22,7.0,0.0,Andy Dalton sacked by Justin Houston for -8 yards,-0.69,-2.47,9.0,2022,136
+2.0,15:00,4.0,16.0,NOR 14,7.0,0.0,Blake Gillikin punts 53 yards downed by Kevin White,-2.47,-1.14,9.0,2022,136
+2.0,14:45,1.0,10.0,BAL 33,7.0,0.0,Kenyan Drake right guard for 4 yards (tackle by Demario Davis),1.14,1.13,9.0,2022,136
+2.0,14:08,2.0,6.0,BAL 37,7.0,0.0,Kenyan Drake right guard for 2 yards (tackle by Cameron Jordan and Malcolm Roach),1.13,0.7,9.0,2022,136
+2.0,13:31,3.0,4.0,BAL 39,7.0,0.0,Lamar Jackson pass complete short left to Kenyan Drake for 5 yards (tackle by Marcus Maye),0.7,1.86,9.0,2022,136
+2.0,12:54,1.0,10.0,BAL 44,7.0,0.0,Kenyan Drake right end for 1 yard (tackle by Marcus Maye),1.86,1.45,9.0,2022,136
+2.0,12:12,2.0,9.0,BAL 45,7.0,0.0,Lamar Jackson pass incomplete deep left intended for Demarcus Robinson,1.45,0.76,9.0,2022,136
+2.0,12:06,3.0,9.0,BAL 45,7.0,0.0,"Lamar Jackson for no gain. Lamar Jackson fumbles, recovered by Lamar Jackson at BAL-35 Lamar Jackson pass incomplete deep left intended for DeSean Jackson (defended by Alontae Taylor)",0.76,-0.39,9.0,2022,136
+2.0,11:53,4.0,9.0,BAL 45,7.0,0.0,"Jordan Stout punts 33 yards, fair catch by Rashid Shaheed at NO-22",-0.39,-0.41,9.0,2022,136
+2.0,11:46,1.0,10.0,NOR 22,7.0,0.0,Andy Dalton pass complete short right to Adam Trautman for 8 yards (tackle by Malik Harrison),0.41,0.95,9.0,2022,136
+2.0,11:10,2.0,2.0,NOR 30,7.0,0.0,"Penalty on Ryan Ramczyk: False Start, 5 yards (accepted) (no play)",0.95,0.27,9.0,2022,136
+2.0,10:53,2.0,7.0,NOR 25,7.0,0.0,Dwayne Washington right tackle for -1 yards (tackle by Odafe Oweh),0.27,-0.56,9.0,2022,136
+2.0,10:09,3.0,8.0,NOR 24,7.0,0.0,"Penalty on Justin Houston: Neutral Zone Infraction, 5 yards (accepted) (no play)",-0.56,0.1,9.0,2022,136
+2.0,9:56,3.0,3.0,NOR 29,7.0,0.0,Andy Dalton pass complete short right to Juwan Johnson for 1 yard (tackle by Chuck Clark),0.1,-1.37,9.0,2022,136
+2.0,9:14,4.0,2.0,NOR 30,7.0,0.0,"Blake Gillikin punts 51 yards, fair catch by Devin Duvernay at BAL-19",-1.37,-0.15,9.0,2022,136
+2.0,9:05,1.0,10.0,BAL 19,7.0,0.0,Lamar Jackson pass incomplete deep right intended for Isaiah Likely,0.15,-0.39,9.0,2022,136
+2.0,9:00,2.0,10.0,BAL 19,7.0,0.0,"Lamar Jackson pass complete deep right to DeSean Jackson for no gain. Penalty on Morgan Moses: Ineligible Downfield Pass, 5 yards (accepted) (no play)",-0.39,-1.11,9.0,2022,136
+2.0,8:32,2.0,15.0,BAL 14,7.0,0.0,Lamar Jackson pass complete short left to Mike Davis for 7 yards (tackle by Paulson Adebo),-1.11,-0.81,9.0,2022,136
+2.0,7:50,3.0,8.0,BAL 21,7.0,0.0,Lamar Jackson pass complete short right to Josh Oliver for 19 yards (tackle by Alontae Taylor),-0.81,1.6,9.0,2022,136
+2.0,7:10,1.0,10.0,BAL 40,7.0,0.0,Lamar Jackson right end for 7 yards (tackle by Marcus Maye),1.6,2.0,9.0,2022,136
+2.0,6:29,2.0,3.0,BAL 47,7.0,0.0,Justice Hill right guard for 1 yard (tackle by Payton Turner),2.0,1.42,9.0,2022,136
+2.0,5:46,3.0,2.0,BAL 48,7.0,0.0,Lamar Jackson right end for 16 yards (tackle by Pete Werner),1.42,3.18,9.0,2022,136
+2.0,5:07,1.0,10.0,NOR 36,7.0,0.0,Lamar Jackson pass complete short middle to James Proche for 12 yards (tackle by Tyrann Mathieu),3.18,3.97,9.0,2022,136
+2.0,4:26,1.0,10.0,NOR 24,7.0,0.0,Lamar Jackson pass incomplete deep middle intended for Demarcus Robinson,3.97,3.43,9.0,2022,136
+2.0,4:19,2.0,10.0,NOR 24,7.0,0.0,Lamar Jackson left tackle for 12 yards (tackle by Malcolm Roach),3.43,4.78,9.0,2022,136
+2.0,3:34,1.0,10.0,NOR 12,7.0,0.0,Lamar Jackson left end for no gain (tackle by Chris Harris),4.78,4.1,9.0,2022,136
+2.0,2:48,2.0,10.0,NOR 12,7.0,0.0,Lamar Jackson pass complete short right to Kenyan Drake for 11 yards (tackle by Marcus Maye),4.1,6.97,9.0,2022,136
+2.0,2:05,1.0,1.0,NOR 1,13.0,0.0,"Kenyan Drake right guard for 1 yard, touchdown",6.97,7.0,9.0,2022,136
+2.0,2:00,,,NOR 15,14.0,0.0,Justin Tucker kicks extra point good,0.0,0.0,9.0,2022,136
+2.0,2:00,,,BAL 35,14.0,0.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,136
+2.0,2:00,1.0,10.0,NOR 25,14.0,0.0,Andy Dalton pass incomplete short right intended for Chris Olave (defended by Justin Madubuike),0.61,0.06,9.0,2022,136
+2.0,1:56,2.0,10.0,NOR 25,14.0,0.0,Alvin Kamara right guard for 9 yards (tackle by Kyle Hamilton),0.06,0.56,9.0,2022,136
+2.0,1:35,3.0,1.0,NOR 34,14.0,0.0,Andy Dalton right guard for 2 yards (tackle by Patrick Queen),0.56,1.33,9.0,2022,136
+2.0,1:21,,,,,,Timeout #1 by New Orleans Saints,,,9.0,2022,136
+2.0,1:21,1.0,10.0,NOR 36,14.0,0.0,Andy Dalton pass complete short right to Tre'Quan Smith for 13 yards (tackle by Marlon Humphrey),1.33,2.19,9.0,2022,136
+2.0,0:58,1.0,10.0,NOR 49,14.0,0.0,Andy Dalton pass complete short left to Marquez Callaway for 7 yards (tackle by Brandon Stephens),2.19,2.59,9.0,2022,136
+2.0,0:39,2.0,3.0,BAL 44,14.0,0.0,Andy Dalton pass complete short middle to Marquez Callaway for 12 yards (tackle by Brandon Stephens),2.59,3.45,9.0,2022,136
+2.0,0:33,,,,,,Timeout #2 by New Orleans Saints,,,9.0,2022,136
+2.0,0:33,1.0,10.0,BAL 32,14.0,0.0,Andy Dalton pass complete short right to Alvin Kamara for 1 yard (tackle by Roquan Smith),3.45,3.04,9.0,2022,136
+2.0,0:25,,,,,,Timeout #3 by New Orleans Saints,,,9.0,2022,136
+2.0,0:25,2.0,9.0,BAL 31,14.0,0.0,Andy Dalton pass complete deep right to Chris Olave for 16 yards,3.04,4.58,9.0,2022,136
+2.0,0:20,1.0,10.0,BAL 15,14.0,0.0,Andy Dalton pass incomplete short right intended for Marquez Callaway,4.58,3.95,9.0,2022,136
+2.0,0:15,2.0,10.0,BAL 15,14.0,0.0,Andy Dalton pass incomplete short left intended for Chris Olave (defended by Marlon Humphrey),3.95,3.1,9.0,2022,136
+2.0,0:11,3.0,10.0,BAL 15,14.0,0.0,Andy Dalton pass incomplete short right intended for Chris Olave,3.1,2.44,9.0,2022,136
+2.0,0:05,4.0,10.0,BAL 15,14.0,3.0,Wil Lutz 33 yard field goal good,2.44,3.0,9.0,2022,136
+3.0,15:00,,,NOR 35,14.0,3.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,136
+3.0,15:00,1.0,10.0,BAL 25,14.0,3.0,Kenyan Drake right guard for 8 yards (tackle by Marcus Maye),0.61,1.14,9.0,2022,136
+3.0,14:24,2.0,2.0,BAL 33,14.0,3.0,Kenyan Drake left tackle for 12 yards (tackle by Marcus Maye),1.14,1.93,9.0,2022,136
+3.0,13:41,1.0,10.0,BAL 45,14.0,3.0,"Kenyan Drake right end for no gain (tackle by Marcus Maye and Pete Werner). Penalty on Ronnie Stanley: Offensive Holding, 10 yards (accepted) (no play)",1.93,1.27,9.0,2022,136
+3.0,13:13,1.0,20.0,BAL 35,14.0,3.0,"Lamar Jackson pass complete short left to Justice Hill for 8 yards (tackle by Pete Werner and Alontae Taylor). Penalty on Malcolm Roach: Roughing the Passer, 15 yards (accepted)",1.27,2.79,9.0,2022,136
+3.0,12:33,1.0,10.0,NOR 42,14.0,3.0,Justice Hill right guard for 9 yards (tackle by Paulson Adebo),2.79,3.46,9.0,2022,136
+3.0,11:54,2.0,1.0,NOR 33,14.0,3.0,Lamar Jackson right end for 6 yards (tackle by Tanoh Kpassagnon),3.46,3.78,9.0,2022,136
+3.0,11:13,1.0,10.0,NOR 27,14.0,3.0,Lamar Jackson pass complete short right to Patrick Ricard for 4 yards (tackle by Tyrann Mathieu),3.78,3.77,9.0,2022,136
+3.0,10:29,2.0,6.0,NOR 23,14.0,3.0,Lamar Jackson right end for 5 yards (tackle by Marcus Maye),3.77,3.84,9.0,2022,136
+3.0,9:57,3.0,1.0,NOR 18,14.0,3.0,Lamar Jackson up the middle for 2 yards (tackle by Demario Davis),3.84,4.51,9.0,2022,136
+3.0,9:23,1.0,10.0,NOR 16,14.0,3.0,Lamar Jackson pass incomplete short middle intended for Josh Oliver,4.51,3.9,9.0,2022,136
+3.0,9:14,2.0,10.0,NOR 16,14.0,3.0,Kenyan Drake left guard for 2 yards (tackle by Marcus Davenport and Demario Davis),3.9,3.37,9.0,2022,136
+3.0,8:35,3.0,8.0,NOR 14,14.0,3.0,Lamar Jackson pass incomplete short right intended for Demarcus Robinson,3.37,2.51,9.0,2022,136
+3.0,8:29,4.0,8.0,NOR 14,17.0,3.0,Justin Tucker 32 yard field goal good,2.51,3.0,9.0,2022,136
+3.0,8:25,,,BAL 35,17.0,3.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,136
+3.0,8:25,1.0,10.0,NOR 25,17.0,3.0,Andy Dalton pass complete short right to Chris Olave for 7 yards (tackle by Kyle Hamilton),0.61,1.01,9.0,2022,136
+3.0,7:50,2.0,3.0,NOR 32,17.0,3.0,Alvin Kamara left guard for 10 yards (tackle by Patrick Queen),1.01,1.73,9.0,2022,136
+3.0,7:13,1.0,10.0,NOR 42,17.0,3.0,Taysom Hill pass complete short left to Chris Olave for 13 yards (tackle by Marlon Humphrey),1.73,2.59,9.0,2022,136
+3.0,6:27,1.0,10.0,BAL 45,17.0,3.0,Taysom Hill right tackle for 6 yards (tackle by Odafe Oweh and Broderick Washington),2.59,2.85,9.0,2022,136
+3.0,5:41,2.0,4.0,BAL 39,17.0,3.0,"Andy Dalton sacked by Justin Houston for -2 yards BAL challenged the runner was down by contact ruling, and the play was upheld.",2.85,1.88,9.0,2022,136
+3.0,5:11,3.0,6.0,BAL 41,17.0,3.0,Andy Dalton pass complete short left to Chris Olave for 9 yards (tackle by Marlon Humphrey),1.88,3.45,9.0,2022,136
+3.0,4:35,1.0,10.0,BAL 32,17.0,3.0,Alvin Kamara left tackle for 6 yards (tackle by Patrick Queen),3.45,3.71,9.0,2022,136
+3.0,4:01,2.0,4.0,BAL 26,17.0,3.0,Andy Dalton pass complete short middle to Kevin White for 10 yards (tackle by Patrick Queen),3.71,4.51,9.0,2022,136
+3.0,3:28,1.0,10.0,BAL 16,17.0,3.0,Andy Dalton scrambles right end for 3 yards (tackle by Patrick Queen),4.51,4.39,9.0,2022,136
+3.0,2:47,2.0,7.0,BAL 13,17.0,3.0,Dwayne Washington right guard for 3 yards (tackle by Roquan Smith),4.39,4.17,9.0,2022,136
+3.0,2:08,3.0,4.0,BAL 10,17.0,3.0,Andy Dalton sacked by Marlon Humphrey for -9 yards,4.17,2.18,9.0,2022,136
+3.0,1:30,4.0,13.0,BAL 19,17.0,6.0,Wil Lutz 37 yard field goal good,2.18,3.0,9.0,2022,136
+3.0,1:25,,,NOR 35,17.0,6.0,"Wil Lutz kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,136
+3.0,1:25,1.0,10.0,BAL 25,17.0,6.0,Lamar Jackson sacked by Demario Davis for no gain,0.61,0.06,9.0,2022,136
+3.0,0:43,2.0,10.0,BAL 25,17.0,6.0,Lamar Jackson sacked by Kaden Elliss for no gain,0.06,-0.62,9.0,2022,136
+4.0,15:00,3.0,10.0,BAL 25,17.0,6.0,Lamar Jackson pass incomplete short left intended for Isaiah Likely,-0.62,-1.7,9.0,2022,136
+4.0,14:54,4.0,10.0,BAL 25,17.0,6.0,"Jordan Stout punts 52 yards, returned by Rashid Shaheed for 8 yards (tackle by Kyle Hamilton)",-1.7,-1.0,9.0,2022,136
+4.0,14:42,1.0,10.0,NOR 31,17.0,6.0,Alvin Kamara left guard for 3 yards (tackle by Travis Jones),1.0,0.87,9.0,2022,136
+4.0,14:10,2.0,7.0,NOR 34,17.0,6.0,Andy Dalton pass incomplete short left intended for Alvin Kamara (defended by Patrick Queen),0.87,0.17,9.0,2022,136
+4.0,14:04,3.0,7.0,NOR 34,17.0,6.0,Andy Dalton sacked by and Calais Campbell for -9 yards and Justin Houston for -9 yards,0.17,-1.7,9.0,2022,136
+4.0,13:19,4.0,16.0,NOR 25,17.0,6.0,Blake Gillikin punts 38 yards out of bounds,-1.7,-1.4,9.0,2022,136
+4.0,13:10,1.0,10.0,BAL 37,17.0,6.0,Kenyan Drake left end for 18 yards (tackle by Marcus Maye),1.4,2.59,9.0,2022,136
+4.0,12:29,1.0,10.0,NOR 45,17.0,6.0,Kenyan Drake right tackle for 8 yards (tackle by Cameron Jordan),2.59,3.12,9.0,2022,136
+4.0,11:53,2.0,2.0,NOR 37,17.0,6.0,Kenyan Drake left tackle for 1 yard (tackle by Kaden Elliss and Tyrann Mathieu),3.12,2.54,9.0,2022,136
+4.0,11:07,,,,,,Timeout #2 by Baltimore Ravens,,,9.0,2022,136
+4.0,11:07,3.0,1.0,NOR 36,17.0,6.0,Lamar Jackson left end for 17 yards (tackle by Carl Granderson),2.54,4.31,9.0,2022,136
+4.0,10:25,1.0,10.0,NOR 19,17.0,6.0,Kenyan Drake right tackle for 5 yards (tackle by Zack Baun),4.31,4.53,9.0,2022,136
+4.0,9:36,2.0,5.0,NOR 14,17.0,6.0,"Penalty on BAL: Delay of Game, 5 yards (accepted) (no play)",4.53,3.75,9.0,2022,136
+4.0,9:36,2.0,10.0,NOR 19,17.0,6.0,Kenyan Drake left end for -4 yards (tackle by Payton Turner),3.75,2.54,9.0,2022,136
+4.0,8:40,3.0,14.0,NOR 23,17.0,6.0,Lamar Jackson pass incomplete short right intended for Isaiah Likely,2.54,1.93,9.0,2022,136
+4.0,8:36,4.0,14.0,NOR 23,20.0,6.0,Justin Tucker 41 yard field goal good,1.93,3.0,9.0,2022,136
+4.0,8:31,,,BAL 35,20.0,6.0,"Justin Tucker kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,136
+4.0,8:31,1.0,10.0,NOR 25,20.0,6.0,Andy Dalton pass (defended by Brent Urban) intended for Tre'Quan Smith is intercepted by Justin Houston at NO-22 and returned for 5 yards (tackle by Tre'Quan Smith),0.61,-4.44,9.0,2022,136
+4.0,8:24,1.0,10.0,NOR 17,20.0,6.0,Kenyan Drake right guard for 9 yards (tackle by Tanoh Kpassagnon),4.44,5.48,9.0,2022,136
+4.0,7:47,2.0,1.0,NOR 8,20.0,6.0,Kenyan Drake right tackle for 5 yards (tackle by Kentavius Street),5.48,6.51,9.0,2022,136
+4.0,7:02,1.0,3.0,NOR 3,26.0,6.0,"Kenyan Drake right guard for 3 yards, touchdown",6.51,7.0,9.0,2022,136
+4.0,6:55,,,NOR 15,27.0,6.0,Justin Tucker kicks extra point good,0.0,0.0,9.0,2022,136
+4.0,6:55,,,BAL 35,27.0,6.0,"Justin Tucker kicks off 68 yards, returned by Rashid Shaheed for 20 yards (tackle by Binjimen Victor)",0.0,-0.06,9.0,2022,136
+4.0,6:52,1.0,10.0,NOR 17,27.0,6.0,"Penalty on Cesar Ruiz: False Start, 5 yards (accepted) (no play)",-0.06,-0.51,9.0,2022,136
+4.0,6:52,1.0,15.0,NOR 12,27.0,6.0,Alvin Kamara right guard for -4 yards (tackle by Calais Campbell),-0.51,-1.44,9.0,2022,136
+4.0,6:23,2.0,19.0,NOR 8,27.0,6.0,Andy Dalton pass complete short left to Marquez Callaway for 5 yards (tackle by Kyle Hamilton),-1.44,-1.86,9.0,2022,136
+4.0,5:55,3.0,14.0,NOR 13,27.0,6.0,Andy Dalton pass complete short right to Chris Olave for 11 yards (tackle by Geno Stone and Roquan Smith),-1.86,-1.77,9.0,2022,136
+4.0,5:28,4.0,3.0,NOR 24,27.0,6.0,Andy Dalton pass complete short left to Tre'Quan Smith for 7 yards (tackle by Kyle Hamilton),-1.77,1.0,9.0,2022,136
+4.0,5:02,1.0,10.0,NOR 31,27.0,6.0,Andy Dalton pass incomplete short right,1.0,0.46,9.0,2022,136
+4.0,4:58,2.0,10.0,NOR 31,27.0,6.0,Andy Dalton pass complete short right to Tre'Quan Smith for 9 yards (tackle by Damarion Williams and Marcus Peters),0.46,0.96,9.0,2022,136
+4.0,4:33,3.0,1.0,NOR 40,27.0,6.0,Andy Dalton pass complete short middle to Alvin Kamara for 19 yards (tackle by Marcus Peters),0.96,2.85,9.0,2022,136
+4.0,4:27,1.0,10.0,BAL 41,27.0,6.0,Andy Dalton pass incomplete short middle intended for Marquez Callaway,2.85,2.31,9.0,2022,136
+4.0,4:22,2.0,10.0,BAL 41,27.0,12.0,"Andy Dalton pass complete short right to Juwan Johnson for 41 yards, touchdown",2.31,7.0,9.0,2022,136
+4.0,4:13,,,BAL 15,27.0,13.0,Wil Lutz kicks extra point good,0.0,0.0,9.0,2022,136
+4.0,4:13,,,NOR 35,27.0,13.0,"Wil Lutz kicks off 52 yards, returned by Justice Hill for 9 yards (tackle by Daniel Sorensen)",0.0,0.41,9.0,2022,136
+4.0,4:10,1.0,10.0,BAL 22,27.0,13.0,Lamar Jackson right guard for 6 yards (tackle by Tanoh Kpassagnon),0.41,0.68,9.0,2022,136
+4.0,3:29,2.0,4.0,BAL 28,27.0,13.0,Lamar Jackson left guard for 7 yards (tackle by Carl Granderson),0.68,1.27,9.0,2022,136
+4.0,3:23,,,,,,Timeout #1 by New Orleans Saints,,,9.0,2022,136
+4.0,3:23,1.0,10.0,BAL 35,27.0,13.0,Kenyan Drake right guard for no gain (tackle by Tanoh Kpassagnon),1.27,0.72,9.0,2022,136
+4.0,3:19,,,,,,Timeout #2 by New Orleans Saints,,,9.0,2022,136
+4.0,3:19,2.0,10.0,BAL 35,27.0,13.0,Kenyan Drake left tackle for 9 yards (tackle by Zack Baun and Marcus Maye),0.72,1.22,9.0,2022,136
+4.0,3:14,,,,,,Timeout #3 by New Orleans Saints,,,9.0,2022,136
+4.0,3:14,3.0,1.0,BAL 44,27.0,13.0,Kenyan Drake left tackle for 2 yards (tackle by Tanoh Kpassagnon),1.22,1.99,9.0,2022,136
+4.0,2:32,1.0,10.0,BAL 46,27.0,13.0,Kenyan Drake right guard for 5 yards (tackle by Kaden Elliss),1.99,2.13,9.0,2022,136
+4.0,2:00,2.0,5.0,NOR 49,27.0,13.0,Kenyan Drake right end for 4 yards (tackle by Kaden Elliss),2.13,1.95,9.0,2022,136
+4.0,1:15,3.0,1.0,NOR 45,27.0,13.0,Kenyan Drake left end for -7 yards (tackle by Carl Granderson),1.95,-0.19,9.0,2022,136
+4.0,0:29,,,,,,Timeout #3 by Baltimore Ravens,,,9.0,2022,136
+4.0,0:29,4.0,8.0,BAL 48,27.0,13.0,"Jordan Stout punts 41 yards, fair catch by Rashid Shaheed at NO-11",-0.19,0.37,9.0,2022,136
+4.0,0:23,1.0,10.0,NOR 11,27.0,13.0,Dwayne Washington right guard for 5 yards (tackle by Broderick Washington),-0.37,-0.3,9.0,2022,136

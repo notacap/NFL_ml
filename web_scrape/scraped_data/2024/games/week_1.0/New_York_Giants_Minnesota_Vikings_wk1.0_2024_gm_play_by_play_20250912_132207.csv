@@ -1,0 +1,163 @@
+Quarter,Time,Down,ToGo,Location,MIN,NYG,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Vikings won the coin toss and deferred, Giants to receive the opening kickoff.",,,1.0,2024,10
+1.0,15:00,,,MIN 35,0.0,0.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,10
+1.0,15:00,1.0,10.0,NYG 30,0.0,0.0,Devin Singletary right guard for 2 yards (tackle by Blake Cashman and Harrison Phillips),0.94,0.66,1.0,2024,10
+1.0,14:21,2.0,8.0,NYG 32,0.0,0.0,Daniel Jones pass complete short left to Devin Singletary for -6 yards (tackle by Byron Murphy),0.66,-0.82,1.0,2024,10
+1.0,13:31,3.0,14.0,NYG 26,0.0,0.0,"Penalty on Daniel Jones: Delay of Game, 5 yards (accepted) (no play)",-0.82,-1.48,1.0,2024,10
+1.0,13:19,3.0,19.0,NYG 21,0.0,0.0,Daniel Jones pass incomplete short left intended for Theo Johnson,-1.48,-1.96,1.0,2024,10
+1.0,13:09,4.0,19.0,NYG 21,0.0,0.0,"Jamie Gillan punts 54 yards, returned by Brandon Powell for no gain (tackle by Ty Summers). Penalty on Jay Ward: Offensive Holding, 10 yards (accepted)",-1.96,0.22,1.0,2024,10
+1.0,12:59,1.0,10.0,MIN 15,0.0,0.0,Aaron Jones up the middle for 1 yard (tackle by Rakeem Nunez-Roches and Dexter Lawrence),-0.22,-0.58,1.0,2024,10
+1.0,12:35,2.0,9.0,MIN 16,0.0,0.0,Sam Darnold sacked by Dexter Lawrence for -7 yards,-0.58,-2.12,1.0,2024,10
+1.0,11:50,3.0,16.0,MIN 9,0.0,0.0,"Sam Darnold pass complete short right to C.J. Ham for 8 yards. C.J. Ham fumbles (forced by Andru Phillips), recovered by Bobby Okereke at MIN-21 and returned for 1 yard",-2.12,-4.24,1.0,2024,10
+1.0,11:23,1.0,10.0,MIN 20,0.0,0.0,Eric Gray left end for no gain (tackle by Ivan Pace),4.24,3.69,1.0,2024,10
+1.0,10:45,2.0,10.0,MIN 20,0.0,0.0,Daniel Jones pass complete short right to Daniel Bellinger for 3 yards (tackle by Blake Cashman),3.69,3.36,1.0,2024,10
+1.0,9:56,3.0,7.0,MIN 17,0.0,0.0,"Daniel Jones scrambles right end for 7 yards (tackle by Harrison Smith and Blake Cashman). Penalty on Dallas Turner: Defensive Offside, 5 yards (declined)",3.36,4.91,1.0,2024,10
+1.0,9:26,1.0,10.0,MIN 10,0.0,0.0,Devin Singletary right guard for 4 yards (tackle by Josh Metellus),4.91,4.95,1.0,2024,10
+1.0,8:44,2.0,6.0,MIN 6,0.0,0.0,Daniel Jones left end for 1 yard (tackle by Andrew Van Ginkel and Harrison Phillips),4.95,4.26,1.0,2024,10
+1.0,8:02,3.0,5.0,MIN 5,0.0,0.0,Daniel Jones sacked by Andrew Van Ginkel for no gain,4.26,3.01,1.0,2024,10
+1.0,7:19,4.0,5.0,MIN 5,0.0,3.0,Graham Gano 23 yard field goal good,3.01,3.0,1.0,2024,10
+1.0,7:16,,,NYG 35,0.0,3.0,"Graham Gano kicks off 65 yards, touchback.. Penalty on Andru Phillips: Illegal Formation, 5 yards (accepted)",0.0,1.27,1.0,2024,10
+1.0,7:16,1.0,10.0,MIN 35,0.0,3.0,"Aaron Jones left end for no gain (tackle by Nick McCloud). Penalty on Garrett Bradbury: Offensive Holding, 10 yards (accepted) (no play)",1.27,0.61,1.0,2024,10
+1.0,6:50,1.0,20.0,MIN 25,0.0,3.0,Sam Darnold scrambles up the middle for 3 yards (tackle by Cordale Flott and Darius Muasau),0.61,-0.22,1.0,2024,10
+1.0,5:54,2.0,17.0,MIN 28,0.0,3.0,Sam Darnold pass complete short right to Aaron Jones for 9 yards (tackle by Deonte Banks),-0.22,0.3,1.0,2024,10
+1.0,5:30,3.0,8.0,MIN 37,0.0,3.0,"Sam Darnold pass incomplete deep right intended for Jordan Addison. Penalty on Adoree' Jackson: Defensive Pass Interference, 36 yards (accepted) (no play)",0.3,3.78,1.0,2024,10
+1.0,5:26,1.0,10.0,NYG 27,0.0,3.0,Sam Darnold pass complete deep middle to Josh Oliver for 22 yards (tackle by Tyler Nubin),3.78,6.06,1.0,2024,10
+1.0,4:45,1.0,5.0,NYG 5,0.0,3.0,Aaron Jones right guard for 2 yards (tackle by Brian Burns),6.06,5.53,1.0,2024,10
+1.0,3:56,2.0,3.0,NYG 3,6.0,3.0,"Aaron Jones left end for 3 yards, touchdown",5.53,7.0,1.0,2024,10
+1.0,3:50,,,NYG 15,7.0,3.0,Will Reichard kicks extra point good,0.0,0.0,1.0,2024,10
+1.0,3:50,,,MIN 35,7.0,3.0,"Will Reichard kicks off 59 yards, returned by Eric Gray for 22 yards (tackle by Ivan Pace)",0.0,0.81,1.0,2024,10
+1.0,3:45,1.0,10.0,NYG 28,7.0,3.0,Daniel Jones scrambles left end for 4 yards (tackle by Stephon Gilmore),0.81,0.8,1.0,2024,10
+1.0,3:12,2.0,6.0,NYG 32,7.0,3.0,Devin Singletary left guard for 3 yards (tackle by Ivan Pace),0.8,0.5,1.0,2024,10
+1.0,2:29,3.0,3.0,NYG 35,7.0,3.0,Daniel Jones pass complete short middle to Wan'Dale Robinson for 5 yards (tackle by Byron Murphy),0.5,1.6,1.0,2024,10
+1.0,1:53,1.0,10.0,NYG 40,7.0,3.0,Daniel Jones pass incomplete short left intended for Malik Nabers (defended by Josh Metellus),1.6,1.05,1.0,2024,10
+1.0,1:45,2.0,10.0,NYG 40,7.0,3.0,Daniel Jones pass incomplete short left intended for Malik Nabers,1.05,0.37,1.0,2024,10
+1.0,1:42,3.0,10.0,NYG 40,7.0,3.0,Daniel Jones pass complete short left to Malik Nabers for 25 yards (tackle by Camryn Bynum and Harrison Smith),0.37,3.25,1.0,2024,10
+1.0,1:04,1.0,10.0,MIN 35,7.0,3.0,"Penalty on NYG: Offensive Too Many Men on Field, 5 yards (accepted) (no play)",3.25,2.92,1.0,2024,10
+1.0,0:50,1.0,15.0,MIN 40,7.0,3.0,Daniel Jones pass complete short left to Malik Nabers for 4 yards (tackle by Ivan Pace and Stephon Gilmore),2.92,2.57,1.0,2024,10
+1.0,0:09,2.0,11.0,MIN 36,7.0,3.0,"Penalty on Jermaine Eluemunor: False Start, 5 yards (accepted) (no play)",2.57,1.89,1.0,2024,10
+2.0,15:00,2.0,16.0,MIN 41,7.0,3.0,"Tyrone Tracy left end for 2 yards (tackle by Harrison Smith). Penalty on Wan'Dale Robinson: Offensive Holding, 10 yards (accepted)",1.89,0.81,1.0,2024,10
+2.0,14:31,2.0,24.0,MIN 49,7.0,3.0,Daniel Jones pass complete short left to Devin Singletary for 9 yards (tackle by Ivan Pace),0.81,1.35,1.0,2024,10
+2.0,13:59,3.0,15.0,MIN 40,7.0,3.0,Daniel Jones pass incomplete short right intended for Wan'Dale Robinson,1.35,0.59,1.0,2024,10
+2.0,13:51,4.0,15.0,MIN 40,7.0,3.0,Jamie Gillan punts 39 yards downed by Bryce Ford-Wheaton,0.59,0.38,1.0,2024,10
+2.0,13:39,1.0,10.0,MIN 1,7.0,3.0,Ty Chandler right guard for 1 yard (tackle by Dexter Lawrence and Tyler Nubin),-0.38,-0.71,1.0,2024,10
+2.0,13:02,2.0,9.0,MIN 2,7.0,3.0,Sam Darnold pass complete short right to Ty Chandler for 10 yards (tackle by Darius Muasau),-0.71,-0.35,1.0,2024,10
+2.0,12:22,1.0,10.0,MIN 12,7.0,3.0,"Penalty on Blake Brandel: False Start, 5 yards (accepted) (no play)",-0.35,-0.57,1.0,2024,10
+2.0,11:59,1.0,15.0,MIN 7,7.0,3.0,Ty Chandler right tackle for 3 yards (tackle by Rakeem Nunez-Roches and Cordale Flott),-0.57,-0.93,1.0,2024,10
+2.0,11:38,2.0,12.0,MIN 10,7.0,3.0,Sam Darnold pass complete deep left to Justin Jefferson for 44 yards (tackle by Deonte Banks),-0.93,2.52,1.0,2024,10
+2.0,10:55,1.0,10.0,NYG 46,7.0,3.0,Ty Chandler right end for 6 yards (tackle by Brian Burns),2.52,2.79,1.0,2024,10
+2.0,10:28,2.0,4.0,NYG 40,7.0,3.0,Sam Darnold pass complete deep right to Jordan Addison for 16 yards (tackle by Nick McCloud),2.79,3.97,1.0,2024,10
+2.0,9:43,1.0,10.0,NYG 24,7.0,3.0,Sam Darnold pass complete short right to Jordan Addison for 13 yards (tackle by Nick McCloud),3.97,4.84,1.0,2024,10
+2.0,9:04,1.0,10.0,NYG 11,7.0,3.0,Sam Darnold pass complete short right to Ty Chandler for 5 yards (tackle by Darius Muasau),4.84,5.08,1.0,2024,10
+2.0,8:26,2.0,5.0,NYG 6,7.0,3.0,Ty Chandler left end for -3 yards (tackle by Deonte Banks),5.08,3.53,1.0,2024,10
+2.0,7:33,3.0,8.0,NYG 9,7.0,3.0,Sam Darnold pass complete short left to Jordan Addison for 6 yards (tackle by Andru Phillips),3.53,3.05,1.0,2024,10
+2.0,6:58,4.0,2.0,NYG 3,13.0,3.0,"Sam Darnold pass complete short left to Justin Jefferson for 3 yards, touchdown",3.05,7.0,1.0,2024,10
+2.0,6:55,,,NYG 15,14.0,3.0,Will Reichard kicks extra point good,0.0,0.0,1.0,2024,10
+2.0,6:55,,,MIN 35,14.0,3.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,10
+2.0,6:55,1.0,10.0,NYG 30,14.0,3.0,Devin Singletary up the middle for 6 yards (tackle by Shaquill Griffin and Andrew Van Ginkel),0.94,1.2,1.0,2024,10
+2.0,6:16,2.0,4.0,NYG 36,14.0,3.0,Daniel Jones pass incomplete short right intended for Theo Johnson,1.2,0.5,1.0,2024,10
+2.0,6:10,3.0,4.0,NYG 36,14.0,3.0,Daniel Jones pass complete short right to Darius Slayton for 8 yards (tackle by Byron Murphy),0.5,1.86,1.0,2024,10
+2.0,5:38,1.0,10.0,NYG 44,14.0,3.0,Devin Singletary left tackle for 5 yards (tackle by Andrew Van Ginkel),1.86,1.99,1.0,2024,10
+2.0,4:55,2.0,5.0,NYG 49,14.0,3.0,Daniel Jones left tackle for 3 yards (tackle by Blake Cashman and Patrick Jones),1.99,1.69,1.0,2024,10
+2.0,4:18,3.0,2.0,MIN 48,14.0,3.0,Daniel Jones right tackle for -1 yards (tackle by Jonathan Bullard),1.69,0.0,1.0,2024,10
+2.0,3:42,4.0,3.0,MIN 49,14.0,3.0,Jamie Gillan punts 34 yards out of bounds,0.0,0.22,1.0,2024,10
+2.0,3:33,1.0,10.0,MIN 15,14.0,3.0,"Aaron Jones right end for no gain (tackle by Adoree' Jackson). Penalty on Josh Oliver: Offensive Holding, 7 yards (accepted) (no play)",-0.22,-0.65,1.0,2024,10
+2.0,3:03,1.0,17.0,MIN 8,14.0,3.0,Sam Darnold pass complete short middle to Aaron Jones for 6 yards (tackle by Bobby Okereke),-0.65,-0.82,1.0,2024,10
+2.0,2:35,2.0,11.0,MIN 14,14.0,3.0,Aaron Jones left tackle for 10 yards (tackle by Jason Pinnock),-0.82,-0.27,1.0,2024,10
+2.0,2:00,3.0,1.0,MIN 24,14.0,3.0,Aaron Jones right guard for 2 yards (tackle by Tyler Nubin),-0.27,0.67,1.0,2024,10
+2.0,1:23,1.0,10.0,MIN 26,14.0,3.0,Sam Darnold pass complete short right to Justin Jefferson for 3 yards (tackle by Adoree' Jackson),0.67,0.54,1.0,2024,10
+2.0,1:15,2.0,7.0,MIN 29,14.0,3.0,Sam Darnold pass incomplete short middle intended for Jordan Addison (defended by Dane Belton),0.54,-0.16,1.0,2024,10
+2.0,1:09,3.0,7.0,MIN 29,14.0,3.0,Sam Darnold pass complete short left to Johnny Mundt for 6 yards (tackle by Adoree' Jackson),-0.16,-1.04,1.0,2024,10
+2.0,0:58,,,,,,Timeout #1 by New York Giants,,,1.0,2024,10
+2.0,0:58,4.0,1.0,MIN 35,14.0,3.0,"Ryan Wright punts 52 yards, recovered by Dane Belton at NYG-13. Penalty on Ivan Pace: Unnecessary Roughness / Defense, 15 yards (accepted) . Penalty on Ivan Pace: Offensive Holding, 10 yards (declined)",-1.04,-0.81,1.0,2024,10
+2.0,0:51,1.0,10.0,NYG 28,14.0,3.0,Daniel Jones pass complete short left to Wan'Dale Robinson for 7 yards (tackle by Harrison Smith and Byron Murphy),0.81,1.21,1.0,2024,10
+2.0,0:31,2.0,3.0,NYG 35,14.0,3.0,Daniel Jones pass incomplete short left intended for Theo Johnson,1.21,0.5,1.0,2024,10
+2.0,0:29,3.0,3.0,NYG 35,14.0,3.0,"Daniel Jones pass incomplete short left intended for Darius Slayton. Penalty on Shaquill Griffin: Defensive Pass Interference, 6 yards (accepted) (no play)",0.5,1.66,1.0,2024,10
+2.0,0:26,1.0,10.0,NYG 41,14.0,3.0,Daniel Jones sacked by Dallas Turner for -4 yards,1.66,0.58,1.0,2024,10
+2.0,0:21,,,,,,Timeout #2 by New York Giants,,,1.0,2024,10
+2.0,0:21,2.0,14.0,NYG 37,14.0,3.0,Daniel Jones pass incomplete short right,0.58,-0.1,1.0,2024,10
+2.0,0:14,3.0,14.0,NYG 37,14.0,3.0,Daniel Jones pass incomplete short middle intended for Wan'Dale Robinson,-0.1,-0.91,1.0,2024,10
+2.0,0:09,4.0,14.0,NYG 37,14.0,3.0,Jamie Gillan punts 52 yards downed by Dane Belton,-0.91,1.4,1.0,2024,10
+3.0,15:00,,,NYG 35,14.0,3.0,"Graham Gano kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,10
+3.0,15:00,1.0,10.0,MIN 30,14.0,3.0,Aaron Jones left end for 4 yards (tackle by Rakeem Nunez-Roches and Bobby Okereke),0.94,0.93,1.0,2024,10
+3.0,14:33,2.0,6.0,MIN 34,14.0,3.0,"Sam Darnold pass complete short left to Jordan Addison for no gain (tackle by Darius Muasau). Penalty on Christian Darrisaw: Offensive Holding, 10 yards (accepted) (no play)",0.93,-0.42,1.0,2024,10
+3.0,14:12,2.0,16.0,MIN 24,14.0,3.0,Sam Darnold pass incomplete short left intended for Johnny Mundt,-0.42,-1.09,1.0,2024,10
+3.0,14:08,3.0,16.0,MIN 24,14.0,3.0,"Sam Darnold pass complete short right to Johnny Mundt for 9 yards (tackle by Bobby Okereke and Andru Phillips). Penalty on Kayvon Thibodeaux: Face Mask (15 Yards), 15 yards (accepted)",-1.09,2.13,1.0,2024,10
+3.0,13:22,1.0,10.0,MIN 48,14.0,3.0,Aaron Jones right tackle for 12 yards (tackle by Tyler Nubin),2.13,2.92,1.0,2024,10
+3.0,13:05,1.0,10.0,NYG 40,14.0,3.0,Aaron Jones left guard for 19 yards (tackle by Tyler Nubin),2.92,4.17,1.0,2024,10
+3.0,12:13,1.0,10.0,NYG 21,20.0,3.0,"Sam Darnold pass complete deep right to Jalen Nailor for 21 yards, touchdown",4.17,7.0,1.0,2024,10
+3.0,12:08,,,NYG 15,21.0,3.0,Will Reichard kicks extra point good,0.0,0.0,1.0,2024,10
+3.0,12:08,,,MIN 35,21.0,3.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,10
+3.0,12:08,1.0,10.0,NYG 30,21.0,3.0,Daniel Jones pass complete short middle to Malik Nabers for 5 yards (tackle by Byron Murphy),0.94,1.07,1.0,2024,10
+3.0,11:27,2.0,5.0,NYG 35,21.0,3.0,Daniel Jones pass incomplete short middle intended for Devin Singletary,1.07,0.37,1.0,2024,10
+3.0,11:20,3.0,5.0,NYG 35,21.0,3.0,Daniel Jones pass complete deep left to Malik Nabers for 25 yards (tackle by Byron Murphy and Camryn Bynum),0.37,2.92,1.0,2024,10
+3.0,10:36,1.0,10.0,MIN 40,21.0,3.0,Tyrone Tracy right tackle for no gain (tackle by Josh Metellus and Jerry Tillery),2.92,2.37,1.0,2024,10
+3.0,9:59,2.0,10.0,MIN 40,21.0,3.0,Daniel Jones sacked by Harrison Phillips for -2 yards,2.37,1.42,1.0,2024,10
+3.0,9:16,3.0,12.0,MIN 42,21.0,3.0,Daniel Jones pass complete short left to Wan'Dale Robinson for 11 yards (tackle by Blake Cashman),1.42,1.41,1.0,2024,10
+3.0,8:37,4.0,1.0,MIN 31,21.0,3.0,Daniel Jones up the middle for 1 yard (tackle by Jerry Tillery),1.41,3.58,1.0,2024,10
+3.0,7:55,1.0,10.0,MIN 30,21.0,3.0,"Daniel Jones pass incomplete short left intended for Devin Singletary. Penalty on Greg Van Roten: Offensive Holding, 9 yards (accepted) (no play)",3.58,2.98,1.0,2024,10
+3.0,7:46,1.0,20.0,MIN 39,21.0,3.0,Daniel Jones pass incomplete short left intended for Tyrone Tracy,2.98,1.75,1.0,2024,10
+3.0,7:43,2.0,20.0,MIN 39,21.0,3.0,Daniel Jones sacked by Patrick Jones for -7 yards,1.75,0.23,1.0,2024,10
+3.0,7:03,3.0,26.0,MIN 46,21.0,3.0,Daniel Jones pass complete short middle to Wan'Dale Robinson for 15 yards (tackle by Harrison Smith),0.23,1.32,1.0,2024,10
+3.0,6:14,4.0,11.0,MIN 31,21.0,6.0,Graham Gano 50 yard field goal good,1.32,3.0,1.0,2024,10
+3.0,6:08,,,NYG 35,21.0,6.0,"Graham Gano kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,10
+3.0,6:08,,,,,,Timeout #1 by Minnesota Vikings,,,1.0,2024,10
+3.0,6:08,1.0,10.0,MIN 30,21.0,6.0,Ty Chandler left guard for 1 yard (tackle by Tyler Nubin),0.94,0.53,1.0,2024,10
+3.0,5:30,2.0,9.0,MIN 31,21.0,6.0,Sam Darnold pass complete short right to Josh Oliver for 5 yards (tackle by Brian Burns),0.53,0.5,1.0,2024,10
+3.0,4:41,,,,,,Timeout #2 by Minnesota Vikings,,,1.0,2024,10
+3.0,4:41,3.0,4.0,MIN 36,21.0,6.0,Sam Darnold pass incomplete deep left intended for Justin Jefferson (defended by Jason Pinnock),0.5,-0.98,1.0,2024,10
+3.0,4:33,4.0,4.0,MIN 36,21.0,6.0,Ryan Wright punts 47 yards downed by Bobby McCain,-0.98,0.06,1.0,2024,10
+3.0,4:26,1.0,10.0,NYG 17,27.0,6.0,"Daniel Jones pass short right intended for Wan'Dale Robinson is intercepted by Andrew Van Ginkel at NYG-10 and returned for 10 yards, touchdown",-0.06,-7.0,1.0,2024,10
+3.0,4:22,,,NYG 15,28.0,6.0,Will Reichard kicks extra point good,0.0,0.0,1.0,2024,10
+3.0,4:22,,,MIN 35,28.0,6.0,"Will Reichard kicks off 65 yards, touchback.",0.0,0.94,1.0,2024,10
+3.0,4:22,1.0,10.0,NYG 30,28.0,6.0,"Daniel Jones pass incomplete short left. Penalty on Jermaine Eluemunor: Ineligible Downfield Pass, 5 yards (declined)",0.94,0.39,1.0,2024,10
+3.0,4:17,2.0,10.0,NYG 30,28.0,6.0,Daniel Jones pass complete short left to Malik Nabers for 7 yards (tackle by Byron Murphy),0.39,0.63,1.0,2024,10
+3.0,3:42,3.0,3.0,NYG 37,28.0,6.0,Daniel Jones pass incomplete short right intended for Wan'Dale Robinson (defended by Harrison Phillips),0.63,-0.91,1.0,2024,10
+3.0,3:32,4.0,3.0,NYG 37,28.0,6.0,"Penalty on Daniel Jones: Delay of Game, 5 yards (accepted) (no play)",-0.91,-1.24,1.0,2024,10
+3.0,3:32,4.0,8.0,NYG 32,28.0,6.0,Jamie Gillan punts 50 yards out of bounds,-1.24,-0.04,1.0,2024,10
+3.0,3:21,1.0,10.0,MIN 18,28.0,6.0,Sam Darnold pass complete short right to Justin Jefferson for 9 yards (tackle by Cordale Flott),0.04,0.82,1.0,2024,10
+3.0,2:53,2.0,1.0,MIN 27,28.0,6.0,Aaron Jones right tackle for 8 yards (tackle by Rakeem Nunez-Roches),0.82,1.27,1.0,2024,10
+3.0,2:29,1.0,10.0,MIN 35,28.0,6.0,Sam Darnold pass deep left (defended by Dexter Lawrence) is intercepted by Darius Muasau at NYG-48 and returned for 1 yard (tackle by Josh Oliver),1.27,-2.19,1.0,2024,10
+3.0,2:15,1.0,10.0,NYG 49,28.0,6.0,Daniel Jones pass complete short middle to Devin Singletary for 12 yards (tackle by Shaquill Griffin),2.19,2.98,1.0,2024,10
+3.0,1:28,1.0,10.0,MIN 39,28.0,6.0,Devin Singletary right tackle for 1 yard (tackle by Blake Cashman and Shaquill Griffin),2.98,2.58,1.0,2024,10
+3.0,0:50,2.0,9.0,MIN 38,28.0,6.0,Daniel Jones pass complete short right to Darius Slayton for 7 yards (tackle by Josh Metellus),2.58,2.81,1.0,2024,10
+3.0,0:12,3.0,2.0,MIN 31,28.0,6.0,Devin Singletary left guard for 7 yards (tackle by Stephon Gilmore),2.81,3.97,1.0,2024,10
+4.0,15:00,1.0,10.0,MIN 24,28.0,6.0,Daniel Jones pass complete short right to Darius Slayton for 11 yards (tackle by Byron Murphy),3.97,4.71,1.0,2024,10
+4.0,14:31,1.0,10.0,MIN 13,28.0,6.0,Daniel Jones pass incomplete short right,4.71,4.05,1.0,2024,10
+4.0,14:29,2.0,10.0,MIN 13,28.0,6.0,Devin Singletary up the middle for 2 yards (tackle by Josh Metellus and Harrison Phillips),4.05,3.45,1.0,2024,10
+4.0,13:50,3.0,8.0,MIN 11,28.0,6.0,Daniel Jones pass incomplete short right intended for Wan'Dale Robinson,3.45,2.7,1.0,2024,10
+4.0,13:46,4.0,8.0,MIN 11,28.0,6.0,Daniel Jones pass short middle intended for Darius Slayton is intercepted by Harrison Smith in end zone and returned for no gain,2.7,-0.28,1.0,2024,10
+4.0,13:40,1.0,10.0,MIN 20,28.0,6.0,Ty Chandler left end for 5 yards (tackle by Deonte Banks),0.28,0.41,1.0,2024,10
+4.0,13:01,2.0,5.0,MIN 25,28.0,6.0,Ty Chandler left guard for 1 yard (tackle by Rakeem Nunez-Roches),0.41,-0.16,1.0,2024,10
+4.0,12:20,3.0,4.0,MIN 26,28.0,6.0,Sam Darnold pass complete short right to Ty Chandler for 10 yards (tackle by Dane Belton),-0.16,1.33,1.0,2024,10
+4.0,11:41,1.0,10.0,MIN 36,28.0,6.0,Ty Chandler right guard for 3 yards (tackle by Darius Muasau),1.33,1.2,1.0,2024,10
+4.0,11:00,2.0,7.0,MIN 39,28.0,6.0,Sam Darnold pass complete short right to C.J. Ham for 3 yards (tackle by Azeez Ojulari),1.2,0.89,1.0,2024,10
+4.0,10:15,3.0,4.0,MIN 42,28.0,6.0,Sam Darnold pass incomplete short left intended for Justin Jefferson,0.89,-0.59,1.0,2024,10
+4.0,10:05,4.0,4.0,MIN 42,28.0,6.0,Ryan Wright punts 26 yards out of bounds,-0.59,-1.07,1.0,2024,10
+4.0,9:59,1.0,10.0,NYG 32,28.0,6.0,Daniel Jones pass incomplete deep middle intended for Jalin Hyatt,1.07,0.53,1.0,2024,10
+4.0,9:54,2.0,10.0,NYG 32,28.0,6.0,Devin Singletary right guard for 4 yards (tackle by Dallas Turner and Harrison Phillips),0.53,0.37,1.0,2024,10
+4.0,9:14,3.0,6.0,NYG 36,28.0,6.0,Daniel Jones pass complete short middle to Wan'Dale Robinson for 6 yards (tackle by Byron Murphy),0.37,1.73,1.0,2024,10
+4.0,8:43,1.0,10.0,NYG 42,28.0,6.0,Daniel Jones pass complete short right to Theo Johnson for 18 yards (tackle by Harrison Smith),1.73,2.92,1.0,2024,10
+4.0,8:17,1.0,10.0,MIN 40,28.0,6.0,Daniel Jones pass complete short right to Devin Singletary for no gain (tackle by Camryn Bynum and Ivan Pace),2.92,2.37,1.0,2024,10
+4.0,7:55,2.0,10.0,MIN 40,28.0,6.0,Wan'Dale Robinson left end for 14 yards (tackle by Camryn Bynum and Harrison Smith),2.37,3.84,1.0,2024,10
+4.0,7:22,1.0,10.0,MIN 26,28.0,6.0,Daniel Jones pass complete short left to Eric Gray for 9 yards (tackle by Jerry Tillery and Patrick Jones),3.84,4.64,1.0,2024,10
+4.0,6:48,2.0,1.0,MIN 17,28.0,6.0,Eric Gray left tackle for 6 yards (tackle by Dallas Turner),4.64,4.84,1.0,2024,10
+4.0,6:12,1.0,10.0,MIN 11,28.0,6.0,Devin Singletary left end for 3 yards (tackle by Shaquill Griffin),4.84,4.7,1.0,2024,10
+4.0,5:37,,,,,,Timeout #3 by Minnesota Vikings,,,1.0,2024,10
+4.0,5:37,2.0,7.0,MIN 8,28.0,6.0,Daniel Jones pass complete short right to Wan'Dale Robinson for no gain (tackle by Stephon Gilmore),4.7,3.76,1.0,2024,10
+4.0,4:59,3.0,7.0,MIN 8,28.0,6.0,Daniel Jones pass incomplete short right,3.76,2.96,1.0,2024,10
+4.0,4:56,4.0,7.0,MIN 8,28.0,6.0,Daniel Jones pass incomplete short middle intended for Wan'Dale Robinson (defended by Byron Murphy),2.96,0.38,1.0,2024,10
+4.0,4:52,1.0,10.0,MIN 8,28.0,6.0,Aaron Jones left end for 19 yards (tackle by Darius Muasau),-0.38,0.74,1.0,2024,10
+4.0,4:05,1.0,10.0,MIN 27,28.0,6.0,Aaron Jones right tackle for -1 yards (tackle by Andru Phillips),0.74,0.06,1.0,2024,10
+4.0,3:20,2.0,11.0,MIN 26,28.0,6.0,Aaron Jones right guard for 10 yards (tackle by Jason Pinnock),0.06,0.7,1.0,2024,10
+4.0,2:53,3.0,1.0,MIN 36,28.0,6.0,Sam Darnold up the middle for 1 yard (tackle by Elijah Chatman),0.7,1.4,1.0,2024,10
+4.0,2:09,1.0,10.0,MIN 37,28.0,6.0,Aaron Jones left end for 4 yards (tackle by Brian Burns),1.4,1.4,1.0,2024,10
+4.0,2:00,2.0,6.0,MIN 41,28.0,6.0,Aaron Jones left end for 1 yard (tackle by Jordon Riley),1.4,0.83,1.0,2024,10
+4.0,1:47,,,,,,Timeout #1 by New York Giants,,,1.0,2024,10
+4.0,1:47,3.0,5.0,MIN 42,28.0,6.0,Myles Gaskin up the middle for -3 yards (tackle by Darius Muasau),0.83,-0.78,1.0,2024,10
+4.0,1:42,,,,,,Timeout #2 by New York Giants,,,1.0,2024,10
+4.0,1:42,4.0,8.0,MIN 39,28.0,6.0,"Ryan Wright punts 47 yards, fair catch by Darius Slayton at NYG-14",-0.78,0.28,1.0,2024,10
+4.0,1:36,1.0,10.0,NYG 14,28.0,6.0,Daniel Jones pass complete short right to Tyrone Tracy for 5 yards (tackle by Theo Jackson),-0.28,-0.04,1.0,2024,10
+4.0,1:14,2.0,5.0,NYG 19,28.0,6.0,Daniel Jones pass incomplete short right intended for Tyrone Tracy (defended by Jerry Tillery),-0.04,-0.8,1.0,2024,10
+4.0,1:10,3.0,5.0,NYG 19,28.0,6.0,Daniel Jones sacked by Patrick Jones for -7 yards,-0.8,-2.49,1.0,2024,10
+4.0,0:33,4.0,12.0,NYG 12,28.0,6.0,Jamie Gillan punts 48 yards out of bounds,-2.49,-1.6,1.0,2024,10
+4.0,0:29,1.0,10.0,MIN 40,28.0,6.0,Sam Darnold kneels for -1 yards,1.6,0.92,1.0,2024,10

@@ -1,0 +1,160 @@
+Quarter,Time,Down,ToGo,Location,PHI,HOU,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Eagles won the coin toss and deferred, Texans to receive the opening kickoff.",,,9.0,2022,124
+1.0,15:00,,,PHI 35,0.0,0.0,"Jake Elliott kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,124
+1.0,15:00,1.0,10.0,HOU 25,0.0,0.0,Dameon Pierce up the middle for 11 yards (tackle by C.J. Gardner-Johnson and Darius Slay),0.61,1.33,9.0,2022,124
+1.0,14:28,1.0,10.0,HOU 36,0.0,0.0,Davis Mills pass complete short right to Phillip Dorsett for 8 yards (tackle by Darius Slay and Marcus Epps),1.33,1.87,9.0,2022,124
+1.0,13:52,2.0,2.0,HOU 44,0.0,0.0,Dameon Pierce left tackle for 5 yards (tackle by T.J. Edwards and Fletcher Cox),1.87,2.19,9.0,2022,124
+1.0,13:12,1.0,10.0,HOU 49,0.0,0.0,Dameon Pierce right end for 3 yards (tackle by Fletcher Cox),2.19,2.05,9.0,2022,124
+1.0,12:36,2.0,7.0,PHI 48,0.0,0.0,Chris Moore left end for 2 yards (tackle by James Bradberry),2.05,1.62,9.0,2022,124
+1.0,11:56,3.0,5.0,PHI 46,0.0,0.0,Davis Mills pass complete short right to Rex Burkhead for 6 yards (tackle by C.J. Gardner-Johnson),1.62,2.92,9.0,2022,124
+1.0,11:12,1.0,10.0,PHI 40,0.0,0.0,Davis Mills pass complete deep left to Phillip Dorsett for 34 yards (tackle by James Bradberry),2.92,5.83,9.0,2022,124
+1.0,10:24,1.0,6.0,PHI 6,0.0,0.0,Dameon Pierce left end for 4 yards (tackle by T.J. Edwards and Marvin Wilson),5.83,5.72,9.0,2022,124
+1.0,9:42,2.0,2.0,PHI 2,0.0,6.0,"Davis Mills pass complete short left to Teagan Quitoriano for 2 yards, touchdown",5.72,7.0,9.0,2022,124
+1.0,9:37,,,PHI 15,0.0,7.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,9.0,2022,124
+1.0,9:37,,,HOU 35,0.0,7.0,"Ka'imi Fairbairn kicks off 62 yards, returned by Britain Covey for 14 yards (tackle by Dare Ogunbowale). Penalty on Shaun Bradley: Offensive Holding, 8 yards (accepted)",0.0,-0.38,9.0,2022,124
+1.0,9:33,1.0,10.0,PHI 9,0.0,7.0,Jalen Hurts pass incomplete short right,-0.38,-0.78,9.0,2022,124
+1.0,9:27,2.0,10.0,PHI 9,0.0,7.0,"Jalen Hurts pass incomplete short middle intended for Dallas Goedert. Penalty on Jalen Pitre: Defensive Pass Interference, 8 yards (accepted) (no play)",-0.78,-0.06,9.0,2022,124
+1.0,9:23,1.0,10.0,PHI 17,0.0,7.0,Miles Sanders left tackle for 4 yards (tackle by Christian Kirksey),-0.06,0.08,9.0,2022,124
+1.0,8:54,2.0,6.0,PHI 21,0.0,7.0,Jalen Hurts pass incomplete deep middle intended for Dallas Goedert,0.08,-0.75,9.0,2022,124
+1.0,8:51,3.0,6.0,PHI 21,0.0,7.0,Jalen Hurts pass complete short right to Quez Watkins for 23 yards (tackle by Jonathan Owens),-0.75,1.86,9.0,2022,124
+1.0,8:23,1.0,10.0,PHI 44,0.0,7.0,Jalen Hurts pass complete short left to Quez Watkins for 2 yards (tackle by Derek Stingley),1.86,1.59,9.0,2022,124
+1.0,7:49,2.0,8.0,PHI 46,0.0,7.0,Jalen Hurts pass complete short left to DeVonta Smith for no gain (tackle by Steven Nelson),1.59,0.89,9.0,2022,124
+1.0,7:10,3.0,8.0,PHI 46,0.0,7.0,Jalen Hurts pass complete short right to A.J. Brown for 9 yards (tackle by Jonathan Owens),0.89,2.59,9.0,2022,124
+1.0,6:49,1.0,10.0,HOU 45,0.0,7.0,Jalen Hurts pass complete short right to Kenneth Gainwell for 8 yards (tackle by Christian Kirksey),2.59,3.12,9.0,2022,124
+1.0,6:23,2.0,2.0,HOU 37,0.0,7.0,Kenneth Gainwell right tackle for 2 yards (tackle by Kurt Hinish),3.12,3.25,9.0,2022,124
+1.0,5:39,1.0,10.0,HOU 35,0.0,7.0,Jalen Hurts pass incomplete deep left intended for A.J. Brown,3.25,2.7,9.0,2022,124
+1.0,5:32,2.0,10.0,HOU 35,0.0,7.0,Jalen Hurts pass complete short right to Jack Stoll for 13 yards (tackle by Christian Kirksey),2.7,4.11,9.0,2022,124
+1.0,4:54,1.0,10.0,HOU 22,0.0,7.0,Jalen Hurts pass incomplete short left intended for Jack Stoll,4.11,3.56,9.0,2022,124
+1.0,4:49,2.0,10.0,HOU 22,0.0,7.0,Miles Sanders right tackle for 2 yards (tackle by Thomas Booker),3.56,3.14,9.0,2022,124
+1.0,4:05,3.0,8.0,HOU 20,0.0,7.0,Jalen Hurts pass complete deep right to Dallas Goedert for 16 yards (tackle by Jalen Pitre),3.14,6.28,9.0,2022,124
+1.0,3:44,1.0,4.0,HOU 4,0.0,7.0,Jalen Hurts right tackle for -4 yards (tackle by Desmond King),6.28,4.57,9.0,2022,124
+1.0,3:04,2.0,8.0,HOU 8,0.0,7.0,Jalen Hurts pass complete short right to Kenneth Gainwell for 5 yards (tackle by Christian Harris),4.57,4.72,9.0,2022,124
+1.0,2:17,3.0,3.0,HOU 3,0.0,7.0,Miles Sanders left guard for 1 yard (tackle by Jalen Pitre),4.72,3.25,9.0,2022,124
+1.0,1:36,4.0,2.0,HOU 2,6.0,7.0,"Miles Sanders left guard for 2 yards, touchdown",3.25,7.0,9.0,2022,124
+1.0,1:33,,,HOU 15,7.0,7.0,Jake Elliott kicks extra point good,0.0,0.0,9.0,2022,124
+1.0,1:33,,,PHI 35,7.0,7.0,"Jake Elliott kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,124
+1.0,1:33,1.0,10.0,HOU 25,7.0,7.0,Dameon Pierce left guard for 5 yards (tackle by T.J. Edwards and Javon Hargrave),0.61,0.74,9.0,2022,124
+1.0,0:58,2.0,5.0,HOU 30,7.0,7.0,Dameon Pierce up the middle for 6 yards (tackle by Javon Hargrave and Fletcher Cox),0.74,1.33,9.0,2022,124
+1.0,0:20,1.0,10.0,HOU 36,7.0,7.0,Dameon Pierce right end for -1 yards (tackle by Haason Reddick),1.33,0.66,9.0,2022,124
+2.0,15:00,2.0,11.0,HOU 35,7.0,7.0,Davis Mills pass complete short right to Brevin Jordan for 5 yards (tackle by Javon Hargrave),0.66,0.63,9.0,2022,124
+2.0,14:14,3.0,6.0,HOU 40,7.0,7.0,"Penalty on Laremy Tunsil: False Start, 5 yards (accepted) (no play)",0.63,-0.03,9.0,2022,124
+2.0,13:48,3.0,11.0,HOU 35,7.0,7.0,Davis Mills scrambles left end for 8 yards (tackle by Avonte Maddox and K'Von Wallace),-0.03,-0.52,9.0,2022,124
+2.0,13:07,4.0,3.0,HOU 43,7.0,7.0,"Cameron Johnston punts 57 yards, touchback.",-0.52,-0.28,9.0,2022,124
+2.0,12:59,1.0,10.0,PHI 20,7.0,7.0,Jalen Hurts pass complete short middle to A.J. Brown for 31 yards (tackle by Jonathan Owens),0.28,2.32,9.0,2022,124
+2.0,12:35,1.0,10.0,HOU 49,7.0,7.0,Jalen Hurts pass complete short left to DeVonta Smith for 22 yards (tackle by Steven Nelson),2.32,3.78,9.0,2022,124
+2.0,12:16,1.0,10.0,HOU 27,7.0,7.0,"Jalen Hurts sacked by Steven Nelson for -7 yards. Jalen Hurts fumbles (forced by Steven Nelson), recovered by Jaleel Johnson at HOU-35",3.78,-1.27,9.0,2022,124
+2.0,12:09,1.0,10.0,HOU 35,7.0,7.0,Davis Mills pass complete short right to O.J. Howard for 14 yards (tackle by Marcus Epps),1.27,2.19,9.0,2022,124
+2.0,11:34,1.0,10.0,HOU 49,7.0,7.0,Davis Mills pass incomplete short right intended for O.J. Howard,2.19,1.65,9.0,2022,124
+2.0,11:30,2.0,10.0,HOU 49,7.0,7.0,Dameon Pierce left guard for 1 yard (tackle by Kyzir White),1.65,1.09,9.0,2022,124
+2.0,10:52,3.0,9.0,HOU 50,7.0,7.0,Davis Mills sacked by Javon Hargrave for -6 yards,1.09,-0.46,9.0,2022,124
+2.0,10:14,4.0,15.0,HOU 44,7.0,7.0,"Cameron Johnston punts 43 yards, returned by Britain Covey for 8 yards (tackle by Tavierre Thomas)",-0.46,-0.34,9.0,2022,124
+2.0,10:04,1.0,10.0,PHI 21,7.0,7.0,Miles Sanders left end for 13 yards (tackle by Jonathan Owens),0.34,1.2,9.0,2022,124
+2.0,9:26,1.0,10.0,PHI 34,7.0,7.0,Miles Sanders left tackle for 25 yards (tackle by Jonathan Owens),1.2,2.85,9.0,2022,124
+2.0,8:45,1.0,10.0,HOU 41,7.0,7.0,Boston Scott left end for 5 yards (tackle by Jake Hansen and Jalen Pitre),2.85,2.98,9.0,2022,124
+2.0,8:02,2.0,5.0,HOU 36,7.0,7.0,Jalen Hurts pass complete to Dallas Goedert for 15 yards (tackle by Thomas Booker and Jake Hansen),2.98,4.17,9.0,2022,124
+2.0,7:36,1.0,10.0,HOU 21,7.0,7.0,Jalen Hurts pass complete short left to Zach Pascal for 8 yards (tackle by Jonathan Owens),4.17,4.95,9.0,2022,124
+2.0,7:12,2.0,2.0,HOU 13,7.0,7.0,Miles Sanders up the middle for 1 yard (tackle by Jerry Hughes),4.95,4.49,9.0,2022,124
+2.0,6:29,3.0,1.0,HOU 12,7.0,7.0,Jalen Hurts left end for 2 yards (tackle by Jonathan Owens and Christian Kirksey),4.49,4.91,9.0,2022,124
+2.0,5:49,1.0,10.0,HOU 10,7.0,7.0,Miles Sanders up the middle for 6 yards (tackle by Jonathan Owens and Kurt Hinish),4.91,5.34,9.0,2022,124
+2.0,5:22,2.0,4.0,HOU 4,7.0,7.0,Jalen Hurts left end for no gain (tackle by Jonathan Owens),5.34,4.49,9.0,2022,124
+2.0,4:37,3.0,4.0,HOU 4,13.0,7.0,"Kenneth Gainwell for 4 yards, touchdown",4.49,7.0,9.0,2022,124
+2.0,4:32,,,HOU 15,14.0,7.0,Jake Elliott kicks extra point good,0.0,0.0,9.0,2022,124
+2.0,4:32,,,PHI 35,14.0,7.0,"Jake Elliott kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,124
+2.0,4:32,1.0,10.0,HOU 25,14.0,7.0,Dameon Pierce left guard for 6 yards (tackle by Marvin Wilson),0.61,0.87,9.0,2022,124
+2.0,3:53,2.0,4.0,HOU 31,14.0,7.0,Dameon Pierce right tackle for 3 yards (tackle by T.J. Edwards and Marvin Wilson),0.87,0.56,9.0,2022,124
+2.0,3:22,3.0,1.0,HOU 34,14.0,7.0,Dameon Pierce left guard for 3 yards (tackle by Milton Williams),0.56,1.4,9.0,2022,124
+2.0,2:38,,,,,,Timeout #1 by Houston Texans,,,9.0,2022,124
+2.0,2:38,1.0,10.0,HOU 37,14.0,7.0,Dameon Pierce right tackle for 36 yards (tackle by Avonte Maddox),1.4,3.78,9.0,2022,124
+2.0,2:00,1.0,10.0,PHI 27,14.0,7.0,Davis Mills pass complete short left to Tyron Johnson for 8 yards (tackle by Avonte Maddox),3.78,4.35,9.0,2022,124
+2.0,1:21,2.0,2.0,PHI 19,14.0,7.0,Dameon Pierce up the middle for 6 yards (tackle by Marvin Wilson),4.35,4.71,9.0,2022,124
+2.0,0:43,1.0,10.0,PHI 13,14.0,13.0,"Davis Mills pass incomplete short right intended for Chris Moore Replay Assistant challenged the pass completion ruling, and the original play was overturned. Davis Mills pass complete short right to Chris Moore for 13 yards, touchdown",4.71,7.0,9.0,2022,124
+2.0,0:37,,,PHI 15,14.0,14.0,Ka'imi Fairbairn kicks extra point good,0.0,0.0,9.0,2022,124
+2.0,0:37,,,HOU 35,14.0,14.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,124
+2.0,0:37,1.0,10.0,PHI 25,14.0,14.0,Kenneth Gainwell right guard for 8 yards (tackle by Steven Nelson and Christian Kirksey),0.61,1.14,9.0,2022,124
+2.0,0:31,,,,,,Timeout #1 by Philadelphia Eagles,,,9.0,2022,124
+2.0,0:31,2.0,2.0,PHI 33,14.0,14.0,Jalen Hurts pass complete short right to Kenneth Gainwell for 3 yards (tackle by Steven Nelson),1.14,1.33,9.0,2022,124
+2.0,0:24,,,,,,Timeout #2 by Philadelphia Eagles,,,9.0,2022,124
+2.0,0:24,1.0,10.0,PHI 36,14.0,14.0,Jalen Hurts pass complete deep right to Dallas Goedert for 21 yards (tackle by Jalen Pitre),1.33,2.72,9.0,2022,124
+2.0,0:19,1.0,10.0,HOU 43,14.0,14.0,Jalen Hurts scrambles left guard for 7 yards (tackle by Mario Addison),2.72,3.12,9.0,2022,124
+2.0,0:03,,,,,,Timeout #3 by Philadelphia Eagles,,,9.0,2022,124
+2.0,0:03,,,,,,Timeout #2 by Houston Texans,,,9.0,2022,124
+2.0,0:03,2.0,3.0,HOU 36,14.0,14.0,Jake Elliott 54 yard field goal no good,3.12,1.8,9.0,2022,124
+3.0,15:00,,,HOU 35,14.0,14.0,"Ka'imi Fairbairn kicks off 64 yards, returned by Britain Covey for 16 yards (tackle by Blake Cashman and Jalen Reeves-Maybin)",0.0,-0.06,9.0,2022,124
+3.0,14:56,1.0,10.0,PHI 17,14.0,14.0,Jalen Hurts sacked by Jerry Hughes for -6 yards,-0.06,-1.22,9.0,2022,124
+3.0,14:15,2.0,16.0,PHI 11,14.0,14.0,Miles Sanders left guard for 13 yards (tackle by Jonathan Owens and Jalen Pitre),-1.22,-0.37,9.0,2022,124
+3.0,13:36,3.0,3.0,PHI 24,14.0,14.0,Jalen Hurts sacked by Jerry Hughes for -9 yards,-0.37,-2.44,9.0,2022,124
+3.0,12:58,4.0,12.0,PHI 15,14.0,14.0,"Arryn Siposs punts 47 yards, returned by Desmond King for -2 yards (tackle by Zech McPhearson)",-2.44,-1.33,9.0,2022,124
+3.0,12:49,1.0,10.0,HOU 36,14.0,14.0,"Davis Mills pass incomplete deep left intended for O.J. Howard. Penalty on Brevin Jordan: Offensive Holding, 10 yards (accepted) (no play)",1.33,0.67,9.0,2022,124
+3.0,12:42,1.0,20.0,HOU 26,14.0,14.0,Davis Mills pass incomplete short left,0.67,-0.56,9.0,2022,124
+3.0,12:39,2.0,20.0,HOU 26,14.0,14.0,Dameon Pierce up the middle for -2 yards (tackle by Josh Sweat and C.J. Gardner-Johnson),-0.56,-1.48,9.0,2022,124
+3.0,12:03,3.0,22.0,HOU 24,14.0,14.0,Davis Mills pass complete short right to Chris Moore for 9 yards (tackle by Darius Slay),-1.48,-1.18,9.0,2022,124
+3.0,11:31,4.0,13.0,HOU 33,14.0,14.0,"Cameron Johnston punts 67 yards, touchback.",-1.18,-0.28,9.0,2022,124
+3.0,11:21,1.0,10.0,PHI 20,14.0,14.0,Miles Sanders right guard for 9 yards (tackle by Ogbonnia Okoronkwo and M.J. Stewart),0.28,0.95,9.0,2022,124
+3.0,10:45,2.0,1.0,PHI 29,14.0,14.0,Miles Sanders up the middle for no gain (tackle by Christian Harris),0.95,0.23,9.0,2022,124
+3.0,10:05,3.0,1.0,PHI 29,14.0,14.0,"Miles Sanders left guard for 2 yards (tackle by Eric Murray) Replay Assistant challenged the first down ruling, and the original play was overturned. Miles Sanders for -1 yards (tackle by Christian Kirksey)",0.23,-1.5,9.0,2022,124
+3.0,9:57,4.0,2.0,PHI 28,14.0,14.0,"Arryn Siposs punts 52 yards, fair catch by Desmond King at HOU-20",-1.5,-0.28,9.0,2022,124
+3.0,9:49,1.0,10.0,HOU 20,14.0,14.0,Dameon Pierce left guard for 6 yards (tackle by Javon Hargrave),0.28,0.54,9.0,2022,124
+3.0,9:07,2.0,4.0,HOU 26,14.0,14.0,Dameon Pierce left tackle for -2 yards (tackle by Brandon Graham),0.54,-0.43,9.0,2022,124
+3.0,8:23,3.0,6.0,HOU 24,14.0,14.0,Davis Mills pass deep middle intended for Chris Moore is intercepted by C.J. Gardner-Johnson at HOU-42 and returned for 25 yards (tackle by Teagan Quitoriano),-0.43,-4.44,9.0,2022,124
+3.0,8:13,1.0,10.0,HOU 17,14.0,14.0,Jalen Hurts pass incomplete short left intended for A.J. Brown (defended by Rasheem Green),4.44,3.85,9.0,2022,124
+3.0,8:10,2.0,10.0,HOU 17,20.0,14.0,"Jalen Hurts pass complete deep left to A.J. Brown for 17 yards, touchdown",3.85,7.0,9.0,2022,124
+3.0,8:04,,,HOU 15,21.0,14.0,Jake Elliott kicks extra point good,0.0,0.0,9.0,2022,124
+3.0,8:04,,,PHI 35,21.0,14.0,"Jake Elliott kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,124
+3.0,8:04,1.0,10.0,HOU 25,21.0,14.0,Davis Mills pass complete short right to Chris Moore for -4 yards (tackle by T.J. Edwards and Kyzir White),0.61,-0.48,9.0,2022,124
+3.0,7:22,2.0,14.0,HOU 21,21.0,14.0,Davis Mills pass complete short left to Chris Moore for 25 yards (tackle by Kyzir White),-0.48,1.99,9.0,2022,124
+3.0,6:40,1.0,10.0,HOU 46,21.0,14.0,Dameon Pierce left guard for 3 yards (tackle by Marlon Tuipulotu and Kyzir White),1.99,1.86,9.0,2022,124
+3.0,6:02,2.0,7.0,HOU 49,21.0,14.0,Dameon Pierce up the middle for 10 yards (tackle by Josh Sweat and Marcus Epps),1.86,2.85,9.0,2022,124
+3.0,5:17,1.0,10.0,PHI 41,21.0,14.0,Dameon Pierce right tackle for 4 yards (tackle by Kyzir White),2.85,2.85,9.0,2022,124
+3.0,4:40,2.0,6.0,PHI 37,21.0,14.0,Dameon Pierce left tackle for 6 yards (tackle by James Bradberry),2.85,3.51,9.0,2022,124
+3.0,4:01,1.0,10.0,PHI 31,21.0,14.0,Dameon Pierce right tackle for 9 yards (tackle by Darius Slay and Marcus Epps),3.51,4.18,9.0,2022,124
+3.0,3:18,2.0,1.0,PHI 22,21.0,14.0,Rex Burkhead up the middle for 9 yards (tackle by Marcus Epps),4.18,4.71,9.0,2022,124
+3.0,2:39,1.0,10.0,PHI 13,21.0,14.0,Dameon Pierce left tackle for no gain (tackle by Josh Sweat),4.71,4.05,9.0,2022,124
+3.0,2:06,2.0,10.0,PHI 13,21.0,14.0,Dameon Pierce left guard for 1 yard (tackle by Josh Sweat and Haason Reddick),4.05,3.28,9.0,2022,124
+3.0,1:24,3.0,9.0,PHI 12,21.0,14.0,Davis Mills pass incomplete short left intended for Rex Burkhead,3.28,2.63,9.0,2022,124
+3.0,1:18,4.0,9.0,PHI 12,21.0,17.0,Ka'imi Fairbairn 30 yard field goal good,2.63,3.0,9.0,2022,124
+3.0,1:15,,,HOU 35,21.0,17.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,124
+3.0,1:15,1.0,10.0,PHI 25,21.0,17.0,Jalen Hurts pass complete short right to Dallas Goedert for 7 yards (tackle by Jalen Pitre),0.61,1.01,9.0,2022,124
+3.0,0:35,2.0,3.0,PHI 32,21.0,17.0,Jalen Hurts scrambles left end for 5 yards (tackle by Jerry Hughes),1.01,1.4,9.0,2022,124
+4.0,15:00,1.0,10.0,PHI 37,21.0,17.0,Miles Sanders right end for 6 yards (tackle by Jalen Pitre),1.4,1.67,9.0,2022,124
+4.0,14:27,2.0,4.0,PHI 43,21.0,17.0,Jalen Hurts pass complete short right to Dallas Goedert for 17 yards (tackle by Desmond King),1.67,2.92,9.0,2022,124
+4.0,13:50,1.0,10.0,HOU 40,21.0,17.0,Jalen Hurts pass complete short right to Dallas Goedert for 10 yards (tackle by Jalen Pitre),2.92,3.58,9.0,2022,124
+4.0,13:12,1.0,10.0,HOU 30,21.0,17.0,Jalen Hurts pass incomplete short right,3.58,3.03,9.0,2022,124
+4.0,13:05,2.0,10.0,HOU 30,21.0,17.0,Jalen Hurts pass complete short middle to Dallas Goedert for 10 yards (tackle by Christian Harris),3.03,4.24,9.0,2022,124
+4.0,12:36,1.0,10.0,HOU 20,21.0,17.0,Miles Sanders right tackle for 12 yards (tackle by Jalen Pitre),4.24,5.37,9.0,2022,124
+4.0,12:10,1.0,8.0,HOU 8,21.0,17.0,Miles Sanders left tackle for 4 yards (tackle by Jaleel Johnson and Tavierre Thomas),5.37,5.34,9.0,2022,124
+4.0,11:26,2.0,4.0,HOU 4,27.0,17.0,"Jalen Hurts pass complete short right to Dallas Goedert for 4 yards, touchdown",5.34,7.0,9.0,2022,124
+4.0,11:22,,,HOU 15,27.0,17.0,"Penalty on Kurt Hinish: Neutral Zone Infraction, 1 yard (accepted) (no play)",0.0,1.0,9.0,2022,124
+4.0,11:22,1.0,1.0,HOU 2,29.0,17.0,"Two Point Attempt: Jalen Hurts rushes, conversion succeeds.",1.0,1.0,9.0,2022,124
+4.0,11:22,,,PHI 35,29.0,17.0,"Jake Elliott kicks off 65 yards, touchback.",0.0,0.61,9.0,2022,124
+4.0,11:22,1.0,10.0,HOU 25,29.0,17.0,Dameon Pierce left tackle for 2 yards (tackle by Milton Williams and Josh Sweat),0.61,0.33,9.0,2022,124
+4.0,10:44,2.0,8.0,HOU 27,29.0,17.0,"Davis Mills pass incomplete deep right intended for Phillip Dorsett. Penalty on Javon Hargrave: Roughing the Passer, 15 yards (accepted) (no play)",0.33,1.73,9.0,2022,124
+4.0,10:39,1.0,10.0,HOU 42,29.0,17.0,Dameon Pierce right end for 4 yards (tackle by Fletcher Cox),1.73,1.73,9.0,2022,124
+4.0,9:54,2.0,6.0,HOU 46,29.0,17.0,Davis Mills scrambles up the middle for 7 yards (tackle by T.J. Edwards),1.73,2.46,9.0,2022,124
+4.0,9:12,1.0,10.0,PHI 47,29.0,17.0,Davis Mills pass incomplete short left intended for Phillip Dorsett,2.46,1.91,9.0,2022,124
+4.0,9:08,2.0,10.0,PHI 47,29.0,17.0,"Davis Mills pass complete deep right to Brevin Jordan for 19 yards Replay Assistant challenged the pass completion ruling, and the original play was overturned. Davis Mills pass incomplete deep right intended for Brevin Jordan",1.91,1.22,9.0,2022,124
+4.0,9:03,3.0,10.0,PHI 47,29.0,17.0,Davis Mills sacked by Javon Hargrave for -4 yards,1.22,-0.13,9.0,2022,124
+4.0,8:22,4.0,14.0,HOU 49,29.0,17.0,"Cameron Johnston punts 41 yards, fair catch by Britain Covey at PHI-10",-0.13,0.38,9.0,2022,124
+4.0,8:15,1.0,10.0,PHI 10,29.0,17.0,Miles Sanders left tackle for -2 yards (tackle by Christian Harris and Garret Wallow),-0.38,-0.93,9.0,2022,124
+4.0,7:36,2.0,12.0,PHI 8,29.0,17.0,Jalen Hurts sacked by Kurt Hinish for -4 yards,-0.93,-2.12,9.0,2022,124
+4.0,6:50,3.0,16.0,PHI 4,29.0,17.0,Kenneth Gainwell up the middle for 8 yards (tackle by M.J. Stewart and Eric Murray),-2.12,-2.49,9.0,2022,124
+4.0,6:05,4.0,8.0,PHI 12,29.0,17.0,"Arryn Siposs punts 50 yards, fair catch by Desmond King at HOU-38",-2.49,-1.47,9.0,2022,124
+4.0,5:58,1.0,10.0,HOU 38,29.0,17.0,Davis Mills pass incomplete short left intended for Troy Hairston,1.47,0.92,9.0,2022,124
+4.0,5:53,2.0,10.0,HOU 38,29.0,17.0,Davis Mills pass complete deep left to Phillip Dorsett for 27 yards (tackle by K'Von Wallace),0.92,3.25,9.0,2022,124
+4.0,5:27,1.0,10.0,PHI 35,29.0,17.0,Dameon Pierce left tackle for 7 yards (tackle by K'Von Wallace),3.25,3.65,9.0,2022,124
+4.0,4:58,2.0,3.0,PHI 28,29.0,17.0,Davis Mills pass complete short left to Jalen Camp for 7 yards (tackle by James Bradberry),3.65,4.17,9.0,2022,124
+4.0,4:25,1.0,10.0,PHI 21,29.0,17.0,Dameon Pierce up the middle for 3 yards (tackle by T.J. Edwards and Kyzir White),4.17,4.04,9.0,2022,124
+4.0,3:49,2.0,7.0,PHI 18,29.0,17.0,Davis Mills scrambles up the middle for 3 yards (tackle by Kyzir White),4.04,3.81,9.0,2022,124
+4.0,3:07,3.0,4.0,PHI 15,29.0,17.0,"Davis Mills pass incomplete short left intended for Rex Burkhead. Penalty on Kyzir White: Defensive Pass Interference, 3 yards (accepted) (no play)",3.81,4.78,9.0,2022,124
+4.0,3:03,1.0,10.0,PHI 12,29.0,17.0,Davis Mills pass incomplete short middle intended for Jordan Akins (defended by Haason Reddick),4.78,4.1,9.0,2022,124
+4.0,2:59,2.0,10.0,PHI 12,29.0,17.0,Davis Mills sacked by Javon Hargrave for -9 yards,4.1,2.35,9.0,2022,124
+4.0,2:17,3.0,19.0,PHI 21,29.0,17.0,"Davis Mills pass deep left intended for Phillip Dorsett is intercepted by James Bradberry at PHI-3 and returned for 22 yards (tackle by Davis Mills). Penalty on Phillip Dorsett: Illegal Shift, 5 yards (declined)",2.35,-0.61,9.0,2022,124
+4.0,2:08,1.0,10.0,PHI 25,29.0,17.0,Miles Sanders left end for -2 yards (tackle by Desmond King and Jerry Hughes),0.61,-0.21,9.0,2022,124
+4.0,2:00,2.0,12.0,PHI 23,29.0,17.0,Jalen Hurts pass complete short right to A.J. Brown for 2 yards (tackle by Desmond King),-0.21,-0.62,9.0,2022,124
+4.0,1:54,,,,,,Timeout #1 by Houston Texans,,,9.0,2022,124
+4.0,1:54,3.0,10.0,PHI 25,29.0,17.0,"Jalen Hurts pass complete short right to Dallas Goedert for 15 yards (tackle by M.J. Stewart). Penalty on Jordan Mailata: Ineligible Downfield Pass, 5 yards (accepted) (no play)",-0.62,-1.29,9.0,2022,124
+4.0,1:47,3.0,15.0,PHI 20,29.0,17.0,"Jalen Hurts right tackle for 14 yards. Jalen Hurts fumbles (forced by Christian Harris), recovered by Jason Kelce at PHI-34 (tackle by M.J. Stewart)",-1.29,-1.11,9.0,2022,124
+4.0,1:36,,,,,,Timeout #2 by Houston Texans,,,9.0,2022,124
+4.0,1:36,,,,,,Timeout #1 by Philadelphia Eagles,,,9.0,2022,124
+4.0,1:36,4.0,1.0,PHI 34,29.0,17.0,Jalen Hurts for 1 yard (tackle by Christian Kirksey),-1.11,1.27,9.0,2022,124
+4.0,0:55,1.0,10.0,PHI 35,29.0,17.0,Jalen Hurts kneels for -1 yards,1.27,0.59,9.0,2022,124
+4.0,0:30,2.0,11.0,PHI 34,29.0,17.0,Jalen Hurts kneels for -1 yards,0.59,-0.23,9.0,2022,124

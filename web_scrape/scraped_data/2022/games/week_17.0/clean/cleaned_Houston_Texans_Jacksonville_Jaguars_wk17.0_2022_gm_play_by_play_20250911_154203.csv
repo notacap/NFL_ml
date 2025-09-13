@@ -1,0 +1,165 @@
+Quarter,Time,Down,ToGo,Location,JAX,HOU,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Jaguars won the coin toss and deferred, Texans to receive the opening kickoff.",,,17.0,2022,248
+1.0,15:00,,,JAX 35,0.0,0.0,"Riley Patterson kicks off 67 yards, returned by Tremon Smith for 28 yards (tackle by Chad Muma)",0.0,0.67,17.0,2022,248
+1.0,14:55,1.0,10.0,HOU 26,0.0,0.0,Dare Ogunbowale left tackle for 9 yards (tackle by Foyesade Oluokun and Josh Allen),0.67,1.35,17.0,2022,248
+1.0,14:22,2.0,1.0,HOU 35,0.0,0.0,Davis Mills pass incomplete short right intended for O.J. Howard,1.35,0.63,17.0,2022,248
+1.0,14:17,3.0,1.0,HOU 35,0.0,0.0,Dare Ogunbowale right tackle for 1 yard (tackle by Foyesade Oluokun and Darious Williams),0.63,1.33,17.0,2022,248
+1.0,13:33,1.0,10.0,HOU 36,0.0,0.0,Dare Ogunbowale right guard for 7 yards (tackle by Josh Allen),1.33,1.74,17.0,2022,248
+1.0,12:58,2.0,3.0,HOU 43,0.0,0.0,Dare Ogunbowale up the middle for 2 yards (tackle by Devin Lloyd and Arden Key),1.74,1.29,17.0,2022,248
+1.0,12:15,3.0,1.0,HOU 45,0.0,0.0,Dare Ogunbowale up the middle for no gain (tackle by Devin Lloyd and Corey Peters),1.29,-0.39,17.0,2022,248
+1.0,11:35,4.0,1.0,HOU 45,0.0,0.0,Jeff Driskel up the middle for no gain (tackle by Rayshawn Jenkins and Darious Williams),-0.39,-2.59,17.0,2022,248
+1.0,11:30,1.0,10.0,HOU 45,0.0,0.0,Trevor Lawrence pass complete short middle to Christian Kirk for 13 yards (tackle by Jalen Pitre),2.59,3.45,17.0,2022,248
+1.0,11:04,1.0,10.0,HOU 32,0.0,0.0,Travis Etienne left guard for 9 yards (tackle by Desmond King and Jalen Pitre),3.45,4.12,17.0,2022,248
+1.0,10:40,2.0,1.0,HOU 23,0.0,0.0,Trevor Lawrence left end for 4 yards (tackle by Jalen Pitre),4.12,4.31,17.0,2022,248
+1.0,10:19,1.0,10.0,HOU 19,0.0,0.0,Trevor Lawrence pass incomplete short right intended for Christian Kirk,4.31,3.75,17.0,2022,248
+1.0,10:13,2.0,10.0,HOU 19,0.0,0.0,Trevor Lawrence pass complete short left to Marvin Jones for 14 yards (tackle by Jalen Pitre),3.75,6.06,17.0,2022,248
+1.0,9:49,1.0,5.0,HOU 5,0.0,0.0,Travis Etienne right guard for -2 yards (tackle by Roy Lopez and Jerry Hughes),6.06,4.76,17.0,2022,248
+1.0,9:10,2.0,7.0,HOU 7,0.0,0.0,Trevor Lawrence pass complete short right to Travis Etienne for 2 yards (tackle by Tavierre Thomas),4.76,4.26,17.0,2022,248
+1.0,8:29,3.0,5.0,HOU 5,6.0,0.0,"Jamycal Hasty left guard for 5 yards, touchdown",4.26,7.0,17.0,2022,248
+1.0,8:24,,,HOU 15,7.0,0.0,Riley Patterson kicks extra point good,0.0,0.0,17.0,2022,248
+1.0,8:24,,,JAX 35,7.0,0.0,"Riley Patterson kicks off 59 yards, returned by Tremon Smith for 20 yards (tackle by Caleb Johnson)",0.0,0.67,17.0,2022,248
+1.0,8:19,1.0,10.0,HOU 26,7.0,0.0,Amari Rodgers right end for 4 yards (tackle by Darious Williams),0.67,0.67,17.0,2022,248
+1.0,7:50,2.0,6.0,HOU 30,7.0,0.0,Davis Mills pass incomplete deep right intended for Brandin Cooks,0.67,-0.03,17.0,2022,248
+1.0,7:44,3.0,6.0,HOU 30,7.0,0.0,Davis Mills pass complete short left to Rex Burkhead for 3 yards (tackle by Foyesade Oluokun),-0.03,-1.18,17.0,2022,248
+1.0,7:01,4.0,3.0,HOU 33,7.0,0.0,"Cameron Johnston punts 51 yards, returned by Jamal Agnew for 7 yards (tackle by Jake Hansen and M.J. Stewart)",-1.18,-0.48,17.0,2022,248
+1.0,6:50,1.0,10.0,JAX 23,7.0,0.0,Travis Etienne left guard for 3 yards (tackle by Maliek Collins),0.48,0.34,17.0,2022,248
+1.0,6:10,2.0,7.0,JAX 26,7.0,0.0,"Trevor Lawrence pass incomplete deep right intended for Zay Jones. Penalty on Ogbonnia Okoronkwo: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",0.34,1.0,17.0,2022,248
+1.0,6:10,1.0,10.0,JAX 31,7.0,0.0,Travis Etienne right guard for 27 yards (tackle by Jonathan Owens),1.0,2.79,17.0,2022,248
+1.0,5:45,1.0,10.0,HOU 42,7.0,0.0,Trevor Lawrence pass complete short left to Zay Jones for 3 yards (tackle by Desmond King),2.79,2.65,17.0,2022,248
+1.0,5:07,2.0,7.0,HOU 39,7.0,0.0,"Trevor Lawrence aborted snap, recovered by Travis Etienne at HOU-39 (tackle by Kurt Hinish)",2.65,1.29,17.0,2022,248
+1.0,4:29,3.0,12.0,HOU 44,7.0,0.0,Trevor Lawrence pass complete short right to Jamal Agnew for 4 yards (tackle by Blake Cashman),1.29,0.59,17.0,2022,248
+1.0,3:52,4.0,8.0,HOU 40,7.0,0.0,"Logan Cooke punts 39 yards downed by Chris Claybrooks HOU challenged the touchback ruling, and the play was upheld.",0.59,0.38,17.0,2022,248
+1.0,3:41,1.0,10.0,HOU 1,7.0,0.0,Davis Mills up the middle for 2 yards (tackle by Corey Peters),-0.38,-0.63,17.0,2022,248
+1.0,3:08,2.0,8.0,HOU 3,7.0,0.0,"Davis Mills pass incomplete deep right intended for Brandin Cooks. Penalty on Darious Williams: Defensive Pass Interference, 21 yards (accepted) (no play)",-0.63,0.54,17.0,2022,248
+1.0,3:02,1.0,10.0,HOU 24,7.0,0.0,Davis Mills pass complete short left to Phillip Dorsett for 1 yard (tackle by Tre Herndon),0.54,0.13,17.0,2022,248
+1.0,2:18,2.0,9.0,HOU 25,7.0,0.0,Davis Mills pass complete short right to Chris Moore for 5 yards (tackle by Arden Key),0.13,0.1,17.0,2022,248
+1.0,1:34,3.0,4.0,HOU 30,7.0,0.0,Davis Mills pass incomplete deep left intended for Brandin Cooks,0.1,-1.37,17.0,2022,248
+1.0,1:26,4.0,4.0,HOU 30,7.0,0.0,"Cameron Johnston punts 46 yards, returned by Jamal Agnew for 11 yards (tackle by Neville Hewitt and Jon Weeks)",-1.37,-1.27,17.0,2022,248
+1.0,1:14,1.0,10.0,JAX 35,7.0,0.0,Trevor Lawrence pass complete short middle to Christian Kirk for 8 yards (tackle by Jalen Pitre and Steven Nelson),1.27,1.8,17.0,2022,248
+1.0,0:56,2.0,2.0,JAX 43,7.0,0.0,Trevor Lawrence pass complete short middle to Marvin Jones for 4 yards (tackle by Desmond King),1.8,2.06,17.0,2022,248
+1.0,0:22,1.0,10.0,JAX 47,7.0,0.0,Jamal Agnew left end for no gain (tackle by Mario Addison and Desmond King),2.06,1.52,17.0,2022,248
+2.0,15:00,2.0,10.0,JAX 47,7.0,0.0,"Penalty on Kurt Hinish: Neutral Zone Infraction, 5 yards (accepted) (no play)",1.52,2.19,17.0,2022,248
+2.0,15:00,2.0,5.0,HOU 48,7.0,0.0,Trevor Lawrence pass incomplete short middle intended for Evan Engram,2.19,1.49,17.0,2022,248
+2.0,14:57,3.0,5.0,HOU 48,7.0,0.0,Trevor Lawrence pass complete short right to Travis Etienne for no gain,1.49,0.07,17.0,2022,248
+2.0,14:19,4.0,5.0,HOU 48,7.0,0.0,"Logan Cooke punts 37 yards, fair catch by Desmond King at HOU-11",0.07,0.37,17.0,2022,248
+2.0,14:13,1.0,10.0,HOU 11,7.0,0.0,Davis Mills pass complete short left to Phillip Dorsett for 7 yards (tackle by Chad Muma),-0.37,0.0,17.0,2022,248
+2.0,13:31,2.0,3.0,HOU 18,7.0,0.0,Dare Ogunbowale left tackle for -1 yards (tackle by Rayshawn Jenkins and Roy Robertson-Harris),0.0,-0.72,17.0,2022,248
+2.0,12:48,3.0,4.0,HOU 17,7.0,0.0,Davis Mills pass incomplete deep middle intended for Brevin Jordan,-0.72,-2.32,17.0,2022,248
+2.0,12:38,4.0,4.0,HOU 17,7.0,0.0,Cameron Johnston punts 45 yards downed by Blake Cashman,-2.32,-1.47,17.0,2022,248
+2.0,12:30,1.0,10.0,JAX 38,13.0,0.0,"Travis Etienne left tackle for 62 yards, touchdown",1.47,7.0,17.0,2022,248
+2.0,12:21,,,HOU 15,14.0,0.0,Riley Patterson kicks extra point good,0.0,0.0,17.0,2022,248
+2.0,12:21,,,JAX 35,14.0,0.0,"Riley Patterson kicks off 62 yards, returned by Tremon Smith for 20 yards (tackle by Andrew Wingard)",0.0,0.48,17.0,2022,248
+2.0,12:17,1.0,10.0,HOU 23,14.0,0.0,Royce Freeman right guard for 2 yards (tackle by DaVon Hamilton),0.48,0.2,17.0,2022,248
+2.0,11:43,2.0,8.0,HOU 25,20.0,0.0,"Davis Mills sacked by Josh Allen for -9 yards. Davis Mills fumbles (forced by Josh Allen), recovered by Tyson Campbell at HOU-12 and returned for 12 yards, touchdown",0.2,-7.0,17.0,2022,248
+2.0,11:35,,,HOU 15,21.0,0.0,Riley Patterson kicks extra point good,0.0,0.0,17.0,2022,248
+2.0,11:35,,,JAX 35,21.0,0.0,"Riley Patterson kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,248
+2.0,11:35,1.0,10.0,HOU 25,21.0,0.0,Jeff Driskel left end for 7 yards (tackle by Tyson Campbell),0.61,1.01,17.0,2022,248
+2.0,11:04,2.0,3.0,HOU 32,21.0,0.0,"Penalty on Scott Quessenberry: False Start, 5 yards (accepted) (no play)",1.01,0.33,17.0,2022,248
+2.0,10:43,2.0,8.0,HOU 27,21.0,0.0,Royce Freeman left guard for no gain (tackle by K'Lavon Chaisson),0.33,-0.36,17.0,2022,248
+2.0,10:06,3.0,8.0,HOU 27,21.0,0.0,Davis Mills scrambles left end for 7 yards (tackle by Chad Muma),-0.36,-1.11,17.0,2022,248
+2.0,9:18,4.0,1.0,HOU 34,21.0,0.0,"Cameron Johnston punts 47 yards, returned by Jamal Agnew for no gain (tackle by Dare Ogunbowale). Penalty on Darious Williams: Offensive Illegal Block Above the Waist, 9 yards (accepted)",-1.11,0.38,17.0,2022,248
+2.0,9:07,1.0,10.0,JAX 9,21.0,0.0,Trevor Lawrence pass complete short right to Marvin Jones for 5 yards (tackle by Steven Nelson),-0.38,-0.39,17.0,2022,248
+2.0,8:31,2.0,5.0,JAX 14,21.0,0.0,Trevor Lawrence pass deep left intended for Zay Jones is intercepted by Desmond King at JAC-42 and returned for 1 yard (tackle by Evan Engram),-0.39,-2.85,17.0,2022,248
+2.0,8:21,1.0,10.0,JAX 41,21.0,0.0,Davis Mills pass complete short right to O.J. Howard for 26 yards (tackle by Darious Williams),2.85,4.58,17.0,2022,248
+2.0,7:46,1.0,10.0,JAX 15,21.0,0.0,Davis Mills pass complete short left to Brandin Cooks for 5 yards (tackle by Tyson Campbell),4.58,4.84,17.0,2022,248
+2.0,7:05,2.0,5.0,JAX 10,21.0,0.0,Jeff Driskel pass incomplete short right intended for Phillip Dorsett,4.84,4.0,17.0,2022,248
+2.0,7:00,3.0,5.0,JAX 10,21.0,0.0,Davis Mills pass incomplete short left intended for Dare Ogunbowale,4.0,2.81,17.0,2022,248
+2.0,6:54,4.0,5.0,JAX 10,21.0,0.0,Davis Mills pass incomplete short right intended for Rex Burkhead,2.81,0.38,17.0,2022,248
+2.0,6:49,1.0,10.0,JAX 10,21.0,0.0,Travis Etienne right tackle for no gain (tackle by Mario Addison),-0.38,-0.78,17.0,2022,248
+2.0,6:11,2.0,10.0,JAX 10,21.0,0.0,Travis Etienne right tackle for 7 yards (tackle by Jalen Pitre),-0.78,-0.6,17.0,2022,248
+2.0,5:37,3.0,3.0,JAX 17,21.0,0.0,Travis Etienne right tackle for no gain (tackle by Jonathan Greenard and Kurt Hinish),-0.6,-2.32,17.0,2022,248
+2.0,4:58,4.0,3.0,JAX 17,21.0,0.0,"Logan Cooke punts 57 yards, returned by Desmond King for 16 yards (tackle by Caleb Johnson)",-2.32,-1.73,17.0,2022,248
+2.0,4:45,1.0,10.0,HOU 42,21.0,0.0,Royce Freeman up the middle for 3 yards (tackle by K'Lavon Chaisson),1.73,1.59,17.0,2022,248
+2.0,4:03,2.0,7.0,HOU 45,21.0,0.0,Davis Mills pass incomplete deep left intended for Brevin Jordan,1.59,0.89,17.0,2022,248
+2.0,3:58,3.0,7.0,HOU 45,21.0,0.0,Davis Mills pass complete short right to Jordan Akins for 9 yards (tackle by Tre Herndon),0.89,2.52,17.0,2022,248
+2.0,3:20,1.0,10.0,JAX 46,21.0,0.0,Davis Mills pass incomplete deep middle intended for Chris Moore,2.52,1.98,17.0,2022,248
+2.0,3:15,2.0,10.0,JAX 46,21.0,0.0,Royce Freeman right guard for 2 yards (tackle by Foyesade Oluokun and Josh Allen),1.98,1.55,17.0,2022,248
+2.0,2:37,3.0,8.0,JAX 44,21.0,0.0,Davis Mills pass complete short right to Rex Burkhead for 2 yards (tackle by Foyesade Oluokun),1.55,0.46,17.0,2022,248
+2.0,2:00,4.0,6.0,JAX 42,21.0,0.0,"Cameron Johnston punts 32 yards, fair catch by Jamal Agnew at JAC-10",0.46,0.38,17.0,2022,248
+2.0,1:53,1.0,10.0,JAX 10,21.0,0.0,Travis Etienne up the middle for 2 yards (tackle by Jonathan Owens and Christian Kirksey),-0.38,-0.63,17.0,2022,248
+2.0,1:48,,,,,,Timeout #2 by Houston Texans,,,17.0,2022,248
+2.0,1:48,2.0,8.0,JAX 12,21.0,0.0,Trevor Lawrence pass complete short right to Marvin Jones for 6 yards (tackle by Steven Nelson),-0.63,-0.48,17.0,2022,248
+2.0,1:08,3.0,2.0,JAX 18,21.0,0.0,Trevor Lawrence pass complete short left to Travis Etienne for 30 yards (tackle by Jalen Pitre),-0.48,2.13,17.0,2022,248
+2.0,1:00,1.0,10.0,JAX 48,21.0,0.0,Trevor Lawrence sacked by Ogbonnia Okoronkwo for -8 yards,2.13,0.5,17.0,2022,248
+2.0,0:54,,,,,,Timeout #1 by Jacksonville Jaguars,,,17.0,2022,248
+2.0,0:54,2.0,18.0,JAX 40,21.0,0.0,Trevor Lawrence pass complete short left to Jamycal Hasty for -2 yards (tackle by Desmond King),0.5,-0.43,17.0,2022,248
+2.0,0:46,,,,,,Timeout #3 by Houston Texans,,,17.0,2022,248
+2.0,0:46,3.0,20.0,JAX 38,21.0,0.0,Jamycal Hasty up the middle for 11 yards (tackle by Christian Harris),-0.43,-0.13,17.0,2022,248
+3.0,15:00,,,HOU 35,21.0,0.0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,248
+3.0,15:00,1.0,10.0,JAX 25,21.0,0.0,Jamycal Hasty up the middle for -3 yards (tackle by Ogbonnia Okoronkwo),0.61,-0.34,17.0,2022,248
+3.0,14:25,2.0,13.0,JAX 22,21.0,0.0,"Trevor Lawrence pass incomplete short left intended for Marvin Jones. Penalty on Desmond King: Defensive Holding, 5 yards (accepted) (no play)",-0.34,0.74,17.0,2022,248
+3.0,14:20,1.0,10.0,JAX 27,21.0,0.0,Jamycal Hasty right tackle for 1 yard (tackle by Ogbonnia Okoronkwo),0.74,0.33,17.0,2022,248
+3.0,13:49,2.0,9.0,JAX 28,21.0,0.0,Trevor Lawrence pass complete short middle to Evan Engram for 16 yards (tackle by Jonathan Owens and Christian Harris),0.33,1.86,17.0,2022,248
+3.0,13:04,1.0,10.0,JAX 44,21.0,0.0,Trevor Lawrence pass incomplete short right,1.86,1.32,17.0,2022,248
+3.0,12:59,2.0,10.0,JAX 44,21.0,0.0,Trevor Lawrence pass complete short right to Marvin Jones for 17 yards (tackle by Jalen Pitre),1.32,2.98,17.0,2022,248
+3.0,12:30,1.0,10.0,HOU 39,21.0,0.0,Jamycal Hasty left guard for -3 yards (tackle by Kurt Hinish),2.98,2.04,17.0,2022,248
+3.0,11:59,2.0,13.0,HOU 42,21.0,0.0,Trevor Lawrence pass complete short right to Jamycal Hasty for 6 yards (tackle by Steven Nelson),2.04,2.15,17.0,2022,248
+3.0,11:22,3.0,7.0,HOU 36,21.0,0.0,Trevor Lawrence pass complete short right to Jamycal Hasty for 11 yards (tackle by Jonathan Owens and Christian Kirksey),2.15,3.91,17.0,2022,248
+3.0,10:50,1.0,10.0,HOU 25,21.0,0.0,Jamycal Hasty left tackle for 2 yards (tackle by Christian Kirksey and Jerry Hughes),3.91,3.63,17.0,2022,248
+3.0,10:09,2.0,8.0,HOU 23,21.0,0.0,"Trevor Lawrence pass incomplete deep left. Penalty on Desmond King: Defensive Holding, 5 yards (accepted) (no play)",3.63,4.37,17.0,2022,248
+3.0,10:03,1.0,10.0,HOU 18,21.0,0.0,Trevor Lawrence pass complete short right to Marvin Jones for 15 yards (tackle by Jalen Pitre),4.37,6.51,17.0,2022,248
+3.0,9:31,1.0,3.0,HOU 3,27.0,0.0,"Snoop Conner right guard for 3 yards, touchdown",6.51,7.0,17.0,2022,248
+3.0,9:28,,,HOU 15,28.0,0.0,Riley Patterson kicks extra point good,0.0,0.0,17.0,2022,248
+3.0,9:28,,,JAX 35,28.0,0.0,"Riley Patterson kicks off 65 yards, touchback.",0.0,0.61,17.0,2022,248
+3.0,9:28,1.0,10.0,HOU 25,28.0,0.0,Dare Ogunbowale left guard for 3 yards (tackle by Roy Robertson-Harris and DaVon Hamilton),0.61,0.47,17.0,2022,248
+3.0,8:53,2.0,7.0,HOU 28,28.0,0.0,Davis Mills pass complete short middle to Brevin Jordan for 20 yards (tackle by Andre Cisco),0.47,2.13,17.0,2022,248
+3.0,8:12,1.0,10.0,HOU 48,28.0,0.0,Davis Mills scrambles left end for 11 yards (tackle by Devin Lloyd),2.13,2.85,17.0,2022,248
+3.0,7:27,1.0,10.0,JAX 41,28.0,0.0,"Dare Ogunbowale left tackle for no gain (tackle by Foyesade Oluokun). Penalty on Laremy Tunsil: Offensive Holding, 10 yards (accepted) (no play)",2.85,2.19,17.0,2022,248
+3.0,7:00,1.0,20.0,HOU 49,28.0,0.0,Davis Mills pass incomplete deep left,2.19,0.96,17.0,2022,248
+3.0,6:54,2.0,20.0,HOU 49,28.0,0.0,Davis Mills pass incomplete short middle intended for Phillip Dorsett,0.96,0.3,17.0,2022,248
+3.0,6:50,3.0,20.0,HOU 49,28.0,0.0,Davis Mills scrambles right end for 13 yards (tackle by Foyesade Oluokun),0.3,0.72,17.0,2022,248
+3.0,5:54,4.0,7.0,JAX 38,28.0,3.0,Ka'imi Fairbairn 56 yard field goal good,0.72,3.0,17.0,2022,248
+3.0,5:49,,,HOU 35,28.0,3.0,"Ka'imi Fairbairn kicks off 64 yards, returned by Jamal Agnew for 20 yards (tackle by Blake Cashman and Grayland Arnold)",0.0,0.34,17.0,2022,248
+3.0,5:44,1.0,10.0,JAX 21,28.0,3.0,Jamycal Hasty right end for 6 yards (tackle by Jalen Pitre),0.34,0.61,17.0,2022,248
+3.0,5:11,2.0,4.0,JAX 27,28.0,3.0,Jamycal Hasty left end for 9 yards (tackle by Desmond King),0.61,1.33,17.0,2022,248
+3.0,4:36,1.0,10.0,JAX 36,28.0,3.0,C.J. Beathard pass complete short right to Zay Jones for 11 yards (tackle by Jalen Pitre),1.33,2.06,17.0,2022,248
+3.0,3:51,1.0,10.0,JAX 47,28.0,3.0,Snoop Conner left guard for 8 yards (tackle by Jalen Pitre),2.06,2.6,17.0,2022,248
+3.0,3:10,2.0,2.0,HOU 45,28.0,3.0,C.J. Beathard pass incomplete short right intended for Zay Jones,2.6,1.88,17.0,2022,248
+3.0,3:06,3.0,2.0,HOU 45,28.0,3.0,"C.J. Beathard pass complete short right to Jamycal Hasty for 6 yards (tackle by Christian Harris). Penalty on Ogbonnia Okoronkwo: Defensive Holding, 5 yards (declined)",1.88,2.98,17.0,2022,248
+3.0,2:48,1.0,10.0,HOU 39,28.0,3.0,Evan Engram left end for 13 yards (tackle by Christian Harris),2.98,3.84,17.0,2022,248
+3.0,2:08,1.0,10.0,HOU 26,28.0,3.0,C.J. Beathard sacked by Jerry Hughes for -5 yards,3.84,2.62,17.0,2022,248
+3.0,1:30,2.0,15.0,HOU 31,28.0,3.0,C.J. Beathard pass complete short left to Zay Jones for 10 yards,2.62,3.27,17.0,2022,248
+3.0,0:53,3.0,5.0,HOU 21,28.0,3.0,C.J. Beathard pass short middle intended for Marvin Jones is intercepted by Jalen Pitre at HOU-10 and returned for no gain (tackle by Marvin Jones),3.27,0.38,17.0,2022,248
+3.0,0:45,1.0,10.0,HOU 10,28.0,3.0,Jeff Driskel pass complete short right to Brandin Cooks for 5 yards (tackle by Tyson Campbell and Chad Muma),-0.38,-0.35,17.0,2022,248
+3.0,0:08,2.0,5.0,HOU 15,28.0,3.0,Davis Mills pass complete short middle to Phillip Dorsett for 6 yards (tackle by Foyesade Oluokun),-0.35,0.34,17.0,2022,248
+4.0,15:00,1.0,10.0,HOU 21,28.0,3.0,Davis Mills pass complete short left to Troy Hairston for 7 yards (tackle by Chad Muma and K'Lavon Chaisson),0.34,0.75,17.0,2022,248
+4.0,14:22,2.0,3.0,HOU 28,28.0,3.0,Davis Mills pass complete short right to Chris Moore for 4 yards (tackle by Rayshawn Jenkins),0.75,1.07,17.0,2022,248
+4.0,13:39,1.0,10.0,HOU 32,28.0,3.0,Davis Mills pass incomplete short left intended for Royce Freeman (defended by Foyesade Oluokun),1.07,0.53,17.0,2022,248
+4.0,13:33,2.0,10.0,HOU 32,28.0,3.0,Davis Mills pass incomplete deep left intended for Chris Moore,0.53,-0.16,17.0,2022,248
+4.0,13:28,3.0,10.0,HOU 32,28.0,3.0,Davis Mills pass complete short middle to Amari Rodgers for 10 yards (tackle by Foyesade Oluokun and Rayshawn Jenkins),-0.16,1.73,17.0,2022,248
+4.0,12:56,1.0,10.0,HOU 42,28.0,3.0,Davis Mills pass complete short right to Dare Ogunbowale for 2 yards (tackle by Rayshawn Jenkins),1.73,1.46,17.0,2022,248
+4.0,12:32,2.0,8.0,HOU 44,28.0,3.0,Davis Mills pass incomplete deep left intended for Brandin Cooks,1.46,0.7,17.0,2022,248
+4.0,12:25,3.0,8.0,HOU 43,28.0,3.0,Davis Mills pass complete short middle to Rex Burkhead for 5 yards (tackle by Foyesade Oluokun and Josh Allen),0.7,-0.19,17.0,2022,248
+4.0,11:42,4.0,4.0,HOU 48,28.0,3.0,Davis Mills pass incomplete short left intended for Phillip Dorsett,-0.19,-2.39,17.0,2022,248
+4.0,11:38,1.0,10.0,HOU 48,28.0,3.0,Jamal Agnew left end for -6 yards (tackle by Desmond King),2.39,1.04,17.0,2022,248
+4.0,11:02,2.0,16.0,JAX 46,28.0,3.0,C.J. Beathard pass incomplete deep left intended for Dan Arnold,1.04,0.37,17.0,2022,248
+4.0,10:56,3.0,16.0,JAX 46,28.0,3.0,C.J. Beathard pass complete short left to Jamycal Hasty for 2 yards (tackle by Blake Cashman),0.37,-0.19,17.0,2022,248
+4.0,10:10,4.0,14.0,JAX 48,28.0,3.0,Logan Cooke punts 42 yards downed by Chris Claybrooks,-0.19,0.38,17.0,2022,248
+4.0,10:00,1.0,10.0,HOU 10,28.0,3.0,Jeff Driskel pass complete short right to Amari Rodgers for 2 yards (tackle by Gregory Junior and Devin Lloyd),-0.38,-0.63,17.0,2022,248
+4.0,9:37,2.0,8.0,HOU 12,28.0,3.0,Jeff Driskel pass complete short right to Dare Ogunbowale for 2 yards (tackle by Josh Allen),-0.63,-0.95,17.0,2022,248
+4.0,9:10,3.0,6.0,HOU 14,28.0,3.0,Jeff Driskel sacked by K'Lavon Chaisson for -9 yards,-0.95,-2.49,17.0,2022,248
+4.0,8:26,4.0,15.0,HOU 5,28.0,3.0,"Cameron Johnston punts 53 yards, returned by Jamal Agnew for 18 yards (tackle by Blake Cashman)",-2.49,-2.92,17.0,2022,248
+4.0,8:15,1.0,10.0,HOU 40,28.0,3.0,Jamycal Hasty left tackle for 5 yards (tackle by Ogbonnia Okoronkwo and Christian Kirksey),2.92,3.05,17.0,2022,248
+4.0,7:34,2.0,5.0,HOU 35,28.0,3.0,Jamycal Hasty right guard for no gain (tackle by Jerry Hughes and Christian Kirksey),3.05,2.34,17.0,2022,248
+4.0,6:51,3.0,5.0,HOU 35,28.0,3.0,C.J. Beathard pass complete short middle to Jamycal Hasty for no gain (tackle by Christian Kirksey),2.34,0.98,17.0,2022,248
+4.0,6:10,4.0,5.0,HOU 35,31.0,3.0,Riley Patterson 53 yard field goal good,0.98,3.0,17.0,2022,248
+4.0,6:06,,,JAX 35,31.0,3.0,"Riley Patterson kicks off 65 yards, returned by Tremon Smith for 31 yards (tackle by Chris Claybrooks)",0.0,1.0,17.0,2022,248
+4.0,5:59,1.0,10.0,HOU 31,31.0,3.0,Royce Freeman up the middle for 5 yards (tackle by Shaquille Quarterman),1.0,1.14,17.0,2022,248
+4.0,5:37,2.0,5.0,HOU 36,31.0,3.0,Davis Mills pass complete short middle to Royce Freeman for 2 yards (tackle by Andrew Wingard),1.14,0.7,17.0,2022,248
+4.0,5:09,3.0,3.0,HOU 38,31.0,3.0,Davis Mills pass complete short middle to Brandin Cooks for 17 yards (tackle by Gregory Junior),0.7,2.59,17.0,2022,248
+4.0,4:32,1.0,10.0,JAX 45,31.0,3.0,"Davis Mills pass incomplete short right intended for Royce Freeman. Penalty on Kenyon Green: Offensive Holding, 10 yards (accepted) (no play)",2.59,1.93,17.0,2022,248
+4.0,4:32,1.0,20.0,HOU 45,31.0,3.0,Royce Freeman up the middle for 2 yards (tackle by Shaquille Quarterman),1.93,0.96,17.0,2022,248
+4.0,4:11,2.0,18.0,HOU 47,31.0,3.0,Davis Mills pass incomplete short right intended for Royce Freeman,0.96,0.3,17.0,2022,248
+4.0,4:06,3.0,18.0,HOU 47,31.0,3.0,Davis Mills pass incomplete short right intended for Rex Burkhead,0.3,-0.26,17.0,2022,248
+4.0,4:00,4.0,18.0,HOU 47,31.0,3.0,Davis Mills pass complete short right to Brandin Cooks for 12 yards (tackle by Gregory Junior),-0.26,-1.66,17.0,2022,248
+4.0,3:53,1.0,10.0,JAX 41,31.0,3.0,Snoop Conner right guard for 4 yards (tackle by Jalen Pitre),1.66,1.66,17.0,2022,248
+4.0,3:12,2.0,6.0,JAX 45,31.0,3.0,Snoop Conner up the middle for no gain (tackle by Jonathan Owens),1.66,0.96,17.0,2022,248
+4.0,2:29,3.0,6.0,JAX 45,31.0,3.0,Snoop Conner up the middle for 2 yards (tackle by Rasheem Green and Desmond King),0.96,-0.26,17.0,2022,248
+4.0,2:00,4.0,4.0,JAX 47,31.0,3.0,"Logan Cooke punts 42 yards, fair catch by Tremon Smith at HOU-11",-0.26,0.37,17.0,2022,248
+4.0,1:54,1.0,10.0,HOU 11,31.0,3.0,Davis Mills pass complete short right to Royce Freeman for 9 yards (tackle by Gregory Junior and Devin Lloyd),-0.37,0.36,17.0,2022,248
+4.0,1:28,2.0,1.0,HOU 20,31.0,3.0,"Davis Mills pass intended for Jordan Akins is intercepted by Andrew Wingard at HOU-43 and returned for no gain Replay Assistant challenged the pass interception ruling, and the original play was overturned. Davis Mills pass incomplete deep left intended for Jordan Akins",0.36,-0.37,17.0,2022,248
+4.0,1:25,3.0,1.0,HOU 20,31.0,3.0,Royce Freeman right guard for 5 yards (tackle by Gregory Junior and Shaquille Quarterman),-0.37,0.61,17.0,2022,248
+4.0,1:05,1.0,10.0,HOU 25,31.0,3.0,Davis Mills pass complete short middle to Royce Freeman for 9 yards (tackle by Devin Lloyd and Tre Herndon),0.61,1.28,17.0,2022,248
+4.0,0:44,2.0,1.0,HOU 34,31.0,3.0,Davis Mills pass incomplete deep right,1.28,0.56,17.0,2022,248
+4.0,0:39,3.0,1.0,HOU 34,31.0,3.0,Davis Mills pass complete short right to Chris Moore for 12 yards (tackle by Gregory Junior),0.56,1.99,17.0,2022,248
+4.0,0:14,1.0,10.0,HOU 46,31.0,3.0,Davis Mills pass complete deep middle to Jordan Akins for 29 yards (tackle by Andrew Wingard),1.99,3.91,17.0,2022,248

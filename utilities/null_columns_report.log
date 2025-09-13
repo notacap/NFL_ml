@@ -1,0 +1,246 @@
+================================================================================
+NFL DATABASE NULL VALUES ANALYSIS REPORT
+Generated: 2025-09-12 19:02:00
+================================================================================
+
+GLOBAL TABLES (No Season ID)
+----------------------------------------
+
+Table: nfl_team
+Columns with null values:
+  - alt_abrv (null count: 25)
+
+
+================================================================================
+
+SEASON-SPECIFIC TABLES
+----------------------------------------
+
+==================== SEASON 2023 ====================
+
+Table: multi_tm_plyr
+Columns with null values:
+  - first_tm_id (null count: 72)
+  - first_tm_lst_wk_id (null count: 72)
+  - plyr_draft_pick (null count: 21)
+  - plyr_draft_rd (null count: 21)
+  - plyr_draft_tm (null count: 21)
+  - plyr_draft_yr (null count: 21)
+
+Table: nfl_game_pbp
+Columns with null values:
+  - gm_pbp_qtr_id (null count: 190)
+  - team_id (null count: 3104)
+
+Table: plyr
+Columns with null values:
+  - plyr_college (null count: 2)
+  - plyr_draft_pick (null count: 649)
+  - plyr_draft_rd (null count: 649)
+  - plyr_draft_tm (null count: 649)
+  - plyr_draft_yr (null count: 650)
+  - plyr_weight (null count: 2)
+
+Table: plyr_def
+Columns with null values:
+  - plyr_def_adot (null count: 299)
+  - plyr_def_ay (null count: 167)
+  - plyr_def_bltz (null count: 167)
+  - plyr_def_cmp (null count: 167)
+  - plyr_def_cmp_pct (null count: 299)
+  - plyr_def_comb_tkl (null count: 167)
+  - plyr_def_fmbl_rec (null count: 15)
+  - plyr_def_fmbl_rec_td (null count: 15)
+  - plyr_def_fmbl_rec_yds (null count: 15)
+  - plyr_def_force_fmbl (null count: 15)
+  - plyr_def_hrry (null count: 167)
+  - plyr_def_int (null count: 15)
+  - plyr_def_int_lng (null count: 15)
+  - plyr_def_int_td (null count: 15)
+  - plyr_def_int_yds (null count: 15)
+  - plyr_def_mtkl (null count: 167)
+  - plyr_def_mtkl_pct (null count: 177)
+  - plyr_def_pass_rtg (null count: 299)
+  - plyr_def_pass_td (null count: 167)
+  - plyr_def_pass_yds (null count: 167)
+  - plyr_def_pass_yds_cmp (null count: 338)
+  - plyr_def_pass_yds_tgt (null count: 299)
+  - plyr_def_prss (null count: 167)
+  - plyr_def_qb_hit (null count: 15)
+  - plyr_def_qbkd (null count: 167)
+  - plyr_def_sfty (null count: 15)
+  - plyr_def_sk (null count: 167)
+  - plyr_def_solo_tkl (null count: 15)
+  - plyr_def_tfl (null count: 15)
+  - plyr_def_tgt (null count: 167)
+  - plyr_def_tkl_assist (null count: 15)
+  - plyr_def_yac (null count: 167)
+  - plyr_pass_def (null count: 15)
+
+Table: plyr_gm_def
+Columns with null values:
+  - plyr_gm_def_adot (null count: 5351)
+  - plyr_gm_def_ay (null count: 5797)
+  - plyr_gm_def_bltz (null count: 3109)
+  - plyr_gm_def_cmp (null count: 3109)
+  - plyr_gm_def_cmp_pct (null count: 5350)
+  - plyr_gm_def_hrry (null count: 3109)
+  - plyr_gm_def_mtkl (null count: 3109)
+  - plyr_gm_def_mtkl_pct (null count: 3283)
+  - plyr_gm_def_pass_rtg (null count: 5350)
+  - plyr_gm_def_pass_td (null count: 5797)
+  - plyr_gm_def_pass_yds (null count: 5797)
+  - plyr_gm_def_pass_yds_cmp (null count: 5813)
+  - plyr_gm_def_pass_yds_tgt (null count: 5350)
+  - plyr_gm_def_prss (null count: 3109)
+  - plyr_gm_def_qbkd (null count: 3109)
+  - plyr_gm_def_tgt (null count: 3109)
+  - plyr_gm_def_yac (null count: 5797)
+
+Table: plyr_gm_pass
+Columns with null values:
+  - plyr_gm_pass_cay_cmp (null count: 26)
+  - plyr_gm_pass_first_dwn (null count: 35)
+  - plyr_gm_pass_first_dwn_pct (null count: 35)
+  - plyr_gm_pass_yac_cmp (null count: 26)
+  - plyr_gm_pass_yds_cmp (null count: 26)
+  - plyr_gm_pass_yds_scrmbl (null count: 237)
+
+Table: plyr_gm_rec
+Columns with null values:
+  - plyr_gm_rec_aybc_route (null count: 440)
+  - plyr_gm_rec_brkn_tkl_rec (null count: 3737)
+  - plyr_gm_rec_first_dwn (null count: 1117)
+  - plyr_gm_rec_yac_route (null count: 440)
+
+Table: plyr_gm_rush
+Columns with null values:
+  - plyr_gm_rush_brkn_tkl_att (null count: 1720)
+  - plyr_gm_rush_first_dwn (null count: 379)
+  - plyr_gm_rush_yac_att (null count: 1)
+  - plyr_gm_rush_ybc_att (null count: 1)
+  - plyr_gm_rush_yds_att (null count: 1)
+
+Table: plyr_pass
+Columns with null values:
+  - plyr_pa_att (null count: 11)
+  - plyr_pa_yds (null count: 11)
+  - plyr_pass_adj_yds_att (null count: 11)
+  - plyr_pass_adv_yds (null count: 11)
+  - plyr_pass_bltz (null count: 11)
+  - plyr_pass_cay_att (null count: 11)
+  - plyr_pass_cay_cmp (null count: 22)
+  - plyr_pass_cmp_ay (null count: 11)
+  - plyr_pass_cmp_pct (null count: 11)
+  - plyr_pass_hit (null count: 11)
+  - plyr_pass_hrry (null count: 11)
+  - plyr_pass_iay (null count: 11)
+  - plyr_pass_iay_att (null count: 11)
+  - plyr_pass_int_pct (null count: 11)
+  - plyr_pass_lng (null count: 23)
+  - plyr_pass_pkt_time (null count: 11)
+  - plyr_pass_prss (null count: 11)
+  - plyr_pass_prss_pct (null count: 11)
+  - plyr_pass_rtg (null count: 11)
+  - plyr_pass_scrmbl (null count: 11)
+  - plyr_pass_succ_rt (null count: 27)
+  - plyr_pass_td_pct (null count: 11)
+  - plyr_pass_yac (null count: 11)
+  - plyr_pass_yac_cmp (null count: 22)
+  - plyr_pass_yds_att (null count: 11)
+  - plyr_pass_yds_cmp (null count: 22)
+  - plyr_pass_yds_scrmbl (null count: 48)
+  - plyr_qbr (null count: 9)
+  - plyr_rpo_pass_att (null count: 11)
+  - plyr_rpo_pass_yds (null count: 11)
+  - plyr_rpo_play (null count: 11)
+  - plyr_rpo_rush_att (null count: 11)
+  - plyr_rpo_rush_yds (null count: 11)
+  - plyr_rpo_yds (null count: 11)
+  - qb_loss (null count: 49)
+  - qb_tie (null count: 49)
+  - qb_win (null count: 49)
+
+Table: plyr_rec
+Columns with null values:
+  - plyr_rec_adot (null count: 96)
+  - plyr_rec_aybc (null count: 93)
+  - plyr_rec_aybc_rec (null count: 114)
+  - plyr_rec_brkn_tkl (null count: 93)
+  - plyr_rec_brkn_tkl_rec (null count: 319)
+  - plyr_rec_catch_pct (null count: 96)
+  - plyr_rec_drp (null count: 93)
+  - plyr_rec_drp_pct (null count: 96)
+  - plyr_rec_int (null count: 93)
+  - plyr_rec_lng (null count: 118)
+  - plyr_rec_pass_rtg (null count: 96)
+  - plyr_rec_succ_rt (null count: 96)
+  - plyr_rec_yac (null count: 93)
+  - plyr_rec_yac_rec (null count: 114)
+  - plyr_rec_yds_rec (null count: 114)
+  - plyr_rec_yds_tgt (null count: 96)
+
+Table: plyr_rush
+Columns with null values:
+  - plyr_rush_brkn_tkl (null count: 232)
+  - plyr_rush_brkn_tkl_att (null count: 411)
+  - plyr_rush_lng (null count: 251)
+  - plyr_rush_succ_rt (null count: 232)
+  - plyr_rush_yac (null count: 232)
+  - plyr_rush_yac_att (null count: 232)
+  - plyr_rush_ybc (null count: 232)
+  - plyr_rush_ybc_att (null count: 232)
+  - plyr_rush_yds_att (null count: 232)
+
+Table: plyr_rz_pass
+Columns with null values:
+  - plyr_pass_tz_cmp_pct (null count: 5)
+
+Table: plyr_rz_rec
+Columns with null values:
+  - plyr_rec_rz_tgt_pct (null count: 1)
+  - plyr_rec_tz_catch_pct (null count: 70)
+  - plyr_rec_tz_tgt_pct (null count: 1)
+
+Table: plyr_rz_rush
+Columns with null values:
+  - plyr_rush_fz_usage (null count: 3)
+  - plyr_rush_rz_usage (null count: 3)
+  - plyr_rush_tz_usage (null count: 3)
+
+Table: plyr_scoring
+Columns with null values:
+  - plyr_two_pt_conv_att (null count: 454)
+
+Table: tm_def_rush
+Columns with null values:
+  - tm_def_avg_dr_time (null count: 32)
+  - tm_def_avg_field_pos (null count: 32)
+  - tm_def_avg_pt_dr (null count: 32)
+  - tm_def_dr (null count: 32)
+  - tm_def_opp_avg_play_dr (null count: 32)
+  - tm_def_opp_net_yds_dr (null count: 32)
+
+Table: tm_gm_drive
+Columns with null values:
+  - tm_gm_dr_res (null count: 156)
+  - tm_gm_dr_strt_fld_pos (null count: 26)
+
+Table: tm_pass
+Columns with null values:
+  - tm_fqc (null count: 1)
+  - tm_gwd (null count: 1)
+
+
+================================================================================
+SUMMARY STATISTICS
+----------------------------------------
+
+Total tables with null values: 19
+Total columns with null values: 160
+Seasons analyzed: 1
+Global tables with nulls: 1
+
+================================================================================
+END OF REPORT
+================================================================================

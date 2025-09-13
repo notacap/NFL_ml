@@ -1,0 +1,162 @@
+Quarter,Time,Down,ToGo,Location,NOR,GNB,Detail,EPB,EPA,week,year,game_id
+,,,,,,,"Saints won the coin toss and deferred, Packers to receive the opening kickoff.",,,16.0,2024,240
+1.0,15:00,,,NOR 35,0.0,0.0,"Blake Grupe kicks off 66 yards, returned by Keisean Nixon for 38 yards (tackle by Adam Prentice and J.T. Gray)",0.0,1.4,16.0,2024,240
+1.0,14:55,1.0,10.0,GNB 37,0.0,0.0,Jayden Reed left end for 5 yards (tackle by Will Harris),1.4,1.53,16.0,2024,240
+1.0,14:17,2.0,5.0,GNB 42,0.0,0.0,Josh Jacobs up the middle for -1 yards (tackle by Cameron Jordan),1.53,0.7,16.0,2024,240
+1.0,13:53,3.0,6.0,GNB 41,0.0,0.0,"Penalty on Cameron Jordan: Neutral Zone Infraction, 5 yards (accepted) (no play)",0.7,1.36,16.0,2024,240
+1.0,13:41,3.0,1.0,GNB 46,0.0,0.0,Josh Jacobs right end for 3 yards (tackle by Ugo Amadi),1.36,2.19,16.0,2024,240
+1.0,12:50,1.0,10.0,GNB 49,0.0,0.0,Josh Jacobs left end for 7 yards (tackle by John Ridgeway),2.19,2.59,16.0,2024,240
+1.0,12:10,2.0,3.0,NOR 44,0.0,0.0,Jordan Love pass complete short right to Josh Jacobs for 11 yards (tackle by Pete Werner and Demario Davis),2.59,3.38,16.0,2024,240
+1.0,11:24,1.0,10.0,NOR 33,0.0,0.0,Jordan Love pass complete short right to Tucker Kraft for 12 yards (tackle by Demario Davis),3.38,4.17,16.0,2024,240
+1.0,10:44,1.0,10.0,NOR 21,0.0,0.0,Josh Jacobs right end for 20 yards (tackle by Tyrann Mathieu),4.17,6.97,16.0,2024,240
+1.0,10:03,1.0,1.0,NOR 1,0.0,0.0,Josh Jacobs up the middle for no gain (tackle by Cameron Jordan and Khalen Saunders),6.97,5.91,16.0,2024,240
+1.0,9:23,2.0,1.0,NOR 1,0.0,0.0,Jordan Love pass complete short middle to Dontayvion Wicks for -1 yards (tackle by Khalen Saunders),5.91,4.95,16.0,2024,240
+1.0,8:45,3.0,2.0,NOR 2,0.0,6.0,"Jordan Love pass complete short middle to Dontayvion Wicks for 2 yards, touchdown",4.95,7.0,16.0,2024,240
+1.0,8:41,,,NOR 15,0.0,7.0,Brandon McManus kicks extra point good,0.0,0.0,16.0,2024,240
+1.0,8:41,,,GNB 35,0.0,7.0,"Brandon McManus kicks off 63 yards, returned by Dante Pettis for 32 yards (tackle by Bo Melton and Eric Wilson)",0.0,1.2,16.0,2024,240
+1.0,8:36,1.0,10.0,NOR 34,0.0,7.0,Spencer Rattler scrambles right end for 7 yards (tackle by Eric Wilson),1.2,1.6,16.0,2024,240
+1.0,8:02,2.0,3.0,NOR 41,0.0,7.0,Kendre Miller left guard for 4 yards (tackle by Rashan Gary),1.6,1.93,16.0,2024,240
+1.0,7:29,1.0,10.0,NOR 45,0.0,7.0,Spencer Rattler pass complete short middle to Foster Moreau for 12 yards (tackle by Zayne Anderson),1.93,2.72,16.0,2024,240
+1.0,6:55,1.0,10.0,GNB 43,0.0,7.0,Kendre Miller right end for no gain (tackle by Devonte Wyatt and Colby Wooden),2.72,2.18,16.0,2024,240
+1.0,6:22,2.0,10.0,GNB 43,0.0,7.0,Jamaal Williams up the middle for 3 yards (tackle by Devonte Wyatt),2.18,1.88,16.0,2024,240
+1.0,5:47,3.0,7.0,GNB 40,0.0,7.0,Spencer Rattler pass incomplete short left intended for Kevin Austin,1.88,0.59,16.0,2024,240
+1.0,5:44,4.0,7.0,GNB 40,0.0,7.0,"Penalty on Lucas Patrick: False Start, 5 yards (accepted) (no play)",0.59,0.27,16.0,2024,240
+1.0,5:44,4.0,12.0,GNB 45,0.0,7.0,"Matthew Hayball punts 37 yards, fair catch by Jayden Reed at GB-8. Penalty on Kingsley Enagbare: Offensive Holding, 4 yards (accepted)",0.27,0.38,16.0,2024,240
+1.0,5:38,1.0,10.0,GNB 4,0.0,7.0,Jordan Love pass incomplete short right,-0.38,-0.78,16.0,2024,240
+1.0,5:32,2.0,10.0,GNB 4,0.0,7.0,Josh Jacobs up the middle for 4 yards (tackle by Will Harris and Khalen Saunders),-0.78,-0.95,16.0,2024,240
+1.0,4:56,3.0,6.0,GNB 8,0.0,7.0,"Penalty on Tanoh Kpassagnon: Neutral Zone Infraction, 5 yards (accepted) (no play)",-0.95,-0.37,16.0,2024,240
+1.0,4:38,3.0,1.0,GNB 13,0.0,7.0,Tucker Kraft up the middle for 2 yards (tackle by Ugo Amadi and Payton Turner),-0.37,-0.22,16.0,2024,240
+1.0,3:52,1.0,10.0,GNB 15,0.0,7.0,Jordan Love pass complete short left to Josh Jacobs for 13 yards (tackle by Tyrann Mathieu),-0.22,0.81,16.0,2024,240
+1.0,3:15,1.0,10.0,GNB 28,0.0,7.0,Josh Jacobs left end for 3 yards (tackle by Pete Werner),0.81,0.67,16.0,2024,240
+1.0,2:33,2.0,7.0,GNB 31,0.0,7.0,Jordan Love pass incomplete short middle intended for Dontayvion Wicks (defended by Alontae Taylor),0.67,-0.03,16.0,2024,240
+1.0,2:26,3.0,7.0,GNB 31,0.0,7.0,Jordan Love pass complete short middle to Romeo Doubs for 15 yards (tackle by Kool-Aid McKinstry),-0.03,1.99,16.0,2024,240
+1.0,1:43,1.0,10.0,GNB 46,0.0,7.0,Jordan Love pass incomplete short left,1.99,1.45,16.0,2024,240
+1.0,1:36,2.0,10.0,GNB 46,0.0,7.0,Jordan Love pass complete short right to Josh Jacobs for 8 yards (tackle by Alontae Taylor and Khalen Saunders),1.45,1.82,16.0,2024,240
+1.0,0:44,,,,,,Timeout #1 by Green Bay Packers,,,16.0,2024,240
+1.0,0:44,3.0,2.0,NOR 46,0.0,7.0,Emanuel Wilson up the middle for 1 yard (tackle by Alontae Taylor and Ugo Amadi),1.82,0.27,16.0,2024,240
+2.0,15:00,4.0,1.0,NOR 45,0.0,7.0,Jordan Love up the middle for 2 yards (tackle by Bryan Bresee),0.27,2.72,16.0,2024,240
+2.0,14:21,1.0,10.0,NOR 43,0.0,7.0,Josh Jacobs right end for 3 yards (tackle by Cameron Jordan and Carl Granderson),2.72,2.58,16.0,2024,240
+2.0,13:38,2.0,7.0,NOR 40,0.0,7.0,Jordan Love pass incomplete short left,2.58,1.88,16.0,2024,240
+2.0,13:32,3.0,7.0,NOR 40,0.0,7.0,Jordan Love pass complete short right to Romeo Doubs for 5 yards (tackle by Will Harris),1.88,0.99,16.0,2024,240
+2.0,12:54,4.0,2.0,NOR 35,0.0,7.0,Jordan Love pass complete short left to Tucker Kraft for 21 yards (tackle by Kool-Aid McKinstry),0.99,4.65,16.0,2024,240
+2.0,12:08,1.0,10.0,NOR 14,0.0,7.0,Josh Jacobs left end for 12 yards (tackle by Pete Werner and Will Harris),4.65,6.74,16.0,2024,240
+2.0,11:47,1.0,2.0,NOR 2,0.0,13.0,"Josh Jacobs left tackle for 2 yards, touchdown",6.74,7.0,16.0,2024,240
+2.0,11:43,,,NOR 15,0.0,14.0,Brandon McManus kicks extra point good,0.0,0.0,16.0,2024,240
+2.0,11:43,,,GNB 35,0.0,14.0,"Brandon McManus kicks off 65 yards, touchback.",0.0,0.94,16.0,2024,240
+2.0,11:43,1.0,10.0,NOR 30,0.0,14.0,Kendre Miller right end for -3 yards (tackle by Edgerrin Cooper),0.94,-0.01,16.0,2024,240
+2.0,11:04,2.0,13.0,NOR 27,0.0,14.0,"Penalty on Taliese Fuaga: False Start, 5 yards (accepted) (no play)",-0.01,-0.69,16.0,2024,240
+2.0,10:48,2.0,18.0,NOR 22,0.0,14.0,Spencer Rattler scrambles right end for 2 yards (tackle by Edgerrin Cooper),-0.69,-1.09,16.0,2024,240
+2.0,10:09,3.0,16.0,NOR 24,0.0,14.0,Spencer Rattler pass complete short right to Jordan Mims for 6 yards (tackle by Eric Stokes),-1.09,-1.37,16.0,2024,240
+2.0,9:32,4.0,10.0,NOR 30,0.0,14.0,"Matthew Hayball punts 37 yards, fair catch by Jayden Reed at GB-33",-1.37,-1.14,16.0,2024,240
+2.0,9:25,1.0,10.0,GNB 33,0.0,14.0,Christian Watson right end for 9 yards (tackle by Demario Davis),1.14,1.81,16.0,2024,240
+2.0,8:45,2.0,1.0,GNB 42,0.0,14.0,Jordan Love pass complete short middle to Tucker Kraft for 30 yards (tackle by Demario Davis),1.81,3.71,16.0,2024,240
+2.0,8:01,1.0,10.0,NOR 28,0.0,14.0,Emanuel Wilson right tackle for 8 yards (tackle by Kool-Aid McKinstry and Willie Gay),3.71,4.25,16.0,2024,240
+2.0,7:20,2.0,2.0,NOR 20,0.0,14.0,Christian Watson left end for 14 yards (tackle by Alontae Taylor),4.25,5.83,16.0,2024,240
+2.0,6:55,1.0,6.0,NOR 6,0.0,14.0,Jordan Love pass complete short middle to Jayden Reed for 5 yards (tackle by Will Harris),5.83,5.91,16.0,2024,240
+2.0,6:32,2.0,1.0,NOR 1,0.0,20.0,"Chris Brooks up the middle for 1 yard, touchdown",5.91,7.0,16.0,2024,240
+2.0,6:28,,,NOR 15,0.0,21.0,Brandon McManus kicks extra point good,0.0,0.0,16.0,2024,240
+2.0,6:28,,,GNB 35,0.0,21.0,"Brandon McManus kicks off 64 yards, returned by Dante Pettis for 38 yards (tackle by Brandon McManus)",0.0,1.53,16.0,2024,240
+2.0,6:22,1.0,10.0,NOR 39,0.0,21.0,Spencer Rattler pass complete deep middle to Foster Moreau for 21 yards (tackle by Xavier McKinney),1.53,2.92,16.0,2024,240
+2.0,5:44,1.0,10.0,GNB 40,0.0,21.0,Jamaal Williams left end for 4 yards (tackle by Lukas Van Ness),2.92,2.91,16.0,2024,240
+2.0,5:04,2.0,6.0,GNB 36,0.0,21.0,Jamaal Williams right end for 1 yard (tackle by Edgerrin Cooper),2.91,2.34,16.0,2024,240
+2.0,4:29,3.0,5.0,GNB 35,0.0,21.0,"Penalty on NOR: Offensive Too Many Men on Field, 5 yards (accepted) (no play)",2.34,1.68,16.0,2024,240
+2.0,4:13,3.0,10.0,GNB 40,0.0,21.0,Kendre Miller right end for 10 yards (tackle by Eric Wilson and Zayne Anderson),1.68,3.58,16.0,2024,240
+2.0,3:33,1.0,10.0,GNB 30,0.0,21.0,Kendre Miller left end for 1 yard (tackle by Rashan Gary and Eric Wilson),3.58,3.17,16.0,2024,240
+2.0,2:55,2.0,9.0,GNB 29,0.0,21.0,"Spencer Rattler sacked by Keisean Nixon for -5 yards. Spencer Rattler fumbles (forced by Keisean Nixon), recovered by Rashan Gary at GB-34 (tackle by Keisean Nixon)",3.17,-1.2,16.0,2024,240
+2.0,2:45,1.0,10.0,GNB 34,0.0,21.0,Jordan Love pass complete short left to Josh Jacobs for 6 yards (tackle by Chase Young),1.2,1.47,16.0,2024,240
+2.0,2:09,2.0,4.0,GNB 40,0.0,21.0,Jordan Love pass incomplete deep left intended for Romeo Doubs,1.47,0.76,16.0,2024,240
+2.0,2:03,3.0,4.0,GNB 40,0.0,21.0,Jordan Love pass incomplete deep left intended for Christian Watson,0.76,-0.72,16.0,2024,240
+2.0,1:57,4.0,4.0,GNB 40,0.0,21.0,"Daniel Whelan punts 60 yards, touchback.",-0.72,-0.28,16.0,2024,240
+2.0,1:49,1.0,10.0,NOR 20,0.0,21.0,Jordan Mims up the middle for 9 yards (tackle by Keisean Nixon),0.28,0.95,16.0,2024,240
+2.0,1:30,2.0,1.0,NOR 29,0.0,21.0,Jordan Mims up the middle for no gain (tackle by Brenton Cox),0.95,0.23,16.0,2024,240
+2.0,1:07,3.0,1.0,NOR 29,0.0,21.0,"Spencer Rattler pass complete short middle to Jordan Mims for 3 yards (tackle by Arron Mosby). Penalty on Brenton Cox: Roughing the Passer, 15 yards (accepted) Spencer Rattler pass incomplete short middle intended for Jordan Mims. Penalty on Brenton Cox: Roughing the Passer, 16 yards (accepted) (no play)",0.23,1.93,16.0,2024,240
+2.0,1:06,1.0,10.0,NOR 45,0.0,21.0,Spencer Rattler pass incomplete deep middle intended for Jordan Mims,1.93,1.38,16.0,2024,240
+2.0,1:02,2.0,10.0,NOR 45,0.0,21.0,Spencer Rattler scrambles right end for 4 yards (tackle by Eric Wilson),1.38,1.16,16.0,2024,240
+2.0,0:46,,,,,,Timeout #1 by New Orleans Saints,,,16.0,2024,240
+2.0,0:46,3.0,7.0,NOR 49,0.0,21.0,"Spencer Rattler pass complete deep left to Kevin Austin for 17 yards. Kevin Austin fumbles, ball out of bounds at GB-34 (forced by Carrington Valentine). Kevin Austin fumbles out of bounds",1.16,3.31,16.0,2024,240
+2.0,0:15,,,,,,Timeout #2 by New Orleans Saints,,,16.0,2024,240
+2.0,0:15,,,,,,Timeout #2 by Green Bay Packers,,,16.0,2024,240
+2.0,0:15,1.0,10.0,GNB 34,0.0,21.0,Spencer Rattler sacked by Devonte Wyatt for -12 yards,3.31,1.15,16.0,2024,240
+2.0,0:09,,,,,,Timeout #3 by New Orleans Saints,,,16.0,2024,240
+2.0,0:09,,,,,,Timeout #3 by Green Bay Packers,,,16.0,2024,240
+2.0,0:09,2.0,22.0,GNB 46,0.0,21.0,Spencer Rattler pass incomplete short left,1.15,0.5,16.0,2024,240
+2.0,0:05,3.0,22.0,GNB 46,0.0,21.0,Spencer Rattler pass incomplete deep right (defended by Xavier McKinney),0.5,0.2,16.0,2024,240
+3.0,15:00,,,GNB 35,0.0,21.0,"Brandon McManus kicks off 65 yards, returned by Jamaal Williams for 22 yards (tackle by Edgerrin Cooper)",0.0,0.41,16.0,2024,240
+3.0,14:56,1.0,10.0,NOR 22,0.0,21.0,Kendre Miller up the middle for 3 yards (tackle by Kenny Clark),0.41,0.27,16.0,2024,240
+3.0,14:24,2.0,7.0,NOR 25,0.0,21.0,Spencer Rattler pass complete short right to Kendre Miller for 8 yards (tackle by Edgerrin Cooper),0.27,1.14,16.0,2024,240
+3.0,13:51,1.0,10.0,NOR 33,0.0,21.0,Kendre Miller left tackle for no gain (tackle by Kenny Clark and Eric Wilson),1.14,0.59,16.0,2024,240
+3.0,13:14,2.0,10.0,NOR 33,0.0,21.0,Spencer Rattler pass complete short right to Kendre Miller for 8 yards (tackle by Edgerrin Cooper),0.59,0.96,16.0,2024,240
+3.0,12:29,3.0,2.0,NOR 41,0.0,21.0,Spencer Rattler pass incomplete short left intended for Dante Pettis,0.96,-0.65,16.0,2024,240
+3.0,12:20,4.0,2.0,NOR 41,0.0,21.0,"Penalty on Matthew Hayball: Delay of Game, 5 yards (accepted) (no play)",-0.65,-0.98,16.0,2024,240
+3.0,12:20,4.0,7.0,NOR 36,0.0,21.0,"Matthew Hayball punts 48 yards, fair catch by Jayden Reed at GB-16",-0.98,0.14,16.0,2024,240
+3.0,12:14,1.0,10.0,GNB 16,0.0,21.0,Josh Jacobs right end for 5 yards (tackle by Pete Werner and Alontae Taylor),-0.14,0.15,16.0,2024,240
+3.0,11:35,2.0,5.0,GNB 21,0.0,21.0,Bo Melton left end for 14 yards (tackle by Will Harris),0.15,1.27,16.0,2024,240
+3.0,10:59,1.0,10.0,GNB 35,0.0,21.0,Josh Jacobs up the middle for 9 yards (tackle by Carl Granderson and Pete Werner),1.27,1.94,16.0,2024,240
+3.0,10:19,2.0,1.0,GNB 44,0.0,21.0,Josh Jacobs left tackle for 2 yards (tackle by Demario Davis),1.94,1.99,16.0,2024,240
+3.0,9:35,1.0,10.0,GNB 46,0.0,21.0,Chris Brooks right guard for 8 yards (tackle by Demario Davis),1.99,2.53,16.0,2024,240
+3.0,8:52,2.0,2.0,NOR 46,0.0,21.0,Chris Brooks right end for 5 yards (tackle by Chase Young),2.53,2.85,16.0,2024,240
+3.0,8:07,1.0,10.0,NOR 41,0.0,21.0,Jordan Love pass incomplete short left intended for Bo Melton,2.85,2.31,16.0,2024,240
+3.0,8:00,2.0,10.0,NOR 41,0.0,21.0,Jordan Love pass complete short right to Emanuel Wilson for 4 yards (tackle by Pete Werner and Alontae Taylor),2.31,2.15,16.0,2024,240
+3.0,7:15,3.0,6.0,NOR 37,0.0,21.0,Jordan Love pass incomplete deep left intended for Jayden Reed,2.15,0.79,16.0,2024,240
+3.0,7:08,4.0,6.0,NOR 37,0.0,24.0,Brandon McManus 55 yard field goal good,0.79,3.0,16.0,2024,240
+3.0,7:03,,,GNB 35,0.0,24.0,"Brandon McManus kicks off 60 yards, returned by Jamaal Williams for 25 yards (tackle by Arron Mosby)",0.0,0.94,16.0,2024,240
+3.0,6:59,1.0,10.0,NOR 30,0.0,24.0,Spencer Rattler scrambles up the middle for 6 yards (tackle by Edgerrin Cooper and Eric Wilson),0.94,1.2,16.0,2024,240
+3.0,6:27,2.0,4.0,NOR 36,0.0,24.0,Kendre Miller right guard for no gain (tackle by Edgerrin Cooper and Kingsley Enagbare),1.2,0.5,16.0,2024,240
+3.0,5:44,3.0,4.0,NOR 36,0.0,24.0,"Spencer Rattler scrambles up the middle for 9 yards (tackle by Zayne Anderson). Penalty on Kingsley Enagbare: Illegal Use of Hands / Defense, 5 yards (accepted)",0.5,2.26,16.0,2024,240
+3.0,5:21,1.0,10.0,GNB 50,0.0,24.0,Jordan Mims right end for -2 yards (tackle by Devonte Wyatt),2.26,1.44,16.0,2024,240
+3.0,4:44,2.0,12.0,NOR 48,0.0,24.0,Spencer Rattler pass complete deep right to Juwan Johnson for 17 yards (tackle by Xavier McKinney),1.44,3.25,16.0,2024,240
+3.0,4:17,1.0,10.0,GNB 35,0.0,24.0,Spencer Rattler sacked by Brenton Cox for -7 yards,3.25,1.76,16.0,2024,240
+3.0,3:37,2.0,17.0,GNB 42,0.0,24.0,Spencer Rattler pass complete short right to Jordan Mims for no gain (tackle by Edgerrin Cooper),1.76,1.09,16.0,2024,240
+3.0,2:58,3.0,17.0,GNB 42,0.0,24.0,Spencer Rattler pass complete deep middle to Dante Pettis for 20 yards (tackle by Carrington Valentine),1.09,4.11,16.0,2024,240
+3.0,2:24,1.0,10.0,GNB 22,0.0,24.0,Spencer Rattler pass deep left intended for Foster Moreau is intercepted by Zayne Anderson at GB-2 and returned for 18 yards (tackle by Adam Prentice and Foster Moreau),4.11,-0.28,16.0,2024,240
+3.0,2:11,1.0,10.0,GNB 20,0.0,24.0,Jordan Love pass incomplete short middle intended for Luke Musgrave (defended by Khalen Saunders),0.28,-0.27,16.0,2024,240
+3.0,2:04,2.0,10.0,GNB 20,0.0,24.0,Emanuel Wilson right end for 17 yards (tackle by Alontae Taylor),-0.27,1.4,16.0,2024,240
+3.0,1:26,1.0,10.0,GNB 37,0.0,24.0,Emanuel Wilson right tackle for 7 yards (tackle by Tyrann Mathieu),1.4,1.8,16.0,2024,240
+3.0,0:41,2.0,3.0,GNB 44,0.0,24.0,Emanuel Wilson left end for 4 yards (tackle by Willie Gay),1.8,2.13,16.0,2024,240
+4.0,15:00,1.0,10.0,GNB 48,0.0,24.0,Emanuel Wilson right end for 3 yards (tackle by Demario Davis and Bryan Bresee),2.13,1.99,16.0,2024,240
+4.0,14:19,2.0,7.0,NOR 49,0.0,24.0,Jordan Love pass incomplete short right intended for Dontayvion Wicks (defended by John Ridgeway),1.99,1.29,16.0,2024,240
+4.0,14:09,3.0,7.0,NOR 49,0.0,24.0,Jordan Love pass complete short middle to Chris Brooks for 2 yards (tackle by Ugo Amadi),1.29,0.13,16.0,2024,240
+4.0,13:22,4.0,5.0,NOR 47,0.0,24.0,"Penalty on Jordan Love: Delay of Game, 5 yards (accepted) (no play)",0.13,-0.19,16.0,2024,240
+4.0,13:22,4.0,10.0,GNB 48,0.0,24.0,"Daniel Whelan punts, fair catch by Dante Pettis at NO-8. Penalty on Lukas Van Ness: Tripping / Offense, 15 yards (accepted) (no play)",-0.19,-1.18,16.0,2024,240
+4.0,13:15,4.0,25.0,GNB 33,0.0,24.0,Daniel Whelan punts 33 yards out of bounds,-1.18,-1.2,16.0,2024,240
+4.0,13:07,1.0,10.0,NOR 34,0.0,24.0,Spencer Rattler pass complete short left to Dante Pettis for 11 yards (tackle by Carrington Valentine),1.2,1.93,16.0,2024,240
+4.0,12:49,1.0,10.0,NOR 45,0.0,24.0,Spencer Rattler pass incomplete short right intended for Dante Pettis (defended by Colby Wooden),1.93,1.38,16.0,2024,240
+4.0,12:41,2.0,10.0,NOR 45,0.0,24.0,Spencer Rattler pass complete short right to Jordan Mims for 2 yards (tackle by Keisean Nixon),1.38,0.96,16.0,2024,240
+4.0,12:02,3.0,8.0,NOR 47,0.0,24.0,Spencer Rattler pass incomplete short left intended for Dante Pettis,0.96,-0.26,16.0,2024,240
+4.0,11:57,4.0,8.0,NOR 47,0.0,24.0,"Matthew Hayball punts 37 yards, fair catch by Jayden Reed at GB-16",-0.26,0.14,16.0,2024,240
+4.0,11:50,1.0,10.0,GNB 16,0.0,24.0,Emanuel Wilson left end for -2 yards (tackle by Demario Davis),-0.14,-0.89,16.0,2024,240
+4.0,11:08,2.0,12.0,GNB 14,0.0,24.0,Jordan Love pass incomplete short left intended for Tucker Kraft,-0.89,-1.61,16.0,2024,240
+4.0,11:04,3.0,12.0,GNB 14,0.0,24.0,Jordan Love pass complete deep left to Jayden Reed for 37 yards (tackle by Tyrann Mathieu),-1.61,2.32,16.0,2024,240
+4.0,10:17,1.0,10.0,NOR 49,0.0,24.0,Chris Brooks up the middle for 3 yards (tackle by Cameron Jordan),2.32,2.19,16.0,2024,240
+4.0,9:31,2.0,7.0,NOR 46,0.0,24.0,Jordan Love pass complete short right to Dontayvion Wicks for 12 yards (tackle by Will Harris),2.19,3.31,16.0,2024,240
+4.0,8:51,1.0,10.0,NOR 34,0.0,24.0,Chris Brooks right end for 3 yards (tackle by Pete Werner and Demario Davis),3.31,3.18,16.0,2024,240
+4.0,8:08,2.0,7.0,NOR 31,0.0,24.0,Chris Brooks right end for 3 yards (tackle by Pete Werner),3.18,2.87,16.0,2024,240
+4.0,7:23,3.0,4.0,NOR 28,0.0,24.0,Jordan Love pass incomplete short left intended for Dontayvion Wicks,2.87,1.65,16.0,2024,240
+4.0,7:17,4.0,4.0,NOR 28,0.0,27.0,Brandon McManus 46 yard field goal good,1.65,3.0,16.0,2024,240
+4.0,7:13,,,GNB 35,0.0,27.0,"Brandon McManus kicks off 66 yards, returned by Jamaal Williams for 31 yards (tackle by Edgerrin Cooper)",0.0,0.94,16.0,2024,240
+4.0,7:07,1.0,10.0,NOR 30,0.0,27.0,Spencer Rattler pass incomplete short middle intended for Dante Pettis,0.94,0.39,16.0,2024,240
+4.0,7:03,2.0,10.0,NOR 30,0.0,27.0,"Jordan Mims left end for no gain (tackle by Eric Wilson). Penalty on Lucas Patrick: Offensive Holding, 10 yards (accepted) (no play)",0.39,-0.96,16.0,2024,240
+4.0,6:37,2.0,20.0,NOR 20,0.0,27.0,Spencer Rattler pass complete short middle to Cedrick Wilson for 13 yards (tackle by Eric Wilson),-0.96,0.1,16.0,2024,240
+4.0,5:58,3.0,7.0,NOR 33,0.0,27.0,Spencer Rattler pass incomplete short right intended for Mason Tipton,0.1,-1.18,16.0,2024,240
+4.0,5:44,4.0,7.0,NOR 33,0.0,27.0,"Spencer Rattler pass incomplete deep left intended for Dante Pettis (defended by Zayne Anderson). Penalty on Colby Wooden: Unnecessary Roughness / Defense, 15 yards (accepted)",-1.18,-2.39,16.0,2024,240
+4.0,5:44,1.0,10.0,NOR 48,0.0,27.0,Emanuel Wilson right guard for 8 yards (tackle by Will Harris),2.39,2.93,16.0,2024,240
+4.0,5:01,2.0,2.0,NOR 40,0.0,27.0,Malik Willis right end for no gain (tackle by Pete Werner and Demario Davis),2.93,2.21,16.0,2024,240
+4.0,4:19,3.0,2.0,NOR 40,0.0,27.0,Malik Willis pass incomplete short middle intended for Dontayvion Wicks (defended by Khalen Saunders),2.21,0.59,16.0,2024,240
+4.0,4:13,,,,,,Timeout #1 by Green Bay Packers,,,16.0,2024,240
+4.0,4:13,4.0,2.0,NOR 40,0.0,27.0,Malik Willis pass complete deep right to Jayden Reed for 34 yards (tackle by Ugo Amadi),0.59,5.83,16.0,2024,240
+4.0,4:06,1.0,6.0,NOR 6,0.0,27.0,Emanuel Wilson left guard for 4 yards (tackle by Tyrann Mathieu),5.83,5.72,16.0,2024,240
+4.0,3:29,2.0,2.0,NOR 2,0.0,27.0,Emanuel Wilson up the middle for 1 yard (tackle by Cameron Jordan and Carl Granderson),5.72,5.17,16.0,2024,240
+4.0,2:50,3.0,1.0,NOR 1,0.0,33.0,"Emanuel Wilson up the middle for 1 yard, touchdown",5.17,7.0,16.0,2024,240
+4.0,2:41,,,NOR 15,0.0,34.0,Brandon McManus kicks extra point good,0.0,0.0,16.0,2024,240
+4.0,2:41,,,GNB 35,0.0,34.0,"Brandon McManus kicks off 64 yards, returned by Kendre Miller for 21 yards (tackle by Chris Brooks and Kitan Oladapo)",0.0,0.41,16.0,2024,240
+4.0,2:38,1.0,10.0,NOR 22,0.0,34.0,Jordan Mims up the middle for 9 yards (tackle by Arron Mosby and Eric Wilson),0.41,1.08,16.0,2024,240
+4.0,2:20,2.0,1.0,NOR 31,0.0,34.0,Spencer Rattler pass complete short right to Jordan Mims for 4 yards (tackle by Eric Stokes),1.08,1.27,16.0,2024,240
+4.0,2:00,1.0,10.0,NOR 35,0.0,34.0,Spencer Rattler pass incomplete short right intended for Jordan Mims,1.27,0.72,16.0,2024,240
+4.0,1:57,2.0,10.0,NOR 35,0.0,34.0,Spencer Rattler pass complete short right to Juwan Johnson for 10 yards (tackle by Eric Stokes and Ty'Ron Hopper),0.72,1.93,16.0,2024,240
+4.0,1:35,1.0,10.0,NOR 45,0.0,34.0,Spencer Rattler pass incomplete short right intended for Kevin Austin,1.93,1.38,16.0,2024,240
+4.0,1:34,2.0,10.0,NOR 45,0.0,34.0,Spencer Rattler pass incomplete short left intended for Jordan Mims,1.38,0.7,16.0,2024,240
+4.0,1:29,3.0,10.0,NOR 45,0.0,34.0,Spencer Rattler pass complete short right to Jordan Mims for 4 yards (tackle by Eric Stokes),0.7,-0.13,16.0,2024,240
+4.0,1:18,,,,,,Timeout #1 by New Orleans Saints,,,16.0,2024,240
+4.0,1:18,4.0,6.0,NOR 49,0.0,34.0,Spencer Rattler pass incomplete deep middle intended for Kevin Austin,-0.13,-2.32,16.0,2024,240
+4.0,1:11,1.0,10.0,NOR 49,0.0,34.0,Malik Willis kneels for -1 yards,2.32,1.65,16.0,2024,240
+4.0,0:30,2.0,11.0,NOR 50,0.0,34.0,Malik Willis kneels for -1 yards,1.65,0.83,16.0,2024,240
