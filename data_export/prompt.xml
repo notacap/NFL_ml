@@ -19,18 +19,18 @@
         - Here is an example partitioned strcuture:
 
             data/raw/
-            ├── player_game_stats/           # Individual game performances
+            ├── plyr_gm/           # Individual game performances
             │   ├── season=2023/
             │   │   ├── week=1/
             │   │   └── week=2/
             │   └── season=2024/
-            ├── player_season_cumulative/    # Season totals THROUGH each week
+            ├── plyr_szn/    # Season totals THROUGH each week
             │   ├── season=2023/
             │   │   ├── week=1/         # Season totals after week 1
             │   │   ├── week=2/         # Season totals after week 2
             │   │   └── week=17/        # Season totals after week 17
             │   └── season=2024/
-            └── team_season_cumulative/      # Same structure for teams
+            └── tm_szn/      # Same structure for teams
                 ├── season=2023/
                 │   └── week=1/
                 └── season=2024/
@@ -43,9 +43,9 @@
 
         - Here is the root data export output directory C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw
 
-        - The script should create the following directories in the 'raw' directory if they do not exist: plyr_gm, tm_gm, plyr_szn, tm_szn
+        - The script should create the following directories in the 'raw' directory if they do not exist: plyr_gm, tm_gm, plyr_szn, tm_szn, gm_info, players
 
-        - The partitioned parquet subdirectories will be placed in those directories
+        - The partitioned parquet subdirectories will be placed in either the raw directory, or the directories the script creates (more info on that later in the prompt)
 
     </output_directory>
 
@@ -61,7 +61,7 @@
 
         <database_structure>
 
-            - The database contains statistical and referential information for multiple NFL seasons at both the season total and game levels
+            - The database contains statistical and referential information for multiple NFL seasons at both the season total and game/nfl week levels
 
             - Season level stats are stored for each week in the NFL season instead of overwritten each week
 
@@ -71,40 +71,114 @@
 
         <id_values>
 
-            <seasons>
-
-                - Every table containing statistical data, and most tables containing referential data have a season_id column
-
-                - season_id is a foreign key that references the nfl_season table
-
-                - The nfl_season table has a column named 'year' that contains the Year the NFL season took place in
-
-            </seasons>
-
-            <weeks>
-
-                - Every table containing statistical data (both season and game level) has a week_id column
-
-                - week_id is a foreign key that references the nfl_week table
-
-                - the nfl_week table has a column named week_num that contains the actual week number in the nfl season (weeks 1-18)
-
-            </weeks>
+            <join_requirements>
+                - To get the actual season year: JOIN with nfl_season table on season_id to get the 'year' column
+                - To get the actual week number: JOIN with nfl_week table on week_id to get the 'week_num' column
+                - These joins are required for ALL tables with season_id/week_id to create the partition values
+                - Example: season=2023/week=1 comes from nfl_season.year=2023 and nfl_week.week_num='1'
+            </join_requirements>
 
         <id_values>
 
-        <output_files>
+        <table_mappings>
 
-            <referential>
+            <game_level_tables>
+                <!-- Player game-level stats -->
+                <mapping table="plyr_gm_pass" directory="plyr_gm" partition_by="season,week"/>
+                <mapping table="plyr_gm_rush" directory="plyr_gm" partition_by="season,week"/>
+                <mapping table="plyr_gm_rec" directory="plyr_gm" partition_by="season,week"/>
+                <mapping table="plyr_gm_def" directory="plyr_gm" partition_by="season,week"/>
+                <mapping table="plyr_gm_fmbl" directory="plyr_gm" partition_by="season,week"/>
+                <mapping table="plyr_gm_snap_ct" directory="plyr_gm" partition_by="season,week"/>
+                <mapping table="plyr_gm_starters" directory="plyr_gm" partition_by="season,week"/>
+                
+                <!-- Team game-level stats -->
+                <mapping table="tm_gm_stats" directory="tm_gm" partition_by="season,week"/>
+                <mapping table="tm_gm_drive" directory="tm_gm" partition_by="season,week"/>
+                <mapping table="tm_gm_exp_pts" directory="tm_gm" partition_by="season,week"/>
+                
+                <!-- Game info -->
+                <mapping table="nfl_game" directory="gm_info" partition_by="season,week"/>
+                <mapping table="nfl_game_info" directory="gm_info" partition_by="season,week"/>
+                <mapping table="nfl_gm_weather" directory="gm_info" partition_by="season,week"/>
+                <mapping table="nfl_game_pbp" directory="gm_info" partition_by="season,week"/>
+                <mapping table="injury_report" directory="gm_info" partition_by="season,week"/>
+            </game_level_tables>
+            
+            <season_cumulative_tables>
+                <!-- Player season cumulative stats -->
+                <mapping table="plyr_pass" directory="plyr_szn" partition_by="season,week"/>
+                <mapping table="plyr_rush" directory="plyr_szn" partition_by="season,week"/>
+                <mapping table="plyr_rec" directory="plyr_szn" partition_by="season,week"/>
+                <mapping table="plyr_def" directory="plyr_szn" partition_by="season,week"/>
+                <mapping table="plyr_rz_pass" directory="plyr_szn" partition_by="season,week"/>
+                <mapping table="plyr_rz_rush" directory="plyr_szn" partition_by="season,week"/>
+                <mapping table="plyr_rz_rec" directory="plyr_szn" partition_by="season,week"/>
+                <mapping table="plyr_scoring" directory="plyr_szn" partition_by="season,week"/>
+                
+                <!-- Team season cumulative stats -->
+                <mapping table="tm_pass" directory="tm_szn" partition_by="season,week"/>
+                <mapping table="tm_rush" directory="tm_szn" partition_by="season,week"/>
+                <mapping table="tm_rec" directory="tm_szn" partition_by="season,week"/>
+                <mapping table="tm_def" directory="tm_szn" partition_by="season,week"/>
+                <mapping table="tm_def_pass" directory="tm_szn" partition_by="season,week"/>
+                <mapping table="tm_def_rush" directory="tm_szn" partition_by="season,week"/>
+                <mapping table="tm_conv" directory="tm_szn" partition_by="season,week"/>
+                <mapping table="tm_def_conv" directory="tm_szn" partition_by="season,week"/>
+                <mapping table="tm_def_dr_against_avg" directory="tm_szn" partition_by="season,week"/>
+                <mapping table="tm_def_vs_qb" directory="tm_szn" partition_by="season,week"/>
+                <mapping table="tm_def_vs_rb" directory="tm_szn" partition_by="season,week"/>
+                <mapping table="tm_def_vs_te" directory="tm_szn" partition_by="season,week"/>
+                <mapping table="tm_def_vs_wr" directory="tm_szn" partition_by="season,week"/>
+                <mapping table="nfl_standings" directory="tm_szn" partition_by="season,week"/>
+            </season_cumulative_tables>
+            
+            <reference_tables>
+                <mapping table="plyr" directory="players" partition_by="season"/>
+                <mapping table="multi_tm_plyr" directory="players" partition_by="season"/>
+            </reference_tables>
+            
+            <static_tables>
+                <mapping table="nfl_team" file="nfl_team.parquet" partition_by="none"/>
+                <mapping table="nfl_season" file="nfl_season.parquet" partition_by="none"/>
+                <mapping table="nfl_week" file="nfl_week.parquet" partition_by="none"/>
+                <mapping table="nfl_gm_quarter" file="nfl_gm_quarter.parquet" partition_by="none"/>
+            </static_tables>
 
-            </referential>
-
-            <statistical>
-
-            <statistical>
-
-        </output_files>
+        </table_mappings>
 
     <database>
+
+    <script_info>
+
+        <performance_guidelines>
+            - Use chunking for large tables (especially nfl_game_pbp) to avoid memory issues
+            - Consider using connection pooling if processing many tables
+            - Use appropriate compression (suggest 'snappy' for balance of speed/size)
+            - Include progress logging for long-running exports
+        </performance_guidelines>
+
+        <error_handling>
+            - Log failed table exports but continue with remaining tables
+            - Validate row counts between source and destination
+            - Check for NULL values in partition columns (season_id, week_id)
+            - Create a summary report of successful/failed exports
+        </error_handling>
+
+        <script_parameters>
+            - Accept optional --seasons parameter (e.g., "2023,2024" or "2023-2024")
+            - Accept optional --weeks parameter (e.g., "1-5" or "1,2,3")
+            - Accept optional --tables parameter to export specific tables only
+            - Default to exporting all available data if no parameters provided
+            - Example usage: python export_raw_db_data.py --seasons 2024 --weeks 1-8
+        </script_parameters>
+
+        <validation>
+            - Ensure season years are reasonable (e.g., between 2000 and current year)
+            - Ensure week numbers are between 1-18 (or handle playoff weeks specifically)
+            - Verify foreign key relationships are maintained in exports
+        </validation>
+
+    </script_info>
 
 </prompt>

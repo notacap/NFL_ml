@@ -1,0 +1,8 @@
+# Scraped data directory
+web_scrape/scraped_data/
+
+# Environment file
+database/.env
+
+# Files starting with 'prompt'
+prompt*
