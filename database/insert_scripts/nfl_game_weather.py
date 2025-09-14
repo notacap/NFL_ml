@@ -32,6 +32,7 @@ def create_nfl_gm_weather_table(db: DatabaseConnector) -> bool:
         gm_weather_id INT AUTO_INCREMENT PRIMARY KEY,
         game_id INT,
         week_id INT,
+        season_id INT,
         kickoff_temperature DECIMAL(7,4),
         kickoff_humidity DECIMAL(7,4),
         kickoff_feels_like_temperature DECIMAL(7,4),
@@ -74,7 +75,8 @@ def create_nfl_gm_weather_table(db: DatabaseConnector) -> bool:
         end_of_game_wind_gusts DECIMAL(6,4),
         UNIQUE KEY (game_id, week_id),
         FOREIGN KEY (game_id) REFERENCES nfl_game(game_id),
-        FOREIGN KEY (week_id) REFERENCES nfl_week(week_id)
+        FOREIGN KEY (week_id) REFERENCES nfl_week(week_id),
+        FOREIGN KEY (season_id) REFERENCES nfl_season(season_id)
     );
     """
     
@@ -160,10 +162,11 @@ def safe_decimal(value, max_digits=7, decimal_places=4):
         print(f"[WARNING] Could not convert '{value}' to Decimal. Setting to None.")
         return None
 
-def prepare_upsert_data(weather_data, game_id, week_id):
+def prepare_upsert_data(weather_data, game_id, week_id, season_id):
     data = {
         'game_id': game_id,
-        'week_id': week_id
+        'week_id': week_id,
+        'season_id': season_id
     }
 
     for prefix, row in weather_data.items():
@@ -183,15 +186,45 @@ def prepare_upsert_data(weather_data, game_id, week_id):
 
     return data
 
+def extract_game_info_from_filename(filename):
+    """Extract game information for chronological sorting"""
+    # Expected format: weather_game_{game_id}_week_{week_id}_TIMESTAMP.csv
+    import re
+
+    # Extract game_id and week_id from filename
+    match = re.search(r'weather_game_(\d+)_week_(\d+)_(\d{8}_\d{6})\.csv', filename.lower())
+    if match:
+        game_id = int(match.group(1))
+        week_id = int(match.group(2))
+        timestamp = match.group(3)
+
+        # Sort by game_id (which should correspond to chronological order)
+        # as games are typically assigned IDs sequentially throughout the season
+        return (game_id, week_id, timestamp)
+
+    # Fallback: extract any numbers for basic sorting
+    numbers = re.findall(r'\d+', filename)
+    if len(numbers) >= 2:
+        return (int(numbers[0]), int(numbers[1]), filename)
+    elif len(numbers) >= 1:
+        return (int(numbers[0]), 0, filename)
+
+    # Final fallback: alphabetical
+    return (999999, 999999, filename)
+
 def get_weather_csv_files() -> list:
-    """Get weather CSV files from the specified directory"""
+    """Get weather CSV files from the specified directory, sorted chronologically"""
     weather_pattern = os.path.join(csv_directory, "*.csv")
-    weather_files = sorted(glob.glob(weather_pattern), key=os.path.getmtime, reverse=True)
-    
+    weather_files = glob.glob(weather_pattern)
+
     if not weather_files:
         raise FileNotFoundError(f"No weather CSV files found in {csv_directory}")
-    
+
+    # Sort files chronologically by week, then by game number, then by timestamp
+    weather_files = sorted(weather_files, key=lambda f: extract_game_info_from_filename(os.path.basename(f)))
+
     print(f"Found {len(weather_files)} weather CSV files")
+    print(f"Processing order: Week {extract_game_info_from_filename(os.path.basename(weather_files[0]))[0]} to Week {extract_game_info_from_filename(os.path.basename(weather_files[-1]))[0]}")
     return weather_files
 
 def main():
@@ -243,8 +276,8 @@ def main():
                 try:
                     # Extract weather_data, game_id, and week_id from CSV data
                     weather_data, game_id, week_id = result
-                    
-                    upsert_data = prepare_upsert_data(weather_data, game_id, week_id)
+
+                    upsert_data = prepare_upsert_data(weather_data, game_id, week_id, season_id)
                     processed_records.append(upsert_data)
                     
                     print(f"Successfully processed file: {filename} (game_id: {game_id}, week_id: {week_id})")

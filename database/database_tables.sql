@@ -206,6 +206,7 @@ CREATE TABLE nfl_game_pbp (
 
 CREATE TABLE nfl_gm_weather (
     gm_weather_id INT AUTO_INCREMENT PRIMARY KEY,
+    seaason_id INT,
     game_id INT,
     week_id INT,
     kickoff_temperature DECIMAL(7,4),
@@ -249,6 +250,7 @@ CREATE TABLE nfl_gm_weather (
     end_of_game_wind_direction DECIMAL(7,4),
     end_of_game_wind_gusts DECIMAL(6,4),
     UNIQUE KEY (game_id, week_id),
+    FOREIGN KEY (season_id) REFERENCES nfl_season(season_id),
     FOREIGN KEY (game_id) REFERENCES nfl_game(game_id),
     FOREIGN KEY (week_id) REFERENCES nfl_week(week_id)
 );

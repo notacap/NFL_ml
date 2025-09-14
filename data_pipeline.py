@@ -10,6 +10,7 @@ import os
 import sys
 import subprocess
 import time
+import argparse
 from datetime import datetime
 from typing import List, Tuple, Dict
 
@@ -21,6 +22,7 @@ PIPELINE_SCRIPTS = [
     ('database', 'db_master.py', 60),          # 1 hour for database
     ('web_scrape\\scripts\\api', 'weather.py', 30),  # 30 minutes for weather API
     ('database\\insert_scripts', 'nfl_game_weather.py', 30),  # 30 minutes for insert
+    ('data_export', 'export_raw_db_data.py', 60),  # 1 hour for data export
 ]
 
 # Scripts to exclude from execution
@@ -32,7 +34,7 @@ def log_message(level: str, message: str):
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     print(f"[{timestamp}] {level}: {message}")
 
-def run_script(script_path: str, script_name: str, timeout_minutes: int = 30) -> Tuple[bool, str]:
+def run_script(script_path: str, script_name: str, timeout_minutes: int = 30, extra_args: List[str] = None) -> Tuple[bool, str]:
     """
     Execute a Python script and return success status and output.
     
@@ -53,13 +55,18 @@ def run_script(script_path: str, script_name: str, timeout_minutes: int = 30) ->
     try:
         # Change to the script's directory and run it
         script_dir = os.path.dirname(script_path)
+        # Build command with extra arguments if provided
+        command = [sys.executable, script_path]
+        if extra_args:
+            command.extend(extra_args)
+
         result = subprocess.run(
-            [sys.executable, script_path],
+            command,
             cwd=script_dir,
             capture_output=True,
             text=True,
             timeout=timeout_minutes * 60  # Convert minutes to seconds
-        
+        )
         # Print stdout if available
         if result.stdout:
             print(result.stdout)
@@ -106,8 +113,83 @@ def validate_script_exists(script_path: str) -> bool:
     """
     return os.path.exists(script_path) and os.path.isfile(script_path)
 
+def build_export_args(seasons: str = None, weeks: str = None, tables: str = None, categories: str = None) -> List[str]:
+    """Build command line arguments for the export script."""
+    args = []
+
+    if seasons:
+        args.extend(['--seasons', seasons])
+    if weeks:
+        args.extend(['--weeks', weeks])
+    if tables:
+        args.extend(['--tables', tables])
+    if categories:
+        args.extend(['--categories', categories])
+
+    return args
+
 def main():
     """Main execution function for the data pipeline"""
+
+    # Parse command line arguments
+    parser = argparse.ArgumentParser(
+        description='NFL Data Pipeline Master Script',
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Export Arguments (applied only to data export step):
+  These arguments will be passed to the export_raw_db_data.py script:
+
+  --export-seasons SEASONS    Season filter for export (e.g., "2024" or "2023,2024" or "2023-2024")
+  --export-weeks WEEKS        Week filter for export (e.g., "1" or "1,2,3" or "1-8")
+  --export-tables TABLES      Comma-separated list of specific tables to export
+  --export-categories CATS    Comma-separated list of categories to export (static,reference,game_level,season_cumulative)
+
+Examples:
+  # Run full pipeline
+  python data_pipeline.py
+
+  # Run pipeline with export filtering
+  python data_pipeline.py --export-seasons 2024 --export-weeks 1-8
+  python data_pipeline.py --export-categories game_level,season_cumulative
+        """
+    )
+
+    parser.add_argument(
+        '--export-seasons',
+        type=str,
+        help='Season filter for export (e.g., "2024" or "2023,2024" or "2023-2024")'
+    )
+
+    parser.add_argument(
+        '--export-weeks',
+        type=str,
+        help='Week filter for export (e.g., "1" or "1,2,3" or "1-8")'
+    )
+
+    parser.add_argument(
+        '--export-tables',
+        type=str,
+        help='Comma-separated list of specific tables to export'
+    )
+
+    parser.add_argument(
+        '--export-categories',
+        type=str,
+        help='Comma-separated list of categories to export (static,reference,game_level,season_cumulative)'
+    )
+
+    args = parser.parse_args()
+
+    # Build export arguments
+    export_args = build_export_args(
+        seasons=args.export_seasons,
+        weeks=args.export_weeks,
+        tables=args.export_tables,
+        categories=args.export_categories
+    )
+
+    if export_args:
+        log_message("INFO", f"Export arguments: {' '.join(export_args)}")
     
     # Header
     print("\n" + "#"*70)
@@ -170,9 +252,15 @@ def main():
     
     for script_path, display_name, timeout in scripts_to_execute:
         script_name = os.path.basename(script_path)
-        
+
+        # Check if this is the export script and add export arguments if provided
+        extra_args = None
+        if script_name == 'export_raw_db_data.py' and export_args:
+            extra_args = export_args
+            log_message("INFO", f"Running {display_name} with export filters")
+
         # Run the script
-        success, output = run_script(script_path, display_name, timeout)
+        success, output = run_script(script_path, display_name, timeout, extra_args)
         
         if success:
             successful_scripts.append(display_name)

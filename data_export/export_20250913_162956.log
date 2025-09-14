@@ -1,0 +1,1 @@
+2025-09-13 16:29:56,244 - NFLDataExporter - ERROR - Failed to connect to database: 'cryptography' package is required for sha256_password or caching_sha2_password auth methods

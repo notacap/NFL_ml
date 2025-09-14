@@ -1,8 +1,16 @@
-# Scraped data directory
-web_scrape/scraped_data/
+.claude/
 
-# Environment file
-database/.env
+legacy/
 
 # Files starting with 'prompt'
 prompt*
+
+*.env
+*.csv
+*.parquet
+*.claude
+*.sql
+*.xml
+*.md
+*.json
+
