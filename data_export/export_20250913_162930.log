@@ -1,2 +1,0 @@
-2025-09-13 16:29:34,585 - NFLDataExporter - ERROR - Failed to connect to database: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([WinError 10061] No connection could be made because the target machine actively refused it)")
-(Background on this error at: https://sqlalche.me/e/20/e3q8)
