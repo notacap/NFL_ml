@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Read(/C:\\Users\\nocap\\Desktop\\code\\NFL_ml\\clean_data\\csv_format/**)"
-    ],
-    "deny": [],
-    "ask": []
-  }
-}
