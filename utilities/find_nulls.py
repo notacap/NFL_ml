@@ -86,50 +86,56 @@ def analyze_database_nulls():
     """Main function to analyze null values across all tables and seasons."""
     connection = connect_to_database()
     cursor = connection.cursor()
-    
+
     try:
         # Get all tables and seasons
         tables = get_all_tables(cursor)
         seasons = get_seasons(cursor)
-        
+
         # Dictionary to store results organized by season
         results_by_season = defaultdict(lambda: defaultdict(list))
-        
+
         # Tables without season_id (global tables)
         global_tables_results = defaultdict(list)
-        
+
+        # Dictionary to store table summaries across all seasons
+        table_summaries = defaultdict(lambda: defaultdict(int))
+
         print(f"\nAnalyzing {len(tables)} tables across {len(seasons)} seasons...")
         print("=" * 80)
-        
+
         # Process each table
         for table_name in tables:
             print(f"Processing table: {table_name}")
             columns = get_table_columns(cursor, table_name)
-            
+
             if 'season_id' in columns:
                 # Table has season_id - check nulls per season
                 for season_id, year in seasons:
                     nulls_found = check_nulls_for_season(cursor, table_name, columns, season_id)
                     if nulls_found:
                         results_by_season[year][table_name] = nulls_found
+                        # Accumulate for table summary
+                        for col_info in nulls_found:
+                            table_summaries[table_name][col_info['column']] += col_info['null_count']
             else:
                 # Table doesn't have season_id - check nulls globally
                 nulls_found = check_nulls_for_season(cursor, table_name, columns)
                 if nulls_found:
                     global_tables_results[table_name] = nulls_found
-        
+
         # Generate log file
-        generate_log_file(results_by_season, global_tables_results)
-        
+        generate_log_file(results_by_season, global_tables_results, table_summaries)
+
         print("\nAnalysis complete! Results written to 'null_columns_report.log'")
-        
+
     except Exception as e:
         print(f"Error during analysis: {e}")
     finally:
         cursor.close()
         connection.close()
 
-def generate_log_file(results_by_season, global_tables_results):
+def generate_log_file(results_by_season, global_tables_results, table_summaries):
     """Generate a structured log file with the null analysis results."""
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     
@@ -180,7 +186,29 @@ def generate_log_file(results_by_season, global_tables_results):
                     f.write("\n")
                 
                 f.write("\n")
-        
+
+        # Write table summaries across all seasons
+        if table_summaries:
+            f.write("=" * 80 + "\n")
+            f.write("TABLE SUMMARIES (ALL SEASONS COMBINED)\n")
+            f.write("-" * 40 + "\n\n")
+
+            # Sort tables alphabetically
+            for table_name in sorted(table_summaries.keys()):
+                columns_summary = table_summaries[table_name]
+
+                f.write(f"Table: {table_name}\n")
+                f.write("Total null counts across all seasons:\n")
+
+                # Sort columns alphabetically
+                for column in sorted(columns_summary.keys()):
+                    total_nulls = columns_summary[column]
+                    f.write(f"  - {column} (total nulls: {total_nulls})\n")
+
+                f.write("\n")
+
+            f.write("\n")
+
         # Write summary statistics
         f.write("=" * 80 + "\n")
         f.write("SUMMARY STATISTICS\n")

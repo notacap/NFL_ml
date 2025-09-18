@@ -28,6 +28,7 @@ def get_scraper_files(scripts_dir, api_dir):
         'view_logs.py',
         '__init__.py',
         'scrape_master.py',
+        'games.py',
         'all_active_player.py',
         'weather.py',
         'temp_defense_advanced.py',

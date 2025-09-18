@@ -141,19 +141,19 @@ def load_schedule_data():
 def create_week_directory(week_num):
     """
     Creates directory structure for a specific week.
-    
+
     Args:
         week_num (int): Week number
-    
+
     Returns:
         str: Path to the week directory
     """
     games_dir = os.path.join(ROOT_DATA_DIR, str(YEAR), "games")
-    week_dir = os.path.join(games_dir, f"week_{week_num}")
-    
+    week_dir = os.path.join(games_dir, f"week_{week_num}.0")
+
     if not os.path.exists(week_dir):
         os.makedirs(week_dir, exist_ok=True)
-    
+
     return week_dir
 
 def apply_rate_limit(base_delay):
@@ -239,35 +239,38 @@ def track_failed_table(table_name, url, week, row_data):
 def save_failed_scrapes_csv():
     """
     Saves current failed scrapes to CSV file.
-    
+
     Returns:
         str: Path to saved CSV file, or None if no failures
     """
     global failed_scrapes
-    
+
     if not failed_scrapes:
         return None
-    
+
     # Create failed scrapes directory
     failed_dir = create_failed_scrapes_directory()
-    
+
     # Create CSV data
     csv_data = []
     for url, data in failed_scrapes.items():
+        row_data = data.get('row_data', {})
         csv_data.append({
             'week': data['week'],
             'tables': ','.join(sorted(data['tables'])),
-            'url': url
+            'url': url,
+            'home_team': row_data.get('Home', 'Unknown'),
+            'away_team': row_data.get('Away', 'Unknown')
         })
-    
+
     # Sort by week for better organization
     csv_data.sort(key=lambda x: x['week'])
-    
+
     # Save to CSV
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     filename = f"failed_scrape_{timestamp}.csv"
     csv_path = os.path.join(failed_dir, filename)
-    
+
     try:
         df = pd.DataFrame(csv_data)
         df.to_csv(csv_path, index=False)
@@ -417,52 +420,56 @@ def load_failed_scrape_data(merge_with_existing=True):
     """
     Loads failed scrape data from the latest CSV file and converts it to the format
     expected by the retry system.
-    
+
     Args:
         merge_with_existing (bool): If True, merge with existing failed_scrapes rather than overwriting
-    
+
     Returns:
         bool: True if failed data was loaded successfully, False otherwise
     """
     global failed_scrapes
-    
+
     failed_file = get_latest_failed_scrape_file()
-    
+
     if not failed_file:
         return False
-    
+
     try:
         df = pd.read_csv(failed_file)
-        
+
         # Validate required columns
         required_columns = ['week', 'tables', 'url']
         if not all(col in df.columns for col in required_columns):
             print(f"Invalid failed scrape file format. Required columns: {required_columns}")
             return False
-        
+
         print(f"Loading {len(df)} failed games from: {os.path.basename(failed_file)}")
-        
+
         # Track how many were loaded/merged
         loaded_count = 0
         merged_count = 0
-        
+
         # Convert CSV data back to failed_scrapes format
         for _, row in df.iterrows():
             url = row['url']
             week = row['week']
             tables_str = row['tables']
-            
+
             # Parse tables string back to set
             csv_tables_set = set(tables_str.split(',')) if tables_str else set()
-            
-            # Create mock row data (minimal required fields)
+
+            # Use team names from CSV if available, otherwise use 'Unknown'
+            home_team = row.get('home_team', 'Unknown')
+            away_team = row.get('away_team', 'Unknown')
+
+            # Create row data with team information
             row_data = {
                 'Week': week,
                 'Boxscore': url,
-                'Home': 'Unknown',  # This will be reconstructed during scraping
-                'Away': 'Unknown'   # This will be reconstructed during scraping
+                'Home': home_team,
+                'Away': away_team
             }
-            
+
             if merge_with_existing and url in failed_scrapes:
                 # Merge tables with existing entry
                 existing_tables = failed_scrapes[url]['tables']
@@ -477,15 +484,15 @@ def load_failed_scrape_data(merge_with_existing=True):
                     'row_data': row_data
                 }
                 loaded_count += 1
-        
+
         if merge_with_existing and merged_count > 0:
             print(f"Merged failed tables for {merged_count} existing games")
         if loaded_count > 0:
             print(f"Added {loaded_count} new failed games")
-        
+
         print(f"Total failed games available for retry: {len(failed_scrapes)}")
         return True
-        
+
     except Exception as e:
         print(f"Error loading failed scrape data: {e}")
         return False

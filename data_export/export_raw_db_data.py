@@ -121,7 +121,7 @@ class NFLDataExporter:
             'static': [
                 {'table': 'nfl_team', 'file': 'nfl_team.parquet', 'partition_by': None},
                 {'table': 'nfl_season', 'file': 'nfl_season.parquet', 'partition_by': None},
-                {'table': 'nfl_week', 'file': 'nfl_week.parquet', 'partition_by': None},
+                {'table': 'nfl_week', 'directory': 'static', 'partition_by': ['season']},
                 {'table': 'nfl_gm_quarter', 'file': 'nfl_gm_quarter.parquet', 'partition_by': None},
             ]
         }
