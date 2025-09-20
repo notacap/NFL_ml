@@ -4,6 +4,10 @@ import os
 import logging
 from pathlib import Path
 from typing import Dict, List, Set
+from datetime import datetime
+
+# Audit configuration - set to True to export CSV audit files
+AUDIT = True
 
 # Set up logging
 logging.basicConfig(
@@ -46,6 +50,26 @@ class BaseNullHandler:
                 rows_with_nulls.to_csv(csv_path, index=False)
                 logger.info(f"\nExported {len(rows_with_nulls)} rows with NULL values to {csv_filename}")
                 logger.info(f"  Full path: {csv_path.absolute()}")
+
+    def export_audit_csv(self, df: pd.DataFrame, table_name: str) -> None:
+        """Export processed dataframe to audit CSV if AUDIT is True"""
+        if AUDIT:
+            # Create audit directory structure
+            audit_base_dir = Path(r"C:\Users\nocap\Desktop\code\NFL_ml\data_export\audit")
+            table_dir = audit_base_dir / table_name
+            table_dir.mkdir(parents=True, exist_ok=True)
+
+            # Create filename with timestamp
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            csv_filename = f"{table_name}_{timestamp}.csv"
+            csv_path = table_dir / csv_filename
+
+            # Export to CSV
+            df.to_csv(csv_path, index=False)
+            logger.info(f"\n[AUDIT] Exported processed data to audit CSV:")
+            logger.info(f"  Filename: {csv_filename}")
+            logger.info(f"  Full path: {csv_path.absolute()}")
+            logger.info(f"  Shape: {df.shape}")
 
     def process_table(self, table_name: str, table_path: str, handler_func) -> None:
         """Process a single table for null value handling"""
@@ -93,6 +117,9 @@ class BaseNullHandler:
 
             # Export rows with remaining nulls to CSV
             self.export_null_rows_to_csv(df, table_name, null_cols_after)
+
+        # Export audit CSV if enabled
+        self.export_audit_csv(df, table_name)
 
     def print_final_summary(self) -> None:
         """Print final summary of all processed tables"""

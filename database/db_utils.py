@@ -7,9 +7,9 @@ from typing import Dict, Any, List, Optional
 
 # Configuration: Set the year and week for data processing
 YEAR = 2025
-WEEK = 1
-WEEK_START = 1
-WEEK_END = 1
+WEEK = 2
+WEEK_START = 2
+WEEK_END = 2
 
 # Load environment variables
 load_dotenv()
