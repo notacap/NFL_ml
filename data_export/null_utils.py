@@ -7,7 +7,7 @@ from typing import Dict, List, Set
 from datetime import datetime
 
 # Audit configuration - set to True to export CSV audit files
-AUDIT = True
+AUDIT = False
 
 # Set up logging
 logging.basicConfig(
