@@ -54,15 +54,6 @@ class PlyrGmPassNullHandler(BaseNullHandler):
 
             logger.info(f"Applied plyr_gm_pass_no_scrmbl indicator to {mask_null.sum()} rows")
 
-        # Handle zero value replacements
-
-        # plyr_gm_pass_no_first_dwn: Replace 0 with -1 in plyr_gm_pass_first_dwn_pct
-        if 'plyr_gm_pass_first_dwn' in df.columns and 'plyr_gm_pass_first_dwn_pct' in df.columns:
-            mask_zero = (df['plyr_gm_pass_first_dwn'] == 0) & (df['plyr_gm_pass_first_dwn_pct'] == 0)
-            df.loc[mask_zero, 'plyr_gm_pass_first_dwn_pct'] = -1
-            df.loc[mask_zero, 'plyr_gm_pass_no_first_dwn'] = 1
-            logger.info(f"Replaced 0 values in plyr_gm_pass_first_dwn_pct for {mask_zero.sum()} rows (no first downs)")
-
         # Additional handling for plyr_gm_pass_first_dwn NULL values when there are completions
         if 'plyr_gm_pass_cmp' in df.columns and 'plyr_gm_pass_first_dwn' in df.columns and 'plyr_gm_pass_first_dwn_pct' in df.columns:
             # Condition: plyr_gm_pass_cmp != 0 and plyr_gm_pass_first_dwn is NULL
@@ -78,43 +69,6 @@ class PlyrGmPassNullHandler(BaseNullHandler):
 
             logger.info(f"Handled NULL first downs for {mask_has_cmp_no_fd.sum()} rows with completions but no first downs")
             logger.info(f"Set plyr_gm_pass_no_first_dwn indicator for {mask_fd_pct_null.sum()} rows with NULL first_dwn_pct")
-
-        # plyr_gm_pass_no_cmp: Replace 0 with -1 in plyr_gm_pass_cmp_pct
-        if 'plyr_gm_pass_cmp' in df.columns and 'plyr_gm_pass_cmp_pct' in df.columns:
-            mask_zero = (df['plyr_gm_pass_cmp'] == 0) & (df['plyr_gm_pass_cmp_pct'] == 0)
-            df.loc[mask_zero, 'plyr_gm_pass_cmp_pct'] = -1
-            df.loc[mask_zero, 'plyr_gm_pass_no_cmp'] = 1
-            logger.info(f"Replaced 0 values in plyr_gm_pass_cmp_pct for {mask_zero.sum()} rows (no completions)")
-
-        # plyr_gm_pass_no_td: Replace 0 with -1 in plyr_gm_pass_td_pct
-        if 'plyr_gm_pass_td' in df.columns and 'plyr_gm_pass_td_pct' in df.columns:
-            mask_zero = (df['plyr_gm_pass_td'] == 0) & (df['plyr_gm_pass_td_pct'] == 0)
-            df.loc[mask_zero, 'plyr_gm_pass_td_pct'] = -1
-            df.loc[mask_zero, 'plyr_gm_pass_no_td'] = 1
-            logger.info(f"Replaced 0 values in plyr_gm_pass_td_pct for {mask_zero.sum()} rows (no touchdowns)")
-
-        # plyr_gm_pass_no_int: Replace 0 with -1 in plyr_gm_pass_int_pct
-        if 'plyr_gm_pass_int' in df.columns and 'plyr_gm_pass_int_pct' in df.columns:
-            mask_zero = (df['plyr_gm_pass_int'] == 0) & (df['plyr_gm_pass_int_pct'] == 0)
-            df.loc[mask_zero, 'plyr_gm_pass_int_pct'] = -1
-            df.loc[mask_zero, 'plyr_gm_pass_no_int'] = 1
-            logger.info(f"Replaced 0 values in plyr_gm_pass_int_pct for {mask_zero.sum()} rows (no interceptions)")
-
-        # plyr_gm_pass_no_prss: Replace 0 with -1 in plyr_gm_pass_prss_pct
-        # Note: The XML seems to have a typo here - it references plyr_gm_pass_int columns but the indicator is plyr_gm_pass_no_prss
-        # I'll implement based on the indicator name which suggests it should be based on plyr_gm_pass_prss
-        if 'plyr_gm_pass_prss' in df.columns and 'plyr_gm_pass_prss_pct' in df.columns:
-            mask_zero = (df['plyr_gm_pass_prss'] == 0) & (df['plyr_gm_pass_prss_pct'] == 0)
-            df.loc[mask_zero, 'plyr_gm_pass_prss_pct'] = -1
-            df.loc[mask_zero, 'plyr_gm_pass_no_prss'] = 1
-            logger.info(f"Replaced 0 values in plyr_gm_pass_prss_pct for {mask_zero.sum()} rows (no pressure)")
-
-        # plyr_gm_pass_no_sk: Replace 0 with -1 in plyr_gm_pass_sk_pct
-        if 'plyr_gm_pass_sk' in df.columns and 'plyr_gm_pass_sk_pct' in df.columns:
-            mask_zero = (df['plyr_gm_pass_sk'] == 0) & (df['plyr_gm_pass_sk_pct'] == 0)
-            df.loc[mask_zero, 'plyr_gm_pass_sk_pct'] = -1
-            df.loc[mask_zero, 'plyr_gm_pass_no_sk'] = 1
-            logger.info(f"Replaced 0 values in plyr_gm_pass_sk_pct for {mask_zero.sum()} rows (no sacks)")
 
         # # Final catch-all: Impute any remaining NULL values with -1 and create plyr_gm_pass_missing_stats indicator
         # # Get all columns except the indicator columns we created

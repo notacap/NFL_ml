@@ -70,12 +70,6 @@ class PlyrGmDefNullHandler(BaseNullHandler):
             # Identify rows where plyr_gm_def_cmp = 0
             mask_no_completions = df['plyr_gm_def_cmp'] == 0
 
-            # Replace 0 in plyr_gm_def_cmp_pct and plyr_gm_def_pass_yds_tgt when plyr_gm_def_cmp = 0
-            if 'plyr_gm_def_cmp_pct' in df.columns:
-                mask_cmp_pct_zero = mask_no_completions & (df['plyr_gm_def_cmp_pct'] == 0) & (df['plyr_gm_def_cmp'] == 0)
-                df.loc[mask_cmp_pct_zero, 'plyr_gm_def_cmp_pct'] = -1
-                df.loc[mask_cmp_pct_zero, 'plyr_gm_def_no_cmp'] = 1
-                logger.info(f"Replaced 0 values in plyr_gm_def_cmp_pct for {mask_cmp_pct_zero.sum()} rows (no completions)")
 
 
             # Handle null values for specified columns when plyr_gm_def_cmp = 0
@@ -95,12 +89,6 @@ class PlyrGmDefNullHandler(BaseNullHandler):
 
         # Fourth exception case: Handle plyr_gm_def_mtkl_pct when plyr_gm_def_mtkl = 0
         if 'plyr_gm_def_mtkl' in df.columns and 'plyr_gm_def_mtkl_pct' in df.columns:
-            # Replace 0 in plyr_gm_def_mtkl_pct when plyr_gm_def_mtkl = 0 and plyr_gm_def_mtkl_pct = 0
-            mask_no_mtkl_zero = (df['plyr_gm_def_mtkl'] == 0) & (df['plyr_gm_def_mtkl_pct'] == 0)
-            df.loc[mask_no_mtkl_zero, 'plyr_gm_def_mtkl_pct'] = -1
-            df.loc[mask_no_mtkl_zero, 'plyr_gm_def_no_mtkl'] = 1
-            logger.info(f"Replaced 0 values in plyr_gm_def_mtkl_pct for {mask_no_mtkl_zero.sum()} rows (no missed tackles)")
-
             # Impute null values in plyr_gm_def_mtkl_pct when plyr_gm_def_mtkl = 0 and plyr_gm_def_mtkl_pct is NULL
             mask_no_mtkl_null = (df['plyr_gm_def_mtkl'] == 0) & df['plyr_gm_def_mtkl_pct'].isnull()
             df.loc[mask_no_mtkl_null, 'plyr_gm_def_mtkl_pct'] = -1

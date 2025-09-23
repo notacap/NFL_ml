@@ -59,29 +59,6 @@ class PlyrGmRecNullHandler(BaseNullHandler):
 
             logger.info(f"Applied plyr_gm_rec_no_first_dwn indicator to {mask_has_rec_no_fd.sum()} rows with receptions but no first downs")
 
-        # Handle zero value replacements
-
-        # plyr_gm_rec_no_catches: Replace 0 with -1 in catch percentage and other stats
-        no_catches_zero_cols = [
-            'plyr_rec_catch_pct', 'plyr_gm_rec_lng', 'plyr_gm_rec_aybc', 'plyr_gm_rec_yac'
-        ]
-
-        if 'plyr_gm_rec' in df.columns:
-            mask_no_catches = df['plyr_gm_rec'] == 0
-            for col in no_catches_zero_cols:
-                if col in df.columns:
-                    mask_zero = mask_no_catches & (df[col] == 0)
-                    df.loc[mask_zero, col] = -1
-                    if mask_zero.sum() > 0:
-                        df.loc[mask_zero, 'plyr_gm_rec_no_catches'] = 1
-                    logger.info(f"Replaced 0 values in {col} for {mask_zero.sum()} rows (no catches)")
-
-        # plyr_gm_rec_no_drops: Replace 0 with -1 in drop percentage
-        if 'plyr_gm_rec_drop' in df.columns and 'plyr_gm_rec_drop_pct' in df.columns:
-            mask_zero = (df['plyr_gm_rec_drop'] == 0) & (df['plyr_gm_rec_drop_pct'] == 0)
-            df.loc[mask_zero, 'plyr_gm_rec_drop_pct'] = -1
-            df.loc[mask_zero, 'plyr_gm_rec_no_drops'] = 1
-            logger.info(f"Replaced 0 values in plyr_gm_rec_drop_pct for {mask_zero.sum()} rows (no drops)")
 
         return df
 

@@ -3,7 +3,7 @@
 legacy/
 
 # Files starting with 'prompt'
-prompt*
+# prompt*
 
 *.env
 *.csv
