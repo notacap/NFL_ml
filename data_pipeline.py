@@ -27,7 +27,7 @@ PIPELINE_SCRIPTS = [
 
 # Scripts to exclude from execution
 # Add script names here to skip them (e.g., ['scrape_master.py', 'weather.py'])
-EXCLUSIONS = ['scrape_master.py']
+EXCLUSIONS = ['scrape_master.py, export_raw_db_data.py']
 
 def log_message(level: str, message: str):
     """Print formatted log messages with timestamp"""

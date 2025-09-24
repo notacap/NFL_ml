@@ -159,8 +159,15 @@ def process_drive_csv_file(db: DatabaseConnector, file_path: str, season_id: int
             print(f"[WARNING] Skipping empty file: {file_path}")
             return pd.DataFrame()
         
-        # Get week_id using the passed week number
-        week_id = get_week_id(db, season_id, week)
+        # Get week number from DataFrame first, fallback to passed week number
+        week_num = None
+        if 'week' in df.columns:
+            week_num = df['week'].iloc[0]
+
+        if week_num is None:
+            week_num = float(week)
+
+        week_id = get_week_id(db, season_id, int(week_num))
         
         # Get unique team names from the 'team' column  
         unique_teams = df['team'].dropna().unique()
@@ -178,18 +185,18 @@ def process_drive_csv_file(db: DatabaseConnector, file_path: str, season_id: int
                 print(f"[WARNING] Unable to parse filename format: {filename}")
                 return pd.DataFrame()
             
-            # Find the position of the week indicator (wkX.0)
+            # Find the position of the week indicator (wkX.0 or wkX)
             week_idx = -1
             for i, part in enumerate(parts):
-                if part.startswith('wk') and '.' in part:
+                if part.startswith('wk'):
                     week_idx = i
                     break
-            
+
             if week_idx == -1:
                 print(f"[WARNING] Could not find week indicator in filename: {filename}")
                 return pd.DataFrame()
             
-            # Extract team names (everything between 'cleaned_' and '_wkX.0')
+            # Extract team names (everything between 'cleaned_' and '_wkX' or '_wkX.0')
             team_parts = parts[1:week_idx]
             
             # Split into away and home teams by finding where one team name ends and the other begins
