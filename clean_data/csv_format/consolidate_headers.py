@@ -104,34 +104,34 @@ def get_games_directory():
     """
     return rf'C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\{YEAR}\games'
 
-def move_remaining_files(week_dir):
+def copy_remaining_files(week_dir):
     """
-    Move all remaining files in the week directory to the clean subdirectory
+    Copy all remaining files in the week directory to the clean subdirectory
     with 'cleaned_' prefix.
-    
+
     Args:
         week_dir (str): Path to the week directory
     """
     clean_dir = os.path.join(week_dir, 'clean')
     os.makedirs(clean_dir, exist_ok=True)
-    
+
     # Get all files in the week directory (excluding subdirectories)
     all_files = [f for f in os.listdir(week_dir) if os.path.isfile(os.path.join(week_dir, f))]
-    
+
     for filename in all_files:
         source_path = os.path.join(week_dir, filename)
-        
+
         # Check if file already exists in clean directory
         cleaned_filename = f"cleaned_{filename}"
         dest_path = os.path.join(clean_dir, cleaned_filename)
-        
-        # Only move if the cleaned version doesn't already exist
+
+        # Only copy if the cleaned version doesn't already exist
         if not os.path.exists(dest_path):
             try:
-                shutil.move(source_path, dest_path)
-                print(f"Moved: {source_path} -> {dest_path}")
+                shutil.copy2(source_path, dest_path)
+                print(f"Copied: {source_path} -> {dest_path}")
             except Exception as e:
-                print(f"Error moving {source_path}: {str(e)}")
+                print(f"Error copying {source_path}: {str(e)}")
 
 def main():
     """
@@ -182,9 +182,9 @@ def main():
                 if not process_csv_file(file_path):
                     failed_files.append(file_path)
         
-        # Move all remaining files to clean directory
-        print(f"Moving remaining files in {week_dir} to clean directory...")
-        move_remaining_files(week_dir)
+        # Copy all remaining files to clean directory
+        print(f"Copying remaining files in {week_dir} to clean directory...")
+        copy_remaining_files(week_dir)
     
     # Display summary at the end
     print("\n" + "="*50)
