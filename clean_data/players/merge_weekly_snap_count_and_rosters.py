@@ -18,6 +18,9 @@ GAMES_DIR = rf"C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\{YEAR}
 TEAM_ROSTERS_DIR = rf"C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\{YEAR}\roster_details\week_{WEEK}\cleaned"
 OUTPUT_DIR = rf"C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\{YEAR}\plyr\plyr_raw\{WEEK}"
 
+# Age cache file path
+AGE_CACHE_FILE = rf"C:\Users\nocap\Desktop\code\NFL_ml\clean_data\players\player_ages_cache.json"
+
 # Position standardization mapping
 POSITION_MAPPING = {
     'QB': 'QB', 
@@ -70,6 +73,59 @@ TEAM_MAPPING = {
     "Titans": "Tennessee Titans",
     "Commanders": "Washington Commanders"
 }
+
+def load_age_cache():
+    """Load the age cache from file if it exists"""
+    if os.path.exists(AGE_CACHE_FILE):
+        try:
+            with open(AGE_CACHE_FILE, 'r') as f:
+                return json.load(f)
+        except (json.JSONDecodeError, IOError):
+            print("Warning: Could not load age cache file, starting with empty cache")
+            return {}
+    return {}
+
+def save_age_cache(cache):
+    """Save the age cache to file"""
+    try:
+        with open(AGE_CACHE_FILE, 'w') as f:
+            json.dump(cache, f, indent=2)
+    except IOError as e:
+        print(f"Warning: Could not save age cache: {e}")
+
+def get_player_age(player_name, team_name, cache):
+    """Get player age from cache or prompt user"""
+    # Create a unique key for the player
+    cache_key = f"{player_name}|{team_name}"
+
+    # Check if we already have this player's age in cache
+    if cache_key in cache:
+        return cache[cache_key]
+
+    # Prompt user for age
+    print(f"\n=== Missing Age Information ===")
+    print(f"Player: {player_name}")
+    print(f"Team: {team_name}")
+
+    while True:
+        age_input = input("Please enter the player's age (or 'skip' to leave blank): ").strip()
+
+        if age_input.lower() == 'skip':
+            # Store empty string in cache to avoid re-prompting
+            cache[cache_key] = ''
+            save_age_cache(cache)
+            return ''
+
+        try:
+            age = int(age_input)
+            if 18 <= age <= 50:  # Reasonable age range for NFL players
+                cache[cache_key] = str(age)
+                save_age_cache(cache)
+                return str(age)
+            else:
+                print("Age must be between 18 and 50. Please try again.")
+        except ValueError:
+            print("Invalid input. Please enter a number or 'skip'.")
 
 def standardize_position(position):
     return POSITION_MAPPING.get(position, position)
@@ -187,54 +243,134 @@ def clean_player_name(player_name):
     return [player_name.strip()]
 
 def process_team_roster_files():
-    players_data = {}
+    # First, group files by team to detect duplicates
+    team_files = defaultdict(list)
+
     for file in glob.glob(os.path.join(TEAM_ROSTERS_DIR, "*.csv")):
-        # For cleaned files, team name is available in the Team column
-        team_name = None
-        
+        # Read first data row to get team name
         with open(file, 'r', newline='') as f:
             reader = csv.DictReader(f)
             for row in reader:
-                # Skip rows that don't have player data (like team totals)
-                if not row.get('Player') or row['Player'] == 'Team Total':
-                    continue
-                
-                # Get team name from the row (only need to get it once per file)
-                if team_name is None:
+                if row.get('Player') and row['Player'] != 'Team Total':
                     team_name = standardize_team_name(row['Team'])
-                    
-                original_name = row['Player']
-                cleaned_names = clean_player_name(row['Player'])
-                position = row['Pos']
-                standardized_pos = standardize_position(position)
-                
-                # The cleaned files have separate draft columns (original format)
-                draft_team = row.get('Draft Team', '')
-                draft_round = row.get('Draft Round', '')
-                draft_pick = row.get('Draft Pick', '')
-                draft_year = row.get('Draft Year', '')
-                
-                # Create entry for each possible name variation
-                for cleaned_name in cleaned_names:
-                    player_key = (team_name, cleaned_name, standardized_pos)
-                    players_data[player_key] = {
-                        'team_name': team_name,
-                        'plyr_name': original_name,
-                        'pos': standardized_pos,
-                        'age': row['Age'],
-                        'weight': row['Wt'],
-                        'height': row['Ht'],
-                        'yrs_played': row['Yrs'],
-                        'plyr_college': row.get('College/Univ', ''),
-                        'plyr_birthdate': row.get('BirthDate', ''),
-                        'plyr_avg_value': row.get('AV', ''),
-                        'plyr_draft_tm': draft_team,
-                        'plyr_draft_rd': draft_round,
-                        'plyr_draft_pick': draft_pick,
-                        'plyr_draft_yr': draft_year,
-                        'gm_played': row.get('G', ''),
-                        'gm_started': row.get('GS', '')
-                    }
+                    team_files[team_name].append(file)
+                    break
+
+    # Report any duplicate team files found
+    for team, files in team_files.items():
+        if len(files) > 1:
+            print(f"Found {len(files)} roster files for {team}:")
+            for file in files:
+                print(f"  - {os.path.basename(file)}")
+
+    # Process files, merging duplicates for the same team
+    players_data = {}
+
+    for team_name, files in team_files.items():
+        team_players = {}  # Temporary storage for this team's players
+
+        for file in files:
+            with open(file, 'r', newline='') as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    # Skip rows that don't have player data (like team totals)
+                    if not row.get('Player') or row['Player'] == 'Team Total':
+                        continue
+
+                    original_name = row['Player']
+                    cleaned_names = clean_player_name(row['Player'])
+                    position = row['Pos']
+                    standardized_pos = standardize_position(position)
+
+
+                    # The cleaned files have separate draft columns (original format)
+                    draft_team = row.get('Draft Team', '')
+                    draft_round = row.get('Draft Round', '')
+                    draft_pick = row.get('Draft Pick', '')
+                    draft_year = row.get('Draft Year', '')
+
+                    # Use original name and position as key for merging within team
+                    merge_key = (original_name.lower(), standardized_pos)
+
+                    # If player already exists in this team's data, check for conflicts
+                    if merge_key in team_players:
+                        existing = team_players[merge_key]
+                        # Compare non-empty values and report conflicts
+                        for field in ['age', 'weight', 'height', 'yrs_played', 'plyr_college',
+                                    'plyr_birthdate', 'plyr_avg_value', 'plyr_draft_tm',
+                                    'plyr_draft_rd', 'plyr_draft_pick', 'plyr_draft_yr',
+                                    'gm_played', 'gm_started']:
+                            new_val = row.get(field.replace('plyr_', '').replace('_', ' ').title().replace(' ', ''), '')
+                            if field == 'plyr_college':
+                                new_val = row.get('College/Univ', '')
+                            elif field == 'plyr_birthdate':
+                                new_val = row.get('BirthDate', '')
+                            elif field == 'plyr_avg_value':
+                                new_val = row.get('AV', '')
+                            elif field == 'plyr_draft_tm':
+                                new_val = draft_team
+                            elif field == 'plyr_draft_rd':
+                                new_val = draft_round
+                            elif field == 'plyr_draft_pick':
+                                new_val = draft_pick
+                            elif field == 'plyr_draft_yr':
+                                new_val = draft_year
+                            elif field == 'gm_played':
+                                new_val = row.get('G', '')
+                            elif field == 'gm_started':
+                                new_val = row.get('GS', '')
+                            elif field == 'age':
+                                new_val = row['Age']
+                            elif field == 'weight':
+                                new_val = row['Wt']
+                            elif field == 'height':
+                                new_val = row['Ht']
+                            elif field == 'yrs_played':
+                                new_val = row['Yrs']
+
+                            # Use new value if existing is empty, otherwise keep existing
+                            if not existing[field] and new_val:
+                                existing[field] = new_val
+                            elif existing[field] and new_val and existing[field] != new_val:
+                                print(f"  Warning: Conflicting {field} for {original_name} ({team_name}): '{existing[field]}' vs '{new_val}'")
+                    else:
+                        # New player for this team
+                        team_players[merge_key] = {
+                            'team_name': team_name,
+                            'plyr_name': original_name,
+                            'pos': standardized_pos,
+                            'age': row['Age'],
+                            'weight': row['Wt'],
+                            'height': row['Ht'],
+                            'yrs_played': row['Yrs'],
+                            'plyr_college': row.get('College/Univ', ''),
+                            'plyr_birthdate': row.get('BirthDate', ''),
+                            'plyr_avg_value': row.get('AV', ''),
+                            'plyr_draft_tm': draft_team,
+                            'plyr_draft_rd': draft_round,
+                            'plyr_draft_pick': draft_pick,
+                            'plyr_draft_yr': draft_year,
+                            'gm_played': row.get('G', ''),
+                            'gm_started': row.get('GS', ''),
+                            'cleaned_names': cleaned_names
+                        }
+
+        # Add merged team players to final players_data with all name variations
+        for (name_key, pos), player_info in team_players.items():
+            # Create entries for all name variations
+            for cleaned_name in player_info.get('cleaned_names', [player_info['plyr_name']]):
+                player_key = (team_name, cleaned_name, player_info['pos'])
+                # Remove the temporary cleaned_names field before storing
+                final_player_info = {k: v for k, v in player_info.items() if k != 'cleaned_names'}
+                players_data[player_key] = final_player_info
+
+
+    # Print merge summary if duplicates were found
+    duplicate_teams = [team for team, files in team_files.items() if len(files) > 1]
+    if duplicate_teams:
+        print(f"\nMerged {sum(len(f) for f in team_files.values())} total files into {len(team_files)} unique team rosters")
+        print(f"Teams with duplicate files merged: {', '.join(duplicate_teams)}")
+
     return players_data
 
 def process_snap_count_files():
@@ -285,8 +421,9 @@ def process_snap_count_files():
                     position = row[pos_col_idx]
                     team_name = row[team_col_idx]
                     week = int(float(row[week_col_idx]))
-                    
+
                     cleaned_names = clean_player_name(original_name)
+
                     
                     # Use the first cleaned name variation for the data storage
                     main_key = (standardize_team_name(team_name), cleaned_names[0], standardize_position(position))
@@ -309,26 +446,28 @@ def process_snap_count_files():
     
     return result
 
-def merge_player_data(snap_count_data, roster_data):
+def merge_player_data(snap_count_data, roster_data, age_cache):
     merged_data = []
     unmatched_players = []
-    
+
     print(f"\nTotal players in snap count data: {len(snap_count_data)}")
 
     # First pass - try matching with name, team, and position
     for player in snap_count_data:
         matched = False
+
         for cleaned_name in player['cleaned_names']:
             player_key = (player['team_name'], cleaned_name, player['pos'])
+
             if player_key in roster_data:
                 # Found exact match with name, team, and position
                 roster_info = roster_data[player_key]
-                merged_player = create_merged_player(player, roster_info)
+                merged_player = create_merged_player(player, roster_info, age_cache)
                 merged_data.append(merged_player)
                 matched = True
                 print(f"Exact match found: {player['plyr_name']} - {player['team_name']} - {player['pos']}")
                 break
-        
+
         if not matched:
             unmatched_players.append(player)
             print(f"No exact match found: {player['plyr_name']} - {player['team_name']} - {player['pos']}")
@@ -357,7 +496,7 @@ def merge_player_data(snap_count_data, roster_data):
 
         if len(potential_matches) == 1:
             # Single match found
-            merged_player = create_merged_player(unmatched_player, potential_matches[0])
+            merged_player = create_merged_player(unmatched_player, potential_matches[0], age_cache)
             second_pass_matches.append(merged_player)
             print(f"Single team/name match found: {unmatched_player['plyr_name']} - {unmatched_player['team_name']}")
         
@@ -392,7 +531,7 @@ def merge_player_data(snap_count_data, roster_data):
                     print("Invalid input. Please enter a number.")
 
             if choice > 0:
-                merged_player = create_merged_player(unmatched_player, potential_matches[choice - 1])
+                merged_player = create_merged_player(unmatched_player, potential_matches[choice - 1], age_cache)
                 second_pass_matches.append(merged_player)
             else:
                 still_unmatched.append(unmatched_player)
@@ -410,14 +549,19 @@ def merge_player_data(snap_count_data, roster_data):
 
     return merged_data, still_unmatched  # Return both matched and unmatched players
 
-def create_merged_player(snap_count_player, roster_info):
+def create_merged_player(snap_count_player, roster_info, age_cache):
     """Helper function to create a merged player record"""
-    return {
+    # Get the age, prompting if necessary
+    age = clean_to_int(roster_info['age'])
+    if not age:  # Age is missing or empty
+        age = get_player_age(roster_info['plyr_name'], snap_count_player['team_name'], age_cache)
+
+    result = {
         'plyr_name': roster_info['plyr_name'],  # Always use roster name for matched players
         'team_name': snap_count_player['team_name'],
         'pos': roster_info['pos'],  # Always use roster position for matched players
         'weeks': snap_count_player['weeks'],
-        'age': clean_to_int(roster_info['age']),
+        'age': age,  # Use the age we got (either from roster or from prompt)
         'weight': clean_to_int(roster_info['weight']),
         'height': roster_info['height'],
         'yrs_played': clean_to_int(roster_info['yrs_played']),
@@ -431,6 +575,8 @@ def create_merged_player(snap_count_player, roster_info):
         'gm_played': clean_to_int(roster_info['gm_played']),
         'gm_started': clean_to_int(roster_info['gm_started'])
     }
+
+    return result
 
 def convert_weeks_to_set(weeks_str):
     """Convert comma-separated string of weeks to a set of integers"""
@@ -545,9 +691,26 @@ def create_output_file(players_data):
     with open(output_file_path, 'w', newline='') as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
-        
+
         for player in players_data:
-            if player.get('age'):  # Player has attributes
+            # Check if player has attributes by checking for any roster-derived fields
+            has_attributes = any([
+                player.get('weight'),
+                player.get('height'),
+                player.get('yrs_played'),
+                player.get('plyr_college'),
+                player.get('plyr_birthdate'),
+                player.get('plyr_avg_value'),
+                player.get('plyr_draft_tm'),
+                player.get('plyr_draft_rd'),
+                player.get('plyr_draft_pick'),
+                player.get('plyr_draft_yr'),
+                player.get('gm_played'),
+                player.get('gm_started'),
+                player.get('age')  # Include age but don't rely on it alone
+            ])
+
+            if has_attributes:  # Player has attributes
                 # Create a new dict with only the fields we want
                 row = {field: player.get(field, '') for field in fieldnames}
                 writer.writerow(row)
@@ -573,8 +736,14 @@ def create_output_file(players_data):
                 }
                 writer.writerow(row)
 
-    matched_count = sum(1 for p in players_data if p.get('age'))
-    unmatched_count = sum(1 for p in players_data if not p.get('age'))
+    # Count players with and without attributes using the same logic as above
+    matched_count = sum(1 for p in players_data if any([
+        p.get('weight'), p.get('height'), p.get('yrs_played'),
+        p.get('plyr_college'), p.get('plyr_birthdate'), p.get('plyr_avg_value'),
+        p.get('plyr_draft_tm'), p.get('plyr_draft_rd'), p.get('plyr_draft_pick'),
+        p.get('plyr_draft_yr'), p.get('gm_played'), p.get('gm_started'), p.get('age')
+    ]))
+    unmatched_count = len(players_data) - matched_count
     
     print(f"\nOutput file created: {output_file_path}")
     print(f"Total players: {len(players_data)}")
@@ -583,10 +752,14 @@ def create_output_file(players_data):
 
 
 def main():
+    # Load age cache
+    age_cache = load_age_cache()
+    print(f"Loaded age cache with {len(age_cache)} entries")
+
     snap_count_data = process_snap_count_files()
     roster_data = process_team_roster_files()
-    
-    merged_data, unmatched_players = merge_player_data(snap_count_data, roster_data)
+
+    merged_data, unmatched_players = merge_player_data(snap_count_data, roster_data, age_cache)
     
     # Combine matched and unmatched players for multi-team matching
     all_players = merged_data + unmatched_players
