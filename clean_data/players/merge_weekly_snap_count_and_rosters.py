@@ -146,19 +146,31 @@ def clean_to_int(value):
 def clean_player_name(player_name):
     """
     Cleans player names by:
-    1. Handling character encoding issues
-    2. Removing text in parentheses
-    3. Handling first name variations
-    4. Removing generational/patronymic suffixes
-    5. Removing periods
-    6. Converting to lowercase for matching
-    7. Handling hyphenated names
-    8. Stripping whitespace
-    """
-    # Handle character encoding issues
-    player_name = player_name.replace('PiÃ±eiro', 'Pineiro')
+    1. Detecting and handling IR status
+    2. Handling character encoding issues
+    3. Removing text in parentheses (except IR)
+    4. Handling first name variations
+    5. Removing generational/patronymic suffixes
+    6. Removing periods
+    7. Converting to lowercase for matching
+    8. Handling hyphenated names
+    9. Stripping whitespace
 
-    # Remove text within parentheses
+    Returns: (list of cleaned names, is_on_ir)
+    """
+    # Check for IR status before any other processing
+    ir_variations = ['(IR)', '(PRA_)', '(NON)', '(IRD)', '(PUP)', '(SUS)', '(EXE)']
+    is_on_ir = 1 if any(ir_tag in player_name for ir_tag in ir_variations) else 0
+
+    # Remove IR variations from name if present
+    for ir_tag in ir_variations:
+        if ir_tag in player_name:
+            player_name = player_name.replace(ir_tag, '').strip()
+
+    # Handle character encoding issues
+    player_name = player_name.replace('Piñeiro', 'Pineiro')
+
+    # Remove text within parentheses (other than IR which was already handled)
     paren_index = player_name.find('(')
     if paren_index != -1:
         player_name = player_name[:paren_index]
@@ -222,15 +234,15 @@ def clean_player_name(player_name):
                 else:
                     final_variations.append(variant)
             
-            return list(set(final_variations))  # Remove any duplicates
-        
+            return (list(set(final_variations)), is_on_ir)  # Remove any duplicates
+
     # If no first name variations, proceed with original logic
     # Remove suffixes
     suffixes = [' ii', ' iii', ' iv', ' v', ' jr', ' sr', ' jr.', ' sr.']
     for suffix in suffixes:
         if player_name.endswith(suffix):
             player_name = player_name[:-len(suffix)]
-    
+
     # Handle hyphenated names
     if '-' in player_name:
         names = player_name.split()
@@ -242,9 +254,9 @@ def clean_player_name(player_name):
                     ' '.join(names[:i] + [parts[1]] + names[i+1:]),  # Second part
                     ' '.join(names[:i] + [f"{parts[0]}-{parts[1]}"] + names[i+1:])  # Original hyphenated
                 ]
-                return [var.strip() for var in variations]
-    
-    return [player_name.strip()]
+                return ([var.strip() for var in variations], is_on_ir)
+
+    return ([player_name.strip()], is_on_ir)
 
 def process_team_roster_files():
     # First, group files by team to detect duplicates
@@ -282,10 +294,19 @@ def process_team_roster_files():
                         continue
 
                     original_name = row['Player']
-                    cleaned_names = clean_player_name(row['Player'])
+                    cleaned_names, is_on_ir = clean_player_name(row['Player'])
                     position = row['Pos']
                     standardized_pos = standardize_position(position)
 
+                    # Strip IR variations from the name for storage
+                    display_name = original_name
+                    for ir_tag in ['(IR)', '(PRA_)', '(NON)', '(IRD)', '(PUP)', '(SUS)', '(EXE)']:
+                        display_name = display_name.replace(ir_tag, '')
+                    display_name = display_name.strip()
+
+                    # Debug: Print when we detect IR
+                    if is_on_ir == 1:
+                        print(f"IR player detected in roster: {original_name} -> {display_name}")
 
                     # The cleaned files have separate draft columns (original format)
                     draft_team = row.get('Draft Team', '')
@@ -293,8 +314,8 @@ def process_team_roster_files():
                     draft_pick = row.get('Draft Pick', '')
                     draft_year = row.get('Draft Year', '')
 
-                    # Use original name and position as key for merging within team
-                    merge_key = (original_name.lower(), standardized_pos)
+                    # Use display name (without IR) and position as key for merging within team
+                    merge_key = (display_name.lower(), standardized_pos)
 
                     # If player already exists in this team's data, check for conflicts
                     if merge_key in team_players:
@@ -303,7 +324,7 @@ def process_team_roster_files():
                         for field in ['age', 'weight', 'height', 'yrs_played', 'plyr_college',
                                     'plyr_birthdate', 'plyr_avg_value', 'plyr_draft_tm',
                                     'plyr_draft_rd', 'plyr_draft_pick', 'plyr_draft_yr',
-                                    'gm_played', 'gm_started']:
+                                    'gm_played', 'gm_started', 'is_on_ir']:
                             new_val = row.get(field.replace('plyr_', '').replace('_', ' ').title().replace(' ', ''), '')
                             if field == 'plyr_college':
                                 new_val = row.get('College/Univ', '')
@@ -331,17 +352,27 @@ def process_team_roster_files():
                                 new_val = row['Ht']
                             elif field == 'yrs_played':
                                 new_val = row['Yrs']
+                            elif field == 'is_on_ir':
+                                new_val = is_on_ir
 
                             # Use new value if existing is empty, otherwise keep existing
-                            if not existing[field] and new_val:
-                                existing[field] = new_val
-                            elif existing[field] and new_val and existing[field] != new_val:
-                                print(f"  Warning: Conflicting {field} for {original_name} ({team_name}): '{existing[field]}' vs '{new_val}'")
+                            # Special handling for is_on_ir since 0 is a valid value
+                            if field == 'is_on_ir':
+                                if 'is_on_ir' not in existing or existing[field] == '':
+                                    existing[field] = new_val
+                                else:
+                                    # Use max to prefer 1 over 0 (if player has IR in any file, keep it as 1)
+                                    existing[field] = max(existing[field], new_val)
+                            else:
+                                if not existing[field] and new_val:
+                                    existing[field] = new_val
+                                elif existing[field] and new_val and existing[field] != new_val:
+                                    print(f"  Warning: Conflicting {field} for {display_name} ({team_name}): '{existing[field]}' vs '{new_val}'")
                     else:
                         # New player for this team
                         team_players[merge_key] = {
                             'team_name': team_name,
-                            'plyr_name': original_name,
+                            'plyr_name': display_name,
                             'pos': standardized_pos,
                             'age': row['Age'],
                             'weight': row['Wt'],
@@ -356,7 +387,8 @@ def process_team_roster_files():
                             'plyr_draft_yr': draft_year,
                             'gm_played': row.get('G', ''),
                             'gm_started': row.get('GS', ''),
-                            'cleaned_names': cleaned_names
+                            'cleaned_names': cleaned_names,
+                            'is_on_ir': is_on_ir
                         }
 
         # Add merged team players to final players_data with all name variations
@@ -374,6 +406,10 @@ def process_team_roster_files():
     if duplicate_teams:
         print(f"\nMerged {sum(len(f) for f in team_files.values())} total files into {len(team_files)} unique team rosters")
         print(f"Teams with duplicate files merged: {', '.join(duplicate_teams)}")
+
+    # Debug: Count players with is_on_ir = 1 in roster data
+    ir_count = sum(1 for player_info in players_data.values() if player_info.get('is_on_ir') == 1)
+    print(f"\nRoster processing complete. Players with is_on_ir=1: {ir_count} out of {len(players_data)}")
 
     return players_data
 
@@ -426,15 +462,20 @@ def process_snap_count_files():
                     team_name = row[team_col_idx]
                     week = int(float(row[week_col_idx]))
 
-                    cleaned_names = clean_player_name(original_name)
+                    cleaned_names, is_on_ir = clean_player_name(original_name)
 
-                    
+                    # Strip IR variations from the name for storage
+                    display_name = original_name
+                    for ir_tag in ['(IR)', '(PRA_)', '(NON)', '(IRD)', '(PUP)', '(SUS)', '(EXE)']:
+                        display_name = display_name.replace(ir_tag, '')
+                    display_name = display_name.strip()
+
                     # Use the first cleaned name variation for the data storage
                     main_key = (standardize_team_name(team_name), cleaned_names[0], standardize_position(position))
-                    
+
                     players_data[main_key]['weeks'].add(week)
                     players_data[main_key]['team_name'] = standardize_team_name(team_name)
-                    players_data[main_key]['plyr_name'] = original_name
+                    players_data[main_key]['plyr_name'] = display_name
                     players_data[main_key]['pos'] = standardize_position(position)
                     players_data[main_key]['cleaned_names'] = cleaned_names  # Store all variations for matching
     
@@ -447,12 +488,13 @@ def process_snap_count_files():
             'weeks': ','.join(map(str, sorted(player_info['weeks']))),
             'cleaned_names': player_info['cleaned_names']
         })
-    
+
     return result
 
 def merge_player_data(snap_count_data, roster_data, age_cache):
     merged_data = []
     unmatched_players = []
+    matched_roster_keys = set()
 
     print(f"\nTotal players in snap count data: {len(snap_count_data)}")
 
@@ -469,6 +511,7 @@ def merge_player_data(snap_count_data, roster_data, age_cache):
                 merged_player = create_merged_player(player, roster_info, age_cache)
                 merged_data.append(merged_player)
                 matched = True
+                matched_roster_keys.add(player_key)
                 print(f"Exact match found: {player['plyr_name']} - {player['team_name']} - {player['pos']}")
                 break
 
@@ -535,8 +578,15 @@ def merge_player_data(snap_count_data, roster_data, age_cache):
                     print("Invalid input. Please enter a number.")
 
             if choice > 0:
-                merged_player = create_merged_player(unmatched_player, potential_matches[choice - 1], age_cache)
+                selected_match = potential_matches[choice - 1]
+                merged_player = create_merged_player(unmatched_player, selected_match, age_cache)
                 second_pass_matches.append(merged_player)
+                # Track matched roster key
+                for key, roster_info in roster_data.items():
+                    if (roster_info['plyr_name'] == selected_match['plyr_name'] and
+                        roster_info['team_name'] == selected_match['team_name'] and
+                        roster_info['pos'] == selected_match['pos']):
+                        matched_roster_keys.add(key)
             else:
                 still_unmatched.append(unmatched_player)
         else:
@@ -544,27 +594,27 @@ def merge_player_data(snap_count_data, roster_data, age_cache):
             print(f"No team/name match found: {unmatched_player['plyr_name']} - {unmatched_player['team_name']}")
 
     merged_data.extend(second_pass_matches)
-    
+
     print(f"\nFinal matching results:")
     print(f"Total players in snap count data: {len(snap_count_data)}")
     print(f"Players matched in first pass: {len(merged_data) - len(second_pass_matches)}")
     print(f"Players matched in second pass: {len(second_pass_matches)}")
     print(f"Unmatched players remaining: {len(still_unmatched)}")
 
-    return merged_data, still_unmatched  # Return both matched and unmatched players
+    return merged_data, still_unmatched, matched_roster_keys
 
 def create_merged_player(snap_count_player, roster_info, age_cache):
     """Helper function to create a merged player record"""
     # Get the age, prompting if necessary
     age = clean_to_int(roster_info['age'])
     if not age:  # Age is missing or empty
-        age = get_player_age(roster_info['plyr_name'], snap_count_player['team_name'], age_cache)
+        age = get_player_age(roster_info['plyr_name'], snap_count_player.get('team_name', roster_info['team_name']), age_cache)
 
     result = {
         'plyr_name': roster_info['plyr_name'],  # Always use roster name for matched players
-        'team_name': snap_count_player['team_name'],
+        'team_name': snap_count_player.get('team_name', roster_info['team_name']),
         'pos': roster_info['pos'],  # Always use roster position for matched players
-        'weeks': snap_count_player['weeks'],
+        'weeks': snap_count_player.get('weeks', ''),
         'age': age,  # Use the age we got (either from roster or from prompt)
         'weight': clean_to_int(roster_info['weight']),
         'height': roster_info['height'],
@@ -577,7 +627,8 @@ def create_merged_player(snap_count_player, roster_info, age_cache):
         'plyr_draft_pick': clean_to_int(roster_info['plyr_draft_pick']),
         'plyr_draft_yr': clean_to_int(roster_info['plyr_draft_yr']),
         'gm_played': clean_to_int(roster_info['gm_played']),
-        'gm_started': clean_to_int(roster_info['gm_started'])
+        'gm_started': clean_to_int(roster_info['gm_started']),
+        'is_on_ir': roster_info.get('is_on_ir', 0)  # Use IR status from roster data (where it actually exists)
     }
 
     return result
@@ -619,8 +670,8 @@ def find_multi_team_matches(players_data):
             matched_source = potential_matches[0]
             
             # Copy all attributes except name, team, position, and weeks
-            for field in ['age', 'weight', 'height', 'yrs_played', 'plyr_college', 
-                         'plyr_birthdate', 'plyr_avg_value', 'plyr_draft_tm', 'plyr_draft_rd', 
+            for field in ['age', 'weight', 'height', 'yrs_played', 'plyr_college',
+                         'plyr_birthdate', 'plyr_avg_value', 'plyr_draft_tm', 'plyr_draft_rd',
                          'plyr_draft_pick', 'plyr_draft_yr', 'gm_played', 'gm_started']:
                 updated_player[field] = matched_source[field]
             
@@ -666,8 +717,8 @@ def find_multi_team_matches(players_data):
                 updated_player = unmatched.copy()
                 matched_source = potential_matches[choice - 1]
                 
-                for field in ['age', 'weight', 'height', 'yrs_played', 'plyr_college', 
-                             'plyr_birthdate', 'plyr_avg_value', 'plyr_draft_tm', 'plyr_draft_rd', 
+                for field in ['age', 'weight', 'height', 'yrs_played', 'plyr_college',
+                             'plyr_birthdate', 'plyr_avg_value', 'plyr_draft_tm', 'plyr_draft_rd',
                              'plyr_draft_pick', 'plyr_draft_yr', 'gm_played', 'gm_started']:
                     updated_player[field] = matched_source[field]
                 
@@ -686,10 +737,10 @@ def create_output_file(players_data):
     output_file_path = os.path.join(OUTPUT_DIR, output_file_name)
 
     fieldnames = [
-        'plyr_name', 'team_name', 'pos', 'weeks', 'age', 
-        'weight', 'height', 'yrs_played', 'plyr_college', 
-        'plyr_birthdate', 'plyr_avg_value', 'plyr_draft_tm', 'plyr_draft_rd', 
-        'plyr_draft_pick', 'plyr_draft_yr', 'gm_played', 'gm_started'
+        'plyr_name', 'team_name', 'pos', 'weeks', 'age',
+        'weight', 'height', 'yrs_played', 'plyr_college',
+        'plyr_birthdate', 'plyr_avg_value', 'plyr_draft_tm', 'plyr_draft_rd',
+        'plyr_draft_pick', 'plyr_draft_yr', 'gm_played', 'gm_started', 'is_on_ir'
     ]
 
     with open(output_file_path, 'w', newline='') as f:
@@ -716,7 +767,12 @@ def create_output_file(players_data):
 
             if has_attributes:  # Player has attributes
                 # Create a new dict with only the fields we want
-                row = {field: player.get(field, '') for field in fieldnames}
+                row = {}
+                for field in fieldnames:
+                    if field == 'is_on_ir':
+                        row[field] = player.get(field, 0)
+                    else:
+                        row[field] = player.get(field, '')
                 writer.writerow(row)
             else:  # Player doesn't have attributes
                 row = {
@@ -736,7 +792,8 @@ def create_output_file(players_data):
                     'plyr_draft_pick': '',
                     'plyr_draft_yr': '',
                     'gm_played': '',
-                    'gm_started': ''
+                    'gm_started': '',
+                    'is_on_ir': player.get('is_on_ir', 0)
                 }
                 writer.writerow(row)
 
@@ -763,17 +820,34 @@ def main():
     snap_count_data = process_snap_count_files()
     roster_data = process_team_roster_files()
 
-    merged_data, unmatched_players = merge_player_data(snap_count_data, roster_data, age_cache)
-    
+    merged_data, unmatched_players, matched_roster_keys = merge_player_data(snap_count_data, roster_data, age_cache)
+
     # Combine matched and unmatched players for multi-team matching
     all_players = merged_data + unmatched_players
-    
+
     # Find and process multi-team matches
     final_data, final_unmatched = find_multi_team_matches(all_players)
-    
+
     # Add remaining unmatched players to final_data before creating output
     final_data.extend(final_unmatched)
-    
+
+    # Add roster-only players (players in roster but not in snap counts)
+    roster_only_players = []
+    seen_roster_players = set()
+
+    for key, roster_info in roster_data.items():
+        if key not in matched_roster_keys:
+            # Create unique identifier to avoid duplicates from name variations
+            player_id = (roster_info['plyr_name'], roster_info['team_name'], roster_info['pos'])
+            if player_id not in seen_roster_players:
+                seen_roster_players.add(player_id)
+                # Create player entry with empty weeks
+                roster_only_player = create_merged_player({'weeks': ''}, roster_info, age_cache)
+                roster_only_players.append(roster_only_player)
+
+    print(f"\nRoster-only players (no snap counts): {len(roster_only_players)}")
+    final_data.extend(roster_only_players)
+
     # Create final output file with ALL players
     create_output_file(final_data)
 

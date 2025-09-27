@@ -168,8 +168,11 @@ def find_player_matches(cleaned_name, active_players):
     """Find all potential matches for a player name"""
     matches = {}
     for active_name, player_id in active_players.items():
-        if len(player_id) >= 7 and cleaned_name == active_name:
-            matches[player_id] = active_name
+        try:
+            if int(player_id) >= 8439 and cleaned_name == active_name:
+                matches[player_id] = active_name
+        except (ValueError, TypeError):
+            continue
     return matches
 
 def process_player_matches(row, matches, active_players_data):
@@ -233,9 +236,12 @@ def main():
     with open(active_players_file, 'r', newline='', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
-            if len(row['player_id']) >= 7:
-                active_players[clean_player_name(row['display_name'])] = row['player_id']
-                active_players_data.append(row)
+            try:
+                if int(row['player_id']) >= 8439:
+                    active_players[clean_player_name(row['display_name'])] = row['player_id']
+                    active_players_data.append(row)
+            except (ValueError, TypeError):
+                continue
 
     updates = {}
     with open(output_file, 'r', newline='', encoding='utf-8') as f:
@@ -280,6 +286,16 @@ def main():
                         'plyr_birthdate': birthdate,
                         'plyr_college': college
                     }
+                else:
+                    key = (cleaned_name, row['team_name'])
+                    updates[key] = {
+                        'plyr_draft_tm': 'Undrafted Free Agent'
+                    }
+            else:
+                key = (cleaned_name, row['team_name'])
+                updates[key] = {
+                    'plyr_draft_tm': 'Undrafted Free Agent'
+                }
 
     if updates:
         print(f"\nUpdating {len(updates)} players in output file...")

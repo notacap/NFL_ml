@@ -95,7 +95,8 @@ def process_players(players, multi_team_players):
             # Use the summed up values for gm_played and gm_started
             processed_player['gm_played'] = str(total_gm_played)
             processed_player['gm_started'] = str(total_gm_started)
-            
+            processed_player['is_on_ir'] = processed_player.get('is_on_ir', '')
+
             # Add new columns from the updated CSV structure
             processed_player['plyr_college'] = processed_player.get('plyr_college', '')
             processed_player['plyr_birthdate'] = processed_player.get('plyr_birthdate', '')
@@ -135,6 +136,7 @@ def process_players(players, multi_team_players):
             processed_player['former_team_first_week'] = ''
             processed_player['first_team_last_week'] = ''
             # Ensure new columns are included for single-team players
+            processed_player['is_on_ir'] = processed_player.get('is_on_ir', '')
             processed_player['plyr_college'] = processed_player.get('plyr_college', '')
             processed_player['plyr_birthdate'] = processed_player.get('plyr_birthdate', '')
             processed_player['plyr_avg_value'] = processed_player.get('plyr_avg_value', '')
@@ -155,10 +157,10 @@ def write_output_csv(processed_players):
     timestamp = datetime.now().strftime("%Y%m%d_%H%M")
     output_file = os.path.join(OUTPUT_DIR, f"cleaned_players_{timestamp}.csv")
     
-    fieldnames = ['plyr_name', 'current_team', 'pos', 'age', 'gm_played', 'gm_started', 
-                  'weight', 'height', 'yrs_played', 'plyr_college', 'plyr_birthdate', 'plyr_avg_value', 
-                  'plyr_draft_tm', 'plyr_draft_rd', 'plyr_draft_pick', 'plyr_draft_yr', 'former_team', 
-                  'first_team', 'current_team_week', 'former_team_last_week', 'former_team_first_week', 
+    fieldnames = ['plyr_name', 'current_team', 'pos', 'age', 'gm_played', 'gm_started', 'is_on_ir',
+                  'weight', 'height', 'yrs_played', 'plyr_college', 'plyr_birthdate', 'plyr_avg_value',
+                  'plyr_draft_tm', 'plyr_draft_rd', 'plyr_draft_pick', 'plyr_draft_yr', 'former_team',
+                  'first_team', 'current_team_week', 'former_team_last_week', 'former_team_first_week',
                   'first_team_last_week', 'weeks']
     
     with open(output_file, 'w', newline='') as csvfile:
