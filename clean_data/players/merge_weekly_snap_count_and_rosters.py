@@ -146,14 +146,18 @@ def clean_to_int(value):
 def clean_player_name(player_name):
     """
     Cleans player names by:
-    1. Removing text in parentheses
-    2. Handling first name variations
-    3. Removing generational/patronymic suffixes
-    4. Removing periods
-    5. Converting to lowercase for matching
-    6. Handling hyphenated names
-    7. Stripping whitespace
+    1. Handling character encoding issues
+    2. Removing text in parentheses
+    3. Handling first name variations
+    4. Removing generational/patronymic suffixes
+    5. Removing periods
+    6. Converting to lowercase for matching
+    7. Handling hyphenated names
+    8. Stripping whitespace
     """
+    # Handle character encoding issues
+    player_name = player_name.replace('PiÃ±eiro', 'Pineiro')
+
     # Remove text within parentheses
     paren_index = player_name.find('(')
     if paren_index != -1:
@@ -772,19 +776,6 @@ def main():
     
     # Create final output file with ALL players
     create_output_file(final_data)
-    
-    # Create separate unmatched players file
-    if final_unmatched:
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M")
-        unmatched_file = os.path.join(OUTPUT_DIR, f"unmatched_players_{timestamp}.csv")
-        with open(unmatched_file, 'w', newline='') as f:
-            fieldnames = ['plyr_name', 'team_name', 'pos', 'weeks']
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
-            writer.writeheader()
-            for player in final_unmatched:
-                writer.writerow({k: player[k] for k in fieldnames})
-        print(f"\nFinal unmatched players saved to: {unmatched_file}")
-        print(f"Total unmatched players remaining: {len(final_unmatched)}")
 
 if __name__ == "__main__":
     main()

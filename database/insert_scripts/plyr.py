@@ -112,7 +112,7 @@ def preprocess_player_data(db: DatabaseConnector, df: pd.DataFrame) -> pd.DataFr
     # Map CSV columns to database columns
     column_mapping = {
         'plyr_name': 'plyr_name',
-        'current_team': 'current_team',  # Will be processed to team_id
+        'current_team': 'current_team',  
         'pos': 'plyr_pos',
         'age': 'plyr_age',
         'gm_played': 'plyr_gm_played',
@@ -121,7 +121,7 @@ def preprocess_player_data(db: DatabaseConnector, df: pd.DataFrame) -> pd.DataFr
         'height': 'plyr_height',
         'yrs_played': 'plyr_yrs_played',
         'plyr_college': 'plyr_college',
-        'plyr_birthdate': 'plyr_birthday',  # CSV has plyr_birthdate, DB expects plyr_birthday
+        'plyr_birthdate': 'plyr_birthday',
         'plyr_avg_value': 'plyr_avg_value',
         'plyr_draft_tm': 'plyr_draft_tm',
         'plyr_draft_rd': 'plyr_draft_rd',
@@ -166,18 +166,111 @@ def preprocess_player_data(db: DatabaseConnector, df: pd.DataFrame) -> pd.DataFr
     print(f"Preprocessed {len(df_processed)} player records")
     return df_processed
 
+def detect_player_conflicts(db: DatabaseConnector, df: pd.DataFrame) -> dict:
+    """Detect players with conflicting attributes (pos, weight, yrs_played)"""
+    conflicts = {}
+
+    for idx, row in df.iterrows():
+        player_name = row.get('plyr_name')
+        season_id = row.get('season_id')
+
+        if not player_name or not season_id:
+            continue
+
+        # Check if player exists with same name and season
+        query = """
+            SELECT plyr_pos, plyr_weight, plyr_yrs_played
+            FROM plyr
+            WHERE plyr_name = %s AND season_id = %s
+        """
+        existing = db.fetch_all(query, (player_name, season_id))
+
+        if existing:
+            existing_pos, existing_weight, existing_yrs = existing[0]
+            new_pos = row.get('plyr_pos')
+            new_weight = row.get('plyr_weight')
+            new_yrs = row.get('plyr_yrs_played')
+
+            # Check for differences (handling None values)
+            differences = []
+            if new_pos and existing_pos != new_pos:
+                differences.append(('plyr_pos', existing_pos, new_pos))
+            if new_weight and existing_weight != new_weight:
+                differences.append(('plyr_weight', existing_weight, new_weight))
+            if new_yrs is not None and existing_yrs != new_yrs:
+                differences.append(('plyr_yrs_played', existing_yrs, new_yrs))
+
+            if differences:
+                conflicts[player_name] = {
+                    'existing': {'pos': existing_pos, 'weight': existing_weight, 'yrs': existing_yrs},
+                    'new': {'pos': new_pos, 'weight': new_weight, 'yrs': new_yrs},
+                    'differences': differences,
+                    'row_index': idx
+                }
+
+    return conflicts
+
+def handle_player_conflict(player_name: str, conflict_info: dict) -> str:
+    """Prompt user to decide how to handle a player conflict"""
+    print(f"\n⚠️  Conflict detected for player: {player_name}")
+    print("Existing values in database:")
+    for field, old_val, new_val in conflict_info['differences']:
+        print(f"  {field}: {old_val} (DB) → {new_val} (CSV)")
+
+    while True:
+        print("\nHow should this be handled?")
+        print("  1. Update existing player with new values")
+        print("  2. Treat as new/different player (will fail due to unique constraint)")
+        print("  3. Skip this player")
+
+        choice = input("Enter choice (1/2/3): ").strip()
+
+        if choice == '1':
+            return 'update'
+        elif choice == '2':
+            return 'new'
+        elif choice == '3':
+            return 'skip'
+        else:
+            print("Invalid choice. Please enter 1, 2, or 3.")
+
 def insert_player_data(db: DatabaseConnector, df: pd.DataFrame) -> bool:
-    """Insert/Update player data into the plyr table using UPSERT"""
+    """Insert/Update player data into the plyr table with conflict detection"""
     print("Processing player data (inserting new/updating existing)...")
-    
+
+    # First detect any conflicts
+    conflicts = detect_player_conflicts(db, df)
+
+    if conflicts:
+        print(f"\n Found {len(conflicts)} players with attribute changes")
+
+        # Handle each conflict
+        rows_to_skip = []
+        for player_name, conflict_info in conflicts.items():
+            action = handle_player_conflict(player_name, conflict_info)
+
+            if action == 'skip':
+                rows_to_skip.append(conflict_info['row_index'])
+            elif action == 'update':
+                # For update, we'll let the upsert handle it (default behavior)
+                pass
+            elif action == 'new':
+                # For new player, let it attempt to insert (will fail due to unique constraint)
+                print(f"Warning: Treating as new player may fail due to unique constraint")
+
+        # Remove skipped rows
+        if rows_to_skip:
+            df = df.drop(rows_to_skip)
+            print(f"Skipped {len(rows_to_skip)} players based on user choices")
+
     # Use batch upsert from db_utils
     success = batch_upsert_data(db, 'plyr', df, batch_size=500)
-    
+
     if success:
         print("Player data processed successfully")
     else:
         print("Failed to process player data")
-    
+
     return success
 
 def main():

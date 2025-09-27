@@ -6,8 +6,8 @@ import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from scraper_utils import YEAR, ROOT_DATA_DIR
 
-# Define output directory using project conventions
-OUTPUT_DIR = os.path.join(ROOT_DATA_DIR, str(YEAR), "all_active_players")
+# Define output directory using hardcoded path
+OUTPUT_DIR = r"C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\all_active_players"
 
 def fetch_active_players():
     # Make API request

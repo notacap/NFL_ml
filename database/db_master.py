@@ -19,10 +19,15 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 # Scripts to exclude from execution
 EXCLUSIONS = [
     'nfl_season.py',
-    'nfl_team.py', 
+    'nfl_team.py',
     'nfl_game_weather.py',
     'nfl_gm_quarter.py',
     'nfl_week.py'
+]
+
+# Scripts that require interactive user input
+INTERACTIVE_SCRIPTS = [
+    'plyr.py'
 ]
 
 # Priority scripts that must run first, in order
@@ -40,33 +45,52 @@ def log_message(level: str, message: str):
 def run_script(script_path: str) -> Tuple[bool, str]:
     """
     Execute a Python script and return success status and output.
-    
+
     Args:
         script_path: Path to the Python script to execute
-        
+
     Returns:
         Tuple of (success: bool, output: str)
     """
     script_name = os.path.basename(script_path)
     log_message("INFO", f"Running {script_name}...")
-    
+
+    # Check if this script requires interactive input
+    is_interactive = script_name in INTERACTIVE_SCRIPTS
+
     try:
-        result = subprocess.run(
-            [sys.executable, script_path],
-            capture_output=True,
-            text=True,
-            timeout=600  # 10 minute timeout per script
-        )
-        
-        if result.returncode == 0:
-            log_message("SUCCESS", f"{script_name} completed successfully")
-            return True, result.stdout
+        if is_interactive:
+            # For interactive scripts, don't capture output so user prompts work
+            log_message("INFO", f"{script_name} requires user interaction - running in interactive mode")
+            result = subprocess.run(
+                [sys.executable, script_path],
+                timeout=600  # 10 minute timeout per script
+            )
+
+            if result.returncode == 0:
+                log_message("SUCCESS", f"{script_name} completed successfully")
+                return True, "Script completed successfully (interactive mode)"
+            else:
+                log_message("ERROR", f"{script_name} failed with return code {result.returncode}")
+                return False, f"Script failed with return code {result.returncode}"
         else:
-            log_message("ERROR", f"{script_name} failed with return code {result.returncode}")
-            if result.stderr:
-                print(f"Error output: {result.stderr}")
-            return False, result.stderr
-            
+            # For non-interactive scripts, capture output for logging
+            result = subprocess.run(
+                [sys.executable, script_path],
+                capture_output=True,
+                text=True,
+                timeout=600  # 10 minute timeout per script
+            )
+
+            if result.returncode == 0:
+                log_message("SUCCESS", f"{script_name} completed successfully")
+                return True, result.stdout
+            else:
+                log_message("ERROR", f"{script_name} failed with return code {result.returncode}")
+                if result.stderr:
+                    print(f"Error output: {result.stderr}")
+                return False, result.stderr
+
     except subprocess.TimeoutExpired:
         log_message("ERROR", f"{script_name} timed out after 10 minutes")
         return False, "Script execution timed out"
@@ -151,8 +175,14 @@ def main():
     log_message("INFO", "\nExecution Plan:")
     for i, script_path in enumerate(ordered_scripts, 1):
         script_name = os.path.basename(script_path)
+        tags = []
         if script_name in PRIORITY_SCRIPTS:
-            log_message("INFO", f"  {i}. {script_name} [PRIORITY]")
+            tags.append("PRIORITY")
+        if script_name in INTERACTIVE_SCRIPTS:
+            tags.append("INTERACTIVE")
+
+        if tags:
+            log_message("INFO", f"  {i}. {script_name} [{', '.join(tags)}]")
         else:
             log_message("INFO", f"  {i}. {script_name}")
     
