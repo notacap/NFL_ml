@@ -170,13 +170,31 @@ CREATE TABLE injury_report (
     team_id INT,
     game_id INT,
     week_id INT,
-    is_playing TINYINT,
+    was_active TINYINT,
+    is_active TINYINT,
+    practice_status VARCHAR(20),
+    game_status VARCHAR(20),
     FOREIGN KEY (season_id) REFERENCES nfl_season(season_id),
     FOREIGN KEY (plyr_id) REFERENCES plyr(plyr_id),
     FOREIGN KEY (game_id) REFERENCES nfl_game(game_id),
     FOREIGN KEY (team_id) REFERENCES nfl_team(team_id),
     FOREIGN KEY (week_id) REFERENCES nfl_week(week_id),
     UNIQUE KEY uk_plyr_season_game (plyr_id, game_id)
+);
+
+CREATE TABLE injured_reserve (
+    injury_report_id INT AUTO_INCREMENT PRIMARY KEY,
+    season_id INT,
+    plyr_id INT,
+    plyr_name VARCHAR(255) NOT NULL,
+    team_id INT,
+    week_id INT,
+    is_on_ir TINYINT,
+    FOREIGN KEY (season_id) REFERENCES nfl_season(season_id),
+    FOREIGN KEY (plyr_id) REFERENCES plyr(plyr_id),
+    FOREIGN KEY (team_id) REFERENCES nfl_team(team_id),
+    FOREIGN KEY (week_id) REFERENCES nfl_week(week_id),
+    UNIQUE KEY uk_plyr_season_game (plyr_id, season_id)
 );
 
 CREATE TABLE nfl_game_pbp (

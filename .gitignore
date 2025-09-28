@@ -2,6 +2,8 @@
 
 legacy/
 
+database/NUL
+
 # Files starting with 'prompt'
 prompt*
 

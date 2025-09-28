@@ -140,20 +140,23 @@ def process_csv_row(db_connector, row, season_id):
         return None
 
     # Get scores from Home Score and Away Score columns
+    # Allow null scores for unplayed games
     home_team_score = safe_int(row['Home Score'])
     away_team_score = safe_int(row['Away Score'])
 
+    # Determine game result - handle unplayed games
     if home_team_score is None or away_team_score is None:
-        log_message("ERROR", f"Invalid scores: Home={row['Home Score']}, Away={row['Away Score']}")
-        return None
-
-    # Determine game result
-    if home_team_score > away_team_score:
-        game_result = 'home_win'
-    elif home_team_score < away_team_score:
-        game_result = 'away_win'
+        # Game hasn't been played yet
+        game_result = None
+        log_message("INFO", f"Unplayed game: {home_team_name} vs {away_team_name}")
     else:
-        game_result = 'tie'
+        # Game has been played, determine result
+        if home_team_score > away_team_score:
+            game_result = 'home_win'
+        elif home_team_score < away_team_score:
+            game_result = 'away_win'
+        else:
+            game_result = 'tie'
 
     game_date = convert_date_format(row['Date'])
     if not game_date:

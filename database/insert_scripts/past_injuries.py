@@ -29,7 +29,10 @@ def create_injury_report_table(db: DatabaseConnector) -> bool:
         team_id INT,
         game_id INT,
         week_id INT,
-        is_playing TINYINT,
+        was_active TINYINT,
+        is_active TINYINT,
+        practice_status VARCHAR(20),
+        game_status VARCHAR(20),
         FOREIGN KEY (season_id) REFERENCES nfl_season(season_id),
         FOREIGN KEY (plyr_id) REFERENCES plyr(plyr_id),
         FOREIGN KEY (game_id) REFERENCES nfl_game(game_id),
@@ -164,7 +167,7 @@ def process_csv_row(db: DatabaseConnector, row, season_id, max_week):
                     'team_id': team_id,
                     'game_id': game_id,
                     'week_id': week_id,
-                    'is_playing': 1 if week in weeks_played else 0  # TINYINT: 1 = In, 0 = Out
+                    'was_active': 1 if week in weeks_played else 0  # TINYINT: 1 = Active, 0 = Not Active
                 })
             else:
                 print(f"Warning: No game found for {team_name} in week {week}")
@@ -181,13 +184,13 @@ def upsert_injury_data(db: DatabaseConnector, data_list):
         return 0, 0
     
     query = """
-    INSERT INTO injury_report (season_id, plyr_id, plyr_name, team_id, game_id, week_id, is_playing)
+    INSERT INTO injury_report (season_id, plyr_id, plyr_name, team_id, game_id, week_id, was_active)
     VALUES (%s, %s, %s, %s, %s, %s, %s)
     ON DUPLICATE KEY UPDATE
     plyr_name = VALUES(plyr_name),
     team_id = VALUES(team_id),
     game_id = VALUES(game_id),
-    is_playing = VALUES(is_playing)
+    was_active = VALUES(was_active)
     """
     
     # Convert data to tuples for batch insert
@@ -195,12 +198,12 @@ def upsert_injury_data(db: DatabaseConnector, data_list):
     for data in data_list:
         batch_data.append((
             data['season_id'],
-            data['plyr_id'], 
+            data['plyr_id'],
             data['plyr_name'],
             data['team_id'],
             data['game_id'],
             data['week_id'],
-            data['is_playing']
+            data['was_active']
         ))
     
     success, rows_affected = db.execute_many(query, batch_data)

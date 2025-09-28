@@ -35,7 +35,7 @@ YEAR = 2025
 # =============================================================================
 # WEEK NUMBER CONFIGURATION: Set the week number for directory structure
 # =============================================================================
-WEEK_NUMBER = 3
+WEEK_NUMBER = 4
 
 # =============================================================================
 # WEEK RANGE CONFIGURATION: Set the range of weeks for game-level scraping
