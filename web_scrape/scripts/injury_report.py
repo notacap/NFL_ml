@@ -55,6 +55,67 @@ TEAM_NAME_MAPPING = {
     'sfo': 'San_Francisco_49ers'
 }
 
+def scrape_team_injuries_with_dnp(driver, table_id):
+    """
+    Scrapes the team_injuries table and extracts DNP status from td class attributes.
+
+    Args:
+        driver: WebDriver instance
+        table_id (str): ID of the table element
+
+    Returns:
+        pd.DataFrame: DataFrame with injury status and playing_status_week_N columns
+    """
+    table = wait_for_table(driver, table_id, DEFAULT_TIMEOUT)
+
+    # Get the header row to determine column count and names
+    thead = table.find_element(By.TAG_NAME, "thead")
+    header_row = thead.find_elements(By.TAG_NAME, "tr")[-1]  # Get last header row
+    header_cells = header_row.find_elements(By.TAG_NAME, "th")
+
+    # Extract column names
+    columns = [cell.text.strip() for cell in header_cells]
+
+    # Get tbody rows
+    tbody = table.find_element(By.TAG_NAME, "tbody")
+    rows = tbody.find_elements(By.TAG_NAME, "tr")
+
+    # Filter out header rows (those with class containing 'thead')
+    data_rows = [row for row in rows if 'thead' not in (row.get_attribute('class') or '')]
+
+    # Build data structure
+    data = []
+    for row in data_rows:
+        row_data = []
+        dnp_statuses = []
+
+        # Get all cells (th and td)
+        cells = row.find_elements(By.TAG_NAME, "th") + row.find_elements(By.TAG_NAME, "td")
+
+        for i, cell in enumerate(cells):
+            cell_text = cell.text.strip()
+            row_data.append(cell_text)
+
+            # Check for DNP status in td elements (skip first column which is Player name)
+            if i > 0 and cell.tag_name == "td":
+                cell_class = cell.get_attribute("class") or ""
+                # Check if 'dnp' is in the class
+                has_dnp = 'dnp' in cell_class.split()
+                dnp_statuses.append(1 if has_dnp else 0)
+
+        # Combine row data with DNP statuses
+        data.append(row_data + dnp_statuses)
+
+    # Create column names for playing_status columns
+    num_week_columns = len(columns) - 1  # Exclude Player column
+    playing_status_columns = [f"playing_status_week_{i+1}" for i in range(num_week_columns)]
+
+    # Create DataFrame with all columns
+    all_columns = columns + playing_status_columns
+    df = pd.DataFrame(data, columns=all_columns)
+
+    return df
+
 def scrape_team_injury_tables(team_abbr, year):
     """
     Scrapes injury data tables for a specific team and year.
@@ -83,11 +144,14 @@ def scrape_team_injury_tables(team_abbr, year):
 
         for table_id in table_ids:
             try:
-                # Wait for table to load
-                table = wait_for_table(driver, table_id, DEFAULT_TIMEOUT)
-
-                # Convert table to DataFrame
-                df = table_to_dataframe(table)
+                # Special handling for team_injuries table
+                if table_id == "team_injuries":
+                    df = scrape_team_injuries_with_dnp(driver, table_id)
+                else:
+                    # Wait for table to load
+                    table = wait_for_table(driver, table_id, DEFAULT_TIMEOUT)
+                    # Convert table to DataFrame
+                    df = table_to_dataframe(table)
 
                 if df is not None and not df.empty:
                     tables_data[table_id] = df
