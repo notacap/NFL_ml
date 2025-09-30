@@ -101,7 +101,7 @@ def scrape_team_injuries_with_dnp(driver, table_id):
                 cell_class = cell.get_attribute("class") or ""
                 # Check if 'dnp' is in the class
                 has_dnp = 'dnp' in cell_class.split()
-                dnp_statuses.append(1 if has_dnp else 0)
+                dnp_statuses.append(0 if has_dnp else 1)
 
         # Combine row data with DNP statuses
         data.append(row_data + dnp_statuses)
