@@ -27,7 +27,8 @@ EXCLUSIONS = [
 
 # Scripts that require interactive user input
 INTERACTIVE_SCRIPTS = [
-    'plyr.py'
+    'plyr.py',
+    'plyr_def.py'
 ]
 
 # Priority scripts that must run first, in order

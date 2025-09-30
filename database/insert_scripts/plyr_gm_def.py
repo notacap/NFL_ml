@@ -10,8 +10,8 @@ from pathlib import Path
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from db_utils import (
-    DatabaseConnector, YEAR, WEEK_START, WEEK_END, 
-    batch_upsert_data, handle_null_values, 
+    DatabaseConnector, YEAR, WEEK_START, WEEK_END,
+    batch_upsert_data, handle_null_values,
     get_season_id, get_week_id, get_game_id, get_player_id, get_team_id,
     create_table_if_not_exists
 )
@@ -142,7 +142,7 @@ def get_csv_files() -> list:
     return sorted(csv_files)
 
 
-def process_csv_files(db: DatabaseConnector, basic_file: str, advanced_file: str, season_id: int) -> pd.DataFrame:
+def process_csv_files(db: DatabaseConnector, basic_file: str, advanced_file: str, season_id: int, interactive: bool = False) -> pd.DataFrame:
     """Process both basic and advanced CSV files and return consolidated DataFrame."""
     
     print(f"Processing basic file: {os.path.basename(basic_file)}")
@@ -193,7 +193,13 @@ def process_csv_files(db: DatabaseConnector, basic_file: str, advanced_file: str
                 continue
                 
             # Get player_id and team_id
-            plyr_id = get_player_id(db, player_name, team_abrv, season_id)
+            plyr_id = get_player_id(db, player_name, team_abrv, season_id, interactive=interactive)
+
+            # Skip this player if user chose to skip in interactive mode
+            if interactive and plyr_id == 0:
+                print(f"[INFO] Skipping player {player_name} - user selection")
+                continue
+
             team_id = get_team_id(db, team_abrv)
             
             # Create processed row with foreign keys
@@ -353,10 +359,11 @@ def process_csv_files(db: DatabaseConnector, basic_file: str, advanced_file: str
 
 def main():
     """Main function to process all CSV files."""
-    
+
     print(f"Starting Consolidated Player Game Defense Data Import for {YEAR}")
     print(f"Processing weeks {WEEK_START} to {WEEK_END}")
     print("Consolidating basic and advanced defensive stats into single plyr_gm_def table")
+    print("[INFO] Interactive mode enabled - you will be prompted for player selection when multiple/no matches are found")
     
     # Initialize database connection
     db = DatabaseConnector()
@@ -387,7 +394,7 @@ def main():
         # Process each file pair
         for week, basic_file, advanced_file in csv_file_pairs:
             try:
-                processed_df = process_csv_files(db, basic_file, advanced_file, season_id)
+                processed_df = process_csv_files(db, basic_file, advanced_file, season_id, interactive=True)
                 
                 if not processed_df.empty:
                     success = batch_upsert_data(db, 'plyr_gm_def', processed_df)

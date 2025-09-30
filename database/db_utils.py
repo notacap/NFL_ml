@@ -606,29 +606,32 @@ def get_game_id(db: DatabaseConnector, season_id: int, week_id: int, team1_abrv:
         raise ValueError(f"No game found for season {season_id}, week {week_id}, teams {team1_abrv} vs {team2_abrv}")
 
 
-def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, season_id: int) -> int:
+def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, season_id: int, age: int = None, position: str = None, interactive: bool = False) -> int:
     """Get player_id using comprehensive player lookup logic.
-    
+
     Used by all player game stat insert scripts.
     Handles name variations with suffixes and searches both plyr and multi_tm_plyr tables.
-    
+
     Args:
         db: Database connector instance
         player_name: Player name as it appears in CSV
         team_abrv: Team abbreviation to help with disambiguation
         season_id: Season ID for the lookup
-        
+        age: Player age for additional validation (optional)
+        position: Player position for additional validation (optional)
+        interactive: If True, prompts user to manually select from multiple matches (optional)
+
     Returns:
-        int: player_id from plyr or multi_tm_plyr table
-        
+        int: player_id from plyr or multi_tm_plyr table, or 0 if user chooses to skip (interactive mode only)
+
     Raises:
-        ValueError: If no player found or lookup fails
+        ValueError: If no player found or lookup fails (non-interactive mode)
     """
     # Generate name variations to handle suffixes
     suffixes = ["II", "III", "IV", "Jr.", "Sr."]
     name_variations = [player_name] + [f"{player_name} {suffix}" for suffix in suffixes]
     placeholders = ', '.join(['%s'] * len(name_variations))
-    
+
     if team_abrv and team_abrv.strip():
         # Search with team filtering for better accuracy
         query = f"""
@@ -637,8 +640,8 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
         JOIN nfl_team t ON p.team_id = t.team_id
         WHERE p.plyr_name IN ({placeholders}) AND (t.abrv = %s OR t.alt_abrv = %s) AND p.season_id = %s
         UNION
-        SELECT mtp.plyr_id, mtp.plyr_name, 'multi_tm_plyr' AS source, 
-               COALESCE(mtp.former_tm_id, mtp.first_tm_id) AS team_id, 
+        SELECT mtp.plyr_id, mtp.plyr_name, 'multi_tm_plyr' AS source,
+               COALESCE(mtp.former_tm_id, mtp.first_tm_id) AS team_id,
                COALESCE(t1.abrv, t2.abrv) AS abrv,
                mtp.plyr_pos, mtp.plyr_age
         FROM multi_tm_plyr mtp
@@ -658,14 +661,26 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
         params = name_variations + [season_id]
 
     results = db.fetch_all(query, params)
-    
+
     if len(results) == 1:
         return results[0][0]
     elif len(results) > 1:
-        print(f"[WARNING] Multiple matches found for {player_name} ({team_abrv}). Using first match.")
-        return results[0][0]
+        if interactive:
+            # Use interactive selection for multiple matches
+            selected_id = interactive_player_selection(player_name, team_abrv, age, position, results)
+            if selected_id == 0:
+                return 0  # User chose to skip this player
+            return selected_id
+        else:
+            # Default behavior: warn and use first match
+            print(f"[WARNING] Multiple matches found for {player_name} ({team_abrv}). Using first match.")
+            return results[0][0]
     else:
-        raise ValueError(f"No player found for {player_name} ({team_abrv}) in season {season_id}")
+        if interactive:
+            print(f"[ERROR] No player found for {player_name} ({team_abrv}) in season {season_id}")
+            return 0  # Allow skipping in interactive mode
+        else:
+            raise ValueError(f"No player found for {player_name} ({team_abrv}) in season {season_id}")
 
 
 def interactive_player_selection(player_name: str, team_abrv: str, age: int, position: str, matches: list) -> int:

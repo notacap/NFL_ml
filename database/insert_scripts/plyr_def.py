@@ -310,7 +310,7 @@ def consolidate_player_stats(basic_df: pd.DataFrame, advanced_df: pd.DataFrame) 
     
     return merged_df
 
-def process_player_defense_data(db: DatabaseConnector, df: pd.DataFrame, season_id: int, week_id: int, interactive: bool = False) -> pd.DataFrame:
+def process_player_defense_data(db: DatabaseConnector, df: pd.DataFrame, season_id: int, week_id: int, interactive: bool = True) -> pd.DataFrame:
     """Process consolidated player defense data for database insertion"""
     
     processed_data = []
@@ -415,40 +415,28 @@ def parse_arguments():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  python plyr_def.py                    # Run in standard mode (auto-select first match)
-  python plyr_def.py --interactive      # Run in interactive mode (manual player selection)  
+  python plyr_def.py                    # Run with interactive player selection (default)
   python plyr_def.py --debug            # Run with debug logging (show update details)
-  python plyr_def.py -i -d              # Interactive + debug mode
         """
     )
-    
-    parser.add_argument(
-        '--interactive', '-i',
-        action='store_true',
-        help='Enable interactive mode for manual player selection when multiple matches are found'
-    )
-    
+
     parser.add_argument(
         '--debug', '-d',
         action='store_true',
         help='Enable debug logging to show which records are being updated vs inserted'
     )
-    
+
     return parser.parse_args()
 
 
 def main():
     """Main execution function"""
     args = parse_arguments()
-    
+
     print(f"[INFO] Starting plyr_def.py script for {YEAR} week {WEEK}")
     print(f"[INFO] Timestamp: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-    
-    if args.interactive:
-        print("[INFO] Interactive mode enabled - you will be prompted for player selection when multiple matches are found")
-    else:
-        print("[INFO] Standard mode - script will automatically select first match for multiple player matches")
-    
+    print("[INFO] Interactive mode enabled - you will be prompted for player selection when multiple matches are found")
+
     if args.debug:
         print("[INFO] Debug mode enabled - detailed logging of insert vs update operations")
     
@@ -480,9 +468,9 @@ def main():
         
         # Consolidate player stats
         consolidated_df = consolidate_player_stats(basic_df, advanced_df)
-        
-        # Process data for database insertion
-        processed_df = process_player_defense_data(db, consolidated_df, season_id, week_id, args.interactive)
+
+        # Process data for database insertion (interactive mode is now default)
+        processed_df = process_player_defense_data(db, consolidated_df, season_id, week_id)
         
         # Debug: Check for duplicate players within our DataFrame
         if args.debug:
