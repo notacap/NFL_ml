@@ -16,21 +16,62 @@ def read_input_csv():
     files = [f for f in os.listdir(INPUT_DIR) if f.endswith('.csv') and f.startswith('plyr_raw')]
     latest_file = max(files, key=lambda x: os.path.getctime(os.path.join(INPUT_DIR, x)))
     input_file = os.path.join(INPUT_DIR, latest_file)
-    
+
     players = defaultdict(list)
+    null_weeks_players = []
+
     with open(input_file, 'r', newline='') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
-            # Create a unique key for each player
-            key = (row['plyr_name'], row['pos'], row['age'], row['yrs_played'],
-                   row['weight'] or row['height'])  # Use weight or height, whichever is available
-            
             # Discard players with insufficient data
             if not all([row['age'], row['yrs_played'], row['weight'] or row['height']]):
                 continue
-            
-            players[key].append(row)
-    return players
+
+            # Separate players with NULL weeks
+            if not row.get('weeks') or row['weeks'].strip() == '':
+                null_weeks_players.append(row)
+            else:
+                # Create a unique key for each player
+                key = (row['plyr_name'], row['pos'], row['age'], row['yrs_played'],
+                       row['weight'] or row['height'])  # Use weight or height, whichever is available
+                players[key].append(row)
+
+    return players, null_weeks_players
+
+def filter_null_weeks_players(null_weeks_players, players):
+    """
+    Match NULL weeks players with NOT NULL weeks players.
+    Returns only unmatched NULL weeks players.
+    """
+    unmatched_null_weeks = []
+
+    for null_player in null_weeks_players:
+        # Create match key: plyr_name, pos, age, yrs_played
+        match_key = (
+            null_player['plyr_name'],
+            null_player['pos'],
+            null_player['age'],
+            null_player['yrs_played']
+        )
+
+        # Check if this player matches any NOT NULL weeks player
+        found_match = False
+        for player_data_list in players.values():
+            for player in player_data_list:
+                if (player['plyr_name'] == match_key[0] and
+                    player['pos'] == match_key[1] and
+                    player['age'] == match_key[2] and
+                    player['yrs_played'] == match_key[3]):
+                    found_match = True
+                    break
+            if found_match:
+                break
+
+        # If no match found, keep this NULL weeks player
+        if not found_match:
+            unmatched_null_weeks.append(null_player)
+
+    return unmatched_null_weeks
 
 def identify_multi_team_players(players):
     multi_team_players = {}
@@ -60,7 +101,7 @@ def determine_team_order(player_data):
     else:
         return sorted_data[0], None, None
 
-def process_players(players, multi_team_players):
+def process_players(players, multi_team_players, unmatched_null_weeks):
     processed_players = []
     for key, player_data in players.items():
         if key in multi_team_players:
@@ -149,7 +190,31 @@ def process_players(players, multi_team_players):
             processed_player['gm_started'] = processed_player.get('gm_started', '')
         
         processed_players.append(processed_player)
-    
+
+    # Add unmatched NULL weeks players as-is
+    for null_player in unmatched_null_weeks:
+        processed_player = null_player.copy()
+        processed_player['current_team'] = processed_player.pop('team_name')
+        processed_player['former_team'] = ''
+        processed_player['first_team'] = ''
+        processed_player['current_team_week'] = ''
+        processed_player['former_team_last_week'] = ''
+        processed_player['former_team_first_week'] = ''
+        processed_player['first_team_last_week'] = ''
+        # Ensure all expected columns are included
+        processed_player['is_on_ir'] = processed_player.get('is_on_ir', '')
+        processed_player['plyr_college'] = processed_player.get('plyr_college', '')
+        processed_player['plyr_birthdate'] = processed_player.get('plyr_birthdate', '')
+        processed_player['plyr_avg_value'] = processed_player.get('plyr_avg_value', '')
+        processed_player['plyr_draft_tm'] = processed_player.get('plyr_draft_tm', '')
+        processed_player['plyr_draft_rd'] = processed_player.get('plyr_draft_rd', '')
+        processed_player['plyr_draft_pick'] = processed_player.get('plyr_draft_pick', '')
+        processed_player['plyr_draft_yr'] = processed_player.get('plyr_draft_yr', '')
+        processed_player['gm_played'] = processed_player.get('gm_played', '')
+        processed_player['gm_started'] = processed_player.get('gm_started', '')
+        processed_player['weeks'] = processed_player.get('weeks', '')
+        processed_players.append(processed_player)
+
     return processed_players
 
 def write_output_csv(processed_players):
@@ -172,9 +237,10 @@ def write_output_csv(processed_players):
     print(f"Output file created: {output_file}")
 
 def main():
-    players = read_input_csv()
+    players, null_weeks_players = read_input_csv()
+    unmatched_null_weeks = filter_null_weeks_players(null_weeks_players, players)
     multi_team_players = identify_multi_team_players(players)
-    processed_players = process_players(players, multi_team_players)
+    processed_players = process_players(players, multi_team_players, unmatched_null_weeks)
     write_output_csv(processed_players)
 
 if __name__ == "__main__":

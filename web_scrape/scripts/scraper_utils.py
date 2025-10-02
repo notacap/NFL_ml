@@ -40,8 +40,8 @@ WEEK_NUMBER = 4
 # =============================================================================
 # WEEK RANGE CONFIGURATION: Set the range of weeks for game-level scraping
 # =============================================================================
-START_WEEK = 3
-END_WEEK = 3
+START_WEEK = 4
+END_WEEK = 4
 
 # =============================================================================
 # LOGGING CONFIGURATION
