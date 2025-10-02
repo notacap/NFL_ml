@@ -6,10 +6,10 @@ import logging
 from typing import Dict, Any, List, Optional
 
 # Configuration: Set the year and week for data processing
-YEAR = 2025
-WEEK = 2
-WEEK_START = 2
-WEEK_END = 2
+YEAR = 2024
+WEEK = 18
+WEEK_START = 1
+WEEK_END = 18
 
 # Load environment variables
 load_dotenv()
