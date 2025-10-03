@@ -7,7 +7,7 @@ YEAR = 2025
 WEEK = 4
 
 # Week range variables for processing multiple weeks
-WEEK_START = 4
+WEEK_START = 1
 WEEK_END = 4
 
 def get_source_directory():

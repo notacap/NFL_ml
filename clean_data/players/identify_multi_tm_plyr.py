@@ -41,9 +41,10 @@ def read_input_csv():
 def filter_null_weeks_players(null_weeks_players, players):
     """
     Match NULL weeks players with NOT NULL weeks players.
-    Returns only unmatched NULL weeks players.
+    Returns only unmatched NULL weeks players and a flag indicating if processing should abort.
     """
     unmatched_null_weeks = []
+    should_abort = False
 
     for null_player in null_weeks_players:
         # Check if this player matches any NOT NULL weeks player
@@ -76,8 +77,32 @@ def filter_null_weeks_players(null_weeks_players, players):
                     null_team = null_player.get('team_name', '').strip()
                     not_null_team = player.get('team_name', '').strip()
 
-                    # Edge case: if teams are different, update NOT NULL player's team to NULL player's team
+                    # Edge case: if teams are different, this is a multi-team player
                     if null_team and not_null_team and null_team != not_null_team:
+                        # Check if former_team is already populated
+                        if player.get('former_team', ''):
+                            print(f"\nWARNING: Player {player['plyr_name']} (pos: {player['pos']}) already has a former team populated.")
+                            print(f"  Current team in row: {player['team_name']}")
+                            print(f"  Former team (already set): {player['former_team']}")
+                            print(f"  NULL weeks team: {null_team}")
+                            print(f"  This indicates a third team transition. Aborting CSV output.\n")
+                            should_abort = True
+                            found_match = True
+                            break
+
+                        # Set former team information
+                        player['former_team'] = not_null_team
+
+                        # Parse weeks to get min and max
+                        weeks = [int(w) for w in player['weeks'].split(',')]
+                        max_week = max(weeks)
+                        player['former_team_last_week'] = str(max_week)
+                        player['former_team_first_week'] = str(min(weeks))
+
+                        # Set current team week to former_team_last_week + 1
+                        player['current_team_week'] = str(max_week + 1)
+
+                        # Update team_name to the null player's team
                         player['team_name'] = null_team
 
                     found_match = True
@@ -89,7 +114,7 @@ def filter_null_weeks_players(null_weeks_players, players):
         if not found_match:
             unmatched_null_weeks.append(null_player)
 
-    return unmatched_null_weeks
+    return unmatched_null_weeks, should_abort
 
 def identify_multi_team_players(players):
     multi_team_players = {}
@@ -188,12 +213,13 @@ def process_players(players, multi_team_players, unmatched_null_weeks):
         else:
             processed_player = player_data[0].copy()
             processed_player['current_team'] = processed_player.pop('team_name')
-            processed_player['former_team'] = ''
-            processed_player['first_team'] = ''
-            processed_player['current_team_week'] = ''
-            processed_player['former_team_last_week'] = ''
-            processed_player['former_team_first_week'] = ''
-            processed_player['first_team_last_week'] = ''
+            # Set default values for team transition fields if not already set
+            processed_player.setdefault('former_team', '')
+            processed_player.setdefault('first_team', '')
+            processed_player.setdefault('current_team_week', '')
+            processed_player.setdefault('former_team_last_week', '')
+            processed_player.setdefault('former_team_first_week', '')
+            processed_player.setdefault('first_team_last_week', '')
             # Ensure new columns are included for single-team players
             processed_player['is_on_ir'] = processed_player.get('is_on_ir', '')
             processed_player['plyr_college'] = processed_player.get('plyr_college', '')
@@ -256,7 +282,12 @@ def write_output_csv(processed_players):
 
 def main():
     players, null_weeks_players = read_input_csv()
-    unmatched_null_weeks = filter_null_weeks_players(null_weeks_players, players)
+    unmatched_null_weeks, should_abort = filter_null_weeks_players(null_weeks_players, players)
+
+    if should_abort:
+        print("Processing aborted due to multi-team conflicts. No CSV file generated.")
+        return
+
     multi_team_players = identify_multi_team_players(players)
     processed_players = process_players(players, multi_team_players, unmatched_null_weeks)
     write_output_csv(processed_players)

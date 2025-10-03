@@ -12,6 +12,7 @@ from clean_utils import YEAR, WEEK
 
 ACTIVE_PLAYERS_DIR = r"C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\all_active_players"
 PLYR_RAW_DIR = rf"C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\{YEAR}\plyr\plyr_raw\{WEEK}"
+CACHE_FILE = os.path.join(os.path.dirname(__file__), "player_match_cache.json")
 
 TEAM_ABBR_TO_FULL = {
     'ARI': 'Arizona Cardinals',
@@ -164,6 +165,24 @@ def update_raw_csv(raw_file_path, updates):
         writer.writeheader()
         writer.writerows(rows)
 
+def load_match_cache():
+    """Load cached player matches from file"""
+    if os.path.exists(CACHE_FILE):
+        try:
+            with open(CACHE_FILE, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except:
+            return {}
+    return {}
+
+def save_match_cache(cache):
+    """Save player match cache to file"""
+    try:
+        with open(CACHE_FILE, 'w', encoding='utf-8') as f:
+            json.dump(cache, f, indent=2)
+    except Exception as e:
+        print(f"Warning: Could not save cache: {e}")
+
 def find_player_matches(cleaned_name, active_players):
     """Find all potential matches for a player name"""
     matches = {}
@@ -176,35 +195,48 @@ def find_player_matches(cleaned_name, active_players):
                 continue
     return matches
 
-def process_player_matches(row, matches, active_players_data):
+def process_player_matches(row, matches, active_players_data, match_cache):
     """Process matches and handle user input if needed"""
     if len(matches) == 0:
-        return None
-    
+        return None, False
+
     if len(matches) == 1:
         player_id = list(matches.keys())[0]
-        return player_id
-    
+        return player_id, False
+
+    # Check cache first
+    cleaned_name = clean_player_name(row['plyr_name'])
+    cache_key = f"{cleaned_name}|{row['team_name']}"
+
+    if cache_key in match_cache:
+        cached_id = match_cache[cache_key]
+        # Verify cached ID is still in the matches
+        if cached_id in matches:
+            print(f"Using cached match for {row['plyr_name']} -> ID: {cached_id}")
+            return cached_id, False
+        else:
+            print(f"Warning: Cached match for {row['plyr_name']} no longer valid")
+
     # Multiple matches found - prompt user
     print(f"\nMultiple potential matches found for:")
     print(f"Unmatched player: {row['plyr_name']}")
     print(f"Team: {row['team_name']}")
     print(f"Position: {row['pos']}")
     print("\nPotential matches:")
-    
+
     # Display all potential matches
     for idx, (player_id, name) in enumerate(matches.items(), 1):
         print(f"\n{idx}. {name}")
         print(f"   ID: {player_id}")
-        
+
         # Get additional info from active_players_data if available
         player_info = next((p for p in active_players_data if p['player_id'] == player_id), None)
         if player_info:
             print(f"   Display Name: {player_info['display_name']}")
             print(f"   Full Name: {player_info['full_name']}")
-    
+
     print("\n0. Skip this player")
-    
+
     # Get user input
     while True:
         try:
@@ -215,11 +247,16 @@ def process_player_matches(row, matches, active_players_data):
             print("Invalid choice. Please try again.")
         except ValueError:
             print("Invalid input. Please enter a number.")
-    
+
     if choice == 0:
-        return None
-    
-    return list(matches.keys())[choice - 1]
+        return None, False
+
+    selected_id = list(matches.keys())[choice - 1]
+
+    # Save to cache
+    match_cache[cache_key] = selected_id
+
+    return selected_id, True
 
 def main():
     active_players_file = get_latest_file(ACTIVE_PLAYERS_DIR, "all_players")
@@ -231,6 +268,10 @@ def main():
 
     output_file = create_output_file(raw_file)
     print(f"Created output file: {output_file}")
+
+    # Load match cache
+    match_cache = load_match_cache()
+    cache_updated = False
 
     active_players = {}
     active_players_data = []
@@ -255,7 +296,9 @@ def main():
 
             matches = find_player_matches(cleaned_name, active_players)
 
-            player_id = process_player_matches(row, matches, active_players_data)
+            player_id, was_cached = process_player_matches(row, matches, active_players_data, match_cache)
+            if was_cached:
+                cache_updated = True
 
             if player_id:
                 print(f"Processing {row['plyr_name']}...")
@@ -307,6 +350,11 @@ def main():
         print("Update complete!")
     else:
         print("No matches found to update")
+
+    # Save cache if it was updated
+    if cache_updated:
+        save_match_cache(match_cache)
+        print(f"Match cache saved to {CACHE_FILE}")
 
 if __name__ == "__main__":
     main()

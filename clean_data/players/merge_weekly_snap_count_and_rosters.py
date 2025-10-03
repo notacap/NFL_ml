@@ -21,6 +21,9 @@ OUTPUT_DIR = rf"C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\{YEAR
 # Age cache file path
 AGE_CACHE_FILE = rf"C:\Users\nocap\Desktop\code\NFL_ml\clean_data\players\player_ages_cache.json"
 
+# Manual roster additions file path
+MANUAL_ROSTER_FILE = rf"C:\Users\nocap\Desktop\code\NFL_ml\clean_data\players\manual_roster_additions.json"
+
 # Position standardization mapping
 POSITION_MAPPING = {
     'QB': 'QB', 
@@ -92,6 +95,20 @@ def save_age_cache(cache):
             json.dump(cache, f, indent=2)
     except IOError as e:
         print(f"Warning: Could not save age cache: {e}")
+
+def load_manual_roster_additions():
+    """Load manual roster additions from JSON file"""
+    if os.path.exists(MANUAL_ROSTER_FILE):
+        try:
+            with open(MANUAL_ROSTER_FILE, 'r') as f:
+                data = json.load(f)
+                players = data.get('players', [])
+                print(f"Loaded {len(players)} manual roster additions")
+                return players
+        except (json.JSONDecodeError, IOError) as e:
+            print(f"Warning: Could not load manual roster additions: {e}")
+            return []
+    return []
 
 def get_player_age(player_name, team_name, cache):
     """Get player age from cache or prompt user"""
@@ -259,6 +276,9 @@ def clean_player_name(player_name):
     return ([player_name.strip()], is_on_ir)
 
 def process_team_roster_files():
+    # Load manual roster additions first
+    manual_additions = load_manual_roster_additions()
+
     # First, group files by team to detect duplicates
     team_files = defaultdict(list)
 
@@ -391,6 +411,57 @@ def process_team_roster_files():
                             'is_on_ir': is_on_ir
                         }
 
+        # Process manual roster additions for this team
+        for manual_player in manual_additions:
+            if standardize_team_name(manual_player.get('Team', '')) == team_name:
+                original_name = manual_player['Player']
+                cleaned_names, is_on_ir = clean_player_name(manual_player['Player'])
+                position = manual_player['Pos']
+                standardized_pos = standardize_position(position)
+
+                # Strip IR variations from the name for storage
+                display_name = original_name
+                for ir_tag in ['(IR)', '(PRA_)', '(NON)', '(IRD)', '(PUP)', '(SUS)', '(EXE)']:
+                    display_name = display_name.replace(ir_tag, '')
+                display_name = display_name.strip()
+
+                # Debug: Print when we detect IR
+                if is_on_ir == 1:
+                    print(f"IR player detected in manual additions: {original_name} -> {display_name}")
+
+                # Get draft info
+                draft_team = manual_player.get('Draft Team', '')
+                draft_round = manual_player.get('Draft Round', '')
+                draft_pick = manual_player.get('Draft Pick', '')
+                draft_year = manual_player.get('Draft Year', '')
+
+                # Use display name (without IR) and position as key for merging within team
+                merge_key = (display_name.lower(), standardized_pos)
+
+                # If player already exists in this team's data, skip (CSV data takes precedence)
+                if merge_key not in team_players:
+                    team_players[merge_key] = {
+                        'team_name': team_name,
+                        'plyr_name': display_name,
+                        'pos': standardized_pos,
+                        'age': manual_player.get('Age', ''),
+                        'weight': manual_player.get('Wt', ''),
+                        'height': manual_player.get('Ht', ''),
+                        'yrs_played': manual_player.get('Yrs', ''),
+                        'plyr_college': manual_player.get('College/Univ', ''),
+                        'plyr_birthdate': manual_player.get('BirthDate', ''),
+                        'plyr_avg_value': manual_player.get('AV', ''),
+                        'plyr_draft_tm': draft_team,
+                        'plyr_draft_rd': draft_round,
+                        'plyr_draft_pick': draft_pick,
+                        'plyr_draft_yr': draft_year,
+                        'gm_played': manual_player.get('G', ''),
+                        'gm_started': manual_player.get('GS', ''),
+                        'cleaned_names': cleaned_names,
+                        'is_on_ir': is_on_ir
+                    }
+                    print(f"Added manual roster entry: {display_name} - {team_name} - {standardized_pos}")
+
         # Add merged team players to final players_data with all name variations
         for (name_key, pos), player_info in team_players.items():
             # Create entries for all name variations
@@ -400,6 +471,59 @@ def process_team_roster_files():
                 final_player_info = {k: v for k, v in player_info.items() if k != 'cleaned_names'}
                 players_data[player_key] = final_player_info
 
+    # Process manual additions for teams that don't have CSV files
+    processed_teams = set(team_files.keys())
+    for manual_player in manual_additions:
+        team_name = standardize_team_name(manual_player.get('Team', ''))
+        if team_name and team_name not in processed_teams:
+            original_name = manual_player['Player']
+            cleaned_names, is_on_ir = clean_player_name(manual_player['Player'])
+            position = manual_player['Pos']
+            standardized_pos = standardize_position(position)
+
+            # Strip IR variations from the name for storage
+            display_name = original_name
+            for ir_tag in ['(IR)', '(PRA_)', '(NON)', '(IRD)', '(PUP)', '(SUS)', '(EXE)']:
+                display_name = display_name.replace(ir_tag, '')
+            display_name = display_name.strip()
+
+            # Debug: Print when we detect IR
+            if is_on_ir == 1:
+                print(f"IR player detected in manual additions: {original_name} -> {display_name}")
+
+            # Get draft info
+            draft_team = manual_player.get('Draft Team', '')
+            draft_round = manual_player.get('Draft Round', '')
+            draft_pick = manual_player.get('Draft Pick', '')
+            draft_year = manual_player.get('Draft Year', '')
+
+            player_info = {
+                'team_name': team_name,
+                'plyr_name': display_name,
+                'pos': standardized_pos,
+                'age': manual_player.get('Age', ''),
+                'weight': manual_player.get('Wt', ''),
+                'height': manual_player.get('Ht', ''),
+                'yrs_played': manual_player.get('Yrs', ''),
+                'plyr_college': manual_player.get('College/Univ', ''),
+                'plyr_birthdate': manual_player.get('BirthDate', ''),
+                'plyr_avg_value': manual_player.get('AV', ''),
+                'plyr_draft_tm': draft_team,
+                'plyr_draft_rd': draft_round,
+                'plyr_draft_pick': draft_pick,
+                'plyr_draft_yr': draft_year,
+                'gm_played': manual_player.get('G', ''),
+                'gm_started': manual_player.get('GS', ''),
+                'is_on_ir': is_on_ir
+            }
+
+            # Add entries for all name variations
+            for cleaned_name in cleaned_names:
+                player_key = (team_name, cleaned_name, standardized_pos)
+                players_data[player_key] = player_info
+
+            print(f"Added manual roster entry (team without CSV): {display_name} - {team_name} - {standardized_pos}")
+            processed_teams.add(team_name)
 
     # Print merge summary if duplicates were found
     duplicate_teams = [team for team, files in team_files.items() if len(files) > 1]
