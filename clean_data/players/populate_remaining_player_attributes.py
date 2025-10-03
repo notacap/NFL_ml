@@ -167,12 +167,13 @@ def update_raw_csv(raw_file_path, updates):
 def find_player_matches(cleaned_name, active_players):
     """Find all potential matches for a player name"""
     matches = {}
-    for active_name, player_id in active_players.items():
-        try:
-            if int(player_id) >= 8439 and cleaned_name == active_name:
-                matches[player_id] = active_name
-        except (ValueError, TypeError):
-            continue
+    if cleaned_name in active_players:
+        for player_id in active_players[cleaned_name]:
+            try:
+                if int(player_id) >= 8439:
+                    matches[player_id] = cleaned_name
+            except (ValueError, TypeError):
+                continue
     return matches
 
 def process_player_matches(row, matches, active_players_data):
@@ -238,7 +239,10 @@ def main():
         for row in reader:
             try:
                 if int(row['player_id']) >= 8439:
-                    active_players[clean_player_name(row['display_name'])] = row['player_id']
+                    cleaned_name = clean_player_name(row['display_name'])
+                    if cleaned_name not in active_players:
+                        active_players[cleaned_name] = []
+                    active_players[cleaned_name].append(row['player_id'])
                     active_players_data.append(row)
             except (ValueError, TypeError):
                 continue

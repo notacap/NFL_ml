@@ -46,22 +46,40 @@ def filter_null_weeks_players(null_weeks_players, players):
     unmatched_null_weeks = []
 
     for null_player in null_weeks_players:
-        # Create match key: plyr_name, pos, age, yrs_played
-        match_key = (
-            null_player['plyr_name'],
-            null_player['pos'],
-            null_player['age'],
-            null_player['yrs_played']
-        )
-
         # Check if this player matches any NOT NULL weeks player
         found_match = False
         for player_data_list in players.values():
             for player in player_data_list:
-                if (player['plyr_name'] == match_key[0] and
-                    player['pos'] == match_key[1] and
-                    player['age'] == match_key[2] and
-                    player['yrs_played'] == match_key[3]):
+                # First check: plyr_name and pos must match
+                if (player['plyr_name'] != null_player['plyr_name'] or
+                    player['pos'] != null_player['pos']):
+                    continue
+
+                # Second check: count matching fields
+                match_count = 0
+                matched_fields = []
+                fields_to_check = [
+                    'age', 'weight', 'height', 'yrs_played',
+                    'plyr_college', 'plyr_birthdate', 'plyr_draft_tm'
+                ]
+
+                for field in fields_to_check:
+                    null_val = null_player.get(field, '').strip()
+                    player_val = player.get(field, '').strip()
+                    # Only count as match if both values exist and are equal
+                    if null_val and player_val and null_val == player_val:
+                        match_count += 1
+                        matched_fields.append(f"{field}={null_val}")
+
+                # If at least 2 additional fields match, consider it a duplicate
+                if match_count >= 2:
+                    null_team = null_player.get('team_name', '').strip()
+                    not_null_team = player.get('team_name', '').strip()
+
+                    # Edge case: if teams are different, update NOT NULL player's team to NULL player's team
+                    if null_team and not_null_team and null_team != not_null_team:
+                        player['team_name'] = null_team
+
                     found_match = True
                     break
             if found_match:
