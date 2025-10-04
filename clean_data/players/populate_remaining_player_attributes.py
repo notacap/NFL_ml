@@ -166,20 +166,24 @@ def update_raw_csv(raw_file_path, updates):
         writer.writerows(rows)
 
 def load_match_cache():
-    """Load cached player matches from file"""
+    """Load cached player matches from file for the current year"""
     if os.path.exists(CACHE_FILE):
         try:
             with open(CACHE_FILE, 'r', encoding='utf-8') as f:
-                return json.load(f)
+                all_cache = json.load(f)
+                year_key = str(YEAR)
+                return all_cache.get(year_key, {}), all_cache
         except:
-            return {}
-    return {}
+            return {}, {}
+    return {}, {}
 
-def save_match_cache(cache):
+def save_match_cache(year_cache, all_cache):
     """Save player match cache to file"""
     try:
+        year_key = str(YEAR)
+        all_cache[year_key] = year_cache
         with open(CACHE_FILE, 'w', encoding='utf-8') as f:
-            json.dump(cache, f, indent=2)
+            json.dump(all_cache, f, indent=2)
     except Exception as e:
         print(f"Warning: Could not save cache: {e}")
 
@@ -194,6 +198,100 @@ def find_player_matches(cleaned_name, active_players):
             except (ValueError, TypeError):
                 continue
     return matches
+
+def compare_api_data_to_csv(row, player_id, debug=False):
+    """Compare CSV data to API data for a given player_id
+
+    Returns:
+        tuple: (matches: bool, match_count: int) - whether it matches and how many attributes matched
+    """
+    player_data = get_player_data(player_id)
+    if not player_data or 'athlete' not in player_data:
+        if debug:
+            print(f"   ID {player_id}: Failed to fetch API data")
+        return False, 0
+
+    athlete = player_data['athlete']
+
+    # Get API values
+    api_team_name = ''
+    if 'playerSwitcher' in player_data and player_data['playerSwitcher']:
+        if 'team' in player_data['playerSwitcher'] and player_data['playerSwitcher']['team']:
+            api_team_name = player_data['playerSwitcher']['team'].get('displayName', '')
+
+    api_dob = athlete.get('displayDOB', '')
+    api_age = athlete.get('age', '')
+    api_weight_str = athlete.get('displayWeight', '')  # Format: "322 lbs"
+    api_height_str = athlete.get('displayHeight', '')  # Format: "5' 10""
+
+    # Convert CSV birthdate to match API format
+    csv_birthdate = convert_birthdate(row.get('plyr_birthdate', ''))
+
+    # Get CSV values
+    csv_team_name = row.get('team_name', '')
+    csv_age = row.get('age', '')
+    csv_weight = row.get('weight', '')
+    csv_height = row.get('height', '')
+
+    # Compare team (required)
+    team_match = api_team_name == csv_team_name
+    if debug:
+        print(f"   ID {player_id}: Team: {api_team_name} vs {csv_team_name} = {team_match}")
+    if not team_match:
+        return False, 0
+
+    # Compare birthdate (required)
+    dob_match = api_dob == csv_birthdate if csv_birthdate else True
+    if debug:
+        print(f"   ID {player_id}: DOB: {api_dob} vs {csv_birthdate} = {dob_match}")
+    if not dob_match:
+        return False, 0
+
+    # Compare at least one of: age, weight, or height
+    age_match = False
+    weight_match = False
+    height_match = False
+    match_count = 0
+
+    # Check age match
+    if csv_age and api_age:
+        age_match = str(api_age) == str(csv_age)
+        if age_match:
+            match_count += 1
+    if debug:
+        print(f"   ID {player_id}: Age: {api_age} vs {csv_age} = {age_match}")
+
+    # Check weight match
+    if csv_weight and api_weight_str:
+        api_weight = convert_weight(api_weight_str)
+        try:
+            csv_weight_int = int(csv_weight)
+            weight_match = api_weight == csv_weight_int
+            if weight_match:
+                match_count += 1
+        except (ValueError, TypeError):
+            weight_match = False
+    if debug:
+        print(f"   ID {player_id}: Weight: {api_weight_str} vs {csv_weight} = {weight_match}")
+
+    # Check height match
+    if csv_height and api_height_str:
+        api_height = convert_height_to_inches(api_height_str)
+        try:
+            csv_height_int = int(csv_height)
+            height_match = api_height == csv_height_int
+            if height_match:
+                match_count += 1
+        except (ValueError, TypeError):
+            height_match = False
+    if debug:
+        print(f"   ID {player_id}: Height: {api_height_str} vs {csv_height} = {height_match}")
+
+    final_match = age_match or weight_match or height_match
+    if debug:
+        print(f"   ID {player_id}: Match count = {match_count}, Final match result = {final_match}")
+
+    return final_match, match_count
 
 def process_player_matches(row, matches, active_players_data, match_cache):
     """Process matches and handle user input if needed"""
@@ -217,7 +315,48 @@ def process_player_matches(row, matches, active_players_data, match_cache):
         else:
             print(f"Warning: Cached match for {row['plyr_name']} no longer valid")
 
-    # Multiple matches found - prompt user
+    # Multiple matches found - try to auto-match by comparing API data
+    print(f"\nAttempting auto-match for {row['plyr_name']} (Team: {row['team_name']})...")
+
+    match_scores = {}
+    for player_id in matches.keys():
+        is_match, count = compare_api_data_to_csv(row, player_id)
+        if is_match:
+            match_scores[player_id] = count
+
+    if len(match_scores) == 0:
+        # No matches found
+        print(f"Could not auto-match based on team/birthdate/age/weight/height.")
+        print(f"Debug comparison results:")
+        for player_id in matches.keys():
+            compare_api_data_to_csv(row, player_id, debug=True)
+        print(f"Manual selection required.")
+    elif len(match_scores) == 1:
+        # Single match found
+        selected_id = list(match_scores.keys())[0]
+        print(f"Auto-matched {row['plyr_name']} -> ID: {selected_id} (score: {match_scores[selected_id]}/3)")
+        match_cache[cache_key] = selected_id
+        return selected_id, True
+    else:
+        # Multiple matches - select the one with the highest score
+        max_score = max(match_scores.values())
+        best_matches = [pid for pid, score in match_scores.items() if score == max_score]
+
+        if len(best_matches) == 1:
+            # One clear winner
+            selected_id = best_matches[0]
+            print(f"Auto-matched {row['plyr_name']} -> ID: {selected_id} (score: {max_score}/3, beat {len(match_scores)-1} other candidate(s))")
+            match_cache[cache_key] = selected_id
+            return selected_id, True
+        else:
+            # Tie - need manual selection
+            print(f"Multiple potential auto-matches with same score ({len(best_matches)} IDs with score {max_score}/3).")
+            print(f"Tied IDs: {best_matches}")
+            print(f"Debug comparison results:")
+            for player_id in matches.keys():
+                compare_api_data_to_csv(row, player_id, debug=True)
+            print(f"Manual selection required.")
+
     print(f"\nMultiple potential matches found for:")
     print(f"Unmatched player: {row['plyr_name']}")
     print(f"Team: {row['team_name']}")
@@ -259,6 +398,7 @@ def process_player_matches(row, matches, active_players_data, match_cache):
     return selected_id, True
 
 def main():
+    print("hello")
     active_players_file = get_latest_file(ACTIVE_PLAYERS_DIR, "all_players")
     raw_file = get_latest_file(PLYR_RAW_DIR, "plyr_raw")
 
@@ -269,8 +409,8 @@ def main():
     output_file = create_output_file(raw_file)
     print(f"Created output file: {output_file}")
 
-    # Load match cache
-    match_cache = load_match_cache()
+    # Load match cache for current year
+    match_cache, all_cache = load_match_cache()
     cache_updated = False
 
     active_players = {}
@@ -353,8 +493,8 @@ def main():
 
     # Save cache if it was updated
     if cache_updated:
-        save_match_cache(match_cache)
-        print(f"Match cache saved to {CACHE_FILE}")
+        save_match_cache(match_cache, all_cache)
+        print(f"Match cache saved to {CACHE_FILE} for year {YEAR}")
 
 if __name__ == "__main__":
     main()
