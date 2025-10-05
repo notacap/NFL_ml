@@ -12,7 +12,7 @@ from clean_utils import YEAR, WEEK
 
 ACTIVE_PLAYERS_DIR = r"C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\all_active_players"
 PLYR_RAW_DIR = rf"C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\{YEAR}\plyr\plyr_raw\{WEEK}"
-CACHE_FILE = os.path.join(os.path.dirname(__file__), "player_match_cache.json")
+CACHE_FILE = os.path.join(os.path.dirname(__file__), "cache", "player_match_cache.json")
 
 TEAM_ABBR_TO_FULL = {
     'ARI': 'Arizona Cardinals',

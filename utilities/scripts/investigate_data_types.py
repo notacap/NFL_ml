@@ -1,54 +1,11 @@
-import os
 import sys
-import pymysql
-from dotenv import load_dotenv
 from datetime import datetime
 from collections import defaultdict
 import re
 
-# Load environment variables from .env file
-env_path = r'C:\Users\nocap\Desktop\code\NFL_ml\database\.env'
-load_dotenv(env_path)
-
-# Database configuration
-DB_CONFIG = {
-    'host': os.getenv('DB_HOST'),
-    'port': int(os.getenv('DB_PORT')),
-    'database': os.getenv('DB_NAME'),
-    'user': os.getenv('DB_USER'),
-    'password': os.getenv('DB_PASSWORD')
-}
-
-def connect_to_database():
-    """Establish connection to the MySQL database."""
-    try:
-        connection = pymysql.connect(**DB_CONFIG)
-        print(f"Successfully connected to database: {DB_CONFIG['database']}")
-        return connection
-    except Exception as e:
-        print(f"Error connecting to database: {e}")
-        sys.exit(1)
-
-def get_all_tables(cursor):
-    """Get all table names from the database."""
-    cursor.execute("SHOW TABLES")
-    tables = [table[0] for table in cursor.fetchall()]
-    return tables
-
-def get_table_schema(cursor, table_name):
-    """Get detailed schema information for a table."""
-    cursor.execute(f"DESCRIBE {table_name}")
-    columns = []
-    for row in cursor.fetchall():
-        columns.append({
-            'name': row[0],
-            'type': row[1],
-            'null': row[2],
-            'key': row[3],
-            'default': row[4],
-            'extra': row[5]
-        })
-    return columns
+# Import common database utilities
+sys.path.insert(0, '..')
+from common_utils import connect_to_database, get_all_tables, get_table_schema
 
 def parse_column_type(column_type):
     """Parse column type to extract base type, precision, and scale."""
@@ -296,7 +253,7 @@ def analyze_data_types():
         # Generate report
         generate_report(all_columns_data, similar_columns, inconsistencies, table_issues)
 
-        print("\nAnalysis complete! Results written to 'data_type_analysis_report.log'")
+        print("\nAnalysis complete! Results written to '../logs/data_type_analysis_report.log'")
 
     except Exception as e:
         print(f"Error during analysis: {e}")
@@ -310,7 +267,7 @@ def generate_report(all_columns_data, similar_columns, inconsistencies, table_is
     """Generate a detailed report of data type analysis."""
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
-    with open('data_type_analysis_report.log', 'w') as f:
+    with open('../logs/data_type_analysis_report.log', 'w') as f:
         # Write header
         f.write("=" * 80 + "\n")
         f.write("NFL DATABASE DATA TYPE CONSISTENCY ANALYSIS\n")

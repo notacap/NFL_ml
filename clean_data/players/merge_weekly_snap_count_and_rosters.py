@@ -19,10 +19,10 @@ TEAM_ROSTERS_DIR = rf"C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data
 OUTPUT_DIR = rf"C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\{YEAR}\plyr\plyr_raw\{WEEK}"
 
 # Age cache file path
-AGE_CACHE_FILE = rf"C:\Users\nocap\Desktop\code\NFL_ml\clean_data\players\player_ages_cache.json"
+AGE_CACHE_FILE = rf"C:\Users\nocap\Desktop\code\NFL_ml\clean_data\players\cache\player_ages_cache.json"
 
 # Manual roster additions file path
-MANUAL_ROSTER_FILE = rf"C:\Users\nocap\Desktop\code\NFL_ml\clean_data\players\manual_roster_additions.json"
+MANUAL_ROSTER_FILE = rf"C:\Users\nocap\Desktop\code\NFL_ml\clean_data\players\cache\manual_roster_additions.json"
 
 # Position standardization mapping
 POSITION_MAPPING = {

@@ -1,50 +1,16 @@
-import os
 import sys
-import pymysql
-from dotenv import load_dotenv
 from datetime import datetime
 from collections import defaultdict
 
-# Load environment variables from .env file
-env_path = r'C:\Users\nocap\Desktop\code\NFL_ml\database\.env'
-load_dotenv(env_path)
-
-# Database configuration
-DB_CONFIG = {
-    'host': os.getenv('DB_HOST'),
-    'port': int(os.getenv('DB_PORT')),
-    'database': os.getenv('DB_NAME'),
-    'user': os.getenv('DB_USER'),
-    'password': os.getenv('DB_PASSWORD')
-}
-
-def connect_to_database():
-    """Establish connection to the MySQL database."""
-    try:
-        connection = pymysql.connect(**DB_CONFIG)
-        print(f"Successfully connected to database: {DB_CONFIG['database']}")
-        return connection
-    except Exception as e:
-        print(f"Error connecting to database: {e}")
-        sys.exit(1)
-
-def get_all_tables(cursor):
-    """Get all table names from the database."""
-    cursor.execute("SHOW TABLES")
-    tables = [table[0] for table in cursor.fetchall()]
-    return tables
+# Import common database utilities
+sys.path.insert(0, '..')
+from common_utils import connect_to_database, get_all_tables, get_table_columns
 
 def get_seasons(cursor):
     """Get all seasons from the nfl_season table."""
     cursor.execute("SELECT season_id, year FROM nfl_season ORDER BY year")
     seasons = cursor.fetchall()
     return seasons
-
-def get_table_columns(cursor, table_name):
-    """Get all column names for a given table."""
-    cursor.execute(f"SHOW COLUMNS FROM {table_name}")
-    columns = [column[0] for column in cursor.fetchall()]
-    return columns
 
 def check_nulls_for_season(cursor, table_name, columns, season_id=None):
     """Check which columns contain null values for a specific season or all data."""
@@ -127,7 +93,7 @@ def analyze_database_nulls():
         # Generate log file
         generate_log_file(results_by_season, global_tables_results, table_summaries)
 
-        print("\nAnalysis complete! Results written to 'null_columns_report.log'")
+        print("\nAnalysis complete! Results written to '../logs/null_columns_report.log'")
 
     except Exception as e:
         print(f"Error during analysis: {e}")
@@ -139,7 +105,7 @@ def generate_log_file(results_by_season, global_tables_results, table_summaries)
     """Generate a structured log file with the null analysis results."""
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     
-    with open('null_columns_report.log', 'w') as f:
+    with open('../logs/null_columns_report.log', 'w') as f:
         # Write header
         f.write("=" * 80 + "\n")
         f.write("NFL DATABASE NULL VALUES ANALYSIS REPORT\n")
@@ -237,7 +203,7 @@ def generate_log_file(results_by_season, global_tables_results, table_summaries)
 if __name__ == "__main__":
     print("Starting NFL Database Null Values Analysis...")
     print("This script will identify all columns containing null values")
-    print("Results will be organized by season and saved to 'null_columns_report.log'")
+    print("Results will be organized by season and saved to '../logs/null_columns_report.log'")
     print("-" * 80)
     
     analyze_database_nulls()
