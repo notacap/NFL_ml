@@ -49,6 +49,100 @@ TEAM_ABBR_TO_FULL = {
     'WAS': 'Washington Commanders'
 }
 
+POSITION_MAPPING = {
+    'QB': 'QB',
+    'RB': 'RB',
+    'WR': 'WR',
+    'TE': 'TE',
+    'G': 'OL', 'C': 'OL', 'OG': 'OL', 'IOL': 'OL', 'OL': 'OL', 'LG': 'OL', 'RG': 'OL', 'LG/RG': 'OL',
+    'T': 'OL', 'OT': 'OL', 'RT': 'OL', 'LT': 'OL', 'RT/LT': 'OL',
+    'DE': 'DL', 'DT': 'DL', 'NT': 'DL', 'LDE': 'DL', 'RDE': 'DL', 'LDE/RDE': 'DL', 'LDT': 'DL', 'RDT': 'DL', 'LDT/RDT': 'DL',
+    'LB': 'LB', 'ILB': 'LB', 'MLB': 'LB', 'RLB/MLB': 'LB', 'OLB': 'LB', 'LOLB': 'LB', 'ROLB': 'LB', 'LILB': 'LB', 'RILB': 'LB', 'LILB/RILB': 'LB', 'RILB/LILB': 'LB', 'LLB': 'LB', 'RLB': 'LB',
+    'CB': 'DB', 'DB': 'DB', 'LCB': 'DB', 'RCB': 'DB', 'LCB/RCB': 'DB', 'FS': 'DB', 'SS': 'DB', 'S': 'DB', 'SS/FS': 'DB',
+    'K': 'K', 'PK': 'K',
+    'P': 'P',
+    'LS': 'LS'
+}
+
+COLLEGE_ALIASES = {
+    'MISSISSIPPI': 'OLE MISS',
+    'OLE MISS': 'MISSISSIPPI',
+    'MIAMI': 'MIAMI FL',
+    'MIAMI FL': 'MIAMI',
+    'MIAMI (FL)': 'MIAMI',
+}
+
+def normalize_college_name(college):
+    """Normalize college name for fuzzy matching"""
+    if not college:
+        return ''
+
+    # Convert to uppercase
+    college = college.upper().strip()
+
+    # Remove periods
+    college = college.replace('.', '')
+
+    # Replace "COL" with "COLLEGE"
+    college = re.sub(r'\bCOL\b', 'COLLEGE', college)
+
+    # Remove hyphens
+    college = college.replace('-', ' ')
+
+    # Remove parenthetical info like (FL)
+    college = re.sub(r'\([^)]*\)', '', college)
+
+    # Clean up extra whitespace
+    college = ' '.join(college.split())
+
+    return college
+
+def colleges_match(csv_college, api_colleges):
+    """Check if CSV college matches any API college field
+
+    Args:
+        csv_college: String from CSV (may contain comma-separated values)
+        api_colleges: List of college strings from API to check against
+
+    Returns:
+        bool: True if any match found
+    """
+    if not csv_college:
+        return False
+
+    # Split by comma in case there are multiple colleges
+    csv_colleges = [c.strip() for c in csv_college.split(',')]
+
+    # Normalize all CSV colleges
+    normalized_csv = [normalize_college_name(c) for c in csv_colleges if c]
+
+    # Normalize all API colleges
+    normalized_api = [normalize_college_name(c) for c in api_colleges if c]
+
+    # Check for matches
+    for csv_col in normalized_csv:
+        if not csv_col:
+            continue
+
+        # Check direct match
+        if csv_col in normalized_api:
+            return True
+
+        # Check aliases
+        if csv_col in COLLEGE_ALIASES:
+            alias = COLLEGE_ALIASES[csv_col]
+            if alias in normalized_api:
+                return True
+
+        # Check if any API college contains the CSV college (or vice versa)
+        for api_col in normalized_api:
+            if not api_col:
+                continue
+            if csv_col in api_col or api_col in csv_col:
+                return True
+
+    return False
+
 def get_latest_file(directory, prefix=''):
     if prefix:
         files = glob.glob(os.path.join(directory, f"{prefix}*.csv"))
@@ -223,6 +317,20 @@ def compare_api_data_to_csv(row, player_id, debug=False):
     api_age = athlete.get('age', '')
     api_weight_str = athlete.get('displayWeight', '')  # Format: "322 lbs"
     api_height_str = athlete.get('displayHeight', '')  # Format: "5' 10""
+    api_experience_str = athlete.get('displayExperience', '')  # Format: "7th Season"
+    api_draft_str = athlete.get('displayDraft', '')
+    api_position = athlete.get('position', {}).get('abbreviation', '') if athlete.get('position') else ''
+
+    # Get college information from API
+    api_college_fields = []
+    if athlete.get('collegeTeam'):
+        college_team = athlete['collegeTeam']
+        api_college_fields.extend([
+            college_team.get('location', ''),
+            college_team.get('nickname', ''),
+            college_team.get('displayName', ''),
+            college_team.get('shortDisplayName', '')
+        ])
 
     # Convert CSV birthdate to match API format
     csv_birthdate = convert_birthdate(row.get('plyr_birthdate', ''))
@@ -232,36 +340,48 @@ def compare_api_data_to_csv(row, player_id, debug=False):
     csv_age = row.get('age', '')
     csv_weight = row.get('weight', '')
     csv_height = row.get('height', '')
+    csv_yrs_played = row.get('yrs_played', '')
+    csv_position = row.get('pos', '')
+    csv_draft_yr = row.get('plyr_draft_yr', '')
+    csv_draft_rnd = row.get('plyr_draft_rd', '')
+    csv_draft_sel = row.get('plyr_draft_pick', '')
+    csv_draft_tm = row.get('plyr_draft_tm', '')
+    csv_college = row.get('plyr_college', '')
 
-    # Compare team (required)
-    team_match = api_team_name == csv_team_name
-    if debug:
-        print(f"   ID {player_id}: Team: {api_team_name} vs {csv_team_name} = {team_match}")
-    if not team_match:
-        return False, 0
+    # Compare birthdate (gating check - if both exist and don't match, fail)
+    if csv_birthdate and api_dob:
+        dob_match = api_dob == csv_birthdate
+        if debug:
+            print(f"   ID {player_id}: DOB: {api_dob} vs {csv_birthdate} = {dob_match}")
+        if not dob_match:
+            return False, 0
+    elif debug:
+        print(f"   ID {player_id}: DOB: Skipped (CSV: {csv_birthdate}, API: {api_dob})")
 
-    # Compare birthdate (required)
-    dob_match = api_dob == csv_birthdate if csv_birthdate else True
-    if debug:
-        print(f"   ID {player_id}: DOB: {api_dob} vs {csv_birthdate} = {dob_match}")
-    if not dob_match:
-        return False, 0
-
-    # Compare at least one of: age, weight, or height
-    age_match = False
-    weight_match = False
-    height_match = False
+    # Count all matching attributes
     match_count = 0
 
-    # Check age match
+    # Team name
+    if csv_team_name and api_team_name:
+        team_match = api_team_name == csv_team_name
+        if team_match:
+            match_count += 1
+        if debug:
+            print(f"   ID {player_id}: Team: {api_team_name} vs {csv_team_name} = {team_match}")
+    elif debug:
+        print(f"   ID {player_id}: Team: Skipped")
+
+    # Age
     if csv_age and api_age:
         age_match = str(api_age) == str(csv_age)
         if age_match:
             match_count += 1
-    if debug:
-        print(f"   ID {player_id}: Age: {api_age} vs {csv_age} = {age_match}")
+        if debug:
+            print(f"   ID {player_id}: Age: {api_age} vs {csv_age} = {age_match}")
+    elif debug:
+        print(f"   ID {player_id}: Age: Skipped")
 
-    # Check weight match
+    # Weight
     if csv_weight and api_weight_str:
         api_weight = convert_weight(api_weight_str)
         try:
@@ -269,12 +389,15 @@ def compare_api_data_to_csv(row, player_id, debug=False):
             weight_match = api_weight == csv_weight_int
             if weight_match:
                 match_count += 1
+            if debug:
+                print(f"   ID {player_id}: Weight: {api_weight_str} ({api_weight}) vs {csv_weight} = {weight_match}")
         except (ValueError, TypeError):
-            weight_match = False
-    if debug:
-        print(f"   ID {player_id}: Weight: {api_weight_str} vs {csv_weight} = {weight_match}")
+            if debug:
+                print(f"   ID {player_id}: Weight: Conversion error")
+    elif debug:
+        print(f"   ID {player_id}: Weight: Skipped")
 
-    # Check height match
+    # Height
     if csv_height and api_height_str:
         api_height = convert_height_to_inches(api_height_str)
         try:
@@ -282,14 +405,127 @@ def compare_api_data_to_csv(row, player_id, debug=False):
             height_match = api_height == csv_height_int
             if height_match:
                 match_count += 1
+            if debug:
+                print(f"   ID {player_id}: Height: {api_height_str} ({api_height}) vs {csv_height} = {height_match}")
         except (ValueError, TypeError):
-            height_match = False
-    if debug:
-        print(f"   ID {player_id}: Height: {api_height_str} vs {csv_height} = {height_match}")
+            if debug:
+                print(f"   ID {player_id}: Height: Conversion error")
+    elif debug:
+        print(f"   ID {player_id}: Height: Skipped")
 
-    final_match = age_match or weight_match or height_match
+    # Years played / Experience
+    if csv_yrs_played and api_experience_str:
+        api_yrs_played = convert_experience(api_experience_str)
+        try:
+            csv_yrs_played_int = int(csv_yrs_played)
+            if api_yrs_played != '':
+                yrs_match = api_yrs_played == csv_yrs_played_int
+                if yrs_match:
+                    match_count += 1
+                if debug:
+                    print(f"   ID {player_id}: Yrs Played: {api_experience_str} ({api_yrs_played}) vs {csv_yrs_played} = {yrs_match}")
+            elif debug:
+                print(f"   ID {player_id}: Yrs Played: API conversion failed")
+        except (ValueError, TypeError):
+            if debug:
+                print(f"   ID {player_id}: Yrs Played: CSV conversion error")
+    elif debug:
+        print(f"   ID {player_id}: Yrs Played: Skipped")
+
+    # Position
+    if csv_position and api_position:
+        csv_pos_mapped = POSITION_MAPPING.get(csv_position, csv_position)
+        api_pos_mapped = POSITION_MAPPING.get(api_position, api_position)
+        pos_match = csv_pos_mapped == api_pos_mapped
+        if pos_match:
+            match_count += 1
+        if debug:
+            print(f"   ID {player_id}: Position: {api_position} ({api_pos_mapped}) vs {csv_position} ({csv_pos_mapped}) = {pos_match}")
+    elif debug:
+        print(f"   ID {player_id}: Position: Skipped")
+
+    # College
+    if csv_college and api_college_fields:
+        college_match = colleges_match(csv_college, api_college_fields)
+        if college_match:
+            match_count += 1
+        if debug:
+            print(f"   ID {player_id}: College: {api_college_fields} vs {csv_college} = {college_match}")
+    elif debug:
+        print(f"   ID {player_id}: College: Skipped (CSV: {bool(csv_college)}, API: {bool(api_college_fields)})")
+
+    # Draft information
+    if api_draft_str:
+        api_draft_yr, api_draft_rnd, api_draft_sel, api_draft_team_abbr = parse_draft_info(api_draft_str)
+        api_draft_tm = TEAM_ABBR_TO_FULL.get(api_draft_team_abbr, '') if api_draft_team_abbr else ''
+
+        # Draft year
+        if csv_draft_yr and api_draft_yr:
+            try:
+                csv_draft_yr_int = int(csv_draft_yr)
+                draft_yr_match = api_draft_yr == csv_draft_yr_int
+                if draft_yr_match:
+                    match_count += 1
+                if debug:
+                    print(f"   ID {player_id}: Draft Year: {api_draft_yr} vs {csv_draft_yr} = {draft_yr_match}")
+            except (ValueError, TypeError):
+                if debug:
+                    print(f"   ID {player_id}: Draft Year: Conversion error")
+        elif debug:
+            print(f"   ID {player_id}: Draft Year: Skipped")
+
+        # Draft round
+        if csv_draft_rnd and api_draft_rnd:
+            try:
+                csv_draft_rnd_int = int(csv_draft_rnd)
+                draft_rnd_match = api_draft_rnd == csv_draft_rnd_int
+                if draft_rnd_match:
+                    match_count += 1
+                if debug:
+                    print(f"   ID {player_id}: Draft Round: {api_draft_rnd} vs {csv_draft_rnd} = {draft_rnd_match}")
+            except (ValueError, TypeError):
+                if debug:
+                    print(f"   ID {player_id}: Draft Round: Conversion error")
+        elif debug:
+            print(f"   ID {player_id}: Draft Round: Skipped")
+
+        # Draft pick
+        if csv_draft_sel and api_draft_sel:
+            try:
+                csv_draft_sel_int = int(csv_draft_sel)
+                draft_sel_match = api_draft_sel == csv_draft_sel_int
+                if draft_sel_match:
+                    match_count += 1
+                if debug:
+                    print(f"   ID {player_id}: Draft Pick: {api_draft_sel} vs {csv_draft_sel} = {draft_sel_match}")
+            except (ValueError, TypeError):
+                if debug:
+                    print(f"   ID {player_id}: Draft Pick: Conversion error")
+        elif debug:
+            print(f"   ID {player_id}: Draft Pick: Skipped")
+
+        # Draft team
+        if csv_draft_tm and api_draft_tm:
+            draft_tm_match = api_draft_tm == csv_draft_tm
+            if draft_tm_match:
+                match_count += 1
+            if debug:
+                print(f"   ID {player_id}: Draft Team: {api_draft_tm} vs {csv_draft_tm} = {draft_tm_match}")
+        elif debug:
+            print(f"   ID {player_id}: Draft Team: Skipped")
+    else:
+        # No draft info in API - check if CSV also has no draft info (both undrafted)
+        csv_has_no_draft = not csv_draft_yr and not csv_draft_rnd and not csv_draft_sel and not csv_draft_tm
+        if csv_has_no_draft:
+            match_count += 1
+            if debug:
+                print(f"   ID {player_id}: Both undrafted - Match!")
+        elif debug:
+            print(f"   ID {player_id}: Draft info: Not available in API, but CSV has draft data")
+
+    final_match = match_count > 0
     if debug:
-        print(f"   ID {player_id}: Match count = {match_count}, Final match result = {final_match}")
+        print(f"   ID {player_id}: Total match count = {match_count}, Final match result = {final_match}")
 
     return final_match, match_count
 
@@ -304,7 +540,7 @@ def process_player_matches(row, matches, active_players_data, match_cache):
 
     # Check cache first
     cleaned_name = clean_player_name(row['plyr_name'])
-    cache_key = f"{cleaned_name}|{row['team_name']}"
+    cache_key = f"{cleaned_name}|{row.get('team_name', '')}|{row.get('pos', '')}|{row.get('plyr_birthdate', '')}|{row.get('plyr_draft_yr', '')}|{row.get('plyr_college', '')}"
 
     if cache_key in match_cache:
         cached_id = match_cache[cache_key]
@@ -326,7 +562,7 @@ def process_player_matches(row, matches, active_players_data, match_cache):
 
     if len(match_scores) == 0:
         # No matches found
-        print(f"Could not auto-match based on team/birthdate/age/weight/height.")
+        print(f"Could not auto-match based on available attributes.")
         print(f"Debug comparison results:")
         for player_id in matches.keys():
             compare_api_data_to_csv(row, player_id, debug=True)
@@ -334,7 +570,7 @@ def process_player_matches(row, matches, active_players_data, match_cache):
     elif len(match_scores) == 1:
         # Single match found
         selected_id = list(match_scores.keys())[0]
-        print(f"Auto-matched {row['plyr_name']} -> ID: {selected_id} (score: {match_scores[selected_id]}/3)")
+        print(f"Auto-matched {row['plyr_name']} -> ID: {selected_id} (score: {match_scores[selected_id]})")
         match_cache[cache_key] = selected_id
         return selected_id, True
     else:
@@ -345,12 +581,12 @@ def process_player_matches(row, matches, active_players_data, match_cache):
         if len(best_matches) == 1:
             # One clear winner
             selected_id = best_matches[0]
-            print(f"Auto-matched {row['plyr_name']} -> ID: {selected_id} (score: {max_score}/3, beat {len(match_scores)-1} other candidate(s))")
+            print(f"Auto-matched {row['plyr_name']} -> ID: {selected_id} (score: {max_score}, beat {len(match_scores)-1} other candidate(s))")
             match_cache[cache_key] = selected_id
             return selected_id, True
         else:
             # Tie - need manual selection
-            print(f"Multiple potential auto-matches with same score ({len(best_matches)} IDs with score {max_score}/3).")
+            print(f"Multiple potential auto-matches with same score ({len(best_matches)} IDs with score {max_score}).")
             print(f"Tied IDs: {best_matches}")
             print(f"Debug comparison results:")
             for player_id in matches.keys():
