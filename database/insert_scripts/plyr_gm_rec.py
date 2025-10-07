@@ -102,7 +102,7 @@ def parse_csv_file(file_path: str) -> pd.DataFrame:
     return pd.read_csv(file_path, header=0)
 
 
-def process_csv_files(db: DatabaseConnector, basic_file: str, advanced_file: str, season_id: int) -> pd.DataFrame:
+def process_csv_files(db: DatabaseConnector, basic_file: str, advanced_file: str, season_id: int, interactive: bool = False) -> pd.DataFrame:
     """Process both basic and advanced receiving CSV files and return combined DataFrame."""
     
     print(f"Processing files:")
@@ -151,7 +151,13 @@ def process_csv_files(db: DatabaseConnector, basic_file: str, advanced_file: str
                 continue
             
             # Get player_id and team_id
-            plyr_id = get_player_id(db, player_name, team_abrv, season_id)
+            plyr_id = get_player_id(db, player_name, team_abrv, season_id, interactive=interactive)
+
+            # Skip this player if user chose to skip in interactive mode
+            if interactive and plyr_id == 0:
+                print(f"[INFO] Skipping player {player_name} - user selection")
+                continue
+
             team_id = get_team_id(db, team_abrv)
             
             # Find corresponding basic file row for this player
@@ -320,6 +326,7 @@ def main():
     
     print(f"Starting Player Game Receiving Data Import for {YEAR}")
     print(f"Processing weeks {WEEK_START} to {WEEK_END}")
+    print("[INFO] Interactive mode enabled - you will be prompted for player selection when multiple/no matches are found")
     
     # Initialize database connection
     db = DatabaseConnector()
@@ -350,7 +357,7 @@ def main():
         # Process each file pair
         for week, basic_file, advanced_file in csv_files:
             try:
-                processed_df = process_csv_files(db, basic_file, advanced_file, season_id)
+                processed_df = process_csv_files(db, basic_file, advanced_file, season_id, interactive=True)
                 
                 if not processed_df.empty:
                     success = batch_upsert_data(db, 'plyr_gm_rec', processed_df)
