@@ -32,7 +32,8 @@ INTERACTIVE_SCRIPTS = [
     'plyr_gm_fmbl.py',
     'plyr_gm_pass.py',
     'plyr_gm_rec.py',
-    'plyr_gm_rush.py'
+    'plyr_gm_rush.py',
+    'plyr_gm_snap_ct.py'
 ]
 
 # Priority scripts that must run first, in order

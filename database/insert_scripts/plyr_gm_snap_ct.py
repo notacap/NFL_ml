@@ -387,7 +387,7 @@ def parse_filename_for_teams_and_type(filename: str) -> tuple:
     return team1_name, team2_name, is_home, is_away
 
 
-def process_csv_file(db: DatabaseConnector, file_path: str, season_id: int) -> pd.DataFrame:
+def process_csv_file(db: DatabaseConnector, file_path: str, season_id: int, interactive: bool = False) -> pd.DataFrame:
     """Process a single CSV file and return processed DataFrame."""
     
     print(f"Processing file: {os.path.basename(file_path)}")
@@ -458,7 +458,12 @@ def process_csv_file(db: DatabaseConnector, file_path: str, season_id: int) -> p
                 team_abbrev = team_partial_name
                 
             # Get player_id using centralized function with team abbreviation
-            plyr_id = get_player_id(db, player_name, team_abbrev, season_id)
+            plyr_id = get_player_id(db, player_name, team_abbrev, season_id, interactive=interactive)
+
+            # Skip this player if user chose to skip in interactive mode
+            if interactive and plyr_id == 0:
+                print(f"[INFO] Skipping player {player_name} - user selection")
+                continue
             
             # Get team_id using partial team name matching
             team_id = get_team_id_by_partial_name(db, team_partial_name)
@@ -557,6 +562,7 @@ def main():
     
     print(f"Starting Player Game Snap Count Data Import for {YEAR}")
     print(f"Processing weeks {WEEK_START} to {WEEK_END}")
+    print("[INFO] Interactive mode enabled - you will be prompted for player selection when multiple/no matches are found")
     
     # Initialize database connection
     db = DatabaseConnector()
@@ -590,8 +596,8 @@ def main():
             try:
                 print(f"\nProcessing file: {os.path.basename(file_path)}")
                 
-                # Process file with season_id parameter
-                df = process_csv_file(db, file_path, season_id)
+                # Process file with season_id parameter and interactive mode
+                df = process_csv_file(db, file_path, season_id, interactive=True)
                 
                 if not df.empty:
                     success = batch_upsert_data(db, 'plyr_gm_snap_ct', df)
