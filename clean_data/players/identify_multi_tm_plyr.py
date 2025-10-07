@@ -41,10 +41,9 @@ def read_input_csv():
 def filter_null_weeks_players(null_weeks_players, players):
     """
     Match NULL weeks players with NOT NULL weeks players.
-    Returns only unmatched NULL weeks players and a flag indicating if processing should abort.
+    Returns only unmatched NULL weeks players.
     """
     unmatched_null_weeks = []
-    should_abort = False
 
     for null_player in null_weeks_players:
         # Check if this player matches any NOT NULL weeks player
@@ -79,31 +78,45 @@ def filter_null_weeks_players(null_weeks_players, players):
 
                     # Edge case: if teams are different, this is a multi-team player
                     if null_team and not_null_team and null_team != not_null_team:
-                        # Check if former_team is already populated
+                        # Check if former_team is already populated (indicating a third team)
                         if player.get('former_team', ''):
-                            print(f"\nWARNING: Player {player['plyr_name']} (pos: {player['pos']}) already has a former team populated.")
-                            print(f"  Current team in row: {player['team_name']}")
-                            print(f"  Former team (already set): {player['former_team']}")
-                            print(f"  NULL weeks team: {null_team}")
-                            print(f"  This indicates a third team transition. Aborting CSV output.\n")
-                            should_abort = True
-                            found_match = True
-                            break
+                            # Move former_team → first_team
+                            player['first_team'] = player['former_team']
 
-                        # Set former team information
-                        player['former_team'] = not_null_team
+                            # Move current_team_week → former_team_first_week
+                            player['former_team_first_week'] = player.get('current_team_week', '')
 
-                        # Parse weeks to get min and max
-                        weeks = [int(w) for w in player['weeks'].split(',')]
-                        max_week = max(weeks)
-                        player['former_team_last_week'] = str(max_week)
-                        player['former_team_first_week'] = str(min(weeks))
+                            # Move former_team_last_week → first_team_last_week
+                            player['first_team_last_week'] = player.get('former_team_last_week', '')
 
-                        # Set current team week to former_team_last_week + 1
-                        player['current_team_week'] = str(max_week + 1)
+                            # Now set the new former team information
+                            player['former_team'] = not_null_team
 
-                        # Update team_name to the null player's team
-                        player['team_name'] = null_team
+                            # Parse weeks to get min and max
+                            weeks = [int(w) for w in player['weeks'].split(',')]
+                            max_week = max(weeks)
+                            player['former_team_last_week'] = str(max_week)
+
+                            # Set current team week to former_team_last_week + 1
+                            player['current_team_week'] = str(max_week + 1)
+
+                            # Update team_name to the null player's team
+                            player['team_name'] = null_team
+                        else:
+                            # Set former team information (two-team scenario)
+                            player['former_team'] = not_null_team
+
+                            # Parse weeks to get min and max
+                            weeks = [int(w) for w in player['weeks'].split(',')]
+                            max_week = max(weeks)
+                            player['former_team_last_week'] = str(max_week)
+                            player['former_team_first_week'] = str(min(weeks))
+
+                            # Set current team week to former_team_last_week + 1
+                            player['current_team_week'] = str(max_week + 1)
+
+                            # Update team_name to the null player's team
+                            player['team_name'] = null_team
 
                     found_match = True
                     break
@@ -114,7 +127,7 @@ def filter_null_weeks_players(null_weeks_players, players):
         if not found_match:
             unmatched_null_weeks.append(null_player)
 
-    return unmatched_null_weeks, should_abort
+    return unmatched_null_weeks
 
 def identify_multi_team_players(players):
     multi_team_players = {}
@@ -282,11 +295,7 @@ def write_output_csv(processed_players):
 
 def main():
     players, null_weeks_players = read_input_csv()
-    unmatched_null_weeks, should_abort = filter_null_weeks_players(null_weeks_players, players)
-
-    if should_abort:
-        print("Processing aborted due to multi-team conflicts. No CSV file generated.")
-        return
+    unmatched_null_weeks = filter_null_weeks_players(null_weeks_players, players)
 
     multi_team_players = identify_multi_team_players(players)
     processed_players = process_players(players, multi_team_players, unmatched_null_weeks)

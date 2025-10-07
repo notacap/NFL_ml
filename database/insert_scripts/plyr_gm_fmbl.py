@@ -64,7 +64,7 @@ def process_fumbles_data(file_path: str) -> pd.DataFrame:
     return df
 
 
-def process_game_files(db: DatabaseConnector, week: int, season_id: int) -> pd.DataFrame:
+def process_game_files(db: DatabaseConnector, week: int, season_id: int, interactive: bool = False) -> pd.DataFrame:
     """Process fumbles files for a specific week and return DataFrame."""
     
     base_dir = f"C:\\Users\\nocap\\Desktop\\code\\NFL_ml\\web_scrape\\scraped_data\\{YEAR}\\games"
@@ -134,7 +134,13 @@ def process_game_files(db: DatabaseConnector, week: int, season_id: int) -> pd.D
                         continue
                     
                     # Get player_id and team_id
-                    plyr_id = get_player_id(db, player_name, team_abrv, season_id)
+                    plyr_id = get_player_id(db, player_name, team_abrv, season_id, interactive=interactive)
+
+                    # Skip this player if user chose to skip in interactive mode
+                    if interactive and plyr_id == 0:
+                        print(f"[INFO] Skipping player {player_name} - user selection")
+                        continue
+
                     team_id = get_team_id(db, team_abrv)
                     
                     # Create processed row
@@ -191,6 +197,7 @@ def main():
     
     print(f"Starting Player Game Fumbles Data Import for {YEAR}")
     print(f"Processing weeks {WEEK_START} to {WEEK_END}")
+    print("[INFO] Interactive mode enabled - you will be prompted for player selection when multiple/no matches are found")
     
     # Initialize database connection
     db = DatabaseConnector()
@@ -215,7 +222,7 @@ def main():
         for week in range(WEEK_START, WEEK_END + 1):
             try:
                 print(f"\nProcessing Week {week}...")
-                processed_df = process_game_files(db, week, season_id)
+                processed_df = process_game_files(db, week, season_id, interactive=True)
                 
                 if not processed_df.empty:
                     success = batch_upsert_data(db, 'plyr_gm_fmbl', processed_df)
