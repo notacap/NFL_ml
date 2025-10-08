@@ -7,6 +7,45 @@ import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from clean_utils import YEAR, WEEK
 
+# Define position compatibility groups
+def positions_are_compatible(pos1, pos2):
+    """Check if two positions should be considered the same for player matching"""
+    if pos1 == pos2:
+        return True
+    # LB and DL are compatible (players can move between these positions)
+    compatible_groups = [
+        {'LB', 'DL'},
+        {'K', 'P'}
+    ]
+    for group in compatible_groups:
+        if pos1 in group and pos2 in group:
+            return True
+    return False
+
+def players_match(player1, player2):
+    """Check if two players match based on name, position compatibility, and at least 2 matching fields"""
+    # First check: plyr_name must match and positions must be compatible
+    if (player1['plyr_name'] != player2['plyr_name'] or
+        not positions_are_compatible(player1['pos'], player2['pos'])):
+        return False
+
+    # Second check: count matching fields
+    match_count = 0
+    fields_to_check = [
+        'age', 'weight', 'height', 'yrs_played',
+        'plyr_college', 'plyr_birthdate', 'plyr_draft_tm'
+    ]
+
+    for field in fields_to_check:
+        val1 = player1.get(field, '').strip()
+        val2 = player2.get(field, '').strip()
+        # Only count as match if both values exist and are equal
+        if val1 and val2 and val1 == val2:
+            match_count += 1
+
+    # If at least 2 additional fields match, consider it a match
+    return match_count >= 2
+
 # Define input and output paths using YEAR and WEEK variables
 INPUT_DIR = rf"C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\{YEAR}\plyr\plyr_raw\{WEEK}"
 OUTPUT_DIR = rf"C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\{YEAR}\plyr\plyr_clean\{WEEK}"
@@ -34,97 +73,117 @@ def read_input_csv():
                 # Create a unique key for each player
                 key = (row['plyr_name'], row['pos'], row['age'], row['yrs_played'],
                        row['weight'] or row['height'])  # Use weight or height, whichever is available
-                players[key].append(row)
+
+                # Check if we should merge with an existing player with compatible position
+                found_compatible = False
+                for existing_key in list(players.keys()):
+                    if (existing_key[0] == key[0] and  # Same name
+                        positions_are_compatible(existing_key[1], key[1]) and  # Compatible positions
+                        existing_key[2] == key[2] and  # Same age
+                        existing_key[3] == key[3] and  # Same years played
+                        existing_key[4] == key[4]):    # Same weight/height
+                        # Add to existing key group
+                        players[existing_key].append(row)
+                        found_compatible = True
+                        break
+
+                if not found_compatible:
+                    players[key].append(row)
 
     return players, null_weeks_players
 
 def filter_null_weeks_players(null_weeks_players, players):
     """
-    Match NULL weeks players with NOT NULL weeks players.
+    Match NULL weeks players with NOT NULL weeks players and other NULL weeks players.
     Returns only unmatched NULL weeks players.
     """
     unmatched_null_weeks = []
+    excluded_null_indices = set()  # Track NULL players to completely exclude
 
-    for null_player in null_weeks_players:
-        # Check if this player matches any NOT NULL weeks player
-        found_match = False
+    for i, null_player in enumerate(null_weeks_players):
+        if i in excluded_null_indices:
+            continue
+
+        # Count duplicate NULL weeks matches (excluding self)
+        null_matches_count = 0
+        null_match_indices = []
+        for j, other_null_player in enumerate(null_weeks_players):
+            if i != j and j not in excluded_null_indices:
+                if players_match(null_player, other_null_player):
+                    null_matches_count += 1
+                    null_match_indices.append(j)
+
+        # Count NOT NULL weeks matches
+        not_null_matches_count = 0
+        matching_not_null_players = []
         for player_data_list in players.values():
             for player in player_data_list:
-                # First check: plyr_name and pos must match
-                if (player['plyr_name'] != null_player['plyr_name'] or
-                    player['pos'] != null_player['pos']):
-                    continue
+                if players_match(null_player, player):
+                    not_null_matches_count += 1
+                    matching_not_null_players.append(player)
 
-                # Second check: count matching fields
-                match_count = 0
-                matched_fields = []
-                fields_to_check = [
-                    'age', 'weight', 'height', 'yrs_played',
-                    'plyr_college', 'plyr_birthdate', 'plyr_draft_tm'
-                ]
+        # Decision logic
+        if null_matches_count > 0 and null_matches_count == not_null_matches_count:
+            # Remove all NULL rows, don't modify team fields
+            excluded_null_indices.add(i)
+            excluded_null_indices.update(null_match_indices)
+            continue
 
-                for field in fields_to_check:
-                    null_val = null_player.get(field, '').strip()
-                    player_val = player.get(field, '').strip()
-                    # Only count as match if both values exist and are equal
-                    if null_val and player_val and null_val == player_val:
-                        match_count += 1
-                        matched_fields.append(f"{field}={null_val}")
+        # Check if this player matches any NOT NULL weeks player
+        found_match = False
+        if not_null_matches_count > 0 and null_matches_count <= not_null_matches_count:
+            # Only execute match logic if NULL matches <= NOT NULL matches
+            for player in matching_not_null_players:
+                null_team = null_player.get('team_name', '').strip()
+                not_null_team = player.get('team_name', '').strip()
 
-                # If at least 2 additional fields match, consider it a duplicate
-                if match_count >= 2:
-                    null_team = null_player.get('team_name', '').strip()
-                    not_null_team = player.get('team_name', '').strip()
+                # Edge case: if teams are different, this is a multi-team player
+                if null_team and not_null_team and null_team != not_null_team:
+                    # Check if former_team is already populated (indicating a third team)
+                    if player.get('former_team', ''):
+                        # Move former_team → first_team
+                        player['first_team'] = player['former_team']
 
-                    # Edge case: if teams are different, this is a multi-team player
-                    if null_team and not_null_team and null_team != not_null_team:
-                        # Check if former_team is already populated (indicating a third team)
-                        if player.get('former_team', ''):
-                            # Move former_team → first_team
-                            player['first_team'] = player['former_team']
+                        # Move current_team_week → former_team_first_week
+                        player['former_team_first_week'] = player.get('current_team_week', '')
 
-                            # Move current_team_week → former_team_first_week
-                            player['former_team_first_week'] = player.get('current_team_week', '')
+                        # Move former_team_last_week → first_team_last_week
+                        player['first_team_last_week'] = player.get('former_team_last_week', '')
 
-                            # Move former_team_last_week → first_team_last_week
-                            player['first_team_last_week'] = player.get('former_team_last_week', '')
+                        # Now set the new former team information
+                        player['former_team'] = not_null_team
 
-                            # Now set the new former team information
-                            player['former_team'] = not_null_team
+                        # Parse weeks to get min and max
+                        weeks = [int(w) for w in player['weeks'].split(',')]
+                        max_week = max(weeks)
+                        player['former_team_last_week'] = str(max_week)
 
-                            # Parse weeks to get min and max
-                            weeks = [int(w) for w in player['weeks'].split(',')]
-                            max_week = max(weeks)
-                            player['former_team_last_week'] = str(max_week)
+                        # Set current team week to former_team_last_week + 1
+                        player['current_team_week'] = str(max_week + 1)
 
-                            # Set current team week to former_team_last_week + 1
-                            player['current_team_week'] = str(max_week + 1)
+                        # Update team_name to the null player's team
+                        player['team_name'] = null_team
+                    else:
+                        # Set former team information (two-team scenario)
+                        player['former_team'] = not_null_team
 
-                            # Update team_name to the null player's team
-                            player['team_name'] = null_team
-                        else:
-                            # Set former team information (two-team scenario)
-                            player['former_team'] = not_null_team
+                        # Parse weeks to get min and max
+                        weeks = [int(w) for w in player['weeks'].split(',')]
+                        max_week = max(weeks)
+                        player['former_team_last_week'] = str(max_week)
+                        player['former_team_first_week'] = str(min(weeks))
 
-                            # Parse weeks to get min and max
-                            weeks = [int(w) for w in player['weeks'].split(',')]
-                            max_week = max(weeks)
-                            player['former_team_last_week'] = str(max_week)
-                            player['former_team_first_week'] = str(min(weeks))
+                        # Set current team week to former_team_last_week + 1
+                        player['current_team_week'] = str(max_week + 1)
 
-                            # Set current team week to former_team_last_week + 1
-                            player['current_team_week'] = str(max_week + 1)
+                        # Update team_name to the null player's team
+                        player['team_name'] = null_team
 
-                            # Update team_name to the null player's team
-                            player['team_name'] = null_team
-
-                    found_match = True
-                    break
-            if found_match:
+                found_match = True
                 break
 
         # If no match found, keep this NULL weeks player
-        if not found_match:
+        if not found_match and i not in excluded_null_indices:
             unmatched_null_weeks.append(null_player)
 
     return unmatched_null_weeks

@@ -6,7 +6,7 @@ import logging
 from typing import Dict, Any, List, Optional
 
 # Configuration: Set the year and week for data processing
-YEAR = 2022
+YEAR = 2023
 WEEK = 18
 WEEK_START = 1 
 WEEK_END = 18

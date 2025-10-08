@@ -1,14 +1,14 @@
 import os
 
 # Year variable to determine the data year
-YEAR = 2025
+YEAR = 2023
 
 # Week variable to determine the week number (1-18)
-WEEK = 4
+WEEK = 18
 
 # Week range variables for processing multiple weeks
-WEEK_START = 4
-WEEK_END = 4
+WEEK_START = 1
+WEEK_END = 18
 
 def get_source_directory():
     """
