@@ -438,10 +438,11 @@ def process_csv_file(db: DatabaseConnector, file_path: str, season_id: int, inte
     processed_rows = []
     for index, row in df.iterrows():
         try:
-            # Get player name and team from row
+            # Get player name, team, and position from row
             player_name = row.get('Player', '')
             team_partial_name = row.get('team', '')
-            
+            position = row.get('Pos', '')
+
             if not player_name or player_name.strip() == '':
                 continue
             
@@ -457,8 +458,8 @@ def process_csv_file(db: DatabaseConnector, file_path: str, season_id: int, inte
                 # Fall back to using the original team name
                 team_abbrev = team_partial_name
                 
-            # Get player_id using centralized function with team abbreviation
-            plyr_id = get_player_id(db, player_name, team_abbrev, season_id, interactive=interactive)
+            # Get player_id using centralized function with team abbreviation and position
+            plyr_id = get_player_id(db, player_name, team_abbrev, season_id, position=position, interactive=interactive)
 
             # Skip this player if user chose to skip in interactive mode
             if interactive and plyr_id == 0:
@@ -554,7 +555,14 @@ def get_csv_files() -> list:
         else:
             print(f"[WARNING] Week directory not found: {week_dir}")
     
-    return sorted(csv_files)
+    # Sort by week number (extract from path: week_X.0)
+    def extract_week_num(filepath):
+        for part in filepath.split(os.sep):
+            if part.startswith('week_'):
+                return float(part.replace('week_', '').replace(os.sep, ''))
+        return 0
+
+    return sorted(csv_files, key=extract_week_num)
 
 
 def main():

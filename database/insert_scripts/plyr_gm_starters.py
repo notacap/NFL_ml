@@ -130,7 +130,7 @@ def get_team_abbreviation(db: DatabaseConnector, team_name: str) -> str:
     return team_name
 
 
-def process_starter_csv_files(db: DatabaseConnector, home_file: str, away_file: str, season_id: int) -> pd.DataFrame:
+def process_starter_csv_files(db: DatabaseConnector, home_file: str, away_file: str, season_id: int, interactive: bool = False) -> pd.DataFrame:
     """Process both home and away starter CSV files and return consolidated DataFrame."""
     
     print(f"Processing home file: {os.path.basename(home_file)}")
@@ -186,9 +186,15 @@ def process_starter_csv_files(db: DatabaseConnector, home_file: str, away_file: 
             
             # Get team abbreviation for player lookup
             team_abrv = get_team_abbreviation(db, team_name)
-            
-            # Get player_id and team_id
-            plyr_id = get_player_id(db, player_name, team_abrv, season_id)
+
+            # Get player_id and team_id (pass mapped position for better disambiguation)
+            plyr_id = get_player_id(db, player_name, team_abrv, season_id, position=mapped_position, interactive=interactive)
+
+            # Skip this player if user chose to skip in interactive mode
+            if interactive and plyr_id == 0:
+                print(f"[INFO] Skipping player {player_name} - user selection")
+                continue
+
             team_id = get_team_id(db, team_name)
             
             # Create processed row
@@ -227,7 +233,8 @@ def main():
     
     print(f"Starting Player Game Starters Data Import for {YEAR}")
     print(f"Processing weeks {WEEK_START} to {WEEK_END}")
-    
+    print("[INFO] Interactive mode enabled - you will be prompted for player selection when multiple/no matches are found")
+
     # Initialize database connection
     db = DatabaseConnector()
     if not db.connect():
@@ -257,7 +264,7 @@ def main():
         # Process each file pair
         for week, home_file, away_file in csv_file_pairs:
             try:
-                processed_df = process_starter_csv_files(db, home_file, away_file, season_id)
+                processed_df = process_starter_csv_files(db, home_file, away_file, season_id, interactive=True)
                 
                 if not processed_df.empty:
                     success = batch_upsert_data(db, 'plyr_gm_starters', processed_df)

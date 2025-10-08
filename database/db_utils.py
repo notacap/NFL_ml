@@ -6,7 +6,7 @@ import logging
 from typing import Dict, Any, List, Optional
 
 # Configuration: Set the year and week for data processing
-YEAR = 2024
+YEAR = 2022
 WEEK = 18
 WEEK_START = 1 
 WEEK_END = 18
@@ -627,10 +627,19 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
     Raises:
         ValueError: If no player found or lookup fails (non-interactive mode)
     """
+    # Apply position mapping if position provided
+    mapped_position = apply_position_mapping(position) if position else None
+
     # Generate name variations to handle suffixes
     suffixes = ["II", "III", "IV", "Jr.", "Sr."]
     name_variations = [player_name] + [f"{player_name} {suffix}" for suffix in suffixes]
     placeholders = ', '.join(['%s'] * len(name_variations))
+
+    # Build dynamic WHERE clauses for age and position
+    age_clause = " AND p.plyr_age = %s" if age else ""
+    pos_clause = " AND p.plyr_pos = %s" if mapped_position else ""
+    age_clause_mtp = " AND mtp.plyr_age = %s" if age else ""
+    pos_clause_mtp = " AND mtp.plyr_pos = %s" if mapped_position else ""
 
     if team_abrv and team_abrv.strip():
         # Search with team filtering for better accuracy
@@ -638,7 +647,7 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
         SELECT p.plyr_id, p.plyr_name, 'plyr' AS source, p.team_id, t.abrv, p.plyr_pos, p.plyr_age
         FROM plyr p
         JOIN nfl_team t ON p.team_id = t.team_id
-        WHERE p.plyr_name IN ({placeholders}) AND (t.abrv = %s OR t.alt_abrv = %s) AND p.season_id = %s
+        WHERE p.plyr_name IN ({placeholders}) AND (t.abrv = %s OR t.alt_abrv = %s) AND p.season_id = %s{age_clause}{pos_clause}
         UNION
         SELECT mtp.plyr_id, mtp.plyr_name, 'multi_tm_plyr' AS source,
                COALESCE(mtp.former_tm_id, mtp.first_tm_id) AS team_id,
@@ -647,18 +656,32 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
         FROM multi_tm_plyr mtp
         LEFT JOIN nfl_team t1 ON mtp.former_tm_id = t1.team_id
         LEFT JOIN nfl_team t2 ON mtp.first_tm_id = t2.team_id
-        WHERE mtp.plyr_name IN ({placeholders}) AND (t1.abrv = %s OR t1.alt_abrv = %s OR t2.abrv = %s OR t2.alt_abrv = %s) AND mtp.season_id = %s
+        WHERE mtp.plyr_name IN ({placeholders}) AND (t1.abrv = %s OR t1.alt_abrv = %s OR t2.abrv = %s OR t2.alt_abrv = %s) AND mtp.season_id = %s{age_clause_mtp}{pos_clause_mtp}
         """
-        params = name_variations + [team_abrv, team_abrv, season_id] + name_variations + [team_abrv, team_abrv, team_abrv, team_abrv, season_id]
+        # Build parameter list dynamically
+        params = name_variations + [team_abrv, team_abrv, season_id]
+        if age:
+            params.append(age)
+        if mapped_position:
+            params.append(mapped_position)
+        params.extend(name_variations + [team_abrv, team_abrv, team_abrv, team_abrv, season_id])
+        if age:
+            params.append(age)
+        if mapped_position:
+            params.append(mapped_position)
     else:
         # Search without team filtering if team not available
         query = f"""
         SELECT p.plyr_id, p.plyr_name, 'plyr' AS source, p.team_id, t.abrv, p.plyr_pos, p.plyr_age
         FROM plyr p
         JOIN nfl_team t ON p.team_id = t.team_id
-        WHERE p.plyr_name IN ({placeholders}) AND p.season_id = %s
+        WHERE p.plyr_name IN ({placeholders}) AND p.season_id = %s{age_clause}{pos_clause}
         """
         params = name_variations + [season_id]
+        if age:
+            params.append(age)
+        if mapped_position:
+            params.append(mapped_position)
 
     results = db.fetch_all(query, params)
 
