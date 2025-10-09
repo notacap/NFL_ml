@@ -146,38 +146,37 @@ def process_player_red_zone_data(db: DatabaseConnector, df: pd.DataFrame, season
                     # For multi-team players, we can't use team to disambiguate
                     # If multiple matches found, will need manual selection
                     player_id = get_player_id(
-                        db, 
-                        row['player_name'], 
+                        db,
+                        row['player_name'],
                         '', # No team filter for multi-team players
-                        season_id
-                    )
-                except ValueError as e:
-                    if "multiple matches" in str(e).lower():
-                        # For multi-team players, we need manual selection since we can't use team
-                        if interactive:
-                            print(f"[INFO] Multiple matches found for multi-team player {row['player_name']}")
-                            print(f"[INFO] Please run script in interactive mode to select correct player")
-                        print(f"[ERROR] Multiple matches found for multi-team player {row['player_name']} - use interactive mode or check player lookup")
-                        error_count += 1
-                        continue
-                    else:
-                        print(f"[ERROR] Could not find player {row['player_name']} ({row['team']}): {e}")
-                        error_count += 1
-                        continue
-            else:
-                # Get player ID using team for disambiguation
-                try:
-                    player_id = get_player_id(
-                        db, 
-                        row['player_name'], 
-                        row['team'], 
-                        season_id
+                        season_id,
+                        interactive=interactive
                     )
                 except ValueError as e:
                     print(f"[ERROR] Could not find player {row['player_name']} ({row['team']}): {e}")
                     error_count += 1
                     continue
-            
+            else:
+                # Get player ID using team for disambiguation
+                try:
+                    player_id = get_player_id(
+                        db,
+                        row['player_name'],
+                        row['team'],
+                        season_id,
+                        interactive=interactive
+                    )
+                except ValueError as e:
+                    print(f"[ERROR] Could not find player {row['player_name']} ({row['team']}): {e}")
+                    error_count += 1
+                    continue
+
+            # Skip this player if user chose to skip in interactive mode
+            if interactive and player_id == 0:
+                print(f"[INFO] Skipping player {row['player_name']} - user selection")
+                skipped_count += 1
+                continue
+
             # Prepare data row for database insertion
             data_row = {
                 'plyr_id': player_id,
