@@ -31,6 +31,7 @@ INTERACTIVE_SCRIPTS = [
     'plyr_def.py',
     'plyr_pass.py',
     'plyr_rush.py',
+    'plyr_scoring.py',
     'plyr_rz_pass.py',
     'plyr_rz_rec.py',
     'plyr_rz_rush.py',
