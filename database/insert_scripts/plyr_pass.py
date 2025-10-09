@@ -338,7 +338,7 @@ def consolidate_player_stats(basic_df: pd.DataFrame, advanced_df: pd.DataFrame) 
     
     return merged_df
 
-def process_player_passing_data(db: DatabaseConnector, df: pd.DataFrame, season_id: int, week_id: int, interactive: bool = False) -> pd.DataFrame:
+def process_player_passing_data(db: DatabaseConnector, df: pd.DataFrame, season_id: int, week_id: int, interactive: bool = True) -> pd.DataFrame:
     """Process consolidated player passing data for database insertion"""
     
     processed_data = []
@@ -462,30 +462,19 @@ def parse_arguments():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  python plyr_pass.py                    # Run in standard mode (auto-select first match)
-  python plyr_pass.py --interactive      # Run in interactive mode (manual player selection)
+  python plyr_pass.py                    # Run with interactive player selection (default)
         """
     )
-    
-    parser.add_argument(
-        '--interactive', '-i',
-        action='store_true',
-        help='Enable interactive mode for manual player selection when multiple matches are found'
-    )
-    
+
     return parser.parse_args()
 
 def main():
     """Main execution function"""
     args = parse_arguments()
-    
+
     print(f"[INFO] Starting plyr_pass.py script for {YEAR} week {WEEK}")
     print(f"[INFO] Timestamp: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-    
-    if args.interactive:
-        print("[INFO] Interactive mode enabled - you will be prompted for player selection when multiple matches are found")
-    else:
-        print("[INFO] Standard mode - script will automatically select first match for multiple player matches")
+    print("[INFO] Interactive mode enabled - you will be prompted for player selection when multiple matches are found")
     
     # Initialize database connection
     db = DatabaseConnector()
@@ -515,9 +504,9 @@ def main():
         
         # Consolidate player stats
         consolidated_df = consolidate_player_stats(basic_df, advanced_df)
-        
-        # Process data for database insertion
-        processed_df = process_player_passing_data(db, consolidated_df, season_id, week_id, args.interactive)
+
+        # Process data for database insertion (interactive mode is now default)
+        processed_df = process_player_passing_data(db, consolidated_df, season_id, week_id)
         
         if processed_df.empty:
             print("[WARNING] No data to insert")
