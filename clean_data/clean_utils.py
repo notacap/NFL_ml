@@ -1,7 +1,7 @@
 import os
 
 # Year variable to determine the data year
-YEAR = 2023
+YEAR = 2024
 
 # Week variable to determine the week number (1-18)
 WEEK = 18

@@ -6,7 +6,7 @@ import logging
 from typing import Dict, Any, List, Optional
 
 # Configuration: Set the year and week for data processing
-YEAR = 2023
+YEAR = 2024
 WEEK = 18
 WEEK_START = 1 
 WEEK_END = 18
@@ -699,11 +699,17 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
             print(f"[WARNING] Multiple matches found for {player_name} ({team_abrv}). Using first match.")
             return results[0][0]
     else:
-        if interactive:
-            print(f"[ERROR] No player found for {player_name} ({team_abrv}) in season {season_id}")
-            return 0  # Allow skipping in interactive mode
+        # Fall back to basic lookup without age/position if no exact match
+        if age or position:
+            print(f"[INFO] No exact match for {player_name} with age/position. Trying basic lookup...")
+            # Retry without age and position constraints
+            return get_player_id(db, player_name, team_abrv, season_id, age=None, position=None, interactive=interactive)
         else:
-            raise ValueError(f"No player found for {player_name} ({team_abrv}) in season {season_id}")
+            if interactive:
+                print(f"[ERROR] No player found for {player_name} ({team_abrv}) in season {season_id}")
+                return 0  # Allow skipping in interactive mode
+            else:
+                raise ValueError(f"No player found for {player_name} ({team_abrv}) in season {season_id}")
 
 
 def interactive_player_selection(player_name: str, team_abrv: str, age: int, position: str, matches: list) -> int:
@@ -880,12 +886,13 @@ def apply_position_mapping(position: str) -> str:
         'QB': 'QB', 
         'RB': 'RB', 
         'WR': 'WR', 
-        'TE': 'TE',
-        'G': 'OL', 'C': 'OL', 'OG': 'OL', 'IOL': 'OL', 'OL': 'OL', 'LG': 'OL', 'RG': 'OL', 'LG/RG': 'OL',
+        'TE': 'TE', 'TE/QB': 'TE',
+        'G': 'OL', 'C': 'OL', 'OG': 'OL', 'IOL': 'OL', 'OL': 'OL', 'LG': 'OL', 'RG': 'OL', 'LG/RG': 'OL', 'LG/RT': 'OL', 'C/RG': 'OL', 'LT/RT': 'OL', 'T-G': 'OL', 'RG/LG': 'OL', 'RG/LT': 'OL',
         'T': 'OL', 'OT': 'OL', 'RT': 'OL', 'LT': 'OL', 'RT/LT': 'OL',
-        'DE': 'DL', 'DT': 'DL', 'NT': 'DL', 'LDE': 'DL', 'RDE': 'DL', 'LDE/RDE': 'DL', 'LDT': 'DL', 'RDT': 'DL', 'LDT/RDT': 'DL',
-        'LB': 'LB', 'ILB': 'LB', 'MLB': 'LB', 'RLB/MLB': 'LB', 'OLB': 'LB', 'LOLB': 'LB', 'ROLB': 'LB', 'LILB': 'LB', 'RILB': 'LB', 'LILB/RILB': 'LB', 'RILB/LILB': 'LB', 'LLB': 'LB', 'RLB': 'LB',
-        'CB': 'DB', 'DB': 'DB', 'LCB': 'DB', 'RCB': 'DB', 'LCB/RCB': 'DB', 'FS': 'DB', 'SS': 'DB','S': 'DB', 'SS/FS': 'DB',
+        'FB/DL': 'FB',
+        'DE': 'DL', 'DT': 'DL', 'NT': 'DL', 'LDE': 'DL', 'RDE': 'DL', 'LDE/RDE': 'DL', 'LDT': 'DL', 'RDT': 'DL', 'LDT/RDT': 'DL', 'DT/LB': 'DL', 'RDE/LDE': 'DL',
+        'LB': 'LB', 'ILB': 'LB', 'MLB': 'LB', 'RLB/MLB' : 'LB', 'OLB': 'LB', 'LOLB': 'LB', 'ROLB': 'LB', 'LILB': 'LB', 'RILB': 'LB', 'LILB/RILB': 'LB', 'RILB/LILB': 'LB', 'LLB': 'LB', 'RLB': 'LB', 'MLB/RLB': 'LB', 'KB': 'LB',
+        'CB': 'DB', 'DB': 'DB', 'LCB' : 'DB', 'RCB' : 'DB', 'LCB/RCB': 'DB', 'FS': 'DB', 'SS': 'DB','S': 'DB', 'SS/FS': 'DB', 'LBC/DB': 'DB', 'DB/LCB': 'DB', 'LCB/DB': 'DB',
         'K': 'K', 'PK': 'K',
         'P': 'P', 
         'LS': 'LS'
