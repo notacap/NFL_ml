@@ -122,7 +122,7 @@ def load_red_zone_rushing_stats(year: int, week: int) -> pd.DataFrame:
     print(f"[INFO] Loaded {len(df)} red zone rushing records")
     return df
 
-def process_player_red_zone_data(db: DatabaseConnector, df: pd.DataFrame, season_id: int, week_id: int, interactive: bool = False) -> pd.DataFrame:
+def process_player_red_zone_data(db: DatabaseConnector, df: pd.DataFrame, season_id: int, week_id: int, interactive: bool = True) -> pd.DataFrame:
     """Process player red zone rushing data for database insertion"""
     
     processed_data = []
@@ -232,30 +232,19 @@ def parse_arguments():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  python plyr_rz_rush.py                    # Run in standard mode (auto-select first match)
-  python plyr_rz_rush.py --interactive      # Run in interactive mode (manual player selection)  
+  python plyr_rz_rush.py                    # Run with interactive player selection (default)
         """
     )
-    
-    parser.add_argument(
-        '--interactive', '-i',
-        action='store_true',
-        help='Enable interactive mode for manual player selection when multiple matches are found'
-    )
-    
+
     return parser.parse_args()
 
 def main():
     """Main execution function"""
     args = parse_arguments()
-    
+
     print(f"[INFO] Starting plyr_rz_rush.py script for {YEAR} week {WEEK}")
     print(f"[INFO] Timestamp: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-    
-    if args.interactive:
-        print("[INFO] Interactive mode enabled - you will be prompted for player selection when multiple matches are found")
-    else:
-        print("[INFO] Standard mode - script will automatically select first match for multiple player matches")
+    print("[INFO] Interactive mode enabled - you will be prompted for player selection when multiple matches are found")
     
     # Initialize database connection
     db = DatabaseConnector()
@@ -281,9 +270,9 @@ def main():
         
         # Load CSV data
         df = load_red_zone_rushing_stats(YEAR, WEEK)
-        
-        # Process data for database insertion
-        processed_df = process_player_red_zone_data(db, df, season_id, week_id, args.interactive)
+
+        # Process data for database insertion (interactive mode is default)
+        processed_df = process_player_red_zone_data(db, df, season_id, week_id)
         
         if processed_df.empty:
             print("[WARNING] No data to insert")
