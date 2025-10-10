@@ -32,7 +32,8 @@ def get_scraper_files(scripts_dir, api_dir):
         'all_active_player.py',
         'weather.py',
         'temp_defense_advanced.py',
-        'nfl_schedule.py'
+        'nfl_schedule.py',
+        'roster_details.py'
     }
     
     # Get files from main scripts directory

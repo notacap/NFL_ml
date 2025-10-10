@@ -20,7 +20,7 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 EXCLUSIONS = [
     'nfl_season.py',
     'nfl_team.py',
-    'nfl_game_weather.py',
+    'nfl_gm_weather.py',
     'nfl_gm_quarter.py',
     'nfl_week.py'
 ]

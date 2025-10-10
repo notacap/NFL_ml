@@ -11,18 +11,17 @@ from decimal import Decimal, InvalidOperation
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from db_utils import (
-    DatabaseConnector, 
-    load_csv_data, 
-    handle_null_values, 
+    DatabaseConnector,
+    load_csv_data,
+    handle_null_values,
     batch_upsert_data,
     get_season_id,
     get_week_id,
     create_table_if_not_exists,
-    YEAR
+    YEAR,
+    WEEK_START,
+    WEEK_END
 )
-
-# Directory containing the CSV files
-csv_directory = rf'C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\{YEAR}\weather_api'
 
 def create_nfl_gm_weather_table(db: DatabaseConnector) -> bool:
     """Create nfl_gm_weather table if it doesn't exist"""
@@ -186,46 +185,38 @@ def prepare_upsert_data(weather_data, game_id, week_id, season_id):
 
     return data
 
-def extract_game_info_from_filename(filename):
-    """Extract game information for chronological sorting"""
-    # Expected format: weather_game_{game_id}_week_{week_id}_TIMESTAMP.csv
-    import re
-
-    # Extract game_id and week_id from filename
-    match = re.search(r'weather_game_(\d+)_week_(\d+)_(\d{8}_\d{6})\.csv', filename.lower())
-    if match:
-        game_id = int(match.group(1))
-        week_id = int(match.group(2))
-        timestamp = match.group(3)
-
-        # Sort by game_id (which should correspond to chronological order)
-        # as games are typically assigned IDs sequentially throughout the season
-        return (game_id, week_id, timestamp)
-
-    # Fallback: extract any numbers for basic sorting
-    numbers = re.findall(r'\d+', filename)
-    if len(numbers) >= 2:
-        return (int(numbers[0]), int(numbers[1]), filename)
-    elif len(numbers) >= 1:
-        return (int(numbers[0]), 0, filename)
-
-    # Final fallback: alphabetical
-    return (999999, 999999, filename)
-
 def get_weather_csv_files() -> list:
-    """Get weather CSV files from the specified directory, sorted chronologically"""
-    weather_pattern = os.path.join(csv_directory, "*.csv")
-    weather_files = glob.glob(weather_pattern)
+    """Get weather CSV files from the specified directory structure based on WEEK_START and WEEK_END."""
+    base_dir = f"C:\\Users\\nocap\\Desktop\\code\\NFL_ml\\web_scrape\\scraped_data\\{YEAR}\\weather"
+    csv_files = []
 
-    if not weather_files:
-        raise FileNotFoundError(f"No weather CSV files found in {csv_directory}")
+    for week in range(WEEK_START, WEEK_END + 1):
+        week_dir = os.path.join(base_dir, f"week_{week}")
 
-    # Sort files chronologically by week, then by game number, then by timestamp
-    weather_files = sorted(weather_files, key=lambda f: extract_game_info_from_filename(os.path.basename(f)))
+        if os.path.exists(week_dir):
+            # New filename pattern: {home_team}_{away_team}_wk{week}_{YEAR}_weather_{date}_{time}.csv
+            # Example: Arizona_Cardinals_Kansas_City_Chiefs_wk1_2022_weather_20251010_172455.csv
+            pattern = os.path.join(week_dir, "*_wk*_*_weather_*.csv")
+            week_files = glob.glob(pattern)
 
-    print(f"Found {len(weather_files)} weather CSV files")
-    print(f"Processing order: Week {extract_game_info_from_filename(os.path.basename(weather_files[0]))[0]} to Week {extract_game_info_from_filename(os.path.basename(weather_files[-1]))[0]}")
-    return weather_files
+            for file_path in week_files:
+                csv_files.append((week, file_path))
+
+            if not week_files:
+                print(f"[WARNING] No weather files found in {week_dir}")
+        else:
+            print(f"[WARNING] Week directory not found: {week_dir}")
+
+    if not csv_files:
+        raise FileNotFoundError(f"No weather CSV files found in {base_dir} for weeks {WEEK_START}-{WEEK_END}")
+
+    # Sort by week number and then by filename
+    csv_files = sorted(csv_files, key=lambda x: (x[0], x[1]))
+
+    print(f"Found {len(csv_files)} weather CSV files")
+    print(f"Processing weeks {WEEK_START} to {WEEK_END}")
+
+    return csv_files
 
 def main():
     """Main execution function"""
@@ -265,10 +256,10 @@ def main():
         processed_records = []
         skipped_files = 0
 
-        for file_path in weather_files:
+        for week, file_path in weather_files:
             total_files += 1
             filename = os.path.basename(file_path)
-            print(f"Processing file: {filename}")
+            print(f"Processing file: {filename} (Week {week})")
             
             result = process_weather_data(file_path, game_times)
             

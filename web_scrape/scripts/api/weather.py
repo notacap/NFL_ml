@@ -67,15 +67,17 @@ def get_season_id_for_year(year):
 def fetch_game_data():
     """
     Fetches game data for the current year from scraper_utils.YEAR
+    Filters by START_WEEK and END_WEEK range
     """
     # Get season_id for the current year
     season_id = get_season_id_for_year(YEAR)
     if season_id is None:
         print(f"No season found for year {YEAR}")
         return []
-    
+
     print(f"Using season_id {season_id} for year {YEAR}")
-    
+    print(f"Filtering games for weeks {START_WEEK} to {END_WEEK}")
+
     connection = get_database_connection()
     if connection is None:
         return []
@@ -83,12 +85,25 @@ def fetch_game_data():
     try:
         cursor = connection.cursor(dictionary=True)
         query = """
-        SELECT ng.game_id, ng.week_id, ng.game_date, nt.stadium_latitude, nt.stadium_longitude
+        SELECT
+            ng.game_id,
+            ng.week_id,
+            ng.game_date,
+            nw.week_num,
+            nt_home.stadium_latitude,
+            nt_home.stadium_longitude,
+            nt_home.team_name as home_team,
+            nt_away.team_name as away_team
         FROM nfl_game ng
-        JOIN nfl_team nt ON ng.home_team_id = nt.team_id
+        JOIN nfl_team nt_home ON ng.home_team_id = nt_home.team_id
+        JOIN nfl_team nt_away ON ng.away_team_id = nt_away.team_id
+        JOIN nfl_week nw ON ng.week_id = nw.week_id AND ng.season_id = nw.season_id
         WHERE ng.season_id = %s
+        AND nw.week_num >= %s
+        AND nw.week_num <= %s
+        ORDER BY nw.week_num, ng.game_date
         """
-        cursor.execute(query, (season_id,))
+        cursor.execute(query, (season_id, START_WEEK, END_WEEK))
         games = cursor.fetchall()
         return games
     except Error as e:
@@ -112,10 +127,10 @@ def get_weather_data(game):
         "precipitation_unit": "inch",
         "timezone": "auto"
     }
-    
+
     responses = openmeteo.weather_api(url, params=params)
     response = responses[0]
-    
+
     hourly = response.Hourly()
     hourly_data = {
         "date": pd.date_range(
@@ -135,47 +150,102 @@ def get_weather_data(game):
         "wind_direction_10m": hourly.Variables(8).ValuesAsNumpy(),
         "wind_gusts_10m": hourly.Variables(9).ValuesAsNumpy()
     }
-    
+
     df = pd.DataFrame(data=hourly_data)
     df['game_id'] = game['game_id']
     df['week_id'] = game['week_id']
+    df['year'] = YEAR
     df['timezone_abbreviation'] = response.TimezoneAbbreviation()
-    
+
     return df
+
+def create_week_directory(week_num):
+    """
+    Creates directory structure for a specific week.
+
+    Args:
+        week_num (float or int): Week number
+
+    Returns:
+        str: Path to the week directory
+    """
+    weather_dir = os.path.join(ROOT_DATA_DIR, str(YEAR), "weather")
+    week_dir = os.path.join(weather_dir, f"week_{week_num}")
+
+    if not os.path.exists(week_dir):
+        os.makedirs(week_dir, exist_ok=True)
+
+    return week_dir
+
+def generate_weather_filename(home_team, away_team, week_num):
+    """
+    Generates filename for weather data CSV.
+
+    Args:
+        home_team (str): Home team name
+        away_team (str): Away team name
+        week_num (float or int): Week number
+
+    Returns:
+        str: Formatted filename
+    """
+    from datetime import datetime
+
+    # Clean team names (replace spaces with underscores)
+    home_clean = home_team.replace(" ", "_")
+    away_clean = away_team.replace(" ", "_")
+
+    # Add timestamp
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+
+    filename = f"{home_clean}_{away_clean}_wk{week_num}_{YEAR}_weather_{timestamp}.csv"
+    return filename
 
 def main():
     """Main execution function."""
     # Start logging session
     start_scraper_session("weather_api")
-    
+
     try:
         print(f"Scraping NFL weather data for year: {YEAR}")
-        
-        # Create directory structure
-        weather_dir = create_directories(YEAR, "weather_api")
-        print(f"Data will be saved to: {weather_dir}")
-        
+        print(f"Week range: {START_WEEK} - {END_WEEK}")
+
         games = fetch_game_data()
-        
+
         if not games:
             print("No games found to process")
             return
-            
+
         print(f"Found {len(games)} games to process")
-        
+
         for game in games:
-            print(f"Processing game ID: {game['game_id']}")
+            week_num = game['week_num']
+            home_team = game['home_team']
+            away_team = game['away_team']
+
+            print(f"\nProcessing Week {week_num}: {away_team} @ {home_team}")
+            print(f"Game ID: {game['game_id']}")
+
             try:
+                # Create week directory
+                week_dir = create_week_directory(week_num)
+
+                # Get weather data
                 weather_data = get_weather_data(game)
-                
-                filename = f"weather_game_{game['game_id']}_week_{game['week_id']}.csv"
-                save_data_to_csv(weather_data, weather_dir, filename)
-                
+
+                # Generate filename and save
+                filename = generate_weather_filename(home_team, away_team, week_num)
+                csv_path = os.path.join(week_dir, filename)
+
+                weather_data.to_csv(csv_path, index=False)
+                print(f"Saved: {filename}")
+                log_successful_table(filename, csv_path, f"game_{game['game_id']}")
+
             except Exception as e:
                 print(f"Error processing game {game['game_id']}: {e}")
-                log_failed_table(f"game_{game['game_id']}", f"Error processing weather data: {e}")
+                log_failed_table(f"{home_team}_{away_team}_wk{week_num}", f"Error processing weather data: {e}")
                 continue
-    
+
     finally:
         # End logging session
         end_scraper_session()
