@@ -13,9 +13,11 @@ from db_utils import (
     handle_null_values,
     batch_upsert_data,
     get_season_id,
+    get_week_id,
     get_team_id,
     create_table_if_not_exists,
-    YEAR
+    YEAR,
+    WEEK
 )
 
 def create_tm_def_rush_table(db: DatabaseConnector) -> bool:
@@ -26,13 +28,15 @@ def create_tm_def_rush_table(db: DatabaseConnector) -> bool:
         tm_def_rush_id INT AUTO_INCREMENT PRIMARY KEY,
         team_id INT,
         season_id INT,
+        week_id INT,
         tm_def_rush_att INT,
         tm_def_rush_yds INT,
         tm_def_rush_td INT,
         tm_def_rush_yds_att DECIMAL(7,4),
         tm_def_rush_yds_gm DECIMAL(7,4),
         tm_def_rush_exp DECIMAL(7,4),
-        UNIQUE KEY uk_tm_season (team_id, season_id),
+        UNIQUE KEY uk_tm_season (team_id, season_id, week_id),
+        FOREIGN KEY (week_id) REFERENCES nfl_week(week_id),
         FOREIGN KEY (team_id) REFERENCES nfl_team(team_id),
         FOREIGN KEY (season_id) REFERENCES nfl_season(season_id)
     );
@@ -43,8 +47,8 @@ def create_tm_def_rush_table(db: DatabaseConnector) -> bool:
 def get_tm_def_rush_csv_file() -> str:
     """Get the most recent tm_def_rush CSV file"""
 
-    # Define base path using YEAR from db_utils (this is season-level data, not week-level)
-    tm_def_rush_path = f"C:\\Users\\nocap\\Desktop\\code\\NFL_ml\\web_scrape\\scraped_data\\{YEAR}\\tm_def_rush\\week_18"
+    # Define base path using YEAR and WEEK from db_utils
+    tm_def_rush_path = f"C:\\Users\\nocap\\Desktop\\code\\NFL_ml\\web_scrape\\scraped_data\\{YEAR}\\tm_def_rush\\week_{WEEK}"
 
     # Find tm_def_rush files
     tm_def_rush_pattern = os.path.join(tm_def_rush_path, "*tm_def_rush*.csv")
@@ -57,7 +61,7 @@ def get_tm_def_rush_csv_file() -> str:
 
     return tm_def_rush_files[0]
 
-def process_tm_def_rush_data(db: DatabaseConnector, csv_file: str, season_id: int) -> pd.DataFrame:
+def process_tm_def_rush_data(db: DatabaseConnector, csv_file: str, season_id: int, week_id: int) -> pd.DataFrame:
     """Process tm_def_rush data"""
 
     # Load tm_def_rush data
@@ -102,6 +106,7 @@ def process_tm_def_rush_data(db: DatabaseConnector, csv_file: str, season_id: in
             record = {
                 'team_id': team_id,
                 'season_id': season_id,
+                'week_id': week_id,
                 'tm_def_rush_att': safe_convert_int(row.get('Att')),      # Rushing attempts allowed
                 'tm_def_rush_yds': safe_convert_int(row.get('Yds')),      # Rushing yards allowed
                 'tm_def_rush_td': safe_convert_int(row.get('TD')),        # Rushing TDs allowed
@@ -144,16 +149,17 @@ def main():
             print("Failed to create tm_def_rush table")
             return False
 
-        # Get season_id (this is season-level data, no week_id needed)
+        # Get foreign key values
         season_id = get_season_id(db, YEAR)
+        week_id = get_week_id(db, season_id, str(WEEK))
 
-        print(f"Processing data for season {YEAR} (ID: {season_id})")
+        print(f"Processing data for season {YEAR} (ID: {season_id}), week {WEEK} (ID: {week_id})")
 
         # Get CSV file
         csv_file = get_tm_def_rush_csv_file()
 
         # Process data
-        processed_df = process_tm_def_rush_data(db, csv_file, season_id)
+        processed_df = process_tm_def_rush_data(db, csv_file, season_id, week_id)
 
         if processed_df.empty:
             print("No data to insert")

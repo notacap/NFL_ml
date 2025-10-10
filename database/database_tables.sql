@@ -989,13 +989,15 @@ CREATE TABLE tm_def_rush (
     tm_def_rush_id INT AUTO_INCREMENT PRIMARY KEY,
     team_id INT,
     season_id INT,
+    week_id INT,
     tm_def_rush_att INT,
     tm_def_rush_yds INT,
     tm_def_rush_td INT,
     tm_def_rush_yds_att DECIMAL(7,4),
     tm_def_rush_yds_gm DECIMAL(7,4),
     tm_def_rush_exp DECIMAL(7,4),
-    UNIQUE KEY uk_tm_season (team_id, season_id),
+    UNIQUE KEY uk_tm_season (team_id, season_id, week_id),
+    FOREIGN KEY (week_id) REFERENCES nfl_week(week_id),
     FOREIGN KEY (team_id) REFERENCES nfl_team(team_id),
     FOREIGN KEY (season_id) REFERENCES nfl_season(season_id)
 );
