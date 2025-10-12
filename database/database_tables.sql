@@ -1,4 +1,13 @@
- 
+-- ============================================================================
+-- NFL STATISTICS DATABASE SCHEMA
+-- ============================================================================
+-- Last Updated: 2025-10-11
+-- Precision Standardization Migration Applied
+--   - Phase 1 (CRITICAL): plyr_pass percentage columns (DECIMAL 5,4 / 4,3 -> 6,4)
+--   - Phase 2 (HIGH): plyr_gm_pass percentage columns (FLOAT 5,4 / DECIMAL 7,4 -> DECIMAL 6,4)
+--   - Phase 3 (MEDIUM): tm_def_pass_cmp_pct (DECIMAL 7,4 -> 5,4)
+-- ============================================================================
+
 CREATE TABLE nfl_season (
     season_id INT AUTO_INCREMENT PRIMARY KEY,
     year INT NOT NULL UNIQUE,
@@ -391,12 +400,12 @@ CREATE TABLE plyr_pass (
     qb_tie INT,
     plyr_pass_cmp INT,
     plyr_pass_att INT,
-    plyr_pass_cmp_pct DECIMAL(5,4),
+    plyr_pass_cmp_pct DECIMAL(6,4),  -- Updated 2025-10-11: Precision standardization (5,4 -> 6,4)
     plyr_pass_yds INT,
     plyr_pass_td INT,
     plyr_pass_td_pct DECIMAL(7,4),
     plyr_pass_int INT,
-    plyr_pass_int_pct DECIMAL(5,4),
+    plyr_pass_int_pct DECIMAL(6,4),  -- Updated 2025-10-11: Precision standardization (5,4 -> 6,4)
     plyr_pass_first_dwn INT,
     plyr_pass_succ_rt DECIMAL(7,4),
     plyr_pass_lng INT,
@@ -408,7 +417,7 @@ CREATE TABLE plyr_pass (
     plyr_qbr DECIMAL(7,4),
     plyr_pass_sk INT,
     plyr_pass_sk_yds INT,
-    plyr_pass_sk_pct DECIMAL(5,4),
+    plyr_pass_sk_pct DECIMAL(6,4),  -- Updated 2025-10-11: Precision standardization (5,4 -> 6,4)
     plyr_pass_net_yds_att DECIMAL(7,4),
     plyr_pass_adj_net_yds_att DECIMAL(7,4),
     plyr_fqc INT,
@@ -434,7 +443,7 @@ CREATE TABLE plyr_pass (
     plyr_pass_hrry INT,
     plyr_pass_hit INT,
     plyr_pass_prss INT,
-    plyr_pass_prss_pct DECIMAL(4,3),
+    plyr_pass_prss_pct DECIMAL(6,4),  -- Updated 2025-10-11: Precision standardization (4,3 -> 6,4)
     plyr_pass_scrmbl INT,
     plyr_pass_yds_scrmbl DECIMAL(4,1),
     UNIQUE KEY uk_plyr_season (plyr_id, week_id, season_id),
@@ -460,7 +469,7 @@ CREATE TABLE plyr_gm_pass (
     plyr_gm_pass_lng INT,
     plyr_gm_pass_rtg FLOAT(7,4),
     plyr_gm_pass_first_dwn INT,
-    plyr_gm_pass_first_dwn_pct FLOAT(5,4),
+    plyr_gm_pass_first_dwn_pct DECIMAL(6,4),  -- Updated 2025-10-11: Precision standardization (FLOAT 5,4 -> DECIMAL 6,4)
     plyr_gm_pass_iay INT,
     plyr_gm_pass_iay_att FLOAT(7,4),
     plyr_gm_pass_cay INT,
@@ -469,16 +478,25 @@ CREATE TABLE plyr_gm_pass (
     plyr_gm_pass_yac INT,
     plyr_gm_pass_yac_cmp FLOAT(7,4),
     plyr_gm_pass_drp INT,
-    plyr_gm_pass_drp_pct FLOAT(5,4),
+    plyr_gm_pass_drp_pct DECIMAL(6,4),  -- Updated 2025-10-11: Precision standardization (FLOAT 5,4 -> DECIMAL 6,4)
     plyr_gm_pass_off_tgt INT,
-    plyr_gm_pass_off_tgt_pct FLOAT(5,4),
+    plyr_gm_pass_off_tgt_pct DECIMAL(6,4),  -- Updated 2025-10-11: Precision standardization (FLOAT 5,4 -> DECIMAL 6,4)
     plyr_gm_pass_bltz INT,
     plyr_gm_pass_hrry INT,
     plyr_gm_pass_hit INT,
     plyr_gm_pass_prss INT,
-    plyr_gm_pass_prss_pct FLOAT(5,4),
+    plyr_gm_pass_prss_pct DECIMAL(6,4),  -- Updated 2025-10-11: Precision standardization (FLOAT 5,4 -> DECIMAL 6,4)
     plyr_gm_pass_scrmbl_tgt INT,
     plyr_gm_pass_yds_scrmbl FLOAT(7,4),
+    plyr_gm_pass_cmp_pct DECIMAL(6,4),  -- Updated 2025-10-11: Precision standardization (DECIMAL 7,4 -> 6,4)
+    plyr_gm_pass_td_pct DECIMAL(6,4),  -- Updated 2025-10-11: Precision standardization (DECIMAL 7,4 -> 6,4)
+    plyr_gm_pass_int_pct DECIMAL(6,4),  -- Updated 2025-10-11: Precision standardization (DECIMAL 7,4 -> 6,4)
+    plyr_gm_pass_yds_att DECIMAL(7,4),
+    plyr_gm_pass_adj_yds_att DECIMAL(7,4),
+    plyr_gm_pass_yds_cmp DECIMAL(7,4),
+    plyr_gm_pass_sk_pct DECIMAL(6,4),  -- Updated 2025-10-11: Precision standardization (DECIMAL 7,4 -> 6,4)
+    plyr_gm_pass_net_yds_att DECIMAL(7,4),
+    plyr_gm_pass_adj_net_yds_att DECIMAL(7,4),
     FOREIGN KEY (plyr_id) REFERENCES plyr(plyr_id),
     FOREIGN KEY (week_id) REFERENCES nfl_week(week_id),
     FOREIGN KEY (game_id) REFERENCES nfl_game(game_id),
@@ -959,7 +977,7 @@ CREATE TABLE tm_def_pass (
     week_id INT,
     tm_def_pass_cmp INT,
     tm_def_pass_att INT,
-    tm_def_pass_cmp_pct DECIMAL(7,4),
+    tm_def_pass_cmp_pct DECIMAL(5,4),  -- Updated 2025-10-11: Precision standardization (7,4 -> 5,4)
     tm_def_pass_yds INT,
     tm_def_pass_td INT,
     tm_def_pass_td_pct DECIMAL(5,4),

@@ -31,7 +31,7 @@ def create_tm_def_pass_table(db: DatabaseConnector) -> bool:
         week_id INT,
         tm_def_pass_cmp INT,
         tm_def_pass_att INT,
-        tm_def_pass_cmp_pct DECIMAL(5,4),
+        tm_def_pass_cmp_pct DECIMAL(7,4),
         tm_def_pass_yds INT,
         tm_def_pass_td INT,
         tm_def_pass_td_pct DECIMAL(5,4),
