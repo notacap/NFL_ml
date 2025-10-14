@@ -48,7 +48,9 @@ class NFLDataExporter:
         console_handler.setLevel(logging.INFO)
 
         # File handler
-        log_file = Path(__file__).parent / f'export_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'
+        log_dir = Path(__file__).parent / 'export_logs'
+        log_dir.mkdir(exist_ok=True)
+        log_file = log_dir / f'export_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'
         file_handler = logging.FileHandler(log_file)
         file_handler.setLevel(logging.DEBUG)
 
