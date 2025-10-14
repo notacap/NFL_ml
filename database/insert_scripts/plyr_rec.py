@@ -36,7 +36,7 @@ def create_plyr_rec_table(db: DatabaseConnector) -> bool:
         week_id INT,
         plyr_rec_tgt INT,
         plyr_rec INT,
-        plyr_rec_catch_pct DECIMAL(5,4),
+        plyr_rec_catch_pct DECIMAL(6,4),
         plyr_rec_yds INT,
         plyr_rec_yds_rec DECIMAL(7,4),
         plyr_rec_td INT,

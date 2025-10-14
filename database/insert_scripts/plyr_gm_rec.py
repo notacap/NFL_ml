@@ -44,7 +44,7 @@ def create_plyr_gm_rec_table(db: DatabaseConnector) -> bool:
         plyr_gm_rec_drp_pct FLOAT(7,4),
         plyr_gm_rec_int INT,
         plyr_gm_rec_pass_rtg FLOAT(7,4),
-        plyr_rec_catch_pct DECIMAL(7,4),
+        plyr_rec_catch_pct DECIMAL(6,4),
         plyr_rec_yds_tgt DECIMAL(7,4),
         FOREIGN KEY (plyr_id) REFERENCES plyr(plyr_id),
         FOREIGN KEY (week_id) REFERENCES nfl_week(week_id),
