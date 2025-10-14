@@ -49,7 +49,6 @@ def create_tm_def_table(db: DatabaseConnector) -> bool:
         tm_def_hrry_pct DECIMAL(5,4),
         tm_def_qbkd INT,
         tm_def_qbkd_pct DECIMAL(5,4),
-        tm_def_sk INT,
         tm_def_prss INT,
         tm_def_prss_pct DECIMAL(5,4),
         tm_def_missed_tkl INT,
@@ -179,7 +178,6 @@ def process_tm_def_data(db: DatabaseConnector, tm_def_file: str, tm_adv_def_file
                 'tm_def_hrry_pct': safe_convert_percentage(row['Hrry%']),  # Hurry Percentage
                 'tm_def_qbkd': safe_convert_int(row['QBKD']),  # QB Knockdowns
                 'tm_def_qbkd_pct': safe_convert_percentage(row['QBKD%']),  # QB Knockdown Percentage
-                'tm_def_sk': safe_convert_int(row['Sk']),  # Sacks
                 'tm_def_prss': safe_convert_int(row['Prss']),  # Pressures
                 'tm_def_prss_pct': safe_convert_percentage(row['Prss%']),  # Pressure Percentage
                 'tm_def_missed_tkl': safe_convert_int(row['MTkl'])  # Missed Tackles

@@ -267,7 +267,7 @@ def generate_report(all_columns_data, similar_columns, inconsistencies, table_is
     """Generate a detailed report of data type analysis."""
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
-    with open('../logs/data_type_analysis_report.log', 'w') as f:
+    with open('../logs/data_type_analysis_report.log', 'w', encoding='utf-8') as f:
         # Write header
         f.write("=" * 80 + "\n")
         f.write("NFL DATABASE DATA TYPE CONSISTENCY ANALYSIS\n")
