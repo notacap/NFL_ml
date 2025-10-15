@@ -62,6 +62,7 @@ SCRIPT_REGISTRY = [
     {'name': 'plyr_rz_pass.py', 'table': 'plyr_rz_pass', 'category': 'plyr_szn'},
     {'name': 'plyr_rz_rec.py', 'table': 'plyr_rz_rec', 'category': 'plyr_szn'},
     {'name': 'plyr_rz_rush.py', 'table': 'plyr_rz_rush', 'category': 'plyr_szn'},
+    {'name': 'tm_conv.py', 'table': 'tm_conv', 'category': 'tm_szn'},
 ]
 
 # Tables that will be processed by null handler scripts
@@ -89,7 +90,6 @@ UNPROCESSED_TABLES = {
     'tm_def': 'tm_szn/tm_def',
     'tm_def_pass': 'tm_szn/tm_def_pass',
     'tm_def_rush': 'tm_szn/tm_def_rush',
-    'tm_conv': 'tm_szn/tm_conv',
     'tm_def_conv': 'tm_szn/tm_def_conv',
     'tm_def_dr_against_avg': 'tm_szn/tm_def_dr_against_avg',
     'tm_def_vs_qb': 'tm_szn/tm_def_vs_qb',

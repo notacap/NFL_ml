@@ -37,7 +37,6 @@ def create_plyr_scoring_table(db: DatabaseConnector) -> bool:
         plyr_oth_td INT,
         plyr_tot_td INT,
         plyr_two_pt_conv INT,
-        plyr_two_pt_conv_att INT,
         plyr_def_two_pt_conv INT,
         plyr_ex_pt_md INT,
         plyr_ex_pt_att INT,
@@ -273,10 +272,7 @@ def process_player_scoring_data(db: DatabaseConnector, df: pd.DataFrame, season_
                             data_row[col] = int(float(value)) if value != '' else None
                 else:
                     data_row[col] = None
-            
-            # Handle plyr_two_pt_conv_att which is not in CSV - set to None
-            data_row['plyr_two_pt_conv_att'] = None
-            
+
             processed_data.append(data_row)
             success_count += 1
             
