@@ -5,7 +5,7 @@ import sys
 
 # Add parent directory to path to import null_utils
 sys.path.append(str(Path(__file__).parent.parent))
-from null_utils import BaseNullHandler, logger
+from null_utils import BaseNullHandler, logger, parse_args, parse_season_filter, parse_week_filter
 
 class PlyrGmDefNullHandler(BaseNullHandler):
     def __init__(self, raw_dir: str, output_dir: str = None):
@@ -36,12 +36,12 @@ class PlyrGmDefNullHandler(BaseNullHandler):
         mask_no_targets = (df['plyr_gm_def_tgt'] == 0) if 'plyr_gm_def_tgt' in df.columns else pd.Series([False] * len(df))
         for col in no_target_cols:
             if col in df.columns:
-                df.loc[mask_no_targets & df[col].isnull(), col] = -1
+                df.loc[mask_no_targets & df[col].isnull(), col] = -999
 
         # Replace 0 values in plyr_gm_def_pass_yds_tgt when plyr_gm_def_tgt = 0
         if 'plyr_gm_def_pass_yds_tgt' in df.columns:
             mask_pass_yds_tgt_zero = mask_no_targets & (df['plyr_gm_def_pass_yds_tgt'] == 0)
-            df.loc[mask_pass_yds_tgt_zero, 'plyr_gm_def_pass_yds_tgt'] = -1
+            df.loc[mask_pass_yds_tgt_zero, 'plyr_gm_def_pass_yds_tgt'] = -999
             logger.info(f"Replaced 0 values in plyr_gm_def_pass_yds_tgt for {mask_pass_yds_tgt_zero.sum()} rows (no targets)")
 
         df.loc[mask_no_targets, 'plyr_gm_def_no_targets'] = 1
@@ -60,7 +60,7 @@ class PlyrGmDefNullHandler(BaseNullHandler):
         mask_missing_tgt = df['plyr_gm_def_tgt'].isnull() if 'plyr_gm_def_tgt' in df.columns else pd.Series([False] * len(df))
         for col in missing_stats_cols:
             if col in df.columns:
-                df.loc[mask_missing_tgt & df[col].isnull(), col] = -1
+                df.loc[mask_missing_tgt & df[col].isnull(), col] = -999
         df.loc[mask_missing_tgt, 'plyr_gm_def_missing_stats'] = 1
 
         logger.info(f"Applied plyr_gm_def_missing_stats indicator (tgt NULL) to {mask_missing_tgt.sum()} rows")
@@ -81,7 +81,7 @@ class PlyrGmDefNullHandler(BaseNullHandler):
             for col in no_cmp_null_cols:
                 if col in df.columns:
                     mask_null_impute = mask_no_completions & df[col].isnull()
-                    df.loc[mask_null_impute, col] = -1
+                    df.loc[mask_null_impute, col] = -999
 
             # Set indicator for rows with no completions
             df.loc[mask_no_completions, 'plyr_gm_def_no_cmp'] = 1
@@ -91,7 +91,7 @@ class PlyrGmDefNullHandler(BaseNullHandler):
         if 'plyr_gm_def_mtkl' in df.columns and 'plyr_gm_def_mtkl_pct' in df.columns:
             # Impute null values in plyr_gm_def_mtkl_pct when plyr_gm_def_mtkl = 0 and plyr_gm_def_mtkl_pct is NULL
             mask_no_mtkl_null = (df['plyr_gm_def_mtkl'] == 0) & df['plyr_gm_def_mtkl_pct'].isnull()
-            df.loc[mask_no_mtkl_null, 'plyr_gm_def_mtkl_pct'] = -1
+            df.loc[mask_no_mtkl_null, 'plyr_gm_def_mtkl_pct'] = -999
             df.loc[mask_no_mtkl_null, 'plyr_gm_def_no_mtkl'] = 1
             logger.info(f"Imputed null values in plyr_gm_def_mtkl_pct for {mask_no_mtkl_null.sum()} rows (mtkl=0, mtkl_pct=NULL)")
 
@@ -111,7 +111,7 @@ class PlyrGmDefNullHandler(BaseNullHandler):
             for col in no_pass_yds_cols:
                 if col in df.columns:
                     mask_impute = mask_no_pass_yds & df[col].isnull()
-                    df.loc[mask_impute, col] = -1
+                    df.loc[mask_impute, col] = -999
 
             # Set indicator for rows with missing passing yards data
             df.loc[mask_no_pass_yds, 'plyr_gm_def_no_pass_yds'] = 1
@@ -130,13 +130,13 @@ class PlyrGmDefNullHandler(BaseNullHandler):
             for col in missing_td_cols:
                 if col in df.columns:
                     mask_impute_td = mask_missing_td_stats & df[col].isnull()
-                    df.loc[mask_impute_td, col] = -1
+                    df.loc[mask_impute_td, col] = -999
 
             # Set indicator for rows with missing TD stats (reusing existing plyr_gm_def_missing_stats)
             df.loc[mask_missing_td_stats, 'plyr_gm_def_missing_stats'] = 1
             logger.info(f"Applied plyr_gm_def_missing_stats indicator for TD/ADOT null imputation for {mask_missing_td_stats.sum()} rows (has activity but no pass_td)")
 
-        # Final catch-all: Impute any remaining NULL values with -1 and set plyr_gm_def_missing_stats indicator
+        # Final catch-all: Impute any remaining NULL values with -999 and set plyr_gm_def_missing_stats indicator
         # Get all columns except the indicator columns we created
         indicator_cols = ['plyr_gm_def_no_targets', 'plyr_gm_def_missing_stats', 'plyr_gm_def_no_mtkl',
                          'plyr_gm_def_no_cmp', 'plyr_gm_def_no_pass_yds']
@@ -146,11 +146,11 @@ class PlyrGmDefNullHandler(BaseNullHandler):
         mask_any_nulls = df[data_cols].isnull().any(axis=1)
 
         if mask_any_nulls.sum() > 0:
-            # Impute all remaining NULL values with -1
+            # Impute all remaining NULL values with -999
             for col in data_cols:
                 mask_col_null = df[col].isnull()
                 if mask_col_null.sum() > 0:
-                    df.loc[mask_col_null, col] = -1
+                    df.loc[mask_col_null, col] = -999
 
             # Set indicator for rows that had any remaining nulls
             df.loc[mask_any_nulls, 'plyr_gm_def_missing_stats'] = 1
@@ -158,18 +158,40 @@ class PlyrGmDefNullHandler(BaseNullHandler):
 
         return df
 
-    def process_plyr_gm_def_table(self, table_path: str) -> None:
-        """Process the plyr_gm_def table for null value handling"""
-        self.process_table('plyr_gm_def', table_path, self.handle_plyr_gm_def_nulls)
-
 def main():
-    # Initialize handler
-    raw_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw"
-    handler = PlyrGmDefNullHandler(raw_dir=raw_dir)
+    # Parse command line arguments
+    args = parse_args()
 
-    # Process plyr_gm_def table
+    # Parse season and week filters
+    seasons = parse_season_filter(args.season) if args.season else None
+    weeks = parse_week_filter(args.week) if args.week else None
+
+    # Initialize handler with output directory for clean parquet files
+    raw_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw"
+    clean_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\clean"
+    handler = PlyrGmDefNullHandler(raw_dir=raw_dir, output_dir=clean_dir)
+
+    # Log filter information
+    if seasons:
+        logger.info(f"Processing seasons: {seasons}")
+    else:
+        logger.info("Processing all seasons")
+
+    if weeks:
+        logger.info(f"Processing weeks: {weeks}")
+    else:
+        logger.info("Processing all weeks")
+
+    # Process plyr_gm_def table with partitioning
     plyr_gm_def_path = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw\plyr_gm\plyr_gm_def"
-    handler.process_plyr_gm_def_table(plyr_gm_def_path)
+    handler.process_partitioned_table(
+        table_name='plyr_gm_def',
+        table_path=plyr_gm_def_path,
+        category='plyr_gm',
+        handler_func=handler.handle_plyr_gm_def_nulls,
+        seasons=seasons,
+        weeks=weeks
+    )
 
     # Print final summary
     handler.print_final_summary()

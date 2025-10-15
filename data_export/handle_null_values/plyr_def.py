@@ -5,7 +5,7 @@ import sys
 
 # Add parent directory to path to import null_utils
 sys.path.append(str(Path(__file__).parent.parent))
-from null_utils import BaseNullHandler, logger
+from null_utils import BaseNullHandler, logger, parse_args, parse_season_filter, parse_week_filter
 
 class PlyrDefNullHandler(BaseNullHandler):
     def __init__(self, raw_dir: str, output_dir: str = None):
@@ -34,7 +34,7 @@ class PlyrDefNullHandler(BaseNullHandler):
         mask_no_targets = (df['plyr_def_tgt'] == 0)
         for col in no_target_cols:
             if col in df.columns:
-                df.loc[mask_no_targets & df[col].isnull(), col] = -1
+                df.loc[mask_no_targets & df[col].isnull(), col] = -999
         df.loc[mask_no_targets, 'plyr_def_no_targets'] = 1
 
         logger.info(f"Applied plyr_def_no_targets indicator to {mask_no_targets.sum()} rows")
@@ -51,7 +51,7 @@ class PlyrDefNullHandler(BaseNullHandler):
         mask_missing_tgt = df['plyr_def_tgt'].isnull()
         for col in missing_stats_cols_1:
             if col in df.columns:
-                df.loc[mask_missing_tgt & df[col].isnull(), col] = -1
+                df.loc[mask_missing_tgt & df[col].isnull(), col] = -999
         df.loc[mask_missing_tgt, 'plyr_def_missing_stats'] = 1
 
         logger.info(f"Applied plyr_def_missing_stats indicator (tgt NULL) to {mask_missing_tgt.sum()} rows")
@@ -67,7 +67,7 @@ class PlyrDefNullHandler(BaseNullHandler):
         mask_missing_int = df['plyr_def_int'].isnull()
         for col in missing_stats_cols_2:
             if col in df.columns:
-                df.loc[mask_missing_int & df[col].isnull(), col] = -1
+                df.loc[mask_missing_int & df[col].isnull(), col] = -999
         df.loc[mask_missing_int, 'plyr_def_missing_stats'] = 1
 
         logger.info(f"Applied plyr_def_missing_stats indicator (int NULL) to {mask_missing_int.sum()} rows")
@@ -78,32 +78,54 @@ class PlyrDefNullHandler(BaseNullHandler):
         mask_no_mtkl = (df['plyr_def_mtkl'] == 0) if 'plyr_def_mtkl' in df.columns else pd.Series([False] * len(df))
         for col in no_mtkl_cols:
             if col in df.columns:
-                df.loc[mask_no_mtkl & df[col].isnull(), col] = -1
+                df.loc[mask_no_mtkl & df[col].isnull(), col] = -999
         df.loc[mask_no_mtkl, 'plyr_def_no_mtkl'] = 1
 
         logger.info(f"Applied plyr_def_no_mtkl indicator to {mask_no_mtkl.sum()} rows")
 
         # Handle plyr_def_no_completions indicator
         mask_no_completions = (df['plyr_def_cmp'] == 0) & df['plyr_def_pass_yds_cmp'].isnull()
-        df.loc[mask_no_completions, 'plyr_def_pass_yds_cmp'] = -1
+        df.loc[mask_no_completions, 'plyr_def_pass_yds_cmp'] = -999
         df.loc[mask_no_completions, 'plyr_def_no_completions'] = 1
 
         logger.info(f"Applied plyr_def_no_completions indicator to {mask_no_completions.sum()} rows")
 
         return df
 
-    def process_plyr_def_table(self, table_path: str) -> None:
-        """Process the plyr_def table for null value handling"""
-        self.process_table('plyr_def', table_path, self.handle_plyr_def_nulls)
-
 def main():
-    # Initialize handler
-    raw_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw"
-    handler = PlyrDefNullHandler(raw_dir=raw_dir)
+    # Parse command line arguments
+    args = parse_args()
 
-    # Process plyr_def table
+    # Parse season and week filters
+    seasons = parse_season_filter(args.season) if args.season else None
+    weeks = parse_week_filter(args.week) if args.week else None
+
+    # Initialize handler with output directory for clean parquet files
+    raw_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw"
+    clean_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\clean"
+    handler = PlyrDefNullHandler(raw_dir=raw_dir, output_dir=clean_dir)
+
+    # Log filter information
+    if seasons:
+        logger.info(f"Processing seasons: {seasons}")
+    else:
+        logger.info("Processing all seasons")
+
+    if weeks:
+        logger.info(f"Processing weeks: {weeks}")
+    else:
+        logger.info("Processing all weeks")
+
+    # Process plyr_def table with partitioning
     plyr_def_path = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw\plyr_szn\plyr_def"
-    handler.process_plyr_def_table(plyr_def_path)
+    handler.process_partitioned_table(
+        table_name='plyr_def',
+        table_path=plyr_def_path,
+        category='plyr_szn',
+        handler_func=handler.handle_plyr_def_nulls,
+        seasons=seasons,
+        weeks=weeks
+    )
 
     # Print final summary
     handler.print_final_summary()

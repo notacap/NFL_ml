@@ -5,7 +5,7 @@ import sys
 
 # Add parent directory to path to import null_utils
 sys.path.append(str(Path(__file__).parent.parent))
-from null_utils import BaseNullHandler, logger
+from null_utils import BaseNullHandler, logger, parse_args, parse_season_filter, parse_week_filter
 
 class PlyrPassNullHandler(BaseNullHandler):
     def __init__(self, raw_dir: str, output_dir: str = None):
@@ -35,7 +35,7 @@ class PlyrPassNullHandler(BaseNullHandler):
             # Apply imputation for columns that are NULL
             for col in qb_cols:
                 mask_null = mask_all_null & df[col].isnull()
-                df.loc[mask_null, col] = -1
+                df.loc[mask_null, col] = -999
                 if mask_null.sum() > 0:
                     df.loc[mask_null, 'plyr_pass_did_not_qualify'] = 1
 
@@ -45,7 +45,7 @@ class PlyrPassNullHandler(BaseNullHandler):
         # When plyr_pass_att != 0 and plyr_pass_succ_rt is NULL
         if all(col in df.columns for col in ['plyr_pass_att', 'plyr_pass_succ_rt']):
             mask_succ_rt = (df['plyr_pass_att'] != 0) & df['plyr_pass_succ_rt'].isnull()
-            df.loc[mask_succ_rt, 'plyr_pass_succ_rt'] = -1
+            df.loc[mask_succ_rt, 'plyr_pass_succ_rt'] = -999
             if mask_succ_rt.sum() > 0:
                 df.loc[mask_succ_rt, 'plyr_pass_did_not_qualify'] = 1
 
@@ -72,7 +72,7 @@ class PlyrPassNullHandler(BaseNullHandler):
             for col in no_att_cols:
                 if col in df.columns:
                     mask_null = mask_no_att & df[col].isnull()
-                    df.loc[mask_null, col] = -1
+                    df.loc[mask_null, col] = -999
                     if mask_null.sum() > 0:
                         df.loc[mask_null, 'plyr_pass_no_att'] = 1
                         any_imputed = True
@@ -91,7 +91,7 @@ class PlyrPassNullHandler(BaseNullHandler):
             for col in no_cmp_cols:
                 if col in df.columns:
                     mask_null = mask_no_cmp & df[col].isnull()
-                    df.loc[mask_null, col] = -1
+                    df.loc[mask_null, col] = -999
                     if mask_null.sum() > 0:
                         df.loc[mask_null, 'plyr_pass_no_cmp'] = 1
 
@@ -107,7 +107,7 @@ class PlyrPassNullHandler(BaseNullHandler):
             for col in cmp_dependent_cols:
                 if col in df.columns:
                     mask_null = mask_no_cmp_att & df[col].isnull()
-                    df.loc[mask_null, col] = -1
+                    df.loc[mask_null, col] = -999
                     if mask_null.sum() > 0:
                         df.loc[mask_null, 'plyr_pass_no_cmp'] = 1
 
@@ -118,7 +118,7 @@ class PlyrPassNullHandler(BaseNullHandler):
         if all(col in df.columns for col in ['plyr_pass_scrmbl', 'plyr_pass_yds_scrmbl']):
             mask_no_scrmbl = (df['plyr_pass_scrmbl'] == 0)
             mask_null = mask_no_scrmbl & df['plyr_pass_yds_scrmbl'].isnull()
-            df.loc[mask_null, 'plyr_pass_yds_scrmbl'] = -1
+            df.loc[mask_null, 'plyr_pass_yds_scrmbl'] = -999
             if mask_null.sum() > 0:
                 df.loc[mask_null, 'plyr_pass_no_scrmbl'] = 1
 
@@ -139,25 +139,47 @@ class PlyrPassNullHandler(BaseNullHandler):
             if col in df.columns:
                 mask_null = df[col].isnull()
                 if mask_null.sum() > 0:
-                    df.loc[mask_null, col] = -1
+                    df.loc[mask_null, col] = -999
                     df.loc[mask_null, 'plyr_pass_missing_stats'] = 1
 
         logger.info(f"Applied plyr_pass_missing_stats indicator for remaining NULL values to {rows_with_nulls.sum()} rows")
 
         return df
 
-    def process_plyr_pass_table(self, table_path: str) -> None:
-        """Process the plyr_pass table for null value handling"""
-        self.process_table('plyr_pass', table_path, self.handle_plyr_pass_nulls)
-
 def main():
-    # Initialize handler
-    raw_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw"
-    handler = PlyrPassNullHandler(raw_dir=raw_dir)
+    # Parse command line arguments
+    args = parse_args()
 
-    # Process plyr_pass table
+    # Parse season and week filters
+    seasons = parse_season_filter(args.season) if args.season else None
+    weeks = parse_week_filter(args.week) if args.week else None
+
+    # Initialize handler with output directory for clean parquet files
+    raw_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw"
+    clean_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\clean"
+    handler = PlyrPassNullHandler(raw_dir=raw_dir, output_dir=clean_dir)
+
+    # Log filter information
+    if seasons:
+        logger.info(f"Processing seasons: {seasons}")
+    else:
+        logger.info("Processing all seasons")
+
+    if weeks:
+        logger.info(f"Processing weeks: {weeks}")
+    else:
+        logger.info("Processing all weeks")
+
+    # Process plyr_pass table with partitioning
     plyr_pass_path = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw\plyr_szn\plyr_pass"
-    handler.process_plyr_pass_table(plyr_pass_path)
+    handler.process_partitioned_table(
+        table_name='plyr_pass',
+        table_path=plyr_pass_path,
+        category='plyr_szn',
+        handler_func=handler.handle_plyr_pass_nulls,
+        seasons=seasons,
+        weeks=weeks
+    )
 
     # Print final summary
     handler.print_final_summary()

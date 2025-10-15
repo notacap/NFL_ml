@@ -5,7 +5,7 @@ import sys
 
 # Add parent directory to path to import null_utils
 sys.path.append(str(Path(__file__).parent.parent))
-from null_utils import BaseNullHandler, logger
+from null_utils import BaseNullHandler, logger, parse_args, parse_season_filter, parse_week_filter
 
 class PlyrGmPassNullHandler(BaseNullHandler):
     def __init__(self, raw_dir: str, output_dir: str = None):
@@ -39,7 +39,7 @@ class PlyrGmPassNullHandler(BaseNullHandler):
             for col in no_cmp_cols:
                 if col in df.columns:
                     mask_null = mask_no_cmp & df[col].isnull()
-                    df.loc[mask_null, col] = -1
+                    df.loc[mask_null, col] = -999
                     if mask_null.sum() > 0:
                         df.loc[mask_null, 'plyr_gm_pass_no_cmp'] = 1
 
@@ -64,7 +64,7 @@ class PlyrGmPassNullHandler(BaseNullHandler):
 
             # Impute NULL values in plyr_gm_pass_first_dwn_pct with -1 and set indicator
             mask_fd_pct_null = mask_has_cmp_no_fd & df['plyr_gm_pass_first_dwn_pct'].isnull()
-            df.loc[mask_fd_pct_null, 'plyr_gm_pass_first_dwn_pct'] = -1
+            df.loc[mask_fd_pct_null, 'plyr_gm_pass_first_dwn_pct'] = -999
             df.loc[mask_fd_pct_null, 'plyr_gm_pass_no_first_dwn'] = 1
 
             logger.info(f"Handled NULL first downs for {mask_has_cmp_no_fd.sum()} rows with completions but no first downs")
@@ -99,18 +99,40 @@ class PlyrGmPassNullHandler(BaseNullHandler):
 
         return df
 
-    def process_plyr_gm_pass_table(self, table_path: str) -> None:
-        """Process the plyr_gm_pass table for null value handling"""
-        self.process_table('plyr_gm_pass', table_path, self.handle_plyr_gm_pass_nulls)
-
 def main():
-    # Initialize handler
-    raw_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw"
-    handler = PlyrGmPassNullHandler(raw_dir=raw_dir)
+    # Parse command line arguments
+    args = parse_args()
 
-    # Process plyr_gm_pass table
+    # Parse season and week filters
+    seasons = parse_season_filter(args.season) if args.season else None
+    weeks = parse_week_filter(args.week) if args.week else None
+
+    # Initialize handler with output directory for clean parquet files
+    raw_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw"
+    clean_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\clean"
+    handler = PlyrGmPassNullHandler(raw_dir=raw_dir, output_dir=clean_dir)
+
+    # Log filter information
+    if seasons:
+        logger.info(f"Processing seasons: {seasons}")
+    else:
+        logger.info("Processing all seasons")
+
+    if weeks:
+        logger.info(f"Processing weeks: {weeks}")
+    else:
+        logger.info("Processing all weeks")
+
+    # Process plyr_gm_pass table with partitioning
     plyr_gm_pass_path = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw\plyr_gm\plyr_gm_pass"
-    handler.process_plyr_gm_pass_table(plyr_gm_pass_path)
+    handler.process_partitioned_table(
+        table_name='plyr_gm_pass',
+        table_path=plyr_gm_pass_path,
+        category='plyr_gm',
+        handler_func=handler.handle_plyr_gm_pass_nulls,
+        seasons=seasons,
+        weeks=weeks
+    )
 
     # Print final summary
     handler.print_final_summary()

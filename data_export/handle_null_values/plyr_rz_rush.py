@@ -5,7 +5,7 @@ import sys
 
 # Add parent directory to path to import null_utils
 sys.path.append(str(Path(__file__).parent.parent))
-from null_utils import BaseNullHandler, logger
+from null_utils import BaseNullHandler, logger, parse_args, parse_season_filter, parse_week_filter
 
 class PlyrRzRushNullHandler(BaseNullHandler):
     def __init__(self, raw_dir: str, output_dir: str = None):
@@ -29,7 +29,7 @@ class PlyrRzRushNullHandler(BaseNullHandler):
             # Case 1: plyr_rush_fz_att != 0 and plyr_rush_fz_usage is NULL
             mask_fz_has_att = df['plyr_rush_fz_att'] != 0
             mask_fz_null = mask_fz_has_att & df['plyr_rush_fz_usage'].isnull()
-            df.loc[mask_fz_null, 'plyr_rush_fz_usage'] = -1
+            df.loc[mask_fz_null, 'plyr_rush_fz_usage'] = -999
             if mask_fz_null.sum() > 0:
                 df.loc[mask_fz_null, 'plyr_rz_rush_missing_stats'] = 1
             logger.info(f"Applied plyr_rz_rush_missing_stats indicator for NULL plyr_rush_fz_usage to {mask_fz_null.sum()} rows with fz attempts")
@@ -37,7 +37,7 @@ class PlyrRzRushNullHandler(BaseNullHandler):
             # Case 2: plyr_rush_fz_att = 0 and plyr_rush_fz_usage is NULL
             mask_fz_no_att = df['plyr_rush_fz_att'] == 0
             mask_fz_no_att_null = mask_fz_no_att & df['plyr_rush_fz_usage'].isnull()
-            df.loc[mask_fz_no_att_null, 'plyr_rush_fz_usage'] = -1
+            df.loc[mask_fz_no_att_null, 'plyr_rush_fz_usage'] = -999
             if mask_fz_no_att_null.sum() > 0:
                 df.loc[mask_fz_no_att_null, 'plyr_rz_rush_fz_no_att'] = 1
             logger.info(f"Applied plyr_rz_rush_fz_no_att indicator for NULL plyr_rush_fz_usage to {mask_fz_no_att_null.sum()} rows with no fz attempts")
@@ -47,7 +47,7 @@ class PlyrRzRushNullHandler(BaseNullHandler):
             # Case 1: plyr_rush_tz_att != 0 and plyr_rush_tz_usage is NULL
             mask_tz_has_att = df['plyr_rush_tz_att'] != 0
             mask_tz_null = mask_tz_has_att & df['plyr_rush_tz_usage'].isnull()
-            df.loc[mask_tz_null, 'plyr_rush_tz_usage'] = -1
+            df.loc[mask_tz_null, 'plyr_rush_tz_usage'] = -999
             if mask_tz_null.sum() > 0:
                 df.loc[mask_tz_null, 'plyr_rz_rush_missing_stats'] = 1
             logger.info(f"Applied plyr_rz_rush_missing_stats indicator for NULL plyr_rush_tz_usage to {mask_tz_null.sum()} rows with tz attempts")
@@ -55,7 +55,7 @@ class PlyrRzRushNullHandler(BaseNullHandler):
             # Case 2: plyr_rush_tz_att = 0 and plyr_rush_tz_usage is NULL
             mask_tz_no_att = df['plyr_rush_tz_att'] == 0
             mask_tz_no_att_null = mask_tz_no_att & df['plyr_rush_tz_usage'].isnull()
-            df.loc[mask_tz_no_att_null, 'plyr_rush_tz_usage'] = -1
+            df.loc[mask_tz_no_att_null, 'plyr_rush_tz_usage'] = -999
             if mask_tz_no_att_null.sum() > 0:
                 df.loc[mask_tz_no_att_null, 'plyr_rz_rush_tz_no_att'] = 1
             logger.info(f"Applied plyr_rz_rush_tz_no_att indicator for NULL plyr_rush_tz_usage to {mask_tz_no_att_null.sum()} rows with no tz attempts")
@@ -65,7 +65,7 @@ class PlyrRzRushNullHandler(BaseNullHandler):
             # Case 1: plyr_rush_rz_att != 0 and plyr_rush_rz_usage is NULL
             mask_rz_has_att = df['plyr_rush_rz_att'] != 0
             mask_rz_null = mask_rz_has_att & df['plyr_rush_rz_usage'].isnull()
-            df.loc[mask_rz_null, 'plyr_rush_rz_usage'] = -1
+            df.loc[mask_rz_null, 'plyr_rush_rz_usage'] = -999
             if mask_rz_null.sum() > 0:
                 df.loc[mask_rz_null, 'plyr_rz_rush_missing_stats'] = 1
             logger.info(f"Applied plyr_rz_rush_missing_stats indicator for NULL plyr_rush_rz_usage to {mask_rz_null.sum()} rows with rz attempts")
@@ -73,25 +73,47 @@ class PlyrRzRushNullHandler(BaseNullHandler):
             # Case 2: plyr_rush_rz_att = 0 and plyr_rush_rz_usage is NULL
             mask_rz_no_att = df['plyr_rush_rz_att'] == 0
             mask_rz_no_att_null = mask_rz_no_att & df['plyr_rush_rz_usage'].isnull()
-            df.loc[mask_rz_no_att_null, 'plyr_rush_rz_usage'] = -1
+            df.loc[mask_rz_no_att_null, 'plyr_rush_rz_usage'] = -999
             if mask_rz_no_att_null.sum() > 0:
                 df.loc[mask_rz_no_att_null, 'plyr_rz_rush_no_att'] = 1
             logger.info(f"Applied plyr_rz_rush_no_att indicator for NULL plyr_rush_rz_usage to {mask_rz_no_att_null.sum()} rows with no rz attempts")
 
         return df
 
-    def process_plyr_rz_rush_table(self, table_path: str) -> None:
-        """Process the plyr_rz_rush table for null value handling"""
-        self.process_table('plyr_rz_rush', table_path, self.handle_plyr_rz_rush_nulls)
-
 def main():
-    # Initialize handler
-    raw_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw"
-    handler = PlyrRzRushNullHandler(raw_dir=raw_dir)
+    # Parse command line arguments
+    args = parse_args()
 
-    # Process plyr_rz_rush table
+    # Parse season and week filters
+    seasons = parse_season_filter(args.season) if args.season else None
+    weeks = parse_week_filter(args.week) if args.week else None
+
+    # Initialize handler with output directory for clean parquet files
+    raw_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw"
+    clean_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\clean"
+    handler = PlyrRzRushNullHandler(raw_dir=raw_dir, output_dir=clean_dir)
+
+    # Log filter information
+    if seasons:
+        logger.info(f"Processing seasons: {seasons}")
+    else:
+        logger.info("Processing all seasons")
+
+    if weeks:
+        logger.info(f"Processing weeks: {weeks}")
+    else:
+        logger.info("Processing all weeks")
+
+    # Process plyr_rz_rush table with partitioning
     plyr_rz_rush_path = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw\plyr_szn\plyr_rz_rush"
-    handler.process_plyr_rz_rush_table(plyr_rz_rush_path)
+    handler.process_partitioned_table(
+        table_name='plyr_rz_rush',
+        table_path=plyr_rz_rush_path,
+        category='plyr_szn',
+        handler_func=handler.handle_plyr_rz_rush_nulls,
+        seasons=seasons,
+        weeks=weeks
+    )
 
     # Print final summary
     handler.print_final_summary()

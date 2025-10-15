@@ -5,7 +5,7 @@ import sys
 
 # Add parent directory to path to import null_utils
 sys.path.append(str(Path(__file__).parent.parent))
-from null_utils import BaseNullHandler, logger
+from null_utils import BaseNullHandler, logger, parse_args, parse_season_filter, parse_week_filter
 
 class PlyrRushNullHandler(BaseNullHandler):
     def __init__(self, raw_dir: str, output_dir: str = None):
@@ -38,7 +38,7 @@ class PlyrRushNullHandler(BaseNullHandler):
             for col in no_att_cols:
                 if col in df.columns:
                     mask_null = mask_no_att & df[col].isnull()
-                    df.loc[mask_null, col] = -1
+                    df.loc[mask_null, col] = -999
                     if mask_null.sum() > 0:
                         df.loc[mask_null, 'plyr_rush_no_att'] = 1
                         any_imputed = True
@@ -50,7 +50,7 @@ class PlyrRushNullHandler(BaseNullHandler):
         if all(col in df.columns for col in ['plyr_rush_brkn_tkl', 'plyr_rush_brkn_tkl_att']):
             mask_no_brkn_tkl = df['plyr_rush_brkn_tkl'] == 0
             mask_null = mask_no_brkn_tkl & df['plyr_rush_brkn_tkl_att'].isnull()
-            df.loc[mask_null, 'plyr_rush_brkn_tkl_att'] = -1
+            df.loc[mask_null, 'plyr_rush_brkn_tkl_att'] = -999
             if mask_null.sum() > 0:
                 df.loc[mask_null, 'plyr_rush_no_brkn_tkl'] = 1
 
@@ -61,7 +61,7 @@ class PlyrRushNullHandler(BaseNullHandler):
         if all(col in df.columns for col in ['plyr_rush_att', 'plyr_rush_yds', 'plyr_rush_lng']):
             mask_has_att_no_positive_yds = (df['plyr_rush_att'] != 0) & (df['plyr_rush_yds'] <= 0)
             mask_null = mask_has_att_no_positive_yds & df['plyr_rush_lng'].isnull()
-            df.loc[mask_null, 'plyr_rush_lng'] = -1
+            df.loc[mask_null, 'plyr_rush_lng'] = -999
             if mask_null.sum() > 0:
                 df.loc[mask_null, 'plyr_rush_no_positive_yds'] = 1
 
@@ -69,18 +69,40 @@ class PlyrRushNullHandler(BaseNullHandler):
 
         return df
 
-    def process_plyr_rush_table(self, table_path: str) -> None:
-        """Process the plyr_rush table for null value handling"""
-        self.process_table('plyr_rush', table_path, self.handle_plyr_rush_nulls)
-
 def main():
-    # Initialize handler
-    raw_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw"
-    handler = PlyrRushNullHandler(raw_dir=raw_dir)
+    # Parse command line arguments
+    args = parse_args()
 
-    # Process plyr_rush table
+    # Parse season and week filters
+    seasons = parse_season_filter(args.season) if args.season else None
+    weeks = parse_week_filter(args.week) if args.week else None
+
+    # Initialize handler with output directory for clean parquet files
+    raw_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw"
+    clean_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\clean"
+    handler = PlyrRushNullHandler(raw_dir=raw_dir, output_dir=clean_dir)
+
+    # Log filter information
+    if seasons:
+        logger.info(f"Processing seasons: {seasons}")
+    else:
+        logger.info("Processing all seasons")
+
+    if weeks:
+        logger.info(f"Processing weeks: {weeks}")
+    else:
+        logger.info("Processing all weeks")
+
+    # Process plyr_rush table with partitioning
     plyr_rush_path = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw\plyr_szn\plyr_rush"
-    handler.process_plyr_rush_table(plyr_rush_path)
+    handler.process_partitioned_table(
+        table_name='plyr_rush',
+        table_path=plyr_rush_path,
+        category='plyr_szn',
+        handler_func=handler.handle_plyr_rush_nulls,
+        seasons=seasons,
+        weeks=weeks
+    )
 
     # Print final summary
     handler.print_final_summary()

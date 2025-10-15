@@ -5,7 +5,7 @@ import sys
 
 # Add parent directory to path to import null_utils
 sys.path.append(str(Path(__file__).parent.parent))
-from null_utils import BaseNullHandler, logger
+from null_utils import BaseNullHandler, logger, parse_args, parse_season_filter, parse_week_filter
 
 class PlyrRecNullHandler(BaseNullHandler):
     def __init__(self, raw_dir: str, output_dir: str = None):
@@ -40,7 +40,7 @@ class PlyrRecNullHandler(BaseNullHandler):
             for col in no_targets_cols:
                 if col in df.columns:
                     mask_null = mask_no_targets & df[col].isnull()
-                    df.loc[mask_null, col] = -1
+                    df.loc[mask_null, col] = -999
                     if mask_null.sum() > 0:
                         df.loc[mask_null, 'plyr_rec_no_targets'] = 1
                         any_imputed = True
@@ -60,7 +60,7 @@ class PlyrRecNullHandler(BaseNullHandler):
             for col in no_catches_cols:
                 if col in df.columns:
                     mask_null = mask_no_catches & df[col].isnull()
-                    df.loc[mask_null, col] = -1
+                    df.loc[mask_null, col] = -999
                     if mask_null.sum() > 0:
                         df.loc[mask_null, 'plyr_rec_no_catches'] = 1
 
@@ -71,7 +71,7 @@ class PlyrRecNullHandler(BaseNullHandler):
         if all(col in df.columns for col in ['plyr_rec_brkn_tkl', 'plyr_rec_brkn_tkl_rec']):
             mask_no_brkn_tkl = df['plyr_rec_brkn_tkl'] == 0
             mask_null = mask_no_brkn_tkl & df['plyr_rec_brkn_tkl_rec'].isnull()
-            df.loc[mask_null, 'plyr_rec_brkn_tkl_rec'] = -1
+            df.loc[mask_null, 'plyr_rec_brkn_tkl_rec'] = -999
             if mask_null.sum() > 0:
                 df.loc[mask_null, 'plyr_rec_no_brkn_tkl'] = 1
 
@@ -82,7 +82,7 @@ class PlyrRecNullHandler(BaseNullHandler):
         if all(col in df.columns for col in ['plyr_rec', 'plyr_rec_tgt', 'plyr_rec_lng']):
             mask_has_rec_and_tgt = (df['plyr_rec'] != 0) & (df['plyr_rec_tgt'] != 0)
             mask_null = mask_has_rec_and_tgt & df['plyr_rec_lng'].isnull()
-            df.loc[mask_null, 'plyr_rec_lng'] = -1
+            df.loc[mask_null, 'plyr_rec_lng'] = -999
             if mask_null.sum() > 0:
                 df.loc[mask_null, 'plyr_rec_no_positive_yds'] = 1
 
@@ -90,18 +90,40 @@ class PlyrRecNullHandler(BaseNullHandler):
 
         return df
 
-    def process_plyr_rec_table(self, table_path: str) -> None:
-        """Process the plyr_rec table for null value handling"""
-        self.process_table('plyr_rec', table_path, self.handle_plyr_rec_nulls)
-
 def main():
-    # Initialize handler
-    raw_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw"
-    handler = PlyrRecNullHandler(raw_dir=raw_dir)
+    # Parse command line arguments
+    args = parse_args()
 
-    # Process plyr_rec table
+    # Parse season and week filters
+    seasons = parse_season_filter(args.season) if args.season else None
+    weeks = parse_week_filter(args.week) if args.week else None
+
+    # Initialize handler with output directory for clean parquet files
+    raw_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw"
+    clean_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\clean"
+    handler = PlyrRecNullHandler(raw_dir=raw_dir, output_dir=clean_dir)
+
+    # Log filter information
+    if seasons:
+        logger.info(f"Processing seasons: {seasons}")
+    else:
+        logger.info("Processing all seasons")
+
+    if weeks:
+        logger.info(f"Processing weeks: {weeks}")
+    else:
+        logger.info("Processing all weeks")
+
+    # Process plyr_rec table with partitioning
     plyr_rec_path = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw\plyr_szn\plyr_rec"
-    handler.process_plyr_rec_table(plyr_rec_path)
+    handler.process_partitioned_table(
+        table_name='plyr_rec',
+        table_path=plyr_rec_path,
+        category='plyr_szn',
+        handler_func=handler.handle_plyr_rec_nulls,
+        seasons=seasons,
+        weeks=weeks
+    )
 
     # Print final summary
     handler.print_final_summary()

@@ -5,7 +5,7 @@ import sys
 
 # Add parent directory to path to import null_utils
 sys.path.append(str(Path(__file__).parent.parent))
-from null_utils import BaseNullHandler, logger
+from null_utils import BaseNullHandler, logger, parse_args, parse_season_filter, parse_week_filter
 
 class PlyrRzPassNullHandler(BaseNullHandler):
     def __init__(self, raw_dir: str, output_dir: str = None):
@@ -32,7 +32,7 @@ class PlyrRzPassNullHandler(BaseNullHandler):
             for col in no_tz_att_cols:
                 if col in df.columns:
                     mask_null = mask_no_tz_att & df[col].isnull()
-                    df.loc[mask_null, col] = -1
+                    df.loc[mask_null, col] = -999
                     if mask_null.sum() > 0:
                         df.loc[mask_null, 'plyr_rz_pass_no_tz_att'] = 1
                         any_imputed = True
@@ -41,18 +41,40 @@ class PlyrRzPassNullHandler(BaseNullHandler):
 
         return df
 
-    def process_plyr_rz_pass_table(self, table_path: str) -> None:
-        """Process the plyr_rz_pass table for null value handling"""
-        self.process_table('plyr_rz_pass', table_path, self.handle_plyr_rz_pass_nulls)
-
 def main():
-    # Initialize handler
-    raw_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw"
-    handler = PlyrRzPassNullHandler(raw_dir=raw_dir)
+    # Parse command line arguments
+    args = parse_args()
 
-    # Process plyr_rz_pass table
+    # Parse season and week filters
+    seasons = parse_season_filter(args.season) if args.season else None
+    weeks = parse_week_filter(args.week) if args.week else None
+
+    # Initialize handler with output directory for clean parquet files
+    raw_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw"
+    clean_dir = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\clean"
+    handler = PlyrRzPassNullHandler(raw_dir=raw_dir, output_dir=clean_dir)
+
+    # Log filter information
+    if seasons:
+        logger.info(f"Processing seasons: {seasons}")
+    else:
+        logger.info("Processing all seasons")
+
+    if weeks:
+        logger.info(f"Processing weeks: {weeks}")
+    else:
+        logger.info("Processing all weeks")
+
+    # Process plyr_rz_pass table with partitioning
     plyr_rz_pass_path = r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw\plyr_szn\plyr_rz_pass"
-    handler.process_plyr_rz_pass_table(plyr_rz_pass_path)
+    handler.process_partitioned_table(
+        table_name='plyr_rz_pass',
+        table_path=plyr_rz_pass_path,
+        category='plyr_szn',
+        handler_func=handler.handle_plyr_rz_pass_nulls,
+        seasons=seasons,
+        weeks=weeks
+    )
 
     # Print final summary
     handler.print_final_summary()
