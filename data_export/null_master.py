@@ -60,10 +60,13 @@ SCRIPT_REGISTRY = [
     {'name': 'plyr_rec.py', 'table': 'plyr_rec', 'category': 'plyr_szn'},
     {'name': 'plyr_rush.py', 'table': 'plyr_rush', 'category': 'plyr_szn'},
     {'name': 'plyr_rz_pass.py', 'table': 'plyr_rz_pass', 'category': 'plyr_szn'},
-    {'name': 'plyr_rz_rec.py', 'table': 'plyr_rz_rec', 'category': 'plyr_szn'},
+    {'name': 'plyr_rz_rec.py', 'table': 'plyr_rz_rec', 'category': 'plyr_rz_rec'},
     {'name': 'plyr_rz_rush.py', 'table': 'plyr_rz_rush', 'category': 'plyr_szn'},
     {'name': 'tm_conv.py', 'table': 'tm_conv', 'category': 'tm_szn'},
     {'name': 'tm_def.py', 'table': 'tm_def', 'category': 'tm_szn'},
+    {'name': 'tm_def_conv.py', 'table': 'tm_def_conv', 'category': 'tm_szn'},
+    {'name': 'tm_def_pass.py', 'table': 'tm_def_pass', 'category': 'tm_szn'},
+    {'name': 'tm_gm_drive.py', 'table': 'tm_gm_drive', 'category': 'tm_gm'},
 ]
 
 # Tables that will be processed by null handler scripts
@@ -81,16 +84,13 @@ UNPROCESSED_TABLES = {
 
     # Team game-level
     'tm_gm_stats': 'tm_gm/tm_gm_stats',
-    'tm_gm_drive': 'tm_gm/tm_gm_drive',
     'tm_gm_exp_pts': 'tm_gm/tm_gm_exp_pts',
 
     # Team season cumulative
     'tm_pass': 'tm_szn/tm_pass',
     'tm_rush': 'tm_szn/tm_rush',
     'tm_rec': 'tm_szn/tm_rec',
-    'tm_def_pass': 'tm_szn/tm_def_pass',
     'tm_def_rush': 'tm_szn/tm_def_rush',
-    'tm_def_conv': 'tm_szn/tm_def_conv',
     'tm_def_dr_against_avg': 'tm_szn/tm_def_dr_against_avg',
     'tm_def_vs_qb': 'tm_szn/tm_def_vs_qb',
     'tm_def_vs_rb': 'tm_szn/tm_def_vs_rb',

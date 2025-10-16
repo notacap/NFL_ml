@@ -28,7 +28,8 @@ def create_tm_gm_drive_table(db: DatabaseConnector) -> bool:
         tm_gm_dr_ply INT,
         tm_gm_dr_time TIME,
         tm_gm_dr_net_yds INT,
-        tm_gm_dr_res ENUM('touchdown', 'field_goal', 'interception', 'fumble', 'punt', 'missed_field_goal', 'safety', 'downs', 'time', 'penalty'),
+        tm_gm_dr_res ENUM('touchdown', 'field_goal', 'interception', 'fumble', 'punt', 'missed_field_goal', 'safety', 'downs', 'time', 'penalty', 'blocked_punt', 'blocked_field_goal'),
+        tm_gm_dr_res_secondary ENUM('touchdown', 'field_goal', 'interception', 'fumble', 'punt', 'missed_field_goal', 'safety', 'downs', 'time', 'penalty', 'blocked_punt', 'blocked_field_goal'),
         FOREIGN KEY (team_id) REFERENCES nfl_team(team_id),
         FOREIGN KEY (week_id) REFERENCES nfl_week(week_id),
         FOREIGN KEY (game_id) REFERENCES nfl_game(game_id),
@@ -81,12 +82,20 @@ def parse_time_to_time_format(time_value):
 
 
 def map_drive_result(result_value):
-    """Map CSV drive result to database ENUM value."""
+    """Map CSV drive result to database ENUM values.
+
+    Handles comma-separated values by returning both primary and secondary outcomes.
+    Example: 'Fumble, Safety' -> ('fumble', 'safety')
+    Example: 'Touchdown' -> ('touchdown', None)
+
+    Returns:
+        tuple: (primary_result, secondary_result) where secondary_result can be None
+    """
     if pd.isna(result_value) or not result_value or str(result_value).strip() == '':
-        return None
-    
+        return (None, None)
+
     result_str = str(result_value).strip()
-    
+
     # Mapping from CSV values to database ENUM values
     result_mapping = {
         'Field Goal': 'field_goal',
@@ -98,10 +107,20 @@ def map_drive_result(result_value):
         'End of Game': 'time',
         'End of Half': 'time',
         'Safety': 'safety',
-        'Missed Field Goal': 'missed_field_goal'
+        'Missed FG': 'missed_field_goal',
+        'Blocked Punt': 'blocked_punt',
+        'Blocked FG': 'blocked_field_goal'
     }
-    
-    return result_mapping.get(result_str, None)
+
+    # Handle comma-separated values
+    if ',' in result_str:
+        parts = [part.strip() for part in result_str.split(',')]
+        primary = result_mapping.get(parts[0], None)
+        secondary = result_mapping.get(parts[1], None) if len(parts) > 1 else None
+        return (primary, secondary)
+    else:
+        # Single value - no secondary result
+        return (result_mapping.get(result_str, None), None)
 
 
 def get_quarter_id(db: DatabaseConnector, quarter_value) -> int:
@@ -291,7 +310,11 @@ def process_drive_csv_file(db: DatabaseConnector, file_path: str, season_id: int
                 # Parse special fields
                 processed_row['tm_gm_dr_strt_fld_pos'] = parse_field_position(row.get('LOS'))
                 processed_row['tm_gm_dr_time'] = parse_time_to_time_format(row.get('Length'))
-                processed_row['tm_gm_dr_res'] = map_drive_result(row.get('Result'))
+
+                # Map drive result (returns tuple of primary, secondary)
+                primary_result, secondary_result = map_drive_result(row.get('Result'))
+                processed_row['tm_gm_dr_res'] = primary_result
+                processed_row['tm_gm_dr_res_secondary'] = secondary_result
                 
                 processed_rows.append(processed_row)
                 
