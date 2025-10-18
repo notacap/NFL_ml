@@ -67,6 +67,9 @@ SCRIPT_REGISTRY = [
     {'name': 'tm_def_conv.py', 'table': 'tm_def_conv', 'category': 'tm_szn'},
     {'name': 'tm_def_pass.py', 'table': 'tm_def_pass', 'category': 'tm_szn'},
     {'name': 'tm_gm_drive.py', 'table': 'tm_gm_drive', 'category': 'tm_gm'},
+    {'name': 'tm_pass.py', 'table': 'tm_pass', 'category': 'tm_szn'},
+    {'name': 'tm_rec.py', 'table': 'tm_rec', 'category': 'tm_szn'},
+    {'name': 'tm_rush.py', 'table': 'tm_rush', 'category': 'tm_szn'},
 ]
 
 # Tables that will be processed by null handler scripts
@@ -87,9 +90,6 @@ UNPROCESSED_TABLES = {
     'tm_gm_exp_pts': 'tm_gm/tm_gm_exp_pts',
 
     # Team season cumulative
-    'tm_pass': 'tm_szn/tm_pass',
-    'tm_rush': 'tm_szn/tm_rush',
-    'tm_rec': 'tm_szn/tm_rec',
     'tm_def_rush': 'tm_szn/tm_def_rush',
     'tm_def_dr_against_avg': 'tm_szn/tm_def_dr_against_avg',
     'tm_def_vs_qb': 'tm_szn/tm_def_vs_qb',
@@ -108,13 +108,15 @@ UNPROCESSED_TABLES = {
     # Reference tables (season partitioned only)
     'plyr': 'players/plyr',
     'multi_tm_plyr': 'players/multi_tm_plyr',
+
+    # Week reference (season partitioned only)
+    'nfl_week': 'static/nfl_week',
 }
 
 # Static (non-partitioned) files
 STATIC_FILES = [
     'nfl_team.parquet',
     'nfl_season.parquet',
-    'nfl_week.parquet',
     'nfl_gm_quarter.parquet',
 ]
 

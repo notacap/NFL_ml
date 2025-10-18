@@ -141,6 +141,10 @@ def get_filtered_partitions(table_path: Path, seasons: Optional[List[int]] = Non
                            weeks: Optional[List[int]] = None) -> List[Tuple[Path, int, int]]:
     """Get list of partition paths that match the season/week filters.
 
+    Supports both:
+    - Season+Week partitioned: season=X/week=Y/
+    - Season-only partitioned: season=X/ (with parquet files directly inside)
+
     Args:
         table_path: Path to the partitioned table directory
         seasons: List of season years to include (None = all)
@@ -148,6 +152,7 @@ def get_filtered_partitions(table_path: Path, seasons: Optional[List[int]] = Non
 
     Returns:
         List of tuples (partition_path, season, week)
+        For season-only tables, week will be None
     """
     partitions = []
     table_path = Path(table_path)
@@ -164,15 +169,28 @@ def get_filtered_partitions(table_path: Path, seasons: Optional[List[int]] = Non
         if seasons and season not in seasons:
             continue
 
-        # Iterate through week partitions
-        for week_dir in sorted(season_dir.glob("week=*")):
-            week = int(week_dir.name.split("=")[1])
+        # Check if this is a season+week partitioned table or season-only
+        week_dirs = list(season_dir.glob("week=*"))
 
-            # Filter by week if specified
-            if weeks and week not in weeks:
-                continue
+        if week_dirs:
+            # Season+Week partitioned table
+            for week_dir in sorted(week_dirs):
+                week = int(week_dir.name.split("=")[1])
 
-            partitions.append((week_dir, season, week))
+                # Filter by week if specified
+                if weeks and week not in weeks:
+                    continue
+
+                partitions.append((week_dir, season, week))
+        else:
+            # Season-only partitioned table (parquet files directly in season dir)
+            # Check if there are parquet files in this season directory
+            if list(season_dir.glob("*.parquet")):
+                # For season-only tables, ignore week filter if specified
+                if not weeks:  # Only add if no week filter, since season-only tables don't have weeks
+                    partitions.append((season_dir, season, None))
+                else:
+                    logger.debug(f"Skipping season-only partition {season_dir} because week filter is set")
 
     return partitions
 
@@ -490,9 +508,15 @@ def copy_partitioned_table(table_name: str, source_root: Path, dest_root: Path,
         try:
             copy_partition(partition_path, dest_partition_path)
             partitions_copied += 1
-            logger.info(f"  Copied partition: season={season}, week={week}")
+            if week is not None:
+                logger.info(f"  Copied partition: season={season}, week={week}")
+            else:
+                logger.info(f"  Copied partition: season={season}")
         except Exception as e:
-            logger.error(f"  Failed to copy partition season={season}, week={week}: {e}")
+            if week is not None:
+                logger.error(f"  Failed to copy partition season={season}, week={week}: {e}")
+            else:
+                logger.error(f"  Failed to copy partition season={season}: {e}")
 
     logger.info(f"Successfully copied {partitions_copied}/{len(partitions)} partitions")
     return partitions_copied
