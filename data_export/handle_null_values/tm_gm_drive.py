@@ -26,6 +26,10 @@ class TmGmDriveNullHandler(BaseNullHandler):
         and creates an indicator variable tm_gm_drive_missing_stats to flag
         rows where this imputation occurred.
 
+        Also imputes NULL values in tm_gm_dr_res_secondary with 'UNKNOWN'
+        and creates an indicator variable tm_gm_dr_no_secondary_res to flag
+        rows where this imputation occurred.
+
         Args:
             df: DataFrame with raw tm_gm_drive data
 
@@ -37,8 +41,9 @@ class TmGmDriveNullHandler(BaseNullHandler):
         # Create a copy to avoid modifying original
         df = df.copy()
 
-        # Initialize indicator column with default value 0
+        # Initialize indicator columns with default value 0
         df['tm_gm_drive_missing_stats'] = 0
+        df['tm_gm_dr_no_secondary_res'] = 0
 
         # Handle NULL values in tm_gm_dr_strt_fld_pos
         if 'tm_gm_dr_strt_fld_pos' in df.columns:
@@ -54,6 +59,21 @@ class TmGmDriveNullHandler(BaseNullHandler):
             # Log number of rows affected
             num_imputed = mask_null.sum()
             logger.info(f"Applied tm_gm_drive_missing_stats indicator to {num_imputed} rows")
+
+        # Handle NULL values in tm_gm_dr_res_secondary
+        if 'tm_gm_dr_res_secondary' in df.columns:
+            # Create mask for NULL values in tm_gm_dr_res_secondary
+            mask_null_secondary = df['tm_gm_dr_res_secondary'].isnull()
+
+            # Apply imputation: replace NULL with 'UNKNOWN' (column contains string values)
+            df.loc[mask_null_secondary, 'tm_gm_dr_res_secondary'] = 'UNKNOWN'
+
+            # Set indicator flag for imputed rows
+            df.loc[mask_null_secondary, 'tm_gm_dr_no_secondary_res'] = 1
+
+            # Log number of rows affected
+            num_imputed_secondary = mask_null_secondary.sum()
+            logger.info(f"Applied tm_gm_dr_no_secondary_res indicator to {num_imputed_secondary} rows")
 
         return df
 

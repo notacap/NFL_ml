@@ -28,6 +28,7 @@ class NFLDataExporter:
         self.output_root = Path(r"C:\Users\nocap\Desktop\code\NFL_ml\parquet_files\raw")
         self.engine = None
         self.logger = self._setup_logging()
+        self.overwrite = False  # Default: skip existing partitions
         self.export_summary = {
             'successful': [],
             'failed': [],
@@ -333,12 +334,16 @@ class NFLDataExporter:
         if partition_cols and all(col in df.columns for col in partition_cols):
             # Create table with partitioning
             table = pa.Table.from_pandas(df)
+
+            # Determine existing data behavior based on overwrite setting
+            existing_behavior = 'delete_matching' if self.overwrite else 'overwrite_or_ignore'
+
             pq.write_to_dataset(
                 table,
                 root_path=str(output_path),
                 partition_cols=partition_cols,
                 compression='snappy',
-                existing_data_behavior='overwrite_or_ignore'
+                existing_data_behavior=existing_behavior
             )
         else:
             # Write without partitioning if columns don't exist
@@ -463,8 +468,12 @@ class NFLDataExporter:
         self.logger.info(f"\nOutput Directory: {self.output_root}")
 
     def run(self, tables: List[str] = None, seasons: str = None,
-            weeks: str = None, categories: List[str] = None) -> None:
+            weeks: str = None, categories: List[str] = None,
+            overwrite: bool = False) -> None:
         """Run the export process."""
+        # Store overwrite setting
+        self.overwrite = overwrite
+
         # Connect to database
         if not self.connect_to_database():
             return
@@ -487,6 +496,12 @@ class NFLDataExporter:
                 self.logger.info(f"  Seasons: {seasons}")
             if week_filter:
                 self.logger.info(f"  Weeks: {weeks}")
+
+        # Log overwrite mode
+        if self.overwrite:
+            self.logger.info("Overwrite mode: ENABLED - existing partitions will be replaced")
+        else:
+            self.logger.info("Overwrite mode: DISABLED - existing partitions will be skipped")
 
         # Export categories
         if not categories:
@@ -530,6 +545,9 @@ Examples:
 
   # Export specific categories
   python export_raw_db_data.py --categories game_level,season_cumulative
+
+  # Overwrite existing partitions (default: skip existing)
+  python export_raw_db_data.py --seasons 2024 --weeks 1-8 --overwrite
         """
     )
 
@@ -564,6 +582,12 @@ Examples:
         help='Path to .env file with database credentials'
     )
 
+    parser.add_argument(
+        '--overwrite',
+        action='store_true',
+        help='Overwrite existing partition data (default: skip existing partitions)'
+    )
+
     args = parser.parse_args()
 
     # Parse tables and categories
@@ -576,7 +600,8 @@ Examples:
         tables=tables,
         seasons=args.seasons,
         weeks=args.weeks,
-        categories=categories
+        categories=categories,
+        overwrite=args.overwrite
     )
 
 
