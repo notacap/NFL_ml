@@ -1,0 +1,95 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Data files (don't commit large data files)
+data/raw/*.parquet
+data/processed/*.parquet
+data/feature_sets/*.parquet
+data/splits/*.parquet
+*.csv
+*.h5
+*.hdf5
+
+# Model files (don't commit large model files)
+models/saved/**/*.pkl
+models/saved/**/*.joblib
+models/saved/**/*.h5
+
+# Outputs
+outputs/predictions/*.csv
+outputs/reports/*.html
+outputs/reports/*.pdf
+outputs/visualizations/*.png
+outputs/visualizations/*.jpg
+
+# Evaluation outputs
+evaluation/reports/*.html
+evaluation/reports/*.pdf
+evaluation/visualizations/**/*.png
+evaluation/visualizations/**/*.jpg
+
+# Experiment artifacts
+experiments/tracking/mlruns/
+experiments/results/**/predictions.csv
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Keep directory structure with .gitkeep
+!.gitkeep
+
+# Environment variables
+.env
+.env.local
+
+# Config overrides (keep templates, ignore local overrides)
+*_local.yaml
+*_override.yaml

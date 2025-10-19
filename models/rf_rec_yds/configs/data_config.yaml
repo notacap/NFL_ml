@@ -1,0 +1,44 @@
+# Data Configuration
+
+# Source data location
+data_source:
+  root_path: "C:/Users/nocap/Desktop/code/NFL_ml/parquet_files/clean"
+  format: "parquet"
+
+# Temporal scope
+temporal:
+  start_year: 2022
+  end_year: 2025
+  current_season: 2025
+  historical_seasons: [2022, 2023, 2024]
+
+# Data granularity
+granularity:
+  historical: "season_totals"  # 2022-2024: End-of-season only
+  current: "weekly_cumulative"  # 2025: Weekly cumulative totals
+
+# Table names (adjust based on actual parquet file names)
+tables:
+  player_game: "plyr_gm"
+  player_receiving: "plyr_gm_rec"
+  player_season: "plyr_season"
+  team_game: "tm_gm"
+  team_season: "tm_season"
+  team_defense: "tm_def"
+  game_metadata: "game_info"
+  betting_lines: "betting"
+  weather: "weather"
+  stadium: "stadium"
+
+# Target variable
+target:
+  name: "plyr_gm_rec_yds"
+  table: "plyr_gm_rec"
+  description: "Player game receiving yards"
+
+# Data processing
+processing:
+  handle_nulls: true
+  remove_duplicates: true
+  validate_schema: true
+  min_games_threshold: 3  # Minimum games for player inclusion
