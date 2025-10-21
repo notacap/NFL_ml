@@ -206,7 +206,7 @@ CREATE TABLE injured_reserve (
     UNIQUE KEY uk_plyr_season_game (plyr_id, season_id)
 );
 
-CREATE TABLE nfl_game_pbp (
+CREATE TABLE nfl_gm_pbp (
     game_pbp_id INT PRIMARY KEY AUTO_INCREMENT,
     game_id INT,
     week_id INT,

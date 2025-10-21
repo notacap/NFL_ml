@@ -18,11 +18,11 @@ from db_utils import (
 )
 
 
-def create_nfl_game_pbp_table(db: DatabaseConnector) -> bool:
-    """Create the nfl_game_pbp table if it doesn't exist."""
+def create_nfl_gm_pbp_table(db: DatabaseConnector) -> bool:
+    """Create the nfl_gm_pbp table if it doesn't exist."""
     create_table_sql = """
-    CREATE TABLE IF NOT EXISTS nfl_game_pbp (
-        game_pbp_id INT PRIMARY KEY AUTO_INCREMENT,
+    CREATE TABLE IF NOT EXISTS nfl_gm_pbp (
+        gm_pbp_id INT PRIMARY KEY AUTO_INCREMENT,
         game_id INT,
         week_id INT,
         season_id INT,
@@ -47,7 +47,7 @@ def create_nfl_game_pbp_table(db: DatabaseConnector) -> bool:
     );
     """
     
-    return create_table_if_not_exists(db, 'nfl_game_pbp', create_table_sql)
+    return create_table_if_not_exists(db, 'nfl_gm_pbp', create_table_sql)
 
 
 def get_quarter_id(db: DatabaseConnector, quarter_value) -> int:
@@ -100,20 +100,23 @@ def extract_player_names_from_detail(detail: str) -> list:
     
     # Pattern 1: First name Last name at the start (most common)
     # Examples: "Bijan Robinson left tackle", "Kirk Cousins pass complete"
-    first_name_pattern = r'^([A-Z][a-z]+(?:\.[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[IVX]+|Jr\.?|Sr\.?)?)'
+    # Handles hyphens (Edwards-Helaire) and apostrophes (L'Jarius)
+    first_name_pattern = r'^([A-Z][a-z]+(?:[-\'][A-Z][a-z]+)*(?:\.[A-Z]\.?)?\s+[A-Z][a-z]+(?:[-\'][A-Z][a-z]+)*(?:\s+[IVX]+|Jr\.?|Sr\.?)?)'
     match = re.search(first_name_pattern, detail_clean)
     if match:
         player_names.append(match.group(1).strip())
-    
+
     # Pattern 2: Initial.LastName format
     # Examples: "C.Santos kicks", "D.Smith rush"
-    initial_pattern = r'^([A-Z]\.[A-Z][a-z]+(?:\s+[IVX]+|Jr\.?|Sr\.?)?)'
+    # Handles hyphens in last names
+    initial_pattern = r'^([A-Z]\.[A-Z][a-z]+(?:[-\'][A-Z][a-z]+)*(?:\s+[IVX]+|Jr\.?|Sr\.?)?)'
     match = re.search(initial_pattern, detail_clean)
     if match:
         player_names.append(match.group(1).strip())
-    
+
     # Pattern 3: Look for "pass complete/incomplete to PlayerName"
-    pass_target_pattern = r'pass (?:complete|incomplete).*?(?:to|intended for)\s+([A-Z][a-z]+(?:\.[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[IVX]+|Jr\.?|Sr\.?)?)'
+    # Handles hyphens and apostrophes in both first and last names
+    pass_target_pattern = r'pass (?:complete|incomplete).*?(?:to|intended for)\s+([A-Z][a-z]+(?:[-\'][A-Z][a-z]+)*(?:\.[A-Z]\.?)?\s+[A-Z][a-z]+(?:[-\'][A-Z][a-z]+)*(?:\s+[IVX]+|Jr\.?|Sr\.?)?)'
     match = re.search(pass_target_pattern, detail_clean)
     if match:
         player_names.append(match.group(1).strip())
@@ -466,7 +469,7 @@ def main():
     
     try:
         # Create table if it doesn't exist
-        if not create_nfl_game_pbp_table(db):
+        if not create_nfl_gm_pbp_table(db):
             return
         
         # Get season_id
@@ -490,7 +493,7 @@ def main():
                 processed_df = process_pbp_file(db, file_path, season_id)
                 
                 if not processed_df.empty:
-                    success = batch_upsert_data(db, 'nfl_game_pbp', processed_df)
+                    success = batch_upsert_data(db, 'nfl_gm_pbp', processed_df)
                     if success:
                         rows_in_file = len(processed_df)
                         total_processed += rows_in_file

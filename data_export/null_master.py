@@ -102,7 +102,7 @@ UNPROCESSED_TABLES = {
     'nfl_game': 'gm_info/nfl_game',
     'nfl_game_info': 'gm_info/nfl_game_info',
     'nfl_gm_weather': 'gm_info/nfl_gm_weather',
-    'nfl_game_pbp': 'gm_info/nfl_game_pbp',
+    'nfl_gm_pbp': 'gm_info/nfl_gm_pbp',
     'injury_report': 'gm_info/injury_report',
 
     # Reference tables (season partitioned only)

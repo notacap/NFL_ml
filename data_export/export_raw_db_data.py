@@ -87,7 +87,7 @@ class NFLDataExporter:
                 {'table': 'nfl_game', 'directory': 'gm_info', 'partition_by': ['season', 'week']},
                 {'table': 'nfl_game_info', 'directory': 'gm_info', 'partition_by': ['season', 'week']},
                 {'table': 'nfl_gm_weather', 'directory': 'gm_info', 'partition_by': ['season', 'week']},
-                {'table': 'nfl_game_pbp', 'directory': 'gm_info', 'partition_by': ['season', 'week'], 'chunk_size': 50000},
+                {'table': 'nfl_gm_pbp', 'directory': 'gm_info', 'partition_by': ['season', 'week'], 'chunk_size': 50000},
                 {'table': 'injury_report', 'directory': 'gm_info', 'partition_by': ['season', 'week']},
             ],
             'season_cumulative': [
