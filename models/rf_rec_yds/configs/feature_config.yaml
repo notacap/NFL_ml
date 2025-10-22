@@ -1,0 +1,117 @@
+# Feature Engineering Configuration
+
+# Feature versioning
+version: "v1_baseline"
+
+# Player features
+player_features:
+  rolling_stats:
+    enabled: true
+    windows: [3, 5, 10]  # Last 3, 5, 10 games
+    metrics:
+      - "rec_yds"
+      - "receptions"
+      - "targets"
+      - "rec_td"
+      - "yards_per_reception"
+
+  career_stats:
+    enabled: true
+    metrics:
+      - "career_rec_yds"
+      - "career_games_played"
+      - "career_avg_rec_yds"
+
+  season_stats:
+    enabled: true
+    metrics:
+      - "season_rec_yds"
+      - "season_games_played"
+      - "season_avg_rec_yds"
+
+# Team features
+team_features:
+  offensive_metrics:
+    enabled: true
+    metrics:
+      - "total_yards"
+      - "passing_yards"
+      - "points_scored"
+      - "plays_run"
+
+  rolling_team_stats:
+    enabled: true
+    windows: [3, 5]
+    metrics:
+      - "avg_points_scored"
+      - "avg_passing_yards"
+
+# Opponent features
+opponent_features:
+  defensive_rankings:
+    enabled: true
+    metrics:
+      - "pass_defense_rank"
+      - "yards_allowed_rank"
+      - "points_allowed_rank"
+
+  rolling_defense_stats:
+    enabled: true
+    windows: [3, 5]
+    metrics:
+      - "avg_pass_yards_allowed"
+      - "avg_points_allowed"
+
+# Game context features
+game_context:
+  home_away:
+    enabled: true
+
+  weather:
+    enabled: true
+    features:
+      - "temperature"
+      - "wind_speed"
+      - "precipitation"
+      - "is_dome"
+
+  betting_lines:
+    enabled: true
+    features:
+      - "spread"
+      - "over_under"
+      - "implied_team_total"
+
+# Matchup features
+matchup_features:
+  historical_matchups:
+    enabled: true
+    lookback_games: 5  # Last 5 games vs opponent
+
+  player_vs_defense:
+    enabled: true
+
+# Feature engineering
+engineering:
+  interactions:
+    enabled: false  # Enable in v2
+    pairs: []
+
+  polynomial_features:
+    enabled: false  # Enable in v2
+    degree: 2
+
+  temporal_trends:
+    enabled: false  # Enable in v2
+
+# Feature selection
+selection:
+  enabled: false  # Enable after baseline
+  method: "feature_importance"  # or "recursive_elimination"
+  threshold: 0.01
+
+# Output
+output:
+  save_path: "data/feature_sets/{version}"
+  format: "parquet"
+  include_metadata: true
