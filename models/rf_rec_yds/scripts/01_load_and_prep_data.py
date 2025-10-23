@@ -110,13 +110,12 @@ def merge_data(data_dict):
 
     # Merge player metadata
     logger.info("\nMerging player metadata...")
-    # Player table has plyr_id, season_id, team_id
-    # We need to join on plyr_id and season
+    # Join on 'season' from both tables (not 'season_id')
+    # season_id is a sequential ID (1, 2, 3), but season is the actual year (2022, 2023, 2024)
     df = df.merge(
-        data_dict['players'][['plyr_id', 'season_id', 'plyr_name', 'plyr_pos',
+        data_dict['players'][['plyr_id', 'season', 'plyr_name', 'plyr_pos',
                               'plyr_age', 'plyr_gm_played', 'team_id']],
-        left_on=['plyr_id', 'season'],
-        right_on=['plyr_id', 'season_id'],
+        on=['plyr_id', 'season'],
         how='left',
         suffixes=('', '_player')
     )
@@ -134,7 +133,7 @@ def merge_data(data_dict):
     logger.info(f"  Away games: {(df['is_home'] == 0).sum():,}")
 
     # Drop temporary columns
-    df.drop(columns=['home_team_id', 'away_team_id', 'season_id'], errors='ignore', inplace=True)
+    df.drop(columns=['home_team_id', 'away_team_id'], errors='ignore', inplace=True)
 
     logger.info("\n" + "=" * 60)
     logger.info(f"MERGE COMPLETE: {len(df):,} rows")
