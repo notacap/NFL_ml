@@ -4,6 +4,8 @@ legacy/
 
 database/NUL
 
+data_export/nul
+
 # Files starting with 'prompt'
 prompt*
 
