@@ -233,7 +233,7 @@ def create_season_features(df, data_dict):
     season_stats = data_dict['season_stats'].copy()
 
     # Select relevant columns from season stats
-    season_cols = ['plyr_id', 'season', 'week', 'rec_yds', 'rec_tgt', 'rec']
+    season_cols = ['plyr_id', 'season', 'week', 'plyr_rec_yds', 'plyr_rec_tgt', 'plyr_rec']
     available_season_cols = [col for col in season_cols if col in season_stats.columns]
 
     if len(available_season_cols) < len(season_cols):
@@ -258,18 +258,18 @@ def create_season_features(df, data_dict):
     df['games_played_season'] = grouped.cumcount() + 1
 
     # Calculate season-to-date averages using shift to avoid data leakage
-    if 'rec_yds' in df.columns:
-        df['rec_yds_per_game_season'] = grouped['rec_yds'].transform(
+    if 'plyr_rec_yds' in df.columns:
+        df['rec_yds_per_game_season'] = grouped['plyr_rec_yds'].transform(
             lambda x: x.shift(1) / grouped.cumcount()
         )
 
-    if 'rec_tgt' in df.columns:
-        df['rec_tgt_per_game_season'] = grouped['rec_tgt'].transform(
+    if 'plyr_rec_tgt' in df.columns:
+        df['rec_tgt_per_game_season'] = grouped['plyr_rec_tgt'].transform(
             lambda x: x.shift(1) / grouped.cumcount()
         )
 
-    if 'rec' in df.columns:
-        df['rec_per_game_season'] = grouped['rec'].transform(
+    if 'plyr_rec' in df.columns:
+        df['rec_per_game_season'] = grouped['plyr_rec'].transform(
             lambda x: x.shift(1) / grouped.cumcount()
         )
 
@@ -281,6 +281,36 @@ def create_season_features(df, data_dict):
 
     logger.info("\n" + "=" * 60)
     logger.info("SEASON FEATURES CREATED")
+    logger.info("=" * 60 + "\n")
+
+    return df
+
+
+def drop_unwanted_columns(df):
+    """Drop columns that should not be used in the model."""
+    logger.info("=" * 60)
+    logger.info("DROPPING UNWANTED COLUMNS")
+    logger.info("=" * 60)
+
+    columns_to_drop = [
+        'plyr_rec_aybc_route',
+        'plyr_rec_succ_rt',
+        'plyr_rec_yac_route'
+    ]
+
+    # Only drop columns that actually exist in the dataframe
+    existing_cols_to_drop = [col for col in columns_to_drop if col in df.columns]
+
+    if existing_cols_to_drop:
+        logger.info(f"\nDropping {len(existing_cols_to_drop)} columns:")
+        for col in existing_cols_to_drop:
+            logger.info(f"  - {col}")
+        df = df.drop(columns=existing_cols_to_drop)
+    else:
+        logger.info("\nNo matching columns found to drop")
+
+    logger.info("\n" + "=" * 60)
+    logger.info("COLUMN DROPPING COMPLETE")
     logger.info("=" * 60 + "\n")
 
     return df
@@ -477,6 +507,10 @@ def main():
         # Create season aggregate features
         df = create_season_features(df, data_dict)
         logger.info(f"Data shape after season features: {df.shape}")
+
+        # Drop unwanted columns
+        df = drop_unwanted_columns(df)
+        logger.info(f"Data shape after dropping columns: {df.shape}")
 
         # Filter minimum games
         df = filter_min_games(df, min_games=min_games)
