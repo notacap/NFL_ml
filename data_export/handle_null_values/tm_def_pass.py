@@ -22,6 +22,7 @@ class TmDefPassNullHandler(BaseNullHandler):
         df['tm_def_no_int'] = 0
         df['tm_def_no_pass_td'] = 0
         df['tm_def_no_sk'] = 0
+        df['missing_stats'] = 0
 
         # Rule 1: Handle tm_def_int and tm_def_sk - NULL -> 0 (no indicator)
         if 'tm_def_int' in df.columns:
@@ -78,6 +79,14 @@ class TmDefPassNullHandler(BaseNullHandler):
                     # Set indicator to 1 if not already set
                     df.loc[mask_sk_yds_null, 'tm_def_no_sk'] = 1
                     logger.info(f"Applied tm_def_no_sk indicator for tm_def_sk_yds: {mask_sk_yds_null.sum()} rows with no sacks")
+
+        # Rule 5: Handle tm_def_pass_exp when NULL
+        if 'tm_def_pass_exp' in df.columns:
+            mask_pass_exp_null = df['tm_def_pass_exp'].isnull()
+            if mask_pass_exp_null.sum() > 0:
+                df.loc[mask_pass_exp_null, 'tm_def_pass_exp'] = -999
+                df.loc[mask_pass_exp_null, 'missing_stats'] = 1
+                logger.info(f"Applied missing_stats indicator for tm_def_pass_exp: {mask_pass_exp_null.sum()} rows with missing stats")
 
         return df
 

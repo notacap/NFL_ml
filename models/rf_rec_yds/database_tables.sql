@@ -977,7 +977,7 @@ CREATE TABLE tm_def_pass (
     week_id INT,
     tm_def_pass_cmp INT,
     tm_def_pass_att INT,
-    tm_def_pass_cmp_pct DECIMAL(5,4),  -- Updated 2025-10-11: Precision standardization (7,4 -> 5,4)
+    tm_def_pass_cmp_pct DECIMAL(5,4),
     tm_def_pass_yds INT,
     tm_def_pass_td INT,
     tm_def_pass_td_pct DECIMAL(5,4),
