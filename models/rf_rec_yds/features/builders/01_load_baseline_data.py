@@ -267,6 +267,42 @@ def join_player_info(
     return df
 
 
+def filter_week_one(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Filter out week 1 games from the dataset.
+
+    Week 1 games are excluded because there are no prior opponent defensive stats
+    available for feature engineering. Week 1 defensive stats are still used as
+    features for predicting week 2+ games.
+
+    Args:
+        df: DataFrame with all games including week 1
+
+    Returns:
+        DataFrame with week 1 games removed
+    """
+    logger.info("Filtering out week 1 games...")
+
+    initial_count = len(df)
+    initial_weeks = sorted(df['week'].unique())
+
+    # Filter out week 1
+    df_filtered = df[df['week'] > 1].copy()
+
+    filtered_count = len(df_filtered)
+    removed_count = initial_count - filtered_count
+    filtered_weeks = sorted(df_filtered['week'].unique())
+
+    logger.info(f"  Records before filtering: {initial_count:,}")
+    logger.info(f"  Records after filtering: {filtered_count:,}")
+    logger.info(f"  Records removed (week 1): {removed_count:,} ({removed_count/initial_count*100:.1f}%)")
+    logger.info(f"  Week range before: {min(initial_weeks)} to {max(initial_weeks)}")
+    logger.info(f"  Week range after: {min(filtered_weeks)} to {max(filtered_weeks)}")
+    logger.info(f"  Reason: No prior opponent defense stats available for week 1")
+
+    return df_filtered
+
+
 def join_game_info(
     df: pd.DataFrame,
     game_info: pd.DataFrame
@@ -325,8 +361,12 @@ def join_opponent_defense(
     Note: We join opponent defense stats from PRIOR week to avoid leakage.
     For week N prediction, use opponent's defensive stats through week N-1.
 
+    IMPORTANT: Week 1 games should be filtered out BEFORE calling this function,
+    since there are no prior week stats available. Week 1 defensive stats are
+    still used as features for predicting week 2 games.
+
     Args:
-        df: Current dataframe with player and game info
+        df: Current dataframe with player and game info (week 1 should be filtered out)
         team_def: Team defensive passing stats
 
     Returns:
@@ -347,6 +387,7 @@ def join_opponent_defense(
     team_def_shifted = team_def_shifted.rename(columns=opp_cols)
 
     # Join opponent defense from prior week
+    # Week 1 games should already be filtered out, so all games should have valid joins
     df = df.merge(
         team_def_shifted,
         left_on=['opponent_id', 'season', 'week'],
@@ -358,11 +399,20 @@ def join_opponent_defense(
     logger.info(f"  Records before join: {initial_count:,}")
     logger.info(f"  Records after join: {len(df):,}")
 
-    # Calculate null rate for opponent defense (expected for week 1)
+    # Validate that opponent defense stats are complete (no nulls expected)
     if 'opp_tm_def_pass_yds' in df.columns:
+        null_count = df['opp_tm_def_pass_yds'].isna().sum()
         null_rate = df['opp_tm_def_pass_yds'].isna().mean()
-        logger.info(f"  Opponent defense null rate: {null_rate*100:.1f}%")
-        logger.info(f"    (Expected ~5.6% for week 1 games)")
+        logger.info(f"  Opponent defense null count: {null_count:,} ({null_rate*100:.2f}%)")
+
+        if null_count > 0:
+            logger.warning(f"  WARNING: Found {null_count:,} records with null opponent defense!")
+            logger.warning(f"  This should be 0 if week 1 was properly filtered out")
+            # Show which weeks have nulls
+            null_weeks = df[df['opp_tm_def_pass_yds'].isna()]['week'].value_counts().sort_index()
+            logger.warning(f"  Weeks with null opponent defense: {null_weeks.to_dict()}")
+        else:
+            logger.info(f"  [OK] All opponent defense stats are complete (no nulls)")
 
     # Drop duplicate/unnecessary columns
     cols_to_drop = ['team_id_oppdef', 'week_for_join']
@@ -427,6 +477,55 @@ def join_season_cumulative_stats(
     df = df.loc[:, ~df.columns.duplicated()]
 
     return df
+
+
+def validate_week_filtering(df: pd.DataFrame) -> None:
+    """
+    Validate that week 1 has been properly filtered out and opponent defense is complete.
+
+    Args:
+        df: DataFrame after opponent defense join
+
+    Raises:
+        AssertionError: If week 1 games are still present
+    """
+    logger.info("Validating week filtering and opponent defense completeness...")
+
+    # Check minimum week
+    min_week = df['week'].min()
+    max_week = df['week'].max()
+    logger.info(f"  Week range: {min_week} to {max_week}")
+
+    # Assert that week 1 is filtered out
+    assert min_week >= 2, f"Week 1 should be filtered out! Found minimum week: {min_week}"
+    logger.info(f"  [OK] Week 1 properly filtered out (min week = {min_week})")
+
+    # Check for nulls in opponent defense columns
+    opp_def_cols = [col for col in df.columns if col.startswith('opp_tm_def')]
+
+    if len(opp_def_cols) > 0:
+        logger.info(f"  Checking {len(opp_def_cols)} opponent defense columns for nulls...")
+
+        total_nulls = 0
+        null_columns = []
+
+        for col in opp_def_cols:
+            null_count = df[col].isna().sum()
+            if null_count > 0:
+                total_nulls += null_count
+                null_columns.append((col, null_count))
+
+        if null_columns:
+            logger.error(f"  ERROR: Found nulls in opponent defense columns:")
+            for col, count in null_columns:
+                logger.error(f"    {col}: {count:,} nulls")
+            raise ValueError(f"Found {total_nulls:,} total nulls in {len(null_columns)} opponent defense columns")
+        else:
+            logger.info(f"  [OK] All opponent defense columns are complete (zero nulls)")
+    else:
+        logger.warning(f"  WARNING: No opponent defense columns found to validate")
+
+    logger.info(f"  Validation complete: Dataset ready for training")
 
 
 def validate_baseline_data(df: pd.DataFrame) -> Dict[str, Any]:
@@ -550,7 +649,17 @@ def main():
 
         df = join_player_info(game_stats, player_info)
         df = join_game_info(df, game_info)
+
+        # Filter out week 1 games before joining opponent defense
+        logger.info("\n3a. Filtering week 1 games...")
+        df = filter_week_one(df)
+
         df = join_opponent_defense(df, team_defense)
+
+        # Validate week filtering and opponent defense completeness
+        logger.info("\n3b. Validating week filtering...")
+        validate_week_filtering(df)
+
         df = join_season_cumulative_stats(df, season_stats)
 
         # Validate dataset
