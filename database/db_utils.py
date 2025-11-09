@@ -3,6 +3,7 @@ import pandas as pd
 import os
 from dotenv import load_dotenv
 import logging
+import hashlib
 from typing import Dict, Any, List, Optional
 
 # Configuration: Set the year and week for data processing
@@ -607,8 +608,11 @@ def get_game_id(db: DatabaseConnector, season_id: int, week_id: int, team1_abrv:
 
 
 def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, season_id: int, age: int = None, position: str = None, interactive: bool = False) -> int:
-    """Get player_id using comprehensive player lookup logic.
+    """Get player_id using plyr_master join for enhanced cross-season support.
 
+    CRITICAL: Returns plyr.plyr_id (season-specific), NOT player_guid.
+    All stat tables reference plyr.plyr_id for foreign key relationships.
+    
     Used by all player game stat insert scripts.
     Handles name variations with suffixes and searches both plyr and multi_tm_plyr tables.
 
@@ -622,7 +626,7 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
         interactive: If True, prompts user to manually select from multiple matches (optional)
 
     Returns:
-        int: player_id from plyr or multi_tm_plyr table, or 0 if user chooses to skip (interactive mode only)
+        int: player_id from plyr table, or 0 if user chooses to skip (interactive mode only)
 
     Raises:
         ValueError: If no player found or lookup fails (non-interactive mode)
@@ -638,27 +642,30 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
     # Build dynamic WHERE clauses for age and position
     age_clause = " AND p.plyr_age = %s" if age else ""
     pos_clause = " AND p.plyr_pos = %s" if mapped_position else ""
-    age_clause_mtp = " AND mtp.plyr_age = %s" if age else ""
-    pos_clause_mtp = " AND mtp.plyr_pos = %s" if mapped_position else ""
 
     if team_abrv and team_abrv.strip():
-        # Search with team filtering for better accuracy
+        # Search with team filtering using plyr_master join
         query = f"""
-        SELECT p.plyr_id, p.plyr_name, 'plyr' AS source, p.team_id, t.abrv, p.plyr_pos, p.plyr_age
+        SELECT p.plyr_id, pm.plyr_name, pm.player_guid, p.team_id, t.abrv, p.plyr_pos, p.plyr_age
         FROM plyr p
+        JOIN plyr_master pm ON p.player_guid = pm.player_guid
         JOIN nfl_team t ON p.team_id = t.team_id
-        WHERE p.plyr_name IN ({placeholders}) AND (t.abrv = %s OR t.alt_abrv = %s) AND p.season_id = %s{age_clause}{pos_clause}
+        WHERE pm.plyr_name IN ({placeholders}) 
+          AND (t.abrv = %s OR t.alt_abrv = %s) 
+          AND p.season_id = %s{age_clause}{pos_clause}
         UNION
-        SELECT mtp.plyr_id, mtp.plyr_name, 'multi_tm_plyr' AS source,
-               COALESCE(mtp.former_tm_id, mtp.first_tm_id) AS team_id,
-               COALESCE(t1.abrv, t2.abrv) AS abrv,
-               mtp.plyr_pos, mtp.plyr_age
-        FROM multi_tm_plyr mtp
+        SELECT p.plyr_id, pm.plyr_name, pm.player_guid, p.team_id,
+               COALESCE(t1.abrv, t2.abrv) AS abrv, p.plyr_pos, p.plyr_age
+        FROM plyr p
+        JOIN plyr_master pm ON p.player_guid = pm.player_guid
+        JOIN multi_tm_plyr mtp ON p.player_guid = mtp.player_guid AND p.season_id = mtp.season_id
         LEFT JOIN nfl_team t1 ON mtp.former_tm_id = t1.team_id
         LEFT JOIN nfl_team t2 ON mtp.first_tm_id = t2.team_id
-        WHERE mtp.plyr_name IN ({placeholders}) AND (t1.abrv = %s OR t1.alt_abrv = %s OR t2.abrv = %s OR t2.alt_abrv = %s) AND mtp.season_id = %s{age_clause_mtp}{pos_clause_mtp}
+        WHERE pm.plyr_name IN ({placeholders}) 
+          AND (t1.abrv = %s OR t1.alt_abrv = %s OR t2.abrv = %s OR t2.alt_abrv = %s) 
+          AND p.season_id = %s{age_clause}{pos_clause}
         """
-        # Build parameter list dynamically
+        
         params = name_variations + [team_abrv, team_abrv, season_id]
         if age:
             params.append(age)
@@ -670,12 +677,13 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
         if mapped_position:
             params.append(mapped_position)
     else:
-        # Search without team filtering if team not available
+        # Search without team filtering using plyr_master join
         query = f"""
-        SELECT p.plyr_id, p.plyr_name, 'plyr' AS source, p.team_id, t.abrv, p.plyr_pos, p.plyr_age
+        SELECT p.plyr_id, pm.plyr_name, pm.player_guid, p.team_id, t.abrv, p.plyr_pos, p.plyr_age
         FROM plyr p
+        JOIN plyr_master pm ON p.player_guid = pm.player_guid
         JOIN nfl_team t ON p.team_id = t.team_id
-        WHERE p.plyr_name IN ({placeholders}) AND p.season_id = %s{age_clause}{pos_clause}
+        WHERE pm.plyr_name IN ({placeholders}) AND p.season_id = %s{age_clause}{pos_clause}
         """
         params = name_variations + [season_id]
         if age:
@@ -686,7 +694,7 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
     results = db.fetch_all(query, params)
 
     if len(results) == 1:
-        return results[0][0]
+        return results[0][0]  # Return plyr.plyr_id
     elif len(results) > 1:
         if interactive:
             # Use interactive selection for multiple matches
@@ -924,6 +932,102 @@ def create_table_if_not_exists(db: DatabaseConnector, table_name: str, create_sq
     except Exception as e:
         print(f"[ERROR] Error creating {table_name} table: {e}")
         return False
+
+
+# ============================================
+# PLAYER GUID AND MASTER RECORD UTILITIES
+# ============================================
+# Functions for managing player master records and cross-season identification
+
+def generate_player_guid(plyr_name: str, plyr_birthday: str, plyr_draft_tm: str) -> str:
+    """Generate deterministic player GUID from natural key.
+    
+    CRITICAL: Must use identical logic in Python and MySQL.
+    This function provides cross-season player identification.
+    
+    Args:
+        plyr_name: Player full name
+        plyr_birthday: Birthday in YYYY-MM-DD format  
+        plyr_draft_tm: Draft team name or 'UNDRAFTED FREE AGENT'
+    
+    Returns:
+        str: MD5 hash (32 hex characters)
+    """
+    # Handle None values by converting to empty string
+    name = plyr_name if plyr_name else ""
+    birthday = plyr_birthday if plyr_birthday else ""
+    draft_tm = plyr_draft_tm if plyr_draft_tm else ""
+    
+    key = f"{name}_{birthday}_{draft_tm}"
+    return hashlib.md5(key.encode('utf-8')).hexdigest()
+
+
+def get_or_create_player_guid(db: DatabaseConnector, plyr_name: str, 
+                               plyr_birthday: str, plyr_draft_tm: str,
+                               plyr_height: int = None, plyr_college: str = None,
+                               plyr_draft_rd: int = None, plyr_draft_pick: int = None,
+                               plyr_draft_yr: int = None, primary_pos: str = None) -> str:
+    """Get existing player_guid or create new plyr_master record.
+    
+    This function ensures each unique player has exactly one master record
+    across all seasons. Uses natural key (name, birthday, draft_tm) for identification.
+    
+    Args:
+        db: Database connector instance
+        plyr_name: Player full name
+        plyr_birthday: Birthday in YYYY-MM-DD format
+        plyr_draft_tm: Draft team name or 'UNDRAFTED FREE AGENT'
+        plyr_height: Player height in inches (optional)
+        plyr_college: College name (optional)
+        plyr_draft_rd: Draft round (optional)
+        plyr_draft_pick: Draft pick number (optional)
+        plyr_draft_yr: Draft year (optional)
+        primary_pos: Primary position (optional)
+    
+    Returns:
+        str: player_guid (MD5 hash)
+        
+    Raises:
+        ValueError: If master record creation fails
+    """
+    # Generate GUID from natural key
+    player_guid = generate_player_guid(plyr_name, plyr_birthday, plyr_draft_tm)
+    
+    # Check if master record already exists
+    result = db.fetch_all(
+        "SELECT player_guid FROM plyr_master WHERE player_guid = %s",
+        (player_guid,)
+    )
+    
+    if result:
+        # Master record exists, return existing GUID
+        return player_guid
+    
+    # Create new master record with UPSERT behavior
+    insert_query = """
+        INSERT INTO plyr_master 
+        (player_guid, plyr_name, plyr_birthday, plyr_height, plyr_college, 
+         plyr_draft_tm, plyr_draft_rd, plyr_draft_pick, plyr_draft_yr, primary_pos)
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+        ON DUPLICATE KEY UPDATE
+            plyr_height = COALESCE(VALUES(plyr_height), plyr_height),
+            plyr_college = COALESCE(VALUES(plyr_college), plyr_college),
+            plyr_draft_rd = COALESCE(VALUES(plyr_draft_rd), plyr_draft_rd),
+            plyr_draft_pick = COALESCE(VALUES(plyr_draft_pick), plyr_draft_pick),
+            plyr_draft_yr = COALESCE(VALUES(plyr_draft_yr), plyr_draft_yr),
+            primary_pos = COALESCE(VALUES(primary_pos), primary_pos),
+            updated_at = CURRENT_TIMESTAMP
+    """
+    
+    success = db.execute_query(insert_query, (
+        player_guid, plyr_name, plyr_birthday, plyr_height, plyr_college,
+        plyr_draft_tm, plyr_draft_rd, plyr_draft_pick, plyr_draft_yr, primary_pos
+    ))
+    
+    if not success:
+        raise ValueError(f"Failed to create plyr_master record for {plyr_name}")
+    
+    return player_guid
 
 if __name__ == "__main__":
     # Test database connection

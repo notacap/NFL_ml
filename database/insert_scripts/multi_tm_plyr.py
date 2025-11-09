@@ -11,7 +11,7 @@ import glob
 from datetime import datetime
 import pandas as pd
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from db_utils import DatabaseConnector, YEAR, WEEK, load_csv_data, clean_column_names, handle_null_values, batch_upsert_data
+from db_utils import DatabaseConnector, YEAR, WEEK, load_csv_data, clean_column_names, handle_null_values, batch_upsert_data, get_or_create_player_guid
 
 def create_multi_tm_plyr_table(db: DatabaseConnector) -> bool:
     """Create the multi_tm_plyr table if it doesn't exist"""
@@ -51,7 +51,7 @@ def create_multi_tm_plyr_table(db: DatabaseConnector) -> bool:
         FOREIGN KEY (former_tm_lst_wk_id) REFERENCES nfl_week(week_id),
         FOREIGN KEY (second_tm_week_id) REFERENCES nfl_week(week_id),
         FOREIGN KEY (first_tm_lst_wk_id) REFERENCES nfl_week(week_id),
-        UNIQUE KEY uk_plyr_season_pos_exp (plyr_name, season_id, plyr_pos, plyr_weight, plyr_yrs_played)
+        UNIQUE KEY uk_player_identity (plyr_name, plyr_birthday, plyr_draft_tm, season_id)
     )
     """
     
@@ -125,17 +125,21 @@ def get_week_id(db: DatabaseConnector, season_id: int, week_num: str) -> int:
         print(f"Warning: No week found for season {season_id}, week {week_num}")
         return None
 
-def get_player_id(db: DatabaseConnector, plyr_name: str, season_id: int, plyr_pos: str, plyr_weight: int, plyr_yrs_played: int) -> int:
-    """Get plyr_id from plyr table using unique key fields"""
+def get_player_id_from_guid(db: DatabaseConnector, player_guid: str, season_id: int) -> int:
+    """Get plyr_id using player_guid.
+    
+    Returns:
+        int: plyr_id for this player in this season
+    """
     result = db.fetch_all(
-        "SELECT plyr_id FROM plyr WHERE plyr_name = %s AND season_id = %s AND plyr_pos = %s AND plyr_weight = %s AND plyr_yrs_played = %s",
-        (plyr_name, season_id, plyr_pos, plyr_weight, plyr_yrs_played)
+        "SELECT plyr_id FROM plyr WHERE player_guid = %s AND season_id = %s",
+        (player_guid, season_id)
     )
+    
     if result:
         return result[0][0]
     else:
-        print(f"Warning: No player found for {plyr_name} (season: {season_id}, pos: {plyr_pos}, weight: {plyr_weight}, years: {plyr_yrs_played})")
-        return None
+        raise ValueError(f"No plyr record found for GUID {player_guid[:8]}... in season {season_id}")
 
 def is_multi_team_player(row) -> bool:
     """Check if a player has multi-team data based on temp.py logic"""
@@ -240,18 +244,31 @@ def preprocess_multi_team_data(db: DatabaseConnector, df: pd.DataFrame) -> pd.Da
         print("Converting birthdate format...")
         df_processed['plyr_birthday'] = df_processed['plyr_birthday'].apply(convert_birthdate_format)
     
+    # Generate player_guids
+    print("Generating player GUIDs...")
+    player_guids = []
+    for idx, row in df_processed.iterrows():
+        player_guid = get_or_create_player_guid(
+            db,
+            plyr_name=row['plyr_name'],
+            plyr_birthday=row.get('plyr_birthday'),
+            plyr_draft_tm=row.get('plyr_draft_tm'),
+            plyr_height=row.get('plyr_height'),
+            plyr_college=row.get('plyr_college'),
+            plyr_draft_rd=row.get('plyr_draft_rd'),
+            plyr_draft_pick=row.get('plyr_draft_pick'),
+            plyr_draft_yr=row.get('plyr_draft_yr'),
+            primary_pos=row.get('plyr_pos')
+        )
+        player_guids.append(player_guid)
+    
+    df_processed['player_guid'] = player_guids
+    
     # Get plyr_id for each player
     print("Looking up player IDs...")
     plyr_ids = []
     for idx, row in df_processed.iterrows():
-        plyr_id = get_player_id(
-            db, 
-            row['plyr_name'], 
-            season_id, 
-            row['plyr_pos'], 
-            row['plyr_weight'], 
-            row['plyr_yrs_played']
-        )
+        plyr_id = get_player_id_from_guid(db, row['player_guid'], season_id)
         plyr_ids.append(plyr_id)
     
     df_processed['plyr_id'] = plyr_ids
@@ -263,6 +280,13 @@ def preprocess_multi_team_data(db: DatabaseConnector, df: pd.DataFrame) -> pd.Da
     
     if initial_count > final_count:
         print(f"Removed {initial_count - final_count} rows due to missing player IDs")
+    
+    # Drop columns now in plyr_master
+    columns_to_drop = ['plyr_name', 'plyr_birthday', 'plyr_pos', 'plyr_age', 
+                       'plyr_weight', 'plyr_height', 'plyr_yrs_played', 'plyr_college',
+                       'plyr_avg_value', 'plyr_draft_tm', 'plyr_draft_rd', 
+                       'plyr_draft_pick', 'plyr_draft_yr']
+    df_processed = df_processed.drop(columns=[col for col in columns_to_drop if col in df_processed.columns])
     
     # Handle team_id mappings
     team_columns = [

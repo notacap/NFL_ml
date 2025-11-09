@@ -32,21 +32,27 @@ TEAM_ABBR_TO_FULL = {
     'JAX': 'Jacksonville Jaguars',
     'KAN': 'Kansas City Chiefs',
     'LVR': 'Las Vegas Raiders',
+    'LV': 'Las Vegas Raiders',
+    'OAK': 'Oakland Raiders',
     'LAC': 'Los Angeles Chargers',
     'LAR': 'Los Angeles Rams',
     'MIA': 'Miami Dolphins',
     'MIN': 'Minnesota Vikings',
+    'NE': 'New England Patriots',
     'NWE': 'New England Patriots',
     'NOR': 'New Orleans Saints',
+    'NO': 'New Orleans Saints',
     'NYG': 'New York Giants',
     'NYJ': 'New York Jets',
     'PHI': 'Philadelphia Eagles',
     'PIT': 'Pittsburgh Steelers',
     'SFO': 'San Francisco 49ers',
+    'SF': 'San Francisco 49ers',
     'SEA': 'Seattle Seahawks',
     'TAM': 'Tampa Bay Buccaneers',
     'TEN': 'Tennessee Titans',
-    'WAS': 'Washington Commanders'
+    'WAS': 'Washington Commanders',
+    'WSH': 'Washington Commanders',
 }
 
 POSITION_MAPPING = {
