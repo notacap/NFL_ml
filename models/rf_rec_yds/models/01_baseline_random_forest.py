@@ -41,12 +41,19 @@ warnings.filterwarnings('ignore')
 # Configure paths
 BASE_DIR = Path("C:/Users/nocap/Desktop/code/NFL_ml/models/rf_rec_yds")
 DATA_DIR = BASE_DIR / "data" / "splits" / "temporal"
-MODEL_DIR = BASE_DIR / "models"
+MODEL_DIR = BASE_DIR / "models" / "saved" / "baseline_rf"
 LOG_DIR = BASE_DIR / "logs"
+EVAL_DIR = BASE_DIR / "evaluation"
+VIZ_DIR = EVAL_DIR / "visualizations" / "baseline_rf"
+METRICS_DIR = EVAL_DIR / "metrics" / "baseline_rf"
+IMPORTANCE_DIR = EVAL_DIR / "feature_importance" / "baseline_rf"
 
 # Create directories if they don't exist
 MODEL_DIR.mkdir(exist_ok=True, parents=True)
 LOG_DIR.mkdir(exist_ok=True, parents=True)
+VIZ_DIR.mkdir(exist_ok=True, parents=True)
+METRICS_DIR.mkdir(exist_ok=True, parents=True)
+IMPORTANCE_DIR.mkdir(exist_ok=True, parents=True)
 
 # Configure logging
 log_file = LOG_DIR / "baseline_rf_training.log"
@@ -364,8 +371,8 @@ def analyze_feature_importance(model, feature_names):
     for idx, row in feature_importance_df.head(15).iterrows():
         logger.info(f"    {row['feature']}: {row['importance']:.4f}")
 
-    # Save to CSV
-    csv_path = MODEL_DIR / "baseline_rf_feature_importance.csv"
+    # Save to CSV in feature_importance directory
+    csv_path = IMPORTANCE_DIR / "baseline_rf_feature_importance.csv"
     feature_importance_df.to_csv(csv_path, index=False)
     logger.info(f"\n  Feature importance saved to: {csv_path}")
 
@@ -388,7 +395,7 @@ def create_feature_importance_plot(feature_importance_df):
     plt.gca().invert_yaxis()
     plt.tight_layout()
 
-    plot_path = MODEL_DIR / "baseline_rf_feature_importance.png"
+    plot_path = VIZ_DIR / "baseline_rf_feature_importance.png"
     plt.savefig(plot_path, dpi=300, bbox_inches='tight')
     plt.close()
 
@@ -440,7 +447,7 @@ def create_actual_vs_predicted_plot(y_true, y_pred):
     plt.grid(True, alpha=0.3)
     plt.tight_layout()
 
-    plot_path = MODEL_DIR / "baseline_rf_actual_vs_predicted.png"
+    plot_path = VIZ_DIR / "baseline_rf_actual_vs_predicted.png"
     plt.savefig(plot_path, dpi=300, bbox_inches='tight')
     plt.close()
 
@@ -460,7 +467,7 @@ def create_residual_distribution_plot(residuals):
     plt.grid(True, alpha=0.3)
     plt.tight_layout()
 
-    plot_path = MODEL_DIR / "baseline_rf_residual_distribution.png"
+    plot_path = VIZ_DIR / "baseline_rf_residual_distribution.png"
     plt.savefig(plot_path, dpi=300, bbox_inches='tight')
     plt.close()
 
@@ -484,7 +491,7 @@ def create_residuals_vs_predicted_plot(y_pred, residuals):
     plt.grid(True, alpha=0.3)
     plt.tight_layout()
 
-    plot_path = MODEL_DIR / "baseline_rf_residuals_vs_predicted.png"
+    plot_path = VIZ_DIR / "baseline_rf_residuals_vs_predicted.png"
     plt.savefig(plot_path, dpi=300, bbox_inches='tight')
     plt.close()
 
@@ -500,7 +507,7 @@ def create_qq_plot(residuals):
     plt.grid(True, alpha=0.3)
     plt.tight_layout()
 
-    plot_path = MODEL_DIR / "baseline_rf_qq_plot.png"
+    plot_path = VIZ_DIR / "baseline_rf_qq_plot.png"
     plt.savefig(plot_path, dpi=300, bbox_inches='tight')
     plt.close()
 
@@ -570,7 +577,7 @@ def save_model_artifacts(model, best_params, metrics, imputer):
     logger.info(f"  Hyperparameters saved to: {hyperparams_path}")
 
     # 4. Save metrics
-    metrics_path = MODEL_DIR / "baseline_rf_metrics.json"
+    metrics_path = METRICS_DIR / "baseline_rf_metrics.json"
     with open(metrics_path, 'w') as f:
         json.dump(metrics, f, indent=2)
     logger.info(f"  Metrics saved to: {metrics_path}")
@@ -757,11 +764,11 @@ predictions = np.maximum(predictions, 0)  # Clip negatives to 0
 
 **Training Pipeline**: `models/01_baseline_random_forest.py`
 **Model Artifacts**:
-- Model: `models/baseline_rf_model.pkl`
-- Imputer: `models/baseline_rf_imputer.pkl`
-- Metrics: `models/baseline_rf_metrics.json`
-- Hyperparameters: `models/baseline_rf_hyperparameters.json`
-- Feature Importance: `models/baseline_rf_feature_importance.csv`
+- Model: `models/saved/baseline_rf/baseline_rf_model.pkl`
+- Imputer: `models/saved/baseline_rf/baseline_rf_imputer.pkl`
+- Metrics: `evaluation/metrics/baseline_rf/baseline_rf_metrics.json`
+- Hyperparameters: `models/saved/baseline_rf/baseline_rf_hyperparameters.json`
+- Feature Importance: `evaluation/feature_importance/baseline_rf/baseline_rf_feature_importance.csv`
 
 **Reproducibility**: All random operations use `random_state=42`
 
@@ -774,7 +781,8 @@ For questions or issues, contact the ML Engineering Team.
 *Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*
 """
 
-    card_path = MODEL_DIR / "baseline_rf_model_card.md"
+    card_path = EVAL_DIR / "model_cards" / "baseline_rf_model_card.md"
+    card_path.parent.mkdir(exist_ok=True, parents=True)
     with open(card_path, 'w') as f:
         f.write(model_card)
 
