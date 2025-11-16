@@ -109,33 +109,55 @@ CREATE TABLE nfl_game_info (
     UNIQUE KEY (game_id) 
 );
 
+CREATE TABLE plyr_master (
+    plyr_guid VARCHAR(64) PRIMARY KEY,
+    plyr_name VARCHAR(255) NOT NULL,
+    plyr_birthday DATE,
+    plyr_college VARCHAR(255),
+    plyr_draft_tm VARCHAR(255),
+    plyr_draft_rd TINYINT UNSIGNED,
+    plyr_draft_pick SMALLINT UNSIGNED,
+    plyr_draft_yr SMALLINT UNSIGNED,
+    primary_pos VARCHAR(10),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    INDEX idx_plyr_name (plyr_name),
+    INDEX idx_plyr_draft_yr (plyr_draft_yr),
+    INDEX idx_primary_pos (primary_pos)
+);
+
 CREATE TABLE plyr (
     plyr_id INT AUTO_INCREMENT PRIMARY KEY,
+    plyr_guid VARCHAR(64),
     team_id INT,
     season_id INT,
     plyr_name VARCHAR(255) NOT NULL,
-    plyr_age INT,
+    plyr_age TINYINT UNSIGNED,
     plyr_pos VARCHAR(10),
-    plyr_gm_played INT,
-    plyr_gm_started INT,
-    plyr_weight INT,
-    plyr_height INT,
-    plyr_yrs_played INT,
-    plyr_college VARCHAR(255),
-    plyr_birthday DATE,
-    plyr_avg_value DECIMAL(5,2),
-    plyr_draft_tm VARCHAR(255),
-    plyr_draft_rd INT,
-    plyr_draft_pick INT,
-    plyr_draft_yr INT,
+    plyr_alt_pos VARCHAR(10),
+    plyr_gm_played TINYINT UNSIGNED,
+    plyr_gm_started TINYINT UNSIGNED,
+    plyr_weight SMALLINT UNSIGNED,
+    plyr_height SMALLINT UNSIGNED,
+    plyr_yrs_played TINYINT UNSIGNED,
+    plyr_birthday DATE NOT NULL,
+    plyr_avg_value TINYINT,
+    plyr_draft_tm VARCHAR(255) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    FOREIGN KEY (plyr_guid) REFERENCES plyr_master(plyr_guid),
     FOREIGN KEY (team_id) REFERENCES nfl_team(team_id),
     FOREIGN KEY (season_id) REFERENCES nfl_season(season_id),
-    UNIQUE KEY uk_player_season_pos_exp (plyr_name, season_id, plyr_pos, plyr_weight, plyr_yrs_played)
+    INDEX idx_plyr_name (plyr_name),
+    INDEX idx_team_season (team_id, season_id),
+    INDEX idx_plyr_pos (plyr_pos),
+    UNIQUE KEY uk_player_season_pos_exp (plyr_name, season_id, plyr_birthday, plyr_draft_tm)
 );
 
 CREATE TABLE multi_tm_plyr (
     multi_tm_plyr_id INT AUTO_INCREMENT PRIMARY KEY,
     plyr_id INT,
+    plyr_guid VARCHAR(64),
     season_id INT,
     current_tm_id INT,
     former_tm_id INT,
@@ -159,6 +181,9 @@ CREATE TABLE multi_tm_plyr (
     plyr_draft_rd INT,
     plyr_draft_pick INT,
     plyr_draft_yr INT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    FOREIGN KEY (plyr_guid) REFERENCES plyr_master(plyr_guid),
     FOREIGN KEY (plyr_id) REFERENCES plyr(plyr_id),
     FOREIGN KEY (season_id) REFERENCES nfl_season(season_id),
     FOREIGN KEY (current_tm_id) REFERENCES nfl_team(team_id),
@@ -168,7 +193,7 @@ CREATE TABLE multi_tm_plyr (
     FOREIGN KEY (former_tm_lst_wk_id) REFERENCES nfl_week(week_id),
     FOREIGN KEY (second_tm_week_id) REFERENCES nfl_week(week_id),
     FOREIGN KEY (first_tm_lst_wk_id) REFERENCES nfl_week(week_id),
-    UNIQUE KEY uk_plyr_season_pos_exp (plyr_name, season_id, plyr_pos, plyr_weight, plyr_yrs_played)
+    UNIQUE KEY uk_plyr_season_pos_exp (plyr_name, season_id, plyr_birthday, plyr_draft_tm)
 );
 
 CREATE TABLE injury_report (

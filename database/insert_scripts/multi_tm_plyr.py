@@ -281,12 +281,7 @@ def preprocess_multi_team_data(db: DatabaseConnector, df: pd.DataFrame) -> pd.Da
     if initial_count > final_count:
         print(f"Removed {initial_count - final_count} rows due to missing player IDs")
     
-    # Drop columns now in plyr_master
-    columns_to_drop = ['plyr_name', 'plyr_birthday', 'plyr_pos', 'plyr_age', 
-                       'plyr_weight', 'plyr_height', 'plyr_yrs_played', 'plyr_college',
-                       'plyr_avg_value', 'plyr_draft_tm', 'plyr_draft_rd', 
-                       'plyr_draft_pick', 'plyr_draft_yr']
-    df_processed = df_processed.drop(columns=[col for col in columns_to_drop if col in df_processed.columns])
+    # Keep all columns - don't drop anything since unique key needs plyr_name, plyr_birthday, plyr_draft_tm
     
     # Handle team_id mappings
     team_columns = [

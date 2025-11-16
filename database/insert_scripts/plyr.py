@@ -11,33 +11,65 @@ import glob
 from datetime import datetime
 import pandas as pd
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from db_utils import DatabaseConnector, YEAR, WEEK, load_csv_data, clean_column_names, handle_null_values, batch_upsert_data, get_or_create_player_guid
+from db_utils import DatabaseConnector, YEAR, WEEK, load_csv_data, clean_column_names, handle_null_values, batch_upsert_data, get_or_create_player_guid, check_birthday_tolerance, prompt_user_birthday_resolution
+
+def create_plyr_master_table(db: DatabaseConnector) -> bool:
+    """Create the plyr_master table if it doesn't exist"""
+    create_table_query = """
+    CREATE TABLE IF NOT EXISTS plyr_master (
+        plyr_guid VARCHAR(64) PRIMARY KEY,
+        plyr_name VARCHAR(255) NOT NULL,
+        plyr_birthday DATE,
+        plyr_college VARCHAR(255),
+        plyr_draft_tm VARCHAR(255),
+        plyr_draft_rd TINYINT UNSIGNED,
+        plyr_draft_pick SMALLINT UNSIGNED,
+        plyr_draft_yr SMALLINT UNSIGNED,
+        primary_pos VARCHAR(10),
+        created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+        updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+        INDEX idx_plyr_name (plyr_name),
+        INDEX idx_plyr_draft_yr (plyr_draft_yr),
+        INDEX idx_primary_pos (primary_pos)
+    )
+    """
+    
+    if db.execute_query(create_table_query):
+        print("plyr_master table created/verified successfully")
+        return True
+    else:
+        print("Failed to create plyr_master table")
+        return False
 
 def create_plyr_table(db: DatabaseConnector) -> bool:
     """Create the plyr table if it doesn't exist"""
     create_table_query = """
     CREATE TABLE IF NOT EXISTS plyr (
         plyr_id INT AUTO_INCREMENT PRIMARY KEY,
+        plyr_guid VARCHAR(64),
         team_id INT,
         season_id INT,
         plyr_name VARCHAR(255) NOT NULL,
-        plyr_age INT,
+        plyr_age TINYINT UNSIGNED,
         plyr_pos VARCHAR(10),
-        plyr_gm_played INT,
-        plyr_gm_started INT,
-        plyr_weight INT,
-        plyr_height INT,
-        plyr_yrs_played INT,
-        plyr_college VARCHAR(255),
-        plyr_birthday DATE,
-        plyr_avg_value DECIMAL(5,2),
-        plyr_draft_tm VARCHAR(255),
-        plyr_draft_rd INT,
-        plyr_draft_pick INT,
-        plyr_draft_yr INT,
+        plyr_alt_pos VARCHAR(10),
+        plyr_gm_played TINYINT UNSIGNED,
+        plyr_gm_started TINYINT UNSIGNED,
+        plyr_weight SMALLINT UNSIGNED,
+        plyr_height SMALLINT UNSIGNED,
+        plyr_yrs_played TINYINT UNSIGNED,
+        plyr_birthday DATE NOT NULL,
+        plyr_avg_value TINYINT,
+        plyr_draft_tm VARCHAR(255) NOT NULL,
+        created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+        updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+        FOREIGN KEY (plyr_guid) REFERENCES plyr_master(plyr_guid),
         FOREIGN KEY (team_id) REFERENCES nfl_team(team_id),
         FOREIGN KEY (season_id) REFERENCES nfl_season(season_id),
-        UNIQUE KEY uk_player_identity (plyr_name, plyr_birthday, plyr_draft_tm, season_id)
+        INDEX idx_plyr_name (plyr_name),
+        INDEX idx_team_season (team_id, season_id),
+        INDEX idx_plyr_pos (plyr_pos),
+        UNIQUE KEY uk_player_season_pos_exp (plyr_name, season_id, plyr_birthday, plyr_draft_tm)
     )
     """
     
@@ -109,7 +141,7 @@ def preprocess_player_data(db: DatabaseConnector, df: pd.DataFrame) -> pd.DataFr
         print(f"Error: Could not find season_id for year {YEAR}")
         return pd.DataFrame()
     
-    # Map CSV columns to database columns
+    # Map CSV columns to database columns (includes plyr_master columns)
     column_mapping = {
         'plyr_name': 'plyr_name',
         'current_team': 'current_team',  
@@ -120,10 +152,10 @@ def preprocess_player_data(db: DatabaseConnector, df: pd.DataFrame) -> pd.DataFr
         'weight': 'plyr_weight',
         'height': 'plyr_height',
         'yrs_played': 'plyr_yrs_played',
-        'plyr_college': 'plyr_college',
         'plyr_birthdate': 'plyr_birthday',
         'plyr_avg_value': 'plyr_avg_value',
         'plyr_draft_tm': 'plyr_draft_tm',
+        'plyr_college': 'plyr_college',
         'plyr_draft_rd': 'plyr_draft_rd',
         'plyr_draft_pick': 'plyr_draft_pick',
         'plyr_draft_yr': 'plyr_draft_yr'
@@ -163,118 +195,77 @@ def preprocess_player_data(db: DatabaseConnector, df: pd.DataFrame) -> pd.DataFr
     # Handle null values
     df_processed = handle_null_values(df_processed)
     
-    # Generate player_guid for each player
-    print("Generating player GUIDs...")
+    # Check for birthday tolerance issues in plyr table and generate player_guids
+    print("Checking for birthday discrepancies and generating player GUIDs...")
     player_guids = []
+    
     for idx, row in df_processed.iterrows():
+        plyr_name = row['plyr_name']
+        plyr_birthday = None if pd.isna(row.get('plyr_birthday')) else row.get('plyr_birthday')
+        plyr_draft_tm = None if pd.isna(row.get('plyr_draft_tm')) else row.get('plyr_draft_tm')
+        
+        # Check for birthday tolerance match in plyr table
+        tolerance_match = check_birthday_tolerance(
+            db, plyr_name, plyr_birthday, plyr_draft_tm,
+            season_id=season_id, table_name='plyr'
+        )
+        
+        if tolerance_match:
+            csv_data = {
+                'plyr_name': plyr_name,
+                'plyr_birthday': plyr_birthday,
+                'plyr_draft_tm': plyr_draft_tm,
+                'season_id': season_id
+            }
+            
+            is_same_player, correct_birthday = prompt_user_birthday_resolution(csv_data, tolerance_match)
+            
+            if is_same_player:
+                df_processed.at[idx, 'plyr_birthday'] = correct_birthday
+                plyr_birthday = correct_birthday
+                
+                if correct_birthday != tolerance_match['db_birthday']:
+                    update_query = """
+                        UPDATE plyr 
+                        SET plyr_birthday = %s 
+                        WHERE plyr_id = %s
+                    """
+                    db.execute_query(update_query, (correct_birthday, tolerance_match['plyr_id']))
+                    print(f"Updated plyr table birthday to {correct_birthday}")
+        
+        # Get or create player_guid (this also checks plyr_master table)
         player_guid = get_or_create_player_guid(
             db,
-            plyr_name=row['plyr_name'],
-            plyr_birthday=row.get('plyr_birthday'),
-            plyr_draft_tm=row.get('plyr_draft_tm'),
-            plyr_height=row.get('plyr_height'),
-            plyr_college=row.get('plyr_college'),
-            plyr_draft_rd=row.get('plyr_draft_rd'),
-            plyr_draft_pick=row.get('plyr_draft_pick'),
-            plyr_draft_yr=row.get('plyr_draft_yr'),
-            primary_pos=row.get('plyr_pos')
+            plyr_name=plyr_name,
+            plyr_birthday=plyr_birthday,
+            plyr_draft_tm=plyr_draft_tm,
+            plyr_college=None if pd.isna(row.get('plyr_college')) else row.get('plyr_college'),
+            plyr_draft_rd=None if pd.isna(row.get('plyr_draft_rd')) else row.get('plyr_draft_rd'),
+            plyr_draft_pick=None if pd.isna(row.get('plyr_draft_pick')) else row.get('plyr_draft_pick'),
+            plyr_draft_yr=None if pd.isna(row.get('plyr_draft_yr')) else row.get('plyr_draft_yr'),
+            primary_pos=None if pd.isna(row.get('plyr_pos')) else row.get('plyr_pos')
         )
         player_guids.append(player_guid)
     
-    df_processed['player_guid'] = player_guids
-    
-    # Drop columns now in plyr_master
-    columns_to_drop = ['plyr_name', 'plyr_birthday', 'plyr_height', 'plyr_college', 
-                       'plyr_draft_tm', 'plyr_draft_rd', 'plyr_draft_pick', 'plyr_draft_yr']
-    df_processed = df_processed.drop(columns=[col for col in columns_to_drop if col in df_processed.columns])
+    df_processed['plyr_guid'] = player_guids
     
     print(f"Preprocessed {len(df_processed)} player records")
     return df_processed
 
-def detect_player_conflicts(db: DatabaseConnector, df: pd.DataFrame) -> dict:
-    """Detect players with conflicting season-specific attributes.
-    
-    Now checks by player_guid + season_id instead of name.
-    """
-    conflicts = {}
-
-    for idx, row in df.iterrows():
-        player_guid = row.get('player_guid')
-        season_id = row.get('season_id')
-
-        if not player_guid or not season_id:
-            continue
-
-        query = """
-            SELECT plyr_pos, plyr_weight, plyr_yrs_played
-            FROM plyr
-            WHERE player_guid = %s AND season_id = %s
-        """
-        existing = db.fetch_all(query, (player_guid, season_id))
-
-        if existing:
-            existing_pos, existing_weight, existing_yrs = existing[0]
-            new_pos = row.get('plyr_pos')
-            new_weight = row.get('plyr_weight')
-            new_yrs = row.get('plyr_yrs_played')
-
-            differences = []
-            if new_pos and existing_pos != new_pos:
-                differences.append(('plyr_pos', existing_pos, new_pos))
-            if new_weight and existing_weight != new_weight:
-                differences.append(('plyr_weight', existing_weight, new_weight))
-            if new_yrs is not None and existing_yrs != new_yrs:
-                differences.append(('plyr_yrs_played', existing_yrs, new_yrs))
-
-            if differences:
-                # Get name from plyr_master for display
-                name_query = "SELECT plyr_name FROM plyr_master WHERE player_guid = %s"
-                player_name = db.fetch_all(name_query, (player_guid,))[0][0]
-                
-                conflicts[player_name] = {
-                    'player_guid': player_guid,
-                    'existing': {'pos': existing_pos, 'weight': existing_weight, 'yrs': existing_yrs},
-                    'new': {'pos': new_pos, 'weight': new_weight, 'yrs': new_yrs},
-                    'differences': differences,
-                    'row_index': idx
-                }
-
-    return conflicts
-
-def handle_player_conflict(player_name: str, conflict_info: dict) -> str:
-    """Handle player conflicts by reporting data quality issues"""
-    print(f"\nWARNING: DATA QUALITY ISSUE detected for player: {player_name}")
-    print("Immutable identity fields differ between database and CSV:")
-    for field, old_val, new_val in conflict_info['differences']:
-        print(f"  {field}: {old_val} (DB) -> {new_val} (CSV)")
-    print("\nThis indicates a data quality problem. Skipping this player.")
-    print("Please investigate the source data for this player manually.")
-    return 'skip'
-
 def insert_player_data(db: DatabaseConnector, df: pd.DataFrame) -> bool:
-    """Insert/Update player data into the plyr table with conflict detection"""
+    """Insert/Update player data into the plyr table.
+    
+    Uses batch upsert to update all mutable fields (pos, weight, yrs_played, etc.)
+    while the unique key (plyr_name, plyr_birthday, plyr_draft_tm, season_id) remains immutable.
+    """
     print("Processing player data (inserting new/updating existing)...")
 
-    # First detect any conflicts in immutable identity fields
-    conflicts = detect_player_conflicts(db, df)
-
-    if conflicts:
-        print(f"\nWARNING: Found {len(conflicts)} players with identity field conflicts (data quality issues)")
-
-        # Handle each conflict - these are data quality issues that should be skipped
-        rows_to_skip = []
-        for player_name, conflict_info in conflicts.items():
-            action = handle_player_conflict(player_name, conflict_info)
-            if action == 'skip':
-                rows_to_skip.append(conflict_info['row_index'])
-
-        # Remove skipped rows
-        if rows_to_skip:
-            df = df.drop(rows_to_skip)
-            print(f"Skipped {len(rows_to_skip)} players due to identity conflicts")
+    # Filter out columns that belong to plyr_master only (not plyr table)
+    plyr_master_only_cols = ['plyr_college', 'plyr_draft_rd', 'plyr_draft_pick', 'plyr_draft_yr']
+    df_plyr = df.drop(columns=[col for col in plyr_master_only_cols if col in df.columns])
 
     # Use batch upsert from db_utils
-    success = batch_upsert_data(db, 'plyr', df, batch_size=500)
+    success = batch_upsert_data(db, 'plyr', df_plyr, batch_size=500)
 
     if success:
         print("Player data processed successfully")
@@ -311,7 +302,10 @@ def main():
             print("Failed to connect to database")
             return
         
-        # Create table if it doesn't exist
+        # Create tables if they don't exist
+        if not create_plyr_master_table(db):
+            return
+        
         if not create_plyr_table(db):
             return
         

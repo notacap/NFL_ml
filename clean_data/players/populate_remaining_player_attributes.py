@@ -13,6 +13,7 @@ from clean_utils import YEAR, WEEK
 ACTIVE_PLAYERS_DIR = r"C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\all_active_players"
 PLYR_RAW_DIR = rf"C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\{YEAR}\plyr\plyr_raw\{WEEK}"
 CACHE_FILE = os.path.join(os.path.dirname(__file__), "cache", "player_match_cache.json")
+FIELD_OVERRIDES_FILE = os.path.join(os.path.dirname(__file__), "cache", "field_overrides.json")
 
 TEAM_ABBR_TO_FULL = {
     'ARI': 'Arizona Cardinals',
@@ -27,10 +28,12 @@ TEAM_ABBR_TO_FULL = {
     'DEN': 'Denver Broncos',
     'DET': 'Detroit Lions',
     'GNB': 'Green Bay Packers',
+    'GB': 'Green Bay Packers',
     'HOU': 'Houston Texans',
     'IND': 'Indianapolis Colts',
     'JAX': 'Jacksonville Jaguars',
     'KAN': 'Kansas City Chiefs',
+    'KC': 'Kansas City Chiefs',
     'LVR': 'Las Vegas Raiders',
     'LV': 'Las Vegas Raiders',
     'OAK': 'Oakland Raiders',
@@ -50,6 +53,7 @@ TEAM_ABBR_TO_FULL = {
     'SF': 'San Francisco 49ers',
     'SEA': 'Seattle Seahawks',
     'TAM': 'Tampa Bay Buccaneers',
+    'TB': 'Tampa Bay Buccaneers',
     'TEN': 'Tennessee Titans',
     'WAS': 'Washington Commanders',
     'WSH': 'Washington Commanders',
@@ -246,7 +250,7 @@ def create_output_file(raw_file_path):
     shutil.copy2(raw_file_path, output_file)
     return output_file
 
-def update_raw_csv(raw_file_path, updates):
+def update_raw_csv(raw_file_path, updates, field_overrides):
     with open(raw_file_path, 'r', newline='', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         rows = list(reader)
@@ -259,6 +263,13 @@ def update_raw_csv(raw_file_path, updates):
                 if field in fieldnames:
                     if not row.get(field) or row[field].strip() == '':
                         row[field] = value
+        
+        cleaned_name = clean_player_name(row['plyr_name'])
+        if cleaned_name in field_overrides:
+            for field, value in field_overrides[cleaned_name].items():
+                if field in fieldnames:
+                    row[field] = value
+                    print(f"Applied override for {row['plyr_name']}: {field} = {value}")
 
     with open(raw_file_path, 'w', newline='', encoding='utf-8') as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
@@ -286,6 +297,17 @@ def save_match_cache(year_cache, all_cache):
             json.dump(all_cache, f, indent=2)
     except Exception as e:
         print(f"Warning: Could not save cache: {e}")
+
+def load_field_overrides():
+    """Load field overrides from JSON file"""
+    if os.path.exists(FIELD_OVERRIDES_FILE):
+        try:
+            with open(FIELD_OVERRIDES_FILE, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"Warning: Could not load field overrides: {e}")
+            return {}
+    return {}
 
 def find_player_matches(cleaned_name, active_players):
     """Find all potential matches for a player name"""
@@ -726,9 +748,13 @@ def main():
                     'plyr_draft_tm': 'Undrafted Free Agent'
                 }
 
+    field_overrides = load_field_overrides()
+    if field_overrides:
+        print(f"\nLoaded field overrides for {len(field_overrides)} player(s)")
+    
     if updates:
         print(f"\nUpdating {len(updates)} players in output file...")
-        update_raw_csv(output_file, updates)
+        update_raw_csv(output_file, updates, field_overrides)
         print("Update complete!")
     else:
         print("No matches found to update")

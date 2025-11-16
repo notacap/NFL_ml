@@ -122,6 +122,7 @@ class NFLDataExporter:
                 {'table': 'multi_tm_plyr', 'directory': 'players', 'partition_by': ['season']},
             ],
             'static': [
+                {'table': 'plyr_master', 'file': 'plyr_master.parquet', 'partition_by': None},
                 {'table': 'nfl_team', 'file': 'nfl_team.parquet', 'partition_by': None},
                 {'table': 'nfl_season', 'file': 'nfl_season.parquet', 'partition_by': None},
                 {'table': 'nfl_week', 'directory': 'static', 'partition_by': ['season']},

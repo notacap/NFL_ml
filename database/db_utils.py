@@ -5,12 +5,13 @@ from dotenv import load_dotenv
 import logging
 import hashlib
 from typing import Dict, Any, List, Optional
+from datetime import datetime, timedelta
 
 # Configuration: Set the year and week for data processing
 YEAR = 2025
-WEEK = 5
+WEEK = 10
 WEEK_START = 1
-WEEK_END = 5
+WEEK_END = 10
 
 # Load environment variables
 load_dotenv()
@@ -646,19 +647,19 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
     if team_abrv and team_abrv.strip():
         # Search with team filtering using plyr_master join
         query = f"""
-        SELECT p.plyr_id, pm.plyr_name, pm.player_guid, p.team_id, t.abrv, p.plyr_pos, p.plyr_age
+        SELECT p.plyr_id, pm.plyr_name, pm.plyr_guid, p.team_id, t.abrv, p.plyr_pos, p.plyr_age
         FROM plyr p
-        JOIN plyr_master pm ON p.player_guid = pm.player_guid
+        JOIN plyr_master pm ON p.plyr_guid = pm.plyr_guid
         JOIN nfl_team t ON p.team_id = t.team_id
         WHERE pm.plyr_name IN ({placeholders}) 
           AND (t.abrv = %s OR t.alt_abrv = %s) 
           AND p.season_id = %s{age_clause}{pos_clause}
         UNION
-        SELECT p.plyr_id, pm.plyr_name, pm.player_guid, p.team_id,
+        SELECT p.plyr_id, pm.plyr_name, pm.plyr_guid, p.team_id,
                COALESCE(t1.abrv, t2.abrv) AS abrv, p.plyr_pos, p.plyr_age
         FROM plyr p
-        JOIN plyr_master pm ON p.player_guid = pm.player_guid
-        JOIN multi_tm_plyr mtp ON p.player_guid = mtp.player_guid AND p.season_id = mtp.season_id
+        JOIN plyr_master pm ON p.plyr_guid = pm.plyr_guid
+        JOIN multi_tm_plyr mtp ON p.plyr_guid = mtp.plyr_guid AND p.season_id = mtp.season_id
         LEFT JOIN nfl_team t1 ON mtp.former_tm_id = t1.team_id
         LEFT JOIN nfl_team t2 ON mtp.first_tm_id = t2.team_id
         WHERE pm.plyr_name IN ({placeholders}) 
@@ -679,9 +680,9 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
     else:
         # Search without team filtering using plyr_master join
         query = f"""
-        SELECT p.plyr_id, pm.plyr_name, pm.player_guid, p.team_id, t.abrv, p.plyr_pos, p.plyr_age
+        SELECT p.plyr_id, pm.plyr_name, pm.plyr_guid, p.team_id, t.abrv, p.plyr_pos, p.plyr_age
         FROM plyr p
-        JOIN plyr_master pm ON p.player_guid = pm.player_guid
+        JOIN plyr_master pm ON p.plyr_guid = pm.plyr_guid
         JOIN nfl_team t ON p.team_id = t.team_id
         WHERE pm.plyr_name IN ({placeholders}) AND p.season_id = %s{age_clause}{pos_clause}
         """
@@ -939,6 +940,128 @@ def create_table_if_not_exists(db: DatabaseConnector, table_name: str, create_sq
 # ============================================
 # Functions for managing player master records and cross-season identification
 
+def check_birthday_tolerance(db: DatabaseConnector, plyr_name: str, plyr_birthday: str, 
+                              plyr_draft_tm: str, season_id: int, table_name: str) -> Optional[Dict[str, Any]]:
+    """Check for existing players with same name/draft_tm/season but birthday ±1 day.
+    
+    Args:
+        db: Database connector instance
+        plyr_name: Player full name
+        plyr_birthday: Birthday in YYYY-MM-DD format
+        plyr_draft_tm: Draft team name
+        season_id: Season ID (only for plyr table check)
+        table_name: 'plyr' or 'plyr_master'
+    
+    Returns:
+        Dict with match details if found, None otherwise
+    """
+    if not plyr_birthday:
+        return None
+    
+    try:
+        birthday_date = datetime.strptime(plyr_birthday, "%Y-%m-%d")
+        day_before = (birthday_date - timedelta(days=1)).strftime("%Y-%m-%d")
+        day_after = (birthday_date + timedelta(days=1)).strftime("%Y-%m-%d")
+        
+        if table_name == 'plyr':
+            query = """
+                SELECT plyr_id, plyr_name, plyr_birthday, plyr_draft_tm, season_id
+                FROM plyr
+                WHERE plyr_name = %s 
+                AND plyr_draft_tm = %s
+                AND season_id = %s
+                AND plyr_birthday IN (%s, %s)
+            """
+            params = (plyr_name, plyr_draft_tm, season_id, day_before, day_after)
+        else:  # plyr_master
+            query = """
+                SELECT plyr_guid, plyr_name, plyr_birthday, plyr_draft_tm
+                FROM plyr_master
+                WHERE plyr_name = %s 
+                AND plyr_draft_tm = %s
+                AND plyr_birthday IN (%s, %s)
+            """
+            params = (plyr_name, plyr_draft_tm, day_before, day_after)
+        
+        result = db.fetch_all(query, params)
+        
+        if result:
+            if table_name == 'plyr':
+                return {
+                    'table': table_name,
+                    'plyr_id': result[0][0],
+                    'plyr_name': result[0][1],
+                    'db_birthday': result[0][2],
+                    'plyr_draft_tm': result[0][3],
+                    'season_id': result[0][4]
+                }
+            else:
+                return {
+                    'table': table_name,
+                    'plyr_guid': result[0][0],
+                    'plyr_name': result[0][1],
+                    'db_birthday': result[0][2],
+                    'plyr_draft_tm': result[0][3]
+                }
+        
+        return None
+        
+    except Exception as e:
+        logging.error(f"Error checking birthday tolerance: {e}")
+        return None
+
+
+def prompt_user_birthday_resolution(csv_data: Dict[str, Any], db_match: Dict[str, Any]) -> tuple:
+    """Prompt user to resolve birthday discrepancy.
+    
+    Args:
+        csv_data: Dict with CSV player data (name, birthday, draft_tm, season_id)
+        db_match: Dict with database match details
+    
+    Returns:
+        Tuple: (is_same_player: bool, correct_birthday: str or None)
+    """
+    print("\n" + "="*80)
+    print("BIRTHDAY DISCREPANCY DETECTED - MANUAL INTERVENTION REQUIRED")
+    print("="*80)
+    print(f"\nPlayer Name: {csv_data['plyr_name']}")
+    print(f"Draft Team: {csv_data['plyr_draft_tm']}")
+    if 'season_id' in csv_data:
+        print(f"Season ID: {csv_data['season_id']}")
+    print(f"\nCSV Birthday:      {csv_data['plyr_birthday']}")
+    print(f"Database Birthday: {db_match['db_birthday']}")
+    print(f"Difference: ±1 day")
+    print(f"\nDatabase Table: {db_match['table']}")
+    
+    # Ask if same player
+    while True:
+        response = input("\nIs this the SAME player? (y/n): ").strip().lower()
+        if response in ['y', 'n']:
+            break
+        print("Invalid input. Please enter 'y' or 'n'")
+    
+    if response == 'n':
+        print("\nTreating as UNIQUE player - will create separate database entry")
+        return False, None
+    
+    # Same player - ask which birthday to keep
+    print("\nWhich birthday is CORRECT?")
+    print(f"1. CSV Birthday:      {csv_data['plyr_birthday']}")
+    print(f"2. Database Birthday: {db_match['db_birthday']}")
+    
+    while True:
+        choice = input("\nSelect option (1 or 2): ").strip()
+        if choice in ['1', '2']:
+            break
+        print("Invalid input. Please enter '1' or '2'")
+    
+    correct_birthday = csv_data['plyr_birthday'] if choice == '1' else db_match['db_birthday']
+    print(f"\nUsing birthday: {correct_birthday}")
+    print("="*80 + "\n")
+    
+    return True, correct_birthday
+
+
 def generate_player_guid(plyr_name: str, plyr_birthday: str, plyr_draft_tm: str) -> str:
     """Generate deterministic player GUID from natural key.
     
@@ -964,20 +1087,21 @@ def generate_player_guid(plyr_name: str, plyr_birthday: str, plyr_draft_tm: str)
 
 def get_or_create_player_guid(db: DatabaseConnector, plyr_name: str, 
                                plyr_birthday: str, plyr_draft_tm: str,
-                               plyr_height: int = None, plyr_college: str = None,
+                               plyr_college: str = None,
                                plyr_draft_rd: int = None, plyr_draft_pick: int = None,
                                plyr_draft_yr: int = None, primary_pos: str = None) -> str:
-    """Get existing player_guid or create new plyr_master record.
+    """Get existing plyr_guid or create new plyr_master record.
     
     This function ensures each unique player has exactly one master record
     across all seasons. Uses natural key (name, birthday, draft_tm) for identification.
+    
+    Handles birthday discrepancies with ±1 day tolerance, prompting user for resolution.
     
     Args:
         db: Database connector instance
         plyr_name: Player full name
         plyr_birthday: Birthday in YYYY-MM-DD format
         plyr_draft_tm: Draft team name or 'UNDRAFTED FREE AGENT'
-        plyr_height: Player height in inches (optional)
         plyr_college: College name (optional)
         plyr_draft_rd: Draft round (optional)
         plyr_draft_pick: Draft pick number (optional)
@@ -985,32 +1109,48 @@ def get_or_create_player_guid(db: DatabaseConnector, plyr_name: str,
         primary_pos: Primary position (optional)
     
     Returns:
-        str: player_guid (MD5 hash)
+        str: plyr_guid (MD5 hash)
         
     Raises:
         ValueError: If master record creation fails
     """
-    # Generate GUID from natural key
-    player_guid = generate_player_guid(plyr_name, plyr_birthday, plyr_draft_tm)
-    
-    # Check if master record already exists
-    result = db.fetch_all(
-        "SELECT player_guid FROM plyr_master WHERE player_guid = %s",
-        (player_guid,)
+    # Check for birthday tolerance match BEFORE generating GUID
+    tolerance_match = check_birthday_tolerance(
+        db, plyr_name, plyr_birthday, plyr_draft_tm, 
+        season_id=None, table_name='plyr_master'
     )
     
-    if result:
-        # Master record exists, return existing GUID
-        return player_guid
+    if tolerance_match:
+        csv_data = {
+            'plyr_name': plyr_name,
+            'plyr_birthday': plyr_birthday,
+            'plyr_draft_tm': plyr_draft_tm
+        }
+        
+        is_same_player, correct_birthday = prompt_user_birthday_resolution(csv_data, tolerance_match)
+        
+        if is_same_player:
+            plyr_birthday = correct_birthday
+            
+            if correct_birthday != tolerance_match['db_birthday']:
+                update_query = """
+                    UPDATE plyr_master 
+                    SET plyr_birthday = %s 
+                    WHERE plyr_guid = %s
+                """
+                db.execute_query(update_query, (correct_birthday, tolerance_match['plyr_guid']))
+                print(f"Updated plyr_master birthday to {correct_birthday}")
     
-    # Create new master record with UPSERT behavior
+    # Generate GUID from natural key (potentially corrected birthday)
+    player_guid = generate_player_guid(plyr_name, plyr_birthday, plyr_draft_tm)
+    
+    # Always execute UPSERT to update college/draft info if new data is available
     insert_query = """
         INSERT INTO plyr_master 
-        (player_guid, plyr_name, plyr_birthday, plyr_height, plyr_college, 
+        (plyr_guid, plyr_name, plyr_birthday, plyr_college, 
          plyr_draft_tm, plyr_draft_rd, plyr_draft_pick, plyr_draft_yr, primary_pos)
-        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
         ON DUPLICATE KEY UPDATE
-            plyr_height = COALESCE(VALUES(plyr_height), plyr_height),
             plyr_college = COALESCE(VALUES(plyr_college), plyr_college),
             plyr_draft_rd = COALESCE(VALUES(plyr_draft_rd), plyr_draft_rd),
             plyr_draft_pick = COALESCE(VALUES(plyr_draft_pick), plyr_draft_pick),
@@ -1020,7 +1160,7 @@ def get_or_create_player_guid(db: DatabaseConnector, plyr_name: str,
     """
     
     success = db.execute_query(insert_query, (
-        player_guid, plyr_name, plyr_birthday, plyr_height, plyr_college,
+        player_guid, plyr_name, plyr_birthday, plyr_college,
         plyr_draft_tm, plyr_draft_rd, plyr_draft_pick, plyr_draft_yr, primary_pos
     ))
     
@@ -1028,6 +1168,7 @@ def get_or_create_player_guid(db: DatabaseConnector, plyr_name: str,
         raise ValueError(f"Failed to create plyr_master record for {plyr_name}")
     
     return player_guid
+
 
 if __name__ == "__main__":
     # Test database connection

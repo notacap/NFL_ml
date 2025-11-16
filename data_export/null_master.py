@@ -115,10 +115,14 @@ UNPROCESSED_TABLES = {
 
 # Static (non-partitioned) files
 STATIC_FILES = [
+    'plyr_master.parquet',
     'nfl_team.parquet',
     'nfl_season.parquet',
     'nfl_gm_quarter.parquet',
 ]
+
+# Static file names (for argument parsing)
+STATIC_FILE_NAMES = {f.replace('.parquet', '') for f in STATIC_FILES}
 
 
 def parse_args() -> argparse.Namespace:
@@ -152,7 +156,7 @@ Examples:
     )
 
     # Table-specific flags (dynamic)
-    all_tables = PROCESSED_TABLES.union(set(UNPROCESSED_TABLES.keys()))
+    all_tables = PROCESSED_TABLES.union(set(UNPROCESSED_TABLES.keys())).union(STATIC_FILE_NAMES)
     for table in sorted(all_tables):
         parser.add_argument(
             f'--{table}',
@@ -345,8 +349,39 @@ def copy_unprocessed_tables(tables: List[tuple], seasons: Optional[List[int]],
     return results
 
 
-def copy_static_files() -> Dict[str, bool]:
+def get_static_files_to_copy(args: argparse.Namespace) -> List[str]:
+    """Determine which static files to copy based on arguments.
+
+    Args:
+        args: Parsed command-line arguments
+
+    Returns:
+        List of static file names to copy
+    """
+    files_to_copy = []
+
+    # Check if any specific static file flags are set
+    specific_files = []
+    for filename in STATIC_FILES:
+        file_arg = filename.replace('.parquet', '')
+        if hasattr(args, file_arg) and getattr(args, file_arg):
+            specific_files.append(filename)
+
+    # If specific files requested, only include those
+    if specific_files:
+        files_to_copy = specific_files
+    else:
+        # Copy all static files
+        files_to_copy = STATIC_FILES
+
+    return files_to_copy
+
+
+def copy_static_files(files: List[str]) -> Dict[str, bool]:
     """Copy static (non-partitioned) files from raw to clean directory.
+
+    Args:
+        files: List of file names to copy
 
     Returns:
         Dictionary mapping file names to success status
@@ -355,8 +390,12 @@ def copy_static_files() -> Dict[str, bool]:
     logger.info("PHASE 3: COPYING STATIC FILES")
     logger.info(f"{'='*80}")
 
+    if not files:
+        logger.info("No static files to copy.")
+        return {}
+
     results = {}
-    for filename in STATIC_FILES:
+    for filename in files:
         success = copy_non_partitioned_file(RAW_ROOT, CLEAN_ROOT, filename)
         results[filename] = success
 
@@ -486,11 +525,12 @@ def main():
     # Determine what to process
     scripts_to_execute = get_scripts_to_execute(args, exclude_list)
     tables_to_copy = get_tables_to_copy(args)
+    static_files_to_copy = get_static_files_to_copy(args)
 
     # Execute pipeline
     script_results = execute_null_handlers(scripts_to_execute, args, seasons, weeks)
     copy_results = copy_unprocessed_tables(tables_to_copy, seasons, weeks)
-    static_results = copy_static_files()
+    static_results = copy_static_files(static_files_to_copy)
     null_report = validate_clean_directory()
 
     # Print final summary

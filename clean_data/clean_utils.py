@@ -4,11 +4,11 @@ import os
 YEAR = 2025
 
 # Week variable to determine the week number (1-18)
-WEEK = 5
+WEEK = 10
 
 # Week range variables for processing multiple weeks
-WEEK_START = 5
-WEEK_END = 5
+WEEK_START = 1
+WEEK_END = 10
 
 def get_source_directory():
     """
