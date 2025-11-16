@@ -1,12 +1,6 @@
 -- ============================================================================
 -- NFL STATISTICS DATABASE SCHEMA
 -- ============================================================================
--- Last Updated: 2025-10-11
--- Precision Standardization Migration Applied
---   - Phase 1 (CRITICAL): plyr_pass percentage columns (DECIMAL 5,4 / 4,3 -> 6,4)
---   - Phase 2 (HIGH): plyr_gm_pass percentage columns (FLOAT 5,4 / DECIMAL 7,4 -> DECIMAL 6,4)
---   - Phase 3 (MEDIUM): tm_def_pass_cmp_pct (DECIMAL 7,4 -> 5,4)
--- ============================================================================
 
 CREATE TABLE nfl_season (
     season_id INT AUTO_INCREMENT PRIMARY KEY,
@@ -194,6 +188,36 @@ CREATE TABLE multi_tm_plyr (
     FOREIGN KEY (second_tm_week_id) REFERENCES nfl_week(week_id),
     FOREIGN KEY (first_tm_lst_wk_id) REFERENCES nfl_week(week_id),
     UNIQUE KEY uk_plyr_season_pos_exp (plyr_name, season_id, plyr_birthday, plyr_draft_tm)
+);
+
+CREATE TABLE multi_tm_plyr (
+    multi_tm_plyr_id INT AUTO_INCREMENT PRIMARY KEY,
+    season_id INT,
+    plyr_id INT,
+    plyr_guid VARCHAR(64),
+    plyr_name VARCHAR(255) NOT NULL,
+    tm_1_id INT, -- First team in the season
+    tm_2_id INT, -- Second team in the season
+    tm_3_id INT, -- Third team in the season
+    first_tm_week_start_id INT, -- Week the player started with the first team
+    first_tm_week_end_id INT, -- Week the player ended with the first team
+    second_tm_week_start_id INT, -- Week the player started with the second team
+    second_tm_week_end_id INT, -- Week the player ended with the second team
+    third_tm_week_start_id INT, -- Week the player started with the third team
+    third_tm_week_end_id INT, -- Week the player ended with the third team
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    FOREIGN KEY (plyr_guid) REFERENCES plyr_master(plyr_guid),
+    FOREIGN KEY (plyr_id) REFERENCES plyr(plyr_id),
+    FOREIGN KEY (season_id) REFERENCES nfl_season(season_id),
+    FOREIGN KEY (current_tm_id) REFERENCES nfl_team(team_id),
+    FOREIGN KEY (former_tm_id) REFERENCES nfl_team(team_id),
+    FOREIGN KEY (first_tm_id) REFERENCES nfl_team(team_id),
+    FOREIGN KEY (current_tm_week_id) REFERENCES nfl_week(week_id),
+    FOREIGN KEY (former_tm_lst_wk_id) REFERENCES nfl_week(week_id),
+    FOREIGN KEY (second_tm_week_id) REFERENCES nfl_week(week_id),
+    FOREIGN KEY (first_tm_lst_wk_id) REFERENCES nfl_week(week_id),
+    UNIQUE KEY uk_plyr_season_pos_exp (eason_id, plyr_guid)
 );
 
 CREATE TABLE injury_report (

@@ -129,61 +129,13 @@ def filter_null_weeks_players(null_weeks_players, players):
             excluded_null_indices.update(null_match_indices)
             continue
 
-        # Check if this player matches any NOT NULL weeks player
-        found_match = False
-        if not_null_matches_count > 0 and null_matches_count <= not_null_matches_count:
-            # Only execute match logic if NULL matches <= NOT NULL matches
-            for player in matching_not_null_players:
-                null_team = null_player.get('team_name', '').strip()
-                not_null_team = player.get('team_name', '').strip()
-
-                # Edge case: if teams are different, this is a multi-team player
-                if null_team and not_null_team and null_team != not_null_team:
-                    # Check if former_team is already populated (indicating a third team)
-                    if player.get('former_team', ''):
-                        # Move former_team → first_team
-                        player['first_team'] = player['former_team']
-
-                        # Move current_team_week → former_team_first_week
-                        player['former_team_first_week'] = player.get('current_team_week', '')
-
-                        # Move former_team_last_week → first_team_last_week
-                        player['first_team_last_week'] = player.get('former_team_last_week', '')
-
-                        # Now set the new former team information
-                        player['former_team'] = not_null_team
-
-                        # Parse weeks to get min and max
-                        weeks = [int(w) for w in player['weeks'].split(',')]
-                        max_week = max(weeks)
-                        player['former_team_last_week'] = str(max_week)
-
-                        # Set current team week to former_team_last_week + 1
-                        player['current_team_week'] = str(max_week + 1)
-
-                        # Update team_name to the null player's team
-                        player['team_name'] = null_team
-                    else:
-                        # Set former team information (two-team scenario)
-                        player['former_team'] = not_null_team
-
-                        # Parse weeks to get min and max
-                        weeks = [int(w) for w in player['weeks'].split(',')]
-                        max_week = max(weeks)
-                        player['former_team_last_week'] = str(max_week)
-                        player['former_team_first_week'] = str(min(weeks))
-
-                        # Set current team week to former_team_last_week + 1
-                        player['current_team_week'] = str(max_week + 1)
-
-                        # Update team_name to the null player's team
-                        player['team_name'] = null_team
-
-                found_match = True
-                break
+        # If this player matches any NOT NULL weeks player, exclude the null weeks row
+        if not_null_matches_count > 0:
+            excluded_null_indices.add(i)
+            continue
 
         # If no match found, keep this NULL weeks player
-        if not found_match and i not in excluded_null_indices:
+        if i not in excluded_null_indices:
             unmatched_null_weeks.append(null_player)
 
     return unmatched_null_weeks
