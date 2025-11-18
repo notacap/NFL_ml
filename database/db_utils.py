@@ -8,10 +8,10 @@ from typing import Dict, Any, List, Optional
 from datetime import datetime, timedelta
 
 # Configuration: Set the year and week for data processing
-YEAR = 2025
-WEEK = 10
+YEAR = 2022
+WEEK = 18
 WEEK_START = 1
-WEEK_END = 10
+WEEK_END = 18
 
 # Load environment variables
 load_dotenv()
