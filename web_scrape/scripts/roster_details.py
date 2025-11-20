@@ -138,7 +138,7 @@ def main():
     print(f"Scraping NFL roster details for year: {YEAR}")
     
     # Create directory structure
-    roster_dir = create_directories(YEAR, "roster_details", WEEK_NUMBER)
+    roster_dir = create_directories(YEAR, "roster_details", WEEK_NUMBER + 1)
     print(f"Data will be saved to: {roster_dir}")
     
     # Scrape all team rosters

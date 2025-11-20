@@ -9,9 +9,9 @@ from datetime import datetime, timedelta
 
 # Configuration: Set the year and week for data processing
 YEAR = 2022
-WEEK = 18
+WEEK = 1
 WEEK_START = 1
-WEEK_END = 18
+WEEK_END = 1
 
 # Load environment variables
 load_dotenv()
@@ -609,13 +609,14 @@ def get_game_id(db: DatabaseConnector, season_id: int, week_id: int, team1_abrv:
 
 
 def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, season_id: int, age: int = None, position: str = None, interactive: bool = False) -> int:
-    """Get player_id using plyr_master join for enhanced cross-season support.
+    """Get player_id from plyr table with fallback to multi_tm_plyr.
 
     CRITICAL: Returns plyr.plyr_id (season-specific), NOT player_guid.
     All stat tables reference plyr.plyr_id for foreign key relationships.
     
     Used by all player game stat insert scripts.
-    Handles name variations with suffixes and searches both plyr and multi_tm_plyr tables.
+    Handles name variations with suffixes and searches plyr table first,
+    then falls back to multi_tm_plyr if needed.
 
     Args:
         db: Database connector instance
@@ -644,47 +645,27 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
     age_clause = " AND p.plyr_age = %s" if age else ""
     pos_clause = " AND p.plyr_pos = %s" if mapped_position else ""
 
+    # STEP 1: Search plyr table first
     if team_abrv and team_abrv.strip():
-        # Search with team filtering using plyr_master join
         query = f"""
-        SELECT p.plyr_id, pm.plyr_name, pm.plyr_guid, p.team_id, t.abrv, p.plyr_pos, p.plyr_age
+        SELECT p.plyr_id, p.plyr_name, p.plyr_guid, p.team_id, t.abrv, p.plyr_pos, p.plyr_age
         FROM plyr p
-        JOIN plyr_master pm ON p.plyr_guid = pm.plyr_guid
         JOIN nfl_team t ON p.team_id = t.team_id
-        WHERE pm.plyr_name IN ({placeholders}) 
+        WHERE p.plyr_name IN ({placeholders}) 
           AND (t.abrv = %s OR t.alt_abrv = %s) 
           AND p.season_id = %s{age_clause}{pos_clause}
-        UNION
-        SELECT p.plyr_id, pm.plyr_name, pm.plyr_guid, p.team_id,
-               COALESCE(t1.abrv, t2.abrv) AS abrv, p.plyr_pos, p.plyr_age
-        FROM plyr p
-        JOIN plyr_master pm ON p.plyr_guid = pm.plyr_guid
-        JOIN multi_tm_plyr mtp ON p.plyr_guid = mtp.plyr_guid AND p.season_id = mtp.season_id
-        LEFT JOIN nfl_team t1 ON mtp.former_tm_id = t1.team_id
-        LEFT JOIN nfl_team t2 ON mtp.first_tm_id = t2.team_id
-        WHERE pm.plyr_name IN ({placeholders}) 
-          AND (t1.abrv = %s OR t1.alt_abrv = %s OR t2.abrv = %s OR t2.alt_abrv = %s) 
-          AND p.season_id = %s{age_clause}{pos_clause}
         """
-        
         params = name_variations + [team_abrv, team_abrv, season_id]
         if age:
             params.append(age)
         if mapped_position:
             params.append(mapped_position)
-        params.extend(name_variations + [team_abrv, team_abrv, team_abrv, team_abrv, season_id])
-        if age:
-            params.append(age)
-        if mapped_position:
-            params.append(mapped_position)
     else:
-        # Search without team filtering using plyr_master join
         query = f"""
-        SELECT p.plyr_id, pm.plyr_name, pm.plyr_guid, p.team_id, t.abrv, p.plyr_pos, p.plyr_age
+        SELECT p.plyr_id, p.plyr_name, p.plyr_guid, p.team_id, t.abrv, p.plyr_pos, p.plyr_age
         FROM plyr p
-        JOIN plyr_master pm ON p.plyr_guid = pm.plyr_guid
         JOIN nfl_team t ON p.team_id = t.team_id
-        WHERE pm.plyr_name IN ({placeholders}) AND p.season_id = %s{age_clause}{pos_clause}
+        WHERE p.plyr_name IN ({placeholders}) AND p.season_id = %s{age_clause}{pos_clause}
         """
         params = name_variations + [season_id]
         if age:
@@ -695,30 +676,65 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
     results = db.fetch_all(query, params)
 
     if len(results) == 1:
-        return results[0][0]  # Return plyr.plyr_id
+        return results[0][0]
     elif len(results) > 1:
         if interactive:
-            # Use interactive selection for multiple matches
             selected_id = interactive_player_selection(player_name, team_abrv, age, position, results)
             if selected_id == 0:
-                return 0  # User chose to skip this player
+                return 0
             return selected_id
         else:
-            # Default behavior: warn and use first match
             print(f"[WARNING] Multiple matches found for {player_name} ({team_abrv}). Using first match.")
             return results[0][0]
+    
+    # STEP 2: If no match in plyr table, try multi_tm_plyr
+    if team_abrv and team_abrv.strip():
+        # Get team_id for the provided abbreviation
+        try:
+            team_id = get_team_id(db, team_abrv)
+        except ValueError:
+            team_id = None
+        
+        if team_id:
+            multi_tm_query = f"""
+            SELECT p.plyr_id, mtp.plyr_name, mtp.plyr_guid, p.team_id, t.abrv, p.plyr_pos, p.plyr_age
+            FROM multi_tm_plyr mtp
+            JOIN plyr p ON mtp.plyr_id = p.plyr_id
+            JOIN nfl_team t ON p.team_id = t.team_id
+            WHERE mtp.plyr_name IN ({placeholders})
+              AND mtp.season_id = %s
+              AND (mtp.tm_1_id = %s OR mtp.tm_2_id = %s OR mtp.tm_3_id = %s){age_clause.replace('p.', 'p.')}{pos_clause.replace('p.', 'p.')}
+            """
+            multi_tm_params = name_variations + [season_id, team_id, team_id, team_id]
+            if age:
+                multi_tm_params.append(age)
+            if mapped_position:
+                multi_tm_params.append(mapped_position)
+            
+            multi_tm_results = db.fetch_all(multi_tm_query, multi_tm_params)
+            
+            if len(multi_tm_results) == 1:
+                return multi_tm_results[0][0]
+            elif len(multi_tm_results) > 1:
+                if interactive:
+                    selected_id = interactive_player_selection(player_name, team_abrv, age, position, multi_tm_results)
+                    if selected_id == 0:
+                        return 0
+                    return selected_id
+                else:
+                    print(f"[WARNING] Multiple matches found in multi_tm_plyr for {player_name} ({team_abrv}). Using first match.")
+                    return multi_tm_results[0][0]
+    
+    # STEP 3: Fall back to basic lookup without age/position if no exact match
+    if age or position:
+        print(f"[INFO] No exact match for {player_name} with age/position. Trying basic lookup...")
+        return get_player_id(db, player_name, team_abrv, season_id, age=None, position=None, interactive=interactive)
     else:
-        # Fall back to basic lookup without age/position if no exact match
-        if age or position:
-            print(f"[INFO] No exact match for {player_name} with age/position. Trying basic lookup...")
-            # Retry without age and position constraints
-            return get_player_id(db, player_name, team_abrv, season_id, age=None, position=None, interactive=interactive)
+        if interactive:
+            print(f"[ERROR] No player found for {player_name} ({team_abrv}) in season {season_id}")
+            return 0
         else:
-            if interactive:
-                print(f"[ERROR] No player found for {player_name} ({team_abrv}) in season {season_id}")
-                return 0  # Allow skipping in interactive mode
-            else:
-                raise ValueError(f"No player found for {player_name} ({team_abrv}) in season {season_id}")
+            raise ValueError(f"No player found for {player_name} ({team_abrv}) in season {season_id}")
 
 
 def interactive_player_selection(player_name: str, team_abrv: str, age: int, position: str, matches: list) -> int:
