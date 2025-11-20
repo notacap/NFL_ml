@@ -614,7 +614,9 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
     CRITICAL: Returns plyr.plyr_id (season-specific), NOT player_guid.
     All stat tables reference plyr.plyr_id for foreign key relationships.
     
-    Used by all player game stat insert scripts.
+    REPLACES: get_season_player_id() (deprecated 2025-01-20)
+    Used by: ALL player stat insert scripts (game and season level)
+    
     Handles name variations with suffixes and searches plyr table first,
     then falls back to multi_tm_plyr if needed.
 
@@ -793,8 +795,13 @@ def interactive_player_selection(player_name: str, team_abrv: str, age: int, pos
             return 0
 
 
+# DEPRECATED 2025-01-20: Replaced by get_player_id()
+# This function is no longer used - all scripts have been migrated to get_player_id()
+# Keeping commented out for one week as safety measure before permanent deletion
 def get_season_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, season_id: int, age: int = None, position: str = None, interactive: bool = False) -> int:
-    """Enhanced player_id lookup for season-level data with age and position validation.
+    """DEPRECATED: Use get_player_id() instead.
+    
+    Enhanced player_id lookup for season-level data with age and position validation.
     
     Used by season-level player stat insert scripts (plyr_def.py, etc.).
     Includes age and position matching for better player identification accuracy.
@@ -814,6 +821,7 @@ def get_season_player_id(db: DatabaseConnector, player_name: str, team_abrv: str
     Raises:
         ValueError: If no player found or lookup fails (non-interactive mode)
     """
+    raise DeprecationWarning("get_season_player_id() is deprecated. Use get_player_id() instead.")
     # Generate name variations to handle suffixes
     suffixes = ["II", "III", "IV", "Jr.", "Sr."]
     name_variations = [player_name] + [f"{player_name} {suffix}" for suffix in suffixes]

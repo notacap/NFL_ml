@@ -23,7 +23,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from db_utils import (
     DatabaseConnector, 
     YEAR, WEEK, 
-    get_season_id, get_week_id, get_season_player_id, 
+    get_season_id, get_week_id, get_player_id, 
     create_table_if_not_exists, batch_upsert_data, handle_null_values,
     apply_position_mapping
 )
@@ -359,7 +359,7 @@ def process_player_passing_data(db: DatabaseConnector, df: pd.DataFrame, season_
             
             # Handle multi-team players (2TM, 3TM) by searching without team filter
             if row['team'] in ['2TM', '3TM']:
-                player_id = get_season_player_id(
+                player_id = get_player_id(
                     db, 
                     row['player_name'], 
                     '', # No team filter for multi-team players
@@ -370,7 +370,7 @@ def process_player_passing_data(db: DatabaseConnector, df: pd.DataFrame, season_
                 )
             else:
                 # Get player ID using enhanced season lookup
-                player_id = get_season_player_id(
+                player_id = get_player_id(
                     db, 
                     row['player_name'], 
                     row['team'], 

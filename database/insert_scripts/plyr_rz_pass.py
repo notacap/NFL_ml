@@ -21,7 +21,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from db_utils import (
     DatabaseConnector, 
     YEAR, WEEK, 
-    get_season_id, get_week_id, get_season_player_id, 
+    get_season_id, get_week_id, get_player_id, 
     create_table_if_not_exists, batch_upsert_data, handle_null_values
 )
 
@@ -134,7 +134,7 @@ def process_player_red_zone_data(db: DatabaseConnector, df: pd.DataFrame, season
             if row['team'] in ['2TM', '3TM']:
                 # Get potential player matches
                 try:
-                    player_id = get_season_player_id(
+                    player_id = get_player_id(
                         db, 
                         row['player_name'], 
                         '', # No team filter for multi-team players
@@ -145,7 +145,7 @@ def process_player_red_zone_data(db: DatabaseConnector, df: pd.DataFrame, season
                     # For multi-team players, we need manual selection since we can't use team to disambiguate
                     if "multiple matches" in str(e).lower() or interactive:
                         # Use interactive mode to handle multiple matches
-                        player_id = get_season_player_id(
+                        player_id = get_player_id(
                             db,
                             row['player_name'],
                             '',
@@ -158,7 +158,7 @@ def process_player_red_zone_data(db: DatabaseConnector, df: pd.DataFrame, season
                         continue
             else:
                 # Get player ID using team for disambiguation
-                player_id = get_season_player_id(
+                player_id = get_player_id(
                     db, 
                     row['player_name'], 
                     row['team'], 

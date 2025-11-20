@@ -13,7 +13,7 @@ from datetime import datetime
 import pandas as pd
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from db_utils import (DatabaseConnector, YEAR, WEEK, get_season_id, get_week_id,
-                     get_team_id, get_season_player_id, create_table_if_not_exists,
+                     get_team_id, get_player_id, create_table_if_not_exists,
                      standardize_team_name, interactive_player_selection)
 
 def create_injured_reserve_table(db: DatabaseConnector) -> bool:
