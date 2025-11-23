@@ -1,50 +1,69 @@
 import csv
 from collections import defaultdict
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 import sys
 import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from clean_utils import YEAR, WEEK
 
-# Define position compatibility groups
-def positions_are_compatible(pos1, pos2):
-    """Check if two positions should be considered the same for player matching"""
-    if pos1 == pos2:
-        return True
-    # LB and DL are compatible (players can move between these positions)
-    compatible_groups = [
-        {'LB', 'DL'},
-        {'K', 'P'}
-    ]
-    for group in compatible_groups:
-        if pos1 in group and pos2 in group:
-            return True
-    return False
+merged_players = []
+dropped_players = []
+birthdate_conflicts = []
+alt_pos_populated = []
 
-def players_match(player1, player2):
-    """Check if two players match based on name, position compatibility, and at least 2 matching fields"""
-    # First check: plyr_name must match and positions must be compatible
-    if (player1['plyr_name'] != player2['plyr_name'] or
-        not positions_are_compatible(player1['pos'], player2['pos'])):
+def birthdates_match(date1_str, date2_str):
+    """Check if two birthdates match or differ by only 1 day"""
+    if not date1_str or not date2_str:
+        return False
+    if date1_str == date2_str:
+        return True
+    
+    try:
+        date1 = datetime.strptime(date1_str, '%m/%d/%Y')
+        date2 = datetime.strptime(date2_str, '%m/%d/%Y')
+        diff = abs((date1 - date2).days)
+        return diff == 1
+    except:
         return False
 
-    # Second check: count matching fields
+def get_earlier_birthdate(date1_str, date2_str, player_name=None):
+    """Return the earlier of two birthdates"""
+    try:
+        date1 = datetime.strptime(date1_str, '%m/%d/%Y')
+        date2 = datetime.strptime(date2_str, '%m/%d/%Y')
+        if date1_str != date2_str and player_name:
+            birthdate_conflicts.append({
+                'player': player_name,
+                'birthdate1': date1_str,
+                'birthdate2': date2_str,
+                'selected': date1_str if date1 < date2 else date2_str
+            })
+        return date1_str if date1 < date2 else date2_str
+    except:
+        return date1_str
+
+def players_match(player1, player2):
+    """Check if two players match based on name and at least 4 matching fields"""
+    if player1['plyr_name'] != player2['plyr_name']:
+        return False
+
     match_count = 0
     fields_to_check = [
-        'age', 'weight', 'height', 'yrs_played',
-        'plyr_college', 'plyr_birthdate', 'plyr_draft_tm'
+        'pos', 'age', 'weight', 'height', 'yrs_played',
+        'plyr_college', 'plyr_draft_tm'
     ]
 
     for field in fields_to_check:
         val1 = player1.get(field, '').strip()
         val2 = player2.get(field, '').strip()
-        # Only count as match if both values exist and are equal
         if val1 and val2 and val1 == val2:
             match_count += 1
+    
+    if birthdates_match(player1.get('plyr_birthdate', '').strip(), player2.get('plyr_birthdate', '').strip()):
+        match_count += 1
 
-    # If at least 2 additional fields match, consider it a match
-    return match_count >= 2
+    return match_count >= 4
 
 # Define input and output paths using YEAR and WEEK variables
 INPUT_DIR = rf"C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\{YEAR}\plyr\plyr_raw\{WEEK}"
@@ -70,24 +89,20 @@ def read_input_csv():
             if not row.get('weeks') or row['weeks'].strip() == '':
                 null_weeks_players.append(row)
             else:
-                # Create a unique key for each player
-                key = (row['plyr_name'], row['pos'], row['age'], row['yrs_played'],
-                       row['weight'] or row['height'])  # Use weight or height, whichever is available
-
-                # Check if we should merge with an existing player with compatible position
-                found_compatible = False
-                for existing_key in list(players.keys()):
-                    if (existing_key[0] == key[0] and  # Same name
-                        positions_are_compatible(existing_key[1], key[1]) and  # Compatible positions
-                        existing_key[2] == key[2] and  # Same age
-                        existing_key[3] == key[3] and  # Same years played
-                        existing_key[4] == key[4]):    # Same weight/height
-                        # Add to existing key group
-                        players[existing_key].append(row)
-                        found_compatible = True
+                found_match = False
+                for existing_players in list(players.values()):
+                    if existing_players and players_match(row, existing_players[0]):
+                        existing_players.append(row)
+                        found_match = True
+                        merged_players.append({
+                            'player': row['plyr_name'],
+                            'team1': existing_players[0]['team_name'],
+                            'team2': row['team_name']
+                        })
                         break
 
-                if not found_compatible:
+                if not found_match:
+                    key = (row['plyr_name'], id(row))
                     players[key].append(row)
 
     return players, null_weeks_players
@@ -122,16 +137,23 @@ def filter_null_weeks_players(null_weeks_players, players):
                     not_null_matches_count += 1
                     matching_not_null_players.append(player)
 
-        # Decision logic
         if null_matches_count > 0 and null_matches_count == not_null_matches_count:
-            # Remove all NULL rows, don't modify team fields
             excluded_null_indices.add(i)
             excluded_null_indices.update(null_match_indices)
+            dropped_players.append({
+                'player': null_player['plyr_name'],
+                'team': null_player['team_name'],
+                'reason': 'NULL weeks matched with NOT NULL weeks'
+            })
             continue
 
-        # If this player matches any NOT NULL weeks player, exclude the null weeks row
         if not_null_matches_count > 0:
             excluded_null_indices.add(i)
+            dropped_players.append({
+                'player': null_player['plyr_name'],
+                'team': null_player['team_name'],
+                'reason': 'NULL weeks matched with NOT NULL weeks'
+            })
             continue
 
         # If no match found, keep this NULL weeks player
@@ -171,10 +193,30 @@ def determine_team_order(player_data):
 def process_players(players, multi_team_players, unmatched_null_weeks):
     processed_players = []
     for key, player_data in players.items():
+        all_positions = set(p['pos'] for p in player_data)
+        primary_pos = player_data[0]['pos']
+        alt_pos = ','.join(sorted(all_positions - {primary_pos})) if len(all_positions) > 1 else ''
+        
+        all_birthdates = [p.get('plyr_birthdate', '').strip() for p in player_data if p.get('plyr_birthdate', '').strip()]
+        if len(all_birthdates) > 1:
+            earliest_birthdate = all_birthdates[0]
+            for bd in all_birthdates[1:]:
+                earliest_birthdate = get_earlier_birthdate(earliest_birthdate, bd, player_data[0]['plyr_name'])
+        elif all_birthdates:
+            earliest_birthdate = all_birthdates[0]
+        else:
+            earliest_birthdate = ''
+        
+        if alt_pos:
+            alt_pos_populated.append({
+                'player': player_data[0]['plyr_name'],
+                'primary_pos': primary_pos,
+                'alt_pos': alt_pos
+            })
+        
         if key in multi_team_players:
             first_team, second_team, third_team = determine_team_order(player_data)
             
-            # Sum up gm_played and gm_started for all teams
             total_gm_played = sum(int(team['gm_played']) for team in player_data if team['gm_played'])
             total_gm_started = sum(int(team['gm_started']) for team in player_data if team['gm_started'])
             
@@ -183,7 +225,6 @@ def process_players(players, multi_team_players, unmatched_null_weeks):
                 second_weeks = [int(w) for w in second_team['weeks'].split(',')]
                 
                 if max(first_weeks) > max(second_weeks):
-                    # Edge case: player returned to original team
                     current_team = first_team
                     former_team = second_team
                     first_team = None
@@ -200,14 +241,13 @@ def process_players(players, multi_team_players, unmatched_null_weeks):
             processed_player['former_team'] = former_team['team_name'] if former_team else ''
             processed_player['first_team'] = first_team['team_name'] if first_team else ''
             
-            # Use the summed up values for gm_played and gm_started
             processed_player['gm_played'] = str(total_gm_played)
             processed_player['gm_started'] = str(total_gm_started)
             processed_player['is_on_ir'] = processed_player.get('is_on_ir', '')
 
-            # Add new columns from the updated CSV structure
+            processed_player['alt_pos'] = alt_pos
             processed_player['plyr_college'] = processed_player.get('plyr_college', '')
-            processed_player['plyr_birthdate'] = processed_player.get('plyr_birthdate', '')
+            processed_player['plyr_birthdate'] = earliest_birthdate
             processed_player['plyr_avg_value'] = processed_player.get('plyr_avg_value', '')
             processed_player['plyr_draft_tm'] = processed_player.get('plyr_draft_tm', '')
             processed_player['plyr_draft_rd'] = processed_player.get('plyr_draft_rd', '')
@@ -237,29 +277,26 @@ def process_players(players, multi_team_players, unmatched_null_weeks):
         else:
             processed_player = player_data[0].copy()
             processed_player['current_team'] = processed_player.pop('team_name')
-            # Set default values for team transition fields if not already set
             processed_player.setdefault('former_team', '')
             processed_player.setdefault('first_team', '')
             processed_player.setdefault('current_team_week', '')
             processed_player.setdefault('former_team_last_week', '')
             processed_player.setdefault('former_team_first_week', '')
             processed_player.setdefault('first_team_last_week', '')
-            # Ensure new columns are included for single-team players
             processed_player['is_on_ir'] = processed_player.get('is_on_ir', '')
+            processed_player['alt_pos'] = alt_pos
             processed_player['plyr_college'] = processed_player.get('plyr_college', '')
-            processed_player['plyr_birthdate'] = processed_player.get('plyr_birthdate', '')
+            processed_player['plyr_birthdate'] = earliest_birthdate
             processed_player['plyr_avg_value'] = processed_player.get('plyr_avg_value', '')
             processed_player['plyr_draft_tm'] = processed_player.get('plyr_draft_tm', '')
             processed_player['plyr_draft_rd'] = processed_player.get('plyr_draft_rd', '')
             processed_player['plyr_draft_pick'] = processed_player.get('plyr_draft_pick', '')
             processed_player['plyr_draft_yr'] = processed_player.get('plyr_draft_yr', '')
-            # Keep gm_played and gm_started as they are for single-team players
             processed_player['gm_played'] = processed_player.get('gm_played', '')
             processed_player['gm_started'] = processed_player.get('gm_started', '')
         
         processed_players.append(processed_player)
 
-    # Add unmatched NULL weeks players as-is
     for null_player in unmatched_null_weeks:
         processed_player = null_player.copy()
         processed_player['current_team'] = processed_player.pop('team_name')
@@ -269,8 +306,8 @@ def process_players(players, multi_team_players, unmatched_null_weeks):
         processed_player['former_team_last_week'] = ''
         processed_player['former_team_first_week'] = ''
         processed_player['first_team_last_week'] = ''
-        # Ensure all expected columns are included
         processed_player['is_on_ir'] = processed_player.get('is_on_ir', '')
+        processed_player['alt_pos'] = ''
         processed_player['plyr_college'] = processed_player.get('plyr_college', '')
         processed_player['plyr_birthdate'] = processed_player.get('plyr_birthdate', '')
         processed_player['plyr_avg_value'] = processed_player.get('plyr_avg_value', '')
@@ -290,7 +327,7 @@ def write_output_csv(processed_players):
     timestamp = datetime.now().strftime("%Y%m%d_%H%M")
     output_file = os.path.join(OUTPUT_DIR, f"cleaned_players_{timestamp}.csv")
     
-    fieldnames = ['plyr_name', 'current_team', 'pos', 'age', 'gm_played', 'gm_started', 'is_on_ir',
+    fieldnames = ['plyr_name', 'current_team', 'pos', 'alt_pos', 'age', 'gm_played', 'gm_started', 'is_on_ir',
                   'weight', 'height', 'yrs_played', 'plyr_college', 'plyr_birthdate', 'plyr_avg_value',
                   'plyr_draft_tm', 'plyr_draft_rd', 'plyr_draft_pick', 'plyr_draft_yr', 'former_team',
                   'first_team', 'current_team_week', 'former_team_last_week', 'former_team_first_week',
@@ -311,6 +348,23 @@ def main():
     multi_team_players = identify_multi_team_players(players)
     processed_players = process_players(players, multi_team_players, unmatched_null_weeks)
     write_output_csv(processed_players)
+    
+    print("\n=== PROCESSING SUMMARY ===")
+    print(f"\nMerged Players: {len(merged_players)}")
+    for item in merged_players:
+        print(f"  - {item['player']}: {item['team1']} + {item['team2']}")
+    
+    print(f"\nDropped Players: {len(dropped_players)}")
+    for item in dropped_players:
+        print(f"  - {item['player']} ({item['team']}): {item['reason']}")
+    
+    print(f"\nBirthdate Conflicts Resolved: {len(birthdate_conflicts)}")
+    for item in birthdate_conflicts:
+        print(f"  - {item['player']}: {item['birthdate1']} vs {item['birthdate2']} → Selected {item['selected']}")
+    
+    print(f"\nPlayers with Alt Position: {len(alt_pos_populated)}")
+    for item in alt_pos_populated:
+        print(f"  - {item['player']}: {item['primary_pos']} (alt: {item['alt_pos']})")
 
 if __name__ == "__main__":
     main()

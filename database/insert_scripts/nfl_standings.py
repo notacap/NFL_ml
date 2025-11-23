@@ -84,8 +84,11 @@ def process_nfl_standings_data(db: DatabaseConnector, standings_file: str, seaso
             team_name = row['Tm']
             print(f"Processing team: {team_name}")
             
+            # Strip playoff symbols (*, +, etc.) from the end of team names
+            clean_team_name = team_name.rstrip('*+')
+            
             # Get team_id using the utility function (handles full team names)
-            team_id = get_team_id(db, team_name)
+            team_id = get_team_id(db, clean_team_name)
             
             # Helper functions for type conversion
             def safe_convert_int(value):

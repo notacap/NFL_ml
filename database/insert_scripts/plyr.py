@@ -70,7 +70,7 @@ def create_plyr_table(db: DatabaseConnector) -> bool:
         INDEX idx_plyr_name (plyr_name),
         INDEX idx_team_season (team_id, season_id),
         INDEX idx_plyr_pos (plyr_pos),
-        UNIQUE KEY uk_player_season_pos_exp (plyr_name, season_id, plyr_birthday, plyr_draft_tm)
+        UNIQUE KEY uk_player_season_pos_exp (plyr_name, season_id, plyr_birthday)
     )
     """
     
@@ -190,6 +190,7 @@ def preprocess_player_data(db: DatabaseConnector, df: pd.DataFrame) -> pd.DataFr
         'plyr_name': 'plyr_name',
         'current_team': 'current_team',  
         'pos': 'plyr_pos',
+        'alt_pos': 'plyr_alt_pos',
         'age': 'plyr_age',
         'gm_played': 'plyr_gm_played',
         'gm_started': 'plyr_gm_started',
@@ -307,11 +308,65 @@ def preprocess_player_data(db: DatabaseConnector, df: pd.DataFrame) -> pd.DataFr
     print(f"Preprocessed {len(df_processed)} player records")
     return df_processed
 
+def protect_draft_team_data(db: DatabaseConnector, df: pd.DataFrame, season_id: int) -> pd.DataFrame:
+    """Protect existing draft team data from being overwritten by bad CSV data.
+    
+    If a player already exists in the database with a draft team != 'UNDRAFTED FREE AGENT',
+    and the incoming CSV data has 'UNDRAFTED FREE AGENT', preserve the database value.
+    
+    Args:
+        db: Database connector
+        df: DataFrame with player data to be inserted
+        season_id: Season ID
+    
+    Returns:
+        DataFrame with protected draft team values
+    """
+    print("Applying draft team protection logic...")
+    
+    protected_count = 0
+    
+    for idx, row in df.iterrows():
+        plyr_name = row.get('plyr_name')
+        plyr_birthday = row.get('plyr_birthday')
+        csv_draft_tm = row.get('plyr_draft_tm')
+        
+        # Only check if CSV has 'UNDRAFTED FREE AGENT'
+        if pd.notna(csv_draft_tm) and csv_draft_tm == 'UNDRAFTED FREE AGENT':
+            # Check if player exists in database with different draft team
+            query = """
+                SELECT plyr_draft_tm 
+                FROM plyr 
+                WHERE plyr_name = %s 
+                AND season_id = %s 
+                AND plyr_birthday = %s
+                AND plyr_draft_tm != 'UNDRAFTED FREE AGENT'
+            """
+            result = db.fetch_all(query, (plyr_name, season_id, plyr_birthday))
+            
+            if result:
+                # Preserve the existing draft team value from database
+                existing_draft_tm = result[0][0]
+                df.at[idx, 'plyr_draft_tm'] = existing_draft_tm
+                protected_count += 1
+                print(f"  Protected draft team for {plyr_name}: keeping '{existing_draft_tm}' (ignoring CSV 'UNDRAFTED FREE AGENT')")
+    
+    if protected_count > 0:
+        print(f"Protected {protected_count} player(s) from draft team overwrites")
+    else:
+        print("No draft team protections needed")
+    
+    return df
+
 def insert_player_data(db: DatabaseConnector, df: pd.DataFrame, df_original: pd.DataFrame, season_id: int) -> bool:
     """Insert/Update player data into the plyr table.
     
     Uses batch upsert to update all mutable fields (pos, weight, yrs_played, etc.)
-    while the unique key (plyr_name, plyr_birthday, plyr_draft_tm, season_id) remains immutable.
+    while the unique key (plyr_name, plyr_birthday, season_id) remains immutable.
+    
+    Special handling for plyr_draft_tm:
+    - If existing DB record has a value != 'UNDRAFTED FREE AGENT' and CSV has 'UNDRAFTED FREE AGENT',
+      preserve the existing DB value to prevent bad data from overwriting correct draft team info.
     
     Also processes multi-team players and inserts them into multi_tm_plyr table.
     """
@@ -324,6 +379,9 @@ def insert_player_data(db: DatabaseConnector, df: pd.DataFrame, df_original: pd.
                      'first_team_last_week', 'current_team_week']
     
     df_plyr = df.drop(columns=[col for col in plyr_master_only_cols + multi_tm_cols if col in df.columns])
+
+    # Apply draft team protection logic before upsert
+    df_plyr = protect_draft_team_data(db, df_plyr, season_id)
 
     # Use batch upsert from db_utils
     success = batch_upsert_data(db, 'plyr', df_plyr, batch_size=500)

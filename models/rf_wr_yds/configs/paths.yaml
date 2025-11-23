@@ -1,0 +1,47 @@
+# Centralized Path Configuration
+
+# Project root
+project_root: "C:/Users/nocap/Desktop/code/NFL_ml/models/rf_wr_yds"
+
+# Data paths
+data:
+  source: "C:/Users/nocap/Desktop/code/NFL_ml/parquet_files/clean"
+  raw: "data/raw"
+  processed: "data/processed"
+  features: "data/features"
+  splits: "data/splits"
+
+# Model paths
+models:
+  baseline: "models/baseline"
+  production: "models/production"
+
+# Output paths
+outputs:
+  metrics: "outputs/metrics"
+  plots: "outputs/plots"
+  predictions: "outputs/predictions"
+
+# Notebook paths
+notebooks:
+  data_exploration: "notebooks/data_exploration"
+  feature_engineering: "notebooks/feature_engineering"
+  model_evaluation: "notebooks/model_evaluation"
+
+# Resource paths
+resources:
+  database_tables: "resources/database_tables.sql"
+  directory_structure: "resources/directory_structure.md"
+  indicator_variables: "resources/INDICATOR_VARIABLES.md"
+
+# Source code paths
+src:
+  data_loaders: "src/data_loaders"
+  evaluations: "src/evaluations"
+  feature_engineering: "src/feature_engineering"
+  models: "src/models"
+
+# Other paths
+tests: "tests"
+utility: "utility"
+prompts: "prompts"

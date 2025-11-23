@@ -280,6 +280,12 @@ def consolidate_player_stats(basic_df: pd.DataFrame, advanced_df: pd.DataFrame) 
     # Handle age column (take from either basic or advanced)
     merged_df['age'] = merged_df['age'].fillna(merged_df.get('age_adv', pd.NA))
     
+    # Standardize age column to int type (handle float from advanced file)
+    if 'age' in merged_df.columns:
+        merged_df['age'] = merged_df['age'].apply(
+            lambda x: int(float(x)) if pd.notnull(x) and str(x).lower() != 'nan' else None
+        )
+    
     # Handle team conflicts - prioritize 2TM/3TM over individual team names
     if 'team_adv' in merged_df.columns:
         def resolve_team_conflict(row):

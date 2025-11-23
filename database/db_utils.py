@@ -8,10 +8,10 @@ from typing import Dict, Any, List, Optional
 from datetime import datetime, timedelta
 
 # Configuration: Set the year and week for data processing
-YEAR = 2022
-WEEK = 18
-WEEK_START = 1
-WEEK_END = 18
+YEAR = 2025
+WEEK = 11
+WEEK_START = 6
+WEEK_END = 11
 
 # Load environment variables
 load_dotenv()
@@ -635,6 +635,22 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
     Raises:
         ValueError: If no player found or lookup fails (non-interactive mode)
     """
+    import math
+    
+    # Sanitize age: convert NaN to None
+    if age is not None:
+        if isinstance(age, float) and math.isnan(age):
+            age = None
+        elif isinstance(age, str) and age.lower() == 'nan':
+            age = None
+    
+    # Sanitize position: convert NaN to None
+    if position is not None:
+        if isinstance(position, float) and math.isnan(position):
+            position = None
+        elif isinstance(position, str) and position.lower() == 'nan':
+            position = None
+    
     # Apply position mapping if position provided
     mapped_position = apply_position_mapping(position) if position else None
 
@@ -644,8 +660,8 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
     placeholders = ', '.join(['%s'] * len(name_variations))
 
     # Build dynamic WHERE clauses for age and position
-    age_clause = " AND p.plyr_age = %s" if age else ""
-    pos_clause = " AND p.plyr_pos = %s" if mapped_position else ""
+    age_clause = " AND p.plyr_age = %s" if age is not None else ""
+    pos_clause = " AND (p.plyr_pos = %s OR p.plyr_alt_pos = %s)" if mapped_position else ""
 
     # STEP 1: Search plyr table first
     if team_abrv and team_abrv.strip():
@@ -658,10 +674,17 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
           AND p.season_id = %s{age_clause}{pos_clause}
         """
         params = name_variations + [team_abrv, team_abrv, season_id]
-        if age:
+        if age is not None:
             params.append(age)
         if mapped_position:
-            params.append(mapped_position)
+            params.extend([mapped_position, mapped_position])
+        
+        # Debug: Check for NaN in params
+        import math
+        for i, p in enumerate(params):
+            if isinstance(p, float) and math.isnan(p):
+                print(f"[ERROR DEBUG] NaN found in params at index {i} for player {player_name}")
+                print(f"[ERROR DEBUG] Full params: {params}")
     else:
         query = f"""
         SELECT p.plyr_id, p.plyr_name, p.plyr_guid, p.team_id, t.abrv, p.plyr_pos, p.plyr_age
@@ -670,10 +693,10 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
         WHERE p.plyr_name IN ({placeholders}) AND p.season_id = %s{age_clause}{pos_clause}
         """
         params = name_variations + [season_id]
-        if age:
+        if age is not None:
             params.append(age)
         if mapped_position:
-            params.append(mapped_position)
+            params.extend([mapped_position, mapped_position])
 
     results = db.fetch_all(query, params)
 
@@ -708,10 +731,10 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
               AND (mtp.tm_1_id = %s OR mtp.tm_2_id = %s OR mtp.tm_3_id = %s){age_clause.replace('p.', 'p.')}{pos_clause.replace('p.', 'p.')}
             """
             multi_tm_params = name_variations + [season_id, team_id, team_id, team_id]
-            if age:
+            if age is not None:
                 multi_tm_params.append(age)
             if mapped_position:
-                multi_tm_params.append(mapped_position)
+                multi_tm_params.extend([mapped_position, mapped_position])
             
             multi_tm_results = db.fetch_all(multi_tm_query, multi_tm_params)
             
@@ -728,7 +751,7 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
                     return multi_tm_results[0][0]
     
     # STEP 3: Fall back to basic lookup without age/position if no exact match
-    if age or position:
+    if age is not None or position:
         print(f"[INFO] No exact match for {player_name} with age/position. Trying basic lookup...")
         return get_player_id(db, player_name, team_abrv, season_id, age=None, position=None, interactive=interactive)
     else:
