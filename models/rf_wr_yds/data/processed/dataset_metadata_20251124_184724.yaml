@@ -1,15 +1,15 @@
-created_at: '20251122_213803'
+created_at: '20251124_184724'
 date_range:
   max_week: 17
   max_year: 2025
   min_week: 1
   min_year: 2022
-total_columns: 63
+total_columns: 62
 total_rows: 3891
 unique_players: 504
 validation_results:
   after_plyr_info_join:
-    columns: 62
+    columns: 61
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - &id001 !!python/object/apply:numpy.dtype
       args:
@@ -29,7 +29,6 @@ validation_results:
       1jwAAAAAAAA=
     nulls_by_column:
       adv_plyr_gm_rec_id: 0
-      game_count: 6708
       game_id: 0
       plyr_alt_pos: 31095
       plyr_gm_off_snap_ct_pct: 9
@@ -92,14 +91,13 @@ validation_results:
       week_id: 0
     rows: 31157
   after_plyr_master_join:
-    columns: 62
+    columns: 61
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - *id001
     - !!binary |
       1jwAAAAAAAA=
     nulls_by_column:
       adv_plyr_gm_rec_id: 0
-      game_count: 6708
       game_id: 0
       plyr_alt_pos: 31095
       plyr_gm_off_snap_ct_pct: 9
@@ -162,14 +160,13 @@ validation_results:
       week_id: 0
     rows: 31157
   after_plyr_rec_join:
-    columns: 58
+    columns: 57
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - *id001
     - !!binary |
       AAAAAAAAAAA=
     nulls_by_column:
       adv_plyr_gm_rec_id: 0
-      game_count: 3354
       game_id: 0
       plyr_gm_rec: 0
       plyr_gm_rec_adot: 0
@@ -228,14 +225,13 @@ validation_results:
       week_id: 0
     rows: 15583
   after_season_join:
-    columns: 64
+    columns: 63
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - *id001
     - !!binary |
       1jwAAAAAAAA=
     nulls_by_column:
       adv_plyr_gm_rec_id: 0
-      game_count: 6708
       game_id: 0
       plyr_alt_pos: 31095
       plyr_gm_off_snap_ct_pct: 9
@@ -300,14 +296,13 @@ validation_results:
       year: 0
     rows: 31157
   after_snap_count_join:
-    columns: 59
+    columns: 58
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - *id001
     - !!binary |
       1jwAAAAAAAA=
     nulls_by_column:
       adv_plyr_gm_rec_id: 0
-      game_count: 6708
       game_id: 0
       plyr_gm_off_snap_ct_pct: 9
       plyr_gm_rec: 0
@@ -367,14 +362,13 @@ validation_results:
       week_id: 0
     rows: 31157
   after_week_join:
-    columns: 63
+    columns: 62
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - *id001
     - !!binary |
       1jwAAAAAAAA=
     nulls_by_column:
       adv_plyr_gm_rec_id: 0
-      game_count: 6708
       game_id: 0
       plyr_alt_pos: 31095
       plyr_gm_off_snap_ct_pct: 9
@@ -475,14 +469,13 @@ validation_results:
       week_id: 0
     rows: 15583
   final_dataset:
-    columns: 63
+    columns: 62
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - *id001
     - !!binary |
       AAAAAAAAAAA=
     nulls_by_column:
       adv_plyr_gm_rec_id: 0
-      game_count: 595
       game_id: 0
       next_week_rec_yds: 0
       plyr_gm_off_snap_ct_pct: 0

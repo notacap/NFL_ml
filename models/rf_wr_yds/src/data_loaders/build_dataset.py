@@ -270,10 +270,14 @@ class NFLDatasetBuilder:
                            required_columns=['plyr_id', 'season_id', 'week_id', 'plyr_gm_rec_yds'])
         
         # Join with player season receiving stats
-        plyr_rec = tables['plyr_rec'][['plyr_id', 'season_id', 'week_id'] + 
-                                     [col for col in tables['plyr_rec'].columns 
-                                      if col not in ['plyr_id', 'season_id', 'week_id', 
-                                                   'plyr_rec_aybc_route', 'plyr_rec_succ_rt', 'plyr_rec_yac_route']]]
+        # Exclude columns that are inconsistently available or specified for removal:
+        # - plyr_rec_aybc_route, plyr_rec_succ_rt, plyr_rec_yac_route (per prompt)
+        # - game_count (not present in week 18 or 2025 data)
+        plyr_rec = tables['plyr_rec'][['plyr_id', 'season_id', 'week_id'] +
+                                     [col for col in tables['plyr_rec'].columns
+                                      if col not in ['plyr_id', 'season_id', 'week_id',
+                                                   'plyr_rec_aybc_route', 'plyr_rec_succ_rt', 'plyr_rec_yac_route',
+                                                   'game_count']]]
         
         df = base_df.merge(
             plyr_rec,
