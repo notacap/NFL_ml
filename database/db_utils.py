@@ -654,9 +654,52 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
     # Apply position mapping if position provided
     mapped_position = apply_position_mapping(position) if position else None
 
-    # Generate name variations to handle suffixes
+    # Generate name variations to handle suffixes and period variations
+    # Handles these cases:
+    # 1. CSV has "John Smith" but DB has "John Smith Jr." -> add suffixes
+    # 2. CSV has "John Smith Jr." but DB has "John Smith" -> remove suffixes
+    # 3. CSV has "DJ Moore" but DB has "D.J. Moore" -> add periods to initials
+    # 4. CSV has "D.J. Moore" but DB has "DJ Moore" -> remove periods from initials
     suffixes = ["II", "III", "IV", "Jr.", "Sr."]
-    name_variations = [player_name] + [f"{player_name} {suffix}" for suffix in suffixes]
+
+    # Start with original name
+    name_variations = [player_name]
+
+    # Add variations WITH suffixes (for case 1)
+    name_variations.extend([f"{player_name} {suffix}" for suffix in suffixes])
+
+    # Add variations WITHOUT suffixes (for case 2)
+    # Strip any existing suffix from the player name
+    base_name = player_name
+    for suffix in suffixes:
+        if player_name.endswith(f" {suffix}"):
+            base_name = player_name[:-len(f" {suffix}")]
+            break
+
+    # Only add base_name if it's different from original
+    if base_name != player_name:
+        name_variations.append(base_name)
+
+    # Handle period variations in names (cases 3 and 4)
+    # Case 3: "DJ Moore" -> "D.J. Moore" (add periods after single capital letters)
+    import re
+    # Match pattern like "DJ " or "AJ " at start of name (two capitals followed by space)
+    if re.match(r'^[A-Z]{2}\s', player_name):
+        # Add periods: "DJ Moore" -> "D.J. Moore"
+        with_periods = re.sub(r'^([A-Z])([A-Z])\s', r'\1.\2. ', player_name)
+        name_variations.append(with_periods)
+
+    # Case 4: "D.J. Moore" -> "DJ Moore" (remove periods from initials)
+    if '.' in player_name:
+        # Remove periods and normalize spaces: "D.J. Moore" -> "DJ Moore"
+        without_periods = player_name.replace('.', '')
+        # Clean up any double spaces that might result
+        without_periods = ' '.join(without_periods.split())
+        if without_periods != player_name:
+            name_variations.append(without_periods)
+
+    # Remove duplicates while preserving order
+    name_variations = list(dict.fromkeys(name_variations))
     placeholders = ', '.join(['%s'] * len(name_variations))
 
     # Build dynamic WHERE clauses for age and position

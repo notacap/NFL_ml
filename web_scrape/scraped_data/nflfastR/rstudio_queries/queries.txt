@@ -1,0 +1,16 @@
+## Historical Receiver Data
+
+library(nflverse)
+library(tidyverse)
+
+# Check your setup works
+nflverse_sitrep()
+
+# Load pre-aggregated WR stats (2022-2025)
+wr_data <- load_player_stats(seasons = 2022:2025, summary_level = "week") |>
+    filter(position == "WR") |>
+    select(player_id, player_display_name, season, week, team, targets,
+           target_share, receiving_epa, air_yards_share, wopr, racr)
+
+# Export for Python
+write_csv(wr_data, "wr_features_2022_2025.csv")

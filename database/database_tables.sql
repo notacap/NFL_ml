@@ -1225,3 +1225,49 @@ CREATE TABLE tm_def_vs_wr (
     FOREIGN KEY (team_id) REFERENCES nfl_team(team_id),
     FOREIGN KEY (season_id) REFERENCES nfl_season(season_id)
 );
+
+CREATE TABLE nfl_fastr_wr (
+    nfl_fastr_wr_id INT AUTO_INCREMENT PRIMARY KEY,
+    plyr_id INT,
+    season_id INT,
+    week_id INT,
+    plyr_gm_rec_avg_cushion DECIMAL(7,4),
+    plyr_gm_rec_avg_separation DECIMAL(7,4),
+    plyr_gm_rec_avg_yac DECIMAL(7,4),
+    plyr_gm_rec_avg_expected_yac DECIMAL(7,4),
+    plyr_gm_rec_avg_yac_above_expectation DECIMAL(7,4),
+    plyr_gm_rec_pct_share_of_intended_ay DECIMAL(7,4),
+    plyr_gm_rec_tgt_share DECIMAL(7,4),
+    plyr_gm_rec_epa DECIMAL(7,4),
+    plyr_gm_rec_ay_share DECIMAL(7,4),
+    plyr_gm_rec_wopr DECIMAL(7,4),
+    plyr_gm_rec_racr DECIMAL(7,4),
+    CREATED_AT TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    UPDATED_AT TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    UNIQUE KEY uk_plyr_season (plyr_id, season_id, week_id),
+    FOREIGN KEY (week_id) REFERENCES nfl_week(week_id),
+    FOREIGN KEY (season_id) REFERENCES nfl_season(season_id),
+    FOREIGN KEY (plyr_id) REFERENCES plyr(plyr_id)
+);
+
+CREATE TABLE nfl_fastr_qb (
+    nfl_fastr_qb_id INT AUTO_INCREMENT PRIMARY KEY,
+    plyr_id INT,
+    season_id INT,
+    week_id INT,
+    plyr_gm_pass_avg_ttt TIME,
+    plyr_gm_pass_aggressiveness DECIMAL(7,4),
+    plyr_gm_pass_avg_intended_ay DECIMAL(7,4),
+    plyr_gm_pass_avg_ay_to_sticks DECIMAL(7,4),
+    plyr_gm_pass_expected_cmp_pct DECIMAL(7,4),
+    plyr_gm_pass_cmp_pct_above_expectation DECIMAL(7,4),
+    plyr_gm_pass_epa DECIMAL(7,4),
+    plyr_gm_pass_pacr DECIMAL(7,4),
+    plyr_gm_pass_cpoe DECIMAL(7,4),
+    CREATED_AT TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    UPDATED_AT TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    UNIQUE KEY uk_plyr_season (plyr_id, season_id, week_id),
+    FOREIGN KEY (week_id) REFERENCES nfl_week(week_id),
+    FOREIGN KEY (season_id) REFERENCES nfl_season(season_id),
+    FOREIGN KEY (plyr_id) REFERENCES plyr(plyr_id)
+);
