@@ -88,6 +88,10 @@ class NFLDataExporter:
                 {'table': 'nfl_game_info', 'directory': 'gm_info', 'partition_by': ['season', 'week']},
                 {'table': 'nfl_gm_weather', 'directory': 'gm_info', 'partition_by': ['season', 'week']},
                 {'table': 'nfl_gm_pbp', 'directory': 'gm_info', 'partition_by': ['season', 'week'], 'chunk_size': 50000},
+
+                # FastR data
+                {'table': 'nfl_fastr_qb', 'directory': 'plyr_gm', 'partition_by': ['season', 'week']},
+                {'table': 'nfl_fastr_wr', 'directory': 'plyr_gm', 'partition_by': ['season', 'week']},
             ],
             'season_cumulative': [
                 # Player season cumulative stats

@@ -1,0 +1,112 @@
+# Data Loader Configuration
+# Controls which data sources are included in dataset build
+#
+# Each loader corresponds to a data source that can be joined to the base dataset.
+# Enable/disable loaders by setting 'enabled: true/false'
+#
+# Author: Claude Code
+# Created: 2024-11-27
+
+loaders:
+  # =============================================================================
+  # CORE LOADERS (currently in build_dataset.py)
+  # These will be extracted in a future refactoring session
+  # =============================================================================
+
+  player_receiving:
+    enabled: true
+    is_primary: true  # This loader defines the base dataset
+    description: "Player game and season receiving stats"
+    tables:
+      - plyr_gm/plyr_gm_rec
+      - plyr_szn/plyr_rec
+    join_type: player_game
+
+  player_info:
+    enabled: true
+    is_primary: false
+    description: "Player metadata and cross-season tracking"
+    tables:
+      - players/plyr
+      - plyr_master.parquet
+    join_type: player
+
+  snap_count:
+    enabled: true
+    is_primary: false
+    description: "Player snap count percentages"
+    tables:
+      - plyr_gm/plyr_gm_snap_ct
+    join_type: player_game
+
+  # =============================================================================
+  # NEW LOADERS (to be implemented)
+  # Disabled by default - enable when ready to add features
+  # =============================================================================
+
+  opponent_defense:
+    enabled: false
+    is_primary: false
+    description: "Opponent defense vs WR stats - matchup context"
+    tables:
+      - tm_szn/tm_def_vs_wr
+    join_type: opponent_team
+    temporal_shift: 1  # Use prior week stats to prevent leakage
+
+  weather:
+    enabled: false
+    is_primary: false
+    description: "Game weather conditions"
+    tables:
+      - gm_info/nfl_gm_weather
+    join_type: game
+
+  team_passing:
+    enabled: false
+    is_primary: false
+    description: "Team passing volume and efficiency context"
+    tables:
+      - tm_szn/tm_pass
+    join_type: team
+    temporal_shift: 1
+
+  game_context:
+    enabled: false
+    is_primary: false
+    description: "Game metadata - home/away, Vegas lines, primetime"
+    tables:
+      - gm_info/nfl_game_info
+    join_type: game
+
+  injury_report:
+    enabled: false
+    is_primary: false
+    description: "Player injury status and practice participation"
+    tables:
+      - gm_info/injury_report
+    join_type: player_game
+
+# =============================================================================
+# Feature Configuration
+# =============================================================================
+
+features:
+  # Columns to exclude globally (inconsistent or excluded by design)
+  global_exclude:
+    - plyr_rec_aybc_route
+    - plyr_rec_succ_rt
+    - plyr_rec_yac_route
+    - game_count  # Inconsistent availability across weeks
+
+  # Sentinel value used for imputation in source data
+  imputation_sentinel: -999
+
+# =============================================================================
+# Validation Settings
+# =============================================================================
+
+validation:
+  require_no_nulls_in_keys: true
+  log_duplicate_warnings: true
+  temporal_integrity_check: true
+  max_duplicate_warning_threshold: 100
