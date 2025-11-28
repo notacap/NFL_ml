@@ -44,6 +44,14 @@ loaders:
   # Disabled by default - enable when ready to add features
   # =============================================================================
 
+  nfl_fastr_wr:
+    enabled: true
+    is_primary: false
+    description: "Advanced WR metrics from NFL FastR - cushion, separation, YAC, target share, EPA"
+    tables:
+      - plyr_gm/nfl_fastr_wr
+    join_type: player_game
+
   opponent_defense:
     enabled: false
     is_primary: false

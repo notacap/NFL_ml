@@ -20,4 +20,6 @@ Future loaders to be added:
 # from .player_info_loader import PlayerInfoLoader
 # etc.
 
-__all__ = []
+from .nfl_fastr_wr_loader import NFLFastrWRLoader
+
+__all__ = ['NFLFastrWRLoader']

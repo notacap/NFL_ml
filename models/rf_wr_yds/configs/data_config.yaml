@@ -37,6 +37,8 @@ tables:
   player_game_fumbles: "plyr_gm/plyr_gm_fmbl"
   player_game_snap_counts: "plyr_gm/plyr_gm_snap_ct"
   player_game_starters: "plyr_gm/plyr_gm_starters"
+  player_game_fastr_qb: "plyr_gm/nfl_fastr_qb"
+  player_game_fastr_wr: "plyr_gm/nfl_fastr_wr"
 
   # Team game-level stats (directory: tm_gm, partitioned by season/week)
   team_game_stats: "tm_gm/tm_gm_stats"

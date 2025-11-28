@@ -86,6 +86,7 @@ class NFLDatasetBuilder:
             'plyr_gm_rec': 'plyr_gm/plyr_gm_rec',
             'plyr_rec': 'plyr_szn/plyr_rec',
             'plyr_gm_snap_ct': 'plyr_gm/plyr_gm_snap_ct',
+            'nfl_fastr_wr': 'plyr_gm/nfl_fastr_wr',
             'plyr': 'players/plyr',
             'plyr_master': 'plyr_master.parquet',
             'nfl_week': 'static/nfl_week',
@@ -246,6 +247,7 @@ class NFLDatasetBuilder:
         tables['plyr_gm_rec'] = self._load_partitioned_table('plyr_gm_rec')
         tables['plyr_rec'] = self._load_partitioned_table('plyr_rec')
         tables['plyr_gm_snap_ct'] = self._load_partitioned_table('plyr_gm_snap_ct')
+        tables['nfl_fastr_wr'] = self._load_partitioned_table('nfl_fastr_wr')
         tables['plyr'] = self._load_partitioned_table('plyr')
         tables['plyr_master'] = self._load_partitioned_table('plyr_master')
         tables['nfl_week'] = self._load_partitioned_table('nfl_week')
@@ -303,7 +305,24 @@ class NFLDatasetBuilder:
             how='left'
         )
         self._validate_data(df, "after_snap_count_join")
-        
+
+        # Join with NFL FastR WR advanced metrics
+        fastr_wr_cols = ['plyr_id', 'season_id', 'week_id',
+                         'plyr_gm_rec_avg_cushion', 'plyr_gm_rec_avg_separation',
+                         'plyr_gm_rec_avg_yac', 'plyr_gm_rec_avg_expected_yac',
+                         'plyr_gm_rec_avg_yac_above_expectation',
+                         'plyr_gm_rec_pct_share_of_intended_ay', 'plyr_gm_rec_tgt_share',
+                         'plyr_gm_rec_epa', 'plyr_gm_rec_ay_share',
+                         'plyr_gm_rec_wopr', 'plyr_gm_rec_racr']
+        nfl_fastr_wr = tables['nfl_fastr_wr'][fastr_wr_cols]
+
+        df = df.merge(
+            nfl_fastr_wr,
+            on=['plyr_id', 'season_id', 'week_id'],
+            how='left'
+        )
+        self._validate_data(df, "after_nfl_fastr_wr_join")
+
         # Join with player info (use only plyr_id since season_id format differs between tables)
         # Retain team_id from plyr table for reference (reflects season-end team)
         plyr_info = tables['plyr'][['plyr_id', 'plyr_guid', 'plyr_pos', 'plyr_alt_pos', 'team_id']].drop_duplicates(subset=['plyr_id'])

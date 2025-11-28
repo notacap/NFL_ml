@@ -56,6 +56,7 @@ SCRIPT_REGISTRY = [
     {'name': 'plyr_gm_pass.py', 'table': 'plyr_gm_pass', 'category': 'plyr_gm'},
     {'name': 'plyr_gm_rec.py', 'table': 'plyr_gm_rec', 'category': 'plyr_gm'},
     {'name': 'plyr_gm_rush.py', 'table': 'plyr_gm_rush', 'category': 'plyr_gm'},
+    {'name': 'nfl_fastr_wr.py', 'table': 'nfl_fastr_wr', 'category': 'plyr_gm'},
     {'name': 'plyr_pass.py', 'table': 'plyr_pass', 'category': 'plyr_szn'},
     {'name': 'plyr_rec.py', 'table': 'plyr_rec', 'category': 'plyr_szn'},
     {'name': 'plyr_rush.py', 'table': 'plyr_rush', 'category': 'plyr_szn'},
@@ -81,6 +82,7 @@ UNPROCESSED_TABLES = {
     'plyr_gm_fmbl': 'plyr_gm/plyr_gm_fmbl',
     'plyr_gm_snap_ct': 'plyr_gm/plyr_gm_snap_ct',
     'plyr_gm_starters': 'plyr_gm/plyr_gm_starters',
+    'nfl_fastr_qb': 'plyr_gm/nfl_fastr_qb',
 
     # Player season cumulative
     'plyr_scoring': 'plyr_szn/plyr_scoring',
