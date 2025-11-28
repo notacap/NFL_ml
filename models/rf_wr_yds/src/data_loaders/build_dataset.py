@@ -13,6 +13,7 @@ import os
 import sys
 import logging
 import pandas as pd
+import numpy as np
 import pyarrow.parquet as pq
 import yaml
 from pathlib import Path
@@ -88,7 +89,9 @@ class NFLDatasetBuilder:
             'plyr': 'players/plyr',
             'plyr_master': 'plyr_master.parquet',
             'nfl_week': 'static/nfl_week',
-            'nfl_season': 'nfl_season.parquet'
+            'nfl_season': 'nfl_season.parquet',
+            'multi_tm_plyr': 'players/multi_tm_plyr',
+            'nfl_game': 'gm_info/nfl_game'
         }
         
         if table_name not in table_mapping:
@@ -131,9 +134,11 @@ class NFLDatasetBuilder:
                 continue
             
             # For season-only partitioned tables (no week sub-partitions)
-            if table_name in ['plyr', 'nfl_week']:
+            if table_name in ['plyr', 'nfl_week', 'multi_tm_plyr']:
                 season_df = pd.read_parquet(season_path)
-                season_df['season_id'] = season
+                # Only add season_id if not already present (multi_tm_plyr has it in the data)
+                if 'season_id' not in season_df.columns:
+                    season_df['season_id'] = season
                 dfs.append(season_df)
                 continue
             
@@ -245,7 +250,9 @@ class NFLDatasetBuilder:
         tables['plyr_master'] = self._load_partitioned_table('plyr_master')
         tables['nfl_week'] = self._load_partitioned_table('nfl_week')
         tables['nfl_season'] = self._load_partitioned_table('nfl_season')
-        
+        tables['multi_tm_plyr'] = self._load_partitioned_table('multi_tm_plyr')
+        tables['nfl_game'] = self._load_partitioned_table('nfl_game')
+
         # Validate each table
         for table_name, df in tables.items():
             self._validate_data(df, f"load_{table_name}")
@@ -298,8 +305,10 @@ class NFLDatasetBuilder:
         self._validate_data(df, "after_snap_count_join")
         
         # Join with player info (use only plyr_id since season_id format differs between tables)
-        plyr_info = tables['plyr'][['plyr_id', 'plyr_guid', 'plyr_pos', 'plyr_alt_pos']].drop_duplicates(subset=['plyr_id'])
-        
+        # Retain team_id from plyr table for reference (reflects season-end team)
+        plyr_info = tables['plyr'][['plyr_id', 'plyr_guid', 'plyr_pos', 'plyr_alt_pos', 'team_id']].drop_duplicates(subset=['plyr_id'])
+        plyr_info = plyr_info.rename(columns={'team_id': 'plyr_team_id'})  # Rename to avoid confusion with game-level team_id
+
         df = df.merge(
             plyr_info,
             on=['plyr_id'],
@@ -329,16 +338,167 @@ class NFLDatasetBuilder:
         
         # Join with season info
         nfl_season = tables['nfl_season'][['season_id', 'year']]
-        
+
         df = df.merge(
             nfl_season,
             on=['season_id'],
             how='left'
         )
         self._validate_data(df, "after_season_join")
-        
+
+        # Join with multi_tm_plyr table to track players who changed teams mid-season
+        multi_tm_cols = ['plyr_id', 'season_id', 'tm_1_id', 'tm_2_id', 'tm_3_id',
+                        'first_tm_week_start_id', 'first_tm_week_end_id',
+                        'second_tm_week_start_id', 'second_tm_week_end_id',
+                        'third_tm_week_start_id', 'third_tm_week_end_id']
+        multi_tm_plyr = tables['multi_tm_plyr'][multi_tm_cols]
+
+        df = df.merge(
+            multi_tm_plyr,
+            on=['plyr_id', 'season_id'],
+            how='left'
+        )
+        self._validate_data(df, "after_multi_tm_plyr_join")
+
+        # Create current_team_id based on which team the player was on for each week
+        df = self._compute_current_team_id(df)
+        self._validate_data(df, "after_current_team_id_computation")
+
+        # Join with nfl_game to get home/away team info for opponent calculation
+        nfl_game = tables['nfl_game'][['game_id', 'home_team_id', 'away_team_id']]
+
+        df = df.merge(
+            nfl_game,
+            on=['game_id'],
+            how='left'
+        )
+        self._validate_data(df, "after_nfl_game_join")
+
+        # Create opposing_team_id and is_home_team columns
+        df = self._compute_opposing_team_info(df)
+        self._validate_data(df, "after_opposing_team_computation")
+
         return df
-    
+
+    def _compute_current_team_id(self, df: pd.DataFrame) -> pd.DataFrame:
+        """
+        Compute current_team_id based on which team the player was on for each week.
+
+        For players who changed teams mid-season (present in multi_tm_plyr table),
+        determines the correct team based on week ranges. For single-team players,
+        uses the team_id from the game record.
+
+        Args:
+            df: DataFrame with multi_tm_plyr columns joined
+
+        Returns:
+            DataFrame with current_team_id column added
+        """
+        self.logger.info("Computing current_team_id column...")
+
+        # Check if player is in multi_tm_plyr (tm_1_id will be non-null)
+        is_multi_team = df['tm_1_id'].notna()
+
+        # Fill NULL end week values with 18 (season end)
+        df['first_tm_week_end_filled'] = df['first_tm_week_end_id'].fillna(18)
+        df['second_tm_week_end_filled'] = df['second_tm_week_end_id'].fillna(18)
+        df['third_tm_week_end_filled'] = df['third_tm_week_end_id'].fillna(18)
+
+        # Conditions for team assignment (for multi-team players)
+        # Team 1: week >= first_tm_week_start_id AND week <= first_tm_week_end_id
+        cond_tm1 = (
+            is_multi_team &
+            (df['week_id'] >= df['first_tm_week_start_id']) &
+            (df['week_id'] <= df['first_tm_week_end_filled'])
+        )
+
+        # Team 2: week >= second_tm_week_start_id AND week <= second_tm_week_end_id
+        cond_tm2 = (
+            is_multi_team &
+            (df['week_id'] >= df['second_tm_week_start_id']) &
+            (df['week_id'] <= df['second_tm_week_end_filled'])
+        )
+
+        # Team 3: tm_3_id is not null AND week >= third_tm_week_start_id AND week <= third_tm_week_end_id
+        cond_tm3 = (
+            is_multi_team &
+            df['tm_3_id'].notna() &
+            (df['week_id'] >= df['third_tm_week_start_id']) &
+            (df['week_id'] <= df['third_tm_week_end_filled'])
+        )
+
+        # Single-team player (not in multi_tm_plyr): use team_id from game record
+        cond_single_team = ~is_multi_team
+
+        # Apply conditions using np.select (order matters - first match wins)
+        conditions = [cond_tm1, cond_tm2, cond_tm3, cond_single_team]
+        choices = [df['tm_1_id'], df['tm_2_id'], df['tm_3_id'], df['team_id']]
+
+        # Default fallback to team_id from game record
+        df['current_team_id'] = np.select(conditions, choices, default=df['team_id'])
+
+        # Clean up temporary columns
+        df = df.drop(columns=['first_tm_week_end_filled', 'second_tm_week_end_filled', 'third_tm_week_end_filled'])
+
+        # Drop multi_tm_plyr intermediate columns (no longer needed)
+        multi_tm_cols_to_drop = ['tm_1_id', 'tm_2_id', 'tm_3_id',
+                                 'first_tm_week_start_id', 'first_tm_week_end_id',
+                                 'second_tm_week_start_id', 'second_tm_week_end_id',
+                                 'third_tm_week_start_id', 'third_tm_week_end_id']
+        df = df.drop(columns=multi_tm_cols_to_drop)
+
+        # Convert current_team_id to int (handle any NaN edge cases)
+        df['current_team_id'] = df['current_team_id'].astype('Int64')
+
+        multi_team_count = is_multi_team.sum()
+        self.logger.info(f"Computed current_team_id: {multi_team_count:,} rows from multi-team players")
+
+        return df
+
+    def _compute_opposing_team_info(self, df: pd.DataFrame) -> pd.DataFrame:
+        """
+        Compute opposing_team_id and is_home_team based on current_team_id and game matchup.
+
+        Uses the nfl_game table's home_team_id and away_team_id to determine:
+        - opposing_team_id: The team_id of the opponent
+        - is_home_team: 1 if player's team is home, 0 if away
+
+        Args:
+            df: DataFrame with current_team_id, home_team_id, and away_team_id columns
+
+        Returns:
+            DataFrame with opposing_team_id and is_home_team columns added,
+            intermediate columns (home_team_id, away_team_id) dropped
+        """
+        self.logger.info("Computing opposing_team_id and is_home_team columns...")
+
+        # Condition: current_team_id matches home_team_id
+        is_home = df['current_team_id'] == df['home_team_id']
+
+        # Compute opposing_team_id using np.where
+        # If home team: opponent is away team; otherwise opponent is home team
+        df['opposing_team_id'] = np.where(
+            is_home,
+            df['away_team_id'],
+            df['home_team_id']
+        )
+
+        # Compute is_home_team (1 if home, 0 if away)
+        df['is_home_team'] = np.where(is_home, 1, 0)
+
+        # Convert to appropriate data types
+        df['opposing_team_id'] = df['opposing_team_id'].astype('Int64')
+        df['is_home_team'] = df['is_home_team'].astype('Int64')
+
+        # Drop intermediate columns (home_team_id, away_team_id)
+        df = df.drop(columns=['home_team_id', 'away_team_id'])
+
+        home_count = df['is_home_team'].sum()
+        away_count = (df['is_home_team'] == 0).sum()
+        self.logger.info(f"Computed opposing team info: {home_count:,} home games, {away_count:,} away games")
+
+        return df
+
     def _apply_filters(self, df: pd.DataFrame) -> pd.DataFrame:
         """
         Apply all required filters to the dataset.
@@ -394,13 +554,16 @@ class NFLDatasetBuilder:
         # First, handle duplicates by taking the mean of stats per player-week
         # This handles cases where players appear multiple times per week (e.g., multiple games)
         agg_dict = {}
+        # Columns to preserve with 'first' aggregation (ID and categorical columns)
+        preserve_cols = ['plyr_id', 'season_id', 'week_id', 'plyr_guid', 'plyr_pos', 'plyr_alt_pos',
+                        'week_num', 'year', 'game_id', 'team_id', 'plyr_team_id', 'current_team_id',
+                        'opposing_team_id', 'is_home_team']
         for col in df.columns:
-            if col in ['plyr_id', 'season_id', 'week_id', 'plyr_guid', 'plyr_pos', 'plyr_alt_pos', 
-                      'week_num', 'year']:
+            if col in preserve_cols:
                 agg_dict[col] = 'first'
             else:
                 # Use mean for numeric stats, first for text
-                if df[col].dtype in ['int64', 'float64']:
+                if df[col].dtype in ['int64', 'float64', 'Int64', 'Float64']:
                     agg_dict[col] = 'mean'
                 else:
                     agg_dict[col] = 'first'
@@ -464,15 +627,19 @@ class NFLDatasetBuilder:
             Final dataset ready for training
         """
         self.logger.info("Finalizing dataset...")
-        
+
         # Define column order for better organization
-        id_cols = ['plyr_id', 'plyr_guid', 'season_id', 'week_id', 'year', 'week_num']
+        # Include game_id, team_id (from game record), plyr_team_id (season-end team), current_team_id,
+        # opposing_team_id, and is_home_team
+        id_cols = ['plyr_id', 'plyr_guid', 'season_id', 'week_id', 'year', 'week_num',
+                   'game_id', 'team_id', 'plyr_team_id', 'current_team_id',
+                   'opposing_team_id', 'is_home_team']
         target_col = ['next_week_rec_yds']
-        
+
         # Check if current week target column exists (might have been lost in aggregation)
         current_week_target = ['plyr_gm_rec_yds'] if 'plyr_gm_rec_yds' in df.columns else []
-        
-        feature_cols = [col for col in df.columns if col not in id_cols + target_col + current_week_target + 
+
+        feature_cols = [col for col in df.columns if col not in id_cols + target_col + current_week_target +
                        ['plyr_pos', 'plyr_alt_pos']]
         
         # Reorder columns
