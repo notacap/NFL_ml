@@ -101,17 +101,18 @@ def merge_source_files(fastr_df: pd.DataFrame, ngs_df: pd.DataFrame) -> pd.DataF
     Merge fastr and ngs dataframes on player_display_name, season, week, and team.
 
     Note: fastr uses 'team' column, ngs uses 'team_abbr' column
+    Uses OUTER join to include records that exist in only one source file.
     """
     # Standardize team column names for merge
     fastr_df = fastr_df.rename(columns={'team': 'team_abrv'})
     ngs_df = ngs_df.rename(columns={'team_abbr': 'team_abrv'})
 
-    # Merge on common keys
+    # Merge on common keys with OUTER join to capture all records
     merged_df = pd.merge(
         fastr_df,
         ngs_df,
         on=['player_display_name', 'season', 'week', 'team_abrv'],
-        how='inner',
+        how='outer',
         suffixes=('_fastr', '_ngs')
     )
 
@@ -326,7 +327,7 @@ def main():
 
     # Merge dataframes
     merged_df = merge_source_files(fastr_df, ngs_df)
-    print(f"[OK] Merged dataframes: {len(merged_df)} records (inner join)")
+    print(f"[OK] Merged dataframes: {len(merged_df)} records (outer join)")
 
     if merged_df.empty:
         print("[ERROR] No matching records found after merge. Check that files contain matching player/season/week/team data.")
