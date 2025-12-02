@@ -1,15 +1,15 @@
-created_at: '20251127_162304'
+created_at: '20251201_201929'
 date_range:
   max_week: 17
   max_year: 2025
   min_week: 1
   min_year: 2022
-total_columns: 64
+total_columns: 77
 total_rows: 3891
 unique_players: 504
 validation_results:
   after_current_team_id_computation:
-    columns: 65
+    columns: 76
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - &id001 !!python/object/apply:numpy.dtype
       args:
@@ -26,21 +26,28 @@ validation_results:
       - -1
       - 0
     - !!binary |
-      mEAAAAAAAAA=
+      9X0IAAAAAAA=
     nulls_by_column:
       adv_plyr_gm_rec_id: 0
       current_team_id: 0
       game_id: 0
-      plyr_alt_pos: 32057
-      plyr_gm_off_snap_ct_pct: 9
+      plyr_alt_pos: 571376
+      plyr_gm_off_snap_ct_pct: 36
       plyr_gm_rec: 0
       plyr_gm_rec_adot: 0
+      plyr_gm_rec_avg_cushion: 282820
+      plyr_gm_rec_avg_expected_yac: 282820
+      plyr_gm_rec_avg_separation: 282820
+      plyr_gm_rec_avg_yac: 282820
+      plyr_gm_rec_avg_yac_above_expectation: 282820
+      plyr_gm_rec_ay_share: 282820
       plyr_gm_rec_aybc: 0
       plyr_gm_rec_aybc_route: 0
       plyr_gm_rec_brkn_tkl: 0
       plyr_gm_rec_brkn_tkl_rec: 0
       plyr_gm_rec_drp: 0
       plyr_gm_rec_drp_pct: 0
+      plyr_gm_rec_epa: 282820
       plyr_gm_rec_first_dwn: 0
       plyr_gm_rec_int: 0
       plyr_gm_rec_lng: 0
@@ -49,8 +56,12 @@ validation_results:
       plyr_gm_rec_no_drops: 0
       plyr_gm_rec_no_first_dwn: 0
       plyr_gm_rec_pass_rtg: 0
+      plyr_gm_rec_pct_share_of_intended_ay: 282820
+      plyr_gm_rec_racr: 282820
       plyr_gm_rec_td: 0
       plyr_gm_rec_tgt: 0
+      plyr_gm_rec_tgt_share: 282820
+      plyr_gm_rec_wopr: 282820
       plyr_gm_rec_yac: 0
       plyr_gm_rec_yac_route: 0
       plyr_gm_rec_yds: 0
@@ -93,28 +104,374 @@ validation_results:
       week_id: 0
       week_num: 0
       year: 0
-    rows: 32119
+    rows: 572116
   after_multi_tm_plyr_join:
+    columns: 84
+    duplicates: !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      9X0IAAAAAAA=
+    nulls_by_column:
+      adv_plyr_gm_rec_id: 0
+      first_tm_week_end_id: 497916
+      first_tm_week_start_id: 500516
+      game_id: 0
+      plyr_alt_pos: 571376
+      plyr_gm_off_snap_ct_pct: 36
+      plyr_gm_rec: 0
+      plyr_gm_rec_adot: 0
+      plyr_gm_rec_avg_cushion: 282820
+      plyr_gm_rec_avg_expected_yac: 282820
+      plyr_gm_rec_avg_separation: 282820
+      plyr_gm_rec_avg_yac: 282820
+      plyr_gm_rec_avg_yac_above_expectation: 282820
+      plyr_gm_rec_ay_share: 282820
+      plyr_gm_rec_aybc: 0
+      plyr_gm_rec_aybc_route: 0
+      plyr_gm_rec_brkn_tkl: 0
+      plyr_gm_rec_brkn_tkl_rec: 0
+      plyr_gm_rec_drp: 0
+      plyr_gm_rec_drp_pct: 0
+      plyr_gm_rec_epa: 282820
+      plyr_gm_rec_first_dwn: 0
+      plyr_gm_rec_int: 0
+      plyr_gm_rec_lng: 0
+      plyr_gm_rec_no_brkn_tkl: 0
+      plyr_gm_rec_no_catches: 0
+      plyr_gm_rec_no_drops: 0
+      plyr_gm_rec_no_first_dwn: 0
+      plyr_gm_rec_pass_rtg: 0
+      plyr_gm_rec_pct_share_of_intended_ay: 282820
+      plyr_gm_rec_racr: 282820
+      plyr_gm_rec_td: 0
+      plyr_gm_rec_tgt: 0
+      plyr_gm_rec_tgt_share: 282820
+      plyr_gm_rec_wopr: 282820
+      plyr_gm_rec_yac: 0
+      plyr_gm_rec_yac_route: 0
+      plyr_gm_rec_yds: 0
+      plyr_guid: 0
+      plyr_id: 0
+      plyr_pos: 0
+      plyr_rec: 0
+      plyr_rec_adot: 0
+      plyr_rec_aybc: 0
+      plyr_rec_aybc_rec: 0
+      plyr_rec_brkn_tkl: 0
+      plyr_rec_brkn_tkl_rec: 0
+      plyr_rec_catch_pct_x: 0
+      plyr_rec_catch_pct_y: 0
+      plyr_rec_drp: 0
+      plyr_rec_drp_pct: 0
+      plyr_rec_first_dwn: 0
+      plyr_rec_fmbl: 0
+      plyr_rec_gm: 0
+      plyr_rec_id: 0
+      plyr_rec_int: 0
+      plyr_rec_lng: 0
+      plyr_rec_no_brkn_tkl: 0
+      plyr_rec_no_catches: 0
+      plyr_rec_no_positive_yds: 0
+      plyr_rec_no_targets: 0
+      plyr_rec_pass_rtg: 0
+      plyr_rec_td: 0
+      plyr_rec_tgt: 0
+      plyr_rec_yac: 0
+      plyr_rec_yac_rec: 0
+      plyr_rec_yds: 0
+      plyr_rec_yds_rec: 0
+      plyr_rec_yds_tgt_x: 0
+      plyr_rec_yds_tgt_y: 0
+      plyr_rec_ypg: 0
+      plyr_team_id: 0
+      season_id: 0
+      second_tm_week_end_id: 569516
+      second_tm_week_start_id: 497916
+      team_id: 0
+      third_tm_week_end_id: 572116
+      third_tm_week_start_id: 569516
+      tm_1_id: 497916
+      tm_2_id: 497916
+      tm_3_id: 569516
+      week_id: 0
+      week_num: 0
+      year: 0
+    rows: 572116
+  after_nfl_fastr_wr_join:
+    columns: 69
+    duplicates: !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      FZYHAAAAAAA=
+    nulls_by_column:
+      adv_plyr_gm_rec_id: 0
+      game_id: 0
+      plyr_gm_off_snap_ct_pct: 36
+      plyr_gm_rec: 0
+      plyr_gm_rec_adot: 0
+      plyr_gm_rec_avg_cushion: 262980
+      plyr_gm_rec_avg_expected_yac: 262980
+      plyr_gm_rec_avg_separation: 262980
+      plyr_gm_rec_avg_yac: 262980
+      plyr_gm_rec_avg_yac_above_expectation: 262980
+      plyr_gm_rec_ay_share: 262980
+      plyr_gm_rec_aybc: 0
+      plyr_gm_rec_aybc_route: 0
+      plyr_gm_rec_brkn_tkl: 0
+      plyr_gm_rec_brkn_tkl_rec: 0
+      plyr_gm_rec_drp: 0
+      plyr_gm_rec_drp_pct: 0
+      plyr_gm_rec_epa: 262980
+      plyr_gm_rec_first_dwn: 0
+      plyr_gm_rec_int: 0
+      plyr_gm_rec_lng: 0
+      plyr_gm_rec_no_brkn_tkl: 0
+      plyr_gm_rec_no_catches: 0
+      plyr_gm_rec_no_drops: 0
+      plyr_gm_rec_no_first_dwn: 0
+      plyr_gm_rec_pass_rtg: 0
+      plyr_gm_rec_pct_share_of_intended_ay: 262980
+      plyr_gm_rec_racr: 262980
+      plyr_gm_rec_td: 0
+      plyr_gm_rec_tgt: 0
+      plyr_gm_rec_tgt_share: 262980
+      plyr_gm_rec_wopr: 262980
+      plyr_gm_rec_yac: 0
+      plyr_gm_rec_yac_route: 0
+      plyr_gm_rec_yds: 0
+      plyr_id: 0
+      plyr_rec: 0
+      plyr_rec_adot: 0
+      plyr_rec_aybc: 0
+      plyr_rec_aybc_rec: 0
+      plyr_rec_brkn_tkl: 0
+      plyr_rec_brkn_tkl_rec: 0
+      plyr_rec_catch_pct_x: 0
+      plyr_rec_catch_pct_y: 0
+      plyr_rec_drp: 0
+      plyr_rec_drp_pct: 0
+      plyr_rec_first_dwn: 0
+      plyr_rec_fmbl: 0
+      plyr_rec_gm: 0
+      plyr_rec_id: 0
+      plyr_rec_int: 0
+      plyr_rec_lng: 0
+      plyr_rec_no_brkn_tkl: 0
+      plyr_rec_no_catches: 0
+      plyr_rec_no_positive_yds: 0
+      plyr_rec_no_targets: 0
+      plyr_rec_pass_rtg: 0
+      plyr_rec_td: 0
+      plyr_rec_tgt: 0
+      plyr_rec_yac: 0
+      plyr_rec_yac_rec: 0
+      plyr_rec_yds: 0
+      plyr_rec_yds_rec: 0
+      plyr_rec_yds_tgt_x: 0
+      plyr_rec_yds_tgt_y: 0
+      plyr_rec_ypg: 0
+      season_id: 0
+      team_id: 0
+      week_id: 0
+    rows: 512756
+  after_nfl_game_join:
+    columns: 78
+    duplicates: !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      RWkrAAAAAAA=
+    nulls_by_column:
+      adv_plyr_gm_rec_id: 0
+      away_team_id: 0
+      current_team_id: 0
+      game_id: 0
+      home_team_id: 0
+      plyr_alt_pos: 2856880
+      plyr_gm_off_snap_ct_pct: 180
+      plyr_gm_rec: 0
+      plyr_gm_rec_adot: 0
+      plyr_gm_rec_avg_cushion: 1414100
+      plyr_gm_rec_avg_expected_yac: 1414100
+      plyr_gm_rec_avg_separation: 1414100
+      plyr_gm_rec_avg_yac: 1414100
+      plyr_gm_rec_avg_yac_above_expectation: 1414100
+      plyr_gm_rec_ay_share: 1414100
+      plyr_gm_rec_aybc: 0
+      plyr_gm_rec_aybc_route: 0
+      plyr_gm_rec_brkn_tkl: 0
+      plyr_gm_rec_brkn_tkl_rec: 0
+      plyr_gm_rec_drp: 0
+      plyr_gm_rec_drp_pct: 0
+      plyr_gm_rec_epa: 1414100
+      plyr_gm_rec_first_dwn: 0
+      plyr_gm_rec_int: 0
+      plyr_gm_rec_lng: 0
+      plyr_gm_rec_no_brkn_tkl: 0
+      plyr_gm_rec_no_catches: 0
+      plyr_gm_rec_no_drops: 0
+      plyr_gm_rec_no_first_dwn: 0
+      plyr_gm_rec_pass_rtg: 0
+      plyr_gm_rec_pct_share_of_intended_ay: 1414100
+      plyr_gm_rec_racr: 1414100
+      plyr_gm_rec_td: 0
+      plyr_gm_rec_tgt: 0
+      plyr_gm_rec_tgt_share: 1414100
+      plyr_gm_rec_wopr: 1414100
+      plyr_gm_rec_yac: 0
+      plyr_gm_rec_yac_route: 0
+      plyr_gm_rec_yds: 0
+      plyr_guid: 0
+      plyr_id: 0
+      plyr_pos: 0
+      plyr_rec: 0
+      plyr_rec_adot: 0
+      plyr_rec_aybc: 0
+      plyr_rec_aybc_rec: 0
+      plyr_rec_brkn_tkl: 0
+      plyr_rec_brkn_tkl_rec: 0
+      plyr_rec_catch_pct_x: 0
+      plyr_rec_catch_pct_y: 0
+      plyr_rec_drp: 0
+      plyr_rec_drp_pct: 0
+      plyr_rec_first_dwn: 0
+      plyr_rec_fmbl: 0
+      plyr_rec_gm: 0
+      plyr_rec_id: 0
+      plyr_rec_int: 0
+      plyr_rec_lng: 0
+      plyr_rec_no_brkn_tkl: 0
+      plyr_rec_no_catches: 0
+      plyr_rec_no_positive_yds: 0
+      plyr_rec_no_targets: 0
+      plyr_rec_pass_rtg: 0
+      plyr_rec_td: 0
+      plyr_rec_tgt: 0
+      plyr_rec_yac: 0
+      plyr_rec_yac_rec: 0
+      plyr_rec_yds: 0
+      plyr_rec_yds_rec: 0
+      plyr_rec_yds_tgt_x: 0
+      plyr_rec_yds_tgt_y: 0
+      plyr_rec_ypg: 0
+      plyr_team_id: 0
+      season_id: 0
+      team_id: 0
+      week_id: 0
+      week_num: 0
+      year: 0
+    rows: 2860580
+  after_opposing_team_computation:
+    columns: 78
+    duplicates: !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      RWkrAAAAAAA=
+    nulls_by_column:
+      adv_plyr_gm_rec_id: 0
+      current_team_id: 0
+      game_id: 0
+      is_home_team: 0
+      opposing_team_id: 0
+      plyr_alt_pos: 2856880
+      plyr_gm_off_snap_ct_pct: 180
+      plyr_gm_rec: 0
+      plyr_gm_rec_adot: 0
+      plyr_gm_rec_avg_cushion: 1414100
+      plyr_gm_rec_avg_expected_yac: 1414100
+      plyr_gm_rec_avg_separation: 1414100
+      plyr_gm_rec_avg_yac: 1414100
+      plyr_gm_rec_avg_yac_above_expectation: 1414100
+      plyr_gm_rec_ay_share: 1414100
+      plyr_gm_rec_aybc: 0
+      plyr_gm_rec_aybc_route: 0
+      plyr_gm_rec_brkn_tkl: 0
+      plyr_gm_rec_brkn_tkl_rec: 0
+      plyr_gm_rec_drp: 0
+      plyr_gm_rec_drp_pct: 0
+      plyr_gm_rec_epa: 1414100
+      plyr_gm_rec_first_dwn: 0
+      plyr_gm_rec_int: 0
+      plyr_gm_rec_lng: 0
+      plyr_gm_rec_no_brkn_tkl: 0
+      plyr_gm_rec_no_catches: 0
+      plyr_gm_rec_no_drops: 0
+      plyr_gm_rec_no_first_dwn: 0
+      plyr_gm_rec_pass_rtg: 0
+      plyr_gm_rec_pct_share_of_intended_ay: 1414100
+      plyr_gm_rec_racr: 1414100
+      plyr_gm_rec_td: 0
+      plyr_gm_rec_tgt: 0
+      plyr_gm_rec_tgt_share: 1414100
+      plyr_gm_rec_wopr: 1414100
+      plyr_gm_rec_yac: 0
+      plyr_gm_rec_yac_route: 0
+      plyr_gm_rec_yds: 0
+      plyr_guid: 0
+      plyr_id: 0
+      plyr_pos: 0
+      plyr_rec: 0
+      plyr_rec_adot: 0
+      plyr_rec_aybc: 0
+      plyr_rec_aybc_rec: 0
+      plyr_rec_brkn_tkl: 0
+      plyr_rec_brkn_tkl_rec: 0
+      plyr_rec_catch_pct_x: 0
+      plyr_rec_catch_pct_y: 0
+      plyr_rec_drp: 0
+      plyr_rec_drp_pct: 0
+      plyr_rec_first_dwn: 0
+      plyr_rec_fmbl: 0
+      plyr_rec_gm: 0
+      plyr_rec_id: 0
+      plyr_rec_int: 0
+      plyr_rec_lng: 0
+      plyr_rec_no_brkn_tkl: 0
+      plyr_rec_no_catches: 0
+      plyr_rec_no_positive_yds: 0
+      plyr_rec_no_targets: 0
+      plyr_rec_pass_rtg: 0
+      plyr_rec_td: 0
+      plyr_rec_tgt: 0
+      plyr_rec_yac: 0
+      plyr_rec_yac_rec: 0
+      plyr_rec_yds: 0
+      plyr_rec_yds_rec: 0
+      plyr_rec_yds_tgt_x: 0
+      plyr_rec_yds_tgt_y: 0
+      plyr_rec_ypg: 0
+      plyr_team_id: 0
+      season_id: 0
+      team_id: 0
+      week_id: 0
+      week_num: 0
+      year: 0
+    rows: 2860580
+  after_plyr_info_join:
     columns: 73
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - *id001
     - !!binary |
-      mEAAAAAAAAA=
+      FZYHAAAAAAA=
     nulls_by_column:
       adv_plyr_gm_rec_id: 0
-      first_tm_week_end_id: 30195
-      first_tm_week_start_id: 30287
       game_id: 0
-      plyr_alt_pos: 32057
-      plyr_gm_off_snap_ct_pct: 9
+      plyr_alt_pos: 512016
+      plyr_gm_off_snap_ct_pct: 36
       plyr_gm_rec: 0
       plyr_gm_rec_adot: 0
+      plyr_gm_rec_avg_cushion: 262980
+      plyr_gm_rec_avg_expected_yac: 262980
+      plyr_gm_rec_avg_separation: 262980
+      plyr_gm_rec_avg_yac: 262980
+      plyr_gm_rec_avg_yac_above_expectation: 262980
+      plyr_gm_rec_ay_share: 262980
       plyr_gm_rec_aybc: 0
       plyr_gm_rec_aybc_route: 0
       plyr_gm_rec_brkn_tkl: 0
       plyr_gm_rec_brkn_tkl_rec: 0
       plyr_gm_rec_drp: 0
       plyr_gm_rec_drp_pct: 0
+      plyr_gm_rec_epa: 262980
       plyr_gm_rec_first_dwn: 0
       plyr_gm_rec_int: 0
       plyr_gm_rec_lng: 0
@@ -123,87 +480,12 @@ validation_results:
       plyr_gm_rec_no_drops: 0
       plyr_gm_rec_no_first_dwn: 0
       plyr_gm_rec_pass_rtg: 0
+      plyr_gm_rec_pct_share_of_intended_ay: 262980
+      plyr_gm_rec_racr: 262980
       plyr_gm_rec_td: 0
       plyr_gm_rec_tgt: 0
-      plyr_gm_rec_yac: 0
-      plyr_gm_rec_yac_route: 0
-      plyr_gm_rec_yds: 0
-      plyr_guid: 0
-      plyr_id: 0
-      plyr_pos: 0
-      plyr_rec: 0
-      plyr_rec_adot: 0
-      plyr_rec_aybc: 0
-      plyr_rec_aybc_rec: 0
-      plyr_rec_brkn_tkl: 0
-      plyr_rec_brkn_tkl_rec: 0
-      plyr_rec_catch_pct_x: 0
-      plyr_rec_catch_pct_y: 0
-      plyr_rec_drp: 0
-      plyr_rec_drp_pct: 0
-      plyr_rec_first_dwn: 0
-      plyr_rec_fmbl: 0
-      plyr_rec_gm: 0
-      plyr_rec_id: 0
-      plyr_rec_int: 0
-      plyr_rec_lng: 0
-      plyr_rec_no_brkn_tkl: 0
-      plyr_rec_no_catches: 0
-      plyr_rec_no_positive_yds: 0
-      plyr_rec_no_targets: 0
-      plyr_rec_pass_rtg: 0
-      plyr_rec_td: 0
-      plyr_rec_tgt: 0
-      plyr_rec_yac: 0
-      plyr_rec_yac_rec: 0
-      plyr_rec_yds: 0
-      plyr_rec_yds_rec: 0
-      plyr_rec_yds_tgt_x: 0
-      plyr_rec_yds_tgt_y: 0
-      plyr_rec_ypg: 0
-      plyr_team_id: 0
-      season_id: 0
-      second_tm_week_end_id: 32027
-      second_tm_week_start_id: 30195
-      team_id: 0
-      third_tm_week_end_id: 32119
-      third_tm_week_start_id: 32027
-      tm_1_id: 30195
-      tm_2_id: 30195
-      tm_3_id: 32027
-      week_id: 0
-      week_num: 0
-      year: 0
-    rows: 32119
-  after_plyr_info_join:
-    columns: 62
-    duplicates: !!python/object/apply:numpy._core.multiarray.scalar
-    - *id001
-    - !!binary |
-      1jwAAAAAAAA=
-    nulls_by_column:
-      adv_plyr_gm_rec_id: 0
-      game_id: 0
-      plyr_alt_pos: 31095
-      plyr_gm_off_snap_ct_pct: 9
-      plyr_gm_rec: 0
-      plyr_gm_rec_adot: 0
-      plyr_gm_rec_aybc: 0
-      plyr_gm_rec_aybc_route: 0
-      plyr_gm_rec_brkn_tkl: 0
-      plyr_gm_rec_brkn_tkl_rec: 0
-      plyr_gm_rec_drp: 0
-      plyr_gm_rec_drp_pct: 0
-      plyr_gm_rec_first_dwn: 0
-      plyr_gm_rec_int: 0
-      plyr_gm_rec_lng: 0
-      plyr_gm_rec_no_brkn_tkl: 0
-      plyr_gm_rec_no_catches: 0
-      plyr_gm_rec_no_drops: 0
-      plyr_gm_rec_no_first_dwn: 0
-      plyr_gm_rec_pass_rtg: 0
-      plyr_gm_rec_td: 0
-      plyr_gm_rec_tgt: 0
+      plyr_gm_rec_tgt_share: 262980
+      plyr_gm_rec_wopr: 262980
       plyr_gm_rec_yac: 0
       plyr_gm_rec_yac_route: 0
       plyr_gm_rec_yds: 0
@@ -244,26 +526,33 @@ validation_results:
       season_id: 0
       team_id: 0
       week_id: 0
-    rows: 31157
+    rows: 512756
   after_plyr_master_join:
-    columns: 62
+    columns: 73
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - *id001
     - !!binary |
-      1jwAAAAAAAA=
+      FZYHAAAAAAA=
     nulls_by_column:
       adv_plyr_gm_rec_id: 0
       game_id: 0
-      plyr_alt_pos: 31095
-      plyr_gm_off_snap_ct_pct: 9
+      plyr_alt_pos: 512016
+      plyr_gm_off_snap_ct_pct: 36
       plyr_gm_rec: 0
       plyr_gm_rec_adot: 0
+      plyr_gm_rec_avg_cushion: 262980
+      plyr_gm_rec_avg_expected_yac: 262980
+      plyr_gm_rec_avg_separation: 262980
+      plyr_gm_rec_avg_yac: 262980
+      plyr_gm_rec_avg_yac_above_expectation: 262980
+      plyr_gm_rec_ay_share: 262980
       plyr_gm_rec_aybc: 0
       plyr_gm_rec_aybc_route: 0
       plyr_gm_rec_brkn_tkl: 0
       plyr_gm_rec_brkn_tkl_rec: 0
       plyr_gm_rec_drp: 0
       plyr_gm_rec_drp_pct: 0
+      plyr_gm_rec_epa: 262980
       plyr_gm_rec_first_dwn: 0
       plyr_gm_rec_int: 0
       plyr_gm_rec_lng: 0
@@ -272,8 +561,12 @@ validation_results:
       plyr_gm_rec_no_drops: 0
       plyr_gm_rec_no_first_dwn: 0
       plyr_gm_rec_pass_rtg: 0
+      plyr_gm_rec_pct_share_of_intended_ay: 262980
+      plyr_gm_rec_racr: 262980
       plyr_gm_rec_td: 0
       plyr_gm_rec_tgt: 0
+      plyr_gm_rec_tgt_share: 262980
+      plyr_gm_rec_wopr: 262980
       plyr_gm_rec_yac: 0
       plyr_gm_rec_yac_route: 0
       plyr_gm_rec_yds: 0
@@ -314,13 +607,13 @@ validation_results:
       season_id: 0
       team_id: 0
       week_id: 0
-    rows: 31157
+    rows: 512756
   after_plyr_rec_join:
     columns: 57
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - *id001
     - !!binary |
-      AAAAAAAAAAA=
+      1VMBAAAAAAA=
     nulls_by_column:
       adv_plyr_gm_rec_id: 0
       game_id: 0
@@ -379,26 +672,33 @@ validation_results:
       season_id: 0
       team_id: 0
       week_id: 0
-    rows: 15583
+    rows: 102580
   after_season_join:
-    columns: 64
+    columns: 75
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - *id001
     - !!binary |
-      1jwAAAAAAAA=
+      FZYHAAAAAAA=
     nulls_by_column:
       adv_plyr_gm_rec_id: 0
       game_id: 0
-      plyr_alt_pos: 31095
-      plyr_gm_off_snap_ct_pct: 9
+      plyr_alt_pos: 512016
+      plyr_gm_off_snap_ct_pct: 36
       plyr_gm_rec: 0
       plyr_gm_rec_adot: 0
+      plyr_gm_rec_avg_cushion: 262980
+      plyr_gm_rec_avg_expected_yac: 262980
+      plyr_gm_rec_avg_separation: 262980
+      plyr_gm_rec_avg_yac: 262980
+      plyr_gm_rec_avg_yac_above_expectation: 262980
+      plyr_gm_rec_ay_share: 262980
       plyr_gm_rec_aybc: 0
       plyr_gm_rec_aybc_route: 0
       plyr_gm_rec_brkn_tkl: 0
       plyr_gm_rec_brkn_tkl_rec: 0
       plyr_gm_rec_drp: 0
       plyr_gm_rec_drp_pct: 0
+      plyr_gm_rec_epa: 262980
       plyr_gm_rec_first_dwn: 0
       plyr_gm_rec_int: 0
       plyr_gm_rec_lng: 0
@@ -407,8 +707,12 @@ validation_results:
       plyr_gm_rec_no_drops: 0
       plyr_gm_rec_no_first_dwn: 0
       plyr_gm_rec_pass_rtg: 0
+      plyr_gm_rec_pct_share_of_intended_ay: 262980
+      plyr_gm_rec_racr: 262980
       plyr_gm_rec_td: 0
       plyr_gm_rec_tgt: 0
+      plyr_gm_rec_tgt_share: 262980
+      plyr_gm_rec_wopr: 262980
       plyr_gm_rec_yac: 0
       plyr_gm_rec_yac_route: 0
       plyr_gm_rec_yds: 0
@@ -451,17 +755,17 @@ validation_results:
       week_id: 0
       week_num: 0
       year: 0
-    rows: 31157
+    rows: 512756
   after_snap_count_join:
     columns: 58
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - *id001
     - !!binary |
-      1jwAAAAAAAA=
+      FZYHAAAAAAA=
     nulls_by_column:
       adv_plyr_gm_rec_id: 0
       game_id: 0
-      plyr_gm_off_snap_ct_pct: 9
+      plyr_gm_off_snap_ct_pct: 36
       plyr_gm_rec: 0
       plyr_gm_rec_adot: 0
       plyr_gm_rec_aybc: 0
@@ -517,26 +821,33 @@ validation_results:
       season_id: 0
       team_id: 0
       week_id: 0
-    rows: 31157
+    rows: 512756
   after_week_join:
-    columns: 63
+    columns: 74
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - *id001
     - !!binary |
-      1jwAAAAAAAA=
+      FZYHAAAAAAA=
     nulls_by_column:
       adv_plyr_gm_rec_id: 0
       game_id: 0
-      plyr_alt_pos: 31095
-      plyr_gm_off_snap_ct_pct: 9
+      plyr_alt_pos: 512016
+      plyr_gm_off_snap_ct_pct: 36
       plyr_gm_rec: 0
       plyr_gm_rec_adot: 0
+      plyr_gm_rec_avg_cushion: 262980
+      plyr_gm_rec_avg_expected_yac: 262980
+      plyr_gm_rec_avg_separation: 262980
+      plyr_gm_rec_avg_yac: 262980
+      plyr_gm_rec_avg_yac_above_expectation: 262980
+      plyr_gm_rec_ay_share: 262980
       plyr_gm_rec_aybc: 0
       plyr_gm_rec_aybc_route: 0
       plyr_gm_rec_brkn_tkl: 0
       plyr_gm_rec_brkn_tkl_rec: 0
       plyr_gm_rec_drp: 0
       plyr_gm_rec_drp_pct: 0
+      plyr_gm_rec_epa: 262980
       plyr_gm_rec_first_dwn: 0
       plyr_gm_rec_int: 0
       plyr_gm_rec_lng: 0
@@ -545,8 +856,12 @@ validation_results:
       plyr_gm_rec_no_drops: 0
       plyr_gm_rec_no_first_dwn: 0
       plyr_gm_rec_pass_rtg: 0
+      plyr_gm_rec_pct_share_of_intended_ay: 262980
+      plyr_gm_rec_racr: 262980
       plyr_gm_rec_td: 0
       plyr_gm_rec_tgt: 0
+      plyr_gm_rec_tgt_share: 262980
+      plyr_gm_rec_wopr: 262980
       plyr_gm_rec_yac: 0
       plyr_gm_rec_yac_route: 0
       plyr_gm_rec_yds: 0
@@ -588,13 +903,13 @@ validation_results:
       team_id: 0
       week_id: 0
       week_num: 0
-    rows: 31157
+    rows: 512756
   base_plyr_gm_rec:
     columns: 29
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - *id001
     - !!binary |
-      AAAAAAAAAAA=
+      nbYAAAAAAAA=
     nulls_by_column:
       adv_plyr_gm_rec_id: 0
       game_id: 0
@@ -625,9 +940,9 @@ validation_results:
       season_id: 0
       team_id: 0
       week_id: 0
-    rows: 15583
+    rows: 62332
   final_dataset:
-    columns: 64
+    columns: 77
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - *id001
     - !!binary |
@@ -636,16 +951,25 @@ validation_results:
       adv_plyr_gm_rec_id: 0
       current_team_id: 0
       game_id: 0
+      is_home_team: 0
       next_week_rec_yds: 0
+      opposing_team_id: 0
       plyr_gm_off_snap_ct_pct: 0
       plyr_gm_rec: 0
       plyr_gm_rec_adot: 0
+      plyr_gm_rec_avg_cushion: 1
+      plyr_gm_rec_avg_expected_yac: 1
+      plyr_gm_rec_avg_separation: 1
+      plyr_gm_rec_avg_yac: 1
+      plyr_gm_rec_avg_yac_above_expectation: 1
+      plyr_gm_rec_ay_share: 1
       plyr_gm_rec_aybc: 0
       plyr_gm_rec_aybc_route: 0
       plyr_gm_rec_brkn_tkl: 0
       plyr_gm_rec_brkn_tkl_rec: 0
       plyr_gm_rec_drp: 0
       plyr_gm_rec_drp_pct: 0
+      plyr_gm_rec_epa: 1
       plyr_gm_rec_first_dwn: 0
       plyr_gm_rec_int: 0
       plyr_gm_rec_lng: 0
@@ -654,8 +978,12 @@ validation_results:
       plyr_gm_rec_no_drops: 0
       plyr_gm_rec_no_first_dwn: 0
       plyr_gm_rec_pass_rtg: 0
+      plyr_gm_rec_pct_share_of_intended_ay: 1
+      plyr_gm_rec_racr: 1
       plyr_gm_rec_td: 0
       plyr_gm_rec_tgt: 0
+      plyr_gm_rec_tgt_share: 1
+      plyr_gm_rec_wopr: 1
       plyr_gm_rec_yac: 0
       plyr_gm_rec_yac_route: 0
       plyr_gm_rec_yds: 0
@@ -703,25 +1031,72 @@ validation_results:
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - *id001
     - !!binary |
-      RgEAAAAAAAA=
+      GAUAAAAAAAA=
     nulls_by_column:
       created_at: 0
       first_tm_week_end_id: 0
-      first_tm_week_start_id: 38
+      first_tm_week_start_id: 95
       multi_tm_plyr_id: 0
       plyr_guid: 0
       plyr_id: 0
       plyr_name: 0
       season_id: 0
-      second_tm_week_end_id: 614
+      second_tm_week_end_id: 1535
       second_tm_week_start_id: 0
-      third_tm_week_end_id: 652
-      third_tm_week_start_id: 614
+      third_tm_week_end_id: 1630
+      third_tm_week_start_id: 1535
       tm_1_id: 0
       tm_2_id: 0
-      tm_3_id: 614
+      tm_3_id: 1535
       updated_at: 0
-    rows: 652
+    rows: 1630
+  load_nfl_fastr_wr:
+    columns: 21
+    duplicates: !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      AAAAAAAAAAA=
+    nulls_by_column:
+      CREATED_AT: 0
+      UPDATED_AT: 0
+      nfl_fastr_did_not_qualify: 0
+      nfl_fastr_missing_fastr: 0
+      nfl_fastr_missing_nextgen: 0
+      nfl_fastr_wr_id: 0
+      nfl_fastr_wr_no_yac: 0
+      plyr_gm_rec_avg_cushion: 0
+      plyr_gm_rec_avg_expected_yac: 0
+      plyr_gm_rec_avg_separation: 0
+      plyr_gm_rec_avg_yac: 0
+      plyr_gm_rec_avg_yac_above_expectation: 0
+      plyr_gm_rec_ay_share: 0
+      plyr_gm_rec_epa: 0
+      plyr_gm_rec_pct_share_of_intended_ay: 0
+      plyr_gm_rec_racr: 0
+      plyr_gm_rec_tgt_share: 0
+      plyr_gm_rec_wopr: 0
+      plyr_id: 0
+      season_id: 0
+      week_id: 0
+    rows: 8906
+  load_nfl_game:
+    columns: 10
+    duplicates: !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      /BAAAAAAAAA=
+    nulls_by_column:
+      away_team_id: 0
+      away_team_score: 569
+      game_date: 0
+      game_id: 0
+      game_result: 569
+      game_time: 0
+      home_team_id: 0
+      home_team_score: 569
+      season_id: 0
+      week_id: 0
+    rows: 5435
   load_nfl_season:
     columns: 5
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
@@ -740,25 +1115,25 @@ validation_results:
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - *id001
     - !!binary |
-      SAAAAAAAAAA=
+      IAEAAAAAAAA=
     nulls_by_column:
       season_id: 0
       week: 0
       week_id: 0
       week_num: 0
-    rows: 144
+    rows: 360
   load_plyr:
     columns: 19
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - *id001
     - !!binary |
-      OiIAAAAAAAA=
+      6IgAAAAAAAA=
     nulls_by_column:
       created_at: 0
       is_on_ir: 0
       plyr_age: 0
-      plyr_alt_pos: 17490
-      plyr_avg_value: 4458
+      plyr_alt_pos: 43725
+      plyr_avg_value: 11145
       plyr_birthday: 0
       plyr_draft_tm: 0
       plyr_gm_played: 0
@@ -773,13 +1148,13 @@ validation_results:
       season_id: 0
       team_id: 0
       updated_at: 0
-    rows: 17524
+    rows: 43810
   load_plyr_gm_rec:
     columns: 29
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - *id001
     - !!binary |
-      AAAAAAAAAAA=
+      nbYAAAAAAAA=
     nulls_by_column:
       adv_plyr_gm_rec_id: 0
       game_id: 0
@@ -810,13 +1185,13 @@ validation_results:
       season_id: 0
       team_id: 0
       week_id: 0
-    rows: 15583
+    rows: 62332
   load_plyr_gm_snap_ct:
     columns: 12
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - *id001
     - !!binary |
-      KGQBAAAAAAA=
+      oJAFAAAAAAA=
     nulls_by_column:
       game_id: 0
       plyr_gm_def_snap_ct: 0
@@ -830,7 +1205,7 @@ validation_results:
       season_id: 0
       team_id: 0
       week_id: 0
-    rows: 182352
+    rows: 455880
   load_plyr_master:
     columns: 11
     duplicates: 0
@@ -852,15 +1227,15 @@ validation_results:
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - *id001
     - !!binary |
-      AAAAAAAAAAA=
+      WE0AAAAAAAA=
     nulls_by_column:
-      game_count: 6600
+      game_count: 26400
       plyr_id: 0
       plyr_rec: 0
       plyr_rec_adot: 0
       plyr_rec_aybc: 0
       plyr_rec_aybc_rec: 0
-      plyr_rec_aybc_route: 27525
+      plyr_rec_aybc_route: 47325
       plyr_rec_brkn_tkl: 0
       plyr_rec_brkn_tkl_rec: 0
       plyr_rec_catch_pct: 0
@@ -882,11 +1257,11 @@ validation_results:
       plyr_rec_tgt: 0
       plyr_rec_yac: 0
       plyr_rec_yac_rec: 0
-      plyr_rec_yac_route: 27525
+      plyr_rec_yac_route: 47325
       plyr_rec_yds: 0
       plyr_rec_yds_rec: 0
       plyr_rec_yds_tgt: 0
       plyr_rec_ypg: 0
       season_id: 0
       week_id: 0
-    rows: 27525
+    rows: 47325

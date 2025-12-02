@@ -4,8 +4,6 @@ Base Data Loader
 Abstract base class providing shared functionality for all NFL data source loaders.
 Handles partitioned parquet loading, validation, and temporal alignment.
 
-Author: Claude Code
-Created: 2024-11-27
 """
 
 from abc import ABC, abstractmethod
