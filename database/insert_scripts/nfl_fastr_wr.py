@@ -29,6 +29,27 @@ from db_utils import (
     create_table_if_not_exists
 )
 
+# Player name alias mapping: CSV name -> Database name
+# Used to handle naming discrepancies between FastR/NGS source data and the database
+# NOTE: Suffix variations (II, III, IV, V, Jr., Sr.) are handled automatically by get_player_id()
+PLAYER_NAME_ALIASES = {
+    "Dee Eskridge": "D'Wayne Eskridge",
+    "Mike Woods": "Michael Woods II",
+    "Nathaniel Dell": "Tank Dell",
+    "Robby Anderson": "Robbie Chosen",
+    "Jalen Cropper": "Jalen Moreno-Cropper",
+    "Ben Victor": "Binjimen Victor",
+}
+
+
+def normalize_player_name(name: str) -> str:
+    """
+    Normalize player name from CSV to match database naming convention.
+    Returns the aliased name if one exists, otherwise returns the original name.
+    """
+    return PLAYER_NAME_ALIASES.get(name, name)
+
+
 # Static source directory (unlike other scripts, we don't use YEAR/WEEK variables)
 SOURCE_DIR = r"C:\Users\nocap\Desktop\code\NFL_ml\web_scrape\scraped_data\nflfastR\receiver_data"
 PROCESSED_DIR = os.path.join(SOURCE_DIR, "processed")
@@ -162,8 +183,8 @@ def process_merged_data(db: DatabaseConnector, merged_df: pd.DataFrame) -> dict:
                 week_num = int(row['week'])
                 week_id = get_week_id(db, season_id, week_num)
 
-                # Get player_id
-                player_name = row['player_display_name']
+                # Get player_id (apply name normalization for source data discrepancies)
+                player_name = normalize_player_name(row['player_display_name'])
                 team_abrv = row['team_abrv']
 
                 try:

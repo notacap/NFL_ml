@@ -660,7 +660,7 @@ def get_player_id(db: DatabaseConnector, player_name: str, team_abrv: str, seaso
     # 2. CSV has "John Smith Jr." but DB has "John Smith" -> remove suffixes
     # 3. CSV has "DJ Moore" but DB has "D.J. Moore" -> add periods to initials
     # 4. CSV has "D.J. Moore" but DB has "DJ Moore" -> remove periods from initials
-    suffixes = ["II", "III", "IV", "Jr.", "Sr."]
+    suffixes = ["II", "III", "IV", "V", "Jr.", "Sr."]
 
     # Start with original name
     name_variations = [player_name]
@@ -889,7 +889,7 @@ def get_season_player_id(db: DatabaseConnector, player_name: str, team_abrv: str
     """
     raise DeprecationWarning("get_season_player_id() is deprecated. Use get_player_id() instead.")
     # Generate name variations to handle suffixes
-    suffixes = ["II", "III", "IV", "Jr.", "Sr."]
+    suffixes = ["II", "III", "IV", "V", "Jr.", "Sr."]
     name_variations = [player_name] + [f"{player_name} {suffix}" for suffix in suffixes]
     placeholders = ', '.join(['%s'] * len(name_variations))
     
