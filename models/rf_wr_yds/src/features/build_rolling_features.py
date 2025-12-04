@@ -87,36 +87,10 @@ ROLLING_FEATURE_CONFIGS = {
         'priority': 4
     },
     # NFL FastR advanced metrics (plyr_gm_rec_*)
-    'plyr_gm_rec_avg_cushion': {
-        'description': 'Average cushion (yards between WR and nearest defender at snap)',
-        'has_imputation': True,  # Has -999 imputation for missing FastR data
-        'priority': 4
-    },
-    'plyr_gm_rec_avg_separation': {
-        'description': 'Average separation (yards between WR and nearest defender at catch)',
-        'has_imputation': True,
-        'priority': 4
-    },
-    'plyr_gm_rec_avg_yac': {
-        'description': 'Average yards after catch per reception',
-        'has_imputation': True,
-        'priority': 4
-    },
-    'plyr_gm_rec_avg_expected_yac': {
-        'description': 'Average expected yards after catch based on situation',
-        'has_imputation': True,
-        'priority': 4
-    },
-    'plyr_gm_rec_avg_yac_above_expectation': {
-        'description': 'Average YAC above expectation (actual - expected)',
-        'has_imputation': True,
-        'priority': 4
-    },
-    'plyr_gm_rec_pct_share_of_intended_ay': {
-        'description': 'Percentage share of team intended air yards',
-        'has_imputation': True,
-        'priority': 4
-    },
+    # Note: The following columns were removed due to excessive null values (5500+):
+    # - plyr_gm_rec_avg_cushion, plyr_gm_rec_avg_separation, plyr_gm_rec_avg_yac,
+    # - plyr_gm_rec_avg_expected_yac, plyr_gm_rec_avg_yac_above_expectation,
+    # - plyr_gm_rec_pct_share_of_intended_ay
     'plyr_gm_rec_tgt_share': {
         'description': 'Target share (percentage of team targets)',
         'has_imputation': True,

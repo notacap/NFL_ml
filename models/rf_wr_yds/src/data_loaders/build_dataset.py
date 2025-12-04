@@ -307,11 +307,12 @@ class NFLDatasetBuilder:
         self._validate_data(df, "after_snap_count_join")
 
         # Join with NFL FastR WR advanced metrics
+        # Note: Columns with excessive nulls (5500+) have been removed:
+        # - plyr_gm_rec_avg_cushion, plyr_gm_rec_avg_separation, plyr_gm_rec_avg_yac,
+        # - plyr_gm_rec_avg_expected_yac, plyr_gm_rec_avg_yac_above_expectation,
+        # - plyr_gm_rec_pct_share_of_intended_ay
         fastr_wr_cols = ['plyr_id', 'season_id', 'week_id',
-                         'plyr_gm_rec_avg_cushion', 'plyr_gm_rec_avg_separation',
-                         'plyr_gm_rec_avg_yac', 'plyr_gm_rec_avg_expected_yac',
-                         'plyr_gm_rec_avg_yac_above_expectation',
-                         'plyr_gm_rec_pct_share_of_intended_ay', 'plyr_gm_rec_tgt_share',
+                         'plyr_gm_rec_tgt_share',
                          'plyr_gm_rec_epa', 'plyr_gm_rec_ay_share',
                          'plyr_gm_rec_wopr', 'plyr_gm_rec_racr']
         nfl_fastr_wr = tables['nfl_fastr_wr'][fastr_wr_cols]
@@ -322,6 +323,10 @@ class NFLDatasetBuilder:
             how='left'
         )
         self._validate_data(df, "after_nfl_fastr_wr_join")
+
+        # Handle missing NFL FastR stats
+        df = self._handle_nfl_fastr_nulls(df)
+        self._validate_data(df, "after_nfl_fastr_null_handling")
 
         # Join with player info (use only plyr_id since season_id format differs between tables)
         # Retain team_id from plyr table for reference (reflects season-end team)
@@ -396,6 +401,57 @@ class NFLDatasetBuilder:
         # Create opposing_team_id and is_home_team columns
         df = self._compute_opposing_team_info(df)
         self._validate_data(df, "after_opposing_team_computation")
+
+        return df
+
+    def _handle_nfl_fastr_nulls(self, df: pd.DataFrame) -> pd.DataFrame:
+        """
+        Handle missing NFL FastR stats by imputing with -999 and creating indicator variable.
+
+        Logic:
+        - If ALL NFL FastR columns are null for a row, impute with -999
+        - Create indicator variable nfl_fastr_missing_stats (1 = missing, 0 = present)
+
+        This handles cases where NFL FastR data is unavailable for certain games
+        (e.g., data collection issues, games not covered by NextGenStats).
+
+        Args:
+            df: DataFrame with NFL FastR columns joined
+
+        Returns:
+            DataFrame with nulls imputed and indicator variable added
+        """
+        self.logger.info("Handling missing NFL FastR stats...")
+
+        # Define the NFL FastR columns to check
+        # Note: High-null columns have been removed from the dataset
+        nfl_fastr_cols = [
+            'plyr_gm_rec_tgt_share',
+            'plyr_gm_rec_epa',
+            'plyr_gm_rec_ay_share',
+            'plyr_gm_rec_wopr',
+            'plyr_gm_rec_racr'
+        ]
+
+        # Verify all columns exist
+        existing_cols = [col for col in nfl_fastr_cols if col in df.columns]
+        if len(existing_cols) != len(nfl_fastr_cols):
+            missing = set(nfl_fastr_cols) - set(existing_cols)
+            self.logger.warning(f"Some NFL FastR columns not found: {missing}")
+
+        # Create indicator: 1 if ALL NFL FastR columns are null, 0 otherwise
+        all_null_mask = df[existing_cols].isnull().all(axis=1)
+        df['nfl_fastr_missing_stats'] = all_null_mask.astype(int)
+
+        # Count rows with missing stats
+        missing_count = all_null_mask.sum()
+        self.logger.info(f"Found {missing_count:,} rows with missing NFL FastR stats ({missing_count/len(df)*100:.2f}%)")
+
+        # Impute null values with -999 for rows where all FastR stats are missing
+        if missing_count > 0:
+            for col in existing_cols:
+                df.loc[all_null_mask, col] = -999
+            self.logger.info(f"Imputed {missing_count:,} rows with -999 for {len(existing_cols)} NFL FastR columns")
 
         return df
 
