@@ -8,13 +8,17 @@ Key Design Principles:
 1. All rolling calculations are GAME-INDEXED (not week-indexed)
 2. Rolling windows use ONLY PRIOR games (no future data leakage)
 3. -999 imputed values are EXCLUDED from rolling calculations
-4. Rolling windows RESET at season boundaries
-5. Minimum games threshold documented for valid rolling averages
+4. Cross-season carryover: Rolling windows carry forward from prior season
+   (reduces cold-start nulls for returning players)
+5. Expanding window fallback: Uses all available prior games when insufficient
+   history exists for full rolling window
+6. Staleness indicators track when using cross-season data
 
 Note: NaN imputation is handled separately in the imputation module.
 
 Author: Claude Code
 Created: 2024-11-25
+Updated: 2024-12-04 - Added cross-season carryover and expanding window strategies
 """
 
 import pandas as pd
@@ -41,12 +45,21 @@ IMPUTATION_SENTINEL = -999
 # Rolling window sizes based on EDA recommendations
 ROLLING_WINDOWS = [3, 5]
 
-# Minimum games required before rolling average is considered valid
-# This addresses the cold-start problem for players with insufficient history
+# Minimum games required before rolling average is considered "fully valid"
+# With cross-season carryover and expanding windows, we still create rolling
+# features for fewer games, but these flags indicate confidence level
 MIN_GAMES_FOR_VALID_ROLLING = {
-    3: 2,  # 3-game rolling requires at least 2 prior games
-    5: 3,  # 5-game rolling requires at least 3 prior games
+    3: 2,  # 3-game rolling ideally needs 2 prior games for stability
+    5: 3,  # 5-game rolling ideally needs 3 prior games for stability
 }
+
+# Cross-season carryover configuration
+CROSS_SEASON_CARRYOVER_ENABLED = True  # Enable carrying forward prior season data
+MAX_CARRYOVER_GAMES = 5  # Maximum games to carry from prior season
+
+# Player identifier for cross-season tracking
+# plyr_id is season-specific, plyr_guid is persistent across seasons
+CROSS_SEASON_PLAYER_ID = 'plyr_guid'  # Use plyr_guid for cross-season matching
 
 # Features to create rolling averages for (Priority 5 from EDA)
 ROLLING_FEATURE_CONFIGS = {
@@ -118,6 +131,26 @@ ROLLING_FEATURE_CONFIGS = {
     },
 }
 
+# Rolling efficiency features computed from game-level rolling averages
+# These are safe for cross-season calculations
+ROLLING_EFFICIENCY_CONFIGS = {
+    'yds_per_tgt': {
+        'description': 'Yards per target (rolling efficiency)',
+        'numerator': 'yds',      # Will be prefixed with roll_Xg_
+        'denominator': 'tgt',    # Will be prefixed with roll_Xg_
+    },
+    'yds_per_rec': {
+        'description': 'Yards per reception (rolling efficiency)',
+        'numerator': 'yds',
+        'denominator': 'rec',
+    },
+    'catch_rate': {
+        'description': 'Catch rate (rolling efficiency)',
+        'numerator': 'rec',
+        'denominator': 'tgt',
+    },
+}
+
 
 # =============================================================================
 # UTILITY FUNCTIONS
@@ -184,6 +217,86 @@ def get_game_sequence_number(df: pd.DataFrame) -> pd.Series:
     return df.groupby(['plyr_id', 'season_id']).cumcount() + 1
 
 
+def get_career_game_sequence_number(df: pd.DataFrame) -> pd.Series:
+    """
+    Calculate game sequence number for each player across ALL seasons.
+
+    Uses plyr_guid (persistent ID) instead of plyr_id (season-specific ID)
+    to properly track career games across season boundaries.
+
+    Args:
+        df: DataFrame sorted by plyr_guid, season_id, week_id
+
+    Returns:
+        Series with career game sequence numbers (1-indexed)
+    """
+    player_col = CROSS_SEASON_PLAYER_ID if CROSS_SEASON_PLAYER_ID in df.columns else 'plyr_id'
+    return df.groupby(player_col).cumcount() + 1
+
+
+def calculate_days_since_last_game(df: pd.DataFrame) -> pd.Series:
+    """
+    Calculate days elapsed since player's last game.
+
+    Useful for identifying cross-season gaps and staleness of rolling data.
+    Requires 'game_date' or similar date column, or approximates from week/season.
+
+    Args:
+        df: DataFrame sorted by plyr_id, season_id, week_id
+
+    Returns:
+        Series with days since last game (NaN for first game)
+    """
+    # Create approximate game date from season and week
+    # Assuming season starts around week 1 of September
+    # Each week is ~7 days apart
+    if 'year' in df.columns and 'week_num' in df.columns:
+        # Approximate: Season starts Sept 1, each week adds 7 days
+        approx_date = pd.to_datetime(
+            df['year'].astype(str) + '-09-01'
+        ) + pd.to_timedelta(df['week_num'] * 7, unit='D')
+    elif 'season_id' in df.columns and 'week_id' in df.columns:
+        # Fallback: use sequential numbering
+        # This won't give actual days but will flag cross-season gaps
+        approx_date = df['season_id'] * 100 + df['week_id']
+        approx_date = pd.to_datetime('2020-01-01') + pd.to_timedelta(approx_date, unit='D')
+    else:
+        logger.warning("Cannot calculate days_since_last_game: missing date columns")
+        return pd.Series(np.nan, index=df.index)
+
+    # Calculate days since previous game for each player (using persistent ID)
+    player_col = CROSS_SEASON_PLAYER_ID if CROSS_SEASON_PLAYER_ID in df.columns else 'plyr_id'
+    days_since = approx_date.groupby(df[player_col]).diff().dt.days
+
+    return days_since
+
+
+def identify_season_carryover(df: pd.DataFrame) -> pd.Series:
+    """
+    Identify rows where rolling features use cross-season data.
+
+    A row is marked as using carryover if:
+    - It's in the first few games of a season (game_seq_num <= window size)
+    - The player has prior season data
+
+    Args:
+        df: DataFrame with game_seq_num and career_game_seq_num columns
+
+    Returns:
+        Boolean series (True = using cross-season carryover data)
+    """
+    if 'game_seq_num' not in df.columns or 'career_game_seq_num' not in df.columns:
+        logger.warning("Cannot identify carryover: missing sequence columns")
+        return pd.Series(False, index=df.index)
+
+    # Using carryover if: early in season AND have prior career games
+    max_window = max(ROLLING_WINDOWS)
+    is_early_season = df['game_seq_num'] <= max_window
+    has_prior_seasons = df['career_game_seq_num'] > df['game_seq_num']
+
+    return is_early_season & has_prior_seasons
+
+
 # =============================================================================
 # ROLLING FEATURE FUNCTIONS
 # =============================================================================
@@ -192,16 +305,18 @@ def calculate_rolling_average_single_stat(
     df: pd.DataFrame,
     stat_col: str,
     window: int,
-    exclude_imputed: bool = True
+    exclude_imputed: bool = True,
+    cross_season_carryover: bool = True
 ) -> pd.Series:
     """
     Calculate rolling average for a single statistic, handling edge cases.
 
     Edge Case Handling:
-    - Cross-season boundaries: Windows reset at season start (groupby season)
+    - Cross-season carryover: Windows carry forward from prior season (if enabled)
+    - Expanding window fallback: Uses all available prior games when < window games exist
     - Injury gaps: Uses game-based windows (not calendar-based)
     - Imputed nulls: -999 values excluded from calculations
-    - Cold start: NaN for insufficient history (handled by min_periods)
+    - Cold start: Only truly new players (rookies) have NaN for first game
 
     CRITICAL: Uses shift(1) to ensure only PRIOR games are included.
     The rolling window looks at games [N-window, N-1], NOT including game N.
@@ -211,6 +326,7 @@ def calculate_rolling_average_single_stat(
         stat_col: Name of statistic column
         window: Rolling window size (number of games)
         exclude_imputed: Whether to exclude -999 values (default: True)
+        cross_season_carryover: Whether to carry data across seasons (default: True)
 
     Returns:
         Series with rolling averages
@@ -222,14 +338,24 @@ def calculate_rolling_average_single_stat(
     if exclude_imputed:
         stat_series = mask_imputed_values(stat_series)
 
-    # Calculate rolling mean within each player-season
-    # IMPORTANT: We shift by 1 BEFORE rolling to ensure we only use prior games
-    # This prevents any data leakage from the current game
-    rolling_avg = (
-        df.assign(_stat_shifted=stat_series.groupby([df['plyr_id'], df['season_id']]).shift(1))
-        .groupby(['plyr_id', 'season_id'])['_stat_shifted']
-        .transform(lambda x: x.rolling(window=window, min_periods=1).mean())
-    )
+    if cross_season_carryover and CROSS_SEASON_CARRYOVER_ENABLED:
+        # Cross-season carryover: Group by persistent player ID (plyr_guid)
+        # This allows rolling windows to span season boundaries
+        # IMPORTANT: We shift by 1 BEFORE rolling to ensure we only use prior games
+        player_col = CROSS_SEASON_PLAYER_ID if CROSS_SEASON_PLAYER_ID in df.columns else 'plyr_id'
+        rolling_avg = (
+            df.assign(_stat_shifted=stat_series.groupby(df[player_col]).shift(1))
+            .groupby(player_col)['_stat_shifted']
+            .transform(lambda x: x.rolling(window=window, min_periods=1).mean())
+        )
+    else:
+        # Original behavior: Reset at season boundaries
+        # Calculate rolling mean within each player-season
+        rolling_avg = (
+            df.assign(_stat_shifted=stat_series.groupby([df['plyr_id'], df['season_id']]).shift(1))
+            .groupby(['plyr_id', 'season_id'])['_stat_shifted']
+            .transform(lambda x: x.rolling(window=window, min_periods=1).mean())
+        )
 
     return rolling_avg
 
@@ -238,16 +364,18 @@ def build_rolling_features(
     df: pd.DataFrame,
     stat_cols: List[str] = None,
     windows: List[int] = None,
-    exclude_imputed: bool = True
+    exclude_imputed: bool = True,
+    cross_season_carryover: bool = True
 ) -> pd.DataFrame:
     """
     Build rolling average features for multiple statistics and window sizes.
 
     This function creates game-indexed rolling averages that:
-    - Reset at season boundaries
+    - Carry forward from prior seasons (cross-season carryover)
+    - Use expanding windows when insufficient history exists
     - Exclude -999 imputed values from calculations
     - Use only PRIOR games (no future leakage)
-    - Handle players with varying game counts
+    - Track staleness indicators for cross-season data
 
     Args:
         df: DataFrame with player game stats
@@ -255,6 +383,7 @@ def build_rolling_features(
                    If None, uses default ROLLING_FEATURE_CONFIGS
         windows: List of window sizes (default: [3, 5])
         exclude_imputed: Whether to exclude -999 values (default: True)
+        cross_season_carryover: Whether to carry data across seasons (default: True)
 
     Returns:
         DataFrame with original columns plus new rolling features
@@ -274,13 +403,28 @@ def build_rolling_features(
     # Create copy of DataFrame to avoid modifying original
     result_df = df.copy()
 
+    # Determine player ID column for cross-season tracking
+    player_col = CROSS_SEASON_PLAYER_ID if (cross_season_carryover and CROSS_SEASON_PLAYER_ID in df.columns) else 'plyr_id'
+
     # Sort by temporal order for correct rolling calculations
-    result_df = result_df.sort_values(['plyr_id', 'season_id', 'week_id']).reset_index(drop=True)
+    # Use persistent player ID (plyr_guid) for cross-season carryover
+    result_df = result_df.sort_values([player_col, 'season_id', 'week_id']).reset_index(drop=True)
 
-    # Add game sequence number for reference
+    # Add game sequence numbers
     result_df['game_seq_num'] = get_game_sequence_number(result_df)
+    result_df['career_game_seq_num'] = get_career_game_sequence_number(result_df)
 
-    features_created = []
+    # Add staleness indicators
+    result_df['days_since_last_game'] = calculate_days_since_last_game(result_df)
+    result_df['is_season_carryover'] = identify_season_carryover(result_df)
+
+    features_created = ['career_game_seq_num', 'days_since_last_game', 'is_season_carryover']
+
+    # Log carryover statistics
+    if cross_season_carryover:
+        carryover_count = result_df['is_season_carryover'].sum()
+        total_count = len(result_df)
+        logger.info(f"Cross-season carryover enabled: {carryover_count}/{total_count} rows ({carryover_count/total_count*100:.1f}%) use prior season data")
 
     for stat_col in stat_cols:
         if stat_col not in result_df.columns:
@@ -296,12 +440,13 @@ def build_rolling_features(
 
             logger.info(f"Creating rolling feature: {feature_name}")
 
-            # Calculate rolling average
+            # Calculate rolling average with cross-season carryover
             result_df[feature_name] = calculate_rolling_average_single_stat(
                 result_df,
                 stat_col,
                 window,
-                exclude_imputed=(exclude_imputed and has_imputation)
+                exclude_imputed=(exclude_imputed and has_imputation),
+                cross_season_carryover=cross_season_carryover
             )
 
             features_created.append(feature_name)
@@ -311,11 +456,17 @@ def build_rolling_features(
                 imputed_count = (df[stat_col] == IMPUTATION_SENTINEL).sum()
                 logger.info(f"  {stat_col}: {imputed_count} imputed values excluded from rolling calc")
 
-    # Add minimum games indicator for cold start handling
+    # Add minimum games indicators for cold start handling
+    # With carryover, these now check career games, not just season games
     for window in windows:
         min_games_col = f"has_min_games_{window}g"
         min_required = MIN_GAMES_FOR_VALID_ROLLING.get(window, window - 1)
-        result_df[min_games_col] = result_df['game_seq_num'] > min_required
+        if cross_season_carryover:
+            # Check career game count (includes prior seasons)
+            result_df[min_games_col] = result_df['career_game_seq_num'] > min_required
+        else:
+            # Original behavior: check season game count only
+            result_df[min_games_col] = result_df['game_seq_num'] > min_required
         features_created.append(min_games_col)
 
     logger.info(f"Created {len(features_created)} rolling features: {features_created}")
@@ -411,6 +562,84 @@ def build_efficiency_features(df: pd.DataFrame) -> pd.DataFrame:
     return result_df
 
 
+def build_rolling_efficiency_features(
+    df: pd.DataFrame,
+    windows: List[int] = None
+) -> pd.DataFrame:
+    """
+    Build efficiency features from game-level rolling averages.
+
+    These features are safe for cross-season calculations because they're
+    computed from per-game normalized statistics that share the same
+    temporal window.
+
+    MUST be called AFTER build_rolling_features() which creates the
+    base rolling averages (roll_Xg_yds, roll_Xg_tgt, roll_Xg_rec, etc.)
+
+    Args:
+        df: DataFrame with rolling average features already computed
+        windows: Rolling window sizes to compute efficiency for (default: [3, 5])
+
+    Returns:
+        DataFrame with rolling efficiency features added
+
+    Features created (for each window size):
+        - roll_Xg_yds_per_tgt: Rolling yards per target
+        - roll_Xg_yds_per_rec: Rolling yards per reception
+        - roll_Xg_catch_rate: Rolling catch rate (receptions / targets)
+    """
+    if windows is None:
+        windows = ROLLING_WINDOWS
+
+    result_df = df.copy()
+    features_created = []
+
+    for window in windows:
+        prefix = f'roll_{window}g'
+
+        # Define source columns (match naming convention from build_rolling_features)
+        yds_col = f'{prefix}_yds'
+        tgt_col = f'{prefix}_tgt'
+        rec_col = f'{prefix}_rec'
+
+        # Yards per target (rolling efficiency)
+        if yds_col in result_df.columns and tgt_col in result_df.columns:
+            feature_name = f'{prefix}_yds_per_tgt'
+            result_df[feature_name] = np.where(
+                result_df[tgt_col] > 0,
+                result_df[yds_col] / result_df[tgt_col],
+                np.nan
+            )
+            features_created.append(feature_name)
+            logger.info(f"Created {feature_name}")
+
+        # Yards per reception (rolling efficiency)
+        if yds_col in result_df.columns and rec_col in result_df.columns:
+            feature_name = f'{prefix}_yds_per_rec'
+            result_df[feature_name] = np.where(
+                result_df[rec_col] > 0,
+                result_df[yds_col] / result_df[rec_col],
+                np.nan
+            )
+            features_created.append(feature_name)
+            logger.info(f"Created {feature_name}")
+
+        # Catch rate (rolling efficiency)
+        if rec_col in result_df.columns and tgt_col in result_df.columns:
+            feature_name = f'{prefix}_catch_rate'
+            result_df[feature_name] = np.where(
+                result_df[tgt_col] > 0,
+                result_df[rec_col] / result_df[tgt_col],
+                np.nan
+            )
+            features_created.append(feature_name)
+            logger.info(f"Created {feature_name}")
+
+    logger.info(f"Created {len(features_created)} rolling efficiency features: {features_created}")
+
+    return result_df
+
+
 # =============================================================================
 # MAIN FEATURE BUILDER CLASS
 # =============================================================================
@@ -436,7 +665,8 @@ class RollingFeatureBuilder:
         rolling_windows: List[int] = None,
         rolling_stat_cols: List[str] = None,
         exclude_imputed: bool = True,
-        validate_leakage: bool = True
+        validate_leakage: bool = True,
+        cross_season_carryover: bool = True
     ):
         """
         Initialize the feature builder.
@@ -446,11 +676,13 @@ class RollingFeatureBuilder:
             rolling_stat_cols: Statistics to create rolling features for
             exclude_imputed: Whether to exclude -999 from rolling calculations
             validate_leakage: Whether to validate for data leakage
+            cross_season_carryover: Whether to carry forward prior season data (default: True)
         """
         self.rolling_windows = rolling_windows or ROLLING_WINDOWS
         self.rolling_stat_cols = rolling_stat_cols or list(ROLLING_FEATURE_CONFIGS.keys())
         self.exclude_imputed = exclude_imputed
         self.validate_leakage = validate_leakage
+        self.cross_season_carryover = cross_season_carryover
 
         self.features_created = []
         self.validation_results = {}
@@ -473,26 +705,34 @@ class RollingFeatureBuilder:
 
         # Step 1: Build rolling features
         logger.info("\nStep 1: Building rolling features...")
+        logger.info(f"Cross-season carryover: {'ENABLED' if self.cross_season_carryover else 'DISABLED'}")
         result_df = build_rolling_features(
             df,
             stat_cols=self.rolling_stat_cols,
             windows=self.rolling_windows,
-            exclude_imputed=self.exclude_imputed
+            exclude_imputed=self.exclude_imputed,
+            cross_season_carryover=self.cross_season_carryover
         )
 
-        # Step 2: Build efficiency features
-        logger.info("\nStep 2: Building efficiency features...")
+        # Step 2: Build rolling efficiency features (derived from rolling averages)
+        logger.info("\nStep 2: Building rolling efficiency features...")
+        result_df = build_rolling_efficiency_features(result_df, windows=self.rolling_windows)
+
+        # Step 3: Build season cumulative efficiency features (with deprecation warning)
+        logger.info("\nStep 3: Building season cumulative efficiency features...")
+        logger.warning("NOTE: Season cumulative efficiency features (yards_per_target, etc.) "
+                      "are NOT safe for cross-season analysis. Prefer roll_Xg_yds_per_tgt instead.")
         result_df = build_efficiency_features(result_df)
 
         # Track created features
         self.features_created = [col for col in result_df.columns if col not in initial_cols]
 
-        # Step 3: Validate no data leakage
+        # Step 4: Validate no data leakage
         if self.validate_leakage:
-            logger.info("\nStep 3: Validating data integrity...")
+            logger.info("\nStep 4: Validating data integrity...")
             self._validate_features(result_df)
 
-        # Step 4: Generate summary
+        # Step 5: Generate summary
         self._generate_summary(result_df)
 
         return result_df
@@ -523,23 +763,46 @@ class RollingFeatureBuilder:
 
         For a 3-game rolling window at game N, we should be averaging
         games [N-3, N-2, N-1], NOT including game N.
+
+        With cross-season carryover enabled:
+        - First game of SEASON may have data (from prior season)
+        - First game of CAREER should still be NaN (truly new player)
         """
-        # Sample check: for first game of season, rolling should be NaN
-        # (no prior games to average)
-        first_game_mask = df['game_seq_num'] == 1
+        if CROSS_SEASON_CARRYOVER_ENABLED:
+            # With carryover: check first CAREER game, not first season game
+            first_career_game_mask = df['career_game_seq_num'] == 1
+            check_mask = first_career_game_mask
+            check_description = "first career games (rookies)"
+        else:
+            # Original: check first season game
+            first_game_mask = df['game_seq_num'] == 1
+            check_mask = first_game_mask
+            check_description = "first games of season"
 
         for col in df.columns:
             if col.startswith(f'roll_{window}g_'):
-                first_game_values = df.loc[first_game_mask, col]
+                first_game_values = df.loc[check_mask, col]
                 non_null_first_games = first_game_values.notna().sum()
 
                 if non_null_first_games > 0:
                     logger.warning(
                         f"Feature {col} has {non_null_first_games} non-null values "
-                        f"for first games of season. This may indicate data leakage."
+                        f"for {check_description}. This may indicate data leakage."
                     )
                 else:
-                    logger.info(f"Feature {col} correctly has NaN for first games (no prior data)")
+                    logger.info(f"Feature {col} correctly has NaN for {check_description} (no prior data)")
+
+        # Additional validation: check carryover games have data
+        if CROSS_SEASON_CARRYOVER_ENABLED and 'is_season_carryover' in df.columns:
+            carryover_mask = df['is_season_carryover'] == True
+            for col in df.columns:
+                if col.startswith(f'roll_{window}g_'):
+                    carryover_values = df.loc[carryover_mask, col]
+                    carryover_with_data = carryover_values.notna().sum()
+                    carryover_total = carryover_mask.sum()
+                    if carryover_total > 0:
+                        pct_with_data = carryover_with_data / carryover_total * 100
+                        logger.info(f"Feature {col}: {pct_with_data:.1f}% of carryover games have data")
 
     def _generate_summary(self, df: pd.DataFrame):
         """Generate summary of feature engineering results."""
@@ -549,6 +812,27 @@ class RollingFeatureBuilder:
 
         logger.info(f"\nDataset shape: {df.shape}")
         logger.info(f"Features created: {len(self.features_created)}")
+
+        # Cross-season carryover statistics
+        if self.cross_season_carryover and 'is_season_carryover' in df.columns:
+            logger.info("\nCross-season carryover statistics:")
+            carryover_count = df['is_season_carryover'].sum()
+            total_count = len(df)
+            logger.info(f"  Rows using prior season data: {carryover_count}/{total_count} ({carryover_count/total_count*100:.1f}%)")
+
+            # Count true rookies (first career game)
+            if 'career_game_seq_num' in df.columns:
+                rookie_first_games = (df['career_game_seq_num'] == 1).sum()
+                logger.info(f"  True rookie first games (only nulls remaining): {rookie_first_games}")
+
+            # Staleness statistics
+            if 'days_since_last_game' in df.columns:
+                cross_season_games = df[df['is_season_carryover'] == True]
+                if len(cross_season_games) > 0:
+                    avg_days = cross_season_games['days_since_last_game'].mean()
+                    max_days = cross_season_games['days_since_last_game'].max()
+                    logger.info(f"  Avg days since last game (carryover rows): {avg_days:.0f} days")
+                    logger.info(f"  Max days since last game (carryover rows): {max_days:.0f} days")
 
         logger.info("\nNew features:")
         for feature in sorted(self.features_created):
@@ -571,6 +855,13 @@ class RollingFeatureBuilder:
         if existing_eff_cols:
             avg_null = df[existing_eff_cols].isna().mean().mean() * 100
             logger.info(f"  Efficiency features: {len(existing_eff_cols)} features, {avg_null:.1f}% avg null rate")
+
+        # Rolling efficiency feature statistics
+        rolling_eff_cols = [c for c in df.columns if '_yds_per_tgt' in c or '_yds_per_rec' in c or '_catch_rate' in c]
+        rolling_eff_cols = [c for c in rolling_eff_cols if c.startswith('roll_')]
+        if rolling_eff_cols:
+            avg_null = df[rolling_eff_cols].isna().mean().mean() * 100
+            logger.info(f"  Rolling efficiency features: {len(rolling_eff_cols)} features, {avg_null:.1f}% avg null rate")
 
         logger.info("\n" + "=" * 60)
 
@@ -661,19 +952,54 @@ class RollingFeatureBuilder:
             }
         }
 
+        # Rolling efficiency feature documentation
+        docs['rolling_efficiency_features'] = {}
+        for window in self.rolling_windows:
+            prefix = f'roll_{window}g'
+            docs['rolling_efficiency_features'][f'{prefix}_yds_per_tgt'] = {
+                'description': f'{window}-game rolling yards per target (cross-season safe)',
+                'formula': f'{prefix}_yds / {prefix}_tgt',
+                'handles_division_by_zero': True,
+                'cross_season_safe': True,
+            }
+            docs['rolling_efficiency_features'][f'{prefix}_yds_per_rec'] = {
+                'description': f'{window}-game rolling yards per reception (cross-season safe)',
+                'formula': f'{prefix}_yds / {prefix}_rec',
+                'handles_division_by_zero': True,
+                'cross_season_safe': True,
+            }
+            docs['rolling_efficiency_features'][f'{prefix}_catch_rate'] = {
+                'description': f'{window}-game rolling catch rate (cross-season safe)',
+                'formula': f'{prefix}_rec / {prefix}_tgt',
+                'handles_division_by_zero': True,
+                'cross_season_safe': True,
+            }
+
         # Metadata features
         docs['metadata_features'] = {
             'game_seq_num': {
                 'description': 'Game sequence number within player-season (1-indexed)',
-                'use_case': 'Track player game count, identify cold start situations'
+                'use_case': 'Track player game count within current season'
+            },
+            'career_game_seq_num': {
+                'description': 'Game sequence number across all seasons (1-indexed)',
+                'use_case': 'Track total career games, identify true rookies'
+            },
+            'days_since_last_game': {
+                'description': 'Approximate days elapsed since player last game',
+                'use_case': 'Measure staleness of rolling data, especially for cross-season carryover'
+            },
+            'is_season_carryover': {
+                'description': 'Boolean indicating rolling features use prior season data',
+                'use_case': 'Flag stale data for model to potentially discount'
             },
             'has_min_games_3g': {
-                'description': 'Boolean indicating player has enough history for valid 3-game rolling average',
-                'threshold': f'>= {MIN_GAMES_FOR_VALID_ROLLING[3]} prior games'
+                'description': 'Boolean indicating player has enough history for stable 3-game rolling average',
+                'threshold': f'>= {MIN_GAMES_FOR_VALID_ROLLING[3]} prior games (career-wide with carryover)'
             },
             'has_min_games_5g': {
-                'description': 'Boolean indicating player has enough history for valid 5-game rolling average',
-                'threshold': f'>= {MIN_GAMES_FOR_VALID_ROLLING[5]} prior games'
+                'description': 'Boolean indicating player has enough history for stable 5-game rolling average',
+                'threshold': f'>= {MIN_GAMES_FOR_VALID_ROLLING[5]} prior games (career-wide with carryover)'
             }
         }
 

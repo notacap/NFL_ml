@@ -274,8 +274,11 @@ class NFLDatasetBuilder:
         self.logger.info("Creating temporal joins...")
         
         # Start with player game receiving stats as base table
-        base_df = tables['plyr_gm_rec'].copy()
-        self._validate_data(base_df, "base_plyr_gm_rec", 
+        # Exclude plyr_gm_rec_brkn_tkl_rec column
+        plyr_gm_rec_cols = [col for col in tables['plyr_gm_rec'].columns
+                           if col != 'plyr_gm_rec_brkn_tkl_rec']
+        base_df = tables['plyr_gm_rec'][plyr_gm_rec_cols].copy()
+        self._validate_data(base_df, "base_plyr_gm_rec",
                            required_columns=['plyr_id', 'season_id', 'week_id', 'plyr_gm_rec_yds'])
         
         # Join with player season receiving stats

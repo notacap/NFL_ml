@@ -109,18 +109,37 @@ def validate_feature_output(df: pd.DataFrame, original_df: pd.DataFrame) -> dict
         results['passed'] = False
         print(f"FAIL: New features contain -999 sentinel values: {sentinel_in_new}")
 
-    # Check 6: First game of season has NaN rolling features (no leakage)
-    first_game_mask = df['game_seq_num'] == 1
-    first_game_rolling = df.loc[first_game_mask, rolling_features]
-    non_null_first_games = first_game_rolling.notna().sum().sum()
+    # Check 6: First CAREER game has NaN rolling features (no leakage for true rookies)
+    # Note: With cross-season carryover, first SEASON games may have data from prior season.
+    # Only first CAREER games (true rookies) should have NaN for rolling features.
+    if 'career_game_seq_num' in df.columns:
+        first_career_mask = df['career_game_seq_num'] == 1
+        first_career_rolling = df.loc[first_career_mask, rolling_features]
+        non_null_first_career = first_career_rolling.notna().sum().sum()
 
-    results['checks']['no_first_game_rolling_values'] = {
-        'passed': non_null_first_games == 0,
-        'non_null_count': int(non_null_first_games)
-    }
-    if non_null_first_games > 0:
-        results['passed'] = False
-        print(f"FAIL: {non_null_first_games} non-null rolling values for first games (potential leakage)")
+        results['checks']['no_first_career_game_rolling_values'] = {
+            'passed': non_null_first_career == 0,
+            'non_null_count': int(non_null_first_career),
+            'first_career_games': int(first_career_mask.sum())
+        }
+        if non_null_first_career > 0:
+            results['passed'] = False
+            print(f"FAIL: {non_null_first_career} non-null rolling values for first career games (potential leakage)")
+        else:
+            print(f"PASS: First career games ({first_career_mask.sum()} rookies) correctly have NaN rolling values")
+    else:
+        # Fallback to season-based check if career_game_seq_num not available
+        first_game_mask = df['game_seq_num'] == 1
+        first_game_rolling = df.loc[first_game_mask, rolling_features]
+        non_null_first_games = first_game_rolling.notna().sum().sum()
+
+        results['checks']['no_first_game_rolling_values'] = {
+            'passed': non_null_first_games == 0,
+            'non_null_count': int(non_null_first_games)
+        }
+        if non_null_first_games > 0:
+            results['passed'] = False
+            print(f"FAIL: {non_null_first_games} non-null rolling values for first games (potential leakage)")
 
     # Check 7: Rolling values are reasonable (not identical to source)
     sample_check_passed = True

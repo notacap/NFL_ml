@@ -1,9 +1,12 @@
-created_at: '20251203_201953'
+created_at: '20251206_163420'
 dataset_shape:
   rows: 3891
-  columns: 121
+  columns: 111
 features_created:
 - game_seq_num
+- career_game_seq_num
+- days_since_last_game
+- is_season_carryover
 - roll_3g_yds
 - roll_5g_yds
 - roll_3g_tgt
@@ -18,18 +21,6 @@ features_created:
 - roll_5g_aybc
 - roll_3g_td
 - roll_5g_td
-- roll_3g_avg_cushion
-- roll_5g_avg_cushion
-- roll_3g_avg_separation
-- roll_5g_avg_separation
-- roll_3g_avg_yac
-- roll_5g_avg_yac
-- roll_3g_avg_expected_yac
-- roll_5g_avg_expected_yac
-- roll_3g_avg_yac_above_expectation
-- roll_5g_avg_yac_above_expectation
-- roll_3g_pct_share_of_intended_ay
-- roll_5g_pct_share_of_intended_ay
 - roll_3g_tgt_share
 - roll_5g_tgt_share
 - roll_3g_epa
@@ -42,6 +33,12 @@ features_created:
 - roll_5g_racr
 - has_min_games_3g
 - has_min_games_5g
+- roll_3g_yds_per_tgt
+- roll_3g_yds_per_rec
+- roll_3g_catch_rate
+- roll_5g_yds_per_tgt
+- roll_5g_yds_per_rec
+- roll_5g_catch_rate
 - season_targets_per_game
 - season_yards_per_game
 - yards_per_reception
@@ -61,7 +58,7 @@ validation_results:
       result: 3891
     rolling_features_created:
       passed: true
-      count: 36
+      count: 30
       features:
       - roll_3g_yds
       - roll_5g_yds
@@ -77,18 +74,6 @@ validation_results:
       - roll_5g_aybc
       - roll_3g_td
       - roll_5g_td
-      - roll_3g_avg_cushion
-      - roll_5g_avg_cushion
-      - roll_3g_avg_separation
-      - roll_5g_avg_separation
-      - roll_3g_avg_yac
-      - roll_5g_avg_yac
-      - roll_3g_avg_expected_yac
-      - roll_5g_avg_expected_yac
-      - roll_3g_avg_yac_above_expectation
-      - roll_5g_avg_yac_above_expectation
-      - roll_3g_pct_share_of_intended_ay
-      - roll_5g_pct_share_of_intended_ay
       - roll_3g_tgt_share
       - roll_5g_tgt_share
       - roll_3g_epa
@@ -99,6 +84,12 @@ validation_results:
       - roll_5g_wopr
       - roll_3g_racr
       - roll_5g_racr
+      - roll_3g_yds_per_tgt
+      - roll_3g_yds_per_rec
+      - roll_3g_catch_rate
+      - roll_5g_yds_per_tgt
+      - roll_5g_yds_per_rec
+      - roll_5g_catch_rate
     efficiency_features_created:
       passed: true
       expected:
@@ -114,7 +105,7 @@ validation_results:
     no_sentinel_in_new_features:
       passed: true
       features_with_sentinel: {}
-    no_first_game_rolling_values:
+    no_first_career_game_rolling_values:
       passed: !!python/object/apply:numpy._core.multiarray.scalar
       - !!python/object/apply:numpy.dtype
         args:
@@ -133,6 +124,7 @@ validation_results:
       - !!binary |
         AQ==
       non_null_count: 0
+      first_career_games: 218
     rolling_not_identical_to_source:
       passed: true
     no_suspicious_correlations:
@@ -238,100 +230,6 @@ feature_documentation:
       min_games_required: 3
       handles_imputation: false
       priority: 4
-    roll_3g_avg_cushion:
-      description: 3-game rolling average of Average cushion (yards between WR and
-        nearest defender at snap)
-      source_column: plyr_gm_rec_avg_cushion
-      window_size: 3
-      min_games_required: 2
-      handles_imputation: true
-      priority: 4
-    roll_5g_avg_cushion:
-      description: 5-game rolling average of Average cushion (yards between WR and
-        nearest defender at snap)
-      source_column: plyr_gm_rec_avg_cushion
-      window_size: 5
-      min_games_required: 3
-      handles_imputation: true
-      priority: 4
-    roll_3g_avg_separation:
-      description: 3-game rolling average of Average separation (yards between WR
-        and nearest defender at catch)
-      source_column: plyr_gm_rec_avg_separation
-      window_size: 3
-      min_games_required: 2
-      handles_imputation: true
-      priority: 4
-    roll_5g_avg_separation:
-      description: 5-game rolling average of Average separation (yards between WR
-        and nearest defender at catch)
-      source_column: plyr_gm_rec_avg_separation
-      window_size: 5
-      min_games_required: 3
-      handles_imputation: true
-      priority: 4
-    roll_3g_avg_yac:
-      description: 3-game rolling average of Average yards after catch per reception
-      source_column: plyr_gm_rec_avg_yac
-      window_size: 3
-      min_games_required: 2
-      handles_imputation: true
-      priority: 4
-    roll_5g_avg_yac:
-      description: 5-game rolling average of Average yards after catch per reception
-      source_column: plyr_gm_rec_avg_yac
-      window_size: 5
-      min_games_required: 3
-      handles_imputation: true
-      priority: 4
-    roll_3g_avg_expected_yac:
-      description: 3-game rolling average of Average expected yards after catch based
-        on situation
-      source_column: plyr_gm_rec_avg_expected_yac
-      window_size: 3
-      min_games_required: 2
-      handles_imputation: true
-      priority: 4
-    roll_5g_avg_expected_yac:
-      description: 5-game rolling average of Average expected yards after catch based
-        on situation
-      source_column: plyr_gm_rec_avg_expected_yac
-      window_size: 5
-      min_games_required: 3
-      handles_imputation: true
-      priority: 4
-    roll_3g_avg_yac_above_expectation:
-      description: 3-game rolling average of Average YAC above expectation (actual
-        - expected)
-      source_column: plyr_gm_rec_avg_yac_above_expectation
-      window_size: 3
-      min_games_required: 2
-      handles_imputation: true
-      priority: 4
-    roll_5g_avg_yac_above_expectation:
-      description: 5-game rolling average of Average YAC above expectation (actual
-        - expected)
-      source_column: plyr_gm_rec_avg_yac_above_expectation
-      window_size: 5
-      min_games_required: 3
-      handles_imputation: true
-      priority: 4
-    roll_3g_pct_share_of_intended_ay:
-      description: 3-game rolling average of Percentage share of team intended air
-        yards
-      source_column: plyr_gm_rec_pct_share_of_intended_ay
-      window_size: 3
-      min_games_required: 2
-      handles_imputation: true
-      priority: 4
-    roll_5g_pct_share_of_intended_ay:
-      description: 5-game rolling average of Percentage share of team intended air
-        yards
-      source_column: plyr_gm_rec_pct_share_of_intended_ay
-      window_size: 5
-      min_games_required: 3
-      handles_imputation: true
-      priority: 4
     roll_3g_tgt_share:
       description: 3-game rolling average of Target share (percentage of team targets)
       source_column: plyr_gm_rec_tgt_share
@@ -432,12 +330,52 @@ feature_documentation:
   metadata_features:
     game_seq_num:
       description: Game sequence number within player-season (1-indexed)
-      use_case: Track player game count, identify cold start situations
+      use_case: Track player game count within current season
+    career_game_seq_num:
+      description: Game sequence number across all seasons (1-indexed)
+      use_case: Track total career games, identify true rookies
+    days_since_last_game:
+      description: Approximate days elapsed since player last game
+      use_case: Measure staleness of rolling data, especially for cross-season carryover
+    is_season_carryover:
+      description: Boolean indicating rolling features use prior season data
+      use_case: Flag stale data for model to potentially discount
     has_min_games_3g:
-      description: Boolean indicating player has enough history for valid 3-game rolling
-        average
-      threshold: '>= 2 prior games'
+      description: Boolean indicating player has enough history for stable 3-game
+        rolling average
+      threshold: '>= 2 prior games (career-wide with carryover)'
     has_min_games_5g:
-      description: Boolean indicating player has enough history for valid 5-game rolling
-        average
-      threshold: '>= 3 prior games'
+      description: Boolean indicating player has enough history for stable 5-game
+        rolling average
+      threshold: '>= 3 prior games (career-wide with carryover)'
+  rolling_efficiency_features:
+    roll_3g_yds_per_tgt:
+      description: 3-game rolling yards per target (cross-season safe)
+      formula: roll_3g_yds / roll_3g_tgt
+      handles_division_by_zero: true
+      cross_season_safe: true
+    roll_3g_yds_per_rec:
+      description: 3-game rolling yards per reception (cross-season safe)
+      formula: roll_3g_yds / roll_3g_rec
+      handles_division_by_zero: true
+      cross_season_safe: true
+    roll_3g_catch_rate:
+      description: 3-game rolling catch rate (cross-season safe)
+      formula: roll_3g_rec / roll_3g_tgt
+      handles_division_by_zero: true
+      cross_season_safe: true
+    roll_5g_yds_per_tgt:
+      description: 5-game rolling yards per target (cross-season safe)
+      formula: roll_5g_yds / roll_5g_tgt
+      handles_division_by_zero: true
+      cross_season_safe: true
+    roll_5g_yds_per_rec:
+      description: 5-game rolling yards per reception (cross-season safe)
+      formula: roll_5g_yds / roll_5g_rec
+      handles_division_by_zero: true
+      cross_season_safe: true
+    roll_5g_catch_rate:
+      description: 5-game rolling catch rate (cross-season safe)
+      formula: roll_5g_rec / roll_5g_tgt
+      handles_division_by_zero: true
+      cross_season_safe: true
