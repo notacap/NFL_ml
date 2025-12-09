@@ -1,1093 +1,1039 @@
 """
-Rolling Feature Builder for NFL WR Receiving Yards Prediction
+NFL Receiving Yards Dataset Builder
 
-This module implements rolling average and efficiency features for predicting
-next-week receiving yards using Random Forest regression.
+This script builds a high-quality dataset for training a random forest model to predict 
+NFL player receiving yards for the following week. It implements strict temporal integrity 
+to prevent data leakage and creates properly aligned features and targets.
 
-Key Design Principles:
-1. All rolling calculations are GAME-INDEXED (not week-indexed)
-2. Rolling windows use ONLY PRIOR games (no future data leakage)
-3. -999 imputed values are EXCLUDED from rolling calculations
-4. Cross-season carryover: Rolling windows carry forward from prior season
-   (reduces cold-start nulls for returning players)
-5. Expanding window fallback: Uses all available prior games when insufficient
-   history exists for full rolling window
-6. Staleness indicators track when using cross-season data
+TEMPORAL ALIGNMENT STRATEGY:
+============================
+When predicting Week N+1 receiving yards, each row contains:
 
-Note: NaN imputation is handled separately in the imputation module.
+1. HISTORICAL FEATURES (from Week N - the "current" row):
+   - plyr_gm_rec_* : Game-level stats from Week N (what they just did)
+   - plyr_rec_*    : Season cumulative stats through Week N
+   - Snap counts, advanced metrics from Week N
+   
+2. UPCOMING GAME CONTEXT (from Week N+1 - shifted forward):
+   - next_opponent_team_id : Who they will face in Week N+1
+   - next_is_home_game     : Home/away for Week N+1
+   - next_game_id          : Game ID for Week N+1 (for future joins)
 
-Author: Claude Code
-Created: 2024-11-25
-Updated: 2024-12-04 - Added cross-season carryover and expanding window strategies
+3. TARGET VARIABLE:
+   - next_week_rec_yds : Receiving yards in Week N+1
+
+This allows the model to learn matchup effects (e.g., WR vs weak pass defense)
+while maintaining strict temporal integrity (no future performance data leakage).
+
 """
 
+import os
+import sys
+import logging
 import pandas as pd
 import numpy as np
-from typing import List, Dict, Optional, Tuple
+import pyarrow.parquet as pq
+import yaml
 from pathlib import Path
-import logging
+from datetime import datetime
+from typing import Dict, List, Tuple, Optional
 import warnings
+
+# Add project root to path for imports
+project_root = Path(__file__).parent.parent.parent
+sys.path.append(str(project_root))
 
 warnings.filterwarnings('ignore')
 
-# Configure logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
-
-
-# =============================================================================
-# CONSTANTS AND CONFIGURATION
-# =============================================================================
-
-# Imputation sentinel value - NEVER include in calculations
-IMPUTATION_SENTINEL = -999
-
-# Rolling window sizes based on EDA recommendations
-ROLLING_WINDOWS = [3, 5]
-
-# Minimum games required before rolling average is considered "fully valid"
-# With cross-season carryover and expanding windows, we still create rolling
-# features for fewer games, but these flags indicate confidence level
-MIN_GAMES_FOR_VALID_ROLLING = {
-    3: 2,  # 3-game rolling ideally needs 2 prior games for stability
-    5: 3,  # 5-game rolling ideally needs 3 prior games for stability
-}
-
-# Cross-season carryover configuration
-CROSS_SEASON_CARRYOVER_ENABLED = True  # Enable carrying forward prior season data
-MAX_CARRYOVER_GAMES = 5  # Maximum games to carry from prior season
-
-# Player identifier for cross-season tracking
-# plyr_id is season-specific, plyr_guid is persistent across seasons
-CROSS_SEASON_PLAYER_ID = 'plyr_guid'  # Use plyr_guid for cross-season matching
-
-# Features to create rolling averages for (Priority 5 from EDA)
-ROLLING_FEATURE_CONFIGS = {
-    # Game-level stats (plyr_gm_rec_*)
-    'plyr_gm_rec_yds': {
-        'description': 'Receiving yards per game',
-        'has_imputation': False,
-        'priority': 5
-    },
-    'plyr_gm_rec_tgt': {
-        'description': 'Targets per game',
-        'has_imputation': False,
-        'priority': 5
-    },
-    'plyr_gm_rec': {
-        'description': 'Receptions per game',
-        'has_imputation': False,
-        'priority': 5
-    },
-    'plyr_gm_rec_yac': {
-        'description': 'Yards after catch per game',
-        'has_imputation': False,
-        'priority': 5
-    },
-    'plyr_gm_rec_first_dwn': {
-        'description': 'First downs per game',
-        'has_imputation': True,  # Has -999 values (7.07%)
-        'priority': 4
-    },
-    'plyr_gm_rec_aybc': {
-        'description': 'Air yards before catch per game',
-        'has_imputation': False,
-        'priority': 4
-    },
-    'plyr_gm_rec_td': {
-        'description': 'Touchdowns per game',
-        'has_imputation': False,
-        'priority': 4
-    },
-    # NFL FastR advanced metrics (plyr_gm_rec_*)
-    # Note: The following columns were removed due to excessive null values (5500+):
-    # - plyr_gm_rec_avg_cushion, plyr_gm_rec_avg_separation, plyr_gm_rec_avg_yac,
-    # - plyr_gm_rec_avg_expected_yac, plyr_gm_rec_avg_yac_above_expectation,
-    # - plyr_gm_rec_pct_share_of_intended_ay
-    'plyr_gm_rec_tgt_share': {
-        'description': 'Target share (percentage of team targets)',
-        'has_imputation': True,
-        'priority': 5
-    },
-    'plyr_gm_rec_epa': {
-        'description': 'Expected points added from receptions',
-        'has_imputation': True,
-        'priority': 4
-    },
-    'plyr_gm_rec_ay_share': {
-        'description': 'Air yards share (percentage of team air yards)',
-        'has_imputation': True,
-        'priority': 4
-    },
-    'plyr_gm_rec_wopr': {
-        'description': 'Weighted Opportunity Rating (1.5*tgt_share + 0.7*ay_share)',
-        'has_imputation': True,
-        'priority': 5
-    },
-    'plyr_gm_rec_racr': {
-        'description': 'Receiver Air Conversion Ratio (rec_yds / air_yds)',
-        'has_imputation': True,
-        'priority': 4
-    },
-}
-
-# Rolling efficiency features computed from game-level rolling averages
-# These are safe for cross-season calculations
-ROLLING_EFFICIENCY_CONFIGS = {
-    'yds_per_tgt': {
-        'description': 'Yards per target (rolling efficiency)',
-        'numerator': 'yds',      # Will be prefixed with roll_Xg_
-        'denominator': 'tgt',    # Will be prefixed with roll_Xg_
-    },
-    'yds_per_rec': {
-        'description': 'Yards per reception (rolling efficiency)',
-        'numerator': 'yds',
-        'denominator': 'rec',
-    },
-    'catch_rate': {
-        'description': 'Catch rate (rolling efficiency)',
-        'numerator': 'rec',
-        'denominator': 'tgt',
-    },
-}
-
-
-# =============================================================================
-# UTILITY FUNCTIONS
-# =============================================================================
-
-def mask_imputed_values(series: pd.Series, sentinel: float = IMPUTATION_SENTINEL) -> pd.Series:
+class NFLDatasetBuilder:
     """
-    Replace imputed sentinel values with NaN for exclusion from calculations.
-
-    Args:
-        series: Pandas series containing potentially imputed values
-        sentinel: The sentinel value used for imputation (default: -999)
-
-    Returns:
-        Series with sentinel values replaced by NaN
+    Builds NFL receiving yards prediction dataset with temporal integrity.
     """
-    return series.replace(sentinel, np.nan)
-
-
-def validate_no_future_leakage(df: pd.DataFrame, feature_col: str,
-                               target_col: str = 'next_week_rec_yds') -> bool:
-    """
-    Validate that a feature column does not contain future information.
-
-    The feature for week N should only use data from weeks < N.
-
-    Args:
-        df: DataFrame with features and target
-        feature_col: Name of feature column to validate
-        target_col: Name of target column
-
-    Returns:
-        True if no leakage detected, False otherwise
-    """
-    # For each player-season, verify feature at week N doesn't correlate
-    # suspiciously with target (which is week N+1 yards)
-    # A very high correlation (>0.8) might indicate leakage
-
-    correlation = df[feature_col].corr(df[target_col])
-
-    if abs(correlation) > 0.8:
-        logger.warning(
-            f"Potential data leakage detected: {feature_col} has correlation "
-            f"{correlation:.3f} with target. Please investigate."
-        )
-        return False
-
-    return True
-
-
-def get_game_sequence_number(df: pd.DataFrame) -> pd.Series:
-    """
-    Calculate game sequence number for each player within each season.
-
-    This is GAME-INDEXED, not week-indexed, handling cases where players
-    miss games (injuries, bye weeks, etc.).
-
-    Args:
-        df: DataFrame sorted by plyr_id, season_id, week_id
-
-    Returns:
-        Series with game sequence numbers (1-indexed)
-    """
-    return df.groupby(['plyr_id', 'season_id']).cumcount() + 1
-
-
-def get_career_game_sequence_number(df: pd.DataFrame) -> pd.Series:
-    """
-    Calculate game sequence number for each player across ALL seasons.
-
-    Uses plyr_guid (persistent ID) instead of plyr_id (season-specific ID)
-    to properly track career games across season boundaries.
-
-    Args:
-        df: DataFrame sorted by plyr_guid, season_id, week_id
-
-    Returns:
-        Series with career game sequence numbers (1-indexed)
-    """
-    player_col = CROSS_SEASON_PLAYER_ID if CROSS_SEASON_PLAYER_ID in df.columns else 'plyr_id'
-    return df.groupby(player_col).cumcount() + 1
-
-
-def calculate_days_since_last_game(df: pd.DataFrame) -> pd.Series:
-    """
-    Calculate days elapsed since player's last game.
-
-    Useful for identifying cross-season gaps and staleness of rolling data.
-    Requires 'game_date' or similar date column, or approximates from week/season.
-
-    Args:
-        df: DataFrame sorted by plyr_id, season_id, week_id
-
-    Returns:
-        Series with days since last game (NaN for first game)
-    """
-    # Create approximate game date from season and week
-    # Assuming season starts around week 1 of September
-    # Each week is ~7 days apart
-    if 'year' in df.columns and 'week_num' in df.columns:
-        # Approximate: Season starts Sept 1, each week adds 7 days
-        approx_date = pd.to_datetime(
-            df['year'].astype(str) + '-09-01'
-        ) + pd.to_timedelta(df['week_num'] * 7, unit='D')
-    elif 'season_id' in df.columns and 'week_id' in df.columns:
-        # Fallback: use sequential numbering
-        # This won't give actual days but will flag cross-season gaps
-        approx_date = df['season_id'] * 100 + df['week_id']
-        approx_date = pd.to_datetime('2020-01-01') + pd.to_timedelta(approx_date, unit='D')
-    else:
-        logger.warning("Cannot calculate days_since_last_game: missing date columns")
-        return pd.Series(np.nan, index=df.index)
-
-    # Calculate days since previous game for each player (using persistent ID)
-    player_col = CROSS_SEASON_PLAYER_ID if CROSS_SEASON_PLAYER_ID in df.columns else 'plyr_id'
-    days_since = approx_date.groupby(df[player_col]).diff().dt.days
-
-    return days_since
-
-
-def identify_season_carryover(df: pd.DataFrame) -> pd.Series:
-    """
-    Identify rows where rolling features use cross-season data.
-
-    A row is marked as using carryover if:
-    - It's in the first few games of a season (game_seq_num <= window size)
-    - The player has prior season data
-
-    Args:
-        df: DataFrame with game_seq_num and career_game_seq_num columns
-
-    Returns:
-        Boolean series (True = using cross-season carryover data)
-    """
-    if 'game_seq_num' not in df.columns or 'career_game_seq_num' not in df.columns:
-        logger.warning("Cannot identify carryover: missing sequence columns")
-        return pd.Series(False, index=df.index)
-
-    # Using carryover if: early in season AND have prior career games
-    max_window = max(ROLLING_WINDOWS)
-    is_early_season = df['game_seq_num'] <= max_window
-    has_prior_seasons = df['career_game_seq_num'] > df['game_seq_num']
-
-    return is_early_season & has_prior_seasons
-
-
-# =============================================================================
-# ROLLING FEATURE FUNCTIONS
-# =============================================================================
-
-def calculate_rolling_average_single_stat(
-    df: pd.DataFrame,
-    stat_col: str,
-    window: int,
-    exclude_imputed: bool = True,
-    cross_season_carryover: bool = True
-) -> pd.Series:
-    """
-    Calculate rolling average for a single statistic, handling edge cases.
-
-    Edge Case Handling:
-    - Cross-season carryover: Windows carry forward from prior season (if enabled)
-    - Expanding window fallback: Uses all available prior games when < window games exist
-    - Injury gaps: Uses game-based windows (not calendar-based)
-    - Imputed nulls: -999 values excluded from calculations
-    - Cold start: Only truly new players (rookies) have NaN for first game
-
-    CRITICAL: Uses shift(1) to ensure only PRIOR games are included.
-    The rolling window looks at games [N-window, N-1], NOT including game N.
-
-    Args:
-        df: DataFrame sorted by plyr_id, season_id, week_id
-        stat_col: Name of statistic column
-        window: Rolling window size (number of games)
-        exclude_imputed: Whether to exclude -999 values (default: True)
-        cross_season_carryover: Whether to carry data across seasons (default: True)
-
-    Returns:
-        Series with rolling averages
-    """
-    # Create a copy of the stat column
-    stat_series = df[stat_col].copy()
-
-    # Mask imputed values if required
-    if exclude_imputed:
-        stat_series = mask_imputed_values(stat_series)
-
-    if cross_season_carryover and CROSS_SEASON_CARRYOVER_ENABLED:
-        # Cross-season carryover: Group by persistent player ID (plyr_guid)
-        # This allows rolling windows to span season boundaries
-        # IMPORTANT: We shift by 1 BEFORE rolling to ensure we only use prior games
-        player_col = CROSS_SEASON_PLAYER_ID if CROSS_SEASON_PLAYER_ID in df.columns else 'plyr_id'
-        rolling_avg = (
-            df.assign(_stat_shifted=stat_series.groupby(df[player_col]).shift(1))
-            .groupby(player_col)['_stat_shifted']
-            .transform(lambda x: x.rolling(window=window, min_periods=1).mean())
-        )
-    else:
-        # Original behavior: Reset at season boundaries
-        # Calculate rolling mean within each player-season
-        rolling_avg = (
-            df.assign(_stat_shifted=stat_series.groupby([df['plyr_id'], df['season_id']]).shift(1))
-            .groupby(['plyr_id', 'season_id'])['_stat_shifted']
-            .transform(lambda x: x.rolling(window=window, min_periods=1).mean())
-        )
-
-    return rolling_avg
-
-
-def build_rolling_features(
-    df: pd.DataFrame,
-    stat_cols: List[str] = None,
-    windows: List[int] = None,
-    exclude_imputed: bool = True,
-    cross_season_carryover: bool = True
-) -> pd.DataFrame:
-    """
-    Build rolling average features for multiple statistics and window sizes.
-
-    This function creates game-indexed rolling averages that:
-    - Carry forward from prior seasons (cross-season carryover)
-    - Use expanding windows when insufficient history exists
-    - Exclude -999 imputed values from calculations
-    - Use only PRIOR games (no future leakage)
-    - Track staleness indicators for cross-season data
-
-    Args:
-        df: DataFrame with player game stats
-        stat_cols: List of statistic columns to create rolling features for
-                   If None, uses default ROLLING_FEATURE_CONFIGS
-        windows: List of window sizes (default: [3, 5])
-        exclude_imputed: Whether to exclude -999 values (default: True)
-        cross_season_carryover: Whether to carry data across seasons (default: True)
-
-    Returns:
-        DataFrame with original columns plus new rolling features
-    """
-    if stat_cols is None:
-        stat_cols = list(ROLLING_FEATURE_CONFIGS.keys())
-
-    if windows is None:
-        windows = ROLLING_WINDOWS
-
-    # Validate required columns exist
-    required_cols = ['plyr_id', 'season_id', 'week_id'] + stat_cols
-    missing_cols = set(required_cols) - set(df.columns)
-    if missing_cols:
-        raise ValueError(f"Missing required columns: {missing_cols}")
-
-    # Create copy of DataFrame to avoid modifying original
-    result_df = df.copy()
-
-    # Determine player ID column for cross-season tracking
-    player_col = CROSS_SEASON_PLAYER_ID if (cross_season_carryover and CROSS_SEASON_PLAYER_ID in df.columns) else 'plyr_id'
-
-    # Sort by temporal order for correct rolling calculations
-    # Use persistent player ID (plyr_guid) for cross-season carryover
-    result_df = result_df.sort_values([player_col, 'season_id', 'week_id']).reset_index(drop=True)
-
-    # Add game sequence numbers
-    result_df['game_seq_num'] = get_game_sequence_number(result_df)
-    result_df['career_game_seq_num'] = get_career_game_sequence_number(result_df)
-
-    # Add staleness indicators
-    result_df['days_since_last_game'] = calculate_days_since_last_game(result_df)
-    result_df['is_season_carryover'] = identify_season_carryover(result_df)
-
-    features_created = ['career_game_seq_num', 'days_since_last_game', 'is_season_carryover']
-
-    # Log carryover statistics
-    if cross_season_carryover:
-        carryover_count = result_df['is_season_carryover'].sum()
-        total_count = len(result_df)
-        logger.info(f"Cross-season carryover enabled: {carryover_count}/{total_count} rows ({carryover_count/total_count*100:.1f}%) use prior season data")
-
-    for stat_col in stat_cols:
-        if stat_col not in result_df.columns:
-            logger.warning(f"Column {stat_col} not found in DataFrame, skipping")
-            continue
-
-        # Check if this column has imputation
-        has_imputation = ROLLING_FEATURE_CONFIGS.get(stat_col, {}).get('has_imputation', False)
-
-        for window in windows:
-            # Generate feature name
-            feature_name = f"roll_{window}g_{stat_col.replace('plyr_gm_rec_', '').replace('plyr_gm_', '')}"
-
-            logger.info(f"Creating rolling feature: {feature_name}")
-
-            # Calculate rolling average with cross-season carryover
-            result_df[feature_name] = calculate_rolling_average_single_stat(
-                result_df,
-                stat_col,
-                window,
-                exclude_imputed=(exclude_imputed and has_imputation),
-                cross_season_carryover=cross_season_carryover
-            )
-
-            features_created.append(feature_name)
-
-            # Log imputation handling
-            if has_imputation:
-                imputed_count = (df[stat_col] == IMPUTATION_SENTINEL).sum()
-                logger.info(f"  {stat_col}: {imputed_count} imputed values excluded from rolling calc")
-
-    # Add minimum games indicators for cold start handling
-    # With carryover, these now check career games, not just season games
-    for window in windows:
-        min_games_col = f"has_min_games_{window}g"
-        min_required = MIN_GAMES_FOR_VALID_ROLLING.get(window, window - 1)
-        if cross_season_carryover:
-            # Check career game count (includes prior seasons)
-            result_df[min_games_col] = result_df['career_game_seq_num'] > min_required
-        else:
-            # Original behavior: check season game count only
-            result_df[min_games_col] = result_df['game_seq_num'] > min_required
-        features_created.append(min_games_col)
-
-    logger.info(f"Created {len(features_created)} rolling features: {features_created}")
-
-    return result_df
-
-
-# =============================================================================
-# EFFICIENCY RATIO FEATURES
-# =============================================================================
-
-def build_efficiency_features(df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Build efficiency ratio features from season cumulative statistics.
-
-    These features normalize cumulative stats by games played and provide
-    efficiency metrics that are less volatile than single-game stats.
-
-    Features created:
-    - season_targets_per_game: plyr_rec_tgt / plyr_rec_gm
-    - season_yards_per_game: plyr_rec_yds / plyr_rec_gm
-    - yards_per_reception: plyr_rec_yds / plyr_rec
-    - yards_per_target: plyr_rec_yds / plyr_rec_tgt
-
-    Edge Case Handling:
-    - Division by zero: Returns NaN (handled by model or imputation later)
-    - -999 values: Checks numerator/denominator, returns NaN if imputed
-
-    Args:
-        df: DataFrame with season cumulative stats
-
-    Returns:
-        DataFrame with original columns plus efficiency features
-    """
-    result_df = df.copy()
-
-    features_created = []
-
-    # Season targets per game
-    # Normalized target volume by games played
-    if 'plyr_rec_tgt' in df.columns and 'plyr_rec_gm' in df.columns:
-        result_df['season_targets_per_game'] = np.where(
-            (result_df['plyr_rec_gm'] > 0) &
-            (result_df['plyr_rec_tgt'] != IMPUTATION_SENTINEL) &
-            (result_df['plyr_rec_gm'] != IMPUTATION_SENTINEL),
-            result_df['plyr_rec_tgt'] / result_df['plyr_rec_gm'],
-            np.nan
-        )
-        features_created.append('season_targets_per_game')
-        logger.info("Created season_targets_per_game")
-
-    # Season yards per game
-    # Normalized cumulative yards by games played
-    if 'plyr_rec_yds' in df.columns and 'plyr_rec_gm' in df.columns:
-        result_df['season_yards_per_game'] = np.where(
-            (result_df['plyr_rec_gm'] > 0) &
-            (result_df['plyr_rec_yds'] != IMPUTATION_SENTINEL) &
-            (result_df['plyr_rec_gm'] != IMPUTATION_SENTINEL),
-            result_df['plyr_rec_yds'] / result_df['plyr_rec_gm'],
-            np.nan
-        )
-        features_created.append('season_yards_per_game')
-        logger.info("Created season_yards_per_game")
-
-    # Yards per reception
-    # Big-play ability indicator
-    if 'plyr_rec_yds' in df.columns and 'plyr_rec' in df.columns:
-        result_df['yards_per_reception'] = np.where(
-            (result_df['plyr_rec'] > 0) &
-            (result_df['plyr_rec_yds'] != IMPUTATION_SENTINEL) &
-            (result_df['plyr_rec'] != IMPUTATION_SENTINEL),
-            result_df['plyr_rec_yds'] / result_df['plyr_rec'],
-            np.nan
-        )
-        features_created.append('yards_per_reception')
-        logger.info("Created yards_per_reception")
-
-    # Yards per target
-    # Overall efficiency metric
-    if 'plyr_rec_yds' in df.columns and 'plyr_rec_tgt' in df.columns:
-        result_df['yards_per_target'] = np.where(
-            (result_df['plyr_rec_tgt'] > 0) &
-            (result_df['plyr_rec_yds'] != IMPUTATION_SENTINEL) &
-            (result_df['plyr_rec_tgt'] != IMPUTATION_SENTINEL),
-            result_df['plyr_rec_yds'] / result_df['plyr_rec_tgt'],
-            np.nan
-        )
-        features_created.append('yards_per_target')
-        logger.info("Created yards_per_target")
-
-    logger.info(f"Created {len(features_created)} efficiency features: {features_created}")
-
-    return result_df
-
-
-def build_rolling_efficiency_features(
-    df: pd.DataFrame,
-    windows: List[int] = None
-) -> pd.DataFrame:
-    """
-    Build efficiency features from game-level rolling averages.
-
-    These features are safe for cross-season calculations because they're
-    computed from per-game normalized statistics that share the same
-    temporal window.
-
-    MUST be called AFTER build_rolling_features() which creates the
-    base rolling averages (roll_Xg_yds, roll_Xg_tgt, roll_Xg_rec, etc.)
-
-    Args:
-        df: DataFrame with rolling average features already computed
-        windows: Rolling window sizes to compute efficiency for (default: [3, 5])
-
-    Returns:
-        DataFrame with rolling efficiency features added
-
-    Features created (for each window size):
-        - roll_Xg_yds_per_tgt: Rolling yards per target
-        - roll_Xg_yds_per_rec: Rolling yards per reception
-        - roll_Xg_catch_rate: Rolling catch rate (receptions / targets)
-    """
-    if windows is None:
-        windows = ROLLING_WINDOWS
-
-    result_df = df.copy()
-    features_created = []
-
-    for window in windows:
-        prefix = f'roll_{window}g'
-
-        # Define source columns (match naming convention from build_rolling_features)
-        yds_col = f'{prefix}_yds'
-        tgt_col = f'{prefix}_tgt'
-        rec_col = f'{prefix}_rec'
-
-        # Yards per target (rolling efficiency)
-        if yds_col in result_df.columns and tgt_col in result_df.columns:
-            feature_name = f'{prefix}_yds_per_tgt'
-            result_df[feature_name] = np.where(
-                result_df[tgt_col] > 0,
-                result_df[yds_col] / result_df[tgt_col],
-                np.nan
-            )
-            features_created.append(feature_name)
-            logger.info(f"Created {feature_name}")
-
-        # Yards per reception (rolling efficiency)
-        if yds_col in result_df.columns and rec_col in result_df.columns:
-            feature_name = f'{prefix}_yds_per_rec'
-            result_df[feature_name] = np.where(
-                result_df[rec_col] > 0,
-                result_df[yds_col] / result_df[rec_col],
-                np.nan
-            )
-            features_created.append(feature_name)
-            logger.info(f"Created {feature_name}")
-
-        # Catch rate (rolling efficiency)
-        if rec_col in result_df.columns and tgt_col in result_df.columns:
-            feature_name = f'{prefix}_catch_rate'
-            result_df[feature_name] = np.where(
-                result_df[tgt_col] > 0,
-                result_df[rec_col] / result_df[tgt_col],
-                np.nan
-            )
-            features_created.append(feature_name)
-            logger.info(f"Created {feature_name}")
-
-    logger.info(f"Created {len(features_created)} rolling efficiency features: {features_created}")
-
-    return result_df
-
-
-# =============================================================================
-# MAIN FEATURE BUILDER CLASS
-# =============================================================================
-
-class RollingFeatureBuilder:
-    """
-    Main class for building rolling and efficiency features.
-
-    This class provides a complete pipeline for feature engineering with:
-    - Proper edge case handling
-    - Validation and logging
-    - Configurable feature sets
-    - Output to parquet format
-
-    Usage:
-        builder = RollingFeatureBuilder()
-        result_df = builder.build_features(input_df)
-        builder.save_dataset(result_df, output_path)
-    """
-
-    def __init__(
-        self,
-        rolling_windows: List[int] = None,
-        rolling_stat_cols: List[str] = None,
-        exclude_imputed: bool = True,
-        validate_leakage: bool = True,
-        cross_season_carryover: bool = True
-    ):
+    
+    def __init__(self, config_dir: str = None):
         """
-        Initialize the feature builder.
-
+        Initialize dataset builder with configuration.
+        
         Args:
-            rolling_windows: Window sizes for rolling features (default: [3, 5])
-            rolling_stat_cols: Statistics to create rolling features for
-            exclude_imputed: Whether to exclude -999 from rolling calculations
-            validate_leakage: Whether to validate for data leakage
-            cross_season_carryover: Whether to carry forward prior season data (default: True)
+            config_dir: Directory containing configuration files
         """
-        self.rolling_windows = rolling_windows or ROLLING_WINDOWS
-        self.rolling_stat_cols = rolling_stat_cols or list(ROLLING_FEATURE_CONFIGS.keys())
-        self.exclude_imputed = exclude_imputed
-        self.validate_leakage = validate_leakage
-        self.cross_season_carryover = cross_season_carryover
-
-        self.features_created = []
+        self.config_dir = config_dir or str(project_root / "configs")
+        self.project_root = project_root
+        
+        # Load configurations
+        self.data_config = self._load_config("data_config.yaml")
+        self.paths_config = self._load_config("paths.yaml")
+        
+        # Set up paths
+        self.base_data_path = Path(self.paths_config["data"]["source"])
+        self.output_path = project_root / self.paths_config["data"]["processed"]
+        self.output_path.mkdir(parents=True, exist_ok=True)
+        
+        # Set up logging
+        self._setup_logging()
+        
+        # Data validation tracking
         self.validation_results = {}
-
-    def build_features(self, df: pd.DataFrame) -> pd.DataFrame:
+        
+    def _load_config(self, filename: str) -> Dict:
+        """Load YAML configuration file."""
+        config_path = Path(self.config_dir) / filename
+        try:
+            with open(config_path, 'r') as f:
+                return yaml.safe_load(f)
+        except Exception as e:
+            raise FileNotFoundError(f"Could not load config file {config_path}: {e}")
+    
+    def _setup_logging(self):
+        """Set up logging configuration."""
+        log_format = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+        logging.basicConfig(
+            level=logging.INFO,
+            format=log_format,
+            handlers=[
+                logging.FileHandler(self.output_path / f'dataset_build_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'),
+                logging.StreamHandler(sys.stdout)
+            ]
+        )
+        self.logger = logging.getLogger(__name__)
+        self.logger.info("NFL Dataset Builder initialized")
+        
+    def _get_table_path(self, table_name: str) -> Path:
+        """Get full path to parquet table."""
+        table_mapping = {
+            'plyr_gm_rec': 'plyr_gm/plyr_gm_rec',
+            'plyr_rec': 'plyr_szn/plyr_rec',
+            'plyr_gm_snap_ct': 'plyr_gm/plyr_gm_snap_ct',
+            'nfl_fastr_wr': 'plyr_gm/nfl_fastr_wr',
+            'plyr': 'players/plyr',
+            'plyr_master': 'plyr_master.parquet',
+            'nfl_week': 'static/nfl_week',
+            'nfl_season': 'nfl_season.parquet',
+            'multi_tm_plyr': 'players/multi_tm_plyr',
+            'nfl_game': 'gm_info/nfl_game'
+        }
+        
+        if table_name not in table_mapping:
+            raise ValueError(f"Unknown table: {table_name}")
+            
+        return self.base_data_path / table_mapping[table_name]
+    
+    def _load_partitioned_table(self, table_name: str, seasons: List[int] = None, 
+                              weeks: List[int] = None) -> pd.DataFrame:
         """
-        Build all features on the input DataFrame.
+        Load partitioned parquet table with optional season/week filtering.
+        
+        Args:
+            table_name: Name of table to load
+            seasons: List of seasons to include (None for all)
+            weeks: List of weeks to include (None for all)
+            
+        Returns:
+            DataFrame with loaded data
+        """
+        table_path = self._get_table_path(table_name)
+        
+        if not table_path.exists():
+            raise FileNotFoundError(f"Table path does not exist: {table_path}")
+        
+        # Handle non-partitioned tables
+        if table_path.suffix == '.parquet':
+            self.logger.info(f"Loading non-partitioned table: {table_name}")
+            return pd.read_parquet(table_path)
+        
+        # Load partitioned tables
+        dfs = []
+        seasons_to_load = seasons or self.data_config['temporal']['historical_seasons'] + [self.data_config['temporal']['current_season']]
+        
+        for season in seasons_to_load:
+            season_path = table_path / f"season={season}"
+            
+            if not season_path.exists():
+                self.logger.warning(f"Season {season} not found for table {table_name}")
+                continue
+            
+            # For season-only partitioned tables (no week sub-partitions)
+            if table_name in ['plyr', 'nfl_week', 'multi_tm_plyr']:
+                season_df = pd.read_parquet(season_path)
+                # Only add season_id if not already present (multi_tm_plyr has it in the data)
+                if 'season_id' not in season_df.columns:
+                    season_df['season_id'] = season
+                dfs.append(season_df)
+                continue
+            
+            # For season/week partitioned tables  
+            if any(week_dir.is_dir() and week_dir.name.startswith('week=') 
+                   for week_dir in season_path.iterdir() if week_dir.is_dir()):
+                # Load all weeks for the season
+                for week_dir in season_path.iterdir():
+                    if week_dir.is_dir() and week_dir.name.startswith('week='):
+                        week_num = int(week_dir.name.split('=')[1])
+                        if weeks is None or week_num in weeks:
+                            try:
+                                week_df = pd.read_parquet(week_dir)
+                                # Only add season_id and week_id if they're not already present
+                                if 'season_id' not in week_df.columns:
+                                    week_df['season_id'] = season
+                                if 'week_id' not in week_df.columns:
+                                    week_df['week_id'] = week_num
+                                dfs.append(week_df)
+                            except Exception as e:
+                                self.logger.warning(f"Could not load {table_name} season={season} week={week_num}: {e}")
+            else:
+                # Load all weeks for the season for other tables
+                for week_dir in season_path.iterdir():
+                    if week_dir.is_dir() and week_dir.name.startswith('week='):
+                        week_num = int(week_dir.name.split('=')[1])
+                        if weeks is None or week_num in weeks:
+                            try:
+                                week_df = pd.read_parquet(week_dir)
+                                week_df['season_id'] = season
+                                week_df['week_id'] = week_num
+                                dfs.append(week_df)
+                            except Exception as e:
+                                self.logger.warning(f"Could not load {table_name} season={season} week={week_num}: {e}")
+        
+        if not dfs:
+            raise ValueError(f"No data found for table {table_name}")
+        
+        result_df = pd.concat(dfs, ignore_index=True)
+        self.logger.info(f"Loaded {table_name}: {len(result_df):,} rows across {len(dfs)} partitions")
+        
+        return result_df
+    
+    def _validate_data(self, df: pd.DataFrame, stage_name: str, 
+                      required_columns: List[str] = None) -> pd.DataFrame:
+        """
+        Validate DataFrame at processing stage.
+        
+        Args:
+            df: DataFrame to validate
+            stage_name: Name of processing stage
+            required_columns: List of required columns
+            
+        Returns:
+            Validated DataFrame
+        """
+        self.logger.info(f"Validating data at stage: {stage_name}")
+        
+        # Basic validation
+        if df.empty:
+            raise ValueError(f"DataFrame is empty at stage: {stage_name}")
+        
+        # Check for required columns
+        if required_columns:
+            missing_cols = set(required_columns) - set(df.columns)
+            if missing_cols:
+                raise ValueError(f"Missing required columns at {stage_name}: {missing_cols}")
+        
+        # Check for duplicates in key columns if they exist
+        key_cols = []
+        potential_keys = ['plyr_id', 'season_id', 'week_id', 'game_id']
+        for col in potential_keys:
+            if col in df.columns:
+                key_cols.append(col)
+        
+        if key_cols:
+            duplicates = df.duplicated(subset=key_cols).sum()
+            if duplicates > 0:
+                self.logger.warning(f"Found {duplicates} duplicates in key columns {key_cols} at {stage_name}")
+        
+        # Store validation results
+        self.validation_results[stage_name] = {
+            'rows': len(df),
+            'columns': len(df.columns),
+            'nulls_by_column': df.isnull().sum().to_dict(),
+            'duplicates': duplicates if key_cols else 0
+        }
+        
+        self.logger.info(f"Stage {stage_name}: {len(df):,} rows, {len(df.columns)} columns")
+        
+        return df
+    
+    def load_base_tables(self) -> Dict[str, pd.DataFrame]:
+        """
+        Load all required base tables.
+        
+        Returns:
+            Dictionary of loaded DataFrames
+        """
+        self.logger.info("Loading base tables...")
+        
+        tables = {}
+        
+        # Load main tables
+        tables['plyr_gm_rec'] = self._load_partitioned_table('plyr_gm_rec')
+        tables['plyr_rec'] = self._load_partitioned_table('plyr_rec')
+        tables['plyr_gm_snap_ct'] = self._load_partitioned_table('plyr_gm_snap_ct')
+        tables['nfl_fastr_wr'] = self._load_partitioned_table('nfl_fastr_wr')
+        tables['plyr'] = self._load_partitioned_table('plyr')
+        tables['plyr_master'] = self._load_partitioned_table('plyr_master')
+        tables['nfl_week'] = self._load_partitioned_table('nfl_week')
+        tables['nfl_season'] = self._load_partitioned_table('nfl_season')
+        tables['multi_tm_plyr'] = self._load_partitioned_table('multi_tm_plyr')
+        tables['nfl_game'] = self._load_partitioned_table('nfl_game')
+
+        # Validate each table
+        for table_name, df in tables.items():
+            self._validate_data(df, f"load_{table_name}")
+        
+        return tables
+    
+    def _create_temporal_joins(self, tables: Dict[str, pd.DataFrame]) -> pd.DataFrame:
+        """
+        Join all tables with proper temporal alignment.
+        
+        Args:
+            tables: Dictionary of loaded tables
+            
+        Returns:
+            Joined DataFrame
+        """
+        self.logger.info("Creating temporal joins...")
+        
+        # Start with player game receiving stats as base table
+        # Exclude plyr_gm_rec_brkn_tkl_rec column
+        plyr_gm_rec_cols = [col for col in tables['plyr_gm_rec'].columns
+                           if col != 'plyr_gm_rec_brkn_tkl_rec']
+        base_df = tables['plyr_gm_rec'][plyr_gm_rec_cols].copy()
+        self._validate_data(base_df, "base_plyr_gm_rec",
+                           required_columns=['plyr_id', 'season_id', 'week_id', 'plyr_gm_rec_yds'])
+        
+        # Join with player season receiving stats
+        # Exclude columns that are inconsistently available or specified for removal:
+        # - plyr_rec_aybc_route, plyr_rec_succ_rt, plyr_rec_yac_route (per prompt)
+        # - game_count (not present in week 18 or 2025 data)
+        plyr_rec = tables['plyr_rec'][['plyr_id', 'season_id', 'week_id'] +
+                                     [col for col in tables['plyr_rec'].columns
+                                      if col not in ['plyr_id', 'season_id', 'week_id',
+                                                   'plyr_rec_aybc_route', 'plyr_rec_succ_rt', 'plyr_rec_yac_route',
+                                                   'game_count']]]
+        
+        df = base_df.merge(
+            plyr_rec,
+            on=['plyr_id', 'season_id', 'week_id'],
+            how='left'
+        )
+        self._validate_data(df, "after_plyr_rec_join")
+        
+        # Join with snap counts
+        snap_cols = ['plyr_id', 'season_id', 'week_id', 'plyr_gm_off_snap_ct_pct']
+        plyr_snap = tables['plyr_gm_snap_ct'][snap_cols]
+        
+        df = df.merge(
+            plyr_snap,
+            on=['plyr_id', 'season_id', 'week_id'],
+            how='left'
+        )
+        self._validate_data(df, "after_snap_count_join")
+
+        # Join with NFL FastR WR advanced metrics
+        # Note: Columns with excessive nulls (5500+) have been removed:
+        # - plyr_gm_rec_avg_cushion, plyr_gm_rec_avg_separation, plyr_gm_rec_avg_yac,
+        # - plyr_gm_rec_avg_expected_yac, plyr_gm_rec_avg_yac_above_expectation,
+        # - plyr_gm_rec_pct_share_of_intended_ay
+        fastr_wr_cols = ['plyr_id', 'season_id', 'week_id',
+                         'plyr_gm_rec_tgt_share',
+                         'plyr_gm_rec_epa', 'plyr_gm_rec_ay_share',
+                         'plyr_gm_rec_wopr', 'plyr_gm_rec_racr']
+        nfl_fastr_wr = tables['nfl_fastr_wr'][fastr_wr_cols]
+
+        df = df.merge(
+            nfl_fastr_wr,
+            on=['plyr_id', 'season_id', 'week_id'],
+            how='left'
+        )
+        self._validate_data(df, "after_nfl_fastr_wr_join")
+
+        # Handle missing NFL FastR stats
+        df = self._handle_nfl_fastr_nulls(df)
+        self._validate_data(df, "after_nfl_fastr_null_handling")
+
+        # Join with player info (use only plyr_id since season_id format differs between tables)
+        # Retain team_id from plyr table for reference (reflects season-end team)
+        plyr_info = tables['plyr'][['plyr_id', 'plyr_guid', 'plyr_pos', 'plyr_alt_pos', 'team_id']].drop_duplicates(subset=['plyr_id'])
+        plyr_info = plyr_info.rename(columns={'team_id': 'plyr_team_id'})  # Rename to avoid confusion with game-level team_id
+
+        df = df.merge(
+            plyr_info,
+            on=['plyr_id'],
+            how='left'
+        )
+        self._validate_data(df, "after_plyr_info_join")
+        
+        # Join with player master for cross-season tracking
+        plyr_master = tables['plyr_master'][['plyr_guid']]
+        
+        df = df.merge(
+            plyr_master,
+            on=['plyr_guid'],
+            how='left'
+        )
+        self._validate_data(df, "after_plyr_master_join")
+        
+        # Join with week info (use only week_id since season_id format differs)
+        nfl_week = tables['nfl_week'][['week_id', 'week_num']].drop_duplicates(subset=['week_id'])
+        
+        df = df.merge(
+            nfl_week,
+            on=['week_id'],
+            how='left'
+        )
+        self._validate_data(df, "after_week_join")
+        
+        # Join with season info
+        nfl_season = tables['nfl_season'][['season_id', 'year']]
+
+        df = df.merge(
+            nfl_season,
+            on=['season_id'],
+            how='left'
+        )
+        self._validate_data(df, "after_season_join")
+
+        # Join with multi_tm_plyr table to track players who changed teams mid-season
+        multi_tm_cols = ['plyr_id', 'season_id', 'tm_1_id', 'tm_2_id', 'tm_3_id',
+                        'first_tm_week_start_id', 'first_tm_week_end_id',
+                        'second_tm_week_start_id', 'second_tm_week_end_id',
+                        'third_tm_week_start_id', 'third_tm_week_end_id']
+        multi_tm_plyr = tables['multi_tm_plyr'][multi_tm_cols]
+
+        df = df.merge(
+            multi_tm_plyr,
+            on=['plyr_id', 'season_id'],
+            how='left'
+        )
+        self._validate_data(df, "after_multi_tm_plyr_join")
+
+        # Create current_team_id based on which team the player was on for each week
+        df = self._compute_current_team_id(df)
+        self._validate_data(df, "after_current_team_id_computation")
+
+        # Join with nfl_game to get home/away team info for opponent calculation
+        nfl_game = tables['nfl_game'][['game_id', 'home_team_id', 'away_team_id']]
+
+        df = df.merge(
+            nfl_game,
+            on=['game_id'],
+            how='left'
+        )
+        self._validate_data(df, "after_nfl_game_join")
+
+        # Create opposing_team_id and is_home_team columns
+        # NOTE: These represent the CURRENT week's game context
+        # They will be shifted later in _align_next_game_context() to represent
+        # the NEXT week's game context for proper prediction alignment
+        df = self._compute_opposing_team_info(df)
+        self._validate_data(df, "after_opposing_team_computation")
+
+        return df
+
+    def _handle_nfl_fastr_nulls(self, df: pd.DataFrame) -> pd.DataFrame:
+        """
+        Handle missing NFL FastR stats by imputing with -999 and creating indicator variable.
+
+        Logic:
+        - If ALL NFL FastR columns are null for a row, impute with -999
+        - Create indicator variable nfl_fastr_missing_stats (1 = missing, 0 = present)
+
+        This handles cases where NFL FastR data is unavailable for certain games
+        (e.g., data collection issues, games not covered by NextGenStats).
 
         Args:
-            df: Input DataFrame with raw features
+            df: DataFrame with NFL FastR columns joined
 
         Returns:
-            DataFrame with all engineered features added
+            DataFrame with nulls imputed and indicator variable added
         """
-        logger.info("=" * 60)
-        logger.info("Starting feature engineering pipeline")
-        logger.info("=" * 60)
+        self.logger.info("Handling missing NFL FastR stats...")
 
-        initial_cols = list(df.columns)
+        # Define the NFL FastR columns to check
+        # Note: High-null columns have been removed from the dataset
+        nfl_fastr_cols = [
+            'plyr_gm_rec_tgt_share',
+            'plyr_gm_rec_epa',
+            'plyr_gm_rec_ay_share',
+            'plyr_gm_rec_wopr',
+            'plyr_gm_rec_racr'
+        ]
 
-        # Step 1: Build rolling features
-        logger.info("\nStep 1: Building rolling features...")
-        logger.info(f"Cross-season carryover: {'ENABLED' if self.cross_season_carryover else 'DISABLED'}")
-        result_df = build_rolling_features(
-            df,
-            stat_cols=self.rolling_stat_cols,
-            windows=self.rolling_windows,
-            exclude_imputed=self.exclude_imputed,
-            cross_season_carryover=self.cross_season_carryover
+        # Verify all columns exist
+        existing_cols = [col for col in nfl_fastr_cols if col in df.columns]
+        if len(existing_cols) != len(nfl_fastr_cols):
+            missing = set(nfl_fastr_cols) - set(existing_cols)
+            self.logger.warning(f"Some NFL FastR columns not found: {missing}")
+
+        # Create indicator: 1 if ALL NFL FastR columns are null, 0 otherwise
+        all_null_mask = df[existing_cols].isnull().all(axis=1)
+        df['nfl_fastr_missing_stats'] = all_null_mask.astype(int)
+
+        # Count rows with missing stats
+        missing_count = all_null_mask.sum()
+        self.logger.info(f"Found {missing_count:,} rows with missing NFL FastR stats ({missing_count/len(df)*100:.2f}%)")
+
+        # Impute null values with -999 for rows where all FastR stats are missing
+        if missing_count > 0:
+            for col in existing_cols:
+                df.loc[all_null_mask, col] = -999
+            self.logger.info(f"Imputed {missing_count:,} rows with -999 for {len(existing_cols)} NFL FastR columns")
+
+        return df
+
+    def _compute_current_team_id(self, df: pd.DataFrame) -> pd.DataFrame:
+        """
+        Compute current_team_id based on which team the player was on for each week.
+
+        For players who changed teams mid-season (present in multi_tm_plyr table),
+        determines the correct team based on week ranges. For single-team players,
+        uses the team_id from the game record.
+
+        Args:
+            df: DataFrame with multi_tm_plyr columns joined
+
+        Returns:
+            DataFrame with current_team_id column added
+        """
+        self.logger.info("Computing current_team_id column...")
+
+        # Check if player is in multi_tm_plyr (tm_1_id will be non-null)
+        is_multi_team = df['tm_1_id'].notna()
+
+        # Fill NULL end week values with 18 (season end)
+        df['first_tm_week_end_filled'] = df['first_tm_week_end_id'].fillna(18)
+        df['second_tm_week_end_filled'] = df['second_tm_week_end_id'].fillna(18)
+        df['third_tm_week_end_filled'] = df['third_tm_week_end_id'].fillna(18)
+
+        # Conditions for team assignment (for multi-team players)
+        # Team 1: week >= first_tm_week_start_id AND week <= first_tm_week_end_id
+        cond_tm1 = (
+            is_multi_team &
+            (df['week_id'] >= df['first_tm_week_start_id']) &
+            (df['week_id'] <= df['first_tm_week_end_filled'])
         )
 
-        # Step 2: Build rolling efficiency features (derived from rolling averages)
-        logger.info("\nStep 2: Building rolling efficiency features...")
-        result_df = build_rolling_efficiency_features(result_df, windows=self.rolling_windows)
+        # Team 2: week >= second_tm_week_start_id AND week <= second_tm_week_end_id
+        cond_tm2 = (
+            is_multi_team &
+            (df['week_id'] >= df['second_tm_week_start_id']) &
+            (df['week_id'] <= df['second_tm_week_end_filled'])
+        )
 
-        # Step 3: Build season cumulative efficiency features (with deprecation warning)
-        logger.info("\nStep 3: Building season cumulative efficiency features...")
-        logger.warning("NOTE: Season cumulative efficiency features (yards_per_target, etc.) "
-                      "are NOT safe for cross-season analysis. Prefer roll_Xg_yds_per_tgt instead.")
-        result_df = build_efficiency_features(result_df)
+        # Team 3: tm_3_id is not null AND week >= third_tm_week_start_id AND week <= third_tm_week_end_id
+        cond_tm3 = (
+            is_multi_team &
+            df['tm_3_id'].notna() &
+            (df['week_id'] >= df['third_tm_week_start_id']) &
+            (df['week_id'] <= df['third_tm_week_end_filled'])
+        )
 
-        # Track created features
-        self.features_created = [col for col in result_df.columns if col not in initial_cols]
+        # Single-team player (not in multi_tm_plyr): use team_id from game record
+        cond_single_team = ~is_multi_team
 
-        # Step 4: Validate no data leakage
-        if self.validate_leakage:
-            logger.info("\nStep 4: Validating data integrity...")
-            self._validate_features(result_df)
+        # Apply conditions using np.select (order matters - first match wins)
+        conditions = [cond_tm1, cond_tm2, cond_tm3, cond_single_team]
+        choices = [df['tm_1_id'], df['tm_2_id'], df['tm_3_id'], df['team_id']]
 
-        # Step 5: Generate summary
-        self._generate_summary(result_df)
+        # Default fallback to team_id from game record
+        df['current_team_id'] = np.select(conditions, choices, default=df['team_id'])
+
+        # Clean up temporary columns
+        df = df.drop(columns=['first_tm_week_end_filled', 'second_tm_week_end_filled', 'third_tm_week_end_filled'])
+
+        # Drop multi_tm_plyr intermediate columns (no longer needed)
+        multi_tm_cols_to_drop = ['tm_1_id', 'tm_2_id', 'tm_3_id',
+                                 'first_tm_week_start_id', 'first_tm_week_end_id',
+                                 'second_tm_week_start_id', 'second_tm_week_end_id',
+                                 'third_tm_week_start_id', 'third_tm_week_end_id']
+        df = df.drop(columns=multi_tm_cols_to_drop)
+
+        # Convert current_team_id to int (handle any NaN edge cases)
+        df['current_team_id'] = df['current_team_id'].astype('Int64')
+
+        multi_team_count = is_multi_team.sum()
+        self.logger.info(f"Computed current_team_id: {multi_team_count:,} rows from multi-team players")
+
+        return df
+
+    def _compute_opposing_team_info(self, df: pd.DataFrame) -> pd.DataFrame:
+        """
+        Compute opposing_team_id and is_home_team based on current_team_id and game matchup.
+
+        Uses the nfl_game table's home_team_id and away_team_id to determine:
+        - opposing_team_id: The team_id of the opponent
+        - is_home_team: 1 if player's team is home, 0 if away
+
+        NOTE: These columns represent the CURRENT week's game context.
+        They will be shifted in _align_next_game_context() to align with
+        the prediction target (next week's receiving yards).
+
+        Args:
+            df: DataFrame with current_team_id, home_team_id, and away_team_id columns
+
+        Returns:
+            DataFrame with opposing_team_id and is_home_team columns added,
+            intermediate columns (home_team_id, away_team_id) dropped
+        """
+        self.logger.info("Computing opposing_team_id and is_home_team columns...")
+
+        # Condition: current_team_id matches home_team_id
+        is_home = df['current_team_id'] == df['home_team_id']
+
+        # Compute opposing_team_id using np.where
+        # If home team: opponent is away team; otherwise opponent is home team
+        df['opposing_team_id'] = np.where(
+            is_home,
+            df['away_team_id'],
+            df['home_team_id']
+        )
+
+        # Compute is_home_team (1 if home, 0 if away)
+        df['is_home_team'] = np.where(is_home, 1, 0)
+
+        # Convert to appropriate data types
+        df['opposing_team_id'] = df['opposing_team_id'].astype('Int64')
+        df['is_home_team'] = df['is_home_team'].astype('Int64')
+
+        # Drop intermediate columns (home_team_id, away_team_id)
+        df = df.drop(columns=['home_team_id', 'away_team_id'])
+
+        home_count = df['is_home_team'].sum()
+        away_count = (df['is_home_team'] == 0).sum()
+        self.logger.info(f"Computed opposing team info: {home_count:,} home games, {away_count:,} away games")
+
+        return df
+
+    def _apply_filters(self, df: pd.DataFrame) -> pd.DataFrame:
+        """
+        Two-stage filtering approach:
+        - Stage 1: Identify eligible player-seasons (4+ games with 2+ targets)
+        - Stage 2: Include ALL games for eligible player-seasons
+
+        This preserves temporal continuity while maintaining data quality standards.
+        Per-game filters (targets, snap %) are NOT applied - only used for eligibility.
+
+        Args:
+            df: DataFrame to filter
+
+        Returns:
+            Filtered DataFrame
+        """
+        initial_rows = len(df)
+
+        # === STAGE 1: Player-Season Eligibility ===
+        print("Stage 1: Identifying eligible player-seasons...")
+        self.logger.info("Stage 1: Identifying eligible player-seasons...")
+
+        # Filter to WR position (scope definition, always applied)
+        wr_mask = (df['plyr_pos'] == 'WR') | (df['plyr_alt_pos'] == 'WR')
+        wr_df = df[wr_mask].copy()
+        total_wr_games = len(wr_df)
+        self.logger.info(f"After WR filter: {total_wr_games:,} rows ({initial_rows - total_wr_games:,} non-WR removed)")
+
+        # Count qualifying games (2+ targets) per player-season
+        qualifying_mask = wr_df['plyr_gm_rec_tgt'] >= 2
+        qualifying_games = wr_df[qualifying_mask].groupby(['plyr_id', 'season_id']).size()
+
+        # Require 4+ qualifying games for eligibility
+        eligible_pairs = qualifying_games[qualifying_games >= 4].reset_index()[['plyr_id', 'season_id']]
+
+        total_wr_player_seasons = wr_df.groupby(['plyr_id', 'season_id']).ngroups
+        print(f"  Found {len(eligible_pairs)} eligible pairs from {total_wr_player_seasons} total WR player-seasons")
+        self.logger.info(f"Found {len(eligible_pairs)} eligible (plyr_id, season_id) pairs from {total_wr_player_seasons} total WR player-seasons")
+
+        # === STAGE 2: Include All Games for Eligible Players ===
+        print("Stage 2: Including all games for eligible players...")
+        self.logger.info("Stage 2: Including all games for eligible player-seasons...")
+
+        result_df = wr_df.merge(
+            eligible_pairs,
+            on=['plyr_id', 'season_id'],
+            how='inner'
+        )
+
+        retention_pct = (len(result_df) / total_wr_games) * 100
+        print(f"  Final dataset: {len(result_df):,} rows ({retention_pct:.1f}% of all WR games retained)")
+        self.logger.info(f"Final dataset: {len(result_df):,} rows ({retention_pct:.1f}% of all WR games retained)")
+        self.logger.info(f"Total rows removed by filters: {initial_rows - len(result_df):,} ({((initial_rows - len(result_df))/initial_rows)*100:.1f}%)")
 
         return result_df
 
-    def _validate_features(self, df: pd.DataFrame):
-        """Validate features for data leakage and quality."""
-        logger.info("Validating features for data leakage...")
-
-        for feature in self.features_created:
-            if feature.startswith('has_min_games') or feature == 'game_seq_num':
-                continue
-
-            if 'next_week_rec_yds' in df.columns:
-                is_valid = validate_no_future_leakage(df, feature)
-                self.validation_results[feature] = {
-                    'no_leakage': is_valid,
-                    'null_count': df[feature].isna().sum(),
-                    'null_pct': df[feature].isna().mean() * 100
-                }
-
-        # Validate rolling windows don't include current game
-        for window in self.rolling_windows:
-            self._validate_rolling_window_exclusion(df, window)
-
-    def _validate_rolling_window_exclusion(self, df: pd.DataFrame, window: int):
+    def _align_next_game_context(self, df: pd.DataFrame) -> pd.DataFrame:
         """
-        Validate that rolling window for game N excludes game N's stats.
-
-        For a 3-game rolling window at game N, we should be averaging
-        games [N-3, N-2, N-1], NOT including game N.
-
-        With cross-season carryover enabled:
-        - First game of SEASON may have data (from prior season)
-        - First game of CAREER should still be NaN (truly new player)
-        """
-        if CROSS_SEASON_CARRYOVER_ENABLED:
-            # With carryover: check first CAREER game, not first season game
-            first_career_game_mask = df['career_game_seq_num'] == 1
-            check_mask = first_career_game_mask
-            check_description = "first career games (rookies)"
-        else:
-            # Original: check first season game
-            first_game_mask = df['game_seq_num'] == 1
-            check_mask = first_game_mask
-            check_description = "first games of season"
-
-        for col in df.columns:
-            if col.startswith(f'roll_{window}g_'):
-                first_game_values = df.loc[check_mask, col]
-                non_null_first_games = first_game_values.notna().sum()
-
-                if non_null_first_games > 0:
-                    logger.warning(
-                        f"Feature {col} has {non_null_first_games} non-null values "
-                        f"for {check_description}. This may indicate data leakage."
-                    )
-                else:
-                    logger.info(f"Feature {col} correctly has NaN for {check_description} (no prior data)")
-
-        # Additional validation: check carryover games have data
-        if CROSS_SEASON_CARRYOVER_ENABLED and 'is_season_carryover' in df.columns:
-            carryover_mask = df['is_season_carryover'] == True
-            for col in df.columns:
-                if col.startswith(f'roll_{window}g_'):
-                    carryover_values = df.loc[carryover_mask, col]
-                    carryover_with_data = carryover_values.notna().sum()
-                    carryover_total = carryover_mask.sum()
-                    if carryover_total > 0:
-                        pct_with_data = carryover_with_data / carryover_total * 100
-                        logger.info(f"Feature {col}: {pct_with_data:.1f}% of carryover games have data")
-
-    def _generate_summary(self, df: pd.DataFrame):
-        """Generate summary of feature engineering results."""
-        logger.info("\n" + "=" * 60)
-        logger.info("FEATURE ENGINEERING SUMMARY")
-        logger.info("=" * 60)
-
-        logger.info(f"\nDataset shape: {df.shape}")
-        logger.info(f"Features created: {len(self.features_created)}")
-
-        # Cross-season carryover statistics
-        if self.cross_season_carryover and 'is_season_carryover' in df.columns:
-            logger.info("\nCross-season carryover statistics:")
-            carryover_count = df['is_season_carryover'].sum()
-            total_count = len(df)
-            logger.info(f"  Rows using prior season data: {carryover_count}/{total_count} ({carryover_count/total_count*100:.1f}%)")
-
-            # Count true rookies (first career game)
-            if 'career_game_seq_num' in df.columns:
-                rookie_first_games = (df['career_game_seq_num'] == 1).sum()
-                logger.info(f"  True rookie first games (only nulls remaining): {rookie_first_games}")
-
-            # Staleness statistics
-            if 'days_since_last_game' in df.columns:
-                cross_season_games = df[df['is_season_carryover'] == True]
-                if len(cross_season_games) > 0:
-                    avg_days = cross_season_games['days_since_last_game'].mean()
-                    max_days = cross_season_games['days_since_last_game'].max()
-                    logger.info(f"  Avg days since last game (carryover rows): {avg_days:.0f} days")
-                    logger.info(f"  Max days since last game (carryover rows): {max_days:.0f} days")
-
-        logger.info("\nNew features:")
-        for feature in sorted(self.features_created):
-            if feature in df.columns:
-                null_pct = df[feature].isna().mean() * 100
-                logger.info(f"  - {feature}: {null_pct:.1f}% null")
-
-        # Rolling feature statistics
-        logger.info("\nRolling feature statistics:")
-        for window in self.rolling_windows:
-            rolling_cols = [c for c in df.columns if c.startswith(f'roll_{window}g_')]
-            if rolling_cols:
-                avg_null = df[rolling_cols].isna().mean().mean() * 100
-                logger.info(f"  {window}-game rolling: {len(rolling_cols)} features, {avg_null:.1f}% avg null rate")
-
-        # Efficiency feature statistics
-        efficiency_cols = ['season_targets_per_game', 'season_yards_per_game',
-                          'yards_per_reception', 'yards_per_target']
-        existing_eff_cols = [c for c in efficiency_cols if c in df.columns]
-        if existing_eff_cols:
-            avg_null = df[existing_eff_cols].isna().mean().mean() * 100
-            logger.info(f"  Efficiency features: {len(existing_eff_cols)} features, {avg_null:.1f}% avg null rate")
-
-        # Rolling efficiency feature statistics
-        rolling_eff_cols = [c for c in df.columns if '_yds_per_tgt' in c or '_yds_per_rec' in c or '_catch_rate' in c]
-        rolling_eff_cols = [c for c in rolling_eff_cols if c.startswith('roll_')]
-        if rolling_eff_cols:
-            avg_null = df[rolling_eff_cols].isna().mean().mean() * 100
-            logger.info(f"  Rolling efficiency features: {len(rolling_eff_cols)} features, {avg_null:.1f}% avg null rate")
-
-        logger.info("\n" + "=" * 60)
-
-    def save_dataset(
-        self,
-        df: pd.DataFrame,
-        output_path: str,
-        filename: str = None
-    ) -> str:
-        """
-        Save the feature-engineered dataset to parquet.
-
+        Shift game context columns forward to align with next-week prediction target.
+        
+        PROBLEM BEING SOLVED:
+        ====================
+        When predicting Week N+1 receiving yards, the model should know:
+        - Historical features from Week N (what they just did) - NO SHIFT NEEDED
+        - Upcoming game context for Week N+1 (who they'll face) - NEEDS SHIFT
+        
+        Currently, opposing_team_id and is_home_team represent Week N's game.
+        We need to shift them to represent Week N+1's game.
+        
+        IMPLEMENTATION:
+        ==============
+        For each player within each season:
+        - Shift game context columns backward by 1 (shift(-1) gets NEXT row's value)
+        - This means row for Week N now contains Week N+1's opponent/venue
+        - Rename columns with 'next_' prefix for clarity
+        
+        EDGE CASES:
+        ===========
+        - Last week of season: Will have NaN for next game context
+          → These rows are dropped anyway when we drop rows without next_week_rec_yds
+        - Players who change teams mid-season: Correctly handled because
+          current_team_id already accounts for team changes
+        - Bye weeks: Not an issue because we're game-indexed, not week-indexed
+        
         Args:
-            df: DataFrame with features
-            output_path: Directory to save to
-            filename: Optional filename (default: auto-generated)
-
+            df: DataFrame with opposing_team_id and is_home_team columns
+            
         Returns:
-            Full path to saved file
+            DataFrame with game context shifted to next-week alignment
         """
-        from datetime import datetime
+        self.logger.info("Aligning game context for next-week prediction...")
+        self.logger.info("  Shifting: opposing_team_id, is_home_team, game_id → next_opponent_team_id, next_is_home_game, next_game_id")
+        
+        # Sort to ensure proper temporal order for shifting
+        df = df.sort_values(['plyr_id', 'season_id', 'week_id']).reset_index(drop=True)
+        
+        # Columns that represent "upcoming game context" and need to be shifted
+        # These should contain NEXT week's information when predicting next week's yards
+        game_context_cols = {
+            'opposing_team_id': 'next_opponent_team_id',
+            'is_home_team': 'next_is_home_game',
+            'game_id': 'next_game_id'
+        }
+        
+        # Shift each game context column forward (shift -1 = get next row's value)
+        for old_col, new_col in game_context_cols.items():
+            if old_col in df.columns:
+                # Shift within each player-season group
+                df[new_col] = df.groupby(['plyr_id', 'season_id'])[old_col].shift(-1)
+                self.logger.info(f"    Created {new_col} from {old_col}")
+        
+        # Keep original columns with 'current_' prefix for reference (optional, useful for debugging)
+        # Rename original game context columns to indicate they're from current week
+        rename_map = {
+            'opposing_team_id': 'current_opponent_team_id',
+            'is_home_team': 'current_is_home_game'
+        }
+        df = df.rename(columns=rename_map)
+        
+        # Count how many rows have valid next game context
+        has_next_context = df['next_opponent_team_id'].notna().sum()
+        total_rows = len(df)
+        self.logger.info(f"  Rows with valid next game context: {has_next_context:,}/{total_rows:,} ({has_next_context/total_rows*100:.1f}%)")
+        self.logger.info(f"  Rows without next game (end of season): {total_rows - has_next_context:,}")
+        
+        return df
+    
+    def _create_next_week_target(self, df: pd.DataFrame) -> pd.DataFrame:
+        """
+        Create next week target variable with proper temporal alignment.
+        
+        This method:
+        1. Handles duplicates by aggregating stats per player-week
+        2. Creates next_week_rec_yds by shifting the target column
+        3. Removes rows without a valid target (last week of season)
+        
+        NOTE: _align_next_game_context() should be called BEFORE this method
+        to ensure game context is properly shifted.
+        
+        Args:
+            df: DataFrame with current week features and shifted game context
+            
+        Returns:
+            DataFrame with next week targets aligned
+        """
+        self.logger.info("Creating next week target variable...")
+        
+        # First, handle duplicates by taking the mean of stats per player-week
+        # This handles cases where players appear multiple times per week (e.g., multiple games)
+        agg_dict = {}
+        
+        # Columns to preserve with 'first' aggregation (ID and categorical columns)
+        # Updated to include new column naming convention
+        preserve_cols = [
+            'plyr_id', 'season_id', 'week_id', 'plyr_guid', 'plyr_pos', 'plyr_alt_pos',
+            'week_num', 'year', 'game_id', 'team_id', 'plyr_team_id', 'current_team_id',
+            # Current week context (kept for reference/debugging)
+            'current_opponent_team_id', 'current_is_home_game',
+            # Next week context (aligned with prediction target)
+            'next_opponent_team_id', 'next_is_home_game', 'next_game_id'
+        ]
+        
+        for col in df.columns:
+            if col in preserve_cols:
+                agg_dict[col] = 'first'
+            else:
+                # Use mean for numeric stats, first for text
+                if df[col].dtype in ['int64', 'float64', 'Int64', 'Float64']:
+                    agg_dict[col] = 'mean'
+                else:
+                    agg_dict[col] = 'first'
+        
+        df = df.groupby(['plyr_id', 'season_id', 'week_id']).agg(agg_dict).reset_index(drop=True)
+        self.logger.info(f"After deduplication: {len(df):,} rows")
+        
+        # Sort by temporal order to ensure proper alignment
+        df = df.sort_values(['season_id', 'week_id', 'plyr_id']).reset_index(drop=True)
+        
+        # Create next week target by shifting target within each player's season
+        df['next_week_rec_yds'] = df.groupby(['plyr_id', 'season_id'])['plyr_gm_rec_yds'].shift(-1)
+        
+        # Remove rows without next week target (last week of each player's season)
+        rows_before = len(df)
+        df = df.dropna(subset=['next_week_rec_yds'])
+        rows_dropped = rows_before - len(df)
+        self.logger.info(f"Dropped {rows_dropped:,} rows without next week target (end of season)")
+        
+        # Also drop rows without next game context (should be same rows, but verify)
+        if 'next_opponent_team_id' in df.columns:
+            context_nulls = df['next_opponent_team_id'].isna().sum()
+            if context_nulls > 0:
+                self.logger.warning(f"Found {context_nulls} rows with target but missing next game context - dropping")
+                df = df.dropna(subset=['next_opponent_team_id'])
+        
+        # Validate temporal integrity
+        self._validate_temporal_integrity(df)
+        
+        self.logger.info(f"Created next week targets: {len(df):,} training samples")
+        
+        return df
+    
+    def _validate_temporal_integrity(self, df: pd.DataFrame):
+        """
+        Validate that no future data leakage exists.
+        
+        Checks:
+        1. Week ordering is correct within each player-season
+        2. Next game context columns align with target
+        3. No statistical features from future weeks
+        
+        Args:
+            df: DataFrame to validate
+        """
+        self.logger.info("Validating temporal integrity...")
+        
+        # Check 1: Verify sequential week alignment within each player's season
+        df_sorted = df.sort_values(['plyr_id', 'season_id', 'week_id'])
+        
+        if len(df_sorted) > 0:
+            sample_check = df_sorted.groupby(['plyr_id', 'season_id']).apply(
+                lambda x: (x['week_id'].diff().fillna(0) >= 0).all() if len(x) > 1 else True
+            ).all()
+        else:
+            sample_check = True
+        
+        if not sample_check:
+            self.logger.warning("Temporal integrity check found potential issues with week ordering")
+        else:
+            self.logger.info("  Week ordering validated successfully")
+        
+        # Check 2: Verify game context alignment
+        # The next_opponent_team_id should differ from current_opponent_team_id for most rows
+        # (same opponent would only happen in rare back-to-back divisional games)
+        if 'next_opponent_team_id' in df.columns and 'current_opponent_team_id' in df.columns:
+            same_opponent = (df['next_opponent_team_id'] == df['current_opponent_team_id']).sum()
+            same_opponent_pct = same_opponent / len(df) * 100
+            self.logger.info(f"  Same opponent in consecutive weeks: {same_opponent:,} ({same_opponent_pct:.1f}%)")
+            
+            if same_opponent_pct > 10:  # Arbitrary threshold - back-to-back same opponent is rare
+                self.logger.warning(f"  High rate of same consecutive opponents - verify shift logic")
+        
+        self.logger.info("Temporal integrity validation complete")
+    
+    def _finalize_dataset(self, df: pd.DataFrame) -> pd.DataFrame:
+        """
+        Final dataset preparation and column organization.
+        
+        Organizes columns into logical groups:
+        1. Identifiers (player, season, week)
+        2. Target variable
+        3. Next game context (aligned with target)
+        4. Current week performance (historical features)
+        5. Season cumulative stats (historical features)
+        
+        Args:
+            df: DataFrame to finalize
+            
+        Returns:
+            Final dataset ready for training
+        """
+        self.logger.info("Finalizing dataset...")
 
-        output_dir = Path(output_path)
-        output_dir.mkdir(parents=True, exist_ok=True)
+        # Define column order for better organization
+        id_cols = [
+            'plyr_id', 'plyr_guid', 'season_id', 'week_id', 'year', 'week_num',
+            'game_id', 'team_id', 'plyr_team_id', 'current_team_id'
+        ]
+        
+        target_col = ['next_week_rec_yds']
+        
+        # Next game context (aligned with prediction target)
+        next_game_context_cols = [
+            'next_opponent_team_id', 'next_is_home_game', 'next_game_id'
+        ]
+        
+        # Current week context (kept for reference, can be dropped if not needed)
+        current_game_context_cols = [
+            'current_opponent_team_id', 'current_is_home_game'
+        ]
 
-        if filename is None:
-            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            filename = f"nfl_wr_features_rolling_{timestamp}.parquet"
+        # Current week target (the performance we're predicting FROM)
+        current_week_target = ['plyr_gm_rec_yds'] if 'plyr_gm_rec_yds' in df.columns else []
 
-        output_file = output_dir / filename
-
+        # All other columns are features
+        all_special_cols = (id_cols + target_col + next_game_context_cols + 
+                          current_game_context_cols + current_week_target + 
+                          ['plyr_pos', 'plyr_alt_pos'])
+        feature_cols = [col for col in df.columns if col not in all_special_cols]
+        
+        # Reorder columns: IDs → Target → Next Game Context → Current Performance → Features
+        final_cols = (id_cols + target_col + next_game_context_cols + 
+                     current_game_context_cols + current_week_target + feature_cols)
+        available_cols = [col for col in final_cols if col in df.columns]
+        df = df[available_cols]
+        
+        # Sort by temporal order for final output
+        df = df.sort_values(['season_id', 'week_id', 'plyr_id']).reset_index(drop=True)
+        
+        # Log column organization
+        self.logger.info(f"Column organization:")
+        self.logger.info(f"  ID columns: {len([c for c in id_cols if c in df.columns])}")
+        self.logger.info(f"  Target column: {target_col}")
+        self.logger.info(f"  Next game context: {[c for c in next_game_context_cols if c in df.columns]}")
+        self.logger.info(f"  Feature columns: {len(feature_cols)}")
+        
+        # Final validation
+        self._validate_data(df, "final_dataset", 
+                           required_columns=['plyr_id', 'next_week_rec_yds', 'next_opponent_team_id'])
+        
+        return df
+    
+    def save_dataset(self, df: pd.DataFrame) -> str:
+        """
+        Save the final dataset to parquet file.
+        
+        Args:
+            df: DataFrame to save
+            
+        Returns:
+            Path to saved file
+        """
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        filename = f"nfl_wr_receiving_yards_dataset_{timestamp}.parquet"
+        output_file = self.output_path / filename
+        
+        self.logger.info(f"Saving dataset to: {output_file}")
+        
+        # Save with compression
         df.to_parquet(output_file, compression='snappy', index=False)
-        logger.info(f"Dataset saved to: {output_file}")
-
+        
+        # Save metadata
+        metadata = {
+            'created_at': timestamp,
+            'total_rows': len(df),
+            'total_columns': len(df.columns),
+            'date_range': {
+                'min_year': int(df['year'].min()),
+                'max_year': int(df['year'].max()),
+                'min_week': int(df['week_num'].min()),
+                'max_week': int(df['week_num'].max())
+            },
+            'unique_players': int(df['plyr_id'].nunique()),
+            'validation_results': self.validation_results,
+            'temporal_alignment': {
+                'target': 'next_week_rec_yds (Week N+1 receiving yards)',
+                'historical_features': 'plyr_gm_rec_*, plyr_rec_* (from Week N)',
+                'next_game_context': 'next_opponent_team_id, next_is_home_game (Week N+1 matchup)'
+            }
+        }
+        
+        metadata_file = self.output_path / f"dataset_metadata_{timestamp}.yaml"
+        with open(metadata_file, 'w') as f:
+            yaml.dump(metadata, f, default_flow_style=False)
+        
+        self.logger.info(f"Dataset saved successfully: {len(df):,} rows, {len(df.columns)} columns")
+        self.logger.info(f"Metadata saved to: {metadata_file}")
+        
         return str(output_file)
-
-    def get_feature_documentation(self) -> Dict:
+    
+    def build_dataset(self) -> str:
         """
-        Generate documentation for all created features.
-
+        Main method to build the complete dataset.
+        
+        Pipeline:
+        1. Load base tables
+        2. Create temporal joins
+        3. Apply filters (WR position, eligibility criteria)
+        4. Align next game context (shift opponent/venue to match prediction target)
+        5. Create next week target variable
+        6. Finalize dataset (organize columns, validate)
+        7. Save dataset
+        
         Returns:
-            Dictionary with feature documentation
+            Path to saved dataset file
         """
-        docs = {
-            'rolling_features': {},
-            'efficiency_features': {},
-            'metadata_features': {}
-        }
-
-        # Rolling feature documentation
-        for stat_col, config in ROLLING_FEATURE_CONFIGS.items():
-            for window in self.rolling_windows:
-                feature_name = f"roll_{window}g_{stat_col.replace('plyr_gm_rec_', '').replace('plyr_gm_', '')}"
-                docs['rolling_features'][feature_name] = {
-                    'description': f"{window}-game rolling average of {config['description']}",
-                    'source_column': stat_col,
-                    'window_size': window,
-                    'min_games_required': MIN_GAMES_FOR_VALID_ROLLING.get(window, window - 1),
-                    'handles_imputation': config.get('has_imputation', False),
-                    'priority': config.get('priority', 4)
-                }
-
-        # Efficiency feature documentation
-        docs['efficiency_features'] = {
-            'season_targets_per_game': {
-                'description': 'Season-to-date targets normalized by games played',
-                'formula': 'plyr_rec_tgt / plyr_rec_gm',
-                'handles_division_by_zero': True,
-                'handles_imputation': True
-            },
-            'season_yards_per_game': {
-                'description': 'Season-to-date receiving yards normalized by games played',
-                'formula': 'plyr_rec_yds / plyr_rec_gm',
-                'handles_division_by_zero': True,
-                'handles_imputation': True
-            },
-            'yards_per_reception': {
-                'description': 'Average yards gained per reception (big-play indicator)',
-                'formula': 'plyr_rec_yds / plyr_rec',
-                'handles_division_by_zero': True,
-                'handles_imputation': True
-            },
-            'yards_per_target': {
-                'description': 'Average yards gained per target (overall efficiency)',
-                'formula': 'plyr_rec_yds / plyr_rec_tgt',
-                'handles_division_by_zero': True,
-                'handles_imputation': True
-            }
-        }
-
-        # Rolling efficiency feature documentation
-        docs['rolling_efficiency_features'] = {}
-        for window in self.rolling_windows:
-            prefix = f'roll_{window}g'
-            docs['rolling_efficiency_features'][f'{prefix}_yds_per_tgt'] = {
-                'description': f'{window}-game rolling yards per target (cross-season safe)',
-                'formula': f'{prefix}_yds / {prefix}_tgt',
-                'handles_division_by_zero': True,
-                'cross_season_safe': True,
-            }
-            docs['rolling_efficiency_features'][f'{prefix}_yds_per_rec'] = {
-                'description': f'{window}-game rolling yards per reception (cross-season safe)',
-                'formula': f'{prefix}_yds / {prefix}_rec',
-                'handles_division_by_zero': True,
-                'cross_season_safe': True,
-            }
-            docs['rolling_efficiency_features'][f'{prefix}_catch_rate'] = {
-                'description': f'{window}-game rolling catch rate (cross-season safe)',
-                'formula': f'{prefix}_rec / {prefix}_tgt',
-                'handles_division_by_zero': True,
-                'cross_season_safe': True,
-            }
-
-        # Metadata features
-        docs['metadata_features'] = {
-            'game_seq_num': {
-                'description': 'Game sequence number within player-season (1-indexed)',
-                'use_case': 'Track player game count within current season'
-            },
-            'career_game_seq_num': {
-                'description': 'Game sequence number across all seasons (1-indexed)',
-                'use_case': 'Track total career games, identify true rookies'
-            },
-            'days_since_last_game': {
-                'description': 'Approximate days elapsed since player last game',
-                'use_case': 'Measure staleness of rolling data, especially for cross-season carryover'
-            },
-            'is_season_carryover': {
-                'description': 'Boolean indicating rolling features use prior season data',
-                'use_case': 'Flag stale data for model to potentially discount'
-            },
-            'has_min_games_3g': {
-                'description': 'Boolean indicating player has enough history for stable 3-game rolling average',
-                'threshold': f'>= {MIN_GAMES_FOR_VALID_ROLLING[3]} prior games (career-wide with carryover)'
-            },
-            'has_min_games_5g': {
-                'description': 'Boolean indicating player has enough history for stable 5-game rolling average',
-                'threshold': f'>= {MIN_GAMES_FOR_VALID_ROLLING[5]} prior games (career-wide with carryover)'
-            }
-        }
-
-        return docs
+        self.logger.info("Starting NFL receiving yards dataset build...")
+        self.logger.info("=" * 60)
+        
+        try:
+            # Step 1: Load base tables
+            self.logger.info("Step 1: Loading base tables...")
+            tables = self.load_base_tables()
+            
+            # Step 2: Create temporal joins
+            self.logger.info("Step 2: Creating temporal joins...")
+            df = self._create_temporal_joins(tables)
+            
+            # Step 3: Apply filters
+            self.logger.info("Step 3: Applying filters...")
+            df = self._apply_filters(df)
+            
+            # Step 4: Align next game context (NEW STEP)
+            self.logger.info("Step 4: Aligning next game context...")
+            df = self._align_next_game_context(df)
+            
+            # Step 5: Create next week target variable
+            self.logger.info("Step 5: Creating next week target variable...")
+            df = self._create_next_week_target(df)
+            
+            # Step 6: Finalize dataset
+            self.logger.info("Step 6: Finalizing dataset...")
+            df = self._finalize_dataset(df)
+            
+            # Step 7: Save dataset
+            self.logger.info("Step 7: Saving dataset...")
+            output_file = self.save_dataset(df)
+            
+            self.logger.info("=" * 60)
+            self.logger.info("Dataset build completed successfully!")
+            return output_file
+            
+        except Exception as e:
+            self.logger.error(f"Dataset build failed: {e}")
+            raise
 
 
-# =============================================================================
-# CONVENIENCE FUNCTION
-# =============================================================================
-
-def build_all_basic_features(
-    df: pd.DataFrame,
-    output_path: str = None,
-    save: bool = True
-) -> Tuple[pd.DataFrame, Dict]:
-    """
-    Convenience function to build all basic features in one call.
-
-    This is the main entry point for the feature engineering pipeline.
-
-    Args:
-        df: Input DataFrame with raw features
-        output_path: Path to save output (optional if save=False)
-        save: Whether to save the output dataset
-
-    Returns:
-        Tuple of (feature-engineered DataFrame, feature documentation)
-    """
-    builder = RollingFeatureBuilder()
-    result_df = builder.build_features(df)
-
-    if save and output_path:
-        builder.save_dataset(result_df, output_path)
-
-    documentation = builder.get_feature_documentation()
-
-    return result_df, documentation
-
-
-# =============================================================================
-# MAIN EXECUTION
-# =============================================================================
-
-if __name__ == "__main__":
-    # Example usage and validation
-    import sys
-    from pathlib import Path
-
-    # Get project root
-    project_root = Path(__file__).parent.parent.parent
-
-    # Load dataset
-    data_path = project_root / "data" / "processed"
-
-    # Find most recent dataset
-    parquet_files = list(data_path.glob("nfl_wr_receiving_yards_dataset_*.parquet"))
-    if not parquet_files:
-        print("No dataset found. Please run build_dataset.py first.")
+def main():
+    """Main entry point for dataset building."""
+    try:
+        # Initialize builder
+        builder = NFLDatasetBuilder()
+        
+        # Build dataset
+        output_file = builder.build_dataset()
+        
+        print(f"\nDataset build completed successfully!")
+        print(f"Output file: {output_file}")
+        print(f"Logs saved to: {builder.output_path}")
+        
+    except Exception as e:
+        print(f"Dataset build failed: {e}")
         sys.exit(1)
 
-    latest_file = max(parquet_files, key=lambda x: x.stat().st_mtime)
-    print(f"Loading dataset: {latest_file}")
 
-    df = pd.read_parquet(latest_file)
-    print(f"Loaded {len(df):,} rows, {len(df.columns)} columns")
-
-    # Build features
-    builder = RollingFeatureBuilder()
-    result_df = builder.build_features(df)
-
-    # Save result
-    output_file = builder.save_dataset(result_df, str(data_path))
-    print(f"\nFeature-engineered dataset saved to: {output_file}")
-
-    # Print feature documentation
-    docs = builder.get_feature_documentation()
-    print("\n" + "=" * 60)
-    print("FEATURE DOCUMENTATION")
-    print("=" * 60)
-
-    print("\nRolling Features:")
-    for name, info in docs['rolling_features'].items():
-        print(f"  {name}:")
-        print(f"    Description: {info['description']}")
-        print(f"    Min games required: {info['min_games_required']}")
-
-    print("\nEfficiency Features:")
-    for name, info in docs['efficiency_features'].items():
-        print(f"  {name}:")
-        print(f"    Description: {info['description']}")
-        print(f"    Formula: {info['formula']}")
+if __name__ == "__main__":
+    main()

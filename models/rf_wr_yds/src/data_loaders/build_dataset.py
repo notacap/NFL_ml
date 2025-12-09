@@ -579,43 +579,58 @@ class NFLDatasetBuilder:
 
     def _apply_filters(self, df: pd.DataFrame) -> pd.DataFrame:
         """
-        Apply all required filters to the dataset.
-        
+        Two-stage filtering approach:
+        - Stage 1: Identify eligible player-seasons (4+ games with 2+ targets)
+        - Stage 2: Include ALL games for eligible player-seasons
+
+        This preserves temporal continuity while maintaining data quality standards.
+        Per-game filters (targets, snap %) are NOT applied - only used for eligibility.
+
         Args:
             df: DataFrame to filter
-            
+
         Returns:
             Filtered DataFrame
         """
-        self.logger.info("Applying filters...")
         initial_rows = len(df)
-        
-        # Filter 1: Wide receivers only
-        wr_filter = (df['plyr_pos'] == 'WR') | (df['plyr_alt_pos'] == 'WR')
-        df = df[wr_filter]
-        self.logger.info(f"After WR filter: {len(df):,} rows ({initial_rows - len(df):,} removed)")
-        
-        # Filter 2: Minimum targets per game
-        df = df[df['plyr_gm_rec_tgt'] >= 3]
-        after_targets = len(df)
-        self.logger.info(f"After targets filter (>=3): {after_targets:,} rows ({initial_rows - after_targets:,} removed)")
-        
-        # Filter 3: Minimum snap count percentage
-        df = df[df['plyr_gm_off_snap_ct_pct'] >= 0.50]
-        after_snaps = len(df)
-        self.logger.info(f"After snap count filter (>=50%): {after_snaps:,} rows ({after_targets - after_snaps:,} removed)")
-        
-        # Filter 4: Minimum games in season (4+ games with 3+ targets)
-        games_per_player_season = df.groupby(['plyr_id', 'season_id']).size().reset_index(name='games_count')
-        valid_players = games_per_player_season[games_per_player_season['games_count'] >= 4][['plyr_id', 'season_id']]
-        
-        df = df.merge(valid_players, on=['plyr_id', 'season_id'], how='inner')
-        final_rows = len(df)
-        self.logger.info(f"After minimum games filter (>=4): {final_rows:,} rows ({after_snaps - final_rows:,} removed)")
-        
-        self.logger.info(f"Total rows removed by filters: {initial_rows - final_rows:,} ({((initial_rows - final_rows)/initial_rows)*100:.1f}%)")
-        
-        return df
+
+        # === STAGE 1: Player-Season Eligibility ===
+        print("Stage 1: Identifying eligible player-seasons...")
+        self.logger.info("Stage 1: Identifying eligible player-seasons...")
+
+        # Filter to WR position (scope definition, always applied)
+        wr_mask = (df['plyr_pos'] == 'WR') | (df['plyr_alt_pos'] == 'WR')
+        wr_df = df[wr_mask].copy()
+        total_wr_games = len(wr_df)
+        self.logger.info(f"After WR filter: {total_wr_games:,} rows ({initial_rows - total_wr_games:,} non-WR removed)")
+
+        # Count qualifying games (2+ targets) per player-season
+        qualifying_mask = wr_df['plyr_gm_rec_tgt'] >= 2
+        qualifying_games = wr_df[qualifying_mask].groupby(['plyr_id', 'season_id']).size()
+
+        # Require 4+ qualifying games for eligibility
+        eligible_pairs = qualifying_games[qualifying_games >= 4].reset_index()[['plyr_id', 'season_id']]
+
+        total_wr_player_seasons = wr_df.groupby(['plyr_id', 'season_id']).ngroups
+        print(f"  Found {len(eligible_pairs)} eligible pairs from {total_wr_player_seasons} total WR player-seasons")
+        self.logger.info(f"Found {len(eligible_pairs)} eligible (plyr_id, season_id) pairs from {total_wr_player_seasons} total WR player-seasons")
+
+        # === STAGE 2: Include All Games for Eligible Players ===
+        print("Stage 2: Including all games for eligible players...")
+        self.logger.info("Stage 2: Including all games for eligible player-seasons...")
+
+        result_df = wr_df.merge(
+            eligible_pairs,
+            on=['plyr_id', 'season_id'],
+            how='inner'
+        )
+
+        retention_pct = (len(result_df) / total_wr_games) * 100
+        print(f"  Final dataset: {len(result_df):,} rows ({retention_pct:.1f}% of all WR games retained)")
+        self.logger.info(f"Final dataset: {len(result_df):,} rows ({retention_pct:.1f}% of all WR games retained)")
+        self.logger.info(f"Total rows removed by filters: {initial_rows - len(result_df):,} ({((initial_rows - len(result_df))/initial_rows)*100:.1f}%)")
+
+        return result_df
     
     def _create_next_week_target(self, df: pd.DataFrame) -> pd.DataFrame:
         """

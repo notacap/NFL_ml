@@ -1,12 +1,12 @@
-created_at: '20251206_194239'
+created_at: '20251208_202513'
 date_range:
   max_week: 17
   max_year: 2025
   min_week: 1
   min_year: 2022
 total_columns: 71
-total_rows: 3891
-unique_players: 504
+total_rows: 6715
+unique_players: 736
 validation_results:
   after_current_team_id_computation:
     columns: 70
@@ -968,7 +968,7 @@ validation_results:
       next_week_rec_yds: 0
       nfl_fastr_missing_stats: 0
       opposing_team_id: 0
-      plyr_gm_off_snap_ct_pct: 0
+      plyr_gm_off_snap_ct_pct: 4
       plyr_gm_rec: 0
       plyr_gm_rec_adot: 0
       plyr_gm_rec_ay_share: 0
@@ -1032,7 +1032,7 @@ validation_results:
       week_id: 0
       week_num: 0
       year: 0
-    rows: 3891
+    rows: 6715
   load_multi_tm_plyr:
     columns: 16
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
