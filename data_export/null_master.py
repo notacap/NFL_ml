@@ -92,6 +92,7 @@ UNPROCESSED_TABLES = {
     'tm_gm_exp_pts': 'tm_gm/tm_gm_exp_pts',
 
     # Team season cumulative
+    'tm_def_plyr_agg': 'tm_szn/tm_def_plyr_agg',
     'tm_def_rush': 'tm_szn/tm_def_rush',
     'tm_def_dr_against_avg': 'tm_szn/tm_def_dr_against_avg',
     'tm_def_vs_qb': 'tm_szn/tm_def_vs_qb',

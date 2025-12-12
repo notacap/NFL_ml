@@ -669,6 +669,10 @@ class NFLDatasetBuilder:
         
         # Create next week target by shifting target within each player's season
         df['next_week_rec_yds'] = df.groupby(['plyr_id', 'season_id'])['plyr_gm_rec_yds'].shift(-1)
+
+        # Create next week opponent and home/away status
+        df['next_opponent_team_id'] = df.groupby(['plyr_id', 'season_id'])['opposing_team_id'].shift(-1)
+        df['next_is_home_team'] = df.groupby(['plyr_id', 'season_id'])['is_home_team'].shift(-1)
         
         # Remove rows without next week target (last week of each player's season)
         df = df.dropna(subset=['next_week_rec_yds'])
@@ -723,20 +727,21 @@ class NFLDatasetBuilder:
 
         # Define column order for better organization
         # Include game_id, team_id (from game record), plyr_team_id (season-end team), current_team_id,
-        # opposing_team_id, and is_home_team
+        # opposing_team_id, is_home_team, and next-week context columns
         id_cols = ['plyr_id', 'plyr_guid', 'season_id', 'week_id', 'year', 'week_num',
                    'game_id', 'team_id', 'plyr_team_id', 'current_team_id',
                    'opposing_team_id', 'is_home_team']
+        next_week_context_cols = ['next_opponent_team_id', 'next_is_home_team']
         target_col = ['next_week_rec_yds']
 
         # Check if current week target column exists (might have been lost in aggregation)
         current_week_target = ['plyr_gm_rec_yds'] if 'plyr_gm_rec_yds' in df.columns else []
 
-        feature_cols = [col for col in df.columns if col not in id_cols + target_col + current_week_target +
+        feature_cols = [col for col in df.columns if col not in id_cols + next_week_context_cols + target_col + current_week_target +
                        ['plyr_pos', 'plyr_alt_pos']]
-        
+
         # Reorder columns
-        final_cols = id_cols + target_col + current_week_target + feature_cols
+        final_cols = id_cols + next_week_context_cols + target_col + current_week_target + feature_cols
         available_cols = [col for col in final_cols if col in df.columns]
         df = df[available_cols]
         
