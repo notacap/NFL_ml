@@ -21,5 +21,6 @@ Future loaders to be added:
 # etc.
 
 from .nfl_fastr_wr_loader import NFLFastrWRLoader
+from .tm_def_plyr_agg_loader import TeamDefenseLoader
 
-__all__ = ['NFLFastrWRLoader']
+__all__ = ['NFLFastrWRLoader', 'TeamDefenseLoader']
