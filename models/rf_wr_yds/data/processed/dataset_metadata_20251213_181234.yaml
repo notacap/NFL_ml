@@ -1,10 +1,10 @@
-created_at: '20251206_205649'
+created_at: '20251213_181234'
 date_range:
   max_week: 17
   max_year: 2025
   min_week: 1
   min_year: 2022
-total_columns: 71
+total_columns: 73
 total_rows: 6715
 unique_players: 736
 validation_results:
@@ -955,7 +955,7 @@ validation_results:
       week_id: 0
     rows: 15583
   final_dataset:
-    columns: 71
+    columns: 73
     duplicates: !!python/object/apply:numpy._core.multiarray.scalar
     - *id001
     - !!binary |
@@ -965,6 +965,8 @@ validation_results:
       current_team_id: 0
       game_id: 0
       is_home_team: 0
+      next_is_home_team: 0
+      next_opponent_team_id: 0
       next_week_rec_yds: 0
       nfl_fastr_missing_stats: 0
       opposing_team_id: 0

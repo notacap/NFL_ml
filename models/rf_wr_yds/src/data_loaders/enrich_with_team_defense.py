@@ -57,6 +57,14 @@ class TeamDefenseEnricher:
         self.processed_path = project_root / self.paths_config["data"]["processed"]
         self.processed_path.mkdir(parents=True, exist_ok=True)
 
+        # Set up subdirectory paths
+        self.parquet_path = self.processed_path / "parquet"
+        self.yaml_path = self.processed_path / "yaml"
+        self.logs_path = self.processed_path / "logs"
+        self.parquet_path.mkdir(parents=True, exist_ok=True)
+        self.yaml_path.mkdir(parents=True, exist_ok=True)
+        self.logs_path.mkdir(parents=True, exist_ok=True)
+
         # Set up logging
         self._setup_logging()
 
@@ -77,7 +85,7 @@ class TeamDefenseEnricher:
             format=log_format,
             handlers=[
                 logging.FileHandler(
-                    self.processed_path / f'enrich_team_defense_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'
+                    self.logs_path / f'enrich_team_defense_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'
                 ),
                 logging.StreamHandler(sys.stdout)
             ]
@@ -92,7 +100,7 @@ class TeamDefenseEnricher:
         Returns:
             Path to the latest base dataset parquet file
         """
-        pattern = str(self.processed_path / "nfl_wr_receiving_yards_dataset_*.parquet")
+        pattern = str(self.parquet_path / "nfl_wr_receiving_yards_dataset_*.parquet")
         files = glob.glob(pattern)
 
         if not files:
@@ -255,7 +263,7 @@ class TeamDefenseEnricher:
         """
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         filename = f"nfl_wr_receiving_yards_with_team_def_{timestamp}.parquet"
-        output_file = self.processed_path / filename
+        output_file = self.parquet_path / filename
 
         self.logger.info(f"Saving enriched dataset to: {output_file}")
 
@@ -282,7 +290,7 @@ class TeamDefenseEnricher:
             ]
         }
 
-        metadata_file = self.processed_path / f"enriched_metadata_{timestamp}.yaml"
+        metadata_file = self.yaml_path / f"enriched_metadata_{timestamp}.yaml"
         with open(metadata_file, 'w') as f:
             yaml.dump(metadata, f, default_flow_style=False)
 

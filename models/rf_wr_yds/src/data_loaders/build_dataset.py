@@ -50,6 +50,14 @@ class NFLDatasetBuilder:
         self.base_data_path = Path(self.paths_config["data"]["source"])
         self.output_path = project_root / self.paths_config["data"]["processed"]
         self.output_path.mkdir(parents=True, exist_ok=True)
+
+        # Set up subdirectory paths
+        self.parquet_path = self.output_path / "parquet"
+        self.yaml_path = self.output_path / "yaml"
+        self.logs_path = self.output_path / "logs"
+        self.parquet_path.mkdir(parents=True, exist_ok=True)
+        self.yaml_path.mkdir(parents=True, exist_ok=True)
+        self.logs_path.mkdir(parents=True, exist_ok=True)
         
         # Set up logging
         self._setup_logging()
@@ -73,7 +81,7 @@ class NFLDatasetBuilder:
             level=logging.INFO,
             format=log_format,
             handlers=[
-                logging.FileHandler(self.output_path / f'dataset_build_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'),
+                logging.FileHandler(self.logs_path / f'dataset_build_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'),
                 logging.StreamHandler(sys.stdout)
             ]
         )
@@ -765,13 +773,13 @@ class NFLDatasetBuilder:
         """
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         filename = f"nfl_wr_receiving_yards_dataset_{timestamp}.parquet"
-        output_file = self.output_path / filename
-        
+        output_file = self.parquet_path / filename
+
         self.logger.info(f"Saving dataset to: {output_file}")
-        
+
         # Save with compression
         df.to_parquet(output_file, compression='snappy', index=False)
-        
+
         # Save metadata
         metadata = {
             'created_at': timestamp,
@@ -786,8 +794,8 @@ class NFLDatasetBuilder:
             'unique_players': int(df['plyr_id'].nunique()),
             'validation_results': self.validation_results
         }
-        
-        metadata_file = self.output_path / f"dataset_metadata_{timestamp}.yaml"
+
+        metadata_file = self.yaml_path / f"dataset_metadata_{timestamp}.yaml"
         with open(metadata_file, 'w') as f:
             yaml.dump(metadata, f, default_flow_style=False)
         
